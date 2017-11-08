@@ -26,7 +26,7 @@ Data.gov is primarily a federal open government data site. However, state, local
 
 **Background**
 
-From 2009-2013, agency updates to the Data.gov catalog were not automated. Federal agencies submitted metadata for individual datasets to Data.gov through a central Dataset Management System (DMS). At present, pursuant to the Federal [Open Data Policy](https://project-open-data.cio.gov/policy-memo/) discussed in more detail below, all metadata is added to Data.gov through the federated “harvest” model.</p>
+From 2009-2013, agency updates to the Data.gov catalog were not automated. Federal agencies submitted metadata for individual datasets to Data.gov through a central Dataset Management System (DMS). At present, pursuant to the Federal [Open Data Policy](https://project-open-data.cio.gov/policy-memo/) discussed in more detail below, all metadata is added to Data.gov through the federated “harvest” model.
 
 **Dataset Updates**
 Additions, updates, and deletions occur through a _Harvest Source_ rather than within Data.gov directly. Data.gov synchronizes those changes through a daily _Harvest Job_.
@@ -111,25 +111,25 @@ For agencies that provide geospatial data to GeoPlatform.gov and Data.gov, the f
     All CFO-Act agencies must provide an Enterprise Data Inventory in accordance with the Project Open Data metadata schema (see _Federal Data with Project Open Data above_). This includes geospatial **_and_** non-spatial data.
     **Required: Enterprise Data Inventory provided to OMB MAX**
 
-1.  **Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_To be successfully harvested by GeoPlatform.gov and Data.gov, all geospatial data should be provided via one [Catalog Service for the Web (CSW)](https://www.geoplatform.gov/csw-resources) endpoint.Required: A CSW endpoint, e.g.: [_https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities_](https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities)
+1.  **Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ To be successfully harvested by GeoPlatform.gov and Data.gov, all geospatial data should be provided via one [Catalog Service for the Web (CSW)](https://www.geoplatform.gov/csw-resources) endpoint.Required: A CSW endpoint, e.g.: [_https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities_](https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities)
 
-1.  **Data without a Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ Lastly, to prevent duplication on Data.gov, all agencies that provide a CSW geospatial harvest source to GeoPlatform.gov and Data.gov should create an additional JSON file (called /_data-nonspatial-harvest.json) _to include all datasets that are **not** available via the consolidated Geospatial Harvest Source.**Required:** Datasets without a Geospatial Harvest Source for the Public Data Listing at: _https://________.gov/data-nonspatial-harvest.json_
+1.  **Data without a Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ Lastly, to prevent duplication on Data.gov, all agencies that provide a CSW geospatial harvest source to GeoPlatform.gov and Data.gov should create an additional JSON file (called /_data-nonspatial-harvest.json)_ to include all datasets that are **not** available via the consolidated Geospatial Harvest Source.**Required:** Datasets without a Geospatial Harvest Source for the Public Data Listing at: _https://________.gov/data-nonspatial-harvest.json
 
 **Datasets Displayed on GeoPlatform.gov**
 
 All datasets included in the CSW will be displayed on GeoPlatform.gov. Datasets included in data-nonspatial-harvest.json will only be displayed on Data.gov, but not GeoPlatform.gov unless the datasets are specially tagged for inclusion there.
 
-If an agency has a geospatial dataset in the data-nonspatial-harvest.json that should be part of GeoPlatform.gov, but is not included in the CSW harvest source, or if an agency has geospatial holdings and is only able to provide a data.json file and not the CSW, it should denote the geospatial dataset using “geospatial” as a value within the “theme” field. For example:_ “theme”: [“geospatial”]_
+If an agency has a geospatial dataset in the data-nonspatial-harvest.json that should be part of GeoPlatform.gov, but is not included in the CSW harvest source, or if an agency has geospatial holdings and is only able to provide a data.json file and not the CSW, it should denote the geospatial dataset using “geospatial” as a value within the “theme” field. For example: _“theme”: [“geospatial”]_
 
 ### Non-Federal Data
 
 Data.gov incorporates data sources from state, local, and tribal governments. Non-federal sources are not covered by the Federal Open Data Policy, but can be included in the Data.gov catalog voluntarily. Depending on your local government open data platform, you may already have a harvest source that is Data.gov-ready, or it could take a little more work. Either way, the Data.gov team is available to answer questions about these requirements. For non-federal data to be connected to Data.gov, the following items are required:
 
 1.  **A Data Harvest Source**
-    Some open data catalog platforms already have a Data.gov harvest source built in (see these examples from [Socrata](https://nycopendata.socrata.com/data.json) and [ArcGIS Open Data](http://opendata.dc.gov/data.json)), but it is possible to set up a harvest source with any data management system (see [this CKAN example](https://www.opendataphilly.org/data.json)). The metadata required from non-federal sources does not include the [USG noted fields](https://project-open-data.cio.gov/v1.1/schema/#USG-note) and additional fields can be left out on a case-by-case basis. To learn more about metadata best practices and validators, check out the Resources and Tools below. **Required:** A Harvest Source at: _https://________.gov/data.json, e.g. __https://data.brla.gov/data.json_
+    Some open data catalog platforms already have a Data.gov harvest source built in (see these examples from [Socrata](https://nycopendata.socrata.com/data.json) and [ArcGIS Open Data](http://opendata.dc.gov/data.json)), but it is possible to set up a harvest source with any data management system (see [this CKAN example](https://www.opendataphilly.org/data.json)). The metadata required from non-federal sources does not include the [USG noted fields](https://project-open-data.cio.gov/v1.1/schema/#USG-note) and additional fields can be left out on a case-by-case basis. To learn more about metadata best practices and validators, check out the Resources and Tools below. **Required:** A Harvest Source at: https://_______.gov/data.json, _e.g. https://data.brla.gov/data.json_
 2.  **A Terms of Use URL**
     A publicly accessible Terms of Use (or Data Policy) URL or similar information in order to make it clear to Data.gov users when they are viewing datasets that are not covered by federal statutory and regulatory requirements.
-    **Required:** A Terms of Use URL, e.g._ https://data.brla.gov/terms-of-service_
+    **Required:** A Terms of Use URL, _e.g. https://data.brla.gov/terms-of-service_
 
 Once you have coordinated with Data.gov on these two items, automated nightly updates to Data.gov can be set up very quickly. Non-federal organizations can provide the necessary information through [the form](http://www.data.gov/local/add).
 
@@ -157,7 +157,7 @@ Go to catalog.data.gov and click on “Login” at the bottom of the page. You w
 
 After you have logged in to OMB MAX, [email us](mailto:datagov@gsa.gov) to let us know that you have completed the initial login. In the email provide the organization name and access permission (Admin or Editor) that is required. We will then associate requested permissions to your account.
 
-_**(If you manage a non-federal geospatial harvest source, follow the [instructions](https://cms.geoplatform.gov/sites/default/files/document_library/Non-Federal_Geospatial_OMB_MAX_Registration_and_Catalog_Data_gov_Account.pdf) (2.5 MB PDF) from GeoPlatform.gov to obtain access to OMB MAX.)**_
+**(If you manage a non-federal geospatial harvest source, follow the [instructions](https://cms.geoplatform.gov/sites/default/files/document_library/Non-Federal_Geospatial_OMB_MAX_Registration_and_Catalog_Data_gov_Account.pdf) (2.5 MB PDF) from GeoPlatform.gov to obtain access to OMB MAX.)**
 
 Once your Data.gov account is created, and your permissions are in place, you can log in and follow the steps below to create your harvest source:
 
@@ -235,7 +235,7 @@ Once the harvester has been tested successfully, Data.gov will start automatical
 
 **What is “open data” for purposes of Data.gov federation?**
 
-Open data for the purposes of Data.gov federation is US government data that is_ public, accessible, described, reusable, complete, timely_, and_ managed post-release_. Read more about these principles on [Project Open Data](http://project-open-data.github.io/principles/).
+Open data for the purposes of Data.gov federation is US government data that is _public, accessible, described, reusable, complete, timely_, and _managed post-release_. Read more about these principles on [Project Open Data](http://project-open-data.github.io/principles/).
 
 **What entities are eligible for federation on Data.gov?**
 
