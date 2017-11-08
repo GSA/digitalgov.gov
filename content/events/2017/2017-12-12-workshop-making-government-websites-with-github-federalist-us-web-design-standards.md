@@ -42,5 +42,5 @@ When you register for the event, we’d like to know:
 * Do you have a website you think Federalist might be a good candidate for hosting?
 * If so, tell us about the website
 * Are you interested in learning how to design, code, and build Federalist websites?
-* Are you interested in more details on managing a Federalist site in your agency? (non technical discussion)
+* Are you interested in more details on managing a Federalist site in your agency? (non-technical discussion)
 * Any other areas/questions you’d like us to cover at this event?
