@@ -332,7 +332,7 @@ See the “access level” field in [Project Open Data](https://project-open-dat
 
 1.  If inventory.data.gov is not intended for geospatial metadata, what system is? Geoplatform.gov? If we have standards-compliant (ISO, FGDC, etc.) metadata already published, can we import these metadata fields? Or must we enter them manually?
 
-Inventory.data.gov in its current form is not designed to handle geospatial metadata. As discussed in our harvesting [}}">documentation]({{< link ), Data.gov continues to harvest geospatial datasets directly from geospatial harvest sources. Agencies should have the remainder of their agencies in a “non-geospatial” data.json that the Data.gov catalog can harvest.
+Inventory.data.gov in its current form is not designed to handle geospatial metadata. As discussed in our harvesting documentation, Data.gov continues to harvest geospatial datasets directly from geospatial harvest sources. Agencies should have the remainder of their agencies in a “non-geospatial” data.json that the Data.gov catalog can harvest.
 
 1.  So the system does not push errors to you; you have to search for them?
 
