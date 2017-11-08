@@ -272,10 +272,10 @@
                       		<span class="tribe-locality">{{ $venue.city }}</span><span class="tribe-delimiter">,</span>
                           {{/* TODO: String lookup for full state name */}}
                         	<abbr class="tribe-region tribe-events-abbr" title="{{/* full-state-name */}}">{{ $venue.state }}</abbr>
-                        	<span class="tribe-postal-code">{{ $venue.zip }}</span>
-                        	<span class="tribe-country-name">{{ $venue.country }}</span>
+                        	<span class="tribe-postal-code">{{ $venue.zip }}</span><br>
+                          <a href="{{ $venue.map }}">View map</a>
                         </span>
-                        <a href="{{ $venue.map }}">{{ $venue.map}}</a>
+
                       </address>
     								</dd><!-- .tribe-venue-location -->
     							</dl>
