@@ -53,7 +53,7 @@ Project Open Data requires agencies to list and describe all agency data in the 
 
 Agencies must provide a human readable Public Data Listing at _agency.gov/_data and a machine readable listing, as a standalone JSON file on the agency’s website at _agency.gov_/data.json. This data.json file is what gets harvested to the Data.gov catalog.
 
-Federal agencies that do not have a platform to inventory their metadata can make use of a free service hosted by Data.gov called inventory.data.gov (see the [}}">separate guide)]({{< link ). Contact the Data.gov team via email if you’re interested in using this service.
+Federal agencies that do not have a platform to inventory their metadata can make use of a free service hosted by Data.gov called inventory.data.gov (see the separate guide). Contact the Data.gov team via email if you’re interested in using this service.
 
 You can find more information about what is required by the policy in the [Data Catalog Requirements](https://project-open-data.cio.gov/catalog/) for Project Open Data, but the requirements relevant to Data.gov are outlined here:
 
@@ -126,9 +126,8 @@ If an agency has a geospatial dataset in the data-nonspatial-harvest.json that s
 Data.gov incorporates data sources from state, local, and tribal governments. Non-federal sources are not covered by the Federal Open Data Policy, but can be included in the Data.gov catalog voluntarily. Depending on your local government open data platform, you may already have a harvest source that is Data.gov-ready, or it could take a little more work. Either way, the Data.gov team is available to answer questions about these requirements. For non-federal data to be connected to Data.gov, the following items are required:
 
 1.  **A Data Harvest Source**
-    Some open data catalog platforms already have a Data.gov harvest source built in (see these examples from [Socrata](https://nycopendata.socrata.com/data.json) and [ArcGIS Open Data](http://opendata.dc.gov/data.json)), but it is possible to set up a harvest source with any data management system (see [this CKAN example](https://www.opendataphilly.org/data.json)). The metadata required from non-federal sources does not include the [USG noted fields](https://project-open-data.cio.gov/v1.1/schema/#USG-note) and additional fields can be left out on a case-by-case basis. To learn more about metadata best practices and validators, check out the [}}>Resources and Tools]({{<) below.**Required:** A Harvest Source at: _https://________.gov/data.json, e.g. __https://data.brla.gov/data.json_
-
-1.  **A Terms of Use URL**
+    Some open data catalog platforms already have a Data.gov harvest source built in (see these examples from [Socrata](https://nycopendata.socrata.com/data.json) and [ArcGIS Open Data](http://opendata.dc.gov/data.json)), but it is possible to set up a harvest source with any data management system (see [this CKAN example](https://www.opendataphilly.org/data.json)). The metadata required from non-federal sources does not include the [USG noted fields](https://project-open-data.cio.gov/v1.1/schema/#USG-note) and additional fields can be left out on a case-by-case basis. To learn more about metadata best practices and validators, check out the Resources and Tools below. **Required:** A Harvest Source at: _https://________.gov/data.json, e.g. __https://data.brla.gov/data.json_
+2.  **A Terms of Use URL**
     A publicly accessible Terms of Use (or Data Policy) URL or similar information in order to make it clear to Data.gov users when they are viewing datasets that are not covered by federal statutory and regulatory requirements.
     **Required:** A Terms of Use URL, e.g._ https://data.brla.gov/terms-of-service_
 
