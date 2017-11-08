@@ -10,29 +10,29 @@ host: Will Slack
 registration_url: https://www.eventbrite.com/e/workshop-making-government-websites-with-federalist-github-basics-registration-39457265744
 youtube_id:
 venue:
-  venue_name: The General Services Administration
+  venue_name: U.S. General Services Administration
   room: 4150
-  address: 1800 F St.
+  address: 1800 F Street NW
   city: Washington
   state: D.C.
-  zip: 20006
+  zip: 20405
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 
 ---
 
-Come learn how to create a simple, compliant government website, using Federalist, GitHub and the U.S. Web Design Standards.
+Come learn how to create a simple, compliant government website using [GitHub](https://www.github.com/), [Federalist](https://federalist.18f.gov/), and the [U.S. Web Design Standards](https://standards.usa.gov/).
 
-This workshop will provide you and your team with an overview of using TTS’s new government-specific tools in combination with GitHub. Then we’ll show you how, together, they make it easier than ever to create and launch compliant, government websites.
+This workshop will provide you and your team with an overview of using two new government-specific tools from the Technology Transformation Service (TTS) with GitHub. Then we’ll show you how, together, they make it easier than ever to create and launch compliant government websites.
 
-The second part of the workshop is your chance to get hands-on experience with these tools. We are designing three breakout sessions aimed at helping those on your team publish on Federalist by the end of the day.
+The second part of the workshop will be your chance to get hands-on experience with these tools. We are designing three breakout sessions aimed at helping those on your team publish on Federalist by the end of the day.
 
 ### Schedule
 * 9 - 9:15am — Arrivals
 * 9:15 - 10am — Federalist overview
 * 10 - 10:45am — Breakout working groups
 * 10:45am — Take temperature of the room
-* 10:45 — 11am - Break
+* 10:45 - 11am — Break
 * 11 - 12:00pm — Further learning and discussion
 
 
@@ -42,5 +42,5 @@ When you register for the event, we’d like to know:
 * Do you have a website you think Federalist might be a good candidate for hosting?
 * If so, tell us about the website
 * Are you interested in learning how to design, code, and build Federalist websites?
-* Are you interested in more details on managing a Federalist site in your agency? (non technical discussion)
+* Are you interested in more details on managing a Federalist site in your agency? (non-technical discussion)
 * Any other areas/questions you’d like us to cover at this event?
