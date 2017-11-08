@@ -227,11 +227,11 @@ jQuery(document).ready(function($) {
 
   function set_1800f(set){
     if (set == true) {
-      $('.m_venue_name input').val('The General Services Administration').prop("readonly", true).addClass('quiet');
-      $('.m_address input').val('1800 F St.').prop("readonly", true).addClass('quiet');
+      $('.m_venue_name input').val('U.S. General Services Administration').prop("readonly", true).addClass('quiet');
+      $('.m_address input').val('1800 F Street NW').prop("readonly", true).addClass('quiet');
       $('.m_city input').val('Washington').prop("readonly", true).addClass('quiet');
       $('.m_state input').val('D.C.').prop("readonly", true).addClass('quiet');
-      $('.m_zip input').val('20006').prop("readonly", true).addClass('quiet');
+      $('.m_zip input').val('20405').prop("readonly", true).addClass('quiet');
       $('.m_country input').val('USA').prop("readonly", true).addClass('quiet');
       $('.m_map input').val('https://goo.gl/maps/bFWBD6QfDLA2').prop("readonly", true).addClass('quiet');
       get_matter_data();
