@@ -127,7 +127,7 @@
                   </p><hr/>
                 {{ end }}
                 <p><strong>Location</strong><br />
-                  {{ with .Params.venue.venue_name }}{{ . }}000000<br />{{ end }}
+                  {{ with .Params.venue.venue_name }}{{ . }}<br />{{ end }}
                   {{ .Params.venue.address }}<br />
                   {{ .Params.venue.city }}, {{ .Params.venue.state }}<br />
                   {{ with .Params.venue.zip }}{{ . }} {{ end }}{{ .Params.venue.country }}<br />
@@ -139,7 +139,7 @@
               <!-- else if "in-person" -->
               {{ else }}
     						<p><strong>Location</strong><br />
-                  {{ .Params.venue.venue_name }}121212121<br />
+                  {{ .Params.venue.venue_name }}<br />
                   {{ .Params.venue.address }}<br />
                   {{ .Params.venue.city }}, {{ .Params.venue.state }} {{ .Params.venue.zip }}<br />
                   Room: {{ .Params.venue.room }}<br />
