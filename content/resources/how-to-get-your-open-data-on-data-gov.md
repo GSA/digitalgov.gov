@@ -51,7 +51,8 @@ The steps for all three types of data sources are described in detail below.
 
 Project Open Data requires agencies to list and describe all agency data in the Public Data Listing. If a dataset is not public or restricted access, the metadata for that dataset is still included in the Public Data Listing, but any portion of the metadata that cannot be made public is redacted. The full, unredacted version of the metadata is provided in the Enterprise Data Inventory which is submitted to OMB and not made public.
 
-Agencies must provide a human readable Public Data Listing at _agency.gov/_data and a machine readable listing, as a standalone JSON file on the agency’s website at _agency.gov_/data.json. This data.json file is what gets harvested to the Data.gov catalog.
+
+Agencies must provide a human readable Public Data Listing at `agency.gov/data` and a machine readable listing, as a standalone JSON file on the agency’s website at `agency.gov/data.json`. This `data.json` file is what gets harvested to the Data.gov catalog.
 
 Federal agencies that do not have a platform to inventory their metadata can make use of a free service hosted by Data.gov called inventory.data.gov (see the separate guide). Contact the Data.gov team via email if you’re interested in using this service.
 
@@ -60,9 +61,9 @@ You can find more information about what is required by the policy in the [Data 
 1.  **Open Data Policy Requirements**
 2.  All CFO-Act agencies must provide an Enterprise Data Inventory and Public Data Listing in accordance with the [Project Open Data metadata schema](https://project-open-data.cio.gov/v1.1/schema/) for the purposes of measuring compliance with OMB’s M-13-13
 3.  **Required:** Enterprise Data Inventory provided to OMB MAX
-4.  **Required:** Public Data Listing at: _https://________.gov/data.json_
+4.  **Required:** Public Data Listing at: `https://________.gov/data.json`
 
-**_An update to the Project Open Data Metadata Schema,_** [**_Version 1.1_**](https://project-open-data.cio.gov/v1.1/schema/) **_was released on November 6, 2014._**
+**An update to the Project Open Data Metadata Schema,** [**_Version 1.1_**](https://project-open-data.cio.gov/v1.1/schema/) **was released on November 6, 2014.**
 
 The Data.gov catalog supports version 1.1 as of December 2, 2014.
 
@@ -113,7 +114,7 @@ For agencies that provide geospatial data to GeoPlatform.gov and Data.gov, the f
 
 1.  **Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ To be successfully harvested by GeoPlatform.gov and Data.gov, all geospatial data should be provided via one [Catalog Service for the Web (CSW)](https://www.geoplatform.gov/csw-resources) endpoint.Required: A CSW endpoint, e.g.: [_https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities_](https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities)
 
-1.  **Data without a Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ Lastly, to prevent duplication on Data.gov, all agencies that provide a CSW geospatial harvest source to GeoPlatform.gov and Data.gov should create an additional JSON file (called /_data-nonspatial-harvest.json)_ to include all datasets that are **not** available via the consolidated Geospatial Harvest Source.**Required:** Datasets without a Geospatial Harvest Source for the Public Data Listing at: _https://________.gov/data-nonspatial-harvest.json
+1.  **Data without a Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ Lastly, to prevent duplication on Data.gov, all agencies that provide a CSW geospatial harvest source to GeoPlatform.gov and Data.gov should create an additional JSON file (called `/_data-nonspatial-harvest.json`)_ to include all datasets that are **not** available via the consolidated Geospatial Harvest Source.**Required:** Datasets without a Geospatial Harvest Source for the Public Data Listing at: `https://________.gov/data-nonspatial-harvest.json`
 
 **Datasets Displayed on GeoPlatform.gov**
 
@@ -126,7 +127,7 @@ If an agency has a geospatial dataset in the data-nonspatial-harvest.json that s
 Data.gov incorporates data sources from state, local, and tribal governments. Non-federal sources are not covered by the Federal Open Data Policy, but can be included in the Data.gov catalog voluntarily. Depending on your local government open data platform, you may already have a harvest source that is Data.gov-ready, or it could take a little more work. Either way, the Data.gov team is available to answer questions about these requirements. For non-federal data to be connected to Data.gov, the following items are required:
 
 1.  **A Data Harvest Source**
-    Some open data catalog platforms already have a Data.gov harvest source built in (see these examples from [Socrata](https://nycopendata.socrata.com/data.json) and [ArcGIS Open Data](http://opendata.dc.gov/data.json)), but it is possible to set up a harvest source with any data management system (see [this CKAN example](https://www.opendataphilly.org/data.json)). The metadata required from non-federal sources does not include the [USG noted fields](https://project-open-data.cio.gov/v1.1/schema/#USG-note) and additional fields can be left out on a case-by-case basis. To learn more about metadata best practices and validators, check out the Resources and Tools below. **Required:** A Harvest Source at: https://_______.gov/data.json, _e.g. https://data.brla.gov/data.json_
+    Some open data catalog platforms already have a Data.gov harvest source built in (see these examples from [Socrata](https://nycopendata.socrata.com/data.json) and [ArcGIS Open Data](http://opendata.dc.gov/data.json)), but it is possible to set up a harvest source with any data management system (see [this CKAN example](https://www.opendataphilly.org/data.json)). The metadata required from non-federal sources does not include the [USG noted fields](https://project-open-data.cio.gov/v1.1/schema/#USG-note) and additional fields can be left out on a case-by-case basis. To learn more about metadata best practices and validators, check out the Resources and Tools below. **Required:** A Harvest Source at: `https://_______.gov/data.json`, e.g. `https://data.brla.gov/data.json`
 2.  **A Terms of Use URL**
     A publicly accessible Terms of Use (or Data Policy) URL or similar information in order to make it clear to Data.gov users when they are viewing datasets that are not covered by federal statutory and regulatory requirements.
     **Required:** A Terms of Use URL, _e.g. https://data.brla.gov/terms-of-service_
