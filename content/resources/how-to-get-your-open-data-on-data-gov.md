@@ -114,7 +114,7 @@ For agencies that provide geospatial data to GeoPlatform.gov and Data.gov, the f
 
 1.  **Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ To be successfully harvested by GeoPlatform.gov and Data.gov, all geospatial data should be provided via one [Catalog Service for the Web (CSW)](https://www.geoplatform.gov/csw-resources) endpoint.Required: A CSW endpoint, e.g.: [_https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities_](https://data.doi.gov/csw?service=CSW&version=2.0.2&request=GetCapabilities)
 
-1.  **Data without a Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ Lastly, to prevent duplication on Data.gov, all agencies that provide a CSW geospatial harvest source to GeoPlatform.gov and Data.gov should create an additional JSON file (called `/_data-nonspatial-harvest.json`)_ to include all datasets that are **not** available via the consolidated Geospatial Harvest Source.**Required:** Datasets without a Geospatial Harvest Source for the Public Data Listing at: `https://________.gov/data-nonspatial-harvest.json`
+1.  **Data without a Geospatial Harvest Source — Public Data Listing Requirements** _(for GeoPlatform.gov and Data.gov)_ Lastly, to prevent duplication on Data.gov, all agencies that provide a CSW geospatial harvest source to GeoPlatform.gov and Data.gov should create an additional JSON file (called `/sdata-nonspatial-harvest.json`) to include all datasets that are **not** available via the consolidated Geospatial Harvest Source.**Required:** Datasets without a Geospatial Harvest Source for the Public Data Listing at: `https://________.gov/data-nonspatial-harvest.json`
 
 **Datasets Displayed on GeoPlatform.gov**
 
@@ -215,7 +215,7 @@ Once the harvester has been tested successfully, Data.gov will start automatical
 *   [FGDC geospatial metadata information](http://www.fgdc.gov/metadata)
 *   [GeoPlatform.gov initiative](http://www.fgdc.gov/initiatives/geospatial-platform)
 *   [Catalog.Data.gov CKAN Publisher Tutorial to facilitate GeoPlatform Geospatial Data Discovery](http://www.geoplatform.gov/sites/default/files/document_library/catalog_data_gov_publishing_tutorial.pdf)
-*   Metadata Recommendations Supporting Data Discovery and Use in Data.gov and GeoPlatform.gov (_add link when documented is updated at https://cms.geoplatform.gov/sites/default/files/document_library_)
+*   Metadata Recommendations Supporting Data Discovery and Use in Data.gov and GeoPlatform.gov _(add link when documented is updated at `https://cms.geoplatform.gov/sites/default/files/document_library`)_
 
 ### Testing Tools
 
