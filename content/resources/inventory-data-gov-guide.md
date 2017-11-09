@@ -7,20 +7,20 @@ authors:
   - pashlock
 ---
 
-  * [Introduction](#introduction)
-  * [Features](#features)
-  * [Using inventory.data.gov](#using-inventory-data-gov)
-      * [Creating a User Account](#creating-user-account)
-      * [Using inventory.data.gov to manage datasets](#manage-datasets)
-      * [Adding a Dataset](#add-dataset)
-      * [Exporting Data.json](#export-data-json)
-      * [Automating data.json downloads by agencies](#automating-data-json-downloads)
-      * [Dataset Hosting](#dataset-hosting)
-  * [Webinar on inventory.data.gov](#webinar)
+* [Introduction](#introduction)
+* [Features](#features)
+* [Using inventory.data.gov](#using-inventory-data-gov)
+    * [Creating a User Account](#creating-user-account)
+    * [Using inventory.data.gov to manage datasets](#manage-datasets)
+    * [Adding a Dataset](#add-dataset)
+    * [Exporting Data.json](#export-data-json)
+    * [Automating data.json downloads by agencies](#automating-data-json-downloads)
+    * [Dataset Hosting](#dataset-hosting)
+* [Webinar on inventory.data.gov](#webinar)
 
 ## Introduction
 
-[Inventory.data.gov](http://inventory.data.gov/) is a data management tool established in 2013 by the Data.gov Program Management Office (PMO) in what is now the Technology Transformation Service of the U.S. General Services Administration (GSA). Inventory.data.gov supports the implementation of the 2013 Federal [Open Data Policy](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (M-13-13) by providing all of the relevant metadata fields and export formats required for agencies to have their data harvested by Data.gov and to comply with the Federal Open Data Policy. Inventory.data.gov is not required to be used by all agencies, but rather offered in order to assist agencies that do not have another solution for creating and maintaining data inventories.</p>
+[Inventory.data.gov](http://inventory.data.gov/) is a data management tool established in 2013 by the Data.gov Program Management Office (PMO) in what is now the Technology Transformation Service of the U.S. General Services Administration (GSA). Inventory.data.gov supports the implementation of the 2013 Federal [Open Data Policy](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (M-13-13) by providing all of the relevant metadata fields and export formats required for agencies to have their data harvested by Data.gov and to comply with the Federal Open Data Policy. Inventory.data.gov is not required to be used by all agencies, but rather offered in order to assist agencies that do not have another solution for creating and maintaining data inventories.
 
 The platform is primarily used to generate two different data.json files for each agency, one representing the Unredacted Inventory / Enterprise Data Inventory (EDI) that contains unredacted datasets and another representing the Redacted Inventory / Public Data Listing (PDL) that contains datasets with redactions as agency indicated. The Unredacted Inventory/EDI file is a comprehensive inventory for an agency. This file is sent directly to omb.max.gov and not publicly accessed. The Redacted Inventory/PDL file (often referred to as data.json) is made public and is posted on agency.gov/data.json and harvested by the Data.gov catalog.
 
@@ -256,15 +256,25 @@ Rather than log in to inventory.data.gov and manually click the buttons to downl
 
 Here’s what the request would look like using the curl-like tool [httpie](http://www.httpie.org/)
 
-Redacted Inventory (PDL)
+**Redacted Inventory (PDL)**
 
-http -v POST https://inventory.data.gov/organization/[organization-id]/redacted.json Authorization:xxx-your-api-key-xxx Content-Type:application/x-www-form-urlencoded Cookie:auth_tkt=foo
+```
+http -v POST https://inventory.data.gov/organization/[organization-id]/redacted.json
+Authorization:xxx-your-api-key-xxx
+Content-Type:application/x-www-form-urlencoded
+Cookie:auth_tkt=foo
+```
 
-Unredacted Inventory (EDI)
+**Unredacted Inventory (EDI)**
 
-http -v POST https://inventory.data.gov/organization/[organization-id]/unredacted.json Authorization:xxx-your-api-key-xxx Content-Type:application/x-www-form-urlencoded Cookie:auth_tkt=foo
+```
+http -v POST https://inventory.data.gov/organization/[organization-id]/unredacted.json
+Authorization:xxx-your-api-key-xxx
+Content-Type:application/x-www-form-urlencoded
+Cookie:auth_tkt=foo
+```
 
-You’d need to replace xxx-your-api-key-xxx with your actual API key which you can get in the bottom of the left sidebar of your user account, e.g. https://inventory.data.gov/user/[username]
+You’d need to replace `xxx-your-api-key-xxx` with your actual API key which you can get in the bottom of the left sidebar of your user account, e.g. `https://inventory.data.gov/user/[username]`
 
 The above process downloads the Redacted.zip file containing the data.json and errorlog.txt. If there are any errors, you should review and correct them. When you reach a point where there is no errorlog.txt file, you can upload the data.json file to the agency.gov/data.json public data listing for data.gov catalog harvesting purposes. It is recommended that you manually review and upload the data.json file a few times, before completely automating the entire process to ensure there are no errors that might be excluding datasets from the data.json file (potentially removing existing datasets from data.gov).
 
@@ -282,7 +292,7 @@ For the time being, the Data.gov PMO will continue to provide this hosting capab
 
 Data.gov, working with DigitalGov University, presented a webinar for agencies interested in using inventory on December 16, 2014\. For more information, consult the recording of the [webinar](http://youtu.be/ciLYjDsF4lo).
 
-[youtube=http://www.youtube.com/watch?v=ciLYjDsF4lo&w=600]
+{{< youtube "ciLYjDsF4lo" >}}
 
 Here are some questions and answers raised during the webinar:
 
