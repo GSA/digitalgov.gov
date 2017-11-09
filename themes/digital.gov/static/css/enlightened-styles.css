@@ -732,9 +732,8 @@ pre code{
 code {
 	font-family: Courier, monospace, Fixed;
 	display:inline;
-	color:#222;
 	padding:1px 5px;
-  background-color: rgba(27,31,35,0.07);
+  background-color: rgba(27,31,35,0.05);
   border-radius: 3px;
 }
 
