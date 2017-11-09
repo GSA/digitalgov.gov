@@ -1,4 +1,4 @@
-@if $scope-normalize == false {
+@if $scope-uswds == false {
   html {
     font-family: sans-serif; /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
@@ -216,68 +216,68 @@
     padding: 0;
   }
 } @else {
-  .normalize html, html.normalize {
+  .uswds html, html.uswds {
     font-family: sans-serif; /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
     -webkit-text-size-adjust: 100%; /* 2 */
   }
-  .normalize body, body.normalize {
+  .uswds body, body.uswds {
     margin: 0;
   }
 
-  .normalize article, article.normalize,
-  .normalize aside, aside.normalize,
-  .normalize details, details.normalize,
-  .normalize figcaption, figcaption.normalize,
-  .normalize figure, figure.normalize,
-  .normalize footer, footer.normalize,
-  .normalize header, header.normalize,
-  .normalize hgroup, hgroup.normalize,
-  .normalize main, main.normalize,
-  .normalize menu, menu.normalize,
-  .normalize nav, nav.normalize,
-  .normalize section, section.normalize,
-  .normalize summary, summary.normalize {
+  .uswds article, article.uswds,
+  .uswds aside, aside.uswds,
+  .uswds details, details.uswds,
+  .uswds figcaption, figcaption.uswds,
+  .uswds figure, figure.uswds,
+  .uswds footer, footer.uswds,
+  .uswds header, header.uswds,
+  .uswds hgroup, hgroup.uswds,
+  .uswds main, main.uswds,
+  .uswds menu, menu.uswds,
+  .uswds nav, nav.uswds,
+  .uswds section, section.uswds,
+  .uswds summary, summary.uswds {
     display: block;
   }
 
-  .normalize audio, audio.normalize,
-  .normalize canvas, canvas.normalize,
-  .normalize progress, progress.normalize,
-  .normalize video, video.normalize {
+  .uswds audio, audio.uswds,
+  .uswds canvas, canvas.uswds,
+  .uswds progress, progress.uswds,
+  .uswds video, video.uswds {
     display: inline-block; /* 1 */
     vertical-align: baseline; /* 2 */
   }
 
-  .normalize audio:not([controls]), audio:not([controls]).normalize {
+  .uswds audio:not([controls]), audio:not([controls]).uswds {
     display: none;
     height: 0;
   }
 
-  .normalize [hidden], [hidden].normalize,
-  .normalize template, template.normalize {
+  .uswds [hidden], [hidden].uswds,
+  .uswds template, template.uswds {
     display: none;
   }
 
-  .normalize a, a.normalize {
+  .uswds a, a.uswds {
     background-color: transparent;
   }
 
-  .normalize a:active, a:active.normalize,
-  .normalize a:hover, a:hover.normalize {
+  .uswds a:active, a:active.uswds,
+  .uswds a:hover, a:hover.uswds {
     outline: 0;
   }
 
-  .normalize abbr[title], abbr[title].normalize {
+  .uswds abbr[title], abbr[title].uswds {
     border-bottom: 1px dotted;
   }
 
-  .normalize b, b.normalize,
-  .normalize strong, strong.normalize {
+  .uswds b, b.uswds,
+  .uswds strong, strong.uswds {
     font-weight: bold;
   }
 
-  .normalize dfn, dfn.normalize {
+  .uswds dfn, dfn.uswds {
     font-style: italic;
   }
 
@@ -286,149 +286,149 @@
     margin: 0.67em 0;
   }
 
-  .normalize mark, mark.normalize {
+  .uswds mark, mark.uswds {
     background: #ff0;
     color: #000;
   }
 
-  .normalize small, small.normalize {
+  .uswds small, small.uswds {
     font-size: 80%;
   }
 
-  .normalize sub, sub.normalize,
-  .normalize sup, sup.normalize {
+  .uswds sub, sub.uswds,
+  .uswds sup, sup.uswds {
     font-size: 75%;
     line-height: 0;
     position: relative;
     vertical-align: baseline;
   }
 
-  .normalize sup, sup.normalize {
+  .uswds sup, sup.uswds {
     top: -0.5em;
   }
 
-  .normalize sub, sub.normalize {
+  .uswds sub, sub.uswds {
     bottom: -0.25em;
   }
 
-  .normalize img, img.normalize {
+  .uswds img, img.uswds {
     border: 0;
   }
 
-  .normalize svg:not(:root), svg:not(:root).normalize {
+  .uswds svg:not(:root), svg:not(:root).uswds {
     overflow: hidden;
   }
 
-  .normalize figure, figure.normalize {
+  .uswds figure, figure.uswds {
     margin: 1em 40px;
   }
 
-  .normalize hr, hr.normalize {
+  .uswds hr, hr.uswds {
     box-sizing: content-box;
     height: 0;
   }
 
-  .normalize pre, pre.normalize {
+  .uswds pre, pre.uswds {
     overflow: auto;
   }
 
-  .normalize code, code.normalize,
-  .normalize kbd, kbd.normalize,
-  .normalize pre, pre.normalize,
-  .normalize samp, samp.normalize {
+  .uswds code, code.uswds,
+  .uswds kbd, kbd.uswds,
+  .uswds pre, pre.uswds,
+  .uswds samp, samp.uswds {
     font-family: monospace, monospace;
     font-size: 1em;
   }
 
-  .normalize button, button.normalize,
-  .normalize input, input.normalize,
-  .normalize optgroup, optgroup.normalize,
-  .normalize select, select.normalize,
-  .normalize textarea, textarea.normalize {
+  .uswds button, button.uswds,
+  .uswds input, input.uswds,
+  .uswds optgroup, optgroup.uswds,
+  .uswds select, select.uswds,
+  .uswds textarea, textarea.uswds {
     color: inherit; /* 1 */
     font: inherit; /* 2 */
     margin: 0; /* 3 */
   }
 
-  .normalize button, button.normalize {
+  .uswds button, button.uswds {
     overflow: visible;
   }
 
-  .normalize button, button.normalize,
-  .normalize select, select.normalize {
+  .uswds button, button.uswds,
+  .uswds select, select.uswds {
     text-transform: none;
   }
 
-  .normalize button, button.normalize,
+  .uswds button, button.uswds,
   html input[type="button"], /* 1 */
-  .normalize input[type="reset"], input[type="reset"].normalize,
-  .normalize input[type="submit"], input[type="submit"].normalize {
+  .uswds input[type="reset"], input[type="reset"].uswds,
+  .uswds input[type="submit"], input[type="submit"].uswds {
     -webkit-appearance: button; /* 2 */
     cursor: pointer; /* 3 */
   }
 
-  .normalize button[disabled], button[disabled].normalize,
+  .uswds button[disabled], button[disabled].uswds,
   html input[disabled] {
     cursor: default;
   }
 
-  .normalize button::-moz-focus-inner, button::-moz-focus-inner.normalize,
-  .normalize input::-moz-focus-inner, input::-moz-focus-inner.normalize {
+  .uswds button::-moz-focus-inner, button::-moz-focus-inner.uswds,
+  .uswds input::-moz-focus-inner, input::-moz-focus-inner.uswds {
     border: 0;
     padding: 0;
   }
 
-  .normalize input, input.normalize {
+  .uswds input, input.uswds {
     line-height: normal;
   }
 
-  .normalize input[type="checkbox"], input[type="checkbox"].normalize,
-  .normalize input[type="radio"], input[type="radio"].normalize {
+  .uswds input[type="checkbox"], input[type="checkbox"].uswds,
+  .uswds input[type="radio"], input[type="radio"].uswds {
     box-sizing: border-box; /* 1 */
     padding: 0; /* 2 */
   }
 
-  .normalize input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-inner-spin-button.normalize,
-  .normalize input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-outer-spin-button.normalize {
+  .uswds input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-inner-spin-button.uswds,
+  .uswds input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-outer-spin-button.uswds {
     height: auto;
   }
 
-  .normalize input[type="search"], input[type="search"].normalize {
+  .uswds input[type="search"], input[type="search"].uswds {
     -webkit-appearance: textfield; /* 1 */
     box-sizing: content-box; /* 2 */
   }
 
-  .normalize input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-cancel-button.normalize,
-  .normalize input[type="search"]::-webkit-search-decoration, input[type="search"]::-webkit-search-decoration.normalize {
+  .uswds input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-cancel-button.uswds,
+  .uswds input[type="search"]::-webkit-search-decoration, input[type="search"]::-webkit-search-decoration.uswds {
     -webkit-appearance: none;
   }
 
-  .normalize fieldset, fieldset.normalize {
+  .uswds fieldset, fieldset.uswds {
     border: 1px solid #c0c0c0;
     margin: 0 2px;
     padding: 0.35em 0.625em 0.75em;
   }
 
-  .normalize legend, legend.normalize {
+  .uswds legend, legend.uswds {
     border: 0; /* 1 */
     padding: 0; /* 2 */
   }
 
-  .normalize textarea, textarea.normalize {
+  .uswds textarea, textarea.uswds {
     overflow: auto;
   }
 
-  .normalize optgroup, optgroup.normalize {
+  .uswds optgroup, optgroup.uswds {
     font-weight: bold;
   }
 
-  .normalize table, table.normalize {
+  .uswds table, table.uswds {
     border-collapse: collapse;
     border-spacing: 0;
   }
 
-  .normalize td, td.normalize,
-  .normalize th, th.normalize {
+  .uswds td, td.uswds,
+  .uswds th, th.uswds {
     padding: 0;
   }
 }
