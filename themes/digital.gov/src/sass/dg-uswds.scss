@@ -1,7 +1,7 @@
 // USWDS SASS variable overrides go here, before we import USWDS itself.
 
 $border-box-sizing: false;
-$scope-normalize: true;
+$scope-uswds: true;
 
 @import 'dg-variables';
 
@@ -20,7 +20,7 @@ $scope-normalize: true;
 @import 'core/fonts';
 @import 'core/grid';
 @import 'core/utilities';
-@import 'core/base';
+@import 'dg-base';
 
 // Elements -------------- //
 // Styles basic HTML elements

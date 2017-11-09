@@ -35,7 +35,7 @@ The program consists of:
   * Delivers broad overviews and in-depth insights that apply to programs across your agency.
   * Scalable to handle a broad range of .gov sites (large and small).
   * Allows instantaneous access to a targeted set of critical performance data.
-  * Meets agency compliance with OMB reporting on the 10 Minimum Common Baseline Performance Metrics for [Milestone 8.2](CDN/files/2012/10/8_2_DGS_Implementation_Instructions_v_final.docx).
+  * Meets agency compliance with OMB reporting on the 10 Minimum Common Baseline Performance Metrics for [Milestone 8.2]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2012/10/8_2_DGS_Implementation_Instructions_v_final.docx" >}}).
   * Hosted service by GSA avoids duplication of agencies purchasing the same tool and going through separate procurements.
 
 ### Quick, reliable, and secure infrastructure
