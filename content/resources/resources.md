@@ -62,9 +62,9 @@ authors:
 
 ## Contact Centers
 
-*   [Government Contact Center Council (G3C)](tmp)
+*   [Government Contact Center Council (G3C)]({{< link "communities/government-contact-center-council" >}})
 *   [Contact Center Guidelines]({{< link "contact-center-guidelines.md" >}})
-*   [2011 Federal Contact Center Survey, Final Report](CDN/files/2014/07/2011-Federal-Contact-Center-Survey-Final-Report-Sept30th2011-Prepared-for-GSA-OCSIT.pdf) (PDF, 1.52 MB, 54 pages, September 2011)
+*   [2011 Federal Contact Center Survey, Final Report]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/2011-Federal-Contact-Center-Survey-Final-Report-Sept30th2011-Prepared-for-GSA-OCSIT.pdf" >}}) (PDF, 1.52 MB, 54 pages, September 2011)
 
 ## Crowdsourcing and Citizen Science
 
@@ -77,7 +77,7 @@ authors:
 *   [Customer Experience Toolkit]({{< link "customer-experience-toolkit.md" >}})
 *   [Government Customer Service Policies & Requirements]({{< link "government-customer-service-policies-requirements-1993-to-present.md" >}})
 *   [Paperwork Reduction Act Fast Track Process]({{< link "paperwork-reduction-act-fast-track-process.md" >}})
-*   [Report of the Citizen Service Levels Interagency Committee CSLIC](CDN/files/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (MS Word, 233 kb, 36 pages, 2005)
+*   [Report of the Citizen Service Levels Interagency Committee CSLIC]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc" >}}) (MS Word, 233 kb, 36 pages, 2005)
 
 ## Design
 
@@ -90,7 +90,7 @@ authors:
     *   [Agency Digital Strategy Pages]({{< link "2012-08-22-agency-digital-strategy-pages.md" >}})
     *   [Guidelines for Improving Digital Services]({{< link "guidelines-for-improving-digital-services.md" >}})
 
-*   [Putting Citizens First: Transforming Online Government](CDN/files/2013/11/Federal-Web-Managers-White-Paper.pdf) (PDF, 47 kb, 4 pages, November 2008)
+*   [Putting Citizens First: Transforming Online Government]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Federal-Web-Managers-White-Paper.pdf" >}}) (PDF, 47 kb, 4 pages, November 2008)
 
 ## Measurement
 
@@ -150,7 +150,7 @@ authors:
 *   [Social Media Metrics for Federal Agencies]({{< link "federal-social-media-analytics-toolkit-hackpad.md" >}})
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
 *   [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit]({{< link "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}})
-*   [Barriers and Solutions to Implementing Social Media in Government](CDN/files/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf) (PDF, 55 kb, 4 pages, December 2008)
+*   [Barriers and Solutions to Implementing Social Media in Government]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf" >}}) (PDF, 55 kb, 4 pages, December 2008)
 
 ## Terms of Services Agreements
 
@@ -172,8 +172,8 @@ authors:
 *   [Content Management Systems Toolkit]({{< link "2013-10-30-content-management-systems-toolkit.md" >}})
     *   [Content Management Systems Used by Government Agencies]({{< link "content-management-systems-used-by-government-agencies.md" >}})
 *   [DigitalGov Search]({{< link "search.md" >}})
-*   [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites](CDN/files/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf) (PDF, 607 kb, 92 pages, June 2004)
-    *   [ICGI Report Attachments](CDN/files/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf) (PDF, 184 kb, 7 pages, June 2004)
-    *   [ICGI Summary and Background](CDN/files/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf) (PDF, 176 kb, 6 pages, June 2004)
+*   [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf" >}}) (PDF, 607 kb, 92 pages, June 2004)
+    *   [ICGI Report Attachments]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 184 kb, 7 pages, June 2004)
+    *   [ICGI Summary and Background]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 176 kb, 6 pages, June 2004)
 *   [Office of Management and Budget Policies for Federal Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 kb, 5 pages, December 2004)
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
