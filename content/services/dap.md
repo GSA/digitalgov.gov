@@ -66,4 +66,4 @@ You can [view the most common questions about the program]({{< link "common-ques
 
 ### Contact Us
 
-Email the [Digital Analytics Program](mailto:dap@support.WHATEVER)
+Email the [Digital Analytics Program](mailto:dap@support.digitalgov.gov)
