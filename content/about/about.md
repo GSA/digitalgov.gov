@@ -1,36 +1,56 @@
 ---
-date: 2013-11-18 3:10:34 -0400
+date: 2017-11-14 12:05:00 -0400
 title: About
 url: /about/
-summary: 'We live in a time when more pre-schoolers can use a smartphone app than can tie their shoes. How does government prepare to meet the information needs of these budding citizens? DigitalGov means providing information and services to the public anywhere and anytime. This site is a platform to help those in agencies working on providing digital services and information for the public.'
-authors:
-  - apiazza
+summary: 'Welcome to DigitalGov.'
+
 ---
 
-We live in a time when [more pre-schoolers can use a smartphone app than can tie their shoes](http://arstechnica.com/gadgets/2011/01/preschoolers-better-at-navigating-iphone-than-tying-their-shoes/). How does government prepare to meet the information needs of these budding citizens? **DigitalGov** means providing information and services to the public anywhere and anytime.
+Welcome to DigitalGov.
 
-This site is a platform to help those in agencies working on providing digital services and information for the public. We&#8217;ll scour the innerwebs for digital info so you don’t have to. Expect posts on what government is doing in digital, general digital news, trends and issues on implementing digital for the public.
+Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
-## More on Us
+And we do that by providing people in government the tools, methods, practices and policy guidance they need to deliver effective and accessible digital services.
 
-This platform is brought to you by the [Office of Products and Programs](http://www.gsa.gov/portal/content/124174)—formerly known as the Office of Citizen Services and Innovative Technologies (OCSIT)—in the [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) of the U.S. [General Services Administration](http://www.gsa.gov/portal/category/100000). Our job here is to help agencies build a 21st century digital government. We do that by:
+It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
-  * Finding and sharing resources and capabilities throughout government
-  * Helping agencies understand and resolve policy issues
-  * Offering services and tools to help agencies meet their digital government goals
-  * Championing DigitalGov solutions from loosening data to developing mobile development guidelines to app and website development to best practices and policy
-  * Promoting agency DigitalGov efforts
-  * Building relationships with the private and non-profit sectors as well as state and local government
+We’ve found that agencies need:
+- Guidance on implementing digital policies and initiatives
+- Open access to modern methods, practices, policies, and tools
+- Focused trainings and events that help teams learn and adopt new concepts
+- Easy access to collaborate with others across government who are working on the same problems
 
-### Digital Government Division
+#### What we are working on
+Over the last decade, DigitalGov has become a destination in government to learn about the methods, practices, policies and tools that are needed to create effective digital services.
 
-The Digital Government Division is a cooperative enterprise that draws on resources from across government to leverage the expertise of forward-leaning agencies. To that end, we’re gathering a cadre of innovators to help build a digital government that meets the expectations of the public while delivering info and services safely and securely. The Digital Government Division is a key component supporting the goals of the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) and is sponsored by GSA.
+And we believe DigitalGov should set the example for how government learns, builds, delivers and measures digital services in the 21st century.
 
-## Keep in touch
+We are building DigitalGov into a destination that practices the methods that it teaches, and along the way, we are going to tell the story of how we get there, using the very tools that are available in the open, across the government.
 
-  * Follow us on [Facebook](https://www.facebook.com/DigitalGov) and [Twitter @Digital_Gov](http://twitter.com/Digital_Gov). We use the hashtags #DigitalGov, #SocialGov, and #MobileGov.
-  * [Sign up for e-mail alerts](http://connect.digitalgov.gov/subscribe).
-  * [Send us an email]({{< link "contact-us.md" >}} "Contact Us").
-  * [Subscribe to our podcasts on the iTunes store](https://itunes.apple.com/us/podcast/digitalgov-podcast/) and catch up on our recent episodes.
+- [DigitalGov on GitHub](https://github.com/GSA/digitalgov.gov)
+- [Follow us on Twitter](https://twitter.com/digital_gov/)
+- [Join our Facebook page](https://www.facebook.com/DigitalGov)
+- [Subscribe to our newsletter](https://connect.digitalgov.gov/subscribe)
+- [Join a community of practice]({{< link "communities.md" >}})
+- Reach out, [send us an email](mailto:digitalgov@gsa.gov)
 
-* * *
+***
+
+#### The Team
+
+We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in government and have a wealth of experience creating modern digital services.
+
+#### DigitalGov
+**Jeremy Zilar**, Director<br/>
+**Jacqueline Snee**, Community Manager<br/>
+**Dan Williams**, Designer<br/>
+**Andrea Sigritz**, Editor, User Research & Content Strategy<br/>
+**Toni Bonitto**, Editor, Platform & Content Production<br/>
+**Janelle Thalls**, Video Editor, Training & Education<br/>
+**Soncerray Bolling**, Video Editor, Training & Education
+
+#### The U.S. Web Design Standards Core Team
+**Dan Williams**, Product Lead<br/>
+**Maya Benari**<br/>
+**John Donmoyer**<br/>
+**Andrea Sigritz**<br/>
