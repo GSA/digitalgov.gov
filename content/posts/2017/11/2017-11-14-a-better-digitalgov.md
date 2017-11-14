@@ -1,14 +1,12 @@
 ---
 slug: a-better-digitalgov
-date: 2017-11-11 09:05:00 -0400
+date: 2017-11-14 14:05:00 -0400
 title: 'A Better DigitalGov'
 summary: 'summary'
 authors:
   - jeremyzilar
-categories:
-  - data
 tag:
-  - ai
+  - DigitalGov
 featured_image:
   uid:
   alt:
