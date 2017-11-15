@@ -51,6 +51,7 @@ All four of them are talented design systems thinkers with excellent ideas about
 In the first four months — we hope to evaluate the present state of the Standards, set the vision and roadmap for how they can make a continued long-term impact across government, and establish a solid foundation for the Standards as an active open-source project.
 
 **Say hello to the Standards team:**
+
 - [Join their Public Slack channel](https://chat.18f.gov/)
 - [Send them an e-mail](mailto:uswebdesignstandards@gsa.gov)
 - [Contribute to the project](https://github.com/18F/web-design-standards/issues)
