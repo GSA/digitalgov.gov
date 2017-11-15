@@ -1,7 +1,7 @@
 ---
 slug: uswds-digitalgov
 date: 2017-11-14 14:05:00 -0400
-title: 'USWDS + DigitalGov'
+title: 'U.S. Web Design Standards + DigitalGov'
 summary: 'We’re excited to announce that the U.S. Web Design Standards team has moved over to OPP and joined the DigitalGov team.'
 authors:
   - jeremyzilar
@@ -11,8 +11,8 @@ tag:
   - uswds
   - digitalgov
 featured_image:
-  uid:
-  alt:
+  uid: tile-4
+  alt: 'U.S. Web Design Standards'
 ---
 
 We’re excited to announce that [the U.S. Web Design Standards][18a73fb9] has moved over to the [Office of Products and Platforms (OPP)][3f7dfc99] and joined [the new DigitalGov team]({{< link "about.md" >}}), effective October 1, 2017.

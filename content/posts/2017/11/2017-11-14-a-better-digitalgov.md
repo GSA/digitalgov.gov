@@ -8,8 +8,8 @@ authors:
 tag:
   - DigitalGov
 featured_image:
-  uid:
-  alt:
+  uid: tile-1
+  alt: A better DigitalGov
 ---
 
 Hi.
