@@ -50,7 +50,7 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **Soncerray Bolling**, Video Editor, Training & Education
 
 #### The U.S. Web Design Standards Core Team
-**Dan Williams**, Product Lead<br/>
+**Dan Williams**, Product Owner<br/>
 **Maya Benari**<br/>
 **John Donmoyer**<br/>
 **Andrea Sigritz**<br/>
