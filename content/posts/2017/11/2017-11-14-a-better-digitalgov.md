@@ -2,7 +2,7 @@
 slug: a-better-digitalgov
 date: 2017-11-14 14:05:00 -0400
 title: 'A Better DigitalGov'
-summary: 'summary'
+summary: 'We’re going to try something new here, something better.'
 authors:
   - jeremyzilar
 tag:
