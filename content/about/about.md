@@ -15,6 +15,7 @@ And we do that by providing people in government the tools, methods, practices a
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
 We’ve found that agencies need:
+
 - Guidance on implementing digital policies and initiatives
 - Open access to modern methods, practices, policies, and tools
 - Focused trainings and events that help teams learn and adopt new concepts
