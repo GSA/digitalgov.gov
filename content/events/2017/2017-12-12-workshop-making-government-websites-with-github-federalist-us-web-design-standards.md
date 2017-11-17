@@ -8,7 +8,7 @@ end_date: 2017-12-12 12:00:00 -0400
 event_organizer: Federalist
 host: Will Slack
 registration_url: https://www.eventbrite.com/e/workshop-making-government-websites-with-federalist-github-basics-registration-39457265744
-youtube_id:
+youtube_id: qeFNf2EPzpE
 venue:
   venue_name: U.S. General Services Administration
   room: 4150
@@ -27,16 +27,19 @@ This workshop will provide you and your team with an overview of using two new g
 
 The second part of the workshop will be your chance to get hands-on experience with these tools. We are designing three breakout sessions aimed at helping those on your team publish on Federalist by the end of the day.
 
+:sparkles: _We will live-stream the first 45mins of the workshop. Video will be available after._ :sparkles:
+
 ### Schedule
 * 9 - 9:15am — Arrivals
-* 9:15 - 10am — Federalist overview
+* 9:15 - 10am — Federalist overview _(+ online)_
 * 10 - 10:45am — Breakout working groups
 * 10:45am — Take temperature of the room
 * 10:45 - 11am — Break
 * 11 - 12:00pm — Further learning and discussion
 
+---
 
-When you register for the event, we’d like to know:
+**When you register for the event, we’d like to know:**
 
 * Are you interested in a GitHub-for-beginners training? What specific questions about GitHub would you want the training to cover?
 * Do you have a website you think Federalist might be a good candidate for hosting?
