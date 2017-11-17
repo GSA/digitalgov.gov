@@ -137,11 +137,6 @@ menu:
       Identifier      : "about"
       URL             : "/about/"
       Weight          : 6
-    - Name            : "Contact Us"
-      Parent          : "about"
-      Identifier      : "contact-us"
-      URL             : "/contact-us/"
-      Weight          : 61
 
     - Name            : "Join Digitalgov"
       Identifier      : "join"
