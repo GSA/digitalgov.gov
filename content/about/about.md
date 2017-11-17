@@ -3,7 +3,8 @@ date: 2017-11-14 12:05:00 -0400
 title: About
 url: /about/
 summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
-
+aliases:
+  - /contact-us/
 ---
 
 Welcome to DigitalGov.
@@ -55,3 +56,13 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **Maya Benari**<br/>
 **John Donmoyer**<br/>
 **Andrea Sigritz**<br/>
+
+---
+
+#### Contact Us
+
+**Have a question or comment?**
+
+- Send us an e-mail [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+- Create [an issue on GitHub](https://github.com/GSA/digitalgov.gov/issues)
+- Or make an edit to our pages and submit a pull request
