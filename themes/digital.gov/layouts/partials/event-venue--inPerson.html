@@ -1,9 +1,1 @@
-{{ if eq .Params.event_type "in-person" }}
-  {{ $.Scratch.Set "prefix" "In-Person: " }}
-{{ else if eq .Params.event_type "mixed" }}
-  {{ $.Scratch.Set "prefix" "In-Person & Online: " }}
-{{ else }}
-  {{ $.Scratch.Set "prefix" "Online: " }}
-{{ end }}
-
-{{ $.Scratch.Set "displaytitle" (printf "%s %s" ($.Scratch.Get "prefix") .Title) }}
+{{ $.Scratch.Set "displaytitle" (printf "%s " .Title) }}

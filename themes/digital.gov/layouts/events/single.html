@@ -1,12 +1,6 @@
 {{ define "pagevars" }}
   {{ $.Scratch.Set "bodyclasses" "tribe_events-template-default single single-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-single tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive tribe-mobile" }}
-  {{ if eq .Params.event_type "in-person" }}
-    {{ $.Scratch.Set "headtitle" (printf "In-Person: %s : Digital.gov" .Title) }}
-  {{ else if eq .Params.event_type "mixed" }}
-    {{ $.Scratch.Set "headtitle" (printf "In-Person & Online: %s : Digital.gov" .Title) }}
-  {{ else }}
-    {{ $.Scratch.Set "headtitle" (printf "Online: %s : Digital.gov" .Title) }}
-  {{ end }}
+
 {{ end }}
 
 {{ define "content" }}
