@@ -3,7 +3,7 @@ url: /communities/user-experience/
 uid: user-experience
 date: 2014-01-13 2:35:36 -0400
 title: 'User Experience Community of Practice'
-summary: "Our members include more than 900 federal, state, and local U.S. government employees and contractors with a valid .gov or .mil email address. We welcome program managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies."
+summary: "Join other federal user experience practitioners and learn how to make better user-centered products."
 aliases:
   - /federal-user-experience-community-of-practice/
 ---
@@ -13,15 +13,17 @@ Join other federal user experience practitioners and learn how to make better us
 ### Join
 Send an e-mail from your official government email to [ux-cop-request@listserv.gsa.gov](mailto:ux-cop-request@listserv.gsa.gov?subject=Join%20U%20Community), with “Join UX Community” in the subject line.
 
-## Community Managers: Jean Fox (BLS) and Silvia Salazar (NIH)
+### Community Managers:
+Jean Fox (BLS) and Silvia Salazar (NIH)
 
-### Overview 
+### Overview
 
 Members of the User Experience Community of Practice can:
-  * Ask questions and learn how other agencies are creating great user experiences!
-  * Find out how to conduct valuable user research with little (or no) budget!
-  * Meet other government usability practitioners!
-  * Share your own successes and tips!
+
+- Ask questions and learn how other agencies are creating great user experiences!
+- Find out how to conduct valuable user research with little (or no) budget!
+- Meet other government usability practitioners!
+- Share your own successes and tips!
 
 ### Who we are
 
@@ -29,11 +31,11 @@ Our members include more than 1,100 federal, state, and local U.S. government em
 
 ### What we do
 
-  * Create case studies of why UX works!
-  * Training for government Web managers, usability specialists, project managers, etc…
-  * User Experience (UX) networking events
-  * Connect people to useful UX resources 
+* Create case studies of why UX works!
+* Training for government Web managers, usability specialists, project managers, etc…
+* User Experience (UX) networking events
+* Connect people to useful UX resources
 
 ### Key Resources
 
-  * https://www.usability.gov/
+* https://www.usability.gov/
