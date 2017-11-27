@@ -2,13 +2,37 @@
 url: /resources/negotiated-terms-of-service-agreements/
 date: 2014-01-13 10:50:02 -0400
 uid: negotiated-terms-of-service-agreements
-title: Negotiated Terms of Service Agreements
-summary: 'Before you decide to use one of the free digital tools below, seek the advice of your agency Terms of Service (TOS) Point of Contact (POC) to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and'
-authors:
-  - bsteele
+title: 'Negotiated Terms of Service Agreements'
+summary: 'The list of free tools that have federal-compatible Terms of Service agreements'
+aliases:
+  - /resources/chatwing-federal-terms-of-service/
+  - /resources/classmarker-federal-terms-of-service/
+  - /resources/eventbrite-federal-terms-of-service/
+  - /resources/github-federal-terms-of-service/
+  - /resources/govloop-federal-terms-of-service/
+  - /resources/hackpad-federal-terms-of-service/
+  - /resources/ideascale-federal-terms-of-service/
+  - /resources/instagram-federal-terms-of-service/
+  - /resources/mandrill-federal-terms-of-service/
+  - /resources/measured-voice-federal-terms-of-service/
+  - /resources/my-commetrics-federal-terms-of-service/
+  - /resources/news-genius-federal-terms-of-service/
+  - /resources/pinterest-federal-terms-of-service/
+  - /resources/quora-federal-terms-of-service/
+  - /resources/slideshare-federal-terms-of-service/
+  - /resources/socialoomph-federal-terms-of-service/
+  - /resources/stack-exchange-federal-terms-of-service/
+  - /resources/storify-federal-terms-of-service/
+  - /resources/surveymonkey-federal-terms-of-service/
+  - /resources/tint-federal-terms-of-service/
+  - /resources/thunderclap-federal-terms-of-service/
+  - /resources/twitter-federal-terms-of-service/
+  - /resources/uservoice-federal-terms-of-service/
+  - /resources/vine-federal-terms-of-service/
 ---
 
-{{< legacy-img src="/2014/01/250-x-190-Agreement-Terms-of-Service-TOS.jpg" alt="Illustrated stock image of a signed agreement document" >}}Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service (TOS) Point of Contact (POC)]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency. See [complete implementation guidance]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") on the main Terms of Service page.
+{{< legacy-img src="/2014/01/250-x-190-Agreement-Terms-of-Service-TOS.jpg" alt="Illustrated stock image of a signed agreement document" >}} Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service (TOS) Point of Contact (POC)]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency. See [complete implementation guidance]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") on the main Terms of Service page.
+
 
 <div>
   <p>
