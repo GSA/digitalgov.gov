@@ -25,6 +25,7 @@ aliases:
   - /resources/storify-federal-terms-of-service/
   - /resources/surveymonkey-federal-terms-of-service/
   - /resources/tint-federal-terms-of-service/
+  - /resources/trello-federal-terms-of-service/
   - /resources/thunderclap-federal-terms-of-service/
   - /resources/twitter-federal-terms-of-service/
   - /resources/uservoice-federal-terms-of-service/
