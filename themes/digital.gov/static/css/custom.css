@@ -58,3 +58,49 @@ a.edit_file span{
 a.edit_file:hover{
 	background: #e9e9e9;
 }
+
+
+.entry{
+
+}
+
+.entry-head{
+	margin-bottom: 32px;
+}
+.entry-head h1{
+	margin: 0;
+	font-size: 36px;
+	color:#222;
+}
+.entry-head h6{
+	margin: 0 0 15px 0;
+}
+
+.entry-content{
+	margin-bottom: 50px;
+}
+
+.entry-content p{
+	margin-bottom: 24px;
+	width: 650px;
+	font-size: 18px;
+	line-height: 30px;
+	color:#222;
+}
+
+.entry-meta{
+	margin-bottom: 120px;
+	color:#222;
+}
+.entry-meta .rule{
+	margin: 0 0 15px 0;
+	border:1px #222 solid;
+	width:80px;
+}
+.entry-meta .last_commit{
+	margin: 0;
+	font-style: italic;
+}
+.entry-meta .feedback{
+	font-style: italic;
+}
