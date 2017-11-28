@@ -12,7 +12,47 @@ function transform_edit_file_link(){
 	}
 }
 transform_edit_file_link();
+
+function get_commit_data(){
+	// https://api.github.com/repos/GSA/digitalgov.gov/commits?path=/content/about/about.md
+	var filepath = $('.last_commit').attr('data-filepath');
+	var commit_file_path = 'https://api.github.com/repos/GSA/digitalgov.gov/commits?path=/content/'+filepath;
+	$.ajax({
+	  url: commit_file_path,
+	 	dataType: 'json',
+	}).done(function(data) {
+		get_last_commit(data)
+	});
+}
+get_commit_data();
+
+function get_last_commit(data){
+	var commit_date = data[0]['commit']['committer']['date'];
+	$('.last_commit span').text(getFormattedDate(commit_date));
+}
+
+function getFormattedDate(d) {
+	var date = new Date(d);
+	date.setUTCHours(date.getUTCHours() - 5);
+	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  var year = date.getUTCFullYear();
+  var month = (1 + date.getUTCMonth()).toString();
+  month = monthNames[month];
+  var day = date.getUTCDate().toString();
+  day = day.length > 1 ? day : '0' + day;
+	var hours = date.getUTCHours().toString();
+	var minutes = date.getUTCMinutes().toString();
+	minutes = minutes.length > 1 ? minutes : '0' + minutes;
+	var seconds = date.getUTCSeconds().toString();
+	var ampm = hours >= 12 ? 'pm' : 'am';
+	var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ampm + ' ET';
+  return date_string;
+}
+
 });
+
+
+
 
 
 
