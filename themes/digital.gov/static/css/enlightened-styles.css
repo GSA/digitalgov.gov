@@ -672,8 +672,9 @@ acronym, abbr, span.caps {
 
 .entry ul,
 .entry ol {
-	margin: 0 0 20px 20px;
-	}
+	margin: 0 0 20px 0;
+	padding-left: 30px;
+}
 
 .entry ul ul,
 .entry ol ul,
@@ -682,13 +683,16 @@ acronym, abbr, span.caps {
 	margin-bottom: 0;
 	}
 
+.entry li{
+	margin-bottom: 8px;
+}
 .entry ul li {
-	list-style: square;
-	}
+	list-style: disc;
+}
 
 .entry ul li li {
 	list-style: circle;
-	}
+}
 
 acronym, abbr {
 	border-bottom: 1px solid #999;

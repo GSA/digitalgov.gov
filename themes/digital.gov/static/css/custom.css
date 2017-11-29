@@ -78,14 +78,18 @@ a.edit_file:hover{
 
 .entry-content{
 	margin-bottom: 50px;
-}
-
-.entry-content p{
-	margin-bottom: 24px;
 	width: 650px;
 	font-size: 18px;
 	line-height: 30px;
 	color:#222;
+}
+
+.entry-content p{
+	margin-bottom: 24px;
+}
+
+.entry-content li{
+	margin-bottom: 18px;
 }
 
 .entry-meta{
