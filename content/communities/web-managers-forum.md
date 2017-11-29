@@ -4,6 +4,7 @@ uid: web-content-managers
 date: 2013-11-21 3:31:31 -0400
 title: 'Web Content Managers Forum'
 summary: 'The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites.'
+type: resource
 aliases:
   - /communities/web-managers-forum/
   - /communities/web-managers-forum/web-content-managers-listserv/
@@ -15,7 +16,7 @@ If you manage a U.S. government website, or write digital content for your agenc
 
 From your U.S. government email send your request to [Alycia Piazza](mailto:alycia.piazza@gsa.gov?subject=Join). If you are a U.S. government employee, we’ll automatically subscribe you to the Content Managers listserv within 2-3 business days.
 
-### Community Manager 
+### Community Manager
 
 Alycia Piazza (GSA)
 
@@ -47,5 +48,3 @@ https://plainlanguage.gov/guidelines/
 
 U.S Web Design Standards
 https://standards.usa.gov/
-
-
