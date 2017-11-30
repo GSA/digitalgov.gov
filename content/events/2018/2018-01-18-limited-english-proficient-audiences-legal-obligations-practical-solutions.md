@@ -14,22 +14,22 @@ registration_url: https://www.eventbrite.com/e/legal-obligations-practical-solut
 youtube_id: F3LM8LmysgU
 ---
 
-In this online training, presenters from the Department of Justice will provide an overview of national origin discrimination and offer practical tips for overcoming language barriers and language access program planning. This session is designed to provide federal, state, and local government agencies with a primer on their legal obligations to limited English proficient individuals under Title VI of the Civil Rights Act of 1964 and, if applicable, Executive Order 13166.
+In this online training, presenters from the Department of Justice (DOJ) will provide an overview of national origin discrimination and offer practical tips for overcoming language barriers and language access program planning. This session is designed to provide federal, state, and local government agencies with a primer on their legal obligations to limited English proficient (LEP) individuals under [Title VI of the Civil Rights Act of 1964](https://www.justice.gov/crt/fcs/TitleVI) and, if applicable, [Executive Order 13166](https://www.justice.gov/crt/executive-order-13166).
 
 After the training, participants should:
 
-*Understand the need for accurate communication with the public regardless of English proficiency
-*Be able to identify federal language access program planning resources 
-*Troubleshoot through simple translation and interpretation challenges.
+* Understand the need for accurate communication with the public regardless of English proficiency
+* Be able to identify federal language access program planning resources 
+* Troubleshoot through simple translation and interpretation challenges.
 
-#Event audience: 
+## Event audience: 
 
 This training is geared towards federal, state, and local government official who interact or plan to interact with LEP individuals, and for recipients of federal funds, nonprofit organizations and other language access stakeholders.
 
-#Presenters: 
+## Presenters: 
 
 All presenters are from the Federal Coordination and Compliance Section, Civil Rights Division, U.S. Department of Justice 
 
-*Anna Medina, Attorney Advisor
-*Michael Mulé, Attorney Advisor
-*Laureen Laglagaron, Attorney Advisor
+* Anna Medina, Attorney Advisor
+* Michael Mulé, Attorney Advisor
+* Laureen Laglagaron, Attorney Advisor
