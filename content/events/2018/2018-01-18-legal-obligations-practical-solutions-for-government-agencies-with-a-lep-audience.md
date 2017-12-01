@@ -1,6 +1,6 @@
 ---
-slug: limited-english-proficient-audiences-legal-obligations-practical-solutions
-title: 'Limited English Proficient Audiences - Legal Obligations and Practical Solutions'
+slug: legal-obligations-practical-solutions-for-government-agencies-with-a-lep-audience
+title: 'Legal Obligations & Practical Solutions for Government Agencies with a LEP Audience'
 summary: 'Learn about your legal obligations to limited English proficient individuals (LEP) as a federal, state, or local government agency&#46; We&#39;ll provide an overview of national origin discrimination and offer practical tips for overcoming language barriers and language access program planning&#46; '
 featured_image:
   uid: doj
