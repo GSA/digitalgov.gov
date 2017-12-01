@@ -68,6 +68,7 @@
 	#wrap{
 		margin: 0;
 		padding: 15px;
+		width:auto;
 	}
 	.entry-content{
 		width:auto;
