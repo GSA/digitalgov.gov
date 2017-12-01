@@ -12,9 +12,9 @@
     {{ template "breadcrumb" dict "currentPage" .currentPage.Parent }}
   {{ end }}
     {{ if eq .id .currentPage.UniqueID }}
-      {{ .currentPage.Title }}
+      <!-- {{ .currentPage.Title }} -->
     {{ else }}
-      <a href="{{ .currentPage.URL }}">{{ .currentPage.Title }}</a> &#62;
+      <a href="{{ .currentPage.URL }}">{{ .currentPage.Title }}</a>
     {{ end }}
 {{ end }}
 {{ end }}
