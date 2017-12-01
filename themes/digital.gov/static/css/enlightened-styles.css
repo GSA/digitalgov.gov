@@ -747,7 +747,7 @@ hr {
 	color: #fff;
 	background-color: #fff;
 	height:0;
-	border-bottom:3px double #eee;
+	border-bottom:1px solid #999;
 	display:block;
 	clear:both;
 	}
@@ -5094,7 +5094,7 @@ hr {
 	color: #fff;
 	background-color: #fff;
 	height:0;
-	border-bottom:3px double #eee;
+	border-bottom:1px solid #999;
 	}
 
 body.page-template-page-landing-php {
