@@ -1,6 +1,6 @@
 <nav class="breadcrumb">
   <p>
-    <a href="/">Home</a> &#62;
+    <a href="/">Home</a>
     {{ template "breadcrumb" dict "currentPage" .Page "id" .UniqueID }}
   </p>
 </nav>
@@ -14,7 +14,7 @@
     {{ if eq .id .currentPage.UniqueID }}
       <!-- {{ .currentPage.Title }} -->
     {{ else }}
-      <a href="{{ .currentPage.URL }}">{{ .currentPage.Title }}</a>
+      &#62; <a href="{{ .currentPage.URL }}">{{ .currentPage.Title }}</a>
     {{ end }}
 {{ end }}
 {{ end }}
