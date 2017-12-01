@@ -2,9 +2,9 @@
 slug: limited-english-proficient-audiences-legal-obligations-practical-solutions
 title: 'Limited English Proficient Audiences - Legal Obligations and Practical Solutions'
 summary: 'Learn about your legal obligations to limited English proficient individuals (LEP) as a federal, state, or local government agency&#46; We&#39;ll provide an overview of national origin discrimination and offer practical tips for overcoming language barriers and language access program planning&#46; '
-featured_image: 
-  uid: tile-6.png
-  alt: 'decorative tile'
+featured_image:
+  uid: doj
+  alt: 'Department of Justice'
 event_type: online
 date: 2018-01-18 14:00:00 -0400
 end_date: 2018-01-18 15:00:00 -0400
@@ -19,16 +19,16 @@ In this online training, presenters from the Department of Justice (DOJ) will pr
 After the training, participants should:
 
 * Understand the need for accurate communication with the public regardless of English proficiency
-* Be able to identify federal language access program planning resources 
+* Be able to identify federal language access program planning resources
 * Troubleshoot through simple translation and interpretation challenges.
 
-## Event audience: 
+## Event audience:
 
 This training is geared towards federal, state, and local government official who interact or plan to interact with LEP individuals, and for recipients of federal funds, nonprofit organizations and other language access stakeholders.
 
-## Presenters: 
+## Presenters:
 
-All presenters are from the Federal Coordination and Compliance Section, Civil Rights Division, U.S. Department of Justice 
+All presenters are from the Federal Coordination and Compliance Section, Civil Rights Division, U.S. Department of Justice
 
 * Anna Medina, Attorney Advisor
 * Michael Mulé, Attorney Advisor
