@@ -27,3 +27,9 @@ Add styles inside the media query below that you only want to be applied to the 
 @media only screen and (min-width: 801px) {
 	/* Desktop styles go here */
 }
+
+
+
+#search-form .usagov-search-autocomplete{
+	padding: 10px;
+}
