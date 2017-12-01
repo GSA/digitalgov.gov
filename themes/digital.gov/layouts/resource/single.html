@@ -6,7 +6,7 @@
 
 <div class="hentry entry">
   <div class="entry-head">
-    <h6><a href="/resources/">All Resources</a></h6>
+    {{ partial "breadcrumbs" . }}
     <h1 class="post-title single">{{ .Title | markdownify }}</h1>
   </div>
   <div class="entry-content">

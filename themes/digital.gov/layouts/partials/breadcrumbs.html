@@ -1,0 +1,20 @@
+<nav class="breadcrumb">
+  <p>
+    <a href="/">Home</a> &#62;
+    {{ template "breadcrumb" dict "currentPage" .Page "id" .UniqueID }}
+  </p>
+</nav>
+
+<!-- templates -->
+{{ define "breadcrumb" }}
+ {{ if .currentPage.Parent }}
+ {{ if ne .currentPage.Parent .IsHome }}
+    {{ template "breadcrumb" dict "currentPage" .currentPage.Parent }}
+  {{ end }}
+    {{ if eq .id .currentPage.UniqueID }}
+      {{ .currentPage.Title }}
+    {{ else }}
+      <a href="{{ .currentPage.URL }}">{{ .currentPage.Title }}</a> &#62;
+    {{ end }}
+{{ end }}
+{{ end }}

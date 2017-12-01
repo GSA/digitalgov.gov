@@ -72,8 +72,12 @@ a.edit_file:hover{
 	font-size: 36px;
 	color:#222;
 }
-.entry-head h6{
-	margin: 0 0 15px 0;
+.entry-head .breadcrumb{
+	margin-bottom: 15px;
+	color: #222;
+}
+.entry-head .breadcrumb p{
+	margin: 0;
 }
 
 .entry-content{
