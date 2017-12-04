@@ -2,7 +2,6 @@
 url: /services/u-s-digital-registry/
 date: 2016-01-08 11:06:56 -0400
 title: 'U.S. Digital Registry'
-type: resource
 summary: 'The U.S. Digital Registry serves as a resource for agencies, citizens, and developers to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites.'
 
 ---
