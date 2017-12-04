@@ -1,6 +1,3 @@
-
-
-
 .entry{
 
 }
@@ -10,12 +7,9 @@
 }
 .entry-head h1{
 	margin: 0;
-	font-size: 36px;
-	color:#222;
 }
 .entry-head .breadcrumb{
 	margin-bottom: 15px;
-	color: #222;
 }
 .entry-head .breadcrumb p{
 	margin: 0;
@@ -24,9 +18,6 @@
 .entry-content{
 	margin-bottom: 50px;
 	width: 650px;
-	font-size: 18px;
-	line-height: 30px;
-	color:#222;
 }
 
 .entry-content p{
@@ -39,11 +30,10 @@
 
 .entry-meta{
 	margin-bottom: 120px;
-	color:#222;
 }
 .entry-meta .rule{
 	margin: 0 0 15px 0;
-	border:1px #222 solid;
+	border:1px #555 solid;
 	width:80px;
 }
 .entry-meta .last_commit{
