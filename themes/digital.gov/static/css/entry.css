@@ -39,6 +39,11 @@
 .entry-meta .last_commit{
 	margin: 0;
 	font-style: italic;
+	display: none;
+}
+.entry-meta .last_commit a{
+	color:#555;
+	text-decoration: underline;
 }
 .entry-meta .feedback{
 	font-style: italic;
