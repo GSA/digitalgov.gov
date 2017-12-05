@@ -149,7 +149,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="CartoDB Terms of Use" href="https://cartodb.com/terms-gov-users/">CartoDB TOS</a> (online)
+        <a title="CartoDB Terms of Use" href="https://drive.google.com/file/d/0B3OBExqwT6KJRG8taVZHZUNEQUE/view">CartoDB TOS</a> (online)
       </td>
     </tr>
 
@@ -570,20 +570,6 @@ aliases:
 
       <td style="text-align: left;vertical-align: top;border: none">
         <a title="MapBox Terms of Service (TOS) Amendment" href="https://www.mapbox.com/usg-tos">MapBox TOS</a> (online)
-      </td>
-    </tr>
-
-    <tr>
-      <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Measured Voice" href="http://www.measuredvoice.com/">Measured Voice</a>
-      </td>
-
-      <td style="text-align: left;vertical-align: top;border: none">
-        Social media productivity tool
-      </td>
-
-      <td style="text-align: left;vertical-align: top;border: none">
-        <a title="MeasuredVoice TOS" href="http://www.measuredvoice.com/terms/">Measured Voice TOS</a> (online)
       </td>
     </tr>
 
