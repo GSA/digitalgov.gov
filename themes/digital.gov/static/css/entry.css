@@ -1,5 +1,5 @@
 .entry{
-
+	width: 650px;
 }
 
 .entry-head{
@@ -17,7 +17,6 @@
 
 .entry-content{
 	margin-bottom: 50px;
-	width: 650px;
 }
 
 .entry-content p{
@@ -50,7 +49,7 @@
 		margin: 0;
 		padding: 15px;
 	}
-	.entry-content{
+	.entry{
 		width:auto;
 	}
 }
@@ -61,7 +60,7 @@
 		padding: 15px;
 		width:auto;
 	}
-	.entry-content{
+	.entry{
 		width:auto;
 	}
 }
