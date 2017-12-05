@@ -1,5 +1,12 @@
-.entry{
 
+aside{
+	float: right;
+	background: #efefef;
+}
+
+
+.entry{
+	width: 650px;
 }
 
 .entry-head{
@@ -17,15 +24,10 @@
 
 .entry-content{
 	margin-bottom: 50px;
-	width: 650px;
 }
 
 .entry-content p{
 	margin-bottom: 24px;
-}
-
-.entry-content li{
-	margin-bottom: 18px;
 }
 
 .entry-meta{
@@ -54,8 +56,11 @@
 		margin: 0;
 		padding: 15px;
 	}
-	.entry-content{
+	.entry{
 		width:auto;
+	}
+	aside{
+		float: none;
 	}
 }
 
@@ -65,8 +70,11 @@
 		padding: 15px;
 		width:auto;
 	}
-	.entry-content{
+	.entry{
 		width:auto;
+	}
+	aside{
+		float: none;
 	}
 }
 
