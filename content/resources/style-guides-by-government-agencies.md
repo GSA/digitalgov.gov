@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 ---
 
-This page is a collection of style guides created by government agencies. Style guides are used to set the tone and guidelines for how an agency communicates with the public. You can add your agency&#8217;s guide by [emailing DigitalGov]({{< link "contact-us.md" >}}) or sharing in the [Plain Language Community of Practice]({{< link "plain-language-community-of-practice.md" >}}).
+This page is a collection of style guides created by government agencies. Style guides are used to set the tone and guidelines for how an agency communicates with the public. You can add your agency&#8217;s guide by [emailing DigitalGov]({{< link "about.md" >}}) or sharing in the [Plain Language Community of Practice]({{< link "plain-language-community-of-practice.md" >}}).
 
 #### 18F
 

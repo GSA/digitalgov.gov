@@ -73,4 +73,4 @@ So far, the data is showing that we are doing what we set out to do. But, we kno
 
 In the next few weeks we’ll be publishing our first roadmap with priorities for the next FY. We plan to be very transparent. Look also for a follow up on some decisions and pivots we’ve made since launch in February—not everything went as expected.
 
-Oh, and regarding doing MORE and doing it better? Keep an eye out for _more_ posts featuring more agencies doing _more_ innovative work to make a _more_ responsive 21st century government. And last, [keep in touch]({{< link "contact-us.md" >}} "Contact Us"). Comments and suggestions are always welcome.
+Oh, and regarding doing MORE and doing it better? Keep an eye out for _more_ posts featuring more agencies doing _more_ innovative work to make a _more_ responsive 21st century government. And last, [keep in touch]({{< link "about.md" >}} "Contact Us"). Comments and suggestions are always welcome.

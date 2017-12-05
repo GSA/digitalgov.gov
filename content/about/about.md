@@ -3,7 +3,8 @@ date: 2017-11-14 12:05:00 -0400
 title: About
 url: /about/
 summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
-
+aliases:
+  - /contact-us/
 ---
 
 Welcome to DigitalGov.
@@ -15,6 +16,7 @@ And we do that by providing people in government the tools, methods, practices a
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
 We’ve found that agencies need:
+
 - Guidance on implementing digital policies and initiatives
 - Open access to modern methods, practices, policies, and tools
 - Focused trainings and events that help teams learn and adopt new concepts
@@ -54,3 +56,15 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **Maya Benari**<br/>
 **John Donmoyer**<br/>
 **Andrea Sigritz**<br/>
+
+_[https://standards.usa.gov/](https://standards.usa.gov/)_
+
+---
+
+#### Contact Us
+
+**Have a question or comment?**
+
+- Send us an e-mail [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+- Create [an issue on GitHub](https://github.com/GSA/digitalgov.gov/issues)
+- Or make an edit to our pages and submit a pull request

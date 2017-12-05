@@ -14,10 +14,12 @@ Thinking about crowdsourcing and incentives as innovative ways to tackle problem
 
 If you answered yes to any of these questions, the Challenges and Prizes Federal Community of Practice is for you!
 
-The Challenges & Prizes Community is ran by Kelly Olson, Tammy White, Eric Beidel and Stephanie Green in the GSA.
-
 ### Join
 To join, send an e-mail to **[team@challenge.gov](mailto:team@challenge.gov)** with your name and agency you work for.
+
+### Community Manager(s)
+
+Kelly Olson, Tammy White, Eric Beidel and Stephanie Green in the GSA
 
 ### Who we are
 
