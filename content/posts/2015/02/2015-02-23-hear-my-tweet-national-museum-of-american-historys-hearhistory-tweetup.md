@@ -84,4 +84,4 @@ Blasco had several tips to share with other agencies that are considering a Twee
   * **Tweetups should be for regular people**, not for members of the media.
   * **Pictures work well** on social media. Look for photo opportunities and remember to take a group photo.
   * **Send a post-Tweetup survey** to get additional feedback.
-  * **Follow up afterwards** with the tweeters. Thank them for attending and add them to your office e-mail list, if possible.
+  * **Follow up afterwards** with the tweeters. Thank them for attending and add them to your office email list, if possible.

@@ -8,7 +8,7 @@ summary: 'The Federal SocialGov Community unites over 1,200 digital managers and
 
 ### Join
 
-To join, [send an e-mail to Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23SocialGov) with “Join #SocialGov” in the subject.
+To join, [send an email to Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23SocialGov) with “Join #SocialGov” in the subject.
 
 ### Who we are
 

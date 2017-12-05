@@ -51,4 +51,4 @@ Better yet, “warm transfer” them if you’re able and your technology suppor
 
 Give the option to speak to someone. Customers get frustrated when they have to wade through a long IVR and figure out how to reach a person. If customer experience matters to you, give them an option to speak to a representative versus driving them away in frustration.
 
-**Learn more about customer experience:** Check back in a couple weeks, when we’ll share the lessons we learned from JD Power on our web chat and e-mail channels. And in the meantime, share your insight with us in the comments section.
+**Learn more about customer experience:** Check back in a couple weeks, when we’ll share the lessons we learned from JD Power on our web chat and email channels. And in the meantime, share your insight with us in the comments section.

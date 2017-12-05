@@ -53,7 +53,7 @@ In the first four months — we hope to evaluate the present state of the Standa
 **Say hello to the Standards team:**
 
 - [Join their Public Slack channel](https://chat.18f.gov/)
-- [Send them an e-mail](mailto:uswebdesignstandards@gsa.gov)
+- [Send them an email](mailto:uswebdesignstandards@gsa.gov)
 - [Contribute to the project](https://github.com/18F/web-design-standards/issues)
 - [Build something with the standards](https://standards.usa.gov/)
 

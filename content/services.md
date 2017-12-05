@@ -54,6 +54,6 @@ The [Electronic Capital Planning and Investment Control (eCPIC)]({{< link "elect
 
 {{< button href="u-s-digital-registry.md" text="Get Started" >}}
 
-[USA.gov Short URLs]({{< link "usa-gov-short-urls.md" >}} "USA.gov Short URLs") let anyone with a government e-mail address quickly and easily create short, trustworthy .gov URLs. **Free!**
+[USA.gov Short URLs]({{< link "usa-gov-short-urls.md" >}} "USA.gov Short URLs") let anyone with a government email address quickly and easily create short, trustworthy .gov URLs. **Free!**
 
 {{< button href="usa-gov-short-urls.md" text="Get Started" >}}

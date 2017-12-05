@@ -65,6 +65,6 @@ _[https://standards.usa.gov/](https://standards.usa.gov/)_
 
 **Have a question or comment?**
 
-- Send us an e-mail [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+- [Send us an email »](mailto:digitalgov@gsa.gov)
 - Create [an issue on GitHub](https://github.com/GSA/digitalgov.gov/issues)
 - Or make an edit to our pages and submit a pull request

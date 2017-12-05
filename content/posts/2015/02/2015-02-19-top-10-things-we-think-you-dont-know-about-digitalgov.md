@@ -31,7 +31,7 @@ Things you don&#8217;t know about this website, DigitalGov.gov, that is. It’s 
 
 5.  We’ve only been “visited” by legal once. But that was a four attorney alarm! Hot!
 
-4.  The death of e-mail is greatly exaggerated. We get as much traffic from subscriber emails as we do from Google. Also, our referrals from social media continues to grow. At the risk of sounding like Sally Field at her Oscar win: [Follow us](https://twitter.com/Digital_Gov "Digital Gov on Twitter")! [Like us](https://www.facebook.com/digitalgov "DigitalGov on Facebook")!
+4.  The death of email is greatly exaggerated. We get as much traffic from subscriber emails as we do from Google. Also, our referrals from social media continues to grow. At the risk of sounding like Sally Field at her Oscar win: [Follow us](https://twitter.com/Digital_Gov "Digital Gov on Twitter")! [Like us](https://www.facebook.com/digitalgov "DigitalGov on Facebook")!
 
 3.  Less than 4% of you use the site search. “Terms of Service” is your #1 query, but you are more likely to search for three of our authors than for “responsive Web design.” Hmmmmm.
 

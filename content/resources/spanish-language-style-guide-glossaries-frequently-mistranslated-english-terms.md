@@ -289,7 +289,7 @@ exp.: expression
           
           <tr>
             <td valign="top">
-              Submit [v] <em>(as in submit an e-mail or submit a paper)</em>
+              Submit [v] <em>(as in submit an email or submit a paper)</em>
             </td>
             
             <td valign="top">

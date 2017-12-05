@@ -35,7 +35,7 @@ The genesis of this Toolkit is a collaborative document that originated at the [
 
 The Labor Department’s Office of Disability Employment Policy (ODEP) and the Federal Social Media Community of Practice are deeply invested in the issue of accessible technology. Why? Because the development and adoption of accessible, universally designed technology is critical to making sure people with disabilities succeed at work and deliver for their employers.
 
-Think about it—could you do your job if it wasn’t possible to read your e-mail? And could you even get a job if you couldn’t fill out the online application? If you can’t access the tools and technologies you need to look for or perform a job, your employability and productivity suffer. So it’s easy to understand why inaccessible technology can be a major barrier to employment or on-the-job success.
+Think about it—could you do your job if it wasn’t possible to read your email? And could you even get a job if you couldn’t fill out the online application? If you can’t access the tools and technologies you need to look for or perform a job, your employability and productivity suffer. So it’s easy to understand why inaccessible technology can be a major barrier to employment or on-the-job success.
 
 This same logic applies to social media. More and more organizations are using social media to conduct outreach, recruit job candidates and encourage workplace productivity. But not all social media content is accessible to people with certain disabilities, which limits the reach and effectiveness of these platforms. And with 20 percent of the population estimated to have a disability, government agencies have an obligation to ensure that their messages, services and products are as inclusive as possible.
 
@@ -209,6 +209,6 @@ Please provide your ideas for evolving these guidelines and continuing the dialo
 Ways to provide feedback and engage on this topic:
 
   * Use the commenting tool at the bottom of this page to share your comments and suggest additional content, examples or case studies.
-  * Subscribe to [e-mail updates about this Toolkit](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_39)
+  * Subscribe to [email updates about this Toolkit](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_39)
   * Join the [Federal Social Media Community of Practice]({{< link "social-media.md" >}} "Social Media")
-  * [E-mail us](mailto:justin.herman@gsa.gov)
+  * [email us](mailto:justin.herman@gsa.gov)

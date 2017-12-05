@@ -35,7 +35,7 @@ If you regularly review your agency’s content, you probably see the same mista
 
 ## Quick references
 
-Provide additional content as quick references for authors. In our guide, these references include lists of words to avoid (utilize, myriad, in order to), confusing words (which and that), acronyms (how to write and reference them), hyphenated words (email, not e-mail), and units and their abbreviations (b for barrel). Most authors in your organization won’t read your 100-page style guide. Really, they won’t. Help them out by creating a one-page tip sheet that includes many of the important mistakes and style rules. If you make it pretty enough, writers will pin it to their bulletin boards.
+Provide additional content as quick references for authors. In our guide, these references include lists of words to avoid (utilize, myriad, in order to), confusing words (which and that), acronyms (how to write and reference them), hyphenated words (email, not email), and units and their abbreviations (b for barrel). Most authors in your organization won’t read your 100-page style guide. Really, they won’t. Help them out by creating a one-page tip sheet that includes many of the important mistakes and style rules. If you make it pretty enough, writers will pin it to their bulletin boards.
 
 ## Copy others
 
