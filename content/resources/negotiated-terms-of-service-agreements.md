@@ -65,7 +65,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Amazon Appstore Terms of Service (TOS) Amendment" href="CDN/files/2014/07/amazon-appstore-agreements-tos-amendment-12714-140522145744-phpapp02.pdf">Amazon Appstore TOS</a>
+        <a title="Amazon Appstore Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/amazon-appstore-agreements-tos-amendment-12714-140522145744-phpapp02.pdf" >}}">Amazon Appstore TOS</a>
       </td>
     </tr>
 
@@ -79,7 +79,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="AddThis.com Terms of Service (TOS) Amendment" href="CDN/files/2014/07/addthis-updated-tos-amendment.pdf">AddThis TOS</a>
+        <a title="AddThis.com Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/addthis-updated-tos-amendment.pdf" >}}">AddThis TOS</a>
       </td>
     </tr>
 
@@ -107,7 +107,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Bing Terms of Service (TOS) Amendment" href="CDN/files/2014/07/bing-tos-amendment.pdf">Bing TOS</a>
+        <a title="Bing Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/bing-tos-amendment.pdf" >}}">Bing TOS</a>
       </td>
     </tr>
 
@@ -121,7 +121,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Blackberry SDK License Agreement" href="CDN/files/2014/07/blackberry-sdk-license-agreement.pdf">BlackBerry SDK License Agreement</a>, <a title="Blackberry App World Vendor Agreement" href="CDN/files/2014/07/blackberry-app-world-vendor-agreement.pdf">BlackBerry App World Vendor Agreement</a>, <a title="Amendment to BlackBerry SDK License Agreement and BlackBerry App World Vendor Agreement for Use by U.S. General Services Administration" href="CDN/files/2014/07/blackberry-app-world-tos-agreement.pdf">BlackBerry App World TOS</a>
+        <a title="Blackberry SDK License Agreement" href="{{< legacy-file "/2014/07/blackberry-sdk-license-agreement.pdf" >}}">BlackBerry SDK License Agreement</a>, <a title="Blackberry App World Vendor Agreement" href="{{< legacy-file "/2014/07/blackberry-app-world-vendor-agreement.pdf" >}}">BlackBerry App World Vendor Agreement</a>, <a title="Amendment to BlackBerry SDK License Agreement and BlackBerry App World Vendor Agreement for Use by U.S. General Services Administration" href="{{< legacy-file "/2014/07/blackberry-app-world-tos-agreement.pdf" >}}">BlackBerry App World TOS</a>
       </td>
     </tr>
 
@@ -135,7 +135,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Blip.tv Terms of Use" href="CDN/files/2014/07/bliptv-tos-amendment.pdf">Blip.tv TOS</a>
+        <a title="Blip.tv Terms of Use" href="{{< legacy-file "/2014/07/bliptv-tos-amendment.pdf" >}}">Blip.tv TOS</a>
       </td>
     </tr>
 
@@ -163,7 +163,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="ChallengePost Terms of Service (TOS) Amendment" href="CDN/files/2014/07/challengegov-tos-amendment.pdf">Challenge.gov TOS</a>
+        <a title="ChallengePost Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/challengegov-tos-amendment.pdf" >}}">Challenge.gov TOS</a>
       </td>
     </tr>
 
@@ -219,7 +219,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Delib Dialogue App Terms of Service (TOS) Amendment" href="CDN/files/2014/07/delib-dialog-tos-amendment.pdf">Dialogue App TOS</a>
+        <a title="Delib Dialogue App Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/delib-dialog-tos-amendment.pdf" >}}">Dialogue App TOS</a>
       </td>
     </tr>
 
@@ -247,7 +247,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Underlying Inc. (Dipity.com) Terms of Service (TOS) Amendment" href="CDN/files/2014/07/dippity-tos-amendment.pdf">Dipity TOS</a>
+        <a title="Underlying Inc. (Dipity.com) Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/dippity-tos-amendment.pdf" >}}">Dipity TOS</a>
       </td>
     </tr>
 
@@ -289,7 +289,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Flickr Terms of Service (TOS) Amendment" href="CDN/files/2014/07/flickr-tos-amendment.pdf">Flickr TOS</a>
+        <a title="Flickr Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/flickr-tos-amendment.pdf" >}}">Flickr TOS</a>
       </td>
     </tr>
 
@@ -317,7 +317,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Amendment to Foursquare Labs Inc.'s Terms of Use" href="CDN/files/2014/07/foursquare-tos-amendment.pdf">Foursquare TOS</a>
+        <a title="Amendment to Foursquare Labs Inc.'s Terms of Use" href="{{< legacy-file "/2014/07/foursquare-tos-amendment.pdf" >}}">Foursquare TOS</a>
       </td>
     </tr>
 
@@ -345,7 +345,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Addendum to Terms of Service (TOS) for Google Analytics" href="CDN/files/2014/07/google-analytics-tos-amendment.pdf">Google Analytics TOS</a>
+        <a title="Addendum to Terms of Service (TOS) for Google Analytics" href="{{< legacy-file "/2014/07/google-analytics-tos-amendment.pdf" >}}">Google Analytics TOS</a>
       </td>
     </tr>
 
@@ -359,7 +359,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Addendum to the Google Blogger Agreement" href="CDN/files/2014/07/google-blogger-tos-amendment.pdf">Google Blogger TOS</a>
+        <a title="Addendum to the Google Blogger Agreement" href="{{< legacy-file "/2014/07/google-blogger-tos-amendment.pdf" >}}">Google Blogger TOS</a>
       </td>
     </tr>
 
@@ -373,7 +373,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Addendum to Terms of Service (TOS) for Google Feedburner" href="CDN/files/2014/07/google-feedburner-tos-amendment.pdf">Feedburner TOS</a>
+        <a title="Addendum to Terms of Service (TOS) for Google Feedburner" href="{{< legacy-file "/2014/07/google-feedburner-tos-amendment.pdf" >}}">Feedburner TOS</a>
       </td>
     </tr>
 
@@ -387,7 +387,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Addendum to Terms of Use for Google Plus Pages" href="CDN/files/2014/07/google-plus-tos-amendment.pdf">Google+ TOS</a>
+        <a title="Addendum to Terms of Use for Google Plus Pages" href="{{< legacy-file "/2014/07/google-plus-tos-amendment.pdf" >}}">Google+ TOS</a>
       </td>
     </tr>
 
@@ -401,7 +401,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Addendum to Google Visualization API Terms of Service (TOS)" href="CDN/files/2014/07/google-visualization-tos-amendment.pdf">Google Visualization TOS </a>
+        <a title="Addendum to Google Visualization API Terms of Service (TOS)" href="{{< legacy-file "/2014/07/google-visualization-tos-amendment.pdf" >}}">Google Visualization TOS </a>
       </td>
     </tr>
 
@@ -443,7 +443,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="" href="CDN/files/2015/02/hootsuite-tos-amendment.pdf">HootSuite TOS</a>
+        <a title="" href="{{< legacy-file "/2015/02/hootsuite-tos-amendment.pdf" >}}">HootSuite TOS</a>
       </td>
     </tr>
 
@@ -457,7 +457,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Hulu Content Deal Memorandum / TOS" href="CDN/files/2014/01/hulu-tos-amendment.pdf">Hulu TOS</a>
+        <a title="Hulu Content Deal Memorandum / TOS" href="{{< legacy-file "/2014/01/hulu-tos-amendment.pdf" >}}">Hulu TOS</a>
       </td>
     </tr>
 
@@ -527,7 +527,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="IntenseDebate Terms of Service (TOS) Amendment" href="CDN/files/2014/01/intensedebate-tos-amendment.pdf">IntenseDebate TOS</a>
+        <a title="IntenseDebate Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/01/intensedebate-tos-amendment.pdf" >}}">IntenseDebate TOS</a>
       </td>
     </tr>
 
@@ -555,7 +555,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Amendment to LinkedIn User Agreement" href="CDN/files/2015/09/Amendment-to-LinkedIn-User-Agreement_Federal.pdf">LinkedIn TOS</a>
+        <a title="Amendment to LinkedIn User Agreement" href="{{< legacy-file "/2015/09/Amendment-to-LinkedIn-User-Agreement_Federal.pdf" >}}">LinkedIn TOS</a>
       </td>
     </tr>
 
@@ -625,7 +625,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="MixedInk TOS" href="CDN/files/2014/01/mixedink-tos-amendment.pdf">MixedInk TOS</a>
+        <a title="MixedInk TOS" href="{{< legacy-file "/2014/01/mixedink-tos-amendment.pdf" >}}">MixedInk TOS</a>
       </td>
     </tr>
 
@@ -653,7 +653,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="MySpace TOS" href="CDN/files/2014/01/myspace-tos-amendment.pdf">MySpace TOS</a>
+        <a title="MySpace TOS" href="{{< legacy-file "/2014/01/myspace-tos-amendment.pdf" >}}">MySpace TOS</a>
       </td>
     </tr>
 
@@ -695,7 +695,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Thomson Reuters Open Calais TOS" href="CDN/files/2014/01/opencalais-tos-amendment.pdf">OpenCalais TOS</a>
+        <a title="Thomson Reuters Open Calais TOS" href="{{< legacy-file "/2014/01/opencalais-tos-amendment.pdf" >}}">OpenCalais TOS</a>
       </td>
     </tr>
 
@@ -709,7 +709,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Piktochart TOS" href="CDN/files/2015/05/Piktochart-Commerce-Amended-TOS-3_15.pdf">Piktochart TOS</a> (3/11/2015)
+        <a title="Piktochart TOS" href="{{< legacy-file "/2015/05/Piktochart-Commerce-Amended-TOS-3_15.pdf" >}}">Piktochart TOS</a> (3/11/2015)
       </td>
     </tr>
 
@@ -821,7 +821,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Scribd Terms of Service" href="CDN/files/2014/01/scribd-tos-amendment.pdf">Scribd TOS</a>
+        <a title="Scribd Terms of Service" href="{{< legacy-file "/2014/01/scribd-tos-amendment.pdf" >}}">Scribd TOS</a>
       </td>
     </tr>
 
@@ -849,7 +849,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Slideshare Terms of Service" href="CDN/files/2014/01/slideshare-tos-amendment.pdf">Slideshare TOS</a>
+        <a title="Slideshare Terms of Service" href="{{< legacy-file "/2014/01/slideshare-tos-amendment.pdf" >}}">Slideshare TOS</a>
       </td>
     </tr>
 
@@ -905,7 +905,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Social Twist / TAF 4 Free Terms of Service" href="CDN/files/2014/01/socialtwist-tos-amendment.pdf">SocialTwist/TAF4FreeTOS</a>
+        <a title="Social Twist / TAF 4 Free Terms of Service" href="{{< legacy-file "/2014/01/socialtwist-tos-amendment.pdf" >}}">SocialTwist/TAF4FreeTOS</a>
       </td>
     </tr>
 
@@ -919,7 +919,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Socrata Terms of Service" href="CDN/files/2014/01/socrata-tos-amendment_0.pdf">Socrata TOS</a>
+        <a title="Socrata Terms of Service" href="{{< legacy-file "/2014/01/socrata-tos-amendment_0.pdf" >}}">Socrata TOS</a>
       </td>
     </tr>
 
@@ -933,7 +933,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Source Forge Terms of Service" href="CDN/files/2014/01/sourceforge-tos-amendment.pdf">SourceForge TOS</a>
+        <a title="Source Forge Terms of Service" href="{{< legacy-file "/2014/01/sourceforge-tos-amendment.pdf" >}}">SourceForge TOS</a>
       </td>
     </tr>
 
@@ -961,7 +961,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="S.T.C.I. Ven Corps Terms of Service" href="CDN/files/2014/01/stci-vencorps-tos-amendment.pdf">STCI/VenCorps TOS</a>
+        <a title="S.T.C.I. Ven Corps Terms of Service" href="{{< legacy-file "/2014/01/stci-vencorps-tos-amendment.pdf" >}}">STCI/VenCorps TOS</a>
       </td>
     </tr>
 
@@ -989,7 +989,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Stumble Upon Terms of Service" href="CDN/files/2014/01/stumbleupon-tos-amendment.pdf">StumbleUpon TOS</a>
+        <a title="Stumble Upon Terms of Service" href="{{< legacy-file "/2014/01/stumbleupon-tos-amendment.pdf" >}}">StumbleUpon TOS</a>
       </td>
     </tr>
 
@@ -1003,7 +1003,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Survey Analytics Terms of Service" href="CDN/files/2014/01/survey-analytics-tos-amendment.pdf">Survey Analytics TOS</a>
+        <a title="Survey Analytics Terms of Service" href="{{< legacy-file "/2014/01/survey-analytics-tos-amendment.pdf" >}}">Survey Analytics TOS</a>
       </td>
     </tr>
 
@@ -1073,7 +1073,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Tube Mogul Terms of Service" href="CDN/files/2014/01/tubemogul-tos-amendment.pdf">TubeMogul TOS</a>
+        <a title="Tube Mogul Terms of Service" href="{{< legacy-file "/2014/01/tubemogul-tos-amendment.pdf" >}}">TubeMogul TOS</a>
       </td>
     </tr>
 
@@ -1087,7 +1087,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Tumbler Terms of Service" href="CDN/files/2014/10/countersigned-GSA-Tumblr-agreement.pdf">Tumblr supplemental TOS</a>
+        <a title="Tumbler Terms of Service" href="{{< legacy-file "/2014/10/countersigned-GSA-Tumblr-agreement.pdf" >}}">Tumblr supplemental TOS</a>
       </td>
     </tr>
 
@@ -1129,7 +1129,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Wiki spaces Terms of Service" href="CDN/files/2014/01/wikispaces-tos-amendment.pdf">Wikispaces TOS</a>
+        <a title="Wiki spaces Terms of Service" href="{{< legacy-file "/2014/01/wikispaces-tos-amendment.pdf" >}}">Wikispaces TOS</a>
       </td>
     </tr>
 
@@ -1143,7 +1143,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Word Press Terms of Service" href="CDN/files/2014/01/wordpress-tos-amendment.pdf">WordPress TOS</a>
+        <a title="Word Press Terms of Service" href="{{< legacy-file "/2014/01/wordpress-tos-amendment.pdf" >}}">WordPress TOS</a>
       </td>
     </tr>
 
@@ -1157,7 +1157,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Yammer Terms of Service" href="CDN/files/2014/01/yammer-tos-amendment.doc">Yammer, Inc. TOS</a>
+        <a title="Yammer Terms of Service" href="{{< legacy-file "/2014/01/yammer-tos-amendment.doc" >}}">Yammer, Inc. TOS</a>
       </td>
     </tr>
 
@@ -1171,7 +1171,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Yelp Terms of Service" href="CDN/files/2015/08/Yelp-Terms-Amendment-for-use-by-Govt-FINAL-07-30-2015.doc">Yelp TOS</a>
+        <a title="Yelp Terms of Service" href="{{< legacy-file "/2015/08/Yelp-Terms-Amendment-for-use-by-Govt-FINAL-07-30-2015.doc" >}}">Yelp TOS</a>
       </td>
     </tr>
 
@@ -1185,7 +1185,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="You Tube Terms of Service" href="CDN/files/2014/01/youtube-tos-amendment.pdf">YouTube TOS</a>
+        <a title="You Tube Terms of Service" href="{{< legacy-file "/2014/01/youtube-tos-amendment.pdf" >}}">YouTube TOS</a>
       </td>
     </tr>
 
@@ -1199,7 +1199,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Zee Maps Terms of Service" href="CDN/files/2014/01/zeemaps-tos-amendment.pdf">ZeeMaps TOS</a>
+        <a title="Zee Maps Terms of Service" href="{{< legacy-file "/2014/01/zeemaps-tos-amendment.pdf" >}}">ZeeMaps TOS</a>
       </td>
     </tr>
   </table>
@@ -1233,7 +1233,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="4 Q Survey iPerceptions Terms of Service (TOS) Amendment" href="CDN/files/2014/07/4qsurvey-tos-amendment.pdf">4Q Survey TOS</a>
+        <a title="4 Q Survey iPerceptions Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/4qsurvey-tos-amendment.pdf" >}}">4Q Survey TOS</a>
       </td>
     </tr>
 
@@ -1289,7 +1289,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Addendum to Terms of Service (TOS) for Google Moderator" href="CDN/files/2014/07/google-moderator-tos-amendment.pdf">Google Moderator TOS</a>
+        <a title="Addendum to Terms of Service (TOS) for Google Moderator" href="{{< legacy-file "/2014/07/google-moderator-tos-amendment.pdf" >}}">Google Moderator TOS</a>
       </td>
     </tr>
 
@@ -1303,7 +1303,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Addendum to Terms of Service (TOS) for Google Webmaster Tools" href="CDN/files/2014/07/google-webmaster-tools-tos-amendment.pdf">Google Webmaster Tools TOS</a> – Google Webmaster Tools has decided not to sign up any new agencies but will honor existing agreements. Updated 10/18/13
+        <a title="Addendum to Terms of Service (TOS) for Google Webmaster Tools" href="{{< legacy-file "/2014/07/google-webmaster-tools-tos-amendment.pdf" >}}">Google Webmaster Tools TOS</a> – Google Webmaster Tools has decided not to sign up any new agencies but will honor existing agreements. Updated 10/18/13
       </td>
     </tr>
 
@@ -1331,7 +1331,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="MeetUp Terms of Service (TOS) Amendment" href="CDN/files/2014/01/meetup-everywhere-tos-amendment.pdf">MeetUp Everywhere TOS</a>
+        <a title="MeetUp Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/01/meetup-everywhere-tos-amendment.pdf" >}}">MeetUp Everywhere TOS</a>
       </td>
     </tr>
 
