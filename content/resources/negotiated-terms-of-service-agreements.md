@@ -729,7 +729,7 @@ aliases:
 
     <tr>
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="POP" href="https://popapp.in/">POP</a>
+        <a title="POP" href="https://marvelapp.com/pop/">POP</a>
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
@@ -737,7 +737,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="POP Terms of Service" href="https://popapp.in/en/terms/government-users">POP TOS</a>
+        <a title="POP Terms of Service" href="https://marvelapp.com/terms/">POP TOS</a>
       </td>
     </tr>
 
