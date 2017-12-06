@@ -2,7 +2,7 @@
 url: /resources/user-experience/
 date: 2013-12-04 4:26:11 -0400
 title: 'User Experience Resources'
-summary: 'User experience resources federal employees.'
+summary: 'User experience resources government employees'
 aliases:
   - /resources/digitalgov-user-experience-resources/
 
