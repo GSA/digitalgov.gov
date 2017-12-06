@@ -1,8 +1,6 @@
 ---
-url: /resources/kitchen-sink/
+url: kitchen-sink/
 date: 2017-12-04 21:21:00 -0400
-type: guide
-layout: nav-right
 title: 'Kitchen Sink'
 summary: 'Everything under the sun.'
 
