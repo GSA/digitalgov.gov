@@ -19,7 +19,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Data.gov’s<a href="http://catalog.data.gov/"> new data catalog</a> is the core of a “Data.gov 2.0” that will be completed in the coming months.  The <a href="{{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}" target="_blank">User Experience Program</a> taught us how to manage everything involved in testing the new catalog, from creating usability tasks for the testers to coordinating session logistics. Leading testers through the tasks requires expertise, probing for what they’re really thinking, why they make the choices they make and what can be done better. Because First Fridays showed us how to do that, we received exhaustive – and actionable – feedback.
+  Data.gov’s<a href="http://catalog.data.gov/"> new data catalog</a> is the core of a “Data.gov 2.0” that will be completed in the coming months.  The <a href="{{< link "user-experience-program-usability-starter-kit.md" >}}" target="_blank">User Experience Program</a> taught us how to manage everything involved in testing the new catalog, from creating usability tasks for the testers to coordinating session logistics. Leading testers through the tasks requires expertise, probing for what they’re really thinking, why they make the choices they make and what can be done better. Because First Fridays showed us how to do that, we received exhaustive – and actionable – feedback.
 </p>
 
 <p dir="ltr">

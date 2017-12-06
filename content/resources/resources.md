@@ -161,8 +161,8 @@ authors:
 ## User Experience
 
 *   [User Experience Community]({{< link "user-experience.md" >}})
-*   [DigitalGov User Experience Resources]({{< link "digitalgov-user-experience-resources.md" >}})
-    *   [Government Usability Case Studies]({{< link "digitalgov-user-experience-program-results-and-case-studies.md" >}})
+*   [DigitalGov User Experience Resources]({{< link "/resources/user-experience/" >}})
+    *   [Government Usability Case Studies]({{< link "user-experience-program-results-and-case-studies.md" >}})
 
 ## Website Management
 

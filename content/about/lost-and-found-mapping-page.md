@@ -510,7 +510,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DigitalGov User Experience Program" href="{{< link "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a>
+      <a title="DigitalGov User Experience Program" href="{{< link "/resources/user-experience/" >}}">DigitalGov User Experience Program</a>
     </td>
   </tr>
 
@@ -520,7 +520,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DigitalGov User Experience Program" href="{{< link "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a>
+      <a title="DigitalGov User Experience Program" href="{{< link "/resources/user-experience/" >}}">DigitalGov User Experience Program</a>
     </td>
   </tr>
 
@@ -540,7 +540,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DigitalGov User Experience Program: Usability Starter Kit" href="{{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}">DigitalGov User Experience Program: Usability Starter Kit</a>
+      <a title="DigitalGov User Experience Program: Usability Starter Kit" href="{{< link "user-experience-program-usability-starter-kit.md" >}}">DigitalGov User Experience Program: Usability Starter Kit</a>
     </td>
   </tr>
 

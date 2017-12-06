@@ -28,7 +28,7 @@ During the summer, we review and analyze the data, then develop action plans for
 A benefit of keeping this process top-of-mind for staff all year long is that it enforces the importance of customer-centric thinking in all we do. It’s also just one of many tools in our VOC toolbox. Other tools we use include:
 
   * [Web analytics]({{< link "dap.md" >}})
-  * [Usability testing]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}})
+  * [Usability testing]({{< link "user-experience-program-usability-starter-kit.md" >}})
   * [Call center data]({{< link "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}})
   * Web pop-up surveys
   * Free-form customer comments from social media, chat, blogs or email

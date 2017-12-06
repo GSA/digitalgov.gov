@@ -658,7 +658,7 @@ Website User Experience focuses on how visitors think information should be orga
 
 ### **Usability Testing**
 
-[Usability testing]({{< link "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") provides an opportunity to watch real people using your product. It can give you important metrics such as how long it takes someone to complete a task, or how many clicks it takes to find something. It also gives you general feedback about design and functionality, offering invaluable insights into what you need to improve. If people can’t use your site, all the work you put into writing, coding and designing your site will be wasted, and you will fail in your mission. Usability testing routinely achieves a [high return on investment](http://www.useit.com/alertbox/government-nonprofit.html) by saving agencies thousands to millions of dollars on development costs.
+[Usability testing]({{< link "/resources/user-experience/" >}} "DigitalGov User Experience Program") provides an opportunity to watch real people using your product. It can give you important metrics such as how long it takes someone to complete a task, or how many clicks it takes to find something. It also gives you general feedback about design and functionality, offering invaluable insights into what you need to improve. If people can’t use your site, all the work you put into writing, coding and designing your site will be wasted, and you will fail in your mission. Usability testing routinely achieves a [high return on investment](http://www.useit.com/alertbox/government-nonprofit.html) by saving agencies thousands to millions of dollars on development costs.
 
 Two common approaches to usability testing are:
 

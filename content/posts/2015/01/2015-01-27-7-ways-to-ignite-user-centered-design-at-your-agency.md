@@ -73,7 +73,7 @@ Look for UX consultants who:
 
 If you don’t have the budget to hire a consultant, look for some free resources. For example:
 
-  * Programs like GSA’s [DigitalGov User Experience program]({{< link "digitalgov-user-experience-resources.md" >}}).
+  * Programs like GSA’s [DigitalGov User Experience program]({{< link "/resources/user-experience/" >}}).
   * Free templates and other resources available on sites like [usability.gov](http://www.usability.gov/).
   * Training and mentoring available through the [User Experience Professionals Association](http://uxpa.org/) (UXPA).
 

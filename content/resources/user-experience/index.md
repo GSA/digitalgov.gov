@@ -22,7 +22,7 @@ DigitalGov&#8217;s user experience resources provide tools for federal employees
 
 ### **1. Usability Starter Kit**
 
-Get help creating your own usability tests, download presentations you can use, get templates and more in our [Usability Starter Kit]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}).
+Get help creating your own usability tests, download presentations you can use, get templates and more in our [Usability Starter Kit]({{< link "user-experience-program-usability-starter-kit.md" >}}).
 
 ### **2. Usability Case Studies**
 

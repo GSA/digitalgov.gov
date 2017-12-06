@@ -31,7 +31,7 @@ So for the past few months we have been taking APIs from [USDA](http://ers.usda.
 
 Bing! Instant and unfiltered customer feedback.
 
-And who are we? We&#8217;re two GSA programs—[DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}}) and [18F](http://18f.gsa.gov/)—who care about creating better digital products. We improve federal systems and teach people about user research, all in one morning.
+And who are we? We&#8217;re two GSA programs—[DigitalGov User Experience Program]({{< link "/resources/user-experience/" >}}) and [18F](http://18f.gsa.gov/)—who care about creating better digital products. We improve federal systems and teach people about user research, all in one morning.
 
 The promise of APIs is incredible and their widespread adoption is a key part of 21st century government. But APIs are only worth the sweat and tears that go into their creation if people can use them. Our program has helped more than a dozen agencies realize the benefits of User Experience evaluations.
 
