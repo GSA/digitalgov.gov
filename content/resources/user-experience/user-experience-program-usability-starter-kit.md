@@ -1,10 +1,11 @@
 ---
-url: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-usability-starter-kit/
+url: /resources/user-experience/user-experience-program-usability-starter-kit/
 date: 2014-01-16 11:28:18 -0400
 title: Usability Starter Kit
-summary: 'Here are some tools and templates to help you create better user experiences. If you have resources to add, please email us. 1. Usability and User Experience Presentations: User-Centered Design Presentation (PPT, 5.4 MG, 40 slides, Nov 2013) and Recorded Video Introduction to Hallway Usability Testing (Video) 2. Usability Test: Usability Testing Script  (DOC, 81 KB, 6'
-authors:
-  - andreanocesigritz
+summary: 'Here are some tools and templates to help you create better user experiences.'
+aliases:
+  - /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-usability-starter-kit/
+
 ---
 
 _Here are some tools and templates to help you create better user experiences. If you have resources to add, please [email us](mailto:govux@gsa.gov)._

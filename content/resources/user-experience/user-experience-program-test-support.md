@@ -1,10 +1,10 @@
 ---
-url: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-test-support/
+url: /resources/user-experience/user-experience-program-test-support/
 date: 2014-01-16 11:25:23 -0400
 title: 'DigitalGov User Experience Program: Test Support'
-summary: 'It&rsquo;s always best to test a product BEFORE you release it. So the best time to evaluate the usability of a product is as early as possible, including when you are creating wireframes and prototypes. But even if you&rsquo;ve gone past that point'
-authors:
-  - andreanocesigritz
+summary: 'It&rsquo;s always best to test a product BEFORE you release it. So the best time to evaluate the usability of a product is as early as possible, including when you are creating wireframes and prototypes.'
+aliases:
+  - /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-test-support/
 ---
 
 It’s always best to test a product BEFORE you release it. So the best time to evaluate the usability of a product is as early as possible, including when you are creating wireframes and prototypes.
