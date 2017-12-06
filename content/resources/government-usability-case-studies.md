@@ -3,8 +3,6 @@ url: /resources/digitalgov-user-experience-resources/government-usability-case-s
 date: 2014-01-16 10:24:24 -0400
 title: Government Usability Case Studies
 summary: 'This list of government usability case studies shows how government sites, mobile apps and other products become more effective, more coherent and more usable by focusing on the User Experience of their customers. Want to be featured here? Just email us. National Cancer Institute Persona'
-authors:
-  - andreanocesigritz
 ---
 
 This list of government usability case studies shows how government sites, mobile apps and other products become more effective, more coherent and more usable by focusing on the User Experience of their customers.
@@ -476,7 +474,7 @@ Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to em
   </div>
 
   <div class="one-half">
-    <strong>Department of Defense</strong><br /> <a title="Army.mil Test Results" href="{{< link "2013-06-19-army-mil-usability-case-study.md" >}}">Army.mil &#8211; Usability Case Study</a></p> 
+    <strong>Department of Defense</strong><br /> <a title="Army.mil Test Results" href="{{< link "2013-06-19-army-mil-usability-case-study.md" >}}">Army.mil &#8211; Usability Case Study</a></p>
 
     <ul>
       <li>
