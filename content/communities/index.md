@@ -7,7 +7,7 @@ summary: 'Our communities are where people in government come together to learn,
 
 ---
 
-### Come together, learn from others in government.
+## Come together, learn from others in government
 
 Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.
 
