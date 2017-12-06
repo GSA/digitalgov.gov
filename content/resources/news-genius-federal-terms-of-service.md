@@ -23,4 +23,4 @@ News Genius is dedicated to crowd-sourced annotation of the latest breaking stor
 
  
 
-See more [DigitalGov Resources]({{< link "resources.md" >}})
+See more [DigitalGov Resources]({{< link "/resources/" >}})

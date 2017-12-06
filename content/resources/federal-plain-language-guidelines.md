@@ -19,4 +19,4 @@ The Plain Language Action and Information Network (PLAIN) put together these [fe
 
 * * *
 
-See all [DigitalGov Resources]({{< link "resources.md" >}})
+See all [DigitalGov Resources]({{< link "/resources/" >}})

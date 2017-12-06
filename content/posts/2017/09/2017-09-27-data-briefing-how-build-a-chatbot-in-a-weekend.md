@@ -44,7 +44,7 @@ The final part to scripting is handling user queries you do not expect. Chatbots
 
 So, here is a fun weekend project that can teach you more about the exciting technology of chatbots while giving you some experience in building [Conversational User Interfaces](https://medium.com/cbc-digital-labs/5-must-read-articles-about-conversational-user-interface-d32799051b7c). Even if you do not build another chatbot, I hope this project gives you greater insight into how chatbots work and the importance of scripting the user journey. As the federal government adopts more chatbots to serve the American public better, you might have to help craft the customer’s journeys for the chatbots. Building your chatbot will help you better understand how to script effective customer journeys.
 
-To connect with other federal employees experimenting with or successfully working with chatbots, check out and join our some of our [Communities of Practice]({{< link "communities.md" >}}), such as the Web Content Managers Forum, MobileGov, SocialGov, User Experience (UX), or Artificial Intelligence for Citizen Services.
+To connect with other federal employees experimenting with or successfully working with chatbots, check out and join our some of our [Communities of Practice]({{< link "/communities/" >}}), such as the Web Content Managers Forum, MobileGov, SocialGov, User Experience (UX), or Artificial Intelligence for Citizen Services.
 
 _(All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
 

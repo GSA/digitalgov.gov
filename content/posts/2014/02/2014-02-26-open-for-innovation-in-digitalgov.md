@@ -29,8 +29,8 @@ tag:
 
 Here’s where you come in.
 
-[Join in]({{< link "join-digitalgov.md" >}} "Join DigitalGov") and help shape this platform into the creative engine that will drive digital government and advance your agency’s mission. We&#8217;ll help steer you to projects, [communities]({{< link "communities.md" >}} "Communities"), [services]({{< link "services.md" >}} "Services"), [resources]({{< link "resources.md" >}} "Resources") and [events]({{< link "events" >}}) that will help you build out the government of the 21st century.
+[Join in]({{< link "join.md" >}} "Join DigitalGov") and help shape this platform into the creative engine that will drive digital government and advance your agency’s mission. We&#8217;ll help steer you to projects, [communities]({{< link "/communities/" >}} "Communities"), [services]({{< link "/services/" >}} "Services"), [resources]({{< link "/resources/" >}} "Resources") and [events]({{< link "events" >}}) that will help you build out the government of the 21st century.
 
-Take a look around and kick the tires on this new platform. Let us know what’s working and what we could do better in the comments or [contact us]({{< link "about.md" >}} "Contact Us").
+Take a look around and kick the tires on this new platform. Let us know what’s working and what we could do better in the comments or [contact us]({{< link "/about/" >}} "Contact Us").
 
 We&#8217;re glad you&#8217;re here.

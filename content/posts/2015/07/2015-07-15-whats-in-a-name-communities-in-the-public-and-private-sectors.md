@@ -19,7 +19,7 @@ tag:
 
 {{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}} 
 
-Many of you are part of a government community. [We lead a few of them here]({{< link "communities.md" >}}), and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a [community for government Drupal users](https://www.drupalgovcon.org/drupal-govcon-2015/community).
+Many of you are part of a government community. [We lead a few of them here]({{< link "/communities/" >}}), and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a [community for government Drupal users](https://www.drupalgovcon.org/drupal-govcon-2015/community).
 
 A co-worker recently asked me for research on communities because she is trying to increase the sense of community among her program&#8217;s customers. Her question made me realize that the public and private sectors use communities in different ways. Check out the [material written about private communities](https://www.forrester.com/search?tmtxt=communities&N=10003&range=504001). Here&#8217;s roughly how they work:
 
@@ -35,10 +35,10 @@ There are a few ways that government and private communities are alike. Check ou
 
 Getting more involved in a community is a great way for federal employees to do their jobs better and grow their careers. Here are some ways you can get started:
 
-  * [Share your knowledge by writing articles for DigitalGov]({{< link "join-digitalgov.md" >}}).
+  * [Share your knowledge by writing articles for DigitalGov]({{< link "join.md" >}}).
   * Join [communities, so you can learn from everyone]({{< link "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}).
   * Increase your skills by trying out online tools for communities. For example, GSA employees use Salesforce Chatter, and [Digital Analytics Program customers collaborate on Yammer]({{< link "dap.md" >}}).
   * Have a skill you don&#8217;t get to use everyday at work? Federal agencies post tasks they need done through the [Open Opportunities Program]({{< link "open-opportunities-in-digitalgov.md" >}}). From there, you can create a profile on the [Open Opportunities site](https://openopps.digitalgov.gov/) and join their LinkedIn group.
-  * Take advantage of [events where you can network with communities]({{< link "digitalgov-university.md" >}}).
+  * Take advantage of [events where you can network with communities]({{< link "/digitalgov-university/" >}}).
 
 Have you taken part in a government or private sector community? Write us, and let us know how it was beneficial.

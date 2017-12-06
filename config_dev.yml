@@ -140,12 +140,12 @@ menu:
 
     - Name            : "Join Digitalgov"
       Identifier      : "join"
-      URL             : "/join-digitalgov/"
+      URL             : "/join/"
       Weight          : 7
     - Name            : "Open Opportunites"
       Parent          : "join"
       Identifier      : "open-opportunities"
-      URL             : "/join-digitalgov/open-opportunities-in-digitalgov/"
+      URL             : "/join/open-opportunities-in-digitalgov/"
       Weight          : 71
 
   secondary:

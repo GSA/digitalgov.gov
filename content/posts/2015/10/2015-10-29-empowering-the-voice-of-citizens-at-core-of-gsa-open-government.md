@@ -29,6 +29,6 @@ We then applied the lessons and outcomes from this process to [help coordinate g
 
 Now, as a commitment to the third U.S. National Action Plan, we are eager to return to the U.S. Public Participation Playbook and not only enhance it with the many contributions and ideas from citizens, but also encourage agencies to use the resource to evaluate and report how it improves their own programs.
 
-We also look forward to hosting a series of programs <a href="{{< link "digitalgov-university.md" >}}" target="_blank">through DigitalGov University</a> in the coming months to highlight different commitments from across government, their progress in implementation, and how these efforts directly impact the people they serve.
+We also look forward to hosting a series of programs <a href="{{< link "/digitalgov-university/" >}}" target="_blank">through DigitalGov University</a> in the coming months to highlight different commitments from across government, their progress in implementation, and how these efforts directly impact the people they serve.
 
 These are just some of the commitments from our team for the third U.S. National Action Plan for Open Government: to learn more, read the announcements [from the White House](https://www.whitehouse.gov/blog/2015/06/04/help-us-strengthen-open-government), on [GSA’s contributions]({{< link "2015-10-29-gsa-open-government-builds-solutions-and-gives-voice-to-citizens.md" >}}) and from [Data.gov](http://www.data.gov/meta/open-government-national-action-plan/).

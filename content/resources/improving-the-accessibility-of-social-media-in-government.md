@@ -184,7 +184,7 @@ Digital Government University (DGU) offers a series of trainings based on these 
   * [Making Social Media More Accessible: What You Can Do Today](https://www.youtube.com/watch?v=aMlFWIu6rpY&list=PLd9b-GuOJ3nGDIyZsJ5n9XSRxq4rXrO7Q&index=25) (December 2012)
   * [Role-Based Accessibility in Government: Everyone&#8217;s Responsibility](https://www.youtube.com/watch?v=2wRl-JM3I-M) (November 2012)
   * [DigitialGov YouTube Channel](https://www.youtube.com/digitalgov)
-  * [DigitalGov University On-Demand Training]({{< link "digitalgov-university.md" >}})
+  * [DigitalGov University On-Demand Training]({{< link "/digitalgov-university/" >}})
 
 ### Other Web resources
 

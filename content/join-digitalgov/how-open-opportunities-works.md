@@ -1,5 +1,5 @@
 ---
-url: /join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/
+url: /join/open-opportunities-in-digitalgov/how-open-opportunities-works/
 date: 2015-03-04 10:27:33 -0400
 title: How Open Opportunities Works
 summary: Help Build a 21st Century Workforce One Task at a Time Open Opportunities includes all kinds of tasks and projects available to federal employees. These are tasks and projects that will let you gain more experience, contribute your expertise and connect with other innovators across government. Opportunities range from editing a press release or testing

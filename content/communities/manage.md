@@ -17,7 +17,7 @@ Note that these instructions reference a sample listserv called _TESTLIST@listse
 
 ### How to Join a Listserv
 
-Government employees (with a .gov or .mil email address) are encouraged to join any communities of practice that relate to your work. [Visit our Communities page]({{< link "communities.md" >}}) to see all the communities and learn how to join.
+Government employees (with a .gov or .mil email address) are encouraged to join any communities of practice that relate to your work. [Visit our Communities page]({{< link "/communities/" >}}) to see all the communities and learn how to join.
 
 ### General Etiquette
 

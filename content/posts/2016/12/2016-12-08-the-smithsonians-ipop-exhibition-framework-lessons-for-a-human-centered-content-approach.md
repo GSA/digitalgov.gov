@@ -81,4 +81,4 @@ Of course, creating broad and diverse content is nothing new. Designers of rich 
 
  _[Benjamin Bloom]({{< link "author/ben-bloom" >}}) is a Web Developer at the [Smithsonian National Portrait Gallery](http://npg.si.edu/)._
 _Learn what other federal agencies are working on in [UX]({{< link "categories/ux" >}}), [design]({{< link "categories/design" >}}), [content development and strategies]({{< link "categories/content" >}}), [augmented reality]({{< link "tag/augmented-reality" >}}), and [mobile]({{< link "categories/mobile" >}})._
-_[Visit our Communities page]({{< link "communities.md" >}}) to find out how to join groups like the Federal User Experience Community, MobileGov, Virtual/Augmented Reality, and Digital Audio/Video Production and Strategy._
+_[Visit our Communities page]({{< link "/communities/" >}}) to find out how to join groups like the Federal User Experience Community, MobileGov, Virtual/Augmented Reality, and Digital Audio/Video Production and Strategy._

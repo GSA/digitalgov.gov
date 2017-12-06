@@ -14,7 +14,7 @@ Under established principles, the PRA does not apply to many uses of such media 
 ## Related Links
 
   * [Paperwork Reduction Act Fast-Track Process Explained]({{< link "paperwork-reduction-act-fast-track-process.md" >}})
-  * [M-11-26 Paperwork Reduction Act Fast-Track Process]({{< link "resources.md" >}})m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act/)
+  * [M-11-26 Paperwork Reduction Act Fast-Track Process]({{< link "/resources/" >}})m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act/)
 
  
 
@@ -22,6 +22,6 @@ Under established principles, the PRA does not apply to many uses of such media 
 
  
 
-See more [DigitalGov Resources]({{< link "resources.md" >}})
+See more [DigitalGov Resources]({{< link "/resources/" >}})
 
 <a><br /> </a>

@@ -27,4 +27,4 @@ This memorandum provides updated instructions for agency reporting under the Fed
 
  
 
-See more [DigitalGov Resources]({{< link "resources.md" >}})
+See more [DigitalGov Resources]({{< link "/resources/" >}})

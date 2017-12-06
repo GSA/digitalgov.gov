@@ -200,7 +200,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< link "2016-03-29-usagovs-step
 
   * [DigitalGov YouTube Channel](https://www.youtube.com/digitalgov)
 
-  * [DigitalGov University On-Demand Training]({{< link "digitalgov-university.md" >}})
+  * [DigitalGov University On-Demand Training]({{< link "/digitalgov-university/" >}})
 
 ### Other Web resources
 

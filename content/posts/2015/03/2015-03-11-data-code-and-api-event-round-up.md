@@ -32,7 +32,7 @@ tag:
 
 [{{< legacy-img src="2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< link "events" >}})
 
-[DigitalGov University]({{< link "digitalgov-university.md" >}}) has hosted some great events over the last year in partnership with [Data.gov](http://www.data.gov), the [MobileGov Community]({{< link "categories/mobile" >}} "Mobile") and [18F](http://18f.gsa.gov) to bring you information on opening data and building APIs. This month we’ve rounded up the events over the past year so that you can see what’s been offered. Use the comments below to offer up suggestions on what else you’d like to see on the schedule.
+[DigitalGov University]({{< link "/digitalgov-university/" >}}) has hosted some great events over the last year in partnership with [Data.gov](http://www.data.gov), the [MobileGov Community]({{< link "categories/mobile" >}} "Mobile") and [18F](http://18f.gsa.gov) to bring you information on opening data and building APIs. This month we’ve rounded up the events over the past year so that you can see what’s been offered. Use the comments below to offer up suggestions on what else you’d like to see on the schedule.
 
 ## Opening Data and Data.gov
 
