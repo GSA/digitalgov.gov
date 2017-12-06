@@ -2,7 +2,7 @@
 slug: workshop-making-government-websites-with-github-federalist-us-web-design-standards
 title: 'Workshop: Making Government Websites with GitHub, Federalist & U.S. Web Design Standards'
 summary: 'Come learn how to create a simple, compliant government website, using Federalist, GitHub and the U&#46;S&#46; Web Design Standards&#46;'
-event_type: in-person
+event_type: mixed
 date: 2017-12-12 09:00:00 -0400
 end_date: 2017-12-12 12:00:00 -0400
 event_organizer: Federalist
@@ -11,7 +11,7 @@ registration_url: https://www.eventbrite.com/e/workshop-making-government-websit
 youtube_id: qeFNf2EPzpE
 venue:
   venue_name: U.S. General Services Administration
-  room: 4150
+  room: 1425
   address: 1800 F Street NW
   city: Washington
   state: D.C.
