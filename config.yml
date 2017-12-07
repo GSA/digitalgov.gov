@@ -137,12 +137,12 @@ menu:
 
     - Name            : "Join Digitalgov"
       Identifier      : "join"
-      URL             : "/join/"
+      URL             : "/join-digitalgov/"
       Weight          : 7
     - Name            : "Open Opportunites"
       Parent          : "join"
       Identifier      : "open-opportunities"
-      URL             : "/join/open-opportunities-in-digitalgov/"
+      URL             : "/join-digitalgov/open-opportunities-in-digitalgov/"
       Weight          : 71
 
   secondary:
@@ -222,8 +222,8 @@ menu:
       Weight          : 7
     - Name            : "Accessibility"
       Parent          : "ux"
-      Identifier      : "accessibility"
-      URL             : "/categories/accessibility/"
+      Identifier      : "accesibility"
+      URL             : "/categories/accesibility/"
       Weight          : 71
     - Name            : "Design"
       Parent          : "ux"
