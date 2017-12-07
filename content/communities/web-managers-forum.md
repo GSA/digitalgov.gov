@@ -13,7 +13,7 @@ If you manage a U.S. government website, or write digital content for your agenc
 
 ### Join
 
-From your U.S. government email send your request to [Alycia Piazza](mailto:alycia.piazza@gsa.gov?subject=Join). If you are a U.S. government employee, we’ll automatically subscribe you to the Content Managers listserv within 2-3 business days.
+From your U.S. government email send your request to [Alycia Piazza](mailto:alycia.piazza@gsa.gov?subject=Join). If you are a U.S. government employee, we’ll automatically subscribe people every Friday.
 
 ### Community Manager
 

@@ -2,9 +2,7 @@
 url: /resources/federal-compatible-terms-of-service-agreements/
 date: 2014-01-09 2:40:58 -0400
 title: Federal-Compatible Terms of Service Agreements
-summary: 'Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools. These federal-compatible TOS agreements modify or remove problematic clauses in standard TOS agreements, and allow federal employees to legally use these tools. Why It&#8217;s Important Digital media is key to helping'
-authors:
-  - bsteele
+summary: 'Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools.'
 ---
 
 Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools. [These federal-compatible TOS agreements]({{< link "negotiated-terms-of-service-agreements.md" >}}) modify or remove problematic clauses in standard TOS agreements, and allow federal employees to legally use these tools.
@@ -81,7 +79,7 @@ Negotiations with other providers are ongoing.
 ## For Social Media Providers
 
 GSA welcomes expressions of interest from providers who want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. GSA developed a [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011) listing the points, issues, and concerns that typically arise in standard Terms of Service and are problematic for federal agencies. This model agreement suggests replacements that would be acceptable to most federal agencies.
-  
+
 If you are such a provider, see the guidance about how to express interest in offering an amended TOS or updating a current one.
 
 Social media providers interested in engaging in Terms of Service discussions with NASCIO, should [review its open letter to providers](http://www.nascio.org/advocacy/current/NASCIO-SM-Legal-WG-Open-Letter-to-Providers-Final.pdf) for background and contact information.
