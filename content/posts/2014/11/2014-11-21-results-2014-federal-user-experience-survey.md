@@ -60,7 +60,7 @@ Government services used to be in person, phone-based and on paper. Then came th
 
 {{< legacy-img src="2014/11/600-x-332-ux-survey-training-needs.jpg" alt="600-x-332-ux-survey\---training-needs" >}}
 
-You can count on seeing some [DigitalGov University training]({{< link "digitalgov-university.md" >}}) on these subjects very soon. If you want to help teach a class, please [let us know](mailto:govux@gsa.gov).
+You can count on seeing some [DigitalGov University training]({{< link "/digitalgov-university/" >}}) on these subjects very soon. If you want to help teach a class, please [let us know](mailto:govux@gsa.gov).
 
 ### 4. Download the full survey summary
 

@@ -63,7 +63,7 @@ tag:
 </p>
 
   1. <p dir="ltr">
-      The time in which the e-mail was sent to them.
+      The time in which the email was sent to them.
     </p>
 
   2. <p dir="ltr">

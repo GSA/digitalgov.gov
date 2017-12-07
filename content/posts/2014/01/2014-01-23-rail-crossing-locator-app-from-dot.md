@@ -20,7 +20,7 @@ But what about apps that can potentially **increase our personal and the greater
 
 That&#8217;s the reason to get behind the [**Rail Crossing Locator**](https://itunes.apple.com/us/app/rail-crossing-locator/id643005214?mt=8), a mobile app from DOT&#8217;s [Federal Railroad Administration](http://www.fra.dot.gov/) for iPhone and iPad users.
 
-Rail Crossing Locator gives you the opportunity to find and report conditions (via e-mail) at 200,000-plus highway-rail crossings by using an address, an official DOT Crossing ID for the location or  manipulating the interactive map.  You can also view official DOT records of any collisions that have occurred at a specific rail crossing &#8212; thus fulfilling the DOT&#8217;s goal to empower people to make smart travel choices.
+Rail Crossing Locator gives you the opportunity to find and report conditions (via email) at 200,000-plus highway-rail crossings by using an address, an official DOT Crossing ID for the location or  manipulating the interactive map.  You can also view official DOT records of any collisions that have occurred at a specific rail crossing &#8212; thus fulfilling the DOT&#8217;s goal to empower people to make smart travel choices.
 
 **The &#8216;why&#8217; behind the app**
 

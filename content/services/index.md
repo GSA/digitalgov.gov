@@ -2,11 +2,8 @@
 url: /services/
 date: 2013-11-17 11:12:45 -0400
 title: Services
-type: docs
-layout: 1col
-summary: 'Check out the variety of services available for agencies! Challenges & Prizes Challenge.gov. Challenge and prize competitions can drive innovation and solve mission-centric problems&mdash;whether technical, scientific, or creative. Challenge.Gov is an award-winning government sponsored free tool that can help your agency run a challenge. Get Started Content Management Sites lets federal agencies build websites using a'
-authors:
-  - apiazza
+summary: 'Check out the variety of services available for agencies!'
+
 ---
 
 Check out the variety of services available for agencies!
@@ -57,6 +54,6 @@ The [Electronic Capital Planning and Investment Control (eCPIC)]({{< link "elect
 
 {{< button href="u-s-digital-registry.md" text="Get Started" >}}
 
-[USA.gov Short URLs]({{< link "usa-gov-short-urls.md" >}} "USA.gov Short URLs") let anyone with a government e-mail address quickly and easily create short, trustworthy .gov URLs. **Free!**
+[USA.gov Short URLs]({{< link "usa-gov-short-urls.md" >}} "USA.gov Short URLs") let anyone with a government email address quickly and easily create short, trustworthy .gov URLs. **Free!**
 
 {{< button href="usa-gov-short-urls.md" text="Get Started" >}}

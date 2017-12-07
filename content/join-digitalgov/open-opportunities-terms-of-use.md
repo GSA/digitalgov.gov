@@ -1,5 +1,5 @@
 ---
-url: /join-digitalgov/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/
+url: /join/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/
 date: 2015-03-03 2:56:03 -0400
 title: Open Opportunities Terms of Use
 summary: 'We don&rsquo;t like lengthy and complicated Terms of Use, so here&rsquo;s our attempt to make this simple and easy for you. Here&rsquo;s what we expect from you: You are a federal employee (sorry, our program limits us to feds only). You&rsquo;ve cleared your participation with your managers, and your agency expects no reimbursement or formal'

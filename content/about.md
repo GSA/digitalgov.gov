@@ -1,7 +1,7 @@
 ---
-date: 2017-11-14 12:05:00 -0400
-title: About
 url: /about/
+date: 2017-11-14 12:05:00 -0400
+title: 'About'
 summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
 aliases:
   - /contact-us/
@@ -33,7 +33,7 @@ We are building DigitalGov into a destination that practices the methods that it
 - [Follow us on Twitter](https://twitter.com/digital_gov/)
 - [Join our Facebook page](https://www.facebook.com/DigitalGov)
 - [Subscribe to our newsletter](https://connect.digitalgov.gov/subscribe)
-- [Join a community of practice]({{< link "communities.md" >}})
+- [Join a community of practice]({{< link "/communities/" >}})
 - Reach out, [send us an email](mailto:digitalgov@gsa.gov)
 
 ***
@@ -65,6 +65,6 @@ _[https://standards.usa.gov/](https://standards.usa.gov/)_
 
 **Have a question or comment?**
 
-- Send us an e-mail [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+- [Send us an email »](mailto:digitalgov@gsa.gov)
 - Create [an issue on GitHub](https://github.com/GSA/digitalgov.gov/issues)
 - Or make an edit to our pages and submit a pull request

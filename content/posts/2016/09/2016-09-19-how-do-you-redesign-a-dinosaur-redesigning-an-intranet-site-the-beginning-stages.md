@@ -41,14 +41,14 @@ I’d been an enthusiastic proponent of an Intranet redesign over the years, but
 
 ## Shh… Listen! I Hear Something… ****
 
-In actuality, the redesign process started long before I received the official ‘go-ahead’. I’d been </span>_<span style="font-weight: 400">listening</span>_<span style="font-weight: 400">. When colleagues provided feedback on the Intranet site, or commented on staff resources at All-Hands meetings, I listened. When I received e-mails asking about the whereabouts of a form or resource, I listened!  And I took notes: I’d collected comments and feedback from staff over months, as well as jotted down my own ideas about what would be cool for an updated site. How about a little crowdsourcing? I listened to my colleagues via listservs and meetings around all the Federal agencies. Over time, a ‘wish list’ emerged.</p> 
+In actuality, the redesign process started long before I received the official ‘go-ahead’. I’d been </span>_<span style="font-weight: 400">listening</span>_<span style="font-weight: 400">. When colleagues provided feedback on the Intranet site, or commented on staff resources at All-Hands meetings, I listened. When I received emails asking about the whereabouts of a form or resource, I listened!  And I took notes: I’d collected comments and feedback from staff over months, as well as jotted down my own ideas about what would be cool for an updated site. How about a little crowdsourcing? I listened to my colleagues via listservs and meetings around all the Federal agencies. Over time, a ‘wish list’ emerged.</p> 
 
 <h2>
   What Do These Bones Look Like to You?  A Staff-Wide Survey
 </h2>
 
 <p>
-  Next, I put together a brief 15-question survey to distribute to staff. We created a Drupal-based survey and made this available to staff for about a month. I posted it to the Intranet homepage and promoted it through e-mails. I knew that the response rate alone would be a good gauge for general interest in the Intranet site. About half of our staff responded and shared feedback.
+  Next, I put together a brief 15-question survey to distribute to staff. We created a Drupal-based survey and made this available to staff for about a month. I posted it to the Intranet homepage and promoted it through emails. I knew that the response rate alone would be a good gauge for general interest in the Intranet site. About half of our staff responded and shared feedback.
 </p>
 
 <p>

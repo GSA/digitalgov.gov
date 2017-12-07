@@ -25,4 +25,4 @@ OMB’s Open Government Directive requires a series of measures to promote the c
 
  
 
-See more [DigitalGov Resources]({{< link "resources.md" >}})
+See more [DigitalGov Resources]({{< link "/resources/" >}})

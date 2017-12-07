@@ -10,7 +10,7 @@ aliases:
 
 ### Join
 
-To join, send an e-mail to [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=&amp;body=subscribe%20open-data) with subscribe Open Data" in the subject.
+To join, send an email to [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=&amp;body=subscribe%20open-data) with subscribe Open Data" in the subject.
 
 [Read more about the Open Data Working Group »](https://project-open-data.cio.gov/working-group/)
 

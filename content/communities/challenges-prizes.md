@@ -15,7 +15,7 @@ Thinking about crowdsourcing and incentives as innovative ways to tackle problem
 If you answered yes to any of these questions, the Challenges and Prizes Federal Community of Practice is for you!
 
 ### Join
-To join, send an e-mail to **[team@challenge.gov](mailto:team@challenge.gov)** with your name and agency you work for.
+To join, send an email to **[team@challenge.gov](mailto:team@challenge.gov)** with your name and agency you work for.
 
 ### Community Manager(s)
 

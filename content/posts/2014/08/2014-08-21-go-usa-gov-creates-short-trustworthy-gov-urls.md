@@ -36,9 +36,9 @@ You can download the total number of clicks for all of your short URLs by loggin
 
   * [About the service](https://go.usa.gov/about)
   * [Recent improvements and features](http://go.usa.gov/blog)
-  * [Register for an account](https://go.usa.gov/user/register) (if you are a government employee, but do not have a .gov or .mil e-mail address, [e-mail us](mailto:go.usa.gov@gsa.gov))
+  * [Register for an account](https://go.usa.gov/user/register) (if you are a government employee, but do not have a .gov or .mil email address, [email us](mailto:go.usa.gov@gsa.gov))
   * [Reset your password](https://go.usa.gov/user/password)
 
-If you have suggestions, comments, or questions about Go.USA.gov, please e-mail [email us](mailto:go.usa.gov@gsa.gov).
+If you have suggestions, comments, or questions about Go.USA.gov, please email [email us](mailto:go.usa.gov@gsa.gov).
 
 _This article is part of this month&#8217;s editorial theme on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}})._

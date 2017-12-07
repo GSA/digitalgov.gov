@@ -29,7 +29,7 @@ The genesis of this Toolkit is a collaborative document that originated at the [
 
 The Labor Department’s Office of Disability Employment Policy (ODEP) and the Federal Social Media Community of Practice are deeply invested in the issue of accessible technology. Why? Because the development and adoption of accessible, universally designed technology is critical to making sure people with disabilities succeed at work and deliver for their employers.
 
-Think about it—could you do your job if it wasn’t possible to read your e-mail? And could you even get a job if you couldn’t fill out the online application? If you can’t access the tools and technologies you need to look for or perform a job, your employability and productivity suffer. So it’s easy to understand why inaccessible technology can be a major barrier to employment or on-the-job success.
+Think about it—could you do your job if it wasn’t possible to read your email? And could you even get a job if you couldn’t fill out the online application? If you can’t access the tools and technologies you need to look for or perform a job, your employability and productivity suffer. So it’s easy to understand why inaccessible technology can be a major barrier to employment or on-the-job success.
 
 This same logic applies to social media. More and more organizations are using social media to conduct outreach, recruit job candidates and encourage workplace productivity. According to a [survey conducted by the Society for Human Resource Management](https://www.shrm.org/publications/hrmagazine/editorialcontent/2016/0416/pages/social-media-is-reshaping-recruiting.aspx), as of 2016, 84% of organizations are using social media as a recruiting tool. But not all social media content is accessible to people with certain disabilities, which limits the reach and effectiveness of these platforms. And with 20 percent of the population estimated to have a disability, government agencies have an obligation to ensure that their messages, services and products are as inclusive as possible.
 
@@ -200,7 +200,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< link "2016-03-29-usagovs-step
 
   * [DigitalGov YouTube Channel](https://www.youtube.com/digitalgov)
 
-  * [DigitalGov University On-Demand Training]({{< link "digitalgov-university.md" >}})
+  * [DigitalGov University On-Demand Training]({{< link "/digitalgov-university/" >}})
 
 ### Other Web resources
 

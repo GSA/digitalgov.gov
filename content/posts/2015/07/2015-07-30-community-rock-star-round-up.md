@@ -70,7 +70,7 @@ You may have heard there is a newly coordinated [Customer Experience Community](
 
 ## Multilingual Community of Practice
 
-Also from GSA, **Leilani Martinez** and **Victoria Wales** produced articles supporting the advancements in reaching multilingual communities. Take a look at [Real Internationalization Isn&#8217;t Just Geographic: It&#8217;s Linguistic]({{< link "2015-06-19-real-internationalization-isnt-just-geographic-its-linguistic.md" >}}) or [Betting on Email: How We&#8217;re Reaching Hispanics via Their Inbox]({{< link "2015-06-23-betting-on-e-mail-how-were-reaching-hispanics-via-their-inbox.md" >}}).
+Also from GSA, **Leilani Martinez** and **Victoria Wales** produced articles supporting the advancements in reaching multilingual communities. Take a look at [Real Internationalization Isn&#8217;t Just Geographic: It&#8217;s Linguistic]({{< link "2015-06-19-real-internationalization-isnt-just-geographic-its-linguistic.md" >}}) or [Betting on Email: How We&#8217;re Reaching Hispanics via Their Inbox]({{< link "2015-06-23-betting-on-email-how-were-reaching-hispanics-via-their-inbox.md" >}}).
 
 ## SocialGov
 
@@ -80,4 +80,4 @@ In the [#SocialGov Community]({{< link "social-media.md" >}}) we’d like to ack
 
 Check out [How Social Media Informs Leadership and Public Initiatives]({{< link "2015-03-18-improving-how-social-media-informs-leadership-and-public-initiatives.md" >}}) co-written by **Corina Dubois**, of the State Department Bureau of Consular Affairs, or take a peek at the recap of the event [Sharing the Essentials of Animated GIFs for Public Service]({{< link "2015-04-24-sharing-the-essentials-of-animated-gifs-for-public-services.md" >}}) featuring **Michael Thomas** from the Office of Director of National Intelligence. **Brittany Stevenson** is not only is a #socialgov rock star but she is the [federal Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}) for the FCC. Finally, **Jordan Higgins** from the Defense Intelligence Agency has been our &#8220;go-to&#8221; guy [on cyber-security in social.]({{< link "2014-10-30-cyber-house-of-horrors.md" >}})
 
-Of course this just scratches the surface of good work that’s happening in DigitalGov—are you and your team rock stars? [Tell us what you’re up to]({{< link "about.md" >}})!
+Of course this just scratches the surface of good work that’s happening in DigitalGov—are you and your team rock stars? [Tell us what you’re up to]({{< link "/about/" >}})!

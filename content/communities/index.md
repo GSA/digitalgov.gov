@@ -7,7 +7,7 @@ summary: 'Our communities are where people in government come together to learn,
 
 ---
 
-### Come together, learn from others in government.
+## Come together, learn from others in government
 
 Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.
 
@@ -72,6 +72,6 @@ There are more than 10,000 people participating across government in 19 areas. O
 
 ### Community Guidelines
 
-Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil e-mail addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the Freedom of Information Act._
+Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the Freedom of Information Act._
 
-For more information on Communities, or to propose a new inter-agency group, please send an e-mail to [Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
+For more information on Communities, or to propose a new inter-agency group, please send an email to [Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
