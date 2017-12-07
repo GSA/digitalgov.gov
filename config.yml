@@ -222,8 +222,8 @@ menu:
       Weight          : 7
     - Name            : "Accessibility"
       Parent          : "ux"
-      Identifier      : "accesibility"
-      URL             : "/categories/accesibility/"
+      Identifier      : "accessibility"
+      URL             : "/categories/accessibility/"
       Weight          : 71
     - Name            : "Design"
       Parent          : "ux"
