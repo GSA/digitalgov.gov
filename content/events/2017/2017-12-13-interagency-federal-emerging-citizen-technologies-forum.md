@@ -2,9 +2,6 @@
 slug: interagency-federal-emerging-citizen-technologies-forum
 title: 'Inter-agency Federal Emerging Citizen Technologies Forum'
 summary: 'First monthly inter-agency form for the Emerging Citizen Technology program&#46;'
-featured_image: 
-  uid: tile-6
-  alt: 'descriptive tile'
 event_type: mixed
 date: 2017-12-13 10:30:00 -0400
 end_date: 2017-12-13 12:00:00 -0400
