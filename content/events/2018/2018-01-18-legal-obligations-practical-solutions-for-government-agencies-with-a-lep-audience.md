@@ -28,8 +28,8 @@ This training is geared towards federal, state, and local government official wh
 
 ## Presenters:
 
-All presenters are from the Federal Coordination and Compliance Section, Civil Rights Division, U.S. Department of Justice
+Presenters and moderator are from the Federal Coordination and Compliance Section, Civil Rights Division, U.S. Department of Justice
 
 * Anna Medina, Attorney Advisor
 * Michael Mulé, Attorney Advisor
-* Laureen Laglagaron, Attorney Advisor
+* Laureen Laglagaron, Attorney Advisor (moderator)
