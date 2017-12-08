@@ -8,7 +8,6 @@ end_date: 2017-12-13 12:00:00 -0400
 event_organizer: DigitalGov University
 host: Emerging Citizen Technology program
 registration_url: https://www.eventbrite.com/e/inter-agency-federal-emerging-citizen-technologies-forum-registration-41119725205
-youtube_id: 
 venue: 
   venue_name: U.S. General Services Administration
   room: 1461
@@ -20,6 +19,8 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 
 ---
+This meeting is **in-person and online for federal employees only.** Capacity is limited for in-person attendance.
+
 GSA’s [Emerging Citizen Technology program](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology) is hosting its new monthly forum -- this month discussing everything from U.S. Digital Registry open office hours, updates on Amazon Alexa terms of service, the new "Paths to Acquisition" resource, training and education needs, the launch of our new Venture Capital Advisory Group, and more. 
 
 Co-organizers:
