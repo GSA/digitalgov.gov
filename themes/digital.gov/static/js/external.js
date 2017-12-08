@@ -48,7 +48,7 @@ function getFormattedDate(d) {
 	date.setUTCHours(date.getUTCHours() - 5);
 	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   var year = date.getUTCFullYear();
-  var month = (1 + date.getUTCMonth()).toString();
+  var month = (date.getUTCMonth()).toString();
   month = monthNames[month];
   var day = date.getUTCDate().toString();
   day = day.length > 1 ? day : '0' + day;
