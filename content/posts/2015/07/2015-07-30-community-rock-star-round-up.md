@@ -70,7 +70,8 @@ You may have heard there is a newly coordinated [Customer Experience Community](
 
 ## Multilingual Community of Practice
 
-Also from GSA, **Leilani Martinez** and **Victoria Wales** produced articles supporting the advancements in reaching multilingual communities. Take a look at [Real Internationalization Isn&#8217;t Just Geographic: It&#8217;s Linguistic]({{< link "2015-06-19-real-internationalization-isnt-just-geographic-its-linguistic.md" >}}) or [Betting on Email: How We&#8217;re Reaching Hispanics via Their Inbox]({{< link "2015-06-23-betting-on-email-how-were-reaching-hispanics-via-their-inbox.md" >}}).
+Also from GSA, **Leilani Martinez** and **Victoria Wales** produced articles supporting the advancements in reaching multilingual communities. Take a look at [Real Internationalization Isn&#8217;t Just Geographic: It&#8217;s Linguistic]({{< link "2015-06-19-real-internationalization-isnt-just-geographic-its-linguistic.md" >}}) or [Betting on Email: How We&#8217;re Reaching Hispanics via Their Inbox]({{< link "2015-06-23-betting-on-e-mail-how-were-reaching-hispanics-via-their-inbox.md" >}}).
+
 
 ## SocialGov
 
