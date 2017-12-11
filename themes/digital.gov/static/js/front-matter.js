@@ -316,7 +316,7 @@ jQuery(document).ready(function($) {
         "***Paste body content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/'+file_yearmo(data['m_date'])+'/draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/master/content/posts/'+file_yearmo(data['m_date'])+'/draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
 
 
 
@@ -335,7 +335,7 @@ jQuery(document).ready(function($) {
         "***Paste body content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/docs/draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/master/content/docs/draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
 
 
 
@@ -397,7 +397,7 @@ jQuery(document).ready(function($) {
       }
 
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/master/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
     }
 
     $('#post-matter').text(matter);
