@@ -27,7 +27,7 @@ This workshop will provide you and your team with an overview of using two new g
 
 The second part of the workshop will be your chance to get hands-on experience with these tools. We are designing three breakout sessions aimed at helping those on your team publish on Federalist by the end of the day.
 
-:sparkles: _We will live-stream the first 45mins of the workshop. Video will be available after._ :sparkles:
+:sparkles: _We will live-stream the first 90 mins of the workshop. Video will be available after._ :sparkles:
 
 ### Schedule
 * 9 - 9:15am — Arrivals
