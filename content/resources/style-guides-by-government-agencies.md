@@ -9,6 +9,8 @@ Style guides are used to set the tone and guidelines for how an agency communica
 
 This page is a collection of style guides created by government agencies.  You can add your agency&#8217;s guide by [emailing DigitalGov]({{< link "/about/" >}}) or sharing in the [Plain Language Community of Practice]({{< link "plain-language-community-of-practice.md" >}}).
 
+---
+
 #### Plain Language
 
 - [plainlanguage.gov](https://plainlanguage.gov/)
