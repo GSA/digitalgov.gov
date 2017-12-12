@@ -21,7 +21,7 @@ This page is a collection of style guides created by government agencies.  You c
 
 #### Centers for Disease Control and Prevention (CDC)
 
-- [CDC Guide to Writing for Social Media](https://www.cdc.gov/socialmedia/tools/guidelines/guideforwriting.html) (PDF,1.6 MB, 60 pgs)
+- [CDC Guide to Writing for Social Media](https://www.cdc.gov/socialmedia/tools/guidelines/guideforwriting.html) (PDF, 1.6 MB, 60 pgs)
 - [CDC Social Media Tools, Guidelines & Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/)
 - [Emerging Infectious Diseases Additional Style Guides and Print Resources](https://wwwnc.cdc.gov/eid/page/additional-style-guides-and-print-resources)
 - [Emerging Infectious Diseases Author Resource Center](https://wwwnc.cdc.gov/eid/page/author-resource-center)
@@ -53,10 +53,9 @@ This page is a collection of style guides created by government agencies.  You c
 
 #### U.S. Department of Health and Human Services (HHS)
 
-- [Administration for Children & Families Editorial Style Guide](https://www.acf.hhs.gov/digital-toolbox/content/editorial-style-guide)[
-- HealthCare.gov Styleguide](https://styleguide.healthcare.gov/)[
-- HHS.gov Style Guide
-  ](https://www.hhs.gov/web/policies-and-standards/style-guide/) [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (PDF, 285 KB, 4 pgs)
+- [Administration for Children & Families Editorial Style Guide](https://www.acf.hhs.gov/digital-toolbox/content/editorial-style-guide)
+- [HealthCare.gov Styleguide](https://styleguide.healthcare.gov/)
+- [HHS.gov Style Guide](https://www.hhs.gov/web/policies-and-standards/style-guide/) [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (PDF, 285 KB, 4 pgs)
 - [HHS Web Style Guide](https://www.hhs.gov/web/policies-and-standards/web-style-guide/)
 
 
