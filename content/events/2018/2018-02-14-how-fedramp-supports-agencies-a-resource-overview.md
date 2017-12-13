@@ -1,6 +1,6 @@
 ---
 slug: how-fedramp-supports-agencies-a-resource-overview
-title: 'How FedRAMP Supports Agencies&#58; A Resource Overview'
+title: 'How FedRAMP Supports Agencies: A Resource Overview'
 summary: 'In this online event, the FedRAMP team will highlight how they support agencies in their journey as the move to the cloud and authorize cloud products&#46;'
 featured_image: 
   uid: 
