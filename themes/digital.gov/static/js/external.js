@@ -109,3 +109,35 @@ jQuery(function( $ ){
 		}
 	});
 });
+
+
+
+
+function scrollToAnchor(hash) {
+  var target = jQuery(hash),
+    headerHeight = jQuery("#fixednav").height() + 5; // Get fixed header height
+
+  target = target.length ? target : jQuery('[name=' + hash.slice(1) +']');
+
+  if (target.length)
+  {
+    jQuery('html,body').animate({
+      scrollTop: target.offset().top - headerHeight
+    }, 700);
+    return false;
+  }
+}
+
+if(window.location.hash) {
+  scrollToAnchor(window.location.hash);
+}
+
+
+jQuery("a[href*=\\#]:not([href=\\#])").click(function()
+{
+  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+    || location.hostname == this.hostname)
+  {
+    scrollToAnchor(this.hash);
+  }
+});
