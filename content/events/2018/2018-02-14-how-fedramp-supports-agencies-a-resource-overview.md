@@ -14,7 +14,7 @@ registration_url: https://www.eventbrite.com/e/how-fedramp-supports-agencies-a-r
 youtube_id: IOS31IrFKHQ
 ---
 
-A [FedRAMP](https://www.fedramp.gov/) online event geared toward agencies that highlights how FedRAMP supports agencies in their journey as they move to the cloud and authorize cloud products.
+A [FedRAMP](https://www.fedramp.gov/) online event geared toward agencies highlighting how FedRAMP supports agencies in their journey as they move to the cloud and authorize cloud products.
 
 After the session, you’ll:
 
