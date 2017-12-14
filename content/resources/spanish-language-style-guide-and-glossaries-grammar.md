@@ -125,7 +125,7 @@ Don&#8217;t capitalize unless the text in parentheses is an acronym. Examples:
 
 **First Word of a Title**
 
-  * ¡Para qué sirven las amígdalas y las adenoides!
+  * Tipos de asistencia financiera para la universidad.
 
 **Names of People or Places (Proper Nouns)**
 
