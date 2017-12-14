@@ -2,107 +2,48 @@
 url: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/
 date: 2014-02-07 5:16:19 -0400
 title: 'Spanish Language Style Guide and Glossaries: Grammar'
-summary: 'Abbreviations, Acronyms and Em Dash Spanish Language Articles Spanish Language Capitalization Spanish Language Dates & Numbers Spanish Language Punctuation Spanish Language Diacritics and HTML Code   Abbreviations, Acronyms and Em Dash Abbreviations Incorrect Use: Correct Use: EE UU EE. UU. (Estados Unidos) f.f. c.c. FF. CC. (ferrocarriles) Plural form of compound words, organization names or'
+summary: 'Examples and explanations for words, phrases, acronyms, numbers, punctuation, capitalization, symbols, and more used in Spanish grammar.'
 authors:
   - lgodfrey
 ---
 
-  * [Abbreviations, Acronyms and Em Dash]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#abbreviations" >}})
-  * [Spanish Language Articles]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#articles" >}})
-  * [Spanish Language Capitalization]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#capitalization" >}})
-  * [Spanish Language Dates & Numbers]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#dates" >}})
-  * [Spanish Language Punctuation]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#punctuation" >}})
-  * [Spanish Language Diacritics and HTML Code]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#diacritics" >}})
+Below are examples and explanations for words, phrases, acronyms, numbers, punctuation, capitalization, symbols, and more used in Spanish grammar.
 
- 
+* [Abbreviations, Acronyms and Em Dash]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#abbreviations" >}})
+* [Spanish Language Articles]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#articles" >}})
+* [Spanish Language Capitalization]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#capitalization" >}})
+* [Spanish Language Dates & Numbers]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#dates" >}})
+* [Spanish Language Punctuation]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#punctuation" >}})
+* [Spanish Language Diacritics and HTML Code]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#diacritics" >}})
 
 ## Abbreviations, Acronyms and Em Dash {#abbreviations}
 
 ### Abbreviations
 
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="30%">
-      <strong>Incorrect Use:</strong>
-    </td>
-    
-    <td width="70%">
-      <strong>Correct Use:</strong>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      EE UU
-    </td>
-    
-    <td>
-      EE. UU. (Estados Unidos)
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      f.f. c.c.
-    </td>
-    
-    <td>
-      FF. CC. (ferrocarriles)
-    </td>
-  </tr>
-</table>
+1) **Incorrect Use**: EE UU
+* **Correct Use**: EE. UU. (Estados Unidos)
+
+2) **Incorrect Use**: f.f. c.c.
+* **Correct Use**: FF. CC. (ferrocarriles)
 
 Plural form of compound words, organization names or some countries are made by using double letters, as in ferrocarriles (FF. CC.) and Estados Unidos (EE. UU.).
 
 ### Acronyms
 
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="30%">
-      <strong>Incorrect Use:</strong>
-    </td>
-    
-    <td width="70%">
-      <strong>Correct Use:</strong>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      CD–ROM
-    </td>
-    
-    <td>
-      CD–ROM (Compact Disk–Read Only Memory)
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      E.U.A.
-    </td>
-    
-    <td>
-      EUA
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      O.N.U.
-    </td>
-    
-    <td>
-      ONU
-    </td>
-  </tr>
-</table>
+1) **Incorrect Use**: CD–ROM
+* **Correct Use**: CD–ROM (Compact Disk–Read Only Memory)
+
+2) **Incorrect Use**: E.U.A.
+* **Correct Use**: EUA
+
+3) **Incorrect Use**: O.N.U.
+* **Correct Use**: ONU
 
 While periods are used in abbreviations of complex names (two or more words) to indicate different words, acronyms (siglas en español) do not use periods between the words.
 
 ### Pluralization of Acronyms
 
-Acronyms don&#8217;t add an &#8220;s&#8221; to denote plural when preceded by articles or words that denote plural, i.e. &#8220;los CD,&#8221; &#8220;muchas ONG.&#8221; However, in cases where there are no modifiers that denote plural, it may be acceptable to pluralize acronyms as in English: CDs, DVDs, PCs, ONGs. For example: &#8220;Reproducir DVDs en el equipo.&#8221;
+Acronyms don't add an "s" to denote plural when preceded by articles or words that denote plural, i.e. "los CD," "muchas ONG." However, in cases where there are no modifiers that denote plural, it may be acceptable to pluralize acronyms as in English: CDs, DVDs, PCs, ONGs. For example: "Reproducir DVDs en el equipo."
 
 ## Em Dash  (—)
 
@@ -111,28 +52,26 @@ It is mainly used to indicate incidental sentences and speech openings in dialog
 ### Incorrect Use
 
 Son dos ciudades — Roma y Venecia
-  
+
 La traducción — Una ciencia empírica
-  
+
 Come—dijo ella—o llegaremos tarde
-  
+
 Disquete—medio de almacenamiento…
-  
+
 Me temo –comentó Juan- que da igual OR Me temo –comentó Juan–que da igual
 
 ### Correct Use (or Lack of Use)
 
 Son dos ciudades: Roma y Venecia
-  
-La traducción, una ciencia empírica
-  
-Come —dijo ella— o llegaremos tarde
-  
-Disquete: medio de almacenamiento…
-  
-Me temo —comentó Juan— que da igual
 
- 
+La traducción, una ciencia empírica
+
+Come —dijo ella— o llegaremos tarde
+
+Disquete: medio de almacenamiento…
+
+Me temo —comentó Juan— que da igual
 
 ## Spanish Language Articles {#articles}
 
@@ -156,8 +95,6 @@ Avoid unnecessary translations of the indefinite article:
 **Incorrect Use:** La informática, una rama de las telecomunicaciones.
 
 **Correct Use:** La informática, rama de las telecomunicaciones.
-
- 
 
 ## Spanish Language Capitalization {#capitalization}
 
@@ -206,10 +143,8 @@ Don&#8217;t capitalize unless the text in parentheses is an acronym. Examples:
 
 **First Word After a Forward Slash (/)**
 
-  * Impuestos/Tributación>
+  * Impuestos/Tributación
   * Desvío de las arterias coronarias/Angioplastia
-
- 
 
 ## Dates & Numbers {#dates}
 
@@ -218,16 +153,18 @@ Don&#8217;t capitalize unless the text in parentheses is an acronym. Examples:
 In Spanish, dates are expressed in this order: day, month, year (DDMMYYYY).
 
 26 de octubre de 2004
-  
+
 26 octubre 2004
-  
+
 26/10/04
-  
+
 We recommend using the first two forms in the United States to avoid confusion with the American mode for reflecting dates.
 
 ### Numbers
 
-[The North American Academy of Spanish Language (www.anle.us)](http://www.anle.us/), acting under the GSA-ANLE Agreement, recommends that the notation for decimals and fractions in Spanish texts published in the United States follow the American model. Nine Latin American countries also follow this model. The decision was based on the nomenclature used in the United States by banks, financial documents, commerce and the media.
+[The North American Academy of Spanish Language (www.anle.us)](http://www.anle.us/), acting under the [GSA-ANLE Agreement][908df092] (PDF, 214 kb, 4 pages), recommends that the notation for decimals and fractions in Spanish texts published in the United States follow the American model. Nine Latin American countries also follow this model. The decision was based on the nomenclature used in the United States by banks, financial documents, commerce and the media.
+
+  [908df092]: https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2014-ANLE-Agreement.pdf "The 2014 GSA/ANLE Agreement"
 
 Correct use in USA: $1,276.50
 
@@ -266,14 +203,12 @@ Trillion (US English) = Billón (unidad seguida de doce ceros)
 ### Meaning of these terms in the [Diccionario de la Real Academia Española (DRAE)](http://www.rae.es/)
 
 Billón = Un millón de millones, que se expresa por la
-  
+
 unidad seguida de doce ceros. (DRAE)
 
 Trillón = Un millón de billones, que se expresa por la
-  
-unidad seguida de 18 ceros. (DRAE)
 
-## 
+unidad seguida de 18 ceros. (DRAE)
 
 ## Punctuation {#punctuation}
 
@@ -299,7 +234,7 @@ Punctuation marks are written outside of quotation marks, parenthesis and dashes
   * &#8220;Este estudio ha proporcionado los datos que tanto se necesitaban sobre enfermedades de los ojos en el grupo minoritario de más rápido crecimiento dentro de los Estados Unidos&#8221;, indicó Elías A. Zerhouni, M.D., director de NIH.
   * El médico dijo: &#8220;La revisión se canceló; era previsible por el temor del paciente. Sin embargo, es probable que la cancelación no sea definitiva&#8221;; acto seguido, suspiró hondo y añadió: “El cáncer es curable en su diagnóstico precoz (las estadísticas lo confirman), la familia debe saberlo&#8221;.
 
- 
+
 
 ## Diacritics and HTML Code {#diacritics}
 
@@ -307,348 +242,338 @@ Punctuation marks are written outside of quotation marks, parenthesis and dashes
 
 When using HTML, diacritics [los acentos gráficos] must be also coded. For example:
 
-Página = P&#225;gina
-  
+Página = P&amp;#225;gina
+
 Spanish accent rules apply to both capital and lower case letters. For example:
 
 Ácido fólico/ácido fólico
-  
+
 Última revisión/última revisión
-  
+
 Each character and its code is listed below:
 
-<table border="1" summary="Listing of Diacritics and Their Character Codes" width="50%">
+<table border="1" summary="Listing of Diacritics and Their Character Codes">
   <tr>
-    <th scope="col" width="18%">
+    <th scope="col">
     </th>
-    
-    <th scope="col" align="center" width="41%">
+
+    <th scope="col" align="center">
       Number
     </th>
-    
-    <th scope="col" align="center" width="41%">
+
+    <th scope="col" align="center">
       Entity
     </th>
   </tr>
-  
+
   <tr>
     <td align="center">
       á
     </td>
-    
+
     <td>
-      &#225;
+      &amp;#225;
     </td>
-    
+
     <td>
-      &aacute;
+      &amp;aacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       é
     </td>
-    
+
     <td>
-      &#233;
+      &amp;#233;
     </td>
-    
+
     <td>
-      &eacute;
+      &amp;eacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       í
     </td>
-    
+
     <td>
-      &#237;
+      &amp;#237;
     </td>
-    
+
     <td>
-      &iacute;
+      &amp;iacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       ó
     </td>
-    
+
     <td>
-      &#243;
+      &amp;#243;
     </td>
-    
+
     <td>
-      &oacute;
+      &amp;oacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       ñ
     </td>
-    
+
     <td>
-      &#241;
+      &amp;#241;
     </td>
-    
+
     <td>
-      &ntilde;
+      &amp;ntilde;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       ú
     </td>
-    
+
     <td>
-      &#250;
+      &amp;#250;
     </td>
-    
+
     <td>
-      &uacute;
+      &amp;uacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       ü
     </td>
-    
+
     <td>
-      &#252;
+      &amp;#252;
     </td>
-    
+
     <td>
-      &uuml;
+      &amp;uuml;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       Á
     </td>
-    
+
     <td>
-      &#193;
+      &amp;#193;
     </td>
-    
+
     <td>
-      &Aacute;
+      &amp;Aacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       É
     </td>
-    
+
     <td>
-      &#201;
+      &amp;#201;
     </td>
-    
+
     <td>
-      &Eacute;
+      &amp;Eacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       Í
     </td>
-    
+
     <td>
-      &#205;
+      &amp;#205;
     </td>
-    
+
     <td>
-      &Iacute;
+      &amp;Iacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       Ó
     </td>
-    
+
     <td>
-      &#211;
+      &amp;#211;
     </td>
-    
+
     <td>
-      &Oacute;
+      &amp;Oacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       Ú
     </td>
-    
+
     <td>
-      &#218;
+      &amp;#218;
     </td>
-    
+
     <td>
-      &Uacute;
+      &amp;Uacute;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       Ü
     </td>
-    
+
     <td>
-      &#220;
+      &amp;#220;
     </td>
-    
+
     <td>
-      &Uuml;
+      &amp;Uuml;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       Ñ
     </td>
-    
+
     <td>
-      &#209;
+      &amp;#209;
     </td>
-    
+
     <td>
-      &Ntilde;
+      &amp;Ntilde;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
        ª
     </td>
-    
+
     <td>
-      &#170;
+      &amp;#170;
     </td>
-    
+
     <td>
-      &ordf;
+      &amp;ordf;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
        º
     </td>
-    
+
     <td>
-      &#186;
+      &amp;#186;
     </td>
-    
+
     <td>
-      &ordm;
+      &amp;ordm;
     </td>
   </tr>
 </table>
 
 ### Punctuation
 
-<table border="1" summary="Listing of Punctuation Marks and Their Character Codes" width="50%">
+<table border="1" summary="Listing of Punctuation Marks and Their Character Codes">
   <tr>
-    <td align="center" width="18%">
-    </td>
-    
-    <td align="center" width="82%">
-      <strong>Entity</strong>
-    </td>
+    <td align="center" width="18%"><strong>Symbol</strong></td>
+
+    <td width="82%"><strong>HTML Entity</strong></td>
   </tr>
-  
+
   <tr>
     <td align="center">
       –
     </td>
-    
+
     <td>
-      &ndash;
+      &amp;ndash;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       —
     </td>
-    
+
     <td>
-      &mdash;
+      &amp;mdash;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       ¿
     </td>
-    
+
     <td>
-      &iquest;
+      &amp;iquest;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       ¡
     </td>
-    
+
     <td>
-      &iexcl;
+      &amp;iexcl;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       «
     </td>
-    
+
     <td>
-      &laquo;
+      &amp;laquo;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       »
     </td>
-    
+
     <td>
-      &raquo;
+      &amp;raquo;
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
-      &#8220;
+      "
     </td>
-    
+
     <td>
-      " (to open and close)
+      &amp;#quot; (to open and close)
     </td>
   </tr>
 </table>
 
-### Sources
+## Sources
 
-  * [El Diccionario de la Real Academia Española](http://www.rae.es/). _National Association of Hispanic Journalists. Manual de estilo. Knight Ridder: Ann Arbor, c.2003. (Not available online)_
-  * [Apuntes](http://www.apuntesonline.org/archivesmenu.html)
-  * [Glosas, órgano informativo de la Comisión de Traducciones de la Academia Norteamericana de la Lengua Española](http://www.anle.us/)
-  * [Errores ortotipográficos en la traducción al español](http://www.certifiedchinesetranslation.com/Spanish/ortotipo.html). Xosé Castro Roig y Lucía Rodríguez Corral, c.1999
-
-## 
-
-## 
-
-<div>
-</div>
+* [El Diccionario de la Real Academia Española](http://www.rae.es/). _National Association of Hispanic Journalists. Manual de estilo. Knight Ridder: Ann Arbor, c.2003. (Not available online)_
+* [Apuntes](http://www.apuntesonline.org/archivesmenu.html)
+* [Glosas, órgano informativo de la Comisión de Traducciones de la Academia Norteamericana de la Lengua Española](http://www.anle.us/)
+* [Errores ortotipográficos en la traducción al español](http://www.certifiedchinesetranslation.com/Spanish/ortotipo.html). Xosé Castro Roig y Lucía Rodríguez Corral, c.1999
