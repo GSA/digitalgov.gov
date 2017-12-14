@@ -10,7 +10,6 @@ authors:
   - lina-younes
 aliases:
   - /2012/08/12/top-10-best-practices-for-multilingual-websites/
-  - 
 ---
 
 1. **Language** — Digital communications must address the users’ language preference. The use of machine or automatic translations as a sole solution is strongly discouraged even if a disclaimer is added. If government agencies decide to use translation software, they should have the translation reviewed by a qualified language professional before posting it to the website to ensure that the translation correctly [communicates the message]({{< link "2012-10-01-automated-translation-good-solution-or-not.md" >}}) in a culturally relevant manner. [GobiernoUSA.gov](https://gobierno.usa.gov), the trusted source for government information in Spanish, offers users a complete experience including content, navigation, and all functionalities and features in that language.
