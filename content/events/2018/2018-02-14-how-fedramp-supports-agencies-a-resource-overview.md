@@ -21,4 +21,4 @@ After the session, you’ll:
 - understand all of the resources that are available to you and how to use them
 - know how and when to engage with the Program Management Office (PMO) for support
 
-This event is open to everyone and specifically targeted to CFO (Chief Financial Officers) Act agencies.
+This event is open to everyone and specifically targeted to Chief Financial Officers (CFO) Act agencies.
