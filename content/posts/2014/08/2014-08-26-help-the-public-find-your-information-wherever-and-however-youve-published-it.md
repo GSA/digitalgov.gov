@@ -64,6 +64,6 @@ By using your own content API to publish content to your website, you can reuse 
 
 By using social media APIs you can embed Twitter content in a timeline, link directly to your Facebook account through a Like Box, or show videos you have also posted on YouTube.
 
-For example, on agencies’ websites that use [DigitalGov Search](http://search.WHATEVER), searchers automatically see image results from Flickr and Instagram, video results from YouTube, jobs from USAJobs, and rules and notices from the _Federal Register_. All without any effort beyond publishing the original content to social media, the Office of Personnel Management, or the Office of the Federal Register.
+For example, on agencies’ websites that use [DigitalGov Search](https://search.gov), searchers automatically see image results from Flickr and Instagram, video results from YouTube, jobs from USAJobs, and rules and notices from the _Federal Register_. All without any effort beyond publishing the original content to social media, the Office of Personnel Management, or the Office of the Federal Register.
 
 Let’s free our content, repurpose it, and be our own customers. It’ll help us make our valuable government information even more findable, sharable, and usable._This article is part of this month&#8217;s editorial theme on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
