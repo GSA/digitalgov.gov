@@ -58,4 +58,4 @@ Our next steps to improve our site’s effectiveness include:
 Many thanks to our FTC colleagues who assisted us with this analysis and with identifying our customers’ top tasks.
 
  _Chris Noonan Sturm is the FTC Website Manager in the Office of Public Affairs._
-_This post is part of an ongoing series of case-studies highlighting how the federal government is using the Digital Analytics Program (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please <a href="mailto:dap@support.WHATEVER" target="_blank">email us</a>._
+_This post is part of an ongoing series of case-studies highlighting how the federal government is using the Digital Analytics Program (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please <a href="mailto:dap@support.digitalgov.gov" target="_blank">email us</a>._

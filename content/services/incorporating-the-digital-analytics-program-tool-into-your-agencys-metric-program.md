@@ -52,4 +52,4 @@ Other leading Web analytics solutions, such as Omniture/Adobe SiteCatalyst and W
 
 ## Contact Us
 
-Questions? Comments? Please email <dap@support.WHATEVER>.
+Questions? Comments? Please email <dap@support.digitalgov.gov>.

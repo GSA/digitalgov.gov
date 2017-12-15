@@ -22,7 +22,7 @@ The program consists of:
       * [DAP FAQs]({{< link "common-questions-about-dap-faq.md" >}})
       * [Implementation instructions]({{< link "analytics-tool-instructions.md" >}})
       * Most recent code available in the <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">DAP Github repo</a>
-  * [On-going help-desk](mailto:dap@support.WHATEVER) and data reporting support
+  * [On-going help-desk](mailto:dap@support.digitalgov.gov) and data reporting support
   * A public window into some DAP data at [analytics.usa.gov](https://analytics.usa.gov)
       * Want to fork our dashboard? See our [Github repo](https://github.com/18F/analytics.usa.gov)
   * [Digital Metrics guidance and best practices]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}} "DAP: Digital Metrics Guidance and Best Practices")

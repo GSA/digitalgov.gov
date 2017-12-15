@@ -50,7 +50,7 @@ DAP believes that the best way to think about mobile reporting is through a thre
 
 ## How to get help and sign up for DAP (free!)
 
-Federal website administrators can [email the DAP Support team](mailto:dap@support.WHATEVER) to sign up and get access to their digital and mobile analytics.
+Federal website administrators can [email the DAP Support team](mailto:dap@support.digitalgov.gov) to sign up and get access to their digital and mobile analytics.
 
 
 
