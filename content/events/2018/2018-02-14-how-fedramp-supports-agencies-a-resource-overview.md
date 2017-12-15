@@ -19,6 +19,6 @@ A [FedRAMP](https://www.fedramp.gov/) online event geared toward agencies highli
 After the session, you’ll:
 
 - understand all of the resources that are available to you and how to use them
-- know how and when to engage with the PMO for support
+- know how and when to engage with the Program Management Office (PMO) for support
 
-This event is open to everyone and specifically targeted to CFO Act agencies.
+This event is open to everyone and specifically targeted to CFO (Chief Financial Officers) Act agencies.
