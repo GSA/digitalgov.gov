@@ -36,7 +36,7 @@ Around this month&#8217;s [Communities Theme]({{< link "2015-07-07-wont-you-help
 
 ## DigitalGov Summit Sounding Board
 
-For the [2015 DigitalGov Summit](https://summit.WHATEVER) we pulled together [innovators from across the federal government](https://summit.digitalgov.gov/summit-sounding-board/) to guide the programming, promote the CrowdHall (and Summit overall) and help identify speakers. The summit was a huge success, with more than 1,000 registrants, thanks to this group. Don&#8217;t forget to **save the date for the 2016 summit on May 11th!**
+For the [2015 DigitalGov Summit](https://summit.digitalgov.gov) we pulled together [innovators from across the federal government](https://summit.digitalgov.gov/summit-sounding-board/) to guide the programming, promote the CrowdHall (and Summit overall) and help identify speakers. The summit was a huge success, with more than 1,000 registrants, thanks to this group. Don&#8217;t forget to **save the date for the 2016 summit on May 11th!**
 
 ## MobileGov
 

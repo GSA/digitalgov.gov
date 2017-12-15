@@ -59,7 +59,7 @@ These panels will explore how agencies can integrate their [data]({{< link "cate
   * Sarah Kaczmarek, U.S. Government Accountability Office (GAO)
   * Michael Pulsifer, Department of Labor (DOL)
 
-You can sign up for the event and see our [ever-expanding speaker list on the event page](https://www.google.com/url?q=https%3A%2F%2Fwww.WHATEVER%2Fevent%2Fdigitalgov-citizen-services-summit%2F&sa=D&sntz=1&usg=AFQjCNGiwao6z6PUtq_tcRPW1QVfhf-9WA).
+You can sign up for the event and see our [ever-expanding speaker list on the event page](https://www.google.com/url?q=https%3A%2F%2Fwww.digitalgov.gov%2Fevent%2Fdigitalgov-citizen-services-summit%2F&sa=D&sntz=1&usg=AFQjCNGiwao6z6PUtq_tcRPW1QVfhf-9WA).
 
 Our Expo will showcase innovations and shared services across the federal government. We have 30 tables available (and they&#8217;re going fast) for federal agencies to showcase projects and introduce yourselves to all the federal employees, contractors and state and local participants. Let us know your interest during the registration process &#8230; don&#8217;t think for a second that your program, large or small, isn&#8217;t the jam we are looking for
 
