@@ -56,7 +56,7 @@ Downside: it’s a pain to try this if you use a social media dashboard tool lik
 
 The best way to work around this issue is to use campaign tracking by creating custom urls that will tell you exactly where the traffic came from. When using campaign tracking, you can specify the source, medium, and campaign name with parameters added onto the url. If you use the DAP or Google Analytics as your web analytics tool, you can build campaign urls with this [url builder tool](https://support.google.com/analytics/answer/1033867?hl=en). You’d then get a url that looks something like this:
 
-[http://WHATEVER?utm\_source=twitter&utm\_medium=socialmedia](http://WHATEVER?utm_source=twitter&utm_medium=socialmedia)
+[http://digitalgov.gov?utm\_source=twitter&utm\_medium=socialmedia](http://digitalgov.gov?utm_source=twitter&utm_medium=socialmedia)
 
 Links like this don’t rely on the referrer to be passed in order to record where the visitor is coming from because you can specify in the url itself where the visitor has clicked the original link. With this method, you can still use url shorteners and not worry about losing the ability to track where your clicks came from, as long as you use the appropriate campaign url for each social platform. You have to view the data a bit differently in your web analytics tool, but the bottom line is that the data is there, and you can use it with other dimensions and metrics to draw insights. The only downside to this method is the amount of time it takes to create a campaign url for potentially high volumes of links.
 

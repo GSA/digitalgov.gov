@@ -25,7 +25,7 @@ To accomplish this feat, participating federal websites need to add a [CODE] ref
 
 While this approach allows agencies more control, it makes it seriously challenging for DAP to ensure that security improvements and other bug fixes are quickly distributed to participating websites.
 
-To address this, DAP has set up a centrally hosted URL at dap.WHATEVER containing the most current DAP collection code, which agencies can reference like this:
+To address this, DAP has set up a centrally hosted URL at dap.digitalgov.gov containing the most current DAP collection code, which agencies can reference like this:
 
 <div>
   <code></code>
@@ -35,13 +35,13 @@ By adding this tag and following [DAP&#8217;s guidance](https://s3.amazonaws.com
 
 ## Securing Visits to Federal Websites {{< legacy-img src="2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." caption="" >}} 
 
-Hosting a widely-referenced piece of JavaScript introduces its own security concerns, because any change to that JavaScript will immediately affect all federal websites that reference it. It&#8217;s extremely important that the JavaScript on dap.WHATEVER not be modified by an attacker.
+Hosting a widely-referenced piece of JavaScript introduces its own security concerns, because any change to that JavaScript will immediately affect all federal websites that reference it. It&#8217;s extremely important that the JavaScript on dap.digitalgov.gov not be modified by an attacker.
 
 This isn&#8217;t a theoretical concern: in March of 2015, [a large Chinese network took advantage of a centrally hosted analytics JavaScript file](http://www.vox.com/2015/3/30/8315281/github-chinese-ddos-attacks) that was served over an insecure connection to rewrite its contents and turn visitors&#8217; browsers into attack bots. Any network, from a coffee shop to a global ISP, can easily attack insecure connections in this way.
 
 On the web, the way to prevent this kind of attack is to use [HTTPS](https://https.cio.gov/), which encrypts and secures the connection between a visitor and the JavaScript code.
 
-dap.WHATEVER [uses strong HTTPS](https://www.ssllabs.com/ssltest/analyze.html?d=dap.WHATEVER&s=23.203.230.91&latest) as well as [HTTP Strict Transport Security](https://https.cio.gov/hsts/) (HSTS), which adds some additional protections.
+dap.digitalgov.gov [uses strong HTTPS](https://www.ssllabs.com/ssltest/analyze.html?d=dap.digitalgov.gov&s=23.203.230.91&latest) as well as [HTTP Strict Transport Security](https://https.cio.gov/hsts/) (HSTS), which adds some additional protections.
 
 The [recent federal government policy on HTTPS](https://https.cio.gov/) requires HTTPS and HSTS for all new federal websites and services. (For agencies: DigitalGov University recently produced educational videos on an [Introduction to HTTPS](https://www.youtube.com/watch?v=d2GmcPYWm5k) and [Implementing HTTPS](https://www.youtube.com/watch?v=rnM2qAfEG-M).)
 
@@ -55,13 +55,13 @@ Many people on the Web are accustomed to using [protocol-relative URLs](http://w
 
 This means that the URL will inherit the protocol of the containing page. If the embedding website uses HTTPS, then the image will be fetched over HTTPS, and likewise for HTTP. When HTTPS was considered optional for many sites, this made some sense. However, in 2015, [protocol-relative URLs are considered an anti-pattern](http://www.paulirish.com/2010/the-protocol-relative-url/) and are discouraged.
 
-Because dap.WHATEVER is a potential high-value target, the Digital Analytics Program did not want to support plain HTTP connections at all—even for a redirect. Though HTTP redirects are helpful, they are still an opportunity for attack. [HSTS](https://https.cio.gov/hsts/) is designed to help with this, but an even more secure solution is to simply disable HTTP altogether.
+Because dap.digitalgov.gov is a potential high-value target, the Digital Analytics Program did not want to support plain HTTP connections at all—even for a redirect. Though HTTP redirects are helpful, they are still an opportunity for attack. [HSTS](https://https.cio.gov/hsts/) is designed to help with this, but an even more secure solution is to simply disable HTTP altogether.
 
-This generally isn&#8217;t a viable solution for websites, because users type bare domains like &#8220;whitehouse.gov&#8221; into browser location bars, and browsers generally have to assume plain HTTP as a first try in these situations. But because dap.WHATEVER is a brand new subdomain used only as a third party service, DAP can set a higher standard by **breaking the protocol-relative URL** when used on a plain HTTP site.
+This generally isn&#8217;t a viable solution for websites, because users type bare domains like &#8220;whitehouse.gov&#8221; into browser location bars, and browsers generally have to assume plain HTTP as a first try in these situations. But because dap.digitalgov.gov is a brand new subdomain used only as a third party service, DAP can set a higher standard by **breaking the protocol-relative URL** when used on a plain HTTP site.
 
 The simplest solution is to refuse http:// connections entirely by closing port 80 and not allowing browsers to connect at all, but this was not a viable option for DAP&#8217;s hosting provider. However, returning an error code instead of a redirect for plain HTTP connections would not be in compliance with federal HTTPS policy.
 
-We solved the issue by **combining** a redirect with an error code. Any HTTP requests to a file on http://dap.WHATEVER will redirect the user to https://dap.digitalgov.gov/403, which then returns a 403 error code.
+We solved the issue by **combining** a redirect with an error code. Any HTTP requests to a file on http://dap.digitalgov.gov will redirect the user to https://dap.digitalgov.gov/403, which then returns a 403 error code.
 
 <div>
   <code>$ curl --head http://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js&lt;br />
