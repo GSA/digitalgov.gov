@@ -48,7 +48,7 @@ And a question that can branch off of any of these stages is _where_ to make imp
 
 There is a line of thinking that says if a site is designed optimally, then <a href="https://books.google.com/books?id=LzgNHuKKGJIC&pg=PA41&lpg=PA41&dq=site+design+%22don%27t+need+search%22&source=bl&ots=sAd_zUGwQD&sig=XyGaXabkZtTT8cy_Kdw1R3sirtQ&hl=en&sa=X&ved=0ahUKEwjY58qz_u_KAhVFGh4KHfnuAYoQ6AEIMDAB#v=onepage&q=site%20design%20%22don't%20need%20search%22&f=false" target="_blank">search is not necessary</a>. However, usability research has shown that <a href="http://chil.rice.edu/research/pdf/KatzByrne03.pdf" target="_blank">about half of people start with search</a>, and a good number of the people who start out browsing resort to search if their sensemaking process doesn’t jive with the site’s architecture. Besides, providing multiple paths of discovery has been a <a href="https://en.wikipedia.org/wiki/Library_catalog" target="_blank">core tenet of information science for over 125 years</a>.
 
-<a href="http://search.WHATEVER" target="_blank">DigitalGov Search</a>, like any search tool worth its salt, provides robust search analytics. We give views into to the top <a href="http://search.digitalgov.gov/manual/queries.html" target="_blank">queries</a> your site gets and the <a href="http://search.digitalgov.gov/manual/clicks.html" target="_blank">top pages clicked on</a> out of your results pages. We also provide click-through rates for all queries: for all the times a query was run, how many clicks did that search results page get? You can see this for the top queries, or you can search for a particular term and see all the queries that contain that term.
+<a href="https://search.gov" target="_blank">DigitalGov Search</a>, like any search tool worth its salt, provides robust search analytics. We give views into to the top <a href="http://search.digitalgov.gov/manual/queries.html" target="_blank">queries</a> your site gets and the <a href="http://search.digitalgov.gov/manual/clicks.html" target="_blank">top pages clicked on</a> out of your results pages. We also provide click-through rates for all queries: for all the times a query was run, how many clicks did that search results page get? You can see this for the top queries, or you can search for a particular term and see all the queries that contain that term.
 
 {{< legacy-img src="2016/09/Queries\_-\_USA_gov-600w.png" alt="Screenshot of DigitalGov Search report on the top queries performed on USA.gov" >}}
 
@@ -64,7 +64,7 @@ Because the relationships between all these data points can be complex, we gave 
 
 By looking at trends for individual queries, query topics, locations, and destinations, you’ve begun the journey towards using data to better inform your search configuration and content strategy. We also recommend looking at your website data from the <a href="{{< link "dap.md" >}}" target="_blank">Digital Analytics Program</a> or any other analytics software you have running on your site.
 
-If you have further questions, Vexed, you can always <a href="search@support.WHATEVER" target="_blank">email the DigitalGov Search team</a>.
+If you have further questions, Vexed, you can always <a href="search@support.digitalgov.gov" target="_blank">email the DigitalGov Search team</a>.
 
 Happy searching,
   

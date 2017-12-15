@@ -20,7 +20,7 @@ tag:
 
 _This is post 2 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< link "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})._
 
-The last major infrastructure upgrade that [DigitalGov Search](http://search.WHATEVER) had was in 2010. Not only has technology evolved significantly since then, but so have business models for right-sizing costs. Moving to Amazon Web Services (AWS) infrastructure allowed us to improve reliability by creating self-healing servers and distributing the service across four physically isolated datacenters, and reduce datacenter costs by 40% per month — no longer do we have to pay for peak throughput capacity overnight, on weekends, or during other predictably low-traffic periods.
+The last major infrastructure upgrade that [DigitalGov Search](https://search.gov) had was in 2010. Not only has technology evolved significantly since then, but so have business models for right-sizing costs. Moving to Amazon Web Services (AWS) infrastructure allowed us to improve reliability by creating self-healing servers and distributing the service across four physically isolated datacenters, and reduce datacenter costs by 40% per month — no longer do we have to pay for peak throughput capacity overnight, on weekends, or during other predictably low-traffic periods.
 
 We were also able to reduce our CDN costs to almost zero by insourcing the management of our content delivery network (CDN)/web application firewall (WAF). By itself this reduced our total costs by almost 50 percent, as our CDN/WAF service had cost almost the same amount as our hosting provider.
 

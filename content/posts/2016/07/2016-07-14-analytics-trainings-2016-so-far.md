@@ -77,4 +77,4 @@ Our 3-hour 101 training for DAP users. If you’re just getting started with DAP
   * [Emailing and exporting reports](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=8751)
   * [Wrap up](https://www.youtube.com/watch?feature=player_embedded&v=CKMTK77PrJE#t=8795)
 
-If you’re wondering how you can get access to DAP or have more questions, [send DAP Support an email](mailto:dap@support.WHATEVER).
+If you’re wondering how you can get access to DAP or have more questions, [send DAP Support an email](mailto:dap@support.digitalgov.gov).

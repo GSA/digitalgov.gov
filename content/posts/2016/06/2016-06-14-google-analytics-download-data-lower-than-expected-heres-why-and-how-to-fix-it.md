@@ -38,4 +38,4 @@ The second option, and perhaps the more simple option, is to [share the web page
 
 Since Google Analytics will only track PDF downloads from the web page, the numbers will differ from those in your server logs. Remember, server logs will track access to your PDF from both a link on one of your web pages and direct links from external sources or channels.
 
-For more information about how DAP can help you track PDF downloads or downloads of other extensions, [please email DAP](mailto:dap@support.WHATEVER).
+For more information about how DAP can help you track PDF downloads or downloads of other extensions, [please email DAP](mailto:dap@support.digitalgov.gov).

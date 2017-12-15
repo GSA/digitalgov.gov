@@ -177,11 +177,11 @@ IP anonymization/masking takes place as soon as data is received by Google Analy
 
 ### What type of security measures/testing was done on the code that GSA is asking us to install?
 
-GSA has done an IT security review of the DAP custom GA code. No significant issues were found. Agencies can review our analysis and, in the context of their own infrastructure, follow their processes for securing applications in their infrastructure, adding applications to their Certification and Accreditation analysis, etc. Please contact <a href="mailto:dap@support.WHATEVER" target="_blank">dap@support.WHATEVER</a> to request a copy of our security report.
+GSA has done an IT security review of the DAP custom GA code. No significant issues were found. Agencies can review our analysis and, in the context of their own infrastructure, follow their processes for securing applications in their infrastructure, adding applications to their Certification and Accreditation analysis, etc. Please contact <a href="mailto:dap@support.digitalgov.gov" target="_blank">dap@support.digitalgov.gov</a> to request a copy of our security report.
 
 ### Does my agency need a TOS with Google to use the services provided under GSA’s Digital Analytics Program?
 
-GSA has negotiated a federal terms of service for Google Analytics Premium. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics Premium, it can use the DAP TOS as a starting point, but will need to sign a separate agreement.  Please contact <dap@support.WHATEVER> to request a copy of the terms.
+GSA has negotiated a federal terms of service for Google Analytics Premium. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics Premium, it can use the DAP TOS as a starting point, but will need to sign a separate agreement.  Please contact <dap@support.digitalgov.gov> to request a copy of the terms.
 
 For agencies to view the Google Analytics Dashboard, you will need a Google account. Agencies that have YouTube, Google+, or are using Google Analytics already have a Google account. You can check with your Office of General Counsel or your TOS lead for further guidance.
 
