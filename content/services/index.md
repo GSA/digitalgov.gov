@@ -44,7 +44,7 @@ The [Electronic Capital Planning and Investment Control (eCPIC)]({{< link "elect
 
 ## Search
 
-[DigitalGov Search]({{< link "search.md" >}} "USASearch") is a hosted site search service provided by the U.S. General Services Administration. You can use DigitalGov Search to power the search box on your federal government website—**at no cost**.
+[Search.gov]({{< link "search.md" >}} "Search.gov") (formerly DigitalGov Search) is a hosted site search service provided by the U.S. General Services Administration. You can use Search.gov to power the search box on your federal government website—**at no cost**.
 
 {{< button href="search.md" text="Get Started" >}}
 
