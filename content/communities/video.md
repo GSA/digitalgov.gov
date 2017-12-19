@@ -11,9 +11,7 @@ aliases:
 
 ### Join
 
-To join our listserv, send an email to [Bryce Spivey](mailto:Kevin.Spivey@cfpb.gov?subject=Join%20Video%20Production%20Pros).
-
-If you are a U.S. government employee with a **.gov** or **.mil** email address
+If you are a U.S. government employee with a **.gov** or **.mil** email address, please email [Bryce Spivey](mailto:Kevin.Spivey@cfpb.gov?subject=Join%20Video%20Production%20Pros) with ‘Join Video Production Pros’ in the subject line.
 
 ### Who Are We?
 
