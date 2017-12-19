@@ -49,7 +49,7 @@ Below we have added specific resources to each guideline.
   * [Always Future Ready: The Benefits of Open]({{< link "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}) Content Models and Structured Data Webinar
   * [The Content Corner: Humanizing Structured Content]({{< link "2015-06-01-the-content-corner-humanizing-structured-content.md" >}}) &#8211; Article offering tips on how to encourage content creators and SMEs to use content models.
   * [Open and Structured Content Working Group Discussion Board](https://github.com/GSA/Open-And-Structured-Content-Models/issues)&#8212; Join the discussion about adopting structured content models across government.
-  * Guidelines to [making Mobile Websites]({{< link "2015-04-15-mobilegeddon-government-edition.md" >}}) mobile search friendly &#8211; A howto guide written by the Search.gov _(formerly DigitalGov Search)_ team
+  * Guidelines to [making Mobile Websites]({{< link "2015-04-15-mobilegeddon-government-edition.md" >}}) mobile search friendly &#8211; A how-to guide written by the Search.gov _(formerly DigitalGov Search)_ team
   * [How to Use Open Source CMS to Implement Responsive Web Design]({{< link "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}})
 
 <h2 id="guideline2" style="padding-top: 50px">
