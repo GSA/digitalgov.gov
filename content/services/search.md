@@ -5,7 +5,7 @@ title: Search.gov
 summary: 'Use Search.gov to power the search box on your federal government website&mdash;at no cost.'
 ---
 
-Use Search.gov to power the search box on your federal government website—at no cost. <a href="https://search.usa.gov/signup" target="_blank">Sign up for an account</a> to get started. Our hosted search service helps you improve visitors&#8217; search experience on your website.
+Use [Search.gov](https://search.gov) (formerly DigitalGov Search) to power the search box on your federal government website—at no cost. <a href="https://search.usa.gov/signup" target="_blank">Sign up for an account</a> to get started. Our hosted search service helps you improve visitors&#8217; search experience on your website.
 
   * **Search across _all_ of your public-facing content.** We support an unlimited number of web pages across an unlimited number domains. We also integrate your tweets, YouTube videos, and Flickr photos.
   * **Customize the search experience for your website.** Log in to our Admin Center to review your search analytics, tell us what content you want indexed, set up the display of your results page, and curate recommended pages.
