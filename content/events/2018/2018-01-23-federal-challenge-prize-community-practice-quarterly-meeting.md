@@ -1,6 +1,6 @@
 ---
 slug: federal-challenge-prize-community-practice-quarterly-meeting
-title: 'Federal Challenge &amp; Prize Community of Practice Quarterly Meeting'
+title: 'Federal Challenge & Prize Community of Practice Quarterly Meeting'
 summary: 'This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions&#46;'
 featured_image: 
   uid: 
