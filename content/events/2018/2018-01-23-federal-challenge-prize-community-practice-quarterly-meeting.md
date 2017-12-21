@@ -28,7 +28,7 @@ This quarterly meeting brings together federal employees from a range of agencie
 
 At this meeting, attendees will:
 
-- Meet and greet a Special Assistant to the President at the White House Office of American Innovation (invited).
+- Meet and greet the Special Assistant to the President for Innovation Policy and Initiatives and hear his vantage point from within the White House Office of American Innovation.
 - Hear how a DARPA challenge to forecast the spread of infectious disease is pinpointing where to perform clinical trials on a new vaccine for the chikungunya virus.
 - Learn about using challenges in humanitarian efforts from the U.S. Agency for International Development and others.
 - Explore the role of accelerators in advancing research and fostering entrepreneurship through a panel discussion featuring the Small Business Administration, Department of Health and Human Services, Department of Energy, and the National Institute of Standards and Technology.
