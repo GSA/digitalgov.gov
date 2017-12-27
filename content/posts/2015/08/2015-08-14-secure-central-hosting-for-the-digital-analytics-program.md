@@ -21,7 +21,6 @@ To accomplish this feat, participating federal websites need to add a [CODE] ref
 
 ```
 <script src="/js/federated-analytics.js" id="_fed_an_ua_tag"></script>
-
 ```
 
 While this approach allows agencies more control, it makes it seriously challenging for DAP to ensure that security improvements and other bug fixes are quickly distributed to participating websites.
@@ -76,4 +75,6 @@ This ensures that data can _only_ be collected over HTTPS, and _breaks_ any HTTP
 
 While DAP&#8217;s solution ended up being straightforward, this approach is surprisingly novel—most common third party services today don&#8217;t even require HTTPS.
 
-But on today&#8217;s Internet, they should, and the Digital Analytics Program is leading by example._Eric Mill is an 18f team member._
+But on today&#8217;s Internet, they should, and the Digital Analytics Program is leading by example.
+
+_Eric Mill is an 18f team member._
