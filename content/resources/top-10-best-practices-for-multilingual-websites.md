@@ -8,6 +8,8 @@ authors:
   - lmartinez
   - fedora-braverman
   - lina-younes
+aliases:
+  - /2012/08/12/top-10-best-practices-for-multilingual-websites/
 ---
 
 1. **Language** — Digital communications must address the users’ language preference. The use of machine or automatic translations as a sole solution is strongly discouraged even if a disclaimer is added. If government agencies decide to use translation software, they should have the translation reviewed by a qualified language professional before posting it to the website to ensure that the translation correctly [communicates the message]({{< link "2012-10-01-automated-translation-good-solution-or-not.md" >}}) in a culturally relevant manner. [GobiernoUSA.gov](https://gobierno.usa.gov), the trusted source for government information in Spanish, offers users a complete experience including content, navigation, and all functionalities and features in that language.
@@ -21,14 +23,14 @@ authors:
 5. **Comparability and Maintenance** — Ensure that your multilingual website provides a comparable user experience to your English site. MedlinePlus provides the same experience on the [English](https://medlineplus.gov/) and [Spanish](https://medlineplus.gov/spanish/) sites through consistent maintenance of content and look and feel.
 
 6. **Users’ Expectations** — Manage users’ expectations by notifying when a user is going to navigate to an English-only area, external website, or will require a special program or software to view an application. The State Department’s [U.S Passports & International Travel](https://travel.state.gov/content/passports/spanish.html) site indicates English-only content by adding “en inglés” next to links available in English. “En inglés” should be part of the link to comply with section 508 of the Rehabilitation Act (29 U.S.C. 794d).
-  
+
 7. **Toggle** — Enable users to toggle between comparable content or features on the English and multilingual websites if available. Users on the National Cancer Institute can go back and forth between their [English](http://www.cancer.gov/) and [Spanish](http://www.cancer.gov/espanol) pages without having to go through the home page.
 
 8. **Digital Features and Functionality** — Provide similar digital features and functionality on multilingual websites as available on the English site. The [EPA site in Spanish](https://espanol.epa.gov/) offers basic features such as email, RSS feeds, podcasts and more, as well as access to their social media accounts.
 
 9. **Integrated Operations** — Integrate your multilingual website initiatives with your internal infrastructure, overall operations and online-offline strategy. [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/) provides phone, chat and email support in Spanish through 1-(844)-USA-GOV1, as well as marketing campaigns and outreach materials in Spanish. In addition, GobiernoUSA.gov is an integral part of the overall online and offline strategy of the Office of Products and Programs part of the [Technology Transformation Service](http://www.gsa.gov/portal/content/105227) in GSA. This was especially evident when a name change and redesign were implemented for both USA.gov and GobiernoUSA.gov.
 
-10. **Marketing and Outreach** — Develop and execute a targeted multilingual marketing and outreach program that includes branding, social media and email marketing strategies, and KPIs (key performance indicators) to measure success. Many agencies conduct dedicated outreach both online and offline for their multilingual sites including: 
+10. **Marketing and Outreach** — Develop and execute a targeted multilingual marketing and outreach program that includes branding, social media and email marketing strategies, and KPIs (key performance indicators) to measure success. Many agencies conduct dedicated outreach both online and offline for their multilingual sites including:
 
     - [GobiernoUSA.gov](https://gobierno.usa.gov/)
     - [MedlinePlus en español](https://medlineplus.gov/spanish/)
