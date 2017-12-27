@@ -1,7 +1,7 @@
 ---
-slug: secure-central-hosting-for-the-digital-analytics-program.md
+slug: secure-central-hosting-for-the-digital-analytics-program
 date: 2015-08-14 13:00:48 -0400
-title: Secure Central Hosting for the Digital Analytics Program
+title: 'Secure Central Hosting for the Digital Analytics Program'
 summary: 'The U.S. government&#8217;s Digital Analytics Program (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at analytics.usa.gov.'
 authors:
   - eric-mill
@@ -33,7 +33,7 @@ To address this, DAP has set up a centrally hosted URL at dap.digitalgov.gov con
 
 By adding this tag and following [DAP&#8217;s guidance](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/GSA-DAP-UA-Code-Quick-Guide-15-01-30-v1-02_mvf.pdf) (PDF, 273 KB, 7 pages, February 2015) to add parameters identifying your agency, a federal website will begin reporting its Web analytics to DAP and will be guaranteed to always be using the latest, greatest, most secure DAP code.
 
-## Securing Visits to Federal Websites {{< legacy-img src="2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." caption="" >}} 
+## Securing Visits to Federal Websites {{< legacy-img src="2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." caption="" >}}
 
 Hosting a widely-referenced piece of JavaScript introduces its own security concerns, because any change to that JavaScript will immediately affect all federal websites that reference it. It&#8217;s extremely important that the JavaScript on dap.digitalgov.gov not be modified by an attacker.
 
