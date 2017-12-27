@@ -22,7 +22,8 @@ We’ve found that agencies need:
 - Focused trainings and events that help teams learn and adopt new concepts
 - Easy access to collaborate with others across government who are working on the same problems
 
-#### What we are working on
+## What we are working on
+
 Over the last decade, DigitalGov has become a destination in government to learn about the methods, practices, policies and tools that are needed to create effective digital services.
 
 And we believe DigitalGov should set the example for how government learns, builds, delivers and measures digital services in the 21st century.
@@ -38,11 +39,11 @@ We are building DigitalGov into a destination that practices the methods that it
 
 ***
 
-#### The Team
+## The Team
 
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in government and have a wealth of experience creating modern digital services.
 
-#### DigitalGov
+## DigitalGov
 **Jeremy Zilar**, Director<br/>
 **Jacqueline Snee**, Community Manager<br/>
 **Dan Williams**, Designer<br/>
@@ -51,7 +52,8 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **Janelle Thalls**, Video Editor, Training & Education<br/>
 **Soncerray Bolling**, Video Editor, Training & Education
 
-#### The U.S. Web Design Standards Core Team
+### The U.S. Web Design Standards Core Team
+
 **Dan Williams**, Product Owner<br/>
 **Maya Benari**<br/>
 **John Donmoyer**<br/>
@@ -61,7 +63,7 @@ _[https://standards.usa.gov/](https://standards.usa.gov/)_
 
 ---
 
-#### Contact Us
+## Contact Us
 
 **Have a question or comment?**
 
