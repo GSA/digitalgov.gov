@@ -2,7 +2,7 @@
 slug: secure-central-hosting-for-the-digital-analytics-program
 date: 2015-08-14 13:00:48 -0400
 title: 'Secure Central Hosting for the Digital Analytics Program'
-summary: 'The U.S. government&#8217;s Digital Analytics Program (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at analytics.usa.gov.'
+summary: 'The U.S. government&#8217;s Digital Analytics Program (DAP) collects Web traffic and analytics data from across the federal government.'
 authors:
   - eric-mill
 categories:
@@ -19,21 +19,24 @@ The U.S. government&#8217;s [Digital Analytics Program]({{< link "dap.md" >}}) (
 
 To accomplish this feat, participating federal websites need to add a [CODE] reference to a [standard bit of JavaScript code](https://github.com/digital-analytics-program/gov-wide-code/blob/master/Universal-Federated-Analytics.js). Until now, the only option agencies have had is to host this JavaScript file themselves, like this:
 
-<div>
-  <code></code>
-</div>
+```
+<script src="/js/federated-analytics.js" id="_fed_an_ua_tag"></script>
+
+```
 
 While this approach allows agencies more control, it makes it seriously challenging for DAP to ensure that security improvements and other bug fixes are quickly distributed to participating websites.
 
 To address this, DAP has set up a centrally hosted URL at dap.digitalgov.gov containing the most current DAP collection code, which agencies can reference like this:
 
-<div>
-  <code></code>
-</div>
+```
+<script src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js" id="_fed_an_ua_tag"></script>
+```
 
 By adding this tag and following [DAP&#8217;s guidance](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/GSA-DAP-UA-Code-Quick-Guide-15-01-30-v1-02_mvf.pdf) (PDF, 273 KB, 7 pages, February 2015) to add parameters identifying your agency, a federal website will begin reporting its Web analytics to DAP and will be guaranteed to always be using the latest, greatest, most secure DAP code.
 
-## Securing Visits to Federal Websites {{< legacy-img src="2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." caption="" >}}
+## Securing Visits to Federal Websites
+
+{{< legacy-img src="2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." caption="" >}}
 
 Hosting a widely-referenced piece of JavaScript introduces its own security concerns, because any change to that JavaScript will immediately affect all federal websites that reference it. It&#8217;s extremely important that the JavaScript on dap.digitalgov.gov not be modified by an attacker.
 
@@ -49,9 +52,9 @@ The [recent federal government policy on HTTPS](https://https.cio.gov/) requires
 
 Many people on the Web are accustomed to using [protocol-relative URLs](http://www.paulirish.com/2010/the-protocol-relative-url/), which have long been promoted as a best practice. They look like this:
 
-<div>
-  <code>&lt;img src="//domain.com/img/logo.png" alt="" /></code>
-</div>
+```
+<img src="//domain.com/img/logo.png" alt="" />
+```
 
 This means that the URL will inherit the protocol of the containing page. If the embedding website uses HTTPS, then the image will be fetched over HTTPS, and likewise for HTTP. When HTTPS was considered optional for many sites, this made some sense. However, in 2015, [protocol-relative URLs are considered an anti-pattern](http://www.paulirish.com/2010/the-protocol-relative-url/) and are discouraged.
 
@@ -59,15 +62,15 @@ Because dap.digitalgov.gov is a potential high-value target, the Digital Analyti
 
 This generally isn&#8217;t a viable solution for websites, because users type bare domains like &#8220;whitehouse.gov&#8221; into browser location bars, and browsers generally have to assume plain HTTP as a first try in these situations. But because dap.digitalgov.gov is a brand new subdomain used only as a third party service, DAP can set a higher standard by **breaking the protocol-relative URL** when used on a plain HTTP site.
 
-The simplest solution is to refuse http:// connections entirely by closing port 80 and not allowing browsers to connect at all, but this was not a viable option for DAP&#8217;s hosting provider. However, returning an error code instead of a redirect for plain HTTP connections would not be in compliance with federal HTTPS policy.
+The simplest solution is to refuse `http://` connections entirely by closing port 80 and not allowing browsers to connect at all, but this was not a viable option for DAP&#8217;s hosting provider. However, returning an error code instead of a redirect for plain HTTP connections would not be in compliance with federal HTTPS policy.
 
 We solved the issue by **combining** a redirect with an error code. Any HTTP requests to a file on http://dap.digitalgov.gov will redirect the user to https://dap.digitalgov.gov/403, which then returns a 403 error code.
 
-<div>
-  <code>$ curl --head http://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js&lt;br />
-HTTP/1.1 301 Moved Permanently&lt;br />
-Location: https://dap.digitalgov.gov/403</code>
-</div>
+```
+$ curl --head http://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js
+HTTP/1.1 301 Moved Permanently
+Location: https://dap.digitalgov.gov/403
+```
 
 This ensures that data can _only_ be collected over HTTPS, and _breaks_ any HTTP or protocol-relative URLs participating agencies might accidentally use when integrating their websites into the Digital Analytics Program.
 
