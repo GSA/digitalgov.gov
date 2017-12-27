@@ -59,7 +59,7 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **John Donmoyer**<br/>
 **Andrea Sigritz**<br/>
 
-_[https://standards.usa.gov/](https://standards.usa.gov/)_
+[https://standards.usa.gov/](https://standards.usa.gov/)
 
 ---
 
