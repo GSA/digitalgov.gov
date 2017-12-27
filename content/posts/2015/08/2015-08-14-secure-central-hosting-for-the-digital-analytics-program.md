@@ -77,4 +77,4 @@ While DAP&#8217;s solution ended up being straightforward, this approach is surp
 
 But on today&#8217;s Internet, they should, and the Digital Analytics Program is leading by example.
 
-_Eric Mill is an 18f team member._
+_Eric Mill is an 18F team member._
