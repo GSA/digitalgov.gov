@@ -11,6 +11,7 @@ end_date: 2018-02-14 10:30:00 -0400
 event_organizer: DigitalGov University
 host: 
 registration_url: https://www.eventbrite.com/e/us-digital-registry-open-office-hours-registration-41577054088
+
 ---
 
 On the second Wednesday of every month, from 10:00 - 10:30 am, ET, the U.S Digital Registry team hosts monthly, open-office time to answer questions, discuss ideas, and take feedback about the U.S. Digital Registry. 
