@@ -41,27 +41,25 @@ I’d been an enthusiastic proponent of an Intranet redesign over the years, but
 
 {{< legacy-img src="2016/09/600-x-400-Archaeologist-and-student-excavating-Mypurgatoryyears-iStock-Thinkstock-176511372.jpg" alt="Archaeologist and student excavating." caption="" >}} 
 
-<h2>Listen to the Experts: Your Users</h2>
+## Listen to the Experts: Your Users
 
 In actuality, the redesign process started long before I received the official go-ahead. I’d been listening to the experts, the users of this site—my colleagues—when they provided feedback,. I collected e-mails asking about the whereabouts of a form or resource. And I took notes: I’d collected comments and feedback from staff over months, as well as jotted down my own ideas about what would be cool for an updated site. I also listened to my colleagues via listservs and meetings around all the Federal agencies. Over time, a wish list emerged (and grew).
 
-<h2>A Staff-Wide Survey: What Do These "Bones" Look Like to You?</h2>
+## A Staff-Wide Survey: What Do These "Bones" Look Like to You?
 
 Next, I put together a brief 15-question survey to distribute to staff. We created a Drupal-based survey and made this available to staff for about a month. I posted it to the Intranet homepage and promoted it through emails. I knew that the response rate alone would be a good gauge for general interest in the Intranet site. About half of our staff responded and shared feedback.
 
 Questions included:
 
-<ul>
-  <li>frequency of visits to the site;</li>
-  <li>top resources staff used to complete job-related tasks;</li>
-  <li>completion success of top tasks;</li>
-  <li>top-visited resources on the intranet;</li>
-  <li>and frequency of use of homepage links.</li>
-</ul>
+- frequency of visits to the site;
+- top resources staff used to complete job-related tasks;
+- completion success of top tasks;
+- top-visited resources on the intranet;
+- and frequency of use of homepage links.
 
 The survey clarified staff wants and needs. And, it provided us with an overall impression of the intranet that would drive us forward to the next step. We needed to drill down even further and confirm we were on the right track and make sure top tasks were rising to the top. So, we carefully extracted the bones to take a closer look, sifting and sorting, cleaning and prepping.
 
-<h2>Card Sort Exercise: Sorting and Sifting</h2>
+## Card Sort Exercise: Sorting and Sifting
 
 We decided to go forward with a card sorting exercise and chose an online tool called UsabiliTEST. Participants included members of our Web team, as well as a management analyst from our Executive Office. In this app, users can create headings, drag ‘n drop content and links, and are able to think through correct placement of information and resources to make sure items are ‘dropped’ in all the right buckets.
 
@@ -69,11 +67,11 @@ We decided to go forward with a card sorting exercise and chose an online tool c
 
 I expected to see some scattered results since we had multiple participants, all with their own thoughts and ideas about how the site should look. Instead, what I saw was common ground and understanding of how our content should be organized. This was one of the most rewarding moments in the process so far &#8211; I could see the structure of a new site coming together! We were now ready to assemble.
 
-<h2>Wireframes: Erecting a Structure</h2>
+## Wireframes: Erecting a Structure
 
 After compiling the results and reviewing the top-level headings from this exercise, I could see the structure of a a new Intranet site coming together. Next, all our data was provided to a Web designer, who will create our first prototypes, or wireframes. I discovered that, through a disciplined process,  I didn’t need to puzzle about the redesign too much. 
 
 We will now work on fine-tuning wireframes design elements, and  usability testing. I hope to update folks interested in this process in an upcoming blog post! 
 
 ---
-<i>Karla Blaine has been a Web and Intranet Content Manager for the past 10 years at the NIH National Center for Complementary and Integrative Health.</i>
+_Karla Blaine has been a Web and Intranet Content Manager for the past 10 years at the NIH National Center for Complementary and Integrative Health._
