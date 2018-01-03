@@ -1,6 +1,6 @@
 ---
 slug: responding-to-a-disaste-how-usagov-helped-shape-the-digital-response-in-puerto-rico
-title: 'Responding to a Disaster: How USAGOV Helped Shape the Digital Response in Puerto Rico'
+title: 'Responding to a Disaster: How USAGov Helped Shape the Digital Response in Puerto Rico'
 summary: 'This interactive talk with a USAGov team member will highlight the digital response in Puerto Rico during and after Hurricane Maria&#46; '
 featured_image: 
   uid: 
