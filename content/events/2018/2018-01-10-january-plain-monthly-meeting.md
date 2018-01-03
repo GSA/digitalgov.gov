@@ -11,9 +11,17 @@ registration_url: https://www.eventbrite.com/e/january-plain-monthly-meeting-reg
 youtube_id: Ua0cwD_re7s
 ---
 
-Join us for our first Plain Language Action and Information Network (PLAIN) Monthly meeting of 2018. _The topic for this meeting is coming soon._
+Join us for our first Plain Language Action and Information Network (PLAIN) Monthly meeting of 2018. 
+
+At the Plain International meeting last year, many presenters discussed toolkits and how valuable they found them.
+
+In our January meeting (in person and online) please help us decide what to include in our toolkit. Let us know what resources you'd find useful.
+
+Start your thinking now!
+
+
+### About the Montly PLAIN Meetings
 
 Hosted by DigitalGov, meetings are in-person, online, or a mix of both. They are recorded and posted to DigitalGov's YouTube channel.
  
 In addition to addressing timely topics, like science communications and health literacy, typical discussions include: plain language training; hands-on editing exercises; how to write for web and social media; and content strategy.
-
