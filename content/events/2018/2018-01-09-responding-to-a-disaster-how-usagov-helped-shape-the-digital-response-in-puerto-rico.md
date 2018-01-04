@@ -13,7 +13,7 @@ host:
 registration_url: https://www.eventbrite.com/e/usagov-supports-femas-digital-response-in-puerto-rico-registration-41706772078
 youtube_id: MqJFd9DX7cY
 aliases:
-  - /events/responding-to-a-disaste-how-usagov-helped-shape-the-digital-response-in-puerto-rico
+  - /event/responding-to-a-disaste-how-usagov-helped-shape-the-digital-response-in-puerto-rico
   
 ---
 
