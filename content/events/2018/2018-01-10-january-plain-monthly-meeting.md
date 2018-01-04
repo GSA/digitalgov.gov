@@ -15,13 +15,13 @@ Join us for our first Plain Language Action and Information Network (PLAIN) Mont
 
 At the Plain International meeting last year, many presenters discussed toolkits and how valuable they found them.
 
-In our January meeting (in person and online) please help us decide what to include in our toolkit. Let us know what resources you'd find useful.
+In our January meeting please help us decide what to include in our toolkit. Let us know what resources you'd find useful.
 
 Start your thinking now!
 
 
 ### About the Montly PLAIN Meetings
 
-Hosted by DigitalGov, meetings are in-person, online, or a mix of both. They are recorded and posted to DigitalGov's YouTube channel.
+Hosted by DigitalGov, meetings are in-person, online, or a mix of both. They are recorded and posted to [DigitalGov's YouTube channel] (https://www.youtube.com/c/digitalgov).
  
 In addition to addressing timely topics, like science communications and health literacy, typical discussions include: plain language training; hands-on editing exercises; how to write for web and social media; and content strategy.
