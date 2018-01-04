@@ -14,7 +14,7 @@ registration_url: https://www.eventbrite.com/e/usagov-supports-femas-digital-res
 youtube_id: MqJFd9DX7cY
 ---
 
-Hurricane Maria made landfall on September 20, 2016, devastating Puerto Rico and the U.S. Virgin Islands. These events, coupled with hurricanes Harvey and Nate, and wildfires in California, made five simultaneous natural disasters that the Federal Emergency Management Agency (FEMA) would need to address. Within a few weeks, thousands of federal volunteers from across the country were deployed to the Joint Field Office (JFO) in San Juan. 
+Hurricane Maria made landfall on September 20, 2017, devastating Puerto Rico and the U.S. Virgin Islands. These events, coupled with hurricanes Harvey and Irma, and wildfires in California, made five simultaneous natural disasters that the Federal Emergency Management Agency (FEMA) would need to address. Within a few weeks, thousands of federal volunteers from across the country were deployed to the Joint Field Office (JFO) in San Juan. 
 
 [USAGov](https://www.usa.gov/explore/), which has been designated as the official channel of disaster communications for the federal government, supported efforts by building a digital response team in Washington, but also by sending a bilingual digital team member to Puerto Rico. The task included assisting the External Affairs team of the Joint Information Center with bolstering their digital capabilities.
 
