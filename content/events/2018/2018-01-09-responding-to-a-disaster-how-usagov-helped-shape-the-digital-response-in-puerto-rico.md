@@ -1,5 +1,5 @@
 ---
-slug: responding-to-a-disaste-how-usagov-helped-shape-the-digital-response-in-puerto-rico
+slug: responding-to-a-disaster-how-usagov-helped-shape-the-digital-response-in-puerto-rico
 title: 'Responding to a Disaster: How USAGov Helped Shape the Digital Response in Puerto Rico'
 summary: 'This interactive talk with a USAGov team member will highlight the digital response in Puerto Rico during and after Hurricane Maria&#46; '
 featured_image: 
@@ -12,6 +12,9 @@ event_organizer: DigitalGov University
 host: 
 registration_url: https://www.eventbrite.com/e/usagov-supports-femas-digital-response-in-puerto-rico-registration-41706772078
 youtube_id: MqJFd9DX7cY
+aliases:
+  - /event/responding-to-a-disaste-how-usagov-helped-shape-the-digital-response-in-puerto-rico
+  
 ---
 
 Hurricane Maria made landfall on September 20, 2017, devastating Puerto Rico and the U.S. Virgin Islands. These events, coupled with hurricanes Harvey and Irma, and wildfires in California, made five simultaneous natural disasters that the Federal Emergency Management Agency (FEMA) would need to address. Within a few weeks, thousands of federal volunteers from across the country were deployed to the Joint Field Office (JFO) in San Juan. 
