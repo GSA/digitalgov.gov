@@ -11,16 +11,14 @@ registration_url: https://www.eventbrite.com/e/january-plain-monthly-meeting-reg
 youtube_id: Ua0cwD_re7s
 ---
 
-Join us for our first Plain Language Action and Information Network (PLAIN) Monthly meeting of 2018. 
+Join us for our first Plain Language Action and Information Network (PLAIN) Monthly meeting of 2018 where we will discuss a variety of the toolkits that were discussed at last years Plain International meeting and how valuable they were.
 
-At the Plain International meeting last year, many presenters discussed toolkits and how valuable they found them.
+Our goal is to decide on what we should include in our own toolkit.
 
-In our January meeting please help us decide what to include in our toolkit. Let us know what resources you'd find useful.
-
-Start your thinking now!
+Start thinking about the resources you would find most useful!
 
 
-## About the Montly PLAIN Meetings
+## About the Monthly PLAIN Meetings
 
 Hosted by DigitalGov, meetings are in-person, online, or a mix of both. They are recorded and posted to [DigitalGov's YouTube channel](https://www.youtube.com/c/digitalgov).
  
