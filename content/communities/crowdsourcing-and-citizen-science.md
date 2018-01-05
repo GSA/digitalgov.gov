@@ -17,7 +17,10 @@ Anyone with a .gov or .mil email address can join our community by emailing the 
 
 ## Community Managers 
 
+The CCS Co-Chairs are:
+
 Jay Benforado, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)
+
 Sophia B. Liu, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
 
 ## Overview 
