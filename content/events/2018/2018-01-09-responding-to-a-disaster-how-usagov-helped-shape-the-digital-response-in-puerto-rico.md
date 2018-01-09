@@ -21,7 +21,7 @@ Hurricane Maria made landfall on September 20, 2017, devastating Puerto Rico and
 
 [USAGov](https://www.usa.gov/explore/), which has been designated as the official channel of disaster communications for the federal government, supported efforts by building a digital response team in Washington, but also by sending a bilingual digital team member to Puerto Rico. The task included assisting the External Affairs team of the Joint Information Center with bolstering their digital capabilities.
 
-A team made up of FEMA reservists, federal government bilingual communicators, and local hires tackled emergency response and recovery efforts, which included bolstering their digital capabilities and a number of tactics for reaching survivors with critical information. 
+A team made up of FEMA reservists, FEMA digital communications experts, federal government bilingual communicators, and local hires tackled emergency response and recovery efforts, which included bolstering their digital capabilities and a number of tactics for reaching survivors with critical information
 
 ### In this Q&A you'll learn about:
 - Digital tactics and tools FEMA and USAGov employed to help survivors
