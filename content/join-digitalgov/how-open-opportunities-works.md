@@ -16,25 +16,29 @@ Opportunities range from editing a press release or testing a feature on a websi
 ## How to Get Started 
 
 **Step 1. Create an account on the [Open Opportunities](https://openopps.usajobs.gov/) platform** 
-  * Fill out your profile, including photo, skills, and interests. 
+
+ * Fill out your profile, including photo, skills, and interests. 
 
 **Step 2. Pick your perfect opportunity** 
-  * Check out the [list of open opportunities](https://openopps.usajobs.gov/tasks). 
-  * Read the description of the opportunity to learn what skills are needed and the deadline. 
-  * Leave questions about the opportunity as a comment at the bottom of each post so others can benefit from the discussion. 
-  * Clear your participation with your supervisor before participating. 
-  * When you are interested in a task, click on the “I’m In!” button to let us know. 
-  * We will email you confirmation that your interest was registered and that more information will be coming. 
+
+ * Check out the [list of open opportunities](https://openopps.usajobs.gov/tasks). 
+ * Read the description of the opportunity to learn what skills are needed and the deadline. 
+ * Leave questions about the opportunity as a comment at the bottom of each post so others can benefit from the discussion. 
+ * Clear your participation with your supervisor before participating. 
+ * When you are interested in a task, click on the “I’m In!” button to let us know. 
+ * We will email you confirmation that your interest was registered and that more information will be coming. 
 
 **Step 3. If you’re selected for the task, go for it!** 
-  * We’ll provide you with all the details and information that you will need. 
-  * If you have questions, ask! 
-  * We will also mark the job as “assigned” so it will no longer appear as open on the page. 
+
+ * We’ll provide you with all the details and information that you will need. 
+ * If you have questions, ask! 
+ * We will also mark the job as “assigned” so it will no longer appear as open on the page. 
 
 **Step 4. Once you’re done, send us the “completed” project.** 
-  * We’ll review the submission for completion and notify you via email whether the task is complete or if more work is needed. 
-  * We’ll mark the task as complete. 
-  * We’ll send you a link to a short survey to find out what went well and how we can improve. 
+
+ * We’ll review the submission for completion and notify you via email whether the task is complete or if more work is needed. 
+ * We’ll mark the task as complete. 
+ * We’ll send you a link to a short survey to find out what went well and how we can improve. 
 
 ## Questions? Comments? 
 If you have any questions or need clarification, [send Open Opps an email](mailto:openopps@opm.gov.). 
