@@ -22,7 +22,9 @@ Task is reviewed by Open Opps staff.
 You will receive an email when your task is approved and goes live. (You will also be emailed if edits are needed.)
 
 ## Accepting Participants 
+
 {{< legacy-img src="/2015/04/215-x-215-open-opps-email-share-button.jpg" alt="215-x-215-open-opps-email-share-button" >}}
+
 1. **Market Your Task** 
    + Advertise to relevant communities of practice using our [marketing template](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx) (1 page, 14 kb, MS Word, .docx).
    + Use the "share" button on the right of the task page to send a form email. 
@@ -34,7 +36,9 @@ Task Creators need to respond to interested participants within **24 hours**. (Y
 Remove any extra participants from the task. **It is your responsibility to email extra participants prior to assigning the task.** Please review our [template](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Open-Opps-Opportunity-Assigned-to-Someone-Else-Email-Template.docx) (1 page, 15 kb, MS Word .docx) for a suggested message.
 
 ## Wrapping Up
+
 {{< legacy-img src="/2015/04/215-x-233-open-opps-change-state.jpg" alt="Screen capture of the Change Opportunity State link" >}}
+
 1. **Assign Task** <br />
 When you are ready to select participants, change the opportunity state to "assigned." (Box is on the right side of the task page when you are logged in). 
 2. **_Note:_** <br />
