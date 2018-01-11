@@ -26,7 +26,7 @@ We [collect research]({{< link "2014-07-01-multilingual-digital-content.md" >}})
 
 ## We work on three main areas:
 
-### Multilingual Websites and Digital Channels–Standards, Guidelines, Research and Mandates
+### Standards, Guidelines, Research, and Mandates for Multilingual Websites and Digital Channels
 
 The goal is to develop templates and compile research data, mandates and other materials to help digital content managers have a successful cross-platform presence. The group also develops guidelines to answer questions such as how to:
 
@@ -38,7 +38,7 @@ The goal is to develop templates and compile research data, mandates and other m
   * Have a successful presence in social media channels
   * Offer content in other languages via APIs
 
-### Translation/Adaptation/Localization of Content
+### Translation, Adaptation, and Localization of Content
 
 The group comes together to work on:
 
@@ -48,7 +48,7 @@ The group comes together to work on:
   * Developing plain language guidelines
   * Creating general guidelines for the acquisition and management of translation work and contracts
 
-### Marketing, Outreach, Education, Training
+### Marketing, Outreach, Education, and Training
 
 The group compiles and documents best practice examples across government to answer questions such as:
 
