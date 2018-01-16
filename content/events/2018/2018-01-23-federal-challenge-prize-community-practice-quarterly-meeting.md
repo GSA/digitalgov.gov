@@ -25,7 +25,8 @@ venue:
 
 This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.
 
-## Agenda ##
+## Agenda
+
 | Time | Topic | 
 | ---- | ----|
 | 8:45 am  | **Registration and Networking** |
