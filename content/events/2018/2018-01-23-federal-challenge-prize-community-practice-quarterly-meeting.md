@@ -25,6 +25,54 @@ venue:
 
 This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.
 
+## Agenda
+
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Topic</th>
+  </tr>
+  <tr>
+    <td>8:45 a.m.</td>
+    <td>Registration and Networking</td>
+  </tr>
+  <tr>
+    <td>9:10 a.m.</td>
+    <td><strong>Introductions and Program Updates</strong><ul><li>Kelly Oslon, GSA</li></ul></td>
+  </tr>
+  <tr>
+    <td>9:10 a.m.</td>
+    <td><strong>The DARPA Design: From Infectious Disease to Underground Infrastructure</strong><ul><li>Col Matthew Hepburn, Defense Advanced Research Projects Agency (DARPA)</li><li>Dr. Timothy Chung, Defense Advanced Research Projects Agency (DARPA)</ul></td>
+  </tr>
+  <tr>
+    <td>9:30 a.m.</td>
+    <td><strong>Using Legal Authority: Joint Venture Partnership + Other Transactions</strong><ul><li>Avi Bender, Department of Commerce </li><li> Lauren Schmidt, Defense Innovation Unit Experimental (DIUx)</li></ul></td>
+  </tr>
+  <tr>
+    <td>9:50 a.m.</td>
+    <td>Networking break</td>
+  </tr>
+  <tr>
+    <td>10:10 a.m.</td>
+    <td><strong>Accelerating for Action: How Agencies Use this Industry Model</strong><ul><li>Moderator: Jack Bienko, Eisenhower Fellowship</li><li> Panelist: Sandeep Patel, Department of Health and Human Services</li><li>Panelist: Jennifer Garson, Department of Energy</li><li>Panelist: Nancy Merritt, National Institute of Standards & Technology </li> <li>Panelist: Jim Thompson, Department of State</li></ul></td>
+  </tr>
+  <tr>
+    <td>11:00 a.m.</td>
+    <td><strong>Executive Update: Fostering Innovation with a Crowdsourcing Approach</strong><ul><li>Matthew Lira, White House Office of American Innovation</li></ul></td>
+  </tr>
+  <tr>
+    <td>11:15 a.m.</td>
+    <td><strong>Helping Hands: Spotlight on Humanitarian Efforts</strong><ul><li>Doug Stropes, U.S. Agency for International Development</li><li> Edward Elliott,  U.S. Patent & Trademark Office</li></ul></td>
+  </tr>
+  <tr>
+    <td>12:00p.m.</td>
+    <td>Event concludes</td>
+  </tr>
+
+</table>
+
+
 At this meeting, attendees will:
 
 - Meet and greet the Special Assistant to the President for Innovation Policy and Initiatives and hear his vantage point from within the White House Office of American Innovation.
