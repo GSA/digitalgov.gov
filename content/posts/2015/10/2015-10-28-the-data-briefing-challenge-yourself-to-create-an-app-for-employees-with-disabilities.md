@@ -18,7 +18,7 @@ tag:
   - FCC
   - Federal Communications Commission
   - GSA
-  - mobile apps
+  - mobile-apps
   - section 508
   - The Data Briefing
   - United States Department of Transportation

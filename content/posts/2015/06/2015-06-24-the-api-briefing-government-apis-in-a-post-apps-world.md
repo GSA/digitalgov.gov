@@ -10,7 +10,7 @@ categories:
 tag:
   - API
   - data
-  - mobile apps
+  - mobile-apps
   - open data
   - Wednesday API Briefing
 ---

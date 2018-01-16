@@ -12,7 +12,7 @@ categories:
 tag:
   - data
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Institute of Standards and Technology
   - NIST
   - The Data Briefing

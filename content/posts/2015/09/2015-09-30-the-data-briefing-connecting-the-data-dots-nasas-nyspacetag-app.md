@@ -9,7 +9,7 @@ categories:
   - Code
 tag:
   - data.gov
-  - mobile apps
+  - mobile-apps
   - NASA
   - open data
   - The Data Briefing

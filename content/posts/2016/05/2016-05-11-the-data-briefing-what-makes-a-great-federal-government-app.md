@@ -17,9 +17,9 @@ tag:
   - Internal Revenue Service
   - IRS
   - mobile
-  - mobile apps
+  - mobile-apps
   - native app
-  - native apps
+  - native-apps
   - State
   - The Data Briefing
   - US Department of Agriculture

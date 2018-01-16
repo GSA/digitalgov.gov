@@ -9,7 +9,7 @@ tag:
   - American Red Cross
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - National Weather Service
   - NOAA

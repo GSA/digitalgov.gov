@@ -18,7 +18,7 @@ tag:
   - chatbots
   - data
   - innovation
-  - mobile apps
+  - mobile-apps
   - open data
   - responsive web design
   - The Data Briefing

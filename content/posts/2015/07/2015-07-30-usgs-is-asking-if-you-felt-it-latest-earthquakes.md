@@ -10,7 +10,7 @@ categories:
 tag:
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - SSA
   - The United States Social Security Administration
   - United States Geological Survey

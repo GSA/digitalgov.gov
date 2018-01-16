@@ -9,7 +9,7 @@ categories:
   - Mobile
   - user-testing-and-research
 tag:
-  - mobile apps
+  - mobile-apps
   - user experience
   - UX
 ---

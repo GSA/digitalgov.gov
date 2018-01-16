@@ -16,7 +16,7 @@ tag:
   - content syndication
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - multilingual
 ---
 

@@ -10,7 +10,7 @@ categories:
 tag:
   - metrics
   - mobile
-  - mobile apps
+  - mobile-apps
   - responsive web design
   - security
   - Trends on Tuesday

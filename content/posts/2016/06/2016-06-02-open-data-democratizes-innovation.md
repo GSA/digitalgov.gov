@@ -26,7 +26,7 @@ tag:
   - EPA
   - GSA
   - innovation
-  - mobile apps
+  - mobile-apps
   - National Day of Civic Hacking
   - open data
   - open government

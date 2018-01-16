@@ -13,9 +13,9 @@ tag:
   - API
   - data
   - mobile
-  - mobile apps
+  - mobile-apps
   - native app
-  - native apps
+  - native-apps
   - open data
   - responsive web design
   - The Data Briefing

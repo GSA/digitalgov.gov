@@ -10,7 +10,7 @@ categories:
   - strategy-and-policy
 tag:
   - EPA
-  - mobile apps
+  - mobile-apps
   - US Environmental Protection Agency
   - USA.gov Federal Mobile Apps Directory
 ---

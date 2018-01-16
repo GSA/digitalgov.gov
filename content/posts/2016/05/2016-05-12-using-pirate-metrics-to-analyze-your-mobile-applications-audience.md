@@ -11,7 +11,7 @@ categories:
 tag:
   - DoD
   - metrics
-  - mobile apps
+  - mobile-apps
   - National Center for Telehealth and Technology
   - native app
   - prototype

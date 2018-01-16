@@ -11,7 +11,7 @@ categories:
 tag:
   - customer service
   - Internet of things
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
 ---
 

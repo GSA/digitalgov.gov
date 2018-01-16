@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - ICE
-  - mobile apps
+  - mobile-apps
   - multilingual
   - US Immigration and Customs Enforcement
 ---

@@ -9,7 +9,7 @@ categories:
   - Design
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - prototype
   - Recaps
   - US Department of Veterans Affairs

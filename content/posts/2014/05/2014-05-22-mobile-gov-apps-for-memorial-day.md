@@ -8,7 +8,7 @@ categories:
 tag:
   - American Battle Monuments Commission
   - Arlington National Cemetery
-  - mobile apps
+  - mobile-apps
   - US National Park Service
 ---
 

@@ -13,7 +13,7 @@ tag:
   - API
   - DAP
   - Digital Analytics Program
-  - mobile apps
+  - mobile-apps
   - mobile-friendly
   - social media
   - US Digital Registry

@@ -6,7 +6,7 @@ summary: NOAA Fisheries to help you identify and aid stranded or
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
 ---

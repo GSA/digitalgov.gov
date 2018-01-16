@@ -11,7 +11,7 @@ categories:
   - Mobile
 tag:
   - DOL
-  - mobile apps
+  - mobile-apps
   - open source
   - US Department of Labor
 ---

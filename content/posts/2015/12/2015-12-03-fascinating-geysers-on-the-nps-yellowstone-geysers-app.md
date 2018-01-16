@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - mobile
-  - mobile apps
+  - mobile-apps
   - NPS
   - social media
   - SSA

@@ -14,7 +14,7 @@ tag:
   - FDA
   - Federal Communications Commission
   - GPS
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - US Food and Drug Administration

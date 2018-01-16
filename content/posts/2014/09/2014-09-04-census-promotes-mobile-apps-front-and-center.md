@@ -9,7 +9,7 @@ tag:
   - API
   - Census
   - Federal Mobile Products Registry
-  - mobile apps
+  - mobile-apps
   - social media
   - United States Census Bureau
   - USA.gov Federal Mobile Apps Directory

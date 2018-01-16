@@ -22,7 +22,7 @@ tag:
   - crowdsourcing
   - DOJ
   - mobile
-  - mobile apps
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
   - NIH

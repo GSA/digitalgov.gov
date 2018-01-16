@@ -10,7 +10,7 @@ categories:
 tag:
   - CDC
   - ios
-  - mobile apps
+  - mobile-apps
   - USA.gov Federal Mobile Apps Directory
 ---
 

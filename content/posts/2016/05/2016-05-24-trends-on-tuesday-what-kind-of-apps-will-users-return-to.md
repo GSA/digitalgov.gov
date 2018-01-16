@@ -11,7 +11,7 @@ tag:
   - analytics
   - metrics
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
 ---
 

@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - DoD
-  - mobile apps
+  - mobile-apps
   - native app
   - United States Department of Defense
   - USA.gov Federal Mobile Apps Directory

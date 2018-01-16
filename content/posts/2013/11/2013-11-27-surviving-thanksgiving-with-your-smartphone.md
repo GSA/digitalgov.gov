@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - HHS
-  - mobile apps
+  - mobile-apps
   - NASA
   - NIH
   - TSA

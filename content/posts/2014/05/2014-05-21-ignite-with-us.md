@@ -18,7 +18,7 @@ tag:
   - API
   - Census
   - innovation
-  - mobile apps
+  - mobile-apps
   - United States Census Bureau
 ---
 

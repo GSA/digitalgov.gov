@@ -13,7 +13,7 @@ tag:
   - HTTPS
   - Internet of things
   - mobile
-  - mobile apps
+  - mobile-apps
   - mobile-first
   - mobile-friendly
   - responsive web design

@@ -16,7 +16,7 @@ tag:
   - chatbots
   - HHS
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Institutes of Health
   - NIH
   - sms

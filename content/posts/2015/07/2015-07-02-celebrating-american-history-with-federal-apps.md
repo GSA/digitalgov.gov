@@ -14,7 +14,7 @@ tag:
   - mobile
   - NARA
   - National Archives and Records Administration
-  - native apps
+  - native-apps
   - Smithsonian Institution
   - USA.gov Federal Mobile Apps Directory
 ---

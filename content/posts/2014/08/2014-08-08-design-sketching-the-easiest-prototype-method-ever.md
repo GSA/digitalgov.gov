@@ -12,7 +12,7 @@ categories:
 tag:
   - DOL
   - federal user experience community
-  - mobile apps
+  - mobile-apps
   - prototype
   - usability
   - user experience

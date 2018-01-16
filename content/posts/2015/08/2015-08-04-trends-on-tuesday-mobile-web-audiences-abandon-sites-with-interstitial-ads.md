@@ -10,7 +10,7 @@ categories:
 tag:
   - mobile
   - native app
-  - native apps
+  - native-apps
   - Trends on Tuesday
   - user experience
 ---

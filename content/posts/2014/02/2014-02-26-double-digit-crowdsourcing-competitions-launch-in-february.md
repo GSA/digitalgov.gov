@@ -14,7 +14,7 @@ tag:
   - Department of Commerce
   - EPA
   - GSA
-  - mobile apps
+  - mobile-apps
   - United States Air Force
 ---
 

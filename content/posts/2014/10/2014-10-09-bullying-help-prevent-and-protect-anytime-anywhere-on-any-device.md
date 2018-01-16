@@ -7,7 +7,7 @@ categories:
   - Mobile
 tag:
   - Centers for Disease Control and Prevention
-  - mobile apps
+  - mobile-apps
   - native app
   - SAMHSA
   - USA.gov Federal Mobile Apps Directory

@@ -10,9 +10,9 @@ categories:
 tag:
   - FDA
   - ios
-  - mobile apps
+  - mobile-apps
   - native app
-  - native apps
+  - native-apps
   - SSA
   - The United States Social Security Administration
   - US Food and Drug Administration

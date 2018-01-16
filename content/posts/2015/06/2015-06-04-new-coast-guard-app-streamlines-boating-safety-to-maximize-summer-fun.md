@@ -10,7 +10,7 @@ categories:
 tag:
   - Federal Mobile Products Registry
   - ios
-  - mobile apps
+  - mobile-apps
   - native app
   - US Coast Guard
   - USA.gov Federal Mobile Apps Directory

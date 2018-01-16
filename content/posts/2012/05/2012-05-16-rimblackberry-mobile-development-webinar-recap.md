@@ -8,7 +8,7 @@ categories:
   - Mobile
 tag:
   - mobile
-  - mobile apps
+  - mobile-apps
   - Recaps
 ---
 

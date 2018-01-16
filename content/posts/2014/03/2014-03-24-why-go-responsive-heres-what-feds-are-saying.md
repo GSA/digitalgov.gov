@@ -10,7 +10,7 @@ categories:
 tag:
   - FEMA
   - mobile
-  - mobile apps
+  - mobile-apps
   - Recaps
   - responsive web design
   - US Department of Education

@@ -15,9 +15,9 @@ tag:
   - Audio/Video
   - content
   - mobile
-  - mobile apps
+  - mobile-apps
   - native app
-  - native apps
+  - native-apps
   - social media
   - Trends on Tuesday
   - video

@@ -8,7 +8,7 @@ categories:
   - Mobile
   - UX
 tag:
-  - mobile apps
+  - mobile-apps
   - user experience
 ---
 

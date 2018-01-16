@@ -12,7 +12,7 @@ tag:
   - Federal Emergency Management Agency
   - FEMA
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Weather Service
   - NWS
 ---

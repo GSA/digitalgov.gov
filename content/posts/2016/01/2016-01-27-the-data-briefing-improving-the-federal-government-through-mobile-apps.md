@@ -8,7 +8,7 @@ authors:
 categories:
   - Code
 tag:
-  - mobile apps
+  - mobile-apps
   - NASA
   - The Data Briefing
   - United States Patent and Trademark Office

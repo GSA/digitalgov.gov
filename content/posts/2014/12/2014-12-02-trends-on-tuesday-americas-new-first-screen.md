@@ -11,7 +11,7 @@ tag:
   - BLS
   - mobile
   - Mobile App Development Program
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
   - US Bureau of Labor Statistics
 ---

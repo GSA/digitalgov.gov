@@ -6,7 +6,7 @@ summary: 'NCI QuitPal is a free smartphone app developed by the National Cancer 
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - NCI
   - NIH
 ---

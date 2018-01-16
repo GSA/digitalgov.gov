@@ -8,7 +8,7 @@ categories:
 tag:
   - CDC
   - Centers for Disease Control and Prevention
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - USA.gov Federal Mobile Apps Directory

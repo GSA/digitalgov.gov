@@ -17,7 +17,7 @@ tag:
   - DHS
   - FDA
   - mobile
-  - mobile apps
+  - mobile-apps
   - multilingual
   - USDA
 ---

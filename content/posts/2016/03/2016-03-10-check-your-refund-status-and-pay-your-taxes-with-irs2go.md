@@ -10,7 +10,7 @@ categories:
 tag:
   - Internal Revenue Service
   - IRS
-  - mobile apps
+  - mobile-apps
   - US Digital Registry
   - USA.gov Federal Mobile Apps Directory
 ---

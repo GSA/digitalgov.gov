@@ -8,7 +8,7 @@ authors:
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - NORAD
   - North American Defense Command
   - SSA

@@ -10,7 +10,7 @@ categories:
 tag:
   - API
   - DigitalGov Search
-  - mobile apps
+  - mobile-apps
   - Wednesday API Briefing
 ---
 

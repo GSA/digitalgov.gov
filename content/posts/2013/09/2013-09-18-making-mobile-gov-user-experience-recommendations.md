@@ -10,7 +10,7 @@ categories:
   - UX
 tag:
   - DOL
-  - mobile apps
+  - mobile-apps
   - NIH
   - US Department of Labor
   - user experience

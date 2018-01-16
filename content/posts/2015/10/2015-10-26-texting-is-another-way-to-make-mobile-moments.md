@@ -10,7 +10,7 @@ categories:
   - Monthly Theme
 tag:
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Cancer Institute
   - NCI
   - responsive web design

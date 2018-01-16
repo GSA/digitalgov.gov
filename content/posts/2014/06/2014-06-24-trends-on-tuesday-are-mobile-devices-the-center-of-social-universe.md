@@ -17,7 +17,7 @@ tag:
   - DOT
   - Internet of things
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - Trends on Tuesday

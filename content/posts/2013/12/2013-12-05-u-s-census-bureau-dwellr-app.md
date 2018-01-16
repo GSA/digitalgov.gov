@@ -11,7 +11,7 @@ categories:
 tag:
   - API
   - Census
-  - mobile apps
+  - mobile-apps
   - United States Census Bureau
 ---
 

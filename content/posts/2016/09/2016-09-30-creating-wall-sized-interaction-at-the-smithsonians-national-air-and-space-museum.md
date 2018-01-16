@@ -14,7 +14,7 @@ tag:
   - content
   - content strategy
   - mobile
-  - mobile apps
+  - mobile-apps
   - NASM
   - National Air and Space Museum
   - Smithsonian Institution

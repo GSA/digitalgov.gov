@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - Mobile App Development Program
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - National Weather Service
   - NOAA

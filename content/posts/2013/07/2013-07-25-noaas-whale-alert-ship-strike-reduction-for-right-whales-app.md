@@ -8,7 +8,7 @@ authors:
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
 ---
 

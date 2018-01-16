@@ -12,7 +12,7 @@ categories:
   - Mobile
 tag:
   - API
-  - mobile apps
+  - mobile-apps
   - native app
   - responsive web design
   - United States Census Bureau

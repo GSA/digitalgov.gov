@@ -7,7 +7,7 @@ categories:
   - Mobile
 tag:
   - Animal and Plant Health Inspection Service
-  - mobile apps
+  - mobile-apps
   - US Department of Agriculture
   - USA.gov Federal Mobile Apps Directory
   - USDA

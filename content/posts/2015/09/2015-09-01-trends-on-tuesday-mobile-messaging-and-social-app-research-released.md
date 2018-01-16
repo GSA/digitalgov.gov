@@ -13,7 +13,7 @@ tag:
   - Instagram
   - LinkedIn
   - mobile
-  - mobile apps
+  - mobile-apps
   - social media
   - Trends on Tuesday
   - Twitter

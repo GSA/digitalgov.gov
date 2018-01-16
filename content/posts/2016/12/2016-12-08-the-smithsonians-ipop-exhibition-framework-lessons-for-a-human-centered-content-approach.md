@@ -13,7 +13,7 @@ categories:
 tag:
   - apps
   - Augmented Reality
-  - mobile apps
+  - mobile-apps
   - Smithsonian Institution
   - user experience
   - UX

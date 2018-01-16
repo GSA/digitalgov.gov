@@ -8,7 +8,7 @@ categories:
 tag:
   - HHS
   - mobile
-  - mobile apps
+  - mobile-apps
   - SAMHSA
   - United States Department of Health and Human Services
   - USA.gov Federal Mobile Apps Directory

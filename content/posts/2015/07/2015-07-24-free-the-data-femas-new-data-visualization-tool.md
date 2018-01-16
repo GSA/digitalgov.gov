@@ -11,7 +11,7 @@ tag:
   - American Red Cross
   - data visualization
   - FEMA
-  - mobile apps
+  - mobile-apps
 ---
 
  

@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - Federal Mobile Products Registry
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - USA.gov Federal Mobile Apps Directory

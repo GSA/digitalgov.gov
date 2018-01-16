@@ -10,7 +10,7 @@ categories:
   - Mobile
 tag:
   - Education
-  - mobile apps
+  - mobile-apps
   - NPS
   - Smithsonian Institution
   - The Data Briefing

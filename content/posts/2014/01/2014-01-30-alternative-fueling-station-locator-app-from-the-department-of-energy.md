@@ -8,7 +8,7 @@ categories:
   - Mobile
 tag:
   - API
-  - mobile apps
+  - mobile-apps
   - NREL
   - open source
 ---

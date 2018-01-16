@@ -17,7 +17,7 @@ tag:
   - FCPCCS
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
   - National Oceanic and Atmospheric Administration

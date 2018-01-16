@@ -6,7 +6,7 @@ summary: The U.S. Department of State has released a mobile app that informs and
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - US Department of State
 ---
 

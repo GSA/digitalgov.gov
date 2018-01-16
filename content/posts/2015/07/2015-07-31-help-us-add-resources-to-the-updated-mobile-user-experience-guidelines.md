@@ -10,7 +10,7 @@ categories:
   - UX
 tag:
   - mobile
-  - native apps
+  - native-apps
   - responsive web design
   - security
 ---

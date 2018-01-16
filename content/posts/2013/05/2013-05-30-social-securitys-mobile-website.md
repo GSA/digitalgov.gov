@@ -8,7 +8,7 @@ authors:
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - multilingual
   - SSA
   - The United States Social Security Administration

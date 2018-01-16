@@ -12,7 +12,7 @@ categories:
   - Managing Digital
 tag:
   - ChallengeGov
-  - mobile apps
+  - mobile-apps
   - OPM
   - Peace Corps
   - United States Office of Personnel Management

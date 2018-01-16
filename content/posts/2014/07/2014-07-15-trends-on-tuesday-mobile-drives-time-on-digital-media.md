@@ -9,7 +9,7 @@ categories:
   - Mobile
   - Social Media
 tag:
-  - mobile apps
+  - mobile-apps
   - mobile-first
   - Trends on Tuesday
 ---

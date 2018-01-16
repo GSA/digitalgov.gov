@@ -6,7 +6,7 @@ summary: 'Are you creating a mobile website or app for your agency? On Tuesday, 
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - webinar
 ---
 

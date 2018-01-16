@@ -13,7 +13,7 @@ tag:
   - Federal Emergency Management Agency
   - FEMA
   - mobile
-  - mobile apps
+  - mobile-apps
   - The Data Briefing
   - user generated content
 ---

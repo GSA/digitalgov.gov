@@ -16,10 +16,10 @@ tag:
   - CX
   - data
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - native app
-  - native apps
+  - native-apps
   - NOAA
   - open data
   - responsive web design

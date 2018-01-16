@@ -10,7 +10,7 @@ categories:
 tag:
   - DOT
   - mobile
-  - mobile apps
+  - mobile-apps
   - United States Department of Transportation
   - USA.gov Federal Mobile Apps Directory
 ---

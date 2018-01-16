@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - ICE
-  - mobile apps
+  - mobile-apps
   - US Department of Agriculture
   - US Immigration and Customs Enforcement
   - USDA

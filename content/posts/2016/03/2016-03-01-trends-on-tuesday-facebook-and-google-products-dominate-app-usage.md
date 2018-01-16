@@ -10,7 +10,7 @@ categories:
 tag:
   - mobile
   - native app
-  - native apps
+  - native-apps
   - responsive web design
   - Trends on Tuesday
 ---

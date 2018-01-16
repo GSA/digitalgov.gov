@@ -13,7 +13,7 @@ tag:
   - Centers for Disease Control and Prevention
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - user centered design
 ---
 

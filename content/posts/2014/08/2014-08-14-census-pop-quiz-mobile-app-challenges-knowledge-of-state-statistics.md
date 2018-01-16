@@ -8,7 +8,7 @@ categories:
 tag:
   - Census
   - Department of Commerce
-  - mobile apps
+  - mobile-apps
   - open data
   - United States Census Bureau
   - USA.gov Federal Mobile Apps Directory

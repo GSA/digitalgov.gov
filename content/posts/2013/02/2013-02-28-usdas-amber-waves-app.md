@@ -6,7 +6,7 @@ summary: 'The U.S. Department of Agriculture&#8217;s (USDA) Economic Research Se
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - USDA
 ---
 

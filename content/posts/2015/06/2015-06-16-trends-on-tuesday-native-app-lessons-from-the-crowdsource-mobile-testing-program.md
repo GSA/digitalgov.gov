@@ -11,7 +11,7 @@ categories:
 tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile apps
+  - mobile-apps
   - mobile testing
   - native app
   - Trends on Tuesday

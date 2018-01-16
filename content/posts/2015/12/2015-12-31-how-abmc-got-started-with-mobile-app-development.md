@@ -15,7 +15,7 @@ tag:
   - mobile
   - mobile testing
   - native app
-  - native apps
+  - native-apps
   - UX
 ---
 

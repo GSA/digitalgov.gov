@@ -13,7 +13,7 @@ tag:
   - DOL
   - FAA
   - Federal Aviation Administration
-  - mobile apps
+  - mobile-apps
   - OPM
   - US Department of Labor
   - United States Census Bureau

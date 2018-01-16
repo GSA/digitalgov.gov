@@ -12,7 +12,7 @@ tag:
   - Augmented Reality
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
   - virtual reality
   - Virtual/Augmented Reality Community

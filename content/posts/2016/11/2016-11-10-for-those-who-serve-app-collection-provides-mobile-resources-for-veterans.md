@@ -11,7 +11,7 @@ categories:
 tag:
   - app
   - mobile
-  - mobile apps
+  - mobile-apps
   - US Department of Veterans Affairs
   - VA
 ---

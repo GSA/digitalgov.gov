@@ -10,7 +10,7 @@ categories:
 tag:
   - EPA
   - mobile
-  - mobile apps
+  - mobile-apps
   - US Environmental Protection Agency
 ---
 

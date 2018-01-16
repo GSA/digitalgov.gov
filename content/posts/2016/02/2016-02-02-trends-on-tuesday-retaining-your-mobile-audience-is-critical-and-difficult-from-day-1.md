@@ -9,9 +9,9 @@ categories:
   - Mobile
 tag:
   - mobile
-  - mobile apps
+  - mobile-apps
   - native app
-  - native apps
+  - native-apps
   - Trends on Tuesday
 ---
 

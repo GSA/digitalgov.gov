@@ -10,7 +10,7 @@ categories:
   - Mobile
 tag:
   - DOL
-  - mobile apps
+  - mobile-apps
   - OSHA
   - US Department of Labor
 ---

@@ -6,7 +6,7 @@ summary: 'The National Gallery of Art has released a free mobile application abo
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - National Gallery of Art
 ---
 

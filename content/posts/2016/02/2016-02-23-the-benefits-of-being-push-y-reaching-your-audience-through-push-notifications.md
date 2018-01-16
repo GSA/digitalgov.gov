@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - mobile
-  - mobile apps
+  - mobile-apps
   - OPM
   - United States Office of Personnel Management
 ---

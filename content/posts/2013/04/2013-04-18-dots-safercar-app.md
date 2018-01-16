@@ -6,7 +6,7 @@ summary: 'The U.S. Department of Transportation&#8217;s National Highway Traffic
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - United States Department of Transportation
 ---
 

@@ -11,7 +11,7 @@ categories:
   - Mobile
   - UX
 tag:
-  - mobile apps
+  - mobile-apps
   - US Department of State
   - Wednesday API Briefing
 ---

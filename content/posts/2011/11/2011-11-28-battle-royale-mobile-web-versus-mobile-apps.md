@@ -10,7 +10,7 @@ tag:
   - DOL
   - innovation
   - mobile
-  - mobile apps
+  - mobile-apps
   - TSA
   - US Department of Labor
 ---

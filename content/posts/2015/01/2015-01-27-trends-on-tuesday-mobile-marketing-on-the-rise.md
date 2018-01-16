@@ -11,7 +11,7 @@ tag:
   - customer service
   - GPS
   - mobile
-  - mobile apps
+  - mobile-apps
   - mobile-first
   - Trends on Tuesday
 ---

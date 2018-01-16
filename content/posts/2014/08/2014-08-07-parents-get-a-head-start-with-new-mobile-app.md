@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - HHS
-  - mobile apps
+  - mobile-apps
   - United States Department of Health and Human Services
 ---
 

@@ -10,7 +10,7 @@ categories:
 tag:
   - FCC
   - Federal Communications Commission
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
 ---
 

@@ -22,7 +22,7 @@ tag:
   - code
   - data
   - innovation
-  - mobile apps
+  - mobile-apps
   - NASA
   - open
   - open data

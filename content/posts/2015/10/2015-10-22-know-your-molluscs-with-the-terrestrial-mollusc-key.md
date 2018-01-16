@@ -8,7 +8,7 @@ authors:
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - native app
   - SSA
   - The United States Social Security Administration

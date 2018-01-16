@@ -11,7 +11,7 @@ tag:
   - DAP
   - Digital Analytics Program
   - ios
-  - mobile apps
+  - mobile-apps
   - NASA
   - Smithsonian Institution
 ---

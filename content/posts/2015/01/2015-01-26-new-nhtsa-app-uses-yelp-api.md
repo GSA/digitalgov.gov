@@ -11,7 +11,7 @@ categories:
   - Social Media
 tag:
   - DOT
-  - mobile apps
+  - mobile-apps
   - National Highway Traffic Safety Administration
   - NHTSA
   - Terms of Service

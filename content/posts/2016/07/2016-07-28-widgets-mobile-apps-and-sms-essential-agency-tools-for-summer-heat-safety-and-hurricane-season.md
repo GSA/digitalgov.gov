@@ -19,7 +19,7 @@ tag:
   - FEMA
   - HHS
   - mobile
-  - mobile apps
+  - mobile-apps
   - multilingual
   - National Oceanic and Atmospheric Administration
   - National Weather Service

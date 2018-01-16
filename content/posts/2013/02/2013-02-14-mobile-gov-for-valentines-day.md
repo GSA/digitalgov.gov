@@ -8,7 +8,7 @@ categories:
 tag:
   - CDC
   - HHS
-  - mobile apps
+  - mobile-apps
   - Smithsonian Institution
 ---
 

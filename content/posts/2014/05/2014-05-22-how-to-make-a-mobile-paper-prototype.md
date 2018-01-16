@@ -13,7 +13,7 @@ categories:
 tag:
   - GSA
   - mobile
-  - mobile apps
+  - mobile-apps
   - prototype
   - user experience
 ---

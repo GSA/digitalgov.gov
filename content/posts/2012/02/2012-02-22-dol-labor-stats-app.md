@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - DOL
-  - mobile apps
+  - mobile-apps
   - US Department of Labor
 ---
 

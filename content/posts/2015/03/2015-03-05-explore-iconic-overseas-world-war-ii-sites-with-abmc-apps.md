@@ -11,7 +11,7 @@ categories:
 tag:
   - ABMC
   - American Battle Monuments Commission
-  - mobile apps
+  - mobile-apps
   - USA.gov Federal Mobile Apps Directory
 ---
 

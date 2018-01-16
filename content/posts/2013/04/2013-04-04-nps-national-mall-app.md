@@ -6,7 +6,7 @@ summary: 'The National Park Service offers 3 mobile apps to create mobile experi
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - NPS
 ---
 

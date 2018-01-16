@@ -12,7 +12,7 @@ tag:
   - ICE
   - Internal Revenue Service
   - IRS
-  - mobile apps
+  - mobile-apps
   - native app
   - US Immigration and Customs Enforcement
   - USA.gov Federal Mobile Apps Directory

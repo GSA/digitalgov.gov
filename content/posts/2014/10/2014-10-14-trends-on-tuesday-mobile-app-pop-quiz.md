@@ -11,7 +11,7 @@ tag:
   - CDC
   - Census
   - Centers for Disease Control and Prevention
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
   - United States Census Bureau
 ---

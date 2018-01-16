@@ -13,7 +13,7 @@ tag:
   - DoD
   - mobile
   - native app
-  - native apps
+  - native-apps
   - SSA
   - The United States Social Security Administration
   - United States Department of Defense

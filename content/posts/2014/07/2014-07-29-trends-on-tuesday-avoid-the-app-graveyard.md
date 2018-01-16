@@ -12,7 +12,7 @@ categories:
 tag:
   - federal user experience community
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
   - user experience
 ---

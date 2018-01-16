@@ -15,7 +15,7 @@ tag:
   - Federal Emergency Management Agency
   - FEMA
   - HHS
-  - mobile apps
+  - mobile-apps
   - NRC
   - Nuclear Regulatory Commission
   - US Environmental Protection Agency

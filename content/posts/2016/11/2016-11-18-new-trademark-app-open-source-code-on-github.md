@@ -19,7 +19,7 @@ tag:
   - GitHub
   - innovation
   - mobile
-  - mobile apps
+  - mobile-apps
   - open
   - open data
   - open source

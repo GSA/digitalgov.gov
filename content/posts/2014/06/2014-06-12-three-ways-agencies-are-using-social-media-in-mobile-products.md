@@ -14,7 +14,7 @@ tag:
   - crowdsourcing
   - Federal Mobile Products Registry
   - GPS
-  - mobile apps
+  - mobile-apps
   - National Highway Traffic Safety Administration
   - National Oceanic and Atmospheric Administration
   - NOAA

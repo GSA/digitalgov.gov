@@ -8,7 +8,7 @@ categories:
   - Mobile
 tag:
   - crowdsourcing
-  - mobile apps
+  - mobile-apps
   - NOAA
 ---
 

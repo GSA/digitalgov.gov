@@ -7,7 +7,7 @@ categories:
   - Mobile
 tag:
   - American Red Cross
-  - mobile apps
+  - mobile-apps
   - NOAA
 ---
 

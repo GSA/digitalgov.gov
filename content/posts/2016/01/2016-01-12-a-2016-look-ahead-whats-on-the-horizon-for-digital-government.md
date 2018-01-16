@@ -12,7 +12,7 @@ categories:
 tag:
   - accessibility
   - data
-  - mobile apps
+  - mobile-apps
   - open data
   - social media
   - SocialGov

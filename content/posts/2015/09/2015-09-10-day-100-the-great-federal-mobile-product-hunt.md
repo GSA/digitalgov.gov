@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - HHS
-  - mobile apps
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
   - National Institutes of Health

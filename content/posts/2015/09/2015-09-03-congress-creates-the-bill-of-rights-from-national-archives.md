@@ -8,7 +8,7 @@ authors:
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
   - USA.gov Federal Mobile Apps Directory

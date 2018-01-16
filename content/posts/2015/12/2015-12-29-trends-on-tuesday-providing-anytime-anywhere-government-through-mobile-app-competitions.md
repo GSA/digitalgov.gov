@@ -14,7 +14,7 @@ tag:
   - challenges and prize competitions
   - data
   - EPA
-  - mobile apps
+  - mobile-apps
   - National Institute of Standards and Technology
   - National Institute on Drug Abuse
   - NIST

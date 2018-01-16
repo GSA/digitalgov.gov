@@ -7,7 +7,7 @@ categories:
   - API
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - United States Navy
 ---
 

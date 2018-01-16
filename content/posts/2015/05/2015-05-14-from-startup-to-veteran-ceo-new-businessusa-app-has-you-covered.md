@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - Department of Commerce
-  - mobile apps
+  - mobile-apps
   - SBA
   - US Small Business Administration
   - USA.gov Federal Mobile Apps Directory

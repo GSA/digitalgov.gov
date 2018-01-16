@@ -6,7 +6,7 @@ summary: 'The National Science Foundation&#8217;s National Science Board has dev
 categories:
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - NSF
 ---
 

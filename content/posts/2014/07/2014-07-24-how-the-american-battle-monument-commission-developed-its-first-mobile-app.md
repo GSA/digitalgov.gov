@@ -13,7 +13,7 @@ tag:
   - ABMC
   - American Battle Monuments Commission
   - mobile
-  - mobile apps
+  - mobile-apps
   - user experience
 ---
 

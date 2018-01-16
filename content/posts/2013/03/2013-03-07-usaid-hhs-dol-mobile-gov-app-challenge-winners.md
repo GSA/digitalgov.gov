@@ -9,7 +9,7 @@ categories:
 tag:
   - DOL
   - HHS
-  - mobile apps
+  - mobile-apps
   - US Department of Labor
   - United States Department of Health and Human Services
   - USAID

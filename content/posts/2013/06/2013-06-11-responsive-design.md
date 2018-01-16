@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - responsive web design
   - USAgov
   - UX

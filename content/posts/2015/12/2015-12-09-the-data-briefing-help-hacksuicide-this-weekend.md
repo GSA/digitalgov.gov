@@ -12,7 +12,7 @@ tag:
   - API
   - data visualization
   - data.gov
-  - mobile apps
+  - mobile-apps
   - open data
   - The Data Briefing
   - US Department of Veterans Affairs

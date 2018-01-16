@@ -9,7 +9,7 @@ categories:
   - Challenges
 tag:
   - innovation
-  - mobile apps
+  - mobile-apps
 ---
 
 Apps challenges are a great way to spur innovation and help your agency meet its mission. But before you jump in, learn about how apps challenges work, to ensure yours is successful.

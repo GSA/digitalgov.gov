@@ -10,7 +10,7 @@ categories:
 tag:
   - analytics
   - mobile
-  - mobile apps
+  - mobile-apps
   - mobile-first
   - Trends on Tuesday
 ---

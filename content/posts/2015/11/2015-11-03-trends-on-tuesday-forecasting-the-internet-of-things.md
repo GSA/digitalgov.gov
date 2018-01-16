@@ -10,7 +10,7 @@ categories:
 tag:
   - Internet of things
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
   - user experience
   - UX

@@ -11,7 +11,7 @@ categories:
 tag:
   - DHS
   - mobile
-  - mobile apps
+  - mobile-apps
   - Recaps
   - security
   - United States Department of Homeland Security

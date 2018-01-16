@@ -13,7 +13,7 @@ tag:
   - COPE
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile apps
+  - mobile-apps
   - responsive web design
   - structured content
   - Transportation Security Administration

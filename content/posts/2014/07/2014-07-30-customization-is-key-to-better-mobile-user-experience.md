@@ -16,7 +16,7 @@ tag:
   - HHS
   - Library of Congress
   - LOC
-  - mobile apps
+  - mobile-apps
   - NPS
   - Smithsonian Institution
   - US Department of Education

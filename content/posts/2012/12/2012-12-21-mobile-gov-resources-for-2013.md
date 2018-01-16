@@ -12,7 +12,7 @@ tag:
   - GSA
   - HHS
   - IRS
-  - mobile apps
+  - mobile-apps
   - mobile-first
   - National Institutes of Health
   - NIH

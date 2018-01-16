@@ -14,7 +14,7 @@ tag:
   - challenges and prize competitions
   - EPA
   - National Institute of Standards and Technology
-  - native apps
+  - native-apps
   - NIST
   - open data
   - US Environmental Protection Agency

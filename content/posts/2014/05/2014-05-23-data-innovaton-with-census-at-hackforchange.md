@@ -15,7 +15,7 @@ tag:
   - Consumer Financial Protection Bureau
   - Department of Commerce
   - EPA
-  - mobile apps
+  - mobile-apps
   - National Day of Civic Hacking
   - national science foundation
   - NSF

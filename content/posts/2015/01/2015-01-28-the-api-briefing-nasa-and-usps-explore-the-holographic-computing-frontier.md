@@ -9,7 +9,7 @@ categories:
   - API
 tag:
   - Augmented Reality
-  - mobile apps
+  - mobile-apps
   - NASA
   - National Oceanic and Atmospheric Administration
   - NOAA

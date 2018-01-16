@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - GSA
-  - mobile apps
+  - mobile-apps
 ---
 
 In April 2012, the U.S. General Services Administration launched a &#8220;full stack&#8221; responsive redesign of the federal mobile apps galleries: <a href="http://apps.usa.gov/" rel="nofollow">apps.USA.gov</a> and <a href="http://apps.gobiernousa.gov/" rel="nofollow">apps.GobiernoUSA.gov</a>. The full stack includes both a REST API and a complete redesign of the site using responsive design techniques. [Responsive web design](http://mobilegovwiki.howto.gov/Responsive+Design) allows the content on a website to respond to the screen size and device it is being viewed on. So, while the app galleries are rendered one way on desktop browsers, the same website adapts and rearranges content when viewed on a tablet or smartphone.
@@ -68,7 +68,7 @@ We are excited to be one of the first federal agencies to take advantage of resp
 **Contact**
 
 Email Meghan Daly at: <a href="mailto:meghan.daly@gsa.gov" rel="nofollow">meghan (dot) daly (at) gsa (dot) gov</a>
-  
+
 Email Ken Fang at: <a href="mailto:ken.fang@mobomo.com" rel="nofollow">ken (dot) fang (at) mobomo (dot) com</a>
-  
+
 Email Brian Lacey at: <a href="mailto:brian@mobomo.com" rel="nofollow">brian (at) mobomo (dot) com</a>

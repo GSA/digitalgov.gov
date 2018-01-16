@@ -10,7 +10,7 @@ categories:
   - Mobile
 tag:
   - mobile
-  - mobile apps
+  - mobile-apps
   - mobile-friendly
   - native app
   - Trends on Tuesday

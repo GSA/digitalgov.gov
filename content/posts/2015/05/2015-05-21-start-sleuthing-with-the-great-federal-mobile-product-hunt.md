@@ -11,7 +11,7 @@ categories:
 tag:
   - DigitalGov Summit
   - Federal Mobile Products Registry
-  - mobile apps
+  - mobile-apps
   - mobile-friendly
   - USA.gov Federal Mobile Apps Directory
 ---

@@ -10,11 +10,11 @@ categories:
 tag:
   - ios
   - mobile
-  - mobile apps
+  - mobile-apps
   - mobile-first
   - mobile-friendly
   - native app
-  - native apps
+  - native-apps
   - responsive web design
   - Terms of Service
   - Trends on Tuesday

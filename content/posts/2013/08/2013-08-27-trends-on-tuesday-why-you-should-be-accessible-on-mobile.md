@@ -9,7 +9,7 @@ categories:
   - Accessibility
   - Mobile
 tag:
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
 ---
 

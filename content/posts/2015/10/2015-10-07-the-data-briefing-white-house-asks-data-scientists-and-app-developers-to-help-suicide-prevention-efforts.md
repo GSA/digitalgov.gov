@@ -11,9 +11,9 @@ tag:
   - CDC
   - Centers for Disease Control and Prevention
   - data
-  - mobile apps
+  - mobile-apps
   - native app
-  - native apps
+  - native-apps
   - open data
   - SAMHSA
   - The Data Briefing

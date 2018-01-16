@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - ios
-  - mobile apps
+  - mobile-apps
   - SSA
   - The United States Social Security Administration
   - United States Postal Service

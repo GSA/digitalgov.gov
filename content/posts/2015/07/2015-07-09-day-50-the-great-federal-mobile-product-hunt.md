@@ -10,7 +10,7 @@ categories:
 tag:
   - Broadcasting Board of Governors
   - Federal Mobile Products Registry
-  - mobile apps
+  - mobile-apps
   - National Center for Telehealth and Technology
   - OSHA
   - SAMHSA

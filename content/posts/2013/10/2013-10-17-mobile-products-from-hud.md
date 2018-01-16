@@ -7,7 +7,7 @@ categories:
   - Mobile
 tag:
   - HUD
-  - mobile apps
+  - mobile-apps
   - United States Department of Housing and Urban Development
 ---
 

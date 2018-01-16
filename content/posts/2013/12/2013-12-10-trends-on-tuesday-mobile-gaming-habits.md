@@ -11,7 +11,7 @@ tag:
   - CDC
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
 ---
 

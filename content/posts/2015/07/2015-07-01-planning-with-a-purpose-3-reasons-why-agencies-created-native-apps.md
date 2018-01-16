@@ -14,9 +14,9 @@ tag:
   - Broadcasting Board of Governors
   - ICE
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
-  - native apps
+  - native-apps
   - NOAA
   - US Immigration and Customs Enforcement
 ---

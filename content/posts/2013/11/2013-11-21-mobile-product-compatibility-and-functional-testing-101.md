@@ -10,7 +10,7 @@ categories:
   - user-testing-and-research
 tag:
   - mobile
-  - mobile apps
+  - mobile-apps
   - responsive web design
 ---
 

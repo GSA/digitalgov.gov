@@ -11,7 +11,7 @@ categories:
 tag:
   - "508"
   - accessibility
-  - native apps
+  - native-apps
   - Trends on Tuesday
   - US Access Board
 ---

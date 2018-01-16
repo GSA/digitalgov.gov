@@ -7,7 +7,7 @@ categories:
   - Mobile
 tag:
   - Architect of the Capitol
-  - mobile apps
+  - mobile-apps
   - National Archives and Records Administration
   - NPS
   - US National Park Service

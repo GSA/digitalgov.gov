@@ -14,7 +14,7 @@ tag:
   - crowdsourcing
   - innovation
   - mobile
-  - mobile apps
+  - mobile-apps
   - NASA
   - open data
   - open government

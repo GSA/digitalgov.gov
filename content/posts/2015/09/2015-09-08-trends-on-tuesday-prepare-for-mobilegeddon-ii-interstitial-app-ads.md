@@ -11,7 +11,7 @@ tag:
   - mobile
   - mobile-friendly
   - native app
-  - native apps
+  - native-apps
   - Trends on Tuesday
 ---
 

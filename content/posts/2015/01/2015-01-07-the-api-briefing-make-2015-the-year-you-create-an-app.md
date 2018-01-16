@@ -18,7 +18,7 @@ tag:
   - data.gov
   - innovation
   - mobile
-  - mobile apps
+  - mobile-apps
   - US Department of Agriculture
   - USDA
   - Wednesday API Briefing

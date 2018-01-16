@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - ios
-  - mobile apps
+  - mobile-apps
   - native app
   - US Department of Agriculture
   - USDA

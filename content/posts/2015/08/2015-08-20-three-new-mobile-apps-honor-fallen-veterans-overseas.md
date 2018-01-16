@@ -10,7 +10,7 @@ tag:
   - American Battle Monuments Commission
   - Federal Mobile Products Registry
   - ios
-  - mobile apps
+  - mobile-apps
   - native app
   - USA.gov Federal Mobile Apps Directory
 ---
