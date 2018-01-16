@@ -109,7 +109,7 @@ menu:
       Identifier      : "electronic-capital-planning-and-investment-control-ecpic"
       URL             : "/services/electronic-capital-planning-and-investment-control-ecpic/"
       Weight          : 46
-    - Name            : "Search"
+    - Name            : "Search.gov"
       Parent          : "services"
       Identifier      : "search"
       URL             : "/services/search/"
@@ -137,12 +137,12 @@ menu:
 
     - Name            : "Join Digitalgov"
       Identifier      : "join"
-      URL             : "/join-digitalgov/"
+      URL             : "/join/"
       Weight          : 7
     - Name            : "Open Opportunites"
       Parent          : "join"
       Identifier      : "open-opportunities"
-      URL             : "/join-digitalgov/open-opportunities-in-digitalgov/"
+      URL             : "/join/open-opportunities-in-digitalgov/"
       Weight          : 71
 
   secondary:
@@ -222,8 +222,8 @@ menu:
       Weight          : 7
     - Name            : "Accessibility"
       Parent          : "ux"
-      Identifier      : "accesibility"
-      URL             : "/categories/accesibility/"
+      Identifier      : "accessibility"
+      URL             : "/categories/accessibility/"
       Weight          : 71
     - Name            : "Design"
       Parent          : "ux"

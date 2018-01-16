@@ -47,4 +47,4 @@ To be able to better support and engage with our visitors, we need to consider h
 
 There is help available if you are not already doing work in your agency to become mobile-friendly. You can use resources like the [Federal Mobile CrowdSource Testing Program]({{< link "services/mobile-application-testing-program/" >}}) to [test to see if your site is mobile-friendly]({{< link "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). You can also join the [MobileGov Community of Practice]({{< link "communities/mobile/" >}}), sponsored by GSA, and work to help make anytime, anywhere government a reality.
 
-_Freddie Blicher is an analyst with the [Digital Analytics Program]({{< link "services/dap/" >}}) (DAP). For more information about DAP or to become a DAP participating agency, please [contact DAP via email](mailto:dap@support.WHATEVER)._
+_Freddie Blicher is an analyst with the [Digital Analytics Program]({{< link "services/dap/" >}}) (DAP). For more information about DAP or to become a DAP participating agency, please [contact DAP via email](mailto:dap@support.digitalgov.gov)._

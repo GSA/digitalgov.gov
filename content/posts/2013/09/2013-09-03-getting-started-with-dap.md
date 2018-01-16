@@ -27,4 +27,4 @@ Learn more about Using the Government-wide Google Analytics Solution from the Ma
 
 Additionally, the DAP training program will provide monthly training blog posts published. Training topics will include discussions on advanced segments, custom reports and topics identified in the DAP User Group.
 
-The DAP User Group and the training posts are meant to educate and empower the DAP users to get the most out of the DAP Google Analytics data, so submit your DAP discussion topics and suggestions via [email](mailto:dap@support.WHATEVER) today.
+The DAP User Group and the training posts are meant to educate and empower the DAP users to get the most out of the DAP Google Analytics data, so submit your DAP discussion topics and suggestions via [email](mailto:dap@support.digitalgov.gov) today.

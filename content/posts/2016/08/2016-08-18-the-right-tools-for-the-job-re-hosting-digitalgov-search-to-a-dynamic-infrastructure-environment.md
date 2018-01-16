@@ -18,7 +18,7 @@ tag:
 
 > _This is the first post of a 5-part series._
 
-[DigitalGov Search](http://search.WHATEVER) is a commercial-grade search engine provided as a shared-service by the United States [General Services Administration](http://www.gsa.gov/). We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that brings together resources from across their many publishing platforms: websites, blogs and feeds, social media, and government-specific resources like rules and notices from the Federal Register, and posts from USAJobs.
+[DigitalGov Search](https://search.gov) is a commercial-grade search engine provided as a shared-service by the United States [General Services Administration](http://www.gsa.gov/). We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that brings together resources from across their many publishing platforms: websites, blogs and feeds, social media, and government-specific resources like rules and notices from the Federal Register, and posts from USAJobs.
 
 Customers include the [White House](https://search.whitehouse.gov/search?query=bo+and+sunny&op=Search&affiliate=wh), [12 Department-level websites](http://search.digitalgov.gov/customers.html), all branches of the military, the [Internal Revenue Service](http://find.irs.gov/search?utf8=%E2%9C%93&affiliate=irs&query=tax+extension&commit=Search), [NASA](http://nasasearch.nasa.gov/search?utf8=%E2%9C%93&affiliate=nasa&query=juno), and many more. We partner with agencies continually to improve the public’s ability to find the information they need on government websites, and streamline agency staff workflows for managing their searches. Launched originally as the [search box on FirstGov.gov](http://web.archive.org/web/20001109105200/http://www.firstgov.gov), we now serve 260 million queries a year across the government space, with peak throughput over 59 transactions per second. Our service is a big, mature system. Our move to a new infrastructure had to be perfect, and invisible.
 
@@ -39,7 +39,7 @@ While this series of posts will discuss the requirements above separately, the b
   2. Build our servers and application within AWS
   3. Cut over our read-only data center, allow dust to settle; then cut over our read-write data center, allow dust to settle; shut off old infrastructure
 
-If you have questions or would like to discuss particulars, [we would love to hear from you](mailto:search@support.WHATEVER).
+If you have questions or would like to discuss particulars, [we would love to hear from you](mailto:search@support.digitalgov.gov).
 
 <h3 id="series" style="padding-top: 50px">
   <em>This is the first post in a five part series. Stay tuned for the following posts:</em>

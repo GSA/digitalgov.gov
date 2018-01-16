@@ -15,7 +15,7 @@ tag:
   - open source
 ---
 
-[DigitalGov Search](http://search.WHATEVER) recently rolled out a new open source technology stack, which gives the team access to real-time analytics and dashboards to monitor search trends.
+[DigitalGov Search](https://search.gov) recently rolled out a new open source technology stack, which gives the team access to real-time analytics and dashboards to monitor search trends.
 
 The [ELK stack](http://www.elasticsearch.org/overview/) consists of Elasticsearch, a real-time search and analytics engine; Logstash, a log management tool; and Kibana, a data visualization engine for creating dashboards.
 

@@ -34,10 +34,10 @@ So we’re setting out to deliver just that. And we’re making a commitment to 
 
 - [Here's what we're working on][3ed80b13]
 - [Sign up for our newsletter][20d731c7]
-- [Join a community of practice]({{< link "communities.md" >}})
+- [Join a community of practice]({{< link "/communities/" >}})
 - [Follow us on Twitter][a4d3008a]
 - [Join us on Facebook][48963c81]
-- [Learn more about our team]({{< link "about.md" >}})
+- [Learn more about our team]({{< link "/about/" >}})
 
   [3ed80b13]: https://github.com/GSA/digitalgov.gov/issues "What we're working on in GitHub"
   [20d731c7]: https://connect.digitalgov.gov/subscribe "Sign up for our newsletter"

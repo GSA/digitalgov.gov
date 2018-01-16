@@ -26,4 +26,4 @@ This memo contains the opinion by the Office of Legal Counsel (OLC) of the Depar
 
  
 
-See more [DigitalGov Resources]({{< link "resources.md" >}})
+See more [DigitalGov Resources]({{< link "/resources/" >}})

@@ -13,7 +13,7 @@ To proceed, you will need a GitHub account [http://github.com](http://github.com
 
 **Step 3.** — Enter the title and body of your post in the 'new issue' and format your post as needed _`(bold, italics, links, etc...)`_. Here is an example draft: https://github.com/GSA/digitalgov.gov/issues/83
 
-**Step 4.** — Save/Submit. The DigitalGov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page and you'll get notified via e-mail as this post moves along the workflow.
+**Step 4.** — Save/Submit. The DigitalGov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page and you'll get notified via email as this post moves along the workflow.
 
 
 - - -

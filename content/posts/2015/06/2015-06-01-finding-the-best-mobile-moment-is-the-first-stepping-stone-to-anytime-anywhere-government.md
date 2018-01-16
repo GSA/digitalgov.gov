@@ -46,7 +46,7 @@ There are many examples of agencies who are winning their mobile moments. See [I
 
 The Can I Bring…? tool was designed to answer the most commonly asked questions fielded by TSA’s contact center about items that passengers want to bring on a plane.
 
-When [the tool was created in 2010]({{< link "2012-02-22-my-tsa-mobile-app.md" >}}), these questions made up about 70% of the calls and e-mails to the TSA contact center; by pushing this information out and making it available 24/7, the goal was to reduce the time and energy for people to get the information they need and to save TSA resources.
+When [the tool was created in 2010]({{< link "2012-02-22-my-tsa-mobile-app.md" >}}), these questions made up about 70% of the calls and emails to the TSA contact center; by pushing this information out and making it available 24/7, the goal was to reduce the time and energy for people to get the information they need and to save TSA resources.
 
 Once they released the tool, they watched the feedback. TSA crowdsourced the questions people ask to create content that users need. At the time of launch, the Can I Bring…? database had roughly 800 items. Now, there are over 3,800 items available. You’ll also notice the Can I Bring…? tool featured prominently on their homepage because TSA knows that’s what their users want.
 

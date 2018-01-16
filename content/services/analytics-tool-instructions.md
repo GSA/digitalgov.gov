@@ -26,7 +26,7 @@ In addition, those implementing should read capabilities of the code in the <a h
 
 With either option (centrally or locally hosted), the Government-Wide Digital Analytics Program website traffic data is being filtered into its own separate Google Analytics account and should cause no material change in your independent Google Analytics account metrics._Note: When migrating from DAP Google Analytics &#8220;Classic&#8221; to DAP Universal Analytics (UA), you must replace both the old javascript code file and the script block/tag, as specified in the Implementation Guide, to follow the new UA format._
 
-If you have any questions, please email us at <a href="mailto:dap@support.WHATEVER" target="_blank">dap@support.WHATEVER</a>. We&#8217;d be happy to assist.
+If you have any questions, please email us at <a href="mailto:dap@support.digitalgov.gov" target="_blank">dap@support.digitalgov.gov</a>. We&#8217;d be happy to assist.
 
 ## Recommended Privacy Notice for Agencies Using Google Analytics Premium
 

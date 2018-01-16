@@ -34,10 +34,10 @@ Formal training is conducted for our Work Experience/customer satisfaction surve
 
   * Did the agent explain the process for resolving your issues or concerns?
   * Did the agent have access to the necessary information to meet your request?
-  * Was your call (or e-mail, or visit) handled in a timely manner?
+  * Was your call (or email, or visit) handled in a timely manner?
   * Were you satisfied with the service you received from Contact Center?
   * Would you like to provide any additional feedback about your experience with the contact center?
-  * Would you like to provide your name, phone number or e-mail address, if you would like to be contacted.
+  * Would you like to provide your name, phone number or email address, if you would like to be contacted.
 
 As part of the process, surveyors are able to transfer concerned or dissatisfied customers to a contact center supervisor or manager to follow up on or resolve their issue.
 

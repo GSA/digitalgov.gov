@@ -2,9 +2,7 @@
 url: /resources/content-management-systems-used-by-government-agencies/
 date: 2013-06-13 1:30:35 -0400
 title: Content Management Systems Used by Government Agencies
-summary: 'Here&#8217;s a list of Content Management Systems (CMS) used by government agencies. For more information, please contact each agency to learn about their experience with that product or system. Disclaimer: This list is intended solely as a resource for government employees who manage government websites. This is an unofficial list for informational purposes only. DigitalGov does'
-authors:
-  - andreanocesigritz
+summary: 'A list of Content Management Systems (CMS) used by government agencies.'
 ---
 
 Here&#8217;s a list of Content Management Systems (CMS) used by government agencies. For more information, please contact each agency to learn about their experience with that product or system.
@@ -13,7 +11,7 @@ Disclaimer: This list is intended solely as a resource for government employees 
 
 We do our best to keep the list current based on information we get from agencies. However, accuracy is not assured. If you have additions or changes, [email us](mailto:digitalgov@gsa.gov).
 
-## <a name="federal-government"></a>Federal Government
+## Federal Government
 
 **Agency or website (Tool, product or service)**
 
@@ -121,7 +119,7 @@ We do our best to keep the list current based on information we get from agencie
 [Justice](http://www.justice.gov/) (Currently migrating to Drupal; expected completion: Spring 2015)
 
   * [Environmental & Natural Resources Division](http://www.justice.gov/enrd/) (RedDot)
-  * [National Institute of Justice](http://www.nij.gov/) (<span style="color: #222222">SharePoint 2013</span>/EZRO)
+  * [National Institute of Justice](http://www.nij.gov/) (SharePoint 2013/EZRO)
 
 [Labor](http://www.dol.gov/) (None)
 
@@ -204,7 +202,7 @@ United States Courts (Sitefinity [Intranet])
 
 [White House](http://www.whitehouse.gov/) (Drupal)
 
-## <a name="state-government"></a>State Government
+## State Government
 
 **Agency or website (Tool, product or service)**
 
@@ -244,7 +242,7 @@ Washington
   * [Department of Ecology](http://www.ecy.wa.gov/) (Kentico)
   * [Employment Security Department](http://www.esd.wa.gov/) (Interwoven TeamSite)
 
-## <a name="local-government"></a>Local Government
+## Local Government
 
 **Agency or website (Tool, product or service)**
 

@@ -1,30 +1,26 @@
 {{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
-  {{ $.Scratch.Set "has_sidebar" true }}
+  {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
 {{ end }}
 
 {{ define "content" }}
-<div id="contentleft" class="clearfix">
-  <div id="content" class="clearfix">
-    <div class="post singlepost type-post status-publish format-standard  hentry">
 
-      <div class="entry">
+<div class="page">
+  <div class="hentry entry">
+    <div class="entry-head">
+      {{ partial "breadcrumbs" . }}
+      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
+    </div>
+    <div class="entry-content">
+      {{ .Content }}
+    </div>
+    <div class="entry-meta">
+      <div class="rule"></div>
+      <p class="last_commit" data-filepath="{{.File.Path}}">Last updated: <span></span></p>
+      <p class="feedback">Have feedback on this page? <a href="mailto:digitalgov@gsa.gov?subject={{ .Title | markdownify }}">Send us an email »</a></p>
+      <!-- Edit file on GitHub -->
+      <a target="_blank" class="edit_file" href="https://github.com/GSA/digitalgov.gov" data-filepath="{{.File.Path}}" title="Edit in GitHub"><img src="{{ "img/GitHub-Mark-32px.png" | absURL }}" alt="GitHub Logo"><span>Edit</span></a>
+    </div>
+  </div>
+</div>
 
-        <h1 class="post-title single">
-          <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
-        </h1>
-
-        {{ .Content }}
-
-        <!-- Edit file on GitHub -->
-        <a target="_blank" class="edit_file" href="https://github.com/GSA/digitalgov.gov" data-filepath="{{.File.Path}}" title="Edit in GitHub"><img src="{{ "img/GitHub-Mark-32px.png" | absURL }}" alt="GitHub Logo"><span>Edit</span></a>
-
-      </div><!-- .entry -->
-    </div><!--.post -->
-  </div><!-- #content -->
-</div><!-- #contentleft -->
 {{ end }} {{/* end 'content' block */}}
-
-{{ define "sidebar" }}
-  {{ partial "sidebar-common.html" . }}
-{{ end }} {{/* end 'sidebar' block */}}

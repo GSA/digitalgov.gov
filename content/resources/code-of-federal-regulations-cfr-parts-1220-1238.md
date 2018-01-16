@@ -27,4 +27,4 @@ Subchapter B  of the CFR specifies polices for federal agencies records manageme
 
  
 
-See more [DigitalGov Resources]({{< link "resources.md" >}})
+See more [DigitalGov Resources]({{< link "/resources/" >}})

@@ -1,1731 +1,384 @@
 ---
 url: /resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/
 date: 2014-06-11 12:40:27 -0400
-title: Spanish Health Care Terms in the United States
-summary: 'English Term and Spanish Equivalent acute inpatient hospital care atenci&oacute;n hospitalaria para casos agudos admission hospitalizaci&oacute;n, ingreso hospitalario, admisi&oacute;n hospitalaria advanced directives instrucciones por adelantado; advocate defensor del paciente alcohol abuse abuso del alcohol, abuso de bebidas alcoh&oacute;licas base line valores de referencia, iniciales; bereavement pesar; duelo breast seno; pecho; mama [this word, although technically'
+title: 'Spanish Language Style Guide and Glossaries: Spanish Health Care Terms in the United States'
+summary: 'A list of common English health care and medical terms, and their Spanish translations.'
 authors:
   - lgodfrey
   - lmartinez
 ---
 
-**English Term and Spanish Equivalent**
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      acute inpatient hospital care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      atención hospitalaria para casos agudos
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    admission
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      hospitalización, ingreso hospitalario, admisión hospitalaria
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      advanced directives
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      instrucciones por adelantado;
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      advocate
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      defensor del paciente
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      alcohol abuse
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      abuso del alcohol, abuso de bebidas alcohólicas
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      base line
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      valores de referencia, iniciales;
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      bereavement
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      pesar; duelo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      breast
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      seno; pecho; mama [this word, although technically correct, is considered offensive by some Hispanic women]
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      caregiver
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      persona encargada de la atención del enfermo; acompañante (cuando se trata de servicios ambulatorios); cuidador
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      case management
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      gestión de casos; administración de casos
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      cast
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      enyesado, escayolado; molde, yeso
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      cervical cancer
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      cáncer del cuello uterino; cáncer cervical
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      chart
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      gráfica; historia clínica
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      chlamydia
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Clamidia &#8211; Spanish name of the bacteria that causes a sexually transmitted disease called &#8220;clamidiasis.&#8221; This disease is also commonly referred to as &#8220;clamidia.&#8221;
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Checkup
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      examen o reconocimiento médico; revisión, chequeo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      cognitive impairment
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      déficit (no es un impedimento, es una reducción funcional); cognoscitivo/cognitivo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      condition
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      afección; enfermedad; problema de salud
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      copayment
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      pago complementario; copago
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      counseling
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      servicios de asesoramiento; consejería, orientación
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      counselor
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      asesor; consejero
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      CPR (Cardiopulmonary resuscitation)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      reanimación cardiopulmonar
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Customer Service Department
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Departamento de Servicios de Atención al Cliente
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      disabled
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Discapacitado, incapacitado (DOH NYS); minusválido, impedido
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      disability
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      discapacidad; invalidez; minusvalidez; impedimento;
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      disenroll
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Terminar, cancelar, anular la inscripción en un plan de seguro médico
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      disenrollment
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      terminación de la inscripción; dar(se) de baja
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      disorder
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      trastorno
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      dispense prescription
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      despachar/preparar recetas o prescripciones
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      drug screen test
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Examen de detección de droga(s)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      eligibility
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      criterios de selección; condiciones de aceptación; elegibilidad
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      emergency condition
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      estado de emergencia; urgencia
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      emergency room
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      sala de emergencia; sala de urgencias
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      enroll
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      inscribir(se)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      eye care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      atención de la vista
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      family doctor
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      médico de familia; médico familiar
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Federally Qualified Health Centers
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      centros de salud aprobados por el Gobierno federal
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      fill prescription
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      preparar la receta; despachar la receta
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Filling (dentistry)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      empaste dental; obturación
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      fitness
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      buen estado físico
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      foster care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      tutela de acogida
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      fracture setting
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      reducción de una fractura
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      guardian
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      tutor
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      grief
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      duelo; dolor por la muerte
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      health benefits
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      beneficios del seguro médico; “prestaciones” sanitarias (España), “prestaciones” en otros países
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      healthcare
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      atención médica, servicios de salud, servicios médicos
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      health care power-of-attorney
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      poder con fines de atención médica
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      health care provider
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Proveedor de servicios de salud; personal de atención médica
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Health Center
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      centro de salud, centro médico
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Health Department
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Departamento de Salud Pública; (España: Ministerio de Sanidad)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Health Maintenance Organization (HMO)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Organización de Atención Médica Administrada (HMO)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Health Maintenance Organization (HMO)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Organización de Cuidado Administrado de la Salud (DOH NYS)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      health plan
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      (plan de) seguro médico; plan de salud
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      health screening
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      examen de selección; examen preselectivo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      hearing impaired
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      con déficit auditivo; con impedimento auditivo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      home health care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      atención médica a domicilio; asistencia sanitaria a domicilio
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      hospice
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      centro de cuidados paliativos; clínica para enfermos desahuciados; servicios paliativos a domicilio
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      inpatient
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      paciente hospitalizado
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Labor (Pediatrics)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      trabajo de parto
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      LDRP (Labor, Delivery, Recovery, Postpartum)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      trabajo de parto; alumbramiento; recuperación y posparto; puerperio [en el español tradicional]
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      LDSS (Local Department of Social Services)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Departamento Local de Servicios Sociales (LDSS)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      life-threatening
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      con peligro de muerte; potencialmente mortal
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      living will
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      testamento vital; última voluntad en cuanto al mantenimiento o prolongación artificial de la vida; instrucciones de no prolongar artificialmente la vida; últimas declaraciones voluntarias en vida
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      lock-in period (health insurance)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      período de bloqueo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      long-term care insurance policy
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      póliza de seguro de atención médica de larga duración; póliza de seguro de atención médica a largo plazo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      low back pain
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      dolor lumbar bajo; (médicos: lumbago, lumbalgia)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      lower back pain
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      dolor lumbar bajo; dolor de espalda baja; (no es dolor de cintura, que es más general e incluye los costados y el frente, no sólo la región lumbar o en términos un poco más amplios, la espalda)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      managed health care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      atención médica administrada (prestada por empresas de seguros); cuidado de salud administrado (DOH NYS)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      medical history (of patient)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      historia clínica; historial médico o clínico
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      medical record
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      expediente médico; ficha médica
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      medically necessary
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      necesario por razones médicas
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Medicare HMO
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      &#8220;HMO con Medicare&#8221;o &#8220;HMO con contrato de Medicare.&#8221; Source: <a style="color: #800080" href="http://www.medicarehmo.com/">Medicare HMO Website</a>
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      member
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      afiliado, miembro; socio
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Member Satisfaction Survey
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Encuesta sobre el Grado de Satisfacción de los Miembros
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      mourning
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Luto, duelo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      newborn nursery care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      sala de cuidados para el recién nacido
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      nurse case manager
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      enfermera a cargo del caso
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      nurse practitioner
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      enfermera con práctica médica
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      nursing home
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      hogar de convalecencia; residencia geriátrica, residencia de ancianos; ancianato
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      orthotic device
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      dispositivo ortótico
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      out-of-network
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      externo a la red; fuera de red
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Outpatient (as it is used in the United States)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      paciente externo (no es lo mismo que paciente ambulatorio interno u hospitalizado)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      outreach
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      servicios de extensión comunitaria; servicios sociales
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      over the counter drugs
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      medicamentos de venta sin receta
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      parenting
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      crianza de los hijos
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      parents and caregivers
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      padres y personas encargadas del cuidado de…
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      paycheck stub
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      comprobante de cheque de pago; talón
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      PCP (Primary Care Physician)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      médico de atención primaria; médico de servicios primarios
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      PCP (Primary Care Provider)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      proveedor de cuidados primarios (“PCP”)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      pertussis
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      tos ferina o coqueluche; también “pertusis”
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      pre-admission review
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      examen previo al ingreso, a la hospitalización
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      prenatal care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      cuidados prenatales
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      prescription/prescribe
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      receta médica/recetar
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      prescription drug
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      medicamento recetado
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      prosthetic appliance
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      prótesis
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      provider practice patterns
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      patrón de prácticas médicas del proveedor
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      referral
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      referimiento (DOH NYS)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Referral
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      recomendación; remisión
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      referral form
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      formulario de referimiento (recomendación)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      refill (n)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      reposición; receta renovable;
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      refill (v)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      renovar
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Registered Professional Nurse (RN)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      enfermera profesional titulada (“RN”)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      respite care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      atención de relevo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      restorative
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      reconstituyente
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      safety (accidents, vehicles, fireworks)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Seguridad
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      safety (food, drugs)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      inocuidad; inocuo; inofensivo
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      scaling
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      descamación
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      schedule a visit
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      concertar una visita (al hospital); consulta (con el médico); hacer una cita
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      semi-private
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      habitación semiprivada; cuarto semiprivado (cuando se comparte con uno, dos o tres enfermos más)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      set fracture
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      reducir una fractura
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      skilled nursing facility (SNF)
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      centro de cuidados de enfermería especializados (aquí el énfasis está en las enfermeras, no en los médicos)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      splint
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      férula; entablillado
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      stand-by assistance
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      asistencia de guardia
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      standing referral
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      recomendación fija
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      stent
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      prótesis intravascular; stent
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      subscriber
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      afiliado; abonado; suscriptor
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      substance abuse
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      abuso de drogas
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      Surgeon General
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      Director General de Sanidad (<strong>NUNCA</strong> “Cirujano General”)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      upset stomach
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      dolor de estómago; malestar estomacal; molestia estomacal; descompostura de estómago (Cono Sur)
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      urination
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      micción; orinar
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      utilization review
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      revisión/repaso de utilización
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      walk-in
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      cuidados/atención sin cita previa
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      well-baby care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      programa del bebé sano
-    </p>
-  </div>
-</blockquote>
-
-<blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
-  <div class="one-half first">
-    <p>
-      well-care
-    </p>
-  </div>
-  
-  <div class="one-half">
-    <p lang="es" xml:lang="es">
-      mantenimiento del buen estado de salud
-    </p>
-  </div>
-</blockquote>_Source: Adapted from [ApuntesOnline](http://www.apuntesonline.org/)_
+Below is a list of common English health care and medical terms (in **bold**), and their equivalent Spanish translations (in _italics_).
+
+**acute inpatient hospital care**:<br />
+_atención hospitalaria para casos agudos_
+
+**admission**:<br />
+_hospitalización, ingreso hospitalario, admisión hospitalaria_
+
+**advanced directives**:<br />
+_instrucciones por adelantado;_
+
+**advocate**:<br />
+_defensor del paciente_
+
+**alcohol abuse**:<br />
+_abuso del alcohol, abuso de bebidas alcohólicas_
+
+**base line**:<br />
+_valores de referencia, iniciales_
+
+**bereavement**:<br />
+_pesar; duelo_
+
+**breast**:<br />
+_seno; pecho; mama (this word, although technically correct, is considered offensive by some Hispanic women)_
+
+**caregiver**:<br />
+_persona encargada de la atención del enfermo; acompañante (cuando se trata de servicios ambulatorios); cuidador_
+
+**case management**:<br />
+_gestión de casos; administración de casos_
+
+**cast**:<br />
+_enyesado, escayolado; molde, yeso_
+
+**cervical cancer**:<br />
+_cáncer del cuello uterino; cáncer cervical_
+
+**chart**:<br />
+_gráfica; historia clínica_
+
+**chlamydia**:<br />
+_Clamidia – Spanish name of the bacteria that causes a sexually transmitted disease called “clamidiasis.” This disease is also commonly referred to as “clamidia.”_
+
+**checkup**:<br />
+_examen o reconocimiento médico; revisión, chequeo_
+
+**cognitive impairment**:<br />
+_déficit (no es un impedimento, es una reducción funcional); cognoscitivo/cognitivo_
+
+**condition**:<br />
+_afección; enfermedad; problema de salud_
+
+**co-payment**:<br />
+_pago complementario; copago_
+
+**counseling**:<br />
+_servicios de asesoramiento; consejería, orientación_
+
+**counselor**:<br />
+_asesor; consejero_
+
+**CPR (Cardiopulmonary resuscitation)**:<br />
+_reanimación cardiopulmonar_
+
+**Customer Service Department**:<br />
+_Departamento de Servicios de Atención al Cliente_
+
+**disabled**:<br />
+_Discapacitado, incapacitado (DOH NYS); minusválido, impedido_
+
+**disability**:<br />
+_discapacidad; invalidez; minusvalidez; impedimento;_
+
+**disenroll**:<br />
+_Terminar, cancelar, anular la inscripción en un plan de seguro médico_
+
+**disenrollment**:<br />
+_terminación de la inscripción; dar(se) de baja_
+
+**disorder**:<br />
+_trastorno_
+
+**dispense prescription**:<br />
+_despachar/preparar recetas o prescripciones_
+
+**drug screen test**:<br />
+_Examen de detección de droga(s)_
+
+**eligibility**:<br />
+_criterios de selección; condiciones de aceptación; elegibilidad_
+
+**emergency condition**:<br />
+_estado de emergencia; urgencia_
+
+**emergency room**:<br />
+_sala de emergencia; sala de urgencias_
+
+**enroll**:<br />
+_inscribir(se)_
+
+**eye care**:<br />
+_atención de la vista_
+
+**family doctor**:<br />
+_médico de familia; médico familiar_
+
+**Federally Qualified Health Centers**:<br />
+_centros de salud aprobados por el Gobierno federal_
+
+**fill prescription**:<br />
+_preparar la receta; despachar la receta_
+
+**Filling (dentistry)**:<br />
+_empaste dental; obturación_
+
+**fitness**:<br />
+_buen estado físico_
+
+**foster care**:<br />
+_tutela de acogida_
+
+**fracture setting**:<br />
+_reducción de una fractura_
+
+**guardian**:<br />
+_tutor_
+
+**grief**:<br />
+_duelo; dolor por la muerte_
+
+**health benefits**:<br />
+_beneficios del seguro médico; “prestaciones” sanitarias (España), “prestaciones” en otros países_
+
+**healthcare**:<br />
+_atención médica, servicios de salud, servicios médicos_
+
+**health care power-of-attorney**:<br />
+_poder con fines de atención médica_
+
+**health care provider**:<br />
+_Proveedor de servicios de salud; personal de atención médica_
+
+**Health Center**:<br />
+_centro de salud, centro médico_
+
+**Health Department**:<br />
+_Departamento de Salud Pública; (España: Ministerio de Sanidad)_
+
+**Health Maintenance Organization (HMO)**:<br />
+_Organización de Atención Médica Administrada (HMO)_
+
+**Health Maintenance Organization (HMO)**:<br />
+_Organización de Cuidado Administrado de la Salud (DOH NYS)_
+
+**health plan**:<br />
+_(plan de) seguro médico; plan de salud_
+
+**health screening**:<br />
+_examen de selección; examen preselectivo_
+
+**hearing impaired**:<br />
+_con déficit auditivo; con impedimento auditivo_
+
+**home health care**:<br />
+_atención médica a domicilio; asistencia sanitaria a domicilio_
+
+**hospice**:<br />
+_centro de cuidados paliativos; clínica para enfermos desahuciados; servicios paliativos a domicilio_
+
+**inpatient**:<br />
+_paciente hospitalizado_
+
+**Labor (Pediatrics)**:<br />
+_trabajo de parto_
+
+**LDRP (Labor, Delivery, Recovery, Postpartum)**:<br />
+_trabajo de parto; alumbramiento; recuperación y posparto; puerperio (en el español tradicional)_
+
+**LDSS (Local Department of Social Services)**:<br />
+_Departamento Local de Servicios Sociales (LDSS)_
+
+**life-threatening**:<br />
+_con peligro de muerte; potencialmente mortal_
+
+**living will**:<br />
+_testamento vital; última voluntad en cuanto al mantenimiento o prolongación artificial de la vida; instrucciones de no prolongar artificialmente la vida; últimas declaraciones voluntarias en vida_
+
+**lock-in period (health insurance)**:<br />
+_período de bloqueo_
+
+**long-term care insurance policy**:<br />
+_póliza de seguro de atención médica de larga duración; póliza de seguro de atención médica a largo plazo_
+
+**low back pain**:<br />
+_dolor lumbar bajo; (médicos: lumbago, lumbalgia)_
+
+**lower back pain**:<br />
+_dolor lumbar bajo; dolor de espalda baja; (no es dolor de cintura, que es más general e incluye los costados y el frente, no sólo la región lumbar o en términos un poco más amplios, la espalda)_
+
+**managed health care**:<br />
+_atención médica administrada (prestada por empresas de seguros); cuidado de salud administrado (DOH NYS)_
+
+**medical history (of patient)**:<br />
+_historia clínica; historial médico o clínico_
+
+**medical record**:<br />
+_expediente médico; ficha médica_
+
+**medically necessary**:<br />
+_necesario por razones médicas_
+
+**Medicare HMO**:<br />
+_“HMO con Medicare” o “HMO con contrato de Medicare.” (Source: Medicare HMO Website)_
+
+**member**:<br />
+_afiliado, miembro; socio_
+
+**Member Satisfaction Survey**:<br />
+_Encuesta sobre el Grado de Satisfacción de los Miembros_
+
+**mourning**:<br />
+_Luto, duelo_
+
+**newborn nursery care**:<br />
+_sala de cuidados para el recién nacido_
+
+**nurse case manager**:<br />
+_enfermera a cargo del caso_
+
+**nurse practitioner**:<br />
+_enfermera con práctica médica_
+
+**nursing home**:<br />
+_hogar de convalecencia; residencia geriátrica, residencia de ancianos; ancianato_
+
+**orthotic device**:<br />
+_dispositivo ortótico_
+
+**out-of-network**:<br />
+_externo a la red; fuera de red_
+
+**Outpatient (as it is used in the United States)**:<br />
+_paciente externo (no es lo mismo que paciente ambulatorio interno u hospitalizado)_
+
+**outreach**:<br />
+_servicios de extensión comunitaria; servicios sociales_
+
+**over-the-counter drugs**:<br />
+_medicamentos de venta sin receta_
+
+**parenting**:<br />
+_crianza de los hijos_
+
+**parents and caregivers**:<br />
+_padres y personas encargadas del cuidado de ..._
+
+**paycheck stub**:<br />
+_comprobante de cheque de pago; talón_
+
+**Primary Care Physician (PCP)**:<br />
+_médico de atención primaria; médico de servicios primarios_
+
+**Primary Care Provider (PCP)**:<br />
+_proveedor de cuidados primarios (“PCP”)_
+
+**pertussis**:<br />
+_tos ferina o coqueluche; también “pertusis”_
+
+**pre-admission review**:<br />
+_examen previo al ingreso, a la hospitalización_
+
+**prenatal care**:<br />
+_cuidados prenatales_
+
+**prescription/prescribe**:<br />
+_receta médica/recetar_
+
+**prescription drug**:<br />
+_medicamento recetado_
+
+**prosthetic appliance**:<br />
+_prótesis_
+
+**provider practice patterns**:<br />
+_patrón de prácticas médicas del proveedor_
+
+**referral**:<br />
+_referimiento (DOH NYS)_
+
+**Referral**:<br />
+_recomendación; remisión_
+
+**referral form**:<br />
+_formulario de referimiento (recomendación)_
+
+**refill (noun)**:<br />
+_reposición; receta renovable_
+
+**refill (verb)**:<br />
+_renovar_
+
+**Registered Professional Nurse (RN)**:<br />
+_enfermera profesional titulada ("RN")_
+
+**respite care**:<br />
+_atención de relevo_
+
+**restorative**:<br />
+_reconstituyente_
+
+**safety (accidents, vehicles, fireworks)**:<br />
+_seguridad_
+
+**safety (food, drugs)**:<br />
+_inocuidad; inocuo; inofensivo_
+
+**scaling**:<br />
+_descamación_
+
+**schedule a visit**:<br />
+_concertar una visita (al hospital); consulta (con el médico); hacer una cita_
+
+**semi-private**:<br />
+_habitación semiprivada; cuarto semiprivado (cuando se comparte con uno, dos o tres enfermos más)_
+
+**set fracture**:<br />
+_reducir una fractura_
+
+**skilled nursing facility (SNF)**:<br />
+_centro de cuidados de enfermería especializados (aquí el énfasis está en las enfermeras, no en los médicos)_
+
+**splint**:<br />
+_férula; entablillado_
+
+**stand-by assistance**:<br />
+_asistencia de guardia_
+
+**standing referral**:<br />
+_recomendación fija_
+
+**stent**:<br />
+_prótesis intravascular; stent_
+
+**subscriber**:<br />
+_afiliado; abonado; suscriptor_
+
+**substance abuse**:<br />
+_abuso de drogas_
+
+**Surgeon General**:<br />
+_Director General de Sanidad (**NUNCA** "Cirujano General")_
+
+**upset stomach**:<br />
+_dolor de estómago; malestar estomacal; molestia estomacal; descompostura de estómago (Cono Sur)_
+
+**urination**:<br />
+_micción; orinar_
+
+**utilization review**:<br />
+_revisión/repaso de utilización_
+
+**walk-in**:<br />
+_cuidados/atención sin cita previa_
+
+**well-baby care**:<br />
+_programa del bebé sano_
+
+**well-care**:<br />
+_mantenimiento del buen estado de salud_
+
+
+
+_Source: Adapted from [ApuntesOnline](http://www.apuntesonline.org/)_

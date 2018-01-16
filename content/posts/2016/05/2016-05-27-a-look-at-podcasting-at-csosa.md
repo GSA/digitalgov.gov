@@ -76,4 +76,4 @@ Looking back, the only thing I would have done differently is to have insisted o
 
 As I prepare to leave federal service, I have a list of communication resources on my [personal site](http://leonardsipes.com) that includes podcasting, if you&#8217;d like more information.
 
-_Leonard Sipes is a Senior Public Affairs Specialist for a federal criminal justice agency in Washington, D.C. He can be contacted via his personal [e-mail address](mailto:leonardsipes@gmail.com)._
+_Leonard Sipes is a Senior Public Affairs Specialist for a federal criminal justice agency in Washington, D.C. He can be contacted via his personal [email address](mailto:leonardsipes@gmail.com)._

@@ -22,5 +22,5 @@ tag:
 </p>
 
 <p dir="ltr">
-  P.S. We’ve written before about all of the great<a href="{{< link "communities.md" >}}"> government discussion groups</a> that you can join, from Web Metrics to Accessibility to Mobile Strategy. Check ‘em out!
+  P.S. We’ve written before about all of the great<a href="{{< link "/communities/" >}}"> government discussion groups</a> that you can join, from Web Metrics to Accessibility to Mobile Strategy. Check ‘em out!
 </p>

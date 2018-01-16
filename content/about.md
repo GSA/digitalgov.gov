@@ -1,7 +1,7 @@
 ---
-date: 2017-11-14 12:05:00 -0400
-title: About
 url: /about/
+date: 2017-11-14 12:05:00 -0400
+title: 'About'
 summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
 aliases:
   - /contact-us/
@@ -22,7 +22,8 @@ We’ve found that agencies need:
 - Focused trainings and events that help teams learn and adopt new concepts
 - Easy access to collaborate with others across government who are working on the same problems
 
-#### What we are working on
+## What we are working on
+
 Over the last decade, DigitalGov has become a destination in government to learn about the methods, practices, policies and tools that are needed to create effective digital services.
 
 And we believe DigitalGov should set the example for how government learns, builds, delivers and measures digital services in the 21st century.
@@ -33,16 +34,16 @@ We are building DigitalGov into a destination that practices the methods that it
 - [Follow us on Twitter](https://twitter.com/digital_gov/)
 - [Join our Facebook page](https://www.facebook.com/DigitalGov)
 - [Subscribe to our newsletter](https://connect.digitalgov.gov/subscribe)
-- [Join a community of practice]({{< link "communities.md" >}})
+- [Join a community of practice]({{< link "/communities/" >}})
 - Reach out, [send us an email](mailto:digitalgov@gsa.gov)
 
 ***
 
-#### The Team
+## The Team
 
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in government and have a wealth of experience creating modern digital services.
 
-#### DigitalGov
+## DigitalGov
 **Jeremy Zilar**, Director<br/>
 **Jacqueline Snee**, Community Manager<br/>
 **Dan Williams**, Designer<br/>
@@ -51,20 +52,21 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **Janelle Thalls**, Video Editor, Training & Education<br/>
 **Soncerray Bolling**, Video Editor, Training & Education
 
-#### The U.S. Web Design Standards Core Team
+### The U.S. Web Design Standards Core Team
+
 **Dan Williams**, Product Owner<br/>
 **Maya Benari**<br/>
 **John Donmoyer**<br/>
 **Andrea Sigritz**<br/>
 
-_[https://standards.usa.gov/](https://standards.usa.gov/)_
+[https://standards.usa.gov/](https://standards.usa.gov/)
 
 ---
 
-#### Contact Us
+## Contact Us
 
 **Have a question or comment?**
 
-- Send us an e-mail [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+- [Send us an email »](mailto:digitalgov@gsa.gov)
 - Create [an issue on GitHub](https://github.com/GSA/digitalgov.gov/issues)
 - Or make an edit to our pages and submit a pull request
