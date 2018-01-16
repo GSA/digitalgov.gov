@@ -2,7 +2,7 @@
 slug: making-customer-satisfaction-data-actionable-at-peace-corps
 date: 2018-01-16 09:37:00 -0400
 title: 'Making Customer Satisfaction Data Actionable at the Peace Corps'
-summary: 'Learn how measuring customer experience helped inform and guide website development at Peace Corps&#46;'
+summary: 'Learn how measuring customer experience helped inform and guide website development at Peace Corps'
 authors:
   - chris-rottler
 categories:
@@ -21,7 +21,7 @@ tag:
   - customer-service
 featured_image:
   uid: peace-corps-customer-satisfaction
-  alt: 'A bar graph titled, &quot;User Satisfaction&#58; Task Completion versus Content Comprehension&#46;&quot;'
+  alt: 'A bar graph titled "User Satisfaction: Task Completion versus Content Comprehension"'
 ---
 
 For the past couple of years, the [Peace Corps](https://www.peacecorps.gov/) has used online-based intercept surveys on peacecorps.gov to measure user satisfaction. The data captured over time has been interesting, but has not varied much month-to-month, which has made it difficult to translate insight into actionable enhancements on the website.
@@ -32,7 +32,7 @@ In June 2016, the Peace Corps launched a redesigned website in order to improve 
 
 Our main KPIs that are tracked in the survey include overall satisfaction, content comprehension, task completion, likelihood to return to the website, net promoter score, and the primary purpose for the visit (i.e., find volunteer opportunities, learn about the agency, learn about a specific topic, contact an appropriate representative, use a site tool, and other).
 
-Initially, the data was very interesting. We saw significant improvements to the user experience after the redesign was launched. However, while the initial improvement pre- and post-launch was striking, the delta month-to-month thereafter was minimal. 
+Initially, the data was very interesting. We saw significant improvements to the user experience after the redesign was launched. However, while the initial improvement pre- and post-launch was striking, the delta month-to-month thereafter was minimal.
 
 {{< img src="peace-corps-customer-satisfaction" alt="A bar graph showing User Satisfaction: Task Completion vs. Content Comprehension" >}}
 
