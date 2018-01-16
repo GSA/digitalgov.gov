@@ -25,6 +25,20 @@ venue:
 
 This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.
 
+## Agenda ##
+| Time | Topic | 
+| ---- | ----|
+| 8:45 am  | **Registration and Networking** |
+| 9:00 a.m. | **Introductions and Program Updates** <ul><li>Kelly Oslon, GSA</li></ul> |  
+| 9:10 a.m. | **The DARPA Design: From Infectious Disease to Underground Infrastructure** <ul><li>Col Matthew Hepburn, Defense Advanced Research Projects Agency (DARPA)</li><li>Dr. Timothy Chung, Defense Advanced Research Projects Agency (DARPA)</ul> | 
+| 9:30 a.m. | **Using Legal Authority: Joint Venture Partnership + Other Transactions** <ul><li>Avi Bender, Department of Commerce </li><li> Lauren Schmidt, Defense Innovation Unit Experimental (DIUx)</li></ul>| 
+| 9:50 a.m. | **Networking break** | 
+|10:10 a.m. | **Accelerating for Action: How Agencies Use this Industry Model** <ul><li>Moderator: Jack Bienko, Eisenhower Fellowship</li><li> Panelist: Sandeep Patel, Department of Health and Human Services</li><li>Panelist: Jennifer Garson, Department of Energy</li><li>Panelist: Nancy Merritt, National Institute of Standards & Technology </li> <li>Panelist: Jim Thompson, Department of State</li></ul>| 
+| 11:00 a.m. | **Executive Update: Fostering Innovation with a Crowdsourcing Approach** <ul><li>Matthew Lira, White House Office of American Innovation</li></ul> |
+| 11:15 a.m. | **Helping Hands: Spotlight on Humanitarian Efforts** <ul><li>Doug Stropes, U.S. Agency for International Development</li><li> Edward Elliott,  U.S. Patent & Trademark Office</li></ul>| | 
+| 12:00pm  | **Event concludes** |
+
+
 At this meeting, attendees will:
 
 - Meet and greet the Special Assistant to the President for Innovation Policy and Initiatives and hear his vantage point from within the White House Office of American Innovation.
