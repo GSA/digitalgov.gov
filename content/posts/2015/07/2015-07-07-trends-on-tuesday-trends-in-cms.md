@@ -10,8 +10,6 @@ categories:
   - Mobile
 tag:
   - CMS
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 6
   - open source
   - Trends on Tuesday
 ---

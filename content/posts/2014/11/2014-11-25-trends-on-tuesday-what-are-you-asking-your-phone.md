@@ -9,8 +9,6 @@ categories:
   - Mobile
 tag:
   - DOI
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 5
   - Trends on Tuesday
   - US Department of the Interior
 ---

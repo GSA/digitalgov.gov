@@ -13,7 +13,6 @@ tag:
   - North American Defense Command
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
 ---
 
 > &#8216;Twas the night before Christmas, when all through the house,

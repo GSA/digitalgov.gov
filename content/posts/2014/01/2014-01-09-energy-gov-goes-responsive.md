@@ -6,10 +6,8 @@ summary: ' Did this week&#8217;s polar vortex wreak havoc on your heating and co
 categories:
   - Mobile
 tag:
-  - mobile gov
   - mobile-first
   - responsive web design
-  - Thursday Mobile Products
   - United States Department of Energy
 ---
 

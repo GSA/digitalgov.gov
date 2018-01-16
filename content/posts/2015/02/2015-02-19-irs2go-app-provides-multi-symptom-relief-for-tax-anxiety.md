@@ -14,7 +14,6 @@ tag:
   - IRS
   - mobile apps
   - native app
-  - Thursday Mobile Products
   - US Immigration and Customs Enforcement
   - USA.gov Federal Mobile Apps Directory
 ---

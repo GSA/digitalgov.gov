@@ -7,7 +7,6 @@ categories:
   - Mobile
 tag:
   - GSA
-  - Mobile Gov Experience
   - responsive web design
 ---
 

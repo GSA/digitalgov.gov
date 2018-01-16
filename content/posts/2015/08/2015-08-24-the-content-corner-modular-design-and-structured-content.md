@@ -11,7 +11,6 @@ categories:
 tag:
   - Administrative Office of the United States Courts
   - content models
-  - Mobile UX Guideline 1
   - structured content
   - The Content Corner
 ---

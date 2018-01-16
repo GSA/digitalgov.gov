@@ -11,7 +11,6 @@ tag:
   - ICE
   - mobile apps
   - multilingual
-  - Thursday Mobile Products
   - US Immigration and Customs Enforcement
 ---
 

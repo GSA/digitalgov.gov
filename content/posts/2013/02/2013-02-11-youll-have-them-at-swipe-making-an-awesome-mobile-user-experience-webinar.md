@@ -8,7 +8,6 @@ categories:
   - UX
 tag:
   - mobile apps
-  - mobile gov
   - user experience
   - VA
 ---

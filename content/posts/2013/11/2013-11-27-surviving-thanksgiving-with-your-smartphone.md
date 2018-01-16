@@ -10,10 +10,8 @@ categories:
 tag:
   - HHS
   - mobile apps
-  - mobile gov
   - NASA
   - NIH
-  - Thursday Mobile Products
   - TSA
 ---
 

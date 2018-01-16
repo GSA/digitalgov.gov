@@ -18,7 +18,6 @@ tag:
   - FDA
   - HHS
   - mobile
-  - Mobile UX Guideline 1
   - National Institutes of Health
   - NIH
   - open and structured content models

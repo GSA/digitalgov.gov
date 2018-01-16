@@ -8,8 +8,6 @@ categories:
 tag:
   - HUD
   - mobile apps
-  - mobile gov
-  - Thursday Mobile Products
   - United States Department of Housing and Urban Development
 ---
 

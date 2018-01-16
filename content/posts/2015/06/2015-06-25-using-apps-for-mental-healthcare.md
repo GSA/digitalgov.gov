@@ -10,11 +10,7 @@ categories:
 tag:
   - DoD
   - mobile apps
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
-  - Mobile UX Guideline 6
   - native app
-  - Thursday Mobile Products
   - United States Department of Defense
   - USA.gov Federal Mobile Apps Directory
 ---

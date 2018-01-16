@@ -7,7 +7,6 @@ categories:
   - Mobile
 tag:
   - mobile apps
-  - mobile gov
   - webinar
 ---
 

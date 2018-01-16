@@ -10,11 +10,7 @@ tag:
   - CDC
   - Centers for Disease Control and Prevention
   - HHS
-  - mobile gov
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
   - responsive web design
-  - Thursday Mobile Products
   - United States Department of Health and Human Services
 ---
 

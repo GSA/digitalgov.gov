@@ -12,7 +12,6 @@ tag:
   - CDC
   - Census
   - Centers for Disease Control and Prevention
-  - Thursday Mobile Products
   - US Department of Agriculture
   - United States Census Bureau
   - USAgov

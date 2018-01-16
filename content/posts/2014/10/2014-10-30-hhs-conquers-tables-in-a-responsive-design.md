@@ -10,7 +10,6 @@ categories:
   - Monthly Theme
 tag:
   - HHS
-  - Mobile UX Guideline 5
   - responsive web design
   - United States Department of Health and Human Services
 ---

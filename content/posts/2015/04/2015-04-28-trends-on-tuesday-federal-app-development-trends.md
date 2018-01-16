@@ -11,10 +11,6 @@ tag:
   - mobile
   - Mobile App Development Program
   - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 6
   - Trends on Tuesday
 ---
 

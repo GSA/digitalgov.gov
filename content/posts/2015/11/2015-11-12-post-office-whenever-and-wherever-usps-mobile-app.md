@@ -12,7 +12,6 @@ tag:
   - mobile apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
   - United States Postal Service
   - USPS
 ---

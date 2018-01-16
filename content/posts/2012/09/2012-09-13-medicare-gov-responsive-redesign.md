@@ -10,7 +10,6 @@ categories:
 tag:
   - CMS
   - HHS
-  - Mobile Gov Experience
   - responsive web design
 ---
 

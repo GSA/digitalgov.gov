@@ -14,9 +14,6 @@ tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
   - responsive web design
   - structured content
   - Transportation Security Administration

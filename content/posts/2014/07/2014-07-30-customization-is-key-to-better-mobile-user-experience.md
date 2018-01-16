@@ -17,9 +17,6 @@ tag:
   - Library of Congress
   - LOC
   - mobile apps
-  - mobile gov community of practice
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 3
   - NPS
   - Smithsonian Institution
   - US Department of Education

@@ -10,13 +10,6 @@ categories:
   - UX
 tag:
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
-  - Mobile UX Guideline 6
-  - MobileGov
   - native apps
   - responsive web design
   - security

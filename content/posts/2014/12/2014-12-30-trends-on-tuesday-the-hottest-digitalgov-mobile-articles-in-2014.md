@@ -10,7 +10,6 @@ categories:
   - Mobile
 tag:
   - API
-  - mobile gov community of practice
   - Trends on Tuesday
 ---
 

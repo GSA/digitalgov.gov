@@ -12,8 +12,6 @@ tag:
   - Customer Experience
   - Government Contact Center Council
   - government contact centers
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
   - Trends on Tuesday
 ---
 

@@ -10,7 +10,6 @@ categories:
 tag:
   - GSA
   - HHS
-  - mobile gov
   - NASA
   - SocialGov
 ---

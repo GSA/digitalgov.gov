@@ -12,8 +12,6 @@ categories:
   - Mobile
   - Monthly Theme
 tag:
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
   - responsive web design
 ---
 

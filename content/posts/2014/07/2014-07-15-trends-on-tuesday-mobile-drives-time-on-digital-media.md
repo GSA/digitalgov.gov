@@ -10,7 +10,6 @@ categories:
   - Social Media
 tag:
   - mobile apps
-  - Mobile UX Guideline 5
   - mobile-first
   - Trends on Tuesday
 ---

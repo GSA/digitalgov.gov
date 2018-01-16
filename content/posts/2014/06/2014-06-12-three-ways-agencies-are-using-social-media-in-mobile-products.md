@@ -15,8 +15,6 @@ tag:
   - Federal Mobile Products Registry
   - GPS
   - mobile apps
-  - mobile gov
-  - Mobile UX Guideline 5
   - National Highway Traffic Safety Administration
   - National Oceanic and Atmospheric Administration
   - NOAA

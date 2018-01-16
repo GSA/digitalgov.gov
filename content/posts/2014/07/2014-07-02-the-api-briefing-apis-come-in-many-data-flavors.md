@@ -14,7 +14,6 @@ tag:
   - FAA
   - Federal Aviation Administration
   - mobile apps
-  - Mobile Code Catalog
   - OPM
   - US Department of Labor
   - United States Census Bureau

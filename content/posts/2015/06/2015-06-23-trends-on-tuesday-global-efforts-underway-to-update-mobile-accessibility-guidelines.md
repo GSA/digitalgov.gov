@@ -11,8 +11,6 @@ categories:
 tag:
   - "508"
   - accessibility
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 3
   - native apps
   - Trends on Tuesday
   - US Access Board

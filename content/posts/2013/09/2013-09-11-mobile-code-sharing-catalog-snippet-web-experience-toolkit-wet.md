@@ -10,7 +10,6 @@ categories:
   - Mobile
 tag:
   - innovation
-  - mobile gov
 ---
 
 <p dir="ltr">

@@ -11,7 +11,6 @@ tag:
   - CDC
   - Centers for Disease Control and Prevention
   - mobile
-  - Mobile UX Guideline 5
   - mobile-first
   - native app
   - Trends on Tuesday

@@ -11,8 +11,6 @@ categories:
 tag:
   - mobile
   - mobile apps
-  - mobile gov
-  - Mobile UX Guideline 5
   - National Cancer Institute
   - NCI
   - responsive web design

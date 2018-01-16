@@ -9,7 +9,6 @@ tag:
   - CDC
   - Centers for Disease Control and Prevention
   - mobile apps
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

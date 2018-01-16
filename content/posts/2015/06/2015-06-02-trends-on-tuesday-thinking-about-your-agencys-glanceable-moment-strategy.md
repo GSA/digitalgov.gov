@@ -9,8 +9,6 @@ categories:
   - Mobile
 tag:
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
   - Trends on Tuesday
 ---
 

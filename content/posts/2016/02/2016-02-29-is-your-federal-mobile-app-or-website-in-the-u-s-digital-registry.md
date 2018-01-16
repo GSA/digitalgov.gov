@@ -15,7 +15,6 @@ tag:
   - Digital Analytics Program
   - mobile apps
   - mobile-friendly
-  - MobileGov
   - social media
   - US Digital Registry
   - USA.gov Federal Mobile Apps Directory

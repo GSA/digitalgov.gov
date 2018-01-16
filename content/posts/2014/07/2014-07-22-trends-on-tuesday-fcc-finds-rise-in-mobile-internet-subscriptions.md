@@ -11,7 +11,6 @@ tag:
   - FCC
   - Federal Communications Commission
   - mobile apps
-  - mobile gov community of practice
   - Trends on Tuesday
 ---
 

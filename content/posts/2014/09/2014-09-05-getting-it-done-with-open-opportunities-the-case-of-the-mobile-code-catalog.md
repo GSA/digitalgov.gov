@@ -10,9 +10,6 @@ categories:
   - Mobile
 tag:
   - DOL
-  - Mobile Code Catalog
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
   - NPS
   - Open Opportunities program
   - open source

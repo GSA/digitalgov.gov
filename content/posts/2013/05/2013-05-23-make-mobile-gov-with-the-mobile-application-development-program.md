@@ -14,8 +14,6 @@ tag:
   - API
   - mobile
   - Mobile App Development Program
-  - mobile gov
-  - MobileGov
 ---
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg)Anytime, Anywhere, Any Device.

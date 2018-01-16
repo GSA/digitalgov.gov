@@ -17,8 +17,6 @@ tag:
   - FEMA
   - HUD
   - mobile
-  - Mobile Code Catalog
-  - mobile gov
   - National Gallery of Art
   - NOAA
   - responsive web design

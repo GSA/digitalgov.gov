@@ -12,8 +12,6 @@ categories:
 tag:
   - DOL
   - mobile apps
-  - Mobile Code Catalog
-  - mobile gov
   - open source
   - US Department of Labor
 ---

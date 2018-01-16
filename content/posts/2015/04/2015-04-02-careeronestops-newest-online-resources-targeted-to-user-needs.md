@@ -13,8 +13,6 @@ categories:
   - UX
 tag:
   - mobile
-  - Mobile UX Guideline 5
-  - Thursday Mobile Products
   - top tasks
   - US Department of Labor
   - usability testing

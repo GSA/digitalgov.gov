@@ -10,7 +10,6 @@ categories:
 tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - Mobile UX Guideline 4
   - responsive web design
   - Sites
   - Trends on Tuesday

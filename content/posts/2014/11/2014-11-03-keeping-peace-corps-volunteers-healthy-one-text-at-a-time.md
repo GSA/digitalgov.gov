@@ -12,7 +12,6 @@ categories:
 tag:
   - Digital Services Playbook
   - GitHub
-  - Mobile UX Guideline 5
   - open source
   - Peace Corps
   - US Digital Service

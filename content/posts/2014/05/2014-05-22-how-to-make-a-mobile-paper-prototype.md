@@ -14,8 +14,6 @@ tag:
   - GSA
   - mobile
   - mobile apps
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
   - prototype
   - user experience
 ---

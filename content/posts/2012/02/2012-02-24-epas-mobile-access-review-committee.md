@@ -9,7 +9,6 @@ categories:
   - Mobile
 tag:
   - EPA
-  - Mobile Gov Experience
 ---
 
 _[<img class="alignright size-full wp-image-94252" alt="EPASeal" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2012/02/EPASeal.gif" width="140" height="136" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/02/EPASeal.gif)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._ _This entry is a story shared by the Environmental Protection Agency._ _

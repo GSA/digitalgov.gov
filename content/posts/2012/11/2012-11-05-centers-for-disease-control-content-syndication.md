@@ -9,7 +9,6 @@ categories:
 tag:
   - API
   - CDC
-  - Mobile Gov Experience
   - structured content
 ---
 

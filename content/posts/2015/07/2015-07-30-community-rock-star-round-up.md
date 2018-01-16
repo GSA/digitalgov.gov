@@ -16,7 +16,6 @@ tag:
   - GSA
   - HHS
   - ICE
-  - MobileGov
   - NCI
   - NIH
   - Office of the Director of National Intelligence

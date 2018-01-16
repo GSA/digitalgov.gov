@@ -12,7 +12,6 @@ tag:
   - multilingual
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
 ---
 
 The [Social Security Administration](http://www.ssa.gov) recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user friendly tabular icon driven navigation, which makes it very easy to find information anytime, anywhere.

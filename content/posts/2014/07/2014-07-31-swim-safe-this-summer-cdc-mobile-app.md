@@ -11,7 +11,6 @@ tag:
   - mobile apps
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

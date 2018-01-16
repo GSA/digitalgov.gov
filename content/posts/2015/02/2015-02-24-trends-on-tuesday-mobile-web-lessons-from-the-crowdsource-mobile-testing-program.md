@@ -12,9 +12,6 @@ categories:
 tag:
   - Defense Finance and Accounting Services
   - Federal CrowdSource Mobile Testing Program
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
   - responsive web design
   - Trends on Tuesday
   - United States Department of Energy

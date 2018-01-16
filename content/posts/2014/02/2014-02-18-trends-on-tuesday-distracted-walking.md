@@ -11,7 +11,6 @@ categories:
   - Mobile
 tag:
   - mobile
-  - mobile gov
   - responsive web design
   - Trends on Tuesday
 ---

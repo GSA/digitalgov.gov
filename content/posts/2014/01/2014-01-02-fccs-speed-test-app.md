@@ -10,8 +10,6 @@ tag:
   - FCC
   - mobile
   - mobile apps
-  - mobile gov
-  - Thursday Mobile Products
 ---
 
 {{< legacy-img src="2014/01/FCC-Speed-Test-Android-Apps-on-Google-Play-2013-12-12-16-31-27.jpg" alt="FCC-Speed-Test-Android-Apps-on-Google-Play-2013-12-12-16-31-27" >}}**Feeling the need for [more] speed?** Well, so is the mobile team at the [Federal Communications Commission](http://www.fcc.gov/).

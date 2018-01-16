@@ -10,7 +10,6 @@ categories:
 tag:
   - Internal Revenue Service
   - IRS
-  - Thursday Mobile Products
   - US Department of Justice
   - US Department of State
   - USA.gov Federal Mobile Apps Directory

@@ -9,8 +9,6 @@ categories:
   - Mobile
   - Monthly Theme
 tag:
-  - mobile gov community of practice
-  - Mobile UX Guideline 2
   - Trends on Tuesday
 ---
 

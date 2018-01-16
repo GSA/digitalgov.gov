@@ -9,7 +9,6 @@ tag:
   - American Red Cross
   - FEMA
   - National Hurricane Center
-  - Thursday Mobile Products
 ---
 
 [<img class="alignright  wp-image-120532" alt="Ready.gov Logo with Dad, Mom, Daughter and cat family of 'superheros'" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/National_Preparedness_Month_2013_YouCanBeTheHero_600px-450x300.jpg" width="360" height="240" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/National_Preparedness_Month_2013_YouCanBeTheHero_600px.jpg)September is [National Preparedness Month](http://www.ready.gov/) and there are a number of government mobile products to help you prepare for emergencies.

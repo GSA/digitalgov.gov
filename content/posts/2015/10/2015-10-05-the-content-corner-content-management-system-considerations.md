@@ -10,7 +10,6 @@ categories:
 tag:
   - Administrative Office of the United States Courts
   - Content Management System
-  - Mobile UX Guideline 1
   - The Content Corner
 ---
 

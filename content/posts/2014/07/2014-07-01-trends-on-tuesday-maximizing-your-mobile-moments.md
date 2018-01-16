@@ -10,7 +10,6 @@ categories:
 tag:
   - Mobile App Development Program
   - mobile apps
-  - Mobile UX Guideline 5
   - National Oceanic and Atmospheric Administration
   - National Weather Service
   - NOAA

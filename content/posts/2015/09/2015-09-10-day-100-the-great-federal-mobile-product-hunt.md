@@ -14,7 +14,6 @@ tag:
   - National Archives and Records Administration
   - National Institutes of Health
   - NIH
-  - Thursday Mobile Products
   - US Department of Veterans Affairs
   - United States Department of Health and Human Services
   - USA.gov Federal Mobile Apps Directory

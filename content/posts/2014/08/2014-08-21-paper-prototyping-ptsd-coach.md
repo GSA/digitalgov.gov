@@ -10,10 +10,8 @@ categories:
   - Mobile
 tag:
   - mobile apps
-  - Mobile UX Guideline 4
   - prototype
   - Recaps
-  - Thursday Mobile Products
   - US Department of Veterans Affairs
   - VA
 ---

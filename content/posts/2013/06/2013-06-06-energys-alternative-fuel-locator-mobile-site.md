@@ -8,8 +8,6 @@ authors:
 categories:
   - Mobile
 tag:
-  - mobile gov
-  - Thursday Mobile Products
   - United States Department of Energy
 ---
 

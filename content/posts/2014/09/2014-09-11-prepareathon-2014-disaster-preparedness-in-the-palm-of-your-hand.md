@@ -14,7 +14,6 @@ tag:
   - National Weather Service
   - NOAA
   - NWS
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

@@ -16,7 +16,6 @@ tag:
   - GitHub
   - multilingual
   - open source
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

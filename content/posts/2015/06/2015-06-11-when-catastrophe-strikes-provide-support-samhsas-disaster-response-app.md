@@ -10,7 +10,6 @@ tag:
   - mobile
   - mobile apps
   - SAMHSA
-  - Thursday Mobile Products
   - United States Department of Health and Human Services
   - USA.gov Federal Mobile Apps Directory
 ---

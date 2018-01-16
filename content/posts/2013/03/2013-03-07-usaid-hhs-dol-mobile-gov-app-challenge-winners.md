@@ -10,8 +10,6 @@ tag:
   - DOL
   - HHS
   - mobile apps
-  - mobile gov
-  - Thursday Mobile Products
   - US Department of Labor
   - United States Department of Health and Human Services
   - USAID

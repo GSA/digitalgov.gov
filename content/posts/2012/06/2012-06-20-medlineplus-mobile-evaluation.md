@@ -10,7 +10,6 @@ categories:
   - Mobile
 tag:
   - HHS
-  - Mobile Gov Experience
   - National Library of Medicine
   - NIH
 ---

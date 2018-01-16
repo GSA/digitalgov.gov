@@ -9,7 +9,6 @@ categories:
   - Managing Digital
   - Mobile
 tag:
-  - Mobile UX Guideline 5
   - mobile-first
   - multilingual
   - multilingual digital group

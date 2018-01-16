@@ -13,9 +13,6 @@ tag:
   - federal user experience community
   - mobile
   - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 4
   - Trends on Tuesday
   - user experience
 ---

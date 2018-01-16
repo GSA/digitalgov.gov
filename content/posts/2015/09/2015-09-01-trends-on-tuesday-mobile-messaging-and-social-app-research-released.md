@@ -14,7 +14,6 @@ tag:
   - LinkedIn
   - mobile
   - mobile apps
-  - Mobile UX Guideline 1
   - social media
   - Trends on Tuesday
   - Twitter

@@ -6,9 +6,7 @@ summary: 'You need resources, and we are here to help with an excellent new webi
 categories:
   - Mobile
 tag:
-  - mobile gov
   - mobile-first
-  - MobileGov
   - National Institutes of Health
   - NIH
   - US Department of State

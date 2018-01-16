@@ -8,7 +8,6 @@ authors:
 categories:
   - Mobile
 tag:
-  - Mobile Gov Experience
   - NCI
   - NIH
 ---

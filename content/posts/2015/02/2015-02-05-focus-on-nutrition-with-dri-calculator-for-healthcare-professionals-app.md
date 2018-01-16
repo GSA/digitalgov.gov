@@ -11,7 +11,6 @@ tag:
   - Federal Mobile Products Registry
   - ICE
   - native app
-  - Thursday Mobile Products
   - US Department of Agriculture
   - US Immigration and Customs Enforcement
   - USA.gov Federal Mobile Apps Directory

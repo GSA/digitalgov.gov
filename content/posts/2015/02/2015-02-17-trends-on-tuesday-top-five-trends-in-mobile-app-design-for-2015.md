@@ -12,8 +12,6 @@ tag:
   - customer service
   - Internet of things
   - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
   - Trends on Tuesday
 ---
 

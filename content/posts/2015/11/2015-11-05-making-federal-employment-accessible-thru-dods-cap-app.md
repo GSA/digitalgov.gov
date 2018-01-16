@@ -16,7 +16,6 @@ tag:
   - native apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
   - United States Department of Defense
 ---
 

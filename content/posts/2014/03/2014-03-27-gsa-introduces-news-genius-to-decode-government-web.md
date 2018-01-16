@@ -11,7 +11,6 @@ tag:
   - API
   - Defense Intelligence Agency
   - Internet of things
-  - mobile gov
   - SocialGov
   - US Small Business Administration
 ---

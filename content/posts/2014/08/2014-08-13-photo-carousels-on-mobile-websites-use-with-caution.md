@@ -13,8 +13,6 @@ tag:
   - FAA
   - Federal Aviation Administration
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
   - Web Content Managers Forum
 ---
 

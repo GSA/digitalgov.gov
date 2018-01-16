@@ -12,7 +12,6 @@ tag:
   - Customer Experience
   - DigitalGov University
   - eCPIC
-  - mobile gov
   - Open Opportunities program
   - SocialGov
   - user experience

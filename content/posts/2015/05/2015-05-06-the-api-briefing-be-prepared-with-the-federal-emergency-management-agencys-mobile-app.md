@@ -14,8 +14,6 @@ tag:
   - Federal Emergency Management Agency
   - FEMA
   - mobile
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 5
   - native app
   - Wednesday API Briefing
 ---

@@ -11,7 +11,6 @@ tag:
   - DOT
   - mobile
   - mobile apps
-  - Thursday Mobile Products
   - United States Department of Transportation
   - USA.gov Federal Mobile Apps Directory
 ---

@@ -9,7 +9,6 @@ categories:
   - Mobile
 tag:
   - GobiernoUSAgov
-  - Mobile UX Guideline 5
   - mobile-first
   - multilingual
   - social media

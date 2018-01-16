@@ -13,7 +13,6 @@ tag:
   - National Highway Traffic Safety Administration
   - native app
   - Terms of Service
-  - Thursday Mobile Products
   - TOS
   - United States Department of Transportation
   - Yelp

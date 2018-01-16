@@ -9,7 +9,6 @@ categories:
 tag:
   - crowdsourcing
   - mobile apps
-  - Mobile Gov Experience
   - NOAA
 ---
 

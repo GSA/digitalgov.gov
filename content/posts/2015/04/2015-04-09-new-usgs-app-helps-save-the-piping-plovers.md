@@ -12,7 +12,6 @@ tag:
   - crowdsourcing
   - Federal Mobile Products Registry
   - native app
-  - Thursday Mobile Products
   - United States Geological Survey
   - USA.gov Federal Mobile Apps Directory
   - USGS

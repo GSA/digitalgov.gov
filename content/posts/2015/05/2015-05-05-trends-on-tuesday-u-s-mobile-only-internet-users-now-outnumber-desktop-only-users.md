@@ -8,7 +8,6 @@ authors:
 categories:
   - Mobile
 tag:
-  - Mobile UX Guideline 1
   - mobile-first
   - mobile-friendly
   - native app

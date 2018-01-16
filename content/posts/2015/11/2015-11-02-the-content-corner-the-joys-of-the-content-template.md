@@ -11,7 +11,6 @@ tag:
   - Administrative Office of the United States Courts
   - content strategy
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 1
   - The Content Corner
 ---
 

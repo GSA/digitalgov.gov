@@ -10,7 +10,6 @@ categories:
 tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile testing
-  - Mobile UX Guideline 4
   - responsive web design
   - SSA
   - The United States Social Security Administration

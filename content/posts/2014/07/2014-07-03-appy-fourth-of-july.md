@@ -8,10 +8,8 @@ categories:
 tag:
   - Architect of the Capitol
   - mobile apps
-  - mobile gov community of practice
   - National Archives and Records Administration
   - NPS
-  - Thursday Mobile Products
   - US National Park Service
   - USA.gov Federal Mobile Apps Directory
 ---

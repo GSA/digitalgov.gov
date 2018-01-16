@@ -15,8 +15,6 @@ tag:
   - Federal Trade Commission
   - FTC
   - Internet of things
-  - mobile gov community of practice
-  - Mobile UX Guideline 6
   - Privacy Impact Assessment
   - Trends on Tuesday
 ---

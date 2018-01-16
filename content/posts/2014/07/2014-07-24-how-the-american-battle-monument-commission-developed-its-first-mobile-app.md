@@ -14,9 +14,6 @@ tag:
   - American Battle Monuments Commission
   - mobile
   - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
-  - Thursday Mobile Products
   - user experience
 ---
 

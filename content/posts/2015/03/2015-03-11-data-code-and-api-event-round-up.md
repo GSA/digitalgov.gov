@@ -21,7 +21,6 @@ tag:
   - inventory.data.gov
   - json
   - metadata
-  - mobile gov community of practice
   - open and structured content models
   - open data
   - Recaps

@@ -9,7 +9,6 @@ categories:
   - Mobile
 tag:
   - mobile
-  - Mobile UX Guideline 5
   - native app
   - native apps
   - social media

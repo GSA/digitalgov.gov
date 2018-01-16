@@ -13,8 +13,6 @@ tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile testing
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
   - native app
   - responsive web design
   - user experience

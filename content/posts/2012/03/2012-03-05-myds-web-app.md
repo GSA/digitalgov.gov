@@ -8,7 +8,6 @@ categories:
 tag:
   - HHS
   - mobile apps
-  - Mobile Gov Experience
   - NIH
 ---
 

@@ -8,7 +8,6 @@ categories:
 tag:
   - mobile apps
   - NORAD
-  - Thursday Mobile Products
 ---
 
 _{{< legacy-img src="2014/01/NORAD-Tracks-Santa-on-the-App-Store-on-iTunes.png" alt="NORAD Tracks Santa on the App Store on iTunes" >}}_

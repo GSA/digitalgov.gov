@@ -11,7 +11,6 @@ tag:
   - Internal Revenue Service
   - IRS
   - mobile apps
-  - Thursday Mobile Products
   - US Digital Registry
   - USA.gov Federal Mobile Apps Directory
 ---

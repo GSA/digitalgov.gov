@@ -9,7 +9,6 @@ categories:
   - Mobile
   - strategy-and-policy
 tag:
-  - Mobile Gov Experience
   - Smithsonian Institution
 ---
 

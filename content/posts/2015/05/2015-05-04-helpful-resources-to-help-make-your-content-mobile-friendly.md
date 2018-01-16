@@ -11,10 +11,7 @@ categories:
 tag:
   - Content Management System
   - mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
   - mobile-friendly
-  - MobileGov
   - responsive web design
   - Sites
   - sitesusagov

@@ -10,8 +10,6 @@ categories:
 tag:
   - DGU
   - mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
   - mobile-first
   - native app
   - responsive web design

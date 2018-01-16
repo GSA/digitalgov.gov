@@ -14,7 +14,6 @@ tag:
   - social media
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
   - US National Park Service
 ---
 

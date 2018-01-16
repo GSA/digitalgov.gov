@@ -11,7 +11,6 @@ categories:
 tag:
   - COPE
   - mobile
-  - Mobile UX Guideline 1
   - mobile-first
   - mobile-friendly
   - open and structured content models

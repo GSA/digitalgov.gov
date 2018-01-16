@@ -15,7 +15,6 @@ tag:
   - DFAS
   - EPA
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 5
   - NASA
   - National Institutes of Health
   - NIH

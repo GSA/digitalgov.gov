@@ -18,7 +18,6 @@ tag:
   - Digital Audio/Video Community
   - mobile
   - mobile-friendly
-  - MobileGov
   - user centered design
   - user experience
   - UX

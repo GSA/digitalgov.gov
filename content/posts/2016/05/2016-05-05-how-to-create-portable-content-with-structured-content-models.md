@@ -10,8 +10,6 @@ tag:
   - Centers for Disease Control and Prevention
   - content syndication
   - HHS
-  - mobile gov community of practice
-  - MobileGov
   - National Institutes of Health
   - NIH
   - open and structured content models

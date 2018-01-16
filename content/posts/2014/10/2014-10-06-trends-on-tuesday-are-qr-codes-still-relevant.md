@@ -13,7 +13,6 @@ categories:
 tag:
   - AoI
   - mobile
-  - Mobile UX Guideline 5
   - Trends on Tuesday
 ---
 

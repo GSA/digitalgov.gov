@@ -12,7 +12,6 @@ tag:
   - ios
   - mobile apps
   - native app
-  - Thursday Mobile Products
   - US Coast Guard
   - USA.gov Federal Mobile Apps Directory
 ---

@@ -10,7 +10,6 @@ categories:
 tag:
   - FDA
   - mobile
-  - Thursday Mobile Products
   - US Food and Drug Administration
   - USA.gov Federal Mobile Apps Directory
 ---

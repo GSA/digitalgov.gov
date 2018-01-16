@@ -12,7 +12,6 @@ tag:
   - ios
   - mobile apps
   - native app
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

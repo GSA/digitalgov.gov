@@ -14,7 +14,6 @@ tag:
   - HHS
   - mobile
   - mobile testing
-  - Mobile UX Guideline 4
   - Recaps
   - United States Department of Health and Human Services
 ---

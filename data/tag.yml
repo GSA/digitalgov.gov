@@ -504,8 +504,6 @@ loc:
   display_name: "LOC"
 m3-framework:
   display_name: "M3 Framework"
-making-mobile-gov:
-  display_name: "Making Mobile Gov"
 marketing:
   display_name: "Marketing"
 mcc:
@@ -524,36 +522,8 @@ mobile-app-development-program:
   display_name: "Mobile App Development Program"
 mobile-apps:
   display_name: "Mobile Apps"
-mobile-code-catalog:
-  display_name: "Mobile Code Catalog"
-mobile-first:
-  display_name: "Mobile First"
-mobile-friendly:
-  display_name: "Mobile Friendly"
-mobile-gov:
-  display_name: "Mobile Gov"
-mobile-gov-community-of-practice:
-  display_name: "Mobile Gov Community Of Practice"
-mobile-gov-experience:
-  display_name: "Mobile Gov Experience"
 mobile-testing:
   display_name: "Mobile Testing"
-mobile-user-experience-guidelines:
-  display_name: "Mobile User Experience Guidelines"
-mobile-ux-guideline-1:
-  display_name: "Mobile UX Guideline 1"
-mobile-ux-guideline-2:
-  display_name: "Mobile UX Guideline 2"
-mobile-ux-guideline-3:
-  display_name: "Mobile UX Guideline 3"
-mobile-ux-guideline-4:
-  display_name: "Mobile UX Guideline 4"
-mobile-ux-guideline-5:
-  display_name: "Mobile UX Guideline 5"
-mobile-ux-guideline-6:
-  display_name: "Mobile UX Guideline 6"
-mobilegov:
-  display_name: "Mobilegov"
 modernization-and-migration-management-framework:
   display_name: "Modernization And Migration Management Framework"
 multilingual:
@@ -906,8 +876,6 @@ the-data-briefing:
   display_name: "The Data Briefing"
 the-united-states-social-security-administration:
   display_name: "The United States Social Security Administration"
-thursday-mobile-products:
-  display_name: "Thursday Mobile Products"
 top-tasks:
   display_name: "Top Tasks"
 tos:

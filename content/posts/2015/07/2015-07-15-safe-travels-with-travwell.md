@@ -11,7 +11,6 @@ tag:
   - CDC
   - ios
   - mobile apps
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

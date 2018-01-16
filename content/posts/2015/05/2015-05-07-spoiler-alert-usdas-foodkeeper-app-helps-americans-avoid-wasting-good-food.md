@@ -11,7 +11,6 @@ tag:
   - ios
   - mobile apps
   - native app
-  - Thursday Mobile Products
   - US Department of Agriculture
   - USDA
 ---

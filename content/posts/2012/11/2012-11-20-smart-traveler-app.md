@@ -9,8 +9,6 @@ categories:
   - Mobile
 tag:
   - mobile apps
-  - Mobile Gov Experience
-  - Thursday Mobile Products
   - US Department of State
 ---
 

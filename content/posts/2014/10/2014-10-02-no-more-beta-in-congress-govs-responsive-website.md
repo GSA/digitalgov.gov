@@ -10,7 +10,6 @@ tag:
   - LOC
   - mobile
   - responsive web design
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

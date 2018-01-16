@@ -11,7 +11,6 @@ tag:
   - DOT
   - Federal Railroad Administration
   - ICE
-  - Thursday Mobile Products
   - US Immigration and Customs Enforcement
   - United States Department of Transportation
   - USA.gov Federal Mobile Apps Directory

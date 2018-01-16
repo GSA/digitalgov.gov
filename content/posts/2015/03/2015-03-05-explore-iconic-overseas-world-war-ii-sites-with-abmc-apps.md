@@ -12,7 +12,6 @@ tag:
   - ABMC
   - American Battle Monuments Commission
   - mobile apps
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

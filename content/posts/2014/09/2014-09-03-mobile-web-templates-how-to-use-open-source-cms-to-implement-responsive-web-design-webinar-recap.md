@@ -14,7 +14,6 @@ tag:
   - content models
   - drupal
   - IMLS
-  - Mobile UX Guideline 1
   - open and structured content models
   - open source
   - Recaps

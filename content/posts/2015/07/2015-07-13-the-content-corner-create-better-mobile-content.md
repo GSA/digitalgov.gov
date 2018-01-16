@@ -12,9 +12,6 @@ tag:
   - Administrative Office of the United States Courts
   - infographic
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 5
   - responsive web design
   - The Content Corner
 ---

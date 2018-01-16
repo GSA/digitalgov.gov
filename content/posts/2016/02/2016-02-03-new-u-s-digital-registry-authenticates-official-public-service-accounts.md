@@ -11,7 +11,6 @@ categories:
 tag:
   - analytics.usa.gov
   - API
-  - MobileGov
   - open source
   - SocialGov
   - Terms of Service

@@ -10,9 +10,6 @@ categories:
 tag:
   - HHS
   - mobile apps
-  - mobile gov
-  - mobile gov community of practice
-  - Thursday Mobile Products
   - United States Department of Health and Human Services
 ---
 

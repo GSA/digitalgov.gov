@@ -13,9 +13,6 @@ categories:
 tag:
   - GSA
   - mobile
-  - mobile gov
-  - Mobile UX Guideline 1
-  - MobileGov
   - responsive web design
   - US Department of State
 ---

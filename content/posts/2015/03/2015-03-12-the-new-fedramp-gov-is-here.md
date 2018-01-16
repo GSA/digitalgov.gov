@@ -15,7 +15,6 @@ tag:
   - GSA
   - responsive web design
   - Sites
-  - Thursday Mobile Products
   - user experience
   - UX
 ---

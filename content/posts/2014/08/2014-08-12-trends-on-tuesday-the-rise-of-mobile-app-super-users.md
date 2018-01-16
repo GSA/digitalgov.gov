@@ -9,8 +9,6 @@ categories:
   - Mobile
 tag:
   - Mobile App Development Program
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
   - Trends on Tuesday
 ---
 

@@ -10,8 +10,6 @@ categories:
   - user-testing-and-research
 tag:
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
   - Trends on Tuesday
 ---
 

@@ -13,8 +13,6 @@ tag:
   - mobile
   - mobile apps
   - mobile testing
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
   - native app
   - Trends on Tuesday
 ---

@@ -11,7 +11,6 @@ tag:
   - API
   - native app
   - ROTC
-  - Thursday Mobile Products
   - United States Army
 ---
 

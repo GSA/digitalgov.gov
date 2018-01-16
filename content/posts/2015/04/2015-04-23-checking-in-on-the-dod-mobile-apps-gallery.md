@@ -9,7 +9,6 @@ categories:
   - Mobile
 tag:
   - DoD
-  - Thursday Mobile Products
   - United States Department of Defense
   - USA.gov Federal Mobile Apps Directory
 ---

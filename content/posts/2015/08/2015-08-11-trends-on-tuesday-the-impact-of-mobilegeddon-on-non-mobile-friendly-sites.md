@@ -9,8 +9,6 @@ categories:
   - Mobile
 tag:
   - DigitalGov Search
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
   - mobile-first
   - search engine optimization
   - Trends on Tuesday

@@ -11,7 +11,6 @@ categories:
   - Social Media
 tag:
   - GPS
-  - Mobile UX Guideline 5
   - NPS
   - Trends on Tuesday
   - US National Park Service

@@ -11,7 +11,6 @@ tag:
   - mobile apps
   - NARA
   - National Archives and Records Administration
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

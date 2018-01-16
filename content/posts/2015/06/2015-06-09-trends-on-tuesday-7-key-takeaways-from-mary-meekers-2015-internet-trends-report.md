@@ -10,8 +10,6 @@ categories:
   - Mobile
 tag:
   - mobile
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
   - mobile-first
   - Trends on Tuesday
 ---

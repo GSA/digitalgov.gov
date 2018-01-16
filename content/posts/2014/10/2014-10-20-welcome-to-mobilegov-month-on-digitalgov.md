@@ -17,7 +17,6 @@ tag:
   - Federal CrowdSource Mobile Testing Program
   - HHS
   - mobile
-  - Mobile UX Guideline 1
   - native app
   - open and structured content models
   - responsive web design

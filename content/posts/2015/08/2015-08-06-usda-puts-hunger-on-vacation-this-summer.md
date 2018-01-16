@@ -7,7 +7,6 @@ categories:
   - Mobile
 tag:
   - API
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
   - USDA
 ---

@@ -17,7 +17,6 @@ tag:
   - big data
   - challenges and prize competitions
   - Customer Experience
-  - mobile gov
 ---
 
 In January on DigitalGov, we’ll highlight pieces looking at trends we see coming in the digital government space in 2015 and beyond. We have lined up articles around:

@@ -9,7 +9,6 @@ categories:
   - Data
   - Mobile
 tag:
-  - Mobile UX Guideline 1
   - open and structured content models
   - Recaps
 ---

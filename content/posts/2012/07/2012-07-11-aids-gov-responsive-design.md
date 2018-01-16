@@ -12,8 +12,6 @@ categories:
   - UX
 tag:
   - HHS
-  - Mobile Gov Experience
-  - Mobile UX Guideline 5
   - responsive web design
 ---
 

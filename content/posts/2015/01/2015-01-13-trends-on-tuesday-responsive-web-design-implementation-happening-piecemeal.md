@@ -9,8 +9,6 @@ categories:
   - Mobile
 tag:
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
   - National Cancer Institute
   - NCI
   - responsive web design

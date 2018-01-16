@@ -11,7 +11,6 @@ categories:
 tag:
   - DOL
   - mobile apps
-  - mobile gov community of practice
   - NIH
   - US Department of Labor
   - user experience

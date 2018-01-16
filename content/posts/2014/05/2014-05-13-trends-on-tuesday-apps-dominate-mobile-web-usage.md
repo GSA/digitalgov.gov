@@ -10,7 +10,6 @@ categories:
 tag:
   - Facebook
   - mobile apps
-  - Mobile UX Guideline 5
   - mobile-first
   - Trends on Tuesday
   - Twitter

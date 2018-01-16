@@ -11,7 +11,6 @@ tag:
   - CDC
   - Centers for Disease Control and Prevention
   - government contact centers
-  - Mobile UX Guideline 3
   - native app
   - responsive web design
   - Trends on Tuesday

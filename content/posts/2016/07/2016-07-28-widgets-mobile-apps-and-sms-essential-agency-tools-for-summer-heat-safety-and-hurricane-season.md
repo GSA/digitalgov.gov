@@ -27,7 +27,6 @@ tag:
   - NWS
   - sms
   - social media
-  - Thursday Mobile Products
   - US Department of Veterans Affairs
   - VA
   - White House

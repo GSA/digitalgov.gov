@@ -8,7 +8,6 @@ categories:
 tag:
   - DOL
   - mobile apps
-  - Mobile Gov Experience
   - US Department of Labor
 ---
 

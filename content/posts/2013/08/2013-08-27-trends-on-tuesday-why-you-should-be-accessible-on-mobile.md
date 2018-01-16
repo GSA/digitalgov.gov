@@ -9,9 +9,7 @@ categories:
   - Accessibility
   - Mobile
 tag:
-  - Making Mobile Gov
   - mobile apps
-  - mobile gov
   - Trends on Tuesday
 ---
 

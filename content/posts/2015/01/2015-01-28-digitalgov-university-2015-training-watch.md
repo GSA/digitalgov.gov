@@ -11,7 +11,6 @@ categories:
 tag:
   - DGU
   - DigitalGov Summit
-  - mobile gov community of practice
   - SocialGov Community
   - User Experience Community of Practice
 ---

@@ -9,7 +9,6 @@ categories:
   - Mobile
 tag:
   - mobile apps
-  - Thursday Mobile Products
   - US National Park Service
 ---
 

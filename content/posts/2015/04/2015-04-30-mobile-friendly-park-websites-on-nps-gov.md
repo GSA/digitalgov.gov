@@ -10,13 +10,9 @@ categories:
 tag:
   - analytics
   - Content Management System
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 4
   - mobile-friendly
   - NPS
   - responsive web design
-  - Thursday Mobile Products
   - US National Park Service
 ---
 

@@ -11,9 +11,7 @@ categories:
 tag:
   - drupal
   - HUD
-  - mobile gov
   - responsive web design
-  - Thursday Mobile Products
   - United States Department of Housing and Urban Development
 ---
 

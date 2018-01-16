@@ -13,7 +13,6 @@ categories:
   - Social Media
   - UX
 tag:
-  - Making Mobile Gov
 ---
 
 [{{< legacy-img src="2013/06/2011\_02\_21\_meeker\_3012_final.jpg" alt="Mary Meeker is an industry expert on mobile trends" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/2011_02_21_meeker_3012_final.jpg)<a href="http://techcrunch.com/2013/05/29/mary-meeker-2013-internet-trends/" target="_blank">Techcrunch. com</a> reports Mary Meeker’s much anticipated annual Internet Trends report released at the D11 Conference last week shows astounding growth regarding use of smartphones and tablets. Among the highlights;

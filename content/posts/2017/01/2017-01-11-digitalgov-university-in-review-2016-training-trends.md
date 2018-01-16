@@ -45,7 +45,6 @@ tag:
   - FedRAMP
   - GSA
   - metrics
-  - MobileGov
   - NASA
   - National Aeronautics and Space Administration
   - OCSIT

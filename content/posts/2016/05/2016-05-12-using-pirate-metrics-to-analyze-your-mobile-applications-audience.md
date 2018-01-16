@@ -12,8 +12,6 @@ tag:
   - DoD
   - metrics
   - mobile apps
-  - mobile gov community of practice
-  - MobileGov
   - National Center for Telehealth and Technology
   - native app
   - prototype

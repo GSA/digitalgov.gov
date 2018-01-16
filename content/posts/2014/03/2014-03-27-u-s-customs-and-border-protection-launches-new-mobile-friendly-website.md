@@ -8,7 +8,6 @@ categories:
 tag:
   - CBP
   - responsive web design
-  - Thursday Mobile Products
   - US Customs and Border Protection
   - USA.gov Federal Mobile Apps Directory
 ---

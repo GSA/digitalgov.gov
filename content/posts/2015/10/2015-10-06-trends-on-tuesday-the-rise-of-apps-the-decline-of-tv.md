@@ -10,8 +10,6 @@ categories:
 tag:
   - mobile
   - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
   - mobile-friendly
   - Trends on Tuesday
 ---

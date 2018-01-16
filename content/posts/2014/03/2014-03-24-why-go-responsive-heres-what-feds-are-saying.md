@@ -11,7 +11,6 @@ tag:
   - FEMA
   - mobile
   - mobile apps
-  - mobile gov
   - Recaps
   - responsive web design
   - US Department of Education

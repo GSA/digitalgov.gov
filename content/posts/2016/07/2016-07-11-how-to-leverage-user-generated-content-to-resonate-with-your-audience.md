@@ -23,7 +23,6 @@ tag:
   - DOJ
   - mobile
   - mobile apps
-  - mobile gov
   - NARA
   - National Archives and Records Administration
   - NIH

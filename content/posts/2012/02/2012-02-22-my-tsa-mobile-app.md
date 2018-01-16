@@ -7,7 +7,6 @@ categories:
   - Mobile
 tag:
   - mobile apps
-  - Mobile Gov Experience
   - TSA
 ---
 

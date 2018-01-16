@@ -13,9 +13,6 @@ tag:
   - Federal Student Aid
   - mobile
   - mobile testing
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
   - Recaps
 ---
 

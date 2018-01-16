@@ -7,9 +7,7 @@ categories:
   - Mobile
 tag:
   - FAFSA
-  - mobile gov
   - responsive web design
-  - Thursday Mobile Products
   - US Department of Education
 ---
 

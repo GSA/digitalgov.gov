@@ -7,7 +7,6 @@ categories:
   - Mobile
 tag:
   - mobile apps
-  - Thursday Mobile Products
   - US Department of State
 ---
 

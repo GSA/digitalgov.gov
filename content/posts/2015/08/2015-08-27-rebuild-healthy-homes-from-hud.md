@@ -12,7 +12,6 @@ tag:
   - ios
   - mobile
   - native app
-  - Thursday Mobile Products
   - United States Department of Housing and Urban Development
 ---
 

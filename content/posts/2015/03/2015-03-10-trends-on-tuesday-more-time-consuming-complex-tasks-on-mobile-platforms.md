@@ -11,7 +11,6 @@ tag:
   - analytics
   - mobile
   - mobile apps
-  - Mobile UX Guideline 5
   - mobile-first
   - Trends on Tuesday
 ---

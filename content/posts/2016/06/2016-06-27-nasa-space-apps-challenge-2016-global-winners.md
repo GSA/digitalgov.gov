@@ -15,8 +15,6 @@ tag:
   - innovation
   - mobile
   - mobile apps
-  - mobile gov
-  - MobileGov
   - NASA
   - open data
   - open government

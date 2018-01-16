@@ -14,7 +14,6 @@ tag:
   - National Center for Telehealth and Technology
   - OSHA
   - SAMHSA
-  - Thursday Mobile Products
   - US Coast Guard
   - US Department of Veterans Affairs
   - US Small Business Administration

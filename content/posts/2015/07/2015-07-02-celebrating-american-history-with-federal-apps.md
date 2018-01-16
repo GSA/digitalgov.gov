@@ -16,7 +16,6 @@ tag:
   - National Archives and Records Administration
   - native apps
   - Smithsonian Institution
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

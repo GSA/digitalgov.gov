@@ -23,7 +23,6 @@ tag:
   - mobile
   - Office of Governmentwide Policy
   - OGP
-  - Thursday Mobile Products
   - US Department of Agriculture
   - US General Services Administration
 ---

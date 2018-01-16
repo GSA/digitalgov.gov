@@ -15,8 +15,6 @@ tag:
   - data
   - Federal Register
   - metadata
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 6
   - open and structured content models
   - open data
   - SEC

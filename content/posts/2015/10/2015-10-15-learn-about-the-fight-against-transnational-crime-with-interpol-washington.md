@@ -10,7 +10,6 @@ categories:
 tag:
   - DOJ
   - ICE
-  - Thursday Mobile Products
   - US Department of Justice
   - US Immigration and Customs Enforcement
 ---

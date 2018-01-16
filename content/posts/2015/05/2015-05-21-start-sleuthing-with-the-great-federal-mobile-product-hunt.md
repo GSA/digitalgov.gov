@@ -12,9 +12,7 @@ tag:
   - DigitalGov Summit
   - Federal Mobile Products Registry
   - mobile apps
-  - mobile gov community of practice
   - mobile-friendly
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

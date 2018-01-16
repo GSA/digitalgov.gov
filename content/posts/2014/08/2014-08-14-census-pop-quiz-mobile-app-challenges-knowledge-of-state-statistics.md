@@ -10,7 +10,6 @@ tag:
   - Department of Commerce
   - mobile apps
   - open data
-  - Thursday Mobile Products
   - United States Census Bureau
   - USA.gov Federal Mobile Apps Directory
 ---

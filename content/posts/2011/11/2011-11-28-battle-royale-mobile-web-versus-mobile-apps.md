@@ -11,7 +11,6 @@ tag:
   - innovation
   - mobile
   - mobile apps
-  - mobile gov
   - TSA
   - US Department of Labor
 ---

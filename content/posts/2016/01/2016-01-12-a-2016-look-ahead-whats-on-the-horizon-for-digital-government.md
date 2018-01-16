@@ -13,7 +13,6 @@ tag:
   - accessibility
   - data
   - mobile apps
-  - MobileGov
   - open data
   - social media
   - SocialGov

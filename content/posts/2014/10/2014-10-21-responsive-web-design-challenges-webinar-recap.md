@@ -15,7 +15,6 @@ tag:
   - DFAS
   - DOE
   - mobile
-  - Mobile UX Guideline 1
   - Recaps
   - responsive web design
   - United States Department of Energy

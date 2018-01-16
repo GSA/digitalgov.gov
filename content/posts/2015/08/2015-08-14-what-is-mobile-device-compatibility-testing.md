@@ -11,8 +11,6 @@ categories:
 tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
   - native app
   - native apps
   - user experience

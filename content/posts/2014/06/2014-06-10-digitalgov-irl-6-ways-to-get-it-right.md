@@ -14,7 +14,6 @@ tag:
   - Department of Commerce
   - FCC
   - FEMA
-  - Mobile UX Guideline 5
   - National Weather Service
   - NOAA
   - open data

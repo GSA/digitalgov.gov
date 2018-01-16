@@ -12,7 +12,6 @@ tag:
   - Internal Revenue Service
   - ios
   - IRS
-  - Mobile UX Guideline 5
   - National Oceanic and Atmospheric Administration
   - NOAA
   - 'Occupational Safety and Health Administration'

@@ -13,7 +13,6 @@ tag:
   - broadband
   - innovation
   - mobile
-  - mobile gov
   - White House
   - wireless
 ---

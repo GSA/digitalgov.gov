@@ -11,8 +11,6 @@ categories:
 tag:
   - mobile
   - mobile apps
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
   - mobile-friendly
   - native app
   - Trends on Tuesday

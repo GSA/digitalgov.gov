@@ -8,8 +8,6 @@ authors:
 categories:
   - Mobile
 tag:
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
   - mobile-first
   - Trends on Tuesday
 ---

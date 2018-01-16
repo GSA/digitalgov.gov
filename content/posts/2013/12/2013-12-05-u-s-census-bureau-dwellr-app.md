@@ -12,7 +12,6 @@ tag:
   - API
   - Census
   - mobile apps
-  - Thursday Mobile Products
   - United States Census Bureau
 ---
 

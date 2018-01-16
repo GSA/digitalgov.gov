@@ -8,7 +8,6 @@ authors:
 categories:
   - Mobile
 tag:
-  - Mobile UX Guideline 5
   - mobile-first
   - Trends on Tuesday
 ---

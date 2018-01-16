@@ -12,7 +12,6 @@ categories:
 tag:
   - API
   - CDC
-  - mobile gov
   - NASA
   - Recaps
 ---

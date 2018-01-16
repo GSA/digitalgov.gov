@@ -11,7 +11,6 @@ categories:
   - Video
 tag:
   - mobile
-  - Mobile UX Guideline 1
   - Trends on Tuesday
   - Twitter
 ---

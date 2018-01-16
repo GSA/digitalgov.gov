@@ -10,8 +10,6 @@ categories:
 tag:
   - DigitalGov Search
   - mobile
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
   - mobile-friendly
   - Plain language
   - responsive web design

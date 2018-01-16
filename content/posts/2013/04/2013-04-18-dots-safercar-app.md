@@ -7,8 +7,6 @@ categories:
   - Mobile
 tag:
   - mobile apps
-  - mobile gov
-  - Thursday Mobile Products
   - United States Department of Transportation
 ---
 

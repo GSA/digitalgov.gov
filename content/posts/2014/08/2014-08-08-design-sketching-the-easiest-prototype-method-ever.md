@@ -13,8 +13,6 @@ tag:
   - DOL
   - federal user experience community
   - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
   - prototype
   - usability
   - user experience

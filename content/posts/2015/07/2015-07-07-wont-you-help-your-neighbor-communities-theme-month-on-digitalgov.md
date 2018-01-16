@@ -11,7 +11,6 @@ categories:
 tag:
   - communities
   - Customer Experience Community of Practice
-  - mobile gov community of practice
   - SocialGov Community
 ---
 

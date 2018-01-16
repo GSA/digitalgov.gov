@@ -10,8 +10,6 @@ categories:
 tag:
   - 18F
   - ios
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 5
   - native app
   - Trends on Tuesday
 ---

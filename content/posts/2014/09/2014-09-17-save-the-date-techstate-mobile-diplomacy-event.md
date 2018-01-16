@@ -11,7 +11,6 @@ tag:
   - Census
   - DoD
   - DOL
-  - mobile gov community of practice
   - US Department of Labor
   - US Department of State
   - United States Census Bureau

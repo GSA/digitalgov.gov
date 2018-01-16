@@ -11,7 +11,6 @@ tag:
   - CBP
   - DHS
   - ICE
-  - Thursday Mobile Products
   - US Customs and Border Protection
   - US Immigration and Customs Enforcement
   - United States Department of Homeland Security

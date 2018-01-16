@@ -11,7 +11,6 @@ tag:
   - EPA
   - mobile
   - mobile apps
-  - Thursday Mobile Products
   - US Environmental Protection Agency
 ---
 

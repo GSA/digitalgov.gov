@@ -17,7 +17,6 @@ tag:
   - infrastructure
   - innovation
   - mobile
-  - mobile gov
   - Office of Management and Budget
   - OMB
   - US General Services Administration

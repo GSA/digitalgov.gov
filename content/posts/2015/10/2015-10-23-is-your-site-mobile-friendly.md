@@ -12,7 +12,6 @@ tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile testing
-  - Mobile UX Guideline 4
   - mobile-friendly
   - usability
 ---

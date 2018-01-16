@@ -16,15 +16,12 @@ tag:
   - GobiernoUSAgov
   - Internal Revenue Service
   - IRS
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
   - multilingual
   - multilingual digital group
   - National Institutes of Health
   - NIH
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
 ---
 
 {{< legacy-img src="2015/01/600-x-338-Android-phone-Social-Security-Administration-Seguro-Social-website-homepage.jpg" alt="600-x-338-Android-phone-Social-Security-Administration-Seguro-Social-website-homepage" >}}

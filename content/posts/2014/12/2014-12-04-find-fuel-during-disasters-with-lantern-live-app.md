@@ -10,7 +10,6 @@ categories:
 tag:
   - mobile
   - native app
-  - Thursday Mobile Products
   - United States Department of Energy
 ---
 

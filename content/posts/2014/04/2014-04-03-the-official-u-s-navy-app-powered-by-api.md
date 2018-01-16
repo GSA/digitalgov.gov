@@ -8,7 +8,6 @@ categories:
   - Mobile
 tag:
   - mobile apps
-  - Thursday Mobile Products
   - United States Navy
 ---
 

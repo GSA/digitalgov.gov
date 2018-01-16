@@ -10,7 +10,6 @@ tag:
   - mobile apps
   - native app
   - SAMHSA
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

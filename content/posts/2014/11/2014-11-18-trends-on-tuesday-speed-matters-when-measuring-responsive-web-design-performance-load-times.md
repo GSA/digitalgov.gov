@@ -11,9 +11,6 @@ categories:
   - Monthly Theme
 tag:
   - HHS
-  - mobile gov
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
   - responsive web design
   - Trends on Tuesday
   - United States Department of Health and Human Services

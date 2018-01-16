@@ -12,7 +12,6 @@ tag:
   - DoD
   - NORAD
   - North American Defense Command
-  - Thursday Mobile Products
   - United States Department of Defense
 ---
 

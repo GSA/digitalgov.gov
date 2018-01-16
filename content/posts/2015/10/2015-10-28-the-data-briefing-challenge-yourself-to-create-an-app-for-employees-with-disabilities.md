@@ -19,8 +19,6 @@ tag:
   - Federal Communications Commission
   - GSA
   - mobile apps
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 3
   - section 508
   - The Data Briefing
   - United States Department of Transportation

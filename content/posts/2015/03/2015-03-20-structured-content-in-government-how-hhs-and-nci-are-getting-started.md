@@ -16,7 +16,6 @@ tag:
   - DGU
   - HHS
   - metadata
-  - Mobile UX Guideline 1
   - National Cancer Institute
   - NCI
   - open and structured content models

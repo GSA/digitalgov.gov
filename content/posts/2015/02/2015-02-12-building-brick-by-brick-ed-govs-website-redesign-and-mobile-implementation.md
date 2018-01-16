@@ -12,9 +12,7 @@ categories:
 tag:
   - CMS
   - Content Management System
-  - Mobile UX Guideline 1
   - responsive web design
-  - Thursday Mobile Products
   - US Department of Education
 ---
 

@@ -11,7 +11,6 @@ categories:
 tag:
   - DOE
   - mobile
-  - Mobile UX Guideline 2
   - Terms of Service
   - TOS
   - United States Department of Energy

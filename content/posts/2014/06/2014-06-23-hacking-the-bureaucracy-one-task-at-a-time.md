@@ -10,7 +10,6 @@ categories:
   - Managing Digital
 tag:
   - DOL
-  - Mobile Code Catalog
   - open and structured content models
   - Open Opportunities program
   - US Department of Labor

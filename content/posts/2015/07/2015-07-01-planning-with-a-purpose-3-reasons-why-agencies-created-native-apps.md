@@ -15,9 +15,6 @@ tag:
   - ICE
   - mobile
   - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
   - National Oceanic and Atmospheric Administration
   - native apps
   - NOAA

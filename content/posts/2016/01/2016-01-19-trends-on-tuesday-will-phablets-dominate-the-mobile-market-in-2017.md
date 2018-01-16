@@ -9,8 +9,6 @@ categories:
   - Mobile
 tag:
   - mobile
-  - mobile gov
-  - MobileGov
   - Trends on Tuesday
 ---
 

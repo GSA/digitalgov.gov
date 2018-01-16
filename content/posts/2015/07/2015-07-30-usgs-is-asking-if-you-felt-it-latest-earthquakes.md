@@ -13,7 +13,6 @@ tag:
   - mobile apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
   - United States Geological Survey
   - USA.gov Federal Mobile Apps Directory
   - USGS

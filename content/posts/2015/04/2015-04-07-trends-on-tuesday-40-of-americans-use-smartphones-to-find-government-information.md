@@ -11,7 +11,6 @@ categories:
   - strategy-and-policy
 tag:
   - mobile
-  - Mobile UX Guideline 5
   - mobile-first
   - Trends on Tuesday
 ---

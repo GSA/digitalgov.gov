@@ -13,11 +13,8 @@ categories:
 tag:
   - AoI
   - Federal Mobile Products Registry
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
   - native app
   - open data
-  - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory
 ---
 

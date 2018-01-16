@@ -9,7 +9,6 @@ categories:
   - Mobile
 tag:
   - mobile
-  - Mobile UX Guideline 2
   - mobile-friendly
   - native app
   - native apps

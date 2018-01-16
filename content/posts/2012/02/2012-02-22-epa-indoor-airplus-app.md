@@ -10,7 +10,6 @@ categories:
 tag:
   - EPA
   - mobile apps
-  - Mobile Gov Experience
 ---
 
 _[{{< legacy-img src="2013/12/EPAairPLUS.png" alt="EPAairPLUS" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/EPAairPLUS.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Environmental Protection Agency._

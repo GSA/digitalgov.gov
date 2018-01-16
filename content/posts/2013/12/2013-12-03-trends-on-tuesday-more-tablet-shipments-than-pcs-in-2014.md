@@ -8,7 +8,6 @@ authors:
 categories:
   - Mobile
 tag:
-  - mobile gov
   - Trends on Tuesday
 ---
 

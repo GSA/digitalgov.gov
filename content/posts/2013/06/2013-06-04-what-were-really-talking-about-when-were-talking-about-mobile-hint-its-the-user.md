@@ -11,7 +11,6 @@ categories:
 tag:
   - mobile
   - Mobile App Development Program
-  - mobile gov
   - responsive web design
   - user experience
 ---

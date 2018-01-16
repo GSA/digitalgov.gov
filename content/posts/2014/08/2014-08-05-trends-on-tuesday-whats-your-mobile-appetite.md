@@ -11,7 +11,6 @@ categories:
 tag:
   - mobile
   - Mobile App Development Program
-  - Mobile UX Guideline 5
   - Trends on Tuesday
   - user experience
 ---

@@ -13,8 +13,6 @@ tag:
   - content models
   - COPE
   - HHS
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
   - NASA
   - National Cancer Institute
   - NCI

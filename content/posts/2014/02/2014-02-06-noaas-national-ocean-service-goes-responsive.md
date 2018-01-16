@@ -10,7 +10,6 @@ tag:
   - mobile
   - NOAA
   - responsive web design
-  - Thursday Mobile Products
   - user experience
 ---
 

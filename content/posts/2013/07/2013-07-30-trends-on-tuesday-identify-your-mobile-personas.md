@@ -8,8 +8,6 @@ authors:
 categories:
   - Mobile
 tag:
-  - Making Mobile Gov
-  - mobile gov
   - Trends on Tuesday
 ---
 
