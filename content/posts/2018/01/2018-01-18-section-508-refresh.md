@@ -16,7 +16,7 @@ In January 2017, the [U.S. Access Board](https://www.access-board.gov/)published
 
 Compliance with the [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines)is also a requirement of [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf)(PDF, 1.2 MB, 18 pages, November 2016). They go into effect on January 18, 2018. [Watch this video to learn more](https://www.youtube.com/watch?v%3DKw4jEGmaXbw).
 
-
+{{< youtube Kw4jEGmaXbw >}}
 
 ## What’s New
 Notable changes to the Standards include:
