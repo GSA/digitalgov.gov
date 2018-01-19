@@ -4824,7 +4824,7 @@ a.button,
 	padding: 5px 25px;
 	font-size:14px;
 	display: inline-block;
-	margin: 0 5px 20px;
+	margin: 0 5px 20px 0;
 	text-decoration: none;
 	background:#fff url(images/gradient60.png) bottom left repeat-x;
 	border:0;
