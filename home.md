@@ -47,12 +47,12 @@ These guidelines serve as a ‘quick-start’ guide for embedding accessibility 
 - Help you understand how each member of a cross-functional team can contribute to the accessibility of a product.
 - Give you a framework for thinking about accessibility and inclusive design in your role.
 - Understand the human need behind top accessibility practices.
-Provides entry points for seeking out more information when you need to.
+Provide entry points for seeking out more information when you need to.
 
 These guidelines do not:
 
-- Provide a comprehensive (and therefore overwhelming) list of all possible issues (we choose to focus on those most likely to impact government sites)
-- Serve as a checklist for conducting manual audits
+- Provide a comprehensive (and therefore overwhelming) list of all possible issues (we choose to focus on those most likely to impact government sites).
+- Serve as a checklist for conducting manual audits.
 
 These guidelines are a work-in-progress. Right now, following these guidelines won’t guarantee that your project will be compliant with [WCAG 2.0 standards](https://www.w3.org/TR/WCAG20/) – the standards that all government websites will have to meet by January 2018 – but we believe they will help you get close and give you the tools you need to learn more when you need to.
 
