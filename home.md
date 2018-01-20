@@ -41,7 +41,7 @@ permalink: /
   </li>
 </ul>
 
-<h2>About the guidelines</h2>
+<h2>How to use the guide</h2>
 These guidelines serve as a ‘quick-start’ guide for embedding accessibility and inclusive design practices into the workflow of a cross-functional, agile team. They:
 
 - Help you understand how each member of a cross-functional team can contribute to the accessibility of a product.
