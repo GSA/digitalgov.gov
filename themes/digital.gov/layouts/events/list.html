@@ -12,11 +12,10 @@
 			<div id="tribe-events-content-wrapper" class="tribe-clearfix">
 
 				<div id="tribe-events-content" class="tribe-events-list">
-					<h2 class="tribe-events-page-title">Upcoming Events</h2>
+					<h2>Upcoming Events</h2>
 
           <div class="tribe-events-loop">
 
-            <h4>Upcoming Events</h4>
             {{ range where .Data.Pages.ByDate "Section" "events" }}
               {{ if ge .Date.Unix (now.AddDate 0 0 -1) }}
                 {{ .Render "li"}}
@@ -24,12 +23,6 @@
             {{ end }}
 
           </div><!-- .tribe-events-loop -->
-
-          {{/* TODO: add pagination if necessary */}}
-          {{/*
-					<div id="tribe-events-footer">
-					</div>
-          */}}
 
 				</div><!-- #tribe-events-content -->
 				<div class="tribe-clear"></div>

@@ -33,3 +33,56 @@ Add styles inside the media query below that you only want to be applied to the 
 #search-form .usagov-search-autocomplete{
 	padding: 10px;
 }
+
+/* Events */
+.tribe-events-list .type-tribe_events{
+	margin-top: 0;
+	margin-bottom: 45px;
+}
+.tribe-events-list .type-tribe_events h2{
+	margin-bottom: 12px;
+	font-size: 1.4em;
+}
+.tribe-events-list .type-tribe_events h2 a{
+	color: #000;
+}
+.events-list .tribe-events-loop{
+	margin: 0;
+}
+.tribe-events-loop .tribe-events-event-meta {
+	margin-top:0;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-weight: normal;
+}
+.event_type{
+	margin-bottom: 7px;
+	background: #2673DF;
+	color:#fff;
+	padding: 1px 8px 2px 8px;
+	border-radius: 2px;
+	font-size: 14px;
+	margin-right: 4px;
+	display: inline-block;
+}
+.event_date{
+	color:#777;
+	display: block;
+}
+
+.event_btn{
+	display: inline-block;
+	border: 2px #2673DF solid;
+	color: #2673DF !important;
+	padding:4px 14px 5px 14px;
+}
+
+@media only screen and (min-width: 475px) {
+	/* Desktop styles go here */
+	.event_type{
+		margin-bottom:0;
+	}
+	.event_date{
+		display: inline-block;
+	}
+}
