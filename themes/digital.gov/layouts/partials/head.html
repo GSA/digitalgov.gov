@@ -52,14 +52,10 @@
   <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
   <meta property="og:type" content="{{ $.Scratch.Get "pagetype" }}">
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:image" content="{{ $featImgURL }}" />
-  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/tile-1.png" />
-  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/tile-2.png" />
-  <meta property="og:image:width" content="{{ $featImgWidth }}" />
   <meta property="og:site_name" content="DigitalGov">
   <meta property="fb:admins" content="100000569454928" />
   <meta property="article:publisher" content="https://www.facebook.com/digitalgov" />
-  <meta property="article:author" content="willsullivan" />
+  <meta property="article:author" content="digitalgov" />
   <meta property="article:published_time" content="2017-09-25T09:00:15Z" />
   <meta property="article:modified_time" content="2017-09-25T09:00:15Z" />
   {{ "<!-- End of Facebook Open Graph -->" | safeHTML }}
@@ -70,8 +66,6 @@
   <meta name="twitter:creator" content="@Digital_Gov" />
   <meta property="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
   <meta property="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}">
-  <meta property="twitter:image" content="{{ $featImgTwitterURL }}">
-  <meta itemprop="image" content="{{ $featImgURL }}" />
   {{ "<!-- End of Twitter -->" | safeHTML }}
 
   {{ "<!-- RSS Feed-->" | safeHTML }}
