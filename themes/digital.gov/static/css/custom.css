@@ -34,7 +34,12 @@ Add styles inside the media query below that you only want to be applied to the 
 	padding: 10px;
 }
 
+
 /* Events */
+#tribe-events-content,
+#tribe-events-content h2{
+	color:#000;
+}
 .tribe-events-list .type-tribe_events{
 	margin-top: 0;
 	margin-bottom: 45px;
@@ -66,7 +71,7 @@ Add styles inside the media query below that you only want to be applied to the 
 	display: inline-block;
 }
 .event_date{
-	color:#777;
+	color:#666;
 	display: block;
 }
 
