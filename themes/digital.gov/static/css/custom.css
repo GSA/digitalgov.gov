@@ -35,7 +35,13 @@ Add styles inside the media query below that you only want to be applied to the 
 }
 
 
-/* Events */
+/* Event Page */
+.single-tribe_events .tribe-events-content{
+	max-width: 650px;
+}
+
+
+/* Event Listing */
 #tribe-events-content{
 	color:#000;
 }
@@ -72,7 +78,7 @@ Add styles inside the media query below that you only want to be applied to the 
 	color: #000 !important;
 	padding: 1px 8px 2px 8px;
 	border: #9DA2A6 1px solid;
-	border-radius: 3px;
+	border-radius: 2px;
 	font-size: 14px;
 	margin-right: 4px;
 	display: inline-block;
@@ -88,6 +94,7 @@ Add styles inside the media query below that you only want to be applied to the 
 	padding:10px 16px;
 	line-height: 22px;
 	background: #2673DF;
+	border-radius: 2px;
 }
 .event_register{
 	background: #000;
