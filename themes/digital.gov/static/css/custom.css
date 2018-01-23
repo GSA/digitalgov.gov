@@ -36,8 +36,11 @@ Add styles inside the media query below that you only want to be applied to the 
 
 
 /* Events */
-#tribe-events-content,
-#tribe-events-content h2{
+#tribe-events-content{
+	color:#000;
+}
+#tribe-events-content h1{
+	font-size: 30px;
 	color:#000;
 }
 .tribe-events-list .type-tribe_events{
@@ -50,6 +53,7 @@ Add styles inside the media query below that you only want to be applied to the 
 }
 .tribe-events-list .type-tribe_events h2 a{
 	color: #000;
+
 }
 .events-list .tribe-events-loop{
 	margin: 0;
@@ -63,7 +67,7 @@ Add styles inside the media query below that you only want to be applied to the 
 .event_type{
 	margin-bottom: 7px;
 	background: #2673DF;
-	color:#fff;
+	color: #fff !important;
 	padding: 1px 8px 2px 8px;
 	border-radius: 2px;
 	font-size: 14px;

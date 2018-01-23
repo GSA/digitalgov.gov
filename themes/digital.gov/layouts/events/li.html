@@ -13,13 +13,16 @@
   <div class="tribe-events-event-meta">
     <!-- Schedule & Recurrence Details -->
     <div class="tribe-event-schedule-details">
-      {{ if eq .Params.event_type "online" }}
-      <span class="event_type">Online</span>
-      {{ else if eq .Params.event_type "mixed" }}
-      <span class="event_type">In-person & Online</span>
-      {{ else }}
-      <span class="event_type">In-Person</span>
-      {{ end }}
+
+        {{ if eq .Params.event_type "online" }}
+        <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
+        {{ else if eq .Params.event_type "mixed" }}
+        <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-person & Online</a>
+        {{ else }}
+        <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
+        {{ end }}
+        
+      </a>
 
       <span class="event_date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
 
@@ -29,7 +32,7 @@
   <!-- Event Content -->
   <div class="tribe-events-list-event-description tribe-events-content">
     <p>{{ .Params.summary | markdownify }}</p>
-    <a class="event_btn" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Register</strong></a>
+    <a class="event_btn" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Details</strong></a>
 
   </div><!-- .tribe-events-list-event-description -->
 
