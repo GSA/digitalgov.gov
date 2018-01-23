@@ -40,12 +40,13 @@ Add styles inside the media query below that you only want to be applied to the 
 	color:#000;
 }
 #tribe-events-content h1{
+	margin-bottom: 32px;
 	font-size: 30px;
 	color:#000;
 }
 .tribe-events-list .type-tribe_events{
 	margin-top: 0;
-	margin-bottom: 45px;
+	margin-bottom: 48px;
 }
 .tribe-events-list .type-tribe_events h2{
 	margin-bottom: 12px;
@@ -57,6 +58,7 @@ Add styles inside the media query below that you only want to be applied to the 
 }
 .events-list .tribe-events-loop{
 	margin: 0;
+	max-width: 650px;
 }
 .tribe-events-loop .tribe-events-event-meta {
 	margin-top:0;
@@ -66,10 +68,11 @@ Add styles inside the media query below that you only want to be applied to the 
 }
 .event_type{
 	margin-bottom: 7px;
-	background: #2673DF;
-	color: #fff !important;
+	/* background: #2673DF; */
+	color: #000 !important;
 	padding: 1px 8px 2px 8px;
-	border-radius: 2px;
+	border: #9DA2A6 1px solid;
+	border-radius: 3px;
 	font-size: 14px;
 	margin-right: 4px;
 	display: inline-block;
@@ -81,11 +84,14 @@ Add styles inside the media query below that you only want to be applied to the 
 
 .event_btn{
 	display: inline-block;
-	border: 2px #2673DF solid;
-	color: #2673DF !important;
-	padding:4px 14px 5px 14px;
+	color: #fff !important;
+	padding:10px 18px;
+	line-height: 22px;
+	background: #2673DF;
 }
-
+.event_register{
+	background: #000;
+}
 @media only screen and (min-width: 475px) {
 	/* Desktop styles go here */
 	.event_type{

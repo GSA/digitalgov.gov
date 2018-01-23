@@ -21,7 +21,7 @@
         {{ else }}
         <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
         {{ end }}
-        
+
       </a>
 
       <span class="event_date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
@@ -32,7 +32,9 @@
   <!-- Event Content -->
   <div class="tribe-events-list-event-description tribe-events-content">
     <p>{{ .Params.summary | markdownify }}</p>
-    <a class="event_btn" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Details</strong></a>
+
+    <a class="event_btn event_register" href="{{ .Params.registration_url }}" title="Register: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Register</strong></a>
+    <a class="event_btn" href="{{ .URL }}" title="Details: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Event details</strong></a>
 
   </div><!-- .tribe-events-list-event-description -->
 
