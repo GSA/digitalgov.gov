@@ -12,6 +12,7 @@ event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/january-us-web-design-standards-users-call-tickets-42250600684
 youtube_id: 
+
 ---
 
 In our next monthly users call, [the U.S. Web Design Standards](https://standards.usa.gov/) core team will share what they’re working on in 2018, including:
@@ -22,13 +23,12 @@ In our next monthly users call, [the U.S. Web Design Standards](https://standard
 - clearer connections between user research and guidance
 - a path to contribute components and research back to the system
 
-Please join us on Zoom, on **January 26 at 1pm ET**, to hear from the team and ask your questions.
-Register here: https://www.eventbrite.com/e/january-us-web-design-standards-users-call-tickets-42250600684
-
-Presenters:
+**Presenters:**
 
 - Maya Benari
 - John Donmoyer
 - Dan Williams
+
+Please join us on Zoom, on **January 26 at 1pm ET**, to hear from the team and ask your questions.
 
 _This talk is open to federal employees who work on digital projects that could use the Web Design Standards._
