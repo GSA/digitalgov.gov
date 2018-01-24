@@ -1,7 +1,7 @@
 ---
 slug: us-digital-registry-open-office-hours-feb2017
 title: 'U.S. Digital Registry Open Office Hours'
-summary: 'Virtual open office hours to answer your questions about the U.S. Digital Registry'
+summary: 'Virtual open office hours to answer your questions about the U.S. Digital Registry.'
 featured_image: 
   uid: 
   alt: 
