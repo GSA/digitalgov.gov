@@ -11,7 +11,6 @@ end_date: 2018-01-26 13:30:00 -0400
 event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/january-us-web-design-standards-users-call-tickets-42250600684
-youtube_id: 
 
 ---
 
