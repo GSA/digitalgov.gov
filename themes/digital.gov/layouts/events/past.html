@@ -1,0 +1,22 @@
+{{ partial "event-venue--inPerson.html" . }}
+
+<!-- Event  -->
+<div class="event event_past entry">
+
+  <!-- Event Title -->
+  <h3 class="event_title">
+    <a href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" | markdownify }}</a>
+  </h3>
+
+  <!-- Event Meta -->
+  <div class="event_details">
+    <span class="event_date">{{ dateFormat "January 02, 2006 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
+  </div>
+
+  <!-- Event actions -->
+  <div class="event_actions">
+
+    <a href="{{ .URL }}" title="Details: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Event details</strong></a>
+
+  </div>
+</div>

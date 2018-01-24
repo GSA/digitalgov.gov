@@ -1,44 +1,33 @@
 {{ partial "event-venue--inPerson.html" . }}
 
 <!-- Event  -->
-<div class="type-tribe_events tribe-clearfix">
+<div class="event entry">
 
   <!-- Event Title -->
-
-  <h2 class="tribe-events-list-event-title">
-    <a class="tribe-event-url" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" | markdownify }}</a>
-  </h2>
+  <h3 class="event_title">
+    <a href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" | markdownify }}</a>
+  </h3>
 
   <!-- Event Meta -->
-  <div class="tribe-events-event-meta">
-    <!-- Schedule & Recurrence Details -->
-    <div class="tribe-event-schedule-details">
-
-        {{ if eq .Params.event_type "online" }}
-        <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
-        {{ else if eq .Params.event_type "mixed" }}
-        <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-person & Online</a>
-        {{ else }}
-        <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
-        {{ end }}
-
-      </a>
-
-      <span class="event_date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
-
-    </div><!-- .tribe-event-schedule-details -->
-  </div><!-- .tribe-events-event-meta -->
-
-  <!-- Event Content -->
-  <div class="tribe-events-list-event-description tribe-events-content">
-    <p>{{ .Params.summary | markdownify }}</p>
-
-    {{ if .Params.registration_url }}
-    <a class="event_btn event_register" href="{{ .Params.registration_url }}" title="Register: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Register</strong></a>
+  <div class="event_details">
+    {{ if eq .Params.event_type "online" }}
+    <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
+    {{ else if eq .Params.event_type "mixed" }}
+    <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-person & Online</a>
+    {{ else }}
+    <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
     {{ end }}
-    <a class="event_btn" href="{{ .URL }}" title="Details: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Event details</strong></a>
+    <span class="event_date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
+    <p class="summary">{{ .Params.summary | markdownify }}</p>
+  </div>
 
+  <!-- Event actions -->
+  <div class="event_actions">
 
-  </div><!-- .tribe-events-list-event-description -->
+    <a class="event_btn btn" href="{{ .URL }}" title="Details: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Event details</strong></a>
+    {{ if .Params.registration_url }}
+    <a class="event_btn btn event_register" href="{{ .Params.registration_url }}" title="Register: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Register</strong></a>
+    {{ end }}
 
-</div><!-- .type-tribe_events -->
+  </div>
+</div>
