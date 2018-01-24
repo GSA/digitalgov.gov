@@ -123,25 +123,26 @@ Add styles inside the media query below that you only want to be applied to the 
 }
 
 
-.events_past{
+#events_past{
 	margin-top: 80px;
 	border-top: 1px #000 solid;
 	padding-top: 22px;
 }
-.events_past h2{
+#events_past h2{
 	color:#000;
 	margin-bottom: 32px;
 }
-.events_past {
+#events_past {
 	display: none;
 }
+
 
 .event_past{
 	margin-top: 0;
 	margin-bottom: 30px;
 }
 
-.event_past h3{
+#event_past h3{
 	margin-bottom: 0;
 }
 

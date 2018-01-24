@@ -5,7 +5,7 @@ jQuery(document).ready(function($) {
 $(".btn_events_past").click(function(e) {
 	$(this).hide();
 	e.preventDefault();
-	$(".events_past").show();
+	$("#events_past").show();
 });
 
 // Transforms the Edit link on posts/pages/events to point to the GitHub file
