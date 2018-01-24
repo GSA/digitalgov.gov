@@ -1,6 +1,6 @@
 ---
 slug: us-web-design-standards-monthly-users-call
-title: 'U&#46;S&#46; Web Design Standards Monthly Users Call'
+title: 'U.S. Web Design Standards Monthly Users Call'
 summary: 'In our next monthly users call, the U&#46;S&#46; Web Design Standards core team will share what they’re working on in 2018&#46;'
 featured_image: 
   uid: 
