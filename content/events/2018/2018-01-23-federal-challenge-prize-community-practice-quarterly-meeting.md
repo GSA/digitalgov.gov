@@ -2,8 +2,8 @@
 slug: federal-challenge-prize-community-practice-quarterly-meeting
 title: 'Federal Challenge & Prize Community of Practice Quarterly Meeting'
 summary: 'This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions&#46;'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
 event_type: mixed
 date: 2018-01-23 9:00:00 -0400
@@ -11,7 +11,7 @@ end_date: 2018-01-23 12:00:00 -0400
 event_organizer: DigitalGov University
 host: Challenges & Prizes Community of Practice
 registration_url: https://www.eventbrite.com/e/federal-challenge-prize-community-of-practice-quarterly-meeting-registration-41463270759
-venue: 
+venue:
   venue_name: U.S. General Services Administration
   room: 4150
   address: 1800 F Street NW
@@ -20,8 +20,12 @@ venue:
   zip: 20405
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
+draft: true
 
 ---
+
+**This event has been postponed due to the government shutdown. We are exploring a new date in February, stay tuned.**
+
 
 This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.
 
