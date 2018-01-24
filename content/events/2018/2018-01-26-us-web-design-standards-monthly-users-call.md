@@ -14,7 +14,7 @@ registration_url: https://www.eventbrite.com/e/january-us-web-design-standards-u
 
 ---
 
-In our next monthly users call, [the U.S. Web Design Standards](https://standards.usa.gov/) core team will share what they’re working on in 2018, including:
+Please join us on **January 26 at 1pm ET** for our next monthly users call where [the U.S. Web Design Standards](https://standards.usa.gov/) core team will share what they’re working on in 2018, including:
 
 - changing our name to more accurately describe what we are and what we do
 - more specific design and implementation guidance
@@ -22,12 +22,14 @@ In our next monthly users call, [the U.S. Web Design Standards](https://standard
 - clearer connections between user research and guidance
 - a path to contribute components and research back to the system
 
+Join us to hear from the team and ask questions.
+
 **Presenters:**
 
 - Maya Benari
 - John Donmoyer
 - Dan Williams
 
-Please join us on Zoom, on **January 26 at 1pm ET**, to hear from the team and ask your questions.
+This call will be help over Zoom. Link will be provided upon registration.
 
 _This talk is open to federal employees who work on digital projects that could use the Web Design Standards._
