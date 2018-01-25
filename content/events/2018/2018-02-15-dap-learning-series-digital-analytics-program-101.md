@@ -1,7 +1,7 @@
 ---
 slug: dap-learning-series-digital-analytics-program-101
 title: 'DAP Learning Series: Digital Analytics Program 101'
-summary: 'This online class will provide an introductory training on how to use Digital Analytics Program &#40;DAP&#41; google analytics data for DAP users&#46; '
+summary: 'This online class will provide an introductory training on how to use Digital Analytics Program &#40;DAP&#41; google analytics data. '
 featured_image: 
   uid: 
   alt: ''
@@ -9,30 +9,33 @@ event_type: online
 date: 2018-02-15 13:00:00 -0400
 end_date: 2018-02-15 16:00:00 -0400
 event_organizer: DigitalGov University
-host: DAP
+host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-digital-analytics-program-101-registration-42540102592
-youtube_id: https://www.youtube.com/watch?v=EDURhrhtz9A
+youtube_id: EDURhrhtz9A
+
 ---
-_The DAP ([Digital Analytics Program](https://www.digitalgov.gov/services/dap/)) Learning Series online trainings are designed for DAP users to increase their skills and understanding of topics relevant to DAP's implementation of Google Analytics_
 
-This online class will provide an introductory training on how to use [Digital Analytics Program (DAP)]Google Analytics data for DAP users. 
+_The DAP ([Digital Analytics Program](https://www.digitalgov.gov/services/dap/)) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._
 
-**You'll learn:**
+This half-day, online class will provide an introductory training on how to use the [Digital Analytics Program (DAP)] Google Analytics data.
+
+**Concepts we'll cover**
 
 - basic terms and concepts 
 - common web metrics: what they mean and when to use them
-- how to create reports
+- how to create and deliver reports
 - analytics and sampling
-- how to deliver reports
 
-**Agenda:**
+---
 
-Introduction to DAP
+## Agenda:
+
+**Introduction to DAP**
 
 - What it means to be part of DAP
 - How DAP implementation may be different
 
-Basic terms and concepts
+**Basic terms and concepts**
 
 - Profile (view)
 - Dimension
@@ -40,7 +43,7 @@ Basic terms and concepts
 - Filter
 - Segment
 
-Common Web metrics: what they mean and when to use them
+**Common Web metrics: what they mean and when to use them**
 
 - Sessions and users
 - Pageviews
@@ -48,7 +51,7 @@ Common Web metrics: what they mean and when to use them
 - Bounce rate
 - Referrer
 
-How to create reports
+**How to create reports**
 
 - Audience reports
 - Site content
@@ -61,14 +64,21 @@ How to create reports
 - Social
 - Search keywords
 
-Analytics & Sampling
+**Analytics & Sampling**
 
 - Tips & tricks to avoid sampling
 - Unsampled reports (exporting unsampled reports on-demand vs. scheduled etc.)
 
-How to deliver reports
+**How to deliver reports**
 
 - Dashboard vs. report
 - How to choose the right metrics for different reporting needs
 - Emailing and exporting reports
 
+---
+
+Digital Analytics Program is run by the Office of Products and Programs in the GSA.
+
+- Get Started with DAP
+- View our previous Digital Analytics Training Videos
+- Join our DAP User Group
