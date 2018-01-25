@@ -13,7 +13,7 @@ host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-digital-analytics-program-101-registration-42540102592
 youtube_id: https://www.youtube.com/watch?v=EDURhrhtz9A
 ---
-_The DAP ([Digital Analytics Program](https://www.digitalgov.gov/services/dap/)) Learning Series online trainings are designed for DAP users to increase their skills and understanding of topics relevant to DAP's implementation of Google Analytics
+_The DAP ([Digital Analytics Program](https://www.digitalgov.gov/services/dap/)) Learning Series online trainings are designed for DAP users to increase their skills and understanding of topics relevant to DAP's implementation of Google Analytics_
 
 This online class will provide an introductory training on how to use [Digital Analytics Program (DAP)](https://www.digitalgov.gov/services/dap/) google anlytics data for DAP users. 
 
@@ -25,7 +25,7 @@ You'll learn:
 - analytics and sampling
 - how to deliver reports
 
-Agenda:
+**Agenda:**
 
 Introduction to DAP
 - What it means to be part of DAP
