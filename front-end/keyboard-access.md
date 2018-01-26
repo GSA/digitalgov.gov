@@ -16,8 +16,7 @@ permalink: /front-end/keyboard-access/
 - Check to see that the page includes a skip navigation link (if navigation is present before the main content). This will allow users to skip past navigation to reach the page’s main content.
 
 <a href="https://youtu.be/cOmehxAU_4s">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>
-  Video tutorial
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial
 </a>
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/screen-reader/">

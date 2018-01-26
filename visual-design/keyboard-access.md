@@ -16,8 +16,7 @@ Make sure that no content gets focused offscreen or is hidden from view.
 - Check to see that the page includes a skip navigation link (if navigation is present before the main content). This will allow users to skip past navigation to reach the page’s main content.
 
 <a href="https://youtu.be/cOmehxAU_4s">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>
-  Video tutorial: How I do an accessibility audit
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility audit
 </a>
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/screen-reader/">

@@ -37,11 +37,9 @@ permalink: /visual-design/screen-reader/
 </ul>
 
 <a href="https://youtu.be/5R-6WvAihms">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>
-  Video tutorial: Screen Reader Basics: VoiceOver
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Screen Reader Basics: VoiceOver
 </a>
 <br>
 <a href="https://youtu.be/cOmehxAU_4s?t=3m25s">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>
-  Video tutorial: How I do an accessibility audit (screen reader)
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility audit (screen reader)
 </a>

@@ -15,8 +15,7 @@ permalink: /content-design/images/
 - If the image is decorative and you don’t want the screen reader to announce it at all, use  empty alt text.
 
 <a href="https://www.youtube.com/watch?v=XCa6U1BllCY">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>
-  Video tutorial
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial
 </a>
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/links/">

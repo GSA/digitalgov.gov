@@ -20,13 +20,11 @@ permalink: /visual-design/color-and-contrast/
 - To use text over images, add a solid background behind the text or a dark overlay to the image.
 
 <a href="https://www.youtube.com/watch?v=gH1JieTZQ1k">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>
-  Video tutorial: Meeting Contrast Requirements
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Meeting Contrast Requirements
 </a>
 <br>
 <a href="https://youtu.be/cOmehxAU_4s?t=8m36s">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>
-  Video tutorial: How do I do an accessibility audit (contrast)
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How do I do an accessibility audit (contrast)
 </a>
 
 ## Can you still understand everything the design is communicating without depending on color?
