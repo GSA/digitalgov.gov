@@ -1,7 +1,7 @@
 ---
 slug: dap-learning-series-digital-analytics-program-101
-title: 'DAP Learning Series: Digital Analytics Program 101'
-summary: 'This online class will provide an introductory training on how to use Digital Analytics Program &#40;DAP&#41; google analytics data. '
+title: 'DAP Learning Series: An Introduction to the Basics'
+summary: 'This online class will provide an introductory training on how to use Digital Analytics Program (DAP) google analytics data.'
 featured_image: 
   uid: 
   alt: ''
