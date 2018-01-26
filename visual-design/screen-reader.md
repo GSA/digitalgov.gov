@@ -45,17 +45,3 @@ permalink: /visual-design/screen-reader/
   <i class="fa fa-youtube-play" aria-hidden="true"></i>
   Video tutorial: How I do an accessibility audit (screen reader)
 </a>
-
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
