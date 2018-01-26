@@ -77,8 +77,12 @@ This half-day, online class will provide an introductory training on how to use 
 
 ---
 
-Digital Analytics Program is run by the Office of Products and Programs in the GSA.
+The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA.
 
-- Get Started with DAP
-- View our previous Digital Analytics Training Videos
-- Join our DAP User Group
+- [Learn more about DAP](https://www.digitalgov.gov/services/dap/)
+- [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
+- [View igital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
+- [Contact the DAP team](mailto:dap@support.digitalgov.gov)
+
+
+---
