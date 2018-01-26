@@ -18,16 +18,6 @@ permalink: /ux/navigation-shortcuts/
   - form
 - Include a “Skip to main content” link before the header for keyboard users. Keyboard users can’t take advantage of landmark navigation so a skip link helps them navigate more quickly. This link can be visually hidden but [should become visible when it has focus](http://webaim.org/techniques/skipnav/#invisible).
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/ux/forms/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

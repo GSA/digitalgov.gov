@@ -14,21 +14,6 @@ permalink: /front-end/images/
 - Don’t start the alt text with _Image of_ or _Photo of_ – the screen reader already announces that images are images.
 - If the image is decorative and you don’t want the screen reader to announce it at all, use  empty alt text `(alt="")` or CSS background images.
 
-<a href="https://www.youtube.com/watch?v=XCa6U1BllCY">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>
-  Video tutorial
+<a class="usa-button button-next" href="{{ site.baseurl }}/front-end/color-and-contrast/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
 </a>
-
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>

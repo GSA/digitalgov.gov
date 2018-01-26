@@ -12,16 +12,6 @@ permalink: /product/diverse-users/
 - Consider testing your product with people in their own context, such as people who use alternative reading devices, have color blindness impairments, or motor impairments.
 - Set a regular cadence for testing accessibility scenarios.
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/product/project-workflow/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

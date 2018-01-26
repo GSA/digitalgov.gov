@@ -12,4 +12,4 @@ We recommend planning for accessibility in your design process and regularly con
 
 If you have project-specific questions, ask the Accessibility Guild in [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility/).
 
-<a class="usa-button" href="{{ site.baseurl }}/visual-design/color-and-contrast/">Continue <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+<a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/color-and-contrast/">Continue <i class="fa fa-chevron-right" aria-hidden="true"></i></a>

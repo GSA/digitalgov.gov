@@ -13,16 +13,6 @@ permalink: /content-design/reference-materials/
 - If you find that you need to define a large number of terms within your content, consider adding a separate glossary page.
 - Use hyperlinks or a tooltip rather than footnotes to direct users to definitions. Footnotes can create a jarring reading experience, and they may not render correctly on mobile devices.
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/content-design/easy-to-parse-visualizations/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

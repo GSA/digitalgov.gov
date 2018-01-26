@@ -11,16 +11,6 @@ permalink: /ux/focus/
 ### Steps to take:
 - Work with your front end designer to identify any interactions on the page that require JavaScript or that can’t be created using default HTML elements. You should intentionally design how focus flows through these interactions.
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/ux/navigation-shortcuts/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

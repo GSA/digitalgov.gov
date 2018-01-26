@@ -17,16 +17,6 @@ permalink: /product/accessibility-basics/
 - Learn how to [navigate a webpage using only your keyboard](/visual-design/keyboard-access/) and [learn how to use VoiceOver](/visual-design/screen-reader/) so you can spot check new features when necessary.
 
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/product/diverse-users/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

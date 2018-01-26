@@ -11,16 +11,6 @@ permalink: /ux/assistive-technology/
 - Learn how to [navigate a webpage using only your keyboard](link to those instructions) and learn how to use a screen reader, [such as VoiceOver on your Mac](link to those instructions) so you can spot check new features when necessary. This can help you understand the technology itself, but keep in mind that folks who use it every day will often have their own strategies for using these tools.
 - Observe people using assistive technology (AT) on your product or others. In some cases you may be able to find videos demonstrating how people use different strategies to interact with digital products.
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/ux/humanize-accessibility/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

@@ -47,16 +47,6 @@ Jerry is blind and uses a screen reader to navigate the web.
   Video tutorial 2
 </a>
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/front-end/headings/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

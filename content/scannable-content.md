@@ -14,16 +14,6 @@ permalink: /content-design/scannable-content/
 - Use precise and descriptive headings to help readers grasp the main points of a piece without reading it in its entirety.
 - Check the continuity between sections. Paragraphs that don’t have clear thematic links from one to the next can cause difficulties for some readers.
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/content-design/images/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

@@ -15,16 +15,6 @@ permalink: /visual-design/data-visualizations/
 - Make sure there’s sufficient contrast between graph colors so people with color blindness can distinguish the colors.
 - Consider complementing the graph with a table of information so that it can be read more easily by screen reader users and when compressed to mobile.
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/forms/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

@@ -13,16 +13,6 @@ permalink: /content-design/links/
 - Create link text that’s as specific as possible. For example, instead of using Click here (which may not make sense for folks using screen readers), consider instead something like Download the full report. Descriptive links provide all users more information about an action they may undertake.
 - Include information about what a link leads to; this is especially important for folks who use mobile devices. If you’re linking to a PDF, say so.
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/content-design/information-architecture/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>

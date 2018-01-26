@@ -11,3 +11,5 @@ Any product released by the government must conform to the standards of [Section
 Product managers play a vital role in communicating accessibility requirements early in the project lifecycle, ensuring each team member knows their responsibility, and keeping the team accountable for building accessible products. Following these steps, you’ll make sure you’re not only following legal requirements, but making your product more usable for everyone.
 
 If you have project-specific questions, ask the Accessibility Guild in [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility/).
+
+<a class="usa-button button-next" href="{{ site.baseurl }}/product/accessibility-basics/">Continue <i class="fa fa-chevron-right" aria-hidden="true"></i></a>

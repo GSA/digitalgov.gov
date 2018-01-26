@@ -20,16 +20,6 @@ permalink: /ux/inclusive-design/
 ### Resource
 [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/en-us/design/inclusive).
 
-<button>
-  <i class="fa fa-check" aria-hidden="true"></i>
-  Yes
-</button>
-<button class="usa-button-secondary">
-  <i class="fa fa-times" aria-hidden="true"></i>
-  No
-</button>
-<button class="usa-button button-question">
-  <i class="fa fa-question" aria-hidden="true"></i>
-  I'm not sure
-</button>
-<button class="usa-button-outline button-skip" type="button">Skip >></button>
+<a class="usa-button button-next" href="{{ site.baseurl }}/ux/assistive-technology/">
+  Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>
