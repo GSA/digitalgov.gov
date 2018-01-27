@@ -41,5 +41,5 @@ permalink: /visual-design/screen-reader/
 </a>
 <br>
 <a href="https://youtu.be/cOmehxAU_4s?t=3m25s">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility audit (screen reader)
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (screen reader)
 </a>

@@ -15,11 +15,11 @@ permalink: /front-end/headings/
 <p class="usa-text-small">*While HTML5 allows you to reset headings to h1 on new section elements, some screen reader users will have difficulty discerning the structure of pages with multiple h1s. For this reason, it’s best to include only one h1 per page.</p>
 
 <a href="https://www.youtube.com/watch?v=ZHWcs5d9IqA">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial 1
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Using headings
 </a>
 <br>
 <a href="https://youtu.be/cOmehxAU_4s?t=6m21s">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial 2
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (page structure)
 </a>
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/page-structure/">

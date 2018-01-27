@@ -18,7 +18,7 @@ permalink: /ux/inclusive-design/
 - When conducting user research, make sure the diversity of your participants reflects the diverse abilities, circumstances, and backgrounds of your actual users.
 
 ### Resource
-[Microsoft’s Inclusive Design Manual](https://www.microsoft.com/en-us/design/inclusive).
+[Microsoft’s Inclusive Design Manual](https://www.microsoft.com/en-us/design/inclusive)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/assistive-technology/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

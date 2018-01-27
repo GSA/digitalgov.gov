@@ -13,7 +13,7 @@ permalink: /front-end/page-structure/
 - Add `role="banner"` to your masthead and `role="contentinfo"` to your page footer once per page to define landmark elements.
 
 <a href="https://www.youtube.com/watch?time_continue=12&v=bww3IaktlRY">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Landmarks
 </a>
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/images/">

@@ -15,5 +15,5 @@ Including automated accessibility testing throughout the development process can
 - **Simulate impairments**: Use these tools to simulate color blindness, low vision, zoom, low contrast, high contrast, and more.
 
 <a href="https://youtu.be/cOmehxAU_4s?t=8m57s">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (tools and extensions)
 </a>

@@ -39,11 +39,11 @@ Jerry is blind and uses a screen reader to navigate the web.
 </ul>
 
 <a href="https://youtu.be/5R-6WvAihms">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial 1
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Screen Reader Basics: VoiceOver
 </a>
 <br>
 <a href="https://youtu.be/cOmehxAU_4s?t=3m25s">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial 2
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (screen reader)
 </a>
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/headings/">

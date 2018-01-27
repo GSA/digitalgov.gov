@@ -16,12 +16,13 @@ permalink: /front-end/color-and-contrast/
 - Don’t use color alone to convey meaning. Use icons, text, and other visual elements to reinforce the meaning of the content.
 
 <a href="https://www.youtube.com/watch?v=gH1JieTZQ1k">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial 1
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Meeting contrast requirements
 </a>
 <br>
-<a href="https://youtu.be/cOmehxAU_4s?t=8m30s">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial 2
+<a href="https://youtu.be/cOmehxAU_4s?t=8m36s">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (contrast)
 </a>
+
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/automated-testing/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

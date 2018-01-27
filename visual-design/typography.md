@@ -24,7 +24,7 @@ permalink: /visual-design/typography/
 - **Use headings to communicate hierarchy.** Ensure heading styles differ from paragraph text by some combination of size, weight, face, or color. This ensures they’re distinct from paragraph text but are related to each other with some consistency, which helps with scanning.
 - **Use your type size and line width to determine a line height that people can comfortably read.** The larger the type size and line width, the larger the line height should be. For running/body text, that’s usually around 1.4-1.65, headings at around 1-1.3, and captions or short lines at around 1.3. Lines that are leaded too tightly or loosely can diminish readability by making it harder for the eye to know where to return to when the line breaks.
 
-### References:
+### References
 [Inclusive Design Patterns by Heydon Pickering](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
 <br>
 [Better Web Type by Matej Latin](https://betterwebtype.com/)
