@@ -6,7 +6,10 @@ permalink: /visual-design/layout-and-hierarchy/
 
 ## Can you quickly understand the meaning of the page and complete your task?
 
-**Why it’s important**: Alex is distracted and needs to fill out an important web form; Benny has attention deficit disorder and has trouble staying focused on busy pages; Nurit doesn’t feel confident about using technology because she previously wasn’t able to find what she was looking for.
+### Why it’s important
+- Alex is distracted and needs to fill out an important web form
+- Benny has attention deficit disorder and has trouble staying focused on busy pages
+- Nurit doesn’t feel confident about using technology because she previously wasn’t able to find what she was looking for.
 
 ### Steps to take
 - Make sure key information is discernable at a glance. Design minimally and intentionally so that the user can get as much info as quickly as possible.

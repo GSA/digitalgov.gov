@@ -6,7 +6,9 @@ permalink: /visual-design/forms/
 
 ## Are forms as simple as possible and only ask what’s needed to complete the task? Can you successfully complete the form?
 
-**Why it’s important**: Mateo is in a hurry to fill out a medical insurance form for his sick daughter; Janet has dementia and needs to validate her identification to request a new social security card.
+### Why it’s important
+- Mateo is in a hurry to fill out a medical insurance form for his sick daughter.
+- Janet has dementia and needs to validate her identification to request a new social security card.
 
 ### Steps to take
 - **Present fields in a single-column layout.** This keeps visual momentum moving down the page so users don’t have to reorient themselves with multiple columns. (Exceptions to this rule are short, logical fields that may be presented on the same row like _City_, _State_, and _Zip code_.)

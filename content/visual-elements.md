@@ -1,12 +1,13 @@
 ---
 layout: primary
-title: Easy-to-parse visualizations
-permalink: /content-design/easy-to-parse-visualizations/
+title: Easy-to-parse visual elements
+permalink: /content-design/visual-elements/
 ---
 
 ## Can you easily interpret content associated with visual elements?
 
-**Why it’s important**: Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
+### Why it’s important
+Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
 
 ### Steps to take
 - Include visual elements in line with text rather than separated from it; a graphic’s proximity to associated content helps reinforce the relationship between the visual and its written description.

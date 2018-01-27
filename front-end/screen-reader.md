@@ -33,6 +33,7 @@ Jerry is blind and uses a screen reader to navigate the web.
         <li><b>Turn on rotor</b>: control + alt + U</li>
         <li><b>Navigate rotor</b>: left and right, up and down arrows</li>
       </ul>
+      <p class="usa-text-small">Note: While VoiceOver is most accessible to those of us using Macs, it’s not as good a screen reader as NVDA.</p>
     </div>
   </li>
 </ul>

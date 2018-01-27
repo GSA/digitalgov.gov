@@ -6,7 +6,8 @@ permalink: /content-design/links/
 
 ## Do all links have properly descriptive text?
 
-**Why it’s important**: Jerry is blind and uses a screen reader to navigate the web. He often uses the `tab` key to quickly scan a page by reading out only the text links without the surrounding copy.
+### Why it’s important
+Jerry is blind and uses a screen reader to navigate the web. He often uses the `tab` key to quickly scan a page by reading out only the text links without the surrounding copy.
 
 ### Steps to take
 - Make sure the voice and tone of your link text match those of the rest of the content to create a more continuous user experience. Folks using screen readers and those reading page copy won’t be jarred from their experience if all text reflects the same voice and tone guidelines.

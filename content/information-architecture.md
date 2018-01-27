@@ -6,7 +6,10 @@ permalink: /content-design/information-architecture/
 
 ## Is your site organized such that everyone can navigate it easily?
 
-**Why it’s important**: Beth has a lower tech literacy level and needs a site’s layout to be clear. Julian has low vision and uses a screen reader to navigate the web. Kendra has a newborn and her attention is often divided; she needs to be able to understand a site’s contents at a glance. Lyle is undergoing a crisis and needs to quickly find just the content pertinent to him.
+### Why it’s important
+- Beth has a lower tech literacy level and needs a site’s layout to be clear. 
+- Julian has low vision and uses a screen reader to navigate the web. Kendra has a newborn and her attention is often divided; she needs to be able to understand a site’s contents at a glance. 
+- Lyle is undergoing a crisis and needs to quickly find just the content pertinent to him.
 
 ### Steps to take
 - Write descriptive page titles. Users who rely on assistive technologies like screen readers may not be able to use visual cues to determine a page’s purpose. Make sure your page titles concisely convey each page’s focus.
