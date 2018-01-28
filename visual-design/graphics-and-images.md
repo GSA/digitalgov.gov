@@ -2,11 +2,10 @@
 layout: primary
 title: Graphics and images
 permalink: /visual-design/graphics-and-images/
+question: Can you easily understand content associated with graphics, icons, and images?
+personas:
+- Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
 ---
-
-## Can you easily understand content associated with graphics, icons, and images?
-
-**Why it's important:** Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
 
 ### Steps to take
 - Make sure all graphics have descriptive captions written in plain language.

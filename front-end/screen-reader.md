@@ -2,10 +2,10 @@
 layout: primary
 title: Screen reader access
 permalink: /front-end/screen-reader/
+question: Can you use a screen reader to access the page content?
+personas:
+- Jerry is blind and uses a screen reader to navigate the web.
 ---
-## Can you use a screen reader to access the page content?
-
-**Why it’s important:** Jerry is blind and uses a screen reader to navigate the web.
 
 ### Steps to take
 - Use a screen reader to make sure you can land on controls and that they’re announcing things as they should.

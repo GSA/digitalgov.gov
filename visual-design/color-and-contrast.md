@@ -2,11 +2,11 @@
 layout: primary
 title: Color and contrast
 permalink: /visual-design/color-and-contrast/
+question: Is there enough contrast between text and its background color?
+
+personas:
+- Esther has low vision and needs content to have enough contrast to read it.
 ---
-
-## Is there enough contrast between text and its background color?
-
-**Why it's important:** Esther has low vision and needs content to have enough contrast to read it.
 
 ### Steps to take
 - Provide good contrast. Make sure the contrast between the text and background is greater than or equal to 4.5:1 for small text and 3:1 for large text.

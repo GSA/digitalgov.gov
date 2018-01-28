@@ -2,11 +2,13 @@
 layout: primary
 title: Keyboard access
 permalink: /visual-design/keyboard-access/
+question: Can you reach anything that’s interactive using the tab key?
+personas:
+- Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.
 ---
 
-## Can you reach anything that’s interactive using the tab key?
 
-**Why it's important:** Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.
+**Why it's important:** 
 
 ### Steps to take
 - Using only your keyboard, navigate through the page using the `tab` key.
