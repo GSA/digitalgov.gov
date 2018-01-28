@@ -7,9 +7,6 @@ personas:
 - Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.
 ---
 
-
-**Why it's important:** 
-
 ### Steps to take
 - Using only your keyboard, navigate through the page using the `tab` key.
 - Make sure you can reach all interactive elements and trigger them with the s`spacebar`, `enter` key, or arrow keys, and ensure that you have designed intentional styles for these states: focus, hover, active, and visited.
