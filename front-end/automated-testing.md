@@ -6,6 +6,7 @@ permalink: /front-end/automated-testing/
 
 ## Did your accessibility testing tools provide accurate results?
 
+### Why it's important
 Including automated accessibility testing throughout the development process can help quickly catch [many accessibility errors](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/), but can’t guarantee that your site is accessible. Always combine automated testing with ongoing manual testing. Manual testing is the most reliable method to assess accessibility. 
 
 ### Steps to take

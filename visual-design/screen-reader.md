@@ -6,7 +6,8 @@ permalink: /visual-design/screen-reader/
 
 ## Can you use a screen reader to access the page content?
 
-**Why it’s important**: Jerry is blind and uses a screen reader to navigate the web.
+### Why it's important
+Jerry is blind and uses a screen reader to navigate the web.
 
 ### Steps to take
 - Use a screen reader to make sure you can land on controls and that they’re announcing content in the appropriate order and context (i.e. labels before form fields, headers before content, etc.).

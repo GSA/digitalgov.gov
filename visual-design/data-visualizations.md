@@ -6,7 +6,8 @@ permalink: /visual-design/data-visualizations/
 
 ## Can you understand the overall trend of the graph? Can you quickly grasp the relationship between parts of the data?
 
-**Why it’s important**: Kwame has trouble reading graphs with small text.
+### Why it's important
+Kwame has trouble reading graphs with small text.
 
 ### Steps to take
 - Follow data visualization best practices: allow the data and your communication goals for the visualization to dictate the format and visual style, instead of the latest aesthetic trend.

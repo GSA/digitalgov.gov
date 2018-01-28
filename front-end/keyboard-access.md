@@ -5,7 +5,8 @@ permalink: /front-end/keyboard-access/
 ---
 ## Can you reach anything that’s interactive using the tab key?
 
-**Why it’s important**: Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.
+### Why it's important
+Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.
 
 ### Steps to take
 - Use the keyboard to navigate through the page using the `tab` key.
