@@ -1,10 +1,10 @@
 ---
 layout: primary
-title: Easy-to-parse visual elements
-permalink: /content-design/visual-elements/
+title: Easy-to-parse graphic elements
+permalink: /content-design/graphic-elements/
 ---
 
-## Can you easily interpret content associated with visual elements?
+## Can you easily interpret content associated with graphic elements?
 
 ### Why it’s important
 Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
