@@ -2,13 +2,11 @@
 layout: primary
 title: Forms
 permalink: /ux/forms/
----
-
-## Can all users understand and fill out forms?
-
-### Why it’s important
+question: Can all users understand and fill out forms?
+personas:
 - Esther is beginning to show signs of dementia and has trouble with short term memory loss, she needs context clues and instructions to stay visible on the screen or she loses her place. 
 - Jerome uses a screen magnifier and when validation messages are shown off to the side he can easily miss them.
+---
 
 ### Steps to take
 - Make sure all inputs have descriptive labels that remain visible even after a field has been filled in.

@@ -6,8 +6,7 @@ permalink: /front-end/headings/
 
 ## Are you using accurate headings on your page?
 
-### Why it's important
-Abby is blind and uses a screen reader to navigate the web. She hears an outline of the page's main ideas, then backtracks to read the parts she's most interested in.
+**Why it's important:** Abby is blind and uses a screen reader to navigate the web. She hears an outline of the page's main ideas, then backtracks to read the parts she's most interested in.
 
 ### Steps to take
 - Headings briefly describe the section it introduces. Headings represent an outline of the content.

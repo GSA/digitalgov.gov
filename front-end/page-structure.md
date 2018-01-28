@@ -6,8 +6,7 @@ permalink: /front-end/page-structure/
 
 ## Are you using semantic elements and roles?
 
-### Why it's important
-John is low-sighted and navigates pages by jumping to the page section he wants to get to.
+**Why it's important:** John is low-sighted and navigates pages by jumping to the page section he wants to get to.
 
 ### Steps to take
 - Use sectioning elements to create a broad outline of your page content; examples of these elements include `header`, `nav`, `main`, and `footer`. Use content sectioning elements like `section`, `article`, and `aside` to organize the document content into logical pieces.

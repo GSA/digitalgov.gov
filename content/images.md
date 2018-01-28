@@ -2,14 +2,12 @@
 layout: primary
 title: Images
 permalink: /content-design/images/
----
-
-## Do your images have descriptive alt text?
-
-### Why it’s important
+question: Do your images have descriptive alt text?
+personas:
 - Carmen’s page didn’t load all the way and didn’t get to download the images. 
 - Amanda is blind and uses a braille reader to understand the contents of images. 
 - John is looking for information with a search engine and needs help being directed to the right content (descriptive alt tags will improve search).
+---
 
 ### Steps to take
 - Include meaningful information describing each image in the alt text.

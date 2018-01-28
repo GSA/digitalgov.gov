@@ -2,17 +2,12 @@
 layout: primary
 title: Plain language
 permalink: /content-design/plain-language/
+question: Can you quickly understand the main points of the content?
+personas:
+- Karin is not a native English speaker and she sometimes has trouble decoding legal or bureaucratic language.
+- John has a developmental disability and has difficulty interpreting content written above a sixth-grade reading level.
+- Kai has low tech literacy and often doesn’t understand highly technical language.
 ---
-
-## Can you quickly understand the main points of the content?
-
-**Why it’s important**: Karin is not a native English speaker and she sometimes has trouble decoding legal or bureaucratic language.
-
-<details>
-  <summary>View more</summary>
-  <p>John has a developmental disability and has difficulty interpreting content written above a sixth-grade reading level.</p>
-  <p>Kai has low tech literacy and often doesn’t understand highly technical language.</p>
-</details>
 
 ### Steps to take
 - Refer to the [plain language section](https://pages.18f.gov/content-guide/plain-language/) of 18F’s Content Guide for general guidance, lists of words to avoid, and links to plain-language resources.

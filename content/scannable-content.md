@@ -2,13 +2,11 @@
 layout: primary
 title: Scannable content
 permalink: /content-design/scannable-content/
----
-
-## Can you scan the page without having to pause for long passages? Can you quickly grasp the meaning of a section based on its heading?
-
-### Why it’s important
+question: Can you scan the page without having to pause for long passages? Can you quickly grasp the meaning of a section based on its heading?
+personas:
 - Jerrold has a cognitive disability that makes it difficult for him to read long, uninterrupted passages of text. 
 - Sharon reads most online content using her mobile device and finds it difficult to navigate long paragraphs.
+---
 
 ### Steps to take
 - Use short sentences, whenever possible. Varying sentence length can add interest to a piece, but whenever possible, avoid unnecessarily long sentences — these can present obstacles to people who have difficulty reading. They can also be harder to skim on mobile devices.

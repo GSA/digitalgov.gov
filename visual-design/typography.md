@@ -2,13 +2,11 @@
 layout: primary
 title: Typography
 permalink: /visual-design/typography/
----
-
-## Can you easily read and comprehend textual information on the page?
-
-### Why it's important
+question: Can you easily read and comprehend textual information on the page?
+personas:
 - Zelda has low vision and has trouble reading small text. 
 - Yulia’s eyes are strained after a long day of working on a computer.
+---
 
 ### Steps to take
 - **Use a large enough font size for body text so that people can comfortably read.** Use at least an effective size of 16px, but this can vary depending on the design of the font.
