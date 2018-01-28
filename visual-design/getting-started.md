@@ -6,7 +6,7 @@ permalink: /visual-design/getting-started/
 
 ## Accessibility for visual design
 
-Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. By designing with accessibility in mind, you can ensure your designs are easier for everyone to see.
+Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website's information and functionality.
 
 ### How to use this guide
 
