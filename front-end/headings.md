@@ -6,9 +6,10 @@ permalink: /front-end/headings/
 
 ## Are you using accurate headings on your page?
 
-**Why it’s important**: Abby is blind and navigates pages by jumping to the heading of the section of content she’s interested in reading.
+**Why it’s important**: Abby is blind and uses a screen reader to navigate the web. She hears an outline of the page's main ideas, then backtracks to read the parts she's most interested in.
 
 ### Steps to take
+- Headings briefly describe the section it introduces. Headings represent an outline of the content.
 - Use `h1`–`h6` to define your section headings, where `h1` is the highest section level and `h6` is the lowest.
 - Avoid skipping heading levels: Always start with `h1`, use `h2` next, and so on.
 - Use only one `h1` per page for the page title.

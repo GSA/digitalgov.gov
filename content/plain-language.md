@@ -18,6 +18,9 @@ Include in-line definitions for scientific, legal, or technical terms that you m
 - Avoid using idiomatic language.
 - Test the readability of your content using [Readable.io](https://readable.io/) or a similar tool.
 
+### Resources
+[Federal Plain Language Guidelines](https://plainlanguage.gov/guidelines/)
+
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/reference-materials/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
 </a>
