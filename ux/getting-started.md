@@ -4,7 +4,7 @@ title: Getting started
 permalink: /ux/getting-started/
 ---
 
-## How to use this guide
+## Accessibility for user experience (UX) design
 
 Accessibility is usability for people who interact with products differently. Your role is to help the team approach accessibility as a facet of user experience rather than checklist of requirements.
 

@@ -4,9 +4,11 @@ title: Getting started
 permalink: /visual-design/getting-started/
 ---
 
-## How to use this guide
+## Accessibility for visual design
 
 Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. By designing with accessibility in mind, you can ensure your designs are easier for everyone to see.
+
+### How to use this guide
 
 We recommend planning for accessibility in your design process and regularly conducting accessibility testing throughout the design and development processes.
 
