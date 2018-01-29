@@ -33,21 +33,23 @@ These high-level policies cover basic requirements for all digital products and 
 <li><a href="#governance">Governance</a> </li>
 <li><a href="#IQ-information-quality">Information Quality</a> </li>
 <li><a href="#mandatory-content">Mandatory Content (incl. FOIA)</a> </li>
-<li><a href="#mobile">Mobile/Device-Agnostic</a></li>
+<li><a href="#mobile">Mobile/Device-Agnostic</a> </li>
+<li><a href="#multilingual">Multilingual Websites</a> </li>
 </ul>
 </td>
 <td style="text-align: left; vertical-align: top;width: 50%;">
 <ul>
-<li><a href="/#multilingual">Multilingual Websites</a> </li>
-<li><a href="/#open-government-data-content">Open Government/Data/Content</a> </li>
-<li><a href="/#writing-plain-language">Plain Writing</a> </li>
-<li><a href="/#privacy-and-identity-management">Privacy and Identity Management</a> </li>
-<li><a href="/#advertising">Prohibition on Advertising</a> </li>
-<li><a href="/#records-management">Records Management</a> </li>
-<li><a href="/#search">Search</a> </li>
-<li><a href="/#security">Security</a> </li>
-<li><a href="/#technology-standards">Technology Standards</a> </li>
-<li><a href="/#social-media">Third-Party Services/Social Media</a></li>
+<li><a href="#open-government-data-content">Open Government/Data/Content</a> </li>
+<li><a href="#paperwork-reduction">Paperwork Reduction</a> </li>
+<li><a href="#performance-measurement-and-reporting">Performance Measurement and Reporting</a> </li>
+<li><a href="#writing-plain-language">Plain Writing</a> </li>
+<li><a href="#privacy-and-identity-management">Privacy and Identity Management</a> </li>
+<li><a href="#prohibition-on-advertising">Prohibition on Advertising</a> </li>
+<li><a href="#records-management">Records Management</a> </li>
+<li><a href="#search">Search</a> </li>
+<li><a href="#security">Security</a> </li>
+<li><a href="#technology-standards">Technology Standards</a> </li>
+<li><a href="#social-media">Third-Party Services/Social Media</a> </li>
 </ul>
 </td>
 </tr>
@@ -56,7 +58,6 @@ These high-level policies cover basic requirements for all digital products and 
 ### Requirements 
 
 Each requirement section below includes a summary, and links to relevant laws, policies, and regulations. 
-
 
 #### Accessibility/Section 508 <a name="accessibility-section-508"></a>
 
@@ -90,7 +91,7 @@ Inform the public about your policies on digital rights, copyrights, trademarks,
 * [United States Government Works and Copyright Act of 1976](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/United-States-government-works-and-copyright.docx) (MS Word, 16 KB, 2 pages, June 2011)
 
 
-#### Customer Service <a name="accessibility-section-508"></a>
+#### Customer Service <a name="customer-service"></a>
 
 Understand the needs of your customers, collect and address customer feedback, and use data and feedback to continuously improve your programs. Ensure that information collected from the public minimizes burden and maximizes public utility. Use social media and other third-party platforms to listen to and serve customers. Secure OMB approval before collecting information from the public (surveys, forms, etc.), and include the OMB control number on the collection. Enable digital interactions with the public and deliver services via your customers' channel of choice. 
 
@@ -100,13 +101,13 @@ government-customer-service-policies-requirements-1993-to-present/)
 * [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (4 pages, 196 kb)
 
 
-#### Design Standards <a name="accessibility-section-508"></a>
+#### Design Standards <a name="design"></a>
 
 Follow current government design standards when creating new websites or making significant changes to existing websites.                              
 * [U.S. Web Design System](https://playbook.cio.gov/designstandards/getting-started/)</a>
 
 
-#### Domains and Branding <a name="accessibility-section-508"></a>
+#### Domains and Branding <a name="domains-and-branding"></a>
 
 Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function. The 2011 freeze on creation of new .gov domains has been lifted; coordinate with agency CIO and GSA to request a new .gov domain. Clearly display the name of your agency on every page on the website. 
 
@@ -115,21 +116,21 @@ Federal executive branch agency websites must use only .gov or .mil domains unle
 * [Policies for DotGov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 KB, 2 pages, January 2015)
 
 
-#### Governance <a name="accessibility-section-508"></a>
+#### Governance <a name="governance"></a>
 
 Establish a digital governance structure to provide accountability and enforce policies and standards. Manage and fund your digital presence as an integral part of your overall business, communications, and customer experience strategies. Leverage existing infrastructure, shared tools, best practices, and communities of practice, and coordinate within and across agencies to create efficiency and reduce duplication. When missions overlap, collaborate with other agencies to develop cross-agency websites (portals); coordinate across government to disseminate emergency response info. 
 
 * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012) (requirement 4.2)
 
 
-#### Information Quality <a name="accessibility-section-508"></a>
+#### Information Quality <a name="IQ-information-quality"></a>
 
 Create content that's accurate, relevant, easy-to-use, and conveyed in plain language. Maximize the quality, objectivity, utility, and integrity of information and services provided to the public, and make information and services available on a timely and equitable basis. 
 
 * [Public Law 106-554, Guidelines for Ensuring and Maximizing the Quality Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies (Section 515)](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information) (PDF, 161 KB, 10 pages, February 2002)
 
 
-#### Mandatory Content (incl. FOIA) <a name="accessibility-section-508"></a>
+#### Mandatory Content (incl. FOIA) <a name="mandatory-content"></a>
 
 Include all [required content and links](/resources/required-web-content-and-links/), including FOIA info. Include a text link back to your homepage on every page of your website (typically in site header.) (If you use a graphical link, it must have appropriate alt text). 
 
@@ -140,12 +141,12 @@ Include all [required content and links](/resources/required-web-content-and-lin
 * [Government Performance Results Act of 1993](https://www.congress.gov/bill/103rd-congress/senate-bill/20) (GPRA)
 
 
-#### Mobile/Device Agnostic <a name="accessibility-section-508"></a>
+#### Mobile/Device Agnostic <a name="mobile"></a>
 
 Improve priority customer facing services for mobile use. Shift to an enterprise-wide asset management and procurement model, including mobile-related procurements.      
 
 
-#### Multilingual Websites <a name="accessibility-section-508"></a>
+#### Multilingual Websites <a name="multilingual"></a>
 
 Comply with the requirements of Executive Order 13166, based on Title VI of the Civil Rights Act of 1964, which bans discrimination on the basis of national origin. 
 
@@ -154,7 +155,7 @@ Comply with the requirements of Executive Order 13166, based on Title VI of the 
 * [Federal Agency LEP Guidance](http://www.justice.gov/crt/lep/guidance/guidance_index.html) (Dept. of Justice)
 
 
-#### Open Government/Data/Content <a name="accessibility-section-508"></a>
+#### Open Government/Data/Content <a name="open-government-data-content"></a>
 
 Publish information in ways that make it easy to find, access, share, distribute, and re-purpose; Structure content and tag with standard metadata. Make open data, content, and application programming interfaces (APIs) the new default, and make existing high-value data and content available through APIs. Use challenges and prizes to promote open government, innovation, and other national priorities. 
 
@@ -166,7 +167,7 @@ Publish information in ways that make it easy to find, access, share, distribute
 * [View all Open Government policies on whitehouse.gov](http://obamawhitehouse.archives.gov/open)
 
 
-#### Paperwork Reduction <a name="accessibility-section-508"></a>
+#### Paperwork Reduction <a name="paperwork-reduction"></a>
 
 Information you collect from the public should minimize burden and maximize public utility. Get OMB approval before collecting information from the public via surveys, forms, etc., and include the OMB control number on the collection. Use OMB's Fast-Track PRA Review Process to speed the PRA approval process. Use digital processes (forms, filing, signatures, etc.) and deliver services via your customers' channel of choice (online, apps, etc.) whenever possible. Designate a single point of contact for small businesses, and post the contact information on your website. 
 
@@ -178,14 +179,14 @@ Information you collect from the public should minimize burden and maximize publ
 * [Small Business Paperwork Relief Act of 2002](https://www.gpo.gov/fdsys/pkg/STATUTE-116/pdf/STATUTE-116-Pg729.pdf) (PDF, 49 KB, 5 pages, June 2002)
 
 
-#### Performance Measurement and Reporting <a name="accessibility-section-508"></a>
+#### Performance Measurement and Reporting <a name="performance-measurement-and-reporting"></a>
 
 Regularly evaluate all digital products for performance and cost effectiveness by collecting and acting on metrics and customer feedback, conducting usability testing, and measuring return on investment. Establish performance measures to demonstrate mission achievement; Make your annual performance plans readily available to the public. 
 
 * [Government Performance Results Act of 1993 (GPRA)](http://obamawhitehouse.archives.gov/omb/mgmt-gpra/index-gpra)</a>
 
 
-#### Plain Writing <a name="accessibility-section-508"></a>
+#### Plain Writing <a name="writing-plain-language"></a>
 
 Federal executive branch agencies are required to write all new or significantly revised publications, forms and publicly distributed documents in a "clear, concise, well-organized" manner. 
 
@@ -195,7 +196,7 @@ Federal executive branch agencies are required to write all new or significantly
 * [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 KB, 6 pages, April 2011)
 
 
-#### Privacy and Identity Management <a name="accessibility-section-508"></a>
+#### Privacy and Identity Management <a name="privacy-and-identity-management"></a>
 
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide service through a secure connection. Provide a link to your privacy policy on every page, or in your overall site policies. Conduct a privacy impact assessment of your website. Post a "Privacy Act Statement" that explains your legal authority for collecting personal data and how the data will be used. 
 
@@ -205,14 +206,14 @@ Implement security and management controls to prevent the inappropriate disclosu
 * [Privacy Act of 1974](http://www.justice.gov/opcl/1974privacyact-overview.htm)</a>
 
 
-#### Prohibition on Advertising <a name="accessibility-section-508"></a>
+#### Prohibition on Advertising <a name="prohibition-on-advertising"></a>
 
 Comply with existing laws that prohibit federal public websites from being used for direct or indirect lobbying. Consult your agency's legal staff for guidance to ensure that your site does not advertise for, nor provide preferential treatment to, private individuals, firms, or corporations. 
 
 * [Prohibition of Lobbying](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+18USC1913) (Title 18, Section 1913, U.S. Code)
 
 
-#### Records Management <a name="accessibility-section-508"></a>
+#### Records Management <a name="records-management"></a>
 
 Work with your agency Records Officer and follow NARA guidance to establish and maintain inventories, priorities, and records schedules, and regularly delete or archive content that is obsolete and is not required by law or regulation. Create content inventories which identify categories of information (e.g., press releases or publications), not specific documents. Post inventories, priorities, and schedules for posting additional content on the website for comment. 
 
@@ -223,14 +224,14 @@ Work with your agency Records Officer and follow NARA guidance to establish and 
 * [NARA list of guidances and memos for records management](https://www.archives.gov/records-mgmt)
 
 
-#### Search <a name="accessibility-section-508"></a>
+#### Search <a name="search"></a>
 
 Ensure your website includes a search function which follows industry standard best practices. Write content in Plain Language, using the words of your customers, so they can easily find what they need when searching the web or your website. 
 
 * [Search.gov](http://www.search.gov/) (formerly _DigitalGov Search_)
 
 
-#### Security <a name="accessibility-section-508"></a>
+#### Security <a name="security"></a>
 
 Implement security and management controls to prevent the inappropriate disclosure of sensitive information. Provide adequate security controls to ensure information is resistant to tampering, remains confidential as necessary, and is available as intended by the agency and expected by users. Implement management controls to prevent the inappropriate disclosure of sensitive information. Provide general information to the public about your security protocols. 
 
@@ -242,14 +243,14 @@ Implement security and management controls to prevent the inappropriate disclosu
 * [Federal Information Security Management Act of 2002: FISMA Presentation to 2003 FISSEA Conference](http://csrc.nist.gov/organizations/fissea/2003-conference/presentations/fissea-FISMA-030603.pdf) (PDF, 62.5 KB, 17 pages, April 2003)
 
 
-#### Technology Standards <a name="accessibility-section-508"></a>
+#### Technology Standards <a name="technology-standards"></a>
 
 Use the most recent and up-to-date technical standards for your digital services. Provide service through a secure connection.
 
 * [The HTTPS-Only Standard](https://https.cio.gov/)
 
 
-#### Third-Party Services/Social Media <a name="accessibility-section-508"></a>
+#### Third-Party Services/Social Media <a name="social-media"></a>
 
 Use social tools to interact with customers and improve the customer experience. 
 
