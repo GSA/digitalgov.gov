@@ -1,15 +1,17 @@
 {{ $now := now }}
 {{ $events := where .Site.Pages "Section" "events" }}
-{{ $events := (where $events ".Params.date" "ge" $now).ByDate }}
+{{ $events := (where $events ".Params.date" "ge" (now.AddDate 0 0 -1)).ByDate }}
 {{ if $events }}
 <div id="tribe-events-list-widget-6" class="widget widget-2 tribe-events-list-widget">
   <div class="widget-wrap">
     <h3 class="widgettitle"><span>Events</span></h3>
+
     <ol class="tribe-list-widget">
       {{ range first 6 $events }}
         {{ partial "event--item.html" . }}
       {{ end }}
     </ol>
+    
     <p class="tribe-events-widget-link">
       <a href="https://www.digitalgov.gov/events/" rel="bookmark">View All Events</a>
     </p>
