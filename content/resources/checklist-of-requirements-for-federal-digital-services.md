@@ -111,7 +111,7 @@ These high-level policies cover basic requirements for all digital products and 
   
   <tr>
     <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-      <h3>
+      <h3 id="accessibility" style="padding-top: 50px">
         Accessibility/Section 508
       </h3>
       
@@ -143,7 +143,7 @@ These high-level policies cover basic requirements for all digital products and 
         
         <tr>
           <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-            <h3>
+            <h3 id="analytics" style="padding-top: 50px">
               Analytics
             </h3>
             
@@ -163,7 +163,7 @@ These high-level policies cover basic requirements for all digital products and 
               
               <tr>
                 <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                  <h3>
+                  <h3 id="copyright" style="padding-top: 50px">
                     Copyright
                   </h3>
                   
@@ -195,7 +195,7 @@ These high-level policies cover basic requirements for all digital products and 
                     
                     <tr>
                       <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                        <h3>
+                        <h3 id="customer-service" style="padding-top: 50px">
                           Customer Service
                         </h3>
                         
@@ -218,7 +218,7 @@ These high-level policies cover basic requirements for all digital products and 
                           
                           <tr>
                             <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                              <h3>
+                              <h3 id="design" style="padding-top: 50px">
                                 Design Standards
                               </h3>
                               
@@ -258,7 +258,7 @@ These high-level policies cover basic requirements for all digital products and 
                                       
                                       <tr>
                                         <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                          <h3>
+                                          <h3 id="governance" style="padding-top: 50px">
                                             Governance
                                           </h3>
                                           
@@ -275,7 +275,7 @@ These high-level policies cover basic requirements for all digital products and 
                                             
                                             <tr>
                                               <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                <h3>
+                                                <h3 id="information-quality" style="padding-top: 50px">
                                                   Information Quality
                                                 </h3>
                                                 
@@ -292,7 +292,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                   
                                                   <tr>
                                                     <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                      <h3>
+                                                      <h3 id="mandatory-content" style="padding-top: 50px">
                                                         Mandatory Content (incl. FOIA)
                                                       </h3>
                                                       
@@ -321,7 +321,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                         
                                                         <tr>
                                                           <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                            <h3>
+                                                            <h3 id="mobile" style="padding-top: 50px">
                                                               Mobile/Device Agnostic
                                                             </h3>
                                                             
@@ -333,7 +333,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                               
                                                               <tr>
                                                                 <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                  <h3>
+                                                                  <h3 id="LEP-multilingual" style="padding-top: 50px">
                                                                     Multilingual Websites
                                                                   </h3>
                                                                   
@@ -356,7 +356,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                     
                                                                     <tr>
                                                                       <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                        <h3>
+                                                                        <h3 id="open" style="padding-top: 50px">
                                                                           Open Government/Data/Content
                                                                         </h3>
                                                                         
@@ -388,7 +388,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                           
                                                                           <tr>
                                                                             <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                              <h3>
+                                                                              <h3 id="PRA" style="padding-top: 50px">
                                                                                 Paperwork Reduction
                                                                               </h3>
                                                                               
@@ -420,7 +420,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                                 
                                                                                 <tr>
                                                                                   <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                                    <h3>
+                                                                                    <h3 id="performance" style="padding-top: 50px">
                                                                                       Performance Measurement and Reporting
                                                                                     </h3>
                                                                                     
@@ -437,7 +437,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                                       
                                                                                       <tr>
                                                                                         <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                                          <h3>
+                                                                                          <h3 id="plain" style="padding-top: 50px">
                                                                                             Plain Writing
                                                                                           </h3>
                                                                                           
@@ -489,7 +489,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                                                   
                                                                                                   <tr>
                                                                                                     <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                                                      <h3>
+                                                                                                      <h3 id="ads" style="padding-top: 50px">
                                                                                                         Prohibition on Advertising
                                                                                                       </h3>
                                                                                                       
@@ -506,7 +506,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                                                         
                                                                                                         <tr>
                                                                                                           <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                                                            <h3>
+                                                                                                            <h3 id="records" style="padding-top: 50px">
                                                                                                               Records Management
                                                                                                             </h3>
                                                                                                             
@@ -535,7 +535,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                                                               
                                                                                                               <tr>
                                                                                                                 <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                                                                  <h3>
+                                                                                                                  <h3 id="search" style="padding-top: 50px">
                                                                                                                     Search
                                                                                                                   </h3>
                                                                                                                   
@@ -552,7 +552,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                                                                     
                                                                                                                     <tr>
                                                                                                                       <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                                                                        <h3>
+                                                                                                                        <h3 id="security" style="padding-top: 50px">
                                                                                                                           Security
                                                                                                                         </h3>
                                                                                                                         
@@ -601,7 +601,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                                                                                 
                                                                                                                                 <tr>
                                                                                                                                   <td style="text-align: left;vertical-align: top;width: 50%;border: none">
-                                                                                                                                    <h3>
+                                                                                                                                    <h3 id="social" style="padding-top: 50px">
                                                                                                                                       Third-Party Services/Social Media
                                                                                                                                     </h3>
                                                                                                                                     
