@@ -4,95 +4,40 @@
 {{ end }}
 
 {{ define "content" }}
-{{ $section := .Data.Pages }}
-{{ $now := now }}
 
-  <div id="tribe-events-pg-template">
-    <div id="tribe-events" class="tribe-no-js" data-live_ajax="1" data-datepicker_format="2" data-category="" data-featured="">
-			<div id="tribe-events-content-wrapper" class="tribe-clearfix">
-        {{/* 	This is all related to the top search bar
-  						TODO: Can this search be implmented in any real way?
-        */}}
-        {{/*
-        <input type="hidden" id="tribe-events-list-hash" value="">
-				<div id="tribe-events-bar">
-					<form id="tribe-bar-form" class="tribe-clearfix" name="tribe-bar-form" method="post" action="https://www.digitalgov.gov/events?post_type=tribe_events&#038;eventDisplay=default">
-						<div id="tribe-bar-collapse-toggle">
-							Find Events<span class="tribe-bar-toggle-arrow"></span>
-						</div>
-						<div id="tribe-bar-views">
-							<div class="tribe-bar-views-inner tribe-clearfix">
-								<h3 class="tribe-events-visuallyhidden">Event Views Navigation</h3>
-								<label>View As</label>
-								<select class="tribe-bar-views-select tribe-no-param" name="tribe-bar-view">
-													<option selected value="https://www.digitalgov.gov/events/list/" data-view="list">
-								List							</option>
-													<option tribe-inactive value="https://www.digitalgov.gov/events/month/" data-view="month">
-								Month							</option>
-													<option tribe-inactive value="https://www.digitalgov.gov/events/today/" data-view="day">
-								Day							</option>
-											</select>
-							</div><!-- .tribe-bar-views-inner -->
-						</div><!-- .tribe-bar-views -->
+<div id="events_page">
 
-						<div class="tribe-bar-filters">
-							<div class="tribe-bar-filters-inner tribe-clearfix">
-								<div class="tribe-bar-date-filter">
-									<label class="label-tribe-bar-date" for="tribe-bar-date">Events From</label>
-									<input type="text" name="tribe-bar-date" style="position: relative;" id="tribe-bar-date" value="" placeholder="Date"><input type="hidden" name="tribe-bar-date-day" id="tribe-bar-date-day" class="tribe-no-param" value=""> </div>
-								<div class="tribe-bar-search-filter">
-									<label class="label-tribe-bar-search" for="tribe-bar-search">Search</label>
-									<input type="text" name="tribe-bar-search" id="tribe-bar-search" value="" placeholder="Keyword"> </div>
-								<div class="tribe-bar-submit">
-									<input class="tribe-events-button tribe-no-param" type="submit" name="submit-bar" value="Find Events" />
-								</div><!-- .tribe-bar-submit -->
-							</div><!-- .tribe-bar-filters-inner -->
-						</div><!-- .tribe-bar-filters -->
-					</form><!-- #tribe-bar-form -->
-				</div><!-- #tribe-events-bar -->
-        */}}
+  <div class="events_current events_list">
+    <div class="events_head">
+      <h1>Upcoming Events</h1>
+      <p>
+        <a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a>
+      </p>
+    </div>
 
-				<div id="tribe-events-content" class="tribe-events-list">
-					<h2 class="tribe-events-page-title">Upcoming Events</h2>
+    {{ range where .Data.Pages.ByDate "Section" "events" }}
+      {{ if ge .Date.Unix (now.AddDate 0 0 -1) }}
+        {{ .Render "li"}}
+      {{ end }}
+    {{ end }}
 
-          {{/* TODO: add pagination if necessary */}}
-          {{/*
-					<div id="tribe-events-header" data-title="Upcoming Events &#8211; DigitalGov" data-startofweek="0" data-view="list" data-baseurl="{{ "events/" | absURL }}">
-						<h3 class="screen-reader-text" tabindex="0">Events List Navigation</h3>
+  </div>
 
-						<ul class="tribe-events-sub-nav">
-							<li class="tribe-events-nav-previous tribe-events-nav-left tribe-events-past" aria-label="previous events link">
-								<a href="https://www.digitalgov.gov/events/list/?tribe_event_display=past&#038;tribe_paged=1" rel="prev"><span>&laquo;</span> Previous Events</a>
-							</li><!-- .tribe-events-nav-left -->
-						</ul>
-					</div><!-- #tribe-events-header -->
-          */}}
+  <a href="#" class="btn btn-open btn_events_past">View past events</a>
 
-          <div class="tribe-events-loop">
+  <div id="events_past" class=" events_list">
 
-            {{ $events := where .Site.Pages "Section" "events" }}
-            {{ $upcoming := where $events ".Date" "ge" $now }}
-            {{ range ($upcoming.GroupByDate "January 2006").Reverse }}
-              <!-- Month / Year Headers -->
-              <span class='tribe-events-list-separator-month'><span>{{ .Key }}</span></span>
-                {{ range .Pages.Reverse }}
-                  {{ .Render "li"}}
-                {{ end }}
-            {{ end }}
+    <div class="events_head">
+      <h1>Past Events</h1>
+      <p><a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a></p>
+    </div>
 
-          </div><!-- .tribe-events-loop -->
-
-          {{/* TODO: add pagination if necessary */}}
-          {{/*
-					<div id="tribe-events-footer">
-					</div>
-          */}}
-
-				</div><!-- #tribe-events-content -->
-				<div class="tribe-clear"></div>
-			</div><!-- #tribe-events-content-wrapper -->
-			<div class="tribe-events-after-html"></div>
-		</div><!-- #tribe-events -->
-  </div><!-- #tribe-events-pg-template -->
+    {{ range where .Data.Pages.ByDate "Section" "events" }}
+      {{ if ge .Date.Unix (now.AddDate -1 0 0 ) }}
+        {{ .Render "past"}}
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
 
 {{ end }}
