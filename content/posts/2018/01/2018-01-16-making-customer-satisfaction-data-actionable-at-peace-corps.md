@@ -24,6 +24,8 @@ featured_image:
   alt: 'peacecore logo'
 ---
 
+{{< img-right src="peacecore" capton="" alt="" >}}
+
 For the past couple of years, the [Peace Corps](https://www.peacecorps.gov/) has used online-based intercept surveys on peacecorps.gov to measure user satisfaction. The data captured over time has been interesting, but has not varied much month-to-month, which has made it difficult to translate insight into actionable enhancements on the website.
 
 In order to get more out of the user satisfaction data, we developed a framework that applies statistical models to the data collected that identify key performance indicators (KPIs) that have the greatest likelihood to increase overall user satisfaction. We hope that this framework will help our team prioritize website changes and enhancements that have the greatest return on investment.
