@@ -156,3 +156,7 @@ Add styles inside the media query below that you only want to be applied to the 
 		display: inline-block;
 	}
 }
+
+.video{
+	margin-bottom: 24px;
+}
