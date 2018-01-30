@@ -20,8 +20,8 @@ tag:
   - customer-experience
   - customer-service
 featured_image:
-  uid: peace-corps-customer-satisfaction
-  alt: 'A bar graph titled "User Satisfaction: Task Completion versus Content Comprehension"'
+  uid: peacecore
+  alt: 'peacecore logo'
 ---
 
 For the past couple of years, the [Peace Corps](https://www.peacecorps.gov/) has used online-based intercept surveys on peacecorps.gov to measure user satisfaction. The data captured over time has been interesting, but has not varied much month-to-month, which has made it difficult to translate insight into actionable enhancements on the website.
