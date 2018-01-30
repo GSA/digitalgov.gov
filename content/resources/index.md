@@ -73,12 +73,12 @@ Looking for overall digital policy guidance? See the <a href="{{< link "checklis
 *   [U.S. Web Design Standards](https://standards.usa.gov/)
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
 
+
 ## Digital Strategy
 
-*   [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
-    *   [Agency Digital Strategy Pages]({{< link "2012-08-22-agency-digital-strategy-pages.md" >}})
-    *   [Guidelines for Improving Digital Services]({{< link "guidelines-for-improving-digital-services.md" >}})
-
+* [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
+  * [Agency Digital Strategy Pages]({{< link "2012-08-22-agency-digital-strategy-pages.md" >}})
+  *   [Guidelines for Improving Digital Services]({{< link "guidelines-for-improving-digital-services.md" >}})
 *   [Putting Citizens First: Transforming Online Government]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Federal-Web-Managers-White-Paper.pdf" >}}) (PDF, 47 kb, 4 pages, November 2008)
 
 ## Measurement

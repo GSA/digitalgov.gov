@@ -1,94 +1,33 @@
 {{ partial "event-venue--inPerson.html" . }}
 
 <!-- Event  -->
-<div class="type-tribe_events tribe-clearfix">
+<div class="event entry">
 
   <!-- Event Title -->
-  <h2 class="tribe-events-list-event-title">
-    <a class="tribe-event-url" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" | markdownify }}</a>
-  </h2>
+  <h3 class="event_title">
+    <a href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" | markdownify }}</a>
+  </h3>
 
   <!-- Event Meta -->
-  <div class="tribe-events-event-meta">
-    <div class="author location">
+  <div class="event_details">
+    {{ if eq .Params.event_type "online" }}
+    <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
+    {{ else if eq .Params.event_type "mixed" }}
+    <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-person & Online</a>
+    {{ else }}
+    <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
+    {{ end }}
+    <span class="event_date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
+    <p class="summary">{{ .Params.summary | markdownify }}</p>
+  </div>
 
-      <!-- Schedule & Recurrence Details -->
-      <div class="tribe-event-schedule-details">
-        <span class="tribe-event-date-start">{{ dateFormat "January 02 @ 3:04 PM" .Date }}</span> - <span class="tribe-event-time">{{ dateFormat "3:04 PM" .Params.end_date }}</span>
-      </div><!-- .tribe-event-schedule-details -->
+  <!-- Event actions -->
+  <div class="event_actions">
 
-      {{ if eq .Params.event_type "online" }}
-        {{/* don't display any location information */}}
-      {{ else }}
-
-        <!-- Venue Display Info -->
-        <div class="tribe-events-venue-details">
-          {{ if .Params.venue.venue_name }}
-            {{ .Params.venue.venue_name }},
-          {{ end }}
-          <span class="tribe-address">
-            {{ with .Params.venue.address }}<span class="tribe-street-address">{{ . }}</span>
-            <br>{{ end }}
-            {{ with .Params.venue.city }}<span class="tribe-locality">{{ . }}</span><span class="tribe-delimiter">,</span>{{ end }}
-            {{ with .Params.venue.state }}<abbr class="tribe-region tribe-events-abbr">{{ . }}</abbr>{{ end }}
-            {{ with .Params.venue.zip }}<span class="tribe-postal-code">{{ . }}</span>{{ end }}
-            {{ with .Params.venue.country }}<span class="tribe-country-name">{{ . }}</span>{{ end }}
-          </span><!-- .tribe-address -->
-
-          {{ with .Params.venue.map }}
-          <a class="tribe-events-gmap" href="{{ . | safeHTML }}" title="Click to view a Google Map" target="_blank">+ Google Map</a>
-          {{ end }}
-        </div><!-- .tribe-events-venue-details -->
-      {{ end }}
-    </div><!-- .author.location -->
-  </div><!-- .tribe-events-event-meta -->
-
-  {{ if .Params.featured_image.uid }}
-    {{/* TODO: image cropping with object-fit
-          https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87 */}}
-    {{/* TODO: image size and scaling? responsiveness? */}}
-    {{ $cdnurl := .Site.Params.cdnurl }}
-    {{ $thisimg := index $.Site.Data.images (default "bill-of-rights" .Params.featured_image.uid) }}
-    {{ $imgBase := $thisimg.uid }}
-    {{ $imgExt := $thisimg.format }}
-    {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
-    {{ $imgWidth := $thisimg.width }}
-    {{ $imgHeight := $thisimg.height }}
-
-    {{ $.Scratch.Set "imgSuffix" "" }}
-    {{ if gt $imgWidth 200 }}
-     {{ $.Scratch.Set "imgSuffix" "_w200" }}
+    <a class="event_btn btn" href="{{ .URL }}" title="Details: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Event details</strong></a>
+    {{ if .Params.registration_url }}
+    <a class="event_btn btn event_register" href="{{ .Params.registration_url }}" title="Register: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Register</strong></a>
     {{ end }}
 
-    <div class="tribe-events-event-image">
-      <img
-        class="attachment-medium size-medium wp-post-image"
-        src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
-        alt="{{ with .Params.featured_image.alt }}{{ . }}{{ else }}{{ $thisimg.alt | default "Featured image" }}{{ end }}"
-        width="210"
-        height="150" />
-    </div>
-  {{ end }}
-
-  <!-- Event Image -->
-  {{/* TODO: add featured image
-  {{ if .Params.featured_image.link }}
-    <div class="tribe-events-event-image">
-      <a href="{{ .URL }}">
-        <img  width="210"
-              height="150"
-              src="{{ .Params.featured_image.link }}"
-              class="attachment-medium size-medium wp-post-image"
-              alt="{{ .Params.featured_image.text }}">
-      </a>
-    </div>
-  {{ end }}
-  */}}
-
-  <!-- Event Content -->
-  <div class="tribe-events-list-event-description tribe-events-content">
-    <p>{{ .Params.summary | markdownify }}</p>
-    <a href="{{ .URL }}" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
-  </div><!-- .tribe-events-list-event-description -->
-
-</div><!-- .type-tribe_events -->
+  </div>
+</div>

@@ -19,6 +19,12 @@
 	margin-bottom: 50px;
 }
 
+.entry-content .deck{
+	margin-bottom: 21px;
+	font-size: 22px;
+	line-height: 32px;
+}
+
 .entry-content p{
 	margin-bottom: 24px;
 }
@@ -49,7 +55,7 @@
 		margin: 0;
 		padding: 15px;
 	}
-	.entry{
+	.page .entry{
 		width:auto;
 	}
 }
@@ -60,7 +66,7 @@
 		padding: 15px;
 		width:auto;
 	}
-	.entry{
+	.page .entry{
 		width:auto;
 	}
 }

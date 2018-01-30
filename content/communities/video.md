@@ -4,14 +4,14 @@ uid: video-production
 date: 2016-07-08 1:19:06 -0400
 title: 'Video Production Pros Community of Practice'
 summary: 'Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government.'
+aliases:
+  - /communities/video-production-pros-community-of-practice/
 ---
 
 
 ### Join
 
-To join our listserv, send an email to [Bryce Spivey](mailto:Kevin.Spivey@cfpb.gov?subject=Join%20Video%20Production%20Pros).
-
-If you are a U.S. government employee with a **.gov** or **.mil** email address
+If you are a U.S. government employee with a **.gov** or **.mil** email address, please email [Bryce Spivey](mailto:Kevin.Spivey@cfpb.gov?subject=Join%20Video%20Production%20Pros) with ‘Join Video Production Pros’ in the subject line.
 
 ### Who Are We?
 

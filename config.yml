@@ -109,7 +109,7 @@ menu:
       Identifier      : "electronic-capital-planning-and-investment-control-ecpic"
       URL             : "/services/electronic-capital-planning-and-investment-control-ecpic/"
       Weight          : 46
-    - Name            : "Search"
+    - Name            : "Search.gov"
       Parent          : "services"
       Identifier      : "search"
       URL             : "/services/search/"

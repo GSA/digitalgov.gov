@@ -33,7 +33,7 @@ There are more than 10,000 people participating across government in 19 areas. O
 **[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "crowdsourcing-and-citizen-science.md" >}})
 
-**[G3C]({{< link "government-contact-center-council.md" >}})**: Improving government contact centers.<br/>
+**[G3C]({{< link "government-contact-center-council.md" >}})**: The Government Contact Center Council (G3C) is an organization of contact center leaders from local, state and federal agencies focusing on delivering exceptional customer/citizen experiences.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "government-contact-center-council.md" >}})
 
 **[Government Customer Experience]({{< link "customer-experience-community.md" >}})**: Improving the public’s experience when they interact with government.<br/>
@@ -59,7 +59,7 @@ There are more than 10,000 people participating across government in 19 areas. O
 **[User Experience]({{< link "user-experience.md" >}})**: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "user-experience.md" >}})
 
-**[Video Production Pros]({{< link "video.md" >}})** Sharing leading trends, best practices, latest projects, feedback, techniques, and strategies that help our respective agencies connect with people through the power of video.<br/>
+**[Video Production Pros]({{< link "video.md" >}})** We’re a group of storytellers, artists, creatives, directors, DP’s, producers, editors and more. Sharing leading trends, best practices, latest projects, feedback, techniques, and strategies that help our respective agencies connect with people through the power of video.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "video.md" >}})
 
 **[Virtual/Augmented Reality](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)**: Analyzing, testing and developing shared resources for Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.<br/>

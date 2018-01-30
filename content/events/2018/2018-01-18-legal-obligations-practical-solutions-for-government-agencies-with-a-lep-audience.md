@@ -1,7 +1,7 @@
 ---
 slug: legal-obligations-practical-solutions-for-government-agencies-with-a-lep-audience
 title: 'How to Better Serve Your LEP Audience by Meeting the Federal Requirements'
-summary: 'Learn about your legal obligations to limited English proficient individuals (LEP) as a federal, state, or local government agency&#46; We&#39;ll provide an overview of national origin discrimination and offer practical tips for overcoming language barriers and language access program planning. '
+summary: Learn about your legal obligations to limited English proficient individuals (LEP) as a federal, state, or local government agency. We'll provide an overview of national origin discrimination and offer practical tips for overcoming language barriers and language access program planning.
 featured_image:
   uid: doj
   alt: 'Department of Justice'
