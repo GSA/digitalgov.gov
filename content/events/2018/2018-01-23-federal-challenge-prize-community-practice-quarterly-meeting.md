@@ -26,8 +26,8 @@ venue:
 
 This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.
 
-## Agenda
 
+## Agenda
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ This quarterly meeting brings together federal employees from a range of agencie
 </table>
 
 
-At this meeting, attendees will:
+**At this meeting, attendees will:**
 
 - Meet and greet the Special Assistant to the President for Innovation Policy and Initiatives and hear his vantage point from within the White House Office of American Innovation.
 - Hear how a DARPA challenge to forecast the spread of infectious disease is pinpointing where to perform clinical trials on a new vaccine for the chikungunya virus.
