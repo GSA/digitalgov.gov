@@ -23,8 +23,6 @@ venue:
 
 ---
 
-**This event has been postponed due to the government shutdown. We are exploring a new date in February, stay tuned.**
-
 
 This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.
 
