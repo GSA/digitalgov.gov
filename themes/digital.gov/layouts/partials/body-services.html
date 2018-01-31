@@ -6,60 +6,32 @@
   </div>
 </div>
 
-VIDEOS
 
 {{ $these := slice "resources" "services" "communities" }}
 {{ $findInPages := where .Site.Pages "Section" "in" $these }}
 
-{{ range $.Site.Data.featured_programs.featured }}
-  {{ $match := index (where $findInPages ".Params.uid" .uid) 0 }}
-  {{ if .img.uid }}
-    {{ $.Scratch.Set "featured-img-uid" .img.uid }}
-  {{ else }}
-    {{ $.Scratch.Set "featured-img-uid" $match.Params.featured_image.src }}
-  {{ end }}
-  {{ if .img.alt }}
-    {{ $.Scratch.Set "featured-img-alt" .img.alt }}
-    {{ else }}
-    {{ $.Scratch.Set "featured-img-alt" "" }}
-  {{ end }}
-  {{ if .summary }}
-    {{ $.Scratch.Set "featured-summary" .summary }}
-  {{ else }}
-    {{ $.Scratch.Set "featured-summary" $match.Summary }}
-  {{ end }}
-  <div id="featured-page-7" class="widget widget-4 featuredpage">
-    <div class="widget-wrap">
-      <div class="post clearfix">
-        <div class="featpage-image">
-          <a href="{{ $match.Permalink }}" rel="bookmark" title="{{ $match.Title | markdownify }}">
+<section id="featured-videos">
+  <div class="container">
+    <div class="row">
+      <div class="col-3">
+      {{ range $i, $e := first 6 ($.Site.Data.featured_videos.featured) }}
 
-            {{ $cdnurl := $.Site.Params.cdnurl }}
-            {{ $thisimg := index $.Site.Data.images (default "bill-of-rights" ($.Scratch.Get "featured-img-uid")) }}
-            {{ $imgBase := $thisimg.uid }}
-            {{ $imgExt := $thisimg.format }}
-            {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
-            {{ $imgWidth := $thisimg.width }}
-            {{ $imgHeight := $thisimg.height }}
-
-            {{ $.Scratch.Set "imgSuffix" "" }}
-            {{ if gt $imgWidth 400 }}
-             {{ $.Scratch.Set "imgSuffix" "_w400" }}
-            {{ end }}
-
-            <img
-              class="thumbnail"
-              src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
-              alt="{{ if ne ($.Scratch.Get "featured-img-alt") "" }}{{ $.Scratch.Get "featured-img-alt" | markdownify }}{{ else }}{{ $thisimg.alt | default $match.Title | markdownify }}{{ end }}"
-              title="{{ $match.Title | markdownify }}" />
-          </a>
+        {{ $c :=add $i 1 }}
+        <div class="entry">
+          <div class="youtube-player" data-id="{{ .uid }}"></div>
+          <h3 class="post-title"><a href="https://www.youtube.com/watch?v={{ .uid }}" title="{{ .title }}">{{ .title }}</a></h3>
+          <p class="catslide-excerpt">
+            {{ .summary }}
+          </p>
         </div>
+        {{ if eq ( mod $c 3 ) (add 0 0) }}
+        ====================================
+        </div>
+        <div class="col-3">
+        {{ end }}
 
-        <h3 class="widgettitle"><span><a href="{{ $match.URL }}">{{ $match.Title | markdownify }}</a></span></h3>
-        <span class="featpage-excerpt">{{ $.Scratch.Get "featured-summary" | markdownify | safeHTML | truncate 200 }}</span>
-        <a href="{{ $match.Permalink }}" rel="nofollow">Read More</a>
-
-      </div><!-- .post -->
-    </div><!-- .widget-wrap -->
-  </div><!-- .widget.widget-4.featuredpage-->
-{{ end }}
+      {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
