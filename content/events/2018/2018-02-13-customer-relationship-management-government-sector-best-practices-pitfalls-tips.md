@@ -1,6 +1,6 @@
 ---
 slug: customer-relationship-management-government-sector-best-practices-pitfalls-tips
-title: 'Customer Relationship Management Government Sector Best Practices, Pitfalls and Tips'
+title: 'Customer Relationship Management - Government Sector Best Practices, Pitfalls and Tips'
 summary: 'Join the CX Community for their first meeting of 2018 where CRM in government will be discussed&#46;'
 featured_image:
   uid:
