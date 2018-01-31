@@ -1,6 +1,6 @@
 <div id="featposts-widget-4" class="widget widget-3 featposts">
   <div class="widget-wrap">
-    <h3 class="widgettitle"><span>Programs &#038; Services</span></h3>
+    <h3 class="widgettitle"><span>Events & Training</span></h3>
     <div class='cat-posts-widget textwidget'>
     </div>
   </div>
@@ -10,7 +10,7 @@
 {{ $these := slice "resources" "services" "communities" }}
 {{ $findInPages := where .Site.Pages "Section" "in" $these }}
 
-<section id="featured-videos">
+<section id="featured-videos" class="featured">
   <div class="container">
     <div class="row">
       <div class="col-3">
@@ -20,12 +20,8 @@
         <div class="entry">
           <div class="youtube-player" data-id="{{ .uid }}"></div>
           <h3 class="post-title"><a href="https://www.youtube.com/watch?v={{ .uid }}" title="{{ .title }}">{{ .title }}</a></h3>
-          <p class="catslide-excerpt">
-            {{ .summary }}
-          </p>
         </div>
-        {{ if eq ( mod $c 3 ) (add 0 0) }}
-        ====================================
+        {{ if eq ( mod $c 3 ) (sub 1 1) }}
         </div>
         <div class="col-3">
         {{ end }}
