@@ -80,6 +80,10 @@ section .row .col{
 .featured-news .entry a{
 	color:#000;
 }
+.featured-news .entry .align-right{
+	margin-top: 6px;
+	width: 20%;
+}
 .featured-news .entry p{
 	margin: 0;
 	font-size: 16px;

@@ -14,12 +14,14 @@
 {{ $imgHeight := $thisimg.height }}
 
 {{ $.Scratch.Set "imgSuffix" "" }}
-{{ if ge $imgWidth 400 }}
- {{ $.Scratch.Set "imgSuffix" "_w400" }}
+{{ if ge $imgWidth 200 }}
+ {{ $.Scratch.Set "imgSuffix" "_w200" }}
 {{ end }}
 
+<div class="align-right">
 <img
   class="catslide-thumbnail"
   src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
   alt="{{ with .Params.featured_image.alt }}{{ . }}{{ else }}{{ $thisimg.alt | default "Featured image" }}{{ end }}"
   title="{{ .Title | markdownify }}" />
+</div>
