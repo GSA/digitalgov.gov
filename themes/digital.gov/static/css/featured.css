@@ -93,10 +93,10 @@ section .row .col{
 .featured-news .entry p{
 	margin: 0;
 	font-size: 16px;
+	line-height: 22px;
 }
 .featured-news .entry .more{
 	color: #2673DF;
-	font-weight: bold;
 	text-decoration: underline;
 }
 
