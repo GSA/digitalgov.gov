@@ -10,7 +10,7 @@
   {{ partial "body-top.html" . }}
 
   {{ block "content" . }} The DOCS CONTENT didn't load. :( {{ end }}
-  {{ if or (eq .Layout "1col") (eq .Layout "all-images") }}{{ else }}
+  {{ if or (eq .Layout "1col") (eq .Layout "all-images") (eq .Layout "new-file") }}{{ else }}
   {{ block "sidebar" . }} The DOCS SIDEBAR didn't load. :( {{ end }}
   {{ end }}
 

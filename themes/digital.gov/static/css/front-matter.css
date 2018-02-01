@@ -1,6 +1,6 @@
 
 .matter-container{
-  margin: 10px 0;
+  margin: 10px 0 50px 0;
 }
 
 .btn-group{
@@ -27,16 +27,16 @@
   border-right:1px #555 solid;
 }
 .btn-group .btn:hover{
-  background: #efefef;
+  background: #ccc;
   cursor: pointer;
 }
 .btn-group .selected{
-  background: #3F4FFF;
+  background: #2673DF;
   color:#fff;
   outline:none;
 }
 .btn-group .selected:hover{
-  background: #3F4FFF;
+  background: #2673DF;
   color:#fff;
 }
 
@@ -146,7 +146,7 @@
 .gcol2 #newfile {
   padding:10px 20px;
   font-weight: bold;
-  background: #3F4FFF;
+  background: #2673DF;
   color:#fff;
   display: block;
 }
