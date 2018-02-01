@@ -20,8 +20,10 @@ venue:
 
 ---
 
+We :heart: our volunteers.
+
 This month, we'll be talking about volunteering for help with plainlanguage in the government.
-If you're currently volunteering for PLAIN, or interested in volunteering to help with training, posting social media, or anything else, please join us. To volunteer, you have to be a federal employee. 
+If you're currently volunteering for PLAIN, or interested in volunteering to help with training, posting social media, or anything else, please join us.  _To volunteer, you have to be a federal employee._
 
 Here are some of the topics we'll be discussing:
 
@@ -32,7 +34,5 @@ Here are some of the topics we'll be discussing:
 - And more!
 
 This meeting will be in-person, but we'll have a conference bridge line setup for remote people to join in the discussion.
-
-&#9829;
 
 _The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/)._
