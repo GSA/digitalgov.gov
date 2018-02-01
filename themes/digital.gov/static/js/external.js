@@ -1,5 +1,10 @@
 jQuery(document).ready(function($) {
 
+var featured_height = $('.featured-video').height();
+var featured_hed = $('.featured-news .hed').height();
+var featured_foot = $('.featured-news .foot').height();
+console.log(featured_height - featured_hed - featured_foot);
+$('.featured-news .wrap').height(featured_height - featured_hed - featured_foot);
 
 
 $(".btn_events_past").click(function(e) {
