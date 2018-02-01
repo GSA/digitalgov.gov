@@ -1,7 +1,7 @@
 ---
 slug: february-plain-meeting
-title: 'February PLAIN Meeting'
-summary: 'This in-person meeting of the PLAIN Language Community of Practice will focus on how you can volunteer for PLAIN as a federal employee.'
+title: 'Plain Language Community Meeting'
+summary: 'This in-person meeting of the Plain Language Community of Practice will focus on volunteers.'
 event_type: in-person
 date: 2018-02-14 14:00:00 -0400
 end_date: 2018-02-14 15:30:00 -0400
@@ -20,7 +20,6 @@ venue:
 
 ---
 
-
 This month, we'll be talking about volunteering for help with plainlanguage in the government.
 If you're currently volunteering for PLAIN, or interested in volunteering to help with training, posting social media, or anything else, please join us. To volunteer, you have to be a federal employee. 
 
@@ -34,5 +33,4 @@ Here are some of the topics we'll be discussing:
 
 This meeting will be in-person, but we'll have a conference bridge line setup for remote people to join in the discussion.
 
-
-The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/).
+_The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/)._
