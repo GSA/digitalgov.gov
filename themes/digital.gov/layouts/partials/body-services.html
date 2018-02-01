@@ -29,8 +29,7 @@
           </div>
           {{ range first 20 (where .Site.Pages "Section" "posts") }}
           <div class="entry">
-            <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
-            <p>{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;more&nbsp;»</a></p>
+            <p><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"><strong>{{ .Title | markdownify }}</strong></a> — {{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;more&nbsp;»</a> <span class="date">{{ .Date.Format "Jan _2, 3:05 PM" }}</span></p>
           </div>
           {{ end }}
         </div>

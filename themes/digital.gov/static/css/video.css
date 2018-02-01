@@ -75,11 +75,14 @@ section .row .col{
 	border:none;
 }
 
-.featured-news .entry h3{
-	margin-bottom: 5px;
-	font-size: 16px;
+.featured-news .entry .date{
+	margin-top: 8px;
+	color:#777;
+	font-size: 13px;
+	line-height: 18px;
+	display: block;
 }
-.featured-news .entry h3 a{
+.featured-news .entry a{
 	color:#000;
 }
 .featured-news .entry p{
