@@ -8,7 +8,6 @@ end_date: 2018-02-14 15:30:00 -0400
 event_organizer: DigitalGov University
 host: PLAIN Language
 registration_url: https://www.eventbrite.com/e/february-plain-monthly-meeting-registration-42365715997
-youtube_id: 
 venue: 
   venue_name: U.S. General Services Administration
   room: 6026
@@ -21,18 +20,16 @@ venue:
 
 ---
 
-If you're currently volunteering for PLAIN, whether training, posting social media, or anything else, please come. 
-If you're interested in volunteering for PLAIN, please come. 
 
-This meeting will be focused in person, but we'll have a conference bridge line so people who are remote can still join in the discussion.
+This month, we'll be talking about volunteering for help with plainlanguage in the government.
+If you're currently volunteering for PLAIN, or interested in volunteering to help with training, posting social media, or anything else, please join us. To volunteer, you have to be a federal employee. 
 
-One thing: To volunteer, you have to be a federal employee. Sorry. We know many of you are eager to help us out, but according to our charter rules, we can only use feds.
-
-Be prepared to discuss what you'd like to do. Here are some ideas:
+Here are some of the topics we'll be discussing:
 
 - social media support
 - community management (posting articles to the list serv, prompting conversations)
 - helping update website using Github
 - monthly meeting coordinator (topics, space, speakers)
-And more!
+- And more!
 
+This meeting will be in-person, but we'll have a conference bridge line setup for remote people to join in the discussion.
