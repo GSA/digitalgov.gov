@@ -33,3 +33,6 @@ Here are some of the topics we'll be discussing:
 - And more!
 
 This meeting will be in-person, but we'll have a conference bridge line setup for remote people to join in the discussion.
+
+
+The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/).
