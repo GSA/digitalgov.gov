@@ -19,6 +19,9 @@ Add styles beneath this line that you want to be applied across your entire site
 	max-width: 250px;
 }
 
+.hidden{
+	display: none;
+}
 
 /* DESKTOP ONLY STYLES
 ---------------------------------------------------------------------------------
@@ -155,8 +158,4 @@ Add styles inside the media query below that you only want to be applied to the 
 	.event_date{
 		display: inline-block;
 	}
-}
-
-.video{
-	margin-bottom: 24px;
 }
