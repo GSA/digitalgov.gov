@@ -33,17 +33,12 @@ Knowledge Sharing: This listserv provides you with a platform to ask and answer 
 
 ### Key Resources
 
-Checklist of Requirements for Federal Websites and Digital Services
-https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/
+[Checklist of Requirements for Federal Websites and Digital Services](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/)
 
-Digital Project Resources
-https://www.digitalgov.gov/resources/
+[Digital Project Resources](https://www.digitalgov.gov/resources/)
 
-Paperwork Reduction Act Fast Track Process
-https://www.digitalgov.gov/resources/paperwork-reduction-act-fast-track-process/
+[Paperwork Reduction Act Fast Track Process](https://www.digitalgov.gov/resources/paperwork-reduction-act-fast-track-process/)
 
-plainlanguage.gov
-https://plainlanguage.gov/guidelines/
+[Plain Language Guidelines](https://plainlanguage.gov/guidelines/)
 
-U.S Web Design Standards
-https://standards.usa.gov/
+[U.S Web Design System](https://designsystem.digital.gov/)
