@@ -6,25 +6,37 @@
   <div class="container">
     <div class="row">
       <div class="col featured">
-      {{ range $i, $e := first 2 ($.Site.Data.featured_videos.featured) }}
-
-        {{ $c :=add $i 1 }}
-        <div class="entry">
-          <div class="youtube-player" data-id="{{ .uid }}"></div>
-          <h3 class="post-title"><a href="https://www.youtube.com/watch?v={{ .uid }}" title="{{ .title }}">{{ .title }}</a></h3>
+        <div class="hed">
+          <h4>Featured Video</h4>
+          <a href="#">See all ></a>
         </div>
 
-      {{ end }}
+        {{ range $i, $e := first 2 ($.Site.Data.featured_videos.featured) }}
+
+          {{ $c :=add $i 1 }}
+          <div class="entry">
+            <div class="youtube-player" data-id="{{ .uid }}"></div>
+            <h3 class="post-title"><a href="https://www.youtube.com/watch?v={{ .uid }}" title="{{ .title }}">{{ .title }}</a></h3>
+          </div>
+
+        {{ end }}
       </div>
       <div class="col featured-news ">
-        {{ range first 20 (where .Site.Pages "Section" "posts") }}
-        <div class="entry">
-          <h3 class="post-title"><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
-          <p class="catslide-excerpt">
-            {{ .Params.summary | truncate 140 | default .Summary | safeHTML | markdownify  }}
-          </p>
+        <div class="wrap">
+          <div class="hed">
+            <h4>Latest News</h4>
+            <a href="#">See all ></a>
+          </div>
+          {{ range first 20 (where .Site.Pages "Section" "posts") }}
+          <div class="entry">
+            <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
+            <p>{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;more&nbsp;»</a></p>
+          </div>
+          {{ end }}
         </div>
-        {{ end }}
+        <div class="foot">
+          <a href="#">See all news ></a>
+        </div>
       </div>
     </div>
   </div>
