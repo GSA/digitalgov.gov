@@ -29,10 +29,12 @@ Join the CX Community at our first 2018 meeting to learn about best practices, p
 
 We’ll discuss the following about CRM:
 
-- How best to articulate and measure the value
-- Using customer insight to drive engagement
-- Design and implementation
-- Change management and data governance plans
+- Strategically Linking CRM to CX to Drive Citizen/Customer Engagement
+- Using CRM Analytics to Improve Program Management and Demonstrate Value
+- CRM Cultural Readiness and Adoption (i.e., leadership sponsorship, social modeling, training, support)
+- CRM Governance and Project Management (i.e., centralized v. decentralized, levels of engagement, decision-making, reporting, issue escalation, center of excellence)
+- CRM Design, Implementation, and Change Management (i.e., risk management, agile development, iteration, pilots/trials, human centered design)
+- CRM and Enterprise Data Management / Architecture
 
 This is a great opportunity to network with other community members too!
 
