@@ -70,7 +70,7 @@ section .row .col{
 	width: 100%;
 	border-top: 1px #ccc solid;
 }
-.featured-news .entry:nth-of-type(2){
+.featured-news .wrap .entry:first-child{
 	padding-top: 0;
 	border:none;
 }
