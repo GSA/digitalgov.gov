@@ -41,11 +41,14 @@ section .row .col{
 	display: none;
 }
 
-.featured-news{
-}
 .featured-news .wrap{
-	height: 650px;
-	overflow: scroll;
+	overflow: auto;
+}
+.featured-news .wrap .entry{
+	display: none;
+}
+.featured-news .wrap .entry:nth-child(-n+3){
+	display: block;
 }
 .featured-news .foot{
 }
@@ -127,6 +130,13 @@ section .row .col{
 	.featured-news{
 		width: 275px;
 		float: left;
+	}
+	.featured-news .wrap{
+		height: 650px;
+		overflow: scroll;
+	}
+	.featured-news .wrap .entry{
+		display: block;
 	}
 }
 @media only screen and (min-width: 992px) {

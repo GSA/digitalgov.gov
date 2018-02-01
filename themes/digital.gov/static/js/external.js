@@ -6,6 +6,16 @@ var featured_foot = $('.featured-news .foot').height();
 console.log(featured_height - featured_hed - featured_foot);
 $('.featured-news .wrap').height(featured_height - featured_hed - featured_foot);
 
+$( window ).resize(function() {
+	var is_mobile = false;
+	if( $('.featured-news .wrap').css('overflow')=='auto') {
+	  is_mobile = true;
+	}
+	if (is_mobile == true) {
+		$('.featured-news .wrap').css('height', 'auto');
+	}
+});
+
 
 $(".btn_events_past").click(function(e) {
 	$(this).hide();
