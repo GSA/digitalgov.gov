@@ -1,5 +1,5 @@
 ---
-slug: federal-challenge-prize-community-practice-quarterly-meeting
+slug: federal-challenge-prize-community-practice-quarterly-meeting-february-2018
 title: 'Federal Challenge & Prize Community of Practice Quarterly Meeting'
 summary: 'This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions&#46;'
 featured_image:
@@ -13,7 +13,7 @@ host: Challenges & Prizes Community of Practice
 registration_url: https://www.eventbrite.com/e/federal-challenge-prize-community-of-practice-quarterly-meeting-registration-41463270759
 venue:
   venue_name: U.S. General Services Administration
-  room: 4150
+  room: 1459/1460
   address: 1800 F Street NW
   city: Washington
   state: D.C.
@@ -40,7 +40,7 @@ This quarterly meeting brings together federal employees from a range of agencie
   </tr>
   <tr>
     <td>9:10 a.m.</td>
-    <td><strong>Introductions and Program Updates</strong><ul><li>Kelly Oslon, GSA</li></ul></td>
+    <td><strong>Introductions and Program Updates</strong><ul><li>Kelly Olson, GSA</li></ul></td>
   </tr>
   <tr>
     <td>9:10 a.m.</td>
@@ -56,15 +56,15 @@ This quarterly meeting brings together federal employees from a range of agencie
   </tr>
   <tr>
     <td>10:10 a.m.</td>
-    <td><strong>Accelerating for Action: How Agencies Use this Industry Model</strong><ul><li>Moderator: Jack Bienko, Eisenhower Fellowship</li><li> Panelist: Sandeep Patel, Department of Health and Human Services</li><li>Panelist: Jennifer Garson, Department of Energy</li><li>Panelist: Nancy Merritt, National Institute of Standards & Technology </li> <li>Panelist: Jim Thompson, Department of State</li></ul></td>
+    <td><strong>Accelerating for Action: How Agencies Use this Industry Model</strong><ul><li>Moderator: Jack Bienko, Eisenhower Fellowship</li><li> Panelist: Sandeep Patel, Department of Health and Human Services</li><li>Panelist: Jennifer Garson, Department of Energy</li><li>Panelist: Nancy Merritt, National Institute of Standards & Technology </li> </ul></td>
   </tr>
   <tr>
     <td>11:00 a.m.</td>
-    <td><strong>Executive Update from the White House</strong><ul><li>Matt Lira, White House Office of American Innovation</li></ul></td>
+    <td><strong>Executive Update from the White House</strong><ul><li>Matt Lira, White House Office of American Innovation <i>(invited)</i></li></ul></td>
   </tr>
   <tr>
     <td>11:15 a.m.</td>
-    <td><strong>Helping Hands: Spotlight on Humanitarian Efforts</strong><ul><li>Doug Stropes, U.S. Agency for International Development</li><li> Edward Elliott,  U.S. Patent & Trademark Office</li></ul></td>
+    <td><strong>Helping Hands: Spotlight on Humanitarian Efforts</strong><ul><li>Doug Stropes, U.S. Agency for International Development <i>(invited)</i> </li><li> Edward Elliott,  U.S. Patent & Trademark Office</li></ul></td>
   </tr>
   <tr>
     <td>12:00p.m.</td>
