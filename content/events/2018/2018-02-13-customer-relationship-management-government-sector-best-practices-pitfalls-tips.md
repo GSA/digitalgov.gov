@@ -6,10 +6,10 @@ featured_image:
   uid:
   alt: ''
 event_type: mixed
-date: 2018-02-13 09:30:00 -0400
+date: 2018-02-13 10:00:00 -0400
 end_date: 2018-02-13 12:00:00 -0400
 event_organizer: DigitalGov University
-host: Customer Experience
+host: Customer Experience Community of Practice
 registration_url: https://www.eventbrite.com/e/customer-relationship-management-government-sector-best-practices-pitfalls-and-tips-registration-42687953819
 venue:
   venue_name: U.S. General Services Administration
