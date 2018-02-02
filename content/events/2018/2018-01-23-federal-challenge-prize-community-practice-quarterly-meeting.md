@@ -23,9 +23,7 @@ venue:
 
 ---
 
-
 This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.
-
 
 ## Agenda
 
@@ -70,9 +68,7 @@ This quarterly meeting brings together federal employees from a range of agencie
     <td>12:00p.m.</td>
     <td>Event concludes</td>
   </tr>
-
 </table>
-
 
 **At this meeting, attendees will:**
 
