@@ -21,15 +21,15 @@ tag:
   - ux
   - cx
 featured_image: 
-  uid: 
-  alt: 'This is a sample sequence of events journey map for a recently naturalized citizen seeking to travel abroad&#46;'
+  uid: travel-journey-mapping-processes-slide
+  alt: 'A sample sequence of events journey map for a recently naturalized citizen seeking to travel abroad&#46;'
 ---
 
 _An agency information sharing exercise to improve the customer experience, as related to the Office of Products and Programs' Information Exchange Project_
 
 Some people experience challenges navigating government services -- especially if they need to work with more than one agency. Based on this premise, we set out to find out how agencies could share information with one another to improve the customer experience.
 
-    IMAGE of people
+{{< img-right src="journey-mapping-exercise" caption="A team from each agency works on a journey map exercise at the board." alt="A team from each agency works on a journey map exercise at the board." >}}
 
 To narrow the scope of our research, we decided to focus on one specific task that touched multiple agencies. So we set out to understand and map the path of a newly naturalized citizen attempting to travel abroad.
 
@@ -72,7 +72,7 @@ But we identified some potential opportunities in step four:
 - Implement strategic fee structures to simplify and potentially reduce current fees
 - Align expiration dates between services
 
-    IMAGE of travel Journey Map slide
+{{< img-right src="travel-journey-mapping-processes-slide" caption="A sample sequence of events journey map for a recently naturalized citizen seeking to travel abroad." alt="This graphic shows a sample sequence of events journey map for a recently naturalized citizen seeking to travel abroad. Along the gray arrow path, the first two green circles represent the initial steps taken with USCIS; the blue circle represents next step taken with the Department of State; the red circle represents a possible third step taken with the Transportation Security Administration; and the three orange circles represent possible final steps taken with the Custom and Border Patrol Agency." >}}
 
 ## What’s Next
 
