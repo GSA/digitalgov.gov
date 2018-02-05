@@ -1,7 +1,7 @@
 ---
 slug: dap-learning-series-creating-your-own-campaign-url-builder
-title: 'DAP Learning Series&#58; Creating your own Campaign URL builder'
-summary: 'This online event will cover how to create a campaign URL in Google Analtyics and how to effectively implement&#46;'
+title: 'DAP Learning Series&#58; Creating Your Own Campaign URL builder'
+summary: 'This online event will cover how to create a campaign URL in Google Analtyics and how to effectively implement it&#46;'
 featured_image: 
   uid: 
   alt: ''
