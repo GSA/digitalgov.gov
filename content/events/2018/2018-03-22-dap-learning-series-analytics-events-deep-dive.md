@@ -21,9 +21,9 @@ In both our basic and advanced 3-hour classes, we discussed events in Google Ana
 You’ll learn: 
 
 - What is an event
-- What represents an event on your site?
+- What represents an event on your site
 - What events DAP tracks by default
-- What event category, action and label mean
+- What event category, action, and label mean
 - How to pull events in reporting using both standard and customized reporting
 
 ---
