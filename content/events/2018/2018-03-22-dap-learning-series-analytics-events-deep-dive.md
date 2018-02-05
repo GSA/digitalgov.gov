@@ -1,6 +1,6 @@
 ---
-slug: dap-learning-series-analytics-events-deep-dive
-title: 'DAP Learning Series: Analytics Events Deep Dive'
+slug: dap-learning-series-a-deep-dive-into-analytics-events
+title: 'DAP Learning Series: A Deep Dive into Analytics Events'
 summary: 'This online event will focus on events in Google Analytics'
 featured_image: 
   uid: 
@@ -9,14 +9,14 @@ event_type: online
 date: 2018-03-22 14:00:00 -0400
 end_date: 2018-03-22 15:00:00 -0400
 event_organizer: DigitalGov University
-host: 
+host: Digital Analytics Program
 registration_url: https://www.youtube.com/watch?v=GkAme6gCeDw
 youtube_id: GkAme6gCeDw
 ---
 
-_The DAP ([Digital Analytics Program](https://www.digitalgov.gov/services/dap/)) Learning Series online trainings are designed for DAP users to increase their skills and understanding of topics relevant to DAP’s implementation of Google Analytics_
+_The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._
 
-In both our [DAP 101](https://www.youtube.com/watch?v=YxNQNL8-kLo&t=7s) and [DAP 201](https://www.youtube.com/watch?v=WbCEAglfFsc&t=2s) classes we covered events in Google Analytics. In this online class, we’ll focus entirely on events.
+In both our basic and advanced 3-hour classes, we discussed events in Google Analytics. In this online class, we’ll focus entirely on events.
 
 You’ll learn: 
 
@@ -25,3 +25,14 @@ You’ll learn:
 - What events DAP tracks by default
 - What event category, action and label mean
 - How to pull events in reporting using both standard and customized reporting
+
+---
+
+_The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA._
+
+- [Learn more about DAP](https://www.digitalgov.gov/services/dap/)
+- [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
+- [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
+- [Contact the DAP team](mailto:dap@support.digitalgov.gov)
+
+---
