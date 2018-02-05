@@ -17,15 +17,14 @@ youtube_id: limXoQVPw2A
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._
 
 If you've taken the DAP basics course and are hungry for more, or if you feel like you've got the basics of Google Analytics down and want to expand your skill set, this training is for you!
-We're excited to offer a 3-hour follow-up to our popular [An Introduction to the Basics](https://www.digitalgov.gov/event/dap-learning-series-digital-analytics-program-101/)  course. We'll expand on the basics you've already learned, including but not limited to:
+We're excited to offer a 3-hour follow-up to our popular [An Introduction to the Basics](https://www.digitalgov.gov/event/dap-learning-series-digital-analytics-program-101/)  course. We'll expand on the basics you've already learned&mdash;including, but not limited to:
 
-
-- Advanced custom reports
-- Advanced custom segments
-- Getting search data
-- DAP optional event features
-- Optional demographics reports
-- The User Explorer feature
+- Advanced custom reports 
+- Advanced custom segments 
+- Getting search data 
+- DAP optional event features 
+- Optional demographics reports 
+- The User Explorer feature 
 - Version 3.1 improvements
 
 ---
