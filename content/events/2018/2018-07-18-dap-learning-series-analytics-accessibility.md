@@ -20,17 +20,17 @@ In DAP’s newest release (v4.0), we’ve added a custom dimension to let you kn
 
 You’ll learn: 
 
- - our new “Interaction Type” dimension and how to use it 
- - how to segment for users using keystrokes 
- - other accessibility considerations with Google Analytics 
+- our new “Interaction Type” dimension and how to use it 
+- how to segment for users using keystrokes 
+- other accessibility considerations with Google Analytics 
  
 ---
 
 _The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA._
 
- - [Learn more about DAP](https://www.digitalgov.gov/services/dap/)
- - [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
- - [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
- - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
+- [Learn more about DAP](https://www.digitalgov.gov/services/dap/) 
+- [Getting Started](https://github.com/digital-analytics-program/gov-wide-code) 
+- [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
+- [Contact the DAP team](mailto:dap@support.digitalgov.gov) 
 
 ---
