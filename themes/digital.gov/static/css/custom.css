@@ -106,7 +106,7 @@ Add styles inside the media query below that you only want to be applied to the 
 	display: block;
 }
 
-.btn{
+.event_actions .btn{
 	display: inline-block;
 	color: #fff !important;
 	padding:10px 16px;
@@ -121,7 +121,7 @@ Add styles inside the media query below that you only want to be applied to the 
 	border:3px solid #2673DF;
 	color:#2673DF !important;
 }
-.event_register{
+.event_actions .event_register{
 	background: #000;
 }
 
