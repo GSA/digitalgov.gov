@@ -3,12 +3,12 @@ slug: february-plain-meeting
 title: 'Plain Language Community Meeting'
 summary: 'This in-person meeting of the Plain Language Community of Practice will focus on volunteers.'
 event_type: in-person
-date: 2018-02-14 14:00:00 -0400
-end_date: 2018-02-14 15:30:00 -0400
+date: 2018-02-14 14:00:00 -0500
+end_date: 2018-02-14 15:30:00 -0500
 event_organizer: DigitalGov University
 host: PLAIN Language
 registration_url: https://www.eventbrite.com/e/february-plain-monthly-meeting-registration-42365715997
-venue: 
+venue:
   venue_name: U.S. General Services Administration
   room: 6026
   address: 1800 F Street NW
