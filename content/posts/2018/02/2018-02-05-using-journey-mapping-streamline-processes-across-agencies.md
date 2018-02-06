@@ -12,7 +12,6 @@ categories:
   - ux
 tag: 
   - content
-  - design
   - metrics
   - analytics
   - user-experience
