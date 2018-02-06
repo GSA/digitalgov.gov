@@ -38,6 +38,47 @@ We’ll discuss the following about CRM:
 
 This is a great opportunity to network with other community members too!
 
+**Agenda**
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Topic</th>
+  </tr>
+  <tr>
+    <td>10:00 a.m.</td>
+    <td>Welcome</td>
+  </tr>
+  <tr>
+    <td>10:05 a.m.</td>
+    <td><strong>Opening from GSA Chief Customer Officer</strong><ul><li>Anahita Reilly, GSA</li></ul></td>
+  </tr>
+  <tr>
+    <td>10:15 a.m.</td>
+    <td><strong>A CRM Story at FEMA: Starting Backwards</strong></td>
+  </tr>
+  <tr>
+    <td>10:30 a.m.</td>
+    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong></td>
+  </tr>
+  <tr>
+    <td>11:00 a.m.</td>
+    <td>Next Steps & Networking Break (virtual component concludes)</td>
+  </tr>
+  <tr>
+    <td>11:15 a.m.</td>
+    <td><strong>Breakout Session: Collaborative Conversations for a More Useful CRM</strong></td>
+  </tr>
+  <tr>
+    <td>11:50 a.m.</td>
+    <td><strong>Wrap Up/Next Steps</strong>
+  </tr>
+   <tr>
+    <td>12:00p.m.</td>
+    <td>Event concludes</td>
+  </tr>
+</table>
+
 **Event Audience:**
 
 Anyone with a desire to learn and discuss CRM in the government space with a .gov and .mil email address may register to attend in person or virtually.
