@@ -31,13 +31,13 @@
   				<div class="tribe-events-schedule tribe-clearfix">
             <h2>
               <span class="tribe-event-date-start">
-                {{ with .Date }}
+                {{ with .Params.date }}
                   {{ . | dateFormat "Monday, Jan 2, 2006" }}
                 {{ end }}
               </span><br/>
               <span class="tribe-event-time">
-                {{ with .Date }}
-                  {{ . | dateFormat "3:04 PM" }}
+                {{ with .Params.date }}
+                  {{ . | dateFormat "3:04 PM ET" }}
                 {{ end }} —
                 {{ with .Params.end_date }}
                   {{ . | dateFormat "3:04 PM ET" }}
@@ -144,8 +144,8 @@
 
   					</div><!-- .tribe-events-content -->
   					<div class="tribe-events-cal-links">
-              {{ $event_startDate := dateFormat "2006-01-02 03:04:05" (time .Params.date).UTC }}
-              {{ $event_endDate := dateFormat "2006-01-02 03:04:05" (time .Params.end_date).UTC }}
+              {{ $event_startDate := dateFormat "2006-01-02 15:04:05" (time .Params.date).UTC }}
+              {{ $event_endDate := dateFormat "2006-01-02 15:04:05" (time .Params.end_date).UTC }}
               {{ $event_title := .Title | markdownify }}
               {{ $event_description := .Summary | markdownify }}
               {{ $event_location := .Params.venue.venue_name }}

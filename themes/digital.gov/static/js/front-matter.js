@@ -78,7 +78,7 @@ jQuery(document).ready(function($) {
 
   // Combines date + time into a string that's ready for the front matter
   function matter_datetime(date, time){
-    var dt = date + ' ' + time + ':00 -0400';
+    var dt = date + ' ' + time + ':00 -0500';
     return dt;
   }
 
