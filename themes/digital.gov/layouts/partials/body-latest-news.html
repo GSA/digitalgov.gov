@@ -44,7 +44,7 @@
       <div id="featured-cat-thumbnav-8c61" class="myflexslider thumbnav 0 clearfix">
         <ul class="slides clearfix">
 
-          {{ range first 9 (where .Site.Pages "Section" "posts") }}
+          {{ range first 6 (where .Site.Pages "Section" "posts") }}
             {{ partial "news--item.html" . }}
           {{ end }}
 
