@@ -56,10 +56,6 @@ This is a great opportunity to network with other community members too!
   </tr>
   <tr>
     <td>10:15 a.m.</td>
-    <td><strong>A CRM Story at FEMA: Starting Backwards</strong><ul><li>Erin Downey and Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li></ul</td>
-  </tr>
-  <tr>
-    <td>10:30 a.m.</td>
     <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong><ul><li>Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li><li>Erin Downey, Federal Emergency Management Agency (FEMA)</li><li> Rebecca Jenkins, U.S. Department of State</li><li>Debra Delay, International Trade Administration</li><li>Kirsten Delashmutt, GSA</li></ul></td>
   </tr>
   <tr>
