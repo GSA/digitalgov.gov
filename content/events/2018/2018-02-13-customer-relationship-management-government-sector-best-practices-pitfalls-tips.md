@@ -59,7 +59,7 @@ This is a great opportunity to network with other community members too!
   </tr>
   <tr>
     <td>10:30 a.m.</td>
-    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong><ul><li>Moderators: Erin Downey and Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li><li> Panelist: Rebecca Jenkins, U.S. Department of State</li><li>Panelist: </li><li>Panelist: Debra Delay, International Trade Administration</li><li>Panelist: Debra Delay, International Trade Administration</li><li>Panelist: Kirsten Delashmutt, GSA</li></ul></td>
+    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong><ul><li>Moderators: Erin Downey and Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li><li> Panelist: Rebecca Jenkins, U.S. Department of State</li><li>Panelist: Debra Delay, International Trade Administration</li><li>Panelist: Kirsten Delashmutt, GSA</li></ul></td>
   </tr>
   <tr>
     <td>11:00 a.m.</td>
