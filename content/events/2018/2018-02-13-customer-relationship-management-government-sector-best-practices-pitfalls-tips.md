@@ -47,7 +47,7 @@ This is a great opportunity to network with other community members too!
   </tr>
   <tr>
     <td>10:00 a.m.</td>
-    <td>Welcome</td>
+    <td><strong>Welcome</strong></td>
   </tr>
   <tr>
     <td>10:05 a.m.</td>
@@ -55,27 +55,27 @@ This is a great opportunity to network with other community members too!
   </tr>
   <tr>
     <td>10:15 a.m.</td>
-    <td><strong>A CRM Story at FEMA: Starting Backwards</strong></td>
+    <td><strong>A CRM Story at FEMA: Starting Backwards</strong><ul><li>Erin Downey and Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li></ul</td>
   </tr>
   <tr>
     <td>10:30 a.m.</td>
-    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong></td>
+    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong><ul><li>Moderators: Erin Downey and Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li><li> Panelist: Rebecca Jenkins, U.S. Department of State</li><li>Panelist: </li><li>Panelist: Debra Delay, International Trade Administration</li><li>Panelist: Debra Delay, International Trade Administration</li><li>Panelist: Kirsten Delashmutt, GSA</li></ul></td>
   </tr>
   <tr>
     <td>11:00 a.m.</td>
-    <td>Next Steps & Networking Break (virtual component concludes)</td>
+    <td><strong>Next Steps & Networking Break (virtual component concludes)</strong><ul><li>Simchah Suveyke-Bogin, GSA</li></ul></td>
   </tr>
   <tr>
     <td>11:15 a.m.</td>
-    <td><strong>Breakout Session: Collaborative Conversations for a More Useful CRM</strong></td>
+    <td><strong>Breakout Session: Collaborative Conversations for a More Useful CRM</strong><ul><li>Facilitated by Megan Fella and Anne Egan, GSA</li></ul></td>
   </tr>
   <tr>
     <td>11:50 a.m.</td>
-    <td><strong>Wrap Up/Next Steps</strong>
+    <td><strong>Wrap Up/Next Steps</strong><ul><li>Simchah Suveyke-Bogin, GSA</li></ul>
   </tr>
    <tr>
     <td>12:00p.m.</td>
-    <td>Event concludes</td>
+    <td><strong>Event concludes</strong></td>
   </tr>
 </table>
 
