@@ -2,7 +2,7 @@
 slug: trends-on-tuesday-because-seeing-believingaugmented-reality-in-federal-government
 date: 2018-02-06 12:00:00 -0400
 title: 'Trends on Tuesday&#58; Because Seeing is Believing—Augmented Reality in the Federal Government'
-summary: 'Current trends and potential uses for augmented reality in the federal government&#46;'
+summary: 'Learn about some current trends and potential uses for augmented reality in the federal government.'
 authors: 
   - jada-jones
 categories: 
