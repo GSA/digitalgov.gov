@@ -51,7 +51,8 @@ This is a great opportunity to network with other community members too!
   </tr>
   <tr>
     <td>10:05 a.m.</td>
-    <td><strong>Opening from GSA Chief Customer Officer</strong><ul><li>Anahita Reilly, GSA</li></ul></td>
+    <td><strong>Opening Remarks</strong><ul><li>Anahita Reilly, GSA’s Chief Customer Officer
+</li></ul></td>
   </tr>
   <tr>
     <td>10:15 a.m.</td>
@@ -59,7 +60,7 @@ This is a great opportunity to network with other community members too!
   </tr>
   <tr>
     <td>10:30 a.m.</td>
-    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong><ul><li>Moderators: Erin Downey and Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li><li> Panelist: Rebecca Jenkins, U.S. Department of State</li><li>Panelist: Debra Delay, International Trade Administration</li><li>Panelist: Kirsten Delashmutt, GSA</li></ul></td>
+    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong><ul><li>Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li><li>Erin Downey, Federal Emergency Management Agency (FEMA)</li><li> Rebecca Jenkins, U.S. Department of State</li><li>Debra Delay, International Trade Administration</li><li>Kirsten Delashmutt, GSA</li></ul></td>
   </tr>
   <tr>
     <td>11:00 a.m.</td>
@@ -67,7 +68,7 @@ This is a great opportunity to network with other community members too!
   </tr>
   <tr>
     <td>11:15 a.m.</td>
-    <td><strong>Breakout Session: Collaborative Conversations for a More Useful CRM</strong><ul><li>Facilitated by Megan Fella and Anne Egan, GSA</li></ul></td>
+    <td><strong>Breakout Session: Collaborative Conversations for a More Useful CRM</strong><ul><li>Facilitated by Megan Fella,  GSA</li></ul></td>
   </tr>
   <tr>
     <td>11:50 a.m.</td>
