@@ -2,7 +2,7 @@
 slug: trends-on-tuesday-because-seeing-believingaugmented-reality-in-federal-government
 date: 2018-02-06 12:00:00 -0400
 title: 'Trends on Tuesday&#58; Because Seeing is Believing—Augmented Reality in the Federal Government'
-summary: 'Learn how augmented reality may be used to enhance cybersecurity practices and for Big Data analysis and visualization at federal agencies.'
+summary: 'Soon, augmented reality may be used for Big Data analysis and visualization and to enhance cybersecurity practices.'
 authors: 
   - jada-jones
 categories: 
