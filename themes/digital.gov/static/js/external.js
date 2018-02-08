@@ -20,7 +20,7 @@ $( window ).resize(function() {
 $(".btn_events_past").click(function(e) {
 	$(this).hide();
 	e.preventDefault();
-	$("#events_past").show();
+	$("#events-past").show();
 });
 
 // Transforms the Edit link on posts/pages/events to point to the GitHub file
