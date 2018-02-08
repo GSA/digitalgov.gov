@@ -235,6 +235,7 @@
 		display: inline;
 	}
 	.events-list .event-details .event-date{
+		font-size:16px;
 		display: inline-block;
 	}
 
