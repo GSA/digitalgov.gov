@@ -15,7 +15,6 @@
    {{ $.Scratch.Set "featImgTwitterSuffix" "_w800" }}
   {{ end }}
   {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
-  {{ $featImgTwitterURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgTwitterSuffix") $featImgExt }}
 {{/* End featured_image call */}}
 
 <!-- Logic for Page Types -->
@@ -63,7 +62,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Digital_Gov" />
   <meta name="twitter:creator" content="@Digital_Gov" />
-  {{ if $featImgTwitterURL }}<meta name="twitter:image:src" content="{{ $featImgTwitterURL }}">{{ end }}
+  {{ if $featImgURL }}<meta name="twitter:image:src" content="{{ $featImgURL }}">{{ end }}
   <meta property="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
   <meta property="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}">
   {{ "<!-- End of Twitter -->" | safeHTML }}
