@@ -198,6 +198,14 @@
 	max-width: 650px;
 	margin: 30px 0;
 }
+.event .event-content table{
+	color: #000;
+}
+.event .event-content table th,
+.event .event-content table td{
+	vertical-align: top;
+	text-align: left;
+}
 .event .event-content,
 .event .event-content h2,
 .event .event-content h3,
