@@ -1,0 +1,14 @@
+<div class="stage">
+  {{ if (isset .Params "youtube_id") }}
+  <div class="video-box">
+    <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
+  </div>
+  <div class="chat-box">
+    <iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=digitalgov.gov" width="200"></iframe>
+  </div>
+  {{ end }}
+  <p>
+    <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a>
+    <!-- <a href="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&is_popout=1" title="View Live Chat on YouTube"><strong>Live Chat</strong></a> -->
+  </p>
+</div>
