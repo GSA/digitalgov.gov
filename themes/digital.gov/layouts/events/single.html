@@ -11,7 +11,7 @@
   <div class="event-head">
     <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
     <h1 class="tribe-events-single-event-title">{{ .Title | markdownify }}</h1>
-    <p class="event-date">
+    <div class="event-details">
       {{ if eq .Params.event_type "online" }}
       <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
       {{ else if eq .Params.event_type "mixed" }}
@@ -19,18 +19,23 @@
       {{ else }}
       <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
       {{ end }}
-      {{ with .Date }}
-      {{ . | dateFormat "Monday, Jan 2, 2006" }}
-      {{ end }}
-      {{ with .Date }}
-      {{ . | dateFormat "3:04 PM" }}
-      {{ end }} —
-      {{ with .Params.end_date }}
-      {{ . | dateFormat "3:04 PM ET" }}
-      {{ end }}
-    </p>
+      <span class="event-date">
+        {{ with .Date }}
+        {{ . | dateFormat "Monday, January 02" }}
+        {{ end }}
+        <span>
+          {{ with .Date }}
+          {{ . | dateFormat "3:04 PM" }}
+          {{ end }} —
+          {{ with .Params.end_date }}
+          {{ . | dateFormat "3:04 PM ET" }}
+          {{ end }}
+        </span>
+      </span>
+    </div>
 
-    <p>
+
+    <div class="event-actions">
       <a class="btn event_register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
       {{ $event_startDate := dateFormat "2006-01-02 03:04:05" (time .Params.date).UTC }}
       {{ $event_endDate := dateFormat "2006-01-02 03:04:05" (time .Params.end_date).UTC }}
@@ -50,7 +55,8 @@
           <var class="atc_organizer_email">digitalgov@gsa.gov</var>
         </var>
       </span>
-    </p>
+    </div>
+
   </div>
 
   <!-- If event_type == "online" -->

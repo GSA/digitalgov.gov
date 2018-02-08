@@ -143,15 +143,26 @@
 	color: #000;
 	margin-bottom: 15px;
 }
+.event .event-head .event-details{
+	margin-bottom: 5px;
+}
 .event .event-head .event-date{
-	font-size: 22px;
+	font-size: 18px;
 	line-height: 24px;
+	display: block;
+	color: #000;
+}
+.event .event-head .event-date span{
+	display: block;
 }
 .event .event-head .event-type{
-	margin: 0 3px 0 0;
+	/* margin: 0 3px 0 0; */
 	font-size: 16px;
 	position: relative;
 	top: -2px;
+}
+.event .event-head .event-actions{
+	margin: 15px 0;
 }
 
 /* Live Video Stage */
@@ -187,6 +198,13 @@
 	/* Desktop styles go here */
 	.events-list .event-details .event-type{
 		margin-bottom:0;
+	}
+	.event .event-details .event-date{
+		font-size:20px;
+		display: inline-block;
+	}
+	.event .event-head .event-date span{
+		display: inline;
 	}
 	.events-list .event-details .event-date{
 		display: inline-block;
