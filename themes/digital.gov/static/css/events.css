@@ -143,6 +143,8 @@
 .event .event-head h1{
 	color: #000;
 	margin-bottom: 15px;
+	font-size: 28px;
+	line-height: 36px;
 }
 .event .event-head .event-details{
 	margin-bottom: 5px;
@@ -194,6 +196,7 @@
 
 .event .event-content{
 	max-width: 650px;
+	margin: 30px 0;
 }
 .event .event-content,
 .event .event-content h2,
@@ -217,6 +220,8 @@
 .event-location p{
 	margin: 0;
 }
+
+
 @media only screen and (min-width: 576px) {
 
 	.events-list .event-details .event-type{

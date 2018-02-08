@@ -10,7 +10,7 @@
 <div class="entry event">
   <div class="event-head">
     <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
-    <h1 class="tribe-events-single-event-title">{{ .Title | markdownify }}</h1>
+    <h1>{{ .Title | markdownify }}</h1>
     <div class="event-details">
       {{ if eq .Params.event_type "online" }}
       <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
