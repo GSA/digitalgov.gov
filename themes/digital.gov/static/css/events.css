@@ -184,11 +184,10 @@
 
 .chat-box{
 	margin-top: 12px;
-	background: green;
 	width: 100%;
 	display: inline-block;
 	vertical-align:top;
-	display: none;
+	/* display: none; */
 }
 .stage p{
 	margin: 0;
