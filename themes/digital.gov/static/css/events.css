@@ -145,12 +145,13 @@
 }
 .event .event-head .event-date{
 	font-size: 22px;
-	color: #000;
+	line-height: 24px;
 }
 .event .event-head .event-type{
 	margin: 0 3px 0 0;
-	font-size: 18px;
-	line-height: 27px;
+	font-size: 16px;
+	position: relative;
+	top: -2px;
 }
 
 /* Live Video Stage */
