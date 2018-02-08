@@ -7,183 +7,79 @@
 
 {{ partial "event-venue--inPerson.html" . }}
 
-  <a href="{{ "events/" | absURL }}"> &laquo; All Events </a>
-  <h1 class="tribe-events-single-event-title">{{ .Title | markdownify }} xxx</h1>
-  <h2>
-    {{ with .Date }}
-    {{ . | dateFormat "Monday, Jan 2, 2006" }}
-    {{ end }}
-    {{ with .Date }}
-    {{ . | dateFormat "3:04 PM" }}
-    {{ end }} —
-    {{ with .Params.end_date }}
-    {{ . | dateFormat "3:04 PM ET" }}
-    {{ end }}
-  </h2>
+<div class="entry event">
+  <div class="event-head">
+    <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
+    <h1 class="tribe-events-single-event-title">{{ .Title | markdownify }}</h1>
+    <p class="event-date">
+      {{ if eq .Params.event_type "online" }}
+      <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
+      {{ else if eq .Params.event_type "mixed" }}
+      <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-person & Online</a>
+      {{ else }}
+      <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
+      {{ end }}
+      {{ with .Date }}
+      {{ . | dateFormat "Monday, Jan 2, 2006" }}
+      {{ end }}
+      {{ with .Date }}
+      {{ . | dateFormat "3:04 PM" }}
+      {{ end }} —
+      {{ with .Params.end_date }}
+      {{ . | dateFormat "3:04 PM ET" }}
+      {{ end }}
+    </p>
 
-  <p>
-    <a class="btn btn-register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
-  </p>
+    <p>
+      <a class="btn event_register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
+      {{ $event_startDate := dateFormat "2006-01-02 03:04:05" (time .Params.date).UTC }}
+      {{ $event_endDate := dateFormat "2006-01-02 03:04:05" (time .Params.end_date).UTC }}
+      {{ $event_title := .Title | markdownify }}
+      {{ $event_description := .Summary | markdownify }}
+      {{ $event_location := .Params.venue.venue_name }}
+
+      <span class="addtocalendar btn">
+        <var class="atc_event">
+          <var class="atc_date_start">{{ $event_startDate }}</var>
+          <var class="atc_date_end">{{ $event_endDate }}</var>
+          <var class="atc_timezone">UTC</var>
+          <var class="atc_title">{{ $event_title }}</var>
+          <var class="atc_description">{{ $event_description }}</var>
+          <var class="atc_location">{{ $event_location }}</var>
+          <var class="atc_organizer">DigitalGov</var>
+          <var class="atc_organizer_email">digitalgov@gsa.gov</var>
+        </var>
+      </span>
+    </p>
+  </div>
 
   <!-- If event_type == "online" -->
   {{ if eq .Params.event_type "online" }}
-    {{ if (isset .Params "youtube_id") }}
-      <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
-      <p>
-        <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a> |
-        <a href="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&is_popout=1" title="View Live Chat on YouTube"><strong>Live Chat</strong></a>
-      </p><hr/>
-    {{ end }}
+
+    {{ partial "event-stage.html" . }}
 
   <!-- else if "mixed" -->
   {{ else if eq .Params.event_type "mixed" }}
+
     {{ if (isset .Params "youtube_id") }}
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allowfullscreen></iframe>
-      <p>
-        <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a> |
-        <a href="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&is_popout=1" title="View Live Chat on YouTube"><strong>Live Chat</strong></a>
-      </p><hr/>
+      {{ partial "event-stage.html" . }}
     {{ end }}
 
-    <p><strong>Location</strong><br />
-      {{ with .Params.venue.venue_name }}{{ . }}<br />{{ end }}
-      {{ .Params.venue.address }}<br />
-      {{ .Params.venue.city }}, {{ .Params.venue.state }}<br />
-      {{ with .Params.venue.zip }}{{ . }} {{ end }}{{ .Params.venue.country }}<br />
-      {{ with .Params.venue.room }}Room: {{ . }}<br />{{ end }}
-      Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a>
-    </p><hr/>
+    {{ partial "event-location.html" . }}
 
   <!-- else if "in-person" -->
   {{ else }}
-  	<p><strong>Location</strong><br />
-      {{ .Params.venue.venue_name }}<br />
-      {{ .Params.venue.address }}<br />
-      {{ .Params.venue.city }}, {{ .Params.venue.state }} {{ .Params.venue.zip }}<br />
-      Room: {{ .Params.venue.room }}<br />
-      Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a>
-    </p><hr/>
+
+  	{{ partial "event-location.html" . }}
+
   {{ end }}
 
-  {{ .Content }}
-
-  {{ $event_startDate := dateFormat "2006-01-02 03:04:05" (time .Params.date).UTC }}
-  {{ $event_endDate := dateFormat "2006-01-02 03:04:05" (time .Params.end_date).UTC }}
-  {{ $event_title := .Title | markdownify }}
-  {{ $event_description := .Summary | markdownify }}
-  {{ $event_location := .Params.venue.venue_name }}
-
-  <span class="addtocalendar atc-style-blue">
-    <var class="atc_event">
-      <var class="atc_date_start">{{ $event_startDate }}</var>
-      <var class="atc_date_end">{{ $event_endDate }}</var>
-      <var class="atc_timezone">UTC</var>
-      <var class="atc_title">{{ $event_title }}</var>
-      <var class="atc_description">{{ $event_description }}</var>
-      <var class="atc_location">{{ $event_location }}</var>
-      <var class="atc_organizer">DigitalGov</var>
-      <var class="atc_organizer_email">digitalgov@gsa.gov</var>
-    </var>
-  </span>
-
-  <h3>Details</h3>
-  <dl>
-  	<dt> Date: </dt>
-  	<dd>
-  		<abbr class="tribe-events-abbr tribe-events-start-date published dtstart" title="{{ with .Date }}{{ . | dateFormat "2006-01-02" }}{{ end }}"> {{ with .Date }}{{ . | dateFormat "January 2" }}{{ end }}</abbr>
-  	</dd>
-
-  	<dt> Time: </dt>
-  	<dd>
-  		<div class="tribe-events-abbr tribe-events-start-time published dtstart" title="{{ with .Date }}{{ . | dateFormat "2006-01-02" }}{{ end }}">
-        {{ with .Date }}{{ . | dateFormat "3:04 PM" }}{{ end }} - {{ with .Params.end_date }}{{ . | dateFormat "3:04 PM" }}{{ end }}
-      </div>
-  	</dd>
-
-    {{/*- don't show event cats and tags -*/}}
-    {{/*-
-    {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
-    {{ else }}
-      <dt>Event Categories:</dt>
-      <dd class="tribe-events-event-categories">
-        {{ $_cats := .Params.categories }}
-        {{ $length := $_cats | len }}
-        {{ range $i, $e := $_cats }}
-          {{ $slug := $e | urlize }}
-          {{ $cat := index $.Site.Data.categories $slug }}
-          {{ $link := printf "categories/%s/" $slug }}
-          {{ if lt (add $i 1) $length }}
-            <a href="{{ $link | absURL }}" rel="tag">{{ $cat.display_name }}</a>,
-          {{ else }}
-            <a href="{{ $link | absURL }}" rel="tag">{{ $cat.display_name }}</a>
-          {{ end }}
-        {{ end }}
-      </dd>
-    {{ end }}
-
-    {{ $sitetags := $.Site.Data.tag }}
-    {{ if (not (isset .Params "tag")) | or (eq .Params.tag "") }}
-    {{ else }}
-      <dt>Event Tags:</dt>
-      <dd class="tribe-event-tags">
-        {{ $_taxonomy := .Params.tag }}
-        {{ $length := $_taxonomy | len }}
-        {{ range $i, $e := $_taxonomy }}
-          {{ $slug := $e | urlize }}
-          {{ $tag := index $sitetags $slug }}
-          {{ $link := printf "tag/%s/" $slug }}
-          {{ if lt (add $i 1) $length }}
-            <a href="{{ $link | absURL }}" rel="tag">{{ $tag.display_name }}</a>,
-          {{ else }}
-            <a href="{{ $link | absURL }}" rel="tag">{{ $tag.display_name }}</a>
-          {{ end }}
-        {{ end }}
-      </dd>
-    {{ end }}
-    -*/}}
-  </dl>
-
-  <h3 class="tribe-events-single-section-title">Organizer</h3>
-  {{ .Params.event_organizer }}
-
-  {{ if eq .Params.event_type "online" }}
-  {{/*- Skip this section -*/}}
-  {{ else }}
-  {{ end }}
-
-  {{/* TODO: Change this to reference the venue_id of the record, not the filename. dunno why I can't make this work. */}}
-  {{ if .Params.relationships.venue_id }}
-    {{ if index $.Site.Data.venues .Params.relationships.venue_id }}
-      {{ $.Scratch.Set "venue" (index $.Site.Data.venues  .Params.relationships.venue_id) }}
-    {{ else }}
-      {{ $.Scratch.Set "venue" .Params.venue }}
-    {{ end }}
-  {{ else }}
-    {{ $.Scratch.Set "venue" .Params.venue }}
-  {{ end }}
-  {{ $venue := $.Scratch.Get "venue" }}
-  	<h3 class="tribe-events-single-section-title"> Venue </h3>
-  	<dl>
-  		<dd class="tribe-venue">{{ $venue.venue_name }} </dd>
-
-      {{/* TODO: This is pretty sloppy code */}}
-  		<dd class="tribe-venue-location">
-  			<address class="tribe-events-address">
-  				<span class="tribe-address">
-            <span class="tribe-street-address">{{ $venue.address }}</span>
-        		<br>
-        		<span class="tribe-locality">{{ $venue.city }}</span><span class="tribe-delimiter">,</span>
-            {{/* TODO: String lookup for full state name */}}
-          	<abbr class="tribe-region tribe-events-abbr" title="{{/* full-state-name */}}">{{ $venue.state }}</abbr>
-          	<span class="tribe-postal-code">{{ $venue.zip }}</span><br>
-            <a href="{{ $venue.map }}">View map</a>
-          </span>
-
-        </address>
-  		</dd><!-- .tribe-venue-location -->
-  	</dl>
+  <div class="event-content">
+    {{ .Content }}
+  </div>
 
   <!-- Edit file on GitHub -->
   <a target="_blank" class="edit_file" href="https://github.com/GSA/digitalgov.gov" data-filepath="{{.File.Path}}" title="Edit in GitHub"><img src="{{ "img/GitHub-Mark-32px.png" | absURL }}" alt="GitHub Logo"><span>Edit</span></a>
 
+</div>
 {{ end }}
