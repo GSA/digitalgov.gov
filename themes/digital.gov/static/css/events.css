@@ -48,7 +48,7 @@
 	color: #000 !important;
 }
 .events-list .event-head{
-	border-bottom: 1px #000 solid;
+	border-bottom: 1px #9DA2A6 solid;
 }
 .events-list .event-details{
 	margin-top:0;
@@ -104,7 +104,7 @@
 
 #events-past{
 	margin-top: 80px;
-	border-top: 1px #000 solid;
+	border-top: 1px #9DA2A6 solid;
 	padding-top: 22px;
 }
 #events-past h2{
@@ -133,7 +133,7 @@
 .event .event-head{
 	margin-bottom: 15px;
 	padding: 15px 0;
-	border-bottom: 1px #000 solid;
+	border-bottom: 1px #9DA2A6 solid;
 }
 .event .event-head .breadcrumb{
 	margin-bottom: 12px;
@@ -171,7 +171,7 @@
 .stage{
 	margin-bottom: 30px;
 	padding: 10px 0 15px 0;
-	border-bottom: 1px #000 solid;
+	border-bottom: 1px #9DA2A6 solid;
 }
 
 .video-box{
@@ -202,9 +202,21 @@
 .event .event-content h5{
 	color: #000;
 }
-
-
-
+.event .event-location a,
+.event .event-content a{
+	color: #2673DF;
+}
+.event-location{
+	margin-bottom: 20px;
+	padding: 20px 25px;
+	border-radius: 2px;
+	background: #efefef;
+	max-width: 600px;
+	color: #000;
+}
+.event-location p{
+	margin: 0;
+}
 @media only screen and (min-width: 576px) {
 
 	.events-list .event-details .event-type{
