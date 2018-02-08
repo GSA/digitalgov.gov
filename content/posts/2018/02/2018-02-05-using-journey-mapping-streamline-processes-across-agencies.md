@@ -77,4 +77,8 @@ But we identified some potential opportunities in step four:
 
 Based on our findings, agencies identified their main priorities. Right now, we’re in the process of working to find solutions that would streamline the process of applying for a passport for a newly naturalized citizen. We’ll share updates as we continue this work.
 
+---
+
 _Laura Godfrey is the Agency Partnerships and Multilingual Strategies Lead for USAGov._
+
+_This post was originally published on the [USA.gov blog](https://blog.usa.gov/using-journey-mapping-to-streamline-processes-across-agencies)._
