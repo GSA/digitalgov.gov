@@ -185,9 +185,10 @@
 .chat-box{
 	margin-top: 12px;
 	width: 100%;
+	height: 365px;
 	display: inline-block;
 	vertical-align:top;
-	/* display: none; */
+	display: none;
 }
 .stage p{
 	margin: 0;
