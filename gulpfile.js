@@ -104,7 +104,7 @@ function get_image_sq(path){
 }
 
 gulp.task("img-variants", ["clean-inbox"], function (done) {
-  return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg}")
+  return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}")
     // Create responsive variants
     .pipe(tap(function (file) {
       var uid = get_image_uid(file.path);

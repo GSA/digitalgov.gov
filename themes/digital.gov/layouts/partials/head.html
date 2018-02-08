@@ -77,6 +77,17 @@
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
 
+
+  {{ if $.Params.redirectto }}
+  {{ "<!-- Redirect =============== -->" | safeHTML }}
+  <meta http-equiv="refresh" content="0; url=$.Params.redirectto">
+  <script type="text/javascript">
+    window.location.href = "{{ $.Params.redirectto }}"
+  </script>
+  {{ end }}
+
+
+
   {{ "<!-- CSS -->" | safeHTML }}
   <link rel='stylesheet' href='{{ "css/widget.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/dashicons.min.css" | absURL }}' type='text/css' media='all' />

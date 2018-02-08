@@ -248,7 +248,7 @@ digital-acquisitions-accelerator:
   display_name: "Digital Acquisitions Accelerator"
 digital-analytics-program:
   display_name: "Digital Analytics Program"
-digital-audio/video-community:
+digital-audio-video-community:
   display_name: "Digital Audio/Video Community"
 digital-records:
   display_name: "Digital Records"
@@ -1094,7 +1094,7 @@ video-production-pros-community:
   display_name: "Video Production Pros Community"
 virtual-reality:
   display_name: "Virtual Reality"
-virtual/augmented-reality-community:
+virtual-augmented-reality-community:
   display_name: "Virtual/Augmented Reality Community"
 voice:
   display_name: "Voice"
