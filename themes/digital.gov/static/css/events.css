@@ -132,6 +132,7 @@
 }
 .event .event-head{
 	margin-bottom: 15px;
+	padding: 15px 0;
 	border-bottom: 1px #000 solid;
 }
 .event .event-head .breadcrumb{
@@ -147,6 +148,7 @@
 	margin-bottom: 5px;
 }
 .event .event-head .event-date{
+	margin-bottom: 10px;
 	font-size: 18px;
 	line-height: 24px;
 	display: block;
@@ -162,7 +164,7 @@
 	top: -2px;
 }
 .event .event-head .event-actions{
-	margin: 15px 0;
+	margin:  0;
 }
 
 /* Live Video Stage */
@@ -173,17 +175,18 @@
 }
 
 .video-box{
-	width: 550px;
+	width: 100%;
 	display: inline-block;
 	vertical-align:top;
 }
 
 .chat-box{
-	margin-left: 5px;
+	margin-top: 12px;
 	background: green;
-	width: 400px;
+	width: 100%;
 	display: inline-block;
 	vertical-align:top;
+	display: none;
 }
 .stage p{
 	margin: 0;
@@ -192,10 +195,18 @@
 .event .event-content{
 	max-width: 650px;
 }
+.event .event-content,
+.event .event-content h2,
+.event .event-content h3,
+.event .event-content h4,
+.event .event-content h5{
+	color: #000;
+}
 
 
-@media only screen and (min-width: 475px) {
-	/* Desktop styles go here */
+
+@media only screen and (min-width: 576px) {
+
 	.events-list .event-details .event-type{
 		margin-bottom:0;
 	}
@@ -209,4 +220,21 @@
 	.events-list .event-details .event-date{
 		display: inline-block;
 	}
+
+}
+@media only screen and (min-width: 768px) {
+
+}
+@media only screen and (min-width: 992px) {
+	.video-box{
+		width: 650px;
+	}
+	.chat-box{
+		margin-left: 5px;
+		margin-top: 0;
+		width: 300px;
+	}
+}
+@media only screen and (min-width: 1024px) {
+
 }
