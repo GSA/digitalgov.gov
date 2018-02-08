@@ -28,7 +28,7 @@
   <!-- If event_type == "online" -->
   {{ if eq .Params.event_type "online" }}
     {{ if (isset .Params "youtube_id") }}
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allowfullscreen></iframe>
+      <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
       <p>
         <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a> |
         <a href="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&is_popout=1" title="View Live Chat on YouTube"><strong>Live Chat</strong></a>
