@@ -6,8 +6,8 @@ featured_image:
   uid: featued-301-x-212-fedramp-2017-5th-anniversary-logo
   alt: 'FedRAMP Logo'
 event_type: online
-date: 2018-02-14 12:00:00 -0400
-end_date: 2018-02-14 13:00:00 -0400
+date: 2018-02-14 12:00:00 -0500
+end_date: 2018-02-14 13:00:00 -0500
 event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/how-fedramp-supports-agencies-a-resource-overview-registration-41287416775

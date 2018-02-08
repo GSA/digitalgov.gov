@@ -150,7 +150,7 @@
   {{/*- Skip this section -*/}}
   {{ else }}
   {{ end }}
-  
+
   {{/* TODO: Change this to reference the venue_id of the record, not the filename. dunno why I can't make this work. */}}
   {{ if .Params.relationships.venue_id }}
     {{ if index $.Site.Data.venues .Params.relationships.venue_id }}
@@ -185,7 +185,5 @@
 
   <!-- Edit file on GitHub -->
   <a target="_blank" class="edit_file" href="https://github.com/GSA/digitalgov.gov" data-filepath="{{.File.Path}}" title="Edit in GitHub"><img src="{{ "img/GitHub-Mark-32px.png" | absURL }}" alt="GitHub Logo"><span>Edit</span></a>
-
-
 
 {{ end }}

@@ -2,12 +2,12 @@
 slug: dap-learning-series-digital-analytics-program-101
 title: 'DAP Learning Series: An Introduction to the Basics'
 summary: 'This online class will provide an introductory training on how to use Digital Analytics Program (DAP) google analytics data.'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
 event_type: online
-date: 2018-02-15 13:00:00 -0400
-end_date: 2018-02-15 16:00:00 -0400
+date: 2018-02-15 13:00:00 -0500
+end_date: 2018-02-15 16:00:00 -0500
 event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-digital-analytics-program-101-registration-42540102592
@@ -19,9 +19,9 @@ _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP)
 
 This half-day, online class will provide an introductory training on how to use DAP's Google Analytics data.
 
-**Concepts we'll cover**: 
+**Concepts we'll cover**:
 
-- basic terms and concepts 
+- basic terms and concepts
 - common web metrics: what they mean and when to use them
 - how to create and deliver reports
 - analytics and sampling

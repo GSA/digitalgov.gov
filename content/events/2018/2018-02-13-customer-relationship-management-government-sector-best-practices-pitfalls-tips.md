@@ -6,8 +6,8 @@ featured_image:
   uid:
   alt: ''
 event_type: mixed
-date: 2018-02-13 10:00:00 -0400
-end_date: 2018-02-13 12:00:00 -0400
+date: 2018-02-13 10:00:00 -0500
+end_date: 2018-02-13 12:00:00 -0500
 event_organizer: DigitalGov University
 host: Customer Experience Community of Practice
 registration_url: https://www.eventbrite.com/e/customer-relationship-management-government-sector-best-practices-pitfalls-and-tips-registration-42687953819
@@ -37,6 +37,44 @@ We’ll discuss the following about CRM:
 - CRM and Enterprise Data Management / Architecture
 
 This is a great opportunity to network with other community members too!
+
+**Agenda**
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Topic</th>
+  </tr>
+  <tr>
+    <td>10:00 a.m.</td>
+    <td><strong>Welcome</strong></td>
+  </tr>
+  <tr>
+    <td>10:05 a.m.</td>
+    <td><strong>Opening Remarks</strong><ul><li>Anahita Reilly, GSA’s Chief Customer Officer
+</li></ul></td>
+  </tr>
+  <tr>
+    <td>10:15 a.m.</td>
+    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong><ul><li>Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li><li>Erin Downey, Federal Emergency Management Agency (FEMA)</li><li> Rebecca Jenkins, U.S. Department of State</li><li>Debra Delay, International Trade Administration</li><li>Kirsten Delashmutt, GSA</li></ul></td>
+  </tr>
+  <tr>
+    <td>11:00 a.m.</td>
+    <td><strong>Next Steps & Networking Break (virtual component concludes)</strong><ul><li>Simchah Suveyke-Bogin, GSA</li></ul></td>
+  </tr>
+  <tr>
+    <td>11:15 a.m.</td>
+    <td><strong>Breakout Session: Collaborative Conversations for a More Useful CRM</strong><ul><li>Facilitated by Megan Fella,  GSA</li></ul></td>
+  </tr>
+  <tr>
+    <td>11:50 a.m.</td>
+    <td><strong>Wrap Up/Next Steps</strong><ul><li>Simchah Suveyke-Bogin, GSA</li></ul>
+  </tr>
+   <tr>
+    <td>12:00p.m.</td>
+    <td><strong>Event concludes</strong></td>
+  </tr>
+</table>
 
 **Event Audience:**
 

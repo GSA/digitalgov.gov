@@ -783,3 +783,11 @@ p.tribe-events-widget-link {
 .auth-bio a.subicon {
   background-color: #0c555d;
 }
+
+#tribe-events-pg-template .tribe-events-content ol li, #tribe-events-pg-template .tribe-events-content ul li, .tribe-events-after-html ol li, .tribe-events-after-html ul li, .tribe-events-before-html ol li, .tribe-events-before-html ul li {
+  margin: 0 0 .5em;
+}
+
+.entry ul, .entry ol {
+  margin-top: .5em;
+}
