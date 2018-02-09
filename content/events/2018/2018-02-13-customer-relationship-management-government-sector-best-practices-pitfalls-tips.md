@@ -76,6 +76,6 @@ This is a great opportunity to network with other community members too!
   </tr>
 </table>
 
-## Event Audience:
+## Event Audience
 
 Anyone with a desire to learn and discuss CRM in the government space with a .gov and .mil email address may register to attend in person or virtually.
