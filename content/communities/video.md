@@ -6,6 +6,7 @@ title: 'Video Production Pros Community of Practice'
 summary: 'Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government.'
 aliases:
   - /communities/video-production-pros-community-of-practice/
+  - /communities/digital-audio-video-community-of-practice/
 ---
 
 
