@@ -23,7 +23,7 @@ venue:
 
 ---
 
-## About the Event
+## About the Event 
 
 Join the CX Community at our first 2018 meeting to learn about best practices, pitfalls and tips in creating your agency Customer Relationship Management (CRM) program.
 
@@ -38,7 +38,7 @@ We’ll discuss the following about CRM:
 
 This is a great opportunity to network with other community members too!
 
-**Agenda**
+### Agenda 
 
 <table>
   <tr>
@@ -76,6 +76,6 @@ This is a great opportunity to network with other community members too!
   </tr>
 </table>
 
-**Event Audience:**
+## Event Audience:
 
 Anyone with a desire to learn and discuss CRM in the government space with a .gov and .mil email address may register to attend in person or virtually.
