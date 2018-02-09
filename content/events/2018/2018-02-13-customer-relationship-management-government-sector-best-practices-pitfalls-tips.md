@@ -23,7 +23,7 @@ venue:
 
 ---
 
-## About the Event
+## About the Event 
 
 Join the CX Community at our first 2018 meeting to learn about best practices, pitfalls and tips in creating your agency Customer Relationship Management (CRM) program.
 
@@ -38,7 +38,7 @@ We’ll discuss the following about CRM:
 
 This is a great opportunity to network with other community members too!
 
-**Agenda**
+### Agenda 
 
 <table>
   <tr>
@@ -56,7 +56,7 @@ This is a great opportunity to network with other community members too!
   </tr>
   <tr>
     <td>10:15 a.m.</td>
-    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong><ul><li>Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li><li> Rebecca Jenkins, U.S. Department of State</li><li>Debra Delay, International Trade Administration</li><li>Kirsten Delashmutt, GSA</li></ul></td>
+    <td><strong>Panel Discussion: Different Perspectives from Varying Levels of CRM Adoption</strong><ul><li>Moderators: Anne Egan and Megan Fella,  GSA </li> <li>Panelist: Chelsea Dangona, Federal Emergency Management Agency (FEMA)</li><li>Panelist: Rebecca Jenkins, U.S. Department of State</li><li>Panelist: Debra Delay, International Trade Administration</li><li>Panelist: Kirsten Delashmutt, GSA</li></ul></td>
   </tr>
   <tr>
     <td>11:00 a.m.</td>
@@ -64,7 +64,7 @@ This is a great opportunity to network with other community members too!
   </tr>
   <tr>
     <td>11:15 a.m.</td>
-    <td><strong>Breakout Session: Collaborative Conversations for a More Useful CRM</strong><ul><li>Facilitated by Megan Fella,  GSA</li></ul></td>
+    <td><strong>Breakout Session: Collaborative Conversations for a More Useful CRM</strong></td>
   </tr>
   <tr>
     <td>11:50 a.m.</td>
@@ -76,6 +76,6 @@ This is a great opportunity to network with other community members too!
   </tr>
 </table>
 
-**Event Audience:**
+## Event Audience
 
 Anyone with a desire to learn and discuss CRM in the government space with a .gov and .mil email address may register to attend in person or virtually.
