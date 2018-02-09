@@ -7,6 +7,7 @@ authors:
   - rflagg
 aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
+  - /resources/checklist/
 ---
 
 You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations.
