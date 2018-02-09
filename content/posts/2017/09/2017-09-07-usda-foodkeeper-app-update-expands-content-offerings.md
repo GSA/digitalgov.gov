@@ -20,6 +20,8 @@ tag:
   - mobile apps
   - multilingual
   - USDA
+aliases:
+  - /2017/09/07/usdas-foodkeeper-app-update-features-food-safety-recall-information/
 ---
 
 > _The USDA&#8217;s multilingual FoodKeeper app has been updated to include three options for receiving food recall updates and expands storage timelines to over 500 products._
