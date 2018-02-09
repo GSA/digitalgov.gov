@@ -5,6 +5,8 @@ title: Checklist of Requirements for Federal Websites and Digital Services
 summary: 'You should regularly review your agency&rsquo;s websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations. Overarching Policies These high-level policies cover basic requirements for all digital products and services. Digital Government Strategy (May 2012) OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services (PDF,'
 authors:
   - rflagg
+aliases:
+  - /resources/dot-gov-domain-freeze-and-waivers/
 ---
 
 You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations.
