@@ -9,7 +9,7 @@ aliases:
 
 We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://youtube.com/digitalgov). Trainings are open to anyone working in the government or for a government agency.
 
-[Fill out our form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdiVKVO9g9PVKdifYwJ76O8zUxg7YTycNodDxN4FnbHiG9Drw/viewform) to request an online or in-person training or event. If you have any questions, please [send us an email](mailto:DigitalGovU@gsa.gov).
+[Fill out our form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdiVKVO9g9PVKdifYwJ76O8zUxg7YTycNodDxN4FnbHiG9Drw/viewform) to request an online or in-person training or event. If you have any questions, please [send us an email](mailto:digitalgovu@gsa.gov).
 
 <hr style="border: none" />
 
