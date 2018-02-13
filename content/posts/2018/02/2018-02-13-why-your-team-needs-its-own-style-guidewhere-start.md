@@ -16,11 +16,14 @@ tag:
   - design
   - accessibility
 featured_image: 
-  uid: woman-touching-the-virtual-future-interface
-  alt: 'featured'
+  uid: wds-home-new-2x
+  alt: 'US Web Design System logo'
 ---
 
 My team is about to launch our first style guide and now that we have gone through the process and created this valuable resource, I can’t imagine creating another app or website without it. Here’s why your team needs a style guide and lessons learned from our experience. 
+
+CFPB IMAGE
+Alt, caption: CFPB Design Manual, Page Components: A pair of [50/50 image and text components](https://cfpb.github.io/design-manual/page-components/50-50.html), as seen on a landing page template.
 
 ## What Is a Style Guide?
 
@@ -46,14 +49,15 @@ Like other style guides created for the web, we’ve also included code snippets
 
 Consider your team’s needs, preferences and context to create a style guide that works for you. Here are some tips:
 
-* Lead with Language: While the three sections of our style guide – design elements, patterns and interactions and assets – might seem simple, it took many iterations to find clarity. Our team plowed through examples of [existing style guides](http://styleguides.io/examples.html) to better understand how to organize relevant content and material. Some style guides were too complex for our needs or laced with unfamiliar jargon our team doesn’t use. We wanted everyone on our team to know where to go to find the answer to their problem – no middleman required. Simply copying and pasting using other people’s information architecture and labels didn’t work for our team, and it likely won’t work for you. 
+<ul>
+<li>Lead with Language: While the three sections of our style guide – design elements, patterns and interactions and assets – might seem simple, it took many iterations to find clarity. Our team plowed through examples of [existing style guides](http://styleguides.io/examples.html) to better understand how to organize relevant content and material. Some style guides were too complex for our needs or laced with unfamiliar jargon our team doesn’t use. We wanted everyone on our team to know where to go to find the answer to their problem – no middleman required. Simply copying and pasting using other people’s information architecture and labels didn’t work for our team, and it likely won’t work for you. <br /><br />After pursuing other style guides for structural ideas, pause and think about your team. How does your team communicate? Do you have a shared language around design and development topics? Does any part of your process, whether agile, learn or otherwise, need to be considered in the structure? Information architecture should be your first step, and don’t expect to get it right the first time. <br /><br />You can also think about user testing your style guide, or particular sections, to confirm that your team is aligned with other departments. Would agency communications or public affairs be interested in editing or contributing? Is your guide easily accessible as judged by its copy? </li>
+<li>Provide a Design Education: Design can appear confusing and complicated – and even pretentious – for those that haven’t studied it. Your style guide is an opportunity to show how a streamlined design system can create clarity and showcase just how far design decisions can reach. If you reframe the project as a way to educate about design, how would your approach change? </li>
+<li>Integrate Other Design Related Resources: Has your team hashed out its own set of design or experience principles? Does your agency have a writing guidelines or guidance on grammar? Where do you store your current assets – like photography and icons? Does everyone know where these files live? Think about other useful and existing resources to incorporate into your style guide. </li>
+<li>Reduce, Reuse, Remix: Our team has a set of user experience principles that explain what we do and how we approach our work. One of our tenants, “reduce, reuse and remix,” is easily my favorite. It’s not always necessary to build from scratch, and if we can reuse code, design or copy from existing places, we encourage each other to do so. Fortunately, there are incredible existing pattern libraries that take into account the needs and challenges of designers in federal government.  The [U.S. Web Design System](https://designsystem.digital.gov/), the [USTPO UI Design Gallery](https://uspto.github.io/designpatterns/) and the [CFPB’s Design Manual](https://cfpb.github.io/design-manual/) all helped us follow patterns where it made sense, but allowed us to get creative in solving design problems unique to our organization. </li>
+</ul>
 
-After pursuing other style guides for structural ideas, pause and think about your team. How does your team communicate? Do you have a shared language around design and development topics? Does any part of your process, whether agile, learn or otherwise, need to be considered in the structure? Information architecture should be your first step, and don’t expect to get it right the first time. 
-
-You can also think about user testing your style guide, or particular sections, to confirm that your team is aligned with other departments. Would agency communications or public affairs be interested in editing or contributing? Is your guide easily accessible as judged by its copy?
-* Provide a Design Education: Design can appear confusing and complicated – and even pretentious – for those that haven’t studied it. Your style guide is an opportunity to show how a streamlined design system can create clarity and showcase just how far design decisions can reach. If you reframe the project as a way to educate about design, how would your approach change?
-* Integrate Other Design Related Resources: Has your team hashed out its own set of design or experience principles? Does your agency have a writing guidelines or guidance on grammar? Where do you store your current assets – like photography and icons? Does everyone know where these files live? Think about other useful and existing resources to incorporate into your style guide.  
-* Reduce, Reuse, Remix: Our team has a set of user experience principles that explain what we do and how we approach our work. One of our tenants, “reduce, reuse and remix,” is easily my favorite. It’s not always necessary to build from scratch, and if we can reuse code, design or copy from existing places, we encourage each other to do so. Fortunately, there are incredible existing pattern libraries that take into account the needs and challenges of designers in federal government.  The [U.S. Web Design System](https://designsystem.digital.gov/), the [USTPO UI Design Gallery](https://uspto.github.io/designpatterns/) and the [CFPB’s Design Manual](https://cfpb.github.io/design-manual/) all helped us follow patterns where it made sense, but allowed us to get creative in solving design problems unique to our organization. 
+USPTO IMAGE
+Alt, caption: USPTO UI Design Library: 10 [Primary UI colors](https://uspto.github.io/designpatterns/1.x/docs/foundation/colors.html).
 
 ## Instant Impact
 
@@ -63,5 +67,5 @@ Resources, including your time, can also be used more effectively the launch of 
 
 Once you have a style guide, it’s much easier to scale. You have a foundation to make products in a modular way, if you choose. Your style guide will help you build whatever is next. 
 
-—
+---
 _Has your team created a style guide? [Send it to DigitalGov](digitalgov@gsa.gov) so we can include it on our [Style Guides by Government Agencies](https://www.digitalgov.gov/resources/style-guides-by-government-agencies/) page in the [Resources](https://www.digitalgov.gov/resources/) section._ 
