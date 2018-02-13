@@ -1,7 +1,7 @@
 ---
-slug: why-your-team-needs-its-own-style-guidewhere-start
+slug: why-your-team-needs-its-own-style-guide-where-start
 date: 2018-02-13 10:00:00 -0500
-title: 'Why Your Team Needs Its Own Style Guide–and Where to Start'
+title: 'Why Your Team Needs Its Own Style Guide and Where to Start'
 summary: 'Learn how creating your own style guide can help facilitate development for your agency's websites. Review best practices, lessons learned, and examples from the U.S. Web Design System, Consumer Financial Protection Bureau, and the United States Patent and Trademark Office.'
 authors:
   - meghan-lazier
@@ -18,7 +18,7 @@ tag:
 featured_image:
   uid: ustpo-ui-design-gallery-primary-ui-color-swatches
   alt: 'USPTO Primary UI Colors.'
-  
+
 ---
 
 My team is about to launch our first style guide and now that we have gone through the process and created this valuable resource, I can’t imagine creating another app or website without it. Here’s why your team needs a style guide and lessons learned from our experience.
