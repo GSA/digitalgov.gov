@@ -2,24 +2,24 @@
   <div class="container">
     <div class="row">
       <div class="col">
-        <div id="events_page">
-          <div class="events_current events_list">
-            <div class="events_head">
+        <div id="events-page">
+          <div class="events-current events-list">
+            <div class="events-head">
               <h1>Upcoming Events</h1>
               <p>
-                <a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a>
+                <a href="/events" title="View all DigitalGov Events">All Events</a> |
+                <a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos</a>
               </p>
             </div>
 
-            {{ range where .Data.Pages.ByDate "Section" "events" }}
-              {{ if ge .Date.Unix (now.AddDate 0 0 -1) }}
-                {{ .Render "li"}}
-              {{ end }}
-            {{ end }}
+            {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
+            {{ range where $events "Date" "ge" (now.AddDate 0 0 -1) | first 4 }}
+              {{ .Render "li"}}
+            {{end}}
 
           </div>
 
-          <a href="/events" class="btn btn-open">View past events</a>
+          <a href="/events" class="btn btn-open">View all events</a>
 
         </div>
       </div>
