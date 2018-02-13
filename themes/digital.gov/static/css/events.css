@@ -24,7 +24,9 @@
 .events-head p{
 	font-size: 18px;
 	font-weight: 200;
-	/* font-weight: bold; */
+}
+.events-head a{
+	margin-bottom: 55px;
 }
 
 .events-list .event{
