@@ -29,13 +29,7 @@ jQuery(document).ready(function($) {
       var uid = img['uid'];
       var attribution = img['credit'];
       var caption = img['caption'];
-      // if (caption == '') {
-      //   var caption = '""';
-      // }
       var alt = img['alt'];
-      // if (alt == '') {
-      //   var alt = '""';
-      // }
       var format = img['format'];
       var all_sizes = get_all_image_sizes(uid, format, width, height);
 
