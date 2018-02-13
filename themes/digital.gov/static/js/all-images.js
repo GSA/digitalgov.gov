@@ -29,13 +29,13 @@ jQuery(document).ready(function($) {
       var uid = img['uid'];
       var attribution = img['credit'];
       var caption = img['caption'];
-      if (caption == '') {
-        var caption = '""';
-      }
+      // if (caption == '') {
+      //   var caption = '""';
+      // }
       var alt = img['alt'];
-      if (alt == '') {
-        var alt = '""';
-      }
+      // if (alt == '') {
+      //   var alt = '""';
+      // }
       var format = img['format'];
       var all_sizes = get_all_image_sizes(uid, format, width, height);
 
@@ -63,8 +63,8 @@ jQuery(document).ready(function($) {
             "<p><strong>attribution:</strong> "+attribution+"</p>",
             "<p><strong>caption:</strong> "+caption+"</p>",
             "<p><strong>alt:</strong> "+alt+"</p>",
-            "<pre>{{< img src=\""+uid+"\" caption="+caption+" alt="+alt+" >}}</pre>", // shortcode
-            "<pre>{{< img-right src=\""+uid+"\" caption="+caption+" alt="+alt+" >}}</pre>", // shortcode
+            "<pre>{{< img src=\""+uid+"\" caption=\""+caption+"\" alt=\""+alt+"\" >}}</pre>", // shortcode
+            "<pre>{{< img-right src=\""+uid+"\" caption=\""+caption+"\" alt=\""+alt+"\" >}}</pre>", // shortcode
             "<p><a target='_new' href='https://github.com/GSA/digitalgov.gov/edit/master/data/images/"+uid+".yml' title='view on GitHub'>Edit on GitHub »</a></p>",
           "</div>",
         "</div>"
