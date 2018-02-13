@@ -18,13 +18,14 @@ tag:
 featured_image:
   uid: ustpo-ui-design-gallery-primary-ui-color-swatches
   alt: 'CFPB Style Guide'
+
 ---
 
 My team is about to launch our first style guide and now that we have gone through the process and created this valuable resource, I can’t imagine creating another app or website without it. Here’s why your team needs a style guide and lessons learned from our experience.
 
 
 {{< img src="cfpb-design-manual-page-components-50-50-image-and-text" caption="CFPB Design Manual, Page Components: A pair of [50/50 image and text components](https://cfpb.github.io/design-manual/page-components/50-50.html), as seen on a landing page template." alt="CFPB Design Manual, Page Components: A pair of 50/50 image and text components, as seen on a landing page template." >}}
-
+****
 
 
 ## What Is a Style Guide?
