@@ -16,7 +16,7 @@ tag:
   - design
   - accessibility
 featured_image: 
-  uid: 
+  uid: woman-touching-the-virtual-future-interface
   alt: 'featured'
 ---
 
