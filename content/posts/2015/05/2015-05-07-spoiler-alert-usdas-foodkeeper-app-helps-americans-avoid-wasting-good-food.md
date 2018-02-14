@@ -34,4 +34,4 @@ The FoodKeeper was originally a publication containing valuable advice to help c
 
 The app is available for [Android](https://play.google.com/store/apps/details?id=gov.usda.fsis.foodkeeper&hl=en) and [iOS](https://itunes.apple.com/us/app/usda-foodkeeper/id978186100?mt=8) devices.
 
-_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml){#anch_84}. Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "the-federal-mobile-apps-registry.md" >}}){#anch_85}._
+_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml){#anch_84}. Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}}){#anch_85}._

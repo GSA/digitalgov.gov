@@ -30,4 +30,4 @@ IRS2Go users are still able check the status of their returns, access free tax p
 
 {{< legacy-img src="2016/03/600-x-323-IRS2Go-app-screenshots-Amazon-Kindle.jpg" alt="Three screens from the IRS to Go app on an Amazon Kindle tablet.." >}}
 
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the U.S. Digital Registry]({{< link "the-federal-mobile-apps-registry.md" >}})._
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}})._

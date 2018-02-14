@@ -53,7 +53,7 @@ The solution to this problem was to not build the interface yet, but focus on bu
 
 The social media registry has two separate interfaces.
 
-One is hosted on HowTo.gov for people who work for the federal government to [register their accounts]({{< link "social-media-registry.md" >}}). Anyone with a .gov or .mil email address can fill out a form, and receive an email with a link to another form where they can register their official accounts simply by pasting in the URL of the account. For each account they add, they have to include their agency and the language of the account.
+One is hosted on HowTo.gov for people who work for the federal government to [register their accounts]({{< link "u-s-digital-registry.md" >}}). Anyone with a .gov or .mil email address can fill out a form, and receive an email with a link to another form where they can register their official accounts simply by pasting in the URL of the account. For each account they add, they have to include their agency and the language of the account.
 
 The other interface is hosted on USA.gov for the [public to verify](http://www.usa.gov/Contact/verify-social-media.shtml) if a social media account is official or not. It’s dead simple. You paste in the URL of a social media account and it tells you if it’s managed by the government or not.
 
@@ -83,5 +83,5 @@ With this registry, OCSIT has demonstrated a truly innovative approach to Intern
 
 ## Resources
 
-  * [Register your federal government social media account in the Social Media Registry]({{< link "social-media-registry.md" >}})
+  * [Register your federal government social media account in the Social Media Registry]({{< link "u-s-digital-registry.md" >}})
   * [Verify a federal social media account on USA.gov](http://www.usa.gov/Contact/verify-social-media.shtml)
