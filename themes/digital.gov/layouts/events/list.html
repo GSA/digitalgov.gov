@@ -23,7 +23,6 @@
 
   </div>
 
-  <a href="#" class="btn btn-open btn_events_past">View past events</a>
 
   <div id="events_past" class=" events_list">
 
@@ -32,12 +31,15 @@
       <p><a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a></p>
     </div>
 
-    {{ range where .Data.Pages.ByDate "Section" "events" }}
-      {{ if ge .Date.Unix (now.AddDate -1 0 0 ) }}
-        {{ .Render "past"}}
-      {{ end }}
+    {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
+    {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
+      {{ .Render "past"}}
     {{ end }}
+
   </div>
+
+  <a href="#" class="btn btn-open btn_events_past">View past events</a>
+  
 </div>
 
 {{ end }}
