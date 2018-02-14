@@ -13,11 +13,10 @@ categories:
   - content
 tag:
   - ux
-  - design
   - accessibility
 featured_image:
-  uid: ustpo-ui-design-gallery-primary-ui-color-swatches
-  alt: 'USPTO Primary UI Colors.'
+  uid: cfpb-secondary-color-palette-swatches-featured
+  alt:
 
 ---
 
@@ -58,7 +57,7 @@ Consider your team’s needs, preferences and context to create a style guide th
 *   **Integrate Other Design Related Resources**: Has your team hashed out its own set of design or experience principles? Does your agency have a writing guidelines or guidance on grammar? Where do you store your current assets – like photography and icons? Does everyone know where these files live? Think about other useful and existing resources to incorporate into your style guide.
 *   **Reduce, Reuse, Remix**: Our team has a set of user experience principles that explain what we do and how we approach our work. One of our tenants, “reduce, reuse and remix,” is easily my favorite. It’s not always necessary to build from scratch, and if we can reuse code, design or copy from existing places, we encourage each other to do so. Fortunately, there are incredible existing pattern libraries that take into account the needs and challenges of designers in federal government. The [U.S. Web Design System](https://designsystem.digital.gov/), the [USTPO UI Design Gallery](https://uspto.github.io/designpatterns/) and the [CFPB’s Design Manual](https://cfpb.github.io/design-manual/) all helped us follow patterns where it made sense, but allowed us to get creative in solving design problems unique to our organization.
 
-{{< img src="ustpo-ui-design-gallery-primary-ui-color-swatches" caption="USPTO UI Design Library: 10 [Primary UI colors](https://uspto.github.io/designpatterns/1.x/docs/foundation/colors.html)." alt="USPTO UI Design Library: 10 Primary UI colors." >}}
+{{< img src="uspto-primary-ui-color-swatches" >}}
 
 ## Instant Impact
 
