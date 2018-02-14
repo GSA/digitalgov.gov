@@ -23,7 +23,7 @@ At [DigitalGov Search]({{< link "search.md" >}}), we keep an eye on on our what 
 
 ## Use and Contribute to Open Source Projects
 
-[{{< legacy-img src="2014/03/Open-Source-250-x-167-software-code-476999627.png" alt="Image of HTML code and scripts" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/Open-Source-250-x-167-software-code-476999627.png) 
+[{{< legacy-img src="2014/03/Open-Source-250-x-167-software-code-476999627.png" alt="Image of HTML code and scripts" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/Open-Source-250-x-167-software-code-476999627.png)
 
 Since 2010, we&#8217;ve embraced and leveraged open source software to build our site search service for federal, state, and local government websites. This use of open source has allowed us to experience enormous growth over the past few years. In March 2013 alone, over 24 million searchers received results from our service—a four-fold increase since March 2010.
 
@@ -61,6 +61,4 @@ We&#8217;re not alone. Other federal agencies have embraced the approach of codi
 
   * The Consumer Financial Protection Bureau has embraced open source, including serving their public data sets through [qu](https://github.com/cfpb/qu).
   * USA.gov recently released the code for their iPhone app.
-  * The White House was in the forefront of using open source software in the federal government with their use of Drupal. They&#8217;re continuing to lead by example by opening up the code for their [We the People petitions](https://github.com/WhiteHouse/petitions) and [iOS](https://github.com/WhiteHouse/wh-app-ios) and [Android](https://github.com/WhiteHouse/wh-app-android) mobile apps._Editor&#8217;s Note: Interested in learning more about search from the DigitalGov Search team? Register for the [Search Is the New Big Data (in-person training)]({{< link "search-technology-and-information-retrieval.md" >}})._
-
- 
+  * The White House was in the forefront of using open source software in the federal government with their use of Drupal. They&#8217;re continuing to lead by example by opening up the code for their [We the People petitions](https://github.com/WhiteHouse/petitions) and [iOS](https://github.com/WhiteHouse/wh-app-ios) and [Android](https://github.com/WhiteHouse/wh-app-android) mobile apps._Editor&#8217;s Note: Interested in learning more about search from the DigitalGov Search team? Register for the Search Is the New Big Data (in-person training)._

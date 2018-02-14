@@ -3,8 +3,7 @@ url: /resources/
 date: 2013-11-17 11:13:13 -0400
 title: Resources
 summary: 'Common resources for people working in Digital government.'
-aliases:
-  - /resources/dot-gov-domain-freeze-and-waivers/
+
 ---
 
 
@@ -136,7 +135,7 @@ Looking for overall digital policy guidance? See the <a href="{{< link "checklis
 *   [Guidance for Social Media Providers]({{< link "guidance-for-social-media-providers.md" >}})
 *   [Improving the Accessibility of Social Media in Government]({{< link "improving-the-accessibility-of-social-media-in-government.md" >}})
     *   [Federal Social Media Accessibility Toolkit]({{< link "federal-social-media-accessibility-toolkit-hackpad.md" >}})
-*   [Social Media Metrics for Federal Agencies]({{< link "federal-social-media-analytics-toolkit-hackpad.md" >}})
+*   [Social Media Metrics for Federal Agencies]({{< link "2013-04-19-social-media-metrics-for-federal-agencies.md" >}})
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
 *   [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit]({{< link "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}})
 *   [Barriers and Solutions to Implementing Social Media in Government]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf" >}}) (PDF, 55 kb, 4 pages, December 2008)

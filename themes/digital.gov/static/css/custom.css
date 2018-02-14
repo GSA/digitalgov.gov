@@ -114,6 +114,7 @@ Add styles inside the media query below that you only want to be applied to the 
 }
 
 .btn-open{
+	padding:10px 16px;
 	background: #fff;
 	border:3px solid #2673DF;
 	color:#2673DF !important;

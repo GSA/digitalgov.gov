@@ -21,7 +21,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The federal government can now unlock the collaborative “genius” of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at <a href="{{< link "socialgov-summit-entrepreneurship-and-small-business.md" >}}">the Federal #SocialGov Summit on Entrepreneurship and Small Business</a>.
+  The federal government can now unlock the collaborative “genius” of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at the Federal #SocialGov Summit on Entrepreneurship and Small Business.
 </p>
 
 <p dir="ltr">
