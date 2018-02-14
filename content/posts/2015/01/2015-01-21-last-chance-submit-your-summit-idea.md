@@ -24,4 +24,4 @@ And, while you can add your proposed topic anonymously, if you create an account
 
 If you are having problems accessing the submission platform <a href="mailto:digitalgov@gsa.gov?subject=Summit+Presentation+Idea" target="_blank">email us your presentation idea</a> and we will post it for you.
 
-Also, the Digital Citizen Services Summit is sold out. You can [sign up for the waiting list]({{< tmp "events/2015-digitalgov-citizen-services-summit.md" >}} "Spring 2015 DigitalGov Citizen Services Summit"), **but** if your idea get&#8217;s picked for the agenda we will add you to the guest list.
+Also, the Digital Citizen Services Summit is sold out. You can sign up for the waiting list "Spring 2015 DigitalGov Citizen Services Summit"), **but** if your idea get&#8217;s picked for the agenda we will add you to the guest list.

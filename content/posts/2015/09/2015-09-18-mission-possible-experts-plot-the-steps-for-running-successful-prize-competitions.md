@@ -15,7 +15,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}}
 
 Long before the final prize is awarded, a successful challenge starts with a master plan.
 
@@ -39,7 +39,7 @@ But there’s more to it than that: Agencies also need to define a time frame fo
 
 Patel, whose program at Idea Lab has met with tremendous success, highlighted the value of a varied judging panel. “Remember to thank your judges and help make their jobs as easy as possible,” he said.
 
-You can watch the entirety of the webinar in the video below, or jump to specific parts from the table of contents. Also, sign up for the next training event in the series, [The Importance of Marketing and Public Education]({{< link "module-4-the-importance-of-marketing-and-public-education.md" >}}), on October 20th.
+You can watch the entirety of the webinar in the video below, or jump to specific parts from the table of contents. Also, sign up for the next training event in the series, [The Importance of Marketing and Public Education](https://www.youtube.com/watch?v=yEyFIzj_7RM), on October 20th.
 
 ## Recap Video Table of Contents
 

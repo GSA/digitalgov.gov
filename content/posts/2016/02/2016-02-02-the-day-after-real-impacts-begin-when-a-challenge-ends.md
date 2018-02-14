@@ -20,11 +20,11 @@ Few know that Lindbergh won $25,000 for the flight, but everybody knows about th
 
 That transatlantic flight opened people’s minds to what was possible in air travel. Investment in the aviation industry exploded, as did the number of people buying plane tickets.
 
-Obviously, the impact of the Orteig Prize continues to this day. {{< legacy-img src="2016/01/600-x-400-Dominoes-falling-Comstock-Stockbyte-Thinkstock-78460749.jpg" alt="Dominoes falling" caption="" >}} 
+Obviously, the impact of the Orteig Prize continues to this day. {{< legacy-img src="2016/01/600-x-400-Dominoes-falling-Comstock-Stockbyte-Thinkstock-78460749.jpg" alt="Dominoes falling" caption="" >}}
 
 It provides a perfect example for the seventh and last installment in an expert training series on how to design and operate prize competitions to maximize success.
 
-In a Jan. 14 webinar on [Post-Prize Industry & Post-Prize Impact]({{< link "module-7-post-prize-industry-and-the-post-prize-impact.md" >}}), experts explored ways to ensure a competition continues to make an impact long after a prize has been awarded.
+In a Jan. 14 webinar on [Post-Prize Industry & Post-Prize Impact](https://www.youtube.com/watch?v=QdLSB2rjV9w), experts explored ways to ensure a competition continues to make an impact long after a prize has been awarded.
 
 “You should really think about it all the way through the process,” said Stephanie Wander, associate in prize design at XPRIZE.
 
@@ -45,7 +45,7 @@ XPRIZE Director of Prize Operations Salima Ranmal joined Wander and Bonnell for 
 Below is a rundown of some of what the experts had to say. You can also [watch and listen](https://www.youtube.com/watch?v=QdLSB2rjV9w&feature=youtu.be) to the entire webinar.
 
 [youtube=http://www.youtube.com/watch?v=QdLSB2rjV9w&w=600]
-  
+
 **Begin with the end in mind**: Desired post-prize impacts should inform the design of your prize competition. What is the problem, and what would the world look like if it were solved? Look at industry challenges and failures. Analyze markets. Remember: You’re trying to knock down that first domino that starts a chain reaction.
 
 **Know what you’re investing in**: Is it people? An idea? An organization? Technology? An industry or market? Understanding your investment will guide your activities after a prize.

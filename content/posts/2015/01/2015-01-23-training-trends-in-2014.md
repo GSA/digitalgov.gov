@@ -40,7 +40,7 @@ We also hosted some very popular webinars. Our most highly attended webinars (#1
   2. [Get out of the Jargon Trap: Plain Language Training Can Help]({{< link "2014-08-15-get-out-of-the-jargon-trap-plain-language-training-can-help.md" >}} "Get Out of the Jargon Trap: Plain Language Training Can Help")
   3. [Evaluating Digital Communication: An International Incident]({{< link "2014-06-04-evaluating-digital-communication-an-international-incident.md" >}} "Evaluating Digital Communication: An International Incident") was an event that crossed boundaries, literally. The event that was co-sponsored by the Federal Communicators Network and the Web Content Managers Forum, and was organized the governments of the US, Canada, and the UK.
   4. [Our FedRAMP program](http://cloud.cio.gov) offered events hosted by Director of FedRAMP, Matthew Goodrich, and captured large audiences from the vendor community with updates and tips on the using the program. [Learn more about FedRAMP](http://cloud.cio.gov).
-  5. Finally, #SocialGov came in at #5 with the [U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media]({{< tmp "events/u-s-federal-socialgov-2-years-of-smashing-silos-improving-citizens-services-with-social-media.md" >}} "U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media").
+  5. Finally, #SocialGov came in at #5 with the U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media "U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media").
 
 ## Top 5 On-Demand
 

@@ -16,13 +16,13 @@ tag:
   - User Experience Community of Practice
 ---
 
-{{< legacy-img src="2015/01/600-x-445-Figure-looking-at-Calendar-abluecup-iStock-Thinkstock-469683437.jpg" alt="Figure looking at Calendar" caption="" >}} 
+{{< legacy-img src="2015/01/600-x-445-Figure-looking-at-Calendar-abluecup-iStock-Thinkstock-469683437.jpg" alt="Figure looking at Calendar" caption="" >}}
 
 Performance Analytics for Social Media Decision Making. Creating Adaptive Content. Usability Testing. These are just some of the areas of programming we are putting together.
 
-After taking a look at the [most widely attended events in 2014]({{< link "2015-01-23-training-trends-in-2014.md" >}} "Training Trends in 2014"), we decided to gather ideas we received from community and program leads for our 2015 events lineup through DigitalGov University (DGU). {{< legacy-img src="2015/01/250-x-165-light-bulb-Blank-calendar-ideas-concept-Violka08-iStock-Thinkstock-462210643.jpg" alt="Calendar on a light bulb ideas concept" caption="" >}} 
+After taking a look at the [most widely attended events in 2014]({{< link "2015-01-23-training-trends-in-2014.md" >}} "Training Trends in 2014"), we decided to gather ideas we received from community and program leads for our 2015 events lineup through DigitalGov University (DGU). {{< legacy-img src="2015/01/250-x-165-light-bulb-Blank-calendar-ideas-concept-Violka08-iStock-Thinkstock-462210643.jpg" alt="Calendar on a light bulb ideas concept" caption="" >}}
 
-We&#8217;ve identified primary needs in each community, but this is just the top of the line-up because we will continue to offer just-in-time training on the things you need when you need it. We will also host [Mobile Around the Horn calls]({{< tmp "events/mobilegov-community-of-practice-check-in-reveal-december-around-the-horn-call.md" >}} "MobileGov Community of Practice Check-In Reveal: December Around-the-Horn Call"), [#SocialGov Summits]({{< tmp "events/u-s-federal-socialgov-2-years-of-smashing-silos-improving-citizens-services-with-social-media.md" >}} "U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media"), [UX CoP]({{< link "2014-02-03-what-happened-at-our-user-experience-summit-with-slides.md" >}} "What Happened at Our User Experience Summit - with slides!") events and other ongoing events you look forward to attending.
+We&#8217;ve identified primary needs in each community, but this is just the top of the line-up because we will continue to offer just-in-time training on the things you need when you need it. We will also host [Mobile Around the Horn calls]({{< tmp "events/mobilegov-community-of-practice-check-in-reveal-december-around-the-horn-call.md" >}} "MobileGov Community of Practice Check-In Reveal: December Around-the-Horn Call"), #SocialGov Summits "U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media"), [UX CoP]({{< link "2014-02-03-what-happened-at-our-user-experience-summit-with-slides.md" >}} "What Happened at Our User Experience Summit - with slides!") events and other ongoing events you look forward to attending.
 
 Did we hit the mark? What else would you suggest? Add your suggestions in the comments below.
 
