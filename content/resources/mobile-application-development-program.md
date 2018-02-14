@@ -84,7 +84,7 @@ authors:
           Use the federal friendly <a title="Federal-Compatible Terms of Service Agreements" href="{{< link "federal-compatible-terms-of-service-agreements.md" >}}">Terms of Service agreements</a> and get your app in the app stores.
         </li>
         <li>
-          Register your mobile product (app or mobile web site) with the <a title="The Federal Mobile Products Registry" href="{{< link "the-federal-mobile-apps-registry.md" >}}">Federal Mobile Products Registry</a> for placement on the <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
+          Register your mobile product (app or mobile web site) with the <a title="The Federal Mobile Products Registry" href="{{< link "u-s-digital-registry.md" >}}">Federal Mobile Products Registry</a> for placement on the <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
         </li>
         <li>
           PROMOTE! Use the <a href="http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml">Federal Mobile Product API</a> and create widgets to highlight yours and other agencies’ mobile products.
