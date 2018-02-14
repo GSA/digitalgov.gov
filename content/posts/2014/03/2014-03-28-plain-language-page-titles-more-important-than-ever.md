@@ -23,32 +23,32 @@ Many experts now recommend even shorter page titles. Below are a couple of artic
 
 In addition to the suggestions offered in our [previous article on Achieving Good SEO]({{< link "2013-05-31-four-steps-to-achieve-good-seo.md" >}}), here are a few specific tips for page titles:
 
-1. Place page titles in a 
+1. Place page titles in a
 
 <title>
-  tag within the 
-  
+  tag within the
+
   <head>
-    .<br /> 2. There’s no magic number, but around 55 characters or less is good.<br /> 3. There’s no set syntax, but &#8220;Primary Keyword &#8211; Secondary Keyword | Brand Name&#8221; is good.</p> 
-    
+    .<br /> 2. There’s no magic number, but around 55 characters or less is good.<br /> 3. There’s no set syntax, but &#8220;Primary Keyword &#8211; Secondary Keyword | Brand Name&#8221; is good.</p>
+
     <p>
       Below are a few articles on optimizing title tags for search engines:
     </p>
-    
+
     <p>
       <a href="http://searchengineland.com/nine-best-practices-for-optimized-title-tags-111979">Nine Best Practices For Optimized < title > Tags</a>
     </p>
-    
+
     <p>
       <a href="http://moz.com/learn/seo/title-tag">Title Tag</a>
     </p>
-    
+
     <p>
       <a href="http://www.w3.org/QA/Tips/good-titles">
-      
+
       <title>
-        : the most important element of a quality Web page</a></p> 
-        
+        : the most important element of a quality Web page</a></p>
+
         <p>
-          <em>If you’re interested in learning more about search, register for our <a href="{{< link "search-technology-and-information-retrieval.md" >}}">Search Is the New Big Data (in-person training)</a> on April 10.</em>
+          <em>If you’re interested in learning more about search, register for our Search Is the New Big Data (in-person training) on April 10.</em>
         </p>

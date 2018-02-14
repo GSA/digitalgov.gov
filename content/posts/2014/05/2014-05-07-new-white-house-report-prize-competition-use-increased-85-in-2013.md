@@ -28,4 +28,4 @@ Cristin Dorgelo&#8217;s WhiteHouse.gov blog post [summarizes several of the tren
 
 To see the full list of public prize competitions run in federal government, go to [Challenge.gov](https://challenge.gov/).
 
-Join us at a challenge and prize community meeting [May 28 to review the findings]({{< tmp "events/2013-america-competes-report-challenges-and-prizes-in-person-event.md" >}} "challenge dot gov community event") of this report. This is open to federal employees who work on or are interested in launching federal challenge and prize competitions.
+Join us at a challenge and prize community meeting May 28 to review the findings "challenge dot gov community event") of this report. This is open to federal employees who work on or are interested in launching federal challenge and prize competitions.
