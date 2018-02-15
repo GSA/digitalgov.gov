@@ -322,10 +322,10 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
   color: #f5f1e9;
 }
 
-.home .widget.solofolio h3.widgettitle,
-.home .catslide-intro h3.widgettitle,
-.page-id-244882 .widget.solofolio h3.widgettitle,
-.page-id-244882 .catslide-intro h3.widgettitle {
+.home .widget.solofolio h2.widgettitle,
+.home .catslide-intro h2.widgettitle,
+.page-id-244882 .widget.solofolio h2.widgettitle,
+.page-id-244882 .catslide-intro h2.widgettitle {
   color: #f5f1e9;
   font-size: 40px;
   background: none;
@@ -334,8 +334,8 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
 
 /* homepage section headers white text on teal bg */
 /* tribe-events-list-widget-12 is for Events list in Alternate Home Page, #tribe-events-list-widget-7 is Events list in the footer and sidebar  */
-.home .tribe-events-list-widget h3.widgettitle,
-.page-id-244882 .tribe-events-list-widget h3.widgettitle,
+.home .tribe-events-list-widget h2.widgettitle,
+.page-id-244882 .tribe-events-list-widget h2.widgettitle,
 
 #featposts-widget-4 .widgettitle,
 #featposts-widget-6 .widgettitle,
