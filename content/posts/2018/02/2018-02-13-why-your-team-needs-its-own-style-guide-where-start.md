@@ -12,8 +12,14 @@ categories:
   - mobile
   - content
 tag:
-  - ux
   - accessibility
+  - cfpb
+  - consumer-financial-protection-bureau
+  - federal-reserve-board
+  - frb
+  - united-states-patent-and-trademark-office
+  - uspto
+  - ux
 featured_image:
   uid: cfpb-secondary-color-palette-swatches-featured
   alt: 'CFPB Design Manual: Secondary Colors Palette.'
