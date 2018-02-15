@@ -495,7 +495,7 @@ a:active,
 }
 
 .more-link, .button {
-  background: #ff5049 !important;
+  background: #2B2B2B !important;
   color: #fff !important;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -509,7 +509,7 @@ a:active,
 
 .more-link:hover,
 .button:hover {
-  background: #ff6860 !important;
+  background: #DF4206 !important;
 }
 
 .home .subscribebox,
@@ -794,4 +794,10 @@ p.tribe-events-widget-link {
 
 .screen-reader-popup:focus {
   z-index: 9999;
+}
+
+a:hover, a:active { outline: none !important; }
+a:focus {
+  outline: 4px solid #FFCB52 !important;
+  transition: none !important;
 }
