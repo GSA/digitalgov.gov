@@ -1,4 +1,6 @@
 <body class="{{ $.Scratch.Get "bodyclasses" }}">
+  <a class="screen-reader-popup" href="#wrap" title="Skip to page content">Skip to page content</a>
+
   {{ if eq .Section "events" }}
     <script type="text/javascript">(function () {
       if (window.addtocalendar)if(typeof window.addtocalendar.start == "function")return;
@@ -17,9 +19,6 @@
 
   {{ partial "usa-banner.html" . }}
   {{ partial "nav-fixed-navbar.html" . }}
-
-  <a class="screen-reader-popup" href="#content" title="Skip to page content">Skip to page content</a>
-
 
   <div id="outer-wrap">
 
