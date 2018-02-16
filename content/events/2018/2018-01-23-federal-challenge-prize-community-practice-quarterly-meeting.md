@@ -58,7 +58,7 @@ This quarterly meeting brings together federal employees from a range of agencie
   </tr>
   <tr>
     <td>11:00 a.m.</td>
-    <td><strong>Executive Update from the White House</strong><ul><li>Matt Lira, White House Office of American Innovation <i>(invited)</i></li></ul></td>
+    <td><strong>Executive Update from the White House</strong><ul><li>Matt Lira, White House Office of American Innovation </li></ul></td>
   </tr>
   <tr>
     <td>11:15 a.m.</td>
