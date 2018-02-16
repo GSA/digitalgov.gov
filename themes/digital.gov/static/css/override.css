@@ -835,3 +835,19 @@ a.block {
   position: absolute;
   width: 1px;
 }
+
+.tribe-events-adv-list-widget .tribe-events-widget-link a,
+.tribe-events-back a,
+.tribe-events-list-widget .tribe-events-widget-link a,
+ul.tribe-events-sub-nav a {
+  font-size: 16px;
+}
+
+#footer-widgets {
+  background-color: #292A2B !important;
+  border-bottom: none;
+}
+
+#footer {
+  background-color: #1C1D1F;
+}
