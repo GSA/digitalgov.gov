@@ -1,5 +1,5 @@
 body {font-family:Trebuchet,Tahoma,sans-serif;}
-a,a:link,a:visited {color:#ff5049;}
+a,a:link,a:visited {color:#0C6874;}
 h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Trebuchet,Tahoma,sans-serif;}
 #sitetitle, #sitetitle .title {text-align:center;}
 #sitetitle .title, #sitetitle .title a {font-family:Trebuchet,Tahoma,sans-serif;}
@@ -854,8 +854,8 @@ ul.tribe-events-sub-nav a {
   background-color: #1C1D1F;
 }
 
-.notice-text a
-.notice-text  a:link,
+.notice-text a,
+.notice-text a:link,
 .notice-text a:visited {
   color: #1E4F94;
 }
