@@ -251,15 +251,17 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
 }
 
 #search_form input[type="submit"] {
-  background-color: #ff5049;
-  border-color: #ff5049;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
+  background-color: #2b2b2b;
+  border-color: #2b2b2b;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
   text-transform: uppercase !important;
+  letter-spacing: .02em;
   padding: 5px !important;
   color: #fff;
   cursor: pointer;
+  margin-top: 3px;
 }
 
 /* END SEARCH */
@@ -850,4 +852,10 @@ ul.tribe-events-sub-nav a {
 
 #footer {
   background-color: #1C1D1F;
+}
+
+.notice-text a
+.notice-text  a:link,
+.notice-text a:visited {
+  color: #1E4F94;
 }
