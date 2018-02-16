@@ -29,8 +29,8 @@
   <div class="widget widget-4 featuredpage">
     <div class="widget-wrap">
       <div class="post clearfix">
-        <div class="featpage-image">
-          <a href="{{ $match.Permalink }}" rel="bookmark" title="{{ $match.Title | markdownify }}">
+        <a class="block" href="{{ $match.Permalink }}" rel="bookmark" title="{{ $match.Title | markdownify }}">
+          <div class="featpage-image">
 
             {{ $cdnurl := $.Site.Params.cdnurl }}
             {{ $thisimg := index $.Site.Data.images (default "bill-of-rights" ($.Scratch.Get "featured-img-uid")) }}
@@ -50,8 +50,8 @@
               src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
               alt="{{ if ne ($.Scratch.Get "featured-img-alt") "" }}{{ $.Scratch.Get "featured-img-alt" | markdownify }}{{ else }}{{ $thisimg.alt | default $match.Title | markdownify }}{{ end }}"
               title="{{ $match.Title | markdownify }}" />
-          </a>
-        </div>
+          </div>
+        </a>
 
         <h3 class="widgettitle"><span><a href="{{ $match.URL }}">{{ $match.Title | markdownify }}</a></span></h3>
         <span class="featpage-excerpt">{{ $.Scratch.Get "featured-summary" | markdownify | safeHTML | truncate 200 }}</span>

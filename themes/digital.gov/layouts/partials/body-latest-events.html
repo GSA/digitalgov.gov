@@ -6,15 +6,16 @@
   <div class="widget-wrap">
     <h2 class="widgettitle"><span>Events</span></h2>
 
+    <p class="tribe-events-widget-link">
+      <a href="{{ "events" | absURL }}" rel="bookmark">View All Events</a>
+    </p>
+
     <ol class="tribe-list-widget">
       {{ range first 6 $events }}
         {{ partial "event--item.html" . }}
       {{ end }}
     </ol>
 
-    <p class="tribe-events-widget-link">
-      <a href="{{ "events" | absURL }}" rel="bookmark">View All Events</a>
-    </p>
   </div>
 </div>
 {{else}}
