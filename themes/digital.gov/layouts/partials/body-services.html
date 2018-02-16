@@ -48,7 +48,7 @@
             <img
               class="thumbnail"
               src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
-              alt="{{ if ne ($.Scratch.Get "featured-img-alt") "" }}{{ $.Scratch.Get "featured-img-alt" | markdownify }}{{ else }}{{ $thisimg.alt | default $match.Title | markdownify }}{{ end }}"
+              alt="{{ $match.Title | markdownify }}"
               title="{{ $match.Title | markdownify }}" />
           </div>
         </a>
