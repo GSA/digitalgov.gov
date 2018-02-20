@@ -8,8 +8,6 @@ aliases:
   - /challenges-prizes-community/
 ---
 
-{{< legacy-img src="/2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}
-
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
 If you answered yes to any of these questions, the Challenges and Prizes Federal Community of Practice is for you!
