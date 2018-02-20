@@ -1,5 +1,30 @@
 jQuery(document).ready(function($) {
 
+	var d1 = $(".events-single .event .stage").attr('data-eventdate');
+
+	//Check to see if the DateTime is in the future
+	//param: dateTime must be a JS Date Object
+	//return True if DateTime is after Now
+	//return False if DateTIme is before Now
+	function futureDateTime( dateTime ) {
+		var now = new Date();
+		var future = false;
+		if( Date.parse(now) < Date.parse(dateTime) ) {
+			future = true;
+		}
+		return future;
+	}
+
+	if (d1 !== undefined) {
+		var future = futureDateTime(d1);
+		if (future == true) {
+			$(".events-single .event .stage").hide();
+		}
+		console.log(future);
+	}
+
+
+
 	$(".btn_events_past").click(function(e) {
 		e.preventDefault();
 		$("#events-past").toggle();
@@ -10,4 +35,4 @@ jQuery(document).ready(function($) {
 		}
 	});
 
-})();
+});

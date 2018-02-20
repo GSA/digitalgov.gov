@@ -201,7 +201,7 @@
 }
 
 /* Live Video Stage */
-.stage{
+.event .stage{
 	margin-bottom: 30px;
 	padding: 10px 0 15px 0;
 	border-bottom: 1px #9DA2A6 solid;
