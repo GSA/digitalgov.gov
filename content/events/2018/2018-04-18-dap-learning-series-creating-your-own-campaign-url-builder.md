@@ -5,7 +5,8 @@ summary: 'This online event will cover how to create a campaign URL in Google An
 featured_image: 
   uid: 
   alt: ''
-event_type: online
+event_type: 
+  - online
 date: 2018-04-18 15:00:00 -0400
 end_date: 2018-04-18 16:00:00 -0400
 event_organizer: DigitalGov University

@@ -5,7 +5,8 @@ summary: 'This online event will focus on how to track specific events and write
 featured_image: 
   uid: 
   alt: ''
-event_type: online
+event_type: 
+  - online
 date: 2018-09-20 14:00:00 -0400
 end_date: 2018-02-05 15:00:00 -0400
 event_organizer: DigitalGov University

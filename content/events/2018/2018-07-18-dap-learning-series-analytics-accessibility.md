@@ -5,7 +5,8 @@ summary: 'This online event will cover how to check if behaviors change when peo
 featured_image:
   uid:
   alt: ''
-event_type: youtube-live
+event_type:
+  - youtube-live
 date: 2018-07-18 14:00:00 -0400
 end_date: 2018-07-18 15:00:00 -0400
 event_organizer: DigitalGov University

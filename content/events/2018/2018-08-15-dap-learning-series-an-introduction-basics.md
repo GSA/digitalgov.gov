@@ -5,7 +5,9 @@ summary: 'This online class will provide an introductory training on how to use 
 featured_image:
   uid:
   alt: ''
-event_type: youtube-live
+event_type:
+  - online
+  - youtube-live
 date: 2018-08-15 13:00:00 -0400
 end_date: 2018-02-05 16:00:00 -0400
 event_organizer: DigitalGov University

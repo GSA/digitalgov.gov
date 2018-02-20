@@ -5,7 +5,8 @@ summary: 'The FedRAMP team will walk through the Continuous Monitoring documents
 featured_image: 
   uid: 
   alt: ''
-event_type: online
+event_type: 
+  - online
 date: 2018-03-13 13:00:00 -0500
 end_date: 2018-03-13 14:00:00 -0500
 event_organizer: DigitalGov University

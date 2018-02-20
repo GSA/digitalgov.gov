@@ -5,7 +5,8 @@ summary: 'This online event will cover the Goals feature in Google Analytics.'
 featured_image: 
   uid: 
   alt: ''
-event_type: online
+event_type: 
+  - online
 date: 2018-10-17 14:00:00 -0400
 end_date: 2018-10-17 15:00:00 -0400
 event_organizer: DigitalGov University

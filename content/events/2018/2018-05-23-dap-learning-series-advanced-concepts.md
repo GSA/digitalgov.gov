@@ -5,7 +5,8 @@ summary: 'This half-day online class will expand upon the basics of Google Analy
 featured_image: 
   uid: 
   alt: ''
-event_type: online
+event_type: 
+  - online
 date: 2018-05-23 13:00:00 -0400
 end_date: 2018-05-23 16:00:00 -0400
 event_organizer: DigitalGov University

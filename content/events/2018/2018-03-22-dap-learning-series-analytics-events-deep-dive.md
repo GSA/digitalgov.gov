@@ -5,7 +5,8 @@ summary: 'This online event will focus on events in Google Analytics'
 featured_image: 
   uid: 
   alt: ''
-event_type: online
+event_type: 
+  - online
 date: 2018-03-22 14:00:00 -0400
 end_date: 2018-03-22 15:00:00 -0400
 event_organizer: DigitalGov University

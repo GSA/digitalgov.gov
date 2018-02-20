@@ -5,7 +5,8 @@ summary: 'This online class will dive deeper into the benefits of integrating Go
 featured_image: 
   uid: 
   alt: ''
-event_type: online
+event_type: 
+  - online
 date: 2018-06-07 14:00:00 -0400
 end_date: 2018-06-07 15:00:00 -0400
 event_organizer: DigitalGov University
