@@ -5,8 +5,8 @@ summary: 'This interactive talk with a USAGov team member will highlight the dig
 featured_image:
   uid:
   alt: ''
-event_type: 
-  - online
+event_type:
+  - youtube-live
 date: 2018-01-09 12:00:00 -0400
 end_date: 2018-01-09 12:30:00 -0400
 event_organizer: DigitalGov University

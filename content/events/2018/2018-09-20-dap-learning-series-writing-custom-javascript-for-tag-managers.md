@@ -2,11 +2,11 @@
 slug: dap-learning-series-writing-custom-javascript-for-tag-managers
 title: 'DAP Learning Series&#58; Writing Custom Javascript for Tag Managers'
 summary: 'This online event will focus on how to track specific events and write javascript to maximize the tag manager experience'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
-  - online
+event_type:
+  - youtube-live
 date: 2018-09-20 14:00:00 -0400
 end_date: 2018-02-05 15:00:00 -0400
 event_organizer: DigitalGov University

@@ -6,7 +6,8 @@ featured_image:
   uid:
   alt: ''
 event_type:
-  - mixed
+  - in-person
+  - youtube-live
 date: 2018-02-27 9:00:00 -0400
 end_date: 2018-02-27 12:00:00 -0400
 event_organizer: DigitalGov University

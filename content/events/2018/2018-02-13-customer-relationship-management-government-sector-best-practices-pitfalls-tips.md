@@ -7,7 +7,7 @@ featured_image:
   alt: ''
 event_type:
   - in-person
-  - youtube-live
+  - online
 date: 2018-02-13 10:00:00 -0500
 end_date: 2018-02-13 12:00:00 -0500
 event_organizer: DigitalGov University

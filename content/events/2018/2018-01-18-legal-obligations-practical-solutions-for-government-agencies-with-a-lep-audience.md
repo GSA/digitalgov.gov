@@ -5,8 +5,8 @@ summary: Learn about your legal obligations to limited English proficient indivi
 featured_image:
   uid: doj
   alt: 'Department of Justice'
-event_type: 
-  - online
+event_type:
+  - youtube-live
 date: 2018-01-18 14:00:00 -0400
 end_date: 2018-01-18 15:00:00 -0400
 event_organizer: DigitalGov University
