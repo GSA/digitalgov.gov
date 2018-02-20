@@ -86,7 +86,7 @@
 
 .btn{
 	display: inline-block;
-	color: #fff !important;
+	color: #fff;
 	padding:10px 16px;
 	line-height: 22px;
 	background: #2673DF;

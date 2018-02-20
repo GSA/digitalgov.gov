@@ -37,13 +37,6 @@ jQuery(document).ready(function($) {
 
   //- - - - - - - - - - - - - - - - - - - -
 
-  // // Post type Buttons
-  // $(".post_types .btn").click(function() {
-  //   $(".post_types .btn").removeClass('selected');
-  //   $(this).addClass('selected');
-  //   get_matter_data();
-  //   get_event_type();
-  // });
 
   // // Gets post type from buttons
   function get_post_type(){
@@ -114,17 +107,10 @@ jQuery(document).ready(function($) {
     get_matter_data();
   });
 
+  $("#matter-maker .fm").change(function() {
+    get_matter_data();
+  });
 
-  // function show_fields(d){
-  //   $('#matter-maker label').addClass('hidden');
-  //   $('#matter-maker .block').addClass('hidden');
-  //   var fields = d.split(', ');
-  //   for (var f in fields) {
-  //     var field = '.'+fields[f];
-  //     $('#matter-maker '+field).removeClass('hidden');
-  //   }
-  // }
-  // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
 
   // A function that replaces out the special characters in strings
   function escapeHtml (string) {
@@ -198,6 +184,9 @@ jQuery(document).ready(function($) {
 
   // Makes lists in the front matter
   function list_items(d) {
+    console.log(d);
+    console.log(d.toString());
+    d = d.toString();
     var list = d.split(',');
     $item = '';
     $item += '\n';
@@ -211,6 +200,7 @@ jQuery(document).ready(function($) {
         $item += '  - ' + $.trim(slug) + '\n';
       }
     });
+    console.log($item);
     return $item;
   }
 
@@ -257,26 +247,13 @@ jQuery(document).ready(function($) {
   });
 
 
-  // Event type Buttons
-  $(".event_types .btn").click(function() {
-    $(".event_types .btn").removeClass('selected');
-    $(this).addClass('selected');
-    get_matter_data();
-  });
 
   function get_event_type(){
-    var event_type = $( '.event_types .selected' ).attr( 'data-type' );
-    if (event_type == 'online') {
-      $('.m_youtube_id').removeClass('hide');
-      $('.venue-block').addClass('hide');
-    } else if (event_type == 'mixed') {
-      $('.m_youtube_id').removeClass('hide');
-      $('.venue-block').removeClass('hide');
-    } else {
-      $('.m_youtube_id').addClass('hide');
-      $('.venue-block').removeClass('hide');
-    }
-    return event_type;
+    var allVals = [];
+    $('.event_types :checked').each(function() {
+      allVals.push($(this).val());
+    });
+    return list_items(allVals);
   }
 
 
@@ -345,34 +322,35 @@ jQuery(document).ready(function($) {
     // In-Person or Mixed EVENT
     } else if (post_type == 'event') {
       var event_type = get_event_type();
-      if (event_type == 'in-person' || event_type == 'mixed') {
-        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube_id, m_event_type, venue-block, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, m_registration_url, m_host');
-        var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
-        var matter = [
-          "---",
-            "slug: " + slug,
-            "title: " + title,
-            "summary: " + summary,
-            "featured_image: " + '',
-            "  uid: " + data['m_featuredimg'],
-            "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
-            "event_type: " + event_type,
-            "date: " + date,
-            "end_date: " + end_date,
-            "event_organizer: " + data['m_event_organizer'],
-            "host: " + data['m_host'],
-            "registration_url: " + data['m_registration_url'],
-            "youtube_id: " + data['m_youtube_id'],
-            "venue: " + build_venue_data(venue_data),
-          "---",
-          ,
-          "***Paste body content here. Delete this line***"
-        ].join("\n");
+      console.log(event_type);
+
+      var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
+      var matter = [
+        "---",
+          "slug: " + slug,
+          "title: " + title,
+          "summary: " + summary,
+          "featured_image: " + '',
+          "  uid: " + data['m_featuredimg'],
+          "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
+          "event_type: " + event_type,
+          "date: " + date,
+          "end_date: " + end_date,
+          "event_organizer: " + data['m_event_organizer'],
+          "host: " + data['m_host'],
+          "registration_url: " + data['m_registration_url'],
+          "youtube_id: " + data['m_youtube_id'],
+          "venue: " + build_venue_data(venue_data),
+        "---",
+        ,
+        "***Paste body content here. Delete this line***"
+      ].join("\n");
 
 
 
       // ========================================
       // Online EVENT
+      if (event_type == 'in-person' || event_type == 'mixed') {
       } else {
         // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube_id, m_event_type, m_registration_url, m_host');
         var matter = [
