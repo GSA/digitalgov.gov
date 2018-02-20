@@ -16,11 +16,15 @@ $( window ).resize(function() {
 	}
 });
 
-
 $(".btn_events_past").click(function(e) {
-	$(this).hide();
 	e.preventDefault();
-	$("#events-past").show();
+	$("#events_past").toggle();
+	if ($(this).hasClass("btn_events_past_close")) {
+		$(".btn_events_past_close").text('View past events').removeClass('btn_events_past_close');
+	} else {
+		$(this).text('Hide past events').addClass('btn_events_past_close');
+	}
+
 });
 
 // Transforms the Edit link on posts/pages/events to point to the GitHub file

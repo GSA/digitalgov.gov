@@ -25,7 +25,7 @@ tag:
 
 Got [innovation]({{< link "categories/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!
 
-On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes.md" >}}) together for its [quarterly meeting]({{< link "2013-america-competes-report-challenges-and-prizes-in-person-event.md" >}}). The group covered two topics:
+On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the Challenges and Prizes Community of Practice. The group covered two topics:
 
   1. Highlights from challenge competitions run in 2013.
   2. Concepts and tips for working with solvers to build teams.
@@ -54,13 +54,13 @@ Often, people think that only coders and technical people will be useful in comp
 
 [slideshare id=35185394&doc=spaceapps2014collaborationbeck-140527154134-phpapp02&w=600]
 
- 
+
 
 Charles Liarakos from the [National Science Foundation](https://www.challenge.gov/list/?ag=National%20Science%20Foundation "National Science Foundation Challenge and Prize Competitions on Challenge.gov ") also spoke, and said that it’s important to track whether teams stay together, and how well they continue to work. His organization has tracked the long-term effects of innovation teams and the results compared to a general workforce addressing the same issues. Liarakos told the audience that their multi-day work groups were intense and that the need to follow-up a few weeks and even months later is critical to understanding the impact.
 
 [slideshare id=35660372&doc=zit1ualor7qgjpggflff-140609123602-phpapp01&w=600]
 
- 
+
 
 In closing, make your teams, communities and challenge solvers care about your mission, because in the future, we will be crowdsourcing all the time. Not just during challenge and prize competitions.
 

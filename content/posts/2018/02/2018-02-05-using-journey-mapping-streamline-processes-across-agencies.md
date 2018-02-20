@@ -24,6 +24,8 @@ featured_image:
   alt: 'A sample sequence of events journey map for a recently naturalized citizen seeking to travel abroad&#46;'
 ---
 
+> _This post was originally published on the [USA.gov blog](https://blog.usa.gov/using-journey-mapping-to-streamline-processes-across-agencies)._
+
 _An agency information sharing exercise to improve the customer experience, as related to the Office of Products and Programs' Information Exchange Project_
 
 Some people experience challenges navigating government services -- especially if they need to work with more than one agency. Based on this premise, we set out to find out how agencies could share information with one another to improve the customer experience.
@@ -76,5 +78,7 @@ But we identified some potential opportunities in step four:
 ## What’s Next
 
 Based on our findings, agencies identified their main priorities. Right now, we’re in the process of working to find solutions that would streamline the process of applying for a passport for a newly naturalized citizen. We’ll share updates as we continue this work.
+
+---
 
 _Laura Godfrey is the Agency Partnerships and Multilingual Strategies Lead for USAGov._

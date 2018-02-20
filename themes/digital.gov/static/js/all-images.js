@@ -30,7 +30,6 @@ jQuery(document).ready(function($) {
       var attribution = img['credit'];
       var caption = img['caption'];
       var alt = img['alt'];
-      console.log('alt '+alt);
       var format = img['format'];
       var all_sizes = get_all_image_sizes(uid, format, width, height);
 
@@ -58,8 +57,8 @@ jQuery(document).ready(function($) {
             "<p><strong>attribution:</strong> "+attribution+"</p>",
             "<p><strong>caption:</strong> "+caption+"</p>",
             "<p><strong>alt:</strong> "+alt+"</p>",
-            "<p><strong>shortcode:</strong></p>",
-            "<pre>{{< img src=\""+uid+"\" capton=\"\" alt=\"\" >}}</pre>", // shortcode
+            "<pre>{{< img src=\""+uid+"\" caption=\""+caption+"\" alt=\""+alt+"\" >}}</pre>", // shortcode
+            "<pre>{{< img-right src=\""+uid+"\" caption=\""+caption+"\" alt=\""+alt+"\" >}}</pre>", // shortcode
             "<p><a target='_new' href='https://github.com/GSA/digitalgov.gov/edit/master/data/images/"+uid+".yml' title='view on GitHub'>Edit on GitHub »</a></p>",
           "</div>",
         "</div>"

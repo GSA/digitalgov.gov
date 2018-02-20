@@ -10,6 +10,8 @@ categories:
   - Social Media
 tag:
   - SocialGov
+aliases:
+  - /resources/federal-social-media-analytics-toolkit-hackpad/
 ---
 
 [{{< legacy-img src="2013/12/key-metrics-250x118.jpg" alt="Image of visualized performance metrics. " >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/key-metrics.jpg)Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis—using the vast amount of real-time data from these social platforms to predict emerging trends and respond to them quickly (referred to as “social data”).
@@ -53,18 +55,18 @@ The baseline social media metrics in Part 3 are designed to align generally with
 
 There are 10 basic metrics that agencies can analyze through all platforms; organized into seven main categories:
 
-  * **Breadth** 
+  * **Breadth**
       * Community Size
       * Community Growth
-  * **Depth** 
+  * **Depth**
       * Conversions
       * Viewing
-  * **Direct Engagement** 
+  * **Direct Engagement**
       * Engagement Volume
       * Engagement Responsiveness
-  * **Loyalty** 
+  * **Loyalty**
       * Return Community
-  * **Customer Experience** 
+  * **Customer Experience**
       * Sentiment
       * Indicators
       * Survey Feedback
@@ -89,108 +91,108 @@ Breadth is measured through standard social media analytics that provide high-le
 
 **How to Measure**—As the most standard category of social media metric, these are easily reported through the social platforms themselves or their native analytics programs.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Platform Examples
     </th>
-    
+
     <th scope="col" width="20%">
       Name of Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Definition
     </th>
   </tr>
-  
+
   <tr>
     <td>
       Facebook
     </td>
-    
+
     <td>
       1) Fans
     </td>
-    
+
     <td>
       The number of people who &#8216;like&#8217; your page.
     </td>
   </tr>
-  
+
   <tr>
     <td>
     </td>
-    
+
     <td>
       2) Total Reach
     </td>
-    
+
     <td>
       The number of unique people who have seen any content associated with your page.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Twitter
     </td>
-    
+
     <td>
       Followers
     </td>
-    
+
     <td>
       The number of accounts that subscribe to your Twitter feed.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       YouTube
     </td>
-    
+
     <td>
       Subscribers
     </td>
-    
+
     <td>
       The number of subscribers to your channel.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Google+
     </td>
-    
+
     <td>
       Have in Circles
     </td>
-    
+
     <td>
       The number of accounts that circled your account.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Tumblr
     </td>
-    
+
     <td>
       Followers
     </td>
-    
+
     <td>
       The number of people who follow your posts.
     </td>
   </tr>
 </table>
 
- 
+
 
 ### Community Growth
 
@@ -200,39 +202,39 @@ Breadth is measured through standard social media analytics that provide high-le
 
 **How to Measure**—As the most standard category of social media metric, these are easily reported through the social platforms themselves of their native analytics programs.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Platform
     </th>
-    
+
     <th scope="col" width="20%">
       Name of Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Definition
     </th>
   </tr>
-  
+
   <tr>
     <td>
       All
     </td>
-    
+
     <td>
       Change in Number of Community Size
     </td>
-    
+
     <td>
       The number difference between current fans, followers and subscribers from the previous month.
     </td>
   </tr>
 </table>
 
- 
+
 
 ## Depth
 
@@ -252,52 +254,52 @@ Depth is measured through high-level, standard social media analytics that measu
   * Google Analytics displays conversion from social traffic sources.
   * Record Conversion and Conversion Value into your spreadsheet.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Platform
     </th>
-    
+
     <th scope="col" width="20%">
       Name of Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Definition
     </th>
   </tr>
-  
+
   <tr>
     <td>
       All
     </td>
-    
+
     <td>
       Conversion
     </td>
-    
+
     <td>
       Number of completions of a desired activity, such as click-throughs
     </td>
   </tr>
-  
+
   <tr>
     <td>
     </td>
-    
+
     <td>
       Conversion Value
     </td>
-    
+
     <td>
       The value of activity completions
     </td>
   </tr>
 </table>
 
- 
+
 
 ### Viewing
 
@@ -307,65 +309,65 @@ Depth is measured through high-level, standard social media analytics that measu
 
 **How to Measure**—YouTube&#8217;s &#8220;Minutes Watched&#8221; and &#8220;Views&#8221; metrics can be collected through the native YouTube analytics tool.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Platform
     </th>
-    
+
     <th scope="col" width="20%">
       Name of Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Definition
     </th>
   </tr>
-  
+
   <tr>
     <td>
       YouTube
     </td>
-    
+
     <td>
       Views
     </td>
-    
+
     <td>
       The number of total unique views for your channel
     </td>
   </tr>
-  
+
   <tr>
     <td>
     </td>
-    
+
     <td>
       Minutes Watched
     </td>
-    
+
     <td>
       The number of minutes viewers watched content on the channel
     </td>
   </tr>
-  
+
   <tr>
     <td>
     </td>
-    
+
     <td>
       Top Videos
     </td>
-    
+
     <td>
       The most widely viewed videos on your channel
     </td>
   </tr>
 </table>
 
- 
+
 
 ## Direct Engagement
 
@@ -379,52 +381,52 @@ Direct engagement measures the extent to which a visitor uses the social media c
 
 **How to Measure**—The data presented in this category can be collected through updating a spreadsheet after a target event, or through the course of a work day. It may be helpful to collect the content of the queries themselves in order to apply to long-term content and engagement strategy.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Platform
     </th>
-    
+
     <th scope="col" width="20%">
       Name of Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Definition
     </th>
   </tr>
-  
+
   <tr>
     <td>
       All
     </td>
-    
+
     <td>
       Questions Answered/Service-based Transactions
     </td>
-    
+
     <td>
       Number of questions answered through social media.
     </td>
   </tr>
-  
+
   <tr>
     <td>
     </td>
-    
+
     <td>
       Response Time
     </td>
-    
+
     <td>
       Average time it takes to respond to a service request on social media.
     </td>
   </tr>
 </table>
 
- 
+
 
 ### Engagement Volume
 
@@ -434,134 +436,134 @@ Direct engagement measures the extent to which a visitor uses the social media c
 
 **How to Measure**—The high-level data represented in this category is collected and reported through the native analytics programs for each individual tool—Twitter Analytics, Facebook Insights, and YouTube Analytics. Google+ currently has a limited native analytics tool called Ripples, but they plan to release a more robust version with features similar to the others. In the meantime, Hootsuite may be used to track the provided metrics for Google+. Tumblr notes can be most easily counted by viewing the account’s archive.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Platform Examples
     </th>
-    
+
     <th scope="col" width="20%">
       Name of Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Definition
     </th>
   </tr>
-  
+
   <tr>
     <td>
       Facebook
     </td>
-    
+
     <td>
       1) Most Engaging Content
     </td>
-    
+
     <td>
       A compilation of the highest performing content based on &#8216;Engaged Users,&#8217; &#8216;Talking About This&#8217; and &#8216;Virality&#8217;.
     </td>
   </tr>
-  
+
   <tr>
     <td>
     </td>
-    
+
     <td>
       2) Fan Mentions
     </td>
-    
+
     <td>
       The number of mentions, likes and comments that illustrate engagements between users and content.
     </td>
   </tr>
-  
+
   <tr>
     <td>
     </td>
-    
+
     <td>
       3) Talking About This
     </td>
-    
+
     <td>
       The number of unique people liking, sharing, or commenting on your posts.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Twitter
     </td>
-    
+
     <td>
       1) Most Engaging Content
     </td>
-    
+
     <td>
       The top three-five performing tweets for the month based on level of engagement (clicks, favorites, replies, retweets).
     </td>
   </tr>
-  
+
   <tr>
     <td>
     </td>
-    
+
     <td>
       2) Mentions
     </td>
-    
+
     <td>
       The number of unique mentions, including replies and retweets.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Google+
     </td>
-    
+
     <td>
       +1 Shares
     </td>
-    
+
     <td>
       The number of times customers &#8220;+1&#8221; your engagements.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       YouTube
     </td>
-    
+
     <td>
       Engagements
     </td>
-    
+
     <td>
       The number of instances where citizens engage with your agency through thumbs up, comment and shares.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Tumblr
     </td>
-    
+
     <td>
       Notes
     </td>
-    
+
     <td>
       The number of likes and reblogs a post receives.
     </td>
   </tr>
 </table>
 
- 
+
 
 ## Loyalty
 
@@ -579,39 +581,39 @@ You&#8217;ll need to [create a custom segment](http://support.google.com/googlea
 
 [Visitor loyalty numbers](http://www.trendingupward.net/2010/10/visitor-loyalty/) will depend greatly on your customers and the content you produce. Therefore, it&#8217;s important to look at your baseline levels, set a goal and measure your trend over time.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Name of Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Definition
     </th>
   </tr>
-  
+
   <tr>
     <td>
       All
     </td>
-    
+
     <td>
       Regulars Percentage
     </td>
-    
+
     <td>
       The percentage of users who repeat-visit from a particular social media source.
     </td>
   </tr>
 </table>
 
- 
+
 
 ## Customer Experience
 
@@ -631,39 +633,39 @@ Agencies as a result may analyze useful aggregated data that is not personally i
 
 **How to Measure**—There are a variety of free tools available to quickly collect basic, high-level sentiment analysis around accounts, campaigns and programs. Before using them, it is recommended that managers consult with their privacy officers and legal counsel to ensure the tool has acceptable Terms of Service for government use and privacy protections. Also, managers should inform GSA of their interest in a free tool, for possible federal-friendly terms of service negotiation. A growing number of paid services are also available to agencies, which traditionally offer more in-depth analysis. A few examples of these paid tools used by federal agencies include Topsy and Radian6.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Platform
     </th>
-    
+
     <th scope="col" width="20%">
       Name of Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Definition
     </th>
   </tr>
-  
+
   <tr>
     <td>
       All
     </td>
-    
+
     <td>
       Sentiment
     </td>
-    
+
     <td>
       Positive, negative, and neutral engagements about a specific program, event or topic.
     </td>
   </tr>
 </table>
 
- 
+
 
 ### Indicators
 
@@ -673,53 +675,53 @@ Agencies as a result may analyze useful aggregated data that is not personally i
 
 **How to Measure**—Like sentiment, this metric is commonly available through free online tools. Before using a tool agencies should consult with their legal counsel whether the Terms of Service are acceptable to their agency, or contact GSA to explore negotiating federal-friendly terms.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Platform
     </th>
-    
+
     <th scope="col" width="20%">
       Name of Metric
     </th>
-    
+
     <th scope="col" width="20%">
       Definition
     </th>
   </tr>
-  
+
   <tr>
     <td>
       All
     </td>
-    
+
     <td>
       Top Keywords
     </td>
-    
+
     <td>
       Positive, negative or neutral keywords are most associated with your social media content.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Twitter, Google+
     </td>
-    
+
     <td>
       Top Hashtags
     </td>
-    
+
     <td>
       Categories most associated with your social media content.
     </td>
   </tr>
 </table>
 
- 
+
 
 ### Survey Feedback
 
@@ -729,51 +731,51 @@ Agencies as a result may analyze useful aggregated data that is not personally i
 
 **How to Measure**—Most agencies already have access to survey software through their web analytics programs. Agencies should coordinate pre-existing web analysis with their social media analysis in order to best identify trends in overall digital services and reduce duplication of efforts. Agencies should also make sure social media surveys are covered under existing Paperwork Reduction Act clearances.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Sample Question Subject
     </th>
-    
+
     <th scope="col" width="20%">
       Metric
     </th>
   </tr>
-  
+
   <tr>
     <td>
       Satisfaction
     </td>
-    
+
     <td>
       1-5 Scale
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Feedback/Ideas
     </td>
-    
+
     <td>
       Fill in the Blank
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Demographic Information
     </td>
-    
+
     <td>
       Multiple Choice
     </td>
   </tr>
 </table>
 
- 
+
 
 ## Campaigns
 
@@ -785,67 +787,67 @@ Campaign analysis reports how specific programs and tactics perform using the co
 
 **How to Measure**—Campaigns are measured through combinations of metrics, based on the desired outcomes of the activity and characteristics such as community size, engagement levels and responsiveness.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Example Activity
     </th>
-    
+
     <th scope="col" width="20%">
       Sample Metric Combinations
     </th>
-    
+
     <th scope="col" width="20%">
       Narrative Illustrated
     </th>
   </tr>
-  
+
   <tr>
     <td>
       Twitter Townhall
     </td>
-    
+
     <td>
       a. Conversions b. Engagement Responsiveness c. Return Community
     </td>
-    
+
     <td>
       Explains how answering questions with links to follow-up information led to click-throughs from regular community engagers.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Google Hangout educational training
     </td>
-    
+
     <td>
       a. Community Size b. Return Community c. Survey Feedback
     </td>
-    
+
     <td>
       Explains the performance of a social training program through volume of participants, likelihood of return users and how those users rate the engagement.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Hashtag Listening
     </td>
-    
+
     <td>
       a. Sentiment b. Indicators c. Engagement Volume
     </td>
-    
+
     <td>
       Explains what is being communicated in context of a hashtag, what factors influence engagement on the subject, and how active that engagement is.
     </td>
   </tr>
 </table>
 
- 
+
 
 ## Strategic Outcomes
 
@@ -857,67 +859,67 @@ Strategic Outcome analysis reports how the performance of social media strategie
 
 **How to Measure**—Strategic Outcomes are reported narratively through combinations of metrics, campaigns and the goals of your organization.
 
- 
+
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
     <th scope="col" width="15%">
       Sample Strategic Goal
     </th>
-    
+
     <th scope="col" width="20%">
       Sample Metric Combinations
     </th>
-    
+
     <th scope="col" width="20%">
       Narrative Illustrated
     </th>
   </tr>
-  
+
   <tr>
     <td>
       Support Small Business
     </td>
-    
+
     <td>
       a. Engagement Responsiveness b. Community Size c. Small Business Twitter Campaign
     </td>
-    
+
     <td>
       Explains how a campaign to support small businesses is achieving its strategic goal through responsive customer service for the community.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Reduce Costs
     </td>
-    
+
     <td>
       a. Engagement Responsiveness b. Conversion Value c. FAQ Awareness Campaign
     </td>
-    
+
     <td>
       Explains how a campaign to reduce costs is supported by responsiveness, successful conversions and cost comparison between social conversion versus traditional methods.
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Improve Customer Service
     </td>
-    
+
     <td>
       a. Engagement Responsiveness b. Survey Feedback c. Digital &#8220;Call Center&#8221; Campaign
     </td>
-    
+
     <td>
       Explains how the quality of service for a response center exceeds customer expectations through responsiveness benchmarks and feedback directly from citizens.
     </td>
   </tr>
 </table>
 
- 
+
 
 ## Part 4: Resources, Training, and How to Provide Feedback
 
@@ -942,5 +944,3 @@ Ways to provide feedback and engage on this topic:
   * [Email us](mailto:justin.herman@gsa.gov)
 
 We’re also looking to set up a collaborative space to make it easier for multiple contributors to add and upgrade the content. Stay tuned for more information.
-
- 

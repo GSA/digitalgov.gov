@@ -25,11 +25,11 @@ tag:
 
 The **[Federal #SocialGov Community]({{< link "social-media.md" >}})**, a collective of almost 700 digital engagement managers from more than 120 government agencies, marked the 2nd anniversary of our program by releasing a suite of new collaborative services to help us better work together and with partners in the private sector to share resources and build public services of the 21st century.
 
-The online event, **[U.S. Federal SocialGov: 2 years of Smashing Silos + Elevating Citizen Services]({{< link "u-s-federal-socialgov-2-years-of-smashing-silos-improving-citizens-services-with-social-media.md" >}})**, focused on how collaborative, open participation in the development process will help public services better tackle performance analysis, policy development, accessibility for persons with disabilities, international partnerships and global digital engagement support.
+The online event, **U.S. Federal SocialGov: 2 years of Smashing Silos + Elevating Citizen Services**, focused on how collaborative, open participation in the development process will help public services better tackle performance analysis, policy development, accessibility for persons with disabilities, international partnerships and global digital engagement support.
 
 [youtube=http://www.youtube.com/watch?v=5vyAlqOEsuM&w=600]
 
- 
+
 
 Bottom line: social media in government isn&#8217;t just about using digital engagement to tell our story better, but to rewrite the story itself by making government programs better and more cost effective. And we didn&#8217;t throw a party &#8212; we threw down the digital gauntlet.
 
@@ -39,7 +39,7 @@ New resources, which take the collaborative model for ePolicy and eRegulations a
 
   * The new **[Federal Social Media Accessibility toolkit]({{< link "federal-social-media-accessibility-toolkit-hackpad.md" >}})**, updated by the **Department of Labor Office of Disability Employment Policy**. Originally a product of eight agencies working together to provide guidance on better ensuring, it is now offered for open collaboration on **Hackpad** as well as a static webpage for more accessible viewing.
   * The new **Federal Social Media Policy Development toolkit**, a resource launched by a 20-agency working group to identify and provide customizable examples of key provisions found in government social media policies, or ones needed to drive positive change in the coming years &#8212; also on Hackpad for open collaboration.
-  * The **[Federal Social Media Performance Analytics toolkit]({{< link "federal-social-media-analytics-toolkit-hackpad.md" >}})**, a resource launched by a 12-agency working group to identify the metrics and reporting methodologies important or unique to public services &#8212; also, for the first time, open for public contribution.
+  * The **[Federal Social Media Performance Analytics toolkit]({{< link "2013-04-19-social-media-metrics-for-federal-agencies.md" >}})**, a resource launched by a 12-agency working group to identify the metrics and reporting methodologies important or unique to public services &#8212; also, for the first time, open for public contribution.
 
 {{< legacy-img src="2014/07/540-x-335-Gwynne-Kostin-SocialGov-Google-Hangout-June-30-2014-e1404160278689.jpg" alt="Gwynne Kostin, Director, Center for Digital Government & Digital Services Innovation Center, Office of Citizen Services & Innovative Technologies U.S. General Services Administration" >}}
 

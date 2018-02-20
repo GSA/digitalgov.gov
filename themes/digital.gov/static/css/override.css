@@ -693,9 +693,9 @@ ul#filter li a:hover {
 }
 
 .wp-caption-text {
-  font-size: 9px !important;
-  color: #ccc;
-  padding: 0 0 0 5px !important;
+  font-size: 13px !important;
+  color: #787878;
+  padding: 0 0 0 0 !important;
   text-align: left !important;
 }
 

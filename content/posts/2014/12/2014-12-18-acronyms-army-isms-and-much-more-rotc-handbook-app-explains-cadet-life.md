@@ -27,4 +27,4 @@ For current cadets, the app contains an incredible amount of handy reference mat
 
 The app is available for Android devices. It was published in mobile format in partnership with Combined Arms Support Command’s Technology Integration Branch in Ft. Lee, Virginia.
 
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry]({{< link "the-federal-mobile-apps-registry.md" >}})._
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._

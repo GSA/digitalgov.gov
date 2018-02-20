@@ -18,7 +18,7 @@ tag:
 
 {{< legacy-img src="2015/07/250-x-250-Modern-digital-media-website-connection-1-sphere-abstract-scheme-tovovan-iStock-Thinkstock-468874585.jpg" alt="A wire sphere of connected content type or pages of a website" caption="" >}}
 
-A [Content Management System]({{< link "the-results-are-in-2015-comprehensive-web-cms-customer-survey.md" >}}) (CMS) allows people to easily publish, maintain and update information online. Choosing a CMS (or [deciding whether you need one at all]({{< link "2013-12-12-9-reasons-your-agency-should-have-a-cms.md" >}})) is one that many agencies have faced. It’s not an easy choice because there are many solutions available to content managers.
+A Content Management System (CMS) allows people to easily publish, maintain and update information online. Choosing a CMS (or [deciding whether you need one at all]({{< link "2013-12-12-9-reasons-your-agency-should-have-a-cms.md" >}})) is one that many agencies have faced. It’s not an easy choice because there are many solutions available to content managers.
 
 As government agencies, the majority of content we deliver is for a large audience, the public. Therefore, your CMS should be a tool that will allow you to quickly and easily share information with the public.
 
