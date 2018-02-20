@@ -66,12 +66,15 @@
 .event-type{
 	margin-bottom: 7px;
 	color: #000 !important;
+	font-size: 14px;
+	margin-left: 4px;
+	display: inline-block;
+}
+.event-type span{
+	margin-right: 4px;
 	padding: 1px 8px 2px 8px;
 	border: #9DA2A6 1px solid;
 	border-radius: 2px;
-	font-size: 14px;
-	margin-right: 4px;
-	display: inline-block;
 }
 
 .events-list .event-details .event-date{
