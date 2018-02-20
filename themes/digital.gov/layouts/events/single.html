@@ -12,15 +12,7 @@
     <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
     <h1>{{ .Title | markdownify }}</h1>
     <div class="event-details">
-      {{ if eq .Params.event_type "online" }}
-      <p class="event-type" title="{{ $.Scratch.Get "displaytitle" }}" >Online</p>
-      {{ else if eq .Params.event_type "youtube-live" }}
-      <p class="event-type" title="{{ $.Scratch.Get "displaytitle" }}" >YouTube LIVE</p>
-      {{ else if eq .Params.event_type "mixed" }}
-      <p class="event-type" title="{{ $.Scratch.Get "displaytitle" }}" >In-person & Online</p>
-      {{ else }}
-      <p class="event-type" title="{{ $.Scratch.Get "displaytitle" }}" >In-Person</p>
-      {{ end }}
+
       <span class="event-date">
         {{ with .Date }}
         {{ . | dateFormat "Monday, January 02" }}
@@ -34,6 +26,9 @@
           {{ end }}
         </span>
       </span>
+
+      {{ partial "event-type.html" . }}
+      
     </div>
 
 

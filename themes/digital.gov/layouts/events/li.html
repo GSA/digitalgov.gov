@@ -10,16 +10,8 @@
 
   <!-- Event Meta -->
   <div class="event-details">
-    {{ if eq .Params.event_type "online" }}
-    <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
-    {{ else if eq .Params.event_type "youtube-live" }}
-    <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">YouTube LIVE</a>
-    {{ else if eq .Params.event_type "mixed" }}
-    <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-person & Online</a>
-    {{ else }}
-    <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
-    {{ end }}
     <span class="event-date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
+    {{ partial "event-type.html" . }}
     <p class="summary">{{ .Params.summary | markdownify }}</p>
   </div>
 
