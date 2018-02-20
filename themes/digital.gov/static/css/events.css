@@ -103,6 +103,30 @@
 .addtocalendar.btn a{
 	color: #fff !important;
 }
+.addtocalendar.btn var{
+	display: none;
+}
+.addtocalendar.btn ul{
+	border: 1px solid rgb(186,186,186);
+	box-shadow: 0 0 5px #AAA;
+	padding: 0;
+}
+.addtocalendar.btn ul li{
+	margin: 0;
+	color: #000 !important;
+	background: none;
+	list-style-type: none;
+}
+.addtocalendar.btn ul li a{
+	padding: .5em 1em;
+	color: #000 !important;
+	font-weight: 500;
+	font-size: 14px;
+}
+.addtocalendar.btn ul li a:hover{
+	background: #2673DF;
+	color: #fff !important;
+}
 
 #events-past{
 	margin-top: 80px;
