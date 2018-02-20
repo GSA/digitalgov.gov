@@ -15,7 +15,7 @@
 
       <span class="event-date">
         {{ with .Date }}
-        {{ . | dateFormat "Monday, January 02" }}
+        {{ . | dateFormat "Monday, January 02," }}
         {{ end }}
         <span>
           {{ with .Date }}
@@ -28,7 +28,7 @@
       </span>
 
       {{ partial "event-type.html" . }}
-      
+
     </div>
 
 
