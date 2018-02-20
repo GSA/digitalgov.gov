@@ -57,41 +57,19 @@
   </div>
 
   <!-- If event_type == "online" -->
-  {{ if eq .Params.event_type "online" }}
-
-    {{ if (isset .Params "youtube_id") }}
-      {{ partial "event-stage.html" . }}
-    {{ end }}
-
-  <!-- else if "youtube-live" -->
-  {{ else if eq .Params.event_type "youtube-live" }}
-    {{ if (isset .Params "youtube_id") }}
-      {{ partial "event-stage.html" . }}
-    {{ end }}
-
-  <!-- else if "mixed" -->
-  {{ else if eq .Params.event_type "mixed" }}
-
-    {{ if (isset .Params "youtube_id") }}
-      {{ partial "event-stage.html" . }}
-    {{ end }}
-
+  {{ if (isset .Params "youtube_id") }}
+    {{ partial "event-stage.html" . }}
   {{ end }}
+
 
   <div class="event-content">
     {{ .Content }}
   </div>
 
-  <!-- location -->
-  {{ if eq .Params.event_type "mixed" }}
-
+  {{ if (isset .Params "venue") }}
     {{ partial "event-location.html" . }}
-
-  {{ else if eq .Params.event_type "in-person" }}
-
-  	{{ partial "event-location.html" . }}
-
   {{ end }}
+
 
   <div class="entry-meta">
     <div class="rule"></div>
