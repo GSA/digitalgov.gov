@@ -12,6 +12,8 @@
   <div class="event-details">
     {{ if eq .Params.event_type "online" }}
     <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
+    {{ else if eq .Params.event_type "youtube-live" }}
+    <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">YouTube LIVE</a>
     {{ else if eq .Params.event_type "mixed" }}
     <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-person & Online</a>
     {{ else }}

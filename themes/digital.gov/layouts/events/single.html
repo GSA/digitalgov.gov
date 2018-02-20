@@ -13,11 +13,13 @@
     <h1>{{ .Title | markdownify }}</h1>
     <div class="event-details">
       {{ if eq .Params.event_type "online" }}
-      <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
+      <p class="event-type" title="{{ $.Scratch.Get "displaytitle" }}" >Online</p>
+      {{ else if eq .Params.event_type "youtube-live" }}
+      <p class="event-type" title="{{ $.Scratch.Get "displaytitle" }}" >YouTube LIVE</p>
       {{ else if eq .Params.event_type "mixed" }}
-      <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-person & Online</a>
+      <p class="event-type" title="{{ $.Scratch.Get "displaytitle" }}" >In-person & Online</p>
       {{ else }}
-      <a class="event-type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
+      <p class="event-type" title="{{ $.Scratch.Get "displaytitle" }}" >In-Person</p>
       {{ end }}
       <span class="event-date">
         {{ with .Date }}
@@ -62,6 +64,12 @@
   <!-- If event_type == "online" -->
   {{ if eq .Params.event_type "online" }}
 
+    {{ if (isset .Params "youtube_id") }}
+      {{ partial "event-stage.html" . }}
+    {{ end }}
+
+  <!-- else if "youtube-live" -->
+  {{ else if eq .Params.event_type "youtube-live" }}
     {{ if (isset .Params "youtube_id") }}
       {{ partial "event-stage.html" . }}
     {{ end }}
