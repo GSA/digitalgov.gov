@@ -2,10 +2,11 @@
 slug: us-web-design-standards-monthly-users-call
 title: 'U.S. Web Design Standards Monthly Users Call'
 summary: 'In our next monthly users call, the U&#46;S&#46; Web Design Standards core team will share what they’re working on in 2018&#46;'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: online
+event_type: 
+  - online
 date: 2018-01-26 13:00:00 -0400
 end_date: 2018-01-26 13:30:00 -0400
 event_organizer: DigitalGov University

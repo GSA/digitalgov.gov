@@ -46,7 +46,7 @@
 a:hover,
 a:focus,
 a:active {
-    outline: 1px dashed #3568A9 !important;
+    /* outline: 1px dashed #3568A9 !important; */
 }
 
 

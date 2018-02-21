@@ -9,6 +9,7 @@ js: [front-matter.js]
 css: [front-matter.css]
 ---
 
+
 <div class="matter-editor">
   <div class="gcol gcol1">
     <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
@@ -36,7 +37,15 @@ css: [front-matter.css]
       <div class="block type-block">
         <h4>Event</h4>
         <div class="btn-group event_types">
-          <button class="btn selected" type="button" data-type="online">online</button><button class="btn" type="button" data-type="mixed">both</button><button class="btn" type="button" data-type="in-person">in-person</button>
+          <div class="checkbox">
+            <label for="youtube-live"><input type="checkbox" class="fm" checked id="youtube-live" name="event_type" value="youtube-live"> YouTube LIVE</label>
+          </div>
+          <div class="checkbox">
+            <label for="online"><input type="checkbox" class="fm" id="online" name="event_type" value="online"> Online</label>
+          </div>
+          <div class="checkbox">
+            <label for="in-person"><input type="checkbox" class="fm" id="in-person" name="event_type" value="in-person"> In Person</label>
+          </div>
         </div>
         <label class="m_date">
           Start Date

@@ -5,7 +5,9 @@ summary: 'Join the CX Community for their first meeting of 2018 where CRM in gov
 featured_image:
   uid:
   alt: ''
-event_type: mixed
+event_type:
+  - in-person
+  - online
 date: 2018-02-13 10:00:00 -0500
 end_date: 2018-02-13 12:00:00 -0500
 event_organizer: DigitalGov University
@@ -23,7 +25,7 @@ venue:
 
 ---
 
-## About the Event 
+## About the Event
 
 Join the CX Community at our first 2018 meeting to learn about best practices, pitfalls and tips in creating your agency Customer Relationship Management (CRM) program.
 
@@ -38,7 +40,7 @@ We’ll discuss the following about CRM:
 
 This is a great opportunity to network with other community members too!
 
-### Agenda 
+### Agenda
 
 <table>
   <tr>

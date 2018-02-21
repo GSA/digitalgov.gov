@@ -5,7 +5,8 @@ summary: 'In this online event, the FedRAMP team will highlight how they support
 featured_image:
   uid: featued-301-x-212-fedramp-2017-5th-anniversary-logo
   alt: 'FedRAMP Logo'
-event_type: online
+event_type:
+  - youtube-live
 date: 2018-02-14 12:00:00 -0500
 end_date: 2018-02-14 13:00:00 -0500
 event_organizer: DigitalGov University
