@@ -247,7 +247,6 @@ jQuery(document).ready(function($) {
   });
 
 
-
   function get_event_type(){
     var allVals = [];
     $('.event_types :checked').each(function() {
@@ -327,6 +326,9 @@ jQuery(document).ready(function($) {
       if (event_type_array.includes("in-person")) {
         var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
         var venue_frontmatter = "venue: " + build_venue_data(venue_data);
+        $('.venue-block').show();
+      } else{
+        $('.venue-block').hide();
       }
       var matter = [
         "---",
