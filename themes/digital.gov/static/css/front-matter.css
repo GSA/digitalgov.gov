@@ -113,7 +113,7 @@
   margin-bottom: 0;
 }
 
-.gcol1 .checkbox{
+.gcol1 .checkbox input{
   display: inline;
   width:25px;
 }
