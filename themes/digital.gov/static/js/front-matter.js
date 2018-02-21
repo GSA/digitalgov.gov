@@ -253,7 +253,7 @@ jQuery(document).ready(function($) {
     $('.event_types :checked').each(function() {
       allVals.push($(this).val());
     });
-    return list_items(allVals);
+    return allVals;
   }
 
 
@@ -321,10 +321,13 @@ jQuery(document).ready(function($) {
     // ========================================
     // In-Person or Mixed EVENT
     } else if (post_type == 'event') {
-      var event_type = get_event_type();
-      console.log(event_type);
+      var event_type_array = get_event_type();
+      var event_types = list_items(event_type_array);
 
-      var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
+      if (event_type_array.includes("in-person")) {
+        var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
+        var venue_frontmatter = "venue: " + build_venue_data(venue_data);
+      }
       var matter = [
         "---",
           "slug: " + slug,
@@ -333,46 +336,18 @@ jQuery(document).ready(function($) {
           "featured_image: " + '',
           "  uid: " + data['m_featuredimg'],
           "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
-          "event_type: " + event_type,
+          "event_type: " + event_types,
           "date: " + date,
           "end_date: " + end_date,
           "event_organizer: " + data['m_event_organizer'],
           "host: " + data['m_host'],
           "registration_url: " + data['m_registration_url'],
           "youtube_id: " + data['m_youtube_id'],
-          "venue: " + build_venue_data(venue_data),
+          venue_frontmatter,
         "---",
         ,
         "***Paste body content here. Delete this line***"
       ].join("\n");
-
-
-
-      // ========================================
-      // Online EVENT
-      if (event_type == 'in-person' || event_type == 'mixed') {
-      } else {
-        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube_id, m_event_type, m_registration_url, m_host');
-        var matter = [
-          "---",
-            "slug: " + slug,
-            "title: " + title,
-            "summary: " + summary,
-            "featured_image: " + '',
-            "  uid: " + data['m_featuredimg'],
-            "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
-            "event_type: " + event_type,
-            "date: " + date,
-            "end_date: " + end_date,
-            "event_organizer: " + data['m_event_organizer'],
-            "host: " + data['m_host'],
-            "registration_url: " + data['m_registration_url'],
-            "youtube_id: " + data['m_youtube_id'],
-          "---",
-          ,
-          "***Paste body content here. Delete this line***"
-        ].join("\n");
-      }
 
       var body = encodeURIComponent(matter);
       var newfile = 'https://github.com/GSA/digitalgov.gov/new/master/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
