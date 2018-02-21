@@ -184,8 +184,6 @@ jQuery(document).ready(function($) {
 
   // Makes lists in the front matter
   function list_items(d) {
-    console.log(d);
-    console.log(d.toString());
     d = d.toString();
     var list = d.split(',');
     $item = '';
@@ -200,7 +198,6 @@ jQuery(document).ready(function($) {
         $item += '  - ' + $.trim(slug) + '\n';
       }
     });
-    console.log($item);
     return $item;
   }
 
@@ -238,6 +235,8 @@ jQuery(document).ready(function($) {
     }
   }
 
+  set_1800f(true);
+  $('.m_1800f input').prop('checked', true);
   $('.m_1800f input').click(function(){
     if (this.checked) {
       set_1800f(true);
