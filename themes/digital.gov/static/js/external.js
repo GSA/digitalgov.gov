@@ -1,16 +1,21 @@
 jQuery(document).ready(function($) {
 
+var featured_height = $('.featured-video').height();
+var featured_hed = $('.featured-news .hed').height();
+var featured_foot = $('.featured-news .foot').height();
+console.log(featured_height - featured_hed - featured_foot);
+$('.featured-news .wrap').height(featured_height - featured_hed - featured_foot);
 
-$(".btn_events_past").click(function(e) {
-	e.preventDefault();
-	$("#events_past").toggle();
-	if ($(this).hasClass("btn_events_past_close")) {
-		$(".btn_events_past_close").text('View past events').removeClass('btn_events_past_close');
-	} else {
-		$(this).text('Hide past events').addClass('btn_events_past_close');
+$( window ).resize(function() {
+	var is_mobile = false;
+	if( $('.featured-news .wrap').css('overflow')=='auto') {
+	  is_mobile = true;
 	}
-
+	if (is_mobile == true) {
+		$('.featured-news .wrap').css('height', 'auto');
+	}
 });
+
 
 // Transforms the Edit link on posts/pages/events to point to the GitHub file
 function transform_edit_file_link(){

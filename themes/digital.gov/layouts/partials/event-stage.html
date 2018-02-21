@@ -1,0 +1,12 @@
+<div class="stage" data-eventdate="{{ .Date }}">
+  <div class="video-box">
+    <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
+  </div>
+  <div class="chat-box">
+    <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain={{ "" | absURL }}"></iframe>
+  </div>
+  <p>
+    <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a>
+    <!-- <a href="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&is_popout=1" title="View Live Chat on YouTube"><strong>Live Chat</strong></a> -->
+  </p>
+</div>

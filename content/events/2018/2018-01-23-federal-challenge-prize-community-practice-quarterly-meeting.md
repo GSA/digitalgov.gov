@@ -5,7 +5,9 @@ summary: 'This quarterly meeting brings together federal employees from a range 
 featured_image:
   uid:
   alt: ''
-event_type: mixed
+event_type:
+  - in-person
+  - youtube-live
 date: 2018-02-27 9:00:00 -0400
 end_date: 2018-02-27 12:00:00 -0400
 event_organizer: DigitalGov University
@@ -20,6 +22,7 @@ venue:
   zip: 20405
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
+
 
 ---
 
@@ -58,11 +61,11 @@ This quarterly meeting brings together federal employees from a range of agencie
   </tr>
   <tr>
     <td>11:00 a.m.</td>
-    <td><strong>Executive Update from the White House</strong><ul><li>Matt Lira, White House Office of American Innovation <i>(invited)</i></li></ul></td>
+    <td><strong>Executive Update from the White House</strong><ul><li>Matt Lira, White House Office of American Innovation </li></ul></td>
   </tr>
   <tr>
     <td>11:15 a.m.</td>
-    <td><strong>Helping Hands: Spotlight on Humanitarian Efforts</strong><ul><li></i>Lorin Kavanaugh-Ulku,U.S. Agency for International Development</li>Devorah West, U.S. Agency for International Development<li><ul><li></i> </li><li>Edward Elliott,  U.S. Patent & Trademark Office</li></ul></td>
+    <td><strong>Helping Hands: Spotlight on Humanitarian Efforts</strong><ul><li>Lorin Kavanaugh-Ulku, U.S. Agency for International Development</li><li>Devorah West, U.S. Agency for International Development</li><li>Edward Elliott,  U.S. Patent & Trademark Office</li></ul></td>
   </tr>
   <tr>
     <td>12:00p.m.</td>

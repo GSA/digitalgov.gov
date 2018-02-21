@@ -1,0 +1,43 @@
+
+{{ $these := slice "resources" "services" "communities" }}
+{{ $findInPages := where .Site.Pages "Section" "in" $these }}
+
+<section id="news">
+  <div class="container">
+    <div class="row">
+      <div class="col featured-video">
+        <div class="hed">
+          <h4>Featured Video</h4>
+          <a href="#">See all ></a>
+        </div>
+
+        {{ range $i, $e := first 2 ($.Site.Data.featured_videos.featured) }}
+
+          {{ $c :=add $i 1 }}
+          <div class="entry">
+            <div class="youtube-player" data-id="{{ .uid }}"></div>
+            <h3 class="post-title"><a href="https://www.youtube.com/watch?v={{ .uid }}" title="{{ .title }}">{{ .title }}</a></h3>
+          </div>
+
+        {{ end }}
+      </div>
+      <div class="col featured-news ">
+        <div class="hed">
+          <h4>Latest News</h4>
+          <a href="#">See all ></a>
+        </div>
+        <div class="wrap">
+          {{ range first 15 (where .Site.Pages "Section" "posts") }}
+          <div class="entry">
+            <!-- {{ partial "img-featured--home.html" . }} -->
+            <p><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"><strong>{{ .Title | markdownify }}</strong></a> — {{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;more&nbsp;»</a> <span class="date">{{ .Date.Format "Jan _2, 3:05 PM" }}</span></p>
+          </div>
+          {{ end }}
+        </div>
+        <div class="foot">
+          <a href="#">See all news ></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
