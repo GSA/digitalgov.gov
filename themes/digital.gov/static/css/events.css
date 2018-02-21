@@ -10,7 +10,7 @@
 	color:#000 !important;
 }
 #events-listing a{
-	color: #2673DF;
+	color: #fff;
 }
 .events-head{
 	margin-bottom: 55px;
@@ -198,6 +198,9 @@
 }
 .event .event-head .event-actions{
 	margin:  0;
+}
+.event .event-head .event-actions a{
+	color: #fff;
 }
 
 /* Live Video Stage */
