@@ -7,7 +7,7 @@ end_date: 2017-12-13 12:00:00 -0400
 event_organizer: DigitalGov University
 host: Emerging Citizen Technology program
 registration_url: https://www.eventbrite.com/e/inter-agency-federal-emerging-citizen-technologies-forum-registration-41119725205
-venue: 
+venue:
   venue_name: U.S. General Services Administration
   room: 1461
   address: 1800 F Street NW
@@ -20,7 +20,7 @@ venue:
 ---
 This **in-person and online meeting** is for government employees only. Capacity is limited for in-person attendance.
 
-GSA’s [Emerging Citizen Technology program](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology) is hosting its new monthly forum -- this month discussing everything from U.S. Digital Registry open office hours, updates on Amazon Alexa terms of service, the new "Paths to Acquisition" resource, training and education needs, the launch of our new Venture Capital Advisory Group, and more. 
+GSA’s [Emerging Citizen Technology program](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology) is hosting its new monthly forum -- this month discussing everything from U.S. Digital Registry open office hours, updates on Amazon Alexa terms of service, the new "Paths to Acquisition" resource, training and education needs, the launch of our new Venture Capital Advisory Group, and more.
 
 Co-organizers:
 
@@ -38,7 +38,7 @@ Co-organizers:
 
 - New“Paths to Acquisition” resource (Kelly Pippin, FAS)
 
-[11:00-11:15] New ECTO Venture Capital Advisory Group (Molly Cain and Jennifer Hoover, DHS) 
+[11:00-11:15] New ECTO Venture Capital Advisory Group (Molly Cain and Jennifer Hoover, DHS)
 
 - Venture, Innovation and Engagement (VICE) #InnovateDHS)
 
