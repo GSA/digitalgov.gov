@@ -15,7 +15,7 @@
 .events-head{
 	margin-bottom: 55px;
 }
-.events-head h1{
+.events-head h2{
 	margin-top:0;
 	margin-bottom: 18px;
 	font-size: 30px;
@@ -84,7 +84,7 @@
 	display: block;
 }
 
-.btn{
+.btn, a.btn{
 	display: inline-block;
 	color: #fff;
 	padding:10px 16px;
@@ -94,12 +94,12 @@
 	font-weight: bold;
 }
 
-.btn-open{
+.btn-open, a.btn-open{
 	background: #fff;
 	border:3px solid #2673DF;
 	color:#2673DF !important;
 }
-.event_register{
+.btn.event_register, a.btn.event_register {
 	background: #000;
 }
 .addtocalendar.btn{

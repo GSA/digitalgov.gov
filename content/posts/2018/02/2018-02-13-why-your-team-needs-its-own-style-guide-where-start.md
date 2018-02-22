@@ -12,12 +12,17 @@ categories:
   - mobile
   - content
 tag:
-  - ux
-  - design
   - accessibility
+  - cfpb
+  - consumer-financial-protection-bureau
+  - federal-reserve-board
+  - frb
+  - united-states-patent-and-trademark-office
+  - uspto
+  - ux
 featured_image:
-  uid: ustpo-ui-design-gallery-primary-ui-color-swatches
-  alt: 'USPTO Primary UI Colors.'
+  uid: cfpb-secondary-color-palette-swatches-featured
+  alt: 'CFPB Design Manual: Secondary Colors Palette.'
 
 ---
 
@@ -56,9 +61,9 @@ Consider your team’s needs, preferences and context to create a style guide th
     You can also think about user testing your style guide, or particular sections, to confirm that your team is aligned with other departments. Would agency communications or public affairs be interested in editing or contributing? Is your guide easily accessible as judged by its copy?
 *   **Provide a Design Education**: Design can appear confusing and complicated – and even pretentious – for those that haven’t studied it. Your style guide is an opportunity to show how a streamlined design system can create clarity and showcase just how far design decisions can reach. If you reframe the project as a way to educate about design, how would your approach change?
 *   **Integrate Other Design Related Resources**: Has your team hashed out its own set of design or experience principles? Does your agency have a writing guidelines or guidance on grammar? Where do you store your current assets – like photography and icons? Does everyone know where these files live? Think about other useful and existing resources to incorporate into your style guide.
-*   **Reduce, Reuse, Remix**: Our team has a set of user experience principles that explain what we do and how we approach our work. One of our tenants, “reduce, reuse and remix,” is easily my favorite. It’s not always necessary to build from scratch, and if we can reuse code, design or copy from existing places, we encourage each other to do so. Fortunately, there are incredible existing pattern libraries that take into account the needs and challenges of designers in federal government. The [U.S. Web Design System](https://designsystem.digital.gov/), the [USTPO UI Design Gallery](https://uspto.github.io/designpatterns/) and the [CFPB’s Design Manual](https://cfpb.github.io/design-manual/) all helped us follow patterns where it made sense, but allowed us to get creative in solving design problems unique to our organization.
+*   **Reduce, Reuse, Remix**: Our team has a set of user experience principles that explain what we do and how we approach our work. One of our tenants, “reduce, reuse and remix,” is easily my favorite. It’s not always necessary to build from scratch, and if we can reuse code, design or copy from existing places, we encourage each other to do so. Fortunately, there are incredible existing pattern libraries that take into account the needs and challenges of designers in federal government. The [U.S. Web Design System](https://designsystem.digital.gov/), the [USPTO UI Design Gallery](https://uspto.github.io/designpatterns/) and the [CFPB’s Design Manual](https://cfpb.github.io/design-manual/) all helped us follow patterns where it made sense, but allowed us to get creative in solving design problems unique to our organization.
 
-{{< img src="ustpo-ui-design-gallery-primary-ui-color-swatches" caption="USPTO UI Design Library: 10 [Primary UI colors](https://uspto.github.io/designpatterns/1.x/docs/foundation/colors.html)." alt="USPTO UI Design Library: 10 Primary UI colors." >}}
+{{< img src="uspto-primary-ui-color-swatches" >}}
 
 ## Instant Impact
 
