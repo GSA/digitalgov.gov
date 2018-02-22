@@ -9,7 +9,7 @@ jQuery(document).ready(function($) {
 	function futureDateTime( dateTime ) {
 		var now = new Date();
 		var future = false;
-		if( Date.parse(now) < Date.parse(dateTime) ) {
+		if( Date.parse(now.toISOString()) < Date.parse(dateTime) ) {
 			future = true;
 		}
 		return future;
@@ -20,7 +20,6 @@ jQuery(document).ready(function($) {
 		if (future == true) {
 			$(".events-single .event .stage").hide();
 		}
-		console.log(future);
 	}
 
 
