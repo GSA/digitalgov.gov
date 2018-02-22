@@ -67,10 +67,9 @@
 	margin: 8px 0;
 }
 .event-type{
-	margin-bottom: 7px;
+	margin-top: 13px;
 	color: #000 !important;
 	font-size: 14px;
-	margin-left: 10px;
 	display: inline-block;
 }
 .event-type span{
@@ -85,6 +84,7 @@
 .events-list .event-details .event-date{
 	color:#222;
 	display: block;
+	margin-right: 10px;
 }
 
 .btn, a.btn{
@@ -271,7 +271,7 @@
 @media only screen and (min-width: 576px) {
 
 	.events-list .event-details .event-type{
-		margin-bottom:0;
+		margin-top:0;
 	}
 	.event .event-details .event-date{
 		font-size:20px;
