@@ -9,13 +9,14 @@
 	margin-bottom: 120px;
 	color:#000 !important;
 }
-#events-listing a{
+#events-listing .event a{
 	color: #fff;
 }
 .events-head{
 	margin-bottom: 55px;
 }
-.events-head h2{
+.events-head h1,
+.events-head h2 {
 	margin-top:0;
 	margin-bottom: 18px;
 	font-size: 30px;
