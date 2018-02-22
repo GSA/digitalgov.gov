@@ -1,6 +1,8 @@
 #events{
-	margin: 80px 0;
+	margin: 35px 0;
 	padding: 20px 0;
+}
+.home #events{
 	border-top: 5px #000 solid;
 }
 
