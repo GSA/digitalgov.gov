@@ -5,41 +5,49 @@
 
 {{ define "content" }}
 
-<div id="events-listing">
+<section id="events">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div id="events-listing">
 
-  <div class="events-current events-list">
-    <div class="events-head">
-      <h1>Upcoming Events</h1>
-      <p>
-        <a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a>
-      </p>
+          <div class="events-current events-list">
+            <div class="events-head">
+              <h1>Upcoming Training & Events</h1>
+              <p>
+                <a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a>
+              </p>
+            </div>
+
+            {{ range where .Data.Pages.ByDate "Section" "events" }}
+              {{ if ge .Date.Unix (now.AddDate 0 0 -1) }}
+                {{ .Render "li"}}
+              {{ end }}
+            {{ end }}
+
+          </div>
+
+
+          <div id="events-past" class=" events-list">
+
+            <div class="events-head">
+              <h1>Past Events</h1>
+              <p><a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a></p>
+            </div>
+
+            {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
+            {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
+              {{ .Render "past"}}
+            {{ end }}
+
+          </div>
+
+          <a href="#" class="btn btn-open btn_events_past">View past events</a>
+
+        </div>
+      </div>
     </div>
-
-    {{ range where .Data.Pages.ByDate "Section" "events" }}
-      {{ if ge .Date.Unix (now.AddDate 0 0 -1) }}
-        {{ .Render "li"}}
-      {{ end }}
-    {{ end }}
-
   </div>
-
-
-  <div id="events-past" class=" events-list">
-
-    <div class="events-head">
-      <h1>Past Events</h1>
-      <p><a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a></p>
-    </div>
-
-    {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
-    {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-      {{ .Render "past"}}
-    {{ end }}
-
-  </div>
-
-  <a href="#" class="btn btn-open btn_events_past">View past events</a>
-
-</div>
+</section>
 
 {{ end }}
