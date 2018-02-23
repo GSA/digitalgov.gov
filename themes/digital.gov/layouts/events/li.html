@@ -9,20 +9,14 @@
   </h3>
 
   <!-- Event Meta -->
-  <div class="event_details">
-    {{ if eq .Params.event_type "online" }}
-    <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">Online</a>
-    {{ else if eq .Params.event_type "mixed" }}
-    <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-person & Online</a>
-    {{ else }}
-    <a class="event_type" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">In-Person</a>
-    {{ end }}
-    <span class="event_date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
+  <div class="event-details">
+    <span class="event-date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
+    {{ partial "event-type.html" . }}
     <p class="summary">{{ .Params.summary | markdownify }}</p>
   </div>
 
   <!-- Event actions -->
-  <div class="event_actions">
+  <div class="event-actions">
 
     <a class="event_btn btn" href="{{ .URL }}" title="Details: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Event details</strong></a>
     {{ if .Params.registration_url }}

@@ -2,10 +2,11 @@
 slug: dap-learning-series-creating-your-own-campaign-url-builder
 title: 'DAP Learning Series&#58; Creating Your Own Campaign URL builder'
 summary: 'This online event will cover how to create a campaign URL in Google Analtyics and how to effectively implement it&#46;'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: online
+event_type:
+  - youtube-live
 date: 2018-04-18 15:00:00 -0400
 end_date: 2018-04-18 16:00:00 -0400
 event_organizer: DigitalGov University
@@ -34,5 +35,3 @@ _The Digital Analytics Program (DAP) offers advanced, easy web analytics to fede
 - [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
 - [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
-
----

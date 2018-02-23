@@ -5,7 +5,8 @@ summary: 'Virtual open office hours to answer your questions about the U.S. Digi
 featured_image:
   uid:
   alt:
-event_type: online
+event_type: 
+  - online
 date: 2018-02-14 10:00:00 -0500
 end_date: 2018-02-14 10:30:00 -0500
 event_organizer: DigitalGov University

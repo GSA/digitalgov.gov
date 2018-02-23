@@ -1,0 +1,12 @@
+{{ $data := $.Site.Data.events }}
+{{ if (not (isset .Params "event_type")) | or (eq .Params.event_type "") }}
+{{ else }}
+  {{ $_eventtype := .Params.event_type }}
+  {{ $length := $_eventtype | len }}
+  <p class="event-type">
+  {{ range $i, $e := $_eventtype }}
+    {{ $etype := index $data $e }}
+    <span title="{{ $.Scratch.Get "displaytitle" }}">{{ $etype.name | default $e }}</span>
+  {{ end }}
+  </p>
+{{ end }}
