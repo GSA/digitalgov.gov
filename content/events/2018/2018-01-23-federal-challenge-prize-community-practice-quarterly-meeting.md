@@ -45,7 +45,7 @@ This quarterly meeting brings together federal employees from a range of agencie
   </tr>
   <tr>
     <td>9:10 a.m.</td>
-    <td><strong>The DARPA Design: From Infectious Disease to Underground Infrastructure</strong><ul><li>Col Matthew Hepburn, Defense Advanced Research Projects Agency (DARPA)</li><li>Dr. Timothy Chung, Defense Advanced Research Projects Agency (DARPA)</ul></td>
+    <td><strong>The DARPA Design: From Infectious Disease to Underground Infrastructure</strong><ul><li>Col Matthew Hepburn, Defense Advanced Research Projects Agency (DARPA)</li></ul></td>
   </tr>
   <tr>
     <td>9:30 a.m.</td>
