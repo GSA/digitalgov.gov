@@ -25,10 +25,10 @@ This one-hour talk will help you deliver what your customers want and defend you
 
 In an age of ‘mobile-friendly,’ it has never been more important to streamline and simplify. More than anything, mobile demands simplicity and speed, and the essence of the Top Tasks approach is to make it easier and faster for people to do the things they need to do with government. The Top Tasks approach has been adopted by the Canadian and UK governments, and the European Union.
 
-**Top Tasks Identification**
+#### Top Tasks Identification
 Top Tasks Identification helps you clearly identify the top tasks of your customers AND the tiny tasks. It is about developing clear evidence based on data about what is important—and what is not important—to your customers. It’s about prioritization and true focus on customer experience.
 
-**Task Performance Indicator**
+#### Task Performance Indicator**
 The Task Performance Indicator helps you measure the performance of the top tasks of your customers. The Task Performance Indicator is driven by two key metrics:
 
 - Success rate: How many customers are actually able to complete top tasks?
