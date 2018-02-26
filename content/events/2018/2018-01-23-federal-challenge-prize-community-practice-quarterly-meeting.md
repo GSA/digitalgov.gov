@@ -36,39 +36,39 @@ This quarterly meeting brings together federal employees from a range of agencie
     <th>Topic</th>
   </tr>
   <tr>
-    <td>8:45 a.m.</td>
+    <td>8:45 am</td>
     <td>Registration and Networking</td>
   </tr>
   <tr>
-    <td>9:10 a.m.</td>
+    <td>9:00 am</td>
     <td><strong>Introductions and Program Updates</strong><ul><li>Kelly Olson, GSA</li></ul></td>
   </tr>
   <tr>
-    <td>9:10 a.m.</td>
+    <td>9:10 am</td>
     <td><strong>The DARPA Design: From Infectious Disease to Underground Infrastructure</strong><ul><li>Col Matthew Hepburn, Defense Advanced Research Projects Agency (DARPA)</li></ul></td>
   </tr>
   <tr>
-    <td>9:30 a.m.</td>
+    <td>9:30 am</td>
     <td><strong>Using Legal Authority: Joint Venture Partnership + Other Transactions</strong><ul><li>Avi Bender, Department of Commerce </li><li> Lauren Schmidt, Defense Innovation Unit Experimental (DIUx)</li></ul></td>
   </tr>
   <tr>
-    <td>9:50 a.m.</td>
+    <td>9:50 am</td>
     <td>Networking break</td>
   </tr>
   <tr>
-    <td>10:10 a.m.</td>
+    <td>10:10 am</td>
     <td><strong>Accelerating for Action: How Agencies Use this Industry Model</strong><ul><li>Moderator: Jack Bienko, Eisenhower Fellowship</li><li> Panelist: Sandeep Patel, Department of Health and Human Services</li><li>Panelist: Jennifer Garson, Department of Energy</li><li>Panelist: Nancy Merritt, National Institute of Standards & Technology </li> </ul></td>
   </tr>
   <tr>
-    <td>11:00 a.m.</td>
+    <td>11:00 am</td>
     <td><strong>Executive Update from the White House</strong><ul><li>Matt Lira, White House Office of American Innovation </li></ul></td>
   </tr>
   <tr>
-    <td>11:15 a.m.</td>
+    <td>11:15 am</td>
     <td><strong>Helping Hands: Spotlight on Humanitarian Efforts</strong><ul><li>Lorin Kavanaugh-Ulku, U.S. Agency for International Development</li><li>Devorah West, U.S. Agency for International Development</li><li>Edward Elliott,  U.S. Patent & Trademark Office</li></ul></td>
   </tr>
   <tr>
-    <td>12:00p.m.</td>
+    <td>12:00 pm</td>
     <td>Event concludes</td>
   </tr>
 </table>
