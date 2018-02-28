@@ -32,12 +32,13 @@
     </div>
 
 
+
     <div class="event-actions">
       <a class="btn event_register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
       {{ $event_startDate := dateFormat "2006-01-02 03:04:05" (time .Params.date).UTC }}
       {{ $event_endDate := dateFormat "2006-01-02 03:04:05" (time .Params.end_date).UTC }}
       {{ $event_title := .Title | markdownify }}
-      {{ $event_description := .Summary | markdownify }}
+      {{ $event_description := $.Params.summary | default $.Site.Params.description | markdownify }}
       {{ $event_location := .Params.venue.venue_name }}
 
       <span class="addtocalendar btn">
