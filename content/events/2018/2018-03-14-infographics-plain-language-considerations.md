@@ -1,7 +1,7 @@
 ---
 slug: infographics-plain-language-considerations
 title: 'Infographics&#58; Plain Language Considerations'
-summary: ''
+summary: 'The March meeting of the Plain Language Community of Practice will focus what makes an infographic easy to understand'
 featured_image: 
   uid: 
   alt: ''
@@ -26,7 +26,7 @@ venue:
 
 ---
 
-Join the [the Plain Language Community of Practice](https://www.digitalgov.gov/communities/plain-language/)for an hour-long conversation about what makes a good plain language infographic -- one that anyone can understand. 
+Join the [the Plain Language Community of Practice](https://www.digitalgov.gov/communities/plain-language/) for an hour-long conversation about what makes a good plain language infographic -- one that anyone can understand. 
 
 **We’ll cover:**
 
@@ -37,4 +37,4 @@ Join the [the Plain Language Community of Practice](https://www.digitalgov.gov/c
 
 Send us a sample before the meeting to [digitalgovu@gsa.gov](digitalgovu@gsa.gov) or add the url when you register.
 
-_The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community]9https://www.digitalgov.gov/communities/plain-language/)._
+_The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/)._
