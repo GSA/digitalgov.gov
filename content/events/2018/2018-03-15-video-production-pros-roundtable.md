@@ -11,7 +11,7 @@ event_type:
 date: 2018-03-15 16:00:00 -0500
 end_date: 2018-03-15 17:30:00 -0500
 event_organizer: DigitalGov University
-host: Video Production
+host: Video Production Community
 registration_url: https://www.eventbrite.com/e/video-production-pros-roundtable-registration-43757301266
 youtube_id: uGYk-s7KrnY
 venue: 
@@ -35,4 +35,4 @@ We’d like to get your feedback about the needs of the community around trends,
 There will also be an opportunity for networking after the meeting.
  
  
-_The Video Production Pros Community is a group of of storytellers, artists, creatives, directors, DPs, producers, editors and more working for various federal agencies. They  share leading trends, best practices, latest projects, feedback, techniques, and strategies that help their respective agencies connect with people through the power of video. [Learn more about joining](https://www.digitalgov.gov/communities/video-production/)._
+_The [Video Production Pros Community](https://www.digitalgov.gov/communities/video-production/) is a group of of storytellers, artists, creatives, directors, DPs, producers, editors and more working for various federal agencies. They  share leading trends, best practices, latest projects, feedback, techniques, and strategies that help their respective agencies connect with people through the power of video. [Learn more about joining](https://www.digitalgov.gov/communities/video-production/)._
