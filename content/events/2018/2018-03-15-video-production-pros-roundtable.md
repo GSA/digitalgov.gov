@@ -1,7 +1,7 @@
 ---
 slug: video-production-pros-roundtable
 title: 'Video Production Pros Roundtable'
-summary: 'Do you want to get more involved in the video industry within the federal government and learn from the best&#63; Join the Video Production Community for our first meeting to share inspiration, discuss the future of the community and how you can get involved&#46; '
+summary: 'Join the Video Production Community for our first meeting to share inspiration, discuss the future of the community and how you can get involved&#46; '
 featured_image: 
   uid: 
   alt: ''
@@ -35,4 +35,4 @@ We’d like to get your feedback about the needs of the community around trends,
 There will also be an opportunity for networking after the meeting.
  
  
-The Video Production Pros Community is a group of of storytellers, artists, creatives, directors, DPs, producers, editors and more working for various federal agencies. They  share leading trends, best practices, latest projects, feedback, techniques, and strategies that help their respective agencies connect with people through the power of video. [Learn more about joining](https://www.digitalgov.gov/communities/video-production/). 
+_The Video Production Pros Community is a group of of storytellers, artists, creatives, directors, DPs, producers, editors and more working for various federal agencies. They  share leading trends, best practices, latest projects, feedback, techniques, and strategies that help their respective agencies connect with people through the power of video. [Learn more about joining](https://www.digitalgov.gov/communities/video-production/)._
