@@ -33,8 +33,8 @@ Join the [the Plain Language Community of Practice](https://www.digitalgov.gov/c
 - What do you need to consider? 
 - What questions do you have to answer as you plan to do one? 
 - How do you deal with data? 
-- How do you deal with people who want you to create an infographic?
+- How do you communicate with people who want you to create an infographic?
 
-Send us a sample before the meeting to [digitalgovu@gsa.gov](digitalgovu@gsa.gov) or add the url when you register.
+Send us a sample before the meeting to [digitalgovu@gsa.gov](digitalgovu@gsa.gov "Email a sample infographic to DGU") or add the URL when you register.
 
 _The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/)._
