@@ -116,7 +116,7 @@ Add styles inside the media query below that you only want to be applied to the 
 	font-weight: bold;
 }
 
-.btn-open{
+.event_actions .btn-open{
 	padding:10px 16px;
 	background: #fff;
 	border:3px solid #2673DF;
