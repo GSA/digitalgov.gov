@@ -26,7 +26,7 @@ venue:
 
 ---
 
-Do you want to get more involved in the video industry within the federal government and learn from the best? Join the Video Production Pros Community for our first meeting to share inspiration, discuss the future of the community and how you can get involved. 
+Do you want to get more engaged with the video industry within the federal government and learn from the best? Join the Video Production Pros Community for our first meeting to share inspiration, discuss the future of the community and how you can get involved. 
  
 During the meeting, three agencies will share case studies about video projects they produced. 
  
