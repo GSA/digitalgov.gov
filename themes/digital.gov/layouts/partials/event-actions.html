@@ -1,4 +1,4 @@
-{{ $t := (time .Date) }}
+{{ $t := (time .Params.end_date) }}
 
 {{ if ($t.After now) eq "true" }}
 <div class="event-actions">
