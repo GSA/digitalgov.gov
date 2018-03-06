@@ -56,4 +56,4 @@ These guidelines do not:
 
 These guidelines are a work-in-progress. Right now, following these guidelines won’t guarantee that your project will be compliant with [WCAG 2.0 standards](https://www.w3.org/TR/WCAG20/) – the standards that all government websites will have to meet by January 2018 – but we believe they will help you get close and give you the tools you need to learn more when you need to.
 
-Questions or comments? Please reach out to us in [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility/) or email [g-accessibility@gsa.gov](mailto:g-accessibility@gsa.gov).
+Questions or comments? Please reach out to us in the project's [GitHub issues](https://github.com/18F/accessibility-playbook/issues/) or email [g-accessibility@gsa.gov](mailto:g-accessibility@gsa.gov).
