@@ -1,7 +1,7 @@
 ---
 slug: conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives
 title: 'Conversations on Public Impact&#58; How data trusts can preserve and protect your digital initiatives'
-summary: 'The Ethics Working Group in GSA's Technology Transformation Service hosts a presentation about data trusts; a legal structure designed to manage data, code, and other digital assets.'
+summary: 'The Ethics Working Group in GSA&#39;s Technology Transformation Service hosts a presentation about data trusts; a legal structure designed to manage data, code, and other digital assets.'
 featured_image: 
   uid: 
   alt: ''
