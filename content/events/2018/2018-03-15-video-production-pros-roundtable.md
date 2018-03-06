@@ -33,6 +33,31 @@ During the meeting, three agencies will share case studies about video projects 
 We’d like to get your feedback about the needs of the community around trends, best practices, techniques/tools, strategies, training and social experiences. This will help us plan for potential workshops, events, and networking opportunities in 2018.
  
 There will also be an opportunity for networking after the meeting.
+
+## Agenda
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Topic</th>
+  </tr>
+  <tr>
+    <td>4:00 pm</td>
+    <td>Introductions and Community Updates</td>
+  </tr>
+  <tr>
+    <td>4:15 pm</td>
+    <td>Government Video Showcase</td>
+  </tr>
+   <tr>
+    <td>5:00 pm</td>
+    <td>Community Priorities Brainstorm </td>
+  </tr>
+  <tr>
+    <td>5:30 pm</td>
+    <td>Networking Happy Hour</td>
+  </tr>
+ </table>
  
  
 _The [Video Production Pros Community](https://www.digitalgov.gov/communities/video-production/) is a group of of storytellers, artists, creatives, directors, DPs, producers, editors and more working for various federal agencies. They  share leading trends, best practices, latest projects, feedback, techniques, and strategies that help their respective agencies connect with people through the power of video. [Learn more about joining](https://www.digitalgov.gov/communities/video-production/)._
