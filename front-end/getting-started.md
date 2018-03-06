@@ -12,6 +12,7 @@ Accessible front-end development ensures people with different abilities can acc
 
 - We recommend conducting accessibility testing throughout the design and development processes.
 - A good place to start testing is on high-touch pages, critical user paths, and site-wide templates.
+- If you have project-specific questions, ask your agency’s accessibility team.
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/keyboard-access/">
   Continue <i class="fa fa-chevron-right" aria-hidden="true"></i>

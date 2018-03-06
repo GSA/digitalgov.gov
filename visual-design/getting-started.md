@@ -12,4 +12,6 @@ Everyone benefits from designs that are easier to see. People with different vis
 
 We recommend planning for accessibility in your design process and regularly conducting accessibility testing throughout the design and development processes.
 
+If you have project-specific questions, ask your agency’s accessibility team.
+
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/color-and-contrast/">Continue <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
