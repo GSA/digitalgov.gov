@@ -59,5 +59,9 @@ There will also be an opportunity for networking after the meeting.
   </tr>
  </table>
  
+ ## Audience
+ Federal government employees only. 
+ 
+  
  
 _The [Video Production Pros Community](https://www.digitalgov.gov/communities/video-production/) is a group of of storytellers, artists, creatives, directors, DPs, producers, editors and more working for various federal agencies. They  share leading trends, best practices, latest projects, feedback, techniques, and strategies that help their respective agencies connect with people through the power of video. [Learn more about joining](https://www.digitalgov.gov/communities/video-production/)._
