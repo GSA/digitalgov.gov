@@ -60,7 +60,8 @@ There will also be an opportunity for networking after the meeting.
  </table>
  
  ## Audience
- Federal government employees only. 
+ 
+ Federal employees and contractors with a .gov or .mil email address.
  
   
  
