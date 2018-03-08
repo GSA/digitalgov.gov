@@ -12,7 +12,7 @@ end_date: 2018-04-11 12:00:00 -0500
 event_organizer: DigitalGov University
 host:
 registration_url: https://www.eventbrite.com/e/top-tasks-with-gerry-mcgovern-registration-43479365954
-youtube_id: https://www.youtube.com/watch?v=5llJ98UkXYI
+youtube_id: 5llJ98UkXYI
 
 ---
 
