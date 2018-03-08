@@ -31,18 +31,23 @@
 
     </div>
 
-
-
     <div class="event-actions">
       <a class="btn event_register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
       {{ $event_startDate := dateFormat "2006-01-02 03:04:05" (time .Params.date).UTC }}
       {{ $event_endDate := dateFormat "2006-01-02 03:04:05" (time .Params.end_date).UTC }}
-      {{ $event_url := .Permalink }}
-      {{ $event_reg := .Params.registration_url }}
+      {{ $event_url := (print "\n\nEvent: https:" .Permalink) }}
+
+      {{ $.Scratch.Set "event_youtube" "" }}
+      {{ if (isset .Params "youtube_id") }}
+        {{ $.Scratch.Set "event_youtube" (print "\nYouTube: " .Params.youtube_id) }}
+      {{ end }}
+      {{ $event_youtube := $.Scratch.Get "event_youtube" }}
+      {{ $event_reg := (print "\nRegister: " .Params.registration_url) }}
       {{ $event_title := .Title | markdownify }}
       {{ $event_desc := $.Params.summary | default $.Site.Params.description | markdownify }}
-      {{ $event_description := (print $event_desc "\n\nEvent: https:" $event_url "\nRegister: " $event_reg) }}
+      {{ $event_description := (print $event_desc $event_url $event_reg "+++" $event_youtube) }}
       {{ $event_location := .Params.venue.venue_name }}
+
 
       <span class="addtocalendar btn">
         <var class="atc_event">
