@@ -23,7 +23,7 @@ eCPIC is a web-based, government-owned and operated software as a service (SaaS)
   * Increase Agency adoption of the eCPIC tool
   * Modernize the eCPIC application to improve current capability, take advantage of modern technologies, and ensure the future security of the eCPIC tool
 
-If you are interested in learning more about the [eCPIC](https://www.ecpic.gov/) tool, please [email the project management office](mailto:ecpic.pmo@gsa.gov) for additional information and to schedule a demonstration.
+If you are interested in learning more about the eCPIC tool, please [email the project management office](mailto:ecpic.pmo@gsa.gov) for additional information and to schedule a demonstration.
 
 ---
 
