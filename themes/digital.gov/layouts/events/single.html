@@ -36,7 +36,6 @@
       {{ $event_startDate := dateFormat "2006-01-02 03:04 PM" (time .Params.date) }}
       {{ $event_endDate := dateFormat "2006-01-02 03:04 PM" (time .Params.end_date) }}
       {{ $event_url := (print "\n\nEvent: https:" .Permalink) }}
-
       {{ $.Scratch.Set "event_youtube" "" }}
       {{ if (isset .Params "youtube_id") }}
         {{ $.Scratch.Set "event_youtube" (print "\nYouTube: https://www.youtube.com/watch?v=" .Params.youtube_id) }}
