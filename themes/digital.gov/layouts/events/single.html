@@ -39,13 +39,13 @@
 
       {{ $.Scratch.Set "event_youtube" "" }}
       {{ if (isset .Params "youtube_id") }}
-        {{ $.Scratch.Set "event_youtube" (print "\nYouTube: " .Params.youtube_id) }}
+        {{ $.Scratch.Set "event_youtube" (print "\nYouTube: https://www.youtube.com/watch?v=" .Params.youtube_id) }}
       {{ end }}
       {{ $event_youtube := $.Scratch.Get "event_youtube" }}
       {{ $event_reg := (print "\nRegister: " .Params.registration_url) }}
       {{ $event_title := .Title | markdownify }}
       {{ $event_desc := $.Params.summary | default $.Site.Params.description | markdownify }}
-      {{ $event_description := (print $event_desc $event_url $event_reg "+++" $event_youtube) }}
+      {{ $event_description := (print $event_desc $event_url $event_reg $event_youtube) }}
       {{ $event_location := .Params.venue.venue_name }}
 
       <span class="addtocalendar btn">
