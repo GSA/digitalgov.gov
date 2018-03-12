@@ -35,16 +35,15 @@
       <a class="btn event_register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
       {{ $event_startDate := dateFormat "2006-01-02 03:04 PM" (time .Params.date) }}
       {{ $event_endDate := dateFormat "2006-01-02 03:04 PM" (time .Params.end_date) }}
-      {{ $event_url := (print "\n\nEvent: https:" .Permalink) }}
+      {{ $event_url := (print "\n\nEvent Page: https:" .Permalink) }}
       {{ $.Scratch.Set "event_youtube" "" }}
       {{ if (isset .Params "youtube_id") }}
         {{ $.Scratch.Set "event_youtube" (print "\nYouTube: https://www.youtube.com/watch?v=" .Params.youtube_id) }}
       {{ end }}
       {{ $event_youtube := $.Scratch.Get "event_youtube" }}
-      {{ $event_reg := (print "\nRegister: " .Params.registration_url) }}
       {{ $event_title := .Title | markdownify }}
       {{ $event_desc := $.Params.summary | default $.Site.Params.description | markdownify }}
-      {{ $event_description := (print $event_desc $event_url $event_reg $event_youtube) }}
+      {{ $event_description := (print $event_desc $event_url $event_youtube) }}
       {{ $event_location := .Params.venue.venue_name }}
 
       <span class="addtocalendar btn">
