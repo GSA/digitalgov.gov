@@ -1,9 +1,10 @@
 {{ partial "event-venue--inPerson.html" . }}
+{{ $displaytitle := $.Scratch.Get "displaytitle" }}
 
 <li class="tribe-events-list-widget-events type-tribe_events tribe-clearfix">
   <!-- Event Title -->
   <h4 class="tribe-event-title">
-    <a href="{{ .Permalink }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" }}</a>
+    <a href="{{ .Permalink }}" rel="bookmark">{{ htmlUnescape $displaytitle | safeHTML }}</a>
   </h4>
 
   <!-- Event Time -->
