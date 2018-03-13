@@ -10,8 +10,8 @@ categories:
 tag:
   - agile
 featured_image:
-  uid:
-  alt: 'alt text'
+  uid: ux-training-class
+  alt: 'Federal employees participate in an on-site User Experience training class.'
 ---
 
 _How organizational instruction can help transform the processes and culture of your office._
