@@ -20,9 +20,9 @@ Many leaders are interested in their organization “going Agile,” but they wo
 
 Unlike online training, instruction provided to all the employees in one room at the same time can allow for discussion between each other and the Agile instructor. Details associated with the office’s idiosyncrasies related to their existing processes, users, and current products can be discussed, and the process of change can begin with those that will be using the processes on a daily basis—all while learning the concepts.
 
-A mass training event allows for a few things to happen:
+{{< img src="ux-training-class" caption="Federal employees participate in an on-site User Experience training class." alt="Photo of Federal employees participating in an on-site User Experience training class." >}}
 
-{{< img src="ux-training-class" caption="Federal employees participate in an on-site User Experience training class." alt="Federal employees participate in an on-site User Experience training class." >}}
+A mass training event allows for a few things to happen:
 
 ## 1. Greater Understanding
 
