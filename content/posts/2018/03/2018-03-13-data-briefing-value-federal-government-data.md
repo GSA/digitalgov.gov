@@ -1,6 +1,6 @@
 ---
 slug: data-briefing-value-federal-government-data
-date: 2018-03-13 03:00:00 -0500
+date: 2018-03-14 03:00:00 -0500
 title: 'The Data Briefing&#58; The Value of Federal Government Data'
 summary: 'Dr. Bill Brantley covers the application of infonomics as a way to help agencies to measure and use data for organizational innovation and digital transformation.'
 authors: 
