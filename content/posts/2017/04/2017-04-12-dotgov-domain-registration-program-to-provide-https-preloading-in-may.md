@@ -25,7 +25,7 @@ Once new .gov executive branch federal domains are registered as HTTPS-only, age
 For more details about the HSTS Preloading Service, check out the links below:
 
   * [HSTS Preloading FAQs on dotgov.gov](https://www.dotgov.gov/portal/web/dotgov/support#HSTS_Preloading)
-  * [The original public announcement of this change](https://cio.gov/automatic-https-enforcement-new-executive-branch-gov-domains)
+  * [The original public announcement of this change](https://www.cio.gov/2017/01/19/automatic-https-enforcement-new-executive-branch-gov-domains/)
   * [GSA’s guidance on HTTPS, HSTS, and preloading](https://https.cio.gov/hsts)
 
 If you have any questions or concerns, please [email the DotGov Registrar](mailto:registrar@dotgov.gov), or call [1-877-734-4688](tel:877-734-4688) (toll-free) or [1-703-948-0723](tel:703-948-0723) (direct).
