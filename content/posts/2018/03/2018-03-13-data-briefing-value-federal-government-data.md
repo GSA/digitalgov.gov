@@ -2,7 +2,7 @@
 slug: data-briefing-value-federal-government-data
 date: 2018-03-13 03:00:00 -0500
 title: 'The Data Briefing&#58; The Value of Federal Government Data'
-summary: 'summary'
+summary: 'Dr. Bill Brantley covers the application of infonomics as a way to help agencies to measure and use data for organizational innovation and digital transformation.'
 authors: 
   - bill-brantley
 categories: 
@@ -36,8 +36,8 @@ Another useful application of infonomics is using it in mapping data ecosystems.
 Federal government data plays a large role in the American economy, but this role has been obscured because it is difficult to measure the value of information. With the emergence of infonomics, we have methods for better measuring and managing the value of information. Once citizens can see the monetary impact of Federal government data, citizens and businesses will help in closing the information performance gap to realize the full value of federal government data.
 
 ---
-_All references to specific brands, products, or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+_(All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
 
-_Each week, [The Data Briefing](https://www.digitalgov.gov/tag/the-data-briefing) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via email._
+_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
 
-_[Dr. William Brantley](https://www.digitalgov.gov/author/bbrantley) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_[Dr. William Brantley]({{< link "author/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
