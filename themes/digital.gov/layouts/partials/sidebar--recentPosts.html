@@ -6,7 +6,7 @@
     <ul>
       {{ range first 10 (where .Site.Pages "Section" "posts") }}
         <li>
-          <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" class="wpp-post-title" target="_self">{{ .Title | markdownify }}</a>
+          <a href="{{ .Permalink }}" title="{{ htmlUnescape .Title | safeHTML }}" class="wpp-post-title" target="_self">{{ htmlUnescape .Title | safeHTML }}</a>
           <br>
         </li>
       {{ end }}
