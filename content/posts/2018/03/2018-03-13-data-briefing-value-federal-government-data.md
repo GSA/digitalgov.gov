@@ -1,7 +1,7 @@
 ---
 slug: data-briefing-value-federal-government-data
 date: 2018-03-14 03:00:00 -0500
-title: 'The Data Briefing&#58; The Value of Federal Government Data'
+title: 'The Value of Federal Government Data'
 summary: 'Dr. Bill Brantley covers the application of infonomics as a way to help agencies to measure and use data for organizational innovation and digital transformation.'
 authors:
   - bill-brantley
@@ -14,7 +14,7 @@ tag:
 featured_image:
   uid: analytics-data-reports
   alt: 'An illustration of a team of figures working on analytics reports.'
-  
+
 ---
 
 The U.S. federal government is probably the one of the biggest (if not the biggest) producers of data. Every day, thousands of federal workers collect, create, analyze, and distribute massive amounts of data from weather forecasts to economic indicators to health statistics. Federal government data is a major driver of the American economy as businesses use the data to make decisions or blend the government data into products and services sold to consumers.
@@ -40,7 +40,5 @@ Federal government data plays a large role in the American economy, but this rol
 
 ---
 _(All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
-
-_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
 
 _[Dr. William Brantley]({{< link "author/bbrantley" >}}) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
