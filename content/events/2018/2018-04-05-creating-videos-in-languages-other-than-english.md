@@ -18,7 +18,7 @@ youtube_id: QXHz9CDtGE
 
 Do you want to learn how to create a great video in a language you don't speak?
  
-Join the conversation as Laura Godfrey, Chair of the [Multilingual Community of Practice](https://www.digitalgov.gov/communities/multilingual/), talks with Bryce Spivey, multimedia lead video producer at The Consumer Financial Protection Bureau (CFPB), about a video his team created entirely in Spanish.
+Join the conversation as Laura Godfrey, Chair of the [Multilingual Community of Practice](https://www.digitalgov.gov/communities/multilingual/), talks with Bryce Spivey, Multimedia Lead and Video Director at The Consumer Financial Protection Bureau (CFPB), about a video his team created entirely in Spanish.
  
 They will explore everything from concept to completion, discuss the entire production process, communication strategies, collaboration, creative techniques, lessons learned, and more.
 
