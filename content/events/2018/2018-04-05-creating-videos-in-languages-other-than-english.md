@@ -1,14 +1,14 @@
 ---
 slug: creating-videos-in-languages-other-than-english
 title: 'Creating Videos in Languages Other Than English'
-summary: ''
+summary: 'Laura Godfrey will talk with Bryce Spivey about a video his team at the CFPB created, for a Spanish speaking audience.'
 featured_image: 
   uid: 
   alt: ''
 event_type: 
   - youtube-live
 date: 2018-04-05 11:00:00 -0500
-end_date: 2018-03-19 12:00:00 -0500
+end_date: 2018-04-05 12:00:00 -0500
 event_organizer: DigitalGov University
 host: 
 registration_url: https://www.eventbrite.com/e/creating-videos-in-languages-other-than-english-registration-44340580871
