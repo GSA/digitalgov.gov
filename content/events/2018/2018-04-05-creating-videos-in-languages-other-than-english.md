@@ -1,14 +1,14 @@
 ---
 slug: creating-videos-in-languages-other-than-english
 title: 'Creating Videos in Languages Other Than English'
-summary: ''
+summary: 'Join the Multilingual and Video Production Pros Communities of Practice for a talk about a video the CFPB created, for a Spanish speaking audience.'
 featured_image: 
   uid: 
   alt: ''
 event_type: 
   - youtube-live
 date: 2018-04-05 11:00:00 -0500
-end_date: 2018-03-19 12:00:00 -0500
+end_date: 2018-04-05 12:00:00 -0500
 event_organizer: DigitalGov University
 host: 
 registration_url: https://www.eventbrite.com/e/creating-videos-in-languages-other-than-english-registration-44340580871
@@ -18,7 +18,7 @@ youtube_id: QXHz9CDtGE
 
 Do you want to learn how to create a great video in a language you don't speak?
  
-Join the conversation as Laura Godfrey, Chair of the [Multilingual Community of Practice](https://www.digitalgov.gov/communities/multilingual/), talks with Bryce Spivey, multimedia lead video producer at The Consumer Financial Protection Bureau (CFPB), about a video his team created entirely in Spanish.
+Join the conversation as Laura Godfrey, Chair of the [Multilingual Community of Practice](https://www.digitalgov.gov/communities/multilingual/), talks with Bryce Spivey, Multimedia Lead and Video Director at The Consumer Financial Protection Bureau (CFPB), about a video his team created entirely in Spanish.
  
 They will explore everything from concept to completion, discuss the entire production process, communication strategies, collaboration, creative techniques, lessons learned, and more.
 
