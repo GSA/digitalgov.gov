@@ -1,7 +1,7 @@
 ---
 slug: creating-videos-in-languages-other-than-english
 title: 'Creating Videos in Languages Other Than English'
-summary: ''
+summary: 'Join the Multilingual and Video Production Pros Communities of Practice to learn the process of creating a video from idea to post production in a language you don't speak.'
 featured_image: 
   uid: 
   alt: ''
