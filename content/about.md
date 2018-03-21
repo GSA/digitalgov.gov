@@ -55,8 +55,8 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 ### The U.S. Web Design System Core Team
 
 **Dan Williams**, Product Owner<br/>
-**Maya Benari**<br/>
-**Brian Hurst**
+**Maya Benari**, Designer<br/>
+**Brian Hurst**, Designer
 
 [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 
