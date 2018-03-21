@@ -8,7 +8,7 @@ featured_image:
 event_type:
   - youtube-live
 date: 2018-08-15 13:00:00 -0400
-end_date: 2018-02-05 16:00:00 -0400
+end_date: 2018-08-15 16:00:00 -0400
 event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-an-introduction-to-the-basics-registration-42564530657
