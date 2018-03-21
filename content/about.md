@@ -56,7 +56,7 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 
 **Dan Williams**, Product Owner<br/>
 **Maya Benari**, Designer<br/>
-**Brian Hurst**, Designer
+**Brian Hurst**, Developer
 
 [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 
