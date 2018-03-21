@@ -6,21 +6,31 @@ jQuery(document).ready(function($) {
 	//param: dateTime must be a JS Date Object
 	//return True if DateTime is after Now
 	//return False if DateTIme is before Now
-	function futureDateTime( dateTime ) {
+	function futureDateTime( eventdate ) {
+		console.log(eventdate);
 		var now = new Date();
-		var future = false;
-		if( Date.parse(now.toISOString()) < Date.parse(dateTime) ) {
-			future = true;
+		var years = now.getFullYear();
+		var month = now.getMonth();
+		var days = now.getDate();
+		var date_string = years + '-' + month + '-' + days;
+		// console.log(now);
+		console.log(date_string);
+		var is_future = false;
+		if( Date.parse(now.toISOString()) < Date.parse(eventdate) ) {
+			is_future = true;
 		}
-		return future;
+		return is_future;
 	}
 
-	if (d1 !== undefined) {
-		var future = futureDateTime(d1);
-		if (future == true) {
-			$(".events-single .event .stage").hide();
-		}
-	}
+
+	// if (d1 !== undefined) {
+	// 	var future = futureDateTime(d1);
+	// 	// console.log(d1);
+	// 	// console.log(future);
+	// 	if (future == true) {
+	// 		$(".events-single .event .stage").hide();
+	// 	}
+	// }
 
 
 

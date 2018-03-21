@@ -1,9 +1,9 @@
-<div class="stage" data-eventdate="{{ dateFormat "2006-01-02T15:04:05-07:00" .Date }}">
+<div class="stage" data-eventdate="{{ dateFormat "2006-01-02" .Date }}">
   <div class="video-box">
     <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
   </div>
   <div class="chat-box">
-    <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=https://www.digitalgov.gov"> </iframe>
+    <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=www.digitalgov.gov"> </iframe>
   </div>
   <p>
     <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a>
