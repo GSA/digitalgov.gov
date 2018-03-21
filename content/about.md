@@ -52,14 +52,13 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **Janelle Thalls**, Video Editor, Training & Education<br/>
 **Soncerray Bolling**, Video Editor, Training & Education
 
-### The U.S. Web Design Standards Core Team
+### The U.S. Web Design System Core Team
 
 **Dan Williams**, Product Owner<br/>
-**Maya Benari**<br/>
-**John Donmoyer**<br/>
-**Andrea Sigritz**<br/>
+**Maya Benari**, Designer<br/>
+**Brian Hurst**, Developer
 
-[https://standards.usa.gov/](https://standards.usa.gov/)
+[https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 
 ---
 
