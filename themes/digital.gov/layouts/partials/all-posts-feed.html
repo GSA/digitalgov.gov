@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ .Site.Title }}</title>
-    <link>https://digitalgov.gov{{ .Permalink }}</link>
+    <link>https://www.digitalgov.gov{{ .Permalink }}</link>
     <description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
     <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
@@ -9,11 +9,11 @@
     <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
     <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
     <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
-    {{ printf "<atom:link href=\"https:/digitalgov.gov/feed/index.xml\" rel=\"self\" type=\"application/rss+xml\" />" | safeHTML }}
+    {{ printf "<atom:link href=\"https:/www.digitalgov.gov/feed/index.xml\" rel=\"self\" type=\"application/rss+xml\" />" | safeHTML }}
     {{ range first 10 (where .Site.Pages "Section" "posts") }}
     <item>
       <title>{{ .Title }}</title>
-      <link>https://digitalgov.gov{{ .Permalink }}</link>
+      <link>https://www.digitalgov.gov{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <author>
       {{ if (not (isset .Params "authors")) | or (eq .Params.authors "") }}
@@ -25,14 +25,14 @@
           {{ $data := $.Site.Data }}
           {{ $author := index $data.people.authors $uid }}
           {{ if lt (add $i 1) $length }}
-            {{ $author.display_name | default $uid}}, 
+            {{ $author.display_name | default $uid}},
           {{ else }}
             {{ $author.display_name | default $uid}}
           {{ end }}
         {{ end }}
       {{ end }}
     </author>
-      <guid>https://digitalgov.gov{{ .Permalink }}</guid>
+      <guid>https://www.digitalgov.gov{{ .Permalink }}</guid>
       <description>{{ .Summary | html }}</description>
     </item>
     {{ end }}
