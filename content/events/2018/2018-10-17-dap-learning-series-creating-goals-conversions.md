@@ -14,7 +14,7 @@ host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-creating-goals-and-conversions-registration-42564656032
 youtube_id: -x7LoXw7vHc
 aliases:
-  - /event/
+  - /event/dap-learning-series-creating-goals-conversions/
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._

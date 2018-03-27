@@ -21,7 +21,7 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
-  - /event/
+  - /event/workshop-making-government-websites-with-github-federalist-us-web-design-standards
 
 ---
 

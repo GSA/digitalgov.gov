@@ -23,7 +23,7 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
-  - /event/
+  - /event/federal-challenge-prize-community-practice-quarterly-meeting-february-2018/
 ---
 
 This quarterly meeting brings together federal employees from a range of agencies to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.

@@ -13,7 +13,7 @@ event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/january-us-web-design-standards-users-call-tickets-42250600684
 aliases:
-  - /event/
+  - /event/us-web-design-standards-monthly-users-call/
 ---
 
 Please join us on **January 26 at 1pm ET** for our next monthly users call where [the U.S. Web Design Standards](https://standards.usa.gov/) core team will share what they’re working on in 2018, including:

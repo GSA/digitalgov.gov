@@ -14,7 +14,7 @@ host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-writing-custom-javascript-for-tag-managers-registration-42564562753
 youtube_id: 8HZYe8RENWk
 aliases:
-  - /event/
+  - /event/dap-learning-series-writing-custom-javascript-for-tag-managers
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._

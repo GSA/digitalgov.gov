@@ -14,7 +14,7 @@ host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-a-deep-dive-into-analytics-events-registration-42545065436
 youtube_id: GkAme6gCeDw
 aliases:
-  - /event/
+  - /event/dap-learning-series-a-deep-dive-into-analytics-events/
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._

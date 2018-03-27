@@ -11,7 +11,7 @@ host: Plain Language Action and Information Network
 registration_url: https://www.eventbrite.com/e/january-plain-monthly-meeting-registration-41577411156
 youtube_id: Ua0cwD_re7s
 aliases:
-  - /event/
+  - /event/january-plain-monthly-meeting/
 ---
 
 Join us for our first Plain Language Action and Information Network (PLAIN) Monthly meeting of 2018 where we will discuss a variety of the toolkits that were discussed at last years Plain International meeting and how valuable they were.

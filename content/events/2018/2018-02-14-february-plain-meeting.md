@@ -19,7 +19,7 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
-  - /event/
+  - /event/february-plain-meeting/
 ---
 
 We :heart: our volunteers.

@@ -11,7 +11,7 @@ host: Digital Analytics Program (DAP)
 registration_url: https://www.eventbrite.com/e/online-dap-learning-series-visualizing-analytics-data-part-2-registration-37759883829
 youtube_id: TQ2CXlEY3qw
 aliases:
-  - /event/
+  - /event/online-dap-learning-series-visualizing-analytics-data-part-2/
 ---
 
 ## About the training

@@ -24,7 +24,7 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
-  - /event/
+  - /event/video-production-pros-roundtable/
 ---
 
 Do you want to get more engaged with the video industry within the federal government and learn from the best? Join the Video Production Pros Community for our first meeting to share inspiration, discuss the future of the community and how you can get involved.

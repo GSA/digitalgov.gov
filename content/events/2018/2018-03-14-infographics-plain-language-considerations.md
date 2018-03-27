@@ -24,7 +24,7 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
-  - /event/
+  - /event/infographics-plain-language-considerations/
 ---
 
 Join the [the Plain Language Community of Practice](https://www.digitalgov.gov/communities/plain-language/) for an hour-long conversation about what makes a good plain language infographic -- one that anyone can understand.

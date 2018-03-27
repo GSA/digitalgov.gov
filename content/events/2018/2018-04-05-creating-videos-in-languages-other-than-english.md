@@ -14,7 +14,7 @@ host:
 registration_url: https://www.eventbrite.com/e/creating-videos-in-languages-other-than-english-registration-44340580871
 youtube_id: aQXHz9CDtGE
 aliases:
-  - /event/
+  - /event/creating-videos-in-languages-other-than-english/
 ---
 
 Do you want to learn how to create a great video in a language you don't speak?

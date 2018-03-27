@@ -14,7 +14,7 @@ host:
 registration_url: https://www.eventbrite.com/e/us-digital-registry-open-office-hours-registration-41577054088
 aliases:
   - /event/us-digital-registry-open-office-hours-feb2017/
-  - /event/
+  - /event/us-digital-registry-open-office-hours-feb2018/
 
 ---
 

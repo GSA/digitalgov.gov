@@ -11,7 +11,7 @@ host: Multilingual Digital Group
 registration_url: https://www.eventbrite.com/e/cut-through-the-noise-connect-with-your-spanish-language-audience-on-social-media-registration-38668014071
 youtube_id: rXYUcCDkF9I
 aliases:
-  - /event/
+  - /event/connect-with-your-spanishlanguage-audience-on-social-media/
 ---
 
 ## Registration requirements:

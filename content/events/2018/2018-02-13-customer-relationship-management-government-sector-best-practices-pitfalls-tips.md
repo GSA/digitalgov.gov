@@ -23,7 +23,7 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
-  - /event/
+  - /event/customer-relationship-management-government-sector-best-practices-pitfalls-tips/
 ---
 
 ## About the Event

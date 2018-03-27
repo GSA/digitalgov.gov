@@ -14,7 +14,7 @@ host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-digital-analytics-program-101-registration-42540102592
 youtube_id: V-HnGjvvqgE
 aliases:
-  - /event/
+  - /event/dap-learning-series-digital-analytics-program-101/
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._
