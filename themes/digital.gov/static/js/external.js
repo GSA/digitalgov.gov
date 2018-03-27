@@ -39,25 +39,23 @@ function get_commit_data(filepath){
 		  url: commit_file_path,
 		 	dataType: 'json',
 		}).done(function(data) {
-			get_last_commit(data)
+			console.log(data);
+			show_last_commit(data)
 		});
 	}
 }
 get_commit_data(filepath);
 
-function get_last_commit(data){
+function show_last_commit(data){
 	var commit_date = data[0]['commit']['committer']['date'];
-	$('.last_commit span').text(getFormattedDate(commit_date));
-	$('.last_commit').show();
+	var commit_author = data[0]['author']['login'];
+	var commit_author_url = 'https://github.com/';
+	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/master/content/' + filepath;
+	$('.last_commit .commit-date').text(getFormattedDate(commit_date)).wrap('<a href="'+commit_history_url+'"></a>');
+	$('.last_commit .commit-author').text(commit_author).wrap('<a href="'+commit_author_url+''+commit_author+'"></a>');
+	$('.last_commit p').css('display', 'inline-block');
 }
 
-function get_commit_history_url(filepath) {
-	if (filepath !== undefined) {
-		var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/master/content/' + filepath;
-		$('.last_commit span').wrap('<a href="'+commit_history_url+'"></a>');
-	}
-}
-get_commit_history_url(filepath);
 
 function getFormattedDate(d) {
 	var date = new Date(d);
