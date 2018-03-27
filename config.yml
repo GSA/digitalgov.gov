@@ -46,7 +46,7 @@ params:
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
-  events                : "event/:slug/"
+  events                : "event/:year/:month/:day/:slug/"
 
 taxonomies:
   tag                   : "tag"
@@ -64,7 +64,7 @@ menu:
       Identifier      : "events"
       URL             : "/events/"
       Weight          : 2
-    - Name            : "Digitalgov University"
+    - Name            : "DigitalGov University"
       Parent          : "events"
       Identifier      : "dg-university"
       URL             : "/digitalgov-university/"

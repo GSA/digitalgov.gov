@@ -181,7 +181,6 @@ jQuery(document).ready(function($) {
   }
 
 
-
   // Makes lists in the front matter
   function list_items(d) {
     d = d.toString();
@@ -317,7 +316,7 @@ jQuery(document).ready(function($) {
 
 
     // ========================================
-    // In-Person or Mixed EVENT
+    // EVENT
     } else if (post_type == 'event') {
       var event_type_array = get_event_type();
       var event_types = list_items(event_type_array);
@@ -351,7 +350,7 @@ jQuery(document).ready(function($) {
       ].join("\n");
 
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/master/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/master/content/events/'+file_yearmo(data['m_date'])+'/draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
     }
 
     $('#post-matter').text(matter);
