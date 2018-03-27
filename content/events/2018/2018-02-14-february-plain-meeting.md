@@ -2,7 +2,7 @@
 slug: february-plain-meeting
 title: 'Plain Language Community Meeting'
 summary: 'This in-person meeting of the Plain Language Community of Practice will focus on volunteers.'
-event_type: 
+event_type:
   - in-person
 date: 2018-02-14 14:00:00 -0500
 end_date: 2018-02-14 15:30:00 -0500
@@ -18,7 +18,8 @@ venue:
   zip: 20405
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
-
+aliases:
+  - /event/
 ---
 
 We :heart: our volunteers.

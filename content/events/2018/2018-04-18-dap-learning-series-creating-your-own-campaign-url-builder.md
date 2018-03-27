@@ -13,6 +13,8 @@ event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-creating-your-own-campaign-url-builder-registration-42546399426
 youtube_id: LdusA4j9tM0
+aliases:
+  - /event/
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._

@@ -16,7 +16,8 @@ venue:
   zip: 20405
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
-
+aliases:
+  - /event/
 ---
 This **in-person and online meeting** is for government employees only. Capacity is limited for in-person attendance.
 

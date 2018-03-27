@@ -2,7 +2,7 @@
 slug: online-dap-learning-series-visualizing-analytics-data-part-2
 title: 'DAP Learning Series – Visualizing Analytics Data Part 2'
 summary: 'In this online event, we&#39;ll discuss how to use tools that are designed to import data and visualize it without report exports&#46;'
-event_type: 
+event_type:
   - online
 date: 2017-10-12 14:00:00 -0400
 end_date: 2017-10-12 15:00:00 -0400
@@ -10,6 +10,8 @@ event_organizer: DigitalGov University
 host: Digital Analytics Program (DAP)
 registration_url: https://www.eventbrite.com/e/online-dap-learning-series-visualizing-analytics-data-part-2-registration-37759883829
 youtube_id: TQ2CXlEY3qw
+aliases:
+  - /event/
 ---
 
 ## About the training

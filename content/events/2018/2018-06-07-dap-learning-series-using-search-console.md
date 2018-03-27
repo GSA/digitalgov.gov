@@ -13,7 +13,8 @@ event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-using-the-search-console-registration-42564409294
 youtube_id: uuP0FAHOrz8
-
+aliases:
+  - /event/
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._

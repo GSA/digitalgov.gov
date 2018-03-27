@@ -13,7 +13,8 @@ event_organizer: DigitalGov University
 host:
 registration_url: https://www.eventbrite.com/e/top-tasks-with-gerry-mcgovern-registration-43479365954
 youtube_id: 5llJ98UkXYI
-
+aliases:
+  - /event/
 ---
 
 Top Tasks is about simplifying things for customers (the public and businesses); making it easier for them to do the things they need to do with government. It’s about prioritizing and continuously improving what is truly important.
