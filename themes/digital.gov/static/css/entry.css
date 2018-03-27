@@ -31,15 +31,12 @@
 
 .entry-meta{
 	margin-bottom: 120px;
-	padding: 25px 25px 30px 25px;
+	padding: 20px;
 	background: #E9E9FA;
 	color: #000;
 	border-radius: 2px;
 }
 
-.entry-meta .feedback{
-	font-weight: bold;
-}
 .entry-meta .last_commit p{
 	margin: 0;
 	display: none;
@@ -49,7 +46,10 @@
 .entry-meta .last_commit p a{
 	text-decoration: underline;
 }
-
+.entry-meta .feedback{
+	font-weight: bold;
+	margin-bottom: 16px;
+}
 
 
 /*Edit File button on posts/pages/events*/
