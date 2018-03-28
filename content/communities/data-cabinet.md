@@ -12,6 +12,7 @@ Welcome to the Federal Data Science Community of Practice :tada:
 We serve as the principal community of practice for data professionals across federal government to share proven best practices and critical insights into what's working "on the front lines" in agencies. The Data Cabinet plays an essential role in advancing data-driven management, maximizing the use of the data, and enhancing problem-solving throughout government.
 
 **We do this by focusing on:**
+
 - Education and Training - Finding the right talent and keeping them.
 - Organizational Change - Embracing data driven decision making in your organization.
 - Data quality - Managing the data life cycle.
