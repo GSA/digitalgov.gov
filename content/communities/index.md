@@ -21,6 +21,9 @@ There are more than 10,000 people participating across government in 19 areas. O
 **[Artificial Intelligence for Citizen Services](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)**: Analyzing, testing and developing shared resources for Artificial Intelligence capabilities to improve performance and accessibility of citizen services.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)
 
+**[APIs]({{< link "apis.md" >}})**: A community for anyone interested in government APIs and developer outreach in the federal government.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "apis.md" >}})
+
 **[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
 
