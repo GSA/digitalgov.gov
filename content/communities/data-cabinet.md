@@ -13,9 +13,9 @@ We serve as the principal community of practice for data professionals across fe
 
 **We do this by focusing on:**
 
-- Education and Training 
-- Finding the right talent and keeping them. 
-- Organizational Change 
+- Education and training 
+- Finding the right talent and keeping them 
+- Organizational change 
 - Embracing data driven decision making in your organization 
 - Data quality 
 - Managing the data life cycle 
@@ -31,9 +31,9 @@ The value of data lies in the Agencies ability to use it. Raw data adds value as
 
 Valuable Data comes from three pillars: 
 
-- Data Management, leads to high quality data 
-- Data Governance ensures the entire agency understands the value and handling of data 
-- Data in Action is the Value derived from the agencies efforts 
+- *Data Management* leads to high quality data,  
+- *Data Governance* ensures the entire agency understands the value and handling of data, and
+- *Data in Action* is the value derived from the agencies' efforts.
 
 **_Together, we can advance data-driven government_**
 
