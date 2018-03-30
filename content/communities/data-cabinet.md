@@ -13,20 +13,20 @@ The U.S. Data Cabinet is a community of practice built to advance the adoption o
 
 We do this by focusing on:
 
-- **Education and Training** - Finding the right talent and keeping them.
-- **Organizational Change** - Embracing data driven decision making in your organization.
-- **Data Quality** - Managing the data life cycle.
-- **Data Accessibility** - Making data accessible.
+- **Education and Training** - finding the right talent and keeping them 
+- **Organizational Change** - embracing data-driven decision-making in your organization 
+- **Data Quality** - managing the data life cycle 
+- **Data Accessibility** - making data accessible 
 
 ## Data Value Proposition
 
-The value of data lies in the agency's ability to use it. Raw data adds value as it moves up the pyramid to become the cornerstone of high-level, high value decisions by leadership.
+The value of data lies in an agency's ability to use it. Raw data adds value as it moves up the pyramid to become the cornerstone of high-level, high value decisions by leadership.
 
 Valuable data comes from three pillars:
 
-- **Data Management** leads to high quality data
-- **Data Governance** ensures the entire agency understands the value and handling of data
-- **Data in Action** is the strategic value derived from the agencies efforts
+- **Data Management** - leads to high quality data
+- **Data Governance** - ensures the entire agency understands the value and handling of data
+- **Data in Action** - the strategic value derived from an agency's efforts
 
 In order to advance data culture, we are built on five principals:
 
