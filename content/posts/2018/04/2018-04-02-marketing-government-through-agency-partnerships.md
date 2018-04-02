@@ -29,7 +29,7 @@ _This article was originally posted on the [USAGov blog](https://blog.usa.gov/ma
 
 All government agencies have a common goal: to serve the public. As the front door to government information and services, we help agencies achieve this goal. We strive to make it easier for the public to find what they need by aggregating and disseminating information about government programs and services.
 
-IMAGE
+{{< youtube PS3GS0QrBAI >}}
 
 USAGov has an Outreach and Marketing team that helps agencies amplify their key messages through a variety of channels. We’re most successful when we partner with agencies to develop and promote initiatives that are tailored to different audiences. In our partnerships, agency staff serve as the subject matter experts who understand the content and trends in fields like health care, benefits, and consumer protection. In turn, we provide a powerful brand, marketing expertise, and an omni-channel platform.
 
@@ -42,5 +42,7 @@ Here are some examples of how we've worked with agencies in the past to amplify 
 - **SBA Hispanic Entrepreneurs Google Hangout** - We helped the Small Business Administration [host and moderate a Google Hangout](https://www.youtube.com/watch?v=SRYwxqE6Omg&w=600) to educate young entrepreneurs in Spanish. The 30-minute event attracted 200 viewers and received more than 200 questions, generating media coverage and 1,900 page views for SBA's online course.
 
 - **[FTC National Consumer Protection Week and More](https://www.facebook.com/USAgov/videos/10154721182428580/)**: In March 2017, USAGov partnered with the Federal Trade Commission on a six-month bilingual public education campaign. We created a joint editorial content calendar, which mapped out a timeline for digital media strategies. As part of the strategy, we co-hosted multiple video broadcasts, including a Facebook Live event for National Consumer Protection Week that reached 24,000 people.
+
+{{< img src="usagov-marketing" caption="A screenshot of the homepage for the USAGov digital toolkit." alt="A screenshot of the homepage for the USAGov digital toolkit. It has the words, "Ready to Work with You" with two buttons below it; one that says, Get Started, and another that says, View Branding Toolkit." >}}
 
 If you’re interested in learning more about our team or want to know how to become a partner, explore our [Partnership Toolkit](http://www.usa.gov/partnerships). You can also sign up to attend [our live event hosted by DigitalGov University on Tuesday, April 3 at 2 PM, ET](https://www.digitalgov.gov/event/2018/04/03/marketingasaservice-an-introduction-usagovs-partnership-toolkit/). We will be demoing the toolkit and explaining in more detail how we approach marketing and outreach in the government.
