@@ -45,4 +45,6 @@ Here are some examples of how we've worked with agencies in the past to amplify 
 
 {{< img src="usagov-marketing" caption="A screenshot of the homepage for the USAGov digital toolkit." alt="A screenshot of the homepage for the USAGov digital toolkit. It has the words, "Ready to Work with You" with two buttons below it; one that says, Get Started, and another that says, View Branding Toolkit." >}}
 
-If you’re interested in learning more about our team or want to know how to become a partner, explore our [Partnership Toolkit](http://www.usa.gov/partnerships). You can also sign up to attend [our live event hosted by DigitalGov University on Tuesday, April 3 at 2 PM, ET](https://www.digitalgov.gov/event/2018/04/03/marketingasaservice-an-introduction-usagovs-partnership-toolkit/). We will be demoing the toolkit and explaining in more detail how we approach marketing and outreach in the government.
+If you’re interested in learning more about our team or want to know how to become a partner, explore our [**Partnership Toolkit**](http://www.usa.gov/partnerships).
+
+You can also sign up to attend our live event, [**"Marketing-as-a-Service: An Introduction to USAGov's Partnership Toolkit"**](https://www.digitalgov.gov/event/2018/04/03/marketingasaservice-an-introduction-usagovs-partnership-toolkit/) hosted by DigitalGov University on Tuesday, April 3 at 2 PM, ET. We will be demoing the toolkit and explaining in more detail how we approach marketing and outreach in the government.
