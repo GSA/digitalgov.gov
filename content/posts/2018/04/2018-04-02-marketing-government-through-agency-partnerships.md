@@ -23,13 +23,14 @@ tag:
 featured_image:
   uid: featured-usagov-logo-new-2017
   alt: 'A screenshot of the homepage for USAGov&#39;s digital toolkit&#46; It has the words, &quot;Ready to Work with You&quot; with two buttons below it; one that says, Get Started, and another that says, View Branding Toolkit.'
+
 ---
 
 _This article was originally posted on the [USAGov blog](https://blog.usa.gov/marketing-the-government-through-agency-partnerships). Claire Loxsom is a Program Analyst on USAGov’s Content and Outreach team._
 
 All government agencies have a common goal: to serve the public. As the front door to government information and services, we help agencies achieve this goal. We strive to make it easier for the public to find what they need by aggregating and disseminating information about government programs and services.
 
-{{< youtube "PS3GS0QrBAI" >}}
+{{< youtube PS3GS0QrBAI >}}
 
 USAGov has an Outreach and Marketing team that helps agencies amplify their key messages through a variety of channels. We’re most successful when we partner with agencies to develop and promote initiatives that are tailored to different audiences. In our partnerships, agency staff serve as the subject matter experts who understand the content and trends in fields like health care, benefits, and consumer protection. In turn, we provide a powerful brand, marketing expertise, and an omni-channel platform.
 
@@ -43,7 +44,7 @@ Here are some examples of how we've worked with agencies in the past to amplify 
 
 - **[FTC National Consumer Protection Week and More](https://www.facebook.com/USAgov/videos/10154721182428580/)**: In March 2017, USAGov partnered with the Federal Trade Commission on a six-month bilingual public education campaign. We created a joint editorial content calendar, which mapped out a timeline for digital media strategies. As part of the strategy, we co-hosted multiple video broadcasts, including a Facebook Live event for National Consumer Protection Week that reached 24,000 people.
 
-{{< img src="usagov-marketing" caption="A screenshot of the homepage for the USAGov digital toolkit." alt="A screenshot of the homepage for the USAGov digital toolkit. It has the words, "Ready to Work with You" with two buttons below it; one that says, Get Started, and another that says, View Branding Toolkit." >}}
+{{< img src="usagov-marketing" >}}
 
 If you’re interested in learning more about our team or want to know how to become a partner, explore our [**Partnership Toolkit**](http://www.usa.gov/partnerships).
 
