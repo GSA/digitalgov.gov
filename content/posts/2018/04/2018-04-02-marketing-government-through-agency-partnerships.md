@@ -1,8 +1,8 @@
 ---
 slug: marketing-government-through-agency-partnerships
 date: 2018-04-02 12:00:00 -0500
-title: '“Marketing” the Government Through Agency Partnerships'
-summary: 'USAGov has an Outreach and Marketing team that helps agencies amplify their key messages through a variety of channels.'
+title: 'New USAGov Program Aims to Help Agencies Market Within the Federal Government'
+summary: 'The Outreach and Marketing team from USAGov helps agencies amplify their key messages through a variety of channels.'
 authors:
   - claire-loxsom
 categories:
@@ -22,7 +22,7 @@ tag:
   - user-experience
 featured_image:
   uid: featured-usagov-logo-new-2017
-  alt: 'A screenshot of the homepage for USAGov&#39;s digital toolkit&#46; It has the words, &quot;Ready to Work with You&quot; with two buttons below it; one that says, Get Started, and another that says, View Branding Toolkit.'
+  alt: 'USAGov Logo'
 canonical: https://blog.usa.gov/marketing-the-government-through-agency-partnerships
 
 ---
