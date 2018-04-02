@@ -12,7 +12,7 @@
       <div class="entry">
 
         <h1 class="post-title single">
-          <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
+          {{ .Title | markdownify }}
         </h1>
 
         {{ partial "post-meta" . }}
