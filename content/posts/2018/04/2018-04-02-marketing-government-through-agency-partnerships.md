@@ -23,6 +23,7 @@ tag:
 featured_image:
   uid: featured-usagov-logo-new-2017
   alt: 'A screenshot of the homepage for USAGov&#39;s digital toolkit&#46; It has the words, &quot;Ready to Work with You&quot; with two buttons below it; one that says, Get Started, and another that says, View Branding Toolkit.'
+canonical: https://blog.usa.gov/marketing-the-government-through-agency-partnerships
 
 ---
 
