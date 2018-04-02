@@ -25,6 +25,10 @@
 	line-height: 32px;
 }
 
+.entry .video{
+	margin-bottom: 20px;
+}
+
 .entry-content p{
 	margin-bottom: 24px;
 }

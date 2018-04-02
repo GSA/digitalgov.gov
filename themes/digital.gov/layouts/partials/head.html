@@ -76,6 +76,10 @@
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
 
+  {{ if $.Params.canonical }}
+  {{ "<!-- Canonical URL =============== -->" | safeHTML }}
+  <link rel="canonical" href="{{ $.Params.canonical }}" />
+  {{ end }}
 
   {{ if $.Params.redirectto }}
   {{ "<!-- Redirect =============== -->" | safeHTML }}
