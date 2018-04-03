@@ -212,6 +212,9 @@
 	padding: 10px 0 15px 0;
 	border-bottom: 1px #9DA2A6 solid;
 }
+.event .stage p{
+	margin-top:10px;
+}
 
 .video-box{
 	width: 100%;
