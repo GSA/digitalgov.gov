@@ -30,10 +30,10 @@ This afternoon event is an opportunity for API practitioners from across federal
 ## Agenda
 
 - 3:00pm - Welcome and Introductions
-- 3:10pm - Review of newly launched APIs and Developer Hubs ([list](https://github.com/18F/wg-api/blob/18f-pages/quarterly-meetings/2018-q2.md#new-apis-and-hubs-to-highlight) | [suggest others here](https://github.com/18F/wg-api/issues/13))
-- 3:20pm - Review of relevant news ([list](https://github.com/18F/wg-api/blob/18f-pages/quarterly-meetings/2018-q2.md#relevant-news-to-hightlight) | [suggest others here](https://github.com/18F/wg-api/issues/14))
-- 3:30pm - Agency Presentation 1 (TBD)
-- 3:45pm - Agency Presentation 2 (TBD)
+- 3:10pm - Review of newly launched APIs and Developer Hubs (details below)
+- 3:20pm - Review of relevant news (details below)
+- 3:30pm - Agency Presentation 
+- 3:45pm - Agency Presentation
 - 4:00pm - Requests for Help
 - 4:10pm - Proposals and discussion for best practices and norms to adopt
 - 4:30pm - Other Discussion and Q&A
