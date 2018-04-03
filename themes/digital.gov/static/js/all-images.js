@@ -57,6 +57,7 @@ jQuery(document).ready(function($) {
             "<p><strong>attribution:</strong> "+attribution+"</p>",
             "<p><strong>caption:</strong> "+caption+"</p>",
             "<p><strong>alt:</strong> "+alt+"</p>",
+            "<pre>{{< img src=\""+uid+"\" >}}</pre>", // shortcode
             "<pre>{{< img src=\""+uid+"\" caption=\""+caption+"\" alt=\""+alt+"\" >}}</pre>", // shortcode
             "<pre>{{< img-right src=\""+uid+"\" caption=\""+caption+"\" alt=\""+alt+"\" >}}</pre>", // shortcode
             "<p><a target='_new' href='https://github.com/GSA/digitalgov.gov/edit/master/data/images/"+uid+".yml' title='view on GitHub'>Edit on GitHub »</a></p>",
