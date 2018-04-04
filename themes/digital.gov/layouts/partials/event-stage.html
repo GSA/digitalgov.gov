@@ -11,10 +11,16 @@
   {{ end }}
   </div>
 
-  {{ if ($t.After now) eq "true" }}
-  <div class="chat-box">
-    <iframe allowfullscreen="" height="365px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=www.digitalgov.gov&output=embed" scrolling="auto"></iframe>
-  </div>
+  {{ if (isset .Params "chatbox") and (eq .Params.chatbox "off") | or (eq .Params.chatbox "") }}
+    OFF
+  {{ end }}
+  {{ if (not (isset .Params "chatbox")) or (isset .Params "chatbox") and (eq .Params.chatbox "on") }}
+    ON
+    {{ if ($t.After now) eq "true" }}
+    <div class="chat-box">
+      <iframe allowfullscreen="" height="365px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=www.digitalgov.gov&output=embed" scrolling="auto"></iframe>
+    </div>
+    {{ end }}
   {{ end }}
 
   <p>
