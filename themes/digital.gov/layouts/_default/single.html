@@ -6,16 +6,18 @@
 
 <div class="page">
   <div class="hentry entry">
+
     <div class="entry-head">
       {{ partial "breadcrumbs" . }}
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
     </div>
+
     <div class="entry-content">
       {{ .Content }}
     </div>
 
-    {{ partial "post-meta--feedback.html" . }}
-    
+    {{ partial "post-meta--feedback" (dict "page" . "page_type" "page") }}
+
   </div>
 </div>
 

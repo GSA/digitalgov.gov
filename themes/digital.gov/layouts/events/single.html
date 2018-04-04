@@ -49,9 +49,7 @@
     {{ partial "event-location.html" . }}
   {{ end }}
 
-
-  {{ partial "post-meta--feedback.html" . }}
-
+  {{ partial "post-meta--feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov") }}
 
 </div>
 {{ end }}
