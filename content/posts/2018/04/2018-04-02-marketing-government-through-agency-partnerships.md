@@ -21,7 +21,7 @@ tag:
   - multilingual
   - user-experience
 featured_image:
-  uid: featured-usagov-logo-new-2017
+  uid: usagov-marketing
   alt: 'USAGov Logo'
 canonical: https://blog.usa.gov/marketing-the-government-through-agency-partnerships
 
