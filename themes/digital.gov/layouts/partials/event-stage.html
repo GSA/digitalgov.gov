@@ -1,5 +1,6 @@
 {{ $t := (time .Params.Date) }}
 <div class="stage" data-eventdate="{{ dateFormat "2006-01-02" .Date }}">
+
   <div class="video-box">
   {{ if ($t.After now) eq "true" }}
     <div class="youtube-player">
@@ -9,11 +10,16 @@
     <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
   {{ end }}
   </div>
+
+  {{ if ($t.After now) eq "true" }}
   <div class="chat-box">
     <iframe allowfullscreen="" height="365px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=www.digitalgov.gov&output=embed" scrolling="auto"></iframe>
   </div>
+  {{ end }}
+
   <p>
     <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a>
     <!-- <a href="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&is_popout=1" title="View Live Chat on YouTube"><strong>Live Chat</strong></a> -->
   </p>
+
 </div>
