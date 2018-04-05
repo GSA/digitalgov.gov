@@ -1,14 +1,14 @@
 ---
 slug: us-web-design-system-monthly-call
 title: 'U.S. Web Design System Monthly Call'
-summary: 'text'
+summary: 'Join us for our monthly conversation with designers and developers across the government.'
 featured_image: 
   uid: 
   alt: ''
 event_type: 
   - online
-date: 2018-04-27 16:30:00 -0500
-end_date: 2018-04-27 16:30:00 -0500
+date: 2018-04-27 13:00:00 -0500
+end_date: 2018-04-27 13:30:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/april-us-web-design-system-call-tickets-44852101844
