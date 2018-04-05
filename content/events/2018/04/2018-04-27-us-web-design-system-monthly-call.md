@@ -2,11 +2,12 @@
 slug: us-web-design-system-monthly-call
 title: 'U.S. Web Design System Monthly Call'
 summary: 'Join us for our monthly conversation with designers and developers across the government.'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
+event_type:
   - online
+  - zoom
 date: 2018-04-27 13:00:00 -0500
 end_date: 2018-04-27 13:30:00 -0500
 event_organizer: DigitalGov University
