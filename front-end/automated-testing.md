@@ -13,6 +13,7 @@ question: Did your accessibility testing tools provide accurate results?
 - **Continuous integration**: Integrate a tool like [AccessLintCI](https://github.com/accesslint/accesslint-ci) to run accessibility tests in CircleCI builds and see errors posted as comments in GitHub PRs.
 - **Simulate impairments**: Use these tools to simulate color blindness, low vision, zoom, low contrast, high contrast, and more.
 
+#### Resources
 <a href="https://youtu.be/cOmehxAU_4s?t=8m57s">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (tools and extensions)
 </a>
