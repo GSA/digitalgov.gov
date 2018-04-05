@@ -3,7 +3,7 @@ slug: a-deep-dive-into-top-tasks-with-gerry-mcgovern
 title: 'A Deep Dive Into Top Tasks with Gerry McGovern'
 summary: 'This talk will focus on how using the top tasks approach will help you deliver what your customers want to make it easier and faster for people to do things they need to do with government&#46;'
 featured_image:
-  uid:
+  uid: event-top-tasks
   alt: ''
 event_type:
   - youtube-live
