@@ -46,4 +46,4 @@ _Visit [https://www.ntis.gov/thedatacabinet/](https://www.ntis.gov/thedatacabine
 
 ## How to Join
 
-To join, send an email to [DATACABINET-subscribe-request@listserv.gsa.gov](mailto:DATACABINET-subscribe-request@listserv.gsa.gov?subject=subscribe%20to%20DATA%20CABINET) with “subscribe to DATA CABINET” in the subject. Anyone with a .gov or .mil email address is eligible.
+To join, send an email to [DATACABINET-subscribe-request@listserv.gsa.gov](mailto:DATACABINET-subscribe-request@listserv.gsa.gov?subject=subscribe%20to%20DATA%20CABINET) with `"subscribe to DATA CABINET”` in the subject. Anyone with a .gov or .mil email address is eligible.
