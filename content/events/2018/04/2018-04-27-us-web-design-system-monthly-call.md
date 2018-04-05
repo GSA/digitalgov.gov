@@ -15,9 +15,7 @@ registration_url: https://www.eventbrite.com/e/april-us-web-design-system-call-t
 
 ---
 
-This month, the U.S. Web Design System team will talk with a team from the [U.S. Digital Service](https://www.usds.gov/) about a library of forms that they've been creating while working for the Veterans Affairs.
-
-Join us on Friday, April 27 at 10am PT / 1pm ET. This event will be held over Zoom.
+Join us on Friday, April 27 at 10am PT / 1pm ET for our monthly conversation with fellow designers and developers across the government. This month, the U.S. Web Design System team will talk with a team from the [U.S. Digital Service](https://www.usds.gov/) about a library of forms that they've been creating as part of their work with the Veterans Affairs. This event will be held over Zoom.
 
 #### Related
 - View the U.S. Web Design System at [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
