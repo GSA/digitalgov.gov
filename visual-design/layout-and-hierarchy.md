@@ -16,7 +16,7 @@ personas:
 - Consider reading order. The reading order should be the same as the visual order.
 - Group related items in proximity to one another to help those who have low vision or trouble focusing on the screen.
 
-### References:
+#### Resources
 [Google Material Accessibility](https://material.io/guidelines/usability/accessibility.html)
 <br>
 [WebAIM: Web Accessibility for Designers](http://webaim.org/resources/designers/)

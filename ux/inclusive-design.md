@@ -17,7 +17,7 @@ permalink: /ux/inclusive-design/
 - Design for [progressive enhancement](https://articles.uie.com/progressive_enhancement/) by making sure every person is able to use your product using the most basic technologies, while layering on better experiences for those who can use them.
 - When conducting user research, make sure the diversity of your participants reflects the diverse abilities, circumstances, and backgrounds of your actual users.
 
-### Resource
+### Resources
 [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/en-us/design/inclusive)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/assistive-technology/">

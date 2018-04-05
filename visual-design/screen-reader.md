@@ -35,6 +35,7 @@ personas:
   </li>
 </ul>
 
+#### Resources
 <a href="https://youtu.be/5R-6WvAihms">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Screen Reader Basics: VoiceOver
 </a>

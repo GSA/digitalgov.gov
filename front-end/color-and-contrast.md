@@ -13,6 +13,7 @@ personas:
 - Use an [automated tool]({{ site.baseurl }}/automated-testing/) to quickly scan for color contrast problems.
 - Don’t use color alone to convey meaning. Use icons, text, and other visual elements to reinforce the meaning of the content.
 
+#### Resources
 <a href="https://www.youtube.com/watch?v=gH1JieTZQ1k">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Meeting contrast requirements
 </a>

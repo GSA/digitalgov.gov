@@ -15,7 +15,7 @@ personas:
 - **Do not use placeholder text in form fields.** Placeholder text causes usability issues because it disappears when content is entered into the form field. Hints and instructions should be persistent and placed outside of the field.
 - **Provide highly visible and specific error states.** Use multiple cues like color, icons, bold font weight, heavy border or outline, and helpful text to make sure users don’t overlook this critical information.
 
-### References
+#### References
 [GOV.UK elements: Form elements](http://govuk-elements.herokuapp.com/form-elements)
 <br>
 [Nielsen Norman Group: Website Forms Usability: Top 10 Recommendations](https://www.nngroup.com/articles/web-form-design/)

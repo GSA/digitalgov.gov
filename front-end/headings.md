@@ -14,6 +14,7 @@ personas:
 - Use only one `h1` per page for the page title.
 <p class="usa-text-small">*While HTML5 allows you to reset headings to h1 on new section elements, some screen reader users will have difficulty discerning the structure of pages with multiple h1s. For this reason, it’s best to include only one h1 per page.</p>
 
+#### Resources
 <a href="https://www.youtube.com/watch?v=ZHWcs5d9IqA">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Using headings
 </a>

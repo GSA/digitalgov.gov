@@ -14,7 +14,7 @@ personas:
 - Use precise and descriptive [headings](https://content-guide.18f.gov/headings-and-titles/) to help readers grasp the main points of a piece without reading it in its entirety.
 - Check the continuity between sections. Paragraphs that don’t have clear thematic links from one to the next can cause difficulties for some readers.
 
-### Resources
+#### Resources
 [Headings and titles](https://content-guide.18f.gov/headings-and-titles/), 18F Content Guide
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/images/">

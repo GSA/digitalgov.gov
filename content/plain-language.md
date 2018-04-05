@@ -16,7 +16,7 @@ Include in-line definitions for scientific, legal, or technical terms that you m
 - Avoid using idiomatic language.
 - Test the readability of your content using [Hemingway App](Hemingway App), [Readable.io](https://readable.io/), or a similar tool.
 
-### Resources
+#### Resources
 [plainlanguage.gov](https://plainlanguage.gov/guidelines/)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/reference-materials/">

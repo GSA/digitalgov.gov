@@ -19,6 +19,7 @@ personas:
 - Slightly temper the contrast between your text and background color. For example: don’t use pure black text on a pure white background. Stark contrast can result in blurred or moving text for people with Irlen syndrome.
 - To use text over images, add a solid background behind the text or a dark overlay to the image.
 
+#### Resources
 <a href="https://www.youtube.com/watch?v=gH1JieTZQ1k">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Meeting contrast requirements
 </a>

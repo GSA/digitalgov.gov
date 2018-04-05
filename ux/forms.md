@@ -14,7 +14,7 @@ personas:
 - Use a straw or make a narrow window with your fist and view the page through that, scanning vertically but not horizontally. This can help you discover if content is hidden from users using screen magnifiers.
 - Minimize the number of responses overall and that are displayed on a single page, but provide context clues throughout for people who might easily lose their place.
 
-### Resource
+### Resources
 [GDS’s guidance on form structure](https://www.gov.uk/service-manual/design/form-structure)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/images/">

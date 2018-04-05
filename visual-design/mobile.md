@@ -6,7 +6,6 @@ question: Can you understand key information and perform critical tasks on a mob
 personas:
 - Miyako just lost her job and canceled her home internet to stretch her budget. She only uses her cell phone to browse the internet.
 - Reza is recovering from a stroke and slowly relearning how to use his arm. He uses his phone to help him find information on the web.
-
 ---
 
 ### Steps to take
