@@ -1,7 +1,7 @@
 ---
 slug: us-federal-emerging-technology-public-meeting
 title: 'U&#46;S&#46; Federal Emerging Technology Public Meeting — Spring 2018'
-summary: 'SUMMARY GOES HERE'
+summary: 'The U.S. Federal Emerging Technology monthly meeting for government employees to share knowledge, forge consensus and build shared resources and programs.'
 featured_image:
   uid:
   alt: ''
