@@ -23,7 +23,7 @@ On a quarterly basis, the U.S. Federal Emerging Technology monthly meeting for g
 
 [**Please review action items from previous meetings for reporting this month.**](https://emerging.digital.gov/meeting-notes/)
 
-## Agenda
+## Agenda :space_invader:
 
 **Welcome and Introductions**
 
