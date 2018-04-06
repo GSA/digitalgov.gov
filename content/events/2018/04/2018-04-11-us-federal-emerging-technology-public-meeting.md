@@ -49,3 +49,6 @@ On a quarterly basis, the U.S. Federal Emerging Technology monthly meeting for g
 - Training and Education
 
 **New Business and Open Questions**
+
+
+Learn more about the U.S. Emerging Citizen Technology Program at [https://emerging.digital.gov/](https://emerging.digital.gov/)
