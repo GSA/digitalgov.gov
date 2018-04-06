@@ -1,6 +1,6 @@
 ---
 slug: us-federal-emerging-technology-public-meeting
-title: 'U&#46;S&#46; Federal Emerging Technology Public Meeting'
+title: 'U&#46;S&#46; Federal Emerging Technology Public Meeting — Spring 2018'
 summary: 'SUMMARY GOES HERE'
 featured_image:
   uid:
