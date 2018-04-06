@@ -25,27 +25,28 @@ On a quarterly basis, the U.S. Federal Emerging Technology monthly meeting for g
 
 ## Agenda :space_invader:
 
-* **Welcome and Introductions**
-  - Justin Herman, U.S. General Services Administration
+**Welcome and Introductions**
+ - Justin Herman, U.S. General Services Administration
 
-* **Inter-agency Communities Update**
-  - Artificial Intelligence
-  - Robotic Process Automation
-  - Blockchain
-  - Virtual/Augmented Reality
+**Inter-agency Communities Update**
+ - Artificial Intelligence
+ - Robotic Process Automation
+ - Blockchain
+ - Virtual/Augmented Reality
 
-* **Inter-agency Initiatives Update**
-  - "EmergingTech Check" Inter-Agency Research
-  - Inter-Agency Emerging Technology Trello Management Board
-  - 100 Federal Emerging Tech Leaders Initiative
-  - Open Data for Artificial Intelligence
-  - Venture Capital Advisory Group
-    * Molly Cain and Jennifer Hoover, U.S. Department of Homeland Security, #InnovateDHS
-  - Academic Research Outreach
-    * Ann Meceda, State Department
-  - Training and Education
+**Inter-agency Initiatives Update**
+ - "EmergingTech Check" Inter-Agency Research
+ - Inter-Agency Emerging Technology Trello Management Board
+ - 100 Federal Emerging Tech Leaders Initiative
+ - Open Data for Artificial Intelligence
+ - Venture Capital Advisory Group
+   - Molly Cain and Jennifer Hoover, U.S. Department of Homeland Security, #InnovateDHS
+ - Academic Research Outreach
+   - Ann Meceda, State Department
+ - Training and Education
 
-* **New Business and Open Questions**
+**New Business and Open Questions**
+
 
 ---
 _Learn more about the U.S. Emerging Citizen Technology Program at [https://emerging.digital.gov/](https://emerging.digital.gov/)_
