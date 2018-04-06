@@ -2,10 +2,10 @@
 slug: us-federal-emerging-technology-public-meeting
 title: 'U&#46;S&#46; Federal Emerging Technology Public Meeting'
 summary: 'SUMMARY GOES HERE'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
+event_type:
   - youtube-live
   - online
 date: 2018-04-11 11:00:00 -0500
@@ -23,5 +23,29 @@ On a quarterly basis, the U.S. Federal Emerging Technology monthly meeting for g
 
 [**Please review action items from previous meetings for reporting this month.**](https://emerging.digital.gov/meeting-notes/)
 
+## Agenda
 
+**Welcome and Introductions**
 
+- Justin Herman, U.S. General Services Administration
+
+**Inter-agency Communities Update**
+
+- Artificial Intelligence
+- Robotic Process Automation
+- Blockchain
+- Virtual/Augmented Reality
+
+**Inter-agency Initiatives Update**
+
+- “EmergingTech Check” Inter-Agency Research
+- Inter-Agency Emerging Technology Trello Management Board
+- 100 Federal Emerging Tech Leaders Initiative
+- Open Data for Artificial Intelligence
+- Venture Capital Advisory Group
+  - Molly Cain and Jennifer Hoover, U.S. Department of Homeland Security, #InnovateDHS
+- Academic Research Outreach
+  - Ann Meceda, State Department
+- Training and Education
+
+**New Business and Open Questions**
