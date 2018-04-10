@@ -133,7 +133,7 @@
   <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
 
   {{ "<!-- DAP — Digital Analytics Program | Learn more: https://digitalgov.gov/dap/ -->" | safeHTML }}
-  <script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?ver=true&agency=GSA"></script>
+  <script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?ver=true&agency=GSA{{ if (isset .Params "youtube_id") }}&yt=true{{ end }}"></script>
 
   {{ "<!-- Google Analytics — Global Site Tag (gtag.js) | because our site has been around a lot longer than DAP -->" | safeHTML }}
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47271808-1"></script>
