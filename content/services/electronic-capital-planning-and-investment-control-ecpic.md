@@ -37,7 +37,7 @@ If you are interested in learning more about the eCPIC tool, please [email the p
 - Department of the Interior
 - Department of Justice
 - Department of Labor
-- - National Aeronautics and Space Administration
+- National Aeronautics and Space Administration
 - Social Security Administration
 - Office of Personnel Management
 - Department of Veteran’s Affairs
