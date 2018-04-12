@@ -13,7 +13,7 @@ personas:
   - Test your color palette for accessible combinations with [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/) or [Contrast Grid](http://contrast-grid.eightshapes.com/).
   - Measure the contrast between text and backgound colors with tools like [WebAIM's Color Contrast Checker](http://webaim.org/resources/contrastchecker/) or a [Sketch plugin](https://github.com/getflourish/Sketch-Color-Contrast-Analyser).
 - Exceptions:
-  - Color contrast ratio requirements apply specifically to text. You don’t need to meet color contrast ratio requirements for graphic elements in charts, illustrations, or icons.
+  - Color contrast ratio requirements apply to text and graphics that are essential for understanding the content or functionality. You don’t need to meet color contrast requirements for logos or incidental graphic elements.
   - Text that is part of a disabled control states or disabled buttons does not need to meet the minimum contrast ratio.
   - Text that is part of a logo has no minimum contrast requirement.
 - Slightly temper the contrast between your text and background color. For example: don’t use pure black text on a pure white background. Stark contrast can result in blurred or moving text for people with Irlen syndrome.
