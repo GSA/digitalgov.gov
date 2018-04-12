@@ -29,23 +29,25 @@ If you are interested in learning more about the eCPIC tool, please [email the p
 
 ## eCPIC Agencies
 
-- Department of Commerce
-- Department of Energy
-- Environment Protection Agency
-- General Services Administration
-- Department of Housing and Urban Development
-- Department of the Interior
-- Department of Justice
-- Department of Labor
-- Social Security Administration
-- Office of Personnel Management
-- Department of Veteran’s Affairs
-- Department of Education
-- U.S. Small Business Administration
-- National Archives
-- U.S. Agency for International Development
+- Department of Commerce (Commerce)
+- National Aeronautics and Space Administration (NASA)
+- National Archives and Records Administration (NARA)
+- The United States Social Security Administration (SSA)
+- The U.S. Small Business Administration (SBA)
+- United States Department of Energy (DOE)
+- United States Department of Housing and Urban Development (HUD)
+- United States Office of Personnel Management (OPM)
+- U.S. Agency for International Development (USAID)
 - U.S. Army Corps of Engineers
-- Securities and Exchange Commission
+- U.S. Department of the Interior (Interior)
+- U.S. Department of Justice (Justice)
+- U.S. Department of Labor (Labor)
+- U.S. Department of Veterans Affairs (VA)
+- U.S. Department of Education (Education)
+- U.S. Environmental Protection Agency (EPA)
+- U.S. General Services Administration
+- U.S. Securities and Exchange Commission (SEC)
+
 
 ---
 
