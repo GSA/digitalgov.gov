@@ -24,6 +24,8 @@ personas:
 
 <a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111&currentsidebar=%23col_overview&tags=images%2Cimages-of-text#media-equiv">Guideline 1.2 – Time-based Media</a>
 
+<a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111&currentsidebar=%23col_overview&tags=images%2Cimages-of-text#visual-audio-contrast">Guideline 1.4 – Distinguishable</a>
+
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/links/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
 </a>
