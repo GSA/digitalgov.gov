@@ -12,13 +12,11 @@ personas:
 - Create link text that’s as specific as possible. For example, instead of using Click here (which may not make sense for folks using screen readers), consider instead something like Download the full report. Descriptive links provide all users more information about an action they may undertake.
 - Include information about what a link leads to; this is especially important for folks who use mobile devices. If you’re linking to a PDF, say so.
 
-#### Resources
+#### References
 
-<a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14&currentsidebar=%23col_overview&tags=links#visual-audio-contrast-without-color">Guideline 1.4 – Distinguishable</a>
-
-<a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14&currentsidebar=%23col_overview&tags=links#keyboard-operation-keyboard-operable">Guideline 2.1 – Keyboard Accessible</a>
-
-<a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14&currentsidebar=%23col_overview&tags=links#navigation-mechanisms-focus-order">Guideline 2.4 – Navigable</a>
+- [Guideline 1.4 – Distinguishable](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14&currentsidebar=%23col_overview&tags=links#visual-audio-contrast-without-color)
+- [Guideline 2.1 – Keyboard Accessible](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14&currentsidebar=%23col_overview&tags=links#keyboard-operation-keyboard-operable)
+- [Guideline 2.4 – Navigable](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14&currentsidebar=%23col_overview&tags=links#navigation-mechanisms-focus-order)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/information-architecture/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

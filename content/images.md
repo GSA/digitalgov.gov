@@ -20,11 +20,11 @@ personas:
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: Text alternatives
 </a>
 
-<a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv">Guideline 1.1 – Text Alternatives</a>
+#### References
 
-<a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111&currentsidebar=%23col_overview&tags=images%2Cimages-of-text#media-equiv">Guideline 1.2 – Time-based Media</a>
-
-<a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111&currentsidebar=%23col_overview&tags=images%2Cimages-of-text#visual-audio-contrast">Guideline 1.4 – Distinguishable</a>
+- [Guideline 1.1 – Text Alternatives](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
+- [Guideline 1.2 – Time-based Media](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111&currentsidebar=%23col_overview&tags=images%2Cimages-of-text#media-equiv)
+- [Guideline 1.4 – Distinguishable](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111&currentsidebar=%23col_overview&tags=images%2Cimages-of-text#visual-audio-contrast)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/links/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
