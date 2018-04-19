@@ -15,7 +15,7 @@
         {{ $uid := $tax.Name | urlize }}
         {{ $author := index $data.people.authors $uid }}
           {{ $link := printf "authors/%s/" $uid }}
-          <li><a href="{{ $link | absURL }}" {{ if $author.uid }}style="color: black;"{{ end }}>{{ $author.display_name | default $uid }} ({{ $tax.Count }})</li>
+          <li><a href="{{ $link | absURL }}">{{ $author.display_name | default $uid }} ({{ $tax.Count }})</li>
       {{ end }}
     {{ else }}
       {{ range $tag, $title := index $data $.Data.Plural }}
