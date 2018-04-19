@@ -6,7 +6,7 @@
 {{ define "content" }}
   {{ $data := $.Site.Data }}
   <h1>{{ .Title }}</h1>
-  <p>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}.</p>
+  <h4>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}</h4>
 
   <ul>
     {{ if eq $.Data.Plural "authors" }}
