@@ -1,4 +1,4 @@
-/** 
+/**
  * HubSpot Analytics Tracking Code Build Number 1.158
  * Copyright 2017 HubSpot, Inc.  http://www.hubspot.com
  */
@@ -8,7 +8,7 @@ _hsq.push(['setPortalId', 1962994]);
 _hsq.push(['trackPageView']);
 _hsq.push(['setLegacy', false]);
 _hsq.push(['addCookieDomain', '.hs-sites.com']);
-_hsq.push(['addCookieDomain', '.digitalgov.gov']);
+_hsq.push(['addCookieDomain', '.digital.gov']);
 _hsq.push(['enableAutomaticLinker', true]);
 _hsq.push(['embedHubSpotScript', 'https://api.usemessages.com/messages/v2/embed/1962994.js', 'messages-1962994']);
 /** _anon_wrapper_ **/ (function() {
