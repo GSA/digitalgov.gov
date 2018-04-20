@@ -16,7 +16,7 @@ youtube_id: W9gFgy4Jx6k
 
 ---
 
-Search.gov is a tool that federal agencies can use to provide a high quality search experience to their site’s users. 
+[Search.gov](https://search.gov/)  is a tool that federal agencies can use to provide a high quality search experience to their site’s users. 
 
 In this online event, we’ll provide a basic overview of Search.gov’s essential features and tour its Admin Center:
 
