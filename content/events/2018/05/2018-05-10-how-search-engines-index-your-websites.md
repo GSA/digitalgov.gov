@@ -18,7 +18,7 @@ youtube_id: THhe3Z7XSxg
 
 You’ve probably heard about SEO, search engine optimization - the techniques you can use to get better placement and presentation in search results. Join [Search.gov](https://search.gov/) as they walk you through the fundamentals of how search engines monitor your content and pull relevant data from your pages.
 
-This session is relevant to Search.gov customers and other web managers as well. If you are a Search.gov customer and new to the service, we highly recommend you attend our Basics session prior to attending this Technical session. 
+This session is relevant to Search.gov customers and other web managers as well. If you are a Search.gov customer and new to the service, we highly recommend you attend our [introductory session]({{< link "2018-05-10-how-search-engines-index-your-websites.md" >}}) prior to attending this Technical session. 
 
 In this online event, we’ll look in detail at the essential building blocks of a search index:
 
