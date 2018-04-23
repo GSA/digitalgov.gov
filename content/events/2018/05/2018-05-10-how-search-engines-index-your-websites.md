@@ -1,5 +1,5 @@
 ---
-slug: searchgov-advanced-technical
+slug: how-search-engines-index-your-websites
 title: 'How Search Engines Index Your Websites'
 summary: 'Join Search&#46;gov as they walk you through the fundamentals of how search engines monitor your content and pull relevant data from your pages.'
 featured_image: 
