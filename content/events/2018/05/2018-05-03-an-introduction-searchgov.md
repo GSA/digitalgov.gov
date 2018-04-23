@@ -1,7 +1,7 @@
 ---
-slug: searchgov-basics
-title: 'Search&#46;gov Basics'
-summary: 'Learn about the essential features of Search.gov and tour its Admin Center.'
+slug: an-introduction-searchgov
+title: 'An Introduction to Search&#46;gov'
+summary: 'Learn about the essential features of Search&#46;gov and tour its Admin Center.'
 featured_image: 
   uid: 
   alt: ''
