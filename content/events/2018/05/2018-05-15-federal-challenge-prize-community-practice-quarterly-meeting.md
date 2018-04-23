@@ -22,9 +22,7 @@ venue:
 
 ---
 
-## About the Challenges and Prizes Quarterly Meeting
-
-This quarterly meeting brings together federal employees across government to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.
+Our quarterly Challenges and Prizes meeting brings together federal employees across government to discuss trends, success stories and lessons learned in the use of crowdsourcing competitions.
 
 In this meeting, participants will:
 
