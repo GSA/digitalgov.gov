@@ -10,7 +10,7 @@ end_date: 2018-05-15 16:00:00 -0500
 event_organizer: DigitalGov University
 host: Challenge & Prize Community of Practice
 registration_url: https://www.eventbrite.com/e/federal-challenge-prize-community-of-practice-quarterly-meeting-registration-45447663184
-youtube_id: fY5jhPVVPwM
+youtube_id: 
 venue: 
   venue_name: U.S. General Services Administration
   room: 1151
