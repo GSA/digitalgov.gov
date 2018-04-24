@@ -16,7 +16,7 @@
 	border-top: 1px #6d91ed solid;
 	line-height: 22px;
 	color: #1f1c19;
-	font-size: 14px;
+	font-size: 16px;
 }
 #TableOfContents li.more a{
 	color: #4a70d9;
@@ -33,7 +33,7 @@
 }
 #TableOfContents li a{
 	margin:4px;
-	padding: 5px 0;
+	padding: 8px 0;
 	display: block;
 	color: #1f1c19;
 }
@@ -44,6 +44,7 @@
 	text-decoration: underline;
 }
 
+/* Hides all navigation that is below an H2 */
 #TableOfContents ul ul{
 	display: none;
 }
@@ -53,15 +54,18 @@
 }
 @media only screen and (min-width: 768px) {
 	#TableOfContents{
-		width: 245px;
+		width: 225px;
 		float: right;
+	}
+	#TableOfContents li{
+		font-size: 14px;
+	}
+	#TableOfContents li a{
+		padding: 4px 0;
 	}
 }
 @media only screen and (min-width: 992px) {
-	#TableOfContents{
-		width: 245px;
-		float: right;
-	}
+
 }
 @media only screen and (min-width: 1024px) {
 
