@@ -16,6 +16,7 @@
 	border-top: 1px #6d91ed solid;
 	line-height: 22px;
 	color: #1f1c19;
+	font-size: 14px;
 }
 #TableOfContents li.more a{
 	color: #4a70d9;
@@ -32,7 +33,7 @@
 }
 #TableOfContents li a{
 	margin:4px;
-	padding: 8px 0;
+	padding: 5px 0;
 	display: block;
 	color: #1f1c19;
 }
