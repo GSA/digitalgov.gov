@@ -91,7 +91,7 @@ function format_toc(hash){
 		 } else {
 			 var c = '';
 		 }
-			$(li).attr('title', t).attr('id', a).attr('class', c);
+			$(li).attr('title', t).attr('name', a).attr('class', c);
     })
 	});
 }
