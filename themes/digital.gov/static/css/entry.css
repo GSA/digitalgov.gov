@@ -1,5 +1,4 @@
 .page .entry{
-	width: 650px;
 }
 
 .entry-head{
@@ -17,6 +16,8 @@
 
 .entry-content{
 	margin-bottom: 50px;
+	width: 650px;
+	display: inline-block;
 }
 
 .entry-content .deck{
@@ -89,8 +90,10 @@
 		margin: 0;
 		padding: 15px;
 	}
-	.page .entry{
+	.page .entry,
+	.entry-content{
 		width:auto;
+		float: left;
 	}
 	.entry-meta .last_commit a.edit_file{
 		display: none;
@@ -103,7 +106,8 @@
 		padding: 15px;
 		width:auto;
 	}
-	.page .entry{
+	.page .entry,
+	.entry-content{
 		width:auto;
 	}
 }

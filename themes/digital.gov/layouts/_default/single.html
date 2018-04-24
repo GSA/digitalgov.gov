@@ -12,6 +12,8 @@
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
     </div>
 
+    {{ partial "toc.html" . }}
+    
     <div class="entry-content">
       {{ .Content }}
     </div>
@@ -19,6 +21,7 @@
     {{ partial "post-meta--feedback" (dict "page" . "page_type" "page") }}
 
   </div>
+
 </div>
 
 {{ end }} {{/* end 'content' block */}}

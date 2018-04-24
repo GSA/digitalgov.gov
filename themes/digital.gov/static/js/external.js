@@ -3,7 +3,6 @@ jQuery(document).ready(function($) {
 var featured_height = $('.featured-video').height();
 var featured_hed = $('.featured-news .hed').height();
 var featured_foot = $('.featured-news .foot').height();
-console.log(featured_height - featured_hed - featured_foot);
 $('.featured-news .wrap').height(featured_height - featured_hed - featured_foot);
 
 $( window ).resize(function() {
@@ -39,8 +38,9 @@ function get_commit_data(filepath){
 		  url: commit_file_path,
 		 	dataType: 'json',
 		}).done(function(data) {
-			console.log(data);
-			show_last_commit(data)
+			if (typeof data !== 'undefined' && data.length > 0) {
+				show_last_commit(data)
+			}
 		});
 	}
 }
@@ -74,6 +74,47 @@ function getFormattedDate(d) {
 	var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ampm + ' ET';
   return date_string;
 }
+
+// Cleans up the #TableOfContents from HUGO
+$('#TableOfContents > ul:first').contents().unwrap();
+$('#TableOfContents > li:first').contents().unwrap();
+
+
+function format_toc(hash){
+	$('#TableOfContents ul').each(function(i, items_list) {
+		$(items_list).find('li a').each(function(j, li){
+			$(li).removeClass('active');
+			var t = $(li).html();
+			var a = $(li).attr('href').substring(1);
+			if (a == hash) {
+			 var c = 'active';
+		 } else {
+			 var c = '';
+		 }
+			$(li).attr('title', t).attr('id', a).attr('class', c);
+    })
+	});
+}
+
+// Looks out for a click on the in-page nav
+jQuery("#TableOfContents li a").click(function() {
+	var hash = $(this).attr('id');
+	format_toc(hash);
+})
+
+// checks if there is a #hash in the URL on load. If so, it passes that along.
+if(window.location.hash) {
+	var hash = window.location.hash.substring(1); //Puts hash in variable, and removes the # character
+} else {
+	var hash = '';
+}
+format_toc(hash);
+
+// $('#TableOfContents li:first-of-type').contents().unwrap();
+// $('#TableOfContents li li').unwrap();
+// $('#TableOfContents ul').wrap('<div class="outer"/>').contents().unwrap();
+// $('#TableOfContents li').wrap('<div class="item"/>').contents().unwrap();
+
 
 });
 

@@ -1,0 +1,57 @@
+#TableOfContents{
+	margin-bottom: 25px;
+	/* padding: 15px; */
+	border-radius: 2px;
+	/* background: #fff4d4; */
+}
+
+#TableOfContents ul{
+	margin: 0;
+	padding: 0;
+}
+
+#TableOfContents li{
+	margin-bottom: 0;
+	list-style-type: none;
+	border-top: 1px #1f1c19 solid;
+	line-height: 22px;
+	color: #1f1c19;
+}
+#TableOfContents li:first-child{
+	border-top: none;
+}
+#TableOfContents li a{
+	margin:4px;
+	padding: 8px 0;
+	display: block;
+	color: #1f1c19;
+}
+#TableOfContents li .active{
+	font-weight: bold;
+}
+#TableOfContents li a:hover{
+	text-decoration: underline;
+}
+
+#TableOfContents ul ul{
+	display: none;
+}
+
+@media only screen and (min-width: 576px) {
+
+}
+@media only screen and (min-width: 768px) {
+	#TableOfContents{
+		width: 245px;
+		float: right;
+	}
+}
+@media only screen and (min-width: 992px) {
+	#TableOfContents{
+		width: 245px;
+		float: right;
+	}
+}
+@media only screen and (min-width: 1024px) {
+
+}
