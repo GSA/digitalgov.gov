@@ -36,7 +36,7 @@ Four major contact center components:
   * **Telephone, Computer Hardware and Software** respond to incoming contacts, route them to the right resources to handle them at the right time, and collect, store, and disseminate information as necessary. These systems also provide recorded messages, perform recording and monitoring functions, and produce vital reports to enable the oversight and management of the contact center. Depending on implementation, these systems may reside inside the contact center facility (physical) or outside of the contact center facility (virtual).
   * **Customer Service and Support Staff** are needed to sustain operation of the contact center. The majority of contact center operating costs will reside in employing customer service representatives/agents, supervisors, quality monitors, site managers, trainers, technical specialists, security personnel, and human resource personnel.
 
-### 
+###
 
 ## Attributes of High-Performing Government Contact Centers {#attributes}
 
@@ -102,7 +102,7 @@ Site diversity can mitigate the effects of weather, power or telecom failures by
 
 Will your contact center be in-house, out-sourced, or a hybrid? [The A76 Competitive Sourcing Process](http://www.whitehouse.gov/omb/circulars_a076_a76_incl_tech_correction/), union obligations, and your agency’s current philosophy will all factor into whether your center is based in-house or outsourced. If your center will be outsourced, you can outline the high-level outcomes you’re looking for in your solicitation request and leave the technological details to the contractor who wins your award. If your center will be in-house, you’ll need a lot of specific in-house expertise.
 
-### <a name="performance-goals"></a>Performance Goals
+### Performance Goals
 
 What are the Key Performance Indicators (KPIs) that must be met in order to measure the success of your enterprise? KPIs such as Service Level, Abandonment Rate, Response Time, First Contact Resolution, Quality Score, and Customer Satisfaction Rating are often used as measures of how well a center performs.
 
@@ -209,7 +209,7 @@ One of the most critical components in operating a successful contact center is 
 ### Labor Costs
 
 Choose a location where high-quality labor can be attracted at a reasonable cost, as this is the single biggest expense in running a contact center. Due diligence should include a detailed labor market analysis of available data, as well as actual market conditions currently being experienced by local employers.
-  
+
 Weigh the potential adverse impacts in a given location: unfavorable labor laws, unionization, telemarketing regulations, and other labor-related issues specific to the geographic area under consideration.
 
 ### Availability of a Facility
@@ -231,7 +231,3 @@ Chose a geographic location that minimizes the effect of catastrophic weather on
 ### Safety
 
 Choose locations and structures in locations deemed appropriate for contact centers. Local jurisdictions often make crime reports for a location available. The nature and frequency of crime in a possible location, and the safety features incorporated into or absent from an existing structure, are important considerations. You don&#8217;t want employees entering an area that isn&#8217;t safe, and potential employees won&#8217;t want to work there either.
-
- 
-
- 
