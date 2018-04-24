@@ -41,6 +41,7 @@
 	color: #000;
 	border-radius: 2px;
 	max-width: 600px;
+	clear: both;
 }
 
 .entry-meta .last_commit p{

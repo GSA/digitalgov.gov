@@ -17,6 +17,16 @@
 	line-height: 22px;
 	color: #1f1c19;
 }
+#TableOfContents li.more a{
+	color: #4a70d9;
+	font-weight: bold;
+}
+#TableOfContents li.ex{
+	display: none;
+}
+#TableOfContents li.show{
+	display: block;
+}
 #TableOfContents li:first-child{
 	border-top: none;
 }

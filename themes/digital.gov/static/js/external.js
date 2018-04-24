@@ -81,43 +81,6 @@ function getFormattedDate(d) {
 $('#TableOfContents > ul:first').contents().unwrap();
 $('#TableOfContents > li:first').contents().unwrap();
 
-
-function format_toc(hash){
-	$('#TableOfContents ul').each(function(i, items_list) {
-		$(items_list).find('li > a').each(function(j, li){
-			$(li).removeClass('active');
-			var t = $(li).html();
-			var a = $(li).attr('href').substring(1);
-			if (a == hash) {
-			 var c = 'active';
-		 } else {
-			 var c = '';
-		 }
-			$(li).attr('title', t).attr('name', a).attr('class', c);
-    });
-		var num = $(items_list).find('li').size();
-		if (mobile_check() == true && num > 5) {
-		 	console.log('mobile yes');
-		} else {
-			console.log('mobile no');
-		}
-	});
-}
-
-// Looks out for a click on the in-page nav
-jQuery("#TableOfContents li a").click(function() {
-	var hash = $(this).attr('id');
-	format_toc(hash);
-})
-
-// checks if there is a #hash in the URL on load. If so, it passes that along.
-if(window.location.hash) {
-	var hash = window.location.hash.substring(1); //Puts hash in variable, and removes the # character
-} else {
-	var hash = '';
-}
-format_toc(hash);
-
 function mobile_check(){
 	var isMobile = false; //initiate as false
 	// device detection
@@ -128,8 +91,53 @@ function mobile_check(){
 	return isMobile;
 }
 
+function format_toc(hash){
+	$('#TableOfContents ul').each(function(i, items_list) {
+		$(items_list).find('li:first-child > a').each(function(j, li){
+			$(li).removeClass('active');
+			var t = $(li).html();
+			var a = $(li).attr('href').substring(1);
+			if (a == hash) {
+				var c = 'active';
+			} else {
+				var c = '';
+			}
+			$(li).attr('title', t).attr('name', a).attr('class', c);
+    });
+	});
+	var num = $('nav#TableOfContents ul:first-child > li').size();
+	var rem = num - 5;
+	if (mobile_check() == true) {
+		console.log('mobile yes');
+		$('nav#TableOfContents ul:first-child > li').slice(-rem).addClass("ex");
+		$('<li class="more"><a href="#" title="">+ '+rem+' more »</a></li>').appendTo($('#TableOfContents ul:first-child'));
+	} else {
+		console.log('mobile no');
+	}
+}
 
 
+// Looks out for a click on the in-page nav
+$("#TableOfContents li a").click(function() {
+	var hash = $(this).attr('id');
+	format_toc(hash);
+});
+
+// checks if there is a #hash in the URL on load. If so, it passes that along.
+if(window.location.hash) {
+	var hash = window.location.hash.substring(1); //Puts hash in variable, and removes the # character
+} else {
+	var hash = '';
+}
+format_toc(hash);
+var txt = $("#TableOfContents .more a").text();
+$("#TableOfContents .more a").toggle(function() {
+    $(this).text("close");
+		$("nav#TableOfContents ul:first-child > li.ex").addClass('show');
+}, function() {
+    $(this).text(txt);
+		$("nav#TableOfContents ul:first-child > li.ex").removeClass('show');
+});
 
 });
 
