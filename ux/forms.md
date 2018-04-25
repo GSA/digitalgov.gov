@@ -14,8 +14,15 @@ personas:
 - Use a straw or make a narrow window with your fist and view the page through that, scanning vertically but not horizontally. This can help you discover if content is hidden from users using screen magnifiers.
 - Minimize the number of responses overall and that are displayed on a single page, but provide context clues throughout for people who might easily lose their place.
 
-### Resources
+#### Resources
 [GDS’s guidance on form structure](https://www.gov.uk/service-manual/design/form-structure)
+
+#### References
+- [Guideline 1.1.1 – Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#text-equiv-all)
+- [Guideline 1.3.1 – Info and Relationships \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
+- [Guideline 3.2.1 – On Focus \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#consistent-behavior-receive-focus)
+- [Guideline 3.3.2 – Labels or Instructions \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#minimize-error-cues)
+- [Guideline 4.1.2 – Name, Role, Value \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/images/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

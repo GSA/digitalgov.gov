@@ -15,9 +15,16 @@ personas:
 - **Do not use placeholder text in form fields.** Placeholder text causes usability issues because it disappears when content is entered into the form field. Hints and instructions should be persistent and placed outside of the field.
 - **Provide highly visible and specific error states.** Use multiple cues like color, icons, bold font weight, heavy border or outline, and helpful text to make sure users don’t overlook this critical information.
 
-#### References
+#### Resources
 - [GOV.UK elements: Form elements](http://govuk-elements.herokuapp.com/form-elements)
 - [Nielsen Norman Group: Website Forms Usability: Top 10 Recommendations](https://www.nngroup.com/articles/web-form-design/)
+
+#### References
+- [Guideline 1.1.1 – Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#text-equiv-all)
+- [Guideline 1.3.1 – Info and Relationships \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
+- [Guideline 3.2.1 – On Focus \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#consistent-behavior-receive-focus)
+- [Guideline 3.3.2 – Labels or Instructions \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#minimize-error-cues)
+- [Guideline 4.1.2 – Name, Role, Value \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/mobile/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

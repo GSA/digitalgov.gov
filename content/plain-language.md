@@ -20,7 +20,11 @@ Include in-line definitions for scientific, legal, or technical terms that you m
 [plainlanguage.gov](https://plainlanguage.gov/guidelines/)
 
 #### References
-[Guideline 3.1.5 – Reading Level \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
+- [Guideline 3.1 – Readable \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning)
+- [Guideline 3.1.3 – Unusual Words \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
+- [Guideline 3.1.4 – Abbreviations \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning-located)
+- [Guideline 3.1.5 – Reading Level \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
+
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/reference-materials/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

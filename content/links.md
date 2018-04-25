@@ -14,9 +14,6 @@ personas:
 
 #### References
 - [Guideline 1.1.1 – Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
-- [Guideline 1.4 – Distinguishable \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14&currentsidebar=%23col_overview&tags=links#visual-audio-contrast-without-color)
-- [Guideline 2.1 – Keyboard Accessible \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14&currentsidebar=%23col_overview&tags=links#keyboard-operation-keyboard-operable)
-- [Guideline 2.4 – Navigable \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14&currentsidebar=%23col_overview&tags=links#navigation-mechanisms-focus-order)
 - [Guideline 2.4.4 – Link Purpose (In Context) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/information-architecture/">

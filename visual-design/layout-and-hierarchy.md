@@ -20,6 +20,10 @@ personas:
 - [Google Material Accessibility](https://material.io/guidelines/usability/accessibility.html)
 - [WebAIM: Web Accessibility for Designers](http://webaim.org/resources/designers/)
 
+#### References
+- [Guideline 1.3.2 – Meaningful Sequence \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-sequence)
+- [Guideline 2.4.6 – Headings and Labels \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
+
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/typography/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
 </a>

@@ -12,6 +12,9 @@ personas:
 - If you find that you need to define a large number of terms within your content, consider adding a separate glossary page.
 - Use hyperlinks or a tooltip rather than footnotes to direct users to definitions. Footnotes can create a jarring reading experience, and they may not render correctly on mobile devices.
 
+#### References
+[Guideline 3.1.3 – Unusual Words \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
+
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/graphic-elements/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
 </a>
