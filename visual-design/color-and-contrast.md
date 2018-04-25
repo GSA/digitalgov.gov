@@ -28,6 +28,9 @@ personas:
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (contrast)
 </a>
 
+#### References
+- [Guideline 1.4.3 – Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
+
 ## Can you still understand everything the design is communicating without depending on color?
 
 **Why it’s important**: Joel is red-green colorblind and can’t reliably make sense of information conveyed with color alone.
@@ -35,6 +38,9 @@ personas:
 ### Steps to take
 - Don’t use color alone to convey meaning. Use icons, written content, and other visual elements to reinforce clear communication of the content.
 - Test what it’s like to view your designs through a [color blindness simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/).
+
+#### References
+- [Guideline 1.4.1 – Use of Color](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-without-color)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/layout-and-hierarchy/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

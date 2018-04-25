@@ -17,6 +17,7 @@ personas:
 
 #### References
 - [Guideline 1.1 – Text Alternatives](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
+- [Guideline 1.1.1 – Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/color-and-contrast/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

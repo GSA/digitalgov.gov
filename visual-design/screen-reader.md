@@ -43,3 +43,6 @@ personas:
 <a href="https://youtu.be/cOmehxAU_4s?t=3m25s">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (screen reader)
 </a>
+
+#### References
+- [Guideline 1.3.1 – Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)

@@ -20,6 +20,9 @@ personas:
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check
 </a>
 
+#### References
+- [Guideline 2.1 – Keyboard Accessible](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#keyboard-operation)
+
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/screen-reader/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
 </a>

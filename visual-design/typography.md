@@ -25,9 +25,8 @@ personas:
 - **Use your type size and line width to determine a line height that people can comfortably read.** The larger the type size and line width, the larger the line height should be. For running/body text, that’s usually around 1.4-1.65, headings at around 1-1.3, and captions or short lines at around 1.3. Lines that are leaded too tightly or loosely can diminish readability by making it harder for the eye to know where to return to when the line breaks.
 
 #### Resources
-[Inclusive Design Patterns by Heydon Pickering](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
-<br>
-[Better Web Type by Matej Latin](https://betterwebtype.com/)
+- [Inclusive Design Patterns by Heydon Pickering](https://shop.smashingmagazine.com/products/inclusive-design-patterns)
+- [Better Web Type by Matej Latin](https://betterwebtype.com/)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/graphics-and-images/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

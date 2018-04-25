@@ -23,6 +23,9 @@ personas:
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (page structure)
 </a>
 
+#### References
+- [Guideline 2.4.6 – Headings and Labels](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
+
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/page-structure/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
 </a>
