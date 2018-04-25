@@ -22,8 +22,8 @@ personas:
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (contrast)
 </a>
 
-#### References
-[1.4.3 Contrast (Minimum) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
+#### WCAG 2.0 references
+[1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/automated-testing/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

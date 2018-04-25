@@ -21,9 +21,9 @@ permalink: /ux/inclusive-design/
 - [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/en-us/design/inclusive)
 - [Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
 
-#### References
-- [1.3 Adaptable (Guideline) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
-- [1.3.3 Sensory Characteristics \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-understanding)
+#### WCAG 2.0 references
+- [1.3 Adaptable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
+- [1.3.3 Sensory Characteristics](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-understanding)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/assistive-technology/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

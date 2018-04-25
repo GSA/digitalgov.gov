@@ -20,12 +20,12 @@ personas:
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check
 </a>
 
-#### References
-- [2.1 Keyboard Accessible (Guideline) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#keyboard-operation)
-- [2.1.1 Keyboard \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)
-- [2.1.2 No Keyboard Trap \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-trapping)
+#### WCAG 2.0 references
+- [2.1 Keyboard Accessible (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#keyboard-operation)
+- [2.1.1 Keyboard](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-keyboard-operable)
+- [2.1.2 No Keyboard Trap](https://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation-trapping)
 - [2.4.3 Focus Order\| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-order)
-- [2.4.7 Focus Visible \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
+- [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms-focus-visible)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/screen-reader/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

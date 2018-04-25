@@ -17,9 +17,9 @@ personas:
 #### Resources
 [Headings and titles](https://content-guide.18f.gov/headings-and-titles/), 18F Content Guide
 
-#### References
-- [2.4.6 Headings and Labels \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
-- [3.1.5 Reading Level \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
+#### WCAG 2.0 references
+- [2.4.6 Headings and Labels](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#navigation-mechanisms-descriptive)
+- [3.1.5 Reading Level](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/images/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

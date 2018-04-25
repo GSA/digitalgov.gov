@@ -19,12 +19,12 @@ personas:
 - [GOV.UK elements: Form elements](http://govuk-elements.herokuapp.com/form-elements)
 - [Nielsen Norman Group: Website Forms Usability: Top 10 Recommendations](https://www.nngroup.com/articles/web-form-design/)
 
-#### References
-- [1.1.1 Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#text-equiv-all)
-- [1.3.1 Info and Relationships \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
-- [3.2.1 On Focus \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#consistent-behavior-receive-focus)
-- [3.3.2 Labels or Instructions \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#minimize-error-cues)
-- [4.1.2 Name, Role, Value \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv)
+#### WCAG 2.0 references
+- [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/#text-equiv-all)
+- [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
+- [3.2.1 On Focus](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#consistent-behavior-receive-focus)
+- [3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG20/quickref/#minimize-error-cues)
+- [4.1.2 Name, Role, Value](https://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-rsv)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/mobile/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

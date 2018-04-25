@@ -12,9 +12,9 @@ personas:
 - Create link text that’s as specific as possible. For example, instead of using Click here (which may not make sense for folks using screen readers), consider instead something like Download the full report. Descriptive links provide all users more information about an action they may undertake.
 - Include information about what a link leads to; this is especially important for folks who use mobile devices. If you’re linking to a PDF, say so.
 
-#### References
-- [1.1.1 Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
-- [2.4.4 Link Purpose (In Context) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs)
+#### WCAG 2.0 references
+- [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
+- [2.4.4 Link Purpose (In Context)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/information-architecture/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

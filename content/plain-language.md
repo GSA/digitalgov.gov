@@ -19,11 +19,11 @@ Include in-line definitions for scientific, legal, or technical terms that you m
 #### Resources
 [plainlanguage.gov](https://plainlanguage.gov/guidelines/)
 
-#### References
-- [3.1 Readable (Guideline) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning)
-- [3.1.3 Unusual Words \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
-- [3.1.4 Abbreviations \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning-located)
-- [3.1.5 Reading Level \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
+#### WCAG 2.0 references
+- [3.1 Readable (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/#meaning)
+- [3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG20/quickref/#meaning-idioms)
+- [3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG20/quickref/#meaning-located)
+- [3.1.5 Reading Level](https://www.w3.org/WAI/WCAG20/quickref/#meaning-supplements)
 
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/reference-materials/">

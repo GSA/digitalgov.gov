@@ -14,10 +14,10 @@ personas:
 - Images that have meaning should include alt text and possibly a longer description, work with the content designer on your team to create these.
 - Making sure any text in images of text is at least 14 points and has good contrast.
 
-#### References
-- [1.1 Text Alternatives (Guideline) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
-- [1.1.1 Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
-- [1.4.5 Images of Text \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
+#### WCAG 2.0 references
+- [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
+- [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
+- [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/touch-targets/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

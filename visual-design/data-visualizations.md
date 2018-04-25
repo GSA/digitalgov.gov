@@ -14,11 +14,11 @@ personas:
 - Make sure there’s sufficient contrast between graph colors so people with color blindness can distinguish the colors.
 - Consider complementing the graph with a table of information so that it can be read more easily by screen reader users and when compressed to mobile.
 
-#### References
-- [1.1 Text Alternatives (Guideline) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
-- [1.1.1 Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
-- [1.3.1 Info and Relationships \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
-- [1.4.1 Use of Color \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-without-color)
+#### WCAG 2.0 references
+- [1.1 Text Alternatives (Guideline)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
+- [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
+- [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
+- [1.4.1 Use of Color](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-without-color)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/forms/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
