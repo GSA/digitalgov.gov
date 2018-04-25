@@ -15,8 +15,8 @@ personas:
 - Making sure any text in images of text is at least 14 points and has good contrast.
 
 #### References
-- [Guideline 1.1 – Text Alternatives](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
-- [Guideline 1.1.1 – Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
+- [Guideline 1.1 – Text Alternatives \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
+- [Guideline 1.1.1 – Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/touch-targets/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

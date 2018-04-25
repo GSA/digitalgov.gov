@@ -16,8 +16,8 @@ personas:
 - Consider presenting dense technical language in a format other than as part of a graphic. When compressed to mobile view (in other words, a harder-to-read format), graphs and charts with technical language can be tough to interpret.
 
 #### References
-- [Guideline 1.1 – Text Alternatives](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
-- [Guideline 1.1.1 – Non-text Content](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
+- [Guideline 1.1 – Text Alternatives \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=11%2C111#text-equiv)
+- [Guideline 1.1.1 – Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/scannable-content/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

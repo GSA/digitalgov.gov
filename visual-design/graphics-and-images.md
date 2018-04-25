@@ -14,9 +14,9 @@ personas:
 - To use text over images, add a solid background behind the text or a dark overlay to the image.
 
 #### References
-- [Guideline 1.1 – Text Alternatives](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
-- [Guideline 1.2 – Time-based Media](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#media-equiv)
-- [Guideline 1.1 – Distinguishable](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#visual-audio-contrast)
+- [Guideline 1.1 – Text Alternatives \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
+- [Guideline 1.2 – Time-based Media \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#media-equiv)
+- [Guideline 1.4 – Distinguishable \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#visual-audio-contrast)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/data-visualizations/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

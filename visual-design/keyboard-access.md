@@ -20,7 +20,7 @@ Make sure that no content gets focused offscreen or is hidden from view.
 </a>
 
 #### References
-[Guideline 2.1 – Keyboard Accessible](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#keyboard-operation)
+[Guideline 2.1 – Keyboard Accessible \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#keyboard-operation)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/screen-reader/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

@@ -40,7 +40,7 @@ personas:
 - Test what it’s like to view your designs through a [color blindness simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/).
 
 #### References
-[Guideline 1.4.1 – Use of Color](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-without-color)
+[Guideline 1.4.1 – Use of Color \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-without-color)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/layout-and-hierarchy/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

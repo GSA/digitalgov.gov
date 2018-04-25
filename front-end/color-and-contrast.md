@@ -23,7 +23,7 @@ personas:
 </a>
 
 #### References
-[Guideline 1.4.3 – Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
+[Guideline 1.4.3 – Contrast (Minimum) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/front-end/automated-testing/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
