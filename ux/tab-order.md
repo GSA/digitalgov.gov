@@ -12,7 +12,7 @@ personas:
 - Each interactive element should have a visible focus state, work with your visual designer to make sure you’ve accounted for these.
 
 #### References
-- [Guideline 2.4.3 – Focus Order](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-focus-order)
+[Guideline 2.4.3 – Focus Order](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-focus-order)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/focus/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
