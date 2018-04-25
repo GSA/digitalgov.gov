@@ -13,8 +13,8 @@ personas:
 - Include information about what a link leads to; this is especially important for folks who use mobile devices. If you’re linking to a PDF, say so.
 
 #### References
-- [Guideline 1.1.1 – Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
-- [Guideline 2.4.4 – Link Purpose (In Context) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs)
+- [1.1.1 Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
+- [2.4.4 Link Purpose (In Context) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/content-design/information-architecture/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

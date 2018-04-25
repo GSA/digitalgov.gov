@@ -12,6 +12,9 @@ permalink: /product/diverse-users/
 - Consider testing your product with people in their own context, such as people who use alternative reading devices, have color blindness impairments, or motor impairments.
 - Set a regular cadence for testing accessibility scenarios.
 
+#### Resources
+[Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
+
 <a class="usa-button button-next" href="{{ site.baseurl }}/product/project-workflow/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
 </a>

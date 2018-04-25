@@ -18,11 +18,12 @@ permalink: /ux/inclusive-design/
 - When conducting user research, make sure the diversity of your participants reflects the diverse abilities, circumstances, and backgrounds of your actual users.
 
 #### Resources
-[Microsoft’s Inclusive Design Manual](https://www.microsoft.com/en-us/design/inclusive)
+- [Microsoft’s Inclusive Design Manual](https://www.microsoft.com/en-us/design/inclusive)
+- [Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
 
 #### References
-- [Guideline 1.3 – Adaptable \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
-- [Guideline 1.3.3 – Sensory Characteristics \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-understanding)
+- [1.3 Adaptable (Guideline) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
+- [1.3.3 Sensory Characteristics \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-understanding)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/assistive-technology/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

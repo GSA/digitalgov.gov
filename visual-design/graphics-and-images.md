@@ -14,9 +14,9 @@ personas:
 - To use text over images, add a solid background behind the text or a dark overlay to the image.
 
 #### References
-- [Guideline 1.1 – Text Alternatives \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
-- [Guideline 1.1.1 – Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
-- [Guideline 1.4.5 – Images of Text \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
+- [1.1 Text Alternatives (Guideline) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview&tags=images%2Cimages-of-text%2Ctext-alternatives#text-equiv)
+- [1.1.1 Non-text Content \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all)
+- [1.4.5 Images of Text \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/data-visualizations/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

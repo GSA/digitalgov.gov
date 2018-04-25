@@ -29,7 +29,7 @@ personas:
 - [Better Web Type by Matej Latin](https://betterwebtype.com/)
 
 #### References
-[Guideline 1.4.8 – Visual Presentation \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast-visual-presentation)
+[1.4.8 Visual Presentation \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast-visual-presentation)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/visual-design/graphics-and-images/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>

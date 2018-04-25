@@ -12,8 +12,8 @@ permalink: /ux/assistive-technology/
 - Observe people using assistive technology (AT) on your product or others. In some cases you may be able to find videos demonstrating how people use different strategies to interact with digital products.
 
 #### References
-- [Guideline 1.3 – Adaptable \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
-- [Guideline 1.3.1 – Info and Relationships \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
+- [1.3 Adaptable (Guideline) \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation)
+- [1.3.1 Info and Relationships \| WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#content-structure-separation-programmatic)
 
 <a class="usa-button button-next" href="{{ site.baseurl }}/ux/humanize-accessibility/">
   Next <i class="fa fa-chevron-right" aria-hidden="true"></i>
