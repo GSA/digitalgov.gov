@@ -1,0 +1,70 @@
+#TableOfContents{
+	margin-top: 20px;
+	border-radius: 2px;
+}
+
+#TableOfContents ul{
+	margin: 0;
+	padding: 0;
+}
+
+#TableOfContents li{
+	margin-bottom: 0;
+	list-style-type: none;
+	border-top: 1px #6d91ed solid;
+	line-height: 22px;
+	color: #1f1c19;
+	font-size: 16px;
+}
+#TableOfContents li.more a{
+	color: #4a70d9;
+	font-weight: bold;
+}
+#TableOfContents li.ex{
+	display: none;
+}
+#TableOfContents li.show{
+	display: block;
+}
+#TableOfContents li:first-child{
+	border-top: none;
+}
+#TableOfContents li a{
+	margin:4px;
+	padding: 8px 0;
+	display: block;
+	color: #1f1c19;
+}
+#TableOfContents li .active{
+	font-weight: bold;
+}
+#TableOfContents li a:hover{
+	text-decoration: underline;
+}
+
+/* Hides all navigation that is below an H2 */
+#TableOfContents ul ul{
+	display: none;
+}
+
+@media only screen and (min-width: 576px) {
+
+}
+@media only screen and (min-width: 768px) {
+	#TableOfContents{
+		width: 225px;
+		float: right;
+	}
+	#TableOfContents li{
+		font-size: 14px;
+	}
+	#TableOfContents li a{
+		padding: 4px 0;
+	}
+}
+@media only screen and (min-width: 992px) {
+
+}
+@media only screen and (min-width: 1024px) {
+
+}
