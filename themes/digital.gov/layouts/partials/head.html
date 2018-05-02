@@ -76,6 +76,9 @@
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
 
+  <!-- Bing Validation -->
+  <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
+
   {{ if $.Params.canonical }}
   {{ "<!-- Canonical URL =============== -->" | safeHTML }}
   <link rel="canonical" href="{{ $.Params.canonical }}" />
