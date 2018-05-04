@@ -33,7 +33,10 @@ We do our best to keep the list current based on information we get from agencie
   * [U.S. Bureau of Economic Analysis (BEA)](http://www.bea.gov/) (IntranetConnections)
   * [U.S. Census Bureau](https://www.census.gov/) (Adobe Experience Manager (AEM))
 
-[Commodity Futures Trading Commission](http://www.cftc.gov/index.htm) (Stellent)
+[Commodity Futures Trading Commission](http://www.cftc.gov/) (Drupal 8)
+
+ * [SmartCheck.gov](https://www.smartcheck.gov) (Drupal 8)
+ * [Whistleblower.gov](https://www.whistleblower.gov) (Drupal 8)
 
 [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) (WordPress/PHP)
 
