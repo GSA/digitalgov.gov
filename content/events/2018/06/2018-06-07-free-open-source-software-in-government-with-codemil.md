@@ -20,7 +20,8 @@ youtube_id: 12345
 
 Join the Code.mil team for a discussion on open source in government and a look at the important work they've been doing on Code.mil to enable greater adoption of open source at the DoD.
 
-**They will cover:**
+They will cover:
+
 - What is open source and why is it so important?
 - How can open source code reduce risk, cost and time to delivery?
 - A look at common myths of open source in government
