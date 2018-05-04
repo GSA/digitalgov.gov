@@ -12,8 +12,8 @@ date: 2018-06-05 11:00:00 -0500
 end_date: 2018-06-05 12:00:00 -0500
 event_organizer: DigitalGov University
 host: Code.mil
-registration_url: 12345
-youtube_id: 12345
+registration_url: https://www.eventbrite.com/e/free-open-source-software-in-government-with-codemil-registration-45814864493
+youtube_id: 4ulaWNBDPgk
 
 ---
 
