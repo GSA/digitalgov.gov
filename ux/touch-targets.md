@@ -15,3 +15,6 @@ personas:
 #### Resources
 - [3.2 Touch Target Size and Spacing \| Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/#touch-target-size-and-spacing)
 - [3.5 Placing buttons where they are easy to access \| Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/#h-placing-buttons-where-they-are-easy-to-access)
+
+#### References
+- [2.5.5 Touch Target](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html)
