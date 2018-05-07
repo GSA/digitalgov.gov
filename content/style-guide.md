@@ -65,11 +65,11 @@ Do not use H3 or below to attempt to make the text appear bold; just apply bold 
 #### Numbers
 
 - Write out all nine numbers under 10, except for percentages 
-- Use the word percent; not the percent sign)
+- Use the word percent; not the percent sign (use twenty-three percent, not 23%)
 
 #### Symbols 
 
-Unless the symbol is part of a name or branding, use the word (e.g., use the word and instead of an ampersand & or plus sign +).
+Unless the symbol is part of a name or branding, use the word (e.g., use the word _and_ instead of an ampersand & or a plus sign +).
 
 #### Dates
 
@@ -110,7 +110,7 @@ OMG, LOL, BIA, GSA, FBI, OPM, SEO, CMS, HTML, CSS
 
 **Acronym (an initialism that is used as a word) examples**: 
 
-scuba, laser, radar, WYSIWYG, WCAG, NASA, OPEC, NARA, DARPA, INTERPOL, NATO, FEMA, SWAT
+scuba (scuba self contained breathing apparatus), laser (light amplification by stimulated emission of radiation), radar (RAdio Detection And Ranging or RAdio Direction And Ranging), WYSIWYG, WCAG, NASA, OPEC, NARA, DARPA, INTERPOL, NATO, FEMA, SWAT
 
 **_Note_**: Avoid redundancies, such as, “ATM machine” (automated teller machine machine) and “PIN number” (personal identification number number).
 
