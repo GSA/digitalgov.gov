@@ -1,7 +1,7 @@
 ---
 slug: free-open-source-software-in-government-with-codemil
 title: 'Free &amp; Open Source Software in Government with Code&#46;mil'
-summary: 'Join the [Code.mil](Code.mil) team for a discussion on open source in government and a look at the important work they've been doing on Code.mil to enable greater adoption of open source at the DoD.'
+summary: 'Join the Code&#46;mil team for a discussion on open source in government and a look at the important work they have been doing on Code&#46;mil to enable greater adoption of open source at the DoD.'
 featured_image:
   uid:
   alt: ''
