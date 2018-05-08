@@ -42,7 +42,7 @@ The U.S. Department of Defense (DoD) faces unique challenges in open sourcing it
 - **Ari Chivukula:** Policy wrangler working with the US Digital Service team at Department of Defense in cloud security, cyber warfare, and open source.
 - **Jordan Kasper:** Evangelist, developer, community organizer, open sourcer (and he's been called worse). Currently improving tech at the US Digital Service.
 
-#### Related resources
+### Related resources
 - [Getting Started with Code.mil](https://www.code.mil/getting-started.html)
 - [How to Open Source](https://www.code.mil/how-to-open-source.html)
 - [Code.mil](https://Code.mil) - the GSA team behind the cross-agency OSS tracking established by OMB M-16-21 (section 5)
