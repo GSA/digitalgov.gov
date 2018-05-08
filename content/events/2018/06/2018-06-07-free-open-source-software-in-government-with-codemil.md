@@ -18,7 +18,7 @@ youtube_id: 4ulaWNBDPgk
 ---
 
 
-Join the [Code.mil](Code.mil) team for a discussion on open source in government and a look at the important work they've been doing on Code.mil to enable greater adoption of open source at the DoD.
+Join the [Code.mil](https://Code.mil) team for a discussion on open source in government and a look at the important work they've been doing on Code.mil to enable greater adoption of open source at the DoD.
 
 They will cover:
 
@@ -27,14 +27,14 @@ They will cover:
 - A look at common myths of open source in government
 - What is the goal of Code.mil? How does it tie into the larger view of open source software in government?
 
-The [Code.mil](Code.mil) team will give an overview of the **recent refresh of Code.mil** where it’s possible to contribute code and see it go live almost immediately! This refresh empowers the DoD to accelerate open source participation across government and improve open source guidance.
+The [Code.mil](https://Code.mil) team will give an overview of the **recent refresh of Code.mil** where it’s possible to contribute code and see it go live almost immediately! This refresh empowers the DoD to accelerate open source participation across government and improve open source guidance.
 
 
 ### About Code.mil
 
 {{< img-right src="dds-logo" >}}
 
-The U.S. Department of Defense (DoD) faces unique challenges in open sourcing its code. Unlike most software projects, code written by U.S. Federal government employees typically does not have copyright protections under U.S. and some international laws. This can make it difficult to attach an open source license to our code. [The Defense Digital Service (DDS)](https://www.dds.mil/) has been working with DoD and the open source community since early 2017 to develop a guideline for supporting open source software (OSS) within the Department. This guidance and the effort to catalog these open source efforts is what we call [Code.mil](Code.mil).
+The U.S. Department of Defense (DoD) faces unique challenges in open sourcing its code. Unlike most software projects, code written by U.S. Federal government employees typically does not have copyright protections under U.S. and some international laws. This can make it difficult to attach an open source license to our code. [The Defense Digital Service (DDS)](https://www.dds.mil/) has been working with DoD and the open source community since early 2017 to develop a guideline for supporting open source software (OSS) within the Department. This guidance and the effort to catalog these open source efforts is what we call [Code.mil](https://Code.mil).
 
 
 ### Speakers
@@ -45,5 +45,5 @@ The U.S. Department of Defense (DoD) faces unique challenges in open sourcing it
 #### Related resources
 - [Getting Started with Code.mil](https://www.code.mil/getting-started.html)
 - [How to Open Source](https://www.code.mil/how-to-open-source.html)
-- [Code.gov](Code.gov) - the GSA team behind the cross-agency OSS tracking established by OMB M-16-21 (section 5)
-- [Discover how you can get involved with Code.gov](Discover how you can get involved)
+- [Code.mil](https://Code.mil) - the GSA team behind the cross-agency OSS tracking established by OMB M-16-21 (section 5)
+- [Discover how you can get involved with Code.gov](https://code.gov/#/help-wanted)
