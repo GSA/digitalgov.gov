@@ -1,7 +1,7 @@
 ---
 slug: free-open-source-software-in-government-with-codemil
 title: 'Free &amp; Open Source Software in Government with Code&#46;mil'
-summary: ''
+summary: 'Join the [Code.mil](Code.mil) team for a discussion on open source in government and a look at the important work they've been doing on Code.mil to enable greater adoption of open source at the DoD.'
 featured_image: 
   uid: 
   alt: ''
@@ -32,9 +32,16 @@ The [Code.mil](Code.mil) team will give an overview of the **recent refresh of C
 
 ### About Code.mil
 
-In February 2017 the Defense Digital Service (DDS) started a conversation with the Free and Open Source Software (F/OSS) community on how the DoD could better open source code. That dialogue produced a lot of guidance on how the DoD can open source projects, but the information was all on GitHub and not very accessible.
+The U.S. Department of Defense (DoD) faces unique challenges in open sourcing its code. Unlike most software projects, code written by U.S. Federal government employees typically does not have copyright protections under U.S. and some international laws. This can make it difficult to attach an open source license to our code. [The Defense Digital Service (DDS)](https://www.dds.mil/) has been working with DoD and the open source community since early 2017 to develop a guideline for supporting open source software (OSS) within the Department. This guidance and the effort to catalog these open source efforts is what we call [Code.mil](Code.mil).
 
 
 ### Speakers
+
 - **Ari Chivukula:** Policy wrangler working with the US Digital Service team at Department of Defense in cloud security, cyber warfare, and open source.
 - **Jordan Kasper:** Evangelist, developer, community organizer, open sourcer (and he's been called worse). Currently improving tech at the US Digital Service.
+
+#### Related resources
+- [Getting Started with Code.mil](https://www.code.mil/getting-started.html)
+- [How to Open Source](https://www.code.mil/how-to-open-source.html)
+- [Code.gov](Code.gov) - the GSA team behind the cross-agency OSS tracking established by OMB M-16-21 (section 5)
+- [Discover how you can get involved with Code.gov](Discover how you can get involved)
