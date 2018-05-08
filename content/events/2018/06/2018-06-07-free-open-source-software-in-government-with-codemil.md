@@ -18,7 +18,7 @@ youtube_id: 4ulaWNBDPgk
 ---
 
 
-Join the Code.mil team for a discussion on open source in government and a look at the important work they've been doing on Code.mil to enable greater adoption of open source at the DoD.
+Join the [Code.mil](Code.mil) team for a discussion on open source in government and a look at the important work they've been doing on Code.mil to enable greater adoption of open source at the DoD.
 
 They will cover:
 
@@ -27,7 +27,7 @@ They will cover:
 - A look at common myths of open source in government
 - What is the goal of Code.mil? How does it tie into the larger view of open source software in government?
 
-The Code.mil team will give an overview of the **recent refresh of Code.mil** where it’s possible to contribute code and see it go live almost immediately! This refresh empowers the DoD to accelerate open source participation across government and improve open source guidance.
+The [Code.mil](Code.mil) team will give an overview of the **recent refresh of Code.mil** where it’s possible to contribute code and see it go live almost immediately! This refresh empowers the DoD to accelerate open source participation across government and improve open source guidance.
 
 
 ### About Code.mil
