@@ -2,10 +2,10 @@
 slug: free-open-source-software-in-government-with-codemil
 title: 'Free &amp; Open Source Software in Government with Code&#46;mil'
 summary: 'Join the [Code.mil](Code.mil) team for a discussion on open source in government and a look at the important work they've been doing on Code.mil to enable greater adoption of open source at the DoD.'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
+event_type:
   - youtube-live
   - online
 date: 2018-06-05 11:00:00 -0500
@@ -31,6 +31,8 @@ The [Code.mil](Code.mil) team will give an overview of the **recent refresh of C
 
 
 ### About Code.mil
+
+{{< img-right src="dds-logo" >}}
 
 The U.S. Department of Defense (DoD) faces unique challenges in open sourcing its code. Unlike most software projects, code written by U.S. Federal government employees typically does not have copyright protections under U.S. and some international laws. This can make it difficult to attach an open source license to our code. [The Defense Digital Service (DDS)](https://www.dds.mil/) has been working with DoD and the open source community since early 2017 to develop a guideline for supporting open source software (OSS) within the Department. This guidance and the effort to catalog these open source efforts is what we call [Code.mil](Code.mil).
 
