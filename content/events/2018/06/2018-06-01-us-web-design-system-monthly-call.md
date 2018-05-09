@@ -12,7 +12,7 @@ date: 2018-06-01 13:00:00 -0500
 end_date: 2018-06-01 13:30:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System
-registration_url: https://www.eventbrite.com/e/april-us-web-design-system-call-tickets-44852101844
+registration_url: https://www.eventbrite.com/e/june-us-web-design-system-call-tickets-45947977638
 
 ---
 
