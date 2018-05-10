@@ -12,7 +12,7 @@ host: Challenge & Prize Community of Practice
 registration_url: https://www.eventbrite.com/e/federal-challenge-prize-community-of-practice-quarterly-meeting-registration-45447663184
 venue: 
   venue_name: U.S. General Services Administration
-  room: 1151
+  room: 1153
   address: 1800 F Street NW
   city: Washington
   state: D.C.
