@@ -41,7 +41,7 @@ In this meeting, participants will:
   </tr>
   <tr>
     <td>1:00 pm</td>
-    <td>Registration and Networking</td>
+    <td><strong>Registration and Networking</strong></td>
   </tr>
   <tr>
     <td>1:15 pm</td>
@@ -61,7 +61,7 @@ In this meeting, participants will:
   </tr>
   <tr>
     <td>2:15 pm</td>
-    <td>Networking break</td>
+    <td><strong>Networking break</strong></td>
   </tr>
   <tr>
     <td>2:35 pm</td>
@@ -73,11 +73,11 @@ In this meeting, participants will:
   </tr>
   <tr>
     <td>3:10 pm</td>
-    <td>Networking</td>
+    <td><strong>Networking</strong></td>
   </tr>
 <tr>
     <td>4:00 pm</td>
-    <td>Event concludes</td>
+  <td><strong>Event concludes</strong></td>
   </tr>
 </table>
 
