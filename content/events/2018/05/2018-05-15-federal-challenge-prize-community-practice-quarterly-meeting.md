@@ -32,6 +32,56 @@ In this meeting, participants will:
 - Get a first look at plans for this year’s reporting on challenges to Congress
 - And more!
 
+## Agenda
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Topic</th>
+  </tr>
+  <tr>
+    <td>1:00 pm</td>
+    <td><strong>Registration and Networking</strong></td>
+  </tr>
+  <tr>
+    <td>1:15 pm</td>
+    <td><strong>Introductions and Program Updates</strong><ul><li>Tammy White, GSA</li></ul></td>
+  </tr>
+   <tr>
+    <td>1:30 pm</td>
+    <td><strong>Executive Update: A Water Initiative Launches at the White House</strong><ul><li>Andre DeFontaine, Department of Energy </li></ul></td>
+  </tr>
+  <tr>
+    <td>1:35 pm</td>
+    <td><strong>Meet and Greet: The Women Rocking the Implementation of Prize Authority Progress Report </strong><ul><li>Jennifer Shieh, White House Office of Science and Technology Policy</li><li>Shirley Han, Science and Technology Policy Institute</li></ul></td>
+  </tr>
+  <tr>
+    <td>1:45 pm</td>
+    <td><strong>The Art of the Hack: Federal Agencies’ Use of Hackathons</strong><ul><li>Eric Mill, GSA (Moderator)</li><li>Debbie Bucci, HHS</li><li>Andrew Hait, U.S. Census Bureau</li><li>Kate Appel, HHS</li><li>Joseph Castle, GSA</li><li>Craig Jolley, U.S. Agency for International Development (USAID)</li><li>Jim Thompson, Department of State</li></ul></td>
+  </tr>
+  <tr>
+    <td>2:15 pm</td>
+    <td><strong>Networking break</strong></td>
+  </tr>
+  <tr>
+    <td>2:35 pm</td>
+    <td><strong>Know Your Resources: Meet the Technology Modernization Fund</strong><ul><li>Elizabeth Cain, GSA</li></ul></td>
+  </tr>
+  <tr>
+    <td>2:50 pm</td>
+    <td><strong>Doing Good: Lessons from a University on Boosting Youth Engagement</strong><ul><li>Nathan Dietz, University of Maryland</li><li>Toby Egan, University of Maryland</li></ul></td>
+  </tr>
+  <tr>
+    <td>3:10 pm</td>
+    <td><strong>Networking</strong></td>
+  </tr>
+<tr>
+    <td>4:00 pm</td>
+  <td><strong>Event concludes</strong></td>
+  </tr>
+</table>
+
+
 ## Who Should Attend  
 
 Members of the Federal Challenges & Prizes Community of Practice, program managers, contracting and procurement staff, communications teams, legal staff, and other federal employees who manage or work on crowdsourcing, challenge, and incentivized prize competitions, and other open innovation practices. We also welcome our colleagues from the citizen science and ideation communities of practice to join us for the training and networking.
