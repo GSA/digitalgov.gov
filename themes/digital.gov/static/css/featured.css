@@ -29,7 +29,9 @@ section .row .col{
 }
 
 
-
+#news{
+	padding: 25px 0;
+}
 
 .hed{
 	margin-bottom: 10px;
@@ -44,6 +46,8 @@ section .row .col{
 	display: none;
 }
 
+.featured-news{
+}
 .featured-news .wrap{
 	overflow: auto;
 }
@@ -132,7 +136,7 @@ section .row .col{
 	}
 	.featured-news{
 		width: 275px;
-		float: left;
+		float: right;
 	}
 	.featured-news .wrap{
 		height: 650px;
@@ -147,7 +151,7 @@ section .row .col{
 		max-width: 960px;
 	}
 	.featured-video{
-		width: 535px;
+		width: 565px;
 	}
 	.featured-news{
 		width: 365px;

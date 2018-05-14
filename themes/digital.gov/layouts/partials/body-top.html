@@ -24,9 +24,9 @@
 
     {{ partial "nav-top-nav.html" . }}
     {{ partial "header.html" . }}
+    {{ partial "nav-topicnav.html" . }}
 
-    <div id="wrap">
-      {{ if ($.Scratch.Get "has_sidebar") }}
-        <div id="page" class="clearfix">
-          <div class="page-border clearfix">
-      {{ end }}
+    {{ if ($.Scratch.Get "has_sidebar") }}
+      <div id="page" class="clearfix">
+        <div class="page-border clearfix">
+    {{ end }}

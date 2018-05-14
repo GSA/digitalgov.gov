@@ -2,7 +2,7 @@
 	margin: 35px 0;
 	padding: 20px 0;
 }
-.home #events{
+.home #events .container{
 	border-top: 5px #000 solid;
 }
 
