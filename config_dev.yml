@@ -142,11 +142,6 @@ menu:
       Identifier      : "join"
       URL             : "/join/"
       Weight          : 7
-    - Name            : "Open Opportunites"
-      Parent          : "join"
-      Identifier      : "open-opportunities"
-      URL             : "/join/open-opportunities-in-digitalgov/"
-      Weight          : 71
 
   secondary:
     - Name            : "Challenges"

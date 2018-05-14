@@ -18,7 +18,7 @@ tag:
   - USDA
 ---
 
-{{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
+{{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}}
 
 Innovators are made, not born. This summer, the Food and Drug Administration (FDA) began cultivating the next generation of federal innovators through a summer incubator boot camp, aimHI.
 
@@ -51,4 +51,4 @@ Professional development sessions were included in aimHI in order to prepare stu
 “Part of the whole goal was to get students excited about tech, but also to get them excited about opportunities in government and get them thinking early on about academic and professional pathways,” Hernandez said. “With the people we recruited, their eyes were opened even further.”
 
 _AimHI is a collaboration with the Gaithersburg Branch of the Montgomery County Public Library, Gaithersburg High School of Montgomery County Public Schools and includes numerous FDA staff, federal volunteers and undergraduate interns. IncubatorEDU, a national non-profit focused on entrepreneurship training for high school students, consulted on the effort._
-_Want to learn more about how Open Opportunities can help you connect to people with the experience and expertise to take your project to the next level? Learn [how Open Opportunities works]({{< link "how-open-opportunities-works.md" >}})._
+_Want to learn more about how Open Opportunities can help you connect to people with the experience and expertise to take your project to the next level? Learn [how Open Opportunities works]({{< link "open-opportunities.md" >}})._
