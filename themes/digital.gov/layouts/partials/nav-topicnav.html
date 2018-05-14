@@ -1,0 +1,10 @@
+<!-- Secondary Nav loop using hugo menus-->
+<div id="topicnav">
+  <ul>
+    {{ range .Site.Menus.secondary }}
+      <li>
+        <a href="{{.URL}}" title="{{ .Name }}">{{ .Name }}</a>
+      </li>
+    {{ end }}
+  </ul>
+</div>
