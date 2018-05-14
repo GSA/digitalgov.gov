@@ -13,7 +13,7 @@ aliases:
 
 <div class="deck">Open Opportunities is a government wide program offering professional development opportunities and facilitating collaboration and knowledge sharing across the Federal Government.</div>
 
-- [Visit Open Opportunities](https://openopps.usajobs.gov/), run by USAJobs
+- [Visit Open Opportunities](https://openopps.usajobs.gov/), managed by USAJobs
 - [What is Open Opportunities?](https://usajobs.github.io/openopps-help/)
 - [How Open Opportunities works](https://usajobs.github.io/openopps-help/opportunity/)
 - [How to participate](https://usajobs.github.io/openopps-help/opportunity/participate/)
