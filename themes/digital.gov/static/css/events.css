@@ -1,15 +1,17 @@
 #events{
-	margin: 35px 0;
-	padding: 20px 0;
+	margin: 0;
 }
-.home #events .container{
-	border-top: 5px #000 solid;
+#events-page{
+	padding: 10px 0;
+	border-top: 3px #000 solid;
 }
 
 /* Events Listing Page */
 #events-listing{
 	margin-bottom: 120px;
+	padding: 20px 0;
 	color:#000 !important;
+	border-top: 3px #000 solid;
 }
 #events-listing .event a{
 	color: #fff;

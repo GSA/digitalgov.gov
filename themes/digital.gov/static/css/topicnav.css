@@ -8,16 +8,16 @@
 }
 
 #topicnav li{
-	margin-right: 3px;
-	margin-bottom: 10px;
+	margin-right: 2px;
+	margin-bottom: 8px;
 	list-style-type: none;
 	font-size: 15px;
 	display: inline-block;
 }
 
 #topicnav li a{
-	background: #DEEDF7;
-	color: #000;
-	padding: 3px 10px 5px 10px;
+	background: #2673DF;
+	color: #fff;
+	padding: 3px 12px 5px 12px;
 	border-radius: 15px;
 }
