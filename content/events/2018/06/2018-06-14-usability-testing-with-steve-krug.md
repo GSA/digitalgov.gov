@@ -2,10 +2,10 @@
 slug: usability-testing-with-steve-krug
 title: 'Usability Testing with Steve Krug'
 summary: 'Join us for a 90 minute demonstration and talk with Steve Krug, where he will share how you can get started making usability fixes, no matter what your full time job is&#46;'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
+event_type:
   - youtube-live
 date: 2018-06-14 14:00:00 -0500
 end_date: 2018-06-14 15:30:00 -0500
@@ -24,8 +24,9 @@ Steve will start his presentation with a demo of a live usability test to show t
 
 
 ### About Steve Krug
-Steve Krug is the author of _Don’t Make Me Think: A Common Sense Approach to Web Usability_ and _Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems._
+
+{{< img-right src="steve-krug" >}}
+
+Steve Krug is the author of [_Don’t Make Me Think: A Common Sense Approach to Web Usability_](https://www.sensible.com/dmmt.html) and [_Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems._](https://www.sensible.com/rsme.html)
 
 The books were based on the 20+ years he’s spent as a usability consultant for a wide variety of clients like Apple, Bloomberg.com, Lexus.com, NPR, the International Monetary Fund, and many others.
- 
-
