@@ -1,6 +1,6 @@
 ---
 slug: this-how-we-work-together-with-brad-frost
-title: 'This is How We Work Together — with Brad Frost'
+title: 'How Design Systems Help Us Work Together with Brad Frost'
 summary: 'Join Brad Frost as he talks about design systems and the role they play in creating a successful, collaborative structure for modern organizations&#46;'
 featured_image:
   uid:
@@ -12,8 +12,8 @@ date: 2018-05-31 11:00:00 -0500
 end_date: 2018-05-31 12:00:00 -0500
 event_organizer: DigitalGov
 host:
-registration_url:
-youtube_id:
+registration_url: https://www.eventbrite.com/e/this-is-how-we-work-together-with-brad-frost-registration-46125160597
+youtube_id: vtmnP2Lrf74
 
 ---
 
