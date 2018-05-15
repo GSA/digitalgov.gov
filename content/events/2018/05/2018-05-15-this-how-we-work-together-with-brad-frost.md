@@ -26,7 +26,7 @@ This talk will cover how a well crafted design system can help your organization
 - Craft principles and guidelines
 - Get more work in front of users
 
-This talk will cover the important principles and methods for collaboration that will help people in government make great work, together. It is open to anyone in government.
+This talk is open to anyone in government.
 
 [Brad Frost](http://bradfrost.com/) is a design systems architect and designer from Pittsburgh, PA He is the author of [**Atomic Design**](https://shop.bradfrost.com/), the book that introduced the methodology for thinking of our UIs as thoughtful hierarchies and how a design system can can be a guide for your whole organization.
 
