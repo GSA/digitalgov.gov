@@ -8,7 +8,7 @@ featured_image:
 event_type:
   - youtube-live
   - online
-date: 2018-05-15 11:00:00 -0500
+date: 2018-05-31 11:00:00 -0500
 end_date: 2018-05-31 12:00:00 -0500
 event_organizer: DigitalGov
 host:
