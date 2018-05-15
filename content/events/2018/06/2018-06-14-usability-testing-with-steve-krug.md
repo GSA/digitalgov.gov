@@ -23,8 +23,9 @@ Join us for a 90 minute demonstration and talk with Steve Krug, where he will sh
 Steve will start his presentation with a demo of a live usability test to show that anyone can do usability testing. Then he will share how you can find the most important problems with your website or product, and make fixes while only having  a limited number of participants testing your website.
 
 
-## About Steve Krug
-Steve Krug is the author of Don’t Make Me Think: A Common Sense Approach to Web Usability and Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems.
+### About Steve Krug
+Steve Krug is the author of _Don’t Make Me Think: A Common Sense Approach to Web Usability_ and _Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems._
+
 The books were based on the 20+ years he’s spent as a usability consultant for a wide variety of clients like Apple, Bloomberg.com, Lexus.com, NPR, the International Monetary Fund, and many others.
  
 
