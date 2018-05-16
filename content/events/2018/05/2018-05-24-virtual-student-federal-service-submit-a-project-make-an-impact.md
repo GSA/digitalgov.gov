@@ -7,6 +7,7 @@ featured_image:
   alt: ''
 event_type: 
   - youtube-live
+  - online
 date: 2018-05-24 13:00:00 -0500
 end_date: 2018-05-24 14:00:00 -0500
 event_organizer: DigitalGov University
