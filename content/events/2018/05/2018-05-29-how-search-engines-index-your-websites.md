@@ -13,7 +13,8 @@ event_organizer: DigitalGov University
 host: 
 registration_url: https://www.eventbrite.com/e/searchgov-advanced-technical-registration-45389884366
 youtube_id: THhe3Z7XSxg
-
+aliases:
+  - /event/2018/05/30/how-search-engines-index-your-websites/
 ---
 
 You’ve probably heard about SEO, search engine optimization - the techniques you can use to get better placement and presentation in search results. Join [Search.gov](https://search.gov/) as they walk you through the fundamentals of how search engines monitor your content and pull relevant data from your pages.
