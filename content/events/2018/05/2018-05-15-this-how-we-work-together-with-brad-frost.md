@@ -28,7 +28,7 @@ This talk will cover how a well crafted design system can help your organization
 
 This talk is open to anyone in government.
 
-[Brad Frost](http://bradfrost.com/) is a design systems architect and designer from Pittsburgh, PA He is the author of [**Atomic Design**](https://shop.bradfrost.com/), the book that introduced the methodology for thinking of our UIs as thoughtful hierarchies and how a design system can can be a guide for your whole organization.
+[**Brad Frost**](http://bradfrost.com/) is a design systems architect and designer from Pittsburgh, PA He is the author of [**Atomic Design**](https://shop.bradfrost.com/), the book that introduced the methodology for thinking of our UIs as thoughtful hierarchies and how a design system can can be a guide for your whole organization.
 
 ### Related
 - Get started with the :us:[U.S. Web Design System](https://designsystem.digital.gov/) (USWDS)
