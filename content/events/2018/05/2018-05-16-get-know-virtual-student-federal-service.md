@@ -1,6 +1,6 @@
 ---
-slug: virtual-student-federal-service-submit-a-project-make-an-impact
-title: 'Virtual Student Federal Service&#58; Submit a Project and Make an Impact'
+slug: get-know-virtual-student-federal-service
+title: 'Get to Know the Virtual Student Federal Service'
 summary: 'Learn how U&#46;S&#46; college students working remotely can be virtual interns for you and your federal government teams through the Virtual Student Federal Service&#46;'
 featured_image: 
   uid: 
