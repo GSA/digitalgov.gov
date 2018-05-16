@@ -30,7 +30,7 @@ In this online event, attendees will:
 - Learn how to write and submit a successful project
 - Share “how-tos” and “how-nots” of communicating remotely
 - Understand the benefits of working with eInterns
-- Find inspiration to post a project.
+- Find inspiration to post a project
   
 ### More about Virtual Student Federal Service
  
