@@ -20,7 +20,7 @@ Interested in usability testing, but don’t know how to get started? Been told 
 
 Join us for a 90 minute demonstration and talk with Steve Krug, where he will share how you can get started making usability fixes, no matter what your full time job is.
 
-Steve will start his presentation with a demo of a live usability test to show that anyone can do usability testing. Then he will share how you can find the most important problems with your website or product, and make fixes with just a small number of participants testing your website.
+Steve will start his presentation with a demo of a live usability test to show that anyone can do usability testing. Then he will share how you can find the most important problems with your website or product, and make fixes with just a small number of participants.
 
 
 ### About Steve Krug
