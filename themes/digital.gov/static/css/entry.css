@@ -102,11 +102,11 @@
 	margin-bottom: 80px;
 }
 .guide .entry-content h2{
-	margin-top: 100px;
+	margin-top: 60px;
 	margin-bottom: 35px;
 	padding-top: 15px;
 	border-top: 1px #555 solid;
-	color: #222;
+	color: #000;
 	font-size: 28px;
 }
 .guide .entry-content h2:first-child{
@@ -132,6 +132,9 @@
 	}
 	.entry-meta .last_commit a.edit_file{
 		display: none;
+	}
+	.guide .entry-head{
+		margin-bottom: 40px;
 	}
 }
 
