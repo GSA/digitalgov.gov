@@ -17,7 +17,7 @@ youtube_id: cvKMYGcabxo
 
 ---
 
-The Technology Modernization Fund &#40;TMF&#41; Program Management Office and the GSA Emerging Citizen Technology Office (ECTO) are hosting a conversation to help agencies develop proposals for technology modernization projects. The TMF includes $100 million in funding for new and innovative technology modernization projects.  
+The Technology Modernization Fund &#40;TMF&#41; Program Management Office and the [GSA Emerging Citizen Technology Office](https://emerging.digital.gov/TMF/) (ECTO) are hosting a conversation to help agencies develop proposals for emerging technology modernization projects including Artificial Intelligence and Robotic Process Automation. The TMF includes $100 million in funding for new and innovative technology modernization projects.  
 
 Liz Cain, the Executive Director for the Technology Modernization Fund, will start off with an overview of the TMF, how it operates, and the guidelines for applying, followed by Q&A with the participants. 
 
