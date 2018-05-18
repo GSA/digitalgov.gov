@@ -10,7 +10,7 @@
     <div class="entry-head">
       {{ partial "breadcrumbs" . }}
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
-      <div class="deck">{{ .Params.deck | markdownify }}</div>
+      <div class="deck">{{ .Params.deck }}</div>
     </div>
 
     {{ partial "toc.html" . }}
