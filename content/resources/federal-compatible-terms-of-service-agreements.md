@@ -3,11 +3,17 @@ url: /resources/federal-compatible-terms-of-service-agreements/
 date: 2014-01-09 2:40:58 -0400
 title: Federal-Compatible Terms of Service Agreements
 summary: 'Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools.'
+type: guide
+deck: "Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools."
 ---
 
-Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools. [These federal-compatible TOS agreements]({{< link "negotiated-terms-of-service-agreements.md" >}}) modify or remove problematic clauses in standard TOS agreements, and allow federal employees to legally use these tools.
+## Important links
+- [**Negotiated Terms of Service Agreements**]({{< link "negotiated-terms-of-service-agreements.md" >}})
+- [**Agency points of contact**]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
+- [**Step-by-step flow chart for getting started with a new digital tool**](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf)
 
-## Why It&#8217;s Important
+
+## Why TOS is Important
 
 Digital media is key to helping federal agencies engage with their customers and accomplish their mission. However, the standard Terms of Service (or Terms of Use) for most free digital products and services are incompatible with federal law, regulation, or practice.
 
@@ -27,33 +33,17 @@ If you’re a federal employee, follow these steps (or [download our easy step-b
 
   1. **Review existing policy**: Review your agency’s social media policy and guidance to be sure you understand requirements to use specific tools, branding, etc.
 
-<ol start="2">
-  <li>
-    <strong>See what’s available</strong>: Consult the list of free products and services with federal TOS agreements. Keep in mind that even though a tool may be on the list, your agency may not have approved the TOS for that tool. Each agency considers its own policies, needs, expectations and practices, and conducts a legal review, before signing agreements. Among other sources, your agency counsel may want to review the <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf">OMB Memorandum M–13–10</a> (PDF, 1.2 MB, 17 pages, April 2013) regarding implications of certain online Terms of Service agreements.
-  </li>
-</ol>
+  2.  **See what’s available**: Consult the list of free products and services with federal TOS agreements. Keep in mind that even though a tool may be on the list, your agency may not have approved the TOS for that tool. Each agency considers its own policies, needs, expectations and practices, and conducts a legal review, before signing agreements. Among other sources, your agency counsel may want to review the [OMB Memorandum M–13–10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) regarding implications of certain online Terms of Service agreements.
 
-<ol start="3">
-  <li>
-    <strong>Work with your agency POC</strong>: Before you decide to use a tool, work with your agency’s Point-of-Contact for social media tools and your general counsel for other tools and services. This person will discuss your social media requirements and explain what already exists to meet your needs, including any TOS agreements that have been signed by your agency. This is also the person who works with your agency’s attorneys to determine if any new Terms of Service agreements are needed.
-  </li>
-</ol>
+  3.  **Work with your agency POC**: Before you decide to use a tool, work with your agency’s Point-of-Contact for social media tools and your general counsel for other tools and services. This person will discuss your social media requirements and explain what already exists to meet your needs, including any TOS agreements that have been signed by your agency. This is also the person who works with your agency’s attorneys to determine if any new Terms of Service agreements are needed.
 
-<ol start="4">
-  <li>
-    <strong>If approved, create an account</strong>: If your agency POC approves and your agency has a signed TOS for that tool, you can work with your  agency POC to set up your new account.
-  </li>
-</ol>
+  4.  **If approved, create an account**: If your agency POC approves and your agency has a signed TOS for that tool, you can work with your agency POC to set up your new account.
 
-<ol start="5">
-  <li>
-    <strong>Put accounts in the Social Media Registry</strong>: GSA created a federal-wide social media registry to help agencies inventory all their social media accounts and give the public a way to validate official social media accounts.
-  </li>
-</ol>
+  5.  **Put accounts in the Social Media Registry**: GSA created a federal-wide social media registry to help agencies inventory all their social media accounts and give the public a way to validate official social media accounts.
 
 Agencies should note that because these products and services are free and don&#8217;t involve agency appropriated funds, the agreements are not considered to be government contracts nor are they procurements under the Federal Acquisition Regulation (FAR). In contrast, fee–based products fall under all federal procurement rules and regulations, and are not included in this process.
 
-## <a name="agency-pocs"></a>For Federal Agency POCs
+## For Federal Agency POCs
 
 If you’re an agency POC, the [OMB Memorandum M–13–10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) outlines the following steps that agencies should follow:
 
