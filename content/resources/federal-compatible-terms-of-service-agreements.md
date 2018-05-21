@@ -2,9 +2,9 @@
 url: /resources/federal-compatible-terms-of-service-agreements/
 date: 2014-01-09 2:40:58 -0400
 title: Federal-Compatible Terms of Service Agreements
-summary: 'Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools.'
 type: guide
-deck: "Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools."
+summary: 'Agreements negotiated between the federal government and vendors who offer digital tools and services.'
+deck: "A guide to the agreements negotiated between the federal government and vendors who offer digital tools and services."
 ---
 
 ## Important links
