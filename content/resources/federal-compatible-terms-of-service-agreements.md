@@ -3,14 +3,10 @@ url: /resources/federal-compatible-terms-of-service-agreements/
 date: 2014-01-09 2:40:58 -0400
 title: Federal-Compatible Terms of Service Agreements
 type: guide
+pagenav: termsofservice
 summary: 'Agreements negotiated between the federal government and vendors who offer digital tools and services.'
 deck: "A guide to the agreements negotiated between the federal government and vendors who offer digital tools and services."
 ---
-
-## Important links
-- [**Negotiated Terms of Service Agreements**]({{< link "negotiated-terms-of-service-agreements.md" >}})
-- [**Agency points of contact**]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
-- [**Step-by-step flow chart for getting started with a new digital tool**](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf)
 
 
 ## Why TOS is Important
