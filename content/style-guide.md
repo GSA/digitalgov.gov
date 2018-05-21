@@ -167,7 +167,7 @@ i.e. (_id est_) is Latin for “in other words, ...”
 
 ## DigitalGov Branding 
 
-While the website URL is digitalgov.gov, always use medial capitals (camel case) to refer to our name; DigitalGov. 
+While the website URL (domain) is now digital.gov (formerly: digitalgov.gov), please always use medial capitals ([camel case](https://en.wikipedia.org/wiki/Camel_case)) when referring to our _name_; DigitalGov. 
 
 ### Branded names and initialisms or acronyms for related services and programs: 
 
