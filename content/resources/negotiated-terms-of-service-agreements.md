@@ -3,7 +3,10 @@ url: /resources/negotiated-terms-of-service-agreements/
 date: 2014-01-13 10:50:02 -0400
 uid: negotiated-terms-of-service-agreements
 title: 'Negotiated Terms of Service Agreements'
-summary: 'The list of free tools that have federal-compatible Terms of Service agreements'
+type: guide
+pagenav: termsofservice
+summary: 'The list of free tools that have federal-compatible terms of service agreements.'
+deck: 'The list of free tools that have federal-compatible terms of service agreements.'
 aliases:
   - /resources/chatwing-federal-terms-of-service/
   - /resources/classmarker-federal-terms-of-service/
@@ -289,7 +292,7 @@ Before you decide to use one of the free digital tools below, seek the advice of
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Flickr Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/flickr-tos-amendment.pdf" >}}">Flickr TOS (PDF)</a>
+        <a title="Flickr Terms of Service (TOS) Amendment" href="{{< tos-file "flickr-05-21-2018.pdf" >}}">Flickr TOS (PDF)</a>
       </td>
     </tr>
 
