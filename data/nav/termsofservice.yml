@@ -1,0 +1,13 @@
+pagenav:
+- title   : 'Overview'
+  summary : 'Summary goes here...'
+  slug    : 'abc123'
+- title   : 'All Agreements'
+  summary : 'Summary goes here...'
+  slug    : 'abc123'
+- title   : 'Getting started'
+  summary : 'Summary goes here...'
+  slug    : 'another-abc123'
+- title   : 'Agency points of contact'
+  summary : 'Summary goes here...'
+  slug    : 'another-abc123'
