@@ -31,7 +31,7 @@ See talks below:
   <tr>
     <th>Topic/Speaker</th>
   </tr>
-    <td><strong>[Executive Update: A Water Initiative Launches at the White House](https://www.youtube.com/watch?v=fY5jhPVVPwM&feature=youtu.be#t=4m55s) </strong><ul><li>Andre DeFontaine, Department of Energy </li></ul></td>
+  <td><strong><a href="https://www.youtube.com/watch?v=fY5jhPVVPwM&feature=youtu.be#t=4m55s">Executive Update: A Water Initiative Launches at the White House</a></strong><ul><li>Andre DeFontaine, Department of Energy </li></ul></td>
   </tr>
   <tr>
     <td><strong>[Meet and Greet: The Women Rocking the Implementation of Prize Authority Progress Report](https://youtu.be/fY5jhPVVPwM#t=20m15s) </strong><ul><li>Jennifer Shieh, White House Office of Science and Technology Policy</li><li>Shirley Han, Science and Technology Policy Institute</li></ul></td>
