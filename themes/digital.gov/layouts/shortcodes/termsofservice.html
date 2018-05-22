@@ -1,0 +1,12 @@
+<table>
+  <tr>
+    <th>Service</th>
+    <th>Agreement</th>
+  </tr>
+  {{ range .Site.Data.termsofservice.tos }}
+  <tr>
+    <td>aa<a href="{{ .url }}" title="{{ .name }}"><strong>{{ .name }}</strong> — </a>{{ .description }}</td>
+    <td><a href="{{ .uri }}" title="{{ .name }}">{{ .type }}</a></td>
+  </tr>
+  {{ end }}
+</table>
