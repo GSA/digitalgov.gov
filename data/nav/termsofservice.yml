@@ -1,10 +1,10 @@
 pagenav:
 - title   : 'Overview'
   summary : 'Summary goes here...'
-  slug    : 'abc123'
+  slug    : '/resources/federal-compatible-terms-of-service-agreements/'
 - title   : 'All Agreements'
   summary : 'Summary goes here...'
-  slug    : 'abc123'
+  slug    : '/resources/negotiated-terms-of-service-agreements/'
 - title   : 'Getting started'
   summary : 'Summary goes here...'
   slug    : 'another-abc123'
