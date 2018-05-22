@@ -1,0 +1,25 @@
+<table class="tos-list">
+  <tr>
+    <th>Service</th>
+    <th>Agreement</th>
+  </tr>
+  {{ range where .Site.Data.termsofservice.termsofservice "status" "==" "closed" }}
+  <tr>
+    <td><a href="{{ .url }}" title="{{ .name }}"><img class="favicon" src="https://www.google.com/s2/favicons?domain={{ .url }}" alt="{{ .name }}"> <strong>{{ .name }}</strong> — </a>{{ .description }}</td>
+    {{ if eq .type "pdf" }}
+      {{ $.Scratch.Set "iconfile" "img/icon-pdf.png" }}
+    {{ else if eq .type "wdoc" }}
+      {{ $.Scratch.Set "iconfile" "img/icon-word.png" }}
+    {{ else if eq .type "gdoc" }}
+      {{ $.Scratch.Set "iconfile" "img/icon-gdoc.png" }}
+    {{ else if eq .type "web" }}
+      {{ $.Scratch.Set "iconfile" "web" }}
+    {{ else if .type "==" "" }}
+      {{ $.Scratch.Set "iconfile" "web" }}
+    {{ end }}
+    {{ $iconsrc := printf ($.Scratch.Get "iconfile") }}
+
+    <td class="tos"><a href="{{ .uri }}" title="{{ .name }}">TOS <img class="icon-file icon icon-{{ .type }}" src="{{ $iconsrc | absURL }}" alt="{{ .type }}"> </a></td>
+  </tr>
+  {{ end }}
+</table>
