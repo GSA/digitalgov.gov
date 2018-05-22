@@ -1,4 +1,4 @@
-tos:
+termsofservice:
   - name          : Amazon Appstore
     url           : https://developer.amazon.com/public/
     description   : Mobile app store
@@ -43,7 +43,7 @@ tos:
 
   - name          : 'CartoDB'
     url           : http://www.cartodb.com/
-    description   : Maps for the web – made easy
+    description   : 'Maps for the web – made easy'
     uri           : https://drive.google.com/file/d/0B3OBExqwT6KJRG8taVZHZUNEQUE/view
     type          : Google Doc
     updated       : 2014-07
@@ -78,7 +78,7 @@ tos:
 
   - name          : Dialogue App
     url           : http://www.dialogue-app.com/info/
-    description   : Crowdsourcing & ideation
+    description   : 'Crowdsourcing & ideation'
     uri           : '/2014/07/delib-dialog-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
@@ -113,7 +113,7 @@ tos:
 
   - name          : Flickr
     url           : http://www.flickr.com/
-    description   : Photo sharing, now owned by SmugMug
+    description   : 'Photo sharing, now owned by SmugMug'
     uri           : https://s3.amazonaws.com/digitalgov/_terms-of-service/flickr-05-21-2018.pdf
     type          : pdf
     updated       : 2018-05
@@ -127,7 +127,7 @@ tos:
 
   - name          : Foursquare
     url           : http://foursquare.com/
-    description   : Location-based software and services
+    description   : 'Location-based software and services'
     uri           : '/2014/07/foursquare-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
@@ -153,14 +153,14 @@ tos:
     type          : pdf
     updated       : 2014-07
 
-  - name          : Google Feedburner
-    url           : http://feedburner.google.com/
-    description   : RSS feed management software
+  - name          : 'Google Feedburner'
+    url           : 'http://feedburner.google.com/'
+    description   : 'RSS feed management software'
     uri           : '/2014/07/google-feedburner-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
 
-  - name          : Google+
+  - name          : 'Google+'
     url           : https://plus.google.com/
     description   : Social network with mulilingual capabilities
     uri           : '/2014/07/google-plus-tos-amendment.pdf'
@@ -198,7 +198,7 @@ tos:
   - name          : Hulu
     url           : http://www.hulu.com/
     description   : Video streaming
-    uri           : /2014/01/hulu-tos-amendment.pdf
+    uri           : '/2014/01/hulu-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
 
@@ -212,21 +212,21 @@ tos:
   - name          : IdeaScale
     url           : http://www.ideascale.com/
     description   : 'Voting & feedback'
-    uri           : http://support.ideascale.com/customer/portal/articles/1134791-amendment-to-terms-of-service-applicable-to-governmental-users-members
+    uri           : 'http://support.ideascale.com/customer/portal/articles/1134791-amendment-to-terms-of-service-applicable-to-governmental-users-members'
     type          : web
     updated       :
 
   - name          : IFTTT
     url           : http://www.ifttt.com/
-    description   : 'A tookkit for using/creating “recipes” for powerful data integrations'
-    uri           : https://ifttt.com/terms_for_government_agencies
+    description   : 'A tookkit for using/creating recipes for powerful data integrations'
+    uri           : 'https://ifttt.com/terms_for_government_agencies'
     type          : web
     updated       :
 
   - name          : Instagram
     url           : http://instagram.com
     description   : 'Photo & video sharing service'
-    uri           : https://help.instagram.com/317709155098612
+    uri           : 'https://help.instagram.com/317709155098612'
     type          : web
     updated       :
 
@@ -237,52 +237,52 @@ tos:
     type          : pdf
     updated       : 2014-07
 
-  - name          : 'Let\'s Encrypt'
+  - name          : "Let's Encrypt"
     url           : https://www.letsencrypt.org
     description   : HTTPS Certificate Authority
-    uri           : https://letsencrypt.org/documents/LE-USG-SA-Amendment-Sept-22-2015.pdf
+    uri           : 'https://letsencrypt.org/documents/LE-USG-SA-Amendment-Sept-22-2015.pdf'
     type          : pdf
     updated       :
 
   - name          : LinkedIn
     url           : http://www.linkedin.com
     description   : Professional networking
-    uri           : /2015/09/Amendment-to-LinkedIn-User-Agreement_Federal.pdf
+    uri           : '/2015/09/Amendment-to-LinkedIn-User-Agreement_Federal.pdf'
     type          : pdf
     updated       : 2015-09
 
   - name          : MapBox
     url           : http://mapbox.com/
-    description   : online maps service
-    uri           : https://www.mapbox.com/usg-tos
+    description   : Online maps service
+    uri           : 'https://www.mapbox.com/usg-tos'
     type          : web
     updated       :
 
   - name          : Medium
     url           : http://www.medium.com/
     description   : 'Publishing platform'
-    uri           : https://medium.com/@Medium/amendment-to-medium-terms-of-service-applicable-to-u-s-government-users-fccb00db67d7
+    uri           : 'https://medium.com/@Medium/amendment-to-medium-terms-of-service-applicable-to-u-s-government-users-fccb00db67d7'
     type          : web
     updated       :
 
   - name          : Mendeley
     url           : http://www.mendeley.com/
     description   : Social networking platform
-    uri           : http://www.mendeley.com/terms-governmental-amendment/
+    uri           : 'http://www.mendeley.com/terms-governmental-amendment/'
     type          : web
     updated       :
 
   - name          : MixedInk
     url           : http://www.mixedink.com/
     description   : Collaborative writing
-    uri           : /2014/01/mixedink-tos-amendment.pdf
+    uri           : '/2014/01/mixedink-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
 
   - name          : 'My.ComMetrics'
     url           : http://my.commetrics.com/
     description   : 'Tracking & benchmarking of blogs'
-    uri           : http://info.cytrap.eu/terms-privacy/terms-and-conditions
+    uri           : 'http://info.cytrap.eu/terms-privacy/terms-and-conditions'
     type          : web
     updated       :
 
@@ -296,7 +296,7 @@ tos:
   - name          : Need to Meet
     url           : http://www.needtomeet.com
     description   : Scheduling app
-    uri           : http://www.needtomeet.com/terms
+    uri           : 'http://www.needtomeet.com/terms'
     type          : web
     updated       :
 
@@ -393,7 +393,7 @@ tos:
 
   - name          : Snapchat
     url           : https://www.snapchat.com/
-    description   : Social, messaging App
+    description   : 'Social, messaging App'
     uri           : https://www.snap.com/en-US/terms/us-amendment/
     type          : web
     updated       :
@@ -547,7 +547,7 @@ tos:
 
   - name          : Yelp
     url           : http://www.yelp.com/
-    description   : Crowd-sourced local reviews and social networking
+    description   : 'Crowd-sourced local reviews and social networking'
     uri           : '/2015/08/Yelp-Terms-Amendment-for-use-by-Govt-FINAL-07-30-2015.doc'
     type          : word doc
     updated       : 2015-08

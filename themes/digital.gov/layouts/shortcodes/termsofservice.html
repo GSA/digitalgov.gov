@@ -3,9 +3,9 @@
     <th>Service</th>
     <th>Agreement</th>
   </tr>
-  {{ range .Site.Data.termsofservice.tos }}
+  {{ range .Site.Data.termsofservice.termsofservice }}
   <tr>
-    <td>aa<a href="{{ .url }}" title="{{ .name }}"><strong>{{ .name }}</strong> — </a>{{ .description }}</td>
+    <td><a href="{{ .url }}" title="{{ .name }}"><strong>{{ .name }}</strong> — </a>{{ .description }}</td>
     <td><a href="{{ .uri }}" title="{{ .name }}">{{ .type }}</a></td>
   </tr>
   {{ end }}
