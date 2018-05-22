@@ -674,7 +674,7 @@ termsofservice:
     url           : https://bitly.com/
     description   : 'Bookmark, organize & share'
     uri           :
-    type          :
+    type          : web
     updated       :
     status        : declined
 
@@ -682,7 +682,7 @@ termsofservice:
     url           : http://www.cooliris.com/
     description   : 'Video & picture browsing. The company terminated the agreement on 01/01/15 with notice.'
     uri           :
-    type          :
+    type          : web
     updated       : 2015-01
     status        : declined
 
