@@ -37,6 +37,9 @@ Add styles inside the media query below that you only want to be applied to the 
 	padding: 10px;
 }
 
+#wrap .tos-list{
+	width: 100%;
+}
 
 #wrap .tos-list .favicon{
 	display: inline;
