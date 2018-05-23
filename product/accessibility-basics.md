@@ -8,7 +8,7 @@ permalink: /product/accessibility-basics/
 
 ### Steps to take
 - Familiarize yourself with the high-level accessibility roles for each member of your team:
-  - [Front end / dev]({{ site.baseurl }}/front-end/getting-started/): Ensure front-end code is written accessibly and conducts manual and automated testing.
+  - [Front end / development]({{ site.baseurl }}/front-end/getting-started/): Ensure front-end code is written accessibly and conducts manual and automated testing.
   - [Content design]({{ site.baseurl }}/content-design/getting-started/): Ensure content is written in plain language and headings, images, and links are accurately labeled.
   - [Visual design]({{ site.baseurl }}/visual-design/getting-started/): Ensure that designs are accessible, pages are laid out in a logical order, and content meets color contrast requirements.
   - [UX design](/): Ensure that overall experience is built and designed in an accessible fashion, conduct usability testing with people who need accessibility features.
