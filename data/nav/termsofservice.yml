@@ -1,4 +1,4 @@
-pagenav:
+guidenav:
 - title   : 'Overview'
   summary : 'Summary goes here...'
   slug    : '/resources/federal-compatible-terms-of-service-agreements/'

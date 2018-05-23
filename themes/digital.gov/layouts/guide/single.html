@@ -11,19 +11,21 @@
       {{ partial "breadcrumbs" . }}
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
       <div class="deck">{{ .Params.deck }}</div>
-      {{ if .Params.pagenav }}
-        {{ $cur := .Params.pagenav }}
-        <ul class="pagenav">
-        {{ range (index .Site.Data.nav .Params.pagenav).pagenav }}
+    </div>
+
+    <div class="guide-nav">
+      {{ if .Params.guidenav }}
+        {{ $cur := .Params.guidenav }}
+        <ul>
+        {{ range (index .Site.Data.nav .Params.guidenav).guidenav }}
           <li><a href="{{ .slug }}" title="{{ .title }}">{{ .title }}</a></li>
         {{ end }}
         </ul>
       {{ end }}
+      <h6>In this page</h6>
+      {{ partial "toc.html" . }}
     </div>
 
-
-
-    {{ partial "toc.html" . }}
 
     <div class="entry-content">
       {{ .Content }}
