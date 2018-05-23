@@ -92,7 +92,7 @@ function mobile_check(){
 }
 
 function format_toc(hash){
-	$('#TableOfContents ul').each(function(i, items_list) {
+	$('.guide-nav #TableOfContents ul').each(function(i, items_list) {
 		$(items_list).find('li:first-child > a').each(function(j, li){
 			$(li).removeClass('active');
 			var t = $(li).html();
@@ -106,7 +106,7 @@ function format_toc(hash){
     });
 	});
 	var num = $('nav#TableOfContents ul:first-child > li').size();
-	var rem = num - 5;
+	var rem = num - 4;
 	if (mobile_check() == true) {
 		console.log('mobile yes');
 		$('nav#TableOfContents ul:first-child > li').slice(-rem).addClass("ex");
