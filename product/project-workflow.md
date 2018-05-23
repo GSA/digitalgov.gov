@@ -9,6 +9,7 @@ permalink: /product/project-workflow/
 ### Steps to take
 - Encourage the team to account for accessibility when creating and estimating stories.
 - Add accessibility as an acceptance criteria or definition of done for each story or new feature.
+- Add accessibility testing into each development sprint or QA check.
 - Work with your front end developers to choose an [automated testing plan]({{ site.baseurl }}/front-end/automated-testing/).
   - Including automated accessibility testing throughout the development process can help quickly catch [many accessibility errors](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/), but can’t guarantee that your site is accessible. Always combine automated testing with ongoing manual testing.
 - When a new accessibility issue arises that you may have missed, prioritize those issues appropriately against other development concerns:
