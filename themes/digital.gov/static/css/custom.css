@@ -47,6 +47,10 @@ Add styles inside the media query below that you only want to be applied to the 
   top: 2px;
   margin-right: 5px;
 }
+#wrap .tos-list .tos{
+	/* width: 30%; */
+	/* font-size: 14px; */
+}
 #wrap .tos-list .tos .icon{
 	display: inline;
 	width:20px;

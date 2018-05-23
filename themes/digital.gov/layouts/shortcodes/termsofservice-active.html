@@ -18,7 +18,7 @@
     {{ $iconsrc := $.Scratch.Get "iconfile" }}
     {{ $fileicon := printf "<img class='icon-file icon' src='$iconsrc' alt='(.uri)'>" }}
 
-    <td class="tos"><a href="{{ .uri }}" title="{{ .name }}">TOS <img class="icon-file icon icon-{{ .type }}" src="{{ $iconsrc | absURL }}" alt="{{ .type }}"> </a></td>
+    <td class="tos"><a href="{{ .uri }}" title="{{ .name }}">view <img class="icon-file icon icon-{{ .type }}" src="{{ $iconsrc | absURL }}" alt="{{ .type }}"> </a></td>
   </tr>
   {{ end }}
 </table>
