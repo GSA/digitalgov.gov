@@ -35,7 +35,8 @@ aliases:
   - /resources/vine-federal-terms-of-service/
 ---
 
-Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service (TOS) Point of Contact (POC)]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency. See [complete implementation guidance]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") on the main Terms of Service page.
+
+**:warning:** Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service (TOS) Point of Contact (POC)]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency. See [complete implementation guidance]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") on the main Terms of Service page.
 
 ## Active Tools
 
