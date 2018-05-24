@@ -1,10 +1,7 @@
 guidenav:
-- title   : 'Overview of TOS in Government'
-  summary : 'Summary goes here...'
+- title   : 'Overview of Terms of Service'
   slug    : '/resources/federal-compatible-terms-of-service-agreements/'
 - title   : 'All Agreements'
-  summary : 'Summary goes here...'
   slug    : '/resources/negotiated-terms-of-service-agreements/'
 - title   : 'Agency points of contact'
-  summary : 'Summary goes here...'
   slug    : '/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/'
