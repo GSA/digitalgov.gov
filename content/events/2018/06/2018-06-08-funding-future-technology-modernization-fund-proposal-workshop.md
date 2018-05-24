@@ -50,9 +50,9 @@ Participants should expect to come with basic ideas for programs they would like
 - Agenda setting and expectations 
 - Technology Modernization Fund discussion 
     - Elizabeth Cain and Emma Perron, TMF PMO 
-- Breakout sessions to develop proposals 
+- Breakout sessions to develop proposals and partnership expo
 - Questions and Answers 
-- Breakout sessions to develop proposals 
+- Breakout sessions to develop proposals and partnership expo
 - Next steps 
 
 ### Who Should Attend
