@@ -1,10 +1,10 @@
 ---
 slug: this-how-we-work-together-with-brad-frost
-title: 'How Design Systems Help Us Work Together with Brad Frost'
+title: 'How Design Systems Help Us Work Together — with Brad Frost'
 summary: 'Join Brad Frost as he talks about design systems and the role they play in creating a successful, collaborative structure for modern organizations&#46;'
 featured_image:
-  uid:
-  alt: ''
+  uid: brad-frost
+  alt: 'Brad Frost'
 event_type:
   - youtube-live
   - online
@@ -20,6 +20,7 @@ youtube_id: vtmnP2Lrf74
 Join Brad Frost as he talks about design systems and the role they play in creating a successful, collaborative structure for modern organizations.
 
 This talk will cover how a well crafted design system can help your organization
+
 - Focus your mission
 - Be more productive
 - Collaborate across multiple teams
@@ -28,7 +29,7 @@ This talk will cover how a well crafted design system can help your organization
 
 This talk is open to anyone in government.
 
-[**Brad Frost**](http://bradfrost.com/) is a design systems architect and designer from Pittsburgh, PA He is the author of [**Atomic Design**](https://shop.bradfrost.com/), the book that introduced the methodology for thinking of our UIs as thoughtful hierarchies and how a design system can can be a guide for your whole organization.
+{{< img-right src="brad-frost" caption="Brad Frost" alt="Brad Frost, design systems architect" >}} [**Brad Frost**](http://bradfrost.com/) is a design systems architect and designer from Pittsburgh, PA. He is the author of [**Atomic Design**](https://shop.bradfrost.com/), the book that introduced the methodology for thinking of our UIs as thoughtful hierarchies and how a design system can be a guide for your whole organization.
 
 ### Related
 - Get started with the :us:[U.S. Web Design System](https://designsystem.digital.gov/) (USWDS)
