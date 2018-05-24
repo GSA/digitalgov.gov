@@ -153,3 +153,27 @@
 		width:auto;
 	}
 }
+
+
+.entry .favicon{
+	display: inline !important;
+	position: relative;
+  top: 2px;
+  margin-right: 5px;
+}
+.entry .icon{
+	display: inline !important;
+	width:20px;
+	position: relative;
+  top: 4px;
+}
+
+.entry .icon-web{
+	display: none !important;
+}
+
+.entry-content table{
+}
+.entry-content table tr{
+	background: none;
+}

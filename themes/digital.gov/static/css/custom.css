@@ -36,27 +36,3 @@ Add styles inside the media query below that you only want to be applied to the 
 #search-form .usagov-search-autocomplete{
 	padding: 10px;
 }
-
-#wrap .tos-list{
-	width: 100%;
-}
-
-#wrap .tos-list .favicon{
-	display: inline;
-	position: relative;
-  top: 2px;
-  margin-right: 5px;
-}
-#wrap .tos-list .tos{
-	/* width: 30%; */
-	/* font-size: 14px; */
-}
-#wrap .tos-list .tos .icon{
-	display: inline;
-	width:20px;
-	position: relative;
-  top: 4px;
-}
-#wrap .tos-list .tos .icon-web{
-	display: none;
-}
