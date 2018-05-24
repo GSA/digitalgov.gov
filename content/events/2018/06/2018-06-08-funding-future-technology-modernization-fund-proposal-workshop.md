@@ -44,7 +44,7 @@ The Board will consider project proposals based on financial, technical, and ope
 
 Participants should expect to come with basic ideas for programs they would like to potentially submit to the Technology Modernization Fund process, have all their questions answered, and spend two sessions working side-by-side with the TMF PMO, ECTO and others to craft proposals that deliver the greatest benefit to our modernization efforts while meeting the technical standards of the fund process. 
 
-Here is an agenda: 
+### Agenda: 
 
 - Welcome and introduction 
     - Justin Herman, ECTO and Elizabeth Cain, TMF PMO 
