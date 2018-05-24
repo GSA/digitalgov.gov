@@ -25,10 +25,9 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 
 ---
+[GSA’s Emerging Citizen Technology Office](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology) (ECTO) and the [Technology Modernization Fund Program Management Office](https://emerging.digital.gov/TMF/) (TMF PMO) are hosting a workshop at GSA on June 8, 2018 to hands-on assist agencies with developing proposals for TMF that advance emerging technologies and programs that can improve our services and reduce costs for the American people today and in the coming years.
 
 Emerging technology solutions including Artificial Intelligence, Robotic Process Automation and Blockchain employed by agencies across government, combined with the operational rigor and funding of the Technology Modernization Fund (TMF), hold the potential to drive to incredible performance enhancements in public services.
-
-[GSA’s Emerging Citizen Technology Office](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology) (ECTO) and the [Technology Modernization Fund Program Management Office](https://emerging.digital.gov/TMF/) (TMF PMO) are hosting a workshop at GSA on June 8, 2018 to hands-on assist agencies with developing proposals for TMF that advance emerging technologies and programs that can improve our services and reduce costs for the American people today and in the coming years.
 
 For more information, please email [EmergingTech@GSA.gov](EmergingTech@GSA.gov) with “#TMF” in the subject line. 
 
@@ -44,7 +43,7 @@ The Board will consider project proposals based on financial, technical, and ope
 
 Participants should expect to come with basic ideas for programs they would like to potentially submit to the Technology Modernization Fund process, have all their questions answered, and spend two sessions working side-by-side with the TMF PMO, ECTO and others to craft proposals that deliver the greatest benefit to our modernization efforts while meeting the technical standards of the fund process. 
 
-### Agenda: 
+### Agenda
 
 - Welcome and introduction 
     - Justin Herman, ECTO and Elizabeth Cain, TMF PMO 
@@ -72,7 +71,7 @@ Remote participation is possible for teams assembling outside of the Washington,
 - [OMB’s Modernizing Government Technology Landing Page](https://policy.cio.gov/modernizing-government-technology/)
 - [Funding Guidelines](https://policy.cio.gov/modernizing-government-technology/funding/)
 - [Frequently Asked Questions about the TMF](https://policy.cio.gov/modernizing-government-technology/faq)
-- [About GSA ECTO](url)
+- [About GSA ECTO](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology)
 
 ### Registration Requirements
 
