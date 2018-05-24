@@ -21,7 +21,7 @@ VSFS is the largest digital internship in the world that connects U.S. college s
 
 Join Bridget Roddy and Nora Dempsey from the U.S. Department of State to learn how U.S. college students working remotely can be virtual interns for you and your teams through the Virtual Student Federal Service (VSFS). VSFS is a free, shared service and projects can be submitted from May 1 to June 10 on [vsfs.state.gov](https://vsfs.state.gov/). 
  
-VSFS is the largest digital internship in the world that connects U.S. college students to the work of the federal government. Need inspiration? Check out the [2017-18 cycle’s 540+ projects](http://vsfs.state.gov/projects). VSFS eInterns work ten hours a week from September through May and project mentors interview and select from the applicant pool.
+Need inspiration? Check out the [2017-18 cycle’s 540+ projects](http://vsfs.state.gov/projects). VSFS eInterns work ten hours a week from September through May and project mentors interview and select from the applicant pool.
  
 ### What You’ll Learn
  
