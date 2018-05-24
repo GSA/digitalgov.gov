@@ -18,7 +18,8 @@
       {{ if .Params.guidenav }}
         {{ $cur := .Params.guidenav }}
         <ul>
-        {{ range (index .Site.Data.nav .Params.guidenav).guidenav }}
+        <!-- looking for a data-file in /data/guidenav/ -->
+        {{ range (index .Site.Data.guidenav .Params.guidenav).guidenav }}
           <li><a href="{{ .slug | relURL }}" title="{{ .title }}">{{ .title }}</a></li>
         {{ end }}
         </ul>
