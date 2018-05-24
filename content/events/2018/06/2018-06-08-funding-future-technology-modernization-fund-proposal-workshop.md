@@ -44,7 +44,17 @@ The Board will consider project proposals based on financial, technical, and ope
 
 Participants should expect to come with basic ideas for programs they would like to potentially submit to the Technology Modernization Fund process, have all their questions answered, and spend two sessions working side-by-side with the TMF PMO, ECTO and others to craft proposals that deliver the greatest benefit to our modernization efforts while meeting the technical standards of the fund process. 
 
-### Agenda
+Here is an agenda: 
+
+- Welcome and introduction 
+    - Justin Herman, ECTO and Elizabeth Cain, TMF PMO 
+- Agenda setting and expectations 
+- Technology Modernization Fund discussion 
+    - Elizabeth Cain and Emma Perron, TMF PMO 
+- Breakout sessions to develop proposals 
+- Questions and Answers 
+- Breakout sessions to develop proposals 
+- Next steps 
 
 ### Who Should Attend
 
@@ -58,11 +68,11 @@ Remote participation is possible for teams assembling outside of the Washington,
 
 ### Relevant Resources
 
-[Technology Modernization Fund resources on Emerging.Digital.gov](https://emerging.digital.gov/TMF/)
-[OMB’s Modernizing Government Technology Landing Page](https://policy.cio.gov/modernizing-government-technology/)
-[Funding Guidelines](https://policy.cio.gov/modernizing-government-technology/funding/)
-[Frequently Asked Questions about the TMF](https://policy.cio.gov/modernizing-government-technology/faq)
-[About GSA ECTO](url)
+- [Technology Modernization Fund resources on Emerging.Digital.gov](https://emerging.digital.gov/TMF/)
+- [OMB’s Modernizing Government Technology Landing Page](https://policy.cio.gov/modernizing-government-technology/)
+- [Funding Guidelines](https://policy.cio.gov/modernizing-government-technology/funding/)
+- [Frequently Asked Questions about the TMF](https://policy.cio.gov/modernizing-government-technology/faq)
+- [About GSA ECTO](url)
 
 ### Registration Requirements
 
