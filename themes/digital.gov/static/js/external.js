@@ -123,6 +123,12 @@ $("#TableOfContents li a").click(function() {
 	format_toc(hash);
 });
 
+if ($(".toc #TableOfContents").length > 0) {
+	$(".toc").show();
+} else{
+	$(".toc").hide();
+}
+
 // checks if there is a #hash in the URL on load. If so, it passes that along.
 if(window.location.hash) {
 	var hash = window.location.hash.substring(1); //Puts hash in variable, and removes the # character
