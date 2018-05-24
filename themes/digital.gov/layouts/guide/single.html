@@ -19,7 +19,7 @@
         {{ $cur := .Params.guidenav }}
         <ul>
         {{ range (index .Site.Data.nav .Params.guidenav).guidenav }}
-          <li><a href="{{ .slug | absURL }}" title="{{ .title }}">{{ .title }}</a></li>
+          <li><a href="{{ .slug | relURL }}" title="{{ .title }}">{{ .title }}</a></li>
         {{ end }}
         </ul>
       {{ end }}
