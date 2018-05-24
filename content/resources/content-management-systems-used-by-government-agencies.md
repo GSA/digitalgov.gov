@@ -26,7 +26,7 @@ We do our best to keep the list current based on information we get from agencie
 
 [Commerce](http://www.commerce.gov/) (Drupal)
 
-  * [National Institute of Standards & Technology](http://www.nist.gov/index.html) (CommonSpot)
+  * [National Institute of Standards & Technology](http://www.nist.gov/) (Drupal)
   * [National Oceanic & Atmospheric Administration](http://www.noaa.gov/) (DotNetNuke/SharePoint)
   * [National Telecommunications & Information Administration](http://www.ntia.doc.gov/) (Drupal/Proofpoint)
   * [Patent & Trademark Office](http://www.uspto.gov/) (Drupal)
