@@ -10,7 +10,7 @@ personas:
 
 ### Steps to take
 - Use a [color contrast](http://webaim.org/resources/contrastchecker/) tool and test that the contrast between the text and background is greater than or equal to 4.5:1.
-- Use an [automated tool]({{ site.baseurl }}/automated-testing/) to quickly scan for color contrast problems.
+- Use an [automated tool](http://webaim.org/resources/contrastchecker/) to quickly scan for color contrast problems.
 - Don’t use color alone to convey meaning. Use icons, text, and other visual elements to reinforce the meaning of the content.
 
 #### Resources
