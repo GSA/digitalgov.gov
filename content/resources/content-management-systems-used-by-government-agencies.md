@@ -160,7 +160,7 @@ We do our best to keep the list current based on information we get from agencie
 
 [Office of Personnel Management](http://www.opm.gov/) (Umbraco)
 
-[Open World Leadership Center](https://www.openworld.gov/) (Umbraco)
+[Open World Leadership Center](https://www.openworld.gov/) (Drupal 7)
 
 [Peace Corps](http://www.peacecorps.gov/) (Wagtail for external, Sharepoint for intranet)
 
