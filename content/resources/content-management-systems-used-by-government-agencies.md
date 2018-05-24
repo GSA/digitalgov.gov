@@ -15,12 +15,18 @@ We do our best to keep the list current based on information we get from agencie
 
 **Agency or website (Tool, product or service)**
 
-[Agriculture](http://www.usda.gov/wps/portal/usda/usdahome) (Drupal)
+[Agriculture](https://www.usda.gov/) (Drupal 8)
 
   * [Animal Health Inspection Service](https://www.aphis.usda.gov/aphis/home/) (IBM WebSphere WCM)
   * [Economic Research Service](http://www.ers.usda.gov/) (Umbraco)
   * [Farm Service Agency](http://www.fsa.usda.gov/FSA/webapp?area=home&subject=landing&topic=landing) (Oracle UCM)
+  * [Farmers.gov](https://www.farmers.gov/) (Drupal 8)
+  * [Food and Nutrition Service](https://www.fns.usda.gov/) (Drupal 7, moving to Drupal 8 in 2018)
+    * [WIC Works Resource System](https://wicworks.fns.usda.gov/) (Drupal 8)
   * [Forest Service](http://www.fs.fed.us/) (Front end: IBM Websphere Portal; back end: Stellent [now Oracle UCM]. Transitioning to Drupal using a Forest Service curated Drupal distribution)
+  * [Office of the Chief Information Officer](https://www.ocio.usda.gov/) (Drupal 7)
+  * [Office of the Assistant Secretary for Civil Rights](https://www.ascr.usda.gov/) (Drupal 7)
+
 
 [Central Intelligence Agency](https://www.cia.gov/) (Plone)
 
@@ -153,6 +159,8 @@ We do our best to keep the list current based on information we get from agencie
   * [Office of Inspector General](http://www.nsf.gov/oig/) (None)
 
 [Office of Personnel Management](http://www.opm.gov/) (Umbraco)
+
+[Open World Leadership Center](https://www.openworld.gov/) (Umbraco)
 
 [Peace Corps](http://www.peacecorps.gov/) (Wagtail for external, Sharepoint for intranet)
 
