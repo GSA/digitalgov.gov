@@ -14,7 +14,7 @@ personas:
 - As you’re writing, consider the tech literacy level of your target audience. Define technical terms that may be unfamiliar, and use a product or service’s full name before using its acronym or abbreviation. You may also consider [adding a glossary](https://github.com/18F/glossary) if your content contains many potentially unfamiliar terms.
 Include in-line definitions for scientific, legal, or technical terms that you must use.
 - Avoid using idiomatic language.
-- Test the readability of your content using [Hemingway App](Hemingway App), [Readable.io](https://readable.io/), or a similar tool.
+- Test the readability of your content using [Hemingway App](http://www.hemingwayapp.com/), [Readable.io](https://readable.io/), or a similar tool.
 
 #### Resources
 [plainlanguage.gov](https://plainlanguage.gov/guidelines/)
