@@ -274,7 +274,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Flickr Terms of Service (TOS) Amendment" href="https://s3.amazonaws.com/digitalgov/_legacy-img/2018/flickr-amendment-5-23-18.pdf">Flickr TOS (PDF) (updated: 05-23-18)</a>
+        <a title="Flickr Terms of Service (TOS) Amendment" href="https://s3.amazonaws.com/digitalgov/_legacy-img/2018/flickr-amendment-5-23-18.pdf">Flickr TOS (PDF)</a> (updated 5/23/2018)
       </td>
     </tr>
 
@@ -736,7 +736,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Qualtrics Terms of Service" href="https://www.qualtrics.com/terms-of-service/">Qualtrics TOS</a> (online; link to U.S. federal gov&#8217;t agency amendment at bottom of page)
+        <a title="Qualtrics Terms of Service" href="https://www.qualtrics.com/terms-of-service/">Qualtrics TOS</a> (online, revised 8/21/2017; link to U.S. federal gov&#8217;t agency amendment at bottom of page)
       </td>
     </tr>
 
