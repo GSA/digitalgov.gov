@@ -289,7 +289,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Flickr Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/07/flickr-tos-amendment.pdf" >}}">Flickr TOS (PDF)</a>
+        <a title="Flickr Terms of Service (TOS) Amendment" href="https://s3.amazonaws.com/digitalgov/_legacy-img/https://s3.amazonaws.com/digitalgov/_terms-of-service/flickr-05-21-2018.pdf">Flickr TOS (PDF)</a>
       </td>
     </tr>
 
