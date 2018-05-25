@@ -285,7 +285,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        Photo sharing
+        Photo sharing service, now owned by SmugMug
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
