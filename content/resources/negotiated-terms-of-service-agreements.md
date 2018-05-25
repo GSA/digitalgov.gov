@@ -34,7 +34,6 @@ aliases:
 
 {{< legacy-img src="/2014/01/250-x-190-Agreement-Terms-of-Service-TOS.jpg" alt="Illustrated stock image of a signed agreement document" >}} Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service (TOS) Point of Contact (POC)]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency. See [complete implementation guidance]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") on the main Terms of Service page.
 
-
 <div>
   <p>
     Here&#8217;s the list of free tools that have federal-compatible Terms of Service agreements. Keep in mind that even though a tool may be on the list, your agency may not have agreed to the TOS for that tool. The federal government doesn&#8217;t endorse, sponsor or recommend the products or services on this site or consider them to be superior to any other products or services.
@@ -93,7 +92,7 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Asana Terms of Service (TOS) Amendment" href="https://www.asana.com/terms/amendment">Asana TOS</a>
+        <a title="Asana Terms of Service (TOS) Amendment" href="https://asana.com/terms#amendment">Asana TOS</a>
       </td>
     </tr>
 
@@ -122,20 +121,6 @@ aliases:
 
       <td style="text-align: left;vertical-align: top;border: none">
         <a title="Blackberry SDK License Agreement" href="{{< legacy-file "/2014/07/blackberry-sdk-license-agreement.pdf" >}}">BlackBerry SDK License Agreement (PDF)</a>, <a title="Blackberry App World Vendor Agreement" href="{{< legacy-file "/2014/07/blackberry-app-world-vendor-agreement.pdf" >}}">BlackBerry App World Vendor Agreement (PDF)</a>, <a title="Amendment to BlackBerry SDK License Agreement and BlackBerry App World Vendor Agreement for Use by U.S. General Services Administration" href="{{< legacy-file "/2014/07/blackberry-app-world-tos-agreement.pdf" >}}">BlackBerry App World TOS (PDF)</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Blip.tv" href="http://www.blip.tv/">Blip.tv</a>
-      </td>
-
-      <td style="text-align: left;vertical-align: top;border: none">
-        Video sharing
-      </td>
-
-      <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Blip.tv Terms of Use" href="{{< legacy-file "/2014/07/bliptv-tos-amendment.pdf" >}}">Blip.tv TOS (PDF)</a>
       </td>
     </tr>
 
@@ -1237,6 +1222,20 @@ aliases:
       </td>
     </tr>
 
+    <tr>
+      <td style="text-align: left;vertical-align: top;border: none">
+        <a title="Blip.tv" href="http://www.blip.tv/">Blip.tv</a>
+      has closed down.</td>
+
+      <td style="text-align: left;vertical-align: top;border: none">
+        Video sharing
+      </td>
+
+      <td style="text-align: left;vertical-align: top;border: none">
+        <a title="Blip.tv Terms of Use" href="{{< legacy-file "/2014/07/bliptv-tos-amendment.pdf" >}}">Blip.tv TOS (PDF)</a>
+      </td>
+    </tr>
+	  
     <tr>
       <td style="text-align: left;vertical-align: top;border: none">
         <a title="CoolIris" href="http://www.cooliris.com/">CoolIris</a>
