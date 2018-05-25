@@ -285,11 +285,11 @@ aliases:
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        Photo sharing
+        Photo sharing (updated: 05-21-18)
       </td>
 
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Flickr Terms of Service (TOS) Amendment" href="https://s3.amazonaws.com/digitalgov/_legacy-img/https://s3.amazonaws.com/digitalgov/_terms-of-service/flickr-05-21-2018.pdf">Flickr TOS (PDF)</a>
+        <a title="Flickr Terms of Service (TOS) Amendment" href="https://s3.amazonaws.com/digitalgov/_terms-of-service/flickr-05-21-2018.pdf">Flickr TOS (PDF)</a>
       </td>
     </tr>
 
