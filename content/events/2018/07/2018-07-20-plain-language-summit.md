@@ -1,7 +1,7 @@
 ---
-slug: plain-language-summit
-title: 'Plain Language Summit'
-summary: 'Summary'
+slug: plain-language-summit-2018
+title: 'Plain Language Summit 2018'
+summary: 'The federal Plain Language community is holding their first all-day summit in Washington D.C., and you’re invited!'
 featured_image:
   uid:
   alt: ''
@@ -27,16 +27,33 @@ venue:
 
 ---
 
-Plain language makes it easier for the public to read, understand, and use government communications.
-
-The federal Plain Language community is holding their first all-day summit in Washington D.C., and you’re invited!
-
-On Friday, July 20th, we’ll bring together some of the brightest individuals working in government for a one-day series of talks and conversations on how to advance plain language on government communications.
+On Friday, July 20th, the federal [Plain Language community](https://digital.gov/communities/plain-language/) will bring together some of the brightest individuals working in government for a one-day series of talks and conversations on how to advance plain language on government communications.
 
 Join us in-person or online to learn about the importance of plain language, methods for implementing it, and strike a conversation with fellow communicators from across government.
 
-The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://digital.gov/communities/plain-language/).
+The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing.
+
+Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://digital.gov/communities/plain-language/).
 
 
 ## Audience
 Federal employees who are interested in plain language and want to learn more.
+
+## Agenda
+
+| Time              | Speaker                                                                                                                     |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 9:00am-9:05am     | **Welcome from Federal Plain Language Community of Practice, Co-Chairs** - Katherine Spivey, GSA and Kathryn Catania, USCIS |
+| 9:05am-9:15am     | **Welcome from GSA’s Senior Plain Language Official** - Donna Garland, GSA                                                  |
+| 9:15am-10:00am    | **Keynote** - Ginny Redish, Redish & Associates                                                                             |
+| 10:00am-10:15am   | **Break**                                                                                                                   |
+| 10:15am-11:00am   | **TL;DR** - Anne Meeker and Heather Painter, from the Office of Congressman Seth Moulton (MA-06)                            |
+| 11:00am - 11:40am | **Plain Language, Customer Experience and User Experience** — Jon Rubin, CFPB                                               |
+| 11:40am - 12:20pm | **How to Design Custom Plain Language Training** — Katina Stapleton, Dept. of Education                                     |
+| 12:20pm-1:15pm    | **Break for Lunch**                                                                                                         |
+| 1:15pm - 1:55pm   | **Plain Language and Translation** — USCIS                                                                                  |
+| 1:55pm - 2:25pm   | **Center for Plain Language Report Card** — SPEAKER TK, Center from Plain Language                                          |
+| 2:25pm - 2:40pm   | **Break**                                                                                                                   |
+| 2:40pm - 3:10pm   | **Adult Literacy** - Meredith Larson, Dept. of Education                                                                    |
+| 3:10pm - 3:50pm   | **No, the Law Does Not Normally Require Legalese** - Joe Kimble, Professor Emeritus, Western Michigan University            |
+| 3:50pm - 4:00pm   | **Wrap Up & Closing** - Kathryn Catania (USCIS) and Katherine Spivey (GSA)                                                  |
