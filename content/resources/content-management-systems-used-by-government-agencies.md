@@ -62,7 +62,7 @@ We do our best to keep the list current based on information we get from agencie
 [Energy](http://energy.gov/) (Drupal)
 
   * [Energy Information Administration](http://www.eia.gov/) (None)
-  * [Lawrence Livermore Labs](https://www.llnl.gov/) (Drupal)
+  * [Lawrence Livermore National Laboratory](https://www.llnl.gov/) (Drupal)
   * [Office of Energy Efficiency & Renewable Energy](http://www.eere.energy.gov/) (OpenText)
   * [Office of Scientific & Technical Information](http://www.osti.gov/home/) (Drupal/Confluence, Sharepoint)
   * [Sandia National Laboratories](http://www.sandia.gov/) (Cascade Server by Hannon Hill/WordPress, Drupal, SharePoint)
