@@ -1,3 +1,5 @@
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $legacyPath := "_legacy-img" }}
 <table class="tos-list">
   <tr>
     <th>Service</th>
@@ -6,19 +8,24 @@
   {{ range where .Site.Data.termsofservice.termsofservice "status" "==" "declined" }}
   <tr>
     <td><a href="{{ .url }}" title="{{ .name }}"><img class="favicon" src="https://www.google.com/s2/favicons?domain={{ .url }}" alt="{{ .name }}"> <strong>{{ .name }}</strong> — </a>{{ .description }}</td>
+    {{ $.Scratch.Set "filepath" (printf "%s" "null") }}
     {{ if eq .type "pdf" }}
       {{ $.Scratch.Set "iconfile" "img/icon-pdf.png" }}
+      {{ $.Scratch.Set "filepath" (printf "%s/%s/%s" $cdnurl $legacyPath .uri) }}
     {{ else if eq .type "wdoc" }}
       {{ $.Scratch.Set "iconfile" "img/icon-word.png" }}
+      {{ $.Scratch.Set "filepath" (printf "%s/%s/%s" $cdnurl $legacyPath .uri) }}
     {{ else if eq .type "gdoc" }}
       {{ $.Scratch.Set "iconfile" "img/icon-gdoc.png" }}
+      {{ $.Scratch.Set "filepath" (printf "%s" .uri) }}
     {{ else if eq .type "web" }}
       {{ $.Scratch.Set "iconfile" "web" }}
+      {{ $.Scratch.Set "filepath" .uri }}
     {{ end }}
     {{ $iconsrc := $.Scratch.Get "iconfile" }}
     {{ $fileicon := printf "<img class='icon-file icon' src='$iconsrc' alt='(.uri)'>" }}
 
-    <td class="tos"><a href="{{ .uri }}" title="{{ .name }}">view <img class="icon-file icon icon-{{ .type }}" src="{{ $iconsrc | absURL }}" alt="{{ .type }}"> </a></td>
+    <td class="tos"><a href="{{ $.Scratch.Get "filepath" }}" title="{{ .name }}">view <img class="icon-file icon icon-{{ .type }}" src="{{ $iconsrc | absURL }}" alt="{{ .type }}"> </a></td>
   </tr>
   {{ end }}
   <tr>

@@ -173,6 +173,7 @@
 }
 
 .entry-content table{
+	width: 100%;
 }
 .entry-content table tr{
 	background: none;

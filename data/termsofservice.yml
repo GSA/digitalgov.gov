@@ -33,7 +33,7 @@ termsofservice:
   - name          : 'Asana'
     url           : 'https://www.asana.com/'
     description   : 'Collaborative software; mobile- and web-based project management tool'
-    type          : https://www.asana.com/terms/amendment
+    uri          : 'https://www.asana.com/terms/amendment'
     type          : web
     updated       :
     status        :
@@ -49,7 +49,7 @@ termsofservice:
   - name          : Blackberry App World
     url           : http://appworld.blackberry.com/webstore/
     description   : Mobile app store
-    type          : '/2014/07/blackberry-app-world-tos-agreement.pdf'
+    uri          : '/2014/07/blackberry-app-world-tos-agreement.pdf'
     type          : pdf
     updated       : 2014-07
     status        :
@@ -57,7 +57,7 @@ termsofservice:
   - name          : 'Blip.tv'
     url           : http://www.blip.tv/
     description   : 'Video sharing'
-    type          : '/2014/07/bliptv-tos-amendment.pdf'
+    uri          : '/2014/07/bliptv-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
     status        :
