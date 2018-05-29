@@ -62,7 +62,7 @@ We do our best to keep the list current based on information we get from agencie
 [Energy](http://energy.gov/) (Drupal)
 
   * [Energy Information Administration](http://www.eia.gov/) (None)
-  * [Lawrence Livermore Labs](https://www.llnl.gov/) (Cascade Server by Hannon Hill)
+  * [Lawrence Livermore Labs](https://www.llnl.gov/) (Drupal)
   * [Office of Energy Efficiency & Renewable Energy](http://www.eere.energy.gov/) (OpenText)
   * [Office of Scientific & Technical Information](http://www.osti.gov/home/) (Drupal/Confluence, Sharepoint)
   * [Sandia National Laboratories](http://www.sandia.gov/) (Cascade Server by Hannon Hill/WordPress, Drupal, SharePoint)
@@ -98,7 +98,7 @@ We do our best to keep the list current based on information we get from agencie
   * [National Cancer Institute/Division of Cancer Epidemiology and Genetics](http://dceg.cancer.gov/) (Plone [Intranet], Percussion [Public-Facing])
   * [National Institute of Mental Health](http://www.nimh.nih.gov/index.shtml) (Percussion)
   * [National Institutes of Health](http://www.nih.gov/) (Percussion)
-  * [National Institutes of Health—Office of Human Resources](http://hr.od.nih.gov/) (Percussion)
+  * [National Institutes of Health—Office of Human Resources](https://hr.nih.gov/) (Drupal)
   * [National Library of Medicine](http://www.nlm.nih.gov/) (TeamSite/Adobe Contribute, Drupal, Custom built systems)
   * Office of Communications and Education (Percussion)
   * [National Institute on Drug Abuse](https://www.drugabuse.gov/) (Drupal)
@@ -213,7 +213,9 @@ United States Courts (Sitefinity [Intranet])
 
 [California](http://www.ca.gov/) (Broadvision)
 
+  * [California Department of Education](https://www.cde.ca.gov/) (Adobe Contribute integrated with in-house system)
   * [Department of Fish & Game](http://www.dfg.ca.gov/) (DotNetNuke)
+
 
 [Georgia Department of Human Services](http://dhs.georgia.gov/) (Vignette)
 
