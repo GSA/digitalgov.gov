@@ -26,16 +26,15 @@ venue:
 
 ---
 
-On Friday, July 20th, the federal [Plain Language community](https://digital.gov/communities/plain-language/) will bring together some of the brightest individuals working in government for a one-day series of talks and conversations on how to advance plain language on government communications.
+On Friday, July 20th, the federal [Plain Language community](https://digital.gov/communities/plain-language/) will bring together some of the brightest individuals involved in government communications for a one-day series of talks and conversations on how to advance plain language on government communications.
 
 {{< img-right src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
 
-Join us in-person or online to learn about the importance of plain language, methods for implementing it, and strike a conversation with fellow communicators from across government.
+Join us in-person or online to learn about the importance of plain language and methods for implementing it, and learn from fellow communicators from across the federal government
 
 The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing.
 
 Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://digital.gov/communities/plain-language/).
-
 
 **Audience:** Federal employees who are interested in plain language and want to learn more.
 
