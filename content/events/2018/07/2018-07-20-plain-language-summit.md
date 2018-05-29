@@ -43,14 +43,14 @@ Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community
 
 | Time              | Speaker                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 9:00am-9:05am     | **Welcome from Federal Plain Language Community of Practice, Co-Chairs** - Katherine Spivey, GSA and Kathryn Catania, USCIS |
-| 9:05am-9:15am     | **Welcome from GSA’s Senior Plain Language Official** - Donna Garland, GSA                                                  |
-| 9:15am-10:00am    | **Keynote** - Ginny Redish, Redish & Associates                                                                             |
-| 10:00am-10:15am   | **Break**                                                                                                                   |
-| 10:15am-11:00am   | **TL;DR** - Anne Meeker and Heather Painter, from the Office of Congressman Seth Moulton (MA-06)                            |
+| 9:00am            | **Welcome from Federal Plain Language Community of Practice, Co-Chairs** - Katherine Spivey, GSA and Kathryn Catania, USCIS |
+| 9:05am            | **Welcome from GSA’s Senior Plain Language Official** - Donna Garland, GSA                                                  |
+| 9:15am - 10:00am  | **Keynote** - Ginny Redish, Redish & Associates                                                                             |
+| 10:00am - 10:15am | **Break**                                                                                                                   |
+| 10:15am - 11:00am | **TL;DR** - Anne Meeker and Heather Painter, from the Office of Congressman Seth Moulton (MA-06)                            |
 | 11:00am - 11:40am | **Plain Language, Customer Experience and User Experience** — Jon Rubin, CFPB                                               |
 | 11:40am - 12:20pm | **How to Design Custom Plain Language Training** — Katina Stapleton, Dept. of Education                                     |
-| 12:20pm-1:15pm    | **Break for Lunch**                                                                                                         |
+| 12:20pm - 1:15pm  | **Break for Lunch**                                                                                                         |
 | 1:15pm - 1:55pm   | **Plain Language and Translation** — USCIS                                                                                  |
 | 1:55pm - 2:25pm   | **Center for Plain Language Report Card** — SPEAKER TK, Center from Plain Language                                          |
 | 2:25pm - 2:40pm   | **Break**                                                                                                                   |
