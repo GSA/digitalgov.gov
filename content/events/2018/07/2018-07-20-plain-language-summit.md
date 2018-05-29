@@ -30,16 +30,15 @@ On Friday, July 20th, the federal [Plain Language community](https://digital.gov
 
 {{< img-right src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
 
-Join us in-person or online to learn about the importance of plain language and methods for implementing it, and learn from fellow communicators from across the federal government
+Do you work in government communications? Gather your team and join us in-person or online to learn about the importance of plain language and methods for implementing it, and learn from fellow communicators from across the federal government.
 
-The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing.
+We believe the public deserves plain language communication from its government, and [it's the law](https://www.plainlanguage.gov/law/). The benefits of plain language are both tangible and intangible:
 
-Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://digital.gov/communities/plain-language/).
+- Plain language gets your message across in the shortest time possible.
+- More people are able to understand your message.
+- There is less chance that your document will be misunderstood, so you spend less time explaining it to people. And if your document gives instructions, your readers are more likely to understand them and follow them correctly.
 
-**Audience:** Federal employees who are interested in plain language and want to learn more.
-
-
-## Agenda
+## Our Plain Agenda
 
 | Time              | Speaker                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -57,3 +56,14 @@ Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community
 | 2:40pm - 3:10pm   | **Adult Literacy** - Meredith Larson, Dept. of Education                                                                    |
 | 3:10pm - 3:50pm   | **No, the Law Does Not Normally Require Legalese** - Joe Kimble, Professor Emeritus, Western Michigan University            |
 | 3:50pm - 4:00pm   | **Wrap Up & Closing** - Kathryn Catania (USCIS) and Katherine Spivey (GSA)                                                  |
+
+
+## About plainlanguage.gov
+
+The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing.
+
+- Visit [plainlanguage.gov](https://www.plainlanguage.gov/)
+- Join the [community](https://digital.gov/communities/plain-language/)
+- Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
+
+**Audience:** Federal employees who are interested in plain language and want to learn more.
