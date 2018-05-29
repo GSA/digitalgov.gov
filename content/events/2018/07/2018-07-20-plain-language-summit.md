@@ -36,8 +36,8 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://digital.gov/communities/plain-language/).
 
 
-## Audience
-Federal employees who are interested in plain language and want to learn more.
+**Audience:** Federal employees who are interested in plain language and want to learn more.
+
 
 ## Agenda
 
