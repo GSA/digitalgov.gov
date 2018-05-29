@@ -3,8 +3,8 @@ slug: plain-language-summit-2018
 title: 'Plain Language Summit 2018'
 summary: 'The federal Plain Language community is holding their first all-day summit in Washington D.C., and you’re invited!'
 featured_image:
-  uid:
-  alt: ''
+  uid: plain-language
+  alt: 'Plain Language Summit 2018'
 event_type:
   - youtube-live
   - online
@@ -14,7 +14,6 @@ end_date: 2018-07-20 15:30:00 -0500
 event_organizer: DigitalGov
 host: Plain Language Community of Practice
 registration_url:
-youtube_id:
 venue:
   venue_name: U.S. General Services Administration
   room: XXXX
@@ -28,6 +27,8 @@ venue:
 ---
 
 On Friday, July 20th, the federal [Plain Language community](https://digital.gov/communities/plain-language/) will bring together some of the brightest individuals working in government for a one-day series of talks and conversations on how to advance plain language on government communications.
+
+{{< img-right src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
 
 Join us in-person or online to learn about the importance of plain language, methods for implementing it, and strike a conversation with fellow communicators from across government.
 
