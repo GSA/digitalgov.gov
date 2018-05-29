@@ -1,3 +1,5 @@
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $legacyPath := "_legacy-img" }}
 <table class="tos-list">
   <tr>
     <th>Service</th>
@@ -6,6 +8,10 @@
   {{ range where .Site.Data.termsofservice.termsofservice "status" "!=" (slice "closed" "declined") }}
   <tr>
     <td><a href="{{ .url }}" title="{{ .name }}"><img class="favicon" src="https://www.google.com/s2/favicons?domain={{ .url }}" alt="{{ .name }}"> <strong>{{ .name }}</strong> — </a>{{ .description }}</td>
+
+    {{ $fileCDN := printf "%s/%s/%s" $cdnurl $legacyPath .uri }}
+
+
     {{ if eq .type "pdf" }}
       {{ $.Scratch.Set "iconfile" "img/icon-pdf.png" }}
     {{ else if eq .type "wdoc" }}
