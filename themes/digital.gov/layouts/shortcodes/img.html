@@ -38,7 +38,7 @@
     {{ $imgBaseCDN }}.{{ $imgExt }} {{ $imgWidth }}w
     {{ end }}
       '
-    sizes='(max-width: 600px) 100vw, 600px'{{ end }}/>
+    sizes='(max-width: 800px) 100vw, 800px'{{ end }}/>
   {{ if or $thisimg.caption (.Get "caption") }}
     <p class="wp-caption-text">
       {{ .Get "caption" | default $thisimg.caption | markdownify }}
