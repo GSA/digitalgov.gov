@@ -13,7 +13,7 @@ date: 2018-07-20 09:00:00 -0500
 end_date: 2018-07-20 15:30:00 -0500
 event_organizer: DigitalGov
 host: Plain Language Community of Practice
-registration_url:
+registration_url: https://www.eventbrite.com/e/plain-language-summit-2018-tickets-46589162439
 venue:
   venue_name: U.S. General Services Administration
   room: XXXX
