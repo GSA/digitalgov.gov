@@ -762,4 +762,4 @@ If you have additions or changes, please see the box at the end of this page to 
   </table>
 </div>
 
-If your agency isn’t listed above, contact [Betsy Steele](mailto:betsy.steele@gsa.gov) and she will add your Point of Contact to the list.
+If your agency and point of contact aren’t listed above, please see the box below to submit.
