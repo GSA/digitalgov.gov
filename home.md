@@ -24,7 +24,7 @@ permalink: /
   <li>
     <a href="{{ site.baseurl }}/ux/getting-started/">
       <img src="{{ site.baseurl }}/assets/img/icons/ux.svg" alt="">
-      <p>UX<i class="fa fa-chevron-right" aria-hidden="true"></i></p>
+      <p>Interaction design<i class="fa fa-chevron-right" aria-hidden="true"></i></p>
     </a>
   </li>
   <li>

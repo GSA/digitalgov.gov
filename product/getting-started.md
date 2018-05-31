@@ -4,7 +4,7 @@ title: Getting started
 permalink: /product/getting-started/
 ---
 
-## Accessibility for product management
+## Accessibility for product managers
 
 Product managers play a vital role in communicating accessibility requirements early in the project lifecycle, ensuring each team member knows their responsibility, and keeping the team accountable for building accessible products. Following these steps, you’ll make sure you’re not only following legal requirements, but making your product more usable for everyone.
 
