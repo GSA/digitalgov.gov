@@ -13,6 +13,9 @@ Are you interested in rebalancing grants compliance efforts with a focus on resu
 
 If so, Join our community!
 
+ * Govvies
+ * Rest
+
 ## Who we are
 
 Our community consist of grants managers from federal, state, and local government, tribes, researchers, non-profits, and academia, who steward over $700 billion in grants funding through more than 1,800 diverse federal grants programs. We engage public-private stakeholders to develop best practices that modernized grants management and balance compliance requirements with results. 
