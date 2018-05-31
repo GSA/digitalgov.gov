@@ -13,8 +13,8 @@ Are you interested in rebalancing grants compliance efforts with a focus on resu
 
 If so, Join our community!
 
- * Govvies
- * Rest
+ * Govvies listserv
+ * Other listserv
 
 ## Who we are
 
@@ -30,6 +30,6 @@ We host a Listserv for members to join the discussion, ask questions, and propos
 
 ## Key resources
 
- * [CFO Council](https://www.cfo.gov/grants/)
+ * [CFO Council Grants](https://www.cfo.gov/grants/)
  * [Performance.gov](https://www.performance.gov)
    * [Results-Oriented Accountability for Grants Action Plan](https://www.performance.gov/CAP/CAP_goal_8.html)
