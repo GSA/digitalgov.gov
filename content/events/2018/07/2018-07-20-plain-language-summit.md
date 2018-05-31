@@ -16,7 +16,7 @@ host: Plain Language Community of Practice
 registration_url: https://www.eventbrite.com/e/plain-language-summit-2018-tickets-46589162439
 venue:
   venue_name: U.S. General Services Administration
-  room: XXXX
+  room: 1459/1460/1461
   address: 1800 F Street NW
   city: Washington
   state: D.C.
