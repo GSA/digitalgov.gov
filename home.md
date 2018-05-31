@@ -42,18 +42,12 @@ permalink: /
 </ul>
 
 <h2>How to use this guide</h2>
-These guidelines serve as a ‘quick-start’ guide for embedding accessibility and inclusive design practices into the workflow of a cross-functional, agile team. They:
+This is a 'quick-start' guide for embedding accessibility and inclusive design practices into your team's workflow. It provides:
 
-- Help you understand how each member of a cross-functional team can contribute to the accessibility of a product.
-- Give you a framework for thinking about accessibility and inclusive design in your role.
-- Understand the human need behind top accessibility practices.
-Provide entry points for seeking out more information when you need to.
+- An overview of how each team member can contribute to a product's accessibility
+- A framework for thinking about accessibility and inclusive design in your role
+- An understanding of the human need behind accessibility practices.
 
-These guidelines do not:
-
-- Provide a comprehensive (and therefore overwhelming) list of all possible issues (we choose to focus on those most likely to impact government sites).
-- Serve as a checklist for conducting manual audits.
-
-These guidelines are a work-in-progress. Right now, following these guidelines won’t guarantee that your project will be compliant with [WCAG 2.0 standards](https://www.w3.org/TR/WCAG20/) – the standards that all government websites will have to meet by January 2018 – but we believe they will help you get close and give you the tools you need to learn more when you need to.
+We choose to focus on issues most likely to impact government sites. These guidelines do not provide a comprehensive list of all possible issues. Your team will need additional resources and work to conducting manual audits and prepare for the January 2018 deadline to be compliant with [WCAG 2.0 standards](https://www.w3.org/TR/WCAG20/).
 
 Questions or comments? Please reach out to us in the project's [GitHub issues](https://github.com/18F/accessibility-playbook/issues/) or email [g-accessibility@gsa.gov](mailto:g-accessibility@gsa.gov).
