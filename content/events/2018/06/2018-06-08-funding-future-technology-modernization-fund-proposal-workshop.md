@@ -39,11 +39,11 @@ The TMF provides a new funding model for Federal technology modernization projec
 
 The Board will consider project proposals based on financial, technical, and operational criteria. All federal government agencies can submit project proposals to the TMF. A full list of requirements for submission, as well as a template, can be found in [Appendix A of OMB M-18-12](https://policy.cio.gov/modernizing-government-technology/). A [word document template](https://policy.cio.gov/assets/APPENDIXA.docx) can also be found on the OMB Modernizing Government Technology site.
 
-### What to Expect
+## What to Expect
 
 Participants should expect to come with basic ideas for programs they would like to potentially submit to the Technology Modernization Fund process, have all their questions answered, and spend two sessions working side-by-side with the TMF PMO, ECTO and others to craft proposals that deliver the greatest benefit to our modernization efforts while meeting the technical standards of the fund process.
 
-### Agenda
+## Agenda
 
 - Welcome and introduction
     - Justin Herman, ECTO and Elizabeth Cain, TMF PMO
@@ -55,7 +55,7 @@ Participants should expect to come with basic ideas for programs they would like
 - Breakout sessions to develop proposals and partnership expo
 - Next steps
 
-### Who Should Attend
+## Who Should Attend
 
 Great ideas for modernizing our public services should come from anywhere, whether civilian agencies, the Defense Community or the Intelligence Community, whether federal managers or their support teams and innovative businesses. Projects for the Technology Modernization Fund can be both Classified and Unclassified, and can include the widest spectrum of capabilities, technologies and approaches. All are encouraged to take advantage of this opportunity.
 
@@ -65,22 +65,10 @@ Registrants will be asked to identify their agency Point of Contact and briefly 
 
 Remote participation is possible for teams assembling outside of the Washington, D.C. area.
 
-### Relevant Resources
+## Relevant Resources
 
 - [Technology Modernization Fund resources on Emerging.Digital.gov](https://emerging.digital.gov/TMF/)
 - [OMB’s Modernizing Government Technology Landing Page](https://policy.cio.gov/modernizing-government-technology/)
 - [Funding Guidelines](https://policy.cio.gov/modernizing-government-technology/funding/)
 - [Frequently Asked Questions about the TMF](https://policy.cio.gov/modernizing-government-technology/faq)
 - [About GSA ECTO](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology)
-
-### Registration Requirements
-
-In order to complete your registration, we’d like to know a little bit more about your initial idea so we know how we can best help you. You'll be prompted to answer these questions as briefly as possible when you register, and remember that these details can change and evolve as you learn more about the Technology Modernization Fund and how it can best serve your mission.
-
-1. What is the name of your idea?
-2. Who is the main Point of Contact or Sponsor of this idea?
-3. Describe how the proposed idea fulfills your Agency’s mission, and identify the problem this solves. (1-2 sentences)
-4. Provide an initial rough estimation of the TMF funding request. (1 sentence)
-5. Identify basic metrics for success and any initial milestones for implementation. (2 sentences)
-6. Describe why the project will succeed, citing examples such as: (1) executive level support for this effort, (2) the strength or experience of the team, including any agency digital service experts, other agency development resources, the availability of contractor support (3) the preparedness to begin executing this project, and (4) other relevant factors that will demonstrate the likelihood of project success. (1-3 sentences)
-7. Describe why the Technology Modernization Fund makes sense for this project and how the approach you are taking for this effort is different than what you have previously attempted. (1-2 sentences)
