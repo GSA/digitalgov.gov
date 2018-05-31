@@ -7,7 +7,6 @@ featured_image:
   alt: 'Plain Language Summit 2018'
 event_type:
   - youtube-live
-  - online
   - in-person
 date: 2018-07-20 09:00:00 -0500
 end_date: 2018-07-20 15:30:00 -0500
@@ -68,4 +67,4 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Join the [community](https://digital.gov/communities/plain-language/)
 - Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
 
-**NOTE:** We have a limit of around 150 people, so sign-up fast. We'll' be accepting Feds first, and others after.
+**NOTE:** In-person tickets are limted and going quickly, so sign-up fast! Federal employees registered with a .mil or .gov email will recieve priority, and others after.
