@@ -68,4 +68,4 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Join the [community](https://digital.gov/communities/plain-language/)
 - Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
 
-**NOTE:** We have a limit of around 150 people, so sign-up fast. We'll' be accepting Feds first, and others after.
+**NOTE:** For in-person attendees, we have a limit of around 150 people, so sign up fast. We'll be accepting federal employees first, and others after. When you order tickets on the registration page, it will let you know how many spots are left for both online and in-person attendees.
