@@ -2,21 +2,21 @@
 slug: an-introduction-searchgov
 title: 'An Introduction to Search&#46;gov'
 summary: 'Learn about the essential features of Search&#46;gov and tour its Admin Center.'
-featured_image: 
-  uid: 
+featured_image:
+  uid: searchgov-intro
   alt: ''
-event_type: 
+event_type:
   - youtube-live
 date: 2018-05-03 13:00:00 -0500
 end_date: 2018-05-03 14:00:00 -0500
 event_organizer: DigitalGov University
-host: 
+host:
 registration_url: https://www.eventbrite.com/e/searchgov-basics-registration-45389799111
 youtube_id: W9gFgy4Jx6k
 
 ---
 
-[Search.gov](https://search.gov/) is a tool that federal agencies can use to provide a high quality search experience to their site’s users. 
+[Search.gov](https://search.gov/) is a tool that federal agencies can use to provide a high quality search experience to their site’s users.
 
 In this online event, we’ll provide a basic overview of Search.gov’s essential features and tour its Admin Center:
 
@@ -35,9 +35,9 @@ In this online event, we’ll provide a basic overview of Search.gov’s essenti
 - Troubleshooting tips
 
 ## Who Should Attend
-Anyone who is new to Search.gov, or would like a refresher. Non-government attendees must be under current contract with a governmental agency. 
+Anyone who is new to Search.gov, or would like a refresher. Non-government attendees must be under current contract with a governmental agency.
 
-[Search.gov](https://search.gov/) is a tool that federal agencies can use to provide a high quality search experience to their site’s users. 
+[Search.gov](https://search.gov/) is a tool that federal agencies can use to provide a high quality search experience to their site’s users.
 
 ## About the Instructor
 
