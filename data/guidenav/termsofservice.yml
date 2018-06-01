@@ -1,7 +1,7 @@
 guidenav:
 - title   : 'Overview'
-  slug    : '/resources/federal-compatible-terms-of-service-agreements/'
+  slug    : '/tools/federal-compatible-terms-of-service-agreements/'
 - title   : 'All Agreements'
-  slug    : '/resources/negotiated-terms-of-service-agreements/'
+  slug    : '/tools/negotiated-terms-of-service-agreements/'
 - title   : 'Agency points of contact'
-  slug    : '/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/'
+  slug    : '/tools/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/'
