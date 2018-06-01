@@ -53,7 +53,7 @@ function show_last_commit(data){
 	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/master/content/' + filepath;
 	$('.last_commit .commit-date').text(getFormattedDate(commit_date)).wrap('<a href="'+commit_history_url+'"></a>');
 	$('.last_commit .commit-author').text(commit_author).wrap('<a href="'+commit_author_url+''+commit_author+'"></a>');
-	$('.last_commit p').css('display', 'inline-block');
+	$('.last_commit').css('display', 'inline-block');
 }
 
 

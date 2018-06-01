@@ -10,9 +10,10 @@
     <div class="entry-head">
       {{ partial "breadcrumbs" . }}
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
+      {{ if .Params.deck }}
       <div class="deck">{{ .Params.deck }}</div>
+      {{ end }}
     </div>
-
 
     <div class="guide-nav">
       {{ if .Params.guidenav }}
@@ -30,12 +31,15 @@
       </div>
     </div>
 
-
     <div class="entry-content">
+      {{ if .Params.notice }}
+        {{ partial "page-notice" (dict "page" .  "page_type" "guide" "notice" .Params.notice) }}
+      {{ end }}
+      
       {{ .Content }}
     </div>
 
-    {{ partial "post-meta--feedback" (dict "page" . "page_type" "page") }}
+    {{ partial "post-meta--feedback" (dict "page" . "page_type" "guide") }}
 
   </div>
 
