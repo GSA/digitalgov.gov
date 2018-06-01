@@ -8,9 +8,9 @@
 
 # status:
 # - closed = company has closed or no longer exists
-# - declined = company no longer has a govt approved TOS
-# - active = company has a govt approved TOS
-# - [blank] = company has a govt approved TOS
+# - not-compatible = company no longer has a govt approved TOS
+# - [blank] = company has a govt approved TOS (preferred)
+# - compatible = company has a govt approved TOS
 
 
 termsofservice:
@@ -33,10 +33,10 @@ termsofservice:
   - name          : 'Asana'
     url           : 'https://www.asana.com/'
     description   : 'Collaborative software; mobile- and web-based project management tool'
-    uri          : 'https://www.asana.com/terms/amendment'
+    uri          : 'https://asana.com/terms#amendment'
     type          : web
     updated       :
-    status        :
+    status        : closed
 
   - name          : 'Bing'
     url           : http://www.bing.com/
@@ -145,9 +145,9 @@ termsofservice:
   - name          : Flickr
     url           : http://www.flickr.com/
     description   : 'Photo sharing, now owned by SmugMug'
-    uri           : https://s3.amazonaws.com/digitalgov/_terms-of-service/flickr-05-21-2018.pdf
+    uri           : '2018/flickr-amendment-5-23-18.pdf'
     type          : pdf
-    updated       : 2018-05
+    updated       : 2018-05-23
     status        :
 
   - name          : Flipboard
@@ -411,7 +411,7 @@ termsofservice:
     description   : Customer experience survey software
     uri           : https://www.qualtrics.com/terms-of-service/
     type          : web
-    updated       :
+    updated       : 2017-08-21
     status        :
 
   - name          : Quora
@@ -676,7 +676,7 @@ termsofservice:
     uri           :
     type          : web
     updated       :
-    status        : declined
+    status        : not-compatible
 
   - name          : CoolIris
     url           : http://www.cooliris.com/
@@ -684,7 +684,7 @@ termsofservice:
     uri           :
     type          : web
     updated       : 2015-01
-    status        : declined
+    status        : not-compatible
 
   - name          : CrowdHall
     url           : https://www.crowdhall.com/
@@ -692,7 +692,7 @@ termsofservice:
     uri           : https://api.crowdhall.com/auth/about/terms_federal
     type          : web
     updated       :
-    status        : declined
+    status        : not-compatible
 
   - name          : Google Moderator
     url           : http://www.google.com/moderator/#0
@@ -700,7 +700,7 @@ termsofservice:
     uri           : '2014/07/google-moderator-tos-amendment.pdf'
     type          : pdf
     updated       :
-    status        : declined
+    status        : not-compatible
 
   - name          : Google Webmaster Tools
     url           : https://www.google.com/webmasters/tools/
@@ -708,7 +708,7 @@ termsofservice:
     uri           : '2014/07/google-webmaster-tools-tos-amendment.pdf'
     type          : pdf
     updated       :
-    status        : declined
+    status        : not-compatible
 
   - name          : Mandrill
     url           : http://mandrill.com
@@ -716,7 +716,7 @@ termsofservice:
     uri           : http://mandrill.com/amended-government-terms
     type          : web
     updated       :
-    status        : declined
+    status        : not-compatible
 
 
 #   <tr>
