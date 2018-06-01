@@ -2,10 +2,9 @@
 {{ $legacyPath := "_legacy-img" }}
 <table class="tos-list">
   <tr>
-    <th>Service</th>
-    <th>Agreement</th>
+    <th>Tool / Service</th>
   </tr>
-  {{ range where .Site.Data.termsofservice.termsofservice "status" "==" "declined" }}
+  {{ range where .Site.Data.termsofservice.termsofservice "status" "==" "not-compatible" }}
   <tr>
     <td><a href="{{ .url }}" title="{{ .name }}"><img class="favicon" src="https://www.google.com/s2/favicons?domain={{ .url }}" alt="{{ .name }}"> <strong>{{ .name }}</strong> — </a>{{ .description }}</td>
     {{ $.Scratch.Set "filepath" (printf "%s" "null") }}
@@ -24,12 +23,6 @@
     {{ end }}
     {{ $iconsrc := $.Scratch.Get "iconfile" }}
     {{ $fileicon := printf "<img class='icon-file icon' src='$iconsrc' alt='(.uri)'>" }}
-
-    <td class="tos"><a href="{{ $.Scratch.Get "filepath" }}" title="{{ .name }}">view <img class="icon-file icon icon-{{ .type }}" src="{{ $iconsrc | absURL }}" alt="{{ .type }}"> </a></td>
   </tr>
   {{ end }}
-  <tr>
-    <td>end</td>
-    <td>end</td>
-  </tr>
 </table>
