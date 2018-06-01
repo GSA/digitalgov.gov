@@ -49,14 +49,14 @@ If you’re an agency POC, the [OMB Memorandum M–13–10](https://www.whitehou
 
   1. Conduct an inventory of social media applications currently in use at your agency.
   2. Publish your social media inventory with corresponding TOS at &#8220;agency.gov/socialmediaTOS&#8221;.
-  3. If your agency identifies a social media TOS that includes an open-ended indemnification clause, work with your legal team to renegotiate the TOS.
-  4. Provide an update to [Betsy Steele](mailto:betsy.steele@gsa.gov) at GSA by August 1, 2013, regarding any TOS your agency is negotiating. Coordinating with GSA ensures we are not duplicating efforts.
+  3. If your agency identifies a TOS that includes an open-ended indemnification clause, work with your legal team to renegotiate the TOS.
+  4. Provide an update to [DigitalGov](mailto:digitalgov@gsa.gov) regarding any TOS your agency is negotiating. Coordinating with GSA ensures we are not duplicating efforts.
 
 For guidance on managing your TOS agreements and vendor contact information, visit the [Terms of Service Information for POCs on the MAX wiki](https://login.max.gov/cas/login?service=https%3A%2F%2Fmax.omb.gov%2Fcommunity%2Flogin.action%3Fos_destination%3D%252Fpages%252Fviewpage.action%253FpageId%253D610147341).
 
 ## For State and Local Governments
 
-The National Association of State Chief Information Officers (NASCIO) and the National Association of Attorneys General have collaborated in Terms of Service negotiations with social media providers on behalf of state governments.
+The National Association of State Chief Information Officers (NASCIO) and the National Association of Attorneys General have collaborated in Terms of Service negotiations with tool and service providers on behalf of state governments.
 
 They negotiated revised terms with Facebook, YouTube, and Twitter:
 
@@ -66,22 +66,18 @@ They negotiated revised terms with Facebook, YouTube, and Twitter:
 
 Negotiations with other providers are ongoing.
 
-## For Social Media Providers
+## For Tool and Service Providers
 
-GSA welcomes expressions of interest from providers who want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. GSA developed a [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011) listing the points, issues, and concerns that typically arise in standard Terms of Service and are problematic for federal agencies. This model agreement suggests replacements that would be acceptable to most federal agencies.
+GSA welcomes expressions of interest from providers who want to offer, for the federal government&#8217;s consideration, products that are free of charge. GSA developed a [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011) listing the points, issues, and concerns that typically arise in standard Terms of Service and are problematic for federal agencies. This model agreement suggests replacements that would be acceptable to most federal agencies.
 
 If you are such a provider, see the guidance about how to express interest in offering an amended TOS or updating a current one.
 
-Social media providers interested in engaging in Terms of Service discussions with NASCIO, should [review its open letter to providers](http://www.nascio.org/advocacy/current/NASCIO-SM-Legal-WG-Open-Letter-to-Providers-Final.pdf) for background and contact information.
+Tool and service providers interested in engaging in Terms of Service discussions with NASCIO, should [review its open letter to providers](http://www.nascio.org/advocacy/current/NASCIO-SM-Legal-WG-Open-Letter-to-Providers-Final.pdf) for background and contact information.
 
 ## Resources
 
-  * Find your agency&#8217;s [Social Media Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
+  * Find your agency&#8217;s [Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
   * View the list of negotiated [Terms of Service agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
   * Use the [model TOS template]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc" >}}) (MS Word, 55 KB, 5 pages, October 2011)
   * Read about [NASCIO&#8217;s revised Terms of Service for Facebook](http://www.nascio.org/newsroom/pressrelease.cfm?id=93) for state and local governments
-  * April 2013 guidance [OMB Memorandum M-13-10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) on Antideficiency Act Implications of Certain Online Terms of Service Agreements
-
-## Questions
-
-If you have questions that your agency POC can&#8217;t answer or if you have general questions about federal-compatible TOS, you can [email GSA](mailto:socialmediaapps@gsa.gov).
+  * Guidance [OMB Memorandum M-13-10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) on Antideficiency Act Implications of Certain Online Terms of Service Agreements
