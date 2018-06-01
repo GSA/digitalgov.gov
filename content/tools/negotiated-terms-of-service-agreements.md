@@ -1,5 +1,5 @@
 ---
-url: /resources/negotiated-terms-of-service-agreements/
+url: /tools/negotiated-terms-of-service-agreements/
 date: 2014-01-13 10:50:02 -0400
 uid: negotiated-terms-of-service-agreements
 title: 'Negotiated Terms of Service Agreements'
@@ -33,6 +33,7 @@ aliases:
   - /resources/twitter-federal-terms-of-service/
   - /resources/uservoice-federal-terms-of-service/
   - /resources/vine-federal-terms-of-service/
+  - /resources/negotiated-terms-of-service-agreements/
 ---
 
 
