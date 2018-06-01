@@ -2,8 +2,8 @@
 {{ $legacyPath := "_legacy-img" }}
 <table class="tos-list">
   <tr>
-    <th>Service</th>
     <th>Tool / Service</th>
+    <th>Agreement</th>
   </tr>
   {{ range where .Site.Data.termsofservice.termsofservice "status" "!=" (slice "closed" "not-compatible") }}
   <tr>
