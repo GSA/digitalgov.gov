@@ -3,7 +3,7 @@ slug: usability-testing-with-steve-krug
 title: 'Usability Testing with Steve Krug'
 summary: 'Join us for a 90 minute demonstration and talk with Steve Krug, where he will share how you can get started making usability fixes, no matter what your full time job is&#46;'
 featured_image:
-  uid:
+  uid: usability-testing-steve-krug
   alt: ''
 event_type:
   - youtube-live
