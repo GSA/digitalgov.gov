@@ -48,6 +48,6 @@ This is a 'quick-start' guide for embedding accessibility and inclusive design p
 - A framework for thinking about accessibility and inclusive design in your role
 - An understanding of the human need behind accessibility practices.
 
-We choose to focus on issues most likely to impact government sites. These guidelines do not provide a comprehensive list of all possible issues. Your team will need additional resources and work to conducting manual audits and prepare for the January 2018 deadline to be compliant with [WCAG 2.0 standards](https://www.w3.org/TR/WCAG20/).
+We choose to focus on issues most likely to impact government sites. These guidelines do not provide a comprehensive list of all possible issues. Your team will need additional resources and work to conduct manual audits and prepare for the January 2018 deadline to be compliant with [WCAG 2.0 standards](https://www.w3.org/TR/WCAG20/).
 
 Questions or comments? Please reach out to us in the project's [GitHub issues](https://github.com/18F/accessibility-playbook/issues/) or email [g-accessibility@gsa.gov](mailto:g-accessibility@gsa.gov).
