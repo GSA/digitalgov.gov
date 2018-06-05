@@ -4,7 +4,7 @@ title: Getting started
 permalink: /front-end/getting-started/
 ---
 
-## Accessibility for front end developers
+## Accessibility for front-end developers
 
 Accessible front end development ensures people with different abilities can access, understand, and navigate web content, regardless of how they're accessing it. Front-end developers collaborate with other members of a cross-fuctional team to implement a robust user experience.
 
