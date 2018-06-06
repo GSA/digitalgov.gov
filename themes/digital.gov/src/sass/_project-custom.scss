@@ -28,7 +28,7 @@ html {
 .usa-button-primary,
 .usa-button:visited,
 .usa-button-primary:visited {
-  padding: size(10px) size(20px);
+  padding: px(10px) px(20px);
 }
 
 .usa-banner {
@@ -42,7 +42,7 @@ html {
   }
   @include media($large-screen) {
     margin: 0 auto;
-    padding: 0 size(8px);
+    padding: 0 px(8px);
     width: 960px;
   }
 }
@@ -54,31 +54,31 @@ html {
     width: 96%;
   }
   @include media($large-screen) {
-    padding-left: size(8px);
-    padding-right: size(8px);
+    padding-left: px(8px);
+    padding-right: px(8px);
     width: 960px;
   }
 }
 
 .usa-banner-header {
-  font-size: size(10px);
+  font-size: px(10px);
   @include media($small-screen) {
-    font-size: size(12px);
+    font-size: px(12px);
     @include padding(0 0 3px 0);
   }
   img {
     display: block;
     float: left;
-    margin-right: size(10px);
+    margin-right: px(10px);
     margin-top: 0;
     vertical-align: middle;
-    width: size(24px);
+    width: px(24px);
 
     @include media($small-screen) {
       display: inline-block;
       float: none;
-      margin-right: size(10px);
-      width: size(20px);
+      margin-right: px(10px);
+      width: px(20px);
     }
   }
   p {
@@ -96,17 +96,17 @@ html {
   }
   &-expanded {
     img {
-      margin-right: size(10px);
+      margin-right: px(10px);
     }
   }
 }
 
 .usa-accordion-button[aria-expanded=false],
 .usa-accordion-button[aria-expanded=true] {
-  background-size: size(15px);
+  background-size: px(15px);
   &:after {
-    height: size(10px);
-    width: size(10px);
+    height: px(10px);
+    width: px(10px);
   }
   @include media($small-screen) {
     top: 1px;

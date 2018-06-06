@@ -418,7 +418,8 @@ gulp.task('copy-uswds-assets', () => {
 
 gulp.task('sass', function (done) {
   return gulp.src('./themes/digital.gov/src/sass/**/*.scss')
-    .pipe(sourcemaps.init())
+    // sourcemaps not working
+    //.pipe(sourcemaps.init())
 
     // compile css from sass
     .pipe(sass({
@@ -456,7 +457,8 @@ gulp.task('sass', function (done) {
     .pipe(rename({
       suffix: '.min',
     }))
-    .pipe(sourcemaps.write())
+    // sourcemaps not working
+    //.pipe(sourcemaps.write())
     .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'));
 });
 
