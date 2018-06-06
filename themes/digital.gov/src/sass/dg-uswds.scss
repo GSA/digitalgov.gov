@@ -3,7 +3,7 @@
 $border-box-sizing: false;
 $scope-uswds: true;
 
-
+@import 'core/functions';
 @import 'uswds-project-settings';
 @import 'uswds-project-utilities-settings';
 @import 'dg-variables';
@@ -24,7 +24,6 @@ $scope-uswds: true;
 
 // Tools
 @import 'core/font-definitions';
-@import 'core/functions';
 @import 'core/system-tokens';
 @import 'core/variables';
 @import 'core/properties';

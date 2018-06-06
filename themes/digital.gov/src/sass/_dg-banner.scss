@@ -1,6 +1,6 @@
 .usa-banner {
   background-color: $color-gray-lightest;
-  padding-bottom: size(7px);
+  padding-bottom: px(7px);
 
   @include media($small-screen) {
     font-size: $h6-font-size;
@@ -12,12 +12,12 @@
   @include padding(null $site-margins-mobile 3px $site-margins-mobile);
   background-color: transparent;
   font-size: $h5-font-size;
-  padding-top: size(20px);
+  padding-top: px(20px);
   width: 100%;
 
   @include media($medium-screen) {
-    padding-bottom: size(23px);
-    padding-top: size(40px);
+    padding-bottom: px(23px);
+    padding-top: px(40px);
   }
 
   @include media($nav-width) {
@@ -26,7 +26,7 @@
 
   p {
     &:first-child {
-      margin-top: size(10px);
+      margin-top: px(10px);
 
       @include media($medium-screen) {
         margin-top: 0;
@@ -46,8 +46,8 @@
 }
 
 .usa-banner-header {
-  @include padding(size(5.5px) null);
-  font-size: size(12px);
+  @include padding(px(5.5px) null);
+  font-size: px(12px);
   font-weight: $font-normal;
 
   @include media($small-screen) {
@@ -68,13 +68,13 @@
 
   img {
     float: left;
-    margin-right: size(10px);
-    margin-top: size(10px);
-    width: size(24px);
+    margin-right: px(10px);
+    margin-top: px(10px);
+    width: px(24px);
 
     @include media($small-screen) {
-      margin-right: size(7px);
-      width: size(20px);
+      margin-right: px(7px);
+      width: px(20px);
     }
   }
 }
@@ -84,13 +84,13 @@
   border-bottom: 1px solid $color-gray-light;
   display: flex;
   font-size: $h5-font-size;
-  min-height: size(56px);
-  padding-right: size(30px);
+  min-height: px(56px);
+  padding-right: px(30px);
 
   @include media($small-screen) {
     border-bottom: none;
     display: block;
-    font-size: size(12px);
+    font-size: px(12px);
     font-weight: $font-normal;
     min-height: 0;
     padding-right: 0;
@@ -105,10 +105,10 @@
   }
 
   img {
-    margin-right: size(24px);
+    margin-right: px(24px);
 
     @include media($small-screen) {
-      margin-right: size(7px);
+      margin-right: px(7px);
     }
   }
 
@@ -125,12 +125,12 @@
 
 .usa-banner-button {
   @include button-unstyled;
-  @include padding(size(13px) null null size(48px));
+  @include padding(px(13px) null null px(48px));
   background-position-x: right;
   color: $color-primary;
   display: block;
-  font-size: size(12px);
-  height: size(43px);
+  font-size: px(12px);
+  height: px(43px);
   left: 0;
   position: absolute;
   text-decoration: underline;
@@ -155,7 +155,7 @@
   }
 
   &[aria-expanded=false] {
-    @include display-icon(angle-arrow-down-primary, after, size(10px), 0, hover);
+    @include display-icon(angle-arrow-down-primary, after, px(10px), 0, hover);
     background-image: none;
 
     &::after {
@@ -164,12 +164,12 @@
   }
 
   &[aria-expanded=true] {
-    @include display-icon(close, after, size(13px), 0, no-hover);
+    @include display-icon(close, after, px(13px), 0, no-hover);
     background-image: none;
-    height: size(56px);
+    height: px(56px);
 
     @include media($small-screen) {
-      @include display-icon(angle-arrow-up-primary, after, size(10px), 0, hover);
+      @include display-icon(angle-arrow-up-primary, after, px(10px), 0, hover);
       height: initial;
       padding: 0;
       position: relative;
@@ -181,8 +181,8 @@
 
     &::after {
       position: absolute;
-      right: size(15px);
-      top: size(21.5px);
+      right: px(15px);
+      top: px(21.5px);
 
       @include media($small-screen) {
         position: static;
@@ -200,5 +200,5 @@
 }
 
 .usa-banner-icon {
-  width: size(38px);
+  width: px(38px);
 }

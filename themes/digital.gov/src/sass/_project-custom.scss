@@ -107,6 +107,10 @@ html {
   &:after {
     height: px(10px);
     width: px(10px);
+    @include media($small-screen) {
+      height: px(10px);
+      width: px(10px);
+    }
   }
   @include media($small-screen) {
     top: 1px;
