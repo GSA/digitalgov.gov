@@ -5,13 +5,15 @@ var gulp          = require("gulp"),
     vinylPaths    = require('vinyl-paths'),
     replace       = require("gulp-replace-name"),
     sass          = require("gulp-sass"),
-    autoprefixer  = require("gulp-autoprefixer"),
+    autoprefixer  = require("autoprefixer"),
     hash          = require("gulp-hash"),
     del           = require("del"),
     concat        = require('gulp-concat'),
     cleanCSS      = require('gulp-clean-css'),
-    cssnano       = require('gulp-cssnano'),
+    cssnano       = require('cssnano'),
     sourcemaps    = require('gulp-sourcemaps'),
+    postcss       = require('gulp-postcss'),
+    mqpacker      = require('css-mqpacker'),
     combineMq     = require('gulp-combine-mq'),
     strip         = require('gulp-strip-css-comments'),
     bless         = require('gulp-bless'),
@@ -417,9 +419,14 @@ gulp.task('copy-uswds-assets', () => {
 });
 
 gulp.task('sass', function (done) {
+  var plugins = [
+      autoprefixer({ browsers: ['> 5%', 'Last 2 versions'], cascade: false, }),
+      mqpacker({ sort: true }),
+      cssnano()
+  ];
   return gulp.src('./themes/digital.gov/src/sass/**/*.scss')
     // sourcemaps not working
-    //.pipe(sourcemaps.init())
+    .pipe(sourcemaps.init())
 
     // compile css from sass
     .pipe(sass({
@@ -428,40 +435,14 @@ gulp.task('sass', function (done) {
       ]
     }).on('error', sass.logError))
 
-    // autoprefix the css
-    .pipe(
-      autoprefixer({
-        browsers: [
-          '> 1%',
-          'Last 2 versions',
-          'IE 11',
-          'IE 10',
-          'IE 9',
-        ],
-        cascade: false,
-      }))
-
-    // combine media queries at the end of the file
-    .pipe(
-      combineMq({
-        beautify: true,
-      })
-    )
-
-    // minify css
-    .pipe(cssnano({
-      safe: true,
-      // XXX see https://github.com/ben-eb/cssnano/issues/340
-      mergeRules: false,
-    }))
+    // run postcss plugins
+    .pipe(postcss(plugins))
     .pipe(rename({
       suffix: '.min',
     }))
-    // sourcemaps not working
-    //.pipe(sourcemaps.write())
+    .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'));
 });
-
 
 // - - - - - - - - - - - - - - - - -
 gulp.task("watch", function () {
