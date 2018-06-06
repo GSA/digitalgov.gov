@@ -17,6 +17,17 @@ PROJECT THEME SETTINGS
 
 /*
 ----------------------------------------
+Paths
+----------------------------------------
+Relative font and image file paths
+----------------------------------------
+*/
+
+$theme-font-path:   '../fonts';
+$theme-image-path:  '../img';
+
+/*
+----------------------------------------
 Namespace
 ----------------------------------------
 */
@@ -62,17 +73,6 @@ property of all elements to
 */
 
 $border-box-sizing: false;
-
-/*
-----------------------------------------
-Paths
-----------------------------------------
-Relative font and image file paths
-----------------------------------------
-*/
-
-$theme-font-path:   '../fonts';
-$theme-image-path:  '../img';
 
 /*
 ----------------------------------------
