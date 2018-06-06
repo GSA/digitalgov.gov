@@ -2,7 +2,7 @@
 slug: hacking-the-bureaucracy-one-task-at-a-time
 date: 2014-06-23 13:00:53 -0400
 title: Hacking the Bureaucracy One Task at a Time
-summary: 'Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the Open Opportunities program. [youtube=http://www.youtube.com/watch?v=1Mha-SnOfzo&w=600] Open Opportunities are tasks and projects that help you develop and strengthen skills, work with others across agencies to'
+summary: 'Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the Open Opportunities program.'
 authors:
   - lnelson
 categories:
@@ -17,7 +17,7 @@ tag:
   - US Department of State
 ---
 
-Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the [Open Opportunities program](https://midas.18f.us/).
+Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the [Open Opportunities program](https://openopps.usajobs.gov/).
 
 [youtube=http://www.youtube.com/watch?v=1Mha-SnOfzo&w=600]
 
@@ -29,7 +29,7 @@ Now you’re probably thinking, “Why would my agency let me spend time working
 
 {{< legacy-img src="2014/06/250-x-170-open-opps-video-start.jpg" alt="250-x-170-open-opps-video-start" >}}So, with Open Opportunities we all win: you, your agency, the agency you completed the task for, and all of government.
 
-Be sure to check out [how it works]({{< link "how-open-opportunities-works.md" >}}), sign up and learn about the work Open Opportunities innovators are doing, and the benefits that participants and their agencies gain.
+Be sure to check out [how it works]({{< link "open-opportunities.md" >}}), sign up and learn about the work Open Opportunities innovators are doing, and the benefits that participants and their agencies gain.
 
 Open Opportunities participant Bridget Roddy from Department of State found that “by lending a hand to others in government [you] get a sense that we are part of one U.S. government agency.”
 

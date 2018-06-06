@@ -40,7 +40,7 @@ blackfriday:
   fractions: false
 
 params:
-  description           : "DigitalGov: We’re helping you build a modern government."
+  description           : "We’re building a modern government, together."
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
   devmode               : false
 
@@ -139,11 +139,6 @@ menu:
       Identifier      : "join"
       URL             : "/join/"
       Weight          : 7
-    - Name            : "Open Opportunites"
-      Parent          : "join"
-      Identifier      : "open-opportunities"
-      URL             : "/join/open-opportunities-in-digitalgov/"
-      Weight          : 71
 
   secondary:
     - Name            : "Challenges"
