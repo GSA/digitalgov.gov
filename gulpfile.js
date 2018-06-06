@@ -419,11 +419,15 @@ gulp.task('copy-uswds-assets', () => {
 gulp.task('sass', function (done) {
   return gulp.src('./themes/digital.gov/src/sass/**/*.scss')
     .pipe(sourcemaps.init())
+
+    // compile css from sass
     .pipe(sass({
       includePaths: [
         path.join(USWDS_DIST_DIR, 'scss'),
       ]
     }).on('error', sass.logError))
+
+    // autoprefix the css
     .pipe(
       autoprefixer({
         browsers: [
@@ -435,6 +439,15 @@ gulp.task('sass', function (done) {
         ],
         cascade: false,
       }))
+
+    // combine media queries at the end of the file
+    .pipe(
+      combineMq({
+        beautify: true,
+      })
+    )
+
+    // minify css
     .pipe(cssnano({
       safe: true,
       // XXX see https://github.com/ben-eb/cssnano/issues/340
