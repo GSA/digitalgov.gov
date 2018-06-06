@@ -52,6 +52,6 @@
     "gutil": "^1.6.4",
     "node-notifier": "^5.1.2",
     "path": "^0.12.7",
-    "uswds": "^1.4.2"
+    "uswds": "github:uswds/uswds#release-2.0"
   }
 }
