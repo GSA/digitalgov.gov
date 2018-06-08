@@ -4,7 +4,7 @@ title: Getting started
 permalink: /content-design/getting-started/
 ---
 
-## Accessibility for content design
+## Accessibility for content designers
 
 Accessible writing ensures your content is easier for everyone to read. As we build government services, we want to ensure they are accessible and welcoming to everyone who needs to use them.
 
