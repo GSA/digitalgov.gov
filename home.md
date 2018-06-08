@@ -7,8 +7,10 @@ title: Home
 permalink: /
 ---
 
-<p>Everyone who works on government websites has a role to play in making federal resources accessible and inclusive.</p>
-<p>Choose the guide that fits your role:</p>
+Everyone who works on government websites has a role to play in making federal resources accessible and inclusive.
+
+**Choose the guide that fits your role:**
+
 <ul class="home-roles-list">
   <li>
     <a href="{{ site.baseurl }}/product/getting-started/">
@@ -42,8 +44,7 @@ permalink: /
   </li>
 </ul>
 
-<h2>About this guide</h2>
-This is a 'quick-start' guide for embedding accessibility and inclusive design practices into your team's workflow. It provides:
+**This guide provides:**
 
 - An overview of how each team member can contribute to a product's accessibility
 - A framework for thinking about accessibility and inclusive design in your role
