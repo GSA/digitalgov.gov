@@ -224,6 +224,7 @@ Work with your agency Records Officer and follow NARA guidance to establish and 
 * [Code of Federal Regulations (CFR), Parts 1220-1238](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=194bdc93344a881d5119af1e8f66a2a9&rgn=div5&view=text&node=36:3.0.10.2.10&idno=36)
 * [NARA guidance for implementing Section 207(e) of the E-Gov Act](http://www.archives.gov/records-mgmt/bulletins/2006/2006-02.html)
 * [NARA guidance on managing Web records](http://www.archives.gov/records-mgmt/policy/managing-web-records-index.html)
+* [NARA guidance on managing social media records](https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html)
 * [NARA Bulletin 2014-02 Guidance on managing social media records](http://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html) (October 2013)
 * [NARA list of guidances and memos for records management](https://www.archives.gov/records-mgmt)
 
