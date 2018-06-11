@@ -7,6 +7,8 @@ summary: 'The electronic Capital Planning and Investment Control (eCPIC) applica
 
 <div class="deck"><p>The eCPIC application helps automate capital planning and portfolio management processes for enabling government agencies to effectively mature their investment management strategies and achieve agency mission goals and objectives.</p></div>
 
+If you are interested in learning more about the eCPIC tool, please [email the project management office](mailto:ecpic.pmo@gsa.gov) for additional information and to schedule a demonstration.
+
 - [Our Goals](#our-goals)
 - [eCPIC Agencies](#ecpic-agencies)
 - [FAQs](#frequently-asked-questions)
@@ -22,8 +24,6 @@ eCPIC is a web-based, government-owned and operated software as a service (SaaS)
   * Assist OMB to create effective guidance and provide value added oversight by being their IT capital planning and IT investment management subject matter expert
   * Increase Agency adoption of the eCPIC tool
   * Modernize the eCPIC application to improve current capability, take advantage of modern technologies, and ensure the future security of the eCPIC tool
-
-If you are interested in learning more about the eCPIC tool, please [email the project management office](mailto:ecpic.pmo@gsa.gov) for additional information and to schedule a demonstration.
 
 ---
 
