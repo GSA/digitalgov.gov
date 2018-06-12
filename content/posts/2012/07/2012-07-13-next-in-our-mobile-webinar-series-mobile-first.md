@@ -28,6 +28,8 @@ In this second webinar in our [mobile webinar series]({{< link "2012-07-02-mobil
   * How to cultivate a &#8220;mobile first&#8221; approach in your agency
   * How challenges, lessons learned and tips can help you think &#8220;mobile first&#8221;
 
-[youtube=http://www.youtube.com/watch?v=lTYZTwWKaNI&w=600]
-  
-[slideshare id=35274781&doc=mobilefirstjuly2012presentationslides-140529135617-phpapp02&w=600]
+{{< youtube lTYZTwWKaNI >}}
+
+Review the presentation, [Mobile First! - July 2012](https://www.slideshare.net/DigitalGov/mobile-first-july-2012-presentation-slides), on SlideShare (80 slides) 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/j5nBfFNsZa98ii" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/mobile-first-july-2012-presentation-slides" title="Mobile First! - July 2012" target="_blank">Mobile First! - July 2012</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
