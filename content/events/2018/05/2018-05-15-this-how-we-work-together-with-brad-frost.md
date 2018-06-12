@@ -3,8 +3,8 @@ slug: this-how-we-work-together-with-brad-frost
 title: 'How Design Systems Help Us Work Together — with Brad Frost'
 summary: 'Join Brad Frost as he talks about design systems and the role they play in creating a successful, collaborative structure for modern organizations&#46;'
 featured_image:
-  uid: brad-frost
-  alt: 'Brad Frost'
+  uid: this-is-how-we-work-together
+  alt: 
 event_type:
   - youtube-live
   - online
