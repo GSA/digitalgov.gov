@@ -3,10 +3,8 @@ url: /communities/results-oriented-accountability-for-grants/
 uid: results-oriented-accountability-for-grants
 date: 2018-05-31 12:00:00 -0400
 title: 'Results-Oriented Accountability for Grants Community of Practice'
-summary: "Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-
-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal."
-aliases:
-  - /results-oriented-accountability-for-grants/
+summary: "Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal."
+
 ---
 
 Are you interested in rebalancing grants compliance efforts with a focus on results for the American taxpayer? Would you like to see more standardization in grants reporting and an improvement in data collection for grants?
