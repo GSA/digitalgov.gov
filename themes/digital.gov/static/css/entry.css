@@ -68,42 +68,33 @@
 
 /*Edit File button on posts/pages/events*/
 .entry-meta .edit_file{
-	margin-top: 10px;
 	margin-right: 4px;
 	display: inline;
 }
 .entry-meta .edit_file .edit_file_link{
-	padding: 4px 7px 1px 6px;
+	padding: 5px 18px;
 	line-height: 16px;
 	display: inline-block;
-	background: #333;
-	border-radius: 4px;
+	background: #4f297c;
+	border-radius: 3px;
 	color:#fff !important;
-	position: relative;
-	top:3px;
-}
-.entry-meta .edit_file .edit_file_link span{
-	position: relative;
-	top:-4px;
-	font-weight: bold;
-	font-family: Ariel, sans-serif;
 	font-size: 14px;
-}
-#wrap .entry-meta .edit_file .edit_file_link img{
-	display: inline;
-	margin-right: 5px;
-	height: 18px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
 }
 .entry-meta .edit_file .edit_file_link:hover{
-	background: #000;
+	background: #290553;
 }
 
-.entry-meta .last_commit {
+.last_commit {
 	margin: 0;
 	display: inline;
+	color: #444;
+	font-size: 15px;
 }
-.entry-meta .last_commit a{
+.last_commit a{
 	text-decoration: underline;
+	color: #444;
 }
 
 
