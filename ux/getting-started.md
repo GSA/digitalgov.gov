@@ -2,6 +2,7 @@
 layout: primary
 title: Getting started
 permalink: /ux/getting-started/
+sidebar: ux
 ---
 
 ## Accessibility for user experience (UX) designers

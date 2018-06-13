@@ -2,8 +2,8 @@
 layout: primary
 title: Color and contrast
 permalink: /visual-design/color-and-contrast/
+sidebar: visual
 question: Is there enough contrast between text and its background color?
-
 personas:
 - Esther has low vision and needs content to have enough contrast to read it.
 ---

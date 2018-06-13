@@ -2,6 +2,7 @@
 layout: primary
 title: Images
 permalink: /content-design/images/
+sidebar: content
 question: Do your images have descriptive alt text?
 personas:
 - Carmen’s page didn’t load all the way and didn’t get to download the images. 

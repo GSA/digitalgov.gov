@@ -2,6 +2,7 @@
 layout: primary
 title: Data visualizations
 permalink: /visual-design/data-visualizations/
+sidebar: visual
 question: Can you understand the overall trend of the graph? Can you quickly grasp the relationship between parts of the data?
 personas:
 - Kwame has trouble reading graphs with small text.

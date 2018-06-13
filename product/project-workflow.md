@@ -2,6 +2,7 @@
 layout: primary
 title: Project workflow
 permalink: /product/project-workflow/
+sidebar: product
 ---
 
 ## Build accessibility into your project workflow rather than retrofitting it at the end.

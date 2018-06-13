@@ -2,6 +2,7 @@
 layout: primary
 title: Getting started
 permalink: /content-design/getting-started/
+sidebar: content
 ---
 
 ## Accessibility for content designers

@@ -2,6 +2,7 @@
 layout: primary
 title: Information architecture
 permalink: /content-design/information-architecture/
+sidebar: content
 question: Is your site organized such that everyone can navigate it easily?
 personas:
 - Beth has a lower tech literacy level and needs a site’s layout to be clear. 

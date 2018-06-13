@@ -2,6 +2,7 @@
 layout: primary
 title: Easy-to-parse graphic elements
 permalink: /content-design/graphic-elements/
+sidebar: content
 question: Can you easily interpret content associated with graphic elements?
 personas:
 - Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.

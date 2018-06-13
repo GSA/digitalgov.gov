@@ -2,6 +2,7 @@
 layout: primary
 title: Diverse users
 permalink: /product/diverse-users/
+sidebar: product
 ---
 
 ## Consider how everyone will use the product.

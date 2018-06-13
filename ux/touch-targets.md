@@ -2,6 +2,7 @@
 layout: primary
 title: Touch targets
 permalink: /ux/touch-targets/
+sidebar: ux
 question: Are your touch targets large enough and easy to reach?
 personas:
 - Harold has gigantism due to a tumor on his pituitary gland during childhood. He has very large hands which makes small links, or links that are too close together difficult to tap on his phone. 

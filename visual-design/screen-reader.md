@@ -2,6 +2,7 @@
 layout: primary
 title: Screen reader
 permalink: /visual-design/screen-reader/
+sidebar: visual
 question: Can you use a screen reader to access the page content?
 personas:
 - Jerry is blind and uses a screen reader to navigate the web.

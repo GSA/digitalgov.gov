@@ -2,6 +2,7 @@
 layout: primary
 title: Screen reader access
 permalink: /front-end/screen-reader/
+sidebar: frontend
 question: Can you use a screen reader to access the page content?
 personas:
 - Jerry is blind and uses a screen reader to navigate the web.

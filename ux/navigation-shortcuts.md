@@ -2,6 +2,7 @@
 layout: primary
 title: Navigation shortcuts
 permalink: /ux/navigation-shortcuts/
+sidebar: ux
 question: Have you included navigation shortcuts for screen reader and keyboard users?
 personas:
 - Jerry is blind and uses a screen reader to navigate the web; he uses landmark elements to quickly navigate through sections of a webpage. 

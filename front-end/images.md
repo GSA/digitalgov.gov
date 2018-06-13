@@ -2,6 +2,7 @@
 layout: primary
 title: Images
 permalink: /front-end/images/
+sidebar: frontend
 question: Do images have good alt text?
 personas:
 - Carmen’s page didn’t load all the way and didn’t get to download the images. 

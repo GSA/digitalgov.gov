@@ -2,6 +2,7 @@
 layout: primary
 title: Links
 permalink: /content-design/links/
+sidebar: content
 question: Do all links have properly descriptive text?
 personas:
 - Jerry is blind and uses a screen reader to navigate the web. He often uses the <code>tab</code> key to quickly scan a page by reading out only the text links without the surrounding copy.

@@ -2,6 +2,7 @@
 layout: primary
 title: Images
 permalink: /ux/images/
+sidebar: ux
 question: Have you identified which images are meaningful and which images are decorative in mockups?
 personas:
 - Carmen’s page didn’t load all the way and didn’t get to download the images. 

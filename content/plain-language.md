@@ -2,6 +2,7 @@
 layout: primary
 title: Plain language
 permalink: /content-design/plain-language/
+sidebar: content
 question: Can you quickly understand the main points of the content?
 personas:
 - Karin is not a native English speaker and she sometimes has trouble decoding legal or bureaucratic language.

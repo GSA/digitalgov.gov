@@ -2,6 +2,7 @@
 layout: primary
 title: Typography
 permalink: /visual-design/typography/
+sidebar: visual
 question: Can you easily read and comprehend textual information on the page?
 personas:
 - Zelda has low vision and has trouble reading small text. 

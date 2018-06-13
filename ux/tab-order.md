@@ -2,6 +2,7 @@
 layout: primary
 title: Tab order
 permalink: /ux/tab-order/
+sidebar: ux
 question: Do your wireframes or design mockups indicate a logical tab order for people using a keyboard, or other assistive technology, to navigate?
 personas:
 - Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web. When focus jumps randomly around the page she gets confused.

@@ -2,6 +2,7 @@
 layout: primary
 title: Keyboard access
 permalink: /front-end/keyboard-access/
+sidebar: frontend
 question: Can you reach anything that’s interactive using the tab key?
 personas:
 - Maria has tendonitis and is unable to use a mouse; instead, she uses the keyboard to navigate the web.

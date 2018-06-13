@@ -2,6 +2,7 @@
 layout: primary
 title: Reference materials
 permalink: /content-design/reference-materials/
+sidebar: content
 question: Can you easily access supplementary information clarifying the content?
 personas:
 - Gilbert reads at a twelfth-grade level but isn’t familiar with the nuances of a site’s subject matter; to fully understand the site content, he needs easy-to-access contextual information.

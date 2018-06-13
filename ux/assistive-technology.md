@@ -2,6 +2,7 @@
 layout: primary
 title: Assistive technology
 permalink: /ux/assistive-technology/
+sidebar: ux
 ---
 
 ## Get familiar with the basic ways people use assistive technology.

@@ -2,6 +2,7 @@
 layout: primary
 title: Final review
 permalink: /product/final-review/
+sidebar: product
 ---
 
 ## Request a final review from an accessibility expert.

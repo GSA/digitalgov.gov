@@ -2,6 +2,7 @@
 layout: primary
 title: Getting started
 permalink: /front-end/getting-started/
+sidebar: frontend
 ---
 
 ## Accessibility for front-end developers

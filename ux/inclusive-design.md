@@ -2,6 +2,7 @@
 layout: primary
 title: Inclusive design
 permalink: /ux/inclusive-design/
+sidebar: ux
 ---
 
 ## Adopt an [inclusive design](http://inclusivedesignprinciples.org/) mentality.

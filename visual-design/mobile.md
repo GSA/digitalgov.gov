@@ -2,6 +2,7 @@
 layout: primary
 title: Mobile
 permalink: /visual-design/mobile/
+sidebar: visual
 question: Can you understand key information and perform critical tasks on a mobile device?
 personas:
 - Miyako just lost her job and canceled her home internet to stretch her budget. She only uses her cell phone to browse the internet.

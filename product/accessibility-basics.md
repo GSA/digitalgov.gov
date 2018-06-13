@@ -2,6 +2,7 @@
 layout: primary
 title: Accessibility basics
 permalink: /product/accessibility-basics/
+sidebar: product
 ---
 
 ## Learn the basics of accessibility and what your team does to make content accessible.

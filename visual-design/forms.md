@@ -2,6 +2,7 @@
 layout: primary
 title: Forms
 permalink: /visual-design/forms/
+sidebar: visual
 question: Are forms as simple as possible and only ask what’s needed to complete the task? Can you successfully complete the form?
 personas:
 - Mateo is in a hurry to fill out a medical insurance form for his sick daughter.

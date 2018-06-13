@@ -2,6 +2,7 @@
 layout: primary
 title: Color and contrast
 permalink: /front-end/color-and-contrast/
+sidebar: frontend
 question: Is there enough contrast between text and its background color?
 personas:
 - Esther has low vision and needs content to have enough contrast to read it. 

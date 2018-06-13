@@ -2,6 +2,7 @@
 layout: primary
 title: Scannable content
 permalink: /content-design/scannable-content/
+sidebar: content
 question: Can you scan the page without having to pause for long passages? Can you quickly grasp the meaning of a section based on its heading?
 personas:
 - Jerrold has a cognitive disability that makes it difficult for him to read long, uninterrupted passages of text. 

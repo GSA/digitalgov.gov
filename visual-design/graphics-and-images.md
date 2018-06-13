@@ -2,6 +2,7 @@
 layout: primary
 title: Graphics and images
 permalink: /visual-design/graphics-and-images/
+sidebar: visual
 question: Can you easily understand content associated with graphics, icons, and images?
 personas:
 - Marisa primarily uses her mobile device to browse websites and has trouble interpreting visualizations with small text.
