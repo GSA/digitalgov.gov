@@ -7,7 +7,7 @@ notice: in-progress
 type: guide
 guidenav: termsofservice
 summary: 'The list of free tools that have federal-compatible terms of service agreements.'
-deck: 'The list of free tools that have federal-compatible terms of service agreements.'
+deck: 'A list of free tools that have federal-compatible terms of service agreements.'
 aliases:
   - /resources/chatwing-federal-terms-of-service/
   - /resources/classmarker-federal-terms-of-service/
@@ -42,22 +42,16 @@ aliases:
 
 See [complete implementation guidance]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") on the main Terms of Service page.
 
-## Compatible Tools
+## Federal Compatible Terms of Service
 
-The list of free tools and services that have federal-compatible Terms of Service agreements.
+This is a list of free tools and services that have federal-compatible Terms of Service agreements. 
 
-_Keep in mind that even though a tool may be on the list, your agency may not have agreed to the TOS for that tool. The federal government doesn&#8217;t endorse, sponsor or recommend the products or services on this site or consider them to be superior to any other products or services._
+_Keep in mind that even though a tool may be on the list, your agency may not have agreed to the TOS for that tool. The federal government doesn&#8217;t endorse, sponsor or recommend the products or services on this site or consider them to be superior to any other products or services. Questions? Send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)_
 
 {{< termsofservice-compatible >}}
 
-## No-longer compatible tools
+## No-longer Compatible Terms of Service
 
-The list of free tools and services that have declined to provide federal-compatible Terms of Service agreements, but had them in the past.
+The list of free tools and services that have stopped providing federal-compatible Terms of Service agreements, but had them in the past.
 
 {{< termsofservice-not-compatible >}}
-
-## Closed Tools
-
-This is the list of free tools and services that have closed, folded, or no longer exist.
-
-{{< termsofservice-closed >}}
