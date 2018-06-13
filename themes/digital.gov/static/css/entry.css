@@ -58,42 +58,47 @@
 
 .entry-meta .last_commit {
 	margin: 0;
-	display: none;
 	position: relative;
 	top: -3px;
 }
 .entry-meta .last_commit a{
 	text-decoration: underline;
 }
-.entry-meta .feedback{
+.entry-meta p.feedback{
+	margin-bottom: 0 !important;
 	font-weight: bold;
 	margin-bottom: 16px;
 }
 
 
 /*Edit File button on posts/pages/events*/
-.entry-meta a.edit_file{
-	margin-right: 2px;
+.entry-meta .edit_file{
+	margin-top: 10px;
+}
+.entry-meta .edit_file .edit_file_link{
+	margin-right: 7px;
 	padding: 4px 7px 1px 6px;
 	line-height: 16px;
 	display: inline-block;
-	background: #222;
+	background: #333;
 	border-radius: 4px;
 	color:#fff !important;
+	position: relative;
+	top:3px;
 }
-.entry-meta a.edit_file span{
+.entry-meta .edit_file .edit_file_link span{
 	position: relative;
 	top:-4px;
 	font-weight: bold;
 	font-family: Ariel, sans-serif;
 	font-size: 14px;
 }
-#wrap .entry-meta a.edit_file img{
+#wrap .entry-meta .edit_file .edit_file_link img{
 	display: inline;
 	margin-right: 5px;
 	height: 18px;
 }
-.entry-meta a.edit_file:hover{
+.entry-meta .edit_file .edit_file_link:hover{
 	background: #000;
 }
 
@@ -131,7 +136,7 @@
 
 .guide .notice{
 	margin-bottom: 30px;
-	padding: 7px 15px 9px 15px;
+	padding: 12px 18px 12px 18px;
 	border: 5px #fdd430 solid;
 	background: #fff;
 	background: rgba(252, 212, 48, .1);
@@ -139,10 +144,7 @@
 	font-size: 1em;
 }
 .guide .notice p{
-	margin: 0;
-}
-.guide .notice .last_commit{
-	color: #666;
+	margin: 0 0 3px 0;
 }
 
 
@@ -156,8 +158,8 @@
 		width:auto;
 		float: left;
 	}
-	.last_commit a.edit_file{
-		display: none;
+	.last_commit{
+		/* display: none; */
 	}
 	.guide .entry-head{
 		margin-bottom: 40px;
