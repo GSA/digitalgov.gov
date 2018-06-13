@@ -24,7 +24,7 @@ function build_edit_file_link(){
 		// Build the edit link
 		var edit = [
 			"<a target='_blank' class='edit_file_link' href='"+filepathURL+"' title='Edit in GitHub'>",
-				"<img src='/img/GitHub-Mark-Light-32px.png' alt='GitHub Logo'><span>Edit</span>",
+				"Edit",
 			"</a>"
 		].join("\n");
 
@@ -52,7 +52,7 @@ get_commit_data(filepath);
 function show_last_commit(data){
 	var commit_date = data[0]['commit']['committer']['date'];
 	var commit_author = data[0]['author']['login'];
-	var commit_author_url = 'https://github.com/';
+	var commit_author_url = 'https://github.com/' + commit_author;
 	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/master/content/' + filepath;
 	var last_commit = [
 		"Last updated by",
