@@ -33,13 +33,13 @@
 
     <div class="entry-content">
       {{ if .Params.notice }}
-        {{ partial "page-notice" (dict "page" .  "page_type" "guide" "notice" .Params.notice) }}
+        {{ partial "page-notice" (dict "page" .  "page_type" "guide" "notice" .Params.notice ) }}
       {{ end }}
 
       {{ .Content }}
     </div>
 
-    {{ partial "post-meta--feedback" (dict "page" . "page_type" "guide" "repo" .Site.Params.repo) }}
+    {{ partial "post-meta--feedback" (dict "page" . "page_type" "guide" ) }}
 
   </div>
 
