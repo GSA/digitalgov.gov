@@ -69,7 +69,7 @@ Looking for overall digital policy guidance? See the <a href="{{< link "checklis
 
 ## Design
 
-*   [U.S. Web Design Standards](https://standards.usa.gov/)
+*   [U.S. Web Design System](https://designsystem.digital.gov/)
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
 
 
