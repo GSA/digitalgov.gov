@@ -159,8 +159,8 @@
     git_org          = {{ .Site.Params.git_org }};
     git_repo         = {{ .Site.Params.git_repo }};
     filepath         = {{ .File.Path }};
-    filepathURL      = 'https://github.com/{{ .Site.Params.git_org }}/{{ .Site.Params.git_repo }}/edit/master/content/{{ .File.Path }}';
-    commit_api_path  = 'https://api.github.com/repos/{{ .Site.Params.git_org }}/{{ .Site.Params.git_repo }}/commits?path=/content/{{ .File.Path }}';
+    filepathURL      = {{ printf "https://github.com/%s/%s/edit/master/content/%s" $.Site.Params.git_org $.Site.Params.git_repo $.File.Path }};
+    commit_api_path  = {{ printf "https://api.github.com/repos/%s/%s/commits?path=/content/%s" $.Site.Params.git_org $.Site.Params.git_repo $.File.Path }};
   </script>
 
 
