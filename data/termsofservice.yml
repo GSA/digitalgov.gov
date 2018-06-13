@@ -7,7 +7,6 @@
 # - web
 
 # status:
-# - closed = company has closed or no longer exists
 # - not-compatible = company no longer has a govt approved TOS
 # - [blank] = company has a govt approved TOS (preferred)
 # - compatible = company has a govt approved TOS
@@ -36,7 +35,7 @@ termsofservice:
     uri          : 'https://asana.com/terms#amendment'
     type          : web
     updated       :
-    status        : closed
+    status        : not-compatible
 
   - name          : 'Bing'
     url           : http://www.bing.com/
@@ -264,7 +263,7 @@ termsofservice:
 
   - name          : IFTTT
     url           : http://www.ifttt.com/
-    description   : 'A tookkit for using/creating recipes for powerful data integrations'
+    description   : 'A toolkit for using/creating recipes for powerful data integrations'
     uri           : 'https://ifttt.com/terms_for_government_agencies'
     type          : web
     updated       :
@@ -668,7 +667,7 @@ termsofservice:
     uri           : '2014/07/4qsurvey-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
-    status        : closed
+    status        : not-compatible
 
   - name          : Bitly
     url           : https://bitly.com/
