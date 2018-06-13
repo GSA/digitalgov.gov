@@ -28,6 +28,9 @@
 	width: 650px;
 	display: inline-block;
 }
+.entry-content .image img{
+	margin:0;
+}
 
 .entry-content .deck{
 	margin-bottom: 21px;

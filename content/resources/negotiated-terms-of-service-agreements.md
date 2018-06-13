@@ -44,7 +44,7 @@ See [complete implementation guidance]({{< link "federal-compatible-terms-of-ser
 
 ## Federal Compatible Terms of Service
 
-This is a list of free tools and services that have federal-compatible Terms of Service agreements. 
+This is a list of free tools and services that have federal-compatible Terms of Service agreements.
 
 _Keep in mind that even though a tool may be on the list, your agency may not have agreed to the TOS for that tool. The federal government doesn&#8217;t endorse, sponsor or recommend the products or services on this site or consider them to be superior to any other products or services. Questions? Send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)_
 
