@@ -16,17 +16,28 @@ $( window ).resize(function() {
 });
 
 
-// Transforms the Edit link on posts/pages/events to point to the GitHub file
-function transform_edit_file_link(){
-	// If there is an edit link on the page
-	if ( $('.entry .edit_file').length ) {
-		var data = $('.edit_file'); // get the edit link data
-		var filepath = $(data).attr('data-filepath'); // the filename in GitHub
-		var github_file_path = 'https://github.com/GSA/digitalgov.gov/edit/master/content/'+filepath;
-		$(data).attr('href', github_file_path);
+// Builds the Edit link on posts/pages/events to point to the GitHub file
+function build_edit_file_link(){
+	// Check to see if there is an edit div on the page
+	var edit_file = $('.entry .edit_file');
+	if ($(edit_file).attr('data-filepath')) {
+	  var filepath = $(edit_file).attr('data-filepath'); // // get the edit link data, which is the filename in GitHub
+
+		// Build the edit link
+		var edit = [
+			"<a target='_blank' class='edit_file_link' href='"+filepath+"' title='Edit in GitHub'>",
+				"<img src='/img/GitHub-Mark-Light-32px.png' alt='GitHub Logo'><span>Edit</span>",
+			"</a>"
+		].join("\n");
+
+		// Insert the .edit_file_link html into the .edit_file div and remove the .hidden class
+		$(edit_file).html(edit).removeClass('hidden');
 	}
 }
-transform_edit_file_link();
+build_edit_file_link();
+
+
+
 
 var filepath = $('.last_commit').attr('data-filepath');
 
@@ -39,6 +50,7 @@ function get_commit_data(filepath){
 		 	dataType: 'json',
 		}).done(function(data) {
 			if (typeof data !== 'undefined' && data.length > 0) {
+				console.log(data);
 				show_last_commit(data)
 			}
 		});
@@ -51,9 +63,20 @@ function show_last_commit(data){
 	var commit_author = data[0]['author']['login'];
 	var commit_author_url = 'https://github.com/';
 	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/master/content/' + filepath;
-	$('.last_commit .commit-date').text(getFormattedDate(commit_date)).wrap('<a href="'+commit_history_url+'"></a>');
-	$('.last_commit .commit-author').text(commit_author).wrap('<a href="'+commit_author_url+''+commit_author+'"></a>');
-	$('.last_commit').css('display', 'inline-block');
+	var edit_file = $('.entry .edit_file');
+	console.log(edit_file);
+	var last_commit = [
+		"Last updated by",
+			"<a href="+commit_author_url+" title="+commit_author+">",
+				"<span class='commit-author'>"+commit_author+"</span>",
+			"</a> on ",
+			"<a href="+commit_history_url+">",
+				"<span class='commit-date'>"+getFormattedDate(commit_date)+"</span>",
+			"</a>",
+		""
+	].join("\n");
+	console.log(last_commit);
+	$(edit_file).append(last_commit).removeClass('hidden');
 }
 
 
