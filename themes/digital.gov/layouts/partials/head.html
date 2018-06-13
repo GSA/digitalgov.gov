@@ -154,5 +154,15 @@
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
+  <!-- GitHub -->
+  <script type="text/javascript">
+    git_org          = {{ .Site.Params.git_org }};
+    git_repo         = {{ .Site.Params.git_repo }};
+    filepath         = {{ .File.Path }};
+    filepathURL      = 'https://github.com/{{ .Site.Params.git_org }}/{{ .Site.Params.git_repo }}/edit/master/content/{{ .File.Path }}';
+    commit_api_path  = 'https://api.github.com/repos/{{ .Site.Params.git_org }}/{{ .Site.Params.git_repo }}/commits?path=/content/{{ .File.Path }}';
+  </script>
+
+
   {{ partial "head--custom-css.html" . }}
 </head>
