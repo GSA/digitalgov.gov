@@ -118,17 +118,25 @@ function format_toc(hash){
 			$(li).attr('title', t).attr('name', a).attr('class', c);
     });
 	});
-	var num = $('nav#TableOfContents ul:first-child > li').size();
-	var rem = num - 4;
+
+	// checks if it is a mobile browser
 	if (mobile_check() == true) {
-		console.log('mobile yes');
-		$('nav#TableOfContents ul:first-child > li').slice(-rem).addClass("ex");
-		$('<li class="more"><a href="#" title="">+ '+rem+' more »</a></li>').appendTo($('#TableOfContents ul:first-child'));
+		console.log('mobile device');
+		var num = $('nav#TableOfContents ul:first-child > li').size();
+
+		// if the number of H2 items in the in-page nav is greater than 6
+		// then truncate the list after 4 items, by adding the .ex class to the additional <li> tags in the nav
+		if (num > 6) {
+			var rem = num - 4;
+			$('nav#TableOfContents ul:first-child > li').slice(-rem).addClass("ex");
+			// If greater than 6, the show / hide button appears as the last item in the list
+			$('<li class="more"><a href="#" title="">+ '+rem+' more »</a></li>').appendTo($('#TableOfContents ul:first-child'));
+		}
+
 	} else {
-		console.log('mobile no');
+		console.log('not a mobile device');
 	}
 }
-
 
 // Looks out for a click on the in-page nav
 $("#TableOfContents li a").click(function() {
