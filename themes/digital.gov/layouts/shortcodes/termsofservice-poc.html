@@ -1,12 +1,25 @@
 <table class="tos-poc">
   <tr>
+    <th>Cabinet</th>
     <th>Name</th>
-    <th>Agency</th>
   </tr>
   {{ range .Site.Data.termsofservicepoc.cabinet }}
   <tr>
-    <td>{{ .person }} - <a href="mailto:{{ .email }}" title="Email {{ .person }}">{{ .email }}</a></td></td>
     <td>{{ .agency }}</td>
+    <td>{{ .person }} - <a href="mailto:{{ .email }}" title="Email {{ .person }}">{{ .email }}</a></td></td>
+  </tr>
+  {{ end }}
+</table>
+
+<table class="tos-poc">
+  <tr>
+    <th>Non-Cabinet</th>
+    <th>Name</th>
+  </tr>
+  {{ range .Site.Data.termsofservicepoc.noncabinet }}
+  <tr>
+    <td>{{ .agency }}</td>
+    <td>{{ .person }} - <a href="mailto:{{ .email }}" title="Email {{ .person }}">{{ .email }}</a></td></td>
   </tr>
   {{ end }}
 </table>
