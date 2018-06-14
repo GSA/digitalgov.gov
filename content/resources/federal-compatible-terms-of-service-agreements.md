@@ -15,7 +15,7 @@ deck: "A guide to the agreements negotiated between the federal government and v
 
 Digital media is key to helping federal agencies engage with their customers and accomplish their mission. However, the standard Terms of Service (or Terms of Use) for most free digital products and services are incompatible with federal law, regulation, or practice.
 
-To meet this need, a coalition of federal agencies, led by GSA, works with a broad range of providers of no-cost social and digital media products to develop amended, federally compatible TOS agreements. GSA leads this effort to reduce the need for dozens of agencies to negotiate TOS agreements and to streamline negotiations with vendors through a single [Point-of-Contact (POC)]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}).
+To meet this need, a coalition of federal agencies, led by GSA, works with a broad range of providers of no-cost social and digital media products to develop amended, federally compatible TOS agreements. GSA leads this effort to reduce the need for dozens of agencies to negotiate TOS agreements and to streamline negotiations with vendors through a single [point of contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}).
 
 While these TOS amendments resolve the major legal issues of the sign-up process, agencies must still comply with laws and regulations on security, privacy, accessibility, records retention, ethical use, and other specific agency policies and requirements when using the tools.
 
@@ -23,7 +23,7 @@ While these TOS amendments resolve the major legal issues of the sign-up process
 
 Agencies who develop native applications for specific devices need to sign Terms of Service Agreements with the mobile product companies. These Terms of Service have two parts: a developer agreement and a distribution agreement. The developer agreement allows the agency to access that platform’s software and tools to develop applications. Once the application is completed, the distribution agreement allows agencies to offer their completed application to customers for free.
 
-Federal friendly Terms of Service for distribution agreements have been negotiated with Amazon Appstore and BlackBerry App World. Please contact your agency [TOS POC]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") or <socialmediaapps@gsa.gov> with questions about Apple and Google Play.
+Federal friendly Terms of Service for distribution agreements have been negotiated with Amazon Appstore and BlackBerry App World. Please contact your agency [TOS point of contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") or <socialmediaapps@gsa.gov> with questions about Apple and Google Play.
 
 ## How to Implement
 
@@ -33,24 +33,24 @@ If you’re a federal employee, follow these steps (or [download our easy step-b
 
   2.  **See what’s available**: Consult the list of free products and services with federal TOS agreements. Keep in mind that even though a tool may be on the list, your agency may not have approved the TOS for that tool. Each agency considers its own policies, needs, expectations and practices, and conducts a legal review, before signing agreements. Among other sources, your agency counsel may want to review the [OMB Memorandum M–13–10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) regarding implications of certain online Terms of Service agreements.
 
-  3.  **Work with your agency POC**: Before you decide to use a tool, work with your agency’s Point-of-Contact for social media tools and your general counsel for other tools and services. This person will discuss your social media requirements and explain what already exists to meet your needs, including any TOS agreements that have been signed by your agency. This is also the person who works with your agency’s attorneys to determine if any new Terms of Service agreements are needed.
+  3.  **Work with your agency point of contact**: Before you decide to use a tool, work with your agency’s Point-of-Contact for social media tools and your general counsel for other tools and services. This person will discuss your social media requirements and explain what already exists to meet your needs, including any TOS agreements that have been signed by your agency. This is also the person who works with your agency’s attorneys to determine if any new Terms of Service agreements are needed.
 
-  4.  **If approved, create an account**: If your agency POC approves and your agency has a signed TOS for that tool, you can work with your agency POC to set up your new account.
+  4.  **If approved, create an account**: If your agency point of contact approves and your agency has a signed TOS for that tool, you can work with your agency point of contact to set up your new account.
 
   5.  **Put accounts in the Social Media Registry**: GSA created a federal-wide social media registry to help agencies inventory all their social media accounts and give the public a way to validate official social media accounts.
 
 Agencies should note that because these products and services are free and don&#8217;t involve agency appropriated funds, the agreements are not considered to be government contracts nor are they procurements under the Federal Acquisition Regulation (FAR). In contrast, fee–based products fall under all federal procurement rules and regulations, and are not included in this process.
 
-## For Federal Agency POCs
+## For Federal Agency Points of Contact
 
-If you’re an agency POC, the [OMB Memorandum M–13–10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) outlines the following steps that agencies should follow:
+If you’re an agency point of contact, the [OMB Memorandum M–13–10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) outlines the following steps that agencies should follow:
 
   1. Conduct an inventory of social media applications currently in use at your agency.
   2. Publish your social media inventory with corresponding TOS at &#8220;agency.gov/socialmediaTOS&#8221;.
   3. If your agency identifies a TOS that includes an open-ended indemnification clause, work with your legal team to renegotiate the TOS.
   4. Provide an update to [DigitalGov](mailto:digitalgov@gsa.gov) regarding any TOS your agency is negotiating. Coordinating with GSA ensures we are not duplicating efforts.
 
-For guidance on managing your TOS agreements and vendor contact information, visit the [Terms of Service Information for POCs on the MAX wiki](https://login.max.gov/cas/login?service=https%3A%2F%2Fmax.omb.gov%2Fcommunity%2Flogin.action%3Fos_destination%3D%252Fpages%252Fviewpage.action%253FpageId%253D610147341).
+For guidance on managing your TOS agreements and vendor contact information, visit the [Terms of Service Information for points of contact on the MAX wiki](https://login.max.gov/cas/login?service=https%3A%2F%2Fmax.omb.gov%2Fcommunity%2Flogin.action%3Fos_destination%3D%252Fpages%252Fviewpage.action%253FpageId%253D610147341).
 
 ## For State and Local Governments
 
