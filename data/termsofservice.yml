@@ -59,7 +59,7 @@ termsofservice:
     uri           : '2014/07/bliptv-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
-    status        :
+    status        : not-compatible
 
   - name          : 'CartoDB'
     url           : http://www.cartodb.com/
@@ -717,46 +717,26 @@ termsofservice:
     updated       :
     status        : not-compatible
 
+  - name          : MeetUp Everywhere
+    url           : http://www.meetup.com/everywhere/
+    description   : Social networking platform
+    uri           : '/2014/01/meetup-everywhere-tos-amendment.pdf'
+    type          : pdf
+    updated       : 2014-01
+    status        : not-compatible
 
-#   <tr>
-#     <td style="text-align: left;vertical-align: top;border: none">
-#       <a title="MeetUp" href="http://www.meetup.com/everywhere/">MeetUp Everywhere</a>
-#     </td>
-#
-#     <td style="text-align: left;vertical-align: top;border: none">
-#       Social networking platform
-#     </td>
-#
-#     <td style="text-align: left;vertical-align: top;border: none">
-#       <a title="MeetUp Terms of Service (TOS) Amendment" href="{{< legacy-file "/2014/01/meetup-everywhere-tos-amendment.pdf" >}}">MeetUp Everywhere TOS (PDF)</a>
-#     </td>
-#   </tr>
-#
-#   <tr>
-#     <td style="text-align: left;vertical-align: top;border: none">
-#       <a title="U stream" href="http://www.ustream.com/">Ustream.tv</a>
-#     </td>
-#
-#     <td style="text-align: left;vertical-align: top;border: none">
-#       Video broadcasting platform
-#     </td>
-#
-#     <td style="text-align: left;vertical-align: top;border: none">
-#       Ustream no longer has a free service. Contact Ustream to discuss amendments for their Pro and Enterprise plans
-#     </td>
-#   </tr>
-#
-#   <tr>
-#     <td style="text-align: left;vertical-align: top;border: none">
-#       <a title="User Voice" href="http://www.uservoice.com/">UserVoice</a>
-#     </td>
-#
-#     <td style="text-align: left;vertical-align: top;border: none">
-#       Voting, customer & constituent feedback
-#     </td>
-#
-#     <td style="text-align: left;vertical-align: top;border: none">
-#       <a title="User Voice Terms of Service" href="https://www.uservoice.com/tos/federal/">UserVoice TOS</a> User Voice no longer offers a “free” civic engagement option
-#     </td>
-#   </tr>
-# </table>
+  - name          : 'Ustream.tv'
+    url           : 'http://www.ustream.com/'
+    description   : Video broadcasting platform
+    uri           :
+    type          :
+    updated       :
+    status        : not-compatible
+
+  - name          : User Voice
+    url           : http://www.uservoice.com/
+    description   : 'Voting, customer & constituent feedback'
+    uri           : https://www.uservoice.com/tos/federal/
+    type          : web
+    updated       :
+    status        : not-compatible
