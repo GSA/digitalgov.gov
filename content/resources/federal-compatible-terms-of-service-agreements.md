@@ -72,7 +72,7 @@ If you are such a provider, see the guidance about how to express interest in of
 
 Tool and service providers interested in engaging in Terms of Service discussions with NASCIO, should [review its open letter to providers](http://www.nascio.org/advocacy/current/NASCIO-SM-Legal-WG-Open-Letter-to-Providers-Final.pdf) for background and contact information.
 
-## Resources
+## Additional Resources
 
   * Find your agency&#8217;s [Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
   * View the list of negotiated [Terms of Service agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
