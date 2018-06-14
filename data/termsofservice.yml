@@ -7,7 +7,7 @@
 # - web
 
 # status:
-# - not-compatible = company no longer has a govt approved TOS
+# - inactive = company no longer has a govt approved TOS
 # - [blank] = company has a govt approved TOS (preferred)
 # - compatible = company has a govt approved TOS
 
@@ -35,7 +35,7 @@ termsofservice:
     uri          : 'https://asana.com/terms#amendment'
     type          : web
     updated       :
-    status        : not-compatible
+    status        : inactive
 
   - name          : 'Bing'
     url           : http://www.bing.com/
@@ -59,7 +59,7 @@ termsofservice:
     uri           : '2014/07/bliptv-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
-    status        : not-compatible
+    status        : inactive
 
   - name          : 'CartoDB'
     url           : http://www.cartodb.com/
@@ -667,7 +667,7 @@ termsofservice:
     uri           : '2014/07/4qsurvey-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
-    status        : not-compatible
+    status        : inactive
 
   - name          : Bitly
     url           : https://bitly.com/
@@ -675,7 +675,7 @@ termsofservice:
     uri           :
     type          : web
     updated       :
-    status        : not-compatible
+    status        : inactive
 
   - name          : CoolIris
     url           : http://www.cooliris.com/
@@ -683,7 +683,7 @@ termsofservice:
     uri           :
     type          : web
     updated       : 2015-01
-    status        : not-compatible
+    status        : inactive
 
   - name          : CrowdHall
     url           : https://www.crowdhall.com/
@@ -691,7 +691,7 @@ termsofservice:
     uri           : https://api.crowdhall.com/auth/about/terms_federal
     type          : web
     updated       :
-    status        : not-compatible
+    status        : inactive
 
   - name          : Google Moderator
     url           : http://www.google.com/moderator/#0
@@ -699,7 +699,7 @@ termsofservice:
     uri           : '2014/07/google-moderator-tos-amendment.pdf'
     type          : pdf
     updated       :
-    status        : not-compatible
+    status        : inactive
 
   - name          : Google Webmaster Tools
     url           : https://www.google.com/webmasters/tools/
@@ -707,7 +707,7 @@ termsofservice:
     uri           : '2014/07/google-webmaster-tools-tos-amendment.pdf'
     type          : pdf
     updated       :
-    status        : not-compatible
+    status        : inactive
 
   - name          : Mandrill
     url           : http://mandrill.com
@@ -715,7 +715,7 @@ termsofservice:
     uri           : http://mandrill.com/amended-government-terms
     type          : web
     updated       :
-    status        : not-compatible
+    status        : inactive
 
   - name          : MeetUp Everywhere
     url           : http://www.meetup.com/everywhere/
@@ -723,7 +723,7 @@ termsofservice:
     uri           : '/2014/01/meetup-everywhere-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-01
-    status        : not-compatible
+    status        : inactive
 
   - name          : 'Ustream.tv'
     url           : 'http://www.ustream.com/'
@@ -731,7 +731,7 @@ termsofservice:
     uri           :
     type          :
     updated       :
-    status        : not-compatible
+    status        : inactive
 
   - name          : User Voice
     url           : http://www.uservoice.com/
@@ -739,4 +739,4 @@ termsofservice:
     uri           : https://www.uservoice.com/tos/federal/
     type          : web
     updated       :
-    status        : not-compatible
+    status        : inactive

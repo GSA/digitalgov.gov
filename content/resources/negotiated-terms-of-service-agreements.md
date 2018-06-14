@@ -50,8 +50,8 @@ _Keep in mind that even though a tool may be on the list, your agency may not ha
 
 {{< termsofservice-compatible >}}
 
-## No-longer Compatible Terms of Service
+## Inactive Agreements
 
 The list of free tools and services that have stopped providing federal-compatible Terms of Service agreements, but had them in the past.
 
-{{< termsofservice-not-compatible >}}
+{{< termsofservice-inactive >}}
