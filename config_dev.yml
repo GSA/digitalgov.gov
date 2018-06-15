@@ -45,6 +45,8 @@ blackfriday:
 params:
   description: "We’re building a modern government, together."
   cdnurl: "https://s3.amazonaws.com/digitalgov"
+  git_org: "GSA"
+  git_repo: "digitalgov.gov"
   devmode: true
 
 permalinks:

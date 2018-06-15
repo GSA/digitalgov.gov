@@ -1,0 +1,12 @@
+<table class="tos-poc" data-filepath="termsofservicepoc">
+  <tr>
+    <th>Agency</th>
+    <th>Point of Contact</th>
+  </tr>
+  {{ range .Site.Data.termsofservicepoc.cabinet }}
+  <tr>
+    <td>{{ .agency }}</td>
+    <td>{{ .person }} - <a href="mailto:{{ .email }}" title="Email {{ .person }}">{{ .email }}</a></td></td>
+  </tr>
+  {{ end }}
+</table>

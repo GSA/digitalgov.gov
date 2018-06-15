@@ -55,10 +55,10 @@ The program consists of:
 
 Any federal agency can sign up to use the common Web analytics tool. Here&#8217;s how it works:
 
-  * Agencies define a DAP point of contact (POC).
-  * GSA will send the agency POC a short, sign-up form to register their agency and work with them to implement the common page tag code.
-  * GSA will provide implementation support, access to training, and other resources to agency POCs.
-  * If you don&#8217;t have an identified POC, [send us an email](mailto:dap@support.digitalgov.gov).
+  * Agencies define a DAP point of contact.
+  * GSA will send the agency point of contact a short, sign-up form to register their agency and work with them to implement the common page tag code.
+  * GSA will provide implementation support, access to training, and other resources to agency points of contact.
+  * If you don&#8217;t have an identified point of contact, [send us an email](mailto:dap@support.digitalgov.gov).
 
 ## Gaining access to DAP
 
