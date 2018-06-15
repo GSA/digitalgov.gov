@@ -13,25 +13,25 @@ Are you interested in rebalancing grants compliance efforts with a focus on resu
 
 If so, join our community!
 
- * **Federal** members: to join, use your **.gov** or **.mil** email address to [email grantsfed@listserv.gsa.gov](mailto:grantsfed@listserv.gsa.gov?subject=Federal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
- * **Non-federal** members: to join, [email grantscommunity@listserv.gsa.gov](mailto:grantscommunity@listserv.gsa.gov?subject=Non%2DFederal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
+* **Federal** members: to join, use your **.gov** or **.mil** email address to [email grantsfed@listserv.gsa.gov](mailto:grantsfed@listserv.gsa.gov?subject=Federal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
+* **Non-federal** members: to join, [email grantscommunity@listserv.gsa.gov](mailto:grantscommunity@listserv.gsa.gov?subject=Non%2DFederal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
 
 ## Who we are
 
-Our community consist of grants managers from federal, state, and local government, tribes, researchers, non-profits, and academia, who steward over $700 billion in grants funding through more than 1,800 diverse federal grants programs. We engage public-private stakeholders to develop best practices that modernized grants management and balance compliance requirements with results.
+Our community consist of grants managers from federal, state, and local government, tribes, researchers, non-profits, and academia, who steward over $700 billion in grants funding through more than 1,800 diverse federal grants programs. We engage public and private stakeholders to develop best practices that modernize grants management, and to balance compliance requirements with results.
 
 ## What we do
 
 {{< img src="presidents-managment-agenda" >}}
 
-Federal grants touch every aspect of the American economy. From funding research, to advancing education, housing and infrastructure programs, federal grants stimulate growth that moves the nation forward!
+Federal grants touch every aspect of the American economy. From funding research, to advancing education, housing and infrastructure programs, federal grants stimulate growth that moves our nation forward.
 
-Our community engages stakeholders around the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA), and the [Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal](https://www.performance.gov/CAP/CAP_goal_8.html). We are committed to rebalancing compliance efforts with a focus on results for the American taxpayer; standardizing grant reporting data and improving data collection in ways that will increase efficiency and promote evaluation, while reducing reporting burden.
+This community will offer a space for you to discuss common challenges and solutions surrounding Federal grants – whether you administer funds from inside the Federal government, or are from an external organization that receives Federal funds.
 
-We host a Listserv for members to join the discussion, ask questions, and propose innovative opportunities that support the broader mission to modernize current grants management practices.
+As the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA) seeks to drive more [results-oriented accountability for grants](https://www.performance.gov/CAP/CAP_goal_8.html) across federal agencies, this community will enable you to ask questions, enter into discussions, and propose innovative solutions with people across local, federal, state and tribal governments, higher education and research institutions, nonprofits and more.
 
 ## Key resources
 
- * [CFO Council Grants](https://www.cfo.gov/grants/)
- * [Performance.gov](https://www.performance.gov)
-   * [Results-Oriented Accountability for Grants Action Plan](https://www.performance.gov/CAP/CAP_goal_8.html)
+* [Results-Oriented Accountability for Grants Action Plan](https://www.performance.gov/CAP/CAP_goal_8.html)
+* [Performance.gov](https://www.performance.gov)
+* [CFO Council Grants](https://www.cfo.gov/grants/)
