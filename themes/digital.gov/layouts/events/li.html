@@ -10,7 +10,7 @@
 
   <!-- Event Meta -->
   <div class="event-details">
-    <span class="event-date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span>
+    <span class="event-date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM EST" .Params.end_date }}</span>
     {{ partial "event-type.html" . }}
     <p class="summary">{{ .Params.summary | markdownify }}</p>
   </div>

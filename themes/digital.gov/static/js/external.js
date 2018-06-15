@@ -84,7 +84,7 @@ function getFormattedDate(d) {
 	minutes = minutes.length > 1 ? minutes : '0' + minutes;
 	var seconds = date.getUTCSeconds().toString();
 	var ampm = hours >= 12 ? 'pm' : 'am';
-	var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ampm + ' ET';
+	var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ampm + ' EST';
   return date_string;
 }
 
