@@ -14,4 +14,10 @@ If your agency is part of a larger agency, your contact will be at the larger ag
 
 If your agency isn’t listed below, contact [the Digial.gov team](#feedback) and we will add your point of contact to the list.
 
-{{< termsofservice-poc >}}
+## Cabinet
+
+{{< termsofservice-poc-cabinet >}}
+
+## Non-Cabinet
+
+{{< termsofservice-poc-noncabinet >}}
