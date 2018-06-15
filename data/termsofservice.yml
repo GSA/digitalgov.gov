@@ -695,7 +695,7 @@ termsofservice:
 
   - name          : Google Moderator
     url           : http://www.google.com/moderator/#0
-    description   : 'Social commenting & discussion'
+    description   : '(Has been retired) Social commenting & discussion.'
     uri           : '2014/07/google-moderator-tos-amendment.pdf'
     type          : pdf
     updated       :
@@ -703,18 +703,18 @@ termsofservice:
 
   - name          : Google Webmaster Tools
     url           : https://www.google.com/webmasters/tools/
-    description   : Analytics and search engine optimization
+    description   : 'Analytics and search engine optimization — Google Webmaster Tools has decided not to sign up any new agencies but will honor existing agreements.'
     uri           : '2014/07/google-webmaster-tools-tos-amendment.pdf'
     type          : pdf
-    updated       :
+    updated       : 2013-10-18
     status        : inactive
 
   - name          : Mandrill
     url           : http://mandrill.com
-    description   : Transactional email service, by MailChimp
+    description   : Transactional email service, by MailChimp, now an add-on for paid monthly MailChimp accounts.
     uri           : http://mandrill.com/amended-government-terms
     type          : web
-    updated       :
+    updated       : 2016-03-16
     status        : inactive
 
   - name          : MeetUp Everywhere
@@ -727,7 +727,7 @@ termsofservice:
 
   - name          : 'Ustream.tv'
     url           : 'http://www.ustream.com/'
-    description   : Video broadcasting platform
+    description   : 'Video broadcasting platform. No longer a free service. Contact Ustream to discuss amendments for their Pro and Enterprise plans.'
     uri           :
     type          :
     updated       :
@@ -735,7 +735,7 @@ termsofservice:
 
   - name          : User Voice
     url           : http://www.uservoice.com/
-    description   : 'Voting, customer & constituent feedback'
+    description   : 'Voting, customer & constituent feedback. No longer offers a “free” civic engagement option.'
     uri           : https://www.uservoice.com/tos/federal/
     type          : web
     updated       :
