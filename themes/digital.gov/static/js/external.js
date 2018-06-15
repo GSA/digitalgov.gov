@@ -59,7 +59,7 @@ function show_last_commit(data){
 
 function getFormattedDate(d) {
 	var date = new Date(d);
-	date.setUTCHours(date.getUTCHours() - 5);
+	date.setUTCHours(date.getUTCHours() - 4);
 	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   var year = date.getUTCFullYear();
   var month = (date.getUTCMonth()).toString();
