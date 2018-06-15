@@ -9,7 +9,7 @@ summary: "Our community engages stakeholders around the President’s Management
 
 Are you interested in rebalancing grants compliance efforts with a focus on results for the American taxpayer? Would you like to see more standardization in grants reporting and an improvement in data collection for grants?
 
-If so, Join our community!
+If so, join our community!
 
  * **Federal** members: to join, use your **.gov** or **.mil** email address to [email grantsfed@listserv.gsa.gov](mailto:grantsfed@listserv.gsa.gov?subject=Federal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
  * **Non-federal** members: to join, [email grantscommunity@listserv.gsa.gov](mailto:grantscommunity@listserv.gsa.gov?subject=Non%2DFederal%20Join%3A%20Results%2DOriented%20Accountability%20for%20Grants%20Community%20of%20Practice).
