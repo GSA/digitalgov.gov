@@ -22,6 +22,7 @@ Join us for our next monthly call on **Friday, July 6, 2018 at 1:00 pm ET / 10:0
 This month, the [U.S. Web Design System](https://designsystem.digital.gov/) team will share what's coming up in USWDS version 2.0, which is set to launch later this summer.
 
 **Coming in USWDS 2.0**
+
 - New color palette
 - Smarter Typography
 - New Grid System
