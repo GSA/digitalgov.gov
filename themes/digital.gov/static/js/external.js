@@ -16,30 +16,33 @@ $( window ).resize(function() {
 });
 
 
-// Transforms the Edit link on posts/pages/events to point to the GitHub file
-function transform_edit_file_link(){
-	// If there is an edit link on the page
-	if ( $('.entry .edit_file').length ) {
-		var data = $('.edit_file'); // get the edit link data
-		var filepath = $(data).attr('data-filepath'); // the filename in GitHub
-		var github_file_path = 'https://github.com/GSA/digitalgov.gov/edit/master/content/'+filepath;
-		$(data).attr('href', github_file_path);
+// Builds the Edit link on posts/pages/events to point to the GitHub file
+function build_edit_file_link(){
+	// filepathURL is set the <head>
+	if (filepathURL !== undefined) {
+
+		// Build the edit link
+		var edit = [
+			"<a target='_blank' class='edit_file_link' href='"+filepathURL+"' title='Edit in GitHub'>",
+				"Edit",
+			"</a>"
+		].join("\n");
+
+		// Insert the .edit_file_link html into the .edit_file div and remove the .hidden class
+		$('.entry-meta .edit_file').html(edit).removeClass('hidden');
 	}
 }
-transform_edit_file_link();
+build_edit_file_link();
 
-var filepath = $('.last_commit').attr('data-filepath');
-
-function get_commit_data(filepath){
-	// https://api.github.com/repos/GSA/digitalgov.gov/commits?path=/content/about/about.md
-	if (filepath !== undefined) {
-		var commit_file_path = 'https://api.github.com/repos/GSA/digitalgov.gov/commits?path=/content/'+filepath;
+function get_commit_data(){
+	// commit_api_path is set the <head>
+	if (commit_api_path !== undefined) {
 		$.ajax({
-		  url: commit_file_path,
+		  url: commit_api_path,
 		 	dataType: 'json',
 		}).done(function(data) {
 			if (typeof data !== 'undefined' && data.length > 0) {
-				show_last_commit(data)
+				show_last_commit(data);
 			}
 		});
 	}
@@ -49,11 +52,21 @@ get_commit_data(filepath);
 function show_last_commit(data){
 	var commit_date = data[0]['commit']['committer']['date'];
 	var commit_author = data[0]['author']['login'];
-	var commit_author_url = 'https://github.com/';
+	var commit_author_url = 'https://github.com/' + commit_author;
 	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/master/content/' + filepath;
-	$('.last_commit .commit-date').text(getFormattedDate(commit_date)).wrap('<a href="'+commit_history_url+'"></a>');
-	$('.last_commit .commit-author').text(commit_author).wrap('<a href="'+commit_author_url+''+commit_author+'"></a>');
-	$('.last_commit p').css('display', 'inline-block');
+	var last_commit = [
+		"Last updated by",
+		"<a href="+commit_author_url+" title="+commit_author+">",
+			"<span class='commit-author'>"+commit_author+"</span>",
+		"</a> on ",
+		"<a href="+commit_history_url+">",
+			"<span class='commit-date'>"+getFormattedDate(commit_date)+"</span>",
+		"</a>",
+		""
+	].join("\n");
+	$('.last_commit').each(function(i, items_list) {
+		$(this).append(last_commit).removeClass('hidden');
+	});
 }
 
 
@@ -92,7 +105,7 @@ function mobile_check(){
 }
 
 function format_toc(hash){
-	$('#TableOfContents ul').each(function(i, items_list) {
+	$('.guide-nav #TableOfContents ul').each(function(i, items_list) {
 		$(items_list).find('li:first-child > a').each(function(j, li){
 			$(li).removeClass('active');
 			var t = $(li).html();
@@ -105,23 +118,37 @@ function format_toc(hash){
 			$(li).attr('title', t).attr('name', a).attr('class', c);
     });
 	});
-	var num = $('nav#TableOfContents ul:first-child > li').size();
-	var rem = num - 5;
+
+	// checks if it is a mobile browser
 	if (mobile_check() == true) {
-		console.log('mobile yes');
-		$('nav#TableOfContents ul:first-child > li').slice(-rem).addClass("ex");
-		$('<li class="more"><a href="#" title="">+ '+rem+' more »</a></li>').appendTo($('#TableOfContents ul:first-child'));
+		console.log('mobile device');
+		var num = $('nav#TableOfContents ul:first-child > li').size();
+
+		// if the number of H2 items in the in-page nav is greater than 6
+		// then truncate the list after 4 items, by adding the .ex class to the additional <li> tags in the nav
+		if (num > 6) {
+			var rem = num - 4;
+			$('nav#TableOfContents ul:first-child > li').slice(-rem).addClass("ex");
+			// If greater than 6, the show / hide button appears as the last item in the list
+			$('<li class="more"><a href="#" title="">+ '+rem+' more »</a></li>').appendTo($('#TableOfContents ul:first-child'));
+		}
+
 	} else {
-		console.log('mobile no');
+		console.log('not a mobile device');
 	}
 }
-
 
 // Looks out for a click on the in-page nav
 $("#TableOfContents li a").click(function() {
 	var hash = $(this).attr('id');
 	format_toc(hash);
 });
+
+if ($(".toc #TableOfContents").length > 0) {
+	$(".toc").show();
+} else{
+	$(".toc").hide();
+}
 
 // checks if there is a #hash in the URL on load. If so, it passes that along.
 if(window.location.hash) {

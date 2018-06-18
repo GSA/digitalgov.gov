@@ -49,14 +49,12 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **Dan Williams**, Designer<br/>
 **Andrea Sigritz**, Editor, User Research & Content Strategy<br/>
 **Toni Bonitto**, Editor, Platform & Content Production<br/>
-**Janelle Thalls**, Video Editor, Training & Education<br/>
 **Soncerray Bolling**, Video Editor, Training & Education
 
 ### The U.S. Web Design System Core Team
 
 **Dan Williams**, Product Owner<br/>
-**Maya Benari**, Designer<br/>
-**Brian Hurst**, Developer
+**Maya Benari**, Designer
 
 [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 
@@ -64,8 +62,10 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 
 ## Contact Us
 
+For all media inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
+
 **Have a question or comment?**
 
 - [Send us an email »](mailto:digitalgov@gsa.gov)
-- Create [an issue on GitHub](https://github.com/GSA/digitalgov.gov/issues)
+- [Create an issue on GitHub](https://github.com/GSA/digitalgov.gov/issues)
 - Or make an edit to our pages and submit a pull request

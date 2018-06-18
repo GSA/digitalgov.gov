@@ -17,7 +17,7 @@
     <!-- Check to see if the event is in the future -->
     {{ if ($t.After now) eq "true" }}
     <div class="chat-box">
-      <iframe allowfullscreen="" height="365px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=www.digitalgov.gov&output=embed" scrolling="auto"></iframe>
+      <iframe allowfullscreen="" height="400px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=digital.gov&output=embed" scrolling="auto"></iframe>
     </div>
     {{ end }}
   {{ else }}

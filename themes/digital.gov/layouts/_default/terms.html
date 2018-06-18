@@ -6,7 +6,7 @@
 {{ define "content" }}
   {{ $data := $.Site.Data }}
   <h1>{{ .Title }}</h1>
-  <p>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}.</p>
+  <h4>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}</h4>
 
   <ul>
     {{ if eq $.Data.Plural "authors" }}
@@ -15,13 +15,13 @@
         {{ $uid := $tax.Name | urlize }}
         {{ $author := index $data.people.authors $uid }}
           {{ $link := printf "authors/%s/" $uid }}
-          <li><a href="{{ $link | absURL }}" {{ if $author.uid }}style="color: black;"{{ end }}>{{ $author.display_name | default $uid }} <strong>({{ $tax.Count }})</strong></li>
+          <li><a href="{{ $link | absURL }}">{{ $author.display_name | default $uid }} ({{ $tax.Count }})</li>
       {{ end }}
     {{ else }}
       {{ range $tag, $title := index $data $.Data.Plural }}
         {{ $link := printf "%s/%s/" $.Data.Plural $tag }}
         {{ range $page := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag ) }}
-          <li><a href="{{ $link | absURL }}">{{ $title }} <strong>({{ $page.Count }})</strong></li>
+          <li><a href="{{ $link | absURL }}">{{ $title.display_name }} ({{ $page.Count }})</li>
         {{ end }}
       {{ end }}
     {{ end }}
