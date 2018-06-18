@@ -26,7 +26,7 @@ Our community consist of grants managers from federal, state, and local governme
 
 Federal grants touch every aspect of the American economy. From funding research, to advancing education, housing and infrastructure programs, federal grants stimulate growth that moves our nation forward.
 
-This community will offer a space for you to discuss common challenges and solutions surrounding Federal grants – whether you administer funds from inside the Federal government, or are from an external organization that receives Federal funds.
+This community will offer a space for you to discuss common challenges and solutions surrounding federal grants – whether you administer funds from inside the federal government, or are from an external organization that receives federal funds.
 
 As the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA) seeks to drive more [results-oriented accountability for grants](https://www.performance.gov/CAP/CAP_goal_8.html) across federal agencies, this community will enable you to ask questions, enter into discussions, and propose innovative solutions with people across local, federal, state and tribal governments, higher education and research institutions, nonprofits and more.
 
