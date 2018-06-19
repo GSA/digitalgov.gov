@@ -1,5 +1,4 @@
 .page .entry{
-	width: 650px;
 }
 
 .entry-head{
@@ -7,6 +6,7 @@
 }
 .entry-head h1{
 	margin: 0;
+	color:#222;
 }
 .entry-head .breadcrumb{
 	margin-bottom: 15px;
@@ -15,8 +15,18 @@
 	margin: 0;
 }
 
+.entry-head .deck{
+	margin: 10px 0 25px 0;
+	font-size: 24px;
+	line-height: 36px;
+	/* font-weight: bold; */
+	color:#222;
+	max-width: 800px;
+}
 .entry-content{
 	margin-bottom: 50px;
+	width: 650px;
+	display: inline-block;
 }
 .entry-content .image img{
 	margin:0;
@@ -32,6 +42,9 @@
 	margin-bottom: 20px;
 }
 
+.entry-content{
+	color:#222;
+}
 .entry-content p{
 	margin-bottom: 24px;
 }
@@ -43,47 +56,90 @@
 	color: #000;
 	border-radius: 2px;
 	max-width: 600px;
+	clear: both;
 }
 
-.entry-meta .last_commit p{
-	margin: 0;
-	display: none;
-	position: relative;
-	top: -3px;
-}
-.entry-meta .last_commit p a{
-	text-decoration: underline;
-}
-.entry-meta .feedback{
+.entry-meta p.feedback{
+	margin-bottom: 8px !important;
 	font-weight: bold;
-	margin-bottom: 16px;
+
 }
 
 
 /*Edit File button on posts/pages/events*/
-.entry-meta .last_commit a.edit_file{
-	margin-right: 2px;
-	padding: 4px 7px 1px 6px;
+.entry-meta .edit_file{
+	margin-right: 4px;
+	display: inline;
+}
+.entry-meta .edit_file .edit_file_link{
+	padding: 5px 18px;
 	line-height: 16px;
 	display: inline-block;
-	background: #222;
-	border-radius: 4px;
+	background: #4f297c;
+	border-radius: 3px;
 	color:#fff !important;
-}
-.entry-meta .last_commit a.edit_file span{
-	position: relative;
-	top:-4px;
-	font-weight: bold;
-	font-family: Ariel, sans-serif;
 	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
 }
-#wrap .entry-meta .last_commit a.edit_file img{
+.entry-meta .edit_file .edit_file_link:hover{
+	background: #290553;
+}
+
+.last_commit {
+	margin: 0;
 	display: inline;
-	margin-right: 5px;
-	height: 18px;
+	color: #444;
+	font-size: 15px;
 }
-.entry-meta .last_commit a.edit_file:hover{
-	background: #000;
+.last_commit a{
+	text-decoration: underline;
+	color: #444;
+}
+
+
+
+
+
+/* Guides */
+.guide .entry-head{
+	/* margin-bottom: 80px; */
+}
+.guide .entry-head .deck{
+	margin-bottom: 65px;
+}
+.guide .entry-head .pagenav{
+	font-size: 20px;
+	font-weight: 600;
+}
+.guide .entry-content h2{
+	margin-top: 60px;
+	margin-bottom: 35px;
+	padding-top: 15px;
+	border-top: 1px #555 solid;
+	color: #000;
+	font-size: 28px;
+}
+.guide .entry-content h2:first-child{
+	margin-top: 0px;
+}
+.guide .entry-content h3{
+	margin-bottom: 10px;
+	margin-top: 35px;
+	color: #222;
+}
+
+.guide .notice{
+	margin-bottom: 30px;
+	padding: 12px 18px 12px 18px;
+	border: 5px #fdd430 solid;
+	background: #fff;
+	background: rgba(252, 212, 48, .1);
+	color: #000;
+	font-size: 1em;
+}
+.guide .notice p{
+	margin: 0 0 3px 0;
 }
 
 
@@ -92,11 +148,16 @@
 		margin: 0;
 		padding: 15px;
 	}
-	.page .entry{
+	.page .entry,
+	.entry-content{
 		width:auto;
+		float: left;
 	}
-	.entry-meta .last_commit a.edit_file{
-		display: none;
+	.last_commit{
+		/* display: none; */
+	}
+	.guide .entry-head{
+		margin-bottom: 40px;
 	}
 }
 
@@ -106,7 +167,33 @@
 		padding: 15px;
 		width:auto;
 	}
-	.page .entry{
+	.page .entry,
+	.entry-content{
 		width:auto;
 	}
+}
+
+
+.entry .favicon{
+	display: inline !important;
+	position: relative;
+  top: 2px;
+  margin-right: 5px;
+}
+.entry .icon{
+	display: inline !important;
+	width:20px;
+	position: relative;
+  top: 4px;
+}
+
+.entry .icon-web{
+	display: none !important;
+}
+
+.entry-content table{
+	width: 100%;
+}
+.entry-content table tr{
+	background: none;
 }

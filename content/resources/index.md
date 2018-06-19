@@ -3,6 +3,8 @@ url: /resources/
 date: 2013-11-17 11:13:13 -0400
 title: Resources
 summary: 'Common resources for people working in Digital government.'
+aliases:
+  - /tools/
 
 ---
 
@@ -69,7 +71,7 @@ Looking for overall digital policy guidance? See the <a href="{{< link "checklis
 
 ## Design
 
-*   [U.S. Web Design Standards](https://standards.usa.gov/)
+*   [U.S. Web Design System](https://designsystem.digital.gov/)
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
 
 
