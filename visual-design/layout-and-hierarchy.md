@@ -18,7 +18,7 @@ personas:
 - Group related items in proximity to one another to help those who have low vision or trouble focusing on the screen.
 
 #### Resources
-- [Google Material Accessibility](https://material.io/guidelines/usability/accessibility.html)
+- [Accessibility - Material Design](https://material.io/guidelines/usability/accessibility.html)
 - [WebAIM: Web Accessibility for Designers](http://webaim.org/resources/designers/)
 
 #### WCAG 2.0 references
