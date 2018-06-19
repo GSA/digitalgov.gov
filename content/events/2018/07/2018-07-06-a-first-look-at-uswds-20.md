@@ -38,4 +38,4 @@ _NOTE: This event will be held over YouTube LIVE. To ask questions during the ev
 - Follow [@USWDS on Twitter](https://twitter.com/uswds)
 
 
-{{< img src="preview-uswds-2-0" caption="A first look at the USWDS 2.0" alt="A first look at the USWDS 2.0" >}}
+{{< img src="preview-uswds-2-0" caption="Image card for A First Look at USWDS 2.0" alt="Image card for A First Look at USWDS 2.0" >}}
