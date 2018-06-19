@@ -16,7 +16,6 @@ youtube_id: TuOqjxirOUA
 
 ---
 
-
 Join us for our next monthly call on **Friday, July 6, 2018 at 1:00 pm ET / 10:00 am PT** for our monthly conversation with fellow designers and developers across the government.
 
 This month, the [U.S. Web Design System](https://designsystem.digital.gov/) team will share what's coming up in USWDS version 2.0, which is set to launch later this summer.
@@ -30,7 +29,7 @@ This month, the [U.S. Web Design System](https://designsystem.digital.gov/) team
 - Modular, mobile-first atomic utility classes
 - and more...
 
-_NOTE: This event will be held over YouTubeLIVE. To ask questions during the event, you will need to [create a YouTube channel (profile)](https://support.google.com/youtube/answer/1646861?hl=en) prior to the event._
+_NOTE: This event will be held over YouTube LIVE. To ask questions during the event, you will need to [create a YouTube channel (profile)](https://support.google.com/youtube/answer/1646861?hl=en) prior to the event._
 
 ### Related
 
