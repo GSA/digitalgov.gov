@@ -23,10 +23,12 @@ This month, the [U.S. Web Design System](https://designsystem.digital.gov/) team
 
 **Coming in USWDS 2.0**
 
-- New color palette
-- Smarter Typography
-- New Grid System
-- Utilities
+- Practical, accessible color system
+- Regularized, predictable type scale
+- Global spacing units
+- Simplified 12-column layout grid
+- Modular, mobile-first atomic utility classes
+- and more...
 
 _NOTE: This event will be held over YouTubeLIVE. To ask questions during the event, you will need to [create a YouTube channel (profile)](https://support.google.com/youtube/answer/1646861?hl=en) prior to the event._
 
