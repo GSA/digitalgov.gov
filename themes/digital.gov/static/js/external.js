@@ -79,11 +79,20 @@ function getFormattedDate(d) {
   month = monthNames[month];
   var day = date.getUTCDate().toString();
   day = day.length > 1 ? day : '0' + day;
-	var hours = date.getUTCHours().toString();
+	var globalhours = date.getUTCHours().toString();
+	if (globalhours >= 11 ) {
+		var hours = globalhours - 12;
+	} else {
+		var hours = globalhours;
+	}
 	var minutes = date.getUTCMinutes().toString();
 	minutes = minutes.length > 1 ? minutes : '0' + minutes;
 	var seconds = date.getUTCSeconds().toString();
-	var ampm = hours >= 12 ? 'pm' : 'am';
+	if (globalhours >= 11 ) {
+		var ampm = 'pm';
+	} else {
+		var ampm = 'am';
+	}
 	var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ampm + ' ET';
   return date_string;
 }
