@@ -1,0 +1,6 @@
+
+<div id="top6">
+  {{ range first 6 (where .Site.Pages "Section" "posts") }}
+    {{ partial "news-featured.html" . }}
+  {{ end }}
+</div>
