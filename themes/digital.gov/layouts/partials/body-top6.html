@@ -1,5 +1,25 @@
+<div id="top6">
+
+  {{ range .Site.Data.top6.top6 }}
+  <div class="card card-news">
+    {{ $.Scratch.Set "file" .file }}
+    {{- $.Scratch.Get "file" -}}
+
+    <div class="media">
+      <a href="" title="{{ .title | markdownify }}">
+      </a>
+    </div><!-- div.featpage-image-->
+    <h3><a href="" title="{{ .title | markdownify }}">{{ .title | markdownify }}</a></h3>
+    <p class="summary">
+      {{ .summary | markdownify  }}
+    </p>
+  </div>
+  {{ end }}
+
+</div>
 
 <div id="top6">
+
   {{ range first 6 (where .Site.Pages "Section" "posts") }}
     {{ partial "news-featured.html" . }}
   {{ end }}
