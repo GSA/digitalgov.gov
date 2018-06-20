@@ -51,7 +51,7 @@ We believe the public deserves plain language communication from its government,
 | 11:00am - 11:40am | **Plain Language, Customer Experience and User Experience** — Jon Rubin, CFPB                                               |
 | 11:40am - 12:20pm | **How to Design Custom Plain Language Training** — Katina Stapleton, Dept. of Education                                     |
 | 12:20pm - 1:15pm  | **Break for Lunch**                                                                                                         |
-| 1:15pm - 1:55pm   | **Plain Language and Translation** — Kathryn Catania and Thomas Choman, USCIS                                                                                  |
+| 1:15pm - 1:55pm   | **Plain Language and Translation** — Laura Godfrey, GSA                                                                                  |
 | 1:55pm - 2:25pm   | **Center for Plain Language Report Card** — David Lipscomb, Center from Plain Language                                          |
 | 2:25pm - 2:40pm   | **Break**                                                                                                                   |
 | 2:40pm - 3:10pm   | **Adult Literacy** - Meredith Larson, Dept. of Education                                                                    |
