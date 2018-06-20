@@ -36,7 +36,7 @@ aliases:
 ## Getting Started
 - [**OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies**]({{< link "omb-memos-circulars-executive-orders-and-other-policies.md" >}})
 - [**Checklist of Requirements for Federal Digital Services**]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}}).
-- [Digital Governance Policy Outline](https://digital.gov/resources/digital-governance-policies/)
+- [**Digital Governance Policy Outline**]({{< link "digital-governance-policies.md" >}})
 
 ## Accessibility
 
