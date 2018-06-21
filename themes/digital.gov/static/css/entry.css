@@ -111,9 +111,12 @@
 #top6 .card:nth-child(3n){
 	margin: 0;
 }
+#top6 .card .youtube-player{
+	margin-bottom: 10px;
+}
 #top6 .card .media{
 	margin-bottom: 10px;
-	height: 200px;
+	height: 170px;
 	overflow: hidden;
 }
 #top6 .card .media img{
