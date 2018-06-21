@@ -27,7 +27,7 @@
       {{ $card_type := $.Scratch.Get "card_type" }}
 
       {{ if eq $card_type "post"}}
-      <div class="card {{ $card_type }}">
+      <div class="card card-{{ $card_type }}">
         <div class="media">
           <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
             {{ partial "img-featured--home.html" . }}
