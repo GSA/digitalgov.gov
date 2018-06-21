@@ -13,6 +13,7 @@
       {{ if .Params.deck }}
       <div class="deck">{{ .Params.deck }}</div>
       {{ end }}
+      {{ partial "last-updated" . }}
     </div>
 
     <div class="guide-nav">
@@ -32,10 +33,6 @@
     </div>
 
     <div class="entry-content">
-      {{ if .Params.notice }}
-        {{ partial "page-notice" (dict "page" .  "page_type" "guide" "notice" .Params.notice ) }}
-      {{ end }}
-
       {{ .Content }}
     </div>
 
