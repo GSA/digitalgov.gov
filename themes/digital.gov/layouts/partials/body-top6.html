@@ -1,19 +1,37 @@
 <div id="top6">
-
   {{ range .Site.Data.top6.top6 }}
-  <div class="card card-news">
-    {{ $.Scratch.Set "file" .file }}
-    {{- $.Scratch.Get "file" -}}
+    <!-- Sets the Title -->
+    {{ $.Scratch.Set "d_title" .title }}
+    <!-- Sets the File -->
+    {{ $.Scratch.Set "d_file" .file }}
+    <!-- Sets the Summary -->
+    {{ $.Scratch.Set "d_summary" .summary }}
 
-    <div class="media">
-      <a href="" title="{{ .title | markdownify }}">
-      </a>
-    </div><!-- div.featpage-image-->
-    <h3><a href="" title="{{ .title | markdownify }}">{{ .title | markdownify }}</a></h3>
-    <p class="summary">
-      {{ .summary | markdownify  }}
-    </p>
-  </div>
+    {{ with $.Site.GetPage "page" .file }}
+      <!-- Checks to see if the .title exists in the data file.
+      If not, it uses the .Title from the referenced file -->
+      {{ $d_title := $.Scratch.Get "d_title" }}
+      {{ if not $d_title }}
+        {{ $.Scratch.Set "d_title" (.Title | markdownify) }}
+      {{ end }}
+      <!-- Checks to see if the .summary exists in the data file.
+      If not, it uses the .Summary from the referenced file -->
+      {{ $d_summary := $.Scratch.Get "d_summary" }}
+      {{ if not $d_summary }}
+        {{ $.Scratch.Set "d_summary" (.Params.summary | markdownify) }}
+      {{ end }}
+
+      <div class="card card-news">
+        <div class="media">
+          <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "d_title" }}">
+          </a>
+        </div>
+        <h3><a href="{{ .Permalink }}" title="{{ $.Scratch.Get "d_title" }}">{{ $.Scratch.Get "d_title" }}</a></h3>
+        <p class="summary">
+          {{ $.Scratch.Get "d_summary" }}
+        </p>
+      </div>
+    {{ end }}
   {{ end }}
 
 </div>
