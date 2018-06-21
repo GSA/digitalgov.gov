@@ -2,14 +2,14 @@
 # ---------------------
 
 # What to know ----------------------
-# 1. Each "card" on the homepage needs a 'file' and 'type'.
-# 2. Keep the spacing consistent
-# 3. Use quotes — they'll help you deal with special charachters
+# 1. Each "card" on the homepage requires a 'file' and 'type'.
+# 2. Keep the tab spacing on the left consistent. Everything else is just cosmetic.
 
 # Keys ----------------------
-# file = the actual filename, (e.g. challenges-prizes.md)
+# file = this is the actual filename of the page you want to link to (e.g. challenges-prizes.md)
 # type = controls the presentation of the card, based on type of media
-#        post | resource | guide | event | video
+#        (post | video)
+
 
 # Full Example    ----------------------
 # - file          : '2018-04-03-thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods.md'
