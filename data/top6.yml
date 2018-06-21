@@ -11,11 +11,16 @@
 # type = controls the presentation of the card, based on type of media
 #        post | resource | guide | event | video
 
-# Full Example ----------------------
+# Full Example    ----------------------
 # - file          : '2018-04-03-thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods.md'
 #   type          : 'post'
 #   title         : 'The Benefits of Using Agile Methods'
 #   summary       : 'Brian Fox goes over five benefits of using Agile in your organizations'
+
+# Video Example   ----------------------
+# - file          : '2018-06-14-usability-testing-with-steve-krug.md'
+#   type          : 'video'
+#   summary       : 'Steve Krug shares how you can get started with usability, no matter what your full time job is.'
 
 # Minimal Example ----------------------
 # - file          : "challenges-prizes.md"
@@ -28,26 +33,25 @@ top6:
     type          : 'video'
     summary       : 'Steve Krug shares how you can get started with usability, no matter what your full time job is.'
 
-  - file          : '2018-04-03-thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods.md'
-    type          : 'post'
-    title         : 'The Benefits of Agile Methods'
-    summary       : 'Brian Fox covers five benefits of using agile in your organization.'
+  - file          : '2018-06-07-dap-learning-series-using-search-console.md'
+    type          : 'video'
+    summary       : 'A deeper dive into the benefits of integrating you Google Search Console with your Google Analytics account.'
+
+  - file          : '2018-05-29-how-search-engines-index-your-websites.md'
+    type          : 'video'
+    title         : 'How Search Engines Index Your Websites'
+    summary       : 'Dawn Williams from Search.gov explains the fundamentals of search engines and how they monitor your content and pull relevant data from your pages.'
 
   - file          : '2018-05-15-this-how-we-work-together-with-brad-frost.md'
     type          : 'video'
     title         : 'How Design Systems Help Us Work Together'
     summary       : 'Brad Frost on how design systems in create successful, collaborative structures for modern organizations.'
 
+  - file          : '2018-04-03-thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods.md'
+    type          : 'post'
+    title         : 'The Benefits of Agile Methods'
+    summary       : 'Brian Fox covers five benefits of using agile in your organization.'
+
   - file          : '2018-04-02-marketing-government-through-agency-partnerships.md'
     type          : 'post'
     title         : 'A New Way to Market Within the Federal Government'
-
-  - file          : '2018-02-13-why-your-team-needs-its-own-style-guide-where-start.md'
-    type          : 'post'
-    title         : 'Style Guides — Where to Start'
-    summary       : 'Learn how creating your own style guide can help you build better digital services.'
-
-  - file          : '2018-02-05-using-journey-mapping-streamline-processes-across-agencies.md'
-    type          : 'post'
-    title         : 'Using Journey Mapping to Streamline Processes'
-    summary       : 'How one team is working to improve the customer experience for newly naturalized citizens attempting to travel abroad.'
