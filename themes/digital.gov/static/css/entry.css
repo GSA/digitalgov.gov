@@ -103,10 +103,10 @@
 
 /* Guides */
 .guide .entry-head{
-	/* margin-bottom: 80px; */
+	margin-bottom: 45px;
 }
 .guide .entry-head .deck{
-	margin-bottom: 65px;
+	margin-bottom: 10px;
 }
 .guide .entry-head .pagenav{
 	font-size: 20px;
@@ -129,19 +129,19 @@
 	color: #222;
 }
 
-.guide .notice{
-	margin-bottom: 30px;
-	padding: 12px 18px 12px 18px;
-	border: 5px #fdd430 solid;
-	background: #fff;
+.last-updated{
+	margin-top: 25px;
 	background: rgba(252, 212, 48, .1);
-	color: #000;
-	font-size: 1em;
+	background: url('../img/clock-icon.png') no-repeat 0px 6px;
 }
-.guide .notice p{
-	margin: 0 0 3px 0;
+.last-updated .last_commit{
+	padding-left: 20px;
+	color: #898989;
+	font-size: 14px;
 }
-
+.last-updated .last_commit a{
+	color: #898989;
+}
 
 @media only screen and (max-width:480px) {
 	#wrap{
