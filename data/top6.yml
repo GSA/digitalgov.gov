@@ -1,9 +1,34 @@
+# How to edit this file
+# ---------------------
+
+# What to know ----------------------
+# 1. Each "card" on the homepage needs a 'file' and 'type'.
+# 2. Keep the spacing consistent
+# 3. Use quotes — they'll help you deal with special charachters
+
+# Keys ----------------------
+# file = the actual filename, (e.g. challenges-prizes.md)
+# type = controls the presentation of the card, based on type of media
+#        post | resource | guide | event | video
+
+# Full Example ----------------------
+# - file          : '2018-04-02-marketing-government-through-agency-partnerships.md'
+#   type          : post | resource | guide | event | video
+#   title         : 'The Benefits of Using Agile Methods'
+#   summary       : 'Brian Fox goes over five benefits of using Agile in your organizations'
+
+# Minimal Example ----------------------
+# - file          : "challenges-prizes.md"
+#   type          : post | resource | guide | event | video
+
+
 top6:
-  - file          : "2018-03-13-thinking-about-going-agile-consider-mass-training-facilitate-change.md"
-    title         : 'Thinking About Going Agile? 5 Benefits Your Office Will Reap With Agile Methods'
-    summary       : 'Five benefits of using agile methodologies that can help federal employees improve the quality of their work.'
-    link          : "https://www.digital.gov/feed/index.xml"
-  - file          : "2018-03-13-thinking-about-going-agile-consider-mass-training-facilitate-change.md"
-    title         : 'Another Headline'
-    summary       : 'summary'
-    link          : "https://www.digital.gov/feed/index.xml"
+  - file          : 'challenges-prizes.md'
+
+  - file          : '2018-03-13-thinking-about-going-agile-consider-mass-training-facilitate-change.md'
+    title         : 'The Benefits of Using Agile Methods'
+    summary       : 'Brian Fox covers five benefits of using agile in your organization.'
+
+  - file          : '2018-04-02-marketing-government-through-agency-partnerships.md'
+    title         : 'Title'
+    summary       : 'MArketing benefits of summary'
