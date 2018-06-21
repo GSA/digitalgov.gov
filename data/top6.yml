@@ -12,23 +12,34 @@
 #        post | resource | guide | event | video
 
 # Full Example ----------------------
-# - file          : '2018-04-02-marketing-government-through-agency-partnerships.md'
-#   type          : post | resource | guide | event | video
+# - file          : '2018-04-03-thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods.md'
+#   type          : 'post'
 #   title         : 'The Benefits of Using Agile Methods'
 #   summary       : 'Brian Fox goes over five benefits of using Agile in your organizations'
 
 # Minimal Example ----------------------
 # - file          : "challenges-prizes.md"
-#   type          : post | resource | guide | event | video
+#   type          : 'community'
 
 
 top6:
-  - file          : 'challenges-prizes.md'
 
-  - file          : '2018-03-13-thinking-about-going-agile-consider-mass-training-facilitate-change.md'
-    title         : 'The Benefits of Using Agile Methods'
+  - file          : '2018-06-14-usability-testing-with-steve-krug.md'
+    type          : 'video'
+
+  - file          : '2018-04-03-thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods.md'
+    type          : 'post'
+    title         : 'The Benefits of Agile Methods'
     summary       : 'Brian Fox covers five benefits of using agile in your organization.'
 
+  - file          : '2018-05-15-this-how-we-work-together-with-brad-frost.md'
+    type          : 'video'
+
   - file          : '2018-04-02-marketing-government-through-agency-partnerships.md'
-    title         : 'Title'
-    summary       : 'MArketing benefits of summary'
+    type          : 'post'
+
+  - file          : '2018-02-13-why-your-team-needs-its-own-style-guide-where-start.md'
+    type          : 'post'
+
+  - file          : '2018-02-13-why-your-team-needs-its-own-style-guide-where-start.md'
+    type          : 'post'
