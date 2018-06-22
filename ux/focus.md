@@ -5,7 +5,7 @@ permalink: /ux/focus/
 sidebar: ux
 question: Have you designed for logical focus behavior on interactive elements?
 personas:
-- Jerry is blind and uses a screen reader to navigate the web – when a modal pops up and doesn’t receive focus he may not even know it’s there.
+- Jiang is blind and uses a screen reader to navigate the web – when a modal pops up and doesn’t receive focus he may not even know it’s there.
 ---
 
 ### Steps to take

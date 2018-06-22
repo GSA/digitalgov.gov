@@ -5,8 +5,8 @@ permalink: /ux/navigation-shortcuts/
 sidebar: ux
 question: Have you included navigation shortcuts for screen reader and keyboard users?
 personas:
-- Jerry is blind and uses a screen reader to navigate the web; he uses landmark elements to quickly navigate through sections of a webpage. 
-- Rasheed’s vision is fine but has trouble using a mouse, so he navigates the web using only his keyboard – he hates having to tab through all the links in the header navigation to get to the main content of a page.
+- Rasheed is blind and uses a screen reader to navigate the web; he uses landmark elements to quickly navigate through sections of a webpage. 
+- Li’s vision is fine but has trouble using a mouse, so he navigates the web using only his keyboard – he hates having to tab through all the links in the header navigation to get to the main content of a page.
 ---
 
 ### Steps to take
