@@ -5,7 +5,7 @@ permalink: /front-end/color-and-contrast/
 sidebar: frontend
 question: Is there enough contrast between text and its background color?
 personas:
-- Lalit has low vision and needs content to have enough contrast to read it. 
+- Rohit has low vision and needs content to have enough contrast to read it. 
 - Esther is red-green colorblind and can’t make sense of information conveyed with color alone.
 ---
 

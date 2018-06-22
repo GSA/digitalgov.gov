@@ -5,7 +5,7 @@ permalink: /front-end/headings/
 sidebar: frontend
 question: Are you using accurate headings on your page?
 personas:
-- Rohit is blind and uses a screen reader to navigate the web. She hears an outline of the page's main ideas, then backtracks to read the parts she's most interested in.
+- Lalit is blind and uses a screen reader to navigate the web. She hears an outline of the page's main ideas, then backtracks to read the parts she's most interested in.
 ---
 
 ### Steps to take
