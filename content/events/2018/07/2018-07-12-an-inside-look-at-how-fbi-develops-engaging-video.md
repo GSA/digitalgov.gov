@@ -33,7 +33,7 @@ We will discuss everything from concept to completion, including marketing, coll
 This talk is aimed at video producers, directors, cinematographers / DP’s, editors, social media and digital content managers, and anyone else interested in widening their reach through telling stories.
 
 
-## About the Presenter
+## About the Presenters
 
 **Steve Lewis** is a digital content strategist and public affairs specialist with the Federal Bureau of Investigation. He wears multiple hats on the Bureau's public affairs team, including video producer, social media analyst, writer, and marketing project manager. Since joining the FBI, Steve has launched and managed the Bureau's first-ever live streaming program, lead multiple communications campaigns to market digital tools and applications to the public and implemented innovative tactics to widely promote the FBI's law enforcement and intelligence mission. He also trains international law enforcement agencies on public affairs strategies through the U.S. Government's International Law Enforcement Academy.
 
