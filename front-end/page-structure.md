@@ -5,7 +5,7 @@ permalink: /front-end/page-structure/
 sidebar: frontend
 question: Are you using semantic elements and roles?
 personas:
-- John is low-sighted and navigates pages by jumping to the page section he wants to get to.
+- Carlos is low-sighted and navigates pages by jumping to the page section he wants to get to.
 ---
 
 ### Steps to take
