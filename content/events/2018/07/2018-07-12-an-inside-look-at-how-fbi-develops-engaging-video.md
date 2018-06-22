@@ -22,7 +22,8 @@ Bryce Spivey, Chair of the Video Production Pros community, talks with Steve Lew
  
 We will discuss everything from concept to completion, including marketing, collaboration, overcoming challenges, lessons learned, and more.
 
-**What you will learn:**
+## What you will learn:
+
 - How to work with minimal resources: from concept development to producing video
 - Developing a content strategy for a video and story series: from messaging and scene planning to marketing and promotion
 - Backpack journalism: producing video and photo content on your own with minimal gear
@@ -32,7 +33,8 @@ We will discuss everything from concept to completion, including marketing, coll
 This talk is aimed at video producers, directors, cinematographers / DP’s, editors, social media and digital content managers, and anyone else interested in widening their reach through telling stories.
 
 
-**About the Presenter**
+## About the Presenter
+
 **Steve Lewis** is a digital content strategist and public affairs specialist with the Federal Bureau of Investigation. He wears multiple hats on the Bureau's public affairs team, including video producer, social media analyst, writer, and marketing project manager. Since joining the FBI, Steve has launched and managed the Bureau's first-ever live streaming program, lead multiple communications campaigns to market digital tools and applications to the public and implemented innovative tactics to widely promote the FBI's law enforcement and intelligence mission. He also trains international law enforcement agencies on public affairs strategies through the U.S. Government's International Law Enforcement Academy.
 
 Prior to joining the FBI, Steve worked in a wide range of public and private sector capacities, including digital media manager with the U.S. Trade and Development Agency and marketing associate with the Netherlands-based bank, ING Direct.
