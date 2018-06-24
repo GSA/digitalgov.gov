@@ -158,6 +158,7 @@
   <script type="text/javascript">
     git_org          = {{ .Site.Params.git_org }};
     git_repo         = {{ .Site.Params.git_repo }};
+    branch           = {{ $.Scratch.Get "branch" }}
     filepath         = {{ .File.Path }};
     filepathURL      = {{ printf "https://github.com/%s/%s/edit/master/content/%s" $.Site.Params.git_org $.Site.Params.git_repo $.File.Path }};
     commit_api_path  = {{ printf "https://api.github.com/repos/%s/%s/commits?path=/content/%s" $.Site.Params.git_org $.Site.Params.git_repo $.File.Path }};
