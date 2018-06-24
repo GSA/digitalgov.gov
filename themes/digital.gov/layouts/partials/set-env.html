@@ -1,2 +1,2 @@
 {{ $.Scratch.Set "env" (replaceRE "^([^/]+).+$" "$1" (getenv "SITE_PREFIX")) }}
-{{ $.Scratch.Set "branch" (replaceRE "^([^/]+).+$" "$1" (getenv "BRANCH")) }}
+{{ $.Scratch.Set "branch" (getenv "BRANCH") }}
