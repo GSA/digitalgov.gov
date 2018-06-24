@@ -52,7 +52,7 @@
 .entry-meta{
 	margin-bottom: 120px;
 	padding: 20px;
-	background: #E9E9FA;
+	background: #fae8f2;
 	color: #000;
 	border-radius: 2px;
 	max-width: 600px;
@@ -62,9 +62,7 @@
 .entry-meta p.feedback{
 	margin-bottom: 8px !important;
 	font-weight: bold;
-
 }
-
 
 /*Edit File button on posts/pages/events*/
 .entry-meta .edit_file{
@@ -75,7 +73,7 @@
 	padding: 5px 18px;
 	line-height: 16px;
 	display: inline-block;
-	background: #4f297c;
+	background: #be0069;
 	border-radius: 3px;
 	color:#fff !important;
 	font-size: 14px;
@@ -83,8 +81,20 @@
 	font-family: Arial, sans-serif;
 }
 .entry-meta .edit_file .edit_file_link:hover{
+	background: #8f004f;
+}
+
+/* Colors for the MASTER branch */
+.branch-master{
+	background: #E9E9FA;
+}
+.branch-master .edit_file .edit_file_link{
+	background: #4f297c;
+}
+.branch-master .edit_file .edit_file_link:hover{
 	background: #290553;
 }
+
 
 .last_commit {
 	margin: 0;
