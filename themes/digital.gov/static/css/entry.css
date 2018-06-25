@@ -1,3 +1,4 @@
+@import "top6.css";
 .page .entry{
 }
 
@@ -98,9 +99,6 @@
 }
 
 
-
-
-
 /* Guides */
 .guide .entry-head{
 	margin-bottom: 45px;
@@ -171,6 +169,7 @@
 	.entry-content{
 		width:auto;
 	}
+
 }
 
 
