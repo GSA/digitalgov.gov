@@ -44,4 +44,4 @@ See the slides for more information:
 
 The HFPP Challenge tandem of Zeiler and LaMora made clear that the process of deconstructing a challenge requires more thought and a reliable collaboration structure; but for the right kind of challenge, they said, it can be well worth the effort. 
 
-_If you would like more information on challenges and prize competitions, become part of the <a href="{{< link "challenges-prizes.md" >}}" target="_blank">Federal Challenge and Prize Community listserv</a>. If you are interested in entering a challenge like the HFPP Challenge, see the list of government challenges at <a href="http://challenge.gov" target="_blank">Challenge.gov</a>._
+_If you would like more information on challenges and prize competitions, become part of the <a href="{{< link "challenges-prizes.md" >}}" target="_blank">Federal Challenge and Prize Community listserv</a>. If you are interested in entering a challenge like the HFPP Challenge, see the list of government challenges at [Challenge.gov](https://www.challenge.gov)._
