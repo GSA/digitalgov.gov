@@ -60,10 +60,9 @@
 }
 
 .entry-meta p.feedback{
-	margin-bottom: 8px !important;
+	margin-bottom: 0 !important;
 	padding-bottom: 12px !important;
 	font-weight: bold;
-	border-bottom: 1px #555 solid;
 }
 
 /*Edit File button on posts/pages/events*/
@@ -108,8 +107,8 @@
 .last_commit {
 	margin: 0;
 	display: inline;
-	color: #444;
-	font-size: 15px;
+	color: #000;
+	font-size: 14px;
 }
 .last_commit a{
 	text-decoration: underline;
@@ -118,16 +117,19 @@
 
 .last_commit .branch{
 	margin-right: 3px;
-	padding: 5px 16px 5px 23px;
+	padding: 5px 12px 5px 23px;
 	line-height: 16px;
 	display: inline-block;
 	border-radius: 3px;
-	background: #ddd url("../img/git-branch.png") no-repeat 8px 6px;
+	background: #f6a1d0 url("../img/git-branch.png") no-repeat 8px 6px;
 	font-size: 14px;
 	font-weight: bold;
 	font-family: Arial, sans-serif;
 	color: #000;
 	text-decoration: none;
+}
+.last_commit .branch:hover{
+	background-color: #f57cbf;
 }
 
 
