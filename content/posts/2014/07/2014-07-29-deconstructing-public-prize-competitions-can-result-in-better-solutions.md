@@ -40,6 +40,8 @@ One of the most unfortunate scenarios possible in a challenge is receiving solut
 
 See the slides for more information:
 
-[slideshare id=37430265&doc=gsawebinar-al-140728123154-phpapp01]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pUf4662SbptNWw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/deconstructing-challenges-webinar" title="Deconstructing Challenges Webinar" target="_blank">Deconstructing Challenges Webinar</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
 
-The HFPP Challenge tandem of Zeiler and LaMora made clear that the process of deconstructing a challenge requires more thought and a reliable collaboration structure; but for the right kind of challenge, they said, it can be well worth the effort._If you would like more information on challenges and prize competitions, become part of the <a href="{{< link "challenges-prizes.md" >}}" target="_blank">Federal Challenge and Prize Community listserv</a>. If you are interested in entering a challenge like the HFPP Challenge, see the list of government challenges at <a href="http://challenge.gov" target="_blank">Challenge.gov</a>._
+The HFPP Challenge tandem of Zeiler and LaMora made clear that the process of deconstructing a challenge requires more thought and a reliable collaboration structure; but for the right kind of challenge, they said, it can be well worth the effort. 
+
+_If you would like more information on challenges and prize competitions, become part of the <a href="{{< link "challenges-prizes.md" >}}" target="_blank">Federal Challenge and Prize Community listserv</a>. If you are interested in entering a challenge like the HFPP Challenge, see the list of government challenges at <a href="http://challenge.gov" target="_blank">Challenge.gov</a>._
