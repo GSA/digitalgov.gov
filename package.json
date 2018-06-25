@@ -51,6 +51,7 @@
     "gulp-sourcemaps": "^2.6.1",
     "gutil": "^1.6.4",
     "node-notifier": "^5.1.2",
+    "octicons": "^7.3.0",
     "path": "^0.12.7",
     "uswds": "^1.4.2"
   }
