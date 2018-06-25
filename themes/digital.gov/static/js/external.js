@@ -93,7 +93,7 @@ function getFormattedDate(d) {
 	} else {
 		var ampm = 'am';
 	}
-	var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ampm + ' ET';
+	var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ' ' + ampm + ' ET';
   return date_string;
 }
 
