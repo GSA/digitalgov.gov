@@ -25,7 +25,7 @@
         <div class="addthis_inline_share_toolbox"></div>
         {{ partial "post-meta--related-posts" . }}
         {{ partial "post-meta--tag-list" . }}
-        {{ partial "post-meta--feedback" (dict "page" . "page_type" "article") }}
+        {{ partial "post-meta--feedback" (dict "page" . "page_type" "article" "branch" ($.Scratch.Get "branch")) }}
 
 
       </div><!-- .entry -->
