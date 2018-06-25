@@ -53,7 +53,7 @@
 .entry-meta{
 	margin-bottom: 120px;
 	padding: 20px;
-	background: #E9E9FA;
+	background: #fae8f2;
 	color: #000;
 	border-radius: 2px;
 	max-width: 600px;
@@ -61,22 +61,22 @@
 }
 
 .entry-meta p.feedback{
-	margin-bottom: 8px !important;
+	margin-bottom: 0 !important;
+	padding-bottom: 12px !important;
 	font-weight: bold;
-
 }
-
 
 /*Edit File button on posts/pages/events*/
 .entry-meta .edit_file{
 	margin-right: 4px;
 	display: inline;
 }
+
 .entry-meta .edit_file .edit_file_link{
 	padding: 5px 18px;
 	line-height: 16px;
 	display: inline-block;
-	background: #4f297c;
+	background: #be0069;
 	border-radius: 3px;
 	color:#fff !important;
 	font-size: 14px;
@@ -84,20 +84,54 @@
 	font-family: Arial, sans-serif;
 }
 .entry-meta .edit_file .edit_file_link:hover{
-	background: #290553;
+	background: #8f004f;
 }
+
+/* Colors for the MASTER branch */
+.branch-master{
+	background-color: #E9E9FA;
+}
+.branch-master .edit_file .edit_file_link{
+	background-color: #4f297c;
+}
+.branch-master .edit_file .edit_file_link:hover{
+	background-color: #290553;
+}
+.branch-master .last_commit .branch{
+	background-color: #cfadf7;
+}
+.branch-master .last_commit .branch:hover{
+	background-color: #a77cdb;
+}
+
 
 .last_commit {
 	margin: 0;
 	display: inline;
-	color: #444;
-	font-size: 15px;
+	color: #000;
+	font-size: 14px;
 }
 .last_commit a{
 	text-decoration: underline;
 	color: #444;
 }
 
+.last_commit .branch{
+	margin-right: 3px;
+	padding: 5px 12px 5px 23px;
+	line-height: 16px;
+	display: inline-block;
+	border-radius: 3px;
+	background: #f6a1d0 url("../img/git-branch.png") no-repeat 8px 6px;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	color: #000;
+	text-decoration: none;
+}
+.last_commit .branch:hover{
+	background-color: #f57cbf;
+}
 
 /* Guides */
 .guide .entry-head{

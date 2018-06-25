@@ -49,7 +49,7 @@
     {{ partial "event-location.html" . }}
   {{ end }}
 
-  {{ partial "post-meta--feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov") }}
+  {{ partial "post-meta--feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "branch" ($.Scratch.Get "branch")) }}
 
 </div>
 {{ end }}
