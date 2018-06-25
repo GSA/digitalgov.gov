@@ -60,4 +60,4 @@ Charles Liarakos from the [National Science Foundation](https://www.challenge.go
 
 In closing, make your teams, communities and challenge solvers care about your mission, because in the future, we will be crowdsourcing all the time. Not just during challenge and prize competitions.
 
-To see all the conversation from this training session, check out [Twitter hashtag #publicprizes.](https://twitter.com/search?q=%23publicprizes&src=typd)
+To see all the conversation from this training session, check out [Twitter hashtag #publicprizes](https://twitter.com/search?q=%23publicprizes&src=typd).
