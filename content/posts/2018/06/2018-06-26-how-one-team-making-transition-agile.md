@@ -45,7 +45,7 @@ The breakdown of work will likely need to be coordinated across many functional 
 
 ## Scrum: Prioritizing and Iterating on Actionable Items Across Teams
 
-<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/04/600-x-343-Scrum-agile-bakhtiar_zein-iStock-Thinkstock-467005754.jpg" alt="Scrum agile flow chart"><br />_bakhtiar_zein/iStock/Thinkstock_
+<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2016/04/600-x-343-Scrum-agile-bakhtiar_zein-iStock-Thinkstock-467005754.jpg" alt="Scrum agile flow chart"><br />_bakhtiar&#95;zein/iStock/Thinkstock_
 
 Just as the iterative scrum cycle occurs for the development teams, so must it occur at the stakeholder and project management levels. If scrum teams simply focus on “continue development” through each scrum cycle with no finer granularity of direction from a product owner or understanding of dependencies in other teams, the agile framework disintegrates. The product owner must continually groom the backlog so that the highest priorities are worked on and that the most effective critical path is being followed through development cycles. This becomes challenging for enterprise systems and projects where many stakeholders (or product owners) are part of the picture.
 
