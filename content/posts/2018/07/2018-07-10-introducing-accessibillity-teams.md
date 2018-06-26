@@ -2,7 +2,7 @@
 slug: introducing-accessibility-for-teams
 date: 2018-07-10 16:38:00 -0500
 title: 'Introducing Accessibility for Teams'
-summary: ''
+summary: 'A quick-start guide for embedding accessibility and inclusive design into a team's workflow'
 authors:
   - maya-benari
 categories:
