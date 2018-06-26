@@ -11,6 +11,7 @@ Paginate                : 100
 googleAnalytics         : ""
 enableRobotsTXT         : true
 enableEmoji             : true
+enableGitInfo           : true
 
 ignoreFiles:
   - "^_template"
