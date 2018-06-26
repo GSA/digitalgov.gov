@@ -1,5 +1,13 @@
 jQuery(document).ready(function($) {
 
+$(".page-details .close").click(function() {
+	$(".page-details").toggle();
+});
+$(document).bind('keyup', function (evt) {
+  if (evt.keyCode == 191){
+		$(".page-details").toggle();
+	}
+});
 var featured_height = $('.featured-video').height();
 var featured_hed = $('.featured-news .hed').height();
 var featured_foot = $('.featured-news .foot').height();
