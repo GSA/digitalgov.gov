@@ -29,6 +29,9 @@
 
 top6:
 
+  - file          : '2018-06-26-how-one-team-making-transition-agile.md'
+    type          : 'post'
+
   - file          : '2018-06-14-usability-testing-with-steve-krug.md'
     type          : 'video'
     summary       : 'Steve Krug shares how you can get started with usability, no matter what your full time job is.'
@@ -51,7 +54,3 @@ top6:
     type          : 'post'
     title         : 'The Benefits of Agile Methods'
     summary       : 'Brian Fox covers five benefits of using agile in your organization.'
-
-  - file          : '2018-04-02-marketing-government-through-agency-partnerships.md'
-    type          : 'post'
-    title         : 'A New Way to Market Within the Federal Government'
