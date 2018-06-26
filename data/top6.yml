@@ -29,6 +29,9 @@
 
 top6:
 
+  - file          : '2018-07-10-introducing-accessibillity-teams.md'
+    type          : 'post'
+
   - file          : '2018-06-26-how-one-team-making-transition-agile.md'
     type          : 'post'
 
