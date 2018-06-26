@@ -4,23 +4,22 @@ date: 2018-06-25 9:00:00 -0400
 title: 'Connected Government Act'
 summary: ''
 type: guide
+guidenav: connected-government
 deck: 'As of January of 2018, all new new and redesigned agency websites are required to be mobile friendly.'
 ---
 
-The Connected Government Act was signed into law, in January of 2018, and requires new, and redesigned, agency websites to be mobile friendly. GSA and OMB will submit a report to Congress in 2019 that describes how agencies can implement the law and assesses their compliance.
-
 {{< img src="m-17-06" >}}
 
+The Connected Government Act was signed into law, in January of 2018, and requires new, and redesigned, agency websites to be mobile friendly. GSA and OMB will submit a report to Congress in 2019 that describes how agencies can implement the law and assesses their compliance.
 
-## What does the Connected Government Act do?
-It codifies the [Policies for Federal Agency Public Websites and Digital Services (M-17-06)](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf)
+**M-17-06** codifies the [Policies for Federal Agency Public Websites and Digital Services ](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (M-17-06)
 
-## What does it mean to be mobile friendly?
+## What is mobile friendly?
 
 A mobile friendly website can be navigated, viewed and accessed on a smartphone, tablet computer, or similar mobile device, according to the law.
 
 - Community post: mobile friendly/mobile first/responsive design [Jacob has]
-- Is Your Site Mobile Friendly? https://www.digitalgov.gov/2015/10/23/is-your-site-mobile-friendly/
+- [Is Your Site Mobile Friendly?](https://www.digitalgov.gov/2015/10/23/is-your-site-mobile-friendly/) 
 - Top Five Ways to Create a Mobile-Friendly Website https://docs.google.com/document/d/1dyIGAdM7YXedRB78DWQ4VgTr1y51mBYeV1kUJ8L6Kdc/edit
 
 
@@ -38,10 +37,12 @@ A mobile friendly website can be navigated, viewed and accessed on a smartphone,
 
 ###  Pay attention to analytics
 
-https://www.digitalgov.gov/2017/05/15/webinar-recap-measuring-your-mobile-users.md/
-https://www.digitalgov.gov/2016/05/12/using-pirate-metrics-to-analyze-your-mobile-applications-audience.md/
-https://www.digitalgov.gov/2016/02/05/4-tips-for-analyzing-mobile-traffic-with-dap/
-https://www.digitalgov.gov/2017/08/14/20162017-mobile-analysis-mobile-device-trends-on-government-websites/
+{{< youtube DgSfm1wZvvE >}}
+
+- https://www.digitalgov.gov/2017/05/15/webinar-recap-measuring-your-mobile-users.md/
+- https://www.digitalgov.gov/2016/05/12/using-pirate-metrics-to-analyze-your-mobile-applications-audience.md/
+- https://www.digitalgov.gov/2016/02/05/4-tips-for-analyzing-mobile-traffic-with-dap/
+- https://www.digitalgov.gov/2017/08/14/20162017-mobile-analysis-mobile-device-trends-on-government-websites/
 
 ### Test your site
 
@@ -80,7 +81,16 @@ https://www.digitalgov.gov/2015/08/31/mobile-content-less-is-more.md/
 ## Agency examples and recommendations
 The list below shows some resources to help your agency comply with the Connected Government Act
 
-### Mobile User Experience Guidelines and Recommendations
+## Mobile User Experience Guidelines
+
+1. Make sure your content is structured and chunked appropriately for multiple devices
+2. Follow industry user interface guidelines and government regulations (like 508) in the development of your mobile product
+3. Leverage the device’s features for usability and accessibility
+4. Test at multiple points in the design/development process
+5. Collect and use data (quantitative and qualitative) to determine what content your users want and where
+6. Develop security and privacy guidelines with regard to what the app does/how it protects user data and government systems
+
+
 https://www.digitalgov.gov/resources/mobile-user-experience-guidelines-and-recommendations/
 https://www.digitalgov.gov/2014/01/20/mobile-gov-user-experience-resources-and-design-tools/
 
