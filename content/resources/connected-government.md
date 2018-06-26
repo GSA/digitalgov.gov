@@ -19,7 +19,7 @@ The Connected Government Act was signed into law, in January of 2018, and requir
 A mobile friendly website can be navigated, viewed and accessed on a smartphone, tablet computer, or similar mobile device, according to the law.
 
 - Community post: mobile friendly/mobile first/responsive design [Jacob has]
-- [Is Your Site Mobile Friendly?](https://www.digitalgov.gov/2015/10/23/is-your-site-mobile-friendly/) 
+- [Is Your Site Mobile Friendly?](https://www.digitalgov.gov/2015/10/23/is-your-site-mobile-friendly/)
 - Top Five Ways to Create a Mobile-Friendly Website https://docs.google.com/document/d/1dyIGAdM7YXedRB78DWQ4VgTr1y51mBYeV1kUJ8L6Kdc/edit
 
 
@@ -46,7 +46,7 @@ A mobile friendly website can be navigated, viewed and accessed on a smartphone,
 
 ### Test your site
 
-Developer Tools
+#### Developer Tools
 https://www.digitalgov.gov/2016/11/21/mobile-development-and-testing-with-chrome-devtools/
 https://www.digitalgov.gov/2014/10/28/trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design.md/
 https://www.digitalgov.gov/2014/10/30/hhs-conquers-tables-in-a-responsive-design/
@@ -64,11 +64,10 @@ https://www.digitalgov.gov/2015/02/24/trends-on-tuesday-mobile-web-lessons-from-
 https://www.digitalgov.gov/2015/06/09/the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices/
 
 #### Focus on performance
-
-https://www.digitalgov.gov/2014/11/18/trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times/
-https://designsystem.digital.gov/performance/
-https://www.digitalgov.gov/2015/09/16/speed-matters-optimizing-your-website-for-maximum-performance/
-https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/
+- How to track performance — [A step-by-step guide to picking metrics and tools for tracking performance on your site.](https://designsystem.digital.gov/performance/how/)
+- https://www.digitalgov.gov/2014/11/18/trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times/
+- https://www.digitalgov.gov/2015/09/16/speed-matters-optimizing-your-website-for-maximum-performance/
+- https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/
 
 
 ### Design for your users
