@@ -50,6 +50,7 @@
   {{ end }}
 
   {{ partial "post-meta--feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "branch" ($.Scratch.Get "branch")) }}
-
+  {{ partial "page-details" . }}
+  
 </div>
 {{ end }}
