@@ -37,6 +37,9 @@ top6:
     type          : 'video'
     summary       : 'A deeper dive into the benefits of integrating you Google Search Console with your Google Analytics account.'
 
+  - file          : '2018-06-26-waterscrumfall-in-a-hierarchical-departmentalized-organization.md'
+    type          : 'post'
+
   - file          : '2018-05-29-how-search-engines-index-your-websites.md'
     type          : 'video'
     title         : 'How Search Engines Index Your Websites'
@@ -51,7 +54,3 @@ top6:
     type          : 'post'
     title         : 'The Benefits of Agile Methods'
     summary       : 'Brian Fox covers five benefits of using agile in your organization.'
-
-  - file          : '2018-04-02-marketing-government-through-agency-partnerships.md'
-    type          : 'post'
-    title         : 'A New Way to Market Within the Federal Government'
