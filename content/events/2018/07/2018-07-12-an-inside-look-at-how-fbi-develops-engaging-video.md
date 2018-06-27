@@ -1,6 +1,6 @@
 ---
 slug: an-inside-look-at-how-fbi-develops-engaging-video
-title: 'An inside look at how the FBI develops engaging video'
+title: 'An Inside Look at How the FBI Develops Engaging Video'
 summary: 'Do you want to learn how to create a successful video strategy from beginning to end&#63;'
 featured_image: 
   uid: 
@@ -27,10 +27,10 @@ We will discuss everything from concept to completion, including marketing, coll
 - How to work with minimal resources: from concept development to producing video
 - Developing a content strategy for a video and story series: from messaging and scene planning to marketing and promotion
 - Backpack journalism: producing video and photo content on your own with minimal gear
-- Utilizing tools like 360 video, photography and audio to tell a story
+- Utilizing tools like 360 video, photography, and audio to tell a story
 - Leveraging different digital and traditional communications vehicles to get the most eyes on your content
 
-This talk is aimed at video producers, directors, cinematographers / DP’s, editors, social media and digital content managers, and anyone else interested in widening their reach through telling stories.
+This talk is aimed at video producers, directors, cinematographers / DPs, editors, social media and digital content managers, and anyone else interested in widening their reach through telling stories.
 
 
 ## About the Presenters
