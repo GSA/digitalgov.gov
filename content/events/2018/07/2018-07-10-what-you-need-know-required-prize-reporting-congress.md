@@ -17,13 +17,13 @@ youtube_id: XXXXX
 
 ---
 
-Under current law, the White House Office of Science and Technology Policy (OSTP) is required to collect key details on federally sponsored challenges and prize competitions that launched, ran or closed during any part of fiscal years 2017 and 2018. OSTP will compile the data into a biennial report that provides insights to Congress and guidance to other agencies.
+Under current law, the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) (OSTP) is required to collect key details on federally sponsored challenges and prize competitions that launched, ran, or closed during any part of fiscal years 2017 and 2018. OSTP will compile the data into a biennial report that provides insights to Congress and guidance to other agencies.
 
-This year, we’re making it easier! Register for this information sessional to find out:
+This year, we're making it easier! Register for this information sessional to find out:
 
-- How the reporting template has been simplified and how to master a solid report-out
-- What the Challenge.gov team is providing to alert you early about your challenges
-- When your templates are due and and the final report is estimated to publish
+- how the reporting template has been simplified and how to master a solid report-out, 
+- what the Challenge.gov team is providing to alert you early about your challenges, and
+- when your templates are due and the final report is estimated to publish.
 
 ## Who should attend:
 
@@ -31,9 +31,9 @@ Federal employees who have been involved in running a prize competition for thei
 
 ## Presenters:
 
-**Jennifer Shieh** wears dual hats at the White House Office of Science and Technology Policy, where she’ll coordinate this year’s Implementation of Prize Authority Progress Report and focus on the transfer of federally funded research and development from lab to market. As chief scientist at the Small Business Administration, she coordinates policy across the 11 agencies participating in the Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) programs.
+**Jennifer Shieh** wears dual hats at the White House Office of Science and Technology Policy, where she'll coordinate this year's Implementation of Prize Authority Progress Report and focus on the transfer of federally funded research and development from lab to market. As chief scientist at the Small Business Administration, she coordinates policy across the 11 agencies participating in the Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) programs.
 
-**Xueying "Shirley" Han** is a research staff at the Science and Technology Policy Institute (STPI), a federally funded research and development center partnered with OSTP to bring objective analysis to this mandated reporting. Since joining STPI in 2016, she has brought experience and expertise in the areas including China science and technology policy, STEM education, global migration of talent, and survey and experimental methodology, among others.
+**Xueying "Shirley" Han** is a research staff at the [Science and Technology Policy Institute](https://www.ida.org/STPI) (STPI), a federally funded research and development center partnered with OSTP to bring objective analysis to this mandated reporting. Since joining STPI in 2016, she has brought experience and expertise in the areas including China science and technology policy, STEM education, global migration of talent, and survey and experimental methodology, among others.
 
 **Tammy White** is the senior analyst for the [Challenge.gov](https://challenge.gov) program. Maintained by the General Services Administration, Challenge.gov has supported and encouraged agencies in the use of crowdsourcing competitions since 2010.
 
