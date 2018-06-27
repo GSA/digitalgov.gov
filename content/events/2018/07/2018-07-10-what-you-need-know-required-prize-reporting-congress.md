@@ -1,7 +1,7 @@
 ---
 slug: what-you-need-know-required-prize-reporting-congress
 title: 'What You Need to Know&#58; Required Prize Reporting to Congress'
-summary: ''
+summary: 'Federal employees who have been involved in running a prize competition for their agencies at any point during fiscal years 2017 and 2018 should attend this information session on prize reporting.'
 featured_image:
   uid:
   alt: ''
@@ -19,7 +19,7 @@ youtube_id: XXXXX
 
 Under current law, the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/) (OSTP) is required to collect key details on federally sponsored challenges and prize competitions that launched, ran, or closed during any part of fiscal years 2017 and 2018. OSTP will compile the data into a biennial report that provides insights to Congress and guidance to other agencies.
 
-This year, we're making it easier! Register for this information sessional to find out:
+This year, we're making it easier! Register for this information session to find out:
 
 - how the reporting template has been simplified and how to master a solid report-out, 
 - what the Challenge.gov team is providing to alert you early about your challenges, and
