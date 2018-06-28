@@ -31,7 +31,7 @@ Federal employees who have been involved in running a prize competition for thei
 
 ## Presenters:
 
-**Jennifer Shieh** wears dual hats at the White House Office of Science and Technology Policy, where she'll coordinate this year's Implementation of Prize Authority Progress Report and focus on the transfer of federally funded research and development from lab to market. As chief scientist at the Small Business Administration, she coordinates policy across the 11 agencies participating in the Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) programs.
+**Jennifer Shieh** wears dual hats at the White House Office of Science and Technology Policy, where she'll coordinate this year's Implementation of Prize Authority Progress Report and focus on the transfer of federally funded research and development from lab to market. As chief scientist at the [Small Business Administration](https://www.sba.gov/) (SBA) [Office of Investment and Innovation](https://www.sba.gov/offices/headquarters/ooi), she coordinates policy across the 11 agencies participating in the [Small Business Innovation Research/Small Business Technology Transfer](https://www.sba.gov/offices/headquarters/oca/resources/6827) (SBIR/STTR) programs.
 
 **Xueying "Shirley" Han** is a research staff at the [Science and Technology Policy Institute](https://www.ida.org/STPI) (STPI), a federally funded research and development center partnered with OSTP to bring objective analysis to this mandated reporting. Since joining STPI in 2016, she has brought experience and expertise in the areas including China science and technology policy, STEM education, global migration of talent, and survey and experimental methodology, among others.
 
