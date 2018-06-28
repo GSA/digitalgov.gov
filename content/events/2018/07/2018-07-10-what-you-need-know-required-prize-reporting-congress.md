@@ -35,7 +35,7 @@ Federal employees who have been involved in running a prize competition for thei
 
 **Xueying "Shirley" Han** is a research staff at the [Science and Technology Policy Institute](https://www.ida.org/STPI) (STPI), a federally funded research and development center partnered with OSTP to bring objective analysis to this mandated reporting. Since joining STPI in 2016, she has brought experience and expertise in the areas including China science and technology policy, STEM education, global migration of talent, and survey and experimental methodology, among others.
 
-**Tammy White** is the senior analyst for the [Challenge.gov](https://challenge.gov) program. Maintained by the General Services Administration, Challenge.gov has supported and encouraged agencies in the use of crowdsourcing competitions since 2010.
+**Tammy White** is the senior analyst for the [Challenge.gov](https://challenge.gov) program. Maintained by the [General Services Administration](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs), Challenge.gov has supported and encouraged agencies in the use of crowdsourcing competitions since 2010.
 
 ## Resources:
 
