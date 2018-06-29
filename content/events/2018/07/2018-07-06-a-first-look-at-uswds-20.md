@@ -6,7 +6,6 @@ featured_image:
   uid: preview-uswds-2-0
 event_type:
   - youtube-live
-  - online
 date: 2018-07-06 13:00:00 -0500
 end_date: 2018-07-06 13:30:00 -0500
 event_organizer: DigitalGov University
