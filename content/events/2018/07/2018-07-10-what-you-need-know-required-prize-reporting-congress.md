@@ -7,7 +7,6 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-  - online
 date: 2018-07-10 14:00:00 -0500
 end_date: 2018-07-10 15:00:00 -0500
 event_organizer: DigitalGov University
