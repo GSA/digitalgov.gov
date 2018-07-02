@@ -38,8 +38,8 @@ This webinar is open to the FedRAMP community, including CPSs, Agencies, and Thi
 
 ## Presenters: 
 
-**Matt Goodrich**, Director, FedRAMP
-As Director, Matt manages the FedRAMP PMO and sets the overall direction of the program. As a mandatory government-wide initiative, FedRAMP is one of the leading cloud computing security programs paving the way for cloud adoption and ensuring the security of cloud computing solutions used by the US government.
+**Matt Goodrich**, Director, FedRAMP 
+As director, Matt manages the FedRAMP PMO and sets the overall direction of the program. As a mandatory government-wide initiative, FedRAMP is one of the leading cloud computing security programs paving the way for cloud adoption and ensuring the security of cloud computing solutions used by the US government.
 
-**Ashley Mahan**, Agency Evangelist, FedRAMP
+**Ashley Mahan**, Agency Evangelist, FedRAMP 
 Ashley is responsible for managing FedRAMP’s agency engagement, outreach, and customer experience activities, which consists of over 130 federal agencies and 150+ industry partners. She leverages collaboration and consensus building as key tools to bring together parties and people, and relishes the opportunity to pave a path towards secure cloud adoption and IT modernization in government for all agencies.
