@@ -32,7 +32,7 @@ Karissa Minnich, from [The Lab @ DC] (http://thelab.dc.gov/), will be discussing
 
 The Lab @ DC uses scientific insights and methods to test and improve policies, and provide timely, relevant, and high-quality analysis to Mayor Bowser's administration. 
 
-**Presenter:**
+## Presenter: 
 
 **Karissa Minnich** is an operations analyst in The Lab @ DC. She works on matters of Lab operation as well as the planning, coordination, and execution of a suite of projects including the revision of government forms. Karissa's portfolio includes budget and fundraising, partnership development, operational efficiency, and event programming, as well as providing a unique perspective and guidance on the landscape of D.C. stakeholder groups.
 
@@ -40,9 +40,9 @@ Karissa joined the [Office of the City Administrator](https://oca.dc.gov/) (OCA)
 
 Karissa earned a B.A. in sociology and political science from Muhlenberg College and a Masters of Public Administration from The George Washington University. In her free time, she enjoys knitting, yoga, and exploring her Ward 1 neighborhood with her husband, Nick.
 
-**About plainlanguage.gov**
+## About plainlanguage.gov 
 
-_The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/)._
+The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/). 
 
 **NOTE:** In-person tickets are limited and going quickly, so sign up fast! Must be a federal employee and register with a .gov or .mil email.
 
