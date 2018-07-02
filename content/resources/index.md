@@ -160,7 +160,7 @@ aliases:
     *   [Required Web Content and Links]({{< link "required-web-content-and-links.md" >}})
 *   [Content Management Systems Toolkit]({{< link "2013-10-30-content-management-systems-toolkit.md" >}})
     *   [Content Management Systems Used by Government Agencies]({{< link "content-management-systems-used-by-government-agencies.md" >}})
-*   [DigitalGov Search]({{< link "search.md" >}})
+*   [Search.gov]({{< link "search.md" >}}) (formerly DigitalGov Search)
 *   [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf" >}}) (PDF, 607 kb, 92 pages, June 2004)
     *   [ICGI Report Attachments]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 184 kb, 7 pages, June 2004)
     *   [ICGI Summary and Background]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 176 kb, 6 pages, June 2004)
