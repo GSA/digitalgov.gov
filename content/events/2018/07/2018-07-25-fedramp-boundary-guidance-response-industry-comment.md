@@ -39,5 +39,6 @@ As Director, Matt manages the FedRAMP Program Management Office (PMO) and sets t
 **Ashley Mahan**, Agency Evangelist, FedRAMP
 Ashley is responsible for managing FedRAMP’s Agency engagement, outreach, and customer experience activities, which consists of over 130 Federal Agencies and 150+ industry partners. She leverages collaboration and consensus building as key tools to bring together parties and people, and relishes the opportunity to pave a path towards secure cloud adoption and IT modernization in government for all Agencies.
 
-FedRAMP Authorization Boundary - [Blog post](https://www.fedramp.gov/fedramp-authorization-boundary-guidance-released/)
-FedRAMP Authorization Boundary - [Guidance document](https://www.fedramp.gov/assets/resources/documents/CSP_A_FedRAMP_Authorization_Boundary_Guidance.pdf)
+[FedRAMP Authorization Boundary blog post](https://www.fedramp.gov/fedramp-authorization-boundary-guidance-released/)
+
+[FedRAMP Authorization Boundary guidance document [PDF]](https://www.fedramp.gov/assets/resources/documents/CSP_A_FedRAMP_Authorization_Boundary_Guidance.pdf)
