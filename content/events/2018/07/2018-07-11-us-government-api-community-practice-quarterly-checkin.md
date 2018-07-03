@@ -11,10 +11,10 @@ event_type:
 date: 2018-07-11 15:00:00 -0500
 end_date: 2018-07-11 16:30:00 -0500
 event_organizer: DigitalGov University
-registration_url: 
+registration_url: https://www.eventbrite.com/e/us-government-api-community-of-practice-quarterly-check-in-registration-47727957606
 venue: 
   venue_name: U.S. General Services Administration
-  room: 
+  room: 2213
   address: 1800 F Street NW
   city: Washington
   state: D.C.
@@ -41,7 +41,7 @@ This afternoon event is an opportunity for API practitioners from across federal
 ## Location 
 
 In person: [GSA Headquarters]() - Room 2213  
-Virtual:  Will send to registrants  
+Virtual:  Will send to registrants
 
 
 ## Event Details 
