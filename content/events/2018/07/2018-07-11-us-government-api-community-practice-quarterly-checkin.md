@@ -40,7 +40,7 @@ This afternoon event is an opportunity for API practitioners from across federal
 
 ## Location 
 
-In person: [GSA Headquarters]() - Room 2213  
+In person: GSA Headquarters - Room 2213  
 Virtual:  Will send to registrants
 
 
