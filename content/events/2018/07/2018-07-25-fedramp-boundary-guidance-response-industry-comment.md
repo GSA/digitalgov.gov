@@ -27,6 +27,11 @@ During the 45 minute webinar, Matt Goodrich and Ashley Mahan will focus on respo
 
 FedRAMP is offering the webinar at two dates and times (all ET), and both webinars will cover the same content. 
 
+**FedRAMP Authorization Boundary**: 
+
+ * [Blog post](https://www.fedramp.gov/fedramp-authorization-boundary-guidance-released/) 
+ * [Guidance document](https://www.fedramp.gov/assets/resources/documents/CSP_A_FedRAMP_Authorization_Boundary_Guidance.pdf) (3 pages, 293 kb, PDF)
+
 ## Who should attend:
 
 This webinar is open to the FedRAMP community, including CPSs, agencies, and Third-Party Assessor Organizations (3PAOs).
@@ -38,8 +43,3 @@ As director, Matt manages the FedRAMP PMO and sets the overall direction of the 
 
 **Ashley Mahan**, Agency Evangelist, FedRAMP 
 Ashley is responsible for managing FedRAMP’s agency engagement, outreach, and customer experience activities, which consists of over 130 federal agencies and 150+ industry partners. She leverages collaboration and consensus building as key tools to bring together parties and people, and relishes the opportunity to pave a path towards secure cloud adoption and IT modernization in government for all agencies. 
-
-## FedRAMP Authorization Boundary: 
-
- * [Blog post](https://www.fedramp.gov/fedramp-authorization-boundary-guidance-released/) 
- * [Guidance document](https://www.fedramp.gov/assets/resources/documents/CSP_A_FedRAMP_Authorization_Boundary_Guidance.pdf) (3 pages, 293 kb, PDF)
