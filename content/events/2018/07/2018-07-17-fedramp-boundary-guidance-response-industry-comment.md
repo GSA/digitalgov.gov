@@ -18,7 +18,7 @@ youtube_id: ez3yenZ57ok
 
 In May 2018, [FedRAMP](https://www.fedramp.gov/) released guidance informing Cloud Service Providers (CSPs) and agencies on the “rules of thumb” to consider when developing the FedRAMP authorization boundary for their cloud service offering(s). Following its release, the FedRAMP Program Management Office (PMO) accepted comments on the guidance until Friday, June 8th. In response to the comments received from industry partners, the FedRAMP PMO will be hosting two webinars. 
 
-During the 45 minute webinar, Matt and Ashley will focus on responding to industry feedback, and address the following:
+During the 45 minute webinar, Matt Goodrich and Ashley Mahan will focus on responding to industry feedback, and address the following:
 
 - What the PMO has seen in CSP authorization boundaries over the last year
 - What led to the development and release of authorization boundary guidance 
@@ -27,10 +27,10 @@ During the 45 minute webinar, Matt and Ashley will focus on responding to indust
 
 FedRAMP is offering the webinar at two dates and times (all ET), and both webinars will cover the same content. 
 
-FedRAMP Authorization Boundary: 
+**FedRAMP Authorization Boundary**: 
 
  * [Blog post](https://www.fedramp.gov/fedramp-authorization-boundary-guidance-released/) 
- * [Guidance document](https://www.fedramp.gov/assets/resources/documents/CSP_A_FedRAMP_Authorization_Boundary_Guidance.pdf)
+ * [Guidance document](https://www.fedramp.gov/assets/resources/documents/CSP_A_FedRAMP_Authorization_Boundary_Guidance.pdf) (3 pages, 293 kb, PDF) 
 
 ## Who should attend: 
 
