@@ -3,8 +3,8 @@ slug: what-you-need-know-required-prize-reporting-congress
 title: 'What You Need to Know&#58; Required Prize Reporting to Congress'
 summary: 'Federal employees who have been involved in running a prize competition for their agencies at any point during fiscal years 2017 and 2018 should attend this information session on prize reporting.'
 featured_image:
-  uid: 
-  alt: ''
+  uid: challengegov-logo
+  alt: 'The challenge.gov star logo'
 event_type:
   - youtube-live
 date: 2018-07-10 14:00:00 -0500
