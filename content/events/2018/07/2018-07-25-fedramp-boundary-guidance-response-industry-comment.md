@@ -1,7 +1,7 @@
 ---
 slug: fedramp-boundary-guidance-response-industry-comment
 title: 'FedRAMP Boundary Guidance&#58; Response to Industry Comment'
-summary: 'During this 45 minute webinar, we will focus on responding to industry feedback, from the May 2018, guidance FedRAMP released informing Cloud Service Providers &#40;CSPs&#41; and Agencies on the “rules of thumb” to consider when developing the FedRAMP authorization boundary for their cloud service offering&#40;s&#41;&#46;'
+summary: 'During this 45 minute webinar, we will focus on responding to industry feedback from the May 2018 guidance that FedRAMP released to inform Cloud Service Providers &#40;CSPs&#41; and agencies on the “rules of thumb” to consider when developing the FedRAMP authorization boundary for their cloud service offering&#40;s&#41;&#46;'
 featured_image: 
   uid: 
   alt: ''
