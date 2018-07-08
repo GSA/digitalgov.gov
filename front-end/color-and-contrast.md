@@ -23,6 +23,9 @@ personas:
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Video tutorial: How I do an accessibility check (contrast)
 </a>
 
+- [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [Accessible Colors](http://accessible-colors.com/)
+
 #### WCAG 2.0 references
 [1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=128%2C14&currentsidebar=%23col_overview#visual-audio-contrast-contrast)
 
