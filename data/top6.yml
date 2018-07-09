@@ -32,6 +32,11 @@ top6:
   - file          : '2018-07-10-introducing-accessibillity-teams.md'
     type          : 'post'
 
+  - file          : '2018-07-06-a-first-look-at-uswds-20.md'
+    type          : 'video'
+    title         : 'A First Look at USWDS 2.0'
+    summary       : 'The USWDS team shares what is coming up in version 2.0, which is set to launch later this summer.'
+
   - file          : '2018-06-26-how-one-team-making-transition-agile.md'
     type          : 'post'
 
@@ -46,14 +51,4 @@ top6:
   - file          : '2018-05-29-how-search-engines-index-your-websites.md'
     type          : 'video'
     title         : 'How Search Engines Index Your Websites'
-    summary       : 'Dawn Williams from Search.gov explains the fundamentals of search engines and how they monitor your content and pull relevant data from your pages.'
-
-  - file          : '2018-05-15-this-how-we-work-together-with-brad-frost.md'
-    type          : 'video'
-    title         : 'How Design Systems Help Us Work Together'
-    summary       : 'Brad Frost on how design systems in create successful, collaborative structures for modern organizations.'
-
-  - file          : '2018-04-03-thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods.md'
-    type          : 'post'
-    title         : 'The Benefits of Agile Methods'
-    summary       : 'Brian Fox covers five benefits of using agile in your organization.'
+    summary       : 'Dawn McCleskey from Search.gov explains the fundamentals of search engines and how they monitor your content and pull relevant data from your pages.'
