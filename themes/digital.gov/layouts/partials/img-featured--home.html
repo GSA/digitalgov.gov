@@ -14,6 +14,7 @@
 {{ $imgHeight := $thisimg.height }}
 
 {{ $.Scratch.Set "imgSuffix" "" }}
+{{ $imgWidth }}
 {{ if ge $imgWidth 400 }}
   {{ if ge $imgWidth 600 }}
     {{ if ge $imgWidth 800 }}
@@ -21,7 +22,7 @@
     {{ end }}
     {{ $.Scratch.Set "imgSuffix" "_w600" }}
   {{ end }}
-  {{ $.Scratch.Set "imgSuffix" "_w800" }}
+  {{ $.Scratch.Set "imgSuffix" "_w400" }}
 {{ end }}
 
 <img
