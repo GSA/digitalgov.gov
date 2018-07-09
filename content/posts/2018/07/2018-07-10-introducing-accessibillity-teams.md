@@ -10,8 +10,8 @@ categories:
 tag:
   - methodology
 featured_image:
-  uid:
-  alt:
+  uid: accessibility-for-teams-2
+  alt: Colorful graphic of a group of handicapped symbols
 
 ---
 
