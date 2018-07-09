@@ -2,6 +2,7 @@
 layout: primary
 title: Images
 permalink: /content-design/images/
+category: Content design
 sidebar: content
 question: Do your images have descriptive alt text?
 personas:

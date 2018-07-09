@@ -2,6 +2,7 @@
 layout: primary
 title: Keyboard access
 permalink: /front-end/keyboard-access/
+category: Front-end development
 sidebar: frontend
 question: Can you reach anything that’s interactive using the tab key?
 personas:

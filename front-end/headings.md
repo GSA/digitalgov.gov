@@ -2,6 +2,7 @@
 layout: primary
 title: Headings
 permalink: /front-end/headings/
+category: Front-end development
 sidebar: frontend
 question: Are you using accurate headings on your page?
 personas:

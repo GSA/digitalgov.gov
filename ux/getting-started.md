@@ -2,6 +2,7 @@
 layout: primary
 title: Getting started
 permalink: /ux/getting-started/
+category: UX design
 sidebar: ux
 ---
 

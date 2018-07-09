@@ -2,6 +2,7 @@
 layout: primary
 title: Forms
 permalink: /visual-design/forms/
+category: Visual design
 sidebar: visual
 question: Are forms as simple as possible and only ask what’s needed to complete the task? Can you successfully complete the form?
 personas:

@@ -2,6 +2,7 @@
 layout: primary
 title: Screen reader access
 permalink: /front-end/screen-reader/
+category: Front-end development
 sidebar: frontend
 question: Can you use a screen reader to access the page content?
 personas:

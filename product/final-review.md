@@ -2,6 +2,7 @@
 layout: primary
 title: Final review
 permalink: /product/final-review/
+category: Product management
 sidebar: product
 ---
 

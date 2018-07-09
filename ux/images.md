@@ -2,6 +2,7 @@
 layout: primary
 title: Images
 permalink: /ux/images/
+category: UX design
 sidebar: ux
 question: Have you identified which images are meaningful and which images are decorative in mockups?
 personas:

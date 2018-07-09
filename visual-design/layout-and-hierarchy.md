@@ -2,6 +2,7 @@
 layout: primary
 title: Layout and hierarchy
 permalink: /visual-design/layout-and-hierarchy/
+category: Visual design
 sidebar: visual
 question: Can you quickly understand the meaning of the page and complete your task?
 personas:

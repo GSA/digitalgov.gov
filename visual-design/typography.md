@@ -2,6 +2,7 @@
 layout: primary
 title: Typography
 permalink: /visual-design/typography/
+category: Visual design
 sidebar: visual
 question: Can you easily read and comprehend textual information on the page?
 personas:

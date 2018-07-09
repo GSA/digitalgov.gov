@@ -2,6 +2,7 @@
 layout: primary
 title: Inclusive design
 permalink: /ux/inclusive-design/
+category: UX design
 sidebar: ux
 ---
 

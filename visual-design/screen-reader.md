@@ -2,6 +2,7 @@
 layout: primary
 title: Screen reader
 permalink: /visual-design/screen-reader/
+category: Visual design
 sidebar: visual
 question: Can you use a screen reader to access the page content?
 personas:

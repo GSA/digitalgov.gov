@@ -2,6 +2,7 @@
 layout: primary
 title: Diverse users
 permalink: /product/diverse-users/
+category: Product management
 sidebar: product
 ---
 

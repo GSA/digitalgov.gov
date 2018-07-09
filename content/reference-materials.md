@@ -2,6 +2,7 @@
 layout: primary
 title: Reference materials
 permalink: /content-design/reference-materials/
+category: Content design
 sidebar: content
 question: Can you easily access supplementary information clarifying the content?
 personas:

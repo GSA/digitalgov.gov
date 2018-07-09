@@ -2,6 +2,7 @@
 layout: primary
 title: Project workflow
 permalink: /product/project-workflow/
+category: Product management
 sidebar: product
 ---
 

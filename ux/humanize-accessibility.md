@@ -2,6 +2,7 @@
 layout: primary
 title: Humanize accessibility
 permalink: /ux/humanize-accessibility/
+category: UX design
 sidebar: ux
 ---
 

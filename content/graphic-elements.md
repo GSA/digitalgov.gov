@@ -2,6 +2,7 @@
 layout: primary
 title: Easy-to-parse graphic elements
 permalink: /content-design/graphic-elements/
+category: Content design
 sidebar: content
 question: Can you easily interpret content associated with graphic elements?
 personas:

@@ -2,6 +2,7 @@
 layout: primary
 title: Automated testing
 permalink: /front-end/automated-testing/
+category: Front-end development
 sidebar: frontend
 question: Did your accessibility testing tools provide accurate results?
 ---

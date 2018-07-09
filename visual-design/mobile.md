@@ -2,6 +2,7 @@
 layout: primary
 title: Mobile
 permalink: /visual-design/mobile/
+category: Visual design
 sidebar: visual
 question: Can you understand key information and perform critical tasks on a mobile device?
 personas:

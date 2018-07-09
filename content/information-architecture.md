@@ -2,6 +2,7 @@
 layout: primary
 title: Information architecture
 permalink: /content-design/information-architecture/
+category: Content design
 sidebar: content
 question: Is your site organized such that everyone can navigate it easily?
 personas:

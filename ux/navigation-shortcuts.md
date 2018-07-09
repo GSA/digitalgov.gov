@@ -2,6 +2,7 @@
 layout: primary
 title: Navigation shortcuts
 permalink: /ux/navigation-shortcuts/
+category: UX design
 sidebar: ux
 question: Have you included navigation shortcuts for screen reader and keyboard users?
 personas:

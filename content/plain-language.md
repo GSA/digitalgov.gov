@@ -2,6 +2,7 @@
 layout: primary
 title: Plain language
 permalink: /content-design/plain-language/
+category: Content design
 sidebar: content
 question: Can you quickly understand the main points of the content?
 personas:

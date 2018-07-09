@@ -2,6 +2,7 @@
 layout: primary
 title: Color and contrast
 permalink: /visual-design/color-and-contrast/
+category: Visual design
 sidebar: visual
 question: Is there enough contrast between text and its background color?
 personas:

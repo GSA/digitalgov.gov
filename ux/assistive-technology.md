@@ -2,6 +2,7 @@
 layout: primary
 title: Assistive technology
 permalink: /ux/assistive-technology/
+category: UX design
 sidebar: ux
 ---
 

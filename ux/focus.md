@@ -3,6 +3,7 @@ layout: primary
 title: Focus
 permalink: /ux/focus/
 sidebar: ux
+category: UX design
 question: Have you designed for logical focus behavior on interactive elements?
 personas:
 - Jiang is blind and uses a screen reader to navigate the web – when a modal pops up and doesn’t receive focus he may not even know it’s there.

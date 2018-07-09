@@ -2,6 +2,7 @@
 layout: primary
 title: Getting started
 permalink: /front-end/getting-started/
+category: Front-end development
 sidebar: frontend
 ---
 

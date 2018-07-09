@@ -2,6 +2,7 @@
 layout: primary
 title: Getting started
 permalink: /visual-design/getting-started/
+category: Visual design
 sidebar: visual
 ---
 

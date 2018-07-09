@@ -2,6 +2,7 @@
 layout: primary
 title: Tab order
 permalink: /ux/tab-order/
+category: UX design
 sidebar: ux
 question: Do your wireframes or design mockups indicate a logical tab order for people using a keyboard, or other assistive technology, to navigate?
 personas:

@@ -3,6 +3,7 @@ layout: primary
 title: Forms
 permalink: /ux/forms/
 sidebar: ux
+category: UX design
 question: Can all users understand and fill out forms?
 personas:
 - Esther is beginning to show signs of dementia and has trouble with short term memory loss, she needs context clues and instructions to stay visible on the screen or she loses her place. 

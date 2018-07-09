@@ -2,6 +2,7 @@
 layout: primary
 title: Keyboard access
 permalink: /visual-design/keyboard-access/
+category: Visual design
 sidebar: visual
 question: Can you reach anything that’s interactive using the tab key?
 personas:

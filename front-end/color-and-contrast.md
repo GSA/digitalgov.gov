@@ -2,6 +2,7 @@
 layout: primary
 title: Color and contrast
 permalink: /front-end/color-and-contrast/
+category: Front-end development
 sidebar: frontend
 question: Is there enough contrast between text and its background color?
 personas:

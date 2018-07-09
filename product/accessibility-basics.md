@@ -2,6 +2,7 @@
 layout: primary
 title: Accessibility basics
 permalink: /product/accessibility-basics/
+category: Product management
 sidebar: product
 ---
 

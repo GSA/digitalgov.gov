@@ -2,6 +2,7 @@
 layout: primary
 title: Links
 permalink: /content-design/links/
+category: Content design
 sidebar: content
 question: Do all links have properly descriptive text?
 personas:

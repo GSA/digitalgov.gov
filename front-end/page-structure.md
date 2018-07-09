@@ -2,6 +2,7 @@
 layout: primary
 title: Page structure
 permalink: /front-end/page-structure/
+category: Front-end development
 sidebar: frontend
 question: Are you using semantic elements and roles?
 personas:

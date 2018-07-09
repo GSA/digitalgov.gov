@@ -2,6 +2,7 @@
 layout: primary
 title: Graphics and images
 permalink: /visual-design/graphics-and-images/
+category: Visual design
 sidebar: visual
 question: Can you easily understand content associated with graphics, icons, and images?
 personas:

@@ -2,6 +2,7 @@
 layout: primary
 title: Getting started
 permalink: /product/getting-started/
+category: Product management
 sidebar: product
 ---
 

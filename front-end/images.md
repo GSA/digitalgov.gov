@@ -2,6 +2,7 @@
 layout: primary
 title: Images
 permalink: /front-end/images/
+category: Front-end development
 sidebar: frontend
 question: Do images have good alt text?
 personas:

@@ -2,6 +2,7 @@
 layout: primary
 title: Touch targets
 permalink: /ux/touch-targets/
+category: UX design
 sidebar: ux
 question: Are your touch targets large enough and easy to reach?
 personas:
