@@ -81,6 +81,6 @@ There are more than 10,000 people participating across government in 21 areas. O
 
 ### Community Guidelines
 
-Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the Freedom of Information Act._
+Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the [Freedom of Information Act](https://www.foia.gov/) (FOIA)._
 
 For more information on Communities, or to propose a new inter-agency group, please send an email to [Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
