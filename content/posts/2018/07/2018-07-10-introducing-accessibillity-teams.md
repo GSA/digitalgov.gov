@@ -7,6 +7,7 @@ authors:
   - maya-benari
 categories:
   - accessibility
+  - ux
 tag:
   - methodology
 featured_image:
