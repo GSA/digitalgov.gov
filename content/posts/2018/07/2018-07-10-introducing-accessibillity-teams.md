@@ -2,7 +2,7 @@
 slug: introducing-accessibility-for-teams
 date: 2018-07-10 16:38:00 -0500
 title: 'Introducing Accessibility for Teams'
-summary: "A quick-start guide for embedding accessibility and inclusive design into a team's workflow"
+summary: "A quick-start guide for embedding accessibility and inclusive design into a team's workflow."
 authors:
   - maya-benari
 categories:
@@ -49,4 +49,4 @@ We’d like to thank everyone who contributed and provided feedback (apologies f
 
 David Stenger, Carolyn Dew, Victor Zapanta, Kate Saul, Nikki Lee, Andrew Maier, Atul Varma, Corey Mahoney, Andre Francisco, James Hupp, Julia Sultan, Michael Torres, Jen Thibault, Leah Bannon, Michelle Hertzfeld, Rebecca Piazza, Nick Bristow, Jeremy Zilar, Dan Williams, Micah Taylor, John Yuda, Aviva Oskow, John Sullivan, Kathy Eng, the Accessible Design & Dev Technical Guidance Workgroup, the Section 508 listserv and Accessibility Coordinators.
 
-_This DigitalGov Guide is maintained by the Accessibility Guild in TTS at GSA. In the government, accessibility isn’t a nice-to-have, it’s the law. Find out more about Section 508 of the Rehabilitation Act of 1973, a law that requires all information and communications technology released by the government to be accessible to anybody with a disability. Learn about the Section 508 Refresh that went into effect in January 2018._
+_This DigitalGov Guide is maintained by the Accessibility Guild in TTS at GSA. In the government, accessibility isn’t a nice-to-have, [it’s the law](https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508). Find out more about [Section 508](https://section508.gov/manage/laws-and-policies) of the Rehabilitation Act of 1973, a law that requires all information and communications technology released by the government to be accessible to anybody with a disability. Learn about the [Section 508 Refresh](https://digital.gov/2018/01/30/updated-it-accessibility-standards/) that went into effect in January 2018._
