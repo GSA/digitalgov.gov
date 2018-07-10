@@ -51,6 +51,10 @@ Virtual:  Will send to registrants
 
 * [NASA's Mission Design API](https://ssd-api.jpl.nasa.gov/doc/mdesign.html)
 * [CPSC's Violations & NEISS API](https://opendata.cpsc.gov/opendataApi/apidocs/api-guide)
+* [FTC's HSR Early Termination Notices](https://www.ftc.gov/developer/api/v0/endpoints/hsr-early-termination-notices) and [Developer Hub](https://www.ftc.gov/developer)
+* [NLM Data Portal Pilot Project API](https://datadiscovery.nlm.nih.gov/api/views.json)
+* [NAMUS.gov API](https://www.namus.gov/api/VehicleMakes) - [2nd example URL](https://www.namus.gov/api/CaseSets/NamUs/States)
+* [Smithsonian American Art API](https://smithsonian.github.io/api-docs/#/SAAM)
 
 _Suggest others [here](https://github.com/18F/wg-api/issues/13)_
 
