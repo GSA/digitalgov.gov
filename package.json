@@ -42,7 +42,7 @@
     "image-size": "^0.6.3",
     "merge-stream": "^1.0.1",
     "postcss-uncss": "^0.15.0",
-    "uncss": "^0.15.0",
+    "uncss": "^0.16.2",
     "vinyl-paths": "^2.1.0"
   },
   "dependencies": {
