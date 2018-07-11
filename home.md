@@ -44,7 +44,7 @@ permalink: /
           </a>
         </li>
       </ul>
-      <p class="home-roles-note">These roles are based on the roles we have at the Technology Transformation Services.</p>
+      <p class="home-roles-note">These roles are based on the roles we have at the Technology Transformation Services at GSA.</p>
     </div>
   </div>
 </div>
