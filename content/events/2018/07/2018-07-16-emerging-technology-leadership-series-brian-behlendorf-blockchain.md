@@ -22,11 +22,11 @@ A [recent report from the Organisation for Economic Co-operation and Development
 
 The Emerging Technology Leadership Series, hosted by [the U.S. General Services Administration Emerging Citizen Technology Office](https://emerging.digital.gov/), is a six-part livestream pilot to enhance the modern federal workforce with training, education, and awareness of emerging technologies including Artificial Intelligence, Robotic Process Automation, Blockchain, Social Technologies, and Virtual/Augmented Reality. 
 
-##Who should attend
+## Who should attend
 
 Federal employees or anyone who wants to learn more about how public services can benefit from the practical application of blockchain-based solutions. 
 
-##Presenters
+## Presenters
 
 **Brian Behlendorf** is the Executive Director of Hyperledger, an initiative at the Linux Foundation. Behlendorf was a primary developer of the Apache Web server, the most popular web server software on the Internet, and a founding member of the Apache Software Foundation. He has also served on the board of the Mozilla Foundation since 2003 and the Electronic Frontier Foundation since 2013. He was the founding CTO of CollabNet and CTO of the World Economic Forum. He has also been a managing director at Mithril Capital Management LLC, a venture capital fund.
 
