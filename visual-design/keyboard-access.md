@@ -11,7 +11,7 @@ personas:
 
 ### Steps to take
 - Using only your keyboard, navigate through the page using the `tab` key.
-- Make sure you can reach all interactive elements and trigger them with the s`spacebar`, `enter` key, or arrow keys, and ensure that you have designed intentional styles for these states: focus, hover, active, and visited.
+- Make sure you can reach all interactive elements and trigger them with the `spacebar`, `enter` key, or arrow keys, and ensure that you have designed intentional styles for these states: focus, hover, active, and visited.
 - Check to see that focus is always visible and that interactive items on the page appear  in logical order.
 Make sure that no content gets focused offscreen or is hidden from view.
 - Check to see that the page includes a skip navigation link (if navigation is present before the main content). This will allow users to skip past navigation to reach the page’s main content.
