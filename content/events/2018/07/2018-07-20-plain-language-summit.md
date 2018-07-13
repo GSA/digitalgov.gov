@@ -47,16 +47,16 @@ We believe the public deserves plain language communication from its government,
 | 9:05am            | **Welcome from GSA’s Senior Plain Language Official** - Donna Garland, GSA                                                  |
 | 9:15am - 10:00am  | **Keynote** - Ginny Redish, Redish & Associates                                                                             |
 | 10:00am - 10:15am | **Break**                                                                                                                   |
-| 10:15am - 11:00am | **TL;DR** - Anne Meeker and Heather Painter, from the Office of Congressman Seth Moulton (MA-06)                            |
+| 10:15am - 11:00am | **TL;DR** - Anne Meeker and Eric Kanter, from the Office of Congressman Seth Moulton (MA-06)                            |
 | 11:00am - 11:40am | **Plain Language, Customer Experience and User Experience** — Jon Rubin, CFPB                                               |
 | 11:40am - 12:20pm | **How to Design Custom Plain Language Training** — Katina Stapleton, Dept. of Education                                     |
 | 12:20pm - 1:15pm  | **Break for Lunch**                                                                                                         |
-| 1:15pm - 1:55pm   | **Plain Language and Translation** — USCIS                                                                                  |
-| 1:55pm - 2:25pm   | **Center for Plain Language Report Card** — SPEAKER TK, Center from Plain Language                                          |
+| 1:15pm - 1:55pm   | **Plain Language and Translation** — Laura Godfrey, GSA                                                                                  |
+| 1:55pm - 2:25pm   | **Center for Plain Language Report Card** — David Lipscomb, Center from Plain Language                                          |
 | 2:25pm - 2:40pm   | **Break**                                                                                                                   |
 | 2:40pm - 3:10pm   | **Adult Literacy** - Meredith Larson, Dept. of Education                                                                    |
 | 3:10pm - 3:50pm   | **No, the Law Does Not Normally Require Legalese** - Joe Kimble, Professor Emeritus, Western Michigan University            |
-| 3:50pm - 4:00pm   | **Wrap Up & Closing** - Kathryn Catania (USCIS) and Katherine Spivey (GSA)                                                  |
+| 3:50pm - 4:00pm   | **Wrap Up & Closing** - Kathryn Catania, USCIS and Katherine Spivey, GSA                                                  |
 
 
 ## About plainlanguage.gov
@@ -68,4 +68,4 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
 
 
-**NOTE:** In-person tickets are limted and going quickly, so sign-up fast! Federal employees registered with a .mil or .gov email will recieve priority, and others after.
+**NOTE:** In-person tickets are limited and going quickly, so sign-up fast! Federal employees registered with a .mil or .gov email will receive priority, and others after.

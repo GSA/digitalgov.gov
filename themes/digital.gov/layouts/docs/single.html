@@ -16,8 +16,9 @@
 
         {{ .Content }}
 
-        {{ partial "post-meta--feedback" (dict "page" . "page_type" "resource") }}
-
+        {{ partial "post-meta--feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) }}
+        {{ partial "page-details" . }}
+        
       </div><!-- .entry -->
     </div><!--.post -->
   </div><!-- #content -->

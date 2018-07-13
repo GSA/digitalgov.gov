@@ -11,6 +11,7 @@ Paginate                : 100
 googleAnalytics         : ""
 enableRobotsTXT         : true
 enableEmoji             : true
+enableGitInfo           : true
 
 ignoreFiles:
   - "^_template"
@@ -42,6 +43,8 @@ blackfriday:
 params:
   description           : "We’re building a modern government, together."
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
+  git_org               : "GSA"
+  git_repo              : "digitalgov.gov"
   devmode               : false
 
 permalinks:

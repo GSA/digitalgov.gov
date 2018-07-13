@@ -19,7 +19,7 @@ aliases:
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._
 
-This is an advanced training for people currently using or interested in using tag managers to deploy DAP and/or Google Analytics. We’ll have presenters from different agencies to get custom in learning how to track specific events and write javascript to maximize the tag manager experience.
+This advanced training is for people currently using or interested in using tag managers to deploy DAP and/or Google Analytics. We’ll have presenters from different agencies to get custom in learning how to track specific events and write javascript to maximize the tag manager experience.
 
 You’ll learn:
 

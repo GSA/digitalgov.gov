@@ -1,0 +1,6 @@
+{{- $cdnurl := .Site.Params.cdnurl -}}
+{{- $tosPath := "_terms-of-service" -}}
+{{- $filePath := (.Get 0) -}}
+{{- $filePath := replaceRE "^/" "" $filePath -}}
+{{- $fileCDN := printf "%s/%s/%s" $cdnurl $tosPath $filePath -}}
+{{ $fileCDN }}
