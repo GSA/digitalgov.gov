@@ -1,10 +1,17 @@
-display_name: Jessica Skretch
-first_name: Jessica
-last_name: Skretch
-uid: jessica-skretch
-email: Jessica.L.Skretch@frb.gov
-bio: Jessica Skretch is a User Experience (UX) and Visual Designer at the Federal Reserve Board. Jess works on a design and development team creating tools for economists. Previously, she worked at the Federal Trade Commission designing in support of consumer education goals. At the FTC, Jess led design and usability for IdentityTheft.gov. Jess is a strong visual designer who loves learning about users and designing to solve problems.
-location: ""
-quote: ""
-github: ""
-twitter: ""
+uid             : jessica-skretch
+display_name    : Jessica Skretch
+first_name      : Jessica 
+last_name       : Skretch
+email           : "Jessica.L.Skretch@frb.gov"
+website         :
+bio             : "Jessica Skretch is a UX and Visual Designer at the Federal Reserve Board. Jess works on a design and development team creating tools for Economists. Previously, she worked at the Federal Trade Commission (FTC) designing in support of consumer education goals. At the FTC, Jess led design and usability for IdentityTheft.gov. Jess is a strong visual designer that loves learning about users and designing to solve problems."
+location        :
+quote           :
+github          :
+twitter         :
+youtube         :
+facebook        :
+linkedin        :
+featured_image  :
+  uid           :
+  alt           :
