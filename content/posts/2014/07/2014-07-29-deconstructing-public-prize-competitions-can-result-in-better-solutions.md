@@ -40,7 +40,7 @@ One of the most unfortunate scenarios possible in a challenge is receiving solut
 
 See the slides for more information:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/pUf4662SbptNWw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen alt="Deconstructing Challenges Webinar"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/deconstructing-challenges-webinar" title="Deconstructing Challenges Webinar" target="_blank">Deconstructing Challenges Webinar</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pUf4662SbptNWw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/deconstructing-challenges-webinar" title="Deconstructing Challenges Webinar" alt="Slides: Deconstructing Challenges Webinar" target="_blank">Deconstructing Challenges Webinar</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
 
 The HFPP Challenge tandem of Zeiler and LaMora made clear that the process of deconstructing a challenge requires more thought and a reliable collaboration structure; but for the right kind of challenge, they said, it can be well worth the effort.
 
