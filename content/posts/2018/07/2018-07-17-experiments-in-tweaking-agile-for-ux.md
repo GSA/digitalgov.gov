@@ -16,7 +16,7 @@ tag:
   - ux
 featured_image: 
   uid: 
-  alt: ''
+  alt: 'Featured image al text.'
 ---
 
 _This blog post is adapted from a talk at the 2018 Government UX Summit at the Bureau of Labor Statistics._
@@ -51,7 +51,7 @@ If a sprint zero won’t work for your team, involving developers in the design 
 
 ## Experiment #3: Skipping Estimation
 
-Most sprints start with a rote estimation of tasks. Our team was using a Fibonacci sequence to help estimate tasks, but we started to question its value. The numbers sometimes felt arbitrary and we wrestled with the notion that the numbers are not hours. We also noticed that our design tasks took up a similar amount of time for each project, and it felt like a waste of time to estimate standard tasks, like writing a research guide and conducting individual interviews.  So, we decided to eliminate estimation for a few sprints – and we got a lot of mixed results.
+Most sprints start with a rote estimation of tasks. Our team was using a Fibonacci sequence to help estimate tasks, but we started to question its value. The numbers sometimes felt arbitrary and we wrestled with the notion that the numbers are not hours. We also noticed that our design tasks took up a similar amount of time for each project, and it felt like a waste of time to estimate standard tasks, like writing a research guide and conducting individual interviews.  So, we decided to eliminate estimation for a few sprints&mdash;and we got a lot of mixed results.
 
 Instead of estimating, our team created goals for each sprint, and we relied more heavily on achieving an overall goal, whether for the team or an individual owning a goal or a particular subset of a goal.  Our sprint goals helped keep things in check. Our goals helped us ensure our expectations for the sprint were reasonable and achievable and that our tasks supported the goals we wanted to achieve.  We found that creating goals for the sprint kept our team motivated, while also reducing the tendency to slip back into a waterfall approach.
 
@@ -61,14 +61,12 @@ This experiment was useful, and we’re continuing to rethink how we estimate. W
 
 ## Experiment #4: Actually Incorporating Retrospective Learnings 
 
-We spent time as a team doing thoughtful and honest retrospectives, but often our insights sat in a document and never got incorporated into our next sprint. We asked ourselves how we could prevent our learnings from get lost. 
+We spent time as a team doing thoughtful and honest retrospectives, but often our insights sat in a document and never got incorporated into our next sprint. We asked ourselves how we could prevent our learnings from getting lost. 
 
 We decided to try a few things, starting with incorporating one new experiment each sprint. We looked through our past retrospectives to pinpoint where we had already identified opportunities. We brainstormed to figure out how to address our weaknesses with a new experiment. It was a positive and proactive approach the entire team could buy into.
 
-Whether or not we decided to experiment based on a past retrospective, we started reviewing our old retrospectives during a sprint close. Reviewing our retrospectives more regularly helped us understand the difference between slight annoyances during a particular sprint versus an ongoing pattern we needed to address. 
+Whether or not we decided to experiment based on a past retrospective, we started reviewing our old retrospectives during a sprint close. Reviewing our retrospectives more regularly helped us understand the difference between slight annoyances during a particular sprint, versus an ongoing pattern we needed to address. 
 
 We also incorporated thanking each other. In addition to reflecting on the previous sprint, we wrapped up our final retrospective of the process by thanking one person for something they did on the project that was meaningful. By making learnings personal, they also become more memorable.
 
----
-
-_We are interested in hearing the challenges you have had in incorporating [agile](https://digital.gov/tag/agile/) and [UX](https://digital.gov/categories/ux/) into your process. What experiments have you tried? What has worked well and what has failed? Use the email link below to let us know.  If you have a **.gov** or **.mil** email address, you can also join the [User Experience Community of Practice](https://digital.gov/communities/user-experience/)._ 
+_We are interested in hearing the challenges you have had in incorporating [agile](https://digital.gov/tag/agile/) and [UX](https://digital.gov/categories/ux/) into your process. What experiments have you tried? What has worked well and what has failed? Use the email link below to let us know. If you have a **.gov** or **.mil** email address, you can also join the [User Experience Community of Practice](https://digital.gov/communities/user-experience/)._ 
