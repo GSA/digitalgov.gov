@@ -58,15 +58,12 @@ function get_commit_data(){
 get_commit_data(filepath);
 
 function get_branch_link(branch_name){
-	if (branch_name == 'master') {
-		return branch_link;
-	} else {
-		var path = 'https://github.com/GSA/digitalgov.gov/tree/' + branch_name;
-		var branch_link = [
-			"<a class='branch' href="+path+" title="+branch_name+">"+branch_name+"</a> "
-		].join("\n");
-		return branch_link;
-	}
+	var path = 'https://github.com/GSA/digitalgov.gov/tree/' + branch_name;
+	var branch_link = [
+		"<a class='branch' href="+path+" title="+branch_name+">"+branch_name+"</a> "
+	].join("\n");
+	console.log(branch_link);
+	return branch_link;
 }
 
 function show_last_commit(data, branch_name){
