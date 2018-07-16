@@ -43,7 +43,12 @@ function build_edit_file_link(){
 build_edit_file_link();
 
 function get_commit_data(){
-	// commit_api_path is set the <head>
+	if (branch == "master") {
+		branchpath = "";
+	} else {
+		branchpath = "/" + branch;
+	}
+	var commit_api_path  = "https://api.github.com/repos/" + git_org + "/" + git_repo + "/commits" + branchpath + "?path=/content/" + filepath;
 	console.log(commit_api_path);
 	if (commit_api_path !== undefined) {
 		$.ajax({
@@ -68,10 +73,8 @@ function get_branch_link(branch_name){
 
 function show_last_commit(data, branch_name){
 	var branch_link = get_branch_link(branch_name);
-	var commit_date = data['commit']['committer']['date'];
-	console.log(data);
-	console.log(commit_date);
-	var commit_author = data['author']['login'];
+	var commit_date = data[0]['commit']['committer']['date'];
+	var commit_author = data[0]['author']['login'];
 	var commit_author_url = 'https://github.com/' + commit_author;
 	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/'+branch_name+'/content/' + filepath;
 	var last_commit = [
