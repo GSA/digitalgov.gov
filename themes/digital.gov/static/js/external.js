@@ -57,8 +57,9 @@ function get_commit_data(){
 		}).done(function(data) {
 			if (typeof data !== 'undefined') {
 				if (branch == "master") {
-					branchpath = "";
 					show_last_commit(data, branch);
+				} else {
+					show_branch_last_commit(data, branch);
 				}
 			}
 		});
@@ -96,6 +97,16 @@ function show_last_commit(data, branch){
 			"<span class='commit-date'>"+getFormattedDate(commit_date)+"</span>",
 		"</a>",
 		""
+	].join("\n");
+	$('.last_commit').each(function(i, items_list) {
+		$(this).append(last_commit).removeClass('hidden');
+	});
+}
+
+function show_branch_last_commit(data, branch){
+	var branch_link = get_branch_link(branch);
+	var last_commit = [
+		branch_link
 	].join("\n");
 	$('.last_commit').each(function(i, items_list) {
 		$(this).append(last_commit).removeClass('hidden');
