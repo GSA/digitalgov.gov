@@ -13,11 +13,7 @@
         {{ if .Params.deck }}
         <div class="deck">{{ .Params.deck }}</div>
         {{ end }}
-        {{ partial "last-updated" . }}
       </div>
-
-
-      {{ .Content }}
 
       <div id="dg_newsletter_form">
         <!--[if lte IE 8]>
@@ -31,6 +27,13 @@
         });
         </script>
       </div>
+
+      <div class="entry-content">
+        {{ .Content }}
+      </div>
+
+      {{ partial "post-meta--feedback" (dict "page" . "page_type" "page" "branch" ($.Scratch.Get "branch")) }}
+      {{ partial "page-details" . }}
 
     </div>
   </div><!-- #content -->
