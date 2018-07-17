@@ -43,38 +43,51 @@ function build_edit_file_link(){
 build_edit_file_link();
 
 function get_commit_data(){
-	// commit_api_path is set the <head>
+	if (branch == "master") {
+		branchpath = "";
+	} else {
+		branchpath = "/" + branch;
+	}
+	var commit_api_path  = "https://api.github.com/repos/" + git_org + "/" + git_repo + "/commits" + branchpath + "?path=/content/" + filepath;
+	console.log(commit_api_path);
 	if (commit_api_path !== undefined) {
 		$.ajax({
 		  url: commit_api_path,
 		 	dataType: 'json',
 		}).done(function(data) {
 			if (typeof data !== 'undefined') {
-				show_last_commit(data, branch);
+				if (branch == "master") {
+					show_last_commit(data, branch);
+				} else {
+					// show_branch_last_commit(data, branch);
+					show_last_commit(data, branch);
+				}
 			}
 		});
 	}
 }
 get_commit_data(filepath);
 
-function get_branch_link(branch_name){
-	if (branch_name == 'master') {
-		return branch_link;
-	} else {
-		var path = 'https://github.com/GSA/digitalgov.gov/tree/' + branch_name;
-		var branch_link = [
-			"<a class='branch' href="+path+" title="+branch_name+">"+branch_name+"</a> "
-		].join("\n");
-		return branch_link;
-	}
+function get_branch_link(branch){
+	var path = 'https://github.com/GSA/digitalgov.gov/tree/' + branch;
+	var branch_link = [
+		"<a class='branch' href="+path+" title="+branch+">"+branch+"</a> "
+	].join("\n");
+	return branch_link;
 }
 
-function show_last_commit(data, branch_name){
-	var branch_link = get_branch_link(branch_name);
-	var commit_date = data['commit']['committer']['date'];
-	var commit_author = data['author']['login'];
+function show_last_commit(data, branch){
+	var branch_link = get_branch_link(branch);
+	console.log(data);
+	if (data[0] == null) {
+		var commit_date = data['commit']['committer']['date'];
+		var commit_author = data['author']['login'];
+	} else {
+		var commit_date = data[0]['commit']['committer']['date'];
+		var commit_author = data[0]['author']['login'];
+	}
 	var commit_author_url = 'https://github.com/' + commit_author;
-	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/'+branch_name+'/content/' + filepath;
+	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/'+branch+'/content/' + filepath;
 	var last_commit = [
 		branch_link,
 		"Last updated by",
@@ -85,6 +98,16 @@ function show_last_commit(data, branch_name){
 			"<span class='commit-date'>"+getFormattedDate(commit_date)+"</span>",
 		"</a>",
 		""
+	].join("\n");
+	$('.last_commit').each(function(i, items_list) {
+		$(this).append(last_commit).removeClass('hidden');
+	});
+}
+
+function show_branch_last_commit(data, branch){
+	var branch_link = get_branch_link(branch);
+	var last_commit = [
+		branch_link
 	].join("\n");
 	$('.last_commit').each(function(i, items_list) {
 		$(this).append(last_commit).removeClass('hidden');

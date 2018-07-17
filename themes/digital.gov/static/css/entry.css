@@ -175,6 +175,9 @@
 .last-updated .last_commit a{
 	color: #898989;
 }
+.last-updated .last_commit .branch{
+	display: none;
+}
 
 @media only screen and (max-width:480px) {
 	#wrap{
