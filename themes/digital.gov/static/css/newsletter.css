@@ -11,8 +11,9 @@
 	font-family: Trebuchet,Tahoma,sans-serif;
 }
 #dg_newsletter_form form input{
-	padding: 0 8px;
+	padding: 3px 12px;
 	height: 35px;
+	color: #222;
 }
 #dg_newsletter_form form ul{
 	margin-bottom: 10px;
@@ -35,4 +36,5 @@
 	padding: 10px 16px;
 	line-height: 22px;
 	height: auto;
+	color: #fff;
 }
