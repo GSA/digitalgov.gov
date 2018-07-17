@@ -74,6 +74,9 @@ function get_branch_link(branch_name){
 function show_last_commit(data, branch_name){
 	var branch_link = get_branch_link(branch_name);
 	console.log(data);
+	var obj = {};
+	console.log(obj);
+	console.log( data.includes(obj) );
 	var commit_date = data[0]['commit']['committer']['date'];
 	var commit_author = data[0]['author']['login'];
 	var commit_author_url = 'https://github.com/' + commit_author;
