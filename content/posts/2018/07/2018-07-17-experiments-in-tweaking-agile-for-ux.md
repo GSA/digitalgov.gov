@@ -30,6 +30,8 @@ We don’t consider ourselves experts, but we want to share what we’ve tried, 
 
 ## Experiment #1: Incorporating Sprint Zero
 
+{{< img src="agile-ux-ex1" >}}
+
 Throughout our projects, we’ve felt a tension between the design process and a pressure to move fast. As a design-driven team, we didn’t want to shortchange our research, but we also knew the developers needed more tasks to tackle. These goals resulted in incredibly ambitious and overreaching early sprints.
 
 We’ve tried a few variations on “sprint zero.” While agile experts will describe sprint zero in various ways, our sprint zero is meant to help designers get a head start on the design process. We find that sprint zero can be a time for designers to work on scoping the project, getting initial research done and help to create a backlog of tasks and user stories before bringing developers full-time on a project. Sprint zero also benefits developers because it gives them time to work on a small, straightforward projects or infrastructure tasks in the backlog.
@@ -42,6 +44,8 @@ Like any agile team, we’re also striving to prototype as quickly as possible. 
 
 ## Experiment #2: Bringing Devs into the UX Process
 
+{{< img src="agile-ux-ex2" >}}
+
 We were surprised to learn that our developers didn’t realize a traditional approach to agile has some conflicts with the design process. We knew that we needed to figure out how to better involve developers in the design process so that they could better understand our work and its relevance to their roles and the products we deliver. We tried a variety of approaches that might work for your team, too.
 
 Designers can encourage developers to take part by incorporating design tasks that put them in a supporting, observational role during the research phase of a project. Depending on interest and preferences of your teammates, this role can expand and change. By doing this, we realized that the more we understand each other’s roles, the better we’re prepared to deal with unknowns. We know that life happens, and if a designer is unexpectedly out of the office, we can always count on a developer to help support design needs. Alternatively, sometimes a project is really design heavy, and a dev needs to be involved early to understand context, see the big picture and communicate with stakeholders.
@@ -52,6 +56,8 @@ If a sprint zero won’t work for your team, involving developers in the design 
 
 ## Experiment #3: Skipping Estimation
 
+{{< img src="agile-ux-ex3" >}}
+
 Most sprints start with a rote estimation of tasks. Our team was using a Fibonacci sequence to help estimate tasks, but we started to question its value. The numbers sometimes felt arbitrary and we wrestled with the notion that the numbers are not hours. We also noticed that our design tasks took up a similar amount of time for each project, and it felt like a waste of time to estimate standard tasks, like writing a research guide and conducting individual interviews.  So, we decided to eliminate estimation for a few sprints&mdash;and we got a lot of mixed results.
 
 Instead of estimating, our team created goals for each sprint, and we relied more heavily on achieving an overall goal, whether for the team or an individual owning a goal or a particular subset of a goal.  Our sprint goals helped keep things in check. Our goals helped us ensure our expectations for the sprint were reasonable and achievable and that our tasks supported the goals we wanted to achieve.  We found that creating goals for the sprint kept our team motivated, while also reducing the tendency to slip back into a waterfall approach.
@@ -61,6 +67,8 @@ While it felt good as a team to do away with estimation and try something differ
 This experiment was useful, and we’re continuing to rethink how we estimate. We’re currently trying to estimate our tasks as small, medium, large or extra-large. We’re hoping this version might simplify the estimation step and still achieve the transparency that we missed. No matter what we try, our goal isn’t perfect estimates. We’re aiming for common understanding about what’s on people’s plates and guarding against tasks that are too big and inhibit progress.
 
 ## Experiment #4: Actually Incorporating Retrospective Learnings
+
+{{< img src="agile-ux-ex4" >}}
 
 We spent time as a team doing thoughtful and honest retrospectives, but often our insights sat in a document and never got incorporated into our next sprint. We asked ourselves how we could prevent our learnings from getting lost.
 
