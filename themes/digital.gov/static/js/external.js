@@ -73,6 +73,7 @@ function get_branch_link(branch_name){
 
 function show_last_commit(data, branch_name){
 	var branch_link = get_branch_link(branch_name);
+	console.log(data);
 	if (data[0] == null) {
 		var commit_date = data['commit']['committer']['date'];
 		var commit_author = data['author']['login'];
