@@ -59,9 +59,6 @@ function get_commit_data(){
 				if (branch == "master") {
 					branchpath = "";
 					show_last_commit(data, branch);
-				} else {
-					branchpath = "/" + branch;
-					show_last_commit(data, branch);
 				}
 			}
 		});
