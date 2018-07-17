@@ -59,7 +59,8 @@ function get_commit_data(){
 				if (branch == "master") {
 					show_last_commit(data, branch);
 				} else {
-					show_branch_last_commit(data, branch);
+					// show_branch_last_commit(data, branch);
+					show_last_commit(data, branch);
 				}
 			}
 		});
