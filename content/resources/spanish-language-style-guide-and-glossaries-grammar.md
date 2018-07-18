@@ -206,7 +206,7 @@ When using HTML, diacritics [los acentos gráficos] must be also coded. For exam
 
 `Página = P&amp;#225;gina`
 
-#### Spanish accent rules 
+#### Spanish Accent Rules 
 
 Accent rules apply to both capital and lower case letters. For example:
 
