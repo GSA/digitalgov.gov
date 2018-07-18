@@ -19,7 +19,7 @@ tag:
   - mobile gov community of practice
   - Mobile UX Guideline 5
   - multilingual
-  - Multilingual Community of Practice
+  - multilingual-community
   - National Institutes of Health
   - NIH
   - SSA

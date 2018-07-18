@@ -9,14 +9,14 @@ categories:
   - Social Media
 tag:
   - multilingual
-  - Multilingual Community of Practice
+  - multilingual-community
   - Recaps
   - social media
   - Twitter
   - USAgov
 ---
 
-There are 11.7 million + reasons to be on Twitter—the approximate number of Hispanics in the U.S. who are using the platform. And out of those 11.7 million, 43% tweet in English and in Spanish. Hispanics over index their counterparts when it comes to digital technologies and services, but how do you reach them and target your messages via Twitter chats? {{< legacy-img src="2015/12/600-x-400-Social-Network-Birds-Rawpixel-Ltd-iStock-Thinkstock-180718919.jpg" alt="A diverse group of hands hold up social media bird shapes of various bright colors." caption="" >}} 
+There are 11.7 million + reasons to be on Twitter—the approximate number of Hispanics in the U.S. who are using the platform. And out of those 11.7 million, 43% tweet in English and in Spanish. Hispanics over index their counterparts when it comes to digital technologies and services, but how do you reach them and target your messages via Twitter chats? {{< legacy-img src="2015/12/600-x-400-Social-Network-Birds-Rawpixel-Ltd-iStock-Thinkstock-180718919.jpg" alt="A diverse group of hands hold up social media bird shapes of various bright colors." caption="" >}}
 
 On December 9, [USAGov](https://www.usa.gov/) and [Salud Today](http://www.saludtoday.com/blog/) led a [DigitalGov University]({{< link "/digitalgov-university/" >}}) webinar to discuss how to organize, plan, and execute a successful bilingual Twitter chat. Like all social media events, good planning, coordination, and promotion are key. But what other elements make these successful?
 

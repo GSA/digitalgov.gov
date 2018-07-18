@@ -12,7 +12,7 @@ tag:
   - Mobile UX Guideline 5
   - mobile-first
   - multilingual
-  - Multilingual Community of Practice
+  - multilingual-community
   - Trends on Tuesday
 ---
 

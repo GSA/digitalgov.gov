@@ -13,7 +13,7 @@ tag:
   - content strategy
   - GobiernoUSAgov
   - multilingual
-  - Multilingual Community of Practice
+  - multilingual-community
   - USAgov
 ---
 

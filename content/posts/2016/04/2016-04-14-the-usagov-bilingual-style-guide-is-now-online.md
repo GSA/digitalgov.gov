@@ -15,7 +15,7 @@ categories:
 tag:
   - accessibility
   - multilingual
-  - Multilingual Community of Practice
+  - multilingual-community
   - USAgov
   - user centered design
   - user experience

@@ -12,7 +12,7 @@ categories:
 tag:
   - FDA
   - multilingual
-  - Multilingual Community of Practice
+  - multilingual-community
   - social media
 ---
 
