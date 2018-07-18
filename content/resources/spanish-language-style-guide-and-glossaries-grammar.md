@@ -193,7 +193,7 @@ In Spanish, exclamation and question marks open and close the desired phrase. Th
 
 Punctuation marks are written outside of quotation marks, parenthesis and dashes.
 
-  * &#8220;Este estudio ha proporcionado los datos que tanto se necesitaban sobre enfermedades de los ojos en el grupo minoritario de más rápido crecimiento dentro de los Estados Unidos&#8221;, indicó Elías A. Zerhouni, M.D., director de NIH.
+  * Juventud, divino tesoro, &#161;ya te vas para no volver!
   * El médico dijo: &#8220;La revisión se canceló; era previsible por el temor del paciente. Sin embargo, es probable que la cancelación no sea definitiva&#8221;; acto seguido, suspiró hondo y añadió: “El cáncer es curable en su diagnóstico precoz (las estadísticas lo confirman), la familia debe saberlo&#8221;.
 
 
