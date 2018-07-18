@@ -19,7 +19,7 @@ tag:
   - mobile gov community of practice
   - Mobile UX Guideline 5
   - multilingual
-  - multilingual digital group
+  - Multilingual Community of Practice
   - National Institutes of Health
   - NIH
   - SSA
@@ -43,4 +43,4 @@ Today, we’re highlighting five Spanish language apps from the Spanish Version 
 
 ## Ready to go multilingual?
 
-DigitalGov offers resources for [developing multilingual content]({{< link "2014-07-01-multilingual-digital-content.md" >}}) that were created by the [Multilingual Digital Group]({{< link "multilingual.md" >}}). The [Mobile Gov Community of Practice]({{< link "categories/mobile" >}}) supports mobile development in all corners of government. If you have a Spanish app, be sure to register it on the [Federal Mobile Products Registry](http://apps.usa.gov/register). You can learn how by viewing our video for the webinar [How to Get Your Federal Mobile App Promoted on USA.gov and DigitalGov.gov](https://www.youtube.com/watch?v=m2KO5Dww5yo).
+DigitalGov offers resources for [developing multilingual content]({{< link "2014-07-01-multilingual-digital-content.md" >}}) that were created by the [Multilingual Community of Practice]({{< link "multilingual.md" >}}). The [Mobile Gov Community of Practice]({{< link "categories/mobile" >}}) supports mobile development in all corners of government. If you have a Spanish app, be sure to register it on the [Federal Mobile Products Registry](http://apps.usa.gov/register). You can learn how by viewing our video for the webinar [How to Get Your Federal Mobile App Promoted on USA.gov and DigitalGov.gov](https://www.youtube.com/watch?v=m2KO5Dww5yo).

@@ -20,7 +20,7 @@ tag:
   - IRS
   - LEP
   - multilingual
-  - multilingual digital group
+  - Multilingual Community of Practice
   - National Library of Medicine
   - SSA
   - The United States Social Security Administration

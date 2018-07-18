@@ -9,7 +9,7 @@ categories:
   - Social Media
 tag:
   - multilingual
-  - multilingual digital group
+  - Multilingual Community of Practice
   - Recaps
   - social media
   - Twitter
