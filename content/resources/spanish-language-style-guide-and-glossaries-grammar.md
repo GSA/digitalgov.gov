@@ -10,7 +10,6 @@ authors:
 Below are examples and explanations for words, phrases, acronyms, numbers, punctuation, capitalization, symbols, and more used in Spanish grammar.
 
 * [Abbreviations, Acronyms and Em Dash]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#abbreviations" >}})
-* [Spanish Language Articles]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#articles" >}})
 * [Spanish Language Capitalization]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#capitalization" >}})
 * [Spanish Language Dates & Numbers]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#dates" >}})
 * [Spanish Language Punctuation]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#punctuation" >}})
@@ -57,8 +56,6 @@ La traducción — Una ciencia empírica
 
 Come—dijo ella—o llegaremos tarde
 
-Disquete—medio de almacenamiento…
-
 Me temo –comentó Juan- que da igual OR Me temo –comentó Juan–que da igual
 
 ### Correct Use (or Lack of Use)
@@ -69,32 +66,7 @@ La traducción, una ciencia empírica
 
 Come —dijo ella— o llegaremos tarde
 
-Disquete: medio de almacenamiento…
-
 Me temo —comentó Juan— que da igual
-
-## Spanish Language Articles {#articles}
-
-### Definite Articles  (el, la, los, las)
-
-Exclude articles as first words in certain titles when referring to general items or concepts, as different from individualized ones. The purpose of definite articles is to indicate specifically identifiable things.
-
-**NOTE:** Write website titles without definite articles so the site’s search will return the desired results.
-
-  * [Las] Neoplasias de células plasmáticas
-  * La enfermedad del General San Martín
-  * El descubrimiento del átomo
-
-### Indefinite Articles  (un, una, unos, unas)
-
-Avoid unnecessary translations of the indefinite article:
-
-  * How can I become a US. Citizen?
-  * ¿Cómo puedo hacerme ciudadano estadounidense?
-
-**Incorrect Use:** La informática, una rama de las telecomunicaciones.
-
-**Correct Use:** La informática, rama de las telecomunicaciones.
 
 ## Spanish Language Capitalization {#capitalization}
 
@@ -211,16 +183,6 @@ Trillón = Un millón de billones, que se expresa por la
 unidad seguida de 18 ceros. (DRAE)
 
 ## Punctuation {#punctuation}
-
-### Parentheses vs. Brackets
-
-Use brackets when adding text that was not there and serves to clarify the title or text.
-
-  * Histoplasmosis [protección a los trabajadores con riesgo de contraerla]
-
-Use parentheses when translating a word or phrase in the text or title.
-
-  * Chlamydia (clamidia)
 
 ### Exclamation and Question Marks
 
