@@ -204,13 +204,15 @@ Punctuation marks are written outside of quotation marks, parenthesis and dashes
 
 When using HTML, diacritics [los acentos gráficos] must be also coded. For example:
 
-Página = P&amp;#225;gina
+`Página = P&amp;#225;gina`
 
-Spanish accent rules apply to both capital and lower case letters. For example:
+#### Spanish accent rules 
 
-Ácido fólico/ácido fólico
+Accent rules apply to both capital and lower case letters. For example:
 
-Última revisión/última revisión
+`Ácido fólico/ácido fólico`
+
+`Última revisión/última revisión`
 
 Each character and its code is listed below:
 
