@@ -7,7 +7,7 @@ event_type:
 date: 2017-10-24 14:00:00 -0400
 end_date: 2017-10-24 15:00:00 -0400
 event_organizer: DigitalGov University
-host: Multilingual Digital Group
+host: Multilingual Community of Practice
 registration_url: https://www.eventbrite.com/e/cut-through-the-noise-connect-with-your-spanish-language-audience-on-social-media-registration-38668014071
 youtube_id: rXYUcCDkF9I
 aliases:
@@ -23,7 +23,7 @@ aliases:
 
 Join us to hear what USAGov has learned in the past few months while engaging the Spanish-speaking community via social media and how they’ve tweaked their strategy along the way to reach more people and connect with influencers.
 
-This online event is hosted by the [Multilingual Digital Group]({{< link "multilingual.md" >}}) will provide concrete tips and share real-life examples. Main topics to be discussed:
+This online event is hosted by the [Multilingual Community of Practice]({{< link "multilingual.md" >}}) will provide concrete tips and share real-life examples. Main topics to be discussed:
 
 - tactics to reach a larger audience and join conversations already taking place
 - connect with influencers and media outlets

@@ -96,7 +96,7 @@ aliases:
 
 ## Multilingual
 
-*   [Multilingual Digital Group]({{< link "multilingual.md" >}})
+*   [Multilingual Community of Practice]({{< link "multilingual.md" >}})
 *   [Spanish Language Style Guide and Glossaries]({{< link "spanish-language-style-guide-and-glossaries.md" >}})
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
 *   [Top 10 Best Practices for Multilingual Websites]({{< link "top-10-best-practices-for-multilingual-websites.md" >}})
