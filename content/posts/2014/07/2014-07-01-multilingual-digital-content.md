@@ -49,18 +49,15 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 
 ## Tools to Make it Happen
 
-  * {{< legacy-img src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}}
-    [GSA/ANLE Agreement](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2014-ANLE-Agreement.pdf)—GSA entered into an agreement with the North American Academy of the Spanish Language (ANLE) in 2009 to improve and standardize the use of the Spanish language in government communications. The agreement was renewed in 2012 and again in March of 2014.</li>
-
-      * [Top 10 Best Practices for Multilingual Websites]({{< link "resources/top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")
-      * [Official Directory of Federal Agency Names in Spanish](http://www.usa.gov/gobiernousa/directorios/federal/index.shtml)
-      * [Spanish Language Style Guide and Glossaries for U.S. Government Websites]({{< link "spanish-language-style-guide-and-glossaries.md" >}} "Spanish Language Style Guide and Glossaries")—Browse the Guide and learn about Spanish language use of capitalization, abbreviations, punctuation, diacritics and much more. Consult glossaries on health, technology, government terminology and more!
-      * [Lost in Translation]({{< link "2012-10-01-automated-translation-good-solution-or-not.md" >}} "Automated Translation—Good Solution or Not?")</ul>
+ * {{< legacy-img src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}} [Top 10 Best Practices for Multilingual Websites]({{< link "resources/top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")
+ * [Official Directory of Federal Agency Names in Spanish](http://www.usa.gov/gobiernousa/directorios/federal/index.shtml)
+ * [Spanish Language Style Guide and Glossaries for U.S. Government Websites]({{< link "spanish-language-style-guide-and-glossaries.md" >}} "Spanish Language Style Guide and Glossaries")—Browse the Guide and learn about Spanish language use of capitalization, abbreviations, punctuation, diacritics and much more. Consult glossaries on health, technology, government terminology and more!
+ * [Lost in Translation]({{< link "2012-10-01-automated-translation-good-solution-or-not.md" >}} "Automated Translation—Good Solution or Not?")
 
     ## Resources
 
       * [Sample Video Editorial and Accessible Guidelines](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc) (MS Word, 56 kb, 2 pages, August 2012)—GobiernoUSA.gov and USA.gov developed these guidelines as a roadmap for producing and submitting videos. These guidelines agree with the principles and best practices that guide our YouTube channels.
-      * [Multilingual Digital Group]({{< link "multilingual.md" >}} "Multilingual Digital Group")—Join this group to share ideas, challenges, and government in Spanish, provides a list of agency names in Spanish and links to each agency&#8217;s Spanish Web pages and contact information.
+      * [Multilingual Community of Practice]({{< link "multilingual.md" >}} "Multilingual Community of Practice")—Join this group to share ideas, challenges, and government in Spanish, provides a list of agency names in Spanish and links to each agency&#8217;s Spanish Web pages and contact information.
       * [Lep.gov](http://www.lep.gov/)—Sponsored by the Federal Interagency Working Group on Limited English Proficiency, this website helps agencies meet requirements of Executive Order 13166 regarding language access.
       * [Language Data by Region](http://arcgis.mla.org/mla/)—The Modern Language Association has created a language map that shows where speakers of 33 languages live in the United States.
 
@@ -68,9 +65,8 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 
     ## Examples
 
-      * [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/)—U.S. government&#8217;s official Web portal to all online information and services in Spanish.
+      * [GobiernoUSA.gov](https://gobierno.usa.gov/)—U.S. government&#8217;s official Web portal to all online information and services in Spanish.
       * [CDC en español](http://www.cdc.gov/spanish/)—The official Web portal in Spanish for the Centers for Disease Control and Prevention.
       * [Social Security Multilingual Gateway](http://www.ssa.gov/multilanguage)—The Social Security Administration provides information in 15 different languages.
       * [MedlinePlus in Spanish](http://www.nlm.nih.gov/medlineplus/spanish/)—MedlinePlus, from the National Library of Medicine, provides comprehensive health information in Spanish.
-      * [HUD in Spanish](http://espanol.hud.gov)—HUD translated its entire website into Spanish.
       * [IRS Multilingual Gateways](http://www.irs.gov/)—The IRS provides basic federal income tax information in [Chinese](http://www.irs.gov/Chinese), [Korean](http://www.irs.gov/Korean), [Russian](http://www.irs.gov/Russian), [Vietnamese](http://www.irs.gov/Vietnamese), and [Spanish](http://www.irs.gov/Spanish).
