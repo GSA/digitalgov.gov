@@ -54,9 +54,9 @@ _Discriminación. **Avoid** discrimen unless your audience is from Ecuador or Pu
 _Hoja de datos, planilla de datos_
 
 **Federal government** &#91;n&#93;:<br />
-_Gobierno federal, estatal, y/o local (Gobierno in Spanish should be capitalized, but not federal, estatal o local). See the [Diccionario Panhispánico de Dudas][62cd705e] online. Write the term **gobierno** in the search box for capitalization rules of this word._
+_Gobierno federal, estatal, y/o local (Gobierno in Spanish should be capitalized, but not federal, estatal, o local). See the [Diccionario Panhispánico de Dudas][62cd705e] online. Write the term **gobierno** in the search box for capitalization rules of this word._
 
-  [&#91;]62cd705e]: http://www.rae.es/recursos/diccionarios/dpd "Pan-Hispanic Dictionary of Doubts"
+  [62cd705e]: http://www.rae.es/recursos/diccionarios/dpd "Pan-Hispanic Dictionary of Doubts"
 
 **File** &#91;v&#93; (as in: to file taxes, file a story, etc.):<br />
 _Declarar, presentar. The word file has many meanings; depending on use, the example only pertains to the use described._
