@@ -18,43 +18,43 @@ adj.: adjective<br />
 exp.: expression
 
 **Access** [v]:<br />
-_Broadvision (Portal) Acceder a- **NEVER** accesar_
+_Broadvision (Portal) Acceder a- **Avoid** accesar_
 
 **Act** [n] (when referring to a law; No Child Left Behind Act of 2002):<br />
-_Ley o Proyecto de Ley; **NEVER** acta_
+_Ley o Proyecto de Ley; **Avoid** acta_
 
 **American** [adj.]:<br />
-_Estadounidense, less desirable, norteamericano; **NEVER** americano_
+_Estadounidense, less desirable, norteamericano; **Avoid** americano_
 
 **Authoritative** [adj.]:<br />
-_Confiable – According to the Real Academia Española Autoritativo is hardly used._
+_Confiable – According to the Real Academia Española, autoritativo is hardly used._
 
 **Application** [n]:<br />
 _Solicitud_
 
 **Apply** [v] for a job, or a license, etc.:<br />
-_Solicitar o postular NEVER aplicar_
+_Solicitar o postular; **less desirable is the Anglicism**, aplicar_
 
 **Apply** [v] to a noun (Example: This benefit applies to full-time employees.):<br />
-_In this case the verb aplicar should be used in the reflexive formEste beneficio se aplica a los empleados a tiempo completo NEVER Este beneficio aplica a los empleados a tiempo completoOther ways of translating this sentence are: Este beneficio es para empleados a tiempo completo; o Los empleados a tiempo completo tienen este beneficio._
+_In this case, the verb **aplicar** should be used in the reflexive form: Este beneficio **se aplica** a los empleados a tiempo completo. **Avoid** Este beneficio **aplica** a los empleados a tiempo completo. Other ways of translating this sentence are: Este beneficio es para empleados a tiempo completo; o Los empleados a tiempo completo tienen este beneficio._
 
 **Circle** [v] (when used as a verb in a sentence such as: circle the correct answer):<br />
-_Action verb in Spanish +… círculo, such as, “encerrar en un círculo la respuesta correcta” NEVER “circular” when used in this context._
+_Action verb in Spanish +… círculo, such as, “encerrar en un círculo la respuesta correcta” **Avoid** “circular” when used in this context._
 
 **Comprehensive** [n]:<br />
-_Completo, extensivo, amplio NEVER comprensivo_
+_Completo, extensivo, amplio **Avoid** comprensivo_
 
 **Directions** [n] (as in driving directions, directions to a place, etc.):<br />
-_Instrucciones, indicaciones NEVER direcciones_
+_Instrucciones, indicaciones **Avoid** direcciones_
 
 **Discrimination** [n]:<br />
-_Discriminación, NEVER discrimen_
+_Discriminación, **Avoid** discrimen_
 
 **Fact Sheet** [n]:<br />
 _Hoja de datos, planilla de datos_
 
 **Federal government** [n]:<br />
-_Gobierno federal, estatal y/o local (Gobierno in Spanish should be capitalized, but not federal, estatal o local). See the [Diccionario Panhispánico de Dudas][62cd705e] online. Write the term <strong>gobierno</strong> in the search box for capitalization rules of this word._
+_Gobierno federal, estatal y/o local (Gobierno in Spanish should be capitalized, but not federal, estatal o local). See the [Diccionario Panhispánico de Dudas][62cd705e] online. Write the term **gobierno** in the search box for capitalization rules of this word._
 
   [62cd705e]: http://www.rae.es/recursos/diccionarios/dpd "Pan-Hispanic Dictionary of Doubts"
 
@@ -74,7 +74,7 @@ _Lanzar, Inaugurar, iniciar, estrenar, activar, presentar, introducir al mercado
 _Informar(se), enterar(se), tomar conocimiento de —conjugate accordingly._
 
 **Qualify** [v] (people who qualify for a program, a job, etc.):<br />
-_Estar capacitado, calificado para…. Reunir los requisitos para un programa, o asistencia… NEVER CALIFICAR (Ella califica para el préstamo—incorrect use)_
+_Estar capacitado, calificado para…. Reunir los requisitos para un programa, o asistencia… **Avoid** CALIFICAR (Ella califica para el préstamo—incorrect use)_
 
 **Raise awareness** [exp.]:<br />
 _[Concientizar al público][534a96e9] (widely used)_
@@ -88,7 +88,7 @@ _Pedir, exigir; necesitar_
 _Requisito; requerimiento, necesidad_
 
 **Select** [v]:<br />
-_Seleccionar, NEVER selectar_
+_Seleccionar, **Avoid** selectar_
 
 **Selected list** [n]:<br />
 _Lista selectiva; Listado selectivo_
@@ -97,10 +97,10 @@ _Lista selectiva; Listado selectivo_
 _Criterio o criterios de selección_
 
 **Submit** [v] (as in submit an email or submit a paper):<br />
-_Enviar o presentar un trabajo o un documento (NEVER someter)_
+_Enviar o presentar un trabajo o un documento (**Avoid** someter)_
 
 **Suggestion** [v]:<br />
-_Sugerencia, recomendación (NEVER sugestión)_
+_Sugerencia, recomendación (**Avoid** sugestión)_
 
 **Surgeon General** [n]:<br />
-_Director de Salud Pública (NEVER "Cirujano General")_
+_Director de Salud Pública (**Avoid** "Cirujano General")_
