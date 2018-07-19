@@ -100,7 +100,7 @@ _Criterio o criterios de selección_
 _Enviar o presentar un trabajo o un documento (**Avoid**: someter)_
 
 **Suggestion** &#91;v&#93;:<br />
-_Sugerencia, recomendación (**Avoid**: sugestión)_
+_Sugerencia, recomendación (**Avoid**: sugestión, as it’s an Anglicism)_
 
 **Surgeon General** &#91;n&#93;:<br />
 _Director de Salud Pública (**Avoid**: "Cirujano General")_
