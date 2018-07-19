@@ -54,7 +54,7 @@ We believe the public deserves plain language communication from its government,
 | 1:15pm - 1:55pm   | **Plain Language and Translation** — Laura Godfrey, GSA                                                                                  |
 | 1:55pm - 2:25pm   | **Center for Plain Language Report Card** — David Lipscomb, Center from Plain Language                                          |
 | 2:25pm - 2:40pm   | **Break**                                                                                                                   |
-| 2:40pm - 3:10pm   | **Adult Literacy** - Meredith Larson, Dept. of Education                                                                    |
+| 2:40pm - 3:10pm   | **Meeting People Where They Are** - Meredith Larson, Dept. of Education                                                                    |
 | 3:10pm - 3:50pm   | **No, the Law Does Not Normally Require Legalese** - Joe Kimble, Professor Emeritus, Western Michigan University            |
 | 3:50pm - 4:00pm   | **Wrap Up & Closing** - Kathryn Catania, USCIS and Katherine Spivey, GSA                                                  |
 
