@@ -14,7 +14,7 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
 
 ### Join
 
-To Join our listserv, [please fill out this form](https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN).
+To Join our listserv, [register for a LISTSERV account](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1=SUBED1%3DPL-COP-MAIN&X=&Y=) then [fill out this form](https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN).
 
 
 ### Who we are
