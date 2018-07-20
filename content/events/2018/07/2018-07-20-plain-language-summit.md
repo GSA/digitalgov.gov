@@ -58,6 +58,14 @@ We believe the public deserves plain language communication from its government,
 | 3:50pm - 4:00pm   | **Wrap Up & Closing** - Kathryn Catania, USCIS and Katherine Spivey, GSA                                                  |
 
 
+### Conference Documents and Ephemera
+- [The Slides for the 2018 Plain Language Summit](https://s3.amazonaws.com/digitalgov/2018-Plain-Language-Summit.pdf)
+- A Plain Language [Wordsearch](https://s3.amazonaws.com/digitalgov/wordsearch.png)
+- #PlainSummit2018 — [What people are saying on Twitter](https://twitter.com/hashtag/PlainSummit2018)
+- Follow [@govplainlang on twitter](https://twitter.com/govplainlang)
+- Visit [https://plainlanguage.gov/](https://plainlanguage.gov/)
+
+
 ## About plainlanguage.gov
 
 The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing.
