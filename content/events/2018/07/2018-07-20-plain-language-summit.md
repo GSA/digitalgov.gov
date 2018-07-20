@@ -26,8 +26,6 @@ venue:
 
 ---
 
-{{< img src="plain-language-summit-2018" caption="" alt="Plain Language Summit 2018" >}}
-
 On Friday, July 20th, the federal [Plain Language community](https://digital.gov/communities/plain-language/) will bring together some of the brightest individuals involved in government communications for a one-day series of talks and conversations on how to advance plain language on government communications.
 
 {{< img-right src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
@@ -70,3 +68,6 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 
 
 **NOTE:** In-person tickets are limited and going quickly, so sign-up fast! Federal employees registered with a .mil or .gov email will receive priority, and others after.
+
+
+{{< img src="plain-language-summit-2018" caption="" alt="Plain Language Summit 2018" >}}
