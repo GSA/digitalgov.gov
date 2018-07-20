@@ -1,0 +1,82 @@
+{{- $list := .Data.Pages -}}
+{{- $length := (len $list) -}}
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} |  {{- end -}} {{- .Site.Title -}} {{- end -}}",
+    "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
+    "home_page_url" : "{{- .Site.BaseURL -}}",
+    {{- with .OutputFormats.Get "JSON" -}}
+    "feed_url" : "{{- .Permalink -}}",
+    {{- end -}}
+    {{- with $.Param "icon" -}}
+    "icon" : "{{- . | absURL -}}",
+    {{- end -}}
+    {{- with $.Param "favicon" -}}
+    "favicon" : "{{- . | absURL -}}",
+    {{- end -}}
+    {{- with .Site.Author.name -}}
+    "author" : {
+        "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
+        "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
+        "avatar": "{{- . | absURL -}}"{{- end -}}
+    },
+    {{- end -}}
+    {{ define "content" }}
+    {{- .Content -}}
+    {{- end -}}
+    "item" : [
+    {
+      "filename" : {{ .File.LogicalName | jsonify }},
+      "filepath" : {{ .File.Path | jsonify }},
+      "filepathURL" : {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $.File.Path | jsonify }},
+      "branch" : {{ $.Scratch.Get "branch" | jsonify }},
+      "title" : {{- .Title | jsonify -}},
+      "url" : "{{- .Permalink -}}",
+      "date" : {{- .Title | jsonify -}},
+      {{- if (isset .Params "authors") -}}
+        {{- $_authors := .Params.authors -}}
+        {{- $length := $_authors | len -}}
+        "authors" : {
+        {{- range $i, $e := $_authors -}}
+          {{- $uid := $e | urlize -}}
+          {{- $data := $.Site.Data -}}
+          {{- $author := index $data.people.authors $uid -}}
+          {{- if lt (add $i 1) $length -}}
+            "{{- $uid -}}" : "{{- $author.display_name | default $uid}}",
+          {{- else -}}
+            "{{- $uid -}}" : "{{- $author.display_name | default $uid}}"
+          {{- end -}}
+        {{- end -}}
+        },
+      {{- end -}}
+
+      {{ $sitetags := $.Site.Data.tag }}
+      {{ if (isset .Params "tag") }}
+        "tags" : {
+          {{ $_taxonomy := .Params.tag }}
+          {{ $length := $_taxonomy | len }}
+          {{ range $i, $e := $_taxonomy }}
+            {{ $slug := $e | urlize }}
+            {{ $tag := index $sitetags $slug }}
+            {{ $link := printf "tag/%s/" $slug }}
+            {{ if lt (add $i 1) $length }}
+              "{{- $slug -}}" : "{{- $tag.display_name | default $slug}}",
+            {{ else }}
+              "{{- $slug -}}" : "{{- $tag.display_name | default $slug}}"
+            {{ end }}
+          {{ end }}
+        },
+      {{ end }}
+
+
+
+      {{- if (isset .Params "summary") -}}
+      "summary" : "{{- .Params.summary -}}",
+      {{- end -}}
+      {{- if (isset .Params "deck") -}}
+      "deck" : "{{- .Params.deck -}}",
+      {{- end -}}
+      "content" : {{- .Content | jsonify -}}
+    }
+  ]
+}
