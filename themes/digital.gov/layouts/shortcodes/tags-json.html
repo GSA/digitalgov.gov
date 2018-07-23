@@ -1,9 +1,28 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- with .Site.Data.tag -}}
-  {{- range $t, $value := . -}}
-    {{- range $key, $v := $value -}}
-      {{- $.Scratch.Add "index" (dict "id" $t "display_name" $v ) -}}
+{{- $list := .Site.Data.tag -}}
+{{- $length := (len $list) -}}
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Tags | {{ .Site.Title }}",
+    "home_page_url" : "{{- .Site.BaseURL -}}",
+    "count" : "{{- $length -}}",
+    {{- with .Site.Author.name -}}
+    "author" : {
+        "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
+        "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
+        "avatar": "{{- . | absURL -}}"{{- end -}}
+    },
     {{- end -}}
-  {{- end -}}
-{{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+    "items" : [
+      {{- range $index, $value := $list -}} {
+        "{{- $index -}}" : {
+          {{- range $key, $v := $value -}}
+            "display_name" : "{{- $v -}}"
+          {{- end -}}
+        }
+        {{ $.Scratch.Add "i" 1 }}
+        {{ $i := $.Scratch.Get "i" }}
+
+      }{{ if not (eq $length $i) }}, {{ end }}
+      {{- end -}}
+    ]
+}
