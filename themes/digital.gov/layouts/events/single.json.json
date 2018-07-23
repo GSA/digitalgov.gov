@@ -33,14 +33,19 @@
       {{- if (isset .Params "summary") -}}
       "summary" : "{{- .Params.summary -}}",
       {{- end -}}
-      {{- if (isset .Params "event_organizer") -}}
-      "event_organizer" : "{{- .Params.event_organizer -}}",
+      "date_published" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
+      {{- if .Lastmod -}}
+      "date_modified" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
+      {{- else -}}
+      "date_modified" : "{{- .LastMod.Format "2006-01-02T15:04:05Z07:00" -}}",
       {{- end -}}
-      {{- if (isset .Params "host") -}}
-      "host" : "{{- .Params.host -}}",
+      {{- with .Date -}}
+      "start_date" : "{{ . | dateFormat "Monday, January 02, 2006" }}",
+      "start_time" : "{{ . | dateFormat "3:04 PM" }}",
       {{- end -}}
-      {{- if (isset .Params "registration_url") -}}
-      "registration_url" : "{{- .Params.registration_url -}}",
+      {{- with .Params.end_date -}}
+      "end_date" : "{{ . | dateFormat "Monday, January 02, 2006" }}",
+      "end_time" : "{{ . | dateFormat "3:04 PM ET" }}",
       {{- end -}}
       {{ $data := $.Site.Data.events }}
       {{ if (isset .Params "event_type") }}
@@ -57,19 +62,17 @@
         {{ end }}
         },
       {{ end }}
-      "date_published" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
-      {{- if .Lastmod -}}
-      "date_modified" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
-      {{- else -}}
-      "date_modified" : "{{- .LastMod.Format "2006-01-02T15:04:05Z07:00" -}}",
+      {{- if (isset .Params "event_organizer") -}}
+      "event_organizer" : "{{- .Params.event_organizer -}}",
       {{- end -}}
-      {{- with .Date -}}
-      "start_date" : "{{ . | dateFormat "Monday, January 02, 2006" }}",
-      "start_time" : "{{ . | dateFormat "3:04 PM" }}",
+      {{- if (isset .Params "host") -}}
+      "host" : "{{- .Params.host -}}",
       {{- end -}}
-      {{- with .Params.end_date -}}
-      "end_date" : "{{ . | dateFormat "Monday, January 02, 2006" }}",
-      "end_time" : "{{ . | dateFormat "3:04 PM ET" }}",
+      {{- if (isset .Params "registration_url") -}}
+      "registration_url" : "{{- .Params.registration_url -}}",
+      {{- end -}}
+      {{- if (isset .Params "youtube_id") -}}
+      "youtube_id" : "{{- .Params.youtube_id -}}",
       {{- end -}}
       {{- if (isset .Params "authors") -}}
         {{- $_authors := .Params.authors -}}
@@ -87,7 +90,6 @@
         {{- end -}}
         },
       {{- end -}}
-
       {{ $sitetags := $.Site.Data.tag }}
       {{ if (isset .Params "tag") }}
         "tags" : {
