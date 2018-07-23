@@ -2,9 +2,10 @@
 {{- $length := (len $list) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} |  {{- end -}} {{- .Site.Title -}} {{- end -}}",
+    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} | {{- end -}} {{ .Site.Title }} {{- end -}}",
     "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
     "home_page_url" : "{{- .Site.BaseURL -}}",
+    "count" : "{{- $length -}}",
     {{- with .OutputFormats.Get "JSON" -}}
     "feed_url" : "{{- .Permalink -}}",
     {{- end -}}
