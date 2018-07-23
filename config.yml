@@ -35,7 +35,11 @@ outputFormats:
     mediatype: "application/json"
 
 outputs:
-  home: ["HTML","RSS","SiteImages"]
+  home: ["HTML","RSS", "SiteImages", "JSON"]
+  section: ["HTML","RSS", "JSON"]
+  page: ["HTML","RSS", "JSON"]
+  taxonomy: ["JSON"]
+  taxonomyTerm: ["JSON"]
 
 blackfriday:
   fractions: false
