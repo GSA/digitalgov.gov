@@ -2,7 +2,7 @@
 {{- $length := (len $list) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "Tags | {{ .Site.Title }}",
+    "title" : "Authors | {{ .Site.Title }}",
     "home_page_url" : "{{- .Site.BaseURL -}}",
     "count" : "{{- $length -}}",
     {{- with .Site.Author.name -}}
