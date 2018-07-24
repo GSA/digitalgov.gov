@@ -16,13 +16,14 @@ youtube_id: 8b2i7H63rzc
 
 ---
 
-Artificial Intelligence is no one thing, it is a diverse array of functions that will inevitably transform government services through a combination of increased access to data, computing power, and algorithms that can improve analysis, alleviate resource constraints and deliver IT modernization solutions. For starters.
+Artificial Intelligence is no one thing. It is a diverse array of functions that will inevitably transform government services through a combination of increased access to data, computing power, and algorithms that can improve analysis, alleviate resource constraints and deliver IT modernization solutions (for starters).
 
-In the second video of our new Emerging Technology Leadership Series, we invite Mina Hanna, chair of the [Institute of Electrical and Electronics Engineers](https://www.ieee.org/)’ (IEEE) Artificial Intelligence and Autonomous Systems Policy Committee (AI&ASPC), to share what federal managers need to know to understand this increasingly complex and expanding field, and how they can work better with businesses, academic researchers and other stakeholders united in the advancement of AI for government services.
+In this second video of our new Emerging Technology Leadership Series, we invite Mina Hanna, chair of the [Institute of Electrical and Electronics Engineers](https://www.ieee.org/)’ (IEEE) Artificial Intelligence and Autonomous Systems Policy Committee (AI&ASPC), to share what federal managers need to know to understand this increasingly complex and expanding field, and how they can work better with businesses, academic researchers and other stakeholders united in the advancement of AI for government services.
 
 IEEE, formed in 1963, is the world's largest technical professional organization for the advancement of technology.
 
 The Emerging Technology Leadership Series, hosted by the [U.S. General Services Administration ](https://www.gsa.gov/)(GSA) [Emerging Citizen Technology Office](https://emerging.digital.gov/), is a livestream pilot to enhance the modern federal workforce with training, education, and awareness of emerging technologies including Artificial Intelligence, Robotic Process Automation, Blockchain, Social Technologies, and Virtual/Augmented Reality.
+
 GSA’s inter-agency Emerging Citizen Technology Office collaborates with more than 1500 federal managers at agencies and programs across government, startups, small businesses, and civic organizations to develop government-wide public service modernization initiatives through emerging technologies for government services.
 
 ## Who should attend
@@ -35,9 +36,9 @@ Federal employees or anyone who wants to learn more about how public services ca
 
 Mina is a senior software consultant at Synopsys, Inc. Prior to joining Synopsys, he worked for 6 years at Intel Corporation in the Platform Engineering Group on the Intel Atom Processors and SOCs, having contributed to 10+ design tapeouts. Mina received an MSc in Electrical Engineering from Stanford University, and a BSc in Electrical Engineering from the University of Texas-Austin. His interest lies in evaluating the impact of Artificial Intelligence, Autonomous & Intelligent Systems and disruptive technologies on public safety, national security, responsible governance, and social inclusion, and the policies that promote the development of these technologies.
 
-**Justin Herman** is the lead of [GSA’s Emerging Citizen Technology Office](https://emerging.digital.gov/), including the U.S. government-wide Blockchain Community initiative, which collaborates with more than 320 U.S. federal, state and local agencies as well as startups, small businesses, and civic organizations to develop government-wide public service modernization initiatives for emerging technologies.
+**Justin Herman** is the lead of [GSA’s Emerging Citizen Technology Office](https://emerging.digital.gov/), including the U.S. government-wide Blockchain Community initiative, which collaborates with more than 320 U.S. federal, state, and local agencies as well as startups, small businesses, and civic organizations to develop government-wide public service modernization initiatives for emerging technologies.
 
 ## Resources
 Have questions? Email [emergingtech@gsa.gov](mailto:emergingtech@gsa.gov).
 
-Learn more about federal emerging technology for government services initiatives on [emerging.digital.gov](https://emerging.digital.gov/).
+_Learn more about federal emerging technology for government services initiatives on [emerging.digital.gov](https://emerging.digital.gov/)._
