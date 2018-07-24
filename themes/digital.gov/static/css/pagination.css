@@ -16,10 +16,14 @@
 	color:#2673DF;
 	width: 28px;
 	height: 27px;
+	border-radius: 25px;
 	display: block;
+}
+.pagination li a:hover{
+	background:#d1e4ff;
 }
 .pagination li.active a{
 	color:#fff;
 	background:#2673DF;
-	border-radius: 25px;
+
 }
