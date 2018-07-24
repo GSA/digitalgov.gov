@@ -10,8 +10,8 @@
   <div class="container">
     <div class="row">
       <div class="col">
-        {{ range (.Paginate ( .Pages.ByTitle )).Pages }}
 
+        {{ range (.Paginate ( .Pages.ByTitle )).Pages }}
 
         <div class="entry">
           {{ partial "img-featured.html" . }}
@@ -22,7 +22,6 @@
         </div>
 
         {{ end }}
-        {{ template "_internal/pagination.html" . }}
         {{ partial "pagination.html" . }}
 
       </div>
