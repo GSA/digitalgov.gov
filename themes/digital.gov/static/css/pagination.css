@@ -1,0 +1,25 @@
+@import "top6.css";
+@import "page-details.css";
+
+.pagination{
+	margin: 60px 0;
+	padding: 0;
+}
+
+.pagination li{
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+}
+.pagination li a{
+	padding-top: 1px;
+	color:#2673DF;
+	width: 28px;
+	height: 27px;
+	display: block;
+}
+.pagination li.active a{
+	color:#fff;
+	background:#2673DF;
+	border-radius: 25px;
+}
