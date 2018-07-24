@@ -3,11 +3,9 @@ first_name: Adam
 last_name: Wong
 uid: adam-wong
 email: ""
-bio: |
-  Adam Wong is a senior innovation analyst in the Office of the National Coordinator for Health Information Technology at the Department of Health and Human Services. He also served as content coordinator for the federal government’s online [Challenges and Prizes Toolkit][1].
-  
-  [1]: https://www.challenge.gov/toolkit/ "Review the Challenges and Prizes Toolkit"
+bio: 'Adam Wong is a senior innovation analyst in the Office of the National Coordinator for Health Information Technology at the Department of Health and Human Services. He also served as content coordinator for the federal government’s online Challenges and Prizes Toolkit.'
 location: ""
 quote: ""
 github: ""
 twitter: ""
+url: ""
