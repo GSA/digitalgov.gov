@@ -12,8 +12,8 @@ date: 2018-07-30 13:00:00 -0500
 end_date: 2018-07-30 14:00:00 -0500
 event_organizer: DigitalGov University
 host: Emerging Citizen Technology Office
-registration_url: XOXOXO
-youtube_id: XOXOXO
+registration_url: https://www.eventbrite.com/e/emerging-technology-leadership-series-mina-hanna-and-ai-for-government-services-registration-48381530460
+youtube_id: 8b2i7H63rzc
 
 ---
 
