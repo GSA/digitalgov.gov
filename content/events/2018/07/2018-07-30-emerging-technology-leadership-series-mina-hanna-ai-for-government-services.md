@@ -19,7 +19,7 @@ youtube_id: XOXOXO
 
 Artificial Intelligence is no one thing, it is a diverse array of functions that will inevitably transform government services through a combination of increased access to data, computing power, and algorithms that can improve analysis, alleviate resource constraints and deliver IT modernization solutions. For starters.
 
-In our second of our new Emerging Technology Leadership Series, we invite Mina Hanna, chair of the Institute of Electrical and Electronics Engineers’ (IEEE) Artificial Intelligence and Autonomous Systems committee, to share what federal managers need to know to understand this increasingly complex and expanding field, and how they can work better with businesses, academic researchers and other stakeholders united in the advancement of AI for government services.
+In our second of our new Emerging Technology Leadership Series, we invite Mina Hanna, chair of the [Institute of Electrical and Electronics Engineers’ (IEEE) Artificial Intelligence and Autonomous Systems committee](https://standards.ieee.org/develop/indconn/ec/autonomous_systems.html), to share what federal managers need to know to understand this increasingly complex and expanding field, and how they can work better with businesses, academic researchers and other stakeholders united in the advancement of AI for government services.
 
 IEEE, formed in 1963, is the world's largest technical professional organization for the advancement of technology.
 
