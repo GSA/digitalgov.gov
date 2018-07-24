@@ -1,3 +1,10 @@
+# Welcome to your profile settings on digital.gov
+# Feel free to make edits to your profile.
+# - Your profile can be viewed at http://digital.gov/authors/[uid]
+# - See all authors http://digital.gov/authors/
+# 
+# Reach out to digitalgov@gsa.gov if you need assistance.
+
 display_name: Yoz Grahame
 first_name: Yoz
 last_name: Grahame
@@ -6,5 +13,12 @@ email: ""
 bio: 'Yoz Grahame is a software developer at 18F, part of the GSA’s new Technology & Transformation Service.'
 location: ""
 quote: ""
-github: ""
-twitter: ""
+
+# Your GitHub username [e.g. 'jeremyzilar']
+github: ''
+
+# Your Twitter username [e.g. 'digital_gov']
+twitter: ''
+
+# Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
+url: ''
