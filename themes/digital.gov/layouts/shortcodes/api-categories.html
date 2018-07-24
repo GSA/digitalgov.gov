@@ -1,4 +1,4 @@
-{{- $list := .Site.Data.tag -}}
+{{- $list := .Site.Data.categories -}}
 {{- $length := (len $list) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
@@ -15,8 +15,12 @@
     "items" : [
       {{- range $index, $value := $list -}} {
         "{{- $index -}}" : {
+          {{- $len := (len $value) -}}
+          {{ $.Scratch.Set "l" 0 }}
           {{- range $key, $v := $value -}}
-            "display_name" : "{{- $v -}}"
+            {{ $.Scratch.Add "l" 1 }}
+            {{ $l := $.Scratch.Get "l" }}
+            "{{- $key -}}" : "{{- $v -}}"{{ if not (eq $len $l) }}, {{ end }}
           {{- end -}}
         }
         {{ $.Scratch.Add "i" 1 }}
