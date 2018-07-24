@@ -1,0 +1,33 @@
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "top archive post-type-archive post-type-archive-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-list events-archive tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive" }}
+  {{ $.Scratch.Set "headtitle" "Articles | DigitalGov" }}
+{{ end }}
+
+{{ define "content" }}
+
+
+<section id="posts">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        {{ range (.Paginate ( .Pages.ByTitle )).Pages }}
+
+
+        <div class="entry">
+          {{ partial "img-featured.html" . }}
+          <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
+          <p>{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;more&nbsp;»</a></p>
+          <p><span class="date">{{ .Date.Format "Jan _2, 3:05 PM" }}</span></p>
+          {{ partial "post-tags.html" . }}
+        </div>
+
+        {{ end }}
+        {{ template "_internal/pagination.html" . }}
+        {{ partial "pagination.html" . }}
+
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
