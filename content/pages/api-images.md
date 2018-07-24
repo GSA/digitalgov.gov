@@ -5,4 +5,4 @@ type: docs
 feed: json
 layout: data
 ---
-{{< images-all-json >}}
+{{< api-images >}}
