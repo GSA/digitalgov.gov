@@ -7,7 +7,7 @@ themesDir               : "./themes"
 MetaDataFormat          : "yaml"
 DefaultContentLanguage  : "en"
 SectionPagesMenu        : "main"
-Paginate                : 100
+Paginate                : 20
 googleAnalytics         : ""
 enableRobotsTXT         : true
 enableEmoji             : true
