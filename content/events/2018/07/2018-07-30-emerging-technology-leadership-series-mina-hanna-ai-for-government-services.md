@@ -1,7 +1,7 @@
 ---
 slug: emerging-technology-leadership-series-mina-hanna-ai-for-government-services
 title: 'Emerging Technology Leadership Series&#58; AI for Government Services with Mina Hanna'
-summary: 'Mina Hanna is the chair of the Institute of Electrical and Electronics Engineers’ &#40;IEEE&#41; Artificial Intelligence and Autonomous Systems committee. He will share what federal managers need to know to understand this increasingly complex and expanding field&#46;'
+summary: 'Mina Hanna is the chair of the Institute of Electrical and Electronics Engineers’ &#40;IEEE&#41; Artificial Intelligence and Autonomous Systems Policy Committee. He will share what federal managers need to know to understand this increasingly complex and expanding field&#46;'
 featured_image:
   uid:
   alt: ''
