@@ -30,6 +30,7 @@ permalink: /sitemap/
 - [Images]({{ site.basurl }}/content-design/images/)
 - [Links]({{ site.basurl }}/content-design/links/)
 - [Information architecture]({{ site.basurl }}/content-design/information-architecture/)
+- [Video captioning]({{ site.basurl }}/content-design/video-captioning/)
 
 ### UX
 - [Getting started]({{ site.basurl }}/ux/getting-started/)
