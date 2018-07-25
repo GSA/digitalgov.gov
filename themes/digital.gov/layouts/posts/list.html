@@ -11,14 +11,14 @@
     <div class="row">
       <div class="col">
 
-        {{ $paginator := .Paginate (.Pages.ByTitle) }}
+        {{ $paginator := .Paginate (where .Site.Pages "Section" "posts") }}
         {{ partial "pagination.html" . }}
         {{ range $paginator.Pages }}
 
         <div class="entry">
           <div class="entry-content">
             <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
-            <p class="date">{{ .Date.Format "Jan _2, 2006" }}</p>
+            <p class="date">{{ .Date.Format "Jan _2, 2006" }} {{ partial "post-authors.html" . }}</p>
             <p class="summary">{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;»</a></p>
           </div>
           {{ partial "img-featured.html" . }}
