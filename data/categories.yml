@@ -51,8 +51,6 @@ strategy-and-policy:
   display_name: "Strategy & Policy"
 training:
   display_name: "Training"
-uncategorized:
-  display_name: "Uncategorized"
 user-testing-and-research:
   display_name: "User Testing & Research"
 ux:
