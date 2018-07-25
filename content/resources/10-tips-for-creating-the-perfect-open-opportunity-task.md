@@ -4,7 +4,7 @@ date: 2015-04-24 4:12:26 -0400
 title: 10 Tips for Creating the Perfect Open Opportunity Task
 summary: 'Ten tips for creating tasks in Open Opportunities on USAJOBS.'
 authors:
-  - tbonitto
+  - lnelson
 ---
 
 1. **Divide and conquer**: Keep projects simple&mdash;if you have a big project, consider dividing it into smaller tasks. You can also offer several tasks at the same time (rather than sequentially). 
