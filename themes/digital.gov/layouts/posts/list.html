@@ -6,7 +6,7 @@
 {{ define "content" }}
 
 
-<section id="posts">
+<section id="posts" class="list">
   <div class="container">
     <div class="row">
       <div class="col">
@@ -16,11 +16,12 @@
         {{ range $paginator.Pages }}
 
         <div class="entry">
+          <div class="entry-content">
+            <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
+            <p class="date">{{ .Date.Format "Jan _2, 2006" }}</p>
+            <p class="summary">{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;»</a></p>
+          </div>
           {{ partial "img-featured.html" . }}
-          <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
-          <p>{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;more&nbsp;»</a></p>
-          <p><span class="date">{{ .Date.Format "Jan _2, 3:05 PM" }}</span></p>
-          {{ partial "post-tags.html" . }}
         </div>
 
         {{ end }}
