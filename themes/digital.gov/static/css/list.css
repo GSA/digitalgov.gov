@@ -1,5 +1,12 @@
-.list .container{
-	max-width: 700px;
+#posts .row{
+	display: flex;
+	flex-flow: row wrap-reverse;
+}
+.list{
+	max-width: 600px;
+}
+.sidebar{
+	max-width: 330px;
 }
 .list .entry{
 	margin-bottom: 2em;
@@ -11,18 +18,19 @@
 	margin: 0;
 }
 .list .featured .entry-content{
-	width: 65%;
+	width: 77%;
 }
 .list .featured .entry-featured{
-	width: 35%;
+	width: 23%;
 }
 .list .entry .entry-featured img{
 	float: right;
+	width: 120px;
 }
 .list .entry h3{
-	margin-bottom: .25em;
-	font-size: 1.3em;
-	line-height: 1.3em;
+	margin-bottom: .15em;
+	font-size: 1.2em;
+	line-height: 1.4em;
 }
 .list .entry h3 a{
 	color: #222;
@@ -34,6 +42,7 @@
 .list .entry .summary{
 	margin-bottom: 0;
 	color: #000;
+	font-size: 0.9em;
 }
 .list .entry .date{
 	margin-bottom: 0.5em;
