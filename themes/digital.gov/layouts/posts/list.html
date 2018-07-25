@@ -11,11 +11,11 @@
     <div class="row">
       <div class="col">
 
+        <h1>All Posts</h1>
         {{ $paginator := .Paginate (where .Site.Pages "Section" "posts") }}
         {{ partial "pagination.html" . }}
         {{ range $paginator.Pages }}
-
-        <div class="entry">
+        <div class="entry{{ if .Params.featured_image.uid }} featured{{ end }}">
           <div class="entry-content">
             <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
             <p class="date">{{ .Date.Format "Jan _2, 2006" }} {{ partial "post-authors.html" . }}</p>

@@ -6,14 +6,16 @@
 	padding: 2em 2em 2.25em 2em;
 	display: flex;
 	flex-flow: row wrap-reverse;
-	background: #f9f9f9;
+	background: #f8f8f8;
 	border-radius: 2px;
 }
 .list .entry .entry-content{
 	margin: 0;
+}
+.list .featured .entry-content{
 	width: 65%;
 }
-.list .entry .entry-featured{
+.list .featured .entry-featured{
 	width: 35%;
 }
 .list .entry .entry-featured img{
