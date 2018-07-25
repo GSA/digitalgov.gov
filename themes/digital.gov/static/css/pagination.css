@@ -1,8 +1,5 @@
-@import "top6.css";
-@import "page-details.css";
-
 .pagination{
-	margin: 60px 0;
+	margin: 2em 0;
 	padding: 0;
 }
 
