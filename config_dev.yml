@@ -58,6 +58,7 @@ permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
 
+preserveTaxonomyNames   : true
 taxonomies:
   tag                   : "tag"
   category              : "categories"
