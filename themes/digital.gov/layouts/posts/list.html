@@ -13,7 +13,6 @@
 
         <h1>All Posts</h1>
         {{ $paginator := .Paginate (where .Site.Pages "Section" "posts") }}
-        {{ partial "pagination.html" . }}
         {{ range $paginator.Pages }}
         <div class="entry{{ if .Params.featured_image.uid }} featured{{ end }}">
           <div class="entry-content">
