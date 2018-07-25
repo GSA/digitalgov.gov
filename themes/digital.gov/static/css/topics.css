@@ -1,0 +1,9 @@
+.topics{
+	padding: 0;
+	list-style-type: none;
+}
+.topics li{
+	padding: .25em 0;
+	border-top: 1px #ddd solid;
+	font-size: .85em !important;
+}
