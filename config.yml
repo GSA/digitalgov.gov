@@ -38,8 +38,8 @@ outputs:
   home: ["HTML","RSS", "SiteImages", "JSON"]
   section: ["HTML","RSS", "JSON"]
   page: ["HTML","RSS", "JSON"]
-  taxonomy: ["JSON"]
-  taxonomyTerm: ["JSON"]
+  taxonomy: ["HTML","RSS", "JSON"]
+  taxonomyTerm: ["HTML","RSS", "JSON"]
 
 blackfriday:
   fractions: false
