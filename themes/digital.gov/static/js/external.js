@@ -1,5 +1,13 @@
 jQuery(document).ready(function($) {
 
+$(".page-details .close").click(function() {
+	$(".page-details").toggle();
+});
+$(document).bind('keyup', function (evt) {
+  if (evt.keyCode == 191){
+		$(".page-details").toggle();
+	}
+});
 var featured_height = $('.featured-video').height();
 var featured_hed = $('.featured-news .hed').height();
 var featured_foot = $('.featured-news .foot').height();
@@ -18,12 +26,12 @@ $( window ).resize(function() {
 
 // Builds the Edit link on posts/pages/events to point to the GitHub file
 function build_edit_file_link(){
-	// filepathURL is set the <head>
-	if (filepathURL !== undefined) {
+	// editpathURL is set the <head>
+	if (editpathURL !== undefined) {
 
 		// Build the edit link
 		var edit = [
-			"<a target='_blank' class='edit_file_link' href='"+filepathURL+"' title='Edit in GitHub'>",
+			"<a target='_blank' class='edit_file_link' href='"+editpathURL+"' title='Edit in GitHub'>",
 				"Edit",
 			"</a>"
 		].join("\n");
@@ -35,26 +43,53 @@ function build_edit_file_link(){
 build_edit_file_link();
 
 function get_commit_data(){
-	// commit_api_path is set the <head>
+	if (branch == "master") {
+		branchpath = "";
+	} else {
+		branchpath = "/" + branch;
+	}
+	var commit_api_path  = "https://api.github.com/repos/" + git_org + "/" + git_repo + "/commits" + branchpath + "?path=/content/" + filepath;
+	console.log(commit_api_path);
 	if (commit_api_path !== undefined) {
 		$.ajax({
 		  url: commit_api_path,
 		 	dataType: 'json',
 		}).done(function(data) {
-			if (typeof data !== 'undefined' && data.length > 0) {
-				show_last_commit(data);
+			if (typeof data !== 'undefined') {
+				if (branch == "master") {
+					show_last_commit(data, branch);
+				} else {
+					// show_branch_last_commit(data, branch);
+					show_last_commit(data, branch);
+				}
 			}
 		});
 	}
 }
 get_commit_data(filepath);
 
-function show_last_commit(data){
-	var commit_date = data[0]['commit']['committer']['date'];
-	var commit_author = data[0]['author']['login'];
+function get_branch_link(branch){
+	var path = 'https://github.com/GSA/digitalgov.gov/tree/' + branch;
+	var branch_link = [
+		"<a class='branch' href="+path+" title="+branch+">"+branch+"</a> "
+	].join("\n");
+	return branch_link;
+}
+
+function show_last_commit(data, branch){
+	var branch_link = get_branch_link(branch);
+	console.log(data);
+	if (data[0] == null) {
+		var commit_date = data['commit']['committer']['date'];
+		var commit_author = data['author']['login'];
+	} else {
+		var commit_date = data[0]['commit']['committer']['date'];
+		var commit_author = data[0]['author']['login'];
+	}
 	var commit_author_url = 'https://github.com/' + commit_author;
-	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/master/content/' + filepath;
+	var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/'+branch+'/content/' + filepath;
 	var last_commit = [
+		branch_link,
 		"Last updated by",
 		"<a href="+commit_author_url+" title="+commit_author+">",
 			"<span class='commit-author'>"+commit_author+"</span>",
@@ -69,22 +104,42 @@ function show_last_commit(data){
 	});
 }
 
+function show_branch_last_commit(data, branch){
+	var branch_link = get_branch_link(branch);
+	var last_commit = [
+		branch_link
+	].join("\n");
+	$('.last_commit').each(function(i, items_list) {
+		$(this).append(last_commit).removeClass('hidden');
+	});
+}
+
 
 function getFormattedDate(d) {
+
 	var date = new Date(d);
-	date.setUTCHours(date.getUTCHours() - 5);
+	date.setUTCHours(date.getUTCHours() - 4);
 	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   var year = date.getUTCFullYear();
   var month = (date.getUTCMonth()).toString();
   month = monthNames[month];
   var day = date.getUTCDate().toString();
   day = day.length > 1 ? day : '0' + day;
-	var hours = date.getUTCHours().toString();
+	var globalhours = date.getUTCHours().toString();
+	if (globalhours > 12 ) {
+		var hours = globalhours - 12;
+	} else {
+		var hours = globalhours;
+	}
 	var minutes = date.getUTCMinutes().toString();
 	minutes = minutes.length > 1 ? minutes : '0' + minutes;
 	var seconds = date.getUTCSeconds().toString();
-	var ampm = hours >= 12 ? 'pm' : 'am';
-	var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ampm + ' ET';
+	if (globalhours > 12 ) {
+		var ampm = 'pm';
+	} else {
+		var ampm = 'am';
+	}
+	var date_string = month + ' ' + day + ', ' + year + ' at ' + hours + ':' + minutes + ' ' + ampm + ' ET';
   return date_string;
 }
 

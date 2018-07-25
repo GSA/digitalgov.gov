@@ -26,22 +26,22 @@ Potential audiences include:
   * Developers
   * User Experience staff
 
-To invite the DigitalGov User Experience Program team to speak at your agency, please email <govux@gsa.gov>.
+<a href="mailto:govux@gsa.gov">Email the DigitalGov User Experience Program team</a> to invite them to speak at your agency.
 
-### Our Recorded Webinars
+## Our Recorded Webinars
 
 **User Centered Design** (November 2013)
 
-[youtube https://www.youtube.com/watch?v=GwBBtTkUAcA?feature=player_embedded]
+{{< youtube GwBBtTkUAcA >}}
 
 **Usability Testing and Debriefing Best Practices** (March  2012)
 
-[youtube https://www.youtube.com/watch?v=n8d8AHQ-lwE?feature=player_embedded]
+{{< youtube n8d8AHQ-lwE >}}
 
-### Our Presentations
+## Our Presentations
 
-[slideshare id=35017484&doc=whythebestgovsitesuseuser-centereddesign-140522154355-phpapp02&w=600]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fRnpmnC0DUZCq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/why-the-best-gov-sites-use-user-centered-design" title="Why the best gov sites use User-Centered Design" target="_blank">Why the best gov sites use User-Centered Design</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
 
-[slideshare id=35017297&doc=topuserexperiencechallengesingovernment-140522153841-phpapp01&w=600]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bKdYvXSQO8vfTn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/top-user-experience-challenges-in-government" title="Top User Experience Challenges in Government" target="_blank">Top User Experience Challenges in Government</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
 
-[slideshare id=35017109&doc=hallwayusabilitytestingfirstfridaysusabilityprogram-140522153245-phpapp01&w=600]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fFiVwYjNC9DlpK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/hallway-usability-testing-first-fridays-usability-program" title="Hallway Usability Testing, First Fridays Usability Program" target="_blank">Hallway Usability Testing, First Fridays Usability Program</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>

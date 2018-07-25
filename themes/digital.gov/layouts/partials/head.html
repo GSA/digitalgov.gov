@@ -111,7 +111,7 @@
   <link rel='stylesheet' href='{{ "css/notice-bar.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/tribe-events-full.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/tribe-events-theme.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/entry.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/entry.css?=20180626" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/toc.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "lib/uswds/css/dg-uswds.min.css" | absURL }}' type='text/css' media='all' />
   <link rel="stylesheet" media="all" href="{{ "css/override.css" | absURL }}" type="text/css" />
@@ -158,9 +158,11 @@
   <script type="text/javascript">
     git_org          = {{ .Site.Params.git_org }};
     git_repo         = {{ .Site.Params.git_repo }};
+    branch           = {{ $.Scratch.Get "branch" }}
+    filename         = {{ .File.LogicalName }};
     filepath         = {{ .File.Path }};
-    filepathURL      = {{ printf "https://github.com/%s/%s/edit/master/content/%s" $.Site.Params.git_org $.Site.Params.git_repo $.File.Path }};
-    commit_api_path  = {{ printf "https://api.github.com/repos/%s/%s/commits?path=/content/%s" $.Site.Params.git_org $.Site.Params.git_repo $.File.Path }};
+    filepathURL      = {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $.File.Path }};
+    editpathURL      = {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $.File.Path }};
   </script>
 
 

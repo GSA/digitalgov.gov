@@ -1,3 +1,5 @@
+@import "top6.css";
+@import "page-details.css";
 .page .entry{
 }
 
@@ -52,7 +54,7 @@
 .entry-meta{
 	margin-bottom: 120px;
 	padding: 20px;
-	background: #E9E9FA;
+	background: #fae8f2;
 	color: #000;
 	border-radius: 2px;
 	max-width: 600px;
@@ -60,22 +62,22 @@
 }
 
 .entry-meta p.feedback{
-	margin-bottom: 8px !important;
+	margin-bottom: 0 !important;
+	padding-bottom: 12px !important;
 	font-weight: bold;
-
 }
-
 
 /*Edit File button on posts/pages/events*/
 .entry-meta .edit_file{
 	margin-right: 4px;
 	display: inline;
 }
+
 .entry-meta .edit_file .edit_file_link{
 	padding: 5px 18px;
 	line-height: 16px;
 	display: inline-block;
-	background: #4f297c;
+	background: #be0069;
 	border-radius: 3px;
 	color:#fff !important;
 	font-size: 14px;
@@ -83,30 +85,61 @@
 	font-family: Arial, sans-serif;
 }
 .entry-meta .edit_file .edit_file_link:hover{
-	background: #290553;
+	background: #8f004f;
 }
+
+/* Colors for the MASTER branch */
+.branch-master{
+	background-color: #E9E9FA;
+}
+.branch-master .edit_file .edit_file_link{
+	background-color: #4f297c;
+}
+.branch-master .edit_file .edit_file_link:hover{
+	background-color: #290553;
+}
+.branch-master .last_commit .branch{
+	background-color: #cfadf7;
+}
+.branch-master .last_commit .branch:hover{
+	background-color: #a77cdb;
+}
+
 
 .last_commit {
 	margin: 0;
 	display: inline;
-	color: #444;
-	font-size: 15px;
+	color: #000;
+	font-size: 14px;
 }
 .last_commit a{
 	text-decoration: underline;
 	color: #444;
 }
 
-
-
-
+.last_commit .branch{
+	margin-right: 3px;
+	padding: 5px 12px 5px 23px;
+	line-height: 16px;
+	display: inline-block;
+	border-radius: 3px;
+	background: #f6a1d0 url("../img/git-branch.png") no-repeat 8px 6px;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	color: #000;
+	text-decoration: none;
+}
+.last_commit .branch:hover{
+	background-color: #f57cbf;
+}
 
 /* Guides */
 .guide .entry-head{
-	/* margin-bottom: 80px; */
+	margin-bottom: 45px;
 }
 .guide .entry-head .deck{
-	margin-bottom: 65px;
+	margin-bottom: 10px;
 }
 .guide .entry-head .pagenav{
 	font-size: 20px;
@@ -129,19 +162,22 @@
 	color: #222;
 }
 
-.guide .notice{
-	margin-bottom: 30px;
-	padding: 12px 18px 12px 18px;
-	border: 5px #fdd430 solid;
-	background: #fff;
+.last-updated{
+	margin-top: 25px;
 	background: rgba(252, 212, 48, .1);
-	color: #000;
-	font-size: 1em;
+	background: url('../img/clock-icon.png') no-repeat 0px 6px;
 }
-.guide .notice p{
-	margin: 0 0 3px 0;
+.last-updated .last_commit{
+	padding-left: 20px;
+	color: #898989;
+	font-size: 14px;
 }
-
+.last-updated .last_commit a{
+	color: #898989;
+}
+.last-updated .last_commit .branch{
+	display: none;
+}
 
 @media only screen and (max-width:480px) {
 	#wrap{
@@ -171,6 +207,7 @@
 	.entry-content{
 		width:auto;
 	}
+
 }
 
 

@@ -29,12 +29,12 @@ In this webinar, Mobile Gov developers from the National Institutes of Health an
 
 Anyone interested in digital government, mobile strategy, mobile development, natives apps, data & API’s, mobile web, mobile implementation in the federal government and the digital government strategy.
 
-[youtube=http://www.youtube.com/watch?v=EurlOmfLcPA&w=600]
+{{< youtube EurlOmfLcPA >}}
 
-[slideshare id=35275313&doc=user-experience-david-hale-140529141127-phpapp02&w=600]
+Three presentations:
 
-[slideshare id=35275431&doc=va-applications-for-mental-health-140529141447-phpapp02&w=600]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/iV2wVHqZzvhn4R" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/user-experiencedavidhale" title="User Experience" target="_blank" alt="Slides: User experience with David Hale">User Experience</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
 
-[slideshare id=35274693&doc=mobile-user-experience-solve-outbreak-140529135343-phpapp02&w=600]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6OHLMVQm0FyOcA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/va-applicationsformentalhealth" title="VA Mobile Applications for Mental Health: Designing a Patient-Centered User Experience" target="_blank" alt="Slides: Designing a Patient-Centered User Experience">VA Mobile Applications for Mental Health: Designing a Patient-Centered User Experience</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>
 
- 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2HpcTuhtgSzV7C" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DigitalGov/mobile-userexperiencesolveoutbreak" title="Mobile User Experience &amp; Solve the Outbreak" target="_blank" alt="Slides: Mobile User Experience">Mobile User Experience &amp; Solve the Outbreak</a> </strong> from <strong><a href="https://www.slideshare.net/DigitalGov" target="_blank">DigitalGov from General Services Administration</a></strong> </div>

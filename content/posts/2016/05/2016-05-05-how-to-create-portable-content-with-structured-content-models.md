@@ -43,4 +43,4 @@ As far as getting your organization on board? Start small and find content that 
 
 View the entire webinar below.
 
-[youtube=http://www.youtube.com/watch?v=3WO0PK4mV6k&w=600]
+{{< youtube 3WO0PK4mV6k >}}

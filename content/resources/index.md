@@ -2,6 +2,7 @@
 url: /resources/
 date: 2013-11-17 11:13:13 -0400
 title: Resources
+type: guide
 summary: 'Common resources for people working in Digital government.'
 aliases:
   - /tools/
@@ -30,12 +31,9 @@ aliases:
 </script>
 
 
----
-
-Check out the list of <a href="{{< link "omb-memos-circulars-executive-orders-and-other-policies.md" >}}">OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies</a>
-
-Looking for overall digital policy guidance? See the <a href="{{< link "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Digital Services</a>.
-
+## Getting Started
+- [**OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies**]({{< link "omb-memos-circulars-executive-orders-and-other-policies.md" >}})
+- [**Checklist of Requirements for Federal Digital Services**]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})
 
 ## Accessibility
 
@@ -98,7 +96,7 @@ Looking for overall digital policy guidance? See the <a href="{{< link "checklis
 
 ## Multilingual
 
-*   [Multilingual Digital Group]({{< link "multilingual.md" >}})
+*   [Multilingual Community of Practice]({{< link "multilingual.md" >}})
 *   [Spanish Language Style Guide and Glossaries]({{< link "spanish-language-style-guide-and-glossaries.md" >}})
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
 *   [Top 10 Best Practices for Multilingual Websites]({{< link "top-10-best-practices-for-multilingual-websites.md" >}})
@@ -119,8 +117,9 @@ Looking for overall digital policy guidance? See the <a href="{{< link "checklis
 
 ## Policy and Governance
 
-*   [Building a 21st Century Digital Government](https://obamawhitehouse.archives.gov/sites/default/files/uploads/2012digital_mem_rel.pdf) (PDF, 65.3 kb, 2 pages, May 2012)
-*   [Checklist of Requirements for Federal Digital Services]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})
+* [Building a 21st Century Digital Government](https://obamawhitehouse.archives.gov/sites/default/files/uploads/2012digital_mem_rel.pdf) (PDF, 65.3 kb, 2 pages, May 2012)
+* [Checklist of Requirements for Federal Digital Services]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})
+* [Digital Governance Policy Outline](https://digital.gov/resources/digital-governance-policies/)
 *   [Electronic Capital Planning and Investment Control eCPIC]({{< link "electronic-capital-planning-and-investment-control-ecpic.md" >}})
 *   [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 KB, 2 pages, January 2015)
 *   [Sample Position Descriptions for Digital Government Jobs]({{< link "sample-position-descriptions-for-digital-government-jobs.md" >}})
@@ -161,7 +160,7 @@ Looking for overall digital policy guidance? See the <a href="{{< link "checklis
     *   [Required Web Content and Links]({{< link "required-web-content-and-links.md" >}})
 *   [Content Management Systems Toolkit]({{< link "2013-10-30-content-management-systems-toolkit.md" >}})
     *   [Content Management Systems Used by Government Agencies]({{< link "content-management-systems-used-by-government-agencies.md" >}})
-*   [DigitalGov Search]({{< link "search.md" >}})
+*   [Search.gov]({{< link "search.md" >}}) (formerly DigitalGov Search)
 *   [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf" >}}) (PDF, 607 kb, 92 pages, June 2004)
     *   [ICGI Report Attachments]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 184 kb, 7 pages, June 2004)
     *   [ICGI Summary and Background]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 176 kb, 6 pages, June 2004)

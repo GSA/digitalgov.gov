@@ -13,6 +13,7 @@
       {{ if .Params.deck }}
       <div class="deck">{{ .Params.deck }}</div>
       {{ end }}
+      {{ partial "last-updated" . }}
     </div>
 
     <div class="guide-nav">
@@ -32,14 +33,11 @@
     </div>
 
     <div class="entry-content">
-      {{ if .Params.notice }}
-        {{ partial "page-notice" (dict "page" .  "page_type" "guide" "notice" .Params.notice ) }}
-      {{ end }}
-
       {{ .Content }}
     </div>
 
-    {{ partial "post-meta--feedback" (dict "page" . "page_type" "guide" ) }}
+    {{ partial "post-meta--feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
+    {{ partial "page-details" . }}
 
   </div>
 

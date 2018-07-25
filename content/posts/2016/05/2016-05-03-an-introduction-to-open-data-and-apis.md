@@ -44,4 +44,7 @@ To get started, additional plugin software is needed for the Web browser: [JSON 
 
 **The bottom line**—APIs can be powerful and easy to use tools for agencies and organization to provide new, effective ways of opening data to the public. Getting started is easy.
   
-[youtube=http://www.youtube.com/watch?v=taTdJ6oOZX4&w=600]_**John Paul** is an IT project manager for the United States Department of Agriculture (USDA). He has worked in information technology since 1999, and specializes in strategy, enterprise architecture and infrastructure._
+{{< youtube taTdJ6oOZX4 >}}
+
+
+_**John Paul** is an IT project manager for the United States Department of Agriculture (USDA). He has worked in information technology since 1999, and specializes in strategy, enterprise architecture and infrastructure._

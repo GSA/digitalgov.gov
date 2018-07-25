@@ -11,7 +11,7 @@ summary: 'Our communities are where people in government come together to learn,
 
 Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.
 
-There are more than 10,000 people participating across government in 19 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
+There are more than 10,000 people participating across government in 21 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
 
 ### Our Communities
 
@@ -59,6 +59,9 @@ There are more than 10,000 people participating across government in 19 areas. O
 **[Plain Language Action and Information Network]({{< link "plain-language-community-of-practice.md" >}})**: Supporting the use of clear communication in government writing and helping federal agencies comply with the Plain Writing Act of 2010.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "plain-language-community-of-practice.md" >}})
 
+**[Results-Oriented Accountability for Grants]({{< link "results-oriented-accountability-for-grants.md" >}})**: Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "results-oriented-accountability-for-grants.md" >}})
+
 **[SocialGov](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)
 
@@ -78,6 +81,6 @@ There are more than 10,000 people participating across government in 19 areas. O
 
 ### Community Guidelines
 
-Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the Freedom of Information Act._
+Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the [Freedom of Information Act](https://www.foia.gov/) (FOIA)._
 
 For more information on Communities, or to propose a new inter-agency group, please send an email to [Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
