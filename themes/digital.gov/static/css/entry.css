@@ -1,7 +1,7 @@
 @import "top6.css";
 @import "page-details.css";
 @import "pagination.css";
-@import "paginated.css";
+@import "list.css";
 .page .entry{
 }
 
@@ -53,8 +53,14 @@
 	margin-bottom: 24px;
 }
 
-.entry-meta {
+.entry-meta{
+	margin-bottom: 120px;
+	padding: 20px;
+	background: #fae8f2;
 	color: #222;
+	border-radius: 2px;
+	max-width: 600px;
+	clear: both;
 }
 
 .entry-meta .tags {
@@ -66,6 +72,7 @@
 .entry-meta .tags a:hover{
 	text-decoration: underline;
 }
+
 
 .entry-meta p.feedback{
 	margin-bottom: 0 !important;
