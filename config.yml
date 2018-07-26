@@ -159,7 +159,7 @@ menu:
       URL             : "/categories/crowdsourcing-and-citizen-science/"
       Weight          : 11
 
-    - Name            : "code"
+    - Name            : "Code"
       Identifier      : "code"
       URL             : "/categories/code/"
       Weight          : 2
@@ -174,7 +174,7 @@ menu:
       URL             : "/categories/data/"
       Weight          : 21
 
-    - Name            : "content"
+    - Name            : "Content"
       Identifier      : "content"
       URL             : "/categories/content/"
       Weight          : 3
@@ -189,7 +189,7 @@ menu:
       URL             : "/categories/writing/"
       Weight          : 21
 
-    - Name            : "managing digital"
+    - Name            : "Managing Digital"
       Identifier      : "managing-digital"
       URL             : "/categories/managing-digital/"
       Weight          : 4
@@ -204,22 +204,22 @@ menu:
       URL             : "/categories/strategy-and-policy/"
       Weight          : 42
 
-    - Name            : "metrics"
+    - Name            : "Metrics"
       Identifier      : "resources"
       URL             : "/categories/metrics/"
       Weight          : 5
 
-    - Name            : "mobile"
+    - Name            : "Mobile"
       Identifier      : "mobile"
       URL             : "/categories/mobile/"
       Weight          : 6
 
-    - Name            : "social media"
+    - Name            : "Social media"
       Identifier      : "social-media"
       URL             : "/categories/social-media/"
       Weight          : 7
 
-    - Name            : "ux"
+    - Name            : "UX"
       Identifier      : "ux"
       URL             : "/categories/ux/"
       Weight          : 7
