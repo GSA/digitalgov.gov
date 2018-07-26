@@ -5,7 +5,6 @@
 
 {{ define "content" }}
 
-
 <section id="posts">
   <div class="container">
     <div class="row">
@@ -31,16 +30,24 @@
       </div>
 
       <div class="col sidebar">
+        <h4>Topics</h4>
+        <!-- Secondary Nav loop using hugo menus-->
+        {{ $currentNode := . }}
+        {{ $menuClasses := "menu-item menu-item-type-taxonomy menu-item-object-category" }}
+        {{ $submenuClasses := $menuClasses }}
         <ul class="topics">
-
-          {{ range $key, $value := .Site.Taxonomies.categories }}
-            <li><a href="/categories/{{ $key | urlize  }}">{{ $key }} <span>{{ len $value }}</span></a></li>
+          {{ range .Site.Menus.secondary }}
+            <li><a class="$menuClasses{{ if .HasChildren }} menu-item-has-children{{ end }} {{if or ($currentNode.IsMenuCurrent "secondary" .) ($currentNode.HasMenuCurrent "secondary" .) }} current-menu-item current_page_item{{end}}" href="{{.URL}}">{{ .Name }}</a></li>
+              {{ if .HasChildren }}
+                  {{ range .Children }}
+                    <li class="$submenuClasses"><a href="{{.URL}}"> {{ .Name }} </a></li>
+                  {{ end }}
+              {{ end }}
+            </li>
           {{ end }}
-
         </ul>
+
       </div>
-
-
     </div>
   </div>
 </section>
