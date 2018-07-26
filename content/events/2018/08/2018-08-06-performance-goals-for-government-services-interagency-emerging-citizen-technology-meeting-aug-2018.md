@@ -1,6 +1,6 @@
 ---
 slug: performance-goals-for-government-services-interagency-emerging-citizen-technology-meeting-aug-2018
-title: 'Performance Goals for Government Services &#x2F; Inter-agency Emerging Citizen Technology Meeting &#40;Aug 2018&#41;'
+title: 'Performance Goals for Government Services &#x2F; August 2018 Inter-agency Emerging Citizen Technology Meeting'
 summary: 'How agencies can align their emerging technology for government services programs with Cross-Agency Priority Goals &#40;CAP Goals&#41; on Performance&#46;gov and other strategic priorities&#46;'
 featured_image:
   uid:
