@@ -2,6 +2,17 @@
 	display: flex;
 	flex-flow: row wrap-reverse;
 }
+
+#posts h1{
+	margin-bottom: 2em;
+	color: #000;
+}
+
+#posts .sidebar h4{
+	color: #000;
+	font-size: 1.1em;
+	margin-bottom: .35em;
+}
 .list{
 	width: 630px;
 }
