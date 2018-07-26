@@ -30,7 +30,7 @@
         <ul class="topics">
 
           {{ range $key, $value := .Site.Taxonomies.categories }}
-            <li><a href="/category/{{ $key | urlize  }}">{{ $key }} <span>{{ len $value }}</span></a></li>
+            <li><a href="/categories/{{ $key | urlize  }}">{{ $key }} <span>{{ len $value }}</span></a></li>
           {{ end }}
 
         </ul>
