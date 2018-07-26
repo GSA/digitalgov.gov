@@ -25,7 +25,7 @@ venue:
 
 ---
 
-This meeting is in-person and online for government employees.
+This meeting is for government employees and will be held in-person and online.
 
 The U.S. Federal Emerging Technology monthly meeting serves as an active reporting and collaboration session designed to share knowledge and forge consensus to build shared resources for emerging technologies for government services including Artificial Intelligence, Robotic Process Automation, Virtual/Augmented Reality, Blockchain, and Social Technology.
 
