@@ -30,6 +30,7 @@ This meeting is in-person and online for government employees.
 The U.S. Federal Emerging Technology monthly meeting serves as an active reporting and collaboration session designed to share knowledge and forge consensus to build shared resources for emerging technologies for government services including Artificial Intelligence, Robotic Process Automation, Virtual/Augmented Reality, Blockchain, and Social Technology.
 
 The focus this month is on performance goals, including:
+
 - How agencies can align their emerging technology for government services programs with Cross-Agency Priority Goals (CAP Goals) on Performance.gov and other strategic priorities.
 - Developing shared FY19 performance metrics and goals for our inter-agency emerging technology initiatives.
 
@@ -55,6 +56,7 @@ The focus this month is on performance goals, including:
 - [Venture Capital Advisory Group](https://emerging.digital.gov/VentureCapital/)
 
 **Workshop**
+
 - Emerging Technology for Government Services and Performance Goals
 
 **New Business and Open Questions**
