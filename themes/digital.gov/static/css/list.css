@@ -3,10 +3,10 @@
 	flex-flow: row wrap-reverse;
 }
 .list{
-	max-width: 600px;
+	width: 630px;
 }
 .sidebar{
-	max-width: 330px;
+	width: 300px;
 }
 .list .entry{
 	margin-bottom: 2em;
