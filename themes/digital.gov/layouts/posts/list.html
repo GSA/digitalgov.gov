@@ -30,7 +30,8 @@
       </div>
 
       <div class="col sidebar">
-        <h4>Topics</h4>
+
+        <h4>Browse Our Topics</h4>
         <!-- Secondary Nav loop using hugo menus-->
         {{ $currentNode := . }}
         {{ $menuClasses := "menu-item menu-item-type-taxonomy menu-item-object-category" }}
@@ -39,9 +40,9 @@
           {{ range .Site.Menus.secondary }}
             <li><a class="$menuClasses{{ if .HasChildren }} menu-item-has-children{{ end }} {{if or ($currentNode.IsMenuCurrent "secondary" .) ($currentNode.HasMenuCurrent "secondary" .) }} current-menu-item current_page_item{{end}}" href="{{.URL}}">{{ .Name }}</a></li>
               {{ if .HasChildren }}
-                  {{ range .Children }}
-                    <li class="$submenuClasses"><a href="{{.URL}}"> {{ .Name }} </a></li>
-                  {{ end }}
+                {{ range .Children }}
+                  <li class="$submenuClasses"><a href="{{.URL}}"> {{ .Name }} </a></li>
+                {{ end }}
               {{ end }}
             </li>
           {{ end }}
