@@ -9,8 +9,12 @@
 <section id="posts">
   <div class="container">
     <div class="row">
-      <div class="col list">
+      <div class="col">
         <h1>All Posts</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col list">
         {{ $paginator := .Paginate (where .Site.Pages "Section" "posts") }}
         {{ range $paginator.Pages }}
         <div class="entry{{ if .Params.featured_image.uid }} featured{{ end }}">
