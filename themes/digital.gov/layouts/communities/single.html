@@ -4,12 +4,13 @@
 
 {{ define "content" }}
 
+THIS IS THE PAGE
 <div class="page">
   <div class="hentry entry">
 
     <div class="entry-head">
       {{ partial "breadcrumbs" . }}
-      <h1 class="post-title single">ham {{ .Title | markdownify }}</h1>
+      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
     </div>
 
     <div class="entry-content">
