@@ -10,7 +10,6 @@ aliases:
 ---
 
 
-
 <form accept-charset="UTF-8" action="https://search.usa.gov/search/docs" id="search-form" method="get">
   <input name="utf8" type="hidden" value="✓">
   <input id="affiliate" name="affiliate" type="hidden" value="digitalgov">
