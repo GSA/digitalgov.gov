@@ -26,12 +26,12 @@ $( window ).resize(function() {
 
 // Builds the Edit link on posts/pages/events to point to the GitHub file
 function build_edit_file_link(){
-	// filepathURL is set the <head>
-	if (filepathURL !== undefined) {
+	// editpathURL is set the <head>
+	if (editpathURL !== undefined) {
 
 		// Build the edit link
 		var edit = [
-			"<a target='_blank' class='edit_file_link' href='"+filepathURL+"' title='Edit in GitHub'>",
+			"<a target='_blank' class='edit_file_link' href='"+editpathURL+"' title='Edit in GitHub'>",
 				"Edit",
 			"</a>"
 		].join("\n");

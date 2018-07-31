@@ -39,7 +39,11 @@ outputFormats:
 rssLimit: 20
 
 outputs:
-  home: ["HTML","RSS", "SiteImages"]
+  home: ["HTML","RSS", "SiteImages", "JSON"]
+  section: ["HTML","RSS", "JSON"]
+  page: ["HTML","RSS", "JSON"]
+  taxonomy: ["HTML","RSS", "JSON"]
+  taxonomyTerm: ["HTML","RSS", "JSON"]
 
 blackfriday:
   fractions: false

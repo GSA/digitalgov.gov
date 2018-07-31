@@ -2,7 +2,7 @@
 slug: the-data-briefing-introducing-the-u-s-patent-and-trademark-offices-new-open-data-portal
 date: 2016-05-18 11:10:59 -0400
 title: 'The Data Briefing: Introducing the U.S. Patent and Trademark Office’s New Open Data Portal'
-summary: 'My first column when I came back from last year’s summer sabbatical was on the U.S. Patent and Trademark Office’s (USPTO) PatentsView project. PatentsView became one of the Department of Commerce’s most viewed apps in 2015. Building on this success, USPTO released a beta version of its open data portal. {{< legacy-img src="2016/05/600-x-328-USPTO-Open-Data-Portal-beta-site.jpg" alt="Screen capture'
+summary: 'My first column when I came back from last year’s summer sabbatical was on the U.S. Patent and Trademark Office’s (USPTO) PatentsView project.'
 authors:
   - bbrantley
 categories:
