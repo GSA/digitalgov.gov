@@ -145,19 +145,6 @@
   <script type='text/javascript' src='{{ "js/flexslider-min.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
 
-  {{ "<!-- DAP — Digital Analytics Program | Learn more: https://digital.gov/dap/ -->" | safeHTML }}
-  <script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?ver=true&agency=GSA{{ if (isset .Params "youtube_id") }}&yt=true{{ end }}"></script>
-
-  {{ "<!-- Google Analytics — Global Site Tag (gtag.js) | because our site has been around a lot longer than DAP -->" | safeHTML }}
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47271808-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments)};
-    gtag('js', new Date());
-
-    gtag('config', 'UA-47271808-1');
-  </script>
-
   {{ "<!-- Favicon -->" | safeHTML }}
   <link rel="shortcut icon" href="https://s3.amazonaws.com/digitalgov/favicon.ico" type="image/x-icon" />
 
