@@ -1,6 +1,6 @@
 #posts .row{
 	display: flex;
-	flex-flow: row wrap-reverse;
+	flex-flow: row wrap;
 }
 
 #posts h1{
@@ -16,9 +16,10 @@
 	font-size: 1.1em;
 	margin-bottom: .35em;
 }
+
 .list{
 	padding-top: .75em;
-	width: 630px;
+	width: auto;
 	border-top: 1px #000 solid;
 }
 .sidebar{
@@ -35,11 +36,12 @@
 .list .entry .entry-content{
 	margin: 0;
 }
-.list .featured .entry-content{
-	width: 77%;
+.list .has-img .entry-content{
+	width: 70%;
 }
-.list .featured .entry-featured{
-	width: 23%;
+.list .has-img .entry-featured{
+	padding-left: 1em;
+	width: 25%;
 }
 .list .entry .entry-featured img{
 	float: right;
@@ -60,10 +62,40 @@
 .list .entry .summary{
 	margin-bottom: 0;
 	color: #000;
-	font-size: 0.9em;
+	font-size: 1em;
+	line-height: 1.4em;
 }
 .list .entry .date{
 	margin-bottom: 0.5em;
 	color: #666;
 	font-size: .9em;
+}
+
+
+@media only screen and (min-width: 576px) {
+
+}
+@media only screen and (min-width: 768px) {
+
+	.list{
+		width: 630px;
+	}
+	.list .has-img .entry-content{
+		width: 77%;
+	}
+	.list .has-img .entry-featured{
+		padding: 0;
+		width: 23%;
+	}
+	.list .entry .summary{
+		font-size: 0.9em;
+	}
+}
+@media only screen and (min-width: 992px) {
+	#posts .row{
+		flex-flow: row wrap-reverse;
+	}
+}
+@media only screen and (min-width: 1024px) {
+
 }
