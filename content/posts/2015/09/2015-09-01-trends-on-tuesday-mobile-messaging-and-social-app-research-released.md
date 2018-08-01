@@ -1,5 +1,5 @@
 ---
-slug: trends-on-tuesday-mobile-messaging-and-social-app-research-released.md
+slug: trends-on-tuesday-mobile-messaging-and-social-app-research-released
 date: 2015-09-01 10:00:08 -0400
 title: 'Trends on Tuesday: Mobile Messaging and Social App Research Released'
 summary: On DigitalGov, we frequently talk about some of the most popular app experiences, and research almost always shows that mobile messaging and social apps are the most frequently used. Pew Research released a new report specifically about

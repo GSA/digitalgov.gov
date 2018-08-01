@@ -9,8 +9,8 @@ display_name: Andrew Weber
 first_name: Andrew
 last_name: Weber
 uid: andrew-weber
-email: ""
-bio: 'Andrew Weber, Legislative Information Systems Manager, has been at the Law Library of Congress since June 2004. He runs the Law Library's Twitter account and Facebook page and works to develop and implement new features for Congress.gov.'
+email:
+bio: "Andrew Weber, Legislative Information Systems Manager, has been at the Law Library of Congress since June 2004. He runs the Law Library's Twitter account and Facebook page and works to develop and implement new features for Congress.gov."
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
