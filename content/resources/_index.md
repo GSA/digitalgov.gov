@@ -2,34 +2,13 @@
 url: /resources/
 date: 2013-11-17 11:13:13 -0400
 title: Resources
-type: guide
 summary: 'Common resources for people working in Digital government.'
 aliases:
   - /tools/
 
 ---
 
-
-<form accept-charset="UTF-8" action="https://search.usa.gov/search/docs" id="search-form" method="get">
-  <input name="utf8" type="hidden" value="✓">
-  <input id="affiliate" name="affiliate" type="hidden" value="digitalgov">
-  <input type="hidden" name="dc" value="1678">
-
-  <label for="query">Search Resources:</label>
-  <input autocomplete="off" class="usagov-search-autocomplete ui-autocomplete-input" id="query" name="query" type="text" role="textbox" aria-autocomplete="list" aria-haspopup="true" placeholder="search">
-  <input name="commit" type="submit" value="Search">
-</form>
-
-<script type="text/javascript">
-  var usasearch_config = { siteHandle:"digitalgov" };
-
-  var script = document.createElement("script");
-  script.type = "text/javascript";
-  script.src = "//search.usa.gov/javascripts/remote.loader.js";
-  document.getElementsByTagName("head")[0].appendChild(script);
-
-</script>
-
+{{< search-resources >}}
 
 ## Getting Started
 - [**OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies**]({{< link "omb-memos-circulars-executive-orders-and-other-policies.md" >}})
