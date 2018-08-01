@@ -1,0 +1,19 @@
+<form accept-charset="UTF-8" action="https://search.usa.gov/search/docs" id="search-form" method="get">
+  <input name="utf8" type="hidden" value="✓">
+  <input id="affiliate" name="affiliate" type="hidden" value="digitalgov">
+  <input type="hidden" name="dc" value="1678">
+
+  <label for="query">Search Resources:</label>
+  <input autocomplete="off" class="usagov-search-autocomplete ui-autocomplete-input" id="query" name="query" type="text" role="textbox" aria-autocomplete="list" aria-haspopup="true" placeholder="search">
+  <input name="commit" type="submit" value="Search">
+</form>
+
+<script type="text/javascript">
+  var usasearch_config = { siteHandle:"digitalgov" };
+
+  var script = document.createElement("script");
+  script.type = "text/javascript";
+  script.src = "//search.usa.gov/javascripts/remote.loader.js";
+  document.getElementsByTagName("head")[0].appendChild(script);
+
+</script>
