@@ -12,6 +12,8 @@ googleAnalytics         : ""
 enableRobotsTXT         : true
 enableEmoji             : true
 enableGitInfo           : true
+buildFuture             : true
+
 
 ignoreFiles:
   - "^_template"
