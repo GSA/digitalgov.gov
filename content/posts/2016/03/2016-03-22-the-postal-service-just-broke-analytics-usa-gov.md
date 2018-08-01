@@ -1,8 +1,8 @@
 ---
 slug: the-postal-service-just-broke-analytics-usa-gov
 date: 2016-03-22 12:52:55 -0400
-title: The Postal Service Just Broke Analytics.usa.gov
-summary: 'Ok, so it didn’t \*really\* break it. But you might notice that the amount of &ldquo;people on government websites now&rdquo; on analytics.usa.gov is a lot higher than it used to be. {{< legacy-img src="2016/03/600-x-400-USPS-top-of-Analytics-dashboard-March-22-2016.jpg" alt="The United States Post Office website takes first place with over six thousand visitors in this moment on the Analytics Dashboard'
+title: 'The Postal Service Just Broke Analytics.usa.gov'
+summary: 'Ok, so it didn’t really break it. But you might notice that the amount of &ldquo;people on government websites now&rdquo; on analytics.usa.gov is a lot higher than it used to be.'
 authors:
   - tlowden
 categories:
@@ -15,7 +15,7 @@ tag:
   - USPS
 ---
 
-Ok, so it didn’t \*really\* break it. But you might notice that the amount of “people on government websites now” on [analytics.usa.gov](https://analytics.usa.gov/) is a lot higher than it used to be.
+Ok, so it didn’t _really_ break it. But you might notice that the amount of “people on government websites now” on [analytics.usa.gov](https://analytics.usa.gov/) is a lot higher than it used to be.
 
 {{< legacy-img src="2016/03/600-x-400-USPS-top-of-Analytics-dashboard-March-22-2016.jpg" alt="The United States Post Office website takes first place with over six thousand visitors in this moment on the Analytics Dashboard on the morning of March 22, 2016." >}}
 

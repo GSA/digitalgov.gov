@@ -1,9 +1,0 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- with .Site.Data.tag -}}
-  {{- range $t, $value := . -}}
-    {{- range $key, $v := $value -}}
-      {{- $.Scratch.Add "index" (dict "slug" $t "display_name" $v ) -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}

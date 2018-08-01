@@ -7,10 +7,13 @@ themesDir               : "./themes"
 MetaDataFormat          : "yaml"
 DefaultContentLanguage  : "en"
 SectionPagesMenu        : "main"
-Paginate                : 100
+Paginate                : 15
 googleAnalytics         : ""
 enableRobotsTXT         : true
 enableEmoji             : true
+enableGitInfo           : true
+buildFuture             : true
+
 
 ignoreFiles:
   - "^_template"
@@ -37,7 +40,11 @@ outputFormats:
 rssLimit: 20
 
 outputs:
-  home: ["HTML","RSS", "SiteImages"]
+  home: ["HTML","RSS", "SiteImages", "JSON"]
+  section: ["HTML","RSS", "JSON"]
+  page: ["HTML","RSS", "JSON"]
+  taxonomy: ["HTML","RSS", "JSON"]
+  taxonomyTerm: ["HTML","RSS", "JSON"]
 
 blackfriday:
   fractions: false
@@ -45,12 +52,15 @@ blackfriday:
 params:
   description: "We’re building a modern government, together."
   cdnurl: "https://s3.amazonaws.com/digitalgov"
+  git_org: "GSA"
+  git_repo: "digitalgov.gov"
   devmode: true
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
 
+preserveTaxonomyNames   : true
 taxonomies:
   tag                   : "tag"
   category              : "categories"

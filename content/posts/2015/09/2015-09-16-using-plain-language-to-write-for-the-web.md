@@ -39,4 +39,4 @@ You can watch the entirety of the webinar in the video below, or jump to specifi
 
 ## Full Video
 
-[youtube=http://www.youtube.com/watch?v=gesKoT-5Tjg&w=600]
+{{< youtube gesKoT-5Tjg >}}

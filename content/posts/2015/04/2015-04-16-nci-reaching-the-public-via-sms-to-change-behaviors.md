@@ -1,5 +1,5 @@
 ---
-slug: nci-reaching-the-public-via-sms-to-change-behaviors.md
+slug: nci-reaching-the-public-via-sms-to-change-behaviors
 date: 2015-04-16 11:10:21 -0400
 title: 'NCI: Reaching the Public via SMS to Change Behaviors'
 summary: SMS messages are an excellent way to reach audiences. The National Cancer Institute (NCI) saw SMS messages as an opportunity to reach the public for the implementation of their Mobile Health Behavioral Intervention Programs. NCI has 15 SMS based programs, including HealthyYouTxt, a program designed to help users live a healthier lifestyle, and SmokeFreeTxt, a

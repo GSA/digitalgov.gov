@@ -1,5 +1,5 @@
 ---
-slug: from-taste-testers-to-explorers-developing-personas-for-open-opportunities.md
+slug: from-taste-testers-to-explorers-developing-personas-for-open-opportunities
 date: 2014-12-08 10:00:45 -0400
 title: 'From Taste-Testers to Explorers: Developing Personas for Open Opportunities'
 summary: 'Being customer-focused means doing the gumshoe work of research and rounds of analysis to find gold by understanding user goals. For the task-based innovation network, Open Opportunities for DigitalGov, that meant developing personas in order to overcome our own biases and learn about the different motivations of our participants. In this article, we&#8217;ll talk about'
@@ -14,7 +14,7 @@ tag:
   - Personas
 ---
 
-Being customer-focused means doing the gumshoe work of research and rounds of analysis to find gold by understanding user goals. For the task-based innovation network, [Open Opportunities for DigitalGov]({{< link "open-opportunities-in-digitalgov.md" >}}), that meant developing personas in order to overcome our own biases and learn about the different motivations of our participants. In this article, we&#8217;ll talk about how we created our personas and how we plan to use them to meet both innovators&#8217; and program needs.
+Being customer-focused means doing the gumshoe work of research and rounds of analysis to find gold by understanding user goals. For the task-based innovation network, [Open Opportunities for DigitalGov]({{< link "open-opportunities.md" >}}), that meant developing personas in order to overcome our own biases and learn about the different motivations of our participants. In this article, we&#8217;ll talk about how we created our personas and how we plan to use them to meet both innovators&#8217; and program needs.
 
 ## Creating the personas
 
@@ -32,7 +32,7 @@ As we honed in on the user experience of Open Opportunities participants, we wer
   <div class="one-half first">
     <strong>EXPLORERS</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Smiling-mature-businessman-with-laptop-and-coffee-cup-Wavebreakmedia-Ltd-Lightwavemedia-Thinkstock-479684299.jpg" alt="A smiling, mature businessman with laptop and coffee cup." caption="" >}}
   </div>
-  
+
   <div class="one-half">
     <strong>&#8220;This sounds interesting and I want to explore new things.&#8221;</strong> They have joined the network. Some may still be thinking about participating, some may have completed a task or two. Many explorers join in here, get their feet wet and never leave the group. They know about the program and may become evangelists. You will also find honey bees, careerists and activists in the explorer group waiting to be found.
   </div>
@@ -42,7 +42,7 @@ As we honed in on the user experience of Open Opportunities participants, we wer
   <div class="one-half first">
     <strong>HONEY BEES</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Cute-Young-Woman-Using-Laptop-Oko_SwanOmurphy-iStock-Thinkstock-494712461.jpg" alt="A young woman uses a laptop computer." caption="" >}}
   </div>
-  
+
   <div class="one-half">
     <strong>&#8220;Whenever I have time, I like to work on something outside of my day-to-day job that can be completed quickly. It keeps me energized.&#8221;</strong> Honey bees buzz in and out. They may not have the time or interest to immerse themselves in something outside their regular job, or they may not have agency approval to work on long term tasks but they take an opportunity whenever they can.
   </div>
@@ -52,7 +52,7 @@ As we honed in on the user experience of Open Opportunities participants, we wer
   <div class="one-half first">
     <strong>CAREERISTS</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Positive-man-on-computer-VladimirFLoyd-iStock-Thinkstock-483133993.jpg" alt="A young man looks pleased using a laptop computer." caption="" >}}
   </div>
-  
+
   <div class="one-half">
     <strong>&#8220;I want to learn new skills, connect with others doing innovative things and build my resume.&#8221;</strong> They are looking for professional development opportunities and networking to advance or change the direction of their career.
   </div>
@@ -62,7 +62,7 @@ As we honed in on the user experience of Open Opportunities participants, we wer
   <div class="one-half first">
     <strong>ACTIVISTS</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Yes-Nenad-Aksic-iStock-Thinkstock-168513466.jpg" alt="A very happy woman using a laptop computer." caption="" >}}
   </div>
-  
+
   <div class="one-half">
     <strong>&#8220;I want to change the way government works.&#8221;</strong> They want to build a culture of collaboration, innovation and knowledge sharing. These feds are passionate about the work they are doing and believe they can make government better.
   </div>

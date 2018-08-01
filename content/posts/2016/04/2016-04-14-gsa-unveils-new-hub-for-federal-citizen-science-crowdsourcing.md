@@ -2,7 +2,7 @@
 slug: gsa-unveils-new-hub-for-federal-citizen-science-crowdsourcing
 date: 2016-04-14 11:10:36 -0400
 title: 'GSA Unveils New Hub for Federal Citizen Science & Crowdsourcing'
-summary: 'Do you have a scientific issue to address? Wish you had dozens, hundreds, even thousands more people helping you out? There’s help out there, and now that help is easier than ever to find. {{< legacy-img src="2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science'
+summary: 'Do you have a scientific issue to address? Wish you had dozens, hundreds, even thousands more people helping you out? There’s help out there, and now that help is easier than ever to find.'
 authors:
   - kelly-olson
 categories:

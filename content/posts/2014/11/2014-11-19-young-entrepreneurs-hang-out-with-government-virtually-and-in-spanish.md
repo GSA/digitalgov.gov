@@ -25,9 +25,7 @@ Responding to these numbers and to increasing demands for resources, the SBA lau
 
 Taking advantage of a growing audience on YouTube, and to expand engagement on GobiernoUSA&#8217;s Google+ community, a Google Hangout seemed to be a good place to start. The hangout, moderated by GobiernoUSA.gov manager Laura Godfrey, included SBA loan experts, and a guest appearance from entrepreneur and renowned social media maven, [Elianne Ramos](https://twitter.com/ergeekgoddess). The goal of the hangout was to answer questions in real time, and to provide 30 minutes of quick tips and trustworthy insight for starting your own business (in Spanish).
 
-[youtube=http://www.youtube.com/watch?v=SRYwxqE6Omg&w=600]
-
- 
+{{< youtube SRYwxqE6Omg >}}
 
 Small business development, in all its variegated forms, industries and locations, is not a one-size-fits-all narrative. Nor is it explained in 140 characters on Twitter or even a few Facebook or blog posts. Nevertheless, the aim these efforts is to humanize the conversation early and effectively, in a format that is accessible to any Latino entrepreneur.
 
