@@ -1,5 +1,5 @@
 ---
-slug: monthly-theme-learning-to-ride-the-metrics-wave.md
+slug: monthly-theme-learning-to-ride-the-metrics-wave
 date: 2015-09-08 12:00:26 -0400
 title: 'Monthly Theme: Learning to Ride the Metrics Wave'
 summary: 'We are awash in data. Data in our personal lives gives us information on everything from our nightly sleeping patterns to how many of our friends shared our latest quip on social media. So too in our professional world, where we can see the most popular devices people use to navigate our websites and are told'
