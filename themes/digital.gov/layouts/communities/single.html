@@ -1,0 +1,27 @@
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
+{{ end }}
+
+{{ define "content" }}
+
+THIS IS THE PAGE
+<div class="page">
+  <div class="hentry entry">
+
+    <div class="entry-head">
+      {{ partial "breadcrumbs" . }}
+      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
+    </div>
+
+    <div class="entry-content">
+      {{ .Content }}
+    </div>
+
+    {{ partial "post-meta--feedback" (dict "page" . "page_type" "page" "branch" ($.Scratch.Get "branch") ) }}
+    {{ partial "page-details" . }}
+
+  </div>
+
+</div>
+
+{{ end }} {{/* end 'content' block */}}
