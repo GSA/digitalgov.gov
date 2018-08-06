@@ -33,7 +33,7 @@ top6:
   - file          : '2018-07-26-civic-service-design-tools-tactics.md'
     type          : 'video'
     title         : 'Civic Service Design Tools + Tactics'
-    summary       : 'View this hour-long webinar for an introduction to the Civic Service Design Tools &#43; Tactics, a set of practical ways to gather insights from the people who depend on your services in their own environments.'
+    summary       : "An introduction New York City's Service Design Studio and the practical methods they're using to gather insights."
 
   - file          : '2018-07-17-experiments-in-tweaking-agile-for-ux.md'
     type          : 'post'
