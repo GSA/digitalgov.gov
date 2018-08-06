@@ -30,6 +30,11 @@
 top6:
 
 
+  - file          : '2018-07-26-civic-service-design-tools-tactics.md'
+    type          : 'video'
+    title         : 'Civic Service Design Tools + Tactics'
+    summary       : 'View this hour-long webinar for an introduction to the Civic Service Design Tools &#43; Tactics, a set of practical ways to gather insights from the people who depend on your services in their own environments.'
+
   - file          : '2018-07-17-experiments-in-tweaking-agile-for-ux.md'
     type          : 'post'
 
@@ -37,6 +42,7 @@ top6:
     type          : 'video'
     title         : 'Emerging Technology Leadership Series: Brian Behlendorf and Blockchain'
     summary       : 'This series is a six-part livestream pilot to enhance the modern federal workforce with training, education, and awareness of emerging technologies.'
+
 
   - file          : '2018-07-12-an-inside-look-at-how-fbi-develops-engaging-video.md'
     type          : 'video'
@@ -50,6 +56,3 @@ top6:
     type          : 'video'
     title         : 'A First Look at USWDS 2.0'
     summary       : 'The USWDS team shares what is coming up in version 2.0, which is set to launch later this summer.'
-
-  - file          : '2018-06-26-how-one-team-making-transition-agile.md'
-    type          : 'post'
