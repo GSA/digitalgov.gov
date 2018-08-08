@@ -54,6 +54,6 @@
     "node-notifier": "^5.1.2",
     "octicons": "^7.3.0",
     "path": "^0.12.7",
-    "uswds": "github:uswds/uswds#add-global-styles-control"
+    "uswds": "github:uswds/uswds#dw-update-banner"
   }
 }
