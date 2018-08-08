@@ -151,7 +151,7 @@
 		max-width:100% !important;
 		margin: 0 auto 20px;
 		font-size:14px;
-		text-transform:none;
+		text-transform:capitalize;
 		color:#333;
 		-webkit-appearance:none;
 		background:#fff url(images/downarrow-dark.png) 98% 50% no-repeat;

@@ -6,7 +6,7 @@ summary: 'Categorizing and Describing Cybersecurity Work for the Nation The Nati
 categories:
   - Data
   - Managing Digital
-  - Strategy and Policy
+  - strategy-and-policy
 authors:
  - nist
 tag:

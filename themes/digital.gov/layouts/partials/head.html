@@ -28,8 +28,17 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
 
 <head profile="http://gmpg.org/xfn/11">
+
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  {{ "<!-- Google Tag Manager -->" | safeHTML }}
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MZCKZPQ');</script>
+  {{ "<!-- End Google Tag Manager -->" | safeHTML }}
 
   {{ "<!-- Page Title -->" | safeHTML }}
   <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title | markdownify) }}</title>
@@ -111,7 +120,8 @@
   <link rel='stylesheet' href='{{ "css/notice-bar.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/tribe-events-full.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/tribe-events-theme.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/entry.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/entry.css?=20180626" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/toc.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "lib/uswds/css/dg-uswds.min.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "lib/uswds/css/uswds-v2.min.css" | absURL }}' type='text/css' media='all' />
   <link rel="stylesheet" media="all" href="{{ "css/override.css" | absURL }}" type="text/css" />
@@ -136,23 +146,22 @@
   <script type='text/javascript' src='{{ "js/flexslider-min.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
 
-  {{ "<!-- DAP — Digital Analytics Program | Learn more: https://digital.gov/dap/ -->" | safeHTML }}
-  <script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?ver=true&agency=GSA{{ if (isset .Params "youtube_id") }}&yt=true{{ end }}"></script>
-
-  {{ "<!-- Google Analytics — Global Site Tag (gtag.js) | because our site has been around a lot longer than DAP -->" | safeHTML }}
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47271808-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments)};
-    gtag('js', new Date());
-
-    gtag('config', 'UA-47271808-1');
-  </script>
-
   {{ "<!-- Favicon -->" | safeHTML }}
   <link rel="shortcut icon" href="https://s3.amazonaws.com/digitalgov/favicon.ico" type="image/x-icon" />
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <!-- GitHub -->
+  <script type="text/javascript">
+    git_org          = {{ .Site.Params.git_org }};
+    git_repo         = {{ .Site.Params.git_repo }};
+    branch           = {{ $.Scratch.Get "branch" }}
+    filename         = {{ .File.LogicalName }};
+    filepath         = {{ .File.Path }};
+    filepathURL      = {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $.File.Path }};
+    editpathURL      = {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $.File.Path }};
+  </script>
+
 
   {{ partial "head--custom-css.html" . }}
 </head>

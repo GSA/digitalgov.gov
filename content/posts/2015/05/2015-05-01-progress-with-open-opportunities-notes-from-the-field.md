@@ -41,7 +41,7 @@ Indeed, this program has proven to be a lifesaver. Not only is it useful for get
   * Helps to identify additional communication gaps in the program
   * Provides a means for motivated professionals to network with one another and support each other’s professional development
 
-There are many [reasons people participate in Open Opportunities]({{< link "2014-12-08-from-taste-testers-to-explorers-developing-personas-for-open-opportunities.md" >}}). Some want to advance their careers by learning new skills and others want to make a difference. As such, they’re exactly the kinds of people you want to work with—collaborative yet independent, constructive critical thinkers, and skilled at using time productively.
+There are many [reasons people participate in Open Opportunities]({{< link "2014-12-08-from-taste-testers-to-explorers-developing-personas-for-open-opportunities" >}}). Some want to advance their careers by learning new skills and others want to make a difference. As such, they’re exactly the kinds of people you want to work with—collaborative yet independent, constructive critical thinkers, and skilled at using time productively.
 
 What are your thoughts about Open Opportunities, as a participant, potential participant, or as someone engaged in posting tasks? Your comments will help me, and DigitalGov, improve the program.
 

@@ -1,0 +1,58 @@
+# How to edit this file
+# ---------------------
+
+# What to know ----------------------
+# 1. Each "card" on the homepage requires a 'file' and 'type'.
+# 2. Keep the tab spacing on the left consistent. Everything else is just cosmetic.
+
+# Keys ----------------------
+# file = this is the actual filename of the page you want to link to (e.g. challenges-prizes.md)
+# type = controls the presentation of the card, based on type of media
+#        (post | video)
+
+
+# Full Example    ----------------------
+# - file          : '2018-04-03-thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods.md'
+#   type          : 'post'
+#   title         : 'The Benefits of Using Agile Methods'
+#   summary       : 'Brian Fox goes over five benefits of using Agile in your organizations'
+
+# Video Example   ----------------------
+# - file          : '2018-06-14-usability-testing-with-steve-krug.md'
+#   type          : 'video'
+#   summary       : 'Steve Krug shares how you can get started with usability, no matter what your full time job is.'
+
+# Minimal Example ----------------------
+# - file          : "challenges-prizes.md"
+#   type          : 'community'
+
+
+top6:
+
+
+  - file          : '2018-07-26-civic-service-design-tools-tactics.md'
+    type          : 'video'
+    title         : 'Civic Service Design Tools + Tactics'
+    summary       : "An introduction New York City's Service Design Studio and the practical methods they're using to gather insights."
+
+  - file          : '2018-07-17-experiments-in-tweaking-agile-for-ux.md'
+    type          : 'post'
+
+  - file          : '2018-07-16-emerging-technology-leadership-series-brian-behlendorf-blockchain.md'
+    type          : 'video'
+    title         : 'Emerging Technology Leadership Series: Brian Behlendorf and Blockchain'
+    summary       : 'This series is a six-part livestream pilot to enhance the modern federal workforce with training, education, and awareness of emerging technologies.'
+
+
+  - file          : '2018-07-12-an-inside-look-at-how-fbi-develops-engaging-video.md'
+    type          : 'video'
+    title         : 'An Inside Look at How the FBI Develops Engaging Video'
+    summary       : 'Bryce Spivey and Steve Lewis discuss successful video strategies from concept to completion, including marketing, collaboration, challenges, and lessons learned.'
+
+  - file          : '2018-07-10-introducing-accessibillity-teams.md'
+    type          : 'post'
+
+  - file          : '2018-07-06-a-first-look-at-uswds-20.md'
+    type          : 'video'
+    title         : 'A First Look at USWDS 2.0'
+    summary       : 'The USWDS team shares what is coming up in version 2.0, which is set to launch later this summer.'

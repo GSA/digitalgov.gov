@@ -2,7 +2,7 @@
 slug: additional-data-options-with-dap
 date: 2016-04-05 10:00:38 -0400
 title: Additional Data Options With DAP
-summary: 'Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP: (Example) <script language=&#8221;javascript&#8221; id=&#8221;\_fed\_an\_ua\_tag&#8221; src=&#8221;https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&subagency=FEMA&#8221;></script> You can use this line to enhance the Web analytics solution with additional query string parameters. The query string parameters pass'
+summary: 'Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP.'
 authors:
   - ilee
 categories:
@@ -23,8 +23,8 @@ tag:
 Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP:
 
 (Example)
-  
- {{< legacy-img src="2016/04/600-x-400-switched-wide-Tablet-Screen-with-Pie-Chart-against-of-the-Report-robuart-iStock-Thinkstock-479377480.jpg" alt="A colorful illustration in the flat design style showing the relation between code and analytics." caption="" >}} 
+
+ {{< legacy-img src="2016/04/600-x-400-switched-wide-Tablet-Screen-with-Pie-Chart-against-of-the-Report-robuart-iStock-Thinkstock-479377480.jpg" alt="A colorful illustration in the flat design style showing the relation between code and analytics." caption="" >}}
 
 You can use this line to enhance the Web analytics solution with additional query string parameters. The query string parameters pass data that enable features within the code. They can also help configure settings in the code. It allows you to leverage more features in DAP or extract more data out of DAP. In the example above, we have the query string parameters “agency” and “subagency” that pass data into DAP for reporting purposes.
 
