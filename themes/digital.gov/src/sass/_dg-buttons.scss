@@ -34,7 +34,8 @@ $button-stroke: inset 0 0 0 2px;
 // [type=reset],
 // [type=image]
   @include font-smoothing;
-  @include margin(0.5em 0.5em 0.5em null);
+  @include u-margin-right(override, 0.5em);
+  @include u-margin-y(override, 0.5em);
   appearance: none;
   background-color: $color-primary;
   border: 0;
