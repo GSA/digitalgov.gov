@@ -1,7 +1,7 @@
 ---
 layout: primary
-title: Video captioning
-permalink: /content-design/video-captioning/
+title: Video and multimedia
+permalink: /content-design/video-and-multimedia/
 category: Content design
 sidebar: content
 question: Is everyone able to access your multimedia content?
