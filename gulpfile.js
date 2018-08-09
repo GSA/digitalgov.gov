@@ -438,9 +438,6 @@ gulp.task('sass', function (done) {
 
     // run postcss plugins
     .pipe(postcss(plugins))
-    .pipe(rename({
-      suffix: '.min',
-    }))
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'));
 });
