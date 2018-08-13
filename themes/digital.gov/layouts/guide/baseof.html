@@ -1,0 +1,15 @@
+{{- partial "set-env.html" . -}}
+{{ block "pagevars" . }}{{ end }}
+
+<!DOCTYPE html>
+{{ partial "head-comment.html" . }}
+{{ partial "head.html" . }}
+{{ partial "body-top.html" . }}
+
+{{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
+{{ if eq .Layout "1col" }}{{ else }}
+{{ block "sidebar" . }}{{ end }}
+{{ end }}
+
+{{ partial "body-bottom.html" . }}
+{{ partial "footer.html" . }}
