@@ -23,7 +23,7 @@ Questions? Email [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov)
 
 The exam is not intended to be easy, nor is it targeted at novice DAP/Google Analytics users. The DAP team hopes the exam can be used by prospective analysts in annual goals or individual development plans to demonstrate to supervisors that they maintain high-level of understanding of the program and Google Analytics.
 
-**In order to become a DAP Certified Analyst, you must be a current DAP user.** DAP users are limited to federal employees and federal contractors with written approval from their federal supervisor. In order to release your score, you must be a DAP verified user.
+**In order to become a DAP Certified Analyst, you must be a current DAP user.** DAP users are limited to federal employees and federal contractors with written approval from their federal supervisor. In order to receive your score, you will first be verified by the DAP team.
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLScx4140DIKQm6LD5lBUcpNY2FSM4HL85-tlCQbCVoiSPDr62Q/viewform" text="Launch the Exam" >}}
 
