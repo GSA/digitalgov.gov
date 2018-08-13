@@ -9,7 +9,12 @@
 
     <div class="entry-head">
       {{ partial "breadcrumbs" . }}
-      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
+      {{ if .Params.guidenav }}
+        {{ range (index .Site.Data.guidenav .Params.guidenav) . }}
+          <h4>{{ .guidename }}</h4>
+        {{ end }}
+      {{ end }}
+      <h1 class="post-title sin --gle">{{ .Title | markdownify }}</h1>
       {{ if .Params.deck }}
       <div class="deck">{{ .Params.deck }}</div>
       {{ end }}
@@ -21,7 +26,7 @@
         {{ $cur := .Params.guidenav }}
         <ul>
         <!-- looking for a data-file in /data/guidenav/ -->
-        {{ range (index .Site.Data.guidenav .Params.guidenav).guidenav }}
+        {{ range (index .Site.Data.guidenav .Params.guidenav).guide.nav }}
           <li><a href="{{ .slug | relURL }}" title="{{ .title }}">{{ .title }}</a></li>
         {{ end }}
         </ul>
