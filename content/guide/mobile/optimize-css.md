@@ -1,6 +1,7 @@
 ---
 url: /resources/how-to-create-mobile-friendly-website/optimize-css/
 title: 'How to Create a Mobile-Friendly Website | Optimize CSS'
+type: guide
 guidenav: mobileguide
 summary: ''
 deck: 'This is the Optimize CSS deck. This is the deck. TKTK'

@@ -1,13 +1,14 @@
 ---
 url: /resources/how-to-create-mobile-friendly-website/optimize-images/
 title: 'How to Create a Mobile-Friendly Website | Optimize Images'
+type: guide
 guidenav: mobileguide
 summary: ''
 deck: 'Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy.'
 
 ---
 
-Page weight is the “gravity of the web” that decreases your application performance by increasing load time and reducing network data usage.
+Page weight is the “gravity of the web” that decreases your application performance by increasing load time and reducing network data usage. 
 
 ## Limit Page Size and Weight
 
