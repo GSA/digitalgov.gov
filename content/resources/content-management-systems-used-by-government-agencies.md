@@ -95,7 +95,7 @@ We do our best to keep the list current based on information we get from agencie
   * GSA Intranet site (Drupal 7)
   * [Technology Transformation Services](https://www.gsa.gov/tts) (TTS), [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs) 
     * [DigitalGov](https://www.digital.gov/) (GitHub) 
-    * [Search.gov](https://www.search.gov/) [formerly _DigitalGov Search_] (GitHub) 
+    * [Search.gov](https://www.search.gov/) &#91;formerly _DigitalGov Search_&#93; (GitHub) 
     * [USA.gov](https://www.usa.gov/), [GobiernoUSA.gov](https://gobierno.usa.gov/) (Drupal 7)
 
 [Health & Human Services](http://www.hhs.gov/) (Percussion)
