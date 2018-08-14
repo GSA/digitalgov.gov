@@ -30,11 +30,9 @@ _NOTE: This event will be held over [Zoom](https://zoom.us/j/350777429). On the 
 - Simplified 12-column layout grid
 - Modular, mobile-first atomic utility classes
 - and more...
--
 
-**Watch our last video**: [A First Look at USWDS 2.0 »](https://digital.gov/event/2018/07/06/a-first-look-at-uswds-20/)
-
-
+- **Watch our 2.0 release video**: [A First Look at USWDS 2.0 »](https://digital.gov/event/2018/07/06/a-first-look-at-uswds-20/)
+- [**Get started with USWDS 2.0**](https://v2.designsystem.digital.gov/)
 
 
 ### Related
