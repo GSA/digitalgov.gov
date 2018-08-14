@@ -1,7 +1,6 @@
 ---
 url: /resources/how-to-create-mobile-friendly-website/utilize-caching/
 title: 'How to Create a Mobile-Friendly Website | Utilize Caching'
-type: guide
 guidenav: mobileguide
 summary: ''
 deck: 'Reducing the number of times your application requests and processes resources will improve your load time and reduce network data usage.'

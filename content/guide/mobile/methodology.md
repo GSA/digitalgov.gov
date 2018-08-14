@@ -1,7 +1,6 @@
 ---
 url: /resources/how-to-create-mobile-friendly-website/methodology/
 title: 'How to Create a Mobile-Friendly Website | Methodology'
-type: guide
 guidenav: mobileguide
 summary: ''
 deck: 'This is the Methodology deck. This is the deck. TKTK'

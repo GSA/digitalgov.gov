@@ -1,7 +1,6 @@
 ---
 url: /resources/how-to-create-mobile-friendly-website/
 title: 'How to Create a Mobile-Friendly Website'
-type: guide
 guidenav: mobileguide
 summary: ''
 deck: 'This is the deck. This is the deck. TKTK'

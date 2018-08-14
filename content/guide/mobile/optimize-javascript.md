@@ -1,7 +1,6 @@
 ---
 url: /resources/how-to-create-mobile-friendly-website/optimize-javascript
 title: 'How to Create a Mobile-Friendly Website | Optimize JavaScript'
-type: guide
 guidenav: mobileguide
 summary: ''
 deck: 'This is the Optimize JavaScript deck. This is the deck. TKTK'
