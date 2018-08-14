@@ -1,5 +1,4 @@
 guide:
-  guidename: this the title
   nav:
   - title   : 'Overview'
     slug    : '/resources/how-to-create-mobile-friendly-website/'

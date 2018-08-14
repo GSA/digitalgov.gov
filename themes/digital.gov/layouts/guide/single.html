@@ -9,12 +9,7 @@
 
     <div class="entry-head">
       {{ partial "breadcrumbs" . }}
-      {{ if .Params.guidenav }}
-        {{ range (index .Site.Data.guidenav .Params.guidenav) . }}
-          <h4>{{ .guidename }}</h4>
-        {{ end }}
-      {{ end }}
-      <h1 class="post-title sin --gle">{{ .Title | markdownify }}</h1>
+      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
       {{ if .Params.deck }}
       <div class="deck">{{ .Params.deck }}</div>
       {{ end }}
