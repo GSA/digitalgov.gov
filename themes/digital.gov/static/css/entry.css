@@ -220,7 +220,7 @@
 	}
 	.page .entry,
 	.entry-content{
-		width:auto;
+		width:100%;
 	}
 
 }
