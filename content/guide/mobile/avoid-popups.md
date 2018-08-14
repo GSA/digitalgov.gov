@@ -1,6 +1,6 @@
 ---
 url: /resources/how-to-create-mobile-friendly-website/avoid-popups/
-title: 'How to Create a Mobile-Friendly Website | Avoid Pop-ups'
+title: 'Avoid Pop-ups'
 guidenav: mobileguide
 summary: ''
 deck: 'This is the Optimize CSS deck. This is the deck. TKTK'

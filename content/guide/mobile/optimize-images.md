@@ -1,6 +1,6 @@
 ---
 url: /resources/how-to-create-mobile-friendly-website/optimize-images/
-title: 'How to Create a Mobile-Friendly Website | Optimize Images'
+title: 'Optimize Images'
 guidenav: mobileguide
 summary: ''
 deck: 'Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy.'
