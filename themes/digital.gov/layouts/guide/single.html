@@ -11,8 +11,7 @@
       {{ partial "breadcrumbs" . }}
       {{ if .Params.guidenav }}
         {{ range (index .Site.Data.guidenav .Params.guidenav).guide.name }}
-
-          <h2> o {{ .Permalink }} o {{ .title }}</h2>
+          <h2>{{ .title }}</h2>
         {{ end }}
       {{ end }}
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
