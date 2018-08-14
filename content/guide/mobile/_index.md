@@ -1,5 +1,5 @@
 ---
-url: /resources/mobile/
+url: /resources/mobile-how-to/
 title: 'How to Create a Mobile-Friendly Website'
 guidenav: mobileguide
 summary: ''
