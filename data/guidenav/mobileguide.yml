@@ -1,7 +1,9 @@
 guide:
+  name:
+  - title   : 'How to Create a Mobile-Friendly Website'
   nav:
   - title   : 'Overview'
-    slug    : '/resources/how-to-create-mobile-friendly-website/'
+    slug    : '/resources/mobile/'
   - title   : 'Optimize JavaScript'
     slug    : '/resources/how-to-create-mobile-friendly-website/optimize-javascript/'
   - title   : 'Optimize CSS'
