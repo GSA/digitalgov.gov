@@ -7,7 +7,7 @@ authors:
   - US Department of Homeland Security
 
 categories: 
-  - Strategy and Policy
+  - strategy-and-policy
   - User Testing and Research
   - UX
   - Video

@@ -1,5 +1,5 @@
 ---
-slug: the-usagov-bilingual-style-guide-is-now-online.md
+slug: the-usagov-bilingual-style-guide-is-now-online
 date: 2016-04-14 10:00:12 -0400
 title: The USAGov Bilingual Style Guide Is Now Online!
 summary: 'About a year and a half ago, the Federal Citizen Information Center&mdash;today called USAGov&mdash;embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See more about'
@@ -15,7 +15,7 @@ categories:
 tag:
   - accessibility
   - multilingual
-  - multilingual digital group
+  - multilingual-community
   - USAgov
   - user centered design
   - user experience
@@ -41,4 +41,4 @@ Simple. A lot of the guidance applies to both languages, so if there is no speci
 We wanted to share this process with you. So, take a look and come back from time to time as we add new sections and update existing guidance. The USAGov Bilingual Style Guide is a living tool that reflects the evolving nature of languages.
 
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/) by Laura Godfrey, the Bilingual Senior Editor of USAGov._
-_Additionally, you can check out DigitalGov&#8217;s [Resources]({{< link "/resources/" >}}) to review the [Spanish Language Style Guide and Glossaries]({{< link "spanish-language-style-guide-and-glossaries.md" >}}), and join the [Multilingual Digital Group]({{< link "multilingual.md" >}}) and other_ [Communities]({{< link "/communities/" >}})_._
+_Additionally, you can check out DigitalGov&#8217;s [Resources]({{< link "/resources/" >}}) to review the [Spanish Language Style Guide and Glossaries]({{< link "spanish-language-style-guide-and-glossaries.md" >}}), and join the [Multilingual Community of Practice]({{< link "multilingual.md" >}}) and other_ [Communities]({{< link "/communities/" >}})_._

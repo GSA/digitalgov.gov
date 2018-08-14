@@ -9,7 +9,7 @@ authors:
 categories:
   - Design
   - Managing Digital
-  - Strategy and Policy
+  - strategy-and-policy
   - User Testing and Research
   - UX
 

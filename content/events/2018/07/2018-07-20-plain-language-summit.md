@@ -12,6 +12,7 @@ date: 2018-07-20 09:00:00 -0500
 end_date: 2018-07-20 15:30:00 -0500
 event_organizer: DigitalGov
 host: Plain Language Community of Practice
+youtube_id: W4gzfemW0Rc
 registration_url: https://www.eventbrite.com/e/plain-language-summit-2018-tickets-46589162439
 venue:
   venue_name: U.S. General Services Administration
@@ -24,8 +25,6 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 
 ---
-
-{{< img src="plain-language-summit-2018" caption="" alt="Plain Language Summit 2018" >}}
 
 On Friday, July 20th, the federal [Plain Language community](https://digital.gov/communities/plain-language/) will bring together some of the brightest individuals involved in government communications for a one-day series of talks and conversations on how to advance plain language on government communications.
 
@@ -54,9 +53,17 @@ We believe the public deserves plain language communication from its government,
 | 1:15pm - 1:55pm   | **Plain Language and Translation** — Laura Godfrey, GSA                                                                                  |
 | 1:55pm - 2:25pm   | **Center for Plain Language Report Card** — David Lipscomb, Center from Plain Language                                          |
 | 2:25pm - 2:40pm   | **Break**                                                                                                                   |
-| 2:40pm - 3:10pm   | **Adult Literacy** - Meredith Larson, Dept. of Education                                                                    |
+| 2:40pm - 3:10pm   | **Meeting People Where They Are** - Meredith Larson, Dept. of Education                                                                    |
 | 3:10pm - 3:50pm   | **No, the Law Does Not Normally Require Legalese** - Joe Kimble, Professor Emeritus, Western Michigan University            |
 | 3:50pm - 4:00pm   | **Wrap Up & Closing** - Kathryn Catania, USCIS and Katherine Spivey, GSA                                                  |
+
+
+### Conference Documents and Ephemera
+- [The Slides for the 2018 Plain Language Summit](https://s3.amazonaws.com/digitalgov/2018-Plain-Language-Summit.pdf)
+- A Plain Language [Wordsearch](https://s3.amazonaws.com/digitalgov/wordsearch.png)
+- #PlainSummit2018 — [What people are saying on Twitter](https://twitter.com/hashtag/PlainSummit2018)
+- Follow [@govplainlang on twitter](https://twitter.com/govplainlang)
+- Visit [https://plainlanguage.gov/](https://plainlanguage.gov/)
 
 
 ## About plainlanguage.gov
@@ -68,4 +75,7 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
 
 
-**NOTE:** In-person tickets are limted and going quickly, so sign-up fast! Federal employees registered with a .mil or .gov email will recieve priority, and others after.
+**NOTE:** In-person tickets are limited and going quickly, so sign-up fast! Federal employees registered with a .mil or .gov email will receive priority, and others after.
+
+
+{{< img src="plain-language-summit-2018" caption="" alt="Plain Language Summit 2018" >}}

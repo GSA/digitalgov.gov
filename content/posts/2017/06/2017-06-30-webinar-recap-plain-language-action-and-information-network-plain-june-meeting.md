@@ -1,5 +1,5 @@
 ---
-slug: webinar-recap-plain-language-action-and-information-network-plain-june-meeting.md
+slug: webinar-recap-plain-language-action-and-information-network-plain-june-meeting
 date: 2017-06-30 3:00:41 -0400
 title: 'Webinar Recap: Plain Language Action and Information Network (PLAIN) June Meeting'
 summary: 'This month&#8217;s Plain Language of Community Practice meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful DigitalGov University (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session. Many'
@@ -147,5 +147,5 @@ The [Question and Answer portion](https://www.youtube.com/watch?v=TGYhWjSmDvs&t=
         </p>
 
         <p>
-          <em>If you have a <strong>.gov</strong> or <strong>.mil</strong> email address, consider joining one of our <a href="{{< link "/communities/" >}}">Communities</a>, such as the <a href="{{< link "plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>, the <a href="{{< link "web-managers-forum.md" >}}">Web Content Managers Forum</a>, the <a href="{{< link "multilingual.md" >}}">Multilingual Digital Group</a>, or the <a href="{{< link "web-managers-forum.md" >}}">Web Content Managers Forum</a>.</em>
+          <em>If you have a <strong>.gov</strong> or <strong>.mil</strong> email address, consider joining one of our <a href="{{< link "/communities/" >}}">Communities</a>, such as the <a href="{{< link "plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>, the <a href="{{< link "web-managers-forum.md" >}}">Web Content Managers Forum</a>, the <a href="{{< link "multilingual.md" >}}">Multilingual Community of Practice</a>, or the <a href="{{< link "web-managers-forum.md" >}}">Web Content Managers Forum</a>.</em>
         </p>

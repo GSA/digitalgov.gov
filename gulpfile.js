@@ -316,6 +316,7 @@ gulp.task("img-variants", ["clean-inbox"], function (done) {
     }, {
       // Global configuration for all images
       quality: 80,
+      compressionLevel: 7,
       progressive: true,
       withMetadata: false,
       errorOnUnusedConfig: false,

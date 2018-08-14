@@ -4,9 +4,9 @@ title: 'A First Look at USWDS 2.0'
 summary: 'This month, the USWDS team will share what&#39;s coming up in version 2&#46;0 which is set to launch later this summer&#46;'
 featured_image:
   uid: preview-uswds-2-0
+  alt: ''
 event_type:
   - youtube-live
-  - online
 date: 2018-07-06 13:00:00 -0500
 end_date: 2018-07-06 13:30:00 -0500
 event_organizer: DigitalGov University
