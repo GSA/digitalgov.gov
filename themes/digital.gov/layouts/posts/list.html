@@ -33,14 +33,7 @@
 
       <div class="col">
         <div class="sidebar">
-          <h4>Browse Posts by Topic</h4>
-          <ul class="topics">
-            {{ range .Site.Data.topicsfeatured.topicsfeatured }}
-              <li>
-                <a href="{{.url}}" title="{{ .name }}">{{ .name }}</a>
-              </li>
-            {{ end }}
-          </ul>
+          {{ partial "sidebar--topics.html" . }}
         </div>
       </div>
 
