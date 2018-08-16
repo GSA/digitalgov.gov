@@ -66,6 +66,7 @@ taxonomies:
   category              : "categories"
   author                : "authors"
   topic                 : "topics"
+  community             : "communities"
 
 menu:
   primary:
