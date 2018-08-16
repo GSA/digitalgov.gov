@@ -22,7 +22,7 @@
 
         <h1>{{ $term.display_name }}</h1>
         {{ with $term.summary }}
-          <h2>{{ . | markdownify }}</h2>
+          <p>{{ . | markdownify }}</p>
         {{ end }}
 
       </div>
@@ -48,14 +48,11 @@
 
       <div class="col">
         <div class="sidebar">
-          <h4>Browse Posts by Topic</h4>
-          <ul class="topics">
-            {{ range .Site.Data.topicsfeatured.topicsfeatured }}
-              <li>
-                <a href="{{.url}}" title="{{ .name }}">{{ .name }}</a>
-              </li>
-            {{ end }}
-          </ul>
+
+          {{ partial "sidebar--relatedCommunities.html" . (dict "list" . "communities" ($.Scratch.Get "relatedCommunities")) }}
+          {{ partial "sidebar--topics.html" . }}
+          {{ partial "sidebar--recentPosts.html" . }}
+          {{ partial "sidebar--events.html" . }}
         </div>
       </div>
 
