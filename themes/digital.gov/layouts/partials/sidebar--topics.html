@@ -3,7 +3,7 @@
   <ul class="topics">
     {{ range .Site.Data.topicsfeatured.topicsfeatured }}
       <li>
-        <a href="{{.url}}" title="{{ .name }}">{{ .name }}</a>
+        <a href="{{ .url | absURL }}" title="{{ .name }}">{{ .name }}</a>
       </li>
     {{ end }}
   </ul>
