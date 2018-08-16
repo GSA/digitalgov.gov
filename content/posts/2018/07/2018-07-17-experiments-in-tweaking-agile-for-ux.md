@@ -14,6 +14,8 @@ tag:
   - agile
   - user-experience
   - ux
+topics:
+  - agile
 featured_image:
   uid: agile-ux-title
   alt: 'Featured image al text.'
