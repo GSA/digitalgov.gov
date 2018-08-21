@@ -429,6 +429,14 @@ termsofservice:
     updated       :
     status        :
 
+  - name          : Roku
+    url           : https://www.roku.com/
+    description   : 'TV streaming platform'
+    uri           : https://docs.roku.com/doc/developerdistribution/en-us
+    type          : web
+    updated       :
+    status        :
+    
   - name          : Screendoor
     url           : http://www.dobt.co/screendoor/
     description   : Online forms
