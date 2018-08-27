@@ -44,6 +44,8 @@ aoi:
   display_name: "AOI"
 api:
   display_name: "API"
+  communities:
+    - apis
 api-keys:
   display_name: "API Keys"
 app:
@@ -122,6 +124,11 @@ central-intelligence-agency:
   display_name: "Central Intelligence Agency"
 cfpb:
   display_name: "CFPB"
+challenges:
+  display_name: "Challenges"
+  summary: Types of challenges–ideation, software and apps, creative and tech–and the platforms and tools for success.
+  communities:
+    - challenges-prizes
 challenge-gov:
   display_name: "Challenge.gov"
 challenges-and-prize-competitions:
@@ -166,6 +173,10 @@ consumer-product-safety-commission:
   display_name: "Consumer Product Safety Commission"
 content:
   display_name: "Content"
+  communities:
+    - multilingual
+    - web-content-managers
+    - plain-language
 content-management-system:
   display_name: "Content Management System"
 content-models:
@@ -192,6 +203,10 @@ crowdfunding:
   display_name: "Crowdfunding"
 crowdsourcing:
   display_name: "Crowdsourcing"
+crowdsourcing-and-citizen-science:
+  display_name: "Crowdsourcing & Citizen Science"
+  communities:
+    - crowdsourcing-and-citizen-science
 csosa:
   display_name: "Csosa"
 customer-experience:
@@ -212,6 +227,8 @@ darpa:
   display_name: "DARPA"
 data:
   display_name: "Data"
+  communities:
+    - data-cabinet
 data-act:
   display_name: "Data Act"
 data-visualization:
@@ -230,6 +247,8 @@ defense-logistics-agency:
   display_name: "Defense Logistics Agency"
 department-of-commerce:
   display_name: "Department Of Commerce"
+design:
+  display_name: "Design"
 developer-hub:
   display_name: "Developer Hub"
 dfas:
@@ -406,6 +425,8 @@ google-analytics:
   display_name: "Google Analytics"
 go-usa-gov:
   display_name: "go.usa.gov"
+governance:
+  display_name: "Governance"
 government-contact-center-council:
   display_name: "Government Contact Center Council"
 government-contact-centers:
@@ -506,6 +527,12 @@ m3-framework:
   display_name: "M3 Framework"
 making-mobile-gov:
   display_name: "Making Mobile Gov"
+managing-digital:
+  display_name: "Managing Digital"
+  communities:
+    - multilingual
+    - web-content-managers
+    - plain-language
 marketing:
   display_name: "Marketing"
 mcc:
@@ -520,6 +547,8 @@ metrics:
   display_name: "Metrics"
 mobile:
   display_name: "Mobile"
+  communities:
+    - mobile
 mobile-app-development-program:
   display_name: "Mobile App Development Program"
 mobile-apps:
@@ -876,6 +905,9 @@ social-and-behavioral-sciences-team:
   display_name: "Social And Behavioral Sciences Team"
 social-media:
   display_name: "Social Media"
+  summary: Making government more efficient, more open.
+  communities:
+    - social-media
 social-media-metrics:
   display_name: "Social Media Metrics"
 socialgov:
@@ -888,6 +920,8 @@ ssa:
   display_name: "SSA"
 state:
   display_name: "State"
+strategy-and-policy:
+  display_name: "Strategy & Policy"
 structured-content:
   display_name: "Structured Content"
 summit:
@@ -992,8 +1026,10 @@ us-small-business-administration:
   display_name: "U.S. Small Business Administration"
 us-trade-and-development-agency:
   display_name: "U.S. Trade And Development Agency"
+user-testing-and-research:
+  display_name: "User Testing & Research"
 uswds:
-  display_name: "U.S. Web Design Standards"
+  display_name: "U.S. Web Design System"
 ugc:
   display_name: "UGC"
 unified-shared-services-management:
@@ -1077,7 +1113,10 @@ us:
 ustda:
   display_name: "USTDA"
 ux:
-  display_name: "UX"
+  display_name: "User Experience"
+  summary: Create user-focused content and designs, and make government information accessible to people with disabilities.
+  communities:
+    - user-experience
 va:
   display_name: "VA"
 va-center-for-innovation:
@@ -1090,6 +1129,8 @@ vha:
   display_name: "VHA"
 video:
   display_name: "Video"
+  communities:
+    - video-production
 video-production-pros-community:
   display_name: "Video Production Pros Community"
 virtual-reality:
@@ -1118,6 +1159,12 @@ workflows:
   display_name: "Workflows"
 world-bank:
   display_name: "World Bank"
+writing:
+  display_name: "Writing"
+  communities:
+    - multilingual
+    - web-content-managers
+    - plain-language
 yelp:
   display_name: "Yelp"
 youtube:
