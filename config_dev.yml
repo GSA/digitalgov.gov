@@ -65,7 +65,6 @@ taxonomies:
   tag                   : "tag"
   category              : "categories"
   author                : "authors"
-  topic                 : "topics"
 
 menu:
   primary:
