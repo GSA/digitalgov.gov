@@ -4,7 +4,7 @@ date: 2018-08-30 12:18:00 -0500
 title: 'Collaborating for Better Design, Technology, and User Experience'
 summary: 'Overview of initiatives across Federal government that focus on IT design, development and accessibility&#46;'
 authors:
-  - rflagg
+  - john-sullivan
 categories:
   - accessibility
   - design
