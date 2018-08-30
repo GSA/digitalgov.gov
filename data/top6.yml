@@ -29,6 +29,8 @@
 
 top6:
 
+  - file          : '2018-08-30-collaborating-for-better-design-technology-user-experience.md'
+    type          : 'post'
 
   - file          : '2018-07-26-civic-service-design-tools-tactics.md'
     type          : 'video'
@@ -51,8 +53,3 @@ top6:
 
   - file          : '2018-07-10-introducing-accessibillity-teams.md'
     type          : 'post'
-
-  - file          : '2018-07-06-a-first-look-at-uswds-20.md'
-    type          : 'video'
-    title         : 'A First Look at USWDS 2.0'
-    summary       : 'The USWDS team shares what is coming up in version 2.0, which is set to launch later this summer.'
