@@ -15,6 +15,9 @@ There are more than 10,000 people participating across government in 21 areas. O
 
 ### Our Communities
 
+**[Accessibility]({{< link "accessibility.md" >}})**: The IT Accessibility Community supports people in government who working to improve accessibility of information technology.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "accessibility.md" >}})
+
 **[Agile/Lean]({{< link "agile-lean.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "agile-lean.md" >}})
 
