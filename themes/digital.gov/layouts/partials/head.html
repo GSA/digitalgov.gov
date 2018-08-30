@@ -79,7 +79,7 @@
   {{ "<!-- RSS & JSON Feeds -->" | safeHTML }}
   {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-  {{ end -}}
+  {{ end }}
 
   {{ "<!-- Sitemap-->" | safeHTML }}
   <link rel="sitemap" type="application/xml" title="DigitalGov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
