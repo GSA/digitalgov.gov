@@ -76,8 +76,10 @@
   <meta property="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}">
   {{ "<!-- End of Twitter -->" | safeHTML }}
 
-  {{ "<!-- RSS Feed-->" | safeHTML }}
-  <link href="{{ "index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ "<!-- RSS & JSON Feeds -->" | safeHTML }}
+  {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
 
   {{ "<!-- Sitemap-->" | safeHTML }}
   <link rel="sitemap" type="application/xml" title="DigitalGov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
