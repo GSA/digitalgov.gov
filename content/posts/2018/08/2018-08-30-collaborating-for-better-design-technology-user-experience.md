@@ -17,7 +17,7 @@ tag:
   - user-experience
   - ux
 featured_image:
-  uid:
+  uid: accessibility-stock-photo
   alt: 'Photo of two men working on mobile app development and design at a whiteboard&#46;'
 ---
 
