@@ -40,12 +40,6 @@ top6:
   - file          : '2018-07-17-experiments-in-tweaking-agile-for-ux.md'
     type          : 'post'
 
-  - file          : '2018-07-16-emerging-technology-leadership-series-brian-behlendorf-blockchain.md'
-    type          : 'video'
-    title         : 'Emerging Technology Leadership Series: Brian Behlendorf and Blockchain'
-    summary       : 'This series is a six-part livestream pilot to enhance the modern federal workforce with training, education, and awareness of emerging technologies.'
-
-
   - file          : '2018-07-12-an-inside-look-at-how-fbi-develops-engaging-video.md'
     type          : 'video'
     title         : 'An Inside Look at How the FBI Develops Engaging Video'
@@ -53,3 +47,8 @@ top6:
 
   - file          : '2018-07-10-introducing-accessibillity-teams.md'
     type          : 'post'
+
+  - file          : '2018-07-06-a-first-look-at-uswds-20.md'
+    type          : 'video'
+    title         : 'A First Look at USWDS 2.0'
+    summary       : 'The USWDS team shares what is coming up in version 2.0, which is set to launch later this summer.'
