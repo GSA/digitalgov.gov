@@ -16,9 +16,8 @@ jQuery(document).ready(function($) {
   }
 
 
-  // The all-images JSON file
-  // var all_images_json = '/images/index.json';
-
+  // The all-images JSON file is now included via the "footer--custom-js" partial
+  // var all_images_json = '/images/v1/json/';
 
   // Gets all the image from the JSON file and appends them to #all-images div
   $.getJSON( all_images_json, function( data ) {
