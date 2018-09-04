@@ -29,6 +29,12 @@
 
 top6:
 
+
+  - file          : '2018-08-24-getting-started-with-uswds-20.md'
+    type          : 'video'
+    title         : 'Getting Started with USWDS 2.0'
+    summary       : 'U.S. Web Design System team shows you how to get started with USWDS 2.0: how to set up project colors, fonts, and more.'
+
   - file          : '2018-08-30-collaborating-for-better-design-technology-user-experience.md'
     type          : 'post'
 
@@ -47,8 +53,3 @@ top6:
 
   - file          : '2018-07-10-introducing-accessibillity-teams.md'
     type          : 'post'
-
-  - file          : '2018-07-06-a-first-look-at-uswds-20.md'
-    type          : 'video'
-    title         : 'A First Look at USWDS 2.0'
-    summary       : 'The USWDS team shares what is coming up in version 2.0, which is set to launch later this summer.'
