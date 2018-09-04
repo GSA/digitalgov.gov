@@ -29,6 +29,8 @@
 
 top6:
 
+  - file          : '2018-08-30-collaborating-for-better-design-technology-user-experience.md'
+    type          : 'post'
 
   - file          : '2018-07-26-civic-service-design-tools-tactics.md'
     type          : 'video'
@@ -37,12 +39,6 @@ top6:
 
   - file          : '2018-07-17-experiments-in-tweaking-agile-for-ux.md'
     type          : 'post'
-
-  - file          : '2018-07-16-emerging-technology-leadership-series-brian-behlendorf-blockchain.md'
-    type          : 'video'
-    title         : 'Emerging Technology Leadership Series: Brian Behlendorf and Blockchain'
-    summary       : 'This series is a six-part livestream pilot to enhance the modern federal workforce with training, education, and awareness of emerging technologies.'
-
 
   - file          : '2018-07-12-an-inside-look-at-how-fbi-develops-engaging-video.md'
     type          : 'video'
