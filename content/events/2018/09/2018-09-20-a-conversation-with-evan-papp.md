@@ -1,7 +1,7 @@
 ---
 slug: a-conversation-with-evan-papp
-title: 'A conversation with Evan Papp'
-summary: 'text goes here'
+title: 'A conversation with Evan Papp of Power Africa'
+summary: 'Even Papp will talk about a video and story he produced while traveling internationally in Africa.'
 featured_image:
   uid:
   alt: ''
