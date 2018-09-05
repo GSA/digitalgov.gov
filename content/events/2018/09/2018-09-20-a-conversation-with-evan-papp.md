@@ -11,8 +11,7 @@ date: 2018-09-20 12:00:00 -0500
 end_date: 2018-09-20 13:00:00 -0500
 event_organizer: DigitalGov University
 host: Video Community
-registration_url:
-youtube_id:
+registration_url: https://www.eventbrite.com/e/a-conversation-with-evan-papp-of-power-africa-registration-49902616068
 
 ---
 
