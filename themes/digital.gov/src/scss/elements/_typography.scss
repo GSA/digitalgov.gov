@@ -1,0 +1,259 @@
+html {
+  font-family: $font-sans;
+  font-size: $root-font-size;
+}
+
+body {
+  font-size: $base-font-size;
+}
+
+%usa-paragraph {
+  line-height: $base-line-height;
+  margin-bottom: 0;
+  margin-top: 0;
+
+  * + & {
+    margin-top: 1em;
+  }
+
+  + * {
+    margin-top: 1em;
+  }
+}
+
+%usa-link {
+  color: $color-primary;
+  text-decoration: underline;
+
+  &:hover,
+  &:active {
+    color: $color-primary-darker;
+  }
+
+  &:focus {
+    @include focus;
+  }
+
+  &:visited {
+    color: $color-visited;
+  }
+}
+
+%usa-heading {
+  clear: both;
+  font-family: $font-serif;
+  line-height: $heading-line-height;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+}
+
+* + %usa-heading {
+  margin-top: 1.5em;
+}
+
+@mixin usa-typography-base-styles {
+  p {
+    @extend %usa-paragraph;
+  }
+
+  a {
+    @extend %usa-link;
+  }
+}
+
+@mixin usa-headings-styles {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @extend %usa-heading;
+  }
+
+  h1 {
+    @include h1;
+  }
+
+  h2 {
+    @include h2;
+  }
+
+  h3 {
+    @include h3;
+  }
+
+  h4 {
+    @include h4;
+  }
+
+  h5 {
+    @include h5;
+  }
+
+  h6 {
+    @include h6;
+    font-family: $font-sans;
+  }
+}
+
+// Basic typography styles (paragraph text and links)
+@mixin theme-global-styles-basic {
+  @if $theme-global-styles-basic == true {
+    @include usa-typography-base-styles;
+  }
+}
+
+@mixin usa-content-styles {
+  @include usa-typography-base-styles;
+  @include usa-headings-styles;
+  @include usa-list-styles;
+  @include usa-table-styles;
+}
+
+/* stylelint-disable block-closing-brace-newline-after, at-rule-empty-line-before */
+@mixin theme-content-styles {
+  @if $theme-content-styles == 'scoped' {
+    .usa-prose {
+      @include usa-content-styles;
+    }
+  }
+  @else if $theme-content-styles == 'global' {
+    @include usa-content-styles;
+  }
+  @else {
+    // Default nothing if it’s neither
+  }
+}
+/* stylelint-enable */
+
+@include theme-global-styles-basic;
+@include theme-content-styles;
+
+.usa-paragraph {
+  @extend %usa-paragraph;
+}
+
+.usa-link {
+  @extend %usa-link;
+}
+
+@mixin external-link($external-link, $external-link-hover) {
+  &::after {
+    background: url('#{$theme-image-path}/#{$external-link}.png') no-repeat 0 0;
+    background: url('#{$theme-image-path}/#{$external-link}.svg') no-repeat 0 0;
+    background-size: 100%;
+    content: '';
+    display: inline-block;
+    height: 0.65em;
+    margin-bottom: -1px;
+    margin-left: 4px;
+    width: 0.65em;
+  }
+
+  &:hover::after {
+    background-image: url('#{$theme-image-path}/#{$external-link-hover}.png');
+    background-image: url('#{$theme-image-path}/#{$external-link-hover}.svg');
+  }
+}
+
+// External link consider "effortless style approach":
+// [href^="http:"]:not([href*="my-domain.com"])
+// [href^="https:"]:not([href*="my-domain.com"])
+
+.usa-external_link {
+  @include external-link(external-link, external-link-hover);
+}
+
+.usa-external_link-alt {
+  @include external-link(external-link-alt, external-link-alt-hover);
+}
+
+// Remove user agent styles
+
+cite,
+var,
+address,
+dfn {
+  font-style: normal;
+}
+
+// Custom typography
+
+.usa-content {
+  p,
+  ul:not(.usa-accordion):not(.usa-accordion-bordered),
+  ol:not(.usa-accordion):not(.usa-accordion-bordered) {
+    max-width: $text-max-width;
+  }
+}
+
+.usa-content-list {
+  max-width: $text-max-width;
+}
+
+.usa-sans {
+  p,
+  a,
+  li,
+  span {
+    font-family: $font-sans;
+  }
+
+  a {
+    border-bottom: none;
+    font-weight: $font-bold;
+  }
+}
+
+.usa-serif {
+  p,
+  a,
+  li,
+  span {
+    font-family: $font-serif;
+  }
+}
+
+.usa-display {
+  @include h3;
+  margin-bottom: 0;
+
+  @include media($small-screen) {
+    @include h1;
+  }
+
+  @include media($medium-screen) {
+    @include title;
+  }
+}
+
+.usa-font-lead {
+  font-family: $font-serif;
+  font-size: $lead-font-size;
+  font-weight: $font-normal;
+  line-height: $lead-line-height;
+  max-width: $lead-max-width;
+}
+
+.usa-background-dark {
+  background-color: $color-gray-dark;
+
+  p,
+  span {
+    color: $color-white;
+  }
+
+  a {
+    color: $color-gray-lighter;
+
+    &:hover {
+      color: $color-white;
+    }
+  }
+}
+
+.usa-text-small {
+  font-size: $h6-font-size;
+  margin-top: 0;
+}

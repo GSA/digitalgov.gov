@@ -1,0 +1,122 @@
+// Variables
+
+$accordion-border: 3px solid $color-gray-lightest;
+
+// Accordion Styles
+
+$icon-size: $spacing-md-small;
+$h-padding: $spacing-medium;
+$v-padding: $spacing-md-small;
+
+@mixin accordion-list-styles {
+  @include unstyled-list;
+  color: $color-base;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+// scss-lint:disable PropertyCount
+@mixin accordion-button-styles {
+  @include button-unstyled;
+  background-color: $color-gray-lightest;
+  background-image: url('#{$theme-image-path}/minus.png');
+  background-image: url('#{$theme-image-path}/minus.svg');
+  background-position: right $h-padding center;
+  background-repeat: no-repeat;
+  background-size: $icon-size;
+  color: $color-base;
+  cursor: pointer;
+  display: inline-block;
+  font-family: $font-sans;
+  font-weight: $font-bold;
+  margin: 0;
+  padding: $v-padding ($h-padding * 2 + $icon-size) $v-padding $h-padding;
+  width: 100%;
+
+  &:hover {
+    background-color: $color-gray-lighter;
+    color: $color-base;
+  }
+}
+// scss-lint:enable PropertyCount
+
+@mixin accordion-button-unopened-styles {
+  background-image: url('#{$theme-image-path}/plus.png');
+  background-image: url('#{$theme-image-path}/plus.svg');
+  background-repeat: no-repeat;
+  background-size: $icon-size;
+}
+
+@mixin accordion-nested-list {
+  > ul li ul {
+    list-style: disc;
+    > li > ul {
+      list-style: circle;
+      > li > ul {
+        list-style: square;
+      }
+    }
+  }
+}
+
+.usa-accordion,
+.usa-accordion-bordered {
+  @include accordion-list-styles;
+  @include accordion-nested-list;
+
+  + .usa-accordion,
+  + .usa-accordion-bordered {
+    margin-top: $spacing-small;
+  }
+}
+
+.usa-accordion-bordered {
+  .usa-accordion-content {
+    border-bottom: $accordion-border;
+    border-left: $accordion-border;
+    border-right: $accordion-border;
+    padding-bottom: $spacing-md-small;
+  }
+
+  .usa-accordion-heading {
+    margin-bottom: 0;
+  }
+}
+
+.usa-accordion-heading {
+  font-size: $base-font-size;
+  line-height: 1;
+  margin: 0;
+
+  &:not(:first-child) {
+    margin-top: $spacing-x-small;
+  }
+}
+
+.usa-accordion-content {
+  background-color: $color-white;
+  overflow: auto;
+  padding-bottom: calc(#{$spacing-md-small} - #{$spacing-x-small});
+  padding-left: $spacing-medium;
+  padding-right: $spacing-medium;
+  padding-top: $spacing-md-small;
+
+  > *:first-child {
+    margin-top: 0;
+  }
+
+  > *:last-child {
+    margin-bottom: 0;
+  }
+
+  @include accessibly-hidden;
+}
+
+.usa-accordion-button {
+  @include accordion-button-styles;
+}
+
+.usa-accordion-button[aria-expanded=false] {
+  @include accordion-button-unopened-styles;
+}

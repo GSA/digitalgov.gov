@@ -1,0 +1,37 @@
+.usa-section {
+  @include u-padding-y($site-margins);
+
+  @include media($medium-screen) {
+    @include u-padding-y(6rem);
+  }
+}
+
+.usa-section-light {
+  background-color: $color-gray-lightest;
+}
+
+.usa-section-dark {
+  background-color: $color-primary-darkest;
+  color: $color-white;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $color-primary-alt;
+  }
+
+  p {
+    color: $color-white;
+  }
+
+  a {
+    color: $color-gray-lighter;
+
+    &:hover {
+      color: $color-white;
+    }
+  }
+}
