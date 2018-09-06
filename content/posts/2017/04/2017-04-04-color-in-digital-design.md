@@ -21,7 +21,7 @@ tag:
 
 How do we choose color in digital design? In print, we have the Pantone fan and what you see is what you get — as long as your printer is color calibrated. With computer monitors, one does not get such precision, even within one office. So how much time and effort do you spend on color selection? What you select could be your agency or office standard for the next five, ten or one hundred years! No pressure.
 
-{{< legacy-img src="2017/04/600-x-461-Boutet\_1708\_color_circles.jpg" alt="Claude Boutet’s 7-color and 12-color color wheels." >}}
+{{< legacy-img src="2017/04/600-x-461-Boutet_1708_color_circles.jpg" alt="Claude Boutet’s 7-color and 12-color color wheels." >}}
 
 Remember the colors of the box of your favorite cereal? Of course you do, even if it’s from when you were a kid. If the color changed next week, you wouldn’t recognize it; you would have trouble finding it in the cereal aisle and might even ask someone in the store for assistance. Well, website and online apps work much the same way. So, choosing colors that will last is highly important.
 
@@ -35,7 +35,7 @@ Jennifer Horan of the Consumer Financial Protection Bureau (CFPB) added, “Reme
 
 Atul Varma of 18F recently created my new favorite [tool for determining combinations with 4:5:1 contrast ratio or higher for a custom color palette](https://toolness.github.io/accessible-color-matrix/). This is an important first step because when you select colors, you want them to be consist throughout the website. You don’t want to tweak the hexadecimal colors three different times — and end up with 5 different blues and 11 total colors in one website. Gag!
 
-{{< legacy-img src="2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." >}}
+{{< legacy-img src="2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." caption="By C. B. (probably Claude Boutet or it's editor, Christophe Ballard[1]) [Public domain], via Wikimedia Commons" >}}
 
 Another approach to color selection is to utilize the guidance of the [U.S. Web Design Standards](https://standards.usa.gov), created by [18F](https://18f.gsa.gov) and the [U.S. Digital Service](https://www.usds.gov). You may find the [Color Palette](https://standards.usa.gov/components/colors/#palette) section to be of great help — for more information, [watch DGU’s U.S. Web Design Standards Update webinar](https://standards.usa.gov/components/colors/#palette) that was held on January 25th. (Short on time? [Read the highlights recap]({{< link "2017-02-09-webinar-recap-better-faster-and-more-flexible-u-s-web-design-standards-update.md" >}}).
 
