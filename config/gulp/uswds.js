@@ -26,7 +26,7 @@ gulp.task('sass', function (done) {
       mqpacker({ sort: true }),
       cssnano()
   ];
-  return gulp.src('./themes/digital.gov/src/scss/uswds.scss')
+  return gulp.src('./themes/digital.gov/src/scss/base.scss')
     // sourcemaps not working
     .pipe(sourcemaps.init())
 
@@ -45,7 +45,7 @@ gulp.task('sass', function (done) {
 
 // - - - - - - - - - - - - - - - - -
 gulp.task("watch", function () {
-  gulp.watch('./themes/digital.gov/src/sass/**/*.scss', ['sass']);
+  gulp.watch('./themes/digital.gov/src/scss/**/*.scss', ['sass']);
 })
 
 
