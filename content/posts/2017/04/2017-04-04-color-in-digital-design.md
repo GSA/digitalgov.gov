@@ -35,7 +35,7 @@ Jennifer Horan of the Consumer Financial Protection Bureau (CFPB) added, “Reme
 
 Atul Varma of 18F recently created my new favorite [tool for determining combinations with 4:5:1 contrast ratio or higher for a custom color palette](https://toolness.github.io/accessible-color-matrix/). This is an important first step because when you select colors, you want them to be consist throughout the website. You don’t want to tweak the hexadecimal colors three different times — and end up with 5 different blues and 11 total colors in one website. Gag!
 
-{{< legacy-img src="2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." >}}
+{{< legacy-img src="2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." caption="By C. B. (probably Claude Boutet or it's editor, Christophe Ballard[1]) [Public domain], via Wikimedia Commons" >}}
 
 Another approach to color selection is to utilize the guidance of the [U.S. Web Design Standards](https://standards.usa.gov), created by [18F](https://18f.gsa.gov) and the [U.S. Digital Service](https://www.usds.gov). You may find the [Color Palette](https://standards.usa.gov/components/colors/#palette) section to be of great help — for more information, [watch DGU’s U.S. Web Design Standards Update webinar](https://standards.usa.gov/components/colors/#palette) that was held on January 25th. (Short on time? [Read the highlights recap]({{< link "2017-02-09-webinar-recap-better-faster-and-more-flexible-u-s-web-design-standards-update.md" >}}).
 
