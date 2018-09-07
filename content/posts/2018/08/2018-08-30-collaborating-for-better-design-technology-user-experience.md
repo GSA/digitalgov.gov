@@ -21,6 +21,8 @@ featured_image:
   alt: 'Photo of two men working on mobile app development and design at a whiteboard&#46;'
 ---
 
+> _This post was also published on the [GSA blog](https://www.gsa.gov/blog/2018/08/07/Collaborating-for-Better-Design-Technology-and-User-Experience-0)._
+
 In February 2018, the White House released its [implementation plan](https://www.whitehouse.gov/wp-content/uploads/2017/11/M-18-12.pdf) to modernize IT infrastructure across the federal government. As a result, several initiatives are underway to achieve this goal. Paying specific attention to mobile friendliness, customer experience, and innovation, the federal government is changing how we approach design, development and user experience. GSA’s Office of Government-wide Policy (OGP) is working to align with these initiatives, and improve collaboration to promote a unified message about IT design and accessibility.
 
 Last year, OGP started an executive engagement campaign to promote [universal design](https://section508.gov/create/universal-design) as a way to transform how the federal government approaches IT accessibility. By providing agencies with tools and guidance to incorporate universal design into accessibility programs, we can build better products. Universal design can help agencies develop innovative products that are usable by more people. An accessible work environment enables people with disabilities to enter the workforce on an equal basis, and helps agencies retain and develop talent. Agencies which procure solutions that are more accessible save money in the long term, because they do not need to retrofit products for accessibility. We are also engaging with federal chief information officers (CIOs) to adopt universal design as a way to achieve these benefits.
