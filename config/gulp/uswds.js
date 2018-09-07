@@ -5,7 +5,8 @@ var gulp          = require("gulp"),
     cssnano       = require('cssnano'),
     sourcemaps    = require('gulp-sourcemaps'),
     sass          = require("gulp-sass"),
-    postcss       = require('gulp-postcss')
+    postcss       = require('gulp-postcss'),
+    stripCssComments = require('gulp-strip-css-comments')
 
 
 const USWDS_DIST = 'node_modules/uswds/dist';
@@ -26,7 +27,7 @@ gulp.task('sass', function (done) {
       mqpacker({ sort: true }),
       cssnano()
   ];
-  return gulp.src('./themes/digital.gov/src/scss/base.scss')
+  return gulp.src('./themes/digital.gov/src/scss/settings.scss')
     // sourcemaps not working
     .pipe(sourcemaps.init())
 
