@@ -2,13 +2,35 @@
 {{ block "pagevars" . }}{{ end }}
 
 <!DOCTYPE html>
-{{ partial "head-comment.html" . }}
-{{ partial "head.html" . }}
-{{ partial "body-top.html" . }}
-{{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
-{{ if eq .Layout "1col" }}{{ else }}
-{{ block "sidebar" . }}{{ end }}
-{{ end }}
 
-{{ partial "body-bottom.html" . }}
-{{ partial "footer.html" . }}
+{{- partial "head-comment.html" . -}}
+{{- partial "head.html" . -}}
+
+<body class="margin-0 size-sans-6 desktop:size-sans-8 line-height-sans-4 min-height-viewport">
+
+  {{- partial "core/google-tag-manager.html" . -}}
+
+  <a class="screen-reader-popup" href="#wrap" title="Skip to page content">Skip to page content</a>
+
+  {{- partial "notice-bar.html" . -}}
+  {{- partial "usa-banner.html" . -}}
+
+  <main aria-label="Content">
+    <div class="font-sans-5 font-300 padding-top-2 padding-bottom-4 tablet:padding-top-4 tablet:padding-bottom-6 text-ink">
+      <section class="grid-container-desktop padding-x-4">
+
+        {{- partial "core/header.html" . -}}
+
+        {{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
+
+      </section>
+    </div>
+  </main>
+
+</body>
+
+{{ partial "footer-widgets.html" . }}
+{{ partial "footer-wtf.html" . }}
+{{ partial "footer-end-scripts.html" . }}
+{{ partial "footer--custom-js.html" . }}
+</html>

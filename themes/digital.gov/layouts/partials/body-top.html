@@ -19,10 +19,7 @@
     </script>
   {{ end }}
 
-  {{ if eq ($.Scratch.Get "env") "site" }}
-  {{ else }}
-    {{ partial "notice-bar.html" . }}
-  {{ end }}
+  {{ partial "notice-bar.html" . }}
 
   {{ partial "usa-banner.html" . }}
 
