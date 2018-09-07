@@ -134,4 +134,4 @@ This prototype, built over a two-day sprint, is still an internal proof of conce
 
 If your agency has a project you’d like us to look at, please [contact 18F Consulting via email](mailto:inquiries18F@gsa.gov). 
 
-_This post was originally published on the [18f blog](https://18f.gsa.gov/blog/) by Jesse Taggert, an 18f team member._
+_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Jesse Taggert, an 18f team member._
