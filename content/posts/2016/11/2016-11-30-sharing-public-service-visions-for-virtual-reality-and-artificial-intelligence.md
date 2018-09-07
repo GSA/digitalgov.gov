@@ -13,6 +13,7 @@ tag:
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community
   - communities
+  - innovation
   - virtual reality
   - Virtual/Augmented Reality Community
 ---
