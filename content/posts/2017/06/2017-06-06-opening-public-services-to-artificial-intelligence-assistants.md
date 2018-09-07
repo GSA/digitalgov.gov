@@ -10,9 +10,10 @@ categories:
   - Managing Digital
   - Our Work
   - UX
-tags:
-  - innovation
+tag:
   - artificial-intelligence
+  - customer-experience
+  - innovation
 ---
 
 _“Hey, Computer, how do I access my public services?”_ 
