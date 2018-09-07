@@ -16,7 +16,7 @@ tag:
   - audio
   - Audio-Video
   - DGU
-  - Digital Audio/Video Community
+  - digital-audio-video-community
   - DigitalGov University
   - EPA
   - US Environmental Protection Agency
