@@ -26,7 +26,7 @@ Last week, participants from more than a dozen federal agencies, both in D.C. an
 
 The teams worked side-by-side with Google, Amazon, Microsoft, Facebook, Oracle, MITRE and Dcode42 to collaborate on ways to help citizens get information they might need faster and more efficiently.
 
-The [U.S. Federal AI Personal Assistant Pilot](https://github.com/GSA/AI-Assistant-Pilot/wiki), part of the new Emerging Citizen Technology Program, is combining the most advanced technology from U.S. businesses with existing data to make public services more accessible. Almost three dozen federal agencies stepped forward to participate in the pilot, along with U.S. businesses who are industry leaders, entrepreneurs and startups who have never worked with government before.
+The [U.S. Federal AI Personal Assistant Pilot](https://github.com/GSA/AI-Assistant-Pilot/wiki), part of the new [Emerging Citizen Technology Program](https://emerging.digital.gov/), is combining the most advanced technology from U.S. businesses with existing data to make public services more accessible. Almost three dozen federal agencies stepped forward to participate in the pilot, along with U.S. businesses who are industry leaders, entrepreneurs and startups who have never worked with government before.
 
 The hackathon far exceeded our intended outcomes, with more than a dozen proofs of concepts developed in D.C. and among teams in Chicago, San Francisco and other regional federal offices.
 
