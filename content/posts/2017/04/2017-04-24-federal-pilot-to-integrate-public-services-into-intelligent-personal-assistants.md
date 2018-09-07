@@ -11,8 +11,8 @@ categories:
   - Our Work
 tag:
   - AI
-  - artificial intelligence
-  - Artificial Intelligence for Citizen Services Community
+  - artificial-intelligence
+  - artificial-intelligence-for-citizen-services-community
   - communities
   - GSA
   - innovation
@@ -21,8 +21,8 @@ tag:
   - social media
   - SocialGov
   - SocialGov Community
-  - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-reality
+  - virtual-augmented-reality-community
 ---
 
 The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day—and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges.
