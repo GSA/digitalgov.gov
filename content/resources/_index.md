@@ -128,7 +128,7 @@ aliases:
 
 ## User Experience
 
-*   [User Experience Community]({{< link "communities/user-experience.md" >}})
+*   [User Experience Community]({{< link "user-experience.md" >}})
 *   [DigitalGov User Experience Resources]({{< link "digitalgov-user-experience-resources.md" >}})
     *   [Government Usability Case Studies]({{< link "digitalgov-user-experience-program-results-and-case-studies.md" >}})
 
