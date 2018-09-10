@@ -9,6 +9,7 @@ categories:
   - managing-digital
 tag:
   - agile
+  - sprint
 featured_image:
   uid: agile-project-planning
   alt: 'Different colored sticky notes from an agile project planning session.'

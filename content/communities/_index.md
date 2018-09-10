@@ -11,9 +11,12 @@ summary: 'Our communities are where people in government come together to learn,
 
 Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.
 
-There are more than 10,000 people participating across government in 21 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
+There are more than 10,000 people participating across government in 22 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
 
 ### Our Communities
+
+**[Accessibility]({{< link "accessibility.md" >}})**: The IT Accessibility Community supports people in government who working to improve accessibility of information technology.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "accessibility.md" >}})
 
 **[Agile/Lean]({{< link "agile-lean.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "agile-lean.md" >}})
@@ -83,4 +86,4 @@ There are more than 10,000 people participating across government in 21 areas. O
 
 Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the [Freedom of Information Act](https://www.foia.gov/) (FOIA)._
 
-For more information on Communities, or to propose a new inter-agency group, please send an email to [Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
+For more information on Communities, or to propose a new inter-agency group, please send an email to [**digitalgov@gsa.gov**](mailto:digitalgov@gsa.gov?subject=Communities).
