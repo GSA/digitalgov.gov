@@ -4,6 +4,7 @@ title: 'Optimize JavaScript'
 type: guide
 guide: performance
 summary: ''
+weight: 4
 deck: 'This is the deck. TKTK'
 
 ---

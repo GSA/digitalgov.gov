@@ -4,6 +4,7 @@ title: 'Optimize Images'
 type: guide
 guide: performance
 summary: ''
+weight: 3
 deck: 'Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy.'
 ---
 

@@ -4,6 +4,7 @@ title: 'Methodology'
 type: guide
 guide: performance
 summary: ''
+weight: 7
 deck: 'This is the deck. TKTK'
 
 ---

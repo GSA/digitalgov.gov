@@ -4,6 +4,7 @@ title: 'Optimize CSS'
 type: guide
 guide: performance
 summary: ''
+weight: 2
 deck: 'This is the deck. TKTK'
 
 ---

@@ -9,8 +9,10 @@
           <div class="head">
             <h5 class="margin-0 font-sans-md"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h5>
             <h1 class="font-sans-2xl margin-top-0 margin-bottom-1">{{ .Title | markdownify }}</h1>
-            {{ partial "core/deck" . }}
-            {{ partial "last-updated" . }}
+            {{- if .Params.deck -}}
+            <div class="deck font-sans-xl text-light">{{- .Params.deck -}}</div>
+            {{- end -}}
+            {{/* {{ partial "last-updated" . }} */}}
           </div>
         </div>
       </div>

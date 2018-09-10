@@ -4,6 +4,7 @@ title: 'Avoid Pop-ups'
 type: guide
 guide: performance
 summary: ''
+weight: 6
 deck: 'This is the deck. TKTK'
 
 ---

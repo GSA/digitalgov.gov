@@ -4,6 +4,7 @@ title: 'Utilize Caching'
 type: guide
 guide: performance
 summary: ''
+weight: 5
 deck: 'Reducing the number of times your application requests and processes resources will improve your load time and reduce network data usage.'
 ---
 

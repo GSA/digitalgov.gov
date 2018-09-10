@@ -8,8 +8,10 @@
         <div class="grid-col">
           <div class="head">
             <h1 class="font-sans-2xl margin-top-0 margin-bottom-1">{{ .Title | markdownify }}</h1>
-            {{ partial "core/deck" . }}
-            {{ partial "last-updated" . }}
+            {{- if .Params.deck -}}
+            <div class="deck font-sans-xl text-light">{{- .Params.deck -}}</div>
+            {{- end -}}
+            {{/* {{ partial "last-updated" . }} */}}
           </div>
         </div>
       </div>
@@ -19,6 +21,8 @@
 
   <section>
     <div class="grid-container margin-bottom-8">
+
+
       <div class="grid-row">
         <div class="grid-col-12">
 
@@ -37,10 +41,25 @@
             {{ end }}
           {{ end }}
 
-          {{ .Content }}
-          
+
+
         </div>
       </div>
+
+      <div class="grid-row grid-gap-lg">
+        {{ range .Params.promo }}
+        <div class="grid-col-6">
+          <div class="promo bg-accent-warm-lighter padding-2">
+            <h3 class="margin-0">{{ .h3 }}</h3>
+            <p>{{ .summary }}</p>
+          </div>
+
+        </div>
+        {{ end }}
+      </div>
+
+      {{ .Content }}
+
     </div>
   </section>
 
