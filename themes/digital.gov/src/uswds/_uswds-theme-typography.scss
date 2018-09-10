@@ -211,13 +211,13 @@ Or use `false` for unneeded weights.
 
 $theme-output-all-weights:        false;
 
-$theme-font-weight-thin:          false;
+$theme-font-weight-thin:          200;
 $theme-font-weight-light:         300;
 $theme-font-weight-normal:        400;
-$theme-font-weight-medium:        false;
-$theme-font-weight-semibold:      false;
+$theme-font-weight-medium:        500;
+$theme-font-weight-semibold:      600;
 $theme-font-weight-bold:          700;
-$theme-font-weight-heavy:         false;
+$theme-font-weight-heavy:         800;
 
 /*
 ----------------------------------------
