@@ -20,7 +20,7 @@ Accessibility is a crucial part of government product design. First, [it's the l
 
 But accessibility is hard: It comes across as a set of complex rules that are hard to follow. Not everyone feels confident that they’re doing it right. It’s difficult to prioritize alongside other work and project needs. How do you make sure you’re building products that are accessible and inclusive?
 
-The Accessibility Guild in the Technology Transformation Services (TTS) at the U.S. General Services Administration (GSA) set out to understand how people in different roles practice accessibility. We asked designers, developers, and product managers across our organization to share their accessibility practices, from self-testing to asking for help. We heard about the barriers that can stand in the way of making products more accessible, from lack of knowledge to lack of buy-in.
+The Accessibility Guild in the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA) set out to understand how people in different roles practice accessibility. We asked designers, developers, and product managers across our organization to share their accessibility practices, from self-testing to asking for help. We heard about the barriers that can stand in the way of making products more accessible, from lack of knowledge to lack of buy-in.
 
 We distilled what we learned into a [quick-start guide for embedding accessibility and inclusive design](https://accessibility.digital.gov/) into a team's workflow.
 

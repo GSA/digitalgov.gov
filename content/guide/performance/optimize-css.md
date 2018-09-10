@@ -1,22 +1,59 @@
 ---
 url: /guide/performance/optimize-css/
 title: 'Optimize CSS'
-summary: ''
 type: guide
 guide: performance
-weight: 2
-deck: 'This is the deck'
+summary: ''
+deck: 'This is the deck. TKTK'
+
 ---
 
-## Heading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt.
+Cascading Style Sheets (CSS) describe how HTML elements are to be displayed on screen, can save a lot of work, and can control the layout of multiple web pages simultaneously.
 
-## Another Heading
+However, CSS can increase application load time if absolute dimensions and positions in CSS directives are specified, external stylesheets are not used to separate caching of the CSS from the content, CSS image assets are not combined into Sprite files, and/or there is more than one H1 Tag per page.
 
-Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor velit nec auctor semper. Donec egestas felis id turpis sollicitudin blandit vitae quis libero. Ut massa arcu, condimentum vitae laoreet auctor, blandit sit amet enim. Phasellus ornare rhoncus urna a lacinia. Nullam leo velit, ullamcorper id est ac, consectetur porttitor diam. In eu mollis nulla. Aenean molestie, urna non accumsan posuere, libero leo hendrerit ex, at lobortis nisl justo at nisi. Suspendisse potenti. Etiam nibh leo, vulputate sed ligula ac, mattis dictum sapien.
+## Avoid Absolute Dimensions and Positions in CSS directives
 
-### This is an h3
-Yep.
+**Issue** - Pixel and absolute dimensions and positions in CSS directives should be avoided, as they may not allow the browser to adapt content to fit the display or render correctly on all device types. However, there are exceptions to this rule. For example, if you want images to be tailored to fit a particular display it makes more sense to specify the dimension in pixels. In addition, pixel measures may be appropriate for margins, borders, and padding.
 
-## Another Great Heading
-Proin eu mi vitae sapien fringilla consequat. Maecenas vel purus nec mauris dignissim pellentesque. Maecenas lectus eros, posuere id eros ut, luctus suscipit odio.
+**Solution** – Use relative measures such as em, ex, bolder, larger, and thick where possible. For example, when specifying font use “font-size: 1.5em” instead of “font-size: 12px”.
+
+### References
+
+- Fixit - Measures | https://mobiforge.com/design-development/fixit-measures
+
+## Use External Stylesheets to Separate Caching of CSS from the Content
+
+**Issue** – External stylesheets should be used to separate the CSS instructions from the HTML. This CSS caching by a web browser avoids another trip to the server and speeds up page loading.
+
+**Solution** – In the header section of the HTML, use language to call the CSS file externally, keeping the CSS instructions in a separate file from the HTML (see below).
+
+```
+<link rel="stylesheet" type="text/css"
+href="https://mysite.com/main.css" media="screen" title="style (screen)" />
+```
+
+_Caveat: Using many external CSS stylesheets can adversely affect performance, so they should be combined into a single external CSS._
+
+### References
+
+- Internal vs External CSS | http://infoheap.com/internal-vs-external-css/
+- Optimize CSS Delivery | https://varvy.com/pagespeed/optimize-css-delivery.html
+
+
+
+## Combine CSS Image Assets into Sprite Files
+
+**Issue** - When many images are used independently, it requires several network requests to download each one. CSS Sprites combine multiple images into a single image file for use on a website to speed up delivery and load time. The file can then be cut-up using CSS.
+
+**Solution** - You can find many tools to create sprite sheets, including Compass, Lemonade, SpriteMe, Fireworks CS6, and TexturePacker.
+
+### References
+
+- Fixit – Image Sprints | https://mobiforge.com/design-development/fixit-image-sprites
+- CSS Sprites: What They are, Why They’re Cool, and How to Use Them | https://css-tricks.com/css-sprites/
+- CSS Sprite Sheets: Best Practices, Tools and Helpful Applications | https://webdesign.tutsplus.com/articles/css-sprite-sheets-best-practices-tools-and-helpful-applications--webdesign-8340
+
+### Resources
+
+- What is CSS? | https://www.w3schools.com/css/css_intro.asp

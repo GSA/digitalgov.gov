@@ -11,17 +11,18 @@ categories:
   - Our Work
 tag:
   - AI
-  - artificial intelligence
-  - Artificial Intelligence for Citizen Services Community
+  - artificial-intelligence
+  - artificial-intelligence-for-citizen-services-community
   - communities
   - GSA
-  - 'Office of Products and Programs'
+  - innovation
+  - Office of Products and Programs
   - OPP
   - social media
   - SocialGov
   - SocialGov Community
-  - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-reality
+  - virtual-augmented-reality-community
 ---
 
 The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day—and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges.
@@ -40,4 +41,6 @@ While this first phase of the pilot includes read-only use of public data, agenc
 
 GSA’s Emerging Citizen Technology program includes the government-wide support of Artificial Intelligence for Citizens, Virtual and Augmented Reality, and SocialGov. Throughout the life of the pilot, findings will be shared, including next steps for the advancement of more automated, self-service access to public service information.
 
-All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+* * *
+
+_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 

@@ -12,6 +12,7 @@ categories:
   - ux
 tag:
   - accessibility
+  - innovation
   - usability
   - user-centered-design
   - user-experience

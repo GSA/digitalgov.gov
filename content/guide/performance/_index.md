@@ -2,7 +2,7 @@
 url: /guide/performance/
 title: 'Performance Guide'
 summary: ""
-type: performance
+type: guide
 guide: performance
 weight: 1
 deck: 'This is the deck'

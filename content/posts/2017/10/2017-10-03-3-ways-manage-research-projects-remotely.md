@@ -19,6 +19,7 @@ tag:
   - federal-bureau-of-investigation
   - federal-election-commission
   - research
+  - sprint
   - us-department-of-the-interior
   - us-web-design-standards
   - user-research
@@ -103,4 +104,4 @@ Even though we’re a distributed team, we recognize that not all research metho
 
 _How do you manage remote research projects? Let us know on Twitter: [@18F](https://twitter.com/18F/)_
 
-All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
+_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
