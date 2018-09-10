@@ -1,3 +1,6 @@
+{{ range where .Site.Pages "Section" "guide" }}
+{{ .Title }}
+{{ end }}
 {{ if .Params.guidenav }}
 <div class="guide-nav bg-accent-cool-light padding-3">
 
