@@ -1,9 +1,10 @@
 ---
 url: /guide/mobile/performance/
-title: 'Performance'
+title: 'Mobile Performance'
 summary: ''
 type: guide
-guidenav: mobile
+guide: mobile
+weight: 2
 deck: 'This is the deck'
 ---
 

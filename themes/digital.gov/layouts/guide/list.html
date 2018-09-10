@@ -22,13 +22,23 @@
       <div class="grid-row">
         <div class="grid-col-12">
 
-          {{ range .Paginator.Pages }}
-          <div class="">
-            <h2><a href="{{.Permalink}}" title="{{.Title}}">{{.Title}}</a></h2>
-          </div>
+          {{ if .Params.guide }}
+            {{/* Gets the current page URL */}}
+            {{ $current_url := .URL }}
+            {{ range where .Site.Pages.ByWeight ".Params.guide" .Params.guide }}
+
+              {{/* If $current_url is NOT equal to the URL, then print the page */}}
+              {{ if not (eq $current_url .URL) }}
+              <div class="">
+                <h2><a href="{{.Permalink}}" title="{{.Title}}">{{.Title}}</a></h2>
+              </div>
+              {{ end }}
+
+            {{ end }}
           {{ end }}
 
           {{ .Content }}
+          
         </div>
       </div>
     </div>

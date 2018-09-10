@@ -3,7 +3,8 @@ url: /guide/mobile/
 title: 'Mobile Guide'
 summary: ""
 type: guide
-guidenav: mobile
+guide: mobile
+weight: 1
 deck: 'This is the deck'
 ---
 
