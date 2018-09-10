@@ -18,7 +18,7 @@ youtube_id: BQlgGotFUlQ
 
 Do you want to learn how to travel internationally with video gear and develop a multimedia strategy from beginning to end?
 
-Bryce Spivey, Chair of the Video Production Pros community, talks with Evan Papp, Deputy Director of Communications for Power Africa from U.S. Agency for International Development (USAID), about a video and story he produced while traveling internationally in Africa.
+Bryce Spivey, Chair of the Video Production Pros community, talks with Evan Papp, Deputy Director of Communications for Power Africa from [U.S. Agency for International Development](https://www.usaid.gov/) (USAID), about a video and story he produced while traveling internationally in Africa.
 
 We will discuss everything from concept to completion, including marketing, collaboration, overcoming challenges, lessons learned, and more.
 
