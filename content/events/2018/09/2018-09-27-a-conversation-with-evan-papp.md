@@ -18,7 +18,7 @@ youtube_id: BQlgGotFUlQ
 
 Do you want to learn how to travel internationally with video gear and develop a multimedia strategy from beginning to end?
 
-Bryce Spivey, Chair of the Video Production Pros community, talks with Evan Papp, Deputy Director of Communications for Power Africa from [U.S. Agency for International Development](https://www.usaid.gov/) (USAID), about a video and story he produced while traveling internationally in Africa.
+Bryce Spivey, Chair of the [Video Production Pros Community of Practice](https://digital.gov/communities/video-production/), talks with Evan Papp, Deputy Director of Communications for Power Africa from [U.S. Agency for International Development](https://www.usaid.gov/) (USAID), about a video and story he produced while traveling internationally in Africa.
 
 We will discuss everything from concept to completion, including marketing, collaboration, overcoming challenges, lessons learned, and more.
 
@@ -59,4 +59,4 @@ Over the past two years, Bryce has served as the multimedia lead for the Consume
 
 Bryce graduated from Virginia Commonwealth University with his bachelor of science in Public Relations and currently lives in Washington, D.C.
 
-_[The Video Production Pros Community]({{< link "communities/video.md" >}}) is a group of of storytellers, artists, creatives, directors, DPs, producers, editors and more working for various federal agencies. They share leading trends, best practices, latest projects, feedback, techniques, and strategies that help their respective agencies connect with people through the power of video. [Learn more about joining]({{< link "communities/video.md" >}})._
+_The [Video Production Pros Community of Practice]({{< link "communities/video.md" >}}) is a group of of storytellers, artists, creatives, directors, DPs, producers, editors and more working for various federal agencies. They share leading trends, best practices, latest projects, feedback, techniques, and strategies that help their respective agencies connect with people through the power of video. [Learn more about joining]({{< link "communities/video.md" >}})._
