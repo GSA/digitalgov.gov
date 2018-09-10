@@ -1,0 +1,1 @@
+{"version":3,"sources":["_guide-nav.scss"],"names":[],"mappings":"AAGA,uBACC,YAAa,CACb","file":"base.css","sourcesContent":["// Guide Nav\n\n/* Hides all navigation that is below an H2 */\n#TableOfContents ul ul{\n\tdisplay: none;\n}\n"]}

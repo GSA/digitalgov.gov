@@ -9,38 +9,26 @@ var gulp          = require("gulp"),
     stripCssComments = require('gulp-strip-css-comments')
 
 
-const USWDS_DIST = 'node_modules/uswds/dist';
-const USWDS = './themes/digital.gov/src/uswds/settings.scss';
-const USWDS_DIST_DIR = path.join(__dirname, ...USWDS_DIST.split('/'));
-
+const BASE = './themes/digital.gov/src/scss/base.scss';
 
 // - - - - - - - - - - - - - - - - -
 // Build USWDS styles
 
-gulp.task('copy-uswds-assets', () => {
-  return gulp.src(`${USWDS_DIST}/@(js|fonts|img)/**/**`)
-  .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds'));
-});
-
-gulp.task('uswds-scss', function (done) {
+gulp.task('scss', function (done) {
   var plugins = [
       autoprefixer({ browsers: ['> 5%', 'Last 2 versions'], cascade: false, }),
       mqpacker({ sort: true }),
       cssnano()
   ];
-  return gulp.src(USWDS)
+  return gulp.src(BASE)
     // sourcemaps not working
     .pipe(sourcemaps.init())
 
     // compile css from sass
-    .pipe(sass({
-      includePaths: [
-        path.join(USWDS_DIST_DIR, 'scss'),
-      ]
-    }).on('error', sass.logError))
+    .pipe(sass().on('error', sass.logError))
 
     // run postcss plugins
     .pipe(postcss(plugins))
     .pipe(sourcemaps.write('.'))
-    .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'));
+    .pipe(gulp.dest('./themes/digital.gov/static/dist/'));
 });

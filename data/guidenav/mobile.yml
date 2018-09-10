@@ -1,0 +1,7 @@
+guidenav:
+- title   : 'Overview'
+  slug    : '/guide/mobile/'
+- title   : 'Performance'
+  slug    : '/guide/mobile/performance'
+- title   : 'User Experience'
+  slug    : '/guide/mobile/user-experience'

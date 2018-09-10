@@ -13,26 +13,31 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   {{ "<!-- End Google Tag Manager (noscript) -->" | safeHTML }}
 
-  <a class="screen-reader-popup" href="#wrap" title="Skip to page content">Skip to page content</a>
+  <a class="display-none" href="#wrap" title="Skip to page content">Skip to page content</a>
 
+  {{- partial "core/notice-bar.html" . -}}
   {{- partial "usa-banner.html" . -}}
+  {{- partial "core/header.html" . -}}
 
   <main aria-label="Content">
-    <div class="font-sans-5 font-300 padding-top-2 padding-bottom-4 tablet:padding-top-2 tablet:padding-bottom-6 text-ink">
-      <section class="grid-container-desktop padding-x-4">
 
-        {{- partial "core/notice-bar.html" . -}}
+    {{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
 
-        {{- partial "core/header.html" . -}}
-
-        {{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
-
-      </section>
-    </div>
   </main>
+
+  <footer class="padding-top-5 padding-bottom-5">
+    <div class="grid-container border-top-1px">
+      <div class="grid-row">
+        <div class="grid-col-7">
+          THIS IS THE FOOTER
+        </div>
+      </div>
+    </div>
+  </footer>
 
 </body>
 
 <script src='{{ "lib/uswds/js/uswds.min.js" | absURL }}'></script>
+<script src='{{ "dist/base.js" | absURL }}'></script>
 
 </html>

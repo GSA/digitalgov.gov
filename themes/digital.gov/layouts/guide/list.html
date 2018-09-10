@@ -2,12 +2,11 @@
 
 <article class="guide">
 
-  <header class="margin-bottom-5">
+  <header>
     <div class="grid-container">
       <div class="grid-row">
         <div class="grid-col">
           <div class="head">
-            <h5 class="margin-0 font-sans-md"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h5>
             <h1 class="font-sans-2xl margin-top-0 margin-bottom-1">{{ .Title | markdownify }}</h1>
             {{ partial "core/deck" . }}
             {{ partial "last-updated" . }}
@@ -17,14 +16,19 @@
     </div>
   </header>
 
+
   <section>
     <div class="grid-container margin-bottom-8">
       <div class="grid-row">
-        <div class="grid-col-8">
+        <div class="grid-col-12">
+
+          {{ range .Paginator.Pages }}
+          <div class="">
+            <h2><a href="{{.Permalink}}" title="{{.Title}}">{{.Title}}</a></h2>
+          </div>
+          {{ end }}
+
           {{ .Content }}
-        </div>
-        <div class="grid-col-3 grid-offset-1">
-          {{ partial "core/guide-nav" . }}
         </div>
       </div>
     </div>

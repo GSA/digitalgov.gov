@@ -11,7 +11,16 @@
 
 {{ if eq ($.Scratch.Get "env") "site" }}
 {{ else }}
-<div class="notice bg-gold padding-2 margin-bottom-4">
-  <p class="">This is the pre-release preview of Digital.gov. Visit the live page <a href="{{ $siteslink }}" target="_blank">{{ $cleanurl }}</a></p>
-</div>
+<section class="bg-gold">
+  <div class="grid-container">
+    <div class="grid-row">
+      <div class="grid-col">
+        <div class="padding-2">
+          <p class="">This is the pre-release preview of Digital.gov. Visit the live page <a href="{{ $siteslink }}" target="_blank">{{ $cleanurl }}</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{ end }}
