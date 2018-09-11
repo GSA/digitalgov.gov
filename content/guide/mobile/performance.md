@@ -8,15 +8,15 @@ weight: 6
 deck: 'This is the deck'
 ---
 
-## Heading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt.
+### Speed Matters When Measuring Responsive Web Design Performance Load Times
+During the MobileGov Around the Horn Call, AIDS.gov team laid out why performance testing is important for government, how they approach the testing and some tools agencies use for testing.
+https://www.digitalgov.gov/2014/11/18/trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times/
 
-## Another Heading
 
-Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor velit nec auctor semper. Donec egestas felis id turpis sollicitudin blandit vitae quis libero. Ut massa arcu, condimentum vitae laoreet auctor, blandit sit amet enim. Phasellus ornare rhoncus urna a lacinia. Nullam leo velit, ullamcorper id est ac, consectetur porttitor diam. In eu mollis nulla. Aenean molestie, urna non accumsan posuere, libero leo hendrerit ex, at lobortis nisl justo at nisi. Suspendisse potenti. Etiam nibh leo, vulputate sed ligula ac, mattis dictum sapien.
+### Performance Guidelines
+The Design System team embarked on a 3-month research effort to better understand what performance means to U.S. government web teams of all shapes and sizes, and we’re excited to share the results with you.
+https://designsystem.digital.gov/performance/
 
-### This is an h3
-Yep.
 
-## Another Great Heading
-Proin eu mi vitae sapien fringilla consequat. Maecenas vel purus nec mauris dignissim pellentesque. Maecenas lectus eros, posuere id eros ut, luctus suscipit odio.
+### New ITIF Report Inspires a Closer Look at Website Performance and Security—Here Is Where to Begin
+The Information Technology & Innovation Foundation (ITIF) published a report  that looked at the page load speed, mobile friendliness, security, and accessibility of the top 297 government websites. And based on the four benchmark areas, we’ve pulled together a number of resources and tools to help your agency’s website provide better access to services and information. https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/
