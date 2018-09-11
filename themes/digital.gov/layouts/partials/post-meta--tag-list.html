@@ -2,7 +2,7 @@
 {{ if (not (isset .Params "tag")) | or (eq .Params.tag "") }}
 {{ else }}
   <p class="tags">Tags:
-    {{ $_taxonomy := .Params.tag }}
+    {{ $_taxonomy := sort .Params.tag }}
     {{ $length := $_taxonomy | len }}
     {{ range $i, $e := $_taxonomy }}
       {{ $slug := $e | urlize }}
