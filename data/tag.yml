@@ -255,13 +255,13 @@ digital-records:
 digital-services-playbook:
   display_name: "Digital Services Playbook"
 digitalgov-search:
-  display_name: "Digitalgov Search"
+  display_name: "DigitalGov Search"
 digitalgov-summit:
-  display_name: "Digitalgov Summit"
+  display_name: "DigitalGov Summit"
 digitalgov-university:
-  display_name: "Digitalgov University"
+  display_name: "DigitalGov University"
 digitalgov-user-experience-program:
-  display_name: "Digitalgov User Experience Program"
+  display_name: "DigitalGov User Experience Program"
 disease:
   display_name: "Disease"
 dod:
