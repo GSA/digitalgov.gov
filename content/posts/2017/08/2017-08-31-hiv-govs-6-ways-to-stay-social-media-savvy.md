@@ -9,12 +9,12 @@ featured_image:
   uid: 'social-network-and-media-concept-switch-knob-with-icons-bet-noire-istock-thinkstock-627202608'
   alt: 'Social network and media concept illustration of a switch knob with icons.'
 categories:
-  - Social Media
+  - social-media
   - strategy-and-policy
 tag:
-  - content strategy
-  - HIV gov
-  - social media
+  - content-strategy
+  - hiv-gov
+  - social-media
 ---
 
 > _This post was originally published on the [HIV.gov blog](https://www.hiv.gov/blog/staying-current-today-s-fast-moving-social-media-world)._
