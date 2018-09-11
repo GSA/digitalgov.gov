@@ -254,6 +254,8 @@ digital-records:
   display_name: "Digital Records"
 digital-services-playbook:
   display_name: "Digital Services Playbook"
+digitalgov:
+  display_name: "DigitalGov"
 digitalgov-search:
   display_name: "DigitalGov Search"
 digitalgov-summit:
