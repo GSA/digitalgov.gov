@@ -7,7 +7,7 @@
 {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
 {{ else }}
   <li class="meta-cats"> {{/* meta-cats! */}}
-    {{ $_cats := .Params.categories }}
+    {{ $_cats := sort .Params.categories }}
     {{ $.Scratch.Set "relatedCommunities" (slice) }}
     {{ $length := $_cats | len }}
     {{ range $i, $e := $_cats }}
