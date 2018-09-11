@@ -4,7 +4,7 @@ title: 'Mobile Performance'
 summary: ''
 type: guide
 guide: mobile
-weight: 2
+weight: 6
 deck: 'This is the deck'
 ---
 

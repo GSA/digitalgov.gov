@@ -18,50 +18,71 @@
     </div>
   </header>
 
+  {{ if .Params.guide }}
+  <section class="margin-y-3">
+    <div class="grid-container">
+      <div class="grid-row grid-gap-lg padding-y-5">
+        {{/* Gets the current page URL */}}
+        {{ $current_url := .URL }}
+        {{ range $i, $e := (where .Site.Pages.ByWeight ".Params.guide" .Params.guide) }}
+          {{/* If $current_url is NOT equal to the URL, then print the page */}}
+          {{ if not (eq $current_url $e.URL) }}
+          <div class="grid-col-6 flex-6">
+            <div class="bg-base-lighter padding-2 radius-md margin-bottom-2">
+              <h3 class="margin-0">
+                <a class="text-no-underline text-ink" href="{{ $e.Permalink }}" title="{{$e.Title}}">{{$e.Title}}</a>
+              </h3>
+            </div>
+          </div>
 
-  <section>
-    <div class="grid-container margin-bottom-8">
-
-
-      <div class="grid-row">
-        <div class="grid-col-12">
-
-          {{ if .Params.guide }}
-            {{/* Gets the current page URL */}}
-            {{ $current_url := .URL }}
-            {{ range where .Site.Pages.ByWeight ".Params.guide" .Params.guide }}
-
-              {{/* If $current_url is NOT equal to the URL, then print the page */}}
-              {{ if not (eq $current_url .URL) }}
-              <div class="">
-                <h2><a href="{{.Permalink}}" title="{{.Title}}">{{.Title}}</a></h2>
-              </div>
-              {{ end }}
-
-            {{ end }}
           {{ end }}
 
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
 
-
+  {{ if .Params.quote }}
+  <section class="bg-accent-cool-light margin-bottom-3">
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-11">
+          <div class="padding-y-4">
+            <p class="font-sans-2xl text-italic text-accent-cool-darker text-light line-height-sans-3">{{ .Params.quote }}</p>
+          </div>
         </div>
       </div>
+    </div>
+  </section>
+  {{ end }}
 
+  <section class="font-sans-lg margin-bottom-5">
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-8">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {{ if .Params.promo }}
+  <section>
+    <div class="grid-container margin-bottom-8">
       <div class="grid-row grid-gap-lg">
         {{ range .Params.promo }}
         <div class="grid-col-6">
-          <div class="promo bg-accent-warm-lighter padding-2">
+          <div class="promo padding-2 border-1px">
             <h3 class="margin-0">{{ .h3 }}</h3>
             <p>{{ .summary }}</p>
           </div>
-
         </div>
         {{ end }}
       </div>
-
-      {{ .Content }}
-
     </div>
   </section>
+  {{ end }}
 
   {{ partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
 
