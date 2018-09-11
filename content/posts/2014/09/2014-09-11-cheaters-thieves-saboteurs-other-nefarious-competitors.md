@@ -4,7 +4,7 @@ date: 2014-09-11 12:00:59 -0400
 title: 'Cheaters, Thieves, Saboteurs & Other Nefarious Competitors'
 summary: "Challenge and prize competitions are competitive and not always squeaky clean. There are a few things we've noticed and noted in our experience over the last four years with challenge competitions run by federal agencies and studying others in the private sector."
 authors:
-  - tmarcoullier
+  - tammi-marcoullier
 categories:
   - Challenges
 tag:
