@@ -8,11 +8,11 @@ authors:
 categories:
   - Content
   - Mobile
-  - Social Media
+  - social-media
   - strategy-and-policy
 tag:
   - data
-  - HIV-gov
+  - hiv-gov
   - HHS
   - innovation
   - United States Department of Health and Human Services
