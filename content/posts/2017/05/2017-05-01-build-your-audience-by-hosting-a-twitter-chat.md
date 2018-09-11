@@ -12,7 +12,7 @@ categories:
   - strategy-and-policy
   - Writing
 tag:
-  - AIDS.gov
+  - AIDS-gov
   - content strategy
   - customer service
   - social media
