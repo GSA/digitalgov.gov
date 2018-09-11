@@ -8,15 +8,6 @@ weight: 2
 deck: 'As of January of 2018, all new new and redesigned agency websites are required to be mobile friendly.'
 ---
 
-## Heading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt.
+The [Connected Government Act](https://www.congress.gov/bill/115th-congress/house-bill/2331) (H.R.2331) was signed into law, in January of 2018, and requires new, and redesigned, agency websites to be mobile friendly. GSA and OMB will submit a report to Congress in 2019 that describes how agencies can implement the law and assesses their compliance.
 
-## Another Heading
-
-Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor velit nec auctor semper. Donec egestas felis id turpis sollicitudin blandit vitae quis libero. Ut massa arcu, condimentum vitae laoreet auctor, blandit sit amet enim. Phasellus ornare rhoncus urna a lacinia. Nullam leo velit, ullamcorper id est ac, consectetur porttitor diam. In eu mollis nulla. Aenean molestie, urna non accumsan posuere, libero leo hendrerit ex, at lobortis nisl justo at nisi. Suspendisse potenti. Etiam nibh leo, vulputate sed ligula ac, mattis dictum sapien.
-
-### This is an h3
-Yep.
-
-## Another Great Heading
-Proin eu mi vitae sapien fringilla consequat. Maecenas vel purus nec mauris dignissim pellentesque. Maecenas lectus eros, posuere id eros ut, luctus suscipit odio.
+The new law codifies the [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (M-17-06).

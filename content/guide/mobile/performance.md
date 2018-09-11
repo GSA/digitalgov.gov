@@ -8,7 +8,13 @@ weight: 6
 deck: 'This is the deck'
 ---
 
+{{< card layout="inline" src="https://www.digitalgov.gov/2014/11/18/trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times" title="Speed Matters When Measuring Responsive Web Design Performance Load Times" summary="During the MobileGov Around the Horn Call, AIDS.gov team laid out why performance testing is important for government, how they approach the testing and some tools agencies use for testing." >}}
+
+{{< card src="https://www.digitalgov.gov/2014/11/18/trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times" >}}
+
+
 ### Speed Matters When Measuring Responsive Web Design Performance Load Times
+
 During the MobileGov Around the Horn Call, AIDS.gov team laid out why performance testing is important for government, how they approach the testing and some tools agencies use for testing.
 https://www.digitalgov.gov/2014/11/18/trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times/
 
