@@ -49,7 +49,7 @@
       <div class="grid-row">
         <div class="grid-col-11">
           <div class="padding-y-4">
-            <p class="font-sans-2xl text-italic text-accent-cool-darker text-light line-height-sans-3">{{ .Params.quote }}</p>
+            <p class="font-sans-2xl text-italic text-accent-cool-darker text-light line-height-sans-3">{{ .Params.quote | markdownify }}</p>
           </div>
         </div>
       </div>
@@ -84,18 +84,9 @@
   </section>
   {{ end }}
 
-  {{ partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
-
 </article>
 
+{{ partial "core/overlay" . }}
 
-
-
-
-
-
-  {{ partial "core/overlay" . }}
-
-</article>
 
 {{ end }} {{/* end 'content' block */}}
