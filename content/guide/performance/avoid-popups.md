@@ -3,7 +3,7 @@ url: /guide/performance/avoid-popups/
 title: 'Avoid Pop-ups'
 type: guide
 guide: performance
-summary: ''
+summary: 'Why pop-ups often obstruct and hurt the user experience.'
 weight: 6
 deck: 'This is the deck. TKTK'
 

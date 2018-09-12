@@ -3,7 +3,7 @@ url: /guide/performance/optimize-css/
 title: 'Optimize CSS'
 type: guide
 guide: performance
-summary: ''
+summary: "Let's get those styles in order."
 weight: 2
 deck: 'This is the deck. TKTK'
 

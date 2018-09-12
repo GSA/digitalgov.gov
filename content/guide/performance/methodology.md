@@ -3,7 +3,7 @@ url: /guide/performance/methodology/
 title: 'Methodology'
 type: guide
 guide: performance
-summary: ''
+summary: 'Here is how this all came together.'
 weight: 7
 deck: 'This is the deck. TKTK'
 
