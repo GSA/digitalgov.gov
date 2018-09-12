@@ -7,7 +7,7 @@
 {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
 {{ else }}
   <li class="meta-cats"> {{/* meta-cats! */}}
-    {{ $_cats := .Params.categories }}
+    {{ $_cats := sort .Params.categories }}
     {{ $.Scratch.Set "relatedCommunities" (slice) }}
     {{ $length := $_cats | len }}
     {{ range $i, $e := $_cats }}
@@ -20,9 +20,9 @@
       {{ end }}
       {{ $link := printf "categories/%s/" $slug }}
       {{ if lt (add $i 1) $length }}
-        <a href="{{ $link | absURL }}" rel="category tag">{{ $category.display_name }}</a>,
+        <a href="{{ $link | absURL }}" rel="category tag">{{- if $category -}}{{- $category.display_name -}}{{- else -}}{{- $slug -}}{{- end -}}</a>,
       {{ else }}
-        <a href="{{ $link | absURL }}" rel="category tag">{{ $category.display_name }}</a>
+        <a href="{{ $link | absURL }}" rel="category tag">{{- if $category -}}{{- $category.display_name -}}{{- else -}}{{- $slug -}}{{- end -}}</a>
       {{ end }}
     {{ end }}
   </li>
