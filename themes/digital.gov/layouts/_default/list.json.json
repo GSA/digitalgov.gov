@@ -1,4 +1,4 @@
-{{- partial "set-env.html" . -}}
+{{- partialCached "set-env.html" . -}}
 {{- $list := .Data.Pages -}}
 {{- $length := (len $list) -}}
 {

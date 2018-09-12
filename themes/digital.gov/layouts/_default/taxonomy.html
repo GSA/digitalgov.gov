@@ -51,8 +51,8 @@
 
           {{ partial "sidebar--relatedCommunities.html" . (dict "list" . "communities" ($.Scratch.Get "relatedCommunities")) }}
           {{ partial "sidebar--topics.html" . }}
-          {{ partial "sidebar--recentPosts.html" . }}
-          {{ partial "sidebar--events.html" . }}
+          {{ partialCached "sidebar--recentPosts.html" . }}
+          {{ partialCached "sidebar--events.html" . }}
         </div>
       </div>
 

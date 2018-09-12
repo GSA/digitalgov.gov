@@ -1,8 +1,8 @@
-{{- partial "set-env.html" . -}}
+{{- partialCached "set-env.html" . -}}
 {{ block "pagevars" . }}{{ end }}
 
 <!DOCTYPE html>
-{{ partial "head-comment.html" . }}
+{{ partialCached "head-comment.html" . }}
 {{ partial "head.html" . }}
 {{ partial "body-top.html" . }}
 
