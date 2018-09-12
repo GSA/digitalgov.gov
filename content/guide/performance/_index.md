@@ -5,7 +5,6 @@ summary: ""
 type: guide
 guide: performance
 weight: 1
-deck: 'This is the deck'
+deck: 'A guide to improving performance on your website.'
+quote: "If you reduce your load time by 1 sec, **you increase pageviews by 20%**."
 ---
-
-performance is key.
