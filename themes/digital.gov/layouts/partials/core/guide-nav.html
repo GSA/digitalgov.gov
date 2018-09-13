@@ -1,15 +1,16 @@
 {{ if .Params.guide }}
-<div class="guide-nav bg-accent-cool-light padding-3">
-
+<div class="bg-accent-cool padding-x-3 padding-y-2">
   <h4 class="margin-0 font-sans-md">{{ .Parent.Title }}</h4>
+</div>
+<div class="guide-nav bg-accent-cool-light padding-x-3 padding-y-2">
   {{ $current_url := .Parent.URL }}
   <ul class="padding-0 add-list-reset font-sans-md">
   {{ range where .Site.Pages.ByWeight ".Params.guide" .Params.guide }}
     {{/* If $current_url is equal to the URL, then print the page and give it the title of "Overview" */}}
     {{ if eq $current_url .URL }}
-    <li><a class="text-no-underline text-semibold" href="{{ .Permalink | relURL }}" title="{{ .Title }}">Overview</a></li>
+    <li class="margin-bottom-05"><a class="text-no-underline hover:text-underline text-ink hover:text-ink text-semibold" href="{{ .Permalink | relURL }}" title="{{ .Title }}">Overview</a></li>
     {{ else }}
-    <li><a class="text-no-underline text-semibold" href="{{ .Permalink | relURL }}" title="{{ .Title }}">{{ .Title }}</a></li>
+    <li class="margin-bottom-05"><a class="text-no-underline hover:text-underline text-ink hover:text-ink text-semibold" href="{{ .Permalink | relURL }}" title="{{ .Title }}">{{ .Title }}</a></li>
     {{ end }}
 
   {{ end }}
@@ -18,6 +19,6 @@
 {{ end }}
 
 <div class="toc bg-accent-cool-lighter padding-3 font-sans-2xs">
-  <h5 class="margin-0">In this page</h5>
+  <h4 class="margin-0 margin-bottom-1">In this page</h4>
   {{ .TableOfContents }}
 </div>
