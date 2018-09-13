@@ -1,0 +1,22 @@
+// Serach Bar
+
+#search_form{
+	#query{
+		position: relative;
+		right: -6px;
+	}
+	button{
+		margin-top:0;
+		padding: 0 9px 0px 12px;
+		border-left: 0;
+		vertical-align: top;
+		img{
+			width: 22px;
+			position: relative;
+			top:2px;
+		}
+	}
+	button:hover{
+		background: #efefef;
+	}
+}

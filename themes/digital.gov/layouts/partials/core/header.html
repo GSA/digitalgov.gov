@@ -1,7 +1,7 @@
 {{/* Core */}}
 
-<header class="padding-y-5">
-  <div class="grid-container border-bottom-1px">
+<header class="padding-y-3 bg-base-lightest">
+  <div class="grid-container">
     <div class="grid-row">
       <div class="grid-col-7">
         <nav class="add-list-reset font-sans-5">
@@ -13,8 +13,15 @@
         </nav>
       </div>
       <div class="grid-col-5 grid-row flex-justify-end flex-align-stretch">
-        <input class="font-sans-5 padding-1 border-1px height-5 radius-sm">
-        <button type="submit" class="margin-top-0">Search</button>
+        <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get">
+          <input name="utf8" type="hidden" value="&#x2713;" />
+          <input id="affiliate" name="affiliate" type="hidden" value="digitalgov" />
+          <label for="query" class="display-none">Search</label>
+          <input autocomplete="off" class="font-sans-5 padding-1 border-y-1px border-left-1px border-right-0 height-5 radius-left-sm" id="query" name="query" type="text" />
+          <button type="submit" class="height-5 border-1px radius-right-sm font-sans-5"><img src="/img/crystal-ball.png" alt="Search"></button>
+        </form>
+        {{/* <input class="font-sans-5 padding-1 border-1px height-5 radius-sm"> */}}
+        {{/* <button type="submit" class="margin-0">Search</button> */}}
       </div>
     </div>
   </div>
