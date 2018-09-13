@@ -2,7 +2,7 @@ require('./config/gulp/images');
 require('./config/gulp/uswds');
 require('./config/gulp/scripts');
 require('./config/gulp/scss');
-
+require('./config/gulp/fontawesome');
 var gulp          = require("gulp");
 
 // - - - - - - - - - - - - - - - - -
@@ -14,4 +14,4 @@ gulp.task("watch", function () {
 
 // - - - - - - - - - - - - - - - - -
 // Set watch as default task
-gulp.task('default', ['watch', 'scss', 'uswds-scss', 'copy-uswds-assets', 'compile']);
+gulp.task('default', ['watch', 'scss', 'uswds-scss', 'fontawesome', 'copy-uswds-assets', 'compile']);

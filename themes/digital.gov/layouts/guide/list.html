@@ -57,6 +57,7 @@
   </section>
   {{ end }}
 
+  {{ if .Content }}
   <section class="font-sans-lg margin-bottom-5">
     <div class="grid-container">
       <div class="grid-row">
@@ -66,6 +67,7 @@
       </div>
     </div>
   </section>
+  {{ end }}
 
   {{ if .Params.promo }}
   <section>
