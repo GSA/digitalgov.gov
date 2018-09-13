@@ -1,24 +1,27 @@
 {{/* Core */}}
 
-<header class="padding-y-3 bg-base-lightest">
+<header class="padding-top-4 padding-bottom-5">
   <div class="grid-container">
     <div class="grid-row">
-      <div class="grid-col-7">
-        <nav class="add-list-reset font-sans-5">
-          <li class="display-inline-block text-800 padding-right-105"><a href="#0" class="padding-y-105 text-black text-no-underline border-bottom-05 border-red-warm-40v">Digital.gov</a></li>
+      <div class="grid-col-3">
+        <h1 class="logo margin-0"><a href="{{ "" | absURL }}" title="Digital.gov Home"><img src="{{ "/img/digit-100.png" | absURL }}" alt="digital.gov"> Digital.gov</a></h1>
+      </div>
+      <div class="grid-col-5">
+        <nav class="add-list-reset font-sans-5 text-right padding-y-1 text-semibold">
           <li class="display-inline-block padding-x-105"><a href="#0" class="padding-y-105 text-black text-no-underline border-bottom-05 border-transparent hover:border-red-warm-40v">News</a></li>
           <li class="display-inline-block padding-x-105"><a href="#0" class="padding-y-105 text-black text-no-underline border-bottom-05 border-transparent hover:border-red-warm-40v">Topics</a></li>
           <li class="display-inline-block padding-x-105"><a href="#0" class="padding-y-105 text-black text-no-underline border-bottom-05 border-transparent hover:border-red-warm-40v">Events</a></li>
           <li class="display-inline-block padding-x-105"><a href="#0" class="padding-y-105 text-black text-no-underline border-bottom-05 border-transparent hover:border-red-warm-40v">Communities</a></li>
         </nav>
       </div>
-      <div class="grid-col-5 grid-row flex-justify-end flex-align-stretch">
+
+      <div class="grid-col-4 grid-row flex-justify-end flex-align-stretch">
         <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get">
           <input name="utf8" type="hidden" value="&#x2713;" />
           <input id="affiliate" name="affiliate" type="hidden" value="digitalgov" />
           <label for="query" class="display-none">Search</label>
           <input autocomplete="off" class="font-sans-5 padding-1 border-y-1px border-left-1px border-right-0 height-5 radius-left-sm" id="query" name="query" type="text" />
-          <button type="submit" class="height-5 border-1px radius-right-sm font-sans-5"><img src="/img/crystal-ball.png" alt="Search"></button>
+          <button type="submit" class="height-5 border-1px radius-right-sm font-sans-5"><img src="{{ "/img/crystal-ball.png" | absURL }}" alt="Search"></button>
         </form>
         {{/* <input class="font-sans-5 padding-1 border-1px height-5 radius-sm"> */}}
         {{/* <button type="submit" class="margin-0">Search</button> */}}
