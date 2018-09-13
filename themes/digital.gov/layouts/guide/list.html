@@ -21,7 +21,7 @@
   {{ if .Params.guide }}
   <section class="margin-y-3">
     <div class="grid-container">
-      <div class="grid-row grid-gap-lg padding-y-5">
+      <div class="grid-row grid-gap-lg padding-y-1">
         {{/* Gets the current page URL */}}
         {{ $current_url := .URL }}
         {{ range $i, $e := (where .Site.Pages.ByWeight ".Params.guide" .Params.guide) }}
