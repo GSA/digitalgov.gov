@@ -1,6 +1,6 @@
 {{ if .Params.guide }}
 <div class="bg-accent-cool padding-x-3 padding-y-2">
-  <h4 class="margin-0 font-sans-md">{{ .Parent.Title }}</h4>
+  <h4 class="margin-0 font-sans-md"><a class="text-no-underline hover:text-underline" href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h4>
 </div>
 <div class="guide-nav bg-accent-cool-light padding-x-3 padding-y-2">
   {{ $current_url := .Parent.URL }}
