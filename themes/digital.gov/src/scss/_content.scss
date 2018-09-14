@@ -2,11 +2,38 @@
 
 .content{
 
+  h1{
+    @include u-display('none');
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @include u-margin-bottom(0);
+  }
+
+  h1{
+    @include u-text('strike');
+  }
   h2{
     @include u-margin-top(8);
     @include u-padding-top(1.5);
     @include u-border-top(1px);
     @include u-line-height('sans', 3);
+  }
+  h3{
+    @include u-margin-top(4);
+  }
+  h4{
+    @include u-margin-top(3);
+  }
+  code{
+    @include u-padding-x(0.5);
+    @include u-padding-y(2px);
+    @include u-bg(base-lighter);
+    @include u-radius(sm);
   }
   pre{
     @include u-padding-x(3);
@@ -14,4 +41,8 @@
     @include u-bg(base-lighter);
     @include u-radius(sm);
   }
+}
+
+.content > *:first-child {
+  @include u-margin-top(0);
 }
