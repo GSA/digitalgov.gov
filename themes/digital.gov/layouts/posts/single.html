@@ -1,62 +1,41 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
-  {{ $.Scratch.Set "has_sidebar" true }}
-{{ end }}
-
 {{ define "content" }}
-<div id="contentleft" class="clearfix">
-  <div id="content" class="clearfix">
-    <div class="post singlepost post-387041 type-post status-publish format-standard has-post-thumbnail hentry category-managing-digital category-strategy-policy tag-cloud tag-gsa tag-security tag-u-s-general-services-administration Managing Digital Strategy &amp; Policy"
-      id="single-post-387041">
 
-      <div class="entry">
 
-        <h1 class="post-title single">
-          {{ .Title | markdownify }}
-        </h1>
+<article class="guide margin-bottom-5">
+  <div class="grid-container border-top-1px">
+    <header class="grid-row margin-y-4">
+      <div class="grid-col-10 grid-offset-1">
 
-        {{ partial "post-meta" . }}
-        <!-- Go to www.addthis.com/dashboard to customize your tools -->
-        <div class="addthis_inline_share_toolbox"></div>
+        {{/* Page Title */}}
+        <h1 class="font-sans-2xl margin-top-0 margin-bottom-1">{{ .Title | markdownify }}</h1>
+        {{/* Deck */}}
+        {{- if .Params.deck -}}
+        <div class="deck font-sans-xl text-light">{{- .Params.deck -}}</div>
+        {{- end -}}
+        {{/* {{ partial "last-updated" . }} */}}
+        {{ partial "core/get_authors" . }}
+      </div>
+    </header>
 
-        {{ .Content }}
+    <div class="grid-row margin-y-4">
+      <div class="grid-col-8 grid-offset-2">
+        <div class="content font-sans-md">
+          {{ .Content }}
+        </div>
 
         <!-- Go to www.addthis.com/dashboard to customize your tools -->
         <div class="addthis_inline_share_toolbox"></div>
         {{ partial "post-meta--related-posts" . }}
         {{ partial "post-meta--tag-list" . }}
-        {{ partial "post-meta--feedback" (dict "page" . "page_type" "article" "branch" ($.Scratch.Get "branch")) }}
-        {{ partial "page-details" . }}
 
-      </div><!-- .entry -->
-
-    </div><!-- .post -->
-
-    {{/* Comments section removed */}}
-
-    {{/*
-      ======================================
-      PREVIOUS / NEXT POST
-      ======================================
-    */}}
-
-    <div class="navigation clearfix">
-      <div class="alignleft single">
-        {{ if .PrevInSection }}
-          « <a href="{{ .PrevInSection.URL | absURL }}" rel="prev">{{ .PrevInSection.Title | markdownify }}</a>
-        {{ end }}
       </div>
-      <div class="alignright single">
-        {{ if .NextInSection }}
-          <a href="{{ .NextInSection.URL | absURL }}" rel="next">{{ .NextInSection.Title | markdownify }}</a> »
-        {{ end }}
-      </div>
-    </div><!-- .navigation -->
-    <div style="clear:both;margin-bottom:20px;"></div>
-  </div><!-- #content -->
-</div><!-- #contentleft -->
-{{ end }} {{/* end 'content' block */}}
+    </div>
+  </div>
 
-{{ define "sidebar" }}
-  {{ partial "sidebar-common.html" . }}
-{{ end }} {{/* end 'sidebar' block */}}
+  {{ partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
+
+</article>
+
+  {{ partial "core/overlay" . }}
+
+{{ end }}
