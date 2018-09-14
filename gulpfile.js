@@ -7,7 +7,7 @@ var gulp          = require("gulp");
 
 // - - - - - - - - - - - - - - - - -
 gulp.task("watch", function () {
-  // gulp.watch('./themes/digital.gov/src/scss/**/*.scss', ['uswds-scss']);
+  gulp.watch('./themes/digital.gov/src/scss/**/*.scss', ['uswds-scss']);
   // gulp.watch('./themes/digital.gov/src/uswds/**/*.scss', ['uswds-scss']);
   gulp.watch('./themes/digital.gov/src/js/*.js', ['compile']);
 })
