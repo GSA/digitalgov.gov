@@ -1,3 +1,17 @@
-// h2{
-//   margin-top: 0;
-// }
+// Content settings
+
+.content{
+
+  h2{
+    @include u-margin-top(8);
+    @include u-padding-top(1.5);
+    @include u-border-top(1px);
+    @include u-line-height('sans', 3);
+  }
+  pre{
+    @include u-padding-x(3);
+    @include u-padding-y(2);
+    @include u-bg(base-lighter);
+    @include u-radius(sm);
+  }
+}

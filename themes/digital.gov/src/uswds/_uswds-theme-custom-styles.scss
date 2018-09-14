@@ -20,6 +20,7 @@ i.e.
 ----------------------------------------
 */
 
-body{
-  background-color: pink !important;
-}
+@import '../scss/content';
+@import '../scss/logo';
+@import '../scss/guide-nav';
+@import '../scss/search-bar';
