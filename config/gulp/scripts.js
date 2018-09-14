@@ -5,7 +5,7 @@ var gulp          = require("gulp"),
 
 // task
 gulp.task('compile', function () {
-  gulp.src('./themes/digital.gov/src/js/*.js') // path to your files
+  gulp.src('./themes/digital.gov/src/js/**/*.js') // path to your files
   .pipe(jshint())
   .pipe(jshint.reporter()) // Dump results
   .pipe(uglify())
