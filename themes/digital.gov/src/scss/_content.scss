@@ -22,12 +22,38 @@
     @include u-padding-top(1.5);
     @include u-border-top(1px);
     @include u-line-height('sans', 3);
+    @include u-font('sans', 'lg');
   }
   h3{
     @include u-margin-top(4);
+    @include u-font('sans', 'md');
+    @include u-text('heavy');
   }
   h4{
     @include u-margin-top(3);
+    @include u-font('sans', 'sm');
+  }
+  h5{
+    @include u-margin-top(3);
+    @include u-text('bold');
+    @include u-font('sans', 'xs');
+  }
+  h5 +* {
+    @include u-margin-top(1);
+  }
+  h6{
+    @include u-margin-top(3);
+    @include u-text('uppercase');
+    @include u-text('thin');
+    @include u-font('sans', '2xs');
+  }
+  h6 +* {
+    @include u-margin-top(0.5);
+  }
+
+  blockquote{
+    @include u-margin-x(4);
+    @include u-measure(2);
   }
   code{
     @include u-padding-x(0.5);
@@ -40,6 +66,22 @@
     @include u-padding-y(2);
     @include u-bg(base-lighter);
     @include u-radius(sm);
+  }
+  // Quotes
+  .quote{
+    @include u-margin-x(0);
+    @include u-padding(3);
+  }
+  .quote.inline{
+    @include u-border-top(1);
+    @include u-margin-top(1);
+    @include u-margin-left(2);
+    @include u-padding-y(1);
+    @include u-padding-x(0);
+    @include u-padding-bottom(2);
+    @include u-font-family('serif');
+    @include u-width('card-lg');
+    @include u-float('right');
   }
 }
 
