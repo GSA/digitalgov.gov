@@ -48,6 +48,7 @@ outputs:
 
 blackfriday:
   fractions: false
+  smartypants: true
 
 params:
   description: "We’re building a modern government, together."
