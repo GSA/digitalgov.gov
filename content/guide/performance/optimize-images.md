@@ -9,13 +9,15 @@ weight: 3
 deck: 'Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy.'
 ---
 
-Page weight is the “gravity of the web” that decreases your application performance by increasing load time and reducing network data usage.
+Page weight is the “gravity of the web” that decreases your application performance by increasing load time and reducing network data usage. Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy.
+
 
 ## Limit Page Size and Weight
 
 **Issue** - The total file size of the page including dependent files will affect the load time and the amount of time it takes a mobile crawler to evaluate. Clean and light pages are best for mobile SEO; mobile search engines will prefer to rank these pages. Strive to keep the file size of all mobile pages below 25Kb. This is the maximum file size that the iPhone will cache for any element that is downloaded.
 
 **Solution** - There are many ways to reduce page weight including image optimization, gzip compression, Minification, Caching, JavaScript, and CSS consolidation. Other solutions include avoiding the following: embeds and includes, JavaScript and CSS frameworks, custom fonts, and unnecessary page clutter. The best solution depends on the specifics of your site.
+
 
 ### References
 
@@ -43,6 +45,7 @@ Page weight is the “gravity of the web” that decreases your application perf
 
 **Solution** - Use image compression apps to easily reduce the file size of images. These tools remove hidden data in the image file, like additional color profiles and metadata (e.g. geolocation of where the photograph was taken), that aren’t needed. They provide a quick and easy way to reduce files size without losing any image quality. Image compression tools include TinyJPG, Compressor.io, Kraken, ImageOptimizer, ImageOptim, Crush Pics, and Minifier (Shopify Apps).
 
+
 ### References
 
 - Optimize Images | https://developers.google.com/speed/docs/insights/OptimizeImages
@@ -55,7 +58,7 @@ Page weight is the “gravity of the web” that decreases your application perf
 
 **Issue** - Image dimensions should always be included and images should not be resampled at run-time, as this will slow the rendering of the page. When images are referenced from within your markup, you should list their display dimensions for the browser. Specifying a width and height for all images allows for faster rendering by eliminating the need for unnecessary reflows and repaints.
 
-**Solution** - Specify image width and height by including the width and height attributes when you use the “img” element (see below).
+**Solution** - Specify image width and height by including the width and height attributes when you use the `<img>` element (see below).
 
 ```
 <img src="images/clown.jpg" width="50" height="50" />
