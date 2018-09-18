@@ -6,7 +6,7 @@ guide: performance
 guidenav: performance
 summary: ''
 weight: 4
-deck: 'Learn how to manage JavaScript and improve the performance of your website'
+deck: "The way your website uses JavaScript has a big impact on the performance of your website"
 
 ---
 

@@ -6,7 +6,7 @@ guide: performance
 guidenav: performance
 summary: "Let's get those styles in order."
 weight: 2
-deck: 'Learn how to manage CSS and improve the performance of your website'
+deck: 'The way your website uses CSS has a big impact on the performance of your website'
 
 ---
 
