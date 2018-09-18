@@ -4,7 +4,7 @@ title: 'Methodology'
 type: guide
 guide: performance
 guidenav: performance
-summary: 'Here is how this all came together.'
+summary: 'Here are the methods we followed the following steps to conduct this study.'
 weight: 7
 
 ---

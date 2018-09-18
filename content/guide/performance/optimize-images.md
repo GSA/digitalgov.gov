@@ -4,9 +4,9 @@ title: 'Optimize Images'
 type: guide
 guide: performance
 guidenav: performance
-summary: ''
+summary: 'How to optimize images and improve the performance of your website.'
 weight: 3
-deck: 'Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy.'
+deck: 'Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy'
 ---
 
 Page weight is the “gravity of the web” that decreases your application performance by increasing load time and reducing network data usage. Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy.

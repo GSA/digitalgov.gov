@@ -4,7 +4,7 @@ title: 'Optimize JavaScript'
 type: guide
 guide: performance
 guidenav: performance
-summary: ''
+summary: 'How to optimize javascript to improve the performance of your website.'
 weight: 4
 deck: "The way your website uses JavaScript has a big impact on the performance of your website"
 

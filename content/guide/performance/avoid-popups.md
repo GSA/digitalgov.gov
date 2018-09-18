@@ -6,7 +6,7 @@ guide: performance
 guidenav: performance
 summary: 'Why pop-ups often obstruct and hurt the user experience.'
 weight: 6
-deck: 'This is the deck. TKTK'
+deck: 'Why pop-ups often obstruct and hurt the user experience'
 
 ---
 
@@ -17,7 +17,7 @@ The use of pop-ups is not necessarily bad on a desktop application. However, if 
 
 **Issue** - Pop-up windows are not supported on many mobile devices and using them can have unpredictable results
 
-**Solution** - There are many alternatives to pop-ups that are visible without taking up the entire window, such as lightboxes, inline expansion, and stationary banner ads. 
+**Solution** - There are many alternatives to pop-ups that are visible without taking up the entire window, such as lightboxes, inline expansion, and stationary banner ads.
 
 
 ### References

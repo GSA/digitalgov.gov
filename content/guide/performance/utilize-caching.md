@@ -4,9 +4,9 @@ title: 'Utilize Caching'
 type: guide
 guide: performance
 guidenav: performance
-summary: ''
+summary: 'How to utilize caching to improve the performance of your website.'
 weight: 5
-deck: 'Reducing the number of times your application requests and processes resources will improve your load time and reduce network data usage.'
+deck: 'Reducing the number of times your application requests and processes resources will improve your load time and reduce network data usage'
 ---
 
 You can do this in two ways: local caching or minimizing the use of external scripts and objects.
@@ -36,7 +36,7 @@ Cache-Control: max-age=2592000, public
 
 **Issue** - Every external object downloaded on a page requires a separate DNS request. This is not a big problem on a traditional computer with a fast connection, but on slower mobile networks it can cause latency. This will hurt application performance and load time.
 
-**Solution** - Reduce the number and size of resources required for the site. However, if that is not possible, combine all external CSS files into a single style sheet or all JavaScript files into one big file to reduce the number of calls to the browser. 
+**Solution** - Reduce the number and size of resources required for the site. However, if that is not possible, combine all external CSS files into a single style sheet or all JavaScript files into one big file to reduce the number of calls to the browser.
 
 
 ### References
