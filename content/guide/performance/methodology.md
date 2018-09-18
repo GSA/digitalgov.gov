@@ -6,14 +6,13 @@ guide: performance
 guidenav: performance
 summary: 'Here is how this all came together.'
 weight: 7
-deck: 'This is the deck. TKTK'
 
 ---
 
 
 Here are the methods we followed the following steps to conduct this study:
 
-1. Using [Digital Analytics Program](https://digital.gov/dap/) (DAP) statistics, we pulled the names of the top 26 U.S. federal government websites accessed by mobile devices. 
+1. Using [Digital Analytics Program](https://digital.gov/dap/) (DAP) statistics, we pulled the names of the top 26 U.S. federal government websites accessed by mobile devices.
 2. We tested each site using  seven mobile-friendly automated test tools:
   - Google Mobile Friendly Test - https://www.google.com/webmasters/tools/mobile-friendly/
   - Mobile Moxie - https://www.mobilemoxie.com/tools/site_analysis/
