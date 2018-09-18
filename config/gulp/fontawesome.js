@@ -1,6 +1,5 @@
 var gulp          = require("gulp"),
     path          = require('path'),
-    copy          = require('gulp-copy'),
     autoprefixer  = require("autoprefixer"),
     mqpacker      = require('css-mqpacker'),
     cssnano       = require('cssnano'),
