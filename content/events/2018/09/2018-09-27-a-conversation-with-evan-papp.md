@@ -3,7 +3,7 @@ slug: a-conversation-with-evan-papp
 title: 'A Conversation with Evan Papp of Power Africa'
 summary: 'Evan Papp will talk about a video and story he produced while traveling internationally in Africa.'
 featured_image:
-  uid:
+  uid: power-africa-evan-papp
   alt: ''
 event_type:
   - youtube-live
