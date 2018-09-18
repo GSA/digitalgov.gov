@@ -6,7 +6,7 @@ guide: performance
 guidenav: performance
 summary: ''
 weight: 4
-deck: 'This is the deck. TKTK'
+deck: 'Learn how to manage JavaScript and improve the performance of your website'
 
 ---
 

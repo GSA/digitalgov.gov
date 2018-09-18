@@ -1,15 +1,14 @@
 ---
 url: /guide/performance/
 title: 'Performance Guide'
-summary: ""
+summary: "A guide to improving performance on your website."
 type: guide
 guide: performance
 guidenav: performance
 weight: 1
-deck: 'A guide to improving performance on your website.'
+deck: 'A guide to improving performance on your website'
 quote: "If you reduce your load time by 1 sec, **you increase pageviews by 20%**."
 ---
-
 
 JavaScript usage, CSS usage, image and resource sizing, caching/network usage, and pop-ups. These are the top five practices that the most visited government websites should focus on in order to be more mobile-friendly. But how can you work on each of these areas to help ensure your website keeps mobile users delighted and coming back?
 

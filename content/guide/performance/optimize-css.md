@@ -6,7 +6,7 @@ guide: performance
 guidenav: performance
 summary: "Let's get those styles in order."
 weight: 2
-deck: 'This is the deck. TKTK'
+deck: 'Learn how to manage CSS and improve the performance of your website'
 
 ---
 
