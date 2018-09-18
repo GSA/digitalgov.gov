@@ -30,6 +30,7 @@
     "gulp-gzip": "^1.4.0",
     "gulp-hash": "^4.1.1",
     "gulp-jshint": "^2.1.0",
+    "gulp-notify": "^3.2.0",
     "gulp-postcss": "^7.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-replace-name": "^1.0.1",
