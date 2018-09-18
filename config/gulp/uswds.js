@@ -4,6 +4,7 @@ var gulp          = require("gulp"),
     mqpacker      = require('css-mqpacker'),
     cssnano       = require('cssnano'),
     sourcemaps    = require('gulp-sourcemaps'),
+    notify        = require("gulp-notify"),
     sass          = require("gulp-sass"),
     postcss       = require('gulp-postcss'),
     stripCssComments = require('gulp-strip-css-comments')
@@ -42,5 +43,8 @@ gulp.task('uswds-scss', function (done) {
     // run postcss plugins
     .pipe(postcss(plugins))
     .pipe(sourcemaps.write('.'))
-    .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'));
+    .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'))
+    .pipe(notify({
+      "sound": "Pop" // case sensitive
+    }));
 });
