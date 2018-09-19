@@ -8,7 +8,12 @@
   <div class="hentry entry">
 
     <div class="entry-head">
-      {{ partial "breadcrumbs" . }}
+
+      <nav class="breadcrumb">
+        <p>
+          <a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a>
+        </p>
+      </nav>
 
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
       {{ if .Params.deck }}
