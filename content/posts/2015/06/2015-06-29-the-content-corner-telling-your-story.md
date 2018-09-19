@@ -4,7 +4,7 @@ date: 2015-06-29 10:00:19 -0400
 title: 'The Content Corner: Telling Your Story'
 summary: 'Storytelling plays an important role in helping to establish the human connection that is often lost in today’s digital deluge of information, shares and tweets. A large amount of the content we consume today is derivative, second-hand, and generally passes through us like a breeze. But by using a method of sharing content that is as'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
 tag:

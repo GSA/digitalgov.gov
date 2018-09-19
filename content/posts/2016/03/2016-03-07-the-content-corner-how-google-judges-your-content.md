@@ -4,7 +4,7 @@ date: 2016-03-07 11:09:58 -0400
 title: 'The Content Corner: How Google Judges Your Content'
 summary: 'Every week my main goal is to usually provide new ways to help you feed the content beast. However, today I am going to remind you of why feeding the beast is important, especially when it comes to your search engine rankings and helping users find your content. I&#8217;ve discussed key search engine optimization (SEO)'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
   - Monthly Theme

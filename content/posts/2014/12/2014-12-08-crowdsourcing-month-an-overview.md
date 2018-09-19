@@ -4,7 +4,7 @@ date: 2014-12-08 12:01:38 -0400
 title: 'Crowdsourcing Month: An Overview'
 summary: 'This month we&#8217;ll be highlighting articles about crowdsourcing. These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills. Among the mechanisms are hackathons, data jams, code-a-thons, prize competitions, workplace surveys, open ideation, micro-tasks or'
 authors:
-  - tmarcoullier
+  - tammi-marcoullier
 categories:
   - Challenges
   - crowdsourcing-and-citizen-science

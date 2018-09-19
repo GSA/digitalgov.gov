@@ -4,7 +4,7 @@ date: 2015-11-23 11:00:13 -0400
 title: 'The Content Corner: Good UX Needs Good Content'
 summary: 'As DigitalGov focuses on user experience this month it is good to remember one harsh truth: You cannot have a good user experience with bad content. It is important to keep a &ldquo;content first&rdquo; strategy in place during any website redesign or new site development. It is so easy for the various disciplines involved in'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
   - Design

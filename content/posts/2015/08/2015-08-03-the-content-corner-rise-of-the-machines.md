@@ -4,7 +4,7 @@ date: 2015-08-03 11:10:42 -0400
 title: 'The Content Corner: Rise of the Machines'
 summary: In the span of two days, I received as many emails from respectable content marketing blogs worrying about the dangers of machines taking the jobs of bloggers and other content creators. The man vs. machine dynamic has existed since the dawn of the industrial age, but is it finally reaching the point where a technology
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
 tag:
