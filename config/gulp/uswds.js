@@ -28,7 +28,10 @@ const USWDS_SRC         = 'node_modules/uswds/dist';
 const PROJECT_SASS_SRC  = './themes/digital.gov/src/uswds';
 
 // Asset (images, fonts) destination
-const ASSETS_DEST       = './themes/digital.gov/static/dist';
+const ASSETS_DEST       = './themes/digital.gov/static/lib/uswds';
+
+// Asset (images, fonts) destination
+const FONTS_DEST       = './themes/digital.gov/static/';
 
 // CSS destination
 const CSS_DEST          = './themes/digital.gov/static/dist';
@@ -49,6 +52,16 @@ gulp.task('clean-css', function () {
   return del([
     `${CSS_DEST}/**/*`
   ]);
+});
+
+gulp.task('copy-uswds-fonts', () => {
+  return gulp.src(`${USWDS_SRC}/@(fonts)/**/**`)
+  .pipe(gulp.dest(`${FONTS_DEST}`));
+});
+
+gulp.task('copy-uswds-assets', () => {
+  return gulp.src(`${USWDS_SRC}/@(js|img)/**/**`)
+  .pipe(gulp.dest(`${ASSETS_DEST}`));
 });
 
 gulp.task('build-sass', function (done) {
