@@ -10,7 +10,7 @@ categories:
 tag: 
   - innovation
 featured_image: 
-  uid: 
+  uid: accessibility-for-teams-3
   alt: 'A glowing light bulb, above a group of people working in an office, represents ideas&#46;'
 ---
 
