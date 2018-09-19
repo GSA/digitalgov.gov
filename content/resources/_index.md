@@ -5,6 +5,7 @@ title: Resources
 summary: 'Common resources for people working in Digital government.'
 aliases:
   - /tools/
+  - /guide/
 
 ---
 
