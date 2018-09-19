@@ -20,9 +20,8 @@ i.e.
 ----------------------------------------
 */
 
-
-@import 'scss/logo';
-@import 'scss/guide-nav';
-@import 'scss/table-of-contents';
-@import 'scss/content';
-@import 'scss/search-bar';
+@import '../scss/content';
+@import '../scss/logo';
+@import '../scss/guide-nav';
+@import '../scss/search-bar';
+@import '../scss/table-of-contents';

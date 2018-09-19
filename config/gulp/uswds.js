@@ -1,50 +1,98 @@
-var gulp          = require("gulp"),
-    path          = require('path'),
-    autoprefixer  = require("autoprefixer"),
-    mqpacker      = require('css-mqpacker'),
-    cssnano       = require('cssnano'),
-    sourcemaps    = require('gulp-sourcemaps'),
-    notify        = require("gulp-notify"),
-    sass          = require("gulp-sass"),
-    postcss       = require('gulp-postcss'),
-    stripCssComments = require('gulp-strip-css-comments')
+var pkg           = require('../../package.json');
+var autoprefixer  = require('autoprefixer');
+var cssnano       = require('cssnano');
+var del           = require('del');
+var gulp          = require('gulp');
+var gzip          = require('gulp-gzip');
+var movecss       = require('css-mqpacker');
+var path          = require('path');
+var postcss       = require('gulp-postcss');
+var rename        = require('gulp-rename');
+var replace       = require('gulp-replace');
+var sass          = require('gulp-sass');
+var size          = require('gulp-size');
+var sourcemaps    = require('gulp-sourcemaps');
+var uncss         = require('postcss-uncss');
+var watch         = require('gulp-watch');
 
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// LOCATIONS
 
-const USWDS_DIST = 'node_modules/uswds/dist';
-const USWDS = './themes/digital.gov/src/uswds/settings.scss';
-const USWDS_DIST_DIR = path.join(__dirname, ...USWDS_DIST.split('/'));
+// All locations are relative to the project root
+// Don't use a trailing `/` for path names, use `path/to/dir`
 
+// USWDS source directory
+const USWDS_SRC         = 'node_modules/uswds/dist';
 
-// - - - - - - - - - - - - - - - - -
-// Build USWDS styles
+// Project Sass source directory
+const PROJECT_SASS_SRC  = './themes/digital.gov/src/uswds';
 
-gulp.task('copy-uswds-assets', () => {
-  return gulp.src(`${USWDS_DIST}/@(js|fonts|img)/**/**`)
-  .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds'));
+// Asset (images, fonts) destination
+const ASSETS_DEST       = './themes/digital.gov/static/dist';
+
+// CSS destination
+const CSS_DEST          = './themes/digital.gov/static/dist';
+
+// Build destination
+const BUILD_DEST        = '_site';
+
+// Include destination
+const INC_DEST          = '_includes';
+
+// Primary stylesheet name (exclude .css)
+const STYLESHEET_BASE   = 'base';
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// BUILD USWDS STYLES
+
+gulp.task('clean-css', function () {
+  return del([
+    `${CSS_DEST}/**/*`
+  ]);
 });
 
-gulp.task('uswds-scss', function (done) {
+gulp.task('build-sass', function (done) {
   var plugins = [
-      autoprefixer({ browsers: ['> 5%', 'Last 2 versions'], cascade: false, }),
-      mqpacker({ sort: true }),
+      autoprefixer({ browsers: ['> 3%', 'Last 2 versions'], cascade: false, }),
+      movecss({ sort: true }),
       cssnano()
   ];
-  return gulp.src(USWDS)
-    // sourcemaps not working
+  return gulp.src([
+      `${PROJECT_SASS_SRC}/*.scss`
+    ])
     .pipe(sourcemaps.init())
-
-    // compile css from sass
     .pipe(sass({
-      includePaths: [
-        path.join(USWDS_DIST_DIR, 'scss'),
-      ]
-    }).on('error', sass.logError))
-
-    // run postcss plugins
+        includePaths: [
+          `${PROJECT_SASS_SRC}`,
+          `${USWDS_SRC}/scss`,
+          `${USWDS_SRC}/scss/packages`,
+        ]
+      }))
     .pipe(postcss(plugins))
     .pipe(sourcemaps.write('.'))
-    .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'))
-    .pipe(notify({
-      "sound": "Pop" // case sensitive
-    }));
+    .pipe(replace(
+      /\buswds @version\b/g,
+      'uswds v' + pkg.version
+    ))
+    .pipe(gulp.dest(`${CSS_DEST}`))
+    .pipe(size())
+});
+
+gulp.task('build-app', ['build-sass'], function() {
+  var plugins = [
+    uncss({
+      html: [`${BUILD_DEST}/**/*.html`],
+      ignore: [/\[aria-/, /is-visible/],
+    }),
+    cssnano()
+  ];
+  return gulp.src(`${CSS_DEST}/${STYLESHEET_BASE}.min.css`)
+    .pipe(postcss(plugins))
+    .pipe(rename(`${STYLESHEET_BASE}.app.css`))
+    .pipe(gulp.dest(`${INC_DEST}`))
+    .pipe(gulp.dest(`${CSS_DEST}`))
+    .pipe(size())
+    .pipe(gzip({ extension: 'gz' }))
+    .pipe(gulp.dest(`${CSS_DEST}`))
+    .pipe(size());
 });
