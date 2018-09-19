@@ -3,9 +3,12 @@
 
 .guide-nav-box {
 	.guide-title{
-		@include u-bg('indigo-warm-40v');
+		@include u-bg('indigo-warm-60v');
+		h4 a{
+			@include u-text('base-lightest');
+		}
 	}
 	.guide-nav{
-		// @include u-bg('indigo-warm-30v');
+		@include u-bg('indigo-warm-30v');
 	}
 }
