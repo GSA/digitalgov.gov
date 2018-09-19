@@ -11,7 +11,7 @@ tag:
   - innovation
 featured_image: 
   uid: accessibility-for-teams-3
-  alt: 'A glowing light bulb, above a group of people working in an office, represents ideas&#46;'
+  alt: ''
 ---
 
 _How agency leaders can create a work environment that fosters innovation via creativity and experimentation._ 
