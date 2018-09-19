@@ -9,7 +9,5 @@ guidenav:
     slug    : '/guide/performance/optimize-images/'
   - title   : 'Utilize Caching'
     slug    : '/guide/performance/utilize-caching/'
-  - title   : 'Avoid Pop-ups'
-    slug    : '/guide/performance/avoid-popups/'
   - title   : 'Methodology'
     slug    : '/guide/performance/methodology/'
