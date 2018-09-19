@@ -10,7 +10,7 @@ categories:
 tag:
   - innovation
 featured_image:
-  uid: leader-ship
+  uid: light-bulb
   alt: ''
 ---
 
