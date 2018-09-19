@@ -4,13 +4,13 @@ title: 'Methodology'
 type: guide
 guide: performance
 guidenav: performance
-summary: 'Here are the methods we followed the following steps to conduct this study.'
+summary: 'We followed the following steps to conduct this study'
 weight: 7
 
 ---
 
 
-Here are the methods we followed the following steps to conduct this study:
+We followed the following steps to conduct this study:
 
 1. Using [Digital Analytics Program](https://digital.gov/dap/) (DAP) statistics, we pulled the names of the top 26 U.S. federal government websites accessed by mobile devices.
 2. We tested each site using  seven mobile-friendly automated test tools:
@@ -22,4 +22,4 @@ Here are the methods we followed the following steps to conduct this study:
   - Varvy SEO tool - https://varvy.com/
   - Gtmetrix - https://gtmetrix.com/
 3. After looking at the failed criteria reported by each tool, we compiled the results into a single Excel sheet.
-4. We grouped the issues that we found on 15 or more sites into the five categories covered in this article, which are listed in order of most occurrences (JavaScript) to least occurrences (pop-ups).
+4. We grouped the issues that we found on 15 or more sites into the four categories covered in this guide, which are listed in order of most occurrences (JavaScript) to least occurrences (caching).
