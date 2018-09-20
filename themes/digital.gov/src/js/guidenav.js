@@ -1,7 +1,7 @@
 jQuery(document).ready(function($) {
 
 	// Cleans up the #TableOfContents from HUGO
-	$('#TableOfContents ul').addClass('add-list-reset');
+	// $('#TableOfContents ul').addClass('add-list-reset');
 	$('#TableOfContents > ul:first').contents().unwrap();
 	$('#TableOfContents > li:first').contents().unwrap();
 	$('#TableOfContents > ul > ul').remove();
