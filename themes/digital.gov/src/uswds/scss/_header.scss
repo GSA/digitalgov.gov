@@ -1,0 +1,59 @@
+// Header
+
+#header{
+	@include u-padding-y(4);
+	@include u-padding-bottom(5);
+	@include u-bg('indigo-cool-5');
+
+
+	.logo{
+		@include u-margin(0);
+		@include u-font('sans', 'xl');
+		@include u-line-height('sans', 2);
+	  a{
+	    color:#000;
+	    @include u-text('no-underline');
+	  }
+	  img{
+	    width: 30px;
+	    position: relative;
+	    top:4px;
+	  }
+	}
+
+	nav{
+		// @include u-margin-y(2);
+		margin: .8rem 0;
+		// @include u-font('sans', 'md');
+		font-size: 2rem;
+		@include u-text('bold');
+		@include u-list-reset;
+		@include u-text('right');
+		li{
+			@include u-display('inline-block');
+			@include u-padding-x('105');
+			a{
+				@include u-padding-bottom(2px);
+				color:#000;
+				@include u-text('no-underline');
+			}
+			a:hover{
+				border-bottom: 3px #656bd7 solid;
+			}
+		}
+		li:last-child{
+			@include u-padding-right(0);
+		}
+	}
+}
+
+
+// Footer Logo
+h3.logo{
+	@include u-font('sans', 'lg');
+	@include u-line-height('sans', 3);
+  img{
+    width: 20px;
+    top:2px;
+  }
+}

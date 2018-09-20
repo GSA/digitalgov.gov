@@ -1,8 +1,15 @@
 // Serach Bar
 
-#search_form{
-	// @import u-float('right');
+.search_form{
+	@include u-margin-top(2);
+	@include u-float('right');
 
+	.search_field{
+		position: relative;
+		left:6px;
+		@include u-font('sans', 'md');
+		@include u-text('thin');
+	}
 	button{
 		margin-top:0;
 		padding: 0 9px 0px 12px;
