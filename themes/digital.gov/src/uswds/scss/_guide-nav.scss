@@ -3,12 +3,44 @@
 
 .guide-nav-box {
 	.guide-title{
-		@include u-bg('indigo-warm-60v');
-		h4 a{
-			@include u-text('base-lightest');
+		@include u-bg('indigo-90');
+		@include u-padding(3);
+		h4 {
+			@include u-font('sans', 'xl');
+			@include u-text('thin');
+			@include u-line-height('sans', 2);
+			a{
+				// @include u-text('base-lightest');
+				color: #fff;
+				@include u-text('no-underline');
+			}
+			a:hover{
+				border-bottom: 2px #fc906d solid;
+			}
+		}
+		p{
+			color: #fff;
+			@include u-text('light');
 		}
 	}
 	.guide-nav{
-		@include u-bg('indigo-warm-30v');
+		@include u-bg('indigo-90');
+		@include u-padding(3);
+		a{
+			@include u-padding-bottom(2px);
+			color: #c4c6f2;
+			@include u-text('normal');
+			@include u-text('no-underline');
+		}
+		a:hover{
+			// @include u-border(0);
+			// @include u-border-bottom(2);
+			// @include u-border('orange-warm-40');
+			// @include u-border('solid');
+			border-bottom: 2px #fc906d solid;
+		}
+	}
+	.toc{
+		@include u-bg('indigo-10');
 	}
 }

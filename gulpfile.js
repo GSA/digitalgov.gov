@@ -28,4 +28,5 @@ gulp.task('watch', ['build-sass'], function (){
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Set watch as default task
-gulp.task('default', ['watch', 'copy-uswds-assets', 'copy-uswds-fonts', 'build-sass', 'fontawesome', 'compile']);
+// gulp.task('default', ['watch', 'copy-uswds-assets', 'copy-uswds-fonts', 'build-sass', 'fontawesome', 'compile']);
+gulp.task('default', ['watch', 'build-sass']);
