@@ -16,5 +16,5 @@ const FONTAWESOME_PATH = 'node_modules/@fortawesome/fontawesome-free/css/all.min
 
 gulp.task('fontawesome', function () {
   gulp.src('node_modules/@fortawesome/fontawesome-free/css/all.min.css')
-  .pipe(gulp.dest('./themes/digital.gov/static/lib/fontawesome/css/'));
+  .pipe(gulp.dest('./themes/digital.gov/static/dist/fontawesome/'));
 });
