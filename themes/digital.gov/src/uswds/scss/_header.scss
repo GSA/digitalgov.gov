@@ -14,15 +14,16 @@
 		@include u-margin(0);
 		@include u-font('sans', 'xl');
 		@include u-line-height('sans', 2);
-	  a{
-	    color:#000;
-	    @include u-text('no-underline');
-	  }
-	  img{
-	    width: 200px;
-	  }
+		a{
+			color:#000;
+			@include u-text('no-underline');
+		}
+		img{
+			width: 200px;
+		}
 	}
 
+	// Main Navigation
 	nav{
 		@include u-margin-top(2);
 		padding: .6rem 3px .6rem 2px;
@@ -69,34 +70,4 @@
 		}
 
 	}
-
-}
-
-@include at-media('mobile-lg') {
-
-}
-@include at-media('tablet') {
-
-}
-@include at-media('tablet-lg') {
-
-}
-@include at-media('desktop') {
-
-}
-@include at-media('desktop-lg') {
-
-}
-
-
-
-
-// Footer Logo
-h3.logo{
-	@include u-font('sans', 'lg');
-	@include u-line-height('sans', 3);
-  img{
-    width: 20px;
-    top:2px;
-  }
 }
