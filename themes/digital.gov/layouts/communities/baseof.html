@@ -1,0 +1,35 @@
+{{- partial "core/set-env.html" . -}}
+{{ block "pagevars" . }}{{ end }}
+
+<!DOCTYPE html>
+
+{{- partial "head-comment.html" . -}}
+{{- partial "core/head.html" . -}}
+
+<body class="margin-0 size-sans-6 desktop:size-sans-8 line-height-sans-4 min-height-viewport">
+
+  {{ "<!-- Google Tag Manager (noscript) -->" | safeHTML }}
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZCKZPQ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  {{ "<!-- End Google Tag Manager (noscript) -->" | safeHTML }}
+
+  <a class="display-none" href="#wrap" title="Skip to page content">Skip to page content</a>
+
+  {{- partial "core/notice-bar.html" . -}}
+  {{- partial "core/usa-banner.html" . -}}
+  {{- partial "core/header.html" . -}}
+
+  <main aria-label="Content">
+
+    {{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
+
+  </main>
+
+  {{- partial "core/footer.html" -}}
+
+</body>
+
+<script src='{{ "lib/uswds/js/uswds.min.js" | absURL }}'></script>
+<script src='{{ "dist/base.js" | absURL }}'></script>
+
+</html>
