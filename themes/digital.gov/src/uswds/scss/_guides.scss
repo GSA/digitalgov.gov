@@ -8,6 +8,7 @@ h5.guide-title{
 }
 
 .guide-nav-box {
+	@include u-margin-bottom(5);
 	.guide-title{
 		@include u-bg('indigo-80');
 		@include u-padding(3);
