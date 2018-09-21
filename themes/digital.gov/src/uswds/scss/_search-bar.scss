@@ -9,6 +9,7 @@
 	@include u-flex('justify-start');
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
+		max-width: 53rem;
 		@include u-float('right');
 		@include u-flex('align-start');
 		@include u-flex('justify-end');
