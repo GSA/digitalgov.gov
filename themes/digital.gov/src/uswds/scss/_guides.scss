@@ -10,6 +10,13 @@ h5.guide-title{
 .guide-nav-box {
 	@include u-margin-bottom(5);
 	.guide-title{
+		// tablet and smaller
+		@include u-display('none');
+		// tablet-lg and above
+		@include at-media('tablet-lg') {
+			display:block;
+			@include u-display('block');
+		}
 		@include u-bg('indigo-80');
 		@include u-padding(3);
 		@include u-padding-bottom(1);
@@ -36,6 +43,13 @@ h5.guide-title{
 		}
 	}
 	.guide-nav{
+		// tablet and smaller
+		@include u-display('none');
+		// tablet-lg and above
+		@include at-media('tablet-lg') {
+			display:block;
+			@include u-display('block');
+		}
 		@include u-bg('indigo-80');
 		@include u-padding-x(3);
 		@include u-padding-y(2);
