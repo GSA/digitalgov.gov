@@ -3,7 +3,7 @@
 <article class="guide">
 
   <header class="margin-bottom-5">
-    <div class="grid-container">
+    <div class="grid-container padding-x-2">
       <div class="grid-row margin-y-4">
         <div class="grid-col">
           <div class="head">
@@ -20,7 +20,7 @@
 
   {{ if .Params.guide }}
   <section class="margin-y-3">
-    <div class="grid-container">
+    <div class="grid-container padding-x-2">
       <div class="grid-row grid-gap-lg padding-y-1">
         {{/* Gets the current page URL */}}
         {{ $current_url := .URL }}
@@ -45,7 +45,7 @@
 
   {{ if .Params.quote }}
   <section class="bg-mint-cool-10 margin-bottom-3">
-    <div class="grid-container">
+    <div class="grid-container padding-x-2">
       <div class="grid-row">
         <div class="grid-col-11">
           <div class="padding-y-4">
@@ -59,7 +59,7 @@
 
   {{ if .Content }}
   <section class="font-sans-lg margin-bottom-5">
-    <div class="grid-container">
+    <div class="grid-container padding-x-2">
       <div class="grid-row">
         <div class="grid-col-8">
           {{ .Content }}
@@ -71,7 +71,7 @@
 
   {{ if .Params.promo }}
   <section>
-    <div class="grid-container margin-bottom-8">
+    <div class="grid-container padding-x-2 margin-bottom-8">
       <div class="grid-row grid-gap-lg">
         {{ range .Params.promo }}
         <div class="grid-col-6">
