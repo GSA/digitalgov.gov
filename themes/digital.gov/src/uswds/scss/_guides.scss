@@ -1,5 +1,11 @@
 // Guide Nav
 
+h5.guide-title{
+	@include u-margin-top(0);
+	@include u-margin-bottom(1);
+	@include u-display('inline-block');
+	@include u-font('sans', 'sm');
+}
 
 .guide-nav-box {
 	.guide-title{

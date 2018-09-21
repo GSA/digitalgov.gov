@@ -28,7 +28,7 @@
           {{/* If $current_url is NOT equal to the URL, then print the page */}}
           {{ if not (eq $current_url $e.URL) }}
           <div class="grid-col-6 flex-6">
-            <div class="bg-base-lighter padding-2 radius-md margin-bottom-2">
+            <div class="bg-mint-cool-10 padding-2 radius-md margin-bottom-2">
               <h3 class="margin-0">
                 <a class="text-no-underline text-ink" href="{{ $e.Permalink }}" title="{{$e.Title}}">{{$e.Title}}</a>
               </h3>
@@ -44,12 +44,12 @@
   {{ end }}
 
   {{ if .Params.quote }}
-  <section class="bg-accent-cool-light margin-bottom-3">
+  <section class="bg-mint-cool-10 margin-bottom-3">
     <div class="grid-container">
       <div class="grid-row">
         <div class="grid-col-11">
           <div class="padding-y-4">
-            <p class="font-sans-2xl text-italic text-accent-cool-darker text-light line-height-sans-3">{{ .Params.quote | markdownify }}</p>
+            <p class="font-sans-2xl text-italic mint-cool-80 text-light line-height-sans-3">{{ .Params.quote | markdownify }}</p>
           </div>
         </div>
       </div>
