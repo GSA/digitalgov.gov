@@ -8,23 +8,24 @@
 		@include u-padding-bottom(5);
 	}
 	@include u-bg('indigo-cool-5');
+
+	// Logo
 	.logo{
 		@include u-margin(0);
 		@include u-font('sans', 'xl');
 		@include u-line-height('sans', 2);
-		min-width: 200px;
 	  a{
 	    color:#000;
 	    @include u-text('no-underline');
 	  }
 	  img{
-	    width: 196px;
+	    width: 200px;
 	  }
 	}
 
 	nav{
 		@include u-margin-top(2);
-		padding: .7rem 2px;
+		padding: .6rem 3px .6rem 2px;
 		// @include u-font('sans', 'md');
 		font-size: 2rem;
 		@include u-height('full');
