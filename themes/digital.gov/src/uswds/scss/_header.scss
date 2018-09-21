@@ -1,11 +1,13 @@
 // Header
 
 #header{
-	@include u-padding-y(4);
-	@include u-padding-bottom(5);
+	@include u-padding-y(3);
+	// tablet-lg and above
+	@include at-media('tablet-lg') {
+		@include u-padding-y(4);
+		@include u-padding-bottom(5);
+	}
 	@include u-bg('indigo-cool-5');
-
-
 	.logo{
 		@include u-margin(0);
 		@include u-font('sans', 'xl');
