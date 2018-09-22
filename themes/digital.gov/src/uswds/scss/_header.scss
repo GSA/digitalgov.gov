@@ -1,6 +1,6 @@
 // Header
 
-#header{
+header#header{
 	@include u-padding-y(3);
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
