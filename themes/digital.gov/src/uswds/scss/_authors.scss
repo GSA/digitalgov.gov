@@ -1,0 +1,31 @@
+// Authors
+
+.authors{
+	@include u-margin-top(1);
+	.author{
+		@include u-margin-bottom(2);
+		@include u-padding-top(1);
+		border-top: 1px #ccc solid;
+		.photo{
+			@include u-margin-right(1);
+		}
+		.details{
+			h5{
+				@include u-margin(0);
+				@include u-font('sans', '2xs');
+				@include u-text('bold');
+				a{
+					@include u-text('no-underline');
+				}
+				a:hover{
+					border-bottom: 2px #fc906d solid;
+				}
+			}
+			p{
+				@include u-margin(0);
+				@include u-font('sans', '3xs');
+			}
+		}
+
+	}
+}
