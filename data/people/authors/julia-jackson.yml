@@ -12,6 +12,12 @@ uid: julia-jackson
 email: julia.jackson@nih.gov
 bio: Julia Jackson is a Program Specialist and a member of the Digital Team at the Office of Communications and Public Liaison in the National Institute of Diabetes and Digestive and Kidney Diseases, part of the National Institutes of Health.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

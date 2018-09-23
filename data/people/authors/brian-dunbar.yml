@@ -12,6 +12,12 @@ uid: brian-dunbar
 email: Brian.dunbar@nasa.gov
 bio: Brian Dunbar is an Internet Services Manager in the NASA Office of Communications.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

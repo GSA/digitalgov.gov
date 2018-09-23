@@ -12,6 +12,12 @@ uid: dr-taha-kass-hout
 email: ""
 bio: Dr. Taha Kass-Hout is the Chief Health Informatics Officer of the U.S. Food and Drug Administration (FDA).
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

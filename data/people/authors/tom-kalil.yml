@@ -11,6 +11,13 @@ last_name: Kalil
 uid: tom-kalil
 email: Thomas_A._Kalil@ostp.eop.gov
 bio: Tom Kalil is the Deputy Director for Technology and Innovation at the White House Office of Science and Technology Policy.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

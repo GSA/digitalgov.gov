@@ -11,6 +11,13 @@ last_name: Thottungal
 uid: robin-thottungal
 email: thottungal.robin@epa.gov
 bio: Robin A. Thottungal is Chief Data Scientist at the U.S. Environmental Protection Agency.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

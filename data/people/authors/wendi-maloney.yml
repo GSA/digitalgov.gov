@@ -12,6 +12,12 @@ uid: wendi-maloney
 email: ""
 bio: 'Wendi Maloney, a writer-editor at the U.S. Copyright Office, is serving a detail in the Library’s Office of Communications. She is managing the Library of Congress blog and writing stories for the Library’s staff newsletter and other publications.'
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

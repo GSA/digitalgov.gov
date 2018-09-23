@@ -11,6 +11,13 @@ last_name: Morey
 uid: richard-morey
 email: ""
 bio: Richard Morey works in the Health Resources and Services Administration Office of Communications.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

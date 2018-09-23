@@ -12,6 +12,12 @@ uid: andrea-d-williamson
 email: ""
 bio: Andrea D. Williamson is a Real Estate Analyst and performance lead for 14 business areas, including Core Business, REAC oversight, and Support Functions for the US Department of Housing and Urban Development’s Public and Indian Housing Real Estate Assessment Center.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

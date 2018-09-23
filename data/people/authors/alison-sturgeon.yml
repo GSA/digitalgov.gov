@@ -12,6 +12,12 @@ uid: alison-sturgeon
 email: Alison.a.sturgeon@ssa.gov
 bio: Alison Sturgeon is a Performance Analyst in the Office of the Chief Strategic Officer (OCSO) at the Social Security Administration, and she is also a member of the Customer Service CAP Goal Management Team.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

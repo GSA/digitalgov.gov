@@ -12,6 +12,12 @@ uid: ben-bloom
 email: ""
 bio: Benjamin Bloom is a Web Developer at the Smithsonian National Portrait Gallery.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

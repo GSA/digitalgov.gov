@@ -36,7 +36,7 @@
             {{- if $author.github -}}
             <img class="circle-5" src="https://github.com/{{- $author.github -}}.png?size=50" alt="">
             {{- else -}}
-            <img class="circle-5" src="{{ "img/profile.png" | absURL }}" alt="">
+            <img class="circle-5" src="http://placekitten.com/100/100" alt="">
             {{- end -}}
           </div>
         </div>
@@ -47,7 +47,9 @@
                 {{- $author.display_name | default $uid -}}
               </a>
             </h5>
-            <p>18F / GSA | Washington D.C.</p>
+
+            <p>{{- if $author.agency -}}{{- $author.agency -}}&nbsp;|&nbsp;{{- end -}} {{- if $author.location -}}{{- $author.location -}}{{- end -}}</p>
+
           </div>
         </div>
       </div>

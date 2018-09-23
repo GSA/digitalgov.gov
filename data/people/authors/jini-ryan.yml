@@ -12,6 +12,12 @@ uid: jini-ryan
 email: ryan.jini@epa.gov
 bio: Jini Ryan is the Executive Video Producer in the Office of Multimedia at the U.S. Environmental Protection Agency (EPA).
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

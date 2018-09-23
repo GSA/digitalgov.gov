@@ -11,6 +11,13 @@ last_name: Lue
 uid: rosetta-carrington-lue
 email: rosetta.c.lue@phila.gov
 bio: "Rosetta Carrington Lue is the City of Philadelphia's Deputy Managing Director and Chief Customer Service Officer."
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

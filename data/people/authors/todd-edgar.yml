@@ -11,6 +11,13 @@ last_name: Edgar
 uid: todd-edgar
 email: todd_edgar@nps.gov
 bio: Todd Edgar is the NPS.gov web manager for the National Park Service Office of Communications.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

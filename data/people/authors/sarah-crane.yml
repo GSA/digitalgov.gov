@@ -11,6 +11,13 @@ last_name: Crane
 uid: sarah-crane
 email: sarah.crane@gsa.gov
 bio: Sarah Crane is the Director of USA.gov.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

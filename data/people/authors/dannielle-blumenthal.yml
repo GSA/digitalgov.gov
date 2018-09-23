@@ -12,6 +12,12 @@ uid: dannielle-blumenthal
 email: dannielle.blumenthal@nist.gov
 bio: Dannielle Blumenthal is the Director of Digital Engagement for the Office of Innovation at The National Archives.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

@@ -11,6 +11,13 @@ last_name: Bonitto
 uid: toni-bonitto
 email: toni.bonitto@gsa.gov
 bio: "New to government, Toni spent most of her tech career in the private and nonprofit sectors, and now serves as an Innovation Specialist for DigitalGov in the Technology Transformation Service at GSA."
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

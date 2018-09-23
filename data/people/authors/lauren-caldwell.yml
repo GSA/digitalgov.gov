@@ -14,6 +14,12 @@ email: Lauren.Caldwell@ee.doe.gov
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: ''
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

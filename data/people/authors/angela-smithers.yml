@@ -12,6 +12,12 @@ uid: angela-smithers
 email: asmithers@oig.doc.gov
 bio: Angela is the IT Specialist (Webmaster) in the Office of Chief Information Officer at the Office of Inspector General.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

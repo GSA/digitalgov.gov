@@ -12,6 +12,12 @@ uid: limary-suarez-pacheco
 email: Limary.Suarez-Pacheco@uscis.dhs.gov
 bio: Limary Suarez Pacheco is a Senior Web Content Editor for USCIS, Office of Communications.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

@@ -13,6 +13,12 @@ email: jessica.milcetich@gsa.gov
 photo: 'https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/60-x-80-Jessica-Milcetich.jpg'
 bio: 'Jessica Milcetich is a digital media strategist on the USA.gov Outreach Team.'
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

@@ -11,6 +11,13 @@ last_name: Boling
 uid: ted-boling
 email: ""
 bio: Ted Boling is Associate Director for the National Environmental Policy Act at the White House Council on Environmental Quality.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

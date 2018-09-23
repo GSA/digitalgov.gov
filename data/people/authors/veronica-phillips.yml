@@ -11,6 +11,13 @@ last_name: Phillips
 uid: veronica-phillips
 email: ""
 bio: Veronica is a NASA Open Data team member.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

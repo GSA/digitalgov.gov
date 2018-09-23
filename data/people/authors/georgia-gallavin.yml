@@ -12,6 +12,12 @@ uid: georgia-gallavin
 email: ""
 bio: 'Georgia Gallavin is in her last semester at The New School in New York City, earning an MA in Media Studies. She recently finished her internship with the DigitalGov User Experience Program at GSA.'
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

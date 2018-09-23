@@ -12,6 +12,12 @@ uid: 18f-team
 email: ""
 bio: 'Since launching in March 2014, 18F has grown from a small group of Presidential Innovation Fellows into a team of almost 60 designers, developers, product managers, researchers, writers, and specialists. 18F builds effective, user-centric digital services focused on the interaction between government and the people and businesses it serves.'
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

@@ -12,6 +12,12 @@ uid: abigail-noonan
 email: ""
 bio: Abigail Noonan is a Sr. Human Factors Engineer in the Office of Health Informatics, Office of Informatics and Analytics (10P2) of the Veterans Health Administration.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

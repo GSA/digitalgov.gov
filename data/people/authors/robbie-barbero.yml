@@ -11,6 +11,13 @@ last_name: Barbero
 uid: robbie-barbero
 email: ""
 bio: Robbie Barbero is Assistant Director for Biological Innovation at the White House Office of Science and Technology Policy.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

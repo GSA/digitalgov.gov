@@ -15,6 +15,12 @@ photo: 'https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/6
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: "Jacqueline Snee is a Customer Experience Strategist for the Customer Experience Team within GSA's Federal Citizen Information Center. While she loves all aspects of customer experience, her passion is employee engagement."
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: 'Washington D.C.'
 

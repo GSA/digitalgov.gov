@@ -12,6 +12,12 @@ uid: arlene-hernandez
 email: arlene.hernandez@gsa.gov
 bio: Arlene Hernandez is the director of Kids.gov. She and the Kids.gov team have been creating videos for kids since 2010. With every video, they always learn something new and make the next video better.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

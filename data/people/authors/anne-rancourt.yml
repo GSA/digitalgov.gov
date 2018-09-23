@@ -12,6 +12,12 @@ uid: anne-rancourt
 email: rancourtar@niaid.nih.gov
 bio: Anne Rancourt is a section chief in the Office of Communications and Government Relations at the National Institute of Allergy and Infectious Diseases, part of the National Institutes of Health. Anne oversees media and science writing on HIV, allergy, immunology, and organ transplantation.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

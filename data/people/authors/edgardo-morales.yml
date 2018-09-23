@@ -12,6 +12,12 @@ uid: edgardo-morales
 email: edgardo.morales@gsa.gov
 bio: Edgardo Morales Santiago is a member of the USA.gov Outreach Team at the U.S. General Services Administration.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

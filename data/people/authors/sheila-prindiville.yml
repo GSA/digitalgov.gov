@@ -11,6 +11,13 @@ last_name: Prindiville
 uid: sheila-prindiville
 email: ""
 bio: Sheila Prindiville, M.D., M.P.H., is Director, NCI Coordinating Center for Clinical Trials
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

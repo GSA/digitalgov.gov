@@ -4,7 +4,7 @@ first_name    : NIST
 last_name     :
 email         :
 website       :
-bio           : 
+bio           :
 location      :
 quote         :
 github        :
@@ -12,3 +12,8 @@ twitter       :
 youtube       :
 facebook      :
 linkedin      :
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''

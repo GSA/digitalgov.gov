@@ -12,6 +12,12 @@ uid: rachel-mundstock
 email: rachel.mundstock@gsa.gov
 bio: "Rachel is the Information Specialist for GSA's DigitalGov Search. She helps power the search experience on over 1,500 government websites. Feel free to email her at search@support.digitalgov.gov with any questions or check out DigitalGov Search for more information."
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 quote: ""

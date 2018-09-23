@@ -12,3 +12,9 @@ twitter       :
 youtube       :
 facebook      :
 linkedin      :
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''

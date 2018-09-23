@@ -12,6 +12,12 @@ uid: mike-rucki
 email: Rucki.Michael@pbgc.gov
 bio: 'Mike Rucki manages the Communications & Web Services Division at the Pension Benefit Guaranty Corporation. He and his team handle PBGC’s .gov site, intranet, graphic design, and video.'
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

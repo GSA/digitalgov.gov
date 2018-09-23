@@ -12,6 +12,12 @@ uid: candace-maynard
 email: ""
 bio: Senior Program Manager in the National Cancer Institute’s Cancer Information Service
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

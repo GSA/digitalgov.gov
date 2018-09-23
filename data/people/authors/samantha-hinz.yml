@@ -11,6 +11,13 @@ last_name: Hinz
 uid: samantha-hinz
 email: hinzso@state.gov
 bio: Samantha Hinz is a Program Analyst at the Department of State.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

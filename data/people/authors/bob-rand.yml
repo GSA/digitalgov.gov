@@ -12,6 +12,12 @@ uid: bob-rand
 email: RandR@sec.gov
 bio: Bob Rand has been a web developer at the U.S. Securities and Exchange Commission since 2001. He enjoys learning new open source technologies that lend themselves to integration into existing work processes with minimal effort. He is interested in supporting innovation in the federal workspace, especially bottom-up entrepreneurial efforts.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

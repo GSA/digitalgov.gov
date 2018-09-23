@@ -12,6 +12,12 @@ uid: katie-chan
 email: katie.chan@nih.gov
 bio: 'Katie Chan is a librarian at the National Library of Medicine. She works on web analytics and site search for the National Library of Medicine’s website. .'
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

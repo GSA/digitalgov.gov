@@ -12,6 +12,12 @@ uid: angela-bell
 email: angela.r.bell@census.gov
 bio: ' Angela Bell is the Assistant Division Chief for IT Methodologies and Shared Services in the Information Systems Support and Review Office (ISSRO), IT Directorate at the US Census Bureau.'
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

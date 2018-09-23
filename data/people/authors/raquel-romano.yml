@@ -12,6 +12,12 @@ uid: raquel-romano
 email: Allison.Lantero@Hq.Doe.Gov
 bio: "Raquel Romano is a software engineer working with the Digital Service at the Veterans Affairs team."
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 quote: ""

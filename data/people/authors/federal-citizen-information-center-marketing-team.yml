@@ -12,6 +12,12 @@ uid: federal-citizen-information-center-marketing-team
 email: "usapartnerships@gsa.gov"
 bio: 'Jacqueline Snee and Jessica Milcetich, USA.gov Outreach Team: Jacqueline Snee works on partnership development and Jessica Milcetich is a digital media strategist on the USA.gov Outreach Team.'
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

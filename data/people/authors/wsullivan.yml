@@ -11,6 +11,13 @@ last_name: Sullivan
 uid: wsullivan
 email: william.sullivan@gsa.gov
 bio: 
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

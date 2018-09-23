@@ -12,6 +12,12 @@ uid: melodee-mercer
 email: melodee.mercer@va.gov
 bio: Melodee Mercer is the Public Affairs Officer for the VA Insurance Center. She can be reached at melodee.mercer@va.gov.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

@@ -4,7 +4,7 @@ first_name    : Christopher
 last_name     : Bernstein
 email         :
 website       :
-bio           : Christopher Bernstein is part of the Food Safety Education Staff in the Food Safety and Inspection Service at USDA.
+bio           : 'Christopher Bernstein is part of the Food Safety Education Staff in the Food Safety and Inspection Service at USDA.'
 location      :
 quote         :
 github        :
@@ -12,3 +12,11 @@ twitter       :
 youtube       :
 facebook      :
 linkedin      :
+  
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
+# Tell us where you live and work

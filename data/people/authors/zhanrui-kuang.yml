@@ -11,6 +11,13 @@ last_name: Kuang
 uid: zhanrui-kuang
 email: zhanrui.kuang@gsa.gov
 bio: Zhanrui Kuang is part of the Social and Behavioral Sciences Team at GSA.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

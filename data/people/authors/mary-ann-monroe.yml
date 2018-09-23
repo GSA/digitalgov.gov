@@ -12,6 +12,12 @@ uid: mary-ann-monroe
 email: maryann.monroe@gsa.gov
 bio: Director of Customer Experience, Federal Citizen Information Center, Office of Citizen Services and Innovative Technologies, U.S. General Services Administration
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

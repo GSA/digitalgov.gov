@@ -12,6 +12,12 @@ uid: leonard-sipes
 email: Leonard.Sipes@csosa.gov
 bio: Leonard Sipes is a Senior Public Affairs Specialist for a federal criminal justice agency in Washington, D.C. His personal email address is leonardsipes@gmail.com.
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
 

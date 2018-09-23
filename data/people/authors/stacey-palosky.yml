@@ -11,6 +11,13 @@ last_name: Palosky
 uid: stacey-palosky
 email: ""
 bio: Stacey Palosky is the Campaigns Digital Director for FDA’s Center for Tobacco Products..
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 
