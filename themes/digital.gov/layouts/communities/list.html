@@ -1,13 +1,13 @@
 {{ define "content" }}
 
-<article class="guide">
+<article class="list">
 
   <header class="margin-bottom-5">
     <div class="grid-container padding-x-2">
       <div class="grid-row margin-y-4">
         <div class="grid-col">
           <div class="head">
-            <h1 class="font-sans-3xl text-heavy margin-top-0 margin-bottom-1">{{ .Title | markdownify }}</h1>
+            <h1 class="margin-top-0 margin-bottom-1">{{ .Title | markdownify }}</h1>
             {{- if .Params.deck -}}
             <div class="deck font-sans-xl text-light">{{- .Params.deck -}}</div>
             {{- end -}}

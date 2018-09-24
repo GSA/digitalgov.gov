@@ -14,6 +14,7 @@ header#header{
 		@include u-margin(0);
 		@include u-font('sans', 'xl');
 		@include u-line-height('sans', 2);
+		@include u-display('inline-block');
 		a{
 			color:#000;
 			@include u-text('no-underline');
@@ -21,6 +22,25 @@ header#header{
 		img{
 			width: 200px;
 		}
+	}
+
+	#explore{
+		a{
+			@include u-padding-y(1);
+			@include u-padding-left(1);
+			@include u-padding-right(2);
+			border: 2px #000 solid;
+			@include u-text('no-underline');
+			@include u-font('sans', 'md');
+			@include u-text('semibold');
+			span{
+				@include u-font('sans', 'xl');
+				position: relative;
+				top:2px;
+			}
+		}
+
+
 	}
 
 	// Main Navigation
@@ -35,15 +55,18 @@ header#header{
 		@include u-minh(7);
 
 		@include u-text('bold');
+		@include u-text('right');
 
 		// tablet and smaller
 		@include u-flex('align-start');
 		@include u-flex('justify-start');
+		display: none;
 		// tablet-lg and above
 		@include at-media('tablet-lg') {
 			@include u-margin-top(0);
 			@include u-flex('align-start');
 			@include u-flex('justify-end');
+			display: block;
 		}
 
 		ul{

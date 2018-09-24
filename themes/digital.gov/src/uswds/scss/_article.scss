@@ -11,6 +11,12 @@ article{
 			@include u-text('heavy');
 			@include u-line-height('sans', 2);
 		}
+		@include at-media('tablet') {
+			h1{
+				@include u-font('sans', '3xl');
+				@include u-line-height('sans', 2);
+			}
+		}
 		.deck{
 			@include u-font('sans', 'xl');
 			@include u-text('light');

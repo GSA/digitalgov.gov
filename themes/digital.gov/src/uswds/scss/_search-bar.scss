@@ -4,11 +4,13 @@
 	@include u-maxw('tablet');
 	@include u-height('full');
 	@include u-width('full');
+	@include u-margin-top(3);
 	// tablet and smaller
 	@include u-flex('align-start');
 	@include u-flex('justify-start');
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
+		@include u-margin-top(0);
 		max-width: 53rem;
 		@include u-float('right');
 		@include u-flex('align-start');
