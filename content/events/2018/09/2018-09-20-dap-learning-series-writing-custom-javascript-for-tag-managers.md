@@ -12,7 +12,7 @@ end_date: 2018-09-20 15:00:00 -0400
 event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-writing-custom-javascript-for-tag-managers-registration-42564562753
-youtube_id: 8HZYe8RENWk
+youtube_id: iKBCY7tfxSY
 aliases:
   - /event/dap-learning-series-writing-custom-javascript-for-tag-managers
 ---
