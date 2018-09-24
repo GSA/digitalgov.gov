@@ -1,7 +1,7 @@
 ---
 slug: gsa-future-services-now-emerging-tech-for-government-services
 title: 'GSA Future Services Now&#58; Emerging Tech for Government Services'
-summary: 'A half-day symposium on Emerging technologies with leading agencies, industry, and civic collaborators.'
+summary: 'A half-day symposium on emerging technologies with leading agencies, industry, and civic collaborators.'
 featured_image:
   uid:
   alt: ''
