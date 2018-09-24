@@ -41,7 +41,7 @@ During the symposium, you’ll receive hands-on, eyes-on, and voice-on experienc
 
 We are still accepting programming proposals, so, if you have an emerging technology solution in one of the identified tracks that has been used by a federal agency that you would like to showcase, please email us at [emergingtech@gsa.gov](mailto:emergingtech@gsa.gov).
 
-_Presenters and final agenda to be announced. _
+_Presenters and final agenda to be announced._
 
 ## What You Will Learn
 
