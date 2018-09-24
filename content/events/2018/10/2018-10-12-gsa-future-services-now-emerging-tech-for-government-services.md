@@ -28,7 +28,7 @@ The [U.S. General Services Administration’s Emerging Citizen Technology Office
 
 Emerging technologies don’t just hold the potential to impact how government delivers services, it is already changing how we manage data-driven decision-making, customer service, and more. To realize emerging technology’s full potential, we must better understand current applications and real-world implications beyond the hype.
 
-During the symposium, you’ll receive hands-on, eyes-on, and voice-on experience with technological services that may seem futuristic, but have already been successfully prototyped, piloted, or deployed. No visionary panels or aspirational speeches here—we’re delivering functional instruction, practical application, and lessons learned from the experts who have “been there, done that,” and can help you to do the same.
+During the symposium, you’ll receive hands-on, eyes-on, and voice-on experience with technological services that may seem like public services of tomorrow, but have already been successfully prototyped, piloted, or deployed. No visionary panels or aspirational speeches here—we’re delivering functional instruction, practical application, and lessons learned from the experts who have “been there, done that,” and can help you to do the same.
 
 ## Sessions will include:
 
