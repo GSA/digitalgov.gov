@@ -48,7 +48,9 @@
               </a>
             </h5>
 
-            <p>{{- if $author.agency -}}{{- $author.agency -}}&nbsp;|&nbsp;{{- end -}} {{- if $author.location -}}{{- $author.location -}}{{- end -}}</p>
+            {{- if $author.agency -}}
+            <p>{{- $author.agency -}}{{- if $author.location -}}&nbsp;|&nbsp;{{- $author.location -}}{{- end -}}</p>
+            {{- end -}}
 
           </div>
         </div>

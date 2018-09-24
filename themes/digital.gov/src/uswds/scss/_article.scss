@@ -15,16 +15,17 @@ article{
 			@include u-font('sans', 'xl');
 			@include u-text('light');
 		}
-		.date{
-			@include u-margin-top(3);
-			@include u-font('sans', 'md');
-			a{
-				color: #71767a; // $gray-cool-50
-				@include u-text('no-underline');
-			}
-			a:hover{
-				border-bottom: 2px #8889db solid; // $indigo-40
-			}
+	}
+
+	.date{
+		@include u-margin-top(3);
+		@include u-font('sans', 'xs');
+		a{
+			color: #71767a; // $gray-cool-50
+			@include u-text('no-underline');
+		}
+		a:hover{
+			border-bottom: 2px #8889db solid; // $indigo-40
 		}
 	}
 

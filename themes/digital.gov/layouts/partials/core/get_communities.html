@@ -1,0 +1,29 @@
+{{/*
+  ======================================
+  AUTHORS
+  ======================================
+*/}}
+
+{{- if (not (isset .Params "communities")) | or (eq .Params.communities "") -}}
+{{- else -}}
+  <div class="related_communities">
+    <h5><i class="fas fa-comments"></i> Join a Community</h5>
+    {{/* get the authors  */}}
+    {{- $_communities := .Params.communities -}}
+
+    <ul>
+    {{- range $i, $e := $_communities -}}
+
+      {{/* If the community name was entered as a display name (i.e. - "Social Media Community") then this will turn that text into a UID for use in a URL. */}}
+      {{- $uid := $e | urlize -}}
+
+      {{- with $.Site.GetPage "page" $uid -}}
+        {{/* {{ .Params.title }} */}}
+        <li class="community "><a href="{{ (printf "communities/%s/" $uid) | absURL }} " title="{{ .Title  }} " rel="community">{{ .Title | default $uid }}</a></li>
+      {{ end }}
+
+    {{- end -}}
+
+    </ul>
+  </div>
+{{- end -}}

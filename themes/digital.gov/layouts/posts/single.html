@@ -16,11 +16,6 @@
         <div class="deck">{{- .Params.deck -}}</div>
         {{- end -}}
 
-        {{/* Date */}}
-        <div class="date">
-          <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "January _2, 2006" -}} </a>
-        </div>
-
       </div>
     </header>
 
@@ -31,36 +26,20 @@
         {{/* Authors */}}
         {{- partial "core/get_authors" . -}}
 
+        {{/* Date */}}
+        <div class="date">
+          <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2, 2006" -}} </a>
+        </div>
+
         {{/* Last updated */}}
         {{/* {{- partial "last-updated" . -}}  */}}
 
         {{/* Topics */}}
-        {{- $sitetags := $.Site.Data.tag -}}
-        {{- if (not (isset .Params "tag")) | or (eq .Params.tag "") -}}
-        {{- else -}}
-        <div class="topics">
-          <h5>Topics</h5>
-          <p>
-            {{- $_taxonomy := sort .Params.tag -}}
-            {{- $length := $_taxonomy | len -}}
+        {{- partial "core/get_topics" . -}}
 
-            {{- range $i, $e := $_taxonomy -}}
+        {{/* Related Communities */}}
+        {{- partial "core/get_communities" . -}}
 
-              {{- $slug := $e | urlize -}}
-              {{- $tag := index $sitetags $slug -}}
-              {{- $link := printf "tag/%s/" $slug -}}
-
-              {{- if lt (add $i 1) $length -}}
-                <a href="{{- $link | absURL -}} " rel="tag">{{- if $tag -}}{{- $tag.display_name -}}{{- else -}}{{- $slug -}}{{- end -}}</a>,
-              {{ else }}
-                <a href="{{- $link | absURL -}} " rel="tag">{{- if $tag -}}{{- $tag.display_name -}}{{- else -}}{{- $slug -}}{{- end -}}</a>
-              {{- end -}}
-
-            {{- end -}}
-          </p>
-        </div>
-
-        {{- end -}}
       </div>
 
       <div class="grid-col-9">
