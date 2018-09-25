@@ -37,8 +37,6 @@ During the symposium, you’ll receive hands-on, eyes-on, and voice-on experienc
 - Partnerships and Collaboration, including  Academic and Civil Society Outreach, Startup Accelerators and Public/Private Partnerships
 - Hands-on Demos and virtual experiences
 
-**Space is limited to only 200 participants.** On the registration page, you will be asked to identify the session you are interested in the most so we can better tailor the symposium experience.
-
 We are still accepting programming proposals, so, if you have an emerging technology solution in one of the identified tracks that has been used by a federal agency that you would like to showcase, please email us at [emergingtech@gsa.gov](mailto:emergingtech@gsa.gov).
 
 _Presenters and final agenda to be announced._
