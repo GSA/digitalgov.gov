@@ -7,6 +7,7 @@
     header{
       h2{
         @include u-margin(0);
+        @include u-margin-bottom(2);
         @include u-font('sans', 'xl');
         @include u-text('light');
         a{
@@ -107,8 +108,5 @@
         @include u-text('bold');
       }
     }
-
   }
-
-
 }

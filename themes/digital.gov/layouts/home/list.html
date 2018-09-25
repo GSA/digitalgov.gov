@@ -31,8 +31,8 @@
           <header>
             <h2><a href="#" title="Topics">Topics</a></h2>
           </header>
-          <div class="grid-row grid-gap-lg padding-y-1">
-            {{- range .Site.Data.topicsfeatured.topicsfeatured -}}
+          <div class="grid-row grid-gap-lg">
+            {{- range .Site.Data.topicsfeatured.toptopics -}}
             <div class="grid-col-12 tablet:grid-col-6 flex-6">
               <div class="topic topic-slim">
                 <h3>
@@ -45,18 +45,20 @@
         </section>
 
         {{/* Newsletter */}}
-        <section>
+        <section id="newsletter">
           <header>
             <h2>Sign up. Stay Connected.</h2>
           </header>
           <div class="grid-row grid-gap-4">
-            <div class="grid-col-6">
-              <form class="" action="index.html" method="post">
-                <input type="text" name="" value="">
-              </form>
+            <div class="grid-col-5">
+              <p class="blurb">Each week, we round-up the digital work happening in the government community and across our field.</p>
             </div>
-            <div class="grid-col-6">
-              <p>Copy goes here.</p>
+            <div class="grid-col-7">
+              <form class="display-flex" action="index.html" method="post">
+                <input type="text" name="" value="" placeholder="Enter your email address">
+                <button type="submit"><img src="{{ "img/love-letter.png" | absURL }}" alt="Search"></button>
+              </form>
+              <p class="info">~avg of 1 email per week</p>
             </div>
           </div>
 

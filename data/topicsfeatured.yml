@@ -1,5 +1,46 @@
 # Featured Topics
 
+toptopics:
+
+  - name            : "Accessibility"
+    slug            : "accessibility"
+    url             : "/categories/accessibility/"
+
+  - name            : "Crowdsourcing"
+    slug            : "crowdsourcing-and-citizen-science"
+    url             : "/categories/crowdsourcing-and-citizen-science/"
+
+  - name            : "Code"
+    slug            : "code"
+    url             : "/categories/code/"
+
+  - name            : "Content"
+    slug            : "content"
+    url             : "/categories/content/"
+
+  - name            : "Design"
+    slug            : "design"
+    url             : "/categories/design/"
+
+  - name            : "Metrics"
+    slug            : "resources"
+    url             : "/categories/metrics/"
+
+  - name            : "Mobile"
+    slug            : "mobile"
+    url             : "/categories/mobile/"
+
+  - name            : "Social media"
+    slug            : "social-media"
+    url             : "/categories/social-media/"
+
+  - name            : "Strategy"
+    slug            : "governance"
+    url             : "/categories/strategy-and-policy/"
+
+  - name            : "User Experience"
+    slug            : "user-experience"
+    url             : "/categories/ux/"
 
 topicsfeatured:
 
