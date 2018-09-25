@@ -1,0 +1,184 @@
+{{- define "content" -}}
+
+<main role="main" id="home">
+  <div class="grid-container padding-x-2">
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12">
+
+        <section id="spotlight2">
+          <div class="grid-row grid-gap-2">
+            {{- $posts := where .Data.Pages "Section" "posts" -}}
+
+            {{/* Stream of Spots */}}
+            <div class="grid-col-4">
+              <section class="stream">
+                <header>
+                  <h2>Spotlight</h2>
+                  <p>A round-up of relevant news and resources from across our community</p>
+                </header>
+                {{- range first 5 $posts -}}
+
+                <article class="spot">
+                  <p><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><strong>{{- .Title | markdownify -}}</strong></a> — {{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
+                </article>
+
+                {{- end -}}
+              </section>
+            </div>
+
+            {{/* Featured Blog Posts */}}
+            <div class="grid-col-8">
+              <section class="featured">
+                {{- range first 4 $posts -}}
+
+                <article class="display-flex">
+                  <header>
+                    <h3><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><strong>{{- .Title | markdownify -}}</strong></a></h3>
+                    <p>{{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
+                  </header>
+                  <div class="media width-card-lg minw-15">
+                    <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
+                      {{ partial "img-featured--home.html" . }}
+                    </a>
+                  </div>
+                </article>
+                {{- end -}}
+              </section>
+            </div>
+
+          </div>
+        </section>
+
+
+        {{/* Topics */}}
+        <section>
+          <header>
+            <h2><a href="#" title="Topics">Topics</a></h2>
+          </header>
+          <div class="grid-row grid-gap-lg">
+            {{- range .Site.Data.topicsfeatured.toptopics -}}
+            <div class="grid-col-12 tablet:grid-col-4 flex-6">
+              <div class="topic topic-slim">
+                <h3>
+                  <a class="text-no-underline text-ink" href="{{- .url | absURL -}}" title="{{- .name -}}">{{- .name -}}</a>
+                </h3>
+              </div>
+            </div>
+            {{- end -}}
+          </div>
+        </section>
+
+        {{/* Newsletter */}}
+        <section id="newsletter">
+          <header>
+            <h2>Sign up. Stay Connected.</h2>
+          </header>
+          <div class="grid-row grid-gap-4">
+            <div class="grid-col-5">
+              <p class="blurb">Each week, we round-up the digital work happening in the government community and across our field.</p>
+            </div>
+            <div class="grid-col-7">
+              <form class="display-flex" action="index.html" method="post">
+                <input type="text" name="" value="" placeholder="Enter your email address">
+                <button type="submit"><img src="{{ "img/love-letter.png" | absURL }}" alt="Search"></button>
+              </form>
+              <p class="info">~avg of 1 email per week</p>
+            </div>
+          </div>
+
+        </section>
+
+        {{/* Training & Events */}}
+        <section>
+          <header>
+            <h2>Training & Events</h2>
+          </header>
+          <div class="grid-row grid-gap-2">
+            <div class="grid-col-7">
+              {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
+              {{- range $events -}}
+                {{- $now := now.Format "2006-01-02" -}}
+                {{- $start := .Date.Format "2006-01-02" -}}
+                {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
+
+                {{- if or (ge $start $now) (ge $end $now)}}
+                <article class="featured_event">
+                  <div class="grid-row grid-gap-2">
+                    <div class="grid-col-3">
+                      <div class="date">
+                        <span class="month">{{- .Date.Format "Jan" -}}</span>
+                        <span class="day">{{- .Date.Format "02" -}}</span>
+                      </div>
+                      <div class="register">
+                        <a href="#">Register</a>
+                      </div>
+                    </div>
+                    <div class="grid-col-9">
+                      <header>
+                        <h3><a href="{{- .URL -}}" title="{{- .Title | markdownify -}}" rel="bookmark">{{- .Title | markdownify -}}</a></h3>
+                        <p>{{- .Params.summary -}}</p>
+                      </header>
+                    </div>
+                  </div>
+                </article>
+                {{- end -}}
+
+              {{- end -}}
+            </div>
+            <div class="grid-col-5">
+
+
+              <div class="events-table">
+                <h4>Upcomming Events</h4>
+                <table class="events-table">
+                  {{- range $events -}}
+                    {{- $now := now.Format "2006-01-02" -}}
+                    {{- $start := .Date.Format "2006-01-02" -}}
+                    {{- $.Scratch.Set "displaytitle" (printf "%s " .Title) -}}
+                    {{- if .Params.End_date -}}
+                      {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
+                      {{- if or (ge $start $now) (ge $end $now)}}
+                      <tr>
+                        <td class="date"><span>{{- dateFormat "01/02" .Date -}}</span></td>
+                        <td class="title"><a href="{{- .URL -}}" title="{{- $.Scratch.Get "displaytitle" -}}" rel="bookmark">{{- $.Scratch.Get "displaytitle" | markdownify -}}</a></td>
+                      </tr>
+                      {{- end -}}
+
+                    {{- else if ge $start $now -}}
+                    <tr>
+                      <td><span class="event-date">{{- dateFormat "January 02, 3:04 PM" .Date -}} - {{- dateFormat "3:04 PM ET" .Params.end_date -}}</span></td>
+                      <td><a href="{{- .URL -}}" title="{{- $.Scratch.Get "displaytitle" -}}" rel="bookmark">{{- $.Scratch.Get "displaytitle" | markdownify -}}</a></td>
+                    </tr>
+                    {{- end -}}
+                  {{- end -}}
+                </table>
+              </div>
+
+
+            </div>
+          </div>
+        </section>
+
+        {{/* Communities */}}
+        <section>
+          <header>
+            <h2>Join a Community</h2>
+          </header>
+          <div class="grid-row grid-gap-4">
+            <div class="grid-col-6">
+              <p>Copy goes here.</p>
+            </div>
+            <div class="grid-col-6">
+              <h3>Community Name</h3>
+              <h3>Community Name</h3>
+            </div>
+          </div>
+        </section>
+
+
+      </div>
+    </div>
+  </div>
+</main>
+
+{{- end -}}
