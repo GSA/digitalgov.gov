@@ -1,66 +1,67 @@
 {{- define "content" -}}
 
+<main role="main" id="post">
+  <article>
+    <div class="grid-container padding-x-2">
 
-<article class="post">
-  <div class="grid-container padding-x-2">
+      {{/* header */}}
+      <header class="grid-row">
+        <div class="grid-col-12">
 
-    {{/* header */}}
-    <header class="grid-row">
-      <div class="grid-col-12">
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
 
-        {{/* Page Title */}}
-        <h1>{{- .Title | markdownify -}} </h1>
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck -}}</div>
+          {{- end -}}
 
-        {{/* Deck */}}
-        {{- if .Params.deck -}}
-        <div class="deck">{{- .Params.deck -}}</div>
-        {{- end -}}
-
-      </div>
-    </header>
+        </div>
+      </header>
 
 
-    <div class="grid-row margin-y-2 grid-gap-4">
-      <div class="grid-col-3">
+      <div class="grid-row margin-y-2 grid-gap-4">
+        <div class="grid-col-3">
 
-        {{/* Authors */}}
-        {{- partial "core/get_authors" . -}}
+          {{/* Authors */}}
+          {{- partial "core/get_authors" . -}}
 
-        {{/* Date */}}
-        <div class="date">
-          <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2, 2006" -}} </a>
+          {{/* Date */}}
+          <div class="date">
+            <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2, 2006" -}} </a>
+          </div>
+
+          {{/* Last updated */}}
+          {{/* {{- partial "last-updated" . -}}  */}}
+
+          {{/* Topics */}}
+          {{- partial "core/get_topics" . -}}
+
+          {{/* Related Communities */}}
+          {{- partial "core/get_communities" . -}}
+
         </div>
 
-        {{/* Last updated */}}
-        {{/* {{- partial "last-updated" . -}}  */}}
+        <div class="grid-col-9">
 
-        {{/* Topics */}}
-        {{- partial "core/get_topics" . -}}
+          {{/* Content */}}
+          <div class="content font-sans-lg">
+            {{- .Content -}}
+          </div>
 
-        {{/* Related Communities */}}
-        {{- partial "core/get_communities" . -}}
+          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+          <div class="addthis_inline_share_toolbox"></div>
+          {{- partial "post-meta--related-posts" . -}}
+          {{- partial "post-meta--tag-list" . -}}
 
-      </div>
-
-      <div class="grid-col-9">
-
-        {{/* Content */}}
-        <div class="content font-sans-lg">
-          {{- .Content -}}
         </div>
-
-        <!-- Go to www.addthis.com/dashboard to customize your tools -->
-        <div class="addthis_inline_share_toolbox"></div>
-        {{- partial "post-meta--related-posts" . -}}
-        {{- partial "post-meta--tag-list" . -}}
-
       </div>
     </div>
-  </div>
 
-  {{- partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) -}}
+    {{- partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) -}}
 
-</article>
+  </article>
+</main>
 
   {{- partial "core/overlay" . -}}
 

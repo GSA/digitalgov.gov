@@ -28,8 +28,8 @@
           {{/* If $current_url is NOT equal to the URL, then print the page */}}
           {{ if not (eq $current_url $e.URL) }}
           <div class="grid-col-12 tablet:grid-col-6 flex-6">
-            <div class="bg-indigo-10 padding-2 radius-md margin-bottom-2">
-              <h3 class="margin-0">
+            <div class="topic">
+              <h3>
                 <a class="text-no-underline text-ink" href="{{ $e.Permalink }}" title="{{$e.Title}}">{{$e.Title}}</a>
               </h3>
             </div>

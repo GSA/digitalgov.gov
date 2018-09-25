@@ -1,0 +1,47 @@
+// spotlight
+
+#home #spotlight{
+  @include u-bg('indigo-80');
+  @include u-bg('gray-warm-3');
+  @include u-padding(1);
+  header{
+    @include u-margin-y(2);
+    color: #3d4076;
+    h2{
+      @include u-margin-bottom('105');
+      @include u-font('sans', 'xl');
+      @include u-text('thin');
+      @include u-text('center');
+      @include u-line-height('sans', 2);
+      a{
+        @include u-text('no-underline');
+        color: #000;
+        &:hover{
+          border-bottom: 2px #914734 solid; // $indigo-40
+        }
+      }
+    }
+    p{
+      @include u-margin(0);
+      @include u-text('center');
+      @include u-text('normal');
+      @include u-font('sans', '3xs');
+      @include u-line-height('sans', 3);
+    }
+  }
+  article{
+    @include u-margin-bottom(1);
+    @include u-font('sans', '2xs');
+    @include u-bg('indigo-5');
+    @include u-padding(1);
+    p{
+      @include u-line-height('sans', 3);
+      a{
+        @include u-text('no-underline');
+        strong{
+          @include u-text('bold');
+        }
+      }
+    }
+  }
+}

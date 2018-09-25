@@ -1,27 +1,28 @@
 {{ define "content" }}
 
-<article class="guide">
+<main role="main" id="post">
+  <article>
 
 
-  <header class="margin-bottom-5">
-    <div class="grid-container padding-x-2">
-      <div class="grid-row margin-y-4">
-        <div class="grid-col">
-          <div class="head">
-            {{/* The Parent Guide */}}
-            <h5 class="guide-title"><a class="text-no-underline hover:text-underline" href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h5>
-            {{/* Page Title */}}
-            <h1 class="font-sans-2xl text-heavy margin-y-0">{{ .Title | markdownify }}</h1>
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck font-sans-xl text-light">{{- .Params.deck -}}</div>
-            {{- end -}}
-            {{/* {{ partial "last-updated" . }} */}}
+    <header class="margin-bottom-5">
+      <div class="grid-container padding-x-2">
+        <div class="grid-row margin-y-4">
+          <div class="grid-col">
+            <div class="head">
+              {{/* The Parent Guide */}}
+              <h5 class="guide-title"><a class="text-no-underline hover:text-underline" href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h5>
+              {{/* Page Title */}}
+              <h1 class="font-sans-2xl text-heavy margin-y-0">{{ .Title | markdownify }}</h1>
+              {{/* Deck */}}
+              {{- if .Params.deck -}}
+              <div class="deck font-sans-xl text-light">{{- .Params.deck -}}</div>
+              {{- end -}}
+              {{/* {{ partial "last-updated" . }} */}}
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </header>
+    </header>
 
   <section>
     <div class="grid-container padding-x-2 margin-bottom-8">
@@ -44,6 +45,7 @@
   {{ partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
 
 </article>
+</main>
 
   {{ partial "core/overlay" . }}
 
