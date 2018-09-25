@@ -1,4 +1,4 @@
-{{ define "content" }}
+{{- define "content" -}}
 
 <main role="main" id="home">
   <div class="grid-container padding-x-2">
@@ -12,14 +12,14 @@
             <p>A round-up of relevant news and resources from across our community</p>
           </header>
 
-          {{ $section := where .Data.Pages "Section" "posts" }}
-          {{ range first 8 $section }}
+          {{- $section := where .Data.Pages "Section" "posts" -}}
+          {{- range first 8 $section -}}
 
           <article class="spot">
-            <p><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}"><strong>{{ .Title | markdownify }}</strong></a> — {{ .Params.summary | default .Summary | safeHTML | markdownify  }}</p>
+            <p><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><strong>{{- .Title | markdownify -}}</strong></a> — {{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
           </article>
 
-          {{ end }}
+          {{- end -}}
 
         </section>
 
@@ -32,15 +32,15 @@
             <h2><a href="#" title="Topics">Topics</a></h2>
           </header>
           <div class="grid-row grid-gap-lg padding-y-1">
-            {{ range .Site.Data.topicsfeatured.topicsfeatured }}
+            {{- range .Site.Data.topicsfeatured.topicsfeatured -}}
             <div class="grid-col-12 tablet:grid-col-6 flex-6">
               <div class="topic topic-slim">
                 <h3>
-                  <a class="text-no-underline text-ink" href="{{ .url | absURL }}" title="{{ .name }}">{{ .name }}</a>
+                  <a class="text-no-underline text-ink" href="{{- .url | absURL -}}" title="{{- .name -}}">{{- .name -}}</a>
                 </h3>
               </div>
             </div>
-            {{ end }}
+            {{- end -}}
           </div>
         </section>
 
@@ -67,9 +67,37 @@
           <header>
             <h2>Training & Events</h2>
           </header>
-          <div class="grid-row grid-gap-4">
+          <div class="grid-row grid-gap-2">
             <div class="grid-col-7">
-              <p>Copy goes here.</p>
+              {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
+              {{- range $events -}}
+                {{- $now := now.Format "2006-01-02" -}}
+                {{- $start := .Date.Format "2006-01-02" -}}
+                {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
+
+                {{- if or (ge $start $now) (ge $end $now)}}
+                <article class="featured_event">
+                  <div class="grid-row grid-gap-2">
+                    <div class="grid-col-3">
+                      <div class="date">
+                        <span class="month">{{- .Date.Format "Jan" -}}</span>
+                        <span class="day">{{- .Date.Format "02" -}}</span>
+                      </div>
+                      <div class="register">
+                        <a href="#">Register</a>
+                      </div>
+                    </div>
+                    <div class="grid-col-9">
+                      <header>
+                        <h3><a href="{{- .URL -}}" title="{{- .Title | markdownify -}}" rel="bookmark">{{- .Title | markdownify -}}</a></h3>
+                        <p>{{- .Params.summary -}}</p>
+                      </header>
+                    </div>
+                  </div>
+                </article>
+                {{- end -}}
+
+              {{- end -}}
             </div>
             <div class="grid-col-5">
 
@@ -77,26 +105,26 @@
               <div class="events-table">
                 <h4>Upcomming Events</h4>
                 <table class="events-table">
-                  {{ range .Data.Pages.Reverse }}
-                  {{ $now := now.Format "2006-01-02" }}
-                  {{ $start := .Date.Format "2006-01-02"  }}
-                  {{ $.Scratch.Set "displaytitle" (printf "%s " .Title) }}
-                  {{ if .Params.End_date }}
-                    {{ $end := dateFormat "2006-01-02" .Params.End_date }}
-                    {{ if or (ge $start $now) (ge $end $now)}}
-                    <tr>
-                      <td class="date"><span>{{ dateFormat "01/02" .Date }}</span></td>
-                      <td class="title"><a href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" | markdownify }}</a></td>
-                    </tr>
-                    {{ end }}
+                  {{- range $events -}}
+                    {{- $now := now.Format "2006-01-02" -}}
+                    {{- $start := .Date.Format "2006-01-02" -}}
+                    {{- $.Scratch.Set "displaytitle" (printf "%s " .Title) -}}
+                    {{- if .Params.End_date -}}
+                      {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
+                      {{- if or (ge $start $now) (ge $end $now)}}
+                      <tr>
+                        <td class="date"><span>{{- dateFormat "01/02" .Date -}}</span></td>
+                        <td class="title"><a href="{{- .URL -}}" title="{{- $.Scratch.Get "displaytitle" -}}" rel="bookmark">{{- $.Scratch.Get "displaytitle" | markdownify -}}</a></td>
+                      </tr>
+                      {{- end -}}
 
-                    {{ else if ge $start $now }}
+                    {{- else if ge $start $now -}}
                     <tr>
-                      <td><span class="event-date">{{ dateFormat "January 02, 3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</span></td>
-                      <td><a href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" | markdownify }}</a></td>
+                      <td><span class="event-date">{{- dateFormat "January 02, 3:04 PM" .Date -}} - {{- dateFormat "3:04 PM ET" .Params.end_date -}}</span></td>
+                      <td><a href="{{- .URL -}}" title="{{- $.Scratch.Get "displaytitle" -}}" rel="bookmark">{{- $.Scratch.Get "displaytitle" | markdownify -}}</a></td>
                     </tr>
-                    {{ end }}
-                  {{ end }}
+                    {{- end -}}
+                  {{- end -}}
                 </table>
               </div>
 
@@ -115,10 +143,8 @@
               <p>Copy goes here.</p>
             </div>
             <div class="grid-col-6">
-              <h3>Event title | date</h3>
-              <h3>Event title | date</h3>
-              <h3>Event title | date</h3>
-              <h3>Event title | date</h3>
+              <h3>Community Name</h3>
+              <h3>Community Name</h3>
             </div>
           </div>
         </section>
@@ -129,4 +155,4 @@
   </div>
 </main>
 
-{{ end }}
+{{- end -}}
