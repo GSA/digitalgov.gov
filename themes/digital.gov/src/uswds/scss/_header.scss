@@ -7,7 +7,7 @@ header#header{
 		@include u-padding-y(4);
 		@include u-padding-bottom(5);
 	}
-	@include u-bg('indigo-cool-5');
+	// @include u-bg('indigo-cool-30');
 
 	// Logo
 	.logo{
@@ -20,7 +20,7 @@ header#header{
 			@include u-text('no-underline');
 		}
 		img{
-			width: 200px;
+			width: 165px;
 		}
 	}
 
@@ -39,14 +39,17 @@ header#header{
 				top:2px;
 			}
 		}
-
-
+	}
+	@include at-media('tablet') {
+		#explore{
+			display: none;
+		}
 	}
 
 	// Main Navigation
 	nav{
 		@include u-margin-top(2);
-		padding: .6rem 3px .6rem 2px;
+		padding: .4rem 3px .4rem 2px;
 		// @include u-font('sans', 'md');
 		font-size: 2rem;
 		@include u-height('full');
@@ -60,13 +63,23 @@ header#header{
 		// tablet and smaller
 		@include u-flex('align-start');
 		@include u-flex('justify-start');
-		display: none;
+		@include u-display('none');
+
+		// tablet and above
+		@include at-media('mobile-lg') {
+		}
 		// tablet-lg and above
-		@include at-media('tablet-lg') {
+		@include at-media('tablet') {
 			@include u-margin-top(0);
 			@include u-flex('align-start');
+			@include u-flex('justify-start');
+			@include u-display('block');
+			@include u-text('left');
+		}
+		// tablet-lg and above
+		@include at-media('tablet-lg'){
+			@include u-text('right');
 			@include u-flex('justify-end');
-			display: block;
 		}
 
 		ul{
@@ -81,7 +94,7 @@ header#header{
 					@include u-text('no-underline');
 				}
 				a:hover{
-					border-bottom: 3px #656bd7 solid;
+					border-bottom: 3px #fc906d solid;
 				}
 			}
 			li:first-child{

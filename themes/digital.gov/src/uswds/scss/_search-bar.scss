@@ -8,9 +8,12 @@
 	// tablet and smaller
 	@include u-flex('align-start');
 	@include u-flex('justify-start');
+	// tablet and above
+	@include at-media('tablet') {
+		@include u-margin-top(0);
+	}
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
-		@include u-margin-top(0);
 		max-width: 53rem;
 		@include u-float('right');
 		@include u-flex('align-start');
@@ -20,10 +23,10 @@
 		@include u-width('full');
 		@include u-height(5);
 		@include u-font('sans', 'md');
-		@include u-text('thin');
+		@include u-text('light');
 		@include u-border(1px);
 		@include u-border-right(0);
-		@include u-padding-left(2);
+		@include u-padding-left('105');
 		// @include u-radius('sm');
 		border-radius: 2px 0 0 2px;
 

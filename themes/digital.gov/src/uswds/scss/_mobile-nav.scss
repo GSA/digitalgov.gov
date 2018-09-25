@@ -13,6 +13,9 @@
   color:#fff;
   overflow-y: scroll;
   display: none;
+  @include at-media('tablet'){
+    max-width: 320px;
+  }
 
 .nav_head{
   @include u-bg('indigo-90');
