@@ -15,6 +15,7 @@ var sourcemaps    = require('gulp-sourcemaps');
 var uncss         = require('postcss-uncss');
 var watch         = require('gulp-watch');
 var notify        = require("gulp-notify");
+var gutil         = require('gulp-util');
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // LOCATIONS
@@ -93,6 +94,7 @@ gulp.task('build-sass', function (done) {
     .pipe(notify({
       "sound": "Pop" // case sensitive
     }));
+
 });
 
 gulp.task('build-app', ['build-sass'], function() {

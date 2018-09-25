@@ -42,6 +42,7 @@
     "gulp-strip-css-comments": "^1.2.0",
     "gulp-tap": "^1.0.1",
     "gulp-uglify": "^3.0.1",
+    "gulp-util": "^3.0.8",
     "gulp-watch": "^4.3.11",
     "image-size": "^0.6.3",
     "merge-stream": "^1.0.1",
