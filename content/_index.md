@@ -1,6 +1,6 @@
 ---
 type: home
-layout: strips
+# layout: alt
 tag:
   - Digital
   - Government
