@@ -13,23 +13,19 @@ authors:
 
 The [Digital Analytics Program](https://digital.gov/services/dap/) (DAP) now offers the opportunity to become a DAP Certified Analyst. Prospective analysts must complete the DAP Certification Exam with a score of 80 percent or better. The exam is 50 questions and is multiple choice. Prospective analysts can take the exam more than once.
 
-In order to prevent the distribution of correct answers, the DAP team has opted not to send exam participants a question-by-question review. After taking the exam, the prospective analyst will receive only a score. If the score passes the exam, the analyst will be sent a certificate (via email) from the DAP team verifying the completion and passing grade.
+The exam is not intended to be easy, nor is it targeted at novice DAP/Google Analytics users. The DAP team hopes the exam can be used by prospective analysts in annual goals or individual development plans to demonstrate to supervisors that they maintain high-level of understanding of the program and Google Analytics.
 
 DAP Certified Analysts will also be added to the DAP-Certified-Analysts listserv designed for intermediate/advanced discussion of web analytics topics, including but not limited to implementation, advanced features, and custom configurations. Any new DAP Certified Analyst will also have the ability to opt-out of the listserv, if desired.
 
-Questions? Email [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov)
-
 ## The Exam
 
-The exam is not intended to be easy, nor is it targeted at novice DAP/Google Analytics users. The DAP team hopes the exam can be used by prospective analysts in annual goals or individual development plans to demonstrate to supervisors that they maintain high-level of understanding of the program and Google Analytics.
+**To request the link to take the exam, email us at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov?subject=DAP%20Certification%20Request) with the subject: "DAP Certification Exam Request".**
 
-**In order to become a DAP Certified Analyst, you must be a current DAP user.** DAP users are limited to federal employees and federal contractors with written approval from their federal supervisor. In order to receive your score, you will first be verified by the DAP team.
+In order to become a DAP Certified Analyst, you must be a current DAP user. DAP users are limited to federal employees and federal contractors with written approval from their federal supervisor. In order to receive the link for the exam, you will first be verified by the DAP team.
 
-{{< button href="https://docs.google.com/forms/d/e/1FAIpQLScx4140DIKQm6LD5lBUcpNY2FSM4HL85-tlCQbCVoiSPDr62Q/viewform" text="Launch the Exam" >}}
+The exam is offered via Google Forms. The DAP team understands that some agencies block Google Forms. If your agency blocks Google Forms, you can download and take the exam via a PDF version (which will be included in your email package from the team). The DAP team will accept either electronically- or manually-filled PDF exams by email only, at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov?subject=DAP%20Certification%20Request).
 
-The exam is offered via Google Forms. All prospective analysts should attempt to take the exam via the Google Form. The DAP team understands that some agencies block Google Forms. If your agency blocks Google Forms, you can download and take the exam via the PDF version. The DAP team will accept either electronically- or manually-filled PDF exams by email only, at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov).
-
-- [View and download the PDF version of the DAP Certification Exam](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/Certified_Analyst_Exam_PDF.pdf) (1.4 MB)
+In order to prevent the distribution of correct answers, the DAP team has opted not to send exam participants a question-by-question review. After taking the exam, the prospective analyst will receive only a score. If the score passes the exam, the analyst will be sent a certificate (via email) from the DAP team verifying the completion and passing grade.
 
 ## Study Materials
 

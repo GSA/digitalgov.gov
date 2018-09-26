@@ -1,0 +1,13 @@
+guidenav:
+  - title   : 'Overview'
+    slug    : '/guide/performance/'
+  - title   : 'Optimize JavaScript'
+    slug    : '/guide/performance/optimize-javascript/'
+  - title   : 'Optimize CSS'
+    slug    : '/guide/performance/optimize-css/'
+  - title   : 'Optimize Images'
+    slug    : '/guide/performance/optimize-images/'
+  - title   : 'Utilize Caching'
+    slug    : '/guide/performance/utilize-caching/'
+  - title   : 'Methodology'
+    slug    : '/guide/performance/methodology/'

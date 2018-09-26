@@ -4,7 +4,7 @@ date: 2016-02-10 4:06:01 -0400
 title: What is Content?
 summary: 'In this age of content marketing that has led publications to call certain ads &#8220;paid content,&#8221; those of us in government need to broaden our ideas about what &ldquo;content&rdquo; is. Many of us get it, but some agencies may also be missing opportunities because they don’t even grasp that content is a broad and fluid'
 authors:
-  - tymanuel
+  - tyrus-manuel
   - andreanocesigritz
 categories:
   - Content

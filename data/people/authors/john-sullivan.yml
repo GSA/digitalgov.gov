@@ -5,14 +5,21 @@
 #
 # Reach out to digitalgov@gsa.gov if you need assistance.
 
-display_name: Toni Bonitto
-first_name: Toni
-last_name: Bonitto
-uid: tbonitto
-email: toni.bonitto@gsa.gov
-bio: "New to government, Toni spent most of her tech career in the private and nonprofit sectors, and now serves as an Innovation Specialist for DigitalGov in the Technology Transformation Service at GSA."
-location: ""
-quote: ""
+display_name: John Sullivan
+first_name: John
+last_name: Sullivan
+uid: john-sullivan
+email: john.j.sullivan@gsa.gov
+
+# Tell us about yourself! Keep it to 1-2 sentences.
+bio: 'Director of the Government-wide IT Accessibility Program at GSA.'
+
+# Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
+location: 'Washington D.C.'
+
+# Do you have a quote that you'd like to share on your profile?
+# [e.g. '']
+quote: ''
 
 # Your GitHub username [e.g. 'jeremyzilar']
 github: ''

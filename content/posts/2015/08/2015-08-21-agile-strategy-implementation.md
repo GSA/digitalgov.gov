@@ -8,7 +8,9 @@ authors:
 categories:
   - Governance
 tag:
+  - agile
   - CDC
+  - sprint
   - Centers for Disease Control and Prevention
 ---
 

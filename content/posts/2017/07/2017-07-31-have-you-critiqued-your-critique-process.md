@@ -4,7 +4,7 @@ date: 2017-07-31 12:00:00 -0400
 title: 'Have You Critiqued Your Critique Process?'
 summary: 'DEMO Whenever I hear someone complain about the process of a design critique, I’m always a bit surprised. Blame it on the fact'
 authors:
-  - Meghan Lazier
+  - meghan-lazier
 
 categories:
   - Design
