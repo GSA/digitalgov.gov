@@ -1,9 +1,9 @@
-{{- partial "core/set-env.html" . -}}
+{{- partialCached "core/set-env.html" . -}}
 {{ block "pagevars" . }}{{ end }}
 
 <!DOCTYPE html>
 
-{{- partial "head-comment.html" . -}}
+{{- partialCached "head-comment.html" . -}}
 {{- partial "core/head.html" . -}}
 
 <body class="margin-0 size-sans-6 desktop:size-sans-8 line-height-sans-4 min-height-viewport">
@@ -15,9 +15,9 @@
 
   <a class="display-none" href="#wrap" title="Skip to page content">Skip to page content</a>
 
-  {{- partial "core/notice-bar.html" . -}}
-  {{- partial "core/usa-banner.html" . -}}
-  {{- partial "core/header.html" . -}}
+  {{- partialCached "core/notice-bar.html" . -}}
+  {{- partialCached "core/usa-banner.html" . -}}
+  {{- partialCached "core/header.html" . -}}
 
   <main aria-label="Content">
 
@@ -25,7 +25,7 @@
 
   </main>
 
-  {{- partial "core/footer.html" -}}
+  {{- partialCached "core/footer.html" . -}}
 
 </body>
 

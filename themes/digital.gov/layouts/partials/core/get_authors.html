@@ -23,13 +23,6 @@
       {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
       {{- $author := index $.Site.Data.people.authors $uid -}}
 
-      {{/* If $i is more than 1 (show the comma) */}}
-      {{- if lt (add $i 1) $length -}}
-        {{- $comma := "," -}}
-      {{- else -}}
-        {{- $comma := "" -}}
-      {{- end -}}
-
       <div class="author grid-row flex-no-wrap">
         <div class="grid-col-auto">
           <div class="photo height-5 width-5 display-flex flex-align-center flex-justify-center">

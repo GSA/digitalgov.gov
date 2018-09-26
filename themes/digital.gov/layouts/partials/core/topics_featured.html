@@ -1,0 +1,23 @@
+{{/* Topics / Featured */}}
+<section>
+  <div class="grid-container padding-x-2">
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12">
+        <header>
+          <h2><a href="#" title="Topics">Topics</a></h2>
+        </header>
+      </div>
+    </div>
+    <div class="grid-row grid-gap-4">
+      {{- range .Site.Data.topicsfeatured.toptopics -}}
+      <div class="grid-col-12 tablet:grid-col-4 flex-6">
+        <div class="topic topic-slim">
+          <h3>
+            <a class="text-no-underline text-ink" href="{{- .url | absURL -}}" title="{{- .name -}}">{{- .name -}}</a>
+          </h3>
+        </div>
+      </div>
+      {{- end -}}
+    </div>
+  </div>
+</section>

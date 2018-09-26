@@ -1,11 +1,19 @@
 // Newsletter
 
 #newsletter{
-  // @include u-bg('gray-10');
+  @include u-bg('mint-cool-10');
+  @include u-padding-y(3);
+  h2{
+    @include u-margin(0);
+    @include u-margin-bottom('105');
+    @include u-font('sans', 'lg');
+    color:#203131;
+  }
   .blurb{
     @include u-font('sans', 'lg');
     @include u-text('light');
     @include u-line-height('sans', 3);
+    color:#2a646d;
   }
   .info{
     @include u-font('sans', '2xs');
@@ -15,10 +23,13 @@
   }
   form{
     // @include u-margin-y(3);
+    input,
+    button{
+      @include u-height(5);
+      @include u-font('sans', 'md');
+    }
     input{
       @include u-width('full');
-  		@include u-height(6);
-  		@include u-font('sans', 'lg');
   		@include u-text('light');
   		@include u-border(1px);
   		@include u-border-right(0);
@@ -31,7 +42,6 @@
   		padding: 0 12px;
   		vertical-align: top;
   		@include u-font('sans', 'md');
-  		@include u-height(6);
 
   		// @include u-border(1px);
   		border: 1px #000 solid;
@@ -39,6 +49,9 @@
   		// @include u-radius('sm');
   		border-radius: 0 2px 2px 0 ;
 
+      &:hover{
+        @include u-bg('blue-30v');
+      }
 
   		// tablet-lg and above
   		@include at-media('tablet-lg') {
@@ -50,9 +63,6 @@
   			position: relative;
   			top:3px;
   		}
-  	}
-  	button:hover{
-  		background: #efefef;
   	}
   }
 }

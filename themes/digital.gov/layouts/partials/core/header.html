@@ -30,7 +30,7 @@
               <input autocomplete="off" class="search_field" name="query" type="text" placeholder="Search Guides &amp; Topics" />
               <button type="submit"><img src="{{ "img/crystal-ball.png" | absURL }}" alt="Search"></button>
             </form>
-            
+
             <div id="explore">
               <a href="#"><span>&#8779;</span> Explore our site</a>
             </div>
@@ -44,4 +44,4 @@
   </div>
 </header>
 
-{{- partial "core/mobile-nav.html" . -}}
+{{- partialCached "core/mobile-nav.html" . -}}
