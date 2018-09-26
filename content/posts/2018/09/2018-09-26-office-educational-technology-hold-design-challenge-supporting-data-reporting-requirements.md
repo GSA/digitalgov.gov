@@ -1,7 +1,7 @@
 ---
 slug: office-educational-technology-hold-design-challenge-supporting-data-reporting-requirements
 date: 2018-09-26 12:00:00 -0500
-title: 'Office of Educational Technology to Hold a Design Challenge for Supporting Data Reporting Requirements'
+title: 'Office of Educational Technology to Hold a Design Challenge to Support Data Reporting Requirements'
 summary: 'The Office of Educational Technology &#40;OET&#41; at the U&#46;S&#46; Department of Education will hold a digital report card Design Challenge in D&#46;C&#46; to design tools, templates, and other innovative solutions to support data reporting requirements of the Every Student Succeeds Act &#40;ESSA&#41;&#46;'
 authors: 
   - office-educational-technology
