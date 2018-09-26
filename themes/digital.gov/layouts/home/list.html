@@ -9,7 +9,7 @@
         {{- $posts := where .Data.Pages "Section" "posts" -}}
 
         {{/* Stream of Spots */}}
-        <div class="grid-col-4">
+        <div class="grid-col-12 tablet:grid-col-4">
           <section class="stream">
             <header>
               <h2>Spotlight</h2>
@@ -26,7 +26,7 @@
         </div>
 
         {{/* Featured Blog Posts */}}
-        <div class="grid-col-8">
+        <div class="grid-col-12 tablet:grid-col-8">
           <section class="featured">
             {{- range first 4 $posts.ByWeight -}}
 

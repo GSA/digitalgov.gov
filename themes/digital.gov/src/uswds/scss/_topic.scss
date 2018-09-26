@@ -1,14 +1,18 @@
 // topics
 
+#topics{
+  @include u-padding-y(5);
+  // @include u-bg('indigo-10');
+}
 
 .topic{
   @include u-margin-bottom(1);
-  // @include u-bg('indigo-10');
   h3{
     @include u-margin(0);
     @include u-font('sans', 'lg');
     @include u-text('semibold');
     a{
+      // @include u-bg('gray-1');
       @include u-padding(2);
       border: 1px #656bd7 solid;
       @include u-radius('md');
