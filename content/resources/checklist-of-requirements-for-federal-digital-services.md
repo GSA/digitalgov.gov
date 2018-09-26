@@ -3,7 +3,6 @@ url: /resources/checklist-of-requirements-for-federal-digital-services/
 date: 2014-01-09 1:20:11 -0400
 title: Checklist of Requirements for Federal Websites and Digital Services
 summary: 'Links to relevant laws, policies, and regulations for federal agencies.'
-type: guide
 deck: 'Each requirement section below includes a summary, and links to relevant laws, policies, and regulations.'
 authors:
   - rflagg

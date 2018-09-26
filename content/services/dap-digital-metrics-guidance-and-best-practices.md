@@ -3,6 +3,7 @@ url: /services/dap/dap-digital-metrics-guidance-and-best-practices/
 date: 2013-07-29 9:27:00 -0400
 title: 'DAP: Digital Metrics Guidance and Best Practices'
 summary: 'Agencies should ensure that they collect, analyze, and report on a minimum baseline set of performance and customer satisfaction measures. It&rsquo;s important to collect a variety of metrics&mdash;not just visits or page views&mdash;to get a holistic picture of how well you&rsquo;re delivering your digital services and information. While a goal of the Digital Strategy is to have a common set of performance measures and consistent means of collecting data, agencies may have varied approaches to using and interpreting the data based on individual agency and website goals.'
+deck: 'Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers.'
 ---
 
 **This guidance is part of the [Digital Analytics Program]({{< link "dap.md" >}} "DAP: Digital Analytics Program") (DAP): Digital Metrics Guidance and Best Practices. [See more on the DAP]({{< link "dap.md" >}} "DAP: Digital Analytics Program").**
@@ -31,7 +32,7 @@ Guidance on common metrics is divided into the following sections, which describ
   * Mobile
   * Social media
 
-## <a name="web-performance-metrics"></a>Web Performance Metrics
+## Web Performance Metrics
 
 Web performance metrics tell you how well your website and other digital services are performing, and are generally derived from tools that measure usage, traffic, site quality, and performance.
 
@@ -298,7 +299,7 @@ Also, stay informed of advances in metrics and measurement by following organiza
 
 {{< legacy-img src="/2014/01/common-web-performance-metrics-250x200.png" alt="Chart at top showing the Government-Wide Common Web Performance Metrics title and four boxes, starting with Measures of Breadth (Visitors, Unique; Visits, Total Sessions; Page Views, Total); Measures of Depth (Pages per visit, Average; Visit Duration, Average; Time on Page, Average; Bounce Rate, % of Visits w/ 1 Page View); Measures of Loyalty (New vs. Returned Visitors; Visits per Visitor, Average); Measures of Direct Engagement (On-Site Search Queries, Total). Chart at bottom showing the Common Web Performance Dimensions for Metrics title and five boxes starting with Time (Day, 24 hours; Week; Month; Year); Content (Site Pages; Downloaded Files, e.g. PDF; Offsite Links; On-site Search Queries; RSS Feeds); Marketing (Referring Domain/Site/Page; Referring Search Keywords; Referring Search Phrases); Technology (Browser, Web & Mobile; Browser Version, Web & Mobile; Platform; Mobile Devices; Screen Size); Demographics (Country; State/Locale; City; Organization)." >}}
 
-## <a name="customer-satisfaction-metrics"></a>Customer Satisfaction Metrics
+## Customer Satisfaction Metrics
 
 Milestone 8.1 of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for GSA’s Center for Digital Services Innovation Center to develop guidance on common customer satisfaction metrics. The following guidance was derived from extensive research of common practices in industry and government and input from the Federal Web Metrics Community of Practice and Federal Web Managers Council.
 
@@ -447,7 +448,7 @@ The [Customer Experience model]({{< link "2013-06-19-5-steps-for-delivering-a-be
     Also, while many agencies will collect metrics at the aggregate website-level, some agencies have taken a deeper dive to collect satisfaction data at the page-level or for a specific task or application, which can be highly valuable. Agencies that are already collecting customer satisfaction data at a more granular level, are encouraged to look for ways to **aggregate data** and also report it at the site-wide level so it can be compared with other federal sites.
   3. **Take action on your findings.** Baseline and benchmark—agencies can take the data and create a baseline of customer perception and benchmark from year-to-year or month-to-month to show improvements in overall experience or increased ability to complete purpose of the customers visit. Look for trends and create an action plan.
 
-## <a name="search-metrics"></a>Search Metrics
+## Search Metrics
 
 Search is the largest driver of traffic to government content, so it’s critical to publish content that is &#8220;findable&#8221; by search engines. Agencies should collect and analyze the following search data to help measure performance and customer satisfaction.  See best practices for search engine optimization (SEO).
 
@@ -644,7 +645,7 @@ To collect search metrics, you&#8217;ll need to pull data from a variety of sour
 
 **5. Attend training.** The DigitalGov University training, USASearch: Enhancing Your Website&#8217;s Search, explains how the free [USASearch tool]({{< link "search.md" >}}) can improve the search function on your government website. Another DigitalGov University training, The Science of Search: Competitive Intelligence for the Government Web Manager shows how to use the &#8220;science of search&#8221; to improve your search rankings.
 
-## <a name="usability-metrics"></a>Usability (User Experience) Metrics
+## Usability (User Experience) Metrics
 
 Usability—now more commonly referred to as User Experience—is how a person feels about using a product, system or service, and how easy a product is to use. While Digital Metrics typically looks at the general behavior of groups, User Experience is important because it focuses on how individuals think and act in relation to a product or service.
 
@@ -684,7 +685,7 @@ GSA&#8217;s DigitalGov User Experience Program recommends doing a small-scale te
 
 User experience (usability) testing is extremely valuable but also time-intensive, so make sure you document your findings and metrics. Remember that most people don’t read reports, especially long ones, so catalogue the essential information and summarize the rest. Start off with a summary of the results, next document how you ran the tests and then highlight the data. Here&#8217;s a sample [usability report from DigitalGov User Experience Program](https://docs.google.com/a/gsa.gov/file/d/0B-lTql0gzZu6YkdMRXhUWnprNDQ/edit?pli=1#) and one from [Usability.gov](http://www.google.com/url?q=http%3A%2F%2Fwww.usability.gov%2Ftemplates%2Fdocs%2Fshort_test_rep.doc&sa=D&sntz=1&usg=AFQjCNEAV66FKREUO6hpgsRIpjKqr81X4g) (MS Word, 215 K, 6 pages, August 2012).
 
-## <a name="mobile-metrics"></a>Mobile Metrics
+## Mobile Metrics
 
 A centerpiece of the Digital Government Strategy, is a &#8220;mobile first&#8221; approach, where new Web products and applications are designed for mobile devices first, instead of the traditional desktop design.
 
@@ -714,7 +715,7 @@ The Mobile Gov Community of Practice is working to define practices in mobile me
   * How many users are downloading our app updates?
   * If you agency app includes a Web page that is accessed once the app is open, what are the number of page views?
 
-## <a name="social-media-metrics"></a>Social Media Metrics
+## Social Media Metrics
 
 Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis—using the vast amount of real-time data from these social platforms to predict emerging trends and respond to them quickly (referred to as &#8220;social data&#8221;).
 
@@ -873,7 +874,7 @@ These are federal initiatives and directives related to performance management a
   * [Fast Track PRA]({{< link "paperwork-reduction-act-fast-track-process.md" >}}) process streamlines PRA approval to 5 business days
   * [Government Performance and Results Act (GPRA)](https://www.congress.gov/bill/111th-congress/house-bill/2142) requires agencies to establish performance measures to demonstrate mission achievement
 
-## <a name="research-bibliography"></a>Research Bibliography
+## Research Bibliography
 
 GSA developed the performance and customer satisfaction guidance with the federal Metrics Community of Practice and based on extensive research, which included the following resources:
 

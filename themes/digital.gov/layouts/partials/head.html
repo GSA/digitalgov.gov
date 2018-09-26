@@ -41,7 +41,7 @@
   {{ "<!-- End Google Tag Manager -->" | safeHTML }}
 
   {{ "<!-- Page Title -->" | safeHTML }}
-  <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title | markdownify) }}</title>
+  <title></title>
 
   {{ "<!-- Meta Description -->" | safeHTML }}
   <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />

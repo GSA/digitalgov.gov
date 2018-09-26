@@ -1,5 +1,6 @@
-{{ if .Params.guide }}
+
 <div class="guide-nav-box">
+  {{ if .Params.guide }}
   <div class="guide-title">
     <h4><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h4>
     <p>{{ .Parent.Params.deck }}</p>
