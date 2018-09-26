@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,12 @@ last_name: Ferriero
 uid: david-s-ferriero
 email: ""
 bio: David S. Ferriero was confirmed as 10th Archivist of the United States on November 6, 2009. Previously, Mr. Ferriero served as the Andrew W. Mellon Director of the New York Public Libraries (NYPL). He was part of the leadership team responsible for integrating the four research libraries and 87 branch libraries into one seamless service for users, creating the largest public library system in the United States and one of the largest research libraries in the world. Mr. Ferriero was in charge of collection strategy; conservation; digital experience; reference and research services; and education, programming, and exhibitions.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

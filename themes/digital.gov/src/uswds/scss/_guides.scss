@@ -1,0 +1,83 @@
+// Guide Nav
+
+h5.guide-title{
+	@include u-margin-top(0);
+	@include u-margin-bottom(1);
+	@include u-display('inline-block');
+	@include u-font('sans', 'sm');
+}
+
+.guide-nav-box {
+	@include u-margin-bottom(5);
+	.guide-title{
+		// tablet and smaller
+		@include u-display('none');
+		// tablet-lg and above
+		@include at-media('tablet-lg') {
+			display:block;
+			@include u-display('block');
+		}
+		@include u-bg('indigo-80');
+		@include u-padding(3);
+		@include u-padding-bottom(1);
+		h4 {
+			@include u-margin-top(0);
+			@include u-margin-bottom('105');
+			@include u-font('sans', 'xl');
+			@include u-text('thin');
+			@include u-line-height('sans', 2);
+			a{
+				// @include u-text('base-lightest');
+				color: #fff;
+				@include u-text('no-underline');
+			}
+			a:hover{
+				border-bottom: 3px #fc906d solid;
+			}
+		}
+		p{
+			@include u-margin(0);
+			color: #fff;
+			@include u-text('light');
+			@include u-font('sans', 'md');
+		}
+	}
+	.guide-nav{
+		// tablet and smaller
+		@include u-display('none');
+		// tablet-lg and above
+		@include at-media('tablet-lg') {
+			display:block;
+			@include u-display('block');
+		}
+		@include u-bg('indigo-80');
+		@include u-padding-x(3);
+		@include u-padding-y(2);
+		ul{
+			@include u-margin(0);
+			@include u-padding(0);
+			@include u-list-reset;
+			li{
+				@include u-margin-bottom('105');
+				@include u-font('sans', 'md');
+				@include u-line-height('sans', 2);
+				a{
+					@include u-padding-bottom(2px);
+					color: #a5a8e8; // $indigo-30v
+					color: #fc906d; // $orange-warm-30v
+					// color: #fbbaa7; // $orange-warm-20v
+					@include u-text('normal');
+					@include u-text('no-underline');
+				}
+				a:hover{
+					// @include u-border(0);
+					// @include u-border-bottom(2);
+					// @include u-border('orange-warm-40');
+					// @include u-border('solid');
+					border-bottom: 3px #656bd7 solid;
+				}
+			}
+		}
+
+	}
+}

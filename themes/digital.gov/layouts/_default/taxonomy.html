@@ -1,36 +1,36 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top archive category c-sw unboxed centercatnav bodybg1" }}
-{{ end }}
-
 {{ define "content" }}
 
-<section id="posts">
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        {{ $data := $.Site.Data }}
-        {{ $taxonomy := .Data.Plural }}
-        {{ $slug := .Title | urlize }}
-        {{ $taxdata := index $data $taxonomy }}
-        {{ $term := index $taxdata $slug }}
-        {{ if eq $taxonomy "categories" }}
-          {{ $.Scratch.Set "categories" $slug }}
-        {{ end }}
-        {{ with $term.communities }}
-          {{ $.Scratch.Set "relatedCommunities" . }}
-        {{  end }}
-
-        <h1>{{ $term.display_name }}</h1>
-        {{ with $term.summary }}
-          <p>{{ . | markdownify }}</p>
-        {{ end }}
-
+<main role="main" id="home">
+  <div class="grid-container padding-x-2">
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-3">
+        {{ partial "sidebar--relatedCommunities.html" . (dict "list" . "communities" ($.Scratch.Get "relatedCommunities")) }}
+        {{ partial "sidebar--topics.html" . }}
+        {{ partial "sidebar--recentPosts.html" . }}
+        {{ partial "sidebar--events.html" . }}
       </div>
-    </div>
+      <div class="grid-col-9">
 
-    <div class="row">
-      <div class="col">
-        <div class="list">
+        <header>
+          {{ $data := $.Site.Data }}
+          {{ $taxonomy := .Data.Plural }}
+          {{ $slug := .Title | urlize }}
+          {{ $taxdata := index $data $taxonomy }}
+          {{ $term := index $taxdata $slug }}
+          {{ if eq $taxonomy "categories" }}
+            {{ $.Scratch.Set "categories" $slug }}
+          {{ end }}
+          {{ with $term.communities }}
+            {{ $.Scratch.Set "relatedCommunities" . }}
+          {{  end }}
+
+          <h1>{{ $term.display_name }}</h1>
+          {{ with $term.summary }}
+            <p>{{ . | markdownify }}</p>
+          {{ end }}
+        </header>
+
+        <section>
           {{ range .Paginator.Pages }}
           <div class="entry{{ if .Params.featured_image.uid }} has-img{{ end }}">
             <div class="entry-content">
@@ -43,21 +43,11 @@
 
           {{ end }}
           {{ partial "pagination.html" . }}
-        </div>
+        </section>
+
       </div>
-
-      <div class="col">
-        <div class="sidebar">
-
-          {{ partial "sidebar--relatedCommunities.html" . (dict "list" . "communities" ($.Scratch.Get "relatedCommunities")) }}
-          {{ partial "sidebar--topics.html" . }}
-          {{ partial "sidebar--recentPosts.html" . }}
-          {{ partial "sidebar--events.html" . }}
-        </div>
-      </div>
-
     </div>
   </div>
-</section>
+</main>
 
 {{ end }}

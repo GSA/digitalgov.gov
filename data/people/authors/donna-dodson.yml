@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,12 @@ last_name: Dodson
 uid: donna-dodson
 email: ""
 bio: Donna Dodson is the Chief Cybersecurity Advisor for the NIST Information Technology Laboratory and Director of the National Cybersecurity Center of Excellence (NCCoE). Since joining NIST in 1987, Donna has been selected as a Fed 100 winner for innovations in cybersecurity, as one of the top 10 influential people in government IT in 2011, and as one of Fed Scoop’s Top 50 D.C. Women in Tech.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,13 @@ last_name: McIlravy
 uid: tanya-mcilravy
 email: ""
 bio: Tanya is a Program Technician with the USDA Farm Service Agency, serving producers in a rural area of western South Dakota. She is passionate about customer service, employee engagement, and all things IT. She serves as IT Committee Chair for the National Association of FSA Support Employees and as a member of the FSA Workforce Engagement Team.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

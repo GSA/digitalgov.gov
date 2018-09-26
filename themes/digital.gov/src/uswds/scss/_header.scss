@@ -1,0 +1,109 @@
+// Header
+
+header#header{
+	@include u-padding-y(3);
+	// tablet-lg and above
+	@include at-media('tablet-lg') {
+		@include u-padding-y(4);
+		@include u-padding-bottom(5);
+	}
+	// @include u-bg('indigo-cool-30');
+
+	// Logo
+	.logo{
+		@include u-margin(0);
+		@include u-font('sans', 'xl');
+		@include u-line-height('sans', 2);
+		@include u-display('inline-block');
+		a{
+			color:#000;
+			@include u-text('no-underline');
+		}
+		img{
+			width: 165px;
+		}
+	}
+
+	#explore{
+		a{
+			@include u-padding-y(1);
+			@include u-padding-left(1);
+			@include u-padding-right(2);
+			border: 2px #000 solid;
+			@include u-text('no-underline');
+			@include u-font('sans', 'md');
+			@include u-text('semibold');
+			span{
+				@include u-font('sans', 'xl');
+				position: relative;
+				top:2px;
+			}
+		}
+	}
+	@include at-media('tablet') {
+		#explore{
+			display: none;
+		}
+	}
+
+	// Main Navigation
+	nav{
+		@include u-margin-top(2);
+		padding: .4rem 3px .4rem 2px;
+		// @include u-font('sans', 'md');
+		font-size: 2rem;
+		@include u-height('full');
+		@include u-width('full');
+		@include u-minw(7);
+		@include u-minh(7);
+
+		@include u-text('bold');
+		@include u-text('right');
+
+		// tablet and smaller
+		@include u-flex('align-start');
+		@include u-flex('justify-start');
+		@include u-display('none');
+
+		// tablet and above
+		@include at-media('mobile-lg') {
+		}
+		// tablet-lg and above
+		@include at-media('tablet') {
+			@include u-margin-top(0);
+			@include u-flex('align-start');
+			@include u-flex('justify-start');
+			@include u-display('block');
+			@include u-text('left');
+		}
+		// tablet-lg and above
+		@include at-media('tablet-lg'){
+			@include u-text('right');
+			@include u-flex('justify-end');
+		}
+
+		ul{
+			@include u-margin(0);
+			@include u-list-reset;
+			li{
+				@include u-display('inline-block');
+				@include u-padding-x('105');
+				a{
+					@include u-padding-bottom(2px);
+					color:#000;
+					@include u-text('no-underline');
+				}
+				a:hover{
+					border-bottom: 3px #fc906d solid;
+				}
+			}
+			li:first-child{
+				@include u-padding-left(0);
+			}
+			li:last-child{
+				@include u-padding-right(0);
+			}
+		}
+
+	}
+}

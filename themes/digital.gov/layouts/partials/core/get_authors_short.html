@@ -1,0 +1,28 @@
+{{/*
+  ======================================
+  AUTHORS .... short
+  ======================================
+*/}}
+
+{{- if (not (isset .Params "authors")) | or (eq .Params.authors "") -}}
+{{- else -}}
+  {{/* get the authors  */}}
+  {{- $_authors := .Params.authors -}}
+
+  {{/* Count the number of authors */}}
+  {{- $length := $_authors | len -}}
+
+  {{- range $i, $e := $_authors -}}
+
+    {{/* If the byline was entered as a display name (i.e. - John Smith )
+    then this will turn that into a UID for use in a URL. */}}
+    {{- $uid := $e | urlize -}}
+
+    {{- $data := $.Site.Data -}}
+    {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
+    {{- $author := index $.Site.Data.people.authors $uid -}}
+
+    <a class="author" href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.display_name | default $uid -}} " rel="author">{{- $author.display_name | default $uid -}}</a>{{ if lt (add $i 1) $length }}, {{ end }}
+
+  {{- end -}}
+{{- end -}}

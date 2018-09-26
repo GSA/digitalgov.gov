@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,12 @@ last_name: Gavino
 uid: amando-e-gavino-jr
 email: ""
 bio: Director, Office of Network Services, ITS/FAS/GSA. Amando is responsible for a portfolio of telecommunication acquisition solutions that provide government agencies the ability to meet their diverse set of telecommunication requirements. Acquisition solutions include Networx, Enterprise Infrastructure Solutions – EIS (the future replacement for Networx), SATCOM, Enterprise Mobility, Connections II, Federal Strategic Sourcing Initiative – Wireless (FSSI-W), and the Federal Relay Service.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

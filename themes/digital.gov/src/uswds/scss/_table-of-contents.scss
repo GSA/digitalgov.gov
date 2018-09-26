@@ -1,0 +1,27 @@
+// Table of Contents
+
+
+.toc{
+	@include u-padding-x(3);
+	@include u-padding-y(2);
+	@include u-bg('indigo-10');
+	h4{
+		@include u-margin(0);
+		@include u-margin-bottom(2);
+	}
+	ul{
+		// @include u-list-reset;
+		@include u-padding-left(2);
+		li{
+			@include u-margin-bottom('105');
+			@include u-font('sans', '2xs');
+			@include u-line-height('sans', 1);
+			list-style-type: circle;
+		}
+	}
+}
+
+/* Hides all navigation that is below an H2 */
+#TableOfContents ul ul{
+	display: none;
+}

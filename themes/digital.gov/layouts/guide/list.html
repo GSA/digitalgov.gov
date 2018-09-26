@@ -1,46 +1,94 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
-{{ end }}
-
 {{ define "content" }}
 
-<div class="page guide">
-  <div class="hentry entry">
+<article class="guide">
 
-    <div class="entry-head">
-
-      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
-      {{ if .Params.deck }}
-      <div class="deck">{{ .Params.deck }}</div>
-      {{ end }}
-      {{ partial "last-updated" . }}
-    </div>
-
-    <div class="guide-nav">
-      {{ if .Params.guidenav }}
-        {{ $cur := .Params.guidenav }}
-        <ul>
-        <!-- looking for a data-file in /data/guidenav/ -->
-        {{ range (index .Site.Data.guidenav .Params.guidenav).guidenav }}
-          <li><a href="{{ .slug | relURL }}" title="{{ .title }}">{{ .title }}</a></li>
-        {{ end }}
-        </ul>
-      {{ end }}
-      <div class="toc">
-        <h6>In this page</h6>
-        {{ partial "toc.html" . }}
+  <header class="margin-bottom-5">
+    <div class="grid-container padding-x-2">
+      <div class="grid-row margin-y-4">
+        <div class="grid-col">
+          <div class="head">
+            <h1 class="font-sans-3xl text-heavy margin-top-0 margin-bottom-1">{{ .Title | markdownify }}</h1>
+            {{- if .Params.deck -}}
+            <div class="deck font-sans-xl text-light">{{- .Params.deck -}}</div>
+            {{- end -}}
+            {{/* {{ partial "last-updated" . }} */}}
+          </div>
+        </div>
       </div>
     </div>
+  </header>
 
-    <div class="entry-content">
-      {{ .Content }}
+  {{ if .Params.guide }}
+  <section class="margin-y-3">
+    <div class="grid-container padding-x-2">
+      <div class="grid-row grid-gap-lg padding-y-1">
+        {{/* Gets the current page URL */}}
+        {{ $current_url := .URL }}
+        {{ range $i, $e := (where .Site.Pages.ByWeight ".Params.guide" .Params.guide) }}
+          {{/* If $current_url is NOT equal to the URL, then print the page */}}
+          {{ if not (eq $current_url $e.URL) }}
+          <div class="grid-col-12 tablet:grid-col-6 flex-6">
+            <div class="topic">
+              <h3>
+                <a class="text-no-underline text-ink" href="{{ $e.Permalink }}" title="{{$e.Title}}">{{$e.Title}}</a>
+              </h3>
+            </div>
+          </div>
+
+          {{ end }}
+
+        {{ end }}
+      </div>
     </div>
+  </section>
+  {{ end }}
 
-    {{ partial "post-meta--feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
-    {{ partial "page-details" . }}
+  {{ if .Params.quote }}
+  <section class="bg-mint-cool-10 margin-bottom-3">
+    <div class="grid-container padding-x-2">
+      <div class="grid-row">
+        <div class="grid-col-11">
+          <div class="padding-y-4">
+            <p class="font-sans-2xl text-italic mint-cool-80 text-light line-height-sans-3">{{ .Params.quote | markdownify }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
 
-  </div>
+  {{ if .Content }}
+  <section class="font-sans-lg margin-bottom-5">
+    <div class="grid-container padding-x-2">
+      <div class="grid-row">
+        <div class="grid-col-8">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
 
-</div>
+  {{ if .Params.promo }}
+  <section>
+    <div class="grid-container padding-x-2 margin-bottom-8">
+      <div class="grid-row grid-gap-lg">
+        {{ range .Params.promo }}
+        <div class="grid-col-6">
+          <div class="promo padding-2 border-1px">
+            <h3 class="margin-0">{{ .h3 }}</h3>
+            <p>{{ .summary }}</p>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+</article>
+
+{{ partial "core/overlay" . }}
+
 
 {{ end }} {{/* end 'content' block */}}

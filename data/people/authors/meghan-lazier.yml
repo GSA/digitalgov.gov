@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,12 @@ last_name: Lazier
 uid: meghan-lazier
 email: "meghan.m.lazier@frb.gov"
 bio: "Meghan Lazier is a design researcher and strategist who is currently creating apps and tools for economists at the Federal Reserve Board. Before joining the Board, Meghan was a designer at the Lab @ OPM. She is a graduate of the Design for Social Innovation MFA program at the School of Visual Arts in NYC and her work has been featured in the New York Times and Fast Company."
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

@@ -1,0 +1,24 @@
+{{/* Topics / Featured */}}
+<section id="topics">
+  <div class="grid-container padding-x-2">
+    <div class="grid-row">
+      <div class="grid-col-12 tablet:grid-col-6 tablet:grid-offset-3">
+        <header>
+          <h2><a href="#" title="Topics">Explore our Depths</a></h2>
+          <p>We've been copy goes here across archive content depth time.</p>
+        </header>
+      </div>
+    </div>
+    <div class="grid-row grid-gap-2">
+      {{- range .Site.Data.topicsfeatured.toptopics -}}
+      <div class="grid-col-12 tablet:grid-col-4 flex-6">
+        <div class="topic topic-slim">
+          <h3>
+            <a class="text-no-underline text-ink" href="{{- .url | absURL -}}" title="{{- .name -}}">{{- .name -}}</a>
+          </h3>
+        </div>
+      </div>
+      {{- end -}}
+    </div>
+  </div>
+</section>

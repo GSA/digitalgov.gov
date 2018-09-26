@@ -1,62 +1,68 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
-  {{ $.Scratch.Set "has_sidebar" true }}
-{{ end }}
+{{- define "content" -}}
 
-{{ define "content" }}
-<div id="contentleft" class="clearfix">
-  <div id="content" class="clearfix">
-    <div class="post singlepost post-387041 type-post status-publish format-standard has-post-thumbnail hentry category-managing-digital category-strategy-policy tag-cloud tag-gsa tag-security tag-u-s-general-services-administration Managing Digital Strategy &amp; Policy"
-      id="single-post-387041">
+<main role="main" id="post">
+  <article>
+    <div class="grid-container padding-x-2">
 
-      <div class="entry">
+      {{/* header */}}
+      <header class="grid-row">
+        <div class="grid-col-12">
 
-        <h1 class="post-title single">
-          {{ .Title | markdownify }}
-        </h1>
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
 
-        {{ partial "post-meta" . }}
-        <!-- Go to www.addthis.com/dashboard to customize your tools -->
-        <div class="addthis_inline_share_toolbox"></div>
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck -}}</div>
+          {{- end -}}
 
-        {{ .Content }}
+        </div>
+      </header>
 
-        <!-- Go to www.addthis.com/dashboard to customize your tools -->
-        <div class="addthis_inline_share_toolbox"></div>
-        {{ partial "post-meta--related-posts" . }}
-        {{ partial "post-meta--tag-list" . }}
-        {{ partial "post-meta--feedback" (dict "page" . "page_type" "article" "branch" ($.Scratch.Get "branch")) }}
-        {{ partial "page-details" . }}
 
-      </div><!-- .entry -->
+      <div class="grid-row margin-y-2 grid-gap-6">
+        <div class="grid-col-3">
 
-    </div><!-- .post -->
+          {{/* Authors */}}
+          {{- partial "core/get_authors" . -}}
 
-    {{/* Comments section removed */}}
+          {{/* Date */}}
+          <div class="date">
+            <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2, 2006" -}} </a>
+          </div>
 
-    {{/*
-      ======================================
-      PREVIOUS / NEXT POST
-      ======================================
-    */}}
+          {{/* Last updated */}}
+          {{/* {{- partial "last-updated" . -}}  */}}
 
-    <div class="navigation clearfix">
-      <div class="alignleft single">
-        {{ if .PrevInSection }}
-          « <a href="{{ .PrevInSection.URL | absURL }}" rel="prev">{{ .PrevInSection.Title | markdownify }}</a>
-        {{ end }}
+          {{/* Topics */}}
+          {{- partial "core/get_topics" . -}}
+
+          {{/* Related Communities */}}
+          {{- partial "core/get_communities" . -}}
+
+        </div>
+
+        <div class="grid-col-8">
+
+          {{/* Content */}}
+          <div class="content">
+            {{- .Content -}}
+          </div>
+
+          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+          <div class="addthis_inline_share_toolbox"></div>
+          {{- partial "post-meta--related-posts" . -}}
+          {{- partial "post-meta--tag-list" . -}}
+
+        </div>
       </div>
-      <div class="alignright single">
-        {{ if .NextInSection }}
-          <a href="{{ .NextInSection.URL | absURL }}" rel="next">{{ .NextInSection.Title | markdownify }}</a> »
-        {{ end }}
-      </div>
-    </div><!-- .navigation -->
-    <div style="clear:both;margin-bottom:20px;"></div>
-  </div><!-- #content -->
-</div><!-- #contentleft -->
-{{ end }} {{/* end 'content' block */}}
+    </div>
 
-{{ define "sidebar" }}
-  {{ partial "sidebar-common.html" . }}
-{{ end }} {{/* end 'sidebar' block */}}
+    {{- partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) -}}
+
+  </article>
+</main>
+
+  {{- partial "core/overlay" . -}}
+
+{{- end -}}

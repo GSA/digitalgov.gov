@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -13,6 +13,12 @@ email:
 
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: 'Erin Scheithe is a Content Specialist in the Consumer Financial Protection Bureau’s Office for Older Americans, which focuses on educating and engaging with consumers 62 and older on financial matters. In this role she writes, edits, and presents material on fraud and scam prevention, financial caregiving, and retirement planning. The majority of Erin’s career has been spent developing financial education materials for consumer audiences. She worked for both the American Bankers Association and North Carolina Bankers Association to develop financial education programs for children and parents. In addition, she developed resources on financial security issues for the 50+ population while working for AARP’s consumer education division. Erin also has experience composing and coordinating large-scale grassroots advocacy campaigns. A native of Virginia, Erin obtained both a bachelor’s degree in English literature and a master’s degree in Educational Psychology from the University of Virginia.'
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

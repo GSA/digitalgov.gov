@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,13 @@ last_name: Lerner
 uid: zachary-lerner
 email: zachary.lerner@gsa.gov
 bio: Zachary Lerner is the Content Manager for the Professional Services Hallway on the Acquisition Gateway and has been in that role since August 2014. Zachary joined U.S. General Services Administration’s Federal Acquisition Service in July 2009, and has previously worked as a project manager with an emphasis on sustainability and mobility projects within GSA’s Northeast and Caribbean in New York City. He is still involved with national sustainability initiatives in his new role in GSA’s Northwest/Arctic Region.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 

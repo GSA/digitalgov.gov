@@ -1,0 +1,54 @@
+{{/*
+  ======================================
+  AUTHORS
+  ======================================
+*/}}
+
+{{- if (not (isset .Params "authors")) | or (eq .Params.authors "") -}}
+{{- else -}}
+  <div class="authors">
+    {{/* get the authors  */}}
+    {{- $_authors := .Params.authors -}}
+
+    {{/* Count the number of authors */}}
+    {{- $length := $_authors | len -}}
+
+    {{- range $i, $e := $_authors -}}
+
+      {{/* If the byline was entered as a display name (i.e. - John Smith )
+      then this will turn that into a UID for use in a URL. */}}
+      {{- $uid := $e | urlize -}}
+
+      {{- $data := $.Site.Data -}}
+      {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
+      {{- $author := index $.Site.Data.people.authors $uid -}}
+
+      <div class="author grid-row flex-no-wrap">
+        <div class="grid-col-auto">
+          <div class="photo height-5 width-5 display-flex flex-align-center flex-justify-center">
+            {{- if $author.github -}}
+            <img class="circle-5" src="https://github.com/{{- $author.github -}}.png?size=50" alt="">
+            {{- else -}}
+            <img class="circle-5" src="http://placekitten.com/100/100" alt="">
+            {{- end -}}
+          </div>
+        </div>
+        <div class="grid-col-9">
+          <div class="details">
+            <h5>
+              <a href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.display_name | default $uid -}} " rel="author">
+                {{- $author.display_name | default $uid -}}
+              </a>
+            </h5>
+
+            {{- if $author.agency -}}
+            <p>{{- $author.agency -}}{{- if $author.location -}}&nbsp;|&nbsp;{{- $author.location -}}{{- end -}}</p>
+            {{- end -}}
+
+          </div>
+        </div>
+      </div>
+
+    {{- end -}}
+  </div>
+{{- end -}}

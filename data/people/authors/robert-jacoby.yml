@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,13 @@ last_name: Jacoby
 uid: robert-jacoby
 email: robert.jacoby@aquilent.com
 bio: Robert Jacoby, MIM, is a Lead Content Consultant at Aquilent. He works as a content team lead and project management support for Project Evolve on SAMHSA.gov.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
+
 location: ""
 quote: ""
 
