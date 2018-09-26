@@ -1,8 +1,27 @@
 // topics
 
-#topics{
+#home section#topics{
   @include u-padding-y(5);
   // @include u-bg('indigo-10');
+  header{
+    @include u-margin-bottom(2);
+    @include u-text('center');
+    color:#3d4076;
+    h2{
+      @include u-font('sans', '2xl');
+      @include u-line-height('sans', 2);
+      @include u-margin-bottom(1);
+      @include u-text('thin');
+      a{
+        color:#3d4076;
+      }
+    }
+    p{
+      @include u-margin(0);
+      @include u-font('sans', 'md');
+      @include u-text('medium');
+    }
+  }
 }
 
 .topic{

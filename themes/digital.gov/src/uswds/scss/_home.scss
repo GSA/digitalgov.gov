@@ -12,7 +12,6 @@
         @include u-text('light');
         a{
           @include u-text('no-underline');
-          color: #000;
           &:hover{
             border-bottom: 2px #914734 solid; // $indigo-40
           }
