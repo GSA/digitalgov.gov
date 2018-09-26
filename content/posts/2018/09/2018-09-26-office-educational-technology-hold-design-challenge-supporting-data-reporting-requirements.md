@@ -24,6 +24,8 @@ What if you could design a solution that would provide more accessible informati
 
 Join the [U.S. Department of Education](https://www.ed.gov/) and the Data Quality Campaign on November 8–9 in Washington, DC for two days of sketching, prototyping and building solutions to help states design family-friendly approaches to report cards that make school data more transparent and accessible. 
 
+IMAGE
+
 ## The Challenge 
 
 The [Every Student Succeeds Act](https://www.congress.gov/bill/114th-congress/senate-bill/1177) (ESSA) — the Federal education law reauthorized in 2015 — requires states and school districts to make more than 2,000 data points about their public school systems available to families in a concise, understandable and uniform format. This information is a key resource to helping parents and communities understand how their school is doing, evaluate what is working and what needs to change, and drive changes that help kids succeed. In response, states are developing digital report cards to help the public navigate important data about schools, including per-student spending, test results, and more. A key challenge is ensuring these digital report cards are user-friendly, engaging, and incorporate best practices for data visualization and human-centered design — a new approach for many states. Further, the requirements of Federal law complicate the task, increasing the risk that families end up with static documents filled with technical jargon that confuse rather than drive insight and engagement.
