@@ -29,6 +29,9 @@
 
 top6:
 
+  - file          : '2018-09-26-office-educational-technology-hold-design-challenge-supporting-data-reporting-requirements.md'
+    type          : 'post'
+
   - file          : '2018-09-19-want-a-more-innovative-agency-encourage-employees-to-experiment.md'
     type          : 'post'
 
@@ -39,11 +42,6 @@ top6:
 
   - file          : '2018-08-30-collaborating-for-better-design-technology-user-experience.md'
     type          : 'post'
-
-  - file          : '2018-07-26-civic-service-design-tools-tactics.md'
-    type          : 'video'
-    title         : 'Civic Service Design Tools + Tactics'
-    summary       : "An introduction New York City's Service Design Studio and the practical methods they're using to gather insights."
 
   - file          : '2018-07-17-experiments-in-tweaking-agile-for-ux.md'
     type          : 'post'

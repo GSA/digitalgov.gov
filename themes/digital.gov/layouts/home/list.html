@@ -7,18 +7,21 @@
     <div class="grid-container padding-x-2">
       <div class="grid-row grid-gap-4">
         {{- $posts := where .Data.Pages "Section" "posts" -}}
+        {{- $spots := where .Data.Pages "Section" "spot" -}}
 
         {{/* Stream of Spots */}}
         <div class="grid-col-12 tablet:grid-col-4">
           <section class="stream">
+
             <header>
               <h2>Spotlight</h2>
               <p>A round-up of relevant news and resources from across our community</p>
             </header>
-            {{- range first 5 $posts -}}
+            {{- range first 5 $spots -}}
 
             <article class="spot">
-              <p><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><strong>{{- .Title | markdownify -}}</strong></a> — {{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
+              <p>{{- .Content | markdownify -}}</p>
+              <p><a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">{{- .Params.source_name -}}</a><p>
             </article>
 
             {{- end -}}

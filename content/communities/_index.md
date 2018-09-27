@@ -8,6 +8,7 @@ deck: "Come together, learn from others in government"
 
 ---
 
+
 Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.
 
 There are more than 10,000 people participating across government in 22 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
