@@ -1,7 +1,8 @@
 <!-- Logic for featured image -->
 {{/* Featured_image call */}}
-  {{ $cdnurl := .Site.Params.cdnurl }}
-  {{ $featImg := index $.Site.Data.images (default "digitalgov-card-1" .Params.featured_image.uid) }}
+  {{- $cdnurl := .Site.Params.cdnurl -}}
+  {{- $dg_filename := print "digitalgov-card-" (index (seq 3 | shuffle) 0) -}}
+  {{ $featImg := index $.Site.Data.images (default $dg_filename .Params.featured_image.uid) }}
   {{ $featImgBase := $featImg.uid }}
   {{ $featImgExt := $featImg.format }}
   {{ $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase }}
