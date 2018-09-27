@@ -1,8 +1,9 @@
 ---
 slug: office-educational-technology-hold-design-challenge-supporting-data-reporting-requirements
 date: 2018-09-26 12:00:00 -0500
-title: 'Office of Educational Technology to Hold a Design Challenge to Support Data Reporting Requirements'
+title: 'A Design Challenge to Improve How School Data is Reported'
 summary: 'Join the DOE for two days of sketching, prototyping and building solutions to help states design family-friendly approaches to report cards'
+deck: 'Join the DOE for two days of sketching, prototyping and building solutions to help states design family-friendly approaches to report cards.'
 authors:
   - office-educational-technology
 categories:
@@ -23,6 +24,8 @@ featured_image:
 What if you could design a solution that would provide more accessible information for families and their advocates as they navigate students’ options for a great education?
 
 Join the [U.S. Department of Education](https://www.ed.gov/) and the Data Quality Campaign on November 8–9 in Washington, DC for two days of sketching, prototyping and building solutions to help states design family-friendly approaches to report cards that make school data more transparent and accessible.
+
+> **The design challenge will take place November 8-9 in Washington, DC.** [**Register by Tuesday, October 9, 2018 »**](https://docs.google.com/forms/d/e/1FAIpQLSdaM-aU2JRnpscva_zJdJtomnXrp7L9nc2tOnXzLcg85Q4dHQ/viewform)
 
 {{< img src="people-working-together" >}}
 
