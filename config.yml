@@ -144,9 +144,9 @@ menu:
       URL             : "/about/"
       Weight          : 6
 
-    - Name            : "Join Digitalgov"
-      Identifier      : "join"
-      URL             : "/join/"
+    - Name            : "Newsletter"
+      Identifier      : "newsletter"
+      URL             : "/newsletter/"
       Weight          : 7
 
   secondary:
