@@ -2,16 +2,16 @@
 slug: internet-time-travel
 date: 2013-05-02 13:40:29 -0400
 title: Internet Time Travel
-summary: 'The first public page on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time. {{< legacy-img src="2013/05/first-WWW-page-3.jpg" alt="Screen shot of the very first world wide webpage. A sparse page with text and links. Click image'
+summary: 'The first public page on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time.'
 authors:
-  - tmarcoullier
+  - tammi-marcoullier
 categories:
   - UX
 tag:
   - NARA
 ---
 
-{{< legacy-img src="2013/05/600-x-328-CERN-homepage-Oct-7-2015.jpg" alt="CERN homepage" caption="" >}} 
+{{< legacy-img src="2013/05/600-x-328-CERN-homepage-Oct-7-2015.jpg" alt="CERN homepage" caption="" >}}
 
 The <a title="first web page ever" href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank">first public page</a> on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time.
 

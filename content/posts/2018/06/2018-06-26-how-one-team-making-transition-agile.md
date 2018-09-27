@@ -13,6 +13,7 @@ tag:
   - lean
   - methodology
   - scrum
+  - sprint
   - usgs
 featured_image:
   uid: agile-flow-600
@@ -72,5 +73,6 @@ Mid-year adjustments to plans should not be considered a point of failure but de
 The lesson that we learned over time was that forcing an agile framework into an existing waterfall paradigm to “improve our organization” will not make immediate improvements to the organization. Instead, the agile framework needs to be happening in all facets of our organization and that practices of both waterfall and scrum can be blended so that the organization, overall, becomes gradually more agile. Having tiers of functional teams enable cross-prioritization, coordination among teams, and ensuring functional development teams have the “full stack” perspective they require. Through iterative adjustments to planning, we can ensure expectations are met and all priorities are effectively documented; through iterative development activities, we can ensure the highest priority items are worked and delivered as expected; through iterative deliveries, we can ensure projects are delivered with intended goals met and thoroughly vetted by product owners. While this post focused on our current iteration of planning within an agile framework, we need to ensure we remain focused on enabling agile throughout our entire organization so we can continuously and iteratively improve our own processes.
 
 
----
+* * *
+
 _Check out some of DigitalGov’s [recent articles on the agile methodology](https://digital.gov/tag/agile/). Have a **.gov** or **.mil** email address? Join the [Agile/Lean Community of Practice](https://digital.gov/communities/) to connect with others at federal agencies working to increase team efficiency and customer satisfaction, while reducing project risk and cost._

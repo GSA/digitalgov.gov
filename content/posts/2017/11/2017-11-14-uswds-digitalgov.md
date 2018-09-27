@@ -5,11 +5,9 @@ title: 'U.S. Web Design Standards + DigitalGov'
 summary: 'We’re excited to announce that the U.S. Web Design Standards team has moved over to OPP and joined the DigitalGov team.'
 authors:
   - jeremyzilar
-categories:
-  - uswds
 tag:
-  - uswds
   - digitalgov
+  - uswds
 featured_image:
   uid: tile-4
   alt: 'U.S. Web Design Standards'

@@ -254,14 +254,16 @@ digital-records:
   display_name: "Digital Records"
 digital-services-playbook:
   display_name: "Digital Services Playbook"
+digitalgov:
+  display_name: "DigitalGov"
 digitalgov-search:
-  display_name: "Digitalgov Search"
+  display_name: "DigitalGov Search"
 digitalgov-summit:
-  display_name: "Digitalgov Summit"
+  display_name: "DigitalGov Summit"
 digitalgov-university:
-  display_name: "Digitalgov University"
+  display_name: "DigitalGov University"
 digitalgov-user-experience-program:
-  display_name: "Digitalgov User Experience Program"
+  display_name: "DigitalGov User Experience Program"
 disease:
   display_name: "Disease"
 dod:
@@ -558,8 +560,8 @@ modernization-and-migration-management-framework:
   display_name: "Modernization And Migration Management Framework"
 multilingual:
   display_name: "Multilingual"
-multilingual-digital-group:
-  display_name: "Multilingual Digital Group"
+multilingual-community:
+  display_name: "Multilingual Community of Practice"
 multimedia:
   display_name: "Multimedia"
 nara:

@@ -12,6 +12,7 @@ categories:
   - ux
 tag:
   - agile
+  - sprint
   - user-experience
   - ux
 featured_image:

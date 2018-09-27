@@ -1,0 +1,40 @@
+{{ define "content" }}
+
+<section id="posts">
+  <div class="grid-container padding-x-2">
+    <div class="grid-row">
+      <div class="grid-col">
+        <h1>All Posts</h1>
+      </div>
+    </div>
+
+    {{/* list and paginate all of the posts */}}
+    <div class="grid-row grid-gap-6">
+      <div class="grid-col-8">
+
+          {{ $paginator := .Paginate (where .Site.Pages "Section" "posts") }}
+          {{ range $paginator.Pages }}
+          <div class="entry{{ if .Params.featured_image.uid }} has-img{{ end }}">
+            <div class="entry-content">
+              <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
+              <p class="date">{{ .Date.Format "Jan _2, 2006" }} {{ partial "post-authors.html" . }}</p>
+              <p class="summary">{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;»</a></p>
+            </div>
+            {{ partial "img-featured.html" . }}
+          </div>
+
+          {{ end }}
+          {{ partial "pagination.html" . }}
+        </div>
+
+      <div class="grid-col-4">
+        <div class="sidebar">
+          {{ partial "sidebar--topics.html" . }}
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+{{ end }}

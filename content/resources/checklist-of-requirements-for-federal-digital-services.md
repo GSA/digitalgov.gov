@@ -3,7 +3,6 @@ url: /resources/checklist-of-requirements-for-federal-digital-services/
 date: 2014-01-09 1:20:11 -0400
 title: Checklist of Requirements for Federal Websites and Digital Services
 summary: 'Links to relevant laws, policies, and regulations for federal agencies.'
-type: guide
 deck: 'Each requirement section below includes a summary, and links to relevant laws, policies, and regulations.'
 authors:
   - rflagg
@@ -27,7 +26,7 @@ These high-level policies cover basic requirements for all digital products and 
 
 Ensure access for people with disabilities, including motor, auditory, cognitive, seizure/neurological, and visual impairments; ensure content is "perceivable, operable, understandable, and robust." Teach staff how to create accessible products, and conduct accessibility testing before launch, or when making significant changes to, digital products and services.
 
-* [Accessibility for teams](https://accessibility.digital.gov/) — A guide for embedding accessibility and inclusive design practices into your team’s workflow
+* [Accessibility for Teams](https://accessibility.digital.gov/) — A guide for embedding accessibility and inclusive design practices into your team’s workflow
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
 * [Section 508 Law](https://www.section508.gov/content/learn/laws-and-policies) and [Technical Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
 * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)

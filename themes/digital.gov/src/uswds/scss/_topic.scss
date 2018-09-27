@@ -1,0 +1,56 @@
+// topics
+
+#home section#topics{
+  @include u-padding-y(5);
+  // @include u-bg('indigo-10');
+  header{
+    @include u-margin-bottom(2);
+    @include u-text('center');
+    color:#3d4076;
+    h2{
+      @include u-font('sans', '2xl');
+      @include u-line-height('sans', 2);
+      @include u-margin-bottom(1);
+      @include u-text('thin');
+      a{
+        color:#3d4076;
+      }
+    }
+    p{
+      @include u-margin(0);
+      @include u-font('sans', 'md');
+      @include u-text('medium');
+    }
+  }
+}
+
+.topic{
+  @include u-margin-bottom(1);
+  h3{
+    @include u-margin(0);
+    @include u-font('sans', 'lg');
+    @include u-text('semibold');
+    a{
+      // @include u-bg('gray-1');
+      @include u-padding(2);
+      border: 1px #656bd7 solid;
+      @include u-radius('md');
+      color:#656bd7;
+      @include u-display('block');
+      &:hover{
+        color:#2b2c40;
+        border: 1px #2b2c40 solid;
+      }
+    }
+  }
+}
+
+.topic-slim{
+  h3{
+    @include u-font('sans', 'md');
+    @include u-text('medium');
+    a{
+      @include u-padding-y(1);
+    }
+  }
+}

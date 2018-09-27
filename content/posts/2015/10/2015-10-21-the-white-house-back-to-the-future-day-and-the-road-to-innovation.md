@@ -4,7 +4,7 @@ date: 2015-10-21 9:47:15 -0400
 title: The White House, Back To The Future Day, and the Road to Innovation
 summary: ' Well, it&#8217;s here: October 21, 2015. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the Back to the Future trilogy, we, on the other hand, are not quite there&mdash;yet! As the White House'
 authors:
-  - tburwell
+  - toni-bonitto
 categories:
   - Managing Digital
 tag:

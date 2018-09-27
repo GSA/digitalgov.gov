@@ -1,5 +1,6 @@
 ---
-layout: 1col
+type: home
+# layout: alt
 tag:
   - Digital
   - Government

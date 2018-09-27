@@ -1,5 +1,5 @@
 ---
-slug: webinar-recap-social-media-plus-stakeholder-engagement-equals-outreach-success.md
+slug: webinar-recap-social-media-plus-stakeholder-engagement-equals-outreach-success
 date: 2016-11-17 14:00:46 -0400
 title: 'Webinar Recap: Social Media + External Affairs = Outreach Success'
 summary: 'Summary: How to leverage your resources to reach Spanish-dominant Hispanics online. A recent DigitalGov University (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness. Social Media Outreach Goals What does social media outreach success look like? Success is when agencies'
@@ -138,4 +138,4 @@ _Depending on your agency&#8217;s social media policy, always respond to questio
 **Could you share your experience with Facebook ads? How do you target them? Have you found them to be successful?**_CuidadodeSalud.gov did some fan acquisition for a short time. Google ads and banner ads on search engines may be more effective, however. Google is using Twitter trends to pull in content from this platform. Word trails are trending and it&#8217;s because of Twitter._
 
  _Victoria Wales is a member of the [USAGov](https://www.usa.gov/explore/) Outreach Team at the U.S. General Services Administration._
-_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov]({{< link "tag/multilingual" >}})._ _If you’re a government employee, consider joining one of our [Communities]({{< link "/communities/" >}}), such as the [Multilingual Digital Group]({{< link "multilingual.md" >}}), [SocialGov]({{< link "social-media.md" >}}), and the [Web Content Managers Forum]({{< link "web-managers-forum.md" >}})._
+_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov]({{< link "tag/multilingual" >}})._ _If you’re a government employee, consider joining one of our [Communities]({{< link "/communities/" >}}), such as the [Multilingual Community of Practice]({{< link "multilingual.md" >}}), [SocialGov]({{< link "social-media.md" >}}), and the [Web Content Managers Forum]({{< link "web-managers-forum.md" >}})._

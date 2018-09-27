@@ -11,7 +11,7 @@ categories:
   - Social Media
   - strategy-and-policy
 tag:
-  - AIDS.gov
+  - AIDS-gov
   - content
   - content strategy
   - HHS

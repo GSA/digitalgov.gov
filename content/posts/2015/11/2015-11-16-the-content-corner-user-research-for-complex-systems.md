@@ -1,10 +1,10 @@
 ---
-slug: the-content-corner-user-research-for-complex-systems.md
+slug: the-content-corner-user-research-for-complex-systems
 date: 2015-11-16 10:21:56 -0400
 title: 'The Content Corner: User Research for Complex Systems'
 summary: 'My office is preparing to embark on a complete redesign of a 10-year-old system that averages 20,000 users a month. The success and adoption of the new system design and the product as a whole will be heavily determined by how well our team translates users’ needs. Providing a good user experience will also play'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
   - Monthly Theme

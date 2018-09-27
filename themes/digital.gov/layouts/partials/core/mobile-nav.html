@@ -1,0 +1,37 @@
+<nav id="mobile-nav" class="">
+  <div class="nav_head">
+    <h3 class="logo"><a href="{{ "" | absURL }}" title="Digital.gov Home"><img src="{{ "img/digitalgov-logo-white.png" | absURL }}" alt="digital.gov"></a></h3>
+
+    {{/* Search form */}}
+    <form class="display-flex search_form" accept-charset="UTF-8" action="https://find.digitalgov.gov/search" class="search_form" method="get">
+      <input name="utf8" type="hidden" value="&#x2713;" />
+      <input id="affiliate" name="affiliate" type="hidden" value="digitalgov" />
+      <label for="query" class="display-none">Search</label>
+      <input autocomplete="off" class="search_field" name="query" type="text" placeholder="Search Guides &amp; Topics" />
+      <button type="submit"><img src="{{ "img/crystal-ball.png" | absURL }}" alt="Search"></button>
+    </form>
+  </div>
+
+
+  <div class="nav_group nav_group_main">
+    <ul class="main_nav">
+      <li><a href="{{ "" | absURL }}">Home</a></li>
+      <li><a href="{{ "posts" | absURL }}">News</a></li>
+      <li><a href="{{ "events" | absURL }}">Events</a></li>
+      <li><a href="{{ "resources" | absURL }}">Resources</a></li>
+      <li><a href="{{ "communities" | absURL }}">Communities</a></li>
+    </ul>
+  </div>
+
+  <div class="nav_group">
+    <h4>Topics</h4>
+    <ul>
+      {{ range .Site.Data.topicsfeatured.topicsfeatured }}
+      <li>
+        <a href="{{ .url | absURL }}" title="{{ .name }}">{{ .name }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+
+</nav>

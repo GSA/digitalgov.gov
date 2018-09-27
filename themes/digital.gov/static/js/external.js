@@ -26,12 +26,12 @@ $( window ).resize(function() {
 
 // Builds the Edit link on posts/pages/events to point to the GitHub file
 function build_edit_file_link(){
-	// filepathURL is set the <head>
-	if (filepathURL !== undefined) {
+	// editpathURL is set the <head>
+	if (editpathURL !== undefined) {
 
 		// Build the edit link
 		var edit = [
-			"<a target='_blank' class='edit_file_link' href='"+filepathURL+"' title='Edit in GitHub'>",
+			"<a target='_blank' class='edit_file_link' href='"+editpathURL+"' title='Edit in GitHub'>",
 				"Edit",
 			"</a>"
 		].join("\n");
@@ -116,6 +116,7 @@ function show_branch_last_commit(data, branch){
 
 
 function getFormattedDate(d) {
+
 	var date = new Date(d);
 	date.setUTCHours(date.getUTCHours() - 4);
 	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
@@ -125,7 +126,7 @@ function getFormattedDate(d) {
   var day = date.getUTCDate().toString();
   day = day.length > 1 ? day : '0' + day;
 	var globalhours = date.getUTCHours().toString();
-	if (globalhours >= 11 ) {
+	if (globalhours > 12 ) {
 		var hours = globalhours - 12;
 	} else {
 		var hours = globalhours;
@@ -133,7 +134,7 @@ function getFormattedDate(d) {
 	var minutes = date.getUTCMinutes().toString();
 	minutes = minutes.length > 1 ? minutes : '0' + minutes;
 	var seconds = date.getUTCSeconds().toString();
-	if (globalhours >= 11 ) {
+	if (globalhours > 12 ) {
 		var ampm = 'pm';
 	} else {
 		var ampm = 'am';
