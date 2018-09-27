@@ -2,8 +2,8 @@
   <div id="sidebar" class="clearfix">
 
     {{ partial "sidebar--relatedCommunities.html" . }}
-    {{ partial "sidebar--recentPosts.html" . }}
-    {{ partial "sidebar--events.html" . }}
+    {{ partialCached "sidebar--recentPosts.html" . }}
+    {{ partialCached "sidebar--events.html" . }}
 
   </div><!-- #sidebar -->
 </div><!-- #contentright -->

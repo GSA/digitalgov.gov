@@ -2,8 +2,8 @@
   <div class="limit clearfix">
     <div class="footer-widget1">
 
-      {{ partial "footer--social.html" . }}
-      {{ partial "footer--info.html" . }}
+      {{ partialCached "footer--social.html" . }}
+      {{ partialCached "footer--info.html" . }}
 
     </div>
     <div class="footer-widget2">
@@ -13,12 +13,12 @@
     </div>
     <div class="footer-widget3">
 
-      {{ partial "footer--recent-posts.html" . }}
+      {{ partialCached "footer--recent-posts.html" . }}
 
     </div>
     <div class="footer-widget4" id="tribe-events-list-widget-7">
 
-      {{ partial "sidebar--events.html" . }}
+      {{ partialCached "sidebar--events.html" . }}
 
     </div>
   </div>

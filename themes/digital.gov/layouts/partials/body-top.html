@@ -24,12 +24,12 @@
     {{ partial "notice-bar.html" . }}
   {{ end }}
 
-  {{ partial "usa-banner.html" . }}
+  {{ partialCached "usa-banner.html" . }}
 
   <div id="outer-wrap" role="main">
 
     {{ partial "nav-top-nav.html" . }}
-    {{ partial "header.html" . }}
+    {{ partialCached "header.html" . }}
 
     <div id="wrap">
       {{ if ($.Scratch.Get "has_sidebar") }}
