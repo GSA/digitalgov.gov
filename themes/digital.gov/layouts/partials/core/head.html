@@ -1,7 +1,7 @@
 <!-- Logic for featured image -->
 {{/* Featured_image call */}}
   {{ $cdnurl := .Site.Params.cdnurl }}
-  {{ $featImg := index $.Site.Data.images (default "digital-gov-card-2" .Params.featured_image.uid) }}
+  {{ $featImg := index $.Site.Data.images (default "digitalgov-card-1" .Params.featured_image.uid) }}
   {{ $featImgBase := $featImg.uid }}
   {{ $featImgExt := $featImg.format }}
   {{ $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase }}
@@ -111,7 +111,7 @@
   <script type='text/javascript' src='{{ "js/jquery.js" | absURL }}'></script>
 
   {{ "<!-- Favicon -->" | safeHTML }}
-  <link rel="shortcut icon" href="https://s3.amazonaws.com/digitalgov/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="{{ "img/digit-16.png" | absURL }}" type="image/x-icon" />
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
