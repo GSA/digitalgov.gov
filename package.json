@@ -41,6 +41,7 @@
     "gulp-tap": "^1.0.1",
     "gulp-watch": "^4.3.11",
     "image-size": "^0.6.3",
+    "lodash": "^4.17.11",
     "merge-stream": "^1.0.1",
     "postcss-uncss": "^0.15.0",
     "uncss": "^0.16.2",
