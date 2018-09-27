@@ -3,7 +3,7 @@ slug: office-educational-technology-hold-design-challenge-supporting-data-report
 date: 2018-09-26 12:00:00 -0500
 title: 'A Design Challenge to Improve How School Data is Reported'
 summary: 'Join the DOE for two days of sketching, prototyping and building solutions to help states design family-friendly approaches to report cards'
-deck: 'Join the DOE for two days of sketching, prototyping and building solutions to help states design family-friendly approaches to report cards.'
+deck: 'Join ED for two days of sketching, prototyping, and building solutions to help states design family-friendly approaches to report cards that make school data more transparent and accessible.'
 authors:
   - office-educational-technology
 categories:
