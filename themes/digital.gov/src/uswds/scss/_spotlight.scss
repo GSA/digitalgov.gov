@@ -1,12 +1,16 @@
-// spotlight
+// News + Spotlight
 
-#home #spotlight{
-  @include u-bg('indigo-80');
+#home #news .spotlight {
   @include u-bg('gray-warm-3');
-  @include u-padding(1);
+  @include u-padding('105');
   header{
-    @include u-margin-y('105');
+    @include u-margin(0);
+    @include u-margin-bottom(2);
+    @include u-padding('105');
     color: #3d4076;
+    border-right: 1px #888 solid;
+    border-top: 1px #888 solid;
+    border-left: 1px #888 solid;
     h2{
       @include u-margin-bottom('105');
       @include u-font('sans', 'xl');
@@ -25,143 +29,119 @@
       @include u-margin(0);
       @include u-text('center');
       @include u-text('normal');
-      @include u-font('sans', '3xs');
+      @include u-font('sans', '2xs');
       @include u-line-height('sans', 3);
     }
   }
+
+  // Individual spots in Spotlight
   article{
-    @include u-margin-bottom(1);
-    @include u-font('sans', '2xs');
-    @include u-bg('indigo-5');
+    @include u-margin-bottom('105');
     @include u-padding(1);
+    @include u-font('sans', '2xs');
+
+    // To make the whole SPOT clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+    position: relative;
+    span{
+      margin: 0;
+      position:absolute;
+      width:100%;
+      height:100%;
+      top:0;
+      left: 0;
+      z-index: 1;
+      /* fixes overlap error in IE7/8, */
+      background-image: url('empty.gif');
+    }
+
     p{
       @include u-line-height('sans', 3);
+      strong{
+        color: #4d52b0;
+      }
       a{
+        z-index: 2; // this pops the link out, above the <span> element described above
+        position: relative;
         @include u-text('no-underline');
-        strong{
-          @include u-text('bold');
+        color: #000;
+        img{
+          @include u-padding-right('05');
+          position: relative;
+          top:2px;
+        }
+        &:hover{
+          @include u-text('underline');
         }
       }
     }
-  }
-  .featured_spot{
-    .media {
-      float: right;
-      width: 200px;
+    .source{
+      @include u-margin-top(1);
     }
+    &:hover{
+      @include u-bg('gray-warm-10');
+    }
+
   }
 }
 
-#home #spotlight2{
-
-  .stream{
-    @include u-bg('gray-warm-3');
-    @include u-padding('105');
+#home #news .featured {
+  article{
+    @include u-padding-y(2);
+    border-bottom: 1px #ccc solid;
+    &:first-child{
+      // @include u-padding-top(0);
+    }
+    &:last-child{
+      @include u-padding-bottom(0);
+      border-bottom: none;
+    }
     header{
-      @include u-margin(0);
-      @include u-margin-bottom(2);
-      @include u-padding('105');
-      color: #3d4076;
-      border-right: 1px #888 solid;
-      border-top: 1px #888 solid;
-      border-left: 1px #888 solid;
-      h2{
-        @include u-margin-bottom('105');
-        @include u-font('sans', 'xl');
-        @include u-text('thin');
-        @include u-text('center');
+      h3{
+        @include u-margin(0);
+        @include u-margin-bottom(1);
+        @include u-font('sans', 'md');
+        color:#000;
+        @include u-text('heavy');
         @include u-line-height('sans', 2);
         a{
+          color:#000;
           @include u-text('no-underline');
-          color: #000;
-          &:hover{
-            border-bottom: 2px #914734 solid; // $indigo-40
-          }
         }
       }
       p{
         @include u-margin(0);
-        @include u-text('center');
-        @include u-text('normal');
-        @include u-font('sans', '2xs');
+        @include u-font('sans', 'xs');
         @include u-line-height('sans', 3);
+        @include u-text('light');
       }
     }
-    article{
-      @include u-margin-bottom(3);
-      @include u-padding-x(1);
-      @include u-font('sans', '2xs');
-      p{
-        @include u-line-height('sans', 3);
-        a{
-          @include u-text('no-underline');
-          strong{
-            @include u-text('bold');
-          }
-        }
+    .media {
+      img{
+        -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(100%);
       }
     }
-  }
-
-  .featured{
-    article{
-      @include u-padding-y(2);
-      border-bottom: 1px #ccc solid;
-      &:first-child{
-        // @include u-padding-top(0);
-      }
-      &:last-child{
-        @include u-padding-bottom(0);
-        border-bottom: none;
-      }
-      header{
-        h3{
-          @include u-margin(0);
-          @include u-margin-bottom(1);
-          @include u-font('sans', 'md');
-          color:#000;
-          @include u-text('heavy');
-          @include u-line-height('sans', 2);
-          a{
-            color:#000;
-            @include u-text('no-underline');
-          }
-        }
-        p{
-          @include u-margin(0);
-          @include u-font('sans', 'xs');
-          @include u-line-height('sans', 3);
-          @include u-text('light');
-        }
-      }
+    &:hover{
       .media {
         img{
-          -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-          filter: grayscale(100%);
+          -webkit-filter: grayscale(0); /* Safari 6.0 - 9.0 */
+          filter: grayscale(0);
         }
       }
-      &:hover{
-        .media {
-          img{
-            -webkit-filter: grayscale(0); /* Safari 6.0 - 9.0 */
-            filter: grayscale(0);
-          }
-        }
-      }
-      footer{
-        @include u-margin-y(2);
-        @include u-font('sans', '3xs');
+    }
+    footer{
+      @include u-margin-y(2);
+      @include u-font('sans', '3xs');
+      color:#888;
+      a{
         color:#888;
-        a{
-          color:#888;
-          @include u-text('no-underline');
-          &:hover{
-            @include u-text('underline');
-          }
+        @include u-text('no-underline');
+        &:hover{
+          @include u-text('underline');
         }
-        span{
-          @include u-padding-x(1);
-        }
+      }
+      span{
+        @include u-padding-x(1);
       }
     }
   }

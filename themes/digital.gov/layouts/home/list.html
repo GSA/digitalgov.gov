@@ -3,7 +3,7 @@
 <main aria-label="Content" role="main" id="home">
 
   {{/* Spotlight */}}
-  <section id="spotlight2">
+  <section id="news">
     <div class="grid-container padding-x-2">
       <div class="grid-row grid-gap-4">
         {{- $posts := where .Data.Pages "Section" "posts" -}}
@@ -11,7 +11,7 @@
 
         {{/* Stream of Spots */}}
         <div class="grid-col-12 tablet:grid-col-4">
-          <section class="stream">
+          <section class="spotlight">
 
             <header>
               <h2>Spotlight</h2>
@@ -20,8 +20,9 @@
             {{- range first 5 $spots -}}
 
             <article class="spot">
-              <p>{{- .Content | markdownify -}}</p>
-              <p><a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">{{- .Params.source_name -}}</a><p>
+              {{- .Content -}}
+              <p class="source"><a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">{{- .Params.source_name -}}</a></p>
+              <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
             </article>
 
             {{- end -}}
