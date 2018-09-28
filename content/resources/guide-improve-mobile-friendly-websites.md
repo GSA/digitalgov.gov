@@ -21,11 +21,9 @@ For six months, from September 22, 2017 to March 22, 2018, we tested the 26 U.S.
 
 The information here outlines the top five practices we found across these sites. The most common issue found on these sites involves the use of JavaScript. JavaScript is used on many desktop and mobile applications because it extends the functionality of web pages, is a relatively easy language to learn and use, and it executes relatively quickly on the client side. However, if JavaScript is not placed and executed from an optimal place in the code, not minimized, nor used inline, it may negatively affect the application performance on mobile devices that traditionally have minimal resources.
 
-Keep in mind, if a website is developed using a content management system (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code.
-
+Keep in mind, if a website is developed using a content management system (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code. 
 
 {{< img src="army-mobile" >}}
-
 
 ## Optimize JavaScript
 
@@ -99,7 +97,7 @@ However, CSS can increase application load time if absolute dimensions and posit
 
 **Solution** – In the `<head>` section of the HTML, use language to call the CSS file externally, keeping the CSS instructions in a separate file from the HTML (see below).
 
-`<link rel="stylesheet" type="text/css" href="https://mysite.com/main.css" media="screen" title="style (screen)" />`
+```<link rel="stylesheet" type="text/css" href="https://mysite.com/main.css" media="screen" title="style (screen)" />```
 
 **Caveat**: Using many external CSS stylesheets can adversely affect performance, so they should be combined into a single external CSS.
 
@@ -171,7 +169,7 @@ Page weight, also known as "the gravity of the web," decreases your application 
 
 **Solution** - Specify image width and height by including the `width` and `height` attributes when you use the `img` element (see below).
 
-`<img src="images/clown.jpg" width="50" height="50" />`
+```<img src="images/clown.jpg" width="50" height="50" />```
 
 If no dimensions are specified in the containing document, or if the dimensions specified do not match those of the actual images, the browser will require a reflow and repaint once the images are downloaded. To prevent reflows, specify the width and height of all images either in the HTML `<img>` tag or in CSS.
 
@@ -190,7 +188,7 @@ Reducing the number of times your application requests and processes resources w
 
 **Solution** - Leverage browser caching by changing the request headers of your resources to use caching. You can either  add some code to the `.htaccess` configuration file on the web host/server or use the basic `Cache-Control` HTTP header (see below).
 
-`Cache-Control: max-age=2592000, public`
+```Cache-Control: max-age=2592000, public```
 
 #### References
 
@@ -245,7 +243,7 @@ We used the following steps to conduct this study:
    - Varvy SEO tool | [https://varvy.com/](https://varvy.com/)
    - Gtmetrix - [https://gtmetrix.com/](https://gtmetrix.com/)
 3. After looking at the failed criteria reported by each tool, we compiled the results into a single Microsoft Excel spreadsheet.
-4. We grouped the issues that we found on 15 or more sites into the four categories covered in this guide, which are listed in order of most occurrences (JavaScript) to least occurrences (caching).
+4. We grouped the issues that we found on 15 or more sites into the five categories covered in this guide, which are listed in order of most occurrences (JavaScript) to least occurrences (pop-ups).
 
 > This guide was prepared by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration
 
