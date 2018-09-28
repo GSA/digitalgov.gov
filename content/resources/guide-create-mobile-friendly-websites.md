@@ -243,7 +243,7 @@ We used the following steps to conduct this study:
    - Varvy SEO tool | [https://varvy.com/](https://varvy.com/)
    - Gtmetrix - [https://gtmetrix.com/](https://gtmetrix.com/)
 3. After looking at the failed criteria reported by each tool, we compiled the results into a single Microsoft Excel spreadsheet.
-4. We grouped the issues that we found on 15 or more sites into the four categories covered in this guide, which are listed in order of most occurrences (JavaScript) to least occurrences (caching).
+4. We grouped the issues that we found on 15 or more sites into the five categories covered in this guide, which are listed in order of most occurrences (JavaScript) to least occurrences (pop-ups).
 
 > This guide was prepared by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration
 
