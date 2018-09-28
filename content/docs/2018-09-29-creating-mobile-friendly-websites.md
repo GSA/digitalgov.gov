@@ -1,5 +1,5 @@
 ---
-slug: a-guide-creating-mobilefriendly-websites
+slug: creating-mobile-friendly-websites
 date: 2018-09-29 12:30:00 -0500
 title: 'A Guide to Creating Mobile-Friendly Websites'
 summary: 'Based on a recent six-month study, this guide outlines the top five practices needed to improve the mobile-friendliness of federal websites&#58; the optimization of JavaScript, CSS, and images, caching, and pop-ups&#46;'
