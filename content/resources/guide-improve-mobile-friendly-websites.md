@@ -110,7 +110,7 @@ However, CSS can increase application load time if absolute dimensions and posit
 
 ### Combine CSS Image Assets into Sprite Files
 
-**Issue** - When many images are used independently, it requires several network requests to download each one. CSS Sprites combine multiple images into a single image file for use on a website to speed up delivery and load time. The file can then be cut-up using CSS.
+**Issue** - When many images are used independently, it requires several network requests to download each one. CSS Sprites combine multiple images into a single image file for use on a website to speed up delivery and load time. The file can then be cut up using CSS.
 
 **Solution** - You can find many tools to create sprite sheets, including Compass, Lemonade, SpriteMe, Fireworks CS6, and TexturePacker.
 
