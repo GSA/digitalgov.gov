@@ -1,9 +1,10 @@
 ---
-slug: guide-create-mobile-friendly-websites
+url: /resources/guide-create-mobile-friendly-websites
 date: 2018-09-29 12:30:00 -0500
-title: 'A Guide to Creating Mobile-Friendly Websites'
+title: 'A Guide to Improving Your Mobile-Friendly Website'
 summary: 'Based on a recent six-month study, this guide outlines the top five practices needed to improve the mobile-friendliness of federal websites&#58; the optimization of JavaScript, CSS, and images, caching, and pop-ups&#46;'
 type: guide
+deck: Five tactics for improving the performance of your website
 
 ---
 
@@ -15,7 +16,9 @@ The information here outlines the top five practices we found across these sites
 
 Keep in mind, if a website is developed using a content management system (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code.
 
-[ARMY IMAGE]
+
+{{< img src="army-mobile" >}}
+
 
 ## Optimize JavaScript
 
