@@ -60,7 +60,9 @@ The [Federal Emergency Management Agency](http://www.fema.gov/) (FEMA) and [Subs
 
 FEMA&#8217;s mobile app, available for free in the <a href="https://itunes.apple.com/us/app/fema/id474807486?mt=8" target="_blank">iTunes App Store</a>, <a href="https://play.google.com/store/apps/details?id=gov.fema.mobile.android&hl=en" target="_blank">Google Play</a>, and [Blackberry World](https://appworld.blackberry.com/webstore/vendor/18869/), is designed to help families prepare for a wide array of natural and man-made disasters, and can help Americans recover, should a disaster affect their lives. Some key features of the app include:
 
-  * {{< legacy-img src="2016/07/250-x-444-FEMA-app-Heat-Advisory-pg-1-for-Washington-DC-area-July-25th-2016.jpg" alt="Screen capture of the FEMA app's Heat Advisory for the Washington, DC area on July 25, 2016." >}}**National Weather Service Alerts:** The app enables users to receive weather alerts from NWS for up to 5 locations across the nation. This new feature allows users to receive [push notifications]({{< link "2016-02-23-the-benefits-of-being-push-y-reaching-your-audience-through-push-notifications.md" >}}) on severe weather happening anywhere they select in the country, even if the phone is not located in the area, making it easy to follow severe weather that may be threatening family and friends. To the right is one of the Heat Advisory alerts I received for the Washington, DC area, warning us of the day&#8217;s expected high—95 to 100 degrees, with a [Heat Index](http://www.nws.noaa.gov/om/heat/heat_index.shtml) of 108 degrees—and tips on how to reduce risk and take extra precautions.
+{{< legacy-img-right src="2016/07/250-x-444-FEMA-app-Heat-Advisory-pg-1-for-Washington-DC-area-July-25th-2016.jpg" alt="Screen capture of the FEMA app's Heat Advisory for the Washington, DC area on July 25, 2016." >}}
+
+  * **National Weather Service Alerts:** The app enables users to receive weather alerts from NWS for up to 5 locations across the nation. This new feature allows users to receive [push notifications]({{< link "2016-02-23-the-benefits-of-being-push-y-reaching-your-audience-through-push-notifications.md" >}}) on severe weather happening anywhere they select in the country, even if the phone is not located in the area, making it easy to follow severe weather that may be threatening family and friends. To the right is one of the Heat Advisory alerts I received for the Washington, DC area, warning us of the day&#8217;s expected high—95 to 100 degrees, with a [Heat Index](http://www.nws.noaa.gov/om/heat/heat_index.shtml) of 108 degrees—and tips on how to reduce risk and take extra precautions.
   * **Safety Tips:** Tips on how to stay safe before, during, and after over 20 types of hazards, including floods, hurricanes, tornadoes and earthquakes.
   * **Preparation Checklist:**  Helps users put together emergency kits and develop family communication plans to determine how they will reunite with loved ones in the event of a disaster.
   * **Disaster Reporter**: Allows users to take a photograph in a disaster area and submit it, along with a short text description. All approved disaster-related photos and text are posted within the app and [online](https://www.fema.gov/disaster-reporter).
@@ -80,21 +82,17 @@ Utilities such as electricity and phone service often go down during natural dis
 
 The app has 3 main sections:
 
-{{< legacy-img src="2016/07/250-x-444-SAMHSA-Treatment-Locator-in-Washington-DC.jpg" alt="The Disaster Response App's Treatment Locator shows 50 facilities within Washington, DC" >}}**Prepare to Deploy**
-  
-Like the [online version](https://findtreatment.samhsa.gov/), responders can use the SAMHSA Treatment Locator within the Disaster Response App to find up to 50 in-patient, out-patient, and long-term care facilities across various emergency services within a 100-mile radius. These locations can be searched for and saved before deployment in case Internet connections in the field may be down.
+{{< legacy-img-right src="2016/07/250-x-444-SAMHSA-Treatment-Locator-in-Washington-DC.jpg" alt="The Disaster Response App's Treatment Locator shows 50 facilities within Washington, DC" >}}
 
-**On-the-Ground Assistance**
-  
-An extensive collection of resources, including (but not limited to): the Treatment Locator, Hotlines and Critical Contacts, a Publications Directory (PDF files in English, Spanish, and Punjabi can be sent via text or email to survivors and their family members or caregivers, and to fellow colleagues), and a Behaviors and Interventions section that provides guidance on connecting with and providing services to survivors of all ages and different cultures, and tips for problem-solving and substance abuse indicators.
+**Prepare to Deploy** <br />Like the [online version](https://findtreatment.samhsa.gov/), responders can use the SAMHSA Treatment Locator within the Disaster Response App to find up to 50 in-patient, out-patient, and long-term care facilities across various emergency services within a 100-mile radius. These locations can be searched for and saved before deployment in case Internet connections in the field may be down.
 
-**Post-deployment Guide
-  
-** Provides content, links, and helpline phone numbers to assist responders who may need training and/or emotional support as they transition in returning to their regular duties.
+**On-the-Ground Assistance** <br />An extensive collection of resources, including (but not limited to): the Treatment Locator, Hotlines and Critical Contacts, a Publications Directory (PDF files in English, Spanish, and Punjabi can be sent via text or email to survivors and their family members or caregivers, and to fellow colleagues), and a Behaviors and Interventions section that provides guidance on connecting with and providing services to survivors of all ages and different cultures, and tips for problem-solving and substance abuse indicators.
 
-[youtube=http://www.youtube.com/watch?v=eaQ9GimkZbs&w=600]
+**Post-deployment Guide** <br />Provides content, links, and helpline phone numbers to assist responders who may need training and/or emotional support as they transition in returning to their regular duties. 
+
+{{< youtube eaQ9GimkZbs >}}
   
-The SAMHSA Behavioral Health Disaster Response App is available for free in the [iTunes App Store](https://itunes.apple.com/us/app/samhsa-behavioral-health-disaster/id787518271), [Google Play](https://play.google.com/store/apps/details?id=gov.hhs.samhsa.app.disaster), and [BlackBerry World](https://appworld.blackberry.com/webstore/content/47454887/). Since it launched in 2014, the app received a Silver Mobile Web Health Award from the National Health Information Center and has been downloaded over 8,200 times; use of the app, instead of printed Disaster Kits, [has been estimated to have saved the agency over $73,000 in printing and shipping costs](http://www.iqsolutions.com/our-work/behavioral-health-disaster-response-goes-digital).
+The SAMHSA Behavioral Health Disaster Response App is available for free in the [iTunes App Store](https://itunes.apple.com/us/app/samhsa-behavioral-health-disaster/id787518271), [Google Play](https://play.google.com/store/apps/details?id=gov.hhs.samhsa.app.disaster), and [BlackBerry World](https://appworld.blackberry.com/webstore/content/47454887/). Since it launched in 2014, the app received a Silver Mobile Web Health Award from the National Health Information Center and has been downloaded over 8,200 times; use of the app, instead of printed Disaster Kits, [has been estimated to have saved the agency over $73,000 in printing and shipping costs](http://www.iqsolutions.com/our-work/behavioral-health-disaster-response-goes-digital). 
 
 ## 4FEMA Text Messages
 
@@ -103,7 +101,9 @@ The public can use FEMA&#8217;s [Text Message program](https://www.fema.gov/text
   * Search for open shelters and open disaster recovery centers by zip code
   * Receive safety tips for specific disaster types
 
-{{< legacy-img src="2016/07/250-x-444-Android-FEMA-Text-Message-for-Hurricane.jpg" alt="Screen capture of a user signing up for text messages from FEMA for hurricane information." >}}If one doesn&#8217;t have the FEMA app installed, they can text **SHELTER** and a Zip Code to 43362 (4FEMA) to find open shelters, and text **DRC** and a Zip Code to 43362 to find open disaster recovery centers.
+{{< legacy-img-right src="2016/07/250-x-444-Android-FEMA-Text-Message-for-Hurricane.jpg" alt="Screen capture of a user signing up for text messages from FEMA for hurricane information." >}}
+
+If one doesn&#8217;t have the FEMA app installed, they can text **SHELTER** and a Zip Code to 43362 (4FEMA) to find open shelters, and text **DRC** and a Zip Code to 43362 to find open disaster recovery centers.
 
 Users can also subscribe to a variety of lists by sending a text message to 43362 with disaster-specific keywords such as **HURRICANE**, **WILDFIRE**, **EARTHQUAKE**, **BLACKOUT**, or **PREPARE**, among others. These safety tips are received bi-monthly and users can unsubscribe or resubscribe at any time.
 
@@ -122,5 +122,10 @@ To see how your agency can help NWS spread important weather safety messages on 
   * NWS [Hurricanes](http://www.nws.noaa.gov/om/hurricane/) and [Heat](http://www.nws.noaa.gov/os/heat/)
   * CDC Emergency Preparedness and Response [Extreme Heat](http://emergency.cdc.gov/disasters/extremeheat/index.asp), [Hurricanes](http://emergency.cdc.gov/disasters/hurricanes/index.asp), [Floods](http://emergency.cdc.gov/disasters/floods/index.asp)
   * [Historical Hurricane Tracks](https://coast.noaa.gov/hurricanes/)
-  * National Library of Medicine (NLM) Disaster Information Management Research Center (DIMRC) [Disaster Apps for Your Digital Go Bag](https://disasterinfo.nlm.nih.gov/dimrc/disasterapps.html) includes links to apps for Medical and Health Information, Responder Support and Safety, Psychological Health Tools, U.S. Federal Organizations, American Red Cross Suite of Apps, Surveillance and Alerts, Family Reunification, Directories, and more_You can download other helpful mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps listed in the directory by using the [Federal Mobile Products Registry](http://apps.usa.gov/register)._
+  * National Library of Medicine (NLM) Disaster Information Management Research Center (DIMRC) [Disaster Apps for Your Digital Go Bag](https://disasterinfo.nlm.nih.gov/dimrc/disasterapps.html) includes links to apps for Medical and Health Information, Responder Support and Safety, Psychological Health Tools, U.S. Federal Organizations, American Red Cross Suite of Apps, Surveillance and Alerts, Family Reunification, Directories, and more. 
+
+*** 
+
+_You can download other helpful mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps listed in the directory by using the [Federal Mobile Products Registry](http://apps.usa.gov/register)._
+
 _Got a great idea for a mobile product or service and need help planning or releasing it? Contact the [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}}). Are you a federal employee interested in how agencies are using mobile technologies and building government-wide solutions? Join the [MobileGov Community of Practice]({{< link "categories/mobile" >}}) with your .gov or .mil email address._
