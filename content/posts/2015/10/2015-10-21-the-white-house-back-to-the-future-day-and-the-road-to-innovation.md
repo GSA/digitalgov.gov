@@ -15,7 +15,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{{< legacy-img src="2015/10/600-x-300-wh\_backtothefutureday\_socialgraphic.jpg" alt="White House's Back To The Future Day graphic" >}}
+{{< legacy-img src="2015/10/600-x-300-wh_backtothefutureday_socialgraphic.jpg" alt="White House's Back To The Future Day graphic" >}}
 
 <p class="light">
   Well, it&#8217;s here: <strong>October 21, 2015</strong>. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the <em>Back to the Future</em> trilogy, we, on the other hand, are not quite there—yet! As the White House notes, we have come a long way in the past 30 years since the original <em>Back to the Future</em> came out in 1985, and <strong><a href="https://twitter.com/search?q=%23BackToTheFutureDay">#BackToTheFutureDay</a></strong> is a great opportunity to talk about where we&#8217;re going in the next 30.
