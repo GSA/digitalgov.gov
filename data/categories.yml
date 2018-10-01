@@ -38,6 +38,9 @@ data:
 design:
   display_name: "Design"
 
+emerging-tech:
+  display_name: "Emerging Tech"
+
 governance:
   display_name: "Governance"
 
