@@ -22,7 +22,7 @@
     "child_process": "^1.0.2",
     "del": "^3.0.0",
     "dotenv": "^4.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-bless": "^4.0.1",
     "gulp-clean-css": "^3.10.0",

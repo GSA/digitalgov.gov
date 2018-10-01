@@ -1,0 +1,17 @@
+<!-- image -->
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $legacyPath := "_legacy-img" }}
+{{ $imgPath := (.Get "src") }}
+{{ $imgPath := replaceRE "^/" "" $imgPath }}
+{{ $imgCDN := printf "%s/%s/%s" $cdnurl $legacyPath $imgPath }}
+{{ $prefix := replaceRE "^(http[s]://).+$" "$1" $imgPath }}
+
+<div class="image{{ if or (.Get "align") (.Get "caption")}}{{ with .Get "caption" }} wp-caption{{ end }}{{ with .Get "align" }} align{{.}}{{ end }}{{ end }}">
+  <img src="{{ if ne $prefix $imgPath }}{{ $imgPath }}{{ else }}{{ $imgCDN }}{{ end }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
+  {{ with .Get "caption" }}
+    <p class="wp-caption-text">
+      {{ . | markdownify }}
+    </p>
+  {{ end }}
+</div>
+<!-- image -->
