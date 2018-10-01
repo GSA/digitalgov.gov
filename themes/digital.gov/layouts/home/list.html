@@ -116,30 +116,41 @@
         <div class="grid-col-5">
           <div class="events-table">
             <h4>Upcomming Events</h4>
-            <table class="events-table">
-              {{- range $events -}}
-                {{- $now := now.Format "2006-01-02" -}}
-                {{- $start := .Date.Format "2006-01-02" -}}
-                {{- $.Scratch.Set "displaytitle" (printf "%s " .Title) -}}
-                {{- if .Params.End_date -}}
-                  {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
-                  {{- if or (ge $start $now) (ge $end $now)}}
-                  <tr>
-                    <td class="date"><span>{{- dateFormat "01/02" .Date -}}</span></td>
-                    <td class="title"><a href="{{- .URL -}}" title="{{- $.Scratch.Get "displaytitle" -}}" rel="bookmark">{{- $.Scratch.Get "displaytitle" | markdownify -}}</a></td>
-                  </tr>
-                  {{- end -}}
-
-                {{- else if ge $start $now -}}
-                <tr>
-                  <td><span class="event-date">{{- dateFormat "January 02, 3:04 PM" .Date -}} - {{- dateFormat "3:04 PM ET" .Params.end_date -}}</span></td>
-                  <td><a href="{{- .URL -}}" title="{{- $.Scratch.Get "displaytitle" -}}" rel="bookmark">{{- $.Scratch.Get "displaytitle" | markdownify -}}</a></td>
-                </tr>
-                {{- end -}}
-              {{- end -}}
-            </table>
+            <div class="youtube-player" data-id="yo5bsqixpNU"></div>
           </div>
         </div>
+        <script type="text/javascript">
+          /* Light YouTube Embeds by @labnol */
+          /* Web: http://labnol.org/?p=27941 */
+
+          document.addEventListener("DOMContentLoaded",
+              function() {
+                  var div, n,
+                      v = document.getElementsByClassName("youtube-player");
+                  for (n = 0; n < v.length; n++) {
+                      div = document.createElement("div");
+                      div.setAttribute("data-id", v[n].dataset.id);
+                      div.innerHTML = labnolThumb(v[n].dataset.id);
+                      div.onclick = labnolIframe;
+                      v[n].appendChild(div);
+                  }
+              });
+
+          function labnolThumb(id) {
+              var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
+                  play = '<div class="play"></div>';
+              return thumb.replace("ID", id) + play;
+          }
+
+          function labnolIframe() {
+              var iframe = document.createElement("iframe");
+              var embed = "https://www.youtube.com/embed/ID?autoplay=1";
+              iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
+              iframe.setAttribute("frameborder", "0");
+              iframe.setAttribute("allowfullscreen", "1");
+              this.parentNode.replaceChild(iframe, this);
+          }
+        </script>
       </div>
     </div>
   </section>
