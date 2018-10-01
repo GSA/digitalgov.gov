@@ -19,6 +19,7 @@
   "homepage": "https://github.com/GSA/digital.gov#readme",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.3.1",
+    "autoprefixer": "^8.6.5",
     "child_process": "^1.0.2",
     "del": "^3.0.0",
     "dotenv": "^4.0.0",
@@ -55,7 +56,6 @@
     "vinyl-paths": "^2.1.0"
   },
   "dependencies": {
-    "autoprefixer": "^8.6.5",
     "change-case": "^3.0.1",
     "css-mqpacker": "^6.0.2",
     "cssnano": "^3.10.0",
