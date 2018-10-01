@@ -7,6 +7,7 @@ authors:
   - jherman
 categories:
   - Communities
+  - emerging-tech
   - Managing Digital
 tag:
   - AI
