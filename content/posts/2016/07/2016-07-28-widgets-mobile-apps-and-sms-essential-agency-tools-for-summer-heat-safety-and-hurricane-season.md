@@ -41,7 +41,7 @@ As is the case each summer, most of the U.S. is dealing with dangerous [heat wav
 
 Additionally, there are still 4 months left in the 2016 hurricane season, which ends November 30th. Annually, there are an average of 12 tropical storms, 6 of which become hurricanes in the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico. Earlier this month, a tropical depression formed in the eastern region of the Pacific Ocean. Hurricane Darby grew into a tropical storm, then reached its peak as a [Category 3](http://www.prh.noaa.gov/cphc/pages/aboutsshs.php) hurricane, as it headed for Hawaii. Thankfully, the storm&#8217;s power weakened before it hit the chain of islands as a tropical storm—but it still caused flooding and property damage in its wake. 
 
-{{< legacy-img src="2016/07/Darby-rb_lalo-animated-600x400.gif" alt="The path of Tropical Storm Darby as it passes over Hawaii, July 25, 2016." caption="" >}} 
+{{< legacy-img src="2016/07/Darby-rb_lalo-animated-600x400.gif" alt="The path of Tropical Storm Darby as it passes over Hawaii, July 25, 2016." caption="NOAA" >}} 
 
 The [Federal Emergency Management Agency](http://www.fema.gov/) (FEMA) and [Substance Abuse and Mental Health Services Administration](http://www.samhsa.gov/) (SAMHSA) offer essential website tools and mobile services to help the general public, businesses, and first responders nationwide as they prepare for and deal with disasters that can result from extreme weather conditions. 
 
