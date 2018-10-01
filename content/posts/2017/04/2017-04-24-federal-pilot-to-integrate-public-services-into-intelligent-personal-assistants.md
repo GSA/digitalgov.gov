@@ -7,6 +7,7 @@ authors:
   - jherman
 categories:
   - Communities
+  - emerging-tech
   - Managing Digital
   - Our Work
 tag:
@@ -29,7 +30,7 @@ The demand for more automated, self-service access to United States public servi
 
 {{< legacy-img src="2017/04/600-x-450-A-hand-holding-the-Amazon-Echo-Dot-Alexa.jpg" alt="A hand holding the Amazon Echo Dot (Alexa)." >}}
 
-The U.S. General Services Administration’s (GSA) Emerging Citizen Technology program, part of the Technology Transformation Service’s Innovation Portfolio, launched an open-sourced pilot to guide dozens of federal programs to make public service information available to consumer Intelligent Personal Assistants (IPAs) for the home and office, such as Amazon Alexa, Microsoft Cortana, Google Assistant, and Facebook Messenger.
+The U.S. General Services Administration’s (GSA) [Emerging Citizen Technology program](https://emerging.digital.gov/), part of the Technology Transformation Service’s Innovation Portfolio, launched an open-sourced pilot to guide dozens of federal programs to make public service information available to consumer Intelligent Personal Assistants (IPAs) for the home and office, such as Amazon Alexa, Microsoft Cortana, Google Assistant, and Facebook Messenger.
 
 You can now [follow the pilot and contribute from the start on its GitHub Wiki](https://github.com/GSA/AI-Assistant-Pilot/wiki/InterAgency-AI-Personal-Assistant-Rapid-Development-Pilot).
 
