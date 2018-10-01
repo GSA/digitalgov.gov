@@ -22,6 +22,14 @@ toptopics:
     slug            : "design"
     url             : "/categories/design/"
 
+  - name            : "Emerging Tech"
+    slug            : "emerging-tech"
+    url             : "/categories/emerging-tech/"
+
+  - name            : "Managing Digital"
+    slug            : "managing-digital"
+    url             : "/categories/managing-digital/"
+
   - name            : "Metrics"
     slug            : "resources"
     url             : "/categories/metrics/"
