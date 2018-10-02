@@ -1,7 +1,8 @@
 // Content settings
 
 .content{
-
+  @include u-font('sans', 'md');
+  
   h1{
     @include u-display('none');
   }

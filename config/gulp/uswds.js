@@ -68,9 +68,9 @@ gulp.task('copy-uswds-assets', () => {
 
 gulp.task('build-sass', function (done) {
   var plugins = [
-      autoprefixer({ browsers: ['> 3%', 'Last 2 versions'], cascade: false, }),
-      movecss({ sort: true }),
-      cssnano()
+    autoprefixer({ browsers: ['> 1%','Last 2 versions','IE 11'], cascade: false, }),
+    movecss({ sort: true }),
+    cssnano({ autoprefixer: { browsers: '> 1%, Last 2 versions, IE 11' }})
   ];
   return gulp.src([
       `${PROJECT_SASS_SRC}/*.scss`
