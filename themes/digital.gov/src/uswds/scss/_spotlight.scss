@@ -1,16 +1,17 @@
 // News + Spotlight
 
+#home #news{
+  @include u-padding-y(1);
+}
 #home #news .spotlight {
   @include u-bg('gray-warm-3');
   @include u-padding('105');
+  // border: 1px #888 solid;
   header{
     @include u-margin(0);
     @include u-margin-bottom(2);
-    @include u-padding('105');
-    color: #3d4076;
-    border-right: 1px #888 solid;
-    border-top: 1px #888 solid;
-    border-left: 1px #888 solid;
+    // @include u-padding('105');
+    color: #000;
     h2{
       @include u-margin-bottom('105');
       @include u-font('sans', 'xl');
@@ -89,7 +90,7 @@
     @include u-padding-y(2);
     border-bottom: 1px #ccc solid;
     &:first-child{
-      // @include u-padding-top(0);
+      @include u-padding-top(0);
     }
     &:last-child{
       @include u-padding-bottom(0);
@@ -130,7 +131,8 @@
       }
     }
     footer{
-      @include u-margin-y(2);
+      @include u-margin-top(2);
+      @include u-margin-bottom(1);
       @include u-font('sans', '3xs');
       color:#888;
       a{
