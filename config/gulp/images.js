@@ -53,9 +53,9 @@ gulp.task("file-tidy", function (done) {
     .pipe(gulp.dest("content/images/_working/to-process/"))
 });
 
-gulp.task("clean-inbox", ["file-tidy"], function (done) {
+gulp.task("clean-inbox", gulp.series('file-tidy', function(done){
   return del(['content/images/_inbox/**', '!content/images/_inbox', '!content/images/_inbox/__add jpg and png files to this folder__']);
-});
+}));
 
 
 function get_curr_date(){
@@ -102,7 +102,7 @@ function get_image_sq(path){
   return sq_dim;
 }
 
-gulp.task("img-variants", ["clean-inbox"], function (done) {
+gulp.task("img-variants", gulp.series('clean-inbox', function (done) {
   return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}")
     // Create responsive variants
     .pipe(tap(function (file) {
@@ -325,9 +325,9 @@ gulp.task("img-variants", ["clean-inbox"], function (done) {
     }))
     .pipe(vinylPaths(del))
     .pipe(gulp.dest("content/images/_working/processed/"));
-});
+}));
 
-gulp.task("upload", ["img-variants"], function (done) {
+gulp.task("upload", gulp.series('img-variants', function (done) {
   return gulp.src("content/images/_working/processed/**/*")
     .pipe(s3({
       Bucket: 'digitalgov',   //  Required
@@ -339,7 +339,7 @@ gulp.task("upload", ["img-variants"], function (done) {
 
     .pipe(vinylPaths(del))
     .pipe(gulp.dest("content/images/_working/uploaded/"));
-});
+}));
 
 
 // gulp.task('log', ["upload"], function (cb) {
@@ -349,7 +349,7 @@ gulp.task("upload", ["img-variants"], function (done) {
 //     }))
 // });
 
-gulp.task("proxy", ["upload"], function (done) {
+gulp.task("proxy", gulp.series('upload', function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
   return gulp.src("content/images/_working/originals/*.{png,jpg}")
@@ -394,15 +394,15 @@ gulp.task("proxy", ["upload"], function (done) {
       silent: true,
     }))
     .pipe(gulp.dest("static/img/proxy/"));
-});
+}));
 
-gulp.task("done", ["proxy"], function (done) {
+gulp.task("done", gulp.series('proxy', function (done) {
   return gulp.src("content/images/_working/originals/*")
     .pipe(gulp.dest("content/images/uploaded/"));
-});
+}));
 
-gulp.task("cleanup", ["done"], function (done) {
+gulp.task("cleanup", gulp.series('done', function (done) {
   return del(['content/images/_working/**']);
-});
+}));
 
-gulp.task("process-img", ["cleanup"], function () {});
+gulp.task("process-img", gulp.series('cleanup', function () {}));

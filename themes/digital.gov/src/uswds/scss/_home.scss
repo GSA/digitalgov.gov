@@ -59,7 +59,7 @@
   }
   header{
     h3{
-      @include margin(0);
+      @include u-margin(0);
       @include u-font('sans', 'xs');
       @include u-line-height('sans', 3);
       a{
@@ -71,7 +71,7 @@
       }
     }
     p{
-      @include margin(0);
+      @include u-margin(0);
       @include u-font('sans', '2xs');
     }
   }

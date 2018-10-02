@@ -97,7 +97,7 @@ gulp.task('build-sass', function (done) {
 
 });
 
-gulp.task('build-app', ['build-sass'], function() {
+gulp.task('build-app', gulp.series('build-sass', function() {
   var plugins = [
     uncss({
       html: [`${BUILD_DEST}/**/*.html`],
@@ -114,4 +114,4 @@ gulp.task('build-app', ['build-sass'], function() {
     .pipe(gzip({ extension: 'gz' }))
     .pipe(gulp.dest(`${CSS_DEST}`))
     .pipe(size());
-});
+}));

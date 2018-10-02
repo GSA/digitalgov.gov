@@ -23,14 +23,14 @@ const PROJECT_JS_SRC  = './themes/digital.gov/src/js';
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-gulp.task('watch', ['build-sass'], function (){
-  gulp.watch(`${PROJECT_SASS_SRC}/*.scss`, ['build-sass'])
-  gulp.watch(`${PROJECT_SASS_SRC}/scss/*.scss`, ['build-sass'])
-  gulp.watch(`${PROJECT_JS_SRC}/*.js`, ['compile'])
-  gulp.watch(`${USWDS_SRC}/scss/*.scss`, ['copy-uswds-assets','build-sass']);
-});
+gulp.task('watch', gulp.series('build-sass', function (){
+  gulp.watch(`${PROJECT_SASS_SRC}/*.scss`, gulp.series('build-sass'))
+  gulp.watch(`${PROJECT_SASS_SRC}/scss/*.scss`, gulp.series('build-sass'))
+  gulp.watch(`${PROJECT_JS_SRC}/*.js`, gulp.series('compile'))
+  gulp.watch(`${USWDS_SRC}/scss/*.scss`, gulp.series('copy-uswds-assets','build-sass'));
+}));
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Set watch as default task
-// gulp.task('default', ['watch', 'copy-uswds-assets', 'copy-uswds-fonts', 'build-sass', 'fontawesome', 'compile']);
-gulp.task('default', ['watch', 'compile','build-sass']);
+// gulp.task('default', gulp.series('watch', 'copy-uswds-assets', 'copy-uswds-fonts', 'build-sass', 'fontawesome', 'compile'));
+gulp.task('default', gulp.series('watch', 'compile','build-sass'));
