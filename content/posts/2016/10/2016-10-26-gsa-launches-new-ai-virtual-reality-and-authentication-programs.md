@@ -7,6 +7,7 @@ authors:
   - jherman
 categories:
   - Communities
+  - emerging-tech
   - Managing Digital
   - Mobile
   - Our Work
@@ -21,7 +22,7 @@ tag:
   - social media
   - US Digital Registry
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - Virtual-Augmented-Reality-Community
 ---
 
 Today we’re launching three new initiatives [powered by GSA Digital Communities]({{< link "/communities/" >}}) that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry.
