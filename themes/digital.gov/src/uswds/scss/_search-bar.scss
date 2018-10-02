@@ -14,11 +14,12 @@
 	}
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
-		max-width: 53rem;
+		@include u-maxw('mobile-lg');
 		@include u-float('right');
 		@include u-flex('align-start');
 		@include u-flex('justify-end');
 	}
+
 	.search_field{
 		@include u-width('full');
 		@include u-height(5);

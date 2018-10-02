@@ -1,17 +1,18 @@
 // Header
 
 header#header{
-	@include u-padding-y(3);
+	@include u-padding-top(4);
+	@include u-padding-bottom(3);
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
 		@include u-padding-y(4);
 		@include u-padding-bottom(5);
 	}
-	// @include u-bg('indigo-cool-30');
 
 	// Logo
 	.logo{
 		@include u-margin(0);
+		@include u-padding-top('2px');
 		@include u-font('sans', 'xl');
 		@include u-line-height('sans', 2);
 		@include u-display('inline-block');
@@ -20,7 +21,7 @@ header#header{
 			@include u-text('no-underline');
 		}
 		img{
-			width: 165px;
+			@include u-width('card');
 		}
 	}
 
@@ -49,7 +50,8 @@ header#header{
 	// Main Navigation
 	nav{
 		@include u-margin-top(2);
-		padding: .4rem 3px .4rem 2px;
+		@include u-padding-top(1);
+		// padding: .4rem 3px .4rem 2px;
 		@include u-font('sans', 'md');
 		@include u-height('full');
 		@include u-width('full');
