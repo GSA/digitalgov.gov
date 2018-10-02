@@ -1,16 +1,26 @@
 {{ define "content" }}
 
-<main role="main" id="home">
+<main role="main" id="topic" class="page-list">
   <div class="grid-container padding-x-2">
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-3">
-        {{ partial "sidebar--relatedCommunities.html" . (dict "list" . "communities" ($.Scratch.Get "relatedCommunities")) }}
-        {{ partial "sidebar--topics.html" . }}
-        {{ partial "sidebar--recentPosts.html" . }}
-        {{ partial "sidebar--events.html" . }}
+      <div class="grid-col-12 tablet:grid-col-4">
+        <nav>
+          <header>
+            <h4>Topics</h4>
+          </header>
+          <ul class="add-list-reset">
+            {{ $currentNode := . }}
+            {{ range .Site.Data.topicsfeatured.topicsfeatured }}
+              <li>
+                <a {{ if eq ($currentNode.Permalink | absURL) (.url | absURL) }}class="active"{{ end }} href="{{ .url | absURL }}" title="{{ .name }}"># <span>{{ .name }}</span></a>
+              </li>
+            {{ end }}
+          </ul>
+        </nav>
       </div>
-      <div class="grid-col-9">
 
+
+      <div class="grid-col-12 tablet:grid-col-8">
         <header>
           {{ $data := $.Site.Data }}
           {{ $taxonomy := .Data.Plural }}

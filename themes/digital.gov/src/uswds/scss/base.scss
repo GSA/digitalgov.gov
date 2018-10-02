@@ -3,18 +3,26 @@
 @import 'layout';
 
 @import 'header';
+@import 'footer';
+@import 'newsletter';
+
+@import 'page-lists';
+
 @import 'mobile-nav';
 @import 'search-bar';
-@import 'home';
 @import 'article';
 @import 'guides';
 @import 'table-of-contents';
 @import 'content';
-@import 'news';
 @import 'authors';
-@import 'training-events';
-@import 'topic';
-@import 'communities';
-@import 'newsletter';
+
+// Homepage Styles
+@import 'home/home';
+@import 'home/news';
+@import 'home/training-events';
+@import 'home/topics';
+@import 'home/communities';
+
+
+
 @import 'related_communities';
-@import 'footer';
