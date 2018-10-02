@@ -1,10 +1,10 @@
 {{ define "content" }}
 
-<main role="main" id="topic" class="page-list">
+<main role="main" id="topic" class="collection">
   <div class="grid-container padding-x-2">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12 tablet:grid-col-4">
-        <nav>
+        <nav class="topics-featured">
           <header>
             <h4>Topics</h4>
           </header>
@@ -21,35 +21,48 @@
 
 
       <div class="grid-col-12 tablet:grid-col-8">
-        <header>
-          {{ $data := $.Site.Data }}
-          {{ $taxonomy := .Data.Plural }}
-          {{ $slug := .Title | urlize }}
-          {{ $taxdata := index $data $taxonomy }}
-          {{ $term := index $taxdata $slug }}
-          {{ if eq $taxonomy "categories" }}
-            {{ $.Scratch.Set "categories" $slug }}
-          {{ end }}
-          {{ with $term.communities }}
-            {{ $.Scratch.Set "relatedCommunities" . }}
-          {{  end }}
+        <section class="article-list">
+          <header>
+            {{ $data := $.Site.Data }}
+            {{ $taxonomy := .Data.Plural }}
+            {{ $slug := .Title | urlize }}
+            {{ $taxdata := index $data $taxonomy }}
+            {{ $term := index $taxdata $slug }}
+            {{ if eq $taxonomy "categories" }}
+              {{ $.Scratch.Set "categories" $slug }}
+            {{ end }}
+            {{ with $term.communities }}
+              {{ $.Scratch.Set "relatedCommunities" . }}
+            {{  end }}
 
-          <h1>{{ $term.display_name }}</h1>
-          {{ with $term.summary }}
-            <p>{{ . | markdownify }}</p>
-          {{ end }}
-        </header>
-
-        <section>
+            <h1>{{ $term.display_name }}</h1>
+            {{ with $term.summary }}
+              <p>{{ . | markdownify }}</p>
+            {{ end }}
+          </header>
           {{ range .Paginator.Pages }}
-          <div class="entry{{ if .Params.featured_image.uid }} has-img{{ end }}">
-            <div class="entry-content">
-              <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
-              <p class="date">{{ .Date.Format "Jan _2, 2006" }} {{ partial "post-authors.html" . }}</p>
-              <p class="summary">{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;»</a></p>
+
+          <article>
+            <div class="grid-row grid-gap-3">
+              <div class="grid-col-3 tablet:grid-col-4">
+                <div class="media">
+                  <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
+                    {{ partial "img-featured--home.html" . }}
+                  </a>
+                </div>
+              </div>
+              <div class="grid-col-9 tablet:grid-col-8">
+                <header>
+                  <h3><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></h3>
+                  <p>{{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
+
+                </header>
+                <footer>
+                  <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2" -}}</a><span>&#10038;</span>{{- partial "core/get_authors_short" . -}}
+                </footer>
+              </div>
             </div>
-            {{ partial "img-featured.html" . }}
-          </div>
+          </article>
 
           {{ end }}
           {{ partial "pagination.html" . }}
