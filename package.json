@@ -65,6 +65,6 @@
     "node-notifier": "^5.1.2",
     "octicons": "^7.3.0",
     "path": "^0.12.7",
-    "uswds": "^2.0.0-alpha.2"
+    "uswds": "^2.0.0-beta"
   }
 }
