@@ -9,14 +9,14 @@ display_name: Andrew Maier
 first_name: Andrew
 last_name: Maier
 uid: andrew-maier
-email: "andrew.maier@gsa.gov"
-bio: 'Andrew Maier is a designer and researcher with 18F'.
+email: andrew.maier@gsa.gov
+bio: "Andrew Maier is a designer and researcher with 18F."
 
 # Agency Full Name [e.g. Department of Interior]
-agency_full_name: 'General Services Administration'
+agency_full_name: "General Services Administration"
 
 # Agency Acronym or short name [e.g. DOI]
-agency: 'GSA'
+agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: 'Washington, DC'
@@ -32,4 +32,4 @@ github: 'andrewmaier'
 twitter: 'andrewmaier'
 
 # Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
-url: 'https://civicquarterly.com'
+url: "https://civicquarterly.com"
