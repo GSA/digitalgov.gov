@@ -2,24 +2,29 @@
 
 #home section#topics{
   @include u-padding-y(5);
-  // @include u-bg('indigo-10');
+  @include u-padding-bottom(6);
+  @include u-bg('gray-warm-3');
   header{
-    @include u-margin-bottom(2);
+    @include u-margin-bottom(4);
     @include u-text('center');
     color:#3d4076;
     h2{
-      @include u-font('sans', '2xl');
+      @include u-font('sans', '3xl');
       @include u-line-height('sans', 2);
       @include u-margin-bottom(1);
       @include u-text('thin');
       a{
-        color:#3d4076;
+        @include u-text('no-underline');
+        color: #4d52b0;
+        &:hover{
+          border-bottom: 2px #4d52b0 solid; // $violet-60v
+        }
       }
     }
     p{
       @include u-margin(0);
-      @include u-font('sans', 'md');
-      @include u-text('medium');
+      @include u-font('sans', 'lg');
+      @include u-text('light');
     }
   }
 }
@@ -31,11 +36,11 @@
     @include u-font('sans', 'lg');
     @include u-text('semibold');
     a{
-      // @include u-bg('gray-1');
+      @include u-bg('gray-1');
       @include u-padding(2);
-      border: 1px #656bd7 solid;
+      border: 1px #4150f2 solid;
       @include u-radius('md');
-      color:#656bd7;
+      color:#4150f2;
       @include u-display('block');
       &:hover{
         color:#2b2c40;

@@ -2,6 +2,7 @@
 
 #home #news{
   @include u-padding-y(1);
+  @include u-padding-bottom(5);
 }
 #home #news .spotlight {
   @include u-bg('gray-warm-3');
