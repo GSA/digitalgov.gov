@@ -4,18 +4,16 @@
   @include u-padding-y(1);
   @include u-padding-bottom(5);
 }
+
 #home #news .spotlight {
-  @include u-bg('gray-warm-3');
-  @include u-padding('105');
-  // border: 1px #888 solid;
+
+  // Spotlight Header
   header{
-    @include u-margin(0);
-    @include u-margin-top(1);
-    @include u-margin-bottom(2);
-    // @include u-padding('105');
+    @include u-bg('gray-warm-3');
+    @include u-padding('105');
     color: #000;
     h2{
-      @include u-margin-bottom(1);
+      @include u-margin-y(1);
       @include u-font('sans', 'xl');
       @include u-text('thin');
       @include u-text('center');
@@ -36,73 +34,87 @@
       @include u-line-height('sans', 3);
     }
   }
-  footer{
-    @include u-margin-x(1);
-    @include u-text('center');
-    @include u-font('sans', '2xs');
-    border-top: 1px #4d52b0 solid; // $indigo-40
-    p{
-      @include u-margin-top(1);
-    }
-    i{
-      @include u-text('indigo-80');
-    }
-    a{
-      @include u-text('no-underline');
-      @include u-text('indigo-80');
+  section{
+    @include u-bg('gray-warm-3');
+    @include u-padding('105');
+
+    // Individual spots in Spotlight
+    article{
+      @include u-margin-bottom('105');
+      @include u-padding(1);
+      @include u-font('sans', '2xs');
+
+      // To make the whole SPOT clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+      position: relative;
+      span{
+        margin: 0;
+        position:absolute;
+        width:100%;
+        height:100%;
+        top:0;
+        left: 0;
+        z-index: 1;
+        /* fixes overlap error in IE7/8, */
+        background-image: url('empty.gif');
+      }
+
+      p{
+        @include u-line-height('sans', 3);
+        strong{
+          color: #4d52b0;
+        }
+        a{
+          z-index: 2; // this pops the link out, above the <span> element described above
+          position: relative;
+          @include u-text('no-underline');
+          color: #000;
+          img{
+            @include u-padding-right('05');
+            position: relative;
+            top:2px;
+          }
+          &:hover{
+            @include u-text('underline');
+          }
+        }
+      }
+      .source{
+        @include u-margin-top(1);
+      }
       &:hover{
-        border-bottom: 2px #4d52b0 solid; // $violet-60v
+        @include u-bg('gray-warm-10');
       }
     }
   }
 
-  // Individual spots in Spotlight
-  article{
-    @include u-margin-bottom('105');
-    @include u-padding(1);
-    @include u-font('sans', '2xs');
 
-    // To make the whole SPOT clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
-    position: relative;
-    span{
-      margin: 0;
-      position:absolute;
-      width:100%;
-      height:100%;
-      top:0;
-      left: 0;
-      z-index: 1;
-      /* fixes overlap error in IE7/8, */
-      background-image: url('empty.gif');
-    }
+  // Spotlight Footer
+  footer{
+    @include u-padding-y(2);
+    @include u-padding-x('105');
+    @include u-bg('indigo-80');
+    @include u-text('center');
+    @include u-font('sans', '2xs');
+    border-top: 1px #4d52b0 solid; // $indigo-40
 
     p{
-      @include u-line-height('sans', 3);
-      strong{
-        color: #4d52b0;
-      }
-      a{
-        z-index: 2; // this pops the link out, above the <span> element described above
-        position: relative;
-        @include u-text('no-underline');
-        color: #000;
-        img{
-          @include u-padding-right('05');
-          position: relative;
-          top:2px;
-        }
-        &:hover{
-          @include u-text('underline');
-        }
-      }
-    }
-    .source{
       @include u-margin-top(1);
-    }
-    &:hover{
-      @include u-bg('gray-warm-10');
+      @include u-text('gray-warm-1');
+      &:first-child{
+        @include u-margin(0);
+      }
     }
 
+    i{
+      @include u-text('gray-warm-1');
+    }
+    a{
+      @include u-text('no-underline');
+      @include u-text('gray-warm-1');
+      &:hover{
+        border-bottom: 2px #4d52b0 solid; // $violet-60v
+      }
+    }
   }
 }
 

@@ -47,18 +47,20 @@
               <h2>Spotlight</h2>
               <p>A round-up of relevant news and resources from across our community</p>
             </header>
-            {{- range first 5 $spots -}}
+            <section>
+              {{- range first 5 $spots -}}
 
-            <article class="spot">
-              {{- .Content -}}
-              <p class="source"><a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">{{- .Params.source_name -}}</a></p>
-              <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
-            </article>
+              <article class="spot">
+                {{- .Content -}}
+                <p class="source"><a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">{{- .Params.source_name -}}</a></p>
+                <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
+              </article>
 
-            {{- end -}}
+              {{- end -}}
+            </section>
             <footer>
-              <p><a href="#">Contribute to Spotlight</a> </p>
-              <p><i class="fas fa-envelope"></i> <a href="#">Subscribe to our newsletter</a></p>
+              <p><a href="#">Have something to add? Send us a note</a> </p>
+              <p><i class="fas fa-envelope"></i> <a href="#newsletter">Subscribe to Spotlight</a></p>
             </footer>
           </section>
         </div>

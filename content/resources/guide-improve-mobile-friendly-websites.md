@@ -7,13 +7,6 @@ featured_image:
   uid: army-mobile
 type: guide
 deck: Five tactics for improving the performance of your website
-aliases:
-  - /guide/performance/
-  - /guide/performance/optimize-javascript/
-  - /guide/performance/optimize-css/
-  - /guide/performance/optimize-images/
-  - /guide/performance/utilize-caching/
-  - /guide/performance/methodology/
 
 ---
 
