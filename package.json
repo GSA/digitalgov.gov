@@ -21,6 +21,7 @@
     "@fortawesome/fontawesome-free": "^5.3.1",
     "autoprefixer": "^8.6.5",
     "child_process": "^1.0.2",
+    "css-mqpacker": "^6.0.2",
     "del": "^3.0.0",
     "dotenv": "^4.0.0",
     "gulp": "^4.0.0",
@@ -57,7 +58,6 @@
   },
   "dependencies": {
     "change-case": "^3.0.1",
-    "css-mqpacker": "^6.0.2",
     "cssnano": "^3.10.0",
     "gulp-sourcemaps": "^2.6.1",
     "gutil": "^1.6.4",
