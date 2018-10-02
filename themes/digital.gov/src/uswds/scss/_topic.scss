@@ -13,18 +13,20 @@
       @include u-line-height('sans', 2);
       @include u-margin-bottom(1);
       @include u-text('thin');
-      a{
-        @include u-text('no-underline');
-        color: #4d52b0;
-        &:hover{
-          border-bottom: 2px #4d52b0 solid; // $violet-60v
-        }
-      }
     }
     p{
       @include u-margin(0);
+      @include u-margin-bottom(1);
       @include u-font('sans', 'lg');
       @include u-text('light');
+    }
+    a{
+      @include u-text('no-underline');
+      color: #4d52b0;
+      @include u-text('blue-50v');
+      &:hover{
+        border-bottom: 2px #4d52b0 solid; // $violet-60v
+      }
     }
   }
 }

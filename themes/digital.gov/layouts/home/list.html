@@ -71,6 +71,27 @@
   {{/* Topics */}}
   {{- partialCached "core/topics_featured" . -}}
 
+  {{/* Communities */}}
+  <section id="communities">
+    <div class="grid-container padding-x-2">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-6">
+          <header>
+            <h2>Join a Community of Practice</h2>
+          </header>
+        </div>
+      </div>
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-6">
+          <p>Copy goes here.</p>
+        </div>
+        <div class="grid-col-6">
+          <h3>Community Name</h3>
+          <h3>Community Name</h3>
+        </div>
+      </div>
+    </div>
+  </section>
 
   {{/* Training & Events */}}
   <section id="training-events">
@@ -85,7 +106,7 @@
       </div>
 
       <div class="grid-row grid-gap-2">
-        <div class="grid-col-7">
+        <div class="grid-col-6">
           {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
           {{- range $events -}}
             {{- $now := now.Format "2006-01-02" -}}
@@ -116,9 +137,8 @@
           {{- end -}}
         </div>
 
-        <div class="grid-col-5">
+        <div class="grid-col-6">
           <div class="events-table">
-            <h4>Upcomming Events</h4>
             <div class="youtube-player" data-id="yo5bsqixpNU"></div>
           </div>
         </div>
@@ -154,28 +174,6 @@
               this.parentNode.replaceChild(iframe, this);
           }
         </script>
-      </div>
-    </div>
-  </section>
-
-  {{/* Communities */}}
-  <section id="communities">
-    <div class="grid-container padding-x-2">
-      <div class="grid-row grid-gap-4">
-        <div class="grid-col-6">
-          <header>
-            <h2>Join a Community</h2>
-          </header>
-        </div>
-      </div>
-      <div class="grid-row grid-gap-4">
-        <div class="grid-col-6">
-          <p>Copy goes here.</p>
-        </div>
-        <div class="grid-col-6">
-          <h3>Community Name</h3>
-          <h3>Community Name</h3>
-        </div>
       </div>
     </div>
   </section>

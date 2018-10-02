@@ -45,11 +45,11 @@
       @include u-margin-top(1);
     }
     i{
-      color: #4d52b0;
+      @include u-text('indigo-80');
     }
     a{
       @include u-text('no-underline');
-      color: #4d52b0;
+      @include u-text('indigo-80');
       &:hover{
         border-bottom: 2px #4d52b0 solid; // $violet-60v
       }
@@ -142,12 +142,25 @@
         -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
         filter: grayscale(100%);
       }
+      &::after {
+        display: block;
+        position: relative;
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, #8889db 100%);
+        margin-top: -66px;
+        height: 60px;
+        width: 100%;
+        content: '';
+      }
     }
     &:hover{
       .media {
         img{
           -webkit-filter: grayscale(0); /* Safari 6.0 - 9.0 */
           filter: grayscale(0);
+        }
+        &::after {
+          margin-top: -66px;
+          height: 60px;
         }
       }
     }
