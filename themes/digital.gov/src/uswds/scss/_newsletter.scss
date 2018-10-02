@@ -1,10 +1,9 @@
 // Newsletter
 
 #newsletter{
-  @include u-margin-y(5);
+  @include u-bg('indigo-70');
   section{
-    @include u-bg('indigo-50');
-    @include u-padding(3);
+    @include u-padding-y(5);
   }
   h2{
     @include u-margin(0);

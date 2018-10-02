@@ -56,6 +56,10 @@
             </article>
 
             {{- end -}}
+            <footer>
+              <p><a href="#">Contribute to Spotlight</a> </p>
+              <p><i class="fas fa-envelope"></i> <a href="#">Subscribe to our newsletter</a></p>
+            </footer>
           </section>
         </div>
 
@@ -63,8 +67,6 @@
     </div>
   </section>
 
-  {{/* Spotlight / Newsletter */}}
-  {{- partialCached "core/newsletter_signup" . -}}
 
   {{/* Topics */}}
   {{- partialCached "core/topics_featured" . -}}

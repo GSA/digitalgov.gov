@@ -9,11 +9,12 @@
   // border: 1px #888 solid;
   header{
     @include u-margin(0);
+    @include u-margin-top(1);
     @include u-margin-bottom(2);
     // @include u-padding('105');
     color: #000;
     h2{
-      @include u-margin-bottom('105');
+      @include u-margin-bottom(1);
       @include u-font('sans', 'xl');
       @include u-text('thin');
       @include u-text('center');
@@ -32,6 +33,25 @@
       @include u-text('normal');
       @include u-font('sans', '2xs');
       @include u-line-height('sans', 3);
+    }
+  }
+  footer{
+    @include u-margin-x(1);
+    @include u-text('center');
+    @include u-font('sans', '2xs');
+    border-top: 1px #4d52b0 solid; // $indigo-40
+    p{
+      @include u-margin-top(1);
+    }
+    i{
+      color: #4d52b0;
+    }
+    a{
+      @include u-text('no-underline');
+      color: #4d52b0;
+      &:hover{
+        border-bottom: 2px #4d52b0 solid; // $violet-60v
+      }
     }
   }
 
