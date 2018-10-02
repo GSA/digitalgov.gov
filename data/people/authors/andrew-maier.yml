@@ -10,7 +10,7 @@ first_name: Andrew
 last_name: Maier
 uid: andrew-maier
 email: "andrew.maier@gsa.gov"
-bio: Andrew Maier is a designer researchers with 18F at GSA.
+bio: 'Andrew Maier is a designer and researcher with 18F'.
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: 'Washington, DC'
