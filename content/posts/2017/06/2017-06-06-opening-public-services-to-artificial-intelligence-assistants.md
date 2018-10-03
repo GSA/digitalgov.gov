@@ -6,11 +6,11 @@ summary: '&ldquo;Hey, Computer, how do I access my public services?&rdquo;  Citi
 authors:
   - jherman
 categories:
-  - Content
+  - content
   - emerging-tech
-  - Managing Digital
-  - Our Work
-  - UX
+  - managing-digital
+  - our-work
+  - ux
 tag:
   - artificial-intelligence
   - customer-experience
