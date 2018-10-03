@@ -8,9 +8,9 @@ authors:
   - paul-ollig
 categories:
   - emerging-tech
-  - Mobile
-  - Social Media
-  - UX
+  - mobile
+  - social-media
+  - ux
 tag:
   - Augmented Reality
   - gamification
