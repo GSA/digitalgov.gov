@@ -6,10 +6,10 @@ summary: 'The demand for more automated, self-service access to United States pu
 authors:
   - jherman
 categories:
-  - Communities
+  - communities
   - emerging-tech
-  - Managing Digital
-  - Our Work
+  - managing-digital
+  - our-work
 tag:
   - AI
   - artificial-intelligence
