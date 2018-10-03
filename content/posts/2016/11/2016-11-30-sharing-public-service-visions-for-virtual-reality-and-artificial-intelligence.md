@@ -6,9 +6,9 @@ summary: 'I’m taking a break from sorting through dozens of concepts from fede
 authors:
   - jherman
 categories:
-  - Communities
+  - communities
   - emerging-tech
-  - Managing Digital
+  - managing-digital
 tag:
   - AI
   - artificial-intelligence
