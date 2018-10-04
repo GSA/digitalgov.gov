@@ -8,8 +8,8 @@ featured_image:
 event_type: 
   - online
   - in-person
-date: 2018-10-10 15:00:00 -0500
-end_date: 2018-10-10 16:30:00 -0500
+date: 2018-10-24 15:00:00 -0500
+end_date: 2018-10-24 16:30:00 -0500
 event_organizer: DigitalGov University
 host: 
 registration_url: 
@@ -43,7 +43,7 @@ This afternoon event is an opportunity for API practitioners from across federal
 
 ## Location 
 
-In person: GSA Headquarters - Room 2213  
+In person: GSA Headquarters - Room 2413  
 Virtual:  Will send to registrants
 
 
