@@ -76,4 +76,19 @@
       z-index: 1;
     }
   }
+  footer{
+    @include u-padding-y(4);
+    @include u-text('center');
+    .btn{
+      @include u-padding-y('105');
+      @include u-padding-x(3);
+      @include u-radius('md');
+      @include u-bg('indigo-cool-40v');
+      @include u-width('card');
+      @include u-text('gray-1');
+      @include u-font('sans', 'lg');
+      @include u-text('medium');
+      @include u-text('no-underline');
+    }
+  }
 }
