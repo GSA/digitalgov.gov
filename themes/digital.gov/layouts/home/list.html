@@ -14,7 +14,8 @@
         <div class="grid-col-12 tablet-lg:grid-col-8 tablet-lg:order-2 order-1">
           <section class="article-list">
             {{- range first 4 $posts.ByWeight -}}
-            <article>
+            {{ $editthis := printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path }}
+            <article data-edit-this="{{ $editthis }}">
               <div class="grid-row grid-gap-3">
                 <div class="grid-col-3 tablet:grid-col-4">
                   <div class="media">
@@ -102,13 +103,14 @@
       <div class="grid-row grid-gap-2">
         <div class="grid-col-12">
           <header>
-            <h2>Training & Events</h2>
+            <h2>Learn from the best</h2>
+            <p>Training text government-wide elevate your skills text goes here.</p>
           </header>
         </div>
       </div>
 
       <div class="grid-row grid-gap-2">
-        <div class="grid-col-6">
+        <div class="grid-col-12 tablet:grid-col-6">
           {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
           {{- range $events -}}
             {{- $now := now.Format "2006-01-02" -}}
@@ -139,7 +141,7 @@
           {{- end -}}
         </div>
 
-        <div class="grid-col-6">
+        <div class="grid-col-12 tablet:grid-col-6">
           <div class="events-table">
             <div class="youtube-player" data-id="yo5bsqixpNU"></div>
           </div>
