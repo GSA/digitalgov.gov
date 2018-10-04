@@ -205,6 +205,7 @@
                 <img src="/img/services/{{ .Params.icon }}.png" alt="{{ .Params.head }} Icon">
                 <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
                 <p>{{ .Params.summary | markdownify }}</p>
+                <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>
               </article>
             </div>
           {{ end }}

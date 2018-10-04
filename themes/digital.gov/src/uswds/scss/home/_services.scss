@@ -47,6 +47,8 @@
       @include u-line-height('sans', 2);
       @include u-font('sans', 'lg');
       @include u-text('heavy');
+      z-index: 2;
+      position: relative;
       a{
         @include u-text('no-underline');
         @include u-text('indigo-80');
@@ -60,6 +62,18 @@
       @include u-font('sans', 'sm');
       @include u-line-height('sans', 2);
       @include u-text('indigo-80');
+    }
+
+    // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+    position: relative;
+    span{
+      margin: 0;
+      position:absolute;
+      width:100%;
+      height:100%;
+      top:0;
+      left: 0;
+      z-index: 1;
     }
   }
 }

@@ -29,6 +29,12 @@
       }
     }
   }
+  .topic-slim{
+    a{
+      // @include u-bg('blue-30v');
+      // @include u-text('blue-80v');
+    }
+  }
 }
 
 .topic{
