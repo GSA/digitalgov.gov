@@ -9,10 +9,9 @@ summary: 'a one-line summary of the product'
 # Note: We add a ?dg to the end of the URL
 src: 'https://challenge.gov/'
 
-# Note: We add a ?dg to the end of the URL
 # Images need to be 200x200px with a transparent background
 # Upload images to /static/images/promos/filename.png
-icon: 'challengegov'
+icon: 'challengegov.png'
 
 # Feature this on the homepage
 homepage: true
