@@ -13,4 +13,8 @@ src: 'https://accessibility.digital.gov/'
 # Upload images to /static/images/promos/filename.png
 
 weight: 3
+
+tag:
+  - accessibility
+  - design
 ---

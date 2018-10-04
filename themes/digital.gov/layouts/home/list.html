@@ -199,12 +199,13 @@
       </div>
       <div class="grid-row grid-gap-2">
         {{ $promos := .Site.GetPage "page" "promo" }}
+        {{ $promos_count := len ($promos.Resources.ByType "page") }}
         {{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 3 }}
         {{ $promos := shuffle ($promos) }}
         {{ with $promos }}
           {{ range $i, $e := first 9 . }}
             <div class="grid-col-12 tablet:grid-col-4 flex-6">
-              <article>
+              <article class="promo">
                 {{ if .Params.icon }}
                 <img src="/img/promos/{{ .Params.icon }}" alt="{{ .Params.head }} Icon">
                 {{ end }}
@@ -214,13 +215,12 @@
               </article>
             </div>
           {{ end }}
-
         {{ end }}
       </div>
       <div class="grid-row grid-gap-2">
         <div class="grid-col-12 tablet:grid-col-4 tablet:grid-offset-4">
           <footer>
-            <a class="btn" href="#">See all »</a>
+            <a class="btn" href="#">See all {{ $promos_count }} »</a>
           </footer>
         </div>
       </div>

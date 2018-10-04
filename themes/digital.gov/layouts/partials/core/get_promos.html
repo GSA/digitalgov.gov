@@ -1,0 +1,71 @@
+{{/*
+  ======================================
+  Promos (for articles)
+  ======================================
+*/}}
+
+{{/* Gets the tags associated with this post */}}
+{{ $post_tags := .Params.tag }}
+
+{{/* For each tag in the post... */}}
+{{ range $i, $tag := $post_tags }}
+
+  {{/* Get all the promos */}}
+  {{ $promos := $.Site.GetPage "page" "promo" }}
+
+  {{/* Get all the promos WHERE page weight == 3 */}}
+  {{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 3 }}
+
+  {{/* If there are any promos */}}
+  {{ with $promos }}
+
+    <section id="related_promos">
+    {{/* For each promo */}}
+    {{ range $i, $e := . }}
+
+      {{/* get the tags associated with the promo */}}
+      {{ $promo_tags := .Params.tag }}
+
+      {{/* If the $tag is in one of these promos,... */}}
+      {{/* display the promo */}}
+      {{ if in $promo_tags $tag }}
+
+      <article class="promo">
+        {{ if .Params.icon }}
+        <img src="/img/promos/{{ .Params.icon }}" alt="{{ .Params.head }} Icon">
+        {{ end }}
+        <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
+        <p>{{ .Params.summary | markdownify }}</p>
+        <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>
+      </article>
+      {{ end }}
+    {{ end }}
+  </section>
+  {{ end }}
+{{ end }}
+
+
+{{/* {{ $post_tags := .Params.tag }}
+{{ $promos := .Site.GetPage "page" "promo" }}
+{{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 3 }}
+{{ $promos := shuffle ($promos) }}
+{{ with $promos }}
+  <section id="related_promos">
+  {{ range $i, $e := . }}
+    {{ $promo_tags := .Params.tag }}
+    {{ range $i, $e := $post_tags }}
+      {{ if in $promo_tags $e }}
+      <article class="promo">
+        {{ if .Params.icon }}
+        <img src="/img/promos/{{ .Params.icon }}" alt="{{ .Params.head }} Icon">
+        {{ end }}
+        <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
+        <p>{{ .Params.summary | markdownify }}</p>
+        <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>
+      </article>
+      {{ end }}
+    {{ end }}
+
+  {{ end }}
+  </section>
+{{ end }} */}}

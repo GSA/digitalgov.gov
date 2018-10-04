@@ -13,5 +13,5 @@ src: 'https://challenge.gov/'
 # Upload images to /static/images/promos/filename.png
 icon: 'challengegov.png'
 
-weight: 3
+weight: 2
 ---

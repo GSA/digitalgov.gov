@@ -11,6 +11,8 @@ categories:
   - ux
 tag:
   - methodology
+  - accessibility
+  - design
 featured_image:
   uid: accessibility-for-teams-2
   alt: Colorful graphic of a group of handicapped symbols
