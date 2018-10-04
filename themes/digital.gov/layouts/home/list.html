@@ -204,7 +204,7 @@
           {{ range $i, $e := . }}
             <div class="grid-col-12 tablet:grid-col-4 flex-6">
               <article>
-                <img src="/img/services/{{ .Params.icon }}.png" alt="{{ .Params.head }} Icon">
+                <img src="/img/promos/{{ .Params.icon }}.png" alt="{{ .Params.head }} Icon">
                 <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
                 <p>{{ .Params.summary | markdownify }}</p>
                 <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>

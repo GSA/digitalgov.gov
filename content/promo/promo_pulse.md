@@ -9,8 +9,9 @@ summary: 'a one-line summary of the product'
 # Note: We add a ?dg to the end of the URL
 src: 'https://search.gov/'
 
-# Note: We add a ?dg to the end of the URL
-icon: 'pulse'
+# Images need to be 200x200px with a transparent background
+# Upload images to /static/images/promos/filename.png
+icon: 'pulse.png'
 
 # Feature this on the homepage
 homepage: true
