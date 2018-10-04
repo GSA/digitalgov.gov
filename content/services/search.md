@@ -3,6 +3,9 @@ url: /services/search/
 date: 2013-11-30 4:20:13 -0400
 title: Search.gov
 summary: 'Use Search.gov to power the search box on your federal government website&mdash;at no cost.'
+source_url: https://search.gov
+weight: 2
+homepage: true
 ---
 
 Use [Search.gov](https://search.gov) _(formerly DigitalGov Search)_ to power the search box on your federal government website—at no cost. <a href="https://search.usa.gov/signup" target="_blank">Sign up for an account</a> to get started. Our hosted search service helps you improve visitors&#8217; search experience on your website.

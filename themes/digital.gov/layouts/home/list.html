@@ -180,6 +180,42 @@
     </div>
   </section>
 
+
+
+
+
+  <section id="services">
+    <div class="grid-container padding-x-2">
+
+      <div class="grid-row grid-gap-2">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <header>
+            <h2>Get Started Building</h2>
+            <p>Explore services that are user-centered, open-source and built by government for government.</p>
+          </header>
+        </div>
+      </div>
+      <div class="grid-row grid-gap-2">
+        {{ $promos := .Site.GetPage "page" "promo" }}
+        {{ $promos := where ($promos.Resources.ByType "page") ".Params.homepage" true }}
+        {{ with $promos }}
+          {{ range $i, $e := . }}
+            <div class="grid-col-12 tablet:grid-col-4 flex-6">
+              <article>
+                <img src="/img/services/{{ .Params.icon }}.png" alt="{{ .Params.head }} Icon">
+                <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
+                <p>{{ .Params.summary | markdownify }}</p>
+              </article>
+            </div>
+          {{ end }}
+
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+
+
 </main>
 
 {{- end -}}
