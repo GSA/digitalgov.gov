@@ -13,6 +13,5 @@ src: 'https://cloud.gov/'
 # Upload images to /static/images/promos/filename.png
 icon: 'dap.png'
 
-# Feature this on the homepage
-homepage: true
+weight: 3
 ---

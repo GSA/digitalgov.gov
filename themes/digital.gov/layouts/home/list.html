@@ -199,12 +199,15 @@
       </div>
       <div class="grid-row grid-gap-2">
         {{ $promos := .Site.GetPage "page" "promo" }}
-        {{ $promos := where ($promos.Resources.ByType "page") ".Params.homepage" true }}
+        {{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 3 }}
+        {{ $promos := shuffle ($promos) }}
         {{ with $promos }}
-          {{ range $i, $e := . }}
+          {{ range $i, $e := first 9 . }}
             <div class="grid-col-12 tablet:grid-col-4 flex-6">
               <article>
+                {{ if .Params.icon }}
                 <img src="/img/promos/{{ .Params.icon }}" alt="{{ .Params.head }} Icon">
+                {{ end }}
                 <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
                 <p>{{ .Params.summary | markdownify }}</p>
                 <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>

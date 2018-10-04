@@ -13,6 +13,5 @@ src: 'https://search.gov/'
 # Upload images to /static/images/promos/filename.png
 icon: 'codegov.png'
 
-# Feature this on the homepage
-homepage: true
+weight: 3
 ---
