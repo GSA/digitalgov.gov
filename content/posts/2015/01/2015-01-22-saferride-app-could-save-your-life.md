@@ -23,7 +23,7 @@ tag:
 
 One death every 52 minutes.
 
-That’s how frequently someone died in crashes involving a drunk driver in the U.S. in 2013—10,076 deaths in total. While that number represents a 2.5% reduction in deaths from the previous year, the <a href="https://one.nhtsa.gov/About-NHTSA/Press-Releases/SaferRide-app-and-new-data-highlight-holiday-drunk-driving-crackdown" target="_blank">National Highway Traffic Safety Administration (NHTSA) is offering a new mobile app</a>—called SaferRide—to save more lives.
+That’s how frequently someone died in crashes involving a drunk driver in the U.S. in 2013—10,076 deaths in total. While that number represents a 2.5% reduction in deaths from the previous year, the <a href="https://one.nhtsa.gov/About-NHTSA/Press-Releases/SaferRide%E2%80%93app%E2%80%93and%E2%80%93new%E2%80%93data%E2%80%93highlight%E2%80%93holiday%E2%80%93drunk%E2%80%93driving%E2%80%93crackdown" target="_blank">National Highway Traffic Safety Administration (NHTSA) is offering a new mobile app</a>—called SaferRide—to save more lives.
 
 Simply put, SaferRide helps people who have been drinking to get a safe ride home.
 
