@@ -10,8 +10,7 @@
         <nav class="topics-featured">
           <header>
             <h4>Topics</h4>
-            <p>tags / <a href="{{ "/tag/" | absURL }}">See all »</a>
-            </p>
+            <p>Tags / <a href="{{ "/tag/" | absURL }}">See all »</a></p>
           </header>
           <ul class="add-list-reset">
             {{ range $name, $taxonomy := $.Site.Taxonomies.tag }}
