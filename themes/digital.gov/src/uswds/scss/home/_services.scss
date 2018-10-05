@@ -49,7 +49,9 @@
       @include u-font('sans', 'sm');
       @include u-line-height('sans', 2);
     }
-
+    &:hover{
+      @include u-bg('gray-warm-3');
+    }
   }
   footer{
     @include u-padding-y(4);

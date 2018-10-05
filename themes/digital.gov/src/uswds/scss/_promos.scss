@@ -49,4 +49,7 @@ article.promo{
     left: 0;
     z-index: 1;
   }
+  &:hover{
+    @include u-bg('gray-warm-10');
+  }
 }

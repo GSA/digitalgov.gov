@@ -23,5 +23,6 @@ weight: 3
 tag:
   - accessibility
   - content
+  - plain-language
 
 ---
