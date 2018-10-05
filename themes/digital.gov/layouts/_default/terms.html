@@ -1,18 +1,22 @@
 {{ define "content" }}
 
-<main role="main" id="topic" class="collection">
+<main role="main" class="taxonomy">
   <div class="grid-container padding-x-2">
     <div class="grid-row grid-gap-4">
+      <div class="grid-col-12">
+        <header>
+          {{ $data := $.Site.Data }}
+          <h1>{{ .Title }}</h1>
+          <h4>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}</h4>
+        </header>
+      </div>
+    </div>
 
-      <div class="grid-col-12 tablet:grid-col-9">
-        <section class="article-list">
-          <header>
-            {{ $data := $.Site.Data }}
-            <h1>{{ .Title }}</h1>
-            <h4>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}</h4>
-          </header>
+    <div class="grid-row">
+      <div class="grid-col-12">
 
-          <ul>
+        <section>
+          <ul class="add-list-reset">
             {{ if eq $.Data.Plural "authors" }}
               {{/* OUTPUT NAMES THAT MATCH DATA */}}
               {{ range $tax := $.Data.Terms.Alphabetical }}
@@ -24,13 +28,13 @@
             {{ else }}
               {{ range $tag, $title := index $data $.Data.Plural }}
                 {{ $link := printf "%s/%s/" $.Data.Plural $tag }}
-                {{ range $page := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag ) }}
+                {{ $terms := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag) }}
+                {{ range $page := $terms }}
                   <li><a href="{{ $link | absURL }}">{{ $title.display_name }} ({{ $page.Count }})</li>
                 {{ end }}
               {{ end }}
             {{ end }}
           </ul>
-
         </section>
 
       </div>
