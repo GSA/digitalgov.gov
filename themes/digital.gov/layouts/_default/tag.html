@@ -1,3 +1,6 @@
+{{/* Tag listing */}}
+{{/* lists out the articles for a given tag */}}
+
 {{ define "content" }}
 
 <main role="main" id="topic" class="collection">
@@ -7,14 +10,16 @@
         <nav class="topics-featured">
           <header>
             <h4>Topics</h4>
-            <p>Categories / <a href="{{ "/categories/" | absURL }}">See all »</a>
+            <p>tags / <a href="{{ "/tag/" | absURL }}">See all »</a>
+            </p>
           </header>
           <ul class="add-list-reset">
-            {{ $currentNode := . }}
-            {{ range .Site.Data.topicsfeatured.topicsfeatured }}
+            {{ range $name, $taxonomy := $.Site.Taxonomies.tag }}
+              {{ with $.Site.GetPage (printf "/tag/%s" $name) }}
               <li>
-                <a {{ if eq ($currentNode.Permalink | absURL) (.url | absURL) }}class="active"{{ end }} href="{{ .url | absURL }}" title="{{ .name }}"># <span>{{ .name }}</span></a>
+                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ $name }}</span></a>
               </li>
+              {{ end }}
             {{ end }}
           </ul>
         </nav>

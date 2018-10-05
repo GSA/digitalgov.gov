@@ -1,3 +1,5 @@
+{{/* Tags list */}}
+{{/* lists out the tags for the site */}}
 {{ define "content" }}
 
 <main role="main" class="taxonomy">
@@ -7,33 +9,11 @@
       <div class="grid-col-12">
         <header>
           {{ $data := $.Site.Data }}
-          <h1>{{ .Title }}</h1>
+          <h1>Topics</h1>
           <h4>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}</h4>
         </header>
       </div>
     </div>
-
-
-    {{ if eq $.Data.Plural "authors" }}
-
-    {{/* Authors */}}
-    <div class="grid-row">
-      <div class="grid-col-12">
-        <section>
-          <ul class="add-list-reset">
-            {{/* OUTPUT NAMES THAT MATCH DATA */}}
-            {{ range $tax := $.Data.Terms.Alphabetical }}
-              {{ $uid := $tax.Name | urlize }}
-              {{ $author := index $data.people.authors $uid }}
-                {{ $link := printf "authors/%s/" $uid }}
-                <li><a href="{{ $link | absURL }}">{{ $author.display_name | default $uid }} ({{ $tax.Count }})</a></li>
-            {{ end }}
-          </ul>
-        </section>
-      </div>
-    </div>
-
-    {{ else }}
 
     {{/* TOPICS / Categories / Tags */}}
     <div class="grid-row">
@@ -76,7 +56,7 @@
         </section>
       </div>
     </div>
-    {{ end }}
+
 
   </div>
 </main>
