@@ -1,4 +1,4 @@
-{{/* Tags list */}}
+{{/* All Tags */}}
 {{/* lists out the tags for the site */}}
 {{ define "content" }}
 
@@ -20,11 +20,19 @@
       <div class="grid-col-12">
         <section>
           <ul class="add-list-reset">
+            {{ range $name, $taxonomy := $.Site.Taxonomies.tag }}
+              {{ with $.Site.GetPage (printf "/tag/%s" $name) }}
+              <li>
+                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ $name }}</span></a>
+              </li>
+              {{ end }}
+            {{ end }}
+            <hr/>
             {{ range $tag, $title := index $data $.Data.Plural }}
               {{ $link := printf "%s/%s/" $.Data.Plural $tag }}
               {{ $terms := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag) }}
               {{ range $page := $terms }}
-                <li><a href="{{ $link | absURL }}">{{ $title.display_name }} ({{ $page.Count }})</a></li>
+                <li>$ <a href="{{ $link | absURL }}">{{ $title.display_name }} ({{ $page.Count }})</a></li>
               {{ end }}
             {{ end }}
           </ul>

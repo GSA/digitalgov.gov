@@ -1,4 +1,4 @@
-{{/* Tag listing */}}
+{{/* Single Tag + article list */}}
 {{/* lists out the articles for a given tag */}}
 
 {{ define "content" }}
@@ -28,8 +28,12 @@
       <div class="grid-col-12 tablet:grid-col-9">
         <section class="article-list">
           <header>
+            {{ .Type }}
+            {{ .Name }}
+            {{ .Params.title }}
             {{ $data := $.Site.Data }}
             {{ $taxonomy := .Data.Plural }}
+            {{ $taxonomy }}
             {{ $slug := .Title | urlize }}
             {{ $taxdata := index $data $taxonomy }}
             {{ $term := index $taxdata $slug }}
