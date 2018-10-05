@@ -7,6 +7,10 @@
 {{/* Gets the tags associated with this post */}}
 {{ $post_tags := .Params.tag }}
 
+{{/* IMPORTANT */}}
+{{/* This is an empty array (a.k.a. slice) */}}
+{{ $.Scratch.Set "related_promos" (slice " ") }}
+
 {{/* For each tag in the post... */}}
 {{ range $i, $tag := $post_tags }}
 
@@ -19,7 +23,6 @@
   {{/* If there are any promos */}}
   {{ with $promos }}
 
-    <section id="related_promos">
     {{/* For each promo */}}
     {{ range $i, $e := . }}
 
@@ -30,31 +33,33 @@
       {{/* display the promo */}}
       {{ if in $promo_tags $tag }}
 
-      <article class="promo">
-        {{ if .Params.icon }}
-        <img src="/img/promos/{{ .Params.icon }}" alt="{{ .Params.head }} Icon">
-        {{ end }}
-        <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
-        <p>{{ .Params.summary | markdownify }}</p>
-        <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>
-      </article>
+      {{/* This appends/adds the .File.LogicalName to the array */}}
+      {{ $.Scratch.Add "related_promos" (slice .File.LogicalName ) }}
+
       {{ end }}
     {{ end }}
-  </section>
   {{ end }}
 {{ end }}
 
+{{/* Removes the duplicate file names in the array */}}
+{{ $related_promos := uniq ($.Scratch.Get "related_promos") }}
 
-{{/* {{ $post_tags := .Params.tag }}
-{{ $promos := .Site.GetPage "page" "promo" }}
-{{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 3 }}
-{{ $promos := shuffle ($promos) }}
-{{ with $promos }}
+{{ if $related_promos }}
+
   <section id="related_promos">
-  {{ range $i, $e := . }}
-    {{ $promo_tags := .Params.tag }}
-    {{ range $i, $e := $post_tags }}
-      {{ if in $promo_tags $e }}
+
+  {{/* Let's loop through the file names! */}}
+  {{ range $i, $e := $related_promos }}
+
+    {{/* Identifies the area to look for the file name */}}
+    {{ $headless := $.Site.GetPage "/promo" }}
+
+    {{/* Gathers all the files that match the file name ($e) */}}
+    {{ $reusablePages := $headless.Resources.Match $e }}
+
+    {{/* Finally we can loop through all of the promos/files */}}
+    {{ range $reusablePages }}
+
       <article class="promo">
         {{ if .Params.icon }}
         <img src="/img/promos/{{ .Params.icon }}" alt="{{ .Params.head }} Icon">
@@ -63,9 +68,9 @@
         <p>{{ .Params.summary | markdownify }}</p>
         <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>
       </article>
-      {{ end }}
+
     {{ end }}
 
   {{ end }}
   </section>
-{{ end }} */}}
+{{ end }}
