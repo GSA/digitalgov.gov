@@ -6,8 +6,8 @@ summary: 'One death every 52 minutes. That’s how frequently someone died in cr
 authors:
   - kdowney
 categories:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
 tag:
   - DOT
   - National Highway Traffic Safety Administration
@@ -19,15 +19,19 @@ tag:
   - Yelp
 ---
 
-{{< legacy-img-right src="2015/01/250-x-410-NHTSA-SaferRide-home-screen-buttons.jpg" alt="250-x-410-NHTSA-SaferRide-home-screen-buttons" >}}One death every 52 minutes.
+{{< legacy-img-right src="2015/01/250-x-410-NHTSA-SaferRide-home-screen-buttons.jpg" alt="Screenshot of the NHTSA Safer Ride app's home screen buttons">}}
 
-That’s how frequently someone died in crashes involving a drunk driver in the U.S. in 2013—10,076 deaths in total. While that number represents a 2.5% reduction in deaths from the previous year, the <a href="http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/SaferRide-app-and-new-data-highlight-holiday-drunk-driving-crackdown" target="_blank">National Highway Traffic Safety Administration (NHTSA) is offering a new mobile app</a>—called SaferRide—to save more lives.
+One death every 52 minutes.
+
+That’s how frequently someone died in crashes involving a drunk driver in the U.S. in 2013—10,076 deaths in total. While that number represents a 2.5% reduction in deaths from the previous year, the <a href="https://one.nhtsa.gov/About-NHTSA/Press-Releases/SaferRide-app-and-new-data-highlight-holiday-drunk-driving-crackdown" target="_blank">National Highway Traffic Safety Administration (NHTSA) is offering a new mobile app</a>—called SaferRide—to save more lives.
 
 Simply put, SaferRide helps people who have been drinking to get a safe ride home.
 
 The app helps keep drunk drivers off the road by allowing users to call a taxi or a pre-programmed friend, and also helps easily identify the user’s current location. The app has a very streamlined function, and its interface is purposefully simple. The app only has three large buttons on the home screen: “Get Taxi,” “Call Friend,” and “Where Am I?”
 
-{{< legacy-img-right src="2015/01/250-x-427-NHTSA-SaferRide-where-am-I-map-2.jpg" alt="250-x-427-NHTSA-SaferRide-where-am-I-map-2" >}}As advertised on the app, &#8220;too drunk to drive means too drunk for complicated apps.&#8221; SaferRide lets you: 
+{{< legacy-img-right src="2015/01/250-x-427-NHTSA-SaferRide-where-am-I-map-2.jpg" alt="Screenshot of the NHTSA Safer Ride app's Where am I? location map." >}}
+
+As advertised on the app, &#8220;too drunk to drive means too drunk for complicated apps.&#8221; SaferRide lets you: 
 
   * Choose from a list of available taxi services in your area, and call with the tap of a button.
   * Call a pre-programmed contact.
