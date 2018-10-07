@@ -9,14 +9,17 @@
             <h4>Topics</h4>
             <p>Categories / <a href="{{ "/categories/" | absURL }}">See all »</a></p>
           </header>
+
           <ul class="add-list-reset">
-            {{ $currentNode := . }}
-            {{ range .Site.Data.topicsfeatured.topicsfeatured }}
+            {{ range $name, $taxonomy := $.Site.Taxonomies.topics }}
+              {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
               <li>
-                <a {{ if eq ($currentNode.Permalink | absURL) (.url | absURL) }}class="active"{{ end }} href="{{ .url | absURL }}" title="{{ .name }}"># <span>{{ .name }}</span></a>
+                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
               </li>
+              {{ end }}
             {{ end }}
           </ul>
+          
         </nav>
       </div>
 
@@ -24,22 +27,9 @@
       <div class="grid-col-12 tablet:grid-col-9">
         <section class="article-list">
           <header>
-            {{ $data := $.Site.Data }}
-            {{ $taxonomy := .Data.Plural }}
-            {{ $slug := .Title | urlize }}
-            {{ $taxdata := index $data $taxonomy }}
-            {{ $term := index $taxdata $slug }}
-            {{ if eq $taxonomy "categories" }}
-              {{ $.Scratch.Set "categories" $slug }}
-            {{ end }}
-            {{ with $term.communities }}
-              {{ $.Scratch.Set "relatedCommunities" . }}
-            {{  end }}
 
-            <h1>{{ $term.display_name }}</h1>
-            {{ with $term.summary }}
-              <p>{{ . | markdownify }}</p>
-            {{ end }}
+            <h1>{{ .Title }}</h1>
+
           </header>
           {{ range .Paginator.Pages }}
 

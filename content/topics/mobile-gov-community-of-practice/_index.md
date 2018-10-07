@@ -1,0 +1,15 @@
+
+---
+# This topic lives at
+# https://digital.gov/topics/mobile-gov-community-of-practice
+
+# Topic Title
+title: "Mobile Gov Community Of Practice"
+
+# description — keep it short and clear
+# summary: ""
+
+
+# For more information on managing topics,
+# see https://github.com/GSA/digitalgov.gov/wiki/topics
+---
