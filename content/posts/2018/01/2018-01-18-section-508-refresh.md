@@ -5,9 +5,8 @@ title: 'Learn About the Updated IT Accessibility Standards'
 summary: 'Effective January 18, 2018, the revised 508 standards modernize the federal government’s IT accessibility standards and bring us into alignment with governments around the world.'
 authors:
   - rflagg
-categories:
+topics:
   - Accessibility
-tag:
   - accessibility
   - section-508
 featured_image:
