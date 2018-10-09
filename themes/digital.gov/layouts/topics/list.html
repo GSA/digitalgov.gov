@@ -10,17 +10,21 @@
         <nav class="topics-featured">
           <header>
             <h4>Topics</h4>
-            <p><a href="{{ "/topics/" | absURL }}">See all »</a></p>
           </header>
           <ul class="add-list-reset">
             {{ range $name, $taxonomy := $.Site.Taxonomies.topics }}
               {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
-              <li>
-                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
-              </li>
+                {{ if (eq .Params.weight 2) }}
+                <li>
+                  <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
+                </li>
+                {{ end }}
               {{ end }}
             {{ end }}
           </ul>
+          <footer>
+            <p><a href="{{ "/topics/" | absURL }}">See all »</a></p>
+          </footer>
         </nav>
       </div>
 
