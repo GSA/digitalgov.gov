@@ -9,11 +9,11 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov User Experience Program
   - usability case study
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 The annual Consumer Action Handbook, from GSA, is a guide to making smarter decisions with your money. In both its print and [online](http://www.google.com/url?q=http%3A%2F%2Fwww.usa.gov%2Ftopics%2Fconsumer%2Fconsumer-action-handbook-online.shtml&sa=D&sntz=1&usg=AFQjCNE1ZeNPLvgmPJLm_pcswvu0_ofBig) formats, it includes a compilation of buying tips from across government agencies, updates on the latest scams, and a robust consumer contact directory. But the most popular part of the book is the sample consumer complaint letter.

@@ -7,18 +7,18 @@ authors:
   - joanne-mcgovern
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - Customer Experience
   - Customer Experience Community of Practice
   - customer service
   - Government Contact Center Council
   - government contact centers
-  - usability testing
+  - usability-testing
   - USAgov
-  - user experience
-  - User Experience Community of Practice
+  - user-experience
+  - user-experience-community-of-practice
   - user research
-  - UX
+  - ux
 ---
 
 When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That’s just what happened to us.

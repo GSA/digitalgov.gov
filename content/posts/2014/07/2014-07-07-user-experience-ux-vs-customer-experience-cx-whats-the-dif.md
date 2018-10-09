@@ -8,12 +8,12 @@ authors:
 topics:
   - Communities
   - Monthly Theme
-  - UX
+  - ux
   - AoI
   - Customer Experience
   - DigitalGov User Experience Program
   - search engine optimization
-  - user experience
+  - user-experience
 ---
 
 “User Experience” and “Customer Experience.” They sound pretty similar, right?

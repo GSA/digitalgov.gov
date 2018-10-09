@@ -10,7 +10,7 @@ topics:
   - metrics
   - Monthly Theme
   - Our Work
-  - UX
+  - ux
   - Customer Experience
   - customer service
   - Digital Services Playbook

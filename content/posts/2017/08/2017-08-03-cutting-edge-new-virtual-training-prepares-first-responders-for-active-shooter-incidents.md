@@ -9,8 +9,8 @@ authors:
 topics:
   - strategy
   - policy
-  - User Testing and Research
-  - UX
+  - user-testing-and-research
+  - ux
   - Video
   - audio-video
   - Augmented Reality

@@ -13,7 +13,7 @@ topics:
   - Centers for Disease Control and Prevention
   - Plain language
   - Plain Writing Act of 2010
-  - user experience
+  - user-experience
 ---
 
 If good content is essential to good user experience, as Tyrus Manuel proposes in his November 23, 2015, [DigitalGov post]({{< link "2015-11-23-the-content-corner-good-ux-needs-good-content.md" >}}), then plain language is also part of good user experience. Plain language helps the public do what they need to do—find forms, apply for benefits, look up information and more—when they use federal websites and other digital tools. {{< legacy-img src="2015/12/600-x-400-Needle-in-a-Haystack-artisteer-iStock-Thinkstock-484048326.jpg" alt="The proverbial lost needle in a haystack is found." caption="" >}} 

@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - UX
+  - ux
   - administrative-office-of-the-united-states-courts
   - analytics
   - government contact centers

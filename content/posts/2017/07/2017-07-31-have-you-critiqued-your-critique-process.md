@@ -11,11 +11,11 @@ topics:
   - managing-digital
   - strategy
   - policy
-  - User Testing and Research
-  - UX
+  - user-testing-and-research
+  - ux
   - Best Practices
-  - User Experience
-  - UX
+  - user-experience
+  - ux
 
 ---
 

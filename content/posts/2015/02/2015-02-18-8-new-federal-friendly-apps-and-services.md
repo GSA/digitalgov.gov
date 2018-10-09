@@ -15,7 +15,7 @@ topics:
   - Terms of Service
   - US Department of State
   - United States Department of Energy
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/02/250-x-201-Software-box-DenisKot-iStock-Thinkstock-174399007.jpg" alt="Box of apps" caption="" >}} 

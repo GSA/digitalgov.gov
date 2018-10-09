@@ -15,8 +15,8 @@ topics:
   - GSA
   - usability
   - USAgov
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 _USA.gov’s Analytics Success: using analytics data to inform design and responsivity to create a better experience for the user_

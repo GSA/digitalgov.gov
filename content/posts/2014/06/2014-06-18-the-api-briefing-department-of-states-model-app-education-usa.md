@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - mobile
-  - UX
+  - ux
   - mobile-apps
   - US Department of State
   - wednesday-api-briefing

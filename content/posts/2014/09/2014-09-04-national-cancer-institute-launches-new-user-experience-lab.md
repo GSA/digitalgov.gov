@@ -10,12 +10,12 @@ topics:
   - design
   - metrics
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov User Experience Program
   - National Cancer Institute
   - NCI
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 {{< legacy-img src="2014/09/600-x-400-National-Cancer-Institute-NCI-UX-lab-1.jpg" alt="User Experience U X lab 1" >}}

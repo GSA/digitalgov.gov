@@ -9,7 +9,7 @@ topics:
   - content
   - Data
   - mobile
-  - UX
+  - ux
   - Department of Commerce
   - FCC
   - FEMA

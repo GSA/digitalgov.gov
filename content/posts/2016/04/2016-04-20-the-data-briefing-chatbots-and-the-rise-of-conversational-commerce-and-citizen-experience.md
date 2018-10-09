@@ -18,9 +18,9 @@ topics:
   - Internet of things
   - The Data Briefing
   - United States Patent and Trademark Office
-  - user experience
+  - user-experience
   - USPTO
-  - UX
+  - ux
   - virtual reality
   - Virtual/Augmented Reality Community
 ---

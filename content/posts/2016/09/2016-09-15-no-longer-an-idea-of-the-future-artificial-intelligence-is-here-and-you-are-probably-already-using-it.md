@@ -12,7 +12,7 @@ topics:
   - managing-digital
   - metrics
   - user-testing-and-research
-  - UX
+  - ux
   - ai
   - analytics
   - artificial intelligence
@@ -27,8 +27,8 @@ topics:
   - regulation
   - research
   - security
-  - user experience
-  - UX
+  - user-experience
+  - ux
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

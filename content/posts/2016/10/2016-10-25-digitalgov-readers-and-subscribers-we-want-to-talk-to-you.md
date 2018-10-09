@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - Our Work
   - user-testing-and-research
-  - UX
+  - ux
   - content
   - Customer Experience
   - CX

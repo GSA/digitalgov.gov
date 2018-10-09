@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - managing-digital
-  - UX
+  - ux
   - CDC
   - Centers for Disease Control and Prevention
   - content

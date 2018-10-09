@@ -10,7 +10,7 @@ authors:
   - john-yuda
 topics:
   - managing-digital
-  - UX
+  - ux
   - 18f
   - Draft Web Design Standards
 ---

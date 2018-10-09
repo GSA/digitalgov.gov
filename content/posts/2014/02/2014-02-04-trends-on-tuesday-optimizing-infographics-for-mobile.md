@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-first
   - Trends on Tuesday
-  - user experience
+  - user-experience
 ---
 
 Mobile first means more than just focusing on text content; it’s also includes considering visual content as important element of the user experience.

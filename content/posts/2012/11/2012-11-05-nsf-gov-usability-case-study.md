@@ -7,12 +7,12 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov User Experience Program
   - national science foundation
   - NSF
   - usability case study
-  - user experience
+  - user-experience
 ---
 
 Many government websites are informational in nature &#8211; you don&#8217;t sign up for things or buy anything. Instead, you look for something &#8211; a name, a ruling, some contact information. Informational sites &#8211; and scientific sites in particular &#8211; can be a challenge to design. With so much information, how do you make the important content stand out?

@@ -10,15 +10,15 @@ topics:
   - design
   - mobile
   - user-testing-and-research
-  - UX
+  - ux
   - mobile
   - mobile-ux-guideline-5
   - Thursday Mobile Products
   - top tasks
   - US Department of Labor
-  - usability testing
-  - user experience
-  - UX
+  - usability-testing
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/03/600-x-436-cos-CareerOneStop.jpg" alt="CareerOneStop homepage" >}}

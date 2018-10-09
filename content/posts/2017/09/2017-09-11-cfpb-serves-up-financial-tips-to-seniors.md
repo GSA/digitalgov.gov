@@ -11,7 +11,7 @@ featured_image:
 topics:
   - content
   - design
-  - UX
+  - ux
   - CFPB
   - Consumer Financial Protection Bureau
   - content

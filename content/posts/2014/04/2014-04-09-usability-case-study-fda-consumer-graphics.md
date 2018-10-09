@@ -8,13 +8,13 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - FDA
   - infographic
   - US Food and Drug Administration
   - usability
   - usability case study
-  - user experience
+  - user-experience
 ---
 
 <p dir="ltr">

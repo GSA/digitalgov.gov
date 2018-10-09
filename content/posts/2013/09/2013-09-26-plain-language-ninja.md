@@ -7,7 +7,7 @@ authors:
   - katherine-spivey
 topics:
   - content
-  - UX
+  - ux
   - Writing
   - Plain language
 ---

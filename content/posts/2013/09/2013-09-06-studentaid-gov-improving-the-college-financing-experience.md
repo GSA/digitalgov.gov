@@ -7,7 +7,7 @@ authors:
   - brenda-wensil
 topics:
   - managing-digital
-  - UX
+  - ux
   - FAFSA
   - multilingual
 ---

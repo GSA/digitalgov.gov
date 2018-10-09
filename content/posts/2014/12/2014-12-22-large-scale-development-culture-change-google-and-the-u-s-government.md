@@ -7,7 +7,7 @@ authors:
   - mike-bland
 topics:
   - code
-  - UX
+  - ux
   - 18f
   - open source
 ---

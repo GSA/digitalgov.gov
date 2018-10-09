@@ -7,7 +7,7 @@ topics:
   - content
   - design
   - mobile
-  - UX
+  - ux
   - CDC
   - gamification
   - mobile-apps

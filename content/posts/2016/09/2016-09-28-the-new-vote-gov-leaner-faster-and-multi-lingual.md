@@ -10,7 +10,7 @@ topics:
   - content
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - 18f
   - analytics
   - cloud

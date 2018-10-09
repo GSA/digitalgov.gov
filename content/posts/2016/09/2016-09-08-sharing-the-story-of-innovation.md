@@ -9,12 +9,12 @@ topics:
   - accessibility
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - innovation
   - research
   - US Department of Veterans Affairs
   - user centered design
-  - user experience
+  - user-experience
   - VA
   - VA Center for Innovation
   - VACI

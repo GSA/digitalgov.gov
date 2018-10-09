@@ -9,10 +9,10 @@ topics:
   - accessibility
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - RFP
   - usability
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/03/250-x-333-goodgovux-1.jpg" alt="Keith Deaven from Mediabarn kicks off the GoodGovUX event" >}}How do you define user experience (UX)?

@@ -6,14 +6,14 @@ summary: 'In the circle of Web content life, FAQ sections are an endangered spec
 authors:
   - awichman
 topics:
-  - UX
+  - ux
   - Writing
   - Plain language
   - Transportation Security Administration
   - TSA
   - US Citizenship and Immigration Service
   - USCIS
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="Solution and Strategy Path" caption="" >}} 

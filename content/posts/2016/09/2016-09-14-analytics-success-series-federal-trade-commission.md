@@ -16,8 +16,8 @@ topics:
   - Federal Trade Commission
   - FTC
   - metrics
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 _FTC’s Analytics Success: Making mission-related tasks easier for the user to find_

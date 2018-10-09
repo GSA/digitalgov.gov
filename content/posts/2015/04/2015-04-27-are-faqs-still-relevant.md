@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - Monthly Theme
-  - UX
+  - ux
   - CFPB
   - Consumer Financial Protection Bureau
   - customer service
@@ -18,8 +18,8 @@ topics:
   - US Digital Service
   - USDS
   - user centered design
-  - user experience
-  - User Experience Community of Practice
+  - user-experience
+  - user-experience-community-of-practice
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Frequently-Asked-Questions-Typed-on-an-Old-Typewriter-travellinglight-iStock-Thinkstock-176898124.jpg" alt="Frequently Asked Questions displays as typed on white paper in an old typewriter." caption="" >}} 

@@ -10,8 +10,8 @@ topics:
   - Monthly Theme
   - mobile
   - Trends on Tuesday
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Skip-ad-sign-tzahiV-iStock-Thinkstock-475523390.jpg" alt="Skip ad sign" caption="" >}} 

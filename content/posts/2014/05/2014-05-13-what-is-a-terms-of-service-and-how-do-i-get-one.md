@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - social-media
-  - UX
+  - ux
   - DOJ
   - Terms of Service
   - TOS

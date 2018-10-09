@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - Monthly Theme
-  - UX
+  - ux
   - api
   - api keys
   - CFPB
@@ -20,8 +20,8 @@ topics:
   - US Food and Drug Administration
   - usability
   - user centered design
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" >}}

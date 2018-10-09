@@ -18,7 +18,7 @@ topics:
   - NPS
   - social media
   - US National Park Service
-  - user experience
+  - user-experience
   - Virtual-Augmented-Reality-Community
 ---
 

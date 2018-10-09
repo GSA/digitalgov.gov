@@ -9,7 +9,7 @@ authors:
   - maya-benari
 topics:
   - content
-  - UX
+  - ux
   - 18f
   - Draft Web Design Standards
 ---

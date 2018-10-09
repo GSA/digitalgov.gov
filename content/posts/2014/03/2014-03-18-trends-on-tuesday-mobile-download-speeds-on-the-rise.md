@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - Trends on Tuesday
-  - user experience
+  - user-experience
 ---
 
 Mobile devices are uploading data faster and mobile users are starting to expect better performance, according to Citrix. Fifty percent of web pages are taking 37.5% less time to load on a mobile device than they did just a year ago according the [Citrix Mobile Analytics Report](http://www.citrix.com/news/announcements/feb-2014/data-reveals-mobile-ad-reach-has-doubled-.html).

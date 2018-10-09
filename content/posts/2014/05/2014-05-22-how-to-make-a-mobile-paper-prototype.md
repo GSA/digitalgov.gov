@@ -9,14 +9,14 @@ topics:
   - design
   - mobile
   - user-testing-and-research
-  - UX
+  - ux
   - GSA
   - mobile
   - mobile-apps
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - prototype
-  - user experience
+  - user-experience
 ---
 
 What if a single piece of paper could make your mobile app work 20% better?

@@ -6,11 +6,11 @@ summary: 'For a seminar organized by DigitalGov University, Robert Read, the Man
 authors:
   - kdaniel
 topics:
-  - UX
+  - ux
   - 18f
   - GSA
   - Recaps
-  - UX
+  - ux
 ---
 
 {{< legacy-img src="2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg" alt="Wooden letter blocks spell out the word agile." caption="" >}} 

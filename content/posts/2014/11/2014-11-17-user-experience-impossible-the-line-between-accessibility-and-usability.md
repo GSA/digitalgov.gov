@@ -10,15 +10,15 @@ topics:
   - design
   - Monthly Theme
   - user-testing-and-research
-  - UX
+  - ux
   - accessibility
   - SBA
   - section 508
   - US Small Business Administration
   - usability
   - USAgov
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2014/11/600-x-402-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Internet accessibility concept" caption="" >}} 

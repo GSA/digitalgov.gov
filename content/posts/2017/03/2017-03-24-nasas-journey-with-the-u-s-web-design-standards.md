@@ -10,7 +10,7 @@ topics:
   - design
   - strategy
   - policy
-  - UX
+  - ux
   - 18f
   - accessibility
   - DGU

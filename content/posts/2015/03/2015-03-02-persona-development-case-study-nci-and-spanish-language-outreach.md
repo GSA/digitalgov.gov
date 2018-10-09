@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - BLS
   - multilingual
   - National Cancer Institute
@@ -16,7 +16,7 @@ topics:
   - US Bureau of Labor Statistics
   - United States Census Bureau
   - usability starter kit
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/02/600-x-300-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-teaser-image.jpg" alt="NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf teaser image" >}}

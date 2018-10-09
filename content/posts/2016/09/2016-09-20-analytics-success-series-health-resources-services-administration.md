@@ -20,7 +20,7 @@ topics:
   - HHS
   - HRSA
   - metrics
-  - user experience
+  - user-experience
 ---
 
 _Health Resources and Services Administration’s Analytics Success: Using Analytics to Reduce Content and Improve User Experience_ 

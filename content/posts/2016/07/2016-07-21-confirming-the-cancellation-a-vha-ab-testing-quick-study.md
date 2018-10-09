@@ -7,17 +7,17 @@ authors:
   - abigail-noonan
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - a-b-testing
   - quick study
   - research
   - US Department of Veterans Affairs
   - usability case study
-  - usability testing
+  - usability-testing
   - user centered design
-  - user experience
-  - User Experience Community of Practice
-  - UX
+  - user-experience
+  - user-experience-community-of-practice
+  - ux
   - Veterans Health Administration
   - VHA
 ---

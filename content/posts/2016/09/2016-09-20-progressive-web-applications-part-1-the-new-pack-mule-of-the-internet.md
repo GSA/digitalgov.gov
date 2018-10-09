@@ -11,7 +11,7 @@ topics:
   - design
   - managing-digital
   - mobile
-  - UX
+  - ux
   - app
   - code
   - innovation

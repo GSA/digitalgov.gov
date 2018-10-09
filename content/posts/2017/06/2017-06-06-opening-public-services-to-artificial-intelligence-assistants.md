@@ -10,7 +10,7 @@ topics:
   - emerging-tech
   - managing-digital
   - Our Work
-  - UX
+  - ux
   - artificial-intelligence
   - customer-experience
   - innovation

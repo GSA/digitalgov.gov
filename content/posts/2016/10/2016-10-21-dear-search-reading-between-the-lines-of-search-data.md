@@ -8,11 +8,11 @@ authors:
 topics:
   - metrics
   - Our Work
-  - UX
+  - ux
   - analytics
   - DigitalGov Search
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 > Welcome to the first _Dear Search_ article, an occasional series where the DigitalGov Search team addresses common search questions.

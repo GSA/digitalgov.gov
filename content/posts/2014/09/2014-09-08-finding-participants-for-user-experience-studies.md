@@ -13,8 +13,8 @@ topics:
   - DOL
   - US Bureau of Labor Statistics
   - US Department of Labor
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 {{< legacy-img src="2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." caption="" >}} 

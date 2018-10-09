@@ -8,14 +8,14 @@ authors:
 topics:
   - Communities
   - user-testing-and-research
-  - UX
+  - ux
   - AoI
   - DigitalGov User Experience Program
   - Federal Reserve Board
   - first-click testing
   - FRB
   - top tasks
-  - User Experience Community of Practice
+  - user-experience-community-of-practice
 ---
 
 In 2012, the [Federal Reserve Board](http://www.federalreserve.gov/) used the _Top-task_ methodology to redesign our intranet, called _Inside the Board_, which had not been significantly updated since it was launched in 1995. After determining the top tasks the audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project was wildly successful. Task completion ratings rose to more than 90% after the redesign, from 58% on the legacy site—drastically increasing the productivity of the Board’s employees.

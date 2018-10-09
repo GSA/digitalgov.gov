@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - Trends on Tuesday
-  - user experience
+  - user-experience
 ---
 
 [{{< legacy-img src="2013/09/Pewchart.jpg" alt="Pew Research Center’s Internet & American Life Project released their report on Cell Phone Activities for 2013. This is a graph documenting mobile access to email, Internet and other digital technologies." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/Pewchart.jpg)[Pew Research Center’s Internet & American Life Project](http://www.pewinternet.org/) recently released their report on Cell Phone Activities for 2013. The report stated that 91% of American adults own a cell phone and many use their devices for more than just phone calls.

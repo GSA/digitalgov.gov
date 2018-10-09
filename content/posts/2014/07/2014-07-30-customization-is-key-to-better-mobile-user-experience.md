@@ -7,7 +7,7 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - UX
+  - ux
   - CDC
   - Centers for Disease Control and Prevention
   - federal user experience community
@@ -24,7 +24,7 @@ topics:
   - US Department of Education
   - US National Park Service
   - United States Department of Health and Human Services
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" >}}Resources like Theresa Neil’s [Mobile Design Product Gallery](http://mobiledesignpatterngallery.com/index.php) book and [Mobile-patterns.com](http://www.mobile-patterns.com) describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week’s [Trends on Tuesday]({{< link "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}), customizing apps to meet users’ needs is a crucial part in maximizing user experience. Today, we wanted to highlight how some agencies are implementing search, maps & geolocation and custom navigation to better their mobile product’s user experience.

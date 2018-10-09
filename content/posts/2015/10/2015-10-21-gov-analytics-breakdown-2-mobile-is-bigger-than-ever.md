@@ -9,14 +9,14 @@ topics:
   - Data
   - metrics
   - mobile
-  - UX
+  - ux
   - analytics
   - Customer Experience
   - DAP
   - data
   - Digital Analytics Program
   - mobile
-  - user experience
+  - user-experience
 ---
 
 A review of the <a href="{{< link "dap.md" >}}" target="_blank">Digital Analytics Program</a> (DAP) data confirms what many are already saying: **Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing.**

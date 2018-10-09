@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - strategy
   - policy
-  - UX
+  - ux
   - "508"
   - accessibility
   - Customer Experience
@@ -18,7 +18,7 @@ topics:
   - CX
   - Personas
   - section 508
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Man-builds-rating-Palto-iStock-Thinkstock-527857125.jpg" alt="Man builds rating" caption="" >}} 

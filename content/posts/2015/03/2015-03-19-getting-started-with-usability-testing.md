@@ -8,14 +8,14 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - open data
   - top tasks
   - US Agency for International Development
   - usability
   - USAID
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/03/600-x-400-USAID-Development-Data-Library-DDL.jpg" alt="USAID's Development Data Library (DDL) website screen capture" >}}

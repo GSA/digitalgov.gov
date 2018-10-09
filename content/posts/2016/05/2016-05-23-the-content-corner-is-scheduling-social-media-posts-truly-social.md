@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - Monthly Theme
   - social-media
-  - UX
+  - ux
   - Customer Experience
   - CX
   - FirstNet

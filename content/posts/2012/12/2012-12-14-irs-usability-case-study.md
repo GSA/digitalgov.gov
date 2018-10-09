@@ -7,13 +7,13 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov User Experience Program
   - Internal Revenue Service
   - IRS
   - usability case study
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 Acronyms and jargon are fine when you want to communicate quickly to an internal audiences or to like-minded readers. Once the scope of your audience widens, however, these elements can make your pages harder to understand. The IRS recognized that its pages about tax planning for retirement were reaching an audience beyond tax professionals, and asked the DigitalGov User Experience Program to help test for usability and user experience.

@@ -8,10 +8,10 @@ authors:
 topics:
   - Monthly Theme
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov User Experience Program
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 There are many buzzwords thrown around in the digital government universe, but the most impactful ideas are rooted in one action: engagement. Whether it is a tweet, a mobile app, or a community of practitioners, every digital program or service requires interaction between an organization and its customer.

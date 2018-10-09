@@ -7,7 +7,7 @@ authors:
   - martha-dorris
 topics:
   - managing-digital
-  - UX
+  - ux
   - Customer Experience
 ---
 

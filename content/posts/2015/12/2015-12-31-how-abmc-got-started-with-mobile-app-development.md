@@ -7,7 +7,7 @@ authors:
   - jenny-johnson
 topics:
   - mobile
-  - UX
+  - ux
   - abmc
   - american-battle-monuments-commission
   - Federal CrowdSource Mobile Testing Program
@@ -17,7 +17,7 @@ topics:
   - mobile-ux-guideline-4
   - native app
   - native apps
-  - UX
+  - ux
 ---
 
 In the sea of apps, users get choosey with which apps can take up space on their phone. With one uninstall click the user can decide to breakup with the app if they have a bad experience. To keep your app from being all alone, the [MobileGov Community of Practice]({{< link "categories/mobile" >}}) put together [six Mobile User Experience Guidelines]({{< link "2015-07-31-help-us-add-resources-to-the-updated-mobile-user-experience-guidelines.md" >}}) to help keep mobile users in love. DigitalGov University hosted a webinar in which the American Battle Monuments Commission (ABMC) highlighted two of these guidelines. {{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 

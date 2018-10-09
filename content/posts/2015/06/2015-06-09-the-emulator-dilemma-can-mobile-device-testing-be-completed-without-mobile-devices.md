@@ -16,7 +16,7 @@ topics:
   - mobile-ux-guideline-4
   - native app
   - responsive web design
-  - user experience
+  - user-experience
 ---
 
 Government agencies have created a [variety of apps to meet the needs of the public]({{< link "tag/thursday-mobile-products" >}}). As you join in on the [mobile first trend]({{< link "2013-09-30-mobile-first.md" >}}) and begin developing your shiny new mobile application, you will need to test it.

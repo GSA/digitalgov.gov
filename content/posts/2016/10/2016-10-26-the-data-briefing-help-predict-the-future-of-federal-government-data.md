@@ -12,7 +12,7 @@ topics:
   - managing-digital
   - mobile
   - social-media
-  - UX
+  - ux
   - 3d-printing
   - ai
   - artificial intelligence

@@ -8,7 +8,7 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - Customer Experience
   - HHS
   - Office of Child Support Enforcement

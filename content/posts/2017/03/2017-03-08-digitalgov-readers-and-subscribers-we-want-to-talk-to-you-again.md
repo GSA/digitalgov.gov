@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - Our Work
   - user-testing-and-research
-  - UX
+  - ux
   - content
   - Customer Experience
   - CX
@@ -18,8 +18,8 @@ topics:
   - 'Office of Products and Programs'
   - OPP
   - research
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="http://i.giphy.com/3o6Zt3PBAGPUvmvUJO.gif" alt="An animated gif of a girl with the word Hi written on her hand from National Archives' Giphy.com collection." >}}

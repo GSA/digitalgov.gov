@@ -14,7 +14,7 @@ topics:
   - mobile-gov
   - Open Opportunities program
   - SocialGov
-  - user experience
+  - user-experience
   - Web Content Managers Forum
 ---
 

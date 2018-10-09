@@ -7,7 +7,7 @@ authors:
   - angela-hooker
 topics:
   - accessibility
-  - UX
+  - ux
   - accessibility
   - Americans with Disabilities Act
   - section 508

@@ -28,7 +28,7 @@ topics:
   - US Food and Drug Administration
   - United States Census Bureau
   - USDA
-  - UX
+  - ux
 ---
 
 Around this month&#8217;s [Communities Theme]({{< link "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}), the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s kick it off with the DigitalGov Summit Sounding Board.

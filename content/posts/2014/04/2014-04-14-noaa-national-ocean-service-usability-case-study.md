@@ -8,14 +8,14 @@ authors:
 topics:
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov Search
   - National Ocean Service
   - National Oceanic and Atmospheric Administration
   - NOAA
   - usability
   - usability case study
-  - usability testing
+  - usability-testing
 ---
 
 <div>

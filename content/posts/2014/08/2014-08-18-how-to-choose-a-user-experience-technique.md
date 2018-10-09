@@ -7,12 +7,12 @@ authors:
   - pooja-sawant
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - Customer Experience
   - DigitalGov User Experience Program
   - Personas
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 [{{< legacy-img src="2014/08/250-x-186-How-UX-Solves-Problems-Umbrella-image-by-Dan-Willis-uxcrank.jpg" alt="250-x-186-How-UX-Solves-Problems-Umbrella\---image-by-Dan-Willis-uxcrank" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/08/620-x-461-How-UX-Solves-Problems-Umbrella-image-by-Dan-Willis-uxcrank.jpg)The good news: Your boss is interested in User Experience!

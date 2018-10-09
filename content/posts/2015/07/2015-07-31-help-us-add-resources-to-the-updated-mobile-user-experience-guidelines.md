@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - UX
+  - ux
   - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-2

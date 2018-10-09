@@ -11,7 +11,7 @@ topics:
   - managing-digital
   - mobile
   - social-media
-  - UX
+  - ux
   - Video
   - communities
   - content

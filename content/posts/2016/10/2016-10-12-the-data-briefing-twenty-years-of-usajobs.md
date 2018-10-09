@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - UX
+  - ux
   - agile
   - blockchain
   - DAP

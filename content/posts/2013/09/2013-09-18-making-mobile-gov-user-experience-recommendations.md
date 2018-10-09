@@ -7,14 +7,14 @@ authors:
   - jparcell
 topics:
   - mobile
-  - UX
+  - ux
   - DOL
   - mobile-apps
   - mobile-gov-community-of-practice
   - NIH
   - US Department of Labor
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 ### How We Did It

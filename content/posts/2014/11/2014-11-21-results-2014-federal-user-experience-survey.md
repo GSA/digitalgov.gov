@@ -11,14 +11,14 @@ topics:
   - design
   - Monthly Theme
   - user-testing-and-research
-  - UX
+  - ux
   - AoI
   - BLS
   - federal user experience community
   - US Bureau of Labor Statistics
   - usability
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 The cream of the crop of the top of the mountain of ALL of the surveys I run has to be the Federal User Experience (UX) Survey. It&#8217;s the second time I&#8217;ve had the privilege of running it with **Jean Fox**, research psychologist extraordinaire from the Bureau of Labor Statistics. When I start thinking about learning what all of my UX colleagues are doing, and designing solutions for them based on real data, I start clasping my fingers together like Mr. Burns.

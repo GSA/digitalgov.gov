@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - managing-digital
-  - UX
+  - ux
   - accessibility
   - DHS
   - DOL

@@ -7,12 +7,12 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov User Experience Program
   - GSA
   - usability
   - usability case study
-  - user experience
+  - user-experience
 ---
 
 Websites allow newer government programs to establish a visual identity that introduces them to users and conveys the importance of their work.

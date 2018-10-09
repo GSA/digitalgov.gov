@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - UX
+  - ux
   - Customer Experience
   - Customer Experience Community of Practice
   - CX

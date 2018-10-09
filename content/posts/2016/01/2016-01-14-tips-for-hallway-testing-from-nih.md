@@ -7,7 +7,7 @@ authors:
   - katie-chan
   - joanna-karpinski-widzer
 topics:
-  - UX
+  - ux
   - National Institutes of Health
   - National Library of Medicine
   - NIH

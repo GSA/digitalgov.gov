@@ -11,7 +11,7 @@ topics:
   - code
   - content
   - Data
-  - UX
+  - ux
   - api
   - code
   - content

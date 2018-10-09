@@ -12,7 +12,7 @@ topics:
   - social-media
   - strategy
   - policy
-  - UX
+  - ux
   - Video
   - accessibility
   - best practices
@@ -33,8 +33,8 @@ topics:
   - social media
   - US General Services Administration
   - USAgov
-  - user experience
-  - UX
+  - user-experience
+  - ux
   - video
 ---
 

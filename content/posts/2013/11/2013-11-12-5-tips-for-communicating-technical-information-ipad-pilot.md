@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - managing-digital
-  - UX
+  - ux
   - FCN
   - mobile
 ---

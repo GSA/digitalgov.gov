@@ -9,7 +9,7 @@ topics:
   - design
   - mobile
   - user-testing-and-research
-  - UX
+  - ux
   - HHS
   - mobile-gov-experience
   - mobile-ux-guideline-5

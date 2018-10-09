@@ -7,7 +7,7 @@ authors:
   - va-center-for-innovation
 topics:
   - design
-  - UX
+  - ux
   - innovation
   - US Department of Veterans Affairs
   - user centered design

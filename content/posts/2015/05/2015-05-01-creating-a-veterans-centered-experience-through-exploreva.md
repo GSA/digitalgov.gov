@@ -7,13 +7,13 @@ authors:
   - awichman
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - a-b-testing
   - content strategy
   - social media
   - US Department of Veterans Affairs
   - user centered design
-  - user experience
+  - user-experience
   - VA
 ---
 

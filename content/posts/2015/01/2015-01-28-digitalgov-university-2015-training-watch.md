@@ -12,7 +12,7 @@ topics:
   - DigitalGov Summit
   - mobile-gov-community-of-practice
   - SocialGov Community
-  - User Experience Community of Practice
+  - user-experience-community-of-practice
 ---
 
 {{< legacy-img src="2015/01/600-x-445-Figure-looking-at-Calendar-abluecup-iStock-Thinkstock-469683437.jpg" alt="Figure looking at Calendar" caption="" >}}

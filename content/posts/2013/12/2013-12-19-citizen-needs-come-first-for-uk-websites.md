@@ -8,8 +8,8 @@ authors:
 topics:
   - managing-digital
   - innovation
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 <p dir="ltr">

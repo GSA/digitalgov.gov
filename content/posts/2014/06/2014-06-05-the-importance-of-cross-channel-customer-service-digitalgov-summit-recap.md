@@ -13,7 +13,7 @@ topics:
   - metrics
   - mobile
   - social-media
-  - UX
+  - ux
   - 18f
   - CDC
   - FSA

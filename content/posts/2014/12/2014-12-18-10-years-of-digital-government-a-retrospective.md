@@ -12,7 +12,7 @@ topics:
   - managing-digital
   - mobile
   - social-media
-  - UX
+  - ux
   - CDC
   - Centers for Disease Control and Prevention
   - HHS

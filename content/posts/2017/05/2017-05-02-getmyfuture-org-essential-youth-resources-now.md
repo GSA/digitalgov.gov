@@ -11,7 +11,7 @@ topics:
   - design
   - managing-digital
   - mobile
-  - UX
+  - ux
   - audio-video
   - data
   - Digital Audio/Video Community
@@ -19,8 +19,8 @@ topics:
   - mobile-friendly
   - mobile-gov
   - user centered design
-  - user experience
-  - UX
+  - user-experience
+  - ux
   - video
   - Video Production Pros community
 ---

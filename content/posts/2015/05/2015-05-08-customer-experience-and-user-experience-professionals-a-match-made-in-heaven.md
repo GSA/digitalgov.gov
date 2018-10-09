@@ -8,9 +8,9 @@ authors:
 topics:
   - managing-digital
   - Monthly Theme
-  - UX
+  - ux
   - Customer Experience
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/05/600-x-400-0-two-yellow-puzzle-pieces-TongRo-Images-TongRo-Images-Thinkstock-871735781.jpg" alt="Two yellow puzzle pieces on a wooden table." caption="" >}} 

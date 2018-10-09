@@ -18,8 +18,8 @@ topics:
   - OPM
   - United States Office of Personnel Management
   - USAJOBS
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 _USAJOBS’ Analytics Success: using analytics to create accurate testing strategies._

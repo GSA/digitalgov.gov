@@ -7,7 +7,7 @@ authors:
   - leah-bannon
 topics:
   - managing-digital
-  - UX
+  - ux
 ---
 
 <p dir="ltr">

@@ -10,7 +10,7 @@ topics:
   - content
   - managing-digital
   - social-media
-  - UX
+  - ux
   - AoI
   - Customer Experience
   - government contact centers

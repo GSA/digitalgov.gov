@@ -7,11 +7,11 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov User Experience Program
   - GSA
   - usability case study
-  - user experience
+  - user-experience
 ---
 
 Not all usability changes are dramatic. Sometimes a few small tweaks can make a site significantly easier to navigate, or make important but hidden content pop off the page.
@@ -45,5 +45,3 @@ The category links identified as the most important for regular visitors of the 
 The below screen capture was taken one month later in October of 2012.
 
 [{{< legacy-img src="2013/12/insite-after.jpg" alt="insite after screen shot" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/insite-after.jpg)
-
- 

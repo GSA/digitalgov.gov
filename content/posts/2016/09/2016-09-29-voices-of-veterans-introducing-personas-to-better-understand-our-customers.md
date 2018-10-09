@@ -6,13 +6,13 @@ summary: Understanding our Veterans and their unique needs and experiences is at
 authors:
   - va-center-for-innovation
 topics:
-  - UX
+  - ux
   - Customer Experience
   - customer service
   - CX
   - Personas
   - user centered design
-  - user experience
+  - user-experience
   - VA
   - VA Center for Innovation
   - VACI

@@ -10,7 +10,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - content strategy
   - The Content Corner
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Basketball-strategy-concept-Gajus-iStock-Thinkstock-184906023.jpg" alt="Basketball strategy concept" caption="" >}} 

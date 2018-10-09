@@ -8,15 +8,15 @@ authors:
 topics:
   - mobile
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov User Experience Program
   - FDA
   - mobile-app-development-program
   - NCI
   - OMB
   - PRA
-  - user experience
-  - User Experience Community of Practice
+  - user-experience
+  - user-experience-community-of-practice
 ---
 
 [{{< legacy-img src="2014/02/UX-Summit-Crowd-Image-250x137.jpg" alt="Audience in chairs at the UX Summit" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/UX-Summit-Crowd-Image.jpg) We were hoping for 30, but we got more than 100 user experience professionals and novices on Jan 28, 2014, for our User Experience (UX) Summit at the General Services Administration. The event was sponsored by the [User Experience Community of Practice]({{< link "user-experience.md" >}}) and the [DigitalGov User Experience Program]({{< link "resources/digitalgov-user-experience-resources/" >}}). Here’s what we discussed:

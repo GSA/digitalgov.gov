@@ -14,7 +14,7 @@ topics:
   - metadata
   - The Content Corner
   - usability
-  - UX
+  - ux
 ---
 
 {{< legacy-img src="2015/03/600-x-300-Audit-and-compliance-in-word-cloud-rafal_olechowski-iStock-Thinkstock-506935581.jpg" alt="Audit and compliance in word cloud" caption="" >}} 

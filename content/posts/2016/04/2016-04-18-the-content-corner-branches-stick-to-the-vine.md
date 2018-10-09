@@ -18,8 +18,8 @@ topics:
   - US Digital Service
   - United States Department of Energy
   - USDS
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 A branch that does not stick to its source of nutrition will wither away and die. Just ask anyone who has received a bouquet of beautiful flowers about how long they really last. In the same way, as communicators we must stay connected to our audience, or we risk the chance of fading away into insignificance. {{< legacy-img src="2016/04/600-x-400-Napa-Valley-Grape-Vine-closeup-in-Spring-bbourdages-iStock-Thinkstock-106443252.jpg" alt="Rows of vines at a Napa Valley vineyard in spring" caption="" >}} 

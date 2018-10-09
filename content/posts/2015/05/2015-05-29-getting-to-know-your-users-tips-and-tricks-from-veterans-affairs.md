@@ -9,14 +9,14 @@ authors:
 topics:
   - managing-digital
   - Monthly Theme
-  - UX
+  - ux
   - Customer Experience
   - customer satisfaction
   - customer service
   - Personas
   - US Department of Veterans Affairs
   - user centered design
-  - user experience
+  - user-experience
   - VA
 ---
 

@@ -7,7 +7,7 @@ authors:
   - stephanie-stover
 topics:
   - managing-digital
-  - UX
+  - ux
   - search engine optimization
 ---
 

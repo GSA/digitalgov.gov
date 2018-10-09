@@ -19,7 +19,7 @@ topics:
   - metrics
   - mobile
   - social-media
-  - UX
+  - ux
   - DOL
   - EPA
   - FCC

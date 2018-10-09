@@ -9,7 +9,7 @@ topics:
   - content
   - managing-digital
   - user-testing-and-research
-  - UX
+  - ux
   - Video
   - audio-video
   - CFPB
@@ -17,8 +17,8 @@ topics:
   - content
   - content strategy
   - Digital Audio/Video Community
-  - user experience
-  - User Experience Community of Practice
+  - user-experience
+  - user-experience-community-of-practice
   - user research
   - video
 ---

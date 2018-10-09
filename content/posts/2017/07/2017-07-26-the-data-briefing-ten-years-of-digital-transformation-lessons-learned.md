@@ -11,10 +11,10 @@ topics:
   - Data
   - emerging-tech
   - managing-digital
-  - UX
+  - ux
   - The Data Briefing
-  - user experience
-  - UX
+  - user-experience
+  - ux
   - 3d-printing
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community

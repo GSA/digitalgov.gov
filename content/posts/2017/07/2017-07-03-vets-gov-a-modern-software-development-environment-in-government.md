@@ -10,7 +10,7 @@ topics:
   - code
   - design
   - 'User Testing and Research'
-  - UX
+  - ux
   - cloud
   - code
   - GitHub
@@ -20,8 +20,8 @@ topics:
   - US Digital Service
   - USDS
   - user centered design
-  - user experience
-  - UX
+  - user-experience
+  - ux
   - VA
 ---
 

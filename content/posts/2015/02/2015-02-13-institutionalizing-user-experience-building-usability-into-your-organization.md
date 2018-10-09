@@ -7,7 +7,7 @@ authors:
   - beth-martin
 topics:
   - Communities
-  - UX
+  - ux
   - analytics
   - AoI
   - DigitalGov User Experience Program
@@ -16,10 +16,10 @@ topics:
   - GSA
   - Personas
   - prototype
-  - usability testing
-  - user experience
-  - User Experience Community of Practice
-  - UX
+  - usability-testing
+  - user-experience
+  - user-experience-community-of-practice
+  - ux
 ---
 
 {{< legacy-img src="2015/02/600-x-420-Usability-Mathias-Rosenthal-iStock-Thinkstock-523316205.jpg" alt="Usability sign" caption="" >}} 

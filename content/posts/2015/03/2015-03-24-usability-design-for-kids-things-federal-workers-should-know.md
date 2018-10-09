@@ -9,10 +9,10 @@ topics:
   - accessibility
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - accessibility
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/03/600-x-400-kids.gov-usability-test-boy-great.jpg" alt="Children participate in kids.gov usability test" >}}

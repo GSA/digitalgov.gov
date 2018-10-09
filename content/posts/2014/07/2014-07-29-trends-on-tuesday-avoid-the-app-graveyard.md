@@ -8,7 +8,7 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - UX
+  - ux
   - federal user experience community
   - mobile
   - mobile-apps
@@ -16,7 +16,7 @@ topics:
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4
   - Trends on Tuesday
-  - user experience
+  - user-experience
 ---
 
 [{{< legacy-img src="2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg" alt="Old Cemeteries Tombstone Closeups" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg) 

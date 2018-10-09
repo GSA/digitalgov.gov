@@ -9,7 +9,7 @@ topics:
   - content
   - design
   - managing-digital
-  - UX
+  - ux
   - Recaps
   - US Web Design Standards
 ---

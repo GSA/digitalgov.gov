@@ -7,15 +7,15 @@ authors:
   - apiazza
 topics:
   - Monthly Theme
-  - UX
+  - ux
   - DGU
   - DigitalGov User Experience Program
   - federal user experience community
   - Recaps
   - usability
-  - usability testing
-  - user experience
-  - UX
+  - usability-testing
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2014/11/600-x-316-Usability-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-468906877.jpg" alt="Usability concept in tag cloud" caption="" >}} 

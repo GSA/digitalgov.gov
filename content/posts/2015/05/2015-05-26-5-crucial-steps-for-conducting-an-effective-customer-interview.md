@@ -13,7 +13,7 @@ topics:
   - customer satisfaction
   - customer service
   - GSA
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/05/600-x-385-Business-Solutions-Consulting-Questions-compass-pointing-to-Answers-olm26250-iStock-Thinkstock-451418329.jpg" alt="Questions compass with needle pointing to Answers" caption="" >}} 

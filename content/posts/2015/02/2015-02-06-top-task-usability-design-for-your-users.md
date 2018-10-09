@@ -9,14 +9,14 @@ topics:
   - Communities
   - design
   - user-testing-and-research
-  - UX
+  - ux
   - AoI
   - Federal Reserve Board
   - FRB
   - top tasks
   - usability
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 Being able to design a website that users love is not too far away from being able to read their minds. While designers can’t read minds, that doesn’t stop them from using their website’s top tasks to make it seem like they can.

@@ -12,7 +12,7 @@ topics:
   - native app
   - native apps
   - Trends on Tuesday
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Skip-ad-sign-tzahiV-iStock-Thinkstock-475523390.jpg" alt="Skip ad sign" caption="" >}} 

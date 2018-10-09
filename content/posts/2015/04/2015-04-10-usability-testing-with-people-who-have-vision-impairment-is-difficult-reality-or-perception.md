@@ -7,10 +7,10 @@ authors:
   - stacey-sarris
 topics:
   - accessibility
-  - UX
+  - ux
   - accessibility
   - usability
-  - usability testing
+  - usability-testing
 ---
 
 {{< legacy-img src="2015/03/600-x-397-Eyeglasses-matsilvan-iStock-Thinkstock-ThinkstockPhotos-476465825.jpg" alt="Eyeglasses" caption="" >}} 

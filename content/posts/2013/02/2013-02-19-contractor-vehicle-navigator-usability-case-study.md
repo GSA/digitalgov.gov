@@ -7,11 +7,11 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - DigitalGov User Experience Program
   - usability
   - usability case study
-  - user experience
+  - user-experience
 ---
 
 When users interact with a website to find information, it is important that we help them find their way by using plain language, clear terminology and visible help text.

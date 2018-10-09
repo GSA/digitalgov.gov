@@ -12,7 +12,7 @@ topics:
   - search engine optimization
   - usability
   - USAgov
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Computer-key-E-government-jurgenfr-iStock-Thinkstock-459457871.jpg" alt="600-x-400-Computer-key\---E-government-jurgenfr-iStock-Thinkstock-459457871" >}}

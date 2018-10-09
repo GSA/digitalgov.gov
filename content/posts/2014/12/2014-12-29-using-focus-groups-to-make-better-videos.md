@@ -7,9 +7,9 @@ authors:
   - colleen-bayus
 topics:
   - user-testing-and-research
-  - UX
+  - ux
   - usa.gov
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2014/12/600-x-400-High-angle-view-of-a-group-of-business-executives-in-a-conference-Purestock-Thinkstock-57569113.jpg" alt="High angle view of a group of business executives in a conference" caption="" >}} 

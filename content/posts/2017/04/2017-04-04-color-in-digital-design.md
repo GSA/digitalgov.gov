@@ -9,12 +9,12 @@ topics:
   - content
   - design
   - managing-digital
-  - UX
+  - ux
   - communities
   - US Web Design Standards
-  - user experience
-  - User Experience Community of Practice
-  - UX
+  - user-experience
+  - user-experience-community-of-practice
+  - ux
   - Web Content Managers Forum
 ---
 

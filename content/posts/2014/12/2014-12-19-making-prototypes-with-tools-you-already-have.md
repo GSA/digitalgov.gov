@@ -11,8 +11,8 @@ topics:
   - BLS
   - prototype
   - US Bureau of Labor Statistics
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 {{< legacy-img src="2014/12/600-x-300-DigitalGov-Graphic.jpg" alt="600-x-300-DigitalGov-Graphic" >}}

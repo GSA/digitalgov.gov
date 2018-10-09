@@ -11,12 +11,12 @@ topics:
   - managing-digital
   - mobile
   - user-testing-and-research
-  - UX
+  - ux
   - content strategy
   - mobile
   - user centered design
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 > Summary: Improving the way you engage with the White House through our online petitions platform

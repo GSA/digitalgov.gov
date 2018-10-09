@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - Data
-  - UX
+  - ux
   - BLS
   - content strategy
   - data

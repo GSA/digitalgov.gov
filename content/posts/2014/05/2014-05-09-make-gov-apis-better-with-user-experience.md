@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - user-testing-and-research
-  - UX
+  - ux
   - 18f
   - api
   - api keys

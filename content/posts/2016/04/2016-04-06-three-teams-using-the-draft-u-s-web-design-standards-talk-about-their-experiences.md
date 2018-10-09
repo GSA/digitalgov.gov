@@ -11,14 +11,14 @@ topics:
   - managing-digital
   - strategy
   - policy
-  - UX
+  - ux
   - 18f
   - code
   - Draft Web Design Standards
   - open source
   - US Digital Service
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 In the five months since we launched the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards) — the U.S. government’s very own set of common UI components and visual styles for websites — over a dozen websites have used components of the Draft Standards on their sites.

@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - content
-  - UX
+  - ux
   - Video
 ---
 

@@ -7,14 +7,14 @@ authors:
   - katina-stapleton
 topics:
   - Monthly Theme
-  - UX
+  - ux
   - IES
   - Institute for Education Sciences
   - Plain language
   - US Department of Education
   - usability case study
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the [Institute of Education Sciences (IES)](http://ies.ed.gov/funding/). Their complaints prompted a [Plain Language]({{< link "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}) makeover for the Institute’s funding materials.

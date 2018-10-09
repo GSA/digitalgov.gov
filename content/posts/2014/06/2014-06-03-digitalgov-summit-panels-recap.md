@@ -13,7 +13,7 @@ topics:
   - metrics
   - mobile
   - social-media
-  - UX
+  - ux
   - administrative-office-of-the-united-states-courts
   - DOL
   - EPA

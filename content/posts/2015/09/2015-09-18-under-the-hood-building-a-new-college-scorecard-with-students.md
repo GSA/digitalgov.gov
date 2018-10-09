@@ -16,7 +16,7 @@ topics:
   - prototype
   - US Department of Education
   - US Digital Service
-  - user experience
+  - user-experience
 ---
 
 > Summary: How the U.S. Digital Service worked with students, families, schools, developers and teams across the federal government to rebuild the new College Scorecard tool.

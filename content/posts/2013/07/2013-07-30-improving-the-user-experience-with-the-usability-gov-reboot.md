@@ -6,10 +6,10 @@ summary: 'Plan and analyze. Write and design.  Test and refine.  As Web Manager 
 authors:
   - katie-messner
 topics:
-  - UX
+  - ux
   - content strategy
   - usability
-  - user experience
+  - user-experience
 ---
 
 [{{< legacy-img src="2014/01/Usability.gov-reboot-250x187.jpg" alt="Mobile devices showing responsively designed site across a Laptop, tablets, smartphones" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Usability.gov-reboot.jpg)Plan and analyze. Write and design.  Test and refine.  As Web Manager for <a href="http://www.usability.gov/" target="_blank">Usability.gov</a>, I have found that taking a user-centered approach is vital each time you improve or build a digital product, especially when the content is about improving user experience.

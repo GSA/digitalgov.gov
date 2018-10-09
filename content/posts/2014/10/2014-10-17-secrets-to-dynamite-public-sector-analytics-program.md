@@ -8,7 +8,7 @@ authors:
 topics:
   - metrics
   - user-testing-and-research
-  - UX
+  - ux
   - analytics
   - data
   - EPA

@@ -9,7 +9,7 @@ topics:
   - content
   - design
   - managing-digital
-  - UX
+  - ux
   - GSA
   - US General Services Administration
   - web-based

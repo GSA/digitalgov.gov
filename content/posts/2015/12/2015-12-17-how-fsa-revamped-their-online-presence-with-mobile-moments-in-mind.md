@@ -7,7 +7,7 @@ authors:
   - jenny-johnson
 topics:
   - mobile
-  - UX
+  - ux
   - FAFSA
   - Federal Student Aid
   - mobile
