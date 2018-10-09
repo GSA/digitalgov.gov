@@ -12,8 +12,8 @@ topics:
   - mobile
   - mobile-ux-guideline-3
   - mobile-ux-guideline-4
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - user-experience
   - ux
 ---

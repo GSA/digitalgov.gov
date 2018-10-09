@@ -17,8 +17,8 @@ topics:
   - mobile
   - mobile-apps
   - National Oceanic and Atmospheric Administration
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - NOAA
   - open data
   - responsive web design

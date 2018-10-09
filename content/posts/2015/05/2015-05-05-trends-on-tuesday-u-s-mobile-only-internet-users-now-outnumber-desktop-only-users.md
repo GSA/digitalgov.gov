@@ -10,7 +10,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-first
   - mobile-friendly
-  - native app
+  - native-app
   - Trends on Tuesday
   - US National Park Service
 ---

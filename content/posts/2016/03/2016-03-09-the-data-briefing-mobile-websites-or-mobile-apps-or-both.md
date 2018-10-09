@@ -13,8 +13,8 @@ topics:
   - data
   - mobile
   - mobile-apps
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - open data
   - responsive web design
   - the-data-briefing

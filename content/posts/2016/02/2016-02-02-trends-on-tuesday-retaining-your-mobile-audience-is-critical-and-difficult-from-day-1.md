@@ -9,8 +9,8 @@ topics:
   - mobile
   - mobile
   - mobile-apps
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - Trends on Tuesday
 ---
 

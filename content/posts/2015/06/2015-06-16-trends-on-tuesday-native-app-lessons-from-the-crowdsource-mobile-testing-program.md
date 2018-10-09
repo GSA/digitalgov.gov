@@ -14,7 +14,7 @@ topics:
   - mobile-testing
   - mobile-ux-guideline-3
   - mobile-ux-guideline-4
-  - native app
+  - native-app
   - Trends on Tuesday
 ---
 

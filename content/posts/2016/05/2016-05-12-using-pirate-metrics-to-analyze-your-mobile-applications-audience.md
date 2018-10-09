@@ -14,7 +14,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-gov
   - National Center for Telehealth and Technology
-  - native app
+  - native-app
   - prototype
   - Recaps
   - United States Department of Defense

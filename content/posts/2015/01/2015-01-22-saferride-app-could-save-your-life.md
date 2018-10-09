@@ -10,7 +10,7 @@ topics:
   - social-media
   - DOT
   - National Highway Traffic Safety Administration
-  - native app
+  - native-app
   - Terms of Service
   - thursday-mobile-products
   - TOS

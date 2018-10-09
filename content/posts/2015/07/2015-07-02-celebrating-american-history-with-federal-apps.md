@@ -13,7 +13,7 @@ topics:
   - mobile
   - NARA
   - National Archives and Records Administration
-  - native apps
+  - native-apps
   - Smithsonian Institution
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory

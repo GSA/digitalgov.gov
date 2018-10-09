@@ -9,7 +9,7 @@ topics:
   - mobile
   - Federal Mobile Products Registry
   - ICE
-  - native app
+  - native-app
   - thursday-mobile-products
   - US Department of Agriculture
   - US Immigration and Customs Enforcement

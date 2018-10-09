@@ -14,7 +14,7 @@ topics:
   - EPA
   - mobile-ux-guideline-5
   - National Institute of Standards and Technology
-  - native apps
+  - native-apps
   - NIST
   - open data
   - thursday-mobile-products

@@ -8,8 +8,8 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - SSA
   - The United States Social Security Administration
   - thursday-mobile-products

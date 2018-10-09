@@ -7,7 +7,7 @@ topics:
   - mobile
   - CDC
   - Centers for Disease Control and Prevention
-  - native app
+  - native-app
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---

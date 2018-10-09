@@ -17,8 +17,8 @@ topics:
   - IRS
   - mobile
   - mobile-apps
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - State
   - the-data-briefing
   - US Department of Agriculture

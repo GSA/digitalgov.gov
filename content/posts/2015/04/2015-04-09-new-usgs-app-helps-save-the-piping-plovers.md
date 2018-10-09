@@ -10,7 +10,7 @@ topics:
   - mobile
   - crowdsourcing
   - Federal Mobile Products Registry
-  - native app
+  - native-app
   - thursday-mobile-products
   - United States Geological Survey
   - usa-gov-federal-mobile-apps-directory

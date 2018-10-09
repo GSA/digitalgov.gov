@@ -15,8 +15,8 @@ topics:
   - mobile-testing
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - ux
 ---
 

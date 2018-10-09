@@ -11,7 +11,7 @@ topics:
   - ios
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5
-  - native app
+  - native-app
   - Trends on Tuesday
 ---
 

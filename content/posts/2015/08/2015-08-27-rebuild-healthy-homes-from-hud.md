@@ -10,7 +10,7 @@ topics:
   - HUD
   - ios
   - mobile
-  - native app
+  - native-app
   - thursday-mobile-products
   - United States Department of Housing and Urban Development
 ---

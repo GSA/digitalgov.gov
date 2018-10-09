@@ -10,7 +10,7 @@ topics:
   - Federal Mobile Products Registry
   - ios
   - mobile-apps
-  - native app
+  - native-app
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---

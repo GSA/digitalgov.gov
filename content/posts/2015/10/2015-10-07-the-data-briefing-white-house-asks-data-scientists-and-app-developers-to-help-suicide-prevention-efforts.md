@@ -11,8 +11,8 @@ topics:
   - Centers for Disease Control and Prevention
   - data
   - mobile-apps
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - open data
   - SAMHSA
   - the-data-briefing

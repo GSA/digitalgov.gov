@@ -16,7 +16,7 @@ topics:
   - innovation
   - mobile
   - mobile-apps
-  - native apps
+  - native-apps
   - thursday-mobile-products
 ---
 

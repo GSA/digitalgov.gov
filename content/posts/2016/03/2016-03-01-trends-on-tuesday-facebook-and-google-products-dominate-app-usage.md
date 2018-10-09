@@ -8,8 +8,8 @@ authors:
 topics:
   - mobile
   - mobile
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - responsive web design
   - Trends on Tuesday
 ---

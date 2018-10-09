@@ -6,7 +6,7 @@ summary: A recent survey of 100 retailers by EPiServer found that 46 percent of 
 topics:
   - mobile
   - mobile-first
-  - native app
+  - native-app
   - Trends on Tuesday
 ---
 

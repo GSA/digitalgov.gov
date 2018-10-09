@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - api
-  - native app
+  - native-app
   - ROTC
   - thursday-mobile-products
   - United States Army

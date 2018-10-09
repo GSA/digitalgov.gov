@@ -11,7 +11,7 @@ topics:
   - Centers for Disease Control and Prevention
   - government contact centers
   - mobile-ux-guideline-3
-  - native app
+  - native-app
   - responsive web design
   - Trends on Tuesday
 ---

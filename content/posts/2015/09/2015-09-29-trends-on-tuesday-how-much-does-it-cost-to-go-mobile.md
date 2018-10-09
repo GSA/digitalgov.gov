@@ -15,8 +15,8 @@ topics:
   - mobile-first
   - mobile-friendly
   - mobile-gov
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - responsive web design
   - Terms of Service
   - Trends on Tuesday

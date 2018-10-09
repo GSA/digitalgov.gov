@@ -9,8 +9,8 @@ topics:
   - mobile
   - Monthly Theme
   - mobile-apps
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - Smithsonian Institution
   - SSA
   - The United States Social Security Administration

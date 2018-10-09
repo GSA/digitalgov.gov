@@ -10,8 +10,8 @@ topics:
   - mobile
   - mobile-apps
   - mobile-ux-guideline-5
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - Trends on Tuesday
 ---
 

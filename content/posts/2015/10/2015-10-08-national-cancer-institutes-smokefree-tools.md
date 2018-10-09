@@ -9,7 +9,7 @@ topics:
   - mobile
   - ios
   - National Cancer Institute
-  - native app
+  - native-app
   - NCI
   - responsive web design
   - thursday-mobile-products

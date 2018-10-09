@@ -14,7 +14,7 @@ topics:
   - Federal Mobile Products Registry
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
-  - native app
+  - native-app
   - open data
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory

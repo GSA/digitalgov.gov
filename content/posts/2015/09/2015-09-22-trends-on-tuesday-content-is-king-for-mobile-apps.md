@@ -13,7 +13,7 @@ topics:
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - mobile-friendly
-  - native app
+  - native-app
   - Trends on Tuesday
 ---
 
