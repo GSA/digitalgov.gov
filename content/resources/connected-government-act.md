@@ -5,6 +5,8 @@ title: 'Connected Government Act'
 summary: 'Resources to help your agency comply with the Connected Government Act.'
 type: guide
 deck: 'As of January of 2018, all new new and redesigned agency websites are required to be mobile friendly.'
+featured_image:
+  uid: hr2331
 
 ---
 
