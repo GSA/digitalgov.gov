@@ -5,11 +5,10 @@ title: 'Dear Search: Reading Between the Lines of Search Data'
 summary: Welcome to the first Dear Search article, an occasional series where the DigitalGov Search team addresses common search questions. Dear Search, Right now, I am building up user research services that can be offered to product owners on a regular or as-needed basis. So, being able to look at search trends and offer advice to
 authors:
   - dmccleskey
-categories:
+topics:
   - Metrics
   - Our Work
   - UX
-tag:
   - analytics
   - DigitalGov Search
   - user experience

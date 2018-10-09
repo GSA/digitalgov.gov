@@ -5,9 +5,8 @@ title: Saving Energy, One Green Button at a Time
 summary: Conserving energy is not a shot in the dark. Millions of people can now shine a light on their electricity usage as a result of a dynamic public-private partnership based on open data. The goal of the Green Button Initiative is to provide electricity customers with access to their energy usage data in an easy-to-understand
 authors:
   - awichman
-categories:
+topics:
   - Data
-tag:
   - apps challenges
   - data
   - Department of Commerce

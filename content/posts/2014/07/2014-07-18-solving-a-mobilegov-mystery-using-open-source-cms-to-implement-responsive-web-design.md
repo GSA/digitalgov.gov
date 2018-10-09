@@ -6,11 +6,10 @@ summary: ' Responsive Web design is widely-known as a go-to solution for designi
 authors:
   - jparcell
   - katie-steffy
-categories:
+topics:
   - Content
   - Mobile
   - Monthly Theme
-tag:
   - GSA
   - mobile
   - mobile gov

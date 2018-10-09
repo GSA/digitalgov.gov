@@ -5,9 +5,8 @@ title: 'The Content Corner: Can Automated Content Creation Help Your Agency?'
 summary: 'Nearly half of companies recently surveyed said that automating content creation would save their content marketing teams the most time. We’ve already covered Natural Language Generation (NLG) algorithms and how they have made some forms of automated content generation a reality already, such as for sports recaps or financial data reporting. Let’s take a deeper'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - structured content
   - The Content Corner

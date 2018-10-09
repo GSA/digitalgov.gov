@@ -5,10 +5,9 @@ title: Collaboration and Innovation, Beyond Government Borders
 summary: 'How to start an innovation movement: Connect innovators with fellow innovators, and find more innovators to collaborate with.'
 authors:
   - awichman
-categories:
+topics:
   - Code
   - Our Work
-tag:
   - code
   - Open Opportunities program
   - open source

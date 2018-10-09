@@ -5,12 +5,11 @@ title: Crowdsourcing for Accessibility
 summary: 'While we’re anticipating the Section 508 refresh, many government digital media teams are facing the task of incorporating WCAG 2.0 standards (Web Content Accessibility Guidelines) in their projects despite having limited staff resources and budget constraints. We can use creative solutions, such as crowdsourcing, to overcome those challenges and make our works accessible. Our teams'
 authors:
   - angela-hooker
-categories:
+topics:
   - Accessibility
   - Challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
   - accessibility
   - ChallengeGov
   - challenges and prize competitions

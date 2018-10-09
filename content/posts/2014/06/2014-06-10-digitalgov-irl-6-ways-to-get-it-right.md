@@ -5,12 +5,11 @@ title: 'DigitalGov IRL: 6 Ways To Get It Right'
 summary: 'This morning I was walking down 18th Street, crossing Pennsylvania Avenue by the World Bank when I heard what sounded like &#8220;a test from the'
 authors:
   - gwynne-kostin
-categories:
+topics:
   - Content
   - Data
   - Mobile
   - UX
-tag:
   - Department of Commerce
   - FCC
   - FEMA

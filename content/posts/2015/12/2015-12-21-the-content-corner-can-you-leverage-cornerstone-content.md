@@ -5,9 +5,8 @@ title: 'The Content Corner: Can You Leverage Cornerstone Content?'
 summary: 'If you have a website, then you most likely have cornerstone content&mdash;though you may not think of it in that way or even considered it. Just as in architecture, a cornerstone is a basic and essential part of any online presence. Cornerstone content is also important to any new visitors to your agency site, even if you'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - NPS
   - SEO

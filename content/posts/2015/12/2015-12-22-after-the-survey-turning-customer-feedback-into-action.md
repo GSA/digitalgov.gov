@@ -5,9 +5,8 @@ title: 'After the Survey: Turning Customer Feedback into Action'
 summary: 'Doing business with any U.S. government agency can be a daunting task. For example, in the case of customers new to EXIM Bank, there are application forms to complete, rules to understand, processes to navigate and conditions that have to be met in order to work with our agency. What our staff considers an &ldquo;everyday&rdquo;'
 authors:
   - stephanie-thum
-categories:
+topics:
   - Managing Digital
-tag:
   - Customer Experience
   - Ex-Im Bank
   - Export-Import Bank of the United States

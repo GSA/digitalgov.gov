@@ -5,13 +5,12 @@ title: Analytics, APIs and Open Content Resources
 summary: 'Agencies have been working away at building better digital services and here, at the Digital Services Innovation Center, we&#8217;ve been building resources to help. We have been focusing on three areas, 1. The Digital Analytics Program. We announced this program in early October to help agencies better measure performance and customer satisfaction'
 authors:
   - gwynne-kostin
-categories:
+topics:
   - API
   - Code
   - Content
   - Metrics
   - Our Work
-tag:
   - API
   - Census
   - Department of Commerce

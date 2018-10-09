@@ -6,11 +6,10 @@ summary: 'As highlighted in this Trends on Tuesday post, time spent on mobile ph
 authors:
   - zeshan-khan
   - katie-steffy
-categories:
+topics:
   - Mobile
   - Monthly Theme
   - Social Media
-tag:
   - crowdsourcing
   - Federal Mobile Products Registry
   - GPS

@@ -5,7 +5,7 @@ title: 'Fostering Medical Innovation: A Plan for Digital Health Devices'
 summary: It is incumbent upon FDA to ensure that we have the right policies in place to promote and encourage safe and effective innovation that can benefit consumers, and adopt regulatory approaches to enable the efficient development of these technologies. By taking an efficient, risk-based approach to our regulation, FDA can promote health through the creation
 authors:
   - scott-gottlieb-m-d
-categories:
+topics:
   - Governance
   - Mobile
   - strategy-and-policy

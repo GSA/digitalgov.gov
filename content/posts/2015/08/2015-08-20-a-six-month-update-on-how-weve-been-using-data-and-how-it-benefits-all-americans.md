@@ -5,9 +5,8 @@ title: A Six Month Update on How We’ve Been Using Data, and How it Benefits Al
 summary: 'Memorandum: A Six Month Update on How We’ve Been Using Data, and How it Benefits All Americans To: The American People From: Dr. DJ Patil, U.S. Chief Data Scientist Date: August 19, 2015 In my last memorandum, I discussed the opportunity to unleash the power of data to benefit'
 authors:
   - dr-dj-patil
-categories:
+topics:
   - Data
-tag:
   - Commerce
   - Department of Commerce
   - National Institutes of Health

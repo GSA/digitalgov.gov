@@ -6,10 +6,9 @@ summary: '  Like private sector organizations, U.S. public sector organizations 
 authors:
   - corina-dubois
   - david-a-bray
-categories:
+topics:
   - Managing Digital
   - Social Media
-tag:
   - social media
   - Twitter
 ---

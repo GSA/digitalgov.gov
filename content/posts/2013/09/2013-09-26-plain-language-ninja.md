@@ -5,11 +5,10 @@ title: Plain Language Ninja
 summary: 'A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division. So I scooted my chair over and looked at it. Then I looked at him and asked, &ldquo;But what'
 authors:
   - katherine-spivey
-categories:
+topics:
   - Content
   - UX
   - Writing
-tag:
   - Plain language
 ---
 

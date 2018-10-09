@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: What Kind of Apps Will Users Return To?'
 summary: 'Flurry Analytics, a mobile application analytics company owned by Yahoo!, released a new report about app retention. Unless your app usage is around &#8220;gambling&#8221;&mdash;with cards (game apps), with your money (finance apps), with whether or not to bring an umbrella (weather apps), or with your health (fitness apps)&mdash;user retention and re-engagement is often a steep wall'
 authors:
   - wsullivan
-categories:
+topics:
   - Mobile
-tag:
   - analytics
   - metrics
   - mobile

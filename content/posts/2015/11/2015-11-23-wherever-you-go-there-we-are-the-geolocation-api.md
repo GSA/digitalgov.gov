@@ -6,10 +6,9 @@ summary: 'No matter how you go mobile, you can meet your user’s needs. Recomme
 authors:
   - awichman
   - leo-yang
-categories:
+topics:
   - API
   - Mobile
-tag:
   - API
   - mobile
   - NPS

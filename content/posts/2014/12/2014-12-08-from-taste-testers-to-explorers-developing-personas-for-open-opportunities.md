@@ -6,10 +6,9 @@ summary: 'Being customer-focused means doing the gumshoe work of research and ro
 authors:
   - lnelson
   - awichman
-categories:
+topics:
   - Content
   - Our Work
-tag:
   - Open Opportunities program
   - Personas
 ---

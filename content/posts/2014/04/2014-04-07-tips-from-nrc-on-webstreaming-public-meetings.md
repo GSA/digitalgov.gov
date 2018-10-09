@@ -6,9 +6,8 @@ summary: 'In support of open government, the U.S. Nuclear Regulatory Commissionâ
 authors:
   - christine-kundrat
   - danita-stenberg
-categories:
+topics:
   - Video
-tag:
   - NRC
   - Nuclear Regulatory Commission
   - open government

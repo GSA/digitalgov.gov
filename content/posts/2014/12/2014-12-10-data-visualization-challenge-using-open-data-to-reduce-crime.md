@@ -6,10 +6,9 @@ summary: ' Criminal justice agencies collect a variety of information and use it
 authors:
   - nancy-merritt
   - katie-gresham
-categories:
+topics:
   - Challenges
   - Monthly Theme
-tag:
   - Bureau of Justice Statistics
   - challenges and prize competitions
   - data visualization

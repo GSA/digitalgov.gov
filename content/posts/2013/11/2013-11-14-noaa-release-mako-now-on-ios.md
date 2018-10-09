@@ -5,9 +5,8 @@ title: NOAA Release Mako Now on iOS
 summary: The NOAA Release Mako App was created for fisherman to report their releases of Shortfin Mako sharks while on the water. In order to offer the tool on
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - NOAA
   - Thursday Mobile Products
 ---

@@ -6,9 +6,8 @@ summary: 'Summary: We’d like to hear from you on whether and how to increase y
 authors:
   - alexander-macgillivray
   - jay-shambaugh
-categories:
+topics:
   - Data
-tag:
   - data
   - OSTP
   - White House

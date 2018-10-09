@@ -5,11 +5,10 @@ title: Should Your Agency Be Offering Chat Service?
 summary: Live Web chat is an important component of good customer service. People like having the option of talking with an agent in real-time without having to pick up the phone. While live chat is not widespread, several agencies have shown great success in serving the public through this alternative channel. At a recent Government Contact
 authors:
   - tonya-beres
-categories:
+topics:
   - Communities
   - Managing Digital
   - Monthly Theme
-tag:
   - AoI
   - Customer Experience
   - customer satisfaction

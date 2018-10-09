@@ -5,9 +5,8 @@ title: 'The Content Corner: The Balance Between SEO and the User'
 summary: 'I always think of SEO like the dentist&mdash;no one really likes it, but you need to do it. Yet, despite my lack of excitement for the topic, this will be at a minimum my second post (here&#8217;s the first) about the relationship between creating good content and SEO practices. Today I want to dive a little'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - CMS
   - HTTPS

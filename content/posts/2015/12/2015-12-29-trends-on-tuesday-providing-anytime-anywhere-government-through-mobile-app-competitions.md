@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Providing Anytime, Anywhere Government Through Mobile
 summary: 'Agencies have used an open data competition approach in their quest to provide anytime, anywhere government. For example, in 2011, the Environmental Protection Agency (EPA) conducted the Apps for the Environment challenge and has a hub for apps created using EPA data. Here’s an update on challenges hosted by other agencies: The National Institute of Standards'
 authors:
   - jparcell
-categories:
+topics:
   - Challenges
   - Mobile
   - Monthly Theme
-tag:
   - apps challenges
   - challenges and prize competitions
   - data

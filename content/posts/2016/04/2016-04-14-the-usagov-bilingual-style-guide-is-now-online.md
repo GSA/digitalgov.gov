@@ -5,14 +5,13 @@ title: The USAGov Bilingual Style Guide Is Now Online!
 summary: 'About a year and a half ago, the Federal Citizen Information Center&mdash;today called USAGov&mdash;embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See more about'
 authors:
   - lgodfrey
-categories:
+topics:
   - Accessibility
   - Content
   - Design
   - Managing Digital
   - strategy-and-policy
   - UX
-tag:
   - accessibility
   - multilingual
   - multilingual-community

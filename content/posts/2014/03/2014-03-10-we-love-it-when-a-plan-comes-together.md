@@ -6,11 +6,10 @@ summary: 'Federal agencies are currently hard at work developing revised Open Go
 authors:
   - nick-sinai
   - corinna-zarek
-categories:
+topics:
   - Challenges
   - Data
   - Social Media
-tag:
   - CFPB
   - challenges and prize competitions
   - DOT

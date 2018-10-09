@@ -6,10 +6,9 @@ summary: 'While examples of government social media content may initially seem l
 authors:
   - awichman
   - jherman
-categories:
+topics:
   - Monthly Theme
   - Social Media
-tag:
   - accessibility
   - DigitalGov Search
   - National Oceanic and Atmospheric Administration

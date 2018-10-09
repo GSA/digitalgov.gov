@@ -5,12 +5,11 @@ title: 'The API Briefing: RealTrack – How Hackathons Help Create Apps from API
 summary: 'Once a federal agency releases an API, there are several ways they can be used in apps. The most common method is through hackathons. Hackathons are where an agency or agencies present the API(s) and invite developers to create prototype apps. The apps'
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Challenges
   - Code
   - Managing Digital
-tag:
   - ChallengeGov
   - mobile apps
   - OPM

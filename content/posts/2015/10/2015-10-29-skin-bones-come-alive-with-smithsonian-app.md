@@ -5,10 +5,9 @@ title: 'Skin & Bones Come Alive with Smithsonian App'
 summary: ' The night air is cool and crisp, the autumn leaves are falling, your costume is ready, jack-o-lanterns carved, lights dimmed, candy in the basket&mdash;what else do you need to make &#8220;All Hallows’ Eve trick or treat&#8221; complete? Some eerie music, a spine'
 authors:
   - nramprasad
-categories:
+topics:
   - Mobile
   - Monthly Theme
-tag:
   - mobile apps
   - native app
   - native apps

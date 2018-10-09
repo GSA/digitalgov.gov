@@ -5,11 +5,10 @@ title: 'The API Briefing: Brainstorming Ideas for Apps'
 summary: 'Data.gov has 130,000+ datasets (as of November 3, 2014) many of which are designed for application developers. In previous columns, I’ve showcased some of the great applications built using federal APIs. Have you wondered where the idea for an app came from? Some developers start with an idea and then look for the API that'
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Data
   - Mobile
-tag:
   - data.gov
   - DOT
   - US Department of Agriculture

@@ -5,9 +5,8 @@ title: 'Better Air, Better Student Performance: Indoor Air Quality Tools for Sch
 summary: 'Our children spend a lot of time at school. Multiple studies have shown a direct correlation between the learning environment and student behavior. Poorly maintained school facilities with run-down buildings, broken windows, etc., lead to disorderly conduct in students, affect their ability to concentrate and learn, affect teachers, pose health risks, and reduce overall community satisfaction.'
 authors:
   - nramprasad
-categories:
+topics:
   - Mobile
-tag:
   - EPA
   - mobile
   - mobile apps

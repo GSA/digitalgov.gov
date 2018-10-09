@@ -5,7 +5,7 @@ title: Welcome to the New DHS.gov
 summary: 'Today, I am happy to announce the newly optimized DHS.gov website. Over the past year, DHS has worked behind the scenes to update and modernize our flagship website, making it faster and easier to use. Some of the specific differences you’ll see are: Compatibility for both desktop computers and mobile devices (phones and tablets) Cleaner,'
 authors:
   - j-todd-breasseale
-categories:
+topics:
   - Accessibility
   - Content
   - Design
@@ -13,7 +13,6 @@ categories:
   - Mobile
   - strategy-and-policy
   - UX
-tag:
   - "508"
   - accessibility
   - content

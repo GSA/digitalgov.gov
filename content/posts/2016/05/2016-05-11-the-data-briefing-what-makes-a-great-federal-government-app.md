@@ -5,10 +5,9 @@ title: 'The Data Briefing: What Makes a Great Federal Government App?'
 summary: 'USAGov recently released a list of six great federal government mobile apps. There were many apps released by the federal government over the last 5-6 years on a wide range of topics and services. Many are well-designed and useful to the American public. So, what are the outstanding federal government apps for 2016?'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Mobile
-tag:
   - CDC
   - Census
   - Centers for Disease Control and Prevention

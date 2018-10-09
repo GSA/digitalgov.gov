@@ -8,9 +8,8 @@ authors:
   - carolyn-dew
   - maya-benari
   - colin-macarthur
-categories:
+topics:
   - Design
-tag:
   - 18F
   - US Digital Service
   - USDS

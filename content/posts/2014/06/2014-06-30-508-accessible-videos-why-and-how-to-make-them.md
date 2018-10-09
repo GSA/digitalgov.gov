@@ -7,11 +7,10 @@ authors:
   - jonathan-rubin
   - ryan-leisinger
   - gary-morin
-categories:
+topics:
   - Accessibility
   - UX
   - Video
-tag:
   - section 508
   - YouTube
 ---

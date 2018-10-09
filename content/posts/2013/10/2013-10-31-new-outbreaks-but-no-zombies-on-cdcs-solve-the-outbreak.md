@@ -5,9 +5,8 @@ title: 'New Outbreaks (but No Zombies) on CDC&#8217;s Solve the Outbreak'
 summary: 'The Centers for Disease Control recently added three new outbreaks to their Solve the Outbreak app. CDC released the app earlier this year to teach users how CDC’s disease detectives save lives everyday.'
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - CDC
   - mobile apps
   - Thursday Mobile Products

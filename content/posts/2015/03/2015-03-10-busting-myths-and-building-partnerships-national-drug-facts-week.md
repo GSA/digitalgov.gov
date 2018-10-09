@@ -5,10 +5,9 @@ title: 'Busting Myths and Building Partnerships: National Drug Facts Week'
 summary: ' Myth-busting isn’t just for television. And through a multi-faceted, tech-savvy campaign based on strategic partnerships, one federal office has found a winning strategy for combating misinformation. National Drug Facts Week (NDFW) is a health awareness week for teenagers, with the goal of debunking'
 authors:
   - awichman
-categories:
+topics:
   - Content
   - Social Media
-tag:
   - multilingual
   - National Institutes of Health
   - NIH

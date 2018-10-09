@@ -7,9 +7,8 @@ authors:
   - richard-mansfield
   - allison-baker
   - perryn-ashmore
-categories:
+topics:
   - Data
-tag:
   - cloud
   - CMS
   - data

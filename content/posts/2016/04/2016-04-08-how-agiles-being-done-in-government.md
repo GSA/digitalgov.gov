@@ -5,11 +5,10 @@ title: How Agile’s Being Done in Government
 summary: The concepts of agile may not be new, but there is a renewed push across government to embrace this customer-feedback driven methodology, in everything from software development to project management. A government community has even sprung up to help feds learn from one another what it takes to incorporate agile into more efficient and effective
 authors:
   - andreanocesigritz
-categories:
+topics:
   - Managing Digital
   - Monthly Theme
   - strategy-and-policy
-tag:
   - 18F
   - agile
   - Census

@@ -5,10 +5,9 @@ title: 'Social Sharing Buttons: Location, Location, Location'
 summary: ' DigitalGov has seen posts from members of the community who land on opposite sides regarding social sharing buttons. There are those who find social sharing buttons useful (When Sharing Buttons'
 authors:
   - sara-smith
-categories:
+topics:
   - Metrics
   - Social Media
-tag:
   - National Institutes of Health
   - NIH
   - social media

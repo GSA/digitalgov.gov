@@ -5,10 +5,9 @@ title: 'Challenge & Prize Competition Round-Up'
 summary: Recap of the 2014 Challenge and Prize competition events hosted by DigitalGov
 authors:
   - apiazza
-categories:
+topics:
   - Challenges
   - Monthly Theme
-tag:
   - CFPB
   - ChallengeGov
   - challenges and prize competitions

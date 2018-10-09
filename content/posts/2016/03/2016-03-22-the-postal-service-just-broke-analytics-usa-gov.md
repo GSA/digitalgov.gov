@@ -5,10 +5,9 @@ title: 'The Postal Service Just Broke Analytics.usa.gov'
 summary: 'Ok, so it didn’t really break it. But you might notice that the amount of &ldquo;people on government websites now&rdquo; on analytics.usa.gov is a lot higher than it used to be.'
 authors:
   - tlowden
-categories:
+topics:
   - Data
   - Monthly Theme
-tag:
   - DAP
   - Digital Analytics Program
   - United States Postal Service

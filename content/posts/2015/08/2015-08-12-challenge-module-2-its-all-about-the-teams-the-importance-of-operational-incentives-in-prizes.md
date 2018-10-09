@@ -5,9 +5,8 @@ title: 'Challenge Module 2: It’s All About the Teams—The Importance of Opera
 summary: ' A strong incentive is the lifeblood of solving any challenge. That’s the message experts offered August 4 as part of a Challenge.gov webinar series on running successful federal competitions. Sam Ortega, manager'
 authors:
   - judy-romano
-categories:
+topics:
   - Challenges
-tag:
   - ChallengeGov
   - NASA
   - Recaps

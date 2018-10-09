@@ -10,10 +10,9 @@ authors:
   - eric-mill
   - julia-winn
   - colin-craig
-categories:
+topics:
   - Data
   - Our Work
-tag:
   - 18F
   - analytics
   - analytics.usa.gov

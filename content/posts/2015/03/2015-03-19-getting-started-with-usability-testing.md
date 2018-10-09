@@ -5,11 +5,10 @@ title: Getting Started with Usability Testing
 summary: ' At the U.S. Agency for International Development (USAID), our new open data policy will begin making more Agency-funded data broadly accessible to the public. It completely changes the way we do business, and it also means that in the coming years, the amount of data we'
 authors:
   - laura-hughes
-categories:
+topics:
   - Design
   - user-testing-and-research
   - UX
-tag:
   - open data
   - top tasks
   - US Agency for International Development

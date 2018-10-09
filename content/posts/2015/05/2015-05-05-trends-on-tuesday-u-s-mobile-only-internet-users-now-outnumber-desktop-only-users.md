@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: U.S. Mobile-Only Internet Users Now Outnumber Desktop
 summary: ' Just a week after the &lsquo;Mobilegeddon’ shift in Google search engine rankings to favor mobile-friendly sites, comScore released a research report citing that the U.S. had reached a new inflection point&mdash;there are now more mobile-only Internet users than desktop-only. What’s even'
 authors:
   - wsullivan
-categories:
+topics:
   - Mobile
-tag:
   - Mobile UX Guideline 1
   - mobile-first
   - mobile-friendly

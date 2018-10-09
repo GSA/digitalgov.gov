@@ -5,11 +5,10 @@ title: Hitting the Ground Running With the Digital Strategy
 summary: 'Last month, the Obama Administration launched the Digital Government Strategy (PDF/ HTML5), a comprehensive roadmap aimed at building a 21st Century Digital Government that delivers better digital services to the American people.'
 authors:
   - steven-vanroekel
-categories:
+topics:
   - Governance
   - Managing Digital
   - Our Work
-tag:
   - White House
 ---
 

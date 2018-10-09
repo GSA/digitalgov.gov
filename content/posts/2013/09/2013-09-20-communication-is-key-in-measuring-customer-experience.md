@@ -5,9 +5,8 @@ title: Communication is Key in Measuring Customer Experience
 summary: As mentioned in previous blog posts, great efforts have been made in creating a Customer Experience program and a Customer Experience (CX) index in our Office of Citizen Services and Innovative Technologies (OCSIT) at GSA. Our office manages well over 10 programs, including websites, a contact center, search services, and
 authors:
   - simchah-suveyke-bogin
-categories:
+topics:
   - Metrics
-tag:
   - Customer Experience
 ---
 

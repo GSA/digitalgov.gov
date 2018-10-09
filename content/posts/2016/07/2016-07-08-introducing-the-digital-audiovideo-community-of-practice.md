@@ -5,7 +5,7 @@ title: Introducing the Digital Audio/Video Community of Practice
 summary: 'Tech giants have changed the world of broadcast forever. In a little more than a year, video on Facebook went from being a seldomly seen media type on a user’s timeline to a strategic priority for Mark Zuckerberg. The platform now serves over 8 billion video views a day and Facebook continues to roll out improvements'
 authors:
   - randy-abramson
-categories:
+topics:
   - Communities
   - Content
   - Managing Digital
@@ -13,7 +13,6 @@ categories:
   - Social Media
   - UX
   - Video
-tag:
   - communities
   - content
   - Digital Audio/Video Community

@@ -5,10 +5,9 @@ title: How UX Effects Change in Government—One Test, One Customer Survey at a 
 summary: 'Over the past few years, many agencies have learned how to do user experience (UX) with few resources. And while that’s still a problem at many agencies, many UX initiatives have been gaining momentum and attracting new stakeholders. Federal-wide efforts like the Social and Behavioral Sciences Team (SBST) and the U.S. Digital Service’s (USDS) promotion'
 authors:
   - andreanocesigritz
-categories:
+topics:
   - Monthly Theme
   - UX
-tag:
   - user experience
   - User Experience Community of Practice
   - UX

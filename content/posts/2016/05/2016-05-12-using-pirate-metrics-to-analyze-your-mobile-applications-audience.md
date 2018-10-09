@@ -5,10 +5,9 @@ title: 'Using Pirate Metrics to Analyze Your Mobile Application&#8217;s Audience
 summary: What Makes a Native App Successful? There are over 200 native applications in the federal government with various download numbers. Are the ones with the most downloads the most successful? Is the one with fewer users who are more engaged more successful? It depends on what you are trying to accomplish. David Cooper, the Mobile
 authors:
   - jparcell
-categories:
+topics:
   - Metrics
   - Mobile
-tag:
   - DoD
   - metrics
   - mobile apps

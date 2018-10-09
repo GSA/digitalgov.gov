@@ -5,12 +5,11 @@ title: 'The API Briefing: Department of State’s Model App &#8211; Education US
 summary: Not only does the Department of State have a great set of APIs, State also has an excellent example of how to build an informative and useful app. EducationUSA is a network of State Department advisers who help international students apply for U.S. university programs.
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Code
   - Mobile
   - UX
-tag:
   - mobile apps
   - US Department of State
   - Wednesday API Briefing

@@ -5,9 +5,8 @@ title: 'The Benefits of Being Push-y: Reaching Your Audience Through Push Notifi
 summary: 'Need to get in touch with your audience? Give them a little push. Push notifications allow agencies to connect with their audiences for immediate communication. The Office of Personnel Management’s OPM Alert app provides a real time look at the current operating status for federal offices in the Washington, DC, area and uses push technology'
 authors:
   - awichman
-categories:
+topics:
   - Mobile
-tag:
   - mobile
   - mobile apps
   - OPM

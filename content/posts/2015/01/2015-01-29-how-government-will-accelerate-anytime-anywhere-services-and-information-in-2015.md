@@ -5,12 +5,11 @@ title: How Government will Accelerate Anytime, Anywhere Services and Information
 summary: 'Innovative wearables, stronger wifi and more 3D printing have been among the many projections for the future of mobile in 2015. Whatever comes to pass, we can be certain that the anytime, anywhere user will develop new habits and desires based on new trends. Government must accelerate its customer service approach with anytime, anywhere efforts to keep up. Here’s'
 authors:
   - jparcell
-categories:
+topics:
   - Communities
   - Managing Digital
   - Mobile
   - Monthly Theme
-tag:
   - AoI
   - Census
   - COPE

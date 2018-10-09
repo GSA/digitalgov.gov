@@ -5,14 +5,13 @@ title: 'The Data Briefing: Twenty Years of USAJOBS'
 summary: I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20th anniversary of USAJOBS. 1) What are the three big lessons learned from 20 years of building and managing USAJOBS? I think one of the greatest benefits of being an Agile program is that we are constantly learning. In
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Managing Digital
   - Metrics
   - strategy-and-policy
   - user-testing-and-research
   - UX
-tag:
   - agile
   - blockchain
   - DAP

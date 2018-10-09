@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Google to Implement Mobile-Friendly Rankings'
 summary: As the use of smartphones continues to grow, it has become even more important for websites to be mobile-friendly. Google has been aware of this trend for quite some time. In response to this trend, Google made
 authors:
   - kdaniel
-categories:
+topics:
   - Mobile
-tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - Mobile UX Guideline 4

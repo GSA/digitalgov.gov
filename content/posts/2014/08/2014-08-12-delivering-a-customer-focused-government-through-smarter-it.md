@@ -7,11 +7,10 @@ authors:
   - steven-vanroekel
   - todd-park
   - beth-cobert
-categories:
+topics:
   - Content
   - Data
   - Mobile
-tag:
   - 18F
   - Customer Experience
   - Digital Services Playbook

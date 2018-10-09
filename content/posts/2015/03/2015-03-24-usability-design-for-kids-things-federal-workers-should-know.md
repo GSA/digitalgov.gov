@@ -5,12 +5,11 @@ title: 'Usability Design for Kids: Things Federal Workers Should Know'
 summary: ' I used to teach 8th grade science in inner city Denver in the 1990s. After that, I supported special education students and their teachers in North Carolina. Around that time (mid-late 1990s), the Internet wasn’t really designed for kids &ndash;most of the electronic materials I'
 authors:
   - justin-dopke
-categories:
+topics:
   - Accessibility
   - Design
   - user-testing-and-research
   - UX
-tag:
   - accessibility
   - user experience
   - UX

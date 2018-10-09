@@ -5,10 +5,9 @@ title: Finding the Best Mobile Moment Is the First Stepping Stone to Anytime, An
 summary: Mobile-friendliness is a must for government. But mobilizing the whole digital enchilada takes time due to various challenges, as experiences from the Department of Education and National Park Service have illustrated. Many agencies are thinking big things for 2015, but if your agency is struggling with that first mobile implementation, you will be asking yourself
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
   - Monthly Theme
-tag:
   - Internal Revenue Service
   - ios
   - IRS

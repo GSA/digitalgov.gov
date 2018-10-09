@@ -5,10 +5,9 @@ title: White House SocialGov Summit Aims to Improve Open Data Innovation
 summary: ' More than 100 digital engagement and open data managers from across government met with leaders in the private sector startup community August 7 at the White House for a summit on integrating our digital services with public participation to create more'
 authors:
   - jherman
-categories:
+topics:
   - Code
   - Social Media
-tag:
   - data.gov
   - DOL
   - open data

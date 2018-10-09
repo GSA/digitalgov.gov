@@ -8,7 +8,7 @@ featured_image:
   alt: 'Peter Liacouras, Ph.D., demonstrates computer software that allows him to manipulate and cut a custom cranial plate design.'
 authors:
   - yolanda-arrington
-categories:
+topics:
   - Code
   - Design
   - User Testing and Research

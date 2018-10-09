@@ -5,10 +5,9 @@ title: 'The Data Briefing: Design for Developer Experience (DX) and Data Prosume
 summary: Recently, DigitalGov devoted an entire month to exploring how good user experience (UX) helps government design better digital products and services. UX is the art and science of understanding how people will use a website or mobile app to solve a problem or meet a need. UX is a combination of neuroscience, communication theory, information
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - UX
-tag:
   - API
   - data
   - The Data Briefing

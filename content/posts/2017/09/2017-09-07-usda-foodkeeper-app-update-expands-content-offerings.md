@@ -8,7 +8,7 @@ authors:
 featured_image:
   uid: 'foodkeeper-app-on-phone-held-in-front-of-open-refrigerator'
   alt: 'USDA Foodkeeper app held in front of a refrigerator.'
-categories:
+topics:
   - Content
   - Mobile
   - apps

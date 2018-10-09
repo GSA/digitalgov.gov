@@ -6,7 +6,7 @@ summary: When people think of government software, they often think of COBOL and
 authors:
   - alex-yale-loehr
   - raquel-romano
-categories:
+topics:
   - Code
   - Design
   - 'User Testing and Research'

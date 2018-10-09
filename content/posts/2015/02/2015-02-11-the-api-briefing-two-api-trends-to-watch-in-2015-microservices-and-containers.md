@@ -5,9 +5,8 @@ title: 'The API Briefing: Two API Trends to Watch in 2015 – Microservices and 
 summary: 'DigitalGov recently spotlighted the National Highway Traffic Safety Administration’s (NHTSA) new SaferRide app. SaferRide provides safe alternatives to keep drunken drivers off the road. SaferRide uses the Yelp API to provide information about local taxi services'
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - API
   - National Highway Traffic Safety Administration
   - NHTSA

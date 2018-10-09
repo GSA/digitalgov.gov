@@ -5,14 +5,13 @@ title: GSA launches new AI, Virtual Reality, and Authentication Programs
 summary: 'Today we’re launching three new initiatives powered by GSA Digital Communities that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry. These new Communities and portal are products of inter-agency collaboration and our shared commitment pushing the'
 authors:
   - jherman
-categories:
+topics:
   - Communities
   - emerging-tech
   - Managing Digital
   - Mobile
   - Our Work
   - Social Media
-tag:
   - AI
   - Artificial Intelligence for Citizen Services Community
   - Augmented Reality

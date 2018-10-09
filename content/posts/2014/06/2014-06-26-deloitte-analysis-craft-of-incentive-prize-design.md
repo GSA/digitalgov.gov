@@ -5,9 +5,8 @@ title: 'Deloitte Analysis: Craft of Incentive Prize Design'
 summary: 'Federal challenge and prize competitions are in the news again. Our colleagues across government participated in research that resulted in a new report released June 19 from Deloitte University Press, The Craft of Prize Design: Lessons from the public sector.  In the last five years, incentive prizes have transformed from an exotic open innovation tool to'
 authors:
   - tammi-marcoullier
-categories:
+topics:
   - Challenges
-tag:
   - challenges and prize competitions
   - OSTP
   - White House Office of Science and Technology Policy

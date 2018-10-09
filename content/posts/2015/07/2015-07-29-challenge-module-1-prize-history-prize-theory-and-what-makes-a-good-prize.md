@@ -5,9 +5,8 @@ title: 'Challenge Module 1: Prize History, Prize Theory and What Makes a Good Pr
 summary: ' Two powerhouses in the Challenge and Prize community came together at GSA for the first in a seven-part learning series recently. Chris Frangione, Vice President of Prize Development for the XPrize and Alexis Bonnell, Innovation Evangelist at USAID offered insights'
 authors:
   - judy-romano
-categories:
+topics:
   - Challenges
-tag:
   - Recaps
   - US Agency for International Development
   - USAID

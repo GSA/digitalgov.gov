@@ -5,9 +5,8 @@ title: 'The API Briefing: Fulfilling the D(e)SIRE for Renewable Energy with the 
 summary: ' The Database of State Incentives for Renewables and Efficiency&reg; (DSIRE&reg;) provides information on incentives and policies for renewables and energy efficiency in the U.S. This joint project by the Department of Energy and North Carolina State University just released an API to query DSIRE&reg;’s database. Developers can view the sample'
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - API
   - data
   - json

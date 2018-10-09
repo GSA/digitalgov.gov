@@ -5,10 +5,9 @@ title: 'The API Briefing: NARA’s Federal Register API – Learning How APIs Wo
 summary: 'Application programming interfaces (APIs) can be confusing when people first hear of the concept. There are the many acronyms like REST (Representational State Transfer) and JSON (JavaScript Object Notation) that further obscure what APIs do. The idea behind APIs is quite simple: APIs are how computer programs share information between themselves. You can experience this for'
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Code
-tag:
   - API
   - code
   - Federal Register

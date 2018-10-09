@@ -5,9 +5,8 @@ title: You Have the Data, Make the Most of It
 summary: With Web analytics tools you have the data to see what citizens really want on your website and how well you are delivering. You have an opportunity to make informed decisions on improvements to your site to reflect the voice of the customer and get constituents what they need. Here are
 authors:
   - sarah-kaczmarek
-categories:
+topics:
   - Metrics
-tag:
   - DAP
   - Digital Analytics Program
   - GAO

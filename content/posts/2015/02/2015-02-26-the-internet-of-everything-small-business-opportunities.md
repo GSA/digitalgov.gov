@@ -6,9 +6,8 @@ summary: 'In 1995, the World Wide Web, which had been fairly niche up until then
 authors:
   - david-a-bray
   - g-nagesh-rao
-categories:
+topics:
   - Managing Digital
-tag:
   - FCC
   - Federal Communications Commission
   - privacy

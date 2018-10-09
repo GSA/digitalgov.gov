@@ -5,9 +5,8 @@ title: Content Syndication of NIH Grants Information Now Available
 summary: 'Now you can pull the latest NIH grant content directly into your site.'
 authors:
   - christen-geiler
-categories:
+topics:
   - Content
-tag:
   - content syndication
   - HHS
   - National Institutes of Health

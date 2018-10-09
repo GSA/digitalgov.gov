@@ -6,10 +6,9 @@ summary: Data and code are the foundation, building blocks, and cornerstone of g
 authors:
   - awichman
   - jparcell
-categories:
+topics:
   - Data
   - Monthly Theme
-tag:
   - API
   - data
   - data.gov

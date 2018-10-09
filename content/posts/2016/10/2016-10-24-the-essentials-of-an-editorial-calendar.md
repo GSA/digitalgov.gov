@@ -5,9 +5,8 @@ title: The Essentials of an Editorial Calendar
 summary: Anyone engaged in content marketing or content production probably owns a robust editorial calendar. A calendar that is quickly updated, helps keep deadlines and is flexible can serve as a helpful blueprint of your content activities for the year. At USAGov we cover a lot of topics and partner with many agencies. Having an editorial
 authors:
   - victoria-wales
-categories:
+topics:
   - Content
-tag:
   - content
   - content strategy
   - content syndication

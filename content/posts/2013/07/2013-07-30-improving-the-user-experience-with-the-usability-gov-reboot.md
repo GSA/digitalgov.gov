@@ -5,9 +5,8 @@ title: Improving the User Experience with the Usability.gov Reboot
 summary: 'Plan and analyze. Write and design.  Test and refine.  As Web Manager for Usability.gov, I have found that taking a user-centered approach is vital each time you improve or build a digital product, especially when the content is about improving user'
 authors:
   - katie-messner
-categories:
+topics:
   - UX
-tag:
   - content strategy
   - usability
   - user experience
@@ -26,7 +25,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  As a result, we expanded the focus of the site with the goal to reintroduce it as the leading resource for <a href="http://www.usability.gov/what-and-why/user-experience.html">user experience (UX)</a> best practices.  We added overviews, methods, resources, and glossary terms for the following content categories:
+  As a result, we expanded the focus of the site with the goal to reintroduce it as the leading resource for <a href="http://www.usability.gov/what-and-why/user-experience.html">user experience (UX)</a> best practices.  We added overviews, methods, resources, and glossary terms for the following content topics:
 </p>
 
   * [Usability Evaluation](http://www.usability.gov/what-and-why/usability-evaluation.html)

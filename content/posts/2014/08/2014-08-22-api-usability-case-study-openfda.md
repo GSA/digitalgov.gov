@@ -5,12 +5,11 @@ title: 'API Usability Case Study: openFDA'
 summary: The API Usability Program brings together developers from agency APIs and the private sector to evaluate how the API can be improved to be more user friendly. Sean Herron of 18F, who was a key member of the openFDA developer team, shared with us some of the major insights gained from this latest API usability session.
 authors:
   - georgia-gallavin
-categories:
+topics:
   - API
   - Design
   - user-testing-and-research
   - UX
-tag:
   - API
   - DigitalGov User Experience Program
   - FDA

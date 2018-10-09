@@ -5,10 +5,9 @@ title: How ABMC Got Started with Mobile App Development
 summary: In the sea of apps, users get choosey with which apps can take up space on their phone. With one uninstall click the user can decide to breakup with the app if they have a bad experience. To keep your app from being all alone, the MobileGov Community of Practice put together six Mobile User
 authors:
   - jenny-johnson
-categories:
+topics:
   - Mobile
   - UX
-tag:
   - ABMC
   - American Battle Monuments Commission
   - Federal CrowdSource Mobile Testing Program

@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Pew Cell Phone Activities Report'
 summary: 'Pew Research Center’s Internet & American Life Project recently released their report on Cell Phone Activities for 2013. The report stated'
 authors:
   - lisa-wilcox
-categories:
+topics:
   - Mobile
-tag:
   - Trends on Tuesday
   - user experience
 ---

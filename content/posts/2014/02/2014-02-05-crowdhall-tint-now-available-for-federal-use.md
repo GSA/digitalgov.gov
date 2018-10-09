@@ -5,10 +5,9 @@ title: Crowdhall, Tint Now Available for Federal Use
 summary: 'It’s been a busy few months negotiating Terms of Service on behalf of the federal government, and we’re happy to announce CrowdHall and Tint are now available and that the Tumblr agreement has been updated for the first time in almost 2 years.CrowdHall logo'
 authors:
   - bsteele
-categories:
+topics:
   - Managing Digital
   - Social Media
-tag:
   - Terms of Service
 ---
 

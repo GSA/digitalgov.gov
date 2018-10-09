@@ -5,11 +5,10 @@ title: 'The API Briefing: Quick Guide to Using GitHub &#8211; FDA’s OpenFDA Re
 summary: 'The Food and Drug Administration (FDA) just released the OpenFDA Research Project. At the heart of the project is the OpenFDA API, which allows developers to perform searches on FDA’s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the'
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Code
   - Content
-tag:
   - FDA
   - GitHub
   - open source

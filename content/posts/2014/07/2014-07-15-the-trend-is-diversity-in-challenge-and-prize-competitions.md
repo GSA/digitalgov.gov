@@ -5,10 +5,9 @@ title: The Trend is Diversity, in Challenge and Prize Competitions
 summary: 'The U.S. government has launched more than 45 challenge and prize competitions so far in Fiscal Year 2014. What trends are we seeing? Well, the trend is&#8230;diversity. That might sound like an oxymoron, but federal agencies are really putting themselves out there, asking the crowd to help tackle a wide array of problems. Until August 3rd,'
 authors:
   - ktrebon
-categories:
+topics:
   - Challenges
   - Monthly Theme
-tag:
   - ChallengeGov
   - Challenges and Prizes Community of Practice
   - DOE

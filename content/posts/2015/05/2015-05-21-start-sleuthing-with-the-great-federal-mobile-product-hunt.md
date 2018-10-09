@@ -5,10 +5,9 @@ title: Start Sleuthing with the Great Federal Mobile Product Hunt
 summary: 'Mobile-friendliness is a must for government. We know there are a number of agencies who have mobile-friendly digital products that we don’t know about, and they deserve their day in the sun. We need your help to find them. So today, at the DigitalGov Citizen Services Summit you will find the MobileGov Community of Practice'
 authors:
   - courtney-greenley
-categories:
+topics:
   - Mobile
   - Our Work
-tag:
   - DigitalGov Summit
   - Federal Mobile Products Registry
   - mobile apps

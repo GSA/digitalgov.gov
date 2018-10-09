@@ -8,9 +8,8 @@ authors:
   - michael-bloom
   - jeffrey-levy
   - jessica-orquina
-categories:
+topics:
   - Social Media
-tag:
   - EPA
   - Facebook
   - GSA

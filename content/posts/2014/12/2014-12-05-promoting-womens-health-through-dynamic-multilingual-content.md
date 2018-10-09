@@ -5,11 +5,10 @@ title: Promoting Women’s Health Through Dynamic Multilingual Content
 summary: Sonia stands at the pharmacy counter, flashing her most brilliant smile. Jorge, the handsome neighborhood pharmacist, dispenses his own easy smile as they chat. Sound like an ordinary soap opera? This telenovela is actually a tool to help Spanish-speaking women make smart medication decisions. The four
 authors:
   - awichman
-categories:
+topics:
   - Content
   - Social Media
   - Video
-tag:
   - FDA
   - multilingual
   - multilingual-community

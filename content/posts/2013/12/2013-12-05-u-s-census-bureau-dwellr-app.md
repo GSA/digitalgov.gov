@@ -5,10 +5,9 @@ title: U.S. Census Bureau Dwellr App
 summary: 'The pursuit of happiness for many of us might mean a fresh new start and a new place to call home. But where? In such a large and diverse country as ours, the choices can seem endless &mdash; and overwhelming. Now, your data friendly U.S. Census Bureau has harnessed the power'
 authors:
   - jparcell
-categories:
+topics:
   - Code
   - Mobile
-tag:
   - API
   - Census
   - mobile apps

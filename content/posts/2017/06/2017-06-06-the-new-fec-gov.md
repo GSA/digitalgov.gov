@@ -6,7 +6,7 @@ summary: 'Last week, the Federal Election Commission (FEC) unveiled their new we
 authors:
   - noah-manger
   - jennifer-thibault
-categories:
+topics:
   - API
   - Content
   - Data

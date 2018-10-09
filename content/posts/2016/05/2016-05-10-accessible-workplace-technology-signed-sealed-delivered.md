@@ -5,10 +5,9 @@ title: 'Accessible Workplace Technology: Signed, Sealed, Delivered'
 summary: 'Last week, I had a brush with a bona fide music legend &mdash; the great Stevie Wonder. Was I starstruck? Of course. I’ve long admired his musical accomplishments and advocacy for people with disabilities. His appearance at the Grammy Awards in February highlighted once again the need to improve accessible technology, particularly in the workplace.'
 authors:
   - chris-lu
-categories:
+topics:
   - Managing Digital
   - UX
-tag:
   - accessibility
   - DOL
   - US Department of Labor

@@ -8,7 +8,7 @@ summary: 'The Consumer Financial Protection Bureau and Meals on Wheels America h
 featured_image:
   uid: 'english-cfpb-placemat-fill-in-the-blank'
   alt: 'A placemat for financial scams in English.'
-categories:
+topics:
   - Content
   - Design
   - UX

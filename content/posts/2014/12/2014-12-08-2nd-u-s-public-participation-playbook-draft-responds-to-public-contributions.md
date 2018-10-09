@@ -5,9 +5,8 @@ title: 2nd U.S. Public Participation Playbook Draft Responds to Public Contribut
 summary: ' The new second draft of the U.S. Public Participation Playbook incorporates changes that were proposed from nearly 100 suggestions submitted after the first week of public comment, with more improvements to come. We still need your contributions'
 authors:
   - jherman
-categories:
+topics:
   - Social Media
-tag:
   - Census
   - Defense Commissary Agency
   - Defense Logistics Agency

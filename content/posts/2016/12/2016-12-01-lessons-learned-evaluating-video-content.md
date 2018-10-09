@@ -5,13 +5,12 @@ title: 'Lessons Learned: Evaluating Video Content'
 summary: 'If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization’s'
 authors:
   - tim-jakubowski
-categories:
+topics:
   - Content
   - Managing Digital
   - user-testing-and-research
   - UX
   - Video
-tag:
   - Audio/Video
   - CFPB
   - Consumer Financial Protection Bureau

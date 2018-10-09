@@ -6,10 +6,9 @@ summary: 'Like many of you, we watched with great interest this week when a citi
 authors:
   - jherman
   - meredith-stewart
-categories:
+topics:
   - Managing Digital
   - Social Media
-tag:
   - DOJ
   - FBI
   - Federal Bureau of Investigation

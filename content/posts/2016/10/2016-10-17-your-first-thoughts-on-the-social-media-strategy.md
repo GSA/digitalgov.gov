@@ -7,11 +7,10 @@ authors:
   - mary-king
   - jeannie-chen
   - hilary-parkinson
-categories:
+topics:
   - Content
   - Social Media
   - strategy-and-policy
-tag:
   - content
   - content strategy
   - NARA

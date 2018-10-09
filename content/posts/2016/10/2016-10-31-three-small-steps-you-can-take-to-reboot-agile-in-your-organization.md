@@ -7,10 +7,9 @@ authors:
   - chris-goranson
   - michael-torres
   - kristy-singletary
-categories:
+topics:
   - strategy-and-policy
   - user-testing-and-research
-tag:
   - 18F
   - agile
   - best practices

@@ -5,9 +5,8 @@ title: 'Kids.gov &#8211; Usability Case Study'
 summary: 'For a children&#8217;s site, Kids.gov is pretty old&mdash;it was launched back in 2001. And it has the unenviable task of trying to keep pace with the rapidly changing online habits of youngsters. So in 2012, Kids.gov Director Arlene Hernandez thought her site was due a usability test with its two main audiences: kids and their'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - UX
-tag:
   - first-click testing
   - prototype
   - usability case study

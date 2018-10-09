@@ -5,9 +5,8 @@ title: The New FedRAMP.gov Is Here
 summary: ' On Wednesday, March 11, FedRAMP unveiled a redesigned FedRAMP.gov. The new site focuses on user experience that fosters a better understanding of FedRAMP from basic knowledge, to in-depth program requirements and includes the launch of a'
 authors:
   - matt-goodrich
-categories:
+topics:
   - Managing Digital
-tag:
   - cloud
   - DAP
   - Digital Analytics Program

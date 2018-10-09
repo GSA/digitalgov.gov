@@ -5,7 +5,7 @@ title: Improving Stakeholder Collaboration Can Improve Software Development Perf
 summary: 'It’s important for software development organizations to make it as easy as possible to enable improved stakeholder behavior. Development stakeholders can include business development representatives, product managers, and senior project managers, and they are typically carrying the weight of the organization’s mission. They are concerned about the organization’s goals, and are usually focused on ensuring'
 authors:
   - brian-fox
-categories:
+topics:
   - strategy-and-policy
   - best practices
   - communication

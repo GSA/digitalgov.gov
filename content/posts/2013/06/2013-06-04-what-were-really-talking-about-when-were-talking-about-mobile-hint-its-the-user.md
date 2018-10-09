@@ -5,10 +5,9 @@ title: 'What We&#8217;re (Really) Talking About When We&#8217;re Talking About M
 summary: It used to be when we said mobile we meant activities and devices defined strictly by mobility and the features associated with it, such as GPS, SMS, barcode readers, cell phones, etc. But when I found myself in my easy chair watching a ballgame on my
 authors:
   - jim-costello
-categories:
+topics:
   - Managing Digital
   - Mobile
-tag:
   - mobile
   - Mobile App Development Program
   - mobile gov

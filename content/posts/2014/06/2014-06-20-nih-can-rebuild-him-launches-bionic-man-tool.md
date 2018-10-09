@@ -5,9 +5,8 @@ title: NIH Can Rebuild Him, Launches Bionic Man Tool
 summary: 'The National Institute of Biomedical Imaging and Bioengineering recently launched the &ldquo;NIBIB Bionic Man,&rdquo; an interactive Web tool that allows students and the public to learn about cutting-edge research in biotechnology. The bionic man features 14 technologies'
 authors:
   - margot-lawton-kern
-categories:
+topics:
   - Content
-tag:
   - National Institutes of Health
   - NIH
 ---

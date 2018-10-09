@@ -5,9 +5,8 @@ title: Three Actions to Take Now to Prepare for Hurricane Season
 summary: 'Summary: The 2016 National Preparedness Report is an important guidepost in our work to build a stronger, more resilient America. Today we released the 2016 National Preparedness Report, an important guidepost in our work to build'
 authors:
   - craig-fugate
-categories:
+topics:
   - Mobile
-tag:
   - Federal Emergency Management Agency
   - FEMA
   - mobile apps

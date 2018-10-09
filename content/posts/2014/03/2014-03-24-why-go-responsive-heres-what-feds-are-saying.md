@@ -5,9 +5,8 @@ title: Why Go Responsive? Here’s What Feds Are Saying
 summary: ' Responsive Web design implementations in the federal government have members of the Mobile Gov Community of Practice asking what is responsive Web design and how do we do it? In February, the'
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - FEMA
   - mobile
   - mobile apps

@@ -5,10 +5,9 @@ title: Help Customer Experience Drive Change at Your Agency
 summary: 'With the recent launch of the Core Federal Services Council&mdash;which seeks to improve the customer experience for core federal programs by ensuring use of customer feedback data and identifying strategies&mdash;building on the Feedback USA pilot, the Federal Front Door and other customer experience initiatives, 2016 may in fact be the Year of the Customer. But,'
 authors:
   - andreanocesigritz
-categories:
+topics:
   - Managing Digital
   - Monthly Theme
-tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - CX

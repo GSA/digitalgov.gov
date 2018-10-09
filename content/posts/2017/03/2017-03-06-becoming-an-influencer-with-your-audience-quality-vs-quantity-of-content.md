@@ -5,7 +5,7 @@ title: 'Becoming an Influencer with Your Audience: Quality vs. Quantity of Conte
 summary: 'Regardless of the platform, industry or niche, you became a social media influencer in one of two ways: adopting early or promoting great content. Early adopters are willing to gamble on a new platform, try an untested strategy or set precedent for other users. The risk is in the understanding that they could fail publicly.'
 authors:
   - julia-jackson
-categories:
+topics:
   - Content
   - Social Media
   - content

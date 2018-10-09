@@ -6,11 +6,10 @@ summary: 'Summary: The release of an updated National Nanotechnology Initiative 
 authors:
   - lloyd-whitman
   - lisa-friedersdorf
-categories:
+topics:
   - Governance
   - Managing Digital
   - strategy-and-policy
-tag:
   - innovation
   - OSTP
   - White House Office of Science and Technology Policy

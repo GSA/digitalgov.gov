@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Smartphone and Tablet Adoption Grows While Other Digi
 summary: 'Pew released a recent report tracking trends in digital device ownership and found smartphones and tablets have continued to grow in recent years, while other devices have stalled. The big headlines from the report are: Cell phones are now in the hands of more than 92% of U.S. adults, although this trend started to flatten'
 authors:
   - wsullivan
-categories:
+topics:
   - Mobile
-tag:
   - Trends on Tuesday
 ---
 

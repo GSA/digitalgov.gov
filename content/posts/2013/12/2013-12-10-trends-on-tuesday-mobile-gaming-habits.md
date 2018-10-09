@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Mobile Gaming Habits'
 summary: ' We&#8217;ve reported before that playing games is one of the most popular activities on mobile devices. A recent study by App Annie and IDC dives deeper into'
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - CDC
   - gamification
   - mobile

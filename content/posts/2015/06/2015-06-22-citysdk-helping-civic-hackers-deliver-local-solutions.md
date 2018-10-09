@@ -5,10 +5,9 @@ title: 'CitySDK: Helping Civic Hackers Deliver Local Solutions'
 summary: 'Civic hackers are a special breed&mdash;their primary motivation is closely tied to the social issues closest to their hearts. Most attend hack-a-thons, engage in civic meetups, and show up at city hearings to champion their cause and push solutions at the societal, technology, and policy levels. On the technological front, creating civic city-based solutions has'
 authors:
   - tyrone-grandison
-categories:
+topics:
   - API
   - Data
-tag:
   - API
   - Census
   - data

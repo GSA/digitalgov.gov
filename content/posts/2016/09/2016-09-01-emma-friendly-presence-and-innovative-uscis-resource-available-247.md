@@ -6,11 +6,10 @@ summary: 'We are working hard to serve you and continue to make improvements to 
 authors:
   - andrea-sanchez
   - limary-suarez-pacheco
-categories:
+topics:
   - Content
   - Managing Digital
   - UX
-tag:
   - AI
   - artificial intelligence
   - Customer Experience

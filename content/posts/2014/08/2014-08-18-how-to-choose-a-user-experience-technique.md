@@ -5,10 +5,9 @@ title: How to Choose a User Experience Technique
 summary: 'The good news: Your boss is interested in User Experience! The news: She wants you to do something about it&#8230; NOW. Well, don’t be alarmed; you can start by figuring out two simple things: 1. Identify the Stage you&#8217;re in in the development cycle. Write it down. 2. Choose a User'
 authors:
   - pooja-sawant
-categories:
+topics:
   - user-testing-and-research
   - UX
-tag:
   - Customer Experience
   - DigitalGov User Experience Program
   - Personas

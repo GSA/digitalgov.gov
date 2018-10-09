@@ -5,10 +5,9 @@ title: 'The Data Briefing: Chatbots and the Rise of Conversational Commerce and 
 summary: 'Ten months ago, I wrote about the rise of the post-app world in which mobile personal assistants would do the work of five to 10 apps combined. These mobile personal assistants, now known as chatbots, would work through conversational interfaces (voice and instant messaging, for example). The idea is to build more natural interfaces for people'
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Data
-tag:
   - API
   - Augmented Reality
   - chatbots

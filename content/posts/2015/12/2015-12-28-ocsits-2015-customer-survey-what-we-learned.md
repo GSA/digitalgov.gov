@@ -5,9 +5,8 @@ title: OCSIT’s 2015 Customer Survey—What We Learned
 summary: 'Three years ago, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) set out to design a system to consistently measure customer satisfaction across our office. We were inspired by the Digital Government Strategy, which tasks agencies to adopt a customer-centric approach to service delivery.'
 authors:
   - rflagg
-categories:
+topics:
   - Our Work
-tag:
   - Customer Experience
   - customer satisfaction
   - customer service

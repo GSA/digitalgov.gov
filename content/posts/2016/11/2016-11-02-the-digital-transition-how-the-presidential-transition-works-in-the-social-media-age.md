@@ -5,7 +5,7 @@ title: 'The Digital Transition: How the Presidential Transition Works in the Soc
 summary: 'Summary: Take a look at how we plan to preserve and pass on the digital history of the Obama administration. President Obama is the first &ldquo;social media president&rdquo;: the first to have @POTUS on Twitter, the first to go live on Facebook from the Oval Office, the first to answer questions from citizens on YouTube,'
 authors:
   - kori-schulman
-categories:
+topics:
   - Code
   - Content
   - Data
@@ -14,7 +14,6 @@ categories:
   - Social Media
   - strategy-and-policy
   - Video
-tag:
   - Audio/Video
   - code
   - content

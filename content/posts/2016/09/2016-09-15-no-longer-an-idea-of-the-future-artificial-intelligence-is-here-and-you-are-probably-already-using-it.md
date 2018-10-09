@@ -5,7 +5,7 @@ title: No Longer an Idea of the Future, Artificial Intelligence Is Here and You 
 summary: 'It might surprise some of you to know that artificial intelligence (AI) is already in use and a routine part of our daily lives, but we leverage this technology when we use our smartphones or other devices to ask Apple&#8217;s Siri, Microsoft&#8217;s Cortana, Google Now, or Amazon’s Alexa a question to get the facts or data we'
 authors:
   - christen-geiler
-categories:
+topics:
   - Code
   - Content
   - Data
@@ -13,7 +13,6 @@ categories:
   - Metrics
   - user-testing-and-research
   - UX
-tag:
   - AI
   - analytics
   - artificial intelligence

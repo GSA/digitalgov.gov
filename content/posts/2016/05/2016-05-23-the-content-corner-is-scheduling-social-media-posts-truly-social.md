@@ -5,13 +5,12 @@ title: 'The Content Corner: Is Scheduling Social Media Posts Truly Social?'
 summary: 'Good communicators are always&hellip;well&hellip;evaluating the way they communicate. As we think of the &ldquo;customer experience,&rdquo; it is key to constantly consider your methods for engaging with your audience. Just as the platforms themselves continue to change to keep their audience, continuing to refine our ways of sending messages will assure that you don’t get left'
 authors:
   - kyle-s-richardson
-categories:
+topics:
   - Content
   - Managing Digital
   - Monthly Theme
   - Social Media
   - UX
-tag:
   - Customer Experience
   - CX
   - FirstNet

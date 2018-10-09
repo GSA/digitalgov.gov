@@ -5,10 +5,9 @@ title: 'Member Spotlight &#8211; Jill James, Dept. of Education'
 summary: 'Welcome to the first edition of a new series of articles spotlighting members of our Government Web Manager Community. This month, we introduce Jill James, who’s the Senior Web Editor/Director for the Department of Education, in their Communications and Outreach'
 authors:
   - rflagg
-categories:
+topics:
   - Content
   - Monthly Theme
-tag:
   - responsive web design
   - US Department of Education
   - Web Content Managers Forum

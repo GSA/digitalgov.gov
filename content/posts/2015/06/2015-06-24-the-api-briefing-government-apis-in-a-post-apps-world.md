@@ -5,9 +5,8 @@ title: 'The API Briefing: Government APIs in a Post-Apps World'
 summary: Take out your smartphone and count the number of apps that you have. How many of these apps do you use daily? What about the apps you use weekly? Do you have any apps that you installed but used only once? Any apps that you have never used? What kind of apps do you have?
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - API
   - data
   - mobile apps

@@ -5,10 +5,9 @@ title: 'With Every Tool Possible: Supporting Humanitarian Aid Efforts Through Cr
 summary: ' Fighting malaria in Botswana with a group of high school students in D.C. Contributing to the Ebola response from the West Bank. These scenarios may not fit the typical image of humanitarian aid efforts, but technology has transformed the possibilities for public participation in international development. Crowdsourced mapping projects have'
 authors:
   - awichman
-categories:
+topics:
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
   - crowdsourcing
   - data
   - Humanitarian Information Unit

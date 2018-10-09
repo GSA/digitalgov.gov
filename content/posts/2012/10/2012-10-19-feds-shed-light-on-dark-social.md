@@ -5,11 +5,10 @@ title: Feds Shed Light on Dark Social
 summary: '&#8220;Dark Social&#8221; media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant'
 authors:
   - jherman
-categories:
+topics:
   - Communities
   - Metrics
   - Social Media
-tag:
   - AoI
   - SocialGov
   - SocialGov Community

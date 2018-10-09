@@ -5,9 +5,8 @@ title: The Nuance Between Customers and Partners
 summary: 'Before you can create your customer experience (CX) strategy, you have to answer the key question: Who are your customers? Consider the concept that among the groups you interact with internally, you could be their customer, they could be your customer, or you'
 authors:
   - martha-dorris
-categories:
+topics:
   - Managing Digital
-tag:
   - Customer Experience
 ---
 

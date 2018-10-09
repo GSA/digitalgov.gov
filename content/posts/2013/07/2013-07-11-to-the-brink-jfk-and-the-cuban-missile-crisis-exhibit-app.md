@@ -5,9 +5,8 @@ title: 'To the Brink: JFK and the Cuban Missile Crisis Exhibit App'
 summary: 'The 2013 JFK Library and Museum exhibit &ldquo;To the Brink: JFK and the Cuban Missile Crisis&rdquo; now has a virtual partner on the iPad.  Anytime, anywhere, people will be able'
 authors:
   - brandon-barr
-categories:
+topics:
   - Mobile
-tag:
   - mobile apps
   - Smithsonian Institution
   - Thursday Mobile Products

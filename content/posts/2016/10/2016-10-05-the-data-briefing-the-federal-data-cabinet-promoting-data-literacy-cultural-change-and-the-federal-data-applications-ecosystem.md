@@ -5,10 +5,9 @@ title: 'The Data Briefing: The Federal Data Cabinet—Promoting Data Literacy, C
 summary: 'Last Wednesday, the White House held the first Open Data Summit to showcase the open data accomplishments of the Obama Administration. One of the highlights was the formation of a government-wide &ldquo;data cabinet.&rdquo; Announced by Chief Data Scientist DJ Patil, the data cabinet is essentially a community of practice comprising the Federal agency’s data professionals. As'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Metrics
-tag:
   - data
   - infrastructure
   - metrics

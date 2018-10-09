@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Mobile Location Data Improving'
 summary: Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to Thinknear, a leader in
 authors:
   - tjohnson
-categories:
+topics:
   - Mobile
   - Monthly Theme
   - Social Media
-tag:
   - GPS
   - Mobile UX Guideline 5
   - NPS

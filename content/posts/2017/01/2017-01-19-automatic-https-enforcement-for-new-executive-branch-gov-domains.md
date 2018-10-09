@@ -6,7 +6,7 @@ summary: HTTPS is a necessary baseline for security on the modern web. Non-secur
 authors:
   - eric-mill
   - marina-fox
-categories:
+topics:
   - Governance
   - Managing Digital
   - strategy-and-policy

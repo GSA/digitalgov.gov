@@ -9,7 +9,7 @@ featured_image:
 authors:
   - joel-minton
   - tom-mills
-categories:
+topics:
   - Managing Digital
   - 18F
   - CBP

@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: The State of Mobile Search'
 summary: ' Mobile searching has become a fact of life. According to a recent study by Econsultancy, 67% of smartphone owners had used their device to search for information in the past 7 days. The infographic below describes what they are searching for&#8211;the majority of searches are for'
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - API
   - Trends on Tuesday
 ---

@@ -5,13 +5,12 @@ title: 'DigitalGov Readers and Subscribers: We Want to Talk to You'
 summary: As you know, over the last few years DigitalGov has surfaced the innovative advancements many are making across the government space while providing a platform for learning best practices and coming together as a community. Over the course of the next few weeks, a small team from
 authors:
   - 18f-team
-categories:
+topics:
   - Content
   - Managing Digital
   - Our Work
   - user-testing-and-research
   - UX
-tag:
   - content
   - Customer Experience
   - CX

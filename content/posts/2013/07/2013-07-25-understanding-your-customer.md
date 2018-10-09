@@ -5,10 +5,9 @@ title: Understanding Your Customer
 summary: 'Do you know who your customers are?  And what they expect from your organization? One of the most critical components of a successful customer experience program is to understand your customer. The first step is knowing who your customers are. Are they veterans, students, senior citizens or other federal workers?  In some cases your customers'
 authors:
   - martha-dorris
-categories:
+topics:
   - Managing Digital
   - UX
-tag:
   - Customer Experience
 ---
 

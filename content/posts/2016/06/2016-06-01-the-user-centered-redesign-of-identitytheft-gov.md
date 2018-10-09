@@ -5,13 +5,12 @@ title: The User-Centered Redesign of IdentityTheft.gov
 summary: 'I first came across the redesigned IdentityTheft.gov on Reddit, of all places. Someone had posted a link to the Federal Trade Commission’s (FTC) newly redesigned site and wrote: I hope this never happens to any of you as the entire thing can be really stressful. The identitytheft.gov website is a true breath of fresh air&#8230;You'
 authors:
   - melody-kramer
-categories:
+topics:
   - Design
   - Managing Digital
   - strategy-and-policy
   - user-testing-and-research
   - UX
-tag:
   - 18F
   - Federal Trade Commission
   - FTC

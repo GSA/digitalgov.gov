@@ -5,10 +5,9 @@ title: Gov URL Shorteners and How to Use Them
 summary: 'USA.gov offers two different types of URL shorteners &ndash; 1.USA.gov and Go.USA.gov. No matter which URL shortener you use, there are some usability, accessibility, and SEO issues you should keep in mind. 1.USA.gov 1.USA.gov is powered by bitly.com and open to everyone. If you go to bitly.com and shorten a'
 authors:
   - michelle-chronister
-categories:
+topics:
   - Code
   - Content
-tag:
   - USAgov
 ---
 

@@ -5,7 +5,7 @@ title: ​Want to Expand Your Innovation Base? Dive In, Run a Challenge, and Lis
 summary: 'The Office of the National Coordinator (ONC) is a small agency in the Department of Health and Human Services (HHS) whose mission is to increase the interoperability and use of electronic health records and health IT. We don’t have the funding and personnel of larger agencies, and, for the most part, this is fine. The'
 authors:
   - adam-wong
-categories:
+topics:
   - Challenges
   - crowdsourcing-and-citizen-science
   - strategy-and-policy

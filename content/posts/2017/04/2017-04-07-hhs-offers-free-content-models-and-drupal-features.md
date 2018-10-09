@@ -5,7 +5,7 @@ title: HHS Offers Free Content Models and Drupal Features
 summary: 'Related Event: Create Once, Publish Everywhere Applied&mdash;HHS Content Models and Portability, Tuesday, April 18, 2017; register here. Create Once, Publish Everywhere (COPE) The U.S. Department of Health & Human Services (HHS) is sharing its content models and their related Drupal features for you to use on your sites. A content model is a representation of types of content'
 authors:
   - christen-geiler
-categories:
+topics:
   - Content
   - CMS
   - content

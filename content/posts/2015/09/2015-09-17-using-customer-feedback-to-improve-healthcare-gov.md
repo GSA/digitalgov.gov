@@ -5,9 +5,8 @@ title: Using Customer Feedback to Improve HealthCare.gov
 summary: 'We recently polled the Customer Experience Community of Practice (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action. To learn how agencies such as the Department of Health and Human'
 authors:
   - jacqueline-snee
-categories:
+topics:
   - Managing Digital
-tag:
   - Centers for Medicare and Medicaid Services
   - Customer Experience
   - Customer Experience Community of Practice

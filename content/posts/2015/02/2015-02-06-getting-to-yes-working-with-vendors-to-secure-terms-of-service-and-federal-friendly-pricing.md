@@ -6,10 +6,9 @@ summary: The federal government is one of the largest consumers of products and 
 authors:
   - clair-koroma
   - kathryn-hambleton
-categories:
+topics:
   - Communities
   - Social Media
-tag:
   - AoI
   - HHS
   - Recaps

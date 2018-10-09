@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Mobile Web Lessons From the CrowdSource Mobile Testin
 summary: 'Practice makes perfect. But in the mobile world, it’s testing that makes products better. For federal agencies that have developed their own apps or mobile-friendly sites, the CrowdSource Mobile Testing Program offers a simple way to collect feedback on compatibility testing. Since the program’s inception in March 2013, eight federal mobile websites (including responsive design)'
 authors:
   - david-fern
-categories:
+topics:
   - Mobile
   - Our Work
   - UX
-tag:
   - Defense Finance and Accounting Services
   - Federal CrowdSource Mobile Testing Program
   - mobile gov community of practice

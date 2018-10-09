@@ -5,10 +5,9 @@ title: 'ForeignAssistance.gov&#8217;s Redesign: Using Agile Methodology to Keep 
 summary: Content is one of the most important things about your site. After all, it is what keeps your users engaged and keeps them coming back to your site. Depending on the type of website your agency manages, you should always think of ways to best deliver your content to your end users. If the content
 authors:
   - kdaniel
-categories:
+topics:
   - Content
   - Monthly Theme
-tag:
   - agile
   - Office of the U.S. Foreign Assistance Resources
   - Personas

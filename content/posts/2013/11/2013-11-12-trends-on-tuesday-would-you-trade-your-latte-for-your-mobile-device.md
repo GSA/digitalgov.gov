@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Would You Trade Your Latte For Your Mobile Device?'
 summary: ' Recently, Mobile Marketing Watch published Sprint&#8217;s interesting infographic showing how executives use their mobile devices. &#8220;Would you trade your latte or morning cup of coffee for your mobile phone?&#8221; Sprint asked business professional executives. According to the results of their survey, turns out business professionals would'
 authors:
   - lisa-wilcox
-categories:
+topics:
   - Mobile
-tag:
   - mobile
   - mobile-first
   - Trends on Tuesday

@@ -8,10 +8,9 @@ authors:
   - julia-elman
   - gray-brooks
   - john-tindel
-categories:
+topics:
   - Managing Digital
   - Our Work
-tag:
   - 18F
   - analytics
   - Digital Analytics Program

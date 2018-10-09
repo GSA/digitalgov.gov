@@ -5,7 +5,7 @@ title: Advice From Digital Thought Leaders
 summary: 'Many know that digital tools have become indispensable for connecting with many audiences&mdash;but we also know that what’s available in the digital realm is always changing. So how do you know what tools are best for your purpose? And how do you plan for your organization’s digital future when the pace of change is so'
 authors:
   - hiv-gov
-categories:
+topics:
   - Content
   - Mobile
   - social-media

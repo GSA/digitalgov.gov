@@ -6,13 +6,12 @@ summary: 'Americans Use Public Data to Improve the Lives of Fellow Citizens Data
 authors:
   - robin-thottungal
   - kris-rowley
-categories:
+topics:
   - API
   - Challenges
   - crowdsourcing-and-citizen-science
   - Data
   - strategy-and-policy
-tag:
   - API
   - apps challenges
   - ChallengeGov

@@ -5,10 +5,9 @@ title: Using Gamification in Federal Projects
 summary: 'Gamification is the practice of using game technology or design principles for something that is not inherently game-like. Some examples include: bronze, silver, and gold badges for reading a set number of books, progress bars in online surveys, leader boards for top grades on an exam, or rewards for attending in-person events. As gamification projects are'
 authors:
   - mike-kruger
-categories:
+topics:
   - Managing Digital
   - strategy-and-policy
-tag:
   - Department of Commerce
   - gamification
   - mobile

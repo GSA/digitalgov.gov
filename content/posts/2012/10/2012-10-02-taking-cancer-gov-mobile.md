@@ -5,9 +5,8 @@ title: Taking Cancer.gov Mobile
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Cancer Institute. The National Cancer Institute (NCI), the nation&#8217;s leading cancer research agency and part of the National Institutes of Health has a legislative mandate to collect, organize, and disseminate the'
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - Mobile Gov Experience
   - NCI
   - NIH

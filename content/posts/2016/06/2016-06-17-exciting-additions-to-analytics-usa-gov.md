@@ -8,12 +8,11 @@ authors:
   - gray-brooks
   - eric-mill
   - colin-craig
-categories:
+topics:
   - Data
   - Managing Digital
   - Metrics
   - Our Work
-tag:
   - 18F
   - analytics
   - data

@@ -5,9 +5,8 @@ title: 'Sixty Years of Tradition: Tracking Santa with NORAD'
 summary: '&#8216;Twas the night before Christmas, when all through the house, Not a creature was stirring, not even a mouse; The stockings were hung by the chimney with care, In hopes that St. Nicholas soon would be there; The children were nestled all snug in their beds;&#8230; &#8230;wondering when Santa was coming? &ldquo;Let’s check!&rdquo; they all'
 authors:
   - nramprasad
-categories:
+topics:
   - Mobile
-tag:
   - mobile apps
   - NORAD
   - North American Defense Command

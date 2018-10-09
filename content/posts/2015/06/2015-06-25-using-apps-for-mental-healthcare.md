@@ -5,9 +5,8 @@ title: Using Apps for Mental Healthcare
 summary: Technology has opened new pathways for delivering health care, including mental health services. The National Center for Telehealth and Technology (T2), part of the Department of Defense, offers multiple apps that address health care for service members in a variety of ways. At a talk with
 authors:
   - awichman
-categories:
+topics:
   - Mobile
-tag:
   - DoD
   - mobile apps
   - Mobile UX Guideline 2

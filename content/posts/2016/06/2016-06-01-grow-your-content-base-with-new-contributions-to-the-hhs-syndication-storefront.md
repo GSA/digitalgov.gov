@@ -5,9 +5,8 @@ title: Grow Your Content Base with New Contributions to the HHS Syndication Stor
 summary: 'We have written about syndication and its successes before. The content offerings of the HHS Syndication Storefront have recently grown. The National Institute of Heart Lung and Blood Diseases (NHLBI), part of the National Institutes of Health (NIH), is the latest to add content into the system.'
 authors:
   - christen-geiler
-categories:
+topics:
   - Content
-tag:
   - content syndication
   - HHS
   - National Institute of Heart Lung and Blood Diseases

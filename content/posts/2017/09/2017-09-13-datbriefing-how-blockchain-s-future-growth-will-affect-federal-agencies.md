@@ -9,7 +9,7 @@ featured_image:
 authors:
   - bbrantley
 
-categories:
+topics:
   - data
   - ai
   - artificial-intelligence

@@ -8,11 +8,10 @@ authors:
   - tlowden
   - ryan-panchadsaram
   - charles-worthington
-categories:
+topics:
   - Metrics
   - Monthly Theme
   - Our Work
-tag:
   - analytics
   - DAP
   - Digital Analytics Program

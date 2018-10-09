@@ -5,9 +5,8 @@ title: Google Analytics and the New Healthcare.gov
 summary: 'The new Healthcare.gov will sort content according to user demand with a new plugin developed for the site. For a content-heavy site like healthcare.gov, this option will allow HHS to serve popular content to readers quickly. In April we told you about Jekyll. The new Healthcare.gov will use this'
 authors:
   - lnelson
-categories:
+topics:
   - Code
-tag:
   - HHS
   - United States Department of Health and Human Services
 ---

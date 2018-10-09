@@ -6,9 +6,8 @@ summary: 'We recently released the first version of our API Standards&mdash;a se
 authors:
   - alan-delevie
   - eric-mill
-categories:
+topics:
   - API
-tag:
   - 18F
   - White House
 ---

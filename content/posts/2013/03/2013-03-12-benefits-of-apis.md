@@ -5,10 +5,9 @@ title: Benefits of APIs
 summary: 'Understanding the benefits of API production allows you to coordinate with system owners and other stakeholders to modernize the agency’s systems and unlock the sizable potential. Here are just some of these opportunities. Efficiency Providing API access allows for content to be created once and automatically published or made available to many channels. Your agency’s'
 authors:
   - gray-brooks
-categories:
+topics:
   - API
   - Code
-tag:
   - API
 ---
 

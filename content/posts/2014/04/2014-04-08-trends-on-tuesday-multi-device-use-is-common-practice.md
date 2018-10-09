@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Multi-Device Use is Common Practice'
 summary: 'Have you ever opened an email on your smartphone, and then switched to your laptop to read the attachment or write your response? According to a new multi-device study, you’re not alone. More than 40 percent of all online adults move across devices&mdash;they start an activity'
 authors:
   - tjohnson
-categories:
+topics:
   - Mobile
-tag:
   - mobile
   - Mobile UX Guideline 1
   - Mobile UX Guideline 5

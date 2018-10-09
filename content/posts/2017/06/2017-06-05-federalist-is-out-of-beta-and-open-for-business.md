@@ -6,7 +6,7 @@ summary: 'If you’re a program manager or a federal web developer you’ve prob
 authors:
   - will-slack
   - jonathan-hooper
-categories:
+topics:
   - Code
   - Design
   - Managing Digital

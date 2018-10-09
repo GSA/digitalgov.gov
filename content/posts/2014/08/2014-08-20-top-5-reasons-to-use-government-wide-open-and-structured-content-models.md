@@ -5,10 +5,9 @@ title: Top 5 Reasons to Use Government-wide Open and Structured Content Models
 summary: 'Content models provide an opportunity for agencies to structure, organize, distribute, and better publish information in multiple forms and on multiple platforms. Federal agencies discussed why content models are important for future-facing content in our What Structured Content Models Can Do For You Webinars in May and June.'
 authors:
   - katie-steffy
-categories:
+topics:
   - API
   - Content
-tag:
   - API
   - content models
   - metadata

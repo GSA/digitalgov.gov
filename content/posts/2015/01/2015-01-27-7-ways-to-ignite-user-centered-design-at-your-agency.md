@@ -5,11 +5,10 @@ title: 7 Ways to Ignite User-Centered Design at Your Agency
 summary: 'So you’ve done a couple of usability studies, and a few people are starting to &ldquo;see the light.&rdquo; Now you’d like to take it to the next level and help your organization embrace user-centered design (UCD) as the philosophy that drives all your digital projects. But what is best way to do this? How can'
 authors:
   - wendy-littman
-categories:
+topics:
   - Design
   - user-testing-and-research
   - UX
-tag:
   - DOE
   - United States Department of Energy
   - user centered design

@@ -5,11 +5,10 @@ title: Mobile Development and Testing with Chrome Developer Tools
 summary: 'Around Q3, I was looking for way to test the HTML and CSS of an online application that was to be public-facing. At first, my office’s plan was to connect mobile devices to the network owned by federal employees on a volunteer basis for testing. All of a sudden, a new policy came down that'
 authors:
   - angela-smithers
-categories:
+topics:
   - Code
   - Design
   - Mobile
-tag:
   - code
   - mobile
   - mobile testing

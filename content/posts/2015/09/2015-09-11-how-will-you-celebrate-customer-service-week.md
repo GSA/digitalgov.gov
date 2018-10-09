@@ -5,9 +5,8 @@ title: How Will You Celebrate Customer Service Week?
 summary: 'In 1992, Congress passed Public Law No: 102-481, which proclaimed the first full week in October as National Customer Service Week. Customer service is also a Cross-Agency Priority (CAP) Goal, tasking agencies to &ldquo;deliver world-class customer services to citizens by making it faster and easier for individuals and businesses to complete transactions and have a'
 authors:
   - rflagg
-categories:
+topics:
   - Managing Digital
-tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - customer service

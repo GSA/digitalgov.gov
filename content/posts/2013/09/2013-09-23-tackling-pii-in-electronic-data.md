@@ -5,11 +5,10 @@ title: Tackling PII in Electronic Data
 summary: 'As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &#8211; Privacy, Records and Litigation.'
 authors:
   - tlowden
-categories:
+topics:
   - Content
   - Social Media
   - strategy-and-policy
-tag:
   - Privacy Impact Assessment
   - social media
 ---

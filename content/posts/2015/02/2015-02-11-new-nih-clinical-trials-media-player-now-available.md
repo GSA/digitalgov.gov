@@ -5,9 +5,8 @@ title: New NIH Clinical Trials Media Player Now Available
 summary: Spread the Word about Clinical Trials! As we have recently seen with the Ebola outbreak, clinical trials are immensely important to medical advancement and treatment. The National Institutes of Health (NIH), in conjunction with the Centers for Disease Control and Prevention, has developed a new syndication tool to disseminate NIH Clinical Trials information. This effort
 authors:
   - christen-geiler
-categories:
+topics:
   - Content
-tag:
   - CDC
   - Centers for Disease Control and Prevention
   - National Institutes of Health

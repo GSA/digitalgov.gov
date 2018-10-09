@@ -5,9 +5,8 @@ title: 'Did We Do a Good Job? The Answer Is in Customers&#8217; Business Outcome
 summary: 'Earlier this week, I shared with my colleagues at EXIM the results of our 2016 export credit insurance customer survey. This is the third consecutive year that our largest customer segment has been asked to share their feedback with us. We appreciate knowing, through our customers&#8217; eyes, how we are doing on our agency&#8217;s strategic'
 authors:
   - stephanie-thum
-categories:
+topics:
   - Managing Digital
-tag:
   - Customer Experience
   - customer satisfaction
   - customer service

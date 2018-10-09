@@ -5,11 +5,10 @@ title: Empowering the Voice of Citizens at Core of GSA Open Government
 summary: ' We are proud to announce our commitment to the third U.S. National Action Plan for Open Government, released this week at the Open Government Partnership (OGP) Global Summit in Mexico City, Mexico,'
 authors:
   - jherman
-categories:
+topics:
   - Managing Digital
   - Our Work
   - Social Media
-tag:
   - data.gov
   - National Action Plan on Open Government
   - open government

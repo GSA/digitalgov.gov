@@ -8,10 +8,9 @@ authors:
   - katie-chan
   - ray-bryson
   - dan-wendling
-categories:
+topics:
   - user-testing-and-research
   - UX
-tag:
   - National Library of Medicine
   - NLM
   - usability case study

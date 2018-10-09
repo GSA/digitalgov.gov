@@ -5,9 +5,8 @@ title: Planning an Apps Challenge
 summary: Apps challenges are a great way to spur innovation and help your agency meet its mission. But before you jump in, learn about how apps challenges work, to ensure yours is successful. Design Concept or Functioning App? What kind of product do you want from your apps challenge? A working app; or A concept for
 authors:
   - ktrebon
-categories:
+topics:
   - Challenges
-tag:
   - innovation
   - mobile apps
 ---

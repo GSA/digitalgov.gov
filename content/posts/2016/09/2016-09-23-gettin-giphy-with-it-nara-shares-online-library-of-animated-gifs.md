@@ -7,11 +7,10 @@ authors:
   - darren-cole
   - mary-king
   - kristen-albrittain
-categories:
+topics:
   - Content
   - Managing Digital
   - Social Media
-tag:
   - content
   - NARA
   - National Archives and Records Administration

@@ -6,10 +6,9 @@ summary: 'Government agencies have created a variety of apps to meet the needs o
 authors:
   - david-fern
   - awichman
-categories:
+topics:
   - Mobile
   - user-testing-and-research
-tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile testing

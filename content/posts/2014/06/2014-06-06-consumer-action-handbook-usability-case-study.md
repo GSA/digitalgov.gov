@@ -6,11 +6,10 @@ summary: 'The annual Consumer Action Handbook, from GSA, is a guide to making sm
 authors:
   - tlowden
   - marietta-jelks
-categories:
+topics:
   - Design
   - user-testing-and-research
   - UX
-tag:
   - DigitalGov User Experience Program
   - usability case study
   - usability testing

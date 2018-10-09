@@ -5,9 +5,8 @@ title: Know Your Molluscs with the Terrestrial Mollusc Key
 summary: ' I have to admit my knowledge of slugs and snails was limited to the familiar, slimy creatures in my garden that ate holes in leaves, flowers, vegetables&mdash;almost anything, really&mdash;and left silvery traces behind. The Terrestrial Mollusc Key mobile app from the Department'
 authors:
   - nramprasad
-categories:
+topics:
   - Mobile
-tag:
   - mobile apps
   - native app
   - SSA

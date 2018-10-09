@@ -5,11 +5,10 @@ title: Customer Service Week 2014
 summary: They say that customer experience (CX) is the new marketing. People will tell their friends about their experience with your agency, and social media makes it easy to broadcast whether the experience was easy and enjoyable, or terrible. In 1992, Congress proclaimed the first full week in
 authors:
   - rflagg
-categories:
+topics:
   - Managing Digital
   - Our Work
   - UX
-tag:
   - 18F
   - Customer Experience
   - customer service

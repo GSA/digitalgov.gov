@@ -5,10 +5,9 @@ title: 'The Data Briefing: The Challenge of Opening up Federal Government Algori
 summary: Algorithms are becoming more important as the amount of data grows, and the complexity of government and business processes grows. Put simply, an algorithm is just a set of steps for solving a problem. If you shop online, use an online social network or a mobile app to plan your route, then you are using
 authors:
   - bbrantley
-categories:
+topics:
   - Code
   - Data
-tag:
   - data
   - FOIA
   - open data

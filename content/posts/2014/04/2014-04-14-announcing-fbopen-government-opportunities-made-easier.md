@@ -6,9 +6,8 @@ summary: 'Today we’re announcing our first product launch: FBOpen, a set of op
 authors:
   - alison-rowland
   - aaron-snow
-categories:
+topics:
   - Code
-tag:
   - 18F
   - GitHub
   - GSA

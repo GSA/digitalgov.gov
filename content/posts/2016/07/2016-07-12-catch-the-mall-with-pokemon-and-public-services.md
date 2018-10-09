@@ -6,12 +6,11 @@ summary: '&#8220;&#8230; I have never seen so many people of all ages walking ar
 authors:
   - jherman
   - paul-ollig
-categories:
+topics:
   - emerging-tech
   - Mobile
   - Social Media
   - UX
-tag:
   - Augmented Reality
   - gamification
   - mobile

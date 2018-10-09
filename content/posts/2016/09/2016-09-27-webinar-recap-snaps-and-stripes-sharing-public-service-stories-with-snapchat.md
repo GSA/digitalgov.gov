@@ -5,7 +5,7 @@ title: 'Webinar Recap: Snaps and Stripes—Sharing Public Service Stories with S
 summary: What does Snapchat, the disappearing message-and-video platform most used by teenagers, have to do with government outreach and communications programs? Well, Snapchat has quickly become an incredibly effective digital storytelling medium, and content creators across multiple government agencies have adopted it as an important part of their programs. A recent New York Times article described
 authors:
   - lisa-bari
-categories:
+topics:
   - Accessibility
   - Content
   - Managing Digital
@@ -13,7 +13,6 @@ categories:
   - strategy-and-policy
   - UX
   - Video
-tag:
   - accessibility
   - best practices
   - content

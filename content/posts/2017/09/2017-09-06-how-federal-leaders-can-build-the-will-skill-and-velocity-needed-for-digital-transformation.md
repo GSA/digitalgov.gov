@@ -8,7 +8,7 @@ featured_image:
   alt: 'A close-up of three people viewing something on a laptop.'
 authors:
   - bbrantley
-categories:
+topics:
   - Managing Digital
   - communication
   - human resources

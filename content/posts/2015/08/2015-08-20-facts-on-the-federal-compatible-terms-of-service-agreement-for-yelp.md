@@ -5,9 +5,8 @@ title: Facts on the Federal-Compatible Terms of Service Agreement for Yelp
 summary: 'We’ve been excited to see the outpouring of interest this week in response to Yelp’s decision to amend their terms of service for official government use, a clear message that citizens want more ways to ensure their voices are heard by the public programs that serve them. Yelp is just one of dozens of platforms'
 authors:
   - jherman
-categories:
+topics:
   - Social Media
-tag:
   - SocialGov Community
   - Terms of Service
   - TOS

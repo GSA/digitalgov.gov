@@ -5,11 +5,10 @@ title: 'Need Help Responding to Facebook & Twitter Questions? Use Your Contact C
 summary: 'Government agencies are always looking for better ways to connect with their audiences while making more effective use of existing (or shrinking) resources. To that end, many agencies&mdash;including ours, the National Cancer Institute&mdash;have begun to use social media platforms to help serve the communications mission. As these tools have become more widely used, NCI’s Contact'
 authors:
   - candace-maynard
-categories:
+topics:
   - Communities
   - Managing Digital
   - Monthly Theme
-tag:
   - AoI
   - HHS
   - National Institutes of Health

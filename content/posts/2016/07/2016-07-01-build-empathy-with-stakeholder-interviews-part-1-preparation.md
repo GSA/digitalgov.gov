@@ -6,10 +6,9 @@ summary: 'What stakeholder interviews are, why they’re valuable, and how to pr
 deck: 'What stakeholder interviews are, why they’re valuable, and how to prepare for them.'
 authors:
   - andrew-maier
-categories:
+topics:
   - strategy-and-policy
   - user-testing-and-research
-tag:
   - 18F
   - user centered design
   - user research

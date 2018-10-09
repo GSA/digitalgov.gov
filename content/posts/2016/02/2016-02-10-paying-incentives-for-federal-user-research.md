@@ -5,9 +5,8 @@ title: Paying Incentives for Federal User Research
 summary: 'Paying incentives to test participants is standard practice in research and usability testing. While some people may be willing to participate for free, many aren’t. Incentive payments help ensure people will take the time to travel to your office and give you 30, 60 or even 90 minutes of their time. However, government researchers and'
 authors:
   - andreanocesigritz
-categories:
+topics:
   - UX
-tag:
   - user experience
   - User Experience Community of Practice
   - UX

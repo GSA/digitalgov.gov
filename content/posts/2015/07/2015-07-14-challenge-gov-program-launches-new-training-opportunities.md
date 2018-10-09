@@ -5,9 +5,8 @@ title: Challenge.gov Program Launches New Training Opportunities
 summary: ' Seven new training modules aim to help Federal Challenge and Prize Community members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with &ldquo;Prize History,'
 authors:
   - judy-romano
-categories:
+topics:
   - Challenges
-tag:
   - Challenges and Prizes Community of Practice
   - DGU
 ---

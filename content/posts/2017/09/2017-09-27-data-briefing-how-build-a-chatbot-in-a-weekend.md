@@ -5,7 +5,7 @@ title: 'The Data Briefing: How to Build a Chatbot in a Weekend'
 summary: 'As chatbots have become more popular, some online sites will let you create a chatbot with little or no programming.'
 authors:
   - bbrantley
-categories:
+topics:
   - code
   - data
   - social-media

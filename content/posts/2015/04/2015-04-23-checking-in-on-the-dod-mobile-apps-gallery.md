@@ -5,9 +5,8 @@ title: Checking in on the DoD Mobile Apps Gallery
 summary: ' We’re switching our style up this week in salute to our military friends across the Department of Defense. Faithful readers of DigitalGov know that each Thursday we profile an awesome app from the'
 authors:
   - kdowney
-categories:
+topics:
   - Mobile
-tag:
   - DoD
   - Thursday Mobile Products
   - United States Department of Defense

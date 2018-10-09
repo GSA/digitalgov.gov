@@ -5,9 +5,8 @@ title: 'Be a Citizen Scientist with NOAA&#8217;s CrowdMag App'
 summary: 'Help the National Oceanic and Atmospheric Administration (NOAA) improve the accuracy of magnetic navigation by tracking changes in the Earth’s magnetic field.'
 authors:
   - kdowney
-categories:
+topics:
   - Mobile
-tag:
   - Federal Mobile Products Registry
   - mobile apps
   - National Oceanic and Atmospheric Administration

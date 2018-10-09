@@ -5,11 +5,10 @@ title: 'Next SocialGov Summit: Challenge and Prize Competitions'
 summary: 'A public prize spurred Charles Lindbergh to fly across the Atlantic, and this week social media managers across government will help a new generation of prize competitions take flight. These sessions aren&#8217;t just for social media managers who have held a challenge or are'
 authors:
   - jherman
-categories:
+topics:
   - Challenges
   - Social Media
   - strategy-and-policy
-tag:
   - ChallengeGov
   - SocialGov
 ---

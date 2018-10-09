@@ -6,7 +6,7 @@ summary: 'Effective May 15, 2017, GSA’s DotGov Domain Registration Program wil
 authors:
   - marina-fox
   - eric-mill
-categories:
+topics:
   - Managing Digital
   - strategy-and-policy
   - GSA

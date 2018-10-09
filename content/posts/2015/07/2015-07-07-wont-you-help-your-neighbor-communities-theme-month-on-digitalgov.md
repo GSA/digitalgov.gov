@@ -5,10 +5,9 @@ title: 'Won&#8217;t You Help Your Neighbor? Communities Theme Month on DigitalGo
 summary: 'It’s a beautiful day in the DigitalGov neighborhood, and we want you to be our neighbor: no red sweater required. The strength of digital government depends on robust collaboration across agencies, offices, and disciplines. The virtual federal neighborhood collaborates through numerous communities of practice, each of which promotes the open exchange of ideas and resources.'
 authors:
   - awichman
-categories:
+topics:
   - Communities
   - Monthly Theme
-tag:
   - communities
   - Customer Experience Community of Practice
   - mobile gov community of practice

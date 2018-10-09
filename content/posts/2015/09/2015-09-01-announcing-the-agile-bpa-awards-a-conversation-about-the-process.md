@@ -8,9 +8,8 @@ authors:
   - kathryn-edelman
   - chris-cairns
   - melody-kramer
-categories:
+topics:
   - Managing Digital
-tag:
   - 18F
   - GitHub
 ---

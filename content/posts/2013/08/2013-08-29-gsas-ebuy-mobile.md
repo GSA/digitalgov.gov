@@ -5,9 +5,8 @@ title: 'GSA&#8217;s eBuy Mobile'
 summary: 'The General Services Administration has made a mobile version of its eBuy website. The mobile site provides ease of access to small'
 authors:
   - michael-niedzwiecki
-categories:
+topics:
   - Mobile
-tag:
   - GSA
   - mobile gov
 ---

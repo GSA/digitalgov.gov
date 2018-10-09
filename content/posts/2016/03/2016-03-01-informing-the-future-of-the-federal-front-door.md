@@ -8,10 +8,9 @@ authors:
   - carolyn-dew
   - michelle-chronister
   - john-yuda
-categories:
+topics:
   - Managing Digital
   - UX
-tag:
   - 18F
   - Draft Web Design Standards
 ---

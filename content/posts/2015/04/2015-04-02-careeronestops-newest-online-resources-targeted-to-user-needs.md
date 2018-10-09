@@ -6,12 +6,11 @@ summary: ' When the Employment and Training Administration’s CareerOneStop tea
 authors:
   - kim-vitelli
   - michael-harding
-categories:
+topics:
   - Design
   - Mobile
   - user-testing-and-research
   - UX
-tag:
   - mobile
   - Mobile UX Guideline 5
   - Thursday Mobile Products

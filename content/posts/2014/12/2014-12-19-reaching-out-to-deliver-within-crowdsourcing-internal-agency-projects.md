@@ -5,10 +5,9 @@ title: 'Reaching Out To Deliver Within: Crowdsourcing Internal Agency Projects'
 summary: 'Crowdsourcing has created new paths for public interaction with the government, as we&#8217;ve been highlighting on DigitalGov with this month’s theme. However, crowdsourcing can also be used to harness support for internal agency projects. The Department of State is using crowdsourcing to find talent within and outside of government to support agency activities. Through the'
 authors:
   - awichman
-categories:
+topics:
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
   - 18F
   - crowdsourcing
   - HHS

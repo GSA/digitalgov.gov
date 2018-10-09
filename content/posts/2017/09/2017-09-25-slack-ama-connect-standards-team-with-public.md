@@ -13,7 +13,7 @@ featured_image:
   uid: 'wds-home-new-2x'
   alt: 'a visual representation of code and styling'
 
-categories:
+topics:
   - code
   - content
   - mobile

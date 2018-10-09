@@ -6,7 +6,7 @@ summary: 'This post was originally published on the USA.gov blog.'
 authors:
   - jessica-milcetich
 
-categories:
+topics:
   - content
   - metrics
   - analytics

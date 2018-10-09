@@ -7,9 +7,8 @@ authors:
   - colin-macarthur
   - carolyn-dew
   - john-yuda
-categories:
+topics:
   - UX
-tag:
   - 18F
 ---
 

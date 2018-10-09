@@ -5,11 +5,10 @@ title: 'The Data Briefing: Learning from the U.S. Cities on How to Implement Big
 summary: 'A recent study of big data initiatives in 65 cities has interesting guidance for Federal big data initiatives. The researchers studied how data is collected and then used for decision making in what they called &ldquo;the framework for Big Data initiatives.&rdquo;  There are two major cycles in the framework: &ldquo;The data cycle governs the tools'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Managing Digital
   - strategy-and-policy
-tag:
   - big data
   - data
   - The Data Briefing

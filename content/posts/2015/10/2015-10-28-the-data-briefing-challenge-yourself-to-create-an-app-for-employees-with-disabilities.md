@@ -5,11 +5,10 @@ title: 'The Data Briefing: Create an App for Employees with Disabilities'
 summary: Have you worked with an employee with a disability? Are you an employee with a disability? Then, you know the unique challenges of the average workplace that able-bodied colleagues may never experience. Workplace challenges could be overcome with accommodations such as larger computer monitor displays, wheelchair-accessible office furniture or a voice reader. In some cases,
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Mobile
   - Monthly Theme
-tag:
   - "508"
   - API
   - data

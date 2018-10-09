@@ -7,7 +7,7 @@ featured_image:
   uid: "silhouettes-of-business-people-discussing-outdoors-rawpixel-ltd-istock-thinkstock-490926205"
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - emerging-tech
   - Managing Digital

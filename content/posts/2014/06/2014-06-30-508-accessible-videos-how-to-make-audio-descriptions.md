@@ -7,10 +7,9 @@ authors:
   - jonathan-rubin
   - ryan-leisinger
   - gary-morin
-categories:
+topics:
   - Accessibility
   - Video
-tag:
   - DOJ
   - NASA
   - section 508

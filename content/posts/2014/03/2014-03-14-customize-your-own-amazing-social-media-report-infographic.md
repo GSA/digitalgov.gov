@@ -5,10 +5,9 @@ title: Customize Your Own Amazing Social Media Report Infographic
 summary: Social Media Community of Practice developed a set of baseline social media metrics to help you assess whether your efforts are achieving the results you want. How do
 authors:
   - sarah-kaczmarek
-categories:
+topics:
   - Metrics
   - Social Media
-tag:
   - GAO
   - infographic
   - social media metrics

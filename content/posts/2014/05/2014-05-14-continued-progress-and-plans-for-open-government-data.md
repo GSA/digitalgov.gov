@@ -6,9 +6,8 @@ summary: One year ago today, President Obama signed an executive order that made
 authors:
   - steven-vanroekel
   - todd-park
-categories:
+topics:
   - Data
-tag:
   - data
   - open data
   - White House

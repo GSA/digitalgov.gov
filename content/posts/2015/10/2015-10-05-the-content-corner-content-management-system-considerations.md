@@ -5,9 +5,8 @@ title: 'The Content Corner: Content Management System Considerations'
 summary: 'These days you couldn’t be faulted for thinking your content management system (CMS) choices are limited to two open source systems and maybe an enterprise-level offering that no one uses anymore. And while it&#8217;s true that for the public sector the popular open source options are extremely attractive from a cost standpoint, if nothing else,'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - Content Management System
   - Mobile UX Guideline 1

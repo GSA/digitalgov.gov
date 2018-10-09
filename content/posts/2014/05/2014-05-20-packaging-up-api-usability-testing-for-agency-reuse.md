@@ -5,11 +5,10 @@ title: Packaging Up API Usability Testing for Agency Reuse
 summary: Over the past year, a GSA collaboration has seen a project that offers API Usability Testing to federal agencies go from the pilot stage to a regular, robust series. Already, 13 agencies and programs have participated, and several more participate with every monthly session
 authors:
   - gray-brooks
-categories:
+topics:
   - API
   - user-testing-and-research
   - UX
-tag:
   - API
   - open source
   - usability testing

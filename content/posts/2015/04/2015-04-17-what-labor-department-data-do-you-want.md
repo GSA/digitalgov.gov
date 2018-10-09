@@ -5,11 +5,10 @@ title: What Labor Department Data Do You Want?
 summary: ' Four years ago, we released our Labor Department-wide API&mdash;that is, an Application Programming Interface&mdash;with the hope that anyone who wants to build an'
 authors:
   - michael-pulsifer
-categories:
+topics:
   - API
   - Code
   - Data
-tag:
   - API
   - data
   - GitHub

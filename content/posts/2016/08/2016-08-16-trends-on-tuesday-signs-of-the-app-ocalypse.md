@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Signs of the App-ocalypse'
 summary: 'A new report from the Mobile Ecosystem Forum shows that most users delete apps because of security concerns. The report also said that 47% of survey respondents would pay extra for an app that didn’t share personal information and that the inability to find a privacy policy is one of the leading reasons for consumers losing trust'
 authors:
   - wsullivan
-categories:
+topics:
   - Mobile
-tag:
   - metrics
   - mobile
   - mobile apps

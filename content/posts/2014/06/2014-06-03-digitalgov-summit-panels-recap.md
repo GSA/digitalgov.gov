@@ -5,7 +5,7 @@ title: Turning Data Into Action—DigitalGov Summit Recap
 summary: At the DigitalGov Citizen Services Summit last Friday, more than 200 innovators across government and industry came together to share how digital services can improve citizen services and reduce cost. Four panels convened to share information on performance analysis, customer service across channels, public private partnerships and inter-agency work. We have a recap of the
 authors:
   - darlene-gamble
-categories:
+topics:
   - Challenges
   - Code
   - Content
@@ -14,7 +14,6 @@ categories:
   - Mobile
   - Social Media
   - UX
-tag:
   - Administrative Office of the United States Courts
   - DOL
   - EPA

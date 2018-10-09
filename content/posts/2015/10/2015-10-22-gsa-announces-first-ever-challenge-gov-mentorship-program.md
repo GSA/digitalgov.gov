@@ -5,9 +5,8 @@ title: GSA Announces First-Ever Challenge.gov Mentorship Program
 summary: It may seem like issuing an open challenge to the American public is a novel form of federal procurement, but it has quickly become an effective way of generating fresh solutions to enduring problems. In every community, there are those who use their knowledge and experience to guide their neighbors down new paths. The federal
 authors:
   - eric-beidel
-categories:
+topics:
   - Challenges
-tag:
   - ChallengeGov
   - Challenges and Prizes Community of Practice
 ---

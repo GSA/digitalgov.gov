@@ -6,12 +6,11 @@ summary: 'USAJOBS’ Analytics Success: using analytics to create accurate testi
 authors:
   - cory-benavente
   - dywane-boyd
-categories:
+topics:
   - Data
   - Metrics
   - Our Work
   - user-testing-and-research
-tag:
   - analytics
   - DAP
   - Digital Analytics Program

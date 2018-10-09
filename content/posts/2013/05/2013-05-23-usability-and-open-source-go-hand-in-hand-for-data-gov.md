@@ -5,9 +5,8 @@ title: Usability and Open Source Go Hand-in-Hand for Data.gov
 summary: Data.gov launched a major upgrade today, moving to a new catalog based on an open source data management system called CKAN. In the process of migrating to a new data catalog, Data.gov had the opportunity to do another round
 authors:
   - sally-bourrie
-categories:
+topics:
   - Code
-tag:
   - data
   - data.gov
   - open data

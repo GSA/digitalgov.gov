@@ -5,10 +5,9 @@ title: Introducing openFDA
 summary: ' Welcome to the new home of openFDA! We are incredibly excited to see so much interest in our work and hope that this site can be a valuable resource to those wishing to use public FDA data in both the public and private'
 authors:
   - dr-taha-kass-hout
-categories:
+topics:
   - API
   - Data
-tag:
   - API
   - cloud
   - FDA

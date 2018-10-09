@@ -5,10 +5,9 @@ title: Community Rock Star Round Up
 summary: 'Around this month&#8217;s Communities Theme, the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s kick it off with the DigitalGov Summit Sounding Board. DigitalGov Summit Sounding Board For the 2015 DigitalGov Summit we pulled'
 authors:
   - apiazza
-categories:
+topics:
   - Communities
   - Monthly Theme
-tag:
   - 18F
   - Customer Experience Community of Practice
   - Defense Intelligence Agency

@@ -5,9 +5,8 @@ title: 'The Data Briefing: Using Federal Open Data to Understand How Government 
 summary: 'Some highlights from the recent fall conference of the Association for Public Policy Analysis and Management: Localities that receive disaster mitigation funds also have more disaster declarations. Longer, more detailed proposed regulations receive fewer challenges to implementing the regulation. Agencies that are better at quantifying their results are safer from budget cuts. The findings above'
 authors:
   - bbrantley
-categories:
+topics:
   - Code
-tag:
   - API
   - open data
   - The Data Briefing

@@ -5,9 +5,8 @@ title: To Learn About reddit, Listen First
 summary: Reddit began in 2006 as an online bulletin board. Registered users post links to items on the Internet, start discussions and cast votes that control placement on the site. A simple structure and a live interview forum called AMA, (Ask Me Anything) helped make reddit a
 authors:
   - judith-snyderman
-categories:
+topics:
   - Social Media
-tag:
   - Recaps
   - social media
 ---

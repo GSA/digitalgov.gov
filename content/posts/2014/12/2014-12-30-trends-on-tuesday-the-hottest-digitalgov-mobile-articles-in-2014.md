@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: The Hottest DigitalGov Mobile Articles in 2014'
 summary: 'QR codes, apps about whales, bullying and railroad crossings, challenges of responsive Web design and mobilizing charts and tables were the things you were most interested in this year. We publish mobile trends every Tuesday and feature a government mobile app every Thursday on the mobile channel of DigitalGov. In addition, we do recaps of MobileGov'
 authors:
   - jparcell
-categories:
+topics:
   - Managing Digital
   - Mobile
-tag:
   - API
   - mobile gov community of practice
   - Trends on Tuesday

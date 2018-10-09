@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: Optimizing Infographics for Mobile'
 summary: 'Mobile first means more than just focusing on text content; it’s also includes considering visual content as important element of the user experience.'
 authors:
   - lisa-wilcox
-categories:
+topics:
   - Content
   - Mobile
-tag:
   - mobile
   - mobile-first
   - Trends on Tuesday

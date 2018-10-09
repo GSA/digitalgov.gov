@@ -6,9 +6,8 @@ summary: 'The more you test, the more you know. We recently highlighted lessons 
 authors:
   - awichman
   - david-fern
-categories:
+topics:
   - Mobile
-tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile apps

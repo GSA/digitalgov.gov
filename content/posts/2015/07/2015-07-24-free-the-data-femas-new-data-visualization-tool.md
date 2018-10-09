@@ -5,9 +5,8 @@ title: 'Free the Data: FEMA’s New Data Visualization Tool'
 summary: '  FEMA collects data from disasters. We look at various hazards over time, and a question we get a lot when we’re trying to talk about what can happen is what has happened previously? Providing'
 authors:
   - craig-fugate
-categories:
+topics:
   - Data
-tag:
   - American Red Cross
   - data visualization
   - FEMA

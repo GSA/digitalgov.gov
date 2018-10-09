@@ -5,9 +5,8 @@ title: 'The Content Corner: Supporting Your Content'
 summary: 'This column revolves mostly around content creation and strategy, but an overlooked part of the content lifecycle is helping people find your content. Your content is made to be seen and without planning for promotion, it may never be found. The methods available to you may vary (wildly) at your agency, so remember your mileage may'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - content strategy
   - The Content Corner

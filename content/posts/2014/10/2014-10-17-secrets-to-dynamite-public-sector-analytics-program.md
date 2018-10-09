@@ -5,11 +5,10 @@ title: Secrets to a Dynamite Public Sector Analytics Program
 summary: ' Uncovering meaningful analytics from months or years of Web metrics is daunting, at best. So how do you make great Web improvements using metrics? Whether you’re just getting started in Web analytics or you want to take your program to the next level, you should focus on'
 authors:
   - hannah-gladfelter-rubin
-categories:
+topics:
   - Metrics
   - user-testing-and-research
   - UX
-tag:
   - analytics
   - data
   - EPA

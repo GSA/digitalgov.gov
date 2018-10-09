@@ -5,9 +5,8 @@ title: 'The Content Corner: Ranking Six Common Content Types'
 summary: 'In last week&#8217;s column, I went back to a frequent theme of mine and discussed another method for helping to feed the content beast, which was learning when to say no to a new and potentially resource devouring digital channel or platform. However, we also need to take a look at six of the most'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - podcast
   - The Content Corner

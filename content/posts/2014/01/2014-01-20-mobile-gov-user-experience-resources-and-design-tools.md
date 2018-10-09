@@ -5,10 +5,9 @@ title: Mobile Gov User Experience Resources and Design Tools
 summary: In September 2013, the Mobile Gov Community of Practice released user experience guidelines and recommendations for federal agencies to use in order to create good mobile user experiences. This article highlights private sector and government resources and tools to assist agencies in implementing those user experience guidelines. Mobile User Experience Resources and Tools From the
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
   - UX
-tag:
   - mobile
   - UX
 ---

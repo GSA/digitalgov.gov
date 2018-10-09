@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Consumer Purchases and Usage of Tablets Shrink, as Ph
 summary: ' Consumers are buying less tablets and more phablets, especially in the U.S. Three recent research reports released in the past week from IDC, Flurry and Kantar each point to a shift in consumer purchasing habits over the past quarter, showing that consumers'
 authors:
   - wsullivan
-categories:
+topics:
   - Mobile
-tag:
   - mobile
   - Mobile UX Guideline 1
   - Trends on Tuesday

@@ -5,11 +5,10 @@ title: What Happened at Our User Experience Summit (with slides!)
 summary: ' We were hoping for 30, but we got more than 100 user experience professionals and novices on Jan 28, 2014, for our User Experience (UX) Summit at the General Services Administration. The event was sponsored by the User Experience Community of Practice and the'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - Mobile
   - user-testing-and-research
   - UX
-tag:
   - DigitalGov User Experience Program
   - FDA
   - Mobile App Development Program

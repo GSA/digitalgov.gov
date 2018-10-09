@@ -6,10 +6,9 @@ summary: 'Since our launch of the Draft U.S. Web Design Standards last September
 authors:
   - carolyn-dew
   - melody-kramer
-categories:
+topics:
   - Content
   - UX
-tag:
   - 18F
   - Draft Web Design Standards
   - user centered design

@@ -5,12 +5,11 @@ title: 'Widgets, Mobile Apps, and SMS: Essential Agency Tools for Summer Heat Sa
 summary: 'According to recent Pew Research Center surveys, 45 percent of American adults have tablets and 68 percent have smartphones. While the majority of smartphone owners use their mobile devices to keep up with breaking news and stay informed about what is happening in their communities, nearly half, 40 percent, also reported using their smartphones to look up government services or'
 authors:
   - toni-bonitto
-categories:
+topics:
   - Code
   - Content
   - Mobile
   - Social Media
-tag:
   - app
   - content
   - content syndication

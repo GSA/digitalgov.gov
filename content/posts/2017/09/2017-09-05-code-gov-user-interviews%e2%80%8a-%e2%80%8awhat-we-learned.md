@@ -8,7 +8,7 @@ featured_image:
   alt: 'Folks holding question marks in front of their faces.'
 authors:
   - code-gov
-categories:
+topics:
   - Code
   - User Testing and Research
   - code

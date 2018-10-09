@@ -5,9 +5,8 @@ title: 'The API Briefing: Department of Justice Frees the Content with Two New A
 summary: When websites were first created back in the 1990s, developers perfected their skills designing sites that presented content in an attractive and eye-catching manner. Content was completely contained within the four corners of the site. With the rise of Web 2.0, content
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - Content Management System
   - DOJ
   - US Department of Justice

@@ -5,9 +5,8 @@ title: Moderating a Government Blog
 summary: 'Guest post by Curtis Robert Burns, better known as Blogger Bob, at the Transportation Security Administration (TSA).  As a blogger for TSA I believe moderating blog comments always comes down to an understanding of your employer’s mission, audience, and your'
 authors:
   - blogger-bob
-categories:
+topics:
   - Social Media
-tag:
   - social media
 ---
 

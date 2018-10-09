@@ -6,10 +6,9 @@ summary: 'When focusing on customer experience, we all know that we need to trul
 authors:
   - victoria-mcfadden
   - anahita-reilly
-categories:
+topics:
   - Managing Digital
   - Monthly Theme
-tag:
   - Customer Experience
   - customer satisfaction
   - customer service

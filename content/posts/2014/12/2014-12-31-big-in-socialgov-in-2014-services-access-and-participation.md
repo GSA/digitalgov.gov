@@ -5,10 +5,9 @@ title: 'Big in SocialGov in 2014: Services, Access and Participation'
 summary: Social media for public service is a diverse field that uses platforms and data from both the private and public sectors to improve citizen services, make them easier to access and deliver them more cost effectively. It is not just public affairs or communications, but spreads into customer service, resource development and more. Many of
 authors:
   - jherman
-categories:
+topics:
   - Communities
   - Social Media
-tag:
   - AoI
   - Central Intelligence Agency
   - CIA

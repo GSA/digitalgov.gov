@@ -5,9 +5,8 @@ title: Accessibility Is (Not) Scary
 summary: The word accessibility breeds misconceptions. Why? Because accessibility is something that scares you. Accessibility is hard. Accessibility needs people with specialized expertise. Accessibility problems often depend on the context of the website or Web application in question. Accessibility takes time. Accessibility is a legal mandate. Accessibility is a moral obligation. These statements are both true
 authors:
   - david-a-kennedy
-categories:
+topics:
   - Accessibility
-tag:
   - accessibility
   - usability
 ---
@@ -22,7 +21,7 @@ Why? Because accessibility is something that scares you.
 
 These statements are both true and misconceptions. The misconceptions happen when you try to solve accessibility problems with just accessibility solutions. In that world, accessibility becomes this &#8220;requirement&#8221; or &#8220;list&#8221; that you tack on or create to make it more manageable. You try to corral accessibility into some stage in your process, but it doesn&#8217;t quite fit in anywhere. Because it&#8217;s everywhere. Making those misconceptions disappear happens when you [focus on the people]({{< link "2014-12-29-crowdsourcing-for-accessibility.md" >}}) and [processes around accessibility](http://section508.gov/). Then, it becomes something you can do.
 
-The impetus for most accessibility successes or failures falls into one or more of these three categories:
+The impetus for most accessibility successes or failures falls into one or more of these three topics:
 
   * Decisions
   * People

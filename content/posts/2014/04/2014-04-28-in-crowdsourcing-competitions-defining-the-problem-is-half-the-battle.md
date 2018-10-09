@@ -5,10 +5,9 @@ title: In Crowdsourcing Competitions, Defining the Problem is Half the Battle
 summary: 'After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue. More than 20 federal innovators recently took part in'
 authors:
   - tlowden
-categories:
+topics:
   - Challenges
   - crowdsourcing-and-citizen-science
-tag:
   - ChallengeGov
   - crowdsourcing
   - DHS

@@ -5,9 +5,8 @@ title: Explore Space with Smithsonian’s Chandra X-Ray App
 summary: 'We continue our celebration of American history and legacy this July 2015 with the New Horizons spacecraft’s dramatic flight past the icy dwarf planet Pluto and its moons&mdash;momentous in space exploration. Just think about it&mdash;New Horizons, a NASA space probe traveled over 3 billion miles to'
 authors:
   - nirmala-ramprasad
-categories:
+topics:
   - Mobile
-tag:
   - DAP
   - Digital Analytics Program
   - ios

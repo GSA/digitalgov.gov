@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Mobile Sales Rise Substantially During Holiday Shoppi
 summary: 'Were you surfing the pre-Black Friday online sales while waiting for the Thanksgiving turkey to appear on the table? Turns out, you weren’t alone. &ldquo;Online sales for Thanksgiving 2014 grew 12.2%, with mobile sales accounting for 74% of that traffic,&rdquo; according to Mobile Marketing Watch. To put that in context, mobile sales grew 26.1% percent'
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - Mobile UX Guideline 5
   - mobile-first
   - Trends on Tuesday

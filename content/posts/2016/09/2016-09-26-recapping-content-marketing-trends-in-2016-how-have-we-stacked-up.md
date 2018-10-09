@@ -5,11 +5,10 @@ title: 'The Content Corner: Recapping Content Marketing Trends in 2016—How Hav
 summary: 'Earlier this year, it was predicted that content marketing would become even more important due to its ability to enhance not just visibility, but also increase engagement with customers&mdash;who could, in turn, become great promoters of your content. Needless to say, much of our time these days as communicators is spent on developing, distributing, maximizing, and'
 authors:
   - kyle-s-richardson
-categories:
+topics:
   - Content
   - Managing Digital
   - strategy-and-policy
-tag:
   - content
   - content strategy
   - content syndication

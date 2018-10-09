@@ -5,10 +5,9 @@ title: Sharing the Essentials of Animated Gifs for Public Services
 summary: '[youtube=http://www.youtube.com/watch?v=ohmyOKPSGPg&w=600] Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer'
 authors:
   - jherman
-categories:
+topics:
   - Content
   - Social Media
-tag:
   - 18F
   - accessibility
   - DGU

@@ -5,9 +5,8 @@ title: Introducing the New Challenge.gov
 summary: ' Challenge.gov now hosts the full federal-wide listing of crowdsourcing competitions and has a back-end platform for agencies to create and manage their competitions. The site is managed and produced within GSA&#8217;s Office of Citizen Services and Innovative Technology (OCSIT) group. The main feature is a complete'
 authors:
   - tammi-marcoullier
-categories:
+topics:
   - Challenges
-tag:
   - ChallengeGov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice

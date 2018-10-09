@@ -5,9 +5,8 @@ title: GSA Open Government Builds Solutions and Gives Voice to Citizens
 summary: ' Our work at the General Services Administration encompass many of the pillars of Open Government, from giving a greater voice to citizens to through Public Participation innovations like Challenge.gov to making the'
 authors:
   - phaedra-chrousos
-categories:
+topics:
   - Managing Digital
-tag:
   - data.gov
   - National Action Plan on Open Government
   - open government

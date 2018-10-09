@@ -5,9 +5,8 @@ title: Challenge.gov Honors Federal Agencies, Staff for Raising the Bar on Publi
 summary: The biggest advocates for the use of challenges in the public sector gathered at the General Services Administration (GSA) headquarters, October 8, to acknowledge the remarkable rise of a community that has grown steadily in number and influence over the past five years. More than 300 federal employees representing agencies spanning government attended in person
 authors:
   - eric-beidel
-categories:
+topics:
   - Challenges
-tag:
   - Bureau of Reclamation
   - ChallengeGov
   - Federal Trade Commission

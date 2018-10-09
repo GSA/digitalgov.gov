@@ -5,10 +5,9 @@ title: '#NIHDigital Summit: Optimizing Digital to Reach Patients, Scientists, Cl
 summary: ' On October 19th, NIH brought together nearly 1,500 digital and health experts in person and via webcast. The event featured two keynote speakers and panels that showcased the unique perspectives of patients and caregivers, health'
 authors:
   - alison-lemon
-categories:
+topics:
   - Managing Digital
   - Social Media
-tag:
   - EPA
   - HHS
   - National Cancer Institute

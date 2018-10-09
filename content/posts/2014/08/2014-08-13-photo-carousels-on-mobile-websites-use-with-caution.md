@@ -5,11 +5,10 @@ title: 'Photo Carousels on Mobile Websites: Use With Caution!'
 summary: 'You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them. In a recent email exchange on'
 authors:
   - beth-martin
-categories:
+topics:
   - Mobile
   - Monthly Theme
   - user-testing-and-research
-tag:
   - FAA
   - Federal Aviation Administration
   - Federal CrowdSource Mobile Testing Program

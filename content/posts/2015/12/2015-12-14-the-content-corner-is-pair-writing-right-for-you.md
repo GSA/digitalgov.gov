@@ -5,11 +5,10 @@ title: 'The Content Corner: Is Pair Writing Right for You?'
 summary: 'Fresh from last week’s article about workflows and their importance in the content creation process, I stumbled upon a new twist in content production known as pair writing. Many of you familiar with agile methodologies or software programming in general should know the term pair programming. Pair writing hopes to take some of the same'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
   - user-testing-and-research
   - Writing
-tag:
   - Administrative Office of the United States Courts
   - agile
   - The Content Corner

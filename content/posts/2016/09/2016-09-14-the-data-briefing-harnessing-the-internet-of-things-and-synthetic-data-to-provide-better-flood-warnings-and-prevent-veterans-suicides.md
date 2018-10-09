@@ -5,10 +5,9 @@ title: 'The Data Briefing: Harnessing the Internet of Things and Synthetic Data 
 summary: 'Two significant items in federal government data in the last few weeks: The Department of Commerce releases the National Water Model. The National Water Model provides a comprehensive model of river flows so local communities can better prepare for possible flooding events. What is especially amazing about the National Water Model is that it pulls'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Mobile
-tag:
   - Commerce
   - data
   - Department of Commerce

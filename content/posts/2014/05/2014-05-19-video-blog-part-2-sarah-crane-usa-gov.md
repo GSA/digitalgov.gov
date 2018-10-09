@@ -5,11 +5,10 @@ title: 'Video Blog: Part 2: Sarah Crane, USA.gov'
 summary: 'Part 2 of our interview with Sarah Crane from USA.gov shares how the USA.gov team is tackling content sprawl with the USA.gov API. Missed Part 1 last week? You&#8217;ll want to watch it before next Tuesday, when we will publish Part 3 where Sarah talks about adaptive content. [youtube=http://www.youtube.com/watch?v=PtXsAIoRqb4&w=600]'
 authors:
   - sarah-crane
-categories:
+topics:
   - API
   - Content
   - Managing Digital
-tag:
   - API
   - USAgov
 ---

@@ -5,9 +5,8 @@ title: 'Success Spotlight: Challenge Takes Students, Biomedicine to Next Level'
 summary: ' Leaders in the biomedical field will applaud a team of student researchers October 9 for developing a potentially lifesaving device in response to a competition published on Challenge.gov in March. The accolades come a day after the website, a no-cost platform for federal agencies to publish'
 authors:
   - eric-beidel
-categories:
+topics:
   - Challenges
-tag:
   - ChallengeGov
   - challenges and prize competitions
   - National Institutes of Health

@@ -6,10 +6,9 @@ summary: 'Apps that are downloaded, used a few times and then never used again, 
 authors:
   - jparcell
   - katie-steffy
-categories:
+topics:
   - Mobile
   - UX
-tag:
   - federal user experience community
   - mobile
   - mobile apps

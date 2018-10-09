@@ -6,10 +6,9 @@ summary: ' People consume government information in a variety of ways: through a
 authors:
   - hannah-gladfelter-rubin
   - jparcell
-categories:
+topics:
   - Mobile
   - Monthly Theme
-tag:
   - content models
   - COPE
   - HHS

@@ -5,10 +5,9 @@ title: Agile Transformation at Census
 summary: The agile transformation at the Census Bureau started several years ago after GAO recommended Census implement a standard Systems Development Lifecycle (SDLC). Around the same time came the newly released Digital Services Playbook as well as a general shift in the industry to using a more agile approach in software development to improve product delivery
 authors:
   - angela-bell
-categories:
+topics:
   - Managing Digital
   - Monthly Theme
-tag:
   - agile
   - Agile/Lean Community of Practice
   - Census

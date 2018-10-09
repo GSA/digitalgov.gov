@@ -5,10 +5,9 @@ title: 'Office of Natural Resources Revenue &#8211; Usability Case Study'
 summary: 'Any government product &#8211; whether used by millions or a very specific audience group &#8211; need to be as easy to use as possible. The Office of Natural Resources Revenue (ONRR) collects and dispenses revenue related to energy production on leased federal and American Indian lands. As a result, their audience has very definite information'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - user-testing-and-research
   - UX
-tag:
   - DigitalGov User Experience Program
   - Office of Natural Resources Revenue
   - ONRR

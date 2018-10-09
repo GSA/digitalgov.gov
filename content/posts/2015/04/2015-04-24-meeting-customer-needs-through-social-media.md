@@ -5,10 +5,9 @@ title: Meeting Customer Needs Through Social Media
 summary: 'Social media tools can amplify your agency’s message, but they are also a meeting space for two-way conversations. They can be a key tool to resolve user issues and deliver excellent customer service. This is true for agencies in every corner of the government space. In honor of our monthly contact center theme, we reached'
 authors:
   - awichman
-categories:
+topics:
   - Monthly Theme
   - Social Media
-tag:
   - analytics
   - Customer Experience
   - customer service

@@ -5,9 +5,8 @@ title: 'The API Briefing: NASA Builds API.NASA.gov to Launch More APIs to Develo
 summary: ' NASA has been busy since we last visited their collection of APIs back in August 2014. NASA has just launched API.NASA.gov where developers can learn to use existing NASA'
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - API
   - NASA
   - Wednesday API Briefing

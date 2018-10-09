@@ -6,10 +6,9 @@ summary: '[metaslider id=274602] Digital innovators from across government were 
 authors:
   - awichman
   - coqui-aspiazu
-categories:
+topics:
   - Managing Digital
   - Our Work
-tag:
   - DigitalGov Summit
 ---
 

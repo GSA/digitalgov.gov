@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Are PCs Obsolete?'
 summary: 'We&#8217;ve seen (and experienced) a dramatic growth in mobile consumption in recent years. From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what’s happening on existing platforms, according to'
 authors:
   - tjohnson
-categories:
+topics:
   - Mobile
-tag:
   - mobile
   - mobile apps
   - Mobile UX Guideline 5

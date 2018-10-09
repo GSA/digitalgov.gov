@@ -5,11 +5,10 @@ title: 'DARPA: A Case Study in Open Innovation'
 summary: 'You may not know it, but the Defense Advanced Research Projects Agency, or DARPA, has changed your life. There&#8217;s the Internet, for starters. And if that isn’t enough, the agency also has played a pivotal role in shaping GPS, stealth aircraft and drone technology. In fact, ever since its creation under President Eisenhower, DARPA has'
 authors:
   - eric-beidel
-categories:
+topics:
   - Challenges
   - crowdsourcing-and-citizen-science
   - Managing Digital
-tag:
   - ChallengeGov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice

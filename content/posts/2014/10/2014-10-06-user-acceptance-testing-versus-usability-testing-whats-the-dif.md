@@ -5,12 +5,11 @@ title: 'User Acceptance Testing Versus Usability Testing&#8230;What&#8217;s the 
 summary: 'Building off the great discussion started around Customer Experience, we’re looking at the difference between User Acceptance Testing and Usability Testing.'
 authors:
   - joel-virothaisakun
-categories:
+topics:
   - Communities
   - Design
   - user-testing-and-research
   - UX
-tag:
   - AoI
   - usability
   - user experience

@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Using SMS for Customer Support'
 summary: 'Don&#8217;t forget, mobile first strategy can include text messaging and SMS, not just native apps and responsive Web design. Ninety percent of all SMS messages are read within three minutes of being received, according to a recent blog post on Gigaom. Paired with an average open rate of 98% (versus 22% for email) and the'
 authors:
   - kdaniel
-categories:
+topics:
   - Mobile
-tag:
   - CDC
   - Centers for Disease Control and Prevention
   - government contact centers

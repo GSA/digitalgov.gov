@@ -5,10 +5,9 @@ title: 'What&#8217;s In a Name Does Matter'
 summary: Can you imagine how frustrating and confusing it would be to find several variations of the same agency name on different sites or even different pages or documents on the same site? This is what happens everyday to Spanish-speaking customers accessing the Spanish names of
 authors:
   - lgodfrey
-categories:
+topics:
   - Content
   - Managing Digital
-tag:
   - ANLE
   - Customer Experience
   - GobiernoUSAgov

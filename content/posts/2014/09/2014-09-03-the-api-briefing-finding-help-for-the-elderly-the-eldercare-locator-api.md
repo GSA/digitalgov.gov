@@ -5,9 +5,8 @@ title: 'The API Briefing: Finding Help for the Elderly – The ElderCare Locator
 summary: If you have ever been a caregiver for an elderly family member or friend, you know that there are many resources to help you in giving care. But finding these resources can be difficult and frustrating. The Administration on Aging in the Department of Health and Human Services (HHS) has been guiding people to local
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - Administration on Aging
   - API
   - HHS

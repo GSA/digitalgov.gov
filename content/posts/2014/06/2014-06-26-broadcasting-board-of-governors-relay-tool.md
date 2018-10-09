@@ -5,11 +5,10 @@ title: 'Broadcasting Board of Governors Use &#8220;Relay&#8221; Tool to Cover th
 summary: 'World Cup fever, everyone&#8217;s got it&mdash;even the Broadcasting Board of Governors&#8216; (BBG) Voice of America has reporters covering the event. For this year’s World Cup, VOA has teamed up with the Office of Digital and Design Innovation (a digital team inside'
 authors:
   - jparcell
-categories:
+topics:
   - Content
   - Mobile
   - Monthly Theme
-tag:
   - BBG
   - Broadcasting Board of Governors
   - CMS

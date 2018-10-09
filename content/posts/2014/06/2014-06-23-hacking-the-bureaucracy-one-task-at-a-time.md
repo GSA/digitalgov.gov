@@ -5,10 +5,9 @@ title: Hacking the Bureaucracy One Task at a Time
 summary: 'Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the Open Opportunities program.'
 authors:
   - lnelson
-categories:
+topics:
   - Governance
   - Managing Digital
-tag:
   - DOL
   - Mobile Code Catalog
   - open and structured content models

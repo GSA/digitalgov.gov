@@ -5,10 +5,9 @@ title: 'The Content Corner: Create Better Mobile Content'
 summary: 'All content needs to be developed with a mobile-first strategy, from headline choice to paragraph length. Although we are all now living in a post-mobilegeddon world, many of us are still implementing a mobile strategy. This strategy should consider several factors, including viewport size, cellular versus WiFi considerations, and load times. It should also include a'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
   - Mobile
-tag:
   - Administrative Office of the United States Courts
   - infographic
   - mobile

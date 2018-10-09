@@ -5,9 +5,8 @@ title: 'The Data Briefing: Engaging Citizens through CitizenScience.Gov'
 summary: 'Last month, I worked to create a &ldquo;Citizen Science Passport&rdquo; for the federal agencies participating in the USA Science and Engineering Festival. Seven federal agencies offered some form of crowdsourcing or citizen science activity at their booths such as the U.S. Department of Agriculture’s exhibit on food safety or Environmental Protection Agency’s build-your-own air monitoring'
 authors:
   - bbrantley
-categories:
+topics:
   - Code
-tag:
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing

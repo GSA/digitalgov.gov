@@ -5,10 +5,9 @@ title: Does Your Agency Need A Chief Digital Officer?
 summary: 'Russell Reynolds Associates, the senior-level executive search firm, says that the last 2 years have seen the rise of the Chief Digital Officer (CDO), a senior executive who sits at the right hand of the CEO. According to the consulting firm Gartner, 25% of organizations will have a Chief'
 authors:
   - mike-kruger
-categories:
+topics:
   - Governance
   - Managing Digital
-tag:
   - American Red Cross
   - API
   - Census

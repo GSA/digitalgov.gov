@@ -5,9 +5,8 @@ title: Using a Hypothesis-Driven Approach in Analyzing (and Making Sense) of You
 summary: 'At the Digital Analytics Program (DAP), some of the most frequently asked questions we get are &ldquo;how can I get access to the DAP data?&rdquo; and &ldquo;what do I do with all this data?&rdquo; We all know that data is knowledge, and knowledge is power, but once we have access to it and realize that'
 authors:
   - marina-fox
-categories:
+topics:
   - Metrics
-tag:
   - analytics
   - DAP
   - data

@@ -6,13 +6,12 @@ summary: Cancer clinical trials are a critically important step on the pathway f
 authors:
   - sheila-prindiville
   - michael-balint
-categories:
+topics:
   - API
   - Code
   - Content
   - Data
   - UX
-tag:
   - API
   - code
   - content

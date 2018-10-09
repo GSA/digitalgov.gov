@@ -5,10 +5,9 @@ title: 'GSA Intranet (Insite) &#8211; Usability Case Study'
 summary: 'Not all usability changes are dramatic. Sometimes a few small tweaks can make a site significantly easier to navigate, or make important but hidden content pop off the page. The DigitalGov User Experience Program helped test Insite, GSA&#8217;s intranet, on September 21, 2011. GSA took the feedback from their usability test and made some changes to the'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - user-testing-and-research
   - UX
-tag:
   - DigitalGov User Experience Program
   - GSA
   - usability case study

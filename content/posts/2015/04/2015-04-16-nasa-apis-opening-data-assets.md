@@ -5,9 +5,8 @@ title: 'NASA APIs: Opening Data Assets'
 summary: 'Data is one of the most important assets at NASA. We have data on comets, measurements of Mars, and real-time imagery of Earth. But what good is data if you can’t access it? Not good at all! We’re in the process of building a site (at api.nasa.gov) to catalog NASA APIs that structure access to'
 authors:
   - dan-hammer
-categories:
+topics:
   - API
-tag:
   - API
   - data
   - GitHub

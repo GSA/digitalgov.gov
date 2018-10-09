@@ -5,10 +5,9 @@ title: How to Tell Your Agency’s Story—Plainly
 summary: 'You’ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You’ve got the facts. You’ve got the talking points. All you have to do is put it together, right? Wait. What you want to tell people is not necessarily what they need to know. I know it’s hard to organize material'
 authors:
   - katherine-spivey
-categories:
+topics:
   - Content
   - Writing
-tag:
   - DGU
   - Plain language
   - social media

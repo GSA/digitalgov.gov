@@ -5,9 +5,8 @@ title: '700 Strong: Challenge.gov Crosses New Milestone in Open Innovation'
 summary: Challenge.gov, the official website for crowdsourcing and prize competitions across government, celebrated its five-year anniversary in October 2015. Now, not even one year later, the site has reached another milestone. On Monday, two agencies launched new challenges, bringing the total
 authors:
   - eric-beidel
-categories:
+topics:
   - Challenges
-tag:
   - ChallengeGov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice

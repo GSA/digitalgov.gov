@@ -5,10 +5,9 @@ title: MedlinePlus Mobile Evaluation
 summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the National Library of Medicine. The National Library of Medicine (NLM) launched MedlinePlus Mobile (m.medlineplus.gov) in January 2010 to provide authoritative consumer-level health information to a
 authors:
   - jparcell
-categories:
+topics:
   - Metrics
   - Mobile
-tag:
   - HHS
   - Mobile Gov Experience
   - National Library of Medicine

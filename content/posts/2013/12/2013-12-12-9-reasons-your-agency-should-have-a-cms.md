@@ -5,11 +5,10 @@ title: 9 Reasons Your Agency Should Have A CMS
 summary: 'Why Invest in a Content Management System? Does it take too long to update and post digital content? Do you lack consistent branding across your website(s)? Is outdated, redundant content leading to a poor customer experience? Does your agency website show up too far down in search results? Are you'
 authors:
   - rflagg
-categories:
+topics:
   - Content
   - Managing Digital
   - strategy-and-policy
-tag:
   - CMS
   - Content Management System
 ---

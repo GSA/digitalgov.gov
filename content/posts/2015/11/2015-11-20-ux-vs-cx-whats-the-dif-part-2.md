@@ -5,10 +5,9 @@ title: 'UX vs. CX: What&#8217;s the Dif? Part 2'
 summary: 'In honor of World Usability Day, which happened on November 12, we’d like to demystify two extremely important and oft-confusing acronyms&mdash;CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery.'
 authors:
   - rflagg
-categories:
+topics:
   - Monthly Theme
   - UX
-tag:
   - 18F
   - Customer Experience
   - Customer Experience Community of Practice

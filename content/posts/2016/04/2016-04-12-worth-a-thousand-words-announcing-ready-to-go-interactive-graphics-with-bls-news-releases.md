@@ -5,11 +5,10 @@ title: Worth a Thousand Words? Announcing Ready-to-Go Interactive Graphics with 
 summary: 'Last spring I wrote about how we’ve been using more and better charts and maps to help you understand our statistics. Today I’m excited to tell you about a new set of graphical tools to make our news releases more illuminating at the moment of their posting.'
 authors:
   - erica-groshen
-categories:
+topics:
   - Content
   - Data
   - UX
-tag:
   - BLS
   - content strategy
   - data

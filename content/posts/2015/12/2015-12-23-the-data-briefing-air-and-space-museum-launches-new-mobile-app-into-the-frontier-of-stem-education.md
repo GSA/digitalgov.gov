@@ -5,10 +5,9 @@ title: 'The Data Briefing: Air and Space Museum Launches New Mobile App into the
 summary: 'The Smithsonian Institution’s Air and Space Museum just released a new educational mobile app, Mobile Missions. From the website: &ldquo;Find out if you are cut out for a career in aerospace with our free mobile app, Mobile Missions. Take our quiz to discover the best aerospace career for you. Explore objects from our collection related to'
 authors:
   - bbrantley
-categories:
+topics:
   - Code
   - Mobile
-tag:
   - Education
   - mobile apps
   - NPS

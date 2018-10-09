@@ -6,12 +6,11 @@ summary: 'How to run user-interviews and synthesize and integrate the results in
 deck: 'How to run user-interviews and synthesize and integrate the results into the teams shared understanding'
 authors:
   - andrew-maier
-categories:
+topics:
   - Design
   - strategy-and-policy
   - user-testing-and-research
   - UX
-tag:
   - State
   - US Department of State
   - user centered design

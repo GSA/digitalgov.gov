@@ -5,9 +5,8 @@ title: '&#8220;Congress Creates the Bill of Rights&#8221; from National Archives
 summary: ' Whether it&#8217;s the 800-year-old legacy of the Magna Carta, the Bill of Rights of the United States Constitution or the more recent Charter of Fundamental Rights of the European Union, all of these documents are powerful'
 authors:
   - nramprasad
-categories:
+topics:
   - Mobile
-tag:
   - mobile apps
   - NARA
   - National Archives and Records Administration

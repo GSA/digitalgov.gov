@@ -7,11 +7,10 @@ authors:
   - david-fern
   - clair-koroma
   - beth-martin
-categories:
+topics:
   - Design
   - Mobile
   - Monthly Theme
-tag:
   - mobile gov community of practice
   - Mobile UX Guideline 1
   - responsive web design

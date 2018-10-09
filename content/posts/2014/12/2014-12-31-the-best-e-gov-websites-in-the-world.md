@@ -5,9 +5,8 @@ title: The Best E-gov Websites in the World
 summary: ' In Design Secrets of the World’s Best e-Government Web Sites, the Asia-Pacific online communications powerhouse FutureGov singles out eight national e-government portals as the best-designed in the world, and identifies the best practices these sites exemplify. &ldquo;Ultimately, these websites are the best in the world because they are designed to'
 authors:
   - darlene-meskell
-categories:
+topics:
   - Content
-tag:
   - multilingual
   - responsive web design
   - search engine optimization

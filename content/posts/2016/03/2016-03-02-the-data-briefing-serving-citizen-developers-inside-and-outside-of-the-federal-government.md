@@ -5,10 +5,9 @@ title: 'The Data Briefing: Serving Citizen Developers Inside and Outside of the 
 summary: Citizen developers are people who do not work in information technology (IT) but have built IT applications. Back in the mid-80s, business people would smuggle in personal computers to run their spreadsheets and word processing applications (anyone remember VisiCalc and Bank Street Writer?) instead of having to rely on data processing departments. Today, citizen developers
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Data
-tag:
   - API
   - data
   - open data

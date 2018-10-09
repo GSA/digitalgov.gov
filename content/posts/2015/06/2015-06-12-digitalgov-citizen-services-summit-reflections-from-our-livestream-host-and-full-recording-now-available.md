@@ -5,9 +5,8 @@ title: 'DigitalGov Citizen Services Summit: Reflections from Our Livestream Host
 summary: 'The second annual DigitalGov Citizen Services Summit was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve'
 authors:
   - bernetta-reese
-categories:
+topics:
   - Our Work
-tag:
   - agile
   - analytics
   - Connect.gov

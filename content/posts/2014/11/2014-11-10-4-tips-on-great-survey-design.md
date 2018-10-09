@@ -5,11 +5,10 @@ title: 4 Tips on Great Survey Design
 summary: ' Whether they pop up while perusing an e-commerce site or land in your inbox after your bumpy flight in from Chicago, surveys are used in many different industries to gauge customer satisfaction and glean insight into user motivations. They are a useful tool in the kit of a user experience designer or anyone'
 authors:
   - georgia-gallavin
-categories:
+topics:
   - Monthly Theme
   - user-testing-and-research
   - UX
-tag:
   - customer satisfaction
   - DigitalGov User Experience Program
   - usability

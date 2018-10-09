@@ -5,10 +5,9 @@ title: 'Help Search Engines Help You: How SEO-Friendly URL Structure Can Boost Y
 summary: Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? How great it would be if that were easy to do. Well, actually it is. I realized that recently when I was doing research for one of my personal passions, which is finding invasive
 authors:
   - cliff-tyllick
-categories:
+topics:
   - Content
   - strategy-and-policy
-tag:
   - search engine optimization
 ---
 

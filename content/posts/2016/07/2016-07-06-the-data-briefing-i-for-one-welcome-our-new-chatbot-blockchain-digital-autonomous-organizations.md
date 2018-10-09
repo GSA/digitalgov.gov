@@ -5,14 +5,13 @@ title: 'The Data Briefing: I, For One, Welcome Our New Chatbot Blockchain Digita
 summary: 'It is at the intersections of fields where you find the most fascinating and innovative concepts. Recently, a conference on &ldquo;Open Human Resources and the Cognitive Era&rdquo; explored the use of chatbots and blockchain technologies in human resources. Human Resources (HR) is quietly undergoing a revolution as many HR practitioners are transforming HR by using'
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Code
   - Data
   - Managing Digital
   - strategy-and-policy
   - UX
-tag:
   - API
   - blockchain
   - chatbots

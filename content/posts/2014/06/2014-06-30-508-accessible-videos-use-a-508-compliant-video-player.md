@@ -7,10 +7,9 @@ authors:
   - jonathan-rubin
   - ryan-leisinger
   - gary-morin
-categories:
+topics:
   - Accessibility
   - Video
-tag:
   - section 508
   - US Access Board
   - YouTube

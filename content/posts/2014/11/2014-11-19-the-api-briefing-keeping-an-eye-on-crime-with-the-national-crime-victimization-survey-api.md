@@ -5,9 +5,8 @@ title: 'The API Briefing: Keeping an Eye on Crime with the National Crime Victim
 summary: 'Every year, the Bureau of Justice Statistics surveys nearly 80,000 households and over 143,000 individuals about crime victimization. What is unique about this survey is that both reported and unreported crimes data is collected. The survey has a well-documented API which offers data in the CSV, XML, and JSON formats. Let’s examine the documentation to'
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - Bureau of Justice Statistics
   - US Department of Agriculture
   - USDA

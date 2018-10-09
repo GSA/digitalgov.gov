@@ -8,10 +8,9 @@ authors:
   - howard-shelanski
   - anne-rung
   - marc-groman
-categories:
+topics:
   - Managing Digital
   - strategy-and-policy
-tag:
   - acquisition
   - Office of Management and Budget
   - OMB

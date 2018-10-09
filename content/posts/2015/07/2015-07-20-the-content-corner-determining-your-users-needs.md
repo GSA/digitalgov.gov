@@ -5,10 +5,9 @@ title: 'The Content Corner: Determining Your User&#8217;s Needs'
 summary: I recently wrapped up a series of user interviews as part of a review of our judiciary-wide intranet in order to provide better digital services to our customers (and yes, our internal users are our customers, not just the general public). As I prepare to delve back into determining user and content needs for a
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
   - UX
-tag:
   - Administrative Office of the United States Courts
   - analytics
   - government contact centers

@@ -5,11 +5,10 @@ title: Search Engine Optimization for Government Websites
 summary: On June 10, 2014, the Metrics Community of Practice of the Federal Web Managers Council and DigitalGov University hosted an event to honor the memory of Joe Pagano, a former co-chair of the Web Metrics Sub-Council. This third lecture honoring Joe focused on search engine optimization (SEO). While commercial search engines do a remarkable job
 authors:
   - ammie-farraj-feijoo
-categories:
+topics:
   - Content
   - Metrics
   - Our Work
-tag:
   - DigitalGov Search
   - Recaps
   - search engine optimization

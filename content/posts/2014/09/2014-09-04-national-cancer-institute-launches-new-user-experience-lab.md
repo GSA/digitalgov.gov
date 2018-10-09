@@ -6,12 +6,11 @@ summary: ' Why does a Cancer institute need a User Experience lab? Simply put: T
 authors:
   - pooja-sawant
   - jonathan-rubin
-categories:
+topics:
   - Design
   - Metrics
   - user-testing-and-research
   - UX
-tag:
   - DigitalGov User Experience Program
   - National Cancer Institute
   - NCI

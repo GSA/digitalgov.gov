@@ -5,11 +5,10 @@ title: 'The Data Briefing: Three Significant Events in Federal Open Data This Pa
 summary: Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public. In its Second Open Government National Action Plan (PDF, 639 KB, 5 pages, September 2014), the White House called for a government-wide policy on
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Data
   - Monthly Theme
-tag:
   - agile
   - API
   - DHS

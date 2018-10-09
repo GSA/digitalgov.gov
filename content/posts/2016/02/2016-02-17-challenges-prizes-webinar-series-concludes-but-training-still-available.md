@@ -5,9 +5,8 @@ title: 'Challenges & Prizes Webinar Series Concludes, but Training Still Availab
 summary: 'It began with a history lesson and ended with an eye to the future. In between, the Expert Training Series: How to Design & Operate Prizes to Maximize Success covered nearly every aspect of what it takes to run successful incentivized competitions. Challenge.gov and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers'
 authors:
   - eric-beidel
-categories:
+topics:
   - Challenges
-tag:
   - ChallengeGov
   - DOE
   - HHS

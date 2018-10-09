@@ -5,9 +5,8 @@ title: 'The Content Corner: Creating Good Content is Hard'
 summary: Throughout my five-plus months so far on this blog, I have focused a great deal on creating content, the various methods to improve your content, and what exactly content is. One thing that I may not have emphasized enough is the quality of the actual writing itself and how no content strategy on the planet
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - The Content Corner
 ---

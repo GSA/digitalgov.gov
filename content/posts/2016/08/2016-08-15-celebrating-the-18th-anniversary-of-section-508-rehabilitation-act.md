@@ -5,11 +5,10 @@ title: Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act
 summary: 'August 8, 2016, marks the 18th anniversary of the amendment to the Section 508 Rehabilitation Act of 1973, which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape. As amended, the Act requires: &#8230;access'
 authors:
   - apiazza
-categories:
+topics:
   - Accessibility
   - Managing Digital
   - UX
-tag:
   - accessibility
   - DHS
   - DOL

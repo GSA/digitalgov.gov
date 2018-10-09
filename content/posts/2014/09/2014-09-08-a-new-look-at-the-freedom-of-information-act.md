@@ -9,9 +9,8 @@ authors:
   - raphael-majma
   - eric-mill
   - victor-diaz-zapanta
-categories:
+topics:
   - Code
-tag:
   - 18F
   - DOJ
   - EPA

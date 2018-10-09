@@ -10,7 +10,7 @@ authors:
   - jparcell
   - apiazza
   - jonathan-rubin
-categories:
+topics:
   - API
   - Challenges
   - Content
@@ -20,7 +20,6 @@ categories:
   - Mobile
   - Social Media
   - UX
-tag:
   - DOL
   - EPA
   - FCC

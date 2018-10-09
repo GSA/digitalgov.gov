@@ -3,9 +3,8 @@ slug: dolphin-and-whale-apps-from-noaa-fisheries
 date: 2013-10-24 9:05:12 -0400
 title: Dolphin and Whale Apps from NOAA Fisheries
 summary: NOAA Fisheries to help you identify and aid stranded or
-categories:
+topics:
   - Mobile
-tag:
   - mobile apps
   - National Oceanic and Atmospheric Administration
   - NOAA

@@ -6,10 +6,9 @@ summary: 'Kids and adults use Web search tools differently. Kids fail more often
 authors:
   - david-kaufmann
   - michelle-chronister
-categories:
+topics:
   - Content
   - UX
-tag:
   - social media metrics
   - USAgov
   - UX

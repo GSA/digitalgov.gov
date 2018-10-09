@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Mobile Driving Pre-Cyber Monday Shopping'
 summary: Cyber Monday, billed as one of the busiest online-commerce days of the year, is spilling into the rest of the holiday season as more consumers use mobile devices to shop whenever they please. Shoppers are no longer waiting to return to work on the Monday after Thanksgiving to surf and complete web deals. Consumers armed
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - mobile
   - mobile-first
   - Trends on Tuesday

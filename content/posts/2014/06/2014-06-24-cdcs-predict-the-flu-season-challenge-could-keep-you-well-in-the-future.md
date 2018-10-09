@@ -5,10 +5,9 @@ title: CDC’s “Predict the Flu Season Challenge” Could Keep You Well in the
 summary: 'The results of an innovative government prize competition might help you avoid the flu next season. The Centers for Disease Control and Prevention (CDC) recently announced the winner of the &ldquo;Predict the Influenza Season Challenge&rdquo;: Dr. Jeffrey Shaman of Columbia University’s Mailman School of Public Health and his team submitted an'
 authors:
   - tlowden
-categories:
+topics:
   - Challenges
   - Monthly Theme
-tag:
   - CDC
   - Centers for Disease Control and Prevention
   - ChallengeGov

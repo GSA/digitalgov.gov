@@ -5,9 +5,8 @@ title: SSI Mobile Wage Reporting
 summary: Following up on their mobile website, the Social
 authors:
   - michael-niedzwiecki
-categories:
+topics:
   - Mobile
-tag:
   - mobile apps
   - mobile gov
   - SSA

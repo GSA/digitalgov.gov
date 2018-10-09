@@ -5,10 +5,9 @@ title: 'This Weekend: Event List for Civic Hacking'
 summary: 'Our fabulous colleague Jeanne Holm is ready for the #hackforchange events this weekend and summarized some tips, notes and links to resources on Data.gov. Great things will happen this weekend! Remember, if you hear about great uses of government data, let'
 authors:
   - tammi-marcoullier
-categories:
+topics:
   - Challenges
   - Data
-tag:
   - Census
   - CFPB
   - Consumer Financial Protection Bureau

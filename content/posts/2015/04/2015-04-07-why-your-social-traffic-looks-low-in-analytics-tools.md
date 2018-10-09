@@ -5,10 +5,9 @@ title: Why Your Social Traffic Looks Low in Analytics Tools
 summary: Part of my job as an analyst on the Digital Analytics Program (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I
 authors:
   - tlowden
-categories:
+topics:
   - Metrics
   - Social Media
-tag:
   - analytics
   - Digital Analytics Program
   - Google Analytics

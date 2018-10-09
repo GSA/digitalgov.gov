@@ -5,10 +5,9 @@ title: 'Case Study: OCSIT’s Email Customer Survey Process'
 summary: 'At GSA’s Office of Citizen Services and Innovative Technologies (OCSIT), we offer technology services and tools to make government work better. To help us gauge the effectiveness of the programs we offer to other government agencies, in 2013 we launched our first Government Customer Experience Index (GCXi) survey. This annual email survey consistently measures customer'
 authors:
   - rflagg
-categories:
+topics:
   - Our Work
   - user-testing-and-research
-tag:
   - Customer Experience
   - CX
 ---

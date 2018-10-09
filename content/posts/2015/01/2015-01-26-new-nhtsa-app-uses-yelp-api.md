@@ -5,11 +5,10 @@ title: New NHTSA App Uses Yelp API
 summary: 'The U.S. Department of Transportation and the National Highway Traffic Safety Administration (NHTSA) recently unveiled a new mobile app to help people who have been drinking get a safe ride home. The &lsquo;SaferRide’ mobile app, gives holiday revelers an easy way to find a ride home when they’ve had too much to drink instead of getting'
 authors:
   - glaceria-mason
-categories:
+topics:
   - Code
   - Mobile
   - Social Media
-tag:
   - DOT
   - mobile apps
   - National Highway Traffic Safety Administration

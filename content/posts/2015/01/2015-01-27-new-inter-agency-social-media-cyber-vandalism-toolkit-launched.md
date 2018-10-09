@@ -5,7 +5,7 @@ title: New Inter-Agency Social Media Cyber-Vandalism Toolkit Launched
 summary: 'Federal agencies must prepare social media readiness procedures for cyber-vandalism, effectively recover control during an incident, and respond quickly to the public to maintain confidence in digital services. A new toolkit developed by more than a dozen government managers and representatives from major social media platforms, &#8220;Readiness, Recovery Response: Social Media Cyber-Vandalism Toolkit,&#8221; will help agencies'
 authors:
   - jherman
-categories:
+topics:
   - Social Media
 ---
 

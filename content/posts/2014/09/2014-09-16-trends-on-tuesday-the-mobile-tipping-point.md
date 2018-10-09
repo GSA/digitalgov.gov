@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: The Mobile Tipping Point?'
 summary: The International Data Corporation (IDC) is forecasting a strong outlook for smartphone sales during the remaining months of 2014. So, what might this mobile-driven world look like?
 authors:
   - tjohnson
-categories:
+topics:
   - Mobile
-tag:
   - DGU
   - mobile
   - mobile gov community of practice

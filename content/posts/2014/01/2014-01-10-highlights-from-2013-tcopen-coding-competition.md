@@ -5,9 +5,8 @@ title: 'Highlights from 2013 #TCOpen Coding Competition'
 summary: ' Our team and a few other agencies had the chance to attend the 2013 TopCoder Open this year and meet the best of the best developers, coders, designers, data scientists, and innovative thinkers in crowdsourcing. This'
 authors:
   - tammi-marcoullier
-categories:
+topics:
   - Challenges
-tag:
   - ChallengeGov
 ---
 

@@ -5,9 +5,8 @@ title: 'The Data Briefing: Tales from the Dark Side of Data'
 summary: 'There are many scary tales in the world of knowledge management and data management. Tales of missing data that was lost through the administrative cracks, such as the story of the missing Apollo 11 moonwalk tapes that most likely were erased by accident. Or the 36-year search for the original Wright Brothers’ patent, which was'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
-tag:
   - data
   - The Data Briefing
   - United States Patent and Trademark Office

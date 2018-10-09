@@ -5,7 +5,7 @@ title: Federal Pilot to Integrate Public Services Into Intelligent Personal Assi
 summary: 'The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day&mdash;and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges. The U.S. General Services Administration’s (GSA)'
 authors:
   - jherman
-categories:
+topics:
   - Communities
   - emerging-tech
   - Managing Digital

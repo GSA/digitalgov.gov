@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Mobile App Pop Quiz'
 summary: 'It’s time for a mobile pop quiz. How well do you know consumers and the time they spend on mobile apps? ComScore recently released the U.S. Mobile App Report which sheds light on how Americans use mobile apps. Test your knowledge with the five questions'
 authors:
   - tjohnson
-categories:
+topics:
   - Mobile
-tag:
   - CDC
   - Census
   - Centers for Disease Control and Prevention

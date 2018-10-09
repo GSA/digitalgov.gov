@@ -6,9 +6,8 @@ summary: 'Summary: Today, we’re launching the M3 Framework to provide agencies
 authors:
   - denise-turner-roth
   - david-mader
-categories:
+topics:
   - Managing Digital
-tag:
   - GSA
   - infrastructure
   - innovation

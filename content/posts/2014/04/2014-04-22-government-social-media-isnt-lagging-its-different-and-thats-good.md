@@ -5,11 +5,10 @@ title: 'Government Social Media Isn’t Lagging, It’s Different: And That’s 
 summary: ' Social Media tools, trends and algorithms come and go, but federal managers continue to see improvements in their digital engagement initiatives when they put citizens at the center of their programs. It’s common to hear that government social media lags behind'
 authors:
   - jherman
-categories:
+topics:
   - Communities
   - Managing Digital
   - Social Media
-tag:
   - AoI
   - API
   - National Archives and Records Administration

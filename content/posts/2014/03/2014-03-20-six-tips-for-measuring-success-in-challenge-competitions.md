@@ -5,9 +5,8 @@ title: Six Tips for Measuring Success in Challenge Competitions
 summary: 'You&#8217;ve run a challenge and prize competition, selected your winners, and distributed the prizes. If you think you&#8217;re done, guess again. There&#8217;s much more to challenge and prize competition success than getting a solution that solves your problem or meets the criteria. You need to measure success right'
 authors:
   - ktrebon
-categories:
+topics:
   - Challenges
-tag:
   - apps challenges
   - ChallengeGov
   - challenges and prize competitions

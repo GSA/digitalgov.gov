@@ -5,9 +5,8 @@ title: 'The API Briefing: Building Apps with APIs Using If This Then That'
 summary: In my last posting, I argued that federal agencies should consider microservices architecture when releasing APIs. This is because allowing users to combine single-purpose apps together in unique ways helps people build personalized apps such as a driving map to local farmers markets. When given the opportunity, users will surprise you with the innovative creations
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - API
   - Terms of Service
   - US Department of Agriculture

@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: e-Reading on the Rise'
 summary: 'What’s black and white and read all over? An e-reader. While it may be premature to revise classic riddles, a recent study by the Pew Research Center indicates that e-books are gaining popularity among American readers. Nearly three in ten adults (28%) reported reading an e-book in the past year, up from 23% at the'
 authors:
   - tjohnson
-categories:
+topics:
   - Mobile
-tag:
   - Mobile UX Guideline 1
   - mobile-first
   - Trends on Tuesday

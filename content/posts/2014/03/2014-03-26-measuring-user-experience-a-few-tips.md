@@ -5,11 +5,10 @@ title: 'Measuring User Experience: A Few Tips'
 summary: 'With a calculated process, the right tools, and a staff willing to make it work, you can measure user experience (UX) on your websites and implement usability changes that show results. In a recent DigitalGov University webinar entitled &ldquo;Measuring User Experience&rdquo;, UX supporters and practitioners heard from Achaia Walton, Senior Digital Analyst at the Department'
 authors:
   - tlowden
-categories:
+topics:
   - Communities
   - user-testing-and-research
   - UX
-tag:
   - a-b-testing
   - AoI
   - Recaps

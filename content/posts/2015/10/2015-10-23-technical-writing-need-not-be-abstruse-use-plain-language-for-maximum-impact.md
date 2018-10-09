@@ -5,9 +5,8 @@ title: Technical Writing Need Not Be Abstruse—Use Plain Language for Maximum I
 summary: 'Author writes: Additionally, the method utilized a myriad of factors for the purpose of incentivizing production to hit record-high levels of magnitude in the equivalent time period. Author thinks: My work sounds serious, impressive and interesting. Reader thinks: Huh? Technical writers are great&mdash;some of my favorite colleagues are technical writers. But technical writers often need'
 authors:
   - colleen-blessing
-categories:
+topics:
   - Writing
-tag:
   - EIA
   - Plain language
   - US Energy Information Administration

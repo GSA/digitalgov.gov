@@ -5,10 +5,9 @@ title: FAQs Done Right
 summary: 'In the circle of Web content life, FAQ sections are an endangered species. We’ve previously discussed the relevance of FAQs: Should FAQs go extinct, or are they a useful tool in your content ecosystem? Kathryn Catania, Chief of the Plain Language and Content Division at the U.S. Citizenship and Immigration Services, encourages agencies to take'
 authors:
   - awichman
-categories:
+topics:
   - UX
   - Writing
-tag:
   - Plain language
   - Transportation Security Administration
   - TSA

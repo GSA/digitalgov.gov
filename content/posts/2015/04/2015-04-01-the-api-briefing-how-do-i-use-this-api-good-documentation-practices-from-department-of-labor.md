@@ -5,9 +5,8 @@ title: 'The API Briefing: How Do I Use This API? Good Documentation Practices fr
 summary: When I first started coding using BASIC on the Commodore 64, I rarely documented my programs. Neither did many of my fellow programmers which led to numerous hours trying to figure out just exactly how a program worked. Documentation became more vital as programs became more feature rich and complex. In the API world, there
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - API
   - US Department of Labor
   - Wednesday API Briefing

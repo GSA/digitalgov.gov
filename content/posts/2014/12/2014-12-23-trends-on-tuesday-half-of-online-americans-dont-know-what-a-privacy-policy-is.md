@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: Half of Online Americans Don’t Know What a Privacy 
 summary: Federal agencies are required by law (see the list of applicable ones here) to use privacy policies on their digital properties that explain how they use the data they collect about users and visitors. This ensures that these users and visitors know what the government is doing with their data. The problem, according to Pew
 authors:
   - jparcell
-categories:
+topics:
   - Managing Digital
   - Mobile
-tag:
   - Defense Intelligence Agency
   - DIA
   - DigitalGov Summit

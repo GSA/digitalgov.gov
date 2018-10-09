@@ -5,12 +5,11 @@ title: 'The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic I
 summary: 'This is the first post of a 5-part series. DigitalGov Search is a commercial-grade search engine provided as a shared-service by the United States General Services Administration. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that'
 authors:
   - dmccleskey
-categories:
+topics:
   - Managing Digital
   - Monthly Theme
   - Our Work
   - strategy-and-policy
-tag:
   - aws
   - DigitalGov Search
   - infrastructure

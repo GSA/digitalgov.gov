@@ -7,11 +7,10 @@ authors:
   - christy-choi
   - mackenzie-cummings
   - richard-morey
-categories:
+topics:
   - Data
   - Metrics
   - Our Work
-tag:
   - analytics
   - content
   - content strategy

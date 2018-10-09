@@ -5,9 +5,8 @@ title: BIA Wikithon
 summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Bureau of Indian Affairs. The
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - BIA
   - Bureau of Indian Affairs
   - mobile

@@ -5,10 +5,9 @@ title: Making Prototypes with Tools You Already Have
 summary: ' They say that necessity is the mother of invention. For me, the necessity resulted from long product development cycles paired with short windows for user testing and little room for iteration. The &ldquo;invention&rdquo; was the discovery of a powerful set of tools for prototyping that are available on just about'
 authors:
   - brandon-kopp
-categories:
+topics:
   - Design
   - user-testing-and-research
-tag:
   - BLS
   - prototype
   - US Bureau of Labor Statistics

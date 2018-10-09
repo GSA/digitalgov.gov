@@ -5,9 +5,8 @@ title: USA.gov Mobile Apps Gallery
 summary: 'In April 2012, the U.S. General Services Administration launched a &#8220;full stack&#8221; responsive redesign of the federal mobile apps galleries: apps.USA.gov and apps.GobiernoUSA.gov. The full stack includes both a REST API and a complete redesign of the site using responsive design techniques. Responsive web design allows the content on a website to respond to the'
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
-tag:
   - GSA
   - mobile apps
   - Mobile Gov Experience

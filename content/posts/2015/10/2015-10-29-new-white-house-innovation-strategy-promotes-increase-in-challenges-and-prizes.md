@@ -5,9 +5,8 @@ title: New White House Innovation Strategy Promotes Increase in Challenges and P
 summary: ' The White House released an updated Strategy for American Innovation last week, calling again on government to tap the American public’s brain trust'
 authors:
   - kelly-olson
-categories:
+topics:
   - Challenges
-tag:
   - ChallengeGov
   - Challenges and Prizes Community of Practice
   - citizen science

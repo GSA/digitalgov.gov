@@ -5,10 +5,9 @@ title: 'Usability Events Round-Up: 2014'
 summary: 'This past year DigitalGov University has hosted at least one Usability event per month and we thought we&#8217;d give you a round-up of those events. After all, November 13th was World Usability Day. Since this year&#8217;s theme of World Usability Day is Engagement it would be great to take a look at the event recap'
 authors:
   - apiazza
-categories:
+topics:
   - Monthly Theme
   - UX
-tag:
   - DGU
   - DigitalGov User Experience Program
   - federal user experience community

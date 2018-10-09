@@ -8,9 +8,8 @@ authors:
   - jessica-milcetich
   - edgardo-morales
   - victoria-wales
-categories:
+topics:
   - Social Media
-tag:
   - CDC
   - Centers for Disease Control and Prevention
   - Facebook

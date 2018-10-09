@@ -5,11 +5,10 @@ title: 'What Is a &#8220;Terms of Service&#8221; and How Do I Get One?'
 summary: 'Imagine this: You just found a great online tool that can help you do your federal job 100% better. You’re all ready to download it and start conquering the world when someone asks, &#8220;Have you checked the Terms of Service?&#8221; You’re not sure what they’re'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - Managing Digital
   - Social Media
   - UX
-tag:
   - DOJ
   - Terms of Service
   - TOS

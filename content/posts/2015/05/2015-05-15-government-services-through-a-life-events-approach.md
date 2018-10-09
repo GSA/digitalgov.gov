@@ -5,10 +5,9 @@ title: Government Services Through a Life Events Approach
 summary: The federal government is increasingly focused on designing and delivering citizen-centered services with enhanced experiences that deliver value to customers. These ideals are established in the Presidential Management Agenda Customer Service Cross-Agency Priority Goal, the Digital Government Strategy, and various open government activities. Designing services to be responsive to be life events that drive public
 authors:
   - mary-ann-monroe
-categories:
+topics:
   - Managing Digital
   - Monthly Theme
-tag:
   - Customer Experience
   - customer satisfaction
   - customer service

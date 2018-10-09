@@ -5,9 +5,8 @@ title: 'The Content Corner: Using Natural Language Processing to Improve Rulemak
 summary: For the past several weeks, I have been inflicting you with my recent dive down the rabbit hole of natural language generation and the larger discipline of natural language algorithms. Most of the focus has been on the power of natural language generation and how it can help you rapidly produce content on a wide
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - CFPB
   - Consumer Financial Protection Bureau

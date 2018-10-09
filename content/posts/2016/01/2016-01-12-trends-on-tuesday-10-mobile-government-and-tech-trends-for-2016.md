@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: 10 Mobile, Government and Tech Trends for 2016'
 summary: 'As we move into 2016, here are 10 trends I foresee flourishing around mobile, technology and government: The mobile-majority tipping point in government. Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with 66% of people accessing federal websites via desktop and 34% on mobile. In 2016, the double-digit mobile'
 authors:
   - wsullivan
-categories:
+topics:
   - Managing Digital
   - Mobile
   - Monthly Theme
-tag:
   - HTTPS
   - Internet of things
   - mobile

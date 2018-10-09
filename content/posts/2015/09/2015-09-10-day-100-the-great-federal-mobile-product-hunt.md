@@ -5,9 +5,8 @@ title: 'Day 100: The Great Federal Mobile Product Hunt'
 summary: ' A long time ago in a federal agency building far, far away on F Street&hellip; the Great Federal Mobile Product Hunt launched at the DigitalGov Citizen Services Summit in Washington, DC. The campaign goal has not waivered from the initial launch because the USA.gov Mobile'
 authors:
   - courtney-greenley
-categories:
+topics:
   - Mobile
-tag:
   - HHS
   - mobile apps
   - NARA

@@ -5,10 +5,9 @@ title: '2015 Customer Service Trends: a Mid-Year Update'
 summary: 'Earlier this year, we published 15 Government Customer Service Trends for 2015. We’re halfway through the year now&mdash;how are these trends holding up? 1. Centralized Customer Offices A few agencies have created centralized customer offices, while others question the need for a single organization that focuses on the customer. As the public’s overall satisfaction with'
 authors:
   - martha-dorris
-categories:
+topics:
   - Managing Digital
   - UX
-tag:
   - agile
   - content syndication
   - COPE

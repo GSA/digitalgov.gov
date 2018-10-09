@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: GOV.UK Weighs in on Mobile User Habits'
 summary: ' England’s Government Digital Service (similar to our own U.S. Digital Services and 18F) did a study of how content on their websites is consumed on mobile and non-mobile devices and learned several key points for a future-focused and'
 authors:
   - wsullivan
-categories:
+topics:
   - Content
   - Mobile
-tag:
   - COPE
   - mobile
   - Mobile UX Guideline 1

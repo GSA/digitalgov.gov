@@ -6,13 +6,12 @@ summary: "Six months ago, we launched this DigitalGov.gov platform to support fe
 authors:
   - apiazza
   - gwynne-kostin
-categories:
+topics:
   - Content
   - Managing Digital
   - Our Work
   - Social Media
   - strategy-and-policy
-tag:
   - analytics
   - content strategy
   - GSA

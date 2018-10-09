@@ -5,11 +5,10 @@ title: Using Plain Language to Bridge the Gap Between Government and Industry
 summary: Much of our work with government partners to deliver better digital services has resulted in full websites, applications, and embarking on large-scale transformation efforts. In addition to those types of projects, we also work on shorter, faster, smaller-scale projects designed to show our partners different points of view and different techniques to approach their most
 authors:
   - ryan-sibley
-categories:
+topics:
   - Content
   - Managing Digital
   - strategy-and-policy
-tag:
   - 18F
   - agile
   - cloud

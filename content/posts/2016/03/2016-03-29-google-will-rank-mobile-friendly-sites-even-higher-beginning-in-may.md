@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Google Will Rank ‘Mobile-Friendly’ Sites Even Hig
 summary: 'Last year Google began changing their search ranking algorithm to direct mobile users to mobile-friendly sites, and they recently announced that beginning in May they will be implementing an update to focus even more exclusively on boosting mobile-friendly sites.'
 authors:
   - wsullivan
-categories:
+topics:
   - Mobile
-tag:
   - analytics.usa.gov
   - Digital Analytics Program
   - mobile-friendly

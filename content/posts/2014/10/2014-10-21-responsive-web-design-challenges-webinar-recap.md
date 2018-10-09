@@ -6,10 +6,9 @@ summary: 'A website redesign is never an easy task, but when responsiveness is o
 authors:
   - ellen-arnold-losey
   - debra-harris
-categories:
+topics:
   - Mobile
   - Monthly Theme
-tag:
   - analytics
   - Defense Finance and Accounting Services
   - DFAS

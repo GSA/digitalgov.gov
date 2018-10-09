@@ -5,9 +5,8 @@ title: 'The API Briefing: Test Your JSON Reading Skills with the Peace Corps Cou
 summary: The Peace Corps just released a new dataset that lists all of the countries and regions Peace Corps volunteers serve. The API is RESTful and uses the JSON format. You have read in earlier columns about the different data formats for APIs and how to read the data presented by an API. As a refresher,
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - Peace Corps
   - US Department of Agriculture
   - USDA

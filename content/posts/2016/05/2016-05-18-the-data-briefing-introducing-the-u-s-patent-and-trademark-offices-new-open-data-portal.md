@@ -5,10 +5,9 @@ title: 'The Data Briefing: Introducing the U.S. Patent and Trademark Office’s 
 summary: 'My first column when I came back from last year’s summer sabbatical was on the U.S. Patent and Trademark Office’s (USPTO) PatentsView project.'
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Data
-tag:
   - API
   - BLS
   - Census

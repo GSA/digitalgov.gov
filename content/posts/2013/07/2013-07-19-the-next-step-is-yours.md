@@ -5,10 +5,9 @@ title: 'DATA.Gov: The Next Step is Yours'
 summary: Americans are rocking open data! From getting people to the emergency room faster with iTriage to helping them navigate road and rail after a disaster, people are innovating, building businesses, and creating safer communities. As developers get more sophisticated and businesses get better analytics, Data.gov needs to change to support them in new ways and
 authors:
   - sally-bourrie
-categories:
+topics:
   - Code
   - Data
-tag:
   - data.gov
   - GitHub
   - open data

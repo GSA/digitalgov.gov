@@ -7,10 +7,9 @@ authors:
   - arlene-hernandez
   - emily-canis
   - jill-james
-categories:
+topics:
   - Content
   - UX
-tag:
   - Customer Experience
   - HHS
   - innovation

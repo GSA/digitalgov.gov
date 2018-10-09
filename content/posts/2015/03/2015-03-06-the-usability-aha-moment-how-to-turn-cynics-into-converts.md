@@ -6,11 +6,10 @@ summary: User Experience (UX) is the comprehensive experience a person has when 
 authors:
   - sarah-ward
   - deborah-bennett
-categories:
+topics:
   - Design
   - user-testing-and-research
   - UX
-tag:
   - National Library of Medicine
   - NLM
   - prototype

@@ -5,9 +5,8 @@ title: Government Customer Service Update—Webinar Recap
 summary: 'OMB’s Lisa Danzig, who co-leads the Cross Agency Priority (CAP) Customer Service Goal with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they’ve done since we last spoke with her, earlier this year. Background When the public comes to the federal government for information and services, they'
 authors:
   - jsnee
-categories:
+topics:
   - Managing Digital
-tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - customer satisfaction

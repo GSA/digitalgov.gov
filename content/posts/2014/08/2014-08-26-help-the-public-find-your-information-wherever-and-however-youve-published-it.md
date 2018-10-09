@@ -5,13 +5,12 @@ title: Help the Public Find Your Information, Wherever and However You’ve Publ
 summary: As traffic to desktop .gov websites declines, how we publish our content increasingly matters. We need to meet people where they are as they seek information on the Internet. To do so, we need to adjust to the new world of mobile applications, social media, and instant answers provided by search engines. Freeing Content from
 authors:
   - ammie-farraj-feijoo
-categories:
+topics:
   - API
   - Content
   - Monthly Theme
   - Our Work
   - Social Media
-tag:
   - 18F
   - CMS
   - Content Management System

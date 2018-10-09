@@ -5,10 +5,9 @@ title: 'HTTPS and Other Ranking Factors: What Impacts the SEO of Government Webs
 summary: Following the recent OMB memo that all publicly available federal websites and Web services must implement HTTPS by December 31, 2016, Web content managers across government are considering the SEO (search engine optimization) implications of the transition, among other details. In August 2014, Google confirmed that HTTPS is a ranking signal in their algorithm. But
 authors:
   - dmccleskey
-categories:
+topics:
   - Content
   - Our Work
-tag:
   - DigitalGov Search
   - HTTPS
   - Plain language

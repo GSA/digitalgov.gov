@@ -6,9 +6,8 @@ summary: 'Imagine open source code, publicly available to share, that jump start
 authors:
   - jparcell
   - lnelson
-categories:
+topics:
   - Mobile
-tag:
   - DOL
   - Mobile Code Catalog
   - mobile gov community of practice

@@ -5,11 +5,10 @@ title: 'The Data Briefing: How Neuroscience and Communication Theory Inform Good
 summary: 'Standing on the corner, waiting in the rain, I swear I’ll never, ever, use that app again. Why? Because the bad user experience (UX) design was preventing me from determining when the Metrobus would arrive. UX is everything from the visual design to the navigation structure of the website or mobile app. This month, DigitalGov'
 authors:
   - bbrantley
-categories:
+topics:
   - Code
   - Design
   - Monthly Theme
-tag:
   - The Data Briefing
   - US Department of Agriculture
   - USDA

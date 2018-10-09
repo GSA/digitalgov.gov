@@ -5,13 +5,12 @@ title: 'User Experience Impossible: The Line Between Accessibility and Usability
 summary: 'Bob goes to a popular federal government site, using his assistive technology, and starts reading a teaser for an article. Just below the teaser, there&#8217;s an embedded video on the page. He presses the tab key, trying to navigate to a link for the full article, but suddenly he&#8217;s trapped&mdash;he can&#8217;t tab past the video.'
 authors:
   - angela-hooker
-categories:
+topics:
   - Accessibility
   - Design
   - Monthly Theme
   - user-testing-and-research
   - UX
-tag:
   - accessibility
   - SBA
   - section 508

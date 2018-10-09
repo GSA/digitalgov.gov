@@ -5,7 +5,7 @@ title: 'Mythbuster’s Guide to Accessibility: What We&#8217;ve Learned About 50
 summary: 'As government technology improves and accelerates, the U.S. Digital Service has the opportunity to improve the most critical public-facing services across agencies. The services and products we create need to be accessible to everyone. Too often, we’ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we’ll debunk'
 authors:
   - nick-heiner
-categories:
+topics:
   - Accessibility
   - Design
   - UX

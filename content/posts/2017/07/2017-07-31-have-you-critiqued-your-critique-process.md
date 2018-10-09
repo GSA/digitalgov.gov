@@ -6,7 +6,7 @@ summary: 'DEMO Whenever I hear someone complain about the process of a design cr
 authors:
   - meghan-lazier
 
-categories:
+topics:
   - Design
   - Managing Digital
   - strategy-and-policy

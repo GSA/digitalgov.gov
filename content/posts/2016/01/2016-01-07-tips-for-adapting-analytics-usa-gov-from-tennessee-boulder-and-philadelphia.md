@@ -5,10 +5,9 @@ title: Tips for Adapting analytics.usa.gov from Tennessee, Boulder, and Philadel
 summary: 'When we launched analytics.usa.gov with the Digital Analytics Program, the U.S. Digital Service, and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction: This open source project is in the public domain, which means'
 authors:
   - melody-kramer
-categories:
+topics:
   - Metrics
   - Our Work
-tag:
   - 18F
   - analytics
   - analytics.usa.gov

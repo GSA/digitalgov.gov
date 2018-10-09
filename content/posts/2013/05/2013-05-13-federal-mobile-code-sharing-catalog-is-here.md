@@ -5,10 +5,9 @@ title: Federal Mobile Code Sharing Catalog Is Here
 summary: 'Federal agencies have a new resource to help them make content and services available anytime, anywhere, and from any device&#8211;the federal Mobile Code Catalog sponsored by the Digital Services Innovation Center. This catalog is hosted on GitHub (more on why that matters in a moment).'
 authors:
   - michael-pulsifer
-categories:
+topics:
   - Code
   - Mobile
-tag:
   - GitHub
   - mobile
   - mobile apps

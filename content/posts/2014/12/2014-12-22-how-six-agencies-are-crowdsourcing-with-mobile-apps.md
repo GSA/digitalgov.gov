@@ -5,11 +5,10 @@ title: How Six Agencies Are CrowdSourcing with Mobile Apps
 summary: ' Mobile devices allow the public to interact with government in new and game-changing ways and users expect those interactions. As a result, many agencies are taking advantage of native apps for crowdsourcing projects. The White House Open Government Initiative recently defined crowdsourcing &ldquo;as a'
 authors:
   - jparcell
-categories:
+topics:
   - crowdsourcing-and-citizen-science
   - Mobile
   - Monthly Theme
-tag:
   - crowdsourcing
   - Federal Emergency Management Agency
   - FEMA

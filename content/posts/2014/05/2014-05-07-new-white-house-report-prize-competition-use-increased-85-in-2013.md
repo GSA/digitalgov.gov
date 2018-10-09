@@ -5,9 +5,8 @@ title: 'New White House Report: Prize Competition Use Increased 85% in 2013'
 summary: We are thrilled to share an update from our competition colleagues at the White House Office of Science and Technology Policy. The third annual comprehensive report detailing the use of prizes and
 authors:
   - tammi-marcoullier
-categories:
+topics:
   - Challenges
-tag:
   - ChallengeGov
   - challenges and prize competitions
   - prizes and competitions

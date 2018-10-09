@@ -5,9 +5,8 @@ title: 'Keeping Vanity URLs in Check: A Few Criteria'
 summary: ' Shortcuts, Vanity or Marketing URLs, are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links. On a recent discussion thread on the Web Managers'
 authors:
   - andreanocesigritz
-categories:
+topics:
   - Content
-tag:
   - GoUSAgov
   - National Institute of Allergy and Infectious Diseases
   - NIAID

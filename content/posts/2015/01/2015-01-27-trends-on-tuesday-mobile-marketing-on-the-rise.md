@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Mobile Marketing on the Rise'
 summary: 'Marketers are increasingly using SMS, push notifications, mobile apps, location-based functionality and other mobile-first techniques to reach constituents. That’s according to a recent article from Marketingland.com, which provided an overview of the mobile trends presented in Salesforce’s 2015 State of Marketing Report. The report was based on a survey of 5,000 marketers in 10 countries. Some'
 authors:
   - awichman
-categories:
+topics:
   - Mobile
-tag:
   - customer service
   - GPS
   - mobile

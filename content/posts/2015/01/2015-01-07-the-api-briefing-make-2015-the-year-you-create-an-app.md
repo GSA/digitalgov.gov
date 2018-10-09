@@ -5,11 +5,10 @@ title: 'The API Briefing: Make 2015 the Year You Create an App'
 summary: 'According to some experts, over 80% of Americans will make a least one New Year’s resolution. There are the usual &ldquo;lose weight,&rdquo; &ldquo;quit smoking,&rdquo; or &ldquo;exercise more&rdquo; resolutions. Another popular set of resolutions involves learning new skills. So, if you are looking for a way to improve yourself while helping others, think about making a'
 authors:
   - bbrantley
-categories:
+topics:
   - API
   - Challenges
   - Data
-tag:
   - app
   - apps
   - apps challenges

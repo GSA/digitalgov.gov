@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Prepare for &#8216;Mobilegeddon&#8217; II—Interstit
 summary: 'Google has announced a second wave of &lsquo;Mobilegeddon’ search penalties for websites using mobile app install interstitials. Beginning November 1st, mobile app Web pages that use large app install interstitials to hide content from the users will be downgraded in search results for not being mobile-friendly. These are the kind of pop-ups you get when you'
 authors:
   - wsullivan
-categories:
+topics:
   - Mobile
-tag:
   - mobile
   - Mobile UX Guideline 2
   - mobile-friendly

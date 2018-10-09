@@ -5,7 +5,7 @@ title: 'The Data Briefing: How to Best Prepare Federal Government Datasets for C
 summary: Forbes magazine recently ran an article showcasing six handy mobile apps that were built using federal government open data. The apps range from the Alternative Fueling Station Locator to ZocDoc (a doctor locator). What I especially like about the Forbes article is that the author describes the federal government data sets behind each app. There
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Mobile
   - Social Media

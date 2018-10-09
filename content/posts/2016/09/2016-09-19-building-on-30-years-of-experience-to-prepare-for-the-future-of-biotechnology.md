@@ -9,10 +9,9 @@ authors:
   - julia-doherty
   - melissa-goldstein
   - james-kim
-categories:
+topics:
   - Governance
   - strategy-and-policy
-tag:
   - EPA
   - FDA
   - Federal Register

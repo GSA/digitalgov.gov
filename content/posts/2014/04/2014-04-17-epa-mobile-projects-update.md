@@ -5,10 +5,9 @@ title: EPA Mobile Projects Update
 summary: 'Earth Day is next week, so today instead of featuring one mobile product like we do every Thursday, we&#8217;re highlighting how the U.S. Environmental Protection Agency is tackling mobile to help empower citizen environmental decisions. Currently, you can'
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
   - strategy-and-policy
-tag:
   - EPA
   - mobile apps
   - Thursday Mobile Products

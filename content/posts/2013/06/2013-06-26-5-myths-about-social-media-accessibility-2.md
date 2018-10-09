@@ -5,10 +5,9 @@ title: 5 Myths About Social Media Accessibility
 summary: Guest post by Mario Damiani, Office of Disability Employment Policy (ODEP) at the Department of Labor. ODEP spearheads the Social Media Accessibility Working Group within the Federal Social Media Community of Practice. The working group recently released a toolkit for agencies to make their content more accessible for citizens with disabilities, including recommendations from agencies
 authors:
   - mario-damiani
-categories:
+topics:
   - Accessibility
   - Social Media
-tag:
   - accessibility
   - social media
   - SocialGov

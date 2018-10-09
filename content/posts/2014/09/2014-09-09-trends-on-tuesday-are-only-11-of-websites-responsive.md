@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: Are only 11% of Websites Responsive?'
 summary: 'Roughly 1 in 9 (11%) websites have adopted responsive Web design, according to research conducted by Guy Podjarny in January. While the number has risen in the last 7 months, I know you’re probably a little underwhelmed by that number. But if you are one of the agencies that have gone through the process of'
 authors:
   - tjohnson
-categories:
+topics:
   - Mobile
   - strategy-and-policy
-tag:
   - Defense Finance and Accounting Services
   - DFAS
   - DOE

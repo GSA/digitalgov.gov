@@ -6,7 +6,7 @@ summary: 'Amidst the chaos of an active shooter event, preparedness is key to a 
 authors:
   - department-of-homeland-security
 
-categories:
+topics:
   - strategy-and-policy
   - User Testing and Research
   - UX

@@ -5,7 +5,7 @@ title: Countdown to 2015 with Our Most Popular Articles This Year
 summary: 'As we round out 2014, we’re reflecting on the exciting year we’ve had at DigitalGov since we launched in February. Our mission is to share information and resources from agencies across the federal government that are working in the digital space, and highlight the services and communities that can help you meet your digital government'
 authors:
   - andreanocesigritz
-categories:
+topics:
   - Challenges
   - Code
   - Content

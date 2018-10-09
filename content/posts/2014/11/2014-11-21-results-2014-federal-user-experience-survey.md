@@ -5,14 +5,13 @@ title: 'Results: 2014 Federal User Experience Survey'
 summary: 'The cream of the crop of the top of the mountain of ALL of the surveys I run has to be the Federal User Experience (UX) Survey. It&#8217;s the second time I&#8217;ve had the privilege of running it with Jean Fox, research psychologist extraordinaire from the Bureau of Labor Statistics. When I start thinking about learning'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - Accessibility
   - Communities
   - Design
   - Monthly Theme
   - user-testing-and-research
   - UX
-tag:
   - AoI
   - BLS
   - federal user experience community

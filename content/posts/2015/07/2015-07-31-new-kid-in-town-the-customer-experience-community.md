@@ -6,9 +6,8 @@ summary: Cross-Agency Priority (CAP) Goals prioritize activities that all agenci
 authors:
   - jacqueline-snee
   - rflagg
-categories:
+topics:
   - Managing Digital
-tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - customer satisfaction

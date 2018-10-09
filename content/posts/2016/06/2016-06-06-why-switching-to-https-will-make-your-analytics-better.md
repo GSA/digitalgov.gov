@@ -5,10 +5,9 @@ title: Why Switching to HTTPS Will Make Your Analytics Better
 summary: Federal agencies are required to make all federal websites accessible through a secure, HTTPS-only connection by the end of the 2016 calendar year. What you might not have known is that the switch to HTTPS will improve your ability to track which sites are directing web traffic to yours. Recently, a federal colleague reached out
 authors:
   - tlowden
-categories:
+topics:
   - Managing Digital
   - Metrics
-tag:
   - analytics
   - DAP
   - Digital Analytics Program

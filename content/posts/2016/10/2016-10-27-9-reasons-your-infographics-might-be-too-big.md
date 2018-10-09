@@ -6,12 +6,11 @@ summary: Infographics are a useful tool for communicators to share complex data 
 authors:
   - sara-smith
   - anne-rancourt
-categories:
+topics:
   - Content
   - Design
   - Managing Digital
   - Social Media
-tag:
   - content
   - infographic
   - multimedia

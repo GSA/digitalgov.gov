@@ -5,9 +5,8 @@ title: 'The Data Briefing: White House Asks Data Scientists and App Developers t
 summary: 'The White House issued a call on September 30, 2015, for data scientists and app developers to help with a vital public health issue: suicide prevention. From the official announcement: &ldquo;If you are a data scientist, analyst, tech innovator, or entrepreneur interested in sharing ideas and resources for suicide prevention, we want to hear from'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
-tag:
   - CDC
   - Centers for Disease Control and Prevention
   - data

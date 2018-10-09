@@ -6,10 +6,9 @@ summary: 'The new Social and Behavioral Sciences Team (SBST) aims to make govern
 authors:
   - jsnee
   - rflagg
-categories:
+topics:
   - Managing Digital
   - Monthly Theme
-tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - CX

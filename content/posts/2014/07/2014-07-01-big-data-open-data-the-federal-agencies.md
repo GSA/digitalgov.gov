@@ -6,9 +6,8 @@ summary: 'Open data and big data&mdash;and the responsible management and protec
 authors:
   - nick-sinai
   - nicole-wong
-categories:
+topics:
   - Data
-tag:
   - big data
   - data
   - open data

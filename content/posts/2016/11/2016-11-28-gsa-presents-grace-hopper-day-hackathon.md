@@ -5,7 +5,7 @@ title: 'GSA Presents: Grace Hopper Day Hackathon!'
 summary: 'When: Friday, December 9th, 2016 Where: NARA Innovation Hub, 700 Pennsylvania Avenue, NW Register: On Eventbrite The U.S. General Services Administration (GSA) Digital Service team is excited to be hosting our next agency hackathon on December 9, 2016. Join coders from across the region as we come together in celebration of Grace Hopper’s birthday. Admiral &ldquo;Amazing Grace&rdquo;'
 authors:
   - sara-cope
-categories:
+topics:
   - API
   - Code
   - Data

@@ -5,11 +5,10 @@ title: 'Evaluating Digital Communication: An International Incident'
 summary: 'Are you measuring Twitter followers and press release downloads without any clue as to what people are doing with your agency’s products and information? Or do you not even know what to measure, never mind whether that measurement would be meaningful? Fear not, fair government communicator&mdash;there is hope! On May 15, top government communication measurement'
 authors:
   - david-hebert
-categories:
+topics:
   - Content
   - Metrics
   - Social Media
-tag:
   - HHS
   - Recaps
   - United States Department of Health and Human Services

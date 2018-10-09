@@ -5,9 +5,8 @@ title: Building the Next Generation of Government Innovators
 summary: Innovators are made, not born. This summer, the Food and Drug Administration (FDA) began cultivating the next generation of federal innovators through a summer incubator boot camp, aimHI. AimHI is a pilot program to get high school students excited about careers in health information technology, medical devices and public service. Instead of traditional internships, which
 authors:
   - awichman
-categories:
+topics:
   - Our Work
-tag:
   - FDA
   - mobile apps
   - Open Opportunities program

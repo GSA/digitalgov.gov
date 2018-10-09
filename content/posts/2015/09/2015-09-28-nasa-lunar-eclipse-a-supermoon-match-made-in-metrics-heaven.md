@@ -5,10 +5,9 @@ title: NASA + Lunar Eclipse = A Super(moon) Match Made in Metrics Heaven
 summary: ' NASA&#8217;s reach over the last 24 hours eclipsed that of the regulars typically seen in government digital metrics. But, all agencies can drive the conversation'
 authors:
   - toni-bonitto
-categories:
+topics:
   - Metrics
   - Monthly Theme
-tag:
   - analytics
   - DAP
   - NASA

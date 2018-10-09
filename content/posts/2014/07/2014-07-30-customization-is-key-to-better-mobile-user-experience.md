@@ -5,10 +5,9 @@ title: Customization is Key to Better Mobile User Experience
 summary: 'Resources like Theresa Neil’s Mobile Design Product Gallery book and Mobile-patterns.com describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week’s Trends on Tuesday, customizing apps to meet'
 authors:
   - katie-steffy
-categories:
+topics:
   - Mobile
   - UX
-tag:
   - CDC
   - Centers for Disease Control and Prevention
   - federal user experience community

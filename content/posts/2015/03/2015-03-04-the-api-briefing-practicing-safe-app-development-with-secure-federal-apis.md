@@ -5,9 +5,8 @@ title: 'The API Briefing: Practicing Safe App Development with Secure Federal AP
 summary: ' When browsing the various APIs offered by the federal government, you may have noticed that developers need to sign up for an API key. You may have also noticed that the documentation tells app developers to access the API using specified methods. Along with these two requirements, federal API creators'
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - API
   - API keys
   - security

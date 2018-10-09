@@ -6,13 +6,12 @@ slug: top-eight-best-practices-for-federal-contact-centers
 summary: '1. Meet all Laws, Requirements, Policies, and Directives for Federal Contact Centers Understand and follow all Privacy, Security, Disability, and Service Contract Act requirements. 2. Use Performance Metrics to Influence Business Rules and Drive Improvements Develop Key Performance Indicators/Metrics (see Performance Goals). CSLIC could be used as a start. 3. Develop and Use a Comprehensive Quality Assurance Program Monitor quality.'
 authors:
   - barbara-walton
-categories:
+topics:
   - Communities
   - Content
   - Data
   - Managing Digital
   - Metrics
-tag:
   - AoI
   - content strategy
   - customer satisfaction

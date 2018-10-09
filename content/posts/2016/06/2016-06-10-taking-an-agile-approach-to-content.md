@@ -6,11 +6,10 @@ summary: 'So, you’ve recently joined an agile team &mdash; congratulations! He
 authors:
   - kate-garklavs
   - nicole-fenton
-categories:
+topics:
   - Content
   - Managing Digital
   - strategy-and-policy
-tag:
   - 18F
   - agile
   - content strategy

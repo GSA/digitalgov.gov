@@ -5,11 +5,10 @@ title: 'The Content Corner: Social Media Metrics and the Challenge of Effective 
 summary: 'I’ve recently been required to focus more attention on social media from a federal agency standpoint and this has directly led to a greater consideration of content. One of my first steps was to begin sharing various forms of content and gauge the success of each type. In today’s post, I’ll share what I have'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
   - Metrics
   - Social Media
-tag:
   - Administrative Office of the United States Courts
   - analytics
   - content strategy

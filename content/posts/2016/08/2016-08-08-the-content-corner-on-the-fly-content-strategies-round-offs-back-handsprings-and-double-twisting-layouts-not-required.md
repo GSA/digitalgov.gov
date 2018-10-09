@@ -5,12 +5,11 @@ title: 'The Content Corner: On-The-Fly Content Strategies (Round-offs, Back Hand
 summary: 'As effective marketers and communicators, we are constantly seeking new and improved ways to reach our audience or customer base. These days, our &ldquo;online lives&rdquo; intersect with every activity we are involved in, so timeliness is essential. With fresh ideas and engaging, perhaps interactive, content, we can literally make a difference in the lives of our'
 authors:
   - kyle-s-richardson
-categories:
+topics:
   - Content
   - Managing Digital
   - Social Media
   - strategy-and-policy
-tag:
   - Commerce
   - content
   - content strategy

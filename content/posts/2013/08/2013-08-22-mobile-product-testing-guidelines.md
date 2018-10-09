@@ -5,10 +5,9 @@ title: Mobile Product Testing Guidelines and Resources
 summary: You have started developing your mobile product, but you may be wondering what and how to test. As with any form of software development, mobile testing should be done intermittently throughout all development stages. This article was developed as part of the Mobile Application Development Program to provide agencies with some general testing strategies, types,
 authors:
   - jparcell
-categories:
+topics:
   - Mobile
   - user-testing-and-research
-tag:
   - mobile apps
   - user experience
   - UX

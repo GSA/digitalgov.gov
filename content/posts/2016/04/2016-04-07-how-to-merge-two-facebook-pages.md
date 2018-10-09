@@ -6,10 +6,9 @@ summary: In the next couple of years as new social media platforms emerge and or
 authors:
   - sara-smith
   - janet-linton
-categories:
+topics:
   - Managing Digital
   - Social Media
-tag:
   - National Institutes of Health
   - NIH
 ---

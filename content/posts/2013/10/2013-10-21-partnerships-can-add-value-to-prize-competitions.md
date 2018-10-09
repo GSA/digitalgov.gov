@@ -5,9 +5,8 @@ title: Partnerships Can Add Value to Prize Competitions
 summary: 'The right partner can be the key to a successful challenge competition. If you&#8217;re planning a challenge for your agency, you&#8217;ve probably had to ask: &#8220;Do we have the tools and capabilities to pull off this challenge on our own?&#8221; Why we form partnerships Often times, the answer is, &#8220;no.&#8221; But that shouldn&#8217;t stop you from'
 authors:
   - ktrebon
-categories:
+topics:
   - Challenges
-tag:
   - challenges and prize competitions
   - HUD
   - NASA

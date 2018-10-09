@@ -5,9 +5,8 @@ title: 'Last Chance: Submit Your Summit Idea'
 summary: ' You might remember in the post Crowdsourced Digital Citizen Services Summit we said &#8220;Go to Citizen Services Summit 2015. Go there now!&#8221; Well if you haven&#8217;t yet, there is still time to go there and propose a session, idea, or speaker. Anyone'
 authors:
   - apiazza
-categories:
+topics:
   - Our Work
-tag:
   - DGU
   - DigitalGov Summit
 ---

@@ -5,12 +5,11 @@ title: Opening Government Through Federal Crowdsourcing
 summary: Crowdsourcing is a critical corner of the digital government landscape, and our December theme articles have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming trends on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives
 authors:
   - awichman
-categories:
+topics:
   - Challenges
   - Communities
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
   - AoI
   - Challenges and Prizes Community of Practice
   - citizen science

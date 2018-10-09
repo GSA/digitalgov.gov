@@ -6,11 +6,10 @@ summary: 'Design research isn’t rocket science. But for many of us in the fede
 authors:
   - sarah-brooks
   - mollie-ruskin
-categories:
+topics:
   - Managing Digital
   - Monthly Theme
   - UX
-tag:
   - Customer Experience
   - customer satisfaction
   - customer service

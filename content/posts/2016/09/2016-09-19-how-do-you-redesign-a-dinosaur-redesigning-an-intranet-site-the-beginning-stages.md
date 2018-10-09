@@ -5,7 +5,7 @@ title: 'How Do You Redesign a ‘Dinosaur’? Redesigning an Intranet Site: the 
 summary: 'Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. Indeed, it’s our job to nurture this ongoing process to create, update, test, update again. And, repeat! But, what about those sites or pages that seem to never crawl up to the &lsquo;high-priority’ list and'
 authors:
   - karla-blaine
-categories:
+topics:
   - Accessibility
   - Content
   - Data
@@ -14,7 +14,6 @@ categories:
   - strategy-and-policy
   - user-testing-and-research
   - UX
-tag:
   - content
   - content strategy
   - Customer Experience

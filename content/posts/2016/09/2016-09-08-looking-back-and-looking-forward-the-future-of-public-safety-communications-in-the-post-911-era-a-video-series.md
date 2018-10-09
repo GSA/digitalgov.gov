@@ -5,9 +5,8 @@ title: 'Looking Back and Looking Forward: the Future of Public Safety Communicat
 summary: 'The week before Patriot Day, our nation’s annual remembrance of the 9/11 attacks, first responders share their remembrances and vision for the future of public safety communications in this video series. This week, we’ll hear from: Mike Worrell, Senior Fire Advisor, FirstNet Chad Weber, Public Information Officer, Florida Wildlife Conservation, Northeast Region Mike Duyck, Fire'
 authors:
   - firstnet-communications
-categories:
+topics:
   - Data
-tag:
   - data
   - FirstNet
   - innovation

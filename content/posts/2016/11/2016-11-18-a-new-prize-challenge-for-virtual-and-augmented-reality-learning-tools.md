@@ -6,10 +6,9 @@ summary: 'Summary: The Administration has launched a new competition for virtual
 authors:
   - erik-martin
   - albert-palacios
-categories:
+topics:
   - Challenges
   - Mobile
-tag:
   - apps challenges
   - Augmented Reality
   - challenges and prize competitions

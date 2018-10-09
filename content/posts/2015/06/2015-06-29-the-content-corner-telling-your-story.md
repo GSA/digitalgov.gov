@@ -5,9 +5,8 @@ title: 'The Content Corner: Telling Your Story'
 summary: 'Storytelling plays an important role in helping to establish the human connection that is often lost in today’s digital deluge of information, shares and tweets. A large amount of the content we consume today is derivative, second-hand, and generally passes through us like a breeze. But by using a method of sharing content that is as'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - The Content Corner
   - US Department of Labor

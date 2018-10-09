@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: People Over 55 Soon to Be Mobile-Majority Users'
 summary: 'In July, comScore released a research paper, The Global Mobile Report: How Multi-Platform Audiences & Engagement Compare in the U.S., Canada, UK and Beyond, covering a lot of areas from smartphone penetration to Android vs. Apple preferences.'
 authors:
   - wsullivan
-categories:
+topics:
   - Mobile
-tag:
   - mobile
   - Mobile UX Guideline 5
   - mobile-first

@@ -6,10 +6,9 @@ summary: 'You&#8217;ve just found a great open source fed agency app on the Mobi
 authors:
   - jparcell
   - michael-pulsifer
-categories:
+topics:
   - Code
   - Mobile
-tag:
   - DOL
   - mobile apps
   - Mobile Code Catalog

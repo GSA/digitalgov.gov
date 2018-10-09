@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Top Smartphones on the Market'
 summary: 'ComScore recently released key trends in the United States&#8217; smartphone industry for three months (February-May) with Apple ranked as the top smartphone manufacturer and Android as the top smartphone platform. During the three months, 141 million people owned smartphones. Top Smartphone Original Equipment Manufacturers'
 authors:
   - rachel-hurley
-categories:
+topics:
   - Mobile
-tag:
   - mobile
   - Trends on Tuesday
 ---

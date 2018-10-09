@@ -6,9 +6,8 @@ summary: 'Summer is here, which means it is time for the biggest holiday of the 
 authors:
   - kdaniel
   - awichman
-categories:
+topics:
   - Mobile
-tag:
   - ABMC
   - American Battle Monuments Commission
   - mobile

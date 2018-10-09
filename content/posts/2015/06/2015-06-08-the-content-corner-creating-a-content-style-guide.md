@@ -5,9 +5,8 @@ title: 'The Content Corner: Creating a Content Style Guide'
 summary: One of the more commonly overlooked pieces of any effective content strategy is a content style guide. Many times, content contribution takes place without even being aware of the need for a style guide, while other times a content style guide is considered something only used by print editors and publishers. Stalwarts like the AP
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
-tag:
   - Administrative Office of the United States Courts
   - content strategy
   - The Content Corner

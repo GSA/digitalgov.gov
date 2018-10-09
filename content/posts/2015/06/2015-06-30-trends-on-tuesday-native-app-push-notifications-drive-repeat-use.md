@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Native App Push Notifications Drive Repeat Use'
 summary: ' Analytics company, Localytics, released a new report about mobile app retention rates from the past 4 years that agencies should heed when considering their needs for building native mobile apps, compared to mobile-friendly'
 authors:
   - wsullivan
-categories:
+topics:
   - Mobile
-tag:
   - 18F
   - ios
   - Mobile UX Guideline 3

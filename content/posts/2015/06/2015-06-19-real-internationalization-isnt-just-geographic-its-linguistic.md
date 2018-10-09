@@ -8,10 +8,9 @@ authors:
   - lmartinez
   - victoria-wales
   - edgardo-morales
-categories:
+topics:
   - Monthly Theme
   - Social Media
-tag:
   - GobiernoUSAgov
   - HHS
   - multilingual

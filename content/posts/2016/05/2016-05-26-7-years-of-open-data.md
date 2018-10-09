@@ -5,9 +5,8 @@ title: 7 Years of Open Data
 summary: 'In its seventh year as home to the U.S. Government’s open data, Data.gov continues to serve millions of people worldwide, from researchers and civic hackers, to businesses and citizens. These users have created apps, launched new products and services, and have improved transparency and openness, making the U.S. Government more accountable and responsive to the'
 authors:
   - data-gov-team
-categories:
+topics:
   - Data
-tag:
   - data.gov
   - DOL
   - open data

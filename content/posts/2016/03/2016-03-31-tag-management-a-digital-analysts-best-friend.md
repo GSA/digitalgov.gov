@@ -5,11 +5,10 @@ title: 'Tag Management: A Digital Analyst&#8217;s Best Friend'
 summary: 'Tag managers can assist in collecting valuable data about visits to your website. Here at CFPB, we use Google Tag Manager (GTM), which is a free tool that works in tandem with Google Analytics to record and send data on how users interact with your website on an aggregate level, including which pages they view, where they'
 authors:
   - cfpb-digital-analytics-team
-categories:
+topics:
   - Code
   - Data
   - Monthly Theme
-tag:
   - analytics
   - CFPB
   - Consumer Financial Protection Bureau

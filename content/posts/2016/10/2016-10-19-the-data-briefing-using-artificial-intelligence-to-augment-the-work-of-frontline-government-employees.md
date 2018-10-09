@@ -5,10 +5,9 @@ title: 'The Data Briefing: Using Artificial Intelligence to Augment the Work of 
 summary: 'You have probably read about the recent release of the White House’s report on using artificial intelligence (AI). As with previous technologies, AI holds much promise in the areas of education, commerce, criminal justice, the environment&mdash;almost all aspects of the American public’s life. AI also poses a danger if it is not properly managed and'
 authors:
   - bbrantley
-categories:
+topics:
   - Managing Digital
   - strategy-and-policy
-tag:
   - AI
   - artificial intelligence
   - chatbots

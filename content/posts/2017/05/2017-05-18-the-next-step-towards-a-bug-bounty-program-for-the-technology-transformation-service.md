@@ -8,7 +8,7 @@ authors:
   - eric-mill
   - omid-ghaffari-tabrizi
   - waldo-jaquith
-categories:
+topics:
   - Managing Digital
   - strategy-and-policy
   - 18F

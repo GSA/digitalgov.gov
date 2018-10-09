@@ -5,7 +5,7 @@ title: 'The Data Briefing: the Promise &#8211; and Perils &#8211; of Artificial 
 summary: 'The first chatbot, ELIZA, was created back in 1964 to demonstrate that communication between humans and computers would be superficial. However, much to Dr. Weizenbaum’s (ELIZA’a creator) surprise, people easily formed friendly relationships with the computer program. People forming relationships with ELIZA was especially surprising considering just how simple the program was regarding generating conversational'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Mobile
   - AI

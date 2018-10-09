@@ -5,10 +5,9 @@ title: 'The Data Briefing: It Takes an Online Community to Digitally Transform a
 summary: 'The open source movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name &mdash; crowdsourcing. Crowdsourcing is a powerful tool and is now being used to help'
 authors:
   - bbrantley
-categories:
+topics:
   - Challenges
   - crowdsourcing-and-citizen-science
-tag:
   - challenges and prize competitions
   - crowdsourcing
   - The Data Briefing

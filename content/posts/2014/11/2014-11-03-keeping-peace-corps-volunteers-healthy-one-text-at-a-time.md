@@ -6,10 +6,9 @@ summary: ' Today, refilling your medicine cabinet with bandages and over the cou
 authors:
   - brian-forde
   - carrie-hessler-radelet
-categories:
+topics:
   - API
   - Mobile
-tag:
   - Digital Services Playbook
   - GitHub
   - Mobile UX Guideline 5

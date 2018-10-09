@@ -5,7 +5,7 @@ title: Overcoming Barriers—DigitalGov Summit Recap
 summary: As government innovators, we work to improve public services every day. In essence we are already in a public private partnership. But how can your agency capitalize on existing public private partnerships to engage citizens and enhance services? Four panelists from across government shared their public private partnerships success stories at the DigitalGov Citizen Services
 authors:
   - allison-alexander
-categories:
+topics:
   - Challenges
   - Code
   - Content
@@ -14,7 +14,6 @@ categories:
   - Mobile
   - Social Media
   - UX
-tag:
   - ChallengeGov
   - data.gov
   - DOL

@@ -9,10 +9,9 @@ authors:
   - eric-mill
   - julia-winn
   - gabriel-ramirez
-categories:
+topics:
   - Data
   - Metrics
-tag:
   - 18F
   - analytics
   - data

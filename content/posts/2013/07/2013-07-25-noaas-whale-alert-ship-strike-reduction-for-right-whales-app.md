@@ -5,9 +5,8 @@ title: 'NOAA&#8217;s Whale Alert – Ship Strike Reduction for Right Whales App'
 summary: Mariners now have an anytime, anywhere resource to aid in the
 authors:
   - brandon-barr
-categories:
+topics:
   - Mobile
-tag:
   - mobile apps
   - National Oceanic and Atmospheric Administration
   - Thursday Mobile Products

@@ -5,10 +5,9 @@ title: Good Content Needs Plain Language
 summary: 'If good content is essential to good user experience, as Tyrus Manuel proposes in his November 23, 2015, DigitalGov post, then plain language is also part of good user experience. Plain language helps the public do what they need to do&mdash;find forms, apply for benefits, look up information and more&mdash;when they use federal websites and other'
 authors:
   - cynthia-baur
-categories:
+topics:
   - Content
   - Writing
-tag:
   - 18F
   - CDC
   - Centers for Disease Control and Prevention

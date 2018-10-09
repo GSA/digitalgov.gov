@@ -5,10 +5,9 @@ title: GitHub for Government Recap
 summary: 'As the definition of &ldquo;developer&rdquo; has grown and expanded, GitHub has become a place where anyone can do simple collaboration. It’s a free social network that tracks changes to any data, not just code, where stakeholders and developers can work on the same data simultaneously. Project Open Data, a cross-agency initiative developed by the White House,'
 authors:
   - andreanocesigritz
-categories:
+topics:
   - Code
   - Data
-tag:
   - CFPB
   - GitHub
   - open data

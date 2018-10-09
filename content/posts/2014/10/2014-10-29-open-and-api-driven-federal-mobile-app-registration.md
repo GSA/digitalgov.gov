@@ -5,12 +5,11 @@ title: Open and API-Driven Federal Mobile App Registration
 summary: ' Thanks to the power of open data and APIs, federal agencies can now register their mobile native apps and websites on the Federal Mobile Products Registry and have them appear on the USA.gov Federal Mobile Apps Directory (formerly USA.gov Apps Gallery) almost immediately. When we launched the USA.gov Apps Gallery'
 authors:
   - jparcell
-categories:
+topics:
   - API
   - Communities
   - Mobile
   - Monthly Theme
-tag:
   - AoI
   - Federal Mobile Products Registry
   - Mobile UX Guideline 4

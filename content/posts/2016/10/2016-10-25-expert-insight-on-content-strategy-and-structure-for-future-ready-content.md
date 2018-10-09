@@ -5,11 +5,10 @@ title: Expert Insight on Content Strategy and Structure for Future-Ready Content
 summary: 'We recently interviewed Sara Wachter-Boettcher, author of Content Everywhere: Strategy and Structure for Future-Ready Content. Sara, a frequent conference speaker, runs a content strategy consultancy, and is the co-author of Design for Real Life. She has extensive experience consulting with major brands, universities, agencies, nonprofits, and others to make their content more memorable, manageable, and'
 authors:
   - christen-geiler
-categories:
+topics:
   - Content
   - Managing Digital
   - strategy-and-policy
-tag:
   - content
   - content models
   - content strategy

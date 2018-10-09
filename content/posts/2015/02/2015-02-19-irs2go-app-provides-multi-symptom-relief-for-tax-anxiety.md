@@ -5,9 +5,8 @@ title: IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety
 summary: 'The digital equivalent of a cool rag and a spoonful of Pepto Bismol, the Internal Revenue Service updated their IRS2Go app to provide multi-symptom relief for tax anxiety this year. IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you’re'
 authors:
   - kdowney
-categories:
+topics:
   - Mobile
-tag:
   - Federal Mobile Products Registry
   - ICE
   - Internal Revenue Service

@@ -5,9 +5,8 @@ title: Booking a Discount Bus Ticket? Check Carrier Safety Records with QCMobile
 summary: 'The new app from the Department of Transportation’s Federal Motor Carrier Safety Administration called &ldquo;QCMobile&rdquo; empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&#8217;s mobile strategy, as they have also recently released the SaferRide app. QCMobile (QC stands'
 authors:
   - kdowney
-categories:
+topics:
   - Mobile
-tag:
   - DOT
   - mobile
   - mobile apps

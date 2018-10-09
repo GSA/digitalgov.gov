@@ -5,10 +5,9 @@ title: 'Our Customer is Your Customer: Working Together to Improve Search on .Go
 summary: 'We know search engines aren’t Magic 8 Balls, but that&#8217;s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we&#8217;ve felt that frustration when the top search results don&#8217;t serve our needs, and the results page itself makes us work.'
 authors:
   - dmccleskey
-categories:
+topics:
   - Monthly Theme
   - Our Work
-tag:
   - Customer Experience
   - customer satisfaction
   - customer service

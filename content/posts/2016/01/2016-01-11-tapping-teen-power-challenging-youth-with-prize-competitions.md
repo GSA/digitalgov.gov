@@ -5,9 +5,8 @@ title: Tapping ‘Teen Power’—Challenging Youth with Prize Competitions
 summary: 'Sometimes in crowdsourcing, you want to take your problem straight to a specific crowd. And sometimes that crowd is still in school. Challenge.gov has seen many federal agencies launch prize competitions to educate and engage high school students. These include a NASA challenge that asked students to develop devices that could protect astronauts from radiation during space flight.'
 authors:
   - eric-beidel
-categories:
+topics:
   - Challenges
-tag:
   - apps challenges
   - ChallengeGov
   - challenges and prize competitions

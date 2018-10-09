@@ -5,11 +5,10 @@ title: 'FDA&#8217;s &#8220;The Real Cost&#8221;: A Tumblr Success Story'
 summary: 'FDA’s &ldquo;The Real Cost&rdquo; campaign aims to be edgy, just like its teen audience. Last month, the campaign won the 2016 Shorty Award for the Best Overall Tumblr Presence. &ldquo;The Real Cost&rdquo; educates youth ages 12 to 17 about the harmful effects of tobacco use.'
 authors:
   - stacey-palosky
-categories:
+topics:
   - Content
   - Managing Digital
   - Social Media
-tag:
   - social media
 ---
 

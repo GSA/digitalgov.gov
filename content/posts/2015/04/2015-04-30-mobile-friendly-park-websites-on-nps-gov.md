@@ -5,9 +5,8 @@ title: Mobile-Friendly Park Websites on NPS.gov
 summary: Park websites on NPS.gov from A (Acadia) to Z (Zion) are now mobile-friendly. Visitors using phones and tablets to visit national park websites now have a user-friendly experience to enhance their virtual visits. Previously, visitors using mobile devices saw a smaller version of the website scaled to
 authors:
   - todd-edgar
-categories:
+topics:
   - Mobile
-tag:
   - analytics
   - Content Management System
   - Mobile UX Guideline 1

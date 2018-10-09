@@ -5,10 +5,9 @@ title: Data, Code, and API Event Round Up
 summary: ' DigitalGov University has hosted some great events over the last year in partnership with Data.gov, the MobileGov Community and 18F to bring you information on opening data and building APIs. This month we’ve rounded up the events over the past year so that you can see what’s'
 authors:
   - apiazza
-categories:
+topics:
   - Monthly Theme
   - Our Work
-tag:
   - 18F
   - API
   - CFPB

@@ -7,9 +7,8 @@ authors:
   - jeffrey-chen
   - tyrone-grandison
   - kristen-honey
-categories:
+topics:
   - Data
-tag:
   - Census
   - Commerce
   - data.gov

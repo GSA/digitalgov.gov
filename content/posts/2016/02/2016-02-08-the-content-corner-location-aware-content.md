@@ -5,10 +5,9 @@ title: 'The Content Corner: Location-Aware Content'
 summary: 'While January was about looking ahead, February is focused on content and many of the new possibilities and challenges that will face us as content creators over the next year and beyond. At the intersection of these two themes lies the genesis of my topic today: location-aware content. More than a Map One of the'
 authors:
   - tyrus-manuel
-categories:
+topics:
   - Content
   - Monthly Theme
-tag:
   - Administrative Office of the United States Courts
   - content models
   - Federal Emergency Management Agency

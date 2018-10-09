@@ -5,7 +5,7 @@ title: FOIA Best Practices Workshop Continues This Summer
 summary: The Office of Information Policy (OIP) is pleased to announce two new topics and dates for our Best Practices Workshop series as we continue this initiative this summer.
 authors:
   - office-of-information-policy-doj
-categories:
+topics:
   - Governance
   - Managing Digital
   - strategy-and-policy

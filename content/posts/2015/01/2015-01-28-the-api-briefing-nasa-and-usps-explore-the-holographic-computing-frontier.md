@@ -5,9 +5,8 @@ title: 'The API Briefing: NASA and USPS Explore the Holographic Computing Fronti
 summary: 'Big news in the technology world as Microsoft unveiled HoloLens and Microsoft’s use of holographic computing in the upcoming Windows 10 release. Holographic computing or augmented reality uses computer-generated images that are overlaid on real world videos. For example, a user can view a car through their smartphone. An app can project information such as'
 authors:
   - bbrantley
-categories:
+topics:
   - API
-tag:
   - Augmented Reality
   - mobile apps
   - NASA

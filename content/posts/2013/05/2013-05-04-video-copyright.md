@@ -5,7 +5,7 @@ title: 'Video copyright: How to avoid getting sued'
 summary: ' Don&#8217;t include Internet music, video, or graphics in your video unless you understand the copyright. Yes, this is a pain, but companies take copyright very seriously and regularly file both takedown notices and lawsuits against offenders. Numerous laws like the Digital Media Copyright Act (DMCA) discuss in great detail the'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - Content
   - Video
 ---

@@ -5,10 +5,9 @@ title: 'Placeholder Text: Think Outside the Box'
 summary: The verdict is in. Placeholder text is harmful in search boxes. Searchers are on your site to complete a task. Having placeholder text inside a search box distracts from the task and it reduces the usability and accessibility of the search box. Placeholders look simple, but are in fact very tricky to use. When people
 authors:
   - rachel-mundstock
-categories:
+topics:
   - Content
   - Monthly Theme
-tag:
   - social media metrics
 ---
 

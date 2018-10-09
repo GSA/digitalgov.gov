@@ -5,10 +5,9 @@ title: 'Data Innovaton with Census at #HackForChange'
 summary: Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved. Two years ago, the Census Bureau launched its application programming interface (API), giving developers access to a variety of high value data
 authors:
   - logan-powell
-categories:
+topics:
   - Challenges
   - Data
-tag:
   - API
   - Census
   - CFPB

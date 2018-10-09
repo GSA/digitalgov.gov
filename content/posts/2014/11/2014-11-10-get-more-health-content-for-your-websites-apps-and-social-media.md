@@ -5,11 +5,10 @@ title: Get More Health Content for Your Websites, Apps, and Social Media
 summary: 'Several federal agencies and offices have worked together to create a free and easy way for public health partners to incorporate our Web content, images, video, data, and infographics into other sites, apps, and social media. Through digital media syndication, the science-based resources of the Department of Health and Human Services (HHS), Centers for Disease Control and'
 authors:
   - christen-geiler
-categories:
+topics:
   - Content
   - Mobile
   - Video
-tag:
   - CDC
   - Centers for Disease Control and Prevention
   - content syndication
