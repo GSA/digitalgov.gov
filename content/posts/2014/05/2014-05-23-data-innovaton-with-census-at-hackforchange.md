@@ -23,7 +23,7 @@ topics:
   - US Small Business Administration
   - United States Census Bureau
   - USPTO
-  - White House
+  - white-house
 ---
 
 Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved.

@@ -10,8 +10,8 @@ topics:
   - innovation
   - OSTP
   - Twitter
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/10/600-x-300-wh_backtothefutureday_socialgraphic.jpg" alt="White House's Back To The Future Day graphic" >}}

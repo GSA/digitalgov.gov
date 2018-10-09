@@ -15,8 +15,8 @@ topics:
   - crowdsourcing
   - GSA
   - OSTP
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 If federal agencies need an incentive to be more open and innovative in addressing critical issues, they need look no further than [news](https://www.whitehouse.gov/blog/2016/08/10/public-sector-prizes-and-challenges-continue-grow-use-and-sophistication) this week from the White House.

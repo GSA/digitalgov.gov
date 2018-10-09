@@ -18,7 +18,7 @@ topics:
   - mobile
   - open
   - open source
-  - White House
+  - white-house
 ---
 
 ****[Gray Brooks]({{< link "author/gray-brooks" >}}) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)]({{< link "/digitalgov-university/" >}}) presentation, [Introduction to APIs]({{< link "2012-07-26-introduction-to-apis.md" >}}).

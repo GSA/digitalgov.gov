@@ -13,7 +13,7 @@ topics:
   - OPM
   - United States Department of Health and Human Services
   - United States Office of Personnel Management
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Old-and-young-hands-hxdbzxy-iStock-Thinkstock-457342679.jpg" alt="Old and young hands" caption="" >}} 

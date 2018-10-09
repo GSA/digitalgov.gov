@@ -11,7 +11,7 @@ topics:
   - US Department of Agriculture
   - US Department of Education
   - United States Department of Energy
-  - White House
+  - white-house
 ---
 
 The White House launched a [hub for consumer-facing tools](http://www.whitehouse.gov/tools) across the federal government, and they want to feature your agency&#8217;s tools that can help make people&#8217;s lives easier.

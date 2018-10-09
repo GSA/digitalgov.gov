@@ -14,7 +14,7 @@ topics:
   - United States Geological Survey
   - United States Office of Personnel Management
   - USGS
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/10/600-x-304-Blue-water-wave-abstract-background-Avesun-iStock-Thinkstock-177860151.jpg" alt="600-x-304-Blue-water-wave-abstract-background-Avesun-iStock-Thinkstock-177860151" >}}

@@ -61,7 +61,7 @@ topics:
   - United States Geological Survey
   - US Fish and Wildlife Service
   - USGS
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 [{{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-314-White-House-SocialGov-Open.jpg)

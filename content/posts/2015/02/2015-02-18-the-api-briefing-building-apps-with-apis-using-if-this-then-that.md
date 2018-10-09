@@ -11,7 +11,7 @@ topics:
   - Terms of Service
   - US Department of Agriculture
   - USDA
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/02/600-x-464-Two-robots-with-blank-tablet-computers-Kirillm-iStock-Thinkstock-178892148.jpg" alt="Two robots with blank tablet computers" caption="" >}} 

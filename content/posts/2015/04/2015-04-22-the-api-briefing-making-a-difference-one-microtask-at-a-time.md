@@ -25,7 +25,7 @@ topics:
   - United States Department of Energy
   - United States Geological Survey
   - USGS
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 I recently found an app that provides a great service through crowdsourcing. <a href="http://www.bemyeyes.org/" target="_blank">Be My Eyes</a> connects visually-impaired people with volunteers. Using the smartphone’s camera, the volunteers can perform tasks such as reading an expiration date or helping someone navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how crowdsourcing apps can make it easy for everyone to make a difference through microtasks.

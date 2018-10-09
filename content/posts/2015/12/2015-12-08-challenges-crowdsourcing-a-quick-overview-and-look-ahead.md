@@ -26,7 +26,7 @@ topics:
   - OSTP
   - US Environmental Protection Agency
   - US National Park Service
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 This month we’re [highlighting articles about challenge competitions and crowdsourcing]({{< link "categories/monthly-theme" >}}) across the federal government.

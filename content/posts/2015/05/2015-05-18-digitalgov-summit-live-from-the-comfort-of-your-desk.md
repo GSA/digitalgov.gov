@@ -21,7 +21,7 @@ topics:
   - United States Department of Health and Human Services
   - USCIS
   - USDA
-  - White House
+  - white-house
 ---
 
 The DigitalGov platform helps federal agencies meet 21st century digital expectations, and we’ve planned our second [DigitalGov Summit](https://summit.digitalgov.gov) with this mission and your needs in mind. The theme is open and [the agenda](https://summit.digitalgov.gov/agenda/) is packed with presentations about how “opening” data, content, contracts and talent makes digital citizen services better, more effective and even cheaper.

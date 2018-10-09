@@ -11,7 +11,7 @@ topics:
   - Social Media
   - National Institute of Allergy and Infectious Diseases
   - social media
-  - White House
+  - white-house
 ---
 
 {{< legacy-img src="2014/04/250-x-167-2014-Federal-HIV-AIDS-Web-Council-annual-meeting.jpg" alt="The 2014 Federal HIV/AIDS Web Council Meeting" >}}AIDS.gov convenes and is guided by the Federal HIV/AIDS Web Council. The Council includes Web/new media leads, subject matter experts, and communication leads representing HIV programs across the U.S. government. Together we use new media to promote federal programs, policies and resources related to HIV.

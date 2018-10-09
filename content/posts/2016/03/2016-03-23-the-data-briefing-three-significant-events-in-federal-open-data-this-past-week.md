@@ -23,7 +23,7 @@ topics:
   - United States Patent and Trademark Office
   - USPTO
   - VA
-  - White House
+  - white-house
 ---
 
 Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public. {{< legacy-img src="2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}} 

@@ -38,8 +38,8 @@ topics:
   - US Small Business Administration
   - USAID
   - USDA
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 ## Americans Use Public Data to Improve the Lives of Fellow Citizens {{< legacy-img src="2015/03/600-x-387-Digital-Globe-Yakobchuk-iStock-Thinkstock-134133143.jpg" alt="Digital Globe" caption="" >}} 

@@ -20,7 +20,7 @@ topics:
   - United States Patent and Trademark Office
   - USPTO
   - VA
-  - White House
+  - white-house
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Help-Kiketz-iStock-Thinkstock-484208478.jpg" alt="The focus of photo of a page is on the word help." caption="" >}} 

@@ -18,7 +18,7 @@ topics:
   - US General Services Administration
   - Unified Shared Services Management
   - USSM
-  - White House
+  - white-house
 ---
 
 > **Summary**: Today, we’re launching the M3 Framework to provide agencies with leading best practices for mission-support function modernizations and migrations.

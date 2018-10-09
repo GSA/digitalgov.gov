@@ -21,8 +21,8 @@ topics:
   - US National Park Service
   - United States Geological Survey
   - USGS
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Challenges-Prizes-5-year-audience.jpg" alt="Audience at Challenge.gov 5-year anniversary event" >}}

@@ -19,7 +19,7 @@ topics:
   - NSF
   - Recaps
   - United States Department of Housing and Urban Development
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 Got [innovation]({{< link "categories/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!

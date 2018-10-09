@@ -9,7 +9,7 @@ topics:
   - API
   - API
   - NASA
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Asterank-API-April-27th-2070-3D-map-of-significant-asteroids-overlaid-onto-the-orbits-of-Mercury-Venus-Earth-and-Mars.jpg" alt="Asterank API displays three-dimensional map of significant asteroids overlaid onto the orbits of Mercury, Venus, Earth, and Mars, dated April 27, 2070." >}}

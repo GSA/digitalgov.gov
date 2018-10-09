@@ -13,7 +13,7 @@ topics:
   - National Eye Institute
   - OSTP
   - United States Air Force
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="A brainstorming exercise drives the framework for ideation competitions." >}}There is some confusion about how &#8220;ideation&#8221; fits into challenge and prize competitions.

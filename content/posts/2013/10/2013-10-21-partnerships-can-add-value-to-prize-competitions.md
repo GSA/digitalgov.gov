@@ -14,7 +14,7 @@ topics:
   - US Agency for International Development
   - United States Department of Housing and Urban Development
   - USAID
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 The right partner can be the key to a successful challenge competition.

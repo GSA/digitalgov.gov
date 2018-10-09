@@ -11,7 +11,7 @@ topics:
   - data
   - mobile apps
   - open data
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/06/250-x-235-Travel-mobile-apprication-nnnnae-iStock-Thinkstock-473901020-Converted.jpg" alt="Illustration of six travel- and entertainment-related icons with lines connected to a smart phone that reads, One app to rule them all?" caption="" >}} 

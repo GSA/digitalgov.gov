@@ -10,7 +10,7 @@ topics:
   - big data
   - data
   - data-gov
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Server-room-Tomasz-Wyszolmirski-iStock-Thinkstock-178134397.jpg" alt="Server room" caption="" >}} 

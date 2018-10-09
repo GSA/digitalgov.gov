@@ -21,7 +21,7 @@ topics:
   - OSTP
   - US Department of Justice
   - US Environmental Protection Agency
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 There are many ways the public can get information from the federal government. For example, you can check out Data.gov to find scores of datasets and APIs, agency websites for information about their work, or other important information in online FOIA Libraries.

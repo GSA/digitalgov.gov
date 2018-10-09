@@ -26,7 +26,7 @@ topics:
   - open source
   - social media
   - video
-  - White House
+  - white-house
 ---
 
 > _Summary: Take a look at how we plan to preserve and pass on the digital history of the Obama administration._
