@@ -6,12 +6,12 @@ summary: 'Today we’re launching three new initiatives powered by GSA Digital C
 authors:
   - jherman
 topics:
-  - Communities
+  - communities
   - emerging-tech
-  - Managing Digital
-  - Mobile
-  - Our Work
-  - Social Media
+  - managing-digital
+  - mobile
+  - our-work
+  - social-media
   - AI
   - Artificial Intelligence for Citizen Services Community
   - Augmented Reality

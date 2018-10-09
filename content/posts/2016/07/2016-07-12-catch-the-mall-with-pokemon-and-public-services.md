@@ -8,9 +8,9 @@ authors:
   - paul-ollig
 topics:
   - emerging-tech
-  - Mobile
-  - Social Media
-  - UX
+  - mobile
+  - social-media
+  - ux
   - Augmented Reality
   - gamification
   - mobile

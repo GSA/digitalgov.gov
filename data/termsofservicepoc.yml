@@ -29,13 +29,8 @@ cabinet:
     title         :
     agency        : Energy
 
-  - person        : Debra Harris
-    email         : Debra.Harris@hhs.gov
-    title         :
-    agency        : Health & Human Services (HHS)
-
-  - person        : Bill Trefzger
-    email         : william.trefzger@hhs.gov
+  - person        : Stacey Palosky
+    email         : stacey.palosky@hhs.gov
     title         :
     agency        : Health & Human Services (HHS)
 

@@ -43,4 +43,4 @@ GSA’s Emerging Citizen Technology program includes the government-wide support
 
 * * *
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
+_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._

@@ -1,7 +1,7 @@
 ---
-url: /resources/guide-improve-mobile-friendly-websites
+url: /resources/guide-create-mobile-friendly-websites
 date: 2018-09-29 12:30:00 -0500
-title: 'A Guide to Improving Your Mobile-Friendly Website'
+title: 'A Guide to Creating Mobile-Friendly Websites'
 summary: 'Based on a recent six-month study, this guide outlines the top five practices needed to improve the mobile-friendliness of federal websites&#58; the optimization of JavaScript, CSS, and images, caching, and pop-ups&#46;'
 featured_image:
   uid: army-mobile
@@ -10,21 +10,19 @@ deck: Five tactics for improving the performance of your website
 
 ---
 
+> This guide was created by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration
+
 JavaScript usage, CSS usage, image and resource sizing, caching/network usage, and pop-ups. These are the top practices that the most visited government websites should focus on in order to be more mobile-friendly. But how can you work on each of these areas to help ensure your website keeps mobile users delighted and coming back?
 
-For six months, from September 22, 2017 to March 22, 2018, we tested the 26 U.S. federal government websites most visited by mobile devices (smartphones and tablets) using seven mobile-friendly automated test tools. The results indicated that these were the common practices that make these sites not as mobile-friendly as a user might expect or want in a mobile experience. Most of these areas do not directly relate to usability issues, but instead, concern how the site is built (which can lead to poor performance). For more information on how we conducted the tests, see the Methodology section below.
+For six months, from September 22, 2017 to March 22, 2018, the [Federal Crowdsource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/) tested the 26 U.S. federal government websites most visited by mobile devices (smartphones and tablets) using seven mobile-friendly automated test tools. The results indicated that these were the common practices that make these sites not as mobile-friendly as a user might expect or want in a mobile experience. Most of these areas do not directly relate to usability issues, but instead, concern how the site is built (which can lead to poor performance). For more information on how we conducted the tests, see the Methodology section below.
 
-The information here outlines the top five practices we found across these sites. The most common issue found on these sites involves the use of JavaScript. JavaScript is used on many desktop and mobile applications because it extends the functionality of web pages, is a relatively easy language to learn and use, and it executes relatively quickly on the client side. However, if JavaScript is not placed and executed from an optimal place in the code, not minimized, nor used inline, it may negatively affect the application performance on mobile devices that traditionally have minimal resources.
-
-Keep in mind, if a website is developed using a content management system (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code.
+The information here outlines the top five practices we found across these sites. Keep in mind, if a website is developed using a content management system (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code.
 
 {{< img src="army-mobile" >}}
 
-## Optimize JavaScript
+## 1. Optimize JavaScript
 
 The most common issue found is JavaScript use. JavaScript is used on many desktop and mobile applications because it extends the functionality of web pages, is a relatively easy language to learn and use, and it executes relatively quickly on the client side. However, if JavaScript is not placed and executed from an optimal place in the code, not minimized, nor used inline, it may negatively affect the application performance on mobile devices that traditionally have minimal resources.
-
-Keep in mind, if a website is developed using a Content Management System (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code.
 
 ### JavaScript Placement
 
@@ -70,7 +68,7 @@ Scripts with the `defer` attribute are executed in order (i.e., first script one
 
 - JavaScript: Advantages and Disadvantages http://www.jscripters.com/javascript-advantages-and-disadvantages/
 
-## Optimize CSS
+## 2. Optimize CSS
 
 Cascading Style Sheets (CSS) describe how HTML elements are to be displayed on screen, can save a lot of work, and can control the layout of multiple web pages simultaneously.
 
@@ -119,7 +117,7 @@ However, CSS can increase application load time if absolute dimensions and posit
 
 - What is CSS? | [https://www.w3schools.com/css/css_intro.asp](https://www.w3schools.com/css/css_intro.asp)
 
-## Optimize Images
+## 3. Optimize Images
 
 Page weight, also known as "the gravity of the web," decreases your application performance by increasing load time and reducing network data usage. Understanding page weight, resource compression, optimization of images, and image dimensions is critical to a successful web strategy.
 
@@ -177,7 +175,7 @@ If no dimensions are specified in the containing document, or if the dimensions 
 - Fixit – Specify Image Sizes | https://mobiforge.com/design-development/fixit-specify-image-sizes
 - Specify Image Dimensions | https://gtmetrix.com/specify-image-dimensions.html
 
-## Utilize Caching
+## 4. Utilize Caching
 
 Reducing the number of times your application requests and processes resources will improve your load time and reduce network data usage. You can do this in two ways: local caching or minimizing the use of external scripts and objects.
 
@@ -211,7 +209,7 @@ Cache-Control: max-age=2592000, public
 - How to Reduce HTTP requests to Speed Up Your WordPress Site | [https://yoast.com/reduce-http-requests-wordpress/](https://yoast.com/reduce-http-requests-wordpress/)
 - Easy Steps to Improve Page Load Times | [http://www.peachpit.com/articles/article.aspx?p=1431494&seqNum=5](http://www.peachpit.com/articles/article.aspx?p=1431494&seqNum=5)
 
-## Avoid Pop-ups
+## 5. Avoid Pop-ups
 
 The use of pop-ups is not necessarily bad on a desktop application. However, if the application uses responsive design or is used on a mobile application, pop-ups often obstruct and hurt the user experience. They draw the user's attention away from the page to the pop-up, and the novice user quickly becomes confused and frustrated.
 
@@ -245,8 +243,6 @@ We used the following steps to conduct this study:
    - Gtmetrix - [https://gtmetrix.com/](https://gtmetrix.com/)
 3. After looking at the failed criteria reported by each tool, we compiled the results into a single Microsoft Excel spreadsheet.
 4. We grouped the issues that we found on 15 or more sites into the five categories covered in this guide, which are listed in order of most occurrences (JavaScript) to least occurrences (pop-ups).
-
-> This guide was prepared by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration
 
 ---
 
