@@ -9,7 +9,7 @@ topics:
   - content
   - Our Work
   - social-media
-  - Instagram
+  - instagram
   - open government
   - USAgov
 ---

@@ -23,7 +23,7 @@ topics:
   - DGU
   - digitalgov-university
   - GSA
-  - NASA
+  - nasa
   - National Museum of African American History and Culture
   - NMAAHC
   - Peace Corps

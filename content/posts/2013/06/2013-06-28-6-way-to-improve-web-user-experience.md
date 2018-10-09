@@ -6,7 +6,7 @@ summary: 'If you want a better user experience on your government website, there
 authors:
   - jonathan-rubin
 topics:
-  - Communities
+  - communities
   - ux
   - AoI
   - user-experience

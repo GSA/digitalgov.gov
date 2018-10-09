@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Challenges
+  - challenges
   - Data
   - app
   - apps

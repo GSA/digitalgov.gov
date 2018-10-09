@@ -6,7 +6,7 @@ summary: 'Behind every great innovation is a team. And behind successful innovat
 authors:
   - awichman
 topics:
-  - Challenges
+  - challenges
   - challenges and prize competitions
   - data
   - DOE

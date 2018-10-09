@@ -6,7 +6,7 @@ summary: 'How do you find participants for your usability studies? I spoke recen
 authors:
   - jean-fox
 topics:
-  - Communities
+  - communities
   - user-testing-and-research
   - AoI
   - BLS

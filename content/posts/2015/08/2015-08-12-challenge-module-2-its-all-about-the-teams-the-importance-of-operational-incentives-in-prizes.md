@@ -6,9 +6,9 @@ summary: ' A strong incentive is the lifeblood of solving any challenge. That’
 authors:
   - judy-romano
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
-  - NASA
+  - nasa
   - Recaps
 ---
 

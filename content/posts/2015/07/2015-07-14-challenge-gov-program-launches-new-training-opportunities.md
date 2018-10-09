@@ -6,8 +6,8 @@ summary: ' Seven new training modules aim to help Federal Challenge and Prize Co
 authors:
   - judy-romano
 topics:
-  - Challenges
-  - Challenges and Prizes Community of Practice
+  - challenges
+  - challenges-and-prizes-community-of-practice
   - DGU
 ---
 

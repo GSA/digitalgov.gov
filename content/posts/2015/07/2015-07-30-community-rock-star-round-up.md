@@ -6,7 +6,7 @@ summary: 'Around this month&#8217;s Communities Theme, the DigitalGov team thoug
 authors:
   - apiazza
 topics:
-  - Communities
+  - communities
   - Monthly Theme
   - 18f
   - Customer Experience Community of Practice

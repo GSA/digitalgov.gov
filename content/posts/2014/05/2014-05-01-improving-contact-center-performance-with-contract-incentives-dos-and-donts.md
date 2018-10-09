@@ -6,7 +6,7 @@ summary: '&ldquo;In business, words are words, explanations are explanations, pr
 authors:
   - carolyn-kaleel
 topics:
-  - Communities
+  - communities
   - managing-digital
   - Monthly Theme
   - Our Work

@@ -6,7 +6,7 @@ summary: 'Digital communities of practice come in many stripes. DigitalGov commu
 authors:
   - awichman
 topics:
-  - Communities
+  - communities
   - Monthly Theme
   - 18f
   - api

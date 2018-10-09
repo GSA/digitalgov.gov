@@ -6,7 +6,7 @@ summary: Do you want to build an application, product or business that uses Cens
 authors:
   - logan-powell
 topics:
-  - Challenges
+  - challenges
   - Data
   - api
   - Census

@@ -6,10 +6,10 @@ summary: 'The right partner can be the key to a successful challenge competition
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - challenges and prize competitions
   - HUD
-  - NASA
+  - nasa
   - OSTP
   - US Agency for International Development
   - United States Department of Housing and Urban Development

@@ -7,7 +7,7 @@ authors:
   - angela-hooker
 topics:
   - accessibility
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
   - accessibility

@@ -6,7 +6,7 @@ summary: 'A well-developed communications plan is critical to the success of a c
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - challenges and prize competitions
   - Recaps
   - US Agency for International Development

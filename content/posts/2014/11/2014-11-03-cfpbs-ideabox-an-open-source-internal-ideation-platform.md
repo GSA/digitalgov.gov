@@ -6,11 +6,11 @@ summary: 'IdeaBox is an application that helps an organization collect ideas, or
 authors:
   - monte-desai
 topics:
-  - Challenges
+  - challenges
   - CFPB
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - Consumer Financial Protection Bureau
   - innovation
   - Recaps

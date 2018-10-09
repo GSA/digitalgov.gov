@@ -6,11 +6,11 @@ summary: 'Challenge competitions were recently highlighted as two potential solu
 authors:
   - tammi-marcoullier
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
-  - NASA
+  - challenges-and-prizes-community-of-practice
+  - nasa
   - US Agency for International Development
   - USAID
 ---

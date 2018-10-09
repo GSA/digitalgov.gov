@@ -13,8 +13,8 @@ topics:
   - EPA
   - Facebook
   - GSA
-  - Instagram
-  - NASA
+  - instagram
+  - nasa
   - National Institutes of Health
   - National Zoological Park
   - NDU

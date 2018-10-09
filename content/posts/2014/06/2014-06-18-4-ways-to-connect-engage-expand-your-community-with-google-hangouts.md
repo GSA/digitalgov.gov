@@ -7,7 +7,7 @@ authors:
   - erika-brown
 topics:
   - social-media
-  - NASA
+  - nasa
   - Peace Corps
   - YouTube
 ---

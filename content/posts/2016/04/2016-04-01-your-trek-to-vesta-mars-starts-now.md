@@ -7,7 +7,7 @@ authors:
   - jason-duley
 topics:
   - api
-  - Challenges
+  - challenges
   - code
   - Data
   - Monthly Theme
@@ -15,7 +15,7 @@ topics:
   - apps challenges
   - data
   - innovation
-  - NASA
+  - nasa
   - open data
 ---
 

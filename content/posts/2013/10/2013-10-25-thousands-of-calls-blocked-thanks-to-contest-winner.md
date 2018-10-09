@@ -6,7 +6,7 @@ summary: Technology to block robocalls is a huge win for consumers and for chall
 authors:
   - tammi-marcoullier
 topics:
-  - Challenges
+  - challenges
   - challenges and prize competitions
   - FTC
 ---

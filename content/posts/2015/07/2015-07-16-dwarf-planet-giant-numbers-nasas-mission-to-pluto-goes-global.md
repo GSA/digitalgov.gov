@@ -10,7 +10,7 @@ topics:
   - analytics
   - DAP
   - Digital Analytics Program
-  - NASA
+  - nasa
 ---
 
 {{< legacy-img src="2015/07/600-x-428-Pluto-equator-mountains-credit-NASA-JHU-APL-SwRI15-152.jpg" alt="600-x-428-Pluto-equator-mountains-credit-NASA-JHU-APL-SwRI15-152" >}}

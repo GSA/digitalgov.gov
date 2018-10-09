@@ -6,9 +6,9 @@ summary: It may seem like issuing an open challenge to the American public is a 
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Mentor-On-Blackboard-frankwolffnl-iStock-Thinkstock-476483392.jpg" alt="The words Improve, Success, Training, Motivate, Work, and Inspire intersect the word Mentor on a blackboard." caption="" >}} 

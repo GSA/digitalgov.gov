@@ -6,13 +6,13 @@ summary: 'This month we&#8217;ll be highlighting articles about crowdsourcing. T
 authors:
   - tammi-marcoullier
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
   - CFPB
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - Consumer Financial Protection Bureau
@@ -28,7 +28,7 @@ topics:
   - FTC
   - HHS
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - national science foundation
   - NSF

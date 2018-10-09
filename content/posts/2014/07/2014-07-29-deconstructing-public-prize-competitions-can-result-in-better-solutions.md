@@ -6,10 +6,10 @@ summary: 'When faced with a big, daunting problem to solve, it’s human nature 
 authors:
   - tlowden
 topics:
-  - Challenges
+  - challenges
   - Centers for Medicare and Medicaid Services
   - challenge-gov
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - CMS
   - DGU
   - HHS

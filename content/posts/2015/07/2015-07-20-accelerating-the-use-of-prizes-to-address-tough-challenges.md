@@ -7,7 +7,7 @@ authors:
   - tom-kalil
   - jenn-gustetic
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
   - challenges and prize competitions
 ---

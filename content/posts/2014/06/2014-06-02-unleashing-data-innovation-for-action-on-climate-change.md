@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - data-gov
-  - NASA
+  - nasa
   - open data
 ---
 

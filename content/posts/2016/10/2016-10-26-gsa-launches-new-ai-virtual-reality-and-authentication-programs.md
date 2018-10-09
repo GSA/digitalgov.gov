@@ -14,7 +14,7 @@ topics:
   - social-media
   - ai
   - artificial-intelligence-for-citizen-services-community
-  - Augmented Reality
+  - augmented-reality
   - communities
   - innovation
   - multilingual

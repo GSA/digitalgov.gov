@@ -6,7 +6,7 @@ summary: 'You&#8217;ve run a challenge and prize competition, selected your winn
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - apps challenges
   - challenge-gov
   - challenges and prize competitions

@@ -8,7 +8,7 @@ authors:
 topics:
   - Monthly Theme
   - social-media
-  - Instagram
+  - instagram
   - NPS
   - social media
   - Twitter

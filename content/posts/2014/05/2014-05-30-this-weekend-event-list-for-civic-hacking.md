@@ -6,7 +6,7 @@ summary: 'Our fabulous colleague Jeanne Holm is ready for the #hackforchange eve
 authors:
   - tammi-marcoullier
 topics:
-  - Challenges
+  - challenges
   - Data
   - Census
   - CFPB
@@ -22,7 +22,7 @@ topics:
   - HHS
   - HUD
   - IMLS
-  - NASA
+  - nasa
   - National Day of Civic Hacking
   - National Institutes of Health
   - National Oceanic and Atmospheric Administration

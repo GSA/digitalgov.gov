@@ -7,9 +7,9 @@ authors:
   - bbrantley
 topics:
   - api
-  - Augmented Reality
+  - augmented-reality
   - mobile-apps
-  - NASA
+  - nasa
   - National Oceanic and Atmospheric Administration
   - NOAA
   - US Department of Agriculture

@@ -9,7 +9,7 @@ topics:
   - api
   - Data
   - api
-  - Augmented Reality
+  - augmented-reality
   - chatbots
   - Customer Experience
   - customer service

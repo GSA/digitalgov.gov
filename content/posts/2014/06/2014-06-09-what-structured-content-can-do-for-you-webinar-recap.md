@@ -7,7 +7,7 @@ authors:
   - kristen-onell
 topics:
   - api
-  - Communities
+  - communities
   - content
   - AoI
   - api

@@ -6,7 +6,7 @@ summary: 'Being able to design a website that users love is not too far away fro
 authors:
   - joel-virothaisakun
 topics:
-  - Communities
+  - communities
   - design
   - user-testing-and-research
   - ux

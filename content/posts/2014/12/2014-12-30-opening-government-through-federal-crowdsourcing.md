@@ -6,19 +6,19 @@ summary: Crowdsourcing is a critical corner of the digital government landscape,
 authors:
   - awichman
 topics:
-  - Challenges
-  - Communities
+  - challenges
+  - communities
   - crowdsourcing-and-citizen-science
   - Monthly Theme
   - AoI
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - Consumer Product Safety Commission
   - crowdsourcing
   - FCPCCS
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - OSTP
   - white-house-office-of-science-and-technology-policy

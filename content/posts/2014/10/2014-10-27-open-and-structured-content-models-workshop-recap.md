@@ -14,7 +14,7 @@ topics:
   - HHS
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
-  - NASA
+  - nasa
   - National Cancer Institute
   - NCI
   - open and structured content models

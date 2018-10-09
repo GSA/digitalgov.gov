@@ -6,7 +6,7 @@ summary: '&ldquo;User Experience&rdquo; and &ldquo;Customer Experience.&rdquo; T
 authors:
   - tlowden
 topics:
-  - Communities
+  - communities
   - Monthly Theme
   - ux
   - AoI

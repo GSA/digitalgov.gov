@@ -6,7 +6,7 @@ summary: '&#8220;I tell the interns: In this lab, we&#8217;re all about failure.
 authors:
   - tammi-marcoullier
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - challenge-gov
   - citizen science

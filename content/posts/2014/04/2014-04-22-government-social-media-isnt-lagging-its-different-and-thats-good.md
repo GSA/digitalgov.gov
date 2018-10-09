@@ -6,7 +6,7 @@ summary: ' Social Media tools, trends and algorithms come and go, but federal ma
 authors:
   - jherman
 topics:
-  - Communities
+  - communities
   - managing-digital
   - social-media
   - AoI

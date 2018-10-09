@@ -8,8 +8,8 @@ authors:
 topics:
   - accessibility
   - api
-  - Challenges
-  - Communities
+  - challenges
+  - communities
   - content
   - Data
   - design
@@ -29,7 +29,7 @@ topics:
   - api
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - chatbots
   - cloud
   - cloud-gov
@@ -46,7 +46,7 @@ topics:
   - GSA
   - metrics
   - mobile-gov
-  - NASA
+  - nasa
   - National Aeronautics and Space Administration
   - OCSIT
   - Office of Citizen Services and Innovative Technology

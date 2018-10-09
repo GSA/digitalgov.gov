@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - code
-  - Communities
+  - communities
   - managing-digital
   - metrics
   - social-media

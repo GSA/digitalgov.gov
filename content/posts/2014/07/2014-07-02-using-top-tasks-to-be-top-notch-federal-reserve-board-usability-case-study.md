@@ -6,7 +6,7 @@ summary: 'In 2012, the Federal Reserve Board used the Top-task methodology to re
 authors:
   - ben-rosset
 topics:
-  - Communities
+  - communities
   - user-testing-and-research
   - ux
   - AoI

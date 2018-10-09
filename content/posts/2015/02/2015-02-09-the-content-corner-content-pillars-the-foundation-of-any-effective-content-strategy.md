@@ -6,7 +6,7 @@ summary: 'If you and your organization don’t already have a content strategy, 
 authors:
   - tyrus-manuel
 topics:
-  - Communities
+  - communities
   - content
   - administrative-office-of-the-united-states-courts
   - AoI

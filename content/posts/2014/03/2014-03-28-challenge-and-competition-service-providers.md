@@ -6,7 +6,7 @@ summary: 'I&#8217;m sure many of you have heard the expression &#8220;there&#821
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
 ---
 

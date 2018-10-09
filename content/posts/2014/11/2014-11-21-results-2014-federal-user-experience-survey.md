@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - accessibility
-  - Communities
+  - communities
   - design
   - Monthly Theme
   - user-testing-and-research

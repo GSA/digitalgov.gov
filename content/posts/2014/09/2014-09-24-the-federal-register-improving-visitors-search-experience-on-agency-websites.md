@@ -12,7 +12,7 @@ topics:
   - api
   - DigitalGov Search
   - Federal Register
-  - Instagram
+  - instagram
   - NLM
   - 'Occupational Safety and Health Administration'
   - OSHA

@@ -6,7 +6,7 @@ summary: 'We&#8217;re thrilled to announce the Space Apps 2016 Global Award Winn
 authors:
   - beth-beck
 topics:
-  - Challenges
+  - challenges
   - mobile
   - apps challenges
   - challenges and prize competitions
@@ -16,7 +16,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-gov
-  - NASA
+  - nasa
   - open data
   - open government
   - open source

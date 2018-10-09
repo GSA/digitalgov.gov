@@ -10,7 +10,7 @@ topics:
   - social-media
   - DigitalGov Search
   - Federal Register
-  - Instagram
+  - instagram
   - National Library of Medicine
   - social media
   - transportation-security-administration

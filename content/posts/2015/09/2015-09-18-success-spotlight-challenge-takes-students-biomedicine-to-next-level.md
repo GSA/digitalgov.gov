@@ -6,7 +6,7 @@ summary: ' Leaders in the biomedical field will applaud a team of student resear
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
   - challenges and prize competitions
   - National Institutes of Health

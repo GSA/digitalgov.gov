@@ -7,7 +7,7 @@ authors:
   - beth-beck
 topics:
   - api
-  - Challenges
+  - challenges
   - code
   - content
   - crowdsourcing-and-citizen-science
@@ -23,7 +23,7 @@ topics:
   - data
   - innovation
   - mobile-apps
-  - NASA
+  - nasa
   - open
   - open data
   - open government

@@ -9,7 +9,7 @@ topics:
   - content
   - administrative-office-of-the-united-states-courts
   - BLM
-  - Instagram
+  - instagram
   - NARA
   - National Archives and Records Administration
   - social media

@@ -18,7 +18,7 @@ topics:
   - 3d-printing
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
-  - Augmented Reality
+  - augmented-reality
   - blockchain
   - Customer Experience
   - Customer Experience Community of Practice

@@ -6,12 +6,12 @@ summary: 'It began with a history lesson and ended with an eye to the future. In
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
   - DOE
   - HHS
   - HUD
-  - NASA
+  - nasa
   - Recaps
   - US Agency for International Development
   - United States Department of Energy

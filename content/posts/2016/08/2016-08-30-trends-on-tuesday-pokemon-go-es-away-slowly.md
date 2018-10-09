@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - app
-  - Augmented Reality
+  - augmented-reality
   - gamification
   - mobile
   - mobile-apps

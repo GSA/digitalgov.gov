@@ -6,7 +6,7 @@ summary: Many of you are part of a government community. We lead a few of them h
 authors:
   - ktrebon
 topics:
-  - Communities
+  - communities
   - Monthly Theme
   - communities
   - DGU

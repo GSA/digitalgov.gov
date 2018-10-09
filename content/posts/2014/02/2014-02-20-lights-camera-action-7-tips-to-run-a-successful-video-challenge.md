@@ -6,12 +6,12 @@ summary: 'Not sure how to craft a video challenge that will result in the creati
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
   - challenges and prize competitions
   - DGU
   - innovation
-  - NASA
+  - nasa
   - Recaps
   - social media
 ---

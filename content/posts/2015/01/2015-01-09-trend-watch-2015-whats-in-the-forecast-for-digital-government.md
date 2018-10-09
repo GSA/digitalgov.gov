@@ -6,8 +6,8 @@ summary: 'In January on DigitalGov, we’ll highlight pieces looking at trends w
 authors:
   - andreanocesigritz
 topics:
-  - Challenges
-  - Communities
+  - challenges
+  - communities
   - Data
   - managing-digital
   - mobile

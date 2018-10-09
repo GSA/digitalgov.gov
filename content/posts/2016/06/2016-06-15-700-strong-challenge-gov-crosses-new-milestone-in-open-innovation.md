@@ -6,13 +6,13 @@ summary: Challenge.gov, the official website for crowdsourcing and prize competi
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - innovation
-  - NASA
+  - nasa
   - National Institute on Drug Abuse
   - NIDA
   - NIH

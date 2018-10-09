@@ -6,12 +6,12 @@ summary: The White House this week released a report detailing the impact of 100
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - apps challenges
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing

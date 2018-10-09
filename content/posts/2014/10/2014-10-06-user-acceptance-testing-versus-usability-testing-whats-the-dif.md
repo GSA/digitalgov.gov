@@ -6,7 +6,7 @@ summary: 'Building off the great discussion started around Customer Experience, 
 authors:
   - joel-virothaisakun
 topics:
-  - Communities
+  - communities
   - design
   - user-testing-and-research
   - ux

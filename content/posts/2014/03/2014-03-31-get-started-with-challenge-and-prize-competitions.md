@@ -6,11 +6,11 @@ summary: 'Interested in running a challenge and prize competition, but don&#8217
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - apps challenges
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - innovation
 ---
 

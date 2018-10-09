@@ -11,7 +11,7 @@ topics:
   - challenges and prize competitions
   - data-gov
   - FOIA
-  - NASA
+  - nasa
   - open government
 ---
 

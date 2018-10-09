@@ -6,7 +6,7 @@ summary: 'The demand for more automated, self-service access to United States pu
 authors:
   - jherman
 topics:
-  - Communities
+  - communities
   - emerging-tech
   - managing-digital
   - Our Work

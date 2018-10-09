@@ -7,7 +7,7 @@ authors:
   - jenn-gustetic
   - kelly-olson
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
   - challenges and prize competitions
   - FDA

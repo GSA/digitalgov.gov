@@ -6,7 +6,7 @@ summary: 'We had a GREAT DigitalGov Citizen Services Summit today. There were mo
 authors:
   - apiazza
 topics:
-  - Challenges
+  - challenges
   - code
   - content
   - managing-digital

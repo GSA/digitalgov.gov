@@ -9,7 +9,7 @@ topics:
   - mobile
   - social-media
   - Facebook
-  - Instagram
+  - instagram
   - LinkedIn
   - mobile
   - mobile-apps

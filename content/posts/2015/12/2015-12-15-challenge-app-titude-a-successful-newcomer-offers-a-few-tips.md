@@ -6,7 +6,7 @@ summary: 'The Reference Data Challenge, launched this summer, was a call for inn
 authors:
   - heather-evans
 topics:
-  - Challenges
+  - challenges
   - Monthly Theme
   - challenge-gov
   - challenges and prize competitions

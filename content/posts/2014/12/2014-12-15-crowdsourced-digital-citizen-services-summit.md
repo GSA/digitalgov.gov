@@ -6,7 +6,7 @@ summary: 'In May 2015, we’re hosting the second DigitalGov Citizen Services Su
 authors:
   - apiazza
 topics:
-  - Challenges
+  - challenges
   - code
   - content
   - crowdsourcing-and-citizen-science

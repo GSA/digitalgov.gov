@@ -6,12 +6,12 @@ summary: 'This month we’re highlighting articles about challenge competitions 
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdfunding

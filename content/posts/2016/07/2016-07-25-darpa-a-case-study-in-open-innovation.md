@@ -6,12 +6,12 @@ summary: 'You may not know it, but the Defense Advanced Research Projects Agency
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - managing-digital
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - DARPA

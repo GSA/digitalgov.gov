@@ -18,7 +18,7 @@ topics:
   - mobile
   - mobile-code-catalog
   - mobile-gov
-  - National Gallery of Art
+  - national-gallery-of-art
   - NOAA
   - responsive web design
   - Trends on Tuesday

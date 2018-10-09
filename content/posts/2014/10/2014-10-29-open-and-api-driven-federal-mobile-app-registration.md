@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - api
-  - Communities
+  - communities
   - mobile
   - Monthly Theme
   - AoI

@@ -6,7 +6,7 @@ summary: 'The results of an innovative government prize competition might help y
 authors:
   - tlowden
 topics:
-  - Challenges
+  - challenges
   - Monthly Theme
   - CDC
   - Centers for Disease Control and Prevention

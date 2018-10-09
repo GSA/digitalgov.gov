@@ -9,7 +9,7 @@ topics:
   - social-media
   - DoD
   - Facebook
-  - Instagram
+  - instagram
   - Library of Congress
   - LOC
   - National Archives and Records Administration

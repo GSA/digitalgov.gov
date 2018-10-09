@@ -6,7 +6,7 @@ summary: Apps challenges are a great way to spur innovation and help your agency
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - innovation
   - mobile-apps
 ---

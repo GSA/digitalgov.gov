@@ -6,7 +6,7 @@ summary: We are thrilled to share an update from our competition colleagues at t
 authors:
   - tammi-marcoullier
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
   - challenges and prize competitions
   - prizes and competitions

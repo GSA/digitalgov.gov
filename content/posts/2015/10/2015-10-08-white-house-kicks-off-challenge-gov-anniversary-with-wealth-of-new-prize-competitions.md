@@ -6,13 +6,13 @@ summary: ' In a call to action issued Oct. 7, the White House announced several 
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - apps challenges
   - challenge-gov
   - challenges and prize competitions
   - DOE
   - EPA
-  - NASA
+  - nasa
   - National Institute of Justice
   - NPS
   - OSTP

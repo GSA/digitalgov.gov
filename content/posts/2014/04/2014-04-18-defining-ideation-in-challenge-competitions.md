@@ -6,7 +6,7 @@ summary: 'There is some confusion about how &#8220;ideation&#8221; fits into cha
 authors:
   - tammi-marcoullier
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing
   - Federal Trade Commission
   - FTC

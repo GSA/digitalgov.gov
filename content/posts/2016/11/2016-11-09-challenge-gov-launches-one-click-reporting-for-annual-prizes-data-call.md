@@ -6,7 +6,7 @@ summary: 'This year, the deadline for agencies to submit their reporting of ince
 authors:
   - tammy-white
 topics:
-  - Challenges
+  - challenges
   - Data
   - managing-digital
   - challenge-gov

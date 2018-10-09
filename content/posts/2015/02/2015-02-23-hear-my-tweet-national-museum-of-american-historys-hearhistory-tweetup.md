@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - social-media
-  - Instagram
+  - instagram
   - Library of Congress
   - LOC
   - National Museum of American History

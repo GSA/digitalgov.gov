@@ -6,7 +6,7 @@ summary: 'In a prize competition, failing to properly define your problem up fro
 authors:
   - tlowden
 topics:
-  - Challenges
+  - challenges
   - strategy
   - policy
   - challenge-gov

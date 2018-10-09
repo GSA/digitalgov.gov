@@ -15,7 +15,7 @@ topics:
   - accessibility
   - DGU
   - digitalgov-university
-  - NASA
+  - nasa
   - National Aeronautics and Space Administration
   - Office of Management and Budget
   - OMB

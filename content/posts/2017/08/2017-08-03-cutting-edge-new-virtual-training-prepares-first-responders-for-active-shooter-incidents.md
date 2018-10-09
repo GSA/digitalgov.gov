@@ -13,7 +13,7 @@ topics:
   - ux
   - Video
   - audio-video
-  - Augmented Reality
+  - augmented-reality
   - DHS
   - Gamification
   - Research

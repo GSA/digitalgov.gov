@@ -7,14 +7,14 @@ authors:
   - nick-sinai
   - corinna-zarek
 topics:
-  - Challenges
+  - challenges
   - Data
   - social-media
   - CFPB
   - challenges and prize competitions
   - DOT
   - HHS
-  - NASA
+  - nasa
   - NRC
   - open government
 ---

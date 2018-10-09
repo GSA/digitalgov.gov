@@ -7,7 +7,7 @@ summary: '1. Meet all Laws, Requirements, Policies, and Directives for Federal C
 authors:
   - barbara-walton
 topics:
-  - Communities
+  - communities
   - content
   - Data
   - managing-digital

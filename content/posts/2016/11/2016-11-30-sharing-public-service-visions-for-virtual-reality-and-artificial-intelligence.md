@@ -6,7 +6,7 @@ summary: 'I’m taking a break from sorting through dozens of concepts from fede
 authors:
   - jherman
 topics:
-  - Communities
+  - communities
   - emerging-tech
   - managing-digital
   - ai

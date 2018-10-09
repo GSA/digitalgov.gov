@@ -6,7 +6,7 @@ summary: 'You should be on this list&mdash;the current federal government partic
 authors:
   - tammi-marcoullier
 topics:
-  - Challenges
+  - challenges
   - 18f
   - Census
   - CFPB
@@ -19,7 +19,7 @@ topics:
   - HUD
   - IMLS
   - Institute of Museum and Library Services
-  - NASA
+  - nasa
   - National Day of Civic Hacking
   - National Institutes of Health
   - national science foundation

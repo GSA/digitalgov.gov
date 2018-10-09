@@ -6,7 +6,7 @@ summary: 'Innovative wearables, stronger wifi and more 3D printing have been amo
 authors:
   - jparcell
 topics:
-  - Communities
+  - communities
   - managing-digital
   - mobile
   - Monthly Theme
@@ -25,7 +25,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - mobile-first
-  - NASA
+  - nasa
   - open and structured content models
   - Trends on Tuesday
   - United States Census Bureau

@@ -6,7 +6,7 @@ summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not t
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
   - challenge-gov

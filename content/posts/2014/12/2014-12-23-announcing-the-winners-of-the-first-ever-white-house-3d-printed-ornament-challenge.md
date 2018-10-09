@@ -7,9 +7,9 @@ authors:
   - stephanie-santoso
   - ryan-xue
 topics:
-  - Challenges
+  - challenges
   - Monthly Theme
-  - NASA
+  - nasa
   - National Institutes of Health
   - NIH
   - Smithsonian Institution

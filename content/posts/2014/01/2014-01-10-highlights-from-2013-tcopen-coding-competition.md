@@ -6,7 +6,7 @@ summary: ' Our team and a few other agencies had the chance to attend the 2013 T
 authors:
   - tammi-marcoullier
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
 ---
 

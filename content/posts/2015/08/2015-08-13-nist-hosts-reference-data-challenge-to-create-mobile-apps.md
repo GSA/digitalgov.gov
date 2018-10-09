@@ -6,7 +6,7 @@ summary: 'The National Institute of Standards and Technology (NIST) wants YOU to
 authors:
   - jparcell
 topics:
-  - Challenges
+  - challenges
   - mobile
   - apps challenges
   - Census

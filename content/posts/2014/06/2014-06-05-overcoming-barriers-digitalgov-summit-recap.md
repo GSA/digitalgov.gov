@@ -6,7 +6,7 @@ summary: As government innovators, we work to improve public services every day.
 authors:
   - allison-alexander
 topics:
-  - Challenges
+  - challenges
   - code
   - content
   - managing-digital

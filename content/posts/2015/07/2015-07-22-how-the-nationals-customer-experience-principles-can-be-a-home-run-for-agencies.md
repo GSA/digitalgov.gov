@@ -7,7 +7,7 @@ authors:
   - jacqueline-snee
   - rflagg
 topics:
-  - Communities
+  - communities
   - Monthly Theme
   - Customer Experience
   - Customer Experience Community of Practice

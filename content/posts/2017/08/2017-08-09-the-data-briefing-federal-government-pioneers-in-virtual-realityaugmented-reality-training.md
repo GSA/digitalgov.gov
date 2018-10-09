@@ -10,7 +10,7 @@ topics:
   - ux
   - Video
   - audio-video
-  - Augmented Reality
+  - augmented-reality
   - video
   - Video Production Pros community
   - virtual reality

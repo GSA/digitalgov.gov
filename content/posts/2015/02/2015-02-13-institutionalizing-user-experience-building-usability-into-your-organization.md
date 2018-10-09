@@ -6,7 +6,7 @@ summary: 'So, you have some systems or tools your customers or employees access.
 authors:
   - beth-martin
 topics:
-  - Communities
+  - communities
   - ux
   - analytics
   - AoI

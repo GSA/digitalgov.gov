@@ -11,7 +11,7 @@ topics:
   - mobile
   - ux
   - apps
-  - Augmented Reality
+  - augmented-reality
   - mobile-apps
   - Smithsonian Institution
   - user-experience

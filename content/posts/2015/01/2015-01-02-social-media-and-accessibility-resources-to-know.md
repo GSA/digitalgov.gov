@@ -7,7 +7,7 @@ authors:
   - deb-lebel
 topics:
   - accessibility
-  - Communities
+  - communities
   - social-media
   - aiDS-gov
   - Americans with Disabilities Act

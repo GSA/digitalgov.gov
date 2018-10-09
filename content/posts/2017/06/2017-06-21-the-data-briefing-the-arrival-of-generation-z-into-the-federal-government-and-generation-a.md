@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - ai
   - artificial intelligence
-  - Augmented Reality
+  - augmented-reality
   - chatbots
   - human resources
   - social media

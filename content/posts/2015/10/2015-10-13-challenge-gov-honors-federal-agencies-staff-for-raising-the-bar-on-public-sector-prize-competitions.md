@@ -6,13 +6,13 @@ summary: The biggest advocates for the use of challenges in the public sector ga
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - Bureau of Reclamation
   - challenge-gov
   - Federal Trade Commission
   - FTC
   - HUD
-  - NASA
+  - nasa
   - National Institute of Standards and Technology
   - NIST
   - prizes and competitions

@@ -6,14 +6,14 @@ summary: 'There’s more than one way to harness the wisdom of the crowd. In hon
 authors:
   - awichman
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
   - Bureau of Reclamation
   - CFPB
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - Consumer Financial Protection Bureau
@@ -24,7 +24,7 @@ topics:
   - GSA
   - HHS
   - innovation
-  - NASA
+  - nasa
   - National Oceanic and Atmospheric Administration
   - NOAA
   - prizes and competitions

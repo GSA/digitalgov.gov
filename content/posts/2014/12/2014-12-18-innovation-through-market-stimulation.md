@@ -6,7 +6,7 @@ summary: Crowdsourcing and prize competitions can take many forms, which makes t
 authors:
   - dustin-renwick
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
   - challenges and prize competitions

@@ -9,7 +9,7 @@ topics:
   - code
   - data-gov
   - mobile-apps
-  - NASA
+  - nasa
   - open data
   - the-data-briefing
   - United States Patent and Trademark Office

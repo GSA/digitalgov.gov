@@ -12,7 +12,7 @@ topics:
   - Centers for Disease Control and Prevention
   - content strategy
   - GSA
-  - NASA
+  - nasa
   - National Institutes of Health
   - NIH
   - social media

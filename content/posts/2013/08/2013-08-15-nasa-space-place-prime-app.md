@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - NASA
+  - nasa
   - thursday-mobile-products
 ---
 

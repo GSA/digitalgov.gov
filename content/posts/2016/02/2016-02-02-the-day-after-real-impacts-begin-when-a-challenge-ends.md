@@ -6,7 +6,7 @@ summary: 'In 1927, Charles Lindbergh won the Orteig Prize for becoming the first
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - Our Work
   - Recaps
   - US Agency for International Development

@@ -6,7 +6,7 @@ summary: 'With a calculated process, the right tools, and a staff willing to mak
 authors:
   - tlowden
 topics:
-  - Communities
+  - communities
   - user-testing-and-research
   - ux
   - a-b-testing

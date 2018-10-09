@@ -6,7 +6,7 @@ summary: 'In December of 2004, the Office of Management and Budget (OMB) issued 
 authors:
   - rflagg
 topics:
-  - Challenges
+  - challenges
   - code
   - content
   - managing-digital
@@ -17,7 +17,7 @@ topics:
   - Centers for Disease Control and Prevention
   - HHS
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - National Oceanic and Atmospheric Administration
   - NOAA

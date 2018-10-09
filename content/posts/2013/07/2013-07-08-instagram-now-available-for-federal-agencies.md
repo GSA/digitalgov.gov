@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - social-media
   - GSA
-  - Instagram
+  - instagram
   - SocialGov
   - Terms of Service
   - white-house

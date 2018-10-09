@@ -6,7 +6,7 @@ summary: 'As you&#8217;re planning your challenge, you&#8217;ll want to review t
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - innovation
 ---
 

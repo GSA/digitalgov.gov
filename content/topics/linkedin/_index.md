@@ -3,7 +3,7 @@
 # https://digital.gov/topics/linkedin
 
 # Topic Title
-title: "Linkedin"
+title: "LinkedIn"
 
 # description — keep it short and clear
 summary: ""

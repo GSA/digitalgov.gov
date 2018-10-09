@@ -13,7 +13,7 @@ topics:
   - policy
   - user-testing-and-research
   - ux
-  - Best Practices
+  - best-practices
   - user-experience
   - ux
 

@@ -6,14 +6,14 @@ summary: 'Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov te
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - code
   - challenge-gov
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - HUD
   - innovation
-  - NASA
+  - nasa
   - National Eye Institute
   - national science foundation
   - NSF

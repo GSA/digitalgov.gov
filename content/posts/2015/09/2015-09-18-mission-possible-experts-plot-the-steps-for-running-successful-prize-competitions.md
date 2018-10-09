@@ -6,7 +6,7 @@ summary: 'Long before the final prize is awarded, a successful challenge starts 
 authors:
   - judy-romano
 topics:
-  - Challenges
+  - challenges
   - challenge-gov
   - HHS
   - prizes and competitions

@@ -6,8 +6,8 @@ summary: 'As the civic hacking movement continues to grow in the United States, 
 authors:
   - nicholas-skytland
 topics:
-  - Challenges
-  - NASA
+  - challenges
+  - nasa
   - National Day of Civic Hacking
 ---
 

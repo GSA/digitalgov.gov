@@ -6,14 +6,14 @@ summary: 'The U.S. government has launched more than 45 challenge and prize comp
 authors:
   - ktrebon
 topics:
-  - Challenges
+  - challenges
   - Monthly Theme
   - challenge-gov
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - DOE
   - HHS
   - innovation
-  - NASA
+  - nasa
   - SBA
   - sitesusagov
   - US Small Business Administration

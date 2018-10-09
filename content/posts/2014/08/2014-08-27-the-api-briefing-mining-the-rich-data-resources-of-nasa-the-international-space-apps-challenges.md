@@ -11,7 +11,7 @@ topics:
   - challenges and prize competitions
   - data-gov
   - mobile-ux-guideline-5
-  - NASA
+  - nasa
   - OPM
   - United States Office of Personnel Management
   - wednesday-api-briefing

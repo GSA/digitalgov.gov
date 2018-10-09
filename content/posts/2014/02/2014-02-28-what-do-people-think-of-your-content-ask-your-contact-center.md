@@ -6,7 +6,7 @@ summary: 'All of us want to improve the content and information we provide to th
 authors:
   - tonya-beres
 topics:
-  - Communities
+  - communities
   - content
   - managing-digital
   - social-media

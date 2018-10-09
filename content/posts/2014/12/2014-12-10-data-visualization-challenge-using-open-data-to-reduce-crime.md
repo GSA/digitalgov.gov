@@ -7,7 +7,7 @@ authors:
   - nancy-merritt
   - katie-gresham
 topics:
-  - Challenges
+  - challenges
   - Monthly Theme
   - Bureau of Justice Statistics
   - challenges and prize competitions

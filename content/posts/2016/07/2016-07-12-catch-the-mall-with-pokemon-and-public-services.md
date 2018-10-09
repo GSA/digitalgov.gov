@@ -11,7 +11,7 @@ topics:
   - mobile
   - social-media
   - ux
-  - Augmented Reality
+  - augmented-reality
   - gamification
   - mobile
   - mobile-apps

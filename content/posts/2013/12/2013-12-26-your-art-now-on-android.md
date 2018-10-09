@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile-apps
   - multilingual
-  - National Gallery of Art
+  - national-gallery-of-art
   - thursday-mobile-products
 ---
 

@@ -12,7 +12,7 @@ authors:
   - jonathan-rubin
 topics:
   - api
-  - Challenges
+  - challenges
   - content
   - Data
   - managing-digital

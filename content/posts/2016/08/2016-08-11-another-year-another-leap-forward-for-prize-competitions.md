@@ -6,11 +6,11 @@ summary: 'If federal agencies need an incentive to be more open and innovative i
 authors:
   - eric-beidel
 topics:
-  - Challenges
+  - challenges
   - crowdsourcing-and-citizen-science
   - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
   - GSA

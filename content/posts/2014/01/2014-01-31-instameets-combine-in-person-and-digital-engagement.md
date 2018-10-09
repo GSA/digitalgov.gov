@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - Facebook
-  - Instagram
+  - instagram
   - National Zoological Park
 ---
 

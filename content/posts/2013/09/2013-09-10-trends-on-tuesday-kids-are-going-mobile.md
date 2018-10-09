@@ -11,7 +11,7 @@ topics:
   - gamification
   - mobile
   - mobile-first
-  - National Gallery of Art
+  - national-gallery-of-art
   - Smithsonian Institution
   - Trends on Tuesday
 ---

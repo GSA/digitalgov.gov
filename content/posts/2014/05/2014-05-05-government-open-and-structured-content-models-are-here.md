@@ -7,7 +7,7 @@ authors:
   - structured-and-open-content-models-working-group
 topics:
   - code
-  - Communities
+  - communities
   - content
   - managing-digital
   - mobile
