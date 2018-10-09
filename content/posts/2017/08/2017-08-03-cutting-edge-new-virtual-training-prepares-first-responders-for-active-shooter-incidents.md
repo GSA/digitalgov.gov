@@ -3,16 +3,16 @@ slug: cutting-edge-new-virtual-training-prepares-first-responders-for-active-sho
 date: 2017-08-03 12:14:24 -0400
 title: 'The Cutting EDGE&#58; New Virtual Training Prepares First Responders for Active Shooter Incidents'
 summary: 'Amidst the chaos of an active shooter event, preparedness is key to a seamless, swift and effective response—and a new video game funded by the Department of Homeland Security (DHS) Science and Technology Directorate and the U.S. Army Research Laboratory just might do the trick.'
-authors: 
-  - US Department of Homeland Security
+authors:
+  - department-of-homeland-security
 
-categories: 
+categories:
   - strategy-and-policy
   - User Testing and Research
   - UX
   - Video
 
-tag: 
+tag:
   - Audio/Video
   - Augmented Reality
   - DHS

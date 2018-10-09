@@ -6,8 +6,8 @@ summary: 'One death every 52 minutes. That’s how frequently someone died in cr
 authors:
   - kdowney
 categories:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
 tag:
   - DOT
   - National Highway Traffic Safety Administration
@@ -19,15 +19,19 @@ tag:
   - Yelp
 ---
 
-{{< legacy-img src="2015/01/250-x-410-NHTSA-SaferRide-home-screen-buttons.jpg" alt="250-x-410-NHTSA-SaferRide-home-screen-buttons" >}}One death every 52 minutes.
+{{< legacy-img-right src="2015/01/250-x-410-NHTSA-SaferRide-home-screen-buttons.jpg" alt="Screenshot of the NHTSA Safer Ride app's home screen with 3 large red buttons; Get Taxi, Call Friend, and Where Am I.">}}
 
-That’s how frequently someone died in crashes involving a drunk driver in the U.S. in 2013—10,076 deaths in total. While that number represents a 2.5% reduction in deaths from the previous year, the <a href="http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/SaferRide-app-and-new-data-highlight-holiday-drunk-driving-crackdown" target="_blank">National Highway Traffic Safety Administration (NHTSA) is offering a new mobile app</a>—called SaferRide—to save more lives.
+One death every 52 minutes.
+
+That’s how frequently someone died in crashes involving a drunk driver in the U.S. in 2013—10,076 deaths in total. While that number represents a 2.5% reduction in deaths from the previous year, the <a href="https://one.nhtsa.gov/About-NHTSA/Press-Releases/SaferRide%E2%80%93app%E2%80%93and%E2%80%93new%E2%80%93data%E2%80%93highlight%E2%80%93holiday%E2%80%93drunk%E2%80%93driving%E2%80%93crackdown" target="_blank">National Highway Traffic Safety Administration (NHTSA) is offering a new mobile app</a>—called SaferRide—to save more lives.
 
 Simply put, SaferRide helps people who have been drinking to get a safe ride home.
 
 The app helps keep drunk drivers off the road by allowing users to call a taxi or a pre-programmed friend, and also helps easily identify the user’s current location. The app has a very streamlined function, and its interface is purposefully simple. The app only has three large buttons on the home screen: “Get Taxi,” “Call Friend,” and “Where Am I?”
 
-{{< legacy-img src="2015/01/250-x-427-NHTSA-SaferRide-where-am-I-map-2.jpg" alt="250-x-427-NHTSA-SaferRide-where-am-I-map-2" >}}As advertised on the app, &#8220;too drunk to drive means too drunk for complicated apps.&#8221; SaferRide lets you:
+{{< legacy-img-right src="2015/01/250-x-427-NHTSA-SaferRide-where-am-I-map-2.jpg" alt="Screenshot of the NHTSA Safer Ride app's Where am I? location map." >}}
+
+As advertised on the app, &#8220;too drunk to drive means too drunk for complicated apps.&#8221; SaferRide lets you: 
 
   * Choose from a list of available taxi services in your area, and call with the tap of a button.
   * Call a pre-programmed contact.
@@ -37,4 +41,10 @@ The app’s simple interface belies the amount of design and development time th
 
 There’s never any excuse to drive after drinking, and now it’s never been easier to help end drunk driving. Use NHTSA’s SaferRide app to get home safely.
 
-The app is available [on Google Play](https://play.google.com/store/apps/details?id=com.nhtsa.SaferRide) for Android devices, and Apple’s [iTunes store](https://itunes.apple.com/us/app/saferride/id950774008?mt=8) for iOS devices._Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})__._
+The app is available [on Google Play](https://play.google.com/store/apps/details?id=com.nhtsa.SaferRide) for Android devices, and Apple’s [iTunes store](https://itunes.apple.com/us/app/saferride/id950774008?mt=8) for iOS devices. 
+
+* * *
+
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)._ 
+
+_Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._

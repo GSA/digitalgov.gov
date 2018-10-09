@@ -4,7 +4,7 @@ date: 2015-04-13 10:00:17 -0400
 title: 'The Content Corner: Structured Content Challenges and Lessons Learned'
 summary: 'In May 2014, Sarah Crane discussed the importance of structured content, APIs and the development of a &#8220;Create Once, Publish Everywhere&#8221; (COPE) strategy at USA.gov via a three part video series. After my recent post about a world without Web pages, Sarah and I connected and we discussed the challenges she has experienced during the'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
   - Monthly Theme

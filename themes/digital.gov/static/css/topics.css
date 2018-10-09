@@ -7,7 +7,7 @@
 .topics li{
 	padding: .25em 0;
 	border-top: 1px #ddd solid;
-	font-size: .85em !important;
+	line-height: 2em;
 	color: #222;
 }
 .topics li:first-child{

@@ -11,21 +11,35 @@
 	font-weight: normal;
 }
 
-#posts .sidebar h4{
-	color: #000;
-	font-size: 1.1em;
-	margin-bottom: .35em;
-}
-
 .list{
 	padding-top: .75em;
 	width: auto;
 	border-top: 1px #000 solid;
 }
 .sidebar{
-	padding-top: .75em;
 	width: 300px;
+}
+.sidebar .box{
+	margin-bottom: 3em;
+	padding-top: .75em;
 	border-top: 1px #000 solid;
+	font-size: .9rem;
+	line-height: 1.5em;
+}
+.sidebar .box h4{
+	font-size: 1.3em;
+	color: #000;
+	margin-bottom: .35em;
+}
+.box .community-promo{
+
+}
+.sidebar .box ul.bulleted{
+	padding-left: 1.4em;
+}
+
+.sidebar .box ul.bulleted li{
+	margin-bottom: .5em;
 }
 .list .entry{
 	margin-bottom: 2em;

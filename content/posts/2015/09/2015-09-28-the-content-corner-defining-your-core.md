@@ -4,7 +4,7 @@ date: 2015-09-28 1:30:53 -0400
 title: 'The Content Corner: Defining Your Core'
 summary: Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the content pillar and various other aspects of developing a solid content strategy. Recent research from the Content Marketing Institute found the average business-to-business (B2B) company uses 13 content marketing tactics or
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
   - Social Media

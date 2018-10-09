@@ -16,10 +16,12 @@ aliases:
 
 ## Accessibility
 
-*   [Accessibility Resource List]({{< link "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
-*   [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< link "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
-*   [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw)
-*   [Mythbuster’s Guide to Accessibility](https://medium.com/the-u-s-digital-service/mythbusters-guide-to-accessibility-92ccd88655c6#.lj5vo2vff)
+* [Introducing Accessibility for Teams](https://digital.gov/2018/07/10/introducing-accessibility-for-teams/) 
+    - [Accessibility for Teams](https://accessibility.digital.gov/)
+* [Accessibility Resource List]({{< link "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
+* [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< link "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
+* [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw)
+* [Mythbuster’s Guide to Accessibility](https://medium.com/the-u-s-digital-service/mythbusters-guide-to-accessibility-92ccd88655c6#.lj5vo2vff)
 
 ## Challenges and Prizes
 
@@ -68,6 +70,8 @@ aliases:
 
 *   [Mobile Gov Community of Practice]({{< link "mobilegov.md" >}})
 *   [Mobile User Experience Guidelines and Recommendations]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}})
+*   [A Guide to Improving Your Mobile-Friendly Website
+](https://digital.gov/resources/guide-improve-mobile-friendly-websites/)
 *   [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}})
     *   [Mobile Code Sharing Catalog]({{< link "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}})
 *   [Sample Mobile SOW and Developer Qualifications]({{< link "mobile-sow-and-developer-qualifications.md" >}})

@@ -1,15 +1,13 @@
 {{ with $.Scratch.Get "relatedCommunities" }}
+<div class="box">
+  <h4>Join the community</h4>
   {{ range $community := . }}
     {{ range where (where $.Site.Pages "Section" "communities") "Params.uid" $community }}
-      <div id="featured-page-17" class="widget widget-1 widget-first featuredpage">
-        <div class="widget-wrap">
-          <div class="post clearfix">
-            <h3 class="widgettitle"><span><a href="{{ .Permalink }}">{{ .Title }}</a></span></h3>
-            <span class="featpage-excerpt">{{ .Params.summary | markdownify  }}</span>
-            <a href="{{ .Permalink }}">Join »</a>
-          </div>
-        </div>
+      <div class="community-promo">
+        <p><a href="{{ .Permalink }}"><strong>{{ .Title }}</strong></a> — {{ .Params.summary | markdownify  }} <a href="{{ .Permalink }}"><strong>Join »</strong></a></p>
       </div>
     {{ end }}
   {{ end }}
+  <a href="{{ "communities" | absURL }}" rel="bookmark">All communities »</a>
+</div>
 {{ end }}
