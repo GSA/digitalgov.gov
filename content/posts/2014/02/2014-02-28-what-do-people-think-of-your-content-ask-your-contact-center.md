@@ -12,7 +12,7 @@ topics:
   - social-media
   - ux
   - AoI
-  - Customer Experience
+  - customer-experience
   - government contact centers
 ---
 

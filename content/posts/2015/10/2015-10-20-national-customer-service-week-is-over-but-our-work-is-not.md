@@ -12,7 +12,7 @@ topics:
   - ux
   - "508"
   - accessibility
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - CX

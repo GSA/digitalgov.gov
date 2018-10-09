@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - Our Work
-  - Customer Experience
+  - customer-experience
   - innovation
 ---
 

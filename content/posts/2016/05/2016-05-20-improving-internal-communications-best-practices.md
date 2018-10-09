@@ -8,8 +8,8 @@ authors:
 topics:
   - managing-digital
   - Monthly Theme
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
   - Ex-Im Bank
   - Federal Student Aid

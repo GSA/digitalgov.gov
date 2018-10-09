@@ -7,7 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - managing-digital
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - CX

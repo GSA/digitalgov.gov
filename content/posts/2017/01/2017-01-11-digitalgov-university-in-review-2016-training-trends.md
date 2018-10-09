@@ -35,8 +35,8 @@ topics:
   - cloud-gov
   - communities
   - content
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
   - DAP
   - DGU

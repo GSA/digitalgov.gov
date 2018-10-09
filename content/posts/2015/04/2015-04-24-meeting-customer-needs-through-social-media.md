@@ -9,7 +9,7 @@ topics:
   - Monthly Theme
   - social-media
   - analytics
-  - Customer Experience
+  - customer-experience
   - customer service
   - government contact centers
   - social media

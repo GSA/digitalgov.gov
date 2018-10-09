@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - Monthly Theme
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - Government Contact Center Council

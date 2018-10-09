@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - mobile
-  - Customer Experience
+  - customer-experience
   - Government Contact Center Council
   - government contact centers
   - mobile-gov-community-of-practice

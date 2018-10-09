@@ -10,7 +10,7 @@ authors:
 topics:
   - content
   - ux
-  - Customer Experience
+  - customer-experience
   - HHS
   - innovation
   - nasa

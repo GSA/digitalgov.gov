@@ -7,7 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - managing-digital
-  - Customer Experience
+  - customer-experience
   - Export-Import Bank of the United States
 ---
 

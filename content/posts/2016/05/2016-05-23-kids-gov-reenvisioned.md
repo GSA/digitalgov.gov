@@ -13,7 +13,7 @@ topics:
   - user-testing-and-research
   - ux
   - analytics
-  - Customer Experience
+  - customer-experience
   - CX
   - metrics
   - usa.gov

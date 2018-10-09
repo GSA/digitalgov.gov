@@ -15,7 +15,7 @@ topics:
   - ux
   - api
   - Census
-  - Customer Experience
+  - customer-experience
   - DOL
   - innovation
   - mobile

@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - Monthly Theme
   - Centers for Disease Control and Prevention
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - Export-Import Bank of the United States
   - National Cancer Institute

@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - social-media
   - ux
-  - Customer Experience
+  - customer-experience
   - social media
   - user-experience
 ---

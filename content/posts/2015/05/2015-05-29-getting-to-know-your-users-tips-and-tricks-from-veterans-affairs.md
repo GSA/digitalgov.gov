@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - Monthly Theme
   - ux
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - Personas

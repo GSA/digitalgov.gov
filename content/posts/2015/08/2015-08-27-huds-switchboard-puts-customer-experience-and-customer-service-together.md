@@ -7,7 +7,7 @@ authors:
   - zachary-lerner
 topics:
   - managing-digital
-  - Customer Experience
+  - customer-experience
   - customer service
   - HUD
   - United States Department of Housing and Urban Development

@@ -8,7 +8,7 @@ authors:
 topics:
   - strategy
   - policy
-  - Customer Experience
+  - customer-experience
   - customer service
   - CX
   - FAS

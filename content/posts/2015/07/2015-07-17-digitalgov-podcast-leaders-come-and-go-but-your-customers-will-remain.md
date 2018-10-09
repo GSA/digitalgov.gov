@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - managing-digital
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - Ex-Im Bank

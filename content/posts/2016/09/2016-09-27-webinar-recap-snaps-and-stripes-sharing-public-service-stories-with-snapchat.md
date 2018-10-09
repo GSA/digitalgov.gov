@@ -18,7 +18,7 @@ topics:
   - best practices
   - content
   - content strategy
-  - Customer Experience
+  - customer-experience
   - CX
   - DGU
   - digitalgov-university

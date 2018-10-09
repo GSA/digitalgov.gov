@@ -7,8 +7,8 @@ authors:
   - rflagg
 topics:
   - managing-digital
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - customer service
   - CX
 ---

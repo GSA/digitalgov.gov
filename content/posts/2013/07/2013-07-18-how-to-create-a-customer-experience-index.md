@@ -7,7 +7,7 @@ authors:
   - martha-dorris
 topics:
   - managing-digital
-  - Customer Experience
+  - customer-experience
 ---
 
 <p dir="ltr">

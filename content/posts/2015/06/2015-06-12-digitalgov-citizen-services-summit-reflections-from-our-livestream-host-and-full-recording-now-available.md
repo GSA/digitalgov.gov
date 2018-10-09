@@ -10,7 +10,7 @@ topics:
   - agile
   - analytics
   - connect-gov
-  - Customer Experience
+  - customer-experience
   - DigitalGov Summit
   - FCC
   - Federal Communications Commission

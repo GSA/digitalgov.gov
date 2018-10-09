@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - ux
   - content
-  - Customer Experience
+  - customer-experience
   - customer service
   - CX
   - multilingual

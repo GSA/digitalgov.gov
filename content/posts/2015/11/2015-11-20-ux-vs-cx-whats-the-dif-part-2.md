@@ -9,8 +9,8 @@ topics:
   - Monthly Theme
   - ux
   - 18f
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
   - federal user experience community
   - usability starter kit

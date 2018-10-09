@@ -8,7 +8,7 @@ authors:
 topics:
   - Our Work
   - user-testing-and-research
-  - Customer Experience
+  - customer-experience
   - CX
 ---
 

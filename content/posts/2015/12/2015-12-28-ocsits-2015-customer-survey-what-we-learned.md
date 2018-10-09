@@ -7,7 +7,7 @@ authors:
   - rflagg
 topics:
   - Our Work
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - CX

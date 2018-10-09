@@ -11,7 +11,7 @@ topics:
   - Monthly Theme
   - social-media
   - ux
-  - Customer Experience
+  - customer-experience
   - CX
   - FirstNet
   - social media

@@ -13,7 +13,7 @@ topics:
   - managing-digital
   - 18f
   - CBP
-  - Customer Experience
+  - customer-experience
   - customer service
   - CX
   - GSA

@@ -7,7 +7,7 @@ authors:
   - andrea-d-williamson
 topics:
   - managing-digital
-  - Customer Experience
+  - customer-experience
   - CX
   - DHS
   - HHS

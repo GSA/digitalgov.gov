@@ -8,8 +8,8 @@ authors:
 topics:
   - managing-digital
   - Centers for Medicare and Medicaid Services
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
 ---
 

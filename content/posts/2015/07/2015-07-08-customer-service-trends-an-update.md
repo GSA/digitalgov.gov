@@ -11,7 +11,7 @@ topics:
   - agile
   - content syndication
   - COPE
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - Digital Analytics Program

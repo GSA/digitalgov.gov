@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - Monthly Theme
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - Office of Management and Budget

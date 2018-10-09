@@ -9,8 +9,8 @@ topics:
   - content
   - design
   - ux
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
   - NARA
   - National Archives and Records Administration

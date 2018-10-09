@@ -9,7 +9,7 @@ topics:
   - communities
   - Monthly Theme
   - 18f
-  - Customer Experience Community of Practice
+  - customer-experience-community-of-practice
   - Defense Intelligence Agency
   - Federal CrowdSource Mobile Testing Program
   - GSA

@@ -9,8 +9,8 @@ topics:
   - communities
   - Monthly Theme
   - communities
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - customer satisfaction
   - customer service
   - CX

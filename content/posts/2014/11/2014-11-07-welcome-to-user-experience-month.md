@@ -8,7 +8,7 @@ authors:
 topics:
   - Monthly Theme
   - ux
-  - Customer Experience
+  - customer-experience
   - DigitalGov User Experience Program
   - user-experience
   - ux

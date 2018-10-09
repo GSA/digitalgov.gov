@@ -8,8 +8,8 @@ authors:
 topics:
   - user-testing-and-research
   - ux
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - customer service
   - Government Contact Center Council
   - government contact centers

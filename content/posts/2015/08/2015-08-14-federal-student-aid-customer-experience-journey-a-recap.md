@@ -7,7 +7,7 @@ authors:
   - zachary-lerner
 topics:
   - managing-digital
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - Federal Student Aid

@@ -9,8 +9,8 @@ authors:
 topics:
   - managing-digital
   - Monthly Theme
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
   - Recaps
   - SBST

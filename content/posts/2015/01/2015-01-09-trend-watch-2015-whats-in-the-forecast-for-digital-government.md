@@ -15,7 +15,7 @@ topics:
   - AoI
   - big data
   - challenges and prize competitions
-  - Customer Experience
+  - customer-experience
   - mobile-gov
 ---
 

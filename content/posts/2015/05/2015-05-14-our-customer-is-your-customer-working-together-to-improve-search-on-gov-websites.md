@@ -8,7 +8,7 @@ authors:
 topics:
   - Monthly Theme
   - Our Work
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - DigitalGov Search

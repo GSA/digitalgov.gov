@@ -11,7 +11,7 @@ topics:
   - mobile
   - ux
   - analytics
-  - Customer Experience
+  - customer-experience
   - DAP
   - data
   - Digital Analytics Program
