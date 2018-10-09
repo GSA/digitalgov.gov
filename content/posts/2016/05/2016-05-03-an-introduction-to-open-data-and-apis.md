@@ -12,7 +12,7 @@ topics:
   - 18F
   - analytics-usa-gov
   - API
-  - data.gov
+  - data-gov
   - open data
   - Recaps
   - US Department of Agriculture

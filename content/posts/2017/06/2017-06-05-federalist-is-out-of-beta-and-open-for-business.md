@@ -12,7 +12,7 @@ topics:
   - Managing Digital
   - 18F
   - cloud
-  - cloud.gov
+  - cloud-gov
   - CMS
   - Content Management System
   - FedRAMP

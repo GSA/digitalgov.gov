@@ -10,7 +10,7 @@ topics:
   - Data
   - API
   - data visualization
-  - data.gov
+  - data-gov
   - mobile apps
   - open data
   - The Data Briefing

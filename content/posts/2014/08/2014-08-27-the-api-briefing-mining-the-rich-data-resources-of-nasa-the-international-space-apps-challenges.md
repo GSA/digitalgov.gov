@@ -9,7 +9,7 @@ topics:
   - API
   - Mobile
   - challenges and prize competitions
-  - data.gov
+  - data-gov
   - Mobile UX Guideline 5
   - NASA
   - OPM

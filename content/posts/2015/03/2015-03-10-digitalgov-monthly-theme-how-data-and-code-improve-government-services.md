@@ -11,7 +11,7 @@ topics:
   - Monthly Theme
   - API
   - data
-  - data.gov
+  - data-gov
   - DGU
   - HHS
   - HTTPS

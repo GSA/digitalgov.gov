@@ -7,7 +7,7 @@ authors:
   - rebecca-williams
 topics:
   - Data
-  - data.gov
+  - data-gov
   - metadata
   - open data
 ---

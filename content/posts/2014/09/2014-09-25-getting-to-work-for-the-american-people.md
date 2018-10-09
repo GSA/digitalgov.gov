@@ -8,7 +8,7 @@ authors:
 topics:
   - Code
   - 18F
-  - data.gov
+  - data-gov
   - DOI
   - DOJ
   - FEC

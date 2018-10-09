@@ -14,7 +14,7 @@ topics:
   - 18F
   - Central Intelligence Agency
   - CIA
-  - data.gov
+  - data-gov
   - Facebook
   - SocialGov Community
   - user experience

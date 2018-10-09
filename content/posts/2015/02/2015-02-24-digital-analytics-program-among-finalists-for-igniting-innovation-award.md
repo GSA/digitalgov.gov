@@ -11,7 +11,7 @@ topics:
   - Our Work
   - analytics
   - Customer Experience
-  - data.gov
+  - data-gov
   - Digital Analytics Program
   - innovation
   - NASA

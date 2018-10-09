@@ -12,7 +12,7 @@ topics:
   - "508"
   - API
   - data
-  - data.gov
+  - data-gov
   - DOT
   - FCC
   - Federal Communications Commission

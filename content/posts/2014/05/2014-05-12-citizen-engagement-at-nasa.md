@@ -9,7 +9,7 @@ topics:
   - Data
   - UX
   - challenges and prize competitions
-  - data.gov
+  - data-gov
   - FOIA
   - NASA
   - open government

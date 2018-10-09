@@ -13,7 +13,7 @@ topics:
   - UX
   - API
   - crowdsourcing
-  - data.gov
+  - data-gov
   - Federal CrowdSource Mobile Testing Program
   - National Renewable Energy Laboratory
   - NREL

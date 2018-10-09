@@ -10,7 +10,7 @@ topics:
   - Data
   - big data
   - data
-  - data.gov
+  - data-gov
   - DOE
   - open government
   - United States Department of Energy

@@ -8,7 +8,7 @@ authors:
 topics:
   - Code
   - Social Media
-  - data.gov
+  - data-gov
   - DOL
   - open data
   - Recaps

@@ -13,7 +13,7 @@ topics:
   - API
   - Centers for Medicare and Medicaid Services
   - data
-  - data.gov
+  - data-gov
   - HHS
   - Internet of things
   - json

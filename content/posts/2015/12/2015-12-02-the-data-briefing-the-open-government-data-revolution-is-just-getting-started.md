@@ -9,7 +9,7 @@ topics:
   - Data
   - data
   - data visualization
-  - data.gov
+  - data-gov
   - open data
   - The Data Briefing
 ---

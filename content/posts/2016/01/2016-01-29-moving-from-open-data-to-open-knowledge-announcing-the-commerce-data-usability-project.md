@@ -11,7 +11,7 @@ topics:
   - Data
   - Census
   - Commerce
-  - data.gov
+  - data-gov
   - Department of Commerce
   - National Institute of Standards and Technology
   - National Oceanic and Atmospheric Administration

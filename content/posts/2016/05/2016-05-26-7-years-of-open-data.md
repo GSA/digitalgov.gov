@@ -7,7 +7,7 @@ authors:
   - data-gov-team
 topics:
   - Data
-  - data.gov
+  - data-gov
   - DOL
   - open data
   - US Department of Agriculture

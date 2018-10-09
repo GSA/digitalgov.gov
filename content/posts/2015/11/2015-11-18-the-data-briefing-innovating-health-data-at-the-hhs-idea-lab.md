@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - data
-  - data.gov
+  - data-gov
   - HHS
   - IHS
   - Indian Health Service

@@ -10,7 +10,7 @@ topics:
   - apps challenges
   - challenge-gov
   - challenges and prize competitions
-  - data.gov
+  - data-gov
   - EPA
   - innovation
   - United States Department of Energy

@@ -7,7 +7,7 @@ authors:
   - richard-easterbrook
 topics:
   - Data
-  - data.gov
+  - data-gov
   - DOI
   - FWS
   - US Department of the Interior

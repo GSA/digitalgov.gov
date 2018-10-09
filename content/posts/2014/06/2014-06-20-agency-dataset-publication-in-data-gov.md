@@ -9,7 +9,7 @@ topics:
   - API
   - Data
   - API
-  - data.gov
+  - data-gov
   - metadata
 ---
 

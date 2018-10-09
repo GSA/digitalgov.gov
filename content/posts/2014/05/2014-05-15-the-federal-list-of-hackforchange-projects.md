@@ -12,7 +12,7 @@ topics:
   - CFPB
   - challenge-gov
   - Consumer Financial Protection Bureau
-  - data.gov
+  - data-gov
   - Federal Emergency Management Agency
   - FEMA
   - HHS

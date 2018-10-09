@@ -10,7 +10,7 @@ topics:
   - Monthly Theme
   - challenge-gov
   - challenges and prize competitions
-  - data.gov
+  - data-gov
   - mobile apps
   - National Institute of Standards and Technology
   - NIST

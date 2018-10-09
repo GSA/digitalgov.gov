@@ -31,7 +31,7 @@ topics:
   - Challenges and Prizes Community of Practice
   - chatbots
   - cloud
-  - cloud.gov
+  - cloud-gov
   - communities
   - content
   - Customer Experience

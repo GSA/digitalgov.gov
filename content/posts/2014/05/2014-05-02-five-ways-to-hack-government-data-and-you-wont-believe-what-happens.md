@@ -12,7 +12,7 @@ topics:
   - Writing
   - Census
   - challenge-gov
-  - data.gov
+  - data-gov
   - innovation
   - National Day of Civic Hacking
   - national science foundation

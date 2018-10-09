@@ -11,7 +11,7 @@ topics:
   - Metrics
   - API
   - Census
-  - data.gov
+  - data-gov
   - EPA
   - metadata
   - mobile apps

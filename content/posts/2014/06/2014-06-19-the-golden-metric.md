@@ -10,7 +10,7 @@ topics:
   - Metrics
   - big data
   - DAP
-  - data.gov
+  - data-gov
   - Digital Analytics Program
   - NASA
   - USAgov

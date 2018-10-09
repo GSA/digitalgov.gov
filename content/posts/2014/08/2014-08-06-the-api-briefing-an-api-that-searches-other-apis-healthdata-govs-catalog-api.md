@@ -9,7 +9,7 @@ topics:
   - API
   - Code
   - API
-  - data.gov
+  - data-gov
   - HHS
   - United States Department of Health and Human Services
   - Wednesday API Briefing

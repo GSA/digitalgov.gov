@@ -13,7 +13,7 @@ topics:
   - 18F
   - agile
   - cloud
-  - cloud.gov
+  - cloud-gov
   - data
   - DATA Act
   - Digital Accountability and Transparency Act

@@ -10,7 +10,7 @@ topics:
   - Metrics
   - analytics
   - data
-  - data.gov
+  - data-gov
   - metrics
 ---
 

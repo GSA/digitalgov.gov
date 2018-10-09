@@ -9,7 +9,7 @@ topics:
   - Managing Digital
   - Our Work
   - Social Media
-  - data.gov
+  - data-gov
   - National Action Plan on Open Government
   - open government
 ---

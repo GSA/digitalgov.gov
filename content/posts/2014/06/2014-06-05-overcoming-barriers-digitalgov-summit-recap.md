@@ -15,7 +15,7 @@ topics:
   - Social Media
   - UX
   - challenge-gov
-  - data.gov
+  - data-gov
   - DOL
   - GitHub
   - Recaps

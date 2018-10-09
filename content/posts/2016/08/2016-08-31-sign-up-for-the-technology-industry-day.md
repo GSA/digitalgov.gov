@@ -14,7 +14,7 @@ topics:
   - agile
   - CIO
   - cloud
-  - cloud.gov
+  - cloud-gov
   - code
   - data
   - DATA Act

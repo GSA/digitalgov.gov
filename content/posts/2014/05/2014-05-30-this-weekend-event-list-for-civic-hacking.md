@@ -11,7 +11,7 @@ topics:
   - Census
   - CFPB
   - Consumer Financial Protection Bureau
-  - data.gov
+  - data-gov
   - DOL
   - DOT
   - EPA

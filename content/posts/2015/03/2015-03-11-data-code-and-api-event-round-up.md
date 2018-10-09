@@ -14,7 +14,7 @@ topics:
   - Consumer Financial Protection Bureau
   - Content Management System
   - data
-  - data.gov
+  - data-gov
   - drupal
   - GitHub
   - inventory.data.gov

@@ -8,7 +8,7 @@ authors:
 topics:
   - Code
   - Data
-  - data.gov
+  - data-gov
   - mobile
   - open data
 ---

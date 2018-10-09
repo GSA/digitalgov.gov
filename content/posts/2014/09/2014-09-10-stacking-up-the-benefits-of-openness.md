@@ -8,7 +8,7 @@ authors:
 topics:
   - Code
   - Social Media
-  - data.gov
+  - data-gov
   - open government
   - open source
   - Terms of Service

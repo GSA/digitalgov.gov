@@ -7,7 +7,7 @@ authors:
   - phaedra-chrousos
 topics:
   - Managing Digital
-  - data.gov
+  - data-gov
   - National Action Plan on Open Government
   - open government
 ---
