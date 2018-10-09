@@ -11,7 +11,8 @@ topics:
   - Data
   - Governance
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - best practices
   - data

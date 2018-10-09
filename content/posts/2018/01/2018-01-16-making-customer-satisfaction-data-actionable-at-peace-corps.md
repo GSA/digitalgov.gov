@@ -8,7 +8,8 @@ authors:
 topics:
   - data
   - metrics
-  - strategy-and-policy
+  - strategy
+  - policy
   - design
   - user-testing-and-research
   - peace-corps

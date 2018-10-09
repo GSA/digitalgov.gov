@@ -8,7 +8,8 @@ authors:
 topics:
   - code
   - metrics
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - analytics
   - best practices

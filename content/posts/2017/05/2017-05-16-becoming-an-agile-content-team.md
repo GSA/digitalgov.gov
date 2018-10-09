@@ -7,7 +7,8 @@ authors:
   - jessica-milcetich
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - agile
   - agile-lean-community-of-practice
   - GSA

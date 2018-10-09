@@ -7,7 +7,8 @@ authors:
   - craig-chavez
 topics:
   - metrics
-  - strategy-and-policy
+  - strategy
+  - policy
   - analytics
   - Customer Experience
   - Customer Experience Community of Practice

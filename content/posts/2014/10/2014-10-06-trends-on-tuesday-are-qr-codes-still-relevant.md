@@ -9,7 +9,8 @@ topics:
   - Communities
   - mobile
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - AoI
   - mobile
   - mobile-ux-guideline-5

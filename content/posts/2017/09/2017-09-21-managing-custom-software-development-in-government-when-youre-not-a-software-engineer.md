@@ -7,7 +7,8 @@ authors:
   - kaitlin-devine
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - agile
   - project-management

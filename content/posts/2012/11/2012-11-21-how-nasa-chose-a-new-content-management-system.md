@@ -9,7 +9,8 @@ topics:
   - api
   - content
   - Governance
-  - strategy-and-policy
+  - strategy
+  - policy
   - CMS
   - content-management-system
   - NASA

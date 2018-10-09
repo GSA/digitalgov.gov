@@ -8,7 +8,8 @@ authors:
 topics:
   - content
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - CMS
   - content-management-system
 ---

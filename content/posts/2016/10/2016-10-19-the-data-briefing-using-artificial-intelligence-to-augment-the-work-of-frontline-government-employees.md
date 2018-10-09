@@ -7,7 +7,8 @@ authors:
   - bbrantley
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - ai
   - artificial intelligence
   - chatbots

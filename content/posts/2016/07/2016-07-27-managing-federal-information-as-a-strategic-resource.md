@@ -10,7 +10,8 @@ authors:
   - marc-groman
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - acquisition
   - Office of Management and Budget
   - OMB

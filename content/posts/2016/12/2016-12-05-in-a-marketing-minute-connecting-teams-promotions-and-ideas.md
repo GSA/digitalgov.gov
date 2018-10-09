@@ -9,7 +9,8 @@ topics:
   - content
   - managing-digital
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - content
   - content strategy
   - GobiernoUSAgov

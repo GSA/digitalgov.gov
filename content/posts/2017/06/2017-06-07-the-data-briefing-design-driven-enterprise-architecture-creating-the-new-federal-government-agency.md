@@ -9,7 +9,8 @@ topics:
   - api
   - Data
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - agile
   - agile-lean-community-of-practice
   - architecture

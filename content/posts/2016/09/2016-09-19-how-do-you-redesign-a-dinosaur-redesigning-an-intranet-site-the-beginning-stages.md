@@ -11,7 +11,8 @@ topics:
   - Data
   - design
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - UX
   - content

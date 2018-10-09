@@ -7,7 +7,8 @@ authors:
   - gsa-blog-team
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - GSA
   - innovation

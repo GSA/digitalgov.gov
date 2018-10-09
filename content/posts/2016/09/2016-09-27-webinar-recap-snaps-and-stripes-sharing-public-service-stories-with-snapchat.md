@@ -10,7 +10,8 @@ topics:
   - content
   - managing-digital
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - UX
   - Video
   - accessibility

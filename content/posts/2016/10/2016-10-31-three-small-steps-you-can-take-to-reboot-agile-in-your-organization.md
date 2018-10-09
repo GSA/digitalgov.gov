@@ -8,7 +8,8 @@ authors:
   - michael-torres
   - kristy-singletary
 topics:
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - 18f
   - agile

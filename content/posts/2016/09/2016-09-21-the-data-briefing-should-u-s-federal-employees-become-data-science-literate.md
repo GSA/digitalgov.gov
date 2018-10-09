@@ -7,7 +7,8 @@ authors:
   - bbrantley
 topics:
   - Data
-  - strategy-and-policy
+  - strategy
+  - policy
   - data
   - open data
   - The Data Briefing

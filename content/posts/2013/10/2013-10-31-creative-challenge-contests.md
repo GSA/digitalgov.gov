@@ -8,7 +8,8 @@ authors:
 topics:
   - challenges
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - analytics
   - apps-challenges
   - challenge-gov

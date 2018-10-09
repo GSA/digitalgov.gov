@@ -7,7 +7,8 @@ authors:
   - victoria-wales
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - analytics
   - email marketing
   - metrics

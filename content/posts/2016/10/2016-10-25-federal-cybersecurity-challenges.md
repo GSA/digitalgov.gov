@@ -7,7 +7,8 @@ authors:
   - gao-watchblog
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - security
 ---
 

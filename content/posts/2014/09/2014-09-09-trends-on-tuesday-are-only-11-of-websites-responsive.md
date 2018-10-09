@@ -7,7 +7,8 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - Defense Finance and Accounting Services
   - DFAS
   - DOE

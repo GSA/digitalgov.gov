@@ -9,7 +9,8 @@ topics:
   - content
   - Monthly Theme
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - aiDS-gov
   - content
   - content strategy

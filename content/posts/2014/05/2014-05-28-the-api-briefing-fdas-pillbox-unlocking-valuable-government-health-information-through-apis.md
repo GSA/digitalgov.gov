@@ -9,7 +9,8 @@ topics:
   - api
   - code
   - Data
-  - strategy-and-policy
+  - strategy
+  - policy
   - api
   - GitHub
   - National Institutes of Health

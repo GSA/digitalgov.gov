@@ -10,7 +10,8 @@ topics:
   - design
   - managing-digital
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - accessibility
   - architecture
   - content

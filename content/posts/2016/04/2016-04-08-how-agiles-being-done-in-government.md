@@ -8,7 +8,8 @@ authors:
 topics:
   - managing-digital
   - Monthly Theme
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - agile
   - Census

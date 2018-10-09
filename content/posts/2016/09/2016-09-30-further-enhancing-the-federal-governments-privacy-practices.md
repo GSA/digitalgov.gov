@@ -7,7 +7,8 @@ authors:
   - marc-groman
 topics:
   - Governance
-  - strategy-and-policy
+  - strategy
+  - policy
   - Office of Management and Budget
   - OMB
   - security

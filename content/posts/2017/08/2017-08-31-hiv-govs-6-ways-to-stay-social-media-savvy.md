@@ -10,7 +10,8 @@ featured_image:
   alt: 'Social network and media concept illustration of a switch knob with icons.'
 topics:
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - content-strategy
   - hiv-gov
   - social-media

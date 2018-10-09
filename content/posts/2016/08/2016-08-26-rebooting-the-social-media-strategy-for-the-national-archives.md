@@ -12,7 +12,8 @@ topics:
   - content
   - managing-digital
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - content strategy
   - NARA
   - National Archives and Records Administration

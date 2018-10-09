@@ -9,7 +9,8 @@ authors:
 topics:
   - Governance
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - innovation
   - OSTP
   - white-house-office-of-science-and-technology-policy

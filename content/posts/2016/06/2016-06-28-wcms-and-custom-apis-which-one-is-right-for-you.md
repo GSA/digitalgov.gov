@@ -8,7 +8,8 @@ authors:
 topics:
   - api
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - api
   - CMS
   - code

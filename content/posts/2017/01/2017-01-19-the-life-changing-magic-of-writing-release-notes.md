@@ -7,7 +7,8 @@ authors:
   - noah-manger
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - agile
   - best practices

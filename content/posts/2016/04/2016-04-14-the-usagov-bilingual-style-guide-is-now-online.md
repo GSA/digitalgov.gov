@@ -10,7 +10,8 @@ topics:
   - content
   - design
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - UX
   - accessibility
   - multilingual

@@ -7,7 +7,8 @@ authors:
   - andrew-j-stauffer
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - agile
   - lean
   - methodology

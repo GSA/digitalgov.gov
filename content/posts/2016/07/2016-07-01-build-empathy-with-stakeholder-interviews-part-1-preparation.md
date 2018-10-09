@@ -7,7 +7,8 @@ deck: 'What stakeholder interviews are, why they’re valuable, and how to prepa
 authors:
   - andrew-maier
 topics:
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - 18f
   - user centered design

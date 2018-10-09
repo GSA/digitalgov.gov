@@ -8,7 +8,8 @@ authors:
 topics:
   - Challenges
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - challenge-gov
   - SocialGov
 ---

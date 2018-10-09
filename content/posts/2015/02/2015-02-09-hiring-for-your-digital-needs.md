@@ -7,7 +7,8 @@ authors:
   - kdaniel
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - National Oceanic and Atmospheric Administration
   - NOAA
   - US Citizenship and Immigration Service

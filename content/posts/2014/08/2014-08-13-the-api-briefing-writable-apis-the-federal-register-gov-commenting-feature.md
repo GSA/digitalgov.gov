@@ -7,7 +7,8 @@ authors:
   - bbrantley
 topics:
   - api
-  - strategy-and-policy
+  - strategy
+  - policy
   - api
   - Federal Register
   - OPM

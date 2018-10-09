@@ -7,7 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - mobile-gov-experience
   - Smithsonian Institution
 ---

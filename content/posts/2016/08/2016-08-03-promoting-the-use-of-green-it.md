@@ -7,7 +7,8 @@ authors:
   - tony-scott
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - Federal Information Technology Acquisition Reform Act
   - FITARA
   - green IT

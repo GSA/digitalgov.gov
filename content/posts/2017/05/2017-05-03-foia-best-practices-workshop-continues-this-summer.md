@@ -8,7 +8,8 @@ authors:
 topics:
   - Governance
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - DOJ
   - FOIA
   - Freedom of Information Act

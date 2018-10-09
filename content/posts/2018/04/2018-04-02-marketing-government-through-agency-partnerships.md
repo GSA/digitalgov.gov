@@ -10,7 +10,8 @@ topics:
   - design
   - metrics
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - writing
   - accessibility
   - accessibility

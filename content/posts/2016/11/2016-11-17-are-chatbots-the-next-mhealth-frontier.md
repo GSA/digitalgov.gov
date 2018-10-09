@@ -10,7 +10,8 @@ topics:
   - content
   - mobile
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - app
   - chatbots
   - HHS

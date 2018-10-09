@@ -10,7 +10,8 @@ topics:
   - Communities
   - crowdsourcing-and-citizen-science
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
   - citizen science

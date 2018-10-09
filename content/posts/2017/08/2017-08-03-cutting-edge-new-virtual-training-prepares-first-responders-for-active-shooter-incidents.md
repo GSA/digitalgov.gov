@@ -7,7 +7,8 @@ authors:
   - department-of-homeland-security
 
 topics:
-  - strategy-and-policy
+  - strategy
+  - policy
   - User Testing and Research
   - UX
   - Video

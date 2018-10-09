@@ -9,7 +9,8 @@ topics:
   - Governance
   - managing-digital
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - FAS
   - Federal Acquisition Service
   - GSA

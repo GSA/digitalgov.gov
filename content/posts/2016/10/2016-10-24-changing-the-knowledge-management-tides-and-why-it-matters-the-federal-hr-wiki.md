@@ -10,7 +10,8 @@ authors:
 topics:
   - content
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - content
   - content strategy
   - innovation

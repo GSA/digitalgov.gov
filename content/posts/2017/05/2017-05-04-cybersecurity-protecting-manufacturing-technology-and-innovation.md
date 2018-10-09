@@ -7,7 +7,8 @@ authors:
   - pat-toth
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - best practices
   - Commerce
   - data

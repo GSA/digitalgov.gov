@@ -19,7 +19,8 @@ topics:
   - mobile
   - Our Work
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - UX
   - 18f

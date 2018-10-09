@@ -9,7 +9,8 @@ topics:
   - Data
   - managing-digital
   - metrics
-  - strategy-and-policy
+  - strategy
+  - policy
   - analytics
   - data
   - innovation

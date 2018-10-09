@@ -8,7 +8,8 @@ authors:
 topics:
   - managing-digital
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - DHS
   - mobile
   - National Institute of Standards and Technology

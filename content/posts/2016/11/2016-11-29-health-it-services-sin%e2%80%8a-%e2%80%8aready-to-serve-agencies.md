@@ -7,7 +7,8 @@ authors:
   - mary-davie
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - Federal Health IT Strategic Plan
   - GSA
   - IT Schedule 70

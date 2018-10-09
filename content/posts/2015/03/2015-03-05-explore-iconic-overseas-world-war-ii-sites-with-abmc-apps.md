@@ -7,7 +7,8 @@ authors:
   - kdowney
 topics:
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - abmc
   - american-battle-monuments-commission
   - mobile-apps

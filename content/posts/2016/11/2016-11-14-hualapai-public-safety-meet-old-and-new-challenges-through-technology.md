@@ -9,7 +9,8 @@ topics:
   - Data
   - managing-digital
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - Video
   - audio-video

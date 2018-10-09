@@ -8,7 +8,8 @@ authors:
 topics:
   - Governance
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - HHS
   - United States Department of Health and Human Services
 ---

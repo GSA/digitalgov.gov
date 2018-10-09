@@ -7,7 +7,8 @@ authors:
   - communications-community-office-government-of-canada
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - social media
 ---
 

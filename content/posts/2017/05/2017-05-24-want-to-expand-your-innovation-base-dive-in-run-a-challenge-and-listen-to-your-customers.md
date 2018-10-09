@@ -8,7 +8,8 @@ authors:
 topics:
   - Challenges
   - crowdsourcing-and-citizen-science
-  - strategy-and-policy
+  - strategy
+  - policy
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
   - crowdsourcing

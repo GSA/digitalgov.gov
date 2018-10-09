@@ -15,7 +15,8 @@ topics:
   - Governance
   - managing-digital
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - challenges and prize competitions
   - citizen science
   - code

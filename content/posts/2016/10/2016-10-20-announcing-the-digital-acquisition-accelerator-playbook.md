@@ -7,7 +7,8 @@ authors:
   - duane-rollins
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - acquisition
   - agile

@@ -8,7 +8,8 @@ authors:
 topics:
   - code
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - code
   - memo
   - NASA

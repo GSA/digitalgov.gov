@@ -9,7 +9,8 @@ topics:
   - code
   - design
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - UX
   - 18f
   - code

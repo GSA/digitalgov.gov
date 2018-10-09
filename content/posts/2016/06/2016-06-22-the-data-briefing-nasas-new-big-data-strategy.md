@@ -8,7 +8,8 @@ authors:
 topics:
   - Data
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - big data
   - data
   - NASA

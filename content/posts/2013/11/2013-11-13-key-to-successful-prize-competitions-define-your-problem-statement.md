@@ -7,7 +7,8 @@ authors:
   - tlowden
 topics:
   - Challenges
-  - strategy-and-policy
+  - strategy
+  - policy
   - challenge-gov
   - challenges and prize competitions
 ---

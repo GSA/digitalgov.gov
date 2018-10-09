@@ -8,7 +8,8 @@ authors:
   - andrew-maier
 topics:
   - design
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - UX
   - State

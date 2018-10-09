@@ -6,7 +6,8 @@ summary: It is easy to start a business today and especially an Internet-based b
 authors:
   - bbrantley
 topics:
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - CFPB
   - Consumer Financial Protection Bureau

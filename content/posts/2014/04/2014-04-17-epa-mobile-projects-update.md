@@ -7,7 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - EPA
   - mobile-apps
   - Thursday Mobile Products

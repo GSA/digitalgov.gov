@@ -9,7 +9,8 @@ topics:
   - code
   - content
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - Video
   - 18f
   - audio

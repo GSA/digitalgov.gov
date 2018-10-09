@@ -10,7 +10,8 @@ topics:
   - Data
   - Governance
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - code
   - innovation
   - Office of Management and Budget

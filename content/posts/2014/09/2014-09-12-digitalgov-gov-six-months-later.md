@@ -11,7 +11,8 @@ topics:
   - managing-digital
   - Our Work
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - analytics
   - content strategy
   - GSA

@@ -7,7 +7,8 @@ authors:
   - logan-powell
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - Census
   - United States Census Bureau
 ---

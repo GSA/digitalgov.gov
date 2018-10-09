@@ -9,7 +9,8 @@ topics:
   - Data
   - managing-digital
   - metrics
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - UX
   - agile

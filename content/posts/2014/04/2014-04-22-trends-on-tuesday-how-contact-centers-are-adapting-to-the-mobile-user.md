@@ -9,7 +9,8 @@ topics:
   - Communities
   - mobile
   - Monthly Theme
-  - strategy-and-policy
+  - strategy
+  - policy
   - AoI
   - GPS
   - mobile-apps

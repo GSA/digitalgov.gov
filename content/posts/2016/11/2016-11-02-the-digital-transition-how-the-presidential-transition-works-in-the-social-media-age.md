@@ -12,7 +12,8 @@ topics:
   - managing-digital
   - mobile
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - Video
   - audio-video
   - code

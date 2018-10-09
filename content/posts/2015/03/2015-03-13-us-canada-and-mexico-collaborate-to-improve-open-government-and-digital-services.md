@@ -8,7 +8,8 @@ authors:
 topics:
   - Governance
   - Monthly Theme
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - connect-gov
   - data-gov

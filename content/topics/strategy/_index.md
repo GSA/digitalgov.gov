@@ -1,15 +1,15 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/strategy-and-policy
+# https://digital.gov/topics/strategy
 
 # Topic Title
-title: "Strategy & Policy"
+title: "Strategy"
 
 # description — keep it short and clear
 summary: ""
 
 # Weight
-weight: 1
+weight: 3
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki/topics

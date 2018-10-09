@@ -6,7 +6,8 @@ summary: 'Summary: It’s been two years since we laid out the Administration’
 authors:
   - anne-rung
 topics:
-  - strategy-and-policy
+  - strategy
+  - policy
   - acquisition
   - agile
   - GSA

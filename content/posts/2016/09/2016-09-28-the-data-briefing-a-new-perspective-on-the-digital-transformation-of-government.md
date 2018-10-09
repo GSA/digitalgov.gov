@@ -9,7 +9,8 @@ topics:
   - code
   - Data
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - agile
   - architecture
   - cloud

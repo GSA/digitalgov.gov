@@ -7,7 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - Federal CrowdSource Mobile Testing Program
   - Internet of things
   - open data

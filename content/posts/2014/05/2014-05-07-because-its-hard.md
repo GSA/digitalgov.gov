@@ -10,7 +10,8 @@ topics:
   - managing-digital
   - Monthly Theme
   - Our Work
-  - strategy-and-policy
+  - strategy
+  - policy
   - UX
   - api
   - Census

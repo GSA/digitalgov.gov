@@ -8,7 +8,8 @@ authors:
   - eric-mill
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - GSA
   - HTTPS
   - security

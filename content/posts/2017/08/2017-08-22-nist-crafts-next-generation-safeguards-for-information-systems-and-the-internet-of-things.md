@@ -7,7 +7,8 @@ authors:
  - nist
 topics:
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - Internet of things
   - IoT
   - National Institute of Standards and Technology

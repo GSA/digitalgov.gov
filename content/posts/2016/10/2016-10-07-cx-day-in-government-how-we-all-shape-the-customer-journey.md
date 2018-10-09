@@ -6,7 +6,8 @@ summary: 'During National Customer Service Week, it&#8217;s a great time for org
 authors:
   - matthew-ford
 topics:
-  - strategy-and-policy
+  - strategy
+  - policy
   - Customer Experience
   - customer service
   - CX

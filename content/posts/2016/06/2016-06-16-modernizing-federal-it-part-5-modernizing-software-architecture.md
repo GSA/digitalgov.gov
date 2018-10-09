@@ -8,7 +8,8 @@ authors:
 topics:
   - code
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - architecture
   - infrastructure
   - SSA

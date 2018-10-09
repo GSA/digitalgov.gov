@@ -7,7 +7,8 @@ authors:
   - ktrebon
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - UX
   - "508"
   - accessibility

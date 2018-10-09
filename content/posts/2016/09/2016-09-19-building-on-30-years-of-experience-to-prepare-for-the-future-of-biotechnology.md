@@ -11,7 +11,8 @@ authors:
   - james-kim
 topics:
   - Governance
-  - strategy-and-policy
+  - strategy
+  - policy
   - EPA
   - FDA
   - Federal Register

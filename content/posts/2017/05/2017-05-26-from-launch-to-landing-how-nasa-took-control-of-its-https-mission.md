@@ -7,7 +7,8 @@ authors:
   - karim-said
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - DHS
   - GSA

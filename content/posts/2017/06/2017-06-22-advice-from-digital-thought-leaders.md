@@ -9,7 +9,8 @@ topics:
   - content
   - mobile
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - data
   - hiv-gov
   - HHS

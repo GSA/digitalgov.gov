@@ -7,7 +7,8 @@ authors:
   - office-of-information-policy-doj
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - 18f
   - FOIA

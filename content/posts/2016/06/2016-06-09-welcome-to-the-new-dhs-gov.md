@@ -11,7 +11,8 @@ topics:
   - design
   - managing-digital
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - UX
   - "508"
   - accessibility

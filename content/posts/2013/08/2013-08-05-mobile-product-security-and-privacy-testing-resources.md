@@ -8,7 +8,8 @@ authors:
 topics:
   - code
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - GitHub
   - mobile-testing

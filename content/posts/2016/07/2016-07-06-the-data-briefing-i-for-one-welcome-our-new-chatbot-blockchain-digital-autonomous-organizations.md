@@ -10,7 +10,8 @@ topics:
   - code
   - Data
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - UX
   - api
   - blockchain

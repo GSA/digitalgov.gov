@@ -7,7 +7,8 @@ authors:
   - kdaniel
 topics:
   - Governance
-  - strategy-and-policy
+  - strategy
+  - policy
   - CIO Council
 ---
 

@@ -10,7 +10,8 @@ authors:
 topics:
   - content
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - content
   - content strategy
   - NARA

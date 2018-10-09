@@ -7,7 +7,8 @@ authors:
   - jeff-koses
 topics:
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - acquisition
   - cloud
   - content strategy

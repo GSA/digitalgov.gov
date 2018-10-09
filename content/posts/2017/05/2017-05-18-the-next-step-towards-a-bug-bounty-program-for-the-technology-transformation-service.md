@@ -10,7 +10,8 @@ authors:
   - waldo-jaquith
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - DoD
   - security

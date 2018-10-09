@@ -7,7 +7,8 @@ authors:
   - v-david-zvenyach
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - 18f
   - FedRAMP
   - GSA

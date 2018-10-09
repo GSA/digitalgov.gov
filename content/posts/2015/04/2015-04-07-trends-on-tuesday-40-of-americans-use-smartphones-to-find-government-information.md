@@ -8,7 +8,8 @@ authors:
 topics:
   - managing-digital
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - mobile
   - mobile-ux-guideline-5
   - mobile-first

@@ -8,7 +8,8 @@ authors:
 topics:
   - Governance
   - mobile
-  - strategy-and-policy
+  - strategy
+  - policy
   - Digital Health Innovation Plan
   - FDA
   - HHS

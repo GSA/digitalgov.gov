@@ -10,7 +10,8 @@ topics:
   - managing-digital
   - mobile
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - content
   - content strategy
   - Federal Emergency Management Agency

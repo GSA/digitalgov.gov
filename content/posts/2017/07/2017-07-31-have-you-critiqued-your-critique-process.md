@@ -9,7 +9,8 @@ authors:
 topics:
   - design
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - User Testing and Research
   - UX
   - Best Practices

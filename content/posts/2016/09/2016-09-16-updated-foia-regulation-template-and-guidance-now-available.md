@@ -7,7 +7,8 @@ authors:
   - office-of-information-policy
 topics:
   - Governance
-  - strategy-and-policy
+  - strategy
+  - policy
   - DOJ
   - FOIA
   - Freedom of Information Act

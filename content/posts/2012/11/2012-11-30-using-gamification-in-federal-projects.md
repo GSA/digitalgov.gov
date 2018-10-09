@@ -7,7 +7,8 @@ authors:
   - mike-kruger
 topics:
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - Department of Commerce
   - gamification
   - mobile
