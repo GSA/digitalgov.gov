@@ -2,7 +2,9 @@
 slug: apples-ios-terms-of-service-developer-program-license-agreement
 date: 2013-05-30 11:10:13 -0400
 title: 'Apple&#8217;s iOS Terms of Service & Developer Program License Agreement'
-summary: The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later
+summary: 'The information included in this article is based on the experiences provided by members of the MobileGov Community of Practice.'
+authors:
+  - mobilegov-team
 categories:
   - Mobile
   - Social Media
@@ -13,9 +15,9 @@ tag:
   - TOS
 ---
 
-{{< legacy-img src="2014/08/250-x-250-Apple-App-Store-icon.jpg" alt="250 x 250 Apple App Store icon" >}}The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later be distributed to the public, free of charge.
+{{< legacy-img-right src="2014/08/250-x-250-Apple-App-Store-icon.jpg" alt="250 x 250 Apple App Store icon" >}}The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later be distributed to the public, free of charge.
 
-The information included in this article is based on the experiences provided by members of the [MobileGov Community of Practice]({{< link "categories/mobile" >}}). While there is no government-wide terms of service with Apple, the iOS Developer Program License Agreement (as of the October 4, 2011 revision) contains provisions that allow federal agencies to agree to the terms.
+The information included in this article is based on the experiences provided by members of the [MobileGov Community of Practice](https://digital.gov/communities/mobile/). While there is no government-wide terms of service with Apple, the iOS Developer Program License Agreement (as of the October 4, 2011 revision) contains provisions that allow federal agencies to agree to the terms.
 
 Namely, the Agreement contains a section covering “Dispute Resolution; Governing Law” and “Indemnification” such that the Agreement shall be governed in accordance with the laws of the United States of America, and agency indemnification obligations are only applicable to the extent they would not cause an agency to violate any applicable law, such as the Anti-Deficiency Act. U.S. government attorneys have reviewed the Agreement and have determined that it contains sufficient wording to permit federal agencies to agree to the licensing terms.
 
