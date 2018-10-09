@@ -16,7 +16,7 @@ topics:
   - Thursday Mobile Products
   - US Department of Veterans Affairs
   - United States Department of Health and Human Services
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - VA
 ---
 

@@ -12,7 +12,7 @@ topics:
   - American Battle Monuments Commission
   - mobile apps
   - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 <div class="testimonial small">

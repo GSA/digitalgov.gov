@@ -12,7 +12,7 @@ topics:
   - mobile apps
   - native app
   - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/08/600-x-331-Three-ABMC-app-home-screens.jpg" alt="A composite of screenshots of homescreens for three American Battle Monuments Commission (ABMC) apps: Flanders Field American Cemetery, Meuse-Argonne American Cemetery, and Sicily-Rome American Cemetery and Memorial." >}}

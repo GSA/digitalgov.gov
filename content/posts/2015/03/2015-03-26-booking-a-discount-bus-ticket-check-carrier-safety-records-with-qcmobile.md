@@ -12,7 +12,7 @@ topics:
   - mobile apps
   - Thursday Mobile Products
   - United States Department of Transportation
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 The new app from the Department of Transportation’s Federal Motor Carrier Safety Administration called “QCMobile” empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&#8217;s mobile strategy, as they have also recently released the [SaferRide app]({{< link "2015-01-22-saferride-app-could-save-your-life.md" >}}).

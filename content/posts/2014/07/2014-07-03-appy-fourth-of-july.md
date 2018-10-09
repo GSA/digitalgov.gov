@@ -12,7 +12,7 @@ topics:
   - NPS
   - Thursday Mobile Products
   - US National Park Service
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2014/07/600-x-410-July-4th-Fireworks-Washington-DC-by-Carol-M-Highsmith-2007-04460a.jpg" alt="Fireworks over Washington, D.C., July 4, 2007 by Carol M. Highsmith" caption="" >}}

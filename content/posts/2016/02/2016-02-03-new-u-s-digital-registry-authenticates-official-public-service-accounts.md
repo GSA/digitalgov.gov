@@ -8,7 +8,7 @@ authors:
 topics:
   - Our Work
   - Social Media
-  - analytics.usa.gov
+  - analytics-usa-gov
   - API
   - MobileGov
   - open source

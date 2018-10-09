@@ -11,7 +11,7 @@ topics:
   - SAMHSA
   - Thursday Mobile Products
   - United States Department of Health and Human Services
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/06/600-x-325-SAMHSA-Behavioral-Health-Disaster-Response-Mobile-App-YouTube-screen-capture-FEMA-Corps.jpg" alt="600-x-325-SAMHSA-Behavioral-Health-Disaster-Response-Mobile-App-YouTube-screen-capture-FEMA-Corps" >}}

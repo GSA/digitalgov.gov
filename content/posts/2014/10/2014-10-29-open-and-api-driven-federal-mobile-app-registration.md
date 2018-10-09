@@ -17,7 +17,7 @@ topics:
   - native app
   - open data
   - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2014/10/600-x-120-app-icons-banner.jpg" alt="600-x-120-app-icons-banner" >}}

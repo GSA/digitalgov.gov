@@ -10,7 +10,7 @@ topics:
   - Thursday Mobile Products
   - US Immigration and Customs Enforcement
   - United States Department of Homeland Security
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 It&#8217;s disturbing to think about, but essential for all of us to know about: The sexual abuse and exploitation of children.

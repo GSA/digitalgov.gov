@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - Mobile
-  - analytics.usa.gov
+  - analytics-usa-gov
   - Digital Analytics Program
   - mobile-friendly
   - Trends on Tuesday

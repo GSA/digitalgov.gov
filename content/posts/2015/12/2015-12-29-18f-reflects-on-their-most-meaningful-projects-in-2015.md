@@ -9,7 +9,7 @@ topics:
   - Our Work
   - 18F
   - accessibility
-  - analytics.usa.gov
+  - analytics-usa-gov
   - API
   - cloud
   - DAP

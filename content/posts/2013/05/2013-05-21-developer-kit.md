@@ -8,7 +8,7 @@ authors:
 topics:
   - Code
   - API
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 These are the elements that make up a well-rounded developer hub.

@@ -16,7 +16,7 @@ topics:
   - MobileGov
   - social media
   - US Digital Registry
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 We have received an amazing response to the [U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}}), our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.

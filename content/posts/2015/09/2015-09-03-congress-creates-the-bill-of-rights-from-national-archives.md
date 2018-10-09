@@ -11,7 +11,7 @@ topics:
   - NARA
   - National Archives and Records Administration
   - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/08/480-x-351-NARA-Congress-Creates-the-Bill-of-Rights-app-Constitutional-Amendment.jpg" alt="The NARA app, Congress Creates the Bill of Rights, showing a Constitutional amendment screen on an iPad" >}}

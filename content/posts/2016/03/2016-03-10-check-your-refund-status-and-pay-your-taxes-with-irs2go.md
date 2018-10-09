@@ -12,7 +12,7 @@ topics:
   - mobile apps
   - Thursday Mobile Products
   - US Digital Registry
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 This tax season, it’s not just taxpayers expecting a refund who can take advantage of [IRS2Go](https://www.irs.gov/uac/IRS2GoApp), the IRS’ mobile app, but now taxpayers who owe money are able to make payments through the app.

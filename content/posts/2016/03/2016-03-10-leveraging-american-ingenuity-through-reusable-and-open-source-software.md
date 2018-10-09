@@ -10,7 +10,7 @@ topics:
   - Managing Digital
   - Monthly Theme
   - 18F
-  - analytics.usa.gov
+  - analytics-usa-gov
   - CFPB
   - Consumer Financial Protection Bureau
   - data.gov

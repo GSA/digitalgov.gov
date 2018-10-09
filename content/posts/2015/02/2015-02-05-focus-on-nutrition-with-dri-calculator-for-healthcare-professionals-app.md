@@ -13,7 +13,7 @@ topics:
   - Thursday Mobile Products
   - US Department of Agriculture
   - US Immigration and Customs Enforcement
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - USDA
 ---
 

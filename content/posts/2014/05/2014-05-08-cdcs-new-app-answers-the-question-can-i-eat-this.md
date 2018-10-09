@@ -9,7 +9,7 @@ topics:
   - Centers for Disease Control and Prevention
   - mobile apps
   - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 I&#8217;ll be honest: When I had only heard the name of the new mobile app from the **[Centers for Disease Control and Prevention](http://www.cdc.gov/)**, I thought, &#8220;Interesting — another dieting app to add to my phone.&#8221;

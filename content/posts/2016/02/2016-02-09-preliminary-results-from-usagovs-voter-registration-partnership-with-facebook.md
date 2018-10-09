@@ -9,7 +9,7 @@ topics:
   - Metrics
   - Social Media
   - analytics
-  - analytics.usa.gov
+  - analytics-usa-gov
   - Facebook
   - social media
   - social media metrics

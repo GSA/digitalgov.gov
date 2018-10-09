@@ -14,7 +14,7 @@ topics:
   - The United States Social Security Administration
   - Thursday Mobile Products
   - United States Geological Survey
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - USGS
 ---
 

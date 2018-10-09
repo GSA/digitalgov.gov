@@ -11,7 +11,7 @@ topics:
   - ios
   - mobile apps
   - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/07/250-x-445-CDC-TravWell-app-main-screen-from-Apple-iTunes.jpg" alt="The CDC's TravWell app's main screen" >}}Ahhh… Summer is here at last! It’s time for relaxing vacation!

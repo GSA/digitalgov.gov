@@ -24,7 +24,7 @@ topics:
   - US Department of Labor
   - United States Department of Energy
   - United States Patent and Trademark Office
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - USPTO
 ---
 

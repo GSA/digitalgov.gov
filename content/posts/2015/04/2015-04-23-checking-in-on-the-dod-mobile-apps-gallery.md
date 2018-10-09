@@ -10,7 +10,7 @@ topics:
   - DoD
   - Thursday Mobile Products
   - United States Department of Defense
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/04/600-x-338-Screen-capture-of-a-design-schematic-from-the-Make-It-Fly-create-your-own-Air-Force-planes-Android-app.jpg" alt="Screen capture of a design schematic from Make It Fly: create your own Air Force planes Android app." >}}

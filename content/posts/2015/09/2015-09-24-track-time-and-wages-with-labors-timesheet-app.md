@@ -14,7 +14,7 @@ topics:
   - The United States Social Security Administration
   - Thursday Mobile Products
   - US Department of Labor
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Timesheet-Form-Hailshadow-iStock-Thinkstock-492303047.jpg" alt="A paper timesheet form" caption="" >}} 

@@ -10,7 +10,7 @@ topics:
   - Code
   - Data
   - 18F
-  - analytics.usa.gov
+  - analytics-usa-gov
   - API
   - data.gov
   - open data
