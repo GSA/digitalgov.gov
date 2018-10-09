@@ -6,7 +6,7 @@ summary: 'On Thursday, July 17, the FCC&#8217;s Accessibility and Innovation Ini
 authors:
   - jamal-mazrui
 topics:
-  - Accessibility
+  - accessibility
   - Social Media
   - accessibility
   - FCC

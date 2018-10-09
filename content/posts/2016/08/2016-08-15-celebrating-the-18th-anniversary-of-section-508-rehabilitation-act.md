@@ -6,7 +6,7 @@ summary: 'August 8, 2016, marks the 18th anniversary of the amendment to the Sec
 authors:
   - apiazza
 topics:
-  - Accessibility
+  - accessibility
   - Managing Digital
   - UX
   - accessibility

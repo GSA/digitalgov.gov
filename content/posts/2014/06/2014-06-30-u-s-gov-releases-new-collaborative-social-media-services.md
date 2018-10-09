@@ -6,7 +6,7 @@ summary: ' The Federal #SocialGov Community, a collective of almost 700 digital 
 authors:
   - jherman
 topics:
-  - Accessibility
+  - accessibility
   - Metrics
   - Our Work
   - Social Media

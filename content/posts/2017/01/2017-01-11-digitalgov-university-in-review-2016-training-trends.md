@@ -6,7 +6,7 @@ summary: 'DigitalGov University (DGU), the events platform for DigitalGov, provi
 authors:
   - jthalls
 topics:
-  - Accessibility
+  - accessibility
   - API
   - Challenges
   - Communities

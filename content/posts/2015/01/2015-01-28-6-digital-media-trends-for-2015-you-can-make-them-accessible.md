@@ -6,7 +6,7 @@ summary: ' Resolutions and predictions abound this time of year. If you’ve alr
 authors:
   - angela-hooker
 topics:
-  - Accessibility
+  - accessibility
   - Monthly Theme
   - UX
   - accessibility

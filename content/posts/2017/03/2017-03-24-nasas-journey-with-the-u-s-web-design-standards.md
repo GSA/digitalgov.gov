@@ -6,7 +6,7 @@ summary: 'The U.S. Web Design Standards were created by the government, for the 
 authors:
   - julia-elman
 topics:
-  - Accessibility
+  - accessibility
   - Design
   - strategy-and-policy
   - UX

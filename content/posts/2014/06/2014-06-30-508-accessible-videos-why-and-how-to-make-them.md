@@ -8,7 +8,7 @@ authors:
   - ryan-leisinger
   - gary-morin
 topics:
-  - Accessibility
+  - accessibility
   - UX
   - Video
   - section 508

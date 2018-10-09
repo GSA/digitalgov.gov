@@ -6,7 +6,7 @@ summary: It is undeniable the reach of online video into our modern lives. From 
 authors:
   - ryan-leisinger
 topics:
-  - Accessibility
+  - accessibility
   - Content
   - Video
   - section 508

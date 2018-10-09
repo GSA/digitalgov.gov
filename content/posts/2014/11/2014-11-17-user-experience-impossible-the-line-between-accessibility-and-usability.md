@@ -6,7 +6,7 @@ summary: 'Bob goes to a popular federal government site, using his assistive tec
 authors:
   - angela-hooker
 topics:
-  - Accessibility
+  - accessibility
   - Design
   - Monthly Theme
   - user-testing-and-research

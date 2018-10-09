@@ -6,7 +6,7 @@ summary: 'The recent #SocialGov Summit on accessibility of government social med
 authors:
   - jherman
 topics:
-  - Accessibility
+  - accessibility
   - Social Media
   - SocialGov
 ---

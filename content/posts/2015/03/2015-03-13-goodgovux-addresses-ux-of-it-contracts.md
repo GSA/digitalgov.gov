@@ -6,7 +6,7 @@ summary: How do you define user experience (UX)? That was the question posed to 
 authors:
   - jordan-higgins
 topics:
-  - Accessibility
+  - accessibility
   - Design
   - user-testing-and-research
   - UX

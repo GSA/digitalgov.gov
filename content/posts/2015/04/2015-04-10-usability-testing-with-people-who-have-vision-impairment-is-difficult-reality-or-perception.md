@@ -6,7 +6,7 @@ summary: 'It’s a forgone conclusion that usability studies are effective in id
 authors:
   - stacey-sarris
 topics:
-  - Accessibility
+  - accessibility
   - UX
   - accessibility
   - usability

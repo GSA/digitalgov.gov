@@ -6,7 +6,7 @@ summary: 'The Portable Document Format, or &ldquo;PDF&rdquo; file, is one of the
 authors:
   - mark-urban
 topics:
-  - Accessibility
+  - accessibility
   - CDC
   - Centers for Disease Control and Prevention
 ---

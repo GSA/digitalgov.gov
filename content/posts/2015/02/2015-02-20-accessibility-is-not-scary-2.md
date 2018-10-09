@@ -6,7 +6,7 @@ summary: The word accessibility breeds misconceptions. Why? Because accessibilit
 authors:
   - david-a-kennedy
 topics:
-  - Accessibility
+  - accessibility
   - accessibility
   - usability
 ---

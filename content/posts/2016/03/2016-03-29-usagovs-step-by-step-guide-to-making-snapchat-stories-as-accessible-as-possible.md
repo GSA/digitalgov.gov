@@ -6,7 +6,7 @@ summary: 'One of the biggest things we take into account whenever we consider la
 authors:
   - jessica-milcetich
 topics:
-  - Accessibility
+  - accessibility
   - Social Media
   - accessibility
   - USAgov

@@ -6,7 +6,7 @@ summary: 'Federal agencies do not get a free pass on accessibility for mobile&md
 authors:
   - jparcell
 topics:
-  - Accessibility
+  - accessibility
   - Mobile
   - "508"
   - accessibility

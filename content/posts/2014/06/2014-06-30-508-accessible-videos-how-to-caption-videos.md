@@ -8,7 +8,7 @@ authors:
   - gary-morin
   - jonathan-rubin
 topics:
-  - Accessibility
+  - accessibility
   - Video
   - section 508
   - YouTube

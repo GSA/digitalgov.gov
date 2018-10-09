@@ -6,7 +6,7 @@ summary: 'The cream of the crop of the top of the mountain of ALL of the surveys
 authors:
   - jonathan-rubin
 topics:
-  - Accessibility
+  - accessibility
   - Communities
   - Design
   - Monthly Theme

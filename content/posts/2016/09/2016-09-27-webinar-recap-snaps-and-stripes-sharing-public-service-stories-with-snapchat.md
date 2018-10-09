@@ -6,7 +6,7 @@ summary: What does Snapchat, the disappearing message-and-video platform most us
 authors:
   - lisa-bari
 topics:
-  - Accessibility
+  - accessibility
   - Content
   - Managing Digital
   - Social Media

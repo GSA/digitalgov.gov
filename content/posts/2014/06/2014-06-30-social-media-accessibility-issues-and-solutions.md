@@ -6,7 +6,7 @@ summary: 'The more public information is digitized, the more it lands on or spro
 authors:
   - victoria-wales
 topics:
-  - Accessibility
+  - accessibility
   - Monthly Theme
   - Social Media
   - Video

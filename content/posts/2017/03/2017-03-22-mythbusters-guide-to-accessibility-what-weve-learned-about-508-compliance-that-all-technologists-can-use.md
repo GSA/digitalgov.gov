@@ -6,7 +6,7 @@ summary: 'As government technology improves and accelerates, the U.S. Digital Se
 authors:
   - nick-heiner
 topics:
-  - Accessibility
+  - accessibility
   - Design
   - UX
   - accessibility

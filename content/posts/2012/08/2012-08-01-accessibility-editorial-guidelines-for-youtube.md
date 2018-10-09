@@ -6,7 +6,7 @@ summary: ' Introduction USA.gov and GobiernoUSA.gov use social media to make gov
 authors:
   - lgodfrey
 topics:
-  - Accessibility
+  - accessibility
   - Content
   - Video
   - accessibility

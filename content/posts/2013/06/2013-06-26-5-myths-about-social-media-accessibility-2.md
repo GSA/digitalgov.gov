@@ -6,7 +6,7 @@ summary: Guest post by Mario Damiani, Office of Disability Employment Policy (OD
 authors:
   - mario-damiani
 topics:
-  - Accessibility
+  - accessibility
   - Social Media
   - accessibility
   - social media

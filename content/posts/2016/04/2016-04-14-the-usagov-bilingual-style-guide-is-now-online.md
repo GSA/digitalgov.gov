@@ -6,7 +6,7 @@ summary: 'About a year and a half ago, the Federal Citizen Information Center&md
 authors:
   - lgodfrey
 topics:
-  - Accessibility
+  - accessibility
   - Content
   - Design
   - Managing Digital

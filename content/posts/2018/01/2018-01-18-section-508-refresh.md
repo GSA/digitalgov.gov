@@ -6,7 +6,7 @@ summary: 'Effective January 18, 2018, the revised 508 standards modernize the fe
 authors:
   - rflagg
 topics:
-  - Accessibility
+  - accessibility
   - accessibility
   - section-508
 featured_image:

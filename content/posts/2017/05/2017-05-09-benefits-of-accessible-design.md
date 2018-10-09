@@ -6,7 +6,7 @@ summary: 'According to the World Bank, approximately one billion people worldwid
 authors:
   - phillip-crawford
 topics:
-  - Accessibility
+  - accessibility
   - Design
   - UX
   - accessibility

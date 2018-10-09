@@ -6,7 +6,7 @@ summary: Happy anniversary, baby! Seventies pop songs aside, July 26, 2014, was 
 authors:
   - angela-hooker
 topics:
-  - Accessibility
+  - accessibility
   - UX
   - accessibility
   - Americans with Disabilities Act

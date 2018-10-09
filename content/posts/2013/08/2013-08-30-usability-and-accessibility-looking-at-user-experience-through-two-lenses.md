@@ -6,7 +6,7 @@ summary: 'Usability and accessibility are slightly different lenses to assess us
 authors:
   - katie-messner
 topics:
-  - Accessibility
+  - accessibility
   - user-testing-and-research
   - UX
   - accessibility

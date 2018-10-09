@@ -6,7 +6,7 @@ summary: The U.S. Web Design Standards are a library of design guidelines and co
 authors:
   - 18f-team
 topics:
-  - Accessibility
+  - accessibility
   - Design
   - Managing Digital
   - Mobile

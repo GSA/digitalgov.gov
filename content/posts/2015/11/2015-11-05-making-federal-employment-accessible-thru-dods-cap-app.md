@@ -6,7 +6,7 @@ summary: '&ldquo;My Disability is One Part of Who I Am&rdquo; was the theme of t
 authors:
   - nramprasad
 topics:
-  - Accessibility
+  - accessibility
   - Mobile
   - accessibility
   - DoD

@@ -6,7 +6,7 @@ summary: 'We hope you are finding it easier to get the information you need on U
 authors:
   - bernetta-reese
 topics:
-  - Accessibility
+  - accessibility
   - Design
   - Managing Digital
   - Mobile

@@ -6,7 +6,7 @@ summary: ' I used to teach 8th grade science in inner city Denver in the 1990s. 
 authors:
   - justin-dopke
 topics:
-  - Accessibility
+  - accessibility
   - Design
   - user-testing-and-research
   - UX

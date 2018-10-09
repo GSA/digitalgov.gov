@@ -6,7 +6,7 @@ summary: MobileMarketingWatch released an article explaining why it is important
 authors:
   - rachel-hurley
 topics:
-  - Accessibility
+  - accessibility
   - Mobile
   - Making Mobile Gov
   - mobile apps

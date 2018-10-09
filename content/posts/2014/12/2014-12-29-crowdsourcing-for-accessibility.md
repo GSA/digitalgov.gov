@@ -6,7 +6,7 @@ summary: 'While we’re anticipating the Section 508 refresh, many government di
 authors:
   - angela-hooker
 topics:
-  - Accessibility
+  - accessibility
   - Challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme

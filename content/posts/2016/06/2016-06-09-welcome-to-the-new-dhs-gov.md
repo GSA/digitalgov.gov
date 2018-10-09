@@ -6,7 +6,7 @@ summary: 'Today, I am happy to announce the newly optimized DHS.gov website. Ove
 authors:
   - j-todd-breasseale
 topics:
-  - Accessibility
+  - accessibility
   - Content
   - Design
   - Managing Digital

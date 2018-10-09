@@ -6,7 +6,7 @@ summary: 'The Information Technology & Innovation Foundation (ITIF) recently pub
 authors:
   - digitalgov-team
 topics:
-  - Accessibility
+  - accessibility
   - Code
   - Content
   - Data

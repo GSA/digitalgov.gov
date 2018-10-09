@@ -6,7 +6,7 @@ summary: When the Americans with Disabilities Act (ADA) was passed in 1990, ther
 authors:
   - deb-lebel
 topics:
-  - Accessibility
+  - accessibility
   - Communities
   - Social Media
   - AIDS-gov

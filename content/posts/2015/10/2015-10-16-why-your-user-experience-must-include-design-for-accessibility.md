@@ -6,7 +6,7 @@ summary: 'Too often, usability and accessibility are confused with each other by
 authors:
   - justin-dopke
 topics:
-  - Accessibility
+  - accessibility
   - UX
   - section 508
   - SSA

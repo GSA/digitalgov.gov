@@ -6,7 +6,7 @@ summary: Our goal for a more veteran-centered and innovative VA is shared. Our a
 authors:
   - va-center-for-innovation
 topics:
-  - Accessibility
+  - accessibility
   - Design
   - user-testing-and-research
   - UX

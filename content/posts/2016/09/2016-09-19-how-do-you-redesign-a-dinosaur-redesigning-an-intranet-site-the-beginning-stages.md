@@ -6,7 +6,7 @@ summary: 'Many content managers in the digital world understand the irrepressibl
 authors:
   - karla-blaine
 topics:
-  - Accessibility
+  - accessibility
   - Content
   - Data
   - Design

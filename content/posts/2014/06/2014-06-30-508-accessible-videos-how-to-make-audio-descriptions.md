@@ -8,7 +8,7 @@ authors:
   - ryan-leisinger
   - gary-morin
 topics:
-  - Accessibility
+  - accessibility
   - Video
   - DOJ
   - NASA
