@@ -6,7 +6,7 @@ summary: 'Resources to help your agency comply with the Connected Government Act
 type: guide
 deck: 'As of January of 2018, all new new and redesigned agency websites are required to be mobile friendly.'
 featured_image:
-  uid: hr2331
+  uid: hr2331-connected-govt-act
 
 ---
 
@@ -14,7 +14,7 @@ The [**Connected Government Act**](https://www.congress.gov/bill/115th-congress/
 
 The new law codifies OMB Memorandum M-17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
 
-{{< img src="hr2331" >}}
+{{< img src="hr2331-connected-govt-act" >}}
 
 ## What Is Mobile-Friendly?
 
