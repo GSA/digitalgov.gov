@@ -20,7 +20,7 @@ topics:
   - OPP
   - social media
   - SocialGov
-  - SocialGov Community
+  - socialgov-community
   - virtual-reality
   - virtual-augmented-reality-community
 ---

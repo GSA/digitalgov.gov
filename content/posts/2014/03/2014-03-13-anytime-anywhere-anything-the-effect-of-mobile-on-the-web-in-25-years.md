@@ -15,7 +15,7 @@ topics:
   - mobile-first
   - NOAA
   - open and structured content models
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Customs and Border Protection
   - US Department of Labor
   - USDA

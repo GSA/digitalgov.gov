@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile-apps
   - SAMHSA
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Health and Human Services
   - usa-gov-federal-mobile-apps-directory
 ---

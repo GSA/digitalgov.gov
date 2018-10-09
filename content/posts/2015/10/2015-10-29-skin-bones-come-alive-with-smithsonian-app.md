@@ -14,7 +14,7 @@ topics:
   - Smithsonian Institution
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2015/10/600-x-450-Smithsonian-Skin-and-Bones-app-iPad-home-screen.jpg" alt="The home screen of the Smithsonian Skin and Bones iPad app" >}}

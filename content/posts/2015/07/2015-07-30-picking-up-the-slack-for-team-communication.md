@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - social-media
-  - SocialGov Community
+  - socialgov-community
   - State
   - TOS
   - US Department of State

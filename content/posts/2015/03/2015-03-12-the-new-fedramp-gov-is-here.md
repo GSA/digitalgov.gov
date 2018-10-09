@@ -14,7 +14,7 @@ topics:
   - GSA
   - responsive web design
   - Sites
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - user-experience
   - ux
 ---

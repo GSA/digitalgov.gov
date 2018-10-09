@@ -13,7 +13,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Health and Human Services
 ---
 

@@ -9,7 +9,7 @@ topics:
   - mobile
   - DOJ
   - ICE
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Justice
   - US Immigration and Customs Enforcement
 ---

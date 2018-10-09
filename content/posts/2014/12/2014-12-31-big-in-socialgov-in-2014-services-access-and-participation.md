@@ -27,7 +27,7 @@ topics:
   - ODNI
   - Office of the Director of National Intelligence
   - Peace Corps
-  - SocialGov Community
+  - socialgov-community
   - US Department of Education
   - US Department of the Interior
   - US Food and Drug Administration

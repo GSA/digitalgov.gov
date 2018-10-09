@@ -10,7 +10,7 @@ topics:
   - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

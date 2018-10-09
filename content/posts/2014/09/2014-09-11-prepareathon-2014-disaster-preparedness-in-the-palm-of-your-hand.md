@@ -13,7 +13,7 @@ topics:
   - National Weather Service
   - NOAA
   - NWS
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

@@ -10,7 +10,7 @@ topics:
   - Department of Commerce
   - mobile-apps
   - SBA
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Small Business Administration
   - usa-gov-federal-mobile-apps-directory
 ---

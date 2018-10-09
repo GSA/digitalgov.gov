@@ -9,7 +9,7 @@ authors:
 topics:
   - social-media
   - open government
-  - SocialGov Community
+  - socialgov-community
 ---
 
 [

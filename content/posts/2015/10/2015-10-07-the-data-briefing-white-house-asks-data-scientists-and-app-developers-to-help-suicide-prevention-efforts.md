@@ -15,7 +15,7 @@ topics:
   - native apps
   - open data
   - SAMHSA
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Veterans Affairs
   - United States Patent and Trademark Office
   - USPTO

@@ -9,7 +9,7 @@ topics:
   - code
   - api
   - open data
-  - The Data Briefing
+  - the-data-briefing
 ---
 
 Some highlights from the recent fall conference of the Association for Public Policy Analysis and Management:

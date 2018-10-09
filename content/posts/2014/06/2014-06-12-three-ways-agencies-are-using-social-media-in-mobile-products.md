@@ -19,7 +19,7 @@ topics:
   - National Highway Traffic Safety Administration
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - SocialGov Community
+  - socialgov-community
   - Trends on Tuesday
   - US Department of Agriculture
   - US Forest Service

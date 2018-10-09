@@ -10,7 +10,7 @@ topics:
   - ICE
   - mobile-apps
   - multilingual
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Immigration and Customs Enforcement
 ---
 

@@ -16,7 +16,7 @@ topics:
   - CIA
   - data-gov
   - Facebook
-  - SocialGov Community
+  - socialgov-community
   - user-experience
 ---
 

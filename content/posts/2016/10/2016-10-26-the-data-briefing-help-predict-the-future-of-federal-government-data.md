@@ -33,7 +33,7 @@ topics:
   - privacy
   - research
   - security
-  - The Data Briefing
+  - the-data-briefing
   - virtual reality
   - Virtual/Augmented Reality Community
 ---

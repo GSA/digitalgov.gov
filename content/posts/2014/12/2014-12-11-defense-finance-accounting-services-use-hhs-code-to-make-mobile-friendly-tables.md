@@ -17,7 +17,7 @@ topics:
   - mobile-code-catalog
   - mobile-ux-guideline-1
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Labor
   - United States Department of Health and Human Services
 ---

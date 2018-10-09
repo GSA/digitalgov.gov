@@ -8,7 +8,7 @@ authors:
 topics:
   - Monthly Theme
   - Internet of things
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---

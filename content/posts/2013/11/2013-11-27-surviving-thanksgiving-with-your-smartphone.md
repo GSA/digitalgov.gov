@@ -12,7 +12,7 @@ topics:
   - mobile-gov
   - NASA
   - NIH
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - TSA
 ---
 

@@ -13,7 +13,7 @@ topics:
   - National Archives and Records Administration
   - National Institutes of Health
   - NIH
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Veterans Affairs
   - United States Department of Health and Human Services
   - usa-gov-federal-mobile-apps-directory

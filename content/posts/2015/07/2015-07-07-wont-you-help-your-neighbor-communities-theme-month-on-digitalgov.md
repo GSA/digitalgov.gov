@@ -11,7 +11,7 @@ topics:
   - communities
   - Customer Experience Community of Practice
   - mobile-gov-community-of-practice
-  - SocialGov Community
+  - socialgov-community
 ---
 
 It’s a beautiful day in the DigitalGov neighborhood, and we want you to be our neighbor: no red sweater required.

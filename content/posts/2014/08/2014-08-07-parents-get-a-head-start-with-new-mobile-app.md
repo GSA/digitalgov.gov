@@ -11,7 +11,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-gov-community-of-practice
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Health and Human Services
 ---
 

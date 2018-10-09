@@ -13,7 +13,7 @@ topics:
   - data
   - Internet of things
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
   - white-house

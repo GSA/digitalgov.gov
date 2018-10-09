@@ -14,7 +14,7 @@ topics:
   - data visualization
   - OPM
   - responsive web design
-  - The Data Briefing
+  - the-data-briefing
   - United States Office of Personnel Management
   - United States Patent and Trademark Office
   - user centered design

@@ -11,7 +11,7 @@ topics:
   - ios
   - mobile-apps
   - native app
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Coast Guard
   - usa-gov-federal-mobile-apps-directory
 ---

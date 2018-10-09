@@ -10,7 +10,7 @@ topics:
   - HHS
   - mobile-apps
   - mobile-gov
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Labor
   - United States Department of Health and Human Services
   - USAID

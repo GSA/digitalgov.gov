@@ -9,7 +9,7 @@ topics:
   - code
   - design
   - Monthly Theme
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Agriculture
   - USDA
   - user-experience

@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - acquisition
   - human resources
-  - The Data Briefing
+  - the-data-briefing
   - training
 ---
 

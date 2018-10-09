@@ -9,7 +9,7 @@ topics:
   - mobile
   - NOAA
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - user-experience
 ---
 

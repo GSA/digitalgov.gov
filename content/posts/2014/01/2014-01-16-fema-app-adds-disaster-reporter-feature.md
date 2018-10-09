@@ -11,7 +11,7 @@ topics:
   - FEMA
   - mobile-apps
   - mobile-gov
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2014/01/femaappphoto-266x400.png" alt="Fema App Screenshot of Disaster Reporter Feature" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/femaappphoto.png)The [Federal Emergency Management Agency](http://www.fema.gov) (FEMA) is taking the well-known slogan, &#8220;See something, say something,&#8221;__ to the crowd. Consider it more &#8220;See something, submit something.&#8221;

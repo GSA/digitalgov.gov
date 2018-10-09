@@ -18,7 +18,7 @@ topics:
   - mobile-gov
   - NRC
   - Nuclear Regulatory Commission
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Environmental Protection Agency
   - US Food and Drug Administration
   - United States Department of Health and Human Services

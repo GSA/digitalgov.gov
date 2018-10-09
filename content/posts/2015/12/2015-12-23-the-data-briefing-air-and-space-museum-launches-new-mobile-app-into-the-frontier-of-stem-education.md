@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - NPS
   - Smithsonian Institution
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Education
   - US Department of the Interior
   - US National Park Service

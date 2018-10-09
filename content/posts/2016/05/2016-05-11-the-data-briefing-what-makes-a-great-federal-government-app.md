@@ -20,7 +20,7 @@ topics:
   - native app
   - native apps
   - State
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Agriculture
   - US Department of State
   - United States Census Bureau

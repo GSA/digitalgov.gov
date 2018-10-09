@@ -23,7 +23,7 @@ topics:
   - NIH
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2015/01/600-x-338-Android-phone-Social-Security-Administration-Seguro-Social-website-homepage.jpg" alt="600-x-338-Android-phone-Social-Security-Administration-Seguro-Social-website-homepage" >}}

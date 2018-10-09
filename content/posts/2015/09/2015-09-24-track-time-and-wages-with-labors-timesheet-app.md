@@ -12,7 +12,7 @@ topics:
   - native apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Labor
   - usa-gov-federal-mobile-apps-directory
 ---

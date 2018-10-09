@@ -8,7 +8,7 @@ topics:
   - CDC
   - Centers for Disease Control and Prevention
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

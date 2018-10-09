@@ -6,7 +6,7 @@ summary: ' The USDA&#8217;s Food and Nutrition Service is helping to put hunger 
 topics:
   - mobile
   - api
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
   - USDA
 ---

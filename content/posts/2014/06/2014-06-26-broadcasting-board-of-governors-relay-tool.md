@@ -15,7 +15,7 @@ topics:
   - GitHub
   - multilingual
   - open source
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

@@ -16,7 +16,7 @@ topics:
   - data visualization
   - Department of Commerce
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - US Bureau of Labor Statistics
   - United States Census Bureau
   - United States Patent and Trademark Office

@@ -7,7 +7,7 @@ topics:
   - mobile
   - mobile-first
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of the Treasury
   - usa-gov-federal-mobile-apps-directory
 ---

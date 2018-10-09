@@ -10,7 +10,7 @@ topics:
   - CDC
   - ios
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

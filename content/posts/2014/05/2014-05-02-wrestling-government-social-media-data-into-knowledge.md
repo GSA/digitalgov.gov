@@ -9,7 +9,7 @@ topics:
   - social-media
   - DOL
   - social media
-  - SocialGov Community
+  - socialgov-community
   - US Department of Labor
 ---
 

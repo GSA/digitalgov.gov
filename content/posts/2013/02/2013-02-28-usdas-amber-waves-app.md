@@ -6,7 +6,7 @@ summary: 'The U.S. Department of Agriculture&#8217;s (USDA) Economic Research Se
 topics:
   - mobile
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - USDA
 ---
 

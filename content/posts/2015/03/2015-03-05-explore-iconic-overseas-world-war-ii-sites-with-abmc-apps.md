@@ -12,7 +12,7 @@ topics:
   - abmc
   - american-battle-monuments-commission
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

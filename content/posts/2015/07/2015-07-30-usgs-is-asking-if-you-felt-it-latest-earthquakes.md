@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Geological Survey
   - usa-gov-federal-mobile-apps-directory
   - USGS

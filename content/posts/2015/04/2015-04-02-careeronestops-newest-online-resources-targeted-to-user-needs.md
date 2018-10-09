@@ -13,7 +13,7 @@ topics:
   - ux
   - mobile
   - mobile-ux-guideline-5
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - top tasks
   - US Department of Labor
   - usability-testing

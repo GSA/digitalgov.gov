@@ -15,7 +15,7 @@ topics:
   - mobile-apps
   - mobile-ux-guideline-1
   - mobile-ux-guideline-3
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - user-experience
 ---
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile-gov
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Energy
 ---
 

@@ -12,7 +12,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
   - social media
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Census Bureau
   - usa-gov-federal-mobile-apps-directory
 ---

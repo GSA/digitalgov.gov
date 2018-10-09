@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - SocialGov Community
+  - socialgov-community
   - Terms of Service
   - TOS
 ---

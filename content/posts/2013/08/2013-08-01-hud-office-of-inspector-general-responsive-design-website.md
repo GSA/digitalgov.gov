@@ -12,7 +12,7 @@ topics:
   - HUD
   - mobile-gov
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Housing and Urban Development
 ---
 

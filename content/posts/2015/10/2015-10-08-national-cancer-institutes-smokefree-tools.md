@@ -12,7 +12,7 @@ topics:
   - native app
   - NCI
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2015/10/600-x400-Screencapture-of-the-Smoke-free-dot-gov-homepage-slider-for-the-quit-START-app.jpg" alt="Screen capture of the Smoke free dot gov homepage slider for the quitSTART app" >}}

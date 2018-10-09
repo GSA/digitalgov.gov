@@ -16,7 +16,7 @@ topics:
   - CX
   - data
   - Internet of things
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - user-experience
   - USPTO

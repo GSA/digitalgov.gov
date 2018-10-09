@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov-experience
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of State
 ---
 

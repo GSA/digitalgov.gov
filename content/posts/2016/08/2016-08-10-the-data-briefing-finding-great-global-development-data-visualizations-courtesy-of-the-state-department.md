@@ -11,7 +11,7 @@ topics:
   - data visualization
   - open data
   - State
-  - The Data Briefing
+  - the-data-briefing
   - US Department of State
 ---
 

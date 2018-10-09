@@ -10,7 +10,7 @@ topics:
   - mobile-gov-community-of-practice
   - National Archives and Records Administration
   - NPS
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US National Park Service
   - usa-gov-federal-mobile-apps-directory
 ---

@@ -11,7 +11,7 @@ topics:
   - crowdsourcing
   - Internet of things
   - natural language generation
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---

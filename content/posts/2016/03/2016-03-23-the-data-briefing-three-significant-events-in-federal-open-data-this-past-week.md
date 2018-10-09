@@ -17,7 +17,7 @@ topics:
   - OMB
   - open data
   - open source
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Veterans Affairs
   - United States Department of Homeland Security
   - United States Patent and Trademark Office

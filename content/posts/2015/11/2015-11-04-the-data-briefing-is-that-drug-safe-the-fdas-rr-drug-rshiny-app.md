@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - FDA
-  - The Data Briefing
+  - the-data-briefing
   - US Food and Drug Administration
   - United States Patent and Trademark Office
   - USPTO

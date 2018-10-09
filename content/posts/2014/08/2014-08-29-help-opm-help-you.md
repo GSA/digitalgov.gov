@@ -9,7 +9,7 @@ authors:
 topics:
   - social-media
   - OPM
-  - SocialGov Community
+  - socialgov-community
   - United States Office of Personnel Management
 ---
 

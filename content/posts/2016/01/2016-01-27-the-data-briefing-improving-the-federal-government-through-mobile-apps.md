@@ -9,7 +9,7 @@ topics:
   - code
   - mobile-apps
   - NASA
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---

@@ -13,7 +13,7 @@ topics:
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-friendly
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

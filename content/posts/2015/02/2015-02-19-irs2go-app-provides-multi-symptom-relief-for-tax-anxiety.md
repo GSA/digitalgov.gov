@@ -13,7 +13,7 @@ topics:
   - IRS
   - mobile-apps
   - native app
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Immigration and Customs Enforcement
   - usa-gov-federal-mobile-apps-directory
 ---

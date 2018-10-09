@@ -10,7 +10,7 @@ topics:
   - mobile-apps
   - NARA
   - National Archives and Records Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

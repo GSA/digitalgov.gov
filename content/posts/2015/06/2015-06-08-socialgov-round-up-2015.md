@@ -21,7 +21,7 @@ topics:
   - social media
   - social media metrics
   - SocialGov
-  - SocialGov Community
+  - socialgov-community
   - Terms of Service
   - TOS
   - US Department of the Interior

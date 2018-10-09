@@ -12,7 +12,7 @@ topics:
   - emerging-tech
   - managing-digital
   - ux
-  - The Data Briefing
+  - the-data-briefing
   - user-experience
   - ux
   - 3d-printing

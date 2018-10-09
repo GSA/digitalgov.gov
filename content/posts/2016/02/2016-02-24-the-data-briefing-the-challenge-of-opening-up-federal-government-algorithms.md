@@ -12,7 +12,7 @@ topics:
   - FOIA
   - open data
   - privacy
-  - The Data Briefing
+  - the-data-briefing
 ---
 
 Algorithms are becoming more important as the amount of data grows, and the complexity of government and business processes grows. Put simply, an algorithm is just a set of steps for solving a problem. If you shop online, use an online social network or a mobile app to plan your route, then you are using an algorithm: A sophisticated algorithm that uses large amounts of data to make hundreds (or thousands) of decisions in milliseconds. Algorithms control the movement of trillions of dollars, determine the flow of goods throughout the world and whether people have the credit rating to buy a home. {{< legacy-img src="2016/02/600-x-400-World-map-technology-phloxii-iStock-Thinkstock-450731415.jpg" alt="World map technology" caption="" >}} 

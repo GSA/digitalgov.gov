@@ -11,7 +11,7 @@ topics:
   - DGU
   - DigitalGov Summit
   - mobile-gov-community-of-practice
-  - SocialGov Community
+  - socialgov-community
   - user-experience-community-of-practice
 ---
 

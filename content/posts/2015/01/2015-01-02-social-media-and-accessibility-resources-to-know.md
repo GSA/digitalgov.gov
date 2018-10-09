@@ -17,7 +17,7 @@ topics:
   - Federal Communications Commission
   - HHS
   - section 508
-  - SocialGov Community
+  - socialgov-community
   - US Department of Labor
   - United States Department of Health and Human Services
 ---

@@ -11,7 +11,7 @@ topics:
   - DoD
   - NORAD
   - North American Defense Command
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Defense
 ---
 

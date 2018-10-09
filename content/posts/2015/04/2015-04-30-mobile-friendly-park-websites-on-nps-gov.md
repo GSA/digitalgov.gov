@@ -15,7 +15,7 @@ topics:
   - mobile-friendly
   - NPS
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US National Park Service
 ---
 

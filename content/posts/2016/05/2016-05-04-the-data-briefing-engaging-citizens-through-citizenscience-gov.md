@@ -13,7 +13,7 @@ topics:
   - EPA
   - NASA
   - NPS
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Agriculture
   - US Environmental Protection Agency
   - US National Park Service

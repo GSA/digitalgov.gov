@@ -13,7 +13,7 @@ topics:
   - data-gov
   - mobile-apps
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Veterans Affairs
   - United States Patent and Trademark Office
   - USPTO

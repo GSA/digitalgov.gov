@@ -11,7 +11,7 @@ topics:
   - policy
   - EPA
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Environmental Protection Agency
   - usa-gov-federal-mobile-apps-directory
 ---

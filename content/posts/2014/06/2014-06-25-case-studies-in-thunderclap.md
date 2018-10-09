@@ -11,7 +11,7 @@ topics:
   - FDA
   - HHS
   - Recaps
-  - SocialGov Community
+  - socialgov-community
   - US Environmental Protection Agency
   - US Food and Drug Administration
   - United States Department of Health and Human Services

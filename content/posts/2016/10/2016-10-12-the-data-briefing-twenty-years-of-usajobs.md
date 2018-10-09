@@ -20,7 +20,7 @@ topics:
   - Digital Analytics Program
   - GSA
   - lean
-  - The Data Briefing
+  - the-data-briefing
   - US General Services Administration
   - user centered design
 ---

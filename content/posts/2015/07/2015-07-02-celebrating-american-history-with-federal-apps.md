@@ -15,7 +15,7 @@ topics:
   - National Archives and Records Administration
   - native apps
   - Smithsonian Institution
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

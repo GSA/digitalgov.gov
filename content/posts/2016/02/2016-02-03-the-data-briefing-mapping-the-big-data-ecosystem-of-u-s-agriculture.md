@@ -14,7 +14,7 @@ topics:
   - Library of Congress
   - LOC
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---

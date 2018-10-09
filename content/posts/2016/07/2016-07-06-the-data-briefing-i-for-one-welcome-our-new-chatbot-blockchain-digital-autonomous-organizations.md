@@ -22,7 +22,7 @@ topics:
   - data
   - Internet of things
   - security
-  - The Data Briefing
+  - the-data-briefing
   - user-experience
   - ux
 ---

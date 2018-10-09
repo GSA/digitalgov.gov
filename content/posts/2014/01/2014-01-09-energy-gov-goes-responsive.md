@@ -8,7 +8,7 @@ topics:
   - mobile-gov
   - mobile-first
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Energy
 ---
 

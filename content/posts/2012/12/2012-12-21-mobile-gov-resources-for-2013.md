@@ -17,7 +17,7 @@ topics:
   - mobile-gov
   - National Institutes of Health
   - NIH
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - TSA
   - US Department of Labor
   - United States Department of Health and Human Services

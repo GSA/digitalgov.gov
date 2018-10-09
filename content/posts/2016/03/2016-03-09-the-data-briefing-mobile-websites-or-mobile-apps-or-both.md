@@ -17,7 +17,7 @@ topics:
   - native apps
   - open data
   - responsive web design
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---

@@ -55,7 +55,7 @@ topics:
   - Open Opportunities program
   - OPP
   - social media
-  - SocialGov Community
+  - socialgov-community
   - Technology Transformation Service
   - training
   - TTS

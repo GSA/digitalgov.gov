@@ -11,7 +11,7 @@ topics:
   - native app
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Agriculture
   - USDA
 ---

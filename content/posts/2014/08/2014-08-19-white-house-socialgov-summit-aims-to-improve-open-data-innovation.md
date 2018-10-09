@@ -12,7 +12,7 @@ topics:
   - DOL
   - open data
   - Recaps
-  - SocialGov Community
+  - socialgov-community
   - US Department of Labor
   - US Department of State
   - World Bank

@@ -17,7 +17,7 @@ topics:
   - native apps
   - NIST
   - open data
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Environmental Protection Agency
   - United States Census Bureau
 ---

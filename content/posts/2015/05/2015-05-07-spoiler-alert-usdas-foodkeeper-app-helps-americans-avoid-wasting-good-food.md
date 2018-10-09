@@ -10,7 +10,7 @@ topics:
   - ios
   - mobile-apps
   - native app
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Agriculture
   - USDA
 ---

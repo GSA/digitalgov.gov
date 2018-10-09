@@ -11,7 +11,7 @@ topics:
   - ios
   - mobile
   - native app
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Housing and Urban Development
 ---
 

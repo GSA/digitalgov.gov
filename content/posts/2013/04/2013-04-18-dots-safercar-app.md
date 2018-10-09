@@ -7,7 +7,7 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Transportation
 ---
 

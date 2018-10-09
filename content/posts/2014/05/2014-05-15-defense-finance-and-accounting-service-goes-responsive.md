@@ -16,7 +16,7 @@ topics:
   - HHS
   - mobile-ux-guideline-5
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Veterans Affairs
   - US Environmental Protection Agency
   - United States Department of Defense

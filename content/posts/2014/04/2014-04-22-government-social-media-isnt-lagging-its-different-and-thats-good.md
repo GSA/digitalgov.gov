@@ -13,7 +13,7 @@ topics:
   - api
   - National Archives and Records Administration
   - SocialGov
-  - SocialGov Community
+  - socialgov-community
   - US Coast Guard
 ---
 

@@ -8,7 +8,7 @@ topics:
   - HUD
   - mobile-apps
   - mobile-gov
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Housing and Urban Development
 ---
 

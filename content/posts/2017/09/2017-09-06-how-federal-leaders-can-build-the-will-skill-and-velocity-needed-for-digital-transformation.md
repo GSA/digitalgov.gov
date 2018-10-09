@@ -13,7 +13,7 @@ topics:
   - communication
   - human resources
   - skills
-  - The Data Briefing
+  - the-data-briefing
 aliases:
   - /2017/09/06/five-ways-federal-leaders-can-build-the-will-skill-and-velocity-needed-for-digital-transformation/
 ---

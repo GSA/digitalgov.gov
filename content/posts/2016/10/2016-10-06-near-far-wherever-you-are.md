@@ -23,7 +23,7 @@ topics:
   - mobile
   - Office of Governmentwide Policy
   - OGP
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Agriculture
   - US General Services Administration
 ---

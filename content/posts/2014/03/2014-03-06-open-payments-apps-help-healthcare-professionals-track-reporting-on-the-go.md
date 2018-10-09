@@ -9,7 +9,7 @@ topics:
   - HHS
   - mobile-apps
   - mobile-gov
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Health and Human Services
 ---
 

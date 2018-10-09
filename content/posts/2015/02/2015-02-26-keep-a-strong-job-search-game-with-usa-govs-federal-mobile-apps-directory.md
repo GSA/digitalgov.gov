@@ -9,7 +9,7 @@ topics:
   - mobile
   - Internal Revenue Service
   - IRS
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Justice
   - US Department of State
   - usa-gov-federal-mobile-apps-directory

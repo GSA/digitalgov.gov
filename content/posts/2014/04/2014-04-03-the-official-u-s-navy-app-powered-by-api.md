@@ -7,7 +7,7 @@ topics:
   - api
   - mobile
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Navy
 ---
 

@@ -9,7 +9,7 @@ topics:
   - mobile
   - FDA
   - mobile
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Food and Drug Administration
   - usa-gov-federal-mobile-apps-directory
 ---

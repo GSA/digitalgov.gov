@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - USPS
 ---
 

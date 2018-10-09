@@ -14,7 +14,7 @@ topics:
   - Indian Health Service
   - innovation
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - United States Department of Health and Human Services
   - United States Patent and Trademark Office
   - USPTO

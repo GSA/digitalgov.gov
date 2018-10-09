@@ -9,7 +9,7 @@ topics:
   - mobile-apps
   - native app
   - SAMHSA
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---
 

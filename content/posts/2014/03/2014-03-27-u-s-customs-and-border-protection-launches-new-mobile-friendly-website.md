@@ -7,7 +7,7 @@ topics:
   - mobile
   - CBP
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Customs and Border Protection
   - usa-gov-federal-mobile-apps-directory
 ---

@@ -17,8 +17,8 @@ topics:
   - LOC
   - mobile
   - National Center for Telehealth and Technology
-  - The Data Briefing
-  - Transportation Security Administration
+  - the-data-briefing
+  - transportation-security-administration
   - TSA
   - US Department of Education
   - US Department of Labor

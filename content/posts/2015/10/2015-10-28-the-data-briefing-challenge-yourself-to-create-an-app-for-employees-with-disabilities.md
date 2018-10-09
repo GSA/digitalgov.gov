@@ -21,7 +21,7 @@ topics:
   - mobile-ux-guideline-2
   - mobile-ux-guideline-3
   - section 508
-  - The Data Briefing
+  - the-data-briefing
   - United States Department of Transportation
 ---
 

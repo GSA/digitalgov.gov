@@ -13,7 +13,7 @@ topics:
   - FEMA
   - mobile
   - mobile-apps
-  - The Data Briefing
+  - the-data-briefing
   - user generated content
 ---
 

@@ -21,7 +21,7 @@ topics:
   - Recaps
   - social media
   - SocialGov
-  - SocialGov Community
+  - socialgov-community
   - usa.gov
   - webinar
 ---

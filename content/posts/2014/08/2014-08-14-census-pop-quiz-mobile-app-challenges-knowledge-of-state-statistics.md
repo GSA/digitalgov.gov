@@ -9,7 +9,7 @@ topics:
   - Department of Commerce
   - mobile-apps
   - open data
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Census Bureau
   - usa-gov-federal-mobile-apps-directory
 ---

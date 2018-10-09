@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile
   - native app
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Energy
 ---
 

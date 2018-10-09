@@ -13,7 +13,7 @@ topics:
   - DOL
   - HHS
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Labor
   - United States Department of Health and Human Services
   - United States Patent and Trademark Office

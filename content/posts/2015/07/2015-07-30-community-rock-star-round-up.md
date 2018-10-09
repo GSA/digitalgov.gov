@@ -21,7 +21,7 @@ topics:
   - Office of the Director of National Intelligence
   - open and structured content models
   - OPM
-  - SocialGov Community
+  - socialgov-community
   - SSA
   - Trends on Tuesday
   - US Department of State

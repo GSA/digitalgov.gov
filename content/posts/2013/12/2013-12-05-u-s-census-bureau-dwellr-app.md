@@ -11,7 +11,7 @@ topics:
   - api
   - Census
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Census Bureau
 ---
 

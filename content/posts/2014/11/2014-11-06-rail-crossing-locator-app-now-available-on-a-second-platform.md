@@ -10,7 +10,7 @@ topics:
   - DOT
   - Federal Railroad Administration
   - ICE
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Immigration and Customs Enforcement
   - United States Department of Transportation
   - usa-gov-federal-mobile-apps-directory

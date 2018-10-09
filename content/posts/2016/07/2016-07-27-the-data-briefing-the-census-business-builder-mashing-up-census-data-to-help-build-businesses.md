@@ -12,7 +12,7 @@ topics:
   - Census
   - data
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - United States Census Bureau
 ---
 

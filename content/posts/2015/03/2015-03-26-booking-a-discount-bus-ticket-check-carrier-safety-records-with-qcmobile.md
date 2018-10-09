@@ -10,7 +10,7 @@ topics:
   - DOT
   - mobile
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Transportation
   - usa-gov-federal-mobile-apps-directory
 ---

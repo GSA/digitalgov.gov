@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - DoD
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Defense
   - usa-gov-federal-mobile-apps-directory
 ---

@@ -10,7 +10,7 @@ topics:
   - api
   - native app
   - ROTC
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Army
 ---
 

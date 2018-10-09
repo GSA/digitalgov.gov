@@ -7,7 +7,7 @@ topics:
   - mobile
   - DHS
   - ICE
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Immigration and Customs Enforcement
   - United States Department of Homeland Security
   - usa-gov-federal-mobile-apps-directory

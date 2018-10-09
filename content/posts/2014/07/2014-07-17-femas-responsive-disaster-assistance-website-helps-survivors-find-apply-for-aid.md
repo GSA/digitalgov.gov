@@ -10,7 +10,7 @@ topics:
   - National Oceanic and Atmospheric Administration
   - NOAA
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2014/07/600-x-310-DisasterAssistancedotgov\_screenshot.jpg" alt="600-x-310-DisasterAssistancedotgov\_screenshot" >}}

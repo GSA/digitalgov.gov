@@ -7,7 +7,7 @@ topics:
   - mobile
   - Animal and Plant Health Inspection Service
   - mobile-apps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Agriculture
   - usa-gov-federal-mobile-apps-directory
   - USDA
