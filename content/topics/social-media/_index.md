@@ -6,7 +6,7 @@
 title: "Social Media"
 
 # description — keep it short and clear
-# summary: "Making government more efficient, more open."
+summary: "Making government more efficient, more open."
 
 # Weight
 weight: 1
