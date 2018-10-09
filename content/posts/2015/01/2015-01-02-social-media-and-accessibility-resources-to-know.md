@@ -9,7 +9,7 @@ topics:
   - accessibility
   - Communities
   - Social Media
-  - AIDS-gov
+  - aiDS-gov
   - Americans with Disabilities Act
   - AoI
   - DOL

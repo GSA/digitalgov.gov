@@ -6,7 +6,7 @@
 title: "U.S. Government Accountability Office"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

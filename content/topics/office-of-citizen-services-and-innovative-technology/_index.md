@@ -6,7 +6,7 @@
 title: "Office Of Citizen Services And Innovative Technology"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

@@ -6,9 +6,9 @@ summary: 'Audit Research existing APIs Regardless of your agency’s level of pr
 authors:
   - gray-brooks
 topics:
-  - API
+  - api
   - Code
-  - API
+  - api
 ---
 
 ## Audit

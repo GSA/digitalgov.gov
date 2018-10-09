@@ -6,7 +6,7 @@ summary: ' Recently, a reader pointed out that some of the APIs I write about ar
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - HUD
   - US Department of Agriculture
   - United States Department of Housing and Urban Development

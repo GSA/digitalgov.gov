@@ -9,7 +9,7 @@ topics:
   - Monthly Theme
   - Our Work
   - 18f
-  - API
+  - api
   - CFPB
   - Consumer Financial Protection Bureau
   - Content Management System

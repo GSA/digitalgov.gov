@@ -6,9 +6,9 @@ summary: I grew up when home computers were first being introduced to the genera
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Data
-  - API
+  - api
   - Census
   - data
   - Department of Commerce

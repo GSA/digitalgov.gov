@@ -6,9 +6,9 @@ summary: ' Welcome to the new home of openFDA! We are incredibly excited to see 
 authors:
   - dr-taha-kass-hout
 topics:
-  - API
+  - api
   - Data
-  - API
+  - api
   - cloud
   - FDA
   - mobile-first

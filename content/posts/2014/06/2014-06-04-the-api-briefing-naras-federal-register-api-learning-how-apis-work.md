@@ -6,9 +6,9 @@ summary: 'Application programming interfaces (APIs) can be confusing when people
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Code
-  - API
+  - api
   - code
   - Federal Register
   - NARA

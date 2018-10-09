@@ -9,7 +9,7 @@ topics:
   - Content
   - Mobile
   - Monthly Theme
-  - API
+  - api
   - CDC
   - Centers for Disease Control and Prevention
   - content syndication

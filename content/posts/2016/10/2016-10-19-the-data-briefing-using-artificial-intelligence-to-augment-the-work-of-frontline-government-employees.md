@@ -8,7 +8,7 @@ authors:
 topics:
   - Managing Digital
   - strategy-and-policy
-  - AI
+  - ai
   - artificial intelligence
   - chatbots
   - The Data Briefing

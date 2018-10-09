@@ -6,7 +6,7 @@ summary: 'Glad to be back after a three-week absence. I was preparing for the So
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - National Library of Medicine
   - NLM
   - OPM

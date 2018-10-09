@@ -6,7 +6,7 @@
 title: "American Red Cross"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

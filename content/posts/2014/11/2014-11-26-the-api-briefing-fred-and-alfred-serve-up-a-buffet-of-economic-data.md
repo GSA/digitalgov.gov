@@ -6,9 +6,9 @@ summary: 'The federal government captures almost every economic data trend throu
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Code
-  - API
+  - api
   - Federal Reserve Board
   - US Department of Agriculture
   - USDA

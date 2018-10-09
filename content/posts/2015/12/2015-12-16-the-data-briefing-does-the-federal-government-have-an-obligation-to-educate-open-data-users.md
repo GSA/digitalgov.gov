@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Data
-  - API
+  - api
   - data
   - data visualization
   - DOL

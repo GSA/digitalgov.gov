@@ -8,7 +8,7 @@ authors:
 topics:
   - Content
   - 18f
-  - API
+  - api
   - FEC
   - Federal Election Commission
 ---

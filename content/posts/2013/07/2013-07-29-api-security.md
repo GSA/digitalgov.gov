@@ -6,9 +6,9 @@ summary: 'Like website development, API security revolves around three stages&md
 authors:
   - gray-brooks
 topics:
-  - API
+  - api
   - Code
-  - API
+  - api
   - security
 ---
 

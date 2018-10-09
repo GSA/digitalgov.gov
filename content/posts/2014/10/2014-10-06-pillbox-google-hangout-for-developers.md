@@ -6,7 +6,7 @@ summary: 'Tuesday, October 7 at 2pm ET, the National Library of Medicine at the 
 authors:
   - david-hale
 topics:
-  - API
+  - api
   - Data
   - FDA
   - HHS

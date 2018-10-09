@@ -6,11 +6,11 @@ summary: 'The Census Bureau recently released a &ldquo;machine-readable dataset 
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Code
   - Managing Digital
   - Mobile
-  - API
+  - api
   - mobile apps
   - native app
   - responsive web design

@@ -6,8 +6,8 @@ summary: 'As the new school season approaches, it is a good time to see what fed
 authors:
   - bbrantley
 topics:
-  - API
-  - API
+  - api
+  - api
   - json
   - OPM
   - US Department of Education

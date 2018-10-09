@@ -8,7 +8,7 @@ authors:
 topics:
   - Code
   - Mobile
-  - API
+  - api
   - Census
   - mobile apps
   - Thursday Mobile Products

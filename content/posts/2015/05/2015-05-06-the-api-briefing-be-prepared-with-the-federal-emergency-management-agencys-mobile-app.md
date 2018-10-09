@@ -6,9 +6,9 @@ summary: 'Before coming to DC in late 2008, I lived in Louisville, Kentucky. Lou
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Mobile
-  - API
+  - api
   - data
   - Federal Emergency Management Agency
   - FEMA

@@ -9,7 +9,7 @@ topics:
   - data
   - emerging-tech
   - our-work
-  - AI
+  - ai
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community
   - innovation

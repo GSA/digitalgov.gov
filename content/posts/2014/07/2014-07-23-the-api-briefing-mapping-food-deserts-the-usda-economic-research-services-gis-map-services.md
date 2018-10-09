@@ -6,10 +6,10 @@ summary: Food deserts are areas where residents have little or no access to nutr
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Code
   - Mobile
-  - API
+  - api
   - US Department of Agriculture
   - USDA
   - wednesday-api-briefing

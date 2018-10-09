@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - Mobile
-  - API
+  - api
   - native app
   - ROTC
   - Thursday Mobile Products

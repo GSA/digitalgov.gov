@@ -6,10 +6,10 @@ summary: 'The increasing sophistication of mobile devices has created many oppor
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Data
   - Mobile
-  - API
+  - api
   - data
   - mobile
   - mobile apps

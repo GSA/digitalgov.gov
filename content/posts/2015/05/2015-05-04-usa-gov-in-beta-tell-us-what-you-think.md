@@ -8,7 +8,7 @@ authors:
 topics:
   - Content
   - Managing Digital
-  - API
+  - api
   - DAP
   - Digital Analytics Program
   - drupal

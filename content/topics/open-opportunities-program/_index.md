@@ -6,7 +6,7 @@
 title: "Open Opportunities Program"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

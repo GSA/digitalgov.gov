@@ -6,7 +6,7 @@
 title: "Smithsonian Center For Learning And Digital Access"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

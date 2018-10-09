@@ -11,7 +11,7 @@ topics:
   - Monthly Theme
   - user-testing-and-research
   - UX
-  - API
+  - api
   - crowdsourcing
   - data-gov
   - Federal CrowdSource Mobile Testing Program

@@ -6,9 +6,9 @@ summary: Citizen developers are people who do not work in information technology
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Data
-  - API
+  - api
   - data
   - open data
   - The Data Briefing

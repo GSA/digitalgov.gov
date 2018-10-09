@@ -6,7 +6,7 @@
 title: "Office Of The U.S. Foreign Assistance Resources"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

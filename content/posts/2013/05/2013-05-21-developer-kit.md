@@ -7,7 +7,7 @@ authors:
   - gray-brooks
 topics:
   - Code
-  - API
+  - api
   - usa-gov-federal-mobile-apps-directory
 ---
 

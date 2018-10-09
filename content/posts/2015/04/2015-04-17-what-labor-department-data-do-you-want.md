@@ -6,10 +6,10 @@ summary: ' Four years ago, we released our Labor Department-wide API&mdash;that 
 authors:
   - michael-pulsifer
 topics:
-  - API
+  - api
   - Code
   - Data
-  - API
+  - api
   - data
   - GitHub
   - National Weather Service

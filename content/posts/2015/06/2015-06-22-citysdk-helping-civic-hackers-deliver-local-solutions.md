@@ -6,9 +6,9 @@ summary: 'Civic hackers are a special breed&mdash;their primary motivation is cl
 authors:
   - tyrone-grandison
 topics:
-  - API
+  - api
   - Data
-  - API
+  - api
   - Census
   - data
   - json

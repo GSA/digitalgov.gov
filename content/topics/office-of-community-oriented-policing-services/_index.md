@@ -6,7 +6,7 @@
 title: "Office Of Community Oriented Policing Services"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

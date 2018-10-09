@@ -6,7 +6,7 @@ summary: As traffic to desktop .gov websites declines, how we publish our conten
 authors:
   - ammie-farraj-feijoo
 topics:
-  - API
+  - api
   - Content
   - Monthly Theme
   - Our Work

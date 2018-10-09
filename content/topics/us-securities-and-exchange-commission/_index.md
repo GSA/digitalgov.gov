@@ -6,7 +6,7 @@
 title: "U.S. Securities And Exchange Commission"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

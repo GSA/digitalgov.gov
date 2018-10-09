@@ -6,7 +6,7 @@ summary: The Peace Corps just released a new dataset that lists all of the count
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Peace Corps
   - US Department of Agriculture
   - USDA

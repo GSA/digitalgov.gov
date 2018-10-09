@@ -6,7 +6,7 @@ summary: ' The National Archives and Records Administration and Wikimedia D.C., 
 authors:
   - dominic-mcdevitt-parks
 topics:
-  - API
+  - api
   - Content
   - Data
   - NARA

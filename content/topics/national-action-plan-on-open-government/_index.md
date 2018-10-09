@@ -6,7 +6,7 @@
 title: "National Action Plan On Open Government"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

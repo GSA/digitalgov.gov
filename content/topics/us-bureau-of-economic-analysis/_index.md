@@ -6,7 +6,7 @@
 title: "U.S. Bureau Of Economic Analysis"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

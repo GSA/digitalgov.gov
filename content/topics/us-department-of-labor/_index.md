@@ -6,7 +6,7 @@
 title: "U.S. Department Of Labor"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

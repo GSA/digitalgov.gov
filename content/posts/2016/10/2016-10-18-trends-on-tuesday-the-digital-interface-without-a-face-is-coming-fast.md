@@ -8,7 +8,7 @@ authors:
 topics:
   - Managing Digital
   - Mobile
-  - AI
+  - ai
   - artificial intelligence
   - chatbots
   - mobile

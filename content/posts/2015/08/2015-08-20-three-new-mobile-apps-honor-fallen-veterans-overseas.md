@@ -6,7 +6,7 @@ summary: ' The American Battle Monuments Commission (ABMC) released three new mo
 topics:
   - Mobile
   - abmc
-  - American Battle Monuments Commission
+  - american-battle-monuments-commission
   - Federal Mobile Products Registry
   - ios
   - mobile apps

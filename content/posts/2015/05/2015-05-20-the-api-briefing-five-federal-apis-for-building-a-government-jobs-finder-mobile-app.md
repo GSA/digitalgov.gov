@@ -6,8 +6,8 @@ summary: 'The spring semesters are winding down at the universities where I teac
 authors:
   - bbrantley
 topics:
-  - API
-  - API
+  - api
+  - api
   - DigitalGov Search
   - mobile apps
   - wednesday-api-briefing

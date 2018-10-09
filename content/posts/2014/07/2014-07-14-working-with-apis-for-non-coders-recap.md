@@ -6,9 +6,9 @@ summary: 'In a recent event titled: &#8220;Intro to APIs: Working with URLs, JSO
 authors:
   - zeshan-khan
 topics:
-  - API
+  - api
   - 18f
-  - API
+  - api
   - Recaps
 ---
 

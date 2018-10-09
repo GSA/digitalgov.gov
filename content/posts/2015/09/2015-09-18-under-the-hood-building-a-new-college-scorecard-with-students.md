@@ -10,7 +10,7 @@ topics:
   - Data
   - 18f
   - agile
-  - API
+  - api
   - data
   - open data
   - prototype

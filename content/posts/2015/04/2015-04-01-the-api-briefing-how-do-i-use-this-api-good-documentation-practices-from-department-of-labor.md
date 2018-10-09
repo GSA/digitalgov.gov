@@ -6,8 +6,8 @@ summary: When I first started coding using BASIC on the Commodore 64, I rarely d
 authors:
   - bbrantley
 topics:
-  - API
-  - API
+  - api
+  - api
   - US Department of Labor
   - wednesday-api-briefing
 ---

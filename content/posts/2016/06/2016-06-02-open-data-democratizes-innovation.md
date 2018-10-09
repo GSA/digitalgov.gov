@@ -7,12 +7,12 @@ authors:
   - robin-thottungal
   - kris-rowley
 topics:
-  - API
+  - api
   - Challenges
   - crowdsourcing-and-citizen-science
   - Data
   - strategy-and-policy
-  - API
+  - api
   - apps challenges
   - challenge-gov
   - challenges and prize competitions

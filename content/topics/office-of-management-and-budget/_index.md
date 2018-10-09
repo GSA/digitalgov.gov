@@ -6,7 +6,7 @@
 title: "Office Of Management And Budget"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

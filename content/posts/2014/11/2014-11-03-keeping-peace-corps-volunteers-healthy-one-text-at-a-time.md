@@ -7,7 +7,7 @@ authors:
   - brian-forde
   - carrie-hessler-radelet
 topics:
-  - API
+  - api
   - Mobile
   - Digital Services Playbook
   - GitHub

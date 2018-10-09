@@ -6,11 +6,11 @@ summary: 'Here at DigitalGov, we generally focus on federal governmental digital
 authors:
   - tyrus-manuel
 topics:
-  - API
+  - api
   - Content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
-  - API
+  - api
   - CMS
   - Content Management System
   - content models

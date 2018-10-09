@@ -7,9 +7,9 @@ authors:
   - awichman
   - leo-yang
 topics:
-  - API
+  - api
   - Mobile
-  - API
+  - api
   - mobile
   - NPS
   - US National Park Service

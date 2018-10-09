@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Managing Digital
-  - AI
+  - ai
   - artificial intelligence
   - Augmented Reality
   - chatbots

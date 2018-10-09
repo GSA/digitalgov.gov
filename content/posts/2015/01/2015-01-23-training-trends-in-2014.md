@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - Our Work
-  - API
+  - api
   - DGU
   - DigitalGov User Experience Program
   - Recaps

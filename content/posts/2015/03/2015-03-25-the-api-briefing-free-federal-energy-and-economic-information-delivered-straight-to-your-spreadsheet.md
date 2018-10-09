@@ -6,8 +6,8 @@ summary: 'Back in November 2014, I wrote about the Federal Reserve of St. Louisâ
 authors:
   - bbrantley
 topics:
-  - API
-  - API
+  - api
+  - api
   - data
   - open data
   - United States Department of Energy

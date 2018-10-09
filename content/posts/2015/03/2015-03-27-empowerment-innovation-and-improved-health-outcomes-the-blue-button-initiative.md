@@ -6,11 +6,11 @@ summary: 'Finding and getting access to our own health information can be a comp
 authors:
   - awichman
 topics:
-  - API
+  - api
   - Code
   - Data
   - Monthly Theme
-  - API
+  - api
   - Centers for Medicare and Medicaid Services
   - data
   - data-gov

@@ -6,7 +6,7 @@ summary: 'When: Friday, December 9th, 2016 Where: NARA Innovation Hub, 700 Penns
 authors:
   - sara-cope
 topics:
-  - API
+  - api
   - Code
   - Data
   - Design

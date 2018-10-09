@@ -6,7 +6,7 @@
 title: "United States Army"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

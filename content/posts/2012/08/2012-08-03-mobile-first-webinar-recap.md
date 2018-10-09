@@ -7,7 +7,7 @@ authors:
   - justin-goldberger
 topics:
   - Mobile
-  - API
+  - api
   - mobile
   - mobile-first
   - Recaps

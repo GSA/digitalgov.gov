@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Code
-  - API
+  - api
   - open data
   - The Data Briefing
 ---

@@ -6,7 +6,7 @@ summary: 'Content is no longer limited to .gov sites. As mentioned in a recent b
 authors:
   - rachel-mundstock
 topics:
-  - API
+  - api
   - Content
   - Our Work
   - Social Media

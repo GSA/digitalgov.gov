@@ -8,7 +8,7 @@ authors:
 topics:
   - Managing Digital
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - best practices
 ---
 

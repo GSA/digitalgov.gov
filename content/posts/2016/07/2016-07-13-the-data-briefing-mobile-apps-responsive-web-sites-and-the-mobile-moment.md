@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - Mobile
-  - AI
+  - ai
   - artificial intelligence
   - big data
   - Customer Experience

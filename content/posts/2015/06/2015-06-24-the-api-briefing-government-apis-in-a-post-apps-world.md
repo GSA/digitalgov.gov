@@ -6,8 +6,8 @@ summary: Take out your smartphone and count the number of apps that you have. Ho
 authors:
   - bbrantley
 topics:
-  - API
-  - API
+  - api
+  - api
   - data
   - mobile apps
   - open data

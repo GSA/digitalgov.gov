@@ -6,7 +6,7 @@
 title: "Modernization And Migration Management Framework"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

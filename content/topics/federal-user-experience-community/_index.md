@@ -6,7 +6,7 @@
 title: "Federal User Experience Community"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

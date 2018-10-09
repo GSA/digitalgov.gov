@@ -6,9 +6,9 @@ summary: 'Content models provide an opportunity for agencies to structure, organ
 authors:
   - katie-steffy
 topics:
-  - API
+  - api
   - Content
-  - API
+  - api
   - content models
   - metadata
   - National Institutes of Health

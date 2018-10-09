@@ -12,7 +12,7 @@ topics:
   - mobile
   - our-work
   - social-media
-  - AI
+  - ai
   - Artificial Intelligence for Citizen Services Community
   - Augmented Reality
   - communities

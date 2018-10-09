@@ -9,7 +9,7 @@ topics:
   - Code
   - Monthly Theme
   - 18f
-  - API
+  - api
   - National Institute of Allergy and Infectious Diseases
   - National Institutes of Health
   - National Library of Medicine

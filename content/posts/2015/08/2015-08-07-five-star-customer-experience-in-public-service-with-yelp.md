@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - Social Media
-  - API
+  - api
   - DOT
   - SocialGov
   - Terms of Service

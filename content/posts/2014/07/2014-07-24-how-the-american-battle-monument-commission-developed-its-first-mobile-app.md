@@ -10,7 +10,7 @@ topics:
   - Mobile
   - UX
   - abmc
-  - American Battle Monuments Commission
+  - american-battle-monuments-commission
   - mobile
   - mobile apps
   - Mobile UX Guideline 1

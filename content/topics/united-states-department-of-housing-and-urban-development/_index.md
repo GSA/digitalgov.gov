@@ -6,7 +6,7 @@
 title: "United States Department Of Housing And Urban Development"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

@@ -9,7 +9,7 @@ topics:
   - Managing Digital
   - Monthly Theme
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - Census
   - United States Census Bureau
 ---

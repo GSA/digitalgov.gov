@@ -7,12 +7,12 @@ authors:
   - sheila-prindiville
   - michael-balint
 topics:
-  - API
+  - api
   - Code
   - Content
   - Data
   - UX
-  - API
+  - api
   - code
   - content
   - data

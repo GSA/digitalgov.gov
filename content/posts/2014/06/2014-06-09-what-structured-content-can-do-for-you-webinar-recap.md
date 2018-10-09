@@ -6,11 +6,11 @@ summary: 'Structured content and open content models can help you create content
 authors:
   - kristen-onell
 topics:
-  - API
+  - api
   - Communities
   - Content
   - AoI
-  - API
+  - api
   - Census
   - content models
   - GitHub

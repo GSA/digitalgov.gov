@@ -13,7 +13,7 @@ topics:
   - Metrics
   - user-testing-and-research
   - UX
-  - AI
+  - ai
   - analytics
   - artificial intelligence
   - chatbots

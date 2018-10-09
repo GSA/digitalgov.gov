@@ -6,7 +6,7 @@ summary: Not only does the Department of State have a great set of APIs, State a
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Code
   - Mobile
   - UX

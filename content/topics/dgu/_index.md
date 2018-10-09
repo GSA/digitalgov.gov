@@ -6,7 +6,7 @@
 title: "DGU"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

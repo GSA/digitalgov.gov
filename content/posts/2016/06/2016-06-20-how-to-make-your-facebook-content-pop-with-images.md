@@ -10,7 +10,7 @@ topics:
   - Monthly Theme
   - Social Media
   - strategy-and-policy
-  - AIDS-gov
+  - aiDS-gov
   - content
   - content strategy
   - HHS

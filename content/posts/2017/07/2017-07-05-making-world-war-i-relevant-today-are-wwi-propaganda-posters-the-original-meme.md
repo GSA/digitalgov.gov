@@ -9,7 +9,7 @@ topics:
   - Content
   - Social Media
   - abmc
-  - American Battle Monuments Commission
+  - american-battle-monuments-commission
   - content
   - content strategy
   - infographic

@@ -6,7 +6,7 @@
 title: "American Battle Monuments Commission"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

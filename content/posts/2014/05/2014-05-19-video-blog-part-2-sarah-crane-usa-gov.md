@@ -6,10 +6,10 @@ summary: 'Part 2 of our interview with Sarah Crane from USA.gov shares how the U
 authors:
   - sarah-crane
 topics:
-  - API
+  - api
   - Content
   - Managing Digital
-  - API
+  - api
   - USAgov
 ---
 

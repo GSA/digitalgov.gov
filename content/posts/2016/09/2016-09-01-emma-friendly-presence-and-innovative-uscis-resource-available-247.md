@@ -10,7 +10,7 @@ topics:
   - Content
   - Managing Digital
   - UX
-  - AI
+  - ai
   - artificial intelligence
   - Customer Experience
   - CX

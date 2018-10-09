@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - Mobile
-  - API
+  - api
   - Trends on Tuesday
 ---
 

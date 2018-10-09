@@ -10,7 +10,7 @@ topics:
   - Managing Digital
   - Social Media
   - AoI
-  - API
+  - api
   - National Archives and Records Administration
   - SocialGov
   - SocialGov Community

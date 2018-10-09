@@ -6,9 +6,9 @@ summary: ' When browsing the various APIs offered by the federal government, you
 authors:
   - bbrantley
 topics:
-  - API
-  - API
-  - API keys
+  - api
+  - api
+  - api keys
   - security
   - US Department of Agriculture
   - USDA

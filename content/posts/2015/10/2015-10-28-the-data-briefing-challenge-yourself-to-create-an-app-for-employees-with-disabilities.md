@@ -10,7 +10,7 @@ topics:
   - Mobile
   - Monthly Theme
   - "508"
-  - API
+  - api
   - data
   - data-gov
   - DOT

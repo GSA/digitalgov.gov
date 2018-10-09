@@ -7,7 +7,7 @@ authors:
   - jthalls
 topics:
   - accessibility
-  - API
+  - api
   - Challenges
   - Communities
   - Content
@@ -23,9 +23,9 @@ topics:
   - user-testing-and-research
   - UX
   - 18f
-  - AI
+  - ai
   - analytics
-  - API
+  - api
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community
   - Challenges and Prizes Community of Practice

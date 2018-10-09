@@ -9,7 +9,7 @@ topics:
   - Content
   - Managing Digital
   - Our Work
-  - API
+  - api
   - DigitalGov Search
   - Federal Register
   - Instagram

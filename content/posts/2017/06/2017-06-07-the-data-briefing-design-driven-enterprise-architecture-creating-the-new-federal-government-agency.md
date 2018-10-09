@@ -6,12 +6,12 @@ summary: 'It’s been a while since I’ve checked in on enterprise architecture
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Data
   - Managing Digital
   - strategy-and-policy
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - architecture
   - best practices
   - data

@@ -9,7 +9,7 @@ topics:
   - Data
   - Managing Digital
   - agile
-  - AI
+  - ai
   - artificial intelligence
   - big data
   - cloud

@@ -6,7 +6,7 @@ summary: ' Thanks to the power of open data and APIs, federal agencies can now r
 authors:
   - jparcell
 topics:
-  - API
+  - api
   - Communities
   - Mobile
   - Monthly Theme

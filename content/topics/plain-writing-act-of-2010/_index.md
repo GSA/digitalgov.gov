@@ -6,7 +6,7 @@
 title: "Plain Writing Act Of 2010"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

@@ -6,8 +6,8 @@ summary: In my last posting, I argued that federal agencies should consider micr
 authors:
   - bbrantley
 topics:
-  - API
-  - API
+  - api
+  - api
   - Terms of Service
   - US Department of Agriculture
   - USDA

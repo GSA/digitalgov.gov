@@ -6,12 +6,12 @@ summary: 'Agencies have been working away at building better digital services an
 authors:
   - gwynne-kostin
 topics:
-  - API
+  - api
   - Code
   - Content
   - Metrics
   - Our Work
-  - API
+  - api
   - Census
   - Department of Commerce
   - Digital Analytics Program

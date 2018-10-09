@@ -6,11 +6,11 @@ summary: Three recent stories demonstrate how opening up federal government data
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Data
   - Monthly Theme
   - agile
-  - API
+  - api
   - DHS
   - National Action Plan on Open Government
   - Office of Management and Budget

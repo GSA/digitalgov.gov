@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - Social Media
-  - API
+  - api
   - Defense Intelligence Agency
   - Internet of things
   - mobile gov

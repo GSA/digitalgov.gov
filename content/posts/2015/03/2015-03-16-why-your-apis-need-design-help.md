@@ -6,12 +6,12 @@ summary: ' Anything built should be built right. It doesn&#8217;t matter if itâ€
 authors:
   - jonathan-rubin
 topics:
-  - API
+  - api
   - Code
   - Monthly Theme
   - UX
-  - API
-  - API keys
+  - api
+  - api keys
   - CFPB
   - Consumer Financial Protection Bureau
   - FDA

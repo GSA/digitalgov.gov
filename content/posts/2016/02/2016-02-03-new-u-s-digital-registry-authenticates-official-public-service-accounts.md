@@ -9,7 +9,7 @@ topics:
   - Our Work
   - Social Media
   - analytics-usa-gov
-  - API
+  - api
   - MobileGov
   - open source
   - SocialGov

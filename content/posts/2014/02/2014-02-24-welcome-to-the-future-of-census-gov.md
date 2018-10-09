@@ -6,11 +6,11 @@ summary: 'If you have ever visited census.gov, you know that sorting through the
 authors:
   - lisa-wolfisch
 topics:
-  - API
+  - api
   - Content
   - Managing Digital
   - Mobile
-  - API
+  - api
   - Census
 ---
 

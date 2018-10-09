@@ -8,7 +8,7 @@ authors:
 topics:
   - Governance
   - Managing Digital
-  - API
+  - api
   - Department of Commerce
 ---
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - UX
-  - API
+  - api
   - data
   - The Data Briefing
   - United States Patent and Trademark Office

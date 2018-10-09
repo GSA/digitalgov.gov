@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - Data
-  - API
+  - api
   - Census
   - CFPB
   - Consumer Financial Protection Bureau

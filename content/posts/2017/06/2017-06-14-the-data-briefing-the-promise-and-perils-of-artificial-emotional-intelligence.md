@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - Mobile
-  - AI
+  - ai
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community
   - chatbots

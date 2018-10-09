@@ -7,13 +7,13 @@ authors:
   - noah-manger
   - jennifer-thibault
 topics:
-  - API
+  - api
   - Content
   - Data
   - Design
   - UX
   - 18f
-  - API
+  - api
   - content
   - data
   - FEC

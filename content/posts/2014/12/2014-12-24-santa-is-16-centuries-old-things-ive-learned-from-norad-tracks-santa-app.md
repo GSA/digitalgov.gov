@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - Mobile
-  - API
+  - api
   - DoD
   - NORAD
   - North American Defense Command

@@ -8,7 +8,7 @@ authors:
 topics:
   - Managing Digital
   - Social Media
-  - American Red Cross
+  - american-red-cross
   - DGU
   - Peace Corps
   - Recaps

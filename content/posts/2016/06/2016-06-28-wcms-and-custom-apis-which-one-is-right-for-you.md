@@ -6,10 +6,10 @@ summary: 'Gray Brooks of GSA gave us a great definition of APIs in the DigitalGo
 authors:
   - christen-geiler
 topics:
-  - API
+  - api
   - Mobile
   - strategy-and-policy
-  - API
+  - api
   - CMS
   - code
   - Consumer Product Safety Commission

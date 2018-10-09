@@ -6,12 +6,12 @@ summary: 'The federal workplace is abuzz these days with talk about open data an
 authors:
   - john-paul
 topics:
-  - API
+  - api
   - Code
   - Data
   - 18f
   - analytics-usa-gov
-  - API
+  - api
   - data-gov
   - open data
   - Recaps

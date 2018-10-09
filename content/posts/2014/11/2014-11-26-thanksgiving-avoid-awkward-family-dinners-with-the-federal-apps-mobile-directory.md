@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - Mobile
-  - API
+  - api
   - CDC
   - Census
   - Centers for Disease Control and Prevention

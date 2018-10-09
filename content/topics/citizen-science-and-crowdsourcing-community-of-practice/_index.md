@@ -6,7 +6,7 @@
 title: "Citizen Science And Crowdsourcing Community Of Practice"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

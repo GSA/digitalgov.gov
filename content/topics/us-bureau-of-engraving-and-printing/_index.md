@@ -6,7 +6,7 @@
 title: "U.S. Bureau Of Engraving And Printing"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

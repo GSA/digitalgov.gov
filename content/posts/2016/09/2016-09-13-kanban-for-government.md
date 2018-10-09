@@ -9,7 +9,7 @@ topics:
   - strategy-and-policy
   - 18f
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - kanban
   - OCSIT
   - Office of Citizen Services and Innovative Technology

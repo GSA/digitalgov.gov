@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - Social Media
-  - API
+  - api
   - Internet of things
   - social media
   - SocialGov

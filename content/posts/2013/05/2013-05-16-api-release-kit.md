@@ -6,9 +6,9 @@ summary: 'These are the elements you should include in your federal API release.
 authors:
   - gray-brooks
 topics:
-  - API
+  - api
   - Code
-  - API
+  - api
   - Census
   - EPA
   - FCC

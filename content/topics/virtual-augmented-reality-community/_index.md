@@ -6,7 +6,7 @@
 title: "Virtual/Augmented Reality Community"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

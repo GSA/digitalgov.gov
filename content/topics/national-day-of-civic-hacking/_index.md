@@ -6,7 +6,7 @@
 title: "National Day Of Civic Hacking"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

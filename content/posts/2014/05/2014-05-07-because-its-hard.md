@@ -12,7 +12,7 @@ topics:
   - Our Work
   - strategy-and-policy
   - UX
-  - API
+  - api
   - Census
   - Customer Experience
   - DOL

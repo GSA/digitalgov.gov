@@ -6,7 +6,7 @@
 title: "U.S. Web Design Standards"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

@@ -6,7 +6,7 @@
 title: "Mobile User Experience Guidelines"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

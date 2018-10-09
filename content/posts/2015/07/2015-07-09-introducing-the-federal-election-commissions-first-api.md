@@ -6,9 +6,9 @@ summary: ' The Federal Election Commission (FEC) empowers citizens with the info
 authors:
   - lindsay-young
 topics:
-  - API
+  - api
   - 18f
-  - API
+  - api
   - FEC
   - Federal Election Commission
 ---

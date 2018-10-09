@@ -9,7 +9,7 @@ topics:
   - Data
   - Mobile
   - Social Media
-  - AI
+  - ai
   - apps
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community

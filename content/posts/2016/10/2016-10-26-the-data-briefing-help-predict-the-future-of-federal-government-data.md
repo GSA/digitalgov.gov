@@ -14,7 +14,7 @@ topics:
   - Social Media
   - UX
   - 3d-printing
-  - AI
+  - ai
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community
   - Augmented Reality

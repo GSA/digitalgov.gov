@@ -6,7 +6,7 @@ summary: 'Improving the federal government’s ability to deliver digital inform
 authors:
   - rflagg
 topics:
-  - API
+  - api
   - Content
   - CMS
   - Content Management System

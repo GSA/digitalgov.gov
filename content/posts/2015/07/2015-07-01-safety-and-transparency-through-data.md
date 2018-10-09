@@ -6,9 +6,9 @@ summary: ' You have the right to a safe workplace&mdash;and so do the employees 
 authors:
   - michael-pulsifer
 topics:
-  - API
+  - api
   - Data
-  - API
+  - api
   - data
   - 'Occupational Safety and Health Administration'
   - open data

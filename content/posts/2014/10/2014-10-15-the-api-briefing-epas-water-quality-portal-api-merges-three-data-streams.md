@@ -6,8 +6,8 @@ summary: ' Access to clean water is fast becoming a vital issue in the 21st cent
 authors:
   - bbrantley
 topics:
-  - API
-  - API
+  - api
+  - api
   - EPA
   - OPM
   - US Environmental Protection Agency

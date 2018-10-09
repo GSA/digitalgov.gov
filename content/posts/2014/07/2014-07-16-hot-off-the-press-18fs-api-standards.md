@@ -7,7 +7,7 @@ authors:
   - alan-delevie
   - eric-mill
 topics:
-  - API
+  - api
   - 18f
   - white-house
 ---

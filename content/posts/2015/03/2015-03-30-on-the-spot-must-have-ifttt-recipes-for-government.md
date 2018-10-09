@@ -6,11 +6,11 @@ summary: ' Ever since we announced IFTTT was available for federal use, dozens o
 authors:
   - jherman
 topics:
-  - API
+  - api
   - Monthly Theme
   - Social Media
   - 18f
-  - API
+  - api
   - Digital Analytics Program
   - social media
   - SocialGov

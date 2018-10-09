@@ -9,7 +9,7 @@ authors:
 topics:
   - Data
   - Monthly Theme
-  - API
+  - api
   - data
   - data-gov
   - DGU

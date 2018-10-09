@@ -6,7 +6,7 @@ summary: 'Once a federal agency releases an API, there are several ways they can
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Challenges
   - Code
   - Managing Digital

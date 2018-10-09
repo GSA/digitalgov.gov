@@ -8,7 +8,7 @@ authors:
 topics:
   - Managing Digital
   - Mobile
-  - API
+  - api
   - mobile gov community of practice
   - Trends on Tuesday
 ---

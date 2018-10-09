@@ -14,7 +14,7 @@ topics:
   - Mobile
   - Social Media
   - UX
-  - API
+  - api
   - Census
   - innovation
   - mobile apps

@@ -9,7 +9,7 @@ topics:
   - Communities
   - Monthly Theme
   - 18f
-  - API
+  - api
   - CIO Council
   - Citizen Science and Crowdsourcing Community of Practice
   - communities

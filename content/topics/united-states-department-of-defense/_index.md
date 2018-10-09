@@ -6,7 +6,7 @@
 title: "United States Department Of Defense"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

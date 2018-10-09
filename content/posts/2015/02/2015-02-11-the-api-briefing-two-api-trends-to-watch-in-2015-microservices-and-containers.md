@@ -6,8 +6,8 @@ summary: 'DigitalGov recently spotlighted the National Highway Traffic Safety Ad
 authors:
   - bbrantley
 topics:
-  - API
-  - API
+  - api
+  - api
   - National Highway Traffic Safety Administration
   - NHTSA
   - wednesday-api-briefing

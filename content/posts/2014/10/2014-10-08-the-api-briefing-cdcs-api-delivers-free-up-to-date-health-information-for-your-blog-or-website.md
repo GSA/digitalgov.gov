@@ -6,9 +6,9 @@ summary: The recent Ebola outbreaks demonstrate the need for current and authori
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Code
-  - API
+  - api
   - CDC
   - Centers for Disease Control and Prevention
   - content syndication

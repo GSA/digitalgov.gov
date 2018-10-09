@@ -11,7 +11,7 @@ authors:
   - apiazza
   - jonathan-rubin
 topics:
-  - API
+  - api
   - Challenges
   - Content
   - Data

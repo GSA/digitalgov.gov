@@ -8,7 +8,7 @@ authors:
 topics:
   - Mobile
   - Social Media
-  - API
+  - api
   - DAP
   - Digital Analytics Program
   - mobile apps

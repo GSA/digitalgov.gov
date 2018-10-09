@@ -6,7 +6,7 @@
 title: "Challenges And Prizes Community Of Practice"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

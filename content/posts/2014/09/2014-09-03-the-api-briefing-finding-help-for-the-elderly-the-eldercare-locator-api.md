@@ -6,9 +6,9 @@ summary: If you have ever been a caregiver for an elderly family member or frien
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - administration-on-aging
-  - API
+  - api
   - HHS
   - OPM
   - United States Department of Health and Human Services

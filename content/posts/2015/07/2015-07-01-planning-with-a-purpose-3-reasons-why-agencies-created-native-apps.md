@@ -8,7 +8,7 @@ authors:
 topics:
   - Mobile
   - abmc
-  - American Battle Monuments Commission
+  - american-battle-monuments-commission
   - BBG
   - Broadcasting Board of Governors
   - ICE

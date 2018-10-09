@@ -6,7 +6,7 @@
 title: "First Click Testing"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

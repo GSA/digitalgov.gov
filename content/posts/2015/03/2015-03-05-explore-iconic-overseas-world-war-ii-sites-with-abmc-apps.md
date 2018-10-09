@@ -9,7 +9,7 @@ topics:
   - Mobile
   - strategy-and-policy
   - abmc
-  - American Battle Monuments Commission
+  - american-battle-monuments-commission
   - mobile apps
   - Thursday Mobile Products
   - usa-gov-federal-mobile-apps-directory

@@ -6,7 +6,7 @@
 title: "Smithsonian National Museum Of The American Indian"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - Content
-  - API
+  - api
   - CDC
   - Centers for Disease Control and Prevention
   - DOT

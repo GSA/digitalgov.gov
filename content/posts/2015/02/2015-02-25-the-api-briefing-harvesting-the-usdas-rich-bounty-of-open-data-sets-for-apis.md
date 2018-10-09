@@ -6,8 +6,8 @@ summary: APIs and apps have been created for almost every aspect of human life. 
 authors:
   - bbrantley
 topics:
-  - API
-  - API
+  - api
+  - api
   - Internet of things
   - US Department of Agriculture
   - USDA

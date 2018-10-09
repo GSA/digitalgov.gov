@@ -7,7 +7,7 @@ authors:
   - sarah-crane
 topics:
   - Managing Digital
-  - API
+  - api
   - USAgov
 ---
 

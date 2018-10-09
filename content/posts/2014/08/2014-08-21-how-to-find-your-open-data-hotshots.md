@@ -6,10 +6,10 @@ summary: 'How can you find the top 5 users of your open data? We were recently a
 authors:
   - nick-sinai
 topics:
-  - API
+  - api
   - Data
   - Metrics
-  - API
+  - api
   - Census
   - data-gov
   - EPA

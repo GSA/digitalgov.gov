@@ -6,12 +6,12 @@ summary: 'At DigitalGov Search, we keep an eye on on our what our government cou
 authors:
   - ammie-farraj-feijoo
 topics:
-  - API
+  - api
   - Code
   - Content
   - Data
   - Our Work
-  - API
+  - api
   - Consumer Financial Protection Bureau
   - DigitalGov Search
   - GitHub

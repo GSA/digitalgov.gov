@@ -8,8 +8,8 @@ authors:
 topics:
   - Governance
   - Managing Digital
-  - American Red Cross
-  - API
+  - american-red-cross
+  - api
   - Census
   - Department of Commerce
 ---

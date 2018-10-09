@@ -6,7 +6,7 @@ summary: 'Facebook is now the first social media platform to start verifying all
 authors:
   - jherman
 topics:
-  - API
+  - api
   - Data
   - Governance
   - Managing Digital

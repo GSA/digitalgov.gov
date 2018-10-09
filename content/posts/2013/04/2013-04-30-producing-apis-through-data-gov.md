@@ -6,9 +6,9 @@ summary: 'One way agencies can offer APIs for their data is to use the built&nda
 authors:
   - gray-brooks
 topics:
-  - API
+  - api
   - Code
-  - API
+  - api
   - data-gov
   - open data
 ---

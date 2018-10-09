@@ -9,7 +9,7 @@ topics:
   - Managing Digital
   - strategy-and-policy
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - GSA
   - US General Services Administration
   - USAgov

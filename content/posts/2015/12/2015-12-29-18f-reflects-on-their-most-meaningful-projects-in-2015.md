@@ -10,7 +10,7 @@ topics:
   - 18f
   - accessibility
   - analytics-usa-gov
-  - API
+  - api
   - cloud
   - DAP
   - data

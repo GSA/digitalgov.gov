@@ -6,7 +6,7 @@
 title: "National Air And Space Museum"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

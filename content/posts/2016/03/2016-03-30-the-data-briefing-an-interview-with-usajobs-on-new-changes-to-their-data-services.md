@@ -9,7 +9,7 @@ topics:
   - Data
   - Monthly Theme
   - agile
-  - API
+  - api
   - data
   - data visualization
   - OPM

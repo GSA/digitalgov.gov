@@ -6,7 +6,7 @@
 title: "Federal Health IT Strategic Plan"
 
 # description — keep it short and clear
-# summary: ""
+summary: ""
 
 # Weight
 weight: 1

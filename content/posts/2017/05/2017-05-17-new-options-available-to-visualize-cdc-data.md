@@ -7,7 +7,7 @@ authors:
   - aids-gov
 topics:
   - Data
-  - AIDS-gov
+  - aiDS-gov
   - CDC
   - Centers for Disease Control and Prevention
   - data

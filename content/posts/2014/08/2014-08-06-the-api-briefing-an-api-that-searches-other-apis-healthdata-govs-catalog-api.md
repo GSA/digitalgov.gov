@@ -6,9 +6,9 @@ summary: 'As federal agencies release APIs on an almost daily basis, keeping tra
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - Code
-  - API
+  - api
   - data-gov
   - HHS
   - United States Department of Health and Human Services

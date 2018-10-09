@@ -10,7 +10,7 @@ topics:
   - Data
   - Managing Digital
   - Mobile
-  - API
+  - api
   - code
   - Commerce
   - data

@@ -8,7 +8,7 @@ authors:
   - gray-brooks
 topics:
   - Code
-  - API
+  - api
   - GSA
   - social media
 ---

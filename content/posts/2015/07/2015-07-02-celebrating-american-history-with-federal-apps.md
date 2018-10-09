@@ -9,7 +9,7 @@ authors:
 topics:
   - Mobile
   - abmc
-  - American Battle Monuments Commission
+  - american-battle-monuments-commission
   - mobile
   - NARA
   - National Archives and Records Administration

@@ -6,7 +6,7 @@ summary: ' It is fall when the weather becomes colder, and people start firing u
 authors:
   - bbrantley
 topics:
-  - API
+  - api
   - DOE
   - United States Department of Energy
   - wednesday-api-briefing

@@ -6,9 +6,9 @@ summary: 'My name is Kin Lane, I am the API Evangelist, and a round two Presiden
 authors:
   - kin-lane
 topics:
-  - API
+  - api
   - Code
-  - API
+  - api
   - developer hub
 ---
 
