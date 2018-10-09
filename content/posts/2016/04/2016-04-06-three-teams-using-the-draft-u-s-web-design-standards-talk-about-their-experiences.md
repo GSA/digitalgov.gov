@@ -11,7 +11,7 @@ topics:
   - Managing Digital
   - strategy-and-policy
   - UX
-  - 18F
+  - 18f
   - code
   - Draft Web Design Standards
   - open source

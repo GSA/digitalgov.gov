@@ -10,7 +10,7 @@ authors:
   - melody-kramer
 topics:
   - Managing Digital
-  - 18F
+  - 18f
   - GitHub
 ---
 

@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - strategy-and-policy
-  - 18F
+  - 18f
   - CFPB
   - Consumer Financial Protection Bureau
   - FDA

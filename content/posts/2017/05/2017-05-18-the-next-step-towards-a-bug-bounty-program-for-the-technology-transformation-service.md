@@ -11,7 +11,7 @@ authors:
 topics:
   - Managing Digital
   - strategy-and-policy
-  - 18F
+  - 18f
   - DoD
   - security
   - Technology Transformation Service

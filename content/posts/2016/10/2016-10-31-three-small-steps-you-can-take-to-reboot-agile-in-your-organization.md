@@ -10,7 +10,7 @@ authors:
 topics:
   - strategy-and-policy
   - user-testing-and-research
-  - 18F
+  - 18f
   - agile
   - best practices
   - Commerce

@@ -9,7 +9,7 @@ topics:
   - Managing Digital
   - Monthly Theme
   - strategy-and-policy
-  - 18F
+  - 18f
   - agile
   - Census
   - communities

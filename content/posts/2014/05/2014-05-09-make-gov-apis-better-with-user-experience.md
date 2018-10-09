@@ -10,7 +10,7 @@ topics:
   - Code
   - user-testing-and-research
   - UX
-  - 18F
+  - 18f
   - API
   - API keys
   - DigitalGov User Experience Program

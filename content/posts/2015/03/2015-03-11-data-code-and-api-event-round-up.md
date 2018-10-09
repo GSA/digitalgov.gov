@@ -8,7 +8,7 @@ authors:
 topics:
   - Monthly Theme
   - Our Work
-  - 18F
+  - 18f
   - API
   - CFPB
   - Consumer Financial Protection Bureau

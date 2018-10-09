@@ -9,7 +9,7 @@ topics:
   - Design
   - Managing Digital
   - Mobile
-  - 18F
+  - 18f
   - responsive web design
   - top tasks
 ---

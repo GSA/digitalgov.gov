@@ -11,7 +11,7 @@ authors:
   - amos-stone
 topics:
   - Data
-  - 18F
+  - 18f
   - FEC
   - Federal Election Commission
   - open data

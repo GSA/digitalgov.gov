@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - Managing Digital
-  - 18F
+  - 18f
   - cloud
   - data
   - Federal Risk and Authorization Management Program

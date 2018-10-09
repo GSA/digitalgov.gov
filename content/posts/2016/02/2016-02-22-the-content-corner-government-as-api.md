@@ -9,7 +9,7 @@ topics:
   - API
   - Content
   - Monthly Theme
-  - Administrative Office of the United States Courts
+  - administrative-office-of-the-united-states-courts
   - API
   - CMS
   - Content Management System

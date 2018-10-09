@@ -8,7 +8,7 @@ authors:
 topics:
   - Communities
   - Monthly Theme
-  - 18F
+  - 18f
   - API
   - CIO Council
   - Citizen Science and Crowdsourcing Community of Practice

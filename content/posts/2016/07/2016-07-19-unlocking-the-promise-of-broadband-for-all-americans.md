@@ -8,7 +8,7 @@ authors:
   - jason-furman
 topics:
   - Mobile
-  - 5G
+  - 5g
   - broadband
   - innovation
   - mobile

@@ -8,7 +8,7 @@ authors:
 topics:
   - Managing Digital
   - Monthly Theme
-  - 18F
+  - 18f
   - agile
 ---
 

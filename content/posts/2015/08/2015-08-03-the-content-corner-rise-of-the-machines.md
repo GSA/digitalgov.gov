@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - Content
-  - Administrative Office of the United States Courts
+  - administrative-office-of-the-united-states-courts
   - blog
   - natural language generation
   - The Content Corner

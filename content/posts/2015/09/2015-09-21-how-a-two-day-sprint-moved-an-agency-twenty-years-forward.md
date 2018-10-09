@@ -7,7 +7,7 @@ authors:
   - jesse-taggert
 topics:
   - UX
-  - 18F
+  - 18f
   - agile
   - DOL
   - sprint

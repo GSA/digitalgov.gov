@@ -12,7 +12,7 @@ authors:
 topics:
   - Data
   - Metrics
-  - 18F
+  - 18f
   - analytics
   - data
   - Digital Analytics Program

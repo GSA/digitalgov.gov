@@ -13,7 +13,7 @@ topics:
   - Mobile
   - Social Media
   - UX
-  - 3D printing
+  - 3d-printing
   - AI
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community

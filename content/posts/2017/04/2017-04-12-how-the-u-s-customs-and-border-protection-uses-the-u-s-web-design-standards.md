@@ -8,7 +8,7 @@ authors:
 topics:
   - Design
   - UX
-  - 18F
+  - 18f
   - accessibility
   - CBP
   - DHS

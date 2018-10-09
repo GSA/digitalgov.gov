@@ -9,7 +9,7 @@ topics:
   - API
   - Code
   - Data
-  - 18F
+  - 18f
   - analytics-usa-gov
   - API
   - data-gov

@@ -10,7 +10,7 @@ topics:
   - Design
   - strategy-and-policy
   - UX
-  - 18F
+  - 18f
   - accessibility
   - DGU
   - DigitalGov University

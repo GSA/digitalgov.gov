@@ -9,7 +9,7 @@ topics:
   - Governance
   - Monthly Theme
   - strategy-and-policy
-  - 18F
+  - 18f
   - connect-gov
   - data-gov
   - FOIA

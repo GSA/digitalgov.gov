@@ -8,7 +8,7 @@ authors:
   - aaron-snow
 topics:
   - Code
-  - 18F
+  - 18f
   - GitHub
   - GSA
   - RFP

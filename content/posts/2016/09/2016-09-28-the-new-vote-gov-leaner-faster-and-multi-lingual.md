@@ -11,7 +11,7 @@ topics:
   - Design
   - user-testing-and-research
   - UX
-  - 18F
+  - 18f
   - analytics
   - cloud
   - cloud-gov

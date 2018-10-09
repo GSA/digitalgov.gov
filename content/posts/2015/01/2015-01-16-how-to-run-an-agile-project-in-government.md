@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - UX
-  - 18F
+  - 18f
   - GSA
   - Recaps
   - UX

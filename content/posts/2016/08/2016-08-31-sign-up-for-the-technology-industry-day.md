@@ -10,7 +10,7 @@ topics:
   - Data
   - Managing Digital
   - strategy-and-policy
-  - 18F
+  - 18f
   - agile
   - CIO
   - cloud

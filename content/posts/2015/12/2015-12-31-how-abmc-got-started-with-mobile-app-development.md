@@ -8,7 +8,7 @@ authors:
 topics:
   - Mobile
   - UX
-  - ABMC
+  - abmc
   - American Battle Monuments Commission
   - Federal CrowdSource Mobile Testing Program
   - mobile

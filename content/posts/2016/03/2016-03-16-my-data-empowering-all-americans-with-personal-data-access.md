@@ -10,7 +10,7 @@ authors:
 topics:
   - Data
   - Monthly Theme
-  - 18F
+  - 18f
   - data-gov
   - Education
   - HHS

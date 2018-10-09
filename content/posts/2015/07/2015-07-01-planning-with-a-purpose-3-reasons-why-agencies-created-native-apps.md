@@ -7,7 +7,7 @@ authors:
   - byrhonda-lyons
 topics:
   - Mobile
-  - ABMC
+  - abmc
   - American Battle Monuments Commission
   - BBG
   - Broadcasting Board of Governors

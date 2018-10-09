@@ -8,7 +8,7 @@ authors:
 topics:
   - Mobile
   - strategy-and-policy
-  - ABMC
+  - abmc
   - American Battle Monuments Commission
   - mobile apps
   - Thursday Mobile Products

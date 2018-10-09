@@ -12,7 +12,7 @@ topics:
   - Code
   - Design
   - User Testing and Research
-  - 3D printing
+  - 3d-printing
   - DoD
   - US Department of Veterans Affairs
   - United States Department of Defense

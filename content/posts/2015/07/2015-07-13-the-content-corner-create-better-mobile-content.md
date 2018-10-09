@@ -8,7 +8,7 @@ authors:
 topics:
   - Content
   - Mobile
-  - Administrative Office of the United States Courts
+  - administrative-office-of-the-united-states-courts
   - infographic
   - mobile
   - Mobile UX Guideline 1

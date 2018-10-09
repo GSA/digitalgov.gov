@@ -8,7 +8,7 @@ authors:
 topics:
   - Communities
   - Monthly Theme
-  - 18F
+  - 18f
   - Customer Experience Community of Practice
   - Defense Intelligence Agency
   - Federal CrowdSource Mobile Testing Program

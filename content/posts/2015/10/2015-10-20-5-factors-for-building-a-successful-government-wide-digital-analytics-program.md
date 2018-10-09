@@ -8,7 +8,7 @@ authors:
   - marina-fox
 topics:
   - Metrics
-  - 18F
+  - 18f
   - analytics
   - customer service
   - DAP

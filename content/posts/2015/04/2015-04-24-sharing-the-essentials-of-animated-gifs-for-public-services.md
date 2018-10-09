@@ -8,7 +8,7 @@ authors:
 topics:
   - Content
   - Social Media
-  - 18F
+  - 18f
   - accessibility
   - DGU
   - GobiernoUSAgov

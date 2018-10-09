@@ -11,7 +11,7 @@ authors:
 topics:
   - Managing Digital
   - Our Work
-  - 18F
+  - 18f
   - analytics
   - Digital Analytics Program
   - GSA

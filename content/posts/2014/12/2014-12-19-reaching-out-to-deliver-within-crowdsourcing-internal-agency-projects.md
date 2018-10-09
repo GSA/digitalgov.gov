@@ -8,7 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-  - 18F
+  - 18f
   - crowdsourcing
   - HHS
   - Open Opportunities program

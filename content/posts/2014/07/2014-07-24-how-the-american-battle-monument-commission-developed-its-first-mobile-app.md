@@ -9,7 +9,7 @@ topics:
   - Managing Digital
   - Mobile
   - UX
-  - ABMC
+  - abmc
   - American Battle Monuments Commission
   - mobile
   - mobile apps

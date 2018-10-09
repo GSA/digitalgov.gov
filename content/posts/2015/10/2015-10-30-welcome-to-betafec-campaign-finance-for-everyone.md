@@ -7,7 +7,7 @@ authors:
   - emileigh-barnes
 topics:
   - Content
-  - 18F
+  - 18f
   - API
   - FEC
   - Federal Election Commission

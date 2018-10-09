@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - Content
-  - Administrative Office of the United States Courts
+  - administrative-office-of-the-united-states-courts
   - Content Management System
   - Mobile UX Guideline 1
   - The Content Corner

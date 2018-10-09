@@ -15,7 +15,7 @@ topics:
   - The Data Briefing
   - user experience
   - UX
-  - 3D printing
+  - 3d-printing
   - Artificial Intelligence
   - Artificial Intelligence for Citizen Services Community
   - Augmented Reality

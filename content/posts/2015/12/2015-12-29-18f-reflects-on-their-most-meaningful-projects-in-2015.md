@@ -7,7 +7,7 @@ authors:
   - melody-kramer
 topics:
   - Our Work
-  - 18F
+  - 18f
   - accessibility
   - analytics-usa-gov
   - API

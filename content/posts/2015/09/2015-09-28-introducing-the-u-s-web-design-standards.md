@@ -10,7 +10,7 @@ authors:
   - colin-macarthur
 topics:
   - Design
-  - 18F
+  - 18f
   - US Digital Service
   - USDS
   - user experience

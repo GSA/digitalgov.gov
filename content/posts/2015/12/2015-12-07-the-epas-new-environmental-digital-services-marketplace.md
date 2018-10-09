@@ -7,7 +7,7 @@ authors:
   - chris-cairns
 topics:
   - Managing Digital
-  - 18F
+  - 18f
   - EPA
   - US Environmental Protection Agency
 ---

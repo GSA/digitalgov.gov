@@ -8,7 +8,7 @@ authors:
 topics:
   - Monthly Theme
   - UX
-  - 18F
+  - 18f
   - Customer Experience
   - Customer Experience Community of Practice
   - CX

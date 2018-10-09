@@ -12,7 +12,7 @@ topics:
   - Governance
   - Managing Digital
   - strategy-and-policy
-  - 18F
+  - 18f
   - best practices
   - data
   - DATA Act

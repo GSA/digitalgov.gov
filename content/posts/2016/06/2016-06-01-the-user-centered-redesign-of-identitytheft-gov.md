@@ -11,7 +11,7 @@ topics:
   - strategy-and-policy
   - user-testing-and-research
   - UX
-  - 18F
+  - 18f
   - Federal Trade Commission
   - FTC
   - usability testing

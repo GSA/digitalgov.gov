@@ -9,7 +9,7 @@ topics:
   - Code
   - Managing Digital
   - Monthly Theme
-  - 18F
+  - 18f
   - analytics-usa-gov
   - CFPB
   - Consumer Financial Protection Bureau

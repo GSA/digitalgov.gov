@@ -11,7 +11,7 @@ topics:
   - Monthly Theme
   - Our Work
   - Social Media
-  - 18F
+  - 18f
   - CMS
   - Content Management System
   - DigitalGov Search

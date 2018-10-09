@@ -8,7 +8,7 @@ authors:
 topics:
   - Content
   - Social Media
-  - ABMC
+  - abmc
   - American Battle Monuments Commission
   - content
   - content strategy

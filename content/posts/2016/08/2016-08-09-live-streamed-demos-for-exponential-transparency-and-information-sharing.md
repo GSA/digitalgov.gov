@@ -11,7 +11,7 @@ topics:
   - Managing Digital
   - strategy-and-policy
   - Video
-  - 18F
+  - 18f
   - audio
   - Audio-Video
   - DGU

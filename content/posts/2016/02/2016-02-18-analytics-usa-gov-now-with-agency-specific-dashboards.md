@@ -13,7 +13,7 @@ authors:
 topics:
   - Data
   - Our Work
-  - 18F
+  - 18f
   - analytics
   - analytics-usa-gov
   - Commerce

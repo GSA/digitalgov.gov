@@ -22,7 +22,7 @@ topics:
   - strategy-and-policy
   - user-testing-and-research
   - UX
-  - 18F
+  - 18f
   - AI
   - analytics
   - API

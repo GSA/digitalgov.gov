@@ -7,7 +7,7 @@ authors:
   - alan-brouilette
 topics:
   - strategy-and-policy
-  - 18F
+  - 18f
   - agile
   - Agile/Lean Community of Practice
   - kanban

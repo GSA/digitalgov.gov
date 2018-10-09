@@ -8,7 +8,7 @@ authors:
   - awichman
 topics:
   - Mobile
-  - ABMC
+  - abmc
   - American Battle Monuments Commission
   - mobile
   - NARA

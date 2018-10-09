@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - Content
-  - Administrative Office of the United States Courts
+  - administrative-office-of-the-united-states-courts
   - content models
   - open and structured content models
   - structured content

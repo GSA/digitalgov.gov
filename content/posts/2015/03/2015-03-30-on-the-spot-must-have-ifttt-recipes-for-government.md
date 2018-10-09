@@ -9,7 +9,7 @@ topics:
   - API
   - Monthly Theme
   - Social Media
-  - 18F
+  - 18f
   - API
   - Digital Analytics Program
   - social media
