@@ -9,7 +9,6 @@ authors:
 categories:
   - Managing Digital
   - strategy-and-policy
-tag:
   - GSA
   - HTTPS
   - security

@@ -12,7 +12,6 @@ categories:
   - Code
   - Design
   - User Testing and Research
-tag:
   - 3D printing
   - DoD
   - US Department of Veterans Affairs

@@ -12,7 +12,6 @@ categories:
   - mobile
   - user-testing-and-research
   - ux
-tag:
   - accessibility
   - communities
   - content

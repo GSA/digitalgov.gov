@@ -9,7 +9,6 @@ authors:
 categories:
   - Code
   - Design
-tag:
   - GitHub
   - open source
   - responsive web design

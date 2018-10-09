@@ -10,7 +10,6 @@ categories:
   - Data
   - Managing Digital
   - strategy-and-policy
-tag:
   - agile
   - Agile/Lean Community of Practice
   - architecture

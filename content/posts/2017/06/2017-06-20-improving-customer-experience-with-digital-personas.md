@@ -9,7 +9,6 @@ categories:
   - Content
   - Design
   - UX
-tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - CX

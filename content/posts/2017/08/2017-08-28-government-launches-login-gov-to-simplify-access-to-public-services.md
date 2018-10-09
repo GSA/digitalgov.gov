@@ -11,7 +11,6 @@ authors:
   - tom-mills
 categories:
   - Managing Digital
-tag:
   - 18F
   - CBP
   - Customer Experience

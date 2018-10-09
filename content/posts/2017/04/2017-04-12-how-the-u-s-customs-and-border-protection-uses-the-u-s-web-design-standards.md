@@ -8,7 +8,6 @@ authors:
 categories:
   - Design
   - UX
-tag:
   - 18F
   - accessibility
   - CBP

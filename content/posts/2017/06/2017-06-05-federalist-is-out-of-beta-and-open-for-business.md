@@ -10,7 +10,6 @@ categories:
   - Code
   - Design
   - Managing Digital
-tag:
   - 18F
   - cloud
   - cloud.gov

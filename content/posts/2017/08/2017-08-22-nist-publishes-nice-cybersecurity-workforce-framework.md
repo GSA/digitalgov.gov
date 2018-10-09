@@ -9,7 +9,6 @@ categories:
   - strategy-and-policy
 authors:
  - nist
-tag:
   - data
   - National Institute of Standards and Technology
   - NIST

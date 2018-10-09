@@ -11,8 +11,6 @@ categories:
   - User Testing and Research
   - UX
   - Video
-
-tag:
   - Audio/Video
   - Augmented Reality
   - DHS

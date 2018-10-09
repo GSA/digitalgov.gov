@@ -9,7 +9,6 @@ categories:
   - Challenges
   - crowdsourcing-and-citizen-science
   - strategy-and-policy
-tag:
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
   - crowdsourcing

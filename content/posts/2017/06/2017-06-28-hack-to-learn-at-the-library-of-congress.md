@@ -7,7 +7,6 @@ authors:
   - jaime-mears
 categories:
   - Data
-tag:
   - data
   - hackathon
   - Library of Congress

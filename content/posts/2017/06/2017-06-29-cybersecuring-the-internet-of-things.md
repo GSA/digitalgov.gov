@@ -10,7 +10,6 @@ categories:
   - Data
   - Mobile
   - 'Strategy and Policy'
-tag:
   - best practices
   - infrastructure
   - Internet of things

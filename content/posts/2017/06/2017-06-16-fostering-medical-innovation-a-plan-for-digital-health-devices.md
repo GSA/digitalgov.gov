@@ -9,7 +9,6 @@ categories:
   - Governance
   - Mobile
   - strategy-and-policy
-tag:
   - Digital Health Innovation Plan
   - FDA
   - HHS

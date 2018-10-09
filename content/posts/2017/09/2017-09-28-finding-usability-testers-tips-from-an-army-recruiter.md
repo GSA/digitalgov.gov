@@ -8,7 +8,6 @@ authors:
 categories:
   - user-testing-and-research
   - ux
-tag:
   - opm
   - united-states-office-of-personnel-management
   - usability

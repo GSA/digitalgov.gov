@@ -9,7 +9,6 @@ authors:
 categories:
   - Content
   - Social Media
-tag:
   - code
   - multilingual
   - search engine optimization

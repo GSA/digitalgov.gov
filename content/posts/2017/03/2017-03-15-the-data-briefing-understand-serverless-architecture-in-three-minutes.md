@@ -8,7 +8,6 @@ authors:
 categories:
   - Data
   - Managing Digital
-tag:
   - architecture
   - cloud
   - data

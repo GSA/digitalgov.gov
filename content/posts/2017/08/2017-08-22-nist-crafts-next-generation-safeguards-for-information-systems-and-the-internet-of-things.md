@@ -8,7 +8,6 @@ authors:
 categories:
   - Mobile
   - Strategy-and-Policy
-tag:
   - Internet of things
   - IoT
   - National Institute of Standards and Technology

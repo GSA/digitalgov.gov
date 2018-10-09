@@ -7,7 +7,6 @@ authors:
   - jada-jones
 categories:
   - data
-tag:
   - ai
   - artificial-intelligence
   - big-data

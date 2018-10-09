@@ -12,8 +12,6 @@ categories:
   - strategy-and-policy
   - User Testing and Research
   - UX
-
-tag:
   - Best Practices
   - User Experience
   - UX

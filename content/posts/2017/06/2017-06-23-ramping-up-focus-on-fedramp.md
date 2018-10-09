@@ -7,7 +7,6 @@ authors:
   - fedramp
 categories:
   - Content
-tag:
   - FedRAMP
 ---
 

@@ -8,7 +8,6 @@ authors:
 categories:
   - Content
   - Social Media
-tag:
   - ABMC
   - American Battle Monuments Commission
   - content

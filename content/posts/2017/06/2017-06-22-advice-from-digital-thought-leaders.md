@@ -10,7 +10,6 @@ categories:
   - Mobile
   - social-media
   - strategy-and-policy
-tag:
   - data
   - hiv-gov
   - HHS

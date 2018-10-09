@@ -7,7 +7,6 @@ authors:
   - christen-geiler
 categories:
   - Content
-tag:
   - CMS
   - content
   - Content Management System

@@ -8,7 +8,6 @@ authors:
 categories:
   - Data
   - Mobile
-tag:
   - AI
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community

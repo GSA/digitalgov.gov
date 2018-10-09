@@ -10,7 +10,6 @@ categories:
   - emerging-tech
   - Managing Digital
   - Our Work
-tag:
   - AI
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community

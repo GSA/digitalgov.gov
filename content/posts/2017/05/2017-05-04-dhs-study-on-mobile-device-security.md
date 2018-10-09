@@ -9,7 +9,6 @@ categories:
   - Managing Digital
   - Mobile
   - strategy-and-policy
-tag:
   - DHS
   - mobile
   - National Institute of Standards and Technology

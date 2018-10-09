@@ -19,8 +19,6 @@ categories:
   - mobile
   - ux
   - accessibility
-
-tag:
   - uswds
   - ux
   - accessibility

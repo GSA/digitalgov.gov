@@ -11,7 +11,6 @@ featured_image:
 categories:
   - social-media
   - strategy-and-policy
-tag:
   - content-strategy
   - hiv-gov
   - social-media

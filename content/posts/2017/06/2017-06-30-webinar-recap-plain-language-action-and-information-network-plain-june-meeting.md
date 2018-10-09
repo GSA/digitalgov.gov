@@ -9,7 +9,6 @@ categories:
   - Content
   - 'Strategy and Policy'
   - Writing
-tag:
   - content
   - content strategy
   - Plain language

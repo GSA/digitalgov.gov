@@ -11,7 +11,6 @@ categories:
   - Managing Digital
   - Our Work
   - UX
-tag:
   - artificial-intelligence
   - customer-experience
   - innovation

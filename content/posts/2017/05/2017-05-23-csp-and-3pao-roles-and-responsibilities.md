@@ -8,7 +8,6 @@ authors:
 categories:
   - Code
   - Managing Digital
-tag:
   - cloud
   - FedRAMP
   - security

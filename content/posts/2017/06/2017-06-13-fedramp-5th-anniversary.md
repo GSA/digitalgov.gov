@@ -7,7 +7,6 @@ authors:
   - fedramp
 categories:
   - Managing Digital
-tag:
   - cloud
   - FedRAMP
 ---

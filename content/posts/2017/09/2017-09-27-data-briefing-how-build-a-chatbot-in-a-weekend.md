@@ -9,7 +9,6 @@ categories:
   - code
   - data
   - social-media
-tag:
   - ai
   - artificial-intelligence
   - chatbots

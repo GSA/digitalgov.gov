@@ -8,7 +8,6 @@ authors:
 categories:
   - Managing Digital
   - strategy-and-policy
-tag:
   - analytics
   - email marketing
   - metrics

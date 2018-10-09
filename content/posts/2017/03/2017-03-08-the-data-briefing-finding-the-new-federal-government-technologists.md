@@ -7,7 +7,6 @@ authors:
   - bbrantley
 categories:
   - Managing Digital
-tag:
   - acquisition
   - human resources
   - The Data Briefing

@@ -11,8 +11,6 @@ authors:
 
 categories:
   - data
-
-tag:
   - ai
   - artificial-intelligence
   - blockchain

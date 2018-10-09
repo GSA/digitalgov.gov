@@ -10,7 +10,6 @@ categories:
   - Design
   - Managing Digital
   - UX
-tag:
   - Recaps
   - US Web Design Standards
 ---

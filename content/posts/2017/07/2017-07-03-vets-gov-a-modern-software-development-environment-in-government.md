@@ -11,7 +11,6 @@ categories:
   - Design
   - 'User Testing and Research'
   - UX
-tag:
   - cloud
   - code
   - GitHub

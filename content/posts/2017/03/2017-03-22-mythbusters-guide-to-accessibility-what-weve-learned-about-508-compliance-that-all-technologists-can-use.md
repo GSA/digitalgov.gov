@@ -9,7 +9,6 @@ categories:
   - Accessibility
   - Design
   - UX
-tag:
   - accessibility
   - US Digital Service
   - USDS

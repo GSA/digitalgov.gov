@@ -9,7 +9,6 @@ categories:
   - data
   - emerging-tech
   - our-work
-tag:
   - AI
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community

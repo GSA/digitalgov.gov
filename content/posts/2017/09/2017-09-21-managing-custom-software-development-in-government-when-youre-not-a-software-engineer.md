@@ -8,7 +8,6 @@ authors:
 categories:
   - managing-digital
   - strategy-and-policy
-tag:
   - 18f
   - agile
   - project-management

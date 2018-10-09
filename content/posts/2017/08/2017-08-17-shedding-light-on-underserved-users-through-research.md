@@ -7,7 +7,6 @@ authors:
   - tyrus-manuel
 categories:
   - User Testing and Research
-tag:
   - Personas
   - user experience
   - user research

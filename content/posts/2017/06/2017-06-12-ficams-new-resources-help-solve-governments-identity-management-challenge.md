@@ -8,7 +8,6 @@ authors:
 categories:
   - Managing Digital
   - Mobile
-tag:
   - mobile
   - security
 ---

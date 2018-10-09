@@ -22,7 +22,6 @@ categories:
   - strategy-and-policy
   - user-testing-and-research
   - UX
-tag:
   - 18F
   - AI
   - analytics

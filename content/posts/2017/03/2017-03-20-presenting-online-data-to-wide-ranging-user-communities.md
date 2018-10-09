@@ -8,7 +8,6 @@ authors:
 categories:
   - Data
   - user-testing-and-research
-tag:
   - data
   - research
   - user centered design

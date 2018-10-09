@@ -7,7 +7,6 @@ authors:
   - aids-gov
 categories:
   - Data
-tag:
   - AIDS-gov
   - CDC
   - Centers for Disease Control and Prevention

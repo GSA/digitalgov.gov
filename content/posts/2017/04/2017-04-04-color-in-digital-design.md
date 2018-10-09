@@ -10,7 +10,6 @@ categories:
   - Design
   - Managing Digital
   - UX
-tag:
   - communities
   - US Web Design Standards
   - user experience

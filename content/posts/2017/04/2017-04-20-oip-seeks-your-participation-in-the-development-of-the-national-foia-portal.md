@@ -9,7 +9,6 @@ categories:
   - Managing Digital
   - strategy-and-policy
   - user-testing-and-research
-tag:
   - 18F
   - FOIA
   - GSA

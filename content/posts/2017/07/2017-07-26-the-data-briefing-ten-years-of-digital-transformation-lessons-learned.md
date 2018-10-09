@@ -12,7 +12,6 @@ categories:
   - emerging-tech
   - Managing Digital
   - UX
-tag:
   - The Data Briefing
   - user experience
   - UX

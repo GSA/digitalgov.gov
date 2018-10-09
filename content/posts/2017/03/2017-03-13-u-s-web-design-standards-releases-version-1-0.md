@@ -12,7 +12,6 @@ categories:
   - Mobile
   - strategy-and-policy
   - UX
-tag:
   - 18F
   - accessibility
   - Draft Web Design Standards

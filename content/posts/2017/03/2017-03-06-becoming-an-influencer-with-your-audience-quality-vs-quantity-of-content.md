@@ -8,7 +8,6 @@ authors:
 categories:
   - Content
   - Social Media
-tag:
   - content
   - content strategy
   - social media

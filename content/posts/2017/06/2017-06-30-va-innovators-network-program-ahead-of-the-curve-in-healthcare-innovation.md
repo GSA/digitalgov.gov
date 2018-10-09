@@ -8,7 +8,6 @@ authors:
 categories:
   - Design
   - UX
-tag:
   - innovation
   - US Department of Veterans Affairs
   - user centered design

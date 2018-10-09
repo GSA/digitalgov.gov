@@ -8,7 +8,6 @@ authors:
 categories:
   - data
   - managing-digital
-tag:
   - ai
   - artificial-intelligence
   - human-resources

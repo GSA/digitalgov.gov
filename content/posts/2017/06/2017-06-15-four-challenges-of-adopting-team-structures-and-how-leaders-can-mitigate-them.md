@@ -7,7 +7,6 @@ authors:
   - brian-fox
 categories:
   - Managing Digital
-tag:
   - agile
   - Agile/Lean Community of Practice
   - best practices

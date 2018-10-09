@@ -8,7 +8,6 @@ authors:
 categories:
   - Metrics
   - Mobile
-tag:
   - analytics
   - DAP
   - metrics

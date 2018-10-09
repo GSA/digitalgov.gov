@@ -9,7 +9,6 @@ categories:
   - Design
   - UX
   - Video
-tag:
   - Audio/Video
   - Augmented Reality
   - video

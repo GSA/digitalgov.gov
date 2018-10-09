@@ -8,7 +8,6 @@ authors:
 categories:
   - API
   - Data
-tag:
   - API
   - data
   - Education

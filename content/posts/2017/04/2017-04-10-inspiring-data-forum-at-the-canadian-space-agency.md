@@ -9,7 +9,6 @@ categories:
   - API
   - Code
   - Data
-tag:
   - API
   - apps challenges
   - data

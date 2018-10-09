@@ -10,7 +10,6 @@ categories:
   - Design
   - strategy-and-policy
   - UX
-tag:
   - 18F
   - accessibility
   - DGU

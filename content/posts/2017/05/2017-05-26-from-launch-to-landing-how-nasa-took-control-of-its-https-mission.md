@@ -8,7 +8,6 @@ authors:
 categories:
   - Managing Digital
   - strategy-and-policy
-tag:
   - 18F
   - DHS
   - GSA

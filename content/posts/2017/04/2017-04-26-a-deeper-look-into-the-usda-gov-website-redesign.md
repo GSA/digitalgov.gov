@@ -11,7 +11,6 @@ categories:
   - Managing Digital
   - Mobile
   - strategy-and-policy
-tag:
   - accessibility
   - architecture
   - content

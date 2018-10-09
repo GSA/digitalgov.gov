@@ -11,7 +11,6 @@ featured_image:
 categories:
   - Content
   - Mobile
-tag:
   - apps
   - content
   - DHS

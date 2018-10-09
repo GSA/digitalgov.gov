@@ -7,7 +7,6 @@ authors:
   - bbrantley
 categories:
   - Managing Digital
-tag:
   - AI
   - artificial intelligence
   - Augmented Reality

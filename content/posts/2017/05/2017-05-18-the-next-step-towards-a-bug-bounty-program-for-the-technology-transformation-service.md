@@ -11,7 +11,6 @@ authors:
 categories:
   - Managing Digital
   - strategy-and-policy
-tag:
   - 18F
   - DoD
   - security

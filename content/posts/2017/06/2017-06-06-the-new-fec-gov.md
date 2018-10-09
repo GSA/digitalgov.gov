@@ -12,7 +12,6 @@ categories:
   - Data
   - Design
   - UX
-tag:
   - 18F
   - API
   - content

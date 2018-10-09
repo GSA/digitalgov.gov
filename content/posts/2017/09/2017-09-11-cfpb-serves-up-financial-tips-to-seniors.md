@@ -12,7 +12,6 @@ categories:
   - Content
   - Design
   - UX
-tag:
   - CFPB
   - Consumer Financial Protection Bureau
   - content

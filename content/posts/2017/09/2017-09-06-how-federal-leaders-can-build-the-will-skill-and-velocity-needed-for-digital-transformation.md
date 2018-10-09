@@ -10,7 +10,6 @@ authors:
   - bbrantley
 categories:
   - Managing Digital
-tag:
   - communication
   - human resources
   - skills

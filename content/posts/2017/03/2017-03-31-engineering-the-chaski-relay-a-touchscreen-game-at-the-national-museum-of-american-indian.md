@@ -10,7 +10,6 @@ categories:
   - Design
   - user-testing-and-research
   - UX
-tag:
   - content
   - gamification
   - NMAI

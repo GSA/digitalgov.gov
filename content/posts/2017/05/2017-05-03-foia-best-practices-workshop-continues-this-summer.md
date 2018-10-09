@@ -9,7 +9,6 @@ categories:
   - Governance
   - Managing Digital
   - strategy-and-policy
-tag:
   - DOJ
   - FOIA
   - Freedom of Information Act

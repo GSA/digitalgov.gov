@@ -12,7 +12,6 @@ categories:
   - strategy-and-policy
   - user-testing-and-research
   - ux
-tag:
   - 18f
   - fbi
   - fec

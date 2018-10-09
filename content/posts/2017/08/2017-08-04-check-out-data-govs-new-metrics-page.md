@@ -8,7 +8,6 @@ authors:
 categories:
   - Data
   - Metrics
-tag:
   - analytics
   - data
   - data.gov

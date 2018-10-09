@@ -9,7 +9,6 @@ categories:
   - Content
   - Social Media
   - Video
-tag:
   - Audio/Video
   - content
   - hiv-gov

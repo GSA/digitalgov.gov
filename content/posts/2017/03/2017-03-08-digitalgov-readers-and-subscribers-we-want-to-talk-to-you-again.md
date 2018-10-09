@@ -11,7 +11,6 @@ categories:
   - Our Work
   - user-testing-and-research
   - UX
-tag:
   - content
   - Customer Experience
   - CX
