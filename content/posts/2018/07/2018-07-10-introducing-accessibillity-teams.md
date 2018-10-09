@@ -11,7 +11,6 @@ topics:
   - ux
   - section-508
   - methodology
-  - accessibility
   - design
   - section-508
 featured_image:

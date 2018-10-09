@@ -1,4 +1,3 @@
-
 ---
 # This topic lives at
 # https://digital.gov/topics/challenges
@@ -7,8 +6,10 @@
 title: "Challenges"
 
 # description — keep it short and clear
-# summary: "Types of challenges–ideation, software and apps, creative and tech–and the platforms and tools for success."
+summary: "Types of challenges–ideation, software and apps, creative and tech–and the platforms and tools for success."
 
+# Weight
+weight: 1
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki/topics
