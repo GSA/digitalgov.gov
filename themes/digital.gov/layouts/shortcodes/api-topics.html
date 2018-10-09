@@ -1,0 +1,29 @@
+{{- $list := $.Site.Taxonomies.topics -}}
+{{- $length := (len $list) -}}
+{
+  "version" : "https://jsonfeed.org/version/1",
+  "title" : "Topics | {{- .Site.Title -}}",
+  "home_page_url" : "{{- .Site.BaseURL -}}",
+  "count" : "{{- $length -}}",
+  "items" : [
+{{- range $name, $taxonomy := $list -}}
+  {{- $tax := (len $taxonomy) -}}
+  {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
+    {
+      "slug" : "{{ $name -}}",
+      "display_name" : "{{ .Title -}}",
+      "summary" : "{{ .Params.summary -}}",
+      "pages" : "{{- $tax -}}",
+      "weight" : "{{- .Params.weight -}}"
+    },
+  {{ end }}
+{{ end }}
+    {
+      "slug" : "zzz",
+      "display_name" : "zzz",
+      "summary" : "",
+      "pages" : "0",
+      "weight" : "1"
+    }
+  ]
+}
