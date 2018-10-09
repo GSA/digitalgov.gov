@@ -13,7 +13,7 @@ topics:
   - CX
   - DAP
   - Digital Analytics Program
-  - DigitalGov University
+  - digitalgov-university
   - eCPIC
   - FedRAMP
   - TOS

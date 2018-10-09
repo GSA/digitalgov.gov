@@ -13,7 +13,7 @@ topics:
   - 18f
   - accessibility
   - DGU
-  - DigitalGov University
+  - digitalgov-university
   - NASA
   - National Aeronautics and Space Administration
   - Office of Management and Budget

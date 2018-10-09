@@ -14,7 +14,7 @@ topics:
   - communities
   - crowdsourcing
   - DGU
-  - DigitalGov University
+  - digitalgov-university
   - NPS
   - Recaps
   - US National Park Service

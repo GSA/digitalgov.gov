@@ -11,7 +11,7 @@ topics:
   - User Testing and Research
   - UX
   - Video
-  - Audio/Video
+  - audio-video
   - Augmented Reality
   - DHS
   - Gamification

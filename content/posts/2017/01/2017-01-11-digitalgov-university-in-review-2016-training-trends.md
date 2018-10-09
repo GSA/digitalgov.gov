@@ -27,7 +27,7 @@ topics:
   - analytics
   - api
   - artificial intelligence
-  - Artificial Intelligence for Citizen Services Community
+  - artificial-intelligence-for-citizen-services-community
   - Challenges and Prizes Community of Practice
   - chatbots
   - cloud
@@ -40,7 +40,7 @@ topics:
   - DAP
   - DGU
   - Digital Analytics Program
-  - DigitalGov University
+  - digitalgov-university
   - FedRAMP
   - GSA
   - metrics

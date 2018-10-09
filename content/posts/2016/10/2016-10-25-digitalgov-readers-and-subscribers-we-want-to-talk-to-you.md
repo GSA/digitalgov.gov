@@ -15,7 +15,7 @@ topics:
   - Customer Experience
   - CX
   - DGU
-  - DigitalGov University
+  - digitalgov-university
   - 'Office of Products and Programs'
   - OPP
   - research

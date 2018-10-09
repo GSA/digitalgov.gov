@@ -11,7 +11,7 @@ topics:
   - Social Media
   - Video
   - app
-  - Audio/Video
+  - audio-video
   - content
   - mobile
   - mobile apps

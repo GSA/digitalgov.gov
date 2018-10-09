@@ -9,7 +9,7 @@ topics:
   - Design
   - UX
   - Video
-  - Audio/Video
+  - audio-video
   - Augmented Reality
   - video
   - Video Production Pros community

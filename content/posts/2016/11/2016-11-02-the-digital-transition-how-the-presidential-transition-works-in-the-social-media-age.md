@@ -14,7 +14,7 @@ topics:
   - Social Media
   - strategy-and-policy
   - Video
-  - Audio/Video
+  - audio-video
   - code
   - content
   - data

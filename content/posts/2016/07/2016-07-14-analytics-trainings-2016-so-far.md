@@ -11,7 +11,7 @@ topics:
   - DAP
   - DGU
   - Digital Analytics Program
-  - DigitalGov University
+  - digitalgov-university
   - Google Analytics
   - metrics
   - Recaps

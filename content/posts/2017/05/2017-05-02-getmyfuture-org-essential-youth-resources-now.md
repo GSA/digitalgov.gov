@@ -12,7 +12,7 @@ topics:
   - Managing Digital
   - Mobile
   - UX
-  - Audio/Video
+  - audio-video
   - data
   - Digital Audio/Video Community
   - mobile

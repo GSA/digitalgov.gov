@@ -9,7 +9,7 @@ topics:
   - Our Work
   - challenges and prize competitions
   - Customer Experience
-  - DigitalGov University
+  - digitalgov-university
   - eCPIC
   - mobile gov
   - Open Opportunities program

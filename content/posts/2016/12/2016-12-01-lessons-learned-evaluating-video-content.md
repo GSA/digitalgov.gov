@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - UX
   - Video
-  - Audio/Video
+  - audio-video
   - CFPB
   - Consumer Financial Protection Bureau
   - content

@@ -23,7 +23,7 @@ topics:
   - content
   - content strategy
   - DGU
-  - DigitalGov University
+  - digitalgov-university
   - HTTPS
   - ITIF
   - metrics

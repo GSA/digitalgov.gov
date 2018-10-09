@@ -12,12 +12,12 @@ topics:
   - Mobile
   - Video
   - analytics
-  - Audio/Video
+  - audio-video
   - content
   - content strategy
   - DGU
   - Digital Audio/Video Community
-  - DigitalGov University
+  - digitalgov-university
   - metrics
   - mobile
   - Recaps

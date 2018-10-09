@@ -12,7 +12,7 @@ topics:
   - agile-lean-community-of-practice
   - Census
   - DGU
-  - DigitalGov University
+  - digitalgov-university
   - Recaps
   - United States Census Bureau
   - United States Patent and Trademark Office

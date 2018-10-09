@@ -14,7 +14,7 @@ topics:
   - content
   - Customer Experience
   - CX
-  - DigitalGov University
+  - digitalgov-university
   - 'Office of Products and Programs'
   - OPP
   - research

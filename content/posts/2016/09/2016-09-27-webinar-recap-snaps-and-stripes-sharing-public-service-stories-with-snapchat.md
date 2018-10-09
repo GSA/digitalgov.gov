@@ -20,7 +20,7 @@ topics:
   - Customer Experience
   - CX
   - DGU
-  - DigitalGov University
+  - digitalgov-university
   - GSA
   - NASA
   - National Museum of African American History and Culture

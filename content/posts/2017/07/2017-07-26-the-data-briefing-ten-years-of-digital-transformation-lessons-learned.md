@@ -16,8 +16,8 @@ topics:
   - user experience
   - UX
   - 3d-printing
-  - Artificial Intelligence
-  - Artificial Intelligence for Citizen Services Community
+  - artificial-intelligence
+  - artificial-intelligence-for-citizen-services-community
   - Augmented Reality
   - blockchain
   - Customer Experience

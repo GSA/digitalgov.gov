@@ -6,7 +6,7 @@ summary: 'Memorial Day is Monday and we wanted to let you know about some mobile
 topics:
   - Mobile
   - american-battle-monuments-commission
-  - Arlington National Cemetery
+  - arlington-national-cemetery
   - mobile apps
   - Thursday Mobile Products
   - US National Park Service

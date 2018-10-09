@@ -9,7 +9,7 @@ topics:
   - Content
   - Social Media
   - Video
-  - Audio/Video
+  - audio-video
   - content
   - hiv-gov
   - social media

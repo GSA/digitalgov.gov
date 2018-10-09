@@ -16,7 +16,7 @@ topics:
   - 3d-printing
   - ai
   - artificial intelligence
-  - Artificial Intelligence for Citizen Services Community
+  - artificial-intelligence-for-citizen-services-community
   - Augmented Reality
   - best practices
   - big data

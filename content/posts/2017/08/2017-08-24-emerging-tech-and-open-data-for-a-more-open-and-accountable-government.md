@@ -11,7 +11,7 @@ topics:
   - our-work
   - ai
   - artificial intelligence
-  - Artificial Intelligence for Citizen Services Community
+  - artificial-intelligence-for-citizen-services-community
   - innovation
   - open
   - open data

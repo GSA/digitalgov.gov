@@ -12,7 +12,7 @@ topics:
   - strategy-and-policy
   - user-testing-and-research
   - Video
-  - Audio/Video
+  - audio-video
   - broadband
   - data
   - First Responder Network Authority
