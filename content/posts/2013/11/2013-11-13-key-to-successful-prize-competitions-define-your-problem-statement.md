@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - strategy-and-policy
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
 ---
 

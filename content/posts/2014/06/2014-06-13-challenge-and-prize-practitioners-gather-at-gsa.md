@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - Code
-  - ChallengeGov
+  - challenge-gov
   - Challenges and Prizes Community of Practice
   - crowdsourcing
   - HUD

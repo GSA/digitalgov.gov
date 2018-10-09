@@ -7,7 +7,7 @@ authors:
   - judy-romano
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - HHS
   - prizes and competitions
   - Recaps

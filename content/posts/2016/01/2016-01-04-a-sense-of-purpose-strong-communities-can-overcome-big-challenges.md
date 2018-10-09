@@ -9,7 +9,7 @@ topics:
   - Challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - crowdsourcing
   - HUD

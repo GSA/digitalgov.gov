@@ -7,7 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
 ---

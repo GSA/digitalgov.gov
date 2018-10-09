@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - DGU
   - innovation

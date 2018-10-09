@@ -14,7 +14,7 @@ topics:
   - Mobile
   - Social Media
   - UX
-  - ChallengeGov
+  - challenge-gov
   - data.gov
   - DOL
   - GitHub

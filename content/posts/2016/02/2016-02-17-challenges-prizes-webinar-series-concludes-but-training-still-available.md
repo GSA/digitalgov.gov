@@ -7,7 +7,7 @@ authors:
   - eric-beidel
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - DOE
   - HHS
   - HUD

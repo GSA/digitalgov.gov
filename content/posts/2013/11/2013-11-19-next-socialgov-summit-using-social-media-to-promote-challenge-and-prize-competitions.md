@@ -9,7 +9,7 @@ topics:
   - Challenges
   - Social Media
   - strategy-and-policy
-  - ChallengeGov
+  - challenge-gov
   - SocialGov
 ---
 

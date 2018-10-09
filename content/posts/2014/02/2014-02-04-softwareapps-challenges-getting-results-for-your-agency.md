@@ -7,7 +7,7 @@ authors:
   - tlowden
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - EPA
   - NASA
 ---

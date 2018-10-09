@@ -7,7 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - FCPCCS
   - GitHub
   - United States Geological Survey

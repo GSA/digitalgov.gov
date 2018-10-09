@@ -11,7 +11,7 @@ topics:
   - Data
   - Writing
   - Census
-  - ChallengeGov
+  - challenge-gov
   - data.gov
   - innovation
   - National Day of Civic Hacking

@@ -8,7 +8,7 @@ authors:
   - jenn-gustetic
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
 ---
 

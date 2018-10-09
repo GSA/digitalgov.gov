@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - Monthly Theme
-  - ChallengeGov
+  - challenge-gov
   - Challenges and Prizes Community of Practice
   - DOE
   - HHS

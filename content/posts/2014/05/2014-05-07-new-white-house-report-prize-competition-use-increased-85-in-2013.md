@@ -7,7 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - prizes and competitions
   - White House Office of Science and Technology Policy

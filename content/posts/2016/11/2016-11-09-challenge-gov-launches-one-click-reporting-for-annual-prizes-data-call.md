@@ -9,7 +9,7 @@ topics:
   - Challenges
   - Data
   - Managing Digital
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - OSTP
   - webinar

@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - Monthly Theme
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - data.gov
   - mobile apps

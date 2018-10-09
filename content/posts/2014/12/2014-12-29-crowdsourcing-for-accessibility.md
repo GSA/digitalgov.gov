@@ -11,7 +11,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - Monthly Theme
   - accessibility
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - crowdsourcing
   - section 508

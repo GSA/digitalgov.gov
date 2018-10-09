@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - Bureau of Reclamation
-  - ChallengeGov
+  - challenge-gov
   - Federal Trade Commission
   - FTC
   - HUD

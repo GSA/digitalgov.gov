@@ -8,7 +8,7 @@ authors:
   - kelly-olson
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - FDA
   - National Institutes of Health

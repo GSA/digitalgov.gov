@@ -14,7 +14,7 @@ topics:
   - strategy-and-policy
   - API
   - apps challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
   - citizen science

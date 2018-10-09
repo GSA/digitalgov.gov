@@ -26,7 +26,6 @@
               {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
               <li>
                 <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
-                {{ $count }}
               </li>
               {{ end }}
             {{ end }}

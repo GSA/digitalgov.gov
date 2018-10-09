@@ -7,7 +7,7 @@ authors:
   - eric-beidel
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - National Institutes of Health
   - NIH

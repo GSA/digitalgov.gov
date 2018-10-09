@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - apps challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - NASA
   - national science foundation

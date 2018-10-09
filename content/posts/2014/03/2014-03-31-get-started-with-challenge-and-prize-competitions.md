@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - apps challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
   - innovation

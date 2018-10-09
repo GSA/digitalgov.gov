@@ -7,7 +7,7 @@ authors:
   - kelly-olson
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
 ---
 

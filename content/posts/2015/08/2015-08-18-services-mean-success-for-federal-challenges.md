@@ -9,7 +9,7 @@ topics:
   - Challenges
   - Monthly Theme
   - Census
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - open data
   - United States Census Bureau

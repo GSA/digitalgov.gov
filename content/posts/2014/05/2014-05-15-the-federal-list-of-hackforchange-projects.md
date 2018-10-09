@@ -10,7 +10,7 @@ topics:
   - 18F
   - Census
   - CFPB
-  - ChallengeGov
+  - challenge-gov
   - Consumer Financial Protection Bureau
   - data.gov
   - Federal Emergency Management Agency

@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - Centers for Medicare and Medicaid Services
-  - ChallengeGov
+  - challenge-gov
   - Challenges and Prizes Community of Practice
   - CMS
   - DGU

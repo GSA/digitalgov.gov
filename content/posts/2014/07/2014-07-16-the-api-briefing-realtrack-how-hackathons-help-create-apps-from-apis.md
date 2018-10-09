@@ -10,7 +10,7 @@ topics:
   - Challenges
   - Code
   - Managing Digital
-  - ChallengeGov
+  - challenge-gov
   - mobile apps
   - OPM
   - Peace Corps

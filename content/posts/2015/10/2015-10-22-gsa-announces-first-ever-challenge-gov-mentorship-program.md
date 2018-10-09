@@ -7,7 +7,7 @@ authors:
   - eric-beidel
 topics:
   - Challenges
-  - ChallengeGov
+  - challenge-gov
   - Challenges and Prizes Community of Practice
 ---
 

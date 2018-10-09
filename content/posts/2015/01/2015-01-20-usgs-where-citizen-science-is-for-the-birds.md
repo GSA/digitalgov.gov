@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - crowdsourcing-and-citizen-science
-  - ChallengeGov
+  - challenge-gov
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing

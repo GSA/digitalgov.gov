@@ -10,7 +10,7 @@ topics:
   - Monthly Theme
   - CDC
   - Centers for Disease Control and Prevention
-  - ChallengeGov
+  - challenge-gov
   - HHS
   - United States Department of Health and Human Services
 ---
