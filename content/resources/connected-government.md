@@ -4,7 +4,6 @@ date: 2018-06-25 9:00:00 -0400
 title: 'Connected Government Act'
 summary: ''
 type: guide
-guidenav: connected-government
 deck: 'As of January of 2018, all new new and redesigned agency websites are required to be mobile friendly.'
 ---
 
