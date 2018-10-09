@@ -7,7 +7,7 @@ authors:
   - dr-robert-read
 topics:
   - api
-  - Code
+  - code
   - 18f
   - GitHub
   - open source

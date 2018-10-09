@@ -6,8 +6,8 @@ summary: ' I have to admit my knowledge of slugs and snails was limited to the f
 authors:
   - nramprasad
 topics:
-  - Mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - native app
   - SSA
   - The United States Social Security Administration

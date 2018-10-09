@@ -6,8 +6,8 @@ summary: 'The National Park Service (NPS) developed an app for people looking to
 authors:
   - rachel-hurley
 topics:
-  - Mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - Thursday Mobile Products
   - US National Park Service
 ---

@@ -6,7 +6,7 @@ summary: 'The United States Environmental Protection Agency (EPA) has upgraded i
 authors:
   - brandon-barr
 topics:
-  - Mobile
+  - mobile
   - EPA
   - responsive web design
   - Thursday Mobile Products

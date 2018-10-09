@@ -7,7 +7,7 @@ authors:
   - jennifer-kerber
   - jonathan-prisby
 topics:
-  - Managing Digital
+  - managing-digital
   - cloud
   - connect-gov
   - GSA

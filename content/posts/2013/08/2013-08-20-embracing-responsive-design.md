@@ -6,10 +6,10 @@ summary: There has been a shift in consumer behavior during the last few years, 
 authors:
   - lgodfrey
 topics:
-  - Code
-  - Content
-  - Design
-  - Mobile
+  - code
+  - content
+  - design
+  - mobile
   - accessibility
   - GobiernoUSAgov
   - mobile

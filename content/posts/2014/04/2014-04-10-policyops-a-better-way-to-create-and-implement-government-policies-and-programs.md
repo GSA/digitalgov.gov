@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - analytics
   - data
   - OPM

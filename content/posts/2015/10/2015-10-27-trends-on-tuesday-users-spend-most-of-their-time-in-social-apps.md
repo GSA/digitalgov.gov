@@ -6,10 +6,10 @@ summary: 'ComScore released a new 2015 U.S. Mobile App report tracking native mo
 authors:
   - wsullivan
 topics:
-  - Mobile
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-5
   - native app
   - native apps
   - Trends on Tuesday

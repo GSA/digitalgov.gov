@@ -7,7 +7,7 @@ authors:
   - joel-virothaisakun
 topics:
   - Communities
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - AoI

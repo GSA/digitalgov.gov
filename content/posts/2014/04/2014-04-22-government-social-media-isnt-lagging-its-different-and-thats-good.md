@@ -7,8 +7,8 @@ authors:
   - jherman
 topics:
   - Communities
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - AoI
   - api
   - National Archives and Records Administration

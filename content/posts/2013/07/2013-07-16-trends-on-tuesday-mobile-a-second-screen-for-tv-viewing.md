@@ -6,7 +6,7 @@ summary: 'A study conducted by Nielson for Q1 2013 reports that almost half of a
 authors:
   - brandon-barr
 topics:
-  - Mobile
+  - mobile
   - mobile
   - Trends on Tuesday
 ---

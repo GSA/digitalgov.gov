@@ -7,7 +7,7 @@ authors:
   - apiazza
   - jthalls
 topics:
-  - Managing Digital
+  - managing-digital
   - Our Work
   - DigitalGov Summit
 ---

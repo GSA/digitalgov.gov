@@ -6,7 +6,7 @@ summary: 'From the time they can grasp an object in their hands, children are re
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
+  - mobile
   - CDC
   - gamification
   - mobile

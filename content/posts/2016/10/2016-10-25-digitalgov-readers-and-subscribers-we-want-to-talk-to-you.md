@@ -6,8 +6,8 @@ summary: As you know, over the last few years DigitalGov has surfaced the innova
 authors:
   - 18f-team
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - Our Work
   - user-testing-and-research
   - UX

@@ -6,11 +6,11 @@ summary: 'We released the United States Public Participation Playbook this week,
 authors:
   - jherman
 topics:
-  - Code
+  - code
   - Communities
-  - Managing Digital
-  - Metrics
-  - Social Media
+  - managing-digital
+  - metrics
+  - social-media
   - AoI
   - GitHub
   - SocialGov Community

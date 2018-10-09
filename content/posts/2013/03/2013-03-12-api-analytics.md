@@ -7,8 +7,8 @@ authors:
   - gray-brooks
 topics:
   - api
-  - Code
-  - Metrics
+  - code
+  - metrics
   - api
 ---
 

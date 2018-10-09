@@ -6,9 +6,9 @@ summary: '159.8 million people in the U.S. over the age of 13 owned smartphones 
 authors:
   - jparcell
 topics:
-  - Mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

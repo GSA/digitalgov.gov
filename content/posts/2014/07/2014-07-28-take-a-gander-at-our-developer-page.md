@@ -7,7 +7,7 @@ authors:
   - gray-brooks
 topics:
   - api
-  - Content
+  - content
   - 18f
 ---
 

@@ -6,7 +6,7 @@ summary: 'Federal agencies continue to look for better ways to combine the benef
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - Facebook
   - Instagram
   - National Zoological Park

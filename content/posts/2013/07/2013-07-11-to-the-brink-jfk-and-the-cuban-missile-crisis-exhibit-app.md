@@ -6,8 +6,8 @@ summary: 'The 2013 JFK Library and Museum exhibit &ldquo;To the Brink: JFK and t
 authors:
   - brandon-barr
 topics:
-  - Mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - Smithsonian Institution
   - Thursday Mobile Products
 ---

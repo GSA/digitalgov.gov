@@ -6,14 +6,14 @@ summary: 'All content needs to be developed with a mobile-first strategy, from h
 authors:
   - tyrus-manuel
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - administrative-office-of-the-united-states-courts
   - infographic
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-5
   - responsive web design
   - The Content Corner
 ---

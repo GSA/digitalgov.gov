@@ -6,7 +6,7 @@ summary: In the last national election, the earliest born members of Generation 
 authors:
   - bbrantley
 topics:
-  - Managing Digital
+  - managing-digital
   - ai
   - artificial intelligence
   - Augmented Reality

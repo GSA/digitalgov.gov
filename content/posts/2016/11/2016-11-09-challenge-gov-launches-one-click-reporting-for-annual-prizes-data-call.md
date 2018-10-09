@@ -8,7 +8,7 @@ authors:
 topics:
   - Challenges
   - Data
-  - Managing Digital
+  - managing-digital
   - challenge-gov
   - challenges and prize competitions
   - OSTP

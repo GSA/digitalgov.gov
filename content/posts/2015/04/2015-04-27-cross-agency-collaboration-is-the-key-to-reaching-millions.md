@@ -6,8 +6,8 @@ summary: 'This story begins with a post about reverse mortgages, but don’t wor
 authors:
   - lgodfrey
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - CFPB
   - Consumer Financial Protection Bureau
   - content strategy

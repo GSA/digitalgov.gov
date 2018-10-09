@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Code
+  - code
   - api
   - data-gov
   - HHS

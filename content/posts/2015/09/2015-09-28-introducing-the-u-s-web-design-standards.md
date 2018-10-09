@@ -9,7 +9,7 @@ authors:
   - maya-benari
   - colin-macarthur
 topics:
-  - Design
+  - design
   - 18f
   - US Digital Service
   - USDS

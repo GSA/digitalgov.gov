@@ -7,12 +7,12 @@ authors:
   - jparcell
 topics:
   - Challenges
-  - Mobile
+  - mobile
   - apps challenges
   - Census
   - challenges and prize competitions
   - EPA
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - National Institute of Standards and Technology
   - native apps
   - NIST

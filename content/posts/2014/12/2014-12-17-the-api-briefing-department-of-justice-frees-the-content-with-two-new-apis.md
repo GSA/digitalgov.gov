@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Content Management System
+  - content-management-system
   - DOJ
   - US Department of Justice
   - wednesday-api-briefing

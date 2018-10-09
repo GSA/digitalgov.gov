@@ -7,7 +7,7 @@ authors:
   - marina-fox
 topics:
   - Data
-  - Metrics
+  - metrics
   - big data
   - DAP
   - data-gov

@@ -6,8 +6,8 @@ summary: 'The Pew Research Center recently released a report on &#8220;12 Trends
 authors:
   - jparcell
 topics:
-  - Mobile
-  - mobile gov
+  - mobile
+  - mobile-gov
   - mobile-first
   - Trends on Tuesday
 ---

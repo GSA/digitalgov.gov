@@ -6,7 +6,7 @@ summary: 'Just like the private sector, government agencies frequently encounter
 authors:
   - stephanie-thum
 topics:
-  - Managing Digital
+  - managing-digital
   - Customer Experience
   - Export-Import Bank of the United States
 ---

@@ -6,7 +6,7 @@ summary: 'Want to learn how to clearly communicate your message? Watch the new &
 authors:
   - alice-chen
 topics:
-  - Content
+  - content
   - Monthly Theme
   - Plain language
   - Plain Language Community of Practice

@@ -6,10 +6,10 @@ summary: Imagine a world without Web pages, only intelligent, self-assembling ch
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - CMS
-  - Content Management System
+  - content-management-system
   - content models
   - content strategy
   - metadata

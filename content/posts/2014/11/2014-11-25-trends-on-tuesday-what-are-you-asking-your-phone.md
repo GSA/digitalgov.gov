@@ -6,10 +6,10 @@ summary: 'What’s the weather like? When does the next movie start? What time d
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - DOI
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 5
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-5
   - Trends on Tuesday
   - US Department of the Interior
 ---

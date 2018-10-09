@@ -6,11 +6,11 @@ summary: ' Silicon Valley analyst Mary Meeker’s annual 2015 Internet Trends re
 authors:
   - wsullivan
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
   - mobile
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

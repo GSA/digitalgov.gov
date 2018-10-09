@@ -10,7 +10,7 @@ topics:
   - american-red-cross
   - data visualization
   - FEMA
-  - mobile apps
+  - mobile-apps
 ---
 
  

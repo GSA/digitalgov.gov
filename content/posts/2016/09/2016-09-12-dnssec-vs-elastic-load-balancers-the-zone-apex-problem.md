@@ -6,7 +6,7 @@ summary: 'This is the final post in the 5-part series, The Right Tools for the J
 authors:
   - nick-marden
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Our Work
   - strategy-and-policy

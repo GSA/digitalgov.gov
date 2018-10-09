@@ -6,9 +6,9 @@ summary: 'Google has announced a second wave of &lsquo;Mobilegeddon’ search pe
 authors:
   - wsullivan
 topics:
-  - Mobile
   - mobile
-  - Mobile UX Guideline 2
+  - mobile
+  - mobile-ux-guideline-2
   - mobile-friendly
   - native app
   - native apps

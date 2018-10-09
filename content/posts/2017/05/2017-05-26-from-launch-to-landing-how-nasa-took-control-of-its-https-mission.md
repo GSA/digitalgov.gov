@@ -6,7 +6,7 @@ summary: '18F Editor’s note: This is a guest post by Karim Said of NASA. Karim
 authors:
   - karim-said
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - 18f
   - DHS

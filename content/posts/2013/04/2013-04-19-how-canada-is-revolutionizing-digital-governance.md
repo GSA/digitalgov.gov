@@ -6,8 +6,8 @@ summary: The Canadian government is changing how we think of traditional Web man
 authors:
   - rflagg
 topics:
-  - Code
-  - Content
+  - code
+  - content
   - GitHub
 ---
 

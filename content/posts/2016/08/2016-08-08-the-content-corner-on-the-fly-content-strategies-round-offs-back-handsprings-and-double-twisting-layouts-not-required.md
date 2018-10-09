@@ -6,9 +6,9 @@ summary: 'As effective marketers and communicators, we are constantly seeking ne
 authors:
   - kyle-s-richardson
 topics:
-  - Content
-  - Managing Digital
-  - Social Media
+  - content
+  - managing-digital
+  - social-media
   - strategy-and-policy
   - Commerce
   - content

@@ -12,7 +12,7 @@ topics:
   - api
   - CFPB
   - Consumer Financial Protection Bureau
-  - Content Management System
+  - content-management-system
   - data
   - data-gov
   - drupal
@@ -20,7 +20,7 @@ topics:
   - inventory.data.gov
   - json
   - metadata
-  - mobile gov community of practice
+  - mobile-gov-community-of-practice
   - open and structured content models
   - open data
   - Recaps

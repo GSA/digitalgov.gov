@@ -6,7 +6,7 @@ summary: 'Smartphone adoption rate continues to rise, but the screen sizes users
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - strategy-and-policy
   - Federal CrowdSource Mobile Testing Program
   - Internet of things

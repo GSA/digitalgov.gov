@@ -6,7 +6,7 @@ summary: ' Twitter polls allow you to tweet out simple A or B style opinion poll
 authors:
   - mary-king
 topics:
-  - Social Media
+  - social-media
   - NARA
   - National Archives and Records Administration
   - Twitter

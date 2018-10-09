@@ -6,16 +6,16 @@ summary: 'A few weeks ago, Progressive Web Applications, Part 1: the New Pack Mu
 authors:
   - david-fern
 topics:
-  - Code
-  - Content
-  - Design
-  - Mobile
+  - code
+  - content
+  - design
+  - mobile
   - UX
   - app
   - code
   - innovation
   - mobile
-  - mobile apps
+  - mobile-apps
   - native apps
   - Thursday Mobile Products
 ---

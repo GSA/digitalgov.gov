@@ -6,7 +6,7 @@ summary: 'Some highlights from the recent fall conference of the Association for
 authors:
   - bbrantley
 topics:
-  - Code
+  - code
   - api
   - open data
   - The Data Briefing

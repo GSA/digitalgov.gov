@@ -9,7 +9,7 @@ authors:
   - gray-brooks
   - john-tindel
 topics:
-  - Managing Digital
+  - managing-digital
   - Our Work
   - 18f
   - analytics

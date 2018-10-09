@@ -7,7 +7,7 @@ authors:
   - michael-pulsifer
   - gray-brooks
 topics:
-  - Code
+  - code
   - DOL
   - US Department of Labor
 ---

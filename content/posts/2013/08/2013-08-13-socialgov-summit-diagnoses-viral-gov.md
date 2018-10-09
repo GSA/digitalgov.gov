@@ -6,10 +6,10 @@ summary: Agencies discuss how to make social media programs more sharable and en
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - GSA
   - HHS
-  - mobile gov
+  - mobile-gov
   - NASA
   - SocialGov
 ---

@@ -7,7 +7,7 @@ authors:
   - jessica-milcetich
 topics:
   - accessibility
-  - Social Media
+  - social-media
   - accessibility
   - USAgov
 ---

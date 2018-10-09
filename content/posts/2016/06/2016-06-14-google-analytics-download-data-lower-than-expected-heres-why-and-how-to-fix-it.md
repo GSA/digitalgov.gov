@@ -6,7 +6,7 @@ summary: 'What’s the best way to track file downloads in Google Analytics? Wil
 authors:
   - ilee
 topics:
-  - Metrics
+  - metrics
   - analytics
   - DAP
   - Digital Analytics Program

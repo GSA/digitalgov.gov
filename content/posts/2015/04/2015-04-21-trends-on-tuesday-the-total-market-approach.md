@@ -6,7 +6,7 @@ summary: Your audience is not homogenous. No matter the agency, target audiences
 authors:
   - awichman
 topics:
-  - Managing Digital
+  - managing-digital
   - multilingual
   - Personas
   - usability

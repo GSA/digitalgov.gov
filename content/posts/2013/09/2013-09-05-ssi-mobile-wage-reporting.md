@@ -6,9 +6,9 @@ summary: Following up on their mobile website, the Social
 authors:
   - michael-niedzwiecki
 topics:
-  - Mobile
-  - mobile apps
-  - mobile gov
+  - mobile
+  - mobile-apps
+  - mobile-gov
   - SSA
   - Thursday Mobile Products
 ---

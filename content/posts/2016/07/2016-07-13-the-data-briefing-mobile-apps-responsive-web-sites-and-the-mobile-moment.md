@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Mobile
+  - mobile
   - ai
   - artificial intelligence
   - big data
@@ -15,7 +15,7 @@ topics:
   - CX
   - data
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - native app
   - native apps

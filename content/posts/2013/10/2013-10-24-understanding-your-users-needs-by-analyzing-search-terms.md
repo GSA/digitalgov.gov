@@ -6,10 +6,10 @@ summary: 'Analyzing your visitors&#8217; search terms can help you better unders
 authors:
   - michelle-chronister
 topics:
-  - Content
+  - content
   - Data
-  - Managing Digital
-  - Metrics
+  - managing-digital
+  - metrics
   - DigitalGov Search
 ---
 

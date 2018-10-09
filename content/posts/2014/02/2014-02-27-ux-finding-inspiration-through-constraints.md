@@ -6,7 +6,7 @@ summary: If you could only communicate through a business-card sized screen, wha
 authors:
   - david-herring
 topics:
-  - Design
+  - design
   - UX
   - user experience
   - USPTO

@@ -7,7 +7,7 @@ authors:
   - donna-canestraro
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
 ---
 
 <p style="text-align: left">

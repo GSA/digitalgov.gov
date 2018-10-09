@@ -10,7 +10,7 @@ topics:
   - Data
   - data
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Weather Service
   - NWS
   - open data

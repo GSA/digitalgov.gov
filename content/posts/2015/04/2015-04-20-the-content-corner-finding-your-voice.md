@@ -6,7 +6,7 @@ summary: No, this is not another post about podcasting but about a different voi
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - content strategy
   - Personas

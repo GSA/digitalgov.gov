@@ -6,10 +6,10 @@ summary: 'An industry group tracking the growth and production of the &ldquo;Int
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - Internet of things
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
   - user experience
   - UX

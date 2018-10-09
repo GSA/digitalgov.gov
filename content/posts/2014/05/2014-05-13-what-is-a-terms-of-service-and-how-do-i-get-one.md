@@ -6,8 +6,8 @@ summary: 'Imagine this: You just found a great online tool that can help you do 
 authors:
   - jonathan-rubin
 topics:
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - UX
   - DOJ
   - Terms of Service

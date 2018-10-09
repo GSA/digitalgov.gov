@@ -6,13 +6,13 @@ summary: 'As we move into 2016, here are 10 trends I foresee flourishing around 
 authors:
   - wsullivan
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - Monthly Theme
   - HTTPS
   - Internet of things
   - mobile
-  - mobile apps
+  - mobile-apps
   - mobile-first
   - mobile-friendly
   - responsive web design

@@ -7,7 +7,7 @@ authors:
   - katie-gresham
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - analytics
   - data
   - data visualization

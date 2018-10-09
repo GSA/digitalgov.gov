@@ -6,10 +6,10 @@ summary: 'Have you ever opened an email on your smartphone, and then switched to
 authors:
   - tjohnson
 topics:
-  - Mobile
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

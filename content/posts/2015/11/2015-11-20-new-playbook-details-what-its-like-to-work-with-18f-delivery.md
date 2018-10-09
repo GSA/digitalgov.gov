@@ -6,8 +6,8 @@ summary: If you or your agency have thought about working with 18F but are unsur
 authors:
   - will-slack
 topics:
-  - Code
-  - Managing Digital
+  - code
+  - managing-digital
   - 18f
 ---
 

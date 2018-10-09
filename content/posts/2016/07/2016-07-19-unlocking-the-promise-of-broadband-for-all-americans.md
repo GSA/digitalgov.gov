@@ -7,12 +7,12 @@ authors:
   - r-david-edelman
   - jason-furman
 topics:
-  - Mobile
+  - mobile
   - 5g
   - broadband
   - innovation
   - mobile
-  - mobile gov
+  - mobile-gov
   - white-house
   - wireless
 ---

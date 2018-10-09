@@ -6,8 +6,8 @@ summary: 'If the silos and barriers that separated our programs are smashed, wha
 authors:
   - jherman
 topics:
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - american-red-cross
   - DGU
   - Peace Corps

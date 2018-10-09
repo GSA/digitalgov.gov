@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Mobile
+  - mobile
   - Commerce
   - data
   - Department of Commerce

@@ -6,7 +6,7 @@ summary: 'According to research done by Strategy Analytics, global smartphone sh
 authors:
   - brandon-barr
 topics:
-  - Mobile
+  - mobile
   - Trends on Tuesday
 ---
 

@@ -6,8 +6,8 @@ summary: Collecting visitor, engagement, and traffic data for your digital chann
 authors:
   - sarah-kaczmarek
 topics:
-  - Metrics
-  - Social Media
+  - metrics
+  - social-media
   - user-testing-and-research
   - DAP
   - GAO

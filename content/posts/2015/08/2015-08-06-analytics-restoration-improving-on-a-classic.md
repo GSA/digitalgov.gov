@@ -6,7 +6,7 @@ summary: Sometimes it is important to take a fresh look at a classic. As we digi
 authors:
   - hhs-digital-analytics-team
 topics:
-  - Metrics
+  - metrics
   - analytics
   - HHS
   - United States Department of Health and Human Services

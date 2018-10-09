@@ -8,7 +8,7 @@ authors:
   - lisa-friedersdorf
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - innovation
   - OSTP

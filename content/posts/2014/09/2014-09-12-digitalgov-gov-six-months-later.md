@@ -7,10 +7,10 @@ authors:
   - apiazza
   - gwynne-kostin
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - Our Work
-  - Social Media
+  - social-media
   - strategy-and-policy
   - analytics
   - content strategy

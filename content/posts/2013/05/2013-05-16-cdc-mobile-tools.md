@@ -6,9 +6,9 @@ summary: 'The Center&#8217;s for Disease and Control has developed a mobile webs
 authors:
   - kanika-tolver
 topics:
-  - Mobile
+  - mobile
   - CDC
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
 ---
 

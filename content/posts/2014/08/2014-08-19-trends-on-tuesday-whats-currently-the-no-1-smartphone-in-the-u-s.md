@@ -6,12 +6,12 @@ summary: Do you ever find yourself conducting unofficial smartphone research? Ev
 authors:
   - tjohnson
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - Facebook
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

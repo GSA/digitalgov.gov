@@ -6,7 +6,7 @@ summary: 'In October 2012, comScore, a Web analytics research company, released 
 authors:
   - marina-fox
 topics:
-  - Metrics
+  - metrics
   - customer satisfaction
   - Digital Analytics Program
 ---

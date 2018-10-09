@@ -7,9 +7,9 @@ authors:
   - 18f-team
 topics:
   - accessibility
-  - Design
-  - Managing Digital
-  - Mobile
+  - design
+  - managing-digital
+  - mobile
   - strategy-and-policy
   - UX
   - 18f

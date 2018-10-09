@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - Monthly Theme
-  - Social Media
+  - social-media
   - 18f
   - api
   - Digital Analytics Program

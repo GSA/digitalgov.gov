@@ -6,14 +6,14 @@ summary: 'Roughly 1 in 9 (11%) websites have adopted responsive Web design, acco
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - strategy-and-policy
   - Defense Finance and Accounting Services
   - DFAS
   - DOE
   - HHS
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
   - responsive web design
   - Trends on Tuesday
   - United States Department of Energy

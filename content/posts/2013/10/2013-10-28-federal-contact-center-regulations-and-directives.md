@@ -6,7 +6,7 @@ summary: Contact centers operated and managed by federal agencies have to follow
 authors:
   - tonya-beres
 topics:
-  - Managing Digital
+  - managing-digital
   - government contact centers
   - privacy
   - section 508

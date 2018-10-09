@@ -7,7 +7,7 @@ authors:
   - gao-watchblog
 topics:
   - Data
-  - Metrics
+  - metrics
   - analytics
   - big data
   - data

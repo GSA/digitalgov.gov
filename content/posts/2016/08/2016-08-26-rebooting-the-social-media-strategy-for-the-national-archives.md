@@ -9,9 +9,9 @@ authors:
   - hilary-parkinson
   - dana-allen-greil
 topics:
-  - Content
-  - Managing Digital
-  - Social Media
+  - content
+  - managing-digital
+  - social-media
   - strategy-and-policy
   - content strategy
   - NARA

@@ -6,7 +6,7 @@ summary: ' For millions of Americans, federal student loans have made it possibl
 authors:
   - kdaniel
 topics:
-  - Social Media
+  - social-media
   - FAFSA
   - Federal Student Aid
   - US Department of Education

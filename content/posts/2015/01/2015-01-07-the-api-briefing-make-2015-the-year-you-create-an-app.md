@@ -17,7 +17,7 @@ topics:
   - data-gov
   - innovation
   - mobile
-  - mobile apps
+  - mobile-apps
   - US Department of Agriculture
   - USDA
   - wednesday-api-briefing

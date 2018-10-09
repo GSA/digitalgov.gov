@@ -6,12 +6,12 @@ summary: 'Mobile-friendliness is a must for government. We know there are a numb
 authors:
   - courtney-greenley
 topics:
-  - Mobile
+  - mobile
   - Our Work
   - DigitalGov Summit
   - Federal Mobile Products Registry
-  - mobile apps
-  - mobile gov community of practice
+  - mobile-apps
+  - mobile-gov-community-of-practice
   - mobile-friendly
   - Thursday Mobile Products
   - usa-gov-federal-mobile-apps-directory

@@ -6,7 +6,7 @@ summary: Security, consolidation, cloud services and enterprise portfolio manage
 authors:
   - lnelson
 topics:
-  - Managing Digital
+  - managing-digital
   - security
 ---
 

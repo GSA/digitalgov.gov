@@ -6,9 +6,9 @@ summary: ' Yahoo’s mobile analytics division, Flurry, released an interesting 
 authors:
   - wsullivan
 topics:
-  - Mobile
   - mobile
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-5
   - native app
   - native apps
   - social media

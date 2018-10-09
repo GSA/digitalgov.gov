@@ -6,9 +6,9 @@ summary: 'Since 2001, Mary Meeker has developed a knack for highlighting what’
 authors:
   - tjohnson
 topics:
-  - Mobile
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

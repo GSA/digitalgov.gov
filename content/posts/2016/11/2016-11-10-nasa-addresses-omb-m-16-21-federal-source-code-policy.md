@@ -6,8 +6,8 @@ summary: In August 2016, OMB released M-16-21, which seeks to ensure that new cu
 authors:
   - jason-duley
 topics:
-  - Code
-  - Managing Digital
+  - code
+  - managing-digital
   - strategy-and-policy
   - code
   - memo

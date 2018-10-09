@@ -6,7 +6,7 @@ summary: ' NASA&#8217;s reach over the last 24 hours eclipsed that of the regula
 authors:
   - toni-bonitto
 topics:
-  - Metrics
+  - metrics
   - Monthly Theme
   - analytics
   - DAP

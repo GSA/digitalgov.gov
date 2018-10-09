@@ -7,10 +7,10 @@ authors:
   - j-todd-breasseale
 topics:
   - accessibility
-  - Content
-  - Design
-  - Managing Digital
-  - Mobile
+  - content
+  - design
+  - managing-digital
+  - mobile
   - strategy-and-policy
   - UX
   - "508"

@@ -6,9 +6,9 @@ summary: ' Wikipedia says that structured content refers to information that&#82
 authors:
   - lakshmi-grama
 topics:
-  - Content
+  - content
   - CMS
-  - Content Management System
+  - content-management-system
   - metadata
   - National Cancer Institute
   - National Institutes of Health

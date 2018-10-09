@@ -10,15 +10,15 @@ topics:
   - api
   - Challenges
   - Communities
-  - Content
+  - content
   - Data
-  - Design
+  - design
   - Governance
-  - Managing Digital
-  - Metrics
-  - Mobile
+  - managing-digital
+  - metrics
+  - mobile
   - Our Work
-  - Social Media
+  - social-media
   - strategy-and-policy
   - user-testing-and-research
   - UX
@@ -44,7 +44,7 @@ topics:
   - FedRAMP
   - GSA
   - metrics
-  - MobileGov
+  - mobile-gov
   - NASA
   - National Aeronautics and Space Administration
   - OCSIT

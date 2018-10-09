@@ -6,7 +6,7 @@ summary: 'Summary: We&#8217;re taking action to accelerate efforts to increase t
 authors:
   - tony-scott
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - Federal Information Technology Acquisition Reform Act
   - FITARA

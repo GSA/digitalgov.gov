@@ -6,9 +6,9 @@ summary: 'Are you measuring Twitter followers and press release downloads withou
 authors:
   - david-hebert
 topics:
-  - Content
-  - Metrics
-  - Social Media
+  - content
+  - metrics
+  - social-media
   - HHS
   - Recaps
   - United States Department of Health and Human Services

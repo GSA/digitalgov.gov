@@ -6,7 +6,7 @@ summary: Late last year, Business.USA.gov (BUSA) began transitioning its web pre
 authors:
   - victoria-wales
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - analytics
   - email marketing

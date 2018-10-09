@@ -6,15 +6,15 @@ summary: Let the mic drop! Mobile moments are created with the expectation that 
 authors:
   - jenny-johnson
 topics:
-  - Mobile
+  - mobile
   - UX
   - FAFSA
   - Federal Student Aid
   - mobile
-  - mobile testing
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
+  - mobile-testing
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-5
   - Recaps
 ---
 

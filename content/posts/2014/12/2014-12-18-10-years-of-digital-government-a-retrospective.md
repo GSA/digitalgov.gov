@@ -7,11 +7,11 @@ authors:
   - rflagg
 topics:
   - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Mobile
-  - Social Media
+  - code
+  - content
+  - managing-digital
+  - mobile
+  - social-media
   - UX
   - CDC
   - Centers for Disease Control and Prevention

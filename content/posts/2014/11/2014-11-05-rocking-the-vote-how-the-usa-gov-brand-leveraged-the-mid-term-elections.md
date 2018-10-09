@@ -6,7 +6,7 @@ summary: You might have noticed a lot of people were talking about the elections
 authors:
   - jessica-milcetich
 topics:
-  - Social Media
+  - social-media
   - USAgov
 ---
 

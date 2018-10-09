@@ -7,7 +7,7 @@ authors:
   - victoria-mcfadden
   - anahita-reilly
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - customer satisfaction

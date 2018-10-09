@@ -6,10 +6,10 @@ summary: ' Remember the Golden Age of Web development? A time long ago when ther
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - Federal CrowdSource Mobile Testing Program
-  - mobile testing
-  - Mobile UX Guideline 4
+  - mobile-testing
+  - mobile-ux-guideline-4
   - responsive web design
   - SSA
   - The United States Social Security Administration

@@ -6,8 +6,8 @@ summary: 'Search is easy, right? You type a term in a search box and the exact p
 authors:
   - ammie-farraj-feijoo
 topics:
-  - Code
-  - Content
+  - code
+  - content
   - DigitalGov Search
   - open source
   - Recaps

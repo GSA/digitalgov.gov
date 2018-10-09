@@ -6,8 +6,8 @@ summary: Through the course of this blog, I have frequently mentioned the need t
 authors:
   - tyrus-manuel
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - BLM
   - content strategy
   - social media

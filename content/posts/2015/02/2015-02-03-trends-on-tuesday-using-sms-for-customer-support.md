@@ -6,11 +6,11 @@ summary: 'Don&#8217;t forget, mobile first strategy can include text messaging a
 authors:
   - kdaniel
 topics:
-  - Mobile
+  - mobile
   - CDC
   - Centers for Disease Control and Prevention
   - government contact centers
-  - Mobile UX Guideline 3
+  - mobile-ux-guideline-3
   - native app
   - responsive web design
   - Trends on Tuesday

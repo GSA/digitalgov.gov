@@ -7,8 +7,8 @@ authors:
   - jacqueline-snee
   - jessica-milcetich
 topics:
-  - Content
-  - Metrics
+  - content
+  - metrics
   - USAgov
 ---
 

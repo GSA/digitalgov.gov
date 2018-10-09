@@ -8,12 +8,12 @@ authors:
 topics:
   - api
   - Communities
-  - Mobile
+  - mobile
   - Monthly Theme
   - AoI
   - Federal Mobile Products Registry
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-5
   - native app
   - open data
   - Thursday Mobile Products

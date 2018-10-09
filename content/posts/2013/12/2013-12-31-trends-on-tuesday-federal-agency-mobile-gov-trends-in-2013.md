@@ -6,8 +6,8 @@ summary: Today we want to tell you about the federal agency trends we saw this y
 authors:
   - jparcell
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - CDC
   - Census
   - content models
@@ -16,8 +16,8 @@ topics:
   - FEMA
   - HUD
   - mobile
-  - Mobile Code Catalog
-  - mobile gov
+  - mobile-code-catalog
+  - mobile-gov
   - National Gallery of Art
   - NOAA
   - responsive web design

@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Code
+  - code
   - api
   - Federal Reserve Board
   - US Department of Agriculture

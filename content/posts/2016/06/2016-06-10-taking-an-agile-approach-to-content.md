@@ -7,8 +7,8 @@ authors:
   - kate-garklavs
   - nicole-fenton
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - 18f
   - agile

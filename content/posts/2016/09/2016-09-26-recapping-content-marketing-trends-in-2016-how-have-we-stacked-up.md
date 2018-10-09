@@ -6,8 +6,8 @@ summary: 'Earlier this year, it was predicted that content marketing would becom
 authors:
   - kyle-s-richardson
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - content
   - content strategy

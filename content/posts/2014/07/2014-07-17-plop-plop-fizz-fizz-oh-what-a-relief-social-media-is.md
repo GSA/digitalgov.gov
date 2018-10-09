@@ -7,7 +7,7 @@ authors:
   - eden-savino
 topics:
   - Data
-  - Social Media
+  - social-media
   - GAO
   - open source
   - US Government Accountability Office

@@ -7,11 +7,11 @@ authors:
   - jparcell
   - lnelson
 topics:
-  - Mobile
+  - mobile
   - DOL
-  - Mobile Code Catalog
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
+  - mobile-code-catalog
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-4
   - NPS
   - Open Opportunities program
   - open source

@@ -7,7 +7,7 @@ authors:
   - data-gov-team
 topics:
   - Data
-  - Metrics
+  - metrics
   - analytics
   - data
   - data-gov

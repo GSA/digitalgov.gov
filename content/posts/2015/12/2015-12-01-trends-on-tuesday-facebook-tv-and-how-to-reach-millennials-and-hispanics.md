@@ -6,8 +6,8 @@ summary: 'How do you capture millennial and Hispanic eyes? Through their hands. 
 authors:
   - awichman
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - Facebook
   - mobile
   - mobile-first

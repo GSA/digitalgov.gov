@@ -6,7 +6,7 @@ summary: 'It was a very good year, as Frank Sinatra sang, in the field of social
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - SocialGov
 ---
 

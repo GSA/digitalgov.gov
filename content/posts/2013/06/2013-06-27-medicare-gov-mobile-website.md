@@ -6,9 +6,9 @@ summary: 'The Centers for Medicare and Medicaid Services redesigned Medicare.gov
 authors:
   - kanika-tolver
 topics:
-  - Mobile
+  - mobile
   - HHS
-  - mobile gov
+  - mobile-gov
   - responsive web design
   - Thursday Mobile Products
 ---

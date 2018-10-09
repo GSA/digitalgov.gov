@@ -6,11 +6,11 @@ summary: ' We&#8217;ve reported before that playing games is one of the most pop
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - CDC
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
 ---
 

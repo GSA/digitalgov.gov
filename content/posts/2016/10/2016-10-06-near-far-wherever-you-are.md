@@ -6,7 +6,7 @@ summary: 'The U.S. General Services Administration (GSA) made history today by r
 authors:
   - jeff-koses
 topics:
-  - Mobile
+  - mobile
   - strategy-and-policy
   - acquisition
   - cloud

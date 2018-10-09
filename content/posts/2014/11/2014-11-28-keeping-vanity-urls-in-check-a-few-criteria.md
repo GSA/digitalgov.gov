@@ -6,7 +6,7 @@ summary: ' Shortcuts, Vanity or Marketing URLs, are all names for the requests W
 authors:
   - andreanocesigritz
 topics:
-  - Content
+  - content
   - GoUSAgov
   - National Institute of Allergy and Infectious Diseases
   - NIAID

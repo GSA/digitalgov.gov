@@ -7,11 +7,11 @@ authors:
   - gray-brooks
 topics:
   - api
-  - Code
-  - Mobile
+  - code
+  - mobile
   - api
   - CDC
-  - mobile gov
+  - mobile-gov
   - NASA
   - Recaps
 ---

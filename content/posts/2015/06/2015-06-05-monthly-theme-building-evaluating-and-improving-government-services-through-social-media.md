@@ -8,7 +8,7 @@ authors:
   - jherman
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - accessibility
   - DigitalGov Search
   - National Oceanic and Atmospheric Administration

@@ -6,8 +6,8 @@ summary: 'Standing on the corner, waiting in the rain, I swear I’ll never, eve
 authors:
   - bbrantley
 topics:
-  - Code
-  - Design
+  - code
+  - design
   - Monthly Theme
   - The Data Briefing
   - US Department of Agriculture

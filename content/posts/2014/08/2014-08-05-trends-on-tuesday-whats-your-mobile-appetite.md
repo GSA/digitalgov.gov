@@ -6,11 +6,11 @@ summary: 'In a few short years, the number of mobile apps has exploded, and the 
 authors:
   - tjohnson
 topics:
-  - Design
-  - Mobile
+  - design
   - mobile
-  - Mobile App Development Program
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-app-development-program
+  - mobile-ux-guideline-5
   - Trends on Tuesday
   - user experience
 ---

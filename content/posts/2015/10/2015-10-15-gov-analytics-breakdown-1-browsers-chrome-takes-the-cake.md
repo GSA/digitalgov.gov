@@ -6,9 +6,9 @@ summary: 'If you were visiting a federal government website two years ago, the b
 authors:
   - tlowden
 topics:
-  - Content
+  - content
   - Data
-  - Metrics
+  - metrics
   - UX
   - analytics
   - browsers

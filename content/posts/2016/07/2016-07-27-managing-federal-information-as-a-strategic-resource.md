@@ -9,7 +9,7 @@ authors:
   - anne-rung
   - marc-groman
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - acquisition
   - Office of Management and Budget

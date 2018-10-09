@@ -6,9 +6,9 @@ summary: 'This has been an exciting and successful year for Congress.gov. We acc
 authors:
   - andrew-weber
 topics:
-  - Content
-  - Design
-  - Managing Digital
+  - content
+  - design
+  - managing-digital
   - content
   - Library of Congress
   - user centered design

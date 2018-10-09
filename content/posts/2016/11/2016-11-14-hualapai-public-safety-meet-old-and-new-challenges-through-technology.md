@@ -7,8 +7,8 @@ authors:
   - lesia-dickson
 topics:
   - Data
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - strategy-and-policy
   - user-testing-and-research
   - Video

@@ -7,12 +7,12 @@ authors:
   - kim-vitelli
   - michael-harding
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - user-testing-and-research
   - UX
   - mobile
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - Thursday Mobile Products
   - top tasks
   - US Department of Labor

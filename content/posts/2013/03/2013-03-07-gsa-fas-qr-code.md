@@ -6,9 +6,9 @@ summary: 'Mobile Gov Experiences are agency stories about creating anytime, anyw
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - GSA
-  - Mobile Gov Experience
+  - mobile-gov-experience
 ---
 
 _[Mobile Gov Experiences]({{< link "tag/mobile-gov-experience" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA.__

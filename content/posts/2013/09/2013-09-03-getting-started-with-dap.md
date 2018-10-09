@@ -6,7 +6,7 @@ summary: The Digital Analytics Program (DAP) is delighted to announce the launch
 authors:
   - marina-fox
 topics:
-  - Metrics
+  - metrics
   - Our Work
   - Digital Analytics Program
   - Google Analytics

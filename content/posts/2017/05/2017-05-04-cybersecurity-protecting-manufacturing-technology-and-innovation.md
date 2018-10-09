@@ -6,7 +6,7 @@ summary: Recently a segment on my favorite morning news program stopped me in my
 authors:
   - pat-toth
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - best practices
   - Commerce

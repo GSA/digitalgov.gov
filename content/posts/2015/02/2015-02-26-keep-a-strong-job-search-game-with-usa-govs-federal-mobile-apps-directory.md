@@ -6,7 +6,7 @@ summary: 'Scoping the fed scene for the best match to apply your very formidable
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - Internal Revenue Service
   - IRS
   - Thursday Mobile Products

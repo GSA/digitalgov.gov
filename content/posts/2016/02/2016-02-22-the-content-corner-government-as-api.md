@@ -7,12 +7,12 @@ authors:
   - tyrus-manuel
 topics:
   - api
-  - Content
+  - content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
   - api
   - CMS
-  - Content Management System
+  - content-management-system
   - content models
   - COPE
   - National Institutes of Health

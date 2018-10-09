@@ -6,7 +6,7 @@ summary: 'When you think about your community, you may think about your neighbor
 authors:
   - erika-brown
 topics:
-  - Social Media
+  - social-media
   - NASA
   - Peace Corps
   - YouTube

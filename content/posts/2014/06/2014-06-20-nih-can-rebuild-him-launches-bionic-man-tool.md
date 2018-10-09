@@ -6,7 +6,7 @@ summary: 'The National Institute of Biomedical Imaging and Bioengineering recent
 authors:
   - margot-lawton-kern
 topics:
-  - Content
+  - content
   - National Institutes of Health
   - NIH
 ---

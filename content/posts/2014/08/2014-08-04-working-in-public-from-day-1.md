@@ -6,7 +6,7 @@ summary: 'In the wide world of software, maybe you’ve heard someone say this, 
 authors:
   - eric-mill
 topics:
-  - Code
+  - code
   - 18f
   - GitHub
   - open source

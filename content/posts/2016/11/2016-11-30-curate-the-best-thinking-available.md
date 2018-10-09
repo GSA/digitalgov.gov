@@ -6,7 +6,7 @@ summary: 'When I joined the code.gov project, I had just over a month to make an
 authors:
   - theresa-summa
 topics:
-  - Code
+  - code
   - 18f
   - code
   - open source

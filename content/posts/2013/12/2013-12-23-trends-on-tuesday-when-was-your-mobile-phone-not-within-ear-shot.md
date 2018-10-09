@@ -6,7 +6,7 @@ summary: 'Here&#8217;s the latest news from the people are &#8220;crazy about mo
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
+  - mobile
   - mobile
   - Trends on Tuesday
 ---

@@ -7,9 +7,9 @@ authors:
   - sara-cope
 topics:
   - api
-  - Code
+  - code
   - Data
-  - Design
+  - design
 ---
 
 When: Friday, December 9th, 2016

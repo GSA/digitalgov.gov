@@ -7,8 +7,8 @@ authors:
   - bbrantley
 topics:
   - api
-  - Code
-  - Mobile
+  - code
+  - mobile
   - api
   - US Department of Agriculture
   - USDA

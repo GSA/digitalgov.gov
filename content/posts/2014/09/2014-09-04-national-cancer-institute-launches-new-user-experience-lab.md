@@ -7,8 +7,8 @@ authors:
   - pooja-sawant
   - jonathan-rubin
 topics:
-  - Design
-  - Metrics
+  - design
+  - metrics
   - user-testing-and-research
   - UX
   - DigitalGov User Experience Program

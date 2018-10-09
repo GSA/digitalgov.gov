@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - api
-  - Code
+  - code
   - Monthly Theme
   - UX
   - api

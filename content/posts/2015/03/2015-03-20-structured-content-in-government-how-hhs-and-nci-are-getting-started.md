@@ -6,16 +6,16 @@ summary: 'Metadata, tagging, content modeling &hellip; they’re not identical c
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - Content
+  - content
   - Data
-  - Mobile
+  - mobile
   - Monthly Theme
   - content models
   - content strategy
   - DGU
   - HHS
   - metadata
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - National Cancer Institute
   - NCI
   - open and structured content models

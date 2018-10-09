@@ -7,8 +7,8 @@ authors:
   - andrea-sanchez
   - limary-suarez-pacheco
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - UX
   - ai
   - artificial intelligence

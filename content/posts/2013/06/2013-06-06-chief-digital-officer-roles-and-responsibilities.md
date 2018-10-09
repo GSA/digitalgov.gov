@@ -7,7 +7,7 @@ authors:
   - mike-kruger
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - api
   - Department of Commerce
 ---

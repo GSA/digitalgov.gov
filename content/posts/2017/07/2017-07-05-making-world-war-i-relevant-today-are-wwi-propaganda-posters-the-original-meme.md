@@ -6,8 +6,8 @@ summary: 'Merriam-Webster officially defines a meme as &ldquo;an idea, behavior,
 authors:
   - sarah-herrmann
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - abmc
   - american-battle-monuments-commission
   - content

@@ -6,8 +6,8 @@ summary: 'World Cup fever, everyone&#8217;s got it&mdash;even the Broadcasting B
 authors:
   - jparcell
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - Monthly Theme
   - BBG
   - Broadcasting Board of Governors

@@ -6,7 +6,7 @@ summary: 'Welcome to the first edition of a new series of articles spotlighting 
 authors:
   - rflagg
 topics:
-  - Content
+  - content
   - Monthly Theme
   - responsive web design
   - US Department of Education

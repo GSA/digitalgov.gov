@@ -6,7 +6,7 @@ summary: 'To folks new to government, one of the most surprising differences bet
 authors:
   - v-david-zvenyach
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - 18f
   - FedRAMP

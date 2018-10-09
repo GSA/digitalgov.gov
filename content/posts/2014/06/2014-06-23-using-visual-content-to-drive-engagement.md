@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - Video
   - Writing
   - Consumer Action Handbook

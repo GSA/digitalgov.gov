@@ -7,7 +7,7 @@ authors:
   - ryan-leisinger
 topics:
   - accessibility
-  - Content
+  - content
   - Video
   - section 508
 ---

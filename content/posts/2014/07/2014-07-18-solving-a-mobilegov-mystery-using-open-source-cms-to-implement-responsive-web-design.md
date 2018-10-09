@@ -7,14 +7,14 @@ authors:
   - jparcell
   - katie-steffy
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - Monthly Theme
   - GSA
   - mobile
-  - mobile gov
-  - Mobile UX Guideline 1
-  - MobileGov
+  - mobile-gov
+  - mobile-ux-guideline-1
+  - mobile-gov
   - responsive web design
   - US Department of State
 ---

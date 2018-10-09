@@ -6,7 +6,7 @@ summary: ' The new second draft of the U.S. Public Participation Playbook incorp
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - Census
   - Defense Commissary Agency
   - Defense Logistics Agency

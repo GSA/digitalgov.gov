@@ -6,10 +6,10 @@ summary: 'Ahhh&hellip; Summer is here at last! It’s time for relaxing vacation
 authors:
   - nirmala-ramprasad
 topics:
-  - Mobile
+  - mobile
   - CDC
   - ios
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
   - usa-gov-federal-mobile-apps-directory
 ---

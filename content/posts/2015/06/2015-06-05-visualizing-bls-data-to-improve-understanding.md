@@ -6,7 +6,7 @@ summary: 'If a picture is worth a thousand words, what’s the value of a striki
 authors:
   - erica-groshen
 topics:
-  - Content
+  - content
   - Data
   - BLS
   - data

@@ -9,8 +9,8 @@ featured_image:
 authors:
   - yolanda-arrington
 topics:
-  - Code
-  - Design
+  - code
+  - design
   - User Testing and Research
   - 3d-printing
   - DoD

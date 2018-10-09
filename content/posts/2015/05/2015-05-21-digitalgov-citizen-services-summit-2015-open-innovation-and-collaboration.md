@@ -7,7 +7,7 @@ authors:
   - awichman
   - coqui-aspiazu
 topics:
-  - Managing Digital
+  - managing-digital
   - Our Work
   - DigitalGov Summit
 ---

@@ -6,7 +6,7 @@ summary: 'We’ve been excited to see the outpouring of interest this week in re
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - SocialGov Community
   - Terms of Service
   - TOS

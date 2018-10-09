@@ -6,7 +6,7 @@ summary: 'It’s been a while, but in previous posts, I described what we’ve l
 authors:
   - brenda-wensil
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - UX
   - Customer Experience

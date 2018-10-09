@@ -6,7 +6,7 @@ summary: 'Next in our video blog series, Sarah Crane from USA.gov shares how mul
 authors:
   - sarah-crane
 topics:
-  - Managing Digital
+  - managing-digital
   - api
   - USAgov
 ---

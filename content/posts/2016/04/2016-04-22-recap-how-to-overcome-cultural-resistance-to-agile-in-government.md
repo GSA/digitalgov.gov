@@ -6,7 +6,7 @@ summary: 'Armed with the knowledge that &lsquo;most studies suggest that losses 
 authors:
   - andreanocesigritz
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - agile
   - agile-lean-community-of-practice

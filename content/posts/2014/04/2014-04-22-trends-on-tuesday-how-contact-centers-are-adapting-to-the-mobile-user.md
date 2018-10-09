@@ -7,12 +7,12 @@ authors:
   - jparcell
 topics:
   - Communities
-  - Mobile
+  - mobile
   - Monthly Theme
   - strategy-and-policy
   - AoI
   - GPS
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - Trends on Tuesday
   - US Department of Veterans Affairs

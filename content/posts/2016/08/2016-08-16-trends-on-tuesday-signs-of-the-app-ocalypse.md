@@ -6,10 +6,10 @@ summary: 'A new report from the Mobile Ecosystem Forum shows that most users del
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - metrics
   - mobile
-  - mobile apps
+  - mobile-apps
   - responsive web design
   - security
   - Trends on Tuesday

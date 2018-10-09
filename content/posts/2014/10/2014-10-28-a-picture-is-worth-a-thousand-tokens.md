@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - Our Work
-  - Social Media
+  - social-media
   - Video
   - DigitalGov Search
   - Instagram

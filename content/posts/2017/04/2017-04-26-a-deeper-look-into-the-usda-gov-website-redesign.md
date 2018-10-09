@@ -7,9 +7,9 @@ authors:
   - bernetta-reese
 topics:
   - accessibility
-  - Design
-  - Managing Digital
-  - Mobile
+  - design
+  - managing-digital
+  - mobile
   - strategy-and-policy
   - accessibility
   - architecture

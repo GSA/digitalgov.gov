@@ -6,12 +6,12 @@ summary: 'Summary: Take a look at how we plan to preserve and pass on the digita
 authors:
   - kori-schulman
 topics:
-  - Code
-  - Content
+  - code
+  - content
   - Data
-  - Managing Digital
-  - Mobile
-  - Social Media
+  - managing-digital
+  - mobile
+  - social-media
   - strategy-and-policy
   - Video
   - audio-video

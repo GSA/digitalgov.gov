@@ -6,7 +6,7 @@ summary: ' As agencies strive for success in digital government, they often need
 authors:
   - awichman
 topics:
-  - Social Media
+  - social-media
   - Federal Student Aid
   - FSA
   - Twitter

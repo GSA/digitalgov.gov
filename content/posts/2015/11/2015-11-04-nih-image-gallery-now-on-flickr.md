@@ -6,7 +6,7 @@ summary: ' Looking for health or science related images? The National Institutes
 authors:
   - christen-geiler
 topics:
-  - Social Media
+  - social-media
   - National Institutes of Health
   - NIH
 ---

@@ -6,8 +6,8 @@ summary: 'We’d like to thank each agency and sub-agency for their partnership 
 authors:
   - freddie-blicher
 topics:
-  - Metrics
-  - Mobile
+  - metrics
+  - mobile
   - analytics
   - DAP
   - metrics

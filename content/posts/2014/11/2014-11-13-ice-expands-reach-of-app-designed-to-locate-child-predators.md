@@ -6,9 +6,9 @@ summary: 'Catching child predators? There&#8217;s an app for that, and it&#8217;
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - ICE
-  - mobile apps
+  - mobile-apps
   - multilingual
   - Thursday Mobile Products
   - US Immigration and Customs Enforcement

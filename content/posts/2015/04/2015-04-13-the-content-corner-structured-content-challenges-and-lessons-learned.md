@@ -6,7 +6,7 @@ summary: 'In May 2014, Sarah Crane discussed the importance of structured conten
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
   - api

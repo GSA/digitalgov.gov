@@ -6,13 +6,13 @@ summary: 'Mobile user habits are a moving target, and designers have to adjust a
 authors:
   - jparcell
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - customer service
   - Internet of things
-  - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
+  - mobile-apps
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-3
   - Trends on Tuesday
 ---
 

@@ -6,7 +6,7 @@ summary: 'Resources like Theresa Neil’s Mobile Design Product Gallery book and
 authors:
   - katie-steffy
 topics:
-  - Mobile
+  - mobile
   - UX
   - CDC
   - Centers for Disease Control and Prevention
@@ -15,10 +15,10 @@ topics:
   - HHS
   - Library of Congress
   - LOC
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 3
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-3
   - NPS
   - Smithsonian Institution
   - US Department of Education

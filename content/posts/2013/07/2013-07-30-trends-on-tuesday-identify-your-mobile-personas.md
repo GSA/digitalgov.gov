@@ -6,9 +6,9 @@ summary: 'Sparksheet recently posted an article by Greg Hickman, where he explai
 authors:
   - rachel-hurley
 topics:
-  - Mobile
+  - mobile
   - Making Mobile Gov
-  - mobile gov
+  - mobile-gov
   - Trends on Tuesday
 ---
 

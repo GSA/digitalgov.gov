@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - Communities
-  - Design
+  - design
   - Monthly Theme
   - user-testing-and-research
   - UX

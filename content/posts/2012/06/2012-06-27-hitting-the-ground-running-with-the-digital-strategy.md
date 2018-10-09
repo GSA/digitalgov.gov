@@ -7,7 +7,7 @@ authors:
   - steven-vanroekel
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - Our Work
   - white-house
 ---

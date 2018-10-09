@@ -6,8 +6,8 @@ summary: 'Summary: How to leverage your resources to reach Spanish-dominant Hisp
 authors:
   - victoria-wales
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - user-testing-and-research
   - UX
   - CDC

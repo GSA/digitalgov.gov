@@ -6,8 +6,8 @@ summary: 'Over the years, the staff intranet at the National Archives and Record
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - Content
-  - Design
+  - content
+  - design
   - user-testing-and-research
   - UX
   - analytics

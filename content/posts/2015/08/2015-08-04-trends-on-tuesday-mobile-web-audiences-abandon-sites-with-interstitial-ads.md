@@ -6,9 +6,9 @@ summary: 'David Morell, a software engineer with Google, posted an interesting c
 authors:
   - wsullivan
 topics:
-  - Mobile
   - mobile
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-5
   - native app
   - native apps
   - Trends on Tuesday

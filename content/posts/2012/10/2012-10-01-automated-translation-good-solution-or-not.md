@@ -6,8 +6,8 @@ summary: 'Automated translation is touted as a one click solution. But is it? Fr
 authors:
   - lgodfrey
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - CDC
   - DOJ
   - HHS

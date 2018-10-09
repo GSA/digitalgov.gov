@@ -6,7 +6,7 @@ summary: 'We have written about syndication and its successes before. The conten
 authors:
   - christen-geiler
 topics:
-  - Content
+  - content
   - content syndication
   - HHS
   - National Institute of Heart Lung and Blood Diseases

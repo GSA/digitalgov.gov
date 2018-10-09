@@ -6,8 +6,8 @@ summary: 'While we think about the audience, we don’t often map out the experi
 authors:
   - martha-dorris
 topics:
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - UX
   - Customer Experience
   - social media

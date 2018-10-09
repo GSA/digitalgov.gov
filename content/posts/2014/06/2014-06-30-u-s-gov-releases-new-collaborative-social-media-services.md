@@ -7,9 +7,9 @@ authors:
   - jherman
 topics:
   - accessibility
-  - Metrics
+  - metrics
   - Our Work
-  - Social Media
+  - social-media
   - accessibility
   - SBA
   - social media

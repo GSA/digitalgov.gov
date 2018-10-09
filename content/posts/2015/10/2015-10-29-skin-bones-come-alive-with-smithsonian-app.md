@@ -6,9 +6,9 @@ summary: ' The night air is cool and crisp, the autumn leaves are falling, your 
 authors:
   - nramprasad
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
-  - mobile apps
+  - mobile-apps
   - native app
   - native apps
   - Smithsonian Institution

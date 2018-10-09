@@ -6,12 +6,12 @@ summary: 'In December, I plan to write two postings detailing a scenario analysi
 authors:
   - bbrantley
 topics:
-  - Code
-  - Content
+  - code
+  - content
   - Data
-  - Managing Digital
-  - Mobile
-  - Social Media
+  - managing-digital
+  - mobile
+  - social-media
   - UX
   - 3d-printing
   - ai

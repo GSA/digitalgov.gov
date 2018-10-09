@@ -7,7 +7,7 @@ authors:
   - nramprasad
 topics:
   - accessibility
-  - Mobile
+  - mobile
   - accessibility
   - DoD
   - mobile

@@ -6,7 +6,7 @@ summary: 'Earlier this month, stock photo giant Getty Images launched an embedde
 authors:
   - judith-snyderman
 topics:
-  - Social Media
+  - social-media
   - DoD
   - Facebook
   - Instagram

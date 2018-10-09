@@ -7,7 +7,7 @@ authors:
   - mike-kruger
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - american-red-cross
   - api
   - Census

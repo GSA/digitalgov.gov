@@ -6,9 +6,9 @@ summary: 'Mobile shopping increased significantly this year for both Black Frida
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
   - mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - Trends on Tuesday
 ---
 

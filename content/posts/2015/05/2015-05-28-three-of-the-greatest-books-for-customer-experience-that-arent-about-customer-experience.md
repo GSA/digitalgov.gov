@@ -6,7 +6,7 @@ summary: 'Dennis Snow and Jeanne Bliss have always been the customer experience 
 authors:
   - stephanie-thum
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - customer satisfaction

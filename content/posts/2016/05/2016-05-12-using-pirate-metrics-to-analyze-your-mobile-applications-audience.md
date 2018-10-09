@@ -6,13 +6,13 @@ summary: What Makes a Native App Successful? There are over 200 native applicati
 authors:
   - jparcell
 topics:
-  - Metrics
-  - Mobile
+  - metrics
+  - mobile
   - DoD
   - metrics
-  - mobile apps
-  - mobile gov community of practice
-  - MobileGov
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-gov
   - National Center for Telehealth and Technology
   - native app
   - prototype

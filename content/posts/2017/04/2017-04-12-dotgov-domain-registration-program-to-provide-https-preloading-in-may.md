@@ -7,7 +7,7 @@ authors:
   - marina-fox
   - eric-mill
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - GSA
   - HTTPS

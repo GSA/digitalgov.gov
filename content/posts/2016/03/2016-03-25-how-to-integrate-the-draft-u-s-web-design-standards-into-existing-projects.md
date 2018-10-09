@@ -8,7 +8,7 @@ authors:
   - melody-kramer
   - maya-benari
 topics:
-  - Content
+  - content
   - UX
   - 18f
   - Draft Web Design Standards

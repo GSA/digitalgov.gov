@@ -7,8 +7,8 @@ authors:
   - minette-wilson
 topics:
   - Challenges
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - crowdfunding
   - US Department of State
 ---

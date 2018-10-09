@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Mobile
+  - mobile
   - DOE
   - US Department of Agriculture
   - United States Department of Energy

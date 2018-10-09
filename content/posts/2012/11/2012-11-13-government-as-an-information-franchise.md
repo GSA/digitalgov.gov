@@ -6,7 +6,7 @@ summary: 'The Digital Government Strategy represents best practices in today’s
 authors:
   - logan-powell
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - Census
   - United States Census Bureau

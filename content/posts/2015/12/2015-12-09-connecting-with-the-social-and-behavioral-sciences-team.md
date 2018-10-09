@@ -7,7 +7,7 @@ authors:
   - jsnee
   - rflagg
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - Customer Experience Community of Practice

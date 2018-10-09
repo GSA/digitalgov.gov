@@ -6,8 +6,8 @@ summary: 'In software development, we use a variety of techniques to help us und
 authors:
   - greg-walker
 topics:
-  - Code
-  - Metrics
+  - code
+  - metrics
   - strategy-and-policy
   - 18f
   - analytics

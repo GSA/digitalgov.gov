@@ -8,8 +8,8 @@ authors:
   - michael-balint
 topics:
   - api
-  - Code
-  - Content
+  - code
+  - content
   - Data
   - UX
   - api

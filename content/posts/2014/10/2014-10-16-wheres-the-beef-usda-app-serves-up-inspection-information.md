@@ -6,9 +6,9 @@ summary: 'Want to know where the food you’re eating was produced? Here’s a h
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - ICE
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
   - US Department of Agriculture
   - US Immigration and Customs Enforcement

@@ -6,10 +6,10 @@ summary: 'According to recent Pew Research Center surveys, 45 percent of America
 authors:
   - toni-bonitto
 topics:
-  - Code
-  - Content
-  - Mobile
-  - Social Media
+  - code
+  - content
+  - mobile
+  - social-media
   - app
   - content
   - content syndication
@@ -18,7 +18,7 @@ topics:
   - FEMA
   - HHS
   - mobile
-  - mobile apps
+  - mobile-apps
   - multilingual
   - National Oceanic and Atmospheric Administration
   - National Weather Service

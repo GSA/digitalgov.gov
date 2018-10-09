@@ -6,8 +6,8 @@ summary: '[youtube=http://www.youtube.com/watch?v=ohmyOKPSGPg&w=600] Animated gi
 authors:
   - jherman
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - 18f
   - accessibility
   - DGU

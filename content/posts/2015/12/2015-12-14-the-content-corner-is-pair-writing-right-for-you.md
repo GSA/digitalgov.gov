@@ -6,7 +6,7 @@ summary: 'Fresh from last week’s article about workflows and their importance 
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - user-testing-and-research
   - Writing
   - administrative-office-of-the-united-states-courts

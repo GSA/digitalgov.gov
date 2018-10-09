@@ -6,7 +6,7 @@ summary: 'I’ve been thinking a lot about Instagram lately. It’s pretty big, 
 authors:
   - alyson-olander
 topics:
-  - Social Media
+  - social-media
   - DOI
   - Instagram
   - National Institutes of Health

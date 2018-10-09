@@ -7,7 +7,7 @@ authors:
   - julia-elman
 topics:
   - accessibility
-  - Design
+  - design
   - strategy-and-policy
   - UX
   - 18f

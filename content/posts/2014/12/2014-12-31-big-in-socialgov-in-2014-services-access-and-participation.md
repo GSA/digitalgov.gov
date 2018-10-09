@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - Communities
-  - Social Media
+  - social-media
   - AoI
   - Central Intelligence Agency
   - CIA

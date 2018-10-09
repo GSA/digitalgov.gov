@@ -7,8 +7,8 @@ authors:
   - corina-dubois
   - david-a-bray
 topics:
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - social media
   - Twitter
 ---

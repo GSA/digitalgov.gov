@@ -6,8 +6,8 @@ summary: 'With public expectations at an all-time high, and trust in government 
 authors:
   - martha-dorris
 topics:
-  - Managing Digital
-  - Metrics
+  - managing-digital
+  - metrics
   - Monthly Theme
   - Our Work
   - UX

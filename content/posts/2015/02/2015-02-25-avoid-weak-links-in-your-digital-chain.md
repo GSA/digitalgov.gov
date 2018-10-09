@@ -6,7 +6,7 @@ summary: 'Users don’t like surprises. Unexpected or unwanted content undermine
 authors:
   - awichman
 topics:
-  - Content
+  - content
   - Monthly Theme
   - analytics
   - DigitalGov Search

@@ -7,8 +7,8 @@ authors:
   - georgia-gallavin
 topics:
   - Data
-  - Design
-  - Metrics
+  - design
+  - metrics
   - user-testing-and-research
   - UX
   - DigitalGov User Experience Program

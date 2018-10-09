@@ -6,8 +6,8 @@ summary: 'On visiting The Great Inka Road: Engineering an Empire exhibition at t
 authors:
   - ben-bloom
 topics:
-  - Content
-  - Design
+  - content
+  - design
   - user-testing-and-research
   - UX
   - content

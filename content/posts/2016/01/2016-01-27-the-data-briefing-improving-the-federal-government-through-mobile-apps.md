@@ -6,8 +6,8 @@ summary: 'Federal agencies are doing well in fulfilling the 2012 Digital Governm
 authors:
   - bbrantley
 topics:
-  - Code
-  - mobile apps
+  - code
+  - mobile-apps
   - NASA
   - The Data Briefing
   - United States Patent and Trademark Office

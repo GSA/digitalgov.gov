@@ -8,9 +8,9 @@ authors:
   - mary-king
   - kristen-albrittain
 topics:
-  - Content
-  - Managing Digital
-  - Social Media
+  - content
+  - managing-digital
+  - social-media
   - content
   - NARA
   - National Archives and Records Administration

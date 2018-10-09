@@ -6,13 +6,13 @@ summary: How do you reach audiences with important health information and leave 
 authors:
   - alex-casanova
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - CDC
   - Centers for Disease Control and Prevention
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - user centered design
 ---
 

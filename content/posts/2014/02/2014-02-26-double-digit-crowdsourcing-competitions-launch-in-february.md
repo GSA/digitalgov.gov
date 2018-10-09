@@ -7,13 +7,13 @@ authors:
   - tammi-marcoullier
 topics:
   - Challenges
-  - Code
+  - code
   - crowdsourcing-and-citizen-science
   - crowdsourcing
   - Department of Commerce
   - EPA
   - GSA
-  - mobile apps
+  - mobile-apps
   - United States Air Force
 ---
 

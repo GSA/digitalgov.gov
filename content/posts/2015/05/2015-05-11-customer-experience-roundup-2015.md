@@ -6,7 +6,7 @@ summary: 'This month, our round up focuses on customer experience (CX). As I was
 authors:
   - apiazza
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Centers for Disease Control and Prevention
   - Customer Experience

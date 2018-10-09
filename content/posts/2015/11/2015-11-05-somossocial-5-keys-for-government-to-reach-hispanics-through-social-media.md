@@ -9,7 +9,7 @@ authors:
   - edgardo-morales
   - victoria-wales
 topics:
-  - Social Media
+  - social-media
   - CDC
   - Centers for Disease Control and Prevention
   - Facebook

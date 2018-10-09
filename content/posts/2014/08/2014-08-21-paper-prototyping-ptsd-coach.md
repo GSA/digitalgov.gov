@@ -6,10 +6,10 @@ summary: The PTSD Coach mobile app from the Department of Veterans Affairs, prov
 authors:
   - katie-steffy
 topics:
-  - Design
-  - Mobile
-  - mobile apps
-  - Mobile UX Guideline 4
+  - design
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-4
   - prototype
   - Recaps
   - Thursday Mobile Products

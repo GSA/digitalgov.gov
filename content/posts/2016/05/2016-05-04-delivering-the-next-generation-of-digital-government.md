@@ -6,7 +6,7 @@ summary: We are in an era of digital transformation across many different indust
 authors:
   - denise-turner-roth
 topics:
-  - Managing Digital
+  - managing-digital
   - 18f
 ---
 

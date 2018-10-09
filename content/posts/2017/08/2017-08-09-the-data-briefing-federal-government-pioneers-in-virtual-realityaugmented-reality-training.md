@@ -6,7 +6,7 @@ summary: When I was in the private sector, around the year 2000, I worked for an
 authors:
   - bbrantley
 topics:
-  - Design
+  - design
   - UX
   - Video
   - audio-video

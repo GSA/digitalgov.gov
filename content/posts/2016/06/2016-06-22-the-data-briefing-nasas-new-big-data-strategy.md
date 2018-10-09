@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - big data
   - data

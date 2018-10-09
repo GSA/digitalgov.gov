@@ -7,7 +7,7 @@ authors:
   - nick-heiner
 topics:
   - accessibility
-  - Design
+  - design
   - UX
   - accessibility
   - US Digital Service

@@ -6,7 +6,7 @@ summary: 'A new report about email usage reinforced the importance of always bui
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - mobile
   - mobile-first
   - mobile-friendly

@@ -6,7 +6,7 @@ summary: 'For the past several weeks, I have been writing about fairly cerebral 
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - Writing
   - administrative-office-of-the-united-states-courts
   - infographic

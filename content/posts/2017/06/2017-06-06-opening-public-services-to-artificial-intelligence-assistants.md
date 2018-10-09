@@ -6,9 +6,9 @@ summary: '&ldquo;Hey, Computer, how do I access my public services?&rdquo;  Citi
 authors:
   - jherman
 topics:
-  - Content
+  - content
   - emerging-tech
-  - Managing Digital
+  - managing-digital
   - Our Work
   - UX
   - artificial-intelligence

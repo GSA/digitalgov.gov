@@ -6,7 +6,7 @@ summary: SMS messages are an excellent way to reach audiences. The National Canc
 authors:
   - kdaniel
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - customer service
   - government contact centers

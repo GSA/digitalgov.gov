@@ -6,7 +6,7 @@ summary: 'Updated: Added link to Twitter&#8217;s blog post on direct video uploa
 authors:
   - randy-abramson
 topics:
-  - Social Media
+  - social-media
   - Video
   - BBG
   - Broadcasting Board of Governors

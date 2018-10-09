@@ -6,10 +6,10 @@ summary: 'Improving the way the government delivers information technology (IT) 
 authors:
   - david-chiles
 topics:
-  - Code
+  - code
   - Data
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - api
   - code
   - Commerce
@@ -18,7 +18,7 @@ topics:
   - GitHub
   - innovation
   - mobile
-  - mobile apps
+  - mobile-apps
   - open
   - open data
   - open source

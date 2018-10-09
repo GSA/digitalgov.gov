@@ -6,7 +6,7 @@ summary: ' The use of 3D printing is growing. From kayaks to pancakes to human a
 authors:
   - awichman
 topics:
-  - Code
+  - code
   - Monthly Theme
   - 18f
   - api

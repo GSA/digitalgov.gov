@@ -7,7 +7,7 @@ authors:
   - sean-herron
 topics:
   - api
-  - Content
+  - content
   - FDA
   - HHS
   - US Food and Drug Administration

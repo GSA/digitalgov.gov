@@ -6,10 +6,10 @@ summary: This year, we moved HHS.gov to a responsive template to ensure that use
 authors:
   - clair-koroma
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - HHS
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - responsive web design
   - United States Department of Health and Human Services
 ---

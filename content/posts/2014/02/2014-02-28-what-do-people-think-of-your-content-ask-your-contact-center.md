@@ -7,9 +7,9 @@ authors:
   - tonya-beres
 topics:
   - Communities
-  - Content
-  - Managing Digital
-  - Social Media
+  - content
+  - managing-digital
+  - social-media
   - UX
   - AoI
   - Customer Experience

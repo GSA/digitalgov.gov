@@ -6,10 +6,10 @@ summary: 'Building quality mobile products is the greatest challenge for succeed
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - user-testing-and-research
   - mobile
-  - mobile testing
+  - mobile-testing
   - Trends on Tuesday
 ---
 

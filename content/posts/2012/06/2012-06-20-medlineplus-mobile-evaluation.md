@@ -6,10 +6,10 @@ summary: Mobile Gov Experiences are agency stories about creating anytime, anywh
 authors:
   - jparcell
 topics:
-  - Metrics
-  - Mobile
+  - metrics
+  - mobile
   - HHS
-  - Mobile Gov Experience
+  - mobile-gov-experience
   - National Library of Medicine
   - NIH
 ---

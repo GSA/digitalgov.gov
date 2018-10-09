@@ -6,9 +6,9 @@ summary: 'This spring, the eRegulations Notice & Comment team began building out
 authors:
   - wsullivan
 topics:
-  - Code
-  - Content
-  - Managing Digital
+  - code
+  - content
+  - managing-digital
   - strategy-and-policy
   - Video
   - 18f

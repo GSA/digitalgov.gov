@@ -6,7 +6,7 @@ summary: ' Uncovering meaningful analytics from months or years of Web metrics i
 authors:
   - hannah-gladfelter-rubin
 topics:
-  - Metrics
+  - metrics
   - user-testing-and-research
   - UX
   - analytics

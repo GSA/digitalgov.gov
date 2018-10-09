@@ -6,14 +6,14 @@ summary: 'When it comes to Web and software design, the pen(cil) is often mighti
 authors:
   - jonathan-rubin
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - UX
   - DOL
   - federal user experience community
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-4
   - prototype
   - usability
   - user experience

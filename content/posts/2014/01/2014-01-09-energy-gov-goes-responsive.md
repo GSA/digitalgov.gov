@@ -4,8 +4,8 @@ date: 2014-01-09 1:44:28 -0400
 title: Energy.gov goes Responsive
 summary: ' Did this week&#8217;s polar vortex wreak havoc on your heating and cooling system? Maybe now you&#8217;re in the hunt for a new furnace or looking for more efficient ways to'
 topics:
-  - Mobile
-  - mobile gov
+  - mobile
+  - mobile-gov
   - mobile-first
   - responsive web design
   - Thursday Mobile Products

@@ -6,7 +6,7 @@ summary: As mentioned in previous blog posts, great efforts have been made in cr
 authors:
   - simchah-suveyke-bogin
 topics:
-  - Metrics
+  - metrics
   - Customer Experience
 ---
 

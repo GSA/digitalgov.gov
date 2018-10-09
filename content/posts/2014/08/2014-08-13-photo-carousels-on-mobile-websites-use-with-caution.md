@@ -6,14 +6,14 @@ summary: 'You might recognize them by the user controls, if provided, that allow
 authors:
   - beth-martin
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - user-testing-and-research
   - FAA
   - Federal Aviation Administration
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-4
   - Web Content Managers Forum
 ---
 

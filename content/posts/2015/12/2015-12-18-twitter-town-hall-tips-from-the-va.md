@@ -6,7 +6,7 @@ summary: I work for the Department of Veterans Affairs in a national benefits of
 authors:
   - melodee-mercer
 topics:
-  - Social Media
+  - social-media
   - Twitter
   - US Department of Veterans Affairs
   - VA

@@ -6,7 +6,7 @@ summary: When designing a site, remember that your terms and icons are like sign
 authors:
   - jonathan-rubin
 topics:
-  - Mobile
+  - mobile
   - user-testing-and-research
   - UX
   - DigitalGov User Experience Program

@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Managing Digital
+  - managing-digital
   - The Data Briefing
 ---
 

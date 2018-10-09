@@ -7,7 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - Challenges
-  - Code
+  - code
   - Data
   - Writing
   - Census

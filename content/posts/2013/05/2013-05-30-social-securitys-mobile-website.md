@@ -6,8 +6,8 @@ summary: The Social Security Administration recently announced their new optimiz
 authors:
   - kanika-tolver
 topics:
-  - Mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - multilingual
   - SSA
   - The United States Social Security Administration

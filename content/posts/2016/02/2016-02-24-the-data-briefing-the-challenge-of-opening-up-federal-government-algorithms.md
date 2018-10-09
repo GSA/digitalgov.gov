@@ -6,7 +6,7 @@ summary: Algorithms are becoming more important as the amount of data grows, and
 authors:
   - bbrantley
 topics:
-  - Code
+  - code
   - Data
   - data
   - FOIA

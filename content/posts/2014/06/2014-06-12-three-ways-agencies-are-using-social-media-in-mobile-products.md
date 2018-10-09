@@ -7,15 +7,15 @@ authors:
   - zeshan-khan
   - katie-steffy
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
-  - Social Media
+  - social-media
   - crowdsourcing
   - Federal Mobile Products Registry
   - GPS
-  - mobile apps
-  - mobile gov
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-gov
+  - mobile-ux-guideline-5
   - National Highway Traffic Safety Administration
   - National Oceanic and Atmospheric Administration
   - NOAA

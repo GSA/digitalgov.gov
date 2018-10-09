@@ -7,9 +7,9 @@ authors:
   - edgardo-morales
   - phat-nguyen
 topics:
-  - Content
-  - Managing Digital
-  - Social Media
+  - content
+  - managing-digital
+  - social-media
   - strategy-and-policy
   - content
   - content strategy

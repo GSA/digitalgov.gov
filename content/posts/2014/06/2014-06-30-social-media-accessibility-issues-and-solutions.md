@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - Monthly Theme
-  - Social Media
+  - social-media
   - Video
   - Writing
   - accessibility

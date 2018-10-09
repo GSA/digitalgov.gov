@@ -7,7 +7,7 @@ authors:
   - carolyn-hinkley
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - National Institute of Standards and Technology
   - NIST
   - social media

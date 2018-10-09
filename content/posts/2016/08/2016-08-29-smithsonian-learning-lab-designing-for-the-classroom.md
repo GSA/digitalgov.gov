@@ -6,8 +6,8 @@ summary: 'The Smithsonian’s mission statement is wonderfully simple: &#8220;Th
 authors:
   - ben-bloom
 topics:
-  - Design
-  - Managing Digital
+  - design
+  - managing-digital
   - user-testing-and-research
   - UX
   - content

@@ -6,8 +6,8 @@ summary: It seems of late that the focus on coding and technology within the fed
 authors:
   - tyrus-manuel
 topics:
-  - Code
-  - Content
+  - code
+  - content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
   - code

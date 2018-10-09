@@ -6,11 +6,11 @@ summary: 'The Pew Research Center released a deep research dive into &ldquo;U.S.
 authors:
   - wsullivan
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - strategy-and-policy
   - mobile
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

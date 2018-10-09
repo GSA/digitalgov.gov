@@ -7,7 +7,7 @@ authors:
   - victoria-wales
   - lmartinez
 topics:
-  - Content
+  - content
   - content strategy
   - GobiernoUSAgov
   - multilingual

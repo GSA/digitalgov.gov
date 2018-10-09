@@ -6,10 +6,10 @@ summary: 'QR codes, apps about whales, bullying and railroad crossings, challeng
 authors:
   - jparcell
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - api
-  - mobile gov community of practice
+  - mobile-gov-community-of-practice
   - Trends on Tuesday
 ---
 

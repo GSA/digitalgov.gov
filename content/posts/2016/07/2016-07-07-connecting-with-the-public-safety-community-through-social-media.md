@@ -6,8 +6,8 @@ summary: 'Technology is bringing the world closer together &ndash; from connecti
 authors:
   - amanda-hilliard
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - First Responder Network Authority
   - FirstNet
   - mobile

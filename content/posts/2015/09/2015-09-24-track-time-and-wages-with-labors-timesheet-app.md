@@ -6,8 +6,8 @@ summary: Believe it or not, even a couple years ago, I was using pen and paper t
 authors:
   - nramprasad
 topics:
-  - Mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - native app
   - native apps
   - SSA

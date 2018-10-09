@@ -6,7 +6,7 @@ summary: ' They say that necessity is the mother of invention. For me, the neces
 authors:
   - brandon-kopp
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - BLS
   - prototype

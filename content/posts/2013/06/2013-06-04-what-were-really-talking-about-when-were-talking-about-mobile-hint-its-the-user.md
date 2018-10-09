@@ -6,11 +6,11 @@ summary: It used to be when we said mobile we meant activities and devices defin
 authors:
   - jim-costello
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
   - mobile
-  - Mobile App Development Program
-  - mobile gov
+  - mobile
+  - mobile-app-development-program
+  - mobile-gov
   - responsive web design
   - user experience
 ---

@@ -6,7 +6,7 @@ summary: (This is the first installment of an ongoing series charting the progra
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - SocialGov
 ---
 

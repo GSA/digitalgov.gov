@@ -8,9 +8,9 @@ authors:
   - todd-park
   - beth-cobert
 topics:
-  - Content
+  - content
   - Data
-  - Mobile
+  - mobile
   - 18f
   - Customer Experience
   - Digital Services Playbook

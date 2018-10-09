@@ -6,7 +6,7 @@ summary: As human beings, we love stories. We like regaling our friends with tal
 authors:
   - sarah-herrmann
 topics:
-  - Content
+  - content
   - american-battle-monuments-commission
 ---
 

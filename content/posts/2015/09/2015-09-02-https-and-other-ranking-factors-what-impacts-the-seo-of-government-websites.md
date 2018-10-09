@@ -6,7 +6,7 @@ summary: Following the recent OMB memo that all publicly available federal websi
 authors:
   - dmccleskey
 topics:
-  - Content
+  - content
   - Our Work
   - DigitalGov Search
   - HTTPS

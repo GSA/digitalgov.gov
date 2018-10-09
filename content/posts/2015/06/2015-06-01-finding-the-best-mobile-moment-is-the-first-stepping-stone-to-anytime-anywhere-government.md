@@ -6,12 +6,12 @@ summary: Mobile-friendliness is a must for government. But mobilizing the whole 
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - Internal Revenue Service
   - ios
   - IRS
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - National Oceanic and Atmospheric Administration
   - NOAA
   - 'Occupational Safety and Health Administration'

@@ -7,7 +7,7 @@ authors:
   - tlowden
   - marietta-jelks
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - DigitalGov User Experience Program

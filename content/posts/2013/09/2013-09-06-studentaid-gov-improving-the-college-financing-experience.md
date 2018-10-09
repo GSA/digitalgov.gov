@@ -6,7 +6,7 @@ summary: 'Guest post by Brenda Wensil, Chief Customer Experience Officer for Fed
 authors:
   - brenda-wensil
 topics:
-  - Managing Digital
+  - managing-digital
   - UX
   - FAFSA
   - multilingual

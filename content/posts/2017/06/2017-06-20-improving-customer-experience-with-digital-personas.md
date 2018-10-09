@@ -6,8 +6,8 @@ summary: 'Keeping the customer’s needs front and center is important when deve
 authors:
   - archivist-of-the-united-states
 topics:
-  - Content
-  - Design
+  - content
+  - design
   - UX
   - Customer Experience
   - Customer Experience Community of Practice

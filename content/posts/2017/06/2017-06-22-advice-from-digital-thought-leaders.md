@@ -6,8 +6,8 @@ summary: 'Many know that digital tools have become indispensable for connecting 
 authors:
   - hiv-gov
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - social-media
   - strategy-and-policy
   - data

@@ -6,8 +6,8 @@ summary: ' On October 19th, NIH brought together nearly 1,500 digital and health
 authors:
   - alison-lemon
 topics:
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - EPA
   - HHS
   - National Cancer Institute

@@ -7,13 +7,13 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - api
-  - Content
+  - content
   - Monthly Theme
   - Our Work
-  - Social Media
+  - social-media
   - 18f
   - CMS
-  - Content Management System
+  - content-management-system
   - DigitalGov Search
   - Federal Register
   - open data

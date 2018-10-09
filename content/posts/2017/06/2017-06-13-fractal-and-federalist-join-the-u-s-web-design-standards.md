@@ -7,8 +7,8 @@ summary: 'We’ve recently added two powerful tools to the U.S. Web Design Stand
 authors:
   - shawn-allen
 topics:
-  - Code
-  - Design
+  - code
+  - design
   - GitHub
   - open source
   - responsive web design

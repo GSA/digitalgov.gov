@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Mobile
+  - mobile
   - CDC
   - Census
   - Centers for Disease Control and Prevention
@@ -16,7 +16,7 @@ topics:
   - Internal Revenue Service
   - IRS
   - mobile
-  - mobile apps
+  - mobile-apps
   - native app
   - native apps
   - State

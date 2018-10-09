@@ -6,7 +6,7 @@ summary: 'ComScore recently released key trends in the United States&#8217; smar
 authors:
   - rachel-hurley
 topics:
-  - Mobile
+  - mobile
   - mobile
   - Trends on Tuesday
 ---

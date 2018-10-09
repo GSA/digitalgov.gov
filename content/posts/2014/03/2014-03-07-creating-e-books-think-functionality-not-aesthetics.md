@@ -6,9 +6,9 @@ summary: 'E-books are great for one thing: reading on mobile devices. Their refl
 authors:
   - carolyn-cihelka
 topics:
-  - Content
-  - Design
-  - Mobile
+  - content
+  - design
+  - mobile
   - Writing
   - Consumer Action Handbook
   - DoD

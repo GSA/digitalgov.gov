@@ -6,7 +6,7 @@ summary: 'INTERPOL Washington&mdash;What is it? It’s a movie. It’s the lates
 authors:
   - nramprasad
 topics:
-  - Mobile
+  - mobile
   - DOJ
   - ICE
   - Thursday Mobile Products

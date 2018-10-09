@@ -6,8 +6,8 @@ summary: 'Running a government website or social media account is complex: while
 authors:
   - jeffrey-levy
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - US Citizenship and Immigration Service
   - USCIS
 ---

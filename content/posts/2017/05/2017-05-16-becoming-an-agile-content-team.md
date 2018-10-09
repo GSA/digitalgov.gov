@@ -6,7 +6,7 @@ summary: 'In March, the team of writers and editors at USAGov adopted some agile
 authors:
   - jessica-milcetich
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - agile
   - agile-lean-community-of-practice

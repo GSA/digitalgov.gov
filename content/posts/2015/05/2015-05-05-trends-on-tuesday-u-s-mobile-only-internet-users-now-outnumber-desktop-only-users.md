@@ -6,8 +6,8 @@ summary: ' Just a week after the &lsquo;Mobilegeddon’ shift in Google search e
 authors:
   - wsullivan
 topics:
-  - Mobile
-  - Mobile UX Guideline 1
+  - mobile
+  - mobile-ux-guideline-1
   - mobile-first
   - mobile-friendly
   - native app

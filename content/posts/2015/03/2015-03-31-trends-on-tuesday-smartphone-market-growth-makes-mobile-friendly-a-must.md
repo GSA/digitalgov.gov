@@ -6,16 +6,16 @@ summary: 'ComScore reported last week that smartphones now make up a whopping 75
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - DAP
   - Digital Analytics Program
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - mobile-first
   - mobile-friendly
-  - MobileGov
+  - mobile-gov
   - responsive web design
   - Sites
   - Trends on Tuesday

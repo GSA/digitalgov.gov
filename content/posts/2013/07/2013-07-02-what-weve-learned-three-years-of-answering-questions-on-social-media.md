@@ -6,7 +6,7 @@ summary: 'USA.gov and GobiernoUSA.gov have been engaging with the public on soci
 authors:
   - michelle-chronister
 topics:
-  - Social Media
+  - social-media
   - Facebook
   - GobiernoUSAgov
   - social media

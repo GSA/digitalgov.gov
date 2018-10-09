@@ -6,7 +6,7 @@ summary: ' Even on a &ldquo;slow&rdquo; day, NASA is a pretty cool place to work
 authors:
   - jim-wilson
 topics:
-  - Metrics
+  - metrics
   - analytics
   - DAP
   - Digital Analytics Program

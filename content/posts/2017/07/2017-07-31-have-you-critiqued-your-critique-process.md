@@ -7,8 +7,8 @@ authors:
   - meghan-lazier
 
 topics:
-  - Design
-  - Managing Digital
+  - design
+  - managing-digital
   - strategy-and-policy
   - User Testing and Research
   - UX

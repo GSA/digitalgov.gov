@@ -6,9 +6,9 @@ summary: 'Need to get in touch with your audience? Give them a little push. Push
 authors:
   - awichman
 topics:
-  - Mobile
   - mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - OPM
   - United States Office of Personnel Management
 ---

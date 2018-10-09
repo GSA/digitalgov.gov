@@ -6,9 +6,9 @@ summary: 'Help the National Oceanic and Atmospheric Administration (NOAA) improv
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - Federal Mobile Products Registry
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - usa-gov-federal-mobile-apps-directory

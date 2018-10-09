@@ -6,7 +6,7 @@ summary: 'Pew Research Center’s Internet & American Life Project recently rele
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
+  - mobile
   - Trends on Tuesday
   - user experience
 ---

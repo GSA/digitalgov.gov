@@ -6,15 +6,15 @@ summary: 'On September 6, 2013 at 11:27 p.m., EDT., viewers tuned in through the
 authors:
   - byrhonda-lyons
 topics:
-  - Content
-  - Metrics
-  - Mobile
+  - content
+  - metrics
+  - mobile
   - Monthly Theme
   - Defense Finance and Accounting Services
   - DFAS
   - EPA
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - NASA
   - National Institutes of Health
   - NIH

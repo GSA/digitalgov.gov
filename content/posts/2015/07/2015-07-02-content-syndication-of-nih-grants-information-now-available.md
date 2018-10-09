@@ -6,7 +6,7 @@ summary: 'Now you can pull the latest NIH grant content directly into your site.
 authors:
   - christen-geiler
 topics:
-  - Content
+  - content
   - content syndication
   - HHS
   - National Institutes of Health

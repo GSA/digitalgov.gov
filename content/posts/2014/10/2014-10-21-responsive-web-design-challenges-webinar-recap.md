@@ -7,14 +7,14 @@ authors:
   - ellen-arnold-losey
   - debra-harris
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - analytics
   - Defense Finance and Accounting Services
   - DFAS
   - DOE
   - mobile
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - Recaps
   - responsive web design
   - United States Department of Energy

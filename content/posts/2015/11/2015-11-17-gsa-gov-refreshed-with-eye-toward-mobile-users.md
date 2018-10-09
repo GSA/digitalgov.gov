@@ -6,9 +6,9 @@ summary: 'GSA unveiled a refreshed GSA.gov website yesterday with a more crisp d
 authors:
   - jeff-woodworth
 topics:
-  - Design
-  - Managing Digital
-  - Mobile
+  - design
+  - managing-digital
+  - mobile
   - 18f
   - responsive web design
   - top tasks

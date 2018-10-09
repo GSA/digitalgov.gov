@@ -9,7 +9,7 @@ authors:
   - omid-ghaffari-tabrizi
   - waldo-jaquith
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - 18f
   - DoD

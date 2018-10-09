@@ -7,7 +7,7 @@ authors:
   - mario-damiani
 topics:
   - accessibility
-  - Social Media
+  - social-media
   - accessibility
   - social media
   - SocialGov

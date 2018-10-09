@@ -8,7 +8,7 @@ authors:
   - leo-yang
 topics:
   - api
-  - Mobile
+  - mobile
   - api
   - mobile
   - NPS

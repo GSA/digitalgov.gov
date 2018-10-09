@@ -6,8 +6,8 @@ summary: 'Earlier this year the National Gallery of Art released their &#8220;Yo
 authors:
   - jparcell
 topics:
-  - Mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - multilingual
   - National Gallery of Art
   - Thursday Mobile Products

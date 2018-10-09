@@ -7,7 +7,7 @@ authors:
   - angela-hooker
 topics:
   - accessibility
-  - Design
+  - design
   - Monthly Theme
   - user-testing-and-research
   - UX

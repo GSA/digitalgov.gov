@@ -6,7 +6,7 @@ summary: 'Here at DigitalGov, customer service is a focal theme during the month
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - content strategy
   - customer service

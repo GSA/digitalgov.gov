@@ -7,7 +7,7 @@ authors:
   - office-of-information-policy-doj
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - DOJ
   - FOIA

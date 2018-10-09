@@ -6,7 +6,7 @@ summary: ' The short answer is: it depends on your goals. If you Google &ldquo;f
 authors:
   - stacey-sarris
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - user experience

@@ -6,7 +6,7 @@ summary: 'Working on getting your agency to release an open source policy? Aweso
 authors:
   - nkunin
 topics:
-  - Code
+  - code
   - CFPB
   - GitHub
   - open source

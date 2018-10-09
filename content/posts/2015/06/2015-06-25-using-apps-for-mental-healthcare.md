@@ -6,12 +6,12 @@ summary: Technology has opened new pathways for delivering health care, includin
 authors:
   - awichman
 topics:
-  - Mobile
+  - mobile
   - DoD
-  - mobile apps
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
-  - Mobile UX Guideline 6
+  - mobile-apps
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-5
+  - mobile-ux-guideline-6
   - native app
   - Thursday Mobile Products
   - United States Department of Defense

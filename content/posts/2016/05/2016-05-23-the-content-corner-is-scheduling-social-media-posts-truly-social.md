@@ -6,10 +6,10 @@ summary: 'Good communicators are always&hellip;well&hellip;evaluating the way th
 authors:
   - kyle-s-richardson
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - Monthly Theme
-  - Social Media
+  - social-media
   - UX
   - Customer Experience
   - CX

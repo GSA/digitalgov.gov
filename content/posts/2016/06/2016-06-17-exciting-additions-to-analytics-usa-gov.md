@@ -10,8 +10,8 @@ authors:
   - colin-craig
 topics:
   - Data
-  - Managing Digital
-  - Metrics
+  - managing-digital
+  - metrics
   - Our Work
   - 18f
   - analytics

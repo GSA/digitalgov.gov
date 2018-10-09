@@ -6,7 +6,7 @@ summary: 'There is a tendency in government to discount a range of strategies cl
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
   - content strategy

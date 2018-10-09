@@ -6,9 +6,9 @@ summary: 'On September 8th, the General Services Administration (GSA) held a Tec
 authors:
   - andre-francisco
 topics:
-  - Code
+  - code
   - Data
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - 18f
   - agile

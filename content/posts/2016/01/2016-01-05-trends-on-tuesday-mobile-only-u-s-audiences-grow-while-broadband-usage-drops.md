@@ -6,7 +6,7 @@ summary: 'The Pew Research Center released an interesting report about home Inte
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - mobile
   - mobile-first
   - mobile-friendly

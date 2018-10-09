@@ -7,7 +7,7 @@ authors:
   - sarah-brooks
   - mollie-ruskin
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - UX
   - Customer Experience

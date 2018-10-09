@@ -6,9 +6,9 @@ summary: 'Mobile Gov Experiences are agency stories about creating anytime, anyw
 authors:
   - jparcell
 topics:
-  - Mobile
-  - mobile apps
-  - Mobile Gov Experience
+  - mobile
+  - mobile-apps
+  - mobile-gov-experience
   - USDA
 ---
 

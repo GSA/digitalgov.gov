@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Mobile
+  - mobile
   - Monthly Theme
   - "508"
   - api
@@ -17,9 +17,9 @@ topics:
   - FCC
   - Federal Communications Commission
   - GSA
-  - mobile apps
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 3
+  - mobile-apps
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-3
   - section 508
   - The Data Briefing
   - United States Department of Transportation

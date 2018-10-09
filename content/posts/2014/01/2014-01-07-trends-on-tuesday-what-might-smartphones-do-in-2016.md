@@ -6,7 +6,7 @@ summary: 'A recent article in Mobile Marketing Watch suggested location-based se
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
+  - mobile
   - mobile
   - Trends on Tuesday
 ---

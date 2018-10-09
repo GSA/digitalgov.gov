@@ -7,10 +7,10 @@ authors:
   - sara-smith
   - anne-rancourt
 topics:
-  - Content
-  - Design
-  - Managing Digital
-  - Social Media
+  - content
+  - design
+  - managing-digital
+  - social-media
   - content
   - infographic
   - multimedia

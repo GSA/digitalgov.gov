@@ -6,7 +6,7 @@ summary: 'Surveys are a great way to gain valuable insight into your customersâ€
 authors:
   - zhanrui-kuang
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - customer satisfaction

@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - Challenges
-  - Code
+  - code
   - challenge-gov
   - Challenges and Prizes Community of Practice
   - crowdsourcing

@@ -6,7 +6,7 @@ summary: 'You don’t need to be a rail buff to want to download the Federal Rai
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - DOT
   - Federal Railroad Administration
   - ICE

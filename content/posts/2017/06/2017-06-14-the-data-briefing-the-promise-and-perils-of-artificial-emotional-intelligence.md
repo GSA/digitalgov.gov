@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Mobile
+  - mobile
   - ai
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community

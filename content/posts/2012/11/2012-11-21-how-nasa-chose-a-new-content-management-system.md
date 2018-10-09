@@ -7,11 +7,11 @@ authors:
   - brian-dunbar
 topics:
   - api
-  - Content
+  - content
   - Governance
   - strategy-and-policy
   - CMS
-  - Content Management System
+  - content-management-system
   - NASA
 ---
 

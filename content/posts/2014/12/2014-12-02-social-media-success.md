@@ -6,8 +6,8 @@ summary: ' When it comes to implementing a social media strategy, determining ho
 authors:
   - byrhonda-lyons
 topics:
-  - Metrics
-  - Social Media
+  - metrics
+  - social-media
   - DOI
   - Facebook
   - National Resources Conservation Service

@@ -6,14 +6,14 @@ summary: On DigitalGov, we frequently talk about some of the most popular app ex
 authors:
   - wsullivan
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - Facebook
   - Instagram
   - LinkedIn
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 1
+  - mobile-apps
+  - mobile-ux-guideline-1
   - social media
   - Trends on Tuesday
   - Twitter

@@ -7,10 +7,10 @@ authors:
   - jherman
 topics:
   - Our Work
-  - Social Media
+  - social-media
   - analytics-usa-gov
   - api
-  - MobileGov
+  - mobile-gov
   - open source
   - SocialGov
   - Terms of Service

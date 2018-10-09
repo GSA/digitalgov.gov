@@ -6,7 +6,7 @@ summary: 'You can now help your audience stay up-to-date on the Zika virus outbr
 authors:
   - andreanocesigritz
 topics:
-  - Content
+  - content
   - Monthly Theme
   - CDC
   - Centers for Disease Control and Prevention

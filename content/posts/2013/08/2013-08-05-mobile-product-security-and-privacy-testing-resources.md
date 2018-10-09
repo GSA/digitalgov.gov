@@ -6,12 +6,12 @@ summary: 'Security testing is used to ensure that a mobile product does not pose
 authors:
   - jparcell
 topics:
-  - Code
-  - Mobile
+  - code
+  - mobile
   - strategy-and-policy
   - user-testing-and-research
   - GitHub
-  - mobile testing
+  - mobile-testing
   - privacy
   - security
 ---

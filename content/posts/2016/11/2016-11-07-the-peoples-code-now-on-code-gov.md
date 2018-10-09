@@ -6,8 +6,8 @@ summary: 'Summary: Today we’re launching Code.gov so that our Nation can conti
 authors:
   - tony-scott
 topics:
-  - Code
-  - Managing Digital
+  - code
+  - managing-digital
   - strategy-and-policy
   - code
   - Office of Management and Budget

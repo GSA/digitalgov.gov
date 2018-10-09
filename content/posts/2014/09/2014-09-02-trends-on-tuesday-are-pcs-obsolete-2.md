@@ -6,10 +6,10 @@ summary: 'We&#8217;ve seen (and experienced) a dramatic growth in mobile consump
 authors:
   - tjohnson
 topics:
-  - Mobile
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

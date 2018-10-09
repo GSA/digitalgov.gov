@@ -6,7 +6,7 @@ summary: 'Yesterday, we shared our Snapchat account with the public. After weeks
 authors:
   - jessica-milcetich
 topics:
-  - Social Media
+  - social-media
   - USAgov
 ---
 

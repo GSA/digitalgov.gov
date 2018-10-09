@@ -6,8 +6,8 @@ summary: 'Four years ago, BusinessUSA launched with a mission to revolutionize t
 authors:
   - ryan-edelstein
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - content
   - usa.gov
 ---

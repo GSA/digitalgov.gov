@@ -6,10 +6,10 @@ summary: 'The new app from the Department of Transportation’s Federal Motor Ca
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - DOT
   - mobile
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
   - United States Department of Transportation
   - usa-gov-federal-mobile-apps-directory

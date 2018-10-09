@@ -6,14 +6,14 @@ summary: 'Smartphones, tablets, Twitter, Facebook, Instagram, not to mention you
 authors:
   - structured-and-open-content-models-working-group
 topics:
-  - Code
+  - code
   - Communities
-  - Content
-  - Managing Digital
-  - Mobile
+  - content
+  - managing-digital
+  - mobile
   - Monthly Theme
   - Our Work
-  - Social Media
+  - social-media
   - administrative-office-of-the-united-states-courts
   - AoI
   - CDC
@@ -25,7 +25,7 @@ topics:
   - FDA
   - GitHub
   - GSA
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - National Institutes of Health
   - NIH
   - open and structured content models

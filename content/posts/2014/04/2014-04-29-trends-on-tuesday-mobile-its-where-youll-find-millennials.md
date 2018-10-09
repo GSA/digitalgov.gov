@@ -6,9 +6,9 @@ summary: ' It’s no secret, if you want to reach Millennials, mobile is a great
 authors:
   - tjohnson
 topics:
-  - Mobile
   - mobile
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

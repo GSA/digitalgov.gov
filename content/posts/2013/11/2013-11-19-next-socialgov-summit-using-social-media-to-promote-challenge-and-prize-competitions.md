@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - Challenges
-  - Social Media
+  - social-media
   - strategy-and-policy
   - challenge-gov
   - SocialGov

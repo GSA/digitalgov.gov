@@ -8,11 +8,11 @@ authors:
   - clair-koroma
   - beth-martin
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - Monthly Theme
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
   - responsive web design
 ---
 

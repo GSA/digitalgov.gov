@@ -6,9 +6,9 @@ summary: Benedict Evans, a leading mobile analyst with the Silicon Valley ventur
 authors:
   - wsullivan
 topics:
-  - Mobile
   - mobile
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - mobile-friendly
   - Trends on Tuesday

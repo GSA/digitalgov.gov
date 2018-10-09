@@ -6,7 +6,7 @@ summary: ' The newest addition to the federal government’s social media utilit
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - api
   - Internet of things
   - social media

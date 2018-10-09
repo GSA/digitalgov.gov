@@ -6,7 +6,7 @@ summary: 'For those of us who need to get our diet under control&mdash;and keep 
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - Federal Mobile Products Registry
   - ICE
   - native app

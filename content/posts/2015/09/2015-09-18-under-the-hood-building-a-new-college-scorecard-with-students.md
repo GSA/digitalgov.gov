@@ -6,7 +6,7 @@ summary: 'Summary: How the U.S. Digital Service worked with students, families, 
 authors:
   - lisa-gelobter
 topics:
-  - Code
+  - code
   - Data
   - 18f
   - agile

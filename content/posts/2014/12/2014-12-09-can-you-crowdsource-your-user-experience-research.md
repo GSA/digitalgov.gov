@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - crowdsourcing-and-citizen-science
-  - Design
+  - design
   - Monthly Theme
   - user-testing-and-research
   - UX

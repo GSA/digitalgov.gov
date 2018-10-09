@@ -6,11 +6,11 @@ summary: 'Summary: The 2016 National Preparedness Report is an important guidepo
 authors:
   - craig-fugate
 topics:
-  - Mobile
+  - mobile
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
-  - mobile gov
+  - mobile-apps
+  - mobile-gov
   - Thursday Mobile Products
 ---
 

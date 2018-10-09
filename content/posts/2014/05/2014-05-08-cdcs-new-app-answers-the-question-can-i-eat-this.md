@@ -4,10 +4,10 @@ date: 2014-05-08 10:16:13 -0400
 title: 'CDC&#8217;s New App Answers the Question: &#8216;Can I Eat This?&#8217;'
 summary: 'I&#8217;ll be honest: When I had only heard the name of the new mobile app from the Centers for Disease Control and Prevention, I thought, &#8220;Interesting &mdash; another dieting app to add to my phone.&#8221; So wrong was I. In fact, the only way you&#8217;re going to lose weight with this traveler&#8217;s app is if you'
 topics:
-  - Mobile
+  - mobile
   - CDC
   - Centers for Disease Control and Prevention
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
   - usa-gov-federal-mobile-apps-directory
 ---

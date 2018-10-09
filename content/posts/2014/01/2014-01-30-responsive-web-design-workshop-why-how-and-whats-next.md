@@ -6,8 +6,8 @@ summary: 'Responsive web design has been a beacon of light in the darkness of mo
 authors:
   - jparcell
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - GSA
   - mobile
   - NCI

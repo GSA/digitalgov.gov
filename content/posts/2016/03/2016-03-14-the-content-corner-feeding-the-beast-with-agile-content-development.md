@@ -6,7 +6,7 @@ summary: 'I feel as though I have ignored the beast in the room lately, and sinc
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - agile
   - content strategy
   - The Content Corner

@@ -6,12 +6,12 @@ summary: 'The wildly popular, augmented reality game we reported on for Trends o
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - app
   - Augmented Reality
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
   - virtual reality
   - Virtual/Augmented Reality Community

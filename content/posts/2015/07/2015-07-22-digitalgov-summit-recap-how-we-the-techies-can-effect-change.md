@@ -6,7 +6,7 @@ summary: 'Who do you need to bring to the table to make a better world? In May, 
 authors:
   - awichman
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Our Work
   - DigitalGov Summit

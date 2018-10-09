@@ -7,7 +7,7 @@ authors:
   - georgia-gallavin
 topics:
   - api
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - api

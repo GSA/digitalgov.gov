@@ -7,7 +7,7 @@ authors:
   - sarah-ward
   - deborah-bennett
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - National Library of Medicine

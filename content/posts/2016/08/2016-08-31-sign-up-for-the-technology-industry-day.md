@@ -6,9 +6,9 @@ summary: 'The General Services Administration (GSA) is known for managing federa
 authors:
   - gsa-blog-team
 topics:
-  - Code
+  - code
   - Data
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - 18f
   - agile

@@ -7,9 +7,9 @@ authors:
   - rflagg
 topics:
   - api
-  - Content
+  - content
   - CMS
-  - Content Management System
+  - content-management-system
   - content strategy
   - metadata
   - open source

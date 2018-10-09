@@ -7,12 +7,12 @@ authors:
   - tjohnson
 topics:
   - Communities
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - strategy-and-policy
   - AoI
   - mobile
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

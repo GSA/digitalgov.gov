@@ -7,8 +7,8 @@ authors:
   - victoria-wales
   - darren-b-lurie
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - content
   - marketing

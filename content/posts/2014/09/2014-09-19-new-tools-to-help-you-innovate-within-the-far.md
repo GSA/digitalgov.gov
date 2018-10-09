@@ -6,7 +6,7 @@ summary: Outdated development practices and narrow interpretations of acquisitio
 authors:
   - andreanocesigritz
 topics:
-  - Managing Digital
+  - managing-digital
   - regulation
 ---
 

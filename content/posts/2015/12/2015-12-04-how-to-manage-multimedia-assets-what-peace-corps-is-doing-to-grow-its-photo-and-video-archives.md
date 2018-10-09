@@ -6,7 +6,7 @@ summary: When Alex Snyder started working at Peace Corps a few years ago, he had
 authors:
   - danielle-brigida
 topics:
-  - Social Media
+  - social-media
   - multimedia
   - Peace Corps
 ---

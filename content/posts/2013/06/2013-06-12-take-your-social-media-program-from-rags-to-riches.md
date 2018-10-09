@@ -6,7 +6,7 @@ summary: Are you a small or even one-deep government social media team who wonde
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - social media
   - SocialGov
   - USTDA

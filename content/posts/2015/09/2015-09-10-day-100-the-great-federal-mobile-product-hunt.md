@@ -6,9 +6,9 @@ summary: ' A long time ago in a federal agency building far, far away on F Stree
 authors:
   - courtney-greenley
 topics:
-  - Mobile
+  - mobile
   - HHS
-  - mobile apps
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
   - National Institutes of Health

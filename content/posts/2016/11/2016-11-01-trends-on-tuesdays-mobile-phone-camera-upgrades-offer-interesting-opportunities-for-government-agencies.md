@@ -6,15 +6,15 @@ summary: 'Professional photographer and early &ldquo;iPhonography&rdquo; pioneer
 authors:
   - wsullivan
 topics:
-  - Content
-  - Managing Digital
-  - Social Media
+  - content
+  - managing-digital
+  - social-media
   - Video
   - app
   - audio-video
   - content
   - mobile
-  - mobile apps
+  - mobile-apps
   - native app
   - native apps
   - social media

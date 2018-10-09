@@ -6,7 +6,7 @@ summary: As government contact centers, we all face financial and technological 
 authors:
   - rosetta-carrington-lue
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - government contact centers

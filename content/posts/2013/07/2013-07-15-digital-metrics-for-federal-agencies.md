@@ -6,7 +6,7 @@ summary: 'Digital metrics are critical for measuring, analyzing, and reporting o
 authors:
   - marina-fox
 topics:
-  - Metrics
+  - metrics
   - Our Work
   - customer satisfaction
   - mobile

@@ -7,7 +7,7 @@ authors:
   - robert-jacoby
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - HHS
   - United States Department of Health and Human Services

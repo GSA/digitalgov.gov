@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - Communities
-  - Social Media
+  - social-media
   - aiDS-gov
   - Americans with Disabilities Act
   - AoI

@@ -7,8 +7,8 @@ authors:
   - sara-smith
   - janet-linton
 topics:
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - National Institutes of Health
   - NIH
 ---

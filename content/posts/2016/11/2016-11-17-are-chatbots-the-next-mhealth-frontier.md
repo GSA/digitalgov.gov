@@ -7,15 +7,15 @@ authors:
   - lindy-dreyer
   - torey-vanek
 topics:
-  - Content
-  - Mobile
-  - Social Media
+  - content
+  - mobile
+  - social-media
   - strategy-and-policy
   - app
   - chatbots
   - HHS
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Institutes of Health
   - NIH
   - sms

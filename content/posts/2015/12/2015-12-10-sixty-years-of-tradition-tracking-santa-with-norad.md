@@ -6,8 +6,8 @@ summary: '&#8216;Twas the night before Christmas, when all through the house, No
 authors:
   - nramprasad
 topics:
-  - Mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - NORAD
   - North American Defense Command
   - SSA

@@ -6,11 +6,11 @@ summary: 'The pursuit of happiness for many of us might mean a fresh new start a
 authors:
   - jparcell
 topics:
-  - Code
-  - Mobile
+  - code
+  - mobile
   - api
   - Census
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
   - United States Census Bureau
 ---

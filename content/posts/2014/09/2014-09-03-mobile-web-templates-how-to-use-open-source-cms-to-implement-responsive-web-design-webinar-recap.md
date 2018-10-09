@@ -6,14 +6,14 @@ summary: 'Most of us in the DigitalGov community recognize that responsive Web d
 authors:
   - ellen-arnold-losey
 topics:
-  - Mobile
+  - mobile
   - api
   - CMS
-  - Content Management System
+  - content-management-system
   - content models
   - drupal
   - IMLS
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - open and structured content models
   - open source
   - Recaps

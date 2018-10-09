@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - api
-  - Code
+  - code
   - user-testing-and-research
   - UX
   - 18f

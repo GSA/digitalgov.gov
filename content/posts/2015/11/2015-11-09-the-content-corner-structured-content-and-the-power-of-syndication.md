@@ -6,8 +6,8 @@ summary: 'A recent DigitalGov webinar on syndicated content and the recent achie
 authors:
   - tyrus-manuel
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - Monthly Theme
   - api
   - CDC
@@ -17,7 +17,7 @@ topics:
   - FDA
   - HHS
   - mobile
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - National Institutes of Health
   - NIH
   - open and structured content models

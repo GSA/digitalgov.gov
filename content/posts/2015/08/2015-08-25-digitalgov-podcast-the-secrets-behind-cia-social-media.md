@@ -6,7 +6,7 @@ summary: 'Julia Child and the OSS Recipe for Shark Repellent: http://t.co/q3cC4Q
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - Central Intelligence Agency
   - CIA
   - podcast

@@ -6,7 +6,7 @@ summary: Thunderclap is the latest social media and crowd-sourcing platform avai
 authors:
   - bsteele
 topics:
-  - Social Media
+  - social-media
   - strategy-and-policy
   - social media
   - Terms of Service

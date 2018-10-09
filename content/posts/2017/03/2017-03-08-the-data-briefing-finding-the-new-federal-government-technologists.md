@@ -6,7 +6,7 @@ summary: This week, I want to briefly discuss the human resources challenges in 
 authors:
   - bbrantley
 topics:
-  - Managing Digital
+  - managing-digital
   - acquisition
   - human resources
   - The Data Briefing

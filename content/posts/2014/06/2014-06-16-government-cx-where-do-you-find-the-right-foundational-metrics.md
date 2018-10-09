@@ -6,8 +6,8 @@ summary: 'Customer service. Customer satisfaction. Improving the customer experi
 authors:
   - stephanie-thum
 topics:
-  - Managing Digital
-  - Metrics
+  - managing-digital
+  - metrics
   - Customer Experience
   - customer satisfaction
   - Export-Import Bank of the United States

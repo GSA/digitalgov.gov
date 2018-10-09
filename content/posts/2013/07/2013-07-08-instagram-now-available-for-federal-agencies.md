@@ -6,8 +6,8 @@ summary: Instagram is the latest mobile and social media tool available to feder
 authors:
   - bsteele
 topics:
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - GSA
   - Instagram
   - SocialGov

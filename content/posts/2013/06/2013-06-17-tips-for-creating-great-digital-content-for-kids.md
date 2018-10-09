@@ -8,7 +8,7 @@ authors:
   - emily-canis
   - jill-james
 topics:
-  - Content
+  - content
   - UX
   - Customer Experience
   - HHS

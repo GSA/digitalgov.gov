@@ -6,7 +6,7 @@ summary: 'VA Innovators Network Program Selected as FedHealth IT Innovation Awar
 authors:
   - va-center-for-innovation
 topics:
-  - Design
+  - design
   - UX
   - innovation
   - US Department of Veterans Affairs

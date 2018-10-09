@@ -6,12 +6,12 @@ summary: 'We&#8217;re excited to launch a complete redesign of USDA.gov featurin
 authors:
   - peter-rhee
 topics:
-  - Design
-  - Managing Digital
-  - Mobile
+  - design
+  - managing-digital
+  - mobile
   - user-testing-and-research
   - CMS
-  - Content Management System
+  - content-management-system
   - Draft Web Design Standards
   - mobile
   - mobile-friendly

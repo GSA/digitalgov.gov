@@ -6,7 +6,7 @@ summary: Federal workers need to know more in social media than just how to send
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - DGU
   - social media
   - SocialGov

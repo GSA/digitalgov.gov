@@ -6,7 +6,7 @@ summary: Customers are not the only group with whom we need to effectively commu
 authors:
   - alison-sturgeon
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - Customer Experience Community of Practice

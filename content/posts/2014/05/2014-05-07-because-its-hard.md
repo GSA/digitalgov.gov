@@ -6,8 +6,8 @@ summary: Two years ago, federal agencies were set on a fast track to create a 21
 authors:
   - gwynne-kostin
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - Monthly Theme
   - Our Work
   - strategy-and-policy

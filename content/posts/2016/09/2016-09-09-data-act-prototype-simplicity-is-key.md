@@ -7,10 +7,10 @@ authors:
   - cm-lubinski
   - becky-sweger
 topics:
-  - Code
+  - code
   - Data
   - Governance
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - 18f
   - best practices

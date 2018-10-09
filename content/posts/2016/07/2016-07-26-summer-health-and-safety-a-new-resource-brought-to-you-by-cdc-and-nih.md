@@ -6,8 +6,8 @@ summary: 'We have previously written about microsites in the federal government.
 authors:
   - christen-geiler
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - UX
   - CDC
   - Centers for Disease Control and Prevention

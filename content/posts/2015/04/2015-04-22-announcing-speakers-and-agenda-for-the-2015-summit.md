@@ -6,7 +6,7 @@ summary: ' We are busting at the seams with excitement because the DigitalGov Ci
 authors:
   - apiazza
 topics:
-  - Managing Digital
+  - managing-digital
   - Our Work
   - DigitalGov Summit
 ---

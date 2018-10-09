@@ -6,8 +6,8 @@ summary: 'On Friday, we made a big change over on the USA.gov blog&mdash;we turn
 authors:
   - jessica-milcetich
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - Facebook
   - social media
   - Twitter

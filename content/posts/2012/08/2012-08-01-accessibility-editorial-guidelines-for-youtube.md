@@ -7,7 +7,7 @@ authors:
   - lgodfrey
 topics:
   - accessibility
-  - Content
+  - content
   - Video
   - accessibility
   - GobiernoUSAgov

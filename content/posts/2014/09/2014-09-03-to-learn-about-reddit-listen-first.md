@@ -6,7 +6,7 @@ summary: Reddit began in 2006 as an online bulletin board. Registered users post
 authors:
   - judith-snyderman
 topics:
-  - Social Media
+  - social-media
   - Recaps
   - social media
 ---

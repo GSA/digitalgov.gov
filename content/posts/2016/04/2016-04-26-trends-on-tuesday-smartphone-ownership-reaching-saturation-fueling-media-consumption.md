@@ -6,8 +6,8 @@ summary: 'ComScore released a report with a lot of great data about how mobile d
 authors:
   - wsullivan
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - Facebook
   - Instagram
   - LinkedIn

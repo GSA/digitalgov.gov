@@ -6,7 +6,7 @@ summary: 'The art of storytelling has been around since the dawn of mankind. Sto
 authors:
   - awichman
 topics:
-  - Content
+  - content
   - Video
   - content strategy
   - EPA

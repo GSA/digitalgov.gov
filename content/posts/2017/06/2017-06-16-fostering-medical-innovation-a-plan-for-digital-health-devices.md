@@ -7,7 +7,7 @@ authors:
   - scott-gottlieb-m-d
 topics:
   - Governance
-  - Mobile
+  - mobile
   - strategy-and-policy
   - Digital Health Innovation Plan
   - FDA

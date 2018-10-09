@@ -6,7 +6,7 @@ summary: 'Last year Google began changing their search ranking algorithm to dire
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - analytics-usa-gov
   - Digital Analytics Program
   - mobile-friendly

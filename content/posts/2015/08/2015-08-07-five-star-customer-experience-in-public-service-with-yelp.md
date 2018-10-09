@@ -6,7 +6,7 @@ summary: ' Adding customer satisfaction ratings and reviews to public services j
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - api
   - DOT
   - SocialGov

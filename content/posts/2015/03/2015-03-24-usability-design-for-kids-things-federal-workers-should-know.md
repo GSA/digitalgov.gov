@@ -7,7 +7,7 @@ authors:
   - justin-dopke
 topics:
   - accessibility
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - accessibility

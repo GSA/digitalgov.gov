@@ -6,7 +6,7 @@ summary: 'As the product manager of Sites, my job is to make sure that our servi
 authors:
   - coqui-aspiazu
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Our Work
   - CMS

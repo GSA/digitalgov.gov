@@ -6,8 +6,8 @@ summary: 'The first phase of our partnership with Facebook included Facebook &#8
 authors:
   - jessica-milcetich
 topics:
-  - Metrics
-  - Social Media
+  - metrics
+  - social-media
   - analytics
   - analytics-usa-gov
   - Facebook

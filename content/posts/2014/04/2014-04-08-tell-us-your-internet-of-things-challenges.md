@@ -6,9 +6,9 @@ summary: The Internet of Things, a concept approaching reality, is best describe
 authors:
   - jparcell
 topics:
-  - Managing Digital
-  - Mobile
-  - Social Media
+  - managing-digital
+  - mobile
+  - social-media
   - Federal Trade Commission
   - Internet of things
 ---

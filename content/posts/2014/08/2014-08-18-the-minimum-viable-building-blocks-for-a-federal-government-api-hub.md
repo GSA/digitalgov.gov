@@ -7,7 +7,7 @@ authors:
   - kin-lane
 topics:
   - api
-  - Code
+  - code
   - api
   - developer hub
 ---

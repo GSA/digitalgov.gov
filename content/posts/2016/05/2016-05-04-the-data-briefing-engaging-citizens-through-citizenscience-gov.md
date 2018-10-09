@@ -6,7 +6,7 @@ summary: 'Last month, I worked to create a &ldquo;Citizen Science Passport&rdquo
 authors:
   - bbrantley
 topics:
-  - Code
+  - code
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing

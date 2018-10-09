@@ -14,7 +14,7 @@ topics:
   - Augmented Reality
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - NPS
   - social media
   - US National Park Service

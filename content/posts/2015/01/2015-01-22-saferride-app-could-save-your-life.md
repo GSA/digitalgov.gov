@@ -6,8 +6,8 @@ summary: 'One death every 52 minutes. That’s how frequently someone died in cr
 authors:
   - kdowney
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - DOT
   - National Highway Traffic Safety Administration
   - native app

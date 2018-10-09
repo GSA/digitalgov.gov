@@ -6,16 +6,16 @@ summary: 'I recently interviewed Daniel Kuhns, Web Manager at FEMA, about the si
 authors:
   - christen-geiler
 topics:
-  - Code
-  - Content
-  - Managing Digital
-  - Mobile
+  - code
+  - content
+  - managing-digital
+  - mobile
   - content
   - content strategy
   - content syndication
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - multilingual
 ---
 

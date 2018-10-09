@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - accessibility
-  - Managing Digital
+  - managing-digital
   - UX
   - accessibility
   - DHS

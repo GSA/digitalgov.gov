@@ -6,7 +6,7 @@ summary: 'Built on the lessons learned during the pilot phase of the Digital Acq
 authors:
   - duane-rollins
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - 18f
   - acquisition

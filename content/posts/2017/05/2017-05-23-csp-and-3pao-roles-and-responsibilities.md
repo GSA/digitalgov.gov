@@ -6,8 +6,8 @@ summary: 'We wanted to share some high-level guidance for CSPs and 3PAOs we crea
 authors:
   - fedramp
 topics:
-  - Code
-  - Managing Digital
+  - code
+  - managing-digital
   - cloud
   - FedRAMP
   - security

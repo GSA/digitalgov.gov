@@ -6,11 +6,11 @@ summary: 'It might surprise some of you to know that artificial intelligence (AI
 authors:
   - christen-geiler
 topics:
-  - Code
-  - Content
+  - code
+  - content
   - Data
-  - Managing Digital
-  - Metrics
+  - managing-digital
+  - metrics
   - user-testing-and-research
   - UX
   - ai

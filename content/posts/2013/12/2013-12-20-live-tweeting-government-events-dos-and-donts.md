@@ -6,7 +6,7 @@ summary: ' In this time of tight travel budgets, not everyone can make it to eve
 authors:
   - sara-harris-smith
 topics:
-  - Social Media
+  - social-media
   - social media
   - Twitter
 ---

@@ -6,14 +6,14 @@ summary: 'Every second counts, even those precious two or three seconds it takes
 authors:
   - jparcell
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - Monthly Theme
   - analytics
   - HHS
   - mobile
-  - mobile testing
-  - Mobile UX Guideline 4
+  - mobile-testing
+  - mobile-ux-guideline-4
   - Recaps
   - United States Department of Health and Human Services
 ---

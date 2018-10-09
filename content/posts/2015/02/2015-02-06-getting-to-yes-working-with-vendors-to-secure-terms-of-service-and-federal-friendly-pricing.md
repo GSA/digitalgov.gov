@@ -8,7 +8,7 @@ authors:
   - kathryn-hambleton
 topics:
   - Communities
-  - Social Media
+  - social-media
   - AoI
   - HHS
   - Recaps

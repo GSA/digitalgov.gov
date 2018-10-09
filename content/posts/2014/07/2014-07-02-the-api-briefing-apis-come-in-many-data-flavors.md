@@ -12,8 +12,8 @@ topics:
   - DOL
   - FAA
   - Federal Aviation Administration
-  - mobile apps
-  - Mobile Code Catalog
+  - mobile-apps
+  - mobile-code-catalog
   - OPM
   - US Department of Labor
   - United States Census Bureau

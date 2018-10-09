@@ -6,8 +6,8 @@ summary: 'If you were to perform research on the value proposition of training v
 authors:
   - tim-jakubowski
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - user-testing-and-research
   - UX
   - Video

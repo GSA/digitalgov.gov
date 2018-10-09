@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - Data
-  - Mobile
+  - mobile
   - data-gov
   - DOT
   - US Department of Agriculture

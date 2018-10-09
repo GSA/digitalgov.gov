@@ -6,7 +6,7 @@ summary: 'We routinely publish our best practices in the 18F Guides, and today w
 authors:
   - melody-kramer
 topics:
-  - Code
+  - code
   - Writing
   - 18f
   - GitHub

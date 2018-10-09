@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - analytics
   - BBG
   - Broadcasting Board of Governors

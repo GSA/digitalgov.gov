@@ -6,7 +6,7 @@ summary: ' Our work at the General Services Administration encompass many of the
 authors:
   - phaedra-chrousos
 topics:
-  - Managing Digital
+  - managing-digital
   - data-gov
   - National Action Plan on Open Government
   - open government

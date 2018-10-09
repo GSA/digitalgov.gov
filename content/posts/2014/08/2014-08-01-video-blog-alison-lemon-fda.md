@@ -6,7 +6,7 @@ summary: 'We wanted to learn a little more about the Office of Women&#8217;s Hea
 authors:
   - andreanocesigritz
 topics:
-  - Social Media
+  - social-media
   - FDA
   - SocialGov Community
   - US Food and Drug Administration

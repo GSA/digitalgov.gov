@@ -7,10 +7,10 @@ authors:
   - bbrantley
 topics:
   - api
-  - Code
-  - Mobile
+  - code
+  - mobile
   - UX
-  - mobile apps
+  - mobile-apps
   - US Department of State
   - wednesday-api-briefing
 ---

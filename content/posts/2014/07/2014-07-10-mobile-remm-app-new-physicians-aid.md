@@ -6,7 +6,7 @@ summary: 'The Department of Health and Human Service’s Mobile REMM App provide
 authors:
   - katie-steffy
 topics:
-  - Mobile
+  - mobile
   - CDC
   - Centers for Disease Control and Prevention
   - EPA
@@ -14,8 +14,8 @@ topics:
   - Federal Emergency Management Agency
   - FEMA
   - HHS
-  - mobile apps
-  - mobile gov
+  - mobile-apps
+  - mobile-gov
   - NRC
   - Nuclear Regulatory Commission
   - Thursday Mobile Products

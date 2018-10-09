@@ -6,17 +6,17 @@ summary: 'Mobile. It’s here, and it’s here to stay! Agencies in all areas of
 authors:
   - byrhonda-lyons
 topics:
-  - Mobile
+  - mobile
   - abmc
   - american-battle-monuments-commission
   - BBG
   - Broadcasting Board of Governors
   - ICE
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-5
   - National Oceanic and Atmospheric Administration
   - native apps
   - NOAA

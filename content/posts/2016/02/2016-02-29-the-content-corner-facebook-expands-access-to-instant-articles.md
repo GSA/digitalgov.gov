@@ -6,9 +6,9 @@ summary: As I begin to wind down my time at The Content Corner, I have realized 
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - Monthly Theme
-  - Social Media
+  - social-media
   - content models
   - Facebook
   - open and structured content models

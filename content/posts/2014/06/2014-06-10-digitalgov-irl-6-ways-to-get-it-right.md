@@ -6,14 +6,14 @@ summary: 'This morning I was walking down 18th Street, crossing Pennsylvania Ave
 authors:
   - gwynne-kostin
 topics:
-  - Content
+  - content
   - Data
-  - Mobile
+  - mobile
   - UX
   - Department of Commerce
   - FCC
   - FEMA
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - National Weather Service
   - NOAA
   - open data

@@ -6,8 +6,8 @@ summary: 'Making Mobile Gov was a three phase multi-media project created by the
 authors:
   - jparcell
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - Our Work
   - GSA
   - mobile

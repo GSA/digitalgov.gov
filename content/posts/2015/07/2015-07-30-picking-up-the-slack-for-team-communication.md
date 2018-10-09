@@ -6,7 +6,7 @@ summary: ' You have a question about a project. You ping a coworker, who texts a
 authors:
   - awichman
 topics:
-  - Social Media
+  - social-media
   - SocialGov Community
   - State
   - TOS

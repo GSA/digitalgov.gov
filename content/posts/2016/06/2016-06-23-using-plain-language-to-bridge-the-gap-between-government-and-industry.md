@@ -6,8 +6,8 @@ summary: Much of our work with government partners to deliver better digital ser
 authors:
   - ryan-sibley
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - 18f
   - agile

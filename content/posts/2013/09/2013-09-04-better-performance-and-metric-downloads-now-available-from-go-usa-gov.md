@@ -6,9 +6,9 @@ summary: A few weeks ago, the Go.USA.gov URL shortener introduced several new fe
 authors:
   - michelle-chronister
 topics:
-  - Code
-  - Metrics
-  - Social Media
+  - code
+  - metrics
+  - social-media
   - social media metrics
   - USAgov
 ---

@@ -6,7 +6,7 @@ summary: ' It’s one of the most important words to a federal social media acco
 authors:
   - dorothy-amatucci
 topics:
-  - Social Media
+  - social-media
   - DGU
   - Facebook
   - social media

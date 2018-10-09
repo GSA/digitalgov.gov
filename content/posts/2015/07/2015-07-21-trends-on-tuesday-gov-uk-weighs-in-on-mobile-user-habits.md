@@ -6,11 +6,11 @@ summary: ' England’s Government Digital Service (similar to our own U.S. Digit
 authors:
   - wsullivan
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - COPE
   - mobile
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - mobile-first
   - mobile-friendly
   - open and structured content models

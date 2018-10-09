@@ -6,7 +6,7 @@ summary: 'This summer I announced the the release of our new Health IT Services 
 authors:
   - mary-davie
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - Federal Health IT Strategic Plan
   - GSA

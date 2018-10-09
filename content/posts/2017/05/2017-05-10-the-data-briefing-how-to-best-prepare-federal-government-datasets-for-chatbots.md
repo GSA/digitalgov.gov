@@ -7,8 +7,8 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - ai
   - apps
   - artificial intelligence
@@ -17,7 +17,7 @@ topics:
   - chatbots
   - data
   - innovation
-  - mobile apps
+  - mobile-apps
   - open data
   - responsive web design
   - The Data Briefing

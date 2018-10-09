@@ -7,8 +7,8 @@ authors:
   - jherman
 topics:
   - Communities
-  - Metrics
-  - Social Media
+  - metrics
+  - social-media
   - AoI
   - SocialGov
   - SocialGov Community

@@ -6,11 +6,11 @@ summary: 'We continue our celebration of American history and legacy this July 2
 authors:
   - nirmala-ramprasad
 topics:
-  - Mobile
+  - mobile
   - DAP
   - Digital Analytics Program
   - ios
-  - mobile apps
+  - mobile-apps
   - NASA
   - Smithsonian Institution
   - Thursday Mobile Products

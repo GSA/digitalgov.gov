@@ -6,11 +6,11 @@ summary: ' Analytics company, Localytics, released a new report about mobile app
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - 18f
   - ios
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-5
   - native app
   - Trends on Tuesday
 ---

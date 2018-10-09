@@ -6,13 +6,13 @@ summary: 'With January, and the tearing off of the old calendar, comes the annua
 authors:
   - andreanocesigritz
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - Monthly Theme
   - accessibility
   - data
-  - mobile apps
-  - MobileGov
+  - mobile-apps
+  - mobile-gov
   - open data
   - social media
   - SocialGov

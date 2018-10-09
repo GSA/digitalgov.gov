@@ -6,11 +6,11 @@ summary: 'Much is being said and written about the coming Mobilegeddon/Mopocalyp
 authors:
   - dmccleskey
 topics:
-  - Mobile
+  - mobile
   - DigitalGov Search
   - mobile
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-5
   - mobile-friendly
   - Plain language
   - responsive web design

@@ -7,7 +7,7 @@ authors:
   - dominic-mcdevitt-parks
 topics:
   - api
-  - Content
+  - content
   - Data
   - NARA
   - National Archives and Records Administration

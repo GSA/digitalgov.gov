@@ -6,8 +6,8 @@ summary: 'We recently interviewed Sara Wachter-Boettcher, author of Content Ever
 authors:
   - christen-geiler
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - content
   - content models

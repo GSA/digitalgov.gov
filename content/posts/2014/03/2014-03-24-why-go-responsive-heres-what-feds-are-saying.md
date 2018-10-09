@@ -6,11 +6,11 @@ summary: ' Responsive Web design implementations in the federal government have 
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - FEMA
   - mobile
-  - mobile apps
-  - mobile gov
+  - mobile-apps
+  - mobile-gov
   - Recaps
   - responsive web design
   - US Department of Education

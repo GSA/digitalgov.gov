@@ -7,7 +7,7 @@ authors:
   - jason-duley
 topics:
   - api
-  - Code
+  - code
   - Data
   - api
   - apps challenges

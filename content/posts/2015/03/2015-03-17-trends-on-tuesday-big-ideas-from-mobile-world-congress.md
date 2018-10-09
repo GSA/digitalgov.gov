@@ -6,11 +6,11 @@ summary: ' Mobile World Congress, the world’s largest mobile infrastructure, s
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - Internet of things
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 6
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-6
   - Trends on Tuesday
   - virtual reality
   - Virtual/Augmented Reality Community

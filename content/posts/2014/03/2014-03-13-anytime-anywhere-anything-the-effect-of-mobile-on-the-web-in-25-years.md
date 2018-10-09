@@ -6,12 +6,12 @@ summary: 'In 25 years, imagine a world where anytime, anywhere, any device is ju
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - Census
   - content syndication
   - DOL
   - Internet of things
-  - Mobile Code Catalog
+  - mobile-code-catalog
   - mobile-first
   - NOAA
   - open and structured content models

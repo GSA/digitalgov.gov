@@ -6,9 +6,9 @@ summary: 'In July, comScore released a research paper, The Global Mobile Report:
 authors:
   - wsullivan
 topics:
-  - Mobile
   - mobile
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - mobile-friendly
   - Trends on Tuesday

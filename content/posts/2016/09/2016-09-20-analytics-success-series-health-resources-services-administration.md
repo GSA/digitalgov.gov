@@ -9,7 +9,7 @@ authors:
   - richard-morey
 topics:
   - Data
-  - Metrics
+  - metrics
   - Our Work
   - analytics
   - content

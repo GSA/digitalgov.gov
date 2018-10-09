@@ -7,7 +7,7 @@ authors:
   - jamal-mazrui
 topics:
   - accessibility
-  - Social Media
+  - social-media
   - accessibility
   - FCC
   - Federal Communications Commission

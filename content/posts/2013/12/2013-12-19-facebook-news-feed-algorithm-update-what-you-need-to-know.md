@@ -6,7 +6,7 @@ summary: 'Facebook announced they are refining their algorithm this week to bett
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - Facebook
 ---
 

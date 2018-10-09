@@ -6,11 +6,11 @@ summary: 'Smaller doesn&#8217;t mean more popular when it comes to smartphone sc
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - user-testing-and-research
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-4
   - Trends on Tuesday
 ---
 

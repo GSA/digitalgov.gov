@@ -6,14 +6,14 @@ summary: 'Practice makes perfect. But in the mobile world, it’s testing that m
 authors:
   - david-fern
 topics:
-  - Mobile
+  - mobile
   - Our Work
   - UX
   - Defense Finance and Accounting Services
   - Federal CrowdSource Mobile Testing Program
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-4
   - responsive web design
   - Trends on Tuesday
   - United States Department of Energy

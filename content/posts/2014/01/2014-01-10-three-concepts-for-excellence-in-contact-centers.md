@@ -7,7 +7,7 @@ authors:
   - mary-ann-monroe
 topics:
   - Communities
-  - Managing Digital
+  - managing-digital
   - AoI
   - Customer Experience
   - customer satisfaction

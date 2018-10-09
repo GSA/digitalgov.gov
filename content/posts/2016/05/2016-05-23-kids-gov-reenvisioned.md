@@ -6,8 +6,8 @@ summary: 'At USAGov, we always put our customers first. In the wake of our rebra
 authors:
   - megan-fella
 topics:
-  - Design
-  - Managing Digital
+  - design
+  - managing-digital
   - strategy-and-policy
   - user-testing-and-research
   - UX

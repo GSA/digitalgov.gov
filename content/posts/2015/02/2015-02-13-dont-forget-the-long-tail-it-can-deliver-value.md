@@ -6,7 +6,7 @@ summary: 'Top tasks matter. Visitors come to your website with specific goals in
 authors:
   - ammie-farraj-feijoo
 topics:
-  - Content
+  - content
   - Monthly Theme
   - Our Work
   - analytics

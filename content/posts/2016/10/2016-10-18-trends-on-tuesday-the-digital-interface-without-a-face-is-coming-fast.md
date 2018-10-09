@@ -6,8 +6,8 @@ summary: The seemingly sci-fi world envisioned in the movie Her is very close to
 authors:
   - wsullivan
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - ai
   - artificial intelligence
   - chatbots

@@ -6,7 +6,7 @@ summary: 'The Federal Office of Child Support Enforcement at the Administration 
 authors:
   - crystal-peeler
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - Customer Experience

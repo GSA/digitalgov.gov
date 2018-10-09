@@ -6,7 +6,7 @@ summary: 'We all know listening to your customers is important. Not just reading
 authors:
   - jonathan-rubin
 topics:
-  - Design
+  - design
   - UX
   - data-gov
   - usability case study

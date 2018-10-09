@@ -6,8 +6,8 @@ summary: Can you imagine how frustrating and confusing it would be to find sever
 authors:
   - lgodfrey
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - ANLE
   - Customer Experience
   - GobiernoUSAgov

@@ -6,7 +6,7 @@ summary: One of the most important jobs for an organization is to think about th
 authors:
   - katie-messner
 topics:
-  - Content
+  - content
   - UX
   - content strategy
   - usability

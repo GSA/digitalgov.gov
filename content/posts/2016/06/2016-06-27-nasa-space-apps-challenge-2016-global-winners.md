@@ -7,15 +7,15 @@ authors:
   - beth-beck
 topics:
   - Challenges
-  - Mobile
+  - mobile
   - apps challenges
   - challenges and prize competitions
   - crowdsourcing
   - innovation
   - mobile
-  - mobile apps
-  - mobile gov
-  - MobileGov
+  - mobile-apps
+  - mobile-gov
+  - mobile-gov
   - NASA
   - open data
   - open government

@@ -6,7 +6,7 @@ summary: 'Tag managers can assist in collecting valuable data about visits to yo
 authors:
   - cfpb-digital-analytics-team
 topics:
-  - Code
+  - code
   - Data
   - Monthly Theme
   - analytics

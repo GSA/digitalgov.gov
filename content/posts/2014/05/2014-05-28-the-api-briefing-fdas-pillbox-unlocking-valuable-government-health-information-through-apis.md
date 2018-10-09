@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Code
+  - code
   - Data
   - strategy-and-policy
   - api

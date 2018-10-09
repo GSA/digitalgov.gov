@@ -6,15 +6,15 @@ summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver 
 authors:
   - jparcell
 topics:
-  - Code
-  - Mobile
+  - code
+  - mobile
   - Our Work
   - accessibility
   - api
   - mobile
-  - Mobile App Development Program
-  - mobile gov
-  - MobileGov
+  - mobile-app-development-program
+  - mobile-gov
+  - mobile-gov
 ---
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg)Anytime, Anywhere, Any Device.

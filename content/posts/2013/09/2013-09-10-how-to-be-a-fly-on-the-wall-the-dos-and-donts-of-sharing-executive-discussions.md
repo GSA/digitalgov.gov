@@ -6,9 +6,9 @@ summary: 'A sure way to drive employees crazy is to never share what executives 
 authors:
   - david-hebert
 topics:
-  - Content
-  - Managing Digital
-  - Social Media
+  - content
+  - managing-digital
+  - social-media
 ---
 
 A sure way to drive employees crazy is to never share what executives discuss or decide until a new mandate lands on the organization’s collective head. While senior leaders should expect some privacy in decision-making and debate, they should also expect to openly hold themselves accountable and to make sure their employees know where the organization is headed.

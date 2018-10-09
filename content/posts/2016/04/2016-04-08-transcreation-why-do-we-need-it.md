@@ -6,8 +6,8 @@ summary: Transcreation is a relatively new term that blends the words translatio
 authors:
   - andrea-m-castelluccio
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - Writing
   - content strategy
   - GobiernoUSAgov

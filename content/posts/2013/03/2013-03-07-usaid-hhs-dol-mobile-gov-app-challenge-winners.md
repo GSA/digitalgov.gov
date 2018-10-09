@@ -5,11 +5,11 @@ title: 'USAID, HHS & DOL Mobile Gov App Challenge Winners'
 summary: One way federal agencies create Mobile Gov products is through third party development. Some agencies use platforms like Challenge.gov to get the word out to developers and there have been 3 mobile app challenge awards so far this
 topics:
   - Challenges
-  - Mobile
+  - mobile
   - DOL
   - HHS
-  - mobile apps
-  - mobile gov
+  - mobile-apps
+  - mobile-gov
   - Thursday Mobile Products
   - US Department of Labor
   - United States Department of Health and Human Services

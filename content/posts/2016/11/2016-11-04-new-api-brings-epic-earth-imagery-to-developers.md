@@ -7,8 +7,8 @@ authors:
   - veronica-phillips
 topics:
   - api
-  - Code
-  - Content
+  - code
+  - content
   - Data
   - api
   - code

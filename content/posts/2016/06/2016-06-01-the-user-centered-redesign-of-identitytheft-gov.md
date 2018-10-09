@@ -6,8 +6,8 @@ summary: 'I first came across the redesigned IdentityTheft.gov on Reddit, of all
 authors:
   - melody-kramer
 topics:
-  - Design
-  - Managing Digital
+  - design
+  - managing-digital
   - strategy-and-policy
   - user-testing-and-research
   - UX

@@ -6,7 +6,7 @@ summary: Cyber Monday, billed as one of the busiest online-commerce days of the 
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - mobile
   - mobile-first
   - Trends on Tuesday

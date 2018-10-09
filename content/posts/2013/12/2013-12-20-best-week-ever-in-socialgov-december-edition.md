@@ -6,7 +6,7 @@ summary: '(This is the next installment of an ongoing series charting the progra
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - DoD
   - Facebook
   - United States Department of Defense

@@ -6,8 +6,8 @@ summary: 'Mobile Future recently released this infographic about the proliferati
 authors:
   - lisa-gelobter
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - mobile-first
   - Trends on Tuesday
 ---

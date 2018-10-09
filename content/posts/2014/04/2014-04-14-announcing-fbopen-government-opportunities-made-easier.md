@@ -7,7 +7,7 @@ authors:
   - alison-rowland
   - aaron-snow
 topics:
-  - Code
+  - code
   - 18f
   - GitHub
   - GSA

@@ -6,7 +6,7 @@ summary: 'Incorporating usability testing throughout the entire design process, 
 authors:
   - tlowden
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - DigitalGov User Experience Program

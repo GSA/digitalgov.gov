@@ -6,7 +6,7 @@ summary: 'We recently sat down with Lisa Danzig, who’s leading work at the Off
 authors:
   - rflagg
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - customer satisfaction

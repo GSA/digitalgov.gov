@@ -6,8 +6,8 @@ summary: 'The Digital Analytics Program (DAP) offers no cost, hosted web analyti
 authors:
   - lisa-bari
 topics:
-  - Metrics
-  - Mobile
+  - metrics
+  - mobile
   - analytics
   - best practices
   - DAP

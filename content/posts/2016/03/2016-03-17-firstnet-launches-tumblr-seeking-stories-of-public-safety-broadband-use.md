@@ -6,7 +6,7 @@ summary: 'FirstNet is a relatively new &ldquo;startup&rdquo; federal government 
 authors:
   - kyle-s-richardson
 topics:
-  - Social Media
+  - social-media
   - 'National Telecommunications and Information Administration'
   - NTIA
 ---

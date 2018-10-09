@@ -6,8 +6,8 @@ summary: 'Meet Hannah Rubin, who works in the Congressional Research Service (CR
 authors:
   - rflagg
 topics:
-  - Content
-  - Metrics
+  - content
+  - metrics
   - user-testing-and-research
   - DigitalGov User Experience Program
   - Library of Congress

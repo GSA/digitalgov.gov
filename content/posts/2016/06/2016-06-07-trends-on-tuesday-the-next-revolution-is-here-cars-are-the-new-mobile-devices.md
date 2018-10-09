@@ -6,7 +6,7 @@ summary: 'Last week, Recode published an article focused on a recent report from
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - mobile
   - Trends on Tuesday
 ---

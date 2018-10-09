@@ -6,7 +6,7 @@ summary: 'I recently met with more than 50 representatives from the top IT servi
 authors:
   - mary-davie
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - acquisition
 ---

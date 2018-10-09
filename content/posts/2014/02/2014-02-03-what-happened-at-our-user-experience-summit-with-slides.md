@@ -6,12 +6,12 @@ summary: ' We were hoping for 30, but we got more than 100 user experience profe
 authors:
   - jonathan-rubin
 topics:
-  - Mobile
+  - mobile
   - user-testing-and-research
   - UX
   - DigitalGov User Experience Program
   - FDA
-  - Mobile App Development Program
+  - mobile-app-development-program
   - NCI
   - OMB
   - PRA

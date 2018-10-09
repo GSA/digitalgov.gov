@@ -7,7 +7,7 @@ authors:
   - awichman
   - dan-kenny
 topics:
-  - Social Media
+  - social-media
   - Federal Reserve Board
   - FRB
   - GSA

@@ -6,11 +6,11 @@ summary: 'In honor of Veterans Day, several VA mobile apps are featured this wee
 authors:
   - melissa-heintz
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - app
   - mobile
-  - mobile apps
+  - mobile-apps
   - US Department of Veterans Affairs
   - VA
 ---

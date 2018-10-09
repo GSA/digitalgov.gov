@@ -6,7 +6,7 @@ summary: 'The National Archives Catalog has reached a milestone: we now have 95%
 authors:
   - david-s-ferriero
 topics:
-  - Managing Digital
+  - managing-digital
   - data
   - digital records
   - NARA

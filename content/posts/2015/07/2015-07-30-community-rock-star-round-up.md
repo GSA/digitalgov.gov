@@ -15,7 +15,7 @@ topics:
   - GSA
   - HHS
   - ICE
-  - MobileGov
+  - mobile-gov
   - NCI
   - NIH
   - Office of the Director of National Intelligence

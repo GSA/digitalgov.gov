@@ -6,11 +6,11 @@ summary: ' The U.S. Department of Housing and Urban Development (HUD) has develo
 authors:
   - michael-niedzwiecki
 topics:
-  - Code
-  - Mobile
+  - code
+  - mobile
   - drupal
   - HUD
-  - mobile gov
+  - mobile-gov
   - responsive web design
   - Thursday Mobile Products
   - United States Department of Housing and Urban Development

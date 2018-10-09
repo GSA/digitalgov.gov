@@ -6,7 +6,7 @@ summary: 'The federal government has caught the customer experience bug. We want
 authors:
   - tonya-beres
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - customer service

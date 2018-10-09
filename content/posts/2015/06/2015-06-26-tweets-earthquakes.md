@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - api
   - data
   - data visualization

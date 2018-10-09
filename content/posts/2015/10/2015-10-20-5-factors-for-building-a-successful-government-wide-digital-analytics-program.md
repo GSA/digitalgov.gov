@@ -7,7 +7,7 @@ authors:
   - gwynne-kostin
   - marina-fox
 topics:
-  - Metrics
+  - metrics
   - 18f
   - analytics
   - customer service

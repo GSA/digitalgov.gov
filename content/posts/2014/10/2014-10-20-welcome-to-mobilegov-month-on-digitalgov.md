@@ -6,7 +6,7 @@ summary: ' What’s your mobile itch? A long time ago at a workshop not so far a
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - CDC
   - Centers for Disease Control and Prevention
@@ -16,7 +16,7 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - HHS
   - mobile
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - native app
   - open and structured content models
   - responsive web design

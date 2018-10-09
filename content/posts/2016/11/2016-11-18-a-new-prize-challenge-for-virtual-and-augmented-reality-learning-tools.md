@@ -8,7 +8,7 @@ authors:
   - albert-palacios
 topics:
   - Challenges
-  - Mobile
+  - mobile
   - apps challenges
   - Augmented Reality
   - challenges and prize competitions

@@ -6,12 +6,12 @@ summary: There are several things federal agencies need to think about in the mo
 authors:
   - ktrebon
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - mobile
-  - mobile apps
-  - mobile gov
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-gov
+  - mobile-ux-guideline-5
   - National Cancer Institute
   - NCI
   - responsive web design

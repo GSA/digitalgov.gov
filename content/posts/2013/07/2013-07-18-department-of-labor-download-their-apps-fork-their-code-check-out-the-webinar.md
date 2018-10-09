@@ -6,10 +6,10 @@ summary: 'The Department of Labor&#8217;s DOL Timesheet, OSHA Heat Index Tool an
 authors:
   - michael-niedzwiecki
 topics:
-  - Code
-  - Mobile
+  - code
+  - mobile
   - DOL
-  - mobile apps
+  - mobile-apps
   - OSHA
   - US Department of Labor
 ---

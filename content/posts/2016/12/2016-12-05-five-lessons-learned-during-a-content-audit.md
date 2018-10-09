@@ -6,8 +6,8 @@ summary: 'As part of USAGov’s efforts to provide our audience with the reliabl
 authors:
   - andrea-m-castelluccio
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - content
   - USAgov

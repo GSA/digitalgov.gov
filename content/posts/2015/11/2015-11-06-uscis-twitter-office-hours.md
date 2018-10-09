@@ -6,7 +6,7 @@ summary: 'On September 1, U.S. Citizenship and Immigration Services (USCIS) host
 authors:
   - uscis-staff
 topics:
-  - Social Media
+  - social-media
   - Education
   - EPA
   - FAFSA

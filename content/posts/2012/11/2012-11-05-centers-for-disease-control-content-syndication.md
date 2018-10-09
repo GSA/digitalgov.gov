@@ -5,10 +5,10 @@ title: Centers for Disease Control Content Syndication
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Centers for Disease Control and Prevention. The Centers for Disease Control and Prevention (CDC) uses content syndication to share important health information with a variety of federal public'
 topics:
   - api
-  - Mobile
+  - mobile
   - api
   - CDC
-  - Mobile Gov Experience
+  - mobile-gov-experience
   - structured content
 ---
 

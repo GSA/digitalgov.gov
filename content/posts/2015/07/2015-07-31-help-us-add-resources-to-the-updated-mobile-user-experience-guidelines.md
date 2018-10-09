@@ -6,16 +6,16 @@ summary: 'Government agencies need to make sure their mobile websites and native
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - UX
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
-  - Mobile UX Guideline 6
-  - MobileGov
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-5
+  - mobile-ux-guideline-6
+  - mobile-gov
   - native apps
   - responsive web design
   - security

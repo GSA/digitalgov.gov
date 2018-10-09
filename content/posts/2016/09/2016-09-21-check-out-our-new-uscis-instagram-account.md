@@ -6,8 +6,8 @@ summary: We are fortunate to meet amazing immigrants every day and share in thei
 authors:
   - uscis-staff
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - strategy-and-policy
   - content
   - content strategy

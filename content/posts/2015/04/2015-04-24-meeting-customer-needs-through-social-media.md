@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - analytics
   - Customer Experience
   - customer service

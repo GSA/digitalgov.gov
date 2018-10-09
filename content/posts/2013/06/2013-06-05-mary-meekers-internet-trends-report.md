@@ -6,11 +6,11 @@ summary: 'Techcrunch. com reports Mary Meeker’s much anticipated annual Intern
 authors:
   - jparcell
 topics:
-  - Code
-  - Content
-  - Managing Digital
-  - Mobile
-  - Social Media
+  - code
+  - content
+  - managing-digital
+  - mobile
+  - social-media
   - UX
   - Making Mobile Gov
 ---

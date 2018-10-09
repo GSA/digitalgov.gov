@@ -9,7 +9,7 @@ authors:
   - jeffrey-levy
   - jessica-orquina
 topics:
-  - Social Media
+  - social-media
   - EPA
   - Facebook
   - GSA

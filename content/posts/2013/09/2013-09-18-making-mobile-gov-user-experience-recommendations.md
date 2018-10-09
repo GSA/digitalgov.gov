@@ -6,11 +6,11 @@ summary: 'How We Did It Last November, as part of revisiting the state of Mobile
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - UX
   - DOL
-  - mobile apps
-  - mobile gov community of practice
+  - mobile-apps
+  - mobile-gov-community-of-practice
   - NIH
   - US Department of Labor
   - user experience

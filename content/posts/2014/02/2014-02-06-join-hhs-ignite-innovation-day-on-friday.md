@@ -6,7 +6,7 @@ summary: 'This post was originally published on the IDEA Lab blog by Read Holman
 authors:
   - andreanocesigritz
 topics:
-  - Managing Digital
+  - managing-digital
   - HHS
   - innovation
 ---

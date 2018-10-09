@@ -13,12 +13,12 @@ authors:
 topics:
   - api
   - Challenges
-  - Content
+  - content
   - Data
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Social Media
+  - managing-digital
+  - metrics
+  - mobile
+  - social-media
   - UX
   - DOL
   - EPA

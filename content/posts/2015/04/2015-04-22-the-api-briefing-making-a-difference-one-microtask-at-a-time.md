@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - crowdsourcing-and-citizen-science
-  - Mobile
+  - mobile
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
@@ -16,7 +16,7 @@ topics:
   - FCPCCS
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
   - National Oceanic and Atmospheric Administration

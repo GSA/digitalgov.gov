@@ -6,7 +6,7 @@ summary: 'Every week my main goal is to usually provide new ways to help you fee
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
   - search engine optimization

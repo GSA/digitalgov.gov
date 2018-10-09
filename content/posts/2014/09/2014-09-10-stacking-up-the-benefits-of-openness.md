@@ -6,8 +6,8 @@ summary: Open government, open source, openness. These words are often used in t
 authors:
   - jeanne-holm
 topics:
-  - Code
-  - Social Media
+  - code
+  - social-media
   - data-gov
   - open government
   - open source

@@ -6,10 +6,10 @@ summary: 'As covered in the Mobile Product Testing Guidelines article, there are
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - user-testing-and-research
   - mobile
-  - mobile apps
+  - mobile-apps
   - responsive web design
 ---
 

@@ -6,7 +6,7 @@ summary: 'The CALC team is an agile team of four &#8212; six if you count the Sc
 authors:
   - alan-brouilette
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - user-testing-and-research
   - 18f

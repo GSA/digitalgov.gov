@@ -6,12 +6,12 @@ summary: 'Rome wasn&#8217;t built in a day. Neither are website redesigns. In li
 authors:
   - awichman
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - Monthly Theme
   - CMS
-  - Content Management System
-  - Mobile UX Guideline 1
+  - content-management-system
+  - mobile-ux-guideline-1
   - responsive web design
   - Thursday Mobile Products
   - US Department of Education

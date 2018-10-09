@@ -6,7 +6,7 @@ summary: 'Earlier this week, I shared with my colleagues at EXIM the results of 
 authors:
   - stephanie-thum
 topics:
-  - Managing Digital
+  - managing-digital
   - Customer Experience
   - customer satisfaction
   - customer service

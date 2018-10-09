@@ -6,10 +6,10 @@ summary: 'Here’s a statistic that might surprise you: 28% of Chief Information
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
-  - mobile gov community of practice
-  - Mobile UX Guideline 2
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-2
   - Trends on Tuesday
 ---
 

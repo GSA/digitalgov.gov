@@ -6,7 +6,7 @@ summary: 'The way people are using mobile is changing&mdash;we are socializing i
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
+  - mobile
   - Trends on Tuesday
 ---
 

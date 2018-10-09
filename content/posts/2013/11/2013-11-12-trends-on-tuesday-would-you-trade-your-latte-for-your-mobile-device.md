@@ -6,7 +6,7 @@ summary: ' Recently, Mobile Marketing Watch published Sprint&#8217;s interesting
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
+  - mobile
   - mobile
   - mobile-first
   - Trends on Tuesday

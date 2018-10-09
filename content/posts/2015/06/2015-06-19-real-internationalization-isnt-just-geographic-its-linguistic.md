@@ -10,7 +10,7 @@ authors:
   - edgardo-morales
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - GobiernoUSAgov
   - HHS
   - multilingual

@@ -6,7 +6,7 @@ summary: Trying to measure usability can be a head scratcher. How easy something
 authors:
   - georgia-gallavin
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - DigitalGov User Experience Program

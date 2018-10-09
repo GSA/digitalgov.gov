@@ -8,7 +8,7 @@ authors:
   - donna-dodson
 topics:
   - Data
-  - Mobile
+  - mobile
   - 'Strategy and Policy'
   - best practices
   - infrastructure

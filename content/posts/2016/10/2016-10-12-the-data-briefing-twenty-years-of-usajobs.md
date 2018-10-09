@@ -7,8 +7,8 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Managing Digital
-  - Metrics
+  - managing-digital
+  - metrics
   - strategy-and-policy
   - user-testing-and-research
   - UX

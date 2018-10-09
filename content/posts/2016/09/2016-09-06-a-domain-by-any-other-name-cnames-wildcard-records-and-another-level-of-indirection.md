@@ -6,7 +6,7 @@ summary: 'This is post 3 in the 5-part series The Right Tools for the Job: Re-Ho
 authors:
   - nick-marden
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Our Work
   - strategy-and-policy

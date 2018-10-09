@@ -7,9 +7,9 @@ authors:
   - lisa-wolfisch
 topics:
   - api
-  - Content
-  - Managing Digital
-  - Mobile
+  - content
+  - managing-digital
+  - mobile
   - api
   - Census
 ---

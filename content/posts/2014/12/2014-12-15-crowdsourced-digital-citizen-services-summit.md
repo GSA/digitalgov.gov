@@ -7,15 +7,15 @@ authors:
   - apiazza
 topics:
   - Challenges
-  - Code
-  - Content
+  - code
+  - content
   - crowdsourcing-and-citizen-science
-  - Managing Digital
-  - Metrics
-  - Mobile
+  - managing-digital
+  - metrics
+  - mobile
   - Monthly Theme
   - Our Work
-  - Social Media
+  - social-media
   - UX
   - crowdsourcing
   - DigitalGov Summit

@@ -6,9 +6,9 @@ summary: You have started developing your mobile product, but you may be wonderi
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - user-testing-and-research
-  - mobile apps
+  - mobile-apps
   - user experience
   - UX
 ---

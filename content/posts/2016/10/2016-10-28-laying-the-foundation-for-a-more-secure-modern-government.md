@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - Governance
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - best practices
   - cloud

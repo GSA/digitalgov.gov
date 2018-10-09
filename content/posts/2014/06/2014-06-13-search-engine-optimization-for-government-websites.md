@@ -6,8 +6,8 @@ summary: On June 10, 2014, the Metrics Community of Practice of the Federal Web 
 authors:
   - ammie-farraj-feijoo
 topics:
-  - Content
-  - Metrics
+  - content
+  - metrics
   - Our Work
   - DigitalGov Search
   - Recaps

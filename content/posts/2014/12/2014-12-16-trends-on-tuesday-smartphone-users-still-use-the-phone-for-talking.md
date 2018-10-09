@@ -6,13 +6,13 @@ summary: 'Smartphones are changing how organizations do business&mdash;they are 
 authors:
   - jparcell
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - Customer Experience
   - Government Contact Center Council
   - government contact centers
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

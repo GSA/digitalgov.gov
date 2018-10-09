@@ -6,7 +6,7 @@ summary: 'To enhance security, Twitter now offers two-step verification. The rel
 authors:
   - jason-kelly
 topics:
-  - Social Media
+  - social-media
   - security
   - SocialGov
   - Twitter

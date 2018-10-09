@@ -6,10 +6,10 @@ summary: A recent Trends on Tuesday post cautioned against becoming another stat
 authors:
   - zeshan-khan
 topics:
-  - Mobile
-  - Mobile App Development Program
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-app-development-program
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

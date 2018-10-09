@@ -6,10 +6,10 @@ summary: The rise of mobile device ownership is rapidly changing the way we, and
 authors:
   - tjohnson
 topics:
-  - Mobile
-  - Mobile App Development Program
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-app-development-program
+  - mobile-apps
+  - mobile-ux-guideline-5
   - National Oceanic and Atmospheric Administration
   - National Weather Service
   - NOAA

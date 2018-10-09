@@ -6,7 +6,7 @@ summary: 'If you have a website, then you most likely have cornerstone content&m
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - NPS
   - SEO

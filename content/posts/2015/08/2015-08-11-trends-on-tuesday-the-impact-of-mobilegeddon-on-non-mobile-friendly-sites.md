@@ -6,10 +6,10 @@ summary: 'Adobe released its quarterly Adobe Digital Index report this month, wh
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - DigitalGov Search
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
   - mobile-first
   - search engine optimization
   - Trends on Tuesday

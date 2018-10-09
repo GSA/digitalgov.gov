@@ -6,15 +6,15 @@ summary: 'It’s Saturday night: Do you know what your mobile app is doing? Secu
 authors:
   - awichman
 topics:
-  - Mobile
+  - mobile
   - Our Work
   - DHS
   - mobile
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 6
-  - MobileGov
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-6
+  - mobile-gov
   - Recaps
   - security
   - United States Department of Homeland Security

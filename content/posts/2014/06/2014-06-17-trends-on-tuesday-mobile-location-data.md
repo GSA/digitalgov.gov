@@ -6,11 +6,11 @@ summary: Imagine a world where your mobile device delivers ads for goods and ser
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
-  - Social Media
+  - social-media
   - GPS
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - NPS
   - Trends on Tuesday
   - US National Park Service

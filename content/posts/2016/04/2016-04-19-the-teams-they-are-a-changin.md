@@ -6,7 +6,7 @@ summary: 'Business people and developers must work together daily throughout the
 authors:
   - michael-torres
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - 18f
   - agile

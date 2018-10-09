@@ -6,11 +6,11 @@ summary: 'Sign up now to join fellow MobileGov Community of Practice members for
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - Census
   - DoD
   - DOL
-  - mobile gov community of practice
+  - mobile-gov-community-of-practice
   - US Department of Labor
   - US Department of State
   - United States Census Bureau

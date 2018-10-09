@@ -6,9 +6,9 @@ summary: 'The Web now contains over 1.51 billion pages of content, according to 
 authors:
   - rflagg
 topics:
-  - Content
+  - content
   - Monthly Theme
-  - Social Media
+  - social-media
   - GAO
   - NASA
   - Peace Corps

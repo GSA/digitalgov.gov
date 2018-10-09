@@ -6,7 +6,7 @@ summary: 'The mission of U.S. General Services Administration (GSA)&#8217;s Inte
 authors:
   - mary-davie
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - acquisition
   - GSA

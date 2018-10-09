@@ -6,7 +6,7 @@ summary: 'Last week, I had a brush with a bona fide music legend &mdash; the gre
 authors:
   - chris-lu
 topics:
-  - Managing Digital
+  - managing-digital
   - UX
   - accessibility
   - DOL

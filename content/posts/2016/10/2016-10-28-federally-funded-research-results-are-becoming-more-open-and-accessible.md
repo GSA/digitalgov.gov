@@ -7,7 +7,7 @@ authors:
   - jerry-sheehan
 topics:
   - Data
-  - Managing Digital
+  - managing-digital
   - content
   - data
   - DoD

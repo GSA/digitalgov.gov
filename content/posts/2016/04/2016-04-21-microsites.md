@@ -6,7 +6,7 @@ summary: 'Lately, we have been hearing a lot about microsites&mdash;CDC’s Zika
 authors:
   - christen-geiler
 topics:
-  - Content
+  - content
   - api
   - CDC
   - Centers for Disease Control and Prevention

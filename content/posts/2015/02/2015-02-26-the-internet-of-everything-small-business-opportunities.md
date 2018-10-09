@@ -7,7 +7,7 @@ authors:
   - david-a-bray
   - g-nagesh-rao
 topics:
-  - Managing Digital
+  - managing-digital
   - FCC
   - Federal Communications Commission
   - privacy

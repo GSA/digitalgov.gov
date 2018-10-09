@@ -7,8 +7,8 @@ authors:
   - jherman
   - meredith-stewart
 topics:
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - DOJ
   - FBI
   - Federal Bureau of Investigation

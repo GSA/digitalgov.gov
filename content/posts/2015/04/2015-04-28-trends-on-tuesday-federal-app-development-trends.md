@@ -6,14 +6,14 @@ summary: Mobile apps meet real world needs. App development is not a homogenous 
 authors:
   - awichman
 topics:
-  - Mobile
   - mobile
-  - Mobile App Development Program
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 6
+  - mobile
+  - mobile-app-development-program
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-6
   - Trends on Tuesday
 ---
 

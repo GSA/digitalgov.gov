@@ -7,7 +7,7 @@ authors:
   - scott-horvath
   - jessica-orquina
 topics:
-  - Social Media
+  - social-media
   - EPA
   - Facebook
   - social media

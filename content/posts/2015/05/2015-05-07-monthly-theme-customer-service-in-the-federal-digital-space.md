@@ -7,7 +7,7 @@ authors:
   - jparcell
   - awichman
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - customer satisfaction

@@ -6,12 +6,12 @@ summary: 'Around Q3, I was looking for way to test the HTML and CSS of an online
 authors:
   - angela-smithers
 topics:
-  - Code
-  - Design
-  - Mobile
+  - code
+  - design
+  - mobile
   - code
   - mobile
-  - mobile testing
+  - mobile-testing
   - National Ocean Service
   - National Oceanic and Atmospheric Administration
   - NOAA

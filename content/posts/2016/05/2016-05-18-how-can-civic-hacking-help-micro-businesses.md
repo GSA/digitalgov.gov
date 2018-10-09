@@ -6,7 +6,7 @@ summary: National Day of Civic Hacking on June 4th, D.C. Edition The fourth inst
 authors:
   - jack-bienko
 topics:
-  - Code
+  - code
   - Census
   - National Day of Civic Hacking
   - SBA

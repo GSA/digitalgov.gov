@@ -6,10 +6,10 @@ summary: 'Approximately 18% of websites have implemented Responsive Web Design, 
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-3
   - National Cancer Institute
   - NCI
   - responsive web design

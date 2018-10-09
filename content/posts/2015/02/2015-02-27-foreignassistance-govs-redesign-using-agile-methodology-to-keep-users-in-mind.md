@@ -6,7 +6,7 @@ summary: Content is one of the most important things about your site. After all,
 authors:
   - kdaniel
 topics:
-  - Content
+  - content
   - Monthly Theme
   - agile
   - Office of the U.S. Foreign Assistance Resources

@@ -7,9 +7,9 @@ authors:
   - lnelson
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - DOL
-  - Mobile Code Catalog
+  - mobile-code-catalog
   - open and structured content models
   - Open Opportunities program
   - US Department of Labor

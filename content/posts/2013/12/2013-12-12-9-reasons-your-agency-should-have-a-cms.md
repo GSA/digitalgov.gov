@@ -6,11 +6,11 @@ summary: 'Why Invest in a Content Management System? Does it take too long to up
 authors:
   - rflagg
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - CMS
-  - Content Management System
+  - content-management-system
 ---
 
 **[{{< legacy-img src="2013/12/nine-250x250.png" alt="Highway 9 sign" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/nine.png)Why Invest in a Content Management System?**

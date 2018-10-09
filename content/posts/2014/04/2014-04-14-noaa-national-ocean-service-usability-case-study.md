@@ -6,7 +6,7 @@ summary: 'For a small shop with a small staff, limited time, and a small budget,
 authors:
   - troy-kitch
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - DigitalGov Search

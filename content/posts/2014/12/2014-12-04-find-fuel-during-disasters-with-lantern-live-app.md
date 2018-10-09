@@ -6,7 +6,7 @@ summary: 'Who to call? Where to meet? What to pack? How to find fuel? Make sure 
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - mobile
   - native app
   - Thursday Mobile Products

@@ -6,8 +6,8 @@ summary: 'The U.S. Postal Service Mobile app can help you find a post office, ca
 authors:
   - kanika-tolver
 topics:
-  - Mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - Thursday Mobile Products
   - USPS
 ---

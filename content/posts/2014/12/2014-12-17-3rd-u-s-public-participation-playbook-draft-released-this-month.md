@@ -6,9 +6,9 @@ summary: 'The new third draft of the U.S. Public Participation Playbook continue
 authors:
   - jherman
 topics:
-  - Managing Digital
-  - Metrics
-  - Social Media
+  - managing-digital
+  - metrics
+  - social-media
   - Digital Services Playbook
   - National Action Plan on Open Government
 ---

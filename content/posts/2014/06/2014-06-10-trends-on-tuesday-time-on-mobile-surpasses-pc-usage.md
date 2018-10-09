@@ -6,7 +6,7 @@ summary: 'With the recent growth of smartphone and tablet ownership, it’s no s
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - mobile-first
   - Trends on Tuesday
 ---

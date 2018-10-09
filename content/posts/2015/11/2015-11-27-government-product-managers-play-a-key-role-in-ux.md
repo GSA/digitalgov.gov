@@ -6,8 +6,8 @@ summary: 'Government product managers sit at the intersection of three circles&m
 authors:
   - ktrebon
 topics:
-  - Design
-  - Managing Digital
+  - design
+  - managing-digital
   - Monthly Theme
   - user-testing-and-research
   - CFPB

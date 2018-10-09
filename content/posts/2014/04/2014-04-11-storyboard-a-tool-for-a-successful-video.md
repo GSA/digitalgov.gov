@@ -6,7 +6,7 @@ summary: 'The script is king when it comes to creating a video. Once you have th
 authors:
   - jini-ryan
 topics:
-  - Content
+  - content
   - Video
   - apps challenges
   - EPA

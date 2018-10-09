@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - Data
-  - Metrics
+  - metrics
   - Our Work
   - analytics
   - Customer Experience

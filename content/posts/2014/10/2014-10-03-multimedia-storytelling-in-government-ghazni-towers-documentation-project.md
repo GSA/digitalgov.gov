@@ -6,8 +6,8 @@ summary: '&#8220;Content is king&#8221; is a generally accepted truth for those 
 authors:
   - stephanie-sharpe
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - Video
   - DAP
   - multimedia

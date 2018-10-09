@@ -6,11 +6,11 @@ summary: 'It has finally happened: Mobile has bumped TV as America&#8217;s first
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - BLS
   - mobile
-  - Mobile App Development Program
-  - mobile apps
+  - mobile-app-development-program
+  - mobile-apps
   - Trends on Tuesday
   - US Bureau of Labor Statistics
 ---

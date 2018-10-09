@@ -6,10 +6,10 @@ summary: 'Related Event: Create Once, Publish Everywhere Applied&mdash;HHS Conte
 authors:
   - christen-geiler
 topics:
-  - Content
+  - content
   - CMS
   - content
-  - Content Management System
+  - content-management-system
   - content models
   - content syndication
   - drupal

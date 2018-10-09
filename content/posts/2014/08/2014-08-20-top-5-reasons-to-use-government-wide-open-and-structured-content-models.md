@@ -7,7 +7,7 @@ authors:
   - katie-steffy
 topics:
   - api
-  - Content
+  - content
   - api
   - content models
   - metadata

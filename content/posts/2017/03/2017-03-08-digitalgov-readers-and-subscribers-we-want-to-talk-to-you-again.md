@@ -6,8 +6,8 @@ summary: ' We at DigitalGov want to hear more about you &#8211; your job, your r
 authors:
   - digitalgov-team
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - Our Work
   - user-testing-and-research
   - UX

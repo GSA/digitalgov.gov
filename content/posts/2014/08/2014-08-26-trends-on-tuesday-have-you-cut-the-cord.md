@@ -6,11 +6,11 @@ summary: 'First, it was party lines. Then, it was the rotary phone. Now, two-in-
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - CDC
   - Centers for Disease Control and Prevention
   - mobile
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - mobile-first
   - native app
   - Trends on Tuesday

@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - Instagram
   - NPS
   - social media

@@ -10,7 +10,7 @@ authors:
   - joel-minton
   - tom-mills
 topics:
-  - Managing Digital
+  - managing-digital
   - 18f
   - CBP
   - Customer Experience

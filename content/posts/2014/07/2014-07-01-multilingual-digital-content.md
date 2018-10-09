@@ -7,7 +7,7 @@ authors:
   - lgodfrey
   - lmartinez
 topics:
-  - Content
+  - content
   - ANLE
   - CDC
   - Census

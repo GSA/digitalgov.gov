@@ -6,10 +6,10 @@ summary: 'Phablets, once mocked for their large size, may be the next big form f
 authors:
   - wsullivan
 topics:
-  - Mobile
   - mobile
-  - mobile gov
-  - MobileGov
+  - mobile
+  - mobile-gov
+  - mobile-gov
   - Trends on Tuesday
 ---
 

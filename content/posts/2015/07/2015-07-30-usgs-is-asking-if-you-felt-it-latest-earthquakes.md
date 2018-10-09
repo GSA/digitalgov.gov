@@ -6,10 +6,10 @@ summary: ' Having experienced everything from little tremors to violent shaking,
 authors:
   - nirmala-ramprasad
 topics:
-  - Mobile
+  - mobile
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - SSA
   - The United States Social Security Administration
   - Thursday Mobile Products

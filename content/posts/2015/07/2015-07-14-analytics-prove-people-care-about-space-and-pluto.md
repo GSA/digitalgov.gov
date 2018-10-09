@@ -7,7 +7,7 @@ authors:
   - tlowden
 topics:
   - Data
-  - Metrics
+  - metrics
   - analytics
   - DAP
   - Digital Analytics Program

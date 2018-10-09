@@ -6,10 +6,10 @@ summary: As the use of smartphones continues to grow, it has become even more im
 authors:
   - kdaniel
 topics:
-  - Mobile
+  - mobile
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - Mobile UX Guideline 4
+  - mobile-ux-guideline-4
   - responsive web design
   - Sites
   - Trends on Tuesday

@@ -6,7 +6,7 @@ summary: 'Several months or so ago, I raised the question of whether you and you
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - Writing
   - administrative-office-of-the-united-states-courts
   - blog

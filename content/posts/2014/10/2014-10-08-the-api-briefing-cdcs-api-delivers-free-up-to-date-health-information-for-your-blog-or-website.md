@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Code
+  - code
   - api
   - CDC
   - Centers for Disease Control and Prevention

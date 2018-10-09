@@ -6,8 +6,8 @@ summary: As localities struggle with issues such as the Zika virus and the Opioi
 authors:
   - christen-geiler
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - CDC
   - Centers for Disease Control and Prevention
   - content

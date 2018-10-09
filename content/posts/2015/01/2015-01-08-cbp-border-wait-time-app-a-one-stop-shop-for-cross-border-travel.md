@@ -6,7 +6,7 @@ summary: The new Border Wait Time app from U.S. Customs and Border Protection (C
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - CBP
   - DHS
   - ICE

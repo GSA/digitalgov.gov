@@ -6,10 +6,10 @@ summary: Looking to jumpstart your mobile website development? Check out the Web
 authors:
   - jparcell
 topics:
-  - Code
-  - Mobile
+  - code
+  - mobile
   - innovation
-  - mobile gov
+  - mobile-gov
 ---
 
 <p dir="ltr">

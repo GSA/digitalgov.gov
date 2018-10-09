@@ -6,7 +6,7 @@ summary: 'Jackie Rov of tmgmedia points out that with more than a billion smartp
 authors:
   - linda-v-priebe
 topics:
-  - Mobile
+  - mobile
   - innovation
   - mobile
   - Trends on Tuesday

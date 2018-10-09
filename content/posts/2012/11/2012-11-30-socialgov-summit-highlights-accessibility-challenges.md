@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - accessibility
-  - Social Media
+  - social-media
   - SocialGov
 ---
 

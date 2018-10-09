@@ -6,16 +6,16 @@ summary: Federal agencies are required by law (see the list of applicable ones h
 authors:
   - jparcell
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - Defense Intelligence Agency
   - DIA
   - DigitalGov Summit
   - Federal Trade Commission
   - FTC
   - Internet of things
-  - mobile gov community of practice
-  - Mobile UX Guideline 6
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-6
   - Privacy Impact Assessment
   - Trends on Tuesday
 ---

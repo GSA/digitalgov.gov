@@ -7,9 +7,9 @@ authors:
   - bbrantley
 topics:
   - api
-  - Code
+  - code
   - Data
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - UX
   - api

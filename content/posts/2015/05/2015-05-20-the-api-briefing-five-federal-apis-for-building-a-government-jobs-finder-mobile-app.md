@@ -9,7 +9,7 @@ topics:
   - api
   - api
   - DigitalGov Search
-  - mobile apps
+  - mobile-apps
   - wednesday-api-briefing
 ---
 

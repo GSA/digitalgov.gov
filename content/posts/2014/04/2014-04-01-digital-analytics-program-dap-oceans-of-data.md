@@ -7,7 +7,7 @@ authors:
   - marina-fox
 topics:
   - Data
-  - Metrics
+  - metrics
   - DAP
   - Digital Analytics Program
   - mobile

@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - analytics
   - National Institute of Standards and Technology
   - NIST

@@ -6,7 +6,7 @@ summary: 'When HHS’s Katie Gorscak was looking for a way to share Stopbullying
 authors:
   - jessica-milcetich
 topics:
-  - Social Media
+  - social-media
   - BLM
   - HHS
   - National Archives and Records Administration

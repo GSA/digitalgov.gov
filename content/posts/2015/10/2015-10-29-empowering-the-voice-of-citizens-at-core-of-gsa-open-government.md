@@ -6,9 +6,9 @@ summary: ' We are proud to announce our commitment to the third U.S. National Ac
 authors:
   - jherman
 topics:
-  - Managing Digital
+  - managing-digital
   - Our Work
-  - Social Media
+  - social-media
   - data-gov
   - National Action Plan on Open Government
   - open government

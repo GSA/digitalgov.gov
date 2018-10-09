@@ -6,7 +6,7 @@ summary: '  On Feb. 15, 2013, a meteor weighing 10,000 metric tons exploded 14 m
 authors:
   - jim-wilson
 topics:
-  - Metrics
+  - metrics
   - Our Work
   - DAP
   - Digital Analytics Program

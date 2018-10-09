@@ -7,11 +7,11 @@ authors:
   - jparcell
 topics:
   - accessibility
-  - Mobile
+  - mobile
   - "508"
   - accessibility
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 3
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-3
   - native apps
   - Trends on Tuesday
   - US Access Board

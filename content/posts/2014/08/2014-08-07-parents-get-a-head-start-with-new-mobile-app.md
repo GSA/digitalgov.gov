@@ -6,11 +6,11 @@ summary: 'As it&#8217;s time to return to school, the Health and Human Services 
 authors:
   - katie-steffy
 topics:
-  - Mobile
+  - mobile
   - HHS
-  - mobile apps
-  - mobile gov
-  - mobile gov community of practice
+  - mobile-apps
+  - mobile-gov
+  - mobile-gov-community-of-practice
   - Thursday Mobile Products
   - United States Department of Health and Human Services
 ---

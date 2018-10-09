@@ -7,7 +7,7 @@ authors:
   - carolyn-kaleel
 topics:
   - Communities
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Our Work
   - AoI

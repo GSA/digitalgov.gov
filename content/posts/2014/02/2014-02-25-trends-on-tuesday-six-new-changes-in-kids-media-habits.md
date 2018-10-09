@@ -6,9 +6,9 @@ summary: 'Children&#8217;s mobile media use has doubled and in some cases triple
 authors:
   - lisa-wilcox
 topics:
-  - Content
-  - Managing Digital
-  - Mobile
+  - content
+  - managing-digital
+  - mobile
   - mobile
   - Trends on Tuesday
 ---

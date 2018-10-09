@@ -6,8 +6,8 @@ summary: 'Josh Clark, one of the pioneers of touch Web design, and author of Tap
 authors:
   - wsullivan
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - mobile
   - responsive web design
   - Trends on Tuesday

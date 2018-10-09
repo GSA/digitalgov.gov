@@ -6,11 +6,11 @@ summary: Mobile Gov Experiences are agency stories about creating anytime, anywh
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - BIA
   - Bureau of Indian Affairs
   - mobile
-  - Mobile Gov Experience
+  - mobile-gov-experience
   - Tribal
   - Tribal Government
   - US Department of the Interior

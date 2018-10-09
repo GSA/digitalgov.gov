@@ -6,7 +6,7 @@ summary: 'This week the SocialGov Community took the step of recruiting a Digita
 authors:
   - alison-lemon
 topics:
-  - Social Media
+  - social-media
   - DOL
   - social media
   - SocialGov Community

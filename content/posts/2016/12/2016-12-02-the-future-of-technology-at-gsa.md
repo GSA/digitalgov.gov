@@ -6,7 +6,7 @@ summary: 'Our work can transform government The potential to transform governmen
 authors:
   - gsa-blog-team
 topics:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - 18f
   - GSA

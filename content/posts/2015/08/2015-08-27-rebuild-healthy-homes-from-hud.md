@@ -6,7 +6,7 @@ summary: We all know it is virtually impossible to prevent natural phenomena suc
 authors:
   - nramprasad
 topics:
-  - Mobile
+  - mobile
   - HUD
   - ios
   - mobile

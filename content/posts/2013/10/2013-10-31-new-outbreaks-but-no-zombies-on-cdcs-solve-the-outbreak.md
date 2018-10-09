@@ -6,9 +6,9 @@ summary: 'The Centers for Disease Control recently added three new outbreaks to 
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - CDC
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
 ---
 

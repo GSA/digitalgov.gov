@@ -6,7 +6,7 @@ summary: 'The Office of Personnel Management (OPM) is looking for agency subject
 authors:
   - andreanocesigritz
 topics:
-  - Managing Digital
+  - managing-digital
   - OPM
   - United States Office of Personnel Management
 ---

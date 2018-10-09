@@ -7,7 +7,7 @@ authors:
   - corinna-zarek
   - jherman
 topics:
-  - Social Media
+  - social-media
   - open government
   - SocialGov Community
 ---

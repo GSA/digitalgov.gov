@@ -6,7 +6,7 @@ summary: 'Someone has a problem they are trying to solve. They pull out their mo
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - DoD
   - Federal CrowdSource Mobile Testing Program

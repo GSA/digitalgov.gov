@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - crowdsourcing-and-citizen-science
-  - Mobile
+  - mobile
   - Monthly Theme
   - user-testing-and-research
   - citizen science
@@ -15,7 +15,7 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - gamification
   - ios
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - National Oceanic and Atmospheric Administration
   - NOAA
   - Thursday Mobile Products

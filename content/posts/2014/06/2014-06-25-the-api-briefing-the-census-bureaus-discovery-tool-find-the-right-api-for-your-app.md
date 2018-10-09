@@ -7,11 +7,11 @@ authors:
   - bbrantley
 topics:
   - api
-  - Code
-  - Managing Digital
-  - Mobile
+  - code
+  - managing-digital
+  - mobile
   - api
-  - mobile apps
+  - mobile-apps
   - native app
   - responsive web design
   - United States Census Bureau

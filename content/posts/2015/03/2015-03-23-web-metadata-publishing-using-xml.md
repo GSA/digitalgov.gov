@@ -7,15 +7,15 @@ authors:
   - bob-rand
 topics:
   - Data
-  - Mobile
+  - mobile
   - Monthly Theme
-  - Content Management System
+  - content-management-system
   - content models
   - data
   - Federal Register
   - metadata
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 6
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-6
   - open and structured content models
   - open data
   - SEC

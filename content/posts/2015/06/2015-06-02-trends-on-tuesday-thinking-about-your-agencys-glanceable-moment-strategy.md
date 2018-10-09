@@ -6,10 +6,10 @@ summary: 'Mobile device penetration is growing, with larger screens providing mo
 authors:
   - wsullivan
 topics:
-  - Mobile
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

@@ -7,9 +7,9 @@ authors:
   - nick-marden
   - dmccleskey
 topics:
-  - Code
+  - code
   - Data
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Our Work
   - strategy-and-policy

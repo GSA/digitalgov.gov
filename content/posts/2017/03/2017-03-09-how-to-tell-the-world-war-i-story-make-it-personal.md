@@ -6,8 +6,8 @@ summary: 'We naturally gravitate towards story-telling. It’s part of our human
 authors:
   - sarah-herrmann
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - abmc
   - american-battle-monuments-commission
   - content

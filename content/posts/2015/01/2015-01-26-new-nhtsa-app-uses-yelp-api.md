@@ -6,11 +6,11 @@ summary: 'The U.S. Department of Transportation and the National Highway Traffic
 authors:
   - glaceria-mason
 topics:
-  - Code
-  - Mobile
-  - Social Media
+  - code
+  - mobile
+  - social-media
   - DOT
-  - mobile apps
+  - mobile-apps
   - National Highway Traffic Safety Administration
   - NHTSA
   - Terms of Service

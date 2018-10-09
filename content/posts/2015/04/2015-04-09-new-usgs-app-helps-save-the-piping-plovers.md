@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - crowdsourcing-and-citizen-science
-  - Mobile
+  - mobile
   - crowdsourcing
   - Federal Mobile Products Registry
   - native app

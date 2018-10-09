@@ -6,16 +6,16 @@ summary: ' Government mobile code developed to help make tables mobile-friendly 
 authors:
   - jparcell
 topics:
-  - Code
-  - Mobile
+  - code
+  - mobile
   - code
   - Defense Finance and Accounting Services
   - DFAS
   - DOL
   - HHS
   - mobile
-  - Mobile Code Catalog
-  - Mobile UX Guideline 1
+  - mobile-code-catalog
+  - mobile-ux-guideline-1
   - responsive web design
   - Thursday Mobile Products
   - US Department of Labor

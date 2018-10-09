@@ -7,9 +7,9 @@ authors:
   - lgodfrey
 topics:
   - accessibility
-  - Content
-  - Design
-  - Managing Digital
+  - content
+  - design
+  - managing-digital
   - strategy-and-policy
   - UX
   - accessibility

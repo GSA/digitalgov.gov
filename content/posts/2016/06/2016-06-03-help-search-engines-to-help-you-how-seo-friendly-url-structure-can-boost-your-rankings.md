@@ -6,7 +6,7 @@ summary: Have you ever wished you could get inside the mind of Google? To figure
 authors:
   - cliff-tyllick
 topics:
-  - Content
+  - content
   - strategy-and-policy
   - search engine optimization
 ---

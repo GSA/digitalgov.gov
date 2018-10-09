@@ -6,7 +6,7 @@ summary: 'Now that Thunderclap has been approved for government use for nearly a
 authors:
   - alison-lemon
 topics:
-  - Social Media
+  - social-media
   - EPA
   - FDA
   - HHS

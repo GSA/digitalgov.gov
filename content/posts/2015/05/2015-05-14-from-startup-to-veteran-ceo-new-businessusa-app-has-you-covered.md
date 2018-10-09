@@ -6,9 +6,9 @@ summary: BusinessUSA is a centralized, one-stop platform to make it easy for bus
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - Department of Commerce
-  - mobile apps
+  - mobile-apps
   - SBA
   - Thursday Mobile Products
   - US Small Business Administration

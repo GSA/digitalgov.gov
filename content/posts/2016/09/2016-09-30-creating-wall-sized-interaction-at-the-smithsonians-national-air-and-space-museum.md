@@ -6,14 +6,14 @@ summary: 'As any experienced retailer will tell you, the customer experience beg
 authors:
   - ben-bloom
 topics:
-  - Content
-  - Design
+  - content
+  - design
   - user-testing-and-research
   - UX
   - content
   - content strategy
   - mobile
-  - mobile apps
+  - mobile-apps
   - NASM
   - National Air and Space Museum
   - Smithsonian Institution

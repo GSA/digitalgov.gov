@@ -6,7 +6,7 @@ summary: 'To provide great customer service, bring your agency’s customers to 
 authors:
   - awichman
 topics:
-  - Managing Digital
+  - managing-digital
   - Customer Experience
   - customer satisfaction
   - customer service

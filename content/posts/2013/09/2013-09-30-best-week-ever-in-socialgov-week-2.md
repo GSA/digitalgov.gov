@@ -6,7 +6,7 @@ summary: '(This is the second installment of an ongoing series charting the prog
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - accessibility
   - FAFSA
   - NASA

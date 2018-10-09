@@ -6,12 +6,12 @@ summary: Park websites on NPS.gov from A (Acadia) to Z (Zion) are now mobile-fri
 authors:
   - todd-edgar
 topics:
-  - Mobile
+  - mobile
   - analytics
-  - Content Management System
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 4
+  - content-management-system
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-4
   - mobile-friendly
   - NPS
   - responsive web design

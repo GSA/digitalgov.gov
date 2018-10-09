@@ -6,7 +6,7 @@ summary: With Web analytics tools you have the data to see what citizens really 
 authors:
   - sarah-kaczmarek
 topics:
-  - Metrics
+  - metrics
   - DAP
   - Digital Analytics Program
   - GAO

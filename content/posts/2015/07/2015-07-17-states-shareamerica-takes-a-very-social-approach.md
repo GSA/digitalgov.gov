@@ -6,7 +6,7 @@ summary: 'Social media is front and center at Share.America.gov, a U.S. Departme
 authors:
   - coqui-aspiazu
 topics:
-  - Content
+  - content
   - Our Work
   - Sites
   - sitesusagov

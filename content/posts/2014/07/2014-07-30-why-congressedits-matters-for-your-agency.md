@@ -7,7 +7,7 @@ authors:
   - dominic-mcdevitt-parks
 topics:
   - Monthly Theme
-  - Social Media
+  - social-media
   - HHS
   - NARA
   - National Archives and Records Administration

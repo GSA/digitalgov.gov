@@ -6,9 +6,9 @@ summary: 'Private industry and government came together to find best ways to del
 authors:
   - gsa-blog-team
 topics:
-  - Code
+  - code
   - Data
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - 18f
   - agile

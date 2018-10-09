@@ -4,13 +4,13 @@ date: 2014-09-04 13:18:46 -0400
 title: Census Promotes Mobile Apps Front and Center!
 summary: ' Those cutting edge folks over at Census have raised the bar again! Not only do they have three mobile apps that use their own APIs, but now everyone who visits Census.gov is presented with an'
 topics:
-  - Mobile
+  - mobile
   - api
   - Census
   - Federal Mobile Products Registry
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - social media
   - Thursday Mobile Products
   - United States Census Bureau

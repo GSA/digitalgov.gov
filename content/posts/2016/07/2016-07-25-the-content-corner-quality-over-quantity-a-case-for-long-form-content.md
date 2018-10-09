@@ -6,10 +6,10 @@ summary: 'Content can be categorized in many ways. While breaking down your webs
 authors:
   - kyle-s-richardson
 topics:
-  - Content
-  - Managing Digital
-  - Mobile
-  - Social Media
+  - content
+  - managing-digital
+  - mobile
+  - social-media
   - analytics
   - analytics-usa-gov
   - content

@@ -6,10 +6,10 @@ summary: '&ldquo;There’s an app for that.&rdquo; New data from app analytics p
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - Facebook
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
   - Twitter

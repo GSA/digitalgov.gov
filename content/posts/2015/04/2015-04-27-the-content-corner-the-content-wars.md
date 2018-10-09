@@ -6,8 +6,8 @@ summary: One of the most interesting trends forming at the start of 2015 is the 
 authors:
   - tyrus-manuel
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - administrative-office-of-the-united-states-courts
   - content strategy
   - Facebook

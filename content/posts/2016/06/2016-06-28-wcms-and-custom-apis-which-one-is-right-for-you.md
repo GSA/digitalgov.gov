@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - api
-  - Mobile
+  - mobile
   - strategy-and-policy
   - api
   - CMS

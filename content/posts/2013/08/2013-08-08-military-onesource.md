@@ -6,7 +6,7 @@ summary: 'Members of the military and their families now have access to Military
 authors:
   - michael-niedzwiecki
 topics:
-  - Mobile
+  - mobile
   - DoD
   - Thursday Mobile Products
   - United States Department of Defense

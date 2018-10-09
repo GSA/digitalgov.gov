@@ -6,7 +6,7 @@ summary: 'As we all continue to wrestle with the &ldquo;content beast&rdquo;, on
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - content strategy
   - NASA

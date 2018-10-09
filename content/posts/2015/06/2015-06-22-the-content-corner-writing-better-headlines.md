@@ -6,7 +6,7 @@ summary: 'The clarity of a headline or title plays a critical role in whether yo
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - content strategy
   - The Content Corner

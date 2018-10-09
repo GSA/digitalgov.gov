@@ -6,11 +6,11 @@ summary: 'It’s time for a mobile pop quiz. How well do you know consumers and 
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - CDC
   - Census
   - Centers for Disease Control and Prevention
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
   - United States Census Bureau
 ---

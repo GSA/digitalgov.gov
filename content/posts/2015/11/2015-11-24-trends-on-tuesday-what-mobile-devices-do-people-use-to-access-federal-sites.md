@@ -6,8 +6,8 @@ summary: 'Mobile users of government websites are growing in double digit percen
 authors:
   - wsullivan
 topics:
-  - Metrics
-  - Mobile
+  - metrics
+  - mobile
   - analytics
   - DAP
   - Digital Analytics Program

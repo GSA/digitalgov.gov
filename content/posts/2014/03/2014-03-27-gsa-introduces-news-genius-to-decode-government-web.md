@@ -6,11 +6,11 @@ summary: ' The federal government can now unlock the collaborative &ldquo;genius
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - api
   - Defense Intelligence Agency
   - Internet of things
-  - mobile gov
+  - mobile-gov
   - SocialGov
   - US Small Business Administration
 ---

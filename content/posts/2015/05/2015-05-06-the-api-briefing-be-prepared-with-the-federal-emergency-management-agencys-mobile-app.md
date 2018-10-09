@@ -7,14 +7,14 @@ authors:
   - bbrantley
 topics:
   - api
-  - Mobile
+  - mobile
   - api
   - data
   - Federal Emergency Management Agency
   - FEMA
   - mobile
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-5
   - native app
   - wednesday-api-briefing
 ---

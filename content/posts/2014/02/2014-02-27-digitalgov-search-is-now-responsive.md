@@ -6,8 +6,8 @@ summary: 'We&#8217;ve redesigned our mobile search results page. It now uses a c
 authors:
   - ammie-farraj-feijoo
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - Our Work
   - DigitalGov Search
   - responsive web design

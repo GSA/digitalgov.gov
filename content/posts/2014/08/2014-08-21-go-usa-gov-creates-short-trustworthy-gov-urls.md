@@ -7,7 +7,7 @@ authors:
   - michelle-chronister
 topics:
   - api
-  - Content
+  - content
   - Monthly Theme
   - Our Work
   - GoUSAgov

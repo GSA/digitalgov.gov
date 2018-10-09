@@ -6,10 +6,10 @@ summary: 'These days you couldn’t be faulted for thinking your content managem
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
-  - Content Management System
-  - Mobile UX Guideline 1
+  - content-management-system
+  - mobile-ux-guideline-1
   - The Content Corner
 ---
 

@@ -6,13 +6,13 @@ summary: 'In the mobile world, every second matters. Mobile users are a finicky 
 authors:
   - jparcell
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - Monthly Theme
   - HHS
-  - mobile gov
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
+  - mobile-gov
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-4
   - responsive web design
   - Trends on Tuesday
   - United States Department of Health and Human Services

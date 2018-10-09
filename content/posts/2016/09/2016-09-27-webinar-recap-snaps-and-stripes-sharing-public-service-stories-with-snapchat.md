@@ -7,9 +7,9 @@ authors:
   - lisa-bari
 topics:
   - accessibility
-  - Content
-  - Managing Digital
-  - Social Media
+  - content
+  - managing-digital
+  - social-media
   - strategy-and-policy
   - UX
   - Video

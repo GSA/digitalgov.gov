@@ -8,10 +8,10 @@ authors:
   - barbara-walton
 topics:
   - Communities
-  - Content
+  - content
   - Data
-  - Managing Digital
-  - Metrics
+  - managing-digital
+  - metrics
   - AoI
   - content strategy
   - customer satisfaction

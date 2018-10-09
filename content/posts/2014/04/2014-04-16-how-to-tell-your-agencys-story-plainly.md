@@ -6,7 +6,7 @@ summary: 'You’ve got the right words, the active verbs, the carefully chosen a
 authors:
   - katherine-spivey
 topics:
-  - Content
+  - content
   - Writing
   - DGU
   - Plain language

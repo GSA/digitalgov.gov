@@ -7,7 +7,7 @@ authors:
   - jennifer-dorsey
   - mark-anthony
 topics:
-  - Social Media
+  - social-media
   - OPM
   - SocialGov Community
   - United States Office of Personnel Management

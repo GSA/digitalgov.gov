@@ -6,10 +6,10 @@ summary: 'Is it a phone or is it a tablet? The International Data Corporation (I
 authors:
   - jparcell
 topics:
-  - Mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

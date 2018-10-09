@@ -6,8 +6,8 @@ summary: 'The Office of the Federal Register’s mission &ldquo;informs citizens
 authors:
   - rachel-mundstock
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - Our Work
   - api
   - DigitalGov Search

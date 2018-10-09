@@ -6,7 +6,7 @@ summary: 'Guest post by Curtis Robert Burns, better known as Blogger Bob, at the
 authors:
   - blogger-bob
 topics:
-  - Social Media
+  - social-media
   - social media
 ---
 

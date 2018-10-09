@@ -5,12 +5,12 @@ title: Healthfinder.gov API
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Healthfinder.gov. The actual healthfinder.gov site was launched approximately twelve years ago, while the API is a fairly recent development that has occurred in the past year and'
 topics:
   - api
-  - Code
-  - Mobile
+  - code
+  - mobile
   - api
   - HHS
-  - mobile gov
-  - Mobile Gov Experience
+  - mobile-gov
+  - mobile-gov-experience
 ---
 
 _[{{< legacy-img src="2012/07/healthfinder-gov-website-api.png" alt="Screen shot of Healthfinder.gov's home page" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/healthfinder-gov-website-api.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Healthfinder.gov**__._

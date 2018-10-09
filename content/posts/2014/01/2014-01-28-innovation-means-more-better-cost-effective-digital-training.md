@@ -6,8 +6,8 @@ summary: A recent FedTech Magazine article asked,
 authors:
   - jherman
 topics:
-  - Managing Digital
-  - Social Media
+  - managing-digital
+  - social-media
   - CFPB
   - DGU
   - DoD

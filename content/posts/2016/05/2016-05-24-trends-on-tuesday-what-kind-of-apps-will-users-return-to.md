@@ -6,11 +6,11 @@ summary: 'Flurry Analytics, a mobile application analytics company owned by Yaho
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - analytics
   - metrics
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
 ---
 

@@ -6,7 +6,7 @@ summary: 'So you’ve done a couple of usability studies, and a few people are s
 authors:
   - wendy-littman
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - DOE

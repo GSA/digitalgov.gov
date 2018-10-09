@@ -6,9 +6,9 @@ summary: Gone are the days when you have to drive miles on a hot and humid after
 authors:
   - nramprasad
 topics:
-  - Mobile
+  - mobile
   - ios
-  - mobile apps
+  - mobile-apps
   - SSA
   - The United States Social Security Administration
   - Thursday Mobile Products

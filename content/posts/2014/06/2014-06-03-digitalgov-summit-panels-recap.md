@@ -7,12 +7,12 @@ authors:
   - darlene-gamble
 topics:
   - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Social Media
+  - code
+  - content
+  - managing-digital
+  - metrics
+  - mobile
+  - social-media
   - UX
   - administrative-office-of-the-united-states-courts
   - DOL

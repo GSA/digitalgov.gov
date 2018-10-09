@@ -6,11 +6,11 @@ summary: 'In our personal lives, most of us barely pay attention to Terms of Ser
 authors:
   - awichman
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - DOE
   - mobile
-  - Mobile UX Guideline 2
+  - mobile-ux-guideline-2
   - Terms of Service
   - TOS
   - United States Department of Energy

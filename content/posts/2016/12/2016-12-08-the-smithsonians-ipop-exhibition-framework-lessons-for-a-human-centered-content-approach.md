@@ -6,13 +6,13 @@ summary: 'One of the great challenges in designing a product &mdash; digital
 authors:
   - ben-bloom
 topics:
-  - Content
-  - Design
-  - Mobile
+  - content
+  - design
+  - mobile
   - UX
   - apps
   - Augmented Reality
-  - mobile apps
+  - mobile-apps
   - Smithsonian Institution
   - user experience
   - UX

@@ -6,7 +6,7 @@ summary: In September 2013, the Mobile Gov Community of Practice released user e
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - UX
   - mobile
   - UX

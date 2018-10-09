@@ -7,7 +7,7 @@ authors:
   - tonya-beres
 topics:
   - Communities
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - AoI
   - Customer Experience

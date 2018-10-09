@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - Communities
-  - Content
+  - content
   - AoI
   - api
   - Census

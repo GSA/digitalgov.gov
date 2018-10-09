@@ -6,7 +6,7 @@ summary: Functionality testing verifies that the functions of a product or servi
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - user-testing-and-research
   - mobile
   - UX

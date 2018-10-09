@@ -6,8 +6,8 @@ summary: 'I recently asked some friends&mdash;a group of intelligent, successful
 authors:
   - sarah-herrmann
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - abmc
   - american-battle-monuments-commission
   - content

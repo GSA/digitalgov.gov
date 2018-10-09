@@ -6,7 +6,7 @@ summary: 'Federal agency mobile implementation is an important aspect of the Dig
 authors:
   - justin-goldberger
 topics:
-  - Mobile
+  - mobile
   - api
   - mobile
   - mobile-first

@@ -6,7 +6,7 @@ summary: 'Since April of 2011 when President Obama signed Executive Order 13571 
 authors:
   - jacqueline-snee
 topics:
-  - Managing Digital
+  - managing-digital
   - Customer Experience
 ---
 

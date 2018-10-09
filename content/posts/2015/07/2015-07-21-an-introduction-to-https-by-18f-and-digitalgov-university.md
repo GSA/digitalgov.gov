@@ -7,8 +7,8 @@ authors:
   - eric-mill
   - gray-brooks
 topics:
-  - Code
-  - Content
+  - code
+  - content
   - 18f
   - Recaps
 ---

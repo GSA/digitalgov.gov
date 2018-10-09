@@ -6,7 +6,7 @@ summary: In the span of two days, I received as many emails from respectable con
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - blog
   - natural language generation

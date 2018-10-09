@@ -7,10 +7,10 @@ authors:
   - randy-abramson
 topics:
   - Communities
-  - Content
-  - Managing Digital
-  - Mobile
-  - Social Media
+  - content
+  - managing-digital
+  - mobile
+  - social-media
   - UX
   - Video
   - communities

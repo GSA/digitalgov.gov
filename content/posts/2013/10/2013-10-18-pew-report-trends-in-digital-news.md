@@ -6,8 +6,8 @@ summary: 'A report by the PEW Research Center, 12 trends for shaping digital new
 authors:
   - lnelson
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - user-testing-and-research
   - mobile
   - social media

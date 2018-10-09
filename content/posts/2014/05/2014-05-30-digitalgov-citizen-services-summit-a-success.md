@@ -7,13 +7,13 @@ authors:
   - apiazza
 topics:
   - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
+  - code
+  - content
+  - managing-digital
+  - metrics
+  - mobile
   - Our Work
-  - Social Media
+  - social-media
   - UX
   - DigitalGov Summit
   - mobile

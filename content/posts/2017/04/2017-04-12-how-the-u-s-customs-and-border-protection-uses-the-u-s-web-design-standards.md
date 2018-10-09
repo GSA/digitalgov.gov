@@ -6,7 +6,7 @@ summary: 'As mentioned in our recent Q&A with the team at NASA, the U.S. Web Des
 authors:
   - julia-elman
 topics:
-  - Design
+  - design
   - UX
   - 18f
   - accessibility

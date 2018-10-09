@@ -7,7 +7,7 @@ authors:
   - john-paul
 topics:
   - api
-  - Code
+  - code
   - Data
   - 18f
   - analytics-usa-gov

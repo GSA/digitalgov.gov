@@ -7,8 +7,8 @@ authors:
   - sarah-crane
 topics:
   - api
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - Monthly Theme
   - api
   - USAgov

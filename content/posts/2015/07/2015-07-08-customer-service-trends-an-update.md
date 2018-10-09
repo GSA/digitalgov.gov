@@ -6,7 +6,7 @@ summary: 'Earlier this year, we published 15 Government Customer Service Trends 
 authors:
   - martha-dorris
 topics:
-  - Managing Digital
+  - managing-digital
   - UX
   - agile
   - content syndication
@@ -18,7 +18,7 @@ topics:
   - Federal Emergency Management Agency
   - FEMA
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - Personas

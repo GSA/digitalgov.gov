@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - crowdsourcing-and-citizen-science
-  - Mobile
+  - mobile
   - Monthly Theme
   - apps challenges
   - Citizen Science and Crowdsourcing Community of Practice

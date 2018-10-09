@@ -6,11 +6,11 @@ summary: 'Piggybacking on one of my earlier posts, People are Crazy about Mobile
 authors:
   - lisa-wilcox
 topics:
-  - Content
-  - Managing Digital
-  - Mobile
+  - content
+  - managing-digital
   - mobile
-  - mobile gov
+  - mobile
+  - mobile-gov
   - responsive web design
   - Trends on Tuesday
 ---

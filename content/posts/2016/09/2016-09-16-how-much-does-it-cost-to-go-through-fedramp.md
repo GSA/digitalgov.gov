@@ -7,7 +7,7 @@ authors:
   - matt-goodrich
 topics:
   - Data
-  - Managing Digital
+  - managing-digital
   - cloud
   - data
   - FedRAMP

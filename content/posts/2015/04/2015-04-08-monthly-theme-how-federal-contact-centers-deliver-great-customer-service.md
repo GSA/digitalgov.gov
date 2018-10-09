@@ -6,7 +6,7 @@ summary: 'At the end of last year, DigitalGov posted an article predicting that 
 authors:
   - awichman
 topics:
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Customer Experience
   - customer satisfaction

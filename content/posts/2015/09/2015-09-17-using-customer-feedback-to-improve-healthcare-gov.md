@@ -6,7 +6,7 @@ summary: 'We recently polled the Customer Experience Community of Practice (CX-C
 authors:
   - jacqueline-snee
 topics:
-  - Managing Digital
+  - managing-digital
   - Centers for Medicare and Medicaid Services
   - Customer Experience
   - Customer Experience Community of Practice

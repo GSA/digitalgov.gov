@@ -6,9 +6,9 @@ summary: 'Spoiler Alert: Every year, billions of pounds of good food go to waste
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - ios
-  - mobile apps
+  - mobile-apps
   - native app
   - Thursday Mobile Products
   - US Department of Agriculture

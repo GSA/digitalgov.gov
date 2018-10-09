@@ -7,13 +7,13 @@ authors:
   - digitalgov-team
 topics:
   - accessibility
-  - Code
-  - Content
+  - code
+  - content
   - Data
-  - Design
-  - Managing Digital
-  - Metrics
-  - Mobile
+  - design
+  - managing-digital
+  - metrics
+  - mobile
   - strategy-and-policy
   - user-testing-and-research
   - UX

@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - Data
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - agile
   - agile-lean-community-of-practice

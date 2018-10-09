@@ -6,8 +6,8 @@ summary: ' DigitalGov has seen posts from members of the community who land on o
 authors:
   - sara-smith
 topics:
-  - Metrics
-  - Social Media
+  - metrics
+  - social-media
   - National Institutes of Health
   - NIH
   - social media

@@ -4,10 +4,10 @@ date: 2012-07-13 11:48:11 -0400
 title: 'Next in our Mobile Webinar Series: Mobile First!'
 summary: 'You need resources, and we are here to help with an excellent new webinar series to jump start your agency’s digital gov efforts. Do you think &#8220;mobile first&#8221;? A &#8220;mobile first&#8221; approach is where new websites and applications are designed for mobile devices first, instead'
 topics:
-  - Mobile
-  - mobile gov
+  - mobile
+  - mobile-gov
   - mobile-first
-  - MobileGov
+  - mobile-gov
   - National Institutes of Health
   - NIH
   - US Department of State

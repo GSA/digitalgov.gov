@@ -6,7 +6,7 @@ summary: 'Over the past several years, DigitalGov has been extremely focused on 
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - content models
   - open and structured content models

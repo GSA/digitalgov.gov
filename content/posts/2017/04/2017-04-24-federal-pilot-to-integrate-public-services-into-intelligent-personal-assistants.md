@@ -8,7 +8,7 @@ authors:
 topics:
   - Communities
   - emerging-tech
-  - Managing Digital
+  - managing-digital
   - Our Work
   - ai
   - artificial-intelligence

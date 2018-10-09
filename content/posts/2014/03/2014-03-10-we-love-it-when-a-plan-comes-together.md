@@ -9,7 +9,7 @@ authors:
 topics:
   - Challenges
   - Data
-  - Social Media
+  - social-media
   - CFPB
   - challenges and prize competitions
   - DOT

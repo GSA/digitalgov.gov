@@ -6,7 +6,7 @@ summary: 'Along a somewhat personal journey (that you have chosen to join) to be
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - content strategy
   - podcast

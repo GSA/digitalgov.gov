@@ -6,8 +6,8 @@ summary: 'Many of  our cloud service providers (CSPs), federal agencies, and thi
 authors:
   - fedramp
 topics:
-  - Code
-  - Managing Digital
+  - code
+  - managing-digital
   - cloud
   - FedRAMP
 ---

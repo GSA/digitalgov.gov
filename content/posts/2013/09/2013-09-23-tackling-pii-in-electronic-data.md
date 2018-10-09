@@ -6,8 +6,8 @@ summary: 'As non-lawyers peering into the legal world, be advised this post is n
 authors:
   - tlowden
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - strategy-and-policy
   - Privacy Impact Assessment
   - social media

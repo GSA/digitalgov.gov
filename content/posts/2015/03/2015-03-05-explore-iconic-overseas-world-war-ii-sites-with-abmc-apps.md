@@ -6,11 +6,11 @@ summary: 'We have not forgotten, we will never forget, the debt of infinite grat
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - strategy-and-policy
   - abmc
   - american-battle-monuments-commission
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
   - usa-gov-federal-mobile-apps-directory
 ---

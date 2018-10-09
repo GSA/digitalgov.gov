@@ -8,10 +8,10 @@ authors:
 topics:
   - api
   - Challenges
-  - Code
-  - Managing Digital
+  - code
+  - managing-digital
   - challenge-gov
-  - mobile apps
+  - mobile-apps
   - OPM
   - Peace Corps
   - United States Office of Personnel Management

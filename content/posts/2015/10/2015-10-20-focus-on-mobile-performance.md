@@ -6,7 +6,7 @@ summary: The New York Times recently published a report evaluating the cost of m
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - mobile
   - Trends on Tuesday

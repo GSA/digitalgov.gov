@@ -6,11 +6,11 @@ summary: The International Data Corporation (IDC) is forecasting a strong outloo
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - DGU
   - mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - mobile-first
   - native app
   - responsive web design

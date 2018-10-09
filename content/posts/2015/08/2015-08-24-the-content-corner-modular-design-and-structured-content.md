@@ -6,11 +6,11 @@ summary: 'Several months ago I discussed the concept of a world without Web page
 authors:
   - tyrus-manuel
 topics:
-  - Content
-  - Design
+  - content
+  - design
   - administrative-office-of-the-united-states-courts
   - content models
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - structured content
   - The Content Corner
 ---

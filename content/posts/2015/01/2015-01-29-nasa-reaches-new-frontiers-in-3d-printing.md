@@ -6,7 +6,7 @@ summary: '3D printing has gone out of this world. Earlier this month, DigitalGov
 authors:
   - awichman
 topics:
-  - Code
+  - code
   - Monthly Theme
   - challenges and prize competitions
   - NASA

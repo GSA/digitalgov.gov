@@ -6,9 +6,9 @@ summary: 'If you aren’t currently including email marketing in your digital ou
 authors:
   - nicholas-garlow
 topics:
-  - Content
-  - Metrics
-  - Social Media
+  - content
+  - metrics
+  - social-media
   - a-b-testing
   - HHS
   - United States Department of Health and Human Services

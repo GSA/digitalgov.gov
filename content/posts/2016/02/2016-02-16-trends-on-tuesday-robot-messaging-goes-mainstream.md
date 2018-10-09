@@ -6,8 +6,8 @@ summary: 'John Connor can&#8217;t save you. Robots are here to take over the wor
 authors:
   - wsullivan
 topics:
-  - Content
-  - Mobile
+  - content
+  - mobile
   - Monthly Theme
   - mobile
   - Trends on Tuesday

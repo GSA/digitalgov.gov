@@ -6,12 +6,12 @@ summary: 'A month ago, I wrote about the White House’s call for data scientist
 authors:
   - bbrantley
 topics:
-  - Code
+  - code
   - Data
   - api
   - data visualization
   - data-gov
-  - mobile apps
+  - mobile-apps
   - open data
   - The Data Briefing
   - US Department of Veterans Affairs

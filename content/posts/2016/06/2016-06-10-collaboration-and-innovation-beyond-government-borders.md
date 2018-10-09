@@ -6,7 +6,7 @@ summary: 'How to start an innovation movement: Connect innovators with fellow in
 authors:
   - awichman
 topics:
-  - Code
+  - code
   - Our Work
   - code
   - Open Opportunities program

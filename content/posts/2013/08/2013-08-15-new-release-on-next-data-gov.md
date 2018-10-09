@@ -6,7 +6,7 @@ summary: 'Since the launch of Next.Data.gov, your help and ideas have made it po
 authors:
   - sally-bourrie
 topics:
-  - Code
+  - code
   - Data
   - data-gov
   - GitHub

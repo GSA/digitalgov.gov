@@ -6,10 +6,10 @@ summary: 'September is National Preparedness Month. FEMA&#8217;s Ready.gov is en
 authors:
   - kyle-s-richardson
 topics:
-  - Content
-  - Managing Digital
-  - Mobile
-  - Social Media
+  - content
+  - managing-digital
+  - mobile
+  - social-media
   - strategy-and-policy
   - content
   - content strategy

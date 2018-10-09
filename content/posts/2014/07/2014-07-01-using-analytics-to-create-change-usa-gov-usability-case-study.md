@@ -6,9 +6,9 @@ summary: 'While many people tout the death of the home page, it’s still an imp
 authors:
   - michelle-chronister
 topics:
-  - Content
-  - Design
-  - Metrics
+  - content
+  - design
+  - metrics
   - user-testing-and-research
   - UX
   - customer satisfaction

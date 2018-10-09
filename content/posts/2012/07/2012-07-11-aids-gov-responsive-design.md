@@ -6,13 +6,13 @@ summary: Mobile Gov Experiences are agency stories about creating anytime, anywh
 authors:
   - jparcell
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - user-testing-and-research
   - UX
   - HHS
-  - Mobile Gov Experience
-  - Mobile UX Guideline 5
+  - mobile-gov-experience
+  - mobile-ux-guideline-5
   - responsive web design
 ---
 

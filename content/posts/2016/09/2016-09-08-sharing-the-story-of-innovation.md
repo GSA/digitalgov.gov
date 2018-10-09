@@ -7,7 +7,7 @@ authors:
   - va-center-for-innovation
 topics:
   - accessibility
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - innovation

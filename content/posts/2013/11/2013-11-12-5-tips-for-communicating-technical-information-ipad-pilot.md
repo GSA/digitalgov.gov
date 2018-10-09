@@ -6,8 +6,8 @@ summary: '&#8220;The difference between the right word and the almost right word
 authors:
   - alan-greilsamer
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - UX
   - FCN
   - mobile

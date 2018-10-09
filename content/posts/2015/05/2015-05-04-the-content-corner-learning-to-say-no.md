@@ -6,7 +6,7 @@ summary: 'There is a quote that goes something like, &#8220;Just because we can 
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - content strategy
   - The Content Corner

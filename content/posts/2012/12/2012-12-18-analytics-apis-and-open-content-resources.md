@@ -7,9 +7,9 @@ authors:
   - gwynne-kostin
 topics:
   - api
-  - Code
-  - Content
-  - Metrics
+  - code
+  - content
+  - metrics
   - Our Work
   - api
   - Census

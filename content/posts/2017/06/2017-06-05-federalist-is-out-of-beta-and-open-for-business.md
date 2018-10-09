@@ -7,14 +7,14 @@ authors:
   - will-slack
   - jonathan-hooper
 topics:
-  - Code
-  - Design
-  - Managing Digital
+  - code
+  - design
+  - managing-digital
   - 18f
   - cloud
   - cloud-gov
   - CMS
-  - Content Management System
+  - content-management-system
   - FedRAMP
   - GSA
   - security

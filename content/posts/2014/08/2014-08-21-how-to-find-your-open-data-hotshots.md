@@ -8,13 +8,13 @@ authors:
 topics:
   - api
   - Data
-  - Metrics
+  - metrics
   - api
   - Census
   - data-gov
   - EPA
   - metadata
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - open data

@@ -6,8 +6,8 @@ summary: 'Augmented Reality games have existed for years, but have mostly failed
 authors:
   - wsullivan
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - analytics
   - gamification
   - metrics

@@ -6,9 +6,9 @@ summary: 'Google Product Director and author, Luke Wroblewski, wrote a piece abo
 authors:
   - wsullivan
 topics:
-  - Mobile
   - mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - native app
   - native apps
   - Trends on Tuesday

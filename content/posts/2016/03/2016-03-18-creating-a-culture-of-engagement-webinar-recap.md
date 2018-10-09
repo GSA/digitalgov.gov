@@ -7,7 +7,7 @@ authors:
   - john-paul
   - rflagg
 topics:
-  - Managing Digital
+  - managing-digital
   - Customer Experience
   - CX
   - DOL

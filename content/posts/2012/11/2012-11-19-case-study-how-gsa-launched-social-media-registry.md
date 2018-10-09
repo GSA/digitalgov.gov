@@ -7,7 +7,7 @@ authors:
   - jed-sundwall
   - gray-brooks
 topics:
-  - Code
+  - code
   - api
   - GSA
   - social media

@@ -6,11 +6,11 @@ summary: ' This August, Aaron Gustafson, Web Standards Advocate at Microsoft, in
 authors:
   - wsullivan
 topics:
-  - Design
-  - Mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
+  - design
+  - mobile
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

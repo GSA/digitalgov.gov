@@ -6,8 +6,8 @@ summary: 'Global mobile data traffic almost doubled in 2013 according to Ciscoâ€
 authors:
   - jparcell
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - mobile
   - Trends on Tuesday
 ---

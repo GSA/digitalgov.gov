@@ -6,8 +6,8 @@ summary: 'This is the fifth in a series describing how the Social Security Admin
 authors:
   - rob-klopp
 topics:
-  - Code
-  - Managing Digital
+  - code
+  - managing-digital
   - strategy-and-policy
   - architecture
   - infrastructure

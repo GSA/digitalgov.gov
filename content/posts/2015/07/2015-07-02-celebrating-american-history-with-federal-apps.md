@@ -7,7 +7,7 @@ authors:
   - kdaniel
   - awichman
 topics:
-  - Mobile
+  - mobile
   - abmc
   - american-battle-monuments-commission
   - mobile

@@ -6,10 +6,10 @@ summary: 'Earth Day is next week, so today instead of featuring one mobile produ
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - strategy-and-policy
   - EPA
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
   - US Environmental Protection Agency
   - usa-gov-federal-mobile-apps-directory

@@ -6,10 +6,10 @@ summary: 'This tax season, it’s not just taxpayers expecting a refund who can 
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - Internal Revenue Service
   - IRS
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
   - US Digital Registry
   - usa-gov-federal-mobile-apps-directory

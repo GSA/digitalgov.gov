@@ -7,7 +7,7 @@ authors:
   - chris-noonan-sturm
 topics:
   - Data
-  - Metrics
+  - metrics
   - Our Work
   - analytics
   - DAP

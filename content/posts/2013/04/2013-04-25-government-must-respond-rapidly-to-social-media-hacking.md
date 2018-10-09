@@ -6,7 +6,7 @@ summary: ' [Editor&#8217;s note: Please watch the Jan. 15 , 2015, webinar on How
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
   - security
   - social media
   - SocialGov

@@ -6,10 +6,10 @@ summary: 'Oh, Thanksgiving! If you need to take a time-out from the dinner table
 authors:
   - genevieve-contey
 topics:
-  - Mobile
+  - mobile
   - HHS
-  - mobile apps
-  - mobile gov
+  - mobile-apps
+  - mobile-gov
   - NASA
   - NIH
   - Thursday Mobile Products

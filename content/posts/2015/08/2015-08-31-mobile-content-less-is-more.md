@@ -6,16 +6,16 @@ summary: 'With 14 test cycles under our belt, the Federal CrowdSource Mobile Tes
 authors:
   - david-fern
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - user-testing-and-research
   - COPE
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
+  - mobile-apps
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-4
   - responsive web design
   - structured content
   - Transportation Security Administration

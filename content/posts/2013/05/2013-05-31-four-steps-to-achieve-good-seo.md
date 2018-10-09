@@ -6,7 +6,7 @@ summary: 'Search Engine Optimization (SEO) is the active practice of improving a
 authors:
   - ammie-farraj-feijoo
 topics:
-  - Content
+  - content
   - search engine optimization
 ---
 

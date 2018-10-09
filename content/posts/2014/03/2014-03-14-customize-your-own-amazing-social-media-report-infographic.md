@@ -6,8 +6,8 @@ summary: Social Media Community of Practice developed a set of baseline social m
 authors:
   - sarah-kaczmarek
 topics:
-  - Metrics
-  - Social Media
+  - metrics
+  - social-media
   - GAO
   - infographic
   - social media metrics

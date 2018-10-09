@@ -6,7 +6,7 @@ summary: ' At the U.S. Agency for International Development (USAID), our new ope
 authors:
   - laura-hughes
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - open data

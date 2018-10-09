@@ -6,7 +6,7 @@ summary: ' Went a little too far with a bad habit? Do you or someone you love ha
 authors:
   - jenny-johnson
 topics:
-  - Mobile
+  - mobile
   - ios
   - National Cancer Institute
   - native app

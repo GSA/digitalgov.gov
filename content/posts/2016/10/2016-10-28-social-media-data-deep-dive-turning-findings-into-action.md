@@ -6,7 +6,7 @@ summary: 'GobiernoUSA, just like USA.gov, is part of a unique effort with a larg
 authors:
   - victoria-wales
 topics:
-  - Social Media
+  - social-media
   - strategy-and-policy
   - analytics
   - content

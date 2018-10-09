@@ -6,8 +6,8 @@ summary: ' Canalys, an international IT company, predicted last week that tablet
 authors:
   - jparcell
 topics:
-  - Mobile
-  - mobile gov
+  - mobile
+  - mobile-gov
   - Trends on Tuesday
 ---
 

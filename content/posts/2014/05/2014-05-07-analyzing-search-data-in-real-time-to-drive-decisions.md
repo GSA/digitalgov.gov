@@ -6,9 +6,9 @@ summary: 'DigitalGov Search recently rolled out a new open source technology sta
 authors:
   - andreanocesigritz
 topics:
-  - Content
+  - content
   - Data
-  - Metrics
+  - metrics
   - Our Work
   - DigitalGov Search
   - open source

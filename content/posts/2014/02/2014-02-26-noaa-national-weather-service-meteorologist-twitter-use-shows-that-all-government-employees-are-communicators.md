@@ -6,7 +6,7 @@ summary: 'During the run up to a recent winter storm, Twitter was aflutter with 
 authors:
   - mike-kruger
 topics:
-  - Social Media
+  - social-media
   - Department of Commerce
   - NOAA
   - NWS

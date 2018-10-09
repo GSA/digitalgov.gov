@@ -6,9 +6,9 @@ summary: 'If you’re a frequent Trends on Tuesday reader, you may recall our po
 authors:
   - tjohnson
 topics:
-  - Mobile
+  - mobile
   - GobiernoUSAgov
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - mobile-first
   - multilingual
   - social media

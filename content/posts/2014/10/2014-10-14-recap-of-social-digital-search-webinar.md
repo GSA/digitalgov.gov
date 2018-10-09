@@ -7,9 +7,9 @@ authors:
   - rachel-mundstock
 topics:
   - api
-  - Content
+  - content
   - Our Work
-  - Social Media
+  - social-media
   - Video
   - DigitalGov Search
   - Federal Register

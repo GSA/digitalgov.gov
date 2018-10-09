@@ -4,10 +4,10 @@ date: 2014-05-29 1:45:14 -0400
 title: 'Arlington National Cemetery&#8217;s Updated App Brings You Closer to Nation&#8217;s Fallen Veterans'
 summary: 'While many of us were planning for barbecues or heading to lakes and beaches on the eve of Memorial Day Weekend,  the digital team at Arlington National Cemetery was busy doing what they do best:  honoring the sacrifices of America&#8217;s'
 topics:
-  - Mobile
+  - mobile
   - arlington-national-cemetery
-  - mobile apps
-  - mobile gov
+  - mobile-apps
+  - mobile-gov
   - Thursday Mobile Products
 ---
 

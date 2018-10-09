@@ -6,10 +6,10 @@ summary: 'Have you ever taken your prescription to the pharmacy, the one that yo
 authors:
   - nramprasad
 topics:
-  - Mobile
+  - mobile
   - FDA
   - ios
-  - mobile apps
+  - mobile-apps
   - native app
   - native apps
   - SSA

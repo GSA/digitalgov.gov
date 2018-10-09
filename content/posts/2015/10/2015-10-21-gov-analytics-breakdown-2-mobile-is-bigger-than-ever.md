@@ -7,8 +7,8 @@ authors:
   - tlowden
 topics:
   - Data
-  - Metrics
-  - Mobile
+  - metrics
+  - mobile
   - UX
   - analytics
   - Customer Experience

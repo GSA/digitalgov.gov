@@ -8,7 +8,7 @@ authors:
   - dywane-boyd
 topics:
   - Data
-  - Metrics
+  - metrics
   - Our Work
   - user-testing-and-research
   - analytics

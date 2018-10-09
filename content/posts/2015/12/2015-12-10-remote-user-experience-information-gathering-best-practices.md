@@ -6,7 +6,7 @@ summary: Once simply an idea, remote data gathering is now a very important real
 authors:
   - justin-dopke
 topics:
-  - Design
+  - design
   - UX
   - analytics
   - SSA

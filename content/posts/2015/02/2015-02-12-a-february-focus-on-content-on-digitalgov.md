@@ -6,7 +6,7 @@ summary: 'Good content drives your digital presence. No matter what you produce 
 authors:
   - andreanocesigritz
 topics:
-  - Content
+  - content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
   - content strategy

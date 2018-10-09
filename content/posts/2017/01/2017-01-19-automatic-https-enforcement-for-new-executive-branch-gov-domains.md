@@ -8,7 +8,7 @@ authors:
   - marina-fox
 topics:
   - Governance
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
   - analytics
   - GSA

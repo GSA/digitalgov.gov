@@ -6,10 +6,10 @@ summary: 'This infographic from Light Reading addresses recent trends in mobile 
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
-  - Social Media
   - mobile
-  - mobile apps
+  - social-media
+  - mobile
+  - mobile-apps
   - Trends on Tuesday
 ---
 

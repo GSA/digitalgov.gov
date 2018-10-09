@@ -6,7 +6,7 @@ summary: 'The Pew Internet and the American Life Project released a report recen
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - mobile
   - Trends on Tuesday
 ---

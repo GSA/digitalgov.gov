@@ -7,8 +7,8 @@ authors:
   - jeanette-kennedy
 topics:
   - Data
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - FirstNet
   - Internet of things
   - IoT

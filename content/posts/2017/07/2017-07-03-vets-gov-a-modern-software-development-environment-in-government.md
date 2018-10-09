@@ -7,8 +7,8 @@ authors:
   - alex-yale-loehr
   - raquel-romano
 topics:
-  - Code
-  - Design
+  - code
+  - design
   - 'User Testing and Research'
   - UX
   - cloud

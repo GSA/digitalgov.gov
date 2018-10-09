@@ -7,10 +7,10 @@ authors:
   - rachel-hurley
 topics:
   - accessibility
-  - Mobile
+  - mobile
   - Making Mobile Gov
-  - mobile apps
-  - mobile gov
+  - mobile-apps
+  - mobile-gov
   - Trends on Tuesday
 ---
 

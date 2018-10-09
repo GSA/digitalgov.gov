@@ -6,7 +6,7 @@ summary: 'The U.S. Food and Drug Administration&#8217;s new &#8220;DrugShortages
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - FDA
   - mobile
   - Thursday Mobile Products

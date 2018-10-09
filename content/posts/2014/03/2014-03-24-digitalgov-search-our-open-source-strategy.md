@@ -7,8 +7,8 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - api
-  - Code
-  - Content
+  - code
+  - content
   - Data
   - Our Work
   - api

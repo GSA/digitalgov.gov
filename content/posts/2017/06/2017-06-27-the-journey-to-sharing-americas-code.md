@@ -6,7 +6,7 @@ summary: 'As the nation’s primary platform for sharing and improving governmen
 authors:
   - code-gov
 topics:
-  - Code
+  - code
   - code
 ---
 

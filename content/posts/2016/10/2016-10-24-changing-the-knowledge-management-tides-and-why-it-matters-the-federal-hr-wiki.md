@@ -8,8 +8,8 @@ authors:
   - matt-gieseke
   - kelley-smith
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - content
   - content strategy

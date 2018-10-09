@@ -7,12 +7,12 @@ authors:
   - jparcell
   - michael-pulsifer
 topics:
-  - Code
-  - Mobile
+  - code
+  - mobile
   - DOL
-  - mobile apps
-  - Mobile Code Catalog
-  - mobile gov
+  - mobile-apps
+  - mobile-code-catalog
+  - mobile-gov
   - open source
   - US Department of Labor
 ---

@@ -6,7 +6,7 @@ summary: 'You may have noticed we launched our new Ed.gov homepage today. This c
 authors:
   - jill-james
 topics:
-  - Content
+  - content
   - DAP
   - Digital Analytics Program
   - responsive web design

@@ -6,7 +6,7 @@ summary: 'Have a potential future cadet in the family? Deciding whether the Army
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - api
   - native app
   - ROTC

@@ -7,8 +7,8 @@ authors:
   - bbrantley
 topics:
   - api
-  - Code
-  - Content
+  - code
+  - content
   - FDA
   - GitHub
   - open source

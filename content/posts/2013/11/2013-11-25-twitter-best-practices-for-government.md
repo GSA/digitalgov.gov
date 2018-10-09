@@ -6,7 +6,7 @@ summary: 'Best practices and success stories to help government leverage the pow
 authors:
   - lnelson
 topics:
-  - Social Media
+  - social-media
   - Twitter
 ---
 

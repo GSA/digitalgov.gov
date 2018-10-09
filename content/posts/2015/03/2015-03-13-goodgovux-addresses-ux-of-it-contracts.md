@@ -7,7 +7,7 @@ authors:
   - jordan-higgins
 topics:
   - accessibility
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - RFP

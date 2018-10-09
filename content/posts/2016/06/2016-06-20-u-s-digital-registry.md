@@ -7,9 +7,9 @@ authors:
   - david-s-ferriero
 topics:
   - api
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
-  - Social Media
+  - social-media
   - NARA
   - National Archives and Records Administration
   - US Digital Registry

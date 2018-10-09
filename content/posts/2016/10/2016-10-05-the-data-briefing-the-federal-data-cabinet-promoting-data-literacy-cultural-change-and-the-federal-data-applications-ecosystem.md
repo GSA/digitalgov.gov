@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Metrics
+  - metrics
   - data
   - infrastructure
   - metrics

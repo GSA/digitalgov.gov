@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - api
-  - Code
+  - code
   - Data
   - Monthly Theme
   - api

@@ -6,9 +6,9 @@ summary: 'Agencies can participate in the Digital Analytics Program (DAP) by imp
 authors:
   - ilee
 topics:
-  - Code
+  - code
   - Data
-  - Metrics
+  - metrics
   - Monthly Theme
   - Our Work
   - analytics

@@ -6,7 +6,7 @@ summary: 'First, McDonald’s started serving breakfast all day. Now, Twitter an
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - administrative-office-of-the-united-states-courts
   - content strategy
   - social media

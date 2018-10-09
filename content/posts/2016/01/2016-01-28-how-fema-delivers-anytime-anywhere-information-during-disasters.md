@@ -7,11 +7,11 @@ authors:
   - jenny-johnson
 topics:
   - crowdsourcing-and-citizen-science
-  - Mobile
+  - mobile
   - Federal Emergency Management Agency
   - FEMA
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Weather Service
   - NWS
 ---

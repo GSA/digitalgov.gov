@@ -6,9 +6,9 @@ summary: "U.S. Hispanics are ahead of the digital curve, according to an analysi
 authors:
   - tjohnson
 topics:
-  - Managing Digital
-  - Mobile
-  - Mobile UX Guideline 5
+  - managing-digital
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - multilingual
   - multilingual-community

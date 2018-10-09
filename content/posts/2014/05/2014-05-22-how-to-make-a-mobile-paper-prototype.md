@@ -6,15 +6,15 @@ summary: 'What if a single piece of paper could make your mobile app work 20% be
 authors:
   - jonathan-rubin
 topics:
-  - Design
-  - Mobile
+  - design
+  - mobile
   - user-testing-and-research
   - UX
   - GSA
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-5
   - prototype
   - user experience
 ---

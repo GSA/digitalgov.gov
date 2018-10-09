@@ -6,7 +6,7 @@ summary: 'In his May 23rd, 2012 Presidential Memorandum, President Obama directe
 authors:
   - apiazza
 topics:
-  - Managing Digital
+  - managing-digital
   - Department of Commerce
   - DHS
   - DoD

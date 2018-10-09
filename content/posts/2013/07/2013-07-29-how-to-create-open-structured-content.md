@@ -6,8 +6,8 @@ summary: 'Structured content refers to the concept of organizing and treating di
 authors:
   - rflagg
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - content models
   - COPE
   - metadata

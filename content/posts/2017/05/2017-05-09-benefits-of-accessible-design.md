@@ -7,7 +7,7 @@ authors:
   - phillip-crawford
 topics:
   - accessibility
-  - Design
+  - design
   - UX
   - accessibility
   - GSA

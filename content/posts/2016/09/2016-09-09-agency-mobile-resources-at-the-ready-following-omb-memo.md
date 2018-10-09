@@ -7,8 +7,8 @@ authors:
   - amando-e-gavino-jr
 topics:
   - Governance
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - strategy-and-policy
   - FAS
   - Federal Acquisition Service
@@ -16,7 +16,7 @@ topics:
   - infrastructure
   - innovation
   - mobile
-  - mobile gov
+  - mobile-gov
   - Office of Management and Budget
   - OMB
   - US General Services Administration

@@ -6,9 +6,9 @@ summary: 'I’ve recently been required to focus more attention on social media 
 authors:
   - tyrus-manuel
 topics:
-  - Content
-  - Metrics
-  - Social Media
+  - content
+  - metrics
+  - social-media
   - administrative-office-of-the-united-states-courts
   - analytics
   - content strategy

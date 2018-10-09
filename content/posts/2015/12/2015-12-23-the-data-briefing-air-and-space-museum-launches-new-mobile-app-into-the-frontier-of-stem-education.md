@@ -6,10 +6,10 @@ summary: 'The Smithsonian Institution’s Air and Space Museum just released a n
 authors:
   - bbrantley
 topics:
-  - Code
-  - Mobile
+  - code
+  - mobile
   - Education
-  - mobile apps
+  - mobile-apps
   - NPS
   - Smithsonian Institution
   - The Data Briefing

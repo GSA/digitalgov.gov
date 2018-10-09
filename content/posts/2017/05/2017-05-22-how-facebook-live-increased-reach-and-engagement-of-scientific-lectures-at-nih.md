@@ -6,10 +6,10 @@ summary: Helping patients manage chronic pain has become an increasing challenge
 authors:
   - yasmine-kloth
 topics:
-  - Content
-  - Metrics
-  - Mobile
-  - Social Media
+  - content
+  - metrics
+  - mobile
+  - social-media
   - Video
   - audio-video
   - National Center for Complementary and Integrative Health

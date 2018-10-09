@@ -6,7 +6,7 @@ summary: 'Have you ever wondered how to measure a customer’s experience? I’v
 authors:
   - craig-chavez
 topics:
-  - Metrics
+  - metrics
   - strategy-and-policy
   - analytics
   - Customer Experience

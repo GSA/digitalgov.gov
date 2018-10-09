@@ -7,8 +7,8 @@ authors:
   - kate-masterton
   - katie-chan
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - code
   - multilingual
   - search engine optimization

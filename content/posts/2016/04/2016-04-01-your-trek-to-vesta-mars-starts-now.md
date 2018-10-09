@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - Challenges
-  - Code
+  - code
   - Data
   - Monthly Theme
   - api

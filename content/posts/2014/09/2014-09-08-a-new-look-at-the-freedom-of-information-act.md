@@ -10,7 +10,7 @@ authors:
   - eric-mill
   - victor-diaz-zapanta
 topics:
-  - Code
+  - code
   - 18f
   - DOJ
   - EPA

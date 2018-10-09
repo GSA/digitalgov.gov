@@ -7,7 +7,7 @@ authors:
   - lnelson
   - awichman
 topics:
-  - Content
+  - content
   - Our Work
   - Open Opportunities program
   - Personas

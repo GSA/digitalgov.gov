@@ -6,8 +6,8 @@ summary: 'Recently, OMB released M 17-06, Policies for Federal Agency Public Web
 authors:
   - christen-geiler
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - content
   - content strategy

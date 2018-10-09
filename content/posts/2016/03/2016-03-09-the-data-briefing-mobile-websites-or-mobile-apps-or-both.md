@@ -8,11 +8,11 @@ authors:
 topics:
   - api
   - Data
-  - Mobile
+  - mobile
   - api
   - data
   - mobile
-  - mobile apps
+  - mobile-apps
   - native app
   - native apps
   - open data

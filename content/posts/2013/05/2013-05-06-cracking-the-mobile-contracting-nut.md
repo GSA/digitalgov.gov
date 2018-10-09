@@ -6,8 +6,8 @@ summary: 'Mobile is a fast moving technology leaving many agencies feeling behin
 authors:
   - jparcell
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - mobile
 ---
 

@@ -6,7 +6,7 @@ summary: I recently wrapped up a series of user interviews as part of a review o
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - UX
   - administrative-office-of-the-united-states-courts
   - analytics

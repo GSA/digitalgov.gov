@@ -10,7 +10,7 @@ topics:
   - Our Work
   - DGU
   - DigitalGov Summit
-  - mobile gov community of practice
+  - mobile-gov-community-of-practice
   - SocialGov Community
   - User Experience Community of Practice
 ---

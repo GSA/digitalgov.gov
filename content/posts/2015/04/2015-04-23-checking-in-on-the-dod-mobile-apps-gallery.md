@@ -6,7 +6,7 @@ summary: ' We’re switching our style up this week in salute to our military fr
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - DoD
   - Thursday Mobile Products
   - United States Department of Defense

@@ -6,8 +6,8 @@ summary: 'Summary: Today, we’re releasing for public comment a draft policy to
 authors:
   - tony-scott
 topics:
-  - Code
-  - Managing Digital
+  - code
+  - managing-digital
   - Monthly Theme
   - 18f
   - analytics-usa-gov

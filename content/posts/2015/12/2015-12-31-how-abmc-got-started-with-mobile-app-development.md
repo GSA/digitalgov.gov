@@ -6,15 +6,15 @@ summary: In the sea of apps, users get choosey with which apps can take up space
 authors:
   - jenny-johnson
 topics:
-  - Mobile
+  - mobile
   - UX
   - abmc
   - american-battle-monuments-commission
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile testing
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 4
+  - mobile-testing
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-4
   - native app
   - native apps
   - UX

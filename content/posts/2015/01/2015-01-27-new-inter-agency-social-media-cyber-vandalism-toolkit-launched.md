@@ -6,7 +6,7 @@ summary: 'Federal agencies must prepare social media readiness procedures for cy
 authors:
   - jherman
 topics:
-  - Social Media
+  - social-media
 ---
 
 {{< legacy-img src="2015/01/250-x-465-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Mobile Security and Protection Concept Smartphone with Safe Door" caption="" >}} 

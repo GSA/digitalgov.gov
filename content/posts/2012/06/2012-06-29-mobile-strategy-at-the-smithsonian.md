@@ -6,9 +6,9 @@ summary: 'Mobile Gov Experiences are agency stories about creating anytime, anyw
 authors:
   - jparcell
 topics:
-  - Mobile
+  - mobile
   - strategy-and-policy
-  - Mobile Gov Experience
+  - mobile-gov-experience
   - Smithsonian Institution
 ---
 

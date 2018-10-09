@@ -6,10 +6,10 @@ summary: 'Summary: Improving the way you engage with the White House through our
 authors:
   - jason-goldman
 topics:
-  - Content
-  - Design
-  - Managing Digital
-  - Mobile
+  - content
+  - design
+  - managing-digital
+  - mobile
   - user-testing-and-research
   - UX
   - content strategy

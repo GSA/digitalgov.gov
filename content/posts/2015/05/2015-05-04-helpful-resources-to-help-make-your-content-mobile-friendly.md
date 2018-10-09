@@ -6,14 +6,14 @@ summary: 'Smartphones make up 75% of the mobile market&mdash;which makes mobile-
 authors:
   - kdaniel
 topics:
-  - Content
-  - Mobile
-  - Content Management System
+  - content
   - mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
+  - content-management-system
+  - mobile
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
   - mobile-friendly
-  - MobileGov
+  - mobile-gov
   - responsive web design
   - Sites
   - sitesusagov

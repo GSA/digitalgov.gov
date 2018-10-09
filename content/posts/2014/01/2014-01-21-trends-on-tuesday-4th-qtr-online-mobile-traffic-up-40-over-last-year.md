@@ -6,8 +6,8 @@ summary: 'According to the IBM Digital Analytics Benchmark report, overall 4th q
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
-  - Social Media
+  - mobile
+  - social-media
   - mobile
   - social media
   - Trends on Tuesday

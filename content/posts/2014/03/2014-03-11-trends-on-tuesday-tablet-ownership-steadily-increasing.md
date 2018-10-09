@@ -4,7 +4,7 @@ date: 2014-03-11 10:32:50 -0400
 title: 'Trends on Tuesday: Tablet Ownership Steadily Increasing'
 summary: 'Tablet ownership continues to rise, 44% of Americans now owning one, according to Consumer Electronics Association (CEA) December 2013  estimates. Other interesting findings include: Exactly half of American adults now own either a tablet or an e-reader. 7 in 10 online consumers expect'
 topics:
-  - Mobile
+  - mobile
   - responsive web design
   - Trends on Tuesday
 ---

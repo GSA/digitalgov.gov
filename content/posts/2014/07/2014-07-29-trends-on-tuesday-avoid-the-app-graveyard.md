@@ -7,14 +7,14 @@ authors:
   - jparcell
   - katie-steffy
 topics:
-  - Mobile
+  - mobile
   - UX
   - federal user experience community
   - mobile
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 4
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-4
   - Trends on Tuesday
   - user experience
 ---

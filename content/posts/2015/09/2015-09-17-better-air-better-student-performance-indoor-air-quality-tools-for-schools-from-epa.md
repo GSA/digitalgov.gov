@@ -6,10 +6,10 @@ summary: 'Our children spend a lot of time at school. Multiple studies have show
 authors:
   - nramprasad
 topics:
-  - Mobile
+  - mobile
   - EPA
   - mobile
-  - mobile apps
+  - mobile-apps
   - Thursday Mobile Products
   - US Environmental Protection Agency
 ---

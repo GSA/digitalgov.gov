@@ -6,7 +6,7 @@ summary: 'User testing isn’t just for websites&mdash;it’s for any product th
 authors:
   - jonathan-rubin
 topics:
-  - Design
+  - design
   - user-testing-and-research
   - UX
   - FDA

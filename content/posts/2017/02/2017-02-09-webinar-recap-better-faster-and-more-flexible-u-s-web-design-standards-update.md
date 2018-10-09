@@ -6,9 +6,9 @@ summary: 'The Road to Launch Version 1.0 You may have noticed a new, cleaner, an
 authors:
   - lisa-bari
 topics:
-  - Content
-  - Design
-  - Managing Digital
+  - content
+  - design
+  - managing-digital
   - UX
   - Recaps
   - US Web Design Standards

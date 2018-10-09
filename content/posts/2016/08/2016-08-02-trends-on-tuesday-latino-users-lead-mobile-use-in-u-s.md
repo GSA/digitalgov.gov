@@ -6,7 +6,7 @@ summary: 'The Pew Research Center released a report in July that shows people of
 authors:
   - wsullivan
 topics:
-  - Mobile
+  - mobile
   - mobile
   - mobile-first
   - mobile-friendly

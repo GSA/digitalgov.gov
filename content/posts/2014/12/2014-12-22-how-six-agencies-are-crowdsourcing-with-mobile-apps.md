@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - crowdsourcing-and-citizen-science
-  - Mobile
+  - mobile
   - Monthly Theme
   - crowdsourcing
   - Federal Emergency Management Agency

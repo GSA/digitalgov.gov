@@ -6,10 +6,10 @@ summary: 'Come out and join us on Saturday, October 22, 2016 from 10:00 am &ndas
 authors:
   - meredith-stewart
 topics:
-  - Content
+  - content
   - crowdsourcing-and-citizen-science
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - user-testing-and-research
   - content
   - crowdsourcing

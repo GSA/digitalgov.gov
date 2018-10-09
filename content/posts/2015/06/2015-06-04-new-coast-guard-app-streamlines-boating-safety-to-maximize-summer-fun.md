@@ -6,10 +6,10 @@ summary: 'Just in time for the summer season, the U.S. Coast Guard launched a br
 authors:
   - kdowney
 topics:
-  - Mobile
+  - mobile
   - Federal Mobile Products Registry
   - ios
-  - mobile apps
+  - mobile-apps
   - native app
   - Thursday Mobile Products
   - US Coast Guard

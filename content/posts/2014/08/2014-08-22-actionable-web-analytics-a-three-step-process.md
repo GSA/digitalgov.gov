@@ -6,8 +6,8 @@ summary: As Web analysts, your customers and their needs can vary greatly. One m
 authors:
   - sam-bronson
 topics:
-  - Content
-  - Metrics
+  - content
+  - metrics
   - analytics
   - EPA
   - US Environmental Protection Agency

@@ -8,10 +8,10 @@ authors:
   - carrie-hessler-radelet
 topics:
   - api
-  - Mobile
+  - mobile
   - Digital Services Playbook
   - GitHub
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - open source
   - Peace Corps
   - US Digital Service

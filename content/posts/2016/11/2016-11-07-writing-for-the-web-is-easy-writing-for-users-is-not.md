@@ -8,7 +8,7 @@ authors:
   - emileigh-barnes
   - phoebe-espiritu
 topics:
-  - Content
+  - content
   - user-testing-and-research
   - Writing
   - accessibility

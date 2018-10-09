@@ -7,13 +7,13 @@ authors:
   - awichman
   - david-fern
 topics:
-  - Mobile
+  - mobile
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile apps
-  - mobile testing
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
+  - mobile-apps
+  - mobile-testing
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-4
   - native app
   - Trends on Tuesday
 ---

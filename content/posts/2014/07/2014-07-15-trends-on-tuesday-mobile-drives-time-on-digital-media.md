@@ -6,10 +6,10 @@ summary: 'Major mobile milestones in May&mdash;try saying that three times! A ne
 authors:
   - tjohnson
 topics:
-  - Mobile
-  - Social Media
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile
+  - social-media
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

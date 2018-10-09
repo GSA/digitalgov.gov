@@ -9,7 +9,7 @@ featured_image:
 authors:
   - code-gov
 topics:
-  - Code
+  - code
   - User Testing and Research
   - code
   - user research

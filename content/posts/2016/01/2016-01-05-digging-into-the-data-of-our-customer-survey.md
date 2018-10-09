@@ -11,7 +11,7 @@ topics:
   - Customer Experience
   - digitalgov-university
   - eCPIC
-  - mobile gov
+  - mobile-gov
   - Open Opportunities program
   - SocialGov
   - user experience

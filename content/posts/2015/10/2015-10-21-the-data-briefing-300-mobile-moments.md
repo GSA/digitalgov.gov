@@ -6,7 +6,7 @@ summary: 'DigitalGov&#8217;s theme this month is mobile moments, which explores 
 authors:
   - bbrantley
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - data
   - DOE

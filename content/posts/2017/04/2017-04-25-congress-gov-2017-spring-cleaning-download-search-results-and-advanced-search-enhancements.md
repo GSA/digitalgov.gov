@@ -6,9 +6,9 @@ summary: 'Spring is a beautiful time of year in Washington, D.C. The temperature
 authors:
   - andrew-weber
 topics:
-  - Content
-  - Design
-  - Managing Digital
+  - content
+  - design
+  - managing-digital
   - Law Library of Congress
   - Library of Congress
   - LOC

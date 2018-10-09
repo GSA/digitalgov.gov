@@ -6,8 +6,8 @@ summary: 'The National Day of Civic Hacking is bringing together thousands of ci
 authors:
   - lnelson
 topics:
-  - Code
-  - Managing Digital
+  - code
+  - managing-digital
   - National Day of Civic Hacking
 ---
 

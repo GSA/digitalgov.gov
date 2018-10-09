@@ -7,8 +7,8 @@ authors:
   - jparcell
 topics:
   - Communities
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - Monthly Theme
   - AoI
   - Census
@@ -20,10 +20,10 @@ topics:
   - government contact centers
   - HHS
   - Internet of things
-  - Mobile Code Catalog
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
+  - mobile-code-catalog
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-4
   - mobile-first
   - NASA
   - open and structured content models

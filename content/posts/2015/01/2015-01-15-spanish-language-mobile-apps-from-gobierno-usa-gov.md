@@ -6,7 +6,7 @@ summary: ' In mobile app development, if you aren&#8217;t making it multilingual
 authors:
   - awichman
 topics:
-  - Mobile
+  - mobile
   - BBG
   - Broadcasting Board of Governors
   - Federal Mobile Products Registry
@@ -15,8 +15,8 @@ topics:
   - GobiernoUSAgov
   - Internal Revenue Service
   - IRS
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - multilingual
   - multilingual-community
   - National Institutes of Health

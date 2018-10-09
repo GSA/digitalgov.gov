@@ -6,9 +6,9 @@ summary: 'Phablets, the popular term for smartphones with screen sizes from 5.5 
 authors:
   - jparcell
 topics:
-  - Mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
+  - mobile
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
   - mobile-first
   - Trends on Tuesday
 ---

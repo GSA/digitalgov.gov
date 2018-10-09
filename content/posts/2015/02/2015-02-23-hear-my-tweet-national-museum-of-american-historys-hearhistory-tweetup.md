@@ -6,7 +6,7 @@ summary: ' DC was the Silicon Valley of the 1880’s. And Alexander Graham Bell?
 authors:
   - awichman
 topics:
-  - Social Media
+  - social-media
   - Instagram
   - Library of Congress
   - LOC

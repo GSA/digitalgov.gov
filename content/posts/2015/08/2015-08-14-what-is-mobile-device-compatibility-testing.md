@@ -6,12 +6,12 @@ summary: In most instances, your hardware and software are developed independent
 authors:
   - david-fern
 topics:
-  - Mobile
+  - mobile
   - Monthly Theme
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-4
   - native app
   - native apps
   - user experience

@@ -7,17 +7,17 @@ authors:
   - apiazza
 topics:
   - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Social Media
+  - code
+  - content
+  - managing-digital
+  - metrics
+  - mobile
+  - social-media
   - UX
   - api
   - Census
   - innovation
-  - mobile apps
+  - mobile-apps
   - United States Census Bureau
 ---
 

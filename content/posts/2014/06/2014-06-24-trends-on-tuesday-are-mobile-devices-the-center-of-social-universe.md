@@ -6,17 +6,17 @@ summary: 'Mobile devices are moving closer to the center of the social universe,
 authors:
   - jparcell
 topics:
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - Monthly Theme
-  - Social Media
+  - social-media
   - CNCS
   - Corporation for National and Community Service
   - crowdsourcing
   - DOT
   - Internet of things
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - Trends on Tuesday

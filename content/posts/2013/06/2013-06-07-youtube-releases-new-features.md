@@ -6,7 +6,7 @@ summary: 'YouTube recently upgraded  to the new One Channel design. The new desi
 authors:
   - jason-kelly
 topics:
-  - Social Media
+  - social-media
   - Video
   - mobile
   - YouTube

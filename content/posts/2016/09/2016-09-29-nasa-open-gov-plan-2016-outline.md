@@ -8,20 +8,20 @@ authors:
 topics:
   - api
   - Challenges
-  - Code
-  - Content
+  - code
+  - content
   - crowdsourcing-and-citizen-science
   - Data
   - Governance
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - strategy-and-policy
   - challenges and prize competitions
   - citizen science
   - code
   - data
   - innovation
-  - mobile apps
+  - mobile-apps
   - NASA
   - open
   - open data

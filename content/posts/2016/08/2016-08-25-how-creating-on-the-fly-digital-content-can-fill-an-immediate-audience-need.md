@@ -6,8 +6,8 @@ summary: 'When some U.S. athletes at this month’s Olympic Games started showin
 authors:
   - yasmine-kloth
 topics:
-  - Content
-  - Managing Digital
+  - content
+  - managing-digital
   - strategy-and-policy
   - content
   - content strategy

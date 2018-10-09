@@ -6,8 +6,8 @@ summary: ' Whether it&#8217;s the 800-year-old legacy of the Magna Carta, the Bi
 authors:
   - nramprasad
 topics:
-  - Mobile
-  - mobile apps
+  - mobile
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
   - Thursday Mobile Products

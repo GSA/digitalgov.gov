@@ -6,7 +6,7 @@ summary: ' The FTC’s second Spanish-language fotonovela is about scams that pr
 authors:
   - alvaro-puig
 topics:
-  - Content
+  - content
   - Writing
   - Federal Trade Commission
   - FTC

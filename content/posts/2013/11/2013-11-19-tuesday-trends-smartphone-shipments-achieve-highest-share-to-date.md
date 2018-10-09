@@ -6,7 +6,7 @@ summary: Last week, Gartner reported that global smartphone shipments have achie
 authors:
   - lisa-wilcox
 topics:
-  - Mobile
+  - mobile
   - mobile
 ---
 

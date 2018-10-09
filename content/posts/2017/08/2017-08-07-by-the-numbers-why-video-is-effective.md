@@ -6,8 +6,8 @@ summary: 'At HIV.gov, we’re often asked if videos are effective tools for comm
 authors:
   - hiv-gov
 topics:
-  - Content
-  - Social Media
+  - content
+  - social-media
   - Video
   - audio-video
   - content

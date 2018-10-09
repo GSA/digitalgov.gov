@@ -8,9 +8,9 @@ authors:
   - jennifer-thibault
 topics:
   - api
-  - Content
+  - content
   - Data
-  - Design
+  - design
   - UX
   - 18f
   - api

@@ -7,12 +7,12 @@ authors:
   - bbrantley
 topics:
   - Data
-  - Mobile
+  - mobile
   - data
   - Federal Emergency Management Agency
   - FEMA
   - mobile
-  - mobile apps
+  - mobile-apps
   - The Data Briefing
   - user generated content
 ---

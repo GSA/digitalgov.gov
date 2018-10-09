@@ -6,7 +6,7 @@ summary: 'Over the past year, the Environmental Protection Agency (EPA) has unde
 authors:
   - chris-cairns
 topics:
-  - Managing Digital
+  - managing-digital
   - 18f
   - EPA
   - US Environmental Protection Agency

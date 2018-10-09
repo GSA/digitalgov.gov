@@ -6,12 +6,12 @@ summary: 'Marketers are increasingly using SMS, push notifications, mobile apps,
 authors:
   - awichman
 topics:
-  - Mobile
+  - mobile
   - customer service
   - GPS
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

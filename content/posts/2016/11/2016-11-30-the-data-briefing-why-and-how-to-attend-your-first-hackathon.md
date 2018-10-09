@@ -6,9 +6,9 @@ summary: 'December 9, 2016, will be the 110th anniversary of Admiral Grace Hoppe
 authors:
   - bbrantley
 topics:
-  - Code
+  - code
   - Data
-  - Design
+  - design
   - code
   - hackathon
 ---

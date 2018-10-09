@@ -6,7 +6,7 @@ summary: 'Deep down we&#8217;ve always known that people only read a small porti
 authors:
   - tyrus-manuel
 topics:
-  - Content
+  - content
   - Writing
   - administrative-office-of-the-united-states-courts
   - content strategy

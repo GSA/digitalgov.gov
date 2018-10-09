@@ -6,15 +6,15 @@ summary: 'A penny saved is a penny earned. But spending your pennies on mobile d
 authors:
   - awichman
 topics:
-  - Mobile
+  - mobile
   - ios
   - mobile
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 3
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-3
   - mobile-first
   - mobile-friendly
-  - MobileGov
+  - mobile-gov
   - native app
   - native apps
   - responsive web design

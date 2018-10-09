@@ -6,10 +6,10 @@ summary: ' The Great Federal Mobile Product Hunt is off to the races in both Eng
 authors:
   - courtney-greenley
 topics:
-  - Mobile
+  - mobile
   - Broadcasting Board of Governors
   - Federal Mobile Products Registry
-  - mobile apps
+  - mobile-apps
   - National Center for Telehealth and Technology
   - OSHA
   - SAMHSA

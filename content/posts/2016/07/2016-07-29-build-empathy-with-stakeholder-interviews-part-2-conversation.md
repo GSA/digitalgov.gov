@@ -7,7 +7,7 @@ deck: 'How to run user-interviews and synthesize and integrate the results into 
 authors:
   - andrew-maier
 topics:
-  - Design
+  - design
   - strategy-and-policy
   - user-testing-and-research
   - UX
