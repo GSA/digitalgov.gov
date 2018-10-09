@@ -9,7 +9,7 @@ topics:
   - Our Work
   - agile
   - analytics
-  - Connect.gov
+  - connect-gov
   - Customer Experience
   - DigitalGov Summit
   - FCC

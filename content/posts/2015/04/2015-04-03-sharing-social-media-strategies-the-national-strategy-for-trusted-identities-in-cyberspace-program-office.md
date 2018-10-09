@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - Social Media
-  - Connect.gov
+  - connect-gov
   - National Institute of Standards and Technology
   - NIST
   - security

@@ -10,7 +10,7 @@ topics:
   - Monthly Theme
   - strategy-and-policy
   - 18F
-  - Connect.gov
+  - connect-gov
   - data.gov
   - FOIA
   - GSA
@@ -20,7 +20,7 @@ topics:
   - US Digital Service
 ---
 
-{{< legacy-img src="2015/03/600-x-400-Globe-and-Computer-Keyboard-Feng-iStock-Thinkstock-110828839.jpg" alt="Globe and computer keyboard" caption="" >}} 
+{{< legacy-img src="2015/03/600-x-400-Globe-and-Computer-Keyboard-Feng-iStock-Thinkstock-110828839.jpg" alt="Globe and computer keyboard" caption="" >}}
 
 Many forces are converging to strengthen the political, economic and commercial ties that bind the United States, Canada and Mexico. The GSA Office of Citizen Services and Innovative Technologies (OCSIT) has anticipated this drive toward collaboration for decades, building a network of links among the three nations’ Chief Information Officers and other national technology and data experts.
 

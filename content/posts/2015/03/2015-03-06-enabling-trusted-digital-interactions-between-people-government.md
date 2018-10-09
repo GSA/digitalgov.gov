@@ -9,7 +9,7 @@ authors:
 topics:
   - Managing Digital
   - cloud
-  - Connect.gov
+  - connect-gov
   - GSA
   - National Institute of Standards and Technology
   - NIST
