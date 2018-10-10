@@ -8,6 +8,7 @@
   "items" : [
   {{- range $i, $e := $list.ByTitle -}}
     {
+      "file" : "{{ .File.Path }}",
       "slug" : "{{ .URL | replaceRE "^/topics/([^/]+).*" "$1" }}",
       "path" : "{{ .URL -}}",
       "display_name" : "{{ .Title -}}",
