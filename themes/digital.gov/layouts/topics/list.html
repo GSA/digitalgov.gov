@@ -12,18 +12,20 @@
             <h4>Topics</h4>
           </header>
           <ul class="add-list-reset">
-            {{ range $name, $taxonomy := $.Site.Taxonomies.topics }}
-              {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
+            {{/* {{ $topics := $.Site.Taxonomies.topics }} */}}
+            {{ $topics := (where .Site.Pages "Section" "topics") }}
+            {{ range $name, $taxonomy := sort $topics }}
+
+                {{/* {{ if .Params.weight }} */}}
                 {{ if (eq .Params.weight 2) }}
                 <li>
                   <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
                 </li>
                 {{ end }}
-              {{ end }}
             {{ end }}
           </ul>
           <footer>
-            <p><a href="{{ "/topics/" | absURL }}">See all »</a></p>
+            <p><a href="{{ "/topics/" | absURL }}">See all {{ len $topics }} topics »</a></p>
           </footer>
         </nav>
       </div>
