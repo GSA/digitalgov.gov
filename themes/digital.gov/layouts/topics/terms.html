@@ -20,6 +20,16 @@
       <div class="grid-col-12">
         <section>
           <ul class="add-list-reset">
+            {{ $topics := (where .Site.Pages "Section" "topics") }}
+            {{ range $name, $taxonomy := $topics }}
+              <li>
+                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a> <em>{{ .Weight }}</em>
+              </li>
+
+            {{ end }}
+          </ul>
+          =========================
+          <ul class="add-list-reset display-none">
             {{ $topics := $.Site.Taxonomies.topics }}
             {{ range $name, $taxonomy := $topics }}
               {{ $count := .Count }}
