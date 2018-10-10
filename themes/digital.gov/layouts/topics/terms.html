@@ -8,9 +8,9 @@
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
         <header>
-          {{ $data := $.Site.Data }}
+          {{- $topics := (where .Site.Pages "Section" "topics") -}}
           <h1>Topics</h1>
-          <h4>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}</h4>
+          <h4>There are {{ len $topics }} topics</h4>
         </header>
       </div>
     </div>
@@ -23,7 +23,7 @@
             {{ $topics := (where .Site.Pages "Section" "topics") }}
             {{ range $name, $taxonomy := $topics.ByTitle }}
               <li>
-                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a> <em>{{ .Weight }}</em>
+                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
               </li>
             {{ end }}
           </ul>
