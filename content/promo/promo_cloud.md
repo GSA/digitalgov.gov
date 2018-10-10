@@ -16,6 +16,6 @@ icon: 'cloudgov.png'
 weight: 3
 
 tag:
-  - accessibility
+  - cloud
 
 ---
