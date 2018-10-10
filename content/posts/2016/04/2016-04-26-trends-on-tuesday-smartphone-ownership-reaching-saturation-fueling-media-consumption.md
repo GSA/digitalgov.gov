@@ -10,7 +10,7 @@ topics:
   - social-media
   - Facebook
   - instagram
-  - LinkedIn
+  - linkedin
   - mobile
   - social media
   - Trends on Tuesday

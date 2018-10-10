@@ -10,7 +10,7 @@ topics:
   - social-media
   - Facebook
   - instagram
-  - LinkedIn
+  - linkedin
   - mobile
   - mobile-apps
   - mobile-ux-guideline-1

@@ -11,7 +11,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - content strategy
   - Facebook
-  - LinkedIn
+  - linkedin
   - social media
   - The Content Corner
 ---
