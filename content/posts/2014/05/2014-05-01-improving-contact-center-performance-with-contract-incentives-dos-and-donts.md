@@ -5,12 +5,11 @@ title: 'Improving Contact Center Performance with Contract Incentives: Dos and D
 summary: '&ldquo;In business, words are words, explanations are explanations, promises are promises, but only performance is reality.&rdquo; Harold S. Geneen As government contact center managers, we dream of having contact center contractors who regularly exceed our performance expectations. One way to motivate your contractor to excel is by including financial incentives/disincentives directly into your contact center contract.'
 authors:
   - carolyn-kaleel
-categories:
-  - Communities
-  - Managing Digital
+topics:
+  - communities
+  - managing-digital
   - Monthly Theme
   - Our Work
-tag:
   - AoI
   - government contact centers
 ---

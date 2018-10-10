@@ -6,12 +6,11 @@ summary: When people think of government software, they often think of COBOL and
 authors:
   - alex-yale-loehr
   - raquel-romano
-categories:
-  - Code
-  - Design
+topics:
+  - code
+  - design
   - 'User Testing and Research'
-  - UX
-tag:
+  - ux
   - cloud
   - code
   - GitHub
@@ -21,8 +20,8 @@ tag:
   - US Digital Service
   - USDS
   - user centered design
-  - user experience
-  - UX
+  - user-experience
+  - ux
   - VA
 ---
 

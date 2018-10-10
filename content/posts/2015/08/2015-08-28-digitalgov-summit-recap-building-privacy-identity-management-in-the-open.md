@@ -5,9 +5,8 @@ title: 'DigitalGov Summit Recap: Building Privacy & Identity Management in the O
 summary: 'How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the 2015 DigitalGov Citizen Services Summit. &#8220;Cybersecurity has really come a long way in the last 10 years, unifying the conversation about risk across organizations,&#8221; said'
 authors:
   - andreanocesigritz
-categories:
+topics:
   - Our Work
-tag:
   - DigitalGov Summit
   - DOT
   - National Institute of Standards and Technology

@@ -1,0 +1,71 @@
+{{/* Single Tag + article list */}}
+{{/* lists out the articles for a given tag */}}
+
+{{ define "content" }}
+
+<main role="main" id="topic" class="collection">
+  <div class="grid-container padding-x-2">
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12 tablet:grid-col-3">
+        <nav class="topics-featured">
+          <header>
+            <h4>Topics</h4>
+          </header>
+          <ul class="add-list-reset">
+            {{ $topics := (where .Site.Pages "Section" "topics") }}
+            {{ range $name, $taxonomy := $topics.ByTitle }}
+              {{ if or (eq .Params.weight 2) (eq .Params.weight 3) }}
+              <li>
+                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
+              </li>
+              {{ end }}
+            {{ end }}
+          </ul>
+          <footer>
+            <p><a href="{{ "/topics/" | absURL }}">See all {{ len $topics }} topics »</a></p>
+          </footer>
+        </nav>
+      </div>
+
+
+      <div class="grid-col-12 tablet:grid-col-9">
+        <section class="article-list">
+          <header>
+
+            <h1>{{ .Title }}</h1>
+
+          </header>
+          {{ range .Paginator.Pages }}
+
+          <article>
+            <div class="grid-row grid-gap-3">
+              <div class="grid-col-3">
+                <div class="media">
+                  <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
+                    {{ partial "img-featured--home.html" . }}
+                  </a>
+                </div>
+              </div>
+              <div class="grid-col-9">
+                <header>
+                  <h3><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></h3>
+                  <p>{{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
+
+                </header>
+                <footer>
+                  <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2" -}}</a><span>&#10038;</span>{{- partial "core/get_authors_short" . -}}
+                </footer>
+              </div>
+            </div>
+          </article>
+
+          {{ end }}
+          {{ partial "pagination.html" . }}
+        </section>
+
+      </div>
+    </div>
+  </div>
+</main>
+
+{{ end }}

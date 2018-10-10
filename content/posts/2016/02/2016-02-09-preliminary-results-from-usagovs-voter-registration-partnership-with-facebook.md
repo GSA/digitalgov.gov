@@ -5,12 +5,11 @@ title: 'Preliminary Results from USAGov&#8217;s Voter Registration Partnership w
 summary: 'The first phase of our partnership with Facebook included Facebook &#8220;megaphones&#8221; being rolled out in a handful of states with rapidly approaching voter registration deadlines. Facebook&#8217;s megaphone is a featured box that is displayed at the top of all user&#8217;s News Feeds. (You may recall seeing these after certain disasters giving users the option to'
 authors:
   - jessica-milcetich
-categories:
-  - Metrics
-  - Social Media
-tag:
+topics:
+  - metrics
+  - social-media
   - analytics
-  - analytics.usa.gov
+  - analytics-usa-gov
   - Facebook
   - social media
   - social media metrics

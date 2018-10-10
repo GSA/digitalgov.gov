@@ -5,14 +5,13 @@ title: '&#8220;Congress Creates the Bill of Rights&#8221; from National Archives
 summary: ' Whether it&#8217;s the 800-year-old legacy of the Magna Carta, the Bill of Rights of the United States Constitution or the more recent Charter of Fundamental Rights of the European Union, all of these documents are powerful'
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
-  - mobile apps
+topics:
+  - mobile
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
-  - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - thursday-mobile-products
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/08/480-x-351-NARA-Congress-Creates-the-Bill-of-Rights-app-Constitutional-Amendment.jpg" alt="The NARA app, Congress Creates the Bill of Rights, showing a Constitutional amendment screen on an iPad" >}}

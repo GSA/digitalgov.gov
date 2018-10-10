@@ -5,13 +5,13 @@ title: 'Making Customer Satisfaction Data Actionable at the Peace Corps'
 summary: 'Learn how measuring customer experience helped inform and guide website development at Peace Corps'
 authors:
   - chris-rottler
-categories:
+topics:
   - data
   - metrics
-  - strategy-and-policy
+  - strategy
+  - policy
   - design
   - user-testing-and-research
-tag:
   - peace-corps
   - metrics
   - analytics

@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: Thinking about Your Agency&#8217;s &#8220;Glanceable&
 summary: 'Mobile device penetration is growing, with larger screens providing more real-estate for content and users completing more complex tasks over longer periods of engagement. However, the new wave of digital screens on watches and wearables is requiring organizations to consider how to build smaller, faster and simpler interfaces to prepare for &ldquo;glanceable moments.&rdquo; Ted Schadler from Forrester Research provided the following explanation:'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

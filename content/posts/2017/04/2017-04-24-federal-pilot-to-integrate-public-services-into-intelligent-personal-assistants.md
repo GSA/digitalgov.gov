@@ -5,13 +5,12 @@ title: Federal Pilot to Integrate Public Services Into Intelligent Personal Assi
 summary: 'The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day&mdash;and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges. The U.S. General Services Administration’s (GSA)'
 authors:
   - jherman
-categories:
-  - Communities
+topics:
+  - communities
   - emerging-tech
-  - Managing Digital
+  - managing-digital
   - Our Work
-tag:
-  - AI
+  - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
   - communities
@@ -21,7 +20,7 @@ tag:
   - OPP
   - social media
   - SocialGov
-  - SocialGov Community
+  - socialgov-community
   - virtual-reality
   - virtual-augmented-reality-community
 ---
@@ -44,4 +43,4 @@ GSA’s Emerging Citizen Technology program includes the government-wide support
 
 * * *
 
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
+_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._

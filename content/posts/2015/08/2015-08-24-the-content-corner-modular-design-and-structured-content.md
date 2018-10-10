@@ -5,13 +5,12 @@ title: 'The Content Corner: Modular Design and Structured Content'
 summary: 'Several months ago I discussed the concept of a world without Web pages and the importance of structured content and thinking about content, not pages. This week, I’m taking that discussion further by discussing the importance of modularity in Web design and how that complements our efforts to create more structured and reusable data. Break'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-  - Design
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - design
+  - administrative-office-of-the-united-states-courts
   - content models
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - structured content
   - The Content Corner
 ---

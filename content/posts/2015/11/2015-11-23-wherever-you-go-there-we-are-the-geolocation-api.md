@@ -6,11 +6,10 @@ summary: 'No matter how you go mobile, you can meet your user’s needs. Recomme
 authors:
   - awichman
   - leo-yang
-categories:
-  - API
-  - Mobile
-tag:
-  - API
+topics:
+  - api
+  - mobile
+  - api
   - mobile
   - NPS
   - US National Park Service

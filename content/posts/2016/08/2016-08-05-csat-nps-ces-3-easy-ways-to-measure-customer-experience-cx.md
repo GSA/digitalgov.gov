@@ -5,13 +5,13 @@ title: 'CSAT, NPS, and CES: 3 Easy Ways to Measure Customer Experience (CX)'
 summary: 'Have you ever wondered how to measure a customer’s experience? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance,'
 authors:
   - craig-chavez
-categories:
-  - Metrics
-  - strategy-and-policy
-tag:
+topics:
+  - metrics
+  - strategy
+  - policy
   - analytics
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
   - metrics
 ---

@@ -5,17 +5,16 @@ title: 'Making Mobile Gov: User Experience Recommendations'
 summary: 'How We Did It Last November, as part of revisiting the state of Mobile Gov, government mobile innovators identified a need for guidelines to help create amazing and engaging mobile user experiences. We convened a group to workshop around elements of mobile user experience with the'
 authors:
   - jparcell
-categories:
-  - Mobile
-  - UX
-tag:
+topics:
+  - mobile
+  - ux
   - DOL
-  - mobile apps
-  - mobile gov community of practice
+  - mobile-apps
+  - mobile-gov-community-of-practice
   - NIH
   - US Department of Labor
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 ### How We Did It

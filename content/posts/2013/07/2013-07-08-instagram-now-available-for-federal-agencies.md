@@ -5,15 +5,14 @@ title: Instagram Now Available for Federal Agencies
 summary: Instagram is the latest mobile and social media tool available to federal, state and local governments to better engage with the public, with a newly negotiated government-compatible Terms of Service (TOS) agreement. GSA collaborated with Instagram to negotiate the amended terms, which brings the total number of
 authors:
   - bsteele
-categories:
-  - Managing Digital
-  - Social Media
-tag:
+topics:
+  - managing-digital
+  - social-media
   - GSA
-  - Instagram
+  - instagram
   - SocialGov
   - Terms of Service
-  - White House
+  - white-house
 ---
 
 <p dir="ltr">

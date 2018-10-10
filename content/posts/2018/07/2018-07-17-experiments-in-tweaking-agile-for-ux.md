@@ -6,11 +6,10 @@ summary: 'Designers at the Federal Reserve Board share how they adjusted the agi
 authors:
   - meghan-lazier
   - jessica-skretch
-categories:
+topics:
   - design
   - managing-digital
   - ux
-tag:
   - agile
   - sprint
   - user-experience

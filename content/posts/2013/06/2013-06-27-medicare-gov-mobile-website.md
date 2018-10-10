@@ -5,13 +5,12 @@ title: Medicare.gov Mobile Website
 summary: 'The Centers for Medicare and Medicaid Services redesigned Medicare.gov as a new and improved responsive mobile website for their users (beneficiaries, caregivers and advocates).  The users of the Medicare.gov can apply for Medicare services find health plans, doctors, hospitals and nursing homes review Medicare costs, claims, appeals and'
 authors:
   - kanika-tolver
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - HHS
-  - mobile gov
+  - mobile-gov
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2013/06/medicare.gov-mobile-site.jpg" alt="Medicare.gov mobile website screenshot" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/medicare.gov-mobile-site.jpg)The [Centers for Medicare and Medicaid Services](http://cms.gov/) redesigned [Medicare.gov](http://www.medicare.gov) as a new and improved responsive mobile website for their users (beneficiaries, caregivers and advocates). The users of the Medicare.gov can

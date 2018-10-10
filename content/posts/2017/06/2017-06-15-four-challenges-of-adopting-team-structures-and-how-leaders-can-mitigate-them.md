@@ -5,11 +5,10 @@ title: Four Challenges of Adopting Team Structures (And How Leaders Can Mitigate
 summary: 'If you’re considering &ldquo;going agile,&rdquo; one of the critical components of such a transformation will be adopting team structures. In your current, pre-teaming state, your developers are probably working by themselves, and may be engaging directly with stakeholders. Agile will place your developers into teams. Teaming is important, as it will enable your development staff'
 authors:
   - brian-fox
-categories:
-  - Managing Digital
-tag:
+topics:
+  - managing-digital
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - best practices
 ---
 

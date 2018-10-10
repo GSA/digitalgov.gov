@@ -5,10 +5,9 @@ title: 'Joining Forces with BusinessUSA to Better Serve Our Nation&#8217;s Busin
 summary: 'Four years ago, BusinessUSA launched with a mission to revolutionize the way government provides services to small businesses and exporters. Using technology to erase bureaucratic boundaries, BusinessUSA streamlined the way businesses find and get what they need from government. This &ldquo;no wrong door&rdquo; approach combined resources from over 800 websites and created a single point'
 authors:
   - ryan-edelstein
-categories:
-  - Content
-  - Managing Digital
-tag:
+topics:
+  - content
+  - managing-digital
   - content
   - usa.gov
 ---

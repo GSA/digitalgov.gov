@@ -5,9 +5,8 @@ title: 'Trends on Tuesday: Mobile Surpasses Desktop for Social Media'
 summary: 'More users are now accessing social media via mobile than on desktops.   People are checking email or using social networks during their commute, in line at the grocery store, or waiting at the doctor&#8217;s'
 authors:
   - lisa-wilcox
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Facebook
   - mobile
   - mobile-first

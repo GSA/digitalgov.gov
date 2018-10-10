@@ -5,9 +5,8 @@ title: Are Videos in Spanish the Way To Go?
 summary: ' The answer may surprise you. It takes time, resources and actual money. Why prepare a video for something that can be written about and released in'
 authors:
   - edgardo-morales
-categories:
-  - Video
-tag:
+topics:
+  - video
   - GobiernoUSAgov
   - multilingual
   - USAgov

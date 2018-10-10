@@ -5,13 +5,12 @@ title: Designing in the Open Training Recap
 summary: 'During the recent redesign of Data.gov, the team developed a process that helped them respond to public feedback, track the actions and hold themselves accountable. In a DigitalGov University webinar, &#8220;Designing in the Open&mdash;Public Participation in Government Web Design,&#8221; Phil Ashlock, chief architect at Data.gov, and Jeanne Holm, Data.gov evangelist, shared how integrating feedback from'
 authors:
   - andreanocesigritz
-categories:
-  - Content
+topics:
+  - content
   - Data
   - Monthly Theme
   - Our Work
-tag:
-  - data.gov
+  - data-gov
   - GitHub
   - open source
   - Recaps

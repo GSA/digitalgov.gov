@@ -5,11 +5,10 @@ title: 'Government CX: Where Do You Find the Right Foundational Metrics?'
 summary: 'Customer service. Customer satisfaction. Improving the customer experience. These buzzwords have become well-trodden territory among government strategists as a new wave of agencies attempt to ignite&mdash;or reignite&mdash;a focus on customers. Of course, putting customers first is a worthy goal. But what, exactly, do we mean when we use words like &ldquo;service&rdquo; and &ldquo;satisfaction&rdquo;? These terms'
 authors:
   - stephanie-thum
-categories:
-  - Managing Digital
-  - Metrics
-tag:
-  - Customer Experience
+topics:
+  - managing-digital
+  - metrics
+  - customer-experience
   - customer satisfaction
   - Export-Import Bank of the United States
 ---

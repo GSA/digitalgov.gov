@@ -5,9 +5,8 @@ title: 'The Data Briefing: Mapping the Big Data Ecosystem of U.S. Agriculture'
 summary: 'The Congressional Research Service recently released a report (PDF, 688 kb, 17 pages, January 2016) describing the big data ecosystem for U.S. agriculture. The purpose of the report was to understand the federal government’s role in emerging big data sources and technologies involved in U.S. agriculture. As the report author, Megan Stubbs, points out, there is'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
-tag:
   - big data
   - Commerce
   - data
@@ -15,7 +14,7 @@ tag:
   - Library of Congress
   - LOC
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---

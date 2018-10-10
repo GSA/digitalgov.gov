@@ -5,16 +5,15 @@ title: Harnessing the Power of Many—DigitalGov Summit Recap
 summary: 'At the DigitalGov Citizen Services Summit last Friday, Jacob Parcell, Manager, Mobile Programs at the General Services Administration led a panel on the challenges and benefits of Inter-Agency work. The other panels were on performance analysis, customer service across channels, and public private partnerships. &ldquo;The challenges are real,&rdquo; said Parcell, who quoted President Obama&#8217;s famous salmon'
 authors:
   - alison-lemon
-categories:
-  - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Social Media
-  - UX
-tag:
+topics:
+  - challenges
+  - code
+  - content
+  - managing-digital
+  - metrics
+  - mobile
+  - social-media
+  - ux
   - Census
   - DOL
   - EPA

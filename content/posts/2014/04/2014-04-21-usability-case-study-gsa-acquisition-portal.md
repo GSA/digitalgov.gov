@@ -5,16 +5,15 @@ title: 'GSA Acquisition Portal &#8211; Usability Case Study'
 summary: 'Incorporating usability testing throughout the entire design process, especially before launch, allows you catch glitches and/or make design changes prior to anyone seeing it live. When more than minor adjustments need to be made to your site, it’s much better to have completed them before the public sees it. For Christina Mullins, a Contracting Officer'
 authors:
   - tlowden
-categories:
-  - Design
+topics:
+  - design
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - DigitalGov User Experience Program
   - GSA
   - usability case study
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 <p dir="ltr">

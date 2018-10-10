@@ -5,11 +5,11 @@ title: Announcing the Digital Acquisition Accelerator Playbook
 summary: 'Built on the lessons learned during the pilot phase of the Digital Acquisitions Accelerator, the accompanying playbook examines the current acquisition landscape and provides an approach to procuring custom software solutions.'
 authors:
   - duane-rollins
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - managing-digital
+  - strategy
+  - policy
+  - 18f
   - acquisition
   - agile
   - Digital Acquisition Playbook

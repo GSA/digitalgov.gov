@@ -5,29 +5,28 @@ title: Data, Code, and API Event Round Up
 summary: ' DigitalGov University has hosted some great events over the last year in partnership with Data.gov, the MobileGov Community and 18F to bring you information on opening data and building APIs. This month we’ve rounded up the events over the past year so that you can see what’s'
 authors:
   - apiazza
-categories:
+topics:
   - Monthly Theme
   - Our Work
-tag:
-  - 18F
-  - API
+  - 18f
+  - api
   - CFPB
   - Consumer Financial Protection Bureau
-  - Content Management System
+  - content-management-system
   - data
-  - data.gov
+  - data-gov
   - drupal
   - GitHub
   - inventory.data.gov
   - json
   - metadata
-  - mobile gov community of practice
+  - mobile-gov-community-of-practice
   - open and structured content models
   - open data
   - Recaps
   - responsive web design
   - US Department of State
-  - White House
+  - white-house
 ---
 
 [{{< legacy-img src="2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< link "events" >}})

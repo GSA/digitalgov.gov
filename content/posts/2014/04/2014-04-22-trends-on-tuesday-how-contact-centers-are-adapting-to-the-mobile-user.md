@@ -5,15 +5,15 @@ title: 'Trends on Tuesday: How Contact Centers are Adapting to the Mobile User'
 summary: While it does provide challenges, anytime, anywhere digital government provides numerous opportunities for contact centers to do business more effectively. According to this study by Compare Business Products, one of the most important impacts for contact centers is that smartphone users can now connect with contact centers via voice calls, SMS messages, Internet pages, social
 authors:
   - jparcell
-categories:
-  - Communities
-  - Mobile
+topics:
+  - communities
+  - mobile
   - Monthly Theme
-  - strategy-and-policy
-tag:
+  - strategy
+  - policy
   - AoI
   - GPS
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - Trends on Tuesday
   - US Department of Veterans Affairs

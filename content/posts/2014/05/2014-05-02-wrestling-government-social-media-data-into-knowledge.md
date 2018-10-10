@@ -5,12 +5,11 @@ title: Wrestling Government Social Media Data Into Knowledge
 summary: 'This week the SocialGov Community took the step of recruiting a Digital Engagement Knowledge Manager, and I am excited to join the team through the innovative new Open Opportunities Program. At this point, though, you may be asking&mdash;is there really so much information out there that it needs to be'
 authors:
   - alison-lemon
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - DOL
   - social media
-  - SocialGov Community
+  - socialgov-community
   - US Department of Labor
 ---
 

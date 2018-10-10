@@ -5,12 +5,11 @@ title: Content Management Systems Toolkit
 summary: 'Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device&mdash;via open content&mdash;is a key goal of the Digital Government Strategy. A content management system (CMS) can help your agency move to an open content model, making it easier for people to find, share, use, and re-use your information. The key steps'
 authors:
   - rflagg
-categories:
-  - API
-  - Content
-tag:
+topics:
+  - api
+  - content
   - CMS
-  - Content Management System
+  - content-management-system
   - content strategy
   - metadata
   - open source

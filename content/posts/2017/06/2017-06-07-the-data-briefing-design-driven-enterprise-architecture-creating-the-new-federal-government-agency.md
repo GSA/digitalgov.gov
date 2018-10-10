@@ -5,18 +5,18 @@ title: 'The Data Briefing: Design-Driven Enterprise Architecture Creating the Ne
 summary: 'It’s been a while since I’ve checked in on enterprise architecture (EA). My last in-depth work with EA was around 2011 when I was on detail to the Office of Personnel Management’s Open Government Team. The EA model I worked with was the top-down organizational design of information technology assets, data assets, and business processes.'
 authors:
   - bbrantley
-categories:
-  - API
+topics:
+  - api
   - Data
-  - Managing Digital
-  - strategy-and-policy
-tag:
+  - managing-digital
+  - strategy
+  - policy
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - architecture
   - best practices
   - data
-  - The Data Briefing
+  - the-data-briefing
 ---
 
 It’s been a while since I’ve checked in on enterprise architecture (EA). My last in-depth work with EA was around 2011 when I was on detail to the Office of Personnel Management’s Open Government Team. The EA model I worked with was the top-down organizational design of information technology assets, data assets, and business processes. Many of you are probably familiar with this traditional EA model.

@@ -5,10 +5,9 @@ title: Are FAQs Still Relevant?
 summary: 'Users have questions. Your content and website navigation can help them find answers, or potentially cause frustration. One tool for answering questions is up for debate: are FAQ sections still relevant in 2015, or are they a relic of bygone days? Nielsen Norman Group recently published two articles arguing for the continued use and usefulness'
 authors:
   - awichman
-categories:
+topics:
   - Monthly Theme
-  - UX
-tag:
+  - ux
   - CFPB
   - Consumer Financial Protection Bureau
   - customer service
@@ -19,8 +18,8 @@ tag:
   - US Digital Service
   - USDS
   - user centered design
-  - user experience
-  - User Experience Community of Practice
+  - user-experience
+  - user-experience-community-of-practice
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Frequently-Asked-Questions-Typed-on-an-Old-Typewriter-travellinglight-iStock-Thinkstock-176898124.jpg" alt="Frequently Asked Questions displays as typed on white paper in an old typewriter." caption="" >}} 

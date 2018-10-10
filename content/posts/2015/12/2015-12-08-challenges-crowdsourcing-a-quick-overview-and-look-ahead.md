@@ -5,14 +5,13 @@ title: 'Challenges & Crowdsourcing: A Quick Overview and Look Ahead'
 summary: 'This month we’re highlighting articles about challenge competitions and crowdsourcing across the federal government. Federal agencies can gain a wealth of ideas, services, solutions and products by asking a large, diverse crowd to contribute their talents and skills. Simply put, crowdsourcing means engaging the crowd. Often referred to as a form of open collaboration or'
 authors:
   - eric-beidel
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdfunding
@@ -27,7 +26,7 @@ tag:
   - OSTP
   - US Environmental Protection Agency
   - US National Park Service
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 This month we’re [highlighting articles about challenge competitions and crowdsourcing]({{< link "categories/monthly-theme" >}}) across the federal government.

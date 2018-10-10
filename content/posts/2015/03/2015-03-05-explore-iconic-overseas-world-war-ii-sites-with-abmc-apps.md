@@ -5,15 +5,15 @@ title: Explore Iconic Overseas World War II Sites with ABMC Apps
 summary: 'We have not forgotten, we will never forget, the debt of infinite gratitude that we have contracted with those who gave everything for our freedom. Rene Coty, Pr&eacute;sident de la R&eacute;publique Francaise Those are the words of Rene Coty, the president'
 authors:
   - kdowney
-categories:
-  - Mobile
-  - strategy-and-policy
-tag:
-  - ABMC
-  - American Battle Monuments Commission
-  - mobile apps
-  - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+topics:
+  - mobile
+  - strategy
+  - policy
+  - abmc
+  - american-battle-monuments-commission
+  - mobile-apps
+  - thursday-mobile-products
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 <div class="testimonial small">

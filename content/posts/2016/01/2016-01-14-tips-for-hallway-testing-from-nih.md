@@ -6,9 +6,8 @@ summary: 'Over the course of the last year, the National Library of Medicine (NL
 authors:
   - katie-chan
   - joanna-karpinski-widzer
-categories:
-  - UX
-tag:
+topics:
+  - ux
   - National Institutes of Health
   - National Library of Medicine
   - NIH

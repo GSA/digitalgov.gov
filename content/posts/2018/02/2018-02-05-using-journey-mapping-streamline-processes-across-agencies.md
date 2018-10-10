@@ -5,12 +5,12 @@ title: 'Using Journey Mapping to Streamline Processes Across Agencies'
 summary: 'Summary of an agency information sharing exercise to improve the customer experience for newly naturalized citizens attempting to travel abroad&#46;'
 authors: 
   - lgodfrey
-categories: 
+topics: 
   - content
   - design
   - metrics
   - ux
-tag: 
+ 
   - content
   - metrics
   - analytics

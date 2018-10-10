@@ -5,25 +5,24 @@ title: 'The Data Briefing: Help Predict the Future of Federal Government Data'
 summary: 'In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber'
 authors:
   - bbrantley
-categories:
-  - Code
-  - Content
+topics:
+  - code
+  - content
   - Data
-  - Managing Digital
-  - Mobile
-  - Social Media
-  - UX
-tag:
-  - 3D printing
-  - AI
+  - managing-digital
+  - mobile
+  - social-media
+  - ux
+  - 3d-printing
+  - ai
   - artificial intelligence
-  - Artificial Intelligence for Citizen Services Community
-  - Augmented Reality
+  - artificial-intelligence-for-citizen-services-community
+  - augmented-reality
   - best practices
   - big data
   - blockchain
   - chatbots
-  - Customer Experience
+  - customer-experience
   - customer service
   - CX
   - data
@@ -34,9 +33,9 @@ tag:
   - privacy
   - research
   - security
-  - The Data Briefing
+  - the-data-briefing
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
 ---
 
 In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber attack that took down Twitter and Netflix. {{< legacy-img src="2016/10/600-x-450-Blue-glowing-big-data-in-space-with-particles-sakkmesterke-iStock-Thinkstock-585496874.jpg" alt="Blue glowing big data in space with particles." caption="" >}} 

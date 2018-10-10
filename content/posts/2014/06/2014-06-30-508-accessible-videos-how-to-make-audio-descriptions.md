@@ -7,12 +7,11 @@ authors:
   - jonathan-rubin
   - ryan-leisinger
   - gary-morin
-categories:
-  - Accessibility
-  - Video
-tag:
+topics:
+  - accessibility
+  - video
   - DOJ
-  - NASA
+  - nasa
   - section 508
   - US Department of Justice
   - US Department of Veterans Affairs

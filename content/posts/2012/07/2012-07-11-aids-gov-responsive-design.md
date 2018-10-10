@@ -5,15 +5,14 @@ title: AIDS.gov Responsive Design
 summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov. AIDS.gov implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. View the
 authors:
   - jparcell
-categories:
-  - Design
-  - Mobile
+topics:
+  - design
+  - mobile
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - HHS
-  - Mobile Gov Experience
-  - Mobile UX Guideline 5
+  - mobile-gov-experience
+  - mobile-ux-guideline-5
   - responsive web design
 ---
 

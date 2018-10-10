@@ -6,20 +6,20 @@ summary: "Six months ago, we launched this DigitalGov.gov platform to support fe
 authors:
   - apiazza
   - gwynne-kostin
-categories:
-  - Content
-  - Managing Digital
+topics:
+  - content
+  - managing-digital
   - Our Work
-  - Social Media
-  - strategy-and-policy
-tag:
+  - social-media
+  - strategy
+  - policy
   - analytics
   - content strategy
   - GSA
   - open source
   - responsive web design
   - sitesusagov
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2014/09/600-x-350-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="American flag and global continents on various devices; mobile phone, tablet, desktop computer, notebook" caption="" >}} 

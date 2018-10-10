@@ -5,12 +5,11 @@ title: Services Mean Success for Federal Challenges
 summary: ' Challenge.gov offers a number of services to help agencies create successful competitions. One challenge that recently wrapped up made use of the full range of these services to come up with some creative, useful apps that have nationwide implications. Presidential'
 authors:
   - judy-romano
-categories:
-  - Challenges
+topics:
+  - challenges
   - Monthly Theme
-tag:
   - Census
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - open data
   - United States Census Bureau

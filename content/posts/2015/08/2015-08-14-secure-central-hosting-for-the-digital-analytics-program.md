@@ -5,9 +5,8 @@ title: 'Secure Central Hosting for the Digital Analytics Program'
 summary: 'The U.S. government&#8217;s Digital Analytics Program (DAP) collects Web traffic and analytics data from across the federal government.'
 authors:
   - eric-mill
-categories:
-  - Metrics
-tag:
+topics:
+  - metrics
   - DAP
   - Digital Analytics Program
   - HTTPS

@@ -5,15 +5,15 @@ title: 'Trends on Tuesday: Are QR Codes Still Relevant?'
 summary: 'Recently, I was designing new outreach materials and needed a way to connect this offline collateral with my agency’s digital content. Using a QR (or Quick Response) code immediately came to mind, followed by the question, &ldquo;Are QR codes still relevant?&rdquo; Opinions differ on their utility and I couldn&#8217;t find any objective data on how'
 authors:
   - tjohnson
-categories:
-  - Communities
-  - Mobile
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
+  - communities
+  - mobile
+  - social-media
+  - strategy
+  - policy
   - AoI
   - mobile
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

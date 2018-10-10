@@ -5,24 +5,23 @@ title: Another Year, Another Leap Forward for Prize Competitions
 summary: 'If federal agencies need an incentive to be more open and innovative in addressing critical issues, they need look no further than news this week from the White House. On August 10, the White House Office of Science and Technology Policy  issued its Implementation of Federal Prize Authority Progress Report for fiscal year 2015, and'
 authors:
   - eric-beidel
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
-tag:
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
   - GSA
   - OSTP
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 If federal agencies need an incentive to be more open and innovative in addressing critical issues, they need look no further than [news](https://www.whitehouse.gov/blog/2016/08/10/public-sector-prizes-and-challenges-continue-grow-use-and-sophistication) this week from the White House.
 
-On August 10, the [White House Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp) issued its [Implementation of Federal Prize Authority Progress Report](https://www.whitehouse.gov/blog/2016/08/10/public-sector-prizes-and-challenges-continue-grow-use-and-sophistication) for fiscal year 2015, and it’s chock-full of examples of how agencies have advanced their missions through crowdsourcing and open competition. {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
+On August 10, the [White House Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp) issued its [Implementation of Federal Prize Authority Progress Report](https://www.whitehouse.gov/blog/2016/08/10/public-sector-prizes-and-challenges-continue-grow-use-and-sophistication) for fiscal year 2015, and it’s chock-full of examples of how agencies have advanced their missions through crowdsourcing and open competition. {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}}
 
 Since 2010, the U.S. General Services Administration (GSA) has provided [Challenge.gov](https://www.challenge.gov/) as a place for federal agencies to announce challenges and for citizens to compete for prizes by offering their talents and expertise to the government.
 

@@ -5,11 +5,10 @@ title: 'Data Delivers: Challenge Culminates in National Demo Day Event Slated fo
 summary: ' VISIT EVENT PAGE REGISTER NOW The U.S. Census Bureau this week will showcase some of the most innovative data-driven apps soon to spark change in cities from coast to coast during its first-ever National Demo Day. On Thursday, Aug. 13, from 2 to 3 p.m. EST, five teams that participated'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - Census
-  - ChallengeGov
+  - challenge-gov
   - Commerce
   - Department of Commerce
   - United States Census Bureau

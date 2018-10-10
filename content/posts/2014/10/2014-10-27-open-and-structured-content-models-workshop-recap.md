@@ -6,16 +6,15 @@ summary: ' People consume government information in a variety of ways: through a
 authors:
   - hannah-gladfelter-rubin
   - jparcell
-categories:
-  - Mobile
+topics:
+  - mobile
   - Monthly Theme
-tag:
   - content models
   - COPE
   - HHS
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
-  - NASA
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
+  - nasa
   - National Cancer Institute
   - NCI
   - open and structured content models

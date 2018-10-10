@@ -5,12 +5,11 @@ title: 'The Data Briefing: Finding the New Federal Government Technologists'
 summary: This week, I want to briefly discuss the human resources challenges in finding the new IT technology workers for the government. As agencies move toward microservices, artificial intelligence chatbots, and deep learning application programming interfaces (APIs), the demand for experts in these fields continues to grow fast. The universities and professional development programs are not
 authors:
   - bbrantley
-categories:
-  - Managing Digital
-tag:
+topics:
+  - managing-digital
   - acquisition
   - human resources
-  - The Data Briefing
+  - the-data-briefing
   - training
 ---
 

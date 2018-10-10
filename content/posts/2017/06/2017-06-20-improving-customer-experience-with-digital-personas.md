@@ -5,13 +5,12 @@ title: Improving Customer Experience with Digital Personas
 summary: 'Keeping the customer’s needs front and center is important when developing new digital tools. We recently developed a set of user personas as part of our work to establish a more robust&mdash;and data informed&mdash;understanding of the individuals that engage digitally with the National Archives (NARA). User personas are fictional, but realistic representations of key audience'
 authors:
   - archivist-of-the-united-states
-categories:
-  - Content
-  - Design
-  - UX
-tag:
-  - Customer Experience
-  - Customer Experience Community of Practice
+topics:
+  - content
+  - design
+  - ux
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
   - NARA
   - National Archives and Records Administration

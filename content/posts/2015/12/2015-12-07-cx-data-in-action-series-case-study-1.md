@@ -6,11 +6,10 @@ summary: 'It’s not new that agencies are inundated with data, but what data sh
 authors:
   - jacqueline-snee
   - rflagg
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
-  - Customer Experience Community of Practice
+topics:
+  - managing-digital
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
   - DGU
   - DOL

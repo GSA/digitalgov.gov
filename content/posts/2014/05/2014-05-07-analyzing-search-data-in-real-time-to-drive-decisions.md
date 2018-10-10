@@ -5,12 +5,11 @@ title: Analyzing Search Data in Real-Time to Drive Decisions
 summary: 'DigitalGov Search recently rolled out a new open source technology stack, which gives the team access to real-time analytics and dashboards to monitor search trends.'
 authors:
   - andreanocesigritz
-categories:
-  - Content
+topics:
+  - content
   - Data
-  - Metrics
+  - metrics
   - Our Work
-tag:
   - DigitalGov Search
   - open source
 ---

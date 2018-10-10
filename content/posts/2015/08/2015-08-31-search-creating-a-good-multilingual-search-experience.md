@@ -5,10 +5,9 @@ title: 'Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multiling
 summary: 'In 2015, DigitalGov Search dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support 68 different languages. Government agencies across the United States publish content in a growing number of languages to do the business of the country. Language-specific websites and mobile apps include not just translated content, but'
 authors:
   - dmccleskey
-categories:
+topics:
   - Monthly Theme
   - Our Work
-tag:
   - DigitalGov Search
   - GobiernoUSAgov
   - multilingual

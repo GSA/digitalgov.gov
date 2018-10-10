@@ -5,11 +5,10 @@ title: 'Three of the Greatest Books for Customer Experience (That Aren&#8217;t a
 summary: 'Dennis Snow and Jeanne Bliss have always been the customer experience (CX) authorities in my mind. Dennis’s Lessons from the Mouse and Jeanne’s Chief Customer Officer were two of the first books I read that described what the practice of customer experience looked like in the halls of Fortune 500 companies like Lands End and Microsoft,'
 authors:
   - stephanie-thum
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Monthly Theme
-tag:
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
 ---

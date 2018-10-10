@@ -5,15 +5,14 @@ title: 'A 2016 Look Ahead: What&#8217;s on the Horizon for Digital Government?'
 summary: 'With January, and the tearing off of the old calendar, comes the annual taking stock of where we&#8217;ve been in the last year and where we can go in the year ahead. So for this month&#8217;s editorial theme, we&#8217;re taking a closer look at what we think 2016 will bring for digital government&mdash;from mobile and'
 authors:
   - andreanocesigritz
-categories:
-  - Content
-  - Mobile
+topics:
+  - content
+  - mobile
   - Monthly Theme
-tag:
   - accessibility
   - data
-  - mobile apps
-  - MobileGov
+  - mobile-apps
+  - mobile-gov
   - open data
   - social media
   - SocialGov

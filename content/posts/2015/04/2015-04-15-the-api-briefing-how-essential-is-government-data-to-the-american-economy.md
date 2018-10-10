@@ -5,11 +5,10 @@ title: 'The API Briefing: How Essential Is Government Data to the American Econo
 summary: I grew up when home computers were first being introduced to the general public. I bought my first computer, a Commodore 64, after spending a summer of mowing lawns and saving up my birthday and Christmas money. It was not until I entered college that I became an infopreneur. Infopreneurs are entrepreneurs who used computers
 authors:
   - bbrantley
-categories:
-  - API
+topics:
+  - api
   - Data
-tag:
-  - API
+  - api
   - Census
   - data
   - Department of Commerce
@@ -17,7 +16,7 @@ tag:
   - NOAA
   - open data
   - United States Census Bureau
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/04/600-x-300-American-flag-as-bar-code-Andrei-Tsalko-iStock-Thinkstock-ThinkstockPhotos-153479385.jpg" alt="American flag as bar code" caption="" >}} 

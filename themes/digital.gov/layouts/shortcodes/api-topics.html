@@ -1,0 +1,22 @@
+{{- $list := (where .Site.Pages "Section" "topics") -}}
+{{- $length := len $list -}}
+{
+  "version" : "https://jsonfeed.org/version/1",
+  "title" : "Topics | {{- .Site.Title -}}",
+  "home_page_url" : "{{- .Site.BaseURL -}}",
+  "count" : "{{ $length }}",
+  "items" : [
+  {{- range $i, $e := $list.ByTitle -}}
+    {
+      "slug" : "{{ .URL | replaceRE "^/topics/([^/]+).*" "$1" }}",
+      "path" : "{{ .URL -}}",
+      "display_name" : "{{ .Title -}}",
+      "summary" : "{{ .Params.summary -}}",
+      "weight" : "{{- .Params.weight -}}"
+    }
+    {{- $.Scratch.Add "i" 1 -}}
+    {{- $iterator := $.Scratch.Get "i" -}}
+    {{- if not (eq $length $iterator) -}}, {{- end -}}
+  {{ end }}
+  ]
+}

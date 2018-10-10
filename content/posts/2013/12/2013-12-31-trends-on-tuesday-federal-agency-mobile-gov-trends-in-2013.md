@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: Federal Agency Mobile Gov Trends in 2013'
 summary: Today we want to tell you about the federal agency trends we saw this year in the development of public facing mobile products. Digital Government Strategy drove Mobile Gov Development Digital Government Strategy milestone 7.2 required agencies to implement two public facing mobile products in May. The White House highlighted
 authors:
   - jparcell
-categories:
-  - Managing Digital
-  - Mobile
-tag:
+topics:
+  - managing-digital
+  - mobile
   - CDC
   - Census
   - content models
@@ -17,9 +16,9 @@ tag:
   - FEMA
   - HUD
   - mobile
-  - Mobile Code Catalog
-  - mobile gov
-  - National Gallery of Art
+  - mobile-code-catalog
+  - mobile-gov
+  - national-gallery-of-art
   - NOAA
   - responsive web design
   - Trends on Tuesday
@@ -28,8 +27,8 @@ tag:
   - US National Park Service
   - United States Department of Energy
   - United States Department of Housing and Urban Development
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 [{{< legacy-img src="2014/01/Gov-Apps.png" alt="Gov Apps" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Gov-Apps.png)Today we want to tell you about the federal agency trends we saw this year in the development of public facing mobile products.

@@ -8,11 +8,11 @@ authors:
   - eric-mill
   - omid-ghaffari-tabrizi
   - waldo-jaquith
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - managing-digital
+  - strategy
+  - policy
+  - 18f
   - DoD
   - security
   - Technology Transformation Service

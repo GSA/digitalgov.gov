@@ -5,11 +5,10 @@ title: Safety and Transparency Through Data
 summary: ' You have the right to a safe workplace&mdash;and so do the employees at your favorite caf&eacute;, the local hospital and the construction company renovating homes in your neighborhood. But how can you tell if the businesses you patronize'
 authors:
   - michael-pulsifer
-categories:
-  - API
+topics:
+  - api
   - Data
-tag:
-  - API
+  - api
   - data
   - 'Occupational Safety and Health Administration'
   - open data

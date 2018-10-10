@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: Larger Screen Smartphones See Accelerated Shipments'
 summary: 'Smaller doesn&#8217;t mean more popular when it comes to smartphone screen size. According to mobile analyst Canalys, shipments for phones with screens larger than 5&#8243; represented a third of total shipments worldwide in Q1 this year. Devices with a screen size larger than 5&#8243; are more popularly known as &#8220;phablets&#8221; (not quite tablets, not quite phones). Government agencies'
 authors:
   - jparcell
-categories:
-  - Mobile
+topics:
+  - mobile
   - user-testing-and-research
-tag:
   - Federal CrowdSource Mobile Testing Program
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-4
   - Trends on Tuesday
 ---
 

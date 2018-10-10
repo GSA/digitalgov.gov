@@ -5,25 +5,24 @@ title: 'The Data Briefing: Mobile Apps, Responsive Web Sites, and the &#8220;Mob
 summary: 'The debate between responsive websites and mobile apps took a decisive turn this week when the United Kingdom’s Digital Service (UKDS) banned the creation of mobile apps. In an interview with GovInsider, the founder of UKDS, Ben Terrett, explained that mobile apps were too expensive to build and maintain. Responsive websites were easier to build'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
-  - Mobile
-tag:
-  - AI
+  - mobile
+  - ai
   - artificial intelligence
   - big data
-  - Customer Experience
+  - customer-experience
   - CX
   - data
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - NOAA
   - open data
   - responsive web design
-  - The Data Briefing
+  - the-data-briefing
 ---
 
 The debate between responsive websites and mobile apps took a decisive turn this week when the United Kingdom’s Digital Service (UKDS) banned the creation of mobile apps. In an [interview with _GovInsider_](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/), the founder of UKDS, Ben Terrett, explained that mobile apps were too expensive to build and maintain. Responsive websites were easier to build and updating the application only requires changing one platform. &#8220;For government services that we were providing, the web is a far far better way… and still works on mobile,&#8221; Terrett said. {{< legacy-img src="2016/07/600-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="" >}} 

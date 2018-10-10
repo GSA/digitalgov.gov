@@ -5,10 +5,9 @@ title: Presenting Online Data to Wide-Ranging User Communities
 summary: 'Presenting data online that will serve a wide range of users can be challenging. It requires an understanding of the target users’ needs, interests, and familiarity with the use of data handling tools. This challenge can be especially daunting for government  websites that present data for use by the general public. The audience for such'
 authors:
   - rhonda-a-pretlow
-categories:
+topics:
   - Data
   - user-testing-and-research
-tag:
   - data
   - research
   - user centered design

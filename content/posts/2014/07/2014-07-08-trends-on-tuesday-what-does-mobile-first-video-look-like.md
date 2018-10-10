@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: What Does Mobile-First Video Look Like?'
 summary: 'Like many Americans during the last month, I developed FIFA fever. Checking on scores, anticipating the latest Google Doodle and watching game highlights became part of my daily iPhone routine. Despite the elimination of Team U.S.A, mobile video consumption continues to win new fans. Consider these mobile video viewing statistics: On average, consumers spend 33 minutes'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
-  - Mobile UX Guideline 5
+topics:
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

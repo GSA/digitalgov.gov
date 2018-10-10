@@ -5,17 +5,16 @@ title: 'USGS is Asking If You Felt It: Latest Earthquakes'
 summary: ' Having experienced everything from little tremors to violent shaking, I know what it is like to live in an earthquake zone. Hiding below a large table or under the sturdy doorframe, and at times with the'
 authors:
   - nirmala-ramprasad
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Geological Survey
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - USGS
 ---
 

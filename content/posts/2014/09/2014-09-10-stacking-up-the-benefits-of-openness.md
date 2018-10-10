@@ -5,11 +5,10 @@ title: Stacking Up the Benefits of Openness
 summary: Open government, open source, openness. These words are often used in talking about open data, but we sometimes forget that the root of all of this is an open community. Individuals working together to release government data and put it to use to help their neighbors and reach new personal goals. This sense of community
 authors:
   - jeanne-holm
-categories:
-  - Code
-  - Social Media
-tag:
-  - data.gov
+topics:
+  - code
+  - social-media
+  - data-gov
   - open government
   - open source
   - Terms of Service

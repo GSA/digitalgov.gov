@@ -5,21 +5,20 @@ title: 'Challenge & Prize Competition Round-Up'
 summary: Recap of the 2014 Challenge and Prize competition events hosted by DigitalGov
 authors:
   - apiazza
-categories:
-  - Challenges
+topics:
+  - challenges
   - Monthly Theme
-tag:
   - CFPB
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - Consumer Financial Protection Bureau
   - crowdsourcing
-  - NASA
+  - nasa
   - open source
   - OSTP
   - Recaps
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 

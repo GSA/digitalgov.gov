@@ -5,23 +5,22 @@ title: 'The API Briefing: APIs Come In Many (Data) Flavors'
 summary: This week, we will look at three different APIs that demonstrate how agencies use different technologies to serve out data. Presenting data in various formats encourages developers to build on federal APIs. As past columns have shown, the innovative apps created with federal data are quickly growing. The latest API news this week is how
 authors:
   - bbrantley
-categories:
-  - API
+topics:
+  - api
   - Data
-tag:
   - Census
   - DOL
   - FAA
   - Federal Aviation Administration
-  - mobile apps
-  - Mobile Code Catalog
+  - mobile-apps
+  - mobile-code-catalog
   - OPM
   - US Department of Labor
   - United States Census Bureau
   - United States Geological Survey
   - United States Office of Personnel Management
   - USGS
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/06/250-x-167-23891851-3-ice-cream-cones-Jupiterimages-Photos-com-Thinkstock-89697244.jpg" alt="Three different flavors of ice cream cones, on a blue gradient background" caption="" >}} 

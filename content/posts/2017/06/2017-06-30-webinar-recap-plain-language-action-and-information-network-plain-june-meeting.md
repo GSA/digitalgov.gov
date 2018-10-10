@@ -5,11 +5,10 @@ title: 'Webinar Recap: Plain Language Action and Information Network (PLAIN) Jun
 summary: 'This month&#8217;s Plain Language of Community Practice meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful DigitalGov University (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session. Many'
 authors:
   - samantha-hinz
-categories:
-  - Content
+topics:
+  - content
   - 'Strategy and Policy'
   - Writing
-tag:
   - content
   - content strategy
   - Plain language

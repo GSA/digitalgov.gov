@@ -5,10 +5,9 @@ title: 'Government Video: Laws you need to follow'
 summary: 'Government videos need to follow two main laws: People with disabilities must be able to fully experience them, and  They must adhere to privacy laws 1. Making Video Accessible for People with Disabilities (Section 508) Federal employees are required by law (Section 508 of the Rehabilitation Act of 1973) to make the materials they create'
 authors:
   - jonathan-rubin
-categories:
-  - Content
-  - Video
-tag:
+topics:
+  - content
+  - video
   - accessibility
   - privacy
 ---

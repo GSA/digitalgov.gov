@@ -5,10 +5,9 @@ title: 'Updated: Live Blogging the Analytics Dashboard on #TaxDay'
 summary: '2 a.m. EDT, April 16 Looks like the traffic peak for #TaxDay was around 3:00 pm when 194,301 people were on government sites. We&#8217;re now less than one-quarter of that traffic, and the more regular patterns of top sites are reasserting themselves. We’re talking about YOU, NASA astronomy picture of the day and that wonderful'
 authors:
   - awichman
-categories:
-  - Metrics
+topics:
+  - metrics
   - Our Work
-tag:
   - analytics
   - Digital Analytics Program
 ---

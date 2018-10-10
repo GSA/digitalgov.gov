@@ -5,15 +5,14 @@ title: Check Your Refund Status AND Pay Your Taxes With IRS2Go
 summary: 'This tax season, it’s not just taxpayers expecting a refund who can take advantage of IRS2Go, the IRS’ mobile app, but now taxpayers who owe money are able to make payments through the app. IRS2Go offered for Amazon, Android and'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Internal Revenue Service
   - IRS
-  - mobile apps
-  - Thursday Mobile Products
+  - mobile-apps
+  - thursday-mobile-products
   - US Digital Registry
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 This tax season, it’s not just taxpayers expecting a refund who can take advantage of [IRS2Go](https://www.irs.gov/uac/IRS2GoApp), the IRS’ mobile app, but now taxpayers who owe money are able to make payments through the app.

@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: Avoid the Testing Black Hole'
 summary: ' Remember the Golden Age of Web development? A time long ago when there were only five desktop browsers to support, a few different screen sizes and every user connected via broadband? Well, those days are over. With the advent of mobile Web'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Federal CrowdSource Mobile Testing Program
-  - mobile testing
-  - Mobile UX Guideline 4
+  - mobile-testing
+  - mobile-ux-guideline-4
   - responsive web design
   - SSA
   - The United States Social Security Administration

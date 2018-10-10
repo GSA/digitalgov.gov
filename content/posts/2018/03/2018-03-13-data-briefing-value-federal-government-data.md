@@ -5,10 +5,9 @@ title: 'The Value of Federal Government Data'
 summary: 'Dr. Bill Brantley covers the application of infonomics as a way to help agencies to measure and use data for organizational innovation and digital transformation.'
 authors:
   - bbrantley
-categories:
+topics:
   - data
   - metrics
-tag:
   - big-data
   - analytics
 featured_image:

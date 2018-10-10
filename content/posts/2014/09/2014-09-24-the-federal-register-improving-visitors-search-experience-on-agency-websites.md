@@ -5,15 +5,14 @@ title: 'The Federal Register: Improving Visitors’ Search Experience on Agency 
 summary: 'The Office of the Federal Register’s mission &ldquo;informs citizens of their rights and obligations, documents the actions of Federal agencies, and provides a forum for public participation in the democratic process.&rdquo; As the winner of the Bright Idea Award, FederalRegister.gov is clear and easy to use, but most citizens rarely frequent it. More frequently they'
 authors:
   - rachel-mundstock
-categories:
-  - Content
-  - Managing Digital
+topics:
+  - content
+  - managing-digital
   - Our Work
-tag:
-  - API
+  - api
   - DigitalGov Search
   - Federal Register
-  - Instagram
+  - instagram
   - NLM
   - 'Occupational Safety and Health Administration'
   - OSHA

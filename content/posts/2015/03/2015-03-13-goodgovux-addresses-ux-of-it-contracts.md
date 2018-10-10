@@ -5,15 +5,14 @@ title: GoodGovUX Addresses UX of IT Contracts
 summary: How do you define user experience (UX)? That was the question posed to more than 100 people at the GoodGovUX event at the Artisphere in Arlington, Virginia, on February 24th. Attendees learned how government can improve the user experience of digital products, from
 authors:
   - jordan-higgins
-categories:
-  - Accessibility
-  - Design
+topics:
+  - accessibility
+  - design
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - RFP
   - usability
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/03/250-x-333-goodgovux-1.jpg" alt="Keith Deaven from Mediabarn kicks off the GoodGovUX event" >}}How do you define user experience (UX)?

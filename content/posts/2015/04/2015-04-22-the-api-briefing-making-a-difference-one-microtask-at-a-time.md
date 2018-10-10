@@ -5,11 +5,10 @@ title: 'The API Briefing: Making a Difference One Microtask at a Time'
 summary: 'I recently found an app that provides a great service through crowdsourcing. Be My Eyes connects visually-impaired people with volunteers. Using the smartphone’s camera, the volunteers can perform tasks such as reading an expiration date or helping someone navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how'
 authors:
   - bbrantley
-categories:
-  - API
+topics:
+  - api
   - crowdsourcing-and-citizen-science
-  - Mobile
-tag:
+  - mobile
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
@@ -17,7 +16,7 @@ tag:
   - FCPCCS
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
   - National Oceanic and Atmospheric Administration
@@ -26,7 +25,7 @@ tag:
   - United States Department of Energy
   - United States Geological Survey
   - USGS
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 I recently found an app that provides a great service through crowdsourcing. <a href="http://www.bemyeyes.org/" target="_blank">Be My Eyes</a> connects visually-impaired people with volunteers. Using the smartphone’s camera, the volunteers can perform tasks such as reading an expiration date or helping someone navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how crowdsourcing apps can make it easy for everyone to make a difference through microtasks.

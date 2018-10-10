@@ -5,15 +5,14 @@ title: The Golden Metric
 summary: 'Are you looking for the &ldquo;golden metric&#8221; that is the best measure of your agency’s website performance and cross-comparable across .gov websites? If so, stop looking. The concept of the golden metric is a dangerous one because it oversimplifies performance analysis of your website and overlooks the truth'
 authors:
   - marina-fox
-categories:
+topics:
   - Data
-  - Metrics
-tag:
+  - metrics
   - big data
   - DAP
-  - data.gov
+  - data-gov
   - Digital Analytics Program
-  - NASA
+  - nasa
   - USAgov
 ---
 

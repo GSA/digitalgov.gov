@@ -8,14 +8,13 @@ authors:
   - michael-bloom
   - jeffrey-levy
   - jessica-orquina
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - EPA
   - Facebook
   - GSA
-  - Instagram
-  - NASA
+  - instagram
+  - nasa
   - National Institutes of Health
   - National Zoological Park
   - NDU

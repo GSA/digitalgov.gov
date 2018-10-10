@@ -3,10 +3,9 @@ slug: defense-finance-and-accounting-service-goes-responsive
 date: 2014-05-15 13:15:53 -0400
 title: Defense Finance and Accounting Service Goes Responsive
 summary: 'Let&#8217;s face it: Some of us work to live. Some live to work. And all of us look forward to pay day. If you work for the Department of Defense, the Executive Office of the President, the Environmental Protection Agency, the Department of Energy, the Department of Veterans Affairs, the Department of Health'
-categories:
-  - Design
-  - Mobile
-tag:
+topics:
+  - design
+  - mobile
   - Broadcasting Board of Governors
   - Defense Finance and Accounting Services
   - DFAS
@@ -15,9 +14,9 @@ tag:
   - EPA
   - Executive Office of the President
   - HHS
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Veterans Affairs
   - US Environmental Protection Agency
   - United States Department of Defense

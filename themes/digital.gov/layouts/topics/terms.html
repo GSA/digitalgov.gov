@@ -1,0 +1,37 @@
+{{/* All Tags */}}
+{{/* lists out the tags for the site */}}
+{{ define "content" }}
+
+<main role="main" class="taxonomy">
+  <div class="grid-container padding-x-2">
+
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12">
+        <header>
+          {{ $data := $.Site.Data }}
+          <h1>Topics</h1>
+          <h4>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}</h4>
+        </header>
+      </div>
+    </div>
+
+    {{/* TOPICS / Categories / Tags */}}
+    <div class="grid-row">
+      <div class="grid-col-12">
+        <section>
+          <ul class="add-list-reset">
+            {{ $topics := (where .Site.Pages "Section" "topics") }}
+            {{ range $name, $taxonomy := $topics.ByTitle }}
+              <li>
+                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a> <em>{{ .Weight }}</em>
+              </li>
+            {{ end }}
+          </ul>
+        </section>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+{{ end }}

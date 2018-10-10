@@ -5,9 +5,8 @@ title: 'Machine Learning Paired with Skilled Data Scientists is the Future of Da
 summary: ML can provide high-value services for data management and analytics, security threat detection, and process improvement but it doesn't stop there.
 authors:
   - jada-jones
-categories:
+topics:
   - data
-tag:
   - ai
   - artificial-intelligence
   - big-data

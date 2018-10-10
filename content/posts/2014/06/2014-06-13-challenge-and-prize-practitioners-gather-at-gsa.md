@@ -5,22 +5,21 @@ title: Challenge and Prize Practitioners Gather at GSA
 summary: 'Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov team gathered the Challenges and Prizes Community of Practice together for its quarterly meeting. The group covered two topics: Highlights from challenge competitions run in 2013.'
 authors:
   - ktrebon
-categories:
-  - Challenges
-  - Code
-tag:
-  - ChallengeGov
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - code
+  - challenge-gov
+  - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - HUD
   - innovation
-  - NASA
+  - nasa
   - National Eye Institute
   - national science foundation
   - NSF
   - Recaps
   - United States Department of Housing and Urban Development
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 Got [innovation]({{< link "categories/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!

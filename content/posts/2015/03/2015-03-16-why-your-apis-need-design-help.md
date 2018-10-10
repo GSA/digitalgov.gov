@@ -5,14 +5,13 @@ title: Why Your APIs Need Design Help
 summary: ' Anything built should be built right. It doesn&#8217;t matter if it’s built of wood, carbon nanotubes or code. So it’s encouraging that the practice of User-Centered Design&mdash;getting customer feedback at every stage of a project&mdash;is catching on with'
 authors:
   - jonathan-rubin
-categories:
-  - API
-  - Code
+topics:
+  - api
+  - code
   - Monthly Theme
-  - UX
-tag:
-  - API
-  - API keys
+  - ux
+  - api
+  - api keys
   - CFPB
   - Consumer Financial Protection Bureau
   - FDA
@@ -21,8 +20,8 @@ tag:
   - US Food and Drug Administration
   - usability
   - user centered design
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" >}}

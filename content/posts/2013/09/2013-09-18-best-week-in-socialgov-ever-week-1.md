@@ -5,9 +5,8 @@ title: 'Best Week in SocialGov Ever: 1'
 summary: (This is the first installment of an ongoing series charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.) From where I sit, I think we
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - SocialGov
 ---
 

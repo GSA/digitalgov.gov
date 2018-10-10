@@ -6,10 +6,9 @@ summary: 'In this age of content marketing that has led publications to call cer
 authors:
   - tyrus-manuel
   - andreanocesigritz
-categories:
-  - Content
+topics:
+  - content
   - Monthly Theme
-tag:
   - content strategy
   - content syndication
 ---

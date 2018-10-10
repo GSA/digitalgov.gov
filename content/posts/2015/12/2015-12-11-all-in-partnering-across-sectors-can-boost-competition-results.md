@@ -5,10 +5,9 @@ title: 'All In: Partnering Across Sectors Can Boost Competition Results'
 summary: 'We’ve heard the phrase a million times: Nobody does it alone. Still, it rings true no matter what you’re trying to accomplish. When it comes to crowdsourcing competitions, government agencies are making breakthroughs in a variety of fields by partnering with companies, nonprofit organizations and others beyond the federal framework. The White House announced more'
 authors:
   - eric-beidel
-categories:
-  - Challenges
+topics:
+  - challenges
   - Monthly Theme
-tag:
   - challenges and prize competitions
   - EPA
   - US Agency for International Development

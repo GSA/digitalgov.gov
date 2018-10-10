@@ -6,10 +6,9 @@ summary: 'Sign up now to watch the DigitalGov Summit from the comfort of your de
 authors:
   - apiazza
   - jthalls
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Our Work
-tag:
   - DigitalGov Summit
 ---
 

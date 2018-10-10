@@ -5,16 +5,15 @@ title: 'Trends on Tuesday: Mobile Messaging and Social App Research Released'
 summary: On DigitalGov, we frequently talk about some of the most popular app experiences, and research almost always shows that mobile messaging and social apps are the most frequently used. Pew Research released a new report specifically about
 authors:
   - wsullivan
-categories:
-  - Mobile
-  - Social Media
-tag:
-  - Facebook
-  - Instagram
-  - LinkedIn
+topics:
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 1
+  - social-media
+  - Facebook
+  - instagram
+  - linkedin
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-1
   - social media
   - Trends on Tuesday
   - Twitter

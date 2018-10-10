@@ -5,12 +5,12 @@ title: WCMS and Custom APIs—Which One Is Right for You?
 summary: 'Gray Brooks of GSA gave us a great definition of APIs in the DigitalGov University (DGU) presentation, Introduction to APIs. He described APIs as &#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways&mdash;via mobile devices, mobile apps, innovative mash-ups, and much more.&#8221; Simply put,'
 authors:
   - christen-geiler
-categories:
-  - API
-  - Mobile
-  - strategy-and-policy
-tag:
-  - API
+topics:
+  - api
+  - mobile
+  - strategy
+  - policy
+  - api
   - CMS
   - code
   - Consumer Product Safety Commission
@@ -19,7 +19,7 @@ tag:
   - mobile
   - open
   - open source
-  - White House
+  - white-house
 ---
 
 ****[Gray Brooks]({{< link "author/gray-brooks" >}}) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)]({{< link "/digitalgov-university/" >}}) presentation, [Introduction to APIs]({{< link "2012-07-26-introduction-to-apis.md" >}}).

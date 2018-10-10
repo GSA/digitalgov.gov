@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: FCC Finds Rise in Mobile Internet Subscriptions'
 summary: 'Approximately 70% of American households have a fixed Internet source of 0.2 megabits per second or greater, according to the U.S. Federal Communications Commission&#8217;s (FCC) Measuring Broadband Across America Report that analyzes the digital divide in the U.S. Up 15% in the last decade, this increase in Internet subscription source'
 authors:
   - katie-steffy
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - FCC
   - Federal Communications Commission
-  - mobile apps
-  - mobile gov community of practice
+  - mobile-apps
+  - mobile-gov-community-of-practice
   - Trends on Tuesday
 ---
 

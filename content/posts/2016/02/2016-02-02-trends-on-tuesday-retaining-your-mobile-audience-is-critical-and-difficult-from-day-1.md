@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: Retaining Your Mobile Audience Is Critical (and Diffi
 summary: 'Google Product Director and author, Luke Wroblewski, wrote a piece about how perfecting your Day 1 experience for users is critical because retention after that point is incredibly difficult. Wroblewski said that 25% of native mobile apps are abandoned after their first use and that the number of active users drops 77% in the first three days after'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - mobile apps
-  - native app
-  - native apps
+  - mobile
+  - mobile-apps
+  - native-app
+  - native-apps
   - Trends on Tuesday
 ---
 

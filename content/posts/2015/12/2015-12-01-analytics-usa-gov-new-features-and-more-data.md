@@ -9,11 +9,10 @@ authors:
   - eric-mill
   - julia-winn
   - gabriel-ramirez
-categories:
+topics:
   - Data
-  - Metrics
-tag:
-  - 18F
+  - metrics
+  - 18f
   - analytics
   - data
   - Digital Analytics Program

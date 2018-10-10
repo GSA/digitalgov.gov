@@ -5,13 +5,12 @@ title: 18F Reflects on Their Most Meaningful Projects in 2015
 summary: 2015 was a big year for 18F. We almost doubled in size, worked with 28 different agency partners, and released products ranging from Design Method Cards to cloud.gov. Internally, we improved onboarding and our documentation by releasing guides on topics as diverse as content, accessibility, and creating good open source projects. To mark the end
 authors:
   - melody-kramer
-categories:
+topics:
   - Our Work
-tag:
-  - 18F
+  - 18f
   - accessibility
-  - analytics.usa.gov
-  - API
+  - analytics-usa-gov
+  - api
   - cloud
   - DAP
   - data
@@ -34,8 +33,8 @@ tag:
   - United States Air Force
   - USCIS
   - USDS
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 2015 was a big year for 18F. We almost doubled in size, worked with 28 different agency partners, and released products ranging from [Design Method Cards](https://methods.18f.gov/) to [cloud.gov](http://cloud.gov). Internally, we [improved onboarding](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/) and our documentation by releasing [guides](http://guides) on topics as diverse as [content](https://pages.18f.gov/content-guide/), [accessibility](https://pages.18f.gov/accessibility/), and creating [good open source projects](https://pages.18f.gov/open-source-guide/).

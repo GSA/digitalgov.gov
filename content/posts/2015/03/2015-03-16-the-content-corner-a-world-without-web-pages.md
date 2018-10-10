@@ -5,12 +5,11 @@ title: 'The Content Corner: A World Without Web Pages'
 summary: Imagine a world without Web pages, only intelligent, self-assembling chunks of content waiting to respond to your needs. The page is irrelevant, there may be no context beyond what is included in your content. The content has to survive on its own, perform its goals on its own. Originally when creating content, you would take
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
   - CMS
-  - Content Management System
+  - content-management-system
   - content models
   - content strategy
   - metadata

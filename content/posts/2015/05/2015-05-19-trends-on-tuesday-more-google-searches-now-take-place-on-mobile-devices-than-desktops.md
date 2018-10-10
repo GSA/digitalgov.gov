@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: More Google Searches Now Take Place on Mobile Devices
 summary: 'The drum beat of the continuing and quick cultural shift to mobile device dominance continues to grow&mdash;Google announced that more searches take place on mobile devices than desktops in 10 countries, including the U.S. and Japan. These searches are often driven'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - mobile-friendly
   - Trends on Tuesday

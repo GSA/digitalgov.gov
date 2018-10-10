@@ -5,19 +5,18 @@ title: How the American Battle Monument Commission Developed its First Mobile Ap
 summary: The job of the American Battle Monument Commission (AMBC) is to manage all overseas cemeteries and memorials from WWI and WWII. There are over 200,000 veterans who are buried or memorialized at these cemeteries. When ABMC began thinking about releasing a native
 authors:
   - zeshan-khan
-categories:
-  - Managing Digital
-  - Mobile
-  - UX
-tag:
-  - ABMC
-  - American Battle Monuments Commission
+topics:
+  - managing-digital
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
-  - Thursday Mobile Products
-  - user experience
+  - ux
+  - abmc
+  - american-battle-monuments-commission
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-3
+  - thursday-mobile-products
+  - user-experience
 ---
 
 {{< legacy-img src="2014/07/250-x-417-ABMC-American-Battle-Monument-Commission-app-home.jpg" alt="250 x 417 ABMC American Battle Monument Commission app home" >}}The job of the [American Battle Monument Commission](http://www.abmc.gov/) (AMBC) is to manage all overseas cemeteries and memorials from WWI and WWII. There are over 200,000 veterans who are buried or memorialized at these cemeteries. When ABMC began thinking about releasing a native mobile application, they had two primary objectives:

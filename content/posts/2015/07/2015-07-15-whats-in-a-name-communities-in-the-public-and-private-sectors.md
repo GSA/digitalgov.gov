@@ -5,10 +5,9 @@ title: 'What&#8217;s in a Name? &#8220;Communities&#8221; in the Public and Priv
 summary: Many of you are part of a government community. We lead a few of them here, and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a community for government Drupal users. A co-worker recently asked me for research on communities because she is trying to
 authors:
   - ktrebon
-categories:
-  - Communities
+topics:
+  - communities
   - Monthly Theme
-tag:
   - communities
   - DGU
   - Digital Analytics Program

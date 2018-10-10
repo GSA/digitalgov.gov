@@ -5,11 +5,10 @@ title: CX Community—Year One
 summary: 'Customer experience, or CX, is everywhere these days. Companies tout how they’re improving the customer experience with faster service, greater convenience or better products. If you’re wondering how customer &ldquo;experience&rdquo; differs from customer &ldquo;service,&rdquo; customer service usually involves a single interaction, such as a phone call to your cable company, while the customer experience encompasses'
 authors:
   - rflagg
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
-  - Customer Experience Community of Practice
+topics:
+  - managing-digital
+  - customer-experience
+  - customer-experience-community-of-practice
   - customer satisfaction
   - customer service
   - CX

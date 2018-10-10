@@ -5,11 +5,10 @@ title: /Developer Kit
 summary: These are the elements that make up a well-rounded developer hub. Homepage The API efforts of any agency should all be accessible via one easy to reach developers hub. This Web page should provide a path to all public APIs and any associated resources. Once an agency has begun to publish multiple APIs, certain resources
 authors:
   - gray-brooks
-categories:
-  - Code
-tag:
-  - API
-  - USA.gov Federal Mobile Apps Directory
+topics:
+  - code
+  - api
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 These are the elements that make up a well-rounded developer hub.

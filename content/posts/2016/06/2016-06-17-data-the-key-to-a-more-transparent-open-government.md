@@ -5,9 +5,8 @@ title: 'Data: the Key to a More Transparent, Open Government'
 summary: The work of the federal government is incredibly diverse, and affects almost every aspect of American life, whether it is keeping planes in the air or ensuring that our food is safe. Every public service the government provides requires many different skill sets, but the one thing that unites them all is a consistent requirement
 authors:
   - george-deryckere
-categories:
+topics:
   - Data
-tag:
   - GSA
   - open data
   - open government

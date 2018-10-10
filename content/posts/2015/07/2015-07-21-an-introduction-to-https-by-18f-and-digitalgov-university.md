@@ -6,11 +6,10 @@ summary: '18F uses HTTPS for everything we make, and the U.S. government is in t
 authors:
   - eric-mill
   - gray-brooks
-categories:
-  - Code
-  - Content
-tag:
-  - 18F
+topics:
+  - code
+  - content
+  - 18f
   - Recaps
 ---
 

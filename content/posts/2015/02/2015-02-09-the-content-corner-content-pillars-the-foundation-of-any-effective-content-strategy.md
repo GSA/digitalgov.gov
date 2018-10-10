@@ -5,11 +5,10 @@ title: 'The Content Corner: Content Pillars: The Foundation of Any Effective Con
 summary: 'If you and your organization don’t already have a content strategy, then you are most likely working too hard to create content that is less effective in communicating your desired message and less relevant to your end-user. The lack of a content strategy can leave you at the mercy of the content &ldquo;beast&rdquo; where you'
 authors:
   - tyrus-manuel
-categories:
-  - Communities
-  - Content
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - communities
+  - content
+  - administrative-office-of-the-united-states-courts
   - AoI
   - content strategy
   - The Content Corner

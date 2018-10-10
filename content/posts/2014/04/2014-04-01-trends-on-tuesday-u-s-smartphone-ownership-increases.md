@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: U.S. Smartphone Ownership Increases'
 summary: '159.8 million people in the U.S. over the age of 13 owned smartphones during the three months ending in January, up 7 percent since October, according to ComScore. That is a 66.8 percent mobile market penetration, meaning two thirds of people in the country'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
+topics:
+  - mobile
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

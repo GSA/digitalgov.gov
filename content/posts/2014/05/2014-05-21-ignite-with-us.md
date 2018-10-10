@@ -5,20 +5,19 @@ title: Ignite with Us
 summary: 'Have a DigitalGov success?&mdash;published an API? Got buy-in from leadership? Changed a part of your customer-service paradigm? Developed a cool dashboard? Got the app out the door? Heck! Have you prototyped a wearable, drivable or flyable? Have a DigitalGov opinion?&mdash;think we should be focusing more or less on something? Have an idea on how to'
 authors:
   - apiazza
-categories:
-  - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Social Media
-  - UX
-tag:
-  - API
+topics:
+  - challenges
+  - code
+  - content
+  - managing-digital
+  - metrics
+  - mobile
+  - social-media
+  - ux
+  - api
   - Census
   - innovation
-  - mobile apps
+  - mobile-apps
   - United States Census Bureau
 ---
 

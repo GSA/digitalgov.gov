@@ -5,13 +5,12 @@ title: 'On the Spot: Must-Have IFTTT Recipes for Government'
 summary: ' Ever since we announced IFTTT was available for federal use, dozens of ideas have been shared for how program managers can use the tool to increase their productivity. I asked some API enthusiasts in the SocialGov community which of their'
 authors:
   - jherman
-categories:
-  - API
+topics:
+  - api
   - Monthly Theme
-  - Social Media
-tag:
-  - 18F
-  - API
+  - social-media
+  - 18f
+  - api
   - Digital Analytics Program
   - social media
   - SocialGov

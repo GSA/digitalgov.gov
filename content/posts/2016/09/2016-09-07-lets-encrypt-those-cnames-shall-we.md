@@ -6,11 +6,10 @@ summary: 'This is post 4 in the 5-part series, The Right Tools for the Job: Re-H
 authors:
   - nathan-smith
   - dmccleskey
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Monthly Theme
   - Our Work
-tag:
   - aws
   - DigitalGov Search
   - infrastructure

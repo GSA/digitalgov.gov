@@ -8,13 +8,12 @@ featured_image:
   alt: 'A close-up of three people viewing something on a laptop.'
 authors:
   - bbrantley
-categories:
-  - Managing Digital
-tag:
+topics:
+  - managing-digital
   - communication
   - human resources
   - skills
-  - The Data Briefing
+  - the-data-briefing
 aliases:
   - /2017/09/06/five-ways-federal-leaders-can-build-the-will-skill-and-velocity-needed-for-digital-transformation/
 ---

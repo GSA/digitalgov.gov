@@ -5,22 +5,21 @@ title: Creating Wall-Sized Interaction at the Smithsonian’s National Air and S
 summary: 'As any experienced retailer will tell you, the customer experience begins at the store entrance. Note the friendly Walmart greeter, the approachable minimalism of an Apple Store, and the calculated whimsy of Anthropologie. Store designers understand that a customer’s decision to make a purchase is often made within seconds of entering. The same holds true'
 authors:
   - ben-bloom
-categories:
-  - Content
-  - Design
+topics:
+  - content
+  - design
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - content
   - content strategy
   - mobile
-  - mobile apps
+  - mobile-apps
   - NASM
   - National Air and Space Museum
   - Smithsonian Institution
   - user centered design
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 As any experienced retailer will tell you, the customer experience begins at the store entrance. Note the friendly Walmart greeter, the approachable minimalism of an Apple Store, and the calculated whimsy of Anthropologie. Store designers understand that a customer’s decision to make a purchase is often made within seconds of entering.

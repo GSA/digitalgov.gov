@@ -5,24 +5,24 @@ title: 'Because It&#8217;s Hard'
 summary: Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The Federal Digital Strategy served up a heaping set of deliverables on a tight timeline. Agencies opened data sets,
 authors:
   - gwynne-kostin
-categories:
-  - Content
-  - Managing Digital
+topics:
+  - content
+  - managing-digital
   - Monthly Theme
   - Our Work
-  - strategy-and-policy
-  - UX
-tag:
-  - API
+  - strategy
+  - policy
+  - ux
+  - api
   - Census
-  - Customer Experience
+  - customer-experience
   - DOL
   - innovation
   - mobile
   - open and structured content models
   - responsive web design
   - US Department of Labor
-  - user experience
+  - user-experience
 ---
 
 [{{< legacy-img src="2014/05/250-x-333-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429\_12fe814c84\_z.jpg-250x300.jpg" alt="The photo is the door to President Kennedy’s Cold War bunker on Nantucket Island, Massachusetts." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/480-x-640-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429_12fe814c84_z.jpg)Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.

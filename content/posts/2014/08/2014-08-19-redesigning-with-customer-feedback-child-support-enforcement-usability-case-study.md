@@ -5,12 +5,11 @@ title: 'Redesigning with Customer Feedback: Child Support Enforcement Usability 
 summary: 'The Federal Office of Child Support Enforcement at the Administration for Children and Families had a visually appealing website after an agency-wide redesign of program websites. The problem: Key stakeholders complained they could no longer easily find needed information. Their feedback prompted us to facilitate a UX-minded focus group to recommend improvements that met both users’ business needs and the redesign goals.'
 authors:
   - crystal-peeler
-categories:
-  - Design
+topics:
+  - design
   - user-testing-and-research
-  - UX
-tag:
-  - Customer Experience
+  - ux
+  - customer-experience
   - HHS
   - Office of Child Support Enforcement
   - United States Department of Health and Human Services

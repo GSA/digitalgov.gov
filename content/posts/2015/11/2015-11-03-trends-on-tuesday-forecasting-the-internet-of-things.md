@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: Forecasting the Internet of Things'
 summary: 'An industry group tracking the growth and production of the &ldquo;Internet of Things,&rdquo; a term given to Internet-connected devices and accessories, is predicting that growth will slow over the next 6 months, but then surge 3 times as fast, over the following year. The research was organized by the IoT M2M Council, which is made'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Internet of things
   - mobile
-  - mobile apps
+  - mobile-apps
   - Trends on Tuesday
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/11/600-x-400-Internet-of-Things-Concept-Bobboz-iStock-Thinkstock-476790268.jpg" alt="Internet of Things Concept" caption="" >}} 

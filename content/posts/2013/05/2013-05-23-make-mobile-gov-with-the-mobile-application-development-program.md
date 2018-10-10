@@ -5,17 +5,16 @@ title: Make Mobile Gov with the Mobile Application Development Program
 summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the federal Digital Government Strategy.'
 authors:
   - jparcell
-categories:
-  - Code
-  - Mobile
-  - Our Work
-tag:
-  - accessibility
-  - API
+topics:
+  - code
   - mobile
-  - Mobile App Development Program
-  - mobile gov
-  - MobileGov
+  - Our Work
+  - accessibility
+  - api
+  - mobile
+  - mobile-app-development-program
+  - mobile-gov
+  - mobile-gov
 ---
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg)Anytime, Anywhere, Any Device.

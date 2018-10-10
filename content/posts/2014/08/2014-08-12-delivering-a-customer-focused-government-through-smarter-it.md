@@ -7,13 +7,12 @@ authors:
   - steven-vanroekel
   - todd-park
   - beth-cobert
-categories:
-  - Content
+topics:
+  - content
   - Data
-  - Mobile
-tag:
-  - 18F
-  - Customer Experience
+  - mobile
+  - 18f
+  - customer-experience
   - Digital Services Playbook
   - US Digital Service
   - USDS

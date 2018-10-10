@@ -5,20 +5,19 @@ title: How ABMC Got Started with Mobile App Development
 summary: In the sea of apps, users get choosey with which apps can take up space on their phone. With one uninstall click the user can decide to breakup with the app if they have a bad experience. To keep your app from being all alone, the MobileGov Community of Practice put together six Mobile User
 authors:
   - jenny-johnson
-categories:
-  - Mobile
-  - UX
-tag:
-  - ABMC
-  - American Battle Monuments Commission
+topics:
+  - mobile
+  - ux
+  - abmc
+  - american-battle-monuments-commission
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile testing
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 4
-  - native app
-  - native apps
-  - UX
+  - mobile-testing
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-4
+  - native-app
+  - native-apps
+  - ux
 ---
 
 In the sea of apps, users get choosey with which apps can take up space on their phone. With one uninstall click the user can decide to breakup with the app if they have a bad experience. To keep your app from being all alone, the [MobileGov Community of Practice]({{< link "categories/mobile" >}}) put together [six Mobile User Experience Guidelines]({{< link "2015-07-31-help-us-add-resources-to-the-updated-mobile-user-experience-guidelines.md" >}}) to help keep mobile users in love. DigitalGov University hosted a webinar in which the American Battle Monuments Commission (ABMC) highlighted two of these guidelines. {{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 

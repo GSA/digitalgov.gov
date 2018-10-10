@@ -5,10 +5,9 @@ title: 'The Data Briefing: Highlights from 300 Federal Mobile Moments'
 summary: 'DigitalGov&#8217;s theme this month is mobile moments, which explores the impact of mobile applications in the federal government. For this post, I am examining the more than 300 mobile apps created by the federal government. An updated list of federal mobile apps is on USA.gov. According to the list, 73 federal organizations have released mobile apps on a wide'
 authors:
   - bbrantley
-categories:
-  - Mobile
+topics:
+  - mobile
   - Monthly Theme
-tag:
   - data
   - DOE
   - DOL
@@ -18,14 +17,14 @@ tag:
   - LOC
   - mobile
   - National Center for Telehealth and Technology
-  - The Data Briefing
-  - Transportation Security Administration
+  - the-data-briefing
+  - transportation-security-administration
   - TSA
   - US Department of Education
   - US Department of Labor
   - United States Department of Energy
   - United States Patent and Trademark Office
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - USPTO
 ---
 

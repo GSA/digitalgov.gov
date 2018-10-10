@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: The Future of Mobile Data'
 summary: 'This infographic from Light Reading addresses recent trends in mobile data use. We are struck by how much data was transferred via a WiFi connection vs. cellular. People are using WiFi connections way more than cellular ones. Some other quick highlights: In Q2'
 authors:
   - lisa-wilcox
-categories:
-  - Mobile
-  - Social Media
-tag:
+topics:
   - mobile
-  - mobile apps
+  - social-media
+  - mobile
+  - mobile-apps
   - Trends on Tuesday
 ---
 

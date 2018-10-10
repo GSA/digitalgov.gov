@@ -5,17 +5,16 @@ title: How to Find Your Open Data Hotshots
 summary: 'How can you find the top 5 users of your open data? We were recently asked this question on the Open Data listserv, and while this information can be a good measure of success for open data programs, we also figured some of the answers shared would be of interest to the broader community. This blog'
 authors:
   - nick-sinai
-categories:
-  - API
+topics:
+  - api
   - Data
-  - Metrics
-tag:
-  - API
+  - metrics
+  - api
   - Census
-  - data.gov
+  - data-gov
   - EPA
   - metadata
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - open data

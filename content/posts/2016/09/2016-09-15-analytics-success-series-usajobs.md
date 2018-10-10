@@ -6,12 +6,11 @@ summary: 'USAJOBS’ Analytics Success: using analytics to create accurate testi
 authors:
   - cory-benavente
   - dywane-boyd
-categories:
+topics:
   - Data
-  - Metrics
+  - metrics
   - Our Work
   - user-testing-and-research
-tag:
   - analytics
   - DAP
   - Digital Analytics Program
@@ -19,8 +18,8 @@ tag:
   - OPM
   - United States Office of Personnel Management
   - USAJOBS
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 _USAJOBS’ Analytics Success: using analytics to create accurate testing strategies._

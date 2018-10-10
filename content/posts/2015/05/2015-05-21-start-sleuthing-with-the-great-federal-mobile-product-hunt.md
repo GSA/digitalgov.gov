@@ -5,17 +5,16 @@ title: Start Sleuthing with the Great Federal Mobile Product Hunt
 summary: 'Mobile-friendliness is a must for government. We know there are a number of agencies who have mobile-friendly digital products that we don’t know about, and they deserve their day in the sun. We need your help to find them. So today, at the DigitalGov Citizen Services Summit you will find the MobileGov Community of Practice'
 authors:
   - courtney-greenley
-categories:
-  - Mobile
+topics:
+  - mobile
   - Our Work
-tag:
   - DigitalGov Summit
   - Federal Mobile Products Registry
-  - mobile apps
-  - mobile gov community of practice
+  - mobile-apps
+  - mobile-gov-community-of-practice
   - mobile-friendly
-  - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - thursday-mobile-products
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/05/600-x-211-MobileGov-Shared-Tweet-Photo.jpg" alt="The Digital Gov Hunters of the Lost Apps Twitter promo graphic, inviting users to Join the Hunt and use the Lost Apps hashtag." caption="" >}} 

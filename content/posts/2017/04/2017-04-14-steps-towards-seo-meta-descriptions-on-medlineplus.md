@@ -6,10 +6,9 @@ summary: 'MedlinePlus is a consumer health website produced by the U.S. National
 authors:
   - kate-masterton
   - katie-chan
-categories:
-  - Content
-  - Social Media
-tag:
+topics:
+  - content
+  - social-media
   - code
   - multilingual
   - search engine optimization

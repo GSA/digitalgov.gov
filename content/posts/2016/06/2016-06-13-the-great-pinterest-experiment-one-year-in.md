@@ -6,12 +6,12 @@ summary: Last summer, Kids.Gov revamped its presence on Pinterest in an attempt 
 authors:
   - edgardo-morales
   - phat-nguyen
-categories:
-  - Content
-  - Managing Digital
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
+  - content
+  - managing-digital
+  - social-media
+  - strategy
+  - policy
   - content
   - content strategy
   - kids.gov

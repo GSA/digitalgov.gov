@@ -5,17 +5,16 @@ title: Making Your Agency Apps Secure
 summary: 'It’s Saturday night: Do you know what your mobile app is doing? Securing your mobile device is hard (no matter what day of the week). And there are numerous threats that can be posed by the apps on your device: an app could be spying on you, stealing your money, stealing data or reconfiguring the'
 authors:
   - awichman
-categories:
-  - Mobile
+topics:
+  - mobile
   - Our Work
-tag:
   - DHS
   - mobile
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 6
-  - MobileGov
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-6
+  - mobile-gov
   - Recaps
   - security
   - United States Department of Homeland Security

@@ -5,11 +5,10 @@ title: 'Energy&#8217;s Alternative Fuel Locator Mobile Site'
 summary: 'Drivers can  find the closest alternative fueling sites anytime, anywhere with the Alternative Fuel Locator. The Department of Energy’s Office of Energy Efficiency and Renewable Energy (EERE) has created this mobile website that allows users to locate alternative fueling stations.  Using Google map technology and data from the Alternative Fuels Data Center (AFDC), the site'
 authors:
   - brandon-barr
-categories:
-  - Mobile
-tag:
-  - mobile gov
-  - Thursday Mobile Products
+topics:
+  - mobile
+  - mobile-gov
+  - thursday-mobile-products
   - United States Department of Energy
 ---
 

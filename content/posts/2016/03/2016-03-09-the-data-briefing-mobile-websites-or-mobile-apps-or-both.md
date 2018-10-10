@@ -5,20 +5,19 @@ title: 'The Data Briefing: Mobile Websites or Mobile Apps or Both?'
 summary: 'The increasing sophistication of mobile devices has created many opportunities for developers. Thanks to APIs* and open data, developers can build thousands of mobile apps and mobile websites to meet users’ needs. This opportunity has created one of the most contentious debates in the mobile development community: mobile apps versus mobile websites? There is, yet,'
 authors:
   - bbrantley
-categories:
-  - API
+topics:
+  - api
   - Data
-  - Mobile
-tag:
-  - API
+  - mobile
+  - api
   - data
   - mobile
-  - mobile apps
-  - native app
-  - native apps
+  - mobile-apps
+  - native-app
+  - native-apps
   - open data
   - responsive web design
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---

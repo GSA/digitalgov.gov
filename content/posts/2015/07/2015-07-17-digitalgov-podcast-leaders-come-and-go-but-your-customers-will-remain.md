@@ -5,10 +5,9 @@ title: 'DigitalGov Podcast: Leaders Come and Go, But Your Customers Will Remain'
 summary: 'To provide great customer service, bring your agency’s customers to the table. This is one of many insights recently offered by Stephanie Thum, Vice President of Customer Experience at the Export-Import Bank of the United States. Thum has previously written about customer experience for DigitalGov, including Three Ways to Evolve Your Agency’s Customer Mindset and'
 authors:
   - awichman
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
+topics:
+  - managing-digital
+  - customer-experience
   - customer satisfaction
   - customer service
   - Ex-Im Bank

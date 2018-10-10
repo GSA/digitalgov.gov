@@ -5,9 +5,8 @@ title: Managing, Measuring and Archiving with Hootsuite
 summary: Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record. We dispelled the notion that technology limits agencies from tackling these challenges
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - DGU
   - social media
   - SocialGov

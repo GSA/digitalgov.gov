@@ -6,18 +6,17 @@ summary: 'Design research isn’t rocket science. But for many of us in the fede
 authors:
   - sarah-brooks
   - mollie-ruskin
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Monthly Theme
-  - UX
-tag:
-  - Customer Experience
+  - ux
+  - customer-experience
   - customer satisfaction
   - customer service
   - Personas
   - US Department of Veterans Affairs
   - user centered design
-  - user experience
+  - user-experience
   - VA
 ---
 

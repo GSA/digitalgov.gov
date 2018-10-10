@@ -5,13 +5,12 @@ title: SocialGov Summit Diagnoses Viral Gov
 summary: Agencies discuss how to make social media programs more sharable and engaging.
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - GSA
   - HHS
-  - mobile gov
-  - NASA
+  - mobile-gov
+  - nasa
   - SocialGov
 ---
 

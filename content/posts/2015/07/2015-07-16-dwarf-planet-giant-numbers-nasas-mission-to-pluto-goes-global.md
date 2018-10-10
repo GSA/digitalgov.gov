@@ -5,13 +5,12 @@ title: 'Dwarf Planet, Giant Numbers: NASA’s Mission to Pluto Goes Global'
 summary: ' Even on a &ldquo;slow&rdquo; day, NASA is a pretty cool place to work, but the cool factor gets cranked way up when the whole world joins in the adventure. That’s what happened this week when the New Horizons spacecraft arrived at Pluto after decade-long, three-billion-mile journey through the solar system.'
 authors:
   - jim-wilson
-categories:
-  - Metrics
-tag:
+topics:
+  - metrics
   - analytics
   - DAP
   - Digital Analytics Program
-  - NASA
+  - nasa
 ---
 
 {{< legacy-img src="2015/07/600-x-428-Pluto-equator-mountains-credit-NASA-JHU-APL-SwRI15-152.jpg" alt="600-x-428-Pluto-equator-mountains-credit-NASA-JHU-APL-SwRI15-152" >}}

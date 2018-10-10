@@ -5,15 +5,14 @@ title: 'Keep a Strong Job Search Game with USA.gov&#8217;s Federal Mobile Apps D
 summary: 'Scoping the fed scene for the best match to apply your very formidable skillset? Use your smartphone to cast a wider net on your job search with help from the USA.gov Federal Mobile Apps Directory. Federal job hunters are no longer confined to desktop websites, so check'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Internal Revenue Service
   - IRS
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Justice
   - US Department of State
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/02/250-x-410-IRSgov-mobile-jobs-site-How-to-Apply.jpg" alt="IRSgov's mobile jobs site How to Apply page." >}}Scoping the fed scene for the best match to apply your very formidable skillset? Use your smartphone to cast a wider net on your job search with help from the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml).

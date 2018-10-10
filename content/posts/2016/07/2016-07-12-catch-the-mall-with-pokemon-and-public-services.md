@@ -6,20 +6,19 @@ summary: '&#8220;&#8230; I have never seen so many people of all ages walking ar
 authors:
   - jherman
   - paul-ollig
-categories:
+topics:
   - emerging-tech
-  - Mobile
-  - Social Media
-  - UX
-tag:
-  - Augmented Reality
+  - mobile
+  - social-media
+  - ux
+  - augmented-reality
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - NPS
   - social media
   - US National Park Service
-  - user experience
+  - user-experience
   - Virtual-Augmented-Reality-Community
 ---
 

@@ -5,20 +5,19 @@ title: 'Trends on Tuesday: Speed Matters When Measuring Responsive Web Design Pe
 summary: 'In the mobile world, every second matters. Mobile users are a finicky bunch. They want their information anytime, anywhere and quickly. As members of the MobileGov Community of Practice have noted last year, mobile user experience is about emotion. If that emotion is not happy, you will lose the user. For this month&#8217;s DigitalGov user'
 authors:
   - jparcell
-categories:
-  - Design
-  - Mobile
+topics:
+  - design
+  - mobile
   - Monthly Theme
-tag:
   - HHS
-  - mobile gov
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
+  - mobile-gov
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-4
   - responsive web design
   - Trends on Tuesday
   - United States Department of Health and Human Services
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}} 

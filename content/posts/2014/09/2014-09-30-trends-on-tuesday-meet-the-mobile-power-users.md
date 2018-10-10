@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Meet the Mobile Power Users'
 summary: "U.S. Hispanics are ahead of the digital curve, according to an analysis of strategies of leading brands and forward-thinking marketers by Lisa Gevelber, Vice President of Americas Marketing. As we've noted before, Hispanics not only lead in adoption of new devices, they are also power users of mobile."
 authors:
   - tjohnson
-categories:
-  - Managing Digital
-  - Mobile
-tag:
-  - Mobile UX Guideline 5
+topics:
+  - managing-digital
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - multilingual
   - multilingual-community

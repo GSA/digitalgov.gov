@@ -6,17 +6,17 @@ summary: 'In April, Facebook made it possible for organizations to use chatbots 
 authors:
   - lindy-dreyer
   - torey-vanek
-categories:
-  - Content
-  - Mobile
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
+  - content
+  - mobile
+  - social-media
+  - strategy
+  - policy
   - app
   - chatbots
   - HHS
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Institutes of Health
   - NIH
   - sms

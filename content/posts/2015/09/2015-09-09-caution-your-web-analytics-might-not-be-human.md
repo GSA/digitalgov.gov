@@ -5,10 +5,9 @@ title: 'Caution: Your Web Analytics Might Not Be Human'
 summary: 'A Digital Analytics Program (DAP) user recently contacted me with an observation/problem: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing,'
 authors:
   - tlowden
-categories:
-  - Metrics
+topics:
+  - metrics
   - Monthly Theme
-tag:
   - analytics
   - DAP
   - data

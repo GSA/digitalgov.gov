@@ -6,16 +6,15 @@ summary: ' Responsive Web design is widely-known as a go-to solution for designi
 authors:
   - jparcell
   - katie-steffy
-categories:
-  - Content
-  - Mobile
+topics:
+  - content
+  - mobile
   - Monthly Theme
-tag:
   - GSA
   - mobile
-  - mobile gov
-  - Mobile UX Guideline 1
-  - MobileGov
+  - mobile-gov
+  - mobile-ux-guideline-1
+  - mobile-gov
   - responsive web design
   - US Department of State
 ---

@@ -10,13 +10,12 @@ authors:
   - eric-mill
   - julia-winn
   - colin-craig
-categories:
+topics:
   - Data
   - Our Work
-tag:
-  - 18F
+  - 18f
   - analytics
-  - analytics.usa.gov
+  - analytics-usa-gov
   - Commerce
   - DAP
   - Department of Commerce
@@ -26,7 +25,7 @@ tag:
   - Education
   - EPA
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - US Department of Education
   - US Department of Justice

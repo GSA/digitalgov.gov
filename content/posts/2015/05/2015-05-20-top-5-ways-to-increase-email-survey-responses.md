@@ -5,11 +5,10 @@ title: Top 5 Ways to Increase Email Survey Responses
 summary: 'Surveys are a great way to gain valuable insight into your customers’ true interests and needs. With the abundant number of survey tools available, it’s almost too easy to quickly put together a survey and send it out to your target audience. All too often, organizations will be in a hurry to get their survey'
 authors:
   - zhanrui-kuang
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Monthly Theme
-tag:
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
 ---

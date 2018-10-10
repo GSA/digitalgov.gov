@@ -6,16 +6,15 @@ summary: 'Summary: The Administration has launched a new competition for virtual
 authors:
   - erik-martin
   - albert-palacios
-categories:
-  - Challenges
-  - Mobile
-tag:
+topics:
+  - challenges
+  - mobile
   - apps challenges
-  - Augmented Reality
+  - augmented-reality
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
 ---
 
 _Summary: The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education._

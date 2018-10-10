@@ -3,10 +3,9 @@ slug: apples-ios-terms-of-service-developer-program-license-agreement
 date: 2013-05-30 11:10:13 -0400
 title: 'Apple&#8217;s iOS Terms of Service & Developer Program License Agreement'
 summary: The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later
-categories:
-  - Mobile
-  - Social Media
-tag:
+topics:
+  - mobile
+  - social-media
   - ios
   - mobile
   - Terms of Service

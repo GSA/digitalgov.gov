@@ -5,8 +5,8 @@ title: Updating Blog Comment Policies
 summary: 'The difference between only distributing an online press release and opening up the benefits from a blogging community can be found in how your agency encourages and manages comments and engagement. An easily-referenced comment policy lets authors and contributors know what your agency’s guidelines are in order'
 authors:
   - jherman
-categories:
-  - Social Media
+topics:
+  - social-media
 ---
 
 [{{< legacy-img src="2014/01/social-media-button-250x113.jpg" alt="Keyboard key saying social media." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/social-media-button.jpg)The difference between only distributing an online press release and opening up the benefits from a blogging community can be found in how your agency encourages and manages comments and engagement. An easily-referenced comment policy lets authors and contributors know what your agency’s guidelines are in order to maintain an open, safe collaboration space.

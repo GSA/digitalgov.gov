@@ -5,13 +5,12 @@ title: 'Spoiler Alert: USDA’s FoodKeeper App Helps Americans Avoid Wasting Goo
 summary: 'Spoiler Alert: Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The U.S. Department of Agriculture estimates that retailers and consumers waste 36 pounds of food per'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - ios
-  - mobile apps
-  - native app
-  - Thursday Mobile Products
+  - mobile-apps
+  - native-app
+  - thursday-mobile-products
   - US Department of Agriculture
   - USDA
 ---

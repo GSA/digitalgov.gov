@@ -64,6 +64,7 @@ permalinks:
 preserveTaxonomyNames   : true
 taxonomies:
   tag                   : "tag"
+  topic                 : "topics"
   category              : "categories"
   author                : "authors"
 

@@ -3,17 +3,16 @@ slug: appy-fourth-of-july
 date: 2014-07-03 13:00:39 -0400
 title: Have a H(app)y Fourth of July from MobileGov
 summary: 'Washington. You can say a lot of things about this town, but one thing is clear: Fourth of July is our holiday. No one rocks Independence Day quite like we do, thanks to the hardworking people at the National Park Service who manage our National Mall and help stage a blockbuster fireworks celebration.'
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Architect of the Capitol
-  - mobile apps
-  - mobile gov community of practice
+  - mobile-apps
+  - mobile-gov-community-of-practice
   - National Archives and Records Administration
   - NPS
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US National Park Service
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2014/07/600-x-410-July-4th-Fireworks-Washington-DC-by-Carol-M-Highsmith-2007-04460a.jpg" alt="Fireworks over Washington, D.C., July 4, 2007 by Carol M. Highsmith" caption="" >}}

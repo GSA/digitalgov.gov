@@ -5,12 +5,11 @@ title: 'The Data Briefing: The Arrival of Generation Z into the Federal Governme
 summary: In the last national election, the earliest born members of Generation Z voted for the first time. In 2019, the American workforce will see the influx of tens of millions of Gen Zers who, according to some researchers, will be a stark contrast to the Millennials that will make the largest part of the 2020
 authors:
   - bbrantley
-categories:
-  - Managing Digital
-tag:
-  - AI
+topics:
+  - managing-digital
+  - ai
   - artificial intelligence
-  - Augmented Reality
+  - augmented-reality
   - chatbots
   - human resources
   - social media

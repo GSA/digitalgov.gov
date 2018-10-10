@@ -5,11 +5,10 @@ title: 'The Content Corner: Should You Stop Writing and Start Podcasting?'
 summary: 'Several months or so ago, I raised the question of whether you and your agency should be podcasting. Incidentally, my post coincided with the launch of DigitalGov’s new podcast series. As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’s Serial and'
 authors:
   - tyrus-manuel
-categories:
-  - Content
+topics:
+  - content
   - Writing
-tag:
-  - Administrative Office of the United States Courts
+  - administrative-office-of-the-united-states-courts
   - blog
   - FBI
   - Federal Bureau of Investigation

@@ -5,17 +5,16 @@ title: 'The API Briefing: CDC&#8217;s API Delivers Free Up-To-Date Health Inform
 summary: The recent Ebola outbreaks demonstrate the need for current and authoritative health news. The Centers for Disease Control and Prevention (CDC) is the federal information source for Ebola and other infectious diseases, along with other public health data. Data.CDC.gov lists 48 datasets and views containing statistics from smoking to infectious diseases. Developers can use the
 authors:
   - bbrantley
-categories:
-  - API
-  - Code
-tag:
-  - API
+topics:
+  - api
+  - code
+  - api
   - CDC
   - Centers for Disease Control and Prevention
   - content syndication
   - OPM
   - United States Office of Personnel Management
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 The recent Ebola outbreaks demonstrate the need for current and authoritative health news. The Centers for Disease Control and Prevention (CDC) is the federal information source for Ebola and other infectious diseases, along with other public health data. [Data.CDC.gov](https://data.cdc.gov/) lists 48 datasets and views containing statistics from smoking to infectious diseases. Developers can use the <a href="http://dev.socrata.com/" target="_blank">Socrata Open Data API </a>to pull JSON data into their apps.

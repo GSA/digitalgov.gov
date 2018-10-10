@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: Distracted Walking'
 summary: 'Piggybacking on one of my earlier posts, People are Crazy about Mobile, I’m going to talk about &#8220;Distracted Walking.&#8221; Who among us hasn&#8217;t walked and texted or checked Facebook or Twitter on our smartphones, but have bumped into someone or something while texting on your smartphone? I'
 authors:
   - lisa-wilcox
-categories:
-  - Content
-  - Managing Digital
-  - Mobile
-tag:
+topics:
+  - content
+  - managing-digital
   - mobile
-  - mobile gov
+  - mobile
+  - mobile-gov
   - responsive web design
   - Trends on Tuesday
 ---

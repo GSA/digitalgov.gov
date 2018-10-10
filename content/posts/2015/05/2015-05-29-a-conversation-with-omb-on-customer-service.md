@@ -5,11 +5,10 @@ title: A Conversation with OMB on Customer Service
 summary: 'We recently sat down with Lisa Danzig, who’s leading work at the Office of Management and Budget (OMB) on the FY15 Cross Agency Priority (CAP) goal on Customer Service (CS). The CS CAP goal aims to help agencies deliver world-class customer service to citizens that’s on par with leading private'
 authors:
   - rflagg
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Monthly Theme
-tag:
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
   - Office of Management and Budget

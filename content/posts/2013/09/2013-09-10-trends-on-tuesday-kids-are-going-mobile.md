@@ -5,14 +5,13 @@ title: 'Trends on Tuesday: Kids are Going Mobile'
 summary: 'From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds&mdash;particularly our smartphones and tablets. The early adoption of mobile is growing each year as evidenced by this infographic from EveryDayFamily.com. 30 percent of 2- to'
 authors:
   - lisa-wilcox
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - CDC
   - gamification
   - mobile
   - mobile-first
-  - National Gallery of Art
+  - national-gallery-of-art
   - Smithsonian Institution
   - Trends on Tuesday
 ---

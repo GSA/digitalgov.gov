@@ -5,9 +5,8 @@ title: 'The API Briefing: Bureau of Labor Statistics Invites Developers to Build
 summary: The federal government collects an amazing amount of economic data. Several agencies such as the Securities and Exchange Commission, the Treasury, and the Census Bureau collect economic data, ranging from the stock market activity to local business conditions. The Bureau of Labor Statistics (BLS) collects information on the labor market and is a rich source
 authors:
   - bbrantley
-categories:
-  - API
-tag:
+topics:
+  - api
   - BLS
   - Census
   - SEC
@@ -17,7 +16,7 @@ tag:
   - US Securities and Exchange Commission
   - United States Census Bureau
   - USDA
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}} 

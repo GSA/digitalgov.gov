@@ -5,13 +5,12 @@ title: 'Customer Experience and User Experience Professionals &#8211; A Match Ma
 summary: 'Recently, Forrester Research analyst Leah Buley wrote a blog post and report that reminded me of our &#8220;what&#8217;s the diff?&#8221; article on customer experience vs. user experience. In them, she describes the difference between customer experience professionals (CX) and user experience professionals (UX). A Forrester survey found that about 40% of the time, CX and UX are'
 authors:
   - ktrebon
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Monthly Theme
-  - UX
-tag:
-  - Customer Experience
-  - user experience
+  - ux
+  - customer-experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/05/600-x-400-0-two-yellow-puzzle-pieces-TongRo-Images-TongRo-Images-Thinkstock-871735781.jpg" alt="Two yellow puzzle pieces on a wooden table." caption="" >}} 

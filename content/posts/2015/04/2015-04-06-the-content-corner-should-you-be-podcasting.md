@@ -5,10 +5,9 @@ title: 'The Content Corner: Should You Be Podcasting?'
 summary: 'Along a somewhat personal journey (that you have chosen to join) to better define the term content,  I’ve stumbled upon the puzzle of podcasts. Full disclosure: I have never been and most likely will never be a consumer of podcasts, ten years ago or today. I tried several times to listen to &ldquo;Serial&rdquo; and my'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
   - content strategy
   - podcast
   - social media

@@ -5,10 +5,9 @@ title: 'The Content Corner: Twitter, Apple News and the Importance of Our Websit
 summary: 'First, McDonald’s started serving breakfast all day. Now, Twitter announced it is dropping its 140 character limit for tweets. Black is white, up is down. Or is it really that big a deal? Is Twitter just keeping itself relevant in the battle for your content? LinkedIn and Facebook were first with their strong push for organizations to'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
   - content strategy
   - social media
   - The Content Corner

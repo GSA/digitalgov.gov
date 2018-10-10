@@ -5,15 +5,14 @@ title: 'The Content Corner: Government as API'
 summary: 'Here at DigitalGov, we generally focus on federal governmental digital efforts within the U.S. It is where we live and operate, so it makes sense, but many governments across the world struggle with the same issues and leverage technology as a common solution. When I came across an article where Australia announced its &ldquo;government as'
 authors:
   - tyrus-manuel
-categories:
-  - API
-  - Content
+topics:
+  - api
+  - content
   - Monthly Theme
-tag:
-  - Administrative Office of the United States Courts
-  - API
+  - administrative-office-of-the-united-states-courts
+  - api
   - CMS
-  - Content Management System
+  - content-management-system
   - content models
   - COPE
   - National Institutes of Health

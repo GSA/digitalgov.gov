@@ -5,19 +5,19 @@ title: Agency Mobile Resources at the Ready Following OMB Memo
 summary: 'Note: This is a guest blog post by Amando E. Gavino, Jr., Director, Office of Network Services, ITS/FAS/GSA. He is responsible for a portfolio of telecommunication acquisition solutions that provide government agencies the ability to meet their diverse set of telecommunication requirements. Acquisition solutions include Networx, Enterprise Infrastructure Solutions &ndash; EIS (the future replacement for'
 authors:
   - amando-e-gavino-jr
-categories:
+topics:
   - Governance
-  - Managing Digital
-  - Mobile
-  - strategy-and-policy
-tag:
+  - managing-digital
+  - mobile
+  - strategy
+  - policy
   - FAS
   - Federal Acquisition Service
   - GSA
   - infrastructure
   - innovation
   - mobile
-  - mobile gov
+  - mobile-gov
   - Office of Management and Budget
   - OMB
   - US General Services Administration

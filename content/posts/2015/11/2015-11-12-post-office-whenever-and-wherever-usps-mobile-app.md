@@ -5,14 +5,13 @@ title: Post Office Whenever and Wherever—USPS Mobile® App
 summary: Gone are the days when you have to drive miles on a hot and humid afternoon or a cold wintry morning to your local post office to mail your letters, get your stamps or determine how much postage you will need for that package. Technology has become integral to our lives, and now many of
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - ios
-  - mobile apps
+  - mobile-apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Postal Service
   - USPS
 ---

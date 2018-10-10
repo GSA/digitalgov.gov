@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: Smartphone Ownership Reaching Saturation, Fueling Med
 summary: 'ComScore released a report with a lot of great data about how mobile digital media usage continues to explode in 2016. It has 70 pages of charts and information to digest. Here are seven key mobile trends and takeaways: Smartphones are exponentially driving digital media usage. Digital media has tripled since 2013 and digital media'
 authors:
   - wsullivan
-categories:
-  - Mobile
-  - Social Media
-tag:
+topics:
+  - mobile
+  - social-media
   - Facebook
-  - Instagram
-  - LinkedIn
+  - instagram
+  - linkedin
   - mobile
   - social media
   - Trends on Tuesday

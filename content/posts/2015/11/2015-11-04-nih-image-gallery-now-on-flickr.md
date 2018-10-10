@@ -5,9 +5,8 @@ title: NIH Image Gallery Now on Flickr
 summary: ' Looking for health or science related images? The National Institutes of Health (NIH) recently launched the NIH Image Gallery on Flickr. The Image Gallery offers a wide variety of scientific, biomedical and disease related imagery as well as photos of NIH'
 authors:
   - christen-geiler
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - National Institutes of Health
   - NIH
 ---

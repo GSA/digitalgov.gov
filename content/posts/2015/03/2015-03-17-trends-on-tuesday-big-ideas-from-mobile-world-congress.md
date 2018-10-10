@@ -5,16 +5,15 @@ title: 'Trends on Tuesday: Big Ideas from Mobile World Congress'
 summary: ' Mobile World Congress, the world’s largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’s show shattered previous records with more than 93,000 attendees across'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Internet of things
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 6
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-6
   - Trends on Tuesday
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
 ---
 
 {{< legacy-img src="2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" >}}

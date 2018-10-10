@@ -6,12 +6,11 @@ summary: ' In June, the new Customer Experience Community of Practice (CX-COP) h
 authors:
   - jacqueline-snee
   - rflagg
-categories:
-  - Communities
+topics:
+  - communities
   - Monthly Theme
-tag:
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - customer-experience
+  - customer-experience-community-of-practice
   - customer satisfaction
   - customer service
   - Recaps

@@ -5,13 +5,12 @@ title: 'Heat Mapping Case Study: Epa.gov Homepage'
 summary: 'Most people relate the term &ldquo;heat map&rdquo; with something they see during the weather forecast on the nightly news, those colorful maps that vividly illustrate how hot it’s going to be during an impending heat wave. The word &#8220;heat map&#8221; may not usually however, conjure up images of a widely used Web usability tool; but for those'
 authors:
   - georgia-gallavin
-categories:
+topics:
   - Data
-  - Design
-  - Metrics
+  - design
+  - metrics
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - DigitalGov User Experience Program
   - EPA
   - US Environmental Protection Agency

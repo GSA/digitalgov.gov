@@ -5,9 +5,8 @@ title: 2nd U.S. Public Participation Playbook Draft Responds to Public Contribut
 summary: ' The new second draft of the U.S. Public Participation Playbook incorporates changes that were proposed from nearly 100 suggestions submitted after the first week of public comment, with more improvements to come. We still need your contributions'
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - Census
   - Defense Commissary Agency
   - Defense Logistics Agency
@@ -28,7 +27,7 @@ tag:
   - ITA
   - Library of Congress
   - LOC
-  - NASA
+  - nasa
   - National Defense University
   - National Institutes of Health
   - National Library of Medicine
@@ -62,7 +61,7 @@ tag:
   - United States Geological Survey
   - US Fish and Wildlife Service
   - USGS
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 [{{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-314-White-House-SocialGov-Open.jpg)

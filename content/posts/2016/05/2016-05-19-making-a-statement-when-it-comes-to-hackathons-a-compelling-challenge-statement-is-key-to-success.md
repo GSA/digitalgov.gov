@@ -5,10 +5,9 @@ title: 'Making a Statement: When It Comes to Hackathons, a Compelling Challenge 
 summary: 'As the civic hacking movement continues to grow in the United States, agencies are starting to adopt hackathons to engage citizens in the challenging work of improving government services and solving real-world challenges using open data. Whether you are planning your own hackathon, or planning in a multi-government agency &#8220;mass collaboration&#8221; such as the National'
 authors:
   - nicholas-skytland
-categories:
-  - Challenges
-tag:
-  - NASA
+topics:
+  - challenges
+  - nasa
   - National Day of Civic Hacking
 ---
 

@@ -5,27 +5,26 @@ title: 'Webinar Recap: A Look At Google&#8217;s Media Tool and Platform Offering
 summary: 'Suddenly, digital video is everywhere on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and all of the features each publishing platform has to offer. Facebook, Twitter and SnapChat all offer great video platforms that are free and easy to use, plus they make it easy for you to market to'
 authors:
   - randy-abramson
-categories:
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Video
-tag:
+topics:
+  - content
+  - managing-digital
+  - metrics
+  - mobile
+  - video
   - analytics
-  - Audio/Video
+  - audio-video
   - content
   - content strategy
   - DGU
   - Digital Audio/Video Community
-  - DigitalGov University
+  - digitalgov-university
   - metrics
   - mobile
   - Recaps
   - user generated content
   - video
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
 ---
 
 Suddenly, </span>[<span style="font-weight: 400">digital video is everywhere</span>]({{< link "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}})<span style="font-weight: 400"> on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and all of the features each publishing platform has to offer. Facebook, Twitter and SnapChat all offer great video platforms that are free and easy to use, plus they make it easy for you to market to your social followers on those respective platforms.</p> 

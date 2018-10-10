@@ -5,11 +5,11 @@ title: 'The Content Corner: Recapping Content Marketing Trends in 2016—How Hav
 summary: 'Earlier this year, it was predicted that content marketing would become even more important due to its ability to enhance not just visibility, but also increase engagement with customers&mdash;who could, in turn, become great promoters of your content. Needless to say, much of our time these days as communicators is spent on developing, distributing, maximizing, and'
 authors:
   - kyle-s-richardson
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - content
+  - managing-digital
+  - strategy
+  - policy
   - content
   - content strategy
   - content syndication
@@ -28,7 +28,7 @@ tag:
   - US Health Resources and Services Administration
   - United States Department of Health and Human Services
   - USAJOBS
-  - White House
+  - white-house
 ---
 
 Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content. {{< legacy-img src="2016/09/600-x-425-Content-marketing-concept.-Flat-design-illustration-cacaroot-iStock-Thinkstock-543692162.jpg" alt="Flat design illustration of content marketing concept." caption="" >}} 

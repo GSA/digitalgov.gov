@@ -5,9 +5,8 @@ title: Census takes “March Madness” to a New Level
 summary: ' Government agencies are working hard  to communicate complex mountains of data clearly and effectively through graphics. The Census Bureau, known for their great work creating visual images, has done just that. They have created a great data visualization game just in time for March Madness! The game, &#8220;Population Bracketology&#8221; tests your knowledge of'
 authors:
   - jthalls
-categories:
-  - Code
-tag:
+topics:
+  - code
   - Census
 ---
 

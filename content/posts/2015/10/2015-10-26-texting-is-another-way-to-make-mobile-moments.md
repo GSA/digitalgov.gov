@@ -5,18 +5,17 @@ title: Texting is Another Way to Make Mobile Moments
 summary: There are several things federal agencies need to think about in the mobile space. Is my website responsive, so that consumers can view it on any device (desktop/laptop, tablet, smartphone)? Do I have mobile apps that fill citizen needs? But does texting have a place in the U.S. government, as we strive to serve citizens
 authors:
   - ktrebon
-categories:
-  - Mobile
-  - Monthly Theme
-tag:
+topics:
   - mobile
-  - mobile apps
-  - mobile gov
-  - Mobile UX Guideline 5
+  - Monthly Theme
+  - mobile
+  - mobile-apps
+  - mobile-gov
+  - mobile-ux-guideline-5
   - National Cancer Institute
   - NCI
   - responsive web design
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/10/600-x-450-Modern-conversation-social-network-community-logo-icon-maximillion_studio-iStock-Thinkstock-485896583.jpg" alt="Modern conversation social network community logo icon" caption="" >}} 

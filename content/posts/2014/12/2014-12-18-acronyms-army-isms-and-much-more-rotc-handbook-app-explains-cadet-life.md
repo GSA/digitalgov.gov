@@ -5,13 +5,12 @@ title: 'Acronyms, Army-isms and Much More: ROTC Handbook App Explains Cadet Life
 summary: 'Have a potential future cadet in the family? Deciding whether the Army Reserve Officers&#8217; Training Corps (ROTC) program is right for you? Already in the program? Study up on the Army ROTC program before you or someone you know steps foot in the classroom in a crisp uniform. Download the ROTC Handbook from the U.S.'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
-  - API
-  - native app
+topics:
+  - mobile
+  - api
+  - native-app
   - ROTC
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Army
 ---
 

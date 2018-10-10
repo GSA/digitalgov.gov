@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: Have You Cut the Cord?'
 summary: 'First, it was party lines. Then, it was the rotary phone. Now, two-in-five (41%) U.S. households have officially said goodbye to landlines, according to a recent report by the Centers for Disease Control and Prevention (CDC)&#8217;s National Center for Health Statistics. If you have been keeping up with previous mobile trends, you won’t be surprised'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - CDC
   - Centers for Disease Control and Prevention
   - mobile
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - mobile-first
-  - native app
+  - native-app
   - Trends on Tuesday
 ---
 

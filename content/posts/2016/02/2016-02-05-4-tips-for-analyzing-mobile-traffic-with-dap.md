@@ -5,15 +5,14 @@ title: 4 Tips for Analyzing Mobile Traffic with DAP
 summary: 'It’s not a secret that mobile Internet viewership is booming, but according to a ComScore report released last June, 49% of the audiences for the top 100 digital properties are now mobile-only. Additionally, during the third quarter last year, Gartner reported PC shipments fell 7.7% while IDC Research reported a 10.8% decline. The switch to'
 authors:
   - ilee
-categories:
-  - Metrics
-  - Mobile
+topics:
+  - metrics
+  - mobile
   - Our Work
-tag:
   - DAP
   - Digital Analytics Program
-  - mobile gov
-  - mobile gov community of practice
+  - mobile-gov
+  - mobile-gov-community-of-practice
 ---
 
 It’s not a secret that mobile Internet viewership is booming, but according to a [ComScore report released last June](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2015/The-Global-Mobile-Report), 49% of the audiences for the top 100 digital properties are now mobile-only. Additionally, during the third quarter last year, [Gartner reported PC shipments fell 7.7%](http://www.gartner.com/newsroom/id/3146617) while [IDC Research reported a 10.8% decline](http://www.idc.com/getdoc.jsp?containerId=prUS25955515). The [switch to mobile]({{< link "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}) will continue, and for government websites, [the trend is no different]({{< link "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). {{< legacy-img src="2016/01/600-x-425-Four-Pushpins-Photodisc-Photodisc-Thinkstock-BU010703.jpg" alt="Four Pushpins" caption="" >}} 
@@ -38,7 +37,7 @@ Select the segment that you want to add and click on the blue Apply button of th
 
 This standard report segments the audience by device category: desktop, mobile, and tablet. It shows you how the share of mobile users are changing with the number of sessions, the percent of new sessions and new users. You can access this report from the left navigation by clicking &#8220;Audience&#8221; then &#8220;Mobile&#8221; then &#8220;Overview.&#8221; You can compare data to a previous date range to see how your mobile metrics are changing.
 
-{{< legacy-img src="2016/01/600-x-385-DAP-Analyzing-Mobile-Traffic-desktop-mobile-tablet.jpg" alt="Device categories: desktop, mobile, and tablet." >}}
+{{< legacy-img src="2016/01/600-x-385-DAP-Analyzing-Mobile-Traffic-desktop-mobile-tablet.jpg" alt="Device topics: desktop, mobile, and tablet." >}}
 
 What’s the bounce rate for your mobile users? If it’s high, look into possible causes for that. [Is it a good mobile moment?]({{< link "2015-06-01-finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government.md" >}}) Is your website [mobile-friendly]({{< link "2015-10-23-is-your-site-mobile-friendly.md" >}})? The Pages/Session and the Avg. Session Duration metrics indicate how engaged your mobile users are.
 

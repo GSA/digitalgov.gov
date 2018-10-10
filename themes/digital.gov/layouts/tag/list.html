@@ -33,7 +33,6 @@
             {{/* {{ .Params.title }} */}}
             {{ $data := $.Site.Data }}
             {{ $taxonomy := .Data.Plural }}
-            {{ $taxonomy }}
             {{ $slug := .Title | urlize }}
             {{ $taxdata := index $data $taxonomy }}
             {{ $term := index $taxdata $slug }}

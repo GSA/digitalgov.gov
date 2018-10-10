@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: Let&#8217;s Talk Connected Devices'
 summary: 'Mobile Future recently released this infographic about the proliferation of connected devices. Among the key data points: Today, there are 10 billion connected devices. By 2020, data from connected devices will more than double all global Internet traffic in 2012. Traffic'
 authors:
   - lisa-gelobter
-categories:
-  - Mobile
-  - Social Media
-tag:
+topics:
+  - mobile
+  - social-media
   - mobile-first
   - Trends on Tuesday
 ---

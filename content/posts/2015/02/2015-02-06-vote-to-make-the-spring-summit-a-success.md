@@ -5,9 +5,8 @@ title: Vote to Make the Spring Summit a Success
 summary: 'Thanks to your awesome input on the Citizen Services Summit agenda and the rallying of the Summit Sounding Board, we now have more than 70 ideas and 50 comments on those ideas. Vote early and Vote often! We’ve opened up the voting floodgates for these 70 ideas until February 28th! Now'
 authors:
   - apiazza
-categories:
+topics:
   - Our Work
-tag:
   - DGU
   - DigitalGov Summit
 ---

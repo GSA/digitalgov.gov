@@ -5,15 +5,14 @@ title: The Road to Better Websites Gets Easier with Usability Walkthroughs
 summary: The road to more user-friendly government websites does not have to be long and scary. In fact, there is a growing network of people and resources to guide you along the way. My office in the National Oceanic and Atmospheric Administration (NOAA) has been fortunate enough to benefit from some of this support, most recently
 authors:
   - ashley-braun
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - DigitalGov User Experience Program
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 The road to more user-friendly government websites does not have to be long and scary. In fact, there is a growing network of people and resources to guide you along the way. My office in the National Oceanic and Atmospheric Administration (NOAA) has been fortunate enough to benefit from some of this support, most recently in the form of a &#8220;usability walkthrough.&#8221;

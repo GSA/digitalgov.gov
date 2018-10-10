@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: Maximizing Your Mobile Moments'
 summary: The rise of mobile device ownership is rapidly changing the way we, and our stakeholders, interact with organizations and information. From local weather to the status of our train, we look to our smartphones to not only provide the answers, but anticipate our questions. Forrester refers to this
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
-  - Mobile App Development Program
-  - mobile apps
-  - Mobile UX Guideline 5
+topics:
+  - mobile
+  - mobile-app-development-program
+  - mobile-apps
+  - mobile-ux-guideline-5
   - National Oceanic and Atmospheric Administration
   - National Weather Service
   - NOAA

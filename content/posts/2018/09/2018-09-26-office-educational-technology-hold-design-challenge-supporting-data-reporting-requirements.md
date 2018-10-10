@@ -6,10 +6,9 @@ summary: 'Join ED for two days of sketching, prototyping, and building solutions
 deck: 'Join ED for two days of sketching, prototyping, and building solutions to help states design family-friendly approaches to report cards that make school data more transparent and accessible.'
 authors:
   - office-educational-technology
-categories:
+topics:
   - challenges
   - data
-tag:
   - challenges-and-prize-competitions
   - data
   - data-visualization

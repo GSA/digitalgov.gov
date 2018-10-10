@@ -6,10 +6,9 @@ summary: 'The Bureau of Labor Statistics (BLS) recently created a new Web page m
 authors:
   - jean-fox
   - robin-l-kaplan
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - BLS
   - US Bureau of Labor Statistics
   - US Department of Labor

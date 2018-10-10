@@ -6,11 +6,10 @@ summary: 'Journey maps are a visual representation of a customer’s end to end 
 authors:
   - mary-ann-monroe
   - michelle-chronister
-categories:
-  - UX
-tag:
+topics:
+  - ux
   - analytics
-  - Customer Experience
+  - customer-experience
   - government contact centers
   - Personas
   - usa.gov

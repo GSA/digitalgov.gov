@@ -5,13 +5,12 @@ title: 'What Structured Content Can Do For You: Webinar Recap'
 summary: 'Structured content and open content models can help you create content that is platform-agnostic, format-free, and device-independent. This was the theme of the &#8220;What Structured Content Can Do For You: Article Model&#8221; webinar last month. [youtube=http://www.youtube.com/watch?v=kG25vyQ5Jps&w=600] Using a content model is less about how you are crafting your message and more about how the internet is going'
 authors:
   - kristen-onell
-categories:
-  - API
-  - Communities
-  - Content
-tag:
+topics:
+  - api
+  - communities
+  - content
   - AoI
-  - API
+  - api
   - Census
   - content models
   - GitHub

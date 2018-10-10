@@ -5,14 +5,13 @@ title: Best Practices for Remote User Experience Research
 summary: Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. One of
 authors:
   - justin-dopke
-categories:
-  - Design
-  - UX
-tag:
+topics:
+  - design
+  - ux
   - analytics
   - SSA
   - The United States Social Security Administration
-  - user experience
+  - user-experience
 ---
 
 Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 

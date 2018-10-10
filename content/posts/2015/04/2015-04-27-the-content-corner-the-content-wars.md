@@ -5,14 +5,13 @@ title: 'The Content Corner: The Content Wars'
 summary: One of the most interesting trends forming at the start of 2015 is the rise of new digital publishers. Online entities from Facebook to GE are continuing their strong forays into the world of content production. This shift, especially among social media platforms such as Facebook, Linked In and Snapchat, could significantly alter the digital
 authors:
   - tyrus-manuel
-categories:
-  - Content
-  - Social Media
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - social-media
+  - administrative-office-of-the-united-states-courts
   - content strategy
   - Facebook
-  - LinkedIn
+  - linkedin
   - social media
   - The Content Corner
 ---

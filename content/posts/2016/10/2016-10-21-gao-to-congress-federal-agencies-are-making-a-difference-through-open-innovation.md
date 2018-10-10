@@ -5,15 +5,15 @@ title: 'GAO to Congress: Federal Agencies Are Making a Difference Through Open I
 summary: 'Federal agencies confront tough problems every day. In searching for solutions, agencies will want to attract different perspectives, test new products, build capacity and communities, and increase public awareness. How do they do it? The answer: open innovation. Federal agencies need to engage and collaborate with all sectors of society, a task made easier by'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-  - Communities
+topics:
+  - challenges
+  - communities
   - crowdsourcing-and-citizen-science
-  - Managing Digital
-  - strategy-and-policy
-tag:
+  - managing-digital
+  - strategy
+  - policy
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
@@ -21,7 +21,7 @@ tag:
   - EPA
   - GAO
   - innovation
-  - NASA
+  - nasa
   - open data
   - US Environmental Protection Agency
   - US Government Accountability Office

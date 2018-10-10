@@ -5,12 +5,11 @@ title: Sharing Public Service Visions for Virtual Reality and Artificial Intelli
 summary: 'I’m taking a break from sorting through dozens of concepts from federal agencies about how they want to use artificial intelligence and virtual reality for citizens in the coming months in order to share with you just some of these groundbreaking initiatives of tomorrow that can be explored at a DigitalGov University workshop this week.'
 authors:
   - jherman
-categories:
-  - Communities
+topics:
+  - communities
   - emerging-tech
-  - Managing Digital
-tag:
-  - AI
+  - managing-digital
+  - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
   - communities
@@ -28,13 +27,13 @@ We’re [launching our two new U.S. government-wide Communities]({{< link "2016-
 And while the workshop hasn’t happened yet, participants have already contributed plenty to start with:
 
 > _Everything from creating immersive experiences that will deepen people-to-people international diplomacy, to converting digital customer service from social media to Alexa, Google Home and Siri_
-> 
+>
 > _Enhancing economic development for financial stability, health, education and housing, and designing emergency response exercises and decision support systems_
-> 
+>
 > _There’s some great ideas that involve the Grand Canyon, naturally_
-> 
+>
 > _Empowering researchers to interact with records that are too fragile or valuable to handle in person, making large amounts of biomedical data easier to navigate, and as one person puts it simply, “space exploration”_
-> 
+>
 > _Promoting interactive safety games that bring a whole new level of immersion to public service announcements, improving the veteran experience for wounded warriors, and revolutionizing education programs at all levels of development_
 
 The list of achievable applications for both artificial intelligence and virtual/augmented reality in public service is growing, and our two new Communities will serve as the collaborative foundations for sharing information, analyzing trends, and connecting across government with the businesses ready to work with us.

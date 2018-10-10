@@ -5,19 +5,18 @@ title: How to Make a Mobile Paper Prototype
 summary: 'What if a single piece of paper could make your mobile app work 20% better? It’s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it’s true. Well before we get into the design and coding phases, we can show customers'
 authors:
   - jonathan-rubin
-categories:
-  - Design
-  - Mobile
+topics:
+  - design
+  - mobile
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - GSA
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-5
   - prototype
-  - user experience
+  - user-experience
 ---
 
 What if a single piece of paper could make your mobile app work 20% better?

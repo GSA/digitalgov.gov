@@ -6,18 +6,18 @@ summary: 'Americans Use Public Data to Improve the Lives of Fellow Citizens Data
 authors:
   - robin-thottungal
   - kris-rowley
-categories:
-  - API
-  - Challenges
+topics:
+  - api
+  - challenges
   - crowdsourcing-and-citizen-science
   - Data
-  - strategy-and-policy
-tag:
-  - API
+  - strategy
+  - policy
+  - api
   - apps challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
@@ -26,7 +26,7 @@ tag:
   - EPA
   - GSA
   - innovation
-  - mobile apps
+  - mobile-apps
   - National Day of Civic Hacking
   - open data
   - open government
@@ -39,8 +39,8 @@ tag:
   - US Small Business Administration
   - USAID
   - USDA
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 ## Americans Use Public Data to Improve the Lives of Fellow Citizens {{< legacy-img src="2015/03/600-x-387-Digital-Globe-Yakobchuk-iStock-Thinkstock-134133143.jpg" alt="Digital Globe" caption="" >}} 

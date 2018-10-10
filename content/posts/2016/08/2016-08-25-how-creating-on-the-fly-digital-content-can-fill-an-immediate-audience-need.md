@@ -5,11 +5,11 @@ title: How Creating On-The-Fly Digital Content Can Fill an Immediate Audience Ne
 summary: 'When some U.S. athletes at this month’s Olympic Games started showing up at their events with dark red circles on their torsos, sports commentators and the media hungrily sought answers to what the marks could be. In less than a day after the spots were&hellip;spotted, the story of the mysterious circles was becoming clearer: they'
 authors:
   - yasmine-kloth
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - content
+  - managing-digital
+  - strategy
+  - policy
   - content
   - content strategy
   - National Center for Complementary and Integrative Health

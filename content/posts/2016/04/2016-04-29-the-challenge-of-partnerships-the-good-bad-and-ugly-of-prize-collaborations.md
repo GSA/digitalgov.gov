@@ -5,11 +5,10 @@ title: 'The Challenge of Partnerships: ‘The Good, Bad and Ugly’ of Prize Col
 summary: 'Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin. To partner or not to partner: That is the question. &ldquo;If you are going to do one, don’t do it because it seems like a good idea,&rdquo;'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - HHS
   - National Institute of Standards
   - NIST

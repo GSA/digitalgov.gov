@@ -5,19 +5,18 @@ title: U.S. Gov Releases New Collaborative Social Media Services
 summary: ' The Federal #SocialGov Community, a collective of almost 700 digital engagement managers from more than 120 government agencies, marked the 2nd anniversary of our program by releasing a suite of new collaborative services to help us better work together and with partners in'
 authors:
   - jherman
-categories:
-  - Accessibility
-  - Metrics
+topics:
+  - accessibility
+  - metrics
   - Our Work
-  - Social Media
-tag:
+  - social-media
   - accessibility
   - SBA
   - social media
   - SocialGov
-  - SocialGov Community
+  - socialgov-community
   - USAID
-  - White House
+  - white-house
   - World Bank
 ---
 

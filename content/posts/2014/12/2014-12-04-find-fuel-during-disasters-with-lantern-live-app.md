@@ -5,12 +5,11 @@ title: Find Fuel During Disasters with Lantern Live App
 summary: 'Who to call? Where to meet? What to pack? How to find fuel? Make sure your personal disaster preparedness plan includes how to quickly find functioning gas stations in your area with help from the Department of Energy’s Lantern'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - native app
-  - Thursday Mobile Products
+  - mobile
+  - native-app
+  - thursday-mobile-products
   - United States Department of Energy
 ---
 

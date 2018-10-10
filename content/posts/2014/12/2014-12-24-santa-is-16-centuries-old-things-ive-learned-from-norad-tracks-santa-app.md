@@ -5,14 +5,13 @@ title: 'Santa Is 16 Centuries Old: Things I&#8217;ve Learned from NORAD Tracks S
 summary: 'NORAD&#8217;s Santa Tracker is available for download again! Here are five things I learned from the magical NORAD Tracks Santa app to keep my nieces, nephews and neighborhood children entertained this holiday season, even if I don’t remember how many of them'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
-  - API
+topics:
+  - mobile
+  - api
   - DoD
   - NORAD
   - North American Defense Command
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Defense
 ---
 

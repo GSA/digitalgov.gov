@@ -5,11 +5,11 @@ title: Digging Deep Using the Core Model
 summary: 'Recently, OMB released M 17-06, Policies for Federal Agency Public Websites and Digital Services, which provides agencies with requirements, standards, and best practices for federal websites and digital services. This new policy might have some of us reflecting on our websites and applications to make sure we are in compliance. This task might seem overwhelming, but the'
 authors:
   - christen-geiler
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - content
+  - managing-digital
+  - strategy
+  - policy
   - content
   - content strategy
   - core
@@ -17,7 +17,7 @@ tag:
   - Office of Management and Budget
   - OMB
   - structured content
-  - White House
+  - white-house
 ---
 
 Recently, [OMB](https://www.whitehouse.gov/omb) released M 17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf), which provides agencies with [requirements, standards, and best practices for federal websites and digital services]({{< link "/resources/" >}}). This new policy might have some of us reflecting on our websites and applications to make sure we are in compliance. This task might seem overwhelming, but the following methodology might just serve as a much needed guide.

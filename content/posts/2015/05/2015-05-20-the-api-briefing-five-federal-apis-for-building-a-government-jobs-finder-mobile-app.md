@@ -5,13 +5,12 @@ title: 'The API Briefing: Five Federal APIs for Building a Government Jobs Finde
 summary: 'The spring semesters are winding down at the universities where I teach. Many students are looking for summer internships or their first job after graduation. Of course, I talk about the opportunities in government through the Pathways program, the Presidential Management Fellows, or the various agency-specific internship programs. I’ve demonstrated USAJOBS in my classes, but'
 authors:
   - bbrantley
-categories:
-  - API
-tag:
-  - API
+topics:
+  - api
+  - api
   - DigitalGov Search
-  - mobile apps
-  - Wednesday API Briefing
+  - mobile-apps
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}} 

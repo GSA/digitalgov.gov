@@ -5,15 +5,14 @@ title: Make Gov APIs Better with User Experience
 summary: 'APIs and User Experience go together like gummi bears and ice cream. An API is a product just like a car, a website or a ballpoint pen. It’s designed to help someone do something. Products'
 authors:
   - jonathan-rubin
-categories:
-  - API
-  - Code
+topics:
+  - api
+  - code
   - user-testing-and-research
-  - UX
-tag:
-  - 18F
-  - API
-  - API keys
+  - ux
+  - 18f
+  - api
+  - api keys
   - DigitalGov User Experience Program
   - Federal Emergency Management Agency
   - FEMA

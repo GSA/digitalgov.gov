@@ -5,11 +5,10 @@ title: Military OneSource
 summary: 'Members of the military and their families now have access to Military OneSource on the go with the new Department of Defense  mobile website Military OneSource. This'
 authors:
   - michael-niedzwiecki
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DoD
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Defense
 ---
 

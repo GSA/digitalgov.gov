@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: Apps Dominate Mobile Web Usage'
 summary: '&ldquo;There’s an app for that.&rdquo; New data from app analytics provider Flurry on mobile app usage reveals that smartphone users are taking this trademarked slogan to heart. Of the 2 hours and 42 minutes per day that a typical user is on a mobile device, mobile app usage accounts for 2 hours and 19 minutes'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Facebook
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
   - Twitter

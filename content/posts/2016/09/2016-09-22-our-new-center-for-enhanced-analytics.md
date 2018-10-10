@@ -5,16 +5,15 @@ title: Our New Center for Enhanced Analytics
 summary: 'Analytics and &ldquo;big data&rdquo; seem to be the next frontier in a number of arenas. Data researchers can use the large, real-time data sets that are available today to facilitate scientific discovery, improve the flow of traffic, and increase energy efficiency, among many other things. Last year, the White House appointed the first federal Chief'
 authors:
   - gao-watchblog
-categories:
+topics:
   - Data
-  - Metrics
-tag:
+  - metrics
   - analytics
   - big data
   - data
   - GAO
   - metrics
-  - Transportation Security Administration
+  - transportation-security-administration
   - TSA
   - US Government Accountability Office
   - United States Department of Transportation

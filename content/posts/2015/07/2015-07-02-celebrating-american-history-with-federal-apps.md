@@ -6,18 +6,17 @@ summary: 'Summer is here, which means it is time for the biggest holiday of the 
 authors:
   - kdaniel
   - awichman
-categories:
-  - Mobile
-tag:
-  - ABMC
-  - American Battle Monuments Commission
+topics:
+  - mobile
+  - abmc
+  - american-battle-monuments-commission
   - mobile
   - NARA
   - National Archives and Records Administration
-  - native apps
+  - native-apps
   - Smithsonian Institution
-  - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - thursday-mobile-products
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Cake-with-American-flag-frosting-and-sparkling-candles-Jupiterimages-liquidlibrary-Thinkstock-87648597.jpg" alt="Cake with American flag frosting and sparkling candles" caption="" >}} 

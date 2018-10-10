@@ -5,10 +5,9 @@ title: The Impact of Culture on Customer Experience
 summary: 'What&#8217;s one of the most important factors in delivering a good customer experience? When I first began learning about customer experience, one of the biggest surprises was the importance of culture. Organizational culture can be defined as the values and behavior that contribute to the unique and psychological environment of an organization.It’s based on shared'
 authors:
   - martha-dorris
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
+topics:
+  - managing-digital
+  - customer-experience
 ---
 
 {{< legacy-img src="2013/08/250-x-167-Hands-Group-poco_bw-iStock-Thinkstock-145905230.jpg" alt="Group of hands; teamwork." caption="" >}} 

@@ -5,10 +5,9 @@ title: 'Social Video: Making Sense of the Facebook and YouTube Platforms'
 summary: 'Updated: Added link to Twitter&#8217;s blog post on direct video uploads. Around the time that Tim Fullerton of the Department of Interior delivered his webcast to DigitalGov audiences about publishing video content to Facebook, we at the Broadcasting Board of Governors were comparing the differences in user behavior on the Facebook and YouTube video platforms'
 authors:
   - randy-abramson
-categories:
-  - Social Media
-  - Video
-tag:
+topics:
+  - social-media
+  - video
   - BBG
   - Broadcasting Board of Governors
   - DOI

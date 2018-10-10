@@ -5,12 +5,11 @@ title: An Overview of Digital Communities
 summary: 'Digital communities of practice come in many stripes. DigitalGov communities span eight (and counting) focus areas and have thousands of members, but strong collaborations exist in all corners of government. In honor of this month’s communities theme, we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.'
 authors:
   - awichman
-categories:
-  - Communities
+topics:
+  - communities
   - Monthly Theme
-tag:
-  - 18F
-  - API
+  - 18f
+  - api
   - CIO Council
   - Citizen Science and Crowdsourcing Community of Practice
   - communities

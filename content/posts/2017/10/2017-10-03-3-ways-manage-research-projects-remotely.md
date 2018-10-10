@@ -6,13 +6,13 @@ summary: 'Being a remote team doesn’t mean you should forgo any of your resear
 authors:
   - nicole-fenton
   - jamie-albrecht
-categories:
+topics:
   - design
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - ux
-tag:
   - 18f
   - fbi
   - fec

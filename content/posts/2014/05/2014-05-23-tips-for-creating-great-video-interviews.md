@@ -5,11 +5,10 @@ title: Tips for Creating Great Video Interviews
 summary: ' At Kids.gov, we noticed a lot of our search terms were for different jobs: veterinarian, teacher, police officer. We offer links to these areas, but thought it would be great if we met and interviewed government employees in the'
 authors:
   - arlene-hernandez
-categories:
-  - Video
-tag:
+topics:
+  - video
   - Smithsonian Institution
-  - White House
+  - white-house
 ---
 
 {{< legacy-img src="2014/05/600-x-400-KidsGov-video-interviews-2-DSC_9939.jpg" alt="Kids.gov staff interviews a Zoo Keeper for its STEM Careers Spotlight series" >}}

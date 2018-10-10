@@ -5,16 +5,15 @@ title: Helpful Resources to Make Your Content Mobile-Friendly
 summary: 'Smartphones make up 75% of the mobile market&mdash;which makes mobile-friendliness a must for government agencies. With the recent update to Google’s search algorithm, or what some are calling Mobilegeddon, the case for building a mobile-friendly site becomes even stronger. For many government organizations, responsive Web design (RWD) has been the answer to their mobile question.'
 authors:
   - kdaniel
-categories:
-  - Content
-  - Mobile
-tag:
-  - Content Management System
+topics:
+  - content
   - mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
+  - content-management-system
+  - mobile
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
   - mobile-friendly
-  - MobileGov
+  - mobile-gov
   - responsive web design
   - Sites
   - sitesusagov

@@ -5,15 +5,14 @@ title: 'Crowdsourcing Month: An Overview'
 summary: 'This month we&#8217;ll be highlighting articles about crowdsourcing. These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills. Among the mechanisms are hackathons, data jams, code-a-thons, prize competitions, workplace surveys, open ideation, micro-tasks or'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
   - CFPB
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - Consumer Financial Protection Bureau
@@ -29,7 +28,7 @@ tag:
   - FTC
   - HHS
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - national science foundation
   - NSF

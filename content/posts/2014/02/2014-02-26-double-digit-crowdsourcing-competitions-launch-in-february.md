@@ -5,16 +5,15 @@ title: Double Digit Crowdsourcing Competitions Launch in February
 summary: 'This is a phenomenal month for federal challenge and prize competitions with 12 new programs launched in February. The challenge.gov platform usually averages four to six new challenges a month, so we&#8217;re excited to see the year start off with a big push to engage citizens in creative'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Code
+topics:
+  - challenges
+  - code
   - crowdsourcing-and-citizen-science
-tag:
   - crowdsourcing
   - Department of Commerce
   - EPA
   - GSA
-  - mobile apps
+  - mobile-apps
   - United States Air Force
 ---
 

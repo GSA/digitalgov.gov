@@ -6,11 +6,10 @@ summary: ' Public participation&mdash;where citizens help shape and implement go
 authors:
   - corinna-zarek
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - open government
-  - SocialGov Community
+  - socialgov-community
 ---
 
 [

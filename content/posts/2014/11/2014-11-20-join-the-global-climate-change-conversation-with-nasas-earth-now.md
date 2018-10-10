@@ -5,12 +5,11 @@ title: 'Join the Global Climate Change Conversation with NASA&#8217;s Earth Now'
 summary: ' Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth’s vital signs from NASA’s Earth Now mobile app. Earth Now is an app that visualizes recent global climate data, including surface air temperature, carbon dioxide, carbon'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
-  - mobile apps
-  - NASA
-  - Thursday Mobile Products
+topics:
+  - mobile
+  - mobile-apps
+  - nasa
+  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2014/11/600-x-230-NASA-Earth-Now-Android-app.jpg" alt="4 screens from the Android version of NASA's Earth Now app" >}}

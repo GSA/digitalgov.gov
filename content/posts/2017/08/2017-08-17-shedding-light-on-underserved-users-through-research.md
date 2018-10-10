@@ -5,11 +5,10 @@ title: Shedding Light on Underserved Users through Research
 summary: 'How user interviews helped spotlight the needs of a previously forgotten group.  We may not like to admit it, but, most web services or sites have users that (for whatever reason) just aren’t well understood&mdash;and in turn, not well served. Conducting user interviews and making sure you get good participation from those groups can help'
 authors:
   - tyrus-manuel
-categories:
-  - User Testing and Research
-tag:
+topics:
+  - user-testing-and-research
   - Personas
-  - user experience
+  - user-experience
   - user research
 ---
 

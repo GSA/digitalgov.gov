@@ -5,15 +5,14 @@ title: 'National Cancer Institute&#8217;s Smokefree Tools'
 summary: ' Went a little too far with a bad habit? Do you or someone you love have difficulty putting down the cancer sticks? The National Cancer Institute has developed a triple threat to help kick this issue for'
 authors:
   - jenny-johnson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - ios
   - National Cancer Institute
-  - native app
+  - native-app
   - NCI
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2015/10/600-x400-Screencapture-of-the-Smoke-free-dot-gov-homepage-slider-for-the-quit-START-app.jpg" alt="Screen capture of the Smoke free dot gov homepage slider for the quitSTART app" >}}

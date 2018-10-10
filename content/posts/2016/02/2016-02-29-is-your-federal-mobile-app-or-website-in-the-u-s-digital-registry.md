@@ -5,19 +5,18 @@ title: 'Is Your Federal Mobile App or Website in the U.S. Digital Registry?'
 summary: 'We have received an amazing response to the U.S. Digital Registry, our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.'
 authors:
   - jparcell
-categories:
-  - Mobile
-  - Social Media
-tag:
-  - API
+topics:
+  - mobile
+  - social-media
+  - api
   - DAP
   - Digital Analytics Program
-  - mobile apps
+  - mobile-apps
   - mobile-friendly
-  - MobileGov
+  - mobile-gov
   - social media
   - US Digital Registry
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 We have received an amazing response to the [U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}}), our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.

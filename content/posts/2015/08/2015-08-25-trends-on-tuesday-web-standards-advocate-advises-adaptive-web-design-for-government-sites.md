@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: Web Standards Advocate Advises Adaptive Web Design fo
 summary: ' This August, Aaron Gustafson, Web Standards Advocate at Microsoft, industry thought leader and speaker, and an author who wrote a leading book on adaptive web design, spoke to the government tech community at the U.S. General Services Administration'
 authors:
   - wsullivan
-categories:
-  - Design
-  - Mobile
-tag:
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
+topics:
+  - design
+  - mobile
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

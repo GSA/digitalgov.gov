@@ -8,12 +8,12 @@ authors:
   - mary-king
   - hilary-parkinson
   - dana-allen-greil
-categories:
-  - Content
-  - Managing Digital
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
+  - content
+  - managing-digital
+  - social-media
+  - strategy
+  - policy
   - content strategy
   - NARA
   - National Archives and Records Administration

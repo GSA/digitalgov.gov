@@ -5,11 +5,10 @@ title: 'Training Series Offers Marketing Tips for Prizes & Challenges'
 summary: 'Marketing and public education is an essential part of any successful prize competition. The good news for federal agencies working with tight budgets is that both can be accomplished without breaking the bank. &ldquo;We have found other ways than spending a lot of money,&rdquo; said Denice Shaw, senior advisor to the Chief Innovation Officer at the'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prizes-community-of-practice
   - EPA
   - Recaps
   - US Department of Education

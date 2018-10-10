@@ -5,13 +5,12 @@ title: 'The Content Corner: User Research for Complex Systems'
 summary: 'My office is preparing to embark on a complete redesign of a 10-year-old system that averages 20,000 users a month. The success and adoption of the new system design and the product as a whole will be heavily determined by how well our team translates users’ needs. Providing a good user experience will also play'
 authors:
   - tyrus-manuel
-categories:
-  - Content
+topics:
+  - content
   - Monthly Theme
-tag:
-  - Administrative Office of the United States Courts
+  - administrative-office-of-the-united-states-courts
   - The Content Corner
-  - UX
+  - ux
 ---
 
 My office is preparing to embark on a complete [redesign]({{< link "2015-02-27-foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind.md" >}}) of a 10-year-old system that averages 20,000 users a month. The success and adoption of the new system design and the product as a whole will be heavily determined by how well our team translates users’ needs. Providing a good [user experience]({{< link "2015-02-13-institutionalizing-user-experience-building-usability-into-your-organization.md" >}}) will also play a critical role in reducing struggles long-time users may encounter with a new system. {{< legacy-img src="2015/11/600-x-400-Modern-laptop-on-technology-exhibition-zhudifeng-iStock-Thinktock-536196251.jpg" alt="Modern laptop on technology exhibition" caption="" >}} 

@@ -6,10 +6,9 @@ summary: ' The Digital Analytics Program (DAP) is a cornerstone of the 2012 Digi
 authors:
   - tlowden
   - marina-fox
-categories:
-  - Metrics
+topics:
+  - metrics
   - Our Work
-tag:
   - analytics
   - customer satisfaction
   - DAP

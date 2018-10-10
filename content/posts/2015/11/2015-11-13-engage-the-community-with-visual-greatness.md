@@ -5,9 +5,8 @@ title: Engage the Community with Visual Greatness
 summary: 'The power of using social media to find and create images can be overwhelming. What image do I post? How can I get more followers when I don’t have animals or pretty pictures to share? All good questions. The fact is, no matter what your agency does you can find a visual way to tell'
 authors:
   - danielle-brigida
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - FWS
   - US Fish and Wildlife Service
 ---

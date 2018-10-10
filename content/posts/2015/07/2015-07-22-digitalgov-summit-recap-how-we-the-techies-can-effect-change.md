@@ -5,11 +5,10 @@ title: 'DigitalGov Summit Recap: How &#8220;We, the Techies&#8221; Can Effect Ch
 summary: 'Who do you need to bring to the table to make a better world? In May, Megan Smith, Chief Technology Officer of the United States, delivered the keynote address at the 2015 DigitalGov Citizen Services Summit. She encouraged attendees to find ways of unlocking potential through collaborations from both within and outside of government. &ldquo;We'
 authors:
   - awichman
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Monthly Theme
   - Our Work
-tag:
   - DigitalGov Summit
   - Recaps
 ---

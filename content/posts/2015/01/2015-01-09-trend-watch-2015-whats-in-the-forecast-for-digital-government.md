@@ -5,19 +5,18 @@ title: 'Trend Watch 2015: What&#8217;s in the Forecast for Digital Government?'
 summary: 'In January on DigitalGov, we’ll highlight pieces looking at trends we see coming in the digital government space in 2015 and beyond. We have lined up articles around: Customer Service Data 3D Printing at NIH and NASA Accessibility Mobile, and Training. Check back Monday, when we kick-off the month with 15 Government Customer Service Trends.'
 authors:
   - andreanocesigritz
-categories:
-  - Challenges
-  - Communities
+topics:
+  - challenges
+  - communities
   - Data
-  - Managing Digital
-  - Mobile
+  - managing-digital
+  - mobile
   - Monthly Theme
-tag:
   - AoI
   - big data
   - challenges and prize competitions
-  - Customer Experience
-  - mobile gov
+  - customer-experience
+  - mobile-gov
 ---
 
 In January on DigitalGov, we’ll highlight pieces looking at trends we see coming in the digital government space in 2015 and beyond. We have lined up articles around:

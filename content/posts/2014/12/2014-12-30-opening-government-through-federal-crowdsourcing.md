@@ -5,24 +5,23 @@ title: Opening Government Through Federal Crowdsourcing
 summary: Crowdsourcing is a critical corner of the digital government landscape, and our December theme articles have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming trends on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives
 authors:
   - awichman
-categories:
-  - Challenges
-  - Communities
+topics:
+  - challenges
+  - communities
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
   - AoI
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - Consumer Product Safety Commission
   - crowdsourcing
   - FCPCCS
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - OSTP
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Futuristic-technology-interface-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482251177.jpg" alt="Futuristic technology interface showing a network of figures (people)." caption="" >}}

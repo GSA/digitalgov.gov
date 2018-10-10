@@ -5,9 +5,8 @@ title: Agile “Sprinting” to Digital Governance Recommendations
 summary: 'To help agencies produce better decision-making across the organization about how to best spend resources on digital services and manage their data, the Digital Government Strategy tasked the Digital Services Advisory Group with &ldquo;recommending guidelines on agency-wide governance structure for developing and'
 authors:
   - jparcell
-categories:
+topics:
   - Governance
-tag:
   - GSA
   - US Department of Education
   - US Department of Veterans Affairs

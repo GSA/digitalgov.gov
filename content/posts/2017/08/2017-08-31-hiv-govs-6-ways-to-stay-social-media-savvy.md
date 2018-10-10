@@ -8,10 +8,10 @@ authors:
 featured_image:
   uid: 'social-network-and-media-concept-switch-knob-with-icons-bet-noire-istock-thinkstock-627202608'
   alt: 'Social network and media concept illustration of a switch knob with icons.'
-categories:
+topics:
   - social-media
-  - strategy-and-policy
-tag:
+  - strategy
+  - policy
   - content-strategy
   - hiv-gov
   - social-media

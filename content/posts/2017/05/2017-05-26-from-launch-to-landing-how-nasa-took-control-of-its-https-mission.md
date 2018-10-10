@@ -5,15 +5,15 @@ title: 'From Launch to Landing: How NASA Took Control of Its HTTPS Mission'
 summary: '18F Editor’s note: This is a guest post by Karim Said of NASA. Karim was instrumental in NASA’s successful HTTPS and HSTS migration, and we’re happy to help Karim share the lessons NASA learned from that process. In 2015, the White House Office of Management and Budget released M-15-13, a &ldquo;Policy to Require Secure Connections'
 authors:
   - karim-said
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - managing-digital
+  - strategy
+  - policy
+  - 18f
   - DHS
   - GSA
   - HTTPS
-  - NASA
+  - nasa
   - National Aeronautics and Space Administration
   - Office of Management and Budget
   - OMB

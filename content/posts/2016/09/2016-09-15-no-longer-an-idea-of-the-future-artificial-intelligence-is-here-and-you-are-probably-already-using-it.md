@@ -5,20 +5,19 @@ title: No Longer an Idea of the Future, Artificial Intelligence Is Here and You 
 summary: 'It might surprise some of you to know that artificial intelligence (AI) is already in use and a routine part of our daily lives, but we leverage this technology when we use our smartphones or other devices to ask Apple&#8217;s Siri, Microsoft&#8217;s Cortana, Google Now, or Amazon’s Alexa a question to get the facts or data we'
 authors:
   - christen-geiler
-categories:
-  - Code
-  - Content
+topics:
+  - code
+  - content
   - Data
-  - Managing Digital
-  - Metrics
+  - managing-digital
+  - metrics
   - user-testing-and-research
-  - UX
-tag:
-  - AI
+  - ux
+  - ai
   - analytics
   - artificial intelligence
   - chatbots
-  - Customer Experience
+  - customer-experience
   - CX
   - data
   - FCC
@@ -28,10 +27,10 @@ tag:
   - regulation
   - research
   - security
-  - user experience
-  - UX
-  - White House
-  - White House Office of Science and Technology Policy
+  - user-experience
+  - ux
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 It might surprise some of you to know that artificial intelligence (AI) is already in use and a routine part of our daily lives, but we leverage this technology when we use our smartphones or other devices to ask Apple&#8217;s Siri, Microsoft&#8217;s Cortana, Google Now, or Amazon’s Alexa a question to get the facts or data we are looking for. Using your voice, you can say, “Where’s the nearest gas station?” or “What’s on my calendar today?”, and the [intelligent personal assistant](https://en.wikipedia.org/wiki/Intelligent_personal_assistant) (IPA) will respond by finding information and relaying it from your phone or sending commands to other apps. {{< legacy-img src="2016/09/600-x-425-Artificial-intelligence-making-possible-new-computer-technologies-NicoElNino-iStock-Thinkstock-499152762.jpg" alt="Artificial intelligence (AI) is making possible new computer technologies." caption="" >}} 

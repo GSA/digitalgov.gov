@@ -5,13 +5,12 @@ title: 'Mobilegeddon: Government Edition'
 summary: 'Much is being said and written about the coming Mobilegeddon/Mopocalypse on April 21st&mdash;the day Google’s ranking algorithm will begin boosting results for mobile-friendly sites and penalizing mobile-unfriendly sites. While some agency websites are mobile-friendly, a great many are not. We will do well to pay attention&mdash;almost 25% of traffic on government websites is coming from'
 authors:
   - dmccleskey
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DigitalGov Search
   - mobile
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-5
   - mobile-friendly
   - Plain language
   - responsive web design

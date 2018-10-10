@@ -5,17 +5,16 @@ title: Finding Participants for User Experience Studies
 summary: 'How do you find participants for your usability studies? I spoke recently with the User Experience Community of Practice about how we recruit participants for usability and cognitive studies at the U.S. Bureau of Labor Statistics (BLS). Hopefully I can give you some new ideas about recruiting volunteers to fuel your user research. At BLS, we'
 authors:
   - jean-fox
-categories:
-  - Communities
+topics:
+  - communities
   - user-testing-and-research
-tag:
   - AoI
   - BLS
   - DOL
   - US Bureau of Labor Statistics
   - US Department of Labor
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 {{< legacy-img src="2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." caption="" >}} 

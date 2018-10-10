@@ -5,11 +5,10 @@ title: 'Open Government #WikiHack at the National Archives'
 summary: ' The National Archives and Records Administration and Wikimedia D.C., invite you to help us improve access to open government data on Wikipedia. We are excited to announce that we will be hosting the Open Government #WikiHack, a two-day hackathon at the National Archives Building in downtown'
 authors:
   - dominic-mcdevitt-parks
-categories:
-  - API
-  - Content
+topics:
+  - api
+  - content
   - Data
-tag:
   - NARA
   - National Archives and Records Administration
   - open data

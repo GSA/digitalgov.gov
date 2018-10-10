@@ -5,9 +5,8 @@ title: 'In the Beginning&#8230;of Web in Federal Government'
 summary: ' With the 25th anniversary of the Web, we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since. The State Department may have been one of the first, in 1991, with a'
 authors:
   - andreanocesigritz
-categories:
-  - Content
-tag:
+topics:
+  - content
   - CNCS
   - Corporation for National and Community Service
   - Court Services and Offender Supervision Agency
@@ -20,7 +19,7 @@ tag:
   - HHS
   - HUD
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - US Department of State
   - United States Department of Health and Human Services

@@ -3,13 +3,13 @@ slug: nist-publishes-nice-cybersecurity-workforce-framework
 date: 2017-08-22 12:00:51 -0400
 title: NIST Publishes NICE Cybersecurity Workforce Framework
 summary: 'Categorizing and Describing Cybersecurity Work for the Nation The National Initiative for Cybersecurity Education (NICE) is pleased to announce the release of Special Publication 800-181, the NICE Cybersecurity Workforce Framework. This publication serves as a fundamental reference to support a workforce capable of meeting an organization’s cybersecurity needs. It provides organizations with a common, consistent'
-categories:
+topics:
   - Data
-  - Managing Digital
-  - strategy-and-policy
+  - managing-digital
+  - strategy
+  - policy
 authors:
  - nist
-tag:
   - data
   - National Institute of Standards and Technology
   - NIST

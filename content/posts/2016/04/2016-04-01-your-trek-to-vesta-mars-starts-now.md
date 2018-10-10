@@ -5,18 +5,17 @@ title: 'Your Trek to Vesta & Mars Starts Now'
 summary: 'The NASA Open Innovation team is pleased to announce the availability of the APIs that power Mars Trek and Vesta Trek on api.nasa.gov. The APIs for Mars provide data from the Mars Express, Mars Global Surveyor, Mars Odyssey and Mars Reconnaissance Orbiter missions with 21 different data products such as MOLA Altimetery Hillshade, Viking and THEMIS.'
 authors:
   - jason-duley
-categories:
-  - API
-  - Challenges
-  - Code
+topics:
+  - api
+  - challenges
+  - code
   - Data
   - Monthly Theme
-tag:
-  - API
+  - api
   - apps challenges
   - data
   - innovation
-  - NASA
+  - nasa
   - open data
 ---
 

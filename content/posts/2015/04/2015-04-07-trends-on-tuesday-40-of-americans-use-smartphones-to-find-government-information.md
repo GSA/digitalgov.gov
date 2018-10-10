@@ -5,13 +5,13 @@ title: 'Trends on Tuesday: 40% of Smartphone Users Look up Government Informatio
 summary: 'The Pew Research Center released a deep research dive into &ldquo;U.S. Smartphone Use in 2015&rdquo; that provided three big ideas and data points for government agencies to consider when planning their digital strategies. More than 2/3 of Americans have smartphones; many of those are mobile first or mobile only Internet users.'
 authors:
   - wsullivan
-categories:
-  - Managing Digital
-  - Mobile
-  - strategy-and-policy
-tag:
+topics:
+  - managing-digital
   - mobile
-  - Mobile UX Guideline 5
+  - strategy
+  - policy
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

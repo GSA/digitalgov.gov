@@ -5,18 +5,17 @@ title: What Is Mobile Device Compatibility Testing?
 summary: In most instances, your hardware and software are developed independently but are expected to function properly together. For example, when a Web application is developed in HTML, it is expected to function properly on an Apple computer using Safari as well as a Windows computer using Internet Explorer. This sounds simple, but there are thousands
 authors:
   - david-fern
-categories:
-  - Mobile
+topics:
+  - mobile
   - Monthly Theme
-tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
-  - native app
-  - native apps
-  - user experience
-  - UX
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-4
+  - native-app
+  - native-apps
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 

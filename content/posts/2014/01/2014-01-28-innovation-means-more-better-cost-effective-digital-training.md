@@ -5,16 +5,15 @@ title: Innovation Means More, Better, Cost Effective Digital Training
 summary: A recent FedTech Magazine article asked,
 authors:
   - jherman
-categories:
-  - Managing Digital
-  - Social Media
-tag:
+topics:
+  - managing-digital
+  - social-media
   - CFPB
   - DGU
   - DoD
   - FAA
   - FAFSA
-  - NASA
+  - nasa
   - SocialGov
   - US Department of Education
   - US Department of State

@@ -10,17 +10,16 @@ authors:
   - jparcell
   - apiazza
   - jonathan-rubin
-categories:
-  - API
-  - Challenges
-  - Content
+topics:
+  - api
+  - challenges
+  - content
   - Data
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Social Media
-  - UX
-tag:
+  - managing-digital
+  - metrics
+  - mobile
+  - social-media
+  - ux
   - DOL
   - EPA
   - FCC

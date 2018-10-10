@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: Smartphone Users Still Use the Phone for Talking'
 summary: 'Smartphones are changing how organizations do business&mdash;they are more than just smart Web browsers. As I noted last week, purchases from mobile phones have dramatically increased during the holiday shopping season. The infographic from IfByPhone demonstrates how people are using'
 authors:
   - jparcell
-categories:
-  - Managing Digital
-  - Mobile
-tag:
-  - Customer Experience
+topics:
+  - managing-digital
+  - mobile
+  - customer-experience
   - Government Contact Center Council
   - government contact centers
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

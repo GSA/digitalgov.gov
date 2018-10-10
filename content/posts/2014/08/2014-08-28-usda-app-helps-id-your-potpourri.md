@@ -3,14 +3,13 @@ slug: usda-app-helps-id-your-potpourri
 date: 2014-08-28 10:00:31 -0400
 title: USDA App Helps ID Your Potpourri
 summary: 'Got a thing for dried botanicals? (No, not THOSE &#8230; but the stuff of fragrant sachets, decorative wreaths and glass jars filled with heavenly scents?) Before you discard your old potpourri or put some within reach of pets and children, you&#8217;ll want to take a look at'
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Animal and Plant Health Inspection Service
-  - mobile apps
-  - Thursday Mobile Products
+  - mobile-apps
+  - thursday-mobile-products
   - US Department of Agriculture
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - USDA
 ---
 

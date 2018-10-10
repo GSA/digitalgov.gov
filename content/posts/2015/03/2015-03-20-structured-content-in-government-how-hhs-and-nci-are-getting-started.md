@@ -5,18 +5,17 @@ title: 'Structured Content in Government: How HHS and NCI Are Getting Started'
 summary: 'Metadata, tagging, content modeling &hellip; they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed. If you’re new to structured content, where should you start? Ideally, your metadata strategy will be part of your overall content'
 authors:
   - hannah-gladfelter-rubin
-categories:
-  - Content
+topics:
+  - content
   - Data
-  - Mobile
+  - mobile
   - Monthly Theme
-tag:
   - content models
   - content strategy
   - DGU
   - HHS
   - metadata
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - National Cancer Institute
   - NCI
   - open and structured content models

@@ -5,12 +5,11 @@ title: Metrics Round Up
 summary: We are all collecting a lot of performance data across our digital properties and DigitalGov University has hosted many events on the collection, reporting and strategizing around metrics. DigitalGov has shared many posts on these topics as well. So we thought it would be great to curate these events and posts for easy reference and
 authors:
   - apiazza
-categories:
-  - Metrics
-tag:
+topics:
+  - metrics
   - analytics
   - DAP
-  - data.gov
+  - data-gov
   - EPA
   - GAO
   - NPS

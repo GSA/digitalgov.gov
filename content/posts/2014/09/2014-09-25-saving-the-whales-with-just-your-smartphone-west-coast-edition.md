@@ -5,12 +5,11 @@ title: 'Saving the Whales With Just Your Smartphone: West Coast Edition'
 summary: ' Saving the whales just got easier for West Coasters with the latest version of the popular Whale Alert app. This free &#8220;feel-good&#8221; iPhone/iPad app, developed by NOAA&#8217;s Office of National Marine Sanctuaries and a long list of partners, now enables users on both U.S. coasts'
 authors:
   - genevieve-contey
-categories:
-  - Mobile
-tag:
-  - native app
+topics:
+  - mobile
+  - native-app
   - NOAA
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" >}}

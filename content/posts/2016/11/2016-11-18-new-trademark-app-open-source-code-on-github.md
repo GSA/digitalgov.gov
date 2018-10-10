@@ -5,13 +5,12 @@ title: New Trademark App Open Source Code on GitHub
 summary: 'Improving the way the government delivers information technology (IT) solutions to its customers isn’t just a goal, it’s our mission. We at the U.S. Patent and Trademark Office know that by publishing our open source code, the public can help us come up with new and better IT solutions. In advance of the new Federal'
 authors:
   - david-chiles
-categories:
-  - Code
+topics:
+  - code
   - Data
-  - Managing Digital
-  - Mobile
-tag:
-  - API
+  - managing-digital
+  - mobile
+  - api
   - code
   - Commerce
   - data
@@ -19,7 +18,7 @@ tag:
   - GitHub
   - innovation
   - mobile
-  - mobile apps
+  - mobile-apps
   - open
   - open data
   - open source

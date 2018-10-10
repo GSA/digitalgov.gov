@@ -5,16 +5,15 @@ title: 'The Content Corner: How to Leverage User-Generated Content to Resonate W
 summary: 'User-Generated Content (UGC) is a buzzword as of late, popularized recently due to the ever increasing demand for new content. To define the phrase, let’s look to a shining example of it,Wikipedia, as a source, &#8220;any form of content such as blogs, wikis, discussion forums, posts, chats,tweets, podcasts, digital images, video, audio files, advertisements, and other'
 authors:
   - kyle-s-richardson
-categories:
-  - Content
-  - Mobile
-  - Social Media
-  - UX
-tag:
+topics:
+  - content
+  - mobile
+  - social-media
+  - ux
   - apps challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - content
@@ -22,8 +21,8 @@ tag:
   - crowdsourcing
   - DOJ
   - mobile
-  - mobile apps
-  - mobile gov
+  - mobile-apps
+  - mobile-gov
   - NARA
   - National Archives and Records Administration
   - NIH

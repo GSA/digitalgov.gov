@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Mary Meeker&#8217;s 2014 Internet Trends'
 summary: 'Since 2001, Mary Meeker has developed a knack for highlighting what’s currently happening on the Internet and how this information may impact technology and business in the future. Last week she released her 2014 Internet Trends and it reveals some interesting digital trends. Here are the highlights: Marketing: Social messaging is changing'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
-  - mobile apps
-  - Mobile UX Guideline 5
+topics:
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

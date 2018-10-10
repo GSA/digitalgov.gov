@@ -5,15 +5,14 @@ title: 'From Startup to Veteran CEO: New BusinessUSA App Has You Covered'
 summary: BusinessUSA is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for Android and iOS devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Department of Commerce
-  - mobile apps
+  - mobile-apps
   - SBA
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Small Business Administration
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 [{{< legacy-img src="2015/05/250-x-429-BusinessUSA-menu-screen-Google-Play-for-Android.jpg" alt="Business U.S.A. menu screen" >}}BusinessUSA](http://business.usa.gov) is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for [Android](https://play.google.com/store/apps/details?id=com.BusinessUSA.BusinessUSA) and [iOS](https://itunes.apple.com/us/app/businessusa/id905514958?mt=8) devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet or smartphone.

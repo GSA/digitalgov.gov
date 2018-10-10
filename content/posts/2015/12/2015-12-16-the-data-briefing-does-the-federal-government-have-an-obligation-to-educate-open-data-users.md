@@ -5,16 +5,15 @@ title: 'The Data Briefing: Does the Federal Government Have an Obligation to Edu
 summary: 'Pop quiz on statistics and data science (answers at the end of the article): 1) I have some data on accidents at railroad crossings. One variable indicates the compass direction a railroad crossing faces (North, Northwest, Northeast, and so on). This variable is a/an: Ordinal Categorical Directional Interval 2) I have some ordinal data that'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
-tag:
-  - API
+  - api
   - data
   - data visualization
   - DOL
   - HHS
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Labor
   - United States Department of Health and Human Services
   - United States Patent and Trademark Office

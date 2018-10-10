@@ -5,16 +5,15 @@ title: 'The Data Briefing: Help #HackSuicide This Weekend'
 summary: 'A month ago, I wrote about the White House’s call for data scientists and app developers to come together to help combat suicide. On December 12, 2015, there will be five hackathons around the U.S. to #HackSuicide. All the hackathons are free and open to the public. Even if you are not a data scientist,'
 authors:
   - bbrantley
-categories:
-  - Code
+topics:
+  - code
   - Data
-tag:
-  - API
+  - api
   - data visualization
-  - data.gov
-  - mobile apps
+  - data-gov
+  - mobile-apps
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Veterans Affairs
   - United States Patent and Trademark Office
   - USPTO

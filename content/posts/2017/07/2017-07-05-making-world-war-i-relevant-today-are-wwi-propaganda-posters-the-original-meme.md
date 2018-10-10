@@ -5,12 +5,11 @@ title: 'Making World War I Relevant Today: Are WWI Propaganda Posters the Origin
 summary: 'Merriam-Webster officially defines a meme as &ldquo;an idea, behavior, style, or usage that spreads from person to person within a culture.&rdquo; But these days, most of us think of memes as those viral posts online that convey a message using a photo with text. They range from funny to serious to offensive, and everything in'
 authors:
   - sarah-herrmann
-categories:
-  - Content
-  - Social Media
-tag:
-  - ABMC
-  - American Battle Monuments Commission
+topics:
+  - content
+  - social-media
+  - abmc
+  - american-battle-monuments-commission
   - content
   - content strategy
   - infographic

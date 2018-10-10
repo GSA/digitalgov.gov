@@ -5,24 +5,23 @@ title: 'Mobile Content: Less is More'
 summary: 'With 14 test cycles under our belt, the Federal CrowdSource Mobile Testing Program has heard one recurring theme from our testers&mdash;&#8221;there&#8217;s too much information!&#8221; While both desktop monitor and smartphone screen sizes are growing, there is still no comparison. At our desks, many of us are using a 24 inch (or even bigger) monitor. How big is your'
 authors:
   - david-fern
-categories:
-  - Mobile
+topics:
+  - mobile
   - Monthly Theme
   - user-testing-and-research
-tag:
   - COPE
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
+  - mobile-apps
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-4
   - responsive web design
   - structured content
-  - Transportation Security Administration
+  - transportation-security-administration
   - TSA
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 With 14 test cycles under our belt, the [Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}}) has heard one recurring theme from our testers—&#8221;there&#8217;s too much information!&#8221;

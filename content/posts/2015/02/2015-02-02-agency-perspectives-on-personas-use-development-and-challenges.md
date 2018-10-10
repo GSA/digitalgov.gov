@@ -5,15 +5,14 @@ title: Agency Perspectives on Personas (Use, Development and Challenges)
 summary: 'Personas are tools your agency can use to learn about your end users and drive decisions. Personas are so useful because they serve as a communication tool for your team. You can keep these personas in mind to guide any work that your agency performs. Let&#8217;s delve a bit deeper into personas and review two'
 authors:
   - kdaniel
-categories:
-  - UX
-tag:
+topics:
+  - ux
   - HHS
   - Personas
   - US Department of Agriculture
   - United States Department of Health and Human Services
   - USDA
-  - UX
+  - ux
 ---
 
 Personas are tools your agency can use to learn about your end users and drive decisions. Personas are so useful because they serve as a communication tool for your team. You can keep these personas in mind to guide any work that your agency performs.

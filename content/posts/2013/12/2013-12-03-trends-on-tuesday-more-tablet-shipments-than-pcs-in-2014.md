@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: More Tablet Shipments than PCs in 2014?'
 summary: ' Canalys, an international IT company, predicted last week that tablets will almost out-ship all other PC form factors combined next year. They expect that tablets will account for almost 50% of the total client PC market (that includes desktops, notebooks, and tablets) in 2014. PC shipments accounted for 40% of PC shipments'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
-  - mobile gov
+topics:
+  - mobile
+  - mobile-gov
   - Trends on Tuesday
 ---
 

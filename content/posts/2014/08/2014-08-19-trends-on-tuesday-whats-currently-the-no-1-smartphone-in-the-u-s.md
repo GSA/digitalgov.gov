@@ -5,14 +5,13 @@ title: 'Trends on Tuesday: What&#8217;s Currently the No. 1 Smartphone in the U.
 summary: Do you ever find yourself conducting unofficial smartphone research? Ever since my agency decided to develop a mobile app, I know I do. Luckily, new data from ComScore on the U.S. smartphone subscriber market share can help eliminate the guesswork. Here are a few of the key trends ComScore found in the U.S. smartphone industry
 authors:
   - tjohnson
-categories:
-  - Mobile
-  - Social Media
-tag:
+topics:
+  - mobile
+  - social-media
   - Facebook
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
   - Trends on Tuesday
 ---
 

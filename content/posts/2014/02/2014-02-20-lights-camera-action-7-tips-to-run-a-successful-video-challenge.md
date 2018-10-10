@@ -5,14 +5,13 @@ title: Lights, Camera, Action! 7 Tips to Run a Successful Video Challenge
 summary: 'Not sure how to craft a video challenge that will result in the creative solutions your agency is looking for? Don&#8217;t worry, we&#8217;ve got you covered. Jason Crusan from NASA and Tammi Marcoullier from Challenge.gov joined a recent DigitalGov University webinar to share best practices and hurdles in running video competitions. We&#8217;ve recapped their advice and key'
 authors:
   - ktrebon
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
+topics:
+  - challenges
+  - challenge-gov
   - challenges and prize competitions
   - DGU
   - innovation
-  - NASA
+  - nasa
   - Recaps
   - social media
 ---

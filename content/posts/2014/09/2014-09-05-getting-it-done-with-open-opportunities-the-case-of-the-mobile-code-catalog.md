@@ -6,13 +6,12 @@ summary: 'Imagine open source code, publicly available to share, that jump start
 authors:
   - jparcell
   - lnelson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DOL
-  - Mobile Code Catalog
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
+  - mobile-code-catalog
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-4
   - NPS
   - Open Opportunities program
   - open source

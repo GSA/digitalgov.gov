@@ -5,10 +5,9 @@ title: How to Create Open, Structured Content
 summary: 'Structured content refers to the concept of organizing and treating digital content like data. It’s a way of publishing content as modular, discrete pieces of information that are tagged with machine-readable descriptions. Structured content has the potential to transform how people find, understand, share, and use government information. Why Structured Content Matters Most digital content'
 authors:
   - rflagg
-categories:
-  - Content
-  - Managing Digital
-tag:
+topics:
+  - content
+  - managing-digital
   - content models
   - COPE
   - metadata

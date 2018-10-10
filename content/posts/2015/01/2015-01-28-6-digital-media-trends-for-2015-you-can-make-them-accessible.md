@@ -5,11 +5,10 @@ title: '6 Digital Media Trends for 2015: You Can Make Them Accessible!'
 summary: ' Resolutions and predictions abound this time of year. If you’ve already lost the fight to finally give up sardine ice cream, you can always resolve to maintain or improve your digital media accessibility. Some people say that accessibility and Section 508 compliance squashes'
 authors:
   - angela-hooker
-categories:
-  - Accessibility
+topics:
+  - accessibility
   - Monthly Theme
-  - UX
-tag:
+  - ux
   - accessibility
   - content strategy
   - mobile

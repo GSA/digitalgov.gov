@@ -5,10 +5,9 @@ title: Avoid Weak ‘Links’ in Your Digital Chain
 summary: 'Users don’t like surprises. Unexpected or unwanted content undermines the credibility of your agency and frustrates users who come to your website looking for specific information. Using links appropriately in your website content is one way to build trust with users, according to an article by Kara Pernice of the Nielsen Norman Group. Here’s a'
 authors:
   - awichman
-categories:
-  - Content
+topics:
+  - content
   - Monthly Theme
-tag:
   - analytics
   - DigitalGov Search
   - DigitalGov User Experience Program
@@ -21,10 +20,10 @@ tag:
   - US Environmental Protection Agency
   - US Food and Drug Administration
   - usability
-  - usability testing
-  - user experience
-  - User Experience Community of Practice
-  - UX
+  - usability-testing
+  - user-experience
+  - user-experience-community-of-practice
+  - ux
 ---
 
 {{< legacy-img src="2015/02/250-x-185-Abstract-internet-connection-concept-with-cmputer-mouse-agawa288-iStock-Thinkstock-457944729.jpg" alt="Abstract internet connection concept with computer mouse" caption="" >}} 

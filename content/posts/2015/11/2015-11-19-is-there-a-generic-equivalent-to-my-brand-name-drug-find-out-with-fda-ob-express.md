@@ -5,17 +5,16 @@ title: Is There a Generic Equivalent to My Brand Name Drug? Find out with FDA OB
 summary: 'Have you ever taken your prescription to the pharmacy, the one that you fill regularly, and the pharmacist hands you pills that have a different name and look quite different from what you regularly get? As a chemist by training, I try to curb my initial anxiety by checking out the composition. However, I have always looked'
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - FDA
   - ios
-  - mobile apps
-  - native app
-  - native apps
+  - mobile-apps
+  - native-app
+  - native-apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Food and Drug Administration
 ---
 

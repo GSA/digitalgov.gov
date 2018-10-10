@@ -5,10 +5,9 @@ title: Welcome to Mobile Gov Month on DigitalGov
 summary: ' What’s your mobile itch? A long time ago at a workshop not so far away&#8230;we asked the 40 federal government innovators who had released native apps this question. We wanted to know their biggest barriers, challenges, frustrations to building anytime, anywhere government. Their generosity in telling'
 authors:
   - jparcell
-categories:
-  - Mobile
+topics:
+  - mobile
   - Monthly Theme
-tag:
   - CDC
   - Centers for Disease Control and Prevention
   - Defense Finance and Accounting Services
@@ -17,8 +16,8 @@ tag:
   - Federal CrowdSource Mobile Testing Program
   - HHS
   - mobile
-  - Mobile UX Guideline 1
-  - native app
+  - mobile-ux-guideline-1
+  - native-app
   - open and structured content models
   - responsive web design
   - United States Department of Energy

@@ -5,21 +5,20 @@ title: 'White House: Challenges, Citizen Science Among Top Innovation Efforts of
 summary: The White House this week released a report detailing the impact of 100 initiatives that have expanded U.S. capacity in science, technology and innovation over the past eight years. Evident throughout the report is the influence of Challenge.gov and CitizenScience.gov, two open innovation programs managed by the U.S. General Services Administration (GSA). In fact, among
 authors:
   - eric-beidel
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
-tag:
   - apps challenges
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
   - GSA
   - innovation
   - US General Services Administration
-  - White House
+  - white-house
 ---
 
 The White House this week released a report detailing the impact of 100 initiatives that have expanded U.S. capacity in science, technology and innovation over the past eight years.

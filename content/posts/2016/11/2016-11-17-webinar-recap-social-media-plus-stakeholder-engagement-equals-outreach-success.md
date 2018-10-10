@@ -5,12 +5,11 @@ title: 'Webinar Recap: Social Media + External Affairs = Outreach Success'
 summary: 'Summary: How to leverage your resources to reach Spanish-dominant Hispanics online. A recent DigitalGov University (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness. Social Media Outreach Goals What does social media outreach success look like? Success is when agencies'
 authors:
   - victoria-wales
-categories:
-  - Content
-  - Social Media
+topics:
+  - content
+  - social-media
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - CDC
   - content
   - content strategy

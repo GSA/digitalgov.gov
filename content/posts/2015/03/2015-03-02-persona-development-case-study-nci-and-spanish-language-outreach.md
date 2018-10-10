@@ -5,10 +5,9 @@ title: 'Persona Development Case Study: NCI and Spanish Language Outreach'
 summary: ' Government websites need to address the needs of diverse audiences. Although translations are a first step towards engaging non-English speaking audiences, the intended audience may be alienated if information is not presented in a culturally relevant way. The'
 authors:
   - awichman
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - BLS
   - multilingual
   - National Cancer Institute
@@ -17,7 +16,7 @@ tag:
   - US Bureau of Labor Statistics
   - United States Census Bureau
   - usability starter kit
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/02/600-x-300-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-teaser-image.jpg" alt="NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf teaser image" >}}

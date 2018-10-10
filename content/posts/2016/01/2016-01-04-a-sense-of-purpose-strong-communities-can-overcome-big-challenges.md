@@ -5,12 +5,11 @@ title: 'A Sense of Purpose: Strong Communities Can Overcome Big Challenges'
 summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not the traditional public hearing-style events for which government agencies are known. But these events helped to fuel the Department of Housing and Urban Development’s (HUD) Rebuild by Design Challenge (PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged'
 authors:
   - eric-beidel
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
   - crowdsourcing
   - HUD

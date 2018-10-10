@@ -5,10 +5,9 @@ title: New Options Available to Visualize CDC Data
 summary: 'CDC’s surveillance systems track HIV, AIDS, viral hepatitis, STDs, and TB. Getting this information to those who need it most in an accessible, usable, and meaningful format is a primary goal for CDC. The launch of Atlas in 2012 made this a reality with an online resource that gave users tools to create customized tables,'
 authors:
   - aids-gov
-categories:
+topics:
   - Data
-tag:
-  - AIDS-gov
+  - aiDS-gov
   - CDC
   - Centers for Disease Control and Prevention
   - data

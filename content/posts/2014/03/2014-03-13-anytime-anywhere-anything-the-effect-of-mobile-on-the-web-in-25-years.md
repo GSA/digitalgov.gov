@@ -5,18 +5,17 @@ title: 'Anytime, Anywhere, Anything: The Effect of Mobile on the Web in 25 Years
 summary: 'In 25 years, imagine a world where anytime, anywhere, any device is just taken for granted. That’s the theme from the responses we got from our Mobile Gov Community of Practice members when we asked them to predict the effect mobile would have on the Web'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Census
   - content syndication
   - DOL
   - Internet of things
-  - Mobile Code Catalog
+  - mobile-code-catalog
   - mobile-first
   - NOAA
   - open and structured content models
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Customs and Border Protection
   - US Department of Labor
   - USDA

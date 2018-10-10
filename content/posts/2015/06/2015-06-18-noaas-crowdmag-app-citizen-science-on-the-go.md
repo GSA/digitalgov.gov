@@ -5,21 +5,20 @@ title: 'NOAA&#8217;s CrowdMag App: Citizen Science on the Go'
 summary: 'The rise in mobile device usage has created a rise in expectations: the public wants new and innovative interactions with all organizations, including government. Incorporating social media in mobile websites and native apps is one way federal agencies have increased public interaction. Six agencies have leveraged native app functionality for crowdsourcing purposes. The National Oceanic'
 authors:
   - jparcell
-categories:
+topics:
   - crowdsourcing-and-citizen-science
-  - Mobile
+  - mobile
   - Monthly Theme
   - user-testing-and-research
-tag:
   - citizen science
   - crowdsourcing
   - Federal CrowdSource Mobile Testing Program
   - gamification
   - ios
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 The rise in mobile device usage has created a rise in expectations: [the public wants new and innovative interactions]({{< link "2014-06-24-trends-on-tuesday-are-mobile-devices-the-center-of-social-universe.md" >}}) with all organizations, including government. Incorporating [social media in mobile websites and native apps]({{< link "2014-06-12-three-ways-agencies-are-using-social-media-in-mobile-products.md" >}}) is one way federal agencies have increased public interaction.

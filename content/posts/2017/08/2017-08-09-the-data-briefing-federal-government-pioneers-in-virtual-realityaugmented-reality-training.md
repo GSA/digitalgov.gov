@@ -5,17 +5,16 @@ title: 'The Data Briefing: Federal Government Pioneers in Virtual Reality/Augmen
 summary: When I was in the private sector, around the year 2000, I worked for an information technology (IT) consulting company as a project manager and developer. On one project, I provided support for early mobile devices given to medical students. I worked in a small office around the corner from the cardio-respiratory simulator (CRS). The
 authors:
   - bbrantley
-categories:
-  - Design
-  - UX
-  - Video
-tag:
-  - Audio/Video
-  - Augmented Reality
+topics:
+  - design
+  - ux
   - video
-  - Video Production Pros community
+  - audio-video
+  - augmented-reality
+  - video
+  - video-production-pros-community
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
 ---
 
 When I was in the private sector, around the year 2000, I worked for an information technology (IT) consulting company as a project manager and developer. On one project, I provided support for early mobile devices given to medical students. I worked in a small office around the corner from the cardio-respiratory simulator (CRS).

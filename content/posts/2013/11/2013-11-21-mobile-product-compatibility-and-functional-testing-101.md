@@ -5,12 +5,11 @@ title: Mobile Product Compatibility and Functional Testing 101
 summary: 'As covered in the Mobile Product Testing Guidelines article, there are various approaches to mobile testing. This article is a resource of the Federal CrowdSource Mobile Testing Program and focuses on two common test types are compatibility testing and functional testing. Compatibility Testing The Wikipedia article on compatibility testing states the &#8220;Compatibility testing, part of software'
 authors:
   - jparcell
-categories:
-  - Mobile
-  - user-testing-and-research
-tag:
+topics:
   - mobile
-  - mobile apps
+  - user-testing-and-research
+  - mobile
+  - mobile-apps
   - responsive web design
 ---
 

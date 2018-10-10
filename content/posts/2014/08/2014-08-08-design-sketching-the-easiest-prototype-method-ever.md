@@ -5,19 +5,18 @@ title: 'Design Sketching: The Easiest Prototype Method Ever'
 summary: 'When it comes to Web and software design, the pen(cil) is often mightier than the Design Suite. What I mean is: Tech is cool, but don’t fall under its spell. It’s often when you remove the technological layers between you and your thoughts that the best ideas sprout. You’ve heard of great ideas that started'
 authors:
   - jonathan-rubin
-categories:
-  - Design
-  - Mobile
-  - UX
-tag:
+topics:
+  - design
+  - mobile
+  - ux
   - DOL
   - federal user experience community
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-4
   - prototype
   - usability
-  - user experience
+  - user-experience
 ---
 
 When it comes to Web and software design, the pen(cil) is often mightier than the Design Suite. What I mean is: Tech is cool, but don’t fall under its spell. It’s often when you remove the technological layers between you and your thoughts that the best ideas sprout.

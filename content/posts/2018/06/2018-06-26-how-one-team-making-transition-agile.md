@@ -5,10 +5,10 @@ title: 'How One Team is Making the Transition to Agile'
 summary: 'A hybrid approach of waterfall and agile practices is helping the USGS make the transition to agile.'
 authors:
   - andrew-j-stauffer
-categories:
+topics:
   - managing-digital
-  - strategy-and-policy
-tag:
+  - strategy
+  - policy
   - agile
   - lean
   - methodology

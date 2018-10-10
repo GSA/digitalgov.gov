@@ -5,13 +5,12 @@ title: Checking in on the DoD Mobile Apps Gallery
 summary: ' We’re switching our style up this week in salute to our military friends across the Department of Defense. Faithful readers of DigitalGov know that each Thursday we profile an awesome app from the'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DoD
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Defense
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/04/600-x-338-Screen-capture-of-a-design-schematic-from-the-Make-It-Fly-create-your-own-Air-Force-planes-Android-app.jpg" alt="Screen capture of a design schematic from Make It Fly: create your own Air Force planes Android app." >}}

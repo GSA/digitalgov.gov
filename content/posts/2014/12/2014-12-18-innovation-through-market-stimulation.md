@@ -5,11 +5,10 @@ title: Innovation Through Market Stimulation
 summary: Crowdsourcing and prize competitions can take many forms, which makes them a great open innovation tool. A large group of federal agencies and other partners has launched a competition that also involves a secondary crowdsourcing element. The Nutrient Sensor Challenge is a market stimulation prize competition to accelerate
 authors:
   - dustin-renwick
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
   - challenges and prize competitions
   - crowdsourcing
   - EPA

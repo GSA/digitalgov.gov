@@ -5,10 +5,9 @@ title: '2016/2017 Mobile Analysis: Mobile Device Trends on Government Websites'
 summary: 'We’d like to thank each agency and sub-agency for their partnership and participation in the Digital Analytics Program (DAP). The data below represents a view from over 4,500+ executive branch websites and the analysis we conducted wouldn’t be possible without you. Since the introduction of the iPhone a decade ago, smartphone and tablet usage has'
 authors:
   - freddie-blicher
-categories:
-  - Metrics
-  - Mobile
-tag:
+topics:
+  - metrics
+  - mobile
   - analytics
   - DAP
   - metrics

@@ -5,12 +5,11 @@ title: Embracing Responsive Design
 summary: There has been a shift in consumer behavior during the last few years, a move toward immediacy and convenience, and with the responsive redesign of USA.gov and GobiernoUSA.gov, consumers can now have access to the same information and services when they need them, and
 authors:
   - lgodfrey
-categories:
-  - Code
-  - Content
-  - Design
-  - Mobile
-tag:
+topics:
+  - code
+  - content
+  - design
+  - mobile
   - accessibility
   - GobiernoUSAgov
   - mobile

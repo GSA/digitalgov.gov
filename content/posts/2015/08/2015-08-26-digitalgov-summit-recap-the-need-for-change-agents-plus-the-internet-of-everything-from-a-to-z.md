@@ -5,9 +5,8 @@ title: 'DigitalGov Summit Recap: The Need for Change Agents, plus the Internet o
 summary: ' The Internet of Things is already here. How will we prepare for the Internet of Everything? David Bray, Chief Information Officer at the Federal Communications'
 authors:
   - awichman
-categories:
+topics:
   - Our Work
-tag:
   - DigitalGov Summit
   - FCC
   - Federal Communications Commission

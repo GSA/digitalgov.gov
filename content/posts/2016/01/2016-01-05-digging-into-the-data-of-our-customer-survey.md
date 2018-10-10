@@ -5,17 +5,16 @@ title: Digging Into the Data of Our Customer Survey
 summary: 'As a followup to the recent post about our annual customer satisfaction survey, we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services. Background: For the past three years, GSA’s Office of Citizen'
 authors:
   - rflagg
-categories:
+topics:
   - Our Work
-tag:
   - challenges and prize competitions
-  - Customer Experience
-  - DigitalGov University
+  - customer-experience
+  - digitalgov-university
   - eCPIC
-  - mobile gov
+  - mobile-gov
   - Open Opportunities program
   - SocialGov
-  - user experience
+  - user-experience
   - Web Content Managers Forum
 ---
 

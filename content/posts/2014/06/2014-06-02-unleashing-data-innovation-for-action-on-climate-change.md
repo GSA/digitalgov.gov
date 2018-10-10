@@ -5,11 +5,10 @@ title: Unleashing Data Innovation for Action on Climate Change
 summary: Last June, President Obama launched a Climate Action Plan to cut carbon pollution, prepare communities for the impacts of climate change, and lead international efforts to address this global challenge. The plan recognizes that even as we act to curb the carbon pollution that is driving climate change,
 authors:
   - curt-tilmes
-categories:
+topics:
   - Data
-tag:
-  - data.gov
-  - NASA
+  - data-gov
+  - nasa
   - open data
 ---
 

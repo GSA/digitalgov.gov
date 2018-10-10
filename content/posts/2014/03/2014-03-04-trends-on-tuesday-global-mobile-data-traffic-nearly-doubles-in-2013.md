@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: Global Mobile Data Traffic Nearly Doubles in 2013'
 summary: 'Global mobile data traffic almost doubled in 2013 according to Cisco’s recent Traffic Forecast Update. There are a number of other mobile data traffic trends in the report, but here are five trends we wanted to highlight today: Global mobile data traffic grew 81 percent in 2013. Global mobile data traffic reached 1.5 exabytes per'
 authors:
   - jparcell
-categories:
-  - Managing Digital
-  - Mobile
-tag:
+topics:
+  - managing-digital
+  - mobile
   - mobile
   - Trends on Tuesday
 ---

@@ -5,15 +5,14 @@ title: 'Voices of Veterans: Introducing Personas to Better Understand Our Custom
 summary: Understanding our Veterans and their unique needs and experiences is at the heart of creating a more Veteran-centered VA. By listening to their voices and the stories they share, we can design services and experiences that meet the needs of Veterans. Taking a step towards a deeper understanding of our Veterans, in the fall of
 authors:
   - va-center-for-innovation
-categories:
-  - UX
-tag:
-  - Customer Experience
+topics:
+  - ux
+  - customer-experience
   - customer service
   - CX
   - Personas
   - user centered design
-  - user experience
+  - user-experience
   - VA
   - VA Center for Innovation
   - VACI

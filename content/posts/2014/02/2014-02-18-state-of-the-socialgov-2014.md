@@ -5,11 +5,10 @@ title: 'State of the #SocialGov 2014'
 summary: 'If the silos and barriers that separated our programs are smashed, what could we do to realize the full potential of innovation in public service? Whether you’re a citizen who needs better access to services, an entrepreneur looking to spark innovation in the marketplace, or a public servant who wants to get your mission done'
 authors:
   - jherman
-categories:
-  - Managing Digital
-  - Social Media
-tag:
-  - American Red Cross
+topics:
+  - managing-digital
+  - social-media
+  - american-red-cross
   - DGU
   - Peace Corps
   - Recaps

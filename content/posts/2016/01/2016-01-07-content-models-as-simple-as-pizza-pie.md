@@ -5,9 +5,8 @@ title: 'Content Models: As Simple as Pizza Pie!'
 summary: 'Open and structured content models assist in the dissemination of information to various devices and media types. In the age of smartphones, tablets, social media tools, syndication and websites, the need for modular content is growing. How can you make your content adaptive to all of these mediums? Open and structured content models can help you create'
 authors:
   - christen-geiler
-categories:
-  - Content
-tag:
+topics:
+  - content
   - CDC
   - Centers for Disease Control and Prevention
   - content models

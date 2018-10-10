@@ -5,17 +5,16 @@ title: Competitions Launch Start-ups and Engage Entrepreneurs
 summary: ' When people hear about challenge competitions, they most often ask about the results. What worked and why did it work? Two great examples are featured on the White House Office of Science and Technology Policy site, which include the &#8220;needle in the haystack&#8221; solvers for a space mass competition and eleven'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Communities
-tag:
+topics:
+  - challenges
+  - communities
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - crowdsourcing
   - National Institutes of Health
   - NIH
   - OSTP
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/04/600-x-337-Curiosity\_Approaching\_Mars\_Artists\_Concept-NASA-public-domain.jpg" alt="600-x-337-Curiosity\_Approaching\_Mars,\_Artists\_Concept-NASA-public-domain" >}}

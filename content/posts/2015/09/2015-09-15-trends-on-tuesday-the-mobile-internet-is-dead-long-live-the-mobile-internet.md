@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: The Mobile Internet is Dead. Long Live the Mobile Int
 summary: Benedict Evans, a leading mobile analyst with the Silicon Valley venture capital firm Andreessen Horowitz, published a provocative post last week about the death of the mobile Internet. He details the history of the mobile Web and posits that the mobile Internet is the Internet now. The desktop version of the Internet audience is smaller
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - mobile-friendly
   - Trends on Tuesday

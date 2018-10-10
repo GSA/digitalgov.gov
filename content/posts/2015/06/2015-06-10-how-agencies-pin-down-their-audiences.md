@@ -5,15 +5,14 @@ title: How Agencies “Pin” Down Their Audiences
 summary: 'While Facebook and Twitter are the most popular social media platforms (according to some rankings), your agency can and should evaluate the benefits of platforms like Pinterest, which have seen major growth in users and activity. In the last six months of 2014, Pinterest increased its membership by 57%, while Facebook and Twitter only grew by'
 authors:
   - edgardo-morales
-categories:
+topics:
   - Monthly Theme
-  - Social Media
-tag:
+  - social-media
   - CDC
   - Centers for Disease Control and Prevention
   - content strategy
   - GSA
-  - NASA
+  - nasa
   - National Institutes of Health
   - NIH
   - social media

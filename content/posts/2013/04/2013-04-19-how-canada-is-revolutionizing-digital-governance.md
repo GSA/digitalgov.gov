@@ -5,10 +5,9 @@ title: How Canada is Revolutionizing Digital Governance
 summary: The Canadian government is changing how we think of traditional Web management. They built a platform of standards-compliant (HTML5, WCAG and WAI-ARIA), accessible and secure components that its agencies (and even provincial and municipalities) can use to build and maintain their sites. They are also focused
 authors:
   - rflagg
-categories:
-  - Code
-  - Content
-tag:
+topics:
+  - code
+  - content
   - GitHub
 ---
 

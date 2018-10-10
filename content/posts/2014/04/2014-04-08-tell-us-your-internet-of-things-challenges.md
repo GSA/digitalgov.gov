@@ -5,11 +5,10 @@ title: Tell Us Your Internet of Things Challenges
 summary: The Internet of Things, a concept approaching reality, is best described as objects (think appliance, trees, etc.) in the world equipped with identifying devices or machine-readable identifiers that make them connected to the Web. This handy infographic charts the history and development of the idea and perhaps this washing machine could be a roadmap to
 authors:
   - jparcell
-categories:
-  - Managing Digital
-  - Mobile
-  - Social Media
-tag:
+topics:
+  - managing-digital
+  - mobile
+  - social-media
   - Federal Trade Commission
   - Internet of things
 ---

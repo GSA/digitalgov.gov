@@ -5,9 +5,8 @@ title: comScore Report, October 2012
 summary: 'In October 2012, comScore, a Web analytics research company, released an independently produced report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors. The report was provided to GSA as part of GSA’s contract with comScore to collect analytics on federal websites. This report focuses on consumer impressions of public websites. comScore'
 authors:
   - marina-fox
-categories:
-  - Metrics
-tag:
+topics:
+  - metrics
   - customer satisfaction
   - Digital Analytics Program
 ---

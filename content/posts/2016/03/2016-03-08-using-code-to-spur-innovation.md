@@ -5,11 +5,10 @@ title: Using Code to Spur Innovation
 summary: 'This week, President Obama will travel to SxSW (South by Southwest) to talk about how we can use technology to tackle tough challenges. This underscores how important data&mdash;government data, in particular&mdash;is to improving and fueling our democracy forward. 2015 saw many open data milestones by agencies, including: New advancements in HHS’s syndication storefront New features'
 authors:
   - andreanocesigritz
-categories:
-  - Code
+topics:
+  - code
   - Monthly Theme
-tag:
-  - analytics.usa.gov
+  - analytics-usa-gov
   - CFPB
   - data
   - Education
@@ -17,7 +16,7 @@ tag:
   - Federal Election Commission
   - HHS
   - MCC
-  - NASA
+  - nasa
   - open data
   - US Department of Education
   - US Department of Labor

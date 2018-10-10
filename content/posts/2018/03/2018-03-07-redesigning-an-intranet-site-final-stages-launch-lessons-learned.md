@@ -5,16 +5,16 @@ title: 'Redesigning an Intranet Site&#58; Final Stages, Launch, and Lessons Lear
 summary: 'Helpful lessons from the National Center for Complementary and Integrative Health (NCCIH) on the redesign of an intranet.'
 authors:
   - karla-blaine
-categories:
+topics:
   - accessibility
   - content
   - data
   - design
   - managing-digital
-  - strategy-and-policy
+  - strategy
+  - policy
   - user-testing-and-research
   - ux
-tag:
   - content
   - content-strategy
   - customer-experience

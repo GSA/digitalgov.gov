@@ -5,10 +5,9 @@ title: 'Federal Student Aid Customer Experience Journey: A Recap'
 summary: ' Customer Experience (CX) deserves a voice at an agency’s senior levels. Putting CX'
 authors:
   - zachary-lerner
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
+topics:
+  - managing-digital
+  - customer-experience
   - customer satisfaction
   - customer service
   - Federal Student Aid

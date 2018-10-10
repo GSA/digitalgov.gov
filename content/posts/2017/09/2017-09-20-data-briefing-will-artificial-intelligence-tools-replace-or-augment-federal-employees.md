@@ -5,10 +5,9 @@ title: 'The Data Briefing&#58; Will Artificial Intelligence Tools Replace or Aug
 summary: 'A Washington, D.C. think tank recently released reports advocating using artificial intelligence (AI) tools to reorganize the federal government.'
 authors:
   - bbrantley
-categories:
+topics:
   - data
   - managing-digital
-tag:
   - ai
   - artificial-intelligence
   - human-resources

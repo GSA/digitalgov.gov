@@ -5,9 +5,8 @@ title: Agency Digital Strategy Pages
 summary: 'In his May 23rd, 2012 Presidential Memorandum, President Obama directed Executive Departments and Agencies to: Implement the requirements of the Digital Government Strategy, and Create a page at www.[agency].gov/digitalstrategy to publicly report progress of this implementation. Consistent with Milestone Actions #2.1 (open data) and #7.1 (mobile optimization), agencies will post candidate data sets and services to'
 authors:
   - apiazza
-categories:
-  - Managing Digital
-tag:
+topics:
+  - managing-digital
   - Department of Commerce
   - DHS
   - DoD
@@ -23,7 +22,7 @@ tag:
   - HHS
   - HUD
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - national science foundation
   - NRC

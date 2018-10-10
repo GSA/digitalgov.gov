@@ -5,10 +5,10 @@ title: Thunderclap Now Available for Government-Wide Adoption
 summary: Thunderclap is the latest social media and crowd-sourcing platform available to federal agencies to better engage with the public, with a newly negotiated government-compatible Terms of Service (TOS) agreement. GSA collaborated with Thunderclap to negotiate the amended terms, which brings the total number of tools with federal-compatible agreements to 66.
 authors:
   - bsteele
-categories:
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
+  - social-media
+  - strategy
+  - policy
   - social media
   - Terms of Service
 ---

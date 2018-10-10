@@ -7,11 +7,11 @@ authors:
   - john-grill
   - matt-gieseke
   - kelley-smith
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - content
+  - managing-digital
+  - strategy
+  - policy
   - content
   - content strategy
   - innovation

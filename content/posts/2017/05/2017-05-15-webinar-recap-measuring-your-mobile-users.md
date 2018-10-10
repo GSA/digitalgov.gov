@@ -5,10 +5,9 @@ title: 'Webinar Recap: Measuring Your Mobile Users'
 summary: 'The Digital Analytics Program (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, &ldquo;Policies for Federal Agency Public Websites and Digital Services,&rdquo; which requires federal websites to incorporate the DAP’s JavaScript code for website analytics. The DAP Learning Series: Measuring Your'
 authors:
   - lisa-bari
-categories:
-  - Metrics
-  - Mobile
-tag:
+topics:
+  - metrics
+  - mobile
   - analytics
   - best practices
   - DAP

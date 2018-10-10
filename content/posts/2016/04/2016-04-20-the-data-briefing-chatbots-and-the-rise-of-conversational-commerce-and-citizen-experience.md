@@ -5,25 +5,24 @@ title: 'The Data Briefing: Chatbots and the Rise of Conversational Commerce and 
 summary: 'Ten months ago, I wrote about the rise of the post-app world in which mobile personal assistants would do the work of five to 10 apps combined. These mobile personal assistants, now known as chatbots, would work through conversational interfaces (voice and instant messaging, for example). The idea is to build more natural interfaces for people'
 authors:
   - bbrantley
-categories:
-  - API
+topics:
+  - api
   - Data
-tag:
-  - API
-  - Augmented Reality
+  - api
+  - augmented-reality
   - chatbots
-  - Customer Experience
+  - customer-experience
   - customer service
   - CX
   - data
   - Internet of things
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
-  - user experience
+  - user-experience
   - USPTO
-  - UX
+  - ux
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
 ---
 
 Ten months ago, I wrote about the <a href="{{< link "2015-06-24-the-api-briefing-government-apis-in-a-post-apps-world.md" >}}" target="_blank">rise of the post-app world</a> in which mobile personal assistants would do the work of five to 10 apps combined. These mobile personal assistants, now known as chatbots, would work through conversational interfaces (voice and instant messaging, for example). The idea is to build more natural interfaces for people to access information services and perform complicated online tasks. {{< legacy-img src="2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="" >}} 

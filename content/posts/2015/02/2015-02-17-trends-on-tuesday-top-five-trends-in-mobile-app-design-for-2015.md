@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: Top Five Trends in Mobile App Design for 2015'
 summary: 'Mobile user habits are a moving target, and designers have to adjust accordingly. Creative Bloq offers their Top 5 Trends in App Design for 2015 gathered from trends in changing hardware, increasing popularity of apps and the increasingly personal nature of mobile devices. Bigger Screen Sizes. As we noted in last week’s Trends on Tuesday'
 authors:
   - jparcell
-categories:
-  - Design
-  - Mobile
-tag:
+topics:
+  - design
+  - mobile
   - customer service
   - Internet of things
-  - mobile apps
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
+  - mobile-apps
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-3
   - Trends on Tuesday
 ---
 

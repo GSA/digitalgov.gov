@@ -5,12 +5,11 @@ title: 'The Data Briefing: Improving the Federal Government Through Mobile Apps'
 summary: 'Federal agencies are doing well in fulfilling the 2012 Digital Government Strategy by providing numerous mobile apps for American citizens. According to a report from IBM’s Center for the Business of Government, 76 federal agencies have at least one mobile app. As of July 2015, there are nearly 300 federal government mobile apps that provide'
 authors:
   - bbrantley
-categories:
-  - Code
-tag:
-  - mobile apps
-  - NASA
-  - The Data Briefing
+topics:
+  - code
+  - mobile-apps
+  - nasa
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---

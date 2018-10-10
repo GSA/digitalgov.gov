@@ -5,11 +5,10 @@ title: Open for Innovation in DigitalGov!
 summary: 'There’s tons of great work and innovations happening in federal agencies, and it is happening fast. From mobile, to social, to user experience, to APIs, to data and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and'
 authors:
   - gwynne-kostin
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Our Work
-tag:
-  - Customer Experience
+  - customer-experience
   - innovation
 ---
 

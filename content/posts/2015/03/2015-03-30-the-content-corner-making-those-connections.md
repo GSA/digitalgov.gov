@@ -5,10 +5,9 @@ title: 'The Content Corner: Making Those Connections'
 summary: ' A (possibly infamous) blog post from last Friday and the discussion/debate that followed reminded me of several important points that we all may lose'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
   - content strategy
   - infographic
   - social media

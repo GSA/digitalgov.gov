@@ -6,16 +6,15 @@ summary: 'A website redesign is never an easy task, but when responsiveness is o
 authors:
   - ellen-arnold-losey
   - debra-harris
-categories:
-  - Mobile
+topics:
+  - mobile
   - Monthly Theme
-tag:
   - analytics
   - Defense Finance and Accounting Services
   - DFAS
   - DOE
   - mobile
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - Recaps
   - responsive web design
   - United States Department of Energy

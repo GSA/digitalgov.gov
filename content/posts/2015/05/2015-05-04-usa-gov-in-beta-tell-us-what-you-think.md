@@ -5,11 +5,10 @@ title: 'USA.gov in Beta: Tell Us What You Think'
 summary: ' Thirteen years in digital is an eon, and on the eve of its 13th birthday, we at USA.gov found ourselves reckoning with a mid-life crisis. In the thirteen years since Firstgov.gov was launched (and ten years for FirstGov en Espa&ntilde;ol), the sheer volume and sophistication'
 authors:
   - sarah-crane
-categories:
-  - Content
-  - Managing Digital
-tag:
-  - API
+topics:
+  - content
+  - managing-digital
+  - api
   - DAP
   - Digital Analytics Program
   - drupal

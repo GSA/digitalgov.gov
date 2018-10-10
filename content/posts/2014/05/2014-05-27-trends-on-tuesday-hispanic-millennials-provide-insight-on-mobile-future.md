@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future
 summary: 'If you’re a frequent Trends on Tuesday reader, you may recall our post titled, &ldquo;Latinos Embrace the Mobile Future,&rdquo; which outlined several key categories where Latinos have adopted mobile technology faster than other groups. A new report by Univision and the Interactive Advertising Bureau, took an in-depth look at the mobile habits of Hispanic millennials,'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - GobiernoUSAgov
-  - Mobile UX Guideline 5
+  - mobile-ux-guideline-5
   - mobile-first
   - multilingual
   - social media

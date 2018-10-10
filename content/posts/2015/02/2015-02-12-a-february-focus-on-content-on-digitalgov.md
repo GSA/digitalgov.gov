@@ -5,11 +5,10 @@ title: A February Focus on Content on DigitalGov
 summary: 'Good content drives your digital presence. No matter what you produce content for&mdash;social media, websites, blogs&mdash;getting people to see your work is critical. But getting noticed is not as easy as it used to be. A recent Vox article on the future of blogging talked about this problem: &ldquo;The incentives of the social Web make'
 authors:
   - andreanocesigritz
-categories:
-  - Content
+topics:
+  - content
   - Monthly Theme
-tag:
-  - Administrative Office of the United States Courts
+  - administrative-office-of-the-united-states-courts
   - content strategy
   - Office of the U.S. Foreign Assistance Resources
   - The Content Corner

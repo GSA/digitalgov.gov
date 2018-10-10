@@ -5,14 +5,13 @@ title: 'At Last: User Experience Performance Descriptions!'
 summary: ' To improve your digital systems with user experience (UX), you need people. And to get people in government, you need position descriptions. While DigitalGov has collected a wide variety of position descriptions,'
 authors:
   - jonathan-rubin
-categories:
-  - Design
+topics:
+  - design
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - usability
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/03/502-x-478-UX-RolesV2.jpg" alt="A Venn diagram based on Dan Saffer’s “Disciplines of User Experience, 2009,” shows the overlapping disciplines in User Experience." >}}

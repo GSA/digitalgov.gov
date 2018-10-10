@@ -5,11 +5,10 @@ title: 'The Data Briefing: Why and How to Attend Your First Hackathon'
 summary: 'December 9, 2016, will be the 110th anniversary of Admiral Grace Hopper’s birthday. Admiral Hopper was a pioneer in computer programming who created the first compiler and whose ideas lead to the creation of COBOL. An apocryphal legend also credits Admiral Hopper with coining the terms &ldquo;bug&rdquo; and &ldquo;debugging.&rdquo; The GSA’s IT Digital Service Team'
 authors:
   - bbrantley
-categories:
-  - Code
+topics:
+  - code
   - Data
-  - Design
-tag:
+  - design
   - code
   - hackathon
 ---

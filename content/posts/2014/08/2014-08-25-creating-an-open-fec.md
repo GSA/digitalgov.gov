@@ -9,10 +9,9 @@ authors:
   - noah-manger
   - victor-diaz-zapanta
   - amos-stone
-categories:
+topics:
   - Data
-tag:
-  - 18F
+  - 18f
   - FEC
   - Federal Election Commission
   - open data

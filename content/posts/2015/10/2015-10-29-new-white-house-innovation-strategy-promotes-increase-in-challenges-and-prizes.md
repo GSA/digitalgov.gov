@@ -5,17 +5,16 @@ title: New White House Innovation Strategy Promotes Increase in Challenges and P
 summary: ' The White House released an updated Strategy for American Innovation last week, calling again on government to tap the American public’s brain trust'
 authors:
   - kelly-olson
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - FCPCCS
   - Open Opportunities program
   - OSTP
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/10/600-x-408-Investing-in-the-Building-Blocks-of-Innovation-chart-A-STRATEGY-FOR-AMERICAN-INNOVATION-Oct-2015.jpg" alt="Investing in the Building Blocks of Innovation chart from A Strategy For American Innovation by the National Economic Council and Office of Science and Technology Policy, October 2015" >}}

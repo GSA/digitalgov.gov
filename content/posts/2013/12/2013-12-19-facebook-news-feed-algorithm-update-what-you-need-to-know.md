@@ -5,9 +5,8 @@ title: 'Facebook News Feed Algorithm Update: What You Need to Know'
 summary: 'Facebook announced they are refining their algorithm this week to better identify and promote quality news content. This can and will affect your strategic performance, but what exactly makes &ldquo;quality&rdquo; content and how can your agency ensure they are on the winning side of this adjustment? We talked with Facebook about the changes, and the bottom'
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - Facebook
 ---
 

@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Mobile, It&#8217;s Where You&#8217;ll Find Millennial
 summary: ' It’s no secret, if you want to reach Millennials, mobile is a great way to connect. This generation of tech-natives is adept at accessing large amounts of information held in the palms of their hands. However, their information overload also poses a challenge for agencies'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

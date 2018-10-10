@@ -5,17 +5,16 @@ title: Federally Funded Research Results Are Becoming More Open and Accessible
 summary: 'Summary: Significant strides in improving public access to scholarly publications and digital data help usher in an era of open science. This week marks the 8th annual Open Access Week, when individuals and organizations around the world celebrate the value of opening up online access to the results of scholarly research. It is an opportune'
 authors:
   - jerry-sheehan
-categories:
+topics:
   - Data
-  - Managing Digital
-tag:
+  - managing-digital
   - content
   - data
   - DoD
   - DOT
   - Education
   - EPA
-  - NASA
+  - nasa
   - National Aeronautics and Space Administration
   - National Institutes of Health
   - National Library of Medicine

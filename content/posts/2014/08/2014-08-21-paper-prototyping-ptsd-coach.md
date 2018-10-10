@@ -5,15 +5,14 @@ title: Paper Prototyping PTSD Coach
 summary: The PTSD Coach mobile app from the Department of Veterans Affairs, provides veterans and users with information about PTSD and professional care, along with self-assessment tools and aid in finding support opportunities. The app has been downloaded over 100,000 times in 74
 authors:
   - katie-steffy
-categories:
-  - Design
-  - Mobile
-tag:
-  - mobile apps
-  - Mobile UX Guideline 4
+topics:
+  - design
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-4
   - prototype
   - Recaps
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Veterans Affairs
   - VA
 ---

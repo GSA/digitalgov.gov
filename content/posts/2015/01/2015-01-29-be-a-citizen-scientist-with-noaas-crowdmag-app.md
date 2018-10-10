@@ -5,14 +5,13 @@ title: 'Be a Citizen Scientist with NOAA&#8217;s CrowdMag App'
 summary: 'Help the National Oceanic and Atmospheric Administration (NOAA) improve the accuracy of magnetic navigation by tracking changes in the Earth’s magnetic field.'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Federal Mobile Products Registry
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 [{{< legacy-img src="2015/01/600-x-316-Crowd-Mag-app-map-via-web.jpg" alt="A screnn shot of a map that shows data collected from phones around the world. Displayed are the Crowdsourced magnetic data within a tolerance level of prediction by World Magnetic Model. They have added some uncertainty to each data point shown to ensure the privacy of contributors. The F channel represents Total Strength, H channel represents Horizontal Component, and Z channel represents Vertical Component. Click this image to view the live map, which is updated every hour." >}}](http://maps.ngdc.noaa.gov/viewers/crowdmag/)

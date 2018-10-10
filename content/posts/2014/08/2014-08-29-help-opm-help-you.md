@@ -6,11 +6,10 @@ summary: 'Here at the U.S. Office of Personnel Management, we recently announced
 authors:
   - jennifer-dorsey
   - mark-anthony
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - OPM
-  - SocialGov Community
+  - socialgov-community
   - United States Office of Personnel Management
 ---
 

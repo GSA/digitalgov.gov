@@ -5,18 +5,17 @@ title: Making Federal Employment Accessible thru DOD’s CAP App
 summary: '&ldquo;My Disability is One Part of Who I Am&rdquo; was the theme of the 70th National Disability Employment Awareness Month this past October. We celebrated the many contributions of our friends and co-workers with disabilities and recognized the diverse skills and talents they bring to our workplace. However, the real question is: how do we create a'
 authors:
   - nramprasad
-categories:
-  - Accessibility
-  - Mobile
-tag:
+topics:
+  - accessibility
+  - mobile
   - accessibility
   - DoD
   - mobile
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Defense
 ---
 

@@ -5,48 +5,48 @@ title: 'DigitalGov University in Review: 2016 Training Trends'
 summary: 'DigitalGov University (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.'
 authors:
   - jthalls
-categories:
-  - Accessibility
-  - API
-  - Challenges
-  - Communities
-  - Content
-  - Data
-  - Design
-  - Governance
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Our Work
-  - Social Media
-  - strategy-and-policy
-  - user-testing-and-research
-  - UX
-tag:
-  - 18F
-  - AI
-  - analytics
-  - API
-  - artificial intelligence
-  - Artificial Intelligence for Citizen Services Community
-  - Challenges and Prizes Community of Practice
-  - chatbots
-  - cloud
-  - cloud.gov
+topics:
+  - accessibility
+  - api
+  - challenges
   - communities
   - content
-  - Customer Experience
-  - Customer Experience Community of Practice
+  - Data
+  - design
+  - Governance
+  - managing-digital
+  - metrics
+  - mobile
+  - Our Work
+  - social-media
+  - strategy
+  - policy
+  - user-testing-and-research
+  - ux
+  - 18f
+  - ai
+  - analytics
+  - api
+  - artificial intelligence
+  - artificial-intelligence-for-citizen-services-community
+  - challenges-and-prizes-community-of-practice
+  - chatbots
+  - cloud
+  - cloud-gov
+  - communities
+  - content
+  - customer-experience
+  - customer-experience-community-of-practice
   - CX
   - DAP
   - DGU
   - Digital Analytics Program
-  - DigitalGov University
+  - digitalgov-university
   - FedRAMP
   - GSA
   - metrics
-  - MobileGov
-  - NASA
+  - mobile-gov
+  - nasa
   - National Aeronautics and Space Administration
   - OCSIT
   - Office of Citizen Services and Innovative Technology
@@ -55,13 +55,13 @@ tag:
   - Open Opportunities program
   - OPP
   - social media
-  - SocialGov Community
+  - socialgov-community
   - Technology Transformation Service
   - training
   - TTS
   - US General Services Administration
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
   - webinar
 ---
 

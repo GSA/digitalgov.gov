@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: Facebook and Google Products Dominate App Usage'
 summary: 'Comscore released new data this month about trends in the smartphone space. The data showed that the Android platform grew in market percentage (when combining all Android manufacturers). Android overall grew 1% from September to December at the cost of Apple and Blackberry, which dropped 0.7% and 0.3%, respectively, in smartphone market share. Comscore’s data on the most'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - native app
-  - native apps
+  - mobile
+  - native-app
+  - native-apps
   - responsive web design
   - Trends on Tuesday
 ---

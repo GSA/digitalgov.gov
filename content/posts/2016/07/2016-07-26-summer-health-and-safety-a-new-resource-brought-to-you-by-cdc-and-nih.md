@@ -5,11 +5,10 @@ title: 'Summer Health and Safety: A New Resource Brought to You by CDC and NIH'
 summary: 'We have previously written about microsites in the federal government. A microsite is a small collection of web pages&mdash;a subset of an organization’s full website. Partners can embed microsites that present curated information on a specific topic or campaign directly within their own websites. And perhaps best of all, microsites that are API-enabled are maintained and updated'
 authors:
   - christen-geiler
-categories:
-  - Content
-  - Managing Digital
-  - UX
-tag:
+topics:
+  - content
+  - managing-digital
+  - ux
   - CDC
   - Centers for Disease Control and Prevention
   - content

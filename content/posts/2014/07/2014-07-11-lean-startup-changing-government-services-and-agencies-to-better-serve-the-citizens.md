@@ -5,10 +5,10 @@ title: 'Lean Startup: Changing Government Services and Agencies to Better Serve 
 summary: It is easy to start a business today and especially an Internet-based business. Using the cloud, APIs, and hosted applications, an entrepreneur can quickly build a website/mobile app. The entrepreneur can hire freelancers to do everything from creating a logo to writing a business plan. Virtual assistant services can provide on-demand staff to meet business
 authors:
   - bbrantley
-categories:
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - strategy
+  - policy
+  - 18f
   - CFPB
   - Consumer Financial Protection Bureau
   - FDA

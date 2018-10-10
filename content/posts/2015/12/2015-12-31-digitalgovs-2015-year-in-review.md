@@ -5,14 +5,13 @@ title: 'DigitalGov&#8217;s 2015 Year in Review'
 summary: 'As we look ahead to 2016, we wanted to take a minute to look at our most popular content in 2015 and reflect on our second year. This was a big year for DigitalGov as we saw our session traffic nearly double and our weekly and daily email subscribers increase by 15%. DigitalGov was also'
 authors:
   - andreanocesigritz
-categories:
+topics:
   - Our Work
-tag:
   - accessibility
   - security
   - social media
   - Terms of Service
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/12/250-x-375-New-Year-2016-Pogonici-iStock-Thinkstock-488570622.jpg" alt="A 2016 New Year concept: an hourglass with sands of 2015 flowing into the bottom chamber for 2016." caption="" >}} 

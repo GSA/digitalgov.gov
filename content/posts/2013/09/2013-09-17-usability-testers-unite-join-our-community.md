@@ -5,12 +5,11 @@ title: Usability testers unite! Join our Community
 summary: 'I’m the kind of guy who loves tests. Not SATs, or BMI tests, but usability tests: connecting target customers with a government website and watching how they interact with it. Our DigitalGov User Experience Program (formerly known as First Fridays) has taught dozens of agencies how to conduct'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - user-testing-and-research
-tag:
   - DigitalGov User Experience Program
   - GSA
-  - UX
+  - ux
 ---
 
 <p dir="ltr">

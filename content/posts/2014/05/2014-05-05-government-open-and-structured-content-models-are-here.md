@@ -5,17 +5,16 @@ title: Government Open and Structured Content Models Are Here!
 summary: 'Smartphones, tablets, Twitter, Facebook, Instagram, not to mention your agency&#8217;s desktop website, are all clamoring for information, but sliced and diced in different ways. How can you make your content adaptive for efficient delivery to all of these mediums? Structured content and open content models can help you create content that'
 authors:
   - structured-and-open-content-models-working-group
-categories:
-  - Code
-  - Communities
-  - Content
-  - Managing Digital
-  - Mobile
+topics:
+  - code
+  - communities
+  - content
+  - managing-digital
+  - mobile
   - Monthly Theme
   - Our Work
-  - Social Media
-tag:
-  - Administrative Office of the United States Courts
+  - social-media
+  - administrative-office-of-the-united-states-courts
   - AoI
   - CDC
   - Census
@@ -26,7 +25,7 @@ tag:
   - FDA
   - GitHub
   - GSA
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - National Institutes of Health
   - NIH
   - open and structured content models

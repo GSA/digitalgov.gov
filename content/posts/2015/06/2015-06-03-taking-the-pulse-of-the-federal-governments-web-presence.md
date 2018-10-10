@@ -8,11 +8,10 @@ authors:
   - julia-elman
   - gray-brooks
   - john-tindel
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Our Work
-tag:
-  - 18F
+  - 18f
   - analytics
   - Digital Analytics Program
   - GSA

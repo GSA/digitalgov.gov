@@ -5,11 +5,11 @@ title: DHS Study on Mobile Device Security
 summary: 'The Department of Homeland Security (DHS) has submitted a report to Congress that details current and emerging threats to the Federal government’s use of mobile devices and recommends security improvements to the mobile device ecosystem. The DHS Science and Technology Directorate (S&T) led the study in coordination with the National Institute of Standards and Technology'
 authors:
   - department-of-homeland-security
-categories:
-  - Managing Digital
-  - Mobile
-  - strategy-and-policy
-tag:
+topics:
+  - managing-digital
+  - mobile
+  - strategy
+  - policy
   - DHS
   - mobile
   - National Institute of Standards and Technology

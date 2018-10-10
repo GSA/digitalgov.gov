@@ -5,23 +5,22 @@ title: 'The Data Briefing: An Interview with USAJOBS on New Changes to Their Dat
 summary: The Office of Personnel Management released a new look and functionality to USAJOBS in February. I recently contacted Michelle Earley, the USAJOBS Program Manager, to ask about the changes to USAJOBS and the data it provides. 1. What are
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Monthly Theme
-tag:
   - agile
-  - API
+  - api
   - data
   - data visualization
   - OPM
   - responsive web design
-  - The Data Briefing
+  - the-data-briefing
   - United States Office of Personnel Management
   - United States Patent and Trademark Office
   - user centered design
-  - user experience
+  - user-experience
   - USPTO
-  - UX
+  - ux
 ---
 
 The Office of Personnel Management released a new look and functionality to [USAJOBS](https://www.usajobs.gov/) in February. I recently contacted Michelle Earley, the USAJOBS Program Manager, to ask about the [changes to USAJOBS](https://www.usajobs.gov/ResourceCenter/SpotlightDetails/?contentID=1137) and the data it provides.

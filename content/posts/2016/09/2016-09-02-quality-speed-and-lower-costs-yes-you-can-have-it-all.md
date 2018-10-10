@@ -6,14 +6,14 @@ summary: 'This is post 2 in the 5-part series The Right Tools for the Job: Re-Ho
 authors:
   - nick-marden
   - dmccleskey
-categories:
-  - Code
+topics:
+  - code
   - Data
-  - Managing Digital
+  - managing-digital
   - Monthly Theme
   - Our Work
-  - strategy-and-policy
-tag:
+  - strategy
+  - policy
   - DigitalGov Search
   - infrastructure
 ---

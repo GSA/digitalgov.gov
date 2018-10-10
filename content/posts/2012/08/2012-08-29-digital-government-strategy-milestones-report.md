@@ -5,10 +5,9 @@ title: Digital Government Strategy Milestones Report
 summary: 'Yesterday marked three months since the release of the Digital Government Strategy and agencies have been making great strides in meeting the milestones toward building a 21st Century Government. In his blog, Building-blocks of a 21st Century Digital Government, Steve Van Roekel said: Executing on this vision of government cannot happen'
 authors:
   - apiazza
-categories:
+topics:
   - Governance
-  - Managing Digital
-tag:
+  - managing-digital
   - analytics
   - National Institute of Standards and Technology
   - NIST

@@ -5,13 +5,12 @@ title: 'DigitalGov Citizen Services Summit: Reflections from Our Livestream Host
 summary: 'The second annual DigitalGov Citizen Services Summit was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve'
 authors:
   - bernetta-reese
-categories:
+topics:
   - Our Work
-tag:
   - agile
   - analytics
-  - Connect.gov
-  - Customer Experience
+  - connect-gov
+  - customer-experience
   - DigitalGov Summit
   - FCC
   - Federal Communications Commission
@@ -20,7 +19,7 @@ tag:
   - privacy
   - US Department of State
   - United States Department of Health and Human Services
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/) was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s virtual livestream host for the Summit.

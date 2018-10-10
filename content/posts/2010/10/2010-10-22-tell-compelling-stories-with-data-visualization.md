@@ -5,10 +5,9 @@ title: Tell Compelling Stories with Data Visualization
 summary: 'No information is more critical to your work than the numbers that reveal what’s happening, how you’re performing, and opportunities to do better. GovTech provides ten tips for getting the most from your data visualizations. The tips include: Use layers to tell a story Involve users in the design Be aware of multiple platforms Use style to tell a'
 authors:
   - apiazza
-categories:
+topics:
   - Data
-  - Metrics
-tag:
+  - metrics
   - analytics
   - data
   - data visualization

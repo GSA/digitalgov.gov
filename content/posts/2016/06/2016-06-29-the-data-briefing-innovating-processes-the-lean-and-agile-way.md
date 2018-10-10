@@ -5,19 +5,18 @@ title: 'The Data Briefing: Innovating Processes the Lean and Agile Way'
 summary: Business processes have fascinated me since I took an undergraduate philosophy course in modern business management. A part-time professor who was a management consultant by day taught this unusual class. Perhaps business management thinking was first experimenting with ideas that would later lead to the agile and lean movement today. From this class I learned
 authors:
   - bbrantley
-categories:
+topics:
   - Data
-  - Managing Digital
-tag:
+  - managing-digital
   - agile
-  - AI
+  - ai
   - artificial intelligence
   - big data
   - cloud
   - data
   - Internet of things
   - lean
-  - The Data Briefing
+  - the-data-briefing
 ---
 
 Business processes have fascinated me since I took an undergraduate philosophy course in modern business management. A part-time professor who was a management consultant by day taught this unusual class. Perhaps business management thinking was first experimenting with ideas that would later lead to the agile and lean movement today. From this class I learned that nearly all organizational issues could be traced back to bad processes rather than poor workers. Bad processes could ruin even the most effective and engaged workforce. {{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 

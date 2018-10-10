@@ -5,16 +5,15 @@ title: 'Challenges, Crowdsourcing, Citizen Science: What&#8217;s the Dif?'
 summary: 'There’s more than one way to harness the wisdom of the crowd. In honor of December’s monthly theme, we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two’s company, three’s a crowd&mdash;and getting input from many is crowdsourcing. A White House'
 authors:
   - awichman
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
   - Monthly Theme
-tag:
   - Bureau of Reclamation
   - CFPB
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - Consumer Financial Protection Bureau
@@ -25,7 +24,7 @@ tag:
   - GSA
   - HHS
   - innovation
-  - NASA
+  - nasa
   - National Oceanic and Atmospheric Administration
   - NOAA
   - prizes and competitions

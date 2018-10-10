@@ -5,13 +5,12 @@ title: 'The API Briefing: Department of Justice Frees the Content with Two New A
 summary: When websites were first created back in the 1990s, developers perfected their skills designing sites that presented content in an attractive and eye-catching manner. Content was completely contained within the four corners of the site. With the rise of Web 2.0, content
 authors:
   - bbrantley
-categories:
-  - API
-tag:
-  - Content Management System
+topics:
+  - api
+  - content-management-system
   - DOJ
   - US Department of Justice
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/12/250-x-444-Justice-DOJ-law-jobs-iPhone-app.jpg" alt="Department of Justice Law Jobs iPhone app search results screen" >}}When websites were first created back in the 1990s, developers perfected their skills designing sites that presented content in an attractive and eye-catching manner. Content was completely contained within the four corners of the site. With the rise of Web 2.0, content creation became easier through blogs, wikis, and microblogging. Even so, content was still attached to that particular content creation tool.

@@ -6,14 +6,13 @@ summary: The federal government is one of the largest consumers of products and 
 authors:
   - clair-koroma
   - kathryn-hambleton
-categories:
-  - Communities
-  - Social Media
-tag:
+topics:
+  - communities
+  - social-media
   - AoI
   - HHS
   - Recaps
-  - SocialGov Community
+  - socialgov-community
   - Terms of Service
   - TOS
   - United States Department of Health and Human Services

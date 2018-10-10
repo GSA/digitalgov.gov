@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: Robot Messaging Goes Mainstream'
 summary: 'John Connor can&#8217;t save you. Robots are here to take over the world. Two interesting new consumer mobile and digital content experiences were launched in the past week, signaling some of the first mainstream brands embracing this new paradigm of interactive, bot-driven content experiences: Quartz&#8217;s News App and The New York Times Election Slack Bot. Both'
 authors:
   - wsullivan
-categories:
-  - Content
-  - Mobile
+topics:
+  - content
+  - mobile
   - Monthly Theme
-tag:
   - mobile
   - Trends on Tuesday
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 John Connor can&#8217;t save you. Robots are here to take over the world. {{< legacy-img src="2016/02/600-x-400-Adult-pretty-cyborg-robot-woman-stylish-portrait-Skin-texture-saved-tolokonov-iStock-Thinkstock-492534457.jpg" alt="A beautiful female cyborg with the face, still connected to the head by cables, held in one of her hands." caption="" >}} 

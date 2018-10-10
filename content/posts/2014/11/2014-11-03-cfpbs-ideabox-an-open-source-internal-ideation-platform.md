@@ -5,13 +5,12 @@ title: 'CFPB&#8217;s IdeaBox: an Open-Source Internal Ideation Platform'
 summary: 'IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.   Do you want to build an innovation program at your organization? Learn how you can leverage resources from IdeaBox, the Consumer Financial Protection Bureau’s initiative to generate, incubate, and'
 authors:
   - monte-desai
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - CFPB
-  - ChallengeGov
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+  - challenges-and-prizes-community-of-practice
   - Consumer Financial Protection Bureau
   - innovation
   - Recaps

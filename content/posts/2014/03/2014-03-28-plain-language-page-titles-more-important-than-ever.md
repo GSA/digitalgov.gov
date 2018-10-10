@@ -5,10 +5,9 @@ title: 'Plain Language Page Titles: More Important than Ever'
 summary: Government Web pages are found mainly through search engines. Google recently redesigned its search results page and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed. Many experts now recommend even
 authors:
   - ammie-farraj-feijoo
-categories:
-  - Content
+topics:
+  - content
   - Writing
-tag:
   - big data
   - search engine optimization
 ---

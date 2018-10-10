@@ -5,11 +5,10 @@ title: APIs in Government
 summary: This page is about what an Application Programming Interface or API is and what it does and how government agencies are using them to operate more efficiently.
 authors:
   - gray-brooks
-categories:
-  - API
-  - Code
-tag:
-  - API
+topics:
+  - api
+  - code
+  - api
   - open data
 ---
 

@@ -5,13 +5,12 @@ title: Negotiating a Mobile Terms of Service Agreement
 summary: 'In our personal lives, most of us barely pay attention to Terms of Service (TOS) agreements. But in our professional lives, as federal employees, mindlessly clicking through a TOS is not an option. The DigitalGov article Getting to Yes: Working with Vendors to Secure Terms of Service and Federal Friendly Pricing explored the legal dilemmas'
 authors:
   - awichman
-categories:
-  - Mobile
-  - Social Media
-tag:
+topics:
+  - mobile
+  - social-media
   - DOE
   - mobile
-  - Mobile UX Guideline 2
+  - mobile-ux-guideline-2
   - Terms of Service
   - TOS
   - United States Department of Energy

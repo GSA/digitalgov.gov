@@ -5,11 +5,10 @@ title: 'The Content Corner: Will You Read This Entire Post?'
 summary: 'Deep down we&#8217;ve always known that people only read a small portion of any content shared online. In many ways that can&#8217;t be fixed but there are ways to help people read more or at least scan better. There was a book I loved as a child that featured the Sesame Street character Grover, titled'
 authors:
   - tyrus-manuel
-categories:
-  - Content
+topics:
+  - content
   - Writing
-tag:
-  - Administrative Office of the United States Courts
+  - administrative-office-of-the-united-states-courts
   - content strategy
   - DHS
   - metrics

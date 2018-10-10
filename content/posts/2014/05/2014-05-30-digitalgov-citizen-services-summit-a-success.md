@@ -5,22 +5,21 @@ title: DigitalGov Citizen Services Summit a Success
 summary: 'We had a GREAT DigitalGov Citizen Services Summit today. There were more than 200 digital innovators from across government and industry working to build the 21st century government the public expects. The four panels focused on performance analysis, customer service across channels, inter-agency work, and public private partnerships. Here&#8217;s what you missed in a short highlight video. [youtube=http://www.youtube.com/watch?v=EIWwnomPxo4&w=600]'
 authors:
   - apiazza
-categories:
-  - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
+topics:
+  - challenges
+  - code
+  - content
+  - managing-digital
+  - metrics
+  - mobile
   - Our Work
-  - Social Media
-  - UX
-tag:
+  - social-media
+  - ux
   - DigitalGov Summit
   - mobile
   - Recaps
   - social media
-  - UX
+  - ux
 ---
 
 We had a GREAT [DigitalGov Citizen Services Summit]({{< link "2014-05-19-sign-up-for-digitalgov-citizen-services-summit-friday-may-30.md" >}}) today. There were more than 200 digital innovators from across government and industry working to build the 21st century government the public expects.

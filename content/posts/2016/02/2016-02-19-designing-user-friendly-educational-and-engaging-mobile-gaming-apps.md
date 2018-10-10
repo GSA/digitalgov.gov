@@ -5,15 +5,14 @@ title: Designing User-Friendly, Educational and Engaging Mobile Gaming Apps
 summary: How do you reach audiences with important health information and leave users asking for more? Is it enough to create responsive websites written in plain language or to design apps with health tips optimized for handheld devices? While those ideas are a step in the right direction, we do not live in a world where,
 authors:
   - alex-casanova
-categories:
-  - Design
-  - Mobile
-tag:
+topics:
+  - design
+  - mobile
   - CDC
   - Centers for Disease Control and Prevention
   - gamification
   - mobile
-  - mobile apps
+  - mobile-apps
   - user centered design
 ---
 

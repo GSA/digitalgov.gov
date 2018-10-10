@@ -5,20 +5,19 @@ title: 'DAY 50: The Great Federal Mobile Product Hunt!'
 summary: ' The Great Federal Mobile Product Hunt is off to the races in both English and Spanish with David Cooper in the lead at 12 #lostapps from the National Center for Telehealth and Technology, Department of Veterans Affairs in a close second with 10,'
 authors:
   - courtney-greenley
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Broadcasting Board of Governors
   - Federal Mobile Products Registry
-  - mobile apps
+  - mobile-apps
   - National Center for Telehealth and Technology
   - OSHA
   - SAMHSA
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Coast Guard
   - US Department of Veterans Affairs
   - US Small Business Administration
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/07/600-x-200-Day-50.jpg" alt="Day 50 banner" >}}{{< legacy-img src="2015/07/600-x-200-Tally-Graphic.jpg" alt="Leaderboard Tally" >}}

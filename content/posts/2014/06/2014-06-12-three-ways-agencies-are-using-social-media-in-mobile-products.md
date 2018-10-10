@@ -6,21 +6,20 @@ summary: 'As highlighted in this Trends on Tuesday post, time spent on mobile ph
 authors:
   - zeshan-khan
   - katie-steffy
-categories:
-  - Mobile
+topics:
+  - mobile
   - Monthly Theme
-  - Social Media
-tag:
+  - social-media
   - crowdsourcing
   - Federal Mobile Products Registry
   - GPS
-  - mobile apps
-  - mobile gov
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-gov
+  - mobile-ux-guideline-5
   - National Highway Traffic Safety Administration
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - SocialGov Community
+  - socialgov-community
   - Trends on Tuesday
   - US Department of Agriculture
   - US Forest Service

@@ -6,18 +6,18 @@ summary: 'How to run user-interviews and synthesize and integrate the results in
 deck: 'How to run user-interviews and synthesize and integrate the results into the teams shared understanding'
 authors:
   - andrew-maier
-categories:
-  - Design
-  - strategy-and-policy
+topics:
+  - design
+  - strategy
+  - policy
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - State
   - US Department of State
   - user centered design
-  - user experience
+  - user-experience
   - user research
-  - UX
+  - ux
 ---
 
 A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series I hope to summarize (as best as possible) the presentation I gave, &#8220;[Foster The People: Building Empathy with Stakeholder Interviews](https://speakerdeck.com/andrewmaier/foster-the-people-building-empathy-with-stakeholder-interviews).&#8221; {{< legacy-img src="2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="" >}}

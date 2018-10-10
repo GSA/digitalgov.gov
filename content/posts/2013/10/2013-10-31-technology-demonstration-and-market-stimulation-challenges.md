@@ -5,9 +5,8 @@ title: Technology Demonstration and Market Stimulation Challenges
 summary: 'Challenge and prize competitions are one path that federal agencies take to drive innovation and solve mission-centric problems&mdash;whether technical, scientific, or creative. One type of competition is technology demonstration and market stimulation prizes, competitions that result in fully developed solutions to address market failures, solve significant problems facing society, or catalyze and demonstrate breakthrough technical'
 authors:
   - ktrebon
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - innovation
 ---
 

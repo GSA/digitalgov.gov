@@ -5,11 +5,10 @@ title: 'The Data Briefing: Is That Drug Safe? &#8211; The FDA’s RR-Drug R/Shin
 summary: I (virtually) attended the Third Annual Safety Datapalooza last Thursday and was greatly impressed by the projects and initiatives for public safety. This was a great event, and I am glad that live streaming was provided for those who could not attend in person but have a great interest in using government data for disaster
 authors:
   - bbrantley
-categories:
+topics:
   - Data
-tag:
   - FDA
-  - The Data Briefing
+  - the-data-briefing
   - US Food and Drug Administration
   - United States Patent and Trademark Office
   - USPTO

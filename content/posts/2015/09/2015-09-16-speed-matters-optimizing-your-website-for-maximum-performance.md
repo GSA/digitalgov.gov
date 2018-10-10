@@ -5,16 +5,15 @@ title: 'Speed Matters: Optimizing Your Website For Maximum Performance'
 summary: 'Every second counts, even those precious two or three seconds it takes your website to load. When it comes to mobile, users won’t wait. During a recent DigitalGov University webinar, Jeremy Vanderlan, Technical Deputy for AIDS.gov, explained how even fractions of a second can have a negative impact on a user’s impression of your website.'
 authors:
   - jparcell
-categories:
-  - Content
-  - Mobile
+topics:
+  - content
+  - mobile
   - Monthly Theme
-tag:
   - analytics
   - HHS
   - mobile
-  - mobile testing
-  - Mobile UX Guideline 4
+  - mobile-testing
+  - mobile-ux-guideline-4
   - Recaps
   - United States Department of Health and Human Services
 ---

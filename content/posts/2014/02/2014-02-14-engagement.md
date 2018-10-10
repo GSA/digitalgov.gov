@@ -5,9 +5,8 @@ title: Engagement
 summary: ' It’s one of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign. The idea of making sure your social media accounts are reaching key constituents and members of'
 authors:
   - dorothy-amatucci
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - DGU
   - Facebook
   - social media

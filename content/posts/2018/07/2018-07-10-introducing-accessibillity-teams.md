@@ -6,13 +6,14 @@ summary: "A quick-start guide for embedding accessibility and inclusive design i
 deck: "A guide to making products more accessible for everyone"
 authors:
   - maya-benari
-categories:
+topics:
   - accessibility
   - ux
-tag:
+  - section-508
   - methodology
-  - accessibility
   - design
+  - section-508
+  - aaaaa
 featured_image:
   uid: accessibility-for-teams-2
   alt: Colorful graphic of a group of handicapped symbols

@@ -8,13 +8,12 @@ authors:
   - carolyn-dew
   - maya-benari
   - colin-macarthur
-categories:
-  - Design
-tag:
-  - 18F
+topics:
+  - design
+  - 18f
   - US Digital Service
   - USDS
-  - user experience
+  - user-experience
 ---
 
 Joanne is a young Army Veteran who is looking to make use of her GI Bill Benefits and apply for federal student loans to attend college.

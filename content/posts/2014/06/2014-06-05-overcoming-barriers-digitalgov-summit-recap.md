@@ -5,25 +5,24 @@ title: Overcoming Barriers—DigitalGov Summit Recap
 summary: As government innovators, we work to improve public services every day. In essence we are already in a public private partnership. But how can your agency capitalize on existing public private partnerships to engage citizens and enhance services? Four panelists from across government shared their public private partnerships success stories at the DigitalGov Citizen Services
 authors:
   - allison-alexander
-categories:
-  - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Social Media
-  - UX
-tag:
-  - ChallengeGov
-  - data.gov
+topics:
+  - challenges
+  - code
+  - content
+  - managing-digital
+  - metrics
+  - mobile
+  - social-media
+  - ux
+  - challenge-gov
+  - data-gov
   - DOL
   - GitHub
   - Recaps
   - SBA
   - US Department of Labor
   - US Small Business Administration
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Justin-Herman-Panel-3-Public-Private-Partnerships-toni470-flickr-20140530_112350.jpg" alt="DigitalGov Citizen Services Summit and Expo - Justin Herman, GSA - Panel 3: Public Private Partnerships - Jack Bienko, SBA; Phil Ashlock, DataGov; Lynn Overmann, White House OSTP; Mike Reardon, DOL" caption="" >}} 

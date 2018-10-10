@@ -5,13 +5,13 @@ title: 'The People&#8217;s Code'
 summary: 'Summary: Today, we’re releasing the Federal Source Code policy to support improved access to custom software code developed by or for the Federal Government. &#8220;If we can reconceive of our government so that the interactions and the interplay between private sector, nonprofits, and government are opened up, and we use technology, data, social media in order'
 authors:
   - tony-scott
-categories:
-  - Code
+topics:
+  - code
   - Data
   - Governance
-  - Managing Digital
-  - strategy-and-policy
-tag:
+  - managing-digital
+  - strategy
+  - policy
   - code
   - innovation
   - Office of Management and Budget
@@ -20,7 +20,7 @@ tag:
   - open data
   - US Department of Veterans Affairs
   - VA
-  - White House
+  - white-house
 ---
 
 > **Summary**: Today, we’re releasing the Federal Source Code policy to support improved access to custom software code developed by or for the Federal Government.

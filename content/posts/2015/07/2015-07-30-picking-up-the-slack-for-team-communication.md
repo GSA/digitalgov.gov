@@ -5,10 +5,9 @@ title: Picking Up the “Slack” for Team Communication
 summary: ' You have a question about a project. You ping a coworker, who texts another colleague, who emails a listserv and receives 3 responses. And the problem is: where will your supervisor find the answer next month, when someone else asks the same question? Corralling'
 authors:
   - awichman
-categories:
-  - Social Media
-tag:
-  - SocialGov Community
+topics:
+  - social-media
+  - socialgov-community
   - State
   - TOS
   - US Department of State

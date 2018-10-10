@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: 186.3 Million People Own Smartphones in the U.S.'
 summary: 'In April, comScore released new mobile data, and it pointed to the continuing growth of smartphones as the dominant mobile platform, especially in the United States, with almost a 77% smartphone penetration. Android and Apple continue to dominate the operating system market share with 52.8% and 41.7%, respectively. The report said that &ldquo;186.3 million people in the U.S.'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 1
+  - mobile
+  - mobile-apps
+  - mobile-ux-guideline-1
   - mobile-friendly
   - Trends on Tuesday
 ---

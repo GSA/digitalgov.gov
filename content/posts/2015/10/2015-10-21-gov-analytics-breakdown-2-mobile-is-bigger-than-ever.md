@@ -5,19 +5,18 @@ title: 'Gov Analytics Breakdown #2: Mobile Is Bigger than Ever'
 summary: 'A review of the Digital Analytics Program (DAP) data confirms what many are already saying: Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing. Three things are evident when looking at the breakdown of sessions on federal government websites across device types over the'
 authors:
   - tlowden
-categories:
+topics:
   - Data
-  - Metrics
-  - Mobile
-  - UX
-tag:
+  - metrics
+  - mobile
+  - ux
   - analytics
-  - Customer Experience
+  - customer-experience
   - DAP
   - data
   - Digital Analytics Program
   - mobile
-  - user experience
+  - user-experience
 ---
 
 A review of the <a href="{{< link "dap.md" >}}" target="_blank">Digital Analytics Program</a> (DAP) data confirms what many are already saying: **Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing.**

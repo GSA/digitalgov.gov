@@ -5,12 +5,11 @@ title: API Analytics
 summary: 'Similar to website analytics, API analytics focus on reliably reporting the metrics which are most useful to its stakeholders. There are a many ways of collecting, reporting, and consuming API analytics but all revolve around the industry&ndash;accepted norm that some form of analytics are crucial to any API program. The most basic metrics will track'
 authors:
   - gray-brooks
-categories:
-  - API
-  - Code
-  - Metrics
-tag:
-  - API
+topics:
+  - api
+  - code
+  - metrics
+  - api
 ---
 
 {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 

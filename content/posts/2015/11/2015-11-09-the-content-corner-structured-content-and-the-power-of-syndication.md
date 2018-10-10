@@ -5,12 +5,11 @@ title: 'The Content Corner: Structured Content and the Power of Syndication'
 summary: 'A recent DigitalGov webinar on syndicated content and the recent achievements of the Centers for Disease Control and Prevention helped open my eyes even wider to the possibilities of open and structured content. By offering critical health information via syndication, CDC and other Department of Health and Human Services agencies are helping resource-strapped local agencies share'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-  - Mobile
+topics:
+  - content
+  - mobile
   - Monthly Theme
-tag:
-  - API
+  - api
   - CDC
   - Centers for Disease Control and Prevention
   - content syndication
@@ -18,7 +17,7 @@ tag:
   - FDA
   - HHS
   - mobile
-  - Mobile UX Guideline 1
+  - mobile-ux-guideline-1
   - National Institutes of Health
   - NIH
   - open and structured content models

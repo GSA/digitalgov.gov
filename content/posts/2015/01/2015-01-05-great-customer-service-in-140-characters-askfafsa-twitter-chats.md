@@ -5,9 +5,8 @@ title: 'Great Customer Service in 140 Characters: #AskFAFSA Twitter Chats'
 summary: ' As agencies strive for success in digital government, they often need to open their virtual doors and meet the public in new and evolving spaces. Federal Student Aid meets its audience in the 21st century public square at monthly #AskFAFSA sessions. During the live'
 authors:
   - awichman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - Federal Student Aid
   - FSA
   - Twitter

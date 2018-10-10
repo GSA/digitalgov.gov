@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: Mobile Web Audiences Abandon Sites with Interstitial 
 summary: 'David Morell, a software engineer with Google, posted an interesting case study from the tech giant, sharing data about how users interacted with interstitials (ie webpages displayed before or after an expected content page) on their website. Their analysis showed that 69% of users completely abandoned the page and their original intent after being shown an interstitial. Interstitials take many'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 5
-  - native app
-  - native apps
+  - mobile
+  - mobile-ux-guideline-5
+  - native-app
+  - native-apps
   - Trends on Tuesday
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Skip-ad-sign-tzahiV-iStock-Thinkstock-475523390.jpg" alt="Skip ad sign" caption="" >}} 

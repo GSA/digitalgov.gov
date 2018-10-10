@@ -5,9 +5,8 @@ title: The New FedRAMP.gov Is Here
 summary: ' On Wednesday, March 11, FedRAMP unveiled a redesigned FedRAMP.gov. The new site focuses on user experience that fosters a better understanding of FedRAMP from basic knowledge, to in-depth program requirements and includes the launch of a'
 authors:
   - matt-goodrich
-categories:
-  - Managing Digital
-tag:
+topics:
+  - managing-digital
   - cloud
   - DAP
   - Digital Analytics Program
@@ -15,9 +14,9 @@ tag:
   - GSA
   - responsive web design
   - Sites
-  - Thursday Mobile Products
-  - user experience
-  - UX
+  - thursday-mobile-products
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/03/600-x-300-screencap-of-new-FedRAMP-website-homepage-March-12th-2015.jpg" alt="A screencapture of the top part of the new FedRAMP website homepage, March 12, 2015" >}}

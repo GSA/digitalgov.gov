@@ -5,20 +5,19 @@ title: Facebook Increases Public Service Verification to Improve Citizen Engagem
 summary: 'Facebook is now the first social media platform to start verifying all federal government pages with their signature blue checkmark using the Federal Social Media Registry API. The Federal Social Media Registry provides the singular source that allows social media platforms to quickly collect real government accounts&mdash;emphasizing the critical need to ensure the trust, quality and'
 authors:
   - jherman
-categories:
-  - API
+topics:
+  - api
   - Data
   - Governance
-  - Managing Digital
-  - Social Media
-tag:
-  - 18F
+  - managing-digital
+  - social-media
+  - 18f
   - Central Intelligence Agency
   - CIA
-  - data.gov
+  - data-gov
   - Facebook
-  - SocialGov Community
-  - user experience
+  - socialgov-community
+  - user-experience
 ---
 
 Facebook is now the first social media platform to start verifying all federal government pages with their signature blue checkmark using the <a href="http://www.usa.gov/About/developer-resources/social-media-registry.shtml" target="_blank">Federal Social Media Registry</a> API. The Federal Social Media Registry provides the singular source that allows social media platforms to quickly collect real government accounts—emphasizing the critical need to ensure the trust, quality and security of citizen engagement.

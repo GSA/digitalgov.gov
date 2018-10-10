@@ -5,14 +5,13 @@ title: Welcome to User Experience Month!
 summary: 'One challenge with digital government: it&#8217;s hard to see people. If you work at a U.S. Post Office, you interact with your customers, talk with them, and even see what they are feeling by looking at their faces. You can understand their experience fairly easily. In the digital world, technology decreases physical distance but increases'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - Monthly Theme
-  - UX
-tag:
-  - Customer Experience
+  - ux
+  - customer-experience
   - DigitalGov User Experience Program
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2014/11/600-x-250-UX-monthly-theme-slider-by-Jessica-Skretch-FTCgov.jpg" alt="Jessica Skretch, FTC" caption="" >}} 

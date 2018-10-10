@@ -5,11 +5,10 @@ title: The Power of Email Marketing
 summary: 'If you aren’t currently including email marketing in your digital outreach efforts, you’re missing out. Think about email marketing in the same way you think about tools like Facebook, Twitter, YouTube, and your website. It’s another digital platform that allows you to reach your customers and achieve your goals. Email marketing can be used in'
 authors:
   - nicholas-garlow
-categories:
-  - Content
-  - Metrics
-  - Social Media
-tag:
+topics:
+  - content
+  - metrics
+  - social-media
   - a-b-testing
   - HHS
   - United States Department of Health and Human Services

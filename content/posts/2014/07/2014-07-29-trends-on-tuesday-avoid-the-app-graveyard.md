@@ -6,18 +6,17 @@ summary: 'Apps that are downloaded, used a few times and then never used again, 
 authors:
   - jparcell
   - katie-steffy
-categories:
-  - Mobile
-  - UX
-tag:
+topics:
+  - mobile
+  - ux
   - federal user experience community
   - mobile
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 4
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-4
   - Trends on Tuesday
-  - user experience
+  - user-experience
 ---
 
 [{{< legacy-img src="2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg" alt="Old Cemeteries Tombstone Closeups" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg) 

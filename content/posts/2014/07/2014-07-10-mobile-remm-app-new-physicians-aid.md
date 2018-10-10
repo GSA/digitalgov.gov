@@ -5,9 +5,8 @@ title: 'Mobile REMM App: New Physicians’ Aid'
 summary: 'The Department of Health and Human Service’s Mobile REMM App provides physicians and emergency medical staff with the latest and greatest information concerning radioactive and nuclear emergencies. Available on iOS, Android, and Blackberry platforms, the native application showcases comprehensive information concerning dose'
 authors:
   - katie-steffy
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - CDC
   - Centers for Disease Control and Prevention
   - EPA
@@ -15,15 +14,15 @@ tag:
   - Federal Emergency Management Agency
   - FEMA
   - HHS
-  - mobile apps
-  - mobile gov
+  - mobile-apps
+  - mobile-gov
   - NRC
   - Nuclear Regulatory Commission
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Environmental Protection Agency
   - US Food and Drug Administration
   - United States Department of Health and Human Services
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2014/07/250-x-333-REMM-HHS-app.jpg" alt="A screenshot of the REMM app on a mobile device" >}}The [Department of Health and Human Service’s Mobile REMM App](http://www.remm.nlm.gov/downloadmremm.htm) provides physicians and emergency medical staff with the latest and greatest information concerning radioactive and nuclear emergencies. Available on [iOS](https://itunes.apple.com/us/app/mobile-remm-radiation-emergency/id372600451?mt=8), [Android](https://play.google.com/store/apps/details?id=gov.nih.nlm.sis.remm), and [Blackberry](http://appworld.blackberry.com/webstore/content/45722/?lang=en&countrycode=US) platforms, the native application showcases comprehensive information concerning dose estimators and resources to initiate a variety of triages on site without requiring mobile connectivity.

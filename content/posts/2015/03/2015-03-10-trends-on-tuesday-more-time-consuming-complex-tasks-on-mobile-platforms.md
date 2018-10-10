@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: More Time-Consuming, Complex Tasks on Mobile Platform
 summary: 'One of the leading mobile app analytics companies, Flurry, released their annual mobile app growth report with some interesting data showing how audiences are changing the way they engage with mobile applications. Overall, mobile app usage grew 76% in 2014, and the top app categories included: &ldquo;Lifestyle & Shopping,&rdquo; growing 174%; &ldquo;Utilities & Productivity,&rdquo; growing'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - analytics
   - mobile
-  - mobile apps
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

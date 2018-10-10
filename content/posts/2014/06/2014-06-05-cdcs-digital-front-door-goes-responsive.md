@@ -3,18 +3,17 @@ slug: cdcs-digital-front-door-goes-responsive
 date: 2014-06-05 10:32:57 -0400
 title: 'CDC&#8217;s Digital Front Door Goes Responsive'
 summary: 'Ask, and you shall receive. That was the strategy behind the new homepage from The Centers for Disease Control and Prevention. The new CDC.gov homepage debuted last month with a responsive design that offers a &#8220;one-site-fits-all&#8221; experience based on feedback from you, the public.'
-categories:
-  - Design
-  - Mobile
-tag:
+topics:
+  - design
+  - mobile
   - CDC
   - Centers for Disease Control and Prevention
   - HHS
-  - mobile gov
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
+  - mobile-gov
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-4
   - responsive web design
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Health and Human Services
 ---
 

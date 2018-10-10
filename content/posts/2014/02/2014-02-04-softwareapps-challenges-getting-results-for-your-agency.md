@@ -5,12 +5,11 @@ title: 'Software/Apps Challenges: Getting Results for Your Agency'
 summary: ' Federal agencies are rapidly finding that software and/or app prize competitions have the potential to harness innovative ideas from the public. But'
 authors:
   - tlowden
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
+topics:
+  - challenges
+  - challenge-gov
   - EPA
-  - NASA
+  - nasa
 ---
 
 [{{< legacy-img src="2014/02/My-Money-App-Up-250x212.png" alt="A winner of the My Money App Up challenge, Centz is a mobile application that helps users make sense of their student loans and earn cents while doing it." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/My-Money-App-Up.png)

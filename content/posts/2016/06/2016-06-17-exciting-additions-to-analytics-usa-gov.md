@@ -8,13 +8,12 @@ authors:
   - gray-brooks
   - eric-mill
   - colin-craig
-categories:
+topics:
   - Data
-  - Managing Digital
-  - Metrics
+  - managing-digital
+  - metrics
   - Our Work
-tag:
-  - 18F
+  - 18f
   - analytics
   - data
   - Digital Analytics Program

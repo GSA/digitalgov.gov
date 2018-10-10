@@ -5,9 +5,8 @@ title: 'NIH Twitter Chats: Collaborations Multiply Successes'
 summary: Twitter Chat discussing anxiety, stress, and complementary health practices December 18, 2012
 authors:
   - lnelson
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - NIH
   - Twitter
 ---

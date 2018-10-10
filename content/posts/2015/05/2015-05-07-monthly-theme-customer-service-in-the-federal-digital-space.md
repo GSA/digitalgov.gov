@@ -6,11 +6,10 @@ summary: '&ldquo;The customer is king.&rdquo; &ldquo;The customer is always righ
 authors:
   - jparcell
   - awichman
-categories:
-  - Managing Digital
+topics:
+  - managing-digital
   - Monthly Theme
-tag:
-  - Customer Experience
+  - customer-experience
   - customer satisfaction
   - customer service
 ---

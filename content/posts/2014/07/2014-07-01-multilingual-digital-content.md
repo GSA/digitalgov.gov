@@ -6,9 +6,8 @@ summary: 'Federal agencies are required to provide meaningful access to governme
 authors:
   - lgodfrey
   - lmartinez
-categories:
-  - Content
-tag:
+topics:
+  - content
   - ANLE
   - CDC
   - Census

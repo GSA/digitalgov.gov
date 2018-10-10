@@ -5,9 +5,8 @@ title: Spanish Language Mobile Apps from Gobierno.USA.gov
 summary: ' In mobile app development, if you aren&#8217;t making it multilingual, you miss providing anytime, anywhere information and services to important mobile-only audiences. Regular DigitalGov readers know that we&#8217;ve touched on Hispanic mobile trends before, including the high rates of mobile usage among Hispanic millennials. Today, we’re highlighting five Spanish language'
 authors:
   - awichman
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - BBG
   - Broadcasting Board of Governors
   - Federal Mobile Products Registry
@@ -16,15 +15,15 @@ tag:
   - GobiernoUSAgov
   - Internal Revenue Service
   - IRS
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - multilingual
   - multilingual-community
   - National Institutes of Health
   - NIH
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2015/01/600-x-338-Android-phone-Social-Security-Administration-Seguro-Social-website-homepage.jpg" alt="600-x-338-Android-phone-Social-Security-Administration-Seguro-Social-website-homepage" >}}

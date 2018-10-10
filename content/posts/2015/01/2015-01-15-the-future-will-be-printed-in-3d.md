@@ -5,19 +5,18 @@ title: The Future Will Be Printed – in 3D
 summary: ' The use of 3D printing is growing. From kayaks to pancakes to human and canine prosthetics, a diverse array of 3D printed products have been delivered. 3D printing has also been named one of the top technology'
 authors:
   - awichman
-categories:
-  - Code
+topics:
+  - code
   - Monthly Theme
-tag:
-  - 18F
-  - API
+  - 18f
+  - api
   - National Institute of Allergy and Infectious Diseases
   - National Institutes of Health
   - National Library of Medicine
   - NIAID
   - NIH
   - NLM
-  - White House
+  - white-house
 ---
 
 {{< legacy-img src="2015/01/600-x-314-NIH-3D-Print-Exchange-3D-model-and-Objex-Unlimited-HIV-printed-on-ProJet-4500.jpg" alt="NIH 3D Print Exchange 3D model and Objex Unlimited HIV printed on ProJet 4500" >}}

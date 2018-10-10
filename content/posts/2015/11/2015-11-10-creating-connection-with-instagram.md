@@ -5,14 +5,13 @@ title: Creating Connection with Instagram
 summary: 'I’ve been thinking a lot about Instagram lately. It’s pretty big, especially among the younger populations (AKA. Millennials). Actually, from what I can tell, it’s pretty big with lots of different age groups, genders, and ethnicities; and it’s growing every day. Full disclosure: I use Instagram in my personal'
 authors:
   - alyson-olander
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - DOI
-  - Instagram
+  - instagram
   - National Institutes of Health
   - NIH
-  - Transportation Security Administration
+  - transportation-security-administration
   - TSA
   - US Department of the Interior
 ---

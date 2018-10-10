@@ -7,11 +7,11 @@ authors:
   - chris-goranson
   - michael-torres
   - kristy-singletary
-categories:
-  - strategy-and-policy
+topics:
+  - strategy
+  - policy
   - user-testing-and-research
-tag:
-  - 18F
+  - 18f
   - agile
   - best practices
   - Commerce

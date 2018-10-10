@@ -5,12 +5,11 @@ title: 'The API Briefing: NASA Builds API.NASA.gov to Launch More APIs to Develo
 summary: ' NASA has been busy since we last visited their collection of APIs back in August 2014. NASA has just launched API.NASA.gov where developers can learn to use existing NASA'
 authors:
   - bbrantley
-categories:
-  - API
-tag:
-  - API
-  - NASA
-  - Wednesday API Briefing
+topics:
+  - api
+  - api
+  - nasa
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Asterank-API-April-27th-2070-3D-map-of-significant-asteroids-overlaid-onto-the-orbits-of-Mercury-Venus-Earth-and-Mars.jpg" alt="Asterank API displays three-dimensional map of significant asteroids overlaid onto the orbits of Mercury, Venus, Earth, and Mars, dated April 27, 2070." >}}

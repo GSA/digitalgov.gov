@@ -5,9 +5,8 @@ title: 'Want a More Innovative Agency&#63; Encourage Employees to Experiment'
 summary: 'How agency leaders can create a work environment that fosters innovation via creativity and experimentation&#46;'
 authors:
   - brian-fox
-categories:
+topics:
   - managing-digital
-tag:
   - innovation
 featured_image:
   uid: light-bulb

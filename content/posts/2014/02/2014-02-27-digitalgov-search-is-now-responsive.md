@@ -5,11 +5,10 @@ title: DigitalGov Search is Now Responsive
 summary: 'We&#8217;ve redesigned our mobile search results page. It now uses a card-based design and is responsive. This design gives searchers a more consistent user experience and access to the results anytime, anywhere, and on any device. Take a sneak peek of the new responsive results page.'
 authors:
   - ammie-farraj-feijoo
-categories:
-  - Content
-  - Mobile
+topics:
+  - content
+  - mobile
   - Our Work
-tag:
   - DigitalGov Search
   - responsive web design
 ---

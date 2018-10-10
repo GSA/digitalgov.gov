@@ -5,16 +5,15 @@ title: 'The Data Briefing: Building an Open Government Data Ecosystem in the Fed
 summary: It has been over seven years since President Obama signed the executive order that launched the federal open data movement. Much progress has been made, and there is still more to do. Along with the United States, over 100 nations have started programs to provide open access to government data. From large metropolitan governments to
 authors:
   - bbrantley
-categories:
+topics:
   - Data
   - Monthly Theme
-tag:
-  - API
+  - api
   - data
   - HHS
-  - NASA
+  - nasa
   - open data
-  - The Data Briefing
+  - the-data-briefing
   - United States Department of Health and Human Services
   - United States Patent and Trademark Office
   - USPTO

@@ -5,11 +5,10 @@ title: How OSTP Crowdsourced A Crowdsourcing Toolkit
 summary: To promote crowdsourcing, one effective tool is, well, crowdsourcing. Today, the White House Office of Science and Technology Policy (OSTP) and the Federal Community of Practice for Crowdsourcing and Citizen Science (CCS) unveiled the Citizen Science and Crowdsourcing Toolkit. The toolkit contains information, resources, and best practices federal agencies can use to harness the power
 authors:
   - awichman
-categories:
+topics:
   - crowdsourcing-and-citizen-science
-  - Managing Digital
+  - managing-digital
   - Our Work
-tag:
   - "508"
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
@@ -25,7 +24,7 @@ tag:
   - sitesusagov
   - US Department of Veterans Affairs
   - VA
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}} 

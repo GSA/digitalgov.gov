@@ -5,14 +5,13 @@ title: 'The Data Briefing: Better Crowdsourced Federal Government Projects Throu
 summary: 'Cognitive computing has been receiving a good deal of attention lately as more companies have been building intelligent agents. Ever since IBM Watson&#8217;s 2011 appearance on Jeopardy, cognitive computing has spread into healthcare, investing and even veterinary medicine. However, it is only recently that cognitive computing has spread into government applications. As the name implies,'
 authors:
   - bbrantley
-categories:
+topics:
   - Data
-tag:
   - chatbots
   - crowdsourcing
   - Internet of things
   - natural language generation
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---

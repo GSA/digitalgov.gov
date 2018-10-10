@@ -6,10 +6,9 @@ summary: 'Lots of people ask us questions. So it only makes sense for us to part
 authors:
   - jacqueline-snee
   - jessica-milcetich
-categories:
-  - Content
-  - Metrics
-tag:
+topics:
+  - content
+  - metrics
   - USAgov
 ---
 

@@ -6,10 +6,9 @@ summary: 'Launched just three years ago, the Digital Analytics Program (DAP) con
 authors:
   - gwynne-kostin
   - marina-fox
-categories:
-  - Metrics
-tag:
-  - 18F
+topics:
+  - metrics
+  - 18f
   - analytics
   - customer service
   - DAP

@@ -5,12 +5,11 @@ title: How to Use Remote Data Strategically in UX
 summary: 'One of the challenges UX practitioners can face is how to communicate much of the data that’s out there. The key word is &ldquo;communicate.&rdquo; Since many of us are used to qualitative findings, making the jump to &ldquo;hard data&rdquo; can be a challenge. There are tools out there that make this easier, but we still'
 authors:
   - justin-dopke
-categories:
+topics:
   - Monthly Theme
-  - UX
-tag:
+  - ux
   - analytics
-  - UX
+  - ux
 ---
 
 One of the challenges UX practitioners can face is how to communicate much of the data that’s out there. The key word is “communicate.” Since many of us are used to qualitative findings, making the jump to “hard data” can be a challenge. There are tools out there that make this easier, but we still need some explanations and/or translations. {{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 

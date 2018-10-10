@@ -3,14 +3,13 @@ slug: american-red-cross-tornado-app
 date: 2013-03-21 9:46:31 -0400
 title: American Red Cross Tornado App
 summary: The American Red Cross Tornado App gets your family and home ready for a tornado. The app, which is available on the Android and iOS platforms, puts everything you need to know
-categories:
-  - Mobile
-tag:
-  - American Red Cross
-  - mobile apps
-  - mobile gov
+topics:
+  - mobile
+  - american-red-cross
+  - mobile-apps
+  - mobile-gov
   - NOAA
-  - Thursday Mobile Products
+  - thursday-mobile-products
 ---
 
 [{{< legacy-img src="2013/03/ARC-tornado-app-screen.jpg" alt="American Red Cross' Tornado app main screen showing options for Right Before, After, Recovery, Plan Ahead, and Make a plan" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/03/ARC-tornado-app-screen.jpg)The [American Red Cross Tornado App](http://www.redcross.org/news/press-release/New-Tornado-App-Brings-Safety-Information-to-Mobile-Devices) gets your family and home ready for a tornado. The app, which is available on the [Android](https://play.google.com/store/apps/details?id=com.cube.arc.tfa&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5jdWJlLmFyYy50ZmEiXQ..) and [iOS](https://itunes.apple.com/us/app/tornado-by-american-red-cross/id602724318?mt=8) platforms, puts everything you need to know to prepare for a tornado – and all that comes with it – in the palm of your hand. The app includes an audible siren that goes off when a tornado warning is issued in your area. In addition, it provides:

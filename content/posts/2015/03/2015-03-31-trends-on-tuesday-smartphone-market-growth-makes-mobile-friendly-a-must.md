@@ -5,18 +5,17 @@ title: 'Trends on Tuesday: Smartphone Market Growth Makes Mobile-Friendly a Must
 summary: 'ComScore reported last week that smartphones now make up a whopping 75% of the mobile market. That’s up from 65% just one year ago. This means three-quarters of Americans over the age of 13 now have smartphones, and they are accessing government services with them more and more. This is an undeniable fact because earlier this'
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DAP
   - Digital Analytics Program
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - mobile-first
   - mobile-friendly
-  - MobileGov
+  - mobile-gov
   - responsive web design
   - Sites
   - Trends on Tuesday

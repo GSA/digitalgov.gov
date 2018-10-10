@@ -5,13 +5,12 @@ title: 'Results Report: Robots Created for Competitions to Help Ebola Response'
 summary: 'Challenge competitions were recently highlighted as two potential solutions to help with the Ebola crisis responses. The first is a grand challenge launched Oct. 17, 2014, by the United States Agency for International Development (USAID): Ebola: A Grand Challenge for Development. The goal: To help health care workers on the front lines provide better care and stop'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
+topics:
+  - challenges
+  - challenge-gov
   - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
-  - NASA
+  - challenges-and-prizes-community-of-practice
+  - nasa
   - US Agency for International Development
   - USAID
 ---

@@ -5,15 +5,14 @@ title: 'The API Briefing: FRED® and ALFRED® Serve Up a Buffet of Economic Data
 summary: 'The federal government captures almost every economic data trend through several agencies. The Federal Reserve of St. Louis offers 238,000 economic trends through FRED&reg; (Federal Reserve Economic Data). FRED&reg; data can be accessed through the FRED&reg; website or the FRED&reg; mobile app (Android | Apple). FRED&reg; data can'
 authors:
   - bbrantley
-categories:
-  - API
-  - Code
-tag:
-  - API
+topics:
+  - api
+  - code
+  - api
   - Federal Reserve Board
   - US Department of Agriculture
   - USDA
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/11/250-x-390-FRED-home-android.jpg" alt="FRED app home screen" >}}The federal government captures almost every economic data trend through several agencies. The Federal Reserve of St. Louis offers 238,000 economic trends through [FRED® (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/). FRED® data can be accessed through the FRED® website or the FRED® mobile app ([Android](https://play.google.com/store/apps/details?id=org.stlouisfed.research.fred) | [Apple](https://itunes.apple.com/us/app/fred-economic-data/id451715489)). FRED® data can even be pulled into [Excel through a free plugin](http://research.stlouisfed.org/fred-addin/).

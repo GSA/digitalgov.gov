@@ -5,9 +5,8 @@ title: Google Analytics Download Data Lower Than Expected? Here’s Why (And How
 summary: 'What’s the best way to track file downloads in Google Analytics? Will the Digital Analytics Program (DAP) help me track PDF/.doc/.xls downloads? Are my download numbers accurate? Why aren’t my file downloads appearing in the web analytics data? The answers to these questions aren’t abundantly clear to even seasoned web analysts. But here’s the good news:'
 authors:
   - ilee
-categories:
-  - Metrics
-tag:
+topics:
+  - metrics
   - analytics
   - DAP
   - Digital Analytics Program

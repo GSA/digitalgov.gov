@@ -5,13 +5,12 @@ title: New U.S. Digital Registry Authenticates Official Public Service Accounts
 summary: ' Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We’d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you'
 authors:
   - jherman
-categories:
+topics:
   - Our Work
-  - Social Media
-tag:
-  - analytics.usa.gov
-  - API
-  - MobileGov
+  - social-media
+  - analytics-usa-gov
+  - api
+  - mobile-gov
   - open source
   - SocialGov
   - Terms of Service

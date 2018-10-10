@@ -5,10 +5,9 @@ title: Search Is the New Big Data Recap
 summary: 'Search is easy, right? You type a term in a search box and the exact page you&#8217;re looking for appears at the top of the list of results. But search is hard and has many shades of grey. On April 10, 2014, Loren Siebert, our DigitalGov Search senior search architect, presented on: Complexities of recall'
 authors:
   - ammie-farraj-feijoo
-categories:
-  - Code
-  - Content
-tag:
+topics:
+  - code
+  - content
   - DigitalGov Search
   - open source
   - Recaps

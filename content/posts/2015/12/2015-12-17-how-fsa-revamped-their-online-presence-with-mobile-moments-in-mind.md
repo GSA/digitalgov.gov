@@ -5,17 +5,16 @@ title: How FSA Revamped Their Online Presence with Mobile Moments in Mind
 summary: Let the mic drop! Mobile moments are created with the expectation that an app can stun the crowd. Do not let your audience down; they may never come back. Federal Student Aid (FSA), in an effort to provide better customer service, decided to build a mobile-responsive website. Kaegy Pabulos, a Borrower Experience Specialist and project
 authors:
   - jenny-johnson
-categories:
-  - Mobile
-  - UX
-tag:
+topics:
+  - mobile
+  - ux
   - FAFSA
   - Federal Student Aid
   - mobile
-  - mobile testing
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
+  - mobile-testing
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-5
   - Recaps
 ---
 

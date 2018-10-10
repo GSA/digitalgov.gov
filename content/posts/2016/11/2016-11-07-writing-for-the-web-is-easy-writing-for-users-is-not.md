@@ -7,11 +7,10 @@ authors:
   - chris-goranson
   - emileigh-barnes
   - phoebe-espiritu
-categories:
-  - Content
+topics:
+  - content
   - user-testing-and-research
   - Writing
-tag:
   - accessibility
   - content
   - Plain language

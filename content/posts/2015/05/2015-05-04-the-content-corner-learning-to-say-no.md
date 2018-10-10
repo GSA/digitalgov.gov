@@ -5,10 +5,9 @@ title: 'The Content Corner: Learning to Say No'
 summary: 'There is a quote that goes something like, &#8220;Just because we can do a thing, it does not follow that we must do a thing.&#8221; I attribute it to the President of the United Federation of Planets in Star Trek VI: The Undiscovered Country, partially because I am a geek, and secondly, the internet provided'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
   - content strategy
   - The Content Corner
 ---

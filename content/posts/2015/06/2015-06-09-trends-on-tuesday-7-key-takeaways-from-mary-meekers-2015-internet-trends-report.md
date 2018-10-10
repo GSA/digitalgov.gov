@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: 7 Key Takeaways From Mary Meeker&#8217;s 2015 Interne
 summary: ' Silicon Valley analyst Mary Meeker’s annual 2015 Internet Trends report has been released and is an exhaustive analysis of the world’s digital evolution (often mobile first driven) and how it is affecting business, culture'
 authors:
   - wsullivan
-categories:
-  - Managing Digital
-  - Mobile
-tag:
+topics:
+  - managing-digital
   - mobile
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-5
   - mobile-first
   - Trends on Tuesday
 ---

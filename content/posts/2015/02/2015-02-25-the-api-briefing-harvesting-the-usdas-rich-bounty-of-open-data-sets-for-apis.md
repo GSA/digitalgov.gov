@@ -5,14 +5,13 @@ title: 'The API Briefing: Harvesting the USDA’s Rich Bounty of Open Data Sets 
 summary: APIs and apps have been created for almost every aspect of human life. There are alarm clock apps, fitness apps, cooking apps, and personal finance apps, just to name a few of the thousands of apps available today. Most areas of society are well-represented in the app world except for one large portion of the
 authors:
   - bbrantley
-categories:
-  - API
-tag:
-  - API
+topics:
+  - api
+  - api
   - Internet of things
   - US Department of Agriculture
   - USDA
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="Data Center" caption="" >}} 

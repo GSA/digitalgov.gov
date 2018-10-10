@@ -5,17 +5,16 @@ title: 'Track Time and Wages with Labor&#8217;s Timesheet App'
 summary: Believe it or not, even a couple years ago, I was using pen and paper to record and track the hours I worked. It was definitely a chore, reconciling work hours with leave, overtime and any number of other entries, week after week. However, in these times of mobile apps for almost anything, several products
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
-  - mobile apps
-  - native app
-  - native apps
+topics:
+  - mobile
+  - mobile-apps
+  - native-app
+  - native-apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Labor
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Timesheet-Form-Hailshadow-iStock-Thinkstock-492303047.jpg" alt="A paper timesheet form" caption="" >}} 

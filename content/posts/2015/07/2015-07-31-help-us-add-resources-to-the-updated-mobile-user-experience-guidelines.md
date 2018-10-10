@@ -5,19 +5,18 @@ title: Help Us Add Resources to the Updated Mobile User Experience Guidelines!
 summary: 'Government agencies need to make sure their mobile websites and native apps don’t become one of the estimated billions of applications that end up in the app graveyard. The need for digital products to work better is not new in the federal government. Resources like the Digital Playbook and Public Participation Playbook have had impact'
 authors:
   - jparcell
-categories:
-  - Mobile
-  - UX
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 5
-  - Mobile UX Guideline 6
-  - MobileGov
-  - native apps
+  - ux
+  - mobile
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-5
+  - mobile-ux-guideline-6
+  - mobile-gov
+  - native-apps
   - responsive web design
   - security
 ---

@@ -5,11 +5,10 @@ title: Resources and Tools for APIs
 summary: 'Hosted API Tools Labs.Data.gov is a repository of shared services to prototype and provide developer resources to government agencies. Each tool uses Web services and lightweight, open source code to provide powerful functionality. Agencies are encouraged to improve any project and submit pull requests in order to share the improvements with others. API Standards Template With the open'
 authors:
   - gray-brooks
-categories:
-  - API
-  - Code
-tag:
-  - API
+topics:
+  - api
+  - code
+  - api
   - CDC
   - Census
   - DOL
@@ -18,7 +17,7 @@ tag:
   - FCC
   - GSA
   - HHS
-  - NASA
+  - nasa
   - SBA
   - US Department of Labor
 ---

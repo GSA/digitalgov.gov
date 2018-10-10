@@ -5,14 +5,13 @@ title: 'The API Briefing: Two Great Housing APIs and Why HUD Needs to Build More
 summary: ' Recently, a reader pointed out that some of the APIs I write about are not really APIs but just datasets. Technically that is true but it only takes some development effort to turn a into an API. That is why I also highlight interesting federal datasets along with federal APIs.'
 authors:
   - bbrantley
-categories:
-  - API
-tag:
+topics:
+  - api
   - HUD
   - US Department of Agriculture
   - United States Department of Housing and Urban Development
   - USDA
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591" >}}

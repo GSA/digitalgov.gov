@@ -5,16 +5,15 @@ title: Focus on Nutrition with DRI Calculator for Healthcare Professionals App
 summary: 'For those of us who need to get our diet under control&mdash;and keep it that way&mdash;we surely have noticed the recent explosion of health apps and wearable fitness trackers. No doubt we’ve all thought about buying one of those at $100 to $150 bucks a'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Federal Mobile Products Registry
   - ICE
-  - native app
-  - Thursday Mobile Products
+  - native-app
+  - thursday-mobile-products
   - US Department of Agriculture
   - US Immigration and Customs Enforcement
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - USDA
 ---
 

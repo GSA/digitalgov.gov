@@ -5,12 +5,11 @@ title: 'Widgets, Mobile Apps, and SMS: Essential Agency Tools for Summer Heat Sa
 summary: 'According to recent Pew Research Center surveys, 45 percent of American adults have tablets and 68 percent have smartphones. While the majority of smartphone owners use their mobile devices to keep up with breaking news and stay informed about what is happening in their communities, nearly half, 40 percent, also reported using their smartphones to look up government services or'
 authors:
   - toni-bonitto
-categories:
-  - Code
-  - Content
-  - Mobile
-  - Social Media
-tag:
+topics:
+  - code
+  - content
+  - mobile
+  - social-media
   - app
   - content
   - content syndication
@@ -19,7 +18,7 @@ tag:
   - FEMA
   - HHS
   - mobile
-  - mobile apps
+  - mobile-apps
   - multilingual
   - National Oceanic and Atmospheric Administration
   - National Weather Service
@@ -27,10 +26,10 @@ tag:
   - NWS
   - sms
   - social media
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - US Department of Veterans Affairs
   - VA
-  - White House
+  - white-house
 ---
 
 According to recent Pew Research Center surveys, [45 percent of American adults have tablets and 68 percent have smartphones](http://www.pewinternet.org/2015/10/29/technology-device-ownership-2015/). While the majority of smartphone owners use their mobile devices to keep up with breaking news and stay informed about what is happening in their communities, nearly half, [40 percent](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/), also reported using their smartphones to look up government services or information. 

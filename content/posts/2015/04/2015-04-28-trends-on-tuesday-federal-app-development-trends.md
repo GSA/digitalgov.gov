@@ -5,16 +5,15 @@ title: 'Trends on Tuesday: Federal App Development Trends'
 summary: Mobile apps meet real world needs. App development is not a homogenous process, however. Apple and Android devices are overwhelmingly dominant in device ownership and app development. So, we examined the Federal Mobile Apps Directory for iOS and Android offerings. We noticed a predominance
 authors:
   - awichman
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile App Development Program
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 4
-  - Mobile UX Guideline 6
+  - mobile
+  - mobile-app-development-program
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-4
+  - mobile-ux-guideline-6
   - Trends on Tuesday
 ---
 

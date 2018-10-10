@@ -5,16 +5,15 @@ title: 'The Content Corner: Helping Your Content Contributors'
 summary: 'Recently, I shared some suggestions and personal lessons learned for agencies either shopping for a new CMS or preparing to revamp their content strategy and workflow. Let’s take things one step further and focus on arguably the most important parts of your CMS: the content creator or user. Arguments can be made that content is the most'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-  - Design
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - design
+  - administrative-office-of-the-united-states-courts
   - CMS
-  - Content Management System
+  - content-management-system
   - content strategy
   - The Content Corner
-  - user experience
+  - user-experience
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Woman-typing-on-laptop-Jupiterimages-Stockbyte-Thinkstock-86541717.jpg" alt="Woman typing on laptop." caption="" >}} 

@@ -5,26 +5,26 @@ title: 'The Data Briefing: I, For One, Welcome Our New Chatbot Blockchain Digita
 summary: 'It is at the intersections of fields where you find the most fascinating and innovative concepts. Recently, a conference on &ldquo;Open Human Resources and the Cognitive Era&rdquo; explored the use of chatbots and blockchain technologies in human resources. Human Resources (HR) is quietly undergoing a revolution as many HR practitioners are transforming HR by using'
 authors:
   - bbrantley
-categories:
-  - API
-  - Code
+topics:
+  - api
+  - code
   - Data
-  - Managing Digital
-  - strategy-and-policy
-  - UX
-tag:
-  - API
+  - managing-digital
+  - strategy
+  - policy
+  - ux
+  - api
   - blockchain
   - chatbots
-  - Customer Experience
+  - customer-experience
   - customer service
   - CX
   - data
   - Internet of things
   - security
-  - The Data Briefing
-  - user experience
-  - UX
+  - the-data-briefing
+  - user-experience
+  - ux
 ---
 
 It is at the intersections of fields where you find the most fascinating and innovative concepts. Recently, a conference on “Open Human Resources and the Cognitive Era” explored the use of chatbots and blockchain technologies in human resources. Human Resources (HR) is quietly undergoing a revolution as many HR practitioners are transforming HR by using open source concepts. It is fascinating to see how cognitive technologies and cloud technologies are changing HR from a transactional and compliance function to an essential strategic organizational asset. Let us examine three innovative technologies that, joined, can reinvent how Federal agencies do their HR work (and work in general).

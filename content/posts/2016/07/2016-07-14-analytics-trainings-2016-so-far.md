@@ -5,14 +5,13 @@ title: 'Analytics Trainings: 2016 So Far'
 summary: 'In 2016, the Digital Analytics Program (DAP) team has ramped up our training schedule. We appreciate all the DAP users that have attended our trainings and we’re happy to provide the material. We’ve had many users ask about video of our sessions, so we wanted to provide you with some of our recorded trainings from'
 authors:
   - ilee
-categories:
-  - Metrics
-tag:
+topics:
+  - metrics
   - analytics
   - DAP
   - DGU
   - Digital Analytics Program
-  - DigitalGov University
+  - digitalgov-university
   - Google Analytics
   - metrics
   - Recaps

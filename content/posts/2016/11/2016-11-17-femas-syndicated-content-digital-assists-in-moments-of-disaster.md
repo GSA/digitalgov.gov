@@ -5,18 +5,17 @@ title: 'FEMA’S Syndicated Content: Digital Assists in Moments of Disaster'
 summary: 'I recently interviewed Daniel Kuhns, Web Manager at FEMA, about the site widgets and the FEMA app his organization has been developing. The widgets currently available include: FEMA App, Preparedness, Severe Weather, Private Sector, Kids Fire Safety, and Are you a Disaster Survivor. The FEMA App offers'
 authors:
   - christen-geiler
-categories:
-  - Code
-  - Content
-  - Managing Digital
-  - Mobile
-tag:
+topics:
+  - code
+  - content
+  - managing-digital
+  - mobile
   - content
   - content strategy
   - content syndication
   - Federal Emergency Management Agency
   - FEMA
-  - mobile apps
+  - mobile-apps
   - multilingual
 ---
 

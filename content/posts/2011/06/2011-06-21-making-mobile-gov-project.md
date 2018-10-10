@@ -5,11 +5,10 @@ title: Making Mobile Gov Project
 summary: 'Making Mobile Gov was a three phase multi-media project created by the MobileGov Community of Practice to help federal agencies discover, discuss and design a citizen-centric path to mobile government services and information. Held during the summer 2011, this project served three strategic goals: Educate&mdash;provide resources for mobile evangelists to help inform decision makers on'
 authors:
   - jparcell
-categories:
-  - Managing Digital
-  - Mobile
+topics:
+  - managing-digital
+  - mobile
   - Our Work
-tag:
   - GSA
   - mobile
   - US Department of Education

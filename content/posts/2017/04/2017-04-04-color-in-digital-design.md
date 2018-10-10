@@ -5,17 +5,16 @@ title: Color in Digital Design
 summary: 'How do we choose color in digital design? In print, we have the Pantone fan and what you see is what you get &mdash; as long as your printer is color calibrated. With computer monitors, one does not get such precision, even within one office. So how much time and effort do you spend on color selection?'
 authors:
   - angela-smithers
-categories:
-  - Content
-  - Design
-  - Managing Digital
-  - UX
-tag:
+topics:
+  - content
+  - design
+  - managing-digital
+  - ux
   - communities
   - US Web Design Standards
-  - user experience
-  - User Experience Community of Practice
-  - UX
+  - user-experience
+  - user-experience-community-of-practice
+  - ux
   - Web Content Managers Forum
 ---
 
