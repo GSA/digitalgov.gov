@@ -1,0 +1,20 @@
+{{/* Communities / Featured */}}
+<section id="communities">
+  <div class="grid-container padding-x-2">
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-7">
+        <header>
+          <p><strong>Over 11,000 people</strong> are collaborating across government in our communities of practice.</p>
+        </header>
+      </div>
+      <div class="grid-col-5">
+        {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
+        {{ $communities := shuffle $communities }}
+        {{ range $i, $e := first 2 $communities }}
+          <h4><a href="{{ $e.Permalink }}" title="{{ $e.Title }}"><strong>{{ $e.Title }}</strong></a></h4>
+          <p>{{ $e.Params.summary }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>

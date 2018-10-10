@@ -1,0 +1,85 @@
+{{/* Training & Events / Featured */}}
+<section id="training-events">
+  <div class="grid-container padding-x-2">
+
+    <div class="grid-row grid-gap-2">
+      <div class="grid-col-12">
+        <header>
+          <h2>Learn from the best</h2>
+          <p>Training text government-wide elevate your skills text goes here.</p>
+        </header>
+      </div>
+    </div>
+
+    <div class="grid-row grid-gap-2">
+      <div class="grid-col-12 tablet:grid-col-6">
+        {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
+        {{- range $events -}}
+          {{- $now := now.Format "2006-01-02" -}}
+          {{- $start := .Date.Format "2006-01-02" -}}
+          {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
+
+          {{- if or (ge $start $now) (ge $end $now)}}
+          <article class="featured_event">
+            <div class="grid-row grid-gap-2">
+              <div class="grid-col-3">
+                <div class="date">
+                  <span class="month">{{- .Date.Format "Jan" -}}</span>
+                  <span class="day">{{- .Date.Format "02" -}}</span>
+                </div>
+                <div class="register">
+                  <a href="#">Register</a>
+                </div>
+              </div>
+              <div class="grid-col-9">
+                <header>
+                  <h3><a href="{{- .URL -}}" title="{{- .Title | markdownify -}}" rel="bookmark">{{- .Title | markdownify -}}</a></h3>
+                  <p>{{- .Params.summary -}}</p>
+                </header>
+              </div>
+            </div>
+          </article>
+          {{- end -}}
+        {{- end -}}
+      </div>
+
+      <div class="grid-col-12 tablet:grid-col-6">
+        <div class="events-table">
+          <div class="youtube-player" data-id="yo5bsqixpNU"></div>
+        </div>
+      </div>
+      <script type="text/javascript">
+        /* Light YouTube Embeds by @labnol */
+        /* Web: http://labnol.org/?p=27941 */
+
+        document.addEventListener("DOMContentLoaded",
+            function() {
+                var div, n,
+                    v = document.getElementsByClassName("youtube-player");
+                for (n = 0; n < v.length; n++) {
+                    div = document.createElement("div");
+                    div.setAttribute("data-id", v[n].dataset.id);
+                    div.innerHTML = labnolThumb(v[n].dataset.id);
+                    div.onclick = labnolIframe;
+                    v[n].appendChild(div);
+                }
+            });
+
+        function labnolThumb(id) {
+            var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
+                play = '<div class="play"></div>';
+            return thumb.replace("ID", id) + play;
+        }
+
+        function labnolIframe() {
+            var iframe = document.createElement("iframe");
+            var embed = "https://www.youtube.com/embed/ID?autoplay=1";
+            iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
+            iframe.setAttribute("frameborder", "0");
+            iframe.setAttribute("allowfullscreen", "1");
+            this.parentNode.replaceChild(iframe, this);
+        }
+      </script>
+    </div>
+  </div>
+</section>

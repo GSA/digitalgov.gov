@@ -16,7 +16,7 @@ icon: 'codegov.png'
 weight: 3
 
 tag:
-  - accessibility
   - open-source
+  - code
 
 ---

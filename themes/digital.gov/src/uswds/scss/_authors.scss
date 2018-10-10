@@ -13,7 +13,7 @@
 			h5{
 				@include u-margin-y('05');
 				@include u-font('sans', 'xs');
-				@include u-text('light');
+				@include u-text('semibold');
 				@include u-line-height('sans', 1);
 				a{
 					color:#000;
