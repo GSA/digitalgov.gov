@@ -3,5 +3,16 @@
 #communities{
   @include u-padding-y(5);
   @include u-padding-bottom(6);
-  @include u-bg('yellow-10v');
+  header{
+    h2{}
+    p{
+      @include u-font('sans', 'xl');
+      @include u-text('light');
+      @include u-line-height('sans', 2);
+      strong{
+        @include u-text('light');
+        @include u-text('indigo-60v');
+      }
+    }
+  }
 }

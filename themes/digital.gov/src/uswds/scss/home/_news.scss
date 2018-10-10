@@ -59,7 +59,7 @@
       p{
         @include u-line-height('sans', 3);
         strong{
-          color: #4d52b0;
+          @include u-text('indigo-60v');
         }
         a{
           z-index: 2; // this pops the link out, above the <span> element described above
