@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - mobile
-  - Video
+  - video
   - mobile
   - mobile-ux-guideline-1
   - Trends on Tuesday

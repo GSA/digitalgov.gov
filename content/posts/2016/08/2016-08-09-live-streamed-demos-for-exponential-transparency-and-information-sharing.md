@@ -11,7 +11,7 @@ topics:
   - managing-digital
   - strategy
   - policy
-  - Video
+  - video
   - 18f
   - audio
   - audio-video

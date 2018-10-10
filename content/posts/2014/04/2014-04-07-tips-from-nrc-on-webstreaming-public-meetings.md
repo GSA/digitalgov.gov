@@ -7,7 +7,7 @@ authors:
   - christine-kundrat
   - danita-stenberg
 topics:
-  - Video
+  - video
   - NRC
   - Nuclear Regulatory Commission
   - open government

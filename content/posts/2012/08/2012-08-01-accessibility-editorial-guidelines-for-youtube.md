@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - content
-  - Video
+  - video
   - accessibility
   - GobiernoUSAgov
   - multilingual

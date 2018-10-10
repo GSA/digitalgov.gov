@@ -10,7 +10,7 @@ topics:
   - content
   - Our Work
   - social-media
-  - Video
+  - video
   - DigitalGov Search
   - Federal Register
   - National Library of Medicine

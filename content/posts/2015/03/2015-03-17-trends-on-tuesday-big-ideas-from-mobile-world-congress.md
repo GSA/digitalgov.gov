@@ -13,7 +13,7 @@ topics:
   - mobile-ux-guideline-6
   - Trends on Tuesday
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
 ---
 
 {{< legacy-img src="2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" >}}

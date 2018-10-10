@@ -9,7 +9,7 @@ topics:
   - content
   - managing-digital
   - social-media
-  - Video
+  - video
   - app
   - audio-video
   - content

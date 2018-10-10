@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - Video
+  - video
   - Writing
   - CDC
   - Centers for Disease Control and Prevention

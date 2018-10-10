@@ -9,7 +9,7 @@ authors:
   - gary-morin
 topics:
   - accessibility
-  - Video
+  - video
   - section 508
   - US Access Board
   - YouTube

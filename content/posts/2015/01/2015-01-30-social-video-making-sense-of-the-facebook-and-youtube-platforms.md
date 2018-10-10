@@ -7,7 +7,7 @@ authors:
   - randy-abramson
 topics:
   - social-media
-  - Video
+  - video
   - BBG
   - Broadcasting Board of Governors
   - DOI

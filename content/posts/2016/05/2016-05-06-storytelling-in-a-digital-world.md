@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - content
-  - Video
+  - video
   - content strategy
   - EPA
   - US Environmental Protection Agency

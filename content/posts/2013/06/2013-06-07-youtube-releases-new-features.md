@@ -7,7 +7,7 @@ authors:
   - jason-kelly
 topics:
   - social-media
-  - Video
+  - video
   - mobile
   - YouTube
 ---

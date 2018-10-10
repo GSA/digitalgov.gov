@@ -11,20 +11,20 @@ topics:
   - policy
   - user-testing-and-research
   - ux
-  - Video
+  - video
   - audio-video
   - augmented-reality
   - DHS
   - Gamification
-  - Research
+  - research
   - Security
   - Training
   - United States Army
   - United States Department of Homeland Security
-  - Video
-  - Video Production Pros Community
-  - Virtual Reality
-  - Virtual/Augmented Reality Community
+  - video
+  - video-production-pros-community
+  - virtual-reality
+  - virtual-augmented-reality-community
 
 ---
 

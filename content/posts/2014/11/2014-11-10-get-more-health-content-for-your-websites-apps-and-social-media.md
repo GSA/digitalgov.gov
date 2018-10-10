@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - mobile
-  - Video
+  - video
   - CDC
   - Centers for Disease Control and Prevention
   - content syndication

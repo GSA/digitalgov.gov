@@ -22,7 +22,7 @@ topics:
   - user-experience
   - ux
   - video
-  - Video Production Pros community
+  - video-production-pros-community
 ---
 
 > _This post was originally published on the [U.S. Department of Labor Blog](https://blog.dol.gov/)._

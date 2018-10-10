@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - social-media
-  - Video
+  - video
   - DAP
   - multimedia
   - section 508

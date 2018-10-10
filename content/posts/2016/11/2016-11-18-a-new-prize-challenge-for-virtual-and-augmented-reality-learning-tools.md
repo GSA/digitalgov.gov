@@ -14,7 +14,7 @@ topics:
   - challenges and prize competitions
   - challenges-and-prizes-community-of-practice
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
 ---
 
 _Summary: The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education._

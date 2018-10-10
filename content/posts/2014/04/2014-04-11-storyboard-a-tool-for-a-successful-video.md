@@ -7,7 +7,7 @@ authors:
   - jini-ryan
 topics:
   - content
-  - Video
+  - video
   - apps challenges
   - EPA
   - US Environmental Protection Agency

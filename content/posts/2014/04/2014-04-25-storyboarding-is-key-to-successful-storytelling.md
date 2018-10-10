@@ -7,7 +7,7 @@ authors:
   - katie-gorscak
 topics:
   - content
-  - Video
+  - video
   - HHS
   - United States Department of Health and Human Services
 ---

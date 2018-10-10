@@ -13,7 +13,7 @@ topics:
   - strategy
   - policy
   - ux
-  - Video
+  - video
   - accessibility
   - best practices
   - content

@@ -9,7 +9,7 @@ topics:
   - accessibility
   - Monthly Theme
   - social-media
-  - Video
+  - video
   - Writing
   - accessibility
   - crowdsourcing

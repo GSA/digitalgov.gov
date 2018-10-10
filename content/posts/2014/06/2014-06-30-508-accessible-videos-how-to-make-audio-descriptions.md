@@ -9,7 +9,7 @@ authors:
   - gary-morin
 topics:
   - accessibility
-  - Video
+  - video
   - DOJ
   - nasa
   - section 508

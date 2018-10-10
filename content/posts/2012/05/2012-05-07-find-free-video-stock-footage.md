@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - ux
-  - Video
+  - video
 ---
 
 ## [

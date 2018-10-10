@@ -9,7 +9,7 @@ topics:
   - api
   - Our Work
   - social-media
-  - Video
+  - video
   - DigitalGov Search
   - instagram
 ---

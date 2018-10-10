@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - user-testing-and-research
-  - Video
+  - video
   - audio-video
   - broadband
   - data

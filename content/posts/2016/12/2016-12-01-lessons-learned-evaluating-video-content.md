@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - user-testing-and-research
   - ux
-  - Video
+  - video
   - audio-video
   - CFPB
   - Consumer Financial Protection Bureau

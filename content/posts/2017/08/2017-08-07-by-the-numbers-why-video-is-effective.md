@@ -8,13 +8,13 @@ authors:
 topics:
   - content
   - social-media
-  - Video
+  - video
   - audio-video
   - content
   - hiv-gov
   - social media
   - video
-  - Video Production Pros community
+  - video-production-pros-community
 ---
 
 <p dir="ltr">

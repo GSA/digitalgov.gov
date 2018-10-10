@@ -12,7 +12,7 @@ topics:
   - mobile
   - social-media
   - ux
-  - Video
+  - video
   - communities
   - content
   - Digital Audio/Video Community

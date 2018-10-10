@@ -61,7 +61,7 @@ topics:
   - TTS
   - US General Services Administration
   - virtual reality
-  - Virtual/Augmented Reality Community
+  - virtual-augmented-reality-community
   - webinar
 ---
 

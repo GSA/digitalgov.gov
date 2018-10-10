@@ -9,7 +9,7 @@ topics:
   - content
   - Monthly Theme
   - social-media
-  - Video
+  - video
   - BBG
   - Broadcasting Board of Governors
   - content

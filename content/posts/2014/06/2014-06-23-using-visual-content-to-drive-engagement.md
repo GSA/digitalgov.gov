@@ -8,7 +8,7 @@ authors:
 topics:
   - Monthly Theme
   - social-media
-  - Video
+  - video
   - Writing
   - Consumer Action Handbook
   - USAgov

@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - content
-  - Video
+  - video
   - accessibility
   - privacy
 ---

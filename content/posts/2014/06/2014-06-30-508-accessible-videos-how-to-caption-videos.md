@@ -9,7 +9,7 @@ authors:
   - jonathan-rubin
 topics:
   - accessibility
-  - Video
+  - video
   - section 508
   - YouTube
 ---
