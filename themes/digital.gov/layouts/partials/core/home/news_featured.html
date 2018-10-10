@@ -1,0 +1,67 @@
+{{/* News + Spotlight / Featured */}}
+{{/* Spotlight */}}
+<section id="news">
+  <div class="grid-container padding-x-2">
+    <div class="grid-row grid-gap-4">
+
+      {{/* Featured Blog Posts */}}
+      <div class="grid-col-12 tablet-lg:grid-col-8 tablet-lg:order-2 order-1">
+        <section class="article-list">
+          {{- $posts := where .Data.Pages "Section" "posts" -}}
+          {{- range first 4 $posts.ByWeight -}}
+          {{ $editthis := printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path }}
+          <article data-edit-this="{{ $editthis }}">
+            <div class="grid-row grid-gap-3">
+              <div class="grid-col-3 tablet:grid-col-4">
+                <div class="media">
+                  <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
+                    {{ partial "img-featured--home.html" . }}
+                  </a>
+                </div>
+              </div>
+              <div class="grid-col-9 tablet:grid-col-8">
+                <header>
+                  <h3><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></h3>
+                  <p>{{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
+
+                </header>
+                <footer>
+                  <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2" -}}</a><span>&#10038;</span>{{- partial "core/get_authors_short" . -}}
+                </footer>
+              </div>
+            </div>
+          </article>
+          {{- end -}}
+        </section>
+      </div>
+
+      {{/* Stream of Spots */}}
+      <div class="grid-col-12 tablet-lg:grid-col-4 tablet-lg:order-1 order-2">
+        <section class="spotlight">
+
+          <header>
+            <h2>Spotlight</h2>
+            <p>A round-up of relevant news and resources from across our community</p>
+          </header>
+          <section>
+            {{- $spots := where .Data.Pages "Section" "spot" -}}
+            {{- range first 5 $spots -}}
+
+            <article class="spot">
+              {{- .Content -}}
+              <p class="source"><a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">{{- .Params.source_name -}}</a></p>
+              <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
+            </article>
+
+            {{- end -}}
+          </section>
+          <footer>
+            <p><a href="#">Have something to add? Send us a note</a> </p>
+            <p><i class="fas fa-envelope"></i> <a href="#newsletter">Subscribe to Spotlight</a></p>
+          </footer>
+        </section>
+      </div>
+
+    </div>
+  </div>
+</section>
