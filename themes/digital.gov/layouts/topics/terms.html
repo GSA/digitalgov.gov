@@ -25,19 +25,6 @@
               <li>
                 <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a> <em>{{ .Weight }}</em>
               </li>
-
-            {{ end }}
-          </ul>
-          =========================
-          <ul class="add-list-reset display-none">
-            {{ $topics := $.Site.Taxonomies.topics }}
-            {{ range $name, $taxonomy := $topics }}
-              {{ $count := .Count }}
-              {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
-              <li>
-                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
-              </li>
-              {{ end }}
             {{ end }}
           </ul>
         </section>
