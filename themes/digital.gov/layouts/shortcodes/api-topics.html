@@ -1,29 +1,22 @@
-{{- $list := $.Site.Taxonomies.topics -}}
-{{- $length := (len $list) -}}
+{{- $list := (where .Site.Pages "Section" "topics") -}}
+{{- $length := len $list -}}
 {
   "version" : "https://jsonfeed.org/version/1",
   "title" : "Topics | {{- .Site.Title -}}",
   "home_page_url" : "{{- .Site.BaseURL -}}",
-  "count" : "{{- $length -}}",
+  "count" : "{{ $length }}",
   "items" : [
-{{- range $name, $taxonomy := $list -}}
-  {{- $tax := (len $taxonomy) -}}
-  {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
+  {{- range $i, $e := $list.ByTitle -}}
     {
-      "slug" : "{{ $name -}}",
+      "slug" : "{{ .URL | replaceRE "^/topics/([^/]+).*" "$1" }}",
+      "path" : "{{ .URL -}}",
       "display_name" : "{{ .Title -}}",
       "summary" : "{{ .Params.summary -}}",
-      "pages" : "{{- $tax -}}",
       "weight" : "{{- .Params.weight -}}"
-    },
-  {{ end }}
-{{ end }}
-    {
-      "slug" : "zzz",
-      "display_name" : "zzz",
-      "summary" : "",
-      "pages" : "0",
-      "weight" : "1"
     }
+    {{- $.Scratch.Add "i" 1 -}}
+    {{- $iterator := $.Scratch.Get "i" -}}
+    {{- if not (eq $length $iterator) -}}, {{- end -}}
+  {{ end }}
   ]
 }
