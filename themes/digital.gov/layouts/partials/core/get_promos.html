@@ -5,7 +5,7 @@
 */}}
 
 {{/* Gets the tags associated with this post */}}
-{{ $post_tags := .Params.tag }}
+{{ $post_tags := .Params.topics }}
 
 {{/* IMPORTANT */}}
 {{/* This is an empty array (a.k.a. slice) */}}
@@ -27,7 +27,7 @@
     {{ range $i, $e := . }}
 
       {{/* get the tags associated with the promo */}}
-      {{ $promo_tags := .Params.tag }}
+      {{ $promo_tags := .Params.topics }}
 
       {{/* If the $tag is in one of these promos,... */}}
       {{/* display the promo */}}
