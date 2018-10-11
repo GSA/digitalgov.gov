@@ -177,7 +177,7 @@ This is a list of free tools and services that have federal-compatible Terms of 
 
 ### Federal Mobile Apps Directory
 
-A sortable list of all known federal government apps [https://www.usa.gov/mobile-apps](https://www.usa.gov/mobile-apps)
+A sortable list of all known federal government apps [https://www.usa.gov/mobile-apps](https://www.usa.gov/mobile-apps) 
 
 ### U.S. Digital Registry
 
