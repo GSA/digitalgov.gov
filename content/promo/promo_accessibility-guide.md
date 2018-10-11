@@ -11,7 +11,7 @@ src: 'https://accessibility.digital.gov/'
 
 # Images need to be 200x200px with a transparent background
 # Upload images to /static/images/promos/filename.png
-icon: ""
+icon: "accessibility.png"
 
 # Weight control how these promos appear on the site
 # 3 == will be part of the rotaion on the homepage
