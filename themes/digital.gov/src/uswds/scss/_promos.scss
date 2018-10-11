@@ -1,12 +1,5 @@
 // promos
 
-#related_promos {
-  @include u-margin-top(5);
-  article.promo{
-    @include u-margin-bottom(2);
-  }
-}
-
 // The individual promos
 article.promo{
   @include u-margin-bottom(2);

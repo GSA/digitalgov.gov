@@ -13,5 +13,10 @@ src: 'https://search.gov/'
 # Upload images to /static/images/promos/filename.png
 icon: 'searchgov.png'
 
+# Weight control how these promos appear on the site
+# 3 == will be part of the rotaion on the homepage
+# 2 == will show on the services page
+# 1 == will show on the other govt-services page
+# 0 == hidden promo
 weight: 3
 ---

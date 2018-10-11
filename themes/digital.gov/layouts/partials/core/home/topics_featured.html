@@ -4,7 +4,7 @@
     <div class="grid-row">
       <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
         <header>
-          <h2>Explore our Depths</h2>
+          <h2>Explore our Topics</h2>
           <p>We've been providing guidance and how-to material for over a decade.</p>
 
           <p><a href="{{ "topics" | absURL }}" title="All Topics">All Topics</a> &#8226; <a href="{{ "resources" | absURL }}">All Resources</a></p>
@@ -12,15 +12,18 @@
       </div>
     </div>
     <div class="grid-row grid-gap-2">
-      {{- range .Site.Data.topicsfeatured.toptopics -}}
-      <div class="grid-col-12 tablet:grid-col-4 flex-6">
-        <div class="topic topic-slim">
-          <h3>
-            <a class="text-no-underline text-ink" href="{{- .url | absURL -}}" title="{{- .name -}}">{{- .name -}}</a>
-          </h3>
+      {{ $topics := (where .Site.Pages "Section" "topics") }}
+      {{ range $name, $taxonomy := $topics.ByTitle }}
+        {{ if eq .Params.weight 3 }}
+        <div class="grid-col-12 tablet:grid-col-4 flex-6">
+          <div class="topic topic-slim">
+            <h3>
+              <a class="text-no-underline text-ink" href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}}</a>
+            </h3>
+          </div>
         </div>
-      </div>
-      {{- end -}}
+        {{ end }}
+      {{ end }}
     </div>
   </div>
 </section>

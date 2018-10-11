@@ -67,11 +67,9 @@
           @include u-text('no-underline');
           color: #000;
           img{
-            @include u-padding-right('05');
+            @include u-margin-right('05');
             position: relative;
             top:2px;
-            width:16px;
-            height:16px;
             background: #fff;
           }
           &:hover{

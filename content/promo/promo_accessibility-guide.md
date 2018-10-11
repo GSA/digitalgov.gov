@@ -11,10 +11,16 @@ src: 'https://accessibility.digital.gov/'
 
 # Images need to be 200x200px with a transparent background
 # Upload images to /static/images/promos/filename.png
+icon: "accessibility.png"
 
+# Weight control how these promos appear on the site
+# 3 == will be part of the rotaion on the homepage
+# 2 == will show on the services page
+# 1 == will show on the other govt-services page
+# 0 == hidden promo
 weight: 3
 
-tag:
+topics:
   - accessibility
   - design
 ---

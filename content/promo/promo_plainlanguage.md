@@ -11,7 +11,7 @@ src: 'https://plainlanguage.gov/'
 
 # Images need to be 200x200px with a transparent background
 # Upload images to /static/images/promos/filename.png
-# icon: 'plainlanguage.png'
+icon: 'plainlanguage.png'
 
 # Weight control how these promos appear on the site
 # 3 == will be part of the rotaion on the homepage
@@ -20,7 +20,7 @@ src: 'https://plainlanguage.gov/'
 # 0 == hidden promo
 weight: 3
 
-tag:
+topics:
   - accessibility
   - content
   - plain-language
