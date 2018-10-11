@@ -20,7 +20,7 @@ src: 'https://plainlanguage.gov/'
 # 0 == hidden promo
 weight: 3
 
-tag:
+topics:
   - accessibility
   - content
   - plain-language
