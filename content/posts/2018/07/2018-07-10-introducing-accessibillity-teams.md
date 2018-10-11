@@ -11,6 +11,7 @@ topics:
   - ux
   - section-508
   - methodology
+  - agile
   - design
 featured_image:
   uid: accessibility-for-teams-2

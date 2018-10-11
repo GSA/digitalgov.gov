@@ -19,4 +19,8 @@ icon: 'challengegov.png'
 # 1 == will show on the other govt-services page
 # 0 == hidden promo
 weight: 2
+
+topics:
+  - challenges
+  
 ---

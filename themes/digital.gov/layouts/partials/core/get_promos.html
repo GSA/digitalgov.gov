@@ -4,15 +4,15 @@
   ======================================
 */}}
 
-{{/* Gets the tags associated with this post */}}
-{{ $post_tags := .Params.topics }}
+{{/* Gets the get_topics associated with this post */}}
+{{ $post_topics := .Params.topics }}
 
 {{/* IMPORTANT */}}
 {{/* This is an empty array (a.k.a. slice) */}}
 {{ $.Scratch.Set "related_promos" (slice " ") }}
 
-{{/* For each tag in the post... */}}
-{{ range $i, $tag := $post_tags }}
+{{/* For each topic in the post... */}}
+{{ range $i, $topic := $post_topics }}
 
   {{/* Get all the promos */}}
   {{ $promos := $.Site.GetPage "page" "promo" }}
@@ -26,12 +26,12 @@
     {{/* For each promo */}}
     {{ range $i, $e := . }}
 
-      {{/* get the tags associated with the promo */}}
-      {{ $promo_tags := .Params.topics }}
+      {{/* get the topic associated with the promo */}}
+      {{ $promo_topics := .Params.topics }}
 
-      {{/* If the $tag is in one of these promos,... */}}
+      {{/* If the $topic is in one of these promos,... */}}
       {{/* display the promo */}}
-      {{ if in $promo_tags $tag }}
+      {{ if in $promo_topics $topic }}
 
       {{/* This appends/adds the .File.LogicalName to the array */}}
       {{ $.Scratch.Add "related_promos" (slice .File.LogicalName ) }}

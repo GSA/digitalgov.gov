@@ -3,7 +3,9 @@ url: /communities/accessibility/
 uid: accessibility
 title: 'Accessibility / Section 508 Community of Practice'
 summary: 'The IT Accessibility Community supports people in government who working to improve accessibility of information technology.'
-
+topics:
+  - accessibility
+weight: 3
 ---
 
 The IT Accessibility Community of Practice helps federal agencies buy and build accessible IT, with tools, training and best practices to support universal design, accessible development, and 508-compliant procurement. We work to encourage the adoption of accessible IT across the federal government.

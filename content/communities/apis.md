@@ -4,6 +4,8 @@ uid: apis
 date: 2018-03-29 3:30:00 -0400
 title: 'APIs'
 summary: 'Working to advance the cause of APIs in the federal government'
+topics:
+  - agile
 
 ---
 
@@ -17,14 +19,14 @@ To participate in this community of practice, join the [group mailing list](http
 
 ## Who we are
 
-The community mailing list is open to everyone, though some events will be limited to those with a federal **.gov** or **.mil** email address.  
+The community mailing list is open to everyone, though some events will be limited to those with a federal **.gov** or **.mil** email address.
 
 ## What we do
 
-* Share API news.  
-* Promote newly released APIs and developer hubs.  
-* Provide developer feedback for agencies.  
-* Help each other better understand APIs, how agencies are using them, and how to work with others at our agency to better understand this topic.  
+* Share API news.
+* Promote newly released APIs and developer hubs.
+* Provide developer feedback for agencies.
+* Help each other better understand APIs, how agencies are using them, and how to work with others at our agency to better understand this topic.
 
 ## Key Resources
 

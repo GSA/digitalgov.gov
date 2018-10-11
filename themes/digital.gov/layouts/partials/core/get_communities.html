@@ -1,29 +1,75 @@
 {{/*
   ======================================
-  AUTHORS
+  Promos (for articles)
   ======================================
 */}}
 
-{{- if (not (isset .Params "communities")) | or (eq .Params.communities "") -}}
-{{- else -}}
-  <div class="related_communities">
-    <h5><i class="fas fa-comments"></i> Join a Community</h5>
-    {{/* get the authors  */}}
-    {{- $_communities := .Params.communities -}}
+{{/* Gets the get_topics associated with this post */}}
+{{ $post_topics := .Params.topics }}
 
-    <ul>
-    {{- range $i, $e := $_communities -}}
+{{/* IMPORTANT */}}
+{{/* This is an empty array (a.k.a. slice) */}}
+{{ $.Scratch.Set "related_communities" (slice " ") }}
 
-      {{/* If the community name was entered as a display name (i.e. - "Social Media Community") then this will turn that text into a UID for use in a URL. */}}
-      {{- $uid := $e | urlize -}}
+{{/* For each topic in the post... */}}
+{{ range $i, $topic := $post_topics }}
 
-      {{- with $.Site.GetPage "page" $uid -}}
-        {{/* {{ .Params.title }} */}}
-        <li class="community "><a href="{{ (printf "communities/%s/" $uid) | absURL }} " title="{{ .Title  }} " rel="community">{{ .Title | default $uid }}</a></li>
+  {{/* Get all the communities */}}
+  {{ $communities := $.Site.GetPage "page" "communities" }}
+  {{/* {{ $communities }} */}}
+  {{ $communities := (where $.Site.Pages "Section" "communities") }}
+  {{/* Get all the communities WHERE page weight == 3 */}}
+  {{/* {{ $communities := where ($communities.Resources.ByType "page") ".Params.weight" 3 }} */}}
+  {{/* If there are any communities */}}
+  {{ with $communities }}
+
+    {{/* For each communities */}}
+    {{ range $i, $e := $communities }}
+      {{/* get the topic associated with the communities */}}
+      {{ $community_topics := .Params.topics }}
+
+      {{/* If the $topic is in one of these communities,... */}}
+      {{/* display the communities */}}
+      {{ if in $community_topics $topic }}
+
+      {{/* This appends/adds the .File.LogicalName to the array */}}
+      {{ $.Scratch.Add "related_communities" (slice .File.LogicalName ) }}
+
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Removes the duplicate file names in the array */}}
+{{ $related_communities := uniq ($.Scratch.Get "related_communities") }}
+
+{{ if $related_communities }}
+
+  <section id="related_communities">
+
+    <header>
+      <h3>Join a Community</h3>
+    </header>
+
+    {{/* Let's loop through the community pages that have similar topics! */}}
+    {{ range $i, $e := $related_communities }}
+
+      {{/* Finally we can get the communities/pages and their data */}}
+      {{ with $.Site.GetPage (print "/communities/" $e) }}
+        <article class="promo">
+          {{ if .Params.icon }}
+            {{ $src := print "/img/promos/" .Params.icon }}
+            <img src="{{ $src }}" alt="{{ .Params.head }} Icon">
+          {{ end }}
+          <h3><a href="{{ .Permalink }}?promo" title="{{ .Title }}">{{ .Title }}</a></h3>
+          <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>
+        </article>
       {{ end }}
 
-    {{- end -}}
+    {{ end }}
 
-    </ul>
-  </div>
-{{- end -}}
+    <footer>
+      <h5><a href="{{ "/communities/" | absURL }}">All {{ len (where .Site.Pages "Section" "communities") }} communities <i class="fas fa-arrow-alt-circle-right"></i></a></h5>
+    </footer>
+  </section>
+{{ end }}
