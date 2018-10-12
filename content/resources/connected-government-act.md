@@ -14,6 +14,8 @@ The [**Connected Government Act**](https://www.congress.gov/bill/115th-congress/
 
 The new law codifies OMB Memorandum M-17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016).
 
+The sections below were curated by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to help you make sure that your websites comply with the law. 
+
 {{< img src="hr2331-connected-govt-act" >}}
 
 ## What Is Mobile-Friendly?
@@ -160,15 +162,15 @@ When you are building an app or creating a mobile-friendly site, there are certa
 
 #### Security
 
-- **Navigating the Future of Mobile Services** <br />This document provides guidance and recommendations for vetting the security of mobile apps based on standards and agency best practices. <br />https://www.atarc.org/wp-content/uploads/2017/10/ATARC-MSCT-Report-Navigating-Future-of-Mobile-Services.pdf
+- **Navigating the Future of Mobile Services** <br />This document provides guidance and recommendations for vetting the security of mobile apps based on standards and agency best practices. <br />https://www.atarc.org/wp-content/uploads/2017/10/ATARC-MSCT-Report-Navigating-Future-of-Mobile-Services.pdf (PDF, 5.6 MB, 242 pages, October 2017)
 - **Making Your Agency Apps Secure** <br />Security and privacy are part of the six Mobile User Experience Guidelines developed by the MobileGov Community of Practice. This webinar dove further into guideline six: Develop security and privacy guidelines with regard to what the app does and how it protects user data and government systems. <br />https://www.digitalgov.gov/2016/01/21/making-your-agency-apps-secure/
 - **DHS Study on Mobile Device Security** <br />The Department of Homeland Security (DHS) submitted a report to Congress that details current and emerging threats to the federal government’s use of mobile devices and recommends security improvements to the mobile device ecosystem. The DHS Science and Technology Directorate (S&T) led the study in coordination with the National Institute of Standards and Technology (NIST) and its National Cybersecurity Center of Excellence. <br />https://www.digitalgov.gov/2017/05/04/dhs-study-on-mobile-device-security/
-- **CIO Council Federal Secure Mobility Toolkit** <br />The Chief Information Officers (CIO) Council’s Services, Strategy, and Infrastructure (SSI) Committee sponsored an initiative to identify agency secure mobility success stories to feature in a best practices report that agencies can use to model their own initiatives. <br />https://cioknowledge.max.gov/?q=system/files/attachment/Federal%20Secure%20Mobility%20Toolkit.pdf
+- **CIO Council Federal Secure Mobility Toolkit** <br />The Chief Information Officers (CIO) Council’s Services, Strategy, and Infrastructure (SSI) Committee sponsored an initiative to identify agency secure mobility success stories to feature in a best practices report that agencies can use to model their own initiatives. <br />https://cioknowledge.max.gov/?q=system/files/attachment/Federal%20Secure%20Mobility%20Toolkit.pdf (PDF, 1.7 MB, 44 pages, January 2018)
 
 #### Privacy
 
 - **Mobile SOW and Developer Qualifications** <br />We are providing sample Statement of Work (SOW) language for the procurement of customer or external-facing mobile products, skills, testing and mobile code sharing. This language is also included in the RFP-EZ contracting tool. Here are some guidelines for its use. <br />https://www.digitalgov.gov/resources/mobile-sow-and-developer-qualifications/
-- **Policies for Federal Agency Public Websites and Digital Services** <br />The review of privacy risks should begin at the earliest planning and development stages of agency actions and policies that involve PII, and should continue throughout the life cycle of the information. (See page 6) <br />https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf
+- **Policies for Federal Agency Public Websites and Digital Services** <br />The review of privacy risks should begin at the earliest planning and development stages of agency actions and policies that involve PII, and should continue throughout the life cycle of the information. (See page 6) <br />https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf (PDF, 1.2 MB, 18 pages, November 2016)
 
 #### Negotiated Federal Terms of Service
 
