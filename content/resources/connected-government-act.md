@@ -118,15 +118,14 @@ There are a number of resources in the private sector for designing excellent us
 
 ## Other Resources
 
-We’ve covered the essentials above, but below is information about policies, platforms and other resources you should think about when building a mobile experience.
+We've covered the essentials above, but below is information about policies, platforms, and other resources you should think about when building a mobile experience.
 
 ### App Platforms
 
-If you are creating an app, you will need to work with the platform to get your app added to their store. The following have federal-compatible Terms of Service agreements.
-
+If you are creating an app, you will need to work with the platform to get your app added to their store. The following have federal-compatible Terms of Service agreements. 
 
 - **Apple** <br />https://www.digitalgov.gov/2013/05/30/apples-ios-terms-of-service-developer-program-license-agreement/
-- **Blackberry App World** <br />https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/blackberry-app-world-tos-agreement.pdf
+- **Blackberry App World** <br />https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/blackberry-app-world-tos-agreement.pdf (PDF, 270 kb, 4 pages)
 
 ### Native Apps or Progressive Web Apps
 
@@ -174,7 +173,7 @@ When you are building an app or creating a mobile-friendly site, there are certa
 
 #### Negotiated Federal Terms of Service
 
-This is a list of free tools and services that have federal-compatible Terms of Service agreements. <br />[https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/)
+- This is a list of free tools and services that have [federal-compatible Terms of Service agreements](https://digital.gov/resources/negotiated-terms-of-service-agreements/). <br />[https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/)
 
 ### Federal Mobile Apps Directory
 
