@@ -4,7 +4,9 @@ uid: data-cabinet
 date: 2018-03-28 3:30:00 -0400
 title: 'Data Cabinet'
 summary: 'A community for data professionals across federal government to share proven best practices and critical insights.'
-
+topics:
+  - data
+  - open-data
 ---
 
 ## Welcome to the Data Cabinet: A Federal Data Science Community of Practice
@@ -13,10 +15,10 @@ The U.S. Data Cabinet is a community of practice built to advance the adoption o
 
 We do this by focusing on:
 
-- **Education and Training** - finding the right talent and keeping them 
-- **Organizational Change** - embracing data-driven decision-making in your organization 
-- **Data Quality** - managing the data life cycle 
-- **Data Accessibility** - making data accessible 
+- **Education and Training** - finding the right talent and keeping them
+- **Organizational Change** - embracing data-driven decision-making in your organization
+- **Data Quality** - managing the data life cycle
+- **Data Accessibility** - making data accessible
 
 ## Data Value Proposition
 
