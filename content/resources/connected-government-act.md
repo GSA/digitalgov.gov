@@ -105,7 +105,7 @@ If your mobile product breaks a user’s phone, you are not creating a good expe
 - **Performance Guidelines** <br />The U.S. Web Design System team embarked on a 3-month research effort to better understand what performance means to U.S. government web teams of all shapes and sizes, and we’re excited to share the results with you. <br />https://designsystem.digital.gov/performance/
 - **New ITIF Report Inspires a Closer Look at Website Performance and Security—Here Is Where to Begin** <br />The Information Technology & Innovation Foundation (ITIF) published a report  that looked at the page load speed, mobile-friendliness, security and accessibility of the top 297 government websites. And based on the four benchmark areas, we’ve pulled together a number of resources and tools to help your agency’s website provide better access to services and information. <br />https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/
 
-## Case Studies/Good Examples/Aspirational Stories
+## Case Studies and Good Examples
 
 There are a number of resources in the private sector for designing excellent user experience. Here are some recommended by the MobileGov Community of Practice.
 
