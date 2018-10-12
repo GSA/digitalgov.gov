@@ -173,7 +173,7 @@ When you are building an app or creating a mobile-friendly site, there are certa
 
 #### Negotiated Federal Terms of Service
 
-- This is a list of free tools and services that have [federal-compatible Terms of Service agreements](https://digital.gov/resources/negotiated-terms-of-service-agreements/). <br />[https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/)
+- This is a list of free tools and services that have federal-compatible Terms of Service agreements. <br />[https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/)
 
 ### Federal Mobile Apps Directory
 
