@@ -68,14 +68,14 @@ aliases:
 
 ## Mobile
 
-*   [Mobile Gov Community of Practice]({{< link "mobilegov.md" >}})
-*   [Mobile User Experience Guidelines and Recommendations]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}})
-*   [A Guide to Improving Your Mobile-Friendly Website
-](https://digital.gov/resources/guide-improve-mobile-friendly-websites/)
+*   [Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}})
+*   [A Guide to Creating Mobile-Friendly Websites](https://digital.gov/resources/guide-create-mobile-friendly-websites/)
 *   [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}})
     *   [Mobile Code Sharing Catalog]({{< link "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}})
+*   [Mobile Development Strategies](https://digital.gov/resources/mobile-development-strategies/)
+*   [Mobile User Experience Guidelines and Recommendations]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}})
+*   [MobileGov Community of Practice]({{< link "mobilegov.md" >}})
 *   [Sample Mobile SOW and Developer Qualifications]({{< link "mobile-sow-and-developer-qualifications.md" >}})
-*   [Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}})
 
 ## Multilingual
 
