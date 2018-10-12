@@ -31,8 +31,6 @@
 }
 .entry-content{
 	margin-bottom: 50px;
-	width: 650px;
-	display: inline-block;
 }
 .entry-content .image img{
 	margin:0;
@@ -194,36 +192,22 @@
 	display: none;
 }
 
-@media only screen and (max-width:480px) {
-	#wrap{
-		margin: 0;
-		padding: 15px;
-	}
-	.page .entry,
-	.entry-content{
-		width:auto;
-		float: left;
-	}
-	.last_commit{
-		/* display: none; */
-	}
-	.guide .entry-head{
-		margin-bottom: 40px;
-	}
-}
 
-@media only screen and (max-width:800px) {
-	#wrap{
-		margin: 0;
-		padding: 15px;
-		width:auto;
-	}
-	.page .entry,
+@media only screen and (min-width: 576px) {
+}
+@media only screen and (min-width: 768px) {
 	.entry-content{
-		width:auto;
-	}
+ 	 width: 650px;
+ 	 display: inline-block;
+  }
+}
+@media only screen and (min-width: 992px) {
 
 }
+@media only screen and (min-width: 1024px) {
+
+}
+
 
 
 .entry .favicon{
