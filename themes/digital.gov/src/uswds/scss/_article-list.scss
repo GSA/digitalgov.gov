@@ -38,6 +38,18 @@ nav.topics-featured{
       }
     }
   }
+  footer{
+    @include u-padding-y(3);
+    @include u-padding-x(3);
+    a{
+      @include u-text('bold');
+      @include u-text('no-underline');
+      @include u-text('indigo-70');
+      &:hover{
+        border-bottom: 2px #656bd7 solid; // $indigo-40
+      }
+    }
+  }
 }
 
 .article-list{

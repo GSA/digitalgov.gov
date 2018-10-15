@@ -23,7 +23,7 @@
             {{ $topics := (where .Site.Pages "Section" "topics") }}
             {{ range $name, $taxonomy := $topics.ByTitle }}
               <li>
-                <a href="{{ .Permalink }}" title="{{ $name }}"># <span>{{ .Title }}</span></a>
+                <a href="{{ .Permalink }}" title="{{ $name }}"><span>{{ .Title }}</span></a>
               </li>
             {{ end }}
           </ul>
