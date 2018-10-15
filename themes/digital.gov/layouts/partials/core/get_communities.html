@@ -48,8 +48,27 @@
   <section id="related_communities">
 
     <header>
-      <h3>Join a Community</h3>
+      <h3><i class="fas fa-envelope"></i> Email this to a community</h3>
     </header>
+
+    <section class="share_tools">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <a class="email" href="#"><i class="fas fa-envelope"></i> Email</a>
+        </div>
+      </div>
+      <div class="grid-row">
+        <div class="grid-col-4">
+          <a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
+        </div>
+        <div class="grid-col-4">
+          <a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a>
+        </div>
+        <div class="grid-col-4">
+          <a class="linkedin" href="#"><i class="fab fa-linkedin-in"></i></a>
+        </div>
+      </div>
+    </section>
 
     {{/* Let's loop through the community pages that have similar topics! */}}
     {{ range $i, $e := $related_communities }}
