@@ -10,10 +10,17 @@ first_name: Toni
 last_name: Bonitto
 uid: toni-bonitto
 email: toni.bonitto@gsa.gov
-bio: "New to government, Toni spent most of her tech career in the private and nonprofit sectors, and now serves as an Innovation Specialist for DigitalGov in the Technology Transformation Service at GSA."
+linkedin: bonitto
 
+# Tell us about yourself! Keep it to 1-2 sentences.
+bio: "New to government, Toni spent most of her tech career in New York, New Jersey, and Florida in the private and nonprofit sectors. She now serves as an Innovation Specialist for DigitalGov in the Technology Transformation Service at GSA's headquarters in Washington, DC."
+
+# Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: "Washington, DC"
-quote: ""
+
+# Do you have a quote that you'd like to share on your profile?
+# [e.g. '']
+quote: "Observe and retain."
 
 # Your GitHub username [e.g. 'jeremyzilar']
 github: 'ToniBonittoGSA'
