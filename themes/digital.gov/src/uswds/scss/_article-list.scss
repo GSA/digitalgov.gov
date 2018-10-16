@@ -6,8 +6,6 @@ nav.topics-featured{
   @include u-text('indigo-80');
   header{
     @include u-padding('105');
-    // @include u-bg('indigo-80');
-    // @include u-text('gray-1');
     @include u-padding-x(3);
     h4{
       @include u-margin(0);
@@ -54,6 +52,7 @@ nav.topics-featured{
 
 .article-list{
   header{
+    @include u-margin(0);
     @include u-margin-bottom(2);
     h1{
       @include u-margin(0);
