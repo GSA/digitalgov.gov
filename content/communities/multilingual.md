@@ -2,8 +2,10 @@
 url: /communities/multilingual/
 uid: multilingual
 date: 2014-02-21 4:58:10 -0400
-title: Multilingual Community of Practice
+title: "Multilingual "
 summary: 'We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.'
+topics:
+  - multilingual
 aliases:
   - /government-multilingual-websites-community/
 ---
@@ -74,4 +76,3 @@ The group also researches outreach opportunities such as participating in traini
 - [Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future](https://www.digitalgov.gov/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/)
 - [Persona Development Case Study: NCI and Spanish Language Outreach](https://www.digitalgov.gov/2015/03/02/persona-development-case-study-nci-and-spanish-language-outreach/)
 - [More on Multilingual »](https://www.digitalgov.gov/tag/multilingual/)
-  

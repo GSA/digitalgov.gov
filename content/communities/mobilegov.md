@@ -2,8 +2,11 @@
 url: /communities/mobile/
 uid: mobile
 date: 2013-11-21 3:30:19 -0400
-title: 'MobileGov Community of Practice'
-summary: 'MobileGov Community of Practice members, a network of federal employees, work across agencies to create anytime, anywhere government resources and solutions for today and tomorrow.'
+title: 'MobileGov'
+summary: 'We work across agencies to implement government-wide solutions for making mobile technologies better.'
+topics:
+  - mobile
+
 ---
 
 MobileGov Community of Practice members, a network of federal employees, work across agencies to create anytime, anywhere government resources and solutions for today and tomorrow.
