@@ -12,7 +12,7 @@
 
   article.promo{
     @include u-margin-bottom(1);
-		@include u-bg('gold-5v');
+		@include u-bg('gray-warm-4');
 		h3{
 			@include u-font('sans', '2xs');
       @include u-text('gold-30v');

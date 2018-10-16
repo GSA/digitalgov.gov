@@ -34,32 +34,21 @@
           {{/* Last updated */}}
           {{/* {{- partial "last-updated" . -}}  */}}
 
-          {{/* Topics */}}
-          {{- partial "core/get_topics" . -}}
-
-          <section class="share_tools">
-            <div class="grid-row">
-              <div class="grid-col-12">
-                <a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a>
-                <a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
-                <a class="linkedin" href="#"><i class="fab fa-linkedin-in"></i></a>
-              </div>
-            </div>
-            <div class="grid-row">
-              <div class="grid-col-6">
-                <a class="email" href="#"><i class="fas fa-envelope"></i> Email</a>
-              </div>
-              <div class="grid-col-6">
-                <a class="print" href="#"><i class="fas fa-print"></i> Print</a>
-              </div>
-            </div>
-          </section>
 
           {{/* Related Communities */}}
           {{- partial "core/get_communities" . -}}
 
           {{/* Promos */}}
-          {{/* {{- partial "core/get_promos" . -}} */}}
+          {{- partial "core/get_promos" . -}}
+
+
+          {{/* Topics */}}
+          {{- partial "core/get_topics" . -}}
+
+          {{/* Share Tools */}}
+          {{- partial "core/get_sharetools" . -}}
+
+
 
 
 
