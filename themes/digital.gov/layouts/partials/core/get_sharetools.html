@@ -1,9 +1,10 @@
 {{/* Share tools */}}
 
 <section class="share_tools">
+  {{ .URL | absURL }}
   <div class="grid-row">
     <div class="grid-col-4">
-      <a class="twitter" href="http://twitter.com/share?url={{ .Permalink | absURL }}&amp;text={{ .Title }}"><i class="fab fa-twitter"></i></a>
+      <a class="twitter" href="http://twitter.com/share?url={{ .URL | absURL }}&amp;text={{ .Title }}"><i class="fab fa-twitter"></i></a>
     </div>
     <div class="grid-col-4">
       <a class="facebook" href="http://www.facebook.com/sharer.php?u={{ .Permalink | absURL }}&t={{ .Title | urlize }}"><i class="fab fa-facebook-f"></i></a>
