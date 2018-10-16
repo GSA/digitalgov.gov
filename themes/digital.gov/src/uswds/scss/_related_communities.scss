@@ -6,6 +6,7 @@
 		@include u-margin(0);
 		h3{
 			@include u-margin(0);
+      @include u-margin-bottom('05');
       @include u-font('sans', 'xs');
 		}
 	}
