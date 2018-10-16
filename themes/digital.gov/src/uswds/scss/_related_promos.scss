@@ -3,7 +3,34 @@
 
 #related_promos {
   @include u-margin-top(5);
+  header{
+		@include u-margin(0);
+		h3{
+			@include u-margin(0);
+      @include u-margin-bottom('05');
+      @include u-font('sans', 'xs');
+		}
+	}
   article.promo{
     @include u-margin-bottom(2);
+    h3{
+      @include u-font('sans', '2xs');
+    }
+    p{
+      @include u-font('sans', '3xs');
+    }
+  }
+  footer{
+    h5{
+      @include u-margin(0);
+      a{
+        @include u-text('normal');
+        @include u-text('no-underline');
+        @include u-text('indigo-warm-60v');
+        &:hover{
+          border-bottom: 2px #967efb solid; // $indigo-40
+        }
+      }
+    }
   }
 }
