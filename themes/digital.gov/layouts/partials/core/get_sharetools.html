@@ -3,10 +3,10 @@
 <section class="share_tools">
   <div class="grid-row">
     <div class="grid-col-4">
-      <a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
+      <a class="twitter" href="http://twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }}"><i class="fab fa-twitter"></i></a>
     </div>
     <div class="grid-col-4">
-      <a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a>
+      <a class="facebook" href="http://www.facebook.com/sharer.php?u={{ .Permalink }}&t={{ .Title | urlize }}"><i class="fab fa-facebook-f"></i></a>
     </div>
     <div class="grid-col-4">
       <a class="linkedin" href="#"><i class="fab fa-linkedin-in"></i></a>
