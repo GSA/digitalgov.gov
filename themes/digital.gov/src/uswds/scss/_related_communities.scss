@@ -25,12 +25,10 @@
     .members{
       @include u-margin(0);
       @include u-padding-y('05');
-      @include u-text('violet-warm-50v');
+      @include u-text('indigo-warm-50v');
       @include u-font('sans', '3xs');
       @include u-text('semibold');
       @include u-text('right');
-      vertical-align:middle;
-      display: table-cell;
     }
   }
   footer{
@@ -39,8 +37,9 @@
       a{
         @include u-text('normal');
         @include u-text('no-underline');
+        @include u-text('indigo-warm-60v');
         &:hover{
-          border-bottom: 2px #914734 solid; // $indigo-40
+          border-bottom: 2px #967efb solid; // $indigo-40
         }
       }
     }

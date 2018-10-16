@@ -37,9 +37,9 @@ article{
 	}
 
 	.topics{
-		@include u-margin-top('2px');
-		@include u-margin-bottom(3);
-		@include u-font('sans', '2xs');
+		@include u-margin-top(9);
+		@include u-margin-bottom(2);
+		@include u-font('sans', 'xs');
 		@include u-text('medium');
 		a{
 			@include u-text('indigo-cool-50');
@@ -56,40 +56,42 @@ article{
 	    @include u-font('sans', 'xs');
 	  }
 	  a{
-	    @include u-padding-y('2px');
+	    @include u-padding-top('05');
+			@include u-padding-bottom('05');
 	    @include u-padding-x(0);
-	    @include u-text('gray-cool-60');
+	    @include u-text('gray-1');
 	    @include u-text('center');
 	    @include u-text('no-underline');
+	    @include u-display('block');
 	    &:hover{
-	      @include u-bg('gray-cool-5');
+	      @include u-bg('gray-2');
 	    }
 			i{
-	      font-size: 1.375rem;
+	      font-size: 1.125rem;
 	    }
 	  }
 	  .facebook{
-	    color: rgba(59, 89, 152, 1);
+	    background: rgba(59, 89, 152, 1);
 	    &:hover{
-	      color: rgba(59, 89, 152, .8);
+	      background: rgba(59, 89, 152, .8);
 	    }
 	  }
 	  .twitter{
-	    color: rgba(29, 161, 242, 1);
+	    background: rgba(29, 161, 242, 1);
 	    &:hover{
-	      color: rgba(29, 161, 242, .8);
+	      background: rgba(29, 161, 242, .8);
 	    }
 	  }
 	  .linkedin{
-	    color: rgba(0, 119, 181, 1);
+	    background: rgba(0, 119, 181, 1);
 	    &:hover{
-	      color: rgba(0, 119, 181, .8);
+	      background: rgba(0, 119, 181, .8);
 	    }
 	  }
 	  .email{
-	    @include u-padding-y('05');
+	    @include u-padding-y(1);
 	    @include u-bg('indigo-5');
-	    @include u-text('gray-70');
+	    @include u-text('indigo-warm-60');
 	    @include u-font('sans', 'xs');
 
 	    &:hover{
@@ -102,9 +104,9 @@ article{
 	    }
 	  }
 	  .print{
-	    @include u-padding-y('05');
+	    @include u-padding-y(1);
 	    @include u-bg('indigo-5');
-	    @include u-text('gray-70');
+	    @include u-text('indigo-warm-60');
 	    @include u-font('sans', 'xs');
 
 	    &:hover{
