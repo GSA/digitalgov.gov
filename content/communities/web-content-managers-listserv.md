@@ -3,6 +3,7 @@ url: /communities/web-managers-forum/web-content-managers-listserv/
 date: 2014-03-04 10:22:04 -0400
 title: Web Content Managers
 summary: 'The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal.'
+members: 1875
 topics:
   - content
   - managing-digital

@@ -2,6 +2,7 @@
 url: /communities/accessibility/
 uid: accessibility
 title: 'Accessibility / Section 508'
+members: 1351
 summary: 'We support people who are working to improve accessibility of information technology.'
 topics:
   - accessibility
