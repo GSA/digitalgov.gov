@@ -26,31 +26,31 @@ For six months, from September 22, 2017 to March 22, 2018, the [Federal Crowdsou
 The information here outlines the top five practices we found across these sites: 
 
 <ol>
-  <li>Optimize JavaScript </li>
+  <li><strong>Optimize JavaScript</strong> </li>
     <ul>
       <li>JavaScript Placement </li>
       <li>JavaScript Minify </li>
       <li>Do Not Use Inline JavaScript </li>
     </ul>
-  <li>Optimize CSS </li>
+  <li><strong>Optimize CSS</strong> </li>
     <ul>
       <li>Avoid Absolute Dimensions and Positions in CSS Directives </li>
       <li>Use External Stylesheets to Separate Caching of CSS from the Content </li>
       <li>Combine CSS Image Assets into Sprite Files </li>
     </ul>
-  <li>Optimize Images </li>
+  <li><strong>Optimize Images</strong> </li>
     <ul>
       <li>Limit Page Size and Weight </li>
       <li>Enable Resource Compression </li>
       <li>Optimize Images </li>
       <li>Specify Image Dimensions </li>
     </ul>
-  <li>Utilize Caching </li>
+  <li><strong>Utilize Caching</strong> </li>
     <ul>
       <li>Leverage Browser Caching </li>
       <li>Combine Multiple Files For Improved Performance </li>
     </ul>
-  <li>Avoid Pop-ups </li>
+  <li><strong>Avoid Pop-ups</strong> </li>
 </ol>
 
 Keep in mind, if a website is developed using a content management system (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code. 
