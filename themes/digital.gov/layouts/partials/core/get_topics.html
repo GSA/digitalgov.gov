@@ -11,8 +11,6 @@
 {{- if (not (isset .Params "topics")) | or (eq .Params.topics "") -}}
 {{- else -}}
 <div class="topics">
-  <h5>Topics</h5>
-  <p>
   {{/* Sets the taxonomy we're pulling here */}}
   {{- $taxonomy := "topics" -}}
   {{- $topics := .Param $taxonomy -}}
@@ -33,6 +31,5 @@
     {{- end -}}
 
   {{- end -}}
-  </p>
 </div>
 {{- end -}}
