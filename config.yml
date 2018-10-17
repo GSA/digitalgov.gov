@@ -1,5 +1,5 @@
 title                   : "Digital.gov - Better Digital in Government"
-baseURL                 : "https://digital.gov"
+baseURL                 : "/"
 languageCode            : "en-us"
 theme                   : "digital.gov"
 themesDir               : "./themes"
