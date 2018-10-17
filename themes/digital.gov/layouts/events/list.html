@@ -1,39 +1,43 @@
 {{ define "content" }}
 
-<main role="main" id="events" class="collection">
-  <div class="grid-container padding-x-2">
-    <div class="grid-row">
-      <div class="grid-col-12">
-        <header>
-          <h1>Upcoming Events</h1>
-        </header>
-      </div>
-    </div>
-    <div class="grid-row grid-gap-3">
-      <div class="grid-col-12">
-        <section>
-          {{ range .Data.Pages.Reverse }}
-          {{ $now := now.Format "2006-01-02" }}
-          {{ $start := .Date.Format "2006-01-02"  }}
+<main role="main" id="events">
 
-          {{ if .Params.End_date }}
-            {{ $end := dateFormat "2006-01-02" .Params.End_date }}
-            {{ if or (ge $start $now) (ge $end $now)}}
-              {{ if .Params.registration_url }}
-                {{ .Render "event-card"}}
+  <section>
+    <div class="grid-container padding-x-2">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <header>
+            <h1>Upcoming Events</h1>
+          </header>
+        </div>
+      </div>
+
+      <div class="grid-row grid-gap-3">
+        <div class="grid-col-12">
+          <section>
+            {{ range .Data.Pages.Reverse }}
+            {{ $now := now.Format "2006-01-02" }}
+            {{ $start := .Date.Format "2006-01-02"  }}
+
+            {{ if .Params.End_date }}
+              {{ $end := dateFormat "2006-01-02" .Params.End_date }}
+              {{ if or (ge $start $now) (ge $end $now)}}
+                {{ if .Params.registration_url }}
+                  {{ .Render "event-card"}}
+                {{ end }}
+              {{ end }}
+
+              {{ else if ge $start $now }}
+                {{ if .Params.registration_url }}
+                  {{ .Render "event-card"}}
+                {{ end }}
               {{ end }}
             {{ end }}
-
-            {{ else if ge $start $now }}
-              {{ if .Params.registration_url }}
-                {{ .Render "event-card"}}
-              {{ end }}
-            {{ end }}
-          {{ end }}
-        </section>
+          </section>
+        </div>
       </div>
     </div>
-  </div>
+  </section>
 </main>
 
 <div id="events-past" class="display-none events-list">
@@ -49,4 +53,5 @@
   {{ end }}
 
 </div>
+
 {{ end }}

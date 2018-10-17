@@ -26,7 +26,7 @@
     }
   }
   p{
-    @include u-margin(0);
+    @include u-margin-top(1);
     @include u-font('sans', 'sm');
     @include u-text('light');
     @include u-measure(2);
