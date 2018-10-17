@@ -5,15 +5,12 @@
     <div class="grid-row">
       <div class="grid-col-12">
         <header>
-          <h1>Upcoming Training & Events</h1>
-          <p>
-            <a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a>
-          </p>
+          <h1>Upcoming Events</h1>
         </header>
       </div>
     </div>
-    <div class="grid-row grid-gap-4">
-      <div class="grid-col-12 tablet:grid-col-5">
+    <div class="grid-row grid-gap-3">
+      <div class="grid-col-12">
         <section>
           {{ range .Data.Pages.Reverse }}
           {{ $now := now.Format "2006-01-02" }}
@@ -22,40 +19,34 @@
           {{ if .Params.End_date }}
             {{ $end := dateFormat "2006-01-02" .Params.End_date }}
             {{ if or (ge $start $now) (ge $end $now)}}
-              {{ .Render "event-card"}}
+              {{ if .Params.registration_url }}
+                {{ .Render "event-card"}}
+              {{ end }}
             {{ end }}
 
             {{ else if ge $start $now }}
+              {{ if .Params.registration_url }}
                 {{ .Render "event-card"}}
+              {{ end }}
             {{ end }}
           {{ end }}
         </section>
       </div>
-      <div class="grid-col-12 tablet:grid-col-7">
-
-      </div>
     </div>
   </div>
 </main>
-          <div id="events-past" class=" events-list">
 
-            <div class="events-head">
-              <h1>Past Events</h1>
-              <p><a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a></p>
-            </div>
+<div id="events-past" class="display-none events-list">
 
-            {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
-            {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-              {{ .Render "past"}}
-            {{ end }}
-
-          </div>
-          <a href="#" class="btn btn-open btn_events_past">View past events</a>
-
-        </div>
-      </div>
-    </div>
+  <div class="events-head">
+    <h1>Past Events</h1>
+    <p><a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a></p>
   </div>
-</section>
 
+  {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
+  {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
+    {{ .Render "past"}}
+  {{ end }}
+
+</div>
 {{ end }}
