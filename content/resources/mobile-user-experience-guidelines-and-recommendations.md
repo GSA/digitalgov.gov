@@ -1,10 +1,15 @@
 ---
-url: /resources/mobile-user-experience-guidelines-and-recommendations/
+url: /resources/mobile-user-experience-guidelines/
 date: 2013-12-11 4:13:00 -0400
-title: Mobile User Experience Guidelines and Recommendations
-summary: 'If your app doesn&#8217;t have a good user experience, it goes to the app graveyard. The need for digital products to work better is not new in the federal government. Resources like the Digital Playbook and Public Participation Playbook have had impact helping agencies become user-friendly and both of these resources note the importance of'
+title: Mobile User Experience Guidelines
+summary: 'Six user experience guidelines for creating a mobile product.'
+deck: 'Six user experience guidelines for creating a mobile product.'
+type: guide
+guidenav: connected-government
 authors:
   - jparcell
+aliases:
+  - /resources/mobile-user-experience-guidelines-and-recommendations/
 ---
 
 If your app doesn&#8217;t have a good user experience, it goes to the [app graveyard]({{< link "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
