@@ -1,9 +1,13 @@
 // topics
 
+header#header{
+  // @include u-bg('indigo-90');
+}
+
 #home section#topics{
-  @include u-padding-y(5);
+  @include u-padding-y(2);
   @include u-padding-bottom(6);
-  @include u-bg('gray-warm-3');
+  @include u-bg('indigo-50v');
   header{
     @include u-margin-bottom(4);
     @include u-text('center');
