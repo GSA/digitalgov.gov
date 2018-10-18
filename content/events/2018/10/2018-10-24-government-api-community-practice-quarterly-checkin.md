@@ -12,7 +12,7 @@ date: 2018-10-24 15:00:00 -0500
 end_date: 2018-10-24 16:30:00 -0500
 event_organizer: DigitalGov University
 host: 
-registration_url: 
+registration_url: https://www.eventbrite.com/e/government-api-community-of-practice-quarterly-check-in-registration-51474860694
 youtube_id: 
 venue: 
   venue_name: U.S. General Services Administration
@@ -32,8 +32,8 @@ This afternoon event is an opportunity for API practitioners from across federal
 ## Agenda
 
 3:00pm - Welcome and Introductions   
-3:10pm - Review of newly launched APIs and Developer Hubs (list below) | [suggest others here](https://github.com/18F/wg-api/issues/13))  
-3:20pm - Review of relevant news (list below) | [suggest others here](https://github.com/18F/wg-api/issues/14))  
+3:10pm - Review of newly launched APIs and Developer Hubs | [suggest some here](https://github.com/18F/wg-api/issues/13))  
+3:20pm - Review of relevant news | [suggest some here](https://github.com/18F/wg-api/issues/14))  
 3:30pm - Agency Presentation 1 (FEC)  
 3:45pm - Agency Presentation 2 (TBA)  
 4:00pm - Requests for Help   
@@ -46,18 +46,3 @@ This afternoon event is an opportunity for API practitioners from across federal
 In person: GSA Headquarters - Room 2413  
 Virtual:  Will send to registrants
 
-
-## Event Details 
-
-
-#### New APIs and Hubs to Highlight
-
-* TBA
-
-_Suggest others [here](https://github.com/18F/wg-api/issues/13)_
-
-#### Relevant News to Hightlight 
-
-* TBA
-
-_Suggest others [here](https://github.com/18F/wg-api/issues/14)_
