@@ -2,10 +2,11 @@
 
 #spotlight {
   @include u-bg('indigo-80');
-  @include u-padding-y(3);
+  @include u-padding-y(5);
   header{
     h2{
-      @include u-margin-y(1);
+      @include u-margin(0);
+      @include u-margin-bottom(1);
       @include u-font('sans', '3xl');
       @include u-text('thin');
       @include u-text('gray-1');
@@ -29,16 +30,18 @@
       @include u-margin-bottom(2);
     }
     section{
-      @include u-bg('indigo-warm-80');
+      @include u-bg('indigo-warm-60');
+      @include u-margin-top(5);
       @include u-padding-y(1);
       @include u-padding-x(2);
+      @include u-padding-bottom(2);
       h5{
         @include u-margin(0);
-        @include u-font('sans', 'sm');
+        @include u-font('sans', 'xs');
         @include u-text('indigo-warm-20');
       }
       p{
-        @include u-font('sans', '2xs');
+        @include u-font('sans', '3xs');
         @include u-text('indigo-warm-20');
       }
     }

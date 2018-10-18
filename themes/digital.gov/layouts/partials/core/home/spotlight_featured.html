@@ -14,7 +14,7 @@
           </form>
           <section>
             <h5>Submit to Spotlight</h5>
-            <p>Have a case-study to share? Did your team recently launch something? We'd like to hear about it.</p>
+            <p>Have a case-study to share? Did your team recently launch something? We'd like to talk to you.</p>
           </section>
         </header>
 
@@ -23,7 +23,7 @@
       <div class="grid-col-12 tablet-lg:grid-col-8">
         <section>
           {{- $posts := where .Data.Pages "Section" "posts" -}}
-          {{- range first 6 $posts.ByWeight -}}
+          {{- range first 7 $posts.ByWeight -}}
             {{ $editthis := printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path }}
 
             {{ if eq .Params.type "spot" }}
@@ -37,7 +37,7 @@
               {{/* Blog Posts — Internal links */}}
               <article>
                 <p><img src="https://www.google.com/s2/favicons?domain={{- .Permalink -}}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</p>
-                <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
+                <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
               </article>
             {{ end }}
 
