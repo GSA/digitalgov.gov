@@ -9,6 +9,7 @@ header#header{
   @include u-padding-bottom(6);
   // @include u-bg('indigo-50v');
   header{
+    @include u-margin-top(0);
     @include u-margin-bottom(4);
     @include u-text('center');
     color:#3d4076;
