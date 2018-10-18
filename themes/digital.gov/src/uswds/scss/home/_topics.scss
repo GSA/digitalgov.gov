@@ -1,19 +1,17 @@
 // topics
 
 header#header{
-  // @include u-bg('indigo-90');
 }
 
 #home section#topics{
   @include u-padding-y(2);
   @include u-padding-bottom(6);
-  // @include u-bg('indigo-50v');
   header{
-    @include u-margin-top(0);
     @include u-margin-bottom(4);
     @include u-text('center');
     color:#3d4076;
     h2{
+      @include u-margin-top(0);
       @include u-font('sans', '3xl');
       @include u-line-height('sans', 2);
       @include u-margin-bottom(1);
