@@ -7,7 +7,7 @@ header#header{
 #home section#topics{
   @include u-padding-y(2);
   @include u-padding-bottom(6);
-  @include u-bg('indigo-50v');
+  // @include u-bg('indigo-50v');
   header{
     @include u-margin-bottom(4);
     @include u-text('center');
