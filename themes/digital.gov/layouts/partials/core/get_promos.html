@@ -48,10 +48,6 @@
 
   <section id="related_promos">
 
-    <header>
-      <h3>Get started Building</h3>
-    </header>
-
   {{/* Let's loop through the file names! */}}
   {{ range $i, $e := $related_promos }}
 
@@ -77,9 +73,5 @@
     {{ end }}
 
   {{ end }}
-  <footer>
-    {{ $promos := .Site.GetPage "page" "promo" }}
-    <h5><a href="{{ "/communities/" | absURL }}">See all {{ len ($promos.Resources.ByType "page") }} ways to get started <i class="fas fa-arrow-alt-circle-right"></i></a></h5>
-  </footer>
   </section>
 {{ end }}

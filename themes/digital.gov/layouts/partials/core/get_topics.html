@@ -11,6 +11,9 @@
 {{- if (not (isset .Params "topics")) | or (eq .Params.topics "") -}}
 {{- else -}}
 <div class="topics">
+  <h5>Topics</h5>
+  <p>
+
   {{/* Sets the taxonomy we're pulling here */}}
   {{- $taxonomy := "topics" -}}
   {{- $topics := .Param $taxonomy -}}
@@ -19,7 +22,7 @@
   {{- $length := $topics | len -}}
 
   {{/* For each of the topics,... */}}
-  {{- range $i, $e := sort $topics -}}
+  {{- range $i, $e := $topics -}}
     {{- $slug := . -}}
     {{/* Gets the Topics page */}}
     {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
@@ -29,7 +32,8 @@
       <a href="{{ .Permalink -}}" data-topic="{{ $slug }}">{{ .Title }}</a>
       {{ end }}
     {{- end -}}
-
+    
   {{- end -}}
+  </p>
 </div>
 {{- end -}}

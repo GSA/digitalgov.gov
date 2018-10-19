@@ -1,0 +1,8 @@
+<!-- edit-this -->
+
+{{ $filepath := (.Get "file") }}
+123-{{ $filepath }}
+
+{{/* {{ $editthis := (printf "https://github.com/%s/%s/edit/%s/content/%s" ($.Site.Params.git_org) ($.Site.Params.git_repo) ($.Scratch.Get "branch") .File.Path) }} */}}
+
+<!-- image -->

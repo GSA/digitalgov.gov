@@ -1,20 +1,24 @@
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "top archive post-type-archive post-type-archive-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-list events-archive tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive" }}
+  {{ $.Scratch.Set "headtitle" "Events | DigitalGov" }}
+{{ end }}
+
 {{ define "content" }}
 
-<main role="main" id="events">
+<section id="events">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div id="events-listing">
 
-  <section>
-    <div class="grid-container padding-x-2">
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <header>
-            <h1>Upcoming Events</h1>
-          </header>
-        </div>
-      </div>
+          <div class="events-current events-list">
+            <div class="events-head">
+              <h1>Upcoming Training & Events</h1>
+              <p>
+                <a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a>
+              </p>
+            </div>
 
-      <div class="grid-row grid-gap-3">
-        <div class="grid-col-12">
-          <section>
             {{ range .Data.Pages.Reverse }}
             {{ $now := now.Format "2006-01-02" }}
             {{ $start := .Date.Format "2006-01-02"  }}
@@ -22,36 +26,35 @@
             {{ if .Params.End_date }}
               {{ $end := dateFormat "2006-01-02" .Params.End_date }}
               {{ if or (ge $start $now) (ge $end $now)}}
-                {{ if .Params.registration_url }}
-                  {{ .Render "event-card"}}
-                {{ end }}
+                {{ .Render "li"}}
               {{ end }}
 
               {{ else if ge $start $now }}
-                {{ if .Params.registration_url }}
-                  {{ .Render "event-card"}}
-                {{ end }}
+                  {{ .Render "li"}}
               {{ end }}
             {{ end }}
-          </section>
+
+          </div>
+
+          <div id="events-past" class=" events-list">
+
+            <div class="events-head">
+              <h1>Past Events</h1>
+              <p><a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a></p>
+            </div>
+
+            {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
+            {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
+              {{ .Render "past"}}
+            {{ end }}
+
+          </div>
+          <a href="#" class="btn btn-open btn_events_past">View past events</a>
+
         </div>
       </div>
     </div>
-  </section>
-</main>
-
-<div id="events-past" class="display-none events-list">
-
-  <div class="events-head">
-    <h1>Past Events</h1>
-    <p><a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a></p>
   </div>
-
-  {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
-  {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-    {{ .Render "past"}}
-  {{ end }}
-
-</div>
+</section>
 
 {{ end }}

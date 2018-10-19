@@ -14,39 +14,9 @@ deck: Five tactics for improving the performance of your website
 
 JavaScript usage, CSS usage, image and resource sizing, caching/network usage, and pop-ups. These are the top practices that the most visited government websites should focus on in order to be more mobile-friendly. But how can you work on each of these areas to help ensure your website keeps mobile users delighted and coming back?
 
-For six months, from September 22, 2017 to March 22, 2018, the [Federal Crowdsource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/) tested the 26 U.S. federal government websites that are most visited on mobile devices (smartphones and tablets) using seven mobile-friendly automated test tools. The results indicated that these were the common practices that make these sites not as mobile-friendly as a user might expect or want in a mobile experience. Most of these areas do not directly relate to usability issues, but instead, concern how the site is built (which can lead to poor performance). For more information on how we conducted the tests, see the Methodology section at the end.
+For six months, from September 22, 2017 to March 22, 2018, the [Federal Crowdsource Mobile Testing Program](https://digital.gov/services/mobile-application-testing-program/) tested the 26 U.S. federal government websites most visited by mobile devices (smartphones and tablets) using seven mobile-friendly automated test tools. The results indicated that these were the common practices that make these sites not as mobile-friendly as a user might expect or want in a mobile experience. Most of these areas do not directly relate to usability issues, but instead, concern how the site is built (which can lead to poor performance). For more information on how we conducted the tests, see the Methodology section below.
 
-The information here outlines the top five practices we found across these sites: 
-
-<ol>
-  <li><strong>Optimize JavaScript</strong> </li>
-    <ul>
-      <li>JavaScript Placement </li>
-      <li>JavaScript Minify </li>
-      <li>Do Not Use Inline JavaScript </li>
-    </ul>
-  <li><strong>Optimize CSS</strong> </li>
-    <ul>
-      <li>Avoid Absolute Dimensions and Positions in CSS Directives </li>
-      <li>Use External Stylesheets to Separate Caching of CSS from the Content </li>
-      <li>Combine CSS Image Assets into Sprite Files </li>
-    </ul>
-  <li><strong>Optimize Images</strong> </li>
-    <ul>
-      <li>Limit Page Size and Weight </li>
-      <li>Enable Resource Compression </li>
-      <li>Optimize Images </li>
-      <li>Specify Image Dimensions </li>
-    </ul>
-  <li><strong>Utilize Caching</strong> </li>
-    <ul>
-      <li>Leverage Browser Caching </li>
-      <li>Combine Multiple Files For Improved Performance </li>
-    </ul>
-  <li><strong>Avoid Pop-ups</strong> </li>
-</ol>
-
-Keep in mind, if a website is developed using a content management system (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code. 
+The information here outlines the top five practices we found across these sites. Keep in mind, if a website is developed using a content management system (CMS) or development framework, not all of these settings may be configurable. However, we suggest that developers research the capabilities of the system to determine if they can be. Some of these recommendations may occur in the web server layer, which may be separate from the program code.
 
 {{< img src="army-mobile" >}}
 

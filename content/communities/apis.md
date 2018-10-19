@@ -5,8 +5,7 @@ date: 2018-03-29 3:30:00 -0400
 title: 'APIs'
 summary: 'Working to advance the cause of APIs in the federal government'
 topics:
-  - apis
-  - code
+  - agile
 
 ---
 

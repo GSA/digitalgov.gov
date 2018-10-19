@@ -2,12 +2,8 @@
 url: /communities/challenges-prizes/
 uid: challenges-prizes
 date: 2013-12-05 11:46:00 -0400
-title: 'Challenges & Prizes'
-summary: "We work to find innovative government solutions through encouraging public participation in crowdsourcing competitions."
-topics:
-  - challenges
-  - challenge-gov
-
+title: 'Challenges & Prizes Community of Practice'
+summary: "We encourage public participation in crowdsourcing competitions to find innovative government solutions."
 aliases:
   - /challenges-prizes-community/
 ---

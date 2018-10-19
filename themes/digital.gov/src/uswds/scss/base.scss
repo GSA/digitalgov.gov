@@ -13,7 +13,6 @@
 @import 'search-bar';
 @import 'article';
 @import 'guides';
-@import 'events';
 @import 'table-of-contents';
 @import 'content';
 @import 'authors';
@@ -22,9 +21,11 @@
 @import 'related_communities';
 @import 'taxonomy';
 
+@import 'edit-this';
+
 // Homepage Styles
 @import 'home/home';
-@import 'home/spotlight';
+@import 'home/news';
 @import 'home/training-events';
 @import 'home/topics';
 @import 'home/communities';

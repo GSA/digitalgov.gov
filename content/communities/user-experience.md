@@ -2,11 +2,8 @@
 url: /communities/user-experience/
 uid: user-experience
 date: 2014-01-13 2:35:36 -0400
-title: 'User Experience'
+title: 'User Experience Community of Practice'
 summary: "Join other federal user experience practitioners and learn how to make better user-centered products."
-members: 1103
-topics:
-  - user-experience
 aliases:
   - /federal-user-experience-community-of-practice/
 ---

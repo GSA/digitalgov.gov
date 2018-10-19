@@ -6,6 +6,8 @@ nav.topics-featured{
   @include u-text('indigo-80');
   header{
     @include u-padding('105');
+    // @include u-bg('indigo-80');
+    // @include u-text('gray-1');
     @include u-padding-x(3);
     h4{
       @include u-margin(0);
@@ -52,7 +54,6 @@ nav.topics-featured{
 
 .article-list{
   header{
-    @include u-margin(0);
     @include u-margin-bottom(2);
     h1{
       @include u-margin(0);
@@ -66,7 +67,6 @@ nav.topics-featured{
     }
   }
   article{
-    @include u-margin(0);
     @include u-padding-y(2);
     border-bottom: 1px #ccc solid;
     &:first-child{
@@ -131,31 +131,4 @@ nav.topics-featured{
       }
     }
   }
-
-  .pagination{
-    @include u-margin-y(3);
-    @include u-list-reset;
-    li{
-      @include u-display('inline-block');
-      @include u-text('center');
-      a{
-      	@include u-padding-top('05');
-        @include u-text('no-underline');
-        @include u-text('indigo-warm-50v');
-      	width: 33px;
-      	height: 33px;
-        @include u-radius('pill');
-        @include u-display('block');
-        &:hover{
-        	background:#e7e3fa; //indigo-warm-10
-        }
-      }
-    }
-    li.active a{
-    	color:#fff;
-    	background:#745fe9; //indigo-warm-50v
-    }
-  }
-
-
 }

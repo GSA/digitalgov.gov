@@ -1,13 +1,21 @@
-{{ $current := "https://digital.gov" }}
+{{ $cleanurl := .URL }}
+{{ $findbaseurl := printf "^%s" $.Site.BaseURL }}
+{{ $cleanurl := replaceRE $findbaseurl "" $cleanurl }}
+{{ $cleanurl := replaceRE "(author|event)s/(.)" "$1/$2" $cleanurl }}
+{{ $cleanurl := replaceRE "categories/(.)" "category/$1" $cleanurl }}
+{{ $cleanurl := replaceRE "^(.)" "/$1" $cleanurl }}
+{{ $cleanurl := replaceRE "//" "/" $cleanurl }}
+{{ $siteslink := printf "https://%s" (printf "www.digital.gov%s" $cleanurl) }}
+{{ $cleanurl := printf "digital.gov%s" $cleanurl }}
 
 
 {{ if eq ($.Scratch.Get "env") "site" }}
 {{ else }}
-<section class="bg-yellow-20v">
+<section class="bg-gold-20v display-none">
   <div class="grid-container padding-x-2">
     <div class="grid-row">
       <div class="grid-col">
-        <div class="padding-y-4 font-sans-lg"><strong>This is the BETA version of a <em>new</em> Digital.gov.</strong> Visit current site at <a href="{{ $current }}" target="_blank">{{ $current }}</a></div>
+        <div class="padding-y-2">This is the pre-release preview of Digital.gov. Visit the live page <a href="{{ $siteslink }}" target="_blank">{{ $cleanurl }}</a></div>
       </div>
     </div>
   </div>
