@@ -3,10 +3,10 @@
 <section id="spotlight">
   <div class="grid-container padding-x-2">
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-12 tablet-lg:grid-col-4">
+      <div class="grid-col-12 tablet-lg:grid-col-5">
         <header>
           <h2>Spotlight</h2>
-          <p>A round-up of relevant news and resources from across our community</p>
+          <p>A round-up of recent news and resources from across our community</p>
           <h4><i class="fas fa-envelope"></i> Sign up for our newsletter</h4>
           <form id="newsletter_signup" class="display-flex" action="index.html" method="post">
             <input type="text" name="" value="" placeholder="Enter your email address">
@@ -20,10 +20,10 @@
 
 
       </div>
-      <div class="grid-col-12 tablet-lg:grid-col-8">
+      <div class="grid-col-12 tablet-lg:grid-col-7">
         <section>
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
-          {{- range first 7 $posts -}}
+          {{- range first 6 $posts -}}
             {{ $editthis := printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path }}
 
             {{- if .Params.source -}}

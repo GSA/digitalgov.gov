@@ -14,6 +14,7 @@
     }
     h4{
       // @include u-margin(0);
+      @include u-margin-top(5);
       @include u-margin-bottom(1);
       @include u-text('gray-1');
       @include u-text('light');
@@ -37,11 +38,12 @@
       @include u-padding-bottom(2);
       h5{
         @include u-margin(0);
+        @include u-margin-bottom(1);
         @include u-font('sans', 'xs');
         @include u-text('indigo-warm-20');
       }
       p{
-        @include u-font('sans', '3xs');
+        @include u-font('sans', '2xs');
         @include u-text('indigo-warm-20');
       }
     }
@@ -51,13 +53,13 @@
     @include u-padding('05');
     article{
       @include u-bg('gray-warm-5');
-      @include u-padding-y(1);
+      @include u-padding-y('105');
       @include u-padding-x(2);
-      @include u-margin-bottom('1px');
+      @include u-margin-bottom('05');
       @include u-font('sans', 'xs');
       p{
         @include u-margin-bottom('2px');
-        @include u-line-height('sans', 2);
+        @include u-line-height('sans', 3);
         img{
           @include u-margin-right('05');
           position: relative;
@@ -93,6 +95,9 @@
       }
       &:hover{
         @include u-bg('gray-warm-10');
+      }
+      &:last-child{
+        @include u-margin-bottom(0);
       }
     }
 
