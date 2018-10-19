@@ -33,7 +33,7 @@
 
   article{
     @include u-margin-bottom(2);
-    @include u-padding(3);
+    @include u-padding(2);
     @include u-radius('sm');
     .members{
       @include u-margin(0);
