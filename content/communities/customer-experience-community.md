@@ -3,7 +3,7 @@ url: /communities/customer-experience-community/
 uid: customer-experience-community
 date: 2015-07-08 10:30:37 -0400
 title: 'Customer Experience'
-summary: 'We are an interagency group of customer experience practitioners, with over 700 members across more than 140 federal, state and local U.S. government offices and agencies.'
+summary: 'We are an interagency group of customer experience practitioners.'
 members: 782
 topics:
   - customer-experience
