@@ -3,7 +3,7 @@ jQuery(document).ready(function($) {
 	function enable_edit_this(){
 		$('*[data-edit-this]').each(function(){
 			var edit_path = $(this).data('edit-this');
-			var edit_link = '<a class="edit_this_btn" href="'+edit_path+'" title="edit this">edit</a>';
+			var edit_link = '<a class="edit_this_btn" href="'+edit_path+'" title="edit this"><span>edit</span></a>';
 			$(this).addClass('edit-this').append(edit_link);
 		});
 	}
@@ -14,7 +14,8 @@ jQuery(document).ready(function($) {
 		});
 	}
 
-	$('.edit_tools .editor').click(function(){
+	$('.edit_tools .editor').click(function(e){
+		e.preventDefault();
 		// If the editing tool is already active
 		if ( $(this).is( ".active" ) ) {
 			// runs a function that removes edit tools from each item on the page that is editable.

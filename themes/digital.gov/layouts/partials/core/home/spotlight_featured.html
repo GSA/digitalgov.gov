@@ -24,15 +24,14 @@
         <section>
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
           {{- range first 10 $posts -}}
-            {{ $editthis := printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path }}
-
             {{- if .Params.source -}}
               {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
             {{- end -}}
 
             {{ if eq .Params.type "spot" }}
               {{/* Spots — External links */}}
-              <article data-edit-this="{{ $editthis }}">
+
+              <article data-edit-this="{{- partial "core/edit-this" (dict "branch" ($.Scratch.Get "branch") "filepath" .File.Path) -}}">
                 <p>
                   {{/* Favicon
                   If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
@@ -56,7 +55,7 @@
               </article>
             {{ else }}
               {{/* Blog Posts — Internal links */}}
-              <article data-edit-this="{{ $editthis }}">
+              <article data-edit-this="{{- partial "core/edit-this" (dict "branch" ($.Scratch.Get "branch") "filepath" .File.Path) -}}">
                 <p><img src="{{ "img/digit-16.png" | absURL }}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</p>
                 <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
               </article>

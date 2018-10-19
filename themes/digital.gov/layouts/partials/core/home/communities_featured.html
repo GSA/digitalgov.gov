@@ -12,7 +12,7 @@
         {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
         {{ $communities := shuffle $communities }}
         {{ range $i, $e := first 2 $communities }}
-          <article class="promo">
+          <article class="promo" data-edit-this="{{- partial "core/edit-this" (dict "branch" ($.Scratch.Get "branch") "filepath" .File.Path) -}}">
             <div class="grid-row grid-gap-4">
               <div class="grid-col-9">
                 <h4><a href="{{ $e.Permalink }}" title="{{ $e.Title }}"><strong>{{ $e.Title }}</strong></a></h4>

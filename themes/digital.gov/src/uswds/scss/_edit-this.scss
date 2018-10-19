@@ -4,27 +4,41 @@
   position: relative;
   .edit_this_btn{
     position: absolute;
-    top:-20px;
-    right:-20px;
-    background: #00bde3;
+    top:-10px;
+    right:-10px;
+    background: #ffcb00;
     color: #fff;
     text-decoration: none;
     border-radius: 25px;
-    padding: 10px 6px;
+    padding: 0;
     font-size: 14px;
-    width: 40px;
-    height: 40px;
+    width: 15px;
+    height: 15px;
     text-align: center;
-    display: none;
+    -webkit-box-shadow: -3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: -3px 3px 10px 0px rgba(0,0,0,0.5);
+    span{
+      display: none;
+    }
     &:hover{
-      background: #009ec1;
+      background: #fbc036;
       text-decoration: underline;
     }
   }
   &:hover{
-    outline: 5px #00bde3 solid;
+    outline: 7px #ffcb00 solid;
+    z-index: 10;
     .edit_this_btn{
       display: block;
+      width: 40px;
+      height: 40px;
+      top:-20px;
+      right:-20px;
+      span{
+        display:block;
+        position: relative;
+        padding: 9px 6px;
+      }
     }
   }
 }
@@ -45,6 +59,8 @@
     background: #00bde3;
     color: #fff;
     text-decoration: none;
+    -webkit-box-shadow: -3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: -3px 3px 10px 0px rgba(0,0,0,0.5);
     &:hover{
       background: #009ec1;
     }

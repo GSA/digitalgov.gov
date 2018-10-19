@@ -18,7 +18,7 @@
       {{ with $promos }}
         {{ range $i, $e := first 9 . }}
           <div class="grid-col-12 tablet:grid-col-4 flex-6">
-            <article class="promo">
+            <article class="promo" data-edit-this="{{- partial "core/edit-this" (dict "branch" ($.Scratch.Get "branch") "filepath" .File.Path) -}}">
               {{ if .Params.icon }}
               {{ $src := (print "/img/promos/" .Params.icon) }}
               <img src="{{ $src | relURL }}" alt="{{ .Params.head }} Logo">

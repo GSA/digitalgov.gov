@@ -20,7 +20,7 @@
           {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
 
           {{- if or (ge $start $now) (ge $end $now)}}
-          <article class="featured_event">
+          <article class="featured_event" data-edit-this="{{- partial "core/edit-this" (dict "branch" ($.Scratch.Get "branch") "filepath" .File.Path) -}}">
             <div class="grid-row grid-gap-2">
               <div class="grid-col-3">
                 <div class="date">
