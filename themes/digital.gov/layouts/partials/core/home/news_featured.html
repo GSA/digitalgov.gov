@@ -9,7 +9,7 @@
         <section class="article-list">
           {{- $posts := where .Data.Pages "Section" "posts" -}}
           {{- range first 4 $posts.ByWeight -}}
-          {{ $editthis := (printf "https://github.com/%s/%s/edit/%s/content/%s" ($.Site.Params.git_org) ($.Site.Params.git_repo) ($.Scratch.Get "branch") .File.Path) }}
+          {{ $editthis := printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path }}
           <article data-edit-this="{{ $editthis }}">
             <div class="grid-row grid-gap-3">
               <div class="grid-col-3 tablet:grid-col-4">

@@ -57,7 +57,9 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 ## Miscellaneous
 
-[A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, Oct 2015)
+The Conne
+
+[Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 
 [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
 
@@ -74,5 +76,7 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 KB, 2 pages, Jan 2015)
 
 [Requirements for Accepting Externally-Issued Identity Credentials](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/ombreqforacceptingexternally_issuedidcred10-6-2011.pdf) (PDF, 171 KB, 4 pages, October 2011)
+
+[A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, Oct 2015)
 
 [Testing and Simplifying Federal Forms](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/memos/testing-and-simplifying-federal-forms.pdf) (PDF, 94 KB, 2 pages, Aug 2012)

@@ -2,11 +2,11 @@
 
 <main aria-label="Content" role="main" id="home">
 
-  {{/* News */}}
-  {{- partialCached "core/home/news_featured" . -}}
-
   {{/* Topics */}}
   {{- partialCached "core/home/topics_featured" . -}}
+
+  {{/* News */}}
+  {{- partialCached "core/home/spotlight_featured" . -}}
 
   {{/* Communities */}}
   {{- partialCached "core/home/communities_featured" . -}}

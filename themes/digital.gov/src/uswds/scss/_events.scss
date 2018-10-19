@@ -1,0 +1,100 @@
+// Events
+
+#events{
+  header {
+ 		@include u-margin-y(4);
+ 		h1{
+ 			@include u-margin-top(0);
+ 			@include u-margin-bottom(1);
+ 			@include u-font('sans', '2xl');
+ 			@include u-text('heavy');
+ 			@include u-line-height('sans', 2);
+ 		}
+ 		@include at-media('tablet') {
+ 			h1{
+ 				@include u-font('sans', '3xl');
+ 				@include u-line-height('sans', 2);
+ 			}
+ 		}
+ 		.deck{
+ 			@include u-font('sans', 'xl');
+ 			@include u-text('light');
+ 		}
+  }
+}
+.event{
+  @include u-margin-bottom(5);
+  h3{
+    @include u-margin(0);
+    @include u-text('bold');
+    @include u-font('sans', 'lg');
+    a{
+      @include u-text('no-underline');
+      @include u-text('indigo-90');
+      &:hover{
+        border-bottom: 3px #656bd7 solid; // $indigo-40
+      }
+    }
+  }
+  h5{
+    @include u-margin(0);
+    @include u-font('sans', 'md');
+    @include u-text('medium');
+    @include u-text('orange-warm-50v');
+    span{
+      @include u-margin-x('05');
+      @include u-text('orange-warm-50v');
+    }
+  }
+  p{
+    @include u-margin-top(1);
+    @include u-font('sans', 'sm');
+    @include u-text('light');
+    @include u-measure(2);
+  }
+  .btn{
+    @include u-text('center');
+    @include u-font('sans', 'md');
+    @include u-text('light');
+    a{
+      @include u-bg('indigo-warm-70');
+      @include u-text('gray-1');
+      @include u-display('block');
+      @include u-padding-y(1);
+      @include u-text('no-underline');
+      &:hover{
+        @include u-bg('indigo-warm-80');
+      }
+    }
+  }
+  .register{
+    a{
+      @include u-bg('indigo-warm-50v');
+      @include u-text('gray-1');
+      @include u-text('uppercase');
+      &:hover{
+        @include u-bg('indigo-warm-60v');
+      }
+    }
+  }
+
+  header{
+    h3{
+      @include u-margin(0);
+      @include u-font('sans', 'xs');
+      @include u-line-height('sans', 3);
+      a{
+        @include u-text('no-underline');
+        color: #000;
+        &:hover{
+          border-bottom: 2px #914734 solid; // $indigo-40
+        }
+      }
+    }
+    p{
+      @include u-margin(0);
+      @include u-font('sans', '2xs');
+    }
+  }
+
+}
