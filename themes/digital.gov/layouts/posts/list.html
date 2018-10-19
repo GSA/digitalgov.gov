@@ -1,40 +1,68 @@
 {{ define "content" }}
 
-<section id="posts">
+<main role="main" id="posts" class="collection">
   <div class="grid-container padding-x-2">
-    <div class="grid-row">
-      <div class="grid-col">
-        <h1>All Posts</h1>
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12 tablet:grid-col-3">
+        <nav class="topics-featured">
+          <header>
+            <h4>Topics</h4>
+          </header>
+          <ul class="add-list-reset">
+            {{ $topics := (where .Site.Pages "Section" "topics") }}
+            {{ range $name, $taxonomy := $topics.ByTitle }}
+              {{ if or (eq .Params.weight 2) (eq .Params.weight 3) }}
+              <li>
+                <a href="{{ .Permalink }}" title="{{ $name }}"><span>{{ .Title }}</span></a>
+              </li>
+              {{ end }}
+            {{ end }}
+          </ul>
+          <footer>
+            <p><a href="{{ "/topics/" | absURL }}">See all {{ len $topics }} topics »</a></p>
+          </footer>
+        </nav>
       </div>
-    </div>
 
-    {{/* list and paginate all of the posts */}}
-    <div class="grid-row grid-gap-6">
-      <div class="grid-col-8">
 
-          {{ $paginator := .Paginate (where .Site.Pages "Section" "posts") }}
-          {{ range $paginator.Pages }}
-          <div class="entry{{ if .Params.featured_image.uid }} has-img{{ end }}">
-            <div class="entry-content">
-              <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
-              <p class="date">{{ .Date.Format "Jan _2, 2006" }} {{ partial "post-authors.html" . }}</p>
-              <p class="summary">{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;»</a></p>
+      <div class="grid-col-12 tablet:grid-col-9">
+        <section class="article-list">
+          <header>
+
+            <h1>{{ .Title }}</h1>
+
+          </header>
+          {{ range .Paginator.Pages }}
+
+          <article>
+            <div class="grid-row grid-gap-3">
+              <div class="grid-col-3">
+                <div class="media">
+                  <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
+                    {{ partial "img-featured--home.html" . }}
+                  </a>
+                </div>
+              </div>
+              <div class="grid-col-9">
+                <header>
+                  <h3><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></h3>
+                  <p>{{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
+
+                </header>
+                <footer>
+                  <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2" -}}</a><span>&#10038;</span>{{- partial "core/get_authors_short" . -}}
+                </footer>
+              </div>
             </div>
-            {{ partial "img-featured.html" . }}
-          </div>
+          </article>
 
           {{ end }}
           {{ partial "pagination.html" . }}
-        </div>
+        </section>
 
-      <div class="grid-col-4">
-        <div class="sidebar">
-          {{ partial "sidebar--topics.html" . }}
-        </div>
       </div>
-
     </div>
   </div>
-</section>
+</main>
 
 {{ end }}

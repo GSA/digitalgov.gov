@@ -1,23 +1,23 @@
 {{- define "content" -}}
 
-<main role="main" id="post">
+<main role="main">
   <article>
     <div class="grid-container padding-x-2">
 
       {{/* header */}}
-      <header class="grid-row">
+      <div class="grid-row">
         <div class="grid-col-12">
+          <header>
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}} </h1>
 
-          {{/* Page Title */}}
-          <h1>{{- .Title | markdownify -}} </h1>
-
-          {{/* Deck */}}
-          {{- if .Params.deck -}}
-          <div class="deck">{{- .Params.deck -}}</div>
-          {{- end -}}
-
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck -}}</div>
+            {{- end -}}
+          </header>
         </div>
-      </header>
+      </div>
 
 
       <div class="grid-row margin-y-2 grid-gap-6">
@@ -34,14 +34,22 @@
           {{/* Last updated */}}
           {{/* {{- partial "last-updated" . -}}  */}}
 
-          {{/* Topics */}}
-          {{- partial "core/get_topics" . -}}
+
+          {{/* Related Communities */}}
+          {{- partial "core/get_communities" . -}}
 
           {{/* Promos */}}
           {{- partial "core/get_promos" . -}}
 
-          {{/* Related Communities */}}
-          {{- partial "core/get_communities" . -}}
+          {{/* Topics */}}
+          {{- partial "core/get_topics" . -}}
+
+          {{/* Share Tools */}}
+          {{- partial "core/get_sharetools" . -}}
+
+
+
+
 
         </div>
 

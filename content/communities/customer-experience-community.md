@@ -2,8 +2,11 @@
 url: /communities/customer-experience-community/
 uid: customer-experience-community
 date: 2015-07-08 10:30:37 -0400
-title: 'Customer Experience Community of Practice'
-summary: 'The government Customer Experience Community of Practice (CX-COP) is an interagency group of customer experience practitioners, with over 700 members across more than 140 federal, state and local U.S. government offices and agencies.'
+title: 'Customer Experience'
+summary: 'We are an interagency group of customer experience practitioners.'
+members: 782
+topics:
+  - customer-experience
 aliases:
   - /customer-experience-community/
 ---
