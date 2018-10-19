@@ -62,6 +62,8 @@
           @include u-margin-right('05');
           position: relative;
           top:2px;
+          width: 16px;
+          height: 16px;
         }
         a{
           @include u-text('no-underline');
