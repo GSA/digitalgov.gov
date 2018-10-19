@@ -2,7 +2,9 @@ jQuery(document).ready(function($) {
 
 	function enable_edit_this(){
 		$('*[data-edit-this]').each(function(){
-			var edit_path = $(this).data('edit-this');
+			var filepath = $(this).data('edit-this');
+			var edit_path = "https://github.com/"+git_org+"/"+git_repo+"/edit/"+branch+"/content/"+filepath;
+			console.log(edit_path);
 			var edit_link = '<a class="edit_this_btn" href="'+edit_path+'" title="edit this"><span>edit</span></a>';
 			$(this).addClass('edit-this').append(edit_link);
 		});

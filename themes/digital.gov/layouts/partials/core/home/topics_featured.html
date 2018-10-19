@@ -15,7 +15,7 @@
       {{ range $name, $taxonomy := $topics.ByTitle }}
         {{ if eq .Params.weight 3 }}
         <div class="grid-col-12 tablet:grid-col-4 flex-6">
-          <div class="topic topic-slim" data-edit-this="{{- partial "core/edit-this" (dict "branch" ($.Scratch.Get "branch") "filepath" .File.Path) -}}">
+          <div class="topic topic-slim" data-edit-this="{{- .File.Path -}}">
             <h3>
               <a class="text-no-underline text-ink" href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}}</a>
             </h3>

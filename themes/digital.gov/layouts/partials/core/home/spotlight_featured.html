@@ -31,7 +31,7 @@
             {{ if eq .Params.type "spot" }}
               {{/* Spots — External links */}}
 
-              <article data-edit-this="{{- partial "core/edit-this" (dict "branch" ($.Scratch.Get "branch") "filepath" .File.Path) -}}">
+              <article data-edit-this="{{- .File.Path -}}">
                 <p>
                   {{/* Favicon
                   If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
@@ -55,7 +55,7 @@
               </article>
             {{ else }}
               {{/* Blog Posts — Internal links */}}
-              <article data-edit-this="{{- partial "core/edit-this" (dict "branch" ($.Scratch.Get "branch") "filepath" .File.Path) -}}">
+              <article data-edit-this="{{- .File.Path -}}">
                 <p><img src="{{ "img/digit-16.png" | absURL }}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</p>
                 <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
               </article>
