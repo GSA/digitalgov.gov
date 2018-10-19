@@ -1,5 +1,6 @@
 jQuery(document).ready(function($) {
 
+
 	function enable_edit_this(){
 		$('*[data-edit-this]').each(function(){
 			var edit_path = $(this).data('edit-this');
