@@ -4,6 +4,8 @@
 <!-- If the branch_name is empty (usually on localhost), set it to "MASTER" -->
 {{ if eq (getenv "BRANCH") "" }}
   {{ $.Scratch.Set "branch" "master" }}
+{{ else if eq (getenv "BRANCH") "demo"}}
+  {{ $.Scratch.Set "branch" "demo" }}
 {{ else }}
   {{ $.Scratch.Set "branch" (getenv "BRANCH") }}
 {{ end }}
