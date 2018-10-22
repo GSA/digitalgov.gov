@@ -34,7 +34,7 @@
                 <div class="grid-col-9">
                   <header>
                     <h3><a href="{{- .URL -}}" title="{{- .Title | markdownify -}}" rel="bookmark">{{- .Title | markdownify -}}</a></h3>
-                    <p>{{- .Params.summary -}}</p>
+                    <p>{{- .Params.summary | markdownify -}}</p>
                   </header>
                 </div>
               </div>
