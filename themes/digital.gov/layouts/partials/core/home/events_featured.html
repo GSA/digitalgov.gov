@@ -1,5 +1,5 @@
 {{/* Training & Events / Featured */}}
-<section id="training-events">
+<section id="events_featured">
   <div class="grid-container padding-x-2">
 
     <div class="grid-row grid-gap-2">
@@ -12,39 +12,40 @@
     </div>
 
     <div class="grid-row grid-gap-2">
-      <div class="grid-col-12 tablet:grid-col-6">
-        {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
-        {{- range $events -}}
-          {{- $now := now.Format "2006-01-02" -}}
-          {{- $start := .Date.Format "2006-01-02" -}}
-          {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
+      <div class="grid-col-12 tablet:grid-col-7">
+        <section>
+          {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
+          {{- range $events -}}
+            {{- $now := now.Format "2006-01-02" -}}
+            {{- $start := .Date.Format "2006-01-02" -}}
+            {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
 
-          {{- if or (ge $start $now) (ge $end $now)}}
-          {{ getenv "BRANCH"}}
-          <article class="featured_event" data-edit-this="{{- .File.Path -}}">
-            <div class="grid-row grid-gap-2">
-              <div class="grid-col-3">
-                <div class="date">
-                  <span class="month">{{- .Date.Format "Jan" -}}</span>
-                  <span class="day">{{- .Date.Format "02" -}}</span>
+            {{- if or (ge $start $now) (ge $end $now)}}
+            {{ getenv "BRANCH"}}
+            <article class="featured_event" data-edit-this="{{- .File.Path -}}">
+              <div class="grid-row grid-gap-2">
+                <div class="grid-col-3">
+                  <div class="date">
+                    <span class="month">{{- .Date.Format "Jan" -}}</span>
+                    <span class="day">{{- .Date.Format "02" -}}</span>
+                    <a class="register" href="{{ .Params.registration_url }}" title="Register for {{- .Title | markdownify -}}">Register</a>
+                  </div>
                 </div>
-                <div class="register">
-                  <a href="#">Register</a>
+                <div class="grid-col-9">
+                  <header>
+                    <h3><a href="{{- .URL -}}" title="{{- .Title | markdownify -}}" rel="bookmark">{{- .Title | markdownify -}}</a></h3>
+                    <p>{{- .Params.summary -}}</p>
+                  </header>
                 </div>
               </div>
-              <div class="grid-col-9">
-                <header>
-                  <h3><a href="{{- .URL -}}" title="{{- .Title | markdownify -}}" rel="bookmark">{{- .Title | markdownify -}}</a></h3>
-                  <p>{{- .Params.summary -}}</p>
-                </header>
-              </div>
-            </div>
-          </article>
+              <a href="{{- .URL -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+            </article>
+            {{- end -}}
           {{- end -}}
-        {{- end -}}
+        </section>
       </div>
 
-      <div class="grid-col-12 tablet:grid-col-6">
+      <div class="grid-col-12 tablet:grid-col-5">
         <div class="events-table">
           <div class="youtube-player" data-id="yo5bsqixpNU"></div>
         </div>

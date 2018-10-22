@@ -1,65 +1,98 @@
 // training and events
 
-#training-events{
+#events_featured{
   @include u-padding-y(5);
   @include u-padding-bottom(6);
   @include u-bg('gray-warm-1');
-
-
-  .featured_event{
-    @include u-bg('indigo-5');
-    @include u-margin-bottom(1);
-    @include u-padding(1);
-    .date{
-      @include u-bg('gray-1');
-      @include u-text('center');
-      @include u-padding-y('05');
-      .month{
-        @include u-display('block');
-        @include u-font('sans', '2xs');
-        @include u-text('bold');
-        @include u-text('uppercase');
-      }
-      .day{
-        @include u-display('block');
-        @include u-font('sans', 'xl');
-        @include u-line-height('sans', 2);
-        @include u-text('thin');
-      }
+  header{
+    h2{
+      @include u-margin(0);
+      @include u-margin-bottom(1);
+      @include u-font('sans', '3xl');
+      @include u-text('thin');
+      @include u-text('indigo-90');
+      @include u-line-height('sans', 2);
     }
-    .register{
-      @include u-text('center');
-      @include u-text('uppercase');
-      @include u-font('sans', '2xs');
-      a{
-        @include u-bg('indigo-50v');
-        @include u-display('block');
-        @include u-padding-y('2px');
-        @include u-text('no-underline');
-        color: #fff;
-        &:hover{
-          @include u-bg('indigo-60v');
-        }
-      }
-    }
-    header{
-      h3{
+  }
+
+  section{
+    article.featured_event{
+      @include u-bg('indigo-5');
+      @include u-margin-bottom(1);
+      @include u-padding(2);
+      @include u-radius('sm');
+
+      .date{
         @include u-margin(0);
-        @include u-font('sans', 'xs');
-        @include u-line-height('sans', 3);
-        a{
+        @include u-bg('gray-1');
+        @include u-text('center');
+        @include u-padding-y('05');
+        @include u-display('block');
+        @include u-text('no-underline');
+        .month{
+          position: inherit;
+          @include u-display('block');
+          @include u-font('sans', '2xs');
+          @include u-text('bold');
+          @include u-text('uppercase');
+        }
+        .day{
+          position: inherit;
+          @include u-display('block');
+          @include u-font('sans', 'xl');
+          @include u-line-height('sans', 2);
+          @include u-text('thin');
+        }
+        .register{
+          @include u-text('center');
+          @include u-text('uppercase');
+          @include u-font('sans', '2xs');
+          @include u-bg('indigo-50v');
+          @include u-display('block');
+          @include u-padding-y('2px');
           @include u-text('no-underline');
-          color: #000;
+          z-index: 2;
+          position: relative;
+          color: #fff;
           &:hover{
-            border-bottom: 2px #914734 solid; // $indigo-40
+            border:none;
+            @include u-bg('indigo-60v');
           }
         }
       }
-      p{
+
+      header{
         @include u-margin(0);
-        @include u-font('sans', '2xs');
+        h3{
+          @include u-margin(0);
+          @include u-margin-bottom(1);
+          @include u-font('sans', 'md');
+          @include u-line-height('sans', 2);
+          a{
+            @include u-text('no-underline');
+            color: #000;
+            &:hover{
+              border-bottom: 2px #914734 solid; // $indigo-40
+            }
+          }
+        }
+        p{
+          @include u-margin(0);
+          @include u-font('sans', 'xs');
+          @include u-line-height('sans', 2);
+        }
+      }
+      // To make the whole EVENT promo clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+      position: relative;
+      a span{
+        margin: 0;
+        position:absolute;
+        width:100%;
+        height:100%;
+        top:0;
+        left: 0;
+        z-index: 1;
       }
     }
-
   }
 }
