@@ -3,7 +3,7 @@
 #events_featured{
   @include u-padding-y(5);
   @include u-padding-bottom(6);
-  @include u-bg('mint-20');
+  // @include u-bg('mint-cool-10');
   header{
     h2{
       @include u-margin(0);
@@ -20,22 +20,23 @@
   }
 
   section{
-    @include u-bg('mint-30');
+    // @include u-bg('mint-30');
+    // @include u-bg('mint-cool-20');
     @include u-padding('05');
     article.featured_event{
-      @include u-bg('mint-10');
+      @include u-bg('mint-cool-10');
       &:hover{
-        @include u-bg('mint-30');
+        @include u-bg('mint-cool-20');
       }
       @include u-padding('105');
-      @include u-margin-bottom('05');
+      @include u-margin-bottom(1);
       @include u-radius('sm');
 
       .date{
         @include u-margin(0);
+        @include u-padding-top('05');
         @include u-bg('gray-1');
         @include u-text('center');
-        @include u-padding-y('05');
         @include u-display('block');
         @include u-text('no-underline');
         .month{
@@ -48,7 +49,7 @@
         .day{
           position: inherit;
           @include u-display('block');
-          @include u-font('sans', 'xl');
+          @include u-font('sans', '2xl');
           @include u-line-height('sans', 2);
           @include u-text('thin');
         }
@@ -57,8 +58,8 @@
           @include u-text('uppercase');
           @include u-font('sans', '2xs');
           @include u-bg('indigo-50v');
-          // @include u-display('block');
-          @include u-display('none');
+          @include u-display('block');
+          // @include u-display('none');
           @include u-padding-y('2px');
           @include u-text('no-underline');
           z-index: 2;
