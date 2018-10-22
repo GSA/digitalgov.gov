@@ -23,4 +23,4 @@ A video walkthrough + Q&A for Cloud Service Providers interested in learning mor
 
 ## What we’ll cover
 
-During the webinar we will review the new pages that have been added to the website and the resources we’ve consolidated on each page for your ease. Additionally, we will answer any questions you have on the update.
+In this talk, we'll review the new pages that've been added to the FedRAMP website and the resources that have been consolidated on each page. Additionally, the FedRAMP PMO will answer any questions you have on the update.
