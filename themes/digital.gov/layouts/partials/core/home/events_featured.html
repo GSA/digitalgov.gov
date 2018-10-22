@@ -12,7 +12,7 @@
     </div>
 
     <div class="grid-row grid-gap-2">
-      <div class="grid-col-12 tablet:grid-col-7">
+      <div class="grid-col-12 tablet:grid-col-6">
         <section>
           {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
           {{- range $events -}}
@@ -21,7 +21,6 @@
             {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
 
             {{- if or (ge $start $now) (ge $end $now)}}
-            {{ getenv "BRANCH"}}
             <article class="featured_event" data-edit-this="{{- .File.Path -}}">
               <div class="grid-row grid-gap-2">
                 <div class="grid-col-3">
@@ -45,7 +44,7 @@
         </section>
       </div>
 
-      <div class="grid-col-12 tablet:grid-col-5">
+      <div class="grid-col-12 tablet:grid-col-6">
         <div class="events-table">
           <div class="youtube-player" data-id="yo5bsqixpNU"></div>
         </div>
