@@ -19,7 +19,7 @@ youtube_id: RTVrSikRqus
 
 {{< img-right src="featued-301-x-212-fedramp-2017-5th-anniversary-logo" >}}
 
-A video walkthrough + Q & A for 3 PAOs interested in learning more about [the recent updates](https://www.fedramp.gov/find-resources-easier-with-new-updates-to-fedrampgov/) to [fedramp.gov](https://fedramp.gov) and the resources available to help CSPs through the FedRAMP authorization process.
+A video walkthrough + Q & A for 3PAOs interested in learning more about [the recent updates](https://www.fedramp.gov/find-resources-easier-with-new-updates-to-fedrampgov/) to [fedramp.gov](https://fedramp.gov) and the resources available to help CSPs through the FedRAMP authorization process.
 
 ## What we’ll cover
 
