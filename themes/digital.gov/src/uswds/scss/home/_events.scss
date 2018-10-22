@@ -3,23 +3,32 @@
 #events_featured{
   @include u-padding-y(5);
   @include u-padding-bottom(6);
-  @include u-bg('gray-warm-1');
+  @include u-bg('mint-20');
   header{
     h2{
       @include u-margin(0);
       @include u-margin-bottom(1);
       @include u-font('sans', '3xl');
       @include u-text('thin');
-      @include u-text('indigo-90');
+      @include u-text('indigo-80');
       @include u-line-height('sans', 2);
+    }
+    p{
+      @include u-font('sans', 'lg');
+      @include u-text('indigo-80');
     }
   }
 
   section{
+    @include u-bg('mint-30');
+    @include u-padding('05');
     article.featured_event{
-      @include u-bg('indigo-5');
-      @include u-margin-bottom(1);
-      @include u-padding(2);
+      @include u-bg('mint-10');
+      &:hover{
+        @include u-bg('mint-30');
+      }
+      @include u-padding('105');
+      @include u-margin-bottom('05');
       @include u-radius('sm');
 
       .date{
@@ -48,7 +57,8 @@
           @include u-text('uppercase');
           @include u-font('sans', '2xs');
           @include u-bg('indigo-50v');
-          @include u-display('block');
+          // @include u-display('block');
+          @include u-display('none');
           @include u-padding-y('2px');
           @include u-text('no-underline');
           z-index: 2;
@@ -65,12 +75,12 @@
         @include u-margin(0);
         h3{
           @include u-margin(0);
-          @include u-margin-bottom(1);
+          @include u-margin-bottom('05');
           @include u-font('sans', 'md');
           @include u-line-height('sans', 2);
           a{
             @include u-text('no-underline');
-            color: #000;
+            @include u-text('gray-90');
             &:hover{
               border-bottom: 2px #914734 solid; // $indigo-40
             }
@@ -79,6 +89,7 @@
         p{
           @include u-margin(0);
           @include u-font('sans', 'xs');
+          @include u-text('gray-90');
           @include u-line-height('sans', 2);
         }
       }
