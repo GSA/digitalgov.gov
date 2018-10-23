@@ -7,11 +7,11 @@ authors:
   - samantha-hinz
 topics:
   - content
-  - 'Strategy and Policy'
-  - Writing
-  - content
-  - content strategy
-  - Plain language
+  - strategy and Policy
+  - policy
+  - writing
+  - content-strategy
+  - plain-language
   - Plain Language Community of Practice
   - Plain Writing Act of 2010
   - Recaps
