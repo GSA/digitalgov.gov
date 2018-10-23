@@ -9,11 +9,11 @@ authors:
 topics:
   - code
   - design
-  - GitHub
-  - open source
+  - github
+  - open-source
   - responsive web design
-  - US Web Design Standards
-  - user centered design
+  - us-web-design-standards
+  - user-centered-design
 ---
 
 We’ve recently added two powerful tools to the [U.S. Web Design Standards](https://standards.usa.gov/) development workflow that allow us to preview, test, and publish the Standards code more quickly and easily.

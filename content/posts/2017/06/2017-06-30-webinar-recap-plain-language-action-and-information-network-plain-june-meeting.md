@@ -7,7 +7,7 @@ authors:
   - samantha-hinz
 topics:
   - content
-  - strategy and Policy
+  - strategy
   - policy
   - writing
   - content-strategy
