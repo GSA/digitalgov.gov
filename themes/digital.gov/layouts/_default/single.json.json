@@ -57,41 +57,31 @@
         },
       {{- end -}}
 
-      {{ $sitetags := $.Site.Data.categories }}
-      {{ if (isset .Params "categories") }}
-        "categories" : {
-          {{ $_taxonomy := .Params.categories }}
-          {{ $length := $_taxonomy | len }}
-          {{ range $i, $e := $_taxonomy }}
-            {{ $slug := $e | urlize }}
-            {{ $cat := index $sitetags $slug }}
-            {{ $link := printf "categories/%s/" $slug }}
+      {{- if (not (isset .Params "topics")) | or (eq .Params.topics "") -}}
+      {{- else -}}
+        "topics" : {
+        {{/* Sets the taxonomy we're pulling here */}}
+        {{- $taxonomy := "topics" -}}
+        {{- $topics := .Param $taxonomy -}}
+        {{/* Gets the number of topics that are applied */}}
+        {{- $length := $topics | len -}}
+
+        {{/* For each of the topics,... */}}
+        {{- range $i, $e := sort $topics -}}
+          {{- $slug := . -}}
+          {{/* Gets the Topics page */}}
+          {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
             {{ if lt (add $i 1) $length }}
-              "{{- $slug -}}" : "{{- $cat.display_name | default $slug}}",
-            {{ else }}
-              "{{- $slug -}}" : "{{- $cat.display_name | default $slug}}"
+            "{{- $slug -}}" : "{{- .Title }}",
+            {{- else }}
+            "{{- $slug -}}" : "{{- .Title }}"
             {{ end }}
-          {{ end }}
+          {{- end -}}
+
+        {{- end -}}
         },
-      {{ end }}
-      
-      {{ $sitetags := $.Site.Data.tag }}
-      {{ if (isset .Params "tag") }}
-        "tags" : {
-          {{ $_taxonomy := .Params.tag }}
-          {{ $length := $_taxonomy | len }}
-          {{ range $i, $e := $_taxonomy }}
-            {{ $slug := $e | urlize }}
-            {{ $tag := index $sitetags $slug }}
-            {{ $link := printf "tag/%s/" $slug }}
-            {{ if lt (add $i 1) $length }}
-              "{{- $slug -}}" : "{{- $tag.display_name | default $slug}}",
-            {{ else }}
-              "{{- $slug -}}" : "{{- $tag.display_name | default $slug}}"
-            {{ end }}
-          {{ end }}
-        },
-      {{ end }}
+      {{- end -}}
+
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
       "filename" : {{ .File.LogicalName | jsonify }},
       "filepath" : {{ .File.Path | jsonify }},
