@@ -63,30 +63,6 @@
           },
         {{- end -}}
 
-        {{- if (isset .Params "topics") -}}
-          "topics" : {
-          {{/* Sets the taxonomy we're pulling here */}}
-          {{- $taxonomy := "topics" -}}
-          {{- $topics := .Param $taxonomy -}}
-          {{/* Gets the number of topics that are applied */}}
-          {{- $length := $topics | len -}}
-
-          {{/* For each of the topics,... */}}
-          {{- range $i, $e := sort $topics -}}
-            {{- $slug := . -}}
-            {{/* Gets the Topics page */}}
-            {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
-              {{ if lt (add $i 1) $length }}
-              "{{- $slug -}}" : "{{- .Title }}",
-              {{- else }}
-              "{{- $slug -}}" : "{{- .Title }}"
-              {{ end }}
-            {{- end -}}
-
-          {{- end -}}
-          },
-        {{- end -}}
-
         "filename" : {{ .File.LogicalName | jsonify }},
         "filepath" : {{ .File.Path | jsonify }},
         "filepathURL" : {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path | jsonify }},
