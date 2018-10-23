@@ -63,8 +63,7 @@
           },
         {{- end -}}
 
-        {{- if (not (isset .Params "topics")) | or (eq .Params.topics "") -}}
-        {{- else -}}
+        {{- if (isset .Params "topics") -}}
           "topics" : {
           {{/* Sets the taxonomy we're pulling here */}}
           {{- $taxonomy := "topics" -}}
