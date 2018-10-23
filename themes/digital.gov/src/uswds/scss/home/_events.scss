@@ -47,7 +47,7 @@
           @include u-font('sans', '2xs');
           @include u-text('bold');
           @include u-text('uppercase');
-          @include u-bg('red-20v');
+          @include u-bg('red-30v');
         }
         .day{
           position: inherit;
@@ -96,7 +96,7 @@
         @include u-text('gray-90');
         @include u-line-height('sans', 2);
       }
-      
+
       // To make the whole EVENT promo clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
       position: relative;
       a span{
