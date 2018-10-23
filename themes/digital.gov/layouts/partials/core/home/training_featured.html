@@ -1,0 +1,27 @@
+{{/* Training & Events / Featured */}}
+<section id="training_featured">
+  <div class="grid-container">
+
+    <div class="grid-row grid-gap-2">
+      <div class="grid-col-12">
+        <header>
+          <h2>Learn from the best</h2>
+          <p>Training text government-wide elevate your skills text goes here.</p>
+        </header>
+      </div>
+    </div>
+
+    <div class="grid-row">
+
+      {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
+      {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
+        {{ if .Params.youtube_id }}
+          <div class="grid-col-2">
+            <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
+          </div>
+        {{ end }}
+      {{ end }}
+
+    </div>
+  </div>
+</section>

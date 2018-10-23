@@ -10,10 +10,12 @@
       @include u-margin-bottom(1);
       @include u-font('sans', '3xl');
       @include u-text('thin');
+      @include u-text('center');
       @include u-text('indigo-80');
       @include u-line-height('sans', 2);
     }
     p{
+      @include u-text('center');
       @include u-font('sans', 'lg');
       @include u-text('indigo-80');
     }
@@ -24,76 +26,77 @@
     // @include u-bg('mint-cool-20');
     @include u-padding('05');
     article.featured_event{
-      @include u-bg('mint-cool-10');
-      &:hover{
-        @include u-bg('mint-cool-20');
-      }
+      // @include u-bg('mint-cool-10');
+      // &:hover{
+      //   @include u-bg('mint-cool-20');
+      // }
       @include u-padding('105');
       @include u-margin-bottom(1);
       @include u-radius('sm');
 
       .date{
         @include u-margin(0);
-        @include u-padding-top('05');
         @include u-bg('gray-1');
         @include u-text('center');
         @include u-display('block');
         @include u-text('no-underline');
         .month{
           position: inherit;
+          @include u-padding-y('2px');
           @include u-display('block');
           @include u-font('sans', '2xs');
           @include u-text('bold');
           @include u-text('uppercase');
+          @include u-bg('red-20v');
         }
         .day{
           position: inherit;
+          @include u-padding-y('05');
           @include u-display('block');
-          @include u-font('sans', '2xl');
+          @include u-font('sans', 'xl');
           @include u-line-height('sans', 2);
           @include u-text('thin');
         }
-        .register{
-          @include u-text('center');
-          @include u-text('uppercase');
-          @include u-font('sans', '2xs');
-          @include u-bg('indigo-50v');
-          @include u-display('block');
-          // @include u-display('none');
-          @include u-padding-y('2px');
-          @include u-text('no-underline');
-          z-index: 2;
-          position: relative;
-          color: #fff;
-          &:hover{
-            border:none;
-            @include u-bg('indigo-60v');
-          }
+      }
+
+      .register{
+        @include u-text('center');
+        @include u-text('uppercase');
+        @include u-font('sans', 'sm');
+        @include u-bg('indigo-50v');
+        @include u-display('block');
+        // @include u-display('none');
+        @include u-padding-y(1);
+        @include u-text('no-underline');
+        z-index: 2;
+        position: relative;
+        color: #fff;
+        &:hover{
+          border:none;
+          @include u-bg('indigo-60v');
         }
       }
 
-      header{
+      h3{
         @include u-margin(0);
-        h3{
-          @include u-margin(0);
-          @include u-margin-bottom('05');
-          @include u-font('sans', 'md');
-          @include u-line-height('sans', 2);
-          a{
-            @include u-text('no-underline');
-            @include u-text('gray-90');
-            &:hover{
-              border-bottom: 2px #914734 solid; // $indigo-40
-            }
+        @include u-margin-bottom('05');
+        @include u-font('sans', 'md');
+        @include u-line-height('sans', 2);
+        a{
+          @include u-text('no-underline');
+          @include u-text('gray-90');
+          &:hover{
+            border-bottom: 2px #914734 solid; // $indigo-40
           }
         }
-        p{
-          @include u-margin(0);
-          @include u-font('sans', 'xs');
-          @include u-text('gray-90');
-          @include u-line-height('sans', 2);
-        }
       }
+      p{
+        @include u-margin(0);
+        @include u-font('sans', 'xs');
+        @include u-text('gray-90');
+        @include u-line-height('sans', 2);
+      }
+      
       // To make the whole EVENT promo clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
       position: relative;
       a span{

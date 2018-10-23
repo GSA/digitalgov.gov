@@ -1,6 +1,6 @@
 ---
 slug: government-api-community-practice-quarterly-checkin
-title: 'Government API Community of Practice - Quarterly Check-In'
+title: 'Government API Community - Quarterly Check-In'
 summary: 'An opportunity for API practitioners from across federal agencies to come together, share news, and discuss topics of interest.'
 featured_image:
   uid:

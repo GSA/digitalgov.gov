@@ -12,7 +12,7 @@
     </div>
 
     <div class="grid-row grid-gap-2">
-      <div class="grid-col-12 tablet:grid-col-7">
+      <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
         <section>
           {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
           {{- range $events -}}
@@ -21,66 +21,28 @@
             {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
 
             {{- if or (ge $start $now) (ge $end $now)}}
-            <article class="featured_event" data-edit-this="{{- .File.Path -}}">
+            <article class="featured_event promo" data-edit-this="{{- .File.Path -}}">
               <div class="grid-row grid-gap-2">
-                <div class="grid-col-3">
+                <div class="grid-col-2">
                   <div class="date">
                     <span class="month">{{- .Date.Format "Jan" -}}</span>
                     <span class="day">{{- .Date.Format "02" -}}</span>
-                    <a class="register" href="{{ .Params.registration_url }}" title="Register for {{- .Title | markdownify -}}">Register</a>
                   </div>
                 </div>
-                <div class="grid-col-9">
-                  <header>
-                    <h3><a href="{{- .URL -}}" title="{{- .Title | markdownify -}}" rel="bookmark">{{- .Title | markdownify -}}</a></h3>
-                    <p>{{- .Params.summary | markdownify -}}</p>
-                  </header>
+                <div class="grid-col-8">
+                  <h3><a href="{{- .URL -}}" title="{{- .Title | markdownify -}}" rel="bookmark">{{- .Title | markdownify -}}</a></h3>
+                  <p>{{- .Params.summary | markdownify -}}</p>
                 </div>
+                <div class="grid-col-2">
+                  <a class="register" href="{{ .Params.registration_url }}" title="Register for {{- .Title | markdownify -}}">Register</a>
+                </div>
+                <a href="{{- .URL -}}" title="{{- .Title | markdownify -}}"><span></span></a>
               </div>
-              <a href="{{- .URL -}}" title="{{- .Title | markdownify -}}"><span></span></a>
             </article>
             {{- end -}}
           {{- end -}}
         </section>
       </div>
-
-      <div class="grid-col-12 tablet:grid-col-5">
-        <div class="events-table">
-          <div class="youtube-player" data-id="yo5bsqixpNU"></div>
-        </div>
-      </div>
-      <script type="text/javascript">
-        /* Light YouTube Embeds by @labnol */
-        /* Web: http://labnol.org/?p=27941 */
-
-        document.addEventListener("DOMContentLoaded",
-            function() {
-                var div, n,
-                    v = document.getElementsByClassName("youtube-player");
-                for (n = 0; n < v.length; n++) {
-                    div = document.createElement("div");
-                    div.setAttribute("data-id", v[n].dataset.id);
-                    div.innerHTML = labnolThumb(v[n].dataset.id);
-                    div.onclick = labnolIframe;
-                    v[n].appendChild(div);
-                }
-            });
-
-        function labnolThumb(id) {
-            var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
-                play = '<div class="play"></div>';
-            return thumb.replace("ID", id) + play;
-        }
-
-        function labnolIframe() {
-            var iframe = document.createElement("iframe");
-            var embed = "https://www.youtube.com/embed/ID?autoplay=1";
-            iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
-            iframe.setAttribute("frameborder", "0");
-            iframe.setAttribute("allowfullscreen", "1");
-            this.parentNode.replaceChild(iframe, this);
-        }
-      </script>
     </div>
   </div>
 </section>
