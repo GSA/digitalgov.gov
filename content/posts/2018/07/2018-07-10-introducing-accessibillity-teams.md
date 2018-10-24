@@ -8,13 +8,10 @@ authors:
   - maya-benari
 topics:
   - accessibility
-  - ux
-  - section-508
-  - methodology
-  - agile
   - design
-  - accessibility
-  - apis
+  - ux
+  - methodology
+  - section-508
 featured_image:
   uid: accessibility-for-teams-2
   alt: Colorful graphic of a group of handicapped symbols
