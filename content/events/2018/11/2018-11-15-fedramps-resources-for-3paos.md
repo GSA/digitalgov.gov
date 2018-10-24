@@ -8,12 +8,14 @@ featured_image:
 event_type:
   - youtube-live
   - online
-date: 2018-11-12 14:00:00 -0500
-end_date: 2018-11-12 15:00:00 -0500
+date: 2018-11-15 14:00:00 -0500
+end_date: 2018-11-15 15:00:00 -0500
 event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/fedramps-resources-for-3paos-registration-51525265456
 youtube_id: RTVrSikRqus
+aliases:
+  - /event/2018/11/12/fedramps-resources-for-3paos/
 
 ---
 
