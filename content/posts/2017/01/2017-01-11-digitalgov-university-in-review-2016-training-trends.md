@@ -60,7 +60,7 @@ topics:
   - training
   - TTS
   - US General Services Administration
-  - virtual reality
+  - virtual-reality
   - virtual-augmented-reality-community
   - webinar
 ---

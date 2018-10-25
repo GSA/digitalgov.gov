@@ -11,7 +11,7 @@ topics:
   - IRS
   - mobile-apps
   - thursday-mobile-products
-  - US Digital Registry
+  - us-digital-registry
   - usa-gov-federal-mobile-apps-directory
 ---
 

@@ -23,7 +23,7 @@ topics:
   - Recaps
   - user generated content
   - video
-  - virtual reality
+  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

@@ -13,7 +13,7 @@ topics:
   - mobile
   - mobile-apps
   - Trends on Tuesday
-  - virtual reality
+  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6
   - Trends on Tuesday
-  - virtual reality
+  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

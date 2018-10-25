@@ -13,7 +13,7 @@ topics:
   - augmented-reality
   - challenges and prize competitions
   - challenges-and-prizes-community-of-practice
-  - virtual reality
+  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

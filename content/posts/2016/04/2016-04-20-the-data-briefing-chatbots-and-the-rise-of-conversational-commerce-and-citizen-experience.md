@@ -21,7 +21,7 @@ topics:
   - user-experience
   - USPTO
   - ux
-  - virtual reality
+  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

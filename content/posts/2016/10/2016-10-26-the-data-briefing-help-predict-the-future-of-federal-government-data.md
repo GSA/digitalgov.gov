@@ -34,7 +34,7 @@ topics:
   - research
   - security
   - the-data-briefing
-  - virtual reality
+  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

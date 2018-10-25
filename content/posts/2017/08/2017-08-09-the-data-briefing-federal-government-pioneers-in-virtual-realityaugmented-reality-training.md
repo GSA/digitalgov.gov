@@ -13,7 +13,7 @@ topics:
   - augmented-reality
   - video
   - video-production-pros-community
-  - virtual reality
+  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

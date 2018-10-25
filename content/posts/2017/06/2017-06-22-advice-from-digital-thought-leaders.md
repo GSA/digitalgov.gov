@@ -18,7 +18,7 @@ topics:
   - united-states-department-of-health-and-human-services
   - video
   - video-production-pros-community
-  - virtual reality
+  - virtual-reality
   - virtual-augmented-reality-community
 ---
 

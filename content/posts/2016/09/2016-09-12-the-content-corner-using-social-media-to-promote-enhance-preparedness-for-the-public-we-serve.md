@@ -24,7 +24,7 @@ topics:
   - NWS
   - social-media
   - the-content-corner
-  - US Digital Registry
+  - us-digital-registry
   - usa-gov-federal-mobile-apps-directory
 ---
 
