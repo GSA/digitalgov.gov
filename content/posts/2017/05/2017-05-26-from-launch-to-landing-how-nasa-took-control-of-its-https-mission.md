@@ -12,7 +12,7 @@ topics:
   - 18f
   - dhs
   - GSA
-  - HTTPS
+  - https
   - nasa
   - National Aeronautics and Space Administration
   - Office of Management and Budget

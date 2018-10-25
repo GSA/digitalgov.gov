@@ -9,7 +9,7 @@ topics:
   - metrics
   - social-media
   - DOI
-  - Facebook
+  - facebook
   - National Resources Conservation Service
   - Twitter
   - US Department of Agriculture

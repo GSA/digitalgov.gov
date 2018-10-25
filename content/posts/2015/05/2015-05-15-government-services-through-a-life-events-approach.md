@@ -15,7 +15,7 @@ topics:
   - Federal Student Aid
   - FSA
   - GSA
-  - Personas
+  - personas
   - US Department of the Treasury
   - usa.gov
 ---

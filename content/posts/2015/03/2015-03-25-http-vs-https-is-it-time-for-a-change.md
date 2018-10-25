@@ -9,7 +9,7 @@ topics:
   - data
   - monthly-theme
   - big data
-  - HTTPS
+  - https
   - privacy
   - security
   - US Department of State

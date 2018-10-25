@@ -14,7 +14,7 @@ topics:
   - thursday-mobile-products
   - US Department of Agriculture
   - United States Census Bureau
-  - USAgov
+  - usagov
   - USDA
 ---
 

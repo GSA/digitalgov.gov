@@ -11,7 +11,7 @@ topics:
   - DigitalGov User Experience Program
   - national-science-foundation
   - nsf
-  - usability case study
+  - usability-case-study
   - user-experience
 ---
 

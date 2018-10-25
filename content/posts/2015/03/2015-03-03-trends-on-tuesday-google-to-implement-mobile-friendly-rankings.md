@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-ux-guideline-4
   - responsive-web-design
-  - Sites
+  - sites
   - trends-on-tuesday
 ---
 

@@ -10,7 +10,7 @@ topics:
   - customer-experience
   - customer-service
   - cx
-  - Personas
+  - personas
   - user-centered-design
   - user-experience
   - VA

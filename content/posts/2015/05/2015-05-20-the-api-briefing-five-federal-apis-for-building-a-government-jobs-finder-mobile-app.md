@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - api
-  - DigitalGov Search
+  - digitalgov-search
   - mobile-apps
   - wednesday-api-briefing
 ---

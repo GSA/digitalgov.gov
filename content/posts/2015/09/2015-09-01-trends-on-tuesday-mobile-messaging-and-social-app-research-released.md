@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - Facebook
+  - facebook
   - instagram
   - linkedin
   - mobile

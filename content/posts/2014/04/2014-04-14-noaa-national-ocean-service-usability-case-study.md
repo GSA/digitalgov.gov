@@ -9,12 +9,12 @@ topics:
   - design
   - user-testing-and-research
   - ux
-  - DigitalGov Search
+  - digitalgov-search
   - National Ocean Service
   - National Oceanic and Atmospheric Administration
   - NOAA
   - usability
-  - usability case study
+  - usability-case-study
   - usability-testing
 ---
 

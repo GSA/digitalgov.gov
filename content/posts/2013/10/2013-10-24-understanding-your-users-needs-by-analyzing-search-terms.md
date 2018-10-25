@@ -10,7 +10,7 @@ topics:
   - data
   - managing-digital
   - metrics
-  - DigitalGov Search
+  - digitalgov-search
 ---
 
 {{< legacy-img src="2013/10/250-x-166-Magnifier-and-documents-SarapulSar38-iStock-Thinkstock-179126082.jpg" alt="Magnifying glass and documents." caption="" >}} 

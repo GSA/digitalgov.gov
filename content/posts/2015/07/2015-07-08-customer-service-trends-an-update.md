@@ -21,7 +21,7 @@ topics:
   - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - Personas
+  - personas
   - Smithsonian Institution
   - social-media
   - US Department of Veterans Affairs

@@ -8,12 +8,12 @@ authors:
 topics:
   - managing-digital
   - multilingual
-  - Personas
+  - personas
   - usability
-  - usability case study
+  - usability-case-study
 ---
 
-{{< legacy-img src="2015/02/600-x-400-Closeup-Of-Raised-Multiethnic-Hands-IPGGutenbergUKLtd-iStock-Thinkstock-462848199.jpg" alt="Close-up of raised, multi-ethnic hands." caption="" >}} 
+{{< legacy-img src="2015/02/600-x-400-Closeup-Of-Raised-Multiethnic-Hands-IPGGutenbergUKLtd-iStock-Thinkstock-462848199.jpg" alt="Close-up of raised, multi-ethnic hands." caption="" >}}
 
 Your audience is not homogenous. No matter the agency, target audiences are not only diverse, they are diverse on a multitude of factors. Recently, evolving trends in multicultural marketing have gained attention as organizations adjust their marketing and outreach strategies to meet 21st century realities.
 

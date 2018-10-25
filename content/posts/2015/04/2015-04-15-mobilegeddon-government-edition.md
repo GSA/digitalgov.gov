@@ -7,14 +7,14 @@ authors:
   - dmccleskey
 topics:
   - mobile
-  - DigitalGov Search
+  - digitalgov-search
   - mobile
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - mobile-friendly
   - Plain language
   - responsive-web-design
-  - search engine optimization
+  - search-engine-optimization
   - usability
 ---
 

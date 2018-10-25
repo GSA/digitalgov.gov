@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - our-work
   - api
-  - DigitalGov Search
+  - digitalgov-search
   - Federal Register
   - instagram
   - NLM

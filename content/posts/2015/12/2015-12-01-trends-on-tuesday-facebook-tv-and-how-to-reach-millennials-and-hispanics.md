@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - Facebook
+  - facebook
   - mobile
   - mobile-first
   - mobile-friendly

@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - agile
   - Office of the U.S. Foreign Assistance Resources
-  - Personas
+  - personas
   - US Department of State
   - user-experience
 ---

@@ -17,7 +17,7 @@ topics:
   - NCCIH
   - nih
   - social-media
-  - social-media metrics
+  - social-media-metrics
   - video
   - video-production-pros-community
 ---

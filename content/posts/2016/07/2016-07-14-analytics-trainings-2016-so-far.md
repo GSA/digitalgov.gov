@@ -12,7 +12,7 @@ topics:
   - DGU
   - digital-analytics-program
   - digitalgov-university
-  - Google Analytics
+  - google-analytics
   - metrics
   - Recaps
   - webinar

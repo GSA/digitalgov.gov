@@ -9,7 +9,7 @@ topics:
   - content
   - administrative-office-of-the-united-states-courts
   - content-strategy
-  - Personas
+  - personas
   - social-media
   - the-content-corner
 ---

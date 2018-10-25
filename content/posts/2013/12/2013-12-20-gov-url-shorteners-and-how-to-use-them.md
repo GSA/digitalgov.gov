@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - content
-  - USAgov
+  - usagov
 ---
 
 [{{< legacy-img src="2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/GoUSA_logo.png)USA.gov offers two different types of URL shorteners – 1.USA.gov and Go.USA.gov. No matter which URL shortener you use, there are some usability, accessibility, and SEO issues you should keep in mind.

@@ -9,7 +9,7 @@ topics:
   - design
   - ux
   - data-gov
-  - usability case study
+  - usability-case-study
   - user-experience
 ---
 

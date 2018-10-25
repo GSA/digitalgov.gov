@@ -9,7 +9,7 @@ topics:
   - content
   - our-work
   - api
-  - USAgov
+  - usagov
 ---
 
 {{< legacy-img src="2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}You can now log in to [Go.USA.gov](https://go.usa.gov/) with your username or email address, one of the  new improvements added to the government URL shortener. Previously you could only log in with your username. You can now:

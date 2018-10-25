@@ -11,7 +11,7 @@ topics:
   - content-strategy
   - customer-service
   - infographic
-  - Personas
+  - personas
   - Plain language
   - social-media
   - the-content-corner

@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - Facebook
+  - facebook
 ---
 
 <p dir="ltr">

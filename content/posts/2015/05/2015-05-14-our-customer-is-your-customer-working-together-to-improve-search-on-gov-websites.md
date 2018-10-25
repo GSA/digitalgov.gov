@@ -11,8 +11,8 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - DigitalGov Search
-  - search engine optimization
+  - digitalgov-search
+  - search-engine-optimization
 ---
 
 We know search engines aren’t Magic 8 Balls, but that&#8217;s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we&#8217;ve felt that frustration when the top search results don&#8217;t serve our needs, and the results page itself makes us work.

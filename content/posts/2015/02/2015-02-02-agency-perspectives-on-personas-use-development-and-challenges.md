@@ -8,7 +8,7 @@ authors:
 topics:
   - ux
   - HHS
-  - Personas
+  - personas
   - US Department of Agriculture
   - united-states-department-of-health-and-human-services
   - USDA

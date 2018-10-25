@@ -14,7 +14,7 @@ topics:
   - Tribal
   - Tribal Government
   - US Department of the Interior
-  - usability case study
+  - usability-case-study
   - usability-testing
   - user-experience
 ---

@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - our-work
-  - Sites
+  - sites
   - sitesusagov
   - State
   - US Department of State

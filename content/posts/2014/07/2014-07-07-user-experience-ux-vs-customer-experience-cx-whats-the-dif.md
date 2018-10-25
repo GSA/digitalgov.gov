@@ -12,7 +12,7 @@ topics:
   - AoI
   - customer-experience
   - DigitalGov User Experience Program
-  - search engine optimization
+  - search-engine-optimization
   - user-experience
 ---
 

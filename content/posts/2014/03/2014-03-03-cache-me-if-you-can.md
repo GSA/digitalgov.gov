@@ -10,7 +10,7 @@ topics:
   - data
   - our-work
   - customer-experience
-  - DigitalGov Search
+  - digitalgov-search
   - GitHub
 ---
 

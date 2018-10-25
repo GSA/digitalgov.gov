@@ -14,7 +14,7 @@ topics:
   - FAA
   - Federal Aviation Administration
   - GSA
-  - Personas
+  - personas
   - prototype
   - usability-testing
   - user-experience

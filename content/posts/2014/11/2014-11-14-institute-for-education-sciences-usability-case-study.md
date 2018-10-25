@@ -12,7 +12,7 @@ topics:
   - Institute for Education Sciences
   - Plain language
   - US Department of Education
-  - usability case study
+  - usability-case-study
   - user-experience
   - ux
 ---

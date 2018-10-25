@@ -10,7 +10,7 @@ topics:
   - ux
   - DigitalGov User Experience Program
   - usability
-  - usability case study
+  - usability-case-study
   - user-experience
 ---
 

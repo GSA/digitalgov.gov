@@ -9,7 +9,7 @@ topics:
   - user-testing-and-research
   - DigitalGov User Experience Program
   - usability
-  - usability case study
+  - usability-case-study
   - usability-testing
   - user-experience
 ---

@@ -9,7 +9,7 @@ topics:
   - ux
   - first-click testing
   - prototype
-  - usability case study
+  - usability-case-study
   - user-experience
 ---
 

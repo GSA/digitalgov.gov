@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - our-work
   - digital-analytics-program
-  - DigitalGov Search
+  - digitalgov-search
   - Federal CrowdSource Mobile Testing Program
 ---
 

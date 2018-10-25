@@ -14,7 +14,7 @@ topics:
   - digital-analytics-program
   - GSA
   - usability
-  - USAgov
+  - usagov
   - user-experience
   - ux
 ---

@@ -31,7 +31,7 @@ topics:
   - US Department of State
   - US Digital Service
   - usa.gov
-  - USAgov
+  - usagov
   - USCIS
   - USDS
   - user-experience

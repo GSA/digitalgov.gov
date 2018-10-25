@@ -12,7 +12,7 @@ topics:
   - quick study
   - research
   - US Department of Veterans Affairs
-  - usability case study
+  - usability-case-study
   - usability-testing
   - user-centered-design
   - user-experience

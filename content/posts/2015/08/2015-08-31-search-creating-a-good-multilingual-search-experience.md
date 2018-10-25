@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - our-work
-  - DigitalGov Search
+  - digitalgov-search
   - GobiernoUSAgov
   - multilingual
   - State

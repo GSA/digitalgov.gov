@@ -15,7 +15,7 @@ topics:
   - customer-service
   - Digital Services Playbook
   - government contact centers
-  - Personas
+  - personas
 ---
 
 {{< legacy-img src="2015/01/600-x-450-Silver-plate-with-chart-peshkov-iStock-Thinkstock-490450531.jpg" alt="Silver plate with chart" caption="" >}} 

@@ -10,7 +10,7 @@ topics:
   - our-work
   - social-media
   - video
-  - DigitalGov Search
+  - digitalgov-search
   - instagram
 ---
 

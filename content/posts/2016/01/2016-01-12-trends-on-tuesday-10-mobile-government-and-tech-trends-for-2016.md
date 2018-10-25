@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - mobile
   - monthly-theme
-  - HTTPS
+  - https
   - Internet of things
   - mobile
   - mobile-apps

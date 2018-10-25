@@ -9,9 +9,9 @@ topics:
   - content
   - metrics
   - our-work
-  - DigitalGov Search
+  - digitalgov-search
   - Recaps
-  - search engine optimization
+  - search-engine-optimization
 ---
 
 On June 10, 2014, the Metrics Community of Practice of the Federal Web Managers Council and [DigitalGov University]({{< link "/digitalgov-university/" >}}) hosted an event to honor the memory of Joe Pagano, a former co-chair of the Web Metrics Sub-Council.

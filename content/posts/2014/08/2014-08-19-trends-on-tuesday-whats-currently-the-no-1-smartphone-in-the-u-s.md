@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
-  - Facebook
+  - facebook
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5

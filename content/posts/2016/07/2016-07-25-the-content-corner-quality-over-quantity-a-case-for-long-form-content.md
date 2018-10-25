@@ -17,7 +17,7 @@ topics:
   - digital-analytics-program
   - mobile
   - social-media
-  - social-media metrics
+  - social-media-metrics
   - the-content-corner
 ---
 

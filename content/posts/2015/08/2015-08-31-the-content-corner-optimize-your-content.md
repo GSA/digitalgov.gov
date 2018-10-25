@@ -10,7 +10,7 @@ topics:
   - writing
   - administrative-office-of-the-united-states-courts
   - infographic
-  - search engine optimization
+  - search-engine-optimization
   - the-content-corner
 ---
 

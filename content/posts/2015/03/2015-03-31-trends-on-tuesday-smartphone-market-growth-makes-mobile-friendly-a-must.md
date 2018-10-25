@@ -17,7 +17,7 @@ topics:
   - mobile-friendly
   - mobile-gov
   - responsive-web-design
-  - Sites
+  - sites
   - trends-on-tuesday
 ---
 

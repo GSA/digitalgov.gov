@@ -11,7 +11,7 @@ topics:
   - DigitalGov User Experience Program
   - GSA
   - usability
-  - usability case study
+  - usability-case-study
   - user-experience
 ---
 

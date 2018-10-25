@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - our-work
-  - DigitalGov Search
+  - digitalgov-search
   - podcast
 ---
 

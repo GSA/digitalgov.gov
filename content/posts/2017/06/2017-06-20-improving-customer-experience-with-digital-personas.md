@@ -14,7 +14,7 @@ topics:
   - cx
   - NARA
   - National Archives and Records Administration
-  - Personas
+  - personas
   - user-centered-design
 ---
 

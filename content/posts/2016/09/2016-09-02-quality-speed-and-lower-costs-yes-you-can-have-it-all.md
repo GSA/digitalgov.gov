@@ -14,7 +14,7 @@ topics:
   - our-work
   - strategy
   - policy
-  - DigitalGov Search
+  - digitalgov-search
   - infrastructure
 ---
 

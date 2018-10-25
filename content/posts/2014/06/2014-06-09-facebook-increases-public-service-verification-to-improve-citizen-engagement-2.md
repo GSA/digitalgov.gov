@@ -15,7 +15,7 @@ topics:
   - Central Intelligence Agency
   - CIA
   - data-gov
-  - Facebook
+  - facebook
   - socialgov-community
   - user-experience
 ---

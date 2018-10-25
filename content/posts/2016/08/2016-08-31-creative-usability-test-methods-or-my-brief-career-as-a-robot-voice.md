@@ -14,7 +14,7 @@ topics:
   - Government Contact Center Council
   - government contact centers
   - usability-testing
-  - USAgov
+  - usagov
   - user-experience
   - user-experience-community-of-practice
   - user research

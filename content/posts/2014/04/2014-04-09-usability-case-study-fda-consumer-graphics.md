@@ -13,7 +13,7 @@ topics:
   - infographic
   - us-food-and-drug-administration
   - usability
-  - usability case study
+  - usability-case-study
   - user-experience
 ---
 

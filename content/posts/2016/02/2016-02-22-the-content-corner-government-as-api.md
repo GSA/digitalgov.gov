@@ -18,7 +18,7 @@ topics:
   - national-institutes-of-health
   - nih
   - open-and-structured-content-models
-  - Sites
+  - sites
   - the-content-corner
 ---
 

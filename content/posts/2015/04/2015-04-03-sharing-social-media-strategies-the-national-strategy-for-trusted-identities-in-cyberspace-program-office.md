@@ -12,7 +12,7 @@ topics:
   - NIST
   - security
   - social-media
-  - social-media metrics
+  - social-media-metrics
   - Twitter
 ---
 

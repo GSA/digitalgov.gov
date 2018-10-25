@@ -11,15 +11,15 @@ topics:
   - analytics
   - BBG
   - Broadcasting Board of Governors
-  - DigitalGov Search
+  - digitalgov-search
   - DOI
   - epa
-  - Facebook
+  - facebook
   - fda
   - GAO
   - HHS
   - social-media
-  - social-media metrics
+  - social-media-metrics
   - SocialGov
   - socialgov-community
   - Terms of Service

@@ -26,7 +26,7 @@ topics:
   - open-source
   - social-media
   - usa.gov
-  - USAgov
+  - usagov
   - user-centered-design
 ---
 

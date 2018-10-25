@@ -9,10 +9,10 @@ topics:
   - content
   - administrative-office-of-the-united-states-courts
   - CMS
-  - HTTPS
+  - https
   - metadata
-  - search engine optimization
-  - SEO
+  - search-engine-optimization
+  - seo
   - the-content-corner
 ---
 

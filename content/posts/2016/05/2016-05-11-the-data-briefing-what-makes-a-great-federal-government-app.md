@@ -25,7 +25,7 @@ topics:
   - US Department of State
   - United States Census Bureau
   - United States Patent and Trademark Office
-  - USAgov
+  - usagov
   - USDA
   - USPTO
 ---

@@ -9,7 +9,7 @@ topics:
   - accessibility
   - social-media
   - accessibility
-  - USAgov
+  - usagov
 ---
 
 One of the biggest things we take into account whenever we consider launching on a new social platform is how we can make the information we share through that tool as accessible as possible.

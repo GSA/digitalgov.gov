@@ -9,7 +9,7 @@ topics:
   - metrics
   - dap
   - digital-analytics-program
-  - HTTPS
+  - https
 ---
 
 The U.S. government&#8217;s [Digital Analytics Program]({{< link "dap.md" >}}) (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at [analytics.usa.gov](https://analytics.usa.gov/).

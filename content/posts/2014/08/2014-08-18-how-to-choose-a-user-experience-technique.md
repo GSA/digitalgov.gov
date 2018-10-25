@@ -10,7 +10,7 @@ topics:
   - ux
   - customer-experience
   - DigitalGov User Experience Program
-  - Personas
+  - personas
   - usability-testing
   - user-experience
 ---

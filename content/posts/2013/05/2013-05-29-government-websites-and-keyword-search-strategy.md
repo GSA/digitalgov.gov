@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - ux
-  - search engine optimization
+  - search-engine-optimization
 ---
 
 {{< legacy-img src="2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle" >}}Having a keyword search strategy is critical for government agencies to:

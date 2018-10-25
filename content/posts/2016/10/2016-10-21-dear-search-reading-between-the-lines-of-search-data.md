@@ -10,7 +10,7 @@ topics:
   - our-work
   - ux
   - analytics
-  - DigitalGov Search
+  - digitalgov-search
   - user-experience
   - ux
 ---

@@ -13,10 +13,10 @@ topics:
   - policy
   - analytics
   - GSA
-  - HTTPS
+  - https
   - metrics
   - policy
-  - search engine optimization
+  - search-engine-optimization
   - security
 ---
 

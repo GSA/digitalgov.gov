@@ -11,7 +11,7 @@ topics:
   - analytics
   - dap
   - nasa
-  - social-media metrics
+  - social-media-metrics
 ---
 
 [{{< legacy-img src="2015/09/600-x-313_1019-pm-274-629-PEAK-full-eclipse1.jpg" alt="A screen capture from Analytics.USA.gov shows that 274,629 people visited U.S. governnment websites at 10:19 pm on September 27, 2015 during the Super Blood Moon lunar eclipse." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/09/1080-x-1285_1019-pm-274-629-PEAK-full-eclipse.jpg)

@@ -12,7 +12,7 @@ topics:
   - United States Army
   - United States Department of Defense
   - usability
-  - usability case study
+  - usability-case-study
   - usability-testing
   - user-experience
 ---

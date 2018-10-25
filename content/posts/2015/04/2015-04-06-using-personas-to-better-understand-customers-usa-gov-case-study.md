@@ -11,9 +11,9 @@ topics:
   - analytics
   - customer-service
   - digital-analytics-program
-  - DigitalGov Search
+  - digitalgov-search
   - GobiernoUSAgov
-  - Personas
+  - personas
   - usa.gov
   - user-experience
   - ux

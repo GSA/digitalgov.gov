@@ -9,9 +9,9 @@ topics:
   - content
   - multilingual
   - responsive-web-design
-  - search engine optimization
+  - search-engine-optimization
   - usability
-  - USAgov
+  - usagov
   - user-experience
 ---
 

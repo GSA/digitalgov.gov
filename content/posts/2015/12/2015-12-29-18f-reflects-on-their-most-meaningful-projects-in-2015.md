@@ -20,7 +20,7 @@ topics:
   - FEC
   - Federal Election Commission
   - GSA
-  - HTTPS
+  - https
   - Office of Management and Budget
   - OMB
   - open-data

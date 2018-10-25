@@ -9,7 +9,7 @@ topics:
   - content
   - administrative-office-of-the-united-states-courts
   - NPS
-  - SEO
+  - seo
   - the-content-corner
   - US National Park Service
 ---

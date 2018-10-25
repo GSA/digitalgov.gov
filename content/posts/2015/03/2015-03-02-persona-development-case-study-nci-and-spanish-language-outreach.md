@@ -12,7 +12,7 @@ topics:
   - multilingual
   - National Cancer Institute
   - NCI
-  - Personas
+  - personas
   - US Bureau of Labor Statistics
   - United States Census Bureau
   - usability starter kit

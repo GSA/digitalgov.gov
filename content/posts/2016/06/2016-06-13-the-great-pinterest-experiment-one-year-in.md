@@ -17,7 +17,7 @@ topics:
   - kids.gov
   - Pinterest
   - social-media
-  - social-media metrics
+  - social-media-metrics
   - usa.gov
 ---
 

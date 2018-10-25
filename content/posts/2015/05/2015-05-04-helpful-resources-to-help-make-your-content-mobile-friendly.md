@@ -15,12 +15,12 @@ topics:
   - mobile-friendly
   - mobile-gov
   - responsive-web-design
-  - Sites
+  - sites
   - sitesusagov
-  - usability case study
+  - usability-case-study
 ---
 
-{{< legacy-img src="2015/05/450-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="" >}} 
+{{< legacy-img src="2015/05/450-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="" >}}
 
 Smartphones make up 75% of the mobile market—which makes [mobile-friendliness a must]({{< link "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}) for government agencies. With the recent update to Google’s search algorithm, or what some are calling [Mobilegeddon]({{< link "2015-04-15-mobilegeddon-government-edition.md" >}}), the case for building a mobile-friendly site becomes even stronger.
 
@@ -35,25 +35,25 @@ Here are a few resources to help in your agency&#8217;s quest to become responsi
 ## **Specific Mobile Web Techniques and Tools**
 
 [Open Source Content Management Systems and Responsive Web Design Webinar Recap]({{< link "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}})
-  
+
 This helpful webinar discusses content management systems like Drupal and how to use them to“grid” your website for RWD.
 
 [Sites.usa.gov](https://sites.usa.gov/)
-  
+
 Sites.usa.gov is a shared service to help agencies focus on creating great content rather than on building systems to deliver that content. Sites provides an easy way to create a website that incorporates RWD and meets federal requirements.
 
 [Digital Analytics Program]({{< link "2015-03-04-what-is-the-digital-analytics-program-dap.md" >}})
-  
+
 The Digital Analytics Program&#8217;s customized Web analytics solution provides federal employees access to a common set of web metrics like pageviews, unique users, mobile vs. desktop visits, average time on page, bounce rate, number of downloads, etc.
 
 [Code Developed by Department of Health and Human Services to](https://github.com/HHS/HHS-Responsive-Design) [Make](https://github.com/HHS/HHS-Responsive-Design) [Tables](https://github.com/HHS/HHS-Responsive-Design) [Mobile-Friendly](https://github.com/HHS/HHS-Responsive-Design)
-  
+
 The Department of Health and Human Services [developed and shared Bootstrap code]({{< link "2014-10-30-hhs-conquers-tables-in-a-responsive-design.md" >}}) to make tables and charts responsive. The Defense Finance and Accounting Services (DFAS) [leveraged this code for their site]({{< link "2014-12-11-defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables.md" >}}).
 
 ## **Challenges of RWD**
 
 [Responsive Web Design Challenges Webinar Recap]({{< link "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}})
-  
+
 Agencies discuss the challenges faced when implementing RWD, including making a case for why your agency should adopt RWD, scheduling/project management concerns, and dealing with specific things such as PDFs and tables on the redesigned site.
 
 ## **Responsive Web Design Case Studies**

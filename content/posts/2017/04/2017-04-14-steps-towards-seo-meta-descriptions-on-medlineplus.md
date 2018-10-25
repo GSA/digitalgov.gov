@@ -11,8 +11,8 @@ topics:
   - social-media
   - code
   - multilingual
-  - search engine optimization
-  - SEO
+  - search-engine-optimization
+  - seo
   - social-media
 ---
 

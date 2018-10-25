@@ -14,7 +14,7 @@ topics:
   - data-gov
   - DGU
   - HHS
-  - HTTPS
+  - https
   - metadata
   - National Cancer Institute
   - NCI

@@ -10,7 +10,7 @@ topics:
   - social-media
   - administrative-office-of-the-united-states-courts
   - content-strategy
-  - Facebook
+  - facebook
   - linkedin
   - social-media
   - the-content-corner

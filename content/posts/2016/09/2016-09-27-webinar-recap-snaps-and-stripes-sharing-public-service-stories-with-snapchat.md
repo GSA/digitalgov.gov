@@ -32,7 +32,7 @@ topics:
   - Smithsonian Institution
   - social-media
   - US General Services Administration
-  - USAgov
+  - usagov
   - user-experience
   - ux
   - video

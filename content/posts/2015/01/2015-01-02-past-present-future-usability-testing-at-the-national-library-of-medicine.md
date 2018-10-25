@@ -13,7 +13,7 @@ topics:
   - ux
   - National Library of Medicine
   - NLM
-  - usability case study
+  - usability-case-study
   - usability-testing
   - user-experience
   - ux

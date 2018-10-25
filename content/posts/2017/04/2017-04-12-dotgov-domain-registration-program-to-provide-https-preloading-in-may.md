@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - GSA
-  - HTTPS
+  - https
   - security
   - US General Services Administration
 ---

@@ -9,8 +9,8 @@ topics:
   - content
   - monthly-theme
   - administrative-office-of-the-united-states-courts
-  - search engine optimization
-  - SEO
+  - search-engine-optimization
+  - seo
   - the-content-corner
 ---
 

@@ -11,8 +11,8 @@ topics:
   - analytics
   - dap
   - digital-analytics-program
-  - Google Analytics
-  - HTTPS
+  - google-analytics
+  - https
   - metrics
 ---
 

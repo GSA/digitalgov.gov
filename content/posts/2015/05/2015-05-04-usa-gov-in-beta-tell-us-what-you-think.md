@@ -14,7 +14,7 @@ topics:
   - drupal
   - GobiernoUSAgov
   - government contact centers
-  - Personas
+  - personas
   - social-media
   - usa.gov
 ---

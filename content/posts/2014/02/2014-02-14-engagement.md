@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - DGU
-  - Facebook
+  - facebook
   - social-media
   - Twitter
   - US Fish and Wildlife Service

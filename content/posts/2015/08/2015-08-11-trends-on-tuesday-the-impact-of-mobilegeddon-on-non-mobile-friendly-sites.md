@@ -7,11 +7,11 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - DigitalGov Search
+  - digitalgov-search
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - mobile-first
-  - search engine optimization
+  - search-engine-optimization
   - trends-on-tuesday
 ---
 

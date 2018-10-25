@@ -13,7 +13,7 @@ topics:
   - analytics
   - content-strategy
   - social-media
-  - social-media metrics
+  - social-media-metrics
   - the-content-corner
 ---
 

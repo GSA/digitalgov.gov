@@ -14,8 +14,8 @@ topics:
   - customer-satisfaction
   - GobiernoUSAgov
   - responsive-web-design
-  - usability case study
-  - USAgov
+  - usability-case-study
+  - usagov
 ---
 
 While many people tout the death of the home page, it’s still an important piece of the user experience on [USA.gov](http://www.usa.gov/). In 2013, 30% of all sessions on USA.gov included the home page—that’s 8.67 million sessions. The numbers for [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/index.shtml) are even higher—79% of all sessions included the home page. According to [Jakob Nielsen](http://www.nngroup.com/articles/homepage-real-estate-allocation/), “A homepage has two main goals: to give users information, and to provide top-level navigation to additional information inside the site.” Over the years, our home pages had evolved to focus more on promoting content we thought was exciting instead of the top tasks of our users. In response, we launched new home pages on June 11. How did we make the case for this major change? The answer is analytics. [{{< legacy-img src="2014/06/600-x-413-Using-Analytics-to-Create-Change-USAgov-old-vs-new.jpg" alt="The USA.gov home page from May 2014 (left) and June 2014 (right)." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/937-x-645-Using-Analytics-to-Create-Change-USAgov-old-vs-new.jpg)

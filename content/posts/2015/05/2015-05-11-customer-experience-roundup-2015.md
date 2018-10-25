@@ -13,7 +13,7 @@ topics:
   - customer-satisfaction
   - Export-Import Bank of the United States
   - National Cancer Institute
-  - Personas
+  - personas
 ---
 
 {{< legacy-img src="2014/09/600-x-450-Positive-Feedback-Simile-face-icon-bayhayalet-iStock-Thinkstock-478052387.jpg" alt="Happy or positive feedback smiley face icon" caption="" >}} 

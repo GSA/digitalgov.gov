@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - api
-  - USAgov
+  - usagov
 ---
 
 Next in our video blog series, Sarah Crane from USA.gov shares how multiple product lines have led to an inconsistent customer experience and how new functional teams are helping them become more efficient.

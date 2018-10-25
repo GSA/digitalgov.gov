@@ -10,7 +10,7 @@ topics:
   - ux
   - DigitalGov User Experience Program
   - usability
-  - USAgov
+  - usagov
   - user-experience
 ---
 

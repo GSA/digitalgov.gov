@@ -10,7 +10,7 @@ topics:
   - ux
   - DigitalGov User Experience Program
   - NOAA
-  - usability case study
+  - usability-case-study
   - usability-testing
   - user-experience
 ---

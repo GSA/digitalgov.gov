@@ -7,11 +7,11 @@ authors:
   - michelle-chronister
 topics:
   - social-media
-  - Facebook
+  - facebook
   - GobiernoUSAgov
   - social-media
   - Twitter
-  - USAgov
+  - usagov
 ---
 
 [{{< legacy-img src="2013/07/social-media-button1-250x113.jpg" alt="Computer key that says social media in blue" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/social-media-button1.jpg)USA.gov and GobiernoUSA.gov have been engaging with the public on social media long before Mayor Cory Booker underscored the need at this year’s SXSW.

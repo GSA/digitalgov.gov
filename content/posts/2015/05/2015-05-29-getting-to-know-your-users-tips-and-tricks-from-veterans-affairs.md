@@ -13,7 +13,7 @@ topics:
   - customer-experience
   - customer-satisfaction
   - customer-service
-  - Personas
+  - personas
   - US Department of Veterans Affairs
   - user-centered-design
   - user-experience

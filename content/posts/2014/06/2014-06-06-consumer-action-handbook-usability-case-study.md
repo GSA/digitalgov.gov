@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - ux
   - DigitalGov User Experience Program
-  - usability case study
+  - usability-case-study
   - usability-testing
   - user-experience
 ---

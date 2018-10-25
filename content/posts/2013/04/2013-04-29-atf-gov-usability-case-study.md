@@ -10,7 +10,7 @@ topics:
   - atf
   - Bureau of Alcohol Tobacco Firearms and Explosives
   - DigitalGov User Experience Program
-  - usability case study
+  - usability-case-study
   - usability-testing
   - user-experience
 ---

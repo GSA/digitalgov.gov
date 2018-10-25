@@ -14,7 +14,7 @@ topics:
   - GobiernoUSAgov
   - mobile
   - responsive-web-design
-  - USAgov
+  - usagov
 ---
 
 <p dir="ltr">

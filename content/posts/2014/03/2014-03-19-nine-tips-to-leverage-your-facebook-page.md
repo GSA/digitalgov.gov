@@ -9,7 +9,7 @@ authors:
 topics:
   - social-media
   - epa
-  - Facebook
+  - facebook
   - social-media
   - USGS
 ---

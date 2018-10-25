@@ -16,7 +16,7 @@ topics:
   - section 508
   - US Small Business Administration
   - usability
-  - USAgov
+  - usagov
   - user-experience
   - ux
 ---

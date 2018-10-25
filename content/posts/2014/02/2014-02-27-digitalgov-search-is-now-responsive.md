@@ -9,7 +9,7 @@ topics:
   - content
   - mobile
   - our-work
-  - DigitalGov Search
+  - digitalgov-search
   - responsive-web-design
 ---
 

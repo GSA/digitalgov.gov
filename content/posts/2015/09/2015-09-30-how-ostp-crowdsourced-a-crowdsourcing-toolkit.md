@@ -15,12 +15,12 @@ topics:
   - crowdsourcing
   - dap
   - digital-analytics-program
-  - DigitalGov Search
+  - digitalgov-search
   - FCPCCS
   - Open Opportunities program
   - OSTP
   - section 508
-  - Sites
+  - sites
   - sitesusagov
   - US Department of Veterans Affairs
   - VA

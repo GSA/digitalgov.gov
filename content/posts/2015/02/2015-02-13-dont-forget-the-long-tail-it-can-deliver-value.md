@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - our-work
   - analytics
-  - DigitalGov Search
+  - digitalgov-search
   - top-tasks
 ---
 

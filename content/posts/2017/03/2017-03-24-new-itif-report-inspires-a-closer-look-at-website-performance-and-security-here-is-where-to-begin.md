@@ -25,7 +25,7 @@ topics:
   - content-strategy
   - DGU
   - digitalgov-university
-  - HTTPS
+  - https
   - ITIF
   - metrics
   - mobile
@@ -33,10 +33,10 @@ topics:
   - Plain language
   - resource
   - responsive-web-design
-  - search engine optimization
+  - search-engine-optimization
   - section 508
   - security
-  - SEO
+  - seo
   - training
   - usability
   - user-centered-design

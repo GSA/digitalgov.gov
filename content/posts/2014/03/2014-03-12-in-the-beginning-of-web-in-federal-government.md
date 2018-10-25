@@ -25,7 +25,7 @@ topics:
   - united-states-department-of-health-and-human-services
   - united-states-department-of-homeland-security
   - United States Department of Housing and Urban Development
-  - USAgov
+  - usagov
   - Web Content Managers Forum
 ---
 

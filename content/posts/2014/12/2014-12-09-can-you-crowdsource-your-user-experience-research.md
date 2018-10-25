@@ -18,7 +18,7 @@ topics:
   - National Renewable Energy Laboratory
   - NREL
   - usability
-  - usability case study
+  - usability-case-study
   - usability starter kit
   - usability-testing
   - user-experience

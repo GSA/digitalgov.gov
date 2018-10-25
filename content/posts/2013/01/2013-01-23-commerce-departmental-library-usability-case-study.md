@@ -9,7 +9,7 @@ topics:
   - user-testing-and-research
   - Department of Commerce
   - DigitalGov User Experience Program
-  - usability case study
+  - usability-case-study
   - user-experience
 ---
 
