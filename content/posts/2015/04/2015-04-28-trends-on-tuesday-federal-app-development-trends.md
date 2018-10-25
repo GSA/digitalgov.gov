@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - mobile-ux-guideline-6
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/04/600-x-250-Apple-App-Store-and-Android-Google-Play-icons.jpg" alt="Apple App Store and Android Google Play icons" >}}Mobile apps meet real world needs. App development is not a homogenous process, however.

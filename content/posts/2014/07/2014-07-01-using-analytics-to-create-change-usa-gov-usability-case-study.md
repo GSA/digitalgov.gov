@@ -13,7 +13,7 @@ topics:
   - ux
   - customer satisfaction
   - GobiernoUSAgov
-  - responsive web design
+  - responsive-web-design
   - usability case study
   - USAgov
 ---

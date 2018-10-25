@@ -11,7 +11,7 @@ topics:
   - design
   - github
   - open-source
-  - responsive web design
+  - responsive-web-design
   - us-web-design-standards
   - user-centered-design
 ---

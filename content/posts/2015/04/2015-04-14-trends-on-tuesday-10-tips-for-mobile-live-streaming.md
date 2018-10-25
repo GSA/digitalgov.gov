@@ -11,7 +11,7 @@ topics:
   - video
   - mobile
   - mobile-ux-guideline-1
-  - Trends on Tuesday
+  - trends-on-tuesday
   - Twitter
 ---
 

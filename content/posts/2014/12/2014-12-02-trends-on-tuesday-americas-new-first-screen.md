@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-app-development-program
   - mobile-apps
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US Bureau of Labor Statistics
 ---
 

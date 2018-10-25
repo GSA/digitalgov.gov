@@ -12,7 +12,7 @@ topics:
   - DAP
   - Digital Analytics Program
   - ios
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 Mobile users of government websites are [growing in double digit percentages]({{< link "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}) and will likely soon become the [majority](http://marketingland.com/report-half-top-100-digital-properties-audiences-are-now-mobile-only-135353).

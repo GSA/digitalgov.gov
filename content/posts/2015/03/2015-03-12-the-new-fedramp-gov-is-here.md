@@ -12,7 +12,7 @@ topics:
   - Digital Analytics Program
   - FedRAMP
   - GSA
-  - responsive web design
+  - responsive-web-design
   - Sites
   - thursday-mobile-products
   - user-experience

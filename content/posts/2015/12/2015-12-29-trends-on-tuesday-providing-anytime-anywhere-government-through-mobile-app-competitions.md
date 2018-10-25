@@ -17,7 +17,7 @@ topics:
   - National Institute of Standards and Technology
   - National Institute on Drug Abuse
   - NIST
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US Environmental Protection Agency
 ---
 

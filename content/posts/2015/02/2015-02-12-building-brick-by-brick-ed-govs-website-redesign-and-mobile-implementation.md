@@ -12,7 +12,7 @@ topics:
   - CMS
   - content-management-system
   - mobile-ux-guideline-1
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
   - US Department of Education
 ---

@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - multilingual
-  - responsive web design
+  - responsive-web-design
   - search engine optimization
   - usability
   - USAgov

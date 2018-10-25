@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-4
   - mobile-friendly
   - NPS
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
   - US National Park Service
 ---

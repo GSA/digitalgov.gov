@@ -17,7 +17,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-6
   - Privacy Impact Assessment
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/12/600-x-226-Online-privacy-tupungato-iStock-Thinkstock-482992487.jpg" alt="Word cloud about online privacy" caption="" >}} 

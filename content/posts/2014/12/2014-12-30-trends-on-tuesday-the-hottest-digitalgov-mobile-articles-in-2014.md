@@ -10,7 +10,7 @@ topics:
   - mobile
   - api
   - mobile-gov-community-of-practice
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 QR codes, apps about whales, bullying and railroad crossings, challenges of responsive Web design and mobilizing charts and tables were the things you were most interested in this year.

@@ -13,7 +13,7 @@ topics:
   - linkedin
   - mobile
   - social-media
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 ComScore released a report with a lot of great data about how [mobile digital media usage continues to explode](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2016/2016-US-Cross-Platform-Future-in-Focus) in 2016. It has 70 pages of charts and information to digest. {{< legacy-img src="2015/06/600-x-360-World-social-digital-TCmake_photo-iStock-Thinkstock-183161931.jpg" alt="A digital graphic of social media icons revolving around a globe, above a smart phone" caption="" >}} 

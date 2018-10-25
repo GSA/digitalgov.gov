@@ -7,7 +7,7 @@ topics:
   - mobile
   - mobile-gov
   - mobile-first
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
   - United States Department of Energy
 ---

@@ -12,7 +12,7 @@ topics:
   - artificial intelligence
   - chatbots
   - mobile
-  - Trends on Tuesday
+  - trends-on-tuesday
   - voice
 ---
 

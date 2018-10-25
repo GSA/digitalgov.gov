@@ -10,8 +10,8 @@ topics:
   - mobile
   - native-app
   - native-apps
-  - responsive web design
-  - Trends on Tuesday
+  - responsive-web-design
+  - trends-on-tuesday
 ---
 
 Comscore released new data this month about trends in the smartphone space. The data showed that the [Android platform grew in market percentage](http://www.comscore.com/Insights/Market-Rankings/comScore-Reports-December-2015-US-Smartphone-Subscriber-Market-Share) (when combining all Android manufacturers). {{< legacy-img src="2016/02/600-x-400-Greeting-Google-Android-Mascot-JasminSeidel-iStock-Editorial-Thinkstock-458725611.jpg" alt="The Android green robot mascot waves hello." caption="" >}} 

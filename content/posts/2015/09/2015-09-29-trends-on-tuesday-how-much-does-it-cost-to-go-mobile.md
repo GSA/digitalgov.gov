@@ -17,9 +17,9 @@ topics:
   - mobile-gov
   - native-app
   - native-apps
-  - responsive web design
+  - responsive-web-design
   - Terms of Service
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Mobile-phone-and-airplanes-made-of-dollars-fruttipics-iStock-Thinkstock-458847825.jpg" alt="A formation of paper airplanes made of American dollars flies into a mobile phone." caption="" >}} 

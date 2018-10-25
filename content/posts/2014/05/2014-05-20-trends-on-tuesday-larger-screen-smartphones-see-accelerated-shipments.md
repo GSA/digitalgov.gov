@@ -11,7 +11,7 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 Smaller doesn&#8217;t mean more popular when it comes to smartphone screen size.

@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-5
   - mobile-friendly
   - native-app
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/09/Flurry-chart-US-Consumers-Add-58-More-Mobile-Minutes-Per-Day-Since-2014.jpg" alt="Flurry-chart-US-Consumers-Add-58-More-Mobile-Minutes-Per-Day-Since-2014" >}}

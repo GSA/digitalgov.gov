@@ -14,7 +14,7 @@ topics:
   - AoI
   - mobile
   - mobile-ux-guideline-5
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/10/250-x-260-QR-code-label-concept-mipan-iStock-Thinkstock-white-borer-cropped-156493708.jpg" alt="QR code label concept" caption="" >}} 

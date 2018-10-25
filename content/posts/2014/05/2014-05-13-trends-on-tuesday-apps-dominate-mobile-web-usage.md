@@ -11,7 +11,7 @@ topics:
   - mobile-apps
   - mobile-ux-guideline-5
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
   - Twitter
 ---
 

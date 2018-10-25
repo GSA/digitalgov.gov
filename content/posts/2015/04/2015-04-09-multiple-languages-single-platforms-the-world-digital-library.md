@@ -14,7 +14,7 @@ topics:
   - LOC
   - metadata
   - multilingual
-  - responsive web design
+  - responsive-web-design
   - social-media
   - Twitter
 ---

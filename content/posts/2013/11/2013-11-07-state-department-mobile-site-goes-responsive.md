@@ -7,7 +7,7 @@ topics:
   - design
   - mobile
   - mobile-gov
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
 ---
 

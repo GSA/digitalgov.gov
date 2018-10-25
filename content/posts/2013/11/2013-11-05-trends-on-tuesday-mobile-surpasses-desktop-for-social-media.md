@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-first
   - social-media
-  - Trends on Tuesday
+  - trends-on-tuesday
   - Twitter
 ---
 

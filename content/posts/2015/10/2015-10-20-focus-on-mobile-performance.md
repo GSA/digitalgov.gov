@@ -9,7 +9,7 @@ topics:
   - mobile
   - Monthly Theme
   - mobile
-  - Trends on Tuesday
+  - trends-on-tuesday
   - user-experience
   - ux
 ---

@@ -27,7 +27,7 @@ topics:
   - mobile-first
   - nasa
   - open-and-structured-content-models
-  - Trends on Tuesday
+  - trends-on-tuesday
   - United States Census Bureau
   - united-states-department-of-health-and-human-services
   - United States Department of Transportation

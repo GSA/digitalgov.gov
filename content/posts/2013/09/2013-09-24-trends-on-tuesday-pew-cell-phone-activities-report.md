@@ -7,7 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - mobile
-  - Trends on Tuesday
+  - trends-on-tuesday
   - user-experience
 ---
 

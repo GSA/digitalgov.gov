@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-5
   - native-app
   - native-apps
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/10/600-x-425-Social-Media-Time-Management-NiroDesign-iStock-Thinkstock-482599478.jpg" alt="The top half of a clock face with its hands on 11:51. Instead of numbers, it has web and social media terms: Post, Chat, Share, Friend, News, Link, and Blog." caption="" >}} 

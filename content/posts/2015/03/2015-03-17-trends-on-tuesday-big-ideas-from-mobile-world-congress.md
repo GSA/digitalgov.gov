@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6
-  - Trends on Tuesday
+  - trends-on-tuesday
   - virtual-reality
   - virtual-augmented-reality-community
 ---

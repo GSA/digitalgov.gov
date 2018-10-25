@@ -10,7 +10,7 @@ topics:
   - Internet of things
   - mobile
   - mobile-apps
-  - Trends on Tuesday
+  - trends-on-tuesday
   - user-experience
   - ux
 ---

@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-app-development-program
   - mobile-ux-guideline-5
-  - Trends on Tuesday
+  - trends-on-tuesday
   - user-experience
 ---
 

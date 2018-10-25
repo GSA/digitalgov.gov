@@ -15,7 +15,7 @@ topics:
   - mobile-gov
   - mobile-ux-guideline-1
   - mobile-gov
-  - responsive web design
+  - responsive-web-design
   - US Department of State
 ---
 

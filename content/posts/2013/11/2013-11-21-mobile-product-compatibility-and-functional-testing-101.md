@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - mobile
   - mobile-apps
-  - responsive web design
+  - responsive-web-design
 ---
 
 As covered in the [Mobile Product Testing Guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}} "Guidellines to Mobile Testing") article, there are various approaches to mobile testing. This article is a resource of the [Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program") and focuses on two common test types are compatibility testing and functional testing.

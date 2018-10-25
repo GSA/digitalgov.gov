@@ -17,7 +17,7 @@ topics:
   - content-strategy
   - GSA
   - open-source
-  - responsive web design
+  - responsive-web-design
   - sitesusagov
   - user-experience
 ---

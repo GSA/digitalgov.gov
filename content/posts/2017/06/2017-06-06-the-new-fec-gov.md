@@ -20,7 +20,7 @@ topics:
   - Federal Election Commission
   - GitHub
   - Plain language
-  - responsive web design
+  - responsive-web-design
   - US Web Design Standards
   - user-centered-design
   - user-experience

@@ -13,7 +13,7 @@ topics:
   - mobile-ux-guideline-2
   - mobile-ux-guideline-3
   - native-apps
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US Access Board
 ---
 

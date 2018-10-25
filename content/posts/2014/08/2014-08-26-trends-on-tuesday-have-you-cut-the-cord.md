@@ -13,7 +13,7 @@ topics:
   - mobile-ux-guideline-5
   - mobile-first
   - native-app
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/08/600-x-400-Scissors-cutting-phone-cord-eskaylim-iStock-Thinkstock-186002262.jpg" alt="Scissors cutting phone cord" caption="" >}} 

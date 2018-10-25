@@ -20,7 +20,7 @@ topics:
   - innovation
   - mobile
   - open-and-structured-content-models
-  - responsive web design
+  - responsive-web-design
   - US Department of Labor
   - user-experience
 ---

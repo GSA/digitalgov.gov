@@ -10,7 +10,7 @@ topics:
   - mobile
   - mobile
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
   - user-experience
 ---
 

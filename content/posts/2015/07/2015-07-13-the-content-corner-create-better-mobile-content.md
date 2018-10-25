@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5
-  - responsive web design
+  - responsive-web-design
   - the-content-corner
 ---
 

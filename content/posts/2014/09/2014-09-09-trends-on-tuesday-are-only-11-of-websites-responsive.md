@@ -15,8 +15,8 @@ topics:
   - HHS
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
-  - responsive web design
-  - Trends on Tuesday
+  - responsive-web-design
+  - trends-on-tuesday
   - United States Department of Energy
   - united-states-department-of-health-and-human-services
 ---

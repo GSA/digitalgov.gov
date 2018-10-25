@@ -12,7 +12,7 @@ topics:
   - COPE
   - metadata
   - open-and-structured-content-models
-  - responsive web design
+  - responsive-web-design
   - structured-content
 ---
 

@@ -9,7 +9,7 @@ topics:
   - content
   - DAP
   - Digital Analytics Program
-  - responsive web design
+  - responsive-web-design
   - US Department of Education
 ---
 

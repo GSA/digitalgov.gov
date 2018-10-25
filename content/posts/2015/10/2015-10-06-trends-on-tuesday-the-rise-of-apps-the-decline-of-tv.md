@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
   - mobile-friendly
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 Move over, 60 inch widescreens—for the first time ever, U.S. consumers are spending more time in mobile apps than on TV.

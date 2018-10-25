@@ -23,7 +23,7 @@ topics:
   - OPM
   - socialgov-community
   - SSA
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US Department of State
   - US Food and Drug Administration
   - United States Census Bureau

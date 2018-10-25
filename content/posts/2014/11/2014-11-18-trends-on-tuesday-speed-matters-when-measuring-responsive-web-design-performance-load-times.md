@@ -13,8 +13,8 @@ topics:
   - mobile-gov
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
-  - responsive web design
-  - Trends on Tuesday
+  - responsive-web-design
+  - trends-on-tuesday
   - united-states-department-of-health-and-human-services
   - user-experience
   - ux

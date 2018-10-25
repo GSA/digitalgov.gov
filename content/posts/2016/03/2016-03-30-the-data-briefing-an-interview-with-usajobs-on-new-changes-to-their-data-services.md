@@ -13,7 +13,7 @@ topics:
   - data
   - data-visualization
   - OPM
-  - responsive web design
+  - responsive-web-design
   - the-data-briefing
   - United States Office of Personnel Management
   - United States Patent and Trademark Office

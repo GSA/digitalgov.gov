@@ -19,7 +19,7 @@ topics:
   - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US Department of Agriculture
   - USDA
 ---

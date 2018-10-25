@@ -9,7 +9,7 @@ topics:
   - mobile
   - HHS
   - mobile-gov
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
 ---
 

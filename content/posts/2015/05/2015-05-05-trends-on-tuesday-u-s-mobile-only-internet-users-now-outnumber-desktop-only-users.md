@@ -11,7 +11,7 @@ topics:
   - mobile-first
   - mobile-friendly
   - native-app
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US National Park Service
 ---
 

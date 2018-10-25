@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - api
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2013/09/Mobileusersearch.jpg" alt="Mobile User Search Habits Graph" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/Mobileusersearch.jpg)

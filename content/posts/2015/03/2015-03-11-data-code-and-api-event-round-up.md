@@ -24,7 +24,7 @@ topics:
   - open-and-structured-content-models
   - open-data
   - Recaps
-  - responsive web design
+  - responsive-web-design
   - US Department of State
   - white-house
 ---

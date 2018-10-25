@@ -13,7 +13,7 @@ topics:
   - api
   - mobile-apps
   - native-app
-  - responsive web design
+  - responsive-web-design
   - United States Census Bureau
   - wednesday-api-briefing
 ---

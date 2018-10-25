@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/03/featured-stopwatch-cropped-301-x-212-250x176.jpg" alt="Stopwatch vector illustration" caption="" >}} 

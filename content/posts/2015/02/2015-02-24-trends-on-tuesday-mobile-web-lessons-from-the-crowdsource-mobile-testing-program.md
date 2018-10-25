@@ -14,8 +14,8 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
-  - responsive web design
-  - Trends on Tuesday
+  - responsive-web-design
+  - trends-on-tuesday
   - United States Department of Energy
 ---
 

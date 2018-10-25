@@ -17,7 +17,7 @@ topics:
   - open-and-structured-content-models
   - open-source
   - Recaps
-  - responsive web design
+  - responsive-web-design
   - sitesusagov
   - US Department of State
 ---

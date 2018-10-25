@@ -12,8 +12,8 @@ topics:
   - government contact centers
   - mobile-ux-guideline-3
   - native-app
-  - responsive web design
-  - Trends on Tuesday
+  - responsive-web-design
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/01/250-x-250-Mobile-phone-with-message-icon-tkacchuk-iStock-Thinkstock-183957481.jpg" alt="Mobile phone with message icon" caption="" >}} 

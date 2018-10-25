@@ -9,7 +9,7 @@ topics:
   - mobile
   - GobiernoUSAgov
   - multilingual
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2013/08/latino-infograph-236x1024-236x300.jpg" alt="Infographic by Mobile Future about Latino Mobile Use" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/latino-infograph-236x1024.jpg)Latinos appear to be adapting to mobile technology faster than other groups, according to [Mobile Future](http://mobilefuture.org/newsroom/infographic-latinos-embrace-the-mobile-future/). They are ahead of the average U.S. population in several key categories, such as:

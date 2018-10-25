@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-5
   - National Cancer Institute
   - NCI
-  - responsive web design
+  - responsive-web-design
   - usa-gov-federal-mobile-apps-directory
 ---
 

@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - mobile
   - mobile-apps
-  - responsive web design
+  - responsive-web-design
   - USAgov
   - ux
 ---

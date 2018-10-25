@@ -19,7 +19,7 @@ topics:
   - National Aeronautics and Space Administration
   - Office of Management and Budget
   - OMB
-  - responsive web design
+  - responsive-web-design
   - section 508
   - training
   - US Web Design Standards

@@ -32,7 +32,7 @@ topics:
   - mobile-first
   - Plain language
   - resource
-  - responsive web design
+  - responsive-web-design
   - search engine optimization
   - section 508
   - security

@@ -19,7 +19,7 @@ topics:
   - mobile-ux-guideline-1
   - native-app
   - open-and-structured-content-models
-  - responsive web design
+  - responsive-web-design
   - United States Department of Energy
   - united-states-department-of-health-and-human-services
 ---

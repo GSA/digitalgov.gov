@@ -20,7 +20,7 @@ topics:
   - National Oceanic and Atmospheric Administration
   - NOAA
   - socialgov-community
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US Department of Agriculture
   - US Forest Service
   - USDA

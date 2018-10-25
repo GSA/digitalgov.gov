@@ -16,7 +16,7 @@ topics:
   - 18f
   - accessibility
   - Draft Web Design Standards
-  - responsive web design
+  - responsive-web-design
   - US Web Design Standards
   - usability
   - user-centered-design

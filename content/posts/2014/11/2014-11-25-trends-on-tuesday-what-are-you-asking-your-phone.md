@@ -10,7 +10,7 @@ topics:
   - DOI
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-5
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US Department of the Interior
 ---
 

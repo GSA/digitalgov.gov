@@ -15,7 +15,7 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4
-  - Trends on Tuesday
+  - trends-on-tuesday
   - user-experience
 ---
 

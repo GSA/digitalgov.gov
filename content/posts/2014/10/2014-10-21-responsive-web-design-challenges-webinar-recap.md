@@ -16,7 +16,7 @@ topics:
   - mobile
   - mobile-ux-guideline-1
   - Recaps
-  - responsive web design
+  - responsive-web-design
   - United States Department of Energy
 ---
 

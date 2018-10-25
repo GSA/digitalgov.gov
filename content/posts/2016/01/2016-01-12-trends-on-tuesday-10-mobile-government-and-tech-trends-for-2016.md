@@ -15,9 +15,9 @@ topics:
   - mobile-apps
   - mobile-first
   - mobile-friendly
-  - responsive web design
+  - responsive-web-design
   - security
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 As we move into 2016, here are 10 trends I foresee flourishing around mobile, technology and government:

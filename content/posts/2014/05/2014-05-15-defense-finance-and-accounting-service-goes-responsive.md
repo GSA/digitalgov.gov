@@ -15,7 +15,7 @@ topics:
   - Executive Office of the President
   - HHS
   - mobile-ux-guideline-5
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
   - US Department of Veterans Affairs
   - US Environmental Protection Agency

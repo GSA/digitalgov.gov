@@ -17,7 +17,7 @@ topics:
   - mobile-ux-guideline-6
   - mobile-gov
   - native-apps
-  - responsive web design
+  - responsive-web-design
   - security
 ---
 

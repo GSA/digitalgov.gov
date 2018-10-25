@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - Recaps
-  - responsive web design
+  - responsive-web-design
   - US Department of Education
 ---
 

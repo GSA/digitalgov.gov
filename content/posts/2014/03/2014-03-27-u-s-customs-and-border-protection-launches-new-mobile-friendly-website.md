@@ -6,7 +6,7 @@ summary: 'There&#8217;s a LOT going on at U.S. Customs and Border Protection (CB
 topics:
   - mobile
   - CBP
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
   - US Customs and Border Protection
   - usa-gov-federal-mobile-apps-directory

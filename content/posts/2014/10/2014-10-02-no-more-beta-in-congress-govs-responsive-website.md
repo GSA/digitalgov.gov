@@ -8,7 +8,7 @@ topics:
   - Library of Congress
   - LOC
   - mobile
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---

@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - Monthly Theme
-  - responsive web design
+  - responsive-web-design
   - US Department of Education
   - Web Content Managers Forum
 ---

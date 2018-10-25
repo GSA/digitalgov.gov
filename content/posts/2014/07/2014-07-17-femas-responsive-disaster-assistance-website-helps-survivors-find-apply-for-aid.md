@@ -9,7 +9,7 @@ topics:
   - fema
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
 ---
 

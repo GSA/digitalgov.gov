@@ -15,7 +15,7 @@ topics:
   - GPS
   - mobile-apps
   - National Oceanic and Atmospheric Administration
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US Department of Veterans Affairs
 ---
 

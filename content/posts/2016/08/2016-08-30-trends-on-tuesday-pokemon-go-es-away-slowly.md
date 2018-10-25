@@ -12,7 +12,7 @@ topics:
   - gamification
   - mobile
   - mobile-apps
-  - Trends on Tuesday
+  - trends-on-tuesday
   - virtual-reality
   - virtual-augmented-reality-community
 ---

@@ -11,7 +11,7 @@ topics:
   - mobile-apps
   - mobile-ux-guideline-5
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/09/250-x-166-Green-desktop-computer-Hemera-Technologies-AbleStock.com-Thinkstock-87453658.jpg" alt="Green desktop computer" caption="" >}} 

@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile-ux-guideline-1
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 

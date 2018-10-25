@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - mobile
   - mobile-testing
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 <p dir="ltr">

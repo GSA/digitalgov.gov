@@ -10,10 +10,10 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - mobile-testing
   - mobile-ux-guideline-4
-  - responsive web design
+  - responsive-web-design
   - SSA
   - The United States Social Security Administration
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2014/09/520-x-195-UsabilityGov-reboot.jpg" alt="Various mobile devices showcase the responsive design of Usability.gov" >}}

@@ -11,7 +11,7 @@ topics:
   - mobile-apps
   - native-app
   - native-apps
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 Google Product Director and author, Luke Wroblewski, wrote a piece about [how perfecting your Day 1 experience for users is critical](http://www.lukew.com/ff/entry.asp?1955) because retention after that point is incredibly difficult. {{< legacy-img src="2016/02/600-x-400-Woman-using-her-Mobile-Phone-Night-Light-Background-LDProd-iStock-Thinkstock-450947285.jpg" alt="Woman using her mobile phone, outside at night." caption="" >}} 

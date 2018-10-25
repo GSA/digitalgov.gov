@@ -6,7 +6,7 @@ summary: 'It’s late at night. Your child can&#8217;t sleep: She has some kind 
 topics:
   - mobile
   - FDA
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
 ---
 

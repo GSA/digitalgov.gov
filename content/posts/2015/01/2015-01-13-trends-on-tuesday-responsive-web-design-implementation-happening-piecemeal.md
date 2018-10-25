@@ -12,8 +12,8 @@ topics:
   - mobile-ux-guideline-3
   - National Cancer Institute
   - NCI
-  - responsive web design
-  - Trends on Tuesday
+  - responsive-web-design
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="" >}}

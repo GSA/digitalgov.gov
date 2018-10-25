@@ -11,7 +11,7 @@ topics:
   - National Cancer Institute
   - native-app
   - NCI
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
 ---
 

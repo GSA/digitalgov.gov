@@ -13,7 +13,7 @@ topics:
   - CBP
   - dhs
   - mobile
-  - responsive web design
+  - responsive-web-design
   - US Customs and Border Protection
   - united-states-department-of-homeland-security
   - US Web Design Standards

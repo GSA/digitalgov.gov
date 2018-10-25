@@ -8,7 +8,7 @@ topics:
   - customer-experience
   - mobile
   - NOAA
-  - responsive web design
+  - responsive-web-design
   - thursday-mobile-products
   - user-experience
 ---

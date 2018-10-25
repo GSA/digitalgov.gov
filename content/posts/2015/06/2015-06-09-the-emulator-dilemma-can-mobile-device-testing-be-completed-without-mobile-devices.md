@@ -15,7 +15,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
   - native-app
-  - responsive web design
+  - responsive-web-design
   - user-experience
 ---
 

@@ -20,8 +20,8 @@ topics:
   - mobile-gov
   - national-gallery-of-art
   - NOAA
-  - responsive web design
-  - Trends on Tuesday
+  - responsive-web-design
+  - trends-on-tuesday
   - US Coast Guard
   - US Department of State
   - US National Park Service

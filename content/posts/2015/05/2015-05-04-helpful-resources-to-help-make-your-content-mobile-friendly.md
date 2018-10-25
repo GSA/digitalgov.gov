@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-1
   - mobile-friendly
   - mobile-gov
-  - responsive web design
+  - responsive-web-design
   - Sites
   - sitesusagov
   - usability case study

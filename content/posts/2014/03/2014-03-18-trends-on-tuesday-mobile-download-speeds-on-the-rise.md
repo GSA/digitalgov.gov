@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile
-  - Trends on Tuesday
+  - trends-on-tuesday
   - user-experience
 ---
 

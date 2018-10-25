@@ -11,7 +11,7 @@ topics:
   - big data
   - EPA
   - Internet of things
-  - Trends on Tuesday
+  - trends-on-tuesday
   - US Environmental Protection Agency
 ---
 

@@ -10,7 +10,7 @@ topics:
   - big data
   - data
   - privacy
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Lake-Rotoroa-New-Zealand-SamStyles-iStock-Thinkstock-ThinkstockPhotos-483262107.jpg" alt="Lake Rotoroa, New Zealand" caption="" >}} 

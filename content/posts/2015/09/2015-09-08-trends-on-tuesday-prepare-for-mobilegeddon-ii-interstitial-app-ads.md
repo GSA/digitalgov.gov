@@ -12,7 +12,7 @@ topics:
   - mobile-friendly
   - native-app
   - native-apps
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 Google has announced a [second</span> <span style="font-weight: 400">wave of ‘M</span>obilegeddon’ search penalties for websites using mobile app install interstitials](http://searchengineland.com/library/google/google-mobile-friendly-update)<span style="font-weight: 400">. Beginning November 1st, mobile app Web pages that use large app install interstitials to hide content from the users will be downgraded in search results for not being mobile-friendly.</p> 
