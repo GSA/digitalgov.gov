@@ -6,6 +6,9 @@ summary: 'Based on a recent six-month study, this guide outlines the top five pr
 featured_image:
   uid: army-mobile
 type: guide
+topics:
+  - mobile
+  - strategy
 deck: Five tactics for improving the performance of your website
 
 ---
