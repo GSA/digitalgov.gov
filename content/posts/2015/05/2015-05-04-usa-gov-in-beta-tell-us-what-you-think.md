@@ -13,7 +13,7 @@ topics:
   - digital-analytics-program
   - drupal
   - GobiernoUSAgov
-  - government contact centers
+  - government-contact-centers
   - personas
   - social-media
   - usa.gov

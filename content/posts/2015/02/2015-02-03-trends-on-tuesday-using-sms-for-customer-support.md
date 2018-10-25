@@ -9,7 +9,7 @@ topics:
   - mobile
   - cdc
   - centers-for-disease-control-and-prevention
-  - government contact centers
+  - government-contact-centers
   - mobile-ux-guideline-3
   - native-app
   - responsive-web-design

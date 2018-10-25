@@ -12,7 +12,7 @@ topics:
   - accessibility
   - GobiernoUSAgov
   - multilingual
-  - section 508
+  - section-508
   - US Access Board
   - usa.gov
 ---

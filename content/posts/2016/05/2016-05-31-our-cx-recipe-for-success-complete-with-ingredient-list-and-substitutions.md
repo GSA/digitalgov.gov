@@ -14,7 +14,7 @@ topics:
   - customer-satisfaction
   - customer-service
   - cx
-  - section 508
+  - section-508
   - user-experience
   - ux
 ---

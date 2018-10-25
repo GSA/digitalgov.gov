@@ -12,7 +12,7 @@ topics:
   - video
   - DOJ
   - nasa
-  - section 508
+  - section-508
   - US Department of Justice
   - US Department of Veterans Affairs
   - VA

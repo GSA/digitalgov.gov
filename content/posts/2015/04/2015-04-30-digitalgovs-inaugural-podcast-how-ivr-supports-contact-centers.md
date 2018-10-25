@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - monthly-theme
-  - government contact centers
+  - government-contact-centers
   - podcast
   - usa.gov
 ---

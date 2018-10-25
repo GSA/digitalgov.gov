@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - monthly-theme
   - customer-experience
-  - government contact centers
+  - government-contact-centers
   - social-media
 ---
 

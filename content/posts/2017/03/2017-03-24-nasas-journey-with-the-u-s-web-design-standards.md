@@ -20,7 +20,7 @@ topics:
   - Office of Management and Budget
   - OMB
   - responsive-web-design
-  - section 508
+  - section-508
   - training
   - US Web Design Standards
   - user research

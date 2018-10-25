@@ -11,7 +11,7 @@ topics:
   - ux
   - accessibility
   - GSA
-  - section 508
+  - section-508
   - US General Services Administration
 ---
 

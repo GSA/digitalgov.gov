@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - customer-experience
   - customer-service
-  - government contact centers
+  - government-contact-centers
   - GSA
 ---
 

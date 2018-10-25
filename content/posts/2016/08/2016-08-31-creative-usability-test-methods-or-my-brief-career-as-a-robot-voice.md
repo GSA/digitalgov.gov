@@ -12,7 +12,7 @@ topics:
   - customer-experience-community-of-practice
   - customer-service
   - Government Contact Center Council
-  - government contact centers
+  - government-contact-centers
   - usability-testing
   - usagov
   - user-experience

@@ -14,10 +14,10 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - crowdsourcing
-  - section 508
+  - section-508
 ---
 
-{{< legacy-img src="2014/12/600-x-400-Disabled-paper-figure-Anton-Prado-PHOTOGRAPHY-iStock-Thinkstock-149059983.jpg" alt="Disabled paper figure in crowd" caption="" >}} 
+{{< legacy-img src="2014/12/600-x-400-Disabled-paper-figure-Anton-Prado-PHOTOGRAPHY-iStock-Thinkstock-149059983.jpg" alt="Disabled paper figure in crowd" caption="" >}}
 
 While we’re anticipating the [Section 508 refresh](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh), many government digital media teams are facing the task of incorporating [WCAG 2.0 standards](http://www.w3.org/TR/UNDERSTANDING-WCAG20/) (Web Content Accessibility Guidelines) in their projects despite having limited staff resources and budget constraints.
 

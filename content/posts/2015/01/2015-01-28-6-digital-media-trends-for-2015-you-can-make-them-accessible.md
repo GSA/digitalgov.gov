@@ -13,7 +13,7 @@ topics:
   - content-strategy
   - mobile
   - Plain language
-  - section 508
+  - section-508
   - social-media
 ---
 

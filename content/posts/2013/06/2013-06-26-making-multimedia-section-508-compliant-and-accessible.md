@@ -8,7 +8,7 @@ authors:
 topics:
   - user-testing-and-research
   - accessibility
-  - section 508
+  - section-508
 ---
 
 {{< legacy-img src="2013/06/250-x-143-disabled-button-goldy-iStock-Thinkstock-494125429.jpg" alt="A disabled symbol on a keyboard button" caption="" >}} 

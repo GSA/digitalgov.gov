@@ -19,7 +19,7 @@ topics:
   - FCPCCS
   - Open Opportunities program
   - OSTP
-  - section 508
+  - section-508
   - sites
   - sitesusagov
   - US Department of Veterans Affairs

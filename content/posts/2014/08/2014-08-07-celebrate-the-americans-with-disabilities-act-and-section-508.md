@@ -10,7 +10,7 @@ topics:
   - ux
   - accessibility
   - Americans with Disabilities Act
-  - section 508
+  - section-508
 ---
 
 Happy anniversary, baby!

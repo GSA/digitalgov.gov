@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - ux
-  - section 508
+  - section-508
   - SSA
   - The United States Social Security Administration
   - usability

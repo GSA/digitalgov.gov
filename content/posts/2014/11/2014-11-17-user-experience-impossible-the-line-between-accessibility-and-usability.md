@@ -13,7 +13,7 @@ topics:
   - ux
   - accessibility
   - SBA
-  - section 508
+  - section-508
   - US Small Business Administration
   - usability
   - usagov

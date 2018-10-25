@@ -10,7 +10,7 @@ authors:
 topics:
   - accessibility
   - video
-  - section 508
+  - section-508
   - YouTube
 ---
 

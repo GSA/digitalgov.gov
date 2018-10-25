@@ -11,7 +11,7 @@ topics:
   - accessibility
   - ux
   - video
-  - section 508
+  - section-508
   - YouTube
 ---
 

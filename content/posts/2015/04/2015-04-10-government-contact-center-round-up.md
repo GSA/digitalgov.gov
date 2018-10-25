@@ -11,7 +11,7 @@ topics:
   - customer-service
   - DGU
   - Government Contact Center Council
-  - government contact centers
+  - government-contact-centers
   - GSA
 ---
 

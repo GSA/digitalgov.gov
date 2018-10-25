@@ -17,7 +17,7 @@ topics:
   - Defense Finance and Accounting Services
   - DFAS
   - DOT
-  - government contact centers
+  - government-contact-centers
   - HHS
   - Internet of things
   - mobile-code-catalog

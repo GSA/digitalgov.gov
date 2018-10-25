@@ -13,7 +13,7 @@ topics:
   - customer-service
   - Ex-Im Bank
   - Export-Import Bank of the United States
-  - government contact centers
+  - government-contact-centers
   - Peace Corps
   - US Digital Service
   - USDS

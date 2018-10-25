@@ -10,7 +10,7 @@ topics:
   - mobile
   - customer-experience
   - Government Contact Center Council
-  - government contact centers
+  - government-contact-centers
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
   - trends-on-tuesday

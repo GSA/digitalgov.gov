@@ -28,7 +28,7 @@ topics:
   - NMAAHC
   - Peace Corps
   - Recaps
-  - section 508
+  - section-508
   - Smithsonian Institution
   - social-media
   - US General Services Administration

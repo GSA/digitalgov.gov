@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - Ex-Im Bank
   - Export-Import Bank of the United States
-  - government contact centers
+  - government-contact-centers
 ---
 
 {{< legacy-img src="2014/12/600-x-340-Ex-Im-Export-Import-Bank-Contact-Center-Team.jpg" alt="Export-Import Bank Contact Center Team" >}}

@@ -17,7 +17,7 @@ topics:
   - customer-service
   - cx
   - personas
-  - section 508
+  - section-508
   - user-experience
 ---
 

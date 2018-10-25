@@ -10,7 +10,7 @@ topics:
   - ux
   - analytics
   - customer-experience
-  - government contact centers
+  - government-contact-centers
   - personas
   - usa.gov
 ---
