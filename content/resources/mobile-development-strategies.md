@@ -6,7 +6,10 @@ summary: 'The following is a list of the most common mobile development strategi
 featured_image:
   uid: 
 type: guide
-deck: 
+deck:
+topics:
+  - mobile
+  - strategy
 aliases:
 
 ---
