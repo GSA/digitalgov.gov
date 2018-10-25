@@ -6,7 +6,7 @@ summary: '6,000 feet deep, 18 miles wide, 5,000 people per day: The Reality of t
 authors:
   - lesia-dickson
 topics:
-  - Data
+  - data
   - managing-digital
   - mobile
   - strategy

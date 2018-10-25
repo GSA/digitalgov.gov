@@ -6,7 +6,7 @@ summary: ' As we move into 2015, the amount of data available in the digital eco
 authors:
   - kdaniel
 topics:
-  - Data
+  - data
   - Monthly Theme
   - big data
   - EPA

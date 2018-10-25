@@ -9,7 +9,7 @@ authors:
 topics:
   - mobile
   - Monthly Theme
-  - content models
+  - content-models
   - COPE
   - HHS
   - mobile-ux-guideline-1
@@ -17,7 +17,7 @@ topics:
   - nasa
   - National Cancer Institute
   - NCI
-  - open and structured content models
+  - open-and-structured-content-models
   - Recaps
   - SEC
   - US Securities and Exchange Commission

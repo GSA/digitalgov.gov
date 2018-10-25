@@ -7,7 +7,7 @@ authors:
   - austin-brown
   - candace-vahlsing
 topics:
-  - Data
+  - data
   - data
   - DOE
   - innovation

@@ -7,7 +7,7 @@ authors:
   - david-hale
 topics:
   - api
-  - Data
+  - data
   - FDA
   - HHS
   - National Institutes of Health

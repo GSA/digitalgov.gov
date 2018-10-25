@@ -6,7 +6,7 @@ summary: 'By the time this is published, the United States, along with 160 other
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - data
   - data-gov
   - HHS

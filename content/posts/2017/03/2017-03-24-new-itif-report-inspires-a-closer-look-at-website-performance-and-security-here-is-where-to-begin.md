@@ -9,7 +9,7 @@ topics:
   - accessibility
   - code
   - content
-  - Data
+  - data
   - design
   - managing-digital
   - metrics

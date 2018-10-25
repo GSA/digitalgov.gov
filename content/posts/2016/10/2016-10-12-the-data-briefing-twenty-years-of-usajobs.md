@@ -6,7 +6,7 @@ summary: I recently sat down with Michelle Earley, Program Manager, to discuss t
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - managing-digital
   - metrics
   - strategy

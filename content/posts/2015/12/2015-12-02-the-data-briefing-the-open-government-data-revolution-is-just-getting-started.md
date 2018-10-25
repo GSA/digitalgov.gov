@@ -6,7 +6,7 @@ summary: 'Some of you may remember when President Reagan opened America’s Glob
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - data
   - data-visualization
   - data-gov

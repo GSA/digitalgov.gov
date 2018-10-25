@@ -6,7 +6,7 @@ summary: 'Summary: Significant strides in improving public access to scholarly p
 authors:
   - jerry-sheehan
 topics:
-  - Data
+  - data
   - managing-digital
   - content
   - data

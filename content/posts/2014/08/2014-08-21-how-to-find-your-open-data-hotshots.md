@@ -7,7 +7,7 @@ authors:
   - nick-sinai
 topics:
   - api
-  - Data
+  - data
   - metrics
   - api
   - Census

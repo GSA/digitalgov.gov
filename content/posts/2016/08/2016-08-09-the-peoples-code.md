@@ -7,7 +7,7 @@ authors:
   - tony-scott
 topics:
   - code
-  - Data
+  - data
   - Governance
   - managing-digital
   - strategy

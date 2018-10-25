@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - code
-  - Data
+  - data
   - api
   - data-visualization
   - data-gov

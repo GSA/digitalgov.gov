@@ -8,7 +8,7 @@ authors:
   - corinna-zarek
 topics:
   - challenges
-  - Data
+  - data
   - social-media
   - CFPB
   - challenges and prize competitions

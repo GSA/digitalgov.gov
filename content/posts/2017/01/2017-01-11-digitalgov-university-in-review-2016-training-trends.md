@@ -11,7 +11,7 @@ topics:
   - challenges
   - communities
   - content
-  - Data
+  - data
   - design
   - Governance
   - managing-digital

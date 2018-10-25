@@ -9,7 +9,7 @@ authors:
   - beth-cobert
 topics:
   - content
-  - Data
+  - data
   - mobile
   - 18f
   - customer-experience

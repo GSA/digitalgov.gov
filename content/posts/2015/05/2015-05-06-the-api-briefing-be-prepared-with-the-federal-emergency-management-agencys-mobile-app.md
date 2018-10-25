@@ -10,8 +10,8 @@ topics:
   - mobile
   - api
   - data
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - mobile
   - mobile-ux-guideline-3
   - mobile-ux-guideline-5

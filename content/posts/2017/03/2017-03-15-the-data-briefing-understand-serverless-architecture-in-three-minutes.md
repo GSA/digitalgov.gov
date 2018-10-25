@@ -6,7 +6,7 @@ summary: 'You may have heard of &ldquo;serverless architecture&rdquo; or Amazon 
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - managing-digital
   - architecture
   - cloud

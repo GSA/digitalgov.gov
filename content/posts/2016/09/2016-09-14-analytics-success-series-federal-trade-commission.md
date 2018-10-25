@@ -6,7 +6,7 @@ summary: 'FTC’s Analytics Success: Making mission-related tasks easier for the
 authors:
   - chris-noonan-sturm
 topics:
-  - Data
+  - data
   - metrics
   - Our Work
   - analytics

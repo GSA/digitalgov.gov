@@ -13,8 +13,8 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - Facebook
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - GobiernoUSAgov
   - multilingual
   - Peace Corps

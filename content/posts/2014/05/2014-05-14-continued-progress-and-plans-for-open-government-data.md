@@ -7,7 +7,7 @@ authors:
   - steven-vanroekel
   - todd-park
 topics:
-  - Data
+  - data
   - data
   - open-data
   - white-house

@@ -7,7 +7,7 @@ authors:
   - alexander-macgillivray
   - jay-shambaugh
 topics:
-  - Data
+  - data
   - data
   - OSTP
   - white-house

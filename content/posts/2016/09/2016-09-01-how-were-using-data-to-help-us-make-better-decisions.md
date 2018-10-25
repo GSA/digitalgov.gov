@@ -6,7 +6,7 @@ summary: 'This week marks a special anniversary for GSA as we celebrate our Data
 authors:
   - david-shive
 topics:
-  - Data
+  - data
   - cloud
   - data
   - FAS

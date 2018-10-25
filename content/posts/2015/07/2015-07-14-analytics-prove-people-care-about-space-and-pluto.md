@@ -6,7 +6,7 @@ summary: 'Despite the fact that Pluto has been downgraded to a &#8220;dwarf plan
 authors:
   - tlowden
 topics:
-  - Data
+  - data
   - metrics
   - analytics
   - DAP

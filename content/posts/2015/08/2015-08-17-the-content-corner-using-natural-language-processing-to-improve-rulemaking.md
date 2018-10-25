@@ -16,7 +16,7 @@ topics:
   - HHS
   - natural language generation
   - open government
-  - structured content
+  - structured-content
   - the-content-corner
   - US Environmental Protection Agency
   - united-states-department-of-health-and-human-services

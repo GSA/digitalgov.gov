@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - communities
-  - Data
+  - data
   - managing-digital
   - mobile
   - Monthly Theme

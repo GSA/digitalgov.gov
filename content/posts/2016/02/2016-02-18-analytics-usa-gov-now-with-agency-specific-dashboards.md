@@ -11,7 +11,7 @@ authors:
   - julia-winn
   - colin-craig
 topics:
-  - Data
+  - data
   - Our Work
   - 18f
   - analytics

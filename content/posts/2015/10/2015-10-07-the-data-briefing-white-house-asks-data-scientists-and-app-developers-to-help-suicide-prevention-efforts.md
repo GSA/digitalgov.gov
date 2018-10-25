@@ -6,7 +6,7 @@ summary: 'The White House issued a call on September 30, 2015, for data scientis
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - cdc
   - centers-for-disease-control-and-prevention
   - data

@@ -11,7 +11,7 @@ topics:
   - code
   - content
   - crowdsourcing-and-citizen-science
-  - Data
+  - data
   - Governance
   - managing-digital
   - mobile

@@ -14,8 +14,8 @@ topics:
   - crowdsourcing
   - DOE
   - FCPCCS
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - mobile-apps
   - NARA
   - National Archives and Records Administration

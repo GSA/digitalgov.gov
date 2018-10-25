@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - content
-  - Data
+  - data
   - design
   - managing-digital
   - strategy

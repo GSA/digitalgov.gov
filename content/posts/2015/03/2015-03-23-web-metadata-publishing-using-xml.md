@@ -6,17 +6,17 @@ summary: 'Metadata for website content is usually managed as part of the editori
 authors:
   - bob-rand
 topics:
-  - Data
+  - data
   - mobile
   - Monthly Theme
   - content-management-system
-  - content models
+  - content-models
   - data
   - Federal Register
   - metadata
   - mobile-ux-guideline-1
   - mobile-ux-guideline-6
-  - open and structured content models
+  - open-and-structured-content-models
   - open-data
   - SEC
   - US Securities and Exchange Commission

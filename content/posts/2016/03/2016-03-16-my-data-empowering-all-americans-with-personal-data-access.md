@@ -8,7 +8,7 @@ authors:
   - phaedra-chrousos
   - tom-black
 topics:
-  - Data
+  - data
   - Monthly Theme
   - 18f
   - data-gov

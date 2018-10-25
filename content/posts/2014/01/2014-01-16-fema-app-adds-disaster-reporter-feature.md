@@ -8,7 +8,7 @@ topics:
   - mobile
   - social-media
   - crowdsourcing
-  - FEMA
+  - fema
   - mobile-apps
   - mobile-gov
   - thursday-mobile-products

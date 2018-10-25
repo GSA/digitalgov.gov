@@ -7,8 +7,8 @@ authors:
   - nirmala-ramprasad
 topics:
   - mobile
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - mobile-apps
   - SSA
   - The United States Social Security Administration

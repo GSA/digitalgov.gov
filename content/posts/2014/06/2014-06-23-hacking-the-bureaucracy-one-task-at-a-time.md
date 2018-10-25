@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - DOL
   - mobile-code-catalog
-  - open and structured content models
+  - open-and-structured-content-models
   - Open Opportunities program
   - US Department of Labor
   - US Department of State

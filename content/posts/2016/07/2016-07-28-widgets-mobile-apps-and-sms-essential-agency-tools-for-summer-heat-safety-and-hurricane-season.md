@@ -14,8 +14,8 @@ topics:
   - content
   - content syndication
   - dhs
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - HHS
   - mobile
   - mobile-apps

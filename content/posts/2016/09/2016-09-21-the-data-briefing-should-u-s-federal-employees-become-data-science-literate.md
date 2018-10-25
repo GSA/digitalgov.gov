@@ -6,7 +6,7 @@ summary: 'The United Kingdom’s (UK) Digital Service has researched ways to inc
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - strategy
   - policy
   - data

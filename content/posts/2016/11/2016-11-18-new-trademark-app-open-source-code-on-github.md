@@ -7,7 +7,7 @@ authors:
   - david-chiles
 topics:
   - code
-  - Data
+  - data
   - managing-digital
   - mobile
   - api

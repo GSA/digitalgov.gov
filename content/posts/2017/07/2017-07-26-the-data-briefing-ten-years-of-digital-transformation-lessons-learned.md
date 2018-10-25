@@ -8,7 +8,7 @@ featured_image:
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - emerging-tech
   - managing-digital
   - ux

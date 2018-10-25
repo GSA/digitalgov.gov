@@ -7,7 +7,7 @@ authors:
   - dr-taha-kass-hout
 topics:
   - api
-  - Data
+  - data
   - api
   - cloud
   - FDA

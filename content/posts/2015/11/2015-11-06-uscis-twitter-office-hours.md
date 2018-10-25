@@ -10,8 +10,8 @@ topics:
   - Education
   - EPA
   - FAFSA
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - Twitter
   - US Citizenship and Immigration Service
   - US Department of Education

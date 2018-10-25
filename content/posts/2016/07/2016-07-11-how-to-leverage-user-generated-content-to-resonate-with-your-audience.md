@@ -38,7 +38,7 @@ topics:
   - US National Park Service
   - UGC
   - USDA
-  - user generated content
+  - user-generated-content
   - USFS
 ---
 

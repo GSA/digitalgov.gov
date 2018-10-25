@@ -8,7 +8,7 @@ authors:
   - becky-sweger
 topics:
   - code
-  - Data
+  - data
   - Governance
   - managing-digital
   - strategy

@@ -7,7 +7,7 @@ authors:
   - awichman
   - jparcell
 topics:
-  - Data
+  - data
   - Monthly Theme
   - api
   - data

@@ -14,7 +14,7 @@ topics:
   - National Institutes of Health
   - NCI
   - NIH
-  - open and structured content models
+  - open-and-structured-content-models
 ---
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}

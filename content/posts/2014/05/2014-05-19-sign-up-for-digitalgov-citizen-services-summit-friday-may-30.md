@@ -14,7 +14,7 @@ topics:
   - api
   - challenges
   - content
-  - Data
+  - data
   - managing-digital
   - metrics
   - mobile

@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - content
-  - Data
+  - data
   - managing-digital
   - mobile
   - social-media

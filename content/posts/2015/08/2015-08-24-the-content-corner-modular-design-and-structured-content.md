@@ -9,9 +9,9 @@ topics:
   - content
   - design
   - administrative-office-of-the-united-states-courts
-  - content models
+  - content-models
   - mobile-ux-guideline-1
-  - structured content
+  - structured-content
   - the-content-corner
 ---
 

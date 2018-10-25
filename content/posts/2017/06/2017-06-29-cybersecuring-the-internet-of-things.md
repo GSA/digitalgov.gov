@@ -7,7 +7,7 @@ summary: I recently had the chance to talk with the legendary Vint Cerf, one of 
 authors:
   - donna-dodson
 topics:
-  - Data
+  - data
   - mobile
   - 'Strategy and Policy'
   - best practices

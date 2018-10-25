@@ -6,7 +6,7 @@ summary: 'We often think of social media as a way to expand our audience, but so
 authors:
   - eden-savino
 topics:
-  - Data
+  - data
   - social-media
   - GAO
   - open-source

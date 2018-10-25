@@ -6,7 +6,7 @@ summary: Forbes magazine recently ran an article showcasing six handy mobile app
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - mobile
   - social-media
   - ai

@@ -7,7 +7,7 @@ authors:
   - gay-gilbert
 topics:
   - content
-  - Data
+  - data
   - design
   - managing-digital
   - mobile

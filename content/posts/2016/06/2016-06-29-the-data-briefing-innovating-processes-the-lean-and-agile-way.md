@@ -6,7 +6,7 @@ summary: Business processes have fascinated me since I took an undergraduate phi
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - managing-digital
   - agile
   - ai

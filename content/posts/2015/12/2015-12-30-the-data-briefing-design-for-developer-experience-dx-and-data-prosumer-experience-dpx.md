@@ -6,7 +6,7 @@ summary: Recently, DigitalGov devoted an entire month to exploring how good user
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - ux
   - api
   - data

@@ -8,7 +8,7 @@ authors:
   - mackenzie-cummings
   - richard-morey
 topics:
-  - Data
+  - data
   - metrics
   - Our Work
   - analytics

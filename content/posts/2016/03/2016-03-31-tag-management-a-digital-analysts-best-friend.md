@@ -7,7 +7,7 @@ authors:
   - cfpb-digital-analytics-team
 topics:
   - code
-  - Data
+  - data
   - Monthly Theme
   - analytics
   - CFPB

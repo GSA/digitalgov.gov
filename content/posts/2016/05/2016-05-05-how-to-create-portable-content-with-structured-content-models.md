@@ -13,9 +13,9 @@ topics:
   - mobile-gov
   - National Institutes of Health
   - NIH
-  - open and structured content models
+  - open-and-structured-content-models
   - Recaps
-  - structured content
+  - structured-content
   - united-states-department-of-health-and-human-services
   - USAgov
 ---

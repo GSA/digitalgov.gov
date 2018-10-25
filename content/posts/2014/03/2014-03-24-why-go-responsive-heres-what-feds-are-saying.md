@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - FEMA
+  - fema
   - mobile
   - mobile-apps
   - mobile-gov

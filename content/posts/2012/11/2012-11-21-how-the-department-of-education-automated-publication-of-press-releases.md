@@ -10,7 +10,7 @@ topics:
   - CMS
   - content-management-system
   - drupal
-  - structured content
+  - structured-content
   - US Department of Education
 ---
 

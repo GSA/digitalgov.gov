@@ -7,10 +7,10 @@ authors:
   - hannah-gladfelter-rubin
 topics:
   - content
-  - Data
+  - data
   - mobile
   - Monthly Theme
-  - content models
+  - content-models
   - content-strategy
   - DGU
   - HHS
@@ -18,7 +18,7 @@ topics:
   - mobile-ux-guideline-1
   - National Cancer Institute
   - NCI
-  - open and structured content models
+  - open-and-structured-content-models
   - united-states-department-of-health-and-human-services
 ---
 

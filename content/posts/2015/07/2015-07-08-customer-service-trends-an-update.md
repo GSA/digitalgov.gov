@@ -15,8 +15,8 @@ topics:
   - customer satisfaction
   - customer service
   - Digital Analytics Program
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - mobile
   - mobile-apps
   - National Oceanic and Atmospheric Administration

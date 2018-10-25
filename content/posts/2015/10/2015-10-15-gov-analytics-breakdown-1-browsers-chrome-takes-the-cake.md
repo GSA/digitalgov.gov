@@ -7,7 +7,7 @@ authors:
   - tlowden
 topics:
   - content
-  - Data
+  - data
   - metrics
   - ux
   - analytics

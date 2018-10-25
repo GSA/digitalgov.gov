@@ -20,8 +20,8 @@ topics:
   - mobile-ux-guideline-1
   - National Institutes of Health
   - NIH
-  - open and structured content models
-  - structured content
+  - open-and-structured-content-models
+  - structured-content
   - the-content-corner
   - US Food and Drug Administration
   - united-states-department-of-health-and-human-services

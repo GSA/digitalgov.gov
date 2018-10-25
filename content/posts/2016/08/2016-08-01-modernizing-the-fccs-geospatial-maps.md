@@ -8,7 +8,7 @@ authors:
   - allison-baker
   - perryn-ashmore
 topics:
-  - Data
+  - data
   - cloud
   - CMS
   - data

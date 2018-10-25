@@ -7,7 +7,7 @@ authors:
   - logan-powell
 topics:
   - challenges
-  - Data
+  - data
   - api
   - Census
   - CFPB

@@ -6,7 +6,7 @@ summary: 'Analytics and &ldquo;big data&rdquo; seem to be the next frontier in a
 authors:
   - gao-watchblog
 topics:
-  - Data
+  - data
   - metrics
   - analytics
   - big data

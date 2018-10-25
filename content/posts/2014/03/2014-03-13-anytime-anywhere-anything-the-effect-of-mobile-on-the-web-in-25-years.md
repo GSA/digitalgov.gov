@@ -14,7 +14,7 @@ topics:
   - mobile-code-catalog
   - mobile-first
   - NOAA
-  - open and structured content models
+  - open-and-structured-content-models
   - thursday-mobile-products
   - US Customs and Border Protection
   - US Department of Labor

@@ -12,12 +12,12 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - content
-  - content models
+  - content-models
   - content-strategy
   - content syndication
   - National Institutes of Health
   - NIH
-  - open and structured content models
+  - open-and-structured-content-models
 ---
 
 ****We have previously written about [microsites in the federal government]({{< link "2016-04-21-microsites.md" >}}). A microsite is a small collection of web pages—a subset of an organization’s full website. Partners can embed microsites that present [curated information]({{< link "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}}) on a specific topic or campaign directly within their own websites. And perhaps best of all, microsites that are [API]({{< link "categories/api" >}})-enabled are maintained and updated by the source organization so that when updates are made, those updates are automatically made on partner sites in real time.

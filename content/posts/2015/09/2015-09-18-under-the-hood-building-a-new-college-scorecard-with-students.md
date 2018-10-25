@@ -7,7 +7,7 @@ authors:
   - lisa-gelobter
 topics:
   - code
-  - Data
+  - data
   - 18f
   - agile
   - api

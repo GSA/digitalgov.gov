@@ -7,7 +7,7 @@ authors:
   - tammy-white
 topics:
   - challenges
-  - Data
+  - data
   - managing-digital
   - challenge-gov
   - challenges and prize competitions

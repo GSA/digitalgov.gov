@@ -6,7 +6,7 @@ summary: 'September is National Preparedness Month and there are a number of gov
 topics:
   - mobile
   - american-red-cross
-  - FEMA
+  - fema
   - National Hurricane Center
   - thursday-mobile-products
 ---

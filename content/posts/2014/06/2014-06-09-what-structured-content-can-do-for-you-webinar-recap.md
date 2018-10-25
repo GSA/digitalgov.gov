@@ -12,15 +12,15 @@ topics:
   - AoI
   - api
   - Census
-  - content models
+  - content-models
   - GitHub
   - GSA
   - metadata
   - National Institutes of Health
   - NIH
-  - open and structured content models
+  - open-and-structured-content-models
   - Recaps
-  - structured content
+  - structured-content
   - United States Census Bureau
 ---
 

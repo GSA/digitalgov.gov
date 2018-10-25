@@ -6,7 +6,7 @@ summary: 'A review of the Digital Analytics Program (DAP) data confirms what man
 authors:
   - tlowden
 topics:
-  - Data
+  - data
   - metrics
   - mobile
   - ux

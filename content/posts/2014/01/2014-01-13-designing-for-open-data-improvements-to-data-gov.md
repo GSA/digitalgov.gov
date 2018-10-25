@@ -7,7 +7,7 @@ authors:
   - marion-royal
 topics:
   - code
-  - Data
+  - data
   - data-gov
   - mobile
   - open-data

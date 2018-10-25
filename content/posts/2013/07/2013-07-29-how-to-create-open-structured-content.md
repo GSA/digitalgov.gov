@@ -8,12 +8,12 @@ authors:
 topics:
   - content
   - managing-digital
-  - content models
+  - content-models
   - COPE
   - metadata
-  - open and structured content models
+  - open-and-structured-content-models
   - responsive web design
-  - structured content
+  - structured-content
 ---
 
 Structured content refers to the concept of organizing and treating digital content like data. It’s a way of publishing content as modular, discrete pieces of information that are tagged with machine-readable descriptions. Structured content has the potential to transform how people find, understand, share, and use government information.

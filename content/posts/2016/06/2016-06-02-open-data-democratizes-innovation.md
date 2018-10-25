@@ -10,7 +10,7 @@ topics:
   - api
   - challenges
   - crowdsourcing-and-citizen-science
-  - Data
+  - data
   - strategy
   - policy
   - api

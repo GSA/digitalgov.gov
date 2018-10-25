@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - content
-  - Data
+  - data
   - Our Work
   - api
   - Consumer Financial Protection Bureau

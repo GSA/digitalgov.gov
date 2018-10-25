@@ -9,7 +9,7 @@ authors:
 topics:
   - communities
   - content
-  - Data
+  - data
   - managing-digital
   - metrics
   - AoI

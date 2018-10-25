@@ -21,7 +21,7 @@ topics:
   - metrics
   - mobile
   - Recaps
-  - user generated content
+  - user-generated-content
   - video
   - virtual-reality
   - virtual-augmented-reality-community

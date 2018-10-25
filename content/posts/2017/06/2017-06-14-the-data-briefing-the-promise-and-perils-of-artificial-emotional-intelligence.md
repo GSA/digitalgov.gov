@@ -6,7 +6,7 @@ summary: 'The first chatbot, ELIZA, was created back in 1964 to demonstrate that
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - mobile
   - ai
   - artificial intelligence

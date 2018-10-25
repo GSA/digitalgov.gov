@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - api
-  - Data
+  - data
   - Governance
   - managing-digital
   - social-media

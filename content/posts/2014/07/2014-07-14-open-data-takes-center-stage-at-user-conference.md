@@ -6,7 +6,7 @@ summary: 'This week over 16,000 business leaders and data visionaries from aroun
 authors:
   - lauren-lipovic
 topics:
-  - Data
+  - data
   - Census
   - data
   - data-visualization

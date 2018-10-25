@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - code
-  - Data
+  - data
   - Monthly Theme
   - api
   - Centers for Medicare and Medicaid Services

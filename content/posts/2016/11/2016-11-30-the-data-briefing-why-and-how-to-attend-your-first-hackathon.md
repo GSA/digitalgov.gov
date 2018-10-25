@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - code
-  - Data
+  - data
   - design
   - code
   - hackathon

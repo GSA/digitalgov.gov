@@ -6,7 +6,7 @@ summary: 'You may have heard about &ldquo;DevOps&rdquo; in the news or when meet
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - managing-digital
   - the-data-briefing
 ---

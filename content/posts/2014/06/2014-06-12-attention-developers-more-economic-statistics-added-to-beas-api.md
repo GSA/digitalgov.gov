@@ -7,7 +7,7 @@ authors:
   - bea-team
 topics:
   - api
-  - Data
+  - data
   - BEA
   - US Bureau of Economic Analysis
 ---

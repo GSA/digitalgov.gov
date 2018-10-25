@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - Data
+  - data
   - Monthly Theme
   - Our Work
   - data-gov

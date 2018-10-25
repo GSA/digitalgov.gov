@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - challenges
-  - Data
+  - data
   - app
   - apps
   - apps challenges

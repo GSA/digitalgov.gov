@@ -6,7 +6,7 @@ summary: 'With more than 400 projects in their portfolio, it can be difficult fo
 authors:
   - susanna-murley
 topics:
-  - Data
+  - data
   - Monthly Theme
   - DOE
   - United States Department of Energy

@@ -7,7 +7,7 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - content
-  - Data
+  - data
   - Our Work
   - customer-experience
   - DigitalGov Search

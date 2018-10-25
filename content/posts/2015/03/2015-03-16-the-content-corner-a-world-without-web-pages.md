@@ -10,10 +10,10 @@ topics:
   - administrative-office-of-the-united-states-courts
   - CMS
   - content-management-system
-  - content models
+  - content-models
   - content-strategy
   - metadata
-  - open and structured content models
+  - open-and-structured-content-models
   - the-content-corner
 ---
 

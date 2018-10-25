@@ -7,7 +7,7 @@ authors:
   - alison-kutler
   - david-a-bray
 topics:
-  - Data
+  - data
   - FCC
   - Federal Communications Commission
 ---

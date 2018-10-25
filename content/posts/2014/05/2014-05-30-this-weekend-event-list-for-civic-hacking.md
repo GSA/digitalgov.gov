@@ -7,7 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - Data
+  - data
   - Census
   - CFPB
   - Consumer Financial Protection Bureau
@@ -16,9 +16,9 @@ topics:
   - DOT
   - EPA
   - FCC
-  - Federal Emergency Management Agency
+  - federal-emergency-management-agency
   - Federal Register
-  - FEMA
+  - fema
   - HHS
   - HUD
   - IMLS

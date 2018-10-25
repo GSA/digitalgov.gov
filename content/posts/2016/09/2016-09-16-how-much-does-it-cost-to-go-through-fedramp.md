@@ -6,7 +6,7 @@ summary: 'One of the questions we get asked the most at FedRAMP from our vendors
 authors:
   - matt-goodrich
 topics:
-  - Data
+  - data
   - managing-digital
   - cloud
   - data

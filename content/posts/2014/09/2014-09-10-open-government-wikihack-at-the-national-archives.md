@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - content
-  - Data
+  - data
   - NARA
   - National Archives and Records Administration
   - open-data

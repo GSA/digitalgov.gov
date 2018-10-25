@@ -6,7 +6,7 @@ summary: 'The federal government has IT challenges, and innovative federal proje
 authors:
   - ktrebon
 topics:
-  - Data
+  - data
   - metrics
   - Our Work
   - analytics

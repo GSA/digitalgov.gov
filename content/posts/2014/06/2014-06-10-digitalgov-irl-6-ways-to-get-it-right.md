@@ -7,12 +7,12 @@ authors:
   - gwynne-kostin
 topics:
   - content
-  - Data
+  - data
   - mobile
   - ux
   - Department of Commerce
   - FCC
-  - FEMA
+  - fema
   - mobile-ux-guideline-5
   - National Weather Service
   - NOAA

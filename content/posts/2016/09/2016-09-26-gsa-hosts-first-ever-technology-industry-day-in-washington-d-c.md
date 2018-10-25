@@ -7,7 +7,7 @@ authors:
   - gsa-blog-team
 topics:
   - code
-  - Data
+  - data
   - managing-digital
   - strategy
   - policy

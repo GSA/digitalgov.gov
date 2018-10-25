@@ -6,13 +6,13 @@ summary: 'USAGov recently released a list of six great federal government mobile
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - mobile
   - cdc
   - Census
   - centers-for-disease-control-and-prevention
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - Internal Revenue Service
   - IRS
   - mobile

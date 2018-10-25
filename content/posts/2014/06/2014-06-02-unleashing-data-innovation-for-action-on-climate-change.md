@@ -6,7 +6,7 @@ summary: Last June, President Obama launched a Climate Action Plan to cut carbon
 authors:
   - curt-tilmes
 topics:
-  - Data
+  - data
   - data-gov
   - nasa
   - open-data

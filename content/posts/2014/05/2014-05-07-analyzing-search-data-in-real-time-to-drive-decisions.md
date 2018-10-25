@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - Data
+  - data
   - metrics
   - Our Work
   - DigitalGov Search

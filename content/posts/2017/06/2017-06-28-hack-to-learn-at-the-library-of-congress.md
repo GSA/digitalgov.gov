@@ -6,7 +6,7 @@ summary: 'When hosting workshops, such as Software Carpentry, or events, such as
 authors:
   - jaime-mears
 topics:
-  - Data
+  - data
   - data
   - hackathon
   - Library of Congress

@@ -8,7 +8,7 @@ authors:
   - dmccleskey
 topics:
   - code
-  - Data
+  - data
   - managing-digital
   - Monthly Theme
   - Our Work

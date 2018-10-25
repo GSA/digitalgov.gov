@@ -14,8 +14,8 @@ topics:
   - api
   - api keys
   - DigitalGov User Experience Program
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - OPM
   - US Department of Agriculture
   - United States Office of Personnel Management

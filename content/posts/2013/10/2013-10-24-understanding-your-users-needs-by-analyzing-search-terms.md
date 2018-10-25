@@ -7,7 +7,7 @@ authors:
   - michelle-chronister
 topics:
   - content
-  - Data
+  - data
   - managing-digital
   - metrics
   - DigitalGov Search

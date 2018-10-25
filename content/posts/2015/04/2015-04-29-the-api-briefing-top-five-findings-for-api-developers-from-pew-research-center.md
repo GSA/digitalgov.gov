@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Data
+  - data
   - data
   - mobile
   - mobile-apps

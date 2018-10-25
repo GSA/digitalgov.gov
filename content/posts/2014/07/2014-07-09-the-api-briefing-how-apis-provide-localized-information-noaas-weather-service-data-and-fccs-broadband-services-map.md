@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Data
+  - data
   - Census
   - FCC
   - FDA

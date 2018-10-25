@@ -6,7 +6,7 @@ summary: 'The Department of Transportation (DOT) has invited transit agencies to
 authors:
   - andreanocesigritz
 topics:
-  - Data
+  - data
   - Monthly Theme
   - DOT
   - United States Department of Transportation

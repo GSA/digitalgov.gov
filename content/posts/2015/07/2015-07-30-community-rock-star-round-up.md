@@ -19,7 +19,7 @@ topics:
   - NCI
   - NIH
   - Office of the Director of National Intelligence
-  - open and structured content models
+  - open-and-structured-content-models
   - OPM
   - socialgov-community
   - SSA

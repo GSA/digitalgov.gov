@@ -9,7 +9,7 @@ authors:
 topics:
   - api
   - content
-  - Data
+  - data
   - design
   - ux
   - 18f

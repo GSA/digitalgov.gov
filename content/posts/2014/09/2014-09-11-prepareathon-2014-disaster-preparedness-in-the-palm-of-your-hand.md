@@ -6,8 +6,8 @@ summary: "If there was one thing we learned on September 11, 2001, it's that you
 topics:
   - mobile
   - american-red-cross
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - mobile-apps
   - National Oceanic and Atmospheric Administration
   - National Weather Service

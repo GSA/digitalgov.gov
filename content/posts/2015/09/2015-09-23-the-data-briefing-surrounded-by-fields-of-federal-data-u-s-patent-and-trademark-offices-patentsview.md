@@ -6,7 +6,7 @@ summary: Hello, everyone. My summer sabbatical was short but educational, and I 
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - api
   - data
   - data-visualization

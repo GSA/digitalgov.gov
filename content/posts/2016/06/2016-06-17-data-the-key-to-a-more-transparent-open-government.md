@@ -6,7 +6,7 @@ summary: The work of the federal government is incredibly diverse, and affects a
 authors:
   - george-deryckere
 topics:
-  - Data
+  - data
   - GSA
   - open-data
   - open government

@@ -6,7 +6,7 @@ summary: 'The Congressional Research Service recently released a report (PDF, 68
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - big data
   - Commerce
   - data

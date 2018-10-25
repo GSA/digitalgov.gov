@@ -7,7 +7,7 @@ authors:
   - tyrone-grandison
 topics:
   - api
-  - Data
+  - data
   - api
   - Census
   - data

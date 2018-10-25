@@ -7,7 +7,7 @@ authors:
   - erica-groshen
 topics:
   - content
-  - Data
+  - data
   - ux
   - BLS
   - content-strategy

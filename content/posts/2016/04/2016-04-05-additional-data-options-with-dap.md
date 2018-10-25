@@ -7,7 +7,7 @@ authors:
   - ilee
 topics:
   - code
-  - Data
+  - data
   - metrics
   - Monthly Theme
   - Our Work

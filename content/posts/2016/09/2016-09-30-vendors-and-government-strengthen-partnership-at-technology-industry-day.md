@@ -7,7 +7,7 @@ authors:
   - andre-francisco
 topics:
   - code
-  - Data
+  - data
   - managing-digital
   - strategy
   - policy

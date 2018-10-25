@@ -6,7 +6,7 @@ summary: 'For many agencies, what data to make open is left up to the agency’s
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - data
   - HHS
   - open-data

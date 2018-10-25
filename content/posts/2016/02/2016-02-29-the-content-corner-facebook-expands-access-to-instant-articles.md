@@ -9,11 +9,11 @@ topics:
   - content
   - Monthly Theme
   - social-media
-  - content models
+  - content-models
   - Facebook
-  - open and structured content models
+  - open-and-structured-content-models
   - social-media
-  - structured content
+  - structured-content
   - the-content-corner
 ---
 

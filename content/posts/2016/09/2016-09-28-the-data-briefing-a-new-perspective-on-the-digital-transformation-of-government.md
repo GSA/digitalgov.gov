@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - code
-  - Data
+  - data
   - managing-digital
   - strategy
   - policy

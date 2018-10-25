@@ -6,7 +6,7 @@ summary: 'A recent study of big data initiatives in 65 cities has interesting gu
 authors:
   - bbrantley
 topics:
-  - Data
+  - data
   - managing-digital
   - strategy
   - policy

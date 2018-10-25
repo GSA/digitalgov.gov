@@ -11,8 +11,8 @@ topics:
   - centers-for-disease-control-and-prevention
   - EPA
   - FDA
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - HHS
   - mobile-apps
   - mobile-gov

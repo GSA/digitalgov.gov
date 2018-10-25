@@ -9,13 +9,13 @@ topics:
   - api
   - content
   - api
-  - content models
+  - content-models
   - metadata
   - National Institutes of Health
   - NIH
-  - open and structured content models
+  - open-and-structured-content-models
   - Recaps
-  - structured content
+  - structured-content
 ---
 
 Content models provide an opportunity for agencies to structure, organize, distribute, and better publish information in multiple forms and on multiple platforms. Federal agencies discussed why content models are important for future-facing content in our [What Structured Content Models Can Do For You Webinars]({{< link "2014-06-09-what-structured-content-can-do-for-you-webinar-recap.md" >}} "What Structured Content Can Do For You: Webinar Recap") in May and June.

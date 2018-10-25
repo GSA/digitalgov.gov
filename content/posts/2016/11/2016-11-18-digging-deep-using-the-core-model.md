@@ -16,7 +16,7 @@ topics:
   - metrics
   - Office of Management and Budget
   - OMB
-  - structured content
+  - structured-content
   - white-house
 ---
 

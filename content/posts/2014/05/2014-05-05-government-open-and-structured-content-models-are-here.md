@@ -20,7 +20,7 @@ topics:
   - Census
   - CFPB
   - Consumer Financial Protection Bureau
-  - content models
+  - content-models
   - DOL
   - FDA
   - GitHub
@@ -28,10 +28,10 @@ topics:
   - mobile-ux-guideline-1
   - National Institutes of Health
   - NIH
-  - open and structured content models
+  - open-and-structured-content-models
   - SEC
   - SSA
-  - structured content
+  - structured-content
   - The United States Social Security Administration
   - US Department of Agriculture
   - US Department of Education

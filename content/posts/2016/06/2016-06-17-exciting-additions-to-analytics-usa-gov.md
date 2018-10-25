@@ -9,7 +9,7 @@ authors:
   - eric-mill
   - colin-craig
 topics:
-  - Data
+  - data
   - managing-digital
   - metrics
   - Our Work

@@ -6,7 +6,7 @@ summary: 'Are you looking for the &ldquo;golden metric&#8221; that is the best m
 authors:
   - marina-fox
 topics:
-  - Data
+  - data
   - metrics
   - big data
   - DAP

@@ -7,7 +7,7 @@ authors:
   - michael-pulsifer
 topics:
   - api
-  - Data
+  - data
   - api
   - data
   - 'Occupational Safety and Health Administration'

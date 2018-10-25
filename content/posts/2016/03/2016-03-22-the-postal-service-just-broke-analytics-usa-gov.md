@@ -6,7 +6,7 @@ summary: 'Ok, so it didn’t really break it. But you might notice that the amou
 authors:
   - tlowden
 topics:
-  - Data
+  - data
   - Monthly Theme
   - DAP
   - Digital Analytics Program

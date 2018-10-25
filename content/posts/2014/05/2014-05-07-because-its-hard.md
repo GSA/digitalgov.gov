@@ -19,7 +19,7 @@ topics:
   - DOL
   - innovation
   - mobile
-  - open and structured content models
+  - open-and-structured-content-models
   - responsive web design
   - US Department of Labor
   - user-experience

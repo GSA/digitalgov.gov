@@ -10,7 +10,7 @@ authors:
   - julia-winn
   - gabriel-ramirez
 topics:
-  - Data
+  - data
   - metrics
   - 18f
   - analytics

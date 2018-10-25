@@ -6,7 +6,7 @@ summary: 'Summary: Building on efforts to boost Federal cybersecurity & as part 
 authors:
   - tony-scott
 topics:
-  - Data
+  - data
   - Governance
   - managing-digital
   - strategy

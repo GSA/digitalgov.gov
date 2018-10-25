@@ -10,10 +10,10 @@ topics:
   - mobile
   - cdc
   - Census
-  - content models
+  - content-models
   - Department of Commerce
   - EPA
-  - FEMA
+  - fema
   - HUD
   - mobile
   - mobile-code-catalog

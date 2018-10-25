@@ -7,7 +7,7 @@ authors:
   - rebecca-williams
 topics:
   - code
-  - Data
+  - data
   - Monthly Theme
   - open-data
 ---

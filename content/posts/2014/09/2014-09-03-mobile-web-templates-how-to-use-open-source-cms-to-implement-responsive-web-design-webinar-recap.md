@@ -10,11 +10,11 @@ topics:
   - api
   - CMS
   - content-management-system
-  - content models
+  - content-models
   - drupal
   - IMLS
   - mobile-ux-guideline-1
-  - open and structured content models
+  - open-and-structured-content-models
   - open-source
   - Recaps
   - responsive web design

@@ -13,11 +13,11 @@ topics:
   - api
   - CMS
   - content-management-system
-  - content models
+  - content-models
   - COPE
   - National Institutes of Health
   - NIH
-  - open and structured content models
+  - open-and-structured-content-models
   - Sites
   - the-content-corner
 ---

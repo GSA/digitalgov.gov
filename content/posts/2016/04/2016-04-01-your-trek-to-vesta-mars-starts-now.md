@@ -9,7 +9,7 @@ topics:
   - api
   - challenges
   - code
-  - Data
+  - data
   - Monthly Theme
   - api
   - apps challenges

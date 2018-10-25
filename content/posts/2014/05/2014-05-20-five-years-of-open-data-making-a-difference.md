@@ -7,7 +7,7 @@ authors:
   - jeanne-holm
 topics:
   - api
-  - Data
+  - data
   - american-red-cross
   - data-gov
   - DOT
