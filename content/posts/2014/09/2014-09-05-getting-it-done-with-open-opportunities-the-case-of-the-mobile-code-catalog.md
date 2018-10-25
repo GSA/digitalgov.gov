@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-4
   - NPS
   - Open Opportunities program
-  - open source
+  - open-source
   - US Department of Labor
   - US National Park Service
 ---

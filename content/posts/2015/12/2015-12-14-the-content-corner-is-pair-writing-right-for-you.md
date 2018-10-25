@@ -8,10 +8,10 @@ authors:
 topics:
   - content
   - user-testing-and-research
-  - Writing
+  - writing
   - administrative-office-of-the-united-states-courts
   - agile
-  - The Content Corner
+  - the-content-corner
 ---
 
 Fresh from [last week’s article about workflows]({{< link "2015-12-07-the-content-corner-work-smarter-with-workflows.md" >}}) and their importance in the content creation process, I stumbled upon a new twist in content production known as [pair writing](http://www.uxbooth.com/articles/write-better-content-by-working-in-pairs/).

@@ -7,18 +7,18 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - Writing
+  - writing
   - administrative-office-of-the-united-states-courts
-  - content strategy
-  - DHS
+  - content-strategy
+  - dhs
   - metrics
-  - Plain Writing Act of 2010
-  - social media
-  - The Content Corner
-  - United States Department of Homeland Security
+  - plain-writing-act-of-2010
+  - social-media
+  - the-content-corner
+  - united-states-department-of-homeland-security
 ---
 
-Deep down we&#8217;ve always known that people only read a small portion of any content shared online. In many ways that can&#8217;t be fixed but there are ways to help people read more or at least scan better. {{< legacy-img src="2016/04/600-x-425-Internet-Life-Wahyu-b.-Pratomo-Hemera-Thinkstock-94048416.jpg" alt="Internet Life" caption="" >}} 
+Deep down we&#8217;ve always known that people only read a small portion of any content shared online. In many ways that can&#8217;t be fixed but there are ways to help people read more or at least scan better. {{< legacy-img src="2016/04/600-x-425-Internet-Life-Wahyu-b.-Pratomo-Hemera-Thinkstock-94048416.jpg" alt="Internet Life" caption="" >}}
 
 There was a book I loved as a child that featured the Sesame Street character Grover, titled [The Monster at the End of this Book](http://smollin.com/michael/tmonstr/mon001.html), where Grover keeps warning the reader to stop turning pages because there is going to be a scary monster at the end. This of course has the opposite effect as the reader is made more and more curious and is turning the pages faster and faster. In the end, (spoiler alert) Grover is the monster, but I wonder if the book was a blog post, how many readers would have never found out? Do we have to resort to narrative tricks or cliffhangers to help drive our readers to the end of our content? Well, sort of.
 
@@ -65,7 +65,7 @@ The Department of Homeland Security (DHS) uses chunking, bullets, headings, and 
 > <p style="font-size: 12px;line-height: 18px">
 >   Suspicious activity is any observed behavior that could indicate terrorism or terrorism-related crime. This includes, but is not limited to:
 > </p>
-> 
+>
 > <li style="font-size: 12px">
 >   <strong>Unusual items or situations: </strong>A vehicle is parked in an odd location, a package/luggage is unattended, a window/door is open that is usually closed, or other out-of-the-ordinary situations occur.
 > </li>
@@ -75,35 +75,35 @@ The Department of Homeland Security (DHS) uses chunking, bullets, headings, and 
 > <li style="font-size: 12px">
 >   <strong>Observation/surveillance:</strong> Someone pays unusual attention to facilities or buildings beyond a casual or professional interest. This includes extended loitering without explanation (particularly in concealed locations); unusual, repeated, and/or prolonged observation of a building (e.g., with binoculars or video camera); taking notes or measurements; counting paces; sketching floor plans, etc.
 > </li>
-> 
+>
 > <p style="font-size: 12px;line-height: 18px">
 >   Some of these activities could be innocent—it&#8217;s up to law enforcement to determine whether the behavior warrants investigation. The activities above are not all-inclusive, but have been compiled based on studies of pre-operational aspects of both successful and thwarted terrorist events over several years.
 > </p>
-> 
+>
 > <h2 style="font-size: 24px;color: #264363">
 >   Protecting Citizens&#8217; Privacy & Civil Liberties
 > </h2>
-> 
+>
 > <p style="font-size: 12px;line-height: 18px">
 >   The &#8220;If You See Something, Say Something™&#8221; campaign respects citizens&#8217; privacy, civil rights, and civil liberties by emphasizing behavior, rather than appearance, in identifying suspicious activity.
 > </p>
-> 
+>
 > <p style="font-size: 12px;line-height: 18px">
 >   Factors such as race, ethnicity, and/or religious affiliation are not suspicious. The public should only report suspicious behavior and situations (e.g., an unattended backpack or package, or someone breaking into a restricted area). Only reports that document behavior that is reasonably indicative of criminal activity related to terrorism will be shared with federal partners.
 > </p>
-> 
+>
 > <h2 style="font-size: 24px;color: #264363">
 >   How to Report Suspicious Activity
 > </h2>
-> 
+>
 > <p style="font-size: 12px;line-height: 18px">
 >   Public safety is everyone&#8217;s responsibility. If you see suspicious activity, report it to local law enforcement or a person of authority.
 > </p>
-> 
+>
 > <p style="font-size: 12px;line-height: 18px">
 >   Describe specifically what you observed, including:
 > </p>
-> 
+>
 > <li style="font-size: 12px">
 >   Who or what you saw;
 > </li>

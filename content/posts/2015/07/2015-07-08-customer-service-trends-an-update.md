@@ -23,7 +23,7 @@ topics:
   - NOAA
   - Personas
   - Smithsonian Institution
-  - social media
+  - social-media
   - US Department of Veterans Affairs
   - user-centered-design
   - VA

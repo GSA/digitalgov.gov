@@ -18,7 +18,7 @@ topics:
   - innovation
   - Office of Products and Programs
   - OPP
-  - social media
+  - social-media
   - SocialGov
   - socialgov-community
   - virtual-reality

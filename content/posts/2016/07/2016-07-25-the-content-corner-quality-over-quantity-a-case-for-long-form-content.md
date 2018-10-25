@@ -16,9 +16,9 @@ topics:
   - DAP
   - Digital Analytics Program
   - mobile
-  - social media
-  - social media metrics
-  - The Content Corner
+  - social-media
+  - social-media metrics
+  - the-content-corner
 ---
 
 ****Content can be categorized in many ways. While breaking down your [website analytics](({{< link "categories/metrics" >}})), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.

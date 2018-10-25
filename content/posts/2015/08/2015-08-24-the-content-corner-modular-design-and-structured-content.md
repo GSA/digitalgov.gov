@@ -12,7 +12,7 @@ topics:
   - content models
   - mobile-ux-guideline-1
   - structured content
-  - The Content Corner
+  - the-content-corner
 ---
 
 Several months ago I discussed the concept of a [world without Web pages]({{< link "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}}) and the importance of structured content and thinking about content, not pages. This week, I’m taking that discussion further by discussing the importance of modularity in Web design and how that complements our efforts to create more structured and reusable data.

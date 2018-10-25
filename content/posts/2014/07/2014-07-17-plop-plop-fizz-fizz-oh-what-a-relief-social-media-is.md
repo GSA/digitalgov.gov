@@ -9,7 +9,7 @@ topics:
   - Data
   - social-media
   - GAO
-  - open source
+  - open-source
   - US Government Accountability Office
 ---
 

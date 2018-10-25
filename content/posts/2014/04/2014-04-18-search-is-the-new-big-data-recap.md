@@ -9,7 +9,7 @@ topics:
   - code
   - content
   - DigitalGov Search
-  - open source
+  - open-source
   - Recaps
 ---
 

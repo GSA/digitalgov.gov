@@ -11,7 +11,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - content
-  - content strategy
+  - content-strategy
   - content syndication
   - FDA
   - HHS

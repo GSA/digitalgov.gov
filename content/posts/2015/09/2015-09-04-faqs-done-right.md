@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - ux
-  - Writing
+  - writing
   - Plain language
   - transportation-security-administration
   - TSA

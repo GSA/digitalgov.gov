@@ -10,7 +10,7 @@ topics:
   - Monthly Theme
   - customer-experience
   - government contact centers
-  - social media
+  - social-media
 ---
 
 {{< legacy-img src="2014/04/250-x-167-call-center-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-450795317.jpg" alt="Beautiful smiling businesswoman using futuristic interface showing applications" caption="" >}} 

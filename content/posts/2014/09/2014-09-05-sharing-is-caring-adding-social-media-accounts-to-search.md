@@ -12,7 +12,7 @@ topics:
   - Federal Register
   - instagram
   - National Library of Medicine
-  - social media
+  - social-media
   - transportation-security-administration
   - TSA
   - Twitter

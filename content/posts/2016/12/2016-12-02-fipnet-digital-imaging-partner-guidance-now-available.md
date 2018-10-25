@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - content
-  - content strategy
+  - content-strategy
   - Government Publishing Office
   - GPO
 ---

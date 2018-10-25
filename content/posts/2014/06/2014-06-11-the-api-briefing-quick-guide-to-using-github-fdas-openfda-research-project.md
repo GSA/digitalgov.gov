@@ -11,7 +11,7 @@ topics:
   - content
   - FDA
   - GitHub
-  - open source
+  - open-source
   - OPM
   - US Food and Drug Administration
   - United States Office of Personnel Management

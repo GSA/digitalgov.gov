@@ -11,7 +11,7 @@ topics:
   - api
   - data
   - data-visualization
-  - social media
+  - social-media
   - Twitter
   - United States Geological Survey
   - USGS

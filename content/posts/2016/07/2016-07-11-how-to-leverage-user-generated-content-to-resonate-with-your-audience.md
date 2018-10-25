@@ -29,9 +29,9 @@ topics:
   - NPS
   - Office of Community Oriented Policing Services
   - SAMHSA
-  - social media
+  - social-media
   - SocialGov
-  - The Content Corner
+  - the-content-corner
   - US Department of Agriculture
   - US Department of Justice
   - US Forest Service

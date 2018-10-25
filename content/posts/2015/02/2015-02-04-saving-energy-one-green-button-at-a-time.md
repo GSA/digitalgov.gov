@@ -13,7 +13,7 @@ topics:
   - National Institute of Standards and Technology
   - NIST
   - open-data
-  - open source
+  - open-source
   - United States Department of Energy
 ---
 

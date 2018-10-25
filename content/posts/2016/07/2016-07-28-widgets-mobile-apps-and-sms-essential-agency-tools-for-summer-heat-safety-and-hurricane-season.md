@@ -13,7 +13,7 @@ topics:
   - app
   - content
   - content syndication
-  - DHS
+  - dhs
   - Federal Emergency Management Agency
   - FEMA
   - HHS
@@ -25,7 +25,7 @@ topics:
   - NOAA
   - NWS
   - sms
-  - social media
+  - social-media
   - thursday-mobile-products
   - US Department of Veterans Affairs
   - VA

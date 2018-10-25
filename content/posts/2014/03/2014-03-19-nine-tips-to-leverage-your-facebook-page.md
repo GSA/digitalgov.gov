@@ -10,7 +10,7 @@ topics:
   - social-media
   - EPA
   - Facebook
-  - social media
+  - social-media
   - USGS
 ---
 

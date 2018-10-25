@@ -7,7 +7,7 @@ authors:
   - victoria-wales
 topics:
   - content
-  - content strategy
+  - content-strategy
   - GobiernoUSAgov
   - usa.gov
   - USAgov

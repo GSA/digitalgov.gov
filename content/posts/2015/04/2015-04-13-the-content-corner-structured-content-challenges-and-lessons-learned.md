@@ -12,10 +12,10 @@ topics:
   - api
   - CMS
   - content models
-  - content strategy
+  - content-strategy
   - COPE
   - government contact centers
-  - The Content Corner
+  - the-content-corner
   - usa.gov
 ---
 

@@ -17,7 +17,7 @@ topics:
   - accessibility
   - best practices
   - content
-  - content strategy
+  - content-strategy
   - customer-experience
   - CX
   - DGU
@@ -30,7 +30,7 @@ topics:
   - Recaps
   - section 508
   - Smithsonian Institution
-  - social media
+  - social-media
   - US General Services Administration
   - USAgov
   - user-experience

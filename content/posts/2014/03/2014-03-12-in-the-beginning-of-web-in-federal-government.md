@@ -11,7 +11,7 @@ topics:
   - Corporation for National and Community Service
   - Court Services and Offender Supervision Agency
   - CSOSA
-  - DHS
+  - dhs
   - EPA
   - FEMA
   - Government Publishing Office
@@ -23,7 +23,7 @@ topics:
   - National Archives and Records Administration
   - US Department of State
   - united-states-department-of-health-and-human-services
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - United States Department of Housing and Urban Development
   - USAgov
   - Web Content Managers Forum

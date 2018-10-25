@@ -10,8 +10,8 @@ topics:
   - social-media
   - a-b-testing
   - Peace Corps
-  - social media
-  - social media metrics
+  - social-media
+  - social-media metrics
 ---
 
 {{< legacy-img src="2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media universe" caption="" >}} 

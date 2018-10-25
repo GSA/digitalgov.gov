@@ -9,8 +9,8 @@ topics:
   - content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
-  - content strategy
-  - The Content Corner
+  - content-strategy
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/02/250-x-203-Sales-Thermometer-Rising-Past-Great-Levels-qoncept-iStock-Thinkstock-139918115.jpg" alt="A rising sales concept graphic of an old-fashioned thermometer" caption="" >}} 

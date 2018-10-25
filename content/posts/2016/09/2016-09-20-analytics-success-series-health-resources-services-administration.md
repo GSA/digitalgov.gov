@@ -13,7 +13,7 @@ topics:
   - Our Work
   - analytics
   - content
-  - content strategy
+  - content-strategy
   - DAP
   - data
   - Digital Analytics Program

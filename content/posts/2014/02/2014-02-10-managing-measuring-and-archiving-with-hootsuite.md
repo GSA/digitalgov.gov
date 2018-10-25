@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - DGU
-  - social media
+  - social-media
   - SocialGov
 ---
 

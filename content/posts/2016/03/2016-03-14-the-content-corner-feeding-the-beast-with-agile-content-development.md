@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - agile
-  - content strategy
-  - The Content Corner
+  - content-strategy
+  - the-content-corner
 ---
 
 I feel as though I have ignored the [beast in the room]({{< link "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) lately, and since I began my tenure on [The Content Corner]({{< link "tag/the-content-corner" >}}) introducing that concept, I felt I needed to wrestle with it one last time [before I depart](https://openopps.digitalgov.gov/tasks/479).

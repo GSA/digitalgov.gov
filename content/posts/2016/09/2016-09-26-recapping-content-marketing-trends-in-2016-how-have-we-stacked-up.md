@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - content
-  - content strategy
+  - content-strategy
   - content syndication
   - HHS
   - HRSA
@@ -21,8 +21,8 @@ topics:
   - multilingual
   - NARA
   - National Archives and Records Administration
-  - social media
-  - The Content Corner
+  - social-media
+  - the-content-corner
   - US Department of the Interior
   - US Department of the Treasury
   - US Health Resources and Services Administration

@@ -10,7 +10,7 @@ topics:
   - data
   - data-gov
   - open-data
-  - open source
+  - open-source
 ---
 
 <p dir="ltr">

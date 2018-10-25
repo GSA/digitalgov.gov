@@ -14,7 +14,7 @@ topics:
   - National Institutes of Health
   - NCI
   - NIH
-  - social media
+  - social-media
   - united-states-department-of-health-and-human-services
 ---
 

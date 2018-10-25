@@ -16,7 +16,7 @@ topics:
   - user-testing-and-research
   - ux
   - content
-  - content strategy
+  - content-strategy
   - customer-experience
   - CX
   - National Center for Complementary and Integrative Health

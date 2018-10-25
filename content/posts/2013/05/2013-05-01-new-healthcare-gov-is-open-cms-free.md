@@ -9,9 +9,9 @@ topics:
   - code
   - api
   - CMS
-  - content strategy
+  - content-strategy
   - GitHub
-  - open source
+  - open-source
 ---
 
 [{{< legacy-img src="2013/05/healthcare.gov-3-350x152-250x108.jpg" alt="HealthCare.gov screenshot from May 2013" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/05/healthcare.gov-3-350x152.jpg)Recently HHS CTO Bryan Sivak outlined a new vision for [healthcare.gov](http://healthcare.gov/). The site will relaunch this June with a completely rethought design and architecture.

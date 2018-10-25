@@ -9,10 +9,10 @@ topics:
   - content
   - administrative-office-of-the-united-states-courts
   - analytics
-  - content strategy
+  - content-strategy
   - infographic
   - metadata
-  - The Content Corner
+  - the-content-corner
   - usability
   - ux
 ---

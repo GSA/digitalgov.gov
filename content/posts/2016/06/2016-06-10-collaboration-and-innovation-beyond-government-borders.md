@@ -10,7 +10,7 @@ topics:
   - Our Work
   - code
   - Open Opportunities program
-  - open source
+  - open-source
   - US Department of Veterans Affairs
   - VA
 ---

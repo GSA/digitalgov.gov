@@ -12,7 +12,7 @@ topics:
   - audio-video
   - content
   - hiv-gov
-  - social media
+  - social-media
   - video
   - video-production-pros-community
 ---

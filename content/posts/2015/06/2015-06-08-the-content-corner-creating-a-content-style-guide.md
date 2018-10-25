@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - content strategy
-  - The Content Corner
+  - content-strategy
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." caption="" >}} 

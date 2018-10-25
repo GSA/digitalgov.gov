@@ -12,7 +12,7 @@ topics:
   - social-media
   - accessibility
   - SBA
-  - social media
+  - social-media
   - SocialGov
   - socialgov-community
   - USAID

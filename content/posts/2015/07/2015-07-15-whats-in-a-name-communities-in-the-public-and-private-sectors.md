@@ -12,7 +12,7 @@ topics:
   - DGU
   - Digital Analytics Program
   - Open Opportunities program
-  - social media
+  - social-media
   - Web Content Managers Forum
 ---
 

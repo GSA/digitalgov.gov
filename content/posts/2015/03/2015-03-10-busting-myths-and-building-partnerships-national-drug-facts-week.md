@@ -11,7 +11,7 @@ topics:
   - multilingual
   - National Institutes of Health
   - NIH
-  - social media
+  - social-media
   - Twitter
 ---
 

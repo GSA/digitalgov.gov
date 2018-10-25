@@ -11,10 +11,10 @@ topics:
   - CMS
   - content-management-system
   - content models
-  - content strategy
+  - content-strategy
   - metadata
   - open and structured content models
-  - The Content Corner
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/03/600-x-415-Global-Communication-and-Data-Concept-Symbols-Robert-Churchill-iStock-Thinkstock-493540889.jpg" alt="Global Communication and Data Concept Symbols" caption="" >}} 

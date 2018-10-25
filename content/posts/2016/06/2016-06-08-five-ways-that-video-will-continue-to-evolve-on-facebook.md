@@ -13,7 +13,7 @@ topics:
   - BBG
   - Broadcasting Board of Governors
   - content
-  - social media
+  - social-media
 ---
 
 <div class="testimonial small">

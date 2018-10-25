@@ -13,7 +13,7 @@ topics:
   - innovation
   - nasa
   - Recaps
-  - social media
+  - social-media
 ---
 
 {{< legacy-img src="2014/07/250-x-188-Cinema-Studio-ktsimage-iStock-Thinkstock-156334978.jpg" alt="Film reel, film slate, director's chair and megaphone" caption="" >}} 

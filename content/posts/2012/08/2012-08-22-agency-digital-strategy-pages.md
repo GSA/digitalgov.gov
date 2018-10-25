@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - Department of Commerce
-  - DHS
+  - dhs
   - DoD
   - DOE
   - DOI
@@ -46,7 +46,7 @@ topics:
   - United States Department of Defense
   - United States Department of Energy
   - united-states-department-of-health-and-human-services
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - United States Department of Housing and Urban Development
   - United States Department of Transportation
   - United States Office of Personnel Management

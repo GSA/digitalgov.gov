@@ -24,8 +24,8 @@ topics:
   - mobile
   - NARA
   - National Archives and Records Administration
-  - open source
-  - social media
+  - open-source
+  - social-media
   - video
   - white-house
 ---

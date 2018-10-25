@@ -9,7 +9,7 @@ topics:
   - metrics
   - social-media
   - GAO
-  - social media
+  - social-media
   - SocialGov
 ---
 

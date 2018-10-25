@@ -12,7 +12,7 @@ topics:
   - mobile
   - user-testing-and-research
   - ux
-  - content strategy
+  - content-strategy
   - mobile
   - user-centered-design
   - user-experience

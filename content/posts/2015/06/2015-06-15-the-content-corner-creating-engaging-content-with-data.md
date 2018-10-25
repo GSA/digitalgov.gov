@@ -11,10 +11,10 @@ topics:
   - big data
   - BLS
   - Census
-  - content strategy
+  - content-strategy
   - data
   - open-data
-  - The Content Corner
+  - the-content-corner
   - US Bureau of Labor Statistics
   - United States Census Bureau
 ---

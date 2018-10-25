@@ -7,13 +7,13 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - Writing
+  - writing
   - administrative-office-of-the-united-states-courts
   - blog
   - FBI
   - Federal Bureau of Investigation
   - podcast
-  - The Content Corner
+  - the-content-corner
 ---
 
 Several months or so ago, I raised the question of whether you and your agency [should be podcasting.]({{< link "2015-04-06-the-content-corner-should-you-be-podcasting.md" >}}) Incidentally, my post coincided with the launch of [DigitalGov’s new podcast series]({{< link "tag/podcast" >}}). As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’s [Serial](http://serialpodcast.org/) and [Marc Maron’s WTF podcast series](http://www.wtfpod.com/) that recently featured [President Obama as a guest](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama).

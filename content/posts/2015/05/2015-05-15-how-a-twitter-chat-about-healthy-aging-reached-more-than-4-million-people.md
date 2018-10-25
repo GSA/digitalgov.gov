@@ -9,7 +9,7 @@ topics:
   - social-media
   - National Institutes of Health
   - NIH
-  - social media
+  - social-media
   - Twitter
 ---
 

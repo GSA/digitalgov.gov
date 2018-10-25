@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - strategy
   - policy
-  - social media
+  - social-media
 ---
 
 <div>

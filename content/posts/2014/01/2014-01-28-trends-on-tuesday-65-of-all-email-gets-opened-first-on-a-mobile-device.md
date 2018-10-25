@@ -9,7 +9,7 @@ topics:
   - content
   - mobile
   - mobile
-  - social media
+  - social-media
   - Trends on Tuesday
 ---
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - DOL
-  - social media
+  - social-media
   - socialgov-community
   - US Department of Labor
 ---

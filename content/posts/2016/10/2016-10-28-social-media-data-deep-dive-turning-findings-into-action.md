@@ -11,13 +11,13 @@ topics:
   - policy
   - analytics
   - content
-  - content strategy
+  - content-strategy
   - data
   - GobiernoUSAgov
   - metrics
   - multilingual
-  - social media
-  - social media metrics
+  - social-media
+  - social-media metrics
   - USAgov
 ---
 

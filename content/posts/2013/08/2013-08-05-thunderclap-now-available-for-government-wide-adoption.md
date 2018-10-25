@@ -9,7 +9,7 @@ topics:
   - social-media
   - strategy
   - policy
-  - social media
+  - social-media
   - Terms of Service
 ---
 

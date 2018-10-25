@@ -9,7 +9,7 @@ topics:
   - social-media
   - api
   - Internet of things
-  - social media
+  - social-media
   - SocialGov
 ---
 

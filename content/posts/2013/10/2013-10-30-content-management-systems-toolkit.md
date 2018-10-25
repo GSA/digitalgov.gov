@@ -10,9 +10,9 @@ topics:
   - content
   - CMS
   - content-management-system
-  - content strategy
+  - content-strategy
   - metadata
-  - open source
+  - open-source
   - sitesusagov
 ---
 

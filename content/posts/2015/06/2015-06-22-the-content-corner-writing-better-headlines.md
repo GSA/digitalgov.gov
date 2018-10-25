@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - content strategy
-  - The Content Corner
+  - content-strategy
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/06/600-x-455-3D-Quotation-Marks-Gold-Sign-mariusz_prusaczyk-iStock-Thinkstock-177759854.jpg" alt="Gold quotation marks in 3-D" caption="" >}} 

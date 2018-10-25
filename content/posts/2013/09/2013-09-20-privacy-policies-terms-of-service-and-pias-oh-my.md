@@ -10,7 +10,7 @@ topics:
   - policy
   - privacy
   - Privacy Impact Assessment
-  - social media
+  - social-media
   - Terms of Service
 ---
 

@@ -11,7 +11,7 @@ topics:
   - Defense Commissary Agency
   - Defense Logistics Agency
   - Department of Commerce
-  - DHS
+  - dhs
   - DOL
   - DOT
   - EPA
@@ -56,7 +56,7 @@ topics:
   - US Small Business Administration
   - United States Army
   - United States Census Bureau
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - United States Department of Transportation
   - United States Geological Survey
   - US Fish and Wildlife Service

@@ -11,7 +11,7 @@ topics:
   - metrics
   - Our Work
   - DigitalGov Search
-  - open source
+  - open-source
 ---
 
 [DigitalGov Search](https://search.gov) recently rolled out a new open source technology stack, which gives the team access to real-time analytics and dashboards to monitor search trends.

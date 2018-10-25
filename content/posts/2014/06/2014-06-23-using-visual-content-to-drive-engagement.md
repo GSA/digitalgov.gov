@@ -9,7 +9,7 @@ topics:
   - Monthly Theme
   - social-media
   - video
-  - Writing
+  - writing
   - Consumer Action Handbook
   - USAgov
 ---

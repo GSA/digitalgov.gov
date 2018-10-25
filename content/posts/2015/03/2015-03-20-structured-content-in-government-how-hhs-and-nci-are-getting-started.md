@@ -11,7 +11,7 @@ topics:
   - mobile
   - Monthly Theme
   - content models
-  - content strategy
+  - content-strategy
   - DGU
   - HHS
   - metadata

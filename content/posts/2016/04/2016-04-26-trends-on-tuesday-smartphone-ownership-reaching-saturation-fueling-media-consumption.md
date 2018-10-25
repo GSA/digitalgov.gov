@@ -12,7 +12,7 @@ topics:
   - instagram
   - linkedin
   - mobile
-  - social media
+  - social-media
   - Trends on Tuesday
 ---
 

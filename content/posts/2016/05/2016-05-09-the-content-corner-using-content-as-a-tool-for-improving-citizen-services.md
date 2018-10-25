@@ -7,11 +7,11 @@ authors:
   - kyle-s-richardson
 topics:
   - content
-  - DHS
+  - dhs
   - FirstNet
-  - The Content Corner
+  - the-content-corner
   - US Department of Veterans Affairs
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - VA
 ---
 

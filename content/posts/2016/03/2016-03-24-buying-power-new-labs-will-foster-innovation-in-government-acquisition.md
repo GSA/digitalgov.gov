@@ -9,10 +9,10 @@ topics:
   - challenges
   - challenge-gov
   - challenges and prize competitions
-  - DHS
+  - dhs
   - HHS
   - united-states-department-of-health-and-human-services
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
 ---
 
 The slow, tedious federal acquisition process has long been the butt of jokes in the private sector.

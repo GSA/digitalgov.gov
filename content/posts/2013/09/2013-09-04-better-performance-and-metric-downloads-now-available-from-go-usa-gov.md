@@ -9,7 +9,7 @@ topics:
   - code
   - metrics
   - social-media
-  - social media metrics
+  - social-media metrics
   - USAgov
 ---
 

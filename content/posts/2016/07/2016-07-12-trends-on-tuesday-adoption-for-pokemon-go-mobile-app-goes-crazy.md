@@ -13,8 +13,8 @@ topics:
   - metrics
   - mobile
   - security
-  - social media
-  - social media metrics
+  - social-media
+  - social-media metrics
   - Trends on Tuesday
 ---
 

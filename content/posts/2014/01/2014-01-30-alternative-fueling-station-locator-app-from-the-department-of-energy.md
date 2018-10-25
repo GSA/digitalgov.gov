@@ -9,7 +9,7 @@ topics:
   - api
   - mobile-apps
   - NREL
-  - open source
+  - open-source
   - thursday-mobile-products
 ---
 

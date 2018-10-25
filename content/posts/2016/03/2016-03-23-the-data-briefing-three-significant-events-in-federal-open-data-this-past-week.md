@@ -11,15 +11,15 @@ topics:
   - Monthly Theme
   - agile
   - api
-  - DHS
+  - dhs
   - National Action Plan on Open Government
   - Office of Management and Budget
   - OMB
   - open-data
-  - open source
+  - open-source
   - the-data-briefing
   - US Department of Veterans Affairs
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - United States Patent and Trademark Office
   - USPTO
   - VA

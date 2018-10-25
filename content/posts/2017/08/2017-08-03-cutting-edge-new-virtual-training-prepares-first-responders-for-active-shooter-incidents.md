@@ -14,13 +14,13 @@ topics:
   - video
   - audio-video
   - augmented-reality
-  - DHS
+  - dhs
   - Gamification
   - research
   - Security
   - Training
   - United States Army
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - video
   - video-production-pros-community
   - virtual-reality

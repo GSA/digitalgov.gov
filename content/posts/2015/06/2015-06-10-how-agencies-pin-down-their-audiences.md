@@ -10,12 +10,12 @@ topics:
   - social-media
   - cdc
   - centers-for-disease-control-and-prevention
-  - content strategy
+  - content-strategy
   - GSA
   - nasa
   - National Institutes of Health
   - NIH
-  - social media
+  - social-media
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Pinterest-Homepage-seewhatmitchsee-iStock-Editorial-Thinkstock-458705111.jpg" alt="Pinterest Homepage" caption="" >}} 

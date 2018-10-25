@@ -17,7 +17,7 @@ topics:
   - natural language generation
   - open government
   - structured content
-  - The Content Corner
+  - the-content-corner
   - US Environmental Protection Agency
   - united-states-department-of-health-and-human-services
 ---

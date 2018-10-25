@@ -10,7 +10,7 @@ topics:
   - Data
   - ux
   - BLS
-  - content strategy
+  - content-strategy
   - data
   - data-visualization
   - DOL

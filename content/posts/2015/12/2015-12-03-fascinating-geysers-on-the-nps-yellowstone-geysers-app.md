@@ -10,7 +10,7 @@ topics:
   - mobile
   - mobile-apps
   - NPS
-  - social media
+  - social-media
   - SSA
   - The United States Social Security Administration
   - thursday-mobile-products

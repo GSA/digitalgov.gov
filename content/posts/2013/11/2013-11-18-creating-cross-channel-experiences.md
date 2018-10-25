@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - ux
-  - content strategy
+  - content-strategy
   - usability
 ---
 

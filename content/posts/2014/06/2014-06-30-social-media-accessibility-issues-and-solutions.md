@@ -10,14 +10,14 @@ topics:
   - Monthly Theme
   - social-media
   - video
-  - Writing
+  - writing
   - accessibility
   - crowdsourcing
   - FCC
   - Federal Communications Commission
   - infographic
   - Plain language
-  - social media
+  - social-media
 ---
 
 {{< legacy-img src="2014/06/600-x-215-The-Art-of-Social-Media-by-mkhmarketing-flickr-CC-BY-2-0.jpg" alt="Social media icons on the ends of brightly colored chalk" caption="The Art of Social Media by mkhmarketing CC BY 2.0" >}} 

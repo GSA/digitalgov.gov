@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - content strategy
-  - The Content Corner
+  - content-strategy
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Businessman-choosing-no-instead-yes-button-BernardaSv-iStock-Thinktock-516619561.jpg" alt="Businessman choosing no instead yes button" caption="" >}} 

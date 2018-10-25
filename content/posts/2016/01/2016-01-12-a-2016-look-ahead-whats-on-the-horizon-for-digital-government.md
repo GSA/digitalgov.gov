@@ -14,7 +14,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - open-data
-  - social media
+  - social-media
   - SocialGov
 ---
 

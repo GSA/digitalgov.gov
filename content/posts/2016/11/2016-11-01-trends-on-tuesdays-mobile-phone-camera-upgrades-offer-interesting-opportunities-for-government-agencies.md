@@ -17,7 +17,7 @@ topics:
   - mobile-apps
   - native-app
   - native-apps
-  - social media
+  - social-media
   - Trends on Tuesday
   - video
 ---

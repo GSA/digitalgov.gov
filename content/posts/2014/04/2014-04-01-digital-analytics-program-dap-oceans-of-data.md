@@ -13,7 +13,7 @@ topics:
   - mobile
   - nasa
   - NPS
-  - social media
+  - social-media
 ---
 
 <p style="text-align: left">

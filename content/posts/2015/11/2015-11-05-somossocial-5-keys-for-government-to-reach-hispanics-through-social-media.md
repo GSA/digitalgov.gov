@@ -20,7 +20,7 @@ topics:
   - Peace Corps
   - Recaps
   - SBA
-  - social media
+  - social-media
   - Twitter
   - US Small Business Administration
   - usa.gov

@@ -10,7 +10,7 @@ topics:
   - 18f
   - agile
   - Open Opportunities program
-  - open source
+  - open-source
 ---
 
 _Author&#8217;s note: Anyone can contribute to the development of the Open Opportunities platform via [the project&#8217;s GitHub repository](https://github.com/18F/openopps-platform). The Open Opportunities program itself is only open to federal employees.

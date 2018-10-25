@@ -9,7 +9,7 @@ authors:
 topics:
   - managing-digital
   - social-media
-  - social media
+  - social-media
   - Twitter
 ---
 

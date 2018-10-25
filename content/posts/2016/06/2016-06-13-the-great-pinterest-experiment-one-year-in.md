@@ -13,11 +13,11 @@ topics:
   - strategy
   - policy
   - content
-  - content strategy
+  - content-strategy
   - kids.gov
   - Pinterest
-  - social media
-  - social media metrics
+  - social-media
+  - social-media metrics
   - usa.gov
 ---
 

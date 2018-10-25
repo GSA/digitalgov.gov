@@ -9,7 +9,7 @@ topics:
   - code
   - ux
   - 18f
-  - open source
+  - open-source
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Old-Way-or-New-Way-IvelinRadkov-iStock-THinkstock-496474697.jpg" alt="Old Way or New Way" caption="" >}} 

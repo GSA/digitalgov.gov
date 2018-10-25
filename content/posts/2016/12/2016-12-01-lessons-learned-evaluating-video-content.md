@@ -15,7 +15,7 @@ topics:
   - CFPB
   - Consumer Financial Protection Bureau
   - content
-  - content strategy
+  - content-strategy
   - Digital Audio/Video Community
   - user-experience
   - user-experience-community-of-practice

@@ -6,10 +6,10 @@ summary: 'Let’s see&ndash;you want to improve the skills of your agency’s wr
 authors:
   - gina-pearson
 topics:
-  - Writing
+  - writing
   - EIA
   - Plain language
-  - Plain Writing Act of 2010
+  - plain-writing-act-of-2010
   - US Energy Information Administration
 ---
 

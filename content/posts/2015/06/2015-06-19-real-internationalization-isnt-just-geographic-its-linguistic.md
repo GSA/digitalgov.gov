@@ -14,7 +14,7 @@ topics:
   - GobiernoUSAgov
   - HHS
   - multilingual
-  - social media
+  - social-media
   - Twitter
   - united-states-department-of-health-and-human-services
   - usa.gov

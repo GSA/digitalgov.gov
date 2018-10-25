@@ -18,8 +18,8 @@ topics:
   - FDA
   - GAO
   - HHS
-  - social media
-  - social media metrics
+  - social-media
+  - social-media metrics
   - SocialGov
   - socialgov-community
   - Terms of Service

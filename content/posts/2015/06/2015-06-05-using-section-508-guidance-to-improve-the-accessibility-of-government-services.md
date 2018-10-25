@@ -11,7 +11,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - Centers for Medicare and Medicaid Services
-  - DHS
+  - dhs
   - DOT
   - FDA
   - GSA
@@ -28,7 +28,7 @@ topics:
   - US Food and Drug Administration
   - US National Park Service
   - united-states-department-of-health-and-human-services
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - United States Department of Transportation
   - VA
 ---

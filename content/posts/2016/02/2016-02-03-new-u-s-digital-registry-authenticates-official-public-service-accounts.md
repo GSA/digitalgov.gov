@@ -11,7 +11,7 @@ topics:
   - analytics-usa-gov
   - api
   - mobile-gov
-  - open source
+  - open-source
   - SocialGov
   - Terms of Service
   - US Digital Registry

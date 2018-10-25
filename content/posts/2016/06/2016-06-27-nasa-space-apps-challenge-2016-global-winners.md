@@ -19,7 +19,7 @@ topics:
   - nasa
   - open-data
   - open government
-  - open source
+  - open-source
 ---
 
 We&#8217;re thrilled to announce the <a href="https://2016.spaceappschallenge.org/awards" target="_blank">Space Apps 2016 Global Award Winners</a>!! These projects well represent the best of the best innovative thinking this year. Congratulations to all the teams. We look forward to seeing you at an upcoming NASA launch in Florida.

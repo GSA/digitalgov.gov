@@ -10,7 +10,7 @@ topics:
   - Department of Commerce
   - NOAA
   - NWS
-  - social media
+  - social-media
   - Twitter
 ---
 

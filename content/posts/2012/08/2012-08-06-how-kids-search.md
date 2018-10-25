@@ -9,7 +9,7 @@ authors:
 topics:
   - content
   - ux
-  - social media metrics
+  - social-media metrics
   - USAgov
   - ux
 ---

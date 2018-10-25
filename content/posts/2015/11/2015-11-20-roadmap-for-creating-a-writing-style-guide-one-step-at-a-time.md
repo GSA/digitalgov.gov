@@ -6,7 +6,7 @@ summary: 'So, you’re tired of seeing little (or big!) errors on your agency’
 authors:
   - colleen-blessing
 topics:
-  - Writing
+  - writing
   - EIA
   - Plain language
   - US Energy Information Administration

@@ -9,7 +9,7 @@ topics:
   - social-media
   - Facebook
   - GobiernoUSAgov
-  - social media
+  - social-media
   - Twitter
   - USAgov
 ---

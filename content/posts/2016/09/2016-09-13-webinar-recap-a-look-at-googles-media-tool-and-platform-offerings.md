@@ -14,7 +14,7 @@ topics:
   - analytics
   - audio-video
   - content
-  - content strategy
+  - content-strategy
   - DGU
   - Digital Audio/Video Community
   - digitalgov-university

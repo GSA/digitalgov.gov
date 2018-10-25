@@ -9,7 +9,7 @@ authors:
 topics:
   - content
   - Monthly Theme
-  - content strategy
+  - content-strategy
   - content syndication
 ---
 

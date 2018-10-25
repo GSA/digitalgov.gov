@@ -11,8 +11,8 @@ topics:
   - administrative-office-of-the-united-states-courts
   - CMS
   - content-management-system
-  - content strategy
-  - The Content Corner
+  - content-strategy
+  - the-content-corner
   - user-experience
 ---
 

@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - ux
   - api
-  - open source
+  - open-source
   - usability-testing
 ---
 

@@ -13,7 +13,7 @@ topics:
   - strategy
   - policy
   - content
-  - content strategy
+  - content-strategy
   - innovation
   - knowledge management
 ---

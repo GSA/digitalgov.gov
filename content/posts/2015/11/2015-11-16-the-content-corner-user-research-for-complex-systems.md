@@ -9,7 +9,7 @@ topics:
   - content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
-  - The Content Corner
+  - the-content-corner
   - ux
 ---
 

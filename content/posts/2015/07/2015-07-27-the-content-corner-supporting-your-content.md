@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - content strategy
-  - The Content Corner
+  - content-strategy
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/07/600-x-425-Magnifying-glass-showing-content-word-in-white-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224248.jpg" alt="Magnifying glass over the word content in white text." caption="" >}} 

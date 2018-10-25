@@ -11,7 +11,7 @@ topics:
   - mobile-ux-guideline-5
   - mobile-first
   - multilingual
-  - social media
+  - social-media
   - Trends on Tuesday
 ---
 

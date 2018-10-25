@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - Our Work
-  - DHS
+  - dhs
   - mobile
   - mobile-apps
   - mobile-gov-community-of-practice
@@ -17,7 +17,7 @@ topics:
   - mobile-gov
   - Recaps
   - security
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
 ---
 
 It’s Saturday night: Do you know what your mobile app is doing?

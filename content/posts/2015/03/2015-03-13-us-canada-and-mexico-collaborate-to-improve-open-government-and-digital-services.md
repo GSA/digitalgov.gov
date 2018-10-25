@@ -17,7 +17,7 @@ topics:
   - GSA
   - metadata
   - open-data
-  - open source
+  - open-source
   - US Digital Service
 ---
 

@@ -8,13 +8,13 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - content strategy
+  - content-strategy
   - customer service
   - infographic
   - Personas
   - Plain language
-  - social media
-  - The Content Corner
+  - social-media
+  - the-content-corner
   - US Department of Labor
 ---
 

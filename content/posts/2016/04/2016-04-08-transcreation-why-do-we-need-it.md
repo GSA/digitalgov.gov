@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - managing-digital
-  - Writing
-  - content strategy
+  - writing
+  - content-strategy
   - GobiernoUSAgov
   - multilingual
   - multilingual-community

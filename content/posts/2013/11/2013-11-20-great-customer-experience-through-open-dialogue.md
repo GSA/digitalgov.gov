@@ -10,7 +10,7 @@ topics:
   - social-media
   - ux
   - customer-experience
-  - social media
+  - social-media
   - user-experience
 ---
 

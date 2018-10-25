@@ -14,7 +14,7 @@ topics:
   - National Library of Medicine
   - NIH
   - NLM
-  - open source
+  - open-source
   - US Food and Drug Administration
   - united-states-department-of-health-and-human-services
 ---

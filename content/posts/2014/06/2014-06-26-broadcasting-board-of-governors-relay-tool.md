@@ -14,7 +14,7 @@ topics:
   - CMS
   - GitHub
   - multilingual
-  - open source
+  - open-source
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---

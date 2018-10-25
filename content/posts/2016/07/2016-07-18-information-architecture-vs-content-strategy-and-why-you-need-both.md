@@ -12,7 +12,7 @@ topics:
   - policy
   - content
   - content models
-  - content strategy
+  - content-strategy
   - COPE
   - Internet of things
   - open and structured content models

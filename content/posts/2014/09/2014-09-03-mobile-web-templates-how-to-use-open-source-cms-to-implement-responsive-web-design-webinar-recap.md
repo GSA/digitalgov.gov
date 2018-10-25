@@ -15,7 +15,7 @@ topics:
   - IMLS
   - mobile-ux-guideline-1
   - open and structured content models
-  - open source
+  - open-source
   - Recaps
   - responsive web design
   - sitesusagov

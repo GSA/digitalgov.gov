@@ -8,10 +8,10 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - content strategy
+  - content-strategy
   - infographic
-  - social media
-  - The Content Corner
+  - social-media
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/03/600-x-400-super-excited-dog-meme.jpg" alt="A Boxer (dog) appears to jump on a grassy area outdoors, with large black and white text added to the image that says: Super Excited About Memes" >}}

@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - ux
   - accessibility
-  - DHS
+  - dhs
   - DOL
   - HHS
   - section 508

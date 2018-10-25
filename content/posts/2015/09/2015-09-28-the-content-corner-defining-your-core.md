@@ -9,10 +9,10 @@ topics:
   - content
   - social-media
   - BLM
-  - content strategy
-  - social media
+  - content-strategy
+  - social-media
   - The Bureau of Land Management
-  - The Content Corner
+  - the-content-corner
 ---
 
 Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the [content pillar]({{< link "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) and various other aspects of developing a solid [content strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).

@@ -27,7 +27,7 @@ topics:
   - privacy
   - security
   - US General Services Administration
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - white-house
 ---
 

@@ -8,14 +8,14 @@ authors:
 topics:
   - content
   - content
-  - content strategy
+  - content-strategy
   - content syndication
   - marketing
   - metrics
   - multilingual
   - multimedia
-  - social media
-  - social media metrics
+  - social-media
+  - social-media metrics
   - usa.gov
   - USAgov
 ---

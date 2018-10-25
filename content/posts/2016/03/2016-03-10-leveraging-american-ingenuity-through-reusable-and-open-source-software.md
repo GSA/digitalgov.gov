@@ -16,7 +16,7 @@ topics:
   - data-gov
   - Education
   - HUD
-  - open source
+  - open-source
   - US Department of Education
   - United States Department of Housing and Urban Development
 ---

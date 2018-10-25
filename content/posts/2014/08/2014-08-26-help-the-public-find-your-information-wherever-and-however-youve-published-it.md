@@ -17,7 +17,7 @@ topics:
   - DigitalGov Search
   - Federal Register
   - open-data
-  - open source
+  - open-source
 ---
 
 {{< legacy-img src="2014/08/250-x-167-Think-Outside-The-Box-Concept-IvelinRadkov-iStock-Thinkstock-176221152.jpg" alt="Think Outside The Box Concept" caption="" >}}

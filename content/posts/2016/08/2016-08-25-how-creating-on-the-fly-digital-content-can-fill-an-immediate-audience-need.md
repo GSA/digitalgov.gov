@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - content
-  - content strategy
+  - content-strategy
   - National Center for Complementary and Integrative Health
   - National Institutes of Health
   - NCCIH

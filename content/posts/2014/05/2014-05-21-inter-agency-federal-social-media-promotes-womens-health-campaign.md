@@ -12,7 +12,7 @@ topics:
   - National Institutes of Health
   - NIH
   - Recaps
-  - social media
+  - social-media
   - US Food and Drug Administration
   - united-states-department-of-health-and-human-services
 ---

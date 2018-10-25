@@ -17,12 +17,12 @@ topics:
   - "508"
   - accessibility
   - content
-  - content strategy
-  - DHS
+  - content-strategy
+  - dhs
   - mobile
   - responsive web design
   - section 508
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - user-centered-design
   - user-experience
   - ux

@@ -13,7 +13,7 @@ topics:
   - centers-for-disease-control-and-prevention
   - content
   - content models
-  - content strategy
+  - content-strategy
   - content syndication
   - National Institutes of Health
   - NIH

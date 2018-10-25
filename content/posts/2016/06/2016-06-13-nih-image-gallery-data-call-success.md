@@ -10,10 +10,10 @@ topics:
   - Monthly Theme
   - social-media
   - content
-  - content strategy
+  - content-strategy
   - National Institutes of Health
   - NIH
-  - social media
+  - social-media
 ---
 
 In early April, the National Institutes of Health put out a call for images highlighting NIH-funded scientific research.  The image call was posted on the [NIH image gallery website](https://www.nih.gov/news-events/images) and advertised through the NIH Public Information Officers (PIO) Network. {{< legacy-img src="2016/06/600-x-550-NIH-Image-Gallery\_Host-infection-stimulates-antibiotic-resistance\_June-3rd-2016\_flickr\_CC-BY-2.0_.jpg" alt="Confocal image of an injectable tumor cell infused anti-cancer cryogel vaccine, uploaded June 3, 2016." caption="" >}} 

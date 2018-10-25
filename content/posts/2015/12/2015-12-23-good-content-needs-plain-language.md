@@ -7,12 +7,12 @@ authors:
   - cynthia-baur
 topics:
   - content
-  - Writing
+  - writing
   - 18f
   - cdc
   - centers-for-disease-control-and-prevention
   - Plain language
-  - Plain Writing Act of 2010
+  - plain-writing-act-of-2010
   - user-experience
 ---
 

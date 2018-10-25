@@ -12,12 +12,12 @@ topics:
   - ux
   - cdc
   - content
-  - content strategy
+  - content-strategy
   - content syndication
   - disease
   - multilingual
   - Recaps
-  - social media
+  - social-media
   - USAgov
   - user research
   - webinar

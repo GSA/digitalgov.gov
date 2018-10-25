@@ -5,11 +5,11 @@ title: '&#8216;Operation Predator’ App from ICE Developed to Help Rescue Child
 summary: 'It&#8217;s disturbing to think about, but essential for all of us to know about: The sexual abuse and exploitation of children. When it comes to rescuing those children and investigating, locating and arresting suspected child predators, &#8220;it&#8217;s a race against the clock,&#8221; says U.S. Immigration and Customs Enforcement&#8217;s (ICE) Acting Director John Sandweg. Luckily there&#8217;s'
 topics:
   - mobile
-  - DHS
+  - dhs
   - ICE
   - thursday-mobile-products
   - US Immigration and Customs Enforcement
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - usa-gov-federal-mobile-apps-directory
 ---
 

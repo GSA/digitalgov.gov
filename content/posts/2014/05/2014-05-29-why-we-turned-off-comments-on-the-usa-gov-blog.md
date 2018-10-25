@@ -9,7 +9,7 @@ topics:
   - content
   - social-media
   - Facebook
-  - social media
+  - social-media
   - Twitter
 ---
 

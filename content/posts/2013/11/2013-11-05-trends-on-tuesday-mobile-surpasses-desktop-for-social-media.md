@@ -10,7 +10,7 @@ topics:
   - Facebook
   - mobile
   - mobile-first
-  - social media
+  - social-media
   - Trends on Tuesday
   - Twitter
 ---

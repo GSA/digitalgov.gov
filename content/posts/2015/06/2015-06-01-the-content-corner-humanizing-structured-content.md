@@ -11,7 +11,7 @@ topics:
   - content models
   - open and structured content models
   - structured content
-  - The Content Corner
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/05/600-x-335-Human-Connection-gray-tonivaver-iStock-Thinkstock-466180691.jpg" alt="Network of human figures" caption="" >}} 

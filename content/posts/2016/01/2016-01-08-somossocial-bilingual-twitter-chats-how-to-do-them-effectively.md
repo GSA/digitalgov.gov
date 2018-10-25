@@ -10,7 +10,7 @@ topics:
   - multilingual
   - multilingual-community
   - Recaps
-  - social media
+  - social-media
   - Twitter
   - USAgov
 ---

@@ -9,7 +9,7 @@ topics:
   - social-media
   - DGU
   - Facebook
-  - social media
+  - social-media
   - Twitter
   - US Fish and Wildlife Service
 ---

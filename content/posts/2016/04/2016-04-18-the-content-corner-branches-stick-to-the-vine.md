@@ -12,9 +12,9 @@ topics:
   - First Responders Network
   - National Weather Service
   - NWS
-  - social media
+  - social-media
   - SocialGov
-  - The Content Corner
+  - the-content-corner
   - US Digital Service
   - United States Department of Energy
   - USDS

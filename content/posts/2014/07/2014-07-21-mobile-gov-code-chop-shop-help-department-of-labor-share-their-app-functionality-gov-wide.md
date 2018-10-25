@@ -13,7 +13,7 @@ topics:
   - mobile-apps
   - mobile-code-catalog
   - mobile-gov
-  - open source
+  - open-source
   - US Department of Labor
 ---
 

@@ -11,8 +11,8 @@ topics:
   - National Institute of Standards and Technology
   - NIST
   - security
-  - social media
-  - social media metrics
+  - social-media
+  - social-media metrics
   - Twitter
 ---
 

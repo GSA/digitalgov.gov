@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - Privacy Impact Assessment
-  - social media
+  - social-media
 ---
 
 <p dir="ltr">

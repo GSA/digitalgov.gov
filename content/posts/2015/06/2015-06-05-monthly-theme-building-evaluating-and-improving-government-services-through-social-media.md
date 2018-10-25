@@ -13,7 +13,7 @@ topics:
   - DigitalGov Search
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - social media
+  - social-media
   - SocialGov
   - transportation-security-administration
   - TSA

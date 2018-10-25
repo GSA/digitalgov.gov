@@ -15,7 +15,7 @@ topics:
   - Consumer Financial Protection Bureau
   - crowdsourcing
   - nasa
-  - open source
+  - open-source
   - OSTP
   - Recaps
   - white-house-office-of-science-and-technology-policy

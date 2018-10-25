@@ -13,7 +13,7 @@ topics:
   - managing-digital
   - metrics
   - AoI
-  - content strategy
+  - content-strategy
   - customer satisfaction
   - government contact centers
   - top tasks

@@ -8,10 +8,10 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - content strategy
+  - content-strategy
   - Personas
-  - social media
-  - The Content Corner
+  - social-media
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Speech-Bubble-Key-pressureUA-iStock-Thinkstock-ThinkstockPhotos-140790012.jpg" alt="Speech Bubble Key" caption="" >}} 

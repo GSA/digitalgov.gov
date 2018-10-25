@@ -11,8 +11,8 @@ topics:
   - analytics
   - Digital Analytics Program
   - Google Analytics
-  - social media
-  - social media metrics
+  - social-media
+  - social-media metrics
 ---
 
 {{< legacy-img src="2015/04/250-x-475-pie-chart-and-color-key-Screen-Shot-2015-04-06-at-2.jpg" alt="A pie chart and its color key show a very small slice or percentage of social referrals in yellow." >}}Part of my job as an analyst on the [Digital Analytics Program]({{< link "dap.md" >}}) (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I love that part of my job, but there’s one question I get asked far too much:

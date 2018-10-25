@@ -12,10 +12,10 @@ topics:
   - strategy
   - policy
   - content
-  - content strategy
+  - content-strategy
   - GobiernoUSAgov
   - kids.gov
-  - social media
+  - social-media
   - USAgov
 ---
 

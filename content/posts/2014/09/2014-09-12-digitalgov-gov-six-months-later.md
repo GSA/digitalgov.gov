@@ -14,9 +14,9 @@ topics:
   - strategy
   - policy
   - analytics
-  - content strategy
+  - content-strategy
   - GSA
-  - open source
+  - open-source
   - responsive web design
   - sitesusagov
   - user-experience

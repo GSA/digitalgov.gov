@@ -14,10 +14,10 @@ topics:
   - social-media
   - strategy
   - policy
-  - content strategy
+  - content-strategy
   - NARA
   - National Archives and Records Administration
-  - social media
+  - social-media
 ---
 
 In six years, you can get a lot done! If you are the International Space Station, you could have orbited the earth 35,040 times. If you are Apple, you could have released 10 new iPhones. If you are the National Archives, you have gone from zero social media accounts to over 100!

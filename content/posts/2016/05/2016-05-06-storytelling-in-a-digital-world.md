@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - video
-  - content strategy
+  - content-strategy
   - EPA
   - US Environmental Protection Agency
 ---

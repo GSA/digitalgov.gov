@@ -6,9 +6,9 @@ summary: The Plain Language Action and Information Network (PLAIN) is the offici
 authors:
   - wendy-wagner-smith
 topics:
-  - Writing
+  - writing
   - Plain language
-  - Plain Writing Act of 2010
+  - plain-writing-act-of-2010
 ---
 
 I don’t know about your agency. But most agencies are going forward with plans to implement millennial asset paradigm shifts. It&#8217;s time that we became uber-efficient with our interactive modular matrix approaches. We need a more blue-sky approach to homogenized modular options and functional reciprocal concepts. Our exploratory research points to systemized logistical time-phases. I say unequivocally that it&#8217;s time to revamp and reboot our logistical innovation.

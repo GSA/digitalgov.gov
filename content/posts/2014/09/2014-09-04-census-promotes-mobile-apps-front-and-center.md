@@ -11,7 +11,7 @@ topics:
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5
-  - social media
+  - social-media
   - thursday-mobile-products
   - United States Census Bureau
   - usa-gov-federal-mobile-apps-directory

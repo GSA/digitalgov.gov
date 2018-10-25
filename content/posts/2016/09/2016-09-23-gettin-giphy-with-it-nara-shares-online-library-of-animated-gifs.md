@@ -16,7 +16,7 @@ topics:
   - National Archives and Records Administration
   - Smithsonian Institution
   - Smithsonian Libraries
-  - social media
+  - social-media
   - Terms of Service
   - TOS
 ---

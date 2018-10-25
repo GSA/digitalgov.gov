@@ -7,10 +7,10 @@ authors:
   - katherine-spivey
 topics:
   - content
-  - Writing
+  - writing
   - DGU
   - Plain language
-  - social media
+  - social-media
 ---
 
 {{< legacy-img src="2014/04/250-x-167-plain-language-chris2766-iStock-Thinkstock-477440077.jpg" alt="Dictionary definition of the word language, highlighted in pink" caption="" >}} 

@@ -15,7 +15,7 @@ topics:
   - 18f
   - code
   - Draft Web Design Standards
-  - open source
+  - open-source
   - US Digital Service
   - user-experience
   - ux

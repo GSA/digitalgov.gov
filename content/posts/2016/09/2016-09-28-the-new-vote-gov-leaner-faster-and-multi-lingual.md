@@ -16,15 +16,15 @@ topics:
   - cloud
   - cloud-gov
   - content
-  - content strategy
+  - content-strategy
   - customer-experience
   - CX
   - Draft Web Design Standards
   - GSA
   - metrics
   - multilingual
-  - open source
-  - social media
+  - open-source
+  - social-media
   - usa.gov
   - USAgov
   - user-centered-design

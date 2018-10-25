@@ -7,7 +7,7 @@ authors:
   - ammie-farraj-feijoo
 topics:
   - content
-  - Writing
+  - writing
   - big data
   - search engine optimization
 ---

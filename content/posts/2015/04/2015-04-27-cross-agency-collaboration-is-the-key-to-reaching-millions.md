@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - CFPB
   - Consumer Financial Protection Bureau
-  - content strategy
+  - content-strategy
   - GobiernoUSAgov
   - multilingual
   - usa.gov

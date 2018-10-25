@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - content
-  - content strategy
+  - content-strategy
   - core
   - metrics
   - Office of Management and Budget

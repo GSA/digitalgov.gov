@@ -18,7 +18,7 @@ topics:
   - communities
   - innovation
   - multilingual
-  - social media
+  - social-media
   - US Digital Registry
   - virtual reality
   - Virtual-Augmented-Reality-Community

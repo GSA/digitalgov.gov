@@ -9,11 +9,11 @@ topics:
   - content
   - social-media
   - administrative-office-of-the-united-states-courts
-  - content strategy
+  - content-strategy
   - Facebook
   - linkedin
-  - social media
-  - The Content Corner
+  - social-media
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Woman-holding-digital-tablet-closeup-scyther5-iStock-Thinkstock-ThinkstockPhotos-455273179.jpg" alt="Woman holding digital tablet, closeup" caption="" >}} 

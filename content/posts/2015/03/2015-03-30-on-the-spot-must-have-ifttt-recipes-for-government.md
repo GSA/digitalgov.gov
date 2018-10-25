@@ -12,7 +12,7 @@ topics:
   - 18f
   - api
   - Digital Analytics Program
-  - social media
+  - social-media
   - SocialGov
 ---
 

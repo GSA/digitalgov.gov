@@ -9,7 +9,7 @@ topics:
   - Our Work
   - accessibility
   - security
-  - social media
+  - social-media
   - Terms of Service
   - user-experience
 ---

@@ -12,7 +12,7 @@ topics:
   - policy
   - content
   - content models
-  - content strategy
+  - content-strategy
   - open and structured content models
   - structured content
 ---

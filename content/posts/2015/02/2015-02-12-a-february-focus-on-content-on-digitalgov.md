@@ -9,9 +9,9 @@ topics:
   - content
   - Monthly Theme
   - administrative-office-of-the-united-states-courts
-  - content strategy
+  - content-strategy
   - Office of the U.S. Foreign Assistance Resources
-  - The Content Corner
+  - the-content-corner
   - US Department of Education
 ---
 

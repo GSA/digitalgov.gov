@@ -10,7 +10,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - blog
   - natural language generation
-  - The Content Corner
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Robot-charles-taylor-iStock-Thinkstock-149070348.jpg" alt="Robot on a light keyboard" caption="" >}} 

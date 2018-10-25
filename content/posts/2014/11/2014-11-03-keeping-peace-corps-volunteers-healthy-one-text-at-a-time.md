@@ -12,7 +12,7 @@ topics:
   - Digital Services Playbook
   - GitHub
   - mobile-ux-guideline-5
-  - open source
+  - open-source
   - Peace Corps
   - US Digital Service
   - USDS

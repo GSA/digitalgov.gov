@@ -12,9 +12,9 @@ topics:
   - instagram
   - NARA
   - National Archives and Records Administration
-  - social media
+  - social-media
   - The Bureau of Land Management
-  - The Content Corner
+  - the-content-corner
   - Twitter
   - UGC
   - white-house

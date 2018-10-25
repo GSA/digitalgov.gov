@@ -13,7 +13,7 @@ topics:
   - strategy
   - policy
   - content
-  - content strategy
+  - content-strategy
   - Federal Emergency Management Agency
   - Federal Mobile Products Registry
   - FEMA
@@ -22,8 +22,8 @@ topics:
   - National Guard
   - National Weather Service
   - NWS
-  - social media
-  - The Content Corner
+  - social-media
+  - the-content-corner
   - US Digital Registry
   - usa-gov-federal-mobile-apps-directory
 ---

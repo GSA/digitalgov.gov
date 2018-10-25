@@ -11,7 +11,7 @@ topics:
   - policy
   - acquisition
   - cloud
-  - content strategy
+  - content-strategy
   - Contingency Contracting Corps
   - FAI
   - FAR

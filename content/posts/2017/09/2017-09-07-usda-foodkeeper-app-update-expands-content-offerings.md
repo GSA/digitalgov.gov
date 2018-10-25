@@ -13,7 +13,7 @@ topics:
   - mobile
   - apps
   - content
-  - DHS
+  - dhs
   - FDA
   - mobile
   - mobile-apps

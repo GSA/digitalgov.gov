@@ -12,7 +12,7 @@ topics:
   - Department of Commerce
   - gamification
   - mobile
-  - social media
+  - social-media
 ---
 
 {{< legacy-img src="2012/11/250-x-250-Vector-contest-banners-in-flat-style-winners-venimo-iStock-Thinkstock-471796081.jpg" alt="Vector contest banners in flat style winners" caption="" >}} 

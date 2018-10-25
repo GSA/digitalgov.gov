@@ -10,9 +10,9 @@ topics:
   - crowdsourcing-and-citizen-science
   - challenge-gov
   - crowdsourcing
-  - DHS
+  - dhs
   - Recaps
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
 ---
 
 {{< legacy-img src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" >}}After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue.

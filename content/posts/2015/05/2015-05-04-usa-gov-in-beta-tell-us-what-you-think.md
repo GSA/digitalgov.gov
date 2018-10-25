@@ -15,7 +15,7 @@ topics:
   - GobiernoUSAgov
   - government contact centers
   - Personas
-  - social media
+  - social-media
   - usa.gov
 ---
 

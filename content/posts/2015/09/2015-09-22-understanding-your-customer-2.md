@@ -9,12 +9,12 @@ topics:
   - managing-digital
   - customer-experience
   - CX
-  - DHS
+  - dhs
   - HHS
   - HUD
   - US Department of Agriculture
   - united-states-department-of-health-and-human-services
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - United States Department of Housing and Urban Development
   - USDA
 ---

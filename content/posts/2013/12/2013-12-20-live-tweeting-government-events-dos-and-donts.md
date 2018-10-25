@@ -7,7 +7,7 @@ authors:
   - sara-harris-smith
 topics:
   - social-media
-  - social media
+  - social-media
   - Twitter
 ---
 

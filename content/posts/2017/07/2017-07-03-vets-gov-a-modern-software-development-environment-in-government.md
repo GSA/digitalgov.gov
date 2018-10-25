@@ -15,7 +15,7 @@ topics:
   - code
   - GitHub
   - infrastructure
-  - open source
+  - open-source
   - US Department of Veterans Affairs
   - US Digital Service
   - USDS

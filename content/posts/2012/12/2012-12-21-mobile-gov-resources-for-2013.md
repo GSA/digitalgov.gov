@@ -6,7 +6,7 @@ summary: 'With mobile use growing exponentially and federal agencies implementin
 topics:
   - mobile
   - api
-  - DHS
+  - dhs
   - DOL
   - GSA
   - HHS
@@ -21,7 +21,7 @@ topics:
   - TSA
   - US Department of Labor
   - united-states-department-of-health-and-human-services
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - USDA
 ---
 

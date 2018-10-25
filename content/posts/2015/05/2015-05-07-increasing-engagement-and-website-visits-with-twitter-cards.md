@@ -7,7 +7,7 @@ authors:
   - steve-lewis
 topics:
   - social-media
-  - social media
+  - social-media
   - Twitter
 ---
 

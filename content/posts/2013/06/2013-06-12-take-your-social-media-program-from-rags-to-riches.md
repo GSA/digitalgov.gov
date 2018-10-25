@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - social media
+  - social-media
   - SocialGov
   - USTDA
 ---

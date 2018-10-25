@@ -7,7 +7,7 @@ authors:
   - blogger-bob
 topics:
   - social-media
-  - social media
+  - social-media
 ---
 
 <p dir="ltr">

@@ -10,7 +10,7 @@ topics:
   - social-media
   - data-gov
   - open government
-  - open source
+  - open-source
   - Terms of Service
 ---
 

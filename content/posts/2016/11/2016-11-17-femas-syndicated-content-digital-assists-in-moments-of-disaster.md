@@ -11,7 +11,7 @@ topics:
   - managing-digital
   - mobile
   - content
-  - content strategy
+  - content-strategy
   - content syndication
   - Federal Emergency Management Agency
   - FEMA

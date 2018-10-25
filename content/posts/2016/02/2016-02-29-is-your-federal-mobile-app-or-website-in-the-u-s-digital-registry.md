@@ -14,7 +14,7 @@ topics:
   - mobile-apps
   - mobile-friendly
   - mobile-gov
-  - social media
+  - social-media
   - US Digital Registry
   - usa-gov-federal-mobile-apps-directory
 ---

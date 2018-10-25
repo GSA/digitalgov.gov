@@ -11,7 +11,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - search engine optimization
   - SEO
-  - The Content Corner
+  - the-content-corner
 ---
 
 Every week my main goal is to usually provide new ways to help you feed the content beast. However, today I am going to remind you of why feeding the beast is important, especially when it comes to your search engine rankings and helping users find your content.

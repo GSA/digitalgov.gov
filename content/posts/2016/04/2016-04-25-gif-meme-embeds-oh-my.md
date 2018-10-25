@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - FirstNet
-  - The Content Corner
+  - the-content-corner
 ---
 
 You probably have heard this before, or may even hear it all the time, “Content is King.” What that means is, that in today’s fast moving digital communications age, with social media as the driver—organizations (agencies) must have a content plan to stay relevant.

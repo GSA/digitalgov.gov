@@ -11,7 +11,7 @@ topics:
   - user-testing-and-research
   - ux
   - content
-  - content strategy
+  - content-strategy
   - mobile
   - mobile-apps
   - NASM

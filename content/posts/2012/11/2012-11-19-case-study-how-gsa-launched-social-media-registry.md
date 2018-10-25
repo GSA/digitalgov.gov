@@ -10,7 +10,7 @@ topics:
   - code
   - api
   - GSA
-  - social media
+  - social-media
 ---
 
 In September, the General Services Administration (GSA) launched a registry of all federally-managed social media accounts. We want to explain a little of the history behind the registry and talk about a few things that make it a truly remarkable innovation from GSA.

@@ -11,11 +11,11 @@ topics:
   - 18f
   - accessibility
   - CBP
-  - DHS
+  - dhs
   - mobile
   - responsive web design
   - US Customs and Border Protection
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - US Web Design Standards
   - user-experience
   - ux

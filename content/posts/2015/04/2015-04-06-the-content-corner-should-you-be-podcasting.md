@@ -8,10 +8,10 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - content strategy
+  - content-strategy
   - podcast
-  - social media
-  - The Content Corner
+  - social-media
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/04/525-x-400-Antenna-and-social-networks-jose-martinez-iStock-Thinkstock-ThinkstockPhotos-93477563.jpg" alt="Broadcast antenna with clusters of figures at its base." caption="" >}} 

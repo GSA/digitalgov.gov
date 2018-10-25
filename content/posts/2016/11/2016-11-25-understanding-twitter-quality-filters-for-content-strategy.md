@@ -9,8 +9,8 @@ topics:
   - content
   - social-media
   - content
-  - content strategy
-  - social media
+  - content-strategy
+  - social-media
 ---
 
 In a move to win back users and improve the company’s image, Twitter introduced quality filters in August. They followed this move in November with an option to mute certain words. These changes will have larger ramifications for federal agencies, who will need to focus on quality of content in order to retain their audience base and reach. {{< legacy-img src="2017/03/600-x-400-Doodle-twitter-seamless-pattern-background-hchjjl-iStock-Thinkstock-473354124-copy1.jpg" alt="A seamless pattern of the Twitter icon" caption="" >}} 

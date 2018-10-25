@@ -10,7 +10,7 @@ topics:
   - Our Work
   - customer satisfaction
   - mobile
-  - social media
+  - social-media
   - usability
 ---
 

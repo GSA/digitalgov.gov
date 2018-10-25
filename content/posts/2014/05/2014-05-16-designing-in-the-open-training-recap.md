@@ -12,7 +12,7 @@ topics:
   - Our Work
   - data-gov
   - GitHub
-  - open source
+  - open-source
   - Recaps
 ---
 

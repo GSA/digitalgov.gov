@@ -8,7 +8,7 @@ authors:
   - lmartinez
 topics:
   - content
-  - content strategy
+  - content-strategy
   - GobiernoUSAgov
   - multilingual
 ---

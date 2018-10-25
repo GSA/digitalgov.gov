@@ -18,7 +18,7 @@ topics:
   - data
   - mobile
   - open
-  - open source
+  - open-source
   - white-house
 ---
 

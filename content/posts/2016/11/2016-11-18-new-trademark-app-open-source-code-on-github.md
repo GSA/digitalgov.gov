@@ -21,7 +21,7 @@ topics:
   - mobile-apps
   - open
   - open-data
-  - open source
+  - open-source
   - United States Patent and Trademark Office
   - USPTO
 ---

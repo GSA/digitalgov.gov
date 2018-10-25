@@ -22,7 +22,7 @@ topics:
   - NIH
   - open and structured content models
   - structured content
-  - The Content Corner
+  - the-content-corner
   - US Food and Drug Administration
   - united-states-department-of-health-and-human-services
 ---

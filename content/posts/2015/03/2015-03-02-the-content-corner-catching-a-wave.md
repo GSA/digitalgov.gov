@@ -8,9 +8,9 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - content strategy
+  - content-strategy
   - nasa
-  - The Content Corner
+  - the-content-corner
   - Twitter
 ---
 

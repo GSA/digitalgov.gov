@@ -10,7 +10,7 @@ topics:
   - social-media
   - instagram
   - NPS
-  - social media
+  - social-media
   - Twitter
   - US National Park Service
 ---

@@ -19,7 +19,7 @@ topics:
   - Office of the Director of National Intelligence
   - Peace Corps
   - Recaps
-  - social media
+  - social-media
   - SocialGov
   - socialgov-community
   - usa.gov

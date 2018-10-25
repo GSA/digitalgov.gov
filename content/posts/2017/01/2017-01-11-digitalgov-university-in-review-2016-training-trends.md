@@ -54,7 +54,7 @@ topics:
   - open-data
   - Open Opportunities program
   - OPP
-  - social media
+  - social-media
   - socialgov-community
   - Technology Transformation Service
   - training

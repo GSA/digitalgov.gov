@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - 18f
   - GitHub
-  - open source
+  - open-source
 ---
 
 18F is [an open-source team](https://github.com/18F/open-source-policy/blob/master/policy.md). We currently have hundreds of [publicly available repositories](https://github.com/18f), with dozens under active development. We&#8217;ve had numerous contributions from colleagues within government, and contributions from members of the public. But in the next few weeks, we are going to run an experiment: we want to contract for contributions. And we want to do it the 18F way.

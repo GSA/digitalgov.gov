@@ -11,7 +11,7 @@ topics:
   - DGU
   - DigitalGov User Experience Program
   - Recaps
-  - social media
+  - social-media
   - SocialGov
 ---
 

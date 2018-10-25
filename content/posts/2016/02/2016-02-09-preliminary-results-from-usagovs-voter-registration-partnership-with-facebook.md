@@ -11,8 +11,8 @@ topics:
   - analytics
   - analytics-usa-gov
   - Facebook
-  - social media
-  - social media metrics
+  - social-media
+  - social-media metrics
   - USAgov
 ---
 

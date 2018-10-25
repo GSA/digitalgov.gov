@@ -11,11 +11,11 @@ topics:
   - strategy
   - policy
   - content
-  - content strategy
-  - DHS
-  - social media
+  - content-strategy
+  - dhs
+  - social-media
   - US Citizenship and Immigration Service
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - USCIS
 ---
 

@@ -9,7 +9,7 @@ topics:
   - content
   - design
   - mobile
-  - Writing
+  - writing
   - Consumer Action Handbook
   - DoD
   - DOL

@@ -11,7 +11,7 @@ topics:
   - mobile-ux-guideline-5
   - native-app
   - native-apps
-  - social media
+  - social-media
   - Trends on Tuesday
 ---
 

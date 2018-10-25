@@ -18,7 +18,7 @@ topics:
   - DigitalGov Summit
   - mobile
   - Recaps
-  - social media
+  - social-media
   - ux
 ---
 

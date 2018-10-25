@@ -10,11 +10,11 @@ topics:
   - Monthly Theme
   - ux
   - accessibility
-  - content strategy
+  - content-strategy
   - mobile
   - Plain language
   - section 508
-  - social media
+  - social-media
 ---
 
 {{< legacy-img src="2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." >}}

@@ -13,9 +13,9 @@ topics:
   - policy
   - aiDS-gov
   - content
-  - content strategy
+  - content-strategy
   - HHS
-  - social media
+  - social-media
   - united-states-department-of-health-and-human-services
 ---
 

@@ -9,7 +9,7 @@ topics:
   - code
   - 18f
   - GitHub
-  - open source
+  - open-source
 ---
 
 In the wide world of software, maybe you’ve heard someone say this, or maybe you’ve said it yourself: _&#8220;I’ll open source it after I clean up the code; it’s a mess right now.&#8221;_

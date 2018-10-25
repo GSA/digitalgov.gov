@@ -10,7 +10,7 @@ topics:
   - social-media
   - National Institute of Standards and Technology
   - NIST
-  - social media
+  - social-media
   - Terms of Service
 ---
 

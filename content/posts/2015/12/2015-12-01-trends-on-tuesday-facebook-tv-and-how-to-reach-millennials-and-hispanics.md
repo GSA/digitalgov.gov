@@ -12,7 +12,7 @@ topics:
   - mobile
   - mobile-first
   - mobile-friendly
-  - social media
+  - social-media
   - Trends on Tuesday
 ---
 

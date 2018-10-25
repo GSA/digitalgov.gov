@@ -9,8 +9,8 @@ topics:
   - user-testing-and-research
   - ux
   - a-b-testing
-  - content strategy
-  - social media
+  - content-strategy
+  - social-media
   - US Department of Veterans Affairs
   - user-centered-design
   - user-experience

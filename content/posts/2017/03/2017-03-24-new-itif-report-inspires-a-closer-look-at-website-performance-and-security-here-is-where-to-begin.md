@@ -22,7 +22,7 @@ topics:
   - analytics
   - communities
   - content
-  - content strategy
+  - content-strategy
   - DGU
   - digitalgov-university
   - HTTPS

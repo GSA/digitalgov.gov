@@ -9,13 +9,13 @@ topics:
   - content
   - social-media
   - analytics
-  - content strategy
+  - content-strategy
   - Library of Congress
   - LOC
   - metadata
   - multilingual
   - responsive web design
-  - social media
+  - social-media
   - Twitter
 ---
 
