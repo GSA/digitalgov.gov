@@ -15,7 +15,7 @@ topics:
   - social-media
   - ux
   - 18f
-  - CDC
+  - cdc
   - FSA
   - HHS
   - NCI

@@ -22,7 +22,7 @@ topics:
   - metadata
   - mobile-gov-community-of-practice
   - open and structured content models
-  - open data
+  - open-data
   - Recaps
   - responsive web design
   - US Department of State

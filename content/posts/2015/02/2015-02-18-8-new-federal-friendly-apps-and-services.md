@@ -11,7 +11,7 @@ topics:
   - Federal Reserve Board
   - FRB
   - GSA
-  - open data
+  - open-data
   - Terms of Service
   - US Department of State
   - United States Department of Energy

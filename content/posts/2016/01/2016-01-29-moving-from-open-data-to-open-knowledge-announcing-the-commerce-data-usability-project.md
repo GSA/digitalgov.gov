@@ -17,7 +17,7 @@ topics:
   - National Oceanic and Atmospheric Administration
   - NIST
   - NOAA
-  - open data
+  - open-data
   - OSTP
   - United States Census Bureau
   - white-house-office-of-science-and-technology-policy

@@ -6,8 +6,8 @@ summary: 'Ask, and you shall receive. That was the strategy behind the new homep
 topics:
   - design
   - mobile
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - HHS
   - mobile-gov
   - mobile-ux-guideline-1

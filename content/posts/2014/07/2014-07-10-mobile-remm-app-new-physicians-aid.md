@@ -7,8 +7,8 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - EPA
   - FDA
   - Federal Emergency Management Agency

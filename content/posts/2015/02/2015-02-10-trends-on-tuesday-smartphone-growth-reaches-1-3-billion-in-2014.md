@@ -11,7 +11,7 @@ topics:
   - policy
   - Federal CrowdSource Mobile Testing Program
   - Internet of things
-  - open data
+  - open-data
   - responsive web design
   - Trends on Tuesday
   - user-centered-design

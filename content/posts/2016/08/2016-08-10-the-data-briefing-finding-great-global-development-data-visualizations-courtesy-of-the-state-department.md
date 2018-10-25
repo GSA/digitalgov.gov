@@ -8,8 +8,8 @@ authors:
 topics:
   - Data
   - data
-  - data visualization
-  - open data
+  - data-visualization
+  - open-data
   - State
   - the-data-briefing
   - US Department of State

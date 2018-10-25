@@ -11,7 +11,7 @@ topics:
   - data
   - infrastructure
   - metrics
-  - open data
+  - open-data
   - the-data-briefing
 ---
 

@@ -9,7 +9,7 @@ topics:
   - Data
   - user-testing-and-research
   - data
-  - data visualization
+  - data-visualization
   - FAA
   - Federal Aviation Administration
   - nasa

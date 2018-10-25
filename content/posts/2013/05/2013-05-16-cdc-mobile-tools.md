@@ -7,7 +7,7 @@ authors:
   - kanika-tolver
 topics:
   - mobile
-  - CDC
+  - cdc
   - mobile-apps
   - thursday-mobile-products
 ---

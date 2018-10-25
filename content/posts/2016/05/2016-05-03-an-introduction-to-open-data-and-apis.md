@@ -13,7 +13,7 @@ topics:
   - analytics-usa-gov
   - api
   - data-gov
-  - open data
+  - open-data
   - Recaps
   - US Department of Agriculture
   - USDA

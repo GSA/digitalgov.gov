@@ -7,9 +7,9 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - CDC
+  - cdc
   - Census
-  - Centers for Disease Control and Prevention
+  - centers-for-disease-control-and-prevention
   - mobile-apps
   - Trends on Tuesday
   - United States Census Bureau

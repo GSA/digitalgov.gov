@@ -10,7 +10,7 @@ topics:
   - Data
   - data-gov
   - GitHub
-  - open data
+  - open-data
 ---
 
 [{{< legacy-img src="2014/05/featured-301-x-212-Data-Gov-logo-250x176.jpg" alt="featured 301 x 212 Data Gov logo" >}}](http://blog.howto.gov/?attachment_id=78661)Since the launch of [Next.Data.gov](http://next.data.gov/), your help and ideas have made it possible to make two updates to the site. We&#8217;re naming these biweekly releases after the presidents so the one that launched this week is the Adams Release.

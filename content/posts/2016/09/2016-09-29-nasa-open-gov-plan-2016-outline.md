@@ -25,7 +25,7 @@ topics:
   - mobile-apps
   - nasa
   - open
-  - open data
+  - open-data
   - open government
 ---
 

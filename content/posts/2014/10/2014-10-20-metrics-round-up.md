@@ -13,7 +13,7 @@ topics:
   - EPA
   - GAO
   - NPS
-  - open data
+  - open-data
   - social media metrics
   - US Environmental Protection Agency
   - US Government Accountability Office

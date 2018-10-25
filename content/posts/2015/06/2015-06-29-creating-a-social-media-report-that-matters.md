@@ -10,7 +10,7 @@ topics:
   - social-media
   - analytics
   - data
-  - data visualization
+  - data-visualization
   - infographic
   - National Institute of Justice
   - social media metrics

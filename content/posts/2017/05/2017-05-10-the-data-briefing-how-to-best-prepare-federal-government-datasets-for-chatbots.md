@@ -18,7 +18,7 @@ topics:
   - data
   - innovation
   - mobile-apps
-  - open data
+  - open-data
   - responsive web design
   - the-data-briefing
 ---

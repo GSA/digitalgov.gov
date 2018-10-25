@@ -15,7 +15,7 @@ topics:
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - native-app
-  - open data
+  - open-data
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---

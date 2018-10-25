@@ -9,9 +9,9 @@ authors:
 topics:
   - content
   - ANLE
-  - CDC
+  - cdc
   - Census
-  - Centers for Disease Control and Prevention
+  - centers-for-disease-control-and-prevention
   - DOJ
   - GobiernoUSAgov
   - HUD

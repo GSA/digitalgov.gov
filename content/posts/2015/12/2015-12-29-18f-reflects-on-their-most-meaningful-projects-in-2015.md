@@ -23,7 +23,7 @@ topics:
   - HTTPS
   - Office of Management and Budget
   - OMB
-  - open data
+  - open-data
   - OSTP
   - US Citizenship and Immigration Service
   - US Department of Education

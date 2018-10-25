@@ -12,7 +12,7 @@ topics:
   - data-gov
   - DOT
   - GitHub
-  - open data
+  - open-data
   - US Department of Agriculture
   - United States Department of Transportation
   - USDA

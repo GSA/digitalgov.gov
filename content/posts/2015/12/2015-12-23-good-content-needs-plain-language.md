@@ -9,8 +9,8 @@ topics:
   - content
   - Writing
   - 18f
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - Plain language
   - Plain Writing Act of 2010
   - user-experience

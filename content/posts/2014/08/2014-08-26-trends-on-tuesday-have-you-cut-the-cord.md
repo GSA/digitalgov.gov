@@ -7,8 +7,8 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - mobile
   - mobile-ux-guideline-5
   - mobile-first

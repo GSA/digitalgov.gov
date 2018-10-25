@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - managing-digital
-  - CDC
+  - cdc
   - DOJ
   - HHS
   - LEP

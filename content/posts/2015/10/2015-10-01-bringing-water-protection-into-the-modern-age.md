@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - data
   - EPA
-  - open data
+  - open-data
   - US Environmental Protection Agency
 ---
 

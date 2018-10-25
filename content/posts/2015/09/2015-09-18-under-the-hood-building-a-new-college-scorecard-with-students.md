@@ -12,7 +12,7 @@ topics:
   - agile
   - api
   - data
-  - open data
+  - open-data
   - prototype
   - US Department of Education
   - US Digital Service

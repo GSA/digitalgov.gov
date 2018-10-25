@@ -8,9 +8,9 @@ authors:
 topics:
   - Data
   - mobile
-  - CDC
+  - cdc
   - Census
-  - Centers for Disease Control and Prevention
+  - centers-for-disease-control-and-prevention
   - Federal Emergency Management Agency
   - FEMA
   - Internal Revenue Service

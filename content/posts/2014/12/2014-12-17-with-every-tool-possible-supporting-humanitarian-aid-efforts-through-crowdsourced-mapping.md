@@ -11,7 +11,7 @@ topics:
   - crowdsourcing
   - data
   - Humanitarian Information Unit
-  - open data
+  - open-data
   - Peace Corps
   - US Department of State
 ---

@@ -17,7 +17,7 @@ topics:
   - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - open data
+  - open-data
   - US Environmental Protection Agency
   - United States Census Bureau
 ---

@@ -13,7 +13,7 @@ topics:
   - data
   - json
   - National Day of Civic Hacking
-  - open data
+  - open-data
   - United States Census Bureau
 ---
 

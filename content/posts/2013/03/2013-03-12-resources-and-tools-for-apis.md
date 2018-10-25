@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - api
-  - CDC
+  - cdc
   - Census
   - DOL
   - DOT

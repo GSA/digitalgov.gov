@@ -10,8 +10,8 @@ topics:
   - mobile
   - Monthly Theme
   - api
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - content syndication
   - COPE
   - FDA

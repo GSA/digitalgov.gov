@@ -29,7 +29,7 @@ topics:
   - innovation
   - Internet of things
   - IoT
-  - open data
+  - open-data
   - privacy
   - research
   - security

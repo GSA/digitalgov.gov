@@ -9,7 +9,7 @@ topics:
   - code
   - Data
   - data-gov
-  - open data
+  - open-data
   - open government
 ---
 

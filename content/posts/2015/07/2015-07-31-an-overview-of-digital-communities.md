@@ -15,7 +15,7 @@ topics:
   - communities
   - drupal
   - mobile
-  - open data
+  - open-data
   - Open Opportunities program
   - Plain language
 ---

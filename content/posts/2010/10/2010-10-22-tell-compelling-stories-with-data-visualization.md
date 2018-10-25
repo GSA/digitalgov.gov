@@ -10,7 +10,7 @@ topics:
   - metrics
   - analytics
   - data
-  - data visualization
+  - data-visualization
 ---
 
 No information is more critical to your work than the numbers that reveal what’s happening, how you’re performing, and opportunities to do better.

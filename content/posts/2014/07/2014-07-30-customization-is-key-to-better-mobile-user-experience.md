@@ -8,8 +8,8 @@ authors:
 topics:
   - mobile
   - ux
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - federal user experience community
   - GPS
   - HHS

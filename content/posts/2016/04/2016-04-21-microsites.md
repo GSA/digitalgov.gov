@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - api
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - DOT
   - GobiernoUSAgov
   - United States Department of Transportation

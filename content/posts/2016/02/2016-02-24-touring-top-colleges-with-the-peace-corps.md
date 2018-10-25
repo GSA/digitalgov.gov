@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - Data
-  - data visualization
+  - data-visualization
   - Peace Corps
 ---
 

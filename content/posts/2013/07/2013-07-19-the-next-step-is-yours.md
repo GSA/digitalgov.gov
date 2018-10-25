@@ -10,7 +10,7 @@ topics:
   - Data
   - data-gov
   - GitHub
-  - open data
+  - open-data
   - open source
 ---
 

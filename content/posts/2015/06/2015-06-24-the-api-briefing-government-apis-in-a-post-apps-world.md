@@ -10,7 +10,7 @@ topics:
   - api
   - data
   - mobile-apps
-  - open data
+  - open-data
   - wednesday-api-briefing
 ---
 

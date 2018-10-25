@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - managing-digital
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - content
   - content strategy
   - content syndication

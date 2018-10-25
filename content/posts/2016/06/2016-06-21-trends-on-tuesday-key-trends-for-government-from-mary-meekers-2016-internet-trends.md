@@ -11,7 +11,7 @@ topics:
   - data
   - Internet of things
   - mobile
-  - open data
+  - open-data
   - privacy
   - security
   - Trends on Tuesday

@@ -22,13 +22,13 @@ topics:
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
   - data
-  - data visualization
+  - data-visualization
   - EPA
   - GSA
   - innovation
   - mobile-apps
   - National Day of Civic Hacking
-  - open data
+  - open-data
   - open government
   - OSTP
   - SBA

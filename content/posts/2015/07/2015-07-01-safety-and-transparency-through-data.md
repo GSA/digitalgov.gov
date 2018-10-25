@@ -11,7 +11,7 @@ topics:
   - api
   - data
   - 'Occupational Safety and Health Administration'
-  - open data
+  - open-data
   - OSHA
   - US Department of Labor
 ---

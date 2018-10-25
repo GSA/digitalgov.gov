@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - FOIA
-  - open data
+  - open-data
 ---
 
 {{< legacy-img src="2014/12/600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226.jpg" alt="600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226" >}}

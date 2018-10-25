@@ -16,7 +16,7 @@ topics:
   - FOIA
   - GSA
   - metadata
-  - open data
+  - open-data
   - open source
   - US Digital Service
 ---

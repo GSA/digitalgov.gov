@@ -11,7 +11,7 @@ topics:
   - api
   - Census
   - data
-  - open data
+  - open-data
   - the-data-briefing
   - United States Census Bureau
 ---

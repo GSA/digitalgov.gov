@@ -8,9 +8,9 @@ authors:
 topics:
   - Data
   - data
-  - data visualization
+  - data-visualization
   - data-gov
-  - open data
+  - open-data
   - the-data-briefing
 ---
 

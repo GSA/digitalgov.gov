@@ -8,9 +8,9 @@ authors:
 topics:
   - mobile
   - api
-  - CDC
+  - cdc
   - Census
-  - Centers for Disease Control and Prevention
+  - centers-for-disease-control-and-prevention
   - thursday-mobile-products
   - US Department of Agriculture
   - United States Census Bureau

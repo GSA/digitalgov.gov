@@ -14,7 +14,7 @@ topics:
   - Department of Commerce
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - open data
+  - open-data
   - United States Census Bureau
   - wednesday-api-briefing
 ---

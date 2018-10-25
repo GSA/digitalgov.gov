@@ -10,7 +10,7 @@ topics:
   - Data
   - big data
   - data
-  - open data
+  - open-data
   - OSTP
   - white-house-office-of-science-and-technology-policy
 ---

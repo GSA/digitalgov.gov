@@ -15,7 +15,7 @@ topics:
   - nasa
   - National Aeronautics and Space Administration
   - open
-  - open data
+  - open-data
   - open government
   - open source
 ---

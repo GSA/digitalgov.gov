@@ -17,7 +17,7 @@ topics:
   - Office of Management and Budget
   - OMB
   - open
-  - open data
+  - open-data
   - US Department of Veterans Affairs
   - VA
   - white-house

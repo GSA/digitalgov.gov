@@ -15,7 +15,7 @@ topics:
   - Internet of things
   - IoT
   - mobile
-  - open data
+  - open-data
   - the-data-briefing
   - US Department of Veterans Affairs
   - VA

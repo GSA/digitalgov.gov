@@ -13,9 +13,9 @@ topics:
   - Census
   - Commerce
   - data
-  - data visualization
+  - data-visualization
   - Department of Commerce
-  - open data
+  - open-data
   - the-data-briefing
   - US Bureau of Labor Statistics
   - United States Census Bureau

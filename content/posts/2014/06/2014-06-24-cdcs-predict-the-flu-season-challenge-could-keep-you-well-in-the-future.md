@@ -8,8 +8,8 @@ authors:
 topics:
   - challenges
   - Monthly Theme
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - challenge-gov
   - HHS
   - united-states-department-of-health-and-human-services

@@ -10,7 +10,7 @@ topics:
   - Data
   - BLS
   - data
-  - data visualization
+  - data-visualization
   - infographic
   - US Bureau of Labor Statistics
 ---

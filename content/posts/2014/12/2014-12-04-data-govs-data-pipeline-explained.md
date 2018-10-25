@@ -9,7 +9,7 @@ topics:
   - Data
   - data-gov
   - metadata
-  - open data
+  - open-data
   - Recaps
 ---
 

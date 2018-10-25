@@ -15,7 +15,7 @@ topics:
   - National Action Plan on Open Government
   - Office of Management and Budget
   - OMB
-  - open data
+  - open-data
   - open source
   - the-data-briefing
   - US Department of Veterans Affairs

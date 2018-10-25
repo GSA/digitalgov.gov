@@ -15,7 +15,7 @@ topics:
   - mobile-apps
   - native-app
   - native-apps
-  - open data
+  - open-data
   - responsive web design
   - the-data-briefing
   - United States Patent and Trademark Office

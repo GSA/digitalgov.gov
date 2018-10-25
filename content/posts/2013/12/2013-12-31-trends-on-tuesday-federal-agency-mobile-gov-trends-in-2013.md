@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - mobile
-  - CDC
+  - cdc
   - Census
   - content models
   - Department of Commerce

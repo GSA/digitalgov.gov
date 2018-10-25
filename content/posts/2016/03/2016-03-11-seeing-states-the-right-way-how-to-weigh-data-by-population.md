@@ -13,7 +13,7 @@ topics:
   - CFPB
   - Consumer Financial Protection Bureau
   - data
-  - data visualization
+  - data-visualization
   - Google Analytics
 ---
 

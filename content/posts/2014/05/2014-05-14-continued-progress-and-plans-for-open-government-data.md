@@ -9,7 +9,7 @@ authors:
 topics:
   - Data
   - data
-  - open data
+  - open-data
   - white-house
 ---
 

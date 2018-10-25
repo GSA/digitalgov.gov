@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - design
-  - data visualization
+  - data-visualization
   - GAO
   - US Government Accountability Office
 ---

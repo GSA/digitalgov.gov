@@ -11,7 +11,7 @@ topics:
   - Data
   - NARA
   - National Archives and Records Administration
-  - open data
+  - open-data
 ---
 
 {{< legacy-img src="2014/09/600-x-355-Open-Government-WikiHack-2-promo.jpg" alt="Open Government #WikiHack 2014 promo" >}}

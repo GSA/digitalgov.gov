@@ -8,8 +8,8 @@ authors:
 topics:
   - mobile
   - Monthly Theme
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - Defense Finance and Accounting Services
   - DFAS
   - DOE

@@ -9,7 +9,7 @@ topics:
   - design
   - user-testing-and-research
   - ux
-  - open data
+  - open-data
   - top tasks
   - US Agency for International Development
   - usability

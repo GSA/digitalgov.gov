@@ -11,11 +11,11 @@ topics:
   - Monthly Theme
   - Bureau of Justice Statistics
   - challenges and prize competitions
-  - data visualization
+  - data-visualization
   - DOJ
   - National Institute of Justice
   - NIJ
-  - open data
+  - open-data
   - US Department of Justice
 ---
 

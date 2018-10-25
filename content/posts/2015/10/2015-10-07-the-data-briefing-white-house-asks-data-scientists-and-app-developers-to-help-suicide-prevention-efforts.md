@@ -7,13 +7,13 @@ authors:
   - bbrantley
 topics:
   - Data
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - data
   - mobile-apps
   - native-app
   - native-apps
-  - open data
+  - open-data
   - SAMHSA
   - the-data-briefing
   - US Department of Veterans Affairs

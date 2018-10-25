@@ -16,7 +16,7 @@ topics:
   - social-media
   - administrative-office-of-the-united-states-courts
   - AoI
-  - CDC
+  - cdc
   - Census
   - CFPB
   - Consumer Financial Protection Bureau

@@ -20,7 +20,7 @@ topics:
   - mobile
   - mobile-apps
   - open
-  - open data
+  - open-data
   - open source
   - United States Patent and Trademark Office
   - USPTO

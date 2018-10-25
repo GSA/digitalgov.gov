@@ -6,13 +6,13 @@ summary: 'CDC’s surveillance systems track HIV, AIDS, viral hepatitis, STDs, a
 authors:
   - aids-gov
 topics:
-  - Data
-  - aiDS-gov
-  - CDC
-  - Centers for Disease Control and Prevention
   - data
-  - data visualization
-  - open data
+  - aids-gov
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - data
+  - data-visualization
+  - open-data
 ---
 
 CDC’s surveillance systems track HIV, AIDS, viral hepatitis, STDs, and TB. Getting this information to those who need it most in an accessible, usable, and meaningful format is a primary goal for CDC. The launch of Atlas in 2012 made this a reality with an online resource that gave users tools to create customized tables, maps, and other graphics with the most current CDC surveillance data.

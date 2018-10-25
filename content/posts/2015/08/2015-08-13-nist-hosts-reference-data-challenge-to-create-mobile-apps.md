@@ -16,7 +16,7 @@ topics:
   - National Institute of Standards and Technology
   - native-apps
   - NIST
-  - open data
+  - open-data
   - thursday-mobile-products
   - US Environmental Protection Agency
   - United States Census Bureau

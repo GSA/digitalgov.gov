@@ -12,7 +12,7 @@ topics:
   - BLS
   - content strategy
   - data
-  - data visualization
+  - data-visualization
   - DOL
   - US Bureau of Labor Statistics
   - US Department of Labor

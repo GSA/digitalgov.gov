@@ -8,7 +8,7 @@ topics:
   - Census
   - Department of Commerce
   - mobile-apps
-  - open data
+  - open-data
   - thursday-mobile-products
   - United States Census Bureau
   - usa-gov-federal-mobile-apps-directory

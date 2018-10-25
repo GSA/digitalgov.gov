@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - data
-  - open data
+  - open-data
   - the-data-briefing
 ---
 

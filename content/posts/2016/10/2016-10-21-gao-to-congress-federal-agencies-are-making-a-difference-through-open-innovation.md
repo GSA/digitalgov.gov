@@ -22,7 +22,7 @@ topics:
   - GAO
   - innovation
   - nasa
-  - open data
+  - open-data
   - US Environmental Protection Agency
   - US Government Accountability Office
   - United States Department of Transportation

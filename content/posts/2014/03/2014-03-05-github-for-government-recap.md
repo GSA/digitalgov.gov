@@ -10,7 +10,7 @@ topics:
   - Data
   - CFPB
   - GitHub
-  - open data
+  - open-data
   - Recaps
 ---
 

@@ -10,7 +10,7 @@ topics:
   - Data
   - data
   - FOIA
-  - open data
+  - open-data
   - privacy
   - the-data-briefing
 ---

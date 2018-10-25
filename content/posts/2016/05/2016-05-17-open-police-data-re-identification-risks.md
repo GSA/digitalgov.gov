@@ -11,7 +11,7 @@ topics:
   - Federal Trade Commission
   - FTC
   - 'National Telecommunications and Information Administration'
-  - open data
+  - open-data
   - security
   - white-house
 ---

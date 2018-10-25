@@ -12,7 +12,7 @@ topics:
   - Department of Commerce
   - National Institute of Standards and Technology
   - NIST
-  - open data
+  - open-data
   - open source
   - United States Department of Energy
 ---

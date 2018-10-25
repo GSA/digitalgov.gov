@@ -11,7 +11,7 @@ topics:
   - data
   - DOE
   - innovation
-  - open data
+  - open-data
   - United States Department of Energy
 ---
 

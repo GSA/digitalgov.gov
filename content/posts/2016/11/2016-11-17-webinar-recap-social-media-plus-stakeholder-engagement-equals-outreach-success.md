@@ -10,7 +10,7 @@ topics:
   - social-media
   - user-testing-and-research
   - ux
-  - CDC
+  - cdc
   - content
   - content strategy
   - content syndication

@@ -8,8 +8,8 @@ authors:
 topics:
   - accessibility
   - accessibility
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - Centers for Medicare and Medicaid Services
   - DHS
   - DOT

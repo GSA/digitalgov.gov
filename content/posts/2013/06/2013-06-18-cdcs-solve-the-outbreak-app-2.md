@@ -8,7 +8,7 @@ topics:
   - design
   - mobile
   - ux
-  - CDC
+  - cdc
   - gamification
   - mobile-apps
   - mobile-gov-experience

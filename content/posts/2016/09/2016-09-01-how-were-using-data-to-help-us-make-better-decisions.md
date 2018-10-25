@@ -14,7 +14,7 @@ topics:
   - GSA
   - Office of Governmentwide Policy
   - OGP
-  - open data
+  - open-data
   - PBS
   - Public Buildings Service
   - US General Services Administration

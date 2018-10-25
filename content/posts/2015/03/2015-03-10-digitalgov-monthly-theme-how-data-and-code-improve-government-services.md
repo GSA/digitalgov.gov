@@ -18,7 +18,7 @@ topics:
   - metadata
   - National Cancer Institute
   - NCI
-  - open data
+  - open-data
   - SEC
   - US Securities and Exchange Commission
   - united-states-department-of-health-and-human-services

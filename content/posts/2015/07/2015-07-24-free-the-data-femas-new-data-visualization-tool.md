@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - american-red-cross
-  - data visualization
+  - data-visualization
   - FEMA
   - mobile-apps
 ---

@@ -11,7 +11,7 @@ topics:
   - agile
   - api
   - data
-  - data visualization
+  - data-visualization
   - OPM
   - responsive web design
   - the-data-briefing

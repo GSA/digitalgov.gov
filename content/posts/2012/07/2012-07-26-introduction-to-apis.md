@@ -10,7 +10,7 @@ topics:
   - code
   - mobile
   - api
-  - CDC
+  - cdc
   - mobile-gov
   - nasa
   - Recaps

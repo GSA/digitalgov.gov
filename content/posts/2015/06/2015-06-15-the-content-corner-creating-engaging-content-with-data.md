@@ -13,7 +13,7 @@ topics:
   - Census
   - content strategy
   - data
-  - open data
+  - open-data
   - The Content Corner
   - US Bureau of Labor Statistics
   - United States Census Bureau

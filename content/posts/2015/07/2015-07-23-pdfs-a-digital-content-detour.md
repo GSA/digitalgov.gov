@@ -7,8 +7,8 @@ authors:
   - mark-urban
 topics:
   - accessibility
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
 ---
 
 {{< legacy-img src="2015/07/466-x-400-Uploading-documents-from-laptop-Model-la-iStock-Thinkstock-177522468.jpg" alt="Uploading documents from laptop" caption="" >}} 

@@ -13,8 +13,8 @@ topics:
   - mobile
   - social-media
   - ux
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - HHS
   - NARA
   - nasa

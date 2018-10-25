@@ -13,7 +13,7 @@ topics:
   - IHS
   - Indian Health Service
   - innovation
-  - open data
+  - open-data
   - the-data-briefing
   - united-states-department-of-health-and-human-services
   - United States Patent and Trademark Office

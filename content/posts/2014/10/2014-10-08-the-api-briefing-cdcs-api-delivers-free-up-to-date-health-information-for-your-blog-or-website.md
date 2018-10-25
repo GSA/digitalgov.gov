@@ -9,8 +9,8 @@ topics:
   - api
   - code
   - api
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - content syndication
   - OPM
   - United States Office of Personnel Management

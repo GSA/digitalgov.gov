@@ -51,7 +51,7 @@ topics:
   - OCSIT
   - Office of Citizen Services and Innovative Technology
   - 'Office of Products and Programs'
-  - open data
+  - open-data
   - Open Opportunities program
   - OPP
   - social media

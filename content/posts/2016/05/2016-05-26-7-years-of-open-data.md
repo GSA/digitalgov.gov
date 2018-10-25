@@ -9,7 +9,7 @@ topics:
   - Data
   - data-gov
   - DOL
-  - open data
+  - open-data
   - US Department of Agriculture
   - US Department of Labor
   - USDA

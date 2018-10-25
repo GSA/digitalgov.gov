@@ -7,8 +7,8 @@ authors:
   - zohaa-ahmad
 topics:
   - crowdsourcing-and-citizen-science
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - communities

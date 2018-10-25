@@ -13,7 +13,7 @@ topics:
   - Department of Commerce
   - Library of Congress
   - LOC
-  - open data
+  - open-data
   - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO

@@ -9,10 +9,10 @@ topics:
   - code
   - Data
   - api
-  - data visualization
+  - data-visualization
   - data-gov
   - mobile-apps
-  - open data
+  - open-data
   - the-data-briefing
   - US Department of Veterans Affairs
   - United States Patent and Trademark Office

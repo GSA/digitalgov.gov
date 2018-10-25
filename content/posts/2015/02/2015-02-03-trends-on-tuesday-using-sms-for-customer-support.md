@@ -7,8 +7,8 @@ authors:
   - kdaniel
 topics:
   - mobile
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - government contact centers
   - mobile-ux-guideline-3
   - native-app

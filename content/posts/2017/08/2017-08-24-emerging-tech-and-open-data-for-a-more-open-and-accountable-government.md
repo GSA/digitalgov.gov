@@ -14,7 +14,7 @@ topics:
   - artificial-intelligence-for-citizen-services-community
   - innovation
   - open
-  - open data
+  - open-data
   - open government
 ---
 

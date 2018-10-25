@@ -9,7 +9,7 @@ topics:
   - Data
   - Census
   - data
-  - data visualization
+  - data-visualization
   - Department of Commerce
   - National Oceanic and Atmospheric Administration
   - NOAA

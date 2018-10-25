@@ -10,7 +10,7 @@ topics:
   - social-media
   - api
   - data
-  - data visualization
+  - data-visualization
   - social media
   - Twitter
   - United States Geological Survey

@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - Monthly Theme
-  - Centers for Disease Control and Prevention
+  - centers-for-disease-control-and-prevention
   - customer-experience
   - customer satisfaction
   - Export-Import Bank of the United States

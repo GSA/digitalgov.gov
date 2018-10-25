@@ -10,7 +10,7 @@ topics:
   - social-media
   - data-gov
   - DOL
-  - open data
+  - open-data
   - Recaps
   - socialgov-community
   - US Department of Labor

@@ -7,8 +7,8 @@ authors:
   - christen-geiler
 topics:
   - content
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - National Institutes of Health
   - NIH
 ---

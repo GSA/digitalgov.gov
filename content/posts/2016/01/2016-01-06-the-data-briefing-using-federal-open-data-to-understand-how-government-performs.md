@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - api
-  - open data
+  - open-data
   - the-data-briefing
 ---
 

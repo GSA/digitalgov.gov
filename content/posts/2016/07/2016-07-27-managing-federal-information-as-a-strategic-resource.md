@@ -15,7 +15,7 @@ topics:
   - acquisition
   - Office of Management and Budget
   - OMB
-  - open data
+  - open-data
   - policy
   - privacy
   - security

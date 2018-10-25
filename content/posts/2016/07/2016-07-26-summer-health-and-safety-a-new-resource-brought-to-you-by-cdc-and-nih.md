@@ -9,8 +9,8 @@ topics:
   - content
   - managing-digital
   - ux
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - content
   - content models
   - content strategy

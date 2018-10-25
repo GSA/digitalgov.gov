@@ -7,7 +7,7 @@ authors:
   - nirmala-ramprasad
 topics:
   - mobile
-  - CDC
+  - cdc
   - ios
   - mobile-apps
   - thursday-mobile-products

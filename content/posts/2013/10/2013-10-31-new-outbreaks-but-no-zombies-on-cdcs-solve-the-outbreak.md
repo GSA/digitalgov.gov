@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - CDC
+  - cdc
   - mobile-apps
   - thursday-mobile-products
 ---

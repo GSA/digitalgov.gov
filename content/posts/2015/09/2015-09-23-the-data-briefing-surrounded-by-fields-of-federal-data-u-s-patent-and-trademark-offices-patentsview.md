@@ -9,8 +9,8 @@ topics:
   - Data
   - api
   - data
-  - data visualization
-  - open data
+  - data-visualization
+  - open-data
   - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO

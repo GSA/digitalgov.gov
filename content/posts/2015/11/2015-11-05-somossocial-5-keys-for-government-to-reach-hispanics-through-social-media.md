@@ -10,8 +10,8 @@ authors:
   - victoria-wales
 topics:
   - social-media
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - Facebook
   - Federal Emergency Management Agency
   - FEMA

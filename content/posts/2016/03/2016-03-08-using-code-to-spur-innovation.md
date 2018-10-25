@@ -17,7 +17,7 @@ topics:
   - HHS
   - MCC
   - nasa
-  - open data
+  - open-data
   - US Department of Education
   - US Department of Labor
   - united-states-department-of-health-and-human-services

@@ -13,7 +13,7 @@ topics:
   - data
   - mobile-apps
   - mobile-gov
-  - open data
+  - open-data
   - social media
   - SocialGov
 ---

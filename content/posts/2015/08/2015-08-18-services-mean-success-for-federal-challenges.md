@@ -11,7 +11,7 @@ topics:
   - Census
   - challenge-gov
   - challenges and prize competitions
-  - open data
+  - open-data
   - United States Census Bureau
 ---
 

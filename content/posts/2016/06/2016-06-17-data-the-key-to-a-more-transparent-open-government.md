@@ -8,7 +8,7 @@ authors:
 topics:
   - Data
   - GSA
-  - open data
+  - open-data
   - open government
   - US General Services Administration
 ---

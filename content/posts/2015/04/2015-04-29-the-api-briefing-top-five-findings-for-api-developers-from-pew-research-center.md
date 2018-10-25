@@ -13,7 +13,7 @@ topics:
   - mobile-apps
   - National Weather Service
   - NWS
-  - open data
+  - open-data
   - wednesday-api-briefing
 ---
 

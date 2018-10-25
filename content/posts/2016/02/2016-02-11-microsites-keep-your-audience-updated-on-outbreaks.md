@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - Monthly Theme
-  - CDC
-  - Centers for Disease Control and Prevention
+  - cdc
+  - centers-for-disease-control-and-prevention
   - content syndication
 ---
 

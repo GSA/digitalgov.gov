@@ -10,7 +10,7 @@ topics:
   - Data
   - data
   - National Day of Civic Hacking
-  - open data
+  - open-data
 ---
 
 > _The National Day of Civic Hacking was born when some of the nation’s leaders in civic engagement decided to rally around a common goal on one weekend._

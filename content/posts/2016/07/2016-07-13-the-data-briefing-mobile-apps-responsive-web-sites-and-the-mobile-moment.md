@@ -20,7 +20,7 @@ topics:
   - native-app
   - native-apps
   - NOAA
-  - open data
+  - open-data
   - responsive web design
   - the-data-briefing
 ---

@@ -9,10 +9,10 @@ topics:
   - Data
   - api
   - data
-  - data visualization
+  - data-visualization
   - DOL
   - HHS
-  - open data
+  - open-data
   - the-data-briefing
   - US Department of Labor
   - united-states-department-of-health-and-human-services
