@@ -36,7 +36,7 @@ topics:
   - US Department of Labor
   - US Environmental Protection Agency
   - United States Census Bureau
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Department of Housing and Urban Development
   - United States Department of Transportation
   - USPTO

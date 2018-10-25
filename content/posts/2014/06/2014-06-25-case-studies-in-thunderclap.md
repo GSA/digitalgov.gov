@@ -14,7 +14,7 @@ topics:
   - socialgov-community
   - US Environmental Protection Agency
   - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 Now that Thunderclap has been [approved for government use]({{< link "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}} "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.

@@ -18,7 +18,7 @@ topics:
   - metrics
   - usa.gov
   - usability-testing
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

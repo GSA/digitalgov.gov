@@ -45,7 +45,7 @@ topics:
   - US Small Business Administration
   - United States Department of Defense
   - United States Department of Energy
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Department of Homeland Security
   - United States Department of Housing and Urban Development
   - United States Department of Transportation

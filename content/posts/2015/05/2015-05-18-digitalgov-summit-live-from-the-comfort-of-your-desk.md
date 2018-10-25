@@ -18,7 +18,7 @@ topics:
   - open and structured content models
   - US Citizenship and Immigration Service
   - US Department of Agriculture
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - USCIS
   - USDA
   - white-house

@@ -14,7 +14,7 @@ topics:
   - US Department of Veterans Affairs
   - usability case study
   - usability-testing
-  - user centered design
+  - user-centered-design
   - user-experience
   - user-experience-community-of-practice
   - ux

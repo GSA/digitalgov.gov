@@ -27,11 +27,11 @@ topics:
   - nasa
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - prizes and competitions
+  - prizes-and-competitions
   - US Department of Agriculture
   - US Environmental Protection Agency
   - United States Department of Energy
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Geological Survey
   - USDA
   - USGS

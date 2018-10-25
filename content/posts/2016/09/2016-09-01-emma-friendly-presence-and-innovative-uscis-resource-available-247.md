@@ -17,7 +17,7 @@ topics:
   - multilingual
   - US Citizenship and Immigration Service
   - USCIS
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

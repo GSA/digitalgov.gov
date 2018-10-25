@@ -25,7 +25,7 @@ topics:
   - OMB
   - SBA
   - US Small Business Administration
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Geological Survey
   - USGS
 ---

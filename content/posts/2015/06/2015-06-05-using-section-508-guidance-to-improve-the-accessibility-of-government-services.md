@@ -27,7 +27,7 @@ topics:
   - US Department of Veterans Affairs
   - US Food and Drug Administration
   - US National Park Service
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Department of Homeland Security
   - United States Department of Transportation
   - VA

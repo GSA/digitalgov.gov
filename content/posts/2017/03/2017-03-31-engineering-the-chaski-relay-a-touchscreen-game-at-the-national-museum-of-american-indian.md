@@ -15,7 +15,7 @@ topics:
   - NMAI
   - Smithsonian Institution
   - Smithsonian National Museum of the American Indian
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

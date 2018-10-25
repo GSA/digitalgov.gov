@@ -16,7 +16,7 @@ topics:
   - NIH
   - US Department of Agriculture
   - US Environmental Protection Agency
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - USDA
 ---
 

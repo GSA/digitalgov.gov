@@ -15,7 +15,7 @@ topics:
   - nasa
   - National Institute of Standards and Technology
   - NIST
-  - prizes and competitions
+  - prizes-and-competitions
   - US Agency for International Development
   - United States Department of Energy
   - United States Department of Housing and Urban Development

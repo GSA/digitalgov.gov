@@ -19,7 +19,7 @@ topics:
   - responsive web design
   - US Web Design Standards
   - usability
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

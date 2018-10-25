@@ -14,7 +14,7 @@ topics:
   - ux
   - content strategy
   - mobile
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

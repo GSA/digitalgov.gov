@@ -13,7 +13,7 @@ topics:
   - HHS
   - HUD
   - US Department of Agriculture
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Department of Homeland Security
   - United States Department of Housing and Urban Development
   - USDA

@@ -13,7 +13,7 @@ topics:
   - PBGC
   - Pension Benefit Guaranty Corporation
   - Recaps
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 

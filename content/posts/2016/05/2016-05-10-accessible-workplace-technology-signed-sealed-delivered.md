@@ -11,7 +11,7 @@ topics:
   - accessibility
   - DOL
   - US Department of Labor
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

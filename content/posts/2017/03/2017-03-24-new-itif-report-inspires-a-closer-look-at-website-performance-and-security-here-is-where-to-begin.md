@@ -39,7 +39,7 @@ topics:
   - SEO
   - training
   - usability
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

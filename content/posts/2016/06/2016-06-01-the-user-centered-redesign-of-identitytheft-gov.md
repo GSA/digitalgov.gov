@@ -16,7 +16,7 @@ topics:
   - Federal Trade Commission
   - FTC
   - usability-testing
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

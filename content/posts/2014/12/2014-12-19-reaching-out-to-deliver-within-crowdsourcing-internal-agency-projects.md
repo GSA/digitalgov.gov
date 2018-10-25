@@ -13,7 +13,7 @@ topics:
   - HHS
   - Open Opportunities program
   - US Department of State
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/12/600-x-430-Network-nabihariahi-iStock-Thinkstock-178782907.jpg" alt="Network of figures at laptops" caption="" >}} 

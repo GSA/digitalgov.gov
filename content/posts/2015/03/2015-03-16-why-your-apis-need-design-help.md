@@ -19,7 +19,7 @@ topics:
   - json
   - US Food and Drug Administration
   - usability
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

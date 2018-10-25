@@ -11,7 +11,7 @@ topics:
   - strategy
   - policy
   - HHS
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="Strategy concepts on chalk board" caption="" >}} 

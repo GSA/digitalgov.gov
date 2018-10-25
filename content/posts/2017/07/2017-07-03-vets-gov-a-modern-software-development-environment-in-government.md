@@ -19,7 +19,7 @@ topics:
   - US Department of Veterans Affairs
   - US Digital Service
   - USDS
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
   - VA

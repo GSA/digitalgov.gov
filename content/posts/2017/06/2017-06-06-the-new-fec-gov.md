@@ -22,7 +22,7 @@ topics:
   - Plain language
   - responsive web design
   - US Web Design Standards
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

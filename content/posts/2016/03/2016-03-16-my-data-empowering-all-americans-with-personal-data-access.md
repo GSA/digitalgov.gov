@@ -19,7 +19,7 @@ topics:
   - The United States Social Security Administration
   - US Department of Education
   - United States Department of Energy
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 > <div class="field-label">

@@ -21,7 +21,7 @@ topics:
   - open data
   - SEC
   - US Securities and Exchange Commission
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}}

@@ -11,7 +11,7 @@ topics:
   - ux
   - 18f
   - Draft Web Design Standards
-  - user centered design
+  - user-centered-design
   - VA
 ---
 

@@ -26,7 +26,7 @@ topics:
   - US Department of the Interior
   - US Department of the Treasury
   - US Health Resources and Services Administration
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - USAJOBS
   - white-house
 ---

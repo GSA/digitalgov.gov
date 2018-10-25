@@ -21,7 +21,7 @@ topics:
   - open and structured content models
   - responsive web design
   - United States Department of Energy
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/08/435-x-322-MobileGov-Wikithon-2013-06-17.jpg" alt="MobileGov Wikithon, June 17, 2013" >}}

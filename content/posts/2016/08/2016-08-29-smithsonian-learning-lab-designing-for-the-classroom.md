@@ -15,7 +15,7 @@ topics:
   - SCLDA
   - Smithsonian Center for Learning and Digital Access
   - Smithsonian Institution
-  - user centered design
+  - user-centered-design
   - user-experience
   - user research
   - ux

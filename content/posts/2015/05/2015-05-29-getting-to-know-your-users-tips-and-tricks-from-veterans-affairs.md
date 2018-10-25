@@ -15,7 +15,7 @@ topics:
   - customer service
   - Personas
   - US Department of Veterans Affairs
-  - user centered design
+  - user-centered-design
   - user-experience
   - VA
 ---

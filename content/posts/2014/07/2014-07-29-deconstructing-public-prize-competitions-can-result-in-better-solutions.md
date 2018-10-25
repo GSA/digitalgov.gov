@@ -14,7 +14,7 @@ topics:
   - DGU
   - HHS
   - Recaps
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/07/600-x-420-Gold-medals-Igor-Poleshchuk-Hemera-Thinkstock-101861678.jpg" alt="Gold medals" caption="Igor Poleshchuk/Hemera/Thinkstock" >}}

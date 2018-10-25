@@ -10,7 +10,7 @@ topics:
   - HHS
   - Personas
   - US Department of Agriculture
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - USDA
   - ux
 ---

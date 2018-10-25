@@ -12,7 +12,7 @@ topics:
   - Social and Behavioral Sciences Team
   - US Department of Agriculture
   - USDA
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

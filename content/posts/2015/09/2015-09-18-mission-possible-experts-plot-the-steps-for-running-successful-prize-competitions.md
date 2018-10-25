@@ -9,9 +9,9 @@ topics:
   - challenges
   - challenge-gov
   - HHS
-  - prizes and competitions
+  - prizes-and-competitions
   - Recaps
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}}

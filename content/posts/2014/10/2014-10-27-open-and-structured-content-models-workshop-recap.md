@@ -21,7 +21,7 @@ topics:
   - Recaps
   - SEC
   - US Securities and Exchange Commission
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}

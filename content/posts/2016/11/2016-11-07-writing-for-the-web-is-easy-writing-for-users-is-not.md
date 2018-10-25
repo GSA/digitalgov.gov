@@ -14,7 +14,7 @@ topics:
   - accessibility
   - content
   - Plain language
-  - user centered design
+  - user-centered-design
   - user research
 ---
 

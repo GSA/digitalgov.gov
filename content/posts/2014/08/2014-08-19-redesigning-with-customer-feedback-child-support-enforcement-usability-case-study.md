@@ -12,7 +12,7 @@ topics:
   - customer-experience
   - HHS
   - Office of Child Support Enforcement
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - usability
 ---
 

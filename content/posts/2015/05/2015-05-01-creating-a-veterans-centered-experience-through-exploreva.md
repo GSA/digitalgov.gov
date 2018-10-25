@@ -12,7 +12,7 @@ topics:
   - content strategy
   - social media
   - US Department of Veterans Affairs
-  - user centered design
+  - user-centered-design
   - user-experience
   - VA
 ---

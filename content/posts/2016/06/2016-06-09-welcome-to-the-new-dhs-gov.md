@@ -23,7 +23,7 @@ topics:
   - responsive web design
   - section 508
   - United States Department of Homeland Security
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

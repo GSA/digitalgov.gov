@@ -14,7 +14,7 @@ topics:
   - mobile-ux-guideline-4
   - responsive web design
   - thursday-mobile-products
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 Ask, and you shall receive.

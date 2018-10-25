@@ -18,7 +18,7 @@ topics:
   - OSTP
   - privacy
   - US Department of State
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - white-house-office-of-science-and-technology-policy
 ---
 

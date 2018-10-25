@@ -29,7 +29,7 @@ topics:
   - SBA
   - US Agency for International Development
   - United States Census Bureau
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Department of Housing and Urban Development
   - USAID
 ---

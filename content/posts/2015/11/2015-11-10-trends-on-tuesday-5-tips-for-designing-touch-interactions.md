@@ -11,7 +11,7 @@ topics:
   - mobile
   - responsive web design
   - Trends on Tuesday
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

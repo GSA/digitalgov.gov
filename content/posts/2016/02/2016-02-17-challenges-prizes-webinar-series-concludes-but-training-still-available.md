@@ -15,7 +15,7 @@ topics:
   - Recaps
   - US Agency for International Development
   - United States Department of Energy
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Department of Housing and Urban Development
   - USAID
 ---

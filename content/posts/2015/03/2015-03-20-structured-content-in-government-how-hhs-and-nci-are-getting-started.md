@@ -19,7 +19,7 @@ topics:
   - National Cancer Institute
   - NCI
   - open and structured content models
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 

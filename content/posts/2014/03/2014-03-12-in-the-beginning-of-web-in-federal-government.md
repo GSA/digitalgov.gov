@@ -22,7 +22,7 @@ topics:
   - nasa
   - National Archives and Records Administration
   - US Department of State
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Department of Homeland Security
   - United States Department of Housing and Urban Development
   - USAgov

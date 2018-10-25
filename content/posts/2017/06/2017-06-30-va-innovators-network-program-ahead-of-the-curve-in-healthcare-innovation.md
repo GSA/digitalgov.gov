@@ -10,7 +10,7 @@ topics:
   - ux
   - innovation
   - US Department of Veterans Affairs
-  - user centered design
+  - user-centered-design
   - VA
   - VA Center for Innovation
   - VACI

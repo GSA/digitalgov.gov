@@ -23,7 +23,7 @@ topics:
   - Smithsonian Institution
   - US Department of Education
   - US National Park Service
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - user-experience
 ---
 

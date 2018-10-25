@@ -25,7 +25,7 @@ topics:
   - Smithsonian Institution
   - social media
   - US Department of Veterans Affairs
-  - user centered design
+  - user-centered-design
   - VA
 ---
 

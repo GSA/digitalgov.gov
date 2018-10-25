@@ -9,7 +9,7 @@ topics:
   - challenges
   - challenge-gov
   - challenges and prize competitions
-  - prizes and competitions
+  - prizes-and-competitions
   - white-house-office-of-science-and-technology-policy
 ---
 

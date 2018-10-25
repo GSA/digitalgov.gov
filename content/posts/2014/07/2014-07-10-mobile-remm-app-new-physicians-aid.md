@@ -21,7 +21,7 @@ topics:
   - thursday-mobile-products
   - US Environmental Protection Agency
   - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - usa-gov-federal-mobile-apps-directory
 ---
 

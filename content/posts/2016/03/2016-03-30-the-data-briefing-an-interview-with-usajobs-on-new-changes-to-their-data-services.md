@@ -17,7 +17,7 @@ topics:
   - the-data-briefing
   - United States Office of Personnel Management
   - United States Patent and Trademark Office
-  - user centered design
+  - user-centered-design
   - user-experience
   - USPTO
   - ux

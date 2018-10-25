@@ -15,7 +15,7 @@ topics:
   - NIH
   - thursday-mobile-products
   - US Department of Veterans Affairs
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - usa-gov-federal-mobile-apps-directory
   - VA
 ---

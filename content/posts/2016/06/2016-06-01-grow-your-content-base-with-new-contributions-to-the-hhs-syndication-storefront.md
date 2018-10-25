@@ -13,7 +13,7 @@ topics:
   - National Institutes of Health
   - NHLBI
   - NIH
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 We have written about [syndication]({{< link "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}}) and its [successes]({{< link "2016-02-04-does-content-syndication-work.md" >}}) before.

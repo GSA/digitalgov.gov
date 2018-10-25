@@ -11,7 +11,7 @@ topics:
   - ux
   - DOE
   - United States Department of Energy
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

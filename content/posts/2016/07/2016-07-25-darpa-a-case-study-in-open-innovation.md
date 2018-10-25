@@ -19,7 +19,7 @@ topics:
   - DoD
   - innovation
   - open government
-  - prizes and competitions
+  - prizes-and-competitions
   - Technology Transformation Service
   - TTS
   - United States Department of Defense

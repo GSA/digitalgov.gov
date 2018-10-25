@@ -21,7 +21,7 @@ topics:
   - US Environmental Protection Agency
   - United States Department of Defense
   - United States Department of Energy
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - VA
 ---
 

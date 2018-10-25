@@ -18,7 +18,7 @@ topics:
   - National Institutes of Health
   - NIH
   - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 As localities struggle with issues such as the Zika virus and the Opioid epidemic, gathering and disseminating trustworthy information can be daunting.

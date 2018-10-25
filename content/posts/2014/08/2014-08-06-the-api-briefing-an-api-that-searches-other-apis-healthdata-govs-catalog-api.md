@@ -11,7 +11,7 @@ topics:
   - api
   - data-gov
   - HHS
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - wednesday-api-briefing
 ---
 

@@ -18,7 +18,7 @@ topics:
   - mobile
   - mobile-friendly
   - mobile-gov
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
   - video

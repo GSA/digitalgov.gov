@@ -20,7 +20,7 @@ topics:
   - National Institutes of Health
   - NIH
   - sms
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - USAgov
 ---
 

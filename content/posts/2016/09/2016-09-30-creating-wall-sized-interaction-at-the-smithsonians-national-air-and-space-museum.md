@@ -17,7 +17,7 @@ topics:
   - NASM
   - National Air and Space Museum
   - Smithsonian Institution
-  - user centered design
+  - user-centered-design
   - user-experience
   - ux
 ---

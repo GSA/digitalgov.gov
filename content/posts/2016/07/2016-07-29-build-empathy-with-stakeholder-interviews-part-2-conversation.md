@@ -14,7 +14,7 @@ topics:
   - ux
   - State
   - US Department of State
-  - user centered design
+  - user-centered-design
   - user-experience
   - user research
   - ux

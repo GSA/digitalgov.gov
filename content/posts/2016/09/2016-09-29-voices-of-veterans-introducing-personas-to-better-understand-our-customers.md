@@ -11,7 +11,7 @@ topics:
   - customer service
   - CX
   - Personas
-  - user centered design
+  - user-centered-design
   - user-experience
   - VA
   - VA Center for Innovation

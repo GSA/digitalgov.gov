@@ -30,7 +30,7 @@ topics:
   - US Government Accountability Office
   - US Trade and Development Agency
   - United States Census Bureau
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 At the DigitalGov Citizen Services Summit last Friday, more than [200 innovators across government and industry]({{< link "2014-05-30-digitalgov-citizen-services-summit-a-success.md" >}}) came together to share how digital services can improve citizen services and reduce cost. Four panels convened to share information on performance analysis, [customer service across channels]({{< link "2014-06-05-the-importance-of-cross-channel-customer-service-digitalgov-summit-recap.md" >}} "The Importance of Cross-Channel Customer Service—DigitalGov Summit Recap"), [public private partnerships]({{< link "2014-06-05-overcoming-barriers-digitalgov-summit-recap.md" >}} "Overcoming Barriers—DigitalGov Summit Recap") and [inter-agency work]({{< link "2014-06-03-harnessing-the-power-of-many-digitalgov-summit-panels-recap.md" >}} "Harnessing the Power of Many—DigitalGov Summit Recap"). We have a recap of the Performance Analysis Panel below. {{< legacy-img src="2014/06/600-x-370-Panel-1-Performance-Analysis-toni470-flickr-20140530_094859.jpg" alt="DigitalGov Citizen Services Summit Expo - Panel 1: Performance Analysis - Steve Lewis USTDA; Sarah Kaczmarek GAO; Silvia Salazar NCI; Ilene France HHS" caption="" >}} 

@@ -14,7 +14,7 @@ topics:
   - nasa
   - open data
   - the-data-briefing
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Patent and Trademark Office
   - USPTO
 ---

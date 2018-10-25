@@ -11,7 +11,7 @@ topics:
   - api
   - HHS
   - OPM
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Office of Personnel Management
   - wednesday-api-briefing
 ---

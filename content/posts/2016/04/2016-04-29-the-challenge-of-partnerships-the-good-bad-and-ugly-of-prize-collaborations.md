@@ -12,7 +12,7 @@ topics:
   - HHS
   - National Institute of Standards
   - NIST
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin.
