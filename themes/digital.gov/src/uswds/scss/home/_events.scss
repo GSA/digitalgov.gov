@@ -44,16 +44,16 @@
           position: inherit;
           @include u-padding-y('2px');
           @include u-display('block');
-          @include u-font('sans', '3xs');
+          @include u-font('sans', 'xs');
           @include u-text('bold');
           @include u-text('uppercase');
-          @include u-bg('red-30v');
+          @include u-bg('gray-1');
         }
         .day{
           position: inherit;
-          @include u-padding-y('05');
+          // @include u-padding-y('05');
           @include u-display('block');
-          @include u-font('sans', 'xl');
+          @include u-font('sans', '2xl');
           @include u-line-height('sans', 2);
           @include u-text('thin');
         }
@@ -62,11 +62,11 @@
       .register{
         @include u-text('center');
         @include u-text('uppercase');
-        @include u-font('sans', 'sm');
+        @include u-font('sans', '2xs');
         @include u-bg('indigo-50v');
         @include u-display('block');
         // @include u-display('none');
-        @include u-padding-y(1);
+        @include u-padding-y('05');
         @include u-text('no-underline');
         z-index: 2;
         position: relative;
