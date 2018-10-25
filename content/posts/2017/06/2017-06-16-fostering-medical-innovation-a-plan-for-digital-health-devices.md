@@ -11,11 +11,11 @@ topics:
   - strategy
   - policy
   - Digital Health Innovation Plan
-  - FDA
+  - fda
   - HHS
   - innovation
   - mHealth
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---
 

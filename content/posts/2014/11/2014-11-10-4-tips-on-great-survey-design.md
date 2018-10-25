@@ -6,10 +6,10 @@ summary: ' Whether they pop up while perusing an e-commerce site or land in your
 authors:
   - georgia-gallavin
 topics:
-  - Monthly Theme
+  - monthly-theme
   - user-testing-and-research
   - ux
-  - customer satisfaction
+  - customer-satisfaction
   - DigitalGov User Experience Program
   - usability
   - user-experience

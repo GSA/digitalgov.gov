@@ -7,11 +7,11 @@ authors:
   - awichman
 topics:
   - managing-digital
-  - Our Work
+  - our-work
   - customer-experience
-  - customer satisfaction
-  - customer service
-  - CX
+  - customer-satisfaction
+  - customer-service
+  - cx
   - DigitalGov Summit
   - Ex-Im Bank
   - Export-Import Bank of the United States

@@ -7,18 +7,18 @@ authors:
   - awichman
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - analytics
   - DigitalGov Search
   - DigitalGov User Experience Program
-  - EPA
-  - FDA
+  - epa
+  - fda
   - GSA
   - Plain language
   - search engine optimization
   - US Department of Labor
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - usability
   - usability-testing
   - user-experience

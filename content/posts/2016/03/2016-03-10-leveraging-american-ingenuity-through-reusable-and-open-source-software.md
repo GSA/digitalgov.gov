@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - 18f
   - analytics-usa-gov
   - CFPB

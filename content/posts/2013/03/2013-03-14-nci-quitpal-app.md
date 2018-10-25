@@ -8,7 +8,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - NCI
-  - NIH
+  - nih
   - thursday-mobile-products
 ---
 

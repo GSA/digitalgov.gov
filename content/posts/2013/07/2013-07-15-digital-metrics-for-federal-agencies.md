@@ -7,8 +7,8 @@ authors:
   - marina-fox
 topics:
   - metrics
-  - Our Work
-  - customer satisfaction
+  - our-work
+  - customer-satisfaction
   - mobile
   - social-media
   - usability

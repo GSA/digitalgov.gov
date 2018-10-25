@@ -9,7 +9,7 @@ topics:
   - social-media
   - socialgov-community
   - Terms of Service
-  - TOS
+  - tos
 ---
 
 We’ve been excited to see the outpouring of interest this week in response to Yelp’s decision to amend their terms of service for official government use, a clear message that citizens want more ways to ensure their voices are heard by the public programs that serve them.

@@ -7,9 +7,9 @@ authors:
   - awichman
 topics:
   - metrics
-  - Our Work
+  - our-work
   - analytics
-  - Digital Analytics Program
+  - digital-analytics-program
 ---
 
 ## 2 a.m. EDT, April 16

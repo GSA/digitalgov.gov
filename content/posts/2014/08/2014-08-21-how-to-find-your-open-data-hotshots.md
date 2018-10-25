@@ -12,13 +12,13 @@ topics:
   - api
   - Census
   - data-gov
-  - EPA
+  - epa
   - metadata
   - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
   - open-data
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Census Bureau
 ---
 

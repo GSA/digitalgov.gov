@@ -8,8 +8,8 @@ authors:
 topics:
   - managing-digital
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - podcast

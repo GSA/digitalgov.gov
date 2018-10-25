@@ -9,8 +9,8 @@ topics:
   - managing-digital
   - metrics
   - analytics
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - Google Analytics
   - HTTPS
   - metrics

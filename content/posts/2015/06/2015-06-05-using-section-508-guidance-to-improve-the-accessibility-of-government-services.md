@@ -13,7 +13,7 @@ topics:
   - Centers for Medicare and Medicaid Services
   - dhs
   - DOT
-  - FDA
+  - fda
   - GSA
   - HHS
   - NPS
@@ -25,7 +25,7 @@ topics:
   - US Department of Education
   - US Department of Labor
   - US Department of Veterans Affairs
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - US National Park Service
   - united-states-department-of-health-and-human-services
   - united-states-department-of-homeland-security

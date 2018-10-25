@@ -9,9 +9,9 @@ authors:
 topics:
   - challenges
   - mobile
-  - apps challenges
+  - apps-challenges
   - augmented-reality
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - virtual-reality
   - virtual-augmented-reality-community

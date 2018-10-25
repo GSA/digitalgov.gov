@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - managing-digital
-  - Our Work
+  - our-work
   - api
   - DigitalGov Search
   - Federal Register

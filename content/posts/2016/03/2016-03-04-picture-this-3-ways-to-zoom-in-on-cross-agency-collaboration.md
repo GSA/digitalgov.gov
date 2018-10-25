@@ -9,7 +9,7 @@ topics:
   - ux
   - customer-experience
   - customer-experience-community-of-practice
-  - CX
+  - cx
   - Ex-Im Bank
   - GAO
   - US Government Accountability Office

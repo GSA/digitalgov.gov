@@ -9,8 +9,8 @@ topics:
   - content
   - managing-digital
   - api
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - drupal
   - GobiernoUSAgov
   - government contact centers

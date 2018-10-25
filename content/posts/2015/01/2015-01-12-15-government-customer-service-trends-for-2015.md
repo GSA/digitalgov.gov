@@ -8,11 +8,11 @@ authors:
 topics:
   - managing-digital
   - metrics
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - ux
   - customer-experience
-  - customer service
+  - customer-service
   - Digital Services Playbook
   - government contact centers
   - Personas

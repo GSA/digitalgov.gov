@@ -9,9 +9,9 @@ topics:
   - managing-digital
   - customer-experience
   - customer-experience-community-of-practice
-  - customer satisfaction
-  - customer service
-  - CX
+  - customer-satisfaction
+  - customer-service
+  - cx
   - Office of Management and Budget
   - OMB
   - Recaps

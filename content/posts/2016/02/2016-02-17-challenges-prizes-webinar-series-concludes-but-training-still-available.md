@@ -13,11 +13,11 @@ topics:
   - HUD
   - nasa
   - Recaps
-  - US Agency for International Development
+  - us-agency-for-international-development
   - United States Department of Energy
   - united-states-department-of-health-and-human-services
   - United States Department of Housing and Urban Development
-  - USAID
+  - usaid
 ---
 
 It began with a history lesson and ended with an eye to the future.

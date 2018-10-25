@@ -6,7 +6,7 @@ summary: 'Author&#8217;s note: Anyone can contribute to the development of the O
 authors:
   - awichman
 topics:
-  - Our Work
+  - our-work
   - 18f
   - agile
   - Open Opportunities program

@@ -11,8 +11,8 @@ topics:
   - mobile-apps
   - NARA
   - National Archives and Records Administration
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - thursday-mobile-products
   - US Department of Veterans Affairs
   - united-states-department-of-health-and-human-services

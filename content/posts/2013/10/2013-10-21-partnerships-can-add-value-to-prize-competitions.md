@@ -7,13 +7,13 @@ authors:
   - ktrebon
 topics:
   - challenges
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - HUD
   - nasa
   - OSTP
-  - US Agency for International Development
+  - us-agency-for-international-development
   - United States Department of Housing and Urban Development
-  - USAID
+  - usaid
   - white-house-office-of-science-and-technology-policy
 ---
 

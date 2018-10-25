@@ -16,10 +16,10 @@ topics:
   - National Institute of Standards and Technology
   - NIST
   - prizes-and-competitions
-  - US Agency for International Development
+  - us-agency-for-international-development
   - United States Department of Energy
   - United States Department of Housing and Urban Development
-  - USAID
+  - usaid
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-3953.jpg" alt="Audience" caption="" >}} 

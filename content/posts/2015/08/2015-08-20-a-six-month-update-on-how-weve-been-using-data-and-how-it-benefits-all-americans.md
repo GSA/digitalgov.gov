@@ -9,8 +9,8 @@ topics:
   - data
   - Commerce
   - Department of Commerce
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
 ---
 
 **Memorandum**: A Six Month Update on How We’ve Been Using Data, and How it Benefits All Americans

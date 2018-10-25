@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - analytics-usa-gov
-  - Digital Analytics Program
+  - digital-analytics-program
   - mobile-friendly
   - trends-on-tuesday
 ---

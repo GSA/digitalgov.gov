@@ -7,9 +7,9 @@ authors:
   - stephanie-thum
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer service
+  - customer-service
   - data
 ---
 

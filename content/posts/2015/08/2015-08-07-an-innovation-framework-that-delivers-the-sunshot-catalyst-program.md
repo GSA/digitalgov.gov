@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - challenges
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - data
   - DOE
   - innovation

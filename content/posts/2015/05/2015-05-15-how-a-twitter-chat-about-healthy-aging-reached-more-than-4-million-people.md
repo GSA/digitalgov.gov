@@ -7,8 +7,8 @@ authors:
   - yasmine-kloth
 topics:
   - social-media
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - social-media
   - Twitter
 ---

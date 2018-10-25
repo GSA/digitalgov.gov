@@ -8,10 +8,10 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
+  - monthly-theme
   - CFPB
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
@@ -22,7 +22,7 @@ topics:
   - DoD
   - DOE
   - DOT
-  - EPA
+  - epa
   - FCPCCS
   - Federal Trade Commission
   - FTC
@@ -30,16 +30,16 @@ topics:
   - NARA
   - nasa
   - National Archives and Records Administration
-  - national science foundation
-  - NSF
-  - US Agency for International Development
+  - national-science-foundation
+  - nsf
+  - us-agency-for-international-development
   - US Department of State
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Department of Defense
   - United States Department of Energy
   - united-states-department-of-health-and-human-services
   - United States Department of Transportation
-  - USAID
+  - usaid
   - USGS
 ---
 

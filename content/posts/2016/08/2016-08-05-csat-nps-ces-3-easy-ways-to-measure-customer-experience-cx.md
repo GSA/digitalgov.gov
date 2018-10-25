@@ -12,7 +12,7 @@ topics:
   - analytics
   - customer-experience
   - customer-experience-community-of-practice
-  - CX
+  - cx
   - metrics
 ---
 

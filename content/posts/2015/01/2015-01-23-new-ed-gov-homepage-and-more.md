@@ -7,8 +7,8 @@ authors:
   - jill-james
 topics:
   - content
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - responsive-web-design
   - US Department of Education
 ---

@@ -8,7 +8,7 @@ topics:
   - HHS
   - mobile-apps
   - mobile-gov-experience
-  - NIH
+  - nih
 ---
 
 [{{< legacy-img src="2013/12/MyDS-homescreen.png" alt="MyDS-homescreen" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/MyDS-homescreen.png)_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the NIH Office of Dietary Supplements._

@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - Monthly Theme
+  - monthly-theme
   - api
   - data
   - HHS

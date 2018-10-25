@@ -8,14 +8,14 @@ authors:
 topics:
   - social-media
   - Education
-  - EPA
+  - epa
   - FAFSA
   - federal-emergency-management-agency
   - fema
   - Twitter
   - US Citizenship and Immigration Service
   - US Department of Education
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - USCIS
 ---
 

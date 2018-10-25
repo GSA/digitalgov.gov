@@ -7,10 +7,10 @@ authors:
   - awichman
 topics:
   - metrics
-  - Our Work
+  - our-work
   - analytics
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - podcast
 ---
 

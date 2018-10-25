@@ -7,7 +7,7 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - HHS
   - National Institute of Standards

@@ -10,8 +10,8 @@ topics:
   - managing-digital
   - customer-experience
   - customer-experience-community-of-practice
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
 ---
 
 {{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 

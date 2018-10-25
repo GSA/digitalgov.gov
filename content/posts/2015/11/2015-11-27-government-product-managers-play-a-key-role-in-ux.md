@@ -8,7 +8,7 @@ authors:
 topics:
   - design
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - user-testing-and-research
   - CFPB
   - Internal Revenue Service

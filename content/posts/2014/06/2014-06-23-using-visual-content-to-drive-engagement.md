@@ -6,7 +6,7 @@ summary: 'You’ve probably noticed the trend toward more visual content being s
 authors:
   - jonathan-rubin
 topics:
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - video
   - writing

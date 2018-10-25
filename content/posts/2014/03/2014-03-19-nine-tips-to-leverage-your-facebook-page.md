@@ -8,7 +8,7 @@ authors:
   - jessica-orquina
 topics:
   - social-media
-  - EPA
+  - epa
   - Facebook
   - social-media
   - USGS

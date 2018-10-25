@@ -7,9 +7,9 @@ authors:
   - ktrebon
 topics:
   - challenges
-  - apps challenges
+  - apps-challenges
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - innovation
 ---

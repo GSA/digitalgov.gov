@@ -8,9 +8,9 @@ authors:
 topics:
   - video
   - CBP
-  - EPA
+  - epa
   - US Customs and Border Protection
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2014/05/600-x-400-Video-Shoot-Common-Mistakes-in-Government-Video.jpg" alt="Outdoor Video Shoot example for Common Mistakes in Government Video" >}}

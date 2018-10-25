@@ -8,7 +8,7 @@ authors:
   - coqui-aspiazu
 topics:
   - managing-digital
-  - Our Work
+  - our-work
   - DigitalGov Summit
 ---
 

@@ -8,22 +8,22 @@ authors:
 topics:
   - content
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - api
   - cdc
   - centers-for-disease-control-and-prevention
   - content syndication
   - COPE
-  - FDA
+  - fda
   - HHS
   - mobile
   - mobile-ux-guideline-1
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - open-and-structured-content-models
   - structured-content
   - the-content-corner
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---
 

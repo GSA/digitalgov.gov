@@ -8,10 +8,10 @@ authors:
   - anahita-reilly
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - GSA
   - user-experience
 ---

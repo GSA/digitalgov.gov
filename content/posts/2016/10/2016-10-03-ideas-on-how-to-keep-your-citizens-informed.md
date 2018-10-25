@@ -13,11 +13,11 @@ topics:
   - content
   - content-strategy
   - content syndication
-  - FDA
+  - fda
   - HHS
-  - National Institutes of Health
-  - NIH
-  - US Food and Drug Administration
+  - national-institutes-of-health
+  - nih
+  - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---
 

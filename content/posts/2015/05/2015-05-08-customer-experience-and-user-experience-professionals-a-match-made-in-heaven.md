@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - ux
   - customer-experience
   - user-experience

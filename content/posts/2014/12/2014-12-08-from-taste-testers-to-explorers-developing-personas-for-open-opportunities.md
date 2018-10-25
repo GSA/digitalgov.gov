@@ -8,7 +8,7 @@ authors:
   - awichman
 topics:
   - content
-  - Our Work
+  - our-work
   - Open Opportunities program
   - Personas
 ---

@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - Monthly Theme
+  - monthly-theme
   - agile
   - api
   - data

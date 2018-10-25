@@ -6,7 +6,7 @@ summary: 'You may have seen this icon on our calendar recently. This icon indica
 authors:
   - apiazza
 topics:
-  - Our Work
+  - our-work
   - DGU
 ---
 

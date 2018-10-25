@@ -10,9 +10,9 @@ topics:
   - mobile
   - social-media
   - ux
-  - apps challenges
+  - apps-challenges
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
@@ -25,7 +25,7 @@ topics:
   - mobile-gov
   - NARA
   - National Archives and Records Administration
-  - NIH
+  - nih
   - NPS
   - Office of Community Oriented Policing Services
   - SAMHSA

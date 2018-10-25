@@ -7,7 +7,7 @@ authors:
   - angela-hooker
 topics:
   - accessibility
-  - Monthly Theme
+  - monthly-theme
   - ux
   - accessibility
   - content-strategy

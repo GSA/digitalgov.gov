@@ -7,7 +7,7 @@ authors:
   - victoria-wales
 topics:
   - accessibility
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - video
   - writing

@@ -6,12 +6,12 @@ summary: 'If you haven&#8217;t heard about @congressedits yet, it&#8217;s a Twit
 authors:
   - dominic-mcdevitt-parks
 topics:
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - HHS
   - NARA
   - National Archives and Records Administration
-  - open government
+  - open-government
   - Twitter
   - united-states-department-of-health-and-human-services
 ---

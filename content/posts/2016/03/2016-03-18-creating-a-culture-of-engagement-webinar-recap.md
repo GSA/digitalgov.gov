@@ -9,7 +9,7 @@ authors:
 topics:
   - managing-digital
   - customer-experience
-  - CX
+  - cx
   - DOL
   - HUD
   - OPM

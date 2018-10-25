@@ -7,12 +7,12 @@ authors:
   - kdaniel
 topics:
   - data
-  - Monthly Theme
+  - monthly-theme
   - big data
-  - EPA
+  - epa
   - Internet of things
   - trends-on-tuesday
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870" >}}

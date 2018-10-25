@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - metrics
-  - Our Work
+  - our-work
   - DigitalGov Search
   - Recaps
   - search engine optimization

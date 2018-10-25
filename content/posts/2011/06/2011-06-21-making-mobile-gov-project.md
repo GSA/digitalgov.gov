@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - mobile
-  - Our Work
+  - our-work
   - GSA
   - mobile
   - US Department of Education

@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - AoI
   - customer-experience
-  - customer satisfaction
+  - customer-satisfaction
   - government contact centers
 ---
 

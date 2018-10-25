@@ -10,13 +10,13 @@ topics:
   - code
   - data
   - api
-  - apps challenges
+  - apps-challenges
   - data
   - nasa
   - National Aeronautics and Space Administration
   - open
   - open-data
-  - open government
+  - open-government
   - open-source
 ---
 

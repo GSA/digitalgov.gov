@@ -6,12 +6,12 @@ summary: 'In honor of World Usability Day, which happened on November 12, we’d
 authors:
   - rflagg
 topics:
-  - Monthly Theme
+  - monthly-theme
   - ux
   - 18f
   - customer-experience
   - customer-experience-community-of-practice
-  - CX
+  - cx
   - federal user experience community
   - usability starter kit
   - user-experience

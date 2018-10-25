@@ -9,8 +9,8 @@ topics:
   - metrics
   - mobile
   - analytics
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - ios
   - trends-on-tuesday
 ---

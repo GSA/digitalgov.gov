@@ -12,8 +12,8 @@ topics:
   - augmented-reality
   - chatbots
   - customer-experience
-  - customer service
-  - CX
+  - customer-service
+  - cx
   - data
   - Internet of things
   - the-data-briefing

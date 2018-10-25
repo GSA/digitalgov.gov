@@ -7,10 +7,10 @@ authors:
   - awichman
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - Government Contact Center Council
   - government contact centers
 ---

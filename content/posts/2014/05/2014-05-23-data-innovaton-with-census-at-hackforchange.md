@@ -13,13 +13,13 @@ topics:
   - CFPB
   - Consumer Financial Protection Bureau
   - Department of Commerce
-  - EPA
+  - epa
   - mobile-apps
   - National Day of Civic Hacking
-  - national science foundation
-  - NSF
+  - national-science-foundation
+  - nsf
   - SBA
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US Small Business Administration
   - United States Census Bureau
   - USPTO

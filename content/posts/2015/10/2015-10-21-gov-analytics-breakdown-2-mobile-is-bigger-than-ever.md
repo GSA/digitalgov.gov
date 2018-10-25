@@ -12,9 +12,9 @@ topics:
   - ux
   - analytics
   - customer-experience
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
   - mobile
   - user-experience
 ---

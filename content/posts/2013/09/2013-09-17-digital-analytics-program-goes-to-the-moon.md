@@ -7,9 +7,9 @@ authors:
   - jim-wilson
 topics:
   - metrics
-  - Our Work
-  - DAP
-  - Digital Analytics Program
+  - our-work
+  - dap
+  - digital-analytics-program
   - mobile
   - nasa
 ---

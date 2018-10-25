@@ -8,10 +8,10 @@ authors:
   - ryan-xue
 topics:
   - challenges
-  - Monthly Theme
+  - monthly-theme
   - nasa
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - Smithsonian Institution
 ---
 

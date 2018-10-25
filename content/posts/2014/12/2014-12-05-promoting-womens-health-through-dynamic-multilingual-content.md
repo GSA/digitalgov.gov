@@ -9,7 +9,7 @@ topics:
   - content
   - social-media
   - video
-  - FDA
+  - fda
   - multilingual
   - multilingual-community
   - social-media

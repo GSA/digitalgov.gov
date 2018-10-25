@@ -14,7 +14,7 @@ topics:
   - data-gov
   - DOL
   - DOT
-  - EPA
+  - epa
   - FCC
   - federal-emergency-management-agency
   - Federal Register
@@ -24,17 +24,17 @@ topics:
   - IMLS
   - nasa
   - National Day of Civic Hacking
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Oceanic and Atmospheric Administration
-  - national science foundation
-  - NIH
+  - national-science-foundation
+  - nih
   - NOAA
   - NREL
-  - NSF
+  - nsf
   - Smithsonian Institution
   - US Department of Education
   - US Department of Labor
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Census Bureau
   - united-states-department-of-health-and-human-services
   - United States Department of Housing and Urban Development

@@ -17,8 +17,8 @@ topics:
   - HHS
   - mobile
   - mobile-apps
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - sms
   - united-states-department-of-health-and-human-services
   - USAgov

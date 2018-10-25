@@ -9,7 +9,7 @@ topics:
   - accessibility
   - communities
   - design
-  - Monthly Theme
+  - monthly-theme
   - user-testing-and-research
   - ux
   - AoI

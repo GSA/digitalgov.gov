@@ -9,7 +9,7 @@ topics:
   - content
   - social-media
   - video
-  - DAP
+  - dap
   - multimedia
   - section 508
   - US Department of State

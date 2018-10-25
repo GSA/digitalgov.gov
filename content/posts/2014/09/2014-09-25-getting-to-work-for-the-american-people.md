@@ -13,7 +13,7 @@ topics:
   - DOJ
   - FEC
   - Federal Election Commission
-  - open government
+  - open-government
   - Peace Corps
   - US Citizenship and Immigration Service
   - US Department of Justice

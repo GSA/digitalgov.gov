@@ -11,8 +11,8 @@ topics:
   - HHS
   - mobile-gov-community-of-practice
   - mobile-gov
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - open-and-structured-content-models
   - Recaps
   - structured-content

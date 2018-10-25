@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - data
-  - Monthly Theme
+  - monthly-theme
   - api
   - data
   - Internet of things

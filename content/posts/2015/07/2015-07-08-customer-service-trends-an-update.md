@@ -12,9 +12,9 @@ topics:
   - content syndication
   - COPE
   - customer-experience
-  - customer satisfaction
-  - customer service
-  - Digital Analytics Program
+  - customer-satisfaction
+  - customer-service
+  - digital-analytics-program
   - federal-emergency-management-agency
   - fema
   - mobile

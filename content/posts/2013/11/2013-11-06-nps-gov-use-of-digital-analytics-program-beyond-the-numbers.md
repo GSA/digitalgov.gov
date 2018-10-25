@@ -7,8 +7,8 @@ authors:
   - marina-fox
 topics:
   - metrics
-  - Our Work
-  - Digital Analytics Program
+  - our-work
+  - digital-analytics-program
   - NPS
   - US Department of the Interior
 ---

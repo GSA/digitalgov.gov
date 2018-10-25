@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - data
-  - Monthly Theme
+  - monthly-theme
   - DOT
   - United States Department of Transportation
 ---

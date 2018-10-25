@@ -6,14 +6,14 @@ summary: 'Providing professional development for over 100,000 employees is no ea
 authors:
   - awichman
 topics:
-  - Our Work
+  - our-work
   - DOT
-  - EPA
+  - epa
   - Open Opportunities program
   - transportation-security-administration
   - TSA
   - US Department of Agriculture
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Department of Transportation
   - USDA
 ---

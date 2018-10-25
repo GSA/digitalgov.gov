@@ -11,9 +11,9 @@ topics:
   - ux
   - analytics
   - data
-  - EPA
+  - epa
   - Recaps
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2014/10/600-x-445-metrics-graphic-1-Performance-Measurement.jpg" alt="600 x 445 metrics-graphic-1-Performance-Measurement" >}}

@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - data
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - data-gov
   - GitHub
   - open-source

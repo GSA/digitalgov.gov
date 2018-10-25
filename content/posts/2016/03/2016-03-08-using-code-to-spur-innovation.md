@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - code
-  - Monthly Theme
+  - monthly-theme
   - analytics-usa-gov
   - CFPB
   - data

@@ -13,14 +13,14 @@ topics:
   - code
   - 18f
   - DOJ
-  - EPA
+  - epa
   - FOIA
   - Office of Management and Budget
   - OMB
-  - open government
+  - open-government
   - OSTP
   - US Department of Justice
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - white-house-office-of-science-and-technology-policy
 ---
 

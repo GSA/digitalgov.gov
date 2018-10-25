@@ -17,8 +17,8 @@ topics:
   - blockchain
   - chatbots
   - customer-experience
-  - customer service
-  - CX
+  - customer-service
+  - cx
   - data
   - Internet of things
   - security

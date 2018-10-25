@@ -16,17 +16,17 @@ topics:
   - ux
   - administrative-office-of-the-united-states-courts
   - DOL
-  - EPA
-  - FDA
+  - epa
+  - fda
   - GAO
   - HHS
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCI
-  - NIH
+  - nih
   - Recaps
   - US Department of Labor
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - US Government Accountability Office
   - US Trade and Development Agency
   - United States Census Bureau

@@ -8,7 +8,7 @@ authors:
   - jherman
 topics:
   - social-media
-  - open government
+  - open-government
   - socialgov-community
 ---
 

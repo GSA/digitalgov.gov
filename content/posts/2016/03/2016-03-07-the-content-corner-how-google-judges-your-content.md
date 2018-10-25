@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - administrative-office-of-the-united-states-courts
   - search engine optimization
   - SEO

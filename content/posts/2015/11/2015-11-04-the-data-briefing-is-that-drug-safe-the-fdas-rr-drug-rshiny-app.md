@@ -7,9 +7,9 @@ authors:
   - bbrantley
 topics:
   - data
-  - FDA
+  - fda
   - the-data-briefing
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - United States Patent and Trademark Office
   - USPTO
 ---

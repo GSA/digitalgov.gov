@@ -9,13 +9,13 @@ topics:
   - code
   - data
   - metrics
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - analytics
   - code
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
   - metrics
 ---
 

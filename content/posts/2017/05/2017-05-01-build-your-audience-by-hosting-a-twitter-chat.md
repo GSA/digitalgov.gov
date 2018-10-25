@@ -14,7 +14,7 @@ topics:
   - writing
   - aiDS-gov
   - content-strategy
-  - customer service
+  - customer-service
   - social-media
 ---
 

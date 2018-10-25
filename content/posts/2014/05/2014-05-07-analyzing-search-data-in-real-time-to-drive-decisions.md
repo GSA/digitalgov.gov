@@ -9,7 +9,7 @@ topics:
   - content
   - data
   - metrics
-  - Our Work
+  - our-work
   - DigitalGov Search
   - open-source
 ---

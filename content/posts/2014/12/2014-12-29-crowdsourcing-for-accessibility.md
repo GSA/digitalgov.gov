@@ -9,10 +9,10 @@ topics:
   - accessibility
   - challenges
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
+  - monthly-theme
   - accessibility
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - crowdsourcing
   - section 508
 ---

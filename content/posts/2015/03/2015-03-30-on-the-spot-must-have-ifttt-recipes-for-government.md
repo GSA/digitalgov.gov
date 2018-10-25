@@ -7,11 +7,11 @@ authors:
   - jherman
 topics:
   - api
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - 18f
   - api
-  - Digital Analytics Program
+  - digital-analytics-program
   - social-media
   - SocialGov
 ---

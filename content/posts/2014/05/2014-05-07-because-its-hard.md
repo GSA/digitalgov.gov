@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - managing-digital
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - strategy
   - policy
   - ux

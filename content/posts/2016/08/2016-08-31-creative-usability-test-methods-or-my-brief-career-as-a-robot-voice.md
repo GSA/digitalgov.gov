@@ -10,7 +10,7 @@ topics:
   - ux
   - customer-experience
   - customer-experience-community-of-practice
-  - customer service
+  - customer-service
   - Government Contact Center Council
   - government contact centers
   - usability-testing

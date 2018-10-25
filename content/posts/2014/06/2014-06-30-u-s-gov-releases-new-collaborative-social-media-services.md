@@ -8,14 +8,14 @@ authors:
 topics:
   - accessibility
   - metrics
-  - Our Work
+  - our-work
   - social-media
   - accessibility
   - SBA
   - social-media
   - SocialGov
   - socialgov-community
-  - USAID
+  - usaid
   - white-house
   - World Bank
 ---

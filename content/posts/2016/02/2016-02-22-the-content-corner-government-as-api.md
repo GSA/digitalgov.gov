@@ -8,15 +8,15 @@ authors:
 topics:
   - api
   - content
-  - Monthly Theme
+  - monthly-theme
   - administrative-office-of-the-united-states-courts
   - api
   - CMS
   - content-management-system
   - content-models
   - COPE
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - open-and-structured-content-models
   - Sites
   - the-content-corner

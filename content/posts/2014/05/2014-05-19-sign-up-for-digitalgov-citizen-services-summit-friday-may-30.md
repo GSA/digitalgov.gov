@@ -21,13 +21,13 @@ topics:
   - social-media
   - ux
   - DOL
-  - EPA
+  - epa
   - FCC
   - Federal Communications Commission
   - GAO
   - SBA
   - US Department of Labor
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US Government Accountability Office
   - US Small Business Administration
 ---

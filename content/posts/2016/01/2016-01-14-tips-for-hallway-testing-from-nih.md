@@ -8,9 +8,9 @@ authors:
   - joanna-karpinski-widzer
 topics:
   - ux
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Library of Medicine
-  - NIH
+  - nih
   - NLM
 ---
 

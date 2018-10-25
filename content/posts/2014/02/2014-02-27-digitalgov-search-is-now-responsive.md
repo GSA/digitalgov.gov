@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - mobile
-  - Our Work
+  - our-work
   - DigitalGov Search
   - responsive-web-design
 ---

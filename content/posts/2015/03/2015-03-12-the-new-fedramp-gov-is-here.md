@@ -8,9 +8,9 @@ authors:
 topics:
   - managing-digital
   - cloud
-  - DAP
-  - Digital Analytics Program
-  - FedRAMP
+  - dap
+  - digital-analytics-program
+  - fedramp
   - GSA
   - responsive-web-design
   - Sites

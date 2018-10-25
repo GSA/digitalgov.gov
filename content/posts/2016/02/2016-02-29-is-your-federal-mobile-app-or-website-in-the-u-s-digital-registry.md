@@ -9,8 +9,8 @@ topics:
   - mobile
   - social-media
   - api
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - mobile-apps
   - mobile-friendly
   - mobile-gov

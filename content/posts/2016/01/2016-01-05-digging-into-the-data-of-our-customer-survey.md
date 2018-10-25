@@ -6,11 +6,11 @@ summary: 'As a followup to the recent post about our annual customer satisfactio
 authors:
   - rflagg
 topics:
-  - Our Work
-  - challenges and prize competitions
+  - our-work
+  - challenges-and-prize-competitions
   - customer-experience
   - digitalgov-university
-  - eCPIC
+  - ecpic
   - mobile-gov
   - Open Opportunities program
   - SocialGov

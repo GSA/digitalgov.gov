@@ -21,7 +21,7 @@ topics:
   - National Archives and Records Administration
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - open government
+  - open-government
   - United States Department of Energy
   - United States Geological Survey
   - USGS

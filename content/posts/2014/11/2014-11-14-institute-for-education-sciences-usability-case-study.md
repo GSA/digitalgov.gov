@@ -6,7 +6,7 @@ summary: 'After struggling with jargon-filled solicitations and a confusing webs
 authors:
   - katina-stapleton
 topics:
-  - Monthly Theme
+  - monthly-theme
   - ux
   - IES
   - Institute for Education Sciences

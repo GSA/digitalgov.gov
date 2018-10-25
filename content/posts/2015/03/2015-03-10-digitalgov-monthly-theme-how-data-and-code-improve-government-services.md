@@ -8,7 +8,7 @@ authors:
   - jparcell
 topics:
   - data
-  - Monthly Theme
+  - monthly-theme
   - api
   - data
   - data-gov

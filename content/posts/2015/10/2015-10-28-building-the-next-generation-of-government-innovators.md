@@ -6,14 +6,14 @@ summary: Innovators are made, not born. This summer, the Food and Drug Administr
 authors:
   - awichman
 topics:
-  - Our Work
-  - FDA
+  - our-work
+  - fda
   - mobile-apps
   - Open Opportunities program
   - SSA
   - The United States Social Security Administration
   - US Department of Agriculture
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - USDA
 ---
 

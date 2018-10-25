@@ -7,17 +7,17 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - apps challenges
+  - apps-challenges
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - DOE
-  - EPA
+  - epa
   - nasa
   - National Institute of Justice
   - NPS
   - OSTP
   - US Department of Education
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US National Park Service
   - United States Geological Survey
   - USGS

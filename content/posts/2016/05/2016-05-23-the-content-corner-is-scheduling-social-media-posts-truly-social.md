@@ -8,11 +8,11 @@ authors:
 topics:
   - content
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - ux
   - customer-experience
-  - CX
+  - cx
   - FirstNet
   - social-media
   - the-content-corner

@@ -8,7 +8,7 @@ authors:
   - jthalls
 topics:
   - managing-digital
-  - Our Work
+  - our-work
   - DigitalGov Summit
 ---
 

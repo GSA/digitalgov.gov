@@ -8,8 +8,8 @@ authors:
 topics:
   - managing-digital
   - mobile
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - Defense Intelligence Agency
   - DIA
   - DOT

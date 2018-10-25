@@ -8,14 +8,14 @@ authors:
 topics:
   - managing-digital
   - social-media
-  - EPA
+  - epa
   - HHS
   - National Cancer Institute
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCI
-  - NIH
+  - nih
   - US Department of Agriculture
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - united-states-department-of-health-and-human-services
   - USDA
 ---

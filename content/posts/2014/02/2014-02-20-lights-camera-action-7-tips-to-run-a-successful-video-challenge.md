@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - DGU
   - innovation
   - nasa

@@ -6,11 +6,11 @@ summary: 'We know search engines aren’t Magic 8 Balls, but that&#8217;s still 
 authors:
   - dmccleskey
 topics:
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - DigitalGov Search
   - search engine optimization
 ---

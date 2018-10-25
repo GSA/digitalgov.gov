@@ -15,8 +15,8 @@ topics:
   - innovation
   - nasa
   - National Eye Institute
-  - national science foundation
-  - NSF
+  - national-science-foundation
+  - nsf
   - Recaps
   - United States Department of Housing and Urban Development
   - white-house-office-of-science-and-technology-policy

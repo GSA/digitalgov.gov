@@ -7,7 +7,7 @@ authors:
   - rflagg
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - GAO
   - nasa

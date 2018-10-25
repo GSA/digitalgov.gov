@@ -8,13 +8,13 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - managing-digital
-  - Our Work
+  - our-work
   - "508"
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - DigitalGov Search
   - FCPCCS
   - Open Opportunities program

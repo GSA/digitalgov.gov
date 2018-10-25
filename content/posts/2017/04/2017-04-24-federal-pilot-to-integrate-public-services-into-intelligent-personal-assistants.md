@@ -9,7 +9,7 @@ topics:
   - communities
   - emerging-tech
   - managing-digital
-  - Our Work
+  - our-work
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community

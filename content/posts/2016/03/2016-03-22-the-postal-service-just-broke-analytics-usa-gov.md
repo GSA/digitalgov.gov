@@ -7,9 +7,9 @@ authors:
   - tlowden
 topics:
   - data
-  - Monthly Theme
-  - DAP
-  - Digital Analytics Program
+  - monthly-theme
+  - dap
+  - digital-analytics-program
   - United States Postal Service
   - USPS
 ---

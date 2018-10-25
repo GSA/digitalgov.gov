@@ -12,7 +12,7 @@ topics:
   - ux
   - analytics
   - browsers
-  - Digital Analytics Program
+  - digital-analytics-program
 ---
 
 If you were visiting a federal government website two years ago, the best odds were that you’d have been using Internet Explorer as your Internet browser. But today, that’s no longer the case. Within just the last year, Chrome has taken over the top spot as the browser most used to view federal websites, according to data from the [Digital Analytics Program]({{< link "dap.md" >}}) (DAP), and it seems to show no signs of slowing.

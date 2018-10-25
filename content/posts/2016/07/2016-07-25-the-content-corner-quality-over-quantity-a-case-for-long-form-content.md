@@ -13,8 +13,8 @@ topics:
   - analytics
   - analytics-usa-gov
   - content
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - mobile
   - social-media
   - social-media metrics

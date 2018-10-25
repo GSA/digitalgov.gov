@@ -7,7 +7,7 @@ authors:
   - susanna-murley
 topics:
   - data
-  - Monthly Theme
+  - monthly-theme
   - DOE
   - United States Department of Energy
 ---

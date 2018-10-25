@@ -8,11 +8,11 @@ authors:
 topics:
   - data
   - ux
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - data-gov
   - FOIA
   - nasa
-  - open government
+  - open-government
 ---
 
 Recently, the White House hosted Stakeholder Engagement Workshops—an informal meet-up for citizens and federal agencies to discuss progress on Open Government. The third version of our [Open Gov Plan](https://open.nasa.gov/blog/2014/04/23/share-your-thoughts-open-gov-3-0-plan/) is due June 1st.

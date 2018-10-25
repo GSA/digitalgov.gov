@@ -9,7 +9,7 @@ topics:
   - communities
   - managing-digital
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - AoI
   - Census
   - COPE

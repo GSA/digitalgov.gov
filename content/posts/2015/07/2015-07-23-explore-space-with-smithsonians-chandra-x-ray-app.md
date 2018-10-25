@@ -7,8 +7,8 @@ authors:
   - nirmala-ramprasad
 topics:
   - mobile
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - ios
   - mobile-apps
   - nasa

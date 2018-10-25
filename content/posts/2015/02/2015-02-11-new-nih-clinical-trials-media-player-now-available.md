@@ -9,8 +9,8 @@ topics:
   - content
   - cdc
   - centers-for-disease-control-and-prevention
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
 ---
 
 Spread the Word about Clinical Trials!

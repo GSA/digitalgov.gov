@@ -7,10 +7,10 @@ authors:
   - loren-siebert
 topics:
   - content
-  - Our Work
+  - our-work
   - social-media
   - instagram
-  - open government
+  - open-government
   - USAgov
 ---
 

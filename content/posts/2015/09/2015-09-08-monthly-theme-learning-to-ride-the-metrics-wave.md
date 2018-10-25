@@ -6,8 +6,8 @@ summary: 'We are awash in data. Data in our personal lives gives us information 
 authors:
   - andreanocesigritz
 topics:
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - analytics
   - data
 ---

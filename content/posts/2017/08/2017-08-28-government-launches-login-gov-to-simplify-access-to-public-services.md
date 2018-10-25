@@ -14,8 +14,8 @@ topics:
   - 18f
   - CBP
   - customer-experience
-  - customer service
-  - CX
+  - customer-service
+  - cx
   - GSA
   - Internal Revenue Service
   - IRS

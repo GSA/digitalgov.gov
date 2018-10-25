@@ -7,10 +7,10 @@ authors:
   - alison-sturgeon
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
   - customer-experience-community-of-practice
-  - CX
+  - cx
   - Ex-Im Bank
   - Federal Student Aid
   - FSA

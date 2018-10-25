@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - customer-experience
-  - customer satisfaction
+  - customer-satisfaction
 ---
 
 {{< legacy-img src="2014/06/250-x-240-Customer-Service-Experience-NemanjaZs-iStock-Thinkstock-462082529.jpg" alt="Customer word puzzle" caption="" >}} 

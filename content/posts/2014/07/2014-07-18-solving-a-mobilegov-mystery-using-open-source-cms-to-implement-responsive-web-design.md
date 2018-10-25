@@ -9,7 +9,7 @@ authors:
 topics:
   - content
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - GSA
   - mobile
   - mobile-gov

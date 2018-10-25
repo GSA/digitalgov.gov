@@ -7,10 +7,10 @@ authors:
   - mary-ann-monroe
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - FAFSA
   - Federal Student Aid
   - FSA

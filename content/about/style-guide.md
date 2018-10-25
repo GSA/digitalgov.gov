@@ -172,7 +172,7 @@ While the website URL (domain) is now digital.gov (formerly: digitalgov.gov), pl
 ### Branded names and initialisms or acronyms for related services and programs:
 
 - **[Digital Analytics Program](https://www.digital.gov/dap/)** (DAP)
-  - DAP’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
+  - dap’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
 - **DigitalGov Search** was renamed: **[Search.gov](https://www.digital.gov/services/search/)**
 - **[DigitalGov University](https://www.digital.gov/digitalgov-university/)** (DGU)
 - **[Emerging Citizen Technology Office](https://emerging.digital.gov/)** (ECTO)

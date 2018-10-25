@@ -7,8 +7,8 @@ authors:
   - awichman
 topics:
   - managing-digital
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - DigitalGov Summit
   - Recaps
 ---

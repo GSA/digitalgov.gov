@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - customer-experience
-  - customer service
+  - customer-service
   - HUD
   - United States Department of Housing and Urban Development
 ---

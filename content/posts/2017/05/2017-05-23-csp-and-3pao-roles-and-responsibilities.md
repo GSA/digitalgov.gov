@@ -9,7 +9,7 @@ topics:
   - code
   - managing-digital
   - cloud
-  - FedRAMP
+  - fedramp
   - security
 ---
 

@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - data
-  - Monthly Theme
+  - monthly-theme
   - api
   - Centers for Medicare and Medicaid Services
   - data
@@ -17,7 +17,7 @@ topics:
   - HHS
   - Internet of things
   - json
-  - open government
+  - open-government
   - united-states-department-of-health-and-human-services
 ---
 

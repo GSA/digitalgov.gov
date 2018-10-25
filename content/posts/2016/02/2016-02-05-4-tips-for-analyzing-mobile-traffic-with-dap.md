@@ -8,9 +8,9 @@ authors:
 topics:
   - metrics
   - mobile
-  - Our Work
-  - DAP
-  - Digital Analytics Program
+  - our-work
+  - dap
+  - digital-analytics-program
   - mobile-gov
   - mobile-gov-community-of-practice
 ---

@@ -12,7 +12,7 @@ topics:
   - mobile
   - mobile-ux-guideline-2
   - Terms of Service
-  - TOS
+  - tos
   - United States Department of Energy
 ---
 

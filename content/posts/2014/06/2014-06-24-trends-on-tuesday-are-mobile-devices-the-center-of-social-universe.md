@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - CNCS
   - Corporation for National and Community Service

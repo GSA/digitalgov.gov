@@ -11,7 +11,7 @@ topics:
   - DOT
   - SocialGov
   - Terms of Service
-  - TOS
+  - tos
   - United States Department of Transportation
   - Yelp
 ---

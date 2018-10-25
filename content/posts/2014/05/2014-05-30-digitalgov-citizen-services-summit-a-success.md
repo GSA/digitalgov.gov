@@ -12,7 +12,7 @@ topics:
   - managing-digital
   - metrics
   - mobile
-  - Our Work
+  - our-work
   - social-media
   - ux
   - DigitalGov Summit

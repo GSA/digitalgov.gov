@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - communities
-  - Monthly Theme
+  - monthly-theme
   - 18f
   - api
   - CIO Council

@@ -7,11 +7,11 @@ authors:
   - david-kaufmann
 topics:
   - metrics
-  - Our Work
+  - our-work
   - analytics
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
   - GSA
   - usability
   - USAgov

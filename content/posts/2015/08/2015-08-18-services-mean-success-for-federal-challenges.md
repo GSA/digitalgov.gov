@@ -7,10 +7,10 @@ authors:
   - judy-romano
 topics:
   - challenges
-  - Monthly Theme
+  - monthly-theme
   - Census
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - open-data
   - United States Census Bureau
 ---

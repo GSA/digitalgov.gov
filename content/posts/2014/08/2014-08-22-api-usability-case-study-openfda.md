@@ -12,8 +12,8 @@ topics:
   - ux
   - api
   - DigitalGov User Experience Program
-  - FDA
-  - US Food and Drug Administration
+  - fda
+  - us-food-and-drug-administration
   - usability-testing
 ---
 

@@ -12,7 +12,7 @@ topics:
   - artificial intelligence
   - big data
   - customer-experience
-  - CX
+  - cx
   - data
   - mobile
   - mobile-apps

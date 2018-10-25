@@ -11,7 +11,7 @@ topics:
   - GSA
   - mobile
   - NCI
-  - NIH
+  - nih
   - responsive-web-design
   - US Department of Education
 ---

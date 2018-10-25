@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - metrics
-  - Monthly Theme
+  - monthly-theme
   - analytics
   - CFPB
   - Consumer Financial Protection Bureau

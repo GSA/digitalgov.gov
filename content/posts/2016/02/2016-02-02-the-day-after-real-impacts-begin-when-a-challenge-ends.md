@@ -7,10 +7,10 @@ authors:
   - eric-beidel
 topics:
   - challenges
-  - Our Work
+  - our-work
   - Recaps
-  - US Agency for International Development
-  - USAID
+  - us-agency-for-international-development
+  - usaid
 ---
 
 In 1927, Charles Lindbergh won the Orteig Prize for becoming the first pilot to fly nonstop from New York to Paris.

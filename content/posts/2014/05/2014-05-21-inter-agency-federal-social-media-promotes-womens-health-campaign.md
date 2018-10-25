@@ -7,13 +7,13 @@ authors:
   - alison-lemon
 topics:
   - social-media
-  - FDA
+  - fda
   - HHS
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - Recaps
   - social-media
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---
 

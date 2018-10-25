@@ -9,8 +9,8 @@ topics:
   - strategy
   - policy
   - customer-experience
-  - customer service
-  - CX
+  - customer-service
+  - cx
   - FAS
   - Federal Acquisition Service
   - GSA

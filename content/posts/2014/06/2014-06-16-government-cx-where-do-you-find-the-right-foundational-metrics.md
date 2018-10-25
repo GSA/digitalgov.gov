@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - metrics
   - customer-experience
-  - customer satisfaction
+  - customer-satisfaction
   - Export-Import Bank of the United States
 ---
 

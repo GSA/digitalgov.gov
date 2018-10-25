@@ -8,9 +8,9 @@ authors:
   - katie-gresham
 topics:
   - challenges
-  - Monthly Theme
+  - monthly-theme
   - Bureau of Justice Statistics
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - data-visualization
   - DOJ
   - National Institute of Justice

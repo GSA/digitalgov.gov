@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - mobile
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - data-gov
   - mobile-ux-guideline-5
   - nasa

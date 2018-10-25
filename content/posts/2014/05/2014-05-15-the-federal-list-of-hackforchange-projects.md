@@ -21,17 +21,17 @@ topics:
   - Institute of Museum and Library Services
   - nasa
   - National Day of Civic Hacking
-  - National Institutes of Health
-  - national science foundation
-  - NIH
-  - NSF
+  - national-institutes-of-health
+  - national-science-foundation
+  - nih
+  - nsf
   - Peace Corps
   - SBA
-  - US Agency for International Development
+  - us-agency-for-international-development
   - United States Census Bureau
   - united-states-department-of-health-and-human-services
   - United States Department of Housing and Urban Development
-  - USAID
+  - usaid
 ---
 
 You should be on this list—the current federal government participants in the <a title="civic hack day" href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a>.

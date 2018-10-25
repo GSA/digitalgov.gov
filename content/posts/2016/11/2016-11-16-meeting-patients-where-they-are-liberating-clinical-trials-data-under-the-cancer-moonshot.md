@@ -18,9 +18,9 @@ topics:
   - data
   - innovation
   - National Cancer Institute
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCI
-  - NIH
+  - nih
   - PIF
   - Presidential Innovation Fellows
 ---

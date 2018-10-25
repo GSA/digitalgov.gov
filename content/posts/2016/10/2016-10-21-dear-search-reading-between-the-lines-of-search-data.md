@@ -7,7 +7,7 @@ authors:
   - dmccleskey
 topics:
   - metrics
-  - Our Work
+  - our-work
   - ux
   - analytics
   - DigitalGov Search

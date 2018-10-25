@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - GPS
   - mobile-ux-guideline-5

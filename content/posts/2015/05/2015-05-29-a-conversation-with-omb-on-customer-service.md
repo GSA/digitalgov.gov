@@ -7,10 +7,10 @@ authors:
   - rflagg
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - Office of Management and Budget
   - OMB
 ---

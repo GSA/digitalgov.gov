@@ -7,10 +7,10 @@ authors:
   - apiazza
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - centers-for-disease-control-and-prevention
   - customer-experience
-  - customer satisfaction
+  - customer-satisfaction
   - Export-Import Bank of the United States
   - National Cancer Institute
   - Personas

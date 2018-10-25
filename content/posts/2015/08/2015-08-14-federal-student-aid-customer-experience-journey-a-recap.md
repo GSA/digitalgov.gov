@@ -8,8 +8,8 @@ authors:
 topics:
   - managing-digital
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - Federal Student Aid
   - Recaps
   - US Department of Education

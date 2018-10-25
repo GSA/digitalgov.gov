@@ -8,7 +8,7 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - content-strategy
   - content syndication
 ---

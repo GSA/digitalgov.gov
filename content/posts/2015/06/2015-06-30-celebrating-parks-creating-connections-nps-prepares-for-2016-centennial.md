@@ -6,7 +6,7 @@ summary: ' Planning your next national park adventure (from the comfort of your 
 authors:
   - awichman
 topics:
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - instagram
   - NPS

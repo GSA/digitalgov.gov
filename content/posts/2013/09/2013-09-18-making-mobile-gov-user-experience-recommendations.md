@@ -11,7 +11,7 @@ topics:
   - DOL
   - mobile-apps
   - mobile-gov-community-of-practice
-  - NIH
+  - nih
   - US Department of Labor
   - user-experience
   - ux

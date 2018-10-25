@@ -7,7 +7,7 @@ authors:
   - phaedra-chrousos
 topics:
   - managing-digital
-  - Our Work
+  - our-work
   - customer-experience
 ---
 

@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - cdc
   - centers-for-disease-control-and-prevention
   - Defense Finance and Accounting Services

@@ -10,11 +10,11 @@ topics:
   - code
   - content
   - metrics
-  - Our Work
+  - our-work
   - api
   - Census
   - Department of Commerce
-  - Digital Analytics Program
+  - digital-analytics-program
   - Government Publishing Office
   - GPO
   - HHS

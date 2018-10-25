@@ -7,7 +7,7 @@ authors:
   - angela-bell
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - agile
   - agile-lean-community-of-practice
   - Census

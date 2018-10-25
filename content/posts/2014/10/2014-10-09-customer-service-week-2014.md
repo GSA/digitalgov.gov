@@ -7,11 +7,11 @@ authors:
   - rflagg
 topics:
   - managing-digital
-  - Our Work
+  - our-work
   - ux
   - 18f
   - customer-experience
-  - customer service
+  - customer-service
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - National Cancer Institute

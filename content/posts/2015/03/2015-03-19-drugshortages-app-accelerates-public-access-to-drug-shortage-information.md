@@ -7,10 +7,10 @@ authors:
   - kdowney
 topics:
   - mobile
-  - FDA
+  - fda
   - mobile
   - thursday-mobile-products
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - usa-gov-federal-mobile-apps-directory
 ---
 

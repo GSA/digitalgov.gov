@@ -9,7 +9,7 @@ topics:
   - content
   - emerging-tech
   - managing-digital
-  - Our Work
+  - our-work
   - ux
   - artificial-intelligence
   - customer-experience

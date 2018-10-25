@@ -9,8 +9,8 @@ topics:
   - content
   - content syndication
   - HHS
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - united-states-department-of-health-and-human-services
 ---
 

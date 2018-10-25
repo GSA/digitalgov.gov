@@ -7,7 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - content-models
   - Facebook

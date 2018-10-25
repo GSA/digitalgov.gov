@@ -9,8 +9,8 @@ topics:
   - social-media
   - DOI
   - instagram
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - transportation-security-administration
   - TSA
   - US Department of the Interior

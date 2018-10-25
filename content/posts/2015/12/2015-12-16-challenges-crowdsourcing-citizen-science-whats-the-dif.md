@@ -8,18 +8,18 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
+  - monthly-theme
   - Bureau of Reclamation
   - CFPB
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - Consumer Financial Protection Bureau
   - crowdfunding
   - crowdsourcing
-  - EPA
+  - epa
   - FCPCCS
   - GSA
   - HHS
@@ -29,7 +29,7 @@ topics:
   - NOAA
   - prizes-and-competitions
   - US Department of Agriculture
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Department of Energy
   - united-states-department-of-health-and-human-services
   - United States Geological Survey

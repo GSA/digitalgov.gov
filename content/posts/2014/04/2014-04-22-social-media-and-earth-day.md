@@ -10,17 +10,17 @@ authors:
   - jessica-orquina
 topics:
   - social-media
-  - EPA
+  - epa
   - Facebook
   - GSA
   - instagram
   - nasa
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Zoological Park
   - NDU
-  - NIH
+  - nih
   - NOAA
-  - NSF
+  - nsf
   - Office of Naval Research
   - Peace Corps
   - Twitter

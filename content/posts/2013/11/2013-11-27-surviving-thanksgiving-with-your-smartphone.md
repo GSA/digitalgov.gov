@@ -11,7 +11,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - nasa
-  - NIH
+  - nih
   - thursday-mobile-products
   - TSA
 ---

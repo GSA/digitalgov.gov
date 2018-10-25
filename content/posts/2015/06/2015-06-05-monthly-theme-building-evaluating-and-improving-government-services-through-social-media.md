@@ -7,7 +7,7 @@ authors:
   - awichman
   - jherman
 topics:
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - accessibility
   - DigitalGov Search

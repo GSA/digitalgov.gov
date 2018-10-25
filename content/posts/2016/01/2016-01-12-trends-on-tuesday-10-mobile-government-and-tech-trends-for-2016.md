@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - HTTPS
   - Internet of things
   - mobile

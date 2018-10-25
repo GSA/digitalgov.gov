@@ -7,7 +7,7 @@ authors:
   - beth-martin
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - user-testing-and-research
   - FAA
   - Federal Aviation Administration

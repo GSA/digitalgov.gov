@@ -10,15 +10,15 @@ topics:
   - administrative-office-of-the-united-states-courts
   - CFPB
   - Consumer Financial Protection Bureau
-  - EPA
+  - epa
   - FCC
   - Federal Communications Commission
   - HHS
   - natural language generation
-  - open government
+  - open-government
   - structured-content
   - the-content-corner
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - united-states-department-of-health-and-human-services
 ---
 

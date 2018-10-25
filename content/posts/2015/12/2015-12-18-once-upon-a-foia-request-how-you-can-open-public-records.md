@@ -13,8 +13,8 @@ topics:
   - FBI
   - Federal Bureau of Investigation
   - FOIA
-  - National Action Plan on Open Government
-  - open government
+  - national-action-plan-on-open-government
+  - open-government
   - US Department of Justice
 ---
 

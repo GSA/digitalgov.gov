@@ -13,7 +13,7 @@ topics:
   - ai
   - artificial intelligence
   - customer-experience
-  - CX
+  - cx
   - multilingual
   - US Citizenship and Immigration Service
   - USCIS

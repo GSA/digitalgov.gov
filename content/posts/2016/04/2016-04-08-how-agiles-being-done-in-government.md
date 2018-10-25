@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - strategy
   - policy
   - 18f

@@ -10,9 +10,9 @@ topics:
   - challenges
   - code
   - data
-  - Monthly Theme
+  - monthly-theme
   - api
-  - apps challenges
+  - apps-challenges
   - data
   - innovation
   - nasa

@@ -9,7 +9,7 @@ topics:
   - challenges
   - communities
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
+  - monthly-theme
   - AoI
   - challenges-and-prizes-community-of-practice
   - citizen science

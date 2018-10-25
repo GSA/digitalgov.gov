@@ -7,7 +7,7 @@ authors:
   - coqui-aspiazu
 topics:
   - content
-  - Our Work
+  - our-work
   - Sites
   - sitesusagov
   - State

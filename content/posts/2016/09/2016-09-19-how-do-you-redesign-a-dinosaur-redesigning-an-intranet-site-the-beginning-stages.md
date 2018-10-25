@@ -18,11 +18,11 @@ topics:
   - content
   - content-strategy
   - customer-experience
-  - CX
+  - cx
   - National Center for Complementary and Integrative Health
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCCIH
-  - NIH
+  - nih
   - prototype
   - usability
   - usability-testing

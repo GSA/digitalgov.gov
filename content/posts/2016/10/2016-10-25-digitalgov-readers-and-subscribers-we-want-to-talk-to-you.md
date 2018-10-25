@@ -8,12 +8,12 @@ authors:
 topics:
   - content
   - managing-digital
-  - Our Work
+  - our-work
   - user-testing-and-research
   - ux
   - content
   - customer-experience
-  - CX
+  - cx
   - DGU
   - digitalgov-university
   - 'Office of Products and Programs'

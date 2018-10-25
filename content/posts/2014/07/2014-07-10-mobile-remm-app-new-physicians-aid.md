@@ -9,8 +9,8 @@ topics:
   - mobile
   - cdc
   - centers-for-disease-control-and-prevention
-  - EPA
-  - FDA
+  - epa
+  - fda
   - federal-emergency-management-agency
   - fema
   - HHS
@@ -19,8 +19,8 @@ topics:
   - NRC
   - Nuclear Regulatory Commission
   - thursday-mobile-products
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
   - usa-gov-federal-mobile-apps-directory
 ---

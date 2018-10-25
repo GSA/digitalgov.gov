@@ -7,9 +7,9 @@ authors:
   - toni-bonitto
 topics:
   - metrics
-  - Monthly Theme
+  - monthly-theme
   - analytics
-  - DAP
+  - dap
   - nasa
   - social-media metrics
 ---

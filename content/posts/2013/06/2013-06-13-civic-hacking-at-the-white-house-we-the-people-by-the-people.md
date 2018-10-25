@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - National Day of Civic Hacking
-  - open government
+  - open-government
   - white-house
 ---
 

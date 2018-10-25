@@ -11,9 +11,9 @@ topics:
   - 18f
   - CFPB
   - Consumer Financial Protection Bureau
-  - FDA
+  - fda
   - OPM
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - United States Office of Personnel Management
 ---
 

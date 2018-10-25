@@ -8,11 +8,11 @@ authors:
   - rflagg
 topics:
   - communities
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
   - customer-experience-community-of-practice
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - Recaps
 ---
 

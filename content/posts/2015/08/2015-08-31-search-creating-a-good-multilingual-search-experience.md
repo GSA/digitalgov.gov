@@ -6,8 +6,8 @@ summary: 'In 2015, DigitalGov Search dramatically expanded support for languages
 authors:
   - dmccleskey
 topics:
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - DigitalGov Search
   - GobiernoUSAgov
   - multilingual

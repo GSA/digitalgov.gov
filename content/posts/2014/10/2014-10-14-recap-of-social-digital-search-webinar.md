@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - content
-  - Our Work
+  - our-work
   - social-media
   - video
   - DigitalGov Search

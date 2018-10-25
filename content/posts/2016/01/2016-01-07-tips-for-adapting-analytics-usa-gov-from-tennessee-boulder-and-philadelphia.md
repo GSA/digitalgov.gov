@@ -7,12 +7,12 @@ authors:
   - melody-kramer
 topics:
   - metrics
-  - Our Work
+  - our-work
   - 18f
   - analytics
   - analytics-usa-gov
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
 ---
 
 When [we launched analytics.usa.gov](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/) with the [Digital Analytics Program]({{< link "dap.md" >}}), the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction:

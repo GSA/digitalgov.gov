@@ -8,7 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - crowdsourcing
   - federal-emergency-management-agency
   - fema

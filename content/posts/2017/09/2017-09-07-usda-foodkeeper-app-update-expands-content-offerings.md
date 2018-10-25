@@ -14,7 +14,7 @@ topics:
   - apps
   - content
   - dhs
-  - FDA
+  - fda
   - mobile
   - mobile-apps
   - multilingual

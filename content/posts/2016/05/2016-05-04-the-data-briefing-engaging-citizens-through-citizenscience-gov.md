@@ -10,12 +10,12 @@ topics:
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
-  - EPA
+  - epa
   - nasa
   - NPS
   - the-data-briefing
   - US Department of Agriculture
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US National Park Service
   - USDA
 ---

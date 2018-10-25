@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - data
-  - apps challenges
+  - apps-challenges
   - data
   - Department of Commerce
   - National Institute of Standards and Technology

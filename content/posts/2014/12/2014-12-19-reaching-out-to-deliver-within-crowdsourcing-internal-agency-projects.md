@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
+  - monthly-theme
   - 18f
   - crowdsourcing
   - HHS

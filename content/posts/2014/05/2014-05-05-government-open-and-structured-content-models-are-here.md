@@ -11,8 +11,8 @@ topics:
   - content
   - managing-digital
   - mobile
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - social-media
   - administrative-office-of-the-united-states-courts
   - AoI
@@ -22,12 +22,12 @@ topics:
   - Consumer Financial Protection Bureau
   - content-models
   - DOL
-  - FDA
+  - fda
   - GitHub
   - GSA
   - mobile-ux-guideline-1
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - open-and-structured-content-models
   - SEC
   - SSA
@@ -36,7 +36,7 @@ topics:
   - US Department of Agriculture
   - US Department of Education
   - US Department of Labor
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - US Securities and Exchange Commission
   - United States Census Bureau
   - USDA

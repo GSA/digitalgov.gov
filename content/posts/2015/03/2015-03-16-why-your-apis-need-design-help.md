@@ -8,16 +8,16 @@ authors:
 topics:
   - api
   - code
-  - Monthly Theme
+  - monthly-theme
   - ux
   - api
   - api keys
   - CFPB
   - Consumer Financial Protection Bureau
-  - FDA
+  - fda
   - GitHub
   - json
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - usability
   - user-centered-design
   - user-experience

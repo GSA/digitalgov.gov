@@ -15,9 +15,9 @@ topics:
   - ux
   - agile
   - blockchain
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
   - GSA
   - lean
   - the-data-briefing

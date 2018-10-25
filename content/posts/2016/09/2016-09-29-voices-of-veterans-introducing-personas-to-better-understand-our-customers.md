@@ -8,8 +8,8 @@ authors:
 topics:
   - ux
   - customer-experience
-  - customer service
-  - CX
+  - customer-service
+  - cx
   - Personas
   - user-centered-design
   - user-experience

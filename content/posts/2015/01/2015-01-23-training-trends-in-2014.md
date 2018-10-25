@@ -6,7 +6,7 @@ summary: 'In recent years, DigitalGov University (DGU) has evolved from a prescr
 authors:
   - apiazza
 topics:
-  - Our Work
+  - our-work
   - api
   - DGU
   - DigitalGov User Experience Program

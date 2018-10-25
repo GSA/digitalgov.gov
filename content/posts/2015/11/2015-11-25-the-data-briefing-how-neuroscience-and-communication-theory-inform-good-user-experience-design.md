@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - design
-  - Monthly Theme
+  - monthly-theme
   - the-data-briefing
   - US Department of Agriculture
   - USDA

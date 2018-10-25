@@ -7,8 +7,8 @@ authors:
   - elizabeth-zeitler
 topics:
   - data
-  - Monthly Theme
-  - challenges and prize competitions
+  - monthly-theme
+  - challenges-and-prize-competitions
   - MCC
   - open-data
 ---

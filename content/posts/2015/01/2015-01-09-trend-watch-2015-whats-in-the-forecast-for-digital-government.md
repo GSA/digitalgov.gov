@@ -11,10 +11,10 @@ topics:
   - data
   - managing-digital
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - AoI
   - big data
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - customer-experience
   - mobile-gov
 ---

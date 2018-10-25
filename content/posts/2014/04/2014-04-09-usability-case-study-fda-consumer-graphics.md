@@ -9,9 +9,9 @@ topics:
   - design
   - user-testing-and-research
   - ux
-  - FDA
+  - fda
   - infographic
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - usability
   - usability case study
   - user-experience

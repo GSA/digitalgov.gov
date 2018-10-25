@@ -13,9 +13,9 @@ topics:
   - video
   - audio-video
   - National Center for Complementary and Integrative Health
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCCIH
-  - NIH
+  - nih
   - social-media
   - social-media metrics
   - video

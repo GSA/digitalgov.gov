@@ -8,11 +8,11 @@ authors:
 topics:
   - challenges
   - communities
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - crowdsourcing
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - OSTP
   - white-house-office-of-science-and-technology-policy
 ---

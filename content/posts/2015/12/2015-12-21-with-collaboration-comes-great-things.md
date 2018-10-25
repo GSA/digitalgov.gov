@@ -9,8 +9,8 @@ topics:
   - code
   - content syndication
   - HHS
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - open-and-structured-content-models
   - structured-content
   - united-states-department-of-health-and-human-services

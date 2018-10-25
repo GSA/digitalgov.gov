@@ -6,14 +6,14 @@ summary: 'If you were to spend any time with me in the kitchen, you would often 
 authors:
   - tanya-mcilravy
 topics:
-  - Monthly Theme
+  - monthly-theme
   - ux
   - "508"
   - accessibility
   - customer-experience
-  - customer satisfaction
-  - customer service
-  - CX
+  - customer-satisfaction
+  - customer-service
+  - cx
   - section 508
   - user-experience
   - ux

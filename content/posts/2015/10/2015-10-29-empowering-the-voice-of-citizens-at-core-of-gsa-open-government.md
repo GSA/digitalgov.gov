@@ -7,11 +7,11 @@ authors:
   - jherman
 topics:
   - managing-digital
-  - Our Work
+  - our-work
   - social-media
   - data-gov
-  - National Action Plan on Open Government
-  - open government
+  - national-action-plan-on-open-government
+  - open-government
 ---
 
 {{< legacy-img src="2015/10/600-x-400-The-Open-Government-Partnership-10-27-2015-Third-Open-Government-National-Action-Plan-For-The-United-States-Of-America.jpg" alt="The Open Government Partnership: Third Open Government National Action Plan For The United States Of America, October 27, 2015" >}}

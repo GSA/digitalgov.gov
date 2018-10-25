@@ -10,13 +10,13 @@ topics:
   - data
   - Census
   - FCC
-  - FDA
+  - fda
   - Federal Communications Commission
   - GPS
   - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - United States Census Bureau
 ---
 

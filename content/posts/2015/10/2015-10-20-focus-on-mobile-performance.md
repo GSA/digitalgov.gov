@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - mobile
   - trends-on-tuesday
   - user-experience

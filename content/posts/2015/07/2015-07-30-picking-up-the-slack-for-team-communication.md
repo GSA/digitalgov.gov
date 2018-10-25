@@ -9,7 +9,7 @@ topics:
   - social-media
   - socialgov-community
   - State
-  - TOS
+  - tos
   - US Department of State
 ---
 

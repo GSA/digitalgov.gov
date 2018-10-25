@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - crowdsourcing
   - the-data-briefing
 ---

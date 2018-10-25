@@ -7,13 +7,13 @@ authors:
   - alison-lemon
 topics:
   - social-media
-  - EPA
-  - FDA
+  - epa
+  - fda
   - HHS
   - Recaps
   - socialgov-community
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---
 

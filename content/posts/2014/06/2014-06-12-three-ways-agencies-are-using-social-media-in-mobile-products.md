@@ -8,7 +8,7 @@ authors:
   - katie-steffy
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - crowdsourcing
   - Federal Mobile Products Registry

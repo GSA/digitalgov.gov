@@ -7,8 +7,8 @@ authors:
   - kdaniel
 topics:
   - mobile
-  - Monthly Theme
-  - customer service
+  - monthly-theme
+  - customer-service
   - government contact centers
   - National Cancer Institute
   - NCI

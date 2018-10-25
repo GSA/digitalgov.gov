@@ -6,16 +6,16 @@ summary: 'The #SocialGov Community is coming up on three years of hard work and 
 authors:
   - apiazza
 topics:
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - analytics
   - BBG
   - Broadcasting Board of Governors
   - DigitalGov Search
   - DOI
-  - EPA
+  - epa
   - Facebook
-  - FDA
+  - fda
   - GAO
   - HHS
   - social-media
@@ -23,10 +23,10 @@ topics:
   - SocialGov
   - socialgov-community
   - Terms of Service
-  - TOS
+  - tos
   - US Department of the Interior
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - US Government Accountability Office
   - united-states-department-of-health-and-human-services
 ---

@@ -6,10 +6,10 @@ summary: 'At GSA’s Office of Citizen Services and Innovative Technologies (OCS
 authors:
   - rflagg
 topics:
-  - Our Work
+  - our-work
   - user-testing-and-research
   - customer-experience
-  - CX
+  - cx
 ---
 
 At GSA’s Office of Citizen Services and Innovative Technologies (OCSIT), we offer technology services and tools to make government work better. To help us gauge the effectiveness of the programs we offer to other government agencies, in 2013 we launched our first Government Customer Experience Index (GCXi) survey. This annual email survey consistently measures customer satisfaction, loyalty and ease of use for various OCSIT programs. {{< legacy-img src="2016/01/600-x-400-Online-Survey-devke-iStock-Thinkstock-469618252.jpg" alt="The word survey in giant red lettering, with a computer mouse plugged into the letter R." caption="" >}} 

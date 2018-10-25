@@ -8,11 +8,11 @@ authors:
   - mollie-ruskin
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - ux
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - Personas
   - US Department of Veterans Affairs
   - user-centered-design

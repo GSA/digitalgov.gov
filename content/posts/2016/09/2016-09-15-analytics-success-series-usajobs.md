@@ -9,11 +9,11 @@ authors:
 topics:
   - data
   - metrics
-  - Our Work
+  - our-work
   - user-testing-and-research
   - analytics
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - metrics
   - OPM
   - United States Office of Personnel Management

@@ -11,7 +11,7 @@ topics:
   - ux
   - DOJ
   - Terms of Service
-  - TOS
+  - tos
   - US Department of Justice
   - usability
 ---

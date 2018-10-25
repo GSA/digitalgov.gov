@@ -11,14 +11,14 @@ topics:
   - DFAS
   - DoD
   - DOE
-  - EPA
+  - epa
   - Executive Office of the President
   - HHS
   - mobile-ux-guideline-5
   - responsive-web-design
   - thursday-mobile-products
   - US Department of Veterans Affairs
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Department of Defense
   - United States Department of Energy
   - united-states-department-of-health-and-human-services

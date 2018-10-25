@@ -6,7 +6,7 @@ summary: 'As we look ahead to 2016, we wanted to take a minute to look at our mo
 authors:
   - andreanocesigritz
 topics:
-  - Our Work
+  - our-work
   - accessibility
   - security
   - social-media

@@ -18,8 +18,8 @@ topics:
   - DGU
   - digital-audio-video-community
   - digitalgov-university
-  - EPA
-  - US Environmental Protection Agency
+  - epa
+  - us-environmental-protection-agency
   - video
 ---
 

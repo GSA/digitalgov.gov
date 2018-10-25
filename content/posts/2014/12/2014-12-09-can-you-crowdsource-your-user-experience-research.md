@@ -8,7 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - design
-  - Monthly Theme
+  - monthly-theme
   - user-testing-and-research
   - ux
   - api

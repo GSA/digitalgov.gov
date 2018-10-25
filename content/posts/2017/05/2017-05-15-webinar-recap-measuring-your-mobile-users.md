@@ -10,8 +10,8 @@ topics:
   - mobile
   - analytics
   - best practices
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - metrics
   - mobile
 aliases:

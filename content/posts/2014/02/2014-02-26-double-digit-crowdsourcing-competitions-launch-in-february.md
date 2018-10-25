@@ -11,7 +11,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - crowdsourcing
   - Department of Commerce
-  - EPA
+  - epa
   - GSA
   - mobile-apps
   - United States Air Force

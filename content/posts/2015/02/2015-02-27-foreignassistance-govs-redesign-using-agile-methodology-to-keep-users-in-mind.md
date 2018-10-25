@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - agile
   - Office of the U.S. Foreign Assistance Resources
   - Personas

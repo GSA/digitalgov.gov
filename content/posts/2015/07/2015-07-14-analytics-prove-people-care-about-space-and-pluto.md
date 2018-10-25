@@ -9,8 +9,8 @@ topics:
   - data
   - metrics
   - analytics
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - nasa
 ---
 

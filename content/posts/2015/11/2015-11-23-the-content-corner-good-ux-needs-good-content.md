@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - Monthly Theme
+  - monthly-theme
   - ux
   - administrative-office-of-the-united-states-courts
   - the-content-corner

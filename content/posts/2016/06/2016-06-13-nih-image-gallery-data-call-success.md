@@ -7,12 +7,12 @@ authors:
   - christen-geiler
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - content
   - content-strategy
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - social-media
 ---
 

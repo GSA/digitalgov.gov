@@ -7,7 +7,7 @@ authors:
   - nramprasad
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - mobile-apps
   - native-app
   - native-apps

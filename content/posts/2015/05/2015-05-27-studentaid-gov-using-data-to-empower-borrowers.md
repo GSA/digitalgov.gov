@@ -7,11 +7,11 @@ authors:
   - brenda-wensil
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - ux
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
   - data
   - FAFSA
   - Federal Student Aid

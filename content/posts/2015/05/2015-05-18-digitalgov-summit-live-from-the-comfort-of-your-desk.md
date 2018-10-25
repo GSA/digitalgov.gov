@@ -7,7 +7,7 @@ authors:
   - jparcell
   - apiazza
 topics:
-  - Our Work
+  - our-work
   - DigitalGov Summit
   - Ex-Im Bank
   - Export-Import Bank of the United States

@@ -6,7 +6,7 @@ summary: When one thinks of social media, usually it is thought of as a tool to 
 authors:
   - kdaniel
 topics:
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - api
   - data

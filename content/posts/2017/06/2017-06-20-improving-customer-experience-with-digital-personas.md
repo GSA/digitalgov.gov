@@ -11,7 +11,7 @@ topics:
   - ux
   - customer-experience
   - customer-experience-community-of-practice
-  - CX
+  - cx
   - NARA
   - National Archives and Records Administration
   - Personas

@@ -9,10 +9,10 @@ topics:
   - mobile
   - strategy
   - policy
-  - EPA
+  - epa
   - mobile-apps
   - thursday-mobile-products
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - usa-gov-federal-mobile-apps-directory
 ---
 

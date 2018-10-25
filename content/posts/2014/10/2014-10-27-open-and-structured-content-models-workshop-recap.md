@@ -8,7 +8,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - content-models
   - COPE
   - HHS

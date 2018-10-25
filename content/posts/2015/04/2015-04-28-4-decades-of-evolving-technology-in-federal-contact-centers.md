@@ -7,9 +7,9 @@ authors:
   - coqui-aspiazu
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer service
+  - customer-service
   - government contact centers
   - GSA
 ---

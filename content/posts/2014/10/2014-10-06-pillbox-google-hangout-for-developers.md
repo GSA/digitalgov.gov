@@ -8,14 +8,14 @@ authors:
 topics:
   - api
   - data
-  - FDA
+  - fda
   - HHS
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Library of Medicine
-  - NIH
+  - nih
   - NLM
   - open-source
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---
 

@@ -10,10 +10,10 @@ topics:
   - user-testing-and-research
   - ux
   - open-data
-  - top tasks
-  - US Agency for International Development
+  - top-tasks
+  - us-agency-for-international-development
   - usability
-  - USAID
+  - usaid
   - user-experience
   - ux
 ---

@@ -19,8 +19,8 @@ topics:
   - mobile-ux-guideline-5
   - multilingual
   - multilingual-community
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - SSA
   - The United States Social Security Administration
   - thursday-mobile-products

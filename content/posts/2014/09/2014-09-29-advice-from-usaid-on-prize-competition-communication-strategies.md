@@ -7,10 +7,10 @@ authors:
   - ktrebon
 topics:
   - challenges
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - Recaps
-  - US Agency for International Development
-  - USAID
+  - us-agency-for-international-development
+  - usaid
 ---
 
 {{< legacy-img src="2014/09/600-x-200-social-media-Business-connection-TCmake_photo-iStock-Thinkstock-184725179.jpg" alt="social media and business connection icons" caption="" >}} 

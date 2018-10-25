@@ -10,8 +10,8 @@ topics:
   - metrics
   - 18f
   - analytics
-  - customer service
-  - DAP
+  - customer-service
+  - dap
   - Open Opportunities program
 ---
 

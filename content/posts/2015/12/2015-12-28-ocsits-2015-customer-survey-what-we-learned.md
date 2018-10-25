@@ -6,17 +6,17 @@ summary: 'Three years ago, GSA’s Office of Citizen Services and Innovative Tec
 authors:
   - rflagg
 topics:
-  - Our Work
+  - our-work
   - customer-experience
-  - customer satisfaction
-  - customer service
-  - CX
-  - DAP
-  - Digital Analytics Program
+  - customer-satisfaction
+  - customer-service
+  - cx
+  - dap
+  - digital-analytics-program
   - digitalgov-university
-  - eCPIC
-  - FedRAMP
-  - TOS
+  - ecpic
+  - fedramp
+  - tos
 ---
 
 Three years ago, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) set out to [design a system]({{< link "2013-07-18-how-to-create-a-customer-experience-index.md" >}}) to consistently measure customer satisfaction across our office. We were inspired by the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html), which tasks agencies to adopt a customer-centric approach to service delivery.

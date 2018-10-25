@@ -13,8 +13,8 @@ topics:
   - managing-digital
   - metrics
   - mobile
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - social-media
   - ux
   - crowdsourcing

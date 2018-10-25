@@ -17,7 +17,7 @@ topics:
   - managing-digital
   - metrics
   - mobile
-  - Our Work
+  - our-work
   - social-media
   - strategy
   - policy
@@ -37,12 +37,12 @@ topics:
   - content
   - customer-experience
   - customer-experience-community-of-practice
-  - CX
-  - DAP
+  - cx
+  - dap
   - DGU
-  - Digital Analytics Program
+  - digital-analytics-program
   - digitalgov-university
-  - FedRAMP
+  - fedramp
   - GSA
   - metrics
   - mobile-gov

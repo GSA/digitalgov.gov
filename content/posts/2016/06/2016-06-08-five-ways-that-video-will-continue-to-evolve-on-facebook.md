@@ -7,7 +7,7 @@ authors:
   - randy-abramson
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - video
   - BBG

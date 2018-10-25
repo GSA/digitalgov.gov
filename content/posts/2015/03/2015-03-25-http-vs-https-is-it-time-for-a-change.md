@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - data
-  - Monthly Theme
+  - monthly-theme
   - big data
   - HTTPS
   - privacy

@@ -15,7 +15,7 @@ topics:
   - DOJ
   - DOL
   - DOT
-  - EPA
+  - epa
   - FCC
   - Federal Communications Commission
   - GSA
@@ -24,15 +24,15 @@ topics:
   - NARA
   - nasa
   - National Archives and Records Administration
-  - national science foundation
+  - national-science-foundation
   - NRC
-  - NSF
+  - nsf
   - Nuclear Regulatory Commission
   - OPM
   - SBA
   - SSA
   - The United States Social Security Administration
-  - US Agency for International Development
+  - us-agency-for-international-development
   - US Department of Agriculture
   - US Department of Education
   - US Department of Justice
@@ -41,7 +41,7 @@ topics:
   - US Department of the Interior
   - US Department of the Treasury
   - US Department of Veterans Affairs
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US Small Business Administration
   - United States Department of Defense
   - United States Department of Energy
@@ -50,7 +50,7 @@ topics:
   - United States Department of Housing and Urban Development
   - United States Department of Transportation
   - United States Office of Personnel Management
-  - USAID
+  - usaid
   - USDA
   - VA
 ---

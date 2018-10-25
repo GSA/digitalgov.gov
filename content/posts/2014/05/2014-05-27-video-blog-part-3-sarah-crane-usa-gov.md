@@ -9,7 +9,7 @@ topics:
   - api
   - content
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - api
   - USAgov
 ---

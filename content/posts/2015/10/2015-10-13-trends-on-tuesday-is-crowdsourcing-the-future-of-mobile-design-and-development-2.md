@@ -8,8 +8,8 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
-  - Monthly Theme
-  - apps challenges
+  - monthly-theme
+  - apps-challenges
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
   - FCPCCS

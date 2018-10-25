@@ -11,8 +11,8 @@ topics:
   - ux
   - content
   - customer-experience
-  - customer service
-  - CX
+  - customer-service
+  - cx
   - multilingual
   - SSA
   - The United States Social Security Administration

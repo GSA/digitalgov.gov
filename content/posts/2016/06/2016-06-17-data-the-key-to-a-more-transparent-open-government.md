@@ -9,7 +9,7 @@ topics:
   - data
   - GSA
   - open-data
-  - open government
+  - open-government
   - US General Services Administration
 ---
 

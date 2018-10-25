@@ -7,7 +7,7 @@ authors:
   - dmccleskey
 topics:
   - content
-  - Our Work
+  - our-work
   - DigitalGov Search
   - HTTPS
   - Plain language

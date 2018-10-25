@@ -15,8 +15,8 @@ topics:
   - data-gov
   - innovation
   - National Day of Civic Hacking
-  - national science foundation
-  - NSF
+  - national-science-foundation
+  - nsf
   - United States Census Bureau
 ---
 

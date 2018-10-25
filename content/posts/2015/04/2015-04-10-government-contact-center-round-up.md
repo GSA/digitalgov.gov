@@ -7,8 +7,8 @@ authors:
   - apiazza
 topics:
   - managing-digital
-  - Monthly Theme
-  - customer service
+  - monthly-theme
+  - customer-service
   - DGU
   - Government Contact Center Council
   - government contact centers

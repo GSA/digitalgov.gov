@@ -7,7 +7,7 @@ authors:
   - david-fern
 topics:
   - mobile
-  - Our Work
+  - our-work
   - ux
   - Defense Finance and Accounting Services
   - Federal CrowdSource Mobile Testing Program

@@ -9,8 +9,8 @@ topics:
   - user-testing-and-research
   - ux
   - DigitalGov User Experience Program
-  - national science foundation
-  - NSF
+  - national-science-foundation
+  - nsf
   - usability case study
   - user-experience
 ---

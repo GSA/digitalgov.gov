@@ -11,7 +11,7 @@ topics:
   - metrics
   - user-testing-and-research
   - ux
-  - customer satisfaction
+  - customer-satisfaction
   - GobiernoUSAgov
   - responsive-web-design
   - usability case study

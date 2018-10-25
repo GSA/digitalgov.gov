@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - data
-  - Monthly Theme
+  - monthly-theme
   - open-data
 ---
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - "508"
   - api
   - data

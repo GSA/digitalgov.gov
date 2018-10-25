@@ -13,7 +13,7 @@ topics:
   - policy
   - api
   - GitHub
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Library of Medicine
   - wednesday-api-briefing
 ---

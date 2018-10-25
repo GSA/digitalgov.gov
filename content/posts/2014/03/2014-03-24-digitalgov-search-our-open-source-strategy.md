@@ -10,7 +10,7 @@ topics:
   - code
   - content
   - data
-  - Our Work
+  - our-work
   - api
   - Consumer Financial Protection Bureau
   - DigitalGov Search

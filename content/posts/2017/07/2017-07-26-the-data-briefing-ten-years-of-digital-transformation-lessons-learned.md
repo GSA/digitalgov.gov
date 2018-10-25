@@ -22,8 +22,8 @@ topics:
   - blockchain
   - customer-experience
   - customer-experience-community-of-practice
-  - customer service
-  - CX
+  - customer-service
+  - cx
   - Human Resources
   - infrastructure
   - innovation

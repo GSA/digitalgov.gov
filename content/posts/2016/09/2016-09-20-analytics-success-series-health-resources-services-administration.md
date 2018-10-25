@@ -10,13 +10,13 @@ authors:
 topics:
   - data
   - metrics
-  - Our Work
+  - our-work
   - analytics
   - content
   - content-strategy
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
   - HHS
   - HRSA
   - metrics

@@ -8,14 +8,14 @@ authors:
 topics:
   - metrics
   - analytics
-  - DAP
+  - dap
   - data-gov
-  - EPA
+  - epa
   - GAO
   - NPS
   - open-data
   - social-media metrics
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US Government Accountability Office
   - US National Park Service
 ---

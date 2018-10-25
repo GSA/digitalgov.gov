@@ -7,7 +7,7 @@ authors:
   - lnelson
 topics:
   - social-media
-  - NIH
+  - nih
   - Twitter
 ---
 

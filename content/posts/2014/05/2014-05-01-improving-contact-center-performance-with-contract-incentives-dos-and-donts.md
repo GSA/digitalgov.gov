@@ -8,8 +8,8 @@ authors:
 topics:
   - communities
   - managing-digital
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - AoI
   - government contact centers
 ---

@@ -7,10 +7,10 @@ authors:
   - stephanie-thum
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Plain-book-jut-out-a-bookshelf-Teka77-iStock-Thinkstock-459134863.jpg" alt="Three books jut out a bookshelf" caption="" >}} 

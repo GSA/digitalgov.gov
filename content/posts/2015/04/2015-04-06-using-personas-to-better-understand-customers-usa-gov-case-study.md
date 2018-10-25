@@ -9,8 +9,8 @@ topics:
   - user-testing-and-research
   - ux
   - analytics
-  - customer service
-  - Digital Analytics Program
+  - customer-service
+  - digital-analytics-program
   - DigitalGov Search
   - GobiernoUSAgov
   - Personas

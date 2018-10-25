@@ -9,7 +9,7 @@ topics:
   - api
   - communities
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - AoI
   - Federal Mobile Products Registry
   - mobile-ux-guideline-4

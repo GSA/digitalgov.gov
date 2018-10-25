@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - CMS
   - content-management-system
   - mobile-ux-guideline-1

@@ -7,7 +7,7 @@ authors:
   - brandon-barr
 topics:
   - mobile
-  - EPA
+  - epa
   - responsive-web-design
   - thursday-mobile-products
 ---

@@ -8,11 +8,11 @@ authors:
 topics:
   - data
   - metrics
-  - Our Work
+  - our-work
   - analytics
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
   - Federal Trade Commission
   - FTC
   - metrics

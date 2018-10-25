@@ -8,12 +8,12 @@ authors:
 topics:
   - communities
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - AoI
   - HHS
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCI
-  - NIH
+  - nih
   - social-media
   - united-states-department-of-health-and-human-services
 ---

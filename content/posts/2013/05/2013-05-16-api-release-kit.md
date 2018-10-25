@@ -10,7 +10,7 @@ topics:
   - code
   - api
   - Census
-  - EPA
+  - epa
   - FCC
   - Federal Register
   - National Weather Service

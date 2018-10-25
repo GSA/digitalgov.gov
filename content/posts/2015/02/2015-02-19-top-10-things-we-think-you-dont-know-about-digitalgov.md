@@ -7,7 +7,7 @@ authors:
   - gwynne-kostin
 topics:
   - content
-  - Our Work
+  - our-work
   - analytics
   - content-strategy
   - DigitalGov Search

@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - mobile
   - mobile-apps
   - mobile-gov

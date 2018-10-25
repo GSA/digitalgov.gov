@@ -10,8 +10,8 @@ topics:
   - code
   - data
   - managing-digital
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - strategy
   - policy
   - DigitalGov Search

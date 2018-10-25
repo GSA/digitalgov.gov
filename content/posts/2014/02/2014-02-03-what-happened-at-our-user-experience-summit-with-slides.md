@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - ux
   - DigitalGov User Experience Program
-  - FDA
+  - fda
   - mobile-app-development-program
   - NCI
   - OMB

@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - communities
-  - Monthly Theme
+  - monthly-theme
   - CIO Council
   - cloud
   - data

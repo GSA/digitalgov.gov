@@ -7,10 +7,10 @@ authors:
   - ktrebon
 topics:
   - communities
-  - Monthly Theme
+  - monthly-theme
   - communities
   - DGU
-  - Digital Analytics Program
+  - digital-analytics-program
   - Open Opportunities program
   - social-media
   - Web Content Managers Forum

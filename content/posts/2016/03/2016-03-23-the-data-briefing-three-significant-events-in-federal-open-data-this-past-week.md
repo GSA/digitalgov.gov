@@ -8,11 +8,11 @@ authors:
 topics:
   - api
   - data
-  - Monthly Theme
+  - monthly-theme
   - agile
   - api
   - dhs
-  - National Action Plan on Open Government
+  - national-action-plan-on-open-government
   - Office of Management and Budget
   - OMB
   - open-data

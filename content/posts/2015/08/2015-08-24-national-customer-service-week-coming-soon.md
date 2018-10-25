@@ -7,7 +7,7 @@ authors:
   - alison-sturgeon
 topics:
   - managing-digital
-  - customer service
+  - customer-service
 ---
 
 {{< legacy-img src="2014/09/600-x-366-Customer-service-concept-in-word-tag-cloud-on-white-rafal_olechowski-iStock-Thinkstock-452236277.jpg" alt="Customer service concept in word tag cloud on white" caption="" >}} 

@@ -7,7 +7,7 @@ authors:
   - clair-koroma
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - HHS
   - mobile-ux-guideline-5
   - responsive-web-design

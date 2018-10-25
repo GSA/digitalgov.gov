@@ -18,7 +18,7 @@ topics:
   - Smithsonian Libraries
   - social-media
   - Terms of Service
-  - TOS
+  - tos
 ---
 
 Hi there, DigitalGov! {{< legacy-img src="https://media0.giphy.com/media/3o6Zt3PBAGPUvmvUJO/giphy.gif" alt="Animated gif of a woman with the word, Hi, written on her hand." caption="" >}} 

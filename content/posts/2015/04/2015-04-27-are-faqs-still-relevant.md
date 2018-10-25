@@ -6,11 +6,11 @@ summary: 'Users have questions. Your content and website navigation can help the
 authors:
   - awichman
 topics:
-  - Monthly Theme
+  - monthly-theme
   - ux
   - CFPB
   - Consumer Financial Protection Bureau
-  - customer service
+  - customer-service
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - government contact centers

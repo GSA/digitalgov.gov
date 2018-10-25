@@ -12,18 +12,18 @@ topics:
   - managing-digital
   - strategy
   - policy
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
   - DOT
-  - EPA
+  - epa
   - GAO
   - innovation
   - nasa
   - open-data
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US Government Accountability Office
   - United States Department of Transportation
 ---

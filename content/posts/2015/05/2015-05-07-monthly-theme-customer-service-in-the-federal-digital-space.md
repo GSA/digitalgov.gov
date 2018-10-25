@@ -8,10 +8,10 @@ authors:
   - awichman
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
 ---
 
 “The customer is king.” “The customer is always right.”

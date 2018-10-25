@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - data
   - DOE
   - DOL

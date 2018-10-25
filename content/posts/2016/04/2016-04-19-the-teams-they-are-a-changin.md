@@ -7,7 +7,7 @@ authors:
   - michael-torres
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - 18f
   - agile
 ---

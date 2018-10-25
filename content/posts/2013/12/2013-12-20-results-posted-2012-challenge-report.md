@@ -7,7 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - Our Work
+  - our-work
   - crowdsourcing
   - OSTP
   - white-house

@@ -7,8 +7,8 @@ authors:
   - jparcell
 topics:
   - mobile
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile-gov-community-of-practice

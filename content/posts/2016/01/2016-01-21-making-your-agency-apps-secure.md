@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - mobile
-  - Our Work
+  - our-work
   - dhs
   - mobile
   - mobile-apps

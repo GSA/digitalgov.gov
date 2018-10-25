@@ -23,7 +23,7 @@ topics:
   - event
   - FAS
   - Federal Acquisition Service
-  - FedRAMP
+  - fedramp
   - GSA
   - HHS
   - innovation

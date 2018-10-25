@@ -19,7 +19,7 @@ topics:
   - content
   - content-strategy
   - customer-experience
-  - CX
+  - cx
   - DGU
   - digitalgov-university
   - GSA

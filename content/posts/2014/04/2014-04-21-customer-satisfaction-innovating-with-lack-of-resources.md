@@ -7,7 +7,7 @@ authors:
   - rosetta-carrington-lue
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
   - government contact centers
   - social-media

@@ -14,7 +14,7 @@ topics:
   - National Highway Traffic Safety Administration
   - NHTSA
   - Terms of Service
-  - TOS
+  - tos
   - US Department of State
   - United States Department of Transportation
 ---

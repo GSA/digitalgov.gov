@@ -8,9 +8,9 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - apps challenges
+  - apps-challenges
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice

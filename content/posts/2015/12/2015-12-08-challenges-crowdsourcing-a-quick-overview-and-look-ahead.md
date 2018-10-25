@@ -8,23 +8,23 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
+  - monthly-theme
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdfunding
   - crowdsourcing
-  - EPA
+  - epa
   - FCPCCS
   - National Institute of Standards and Technology
-  - national science foundation
+  - national-science-foundation
   - NIST
   - NPS
-  - NSF
+  - nsf
   - OSTP
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US National Park Service
   - white-house-office-of-science-and-technology-policy
 ---

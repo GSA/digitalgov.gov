@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - accessibility
   - data
   - mobile-apps

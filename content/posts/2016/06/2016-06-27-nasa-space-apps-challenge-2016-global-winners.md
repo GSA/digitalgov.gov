@@ -8,8 +8,8 @@ authors:
 topics:
   - challenges
   - mobile
-  - apps challenges
-  - challenges and prize competitions
+  - apps-challenges
+  - challenges-and-prize-competitions
   - crowdsourcing
   - innovation
   - mobile
@@ -18,7 +18,7 @@ topics:
   - mobile-gov
   - nasa
   - open-data
-  - open government
+  - open-government
   - open-source
 ---
 

@@ -7,7 +7,7 @@ authors:
   - claire-yerke-desjardins
 topics:
   - challenges
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - HUD
   - United States Department of Housing and Urban Development
 ---

@@ -6,7 +6,7 @@ summary: 'How can government protect citizens while delivering the services they
 authors:
   - andreanocesigritz
 topics:
-  - Our Work
+  - our-work
   - DigitalGov Summit
   - DOT
   - National Institute of Standards and Technology

@@ -9,11 +9,11 @@ topics:
   - api
   - code
   - content
-  - FDA
+  - fda
   - GitHub
   - open-source
   - OPM
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - United States Office of Personnel Management
   - wednesday-api-briefing
 ---

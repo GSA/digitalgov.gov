@@ -13,9 +13,9 @@ topics:
   - "508"
   - accessibility
   - customer-experience
-  - customer satisfaction
-  - customer service
-  - CX
+  - customer-satisfaction
+  - customer-service
+  - cx
   - Personas
   - section 508
   - user-experience

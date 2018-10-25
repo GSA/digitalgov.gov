@@ -7,7 +7,7 @@ authors:
   - gwynne-kostin
 topics:
   - managing-digital
-  - Our Work
+  - our-work
   - customer-experience
   - innovation
 ---

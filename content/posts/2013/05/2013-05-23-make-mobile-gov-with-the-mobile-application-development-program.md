@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - mobile
-  - Our Work
+  - our-work
   - accessibility
   - api
   - mobile

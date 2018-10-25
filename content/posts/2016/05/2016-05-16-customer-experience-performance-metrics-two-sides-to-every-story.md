@@ -7,9 +7,9 @@ authors:
   - stephanie-thum
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - CX
+  - cx
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - metrics

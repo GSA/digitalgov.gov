@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - social-media
   - NARA
   - National Archives and Records Administration

@@ -8,10 +8,10 @@ authors:
   - rflagg
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
   - customer-experience-community-of-practice
-  - CX
+  - cx
   - Recaps
   - SBST
   - Social and Behavioral Sciences Team

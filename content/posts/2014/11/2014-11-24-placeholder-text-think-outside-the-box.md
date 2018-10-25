@@ -7,7 +7,7 @@ authors:
   - rachel-mundstock
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - social-media metrics
 ---
 

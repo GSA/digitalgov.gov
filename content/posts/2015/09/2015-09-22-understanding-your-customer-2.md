@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - customer-experience
-  - CX
+  - cx
   - dhs
   - HHS
   - HUD

@@ -7,11 +7,11 @@ authors:
   - awichman
 topics:
   - code
-  - Monthly Theme
-  - challenges and prize competitions
+  - monthly-theme
+  - challenges-and-prize-competitions
   - nasa
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - SBIR
   - Small Business Innovation Research
 ---

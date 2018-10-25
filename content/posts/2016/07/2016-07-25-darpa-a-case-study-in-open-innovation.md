@@ -10,7 +10,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - managing-digital
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
@@ -18,7 +18,7 @@ topics:
   - Defense Advanced Research Projects Agency
   - DoD
   - innovation
-  - open government
+  - open-government
   - prizes-and-competitions
   - Technology Transformation Service
   - TTS

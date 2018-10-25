@@ -12,11 +12,11 @@ topics:
   - data
   - managing-digital
   - metrics
-  - Our Work
+  - our-work
   - 18f
   - analytics
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
   - metrics
 ---
 

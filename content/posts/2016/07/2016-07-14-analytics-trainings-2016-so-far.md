@@ -8,9 +8,9 @@ authors:
 topics:
   - metrics
   - analytics
-  - DAP
+  - dap
   - DGU
-  - Digital Analytics Program
+  - digital-analytics-program
   - digitalgov-university
   - Google Analytics
   - metrics

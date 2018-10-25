@@ -12,7 +12,7 @@ topics:
   - cloud
   - data
   - Federal Risk and Authorization Management Program
-  - FedRAMP
+  - fedramp
 ---
 
 We’re incredibly excited to announce the launch of the new [FedRAMP Marketplace dashboard](http://marketplace.fedramp.gov/)! It’s loaded with all sorts of ways for you to see how everyone is participating with FedRAMP!

@@ -13,7 +13,7 @@ topics:
   - native-app
   - Terms of Service
   - thursday-mobile-products
-  - TOS
+  - tos
   - United States Department of Transportation
   - Yelp
 ---

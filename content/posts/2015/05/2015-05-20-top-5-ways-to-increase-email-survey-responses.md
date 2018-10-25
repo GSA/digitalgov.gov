@@ -7,10 +7,10 @@ authors:
   - zhanrui-kuang
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer satisfaction
-  - customer service
+  - customer-satisfaction
+  - customer-service
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Mail-PashaIgnatov-iStock-Thinkstock-133940537.jpg" alt="Email icons, with an open one highlighted in orange" caption="" >}} 

@@ -14,7 +14,7 @@ topics:
   - ux
   - analytics
   - customer-experience
-  - CX
+  - cx
   - metrics
   - usa.gov
   - usability-testing

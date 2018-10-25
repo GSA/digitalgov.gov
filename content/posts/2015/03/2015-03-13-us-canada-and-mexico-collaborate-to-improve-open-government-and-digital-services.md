@@ -7,7 +7,7 @@ authors:
   - darlene-meskell
 topics:
   - Governance
-  - Monthly Theme
+  - monthly-theme
   - strategy
   - policy
   - 18f

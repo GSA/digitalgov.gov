@@ -20,7 +20,7 @@ topics:
   - Digital Accountability and Transparency Act
   - FAS
   - Federal Acquisition Service
-  - FedRAMP
+  - fedramp
   - GSA
   - HHS
   - innovation

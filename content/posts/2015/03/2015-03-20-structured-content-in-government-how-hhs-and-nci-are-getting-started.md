@@ -9,7 +9,7 @@ topics:
   - content
   - data
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - content-models
   - content-strategy
   - DGU

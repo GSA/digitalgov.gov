@@ -8,8 +8,8 @@ authors:
 topics:
   - metrics
   - social-media
-  - DAP
-  - Digital Analytics Program
+  - dap
+  - digital-analytics-program
   - GAO
   - US Government Accountability Office
 ---

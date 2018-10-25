@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - Internal Revenue Service
   - ios
   - IRS

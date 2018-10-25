@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - cdc
   - centers-for-disease-control-and-prevention
   - content syndication

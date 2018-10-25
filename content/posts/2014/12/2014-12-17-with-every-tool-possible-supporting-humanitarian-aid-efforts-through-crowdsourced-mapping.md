@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
+  - monthly-theme
   - crowdsourcing
   - data
   - Humanitarian Information Unit

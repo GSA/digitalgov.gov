@@ -10,7 +10,7 @@ authors:
 topics:
   - design
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
   - responsive-web-design

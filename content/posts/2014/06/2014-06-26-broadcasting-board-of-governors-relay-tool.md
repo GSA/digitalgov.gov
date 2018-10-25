@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - BBG
   - Broadcasting Board of Governors
   - CMS

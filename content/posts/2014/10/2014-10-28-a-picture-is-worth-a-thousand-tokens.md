@@ -7,7 +7,7 @@ authors:
   - loren-siebert
 topics:
   - api
-  - Our Work
+  - our-work
   - social-media
   - video
   - DigitalGov Search

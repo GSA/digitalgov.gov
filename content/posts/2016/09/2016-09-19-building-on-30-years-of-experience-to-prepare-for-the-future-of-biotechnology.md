@@ -13,13 +13,13 @@ topics:
   - Governance
   - strategy
   - policy
-  - EPA
-  - FDA
+  - epa
+  - fda
   - Federal Register
   - OSTP
   - US Department of Agriculture
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - USDA
   - white-house
   - white-house-office-of-science-and-technology-policy

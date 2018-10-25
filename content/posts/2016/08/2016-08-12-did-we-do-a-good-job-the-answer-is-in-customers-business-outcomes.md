@@ -8,9 +8,9 @@ authors:
 topics:
   - managing-digital
   - customer-experience
-  - customer satisfaction
-  - customer service
-  - CX
+  - customer-satisfaction
+  - customer-service
+  - cx
   - Ex-Im Bank
   - Export-Import Bank of the United States
 ---

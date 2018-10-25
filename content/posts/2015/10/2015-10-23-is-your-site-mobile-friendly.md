@@ -7,7 +7,7 @@ authors:
   - david-fern
 topics:
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - mobile-testing

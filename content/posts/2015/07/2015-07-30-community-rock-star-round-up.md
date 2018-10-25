@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - communities
-  - Monthly Theme
+  - monthly-theme
   - 18f
   - customer-experience-community-of-practice
   - Defense Intelligence Agency
@@ -17,7 +17,7 @@ topics:
   - ICE
   - mobile-gov
   - NCI
-  - NIH
+  - nih
   - Office of the Director of National Intelligence
   - open-and-structured-content-models
   - OPM
@@ -25,7 +25,7 @@ topics:
   - SSA
   - trends-on-tuesday
   - US Department of State
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - United States Census Bureau
   - USDA
   - ux

@@ -10,9 +10,9 @@ topics:
   - content syndication
   - HHS
   - National Institute of Heart Lung and Blood Diseases
-  - National Institutes of Health
+  - national-institutes-of-health
   - NHLBI
-  - NIH
+  - nih
   - united-states-department-of-health-and-human-services
 ---
 

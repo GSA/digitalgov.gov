@@ -15,8 +15,8 @@ topics:
   - content-models
   - content-strategy
   - content syndication
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - open-and-structured-content-models
 ---
 

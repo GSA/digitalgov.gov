@@ -14,30 +14,30 @@ topics:
   - strategy
   - policy
   - api
-  - apps challenges
+  - apps-challenges
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing
   - data
   - data-visualization
-  - EPA
+  - epa
   - GSA
   - innovation
   - mobile-apps
   - National Day of Civic Hacking
   - open-data
-  - open government
+  - open-government
   - OSTP
   - SBA
-  - US Agency for International Development
+  - us-agency-for-international-development
   - US Department of Agriculture
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US General Services Administration
   - US Small Business Administration
-  - USAID
+  - usaid
   - USDA
   - white-house
   - white-house-office-of-science-and-technology-policy

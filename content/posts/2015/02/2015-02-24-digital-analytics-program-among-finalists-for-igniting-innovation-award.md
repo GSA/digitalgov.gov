@@ -8,11 +8,11 @@ authors:
 topics:
   - data
   - metrics
-  - Our Work
+  - our-work
   - analytics
   - customer-experience
   - data-gov
-  - Digital Analytics Program
+  - digital-analytics-program
   - innovation
   - nasa
   - open-data

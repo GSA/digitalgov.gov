@@ -8,8 +8,8 @@ authors:
   - dmccleskey
 topics:
   - managing-digital
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - aws
   - DigitalGov Search
   - infrastructure

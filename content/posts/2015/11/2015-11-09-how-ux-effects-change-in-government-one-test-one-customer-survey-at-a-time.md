@@ -6,7 +6,7 @@ summary: 'Over the past few years, many agencies have learned how to do user exp
 authors:
   - andreanocesigritz
 topics:
-  - Monthly Theme
+  - monthly-theme
   - ux
   - user-experience
   - user-experience-community-of-practice

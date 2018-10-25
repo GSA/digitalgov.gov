@@ -13,25 +13,25 @@ topics:
   - DoD
   - DOT
   - Education
-  - EPA
+  - epa
   - nasa
   - National Aeronautics and Space Administration
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Library of Medicine
   - National Oceanic and Atmospheric Administration
-  - national science foundation
-  - NIH
+  - national-science-foundation
+  - nih
   - NLM
   - NOAA
-  - NSF
+  - nsf
   - open
-  - open government
+  - open-government
   - OSTP
   - research
   - US Department of Agriculture
   - US Department of Education
   - US Department of Veterans Affairs
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Department of Defense
   - United States Department of Energy
   - United States Department of Transportation

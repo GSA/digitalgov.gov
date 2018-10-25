@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
-  - EPA
+  - epa
   - mobile-gov-experience
 ---
 

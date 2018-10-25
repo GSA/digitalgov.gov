@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - customer-experience
   - customer-experience-community-of-practice
-  - CX
+  - cx
   - DGU
   - DOL
   - Recaps

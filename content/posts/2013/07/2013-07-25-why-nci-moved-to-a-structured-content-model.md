@@ -11,9 +11,9 @@ topics:
   - content-management-system
   - metadata
   - National Cancer Institute
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCI
-  - NIH
+  - nih
   - open-and-structured-content-models
 ---
 

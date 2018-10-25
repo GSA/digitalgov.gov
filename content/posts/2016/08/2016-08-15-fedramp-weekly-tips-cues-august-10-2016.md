@@ -10,7 +10,7 @@ topics:
   - cloud
   - data
   - Federal Risk and Authorization Management Program
-  - FedRAMP
+  - fedramp
   - security
 ---
 

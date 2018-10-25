@@ -9,12 +9,12 @@ authors:
   - tom-black
 topics:
   - data
-  - Monthly Theme
+  - monthly-theme
   - 18f
   - data-gov
   - Education
   - HHS
-  - open government
+  - open-government
   - SSA
   - The United States Social Security Administration
   - US Department of Education

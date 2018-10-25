@@ -7,11 +7,11 @@ authors:
   - ktrebon
 topics:
   - challenges
-  - apps challenges
+  - apps-challenges
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - data-gov
-  - EPA
+  - epa
   - innovation
   - United States Department of Energy
 ---

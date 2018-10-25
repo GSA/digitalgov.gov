@@ -10,7 +10,7 @@ topics:
   - Centers for Medicare and Medicaid Services
   - customer-experience
   - customer-experience-community-of-practice
-  - CX
+  - cx
 ---
 
 {{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 

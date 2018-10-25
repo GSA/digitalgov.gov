@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - challenges
-  - Monthly Theme
+  - monthly-theme
   - challenge-gov
   - challenges-and-prizes-community-of-practice
   - DOE

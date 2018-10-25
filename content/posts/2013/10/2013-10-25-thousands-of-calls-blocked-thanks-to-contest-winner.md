@@ -7,7 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - challenges
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - FTC
 ---
 

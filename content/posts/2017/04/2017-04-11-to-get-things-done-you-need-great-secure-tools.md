@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - 18f
-  - FedRAMP
+  - fedramp
   - GSA
   - infrastructure
   - SaaS

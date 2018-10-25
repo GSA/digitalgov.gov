@@ -12,7 +12,7 @@ topics:
   - data
   - data-gov
   - DOE
-  - open government
+  - open-government
   - United States Department of Energy
 ---
 

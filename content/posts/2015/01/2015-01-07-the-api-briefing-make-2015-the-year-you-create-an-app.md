@@ -11,8 +11,8 @@ topics:
   - data
   - app
   - apps
-  - apps challenges
-  - challenges and prize competitions
+  - apps-challenges
+  - challenges-and-prize-competitions
   - data
   - data-gov
   - innovation

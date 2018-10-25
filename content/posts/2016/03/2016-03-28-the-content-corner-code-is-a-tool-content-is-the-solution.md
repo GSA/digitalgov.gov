@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - content
-  - Monthly Theme
+  - monthly-theme
   - administrative-office-of-the-united-states-courts
   - code
   - content-strategy

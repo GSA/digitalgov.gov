@@ -12,18 +12,18 @@ authors:
   - colin-craig
 topics:
   - data
-  - Our Work
+  - our-work
   - 18f
   - analytics
   - analytics-usa-gov
   - Commerce
-  - DAP
+  - dap
   - Department of Commerce
-  - Digital Analytics Program
+  - digital-analytics-program
   - DOI
   - DOJ
   - Education
-  - EPA
+  - epa
   - NARA
   - nasa
   - National Archives and Records Administration
@@ -31,7 +31,7 @@ topics:
   - US Department of Justice
   - US Department of the Interior
   - US Department of Veterans Affairs
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US Small Business Administration
   - United States Department of Energy
 ---

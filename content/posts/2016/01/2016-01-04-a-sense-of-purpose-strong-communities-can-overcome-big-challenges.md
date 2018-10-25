@@ -8,9 +8,9 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
+  - monthly-theme
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - crowdsourcing
   - HUD
   - Recaps

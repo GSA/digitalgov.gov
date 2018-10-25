@@ -8,9 +8,9 @@ authors:
 topics:
   - api
   - api
-  - EPA
+  - epa
   - OPM
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Geological Survey
   - United States Office of Personnel Management
   - USGS

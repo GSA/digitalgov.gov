@@ -10,10 +10,10 @@ authors:
   - john-tindel
 topics:
   - managing-digital
-  - Our Work
+  - our-work
   - 18f
   - analytics
-  - Digital Analytics Program
+  - digital-analytics-program
   - GSA
   - HTTPS
 ---

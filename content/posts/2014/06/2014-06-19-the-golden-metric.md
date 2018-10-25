@@ -9,9 +9,9 @@ topics:
   - data
   - metrics
   - big data
-  - DAP
+  - dap
   - data-gov
-  - Digital Analytics Program
+  - digital-analytics-program
   - nasa
   - USAgov
 ---

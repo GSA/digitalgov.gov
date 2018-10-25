@@ -16,13 +16,13 @@ topics:
   - ux
   - Census
   - DOL
-  - EPA
-  - FDA
+  - epa
+  - fda
   - NCI
   - Recaps
   - US Department of Labor
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - United States Census Bureau
 ---
 

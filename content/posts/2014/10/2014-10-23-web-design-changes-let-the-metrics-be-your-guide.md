@@ -9,18 +9,18 @@ topics:
   - content
   - metrics
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - Defense Finance and Accounting Services
   - DFAS
-  - EPA
+  - epa
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-5
   - nasa
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - responsive-web-design
   - US Department of Agriculture
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - USDA
 ---
 

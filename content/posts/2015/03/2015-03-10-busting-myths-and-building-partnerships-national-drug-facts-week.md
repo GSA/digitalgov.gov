@@ -9,8 +9,8 @@ topics:
   - content
   - social-media
   - multilingual
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - social-media
   - Twitter
 ---

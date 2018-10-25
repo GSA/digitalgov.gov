@@ -9,7 +9,7 @@ topics:
   - metrics
   - social-media
   - user-testing-and-research
-  - DAP
+  - dap
   - GAO
 ---
 

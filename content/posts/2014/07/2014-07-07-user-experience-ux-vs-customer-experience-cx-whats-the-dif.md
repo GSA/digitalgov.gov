@@ -7,7 +7,7 @@ authors:
   - tlowden
 topics:
   - communities
-  - Monthly Theme
+  - monthly-theme
   - ux
   - AoI
   - customer-experience

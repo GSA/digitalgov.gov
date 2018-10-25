@@ -8,17 +8,17 @@ authors:
 topics:
   - challenges
   - mobile
-  - apps challenges
+  - apps-challenges
   - Census
-  - challenges and prize competitions
-  - EPA
+  - challenges-and-prize-competitions
+  - epa
   - mobile-ux-guideline-5
   - National Institute of Standards and Technology
   - native-apps
   - NIST
   - open-data
   - thursday-mobile-products
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Census Bureau
 ---
 

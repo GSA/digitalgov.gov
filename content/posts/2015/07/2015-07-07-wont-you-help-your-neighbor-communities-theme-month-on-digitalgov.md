@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - communities
-  - Monthly Theme
+  - monthly-theme
   - communities
   - customer-experience-community-of-practice
   - mobile-gov-community-of-practice

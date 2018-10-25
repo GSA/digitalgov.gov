@@ -14,7 +14,7 @@ topics:
   - mobile
   - mobile-ux-guideline-5
   - thursday-mobile-products
-  - top tasks
+  - top-tasks
   - US Department of Labor
   - usability-testing
   - user-experience

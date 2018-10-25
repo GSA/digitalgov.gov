@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - content
-  - Monthly Theme
+  - monthly-theme
   - administrative-office-of-the-united-states-courts
   - content-strategy
   - Office of the U.S. Foreign Assistance Resources

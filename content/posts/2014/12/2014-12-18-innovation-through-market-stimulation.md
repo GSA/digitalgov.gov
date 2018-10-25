@@ -8,11 +8,11 @@ authors:
 topics:
   - challenges
   - crowdsourcing-and-citizen-science
-  - Monthly Theme
-  - challenges and prize competitions
+  - monthly-theme
+  - challenges-and-prize-competitions
   - crowdsourcing
-  - EPA
-  - US Environmental Protection Agency
+  - epa
+  - us-environmental-protection-agency
 ---
 
 {{< legacy-img src="2014/12/250-x-250-nutrient-sensor-challenge-logo.jpg" alt="Nutrient Sensor Challenge logo" >}}Crowdsourcing and prize competitions can take many forms, which makes them a great open innovation tool. A large group of federal agencies and other partners has launched a competition that also involves a secondary crowdsourcing element.

@@ -10,7 +10,7 @@ topics:
   - video
   - NRC
   - Nuclear Regulatory Commission
-  - open government
+  - open-government
 ---
 
 [{{< legacy-img src="2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg" alt="A video camera is positioned behind a crowd of people seated at a public meeting or conference." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg) 

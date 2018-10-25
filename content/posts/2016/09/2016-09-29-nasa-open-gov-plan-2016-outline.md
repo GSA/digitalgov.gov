@@ -17,7 +17,7 @@ topics:
   - mobile
   - strategy
   - policy
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - citizen science
   - code
   - data
@@ -26,7 +26,7 @@ topics:
   - nasa
   - open
   - open-data
-  - open government
+  - open-government
 ---
 
 > Here is the outline for our 2016 Open Government Plan. Let us know what you think. We&#8217;ve also posted this on GitHub/NASA for your comments: <a href="https://github.com/nasa/Open-Gov-Plan-v4" target="_blank">https://github.com/nasa/Open-Gov-Plan-v4</a>.

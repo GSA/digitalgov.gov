@@ -6,8 +6,8 @@ summary: ' DigitalGov University has hosted some great events over the last year
 authors:
   - apiazza
 topics:
-  - Monthly Theme
-  - Our Work
+  - monthly-theme
+  - our-work
   - 18f
   - api
   - CFPB

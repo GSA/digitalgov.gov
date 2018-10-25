@@ -7,10 +7,10 @@ authors:
   - apiazza
 topics:
   - challenges
-  - Monthly Theme
+  - monthly-theme
   - CFPB
   - challenge-gov
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
   - Consumer Financial Protection Bureau
   - crowdsourcing

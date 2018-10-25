@@ -9,7 +9,7 @@ topics:
   - code
   - social-media
   - data-gov
-  - open government
+  - open-government
   - open-source
   - Terms of Service
 ---

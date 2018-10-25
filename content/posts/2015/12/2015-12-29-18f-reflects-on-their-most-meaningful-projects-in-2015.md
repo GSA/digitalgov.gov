@@ -6,15 +6,15 @@ summary: 2015 was a big year for 18F. We almost doubled in size, worked with 28 
 authors:
   - melody-kramer
 topics:
-  - Our Work
+  - our-work
   - 18f
   - accessibility
   - analytics-usa-gov
   - api
   - cloud
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
   - DOI
   - Education
   - FEC

@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - government contact centers
   - podcast
   - usa.gov

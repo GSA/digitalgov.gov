@@ -14,10 +14,10 @@ topics:
   - dhs
   - DOL
   - DOT
-  - EPA
+  - epa
   - FAA
   - FCC
-  - FDA
+  - fda
   - Federal Aviation Administration
   - Federal Communications Commission
   - First Responders Network
@@ -29,18 +29,18 @@ topics:
   - LOC
   - nasa
   - National Defense University
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Library of Medicine
   - Navy Army Community Credit Union
   - NDU
-  - NIH
+  - nih
   - NLM
   - NPS
   - ODNI
   - Office of Management and Budget
   - Office of the Director of National Intelligence
   - OMB
-  - open government
+  - open-government
   - OSTP
   - Peace Corps
   - SBA
@@ -49,8 +49,8 @@ topics:
   - US Department of Education
   - US Department of Labor
   - US Department of State
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - US Global Change Research Program
   - US National Park Service
   - US Small Business Administration

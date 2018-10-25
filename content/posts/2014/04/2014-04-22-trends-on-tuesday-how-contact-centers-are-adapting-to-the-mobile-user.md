@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - mobile
-  - Monthly Theme
+  - monthly-theme
   - strategy
   - policy
   - AoI

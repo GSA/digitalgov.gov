@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - data
-  - Our Work
+  - our-work
   - customer-experience
   - DigitalGov Search
   - GitHub

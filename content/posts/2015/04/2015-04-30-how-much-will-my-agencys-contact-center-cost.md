@@ -7,9 +7,9 @@ authors:
   - tonya-beres
 topics:
   - managing-digital
-  - Monthly Theme
+  - monthly-theme
   - customer-experience
-  - customer service
+  - customer-service
   - Government Contact Center Council
   - government contact centers
 ---
