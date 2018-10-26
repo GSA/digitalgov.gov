@@ -1,0 +1,36 @@
+{{- partial "set-env.html" . -}}
+{{ $promos := .Site.GetPage "page" "promo" }}
+{{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" ">=" 1 }}
+{{ $promos_count := len $promos }}
+{{ with $promos }}
+{
+  "version" : "https://jsonfeed.org/version/1",
+  "title" : "Topics | {{- $.Site.Title -}}",
+  "home_page_url" : "{{- $.Site.BaseURL -}}",
+  "count" : "{{- $promos_count -}}",
+  "items" : [
+  {{ range $index, $element := . }}
+    {
+      {{- if (isset .Params "head") -}}
+      "head" : "{{- .Params.head -}}",
+      {{- end -}}
+      {{- if (isset .Params "summary") -}}
+      "summary" : "{{- .Params.summary -}}",
+      {{- end -}}
+      {{- if (isset .Params "src") -}}
+      "src" : "{{- .Params.src -}}",
+      {{- end -}}
+      {{- if (isset .Params "icon") -}}
+      "icon" : "{{- .Params.icon -}}",
+      {{- end -}}
+      {{- if (isset .Params "weight") -}}
+      "weight" : "{{- .Params.weight -}}"
+      {{- end -}}
+    }
+    {{- $.Scratch.Add "i" 1 -}}
+    {{- $iterator := $.Scratch.Get "i" -}}
+    {{- if not (eq $promos_count $iterator) -}}, {{- end -}}
+  {{- end -}}
+  ]
+}
+{{- end -}}
