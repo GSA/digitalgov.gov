@@ -280,6 +280,8 @@ dos:
   display_name: "DOS"
 dot:
   display_name: "DOT"
+dotgov:
+  display_name: "DotGov"
 draft-web-design-standards:
   display_name: "Draft Web Design Standards"
 drupal:
@@ -403,7 +405,7 @@ gao:
 github:
   display_name: "Github"
 gobiernousagov:
-  display_name: "Gobiernousagov"
+  display_name: "Gobiernousa.gov"
 google-analytics:
   display_name: "Google Analytics"
 go-usa-gov:
@@ -533,11 +535,11 @@ mobile-first:
 mobile-friendly:
   display_name: "Mobile Friendly"
 mobile-gov:
-  display_name: "Mobile Gov"
+  display_name: "MobileGov"
 mobile-gov-community-of-practice:
-  display_name: "Mobile Gov Community Of Practice"
+  display_name: "MobileGov Community Of Practice"
 mobile-gov-experience:
-  display_name: "Mobile Gov Experience"
+  display_name: "MobileGov Experience"
 mobile-testing:
   display_name: "Mobile Testing"
 mobile-user-experience-guidelines:
@@ -555,7 +557,7 @@ mobile-ux-guideline-5:
 mobile-ux-guideline-6:
   display_name: "Mobile UX Guideline 6"
 mobilegov:
-  display_name: "Mobilegov"
+  display_name: "MobileGov"
 modernization-and-migration-management-framework:
   display_name: "Modernization And Migration Management Framework"
 multilingual:
@@ -859,7 +861,7 @@ seo:
 sites:
   display_name: "Sites"
 sitesusagov:
-  display_name: "Sitesusagov"
+  display_name: "Sites.usa.gov"
 skills:
   display_name: "Skills"
 small-business-innovation-research:
@@ -881,9 +883,9 @@ social-media:
 social-media-metrics:
   display_name: "Social Media Metrics"
 socialgov:
-  display_name: "Socialgov"
+  display_name: "SocialGov"
 socialgov-community:
-  display_name: "Socialgov Community"
+  display_name: "SocialGov Community"
 sprint:
   display_name: "Sprint"
 ssa:
@@ -1045,7 +1047,7 @@ usability-starter-kit:
 usability-testing:
   display_name: "Usability Testing"
 usagov:
-  display_name: "UsaGov"
+  display_name: "USAGov"
 usaid:
   display_name: "USAID"
 usajobs:
