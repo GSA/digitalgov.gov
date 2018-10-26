@@ -13,7 +13,6 @@ tag:
   - dotgov
   - national-cyber-security-awareness-month
   - security
-  - 
 featured_image: 
   uid: old-new-dotgov-logos
   alt: 'DotGov logos, past and present&#46;'
