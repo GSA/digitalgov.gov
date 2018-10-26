@@ -39,7 +39,7 @@ analytics-usa-gov:
 animal-and-plant-health-inspection-service:
   display_name: "Animal and Plant Health Inspection Service"
 anle:
-  display_name: "Anle"
+  display_name: "ANLE"
 aoi:
   display_name: "AOI"
 api:
@@ -379,7 +379,7 @@ first-responder-network-authority:
 first-responders-network:
   display_name: "First Responders Network"
 firstnet:
-  display_name: "Firstnet"
+  display_name: "FirstNet"
 fitara:
   display_name: "FITARA"
 foia:
