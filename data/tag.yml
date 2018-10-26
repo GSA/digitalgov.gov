@@ -1063,7 +1063,7 @@ user-centered-design:
 user-experience:
   display_name: "User Experience"
 user-experience-community-of-practice:
-  display_name: "User Experience Community Of Practice"
+  display_name: "User Experience Community of Practice"
 user-generated-content:
   display_name: "User Generated Content"
 user-research:
@@ -1085,7 +1085,7 @@ ux:
 va:
   display_name: "VA"
 va-center-for-innovation:
-  display_name: "VA Center For Innovation"
+  display_name: "VA Center for Innovation"
 vaci:
   display_name: "VACI"
 veterans-health-administration:
@@ -1103,17 +1103,17 @@ virtual-augmented-reality-community:
 voice:
   display_name: "Voice"
 web-based:
-  display_name: "Web Based"
+  display_name: "Web-based"
 web-content-managers-forum:
   display_name: "Web Content Managers Forum"
 webinar:
   display_name: "Webinar"
 wednesday-api-briefing:
-  display_name: "Wednesday Api Briefing"
+  display_name: "Wednesday API Briefing"
 white-house:
   display_name: "White House"
 white-house-office-of-science-and-technology-policy:
-  display_name: "White House Office Of Science And Technology Policy"
+  display_name: "White House Office of Science and Technology Policy"
 wireless:
   display_name: "Wireless"
 work-in-progress:
@@ -1125,6 +1125,6 @@ world-bank:
 yelp:
   display_name: "Yelp"
 youtube:
-  display_name: "Youtube"
+  display_name: "YouTube"
 zero-ui:
   display_name: "Zero UI"
