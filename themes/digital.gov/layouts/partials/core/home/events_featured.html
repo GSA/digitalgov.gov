@@ -12,7 +12,7 @@
     </div>
 
     <div class="grid-row grid-gap-2">
-      <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+      <div class="grid-col-12 tablet:grid-col-9">
         <section>
           {{- $events := (where .Data.Pages "Section" "events").Reverse -}}
           {{- range $events -}}
@@ -22,7 +22,7 @@
 
             {{- if or (ge $start $now) (ge $end $now)}}
             <article class="featured_event promo" data-edit-this="{{- .File.Path -}}">
-              <div class="grid-row grid-gap-2">
+              <div class="grid-row grid-gap-3">
                 <div class="grid-col-2">
                   <div class="date">
                     <span class="month">{{- .Date.Format "Jan" -}}</span>
