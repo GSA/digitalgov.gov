@@ -35,8 +35,21 @@
             <h1>{{ .Title }}</h1>
 
           </header>
-          {{ range .Paginator.Pages }}
 
+          {{ $resources := (where .Pages "Section" "resources") }}
+          {{ if $resources }}
+          <section class="resources">
+            <h4>Key Resources</h4>
+            <ul>
+              {{ range $resources }}
+                <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
+              {{ end }}
+            </ul>
+          </section>
+          {{ end }}
+
+          {{ $posts := (where .Paginator.Pages "Section" "posts") }}
+          {{ range $posts }}
           <article>
             <div class="grid-row grid-gap-3">
               <div class="grid-col-3">

@@ -32,7 +32,8 @@
             <h1>{{ .Title }}</h1>
 
           </header>
-          {{ range .Paginator.Pages }}
+          {{ $paginator := .Paginate (where .Pages "Type" "post") }}
+          {{ range $paginator.Pages }}
 
           <article>
             <div class="grid-row grid-gap-3">

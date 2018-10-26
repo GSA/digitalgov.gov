@@ -65,6 +65,19 @@ nav.topics-featured{
       @include u-font('sans', 'lg');
     }
   }
+
+  .resources{
+    @include u-bg('indigo-5');
+    @include u-margin-bottom(3);
+    @include u-padding(2);
+    h4{
+      @include u-margin(0);
+    }
+    ul{
+      @include u-list-reset;
+    }
+  }
+
   article{
     @include u-margin(0);
     @include u-padding-y(2);
