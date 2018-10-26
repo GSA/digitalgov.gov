@@ -403,9 +403,9 @@ gamification:
 gao:
   display_name: "GAO"
 github:
-  display_name: "Github"
+  display_name: "GitHub"
 gobiernousagov:
-  display_name: "Gobiernousa.gov"
+  display_name: "GobiernoUSA.gov"
 google-analytics:
   display_name: "Google Analytics"
 go-usa-gov:
@@ -1037,7 +1037,7 @@ us-web-design-standards:
 usa-gov:
   display_name: "usa.gov"
 usa-gov-federal-mobile-apps-directory:
-  display_name: "usa.gov Federal Mobile Apps Directory"
+  display_name: "USA.gov Federal Mobile Apps Directory"
 usability:
   display_name: "Usability"
 usability-case-study:
@@ -1063,7 +1063,7 @@ user-centered-design:
 user-experience:
   display_name: "User Experience"
 user-experience-community-of-practice:
-  display_name: "User Experience Community Of Practice"
+  display_name: "User Experience Community of Practice"
 user-generated-content:
   display_name: "User Generated Content"
 user-research:
@@ -1085,7 +1085,7 @@ ux:
 va:
   display_name: "VA"
 va-center-for-innovation:
-  display_name: "VA Center For Innovation"
+  display_name: "VA Center for Innovation"
 vaci:
   display_name: "VACI"
 veterans-health-administration:
@@ -1103,7 +1103,7 @@ virtual-augmented-reality-community:
 voice:
   display_name: "Voice"
 web-based:
-  display_name: "Web Based"
+  display_name: "Web-based"
 web-content-managers-forum:
   display_name: "Web Content Managers Forum"
 webinar:
@@ -1125,6 +1125,6 @@ world-bank:
 yelp:
   display_name: "Yelp"
 youtube:
-  display_name: "Youtube"
+  display_name: "YouTube"
 zero-ui:
   display_name: "Zero UI"
