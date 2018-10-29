@@ -13,8 +13,10 @@
 
     <div class="grid-row">
 
-      {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
-      {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
+      {{ $training := where .Site.RegularPages.ByWeight  "Section" "events" }}
+      {{ $training := $training | intersect (where $training "Date" "<" now) | first 3 }}
+      {{/* {{ $events := where .Site.RegularPages.ByDate "Section" "events" }} */}}
+      {{ range $training }}
         {{ if .Params.youtube_id }}
           <div class="grid-col-2">
             <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>

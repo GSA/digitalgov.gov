@@ -16,6 +16,7 @@ event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-an-introduction-to-the-basics-registration-42564530657
 youtube_id: ph-ixyzCVbc
+weight: 3
 aliases:
   - /event/dap-learning-series-an-introduction-basics/
 ---
