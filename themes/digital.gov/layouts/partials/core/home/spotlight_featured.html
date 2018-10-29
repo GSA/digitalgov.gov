@@ -23,7 +23,7 @@
       <div class="grid-col-12 tablet-lg:grid-col-7">
         <section>
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
-          {{- range first 10 $posts -}}
+          {{- range first 8 $posts -}}
             {{- if .Params.source -}}
               {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
             {{- end -}}
