@@ -7,6 +7,11 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
+topics:
+  - a-b-testing
+  - analytics
+  - cfpb
+  - dap
 date: 2018-11-07 14:00:00 -0500
 end_date: 2018-11-07 15:00:00 -0500
 event_organizer: DigitalGov University
