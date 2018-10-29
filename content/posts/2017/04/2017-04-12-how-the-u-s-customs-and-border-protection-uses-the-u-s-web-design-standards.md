@@ -16,7 +16,7 @@ topics:
   - responsive-web-design
   - US Customs and Border Protection
   - united-states-department-of-homeland-security
-  - US Web Design Standards
+  - uswds
   - user-experience
   - ux
 ---

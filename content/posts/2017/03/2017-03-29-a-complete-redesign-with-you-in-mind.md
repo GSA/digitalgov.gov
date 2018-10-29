@@ -16,7 +16,7 @@ topics:
   - mobile
   - mobile-friendly
   - US Department of Agriculture
-  - US Web Design Standards
+  - uswds
   - USDA
   - user-experience
   - ux

@@ -12,7 +12,7 @@ topics:
   - github
   - open-source
   - responsive-web-design
-  - us-web-design-standards
+  - uswds
   - user-centered-design
 ---
 

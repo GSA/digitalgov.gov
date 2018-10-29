@@ -21,7 +21,7 @@ topics:
   - GitHub
   - Plain language
   - responsive-web-design
-  - US Web Design Standards
+  - uswds
   - user-centered-design
   - user-experience
   - ux

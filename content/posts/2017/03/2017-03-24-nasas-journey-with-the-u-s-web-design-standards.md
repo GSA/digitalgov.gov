@@ -22,7 +22,7 @@ topics:
   - responsive-web-design
   - section-508
   - training
-  - US Web Design Standards
+  - uswds
   - user research
   - webinar
 ---

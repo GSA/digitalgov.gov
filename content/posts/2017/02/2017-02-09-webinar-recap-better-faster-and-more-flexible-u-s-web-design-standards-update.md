@@ -11,7 +11,7 @@ topics:
   - managing-digital
   - ux
   - Recaps
-  - US Web Design Standards
+  - uswds
 ---
 
 ## The Road to Launch Version 1.0

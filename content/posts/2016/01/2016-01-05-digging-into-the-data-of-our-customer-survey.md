@@ -15,7 +15,7 @@ topics:
   - Open Opportunities program
   - SocialGov
   - user-experience
-  - Web Content Managers Forum
+  - web-content-managers-forum
 ---
 
 As a followup to the [recent post about our annual customer satisfaction survey]({{< link "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}}), we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services. {{< legacy-img src="2015/05/600-x-362-Satisfied-Customer-Concept-olm26250-iStock-Thinkstock-454049039.jpg" alt="The question, Are you satisfied? appears on a console above 3 rating buttons; 1 star to indicate not satisfied, 2 stars to indicate somewhat satisfied, and 3 stars, which has been selected, to indicate very satisfied." caption="" >}} 

@@ -17,7 +17,7 @@ topics:
   - content
   - mobile-friendly
   - US Department of Agriculture
-  - US Web Design Standards
+  - uswds
   - USDA
 ---
 

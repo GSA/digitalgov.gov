@@ -14,7 +14,7 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1
   - mobile-ux-guideline-4
-  - Web Content Managers Forum
+  - web-content-managers-forum
 ---
 
 {{< legacy-img src="2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="250 x 244 GSA Mobile Site Slider" >}}You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them.
