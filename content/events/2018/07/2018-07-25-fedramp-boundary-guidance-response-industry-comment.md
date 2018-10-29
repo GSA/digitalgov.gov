@@ -7,6 +7,8 @@ featured_image:
   alt: ''
 event_type: 
   - youtube-live
+topics:
+  - fedramp
 date: 2018-07-25 15:00:00 -0500
 end_date: 2018-07-25 16:00:00 -0500
 event_organizer: DigitalGov University
