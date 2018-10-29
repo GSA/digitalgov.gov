@@ -8,6 +8,8 @@ featured_image:
 event_type:
   - online
   - in-person
+topics:
+  - api
 date: 2018-10-24 15:00:00 -0500
 end_date: 2018-10-24 16:30:00 -0500
 event_organizer: DigitalGov University
