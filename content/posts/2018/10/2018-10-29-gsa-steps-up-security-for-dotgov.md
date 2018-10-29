@@ -19,6 +19,7 @@ featured_image:
 
 ---
 
+
 The General Services Administration’s (GSA) [DotGov Program](https://home.dotgov.gov/about/) manages the .gov top-level domain (TLD) for the U.S. government. Like .com or .org, the .gov TLD serves a defined community of interest – but unlike other TLDs, .gov is only available to bona fide U.S.-based government organizations.
 
 These government organizations increasingly deliver services and information digitally, and using a .gov domain signals to users that the government website they’re visiting, or the email they’ve received from a .gov email address, is legitimate. Indeed, one of the primary reasons .gov exists is to help the public easily identify government services on the internet.
