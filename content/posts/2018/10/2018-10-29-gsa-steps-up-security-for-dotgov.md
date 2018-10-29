@@ -15,7 +15,8 @@ tag:
   - security
 featured_image: 
   uid: old-new-dotgov-logos
-  alt: 'DotGov logos, past and present&#46;'
+  alt: 'The new DotGov logo has the .gov top-level domain text in light blue on a dark blue background.'
+  
 ---
 
 The General Services Administration’s (GSA) [DotGov Program](https://home.dotgov.gov/about/) manages the .gov top-level domain (TLD) for the U.S. government. Like .com or .org, the .gov TLD serves a defined community of interest – but unlike other TLDs, .gov is only available to bona fide U.S.-based government organizations. 
@@ -25,6 +26,10 @@ These government organizations increasingly deliver services and information dig
 Because .gov domains are intertwined with access to government services, that makes the TLD _critical infrastructure_ for governments, citizens, and international internet users. Everyone who uses online U.S. government services is indirectly but materially affected by the security enhancements DotGov implements. 
 
 We want .gov to remain a trusted and secure space for all users, so over the last year we’ve focused on increasing trust and safety in our ecosystem. For [National Cybersecurity Awareness Month](https://www.dhs.gov/national-cyber-security-awareness-month), we wanted to highlight some of these accomplishments. 
+
+IMAGE
+alt text: The new DotGov logo has the .gov top-level domain text in light blue on a dark blue background. 
+caption: The new DotGov logo.
 
 ## Strengthening Password Security 
 
