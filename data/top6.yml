@@ -28,6 +28,8 @@
 
 
 top6:
+  - file          : '2018-10-29-gsa-steps-up-security-for-dotgov.md'
+    type          : 'post'
 
   - file          : '2018-09-26-office-educational-technology-hold-design-challenge-supporting-data-reporting-requirements.md'
     type          : 'post'
@@ -46,6 +48,3 @@ top6:
     type          : 'video'
     title         : 'Getting Started with USWDS 2.0'
     summary       : 'U.S. Web Design System team shows you how to get started with USWDS 2.0: how to set up project colors, fonts, and more.'
-
-  - file          : '2018-08-30-collaborating-for-better-design-technology-user-experience.md'
-    type          : 'post'
