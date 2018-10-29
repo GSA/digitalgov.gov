@@ -14,7 +14,7 @@ tag:
   - national-cyber-security-awareness-month
   - security
 featured_image:
-  uid: dotgov
+  uid: dotgov-card
   alt: 'The new DotGov logo has the .gov top-level domain text in light blue on a dark blue background.'
 
 ---
