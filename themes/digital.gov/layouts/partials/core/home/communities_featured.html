@@ -2,13 +2,13 @@
 <section id="communities">
   <div class="grid-container padding-x-2">
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-7">
+      <div class="grid-col-12 tablet-lg:grid-col-7">
         <header>
           <p><strong>Over 11,000 people</strong> are collaborating across government in our communities of practice.</p>
           <a href="{{ "/communities" | absURL }}" title="Join a community">Join a community</a>
         </header>
       </div>
-      <div class="grid-col-5">
+      <div class="grid-col-12 tablet-lg:grid-col-5">
         {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
         {{ $communities := shuffle $communities }}
         {{ range $i, $e := first 2 $communities }}
