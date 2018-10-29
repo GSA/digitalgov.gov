@@ -21,7 +21,7 @@ youtube_id: 2ghbR-PHYOU
 
 A video walkthrough + Q&A for Cloud Service Providers interested in learning more about [the recent updates](https://www.fedramp.gov/find-resources-easier-with-new-updates-to-fedrampgov/) to [fedramp.gov](https://fedramp.gov) and the resources available to help CSPs through the FedRAMP authorization process.
 
-## What we’ll cover
+## What we will cover
 
 In this talk, we'll review the new pages that've been added to the FedRAMP website and the resources that have been consolidated on each page. Additionally, the FedRAMP PMO will answer any questions you have on the update.
 
