@@ -6,7 +6,7 @@ summary: The Office of Information Policy (OIP) is pleased to announce two new t
 authors:
   - office-of-information-policy-doj
 topics:
-  - Governance
+  - governance
   - managing-digital
   - strategy
   - policy

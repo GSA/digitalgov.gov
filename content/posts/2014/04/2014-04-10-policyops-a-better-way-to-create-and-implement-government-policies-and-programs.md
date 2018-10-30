@@ -6,7 +6,7 @@ summary: '&ldquo;PolicyOps&rdquo; is a better way to create and implement govern
 authors:
   - bbrantley
 topics:
-  - Governance
+  - governance
   - managing-digital
   - analytics
   - data

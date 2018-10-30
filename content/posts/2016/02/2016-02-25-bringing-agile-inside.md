@@ -6,7 +6,7 @@ summary: 'We hear a lot about agile software development being used in work with
 authors:
   - ktrebon
 topics:
-  - Governance
+  - governance
   - strategy
   - policy
   - user-testing-and-research

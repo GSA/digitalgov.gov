@@ -5,7 +5,7 @@ title: USDA App Helps ID Your Potpourri
 summary: 'Got a thing for dried botanicals? (No, not THOSE &#8230; but the stuff of fragrant sachets, decorative wreaths and glass jars filled with heavenly scents?) Before you discard your old potpourri or put some within reach of pets and children, you&#8217;ll want to take a look at'
 topics:
   - mobile
-  - Animal and Plant Health Inspection Service
+  - animal-and-plant-health-inspection-service
   - mobile-apps
   - thursday-mobile-products
   - US Department of Agriculture
@@ -35,8 +35,4 @@ If you need to go further into the weeds about plant threats and pests, USDA APH
   * [Federal Noxious Weeds Key](https://itunes.apple.com/us/app/federal-noxious-weeds-key/id819013797?mt=8): Identifies non-native species of weeds that could become invasive.
 
 You can access the full menu of USDA ID apps on [ID Tools](http://idtools.org/) by selecting for &#8220;app&#8221; under the drop down menu._Get your investigative green thumb on: Download these (and more) great government mobile apps from the [USA.gov Apps Gallery](http://apps.usa.gov/)._
-__ 
-
- 
-
- 
+__

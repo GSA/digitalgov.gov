@@ -6,7 +6,7 @@ summary: 'The world is getting smaller all the time for those who deal with issu
 authors:
   - darlene-meskell
 topics:
-  - Governance
+  - governance
   - data-gov
 ---
 

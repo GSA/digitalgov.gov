@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - data
-  - Governance
+  - governance
   - managing-digital
   - social-media
   - 18f

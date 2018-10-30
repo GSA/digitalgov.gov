@@ -7,7 +7,7 @@ authors:
   - lloyd-whitman
   - lisa-friedersdorf
 topics:
-  - Governance
+  - governance
   - managing-digital
   - strategy
   - policy

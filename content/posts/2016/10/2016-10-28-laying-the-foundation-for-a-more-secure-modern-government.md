@@ -7,7 +7,7 @@ authors:
   - tony-scott
 topics:
   - data
-  - Governance
+  - governance
   - managing-digital
   - strategy
   - policy

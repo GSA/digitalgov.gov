@@ -12,7 +12,7 @@ topics:
   - content
   - crowdsourcing-and-citizen-science
   - data
-  - Governance
+  - governance
   - managing-digital
   - mobile
   - strategy

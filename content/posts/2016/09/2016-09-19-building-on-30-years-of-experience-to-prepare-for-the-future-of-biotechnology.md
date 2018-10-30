@@ -10,7 +10,7 @@ authors:
   - melissa-goldstein
   - james-kim
 topics:
-  - Governance
+  - governance
   - strategy
   - policy
   - epa

@@ -6,7 +6,7 @@ summary: 'Russell Reynolds Associates, the senior-level executive search firm, s
 authors:
   - mike-kruger
 topics:
-  - Governance
+  - governance
   - managing-digital
   - american-red-cross
   - api

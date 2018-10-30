@@ -13,7 +13,7 @@ topics:
   - content
   - data
   - design
-  - Governance
+  - governance
   - managing-digital
   - metrics
   - mobile

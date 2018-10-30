@@ -6,7 +6,7 @@ summary: 'Summary: The Office of Management and Budget is releasing updated guid
 authors:
   - marc-groman
 topics:
-  - Governance
+  - governance
   - strategy
   - policy
   - Office of Management and Budget

@@ -6,7 +6,7 @@ summary: 'Yesterday marked three months since the release of the Digital Governm
 authors:
   - apiazza
 topics:
-  - Governance
+  - governance
   - managing-digital
   - analytics
   - National Institute of Standards and Technology

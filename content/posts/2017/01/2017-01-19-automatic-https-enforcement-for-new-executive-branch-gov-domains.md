@@ -7,7 +7,7 @@ authors:
   - eric-mill
   - marina-fox
 topics:
-  - Governance
+  - governance
   - managing-digital
   - strategy
   - policy

@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - data
-  - Governance
+  - governance
   - managing-digital
   - strategy
   - policy

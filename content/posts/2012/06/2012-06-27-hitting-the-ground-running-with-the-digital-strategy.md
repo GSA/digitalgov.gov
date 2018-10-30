@@ -6,7 +6,7 @@ summary: 'Last month, the Obama Administration launched the Digital Government S
 authors:
   - steven-vanroekel
 topics:
-  - Governance
+  - governance
   - managing-digital
   - our-work
   - white-house

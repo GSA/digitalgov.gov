@@ -6,7 +6,7 @@ summary: 'Many forces are converging to strengthen the political, economic and c
 authors:
   - darlene-meskell
 topics:
-  - Governance
+  - governance
   - monthly-theme
   - strategy
   - policy

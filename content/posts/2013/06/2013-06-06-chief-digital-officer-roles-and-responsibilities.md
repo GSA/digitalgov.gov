@@ -6,7 +6,7 @@ summary: 'In my previous blog post, I asked if your agency needs a Chief Digital
 authors:
   - mike-kruger
 topics:
-  - Governance
+  - governance
   - managing-digital
   - api
   - Department of Commerce

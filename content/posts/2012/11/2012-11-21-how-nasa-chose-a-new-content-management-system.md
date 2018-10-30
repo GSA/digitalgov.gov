@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - content
-  - Governance
+  - governance
   - strategy
   - policy
   - CMS

@@ -6,7 +6,7 @@ summary: 'To help agencies produce better decision-making across the organizatio
 authors:
   - jparcell
 topics:
-  - Governance
+  - governance
   - GSA
   - US Department of Education
   - US Department of Veterans Affairs

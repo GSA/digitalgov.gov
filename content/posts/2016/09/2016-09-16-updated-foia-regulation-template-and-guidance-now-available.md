@@ -6,7 +6,7 @@ summary: 'On September 7th, the Office of Information Policy (OIP) released an u
 authors:
   - office-of-information-policy
 topics:
-  - Governance
+  - governance
   - strategy
   - policy
   - DOJ

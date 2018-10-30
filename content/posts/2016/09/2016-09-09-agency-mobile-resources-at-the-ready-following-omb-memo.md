@@ -6,7 +6,7 @@ summary: 'Note: This is a guest blog post by Amando E. Gavino, Jr., Director, Of
 authors:
   - amando-e-gavino-jr
 topics:
-  - Governance
+  - governance
   - managing-digital
   - mobile
   - strategy

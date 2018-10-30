@@ -6,7 +6,7 @@ summary: The CIO Council recently published an IT Policy Library database in ord
 authors:
   - kdaniel
 topics:
-  - Governance
+  - governance
   - strategy
   - policy
   - CIO Council

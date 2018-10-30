@@ -6,7 +6,7 @@ summary: 'Are you involved in a collaborative project where you need to share in
 authors:
   - donna-canestraro
 topics:
-  - Governance
+  - governance
   - managing-digital
 ---
 

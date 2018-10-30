@@ -6,7 +6,7 @@ summary: 'It seems that everyone these days is talking about &ldquo;governance.&
 authors:
   - robert-jacoby
 topics:
-  - Governance
+  - governance
   - managing-digital
   - strategy
   - policy

@@ -6,7 +6,7 @@ summary: 'Are you having trouble getting training or professional development op
 authors:
   - lnelson
 topics:
-  - Governance
+  - governance
   - managing-digital
   - DOL
   - mobile-code-catalog

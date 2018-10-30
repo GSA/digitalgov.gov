@@ -6,7 +6,7 @@ summary: 'The Challenge Much like GSA experienced three years ago, the Managemen
 authors:
   - suzi-connor
 topics:
-  - Governance
+  - governance
   - agile
   - cdc
   - sprint
