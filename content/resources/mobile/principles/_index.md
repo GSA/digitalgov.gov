@@ -1,7 +1,7 @@
 ---
 url: /resources/mobile/principles/
 date: 2018-10-09 12:30:00 -0500
-title: 'The Principles of Mobile-Friendliness'
+title: 'The Eight Principles of Mobile-Friendliness'
 summary: 'TKTK'
 type: guide
 
