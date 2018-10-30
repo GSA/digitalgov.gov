@@ -9,7 +9,8 @@ authors:
 topics:
   - data
   - mobile
-  - 'Strategy and Policy'
+  - strategy
+  - policy
   - best practices
   - infrastructure
   - Internet of things
