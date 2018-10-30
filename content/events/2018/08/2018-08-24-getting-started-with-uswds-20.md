@@ -8,6 +8,9 @@ featured_image:
 event_type:
   - online
   - zoom
+topics:
+  - design
+  - uswds
 date: 2018-08-24 13:00:00 -0500
 end_date: 2018-08-24 13:30:00 -0500
 event_organizer: digital.gov
