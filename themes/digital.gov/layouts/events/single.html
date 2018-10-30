@@ -1,56 +1,48 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "tribe_events-template-default single single-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-single tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive tribe-mobile" }}
-
-{{ end }}
-
 {{ define "content" }}
+{{/* This sets $future_event to true or false */}}
+{{ $future_event := (time .Params.end_date).After now }}
 
-{{ partial "event-venue--inPerson.html" . }}
+<main role="main">
+  <article>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
+          <h1>{{ .Title | markdownify }}</h1>
 
-<div class="entry event">
-  <div class="event-head">
-    <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
-    <h1>{{ .Title | markdownify }}</h1>
-    <div class="event-details">
+          {{/* If is a Future Event */}}
+          {{ if eq $future_event true }}
 
-      <span class="event-date">
-        {{ with .Date }}
-        {{ . | dateFormat "Monday, January 02, 2006" }}
-        {{ end }}
-        <span>
-          {{ with .Date }}
-          {{ . | dateFormat "3:04 PM" }}
-          {{ end }} –
-          {{ with .Params.end_date }}
-          {{ . | dateFormat "3:04 PM ET" }}
+hi
+            <!-- If event_type == "online" -->
+            {{ if (isset .Params "youtube_id") }}
+            <section class="video-box">
+              <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
+            </section>
+            {{ end }}
+
           {{ end }}
-        </span>
-      </span>
 
-      {{ partial "event-type.html" . }}
+          {{/* If is NOT a Future Event (Past event) */}}
+          {{ if eq $future_event false }}
+            <!-- If event_type == "online" -->
+            {{ if (isset .Params "youtube_id") }}
+            <section class="video-box">
+              <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
+            </section>
+            {{ end }}
 
+          {{ end }}
+
+          <div class="content">
+            {{ .Content }}
+          </div>
+
+
+        </div>
+      </div>
     </div>
+  </article>
+</main>
 
-    {{ partial "event-actions.html" . }}
-
-  </div>
-
-  <!-- If event_type == "online" -->
-  {{ if (isset .Params "youtube_id") }}
-    {{ partial "event-stage.html" . }}
-  {{ end }}
-
-
-  <div class="event-content">
-    {{ .Content }}
-  </div>
-
-  {{ if (isset .Params "venue") }}
-    {{ partial "event-location.html" . }}
-  {{ end }}
-
-  {{ partial "post-meta--feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "branch" ($.Scratch.Get "branch")) }}
-  {{ partial "page-details" . }}
-  
-</div>
 {{ end }}
