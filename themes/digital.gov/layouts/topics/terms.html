@@ -17,7 +17,7 @@
 
     {{/* TOPICS / Categories / Tags */}}
     <div class="grid-row">
-      <div class="grid-col-12">
+      <div class="grid-col-6">
         <section>
           <ul class="add-list-reset">
             {{ $topics := (where .Site.Pages "Section" "topics") }}
@@ -25,6 +25,19 @@
               <li>
                 <a href="{{ .Permalink }}" title="{{ $name }}"><span>{{ .Title }}</span></a>
               </li>
+            {{ end }}
+          </ul>
+        </section>
+      </div>
+      <div class="grid-col-6">
+        <section>
+          <ul class="add-list-reset">
+            {{ $topics_tax := $.Site.Taxonomies.topics }}
+            {{ len $topics_tax }}
+            {{ range $name, $taxonomy := $topics_tax }}
+              {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+              {{ end }}
             {{ end }}
           </ul>
         </section>
