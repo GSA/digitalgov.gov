@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - administrative-office-of-the-united-states-courts
   - content-strategy
-  - Office of the U.S. Foreign Assistance Resources
+  - office-of-the-us-foreign-assistance-resources
   - the-content-corner
   - US Department of Education
 ---
