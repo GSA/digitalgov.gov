@@ -3,6 +3,7 @@
 #training_featured{
   @include u-padding-y(5);
   @include u-padding-bottom(6);
+  @include u-bg('indigo-10');
 
   header{
     @include u-margin-bottom(5);
