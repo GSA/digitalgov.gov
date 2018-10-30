@@ -29,17 +29,27 @@
     h3{
       @include u-margin(0);
       @include u-line-height('sans', 3);
+      @include u-font('sans', 'md');
       a{
   			@include u-text('indigo-80');
-  			@include u-text('semibold');
+  			@include u-text('bold');
   			@include u-text('no-underline');
         &:hover{
-          border-bottom: 2px #8889db solid; // $indigo-40
+          border-bottom: 2px #e66f0e solid;
         }
   		}
     }
     .topics{
-      
+      @include u-text('orange-50v');
+      a{
+        // @include u-padding-y('05');
+        // @include u-padding-x(1);
+        @include u-font('sans', '2xs');
+        // @include u-bg('gold-10v');
+        @include u-text('orange-40v');
+        // @include u-radius('md');
+        @include u-text('no-underline');
+      }
     }
   }
 }
