@@ -5,47 +5,71 @@
   @include u-padding-bottom(6);
 
   header{
+    @include u-margin-bottom(5);
     h2{
       @include u-margin(0);
       @include u-margin-bottom(1);
       @include u-font('sans', '3xl');
       @include u-text('thin');
+      @include u-text('center');
       @include u-text('indigo-80');
       @include u-line-height('sans', 2);
     }
     p{
       @include u-font('sans', 'lg');
       @include u-text('indigo-80');
+      @include u-text('center');
     }
   }
 
-
-  .youtube-player{
-    margin: 0;
-    position: relative;
-    padding-bottom: 56.23%;
-    /* Use 75% for 4:3 videos */
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-    background: #000;
-
-    img {
-      bottom: 0;
-      display: block;
-      left: 0;
-      margin: auto;
-      max-width: 100%;
-      width: 100%;
-      position: absolute;
-      right: 0;
-      top: 0;
-      border: none;
-      height: auto;
-      cursor: pointer;
-      -webkit-transition: .4s all;
-      -moz-transition: .4s all;
-      transition: .4s all;
+  section{
+    .youtube-player{
+      @include u-margin-bottom(1);
     }
+    h3{
+      @include u-margin(0);
+      @include u-line-height('sans', 3);
+      a{
+  			@include u-text('indigo-80');
+  			@include u-text('semibold');
+  			@include u-text('no-underline');
+        &:hover{
+          border-bottom: 2px #8889db solid; // $indigo-40
+        }
+  		}
+    }
+    .topics{
+      
+    }
+  }
+}
+
+
+.youtube-player{
+  margin: 0;
+  position: relative;
+  padding-bottom: 56.23%;
+  /* Use 75% for 4:3 videos */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #000;
+
+  img {
+    bottom: 0;
+    display: block;
+    left: 0;
+    margin: auto;
+    max-width: 100%;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    height: auto;
+    cursor: pointer;
+    -webkit-transition: .4s all;
+    -moz-transition: .4s all;
+    transition: .4s all;
   }
 }

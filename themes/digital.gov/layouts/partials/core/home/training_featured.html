@@ -11,19 +11,23 @@
       </div>
     </div>
 
-    <div class="grid-row grid-gap-2">
+    <section>
+    <div class="grid-row grid-gap-3">
 
       {{ $training := where .Site.RegularPages.ByWeight  "Section" "events" }}
-      {{ $training := $training | intersect (where $training "Date" "<" now) | first 3 }}
+      {{ $training := $training | intersect (where $training "Date" "<" now) | first 4 }}
       {{/* {{ $events := where .Site.RegularPages.ByDate "Section" "events" }} */}}
-      {{ range $training }}
-        {{ if .Params.youtube_id }}
-          <div class="grid-col-12 tablet-lg:grid-col-4">
-            <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
-          </div>
+
+        {{ range $training }}
+          {{ if .Params.youtube_id }}
+            <div class="grid-col-12 tablet-lg:grid-col-3">
+              <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
+              <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
+            </div>
+          {{ end }}
         {{ end }}
-      {{ end }}
 
     </div>
+    </section>
   </div>
 </section>

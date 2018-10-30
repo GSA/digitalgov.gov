@@ -1,0 +1,42 @@
+{{ define "content" }}
+
+<main role="main" id="training">
+
+  <section>
+    <div class="grid-container padding-x-2">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <header>
+            <h1>Training</h1>
+          </header>
+        </div>
+      </div>
+
+      <div class="grid-row grid-gap-3">
+        <div class="grid-col-12">
+
+          {{ $training_data := $.Site.Data.training.training }}
+          {{ range $training_data }}
+            <section class="topic">
+              <h2>{{ .topic }}</h2>
+              <p>{{ .summary }}</p>
+              <div class="grid-row grid-gap-1">
+                {{ $videos := .youtube_ids }}
+                {{ range $videos }}
+                  <div class="grid-col-2 tablet:grid-col-3">
+                    <div class="youtube-player" data-id="{{ . }}"></div>
+                  </div>
+                {{ end }}
+
+              </div>
+
+            </section>
+          {{ end }}
+
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+{{ end }} {{/* end 'content' block */}}
