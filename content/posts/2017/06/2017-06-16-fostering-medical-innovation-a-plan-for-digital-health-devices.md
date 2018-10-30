@@ -6,11 +6,11 @@ summary: It is incumbent upon FDA to ensure that we have the right policies in p
 authors:
   - scott-gottlieb-m-d
 topics:
-  - Governance
+  - governance
   - mobile
   - strategy
   - policy
-  - Digital Health Innovation Plan
+  - digital-health-innovation-plan
   - fda
   - HHS
   - innovation
