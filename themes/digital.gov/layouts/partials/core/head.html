@@ -128,6 +128,11 @@
     <!-- {{ getenv "BRANCH" }} | {{ $.Scratch.Get "branch" }} -->
   </script>
 
+  {{ if eq .Section "events" }}
+  {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
+  <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
+  {{ end }}
+
   {{ partial "head--custom-css.html" . }}
 
 </head>
