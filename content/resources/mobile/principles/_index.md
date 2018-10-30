@@ -23,7 +23,7 @@ Building on last year’s results, we are back at it again—but this time we ex
 
 The eight principles are:
 
-1. JavaScript is really cool, when used with care
+1. [**JavaScript is really cool, when used with care**]({{< link "resources/mobile/principles-javascript.md" >}})
 2. The viewport is the window to your site
 3. We navigate mobile sites using our finger, which is bigger than a mouse pointer
 4. Installing additional software to properly view your site should not be necessary
