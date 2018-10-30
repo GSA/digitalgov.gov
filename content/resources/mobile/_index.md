@@ -1,0 +1,33 @@
+---
+url: /resources/mobile/principles/
+date: 2018-10-09 12:30:00 -0500
+title: 'The Principles of Mobile-Friendliness'
+summary: 'TKTK'
+type: guide
+
+---
+
+The [Connected Government Act](https://digital.gov/resources/connected-government-act/), which was signed into law in January 2018, requires new, and redesigned, agency websites to be mobile-friendly. The Connected Government Act also codifies the Policies for [Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (1.2 MB PDF, 18 pages), (M-17-06) which required agencies to create mobile-friendly websites, back in November 2016.
+
+In order to help you comply, we decided it’s time to start reviewing good mobile web development practices. Over the upcoming weeks, we will share 8 Principles of Mobile-Friendliness—and how adhering to these principles can greatly improve your site.
+
+We also need your critical thoughts, and comments, about these principles. Let us know what you’re doing to work toward mobile-friendliness at your agency.
+
+Let’s get started!
+
+## The Principles
+
+In 2017, the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) tested the top federal websites most visited on mobile devices (smartphones and tablets). The results of the automated tests showed us that a few common practices greatly affect the usability of a site on a mobile device. Check out: [A Guide to To Creating Mobile-Friendly Web Sites](https://digital.gov/resources/guide-create-mobile-friendly-websites/).
+
+Building on last year’s results, we are back at it again—but this time we examined the automated testing tools themselves. During this review, we found there are eight principles of mobile-friendliness. And if you follow them, they will make your site more usable and user-friendly.
+
+The eight principles are:
+
+1. JavaScript is really cool, when used with care
+2. The viewport is the window to your site
+3. We navigate mobile sites using our finger, which is bigger than a mouse pointer
+4. Installing additional software to properly view your site should not be necessary
+5. Conserve resources, recycle when possible
+6. The smaller the better, when it comes to page resources!
+7. Properly configure the server and plan for growth
+8. Don’t forget accessibility!
