@@ -15,6 +15,7 @@ tag:
   - US Web Design Standards
   - user experience
   - User Experience Community of Practice
+  - USPTO
   - UX
   - Web Content Managers Forum
 ---
