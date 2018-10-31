@@ -19,4 +19,9 @@ icon: 'dap.png'
 # 1 == will show on the other govt-services page
 # 0 == hidden promo
 weight: 3
+
+topics:
+  - analytics
+  - dap
+
 ---
