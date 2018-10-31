@@ -2,7 +2,7 @@
 {{/* This sets $future_event to true or false */}}
 {{ $future_event := (time .Params.end_date).After now }}
 
-<main role="main">
+<main role="main" class="event">
   <article>
     <div class="grid-container">
 
@@ -20,10 +20,11 @@
       </div>
 
       <div class="grid-row">
-        <div class="grid-col-12">
+        <div class="grid-col-2">
           {{/* Register */}}
-          <a class="btn event_register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
-
+          <a class="btn register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
+        </div>
+        <div class="grid-col-2">
           {{/* Add to Calendar */}}
           {{ $event_startDate := dateFormat "2006-01-02 03:04 PM" (time .Params.date) }}
           {{ $event_endDate := dateFormat "2006-01-02 03:04 PM" (time .Params.end_date) }}
@@ -38,7 +39,8 @@
           {{ $event_description := (print $event_desc $event_url $event_youtube) }}
           {{ $event_location := .Params.venue.venue_name }}
 
-          <span class="addtocalendar btn">
+          <span class="addtocalendar">
+            <a class="atcb-link"><i class="far fa-calendar-plus"></i> Add to Cal</a>
             <var class="atc_event">
               <var class="atc_date_start">{{ $event_startDate }}</var>
               <var class="atc_date_end">{{ $event_endDate }}</var>
@@ -67,26 +69,29 @@
         {{ if eq $future_event true }}
         <section class="stage">
           <div class="grid-row grid-gap-2">
-            <div class="grid-col-12 tablet:grid-col-9">
+            <div class="grid-col-12 tablet:grid-col-8">
               <div class="video-box">
                 <div class="youtube-player">
                   <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
                 </div>
               </div>
             </div>
-            <div class="grid-col-12 tablet:grid-col-3">
+            <div class="grid-col-12 tablet:grid-col-4">
               <div class="chat-box">
-                <iframe allowfullscreen="" height="400px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=digital.gov&output=embed" scrolling="auto"></iframe>
+                <iframe allowfullscreen="" height="357px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=digital.gov&output=embed" scrolling="auto"></iframe>
               </div>
             </div>
           </div>
           <div class="grid-row grid-gap-2">
-            <div class="grid-col-12 tablet:grid-col-9">
+            <div class="grid-col-12 tablet:grid-col-8">
               <div class="event-tools">
                 <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a>
               </div>
             </div>
-            <div class="grid-col-12 tablet:grid-col-3">
+            <div class="grid-col-12 tablet:grid-col-4">
+              <div class="event-tools">
+                <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a>
+              </div>
             </div>
           </div>
         </section>

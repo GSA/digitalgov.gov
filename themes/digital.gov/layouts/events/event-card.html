@@ -7,21 +7,17 @@
       </h3>
 
       <h5><i class="far fa-calendar"></i> {{ dateFormat "Jan 02" .Date }} <span>|</span> {{ dateFormat "3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</h5>
-      
+
       <p>{{ .Params.summary | markdownify }}</p>
 
     </div>
     <div class="grid-col-12 tablet:grid-col-4">
       <div class="grid-row">
         <div class="grid-col-6">
-          <div class="register btn">
-            <a href="#">Register</a>
-          </div>
+          <a class="register btn" href="#">Register</a>
         </div>
         <div class="grid-col-6">
-          <div class="btn">
-            <a href="#">Details</a>
-          </div>
+          <a class="btn" href="#">Details</a>
         </div>
       </div>
     </div>

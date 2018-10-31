@@ -21,112 +21,105 @@
  			@include u-text('light');
  		}
   }
-}
-.event{
-  @include u-margin-bottom(5);
-  h3{
-    @include u-margin(0);
-    @include u-text('bold');
-    @include u-font('sans', 'lg');
-    a{
-      @include u-text('no-underline');
-      @include u-text('indigo-90');
-      &:hover{
-        border-bottom: 3px #656bd7 solid; // $indigo-40
+  .event{
+    @include u-margin-bottom(5);
+    h3{
+      @include u-margin(0);
+      @include u-text('bold');
+      @include u-font('sans', 'lg');
+      a{
+        @include u-text('no-underline');
+        @include u-text('indigo-90');
+        &:hover{
+          border-bottom: 3px #656bd7 solid; // $indigo-40
+        }
       }
     }
-  }
-  h5{
-    @include u-margin(0);
-    @include u-font('sans', 'md');
-    @include u-text('medium');
-    @include u-text('orange-warm-50v');
-    span{
-      @include u-margin-x('05');
+    h5{
+      @include u-margin(0);
+      @include u-font('sans', 'md');
+      @include u-text('medium');
       @include u-text('orange-warm-50v');
+      span{
+        @include u-margin-x('05');
+        @include u-text('orange-warm-50v');
+      }
+    }
+    p{
+      @include u-margin-top(1);
+      @include u-font('sans', 'sm');
+      @include u-text('light');
+      @include u-measure(2);
     }
   }
-  p{
-    @include u-margin-top(1);
-    @include u-font('sans', 'sm');
-    @include u-text('light');
-    @include u-measure(2);
-  }
+}
+.event{
+
   .btn{
     @include u-text('center');
     @include u-font('sans', 'md');
     @include u-text('light');
-    a{
-      @include u-bg('indigo-warm-70');
-      @include u-text('gray-1');
-      @include u-display('block');
-      @include u-padding-y(1);
-      @include u-text('no-underline');
-      &:hover{
-        @include u-bg('indigo-warm-80');
-      }
+    @include u-bg('indigo-warm-70');
+    @include u-text('gray-1');
+    @include u-display('block');
+    @include u-padding-y(1);
+    @include u-text('no-underline');
+    &:hover{
+      @include u-bg('indigo-warm-80');
     }
   }
   .register{
-    a{
-      @include u-bg('indigo-warm-50v');
-      @include u-text('gray-1');
-      @include u-text('uppercase');
-      &:hover{
-        @include u-bg('indigo-warm-60v');
-      }
+    @include u-bg('indigo-warm-50v');
+    @include u-text('gray-1');
+    @include u-text('uppercase');
+    &:hover{
+      @include u-bg('indigo-warm-60v');
     }
   }
-
-  header{
-    h3{
-      @include u-margin(0);
-      @include u-font('sans', 'xs');
-      @include u-line-height('sans', 3);
-      a{
-        @include u-text('no-underline');
-        color: #000;
-        &:hover{
-          border-bottom: 2px #914734 solid; // $indigo-40
+  .addtocalendar{
+    @include u-display('block');
+    var{
+      @include u-display('none');
+    }
+    a{
+      @include u-bg('indigo-80');
+      @include u-display('block');
+      @include u-padding-y(1);
+      @include u-text('gray-1');
+      @include u-text('no-underline');
+      @include u-text('center');
+      @include u-font('sans', 'md');
+      @include u-text('light');
+    }
+    ul{
+    	border: none;
+    	box-shadow: 0 0 5px #AAA;
+      @include u-padding(0);
+      li{
+        @include u-margin(0);
+        @include u-text('indigo-90');
+        background: none;
+      	list-style-type: none;
+        a{
+          @include u-padding-y(1);
+          @include u-padding-x(2);
+        	@include u-text('indigo-80');
+        	@include u-text('normal');
+        	@include u-font('sans', 'xs');
+          @include u-bg('indigo-20');
+          &:hover{
+          	@include u-bg('indigo-50');
+          	@include u-text('gray-1');
+          }
         }
       }
     }
-    p{
-      @include u-margin(0);
-      @include u-font('sans', '2xs');
-    }
   }
-
-}
-
-
-.addtocalendar.btn{
-	background: #2673DF !important;
-}
-.addtocalendar.btn a{
-	color: #fff !important;
-}
-.addtocalendar.btn var{
-	display: none;
-}
-.addtocalendar.btn ul{
-	border: 1px solid rgb(186,186,186);
-	box-shadow: 0 0 5px #AAA;
-	padding: 0;
-}
-.addtocalendar.btn ul li{
-	margin: 0;
-	color: #000 !important;
-	background: none;
-	list-style-type: none;
-}
-.addtocalendar.btn ul li a{
-	padding: .5em 1em;
-	color: #000 !important;
-	font-weight: 500;
-	font-size: 14px;
-}
-.addtocalendar.btn ul li a:hover{
-	background: #2673DF;
-	color: #fff !important;
+  .event-tools{
+    @include u-margin-top('105');
+    @include u-margin-bottom(3);
+    @include u-padding-y(2);
+    @include u-padding-x(1);
+    @include u-bg('gray-warm-5');
+  }
 }
