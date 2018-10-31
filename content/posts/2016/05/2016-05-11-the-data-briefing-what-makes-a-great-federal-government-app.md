@@ -32,7 +32,7 @@ tag:
 
 USAGov recently released a <a href="http://www.prnewswire.com/news-releases/discover-six-of-the-governments-best-mobile-apps-300236300.html" target="_blank">list of six great federal government mobile apps</a>. There were many apps released by the federal government over the last 5-6 years on a wide range of topics and services. Many are well-designed and useful to the American public. So, what are the outstanding federal government apps for 2016?
 
-{{< legacy-img src="2015/05/600-x-530-FEMA-app\_features\_webpage_medium.jpg" alt="Menu items from the FEMA app, which is available for Apple, Android, and Blackberry mobile devices." >}}
+{{< legacy-img src="2015/05/600-x-530-FEMA-app_features_webpage_medium.jpg" alt="Menu items from the FEMA app, which is available for Apple, Android, and Blackberry mobile devices." >}}
 
   1. The Department of State’s <a href="http://www.state.gov/r/pa/ei/rls/dos/165020.htm" target="_blank"><strong>Smart Traveler</strong></a>. First launched in 2011, this mobile app helps international travelers find U.S. embassies, provides travel warnings, and displays basic information on countries.
   2. The Department of Agriculture’s **<a href="http://www.foodsafety.gov/keep/foodkeeperapp/" target="_blank">FoodKeeper</a>**. This mobile app performs a simple but vital service: informing consumers about proper food storage. Users can also use the app to ask experts about food safety.
@@ -48,5 +48,7 @@ First, these apps have a unifying purpose and they fulfill that purpose well. Fo
 Equally important as to having a single, well-defined purpose and knowing the audience is a robustly-designed app. The app must be fast, and it must be stable. The app must also offer a good user experience. Each of these apps offers vital information that can affect a user’s finances or health. Therefore, the app must be dependable and intuitive.
 
 The federal government is continually releasing apps and will offer even more apps in the coming years. Even as the federal government moves into the post-app world of <a href="{{< link "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}">chatbots</a>, having a well-defined purpose, knowing the audience, and providing a good user experience are vital to building great apps and chatbots for the American public. 
+
+*** 
 
 _Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._ 
