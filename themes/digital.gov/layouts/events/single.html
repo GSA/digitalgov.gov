@@ -123,14 +123,24 @@
 
       {{ end }}
 
-      <div class="grid-row">
-        <div class="grid-col-12 tablet:grid-col-8">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12 tablet:grid-col-9">
           <div class="content">
             {{ .Content }}
           </div>
         </div>
-        <div class="grid-col-12 tablet:grid-col-4">
-          
+        <div class="grid-col-12 tablet:grid-col-3">
+          {{/* Related Communities */}}
+          {{- partial "core/get_communities" . -}}
+
+          {{/* Promos */}}
+          {{- partial "core/get_promos" . -}}
+
+          {{/* Topics */}}
+          {{- partial "core/get_topics" . -}}
+
+          {{/* Share Tools */}}
+          {{- partial "core/get_sharetools" . -}}
         </div>
       </div>
 
