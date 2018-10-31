@@ -33,11 +33,12 @@ Three recent stories demonstrate how opening up federal government data and usin
 
 2. The Department of Veterans Affairs (VA) is introducing a new agile development framework to help in building IT applications faster and more effectively. The &#8220;Veteran-focused Integration Process&#8221; (VIP) will use <a href="https://en.wikipedia.org/wiki/Scrum_%28software_development%29" target="_blank">Scrum</a> which is an iterative and agile process to build software applications. According to a <a href="http://www.blogs.va.gov/VAntage/25718/giving-veterans-the-vip-treatment-through-it-development/" target="_blank">VA blog post</a>, VIP will reduce the number of documents and decision processes needed to create the software while security will be introduced earlier into the application building process. 
 
-3. {{< legacy-img-right src="2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Meme: Keep Calm and Open Data over an American flag" >}}The Department of Homeland Security (DHS) released 275 datasets through the <a href="https://hifld-dhs-gii.opendata.arcgis.com/" target="_blank">Homeland Infrastructure Foundation-Level Data Working Group (HIFLD)</a>. These datasets provide valuable mapping information for disaster officials and first responders. It is also hoped innovators can create startups around the DHS data. One example is a mobile app that can display alternative fueling stations for use during emergencies and to help city planners prepare for emergencies.
+3. {{< legacy-img-right src="2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Meme: Keep Calm and Open Data over an American flag" >}}The Department of Homeland Security (DHS) released 275 datasets through the <a href="https://hifld-dhs-gii.opendata.arcgis.com/" target="_blank">Homeland Infrastructure Foundation-Level Data Working Group (HIFLD)</a>. These datasets provide valuable mapping information for disaster officials and first responders. It is also hoped innovators can create startups around the DHS data. One example is a mobile app that can display alternative fueling stations for use during emergencies and to help city planners prepare for emergencies. 
+
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< link "2013-04-30-apis-in-government.md" >}}">APIs in Government</a> for more information._ 
+
 
 *** 
-
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< link "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._ 
 
 _(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
 
