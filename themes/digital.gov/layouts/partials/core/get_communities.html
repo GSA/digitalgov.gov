@@ -44,7 +44,8 @@
 {{ $related_communities := uniq ($.Scratch.Get "related_communities") }}
 
 {{ if $related_communities }}
-
+  {{/* If there are related communities... */}}
+  {{ if gt (len $related_communities) 1 }}
   <section id="related_communities">
 
     <header>
@@ -77,4 +78,5 @@
       <h5><a href="{{ "/communities/" | absURL }}">See all {{ len (where .Site.Pages "Section" "communities") }} communities <i class="fas fa-arrow-alt-circle-right"></i></a></h5>
     </footer>
   </section>
+  {{ end }}
 {{ end }}

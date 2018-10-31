@@ -45,41 +45,43 @@
 {{ $related_promos := uniq ($.Scratch.Get "related_promos") }}
 
 {{ if $related_promos }}
+  {{/* If there are related promos... */}}
+  {{ if gt (len $related_promos) 1 }}
+    <section id="related_promos">
 
-  <section id="related_promos">
+      <header>
+        <h3>Get started Building</h3>
+      </header>
 
-    <header>
-      <h3>Get started Building</h3>
-    </header>
+    {{/* Let's loop through the file names! */}}
+    {{ range $i, $e := $related_promos }}
 
-  {{/* Let's loop through the file names! */}}
-  {{ range $i, $e := $related_promos }}
+      {{/* Identifies the area to look for the file name */}}
+      {{ $headless := $.Site.GetPage "/promo" }}
 
-    {{/* Identifies the area to look for the file name */}}
-    {{ $headless := $.Site.GetPage "/promo" }}
+      {{/* Gathers all the files that match the file name ($e) */}}
+      {{ $reusablePages := $headless.Resources.Match $e }}
 
-    {{/* Gathers all the files that match the file name ($e) */}}
-    {{ $reusablePages := $headless.Resources.Match $e }}
+      {{/* Finally we can loop through all of the promos/files */}}
+      {{ range $reusablePages }}
 
-    {{/* Finally we can loop through all of the promos/files */}}
-    {{ range $reusablePages }}
+        <article class="promo">
+          {{ if .Params.icon }}
+          {{ $src := (print "/img/promos/" .Params.icon) }}
+          <img src="{{ $src | relURL }}" alt="{{ .Params.head }} Logo">
+          {{ end }}
+          <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
+          <p>{{ .Params.summary | markdownify }}</p>
+          <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>
+        </article>
 
-      <article class="promo">
-        {{ if .Params.icon }}
-        {{ $src := (print "/img/promos/" .Params.icon) }}
-        <img src="{{ $src | relURL }}" alt="{{ .Params.head }} Logo">
-        {{ end }}
-        <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
-        <p>{{ .Params.summary | markdownify }}</p>
-        <a href="{{ .Params.src }}?dg" title="{{ .Params.head }}"><span></span></a>
-      </article>
+      {{ end }}
 
     {{ end }}
-
+    <footer>
+      {{ $promos := .Site.GetPage "page" "promo" }}
+      <h5><a href="{{ "/communities/" | absURL }}">See all {{ len ($promos.Resources.ByType "page") }} ways to get started <i class="fas fa-arrow-alt-circle-right"></i></a></h5>
+    </footer>
+    </section>
   {{ end }}
-  <footer>
-    {{ $promos := .Site.GetPage "page" "promo" }}
-    <h5><a href="{{ "/communities/" | absURL }}">See all {{ len ($promos.Resources.ByType "page") }} ways to get started <i class="fas fa-arrow-alt-circle-right"></i></a></h5>
-  </footer>
-  </section>
 {{ end }}
