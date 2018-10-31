@@ -58,6 +58,7 @@
     "vinyl-paths": "^2.1.0"
   },
   "dependencies": {
+    "autoprefixer": "^9.3.1",
     "change-case": "^3.0.1",
     "cssnano": "^3.10.0",
     "gulp-sourcemaps": "^2.6.1",

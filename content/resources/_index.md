@@ -69,6 +69,7 @@ aliases:
 ## Mobile
 
 * [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
+* [Eight Principles of Mobile-Friendliness](https://digital.gov/resources/mobile/principles/)
 * [Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}})
 * [A Guide to Creating Mobile-Friendly Websites](https://digital.gov/resources/guide-create-mobile-friendly-websites/)
 * [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}})
