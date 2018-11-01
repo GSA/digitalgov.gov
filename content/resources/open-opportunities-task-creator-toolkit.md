@@ -3,6 +3,8 @@ url: /resources/open-opportunities-task-creator-toolkit/
 date: 2015-04-24 4:12:33 -0400
 title: Open Opportunities Task Creator Toolkit
 summary: 'Click the image to the right to download your own copy of this chart for reference. Preparation Brainstorm and Review:  10 Tips for Creating the Perfect Task Add Tasks to Open Opps Go to the Open Opps website: openopps.digitalgov.gov/tasks Click &ldquo;+ Opportunity&rdquo; in the upper right hand'
+topics:
+  - open-opportunities-program
 authors:
   - lnelson
 ---
