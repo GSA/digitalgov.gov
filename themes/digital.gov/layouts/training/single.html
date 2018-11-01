@@ -1,0 +1,44 @@
+{{ define "content" }}
+
+<main role="main" id="training">
+
+  <section>
+    <div class="grid-container padding-x-2">
+      {{/* header */}}
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <header>
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}} </h1>
+
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck -}}</div>
+            {{- end -}}
+          </header>
+        </div>
+      </div>
+
+      <div class="grid-row grid-gap-3">
+        <div class="grid-col-12">
+
+          {{/* Get the file name */}}
+          {{/* Filename == topic name */}}
+          {{ $topic := .File.BaseFileName }}
+          {{/* Get all the pages for that topic */}}
+          {{ $topic := (index $.Site.Taxonomies.topics $topic) }}
+          {{/* Then get only the past events for that topic */}}
+          {{ $topic := (where $topic "Section" "events") }}
+          {{/* Now we sort the list and only show the past events */}}
+          {{ $topic := (where $topic "Date" "lt" now) }}
+          {{ range $topic }}
+            <li><a href="{{ .URL }}">{{ .Title | markdownify }}</a></li>
+          {{ end }}
+
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+{{ end }} {{/* end 'content' block */}}
