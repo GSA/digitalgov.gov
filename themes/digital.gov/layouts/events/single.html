@@ -1,26 +1,44 @@
 {{ define "content" }}
 {{/* This sets $future_event to true or false */}}
-{{ $future_event := (time .Params.end_date).After now }}
+{{- $future_event := (time .Params.end_date).After now -}}
+{{/* Add to Calendar */}}
+{{- $event_startDate := dateFormat "2006-01-02 03:04 PM" (time .Params.date) -}}
+{{- $event_endDate := dateFormat "2006-01-02 03:04 PM" (time .Params.end_date) -}}
+{{- $event_url := (print "\n\nEvent Page: https:" .Permalink) -}}
+{{- $.Scratch.Set "event_youtube" "" -}}
+{{- if (isset .Params "youtube_id") -}}
+  {{- $.Scratch.Set "event_youtube" (print "\nYouTube LIVE: https://www.youtube.com/watch?v=" .Params.youtube_id) -}}
+{{- end -}}
+{{- $event_youtube := $.Scratch.Get "event_youtube" -}}
+{{- $event_title := .Title | markdownify -}}
+{{- $event_desc := $.Params.summary | default $.Site.Params.description | markdownify -}}
+{{- $event_description := (print $event_desc $event_url $event_youtube) -}}
+{{- $event_location := .Params.venue.venue_name -}}
 
 <main role="main" class="event">
   <article>
-    <div class="grid-container">
+    <div class="grid-container grid-container-desktop">
 
       <div class="grid-row">
         <div class="grid-col-12">
           <header>
-            <h6 class="breadcrumb"><a href="{{ "events/" | absURL }}"> <i class="fas fa-arrow-left"></i> All Events </a></h6>
+            <h6 class="breadcrumb"><a href="{{ "events/" | absURL }}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></h6>
             <h1>{{ .Title | markdownify }}</h1>
             {{/* Deck */}}
             {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck -}}</div>
             {{- end -}}
+            {{- if .Params.host -}}
+            <p class="host">Hosted by {{ .Params.host }} and {{ .Params.event_organizer -}}</p>
+            {{- end -}}
           </header>
         </div>
       </div>
+    </div>
 
-      {{/* If is a Future Event */}}
-      {{ if eq $future_event true }}
+    {{/* If is a Future Event */}}
+    {{ if eq $future_event true }}
+    <div class="grid-container grid-container-desktop">
       <section class="actions">
         <div class="grid-row">
           <div class="grid-col-2">
@@ -28,19 +46,96 @@
             <a class="btn register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
           </div>
           <div class="grid-col-2">
-            {{/* Add to Calendar */}}
-            {{ $event_startDate := dateFormat "2006-01-02 03:04 PM" (time .Params.date) }}
-            {{ $event_endDate := dateFormat "2006-01-02 03:04 PM" (time .Params.end_date) }}
-            {{ $event_url := (print "\n\nEvent Page: https:" .Permalink) }}
-            {{ $.Scratch.Set "event_youtube" "" }}
-            {{ if (isset .Params "youtube_id") }}
-              {{ $.Scratch.Set "event_youtube" (print "\nYouTube LIVE: https://www.youtube.com/watch?v=" .Params.youtube_id) }}
-            {{ end }}
-            {{ $event_youtube := $.Scratch.Get "event_youtube" }}
-            {{ $event_title := .Title | markdownify }}
-            {{ $event_desc := $.Params.summary | default $.Site.Params.description | markdownify }}
-            {{ $event_description := (print $event_desc $event_url $event_youtube) }}
-            {{ $event_location := .Params.venue.venue_name }}
+            <span class="addtocalendar">
+              <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
+              <var class="atc_event">
+                <var class="atc_date_start">{{ $event_startDate }}</var>
+                <var class="atc_date_end">{{ $event_endDate }}</var>
+                <var class="atc_timezone">America/New_York</var>
+                <var class="atc_title">{{ $event_title }}</var>
+                <var class="atc_description">{{ htmlUnescape $event_description | safeHTML }}</var>
+                <var class="atc_location">{{ $event_location }}</var>
+                <var class="atc_organizer">DigitalGov</var>
+                <var class="atc_organizer_email">digitalgov@gsa.gov</var>
+              </var>
+            </span>
+          </div>
+        </div>
+      </section>
+    </div>
+    {{ end }}
+
+    {{ if (isset .Params "youtube_id") }}
+
+      {{/* If is a Future Event */}}
+      {{ if eq $future_event true }}
+      <section class="stage">
+        <div class="grid-container">
+          <div class="grid-row grid-gap-2">
+            <div class="grid-col-12 tablet:grid-col-9">
+              <div class="video-box">
+                <div class="youtube-player">
+                  <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
+                </div>
+              </div>
+            </div>
+            <div class="grid-col-12 tablet:grid-col-3">
+              <div class="chat-box">
+                <iframe allowfullscreen="" height="561px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=digital.gov&output=embed" scrolling="auto"></iframe>
+              </div>
+            </div>
+          </div>
+          <div class="grid-row grid-gap-2">
+            <div class="grid-col-12 tablet:grid-col-9">
+              <div class="event-tools">
+                <a class="youtube" href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong><i class="fab fa-youtube"></i> <span>Watch on YouTube</span></strong></a>
+
+                {{ if (isset .Params "captions") }}
+                <a class="captions" href="{{ .Params.captions }}" title="Captions for the {{ .Title }}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a>
+                {{ end }}
+              </div>
+            </div>
+            <div class="grid-col-12 tablet:grid-col-3">
+              <div class="event-tools">
+                <p class="notice"><i class="far fa-flag"></i> You'll need to sign in to Google to chat. All chats will be archived alongside the video.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* PAST EVENT / Video stage  -------------------- */}}
+      {{/* If is NOT a Future Event (Past event) */}}
+      {{ if eq $future_event false }}
+      <div class="grid-container grid-container-desktop">
+        <section class="stage">
+          <div class="grid-row">
+            <div class="grid-col-12">
+              <section class="video-box">
+                <div class="youtube-player">
+                  <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
+                </div>
+              </section>
+            </div>
+          </div>
+        </section>
+      </div>
+      {{ end }}
+    {{ end }}
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12 tablet:grid-col-9">
+          <div class="content">
+            {{ .Content }}
+          </div>
+        </div>
+        <div class="grid-col-12 tablet:grid-col-3">
+
+          {{ if eq $future_event true }}
+          <div class="actions">
+            {{/* Register */}}
+            <a class="btn register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
 
             <span class="addtocalendar">
               <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
@@ -55,85 +150,8 @@
                 <var class="atc_organizer_email">digitalgov@gsa.gov</var>
               </var>
             </span>
-            <script type="text/javascript">(function () {
-              if (window.addtocalendar)if(typeof window.addtocalendar.start == "function")return;
-              if (window.ifaddtocalendar == undefined) { window.ifaddtocalendar = 1;
-                  var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
-                  s.type = 'text/javascript';s.charset = 'UTF-8';s.async = true;
-                  s.src = ('https:' == window.location.protocol ? 'https' : 'http')+'://addtocalendar.com/atc/1.5/atc.min.js';
-                  var h = d[g]('body')[0];h.appendChild(s); }})();
-            </script>
           </div>
-        </div>
-      </section>
-      {{ end }}
-      {{ if (isset .Params "youtube_id") }}
-
-        {{/* If is a Future Event */}}
-        {{ if eq $future_event true }}
-        <section class="stage">
-          <div class="grid-row grid-gap-4">
-            <div class="grid-col-12 tablet:grid-col-8">
-              <div class="video-box">
-                <div class="youtube-player">
-                  <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
-                </div>
-              </div>
-            </div>
-            <div class="grid-col-12 tablet:grid-col-4">
-              <div class="chat-box">
-                <iframe allowfullscreen="" height="357px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=digital.gov&output=embed" scrolling="auto"></iframe>
-              </div>
-            </div>
-          </div>
-          <div class="grid-row grid-gap-4">
-            <div class="grid-col-12 tablet:grid-col-8">
-              <div class="event-tools">
-                <a class="youtube" href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong><i class="fab fa-youtube"></i> <span>Watch on YouTube</span></strong></a>
-
-                {{ if (isset .Params "captions") }}
-                <a class="captions" href="{{ .Params.captions }}" title="Captions for the {{ .Title }}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a>
-                {{ end }}
-              </div>
-            </div>
-            <div class="grid-col-12 tablet:grid-col-4">
-              <div class="event-tools">
-                <p class="notice"><i class="far fa-flag"></i> You'll need to sign in to Google to chat. All chats will be archived alongside the video.</p>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {{ end }}
-
-        {{/* PAST EVENT / Video stage  -------------------- */}}
-        {{/* If is NOT a Future Event (Past event) */}}
-        {{ if eq $future_event false }}
-        <section class="stage">
-          <div class="grid-row">
-            <div class="grid-col-12">
-              <section class="video-box">
-                <div class="youtube-player">
-                  <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
-                </div>
-              </section>
-            </div>
-          </div>
-        </section>
-        {{ end }}
-
-
-
-      {{ end }}
-
-      <div class="grid-row grid-gap-4">
-        <div class="grid-col-12 tablet:grid-col-8">
-          <div class="content">
-            {{ .Content }}
-          </div>
-        </div>
-        <div class="grid-col-12 tablet:grid-col-4">
-
+          {{ end }}
           {{/* Related Communities */}}
           {{- partial "core/get_communities" . -}}
 
@@ -169,4 +187,13 @@
   </article>
 </main>
 
+{{/* Add to Calendar script */}}
+<script type="text/javascript">(function () {
+  if (window.addtocalendar)if(typeof window.addtocalendar.start == "function")return;
+  if (window.ifaddtocalendar == undefined) { window.ifaddtocalendar = 1;
+      var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+      s.type = 'text/javascript';s.charset = 'UTF-8';s.async = true;
+      s.src = ('https:' == window.location.protocol ? 'https' : 'http')+'://addtocalendar.com/atc/1.5/atc.min.js';
+      var h = d[g]('body')[0];h.appendChild(s); }})();
+</script>
 {{ end }}
