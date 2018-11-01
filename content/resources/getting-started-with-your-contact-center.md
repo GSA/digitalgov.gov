@@ -5,6 +5,8 @@ title: 'Getting Started with your Contact Center'
 type: guide
 summary: 'This guide provides you with the information to get a governement contact center started'
 deck: 'Planning and creating a successful government contact center is a complex endeavor. This guide will provide you with the information and tools to get you started.'
+topics:
+  - contact-centers
 ---
 
 
