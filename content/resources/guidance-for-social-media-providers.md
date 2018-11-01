@@ -2,7 +2,10 @@
 url: /resources/guidance-for-social-media-providers/
 date: 2014-02-14 12:30:27 -0400
 title: Guidance for Social Media Providers
-summary: 'GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please email GSA and include the following information: Explanation of the'
+summary: "GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please email GSA and include the following information: Explanation of the"
+topics:
+  - social-media
+  - terms-of-service
 ---
 
 [{{< legacy-img src="/2014/01/termsofService.jpg" alt="Typed sheet of paper with Agreement and the top and a pen laying on it." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/termsofService.jpg)GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please email [GSA](mailto:socialmediaapps@gsa.gov) and include the following information:
