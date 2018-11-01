@@ -11,20 +11,13 @@ authors:
   - apiazza
 ---
 
-<p class="listintro">
-  <a href="http://www.w3.org/WAI/intro/wcag.php">The Web Content Accessibility Guidelines (WCAG) documents</a> explain how to make web content more accessible to people with disabilities. Web &#8220;content&#8221; generally refers to the information in a web page or web application, including:
-</p>
+[The Web Content Accessibility Guidelines](http://www.w3.org/WAI/intro/wcag.php) (WCAG) documents explain how to make web content more accessible to people with disabilities. Web &#8220;content&#8221; generally refers to the information in a web page or web application, including:
 
-<ul class="listafterpul">
-  <li>
-    natural information such as text, images, and sounds
-  </li>
-  <li>
-    code or markup that defines structure, presentation, etc.
-  </li>
-</ul>
+- natural information such as text, images, and sounds
+- code or markup that defines structure, presentation, etc.
 
-<a class="button" style="color: #000000" href="http://www.w3.org/WAI/intro/wcag.php">View the Web Accessibility Guidelines</a>
+[**View the Web Accessibility Guidelines**](http://www.w3.org/WAI/intro/wcag.php)
+
 
 ## Related Resources:
 
