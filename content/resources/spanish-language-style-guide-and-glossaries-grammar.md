@@ -3,6 +3,8 @@ url: /resources/spanish-language-style-guide-and-glossaries/spanish-language-sty
 date: 2014-02-07 5:16:19 -0400
 title: 'Spanish Language Style Guide and Glossaries: Grammar'
 summary: 'Examples and explanations for words, phrases, acronyms, numbers, punctuation, capitalization, symbols, and more used in Spanish grammar.'
+topics:
+  - multilingual
 authors:
   - lgodfrey
 ---
