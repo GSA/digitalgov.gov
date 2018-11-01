@@ -3,6 +3,8 @@ url: /resources/spanish-language-style-guide-and-glossaries/spanish-language-sty
 date: 2014-06-11 9:57:38 -0400
 title: 'Spanish Language Style Guide and Glossaries: Frequently Mistranslated English Terms'
 summary: 'A collection of frequently mistranslated English terms and their equivalent in Spanish.'
+topics:
+  - multilingual
 authors:
   - lgodfrey
   - lmartinez

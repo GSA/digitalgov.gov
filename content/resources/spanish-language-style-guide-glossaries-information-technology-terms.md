@@ -3,6 +3,8 @@ url: /resources/spanish-language-style-guide-and-glossaries/spanish-language-sty
 date: 2014-06-11 9:58:19 -0400
 title: 'Spanish Language Style Guide and Glossaries: Information Technology Terms'
 summary: 'A list of common English information technology terms, and their Spanish translations.'
+topics:
+  - multilingual
 authors:
   - lgodfrey
   - lmartinez
