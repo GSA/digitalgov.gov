@@ -1,0 +1,15 @@
+<article class="event card">
+  <div class="grid-row grid-gap-2">
+    <div class="grid-col-12 tablet:grid-col-4">
+      <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
+    </div>
+    <div class="grid-col-12 tablet:grid-col-8">
+      <header>
+        <h2>
+          <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
+        </h2>
+        <p>{{ .Params.summary | markdownify }}</p>
+      </header>
+    </div>
+  </div>
+</article>
