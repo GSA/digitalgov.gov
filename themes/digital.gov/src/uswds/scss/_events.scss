@@ -54,7 +54,18 @@
   }
 }
 .event{
+  h6.breadcrumb{
+    @include u-margin-bottom(2);
+    @include u-text('bold');
+    @include u-font('sans', 'md');
+    a{
+      @include u-text('no-underline');
+      &:hover{
+        border-bottom: 3px #656bd7 solid; // $indigo-40
+      }
+    }
 
+  }
   .actions{
     @include u-margin-bottom(3);
     .btn{
@@ -123,14 +134,14 @@
     @include u-margin-bottom(5);
     .chat-box{
       iframe{
-        width:308px;
+        width:299px;
       }
     }
     .event-tools{
       @include u-margin-y(1);
       @include u-padding-y(1);
       @include u-padding-x(1);
-      @include u-bg('gray-warm-5');
+      @include u-bg('gray-warm-3');
       .youtube{
         @include u-padding-y(1);
         @include u-padding-x(1);
@@ -157,6 +168,10 @@
             border-bottom:2px #4d52af solid;
           }
         }
+      }
+      .notice{
+        @include u-padding-x(1);
+        @include u-font('sans', '3xs');
       }
     }
   }

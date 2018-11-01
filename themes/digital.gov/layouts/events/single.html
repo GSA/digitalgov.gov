@@ -9,7 +9,7 @@
       <div class="grid-row">
         <div class="grid-col-12">
           <header>
-            <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
+            <h6 class="breadcrumb"><a href="{{ "events/" | absURL }}"> <i class="fas fa-arrow-left"></i> All Events </a></h6>
             <h1>{{ .Title | markdownify }}</h1>
             {{/* Deck */}}
             {{- if .Params.deck -}}
@@ -43,7 +43,7 @@
             {{ $event_location := .Params.venue.venue_name }}
 
             <span class="addtocalendar">
-              <a class="atcb-link"><i class="far fa-calendar-plus"></i> Add to Cal</a>
+              <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
               <var class="atc_event">
                 <var class="atc_date_start">{{ $event_startDate }}</var>
                 <var class="atc_date_end">{{ $event_endDate }}</var>
@@ -72,7 +72,7 @@
         {{/* If is a Future Event */}}
         {{ if eq $future_event true }}
         <section class="stage">
-          <div class="grid-row grid-gap-2">
+          <div class="grid-row grid-gap-4">
             <div class="grid-col-12 tablet:grid-col-8">
               <div class="video-box">
                 <div class="youtube-player">
@@ -86,17 +86,19 @@
               </div>
             </div>
           </div>
-          <div class="grid-row grid-gap-2">
+          <div class="grid-row grid-gap-4">
             <div class="grid-col-12 tablet:grid-col-8">
               <div class="event-tools">
                 <a class="youtube" href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong><i class="fab fa-youtube"></i> <span>Watch on YouTube</span></strong></a>
-                <a class="captions" href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Captions"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a>
 
+                {{ if (isset .Params "captions") }}
+                <a class="captions" href="{{ .Params.captions }}" title="Captions for the {{ .Title }}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a>
+                {{ end }}
               </div>
             </div>
             <div class="grid-col-12 tablet:grid-col-4">
               <div class="event-tools">
-                <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a>
+                <p class="notice"><i class="far fa-flag"></i> You'll need to sign in to Google to chat. All chats will be archived alongside the video.</p>
               </div>
             </div>
           </div>
@@ -104,6 +106,7 @@
 
         {{ end }}
 
+        {{/* PAST EVENT / Video stage  -------------------- */}}
         {{/* If is NOT a Future Event (Past event) */}}
         {{ if eq $future_event false }}
         <section class="stage">
@@ -124,12 +127,12 @@
       {{ end }}
 
       <div class="grid-row grid-gap-4">
-        <div class="grid-col-12 tablet:grid-col-9">
+        <div class="grid-col-12 tablet:grid-col-8">
           <div class="content">
             {{ .Content }}
           </div>
         </div>
-        <div class="grid-col-12 tablet:grid-col-3">
+        <div class="grid-col-12 tablet:grid-col-4">
 
           {{/* Related Communities */}}
           {{- partial "core/get_communities" . -}}
