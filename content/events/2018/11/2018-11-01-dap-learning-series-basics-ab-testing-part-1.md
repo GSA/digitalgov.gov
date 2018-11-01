@@ -2,6 +2,7 @@
 slug: dap-learning-series-basics-ab-testing-part-1
 title: 'DAP Learning Series&#58; Basics of A&#x2F;B Testing Part 1'
 summary: 'We’ve teamed up with our friends at CFPB to bring you a two-part series on A/B Testing.'
+deck: "We’ve teamed up with our friends at CFPB to bring you a two-part series on A/B Testing."
 featured_image:
   uid:
   alt: ''
