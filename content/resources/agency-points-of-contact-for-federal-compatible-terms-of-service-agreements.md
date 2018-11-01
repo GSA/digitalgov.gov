@@ -4,8 +4,10 @@ date: 2014-01-08 10:49:03 -0400
 title: Agency Points of Contact for Federal Compatible Terms of Service Agreements
 type: guide
 guidenav: termsofservice
-summary: 'The list of cabinet and non-cabinet agency points of contact for the federal-compatible Terms of Service agreements.'
-deck: 'The list of cabinet and non-cabinet agency points of contact for the federal-compatible Terms of Service agreements.'
+summary: "The list of cabinet and non-cabinet agency points of contact for the federal-compatible Terms of Service agreements."
+deck: "The list of cabinet and non-cabinet agency points of contact for the federal-compatible Terms of Service agreements."
+topics:
+  - terms-of-service
 
 ---
 

@@ -3,6 +3,8 @@ url: /resources/mobile-application-development-program/
 date: 2013-05-23 3:45:28 -0400
 title: Mobile Application Development Program
 summary: 'Helping agencies plan, develop, test and launch anytime, anywhere, any device mobile products and services for the public. Plan&mdash;Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers. Develop&mdash;Create great mobile apps and sites'
+topics:
+  - mobile
 authors:
   - jparcell
 ---

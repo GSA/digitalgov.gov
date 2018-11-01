@@ -3,6 +3,9 @@ url: /resources/m-11-24-implementing-executive-order-13571-on-streamlining-servi
 date: 2015-11-12 3:17:48 -0400
 title: M-11-24 Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service
 summary: 'Memo M-11-24 is guidance to Implement Executive Order 13571. In order to &#8220;keep pace with the public&#8217;s expectations and to respond to budget pressures that demand we do more with less, the Federal Government must deliver services better, faster, and at lower cost.&#8221; This memo helps to guide agencies in doing that. View M-11-24 Implementing'
+topics:
+  - policy
+  - customer-service
 authors:
   - andreanocesigritz
 ---

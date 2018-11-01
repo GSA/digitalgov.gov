@@ -8,6 +8,9 @@ type: guide
 guidenav: connected-government
 authors:
   - jparcell
+topics:
+  - mobile
+  - user-experience
 aliases:
   - /resources/mobile-user-experience-guidelines-and-recommendations/
 ---

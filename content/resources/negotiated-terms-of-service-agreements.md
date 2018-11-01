@@ -7,6 +7,8 @@ type: guide
 guidenav: termsofservice
 summary: 'The list of free tools that have federal-compatible terms of service agreements.'
 deck: 'A list of free tools that have federal-compatible terms of service agreements.'
+topics:
+  - terms-of-service
 aliases:
   - /resources/chatwing-federal-terms-of-service/
   - /resources/classmarker-federal-terms-of-service/
