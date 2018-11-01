@@ -2,7 +2,7 @@
 
 <main role="main">
   <article>
-    <div class="grid-container padding-x-2">
+    <div class="grid-container grid-container-desktop">
 
       <div class="grid-row">
         <div class="grid-col-12">
@@ -22,16 +22,23 @@
 
       <div class="grid-row grid-gap-6">
 
-        <div class="grid-col-12 tablet-lg:grid-col-8">
-          <div class="content">
-            {{ .Content }}
-          </div>
+        <div class="grid-col-12">
+          <section>
+            {{ range $key, $value := .Site.Taxonomies.topics }}
+              {{ with $.Site.GetPage (printf "/topics/%s" $key) }}
+                {{ $resources := (where $value.Pages "Section" "resources") }}
+                {{ if $resources }}
+                <h2>{{ .Title }}</h2>
+                <ul class="add-list-reset">
+                  {{ range $resources }}
+                    <li><a href="{{ .Permalink}}">{{ .Title | markdownify }}</a></li>
+                  {{ end }}
+                </ul>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          </section>
         </div>
-
-        <div class="grid-col-12 tablet-lg:grid-col-4">
-          {{- partial "core/guide-nav" . -}}
-        </div>
-
       </div>
 
       <div class="grid-row grid-gap-6">
