@@ -30,7 +30,14 @@
       }
     }
   }
+  .communities-list{
+    article{
+      height:90%;
+    }
+  }
+}
 
+.communities-list{
   article{
     @include u-margin-bottom(2);
     @include u-padding(2);
