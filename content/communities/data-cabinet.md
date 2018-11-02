@@ -7,6 +7,13 @@ summary: 'A community for data professionals across federal government to share 
 topics:
   - data
   - open-data
+
+community_type: 'listserv'
+community_email: "digitalgov@gsa.gov"
+community_managers:
+  - jeremyzilar
+subscribe_email: "DATACABINET-subscribe-request@listserv.gsa.gov"
+subscribe_subject: "subscribe to DATA CABINET"
 ---
 
 ## Welcome to the Data Cabinet: A Federal Data Science Community of Practice

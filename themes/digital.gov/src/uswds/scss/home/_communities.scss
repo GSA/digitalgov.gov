@@ -94,3 +94,31 @@
 
   }
 }
+
+.community-info{
+  @include u-bg('gold-10v');
+  @include u-padding(2);
+  @include u-font('sans', '2xs');
+  div{
+    @include u-padding-x('05');
+    @include u-padding-bottom('05');
+  }
+  .join{
+    @include u-margin-bottom(2);
+    @include u-padding-y(1);
+    @include u-text('center');
+    @include u-text('gray-1');
+    @include u-text('no-underline');
+    @include u-font('sans', 'md');
+    @include u-bg('gold-30v');
+    @include u-display('block');
+    @include u-radius('md');
+    @include u-text('bold');
+    &:hover{
+      @include u-bg('gold-40v');
+    }
+  }
+  span{
+    // @include u-bg('gold-20v');
+  }
+}
