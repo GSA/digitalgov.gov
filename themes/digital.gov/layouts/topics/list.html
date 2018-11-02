@@ -32,6 +32,8 @@
         <section class="article-list">
           <header>
             <h1>{{ .Title }}</h1>
+            {{ $allpages := (where .Pages "Section" "posts") }}
+            <p>{{ len $allpages }} pages</p>
           </header>
 
           {{/* Key Resources — 
@@ -55,10 +57,9 @@
           {{/* Blog Posts by Topic —
           List all of the blog posts tagged with this topic */}}
           {{ $pages := (where .Paginator.Pages "Section" "posts") }}
-
           {{/* If there are any resources at all... */}}
           {{ if $pages }}
-
+            <h3>News and resources from across our community</h3>
             {{/* Loop through all the pages */}}
             {{ range $pages }}
 
