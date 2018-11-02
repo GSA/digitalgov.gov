@@ -31,6 +31,9 @@ top6:
   - file          : '2018-11-02-health-tech-sprint-aims-at-improving-care-access-experience.md'
     type          : 'post'
 
+  - file          : '2018-11-01-dap-learning-series-basics-ab-testing-part-1.md'
+    type          : 'video'
+
   - file          : '2018-10-29-gsa-steps-up-security-for-dotgov.md'
     type          : 'post'
 
@@ -40,11 +43,5 @@ top6:
   - file          : '2018-09-19-want-a-more-innovative-agency-encourage-employees-to-experiment.md'
     type          : 'post'
 
-
-  - file          : '2018-09-20-dap-learning-series-writing-custom-javascript-for-tag-managers.md'
+  - file          : '2018-09-27-a-conversation-with-evan-papp.md'
     type          : 'video'
-
-  - file          : '2018-08-24-getting-started-with-uswds-20.md'
-    type          : 'video'
-    title         : 'Getting Started with USWDS 2.0'
-    summary       : 'U.S. Web Design System team shows you how to get started with USWDS 2.0: how to set up project colors, fonts, and more.'
