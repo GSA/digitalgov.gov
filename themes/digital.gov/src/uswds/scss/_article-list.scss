@@ -52,7 +52,6 @@ nav.topics-featured{
 
 .article-list{
   header{
-    @include u-margin(0);
     @include u-margin-bottom(2);
     h1{
       @include u-margin(0);
@@ -60,12 +59,7 @@ nav.topics-featured{
       @include u-font('sans', '2xl');
       @include u-line-height('sans', 1);
     }
-    p{
-      @include u-text('semibold');
-      @include u-font('sans', 'lg');
-    }
   }
-
   .resources{
     @include u-bg('indigo-5');
     @include u-margin-bottom(3);
@@ -77,74 +71,56 @@ nav.topics-featured{
       @include u-list-reset;
     }
   }
-
   article{
-    @include u-margin(0);
-    @include u-padding-y(2);
-    border-bottom: 1px #ccc solid;
-    &:first-child{
-      @include u-padding-top(0);
+    @include u-bg('gray-warm-5');
+    @include u-padding-y('105');
+    @include u-padding-x(2);
+    @include u-margin-bottom('05');
+    @include u-font('sans', 'xs');
+    p{
+      @include u-margin-bottom('2px');
+      @include u-line-height('sans', 3);
+      img{
+        @include u-margin-right('05');
+        position: relative;
+        top:2px;
+        width: 16px;
+        height: 16px;
+      }
+      a{
+        @include u-text('no-underline');
+        @include u-text('indigo-60');
+        strong{
+          @include u-text('indigo-60');
+        }
+      }
+      em{
+        @include u-text('gray-50');
+        @include u-font('sans', '3xs');
+      }
+      strong{
+        @include u-text('indigo-60');
+      }
+    }
+
+    // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+    position: relative;
+    span{
+      margin: 0;
+      position:absolute;
+      width:100%;
+      height:100%;
+      top:0;
+      left: 0;
+      z-index: 1;
+    }
+    &:hover{
+      @include u-bg('gray-warm-10');
     }
     &:last-child{
-      @include u-padding-bottom(0);
-      border-bottom: none;
-    }
-    header{
-      h3{
-        @include u-margin(0);
-        @include u-margin-bottom(1);
-        @include u-font('sans', 'md');
-        color:#000;
-        @include u-text('bold');
-        @include u-line-height('sans', 2);
-        a{
-          color:#000;
-          @include u-text('no-underline');
-          &:hover{
-            border-bottom: 2px #656bd7 solid; // $indigo-40
-          }
-        }
-      }
-      p{
-        @include u-margin(0);
-        @include u-font('sans', 'xs');
-        @include u-line-height('sans', 3);
-        @include u-text('light');
-      }
-    }
-    .media {
-      img{
-        // filter: grayscale(100%);
-      }
-      &::after {
-        display: block;
-        position: relative;
-        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, #8889db 100%);
-        margin-top: -66px;
-        height: 60px;
-        width: 100%;
-        content: '';
-      }
-    }
-
-    footer{
-      @include u-margin-top(2);
-      @include u-margin-bottom(1);
-      @include u-font('sans', '3xs');
-      color:#888;
-      a{
-        color:#888;
-        @include u-text('no-underline');
-        &:hover{
-          @include u-text('underline');
-        }
-      }
-      span{
-        @include u-padding-x(1);
-      }
+      @include u-margin-bottom(0);
     }
   }
-
   .pagination{
     @include u-margin-y(3);
     @include u-list-reset;
@@ -169,6 +145,4 @@ nav.topics-featured{
     	background:#745fe9; //indigo-warm-50v
     }
   }
-
-
 }

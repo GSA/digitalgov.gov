@@ -12,18 +12,15 @@
             <input type="text" name="" value="" placeholder="Enter your email address">
             <button type="submit"><img src="{{ "img/love-letter.png" | absURL }}" alt="Search"></button>
           </form>
-          <section>
-            <h5>Submit to Spotlight</h5>
-            <p>Have a case-study to share? Did your team recently launch something? We'd like to talk to you.</p>
-          </section>
         </header>
 
 
       </div>
       <div class="grid-col-12 tablet-lg:grid-col-7">
-        <section>
+        <section class="article-list">
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
           {{- range first 8 $posts -}}
+
             {{- if .Params.source -}}
               {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
             {{- end -}}
@@ -53,10 +50,12 @@
 
                 <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
               </article>
+
             {{ else }}
+
               {{/* Blog Posts — Internal links */}}
               <article data-edit-this="{{- .File.Path -}}">
-                <p><img src="{{ "img/digit-16.png" | absURL }}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</p>
+                <p><img src="{{ "img/digit-16.png" | absURL }}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}&nbsp;<em class="date">({{ .Date.Format "Jan _2, 2006" -}})</em></p>
                 <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
               </article>
             {{ end }}
@@ -64,6 +63,9 @@
 
           {{- end -}}
         </section>
+        <footer>
+          <p><strong>Submit to Spotlight</strong> — Have a case-study to share? Did your team recently launch something? We'd like to talk to you. <a href="mailto:digitalgov@gsa.gov">digitalgov@gsa.gov</a></p>
+        </footer>
       </div>
 
     </div>

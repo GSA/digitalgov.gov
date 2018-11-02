@@ -31,12 +31,16 @@
       <div class="grid-col-12 tablet:grid-col-9">
         <section class="article-list">
           <header>
-
             <h1>{{ .Title }}</h1>
-
           </header>
 
+          {{/* Key Resources — 
+          A list of the most important resources tagged with the same topic */}}
+
+          {{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
           {{ $resources := (where .Pages "Section" "resources") }}
+
+          {{/* If there are any resources at all... */}}
           {{ if $resources }}
           <section class="resources">
             <h4>Key Resources</h4>
@@ -48,31 +52,61 @@
           </section>
           {{ end }}
 
-          {{ $posts := (where .Paginator.Pages "Section" "posts") }}
-          {{ range $posts }}
-          <article>
-            <div class="grid-row grid-gap-3">
-              <div class="grid-col-3">
-                <div class="media">
-                  <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
-                    {{ partial "img-featured--home.html" . }}
-                  </a>
-                </div>
-              </div>
-              <div class="grid-col-9">
-                <header>
-                  <h3><a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></h3>
-                  <p>{{- .Params.summary | default .Summary | safeHTML | markdownify -}}</p>
+          {{/* Blog Posts by Topic —
+          List all of the blog posts tagged with this topic */}}
+          {{ $pages := (where .Paginator.Pages "Section" "posts") }}
 
-                </header>
-                <footer>
-                  <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2" -}}</a><span>&#10038;</span>{{- partial "core/get_authors_short" . -}}
-                </footer>
-              </div>
-            </div>
-          </article>
+          {{/* If there are any resources at all... */}}
+          {{ if $pages }}
 
+            {{/* Loop through all the pages */}}
+            {{ range $pages }}
+
+              {{/* If the source is identified in the article */}}
+              {{- if .Params.source -}}
+                {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+              {{- end -}}
+
+              {{/* If the type is a SPOT (means it links to another publication) */}}
+              {{ if eq .Params.type "spot" }}
+                {{/* Spots — External links */}}
+
+                <article data-edit-this="{{- .File.Path -}}">
+                  <p>
+                    {{/* Favicon
+                    If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
+                    {{- if .Params.source -}}
+
+                      {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+                      {{- if $source.Params.icon -}}
+                        <img src="{{ $source.Params.icon }}" alt="">
+                      {{- else -}}
+                        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">
+                      {{- end -}}
+
+                    {{/* Otherwise, use the Favicon that Google stores for the site. */}}
+                    {{- else -}}
+                      <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">
+                    {{- end -}}
+
+                    {{- .Params.deck | markdownify }} <em>(via&nbsp;<a href="{{- .Params.source_url -}}">{{ .Params.source_name }}</a>)</em> <i class="fas fa-external-link-alt"></i></p>
+
+                  <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
+                </article>
+
+              {{/* If the type is a digital.gov Blog Post */}}
+              {{ else }}
+
+                <article data-edit-this="{{- .File.Path -}}">
+                  <p><img src="{{ "img/digit-16.png" | absURL }}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}&nbsp;<em class="date">({{ .Date.Format "Jan _2, 2006" -}})</em></p>
+                  <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+                </article>
+              {{ end }}
+
+
+            {{ end }}
           {{ end }}
+
           {{ partial "pagination.html" . }}
         </section>
 

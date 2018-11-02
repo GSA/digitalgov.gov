@@ -30,76 +30,30 @@
     form{
       @include u-margin-bottom(2);
     }
-    section{
-      @include u-bg('indigo-warm-60');
-      @include u-margin-top(5);
-      @include u-padding-y(1);
-      @include u-padding-x(2);
-      @include u-padding-bottom(2);
-      h5{
-        @include u-margin(0);
-        @include u-margin-bottom(1);
-        @include u-font('sans', 'xs');
-        @include u-text('indigo-warm-20');
-      }
-      p{
-        @include u-font('sans', '2xs');
-        @include u-text('indigo-warm-20');
-      }
-    }
   }
-  section{
+
+  // See also /scss/_article-list.scss
+  .article-list{
     @include u-bg('gray-warm-30');
     @include u-padding('05');
-    article{
-      @include u-bg('gray-warm-5');
-      @include u-padding-y('105');
-      @include u-padding-x(2);
-      @include u-margin-bottom('05');
-      @include u-font('sans', 'xs');
-      p{
-        @include u-margin-bottom('2px');
-        @include u-line-height('sans', 3);
-        img{
-          @include u-margin-right('05');
-          position: relative;
-          top:2px;
-          width: 16px;
-          height: 16px;
-        }
-        a{
-          @include u-text('no-underline');
-          @include u-text('indigo-60');
-          strong{
-            @include u-text('indigo-60');
-          }
-        }
-        em{
-          @include u-text('gray-80');
-        }
-        strong{
-          @include u-text('indigo-60');
-        }
-      }
+  }
 
-      // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
-      position: relative;
-      span{
-        margin: 0;
-        position:absolute;
-        width:100%;
-        height:100%;
-        top:0;
-        left: 0;
-        z-index: 1;
-      }
-      &:hover{
-        @include u-bg('gray-warm-10');
-      }
-      &:last-child{
-        @include u-margin-bottom(0);
+  footer{
+    @include u-bg('indigo-warm-60');
+    @include u-margin-top(1);
+    @include u-padding-y(1);
+    @include u-padding-x(2);
+    @include u-padding-bottom(2);
+    p{
+      @include u-font('sans', '2xs');
+      @include u-text('indigo-warm-20');
+      a{
+        @include u-text('orange-warm-30v');
+        @include u-text('no-underline');
+        &:hover{
+          border-bottom: 2px #a5a8eb solid;
+        }
       }
     }
-
   }
 }
