@@ -51,7 +51,7 @@ blackfriday:
   smartypants: true
 
 params:
-  description: "We’re building a modern government, together."
+  description           : "We're making digital in government better, together."
   cdnurl: "https://s3.amazonaws.com/digitalgov"
   git_org: "GSA"
   git_repo: "digitalgov.gov"
