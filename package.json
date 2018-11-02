@@ -1,72 +1,62 @@
 {
-  "name": "digital.gov",
-  "version": "0.1.0",
-  "description": "The digital.gov website",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "upload": "gulp process-img"
+  "_from": "github:uswds/uswds-gulp",
+  "_id": "uswds-gulp@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/uswds-gulp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "uswds-gulp@github:uswds/uswds-gulp",
+    "name": "uswds-gulp",
+    "escapedName": "uswds-gulp",
+    "rawSpec": "github:uswds/uswds-gulp",
+    "saveSpec": "github:uswds/uswds-gulp",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "github:uswds/uswds-gulp#743929a4617bea25ca8267f9e2323f8c976419eb",
+  "_spec": "uswds-gulp@github:uswds/uswds-gulp",
+  "_where": "/Users/jeremyzilar/Sites/digitalgov.gov",
+  "author": {
+    "name": "Dan O. Williams"
+  },
+  "bugs": {
+    "url": "https://github.com/uswds/uswds-gulp/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A gulp workflow for USWDS",
+  "homepage": "https://github.com/uswds/uswds-gulp#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "uswds-gulp",
+  "peerDependencies": {
+    "autoprefixer": "^9.1.5",
+    "css-mqpacker": "^7.0.0",
+    "cssnano": "^4.1.4",
+    "gulp": "^4.0.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "path": "^0.12.7",
+    "uswds": "^2.0.0-beta"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GSA/digital.gov.git"
+    "url": "git+https://github.com/uswds/uswds-gulp.git"
   },
-  "author": "jeremyzilar / thisisdano",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GSA/digital.gov/issues"
+  "scripts": {
+    "init": "gulp init",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp watch"
   },
-  "homepage": "https://github.com/GSA/digital.gov#readme",
-  "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.4.0",
-    "autoprefixer": "^8.6.5",
-    "child_process": "^1.0.2",
-    "css-mqpacker": "^6.0.2",
-    "del": "^3.0.0",
-    "dotenv": "^4.0.0",
-    "gulp": "^4.0.0",
-    "gulp-autoprefixer": "^4.1.0",
-    "gulp-bless": "^4.0.1",
-    "gulp-clean-css": "^3.10.0",
-    "gulp-combine-mq": "^0.4.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-cssnano": "^2.1.3",
-    "gulp-gzip": "^1.4.0",
-    "gulp-hash": "^4.1.1",
-    "gulp-jshint": "^2.1.0",
-    "gulp-notify": "^3.2.0",
-    "gulp-postcss": "^7.0.0",
-    "gulp-rename": "^1.4.0",
-    "gulp-replace": "^1.0.0",
-    "gulp-replace-name": "^1.0.1",
-    "gulp-responsive": "^2.11.0",
-    "gulp-s3-upload": "^1.6.6",
-    "gulp-sass": "^3.1.0",
-    "gulp-size": "^2.1.0",
-    "gulp-strip-css-comments": "^1.2.0",
-    "gulp-tap": "^1.0.1",
-    "gulp-uglify": "^3.0.1",
-    "gulp-uncss": "^1.0.6",
-    "gulp-util": "^3.0.8",
-    "gulp-watch": "^4.3.11",
-    "image-size": "^0.6.3",
-    "jshint": "^2.9.6",
-    "lodash": "^4.17.11",
-    "merge-stream": "^1.0.1",
-    "postcss-uncss": "^0.15.0",
-    "uncss": "^0.16.2",
-    "vinyl-paths": "^2.1.0"
-  },
-  "dependencies": {
-    "autoprefixer": "^9.3.1",
-    "change-case": "^3.0.1",
-    "cssnano": "^3.10.0",
-    "gulp-sourcemaps": "^2.6.1",
-    "gutil": "^1.6.4",
-    "natives": "^1.1.5",
-    "node-notifier": "^5.1.2",
-    "octicons": "^7.3.0",
-    "path": "^0.12.7",
-    "uswds": "^2.0.0-beta"
-  }
+  "version": "0.0.1"
 }

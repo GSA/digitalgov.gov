@@ -9,6 +9,12 @@
 ----------------------------------------
 USWDS GENERAL SETTINGS
 ----------------------------------------
+-
+Read more about settings and
+USWDS style tokens in the documentation:
+https://v2.designsystem.digital.gov/style-tokens
+-
+----------------------------------------
 */
 
 /*
@@ -20,7 +26,19 @@ Relative font and image file paths
 */
 
 $theme-font-path:   '../fonts';
-$theme-image-path:  '../img/lib/uswds/img';
+$theme-image-path:  '../img';
+// $theme-image-path:  '../img/lib/uswds/img';
+
+/*
+----------------------------------------
+Show compile warnings
+----------------------------------------
+Show Sass warnings when functions and
+mixins use nonstanard or false tokens.
+----------------------------------------
+*/
+
+$theme-show-compile-warnings: true;
 
 /*
 ----------------------------------------
@@ -31,10 +49,6 @@ Namespace
 $theme-namespace: (
   'grid': (
     namespace:  'grid-',
-    output:     true,
-  ),
-  'object': (
-    namespace:  'add-',
     output:     true,
   ),
   'utility': (

@@ -9,6 +9,12 @@
 ----------------------------------------
 USWDS THEME UTILITIES SETTINGS
 ----------------------------------------
+-
+Read more about settings and
+USWDS utilities in the documentation:
+https://v2.designsystem.digital.gov/utilities
+-
+----------------------------------------
 */
 
 $utilities-use-important:     false;
@@ -49,10 +55,10 @@ The following palettes will be added to
 */
 
 $global-color-palettes: (
-  // 'palette-colors-theme',
-  // 'palette-colors-basic',
-  // 'palette-colors-grayscale'
-  'palette-colors-uswds-all'
+  'palette-colors-theme',
+  'palette-colors-basic',
+  'palette-colors-grayscale'
+  // 'palette-colors-uswds-all'
 );
 
 /*
