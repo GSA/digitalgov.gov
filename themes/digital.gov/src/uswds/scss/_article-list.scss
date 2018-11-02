@@ -80,6 +80,7 @@ nav.topics-featured{
     p{
       @include u-margin-bottom('2px');
       @include u-line-height('sans', 3);
+      @include u-maxw('none');
       img{
         @include u-margin-right('05');
         position: relative;
