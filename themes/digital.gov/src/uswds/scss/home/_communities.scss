@@ -79,3 +79,18 @@
     }
   }
 }
+
+.community-guidelines{
+  @include u-bg('gold-10v');
+  @include u-padding(3);
+  h2{
+    @include u-margin(0);
+    @include u-margin-bottom(3);
+    @include u-font('sans', 'xl');
+    @include u-text('heavy');
+    @include u-line-height('sans', 1);
+  }
+  p{
+
+  }
+}
