@@ -44,7 +44,8 @@
     @include u-font('sans', 'lg');
     @include u-text('semibold');
     a{
-      @include u-bg('gray-1');
+      // @include u-bg('gray-1');
+      @include u-text('blue-80v');
       @include u-padding(2);
       border: 1px #4150f2 solid;
       @include u-radius('md');

@@ -103,8 +103,8 @@ gulp.task('build-sass', function(done) {
         ]
       }))
     .pipe(postcss(plugins))
-    .pipe(gulp.dest(`${CSS_DEST}`))
     .pipe(sourcemaps.write('.'))
+    .pipe(gulp.dest(`${CSS_DEST}`))
     .pipe(notify({
       "sound": "Pop" // case sensitive
     }));
