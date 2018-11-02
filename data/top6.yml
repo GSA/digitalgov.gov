@@ -28,6 +28,9 @@
 
 
 top6:
+  - file          : '2018-11-02-health-tech-sprint-aims-at-improving-care-access-experience.md'
+    type          : 'post'
+
   - file          : '2018-10-29-gsa-steps-up-security-for-dotgov.md'
     type          : 'post'
 
@@ -36,9 +39,6 @@ top6:
 
   - file          : '2018-09-19-want-a-more-innovative-agency-encourage-employees-to-experiment.md'
     type          : 'post'
-
-  - file          : '2018-09-27-a-conversation-with-evan-papp.md'
-    type          : 'video'
 
 
   - file          : '2018-09-20-dap-learning-series-writing-custom-javascript-for-tag-managers.md'
