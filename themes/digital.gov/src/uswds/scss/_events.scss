@@ -120,7 +120,7 @@
   }
   .stage{
     @include u-margin-bottom(5);
-    @include u-bg('indigo-90');
+    @include u-bg('gray-warm-5');
     @include u-padding-y(2);
     .chat-box{
       iframe{
