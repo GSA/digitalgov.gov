@@ -46,7 +46,7 @@ blackfriday:
   fractions: false
 
 params:
-  description           : "We’re digital in government better, together."
+  description           : "We're making digital in government better, together."
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
   git_org               : "GSA"
   git_repo              : "digitalgov.gov"
