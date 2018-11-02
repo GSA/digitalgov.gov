@@ -2,15 +2,15 @@
 
 
 nav.topics-featured{
-  @include u-bg('gray-warm-3');
-  @include u-text('indigo-80');
+  @include u-bg('indigo-80');
+  @include u-text('gray-1');
   header{
     @include u-padding('105');
     @include u-padding-x(3);
     h4{
       @include u-margin(0);
       @include u-font('sans', 'lg');
-      @include u-text('light');
+      @include u-text('thin');
     }
   }
 
@@ -19,14 +19,14 @@ nav.topics-featured{
       a{
         @include u-padding-y('2px');
         @include u-padding-x(3);
-        @include u-text('semibold');
+        @include u-text('medium');
         @include u-text('no-underline');
-        @include u-text('indigo-70');
+        @include u-text('orange-warm-30v');
         @include u-display('block');
         &:hover{
-          @include u-bg('indigo-20');
+          @include u-bg('indigo-60');
           span{
-            border-bottom: 2px #fc906d solid; // $indigo-40
+            // border-bottom: 2px #fc906d solid; // $indigo-40
           }
         }
       }
@@ -42,9 +42,9 @@ nav.topics-featured{
     a{
       @include u-text('bold');
       @include u-text('no-underline');
-      @include u-text('indigo-70');
+      @include u-text('gray-1');
       &:hover{
-        border-bottom: 2px #656bd7 solid; // $indigo-40
+        border-bottom: 2px #fc906d solid; // $indigo-40
       }
     }
   }
