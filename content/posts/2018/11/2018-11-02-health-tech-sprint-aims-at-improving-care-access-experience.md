@@ -54,7 +54,7 @@ leveraging crowd- and patient-based data insights.
 
 ## Tech Organizations Selected
 
-- The AI ecosystem project will be piloted by these tech organizations: Flatiron Health, Microsoft Healthcare, Oracle, Philips (Research), and Rush Medical, and TrialX (in collaboration with the Global Lyme Alliance).
+- The AI ecosystem project will be piloted by these tech organizations: Flatiron Health, Microsoft Healthcare, Oracle, Philips (Research), Rush Medical, and TrialX (in collaboration with the Global Lyme Alliance).
 - The Lyme and tick-borne diseases track will include: TickTracker, LivLyme Foundation, and Clyme Health.
 
 ## Getting Involved
