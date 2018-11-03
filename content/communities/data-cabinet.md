@@ -12,6 +12,7 @@ community_type: 'listserv'
 community_email: "digitalgov@gsa.gov"
 community_managers:
   - jeremyzilar
+community_terms: "Anyone with a .gov or .mil email address is eligible to join."
 subscribe_email: "DATACABINET-subscribe-request@listserv.gsa.gov"
 subscribe_subject: "subscribe to DATA CABINET"
 ---

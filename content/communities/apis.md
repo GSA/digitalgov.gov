@@ -6,10 +6,10 @@ title: 'APIs'
 members: 1351
 community_type: 'google-group'
 community_email: "api-example@gsa.gov"
+community_terms: "This community is open to anyone, in or out of government."
 community_managers:
   - jeremyzilar
-subscribe_email: "DATACABINET-subscribe-request@listserv.gsa.gov"
-subscribe_subject: "subscribe to DATA CABINET"
+subscribe_url: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
 
 summary: 'Working to advance the cause of APIs in the federal government'
 deck: 'Working to advance the cause of APIs in the federal government'

@@ -31,21 +31,25 @@
         </div>
 
         <div class="grid-col-12 tablet-lg:grid-col-4">
-          <section class="community-info">
+          <section class="community-info {{ .Params.community_type -}}">
 
             {{ if eq .Params.community_type "listserv" }}
             <a href="#" class="join"><i class="fas fa-envelope"></i> Join by email</a>
             <div>
-              <p>To join, send an email to <span>{{ .Params.subscribe_email }}</span> with <span>{{ .Params.subscribe_subject }}</span> in the subject.</p>
-              <p><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
+              <p>To join, send an email to <strong>{{ .Params.subscribe_email }}</strong> with <code>{{ .Params.subscribe_subject }}</code> in the subject.</p>
+              {{ if .Params.community_terms }}
+              <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+              {{ end }}
             </div>
             {{ end }}
 
             {{ if eq .Params.community_type "google-group" }}
             <a href="#" class="join"><i class="fab fa-google"></i> Join the Google Group</a>
             <div>
-              <p>To join, send an email to <span>{{ .Params.subscribe_email }}</span> with <span>{{ .Params.subscribe_subject }}</span> in the subject.</p>
-              <p><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
+              <p>To join, visit the <a href="{{ .Params.subscribe_url }}" title="{{ .Title }}">Google Group</a> and sign up for the mailing list.</p>
+              {{ if .Params.community_terms }}
+              <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+              {{ end }}
             </div>
             {{ end }}
 

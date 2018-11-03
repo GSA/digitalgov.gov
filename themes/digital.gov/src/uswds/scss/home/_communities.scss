@@ -102,6 +102,13 @@
   div{
     @include u-padding-x('05');
     @include u-padding-bottom('05');
+    @include u-line-height('sans', 1);
+    code{
+      @include u-bg('yellow-5');
+      @include u-padding-y('2px');
+      @include u-padding-x('05');
+      @include u-radius('sm');
+    }
   }
   .join{
     @include u-margin-bottom(2);
@@ -118,7 +125,19 @@
       @include u-bg('gold-40v');
     }
   }
+  .terms{
+    @include u-font('sans', '3xs');
+  }
   span{
     // @include u-bg('gold-20v');
+  }
+}
+.community-info.google-group{
+  @include u-bg('blue-10');
+  .join{
+    @include u-bg('blue-40v');
+    &:hover{
+      @include u-bg('blue-50v');
+    }
   }
 }
