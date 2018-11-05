@@ -1,57 +1,35 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top archive author c-sw unboxed centercatnav bodybg1" }}
-{{ end }}
-
 {{ define "content" }}
-  {{ $data := $.Site.Data }}
-  <div id="contentleft" class="clearfix">
-    <div id="content" class="clearfix">
-      {{ $slug := .Title | urlize }}
-      {{ $person := index $.Site.Data.people.authors $slug }}
-      {{ $person_name := $person.display_name | default .Title }}
+<main role="main">
+  <article>
+    <div class="grid-container grid-container-desktop">
 
-      <div class="auth-bio clearfix">
-    		<h1><span>{{ $person_name }}</span></h1>
+      {{/* header */}}
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <header>
+            {{ $slug := .Title | urlize }}
+            {{ $person := index $.Site.Data.people.authors $slug }}
+            {{ $person_name := $person.display_name | default .Title }}
 
-        {{if $person.featured_image.uid }}
-          {{ $cdnurl := .Site.Params.cdnurl }}
-          {{ $thisuid := $person.featured_image.uid }}
-          {{ $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid }}
-          {{ $thisimg := index $.Site.Data.images $thisuid  }}
-          {{ $imgBase := $thisimg.uid }}
-          {{ $imgExt := $thisimg.format }}
-          {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
-          {{ $imgWidth := $thisimg.width }}
-          {{ $imgHeight := $thisimg.height }}
-          {{ $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid }}
-          {{ $.Scratch.Set "imgSuffix" "" }}
-          {{ if ge $imgWidth 200 }}
-           {{ $.Scratch.Set "imgSuffix" "_w200" }}
-          {{ end }}
+            {{/* Page Title */}}
+            <h1>{{ $person_name }}</h1>
 
-          <img alt='author photo'
-            src='{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}'
-            class='avatar avatar-48 photo' height='48' width='48' />
-        {{ else }}
-          {{ with $person.github }}
-            <img alt=''
-              src='https://www.github.com/{{ . }}.png?size=48'
-              srcset='https://www.github.com/{{ . }}.png?size=96 2x'
-              class='avatar avatar-48 photo' height='48' width='48' />
-          {{ end }}
-        {{ end }}
+            {{- with $person.github -}}
+              <img alt='Photo: {{ $person_name }}'
+                src='https://www.github.com/{{ . }}.png?size=100'
+                srcset='https://www.github.com/{{ . }}.png?size=200 2x'
+                class='profile' />
+            {{- end -}}
 
-        {{ with $person.bio }}
-      		<div>{{ . | markdownify }}</div>
-        {{ end }}
+            {{ with $person.bio }}
+          		<div>{{ . | markdownify }}</div>
+            {{ end }}
 
-        {{ with $person.website }}
-          <p class="auth-website"><a rel="external" title="Author Website" href="{{ . }}">Author's Website</a></p>
-        {{ end }}
+            {{ with $person.website }}
+              <p class="auth-website"><a rel="external" title="Author Website" href="{{ . }}">Author's Website</a></p>
+            {{ end }}
 
-        <div class="sub-icons auth-icons">
-        	<ul class="clearfix">
-            <li><a class="subicon rss" rel="external" title="RSS Feed for {{ $person_name }}" href="{{ .RSSLink }}">RSS Feed</a></li>
+            <ul>
 
             {{ with $person.facebook }}
           		<li><a class="subicon facebook" rel="external" title="{{ $person_name }} on Facebook" href="http://www.facebook.com/{{ $person.facebook }}/">Facebook</a></li>
@@ -73,25 +51,74 @@
           		<li><a class="subicon github" rel="external" title="{{ $person_name }} on GitHub" href="http://www.github.com/{{ $person.github }}">GitHub</a></li>
             {{ end }}
 
-        	</ul>
+            <li><a class="subicon rss" rel="external" title="RSS Feed for {{ $person_name }}" href="{{ .RSSLink }}">RSS Feed</a></li>
+            </ul>
+
+          </header>
         </div>
       </div>
 
-      {{ range .Pages }}
-        {{ partial "summary-withImage.html" . }}
-      {{ end }}
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <section class="article-list">
+            {{/* Blog Posts by Author —
+            List all of the blog posts by this author */}}
+            {{ $pages := (where .Paginator.Pages "Section" "posts") }}
+            {{/* If there are any pages/posts at all... */}}
+            {{ if $pages }}
+              <h3>News and resources from across our community</h3>
+              {{/* Loop through all the pages */}}
+              {{ range $pages }}
 
-      {{/*
-      {{ if gt .Paginator.TotalPages 1}}
-        <div class="navigation clearfix">
-    			{{ if .Paginator.HasPrev }}<a href="{{ .Paginator.Prev.URL | absURL }}">« Previous Page</a>{{ end }}{{ if and .Paginator.HasPrev .Paginator.HasNext }} — {{ end }}{{ if .Paginator.HasNext }}<a href="{{ .Paginator.Next.URL | absURL }}">Next Page »</a>{{ end }}
+                {{/* If the source is identified in the article */}}
+                {{- if .Params.source -}}
+                  {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+                {{- end -}}
+
+                {{/* If the type is a SPOT (means it links to another publication) */}}
+                {{ if eq .Params.type "spot" }}
+                  {{/* Spots — External links */}}
+
+                  <article data-edit-this="{{- .File.Path -}}">
+                    <p>
+                      {{/* Favicon
+                      If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
+                      {{- if .Params.source -}}
+
+                        {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+                        {{- if $source.Params.icon -}}
+                          <img src="{{ $source.Params.icon }}" alt="">
+                        {{- else -}}
+                          <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">
+                        {{- end -}}
+
+                      {{/* Otherwise, use the Favicon that Google stores for the site. */}}
+                      {{- else -}}
+                        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">
+                      {{- end -}}
+
+                      {{- .Params.deck | markdownify }} <em>(via&nbsp;<a href="{{- .Params.source_url -}}">{{ .Params.source_name }}</a>)</em> <i class="fas fa-external-link-alt"></i></p>
+
+                    <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
+                  </article>
+
+                {{/* If the type is a digital.gov Blog Post */}}
+                {{ else }}
+
+                  <article data-edit-this="{{- .File.Path -}}">
+                    <p><img src="{{ "img/digit-16.png" | absURL }}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}&nbsp;<em class="date">({{ .Date.Format "Jan _2, 2006" -}})</em></p>
+                    <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+                  </article>
+                {{ end }}
+
+              {{ end }}
+            {{ end }}
+          </section>
         </div>
-      {{ end }}
-      */}}
-    </div><!-- #content -->
-  </div><!-- #contentleft -->
-{{ end }}
+      </div>
 
-{{ define "sidebar" }}
-  {{ partial "sidebar-common.html" . }}
-{{ end }} {{/* end 'sidebar' block */}}
+
+    </div>
+  </article>
+</main>
+{{ end }}
