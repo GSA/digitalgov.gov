@@ -8,6 +8,11 @@ topics:
   - plainlanguage
 aliases:
   - /communities/plain-language-community-of-practice/
+topics:
+  - accessibility
+  - content
+  - plain-language
+  - writing
 ---
 
 Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.
