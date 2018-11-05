@@ -18,6 +18,7 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-ab-testing-basics-part-2-registration-51480507584
 youtube_id: VyAD1sKB0XU
+captions: https://www.captionedtext.com/client/event.aspx?EventID=3794626&CustomerID=321
 
 ---
 
