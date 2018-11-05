@@ -11,7 +11,7 @@
 
             <h6 class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span></a></h5>
             {{/* Page Title */}}
-            <h1>{{ .Title | markdownify }}</h1>
+            <h1>{{ .Title | markdownify }} Community</h1>
 
             {{/* Deck */}}
             {{- if .Params.deck -}}
@@ -22,13 +22,7 @@
         </div>
       </div>
 
-      <div class="grid-row grid-gap-4">
-
-        <div class="grid-col-12 tablet-lg:grid-col-8">
-          <div class="content">
-            {{ .Content }}
-          </div>
-        </div>
+      <div class="grid-row grid-gap-6">
 
         <div class="grid-col-12 tablet-lg:grid-col-4">
           {{/* Checking to see if community_type is defined before showing the community info box */}}
@@ -82,6 +76,12 @@
 
           </section>
           {{ end }}
+        </div>
+
+        <div class="grid-col-12 tablet-lg:grid-col-8">
+          <div class="content">
+            {{ .Content }}
+          </div>
         </div>
 
       </div>
