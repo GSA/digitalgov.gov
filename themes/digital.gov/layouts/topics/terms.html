@@ -15,6 +15,21 @@
       </div>
     </div>
 
+    <div class="grid-row grid-gap-2">
+      {{ $topics := (where .Site.Pages "Section" "topics") }}
+      {{ range $name, $taxonomy := $topics.ByTitle }}
+        {{ if or (eq .Params.weight 2) (eq .Params.weight 3) }}
+        <div class="grid-col-12 tablet:grid-col-4 tablet:flex-6">
+          <div class="topic topic-slim" data-edit-this="{{- .File.Path -}}">
+            <h3>
+              <a class="text-no-underline text-ink" href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}}</a>
+            </h3>
+          </div>
+        </div>
+        {{ end }}
+      {{ end }}
+    </div>
+
     {{/* TOPICS / Categories / Tags */}}
     <div class="grid-row">
       <div class="grid-col-6">
