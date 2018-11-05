@@ -38,7 +38,7 @@
             <div class="join-box">
 
               {{/* If community == 'listserv' && signup via Google Form */}}
-              {{ if and (eq .Params.community_type "listserv") (.Params.subscribe_url) }}
+              {{ if and (eq .Params.community_type "listserv") (.Params.google_form) }}
               <a href="{{ .Params.subscribe_url }}" class="join" title="Join the {{ .Title | markdownify }} Community"><i class="fas fa-file-signature"></i> Fill out the form</a>
               <div>
                 <p>To join, <a href="{{ .Params.subscribe_url }}" title="Join the {{ .Title | markdownify }} Community">fill out this Google Form</a>.</p>
@@ -76,7 +76,6 @@
 
             {{ if .Params.community_managers }}
             <div class="community_managers">
-              <h3>Community Managers</h3>
               {{- partial "core/get_community_managers" . -}}
             </div>
             {{ end }}

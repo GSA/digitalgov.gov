@@ -24,7 +24,6 @@ community_email: "api-example@gsa.gov"
 community_terms: "This community is open to anyone."
 community_managers:
   - gray-brooks
-  - jeremyzilar
 subscribe_url: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
 
 ---

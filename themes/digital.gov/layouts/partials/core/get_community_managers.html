@@ -6,9 +6,16 @@
 
 {{- if (not (isset .Params "community_managers")) | or (eq .Params.community_managers "") -}}
 {{- else -}}
+
+  {{/* get the authors  */}}
+  {{- $_authors := .Params.community_managers -}}
+  {{ if ge (len $_authors) 2 }}
+    <h3>Community Managers</h3>
+  {{ else }}
+    <h3>Community Manager</h3>
+  {{ end }}
+
   <div class="authors">
-    {{/* get the authors  */}}
-    {{- $_authors := .Params.community_managers -}}
 
     {{/* Count the number of authors */}}
     {{- $length := $_authors | len -}}
