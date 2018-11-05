@@ -4,6 +4,7 @@ uid: data-cabinet
 date: 2018-03-28 3:30:00 -0400
 title: 'Data Cabinet'
 summary: 'A community for data professionals across federal government to share proven best practices and critical insights.'
+deck: "A Federal Data Science Community of Practice"
 topics:
   - data
   - open-data
@@ -16,8 +17,6 @@ community_terms: "Anyone with a .gov or .mil email address is eligible to join."
 subscribe_email: "DATACABINET-subscribe-request@listserv.gsa.gov"
 subscribe_subject: "subscribe to DATA CABINET"
 ---
-
-## Welcome to the Data Cabinet: A Federal Data Science Community of Practice
 
 The U.S. Data Cabinet is a community of practice built to advance the adoption of data science best practices. We serve as the principal community of practice for data professionals across the federal government to share proven best practices and critical insights into what's working "on the front lines" at agencies. The Data Cabinet plays an essential role in advancing data-driven management, maximizing the use of the data, and enhancing problem-solving throughout government.
 

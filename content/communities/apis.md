@@ -6,7 +6,7 @@ title: 'APIs'
 members: 1351
 community_type: 'google-group'
 community_email: "api-example@gsa.gov"
-community_terms: "This community is open to anyone, in or out of government."
+community_terms: "This community is open to anyone."
 community_managers:
   - jeremyzilar
 subscribe_url: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
@@ -17,6 +17,15 @@ topics:
   - apis
   - code
   - open-source
+
+# Community Information
+community_type: 'google-group'
+community_email: "api-example@gsa.gov"
+community_terms: "This community is open to anyone."
+community_managers:
+  - gray-brooks
+  - jeremyzilar
+subscribe_url: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
 
 ---
 

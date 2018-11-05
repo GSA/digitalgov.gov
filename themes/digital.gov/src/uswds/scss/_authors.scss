@@ -1,5 +1,7 @@
 // Authors
 
+
+
 .authors{
 	@include u-margin-top(1);
 	.author{
@@ -29,5 +31,11 @@
 			}
 		}
 
+	}
+}
+
+.community-info{
+	.author{
+		border-top: none;
 	}
 }

@@ -31,29 +31,45 @@
         </div>
 
         <div class="grid-col-12 tablet-lg:grid-col-4">
+          {{/* Checking to see if community_type is defined before showing the community info box */}}
+          {{ if .Params.community_type }}
           <section class="community-info {{ .Params.community_type -}}">
 
-            {{ if eq .Params.community_type "listserv" }}
-            <a href="#" class="join"><i class="fas fa-envelope"></i> Join by email</a>
-            <div>
-              <p>To join, send an email to <strong>{{ .Params.subscribe_email }}</strong> with <code>{{ .Params.subscribe_subject }}</code> in the subject.</p>
-              {{ if .Params.community_terms }}
-              <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+            <div class="join-box">
+              {{/* If community == 'listserv' */}}
+              {{ if eq .Params.community_type "listserv" }}
+              <a href="#" class="join"><i class="fas fa-envelope"></i> Join by email</a>
+              <div>
+                <p>To join, send an email to <strong>{{ .Params.subscribe_email }}</strong> with <code>{{ .Params.subscribe_subject }}</code> in the subject.</p>
+                {{/* Checking to see if community_terms are defined */}}
+                {{ if .Params.community_terms }}
+                <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+                {{ end }}
+              </div>
+              {{ end }}
+
+              {{/* If community == 'google-group' */}}
+              {{ if eq .Params.community_type "google-group" }}
+              <a href="#" class="join"><i class="fab fa-google"></i> Join the Google Group</a>
+              <div>
+                <p>To join, visit the <a href="{{ .Params.subscribe_url }}" title="{{ .Title }}">Google Group</a> and sign up for the mailing list.</p>
+                {{/* Checking to see if community_terms are defined */}}
+                {{ if .Params.community_terms }}
+                <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+                {{ end }}
+              </div>
               {{ end }}
             </div>
-            {{ end }}
 
-            {{ if eq .Params.community_type "google-group" }}
-            <a href="#" class="join"><i class="fab fa-google"></i> Join the Google Group</a>
-            <div>
-              <p>To join, visit the <a href="{{ .Params.subscribe_url }}" title="{{ .Title }}">Google Group</a> and sign up for the mailing list.</p>
-              {{ if .Params.community_terms }}
-              <p class="terms"><em>{{ .Params.community_terms }}</em></p>
-              {{ end }}
+            {{ if .Params.community_managers }}
+            <div class="community_managers">
+              <h3>Community Managers</h3>
+              {{- partial "core/get_community_managers" . -}}
             </div>
             {{ end }}
 
           </section>
+          {{ end }}
         </div>
 
       </div>

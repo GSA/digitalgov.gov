@@ -96,12 +96,11 @@
 }
 
 .community-info{
-  @include u-bg('gold-10v');
-  @include u-padding(2);
+  @include u-bg('gray-warm-5');
   @include u-font('sans', '2xs');
-  div{
-    @include u-padding-x('05');
-    @include u-padding-bottom('05');
+  .join-box{
+    @include u-bg('gray-warm-10');
+    @include u-padding(2);
     @include u-line-height('sans', 1);
     code{
       @include u-bg('yellow-5');
@@ -109,31 +108,35 @@
       @include u-padding-x('05');
       @include u-radius('sm');
     }
-  }
-  .join{
-    @include u-margin-bottom(2);
-    @include u-padding-y(1);
-    @include u-text('center');
-    @include u-text('gray-1');
-    @include u-text('no-underline');
-    @include u-font('sans', 'md');
-    @include u-bg('gold-30v');
-    @include u-display('block');
-    @include u-radius('md');
-    @include u-text('bold');
-    &:hover{
-      @include u-bg('gold-40v');
+    .join{
+      @include u-margin-bottom(2);
+      @include u-padding-y(1);
+      @include u-text('center');
+      @include u-text('gray-1');
+      @include u-text('no-underline');
+      @include u-font('sans', 'md');
+      @include u-bg('gold-30v');
+      @include u-display('block');
+      @include u-radius('md');
+      @include u-text('bold');
+      &:hover{
+        @include u-bg('gold-40v');
+      }
+    }
+    .terms{
+      @include u-font('sans', '3xs');
     }
   }
-  .terms{
-    @include u-font('sans', '3xs');
+  .community_managers{
+    @include u-padding(2);
+    h3{
+      @include u-margin(0);
+    }
   }
-  span{
-    // @include u-bg('gold-20v');
-  }
+
 }
 .community-info.google-group{
-  @include u-bg('blue-10');
+  @include u-bg('gray-warm-5');
   .join{
     @include u-bg('blue-40v');
     &:hover{
