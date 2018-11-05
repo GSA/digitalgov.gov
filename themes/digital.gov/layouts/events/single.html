@@ -123,16 +123,35 @@
       </div>
       {{ end }}
     {{ end }}
+
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-4">
         <div class="grid-col-12 tablet:grid-col-9">
           <div class="content">
+
+            {{ if eq .Params.event_platform "zoom" }}
+              {{/* If is a Future Event */}}
+              {{ if eq $future_event true }}
+              <section class="stage">
+                <p class="font-sans-lg"><strong><i class="fas fa-desktop"></i> This event will be held over Zoom.</strong> A link to join this event will be sent via e-mail to those who register.</p>
+                <p>Visit <a href="https://zoom.us" title="Visit zoom.us">zoom.us</a> to learn more or <a href="https://zoom.us/client/latest/Zoom.pkg" title="download & run Zoom"><strong>download & run Zoom</strong></a>. If you cannot download or run the application, <a href="{{ .Params.zoom_url }}" title="join Zoom from your browser">join from your browser</a>.</p>
+
+                {{ if (isset .Params "captions") }}
+                <div class="event-tools">
+                  <p><a class="captions" href="{{ .Params.captions }}" title="Captions for the {{ .Title }}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a></p>
+                </div>
+                {{ end }}
+
+              </section>
+              {{ end }}
+            {{ end }}
+
             {{ .Content }}
           </div>
         </div>
-        <div class="grid-col-12 tablet:grid-col-3">
 
-          {{ if eq $future_event true }}
+        <div class="grid-col-12 tablet:grid-col-3">
+          {{ if and (eq $future_event true) (isset .Params "youtube_id") }}
           <div class="actions">
             {{/* Register */}}
             <a class="btn register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
