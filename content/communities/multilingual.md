@@ -3,11 +3,20 @@ url: /communities/multilingual/
 uid: multilingual
 date: 2014-02-21 4:58:10 -0400
 title: "Multilingual "
-summary: 'We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.'
+summary: 'We are working to expand and improve digital content in languages other than English.'
+deck: 'We are working to expand and improve digital content in languages other than English.'
 topics:
   - multilingual
 aliases:
   - /government-multilingual-websites-community/
+
+# Community Information
+community_type: 'listserv'
+community_email: "digitalgov@gsa.gov"
+community_managers:
+  - lgodfrey
+community_terms: "Anyone with a .gov or .mil email address is eligible to join."
+subscribe_url: "https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ"
 ---
 
 We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.

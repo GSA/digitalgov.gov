@@ -36,8 +36,21 @@
           <section class="community-info {{ .Params.community_type -}}">
 
             <div class="join-box">
-              {{/* If community == 'listserv' */}}
-              {{ if eq .Params.community_type "listserv" }}
+
+              {{/* If community == 'listserv' && signup via Google Form */}}
+              {{ if and (eq .Params.community_type "listserv") (.Params.subscribe_url) }}
+              <a href="{{ .Params.subscribe_url }}" class="join" title="Join the {{ .Title | markdownify }} Community"><i class="fas fa-file-signature"></i> Fill out the form</a>
+              <div>
+                <p>To join, <a href="{{ .Params.subscribe_url }}" title="Join the {{ .Title | markdownify }} Community">fill out this Google Form</a>.</p>
+                {{/* Checking to see if community_terms are defined */}}
+                {{ if .Params.community_terms }}
+                <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+                {{ end }}
+              </div>
+              {{ end }}
+
+              {{/* If community == 'listserv' && signup via email */}}
+              {{ if and (eq .Params.community_type "listserv") (.Params.subscribe_email) }}
               <a href="#" class="join"><i class="fas fa-envelope"></i> Join by email</a>
               <div>
                 <p>To join, send an email to <strong>{{ .Params.subscribe_email }}</strong> with <code>{{ .Params.subscribe_subject }}</code> in the subject.</p>

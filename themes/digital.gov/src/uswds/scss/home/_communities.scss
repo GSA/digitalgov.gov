@@ -110,7 +110,7 @@
     }
     .join{
       @include u-margin-bottom(2);
-      @include u-padding-y(1);
+      @include u-padding-y(2);
       @include u-text('center');
       @include u-text('gray-1');
       @include u-text('no-underline');
