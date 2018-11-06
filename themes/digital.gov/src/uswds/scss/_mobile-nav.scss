@@ -18,24 +18,30 @@
     max-width: 325px;
     display: none;
   }
-  .close{
-    @include u-padding-y(1);
-    @include u-padding-x(2);
-    @include u-text('white');
-    @include u-radius('sm');
-    @include u-display('inline-block');
-    border: 2px #fff solid;
-  }
   header{
     @include u-bg('indigo-90');
     @include u-padding-x(3);
-    @include u-padding-y(4);
+    @include u-padding-top(5);
+    @include u-padding-bottom(4);
+    @include u-flex('row');
+    @include u-flex('justify-start');
     .logo{
       @include u-bg('indigo-90');
       @include u-margin-y(0);
       img{
         width: 60%;
       }
+    }
+    .close{
+      @include u-padding-y(1);
+      @include u-padding-x(1);
+      @include u-text('white');
+      @include u-radius('sm');
+      @include u-display('inline-block');
+      @include u-font('sans', 'lg');
+      position: absolute;
+      top:0;
+      right: 0;
     }
   }
 
