@@ -1,0 +1,20 @@
+<nav class="topics-featured">
+  <header>
+    <h4>Topics</h4>
+  </header>
+  <ul class="add-list-reset">
+    {{- $top_topics := $.Site.Taxonomies.topics -}}
+    {{- range $name, $taxonomy := $top_topics -}}
+      {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+        {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+          <li>
+            <a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a>
+          </li>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  </ul>
+  <footer>
+    <p><a href="{{- "/topics/" | absURL -}}">See all {{ len $top_topics }} topics »</a></p>
+  </footer>
+</nav>

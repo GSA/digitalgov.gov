@@ -1,67 +1,52 @@
 {{/* Single Tag + article list */}}
 {{/* lists out the articles for a given tag */}}
 
-{{ define "content" }}
+{{- define "content" -}}
 
 <main role="main" id="topic" class="collection">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12 tablet:grid-col-3">
-        <nav class="topics-featured">
-          <header>
-            <h4>Topics</h4>
-          </header>
-          <ul class="add-list-reset">
-            {{ $topics := (where .Site.Pages "Section" "topics") }}
-            {{ range $name, $taxonomy := $topics.ByTitle }}
-              {{ if or (eq .Params.weight 2) (eq .Params.weight 3) }}
-              <li>
-                <a href="{{ .Permalink }}" title="{{ $name }}"><span>{{ .Title }}</span></a>
-              </li>
-              {{ end }}
-            {{ end }}
-          </ul>
-          <footer>
-            <p><a href="{{ "/topics/" | absURL }}">See all {{ len $topics }} topics »</a></p>
-          </footer>
-        </nav>
+
+        {{ partial "core/top-topics.html" . }}
+        
       </div>
 
 
       <div class="grid-col-12 tablet:grid-col-9">
         <section class="article-list">
           <header>
-            <h1>{{ .Title }}</h1>
-            {{ $allpages := (where .Pages "Section" "posts") }}
-            <p>{{ len $allpages }} pages</p>
+            <h1>{{- .Title -}}</h1>
+            {{- $allpages := (where .Pages "Section" "posts") -}}
+            <p>{{- len $allpages -}} pages</p>
           </header>
 
           {{/* Key Resources — 
           A list of the most important resources tagged with the same topic */}}
 
           {{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
-          {{ $resources := (where .Pages "Section" "resources") }}
+          {{- $resources := (where .Pages "Section" "resources") -}}
 
           {{/* If there are any resources at all... */}}
-          {{ if $resources }}
+          {{- if $resources -}}
           <section class="resources">
             <h4>Key Resources</h4>
             <ul>
-              {{ range $resources }}
-                <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
-              {{ end }}
+              {{- range $resources -}}
+                <li><a href="{{- .Permalink -}}">{{- .Title}}</a></li>
+              {{- end -}}
             </ul>
           </section>
-          {{ end }}
+          {{- end -}}
 
           {{/* Blog Posts by Topic —
           List all of the blog posts tagged with this topic */}}
-          {{ $pages := (where .Paginator.Pages "Section" "posts") }}
+          {{- $pages := (where .Paginator.Pages "Section" "posts") -}}
           {{/* If there are any blog posts at all... */}}
-          {{ if $pages }}
+          {{- if $pages -}}
             <h3>News and resources from across our community</h3>
             {{/* Loop through all the pages */}}
-            {{ range $pages }}
+            {{- range $pages -}}
 
               {{/* If the source is identified in the article */}}
               {{- if .Params.source -}}
@@ -69,7 +54,7 @@
               {{- end -}}
 
               {{/* If the type is a SPOT (means it links to another publication) */}}
-              {{ if eq .Params.type "spot" }}
+              {{- if eq .Params.type "spot" -}}
                 {{/* Spots — External links */}}
 
                 <article data-edit-this="{{- .File.Path -}}">
@@ -80,7 +65,7 @@
 
                       {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
                       {{- if $source.Params.icon -}}
-                        <img src="{{ $source.Params.icon }}" alt="">
+                        <img src="{{- $source.Params.icon -}}" alt="">
                       {{- else -}}
                         <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">
                       {{- end -}}
@@ -90,25 +75,25 @@
                       <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">
                     {{- end -}}
 
-                    {{- .Params.deck | markdownify }} <em>(via&nbsp;<a href="{{- .Params.source_url -}}">{{ .Params.source_name }}</a>)</em> <i class="fas fa-external-link-alt"></i></p>
+                    {{- .Params.deck | markdownify -}} <em>(via&nbsp;<a href="{{- .Params.source_url -}}">{{- .Params.source_name -}}</a>)</em> <i class="fas fa-external-link-alt"></i></p>
 
                   <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
                 </article>
 
               {{/* If the type is a digital.gov Blog Post */}}
-              {{ else }}
+              {{- else -}}
 
                 <article data-edit-this="{{- .File.Path -}}">
-                  <p><img src="{{ "img/digit-16.png" | absURL }}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}&nbsp;<em class="date">({{ .Date.Format "Jan _2, 2006" -}})</em></p>
+                  <p><img src="{{- "img/digit-16.png" | absURL -}}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck -}} — {{- .Params.deck -}}{{- end -}}&nbsp;<em class="date">({{- .Date.Format "Jan _2, 2006" -}})</em></p>
                   <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
                 </article>
-              {{ end }}
+              {{- end -}}
 
 
-            {{ end }}
-          {{ end }}
+            {{- end -}}
+          {{- end -}}
 
-          {{ partial "pagination.html" . }}
+          {{- partial "pagination.html" . -}}
         </section>
 
       </div>
@@ -116,4 +101,4 @@
   </div>
 </main>
 
-{{ end }}
+{{- end -}}

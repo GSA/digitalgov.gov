@@ -4,24 +4,9 @@
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12 tablet:grid-col-3">
-        <nav class="topics-featured">
-          <header>
-            <h4>Topics</h4>
-          </header>
-          <ul class="add-list-reset">
-            {{ $topics := (where .Site.Pages "Section" "topics") }}
-            {{ range $name, $taxonomy := $topics.ByTitle }}
-              {{ if or (eq .Params.weight 2) (eq .Params.weight 3) }}
-              <li>
-                <a href="{{ .Permalink }}" title="{{ $name }}"><span>{{ .Title }}</span></a>
-              </li>
-              {{ end }}
-            {{ end }}
-          </ul>
-          <footer>
-            <p><a href="{{ "/topics/" | absURL }}">See all {{ len $topics }} topics »</a></p>
-          </footer>
-        </nav>
+
+        {{ partial "core/top-topics.html" . }}
+
       </div>
 
 
