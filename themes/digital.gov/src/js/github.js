@@ -42,7 +42,7 @@ jQuery(document).ready(function($) {
 			});
 		}
 	}
-	get_commit_data(filepath);
+	// get_commit_data(filepath);
 
 	function get_branch_link(branch){
 		var path = 'https://github.com/GSA/digitalgov.gov/tree/' + branch;
