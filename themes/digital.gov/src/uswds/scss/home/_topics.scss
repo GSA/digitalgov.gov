@@ -15,7 +15,7 @@
       @include u-text('thin');
     }
     p{
-      @include u-margin(0);
+      @include u-margin-top(1);
       @include u-margin-bottom(1);
       @include u-font('sans', 'lg');
       @include u-text('light');
@@ -38,22 +38,21 @@
 }
 
 .topic{
-  @include u-margin-bottom(1);
+  @include u-margin-bottom('105');
   h3{
     @include u-margin(0);
-    @include u-font('sans', 'lg');
-    @include u-text('semibold');
     a{
-      @include u-bg('gray-1');
-      // @include u-bg('primary-light');
+      @include u-font('sans', 'lg');
+      @include u-text('light');
+      @include u-bg('white');
+      @include u-text('indigo-warm-60v');
+      border: 1px #745fe9 solid;
       @include u-padding(2);
-      border: 1px #4150f2 solid;
-      @include u-radius('md');
-      color:#4150f2;
+      @include u-radius('sm');
       @include u-display('block');
       &:hover{
-        color:#2b2c40;
-        border: 1px #2b2c40 solid;
+        @include u-text('indigo-warm-90');
+        border: 1px #5942d2 solid;
       }
     }
   }
