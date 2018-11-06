@@ -1,22 +1,20 @@
 <nav id="mobile-nav" class="">
   <a href="#" class="close">Close &times;</a>
-  <div class="nav_head">
+  <header>
     <h3 class="logo"><a href="{{ "" | absURL }}" title="Digital.gov Home"><img src="{{ "img/digitalgov-logo-white.png" | absURL }}" alt="digital.gov"></a></h3>
+  </header>
 
-  </div>
-
-
-  <div class="nav_group nav_group_main">
-    <ul class="main_nav">
+  <section class="main_nav">
+    <ul>
       <li><a href="{{ "" | absURL }}">Home</a></li>
       <li><a href="{{ "posts" | absURL }}">News</a></li>
       <li><a href="{{ "events" | absURL }}">Events</a></li>
       <li><a href="{{ "resources" | absURL }}">Resources</a></li>
       <li><a href="{{ "communities" | absURL }}">Communities</a></li>
     </ul>
-  </div>
+  </section>
 
-  <div class="nav_group">
+  <section>
     <h4>Topics</h4>
     <ul>
       {{ range .Site.Data.topicsfeatured.topicsfeatured }}
@@ -25,6 +23,9 @@
       </li>
       {{ end }}
     </ul>
-  </div>
+  </section>
 
+  <footer>
+    this is the footer
+  </footer>
 </nav>
