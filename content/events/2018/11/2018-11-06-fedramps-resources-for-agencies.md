@@ -16,6 +16,7 @@ event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/fedramps-resources-for-agencies-registration-51517233432
 youtube_id: JMSKBVKjE9g
+captions: https://www.captionedtext.com/client/event.aspx?EventID=3794666&CustomerID=321
 
 ---
 
