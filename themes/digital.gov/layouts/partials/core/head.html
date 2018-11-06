@@ -133,6 +133,10 @@
   <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
   {{ end }}
 
-  {{ partial "head--custom-css.html" . }}
+  {{ range $.Params.css }}
+    {{ $path := (printf "css/%s" .) | absURL }}
+    <link rel="stylesheet" media="all" href="{{ $path }}" type="text/css"/>
+  {{ end }}
+
 
 </head>

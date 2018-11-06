@@ -1,4 +1,4 @@
-{{- partial "set-env.html" . -}}
+{{- partial "core/set-env.html" . -}}
 {{- $list := (where .Site.Pages "Section" "topics") -}}
 {{- $length := len $list -}}
 {

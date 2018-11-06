@@ -38,7 +38,6 @@
               <div class="grid-col-3">
                 <div class="media">
                   <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
-                    {{ partial "img-featured--home.html" . }}
                   </a>
                 </div>
               </div>
@@ -56,7 +55,7 @@
           </article>
 
           {{ end }}
-          {{ partial "pagination.html" . }}
+          {{ partial "core/pagination.html" . }}
         </section>
 
       </div>

@@ -1,4 +1,4 @@
-{{- partial "set-env.html" . -}}
+{{- partial "core/set-env.html" . -}}
 {{ $promos := .Site.GetPage "page" "promo" }}
 {{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" ">=" 1 }}
 {{ $promos_count := len $promos }}
