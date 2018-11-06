@@ -39,3 +39,14 @@
 		border-top: none;
 	}
 }
+
+#author{
+	img.profile{
+		@include u-margin-right(2);
+		@include u-circle(10);
+		border:5px #f0f0ec solid;
+	}
+	h1{
+		@include u-margin-top('105');
+	}
+}
