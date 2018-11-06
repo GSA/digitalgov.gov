@@ -13,8 +13,13 @@ $("#explore").click(function() {
 	openNav();
 });
 
-$(".closebtn").click(function() {
+$(".close").click(function() {
 	closeNav();
+});
+
+$(".paper .screen").click(function() {
+	closeNav();
+	console.log('screen');
 });
 
 // $(document).bind('keyup', function (evt) {

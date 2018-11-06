@@ -10,3 +10,12 @@ body{
   margin-left: 300px;
   width: 100%;
 }
+
+.paper.open .screen{
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background: rgba(255, 255, 255, 0.7);
+  z-index: 19;
+}
