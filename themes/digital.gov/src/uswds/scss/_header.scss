@@ -26,14 +26,17 @@ header#header{
 	}
 
 	#explore{
+		position: absolute;
+		right:0;
+		top:-2px;
 		a{
-			@include u-padding-y(1);
-			@include u-padding-left(1);
-			@include u-padding-right(2);
-			border: 2px #000 solid;
+			@include u-padding(1);
+			border: 2px #5942d2 solid;
+			@include u-radius('sm');
 			@include u-text('no-underline');
 			@include u-font('sans', 'md');
 			@include u-text('semibold');
+			@include u-text('indigo-warm-60v');
 			span{
 				@include u-font('sans', 'xl');
 				position: relative;
@@ -43,9 +46,11 @@ header#header{
 	}
 	@include at-media('tablet') {
 		#explore{
-			// display: none;
+			display: none;
 		}
 	}
+
+
 
 	// Main Navigation
 	nav{
