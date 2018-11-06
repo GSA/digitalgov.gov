@@ -6,7 +6,6 @@ summary: 'Overview of initiatives across Federal government that focus on IT des
 authors:
   - john-sullivan
 topics:
-  - accessibility
   - design
   - managing-digital
   - ux
