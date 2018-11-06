@@ -12,9 +12,11 @@
   width: 80%;
   color:#fff;
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
   display: none;
   @include at-media('tablet'){
     max-width: 320px;
+    display: none;
   }
   .close{
     @include u-padding-y(1);
