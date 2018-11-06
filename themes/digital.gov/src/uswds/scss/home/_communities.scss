@@ -96,6 +96,7 @@
 }
 
 .community-info{
+  @include u-margin-bottom(3);
   @include u-bg('gray-warm-5');
   @include u-font('sans', '2xs');
   .join-box{
