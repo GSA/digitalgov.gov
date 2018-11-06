@@ -3,7 +3,7 @@
 {{- partialCached "core/head-comment.html" . -}}
 {{- partial "core/head.html" . -}}
 
-<body class="margin-0 size-sans-6 desktop:size-sans-8 line-height-sans-4 min-height-viewport">
+<body class="">
 
   {{- "<!-- Google Tag Manager (noscript) -->" | safeHTML -}}
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZCKZPQ"
@@ -12,15 +12,17 @@
 
   <a class="display-none" href="#wrap" title="Skip to page content">Skip to page content</a>
 
-  {{- partialCached "core/notice-bar.html" . -}}
-  {{- partialCached "core/usa-banner.html" . -}}
-  {{- partialCached "core/header.html" . -}}
+  <div class="paper">
 
-  {{/* Main Content */}}
-  {{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
+    {{- partialCached "core/notice-bar.html" . -}}
+    {{- partialCached "core/usa-banner.html" . -}}
+    {{- partialCached "core/header.html" . -}}
 
-  {{- partialCached "core/footer.html" . -}}
+    {{/* Main Content */}}
+    {{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
 
+    {{- partialCached "core/footer.html" . -}}
+  </div> <!-- end paper -->
 </body>
 
 <script src='{{ "lib/uswds/js/uswds.min.js" | absURL }}'></script>

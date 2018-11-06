@@ -1,20 +1,26 @@
 jQuery(document).ready(function($) {
 
-	$("#explore .close").click(function() {
-		$("#mobile-nav").toggle();
-	});
+function openNav() {
+	$('#mobile-nav').addClass('open');
+	$('.paper').addClass('open');
+}
+function closeNav() {
+	$('#mobile-nav').removeClass('open');
+	$('.paper').removeClass('open');
+}
 
-	$("#explore").click(function() {
-		$("#mobile-nav").toggle();
-		console.log('nav is clicked');
-	});
+$("#explore").click(function() {
+	openNav();
+});
 
-	$(document).bind('keyup', function (evt) {
-	  if (evt.keyCode == 27){
+$(".closebtn").click(function() {
+	closeNav();
+});
 
-			console.log('esc to site');
-			$("#mobile-nav").addClass('hide');
-		}
-	});
+// $(document).bind('keyup', function (evt) {
+//   if (evt.keyCode == 27){
+// 		openNav();
+// 	}
+// });
 
 });

@@ -1,1 +1,12 @@
 // Layout
+
+body{
+  @include u-bg('indigo-warm-80');
+}
+.paper{
+  @include u-bg('white');
+}
+.paper.open{
+  margin-left: 300px;
+  width: 100%;
+}
