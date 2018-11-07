@@ -1,29 +1,20 @@
-<nav id="mobile-nav" class="">
+<section id="mobile-nav">
   <header>
     <a href="#" class="close"><i class="fas fa-chevron-circle-right"></i></a>
     <h3 class="logo"><a href="{{ "" | absURL }}" title="Digital.gov Home"><img src="{{ "img/digitalgov-logo-white.png" | absURL }}" alt="digital.gov"></a></h3>
   </header>
 
-  <section class="main_nav">
+  <nav class="main_nav">
     <ul>
       {{ range .Site.Menus.primary }}
         <li><a href="{{.URL}}" title="{{ .Name }}">{{ .Name }}</a></li>
       {{ end }}
     </ul>
-  </section>
+  </nav>
 
-  <section>
-    <h4><i class="fas fa-list"></i> Topics</h4>
-    <ul>
-      {{ range .Site.Data.topicsfeatured.topicsfeatured }}
-      <li>
-        <a href="{{ .url | absURL }}" title="{{ .name }}">{{ .name }}</a>
-      </li>
-      {{ end }}
-    </ul>
-  </section>
+  {{ partial "core/top-topics.html" . }}
 
   <footer>
     this is the footer
   </footer>
-</nav>
+</section>

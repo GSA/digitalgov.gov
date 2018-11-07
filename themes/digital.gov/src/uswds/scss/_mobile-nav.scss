@@ -18,7 +18,7 @@
     max-width: 325px;
     display: none;
   }
-  header{
+  > header{
     @include u-bg('indigo-90');
     @include u-padding-x(3);
     @include u-padding-top(5);
@@ -46,15 +46,18 @@
   }
 
 
-  section{
+  nav{
+    @include u-margin-y(2);
     @include u-bg('indigo-80');
+    @include u-text('gray-1');
     @include u-font('sans', 'md');
     h4{
       @include u-margin-y(0);
-      @include u-padding-x(3);
-      @include u-padding-y('105');
       @include u-font('sans', 'md');
       @include u-text('thin');
+      i{
+        @include u-display('inline');
+      }
     }
     ul{
       @include u-margin-y(0);
@@ -64,8 +67,13 @@
           @include u-padding-x(3);
           @include u-padding-y(1);
           @include u-display('block');
-          color:#f7bca2;
+          @include u-text('light');
+          @include u-text('orange-warm-20v');
           @include u-text('no-underline');
+          @include u-font('sans', 'sm');
+          &:hover{
+            @include u-bg('indigo-80');
+          }
           // span:hover{
           //   border-bottom: 3px #656bd7 solid;
           // }
@@ -79,13 +87,13 @@
 
   }
   .main_nav{
-    @include u-font('sans', 'md');
-    @include u-text('medium');
     @include u-bg('indigo-80');
     ul{
       @include u-margin-y('105');
       li{
         a{
+          @include u-font('sans', 'md');
+          @include u-text('medium');
           @include u-padding-y('105');
           color:#fff;
         }

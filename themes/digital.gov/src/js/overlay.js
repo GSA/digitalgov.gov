@@ -10,10 +10,4 @@ jQuery(document).ready(function($) {
 		}
 	});
 
-	$(document).bind('keyup', function (evt) {
-	  if (evt.keyCode == 27){
-			$("#mobile-nav").toggle();
-		}
-	});
-
 });
