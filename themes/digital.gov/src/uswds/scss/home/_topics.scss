@@ -42,7 +42,7 @@
   h3{
     @include u-margin(0);
     a{
-      @include u-font('sans', 'md');
+      @include u-font('sans', 'lg');
       @include u-text('normal');
       @include u-bg('white');
       @include u-text('indigo-warm-60v');
@@ -50,7 +50,7 @@
       @include u-padding(2);
       @include u-radius('sm');
       @include u-display('block');
-      transition: background-color .4s, color .4s;
+      transition: background-color .5s, color .5s;
       span{
         float: right;
         transition: margin .4s;
@@ -71,9 +71,9 @@
 
 .topic-slim{
   h3{
-    @include u-font('sans', 'md');
-    @include u-text('medium');
     a{
+      @include u-font('sans', 'md');
+      @include u-text('medium');
       @include u-padding-y(1);
     }
   }

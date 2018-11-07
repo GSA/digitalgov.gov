@@ -11,6 +11,7 @@
           <h6 class="breadcrumb"><a href="{{- "topics/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Topics</span> </a></h6>
           <h1>{{- .Title -}}</h1>
           {{- $allpages := (where .Pages "Section" "posts") -}}
+          <p>{{- .Params.summary -}}</p>
           <p>{{- len $allpages }} pages</p>
         </div>
       </div>
