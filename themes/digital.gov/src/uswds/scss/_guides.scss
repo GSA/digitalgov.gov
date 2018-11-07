@@ -1,12 +1,4 @@
 // Guide Nav
-
-h5.guide-title{
-	@include u-margin-top(0);
-	@include u-margin-bottom(1);
-	@include u-display('inline-block');
-	@include u-font('sans', 'sm');
-}
-
 .guide-nav-box {
 	@include u-margin-bottom(5);
 	.guide-title{
@@ -79,5 +71,14 @@ h5.guide-title{
 			}
 		}
 
+	}
+}
+
+.quote{
+	@include u-padding-y(4);
+	p{
+		@include u-font('sans', '2xl');
+		@include u-text('italic');
+		@include u-line-height('sans', 2);
 	}
 }
