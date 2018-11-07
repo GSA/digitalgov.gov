@@ -46,7 +46,7 @@
                       <li><a class="github" rel="external" title="{{- $person_name -}} on GitHub" href="http://www.github.com/{{- $person.github -}}"><i class="fab fa-github-square"></i></a></li>
                     {{- end -}}
                     <li><a class="rss" title="RSS Feed for {{ $person_name }}" href="{{ .RSSLink }}"><i class="fas fa-rss-square"></i></a></li>
-                    <li><a class="json" title="API for {{ $person_name }}" href="{{ .RSSLink }}"><i class="fas fa-circle-notch"></i></a></li>
+                    <li><a class="json" title="API for {{ $person_name }}" href="{{ .Permalink }}index.json"><i class="fab fa-js-square"></i></a></li>
                   </ul>
                 </div>
               </div>
