@@ -48,6 +48,7 @@
       @include u-text('indigo-warm-60v');
       border: 1px #745fe9 solid;
       @include u-padding(2);
+      @include u-padding-right('105');
       @include u-radius('sm');
       @include u-display('block');
       transition: background-color .5s, color .5s;
