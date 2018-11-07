@@ -111,8 +111,15 @@
   {{ "<!-- jQuery | ver=1.12.4 -->" | safeHTML }}
   <script type='text/javascript' src='{{ "js/jquery.js" | absURL }}'></script>
 
-  {{ "<!-- Favicon -->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ "img/digit-16.png" | absURL }}" type="image/x-icon" />
+  {{ "<!-- Favicons & Icons -->" | safeHTML }}
+  <link rel="apple-touch-icon" sizes="180x180" href='{{ "img/icons/apple-touch-icon.png" | absURL }}'>
+  <link rel="icon" type="image/png" sizes="32x32" href='{{ "img/icons/favicon-32x32.png" | absURL }}'>
+  <link rel="icon" type="image/png" sizes="16x16" href='{{ "img/icons/favicon-16x16.png" | absURL }}'>
+  <link rel="manifest" href='{{ "img/icons/manifest.json" | absURL }}'>
+  <link rel="mask-icon" href='{{ "img/icons/safari-pinned-tab.svg" | absURL }}' color="#333333">
+  <link rel="shortcut icon" href='{{ "img/icons/favicon.ico" | absURL }}'>
+  <meta name="msapplication-config" content='{{ "img/icons/browserconfig.xml" | absURL }}'>
+  <meta name="theme-color" content="#ffffff">
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
@@ -127,6 +134,7 @@
     editpathURL      = {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $.File.Path }};
     <!-- {{ getenv "BRANCH" }} | {{ $.Scratch.Get "branch" }} -->
   </script>
+
 
   {{ if eq .Section "events" }}
   {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
