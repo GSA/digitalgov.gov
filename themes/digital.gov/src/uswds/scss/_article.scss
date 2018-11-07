@@ -41,6 +41,12 @@ main{
      	@include u-font('sans', 'xl');
      	@include u-text('light');
    	}
+
+		p{
+			@include u-margin(0);
+			@include u-font('sans', 'lg');
+		}
+		
  	}
 
 
