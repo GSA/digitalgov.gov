@@ -2,7 +2,7 @@
 <main role="main">
   <section class="person">
     <div class="grid-container grid-container-desktop">
-      <div class="grid-row">
+      <div class="grid-row grid-gap-6">
         <div class="grid-col-12 tablet-lg:grid-col-5">
           <header>
             {{ $slug := .Title | urlize }}
@@ -28,9 +28,10 @@
                 <p>
                   {{- if $person.agency -}}{{- $person.agency }} | {{ end -}}
                   {{- if $person.location -}}{{- $person.location}}{{- end -}}
+                  {{ if $person.email }}<br/><a href="mailto:{{- $person.email -}}" title="Email {{ $person_name -}}">{{- $person.email -}}</a>{{- end -}}
                 </p>
                 {{- end -}}
-                
+
                 {{- with $person.bio -}}
                 <p>{{- . | markdownify -}}</p>
                 {{- end -}}
@@ -54,9 +55,6 @@
                   {{- end -}}
                   <li><a class="rss" title="RSS Feed for {{ $person_name }}" href="{{ .RSSLink }}"><i class="fas fa-rss-square"></i></a></li>
                   <li><a class="json" title="API for {{ $person_name }}" href="{{ .Permalink }}index.json"><i class="fab fa-js-square"></i></a></li>
-                  {{- with $person.email -}}
-                    <li><a class="email" rel="external" title="Email {{- $person_name -}}" href="mailto:{{- $person.email -}}"><i class="far fa-envelope"></i></a></li>
-                  {{- end -}}
                 </ul>
               </div>
             </div>

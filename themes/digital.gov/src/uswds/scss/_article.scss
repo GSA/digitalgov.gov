@@ -5,8 +5,7 @@ main{
 
 	// Base Article Header Styles
 	> header,
- 	> article > header,
- 	> .person header{
+ 	> article > header{
 		// @include u-bg('red-10');
 		@include u-margin-bottom(4);
    	// Breadcrumbs
