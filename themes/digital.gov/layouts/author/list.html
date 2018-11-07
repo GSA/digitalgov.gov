@@ -1,65 +1,70 @@
 {{ define "content" }}
 <main role="main">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12">
-            <section class="author">
-              {{ $slug := .Title | urlize }}
-              {{ $person := index $.Site.Data.people.authors $slug }}
-              {{ $person_name := $person.display_name | default .Title }}
+  <section class="person">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet-lg:grid-col-5">
+          <header>
+            {{ $slug := .Title | urlize }}
+            {{ $person := index $.Site.Data.people.authors $slug }}
+            {{ $person_name := $person.display_name | default .Title }}
 
-              {{ $slug := .Title | urlize }}
-              {{ $person := index $.Site.Data.people.authors $slug }}
-              {{ $person_name := $person.display_name | default .Title }}
+            {{ $slug := .Title | urlize }}
+            {{ $person := index $.Site.Data.people.authors $slug }}
+            {{ $person_name := $person.display_name | default .Title }}
 
-              {{- if $person.github -}}
-              <img class="profile" src="https://github.com/{{- $person.github -}}.png?size=100" srcset="https://www.github.com/{{-  $person.github -}}.png?size=200" alt="Photo: {{- $person_name -}}">
-              {{- else -}}
-              <img class="profile" src="http://placekitten.com/200/200" alt="">
-              {{- end -}}
-              <div>
-                {{/* Name */}}
-                <h1>{{ $person_name }}</h1>
-                {{/* Bio */}}
-                <div class="bio">
-                  {{- with $person.bio -}}
-                  <p>{{- . | markdownify -}}</p>
+            {{- if $person.github -}}
+            <img class="profile" src="https://github.com/{{- $person.github -}}.png?size=100" srcset="https://www.github.com/{{-  $person.github -}}.png?size=200" alt="Photo: {{- $person_name -}}">
+            {{- else -}}
+            <img class="profile" src="http://placekitten.com/200/200" alt="">
+            {{- end -}}
+            <div>
+              {{/* Name */}}
+              <h1>{{ $person_name }}</h1>
+              {{/* Bio */}}
+              <div class="bio">
+
+                {{- if or $person.location $person.agency -}}
+                <p>
+                  {{- if $person.agency -}}{{- $person.agency }} | {{ end -}}
+                  {{- if $person.location -}}{{- $person.location}}{{- end -}}
+                </p>
+                {{- end -}}
+                
+                {{- with $person.bio -}}
+                <p>{{- . | markdownify -}}</p>
+                {{- end -}}
+                {{/* Website */}}
+                {{- with $person.website -}}<p><a rel="external" title="{{- $person_name -}} Website" href="{{- . -}}">{{- . -}}</a></p>{{- end -}}
+                <ul class="add-list-reset">
+                  {{- with $person.facebook -}}
+                    <li><a class="facebook" rel="external" title="{{- $person_name -}} on Facebook" href="http://www.facebook.com/{{- $person.facebook -}}/"><i class="fab fa-facebook-square"></i></a></li>
                   {{- end -}}
-                  {{/* Website */}}
-                  {{- with $person.website -}}<p><a rel="external" title="{{- $person_name -}} Website" href="{{- . -}}">{{- . -}}</a></p>{{- end -}}
-                  <ul class="add-list-reset">
-                    {{- with $person.facebook -}}
-                      <li><a class="facebook" rel="external" title="{{- $person_name -}} on Facebook" href="http://www.facebook.com/{{- $person.facebook -}}/"><i class="fab fa-facebook-square"></i></a></li>
-                    {{- end -}}
-                    {{- with $person.twitter -}}
-                      <li><a class="twitter" rel="external" title="{{- $person_name -}} on Twitter" href="http://www.twitter.com/{{- $person.twitter -}}/"><i class="fab fa-twitter-square"></i></a></li>
-                    {{- end -}}
-                    {{- with $person.linkedin -}}
-                      <li><a class="linkedin" rel="external" title="{{- $person_name -}} on LinkedIn" href="http://www.linkedin.com/in/{{- $person.linkedin -}}/"><i class="fab fa-linkedin"></i></a></li>
-                    {{- end -}}
-                    {{- with $person.youtube -}}
-                      <li><a class="youtube" rel="external" title="{{- $person_name -}} on YouTube" href="http://www.youtube.com/user/{{- $person.youtube -}}"><i class="fab fa-youtube-square"></i></a></li>
-                    {{- end -}}
-                    {{- with $person.github -}}
-                      <li><a class="github" rel="external" title="{{- $person_name -}} on GitHub" href="http://www.github.com/{{- $person.github -}}"><i class="fab fa-github-square"></i></a></li>
-                    {{- end -}}
-                    <li><a class="rss" title="RSS Feed for {{ $person_name }}" href="{{ .RSSLink }}"><i class="fas fa-rss-square"></i></a></li>
-                    <li><a class="json" title="API for {{ $person_name }}" href="{{ .Permalink }}index.json"><i class="fab fa-js-square"></i></a></li>
-                  </ul>
-                </div>
+                  {{- with $person.twitter -}}
+                    <li><a class="twitter" rel="external" title="{{- $person_name -}} on Twitter" href="http://www.twitter.com/{{- $person.twitter -}}/"><i class="fab fa-twitter-square"></i></a></li>
+                  {{- end -}}
+                  {{- with $person.linkedin -}}
+                    <li><a class="linkedin" rel="external" title="{{- $person_name -}} on LinkedIn" href="http://www.linkedin.com/in/{{- $person.linkedin -}}/"><i class="fab fa-linkedin"></i></a></li>
+                  {{- end -}}
+                  {{- with $person.youtube -}}
+                    <li><a class="youtube" rel="external" title="{{- $person_name -}} on YouTube" href="http://www.youtube.com/user/{{- $person.youtube -}}"><i class="fab fa-youtube-square"></i></a></li>
+                  {{- end -}}
+                  {{- with $person.github -}}
+                    <li><a class="github" rel="external" title="{{- $person_name -}} on GitHub" href="http://www.github.com/{{- $person.github -}}"><i class="fab fa-github-square"></i></a></li>
+                  {{- end -}}
+                  <li><a class="rss" title="RSS Feed for {{ $person_name }}" href="{{ .RSSLink }}"><i class="fas fa-rss-square"></i></a></li>
+                  <li><a class="json" title="API for {{ $person_name }}" href="{{ .Permalink }}index.json"><i class="fab fa-js-square"></i></a></li>
+                  {{- with $person.email -}}
+                    <li><a class="email" rel="external" title="Email {{- $person_name -}}" href="mailto:{{- $person.email -}}"><i class="far fa-envelope"></i></a></li>
+                  {{- end -}}
+                </ul>
               </div>
-            </section>
-          </div>
+            </div>
+          </header>
         </div>
-      </div>
-    </header>
+        <div class="grid-col-12 tablet-lg:grid-col-7">
+          <section class="article-list">
 
-    <section class="article-list">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12">
             {{/* Blog Posts by Author —
             List all of the blog posts by this author */}}
             {{ $pages := (where .Paginator.Pages "Section" "posts") }}
@@ -112,10 +117,11 @@
 
               {{ end }}
             {{ end }}
-          </div>
+
+          </section>
         </div>
-      <div>
-    </section>
-  </article>
+      </div>
+    </div>
+  </section>
 </main>
 {{ end }}

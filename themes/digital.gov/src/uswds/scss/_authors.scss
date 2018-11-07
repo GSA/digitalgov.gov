@@ -40,7 +40,7 @@
 	}
 }
 
-.author{
+.person{
 	img.profile{
 		@include u-margin-right('105');
 		@include u-circle(10);
@@ -53,7 +53,7 @@
 	.bio{
 		p{
 			@include u-margin-top(0);
-			@include u-font('sans', 'lg');
+			@include u-font('sans', 'md');
 		}
 		ul{
 			li{

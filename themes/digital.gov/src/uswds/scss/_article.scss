@@ -1,9 +1,13 @@
 // Article
 
 main{
+	@include u-margin-bottom(5);
+
 	// Base Article Header Styles
 	> header,
- 	> article > header{
+ 	> article > header,
+ 	> .person header{
+		// @include u-bg('red-10');
 		@include u-margin-bottom(4);
    	// Breadcrumbs
    	h6.breadcrumb{
@@ -46,7 +50,7 @@ main{
 			@include u-margin(0);
 			@include u-font('sans', 'lg');
 		}
-		
+
  	}
 
 
