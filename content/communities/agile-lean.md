@@ -26,6 +26,7 @@ We are a diverse community of project managers, developers, agency leaders, and 
 
 ### What we do
 The Agile/Lean Community of Practice has three goals:
+
 1. To share best practices and case studies of successful agile/lean projects in the federal agencies.
 2. To provide learning opportunities through unconferences, webinars, and other training to help increase the adoption of agile/lean methodologies in government.
 3. To serve as a voice for the Agile/Lean federal government community.
