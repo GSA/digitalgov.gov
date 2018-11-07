@@ -18,7 +18,7 @@ youtube_id: VyAD1sKB0XU
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._
 
-We’ve teamed up with our friends at CFPB to bring you a two-part series on A/B Testing. Join us to hear Kelley Holden of CFPB explain how they use A/B testing tools to test and improve User Experience on their site! Part 1 (and Part 2 after the webinar is over) will be available on our [Youtube Analytics Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P).
+We’ve teamed up with our friends at CFPB to bring you a two-part series on A/B Testing. Join us to hear Kelley Holden of CFPB explain how they use A/B testing tools to test and improve User Experience on their site! Part 1 (and Part 2 after the webinar is over) will be available on our [YouTube Analytics Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P).
 
 ### What you’ll learn:
 
