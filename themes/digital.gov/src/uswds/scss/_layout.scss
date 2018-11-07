@@ -3,6 +3,7 @@
 body{
   @include u-bg('indigo-warm-80');
 }
+
 .paper{
   @include u-bg('white');
 }

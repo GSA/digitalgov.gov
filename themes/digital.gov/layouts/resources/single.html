@@ -6,7 +6,7 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12">
-            <h6 class="breadcrumb"><a href="{{- "posts/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>Latest News</span> </a></h6>
+            <h6 class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></h6>
 
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}} </h1>
@@ -23,14 +23,17 @@
     <section>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row margin-y-2 grid-gap-6">
-          <div class="grid-col-3">
-            {{/* Authors */}}
-            {{- partial "core/get_authors" . -}}
 
-            {{/* Date */}}
-            <div class="date">
-              <a href="{{- .Permalink -}} " rel="nofollow" title="{{- .Title | markdownify -}} ">{{- .Date.Format "Jan _2, 2006" -}} </a>
+          <div class="grid-col-9">
+
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
             </div>
+
+          </div>
+
+          <div class="grid-col-3">
 
             {{/* Last updated */}}
             {{/* {{- partial "last-updated" . -}}  */}}
@@ -49,25 +52,10 @@
 
           </div>
 
-          <div class="grid-col-9">
-
-            {{/* Content */}}
-            <div class="content">
-              {{- .Content -}}
-            </div>
-
-          </div>
-          
         </div>
       </div>
     </section>
 
-
-    {{- partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) -}}
-
   </article>
 </main>
-
-  {{- partial "core/overlay" . -}}
-
 {{- end -}}

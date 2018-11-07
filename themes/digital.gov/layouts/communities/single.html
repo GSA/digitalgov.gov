@@ -1,13 +1,12 @@
 {{ define "content" }}
 
 <main role="main" class="page">
-
   <article>
-    <div class="grid-container grid-container-desktop">
-
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <header>
+    
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
 
             <h6 class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span></a></h5>
             {{/* Page Title */}}
@@ -17,82 +16,78 @@
             {{- if .Params.deck -}}
             <div class="deck font-sans-xl text-light">{{- .Params.deck -}}</div>
             {{- end -}}
-            {{/* {{ partial "last-updated" . }} */}}
-          </header>
-        </div>
-      </div>
 
-      <div class="grid-row grid-gap-6">
-
-        <div class="grid-col-12 tablet-lg:grid-col-4">
-          {{/* Checking to see if community_type is defined before showing the community info box */}}
-          {{ if .Params.community_type }}
-          <section class="community-info {{ .Params.community_type -}}">
-
-            <div class="join-box">
-
-              {{/* If community == 'listserv' && signup via Google Form */}}
-              {{ if and (eq .Params.community_type "listserv") (.Params.google_form) }}
-              <a href="{{ .Params.subscribe_url }}" class="join" title="Join the {{ .Title | markdownify }} Community"><i class="fas fa-file-signature"></i> Fill out the form</a>
-              <div>
-                <p>To join, <a href="{{ .Params.subscribe_url }}" title="Join the {{ .Title | markdownify }} Community">fill out this Google Form</a>.</p>
-                {{/* Checking to see if community_terms are defined */}}
-                {{ if .Params.community_terms }}
-                <p class="terms"><em>{{ .Params.community_terms }}</em></p>
-                {{ end }}
-              </div>
-              {{ end }}
-
-              {{/* If community == 'listserv' && signup via email */}}
-              {{ if and (eq .Params.community_type "listserv") (.Params.subscribe_email) }}
-              <a href="#" class="join"><i class="fas fa-envelope"></i> Join by email</a>
-              <div>
-                <p>To join, send an email to <strong>{{ .Params.subscribe_email }}</strong> with <code>{{ .Params.subscribe_subject }}</code> in the subject.</p>
-                {{/* Checking to see if community_terms are defined */}}
-                {{ if .Params.community_terms }}
-                <p class="terms"><em>{{ .Params.community_terms }}</em></p>
-                {{ end }}
-              </div>
-              {{ end }}
-
-              {{/* If community == 'google-group' */}}
-              {{ if eq .Params.community_type "google-group" }}
-              <a href="#" class="join"><i class="fab fa-google"></i> Join the Google Group</a>
-              <div>
-                <p>To join, visit the <a href="{{ .Params.subscribe_url }}" title="{{ .Title }}">Google Group</a> and sign up for the mailing list.</p>
-                {{/* Checking to see if community_terms are defined */}}
-                {{ if .Params.community_terms }}
-                <p class="terms"><em>{{ .Params.community_terms }}</em></p>
-                {{ end }}
-              </div>
-              {{ end }}
-            </div>
-
-            {{ if .Params.community_managers }}
-            <div class="community_managers">
-              {{- partial "core/get_community_managers" . -}}
-            </div>
-            {{ end }}
-
-          </section>
-          {{ end }}
-        </div>
-
-        <div class="grid-col-12 tablet-lg:grid-col-8">
-          <div class="content">
-            {{ .Content }}
           </div>
         </div>
-
       </div>
+    </header>
 
-      <div class="grid-row grid-gap-6">
-        <div class="grid-col-12">
-          {{ partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
+    <section>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row grid-gap-6">
+          <div class="grid-col-12 tablet-lg:grid-col-4">
+            {{/* Checking to see if community_type is defined before showing the community info box */}}
+            {{ if .Params.community_type }}
+            <section class="community-info {{ .Params.community_type -}}">
+
+              <div class="join-box">
+
+                {{/* If community == 'listserv' && signup via Google Form */}}
+                {{ if and (eq .Params.community_type "listserv") (.Params.google_form) }}
+                <a href="{{ .Params.subscribe_url }}" class="join" title="Join the {{ .Title | markdownify }} Community"><i class="fas fa-file-signature"></i> Fill out the form</a>
+                <div>
+                  <p>To join, <a href="{{ .Params.subscribe_url }}" title="Join the {{ .Title | markdownify }} Community">fill out this Google Form</a>.</p>
+                  {{/* Checking to see if community_terms are defined */}}
+                  {{ if .Params.community_terms }}
+                  <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+                  {{ end }}
+                </div>
+                {{ end }}
+
+                {{/* If community == 'listserv' && signup via email */}}
+                {{ if and (eq .Params.community_type "listserv") (.Params.subscribe_email) }}
+                <a href="#" class="join"><i class="fas fa-envelope"></i> Join by email</a>
+                <div>
+                  <p>To join, send an email to <strong>{{ .Params.subscribe_email }}</strong> with <code>{{ .Params.subscribe_subject }}</code> in the subject.</p>
+                  {{/* Checking to see if community_terms are defined */}}
+                  {{ if .Params.community_terms }}
+                  <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+                  {{ end }}
+                </div>
+                {{ end }}
+
+                {{/* If community == 'google-group' */}}
+                {{ if eq .Params.community_type "google-group" }}
+                <a href="#" class="join"><i class="fab fa-google"></i> Join the Google Group</a>
+                <div>
+                  <p>To join, visit the <a href="{{ .Params.subscribe_url }}" title="{{ .Title }}">Google Group</a> and sign up for the mailing list.</p>
+                  {{/* Checking to see if community_terms are defined */}}
+                  {{ if .Params.community_terms }}
+                  <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+                  {{ end }}
+                </div>
+                {{ end }}
+              </div>
+
+              {{ if .Params.community_managers }}
+              <div class="community_managers">
+                {{- partial "core/get_community_managers" . -}}
+              </div>
+              {{ end }}
+
+            </section>
+            {{ end }}
+          </div>
+
+          <div class="grid-col-12 tablet-lg:grid-col-8">
+            <div class="content">
+              {{ .Content }}
+            </div>
+          </div>
+
         </div>
       </div>
-
-    </div>
+    </section>
   </article>
 </main>
 

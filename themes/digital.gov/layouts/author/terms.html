@@ -1,22 +1,23 @@
 {{ define "content" }}
 <main role="main" id="author">
   <article>
-    <div class="grid-container grid-container-desktop">
 
-      {{/* header */}}
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <header>
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
             {{ $authors := $.Site.Data.people.authors }}
             <h1>Authors</h1>
             <h4>There are {{ len $authors }} authors</h4>
-          </header>
+          </div>
         </div>
       </div>
+    </header>
 
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <section>
+    <section>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
             {{ $data := $.Site.Data }}
             {{ if eq $.Data.Plural "authors" }}
             {{ $taxo := $.Data.Terms.Alphabetical  }}
@@ -27,12 +28,10 @@
                   <h3><a href="{{ $link | absURL }}">{{ $author.display_name | default $uid }} ({{ $tax.Count }})</a></h3>
               {{ end }}
             {{ end }}
-          </section>
+          </div>
         </div>
       </div>
-
-
-    </div>
+    </section>
   </article>
 </main>
 {{ end }}

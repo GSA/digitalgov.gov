@@ -1,78 +1,80 @@
 {{ define "content" }}
 
-<main role="main" id="communities">
-  <article>
+<main role="main">
+  <header>
     <div class="grid-container grid-container-desktop">
       <div class="grid-row">
         <div class="grid-col-12">
-          <header>
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}} </h1>
 
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck -}}</div>
-            {{- end -}}
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
 
-          </header>
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck -}}</div>
+          {{- end -}}
+
         </div>
-
-        {{/* content */}}
-        <section class="communities-list">
-          <div class="grid-row grid-gap-2">
-
-            {{ $current_url := .URL }}
-            {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
-            {{ range $i, $e := $communities }}
-              {{/* If $current_url is NOT equal to the URL, then print the page */}}
-              {{ if not (eq $current_url $e.URL) }}
-              <div class="grid-col-12 tablet:grid-col-6 tablet:flex-6">
-
-                <article class="promo" data-edit-this="{{- .File.Path -}}">
-                  <div class="grid-row grid-gap-4">
-                    <div class="grid-col-9">
-                      <h4><a href="{{ $e.Permalink }}" title="{{ $e.Title }}"><strong>{{ $e.Title }}</strong></a></h4>
-                    </div>
-                    <div class="grid-col-3">
-                      {{- if .Params.members -}}
-                      <p class="members"><i class="fas fa-user"></i>&nbsp;{{- .Params.members -}}</p>
-                      {{- end -}}
-                    </div>
-                  </div>
-                  <div class="grid-row grid-gap-4">
-                    <div class="grid-col-12">
-                      <p>{{ $e.Params.summary }}</p>
-                    </div>
-                  </div>
-                  <a href="{{ $e.Permalink }}" title="{{ .Params.head }}"><span></span></a>
-                </article>
-
-              </div>
-              {{ end }}
-            {{ end }}
-          </div>
-        </section>
-
       </div>
-
-      <section class="community-guidelines">
-        <div class="grid-row">
-          <div class="grid-col-12 tablet:grid-col-8">
-            <h2>Community Guidelines</h2>
-          </div>
-        </div>
-        <div class="grid-row grid-gap-4">
-          <div class="grid-col-12 tablet:grid-col-8">
-            <p>Our lawyers wanted to remind you — <em>Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the <a href="https://www.foia.gov/">Freedom of Information Act</a> (FOIA).</em></p>
-
-          </div>
-          <div class="grid-col-12 tablet:grid-col-4">
-            <p><strong>For more information on Communities</strong>, or to propose a new inter-agency group, please send an email to <a href="mailto:digitalgov@gsa.gov?subject=Communities">digitalgov@gsa.gov</a>.</p>
-          </div>
-        </div>
-      </section>
     </div>
-  </article>
+  </header>
+
+
+  <section class="communities-list">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-2">
+        {{ $current_url := .URL }}
+        {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
+        {{ range $i, $e := $communities }}
+          {{/* If $current_url is NOT equal to the URL, then print the page */}}
+          {{ if not (eq $current_url $e.URL) }}
+          <div class="grid-col-12 tablet:grid-col-6 tablet:flex-6">
+
+            <article class="promo" data-edit-this="{{- .File.Path -}}">
+              <div class="grid-row grid-gap-4">
+                <div class="grid-col-9">
+                  <h4><a href="{{ $e.Permalink }}" title="{{ $e.Title }}"><strong>{{ $e.Title }}</strong></a></h4>
+                </div>
+                <div class="grid-col-3">
+                  {{- if .Params.members -}}
+                  <p class="members"><i class="fas fa-user"></i>&nbsp;{{- .Params.members -}}</p>
+                  {{- end -}}
+                </div>
+              </div>
+              <div class="grid-row grid-gap-4">
+                <div class="grid-col-12">
+                  <p>{{ $e.Params.summary }}</p>
+                </div>
+              </div>
+              <a href="{{ $e.Permalink }}" title="{{ .Params.head }}"><span></span></a>
+            </article>
+
+          </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="community-guidelines">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-8">
+          <h2>Community Guidelines</h2>
+        </div>
+      </div>
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12 tablet:grid-col-8">
+          <p>Our lawyers wanted to remind you — <em>Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the <a href="https://www.foia.gov/">Freedom of Information Act</a> (FOIA).</em></p>
+
+        </div>
+        <div class="grid-col-12 tablet:grid-col-4">
+          <p><strong>For more information on Communities</strong>, or to propose a new inter-agency group, please send an email to <a href="mailto:digitalgov@gsa.gov?subject=Communities">digitalgov@gsa.gov</a>.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
 </main>
 
 {{ end }} {{/* end 'content' block */}}

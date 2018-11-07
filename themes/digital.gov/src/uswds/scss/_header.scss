@@ -2,12 +2,13 @@
 
 header#header{
 	@include u-bg('gray-warm-5');
+	@include u-margin-bottom(2);
 	@include u-padding-top(3);
 	@include u-padding-bottom(3);
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
-		@include u-padding-y(4);
-		@include u-padding-bottom(5);
+		@include u-padding-y(3);
+		@include u-padding-bottom(4);
 	}
 
 	// Logo
@@ -22,7 +23,7 @@ header#header{
 			@include u-text('no-underline');
 		}
 		img{
-			@include u-width('card');
+			width: 12rem;
 		}
 	}
 

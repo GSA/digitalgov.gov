@@ -1,43 +1,45 @@
 {{ define "content" }}
 
-<main role="main" id="events">
-
-  <section>
-    <div class="grid-container grid-container-desktop">
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <header>
+<main role="main">
+  <article>
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
             <h1>Upcoming Events</h1>
-          </header>
+          </div>
         </div>
       </div>
+    </header>
+  </article>
 
+  <section class="events-list">
+    <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-3">
         <div class="grid-col-12">
-          <section>
-            {{ range .Data.Pages.Reverse }}
-            {{ $now := now.Format "2006-01-02" }}
-            {{ $start := .Date.Format "2006-01-02"  }}
+          {{ range .Data.Pages.Reverse }}
+          {{ $now := now.Format "2006-01-02" }}
+          {{ $start := .Date.Format "2006-01-02"  }}
 
-            {{ if .Params.End_date }}
-              {{ $end := dateFormat "2006-01-02" .Params.End_date }}
-              {{ if or (ge $start $now) (ge $end $now)}}
-                {{ if .Params.registration_url }}
-                  {{ .Render "event-card"}}
-                {{ end }}
-              {{ end }}
-
-              {{ else if ge $start $now }}
-                {{ if .Params.registration_url }}
-                  {{ .Render "event-card"}}
-                {{ end }}
+          {{ if .Params.End_date }}
+            {{ $end := dateFormat "2006-01-02" .Params.End_date }}
+            {{ if or (ge $start $now) (ge $end $now)}}
+              {{ if .Params.registration_url }}
+                {{ .Render "event-card"}}
               {{ end }}
             {{ end }}
-          </section>
+
+            {{ else if ge $start $now }}
+              {{ if .Params.registration_url }}
+                {{ .Render "event-card"}}
+              {{ end }}
+            {{ end }}
+          {{ end }}
         </div>
       </div>
     </div>
   </section>
+
 </main>
 
 <div id="events-past" class="display-none events-list">

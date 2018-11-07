@@ -40,35 +40,30 @@
 	}
 }
 
-#author{
-	header{
-		img.profile{
-			@include u-margin-right('105');
-			@include u-circle(10);
-			border:5px #f0f0ec solid;
+.author{
+	img.profile{
+		@include u-margin-right('105');
+		@include u-circle(10);
+		border:5px #f0f0ec solid;
+	}
+	h1{
+		@include u-margin-top('105');
+		@include u-margin-bottom(0);
+	}
+	.bio{
+		p{
+			@include u-margin-top(0);
+			@include u-font('sans', 'lg');
 		}
-		h1{
-			@include u-margin-top('105');
-			@include u-margin-bottom(0);
-		}
-		.bio{
-			p{
-				@include u-margin-top(0);
-				@include u-font('sans', 'lg');
-			}
-			ul{
-				li{
-					@include u-margin-right(1);
-					@include u-font('sans', 'xl');
-					@include u-display('inline-block');
-					a{
-						@include u-text('indigo-80');
-					}
+		ul{
+			li{
+				@include u-margin-right(1);
+				@include u-font('sans', 'xl');
+				@include u-display('inline-block');
+				a{
+					@include u-text('indigo-80');
 				}
 			}
 		}
-
-
 	}
-
 }

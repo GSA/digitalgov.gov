@@ -2,40 +2,45 @@
 {{/* lists out the tags for the site */}}
 {{- define "content" -}}
 
-<main role="main" class="taxonomy">
-  <div class="grid-container grid-container-desktop">
+<main role="main">
 
-    <div class="grid-row grid-gap-4">
-      <div class="grid-col-12">
-        <header>
+  <header>
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
           {{- $topics := (where .Site.Pages "Section" "topics") -}}
           <h1>Topics</h1>
           <h4>There are {{ len $topics }} topics</h4>
-        </header>
+        </div>
       </div>
     </div>
+  </header>
 
-    <div class="grid-row grid-gap-2">
-      {{- $top_topics := $.Site.Taxonomies.topics -}}
-      {{- range $name, $taxonomy := $top_topics -}}
-        {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-          {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
-            <div class="grid-col-12 tablet:grid-col-4 tablet:flex-6">
-              <div class="topic topic-slim" data-edit-this="{{- .File.Path -}}">
-                <h3>
-                  <a class="text-no-underline text-ink" href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}}</a>
-                </h3>
+  <section class="topics-list">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-2">
+        {{- $top_topics := $.Site.Taxonomies.topics -}}
+        {{- range $name, $taxonomy := $top_topics -}}
+          {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+            {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+              <div class="grid-col-12 tablet:grid-col-4 tablet:flex-6">
+                <div class="topic topic-slim" data-edit-this="{{- .File.Path -}}">
+                  <h3>
+                    <a class="text-no-underline text-ink" href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}}</a>
+                  </h3>
+                </div>
               </div>
-            </div>
+            {{- end -}}
           {{- end -}}
         {{- end -}}
-      {{- end -}}
+      </div>
     </div>
+  </section>
 
-    {{/* TOPICS / Categories / Tags */}}
-    <div class="grid-row">
-      <div class="grid-col-6">
-        <section>
+  <section>
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-2">
+        <div class="grid-col-6">
           <ul class="add-list-reset">
             {{- $topics := (where .Site.Pages "Section" "topics") -}}
             {{- range $name, $taxonomy := $topics.ByTitle -}}
@@ -44,10 +49,8 @@
               </li>
             {{- end -}}
           </ul>
-        </section>
-      </div>
-      <div class="grid-col-6">
-        <section>
+        </div>
+        <div class="grid-col-6">
           <ul class="add-list-reset">
             {{- $topics_tax := $.Site.Taxonomies.topics -}}
             {{- len $topics_tax -}}
@@ -57,11 +60,9 @@
               {{- end -}}
             {{- end -}}
           </ul>
-        </section>
+        </div>
       </div>
     </div>
-
-  </div>
+  </section>
 </main>
-
 {{- end -}}

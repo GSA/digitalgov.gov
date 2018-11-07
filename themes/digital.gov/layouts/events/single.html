@@ -1,4 +1,4 @@
-{{ define "content" }}
+{{- define "content" -}}
 {{/* This sets $future_event to true or false */}}
 {{- $future_event := (time .Params.end_date).After now -}}
 {{/* Add to Calendar */}}
@@ -17,82 +17,87 @@
 
 <main role="main" class="event">
   <article>
-    <div class="grid-container grid-container-desktop">
-
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <header>
-            <h6 class="breadcrumb"><a href="{{ "events/" | absURL }}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></h6>
-            <h1>{{ .Title | markdownify }}</h1>
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
+            <h6 class="breadcrumb"><a href="{{- "events/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></h6>
+            <h1>{{- .Title | markdownify -}}</h1>
             {{/* Deck */}}
             {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck -}}</div>
             {{- end -}}
             {{- if .Params.host -}}
-            <p class="host">Hosted by {{ .Params.host }} and {{ .Params.event_organizer -}}</p>
+            <p class="host">Hosted by {{ .Params.host }} and {{ .Params.event_organizer }}</p>
             {{- end -}}
-          </header>
+          </div>
         </div>
       </div>
-    </div>
+    </header>
 
+
+    {{/* EVENT Actions — REGISTER and Add to Calendar */}}
     {{/* If is a Future Event */}}
-    {{ if eq $future_event true }}
-    <div class="grid-container grid-container-desktop">
-      <section class="actions">
+    {{- if eq $future_event true -}}
+    <section class="actions">
+      <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-2">
             {{/* Register */}}
-            <a class="btn register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
+            <a class="btn register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
           </div>
           <div class="grid-col-2">
             <span class="addtocalendar">
               <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
               <var class="atc_event">
-                <var class="atc_date_start">{{ $event_startDate }}</var>
-                <var class="atc_date_end">{{ $event_endDate }}</var>
+                <var class="atc_date_start">{{- $event_startDate -}}</var>
+                <var class="atc_date_end">{{- $event_endDate -}}</var>
                 <var class="atc_timezone">America/New_York</var>
-                <var class="atc_title">{{ $event_title }}</var>
-                <var class="atc_description">{{ htmlUnescape $event_description | safeHTML }}</var>
-                <var class="atc_location">{{ $event_location }}</var>
+                <var class="atc_title">{{- $event_title -}}</var>
+                <var class="atc_description">{{- htmlUnescape $event_description | safeHTML -}}</var>
+                <var class="atc_location">{{- $event_location -}}</var>
                 <var class="atc_organizer">DigitalGov</var>
                 <var class="atc_organizer_email">digitalgov@gsa.gov</var>
               </var>
             </span>
           </div>
         </div>
-      </section>
-    </div>
-    {{ end }}
+      </div>
+    </section>
+    {{- end -}}
 
-    {{ if (isset .Params "youtube_id") }}
 
+    {{/* EVENT Stage
+    ==================================== */}}
+
+    {{/* YouTube LIVE Stage */}}
+    {{- if (isset .Params "youtube_id") -}}
       {{/* If is a Future Event */}}
-      {{ if eq $future_event true }}
+      {{- if eq $future_event true -}}
       <section class="stage">
         <div class="grid-container">
           <div class="grid-row grid-gap-2">
             <div class="grid-col-12 tablet:grid-col-9">
               <div class="video-box">
                 <div class="youtube-player">
-                  <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
+                  <iframe src="https://www.youtube.com/embed/{{- .Params.youtube_id -}}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
                 </div>
               </div>
             </div>
             <div class="grid-col-12 tablet:grid-col-3">
               <div class="chat-box">
-                <iframe allowfullscreen="" height="561px" frameborder="0" src="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&embed_domain=digital.gov&output=embed" scrolling="auto"></iframe>
+                <iframe allowfullscreen="" height="561px" frameborder="0" src="https://www.youtube.com/live_chat?v={{- .Params.youtube_id -}}&embed_domain=digital.gov&output=embed" scrolling="auto"></iframe>
               </div>
             </div>
           </div>
           <div class="grid-row grid-gap-2">
             <div class="grid-col-12 tablet:grid-col-9">
               <div class="event-tools">
-                <a class="youtube" href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong><i class="fab fa-youtube"></i> <span>Watch on YouTube</span></strong></a>
+                <a class="youtube" href="https://www.youtube.com/watch?v={{- .Params.youtube_id -}}" title="Watch on YouTube"><strong><i class="fab fa-youtube"></i> <span>Watch on YouTube</span></strong></a>
 
-                {{ if (isset .Params "captions") }}
-                <a class="captions" href="{{ .Params.captions }}" title="Captions for the {{ .Title }}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a>
-                {{ end }}
+                {{- if (isset .Params "captions") -}}
+                <a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{- .Title -}}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a>
+                {{- end -}}
               </div>
             </div>
             <div class="grid-col-12 tablet:grid-col-3">
@@ -103,106 +108,109 @@
           </div>
         </div>
       </section>
-      {{ end }}
+      {{- end -}}
 
       {{/* PAST EVENT / Video stage  -------------------- */}}
       {{/* If is NOT a Future Event (Past event) */}}
-      {{ if eq $future_event false }}
+      {{- if eq $future_event false -}}
       <div class="grid-container grid-container-desktop">
         <section class="stage">
           <div class="grid-row">
             <div class="grid-col-12">
               <section class="video-box">
                 <div class="youtube-player">
-                  <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
+                  <iframe src="https://www.youtube.com/embed/{{- .Params.youtube_id -}}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
                 </div>
               </section>
             </div>
           </div>
         </section>
       </div>
-      {{ end }}
-    {{ end }}
+      {{- end -}}
+    {{- end -}}
 
-    <div class="grid-container grid-container-desktop">
-      <div class="grid-row grid-gap-4">
-        <div class="grid-col-12 tablet:grid-col-9">
-          <div class="content">
 
-            {{ if eq .Params.event_platform "zoom" }}
+    <section class="content">
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row grid-gap-4">
+          <div class="grid-col-12 tablet:grid-col-9">
+            {{- if eq .Params.event_platform "zoom" -}}
               {{/* If is a Future Event */}}
-              {{ if eq $future_event true }}
+              {{- if eq $future_event true -}}
               <section class="stage">
                 <p class="font-sans-lg"><strong><i class="fas fa-desktop"></i> This event will be held over Zoom.</strong> A link to join this event will be sent via e-mail to those who register.</p>
-                <p>Visit <a href="https://zoom.us" title="Visit zoom.us">zoom.us</a> to learn more or <a href="https://zoom.us/client/latest/Zoom.pkg" title="download & run Zoom"><strong>download & run Zoom</strong></a>. If you cannot download or run the application, <a href="{{ .Params.zoom_url }}" title="join Zoom from your browser">join from your browser</a>.</p>
+                <p>Visit <a href="https://zoom.us" title="Visit zoom.us">zoom.us</a> to learn more or <a href="https://zoom.us/client/latest/Zoom.pkg" title="download & run Zoom"><strong>download & run Zoom</strong></a>. If you cannot download or run the application, <a href="{{- .Params.zoom_url -}}" title="join Zoom from your browser">join from your browser</a>.</p>
 
-                {{ if (isset .Params "captions") }}
+                {{- if (isset .Params "captions") -}}
                 <div class="event-tools">
-                  <p><a class="captions" href="{{ .Params.captions }}" title="Captions for the {{ .Title }}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a></p>
+                  <p><a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{- .Title -}}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a></p>
                 </div>
-                {{ end }}
+                {{- end -}}
 
               </section>
-              {{ end }}
-            {{ end }}
+              {{- end -}}
+            {{- end -}}
 
-            {{ .Content }}
+            {{/* Content of the event page  */}}
+            {{- .Content -}}
+
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-3">
+            {{- if and (eq $future_event true) (isset .Params "youtube_id") -}}
+            <div class="actions">
+              {{/* Register */}}
+              <a class="btn register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+
+              <span class="addtocalendar">
+                <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
+                <var class="atc_event">
+                  <var class="atc_date_start">{{- $event_startDate -}}</var>
+                  <var class="atc_date_end">{{- $event_endDate -}}</var>
+                  <var class="atc_timezone">America/New_York</var>
+                  <var class="atc_title">{{- $event_title -}}</var>
+                  <var class="atc_description">{{- htmlUnescape $event_description | safeHTML -}}</var>
+                  <var class="atc_location">{{- $event_location -}}</var>
+                  <var class="atc_organizer">DigitalGov</var>
+                  <var class="atc_organizer_email">digitalgov@gsa.gov</var>
+                </var>
+              </span>
+            </div>
+            {{- end -}}
+            {{/* Related Communities */}}
+            {{- partial "core/get_communities" . -}}
+
+            {{/* Promos */}}
+            {{- partial "core/get_promos" . -}}
+
+            {{/* Topics */}}
+            {{- partial "core/get_topics" . -}}
+
+            {{/* Share Tools */}}
+            {{- partial "core/get_sharetools" . -}}
           </div>
         </div>
 
-        <div class="grid-col-12 tablet:grid-col-3">
-          {{ if and (eq $future_event true) (isset .Params "youtube_id") }}
-          <div class="actions">
-            {{/* Register */}}
-            <a class="btn register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
 
-            <span class="addtocalendar">
-              <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
-              <var class="atc_event">
-                <var class="atc_date_start">{{ $event_startDate }}</var>
-                <var class="atc_date_end">{{ $event_endDate }}</var>
-                <var class="atc_timezone">America/New_York</var>
-                <var class="atc_title">{{ $event_title }}</var>
-                <var class="atc_description">{{ htmlUnescape $event_description | safeHTML }}</var>
-                <var class="atc_location">{{ $event_location }}</var>
-                <var class="atc_organizer">DigitalGov</var>
-                <var class="atc_organizer_email">digitalgov@gsa.gov</var>
-              </var>
-            </span>
+
+            {{/* If is a Future Event */}}
+            {{- if eq $future_event true -}}
+
+
+            {{- end -}}
+
+            {{/* If is NOT a Future Event (Past event) */}}
+            {{- if eq $future_event false -}}
+
+
+            {{- end -}}
+
+
           </div>
-          {{ end }}
-          {{/* Related Communities */}}
-          {{- partial "core/get_communities" . -}}
-
-          {{/* Promos */}}
-          {{- partial "core/get_promos" . -}}
-
-          {{/* Topics */}}
-          {{- partial "core/get_topics" . -}}
-
-          {{/* Share Tools */}}
-          {{- partial "core/get_sharetools" . -}}
         </div>
       </div>
+    </section>
 
-
-
-          {{/* If is a Future Event */}}
-          {{ if eq $future_event true }}
-
-
-          {{ end }}
-
-          {{/* If is NOT a Future Event (Past event) */}}
-          {{ if eq $future_event false }}
-
-
-          {{ end }}
-
-
-        </div>
-      </div>
-    </div>
   </article>
 </main>
 
@@ -213,6 +221,6 @@
       var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
       s.type = 'text/javascript';s.charset = 'UTF-8';s.async = true;
       s.src = ('https:' == window.location.protocol ? 'https' : 'http')+'://addtocalendar.com/atc/1.5/atc.min.js';
-      var h = d[g]('body')[0];h.appendChild(s); }})();
+      var h = d[g]('body')[0];h.appendChild(s); -}})();
 </script>
-{{ end }}
+{{- end -}}

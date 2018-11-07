@@ -1,22 +1,24 @@
 {{ define "content" }}
 
-<main role="main" id="posts" class="collection">
-  <div class="grid-container grid-container-desktop">
-    <div class="grid-row grid-gap-4">
-      <div class="grid-col-12 display-none tablet:display-block tablet:grid-col-4 tablet-lg:grid-col-3">
-
-        {{ partial "core/top-topics.html" . }}
-
+<main role="main">
+  <header>
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+          <h1>Spotlight</h1>
+          <p>A round-up of recent news and resources from across our community</p>
+        </div>
       </div>
+    </div>
+  </header>
 
-
-      <div class="grid-col-12 tablet:grid-col-8 tablet-lg:grid-col-9">
-        <section class="article-list">
-          <header>
-            <h1>Spotlight</h1>
-            <p>A round-up of recent news and resources from across our community</p>
-          </header>
-
+  <section class="article-list">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12 display-none tablet:display-block tablet:grid-col-4 tablet-lg:grid-col-3">
+          {{ partial "core/top-topics.html" . }}
+        </div>
+        <div class="grid-col-12 tablet:grid-col-8 tablet-lg:grid-col-9">
           {{/* Blog Posts by Topic —
           List all of the blog posts tagged with this topic */}}
           {{ $pages := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "posts") }}
@@ -71,11 +73,9 @@
             {{ end }}
           {{ end }}
           {{ partial "core/pagination.html" . }}
-        </section>
-
+        </div>
       </div>
     </div>
-  </div>
+  </section>
 </main>
-
 {{ end }}
