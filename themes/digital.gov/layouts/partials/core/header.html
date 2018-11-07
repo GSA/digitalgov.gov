@@ -16,11 +16,9 @@
 
             <nav class="display-flex">
               <ul>
-                <li><a href="{{- "" | absURL -}}">News</a></li>
-                <li><a href="{{- "topics" | absURL -}}">Topics</a></li>
-                <li><a href="{{- "events" | absURL -}}">Events</a></li>
-                <li><a href="{{- "resources" | absURL -}}">Resources</a></li>
-                <li><a href="{{- "communities" | absURL -}}">Communities</a></li>
+                {{ range .Site.Menus.primary }}
+                  <li><a href="{{.URL}}" title="{{ .Name }}">{{ .Name }}</a></li>
+                {{ end }}
               </ul>
             </nav>
 

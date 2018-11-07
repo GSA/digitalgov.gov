@@ -52,8 +52,8 @@
     h4{
       @include u-margin-y(0);
       @include u-padding-x(3);
-      @include u-padding-y(3);
-      @include u-font('sans', 'lg');
+      @include u-padding-y('105');
+      @include u-font('sans', 'md');
       @include u-text('thin');
     }
     ul{
@@ -62,7 +62,7 @@
       li{
         a{
           @include u-padding-x(3);
-          @include u-padding-y('105');
+          @include u-padding-y(1);
           @include u-display('block');
           color:#f7bca2;
           @include u-text('no-underline');
@@ -80,12 +80,13 @@
   }
   .main_nav{
     @include u-font('sans', 'md');
-    @include u-text('semibold');
+    @include u-text('medium');
     @include u-bg('indigo-80');
     ul{
+      @include u-margin-y('105');
       li{
         a{
-          @include u-padding-y(2);
+          @include u-padding-y('105');
           color:#fff;
         }
       }

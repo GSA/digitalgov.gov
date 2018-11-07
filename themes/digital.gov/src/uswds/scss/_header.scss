@@ -8,7 +8,6 @@ header#header{
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
 		@include u-padding-y(3);
-		@include u-padding-bottom(4);
 	}
 
 	// Logo

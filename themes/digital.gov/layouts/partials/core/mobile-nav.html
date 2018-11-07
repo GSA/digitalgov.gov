@@ -6,16 +6,14 @@
 
   <section class="main_nav">
     <ul>
-      <li><a href="{{ "" | absURL }}">Home</a></li>
-      <li><a href="{{ "posts" | absURL }}">News</a></li>
-      <li><a href="{{ "events" | absURL }}">Events</a></li>
-      <li><a href="{{ "resources" | absURL }}">Resources</a></li>
-      <li><a href="{{ "communities" | absURL }}">Communities</a></li>
+      {{ range .Site.Menus.primary }}
+        <li><a href="{{.URL}}" title="{{ .Name }}">{{ .Name }}</a></li>
+      {{ end }}
     </ul>
   </section>
 
   <section>
-    <h4>Topics</h4>
+    <h4><i class="fas fa-list"></i> Topics</h4>
     <ul>
       {{ range .Site.Data.topicsfeatured.topicsfeatured }}
       <li>
