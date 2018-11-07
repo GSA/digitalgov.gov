@@ -31,10 +31,10 @@
           {{/* If there are any resources at all... */}}
           {{- if $resources -}}
           <section class="resources">
-            <h4>Key Resources</h4>
+            <h3>Key Resources</h3>
             <ul>
               {{- range $resources -}}
-                <li><a href="{{- .Permalink -}}">{{- .Title}}</a></li>
+                <li><i class="far fa-file"></i> <a href="{{- .Permalink -}}"><strong>{{ .Title }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
               {{- end -}}
             </ul>
           </section>

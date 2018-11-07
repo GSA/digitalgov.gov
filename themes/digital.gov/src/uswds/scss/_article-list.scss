@@ -3,16 +3,28 @@
 .article-list{
 
   .resources{
-    @include u-bg('indigo-5');
-    @include u-margin-bottom(3);
-    @include u-padding(2);
-    h4{
+    @include u-margin-bottom(5);
+    h3{
       @include u-margin(0);
     }
     ul{
       @include u-list-reset;
+      padding-left: 20px;
+      li{
+        @include u-margin-bottom(2);
+        text-indent: -9px;
+        i{
+          @include u-margin-right('2px');
+        }
+        a{
+          @include u-text('no-underline');
+          @include u-text('bold');
+          @include u-font('sans', 'sm');
+        }
+      }
     }
   }
+
   article{
     @include u-bg('gray-warm-5');
     @include u-padding-y('105');
@@ -89,5 +101,5 @@
     }
   }
 
-  
+
 }
