@@ -7,8 +7,6 @@ type: guide
 
 ---
 
-## Welcome to Principle 2!
-
 This week we will focus on the viewport, which is a major cause of mobile unfriendliness. 
 
 The viewport is the visual area of a webpage as it is displayed on a device (smartphone or tablet) screen or monitor. In the past, most of us used computer monitor of a standard size, but once we started accessing the Internet with smart phones and tablets, that fixed width web page was too large to fit on smaller screens (viewports). There seem to be thousands of screen sizes available as shown in [Viewport Sizes](http://viewportsizes.com/) and [Screen Sizes](http://www.screensiz.es/). 
