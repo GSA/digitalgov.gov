@@ -32,4 +32,4 @@ The eight principles are:
 7. Properly configure the server and plan for growth
 8. Don’t forget accessibility!
 
-**_Check back each week for another principle!_**
+As a reminder, **check back each week for another principle** that we distilled from Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), and the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites). We will provide a description of the issue, a method to detect the issue, and solutions to eliminate or prevent the issue from appearing your site to help make it more mobile-friendly. 
