@@ -18,7 +18,7 @@ youtube_id: Z6LgUEShll0
 
 {{< img-right src="featued-301-x-212-fedramp-2017-5th-anniversary-logo" >}}
 
-[FedRAMP](https://fedramp.gov), in partnership with the American Association for Laboratory Accreditation (A2LA), updated the “R311 -Specific Requirements: FedRAMP,” which includes new and strengthened qualifications for existing and new 3PAOs.
+[FedRAMP](https://fedramp.gov), in partnership with the American Association for Laboratory Accreditation (A2LA), updated the [“R311 -Specific Requirements: FedRAMP,”](https://portal.a2la.org/requirements/A2LA_R311.pdf) which includes new and strengthened qualifications for existing and new 3PAOs.
 
 ## Key updates:
 
