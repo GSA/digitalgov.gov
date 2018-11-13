@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
 	}
 
 	$("#explore").click(function() {
-	  openNav()
+	  openNav();
 	});
 
 	$(".close").click(function() {
