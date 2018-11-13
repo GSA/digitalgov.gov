@@ -83,7 +83,7 @@
       @include u-display('inline-block');
       @include u-text('center');
       a{
-      	@include u-padding-top('05');
+        padding-top: 6px;
         @include u-text('no-underline');
         @include u-text('indigo-warm-50v');
       	width: 33px;
