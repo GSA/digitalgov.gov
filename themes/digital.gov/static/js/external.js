@@ -118,7 +118,7 @@ function show_branch_last_commit(data, branch){
 function getFormattedDate(d) {
 
 	var date = new Date(d);
-	date.setUTCHours(date.getUTCHours() - 4);
+	date.setUTCHours(date.getUTCHours() - 5);
 	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   var year = date.getUTCFullYear();
   var month = (date.getUTCMonth()).toString();
