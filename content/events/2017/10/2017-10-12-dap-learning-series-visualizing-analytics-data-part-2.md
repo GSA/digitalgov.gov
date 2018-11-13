@@ -12,7 +12,7 @@ registration_url: https://www.eventbrite.com/e/online-dap-learning-series-visual
 youtube_id: TQ2CXlEY3qw
 topics:
   - analytics
-  - dap
+  - digital-analytics-program
 aliases:
   - /event/online-dap-learning-series-visualizing-analytics-data-part-2/
 ---
