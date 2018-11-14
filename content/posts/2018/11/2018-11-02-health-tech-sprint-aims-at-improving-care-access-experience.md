@@ -8,16 +8,12 @@ authors:
   - gil-alterovitz
   - justin-koufopoulos
   - kristen-honey
-categories:
-  - code
-tag:
-  - pif
-  - hhs
-  - va
+topics:
+  - design
   - open-data
-  - artificial-intelligence
   - innovation
-  - emerging-tech
+  - pif
+  - sprint
 featured_image:
   uid: bot
 
