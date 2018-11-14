@@ -24,11 +24,7 @@
     {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
 
       {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
-        {{- if lt (add $i 1) $length -}}
-        <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a>, 
-        {{ else -}}
         <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a>
-        {{- end -}}
       {{- end -}}
 
     {{- end -}}
