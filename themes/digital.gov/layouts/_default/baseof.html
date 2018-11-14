@@ -19,6 +19,7 @@
     {{- partialCached "core/header.html" . -}}
 
     {{/* Main Content */}}
+    {{ block "data" . }}{{ end }}
     {{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
 
     {{- partialCached "core/footer.html" . -}}
