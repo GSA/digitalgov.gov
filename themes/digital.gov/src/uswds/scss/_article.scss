@@ -80,13 +80,13 @@ main{
 				@include u-margin-left('2px');
 				@include u-text('no-underline');
 				@include u-margin-bottom('05');
-				@include u-padding-y('05');
+				@include u-padding-y('2px');
 				@include u-padding-x(1);
 				@include u-display('inline-block');
 				@include u-radius('pill');
-				@include u-bg('indigo-warm-50v');
-				@include u-text('gray-1');
-				@include u-line-height('sans', 1);
+				@include u-bg('indigo-warm-20');
+				@include u-text('indigo-warm-70');
+				@include u-line-height('sans', 2);
 			}
 			a:hover{
 				@include u-bg('indigo-warm-60v');
