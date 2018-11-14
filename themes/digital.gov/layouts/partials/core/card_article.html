@@ -1,4 +1,4 @@
-<article data-edit-this="{{- .File.Path -}}">
+<article data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
   <p><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a></p>
   <div>
     <p>
