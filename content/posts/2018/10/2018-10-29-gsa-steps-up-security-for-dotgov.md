@@ -1,5 +1,6 @@
 ---
 slug: gsa-steps-up-security-for-dotgov
+short_url: https://go.usa.gov/xPfzD
 date: 2018-10-29 15:00:00 -0500
 title: 'GSA Steps Up Security for .gov'
 summary: 'Read how GSA’s DotGov Program is modernizing the security of &#46;gov to make government websites and systems more secure&#46;'
@@ -39,7 +40,7 @@ By ensuring that users of our services cannot use passwords that were exposed in
 
 ## Opting-in to Preloading
 
-In May 2017, we [began requiring](https://digital.gov/2017/04/12/dotgov-domain-registration-program-to-provide-https-preloading-in-may/) newly registered federal executive branch domains to use HTTPS, by adding each new domain to the [HSTS preload list](https://hstspreload.org/). HTTPS ensures that user communication with .gov websites isn’t modified or compromised, and hostile networks can’t inject malware, tracking beacons, or otherwise monitor or change user interactions online. 
+In May 2017, we [began requiring](https://digital.gov/2017/04/12/dotgov-domain-registration-program-to-provide-https-preloading-in-may/) newly registered federal executive branch domains to use HTTPS, by adding each new domain to the [HSTS preload list](https://hstspreload.org/). HTTPS ensures that user communication with .gov websites isn’t modified or compromised, and hostile networks can’t inject malware, tracking beacons, or otherwise monitor or change user interactions online.
 
 Because the protections are so meaningful, and domain registration is a great place to enforce it, we began allowing any new .gov domain to opt-in to preloading in August 2018.
 

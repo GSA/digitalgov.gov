@@ -1,0 +1,9 @@
+{{- if .Params.short_url -}}
+  {{- $encodedurl := (substr (querify "x" .Params.short_url) 2) -}}
+  {{- $api := printf  "https://go.usa.gov/api/clicks.json?login=%s&apiKey=%s&shortUrl=%s" .Site.Params.url_shortener_login .Site.Params.url_shortener_api $encodedurl -}}
+  {{- range $data := getJSON $api -}}
+    {{- range $url_data := $data.data.entry -}}
+      <em class="shares"><i class="fas fa-share"></i> {{ $url_data.user_clicks }} shares</em>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

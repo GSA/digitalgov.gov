@@ -78,6 +78,10 @@
       @include u-flex('justify');
       p{
         @include u-font('sans', 'xs');
+        .shares{
+          @include u-margin-left('2px');
+          @include u-font('sans', '3xs');
+        }
       }
       .topics{
         @include u-margin(0);

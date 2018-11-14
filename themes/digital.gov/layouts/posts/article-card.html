@@ -41,14 +41,20 @@
 
     <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </article>
+
   {{ else }}
+
   <article data-edit-this="{{- .File.Path -}}">
     <p><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a></p>
     <div>
-      <p><a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="">Digital.gov</a></p>
-      {{ partial "core/get_topics" . }}
+      <p>
+        <a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="">Digital.gov</a> 
+        {{ partial "core/get_clicks" . -}}
+      </p>
+      {{- partial "core/get_topics" . -}}
     </div>
     <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </article>
+
   {{ end }}
 {{ end }}
