@@ -219,7 +219,7 @@ United States Courts (Sitefinity [Intranet])
 
 [United States Postal Service](https://www.usps.com/) (Broadvision [e-commerce]/Interwoven [usps.gov])
 
-[Veterans Affairs](http://www.va.gov/) (TeamSite by OpenText)
+[Veterans Affairs](http://www.va.gov/) (TeamSite)
 
   * [Veterans Affairs Information Resource Center](http://www.virec.research.va.gov/) (Adobe Contribute)
   * [Veterans Health Administration](http://www.va.gov/health/default.asp) (Interwoven TeamSite)
