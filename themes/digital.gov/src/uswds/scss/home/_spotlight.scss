@@ -32,10 +32,11 @@
     }
   }
 
-  // See also /scss/_article-list.scss
+  // Looking for the styles for the article list?
+  // See /scss/_article-list.scss
   .article-list{
-    @include u-bg('gray-warm-30');
-    @include u-padding('05');
+    // @include u-bg('gray-warm-30');
+    // @include u-padding('05');
   }
 
   footer{
