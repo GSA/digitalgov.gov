@@ -53,6 +53,14 @@
       strong{
         @include u-text('indigo-60');
       }
+      .clicks{
+        i{
+          @include u-text('gold-30v');
+        }
+        @include u-margin-left('2px');
+        @include u-font('sans', '3xs');
+        @include u-text('gold-40v');
+      }
     }
 
     // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
@@ -78,10 +86,6 @@
       @include u-flex('justify');
       p{
         @include u-font('sans', 'xs');
-        .shares{
-          @include u-margin-left('2px');
-          @include u-font('sans', '3xs');
-        }
       }
       .topics{
         @include u-margin(0);
