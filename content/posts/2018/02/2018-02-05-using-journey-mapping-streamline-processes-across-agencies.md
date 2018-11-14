@@ -6,11 +6,8 @@ summary: 'Summary of an agency information sharing exercise to improve the custo
 authors: 
   - lgodfrey
 topics: 
-  - content
   - design
   - metrics
-  - ux
- 
   - content
   - metrics
   - analytics
