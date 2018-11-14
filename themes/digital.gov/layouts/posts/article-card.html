@@ -4,24 +4,26 @@
     <p>
       {{- if .Params.deck -}}{{- .Params.deck | markdownify -}}{{- end -}}
     </p>
+    <div>
+      <p>
+        {{/* Favicon
+        If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
+        {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
 
-    <p>
-      {{/* Favicon
-      If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
-      {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+        {{- if $source -}}
+          {{- if $source.Params.icon -}}
+            <a href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="{{ $source.Params.icon }}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
+          {{- else -}}
+            <a href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
+          {{- end -}}
 
-      {{- if $source -}}
-        {{- if $source.Params.icon -}}
-          <a href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="{{ $source.Params.icon }}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
+        {{/* Otherwise, use the Favicon that Google stores for the site. */}}
         {{- else -}}
-          <a href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
+          <a href="{{- .Params.source_url -}}" title="{{- .Params.source -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">{{- .Params.source -}}</a>
         {{- end -}}
-
-      {{/* Otherwise, use the Favicon that Google stores for the site. */}}
-      {{- else -}}
-        <a href="{{- .Params.source_url -}}" title="{{- .Params.source -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">{{- .Params.source -}}</a>
-      {{- end -}}
-    </p>
+      </p>
+      {{ partial "core/get_topics" . }}
+    </div>
 
     <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
   </article>
@@ -32,13 +34,20 @@
   {{- if .Params.deck }}
   <article data-edit-this="{{- .File.Path -}}">
     <p>{{ .Params.deck -}}</p>
-    <p><a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="">Digital.gov</a></p>
+    <div>
+      <p><a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="Digital.gov Logo">Digital.gov</a></p>
+      {{ partial "core/get_topics" . }}
+    </div>
+
     <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </article>
   {{ else }}
   <article data-edit-this="{{- .File.Path -}}">
     <p><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a></p>
-    <p><a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="">Digital.gov</a></p>
+    <div>
+      <p><a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="">Digital.gov</a></p>
+      {{ partial "core/get_topics" . }}
+    </div>
     <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </article>
   {{ end }}
