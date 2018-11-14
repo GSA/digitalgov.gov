@@ -26,7 +26,7 @@
       {{ partial "core/get_topics" . }}
     </div>
 
-    <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
+    <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Params.source_url -}}{{- end -}}" title="{{- .Params.source_name -}}"><span></span></a>
   </article>
 
 {{ else }}
@@ -43,7 +43,7 @@
       {{ partial "core/get_topics" . }}
     </div>
 
-    <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+    <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Permalink -}}{{- end -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </article>
 
   {{ else }}
@@ -57,7 +57,7 @@
       </p>
       {{- partial "core/get_topics" . -}}
     </div>
-    <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+    <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Permalink -}}{{- end -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </article>
 
   {{ end }}
