@@ -21,45 +21,8 @@
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
           {{- range first 8 $posts -}}
 
-            {{- if .Params.source -}}
-              {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
-            {{- end -}}
-
-            {{ if eq .Params.type "spot" }}
-              {{/* Spots — External links */}}
-
-              <article data-edit-this="{{- .File.Path -}}">
-                <p>
-                  {{/* Favicon
-                  If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
-                  {{- if .Params.source -}}
-
-                    {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
-                    {{- if $source.Params.icon -}}
-                      <img src="{{ $source.Params.icon }}" alt="">
-                    {{- else -}}
-                      <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">
-                    {{- end -}}
-
-                  {{/* Otherwise, use the Favicon that Google stores for the site. */}}
-                  {{- else -}}
-                    <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="">
-                  {{- end -}}
-
-                  {{- .Params.deck | markdownify }} <em>(via&nbsp;<a href="{{- .Params.source_url -}}">{{ .Params.source_name }}</a>)</em> <i class="fas fa-external-link-alt"></i></p>
-
-                <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
-              </article>
-
-            {{ else }}
-
-              {{/* Blog Posts — Internal links */}}
-              <article data-edit-this="{{- .File.Path -}}">
-                <p><img src="{{ "img/digit-16.png" | absURL }}" alt=""><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a>{{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}&nbsp;<em class="date">({{ .Date.Format "Jan _2, 2006" -}})</em></p>
-                <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
-              </article>
-            {{ end }}
-
+            {{/* This file is located in /layouts/posts/article-card.html */}}
+            {{ .Render "article-card"}}
 
           {{- end -}}
         </section>
