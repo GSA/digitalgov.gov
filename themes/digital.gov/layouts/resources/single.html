@@ -13,7 +13,7 @@
 
             {{/* Deck */}}
             {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck -}}</div>
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
           </div>
         </div>

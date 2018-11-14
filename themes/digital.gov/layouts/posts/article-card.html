@@ -21,6 +21,7 @@
         {{- else -}}
           <a href="{{- .Params.source_url -}}" title="{{- .Params.source -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">{{- .Params.source -}}</a>
         {{- end -}}
+        {{ partial "core/get_clicks" . -}}
       </p>
       {{ partial "core/get_topics" . }}
     </div>
@@ -33,9 +34,12 @@
   {{/* Blog Posts — Internal links */}}
   {{- if .Params.deck }}
   <article data-edit-this="{{- .File.Path -}}">
-    <p>{{ .Params.deck -}}</p>
+    <p>{{ .Params.deck | markdownify -}}</p>
     <div>
-      <p><a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="Digital.gov Logo">Digital.gov</a></p>
+      <p>
+        <a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="Digital.gov Logo">Digital.gov</a>
+        {{ partial "core/get_clicks" . -}}
+      </p>
       {{ partial "core/get_topics" . }}
     </div>
 
@@ -48,7 +52,7 @@
     <p><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a></p>
     <div>
       <p>
-        <a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="">Digital.gov</a> 
+        <a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="">Digital.gov</a>
         {{ partial "core/get_clicks" . -}}
       </p>
       {{- partial "core/get_topics" . -}}

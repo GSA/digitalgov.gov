@@ -14,7 +14,7 @@
 
             {{/* Deck */}}
             {{- if .Params.deck -}}
-            <div class="deck font-sans-xl text-light">{{- .Params.deck -}}</div>
+            <div class="deck font-sans-xl text-light">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
 
           </div>

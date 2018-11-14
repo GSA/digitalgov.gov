@@ -25,7 +25,7 @@
             <h1>{{- .Title | markdownify -}}</h1>
             {{/* Deck */}}
             {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck -}}</div>
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
             {{- if .Params.host -}}
             <p class="host">Hosted by {{ .Params.host }} and {{ .Params.event_organizer }}</p>

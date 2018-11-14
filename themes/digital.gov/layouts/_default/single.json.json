@@ -32,7 +32,7 @@
       "summary" : "{{- .Params.summary -}}",
       {{- end -}}
       {{- if (isset .Params "deck") -}}
-      "deck" : "{{- .Params.deck -}}",
+      "deck" : "{{- .Params.deck | markdownify -}}",
       {{- end -}}
       "date_published" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
       {{- if .Lastmod -}}

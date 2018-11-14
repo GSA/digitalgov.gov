@@ -34,7 +34,7 @@
     {
         "title" : {{- .Title | jsonify -}},
         {{- if (isset .Params "deck") -}}
-        "deck" : "{{- .Params.deck -}}",
+        "deck" : "{{- .Params.deck | markdownify -}}",
         {{- end -}}
         {{- if (isset .Params "summary") -}}
         "summary" : "{{- .Params.summary -}}",
