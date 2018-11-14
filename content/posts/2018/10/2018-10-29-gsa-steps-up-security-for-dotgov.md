@@ -6,13 +6,10 @@ summary: 'Read how GSA’s DotGov Program is modernizing the security of &#46;go
 authors:
   - cameron-dixon
   - marina-fox
-categories:
-  - code
+topics:
   - managing-digital
-tag:
-  - dotgov
-  - national-cyber-security-awareness-month
   - security
+  - national-cyber-security-awareness-month
 featured_image:
   uid: dotgov-card
   alt: 'The new DotGov logo has the .gov top-level domain text in light blue on a dark blue background.'
