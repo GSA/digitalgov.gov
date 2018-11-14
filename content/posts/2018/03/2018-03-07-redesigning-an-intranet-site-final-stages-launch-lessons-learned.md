@@ -7,14 +7,12 @@ authors:
   - karla-blaine
 topics:
   - accessibility
-  - content
   - data
   - design
   - managing-digital
   - strategy
   - policy
   - user-testing-and-research
-  - ux
   - content
   - content-strategy
   - customer-experience
