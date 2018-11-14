@@ -1,0 +1,28 @@
+<article data-edit-this="{{- .File.Path -}}">
+  <p>
+    {{- if .Params.deck -}}{{- .Params.deck | markdownify -}}{{- end -}}
+  </p>
+  <div>
+    <p>
+      {{/* Favicon
+      If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
+      {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+
+      {{- if $source -}}
+        {{- if $source.Params.icon -}}
+          <a href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="{{ $source.Params.icon }}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
+        {{- else -}}
+          <a href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
+        {{- end -}}
+
+      {{/* Otherwise, use the Favicon that Google stores for the site. */}}
+      {{- else -}}
+        <a href="{{- .Params.source_url -}}" title="{{- .Params.source -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">{{- .Params.source -}}</a>
+      {{- end -}}
+      {{ partial "core/get_clicks" . -}}
+    </p>
+    {{ partial "core/get_topics" . }}
+  </div>
+
+  <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Params.source_url -}}{{- end -}}" title="{{- .Params.source_name -}}"><span></span></a>
+</article>

@@ -1,64 +1,18 @@
 {{/* External links */}}
 {{- if .Params.source -}}
-  <article data-edit-this="{{- .File.Path -}}">
-    <p>
-      {{- if .Params.deck -}}{{- .Params.deck | markdownify -}}{{- end -}}
-    </p>
-    <div>
-      <p>
-        {{/* Favicon
-        If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
-        {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
 
-        {{- if $source -}}
-          {{- if $source.Params.icon -}}
-            <a href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="{{ $source.Params.icon }}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
-          {{- else -}}
-            <a href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
-          {{- end -}}
-
-        {{/* Otherwise, use the Favicon that Google stores for the site. */}}
-        {{- else -}}
-          <a href="{{- .Params.source_url -}}" title="{{- .Params.source -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">{{- .Params.source -}}</a>
-        {{- end -}}
-        {{ partial "core/get_clicks" . -}}
-      </p>
-      {{ partial "core/get_topics" . }}
-    </div>
-
-    <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Params.source_url -}}{{- end -}}" title="{{- .Params.source_name -}}"><span></span></a>
-  </article>
+  {{- partial "core/card_elsewhere" . -}}
 
 {{ else }}
 
   {{/* Blog Posts — Internal links */}}
   {{- if .Params.deck }}
-  <article data-edit-this="{{- .File.Path -}}">
-    <p>{{ .Params.deck | markdownify -}}</p>
-    <div>
-      <p>
-        <a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="Digital.gov Logo">Digital.gov</a>
-        {{ partial "core/get_clicks" . -}}
-      </p>
-      {{ partial "core/get_topics" . }}
-    </div>
 
-    <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Permalink -}}{{- end -}}" title="{{- .Title | markdownify -}}"><span></span></a>
-  </article>
+    {{- partial "core/card_blurb" . -}}
 
   {{ else }}
 
-  <article data-edit-this="{{- .File.Path -}}">
-    <p><a href="{{- .Permalink -}}"><strong>{{- .Title | markdownify -}}</strong></a></p>
-    <div>
-      <p>
-        <a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="">Digital.gov</a>
-        {{ partial "core/get_clicks" . -}}
-      </p>
-      {{- partial "core/get_topics" . -}}
-    </div>
-    <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Permalink -}}{{- end -}}" title="{{- .Title | markdownify -}}"><span></span></a>
-  </article>
+    {{- partial "core/card_article" . -}}
 
   {{ end }}
 {{ end }}

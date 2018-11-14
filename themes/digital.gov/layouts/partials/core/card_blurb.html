@@ -1,0 +1,12 @@
+<article data-edit-this="{{- .File.Path -}}">
+  <p>{{ .Params.deck | markdownify -}}</p>
+  <div>
+    <p>
+      <a href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="Digital.gov Logo">Digital.gov</a>
+      {{ partial "core/get_clicks" . -}}
+    </p>
+    {{ partial "core/get_topics" . }}
+  </div>
+
+  <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Permalink -}}{{- end -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+</article>
