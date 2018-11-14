@@ -65,7 +65,7 @@
 
     // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
     position: relative;
-    span{
+    a span{
       margin: 0;
       position:absolute;
       width:100%;
