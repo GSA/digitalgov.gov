@@ -5,8 +5,9 @@ jQuery(document).ready(function($) {
 	// ==============================================================
 
 	// short_url is defined in the <head>
-	if (short_url !== undefined){
-		console.log('yo');
+	// If not, none of this runs...
+	if (short_url){
+
 		// Get the ID of the short_url — https://go.usa.gov/123ID
 		var short_url_id = short_url.replace("https://go.usa.gov/", "");
 
@@ -16,6 +17,7 @@ jQuery(document).ready(function($) {
 		// If a reader is clicking around a number of articles, they might one cookie for each article they are viewing.
 		// Cookies expire after 1hr.
 
+
 		// Let's set a cookie!
 		// If the cookie_id already exists, we are not going to load the iframe and increment the clicks (views) of the short URL.
     if (getCookie(cookie_id) == 'true') {
@@ -23,9 +25,10 @@ jQuery(document).ready(function($) {
 			$('#clicks_iframe').prepend('<iframe src="'+short_url+'" width="1" height="1"></iframe>');
       setCookie(cookie_id,'true');
     }
-		
+
 		function setCookie(key, value) {
 			var expires = new Date();
+			// I think this means that the cookie will expire in 60mins?
 			expires.setTime(expires.getTime() + (60 * (60 * 1000)) );
 			document.cookie = key + '=' + value + ';expires=' + expires.toUTCString() + "; path=/";
 		}
