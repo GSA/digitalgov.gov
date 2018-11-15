@@ -106,7 +106,7 @@ gulp.task('build-sass', function(done) {
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest(`${CSS_DEST}`))
     .pipe(notify({
-      "sound": "Pop" // case sensitive
+      // "sound": "Pop" // case sensitive
     }));
 });
 
@@ -118,10 +118,10 @@ gulp.task('init', gulp.series(
   'build-sass',
 ));
 
-gulp.task('watch-sass', function () {
-  gulp.watch(`${PROJECT_SASS_SRC}/**/*.scss`, gulp.series('build-sass'));
-});
-
-gulp.task('watch', gulp.series('build-sass', 'watch-sass'));
-
-gulp.task('default', gulp.series('watch'));
+// gulp.task('watch-sass', function () {
+//   gulp.watch(`${PROJECT_SASS_SRC}/**/*.scss`, gulp.series('build-sass'));
+// });
+//
+// gulp.task('watch', gulp.series('build-sass', 'watch-sass'));
+//
+// gulp.task('default', gulp.series('watch'));
