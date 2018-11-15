@@ -1,5 +1,9 @@
 jQuery(document).ready(function($) {
 
+	var referer = document.referrer;
+	console.log('referer');
+	console.log(referer);
+
 	// ==============================================================
 	// Register clicks on pages that have the short_url
 	// ==============================================================
