@@ -94,6 +94,7 @@
         @include u-text('right');
         @include u-display('block');
         max-width: 65%;
+        z-index: 2;
       }
     }
 
