@@ -4,19 +4,20 @@
 #mobile-nav{
   @include u-bg('indigo-80');
   @include u-padding-bottom(10);
-  z-index: 20;
+  z-index: 1;
   position: fixed;
   top:0;
   bottom:0;
-  left:0;
-  width: 80%;
+  // left:0;
+  // width: 80%;
+  width:325px;
   color:#fff;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
-  display: none;
+  -webkit-transition: margin .2s;
+  transition: margin .2s;
   @include at-media('tablet'){
     max-width: 325px;
-    display: none;
   }
   > header{
     @include u-bg('indigo-90');
@@ -103,6 +104,5 @@
 }
 
 #mobile-nav.open{
-  width:325px;
-  display: block;
+  // display: block;
 }
