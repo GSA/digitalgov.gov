@@ -7,5 +7,5 @@
     </p>
     {{- partial "core/get_topics" . -}}
   </div>
-  <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Permalink -}}{{- end -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+  <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
 </article>

@@ -17,12 +17,12 @@
 
       {{/* Otherwise, use the Favicon that Google stores for the site. */}}
       {{- else -}}
-        <a href="{{- .Params.source_url -}}" title="{{- .Params.source -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">{{- .Params.source -}}</a> 
+        <a href="{{- .Params.source_url -}}" title="{{- .Params.source -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">{{- .Params.source -}}</a>
       {{ end }}
       {{ partial "core/get_clicks" . -}}
     </p>
     {{ partial "core/get_topics" . }}
   </div>
 
-  <a href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}{{- .Params.source_url -}}{{- end -}}" title="{{- .Params.source_name -}}"><span></span></a>
+  <a href="{{- .Permalink -}}" title="{{- .Params.source_name -}}"><span></span></a>
 </article>
