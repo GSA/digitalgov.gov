@@ -1,7 +1,7 @@
 jQuery(document).ready(function($) {
 
 	var referer = document.referrer;
-	console.log('referer');
+	console.log('Referer');
 	console.log(referer);
 
 	if (referer == "https://demo.digital.gov/") {
