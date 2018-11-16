@@ -1,22 +1,42 @@
 jQuery(document).ready(function($) {
 
+	// ==============================================================
+	// Register clicks on pages that have the short_url
+	// ==============================================================
+
+
+	// The Goal:
+	// To be able to display a metric on our Spotlight/News content that indicates a measure of interest from our readers.
+
+	// How are we doing this?
+	// We are registering all clicks through the go.usa.gov short_url.
+
+	// We are using the short_url in:
+	// - links from our newsletter
+	// - links on twitter, facebook, etc...
+	// - links in any form of sharing outside of the website
+
+	// What about links that originate on digital.gov (e.g. from the homepage)?
+	// - If there the referrer is digital.gov...
+	// - A script inserts an iframe into the page that then loads the short_url. This then registers a click with the go.usa.gov short_url.
+	// - The iframe does not fully load because we block digital.gov from loading within iframes
+
+	// What about direct links (e.g. liks that I copy and paste to a friend)?
+	// - These are a little more tricky. At the moment, we are not capturing these.
+	// - The best way to capture these is if we were able to capture the referrer of all the links from go.usa.gov and then be able to conditionaly register a click based on this value.
+
+
+	// How to test
+	// 1. Any link originating from digital.gov should register one click, via the iframe
+	// 2. Any link originating from a short_url should register a click via the short_url (the iframe should not load)
+	// 3. Any direct link (e.g bookmark of )
+
+
 	var referer = document.referrer;
-	console.log('Referer');
-	console.log(referer);
-
+	console.log('referer: '+referer);
 	var domains = ["localhost","digital.gov","demo.digital.gov"];
-	if (new RegExp(domains.join("|")).test(referer)) {
-		console.log('RUN the iframe');
-
-		// DEMO link
-		// https://go.usa.gov/xPGsx
-
-		// ------------------------
-
-		// ==============================================================
-		// Register clicks on pages that have the short_url
-		// ==============================================================
-
+	if ( (new RegExp(domains.join("|")).test(referer)) || (referer)) {
+		console.log('YES');
 		// short_url is defined in the <head>
 		// If not, none of this runs...
 		if (short_url){
