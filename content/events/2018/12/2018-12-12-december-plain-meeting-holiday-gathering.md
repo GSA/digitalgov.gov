@@ -3,8 +3,8 @@ slug: december-plain-meeting-holiday-gathering
 title: 'December PLAIN Meeting and Holiday Gathering'
 summary: "Join us for our traditional winter finger-food potluck where we'll discuss the Clarity 2018 conference and plan out our 2019 meetings."
 featured_image: 
-  uid: 
-  alt: ''
+  uid: plain-language
+  alt: 'The Plain Language.gov website logo.'
 event_type: 
   - online
   - in-person
