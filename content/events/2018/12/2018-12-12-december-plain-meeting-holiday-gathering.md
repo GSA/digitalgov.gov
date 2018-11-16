@@ -27,7 +27,7 @@ venue:
 
 {{< img-right src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
 
-Join us for a mostly in-person meeting on Wednesday December 12, 2018 from 2:00 to 3:30 p.m. ET. We'll discuss the Clarity 2018 conference in Montreal and plan out our plain language meetings for 2019. We realize not everyone can join us in person, but we'll arrange a Zoom video conference so you can see and hear us. 
+Join us for a mostly in-person meeting on Wednesday, December 12, 2018 from 2:00 to 3:30 pm, ET. We'll discuss the Clarity 2018 conference in Montreal and plan out our plain language meetings for 2019. We realize not everyone can join us in person, but we'll arrange a Zoom video conference so you can see and hear us. 
 
 This is our traditional winter finger-food potluck. Please bring something to share that doesn't need reheating. 
 
