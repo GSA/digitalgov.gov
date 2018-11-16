@@ -4,7 +4,8 @@ jQuery(document).ready(function($) {
 	console.log('Referer');
 	console.log(referer);
 
-	if (referer == "https://demo.digital.gov/") {
+	var domains = ["localhost","digital.gov","demo.digital.gov"];
+	if (new RegExp(domains.join("|")).test(referer)) {
 		console.log('RUN the iframe');
 
 		// DEMO link
@@ -33,6 +34,7 @@ jQuery(document).ready(function($) {
 			// Let's set a cookie!
 			// If the cookie_id already exists, we are not going to load the iframe and increment the clicks (views) of the short URL.
 	    if (getCookie(cookie_id) == 'true') {
+				console.log('cookie is set');
 	    } else {
 				$('#clicks_iframe').prepend('<iframe src="'+short_url+'" width="1" height="1"></iframe>');
 	      setCookie(cookie_id,'true');
