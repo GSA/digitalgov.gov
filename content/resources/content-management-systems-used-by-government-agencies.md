@@ -179,7 +179,7 @@ We do our best to keep the list current based on information we get from agencie
 
 [Peace Corps](http://www.peacecorps.gov/) (Wagtail for external, Sharepoint for intranet)
 
-[Pension Benefit Guaranty Corporation](http://www.pbgc.gov/) (Percussion)
+[Pension Benefit Guaranty Corporation](http://www.pbgc.gov/) (Drupal 7)
 
 [Recovery Accountability & Transparency Board](http://www.recovery.gov/Pages/default.aspx) (SharePoint)
 
