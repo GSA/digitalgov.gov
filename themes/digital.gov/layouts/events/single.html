@@ -17,6 +17,7 @@
 
 <main role="main" class="event">
   <article>
+
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
@@ -72,60 +73,20 @@
 
     {{/* YouTube LIVE Stage */}}
     {{- if (isset .Params "youtube_id") -}}
+
       {{/* If is a Future Event */}}
       {{- if eq $future_event true -}}
-      <section class="stage">
-        <div class="grid-container">
-          <div class="grid-row grid-gap-2">
-            <div class="grid-col-12 tablet:grid-col-9">
-              <div class="video-box">
-                <div class="youtube-player">
-                  <iframe src="https://www.youtube.com/embed/{{- .Params.youtube_id -}}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
-                </div>
-              </div>
-            </div>
-            <div class="grid-col-12 tablet:grid-col-3">
-              <div class="chat-box">
-                <iframe allowfullscreen="" height="561px" frameborder="0" src="https://www.youtube.com/live_chat?v={{- .Params.youtube_id -}}&embed_domain=digital.gov&output=embed" scrolling="auto"></iframe>
-              </div>
-            </div>
-          </div>
-          <div class="grid-row grid-gap-2">
-            <div class="grid-col-12 tablet:grid-col-9">
-              <div class="event-tools">
-                <a class="youtube" href="https://www.youtube.com/watch?v={{- .Params.youtube_id -}}" title="Watch on YouTube"><strong><i class="fab fa-youtube"></i> <span>Watch on YouTube</span></strong></a>
 
-                {{- if (isset .Params "captions") -}}
-                <a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{ .Title -}}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a>
-                {{- end -}}
-              </div>
-            </div>
-            <div class="grid-col-12 tablet:grid-col-3">
-              <div class="event-tools">
-                <p class="notice"><i class="far fa-flag"></i> You'll need to sign in to Google to chat. All chats will be archived alongside the video.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+        {{- .Render "stage-youtube-live" -}}
+
       {{- end -}}
 
       {{/* PAST EVENT / Video stage  -------------------- */}}
       {{/* If is NOT a Future Event (Past event) */}}
       {{- if eq $future_event false -}}
-      <div class="grid-container grid-container-desktop">
-        <section class="stage">
-          <div class="grid-row">
-            <div class="grid-col-12">
-              <section class="video-box">
-                <div class="youtube-player">
-                  <iframe src="https://www.youtube.com/embed/{{- .Params.youtube_id -}}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
-                </div>
-              </section>
-            </div>
-          </div>
-        </section>
-      </div>
+
+        {{- .Render "stage-youtube" -}}
+
       {{- end -}}
     {{- end -}}
 
@@ -137,17 +98,7 @@
             {{- if eq .Params.event_platform "zoom" -}}
               {{/* If is a Future Event */}}
               {{- if eq $future_event true -}}
-              <section class="stage">
-                <p class="font-sans-lg"><strong><i class="fas fa-desktop"></i> This event will be held over Zoom.</strong> A link to join this event will be sent via e-mail to those who register.</p>
-                <p>Visit <a href="https://zoom.us" title="Visit zoom.us">zoom.us</a> to learn more or <a href="https://zoom.us/download" title="download & run Zoom"><strong>download & run Zoom</strong></a>. If you cannot download or run the application, <a href="{{- .Params.zoom_url -}}" title="join Zoom from your browser">join from your browser</a>.</p>
-
-                {{- if (isset .Params "captions") -}}
-                <div class="event-tools">
-                  <p><a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{- .Title -}}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a></p>
-                </div>
-                {{- end -}}
-
-              </section>
+                {{- .Render "stage-zoom" -}}
               {{- end -}}
             {{- end -}}
 
@@ -157,7 +108,7 @@
           </div>
 
           <div class="grid-col-12 tablet:grid-col-3">
-            {{- if and (eq $future_event true) (isset .Params "youtube_id") -}}
+            {{- if eq $future_event true -}}
             <div class="actions">
               {{/* Register */}}
               <a class="btn register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
@@ -191,23 +142,6 @@
           </div>
         </div>
 
-
-
-            {{/* If is a Future Event */}}
-            {{- if eq $future_event true -}}
-
-
-            {{- end -}}
-
-            {{/* If is NOT a Future Event (Past event) */}}
-            {{- if eq $future_event false -}}
-
-
-            {{- end -}}
-
-
-          </div>
-        </div>
       </div>
     </section>
 
