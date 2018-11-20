@@ -96,9 +96,20 @@
   @include u-bg('gray-warm-5');
   @include u-font('sans', '2xs');
   .join-box{
+    // @include u-margin-bottom(2);
     @include u-bg('gray-warm-10');
     @include u-padding(2);
     @include u-line-height('sans', 1);
+    border-bottom: 1px #999 solid;
+    &:last-child{
+      border: none;
+    }
+
+    h3{
+      @include u-margin-top(0);
+      @include u-font('sans', 'xs');
+      @include u-text('bold');
+    }
     code{
       @include u-bg('yellow-5');
       @include u-padding-y('2px');
@@ -107,7 +118,7 @@
     }
     .join{
       @include u-margin-bottom(2);
-      @include u-padding-y(2);
+      @include u-padding-y('105');
       @include u-text('center');
       @include u-text('gray-1');
       @include u-text('no-underline');
@@ -118,6 +129,12 @@
       @include u-text('bold');
       &:hover{
         @include u-bg('gold-40v');
+      }
+    }
+    .join.type-google-group{
+      @include u-bg('blue-40v');
+      &:hover{
+        @include u-bg('blue-50v');
       }
     }
     .terms{
@@ -131,13 +148,4 @@
     }
   }
 
-}
-.community-info.google-group{
-  @include u-bg('gray-warm-5');
-  .join{
-    @include u-bg('blue-40v');
-    &:hover{
-      @include u-bg('blue-50v');
-    }
-  }
 }
