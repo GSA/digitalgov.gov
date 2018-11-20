@@ -16,7 +16,7 @@ Small font sizes and inappropriately sized tap targets may negatively impact the
 
 The rest of this article details these two preventable usability issues related to sizing and placement of objects. 
 
-## 1. Use Legible Font Sizes 
+## Use Legible Font Sizes 
 
 **Issue: When viewed on a mobile device, the font size is too small to read.** 
 
@@ -34,65 +34,62 @@ Additionally, the viewport affects how font is scaled. A page without a properly
 
 There is much more to fonts than meets the eye. The following are five things to remember when selecting and sizing your fonts. 
 
-1. Use a Standard Font Family 
+<ol>
+   <li>Use a Standard Font Family <br />Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are [five generic fonts](https://www.w3.org/Style/Examples/007/fonts.en.html): <br /><br />
 
-Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are [five generic fonts](https://www.w3.org/Style/Examples/007/fonts.en.html): 
+<ul>
+<li>[serif](https://en.wikipedia.org/wiki/Serif) </li>
+<li>[sans-serif](https://en.wikipedia.org/wiki/Sans-serif) </li>
+<li>[monospace](https://en.wikipedia.org/wiki/Monospaced_font) </li>
+<li>cursive (fonts that look like handwriting) </li>
+   <li>fantasy (decorative fonts, often used for titles) </li>
+      </ul>
 
-- [serif](https://en.wikipedia.org/wiki/Serif) 
-- [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) 
-- [monospace](https://en.wikipedia.org/wiki/Monospaced_font) 
-- cursive (fonts that look like handwriting) 
-- fantasy (decorative fonts, often used for titles) 
-
-In this first CSS example, the browser will try to display paragraphs in Times New Roman, a serif font. If that is not available, it will look for Georgia; another serif font. If neither are available, the browser will know to use whichever is the user's default serif font. 
+<br /><br />In this first CSS example, the browser will try to display paragraphs in Times New Roman, a serif font. If that is not available, it will look for Georgia; another serif font. If neither are available, the browser will know to use whichever is the user's default serif font. <br /><br />
 
 `p {font-family: "Times New Roman", Georgia, serif;}`
 
-This second CSS example follows the same process, but uses _sans-serif_ fonts: 
+This second CSS example follows the same process, but uses _sans-serif_ fonts: <br /><br />
 
 `p {font-family: Arial, Verdana, Tahoma, sans-serif;}`
 
-This third CSS example uses _monospace_ fonts: 
+This third CSS example uses _monospace_ fonts: <br /><br />
 
-`p {font-family: "Courier New", Courier, monospace;}`
+`p {font-family: "Courier New", Courier, monospace;}` <br /><br /></li>
+<li>Use a base font size of 16 [CSS pixels](http://xahlee.info/js/web_design_screen_density.html) <br />In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. <br />In the CSS, use: <br /><br />
 
-2. Use a base font size of 16 [CSS pixels](http://xahlee.info/js/web_design_screen_density.html)
+`body {font-size:16px;}` <br /><br /></li>
 
-In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. 
+<li>Use font sizes relative to the base size to define the typographic scale. <br /><br />
 
-In the CSS, use: 
+With the font size set for the entire page above, make relative or percentage calls to adjust that font size so html tags such as H1s and H2s are appropriately sized and rendered as shown below. <br /><br />
 
-`body {font-size:16px;}`
-
-3. Use font sizes relative to the base size to define the typographic scale. 
-
-With the font size set for the entire page above, make relative or percentage calls to adjust that font size so html tags such as H1s and H2s are appropriately sized and rendered as shown below. 
-
-In the CSS, use: 
+In the CSS, use: <br /><br />
 
 `body {font-size: 16px;}`
 `p {font-size: 120%;}`
 `h1 {font-size: 250%;}`
 
-This ensures that all the font size relationships will always stay the same no matter the screen size. 
+<br /><br />This ensures that all the font size relationships will always stay the same no matter the screen size. <br /><br /></li>
 
-4. Restrict the number of fonts used and the typographic scale 
+<li>Restrict the number of fonts used and the typographic scale <br /><br />
 
-Too many fonts and font sizes lead to messy and overly complex page layouts. While complex page layouts may be acceptable and readable on a desktop monitor, they may not be as readable on the smaller mobile device screen. 
+Too many fonts and font sizes lead to messy and overly complex page layouts. While complex page layouts may be acceptable and readable on a desktop monitor, they may not be as readable on the smaller mobile device screen. <br /><br /></li>
 
-5. Use the browser default line height of 1.2em 
+<li>Use the browser default line height of 1.2em <br /><br />
 
-The amount of space between lines of text, which can be set using the CSS property, `line-height`, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. 
+The amount of space between lines of text, which can be set using the CSS property, `line-height`, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. <br /><br />
 
-In this CSS example, the paragraph selector has the `font-size` property set to a value of 120 percent, and the `line-height` property set to a value of 1.2. 
+In this CSS example, the paragraph selector has the `font-size` property set to a value of 120 percent, and the `line-height` property set to a value of 1.2. <br /><br />
 
-`p {font-size: 120%; line-height: 1.2;}`
+`p {font-size: 120%; line-height: 1.2;}` <br /><br />
 
-The amount of space between lines of link text can be even more problematic as the link needs to be pressed by a fingertip and is related to the next section. To ensure room to tap the link, increasing the line height may be necessary. 
+The amount of space between lines of link text can be even more problematic as the link needs to be pressed by a fingertip and is related to the next section. To ensure room to tap the link, increasing the line height may be necessary. <br /><br />
 
-In this CSS example, the unordered list selector has the `line-height` property set to a value of 200 percent. 
+In this CSS example, the unordered list selector has the `line-height` property set to a value of 200 percent. <br /><br />
 
-`ul {line-height: 200%;}`
+`ul {line-height: 200%;}` <br /><br /></li>
+</ol>
 
 ### References 
 
@@ -103,7 +100,7 @@ Legible Font Size | https://varvy.com/mobile/legible-font-size.html
 Use Legible Font Sizes | http://sitegrasp.com/mobile-design-tips/use-legible-font-sizes.html 
 Webfont options and speed | https://varvy.com/pagespeed/web-font-options.html 
 
-## 2. Size Your Tap Targets Appropriately 
+## Size Your Tap Targets Appropriately 
 
 **Issue: Objects on the mobile device are too small to be accurately touched to elicit correct application behavior.** 
 
