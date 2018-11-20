@@ -74,7 +74,10 @@
                   <p class="terms"><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
                   {{ end }}
 
+                  {{- if $.Params.members -}}<p><i class="fas fa-user"></i>&nbsp;{{- $.Params.members }} members</p>{{- end -}}
+
                 </div>
+
               {{ end }}
 
               {{ if .Params.community_managers }}
@@ -82,6 +85,11 @@
                 {{- partial "core/get_community_managers" . -}}
               </div>
               {{ end }}
+
+              <div class="community_admin">
+                <p><a href="https://listserv.gsa.gov/" title="Listserv Admin">Listserv Admin</a></p>
+              </div>
+
             </section>
             {{ end }}
           </div>

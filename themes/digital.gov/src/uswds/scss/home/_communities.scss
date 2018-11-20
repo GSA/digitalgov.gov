@@ -100,8 +100,8 @@
     @include u-bg('gray-warm-10');
     @include u-padding(2);
     @include u-line-height('sans', 1);
-    border-bottom: 1px #999 solid;
-    &:last-child{
+    border-top: 1px #999 solid;
+    &:first-child{
       border: none;
     }
 
@@ -146,6 +146,11 @@
     h3{
       @include u-margin(0);
     }
+  }
+  .community_admin{
+    @include u-padding(2);
+    @include u-bg('gray-warm-10');
+    @include u-font('sans', '3xs');
   }
 
 }
