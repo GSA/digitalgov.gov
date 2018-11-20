@@ -41,18 +41,34 @@
                   {{/* Checking to see if community_terms are defined */}}
                   {{ if .Params.community_terms }}
                   <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+                  {{ else }}
+                  <p class="terms"><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
                   {{ end }}
                 </div>
                 {{ end }}
 
                 {{/* If community == 'listserv' && signup via email */}}
                 {{ if and (eq .Params.community_type "listserv") (.Params.subscribe_email) }}
-                <a href="#" class="join"><i class="fas fa-envelope"></i> Join by email</a>
+                <a href="mailto:{{- .Params.subscribe_email -}}
+                {{- if .Params.subscribe_subject -}}
+                  ?subject={{- .Params.subscribe_subject -}}
+                  {{- if .Params.subscribe_body -}}
+                    &body={{- .Params.subscribe_body -}}
+                  {{- end -}}
+                {{- else -}}
+                  {{- if .Params.subscribe_body -}}
+                    ?body={{- .Params.subscribe_body -}}
+                  {{- end -}}
+                {{- end -}}" class="join"><i class="fas fa-envelope"></i> Join by email</a>
                 <div>
-                  <p>To join, send an email to <strong>{{ .Params.subscribe_email }}</strong> with <code>{{ .Params.subscribe_subject }}</code> in the subject.</p>
+
+                  <p>To join, email to <strong>{{ .Params.subscribe_email }}</strong> with {{ if .Params.subscribe_subject }} <code>{{ .Params.subscribe_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if .Params.subscribe_body }} and <code>{{ .Params.subscribe_body }}</code> in the body{{- end -}}.</p>
+
                   {{/* Checking to see if community_terms are defined */}}
                   {{ if .Params.community_terms }}
                   <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+                  {{ else }}
+                  <p class="terms"><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
                   {{ end }}
                 </div>
                 {{ end }}
@@ -65,6 +81,8 @@
                   {{/* Checking to see if community_terms are defined */}}
                   {{ if .Params.community_terms }}
                   <p class="terms"><em>{{ .Params.community_terms }}</em></p>
+                  {{ else }}
+                  <p class="terms"><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
                   {{ end }}
                 </div>
                 {{ end }}
