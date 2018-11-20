@@ -12,10 +12,10 @@ aliases:
 
 # Community Information
 community_type: 'listserv'
-community_email: "digitalgov@gsa.gov"
 community_managers:
   - lgodfrey
 community_terms: "Anyone with a .gov or .mil email address is eligible to join."
+community_join_text: "To join, fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ) or email community manager, Laura Godfrey (laura.godfrey@gsa.gov)"
 google_form: "https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ"
 ---
 
