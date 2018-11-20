@@ -148,7 +148,8 @@
     }
   }
   .community_admin{
-    @include u-padding(2);
+    @include u-padding-x(2);
+    @include u-padding-y(1);
     @include u-bg('gray-warm-10');
     @include u-font('sans', '3xs');
   }
