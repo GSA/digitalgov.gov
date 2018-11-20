@@ -174,13 +174,9 @@ Trillion (US English) = Billón (unidad seguida de doce ceros)
 
 ### Meaning of these terms in the [Diccionario de la Real Academia Española (DRAE)](http://www.rae.es/)
 
-Billón = Un millón de millones, que se expresa por la
+Billón = Un millón de millones, que se expresa por la unidad seguida de doce ceros. (DRAE)
 
-unidad seguida de doce ceros. (DRAE)
-
-Trillón = Un millón de billones, que se expresa por la
-
-unidad seguida de 18 ceros. (DRAE)
+Trillón = Un millón de billones, que se expresa por la unidad seguida de 18 ceros. (DRAE)
 
 ## Punctuation {#punctuation}
 
