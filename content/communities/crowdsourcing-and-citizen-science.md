@@ -9,6 +9,11 @@ topics:
 aliases:
   - /federal-crowdsourcing-and-citizen-science/
   - /communities/federal-crowdsourcing-and-citizen-science/
+
+community_list:
+  - type: "listserv"
+    subscribe_email: listserv@listserv.gsa.gov
+    subject: "subscribe FCPCCS"
 ---
 
 The Federal Community of Practice on Crowdsourcing and Citizen Science (FedCCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.

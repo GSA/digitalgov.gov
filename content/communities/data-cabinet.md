@@ -9,13 +9,10 @@ topics:
   - data
   - open-data
 
-community_type: 'listserv'
-community_email: "digitalgov@gsa.gov"
-community_managers:
-  - jeremyzilar
-community_terms: "Anyone with a .gov or .mil email address is eligible to join."
-subscribe_email: "DATACABINET-subscribe-request@listserv.gsa.gov"
-subscribe_subject: "subscribe to DATA CABINET"
+community_list:
+  - type: "listserv"
+    subscribe_email: DATACABINET-subscribe-request@listserv.gsa.gov
+    subject: "subscribe to DATA CABINET"
 ---
 
 The U.S. Data Cabinet is a community of practice built to advance the adoption of data science best practices. We serve as the principal community of practice for data professionals across the federal government to share proven best practices and critical insights into what's working "on the front lines" at agencies. The Data Cabinet plays an essential role in advancing data-driven management, maximizing the use of the data, and enhancing problem-solving throughout government.

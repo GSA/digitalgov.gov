@@ -4,13 +4,6 @@ uid: apis
 date: 2018-03-29 3:30:00 -0400
 title: 'APIs'
 members: 1351
-community_type: 'google-group'
-community_email: "api-example@gsa.gov"
-community_terms: "This community is open to anyone."
-community_managers:
-  - jeremyzilar
-subscribe_url: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
-
 summary: 'Working to advance the cause of APIs in the federal government'
 deck: 'Working to advance the cause of APIs in the federal government'
 topics:
@@ -19,13 +12,12 @@ topics:
   - open-source
 
 # Community Information
-community_type: 'google-group'
-community_email: "api-example@gsa.gov"
-community_terms: "This community is open to anyone."
+community_list:
+  - type: "google-group"
+    terms: "This community is open to anyone."
+    form: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
 community_managers:
   - gray-brooks
-subscribe_url: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
-
 ---
 
 This community of practice is for anyone who is interested in government APIs and developer outreach, with a focus on the federal government. APIs are as important to digital government as they are are esoteric and sometimes difficult to understand. This forum exists to help federal agencies share news, ask for help, and expand the use of APIs in government.

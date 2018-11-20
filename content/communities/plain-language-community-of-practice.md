@@ -14,6 +14,13 @@ topics:
   - content
   - plain-language
   - writing
+
+community_list:
+  - type: "listserv"
+    form: https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN
+    terms: "*You'll need to [register for an account](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1=SUBED1%3DPL-COP-MAIN&X=&Y=) before filling out our form. Anyone with a .gov or .mil email address is eligible to join."
+community_managers:
+  - katherine-spivey
 ---
 
 Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.

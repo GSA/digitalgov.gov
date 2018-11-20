@@ -9,6 +9,15 @@ topics:
   - agile
 aliases:
   - /agile-lean-community-of-practice/
+
+community_list:
+  - type: "listserv"
+    subscribe_email: listserv@listserv.gsa.gov
+    body: "subscribe agile-lean-cop"
+community_managers:
+  - logan-powell
+  - bbrantley
+
 ---
 
 The Agile/Lean Community of Practice was started to bring together federal employees who are currently working with agile/lean methodologies or would like to learn more about Agile/Lean. We believe that agile/lean concepts can help the federal government become more efficient and effective while delivering better public services to the American citizen.

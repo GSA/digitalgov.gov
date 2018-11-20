@@ -10,6 +10,16 @@ topics:
 
 aliases:
   - /challenges-prizes-community/
+
+community_list:
+  - type: "listserv"
+    subscribe_email: team@challenge.gov
+    subject: "Join Challenges"
+    body: "your name + agency you work for"
+community_managers:
+  - logan-powell
+  - bbrantley
+
 ---
 
 {{< img src="challenge-gov" caption="" alt="Challege.gov Logo" >}}

@@ -11,6 +11,12 @@ topics:
 aliases:
   - /communities/video-production-pros-community-of-practice/
   - /communities/digital-audio-video-community-of-practice/
+
+community_list:
+  - type: "listserv"
+    subscribe_email: Kevin.Spivey@cfpb.gov
+    subject: "Join Video Production Pros"
+
 ---
 
 

@@ -12,6 +12,12 @@ topics:
 aliases:
   - /communities/web-managers-forum/
   - /communities/web-managers-forum/web-content-managers-listserv/
+
+community_list:
+  - type: "listserv"
+    subscribe_email: alycia.piazza@gsa.gov
+    subject: "Join Web Content Managers"
+    form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
 ---
 
 If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.

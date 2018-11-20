@@ -7,8 +7,13 @@ summary: 'We work on improving the creation, adoption and evaluation of social e
 members: 1072
 topics:
   - social-media
-redirectto: https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov
+# redirectto: https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov
 
+
+community_list:
+  - type: "listserv"
+    subscribe_email: justin.herman@gsa.gov
+    subject: "Join #SocialGov"
 ---
 
 ### Join

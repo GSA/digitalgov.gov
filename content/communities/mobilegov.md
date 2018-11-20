@@ -8,6 +8,13 @@ members: 1017
 topics:
   - mobile
 
+community_list:
+  - type: "listserv"
+    subscribe_email: mobilegov-request@listserv.gsa.gov
+    subject: "Subscribe to MobileGov"
+community_managers:
+  - jparcell
+  - david-fern
 ---
 
 MobileGov Community of Practice members, a network of federal employees, work across agencies to create anytime, anywhere government resources and solutions for today and tomorrow.

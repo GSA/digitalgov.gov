@@ -11,13 +11,13 @@ topics:
 aliases:
   - /communities/open-data-community-of-practice/
 
-community_type: 'listserv'
+community_list:
+  - type: "listserv"
+    subscribe_email: listserv@listserv.gsa.gov
+    subject: "subscribe Open Data"
 community_managers:
   - pashlock
   - hyon-kim
-community_terms: "Anyone with a .gov or .mil email address is eligible to join."
-subscribe_email: "listserv@listserv.gsa.gov"
-subscribe_subject: "subscribe Open Data"
 ---
 
 ### Join

@@ -9,6 +9,11 @@ topics:
   - user-experience
 aliases:
   - /federal-user-experience-community-of-practice/
+
+community_list:
+  - type: "listserv"
+    subscribe_email: ux-cop-request@listserv.gsa.gov
+    subject: "Join UX Community"
 ---
 
 Join other federal user experience practitioners and learn how to make better user-centered products.
