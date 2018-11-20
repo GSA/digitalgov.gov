@@ -21,7 +21,7 @@
             <article class="promo" data-edit-this="{{- .File.Path -}}">
               {{ if .Params.icon }}
               {{ $src := (print "/img/promos/" .Params.icon) }}
-              <img src="{{ $src | relURL }}" alt="{{ .Params.head }} Logo">
+              <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.head }} Logo">
               {{ end }}
               <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>
               <p>{{ .Params.summary | markdownify }}</p>

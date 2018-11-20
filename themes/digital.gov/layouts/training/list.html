@@ -15,21 +15,11 @@
     <div class="grid-container grid-container-desktop">
       <div class="grid-row">
         <div class="grid-col-12">
-          {{ $training_data := $.Site.Data.training.training }}
-          {{ range $training_data }}
+          {{ $training_playlist := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "training") }}
+          {{ range $training_playlist.Pages }}
             <section class="topic">
-              <h2>{{ .topic }}</h2>
-              <p>{{ .summary }}</p>
-              <div class="grid-row grid-gap-1">
-                {{ $videos := .youtube_ids }}
-                {{ range $videos }}
-                  <div class="grid-col-2 tablet:grid-col-3">
-                    <div class="youtube-player" data-id="{{ . }}"></div>
-                  </div>
-                {{ end }}
-
-              </div>
-
+              <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
+              <p>{{ .Params.summary }}</p>
             </section>
           {{ end }}
         </div>

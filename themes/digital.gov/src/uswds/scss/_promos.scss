@@ -20,7 +20,7 @@ article.promo{
       }
     }
   }
-  img{
+  img.thumb{
     @include u-float('right');
     @include u-width(4);
     @include u-height(4);

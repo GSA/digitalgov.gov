@@ -1,5 +1,6 @@
 // Video & Video Player
 
+.youtube-card,
 .youtube-player{
   margin: 0;
   position: relative;
@@ -22,7 +23,6 @@
     top: 0;
     border: none;
     height: auto;
-    cursor: pointer;
     -webkit-transition: .4s all;
     -moz-transition: .4s all;
     transition: .4s all;
@@ -53,4 +53,7 @@
   	background: url("../img/play-btn-active.png") no-repeat;
   }
 
+}
+.youtube-player img{
+  cursor: pointer;
 }

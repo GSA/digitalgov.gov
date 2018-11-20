@@ -19,10 +19,13 @@
       </div>
     </header>
 
-    <section>
+    <section class="events-list">
       <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12">
+        <div class="grid-row grid-gap-4">
+          <div class="grid-col-12 tablet:grid-col-4" data-edit-this="{{- .File.Path -}}">
+            {{ .Content }}
+          </div>
+          <div class="grid-col-12 tablet:grid-col-8">
             {{/* Get the file name */}}
             {{/* Filename == topic name */}}
             {{ $topic := .File.BaseFileName }}
@@ -33,13 +36,15 @@
             {{/* Now we sort the list and only show the past events */}}
             {{ $topic := (where $topic "Date" "lt" now) }}
             {{ range $topic }}
+
               {{ .Render "training-card"}}
+
             {{ end }}
           </div>
         </div>
       </div>
     </section>
-    
+
   </article>
 </main>
 {{ end }} {{/* end 'content' block */}}

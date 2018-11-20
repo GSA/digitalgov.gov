@@ -1,7 +1,7 @@
-<article class="event card">
+<article class="event card promo" data-edit-this="{{- .File.Path -}}">
   <div class="grid-row grid-gap-2">
     <div class="grid-col-12 tablet:grid-col-4">
-      <div class="youtube-player" data-id="{{ .Params.youtube_id }}"></div>
+      <div class="youtube-card" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
     </div>
     <div class="grid-col-12 tablet:grid-col-8">
       <header>
@@ -11,5 +11,6 @@
         <p>{{ .Params.summary | markdownify }}</p>
       </header>
     </div>
+    <a href="{{- .URL -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </div>
 </article>

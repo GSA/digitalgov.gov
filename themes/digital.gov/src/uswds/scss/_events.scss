@@ -3,7 +3,7 @@
 .events-list{
   .event{
     @include u-margin-bottom(5);
-    h3{
+    h2,h3{
       @include u-margin(0);
       @include u-text('bold');
       @include u-font('sans', 'lg');
