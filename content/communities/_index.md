@@ -33,9 +33,6 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Challenges & Prizes]({{< link "challenges-prizes.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes.md" >}})
 
-**[Community Solutions]({{< link "community-solutions.md" >}})**: A community of federal staff that provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "community-solutions.md" >}})
-
 **[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "crowdsourcing-and-citizen-science.md" >}})
 
