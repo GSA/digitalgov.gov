@@ -5,6 +5,9 @@ date: 2013-11-17 11:12:13 -0400
 title: 'Communities of Practice'
 summary: 'Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.'
 
+aliases:
+  - /communities/community-solutions/
+
 ---
 
 ## Come together, learn from others in government
