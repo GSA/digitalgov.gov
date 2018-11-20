@@ -20,6 +20,7 @@ community_list:
     form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
 ---
 
+
 If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.
 
 ### Join
