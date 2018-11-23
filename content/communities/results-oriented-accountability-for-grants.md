@@ -32,7 +32,7 @@ As the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA)
 
 ## Community Updates 
 
-**Now Open for Public Comment: Federal Grants Management Draft Data Standards** 
+**Now Open for Public Comments: Federal Grants Management Draft Data Standards** 
 
 The Results-Oriented Accountability for Grants CAP Goal Team is excited to release the **draft** Data Standards for public comment. The public comment period will stay open for 60 days beginning **November 16, 2018**, through **January 16, 2019** as noted on the [Federal Register](https://www.federalregister.gov/documents/2018/11/16/2018-24927/draft-federal-grants-management-data-standards-for-feedback). You can submit comments through the [Grants Feedback Site](https://grantsfeedback.cfo.gov/) powered by GitHub.
 
@@ -45,7 +45,7 @@ Do you have questions about the process for giving feedback? Call into our Offic
 To join a virtual Office Hour Session: 
 
  - Dial into: 1-866-928-2008. When prompted, enter: 8514834# 
- - Submit questions via live chat at: www.meet.gsa.gov/grantsfibf 
+ - Submit questions via live chat at: [www.meet.gsa.gov/grantsfibf](www.meet.gsa.gov/grantsfibf)
 
 ## Key resources
 
