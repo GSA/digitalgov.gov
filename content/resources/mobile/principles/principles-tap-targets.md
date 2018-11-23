@@ -35,28 +35,28 @@ Additionally, the viewport affects how font is scaled. A page without a properly
 There is much more to fonts than meets the eye. The following are five things to remember when selecting and sizing your fonts. 
 
 <ol>
-   <li>Use a Standard Font Family <br />Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are [five generic fonts](https://www.w3.org/Style/Examples/007/fonts.en.html): <br /><br />
+   <li>Use a Standard Font Family <br />Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are <a href="https://www.w3.org/Style/Examples/007/fonts.en.html">five generic fonts</a>: <br /><br />
 
 <ul>
-<li>[serif](https://en.wikipedia.org/wiki/Serif) </li>
-<li>[sans-serif](https://en.wikipedia.org/wiki/Sans-serif) </li>
-<li>[monospace](https://en.wikipedia.org/wiki/Monospaced_font) </li>
+<li><a href="https://en.wikipedia.org/wiki/Serif">serif</a> </li>
+<li><a href="https://en.wikipedia.org/wiki/Sans-serif">sans-serif</a> </li>
+<li><a href="https://en.wikipedia.org/wiki/Monospaced_font">monospace</a> </li>
 <li>cursive (fonts that look like handwriting) </li>
    <li>fantasy (decorative fonts, often used for titles) </li>
       </ul>
 
 <br /><br />In this first CSS example, the browser will try to display paragraphs in Times New Roman, a serif font. If that is not available, it will look for Georgia; another serif font. If neither are available, the browser will know to use whichever is the user's default serif font. <br /><br />
 
-`p {font-family: "Times New Roman", Georgia, serif;}`
+`p {font-family: "Times New Roman", Georgia, serif;} `
 
-This second CSS example follows the same process, but uses _sans-serif_ fonts: <br /><br />
+This second CSS example follows the same process, but uses <em>sans-serif</em> fonts: <br /><br />
 
 `p {font-family: Arial, Verdana, Tahoma, sans-serif;}`
 
-This third CSS example uses _monospace_ fonts: <br /><br />
+This third CSS example uses <em>monospace</em> fonts: <br /><br />
 
 `p {font-family: "Courier New", Courier, monospace;}` <br /><br /></li>
-<li>Use a base font size of 16 [CSS pixels](http://xahlee.info/js/web_design_screen_density.html) <br />In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. <br />In the CSS, use: <br /><br />
+<li>Use a base font size of 16 <a href="http://xahlee.info/js/web_design_screen_density.html">CSS pixels</a> <br />In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. <br />In the CSS, use: <br /><br />
 
 `body {font-size:16px;}` <br /><br /></li>
 
@@ -93,11 +93,11 @@ In this CSS example, the unordered list selector has the `line-height` property 
 
 ### References 
 
-CSS: What’s a CSS Pixel? What’s a Reference Pixel | http://xahlee.info/js/web_design_screen_density.html 
-Document Doesn't Use Legible Font Sizes | https://developers.google.com/web/tools/lighthouse/audits/font-sizes 
-SEO Do’s and Don’ts with Font Sizes and Colors | https://www.seoblog.com/2014/06/seo-dos-donts-font-sizes-colors/ 
-Legible Font Size | https://varvy.com/mobile/legible-font-size.html 
-Use Legible Font Sizes | http://sitegrasp.com/mobile-design-tips/use-legible-font-sizes.html 
+CSS: What’s a CSS Pixel? What’s a Reference Pixel | http://xahlee.info/js/web_design_screen_density.html <br />
+Document Doesn't Use Legible Font Sizes | https://developers.google.com/web/tools/lighthouse/audits/font-sizes <br />
+SEO Do’s and Don’ts with Font Sizes and Colors | https://www.seoblog.com/2014/06/seo-dos-donts-font-sizes-colors/ <br />
+Legible Font Size | https://varvy.com/mobile/legible-font-size.html <br />
+Use Legible Font Sizes | http://sitegrasp.com/mobile-design-tips/use-legible-font-sizes.html <br />
 Webfont options and speed | https://varvy.com/pagespeed/web-font-options.html 
 
 ## Size Your Tap Targets Appropriately 
@@ -118,8 +118,8 @@ In the CSS use:
 
 ### References 
 
-Accessible Styles | https://developers.google.com/web/fundamentals/accessibility/accessible-styles#multi-device_responsive_design 
-PageSpeed Insights Size Tap Targets Appropriately | https://stallion-theme.co.uk/google-pagespeed-insights-size-tap-targets/ 
-Size Tap Targets | https://growthrobotics.com/size-tap-targets/ 
-Size Tap Targets Appropriately | https://varvy.com/mobile/tap-target-size.html 
+Accessible Styles | https://developers.google.com/web/fundamentals/accessibility/accessible-styles#multi-device_responsive_design <br />
+PageSpeed Insights Size Tap Targets Appropriately | https://stallion-theme.co.uk/google-pagespeed-insights-size-tap-targets/ <br />
+Size Tap Targets | https://growthrobotics.com/size-tap-targets/ <br />
+Size Tap Targets Appropriately | https://varvy.com/mobile/tap-target-size.html <br />
 The Four Fixes To Avoid The Google Mobile-Apocalypse | https://authoritylabs.com/blog/four-fixes-avoid-google-mobile-apocalypse-update/ 
