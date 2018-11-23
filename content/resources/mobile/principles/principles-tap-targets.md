@@ -1,6 +1,6 @@
 ---
 url: /resources/mobile/principles/tap-targets/
-date: 2018-11-20 12:30:00 -0500
+date: 2018-11-26 10:00:00 -0500
 title: 'Remember That We Navigate Mobile Sites Using Our Fingers'
 summary: 'Week three of our series, Eight Principles of Mobile-Friendliness, covers how to size fonts and other tap targets, like links.'
 type: guide
@@ -93,12 +93,14 @@ In this CSS example, the unordered list selector has the `line-height` property 
 
 ### References 
 
-CSS: What’s a CSS Pixel? What’s a Reference Pixel | http://xahlee.info/js/web_design_screen_density.html <br />
-Document Doesn't Use Legible Font Sizes | https://developers.google.com/web/tools/lighthouse/audits/font-sizes <br />
-SEO Do’s and Don’ts with Font Sizes and Colors | https://www.seoblog.com/2014/06/seo-dos-donts-font-sizes-colors/ <br />
-Legible Font Size | https://varvy.com/mobile/legible-font-size.html <br />
-Use Legible Font Sizes | http://sitegrasp.com/mobile-design-tips/use-legible-font-sizes.html <br />
-Webfont options and speed | https://varvy.com/pagespeed/web-font-options.html 
+<ul>
+<li>CSS: What’s a CSS Pixel? What’s a Reference Pixel | <a href="http://xahlee.info/js/web_design_screen_density.html">http://xahlee.info/js/web_design_screen_density.html</a> </li>
+<li>Document Doesn't Use Legible Font Sizes | <a href="https://developers.google.com/web/tools/lighthouse/audits/font-sizes">https://developers.google.com/web/tools/lighthouse/audits/font-sizes</a> </li>
+<li>SEO Do’s and Don’ts with Font Sizes and Colors | <a href="https://www.seoblog.com/2014/06/seo-dos-donts-font-sizes-colors/">https://www.seoblog.com/2014/06/seo-dos-donts-font-sizes-colors/</a> </li>
+<li>Legible Font Size | <a href="https://varvy.com/mobile/legible-font-size.html">https://varvy.com/mobile/legible-font-size.html</a> </li>
+<li>Use Legible Font Sizes | <a href="http://sitegrasp.com/mobile-design-tips/use-legible-font-sizes.html">http://sitegrasp.com/mobile-design-tips/use-legible-font-sizes.html</a> </li>
+<li>Webfont options and speed | <a href="https://varvy.com/pagespeed/web-font-options.html">https://varvy.com/pagespeed/web-font-options.html</a> </li>
+</ul>
 
 ## Size Your Tap Targets Appropriately 
 
@@ -118,8 +120,10 @@ In the CSS use:
 
 ### References 
 
-Accessible Styles | https://developers.google.com/web/fundamentals/accessibility/accessible-styles#multi-device_responsive_design <br />
-PageSpeed Insights Size Tap Targets Appropriately | https://stallion-theme.co.uk/google-pagespeed-insights-size-tap-targets/ <br />
-Size Tap Targets | https://growthrobotics.com/size-tap-targets/ <br />
-Size Tap Targets Appropriately | https://varvy.com/mobile/tap-target-size.html <br />
-The Four Fixes To Avoid The Google Mobile-Apocalypse | https://authoritylabs.com/blog/four-fixes-avoid-google-mobile-apocalypse-update/ 
+<ul>
+<li>Accessible Styles | <a href="https://developers.google.com/web/fundamentals/accessibility/accessible-styles#multi-device_responsive_design">https://developers.google.com/web/fundamentals/accessibility/accessible-styles#multi-device_responsive_design</a> </li>
+<li>PageSpeed Insights Size Tap Targets Appropriately | <a href="https://stallion-theme.co.uk/google-pagespeed-insights-size-tap-targets/">https://stallion-theme.co.uk/google-pagespeed-insights-size-tap-targets/</a> </li>
+<li>Size Tap Targets | <a href="https://growthrobotics.com/size-tap-targets/">https://growthrobotics.com/size-tap-targets/</a> </li>
+<li>Size Tap Targets Appropriately | <a href="https://varvy.com/mobile/tap-target-size.html">https://varvy.com/mobile/tap-target-size.html</a> </li>
+<li>The Four Fixes To Avoid The Google Mobile-Apocalypse | <a href="https://authoritylabs.com/blog/four-fixes-avoid-google-mobile-apocalypse-update/">https://authoritylabs.com/blog/four-fixes-avoid-google-mobile-apocalypse-update/</a> </li>
+</ul>
