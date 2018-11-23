@@ -9,8 +9,8 @@ type: guide
 
 This week we will focus on font sizes and tap targets that are too small to be used on a mobile device. The following are two solutions to help prevent incorrect sizing and placement of objects on a site that may lead to mobile unfriendliness. 
 
-1. Use Legible Font Sizes 
-2. Size Your Tap Targets Appropriately 
+1. **Use Legible Font Sizes** 
+2. **Size Your Tap Targets Appropriately** 
 
 Small font sizes and inappropriately sized tap targets may negatively impact the usability of your site and can be detected using Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), and the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites). 
 
@@ -35,7 +35,7 @@ Additionally, the viewport affects how font is scaled. A page without a properly
 There is much more to fonts than meets the eye. The following are five things to remember when selecting and sizing your fonts. 
 
 <ol>
-   <li><strong>Use a Standard Font Family</strong> <br />Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are <a href="https://www.w3.org/Style/Examples/007/fonts.en.html">five generic fonts</a>: <br /><br />
+   <li><strong>Use a Standard Font Family</strong> <br />Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are <a href="https://www.w3.org/Style/Examples/007/fonts.en.html">five generic fonts</a>: 
 
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Serif">serif</a> </li>
@@ -45,22 +45,22 @@ There is much more to fonts than meets the eye. The following are five things to
    <li>fantasy (decorative fonts, often used for titles) </li>
       </ul>
 
-<br /><br />In this first CSS example, the browser will try to display paragraphs in Times New Roman, a serif font. If that is not available, it will look for Georgia; another serif font. If neither are available, the browser will know to use whichever is the user's default serif font. <br /><br />
+In this first CSS example, the browser will try to display paragraphs in Times New Roman, a serif font. If that is not available, it will look for Georgia; another serif font. If neither are available, the browser will know to use whichever is the user's default serif font. <br /><br />
 
 <blockquote>p {font-family: "Times New Roman", Georgia, serif;}</blockquote>
 
-This second CSS example follows the same process, but uses <em>sans-serif</em> fonts: <br /><br />
+This next CSS example follows the same process, but uses <em>sans-serif</em> fonts: <br /><br />
 
 <blockquote>p {font-family: Arial, Verdana, Tahoma, sans-serif;}</blockquote>
 
 This third CSS example uses <em>monospace</em> fonts: <br /><br />
 
-<blockquote>p {font-family: "Courier New", Courier, monospace;}</blockquote> <br /><br /></li>
+<blockquote>p {font-family: "Courier New", Courier, monospace;}</blockquote></li>
 <li><strong>Use a base font size of 16 <a href="http://xahlee.info/js/web_design_screen_density.html">CSS pixels</a></strong> <br /><br />
 
 In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. <br />In the CSS, use: <br /><br />
 
-`body {font-size:16px;}` <br /><br /></li>
+<blockquote>body {font-size:16px;}</blockquote></li>
 
 <li><strong>Use font sizes relative to the base size to define the typographic scale</strong> <br /><br />
 
@@ -68,11 +68,11 @@ With the font size set for the entire page above, make relative or percentage ca
 
 In the CSS, use: <br /><br />
 
-`body {font-size: 16px;}`
-`p {font-size: 120%;}`
-`h1 {font-size: 250%;}`
+<pre>body {font-size: 16px;} 
+p {font-size: 120%;} 
+h1 {font-size: 250%;}</pre>
 
-<br /><br />This ensures that all the font size relationships will always stay the same no matter the screen size. <br /><br /></li>
+This ensures that all the font size relationships will always stay the same no matter the screen size. <br /><br /></li>
 
 <li><strong>Restrict the number of fonts used and the typographic scale</strong> <br /><br />
 
@@ -84,13 +84,13 @@ The amount of space between lines of text, which can be set using the CSS proper
 
 In this CSS example, the paragraph selector has the `font-size` property set to a value of 120 percent, and the `line-height` property set to a value of 1.2. <br /><br />
 
-`p {font-size: 120%; line-height: 1.2;}` <br /><br />
+<blockquote>p {font-size: 120%; line-height: 1.2;}</blockquote>
 
 The amount of space between lines of link text can be even more problematic as the link needs to be pressed by a fingertip and is related to the next section. To ensure room to tap the link, increasing the line height may be necessary. <br /><br />
 
 In this CSS example, the unordered list selector has the `line-height` property set to a value of 200 percent. <br /><br />
 
-`ul {line-height: 200%;}` <br /><br /></li>
+<blockquote>ul {line-height: 200%;}</blockquote></li>
 </ol>
 
 ### References 
