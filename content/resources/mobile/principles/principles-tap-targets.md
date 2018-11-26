@@ -34,10 +34,7 @@ Additionally, the viewport affects how font is scaled. A page without a properly
 
 There is much more to fonts than meets the eye. The following are five things to remember when selecting and sizing your fonts. 
 
-
-
-<ol>
-<li><strong>Use a Standard Font Family</strong> <br />Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are <a href="https://www.w3.org/Style/Examples/007/fonts.en.html">five generic fonts</a>: <br />
++ <strong>Use a Standard Font Family</strong> <br />Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are <a href="https://www.w3.org/Style/Examples/007/fonts.en.html">five generic fonts</a>: <br />
 
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Serif">serif</a> </li>
@@ -57,20 +54,15 @@ This next CSS example follows the same process, but uses <em>sans-serif</em> fon
 
 This third CSS example uses <em>monospace</em> fonts: <br /><br />
 
-<blockquote>p {font-family: "Courier New", Courier, monospace;}</blockquote></li>
+<blockquote>p {font-family: "Courier New", Courier, monospace;}</blockquote>
 
-
-
-<li><strong>Use a base font size of 16 <a href="http://xahlee.info/js/web_design_screen_density.html">CSS pixels</a></strong> <br /><br />
++ <strong>Use a base font size of 16 <a href="http://xahlee.info/js/web_design_screen_density.html">CSS pixels</a></strong> <br /><br />
 
 In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. <br />In the CSS, use: <br /><br />
 
-<blockquote>body {font-size:16px;}</blockquote></li>
+<blockquote>body {font-size:16px;}</blockquote>
 
-
-
-
-<li><strong>Use font sizes relative to the base size to define the typographic scale</strong> <br /><br />
++ <strong>Use font sizes relative to the base size to define the typographic scale</strong> <br /><br />
 
 With the font size set for the entire page above, make relative or percentage calls to adjust that font size so html tags such as H1s and H2s are appropriately sized and rendered as shown below. <br /><br />
 
@@ -80,13 +72,13 @@ In the CSS, use: <br />
 p {font-size: 120%;} 
 h1 {font-size: 250%;}</pre>
 
-This ensures that all the font size relationships will always stay the same no matter the screen size. <br /><br /></li>
+This ensures that all the font size relationships will always stay the same no matter the screen size. <br /><br />
 
-<li><strong>Restrict the number of fonts used and the typographic scale</strong> <br /><br />
++ <strong>Restrict the number of fonts used and the typographic scale</strong> <br /><br />
 
-Too many fonts and font sizes lead to messy and overly complex page layouts. While complex page layouts may be acceptable and readable on a desktop monitor, they may not be as readable on the smaller mobile device screen. <br /><br /></li>
+Too many fonts and font sizes lead to messy and overly complex page layouts. While complex page layouts may be acceptable and readable on a desktop monitor, they may not be as readable on the smaller mobile device screen. <br /><br />
 
-<li><strong>Use the browser default line height of 1.2em</strong> <br /><br />
++ <strong>Use the browser default line height of 1.2em</strong> <br /><br />
 
 The amount of space between lines of text, which can be set using the CSS property, &#96;line-height&#96;, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. <br /><br />
 
@@ -98,8 +90,7 @@ The amount of space between lines of link text can be even more problematic as t
 
 In this CSS example, the unordered list selector has the &lsquo;line-height&lsquo; property set to a value of 200 percent. <br /><br />
 
-<blockquote>ul {line-height: 200%;}</blockquote></li>
-</ol>
+<blockquote>ul {line-height: 200%;}</blockquote>
 
 ### References 
 
