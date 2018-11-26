@@ -68,9 +68,9 @@ This third CSS example uses <em>monospace</em> fonts:
 
    In the CSS, use: 
 
-   >`body {font-size: 16px;}`
-   >`{font-size: 120%;}`
-   >`h1 {font-size: 250%;}`
+   >`body {font-size: 16px;}
+   {font-size: 120%;}
+   h1 {font-size: 250%;}`
 
    This ensures that all the font size relationships will always stay the same no matter the screen size. 
 
@@ -80,15 +80,15 @@ This third CSS example uses <em>monospace</em> fonts:
 
 5. **Use the browser default line height of 1.2em** 
 
-   The amount of space between lines of text, which can be set using the CSS property, &#96;line-height&#96;, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. 
+   The amount of space between lines of text, which can be set using the CSS property, `line-height`, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. 
 
-   In this CSS example, the paragraph selector has the &#96;font-size&#96; property set to a value of 120 percent, and the &#96;line-height&#96; property set to a value of 1.2. 
+   In this CSS example, the paragraph selector has the `font-size` property set to a value of 120 percent, and the `line-height` property set to a value of 1.2. 
 
    `p {font-size: 120%; line-height: 1.2;}`
 
    The amount of space between lines of link text can be even more problematic as the link needs to be pressed by a fingertip and is related to the next section. To ensure room to tap the link, increasing the line height may be necessary. 
 
-   In this CSS example, the unordered list selector has the &lsquo;line-height&lsquo; property set to a value of 200 percent. 
+   In this CSS example, the unordered list selector has the `line-height` property set to a value of 200 percent. 
 
    `ul {line-height: 200%;}`
 
