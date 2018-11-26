@@ -25,7 +25,7 @@ The eight principles are:
 
 1. [JavaScript is really cool, when used with care]({{< link "resources/mobile/principles/principles-javascript.md" >}})
 2. [**The viewport is the window to your site**](https://digital.gov/resources/mobile/principles/viewport/)
-3. We navigate mobile sites using our finger, which is bigger than a mouse pointer
+3. [We navigate mobile sites using our finger, which is bigger than a mouse pointer](https://digital.gov/resources/mobile/principles/tap-targets/)
 4. Installing additional software to properly view your site should not be necessary
 5. Conserve resources, recycle when possible
 6. The smaller the better, when it comes to page resources!
