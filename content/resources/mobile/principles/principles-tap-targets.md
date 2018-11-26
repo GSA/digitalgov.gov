@@ -42,10 +42,10 @@ There is much more to fonts than meets the eye. The following are five things to
 <li><a href="https://en.wikipedia.org/wiki/Sans-serif">sans-serif</a> </li>
 <li><a href="https://en.wikipedia.org/wiki/Monospaced_font">monospace</a> </li>
 <li>cursive (fonts that look like handwriting) </li>
-   <li>fantasy (decorative fonts, often used for titles) </li>
-      </ul>
+<li>fantasy (decorative fonts, often used for titles) </li>
+</ul>
 
-In this first CSS example, the browser will try to display paragraphs in Times New Roman, a serif font. If that is not available, it will look for Georgia; another serif font. If neither are available, the browser will know to use whichever is the user's default serif font. <br /><br />
+<br />In this first CSS example, the browser will try to display paragraphs in Times New Roman, a serif font. If that is not available, it will look for Georgia; another serif font. If neither are available, the browser will know to use whichever is the user's default serif font. <br /><br />
 
 <blockquote>p {font-family: "Times New Roman", Georgia, serif;}</blockquote>
 
@@ -80,15 +80,15 @@ Too many fonts and font sizes lead to messy and overly complex page layouts. Whi
 
 <li><strong>Use the browser default line height of 1.2em</strong> <br /><br />
 
-The amount of space between lines of text, which can be set using the CSS property, `line-height`, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. <br /><br />
+The amount of space between lines of text, which can be set using the CSS property, &lsquo;line-height&lsquo;, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. <br /><br />
 
-In this CSS example, the paragraph selector has the a&#768;font-sizea&#768; property set to a value of 120 percent, and the `line-height` property set to a value of 1.2. <br /><br />
+In this CSS example, the paragraph selector has the &lsquo;font-size&lsquo; property set to a value of 120 percent, and the `line-height` property set to a value of 1.2. <br /><br />
 
 <blockquote>p {font-size: 120%; line-height: 1.2;}</blockquote>
 
 The amount of space between lines of link text can be even more problematic as the link needs to be pressed by a fingertip and is related to the next section. To ensure room to tap the link, increasing the line height may be necessary. <br /><br />
 
-In this CSS example, the unordered list selector has the a&#768;line-heighta&#768; property set to a value of 200 percent. <br /><br />
+In this CSS example, the unordered list selector has the &lsquo;line-height&lsquo; property set to a value of 200 percent. <br /><br />
 
 <blockquote>ul {line-height: 200%;}</blockquote></li>
 </ol>
