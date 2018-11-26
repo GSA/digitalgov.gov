@@ -38,11 +38,11 @@ There is much more to fonts than meets the eye. The following are five things to
 
    Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are <a href="https://www.w3.org/Style/Examples/007/fonts.en.html">five generic fonts</a>: <br />
 
-   - <a href="https://en.wikipedia.org/wiki/Serif">serif</a> </li>
-   - <a href="https://en.wikipedia.org/wiki/Sans-serif">sans-serif</a> </li>
-   - <a href="https://en.wikipedia.org/wiki/Monospaced_font">monospace</a> </li>
-   - cursive (fonts that look like handwriting) </li>
-   - fantasy (decorative fonts, often used for titles) </li>
+   - <a href="https://en.wikipedia.org/wiki/Serif">serif</a> 
+   - <a href="https://en.wikipedia.org/wiki/Sans-serif">sans-serif</a> 
+   - <a href="https://en.wikipedia.org/wiki/Monospaced_font">monospace</a> 
+   - cursive (fonts that look like handwriting) 
+   - fantasy (decorative fonts, often used for titles) 
 
    In this first CSS example, the browser will try to display paragraphs in Times New Roman, a serif font. If that is not available, it will look for Georgia; another serif font. If neither are available, the browser will know to use whichever is the user's default serif font. 
 
@@ -58,17 +58,17 @@ This third CSS example uses <em>monospace</em> fonts:
 
 2. **Use a base font size of 16 [CSS pixels](http://xahlee.info/js/web_design_screen_density.html)**
 
-   In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. <br />In the CSS, use: <br /><br />
+   In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. <br />In the CSS, use: 
 
    `body {font-size:16px;}`
 
 3. <strong>Use font sizes relative to the base size to define the typographic scale</strong> 
 
-   With the font size set for the entire page above, make relative or percentage calls to adjust that font size so html tags such as H1s and H2s are appropriately sized and rendered as shown below. <br /><br />
+   With the font size set for the entire page above, make relative or percentage calls to adjust that font size so html tags such as H1s and H2s are appropriately sized and rendered as shown below. 
 
    In the CSS, use: 
 
-   `body {font-size: 16px;}`
+   >`body {font-size: 16px;}`
    `{font-size: 120%;}`
    `h1 {font-size: 250%;}`
 
