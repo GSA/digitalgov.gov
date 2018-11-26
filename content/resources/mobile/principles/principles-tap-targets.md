@@ -34,7 +34,7 @@ Additionally, the viewport affects how font is scaled. A page without a properly
 
 There is much more to fonts than meets the eye. The following are five things to remember when selecting and sizing your fonts. 
 
->1. **Use a Standard Font Family**
+>**1. Use a Standard Font Family**
 
    Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are <a href="https://www.w3.org/Style/Examples/007/fonts.en.html">five generic fonts</a>: <br />
 
@@ -56,13 +56,13 @@ This third CSS example uses <em>monospace</em> fonts:
 
    `p {font-family: "Courier New", Courier, monospace;}`
 
->2. **Use a base font size of 16 [CSS pixels](http://xahlee.info/js/web_design_screen_density.html)**
+>**2. Use a base font size of 16 [CSS pixels](http://xahlee.info/js/web_design_screen_density.html)**
 
    In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. <br />In the CSS, use: 
 
    `body {font-size:16px;}`
 
->3. <strong>Use font sizes relative to the base size to define the typographic scale</strong> 
+>**3. Use font sizes relative to the base size to define the typographic scale**
 
    With the font size set for the entire page above, make relative or percentage calls to adjust that font size so html tags such as H1s and H2s are appropriately sized and rendered as shown below. 
 
@@ -74,11 +74,11 @@ This third CSS example uses <em>monospace</em> fonts:
 
    This ensures that all the font size relationships will always stay the same no matter the screen size. 
 
->4. **Restrict the number of fonts used and the typographic scale**
+>**4. Restrict the number of fonts used and the typographic scale**
 
    Too many fonts and font sizes lead to messy and overly complex page layouts. While complex page layouts may be acceptable and readable on a desktop monitor, they may not be as readable on the smaller mobile device screen. 
 
->5. **Use the browser default line height of 1.2em** 
+>**5. Use the browser default line height of 1.2em** 
 
    The amount of space between lines of text, which can be set using the CSS property, `line-height`, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. 
 
