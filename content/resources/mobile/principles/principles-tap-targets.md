@@ -69,8 +69,8 @@ This third CSS example uses <em>monospace</em> fonts:
    In the CSS, use: 
 
    >`body {font-size: 16px;}`
-   `{font-size: 120%;}`
-   `h1 {font-size: 250%;}`
+   >`{font-size: 120%;}`
+   >`h1 {font-size: 250%;}`
 
    This ensures that all the font size relationships will always stay the same no matter the screen size. 
 
