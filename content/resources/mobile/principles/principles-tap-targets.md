@@ -18,7 +18,7 @@ The rest of this article details these two preventable usability issues related 
 
 ## Use Legible Font Sizes 
 
-**Issue: When viewed on a mobile device, the font size is too small to read.** 
+### Issue: When viewed on a mobile device, the font size is too small to read.
 
 When reading text on a mobile device, a font size smaller than 12 points may be challenging to read, and often forces the reader to zoom by pinching and stretching the screen to comfortably read the text. To add to the complexity, web font size may be specified in [a variety of units](https://www.youtube.com/watch?v=qrduUUdxBSY&t=21), including: 
 
@@ -30,11 +30,11 @@ When reading text on a mobile device, a font size smaller than 12 points may be 
 
 Additionally, the viewport affects how font is scaled. A page without a properly configured viewport is scaled down on mobile devices, which often results in the text being illegible because of the small size. 
 
-**Solution: Select an appropriate font size!** 
+### Solution: Select an appropriate font size! 
 
 There is much more to fonts than meets the eye. The following are five things to remember when selecting and sizing your fonts. 
 
-### 1. Use a Standard Font Family
+#### 1. Use a Standard Font Family
 
    Standard font families, such as Arial or Times New Roman, are likely already installed on your user's computer or mobile device. To better ensure that the page looks as intended, list the specific font that you want the browser to check for first, then one or two more fonts that are similar to the first one, just in case it is unavailable. You should end the list with a generic font in case none of your selections are available to your user. There are <a href="https://www.w3.org/Style/Examples/007/fonts.en.html">five generic fonts</a>: <br />
 
@@ -56,13 +56,13 @@ This third CSS example uses <em>monospace</em> fonts:
 
    `p {font-family: "Courier New", Courier, monospace;}`
 
-### 2. Use a Base Font Size of 16 [CSS pixels](http://xahlee.info/js/web_design_screen_density.html)
+#### 2. Use a Base Font Size of 16 [CSS pixels](http://xahlee.info/js/web_design_screen_density.html)
 
    In the body, explicitly declare a font size for your page as 16px as a page-wide instruction. This also tells the page to adjust to the fonts we are using when rendering. <br />In the CSS, use: 
 
    `body {font-size:16px;}`
 
-### 3. Use Font Sizes Relative to the Base Size to Define the Typographic Scale 
+#### 3. Use Font Sizes Relative to the Base Size to Define the Typographic Scale 
 
    With the font size set for the entire page above, make relative or percentage calls to adjust that font size so html tags such as H1s and H2s are appropriately sized and rendered as shown below. 
 
@@ -74,11 +74,11 @@ This third CSS example uses <em>monospace</em> fonts:
 
    This ensures that all the font size relationships will always stay the same no matter the screen size. 
 
-### 4. Restrict the Number of Fonts Used and the Typographic Scale
+#### 4. Restrict the Number of Fonts Used and the Typographic Scale
 
    Too many fonts and font sizes lead to messy and overly complex page layouts. While complex page layouts may be acceptable and readable on a desktop monitor, they may not be as readable on the smaller mobile device screen. 
 
-### 5. Use the Browser Default Line Height of 1.2em
+#### 5. Use the Browser Default Line Height of 1.2em
 
    The amount of space between lines of text, which can be set using the CSS property, `line-height`, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. 
 
@@ -105,11 +105,11 @@ This third CSS example uses <em>monospace</em> fonts:
 
 ## Size Your Tap Targets Appropriately 
 
-**Issue: Objects on the mobile device are too small to be accurately touched to elicit correct application behavior.** 
+### Issue: Objects on the mobile device are too small to be accurately touched to elicit correct application behavior.
 
 Tap targets are objects on a page that you interact with, including links, buttons, form fields, etc. On the desktop, we usually use the small and accurate mouse pointer, but on smaller, mobile devices, we use our much bigger and less accurate finger. Not only do the tap targets need to be “big enough,” they need to be placed far enough from other tap targets that the user is able to tap only the desired target. 
 
-**Solution: Ensure tap targets are at least 48 CSS pixels wide or tall, are spaced about 8 pixels apart, and that there are at least 32 CSS pixels wide and tall.** 
+### Solution: Ensure tap targets are at least 48 CSS pixels wide or tall, are spaced about 8 pixels apart, and that there are at least 32 CSS pixels wide and tall.
 
 The average size of the pad of an adult finger pad 10 millimeters wide. Android recommends a tap target size of about 7 mm for any element, and to ensure the tap targets are at least 48 CSS pixels wide or tall and at least be 32 CSS pixels between any tap targets, so that a user's finger pressing on one tap target does not inadvertently touch another tap target. 
 
