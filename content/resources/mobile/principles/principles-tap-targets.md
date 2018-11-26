@@ -66,7 +66,7 @@ In the body, explicitly declare a font size for your page as 16px as a page-wide
 
 With the font size set for the entire page above, make relative or percentage calls to adjust that font size so html tags such as H1s and H2s are appropriately sized and rendered as shown below. <br /><br />
 
-In the CSS, use: <br /><br />
+In the CSS, use: <br />
 
 <pre>body {font-size: 16px;} 
 p {font-size: 120%;} 
@@ -82,13 +82,13 @@ Too many fonts and font sizes lead to messy and overly complex page layouts. Whi
 
 The amount of space between lines of text, which can be set using the CSS property, `line-height`, may affect the readability of a page. On a desktop monitor, small spacing or tight text may be acceptable, but on smaller mobile devices, reading such text is more difficult without zooming. Google recommends using at least the browser default line height of 1.2. This means that the space between the lines of text is at least 1.2 times the size of the text. <br /><br />
 
-In this CSS example, the paragraph selector has the `font-size` property set to a value of 120 percent, and the `line-height` property set to a value of 1.2. <br /><br />
+In this CSS example, the paragraph selector has the a&#768;font-sizea&#768; property set to a value of 120 percent, and the `line-height` property set to a value of 1.2. <br /><br />
 
 <blockquote>p {font-size: 120%; line-height: 1.2;}</blockquote>
 
 The amount of space between lines of link text can be even more problematic as the link needs to be pressed by a fingertip and is related to the next section. To ensure room to tap the link, increasing the line height may be necessary. <br /><br />
 
-In this CSS example, the unordered list selector has the `line-height` property set to a value of 200 percent. <br /><br />
+In this CSS example, the unordered list selector has the a&#768;line-heighta&#768; property set to a value of 200 percent. <br /><br />
 
 <blockquote>ul {line-height: 200%;}</blockquote></li>
 </ol>
