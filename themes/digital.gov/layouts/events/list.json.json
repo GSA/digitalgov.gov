@@ -2,6 +2,8 @@
 {{- $length := (len $list) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
+    "content" : "events",
+    "type" : "list",
     "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} | {{- end -}} {{ .Site.Title }} {{- end -}}",
     "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
     "home_page_url" : "{{- .Site.BaseURL -}}",

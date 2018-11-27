@@ -3,6 +3,8 @@
 {{- $length := len $list -}}
 {
   "version" : "https://jsonfeed.org/version/1",
+  "content" : "topics",
+  "type" : "list",
   "title" : "Topics | {{- .Site.Title -}}",
   "home_page_url" : "{{- .Site.BaseURL -}}",
   "count" : "{{ $length }}",

@@ -4,6 +4,8 @@
 {
     "version" : "https://jsonfeed.org/version/1",
     "home_page_url" : "{{- .Site.BaseURL -}}",
+    "content" : "author",
+    "type" : "list",
     "count" : "{{- $length -}}",
     {{- with .OutputFormats.Get "JSON" -}}
     "feed_url" : "{{- .Permalink -}}",
