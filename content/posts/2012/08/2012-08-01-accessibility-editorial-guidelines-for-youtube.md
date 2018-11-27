@@ -55,7 +55,7 @@ The videos we post:
 
 To provide helpful content with a neutral tone:
 
-  * Messaging must contain public service information and should relate to our audience. The categories listed under our YouTube channels’ playlists adhere to our websites taxonomy which is organized according to our audience’s needs (see [USAGov’s channel](https://www.youtube.com/usagov) and [USAGov en Espa&#241;ol's channel](https://www.youtube.com/user/GobiernoUSA).
+  * Messaging must contain public service information and should relate to our audience. The categories listed under our YouTube channels’ playlists adhere to our websites taxonomy which is organized according to our audience’s needs (see [USAGov’s channel](https://www.youtube.com/usagov) and [USAGov en Espa&#241;ol's channel](https://www.youtube.com/user/GobiernoUSA)).
   * Videos should aim for powerful messages that run no longer than 10 minutes
   * Avoid politically-charged intonations, self-or agency-promoting language (e.g., discussing the agency over delivering a public service message).
 
