@@ -16,7 +16,7 @@ tag:
   - multilingual
 ---
 
-{{< legacy-img src="2012/10/600-x-400-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Keyboard key conceptualizes accessible translation" caption="" >}} 
+{{< legacy-img src="2012/10/600-x-400-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Keyboard key conceptualizes accessible translation" caption="Tashatuvango/iStock/Thinkstock" >}} 
 
 Automated translation is touted as a one click solution. But is it?
 
