@@ -13,7 +13,9 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="2013/08/latino-infograph-236x1024-236x300.jpg" alt="Infographic by Mobile Future about Latino Mobile Use" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/latino-infograph-236x1024.jpg)Latinos appear to be adapting to mobile technology faster than other groups, according to [Mobile Future](http://mobilefuture.org/newsroom/infographic-latinos-embrace-the-mobile-future/). They are ahead of the average U.S. population in several key categories, such as:
+[{{< legacy-img src="2013/08/latino-infograph-236x1024-236x300.jpg" alt="Infographic by Mobile Future about Latino Mobile Use" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/latino-infograph-236x1024.jpg)
+
+Latinos appear to be adapting to mobile technology faster than other groups, according to [Mobile Future](http://mobilefuture.org/newsroom/infographic-latinos-embrace-the-mobile-future/). They are ahead of the average U.S. population in several key categories, such as:
 
   * 47% of Latino adults have embraced wireless exclusively versus 34% of all U.S. adults
   * 60% of Latinos own a smartphone versus 53% of white non-Latinos
@@ -25,4 +27,4 @@ By 2017, Latinos are predicted to contribute to 20% of the tablet and smartphone
 
 With such a fast adaption to mobile, the Latino population is ahead of the curve compared to the general population. The adaption will surely contribute to the ways mobile developers develop new products and services in the future.
 
-Mobile developers should think about using multilingual mobile approaches when developing a mobile product. The government is not excluded from catering to the Latino population, [GobiernoUSA.gov](http://apps.gobiernousa.gov/?v=all)  features government information and services in Spanish. The site is more than a translation to Spanish; it is also socially and culturally adapted to address the needs of the Spanish speaking population.
+Mobile developers should think about using multilingual mobile approaches when developing a mobile product. The government is not excluded from catering to the Latino population, [USAGov en Espa&#241;ol](http://apps.gobiernousa.gov/?v=all) (_formerly known as GobiernoUSA.gov_) features government information and services in Spanish. The site is more than a translation to Spanish; it is also socially and culturally adapted to address the needs of the Spanish speaking population.
