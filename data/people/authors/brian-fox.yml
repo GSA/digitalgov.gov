@@ -33,3 +33,6 @@ twitter: ''
 
 # Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
 url: ''
+
+topics:
+  - agile
