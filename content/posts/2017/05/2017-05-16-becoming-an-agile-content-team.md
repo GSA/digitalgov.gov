@@ -36,5 +36,7 @@ We don’t hold official daily stand-ups, but we regularly communicate about the
 
 While our process isn’t perfect, and we’re certainly still learning as we go, operating in a more agile manner has helped us focus our priorities and deliver content that will help our users accomplish their tasks.
 
-_Jessica Milcetich is the product owner of the websites USA.gov and GobiernoUSA.gov managed by GSA._
-_This post was originally published on the [USAgov blog](https://blog.usa.gov/becoming-an-agile-content-team)._
+
+_Jessica Milcetich is the product owner of the websites [USAGov](https://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (formerly known as GobiernoUSA.gov), managed by GSA._ 
+
+_This post was originally published on the [USAGov blog](https://blog.usa.gov/becoming-an-agile-content-team)._

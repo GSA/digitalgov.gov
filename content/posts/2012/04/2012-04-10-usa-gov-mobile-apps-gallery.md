@@ -24,7 +24,7 @@ The app galleries were launched as the first responsive design site as their con
 
 **What We Did**
 
-  1. Content analysis &#8211; the team initially analyzed all of the content from not only the USA.gov and GobiernoUSA.gov app galleries, but also other commercial app stores and markets. We also took into account that future galleries might include non-mobile apps as well as new devices
+  1. Content analysis &#8211; the team initially analyzed all of the content from not only the USA.gov and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) app galleries, but also other commercial app stores and markets. We also took into account that future galleries might include non-mobile apps as well as new devices
   2. Existing commercial app stores and markets were reviewed for design ideas to create a best in breed design, starting with the mobile experience and then expanding to a full screen experience
   3. The data dictionary was designed to accommodate the data elements and functionality desired in the app galleries
   4. A REST API was created to provide public access to app information. Using a REST API as a foundation for building the app galleries would enable other developers to create additional products based on the app gallery data
@@ -67,8 +67,6 @@ We are excited to be one of the first federal agencies to take advantage of resp
 
 **Contact**
 
-Email Meghan Daly at: <a href="mailto:meghan.daly@gsa.gov" rel="nofollow">meghan (dot) daly (at) gsa (dot) gov</a>
-  
-Email Ken Fang at: <a href="mailto:ken.fang@mobomo.com" rel="nofollow">ken (dot) fang (at) mobomo (dot) com</a>
-  
-Email Brian Lacey at: <a href="mailto:brian@mobomo.com" rel="nofollow">brian (at) mobomo (dot) com</a>
+<a href="mailto:meghan.daly@gsa.gov" rel="nofollow">Email Meghan Daly</a> <br />
+<a href="mailto:ken.fang@mobomo.com" rel="nofollow">Email Ken Fang</a> <br />
+<a href="mailto:brian@mobomo.com" rel="nofollow">Email Brian Lacey</a> 
