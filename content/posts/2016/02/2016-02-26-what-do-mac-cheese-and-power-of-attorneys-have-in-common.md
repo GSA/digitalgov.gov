@@ -50,7 +50,7 @@ Example: [Power of Attorney and Your Responsibilities](http://content.govdeliver
 
 ## Experimentation and Measurement
 
-We evaluate every message we send by reviewing our data about a week after an email’s sent. Unique open rates and click rates—both numbers and percentages—help us evaluate what content performed well. We know, for example, that we have a lot of visitors to USA.gov and GobiernoUSA.gov seeking information on immigration. We align that information with our email sends, and the open rates and click-through rates prove the value of knowing what people are interested in.
+We evaluate every message we send by reviewing our data about a week after an email’s sent. Unique open rates and click rates—both numbers and percentages—help us evaluate what content performed well. We know, for example, that we have a lot of visitors to [USAGov](https://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) seeking information on immigration. We align that information with our email sends, and the open rates and click-through rates prove the value of knowing what people are interested in.
 
 At the end of every month, our internal performance measurement team provides us with a detailed report of how our messages performed. This is valuable information that informs and influences our email content strategy. We combine the data from email behavior with data from website visits and [calls to our contact center](https://www.usa.gov/phone), 1-844-USA-GOV1. All of these factors determine what we invest time writing about.
 
