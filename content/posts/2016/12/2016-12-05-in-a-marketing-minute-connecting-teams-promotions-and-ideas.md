@@ -68,7 +68,7 @@ USA.gov
   * [FAFSA Applicants Can Now Apply Earlier](http://connect.usa.gov/correction-fafsa-applicants-can-now-apply-earlier-starting-october-1-2016-1correction-fafsa-applicants-can-now-apply-earlier-starting-october-1-2016)
   * [This Online Tool Will Tell You if You’re Owed Back Pay](http://connect.usa.gov/this-online-tool-will-tell-you-if-youre-owed-back-pay)
 
-GobiernoUSA.gov
+[USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_)
 
   * [Inmigración o visita temporal a Estados Unidos](http://connect.usa.gov/inmigraci%C3%B3n-o-visita-temporal-a-estados-unidos)
   * [Información en español sobre desastre en Louisiana](http://connect.usa.gov/informaci%C3%B3n-en-espa%C3%B1ol-sobre-desastre-en-louisiana)
@@ -87,9 +87,7 @@ ICYMI — August promotions!
   * We now have more than 1000 followers on [Snapchat](https://www.snapchat.com/add/usagov). It’s one of our most engaged audiences across all social media platforms. In August, USAgov featured Olympics Anthem, NPS’ centennial, USCIS Naturalization Ceremony and a Peace Corps takeover from Nepal.
   * This month, we syndicated features on voting for [college students](https://www.usa.gov/features/usagovs-college-voting-guide)(English only), [back to school](https://www.usa.gov/features/get-ready-for-school-8-tips-for-parents-from-kids-gov), [anthem etiquette](https://www.usa.gov/features/usagovs-tips-for-national-anthem-etiquette) and [Fema App](https://gobierno.usa.gov/novedades/el-app-de-fema-en-espanol-una-respuesta-agil-ante-desastres-naturales) (Spanish only).
 
-To be in the know of what the M team is cranking out in collaboration with many of you, check out the [editorial calendar](https://docs.google.com/spreadsheets/u/1/d/1lSrSUibMhRnMq1d6PonG476DskNzoY7qTMrhK73dWas/edit?usp=drive_web)! Have an idea? Submit it for consideration via [this Google Form](https://docs.google.com/a/gsa.gov/forms/d/1Mmf2fEUDHillNtdDJjwOrniZEm1uyXnX_uLyU7X2zRQ/viewform).
-
- 
+To be in the know of what the M team is cranking out in collaboration with many of you, check out the [editorial calendar](https://docs.google.com/spreadsheets/u/1/d/1lSrSUibMhRnMq1d6PonG476DskNzoY7qTMrhK73dWas/edit?usp=drive_web)! Have an idea? Submit it for consideration via [this Google Form](https://docs.google.com/a/gsa.gov/forms/d/1Mmf2fEUDHillNtdDJjwOrniZEm1uyXnX_uLyU7X2zRQ/viewform). 
 
 [_Victoria Wales_]({{< link "author/victoria-wales" >}}) _is a Digital Innovation Specialist for USAGov at GSA._
 _This was originally published on the [USAGov blog](https://blog.usa.gov/)._
