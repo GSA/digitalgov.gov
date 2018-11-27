@@ -39,4 +39,4 @@ While our process isn’t perfect, and we’re certainly still learning as we go
 
 _Jessica Milcetich is the product owner of the websites (USAGov](https://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) managed by GSA._ 
 
-_This post was originally published on the [USAgov blog](https://blog.usa.gov/becoming-an-agile-content-team)._
+_This post was originally published on the [USAGov blog](https://blog.usa.gov/becoming-an-agile-content-team)._
