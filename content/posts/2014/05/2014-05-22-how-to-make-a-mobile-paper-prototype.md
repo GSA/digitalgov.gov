@@ -32,7 +32,7 @@ There are lots of [mobile prototyping tools](https://www.google.com/search?q=dig
 
 **Paper Prototyping for Mobile**
 
-Michelle Chronister works on the USA.gov team at the U.S. General Services Administration (GSA). She and her team were trying to enhance their site (and their Spanish counterpart [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) &#91;_formerly known as GobiernoUSA.gov_&#93;) and wanted to see how their designs would work on desktop, mobile and tablets. They wanted to get customer feedback early, and see if they were going in the right direction.
+Michelle Chronister works on the USA.gov team at the U.S. General Services Administration (GSA). She and her team were trying to enhance their site (and their Spanish counterpart, [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) &#91;_formerly known as GobiernoUSA.gov_&#93;) and wanted to see how their designs would work on desktop, mobile and tablets. They wanted to get customer feedback early, and see if they were going in the right direction.
 
 So Michelle built a clever (and free!) paper prototype of her mobile sites out of things she found in her office supply room. She printed out early designs of her sites, and created a “mobile viewer” where a user could interact with them.
 
