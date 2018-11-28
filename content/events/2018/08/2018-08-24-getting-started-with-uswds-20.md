@@ -18,7 +18,6 @@ event_organizer: digital.gov
 host: U.S. Web Design System
 youtube_id: yo5bsqixpNU
 registration_url: https://www.eventbrite.com/e/august-us-web-design-system-monthly-call-getting-started-with-uswds-20-tickets-47179708779
-weight: 3
 ---
 
 Join us for our next monthly call on **Friday, August 24, 2018 at 1:00 pm ET / 10:00 am PT** for our monthly conversation with fellow designers and developers across the government.

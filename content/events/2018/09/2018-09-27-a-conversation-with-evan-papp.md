@@ -16,7 +16,6 @@ event_organizer: DigitalGov University
 host: Video Community
 registration_url: https://www.eventbrite.com/e/a-conversation-with-evan-papp-of-power-africa-registration-49902616068
 youtube_id: BQlgGotFUlQ
-weight: 3
 
 ---
 
