@@ -83,7 +83,7 @@ In the webinar, she demonstrated how to:
 
 {{< legacy-img src="2015/04/pokemon-player.png" alt="Pokemon in a player" >}}
 
-Victoria Wales of [USA.gov](http://www.usa.gov/) and [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/) educates federal managers on the importance and the process of enhancing the accessibility of digital services for citizens with disabilities: animated gifs are no different and present their own unique challenges.
+Victoria Wales of [USAGov](http://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) educates federal managers on the importance and the process of enhancing the accessibility of digital services for citizens with disabilities: animated gifs are no different and present their own unique challenges.
 
 In order to help meet those challenges, she suggested:
 
