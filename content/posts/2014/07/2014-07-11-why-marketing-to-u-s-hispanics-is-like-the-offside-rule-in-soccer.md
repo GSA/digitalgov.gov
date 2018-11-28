@@ -46,7 +46,7 @@ A savvy marketer must do the same when targeting U.S. Hispanics: have an approac
 
 Yes, you need to manage the nuances of language and culture, but don’t go to extremes either. Some words are practically universal; I know you&#8217;ve been hearing this one lately: GOOOOOOOLLLL! 
 
-_**Alberto Navas** is a content strategy consultant working with [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_). This post was originally published on the Hispanic Online Marketing blog._ 
+_**Alberto Navas** is a content strategy consultant working with [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (<span style="text-decoration: underline;">formerly known as GobiernoUSA.gov</span>). This post was originally published on the Hispanic Online Marketing blog._ 
 
 _Editor&#8217;s Note: Interested in connecting with other government multilingual content managers? Join the [Multilingual Community of Practice]({{< link "multilingual.md" >}} "Multilingual Community of Practice") and help expand and improve digital content in languages other than English._ 
 
