@@ -10,7 +10,6 @@ event_type:
 topics:
   - design
   - usability
-weight: 3
 date: 2018-07-26 14:00:00 -0500
 end_date: 2018-07-26 15:00:00 -0500
 event_organizer: DigitalGov University
