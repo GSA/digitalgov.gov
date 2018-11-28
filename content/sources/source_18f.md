@@ -1,5 +1,6 @@
 ---
 # What is the headline of this promo?
+slug: '18f'
 name: '18F'
 
 # Keep it short — should be no longer than 10 words.

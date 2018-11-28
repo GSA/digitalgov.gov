@@ -1,5 +1,6 @@
 ---
 # What is the headline of this promo?
+slug: 'digitalgov'
 name: 'Digital.gov'
 
 # Keep it short — should be no longer than 10 words.
