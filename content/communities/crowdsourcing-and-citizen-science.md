@@ -13,7 +13,7 @@ The Federal Community of Practice on Crowdsourcing and Citizen Science (FedCCS) 
 
 ## Join
 
-Anyone with a .gov or .mil email address can join our community by emailing the listserv [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=&amp;body=subscribe%20FCPCCS). The email message should have no subject and the body should say “subscribe FCPCCS”.  Be sure to remove your signature from the body of the email, so that the message remains blank.
+Any federal employee or affiliate (e.g., contractors on federal teams) can join our community by emailing the listserv [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=&amp;body=subscribe%20FCPCCS). The email message should have no subject and the body should say “subscribe FCPCCS”.  Be sure to remove your signature from the body of the email, so that the message remains blank.
 
 ## Community Managers 
 
