@@ -77,7 +77,7 @@ In the webinar, she demonstrated how to:
   * Use animated gifs to explain how people can do a certain task, such as how to sign into a website, or how to set privacy settings on a website. For example, 18F used animated gifs in a tutorial for [how to use the command line and the terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
   * Try a free, open source program called [LiceCap](http://www.cockos.com/licecap/) to create tutorial and instructional animated gifs.
 
-[Animated Gif Tutorials with 18F](http://www.slideshare.net/DigitalGov/animated-gif-tutorials-with-18-f-melody-kramer "Animated Gif Tutorials with 18F"){.j-slideshow-url.title} (.pptx PowerPoint Presentation, 105 kb)
+[Animated Gif Tutorials with 18F](http://www.slideshare.net/DigitalGov/animated-gif-tutorials-with-18-f-melody-kramer "Animated Gif Tutorials with 18F") (.pptx PowerPoint Presentation, 105 kb)
 
 ## Animated gifs should meet accessibility standards
 
