@@ -48,8 +48,6 @@ The following 58 languages have fully localized results page support with both l
 
 <div style="clear: both">
 </div>
-
-
-Ten more—Baluchi, Bangla, Creole, Finnish, Icelandic, Japanese, Kazakh, Romanian, Slovene, and Swedish—provide language-specific results, but don’t yet have localized system text. We have open-sourced our [localizations](https://github.com/GSA/punchcard/tree/master/localizations), and encourage you to [contribute to them on GitHub](https://github.com/GSA/punchcard/blob/master/CONTRIBUTING.md).
+<br />Ten more—Baluchi, Bangla, Creole, Finnish, Icelandic, Japanese, Kazakh, Romanian, Slovene, and Swedish—provide language-specific results, but don’t yet have localized system text. We have open-sourced our [localizations](https://github.com/GSA/punchcard/tree/master/localizations), and encourage you to [contribute to them on GitHub](https://github.com/GSA/punchcard/blob/master/CONTRIBUTING.md).
 
 The next time your agency is setting up a non-English website, don’t forget about providing your visitors with a localized search experience, too. It’s easy. We’ve done the heavy lifting for you. Just sign up for [DigitalGov Search](https://search.gov), set up a search site for any of the above languages, and your visitors will have a good, seamless search experience—in any language.
