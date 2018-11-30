@@ -39,6 +39,6 @@ We need your help to update your agency’s mobile web products on the Directory
 
 1. Start by visiting the <a href="http://www.usa.gov/mobileapps.shtml">Mobile Apps Directory on USA.gov</a> AND <a href="http://www.usa.gov/gobiernousa/conectese-gobierno/apps.moviles.shtml">USAGov en Espa&#241;ol</a> (_formerly known as GobiernoUSA.gov_) to see if your agency’s products are listed. 
 2. If they are listed, great! Check for updates/corrections to be added. 
-3. If not listed, or if there is an update—<a href="mailto:digitalgov@gsa.gov">email DigitalGov</a> with the subject line “#lostapps” with the name of the mobile app or website and contact person. We will add the app/website to the registry, and we may profile it in our <a href="{{< link "tag/thursday-mobile-products" >}}">Thursday Mobile Products</a> series here on DigitalGov.
+3. If not listed, or if there is an update—<a href="mailto:digitalgov@gsa.gov?subject=&#35;lostapps">email DigitalGov</a> with the subject line “#lostapps” with the name of the mobile app or website and contact person. We will add the app/website to the registry, and we may profile it in our <a href="{{< link "tag/thursday-mobile-products" >}}">Thursday Mobile Products</a> series here on DigitalGov.
 
 In the meantime, we’d greatly appreciate any feedback on the Mobile Apps Directory—<a href="mailto:digitalgov@gsa.gov">email DigitalGov</a> and share your thoughts! 
