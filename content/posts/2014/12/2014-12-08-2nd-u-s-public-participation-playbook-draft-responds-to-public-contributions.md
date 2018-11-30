@@ -124,260 +124,132 @@ Part of designing collaboration into the DNA of the playbook is not just creatin
 
 ## U.S. Public Participation Playbook Working Group Members
 
-U.S. Food and Drug Administration, Office of Women&#8217;s Health
-  
-Alison Lemon
+U.S. Food and Drug Administration, Office of Women&#8217;s Health, Alison Lemon
 
-Office of the Director of National Intelligence
-  
-Alla Goldman
+Office of the Director of National Intelligence, Alla Goldman
 
-General Services Administration, DigitalGov Search
-  
-Ammie Farraj Feijoo
+General Services Administration, DigitalGov Search, Ammie Farraj Feijoo
 
-General Services Administration, Office of DigitalGov
-  
-Ashley Wichman
+General Services Administration, Office of DigitalGov, Ashley Wichman
 
-First Responder Network Authority
-  
-Bernetta Reese
+First Responder Network Authority, Bernetta Reese
 
-Federal Communications Commission
-  
-Brittany Stevenson
+Federal Communications Commission, Brittany Stevenson
 
-Environmental Protection Agency
-  
-Bryant Crowe
+Environmental Protection Agency, Bryant Crowe
 
-White House Office of Science and Technology Policy
-  
-Charles Worthington
+White House Office of Science and Technology Policy, Charles Worthington
 
-International Trade Administration
-  
-Chris Higginbotham
+International Trade Administration, Chris Higginbotham
 
-U.S. Coast Guard
-  
-Christopher Lagan
+U.S. Coast Guard, Christopher Lagan
 
-General Services Administration, sites.USA.gov
-  
-Coqui Aspiazu
+General Services Administration, sites.USA.gov, Coqui Aspiazu
 
-Department of State, Consular Affairs
-  
-Corina Dubois
+Department of State, Consular Affairs, Corina Dubois
 
-White House Office of Science and Technology Policy
-  
-Corinna Zarek
+White House Office of Science and Technology Policy, Corinna Zarek
 
-Navy Army Community Credit Union
-  
-Crystal Deleon
+Navy Army Community Credit Union, Crystal Deleon
 
-Department of Transportation
-  
-Daniel Morgan
+Department of Transportation, Daniel Morgan
 
-U.S. Fish and Wildlife Service
-  
-Danielle Brigida
+U.S. Fish and Wildlife Service, Danielle Brigida
 
-National Library of Medicine
-  
-David Hale
+National Library of Medicine, David Hale
 
-Federal Communications Commission
-  
-Deanna Stephens
+Federal Communications Commission, Deanna Stephens
 
-General Services Administration, Emerging Leaders Program
-  
-Daniel Kenny
+General Services Administration, Emerging Leaders Program, Daniel Kenny
 
-Federal Communications Commission
-  
-Dr. David A. Bray
+Federal Communications Commission, Dr. David A. Bray
 
-U.S. Peace Corps
-  
-Emily Dulcan
+U.S. Peace Corps, Emily Dulcan
 
-U.S. Global Change Research Program
-  
-Emily Therese Cloyd
+U.S. Global Change Research Program, Emily Therese Cloyd
 
-General Services Administration, 18F
-  
-Eric Mill
+General Services Administration, 18F, Eric Mill
 
-General Services Administration, 18F
-  
-Gray Brooks
+General Services Administration, 18F, Gray Brooks
 
-General Services Administration, Office of DigitalGov
-  
-Gwynne Kostin
+General Services Administration, Office of DigitalGov, Gwynne Kostin
 
-U.S. Small Business Administration
-  
-Jack Bienko
+U.S. Small Business Administration, Jack Bienko
 
-General Services Administration, Office of DigitalGov
-  
-Jacob Parcell
+General Services Administration, Office of DigitalGov, Jacob Parcell
 
-Department of Commerce
-  
-Jacque Mason
+Department of Commerce, Jacque Mason
 
-Library of Congress
-  
-Jamie Stevenson
+Library of Congress, Jamie Stevenson
 
-Environmental Protection Agency
-  
-Jay Davis
+Environmental Protection Agency, Jay Davis
 
-NASA
-  
-Jeanne Holm
+NASA, Jeanne Holm
 
-General Services Administration, USA.gov
-  
-Jessica Milcetich
+General Services Administration, USA.gov, Jessica Milcetich
 
-Department of State, Information Assurance Branch
-  
-Jody Bennett
+Department of State, Information Assurance Branch, Jody Bennett
 
-General Services Administration, Office of DigitalGov
-  
-Justin Herman
+General Services Administration, Office of DigitalGov, Justin Herman
 
-Department of State, Office of Emergency Management
-  
-Kate E. Bitely
+Department of State, Office of Emergency Management, Kate E. Bitely
 
-National Park Service
-  
-Kathleen Camarda (former employee)
+National Park Service, Kathleen Camarda (former employee)
 
-Department of Labor, Office of Disability Employment Policy
-  
-Katia Albanese
+Department of Labor, Office of Disability Employment Policy, Katia Albanese
 
-Defense Commissary Agency
-  
-Kirsten O&#8217;Nell
+Defense Commissary Agency, Kirsten O&#8217;Nell
 
-National Parks Service
-  
-Laura Cohen
+National Parks Service, Laura Cohen
 
-General Services Administration, USAGov en Espa&#241;ol (_formerly known as GobiernoUSA.gov_)
-  
-Laura Godfrey
+General Services Administration, USAGov en Espa&#241;ol (_formerly known as GobiernoUSA.gov_), Laura Godfrey
 
-Department of Homeland Security
-  
-Lindsey Backhaus
+Department of Homeland Security, Lindsey Backhaus
 
-U.S. Census Bureau
-  
-Logan Powell
+U.S. Census Bureau, Logan Powell
 
-U.S. Army, Conflict Resolution & Public Participation Center of Expertise
-  
-Maria Lantz
+U.S. Army, Conflict Resolution & Public Participation Center of Expertise, Maria Lantz
 
-Defense Logistics Agency
-  
-Mason Lowery
+Defense Logistics Agency, Mason Lowery
 
-Department of Labor, Office of Disability Employment Policy
-  
-Michael Reardon
+Department of Labor, Office of Disability Employment Policy, Michael Reardon
 
-Office of the Director of National Intelligence
-  
-Michael Thomas
+Office of the Director of National Intelligence, Michael Thomas
 
-Smithsonian Institution
-  
-Miranda Gale
+Smithsonian Institution, Miranda Gale
 
-General Services Administration
-  
-Monica Fitzgerald
+General Services Administration, Monica Fitzgerald
 
-White House Office of Management and Budget
-  
-Nicholas Fraser
+White House Office of Management and Budget, Nicholas Fraser
 
-Department of Education
-  
-Nicole Callahan
+Department of Education, Nicole Callahan
 
-Department of State, Consular Affairs
-  
-Nicole Stillwell
+Department of State, Consular Affairs, Nicole Stillwell
 
-General Services Administration, 18F
-  
-Noah Kunin
+General Services Administration, 18F, Noah Kunin
 
-Federal Aviation Administration
-  
-Paul Cianciolo
+Federal Aviation Administration, Paul Cianciolo
 
-Federal Communications Commission
-  
-Priscilla Silva (former employee)
+Federal Communications Commission, Priscilla Silva (former employee)
 
-General Services Administration, Office of DigitalGov
-  
-Rachel Flagg
+General Services Administration, Office of DigitalGov, Rachel Flagg
 
-Department of State, Educational and Cultural Affairs
-  
-Rebecca Ramspott
+Department of State, Educational and Cultural Affairs, Rebecca Ramspott
 
-General Services Administration, Data.gov
-  
-Rebecca Williams
+General Services Administration, Data.gov, Rebecca Williams
 
-Environmental Protection Agency
-  
-Robert Burchard
+Environmental Protection Agency, Robert Burchard
 
-Department of Labor
-  
-Robin Ackerman
+Department of Labor, Robin Ackerman
 
-White House Office of Science and Technology Policy
-  
-Ryan Panchadsaram
+White House Office of Science and Technology Policy, Ryan Panchadsaram
 
-Department of State, Consular Affairs
-  
-Sara Stealy
+Department of State, Consular Affairs, Sara Stealy
 
-U.S. Geological Survey
-  
-Scott Horvath
+U.S. Geological Survey, Scott Horvath
 
-National Institutes of Health
-  
-Scott Prince
+National Institutes of Health, Scott Prince
 
-National Defense University
-  
-Veronica Wendt
+National Defense University, Veronica Wendt
 
  _Justin Herman is the <a href="{{< link "social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please contact him via [email](mailto:justin.herman@gsa.gov "Email Justin Herman")._
