@@ -2,7 +2,7 @@
 slug: multilingual-digital-content
 date: 2014-07-01 10:00:13 -0400
 title: Multilingual Digital Content
-summary: 'Federal agencies are required to provide meaningful access to government information to people with limited English proficiency. This applies to your agency&#8217;s digital content too. You need to determine how much information you need to provide in other languages, based on an assessment of your audience. The need is increasing The number of people who'
+summary: 'Federal agencies are required to provide meaningful access to government information to people with limited English proficiency. This applies to your agency&#8217;s digital content too. You need to determine how much information you need to provide in other languages, based on an assessment of your audience.'
 authors:
   - lgodfrey
   - lmartinez
@@ -56,7 +56,7 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 
 ## Resources
 
-* [Sample Video Editorial and Accessible Guidelines](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc) (MS Word, 56 kb, 2 pages, August 2012)—GobiernoUSA.gov and USA.gov developed these guidelines as a roadmap for producing and submitting videos. These guidelines agree with the principles and best practices that guide our YouTube channels.
+* [Sample Video Editorial and Accessible Guidelines](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc) (MS Word, 56 kb, 2 pages, August 2012)—[USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) and [USA.gov](https://www.usa.gov/) developed these guidelines as a roadmap for producing and submitting videos. These guidelines agree with the principles and best practices that guide our YouTube channels.
 * [Multilingual Community of Practice]({{< link "multilingual.md" >}} "Multilingual Community of Practice")—Join this group to share ideas, challenges, and government in Spanish, provides a list of agency names in Spanish and links to each agency&#8217;s Spanish Web pages and contact information.
 * [Lep.gov](http://www.lep.gov/)—Sponsored by the Federal Interagency Working Group on Limited English Proficiency, this website helps agencies meet requirements of Executive Order 13166 regarding language access.
 * [Language Data by Region](http://arcgis.mla.org/mla/)—The Modern Language Association has created a language map that shows where speakers of 33 languages live in the United States.
@@ -64,7 +64,7 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 
 ## Examples
 
-* [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_)—U.S. government&#8217;s official Web portal to all online information and services in Spanish.
+* [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/)—U.S. government&#8217;s official Web portal to all online information and services in Spanish.
 * [CDC en español](http://www.cdc.gov/spanish/)—The official Web portal in Spanish for the Centers for Disease Control and Prevention.
 * [Social Security Multilingual Gateway](http://www.ssa.gov/multilanguage)—The Social Security Administration provides information in 15 different languages.
 * [MedlinePlus in Spanish](http://www.nlm.nih.gov/medlineplus/spanish/)—MedlinePlus, from the National Library of Medicine, provides comprehensive health information in Spanish.
