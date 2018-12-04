@@ -7,9 +7,7 @@ type: guide
 
 ---
 
-Welcome to Principle 4!
-
-This week we will focus on the issue of relying on additional software to properly view your site. This issue is a major cause of mobile unfriendliness.  
+Welcome to Principle 4! This week, we will focus on the issue of relying on additional software to properly view your site. This issue is a major cause of mobile unfriendliness.  
 
 Sites that require the use of plugins are a major cause of mobile unfriendliness. Relying on plugins such as Adobe Flash, Adobe Acrobat Reader, Java Virtual Machine, or Microsoft Silverlight may negatively impact the usability of your mobile site. Many mobile browsers do not support these plugins, making your site look “broken.” This issue can be detected using Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), or the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites).  
 
