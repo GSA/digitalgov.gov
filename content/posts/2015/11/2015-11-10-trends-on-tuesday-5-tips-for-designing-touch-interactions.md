@@ -17,7 +17,7 @@ tag:
   - UX
 ---
 
-[Josh Clark](http://globalmoxie.com/), one of the pioneers of touch Web design, and author of [Tapworthy](http://shop.oreilly.com/product/0636920001133.do) and [Designing for Touch](http://abookapart.com/products/designing-for-touch)</span><span style="font-weight: 400">, published an excellent article on A List Apart analyzing </span><span style="font-weight: 400"><a href="http://alistapart.com/article/how-we-hold-our-gadgets">How We Hold Our Gadgets</a></span><span style="font-weight: 400"> that has a wealth of data and graphics about this interesting and emerging design challenge. Below are 5 notable lessons from the post:</p> {{< legacy-img src="2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="" >}} 
+[Josh Clark](http://globalmoxie.com/), one of the pioneers of touch Web design, and author of [Tapworthy](http://shop.oreilly.com/product/0636920001133.do) and [Designing for Touch](http://abookapart.com/products/designing-for-touch)</span><span style="font-weight: 400">, published an excellent article on A List Apart analyzing </span><span style="font-weight: 400"><a href="http://alistapart.com/article/how-we-hold-our-gadgets">How We Hold Our Gadgets</a></span><span style="font-weight: 400"> that has a wealth of data and graphics about this interesting and emerging design challenge. Below are 5 notable lessons from the post:</p> {{< legacy-img src="2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="" >}}
 
 <p>
   <b>1. Portrait (vertical) orientation dominates over landscape (horizontal) usage with a 60-40 split.</b> This is often driven by the app or content experience and will probably continue to grow more divided as many applications now aren’t even offering landscape orientations anymore—including Facebook, Flipboard, Instagram, Pandora, even Netflix (on Android, however, along with video playback, Netflix&#8217;s library browsing mode can still be viewed horizontally). Landscape is largely dominated by video games and video and photo viewing.
@@ -33,7 +33,7 @@ tag:
 
 <p>
   <b><i>Real world take away: </i></b><i>Make sure your most valuable (and used) navigation elements are near the bottom of the window within easy reach of thumbs. Think of how Facebook puts all of it’s core navigation at the bottom of the interface.</i>
-</p> {{< legacy-img src="2015/04/600-x-400-Woman-holding-digital-tablet-closeup-scyther5-iStock-Thinkstock-ThinkstockPhotos-455273179.jpg" alt="Woman holding digital tablet, closeup" caption="" >}} 
+</p> {{< legacy-img src="2015/04/600-x-400-Woman-holding-digital-tablet-closeup-scyther5-iStock-Thinkstock-ThinkstockPhotos-455273179.jpg" alt="Woman holding digital tablet, closeup" caption="" >}}
 
 <p>
   <b>3. Mind your meat pointers and safe zones for touch interaction.</b> When designing apps and mobile-optimized websites, it’s crucial to consider the human anatomy for touch interfaces to make navigation and the user experience effortless. Clark deftly points this out with an amazing visualization quote, comparing touch interactions to the simplicity and preciseness of mouse-driven interactions:
@@ -66,7 +66,7 @@ tag:
 </p>
 
 <p>
-  Check out the <a href="{{< link "2015-09-28-introducing-the-u-s-web-design-standards.md" >}}">U.S. Web Design Standards</a> and the <a href="{{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> for more practices for good design. Join the <a href="{{< link "categories/mobile" >}}">MobileGov Community of Practice</a> to help build anytime, anywhere government.
+  Check out the <a href="{{< link "2015-09-28-introducing-the-u-s-web-design-standards.md" >}}">U.S. Web Design Standards</a> and the <a href="{{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> for more practices for good design. Join the <a href="{{< link "mobilegov.md" >}}">MobileGov Community of Practice</a> to help build anytime, anywhere government.
 </p>
 
 <p>

@@ -62,4 +62,4 @@ Mobile devices may behave differently as they switch between WiFi and cellular d
 
 Do you want to help us create more mobile lessons learned? Join in and sign up to help us [virtually test BusinessUSA.gov](https://midas.18f.us/tasks/45) at your leisure next week.
 
-You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program page]({{< link "mobile-application-testing-program.md" >}}) provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{< link "categories/mobile" >}} "Mobile").
+You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program page]({{< link "mobile-application-testing-program.md" >}}) provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile").
