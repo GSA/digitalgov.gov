@@ -1,0 +1,15 @@
+<article class="event event-past card">
+  <div class="grid-row">
+    <div class="grid-col-12 tablet:grid-col-8">
+
+      <h3>
+        <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
+      </h3>
+
+      <h5><i class="far fa-calendar"></i> {{ dateFormat "Jan 02" .Date }}</h5>
+
+      <p>{{ .Params.summary | markdownify }}</p>
+
+    </div>
+  </div>
+</article>

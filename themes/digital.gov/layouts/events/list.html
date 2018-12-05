@@ -1,17 +1,15 @@
 {{ define "content" }}
 
 <main role="main">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12">
-            <h1>Upcoming Events</h1>
-          </div>
+  <header>
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <h1>Upcoming Events</h1>
         </div>
       </div>
-    </header>
-  </article>
+    </div>
+  </header>
 
   <section class="events-list">
     <div class="grid-container grid-container-desktop">
@@ -40,20 +38,35 @@
     </div>
   </section>
 
+
+
+  {{/* Past events */}}
+  <section id="events-past">
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
+            <h2>Past Events</h2>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div class="events-list">
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row grid-gap-3">
+          <div class="grid-col-12">
+            {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
+            {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
+              {{ .Render "event-card-past"}}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section>
+
 </main>
 
-<div id="events-past" class="display-none events-list">
-
-  <div class="events-head">
-    <h1>Past Events</h1>
-    <p><a href="https://www.youtube.com/digitalgov" title="View all Digital.gov videos and training">All training & videos »</a></p>
-  </div>
-
-  {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
-  {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-    {{ .Render "past"}}
-  {{ end }}
-
-</div>
 
 {{ end }}
