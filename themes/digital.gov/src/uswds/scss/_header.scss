@@ -91,7 +91,7 @@ header#header{
 
 		ul{
 			@include u-margin(0);
-			@include u-list-reset;
+			@include add-list-reset;
 			li{
 				@include u-display('inline-block');
 				@include u-padding-x('105');

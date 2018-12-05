@@ -8,7 +8,7 @@
       @include u-margin(0);
     }
     ul{
-      @include u-list-reset;
+      @include add-list-reset;
       padding-left: 20px;
       li{
         @include u-margin-bottom(2);
@@ -101,7 +101,7 @@
   }
   .pagination{
     @include u-margin-y(3);
-    @include u-list-reset;
+    @include add-list-reset;
     li{
       @include u-display('inline-block');
       @include u-text('center');

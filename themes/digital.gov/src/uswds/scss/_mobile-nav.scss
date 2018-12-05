@@ -62,7 +62,7 @@
     }
     ul{
       @include u-margin-y(0);
-      @include u-list-reset;
+      @include add-list-reset;
       li{
         a{
           @include u-padding-x(3);

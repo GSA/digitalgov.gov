@@ -10,7 +10,7 @@
 		@include u-margin-bottom(2);
 	}
 	ul{
-		// @include u-list-reset;
+		// @include add-list-reset;
 		@include u-padding-left(2);
 		li{
 			@include u-margin-bottom('105');

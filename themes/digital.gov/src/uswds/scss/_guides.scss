@@ -48,7 +48,7 @@
 		ul{
 			@include u-margin(0);
 			@include u-padding(0);
-			@include u-list-reset;
+			@include add-list-reset;
 			li{
 				@include u-margin-bottom('105');
 				@include u-font('sans', 'md');
