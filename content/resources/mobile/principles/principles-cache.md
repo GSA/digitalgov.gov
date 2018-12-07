@@ -30,19 +30,19 @@ This is a two-pronged solution: first develop a caching strategy that meets your
 
 Organizations must create an optimal caching strategy or policy. This involves examining each resource and answering questions, such as:
 
-- Can resource can be cached, and by whom?
+- Can the resource can be cached, and by whom?
 - How long should the cache be retained?
-- How can the files can be revalidated when the caching policy expires?
+- How can the files be revalidated when the caching policy expires?
 
 Different page resources can have different expiration dates, with more frequently updated resources set to expire sooner.  For example, static content (such as global CSS styles and logos) may last a year, while JavaScript, .html, and .pdf files may change more frequently and only last a month—or even a day—depending on your site. 
 
-By extending the caching time as long as possible, round-trip fetching can be reduced, which will reduce server processing time and increase the browser rendering time. A word of caution: setting the caching parameters too long may cause users to keep older file versions after updates and to not have the latest data. 
+By extending the caching time as long as possible, round-trip fetching can be reduced, which will reduce server processing time and increase the browser rendering speed. A word of caution: setting the caching parameters too long may cause users to keep older file versions after updates and to not have the latest data. 
 
 ### Include Server-Caching Headers 
 
 To enable browser caching you need to edit your HTTP headers to set expiring times for certain types of files. This may be done differently depending on your server, or if you are using a Content Management System (CMS), cache extensions, or newly-available server side plugins. 
 
-Most enable caching by adding “caching parameters” to the `.htaccess` file, these parameters tell the cache how long to keep the file. 
+Most enable caching by adding “caching parameters” to the `.htaccess` file. These parameters tell the cache how long to keep the file. 
 
 An [example of the “caching parameters”](https://deluxeblogtips.com/htaccess-rules-website-performace/) of an `.htaccess` file is: 
 
