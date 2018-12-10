@@ -5,6 +5,7 @@ date: 2014-01-13 2:35:36 -0400
 title: 'User Experience'
 summary: "Join other federal user experience practitioners and learn how to make better user-centered products."
 members: 1103
+emails_per_week: 9.55
 topics:
   - user-experience
 aliases:

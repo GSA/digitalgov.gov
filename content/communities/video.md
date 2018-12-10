@@ -5,6 +5,7 @@ date: 2016-07-08 1:19:06 -0400
 title: 'Video Production Pros'
 summary: 'Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government.'
 members: 379
+emails_per_week: 5.94
 topics:
   - video
   - audio

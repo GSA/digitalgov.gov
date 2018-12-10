@@ -38,14 +38,12 @@
     @include u-margin-bottom(2);
     @include u-padding(2);
     @include u-radius('sm');
-    .members{
+    .emails{
       @include u-margin(0);
       @include u-padding-y('05');
-      @include u-text('red-warm-40v');
-      @include u-font('sans', 'xs');
-      @include u-text('semibold');
-      @include u-text('right');
-      @include u-float('right');
+      @include u-text('orange-warm-50v');
+      @include u-font('sans', '3xs');
+      @include u-text('light');
     }
     h4{
       @include u-margin(0);
@@ -138,6 +136,9 @@
       }
     }
     .terms{
+      @include u-font('sans', '3xs');
+    }
+    .members{
       @include u-font('sans', '3xs');
     }
   }

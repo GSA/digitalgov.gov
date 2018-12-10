@@ -74,8 +74,6 @@
                   <p class="terms"><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
                   {{ end }}
 
-                  {{- if $.Params.members -}}<p><i class="fas fa-user"></i>&nbsp;{{- $.Params.members }} members</p>{{- end -}}
-
                 </div>
 
               {{ end }}
@@ -87,6 +85,11 @@
               {{ end }}
 
               <div class="community_admin">
+                {{- if $.Params.members -}}
+                  <p class="members"><i class="far fa-user"></i> {{ $.Params.members }} members
+                  {{- if $.Params.emails_per_week }}
+                   <br/> <i class="far fa-envelope"></i> Avg. {{ $.Params.emails_per_week }} emails per week{{- end -}}</p>
+                {{- end -}}
                 <p><a href="https://listserv.gsa.gov/" title="Listserv Admin">Listserv Admin</a></p>
               </div>
 

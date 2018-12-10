@@ -16,6 +16,7 @@ community_managers:
   - jparcell
   - david-fern
 members: 1017
+emails_per_week: 2.62
 
 ---
 

@@ -20,7 +20,8 @@ community_list:
     form: "https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ"
 community_managers:
   - lgodfrey
-
+members: 225
+emails_per_week: 1.33
 ---
 
 We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.
