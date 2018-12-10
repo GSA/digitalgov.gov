@@ -11,7 +11,7 @@ header#header{
 	}
 
 	// Logo
-	.logo{
+	h1.logo{
 		@include u-margin(0);
 		@include u-padding-top('2px');
 		@include u-font('sans', 'xl');
@@ -24,6 +24,11 @@ header#header{
 		img{
 			width: 12rem;
 		}
+	}
+	h2{
+		@include u-margin(0);
+		@include u-font('sans', 'md');
+		@include u-text('light');
 	}
 
 	#explore{
