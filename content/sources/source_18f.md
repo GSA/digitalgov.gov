@@ -10,8 +10,8 @@ summary: 'a one-line summary of the source'
 # Note: We add a ?dg to the end of the URL
 domain: 'https://18f.gsa.gov/'
 
-# Images need to be 200x200px with a transparent background
-# Upload images to /static/images/promos/filename.png
+# To find the favicon, view source on the page you're pointing to and search for "favicon" or "icon". The path to the icon should be near the top.
+# Copy and paste that full path here:
 icon: "https://18f.gsa.gov/assets/img/favicons/18F-Logo-152.png"
 
 # Weight control how these promos appear on the site
