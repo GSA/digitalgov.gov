@@ -46,7 +46,8 @@ Most enable caching by adding “caching parameters” to the `.htaccess` file. 
 
 An [example of the “caching parameters”](https://deluxeblogtips.com/htaccess-rules-website-performace/) of an `.htaccess` file is: 
 
-<pre>[...] <br /><IfModule mod_expires.c> 
+<pre>[...]  
+&lt;IfModule mod_expires.c&gt; 
 ExpiresActive On 
 ExpiresByType text/html "access plus 1 hour" 
 ExpiresByType image/gif "access plus 1 day" 
@@ -56,7 +57,8 @@ ExpiresByType text/css "access plus 2 months"
 ExpiresByType text/javascript "access plus 1 years" 
 ExpiresByType application/x-javascript "access plus 1 years" 
 ExpiresByType application/javascript "access plus 1 years" 
-</IfModule> <br />[...]</pre> 
+&lt;/IfModule&gt; 
+[...]</pre> 
 
 ### References:
 
