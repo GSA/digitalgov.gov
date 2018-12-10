@@ -14,21 +14,8 @@
           {{ $communities := shuffle $communities }}
           {{ range $i, $e := first 2 $communities }}
             <article class="promo" data-edit-this="{{- .File.Path -}}">
-              <div class="grid-row grid-gap-4">
-                <div class="grid-col-9">
-                  <h4><a href="{{ $e.Permalink }}" title="{{ $e.Title }}"><strong>{{ $e.Title }}</strong></a></h4>
-                </div>
-                <div class="grid-col-3">
-                  {{- if .Params.members -}}
-                  <p class="members"><i class="fas fa-user"></i>&nbsp;{{- .Params.members -}}</p>
-                  {{- end -}}
-                </div>
-              </div>
-              <div class="grid-row grid-gap-4">
-                <div class="grid-col-12">
-                  <p>{{ $e.Params.summary }}</p>
-                </div>
-              </div>
+              <h4><a href="{{ $e.Permalink }}" title="{{ $e.Title }}"><strong>{{ $e.Title }}</strong></a></h4>
+              <p>{{ $e.Params.summary }}</p>
               <a href="{{ $e.Permalink }}" title="{{ .Params.head }}"><span></span></a>
             </article>
           {{ end }}
