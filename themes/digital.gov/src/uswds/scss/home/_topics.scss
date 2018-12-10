@@ -5,9 +5,8 @@
   @include u-padding-bottom(2);
 
   footer{
-    @include u-margin-bottom(4);
     @include u-text('center');
-    color:#3d4076;
+    @include u-text('indigo-70');
     p{
       @include u-margin(0);
       @include u-margin-bottom(1);
