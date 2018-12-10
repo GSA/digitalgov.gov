@@ -1,16 +1,13 @@
-<article class="event event-past card">
+<article class="event card" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
   <div class="grid-row">
     <div class="grid-col-12 tablet:grid-col-8">
-
       <h3>
         <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
       </h3>
 
-      <h5><i class="far fa-calendar"></i> {{ dateFormat "Jan 02" .Date }}</h5>
+      <h5><i class="far fa-calendar"></i> {{ dateFormat "Jan 02, 2006" .Date }}</h5>
 
       <p>{{ .Params.summary | markdownify }}</p>
-      {{- partial "core/get_topics" . -}}
-
     </div>
 
     <div class="grid-col-12 tablet:grid-col-4">
@@ -20,4 +17,5 @@
     </div>
 
   </div>
+  <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
 </article>
