@@ -81,6 +81,3 @@ menu:
     - Name            : "Events"
       URL             : "/Events/"
       Weight          : 4
-    - Name            : "Training"
-      URL             : "/training/"
-      Weight          : 5
