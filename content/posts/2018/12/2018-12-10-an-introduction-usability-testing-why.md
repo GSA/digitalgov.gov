@@ -1,11 +1,11 @@
 ---
 slug: an-introduction-usability-testing-why
-date: 2018-11-10 09:00:00 -0500
+date: 2018-12-10 09:00:00 -0500
 deck: 'An introduction to usability testing, why it’s important, and how to talk about things that aren’t required to do a usability test&#46;'
 summary: ''
-authors: 
+authors:
   - andrew-maier
-topics: 
+topics:
   - user-experience
   - usability
   - user-research
