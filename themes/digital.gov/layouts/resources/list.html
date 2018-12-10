@@ -6,7 +6,7 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12">
-            
+
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}} </h1>
 
@@ -30,12 +30,15 @@
               {{ with $.Site.GetPage (printf "/topics/%s" $key) }}
                 {{ $resources := (where $value.Pages "Section" "resources") }}
                 {{ if $resources }}
-                <h2>{{ .Title }}</h2>
-                <ul class="add-list-reset">
-                  {{ range $resources }}
-                    <li><a href="{{ .Permalink}}">{{ .Title | markdownify }}</a></li>
-                  {{ end }}
-                </ul>
+                <div class="resources">
+                  <h2>{{ .Title }}</h2>
+                  <ul class="add-list-reset">
+                    {{ range $resources }}
+                      <li><i class="far fa-file"></i> <a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+                    {{ end }}
+                  </ul>
+                  <p>More in <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }} »</a></p>
+                </div>
                 {{ end }}
               {{ end }}
             {{ end }}
