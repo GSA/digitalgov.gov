@@ -11,7 +11,7 @@
     </div>
   </header>
 
-  <section class="events-list">
+  <section class="article-list">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-3">
         <div class="grid-col-12">
@@ -23,13 +23,13 @@
             {{ $end := dateFormat "2006-01-02" .Params.End_date }}
             {{ if or (ge $start $now) (ge $end $now)}}
               {{ if .Params.registration_url }}
-                {{ .Render "event-card"}}
+                {{ .Render "card-event"}}
               {{ end }}
             {{ end }}
 
             {{ else if ge $start $now }}
               {{ if .Params.registration_url }}
-                {{ .Render "event-card"}}
+                {{ .Render "card-event"}}
               {{ end }}
             {{ end }}
           {{ end }}
@@ -57,13 +57,12 @@
           <div class="grid-col-12">
             {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
             {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-              {{ .Render "event-card-past"}}
+              {{ .Render "card-event-past"}}
             {{ end }}
           </div>
         </div>
       </div>
     </div>
-
   </section>
 
 </main>

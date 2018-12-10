@@ -1,7 +1,6 @@
-<article class="event card">
+<article class="event card" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
   <div class="grid-row">
     <div class="grid-col-12 tablet:grid-col-8">
-
       <h3>
         <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
       </h3>
@@ -9,10 +8,10 @@
       <h5><i class="far fa-calendar"></i> {{ dateFormat "Jan 02" .Date }} <span>|</span> {{ dateFormat "3:04 PM" .Date }} - {{ dateFormat "3:04 PM ET" .Params.end_date }}</h5>
 
       <p>{{ .Params.summary | markdownify }}</p>
-
     </div>
+
     <div class="grid-col-12 tablet:grid-col-4">
-      <section class="actions">
+      <div class="actions">
         <div class="grid-row">
           <div class="grid-col-6">
             <a class="register btn" href="#">Register</a>
@@ -21,7 +20,8 @@
             <a class="btn" href="#">Details</a>
           </div>
         </div>
-      </section>
+      </div>
     </div>
+
   </div>
 </article>

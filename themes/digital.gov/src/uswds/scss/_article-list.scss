@@ -30,7 +30,26 @@
     @include u-padding-y(2);
     @include u-padding-x(2);
     @include u-margin-bottom('05');
+    h3{
+      @include u-margin(0);
+      @include u-margin-bottom(1);
+      a{
+        @include u-text('no-underline');
+      }
+    }
+    h5{
+      @include u-margin(0);
+      @include u-margin-bottom('05');
+      @include u-font('sans', 'sm');
+      @include u-text('medium');
+      @include u-text('orange-warm-50v');
+      span{
+        @include u-margin-x('05');
+        @include u-text('orange-warm-50v');
+      }
+    }
     p{
+      @include u-margin(0);
       @include u-margin-bottom('2px');
       @include u-font('sans', 'md');
       @include u-line-height('sans', 3);
@@ -62,6 +81,18 @@
         @include u-text('gold-40v');
       }
     }
+    .source{
+      @include u-font('sans', 'xs');
+    }
+    .topics{
+      @include u-margin(0);
+      @include u-margin-top('05');
+      @include u-font('sans', '3xs');
+      @include u-text('right');
+      @include u-display('block');
+      // max-width: 65%;
+      z-index: 2;
+    }
 
     // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
     position: relative;
@@ -80,23 +111,25 @@
     &:last-child{
       @include u-margin-bottom(0);
     }
-    div{
-      @include u-display('flex');
-      @include u-flex('align-start');
-      @include u-flex('justify');
-      p{
-        @include u-font('sans', 'xs');
-      }
-      .topics{
-        @include u-margin(0);
-        @include u-margin-top('05');
-        @include u-font('sans', '3xs');
-        @include u-text('right');
-        @include u-display('block');
-        max-width: 65%;
-        z-index: 2;
-      }
-    }
+
+
+    // div{
+    //   // @include u-display('flex');
+    //   // @include u-flex('align-start');
+    //   // @include u-flex('justify');
+    //   p{
+    //     @include u-font('sans', 'xs');
+    //   }
+    //   .topics{
+    //     @include u-margin(0);
+    //     @include u-margin-top('05');
+    //     @include u-font('sans', '3xs');
+    //     @include u-text('right');
+    //     @include u-display('block');
+    //     // max-width: 65%;
+    //     z-index: 2;
+    //   }
+    // }
 
   }
   .pagination{

@@ -32,10 +32,20 @@
             {{ range $pages.Pages }}
 
               {{/* This file is located in /layouts/posts/article-card.html */}}
-              {{ .Render "article-card"}}
+
+              {{/* External links */}}
+              {{- if .Params.source -}}
+                {{ .Render "card-elsewhere"}}
+              {{ else }}
+                {{/* Blog Posts — Internal links */}}
+                {{- if .Params.deck }}
+                  {{ .Render "card-blurb"}}
+                {{ else }}
+                  {{ .Render "card-article"}}
+                {{ end }}
+              {{ end }}
 
             {{ end }}
-
           {{ end }}
           {{ partial "core/pagination.html" . }}
         </div>

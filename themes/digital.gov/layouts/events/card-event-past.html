@@ -9,7 +9,15 @@
       <h5><i class="far fa-calendar"></i> {{ dateFormat "Jan 02" .Date }}</h5>
 
       <p>{{ .Params.summary | markdownify }}</p>
+      {{- partial "core/get_topics" . -}}
 
     </div>
+
+    <div class="grid-col-12 tablet:grid-col-4">
+      {{ if .Params.youtube_id }}
+      <div class="youtube-card" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
+      {{ end }}
+    </div>
+
   </div>
 </article>

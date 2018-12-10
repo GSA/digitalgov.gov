@@ -5,6 +5,7 @@
     @include u-margin-bottom(5);
     h2,h3{
       @include u-margin(0);
+      @include u-margin-bottom('05');
       @include u-text('bold');
       @include u-font('sans', 'lg');
       a{
@@ -151,7 +152,7 @@
 
 #events-past{
   header h2{
-    @include u-font('sans', 'md');
+    @include u-font('sans', 'lg');
     @include u-text('heavy');
   }
 }
