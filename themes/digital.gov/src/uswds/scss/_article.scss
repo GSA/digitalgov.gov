@@ -10,8 +10,7 @@ main{
 		@include u-margin-bottom(4);
    	// Breadcrumbs
    	h6.breadcrumb{
-     	@include u-margin(0);
-     	@include u-margin-bottom(1);
+     	@include u-margin-y(1);
      	@include u-text('bold');
      	@include u-font('sans', 'md');
      	a{
