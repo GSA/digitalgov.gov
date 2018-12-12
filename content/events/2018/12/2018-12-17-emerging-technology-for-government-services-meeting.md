@@ -1,9 +1,3 @@
-## Event Title: Emerging Technology for Government Services Meeting
-## Google Doc: https://docs.google.com/document/d/115RnVm0MS1T3KyoKfPaLAmIKupPFZLnbpkDFzjISOi4/edit#
-
-Preview URL: https://federalist-proxy.app.cloud.gov/preview/gsa/digitalgov.gov/Schultea-patch-2/event/2018/12/17/emerging-technology-for-government-services-meeting/
-
-
 ---
 slug: emerging-technology-for-government-services-meeting
 title: 'Emerging Technology for Government Services Meeting'
