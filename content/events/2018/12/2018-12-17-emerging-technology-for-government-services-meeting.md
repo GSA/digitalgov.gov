@@ -2,7 +2,7 @@
 slug: emerging-technology-for-government-services-meeting
 title: 'Emerging Technology for Government Services Meeting'
 summary: 'This is an opportunity to discuss what agencies need to know about current issues in emerging technologies for IT modernization and form consensus on inter-agency collaboration and resource development, and shape initiatives that empower teams across government&#46;'
-event_type: 
+event_type:
   - online
 date: 2018-12-17 10:30:00 -0500
 end_date: 2018-12-17 11:30:00 -0500
@@ -14,7 +14,7 @@ registration_url: https://www.eventbrite.com/e/emerging-technology-for-governmen
 
 This online meeting is for government employees only.
 
-This event will be held over Adobe Connect. 
+This event will be held over Adobe Connect.
 
 GSA’s [GSA’s Emerging Citizen Technology Office](https://emerging.digital.gov/) (ECTO) and partners are convening the monthly inter-agency Emerging Technology for Government Services meeting – this forum is an opportunity to discuss what agencies need to know about current issues in emerging technologies for IT modernization form consensus on inter-agency collaboration and resource development, and shape initiatives that empower teams across government.
 
@@ -35,4 +35,4 @@ GSA’s [GSA’s Emerging Citizen Technology Office](https://emerging.digital.go
 - New Business
 - Adjourn
 
-ECTO will hold repeating Emerging Technology for Government Services Meetings the second Tuesday of each month starting in January. 
+ECTO will hold repeating Emerging Technology for Government Services Meetings the second Tuesday of each month starting in January.
