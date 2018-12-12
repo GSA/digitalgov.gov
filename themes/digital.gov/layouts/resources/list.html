@@ -30,7 +30,7 @@
               {{ with $.Site.GetPage (printf "/topics/%s" $key) }}
                 {{ $resources := (where $value.Pages "Section" "resources") }}
                 {{ if $resources }}
-                <div class="resources">
+                <div class="list-related">
                   <h2>{{ .Title }}</h2>
                   <ul class="add-list-reset">
                     {{ range $resources }}

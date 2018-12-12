@@ -12,40 +12,32 @@
           <h1>{{- .Title -}}</h1>
           {{- $allpages := (where .Pages "Section" "posts") -}}
           <p>{{- .Params.summary -}}</p>
-          <p>{{- len $allpages }} pages</p>
         </div>
       </div>
     </div>
   </header>
 
-  <section class="article-list">
+  <section>
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-4">
         <div class="grid-col-12 tablet:grid-col-8 tablet-lg:grid-col-9">
-          {{/* Key Resources — 
-          A list of the most important resources tagged with the same topic */}}
+          {{ if eq .Paginator.PageNumber 1}}
 
-          {{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
-          {{- $resources := (where .Pages "Section" "resources") -}}
+            {{ partial "core/list_related_communities.html" . }}
 
-          {{/* If there are any resources at all... */}}
-          {{- if $resources -}}
-          <section class="resources">
-            <h3>Resources</h3>
-            <ul>
-              {{- range $resources -}}
-                <li><i class="far fa-file"></i> <a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
-              {{- end -}}
-            </ul>
-          </section>
+            {{ partial "core/list_related_resources.html" . }}
+
           {{- end -}}
 
+          <div class="article-list">
           {{/* Blog Posts by Topic —
           List all of the blog posts tagged with this topic */}}
           {{- $pages := (where .Paginator.Pages "Section" "posts") -}}
           {{/* If there are any blog posts at all... */}}
           {{- if $pages -}}
-            <h3>Related blog posts from our community</h3>
+            <h3>Related news & blog posts</h3>
+            <p>{{- len $allpages }} posts</p>
+
             {{/* Loop through all the pages */}}
             {{- range $pages -}}
 
@@ -65,6 +57,7 @@
           {{- end -}}
 
           {{- partial "core/pagination.html" . -}}
+          </div>
         </div>
 
         <div class="grid-col-12 display-none tablet:display-block tablet:grid-col-4 tablet-lg:grid-col-3">

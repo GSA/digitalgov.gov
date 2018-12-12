@@ -1,0 +1,17 @@
+{{/* Related Communities — 
+A list of the most important resources tagged with the same topic */}}
+
+{{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
+{{- $communities := (where .Pages "Section" "communities") -}}
+
+{{/* If there are any communities at all... */}}
+{{- if $communities -}}
+<div class="list-related list-related-communities">
+  <h3>Join a community of practice</h3>
+  <ul>
+    {{- range $communities -}}
+      <li><i class="far fa-file"></i> <a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+    {{- end -}}
+  </ul>
+</div>
+{{- end -}}

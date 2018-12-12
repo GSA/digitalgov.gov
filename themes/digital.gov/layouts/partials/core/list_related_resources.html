@@ -1,0 +1,17 @@
+{{/* Key Resources — 
+A list of the most important resources tagged with the same topic */}}
+
+{{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
+{{- $resources := (where .Pages "Section" "resources") -}}
+
+{{/* If there are any resources at all... */}}
+{{- if $resources -}}
+<div class="list-related list-related-resources">
+  <h3>Key Resources</h3>
+  <ul>
+    {{- range $resources -}}
+      <li><i class="far fa-file"></i> <a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+    {{- end -}}
+  </ul>
+</div>
+{{- end -}}

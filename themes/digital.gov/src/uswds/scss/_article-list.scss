@@ -4,8 +4,7 @@
 
   article{
     @include u-bg('gray-warm-5');
-    @include u-padding-y(2);
-    @include u-padding-x(2);
+    @include u-padding(2);
     @include u-margin-bottom('05');
     h3{
       @include u-margin(0);
@@ -135,4 +134,48 @@
   }
 
 
+}
+
+
+.list-related{
+  @include u-margin-bottom(5);
+  h2{
+    @include u-margin(0);
+    @include u-margin-bottom(2);
+    @include u-font('sans', 'lg');
+    @include u-text('light');
+  }
+  h3{
+    @include u-margin(0);
+    @include u-margin-bottom(2);
+    @include u-font('sans', 'lg');
+    @include u-text('light');
+  }
+  ul{
+    @include add-list-reset;
+    padding-left: 20px;
+    @include u-margin-bottom(2);
+    li{
+      @include u-margin-bottom('105');
+      text-indent: -9px;
+      i{
+        @include u-margin-right('2px');
+      }
+      a{
+        @include u-text('no-underline');
+        @include u-text('bold');
+        @include u-font('sans', 'sm');
+      }
+    }
+  }
+}
+.list-related-communities{
+  @include u-bg('gold-5v');
+  @include u-padding(2);
+  @include u-margin-bottom('05');
+}
+.list-related-resources{
+  @include u-bg('blue-warm-10');
+  @include u-padding(2);
+  @include u-margin-bottom('05');
 }
