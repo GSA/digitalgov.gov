@@ -51,7 +51,7 @@ Do you have questions about the process for giving feedback? Call into our Offic
 
  - **November 29**, Time 11:30 am - 12:30 pm
  - **December 6**, Time 1:00 pm - 2:00 pm
- - **December 13**, Time TBD
+ - **December 13**, Time 4:00 pm - 5:00 pm
 
 To join a virtual Office Hour Session:
 

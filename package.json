@@ -65,7 +65,7 @@
     "css-mqpacker": "^7.0.0",
     "cssnano": "^4.1.7",
     "del": "^3.0.0",
-    "dotenv": "^6.1.0",
+    "dotenv": "^6.2.0",
     "gulp": "^4.0.0",
     "gulp-bless": "^4.0.1",
     "gulp-clean-css": "^3.10.0",
@@ -93,7 +93,7 @@
     "gulp-notify": "^3.2.0",
     "gulp-s3-upload": "^1.7.1",
     "gulp-watch": "^5.0.1",
-    "jshint": "^2.9.6",
+    "jshint": "^2.9.7",
     "vinyl-paths": "^2.1.0"
   }
 }

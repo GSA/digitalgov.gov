@@ -22,9 +22,9 @@ featured_image:
 
 The General Services Administration’s (GSA) [DotGov Program](https://home.dotgov.gov/about/) manages the .gov top-level domain (TLD) for the U.S. government. Like .com or .org, the .gov TLD serves a defined community of interest – but unlike other TLDs, .gov is only available to bona fide U.S.-based government organizations.
 
-These government organizations increasingly deliver services and information digitally, and using a .gov domain signals to users that the government website they’re visiting, or the email they’ve received from a purported government email address, is legitimate. Indeed, one of the primary reasons .gov exists is to help the public easily identify government services on the internet.
+These government organizations increasingly deliver services and information digitally, and using a .gov domain signals to users that the government website they’re visiting, or the email they’ve received from a .gov email address, is legitimate. Indeed, one of the primary reasons .gov exists is to help the public easily identify government services on the internet.
 
-Because .gov domains are intertwined with access to government services, that makes the TLD _critical infrastructure_ for governments, citizens, and international internet users. Everyone who uses .gov is indirectly but materially affected by the security enhancements DotGov implements.
+Because .gov domains are intertwined with access to government services, that makes the TLD _critical infrastructure_ for governments, citizens, and international internet users. Everyone who uses online U.S. government services is indirectly but materially affected by the security enhancements DotGov implements.
 
 We want .gov to remain a trusted and secure space for all users, so over the last year we’ve focused on increasing trust and safety in our ecosystem. For [National Cybersecurity Awareness Month](https://www.dhs.gov/national-cyber-security-awareness-month), we wanted to highlight some of these accomplishments.
 
@@ -38,21 +38,19 @@ By ensuring that users of our services cannot use passwords that were exposed in
 
 ## Opting-in to Preloading
 
-In May 2017, we [began requiring](https://digital.gov/2017/04/12/dotgov-domain-registration-program-to-provide-https-preloading-in-may/) newly registered federal executive branch domains to use HTTPS, by adding each new domain to the [HSTS preload list](https://hstspreload.org/). HTTPS ensures that user communication with .gov websites isn’t modified or compromised, and hostile networks can’t inject malware, tracking beacons, or otherwise monitor or change user interactions online.
-
-Because the protections are so meaningful, and domain registration is a great place to enforce it, we began allowing any new .gov domain to opt-in to preloading in August 2018.
+In May 2017, we [began requiring](https://digital.gov/2017/04/12/dotgov-domain-registration-program-to-provide-https-preloading-in-may/) newly registered federal executive branch domains to use HTTPS, by adding each new domain to the [HSTS preload list](https://hstspreload.org/). HTTPS ensures that user communication with .gov websites isn’t modified or compromised, and hostile networks can’t inject malware, tracking beacons, or otherwise monitor or change user interactions online. Because the protections are so meaningful, and domain registration is a great place to enforce it, we began allowing any new .gov domain to opt-in to preloading in August 2018.
 
 ## 2-Step Verification
 
 Even though we’ve increased password security (see above), a password can still be compromised. While a .gov registrar user may not log in to the system that frequently, if someone gained access to a registrar user’s password, they could sign in at any time and make changes&mdash;until now.
 
-In October 2018, we introduced [2-step verification](https://home.dotgov.gov/2step/) on all .gov registrar accounts. This change, which uses the time-based one-time password ([TOTP](https://home.dotgov.gov/2step/#what-if-i-already-use-something-other-than-google-authenticator)) standard (_not text messages_), raises the stakes for a malicious actor to get into a .gov domain account: not only do they have to collect a user’s password, they must also obtain a code from that user’s mobile device.
+In October 2018, we adopted a new standard (known as _time-based one-time password_, or [TOTP](https://home.dotgov.gov/2step/#what-if-i-already-use-something-other-than-google-authenticator)), and introduced [2-step verification](https://home.dotgov.gov/2step/) on all .gov registrar accounts. This raises the stakes for a malicious actor to get into a .gov domain account: not only do they have to collect a user’s password, they must also obtain a code from that user’s mobile device.
 
 And because we believe that our users, nearly all of whom are government officials, deserve strong security, we’re the only TLD to make 2-step verification **mandatory** for all users.
 
 ## Enhancing Trust
 
-When a government organization uses a .gov domain, their users benefit from the increased trust that the TLD provides. To make it easier to qualify for a .gov domain, we:
+When a government organization uses a .gov domain, their customers benefit from the increased trust that the TLD provides. To make it easier to qualify for a .gov domain, we:
 
 - Added **two new domain types**:
    - [Interstate](https://home.dotgov.gov/registration/requirements/#interstate-domains) domains for _multi-state_ governmental organizations, and
