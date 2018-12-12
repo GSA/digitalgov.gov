@@ -15,7 +15,7 @@ registration_url: https://www.eventbrite.com/e/emerging-technology-for-governmen
 
 This online meeting is for government employees only.
 
-This event will be held over Adobe Connect.
+This event will be held over Adobe Connect. 
 
 GSA’s [GSA’s Emerging Citizen Technology Office](https://emerging.digital.gov/)(ECTO) and partners are convening the monthly inter-agency Emerging Technology for Government Services meeting – this forum is an opportunity to discuss what agencies need to know about current issues in emerging technologies for IT modernization form consensus on inter-agency collaboration and resource development, and shape initiatives that empower teams across government.
 
