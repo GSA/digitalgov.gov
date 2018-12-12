@@ -18,6 +18,7 @@ This online meeting is for government employees only.
 GSA’s [Emerging Citizen Technology office](https://emerging.digital.gov/) and partners are convening the monthly inter-agency Emerging Technology for Government Services meeting – this forum is an opportunity to discuss what agencies need to know about current issues in emerging technologies for IT modernization form consensus on inter-agency collaboration and resource development, and shape initiatives that empower teams across government.
 
 **Agencies are encouraged to share their updates in advance to EmergingTech@GSA.gov for:**
+
 - Machine Learning and AI
 - Robotic Process Automation
 - Blockchain
@@ -25,6 +26,7 @@ GSA’s [Emerging Citizen Technology office](https://emerging.digital.gov/) and 
 - Virtual/Augmented Reality
 
 **Meeting Agenda:**
+
 - Welcome & Introductions (Justin Herman, GSA)
 - New Resource and Services Updates
 - Inter-agency Communities and Initiatives Updates
