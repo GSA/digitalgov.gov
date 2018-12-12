@@ -1,7 +1,7 @@
 ---
 slug: fedramps-resources-for-agencies
 title: 'FedRAMP&#39;s Resources for Agencies'
-summary: 'Learn about recent updates to fedramp&#46;gov and resources available to help you through the FedRAMP authorization process&#46;'
+summary: 'Learn about recent website updates and resources available to help you through the FedRAMP authorization process&#46;'
 featured_image:
   uid: featued-301-x-212-fedramp-2017-5th-anniversary-logo
   alt: ''
