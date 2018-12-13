@@ -11,8 +11,6 @@ authors:
 
 ---
 
-NEW: 
-
 The bilingual glossaries, dictionaries, and Spanish language style guides available in this section are resources for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in languages other than English. 
 
 **Glossaries** 
@@ -49,6 +47,7 @@ Publication 850 (EN-RU): [English-Russian](https://www.irs.gov/pub/irs-pdf/p850e
 Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages, Revised August 2018) 
 Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages, Revised August 2018)
 
+
 ### Health and Well-being
 
 #### U.S. Department of Health and Human Services (HHS)
@@ -59,11 +58,13 @@ Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p8
    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and 
    - [Some Frequently Mistranslated English Terms](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary).  
 
+
 ### General Terminology
 
 #### Social Security Administration (SSA) 
 
 This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html)  offers information ranging from states and days of the weeks to health. 
+
 
 ### Environment
 
@@ -75,6 +76,7 @@ The EPA’s [Glosario ambiental bilingüe](https://espanol.epa.gov/espanol/glosa
 
 The [Translation Glossary page](https://sfenvironment.org/download/translation-glossary) provides link to download a Microsoft Excel.xlsx file for glossaries in three languages: Spanish, Vietnamese, and Filipino (Tagalog).
 
+
 ### Education 
 
 Below is a compilation of available resources from different education organizations. 
@@ -83,6 +85,7 @@ Below is a compilation of available resources from different education organizat
 - The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870). 
 - This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition. 
 
+
 ## Dictionary
 
 ### U.S. Department of Health and Human Services, National Institutes of Health
@@ -90,6 +93,7 @@ Below is a compilation of available resources from different education organizat
 The National Cancer Institute has a dictionary of cancer terms in English and Spanish. 
 https://www.cancer.gov/publications/dictionaries/cancer-terms
 https://www.cancer.gov/espanol/publicaciones/diccionario
+
 
 ## Multilingual Language Style Guides
 
@@ -109,24 +113,3 @@ Filipino Translation Style Guide https://drive.google.com/file/d/0B5nsVoOnh9x8Ul
 - [Internet Resources English/Spanish Internet Terminology Glossaries](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/)
 - [Spanish Health Care Terms in the United States](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/) <br />This page was peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE). 
 - [Glosario Técnico de Computación, Electrónica y Telecomunicaciones](https://www.certifiedchinesetranslation.com/Spanish/glosario.html) (computing, electronics and telecommunications glossary) <br />The glossary’s landing page is in Spanish. Click on the letter of the English term you need to translate and you’ll be directed to the Spanish equivalent term. Also included in the glossary are definitions (shown in italics when applicable) and the abbreviation of the country (listed in brackets) where a translation is used. If a country code is not shown, it is assumed that the translation is valid in all countries where Spanish is spoken. 
-
---- 
---- 
-
-OLD: 
-
-Spanish Language Style Guides are resources for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in Spanish. The guide contains information on grammar and style issues as well as glossaries to standardize the use of Spanish across government.
-
-The guides below were peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE). 
-
-  [6ea313c3]: https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2014-ANLE-Agreement.pdf "The 2014 GSA/ANLE Agreement"
-
-**Please Note**: We continue to make improvements to these guides, so please send any comments or suggestions for additional resources to [Laura Godfrey](mailto:laura.godfrey@gsa.gov), Lead, [Multilingual Community of Practice](https://digital.gov/communities/multilingual/).
-
-**Related Pages** 
-
-  * [Grammar]({{< link "spanish-language-style-guide-and-glossaries-grammar.md" >}} "Spanish Language Style Guide and Glossaries: Grammar")
-  * [Frequently Mistranslated English Terms]({{< link "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}} "Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms")
-  * [Information Technology Terms]({{< link "spanish-language-style-guide-glossaries-information-technology-terms.md" >}} "Spanish Language Style Guide & Glossaries: Information Technology Terms")
-  * [Internet Resources]({{< link "spanish-language-style-guide-glossaries-internet-resources.md" >}} "Spanish Language Style Guide & Glossaries: Internet Resources")
-  * [Spanish Health Care Terms in the United States]({{< link "spanish-health-care-terms-in-the-united-states.md" >}} "Spanish Health Care Terms in the United States")
