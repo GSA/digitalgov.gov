@@ -40,6 +40,6 @@ Previously, Manley co-founded the Center for Open Data Enterprise in Washington 
 
 Manley is an Adjunct Professor at the NYU Wagner School of Public Policy where she teaches Data for Social Innovation, an Instructor at the Harvard University Extension School, teaching Data-Driven Decision Making for Business Leaders, and an Associate Lecturer at Columbia University School for Professional Studies where she teaches Open Data in the Applied Analytics Program. 
 
-## Resources 
-
 Have questions? [Email the Emerging Citizen Technology Office](mailto:emergingtech@gsa.gov). 
+
+host: ECTO
