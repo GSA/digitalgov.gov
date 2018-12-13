@@ -16,6 +16,8 @@ youtube_id: gbmRaFuJyrM
 
 ---
 
+This event will be held on YouTube Live. Information on how to join the event will be distributed on the day of.
+
 Emerging Technology Leadership Series: Laura Manley, Harvard Technology and Public Purpose Project
 According to the Harvard Kennedy School’s Belfer Center for Science and International Affairs’ newly launched Technology and Public Purpose Project (TAPP):
 
