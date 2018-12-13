@@ -24,7 +24,7 @@ According to the Harvard Kennedy School’s Belfer Center for Science and Inte
 
 In this next installment of the Emerging Technology Leadership Series we will discuss with Laura Manley, director of Harvard TAPP,  what agencies should know about better understanding and managing potential risks from promising emerging technologies including Artificial Intelligence. We will also field your questions during this collaborative discussion. 
 
-The Emerging Technology Leadership Series, hosted by the U.S. General Services Administration (GSA) [Emerging Citizen Technology Office](https://emerging.digital.gov/) (ECTO), is a monthly webinar to enhance the modern federal workforce with insight into emerging technology issues and management from leading minds outside government. 
+_The Emerging Technology Leadership Series, hosted by the U.S. General Services Administration (GSA) [Emerging Citizen Technology Office](https://emerging.digital.gov/) (ECTO), is a monthly webinar to enhance the modern federal workforce with insight into emerging technology issues and management from leading minds outside government._ 
 
 ## Who should attend 
 
@@ -40,6 +40,4 @@ Previously, Manley co-founded the Center for Open Data Enterprise in Washington 
 
 Manley is an Adjunct Professor at the NYU Wagner School of Public Policy where she teaches Data for Social Innovation, an Instructor at the Harvard University Extension School, teaching Data-Driven Decision Making for Business Leaders, and an Associate Lecturer at Columbia University School for Professional Studies where she teaches Open Data in the Applied Analytics Program. 
 
-Have questions? [Email the Emerging Citizen Technology Office](mailto:emergingtech@gsa.gov). 
-
-host: ECTO
+_Have questions? [Email the Emerging Citizen Technology Office](mailto:emergingtech@gsa.gov)._ 
