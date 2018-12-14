@@ -20,7 +20,7 @@ _This event will be held on YouTube Live. Information on how to join the event w
 
 According to the Harvard Kennedy School’s Belfer Center for Science and International Affairs’ newly launched Technology and Public Purpose Project (TAPP):
 
-> "The arc of innovative progress has reached an inflection point. Technological change has brought immeasurable benefits to billions through improved health, productivity, and convenience. Yet as recent events have shown, unless we actively manage their risks to society, new technologies may also bring unforeseen destructive consequences. Making technological change positive for all is the critical challenge of our time." 
+> "The arc of innovative progress has reached an inflection point. Technological change has brought immeasurable benefits to billions through improved health, productivity, and convenience. Yet as recent events have shown, unless we actively manage their risks to society, new technologies may also bring unforeseen destructive consequences. Making technological change positive for all is the critical challenge of our time." 
 
 In this next installment of the Emerging Technology Leadership Series we will discuss with Laura Manley, director of Harvard TAPP, what agencies should know about better understanding and managing potential risks from promising emerging technologies including Artificial Intelligence. We will also field your questions during this collaborative discussion. 
 
