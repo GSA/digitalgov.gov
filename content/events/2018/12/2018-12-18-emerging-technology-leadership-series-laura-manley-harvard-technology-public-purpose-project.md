@@ -22,7 +22,7 @@ According to the Harvard Kennedy School’s Belfer Center for Science and Inte
 
 > "The arc of innovative progress has reached an inflection point. Technological change has brought immeasurable benefits to billions through improved health, productivity, and convenience. Yet as recent events have shown, unless we actively manage their risks to society, new technologies may also bring unforeseen destructive consequences. Making technological change positive for all is the critical challenge of our time." 
 
-In this next installment of the Emerging Technology Leadership Series we will discuss with Laura Manley, director of Harvard TAPP,  what agencies should know about better understanding and managing potential risks from promising emerging technologies including Artificial Intelligence. We will also field your questions during this collaborative discussion. 
+In this next installment of the Emerging Technology Leadership Series we will discuss with Laura Manley, director of Harvard TAPP, what agencies should know about better understanding and managing potential risks from promising emerging technologies including Artificial Intelligence. We will also field your questions during this collaborative discussion. 
 
 _The Emerging Technology Leadership Series, hosted by the U.S. General Services Administration (GSA) [Emerging Citizen Technology Office](https://emerging.digital.gov/) (ECTO), is a monthly webinar to enhance the modern federal workforce with insight into emerging technology issues and management from leading minds outside government._ 
 
