@@ -15,20 +15,19 @@ header#header{
 		@include u-margin(0);
 		@include u-padding-top('2px');
 		@include u-font('sans', 'xl');
-		@include u-line-height('sans', 2);
+		@include u-line-height('sans', 1);
 		@include u-display('inline-block');
 		a{
 			@include u-text('black');
+			@include u-text('heavy');
 			@include u-text('no-underline');
 		}
 		img{
-			width: 12rem;
+			// @include u-margin-right(1);
+			@include u-position('relative');
+			@include u-top('05');
+			@include u-width(4);
 		}
-	}
-	h2{
-		@include u-margin(0);
-		@include u-font('sans', 'md');
-		@include u-text('light');
 	}
 
 	#explore{
@@ -60,8 +59,7 @@ header#header{
 
 	// Main Navigation
 	nav{
-		@include u-margin-top(2);
-		@include u-padding-top(1);
+		@include u-margin-top(3);
 		// padding: .4rem 3px .4rem 2px;
 		@include u-font('sans', 'md');
 		@include u-height('full');
@@ -82,7 +80,7 @@ header#header{
 		}
 		// tablet-lg and above
 		@include at-media('tablet') {
-			@include u-margin-top(0);
+			@include u-margin-top(2);
 			@include u-flex('align-start');
 			@include u-flex('justify-start');
 			@include u-display('block');
@@ -99,10 +97,10 @@ header#header{
 			@include add-list-reset;
 			li{
 				@include u-display('inline-block');
-				@include u-padding-x('105');
+				@include u-padding-x(2);
 				a{
 					@include u-padding-bottom(2px);
-					color:#000;
+					@include u-text('black');
 					@include u-text('no-underline');
 				}
 				a:hover{
