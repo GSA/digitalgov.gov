@@ -69,15 +69,15 @@ taxonomies:
 ## Menu Navigation
 menu:
   primary:
-    - Name            : "Topics"
-      URL             : "/topics/"
+    - Name            : "News"
+      URL             : "/posts/"
       Weight          : 1
+    - Name            : "Events"
+      URL             : "/events/"
+      Weight          : 2
     - Name            : "Resources"
       URL             : "/resources/"
-      Weight          : 2
+      Weight          : 3
     - Name            : "Communities"
       URL             : "/communities/"
-      Weight          : 3
-    - Name            : "Events"
-      URL             : "/Events/"
       Weight          : 4
