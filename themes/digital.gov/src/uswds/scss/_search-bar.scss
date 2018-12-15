@@ -1,60 +1,86 @@
 // Serach Bar
 
+.search-bar{
+	@include u-margin-bottom(2);
+	h3{
+		@include u-margin(0);
+		@include u-margin-bottom(2);
+		@include u-font('sans', '2xl');
+		@include u-text('thin');
+		@include u-text('center');
+		@include u-text('indigo-warm-80');
+	}
+	.search-promo{
+		@include u-margin-y('05');
+		@include u-margin-x('05');
+		@include u-font('sans', '3xs');
+		strong{
+			@include u-text('indigo-warm-70');
+		}
+		@include u-text('orange-40');
+	}
+}
+
 .search_form{
-	@include u-maxw('tablet');
-	@include u-height('full');
+	box-shadow: 0 0 2pt 1pt #9287d8;
 	@include u-width('full');
 	@include u-margin-top(3);
 	// tablet and smaller
-	@include u-flex('align-start');
-	@include u-flex('justify-start');
 	// tablet and above
 	@include at-media('tablet') {
 		@include u-margin-top(0);
 	}
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
-		@include u-maxw('mobile-lg');
-		@include u-float('right');
-		@include u-flex('align-start');
-		@include u-flex('justify-end');
+		// @include u-maxw('mobile-lg');
 	}
 
 	.search_field{
 		@include u-width('full');
-		@include u-height(5);
-		@include u-font('sans', 'md');
+		@include u-height(6);
+		@include u-font('sans', 'lg');
 		@include u-text('light');
+		@include u-text('black');
 		@include u-border(1px);
 		@include u-border-right(0);
 		@include u-padding-left('105');
-		// @include u-radius('sm');
 		border-radius: 2px 0 0 2px;
+		@include u-border('2px');
+		@include u-border-right(0);
+		@include u-border('solid');
+		@include u-border-color('indigo-warm-40v');
+		// box-shadow: 0 0 2pt 1pt #9287d8;
 
 
-		// tablet and smaller
+		&::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+		  @include u-text('gray-cool-50');
+		  opacity: 1; /* Firefox */
+		}
 
-		// tablet-lg and above
-		// @include at-media('tablet-lg') {
-		// 	position: relative;
-		// 	left:6px;
-		// }
+		&:-ms-input-placeholder { /* Internet Explorer 10-11 */
+		  @include u-text('gray-cool-50');
+		}
+
+		&::-ms-input-placeholder { /* Microsoft Edge */
+		  @include u-text('gray-cool-50');
+		}
 	}
+
 	button{
 		@include u-margin-top(0);
 		padding: 0 12px;
 		vertical-align: top;
 		@include u-font('sans', 'md');
-		@include u-height(5);
+		@include u-height(6);
 
-		// @include u-border(1px);
-		border: 1px #000 solid;
-		@include u-border-left(0);
-		// @include u-radius('sm');
 		border-radius: 0 2px 2px 0 ;
+		@include u-border('2px');
+		@include u-border-left(0);
+		@include u-border('solid');
+		@include u-border-color('indigo-warm-50v');
 
 		&:hover{
-			@include u-bg('blue-30v');
+			@include u-bg('indigo-warm-40v');
 		}
 
 		// tablet-lg and above
@@ -63,7 +89,7 @@
 			left:0;
 		}
 		img{
-			width: 22px;
+			width:1.62em;
 			position: relative;
 			top:2px;
 		}
