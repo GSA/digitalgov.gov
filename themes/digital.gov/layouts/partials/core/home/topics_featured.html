@@ -2,6 +2,11 @@
 <section class="topics-list">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-2">
+      <div class="grid-col-12">
+        <p><strong>Popular Topics</strong></p>
+      </div>
+    </div>
+    <div class="grid-row grid-gap-2">
       {{- $top_topics := $.Site.Taxonomies.topics -}}
       {{- range $name, $taxonomy := $top_topics -}}
         {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
@@ -18,6 +23,11 @@
           {{- end -}}
         {{- end -}}
       {{- end -}}
+    </div>
+    <div class="grid-row grid-gap-2">
+      <div class="grid-col-12">
+        <p><a href="#">See all topics <i class="far fa-arrow-alt-circle-right"></i></a></p>
+      </div>
     </div>
   </div>
 </section>

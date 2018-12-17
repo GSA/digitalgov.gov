@@ -1,9 +1,15 @@
 // topics
 
 .topics-list{
-  @include u-padding-y(2);
   @include u-padding-bottom(2);
-
+  p{
+    @include u-margin(0);
+    @include u-margin-bottom(1);
+    a{
+      @include u-text('no-underline');
+      @include u-text('orange-warm-50v');
+    }
+  }
   footer{
     @include u-text('center');
     @include u-text('indigo-70');
@@ -18,24 +24,6 @@
       @include u-text('orange-warm-50v');
       &:hover{
         border-bottom: 2px #d24302 solid;
-      }
-    }
-  }
-  .checklist-promo{
-    @include u-text('center');
-    a{
-      @include u-padding('05');
-      @include u-bg('indigo-warm-60v');
-      @include u-font('sans', 'md');
-      @include u-text('medium');
-      @include u-text('center');
-      @include u-text('gray-1');
-      @include u-text('no-underline');
-      @include u-radius('md');
-      @include u-display('block');
-      &:hover{
-        border-bottom: none;
-        @include u-bg('indigo-warm-70');
       }
     }
   }

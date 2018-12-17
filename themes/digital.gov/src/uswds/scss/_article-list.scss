@@ -145,26 +145,6 @@
     &:last-child{
       @include u-margin-bottom(0);
     }
-
-
-    // div{
-    //   // @include u-display('flex');
-    //   // @include u-flex('align-start');
-    //   // @include u-flex('justify');
-    //   p{
-    //     @include u-font('sans', 'xs');
-    //   }
-    //   .topics{
-    //     @include u-margin(0);
-    //     @include u-margin-top('05');
-    //     @include u-font('sans', '3xs');
-    //     @include u-text('right');
-    //     @include u-display('block');
-    //     // max-width: 65%;
-    //     z-index: 2;
-    //   }
-    // }
-
   }
   .pagination{
     @include u-margin-y(3);
@@ -218,7 +198,7 @@
   ul{
     @include add-list-reset;
     padding-left: 20px;
-    @include u-margin-bottom(2);
+    @include u-margin-bottom(1);
     li{
       @include u-margin-bottom('105');
       text-indent: -9px;
@@ -229,6 +209,16 @@
         @include u-text('no-underline');
         @include u-text('bold');
         @include u-font('sans', 'sm');
+      }
+    }
+  }
+  footer{
+    p{
+      @include u-margin(0);
+      @include u-margin-bottom(1);
+      a{
+        @include u-text('no-underline');
+        @include u-text('orange-warm-50v');
       }
     }
   }
@@ -246,7 +236,6 @@
 .list-related-resources{
   @include u-bg('blue-warm-10');
   @include u-padding(2);
-  @include u-margin-bottom('05');
 }
 
 // Popular Resources on the homepage
