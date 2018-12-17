@@ -2,6 +2,9 @@
 
 .topics-list{
   @include u-padding-bottom(2);
+  p{
+    @include u-margin-bottom(1);
+  }
   footer{
     p{
       @include u-margin(0);

@@ -209,6 +209,11 @@
         @include u-text('no-underline');
         @include u-text('bold');
         @include u-font('sans', 'sm');
+        &:hover{
+          span{
+            border-bottom: 1px #e66f0e solid;
+          }
+        }
       }
     }
   }
@@ -235,25 +240,4 @@
   @include u-bg('gold-5v');
   @include u-padding(2);
   @include u-margin-bottom('05');
-}
-.list-related-resources{
-  @include u-bg('blue-warm-10');
-  @include u-padding(2);
-  @include u-margin-bottom('05');
-}
-.list-related-resources{
-  @include u-bg('blue-warm-10');
-  @include u-padding(2);
-}
-
-// Popular Resources on the homepage
-// Needs a little extra indention to support the check icon.
-#resources .list-related{
-  @include u-margin-bottom(1);
-  li{
-    text-indent: -10px;
-    a{
-      @include u-text('blue-warm-70v');
-    }
-  }
 }

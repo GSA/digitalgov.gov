@@ -1,18 +1,18 @@
 {{/* Spotlight / Featured */}}
 
-<section id="resources">
+<section id="resources" >
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
         {{- $resources := (where .Pages "Section" "resources") -}}
         {{/* If there are any resources at all... */}}
         {{- if $resources -}}
-        <div class="list-related">
-          <h4>Popular resources</h4>
+        <div class="list-related list-related-resources">
+          <h4>Popular Resources</h4>
           <ul>
             {{- range sort $resources "Title" "asc" -}}
               {{- if eq .Params.weight 3 -}}
-              <li><a href="{{- .Permalink -}}"><i class="fas fa-check-circle"></i> <strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }}{{- end -}}</li>
+              <li><a href="{{- .Permalink -}}"><i class="fas fa-check-circle"></i> <span>{{ .Title | markdownify }}</span></a> {{- if .Params.deck }}{{- end -}}</li>
               {{- end -}}
             {{- end -}}
           </ul>

@@ -1,0 +1,22 @@
+// Popular Resources on the homepage
+// Needs a little extra indention to support the check icon.
+#resources .list-related{
+  @include u-margin-y('105');
+
+}
+.list-related-resources{
+  ul{
+    li{
+      text-indent: -10px;
+      @include u-text('blue-warm-70v');
+      a{
+        @include u-text('blue-warm-70v');
+        &:hover{
+          span{
+            border-bottom: 2px #1a4480 solid;
+          }
+        }
+      }
+    }
+  }
+}
