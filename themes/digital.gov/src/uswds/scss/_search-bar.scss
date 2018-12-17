@@ -36,6 +36,7 @@
 	}
 
 	.search_field{
+		// box-shadow: 0 0 2pt 1pt #9287d8;
 		@include u-width('full');
 		@include u-height(6);
 		@include u-font('sans', 'lg');
@@ -43,7 +44,7 @@
 		@include u-text('black');
 		@include u-padding-left('105');
 		@include u-radius-left('lg');
-		@include u-border('05');
+		@include u-border('2px');
 		@include u-border-right(0);
 		@include u-border('solid');
 		@include u-border-color('indigo-warm-70');
@@ -70,7 +71,7 @@
 		@include u-height(6);
 
 		@include u-radius-right('lg');
-		@include u-border('05');
+		@include u-border('2px');
 		@include u-border-left(0);
 		@include u-border('solid');
 		@include u-border-color('indigo-warm-70');
