@@ -2,28 +2,21 @@
 
 .topics-list{
   @include u-padding-bottom(2);
-  p{
-    @include u-margin(0);
-    @include u-margin-bottom(1);
-    a{
-      @include u-text('no-underline');
-      @include u-text('orange-warm-50v');
-    }
-  }
   footer{
-    @include u-text('center');
-    @include u-text('indigo-70');
     p{
       @include u-margin(0);
       @include u-margin-bottom(1);
-      @include u-font('sans', 'md');
-      @include u-text('light');
-    }
-    .btn{
-      @include u-text('no-underline');
-      @include u-text('orange-warm-50v');
-      &:hover{
-        border-bottom: 2px #d24302 solid;
+      @include u-font('sans', 'xs');
+      @include u-line-height('sans', 1);
+      @include u-text('medium');
+      a{
+        @include u-text('no-underline');
+        @include u-text('orange-warm-50v');
+        &:hover{
+          span{
+            border-bottom: 2px #e66f0e solid;
+          }
+        }
       }
     }
   }

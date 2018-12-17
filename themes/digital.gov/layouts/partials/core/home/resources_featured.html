@@ -3,7 +3,7 @@
 <section id="resources">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-12 tablet-lg:grid-col-8 tablet-lg:grid-offset-2">
+      <div class="grid-col-12">
         {{- $resources := (where .Pages "Section" "resources") -}}
         {{/* If there are any resources at all... */}}
         {{- if $resources -}}
@@ -19,7 +19,7 @@
           <footer>
             <div class="grid-row grid-gap-2">
               <div class="grid-col-12">
-                <p><a href="/resources">See all resources <i class="far fa-arrow-alt-circle-right"></i></a></p>
+                <p><a href="/resources"><span>See all resources</span> <i class="fas fa-arrow-circle-right"></i></a></p>
               </div>
             </div>
           </footer>

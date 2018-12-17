@@ -198,7 +198,7 @@
   ul{
     @include add-list-reset;
     padding-left: 20px;
-    @include u-margin-bottom(1);
+    @include u-margin-bottom('05');
     li{
       @include u-margin-bottom('105');
       text-indent: -9px;
@@ -216,9 +216,17 @@
     p{
       @include u-margin(0);
       @include u-margin-bottom(1);
+      @include u-font('sans', 'xs');
+      @include u-line-height('sans', 1);
+      @include u-text('medium');
       a{
         @include u-text('no-underline');
         @include u-text('orange-warm-50v');
+        &:hover{
+          span{
+            border-bottom: 2px #e66f0e solid;
+          }
+        }
       }
     }
   }
@@ -243,7 +251,7 @@
 #resources .list-related{
   @include u-margin-bottom(1);
   li{
-    text-indent: -11px;
+    text-indent: -10px;
     a{
       @include u-text('blue-warm-70v');
     }
