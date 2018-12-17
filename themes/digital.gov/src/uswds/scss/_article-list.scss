@@ -255,5 +255,8 @@
   @include u-margin-bottom(1);
   li{
     text-indent: -11px;
+    a{
+      @include u-text('blue-warm-70v');
+    }
   }
 }
