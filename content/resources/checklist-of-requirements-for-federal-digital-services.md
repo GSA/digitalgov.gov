@@ -9,6 +9,8 @@ authors:
 aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
+weight: 3
+
 ---
 
 _You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations._
@@ -113,7 +115,7 @@ Include all [required content and links](/resources/required-web-content-and-lin
 
 ## Mobile/Device Agnostic
 
-Improve priority customer facing services for mobile use. Shift to an enterprise-wide asset management and procurement model, including mobile-related procurements. 
+Improve priority customer facing services for mobile use. Shift to an enterprise-wide asset management and procurement model, including mobile-related procurements.
 
 * [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 

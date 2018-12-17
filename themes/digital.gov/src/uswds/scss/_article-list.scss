@@ -151,6 +151,12 @@
     @include u-font('sans', 'lg');
     @include u-text('light');
   }
+  h4{
+    @include u-margin(0);
+    @include u-margin-bottom(1);
+    @include u-font('sans', 'sm');
+    @include u-text('bold');
+  }
   ul{
     @include add-list-reset;
     padding-left: 20px;
@@ -178,4 +184,18 @@
   @include u-bg('blue-warm-10');
   @include u-padding(2);
   @include u-margin-bottom('05');
+}
+.list-related-resources{
+  @include u-bg('blue-warm-10');
+  @include u-padding(2);
+  @include u-margin-bottom('05');
+}
+
+// Popular Resources on the homepage
+// Needs a little extra indention to support the check icon.
+#resources .list-related{
+  @include u-margin-bottom(1);
+  li{
+    text-indent: -11px;
+  }
 }
