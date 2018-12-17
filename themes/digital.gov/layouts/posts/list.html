@@ -39,7 +39,7 @@
               {{ else }}
                 {{/* Blog Posts — Internal links */}}
                 {{- if .Params.deck }}
-                  {{ .Render "card-blurb"}}
+                  {{ .Render "card-article"}}
                 {{ else }}
                   {{ .Render "card-article"}}
                 {{ end }}
