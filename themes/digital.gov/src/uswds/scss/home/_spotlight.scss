@@ -1,15 +1,14 @@
 // Spotlight
 
 #spotlight {
-  @include u-bg('indigo-80');
   @include u-padding-y(5);
   header{
+    @include u-margin-bottom(3);
     h2{
       @include u-margin(0);
       @include u-margin-bottom(1);
-      @include u-font('sans', '3xl');
-      @include u-text('thin');
-      @include u-text('gray-1');
+      @include u-font('sans', '2xl');
+      @include u-text('light');
       @include u-line-height('sans', 2);
     }
     h4{
@@ -17,21 +16,40 @@
       @include u-margin-top(5);
       @include u-margin-bottom(1);
       @include u-text('gray-1');
-      @include u-text('light');
       @include u-font('sans', 'md');
     }
     p{
-      @include u-margin(0);
-      @include u-text('normal');
-      @include u-font('sans', 'md');
+      @include u-margin-top(1);
+      @include u-text('light');
+      @include u-font('sans', 'lg');
       @include u-line-height('sans', 3);
-      @include u-text('gray-1');
+      a{
+        @include u-text('orange-warm-50v');
+        @include u-text('no-underline');
+      }
+    }
+    .spotlight{
+      @include u-font('sans', 'sm');
+      @include u-text('medium');
     }
     form{
       @include u-margin-bottom(2);
     }
   }
 
+
+  .all-posts{
+    @include u-margin-top(2);
+    @include u-padding-y(1);
+    @include u-padding-x(2);
+    @include u-text('white');
+    @include u-text('light');
+    @include u-display('inline-block');
+    @include u-radius('md');
+    @include u-font('sans', 'md');
+    @include u-bg('indigo-50v');
+    @include u-text('no-underline');
+  }
   // Looking for the styles for the article list?
   // See /scss/_article-list.scss
   .article-list{
@@ -40,16 +58,12 @@
   }
 
   footer{
-    @include u-bg('indigo-warm-60');
     @include u-margin-top(1);
     @include u-padding-y(1);
-    @include u-padding-x(2);
-    @include u-padding-bottom(2);
     p{
-      @include u-font('sans', '2xs');
-      @include u-text('indigo-warm-20');
+      @include u-font('sans', 'xs');
       a{
-        @include u-text('orange-warm-30v');
+        @include u-text('orange-warm-50v');
         @include u-text('no-underline');
         &:hover{
           border-bottom: 2px #a5a8eb solid;

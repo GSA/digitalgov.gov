@@ -83,13 +83,14 @@ main{
 				@include u-padding-x(1);
 				@include u-display('inline-block');
 				@include u-radius('pill');
-				@include u-bg('indigo-warm-20');
-				@include u-text('indigo-warm-70');
+				@include u-bg('orange-warm-10');
+				@include u-text('orange-warm-70');
 				@include u-line-height('sans', 2);
+				transition: background-color .2s, color .2s;
 			}
 			a:hover{
-				@include u-bg('indigo-warm-30');
-				@include u-text('indigo-warm-70');
+				@include u-bg('orange-warm-30v');
+				@include u-text('orange-warm-70');
 			}
 		}
 

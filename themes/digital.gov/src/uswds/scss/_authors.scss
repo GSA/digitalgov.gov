@@ -7,7 +7,10 @@
 	.author{
 		@include u-margin-bottom(2);
 		@include u-padding-top(1);
-		border-top: 1px #999 solid;
+		border-top: 1px #f0f0ec solid;
+		img{
+			border: 2px #1dc2ae solid;
+		}
 		.photo{
 			@include u-margin-right(1);
 		}
@@ -31,6 +34,18 @@
 			}
 		}
 
+	}
+	.author-short{
+		@include u-padding(0);
+		border:none;
+		@include u-text('light');
+		@include u-font('sans', '2xs');
+		img{
+			@include u-margin-right('05');
+			position: relative;
+			@include u-circle(3);
+			top:6px;
+		}
 	}
 }
 

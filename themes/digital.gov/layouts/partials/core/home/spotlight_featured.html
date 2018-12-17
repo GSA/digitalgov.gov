@@ -3,24 +3,15 @@
 <section id="spotlight">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-12 tablet-lg:grid-col-5">
+      <div class="grid-col-12">
         <header>
-          <h2>Spotlight</h2>
-          <p>A round-up of recent news and resources from across our community</p>
-          <h4><i class="fas fa-envelope"></i> Sign up for our newsletter</h4>
-          <form id="newsletter_signup" class="display-flex" action="index.html" method="post">
-            <input type="text" name="" value="" placeholder="Enter your email address">
-            <button type="submit"><img src="{{ "img/love-letter.png" | absURL }}" alt="Search"></button>
-          </form>
+          <h2>Spotlight & News</h2>
+          <p>A weekly round-up of news, ideas and interesting work from people in government</p>
+          <p class="spotlight"><a href="#" title="Sign-up for our Spotlight Newsletter"><i class="far fa-envelope"></i> Sign-up for our Spotlight Newsletter</a></p>
         </header>
 
-        <footer>
-          <p><strong>Submit to Spotlight</strong> — Have a case-study to share? Did your team recently launch something? We'd like to talk to you. <a href="mailto:digitalgov@gsa.gov">digitalgov@gsa.gov</a></p>
-        </footer>
-
-
       </div>
-      <div class="grid-col-12 tablet-lg:grid-col-7">
+      <div class="grid-col-12">
         <section class="article-list">
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
           {{- range first 8 $posts -}}
@@ -31,7 +22,7 @@
             {{ else }}
               {{/* Blog Posts — Internal links */}}
               {{- if .Params.deck }}
-                {{ .Render "card-blurb"}}
+                {{ .Render "card-article"}}
               {{ else }}
                 {{ .Render "card-article"}}
               {{ end }}
@@ -39,8 +30,12 @@
 
           {{- end -}}
         </section>
+        <a class="all-posts" href="" title="">See all</a>
       </div>
 
+      <footer>
+        <p>Have a case-study to share? Did your team recently launch something? <a href="" title=""><strong>Submit to Spotlight</strong></a> or send us an email <a href="mailto:digitalgov@gsa.gov">digitalgov@gsa.gov</a></p>
+      </footer>
     </div>
   </div>
 </section>

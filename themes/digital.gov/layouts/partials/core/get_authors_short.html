@@ -22,7 +22,14 @@
     {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
     {{- $author := index $.Site.Data.people.authors $uid -}}
 
-    <a class="author" href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.display_name | default $uid -}} " rel="author">{{- $author.display_name | default $uid -}}</a>{{ if lt (add $i 1) $length }}, {{ end }}
-
+    <a class="author author-short" href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.display_name | default $uid -}} " rel="author">
+      {{- if $author.github -}}
+      <img class="circle-5" src="https://github.com/{{- $author.github -}}.png?size=50" alt="">
+      {{- else -}}
+      <img class="circle-5" src="http://placekitten.com/100/100" alt="">
+      {{- end -}}
+      {{- $author.display_name | default $uid -}}
+      {{- if $author.agency }} / {{ $author.agency -}}{{- end -}}
+    </a>{{ if lt (add $i 1) $length }}, {{ end }}
   {{- end -}}
 {{- end -}}

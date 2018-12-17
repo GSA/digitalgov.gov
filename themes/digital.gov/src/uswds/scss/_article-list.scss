@@ -3,73 +3,118 @@
 .article-list{
 
   article{
-    @include u-bg('gray-warm-5');
-    @include u-padding(2);
-    @include u-margin-bottom('05');
-    h3{
+    @include u-margin(0);
+    // @include u-bg('gray-warm-2');
+    // @include u-padding-top(2);
+    // @include u-padding-bottom('205');
+    border-bottom:1px #cac9c0 solid;
+
+    & > div:first-of-type{
       @include u-margin(0);
-      @include u-margin-bottom(1);
-      a{
-        @include u-text('no-underline');
-      }
-    }
-    h5{
-      @include u-margin(0);
-      @include u-margin-bottom('05');
-      @include u-font('sans', 'sm');
-      @include u-text('medium');
-      @include u-text('orange-warm-50v');
-      span{
-        @include u-margin-x('05');
-        @include u-text('orange-warm-50v');
-      }
-    }
-    p{
-      @include u-margin(0);
-      @include u-margin-bottom('2px');
-      @include u-font('sans', 'md');
-      @include u-line-height('sans', 3);
-      @include u-maxw('none');
-      img{
-        @include u-margin-right('05');
-        position: relative;
-        top:2px;
-        width: 16px;
-        height: 16px;
-      }
-      a{
-        @include u-text('no-underline');
-        @include u-text('black');
-      }
-      em{
-        @include u-text('gray-50');
-        @include u-font('sans', '3xs');
-      }
-      strong{
-        @include u-text('indigo-60');
-      }
-      .clicks{
-        i{
-          @include u-text('gold-30v');
-        }
-        @include u-margin-left('2px');
-        @include u-font('sans', '3xs');
-        @include u-text('gold-40v');
-      }
-    }
-    .source{
-      @include u-font('sans', 'xs');
-    }
-    .topics{
-      @include u-margin(0);
-      @include u-margin-top('05');
-      @include u-font('sans', '3xs');
-      @include u-text('right');
-      @include u-display('block');
-      // max-width: 65%;
-      z-index: 2;
+      @include u-display('flex');
     }
 
+    .content{
+      @include u-padding-top('205');
+      @include u-padding-bottom(3);
+      width:94%;
+
+      h3{
+        @include u-margin(0);
+        @include u-margin-bottom('05');
+        @include u-font('sans', 'lg');
+        @include u-text('bold');
+        a{
+          @include u-text('no-underline');
+          @include u-text('black');
+        }
+      }
+      h5{
+        @include u-margin(0);
+        @include u-margin-bottom('05');
+        @include u-font('sans', 'sm');
+        @include u-text('medium');
+        @include u-text('orange-warm-50v');
+        span{
+          @include u-margin-x('05');
+          @include u-text('orange-warm-50v');
+        }
+      }
+      .deck{
+        @include u-font('sans', 'lg');
+        @include u-text('light');
+      }
+
+      p{
+        @include u-margin(0);
+        @include u-font('sans', 'md');
+        @include u-line-height('sans', 3);
+        @include u-measure(3);
+        a{
+          @include u-text('no-underline');
+          @include u-text('black');
+        }
+        em{
+          @include u-text('gray-50');
+          @include u-font('sans', '3xs');
+        }
+        strong{
+          @include u-text('indigo-60');
+        }
+        .source{
+          @include u-font('sans', 'xs');
+          @include u-text('bold');
+          img{
+            @include u-margin-right('05');
+            position: relative;
+            top:3px;
+            width: 18px;
+            height: 18px;
+          }
+        }
+        .clicks{
+          i{
+            @include u-text('gold-30v');
+          }
+          @include u-margin-left(1);
+          @include u-font('sans', '2xs');
+          @include u-text('gold-40v');
+        }
+      }
+      .authors{
+        @include u-margin-y(2);
+      }
+
+
+      // Looking for more specifics on the styling?
+      // Additional styles are in article.scss
+      .topics{
+        @include u-margin(0);
+        @include u-margin-top('05');
+        @include u-font('sans', '3xs');
+        @include u-text('left');
+        @include u-display('block');
+        // max-width: 65%;
+        z-index: 2;
+      }
+    }
+
+    .eye{
+      @include u-text('indigo-80');
+      @include u-display('flex');
+      justify-content: center;
+      align-items: center;
+      @include u-text('center');
+      @include u-text('light');
+      @include u-font('sans', '2xs');
+      width: 6%;
+      transition: background-color .2s, color .2s;
+      span{
+        i{
+          @include u-display('block');
+        }
+      }
+    }
     // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
     position: relative;
     a span{
@@ -82,7 +127,20 @@
       z-index: 1;
     }
     &:hover{
-      @include u-bg('gray-warm-10');
+      // @include u-bg('gray-warm-2');
+      .content h3 a{
+        border-bottom:2px #ff580a solid;
+      }
+      .eye{
+        @include u-bg('indigo-80');
+        @include u-text('white');
+      }
+      .topics a{
+        @include u-bg('orange-warm-20v');
+      }
+    }
+    &:first-child{
+      border-top:1px #cac9c0 solid;
     }
     &:last-child{
       @include u-margin-bottom(0);
