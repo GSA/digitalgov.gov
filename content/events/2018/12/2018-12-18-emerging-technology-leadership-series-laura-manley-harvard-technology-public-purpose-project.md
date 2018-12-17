@@ -1,7 +1,7 @@
 ---
 slug: emerging-technology-leadership-series-laura-manley-harvard-technology-public-purpose-project
 title: 'Emerging Technology Leadership Series&#58; Laura Manley, Harvard Technology and Public Purpose Project'
-summary: 'In this next installment of the Emerging Technology Leadership Series we will discuss with Laura Manley, director of Harvard TAPP,  what agencies should know about better understanding and managing potential risks from promising emerging technologies. &#46;'
+summary: 'In this next installment of the Emerging Technology Leadership Series we will discuss with Laura Manley, director of Harvard TAPP,  what agencies should know about better understanding and managing potential risks from promising emerging technologies.'
 featured_image: 
   uid: 
   alt: ''
