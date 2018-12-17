@@ -2,20 +2,26 @@
 
 <main aria-label="Content" role="main" id="home">
 
+  {{/* Search */}}
+  {{- partialCached "core/search-bar" . -}}
+
   {{/* Topics */}}
   {{- partialCached "core/home/topics_featured" . -}}
 
-  {{/* News */}}
-  {{- partialCached "core/home/spotlight_featured" . -}}
+  {{/* Popular esources */}}
+  {{- partialCached "core/home/resources_featured" . -}}
 
   {{/* Communities */}}
   {{- partialCached "core/home/communities_featured" . -}}
+
+  {{/* News */}}
+  {{- partialCached "core/home/spotlight_featured" . -}}
 
   {{/* Events */}}
   {{- partialCached "core/home/events_featured" . -}}
 
   {{/* Services */}}
-  {{- partialCached "core/home/services_featured" . -}}
+  {{/* {{- partialCached "core/home/services_featured" . -}} */}}
 
 </main>
 
