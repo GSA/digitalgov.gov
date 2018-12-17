@@ -42,23 +42,23 @@
 		@include u-text('light');
 		@include u-text('black');
 		@include u-padding-left('105');
-		border-radius: 2px 0 0 2px;
+		@include u-radius-left('lg');
 		@include u-border('05');
 		@include u-border-right(0);
 		@include u-border('solid');
-		@include u-border-color('indigo-warm-80');
+		@include u-border-color('indigo-warm-70');
 
 		&::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-		  @include u-text('gray-cool-60');
+		  @include u-text('gray-cool-70');
 		  opacity: 1; /* Firefox */
 		}
 
 		&:-ms-input-placeholder { /* Internet Explorer 10-11 */
-		  @include u-text('gray-cool-60');
+		  @include u-text('gray-cool-70');
 		}
 
 		&::-ms-input-placeholder { /* Microsoft Edge */
-		  @include u-text('gray-cool-60');
+		  @include u-text('gray-cool-70');
 		}
 	}
 
@@ -69,11 +69,11 @@
 		@include u-font('sans', 'md');
 		@include u-height(6);
 
-		border-radius: 0 2px 2px 0 ;
+		@include u-radius-right('lg');
 		@include u-border('05');
 		@include u-border-left(0);
 		@include u-border('solid');
-		@include u-border-color('indigo-warm-80');
+		@include u-border-color('indigo-warm-70');
 
 		&:hover{
 			@include u-bg('indigo-warm-40v');
