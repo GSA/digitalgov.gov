@@ -15,8 +15,8 @@
     }
 
     .content{
-      @include u-padding-top('205');
-      @include u-padding-bottom(3);
+      @include u-padding-top('105');
+      @include u-padding-bottom(2);
       width:94%;
 
       h3{
@@ -40,11 +40,6 @@
           @include u-text('orange-warm-50v');
         }
       }
-      .deck{
-        @include u-font('sans', 'lg');
-        @include u-text('light');
-      }
-
       p{
         @include u-margin(0);
         @include u-font('sans', 'md');
@@ -61,42 +56,58 @@
         strong{
           @include u-text('indigo-60');
         }
+      }
+      .deck{
+        @include u-text('light');
+        @include u-measure(4);
+      }
+
+
+      .meta{
+        @include u-margin-top(1);
+        @include u-font('sans', '3xs');
         .source{
-          @include u-font('sans', 'xs');
-          @include u-text('bold');
+          @include u-text('semibold');
+          @include u-text('black');
+          @include u-text('no-underline');
           img{
             @include u-margin-right('05');
             position: relative;
             top:3px;
-            width: 18px;
-            height: 18px;
+            width: 16px;
+            height: 16px;
           }
         }
         .clicks{
           i{
             @include u-text('gold-30v');
           }
-          @include u-margin-left(1);
-          @include u-font('sans', '2xs');
+          @include u-width(10);
+          @include u-display('inline-block');
+          @include u-text('center');
           @include u-text('gold-40v');
         }
+        // Looking for more specifics on the styling?
+        // Additional styles are in article.scss
+        .topics{
+          @include u-margin(0);
+          @include u-margin-top('05');
+          @include u-font('sans', '3xs');
+          @include u-text('left');
+          @include u-display('inline-block');
+          // max-width: 65%;
+          z-index: 2;
+        }
       }
+
       .authors{
-        @include u-margin-y(2);
-      }
-
-
-      // Looking for more specifics on the styling?
-      // Additional styles are in article.scss
-      .topics{
-        @include u-margin(0);
         @include u-margin-top('05');
-        @include u-font('sans', '3xs');
-        @include u-text('left');
-        @include u-display('block');
-        // max-width: 65%;
-        z-index: 2;
+        @include u-margin-bottom(1);
+        @include u-display('inline-block');
       }
+
+
+
     }
 
     .eye{

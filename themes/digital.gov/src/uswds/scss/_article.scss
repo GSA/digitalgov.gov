@@ -83,8 +83,8 @@ main{
 				@include u-padding-x(1);
 				@include u-display('inline-block');
 				@include u-radius('pill');
-				@include u-bg('orange-warm-10');
-				@include u-text('orange-warm-70');
+				@include u-bg('cyan-10');
+				@include u-text('cyan-80');
 				@include u-line-height('sans', 2);
 				transition: background-color .2s, color .2s;
 			}
