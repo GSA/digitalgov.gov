@@ -1707,6 +1707,7 @@ ul.fixednav li li.current-menu-parent > a {
 	}
 
 .single .meta {
+	margin-top: .5em;
 	display: inline-block;
 }
 
