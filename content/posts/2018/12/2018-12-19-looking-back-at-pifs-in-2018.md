@@ -1,7 +1,7 @@
 ---
 slug: looking-back-at-pifs-in-2018
 date: 2018-12-19 09:00:00 -0500
-title: 'On the Front Lines of Civic Tech'
+title: "Out On the Front Lines of Civic Tech"
 summary: 'A look back at the Presidential Innovation Fellows work with federal agencies in 2018.'
 deck: "A look back at the Presidential Innovation Fellows work with federal agencies in 2018."
 authors:
@@ -26,7 +26,7 @@ topics:
   - presidential-innovation-fellows
   - tts
 featured_image:
-  uid: pif-card
+  uid: pif-card-alt
   alt:
 ---
 
