@@ -26,7 +26,7 @@ topics:
   - presidential-innovation-fellows
   - tts
 featured_image:
-  uid: pif-hoilday-card-2018
+  uid: pif-card
   alt:
 ---
 
