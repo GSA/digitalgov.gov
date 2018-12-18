@@ -28,7 +28,12 @@ topics:
 featured_image:
   uid: pif-card-alt
   alt:
+canonical: URL-GOES-HERE
+
 ---
+
+_This post was orgiginally [published on GSA.gov](URL-GOES-HERE)_
+
 
 We have the best jobs in government, period. Each day we wake up empowered to solve critical issues facing public safety, national security, healthcare, and transportation.
 
