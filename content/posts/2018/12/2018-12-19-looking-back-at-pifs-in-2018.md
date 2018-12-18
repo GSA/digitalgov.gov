@@ -26,8 +26,8 @@ topics:
   - presidential-innovation-fellows
   - tts
 featured_image:
-  uid:
-  alt: ''
+  uid: pif-hoilday-card-2018
+  alt:
 ---
 
 We have the best jobs in government, period. Each day we wake up empowered to solve critical issues facing public safety, national security, healthcare, and transportation.
@@ -77,6 +77,8 @@ Civic tech is our way of engaging our democracy beyond voting. As civic technolo
 Away from PIF, we like to volunteer, we like to cook and experiment with smoothies, we like to read, listen to jazz and electronic music, dance, travel, hang with friends, play volleyball and tennis, and stroll new neighborhoods in our nation’s capital.
 
 A new cohort of PIFs will be joining us in January. We look forward to welcoming them, encourage you to learn more about what we do, and consider bringing your craft to the federal government as we work together to build and modernize our nation’s digital infrastructure and tackle national and global problems.
+
+{{< img src="pif-hoilday-card-2018" >}}
 
 _The [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) (PIF) program was established by the White House Office of Science and Technology Policy (OSTP) in 2012 to attract top innovators into government, capable of tackling issues at the convergence of technology, policy, and process. On January 14, 2017  the President of the United States signed the TALENT Act (H.R. 39) to codify the Presidential Innovation Fellows program into law and recruit private sector science and technology innovation leaders into federal government service._
 
