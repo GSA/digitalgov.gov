@@ -14,7 +14,7 @@
       @include u-text('medium');
       a{
         @include u-text('no-underline');
-        @include u-text('orange-warm-50v');
+        @include u-text('indigo-warm-60');
         &:hover{
           span{
             border-bottom: 2px #e66f0e solid;

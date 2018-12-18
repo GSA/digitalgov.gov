@@ -12,7 +12,7 @@
           <ul>
             {{- range sort $resources "Title" "asc" -}}
               {{- if eq .Params.weight 3 -}}
-              <li><a href="{{- .Permalink -}}"><i class="fas fa-check-circle"></i> <span>{{ .Title | markdownify }}</span></a> {{- if .Params.deck }}{{- end -}}</li>
+              <li><a href="{{- .Permalink -}}"><i class="far fa-lightbulb"></i> <span>{{ .Title | markdownify }}</span></a> {{- if .Params.deck }}{{- end -}}</li>
               {{- end -}}
             {{- end -}}
           </ul>

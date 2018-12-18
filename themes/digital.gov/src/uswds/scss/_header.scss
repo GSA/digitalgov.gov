@@ -97,7 +97,7 @@ header#header{
 			@include add-list-reset;
 			li{
 				@include u-display('inline-block');
-				@include u-padding-x(2);
+				@include u-padding-x('105');
 				a{
 					@include u-padding-bottom(2px);
 					@include u-text('black');
