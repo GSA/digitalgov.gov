@@ -83,4 +83,4 @@ menu:
       Weight          : 4
     - Name            : "People"
       URL             : "/people/"
-      Weight          : 4
+      Weight          : 5
