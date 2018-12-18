@@ -6,6 +6,11 @@ summary: 'A look back at the Presidential Innovation Fellows work with federal a
 deck: "A look back at the Presidential Innovation Fellows work with federal agencies in 2018."
 authors:
   - gil-alterovitz
+  - davey-gibian
+  - clara-tsao
+  - nina-bianchi
+  - steven-babitch
+  - zach-goldfine
 categories:
   -
 tag:
