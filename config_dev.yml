@@ -87,5 +87,5 @@ menu:
       URL             : "/communities/"
       Weight          : 4
     - Name            : "People"
-      URL             : "/people/"
+      URL             : "/authors/"
       Weight          : 5
