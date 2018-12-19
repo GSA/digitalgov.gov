@@ -16,15 +16,12 @@ youtube_id: bYkOqGiPXKE
 
 ---
 
-For this event, we have partnered with the fine folks who run the Federal Privacy Council's Tech Tuesday Series!
+_For this event, we have partnered with the fine folks who run the [Federal Privacy Council](https://www.fpc.gov/)'s Tech Tuesday Series!_ 
 
-Do you ever wonder how many visitors your agency's privacy website gets, what they search for, how long they stay, and if they are mobile users?
+* Do you ever wonder how many visitors your agency's privacy website gets, what they search for, how long they stay, and if they are mobile users? 
+* Do your SAOP or any other agency officials ask how well your privacy website and resources are serving your users? 
+* Have you considered whether you can create a better user experience for the public?
 
-Do your SAOP or any other agency officials ask how well your privacy website and resources are serving your users?
+Join us to learn the answers to all those questions&mdash;and to answer some of yours!
 
-Have you considered whether you can create a better user experience for the public?
-
-Join us to learn the answers to all those questions and to answer some of yours!
-
-In this webinar, Tim Lowden, Program Manager for the Digital Analytics Program, will give a brief introduction of the initiative itself, and also give you insight into how you can use the DAP Google Analytics account to view data about the privacy-related pages on your website. Join us to learn how to measure, analyze, and improve experiences for users visiting privacy pages on your agency websites.
-
+In this webinar, [Tim Lowden](https://digital.gov/authors/tlowden/), Program Manager for the [Digital Analytics Program](https://digital.gov/dap/), will give a brief introduction of the initiative itself, and give you insight into how you can use the DAP Google Analytics account to view data about the privacy-related pages on your website. Join us to learn how to measure, analyze, and improve experiences for users visiting privacy pages on your agency websites. 
