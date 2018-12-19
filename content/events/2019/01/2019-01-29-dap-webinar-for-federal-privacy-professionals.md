@@ -22,6 +22,6 @@ _For this event, we have partnered with the fine folks who run the [Federal Priv
 * Do your SAOP or any other agency officials ask how well your privacy website and resources are serving your users? 
 * Have you considered whether you can create a better user experience for the public?
 
-Join us to learn the answers to all those questions&mdash;and to answer some of yours!
+Join us to learn the answers to all those questions&mdash;and some of yours!
 
 In this webinar, [Tim Lowden](https://digital.gov/authors/tlowden/), Program Manager for the [Digital Analytics Program](https://digital.gov/dap/), will give a brief introduction of the initiative itself, and give you insight into how you can use the DAP Google Analytics account to view data about the privacy-related pages on your website. Join us to learn how to measure, analyze, and improve experiences for users visiting privacy pages on your agency websites. 
