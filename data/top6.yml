@@ -29,7 +29,10 @@
 
 
 
-top6: 
+top6:
+  - file          : '2018-12-19-looking-back-at-pifs-in-2018.md'
+    type          : 'post'
+
   - file          : '2018-11-07-dap-learning-series-basics-ab-testing-part-2.md'
     type          : 'video'
 
@@ -43,7 +46,4 @@ top6:
     type          : 'video'
 
   - file          : '2018-10-29-gsa-steps-up-security-for-dotgov.md'
-    type          : 'post'
-
-  - file          : '2018-09-26-office-educational-technology-hold-design-challenge-supporting-data-reporting-requirements.md'
     type          : 'post'
