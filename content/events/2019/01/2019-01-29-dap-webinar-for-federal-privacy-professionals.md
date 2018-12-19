@@ -19,7 +19,7 @@ youtube_id: bYkOqGiPXKE
 _For this event, we have partnered with the fine folks who run the [Federal Privacy Council](https://www.fpc.gov/)'s Tech Tuesday Series!_ 
 
 * Do you ever wonder how many visitors your agency's privacy website gets, what they search for, how long they stay, and if they are mobile users? 
-* Do your SAOP or any other agency officials ask how well your privacy website and resources are serving your users? 
+* Does your SAOP (or other agency officials) ask how well your privacy website and resources are serving your users? 
 * Have you considered whether you can create a better user experience for the public?
 
 Join us to learn the answers to all those questions&mdash;and some of yours!
