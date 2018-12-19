@@ -25,7 +25,7 @@
       @include u-font('sans', 'lg');
       @include u-line-height('sans', 3);
       a{
-        @include u-text('orange-warm-50v');
+        @include u-text('indigo-warm-60');
         @include u-text('no-underline');
       }
     }
