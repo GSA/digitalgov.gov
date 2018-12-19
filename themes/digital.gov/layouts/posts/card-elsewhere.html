@@ -1,33 +1,35 @@
 <article class="card" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
   <div>
+    <div class="icon">
+      {{/* Favicon
+      If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
+      {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+      {{- if $source -}}
+        {{- if $source.Params.icon -}}
+          <img src="{{ $source.Params.icon }}" alt="{{- $source.Params.name -}}">
+        {{- end -}}
+
+      {{/* Otherwise, use the Favicon that Google stores for the site. */}}
+      {{- else -}}
+        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+      {{ end }}
+    </div>
     <div class="content">
       <p>
         {{- if .Params.deck -}}{{- .Params.deck | markdownify -}}{{- end -}}
       </p>
+
       <div class="meta">
-        {{/* Favicon
-        If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
-        {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
 
         {{- if $source -}}
-          {{- if $source.Params.icon -}}
-            <a class="source" href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="{{ $source.Params.icon }}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
-          {{- else -}}
-            <a class="source" href="{{- .Params.source_url -}}" title="{{- $source.Params.name -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- $source.Params.name -}}">{{- $source.Params.name -}}</a>
-          {{- end -}}
-
-        {{/* Otherwise, use the Favicon that Google stores for the site. */}}
-        {{- else -}}
-          <a class="source" href="{{- .Params.source_url -}}" title="{{- .Params.source -}}"><img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">{{- .Params.source -}}</a>
+          {{ $url := urls.Parse .Params.source_url }}
+          <a class="source" href="{{- .Params.source_url -}}" title="Read at {{- $source.Params.name -}}"><i class="fas fa-external-link-alt"></i> <em>{{ $url.Scheme -}}://{{ $url.Host -}}/...</em></a>
         {{ end }}
         {{ partial "core/get_clicks" . -}}
         {{ partial "core/get_topics" . }}
       </div>
     </div>
 
-    <div class="eye">
-      <span><i class="fas fa-external-link-alt"></i> view</span>
-    </div>
   </div>
 
   <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>

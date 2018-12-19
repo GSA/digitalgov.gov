@@ -83,14 +83,16 @@ main{
 				@include u-padding-x(1);
 				@include u-display('inline-block');
 				@include u-radius('pill');
-				@include u-bg('cyan-10');
-				@include u-text('cyan-80');
+				@include u-bg('orange-5');
+				@include u-text('orange-warm-80');
 				@include u-line-height('sans', 2);
+				z-index: 2;
+				@include u-position('relative');
 				transition: background-color .2s, color .2s;
 			}
 			a:hover{
-				@include u-bg('cyan-20');
-				@include u-bg('cyan-80');
+				@include u-bg('orange-10');
+				@include u-text('orange-warm-80');
 			}
 		}
 

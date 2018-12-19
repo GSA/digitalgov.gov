@@ -4,29 +4,34 @@
 
   article{
     @include u-margin(0);
-    // @include u-bg('gray-warm-2');
-    // @include u-padding-top(2);
-    // @include u-padding-bottom('205');
-    border-bottom:1px #cac9c0 solid;
+    @include u-margin-bottom('105');
+    @include u-bg('white');
+    @include u-padding(2);
+    @include u-radius('md');
+    border:1px #e6e6e2 solid;
+    border-bottom:1px #afaea2 solid;
+    transition: border .2s;
 
     & > div:first-of-type{
       @include u-margin(0);
       @include u-display('flex');
     }
 
-    .content{
-      @include u-padding-top('105');
-      @include u-padding-bottom(2);
-      width:94%;
+    .icon{
+      @include u-margin-right(2);
+      @include u-width(5);
+    }
 
+    .content{
+      width:91%;
       h3{
         @include u-margin(0);
         @include u-margin-bottom('05');
-        @include u-font('sans', 'lg');
+        @include u-font('sans', 'md');
         @include u-text('bold');
         a{
           @include u-text('no-underline');
-          @include u-text('black');
+          @include u-text('indigo-60');
         }
       }
       h5{
@@ -61,21 +66,26 @@
         @include u-text('light');
         @include u-measure(4);
       }
-
+      .authors{
+        @include u-margin-top('05');
+        @include u-margin-bottom(1);
+        @include u-display('inline-block');
+      }
 
       .meta{
         @include u-margin-top(1);
         @include u-font('sans', '3xs');
+
         .source{
-          @include u-text('semibold');
-          @include u-text('black');
+          @include u-margin-right(2);
+          @include u-text('medium');
+          @include u-text('indigo-60');
           @include u-text('no-underline');
-          img{
-            @include u-margin-right('05');
-            position: relative;
-            top:3px;
-            width: 16px;
-            height: 16px;
+          i{
+            @include u-text('gray-60');
+          }
+          em{
+            @include u-text('no-italic');
           }
         }
         .clicks{
@@ -84,7 +94,6 @@
           }
           @include u-width(10);
           @include u-display('inline-block');
-          @include u-text('center');
           @include u-text('gold-40v');
         }
         // Looking for more specifics on the styling?
@@ -99,33 +108,11 @@
           z-index: 2;
         }
       }
-
-      .authors{
-        @include u-margin-top('05');
-        @include u-margin-bottom(1);
-        @include u-display('inline-block');
-      }
-
-
-
     }
 
-    .eye{
-      @include u-text('indigo-80');
-      @include u-display('flex');
-      justify-content: center;
-      align-items: center;
-      @include u-text('center');
-      @include u-text('light');
-      @include u-font('sans', '2xs');
-      width: 6%;
-      transition: background-color .2s, color .2s;
-      span{
-        i{
-          @include u-display('block');
-        }
-      }
-    }
+
+
+
     // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
     position: relative;
     a span{
@@ -138,28 +125,23 @@
       z-index: 1;
     }
     &:hover{
-      // @include u-bg('gray-warm-2');
+      border:1px #cac9c0 solid;
+      border-bottom:1px #929285 solid;
       .content h3 a{
-        border-bottom:2px #ff580a solid;
+        border-bottom:2px #3d4076 solid;
       }
-      .eye{
-        @include u-bg('indigo-80');
-        @include u-text('white');
+      .source em{
+        border-bottom:1px #3d4076 solid;
       }
-      .topics a{
-        @include u-bg('orange-warm-20v');
-      }
-    }
-    &:first-child{
-      border-top:1px #cac9c0 solid;
     }
     &:last-child{
-      @include u-margin-bottom(0);
+      // @include u-margin-bottom(0);
     }
   }
+
   .pagination{
-    @include u-margin-y(3);
     @include add-list-reset;
+    @include u-margin-y(3);
     li{
       @include u-display('inline-block');
       @include u-text('center');

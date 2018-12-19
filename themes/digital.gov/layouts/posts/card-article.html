@@ -1,17 +1,20 @@
 <article class="card" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
   <div>
+
+    <div class="icon">
+      <img src="{{ "img/digit-50.png" | absURL }}" alt="Digital.gov">
+    </div>
+
     <div class="content">
       <h3><a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a></h3>
       <p class="deck">{{ .Params.deck | markdownify -}}</p>
+
       <p class="authors">{{ partial "core/get_authors_short" . -}}</p>
       <div class="meta">
-        <a class="source" href="{{- .Permalink -}}" title="Digital.gov"><img src="{{ "img/digit-16.png" | absURL }}" alt="">Digital.gov</a>
+        
         {{- partial "core/get_clicks" . -}}
         {{- partial "core/get_topics" . -}}
       </div>
-    </div>
-    <div class="eye">
-      <span><i class="far fa-eye"></i> view</span>
     </div>
   </div>
 

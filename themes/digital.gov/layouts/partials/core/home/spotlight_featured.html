@@ -3,14 +3,19 @@
 <section id="spotlight">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-12">
+      <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
         <header>
-          <h2>Spotlight & News</h2>
-          <p>A weekly round-up of news, ideas and interesting work from people in government</p>
-          <p class="spotlight"><a href="#" title="Sign-up for our Spotlight Newsletter"><i class="far fa-envelope"></i> Sign-up for our Spotlight Newsletter</a></p>
+          <h2>Spotlight</h2>
+          <p>A weekly round-up of news, case studies, and interesting work from people in government</p>
+          <p>
+            <a class="btn" href="#" title="Sign-up for our Spotlight Newsletter"><i class="fas fa-envelope"></i> Sign-up for our Newsletter</a>
+            <a class="btn" href="#" title=""><i class="fas fa-plus"></i>  Contribute to Spotlight</a>
+          </p>
         </header>
 
       </div>
+    </div>
+    <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
         <section class="article-list">
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
@@ -30,12 +35,15 @@
 
           {{- end -}}
         </section>
-        <a class="all-posts" href="" title="">See all</a>
       </div>
-
-      <footer>
-        <p>Have a case-study to share? Did your team recently launch something? <a href="" title=""><strong>Submit to Spotlight</strong></a> or send us an email <a href="mailto:digitalgov@gsa.gov">digitalgov@gsa.gov</a></p>
-      </footer>
+    </div>
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+        <footer>
+          <a class="btn" href="{{ "posts" | absURL }}" title="">See all Spotlight</a>
+          <p>Have a case-study to share? Did your team recently launch something?<br/><a href="" title=""><strong>Submit to Spotlight</strong></a> or send us an email <a href="mailto:digitalgov@gsa.gov">digitalgov@gsa.gov</a></p>
+        </footer>
+      </div>
     </div>
   </div>
 </section>

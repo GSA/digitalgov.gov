@@ -9,7 +9,7 @@
 		@include u-padding-top(1);
 		border-top: 1px #f0f0ec solid;
 		img{
-			border: 2px #6fbab3 solid;
+			border: 2px #aacdec solid;
 		}
 		.photo{
 			@include u-margin-right(1);
@@ -36,9 +36,11 @@
 
 	}
 	.author-short{
+		@include u-margin(0);
 		@include u-padding(0);
+		@include u-display('inline-block');
 		border:none;
-		@include u-text('light');
+		@include u-text('normal');
 		@include u-font('sans', '2xs');
 		img{
 			@include u-margin-right('05');
