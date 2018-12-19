@@ -28,11 +28,11 @@ topics:
 featured_image:
   uid: pif-card-alt
   alt:
-canonical: URL-GOES-HERE
+canonical: https://www.gsa.gov/blog/2018/12/17/Looking-Back-at-our-%E2%80%9CTour-of-Duty%E2%80%9D-in-American-Innovation-0
 
 ---
 
-_This post was orgiginally [published on GSA.gov](URL-GOES-HERE)_
+_This post was orgiginally [published on GSA.gov](https://www.gsa.gov/blog/2018/12/17/Looking-Back-at-our-%E2%80%9CTour-of-Duty%E2%80%9D-in-American-Innovation-0)_
 
 
 We have the best jobs in government, period. Each day we wake up empowered to solve critical issues facing public safety, national security, healthcare, and transportation.
