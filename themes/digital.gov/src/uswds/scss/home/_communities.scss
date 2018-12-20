@@ -12,8 +12,8 @@
       @include u-text('center');
       @include u-line-height('sans', 2);
       strong{
-        @include u-text('light');
-        @include u-text('mint-cool-40v');
+        @include u-text('semibold');
+        @include u-text('cyan-40v');
       }
     }
     a{
