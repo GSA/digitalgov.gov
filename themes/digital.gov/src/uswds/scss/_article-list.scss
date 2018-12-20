@@ -133,6 +133,15 @@
       .source em{
         border-bottom:1px #3d4076 solid;
       }
+      .topics{
+        a{
+          @include u-bg('orange-warm-10');
+          &:hover{
+            @include u-bg('orange-warm-20');
+          }
+        }
+
+      }
     }
     &:last-child{
       // @include u-margin-bottom(0);
