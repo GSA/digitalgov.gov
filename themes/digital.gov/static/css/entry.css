@@ -21,7 +21,17 @@
 .entry-head .breadcrumb p{
 	margin: 0;
 }
-
+.post .post-title{
+	margin:0 0 .2em 0;
+	line-height: 36px;
+}
+.post .deck{
+	margin:0 0 0 0;
+	font-size: 21px;
+	line-height: 30px;
+	color:#444;
+	font-weight: 200;
+}
 .entry-head .deck{
 	margin: 10px 0 25px 0;
 	font-size: 24px;
