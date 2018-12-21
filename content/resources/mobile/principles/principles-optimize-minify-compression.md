@@ -41,8 +41,6 @@ mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
 &#60; /ifModule&#62;
 </pre>
 
-(https://varvy.com/pagespeed/enable-compression.html)
-
 2. **Apache Server** — Enable the zip parameters in the .htaccess file. Below is an example:
 
 <pre>
@@ -56,7 +54,6 @@ AddOutputFilterByType DEFLATE application/rss+xml
 AddOutputFilterByType DEFLATE application/javascript
 AddOutputFilterByType DEFLATE application/x-javascript
 </pre>
-(https://varvy.com/pagespeed/enable-compression.html)
 
 3. **NGINX Server** — Enable compression by adding the following code to your config file:
 
@@ -67,7 +64,8 @@ gzip_http_version 1.0;
 gzip_proxied any;
 gzip_min_length 1100;
 gzip_buffers 16 8k;
-gzip_types text/plain text/html text/css application/x-javascript text/xml application/xml application/xml+rss text/javascript;
+gzip_types text/plain text/html text/css application/x-javascript 
+text/xml application/xml application/xml+rss text/javascript;
 
 &#35; Disable for IE < 6 because there are some known problems
 gzip_disable "MSIE [1-6].(?!.*SV1)";
@@ -75,8 +73,6 @@ gzip_disable "MSIE [1-6].(?!.*SV1)";
 &#35; Add a vary header for downstream proxies to avoid sending cached gzipped files to IE6
 gzip_vary on;
 </pre>
-
-(https://varvy.com/pagespeed/enable-compression.html)
 
 4. **Litespeed Server** — Under the server's configuration section, go to “Tuning” and make sure that “enable compression” is on.
 
@@ -86,9 +82,9 @@ One final word of caution: proxy servers and anti-virus software may disable com
 
 ### References
 
-- Enable Compression | https://developers.google.com/speed/docs/insights/EnableCompression
-- Enable Gzip Compression | https://varvy.com/pagespeed/enable-compression.html
-- How to Fix PageSpeed Insights Enable Compression in WordPress | https://www.proteusthemes.com/help/fix-pagespeed-insights-enable-compression-wordpress/
+- **Enable Compression** | https://developers.google.com/speed/docs/insights/EnableCompression
+- **Enable Gzip Compression** | https://varvy.com/pagespeed/enable-compression.html
+- **How to Fix PageSpeed Insights Enable Compression in WordPress** | https://www.proteusthemes.com/help/fix-pagespeed-insights-enable-compression-wordpress/
 
 ## Minify Resources
 
@@ -152,9 +148,9 @@ Each file type requires a different process to minimize the file, and there are 
 
 ### References
 
-- Minify Resources (HTML, CSS, and JavaScript) | https://developers.google.com/speed/docs/insights/MinifyResources
-- YSlow: Minify JavaScript and CSS | https://gtmetrix.com/minify-javascript-and-css.html
-- What is Minification and How to Minify CSS, JS and HTML? | https://www.webnots.com/what-is-minification-of-css-javascript-and-html/
+- **Minify Resources (HTML, CSS, and JavaScript)** | https://developers.google.com/speed/docs/insights/MinifyResources
+- **YSlow: Minify JavaScript and CSS** | https://gtmetrix.com/minify-javascript-and-css.html
+- **What is Minification and How to Minify CSS, JS and HTML?** | https://www.webnots.com/what-is-minification-of-css-javascript-and-html/
 
 ## Optimize Images
 
@@ -176,20 +172,20 @@ While image optimization is still more of an “art” than a science, the follo
    - Never use [BMP](https://en.wikipedia.org/wiki/BMP_file_format) or [TIFF](https://en.wikipedia.org/wiki/TIFF) image files
  - **Save the Image Using Proper Dimensions** - Save the image in the desired size to reduce the file size instead of using HTML or CSS to resize your images. This will improve the rendering time. There are many programs available to resize images—from the simple [GNU Image Manipulation Program](https://www.gimp.org/) (GIMP), to more advanced software programs such as Photoshop, Illustrator, or Fireworks.
  - **Optimize the Image** - Crop your images to remove any whitespace around the image, and use CSS to provide padding. Image optimization is done using one of many tools depending on the format. The following are some examples of image compression tools.
-   - Multiple File Types
-     - ImageMagick - https://www.imagemagick.org/script/convert.php
-   - JPEG
-     - JPEE 9 - http://jpegclub.org/
-     - jpegoptim - http://freshmeat.sourceforge.net/projects/jpegoptim/
-   - PNG
-     - OptiPNG: Advanced PNG Optimizer - http://optipng.sourceforge.net/
-     - PNGOUT - http://www.advsys.net/ken/util/pngout.htm
+   - **Multiple File Types** 
+    - ImageMagick https://www.imagemagick.org/script/convert.php 
+   - **JPEG** 
+    - JPEE 9 http://jpegclub.org/ 
+    - jpegoptim http://freshmeat.sourceforge.net/projects/jpegoptim/ 
+   - **PNG** 
+    - OptiPNG: Advanced PNG Optimizer http://optipng.sourceforge.net/ 
+    - PNGOUT http://www.advsys.net/ken/util/pngout.htm 
 
 ### References
 
-- Optimize Images | https://developers.google.com/speed/docs/insights/OptimizeImages
-- PageSpeed: Optimize Images | https://gtmetrix.com/optimize-images.html
-- Image Optimization 101 – Optimize Blog Post Images For SEO | https://www.bloggertipstricks.com/image-optimization-seo.html
+- **Optimize Images** | https://developers.google.com/speed/docs/insights/OptimizeImages
+- **PageSpeed: Optimize Images** | https://gtmetrix.com/optimize-images.html
+- **Image Optimization 101 – Optimize Blog Post Images For SEO** | https://www.bloggertipstricks.com/image-optimization-seo.html
 
 ## Optimize CSS Delivery
 
@@ -222,14 +218,15 @@ The following are some recommendations on how to streamline your CSS files to pr
 
 Once you have your site and pages ready, run it against these two sites, which will help you assess the performance of your CSS sheets:
 
-- CSS Delivery Tool https://varvy.com/tools/css-delivery/
-- Inline CSS Scripts https://www.giftofspeed.com/inline-your-css-code/
+- CSS Delivery Tool https://varvy.com/tools/css-delivery/ 
+- Inline CSS Scripts https://www.giftofspeed.com/inline-your-css-code/ 
 
 ### References
 
-- Optimize CSS Delivery | https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
-- Optimize CSS Delivery | https://varvy.com/pagespeed/optimize-css-delivery.html
-- CSS Optimized Test | https://www.giftofspeed.com/css-delivery/
+- **CSS Optimized Test** | https://www.giftofspeed.com/css-delivery/ 
+- **Optimize CSS Delivery** 
+  - https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery 
+  - https://varvy.com/pagespeed/optimize-css-delivery.html 
 
 ## Prioritize Visible Content
 
@@ -247,9 +244,10 @@ In addition to the other performance recommendations above (such as enabling com
 
 ### References
 
-- Reduce the Size of the Above the fold Content | https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent
-- Prioritize Visible Content | https://varvy.com/pagespeed/prioritize-visible-content.html
-- Prioritize Visible Content | http://web-design-eastbourne.co.uk/blog/prioritize-visible-content/
+- **Reduce the Size of the Above the fold Content** | https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent
+- **Prioritize Visible Content** 
+  - https://varvy.com/pagespeed/prioritize-visible-content.html
+  - http://web-design-eastbourne.co.uk/blog/prioritize-visible-content/
 
 ---
 
