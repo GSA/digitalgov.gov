@@ -6,7 +6,7 @@ summary: "This week's addition to the Eight Principles of Mobile-Friendliness gu
 type: guide
 ---
 
-_This week we will talk about making page resources smaller to improve the rendering of the page._  
+This week we will talk about making page resources smaller to improve the rendering of the page.   
 
 The incorrect sizing and placement of objects on a site may lead to longer page load times and mobile unfriendliness. Mobile devices are getting faster with every new release, however they still rely on the mobile network to get the information to the device and we have all been in locations where we have little to no bars of connectivity. If we can reduce the size of what is being sent over the network, the page will load faster. The following are 5 solutions to make your page content lighter:
 
