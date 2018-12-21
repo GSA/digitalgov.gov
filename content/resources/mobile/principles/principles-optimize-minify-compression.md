@@ -125,9 +125,7 @@ The following is the CSS file text that has not been minimized:
 
 The following is the CSS file text minimized, notice the difference, no white space and everything on one line:
 
-<pre>
-#slider ul {position:relative; margin:0; padding:0; height:200px; list-style:none;} #slider ul li {position:relative; display:block; float:left; margin:0; padding:0; width:500px; height:300px; background:#ccc; text-align:center; line-height:300px;}
-</pre>
+`#slider ul {position:relative; margin:0; padding:0; height:200px; list-style:none;} #slider ul li {position:relative; display:block; float:left; margin:0; padding:0; width:500px; height:300px; background:#ccc; text-align:center; line-height:300px;} `
 
 **Solution: Use tools to minify CSS, JavaScript, and HTML files!**
 
@@ -173,13 +171,13 @@ While image optimization is still more of an “art” than a science, the follo
  - **Save the Image Using Proper Dimensions** - Save the image in the desired size to reduce the file size instead of using HTML or CSS to resize your images. This will improve the rendering time. There are many programs available to resize images—from the simple [GNU Image Manipulation Program](https://www.gimp.org/) (GIMP), to more advanced software programs such as Photoshop, Illustrator, or Fireworks.
  - **Optimize the Image** - Crop your images to remove any whitespace around the image, and use CSS to provide padding. Image optimization is done using one of many tools depending on the format. The following are some examples of image compression tools.
    - **Multiple File Types** 
-    - ImageMagick https://www.imagemagick.org/script/convert.php 
+     - ImageMagick https://www.imagemagick.org/script/convert.php 
    - **JPEG** 
-    - JPEE 9 http://jpegclub.org/ 
-    - jpegoptim http://freshmeat.sourceforge.net/projects/jpegoptim/ 
+     - JPEE 9 http://jpegclub.org/ 
+     - jpegoptim http://freshmeat.sourceforge.net/projects/jpegoptim/ 
    - **PNG** 
-    - OptiPNG: Advanced PNG Optimizer http://optipng.sourceforge.net/ 
-    - PNGOUT http://www.advsys.net/ken/util/pngout.htm 
+     - OptiPNG: Advanced PNG Optimizer http://optipng.sourceforge.net/ 
+     - PNGOUT http://www.advsys.net/ken/util/pngout.htm 
 
 ### References
 
