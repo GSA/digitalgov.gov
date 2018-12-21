@@ -21,7 +21,7 @@ The incorrect sizing and placement of objects on a site may lead to longer page 
 
 **Issue: Large page files, which result in poor rendering performance** 
 
-Enabling file compression typically saves around 50 to 70 percent of the file size, and may reduce the size of page resources by up to 90 percent. This will significantly reduce the time it takes to download the resource, and improve the time to first render the page. A good standard practice is to use gzip since all modern browsers support gzip compression for HTTP requests.
+Enabling file compression typically saves around 50 to 70 percent of the file size, and may reduce the size of page resources by up to 90 percent. This will significantly reduce the time it takes to download the resource, and improve the time to first render the page. A good standard practice is to use gzip since all modern browsers support gzip compression for HTTP requests. 
  
 **Solution: Use gzip on compressible resources!**
 
@@ -79,7 +79,7 @@ gzip_vary on;
 
 (https://varvy.com/pagespeed/enable-compression.html)
 
-4. **Litespeed Server** — Under the server's configuration section, go to “Tuning” and make sure that “enable compression” is on.  
+4. **Litespeed Server** — Under the server's configuration section, go to “Tuning” and make sure that “enable compression” is on. 
 
 You can quickly a test with a gzip compression tool, such as https://varvy.com/tools/gzip/. 
 
@@ -178,13 +178,13 @@ While image optimization is still more of an “art” than a science, the follo
  - **Save the Image Using Proper Dimensions** - Save the image in the desired size to reduce the file size instead of using HTML or CSS to resize your images. This will improve the rendering time. There are many programs available to resize images—from the simple [GNU Image Manipulation Program](https://www.gimp.org/) (GIMP), to more advanced software programs such as Photoshop, Illustrator, or Fireworks. 
  - **Optimize the Image** - Crop your images to remove any whitespace around the image, and use CSS to provide padding. Image optimization is done using one of many tools depending on the format. The following are some examples of image compression tools. 
    - Multiple File Types
-     * ImageMagick - https://www.imagemagick.org/script/convert.php
+     - ImageMagick - https://www.imagemagick.org/script/convert.php 
    - JPEG
-     * JPEE 9 - http://jpegclub.org/
-     * jpegoptim - http://freshmeat.sourceforge.net/projects/jpegoptim/ 
+     - JPEE 9 - http://jpegclub.org/
+     - jpegoptim - http://freshmeat.sourceforge.net/projects/jpegoptim/ 
    - PNG
-     * OptiPNG: Advanced PNG Optimizer - http://optipng.sourceforge.net/ 
-     * PNGOUT - http://www.advsys.net/ken/util/pngout.htm
+     - OptiPNG: Advanced PNG Optimizer - http://optipng.sourceforge.net/ 
+     - PNGOUT - http://www.advsys.net/ken/util/pngout.htm 
 
 ### References 
 
