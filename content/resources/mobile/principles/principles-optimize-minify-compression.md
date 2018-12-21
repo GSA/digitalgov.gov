@@ -26,7 +26,7 @@ Enabling file compression typically saves around 50 to 70 percent of the file si
 
 Your web server has gzip compression enabled (but may be configured differently depending on the specific server). The following four examples, [outlined in a blog post on Varvy.com](https://varvy.com/pagespeed/enable-compression.html), are ways to enable gzip on some of the most common servers.
 
-1. **General .htaccess** — Enable the zip parameters in the `.htaccess` file. Below is an example:
+ 1. **General .htaccess** — Enable the zip parameters in the `.htaccess` file. Below is an example:
 
 <pre>
 &#60;ifModule mod_gzip.c&#62;
@@ -41,7 +41,7 @@ mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
 &#60; /ifModule&#62;
 </pre>
 
-2. **Apache Server** — Enable the zip parameters in the .htaccess file. Below is an example:
+ 2. **Apache Server** — Enable the zip parameters in the .htaccess file. Below is an example:
 
 <pre>
 AddOutputFilterByType DEFLATE text/plain
@@ -55,7 +55,7 @@ AddOutputFilterByType DEFLATE application/javascript
 AddOutputFilterByType DEFLATE application/x-javascript
 </pre>
 
-3. **NGINX Server** — Enable compression by adding the following code to your config file:
+ 3. **NGINX Server** — Enable compression by adding the following code to your config file:
 
 <pre>
 gzip on;
@@ -70,11 +70,12 @@ text/xml application/xml application/xml+rss text/javascript;
 &#35; Disable for IE < 6 because there are some known problems
 gzip_disable "MSIE [1-6].(?!.*SV1)";
 
-&#35; Add a vary header for downstream proxies to avoid sending cached gzipped files to IE6
+&#35; Add a vary header for downstream proxies to avoid sending cached 
+gzipped files to IE6
 gzip_vary on;
 </pre>
 
-4. **Litespeed Server** — Under the server's configuration section, go to “Tuning” and make sure that “enable compression” is on.
+ 4. **Litespeed Server** — Under the server's configuration section, go to “Tuning” and make sure that “enable compression” is on.
 
 You can quickly a test with a gzip compression tool, such as https://varvy.com/tools/gzip/.
 
