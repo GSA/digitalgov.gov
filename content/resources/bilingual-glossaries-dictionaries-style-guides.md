@@ -1,8 +1,8 @@
 ---
-url: /resources/spanish-language-style-guide-and-glossaries/
+url: /resources/bilingual-glossaries-dictionaries-style-guides/
 date: 2014-06-11 9:55:09 -0400
-title: 'Spanish Language Style Guides and Glossaries'
-summary: 'Spanish Language Style Guides are resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, and glossaries to standardize the use of Spanish across government.'
+title: 'Bilingual Glossaries, Dictionaries, And Style Guides'
+summary: 'Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government.'
 type: guide
 deck: 'Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.'
 authors:
@@ -38,14 +38,14 @@ FHFA (along with partner agencies) has created a searchable [English-Spanish Glo
 
 #### Internal Revenue Service (IRS) 
 
-The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS** is currently available for download in six languages: 
+The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS** is currently available for download in six languages (all were last revised in August, 2018): 
 
-Publication 850 (EN-CN-S): [English-Chinese [Simplified]](https://www.irs.gov/pub/irs-pdf/p850encs.pdf) (1.5 MB PDF, 18 pages, Revised August 2018) 
-Publication 850 (EN-CN-T): [English-Chinese [Traditional]](https://www.irs.gov/pub/irs-pdf/p850enct.pdf) (1.5 MB PDF, 18 pages, Revised August 2018) 
-Publication 850 (EN-KR): [English-Korean](https://www.irs.gov/pub/irs-pdf/p850enkr.pdf) (1.4 MB PDF, 20 pages, Revised August 2018) 
-Publication 850 (EN-RU): [English-Russian](https://www.irs.gov/pub/irs-pdf/p850enru.pdf) (1.4 MB PDF, 25 pages, Revised August 2018) 
-Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages, Revised August 2018) 
-Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages, Revised August 2018)
+* Publication 850 (EN-CN-S): [English-Chinese [Simplified]](https://www.irs.gov/pub/irs-pdf/p850encs.pdf) (1.5 MB PDF, 18 pages) 
+* Publication 850 (EN-CN-T): [English-Chinese [Traditional]](https://www.irs.gov/pub/irs-pdf/p850enct.pdf) (1.5 MB PDF, 18 pages) 
+* Publication 850 (EN-KR): [English-Korean](https://www.irs.gov/pub/irs-pdf/p850enkr.pdf) (1.4 MB PDF, 20 pages) 
+* Publication 850 (EN-RU): [English-Russian](https://www.irs.gov/pub/irs-pdf/p850enru.pdf) (1.4 MB PDF, 25 pages) 
+* Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages) 
+* Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages)
 
 
 ### Health and Well-being
@@ -70,11 +70,11 @@ This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/eng
 
 #### Environmental Protection Agency (EPA) 
 
-The EPA’s [Glosario ambiental bilingüe](https://espanol.epa.gov/espanol/glosario-ambiental-bilingue) has a wealth terminology, abbreviations and acronyms used by many of the EPA’s environmental programs.
+The EPA’s [Glosario ambiental bilingüe](https://espanol.epa.gov/espanol/glosario-ambiental-bilingue) has a wealth of terminology, abbreviations, and acronyms used by many of the EPA’s environmental programs.
 
 #### San Francisco City and County 
 
-The [Translation Glossary page](https://sfenvironment.org/download/translation-glossary) provides link to download a Microsoft Excel.xlsx file for glossaries in three languages: Spanish, Vietnamese, and Filipino (Tagalog).
+The [Translation Glossary page](https://sfenvironment.org/download/translation-glossary) provides a link to download a Microsoft Excel.xlsx file for glossaries in three languages: Spanish, Vietnamese, and Filipino (Tagalog).
 
 
 ### Education 
@@ -103,7 +103,7 @@ A practical guide on the use best practices to create bilingual digital content 
 
 #### The City and County of San Francisco 
 
-Filipino Translation Style Guide https://drive.google.com/file/d/0B5nsVoOnh9x8Ul9uYzNSRDlXY2M/view 
+The [Filipino Translation Style Guide](https://drive.google.com/file/d/0B5nsVoOnh9x8Ul9uYzNSRDlXY2M/view) provides guidelines for translation in the Filipino language for the City and County of San Francisco. 
 
 ## Additional Resources 
 
