@@ -49,18 +49,7 @@ For more information, visit [FedBizOpps.gov](https://www.fbo.gov/index.php?s=opp
 
 **Now Open for Public Comments: Federal Grants Management Draft Data Standards** 
 
-The Results-Oriented Accountability for Grants CAP Goal Team is excited to release the **draft** Data Standards for public comment. The public comment period will stay open for 60 days beginning **November 16, 2018**, through **January 16, 2019** as noted on the [Federal Register](https://www.federalregister.gov/documents/2018/11/16/2018-24927/draft-federal-grants-management-data-standards-for-feedback). You can submit comments through the [Grants Feedback Site](https://grantsfeedback.cfo.gov/) powered by GitHub.
-
-Do you have questions about the process for giving feedback? Call into our Office Hours hosted by the Results-Oriented for Accountability Grants CAP Goal Team to ask any questions you may have: 
-
- - **November 29**, Time 11:30 am - 12:30 pm 
- - **December 6**, Time 1:00 pm - 2:00 pm 
- - **December 13**, Time 4:00 pm - 5:00 pm
-
-To join a virtual Office Hour Session: 
-
- - Dial into: 1-866-928-2008. When prompted, enter: 8514834# 
- - Submit questions via live chat at: [www.meet.gsa.gov/grantsfibf](www.meet.gsa.gov/grantsfibf)
+The Results-Oriented Accountability for Grants CAP Goal Team is excited to release the **draft** Data Standards for public comment. The public comment period will stay open for 60 days beginning **November 16, 2018**, through **January 16, 2019** as noted on the [Federal Register](https://www.federalregister.gov/documents/2018/11/16/2018-24927/draft-federal-grants-management-data-standards-for-feedback). You can submit comments through the [Grants Feedback Site](https://grantsfeedback.cfo.gov/) powered by GitHub. 
 
 ## Key resources
 
