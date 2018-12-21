@@ -64,7 +64,7 @@ The group also researches outreach opportunities such as participating in traini
 ### Getting Started
 - [Top 10 Best Practices for Multilingual Websites](https://www.digitalgov.gov/resources/top-10-best-practices-for-multilingual-websites/)
 - [Agencias y Departamentos del Gobierno Federal](https://gobierno.usa.gov/agencias-federales/a)
-- [Bilingual Glossaries, Dictionaries, And Style Guides](https://www.digitalgov.gov/resources/bilingual-glossaries-dictionaries-style-guides/)
+- [Bilingual Glossaries, Dictionaries, and Style Guides](https://www.digitalgov.gov/resources/bilingual-glossaries-dictionaries-style-guides/)
 - [Accessibility Editorial Guidelines for Videos](https://www.digitalgov.gov/2012/08/01/accessibility-editorial-guidelines-for-youtube/)
 - [Lost in Translation](https://www.digitalgov.gov/2012/10/01/automated-translation-good-solution-or-not/)
 

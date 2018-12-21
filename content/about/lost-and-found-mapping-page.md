@@ -346,11 +346,11 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
 
   <tr>
     <td style="width: 50%;text-align: left;vertical-align: top">
-      Bilingual Glossaries, Dictionaries, And Style Guides<br /> howto.gov/web-content/multilingual/spanish-guide
+      Bilingual Glossaries, Dictionaries, and Style Guides<br /> howto.gov/web-content/multilingual/spanish-guide
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Bilingual Glossaries, Dictionaries, And Style Guides" href="{{< link "bilingual-glossaries-dictionaries-style-guides.md" >}}>Bilingual Glossaries, Dictionaries, And Style Guides</a>
+      <a title="Bilingual Glossaries, Dictionaries, and Style Guides" href="{{< link "bilingual-glossaries-dictionaries-style-guides.md" >}}>Bilingual Glossaries, Dictionaries, and Style Guides</a>
     </td>
   </tr>
 
