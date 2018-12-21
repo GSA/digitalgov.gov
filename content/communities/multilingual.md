@@ -64,7 +64,7 @@ The group also researches outreach opportunities such as participating in traini
 ### Getting Started
 - [Top 10 Best Practices for Multilingual Websites](https://www.digitalgov.gov/resources/top-10-best-practices-for-multilingual-websites/)
 - [Agencias y Departamentos del Gobierno Federal](https://gobierno.usa.gov/agencias-federales/a)
-- [Spanish Language Style Guide and Glossaries](https://www.digitalgov.gov/resources/spanish-language-style-guide-and-glossaries/)
+- [Bilingual Glossaries, Dictionaries, and Style Guides](https://www.digitalgov.gov/resources/bilingual-glossaries-dictionaries-style-guides/)
 - [Accessibility Editorial Guidelines for Videos](https://www.digitalgov.gov/2012/08/01/accessibility-editorial-guidelines-for-youtube/)
 - [Lost in Translation](https://www.digitalgov.gov/2012/10/01/automated-translation-good-solution-or-not/)
 
@@ -74,4 +74,3 @@ The group also researches outreach opportunities such as participating in traini
 - [Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future](https://www.digitalgov.gov/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/)
 - [Persona Development Case Study: NCI and Spanish Language Outreach](https://www.digitalgov.gov/2015/03/02/persona-development-case-study-nci-and-spanish-language-outreach/)
 - [More on Multilingual »](https://www.digitalgov.gov/tag/multilingual/)
-  
