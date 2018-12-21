@@ -18,11 +18,11 @@ The incorrect sizing and placement of objects on a site may lead to longer page 
 
 ## Enable Compression
 
-**Issue: Large page files, which result in poor rendering performance**
+### Issue: Large page files, which result in poor rendering performance
 
 Enabling file compression typically saves around 50 to 70 percent of the file size, and may reduce the size of page resources by up to 90 percent. This will significantly reduce the time it takes to download the resource, and improve the time to first render the page. A good standard practice is to use gzip since all modern browsers support gzip compression for HTTP requests.
 
-**Solution: Use gzip on compressible resources!**
+### Solution: Use gzip on compressible resources!
 
 Your web server has gzip compression enabled (but may be configured differently depending on the specific server). The following four examples, [outlined in a blog post on Varvy.com](https://varvy.com/pagespeed/enable-compression.html), are ways to enable gzip on some of the most common servers.
 
@@ -89,7 +89,7 @@ One final word of caution: proxy servers and anti-virus software may disable com
 
 ## Minify Resources
 
-**Issue: Large CSS, JavaScript, and HTML Files Increase Download Speeds**
+### Issue: Large CSS, JavaScript, and HTML Files Increase Download Speeds
 
 To improve performance CSS, JavaScript, and HTML files should be as lean as possible. Minification is the process of removing unnecessary or redundant data, unnecessary spaces, formatting and comments from the files, without affecting how the resource is processed by the browser - e.g., code comments and formatting, removing unused code, and using shorter variable and function names. This in turn reduces the file size and potentially increases the download speed of the file to the browser.
 
@@ -128,7 +128,7 @@ The following is the CSS file text minimized, notice the difference, no white sp
 
 `#slider ul {position:relative; margin:0; padding:0; height:200px; list-style:none;} #slider ul li {position:relative; display:block; float:left; margin:0; padding:0; width:500px; height:300px; background:#ccc; text-align:center; line-height:300px;} `
 
-**Solution: Use tools to minify CSS, JavaScript, and HTML files!**
+### Solution: Use tools to minify CSS, JavaScript, and HTML files!
 
 Each file type requires a different process to minimize the file, and there are many tools available to minify each file type. The following are some examples.
 
@@ -153,7 +153,7 @@ Each file type requires a different process to minimize the file, and there are 
 
 ## Optimize Images
 
-**Issue: Image files are too large and impact performance**
+### Issue: Image files are too large and impact performance
 
 To improve performance, images should be as lean as possible. We often create or save beautiful colorful images to our site not understanding that images often account for most of the downloaded bytes on a page. Images hold data other than simply the pixels we see on the screen; this data increases the size of the image file, which in turn leads to longer load times as the image downloads.
 
@@ -161,7 +161,7 @@ Additionally, there are two forms of compression: Lossy and Lossless. The Lossle
 
 We choose to optimize images because 90 percent of most websites are graphics-dependent and therefore have a lot of image files. Leaving these images uncompressed and in the wrong format can drastically slow down your page load times.
 
-**Solution: Use tools to compress image files!**
+### Solution: Use tools to compress image files!
 
 While image optimization is still more of an “art” than a science, the following are three key considerations when optimizing an image:
 
@@ -188,7 +188,7 @@ While image optimization is still more of an “art” than a science, the follo
 
 ## Optimize CSS Delivery
 
-**Issue: Render-blocking style sheets results in slow page load times**
+### Issue: Render-blocking style sheets results in slow page load times
 
 For the browser to render a page it must first process all the style and layout information. However, the browser will block rendering until all external stylesheets are downloaded and processed, which may require multiple round trips and delay the time to first render.
 
@@ -201,7 +201,7 @@ In a perfect and uncomplicated world, CSS setup might look something like this:
 
 However, in practice, things are often more complicated, and each complication delays page rendering.
 
-**Solution: Streamline your CSS files to make them more efficient!**
+### Solution: Streamline your CSS files to make them more efficient!
 
 The following are some recommendations on how to streamline your CSS files to promote the fastest loading and rendering for the client:
 
@@ -229,11 +229,11 @@ Once you have your site and pages ready, run it against these two sites, which w
 
 ## Prioritize Visible Content
 
-**Issue: Users don’t need the entire page to load to start looking at the above the fold content.**  
+### Issue: Users don’t need the entire page to load to start looking at the above the fold content.
 
 Visible content—also referred to as, _[above the fold](https://en.wikipedia.org/wiki/Above_the_fold)_ (a newspaper term)—is the part of the screen that the user sees first, before they do any scrolling. Often this is the title and/or navigation menu. Users want to see a page load quickly. However, many web pages are fairly large and no user wants to wait for an entire page to load before they see any visible content. The bigger the page, the more network round-trips are required to fetch and to render the above-the-fold content of the page. Loading the visible content before the other elements of a page creates a much better user experience.
 
-**Solution: Prioritize and limit the size of the data needed to render the visible content or above the fold content of your page**
+### Solution: Prioritize and limit the size of the data needed to render the visible content or above the fold content of your page
 
 In addition to the other performance recommendations above (such as enabling compression, minifying resources, optimizing images, and optimizing CSS delivery), below are some additional recommendations you can use to prioritize and limit the size of your page to improve the visual content experience:
 
