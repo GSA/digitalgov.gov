@@ -14,12 +14,14 @@ tag:
   - multilingual
 featured_image: 
   uid: img
-  alt: 'text'
+  alt: 'A laptop keyboard with language keys and translate button.'
 ---
 
 You need to create new content—perhaps a website or another type of asset. It is at this point that you’d want to determine whether this content will also be used to communicate with audiences whose primary language is not English. 
 
-Knowing that this content will be produced in other languages will help you make choices that will aid the translation or transcreation process, and ensure that the content has the elements needed to have a successful adaptation for all intended audiences. Let’s consider the different content elements listed below:
+Knowing that this content will be produced in other languages will help you make choices that will aid the translation or transcreation process, and ensure that the content has the elements needed to have a successful adaptation for all intended audiences. Let’s consider the different content elements listed below. 
+
+[ADD IMAGE]
 
 ## Language Choice 
 
