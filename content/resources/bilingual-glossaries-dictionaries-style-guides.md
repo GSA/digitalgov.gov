@@ -96,7 +96,7 @@ The National Cancer Institute has a dictionary of cancer terms in English and Sp
 
 #### USAGov Bilingual Style Guide
 
-A practical guide on the use best practices to create bilingual digital content for USAGov and USAGov en Español. https://www.usa.gov/style-guide/table-of-contents
+The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents) is a practical guide on the best practices used to create bilingual digital content for [USAGov](https://www.usa.gov/) and [USAGov en Español](https://www.usa.gov/espanol/). 
 
 #### The City and County of San Francisco
 
