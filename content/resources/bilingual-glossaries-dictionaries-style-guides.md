@@ -45,8 +45,7 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 * Publication 850 (EN-KR): [English-Korean](https://www.irs.gov/pub/irs-pdf/p850enkr.pdf) (1.4 MB PDF, 20 pages) 
 * Publication 850 (EN-RU): [English-Russian](https://www.irs.gov/pub/irs-pdf/p850enru.pdf) (1.4 MB PDF, 25 pages) 
 * Publication 850 (EN-SP): [English-Spanish](https://www.irs.gov/pub/irs-pdf/p850.pdf) (1.5 MB PDF, 18 pages) 
-* Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages)
-
+* Publication 850 (EN-VN): [English-Vietnamese](https://www.irs.gov/pub/irs-pdf/p850envn.pdf) (1.3 MB PDF, 21 pages) 
 
 ### Health and Well-being
 
@@ -65,7 +64,6 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 
 This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html)  offers information ranging from states and days of the weeks to health. 
 
-
 ### Environment
 
 #### Environmental Protection Agency (EPA) 
@@ -76,7 +74,6 @@ The EPA’s [Glosario ambiental bilingüe](https://espanol.epa.gov/espanol/glosa
 
 The [Translation Glossary page](https://sfenvironment.org/download/translation-glossary) provides a link to download a Microsoft Excel.xlsx file for glossaries in three languages: Spanish, Vietnamese, and Filipino (Tagalog).
 
-
 ### Education 
 
 Below is a compilation of available resources from different education organizations. 
@@ -85,15 +82,14 @@ Below is a compilation of available resources from different education organizat
 - The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870). 
 - This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition. 
 
-
 ## Dictionary
 
 ### U.S. Department of Health and Human Services, National Institutes of Health
 
 The National Cancer Institute has a dictionary of cancer terms in English and Spanish. 
-https://www.cancer.gov/publications/dictionaries/cancer-terms
-https://www.cancer.gov/espanol/publicaciones/diccionario
 
+* English: https://www.cancer.gov/publications/dictionaries/cancer-terms 
+* Spanish: https://www.cancer.gov/espanol/publicaciones/diccionario 
 
 ## Multilingual Language Style Guides
 
