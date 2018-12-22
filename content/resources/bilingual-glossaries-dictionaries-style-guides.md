@@ -83,7 +83,7 @@ Below is a compilation of available resources from different education organizat
 - The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870).
 - This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition.
 
-## Dictionary
+## Dictionaries
 
 ### U.S. Department of Health and Human Services, National Institutes of Health
 
