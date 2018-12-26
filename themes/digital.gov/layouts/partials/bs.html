@@ -1,0 +1,68 @@
+<!-- Back Soon! — https://github.com/GSA/back-soon -->
+<script type="text/javascript">
+  document.onclick = function(e){
+    if(e.target.id == 'bs' || e.target.id == 'bs_close'){
+      bs.style.display = 'none';
+    }
+  };
+</script>
+<style media="screen">
+  #bs{
+    z-index: 99999;
+    background: rgba(0,0,0,.9);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+  }
+  #bs div{
+    position: absolute;
+    top: 1.5em;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding:2em 2em 2.5em 2em;
+    background: #fff;
+    width: 90%;
+    box-sizing: border-box;
+    color:#000;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  #bs span{background: #FFC116;}
+  #bs a{
+    color:blue;
+  }
+  #bs_close{
+    margin-top: 15px;
+    padding: 10px 15px;
+    border:2px solid blue;
+    display: inline-block;
+    font-weight: bold;
+  }
+  #bs p{
+    margin-top: 0;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #bs .bs_usa{
+    font-size: 18px;
+    line-height: 24px;
+  }
+  @media only screen and (min-width: 600px) {
+  	#bs div{
+      padding: 2.5em 2.5em 3em 2.5em;
+      top: 5em;
+      width: 600px;
+    }
+  }
+</style>
+
+<div id="bs">
+  <div>
+    <p><strong><span>Due to a lapse in government appropriations</span>, information on the Digital.gov website may not be up to date and we will not be able to respond to inquiries until appropriations are enacted.</strong></p>
+    <a href="#" title="Close" id="bs_close">Continue to digital.gov »</a>
+  </div>
+</div>
