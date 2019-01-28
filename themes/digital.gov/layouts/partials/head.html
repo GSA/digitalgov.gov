@@ -161,9 +161,6 @@
     editpathURL      = {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $.File.Path }};
   </script>
 
-  {{/* Back soon! */}}
-  {{ partial "bs.html" . }}
 
   {{ partial "head--custom-css.html" . }}
-
 </head>
