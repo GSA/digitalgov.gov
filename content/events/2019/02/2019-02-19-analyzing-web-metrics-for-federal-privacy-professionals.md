@@ -13,6 +13,8 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-webinar-for-federal-privacy-professionals-registration-53600065238
 youtube_id: bYkOqGiPXKE
+aliases:
+  - /event/2019/01/29/analyzing-web-metrics-for-federal-privacy-professionals/
 
 ---
 
