@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-date: 2019-02-19 14:00:00 -0500
-end_date: 2019-02-19 15:00:00 -0500
+date: 2019-02-19 15:00:00 -0500
+end_date: 2019-02-19 16:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-webinar-for-federal-privacy-professionals-registration-53600065238
@@ -17,7 +17,7 @@ youtube_id: bYkOqGiPXKE
 ---
 
 ```
-**NOTE** — Due to the government shutdown, this event has been moved to Tuesday, February 19, 2019
+NOTE — Due to the government shutdown, this event has been moved to Tuesday, February 19, 2019
 ```
 
 _For this event, the [Digital Analytics Program](https://digital.gov/dap/) (DAP) has partnered with the fine folks who run the [Federal Privacy Council](https://www.fpc.gov/)'s Tech Tuesday Series to teach us how to measure, analyze, and improve experiences for users visiting privacy pages on your agency websites._
