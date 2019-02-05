@@ -18,10 +18,6 @@ aliases:
 
 ---
 
-```
-NOTE — Due to the government shutdown, this event has been moved to Tuesday, February 19, 2019
-```
-
 _For this event, the [Digital Analytics Program](https://digital.gov/dap/) (DAP) has partnered with the fine folks who run the [Federal Privacy Council](https://www.fpc.gov/)'s Tech Tuesday Series to teach us how to measure, analyze, and improve experiences for users visiting privacy pages on your agency websites._
 
 * Do you ever wonder how many visitors your agency's privacy website ([example](https://www.gsa.gov/reference/gsa-privacy-program)) gets, what they search for, how long they stay, and if they are mobile users?
