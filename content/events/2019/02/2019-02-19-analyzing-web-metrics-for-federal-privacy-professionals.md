@@ -28,4 +28,4 @@ Join us to learn the answers to all those questions&mdash;and some of yours!
 
 In this webinar, [Tim Lowden](https://digital.gov/authors/tlowden/), Program Manager for [DAP](https://digital.gov/dap/), will give a brief introduction of the initiative itself, and give you insight into how you can use the DAP Google Analytics account to view data about the privacy-related pages on your website.
 
-(View live captioning for this event here)[https://www.captionedtext.com/client/event.aspx?EventID=3914557&CustomerID=321].
+(View live captioning for this event)[https://www.captionedtext.com/client/event.aspx?EventID=3914557&CustomerID=321].
