@@ -42,17 +42,18 @@ If the certificate is set to expire in the next three months (or the possible le
 ### Have Questions?
 [This overview on certificates from CIO.gov](https://https.cio.gov/certificates/) is one of the best resources for people in government who are wanting to learn more about getting SSL certificates right.
 
-**Q. Are security certificates and SSL certificates the same thing?**
+#### Q. Are security certificates and SSL certificates the same thing?
 Yep.
 
-**Q. What do certificates do exactly?**
+#### Q. What do certificates do exactly?
 [From CIO.gov](https://https.cio.gov/certificates/) —
 > "Websites use certificates to create an HTTPS connection. When signed by a trusted certificate authority (CA), certificates give confidence to browsers that they are visiting the “real” website."
 
-**Q. Can certificates be set to auto-renew?**
+#### Q. Can certificates be set to auto-renew?
 Yes, you should talk to your IT department about moving in the direction of auto-renewing certificates.
 
-We generally recommend that the certificates you do purchase be low cost, automatable, short-lived, and published to Certificate Transparency logs.  Furthermore, all certificates should be free of the following:
+We generally recommend that any certificate you do purchase be low cost, automatable, short-lived, and published to Certificate Transparency logs.  Furthermore, all certificates should be free of the following:
+
 - Domain name mismatch, including Subject Alternative Name (SAN) errors
 - Certiﬁcate not yet valid
 - Certiﬁcate expired
@@ -62,8 +63,6 @@ We generally recommend that the certificates you do purchase be low cost, automa
 - Use of a revoked certiﬁcate
 - Insecure certiﬁcate signature (MD2 or MD5 or SHA-1 [for new certificates])
 - Insecure key
-
-Yes! You should definitely talk to your IT department about moving in the direction of auto-renewing your certificates. The best method is to use the free, open-source tool “[Let’s Encrypt](https://letsencrypt.org/)”. Once implemented on your server, it auto-renews your certificate every three months — for free.
 
 At the GSA, we use a free, open-source option called “[Let’s Encrypt](https://letsencrypt.org/)”. Once implemented on your server, it auto-renews your certificate every three months.  And if you host your government site on [cloud.gov](https://cloud.gov/), [search.gov](https://search.gov/) or [federalist.18f.gov](https://federalist.18f.gov/), your certificates will automatically renewed.
 
