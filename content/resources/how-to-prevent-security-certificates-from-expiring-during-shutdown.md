@@ -25,9 +25,8 @@ This is fairly easy:
 
 - Go to [https://transparencyreport.google.com/https/certificates?hl=en](https://transparencyreport.google.com/https/certificates?hl=en)
 - Scroll down to “Search certificates by hostname” and enter your parent domain
-  - ✓ Include certificates that have expired
-  - ✓ Include subdomains
-  - Press ‘enter’
+- Check both boxes ✓ for "Include certificates that have expired" and "Include subdomains"
+- Press ‘enter’
 - Note the “Valid to” date in your new domains spreadsheet
 
 _Or you can also ask the person who regularly purchases your SSL certificates. They might keep a log._
