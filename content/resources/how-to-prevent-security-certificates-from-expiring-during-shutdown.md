@@ -24,10 +24,11 @@ You are going to need to reach out to the person/people who usually buys your ce
 This is fairly easy:
 
 - Go to [https://transparencyreport.google.com/https/certificates?hl=en](https://transparencyreport.google.com/https/certificates?hl=en)
-- Scroll down to “Search certificates by hostname” and enter your parent domain
-- Check both boxes ✓ for "Include certificates that have expired" and "Include subdomains"
-- Press ‘enter’
-- Note the “Valid to” date in your new domains spreadsheet
+- Scroll down to “Search certificates by hostname” and enter your parent domain in the search box
+- Check both boxes for "Include certificates that have expired" and "Include subdomains" and click the magnifying glass icon on the right side of the search box
+- In the results, the “Valid to” column is the date that your certificate expires
+- Add this date your new domains spreadsheet
+
 
 _Or you can also ask the person who regularly purchases your SSL certificates. They might keep a log._
 
