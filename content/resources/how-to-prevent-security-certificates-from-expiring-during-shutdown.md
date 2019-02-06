@@ -18,23 +18,24 @@ The easiest way to do this is to:
 Send them your new spreadsheet and have them mark which domains and sub-domains are auto-renewing.
 
 ### 3. Figure out who is responsible for purchasing security (SSL) certificates in your organization.
-You are going to need to reach out to them.
-_NOTE: The person/people who usually buys your certificates (someone with purchasing authority) are usually different from the people who upload them (usually someone in IT)._
+You are going to need to reach out to the person/people who usually buys your certificates _(someone with purchasing authority)_. They are usually different from the people who upload your certificates _(usually someone in IT)_.
 
 ### 4. Identify when your SSL certificates will expire
 This is fairly easy:
 
 - Go to [https://transparencyreport.google.com/https/certificates?hl=en](https://transparencyreport.google.com/https/certificates?hl=en)
 - Scroll down to “Search certificates by hostname” and enter your parent domain
-- - ✓ Include certificates that have expired
-- - ✓ Include subdomains
-- - Press ‘enter’
+  - ✓ Include certificates that have expired
+  - ✓ Include subdomains
+  - Press ‘enter’
 - Note the “Valid to” date in your new domains spreadsheet
 
 _Or you can also ask the person who regularly purchases your SSL certificates. They might keep a log._
 
 ### 5. Renew all upcoming SSL certificates
 If the certificate is set to expire in the next three months (or the possible length of a shutdown), make a request that those certificates be renewed now.
+
+:tada:
 
 ---
 
