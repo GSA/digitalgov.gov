@@ -43,20 +43,25 @@ As the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA)
 
 ## Community Updates
 
+**12/17/18 - Register Today for the Single Audit & Risk Management Demo Days!**
+
+The Results-Oriented Accountability for Grants CAP Goal Team is hosting **Single Audit and Risk Management Industry Demonstration Days** beginning on January 29, 2019 through January 31, 2019. All interested parties experienced in creating automated solutions for data management are encouraged to attend.
+
+For more information, visit [FedBizOpps.gov](https://www.fbo.gov/index.php?s=opportunity&mode=form&id=18e2112bca64cdd1d3b72eed5f1e4560&tab=core&_cview=0) and join the **Virtual Pre-Demonstration Day** session on January 8, 2019. All attendees are welcome to ask questions during the session or [submit them via email to the Grants Team](mailto:GrantsTeam@omb.eop.gov).
+
+**Important Links:**
+
+ - [Register](https://www.eventbrite.com/e/grants-single-audit-and-risk-mgmt-virtual-pre-demonstration-conference-tickets-52866219285) for the Virtual Pre-Demonstration Day on January 8, 2019
+ - Register for Industry Demonstration Days beginning on January 29, 2019. (**Deadline**: January 17, 2019 at 6 pm, EST)
+   - [Vendor Registration](https://www.eventbrite.com/e/grants-single-audit-and-risk-mgmt-industry-demonstration-days-vendor-signup-tickets-53749926477)
+   - [Federal Employee Registration](https://www.eventbrite.com/e/grants-single-audit-and-risk-mgmt-industry-demonstration-days-registration-tickets-52866314570)
+   - [FedBizOpps.gov Announcement](https://www.fbo.gov/index.php?s=opportunity&mode=form&id=18e2112bca64cdd1d3b72eed5f1e4560&tab=core&_cview=0)
+
+---
+
 **Now Open for Public Comments: Federal Grants Management Draft Data Standards**
 
 The Results-Oriented Accountability for Grants CAP Goal Team is excited to release the **draft** Data Standards for public comment. The public comment period will stay open for 60 days beginning **November 16, 2018**, through **January 16, 2019** as noted on the [Federal Register](https://www.federalregister.gov/documents/2018/11/16/2018-24927/draft-federal-grants-management-data-standards-for-feedback). You can submit comments through the [Grants Feedback Site](https://grantsfeedback.cfo.gov/) powered by GitHub.
-
-Do you have questions about the process for giving feedback? Call into our Office Hours hosted by the Results-Oriented for Accountability Grants CAP Goal Team to ask any questions you may have:
-
- - **November 29**, Time 11:30 am - 12:30 pm
- - **December 6**, Time 1:00 pm - 2:00 pm
- - **December 13**, Time 4:00 pm - 5:00 pm
-
-To join a virtual Office Hour Session:
-
- - Dial into: 1-866-928-2008. When prompted, enter: 8514834#
- - Submit questions via live chat at: [www.meet.gsa.gov/grantsfibf](www.meet.gsa.gov/grantsfibf)
 
 ## Key resources
 

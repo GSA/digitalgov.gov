@@ -123,132 +123,132 @@ Part of designing collaboration into the DNA of the playbook is not just creatin
 
 ## U.S. Public Participation Playbook Working Group Members
 
-U.S. Food and Drug Administration, Office of Women&#8217;s Health, Alison Lemon
+Alison Lemon, U.S. Food and Drug Administration, Office of Women&#8217;s Health
 
-Office of the Director of National Intelligence, Alla Goldman
+Alla Goldman, Office of the Director of National Intelligence
 
-General Services Administration, DigitalGov Search, Ammie Farraj Feijoo
+Ammie Farraj Feijoo, General Services Administration, DigitalGov Search
 
-General Services Administration, Office of DigitalGov, Ashley Wichman
+Ashley Wichman, General Services Administration, Office of DigitalGov
 
-First Responder Network Authority, Bernetta Reese
+Bernetta Reese, First Responder Network Authority
 
-Federal Communications Commission, Brittany Stevenson
+Brittany Stevenson, Federal Communications Commission
 
-Environmental Protection Agency, Bryant Crowe
+Bryant Crowe, Environmental Protection Agency
 
-White House Office of Science and Technology Policy, Charles Worthington
+Charles Worthington, White House Office of Science and Technology Policy
 
-International Trade Administration, Chris Higginbotham
+Chris Higginbotham, International Trade Administration
 
-U.S. Coast Guard, Christopher Lagan
+Christopher Lagan, U.S. Coast Guard
 
-General Services Administration, sites.USA.gov, Coqui Aspiazu
+Coqui Aspiazu, General Services Administration, sites.USA.gov
 
-Department of State, Consular Affairs, Corina Dubois
+Corina Dubois, Department of State, Consular Affairs
 
-White House Office of Science and Technology Policy, Corinna Zarek
+Corinna Zarek, White House Office of Science and Technology Policy
 
-Navy Army Community Credit Union, Crystal Deleon
+Crystal Deleon, Navy Army Community Credit Union
 
-Department of Transportation, Daniel Morgan
+Daniel Morgan, Department of Transportation
 
-U.S. Fish and Wildlife Service, Danielle Brigida
+Danielle Brigida, U.S. Fish and Wildlife Service
 
-National Library of Medicine, David Hale
+David Hale, National Library of Medicine
 
-Federal Communications Commission, Deanna Stephens
+Deanna Stephens, Federal Communications Commission
 
-General Services Administration, Emerging Leaders Program, Daniel Kenny
+Daniel Kenny, General Services Administration, Emerging Leaders Program
 
-Federal Communications Commission, Dr. David A. Bray
+Dr. David A. Bray, Federal Communications Commission
 
-U.S. Peace Corps, Emily Dulcan
+Emily Dulcan, U.S. Peace Corps
 
-U.S. Global Change Research Program, Emily Therese Cloyd
+Emily Therese Cloyd, U.S. Global Change Research Program
 
-General Services Administration, 18F, Eric Mill
+Eric Mill, General Services Administration, 18F
 
-General Services Administration, 18F, Gray Brooks
+Gray Brooks, General Services Administration, 18F
 
-General Services Administration, Office of DigitalGov, Gwynne Kostin
+Gwynne Kostin, General Services Administration, Office of DigitalGov
 
-U.S. Small Business Administration, Jack Bienko
+Jack Bienko, U.S. Small Business Administration
 
-General Services Administration, Office of DigitalGov, Jacob Parcell
+Jacob Parcell, General Services Administration, Office of DigitalGov
 
-Department of Commerce, Jacque Mason
+Jacque Mason, Department of Commerce
 
-Library of Congress, Jamie Stevenson
+Jamie Stevenson, Library of Congress
 
-Environmental Protection Agency, Jay Davis
+Jay Davis, Environmental Protection Agency
 
-NASA, Jeanne Holm
+Jeanne Holm, NASA 
 
-General Services Administration, USA.gov, Jessica Milcetich
+Jessica Milcetich, General Services Administration, USA.gov
 
-Department of State, Information Assurance Branch, Jody Bennett
+Jody Bennett, Department of State, Information Assurance Branch
 
-General Services Administration, Office of DigitalGov, Justin Herman
+Justin Herman, General Services Administration, Office of DigitalGov
 
-Department of State, Office of Emergency Management, Kate E. Bitely
+Kate E. Bitely, Department of State, Office of Emergency Management
 
-National Park Service, Kathleen Camarda (former employee)
+Kathleen Camarda (former employee), National Park Service
 
-Department of Labor, Office of Disability Employment Policy, Katia Albanese
+Katia Albanese, Department of Labor, Office of Disability Employment Policy
 
-Defense Commissary Agency, Kirsten O&#8217;Nell
+Kirsten O&#8217;Nell, Defense Commissary Agency
 
-National Parks Service, Laura Cohen
+Laura Cohen, National Parks Service
 
-General Services Administration, USAGov en Espa&#241;ol (_formerly known as GobiernoUSA.gov_), Laura Godfrey
+Laura Godfrey, General Services Administration, USAGov en Espa&#241;ol (_formerly known as GobiernoUSA.gov_)
 
-Department of Homeland Security, Lindsey Backhaus
+Lindsey Backhaus, Department of Homeland Security
 
-U.S. Census Bureau, Logan Powell
+Logan Powell, U.S. Census Bureau
 
-U.S. Army, Conflict Resolution & Public Participation Center of Expertise, Maria Lantz
+Maria Lantz, U.S. Army, Conflict Resolution & Public Participation Center of Expertise
 
-Defense Logistics Agency, Mason Lowery
+Mason Lowery, Defense Logistics Agency
 
-Department of Labor, Office of Disability Employment Policy, Michael Reardon
+Michael Reardon, Department of Labor, Office of Disability Employment Policy
 
-Office of the Director of National Intelligence, Michael Thomas
+Michael Thomas, Office of the Director of National Intelligence
 
-Smithsonian Institution, Miranda Gale
+Miranda Gale, Smithsonian Institution
 
-General Services Administration, Monica Fitzgerald
+Monica Fitzgerald, General Services Administration
 
-White House Office of Management and Budget, Nicholas Fraser
+Nicholas Fraser, White House Office of Management and Budget
 
-Department of Education, Nicole Callahan
+Nicole Callahan, Department of Education
 
-Department of State, Consular Affairs, Nicole Stillwell
+Nicole Stillwell, Department of State, Consular Affairs
 
-General Services Administration, 18F, Noah Kunin
+Noah Kunin, General Services Administration, 18F
 
-Federal Aviation Administration, Paul Cianciolo
+Paul Cianciolo, Federal Aviation Administration
 
-Federal Communications Commission, Priscilla Silva (former employee)
+Priscilla Silva (former employee), Federal Communications Commission
 
-General Services Administration, Office of DigitalGov, Rachel Flagg
+Rachel Flagg, General Services Administration, Office of DigitalGov
 
-Department of State, Educational and Cultural Affairs, Rebecca Ramspott
+Rebecca Ramspott, Department of State, Educational and Cultural Affairs
 
-General Services Administration, Data.gov, Rebecca Williams
+Rebecca Williams, General Services Administration, Data.gov
 
-Environmental Protection Agency, Robert Burchard
+Robert Burchard, Environmental Protection Agency
 
-Department of Labor, Robin Ackerman
+Robin Ackerman, Department of Labor
 
-White House Office of Science and Technology Policy, Ryan Panchadsaram
+Ryan Panchadsaram, White House Office of Science and Technology Policy
 
-Department of State, Consular Affairs, Sara Stealy
+Sara Stealy, Department of State, Consular Affairs
 
-U.S. Geological Survey, Scott Horvath
+Scott Horvath, U.S. Geological Survey
 
-National Institutes of Health, Scott Prince
+Scott Prince, National Institutes of Health
 
-National Defense University, Veronica Wendt
+Veronica Wendt, National Defense University
 
- <em>Justin Herman is the <a href="{{< link "social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>
+<em>Justin Herman is the <a href="{{< link "social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>

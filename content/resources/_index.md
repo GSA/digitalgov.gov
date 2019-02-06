@@ -82,7 +82,7 @@ aliases:
 ## Multilingual
 
 * [Multilingual Community of Practice]({{< link "multilingual.md" >}})
-* [Spanish Language Style Guide and Glossaries]({{< link "spanish-language-style-guide-and-glossaries.md" >}})
+* [Bilingual Glossaries, Dictionaries, and Style Guides]({{< link "bilingual-glossaries-dictionaries-style-guides.md" >}})
 * [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
 * [Top 10 Best Practices for Multilingual Websites]({{< link "top-10-best-practices-for-multilingual-websites.md" >}})
 
