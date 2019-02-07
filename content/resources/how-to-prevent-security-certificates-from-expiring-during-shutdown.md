@@ -1,8 +1,8 @@
 ---
 url: /resources/how-to-prevent-security-certificates-from-expiring-during-shutdown/
-date: 2019-02-06 10:00:00 -0400
-title: How to prevent security certificates from expiring during a shutdown
-summary: ""
+date: 2019-02-07 11:30:00 -0400
+title: "How to prevent security certificates from expiring during a lapse in operations"
+summary: "These are the steps that people in government can take to avoid having security certificates expire during a lapse in operations."
 ---
 
 ### 1. Gather a list of all of your domains
@@ -33,7 +33,7 @@ This is fairly easy:
 _Or you can also ask the person who regularly purchases your SSL certificates. They might keep a log._
 
 ### 5. Renew all upcoming SSL certificates
-If the certificate is set to expire in the next three months (or the possible length of a shutdown), make a request that those certificates be renewed now.
+If the certificate is set to expire in the next three months , make a request to get those certificates renewed now.
 
 :tada:
 
