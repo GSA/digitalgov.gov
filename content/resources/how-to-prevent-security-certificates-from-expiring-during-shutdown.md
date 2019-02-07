@@ -47,7 +47,8 @@ Yep.
 
 #### Q. What do certificates do exactly?
 [From CIO.gov](https://https.cio.gov/certificates/) —
-> "Websites use certificates to create an HTTPS connection. When signed by a trusted certificate authority (CA), certificates give confidence to browsers that they are visiting the “real” website."
+
+>"Websites use certificates to create an HTTPS connection. When signed by a trusted certificate authority (CA), certificates give confidence to browsers that they are visiting the “real” website."
 
 #### Q. Can certificates be set to auto-renew?
 Yes, you should talk to your IT department about moving in the direction of auto-renewing certificates.
@@ -67,6 +68,7 @@ We generally recommend that any certificate you do purchase be low cost, automat
 At the GSA, we use a free, open-source option called “[Let’s Encrypt](https://letsencrypt.org/)”. Once implemented on your server, it auto-renews your certificate every three months.  And if you host your government site on [cloud.gov](https://cloud.gov/), [search.gov](https://search.gov/) or [federalist.18f.gov](https://federalist.18f.gov/), your certificates will automatically renewed.
 
 **Related reading:**
+
 - [Let’s Encrypt Those CNAMES, Shall We?](https://digital.gov/2016/09/07/lets-encrypt-those-cnames-shall-we/)
 
 **Still have questions?**
