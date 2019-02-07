@@ -32,13 +32,13 @@ used by utilities or layout grid
 
 $theme-utility-breakpoints: (
   'card':             false,   // 160px
-  'card-lg':          true,   // 240px
-  'mobile':           true,   // 320px
+  'card-lg':          false,   // 240px
+  'mobile':           false,   // 320px
   'mobile-lg':        true,    // 480px
   'tablet':           true,    // 640px
-  'tablet-lg':        true,   // 800px
+  'tablet-lg':        false,   // 800px
   'desktop':          true,    // 1024px
-  'desktop-lg':       true,   // 1200px
+  'desktop-lg':       false,   // 1200px
   'widescreen':       false,   // 1400px
 );
 

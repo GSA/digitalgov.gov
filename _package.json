@@ -1,0 +1,74 @@
+{
+  "_from": "github:uswds/uswds-gulp",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/uswds-gulp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "uswds-gulp@github:uswds/uswds-gulp",
+    "name": "uswds-gulp",
+    "escapedName": "uswds-gulp",
+    "rawSpec": "github:uswds/uswds-gulp",
+    "saveSpec": "github:uswds/uswds-gulp",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "github:uswds/uswds-gulp#743929a4617bea25ca8267f9e2323f8c976419eb",
+  "_spec": "uswds-gulp@github:uswds/uswds-gulp",
+  "_where": "/Users/jeremyzilar/Sites/digitalgov.gov",
+  "author": "Dan O. Williams",
+  "bugs": {
+    "url": "https://github.com/uswds/uswds-gulp/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A gulp workflow for USWDS",
+  "homepage": "https://github.com/uswds/uswds-gulp#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "digital.gov",
+  "peerDependencies": {
+    "autoprefixer": "^9.1.5",
+    "css-mqpacker": "^7.0.0",
+    "cssnano": "^4.1.4",
+    "gulp": "^4.0.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "path": "^0.12.7",
+    "uswds": "^2.0.0-beta.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uswds/uswds-gulp.git"
+  },
+  "scripts": {
+    "init": "gulp init",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp watch"
+  },
+  "version": "0.2.0",
+  "dependencies": {
+    "autoprefixer": "^9.4.3",
+    "change-case": "^3.0.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-sourcemaps": "^2.6.1",
+    "gutil": "^1.6.4",
+    "node-notifier": "^5.3.0",
+    "octicons": "^7.3.0",
+    "path": "^0.12.7",
+    "uswds": "^1.6.6"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {}
+}
