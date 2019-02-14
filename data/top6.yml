@@ -31,6 +31,9 @@
 
 top6:
 
+  - file          : '2019-02-14-introducing-2019-presidential-innovation-fellows.md'
+    type          : 'post'
+
   - file          : '2018-12-20-designing-for-translation.md'
     type          : 'post'
 

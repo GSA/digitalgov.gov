@@ -14,13 +14,15 @@ tag:
   - presidential-innovation-fellows
   - tts
 featured_image:
-  uid:
-  alt: 'A collage of photos of the new class of 2019 Presidential Innovation Fellows&#46;'
+  uid: pif-team-2019
+  alt: 'A photo of the new class of 2019 Presidential Innovation Fellows&#46;'
 ---
 
 We are excited to announce our 2019 [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/) (PIF) who have begun their “tour of duty” in American tech. These seventeen entrepreneurs, technologists, and designers will help shape the frontiers of innovation in the federal government bringing their agile leadership and vitality to eleven agencies.
 
 “Civic tech service has become an American tradition,” says Joshua Di Frances, executive director of the Presidential Innovation Fellows program. “PIFs have been working alongside federal agencies for the past six years, helping deliver faster and smarter services for the American public.”
+
+{{< img src="pif-2019-card" >}}
 
 In 2018, for instance, PIF Fellows were instrumental in strengthening public-private engagement on a range of national security and criminal issues, as well as helping develop tech sector strategies. They helped agencies prioritize initiatives and execute on projects; they helped create artificial intelligence and machine learning capabilities and cybersecurity strategies; and they were instrumental in the passing of new legislation — the Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA).
 
@@ -61,6 +63,8 @@ Meet the newest Fellows!
 **Nevin Taylor**, joining from Washington, D.C., will be working at the **U.S. Department of State** on the Department’s establishment of a Center for Analytics. Taylor is a strategist and innovator with more than thirty years of leadership in industry, academia, and government. As the Co-Founder of AFWERX, the innovation arm of the United States Air Force, he developed an adaptive planning process to evolve current systems to provide asymmetric future capabilities. Nevin is an esteemed Harvard Cyber Policy scholar, Senior Executive, National International Security Fellow, and Stanford alumnus on Strategic Decisions and Risk Management.
 
 **Joy Whitt**, joining from Washington, D.C., will be working on improving analytics for veteran’s services at the **Department of Veterans Affairs Digital Service** (DSVA). Whitt is a developer, data scientist, and civic tech organizer who has worked on open data APIs, data visualization, and analysis projects utilizing real estate, affordable housing, and business development data for both private and public organizations. She runs civic hackathons with various tech inclusion groups including [Tech, Rebalanced](https://techladyhackathon.org/). In 2015, Joy transitioned from marketing and PR to a career in technology; she learned to code with organizations and individuals committed to teaching coding to diverse and minority communities in the District.
+
+{{< img src="pif-2019" >}}
 
 ---
 
