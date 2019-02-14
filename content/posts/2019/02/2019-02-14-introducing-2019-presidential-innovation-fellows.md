@@ -64,8 +64,6 @@ Meet the newest Fellows!
 
 **Joy Whitt**, joining from Washington, D.C., will be working on improving analytics for veteran’s services at the **Department of Veterans Affairs Digital Service** (DSVA). Whitt is a developer, data scientist, and civic tech organizer who has worked on open data APIs, data visualization, and analysis projects utilizing real estate, affordable housing, and business development data for both private and public organizations. She runs civic hackathons with various tech inclusion groups including [Tech, Rebalanced](https://techladyhackathon.org/). In 2015, Joy transitioned from marketing and PR to a career in technology; she learned to code with organizations and individuals committed to teaching coding to diverse and minority communities in the District.
 
-{{< img src="pif-team-2019" >}}
-
 ---
 
 _[Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov) (PIF), are part of our nation’s [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA). TTS' mission is to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public._
