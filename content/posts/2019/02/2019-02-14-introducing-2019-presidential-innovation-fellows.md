@@ -18,8 +18,6 @@ featured_image:
   alt: 'A collage of photos of the new class of 2019 Presidential Innovation Fellows&#46;'
 ---
 
-# Introducing the 2019 Presidential Innovation Fellows
-
 We are excited to announce our 2019 [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/) (PIF) who have begun their “tour of duty” in American tech. These seventeen entrepreneurs, technologists, and designers will help shape the frontiers of innovation in the federal government bringing their agile leadership and vitality to eleven agencies.
 
 “Civic tech service has become an American tradition,” says Joshua Di Frances, executive director of the Presidential Innovation Fellows program. “PIFs have been working alongside federal agencies for the past six years, helping deliver faster and smarter services for the American public.”
