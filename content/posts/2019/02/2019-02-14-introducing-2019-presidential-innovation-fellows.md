@@ -14,8 +14,8 @@ tag:
   - presidential-innovation-fellows
   - tts
 featured_image:
-  uid: pif-team-2019
-  alt: 'A photo of the new class of 2019 Presidential Innovation Fellows&#46;'
+  uid: pif-2019-card
+
 ---
 
 We are excited to announce our 2019 [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/) (PIF) who have begun their “tour of duty” in American tech. These seventeen entrepreneurs, technologists, and designers will help shape the frontiers of innovation in the federal government bringing their agile leadership and vitality to eleven agencies.
@@ -64,7 +64,7 @@ Meet the newest Fellows!
 
 **Joy Whitt**, joining from Washington, D.C., will be working on improving analytics for veteran’s services at the **Department of Veterans Affairs Digital Service** (DSVA). Whitt is a developer, data scientist, and civic tech organizer who has worked on open data APIs, data visualization, and analysis projects utilizing real estate, affordable housing, and business development data for both private and public organizations. She runs civic hackathons with various tech inclusion groups including [Tech, Rebalanced](https://techladyhackathon.org/). In 2015, Joy transitioned from marketing and PR to a career in technology; she learned to code with organizations and individuals committed to teaching coding to diverse and minority communities in the District.
 
-{{< img src="pif-2019" >}}
+{{< img src="pif-team-2019" >}}
 
 ---
 
