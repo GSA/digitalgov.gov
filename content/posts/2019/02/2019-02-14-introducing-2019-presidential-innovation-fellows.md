@@ -14,7 +14,7 @@ tag:
   - presidential-innovation-fellows
   - tts
 featured_image:
-  uid: pif-2019-card
+  uid: pif-team-19
 
 ---
 
@@ -63,6 +63,8 @@ Meet the newest Fellows!
 **Nevin Taylor**, joining from Washington, D.C., will be working at the **U.S. Department of State** on the Department’s establishment of a Center for Analytics. Taylor is a strategist and innovator with more than thirty years of leadership in industry, academia, and government. As the Co-Founder of AFWERX, the innovation arm of the United States Air Force, he developed an adaptive planning process to evolve current systems to provide asymmetric future capabilities. Nevin is an esteemed Harvard Cyber Policy scholar, Senior Executive, National International Security Fellow, and Stanford alumnus on Strategic Decisions and Risk Management.
 
 **Joy Whitt**, joining from Washington, D.C., will be working on improving analytics for veteran’s services at the **Department of Veterans Affairs Digital Service** (DSVA). Whitt is a developer, data scientist, and civic tech organizer who has worked on open data APIs, data visualization, and analysis projects utilizing real estate, affordable housing, and business development data for both private and public organizations. She runs civic hackathons with various tech inclusion groups including [Tech, Rebalanced](https://techladyhackathon.org/). In 2015, Joy transitioned from marketing and PR to a career in technology; she learned to code with organizations and individuals committed to teaching coding to diverse and minority communities in the District.
+
+{{< img src="pif-team-19" >}}
 
 ---
 
