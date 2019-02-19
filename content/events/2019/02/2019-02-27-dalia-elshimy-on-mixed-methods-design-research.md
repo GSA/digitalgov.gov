@@ -24,4 +24,4 @@ Dalia will present her talk Turning anecdotes into insights: mixed methods resea
 
 This is where mixed methods research comes in handy. With over 25 years of proven experience in the social sciences, mixed methods integrates quantitative and qualitative research in a way that capitalizes on the strengths of both. In this talk, Dalia will introduce mixed methods in a design context, and illustrate through concrete examples how it can give designers the confidence that their work is shaped by valid insights rather than anecdotes.”
 
-_This talk is hosted by the TTS Research Guild and Digital.gov. The TTS Research Guild is a GSA-local community of practice for design researchers and design research enthusiasts led by Ben Peterson and Andrew Maier._
+_This talk is hosted by the TTS Research Guild and Digital.gov. [The TTS Research Guild](https://github.com/18F/g-research) is a GSA-local community of practice for design researchers and design research enthusiasts led by Ben Peterson and Andrew Maier._
