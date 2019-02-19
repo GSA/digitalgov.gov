@@ -1,0 +1,27 @@
+---
+slug: dalia-elshimy-on-mixed-methods-design-research
+title: 'Dalia El-Shimy on Mixed Methods Design Research'
+summary: 'How should designers collect data and how can they use that data to inform their work&#63; Dalia El-Shimy, UX Research Lead at Shopify&#39;s Montreal Office, will share how her team uses mixed methods research in support of its design decisions&#46;'
+featured_image: 
+  uid: 
+  alt: ''
+event_type: 
+  - youtube-live
+date: 2019-02-27 14:00:00 -0500
+end_date: 2019-02-27 14:30:00 -0500
+event_organizer: DigitalGov University
+host: Digital.gov + TTS Research Guild
+registration_url: TKTK
+youtube_id: TKTK
+
+---
+
+How should designers collect data and how can they use that data to inform their work? Dalia El-Shimy, UX Research Lead at Shopify's Montreal Office, will share how her team uses mixed methods research in support of its design decisions.
+
+Dalia El-Shimy is an engineer-turned-academic-turned-user-researcher. As UX Research Lead at Shopify's Montreal Office, she manages Shopify's research efforts when it comes online shopping experiences: from the merchants who create them, to their customers who interact with them. Outside of work, she spends way too much time at her local ice cream shop, or obsessing over all things David Bowie.
+
+Dalia will present her talk Turning anecdotes into insights: mixed methods research in support of design. In her words:“A few anecdotes can be more detrimental than no research—they can cause designers to forgo their instincts in favor of incomplete data. But turning anecdotes into insights isn’t just a matter of collecting the qualitative and quantitative data to support them: it’s about blending the two correctly, understanding how they complement each other, and knowing which to use at each stage of the design process.
+
+This is where mixed methods research comes in handy. With over 25 years of proven experience in the social sciences, mixed methods integrates quantitative and qualitative research in a way that capitalizes on the strengths of both. In this talk, Dalia will introduce mixed methods in a design context, and illustrate through concrete examples how it can give designers the confidence that their work is shaped by valid insights rather than anecdotes.”
+
+This talk is hosted by the TTS Research Guild and Digital.gov. The TTS Research Guild is a GSA-local community of practice for design researchers and design research enthusiasts led by Ben Peterson and Andrew Maier. The guild’s 2019 speaker series actively informs GSA’s design research practice by inviting designers outside of government to share their expertise with guild members. Next Wednesday’s talk, hosted by the TTS Research Guild and Digital.gov, will be the fourth talk of the series, and the first one open to non-GSA designers.
