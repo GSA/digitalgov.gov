@@ -3,7 +3,7 @@ slug: managing-your-plain-language-career
 title: 'Managing Your Plain Language Career'
 summary: 'We&#39;ll discuss how to document and publicize your formal and informal plain language work — teaching, training, reviewing, or copyediting&#46;'
 featured_image:
-  uid:
+  uid: plain-language
   alt: ''
 event_type:
   - zoom
@@ -16,6 +16,8 @@ registration_url: https://www.eventbrite.com/e/managing-your-plain-language-care
 ---
 
 Get the credit you deserve!
+
+{{< img src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
 
 We'll discuss your formal and informal plain language work (teaching, training, reviewing, or copyediting) and how to best document and publicize it so you can get credit for the work you’re doing.
 
