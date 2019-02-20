@@ -3,7 +3,7 @@
 name: 'Search.gov'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'a one-line summary of the product'
+summary: 'A free hosted search platform for federal websites.'
 
 # What URL are we pointing to?
 # Note: We add a ?dg to the end of the URL

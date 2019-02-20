@@ -3,7 +3,7 @@
 name: 'Code.gov'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'Open-source code from across the federal government.'
+summary: 'A catalog of open source code from across the federal government.'
 
 # What URL are we pointing to?
 # Note: We add a ?dg to the end of the URL

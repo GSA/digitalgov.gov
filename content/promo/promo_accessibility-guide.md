@@ -3,7 +3,7 @@
 name: 'Accessibility for Teams'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'A guide to getting started today.'
+summary: 'A guide to making products more accessible for everyone.'
 
 # What URL are we pointing to?
 # Note: We add a ?dg to the end of the URL

@@ -3,7 +3,7 @@
 name: 'Challenge.gov'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'a one-line summary of the product'
+summary: 'An open innovation hub for challenge and prize competitions.'
 
 # What URL are we pointing to?
 # Note: We add a ?dg to the end of the URL
