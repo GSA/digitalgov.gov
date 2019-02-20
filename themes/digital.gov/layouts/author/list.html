@@ -32,9 +32,14 @@
                 </p>
                 {{- end -}}
 
+                {{- with $person.quote -}}
+                <blockquote class="margin-x-0 text-italic font-serif-lg">&ldquo;{{- . | markdownify -}}&rdquo;</blockquote>
+                {{- end -}}
+
                 {{- with $person.bio -}}
                 <p>{{- . | markdownify -}}</p>
                 {{- end -}}
+
                 {{/* Website */}}
                 {{- with $person.website -}}<p><a rel="external" title="{{- $person_name -}} Website" href="{{- . -}}">{{- . -}}</a></p>{{- end -}}
                 <ul class="add-list-reset">
