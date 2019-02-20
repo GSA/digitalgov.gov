@@ -19,7 +19,7 @@ To subscribe please complete this [online form](https://docs.google.com/forms/d/
 
 ### Community Manager
 
-Alycia Piazza (GSA)
+Alycia Yozzi (GSA)
 
 ### Overview
 
