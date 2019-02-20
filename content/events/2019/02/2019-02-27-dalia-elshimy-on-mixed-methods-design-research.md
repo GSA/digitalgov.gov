@@ -16,6 +16,8 @@ youtube_id: G8j815ryxr0
 
 ---
 
+{{< img-right src="dalia-el-shimy" >}}
+
 Both qualitative and quantitative data are useful starting points, but how might we better blend the two? In this talk, Dalia El-Shimy, UX Research Lead at Shopify's Montreal Office, will share how her team uses mixed methods research in support of its design decisions.
 
 Dalia El-Shimy is an engineer-turned-academic-turned-user-researcher. As UX Research Lead at Shopify's Montreal Office, she manages Shopify's research efforts when it comes online shopping experiences: from the merchants who create them, to their customers who interact with them. Outside of work, she spends way too much time at her local ice cream shop, or obsessing over all things David Bowie.
