@@ -10,15 +10,16 @@ summary: 'a one-line summary of the product'
 src: 'https://digital.gov/dap/'
 
 # Images need to be 200x200px with a transparent background
-# Upload images to /static/images/promos/filename.png
+# Upload new images to Github in the /static/promos/ folder
+# https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
+# The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'dap.png'
 
 # Weight control how these promos appear on the site
-# 3 == will be part of the rotaion on the homepage
-# 2 == will show on the services page
-# 1 == will show on the other govt-services page
+# 2 == will be part of the rotation on the homepage
+# 1 == will show on the all services page
 # 0 == hidden promo
-weight: 3
+weight: 2
 
 topics:
   - analytics

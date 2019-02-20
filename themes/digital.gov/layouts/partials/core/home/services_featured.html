@@ -13,14 +13,14 @@
     <div class="grid-row grid-gap-2">
       {{ $promos := .Site.GetPage "page" "promo" }}
       {{ $promos_count := len ($promos.Resources.ByType "page") }}
-      {{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 3 }}
+      {{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 2 }}
       {{ $promos := shuffle ($promos) }}
       {{ with $promos }}
         {{ range $i, $e := first 9 . }}
           <div class="grid-col-12 tablet:grid-col-4 flex-6">
             <article class="promo" data-edit-this="{{- .File.Path -}}">
               {{ if .Params.icon }}
-              {{ $src := (print "/img/promos/" .Params.icon) }}
+              {{ $src := (print "/promos/" .Params.icon) }}
               <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.head }} Logo">
               {{ end }}
               <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>

@@ -15,9 +15,9 @@ domain: 'https://digital.gov'
 # icon: "https://demo.digital.gov/img/icons/favicon.ico"
 
 # Weight control how these promos appear on the site
-# 3 == will be part of the rotaion on the homepage
-# 2 == will show on the services page
-# 1 == will show on the other govt-services page
+# 2 == will be part of the rotation on the homepage
+
+# 1 == will show on the all services page
 # 0 == hidden promo
 # weight: 3
 

@@ -17,8 +17,8 @@
   {{/* Get all the promos */}}
   {{ $promos := $.Site.GetPage "page" "promo" }}
 
-  {{/* Get all the promos WHERE page weight == 3 */}}
-  {{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 3 }}
+  {{/* Get all the promos WHERE page weight == 2 */}}
+  {{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 2 }}
 
   {{/* If there are any promos */}}
   {{ with $promos }}
@@ -67,7 +67,7 @@
 
         <article class="promo">
           {{ if .Params.icon }}
-          {{ $src := (print "/img/promos/" .Params.icon) }}
+          {{ $src := (print "/promos/" .Params.icon) }}
           <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.head }} Logo">
           {{ end }}
           <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.head }}">{{ .Params.head }}</a></h3>

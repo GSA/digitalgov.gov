@@ -15,9 +15,9 @@ domain: 'https://18f.gsa.gov/'
 icon: "https://18f.gsa.gov/assets/img/favicons/18F-Logo-152.png"
 
 # Weight control how these promos appear on the site
-# 3 == will be part of the rotaion on the homepage
-# 2 == will show on the services page
-# 1 == will show on the other govt-services page
+# 2 == will be part of the rotation on the homepage
+
+# 1 == will show on the all services page
 # 0 == hidden promo
 # weight: 3
 
