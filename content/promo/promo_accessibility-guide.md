@@ -1,6 +1,6 @@
 ---
-# What is the headline of this promo?
-head: 'Accessibility for Teams'
+# What is the name of the product or service?
+name: 'Accessibility for Teams'
 
 # Keep it short — should be no longer than 10 words.
 summary: 'A guide to getting started today.'

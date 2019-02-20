@@ -1,6 +1,6 @@
 ---
-# What is the headline of this promo?
-head: 'Code.gov'
+# What is the name of the product or service?
+name: 'Code.gov'
 
 # Keep it short — should be no longer than 10 words.
 summary: 'Open-source code from across the federal government.'

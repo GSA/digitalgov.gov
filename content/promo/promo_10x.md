@@ -1,6 +1,6 @@
 ---
-# What is the headline of this promo?
-head: '10X'
+# What is the name of the product or service?
+name: '10X'
 
 # Keep it short — should be no longer than 10 words.
 summary: 'a one-line summary of the product'
