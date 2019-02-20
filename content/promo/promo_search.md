@@ -20,4 +20,9 @@ icon: 'searchgov.png'
 # 1 == will show on the all services page
 # 0 == hidden promo
 weight: 2
+
+topics:
+  - search-engine-optimization
+  - seo
+
 ---

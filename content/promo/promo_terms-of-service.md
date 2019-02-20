@@ -22,11 +22,7 @@ src: 'https://digital.gov/resources/federal-compatible-terms-of-service-agreemen
 weight: 2
 
 topics:
-  - design
-  - code
-  - ux
-  - open-source
-  - content
-  - accessibility
+  - terms-of-service
+  - managing-digital
 
 ---

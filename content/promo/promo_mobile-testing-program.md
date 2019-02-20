@@ -22,7 +22,9 @@ src: 'https://digital.gov/services/mobile-application-testing-program/'
 weight: 2
 
 topics:
-  - analytics
-  - dap
+  - mobile
+  - user-testing-and-research
+  - ux
+  - user-experience
 
 ---

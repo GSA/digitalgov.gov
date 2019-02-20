@@ -21,4 +21,9 @@ src: 'https://citizenScience.gov/'
 # 0 == hidden promo
 weight: 2
 
+topics:
+  - citizen-science
+  - crowdsourcing
+  - crowdsourcing-and-citizen-science
+
 ---

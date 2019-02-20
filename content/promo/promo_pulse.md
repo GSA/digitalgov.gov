@@ -20,4 +20,13 @@ icon: 'pulse.png'
 # 1 == will show on the all services page
 # 0 == hidden promo
 weight: 2
+
+topics:
+  - https
+  - managing-digital
+  - security
+  - dap
+  - analytics
+
+
 ---

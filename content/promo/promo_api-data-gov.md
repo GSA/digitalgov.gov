@@ -21,4 +21,7 @@ src: 'https://api.data.gov/'
 # 0 == hidden promo
 weight: 2
 
+topics:
+  - api
+  - data
 ---

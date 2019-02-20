@@ -21,4 +21,11 @@ src: 'https://data.gov/'
 # 0 == hidden promo
 weight: 2
 
+topics:
+  - data
+  - api
+  - code
+  - open-source
+  - open-data
+
 ---

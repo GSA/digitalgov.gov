@@ -21,4 +21,8 @@ icon: '10x.png'
 # 0 == hidden promo
 weight: 2
 
+topics:
+  - strategy
+  - design
+  - managing-digital
 ---

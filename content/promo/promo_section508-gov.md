@@ -22,11 +22,10 @@ src: 'https://www.section508.gov/'
 weight: 2
 
 topics:
-  - design
-  - code
-  - ux
-  - open-source
-  - content
+  - managing-digital
   - accessibility
+  - governance
+  - policy
+  - section-508
 
 ---

@@ -24,5 +24,7 @@ weight: 2
 topics:
   - open-source
   - code
+  - data
+  - api
 
 ---

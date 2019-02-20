@@ -22,11 +22,7 @@ src: 'https://digital.gov/services/usa-gov-short-urls/'
 weight: 2
 
 topics:
-  - design
-  - code
-  - ux
-  - open-source
-  - content
-  - accessibility
+  - social-media
+  - content-management
 
 ---

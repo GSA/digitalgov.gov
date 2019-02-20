@@ -26,7 +26,9 @@ topics:
   - code
   - ux
   - open-source
-  - content
+  - uswds
   - accessibility
+  - user-experience
+  - mobile
 
 ---

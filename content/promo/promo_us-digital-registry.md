@@ -22,11 +22,9 @@ src: 'https://digital.gov/services/u-s-digital-registry/'
 weight: 2
 
 topics:
-  - design
-  - code
-  - ux
-  - open-source
-  - content
-  - accessibility
+  - social-media
+  - mobile
+  - managing-digital
+  - us-digital-registry
 
 ---

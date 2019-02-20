@@ -23,6 +23,7 @@ weight: 2
 
 topics:
   - analytics
+  - metrics
   - dap
 
 ---

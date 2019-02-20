@@ -23,7 +23,8 @@ weight: 2
 
 topics:
   - cloud
-  - content
-  - content-management-system
-  - github
+  - security
+  - managing-digital
+  - fedramp
+
 ---

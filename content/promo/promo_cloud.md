@@ -23,5 +23,6 @@ weight: 2
 
 topics:
   - cloud
+  - security
 
 ---
