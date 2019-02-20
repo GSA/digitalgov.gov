@@ -59,12 +59,6 @@ Whether designing printing materials or digital content, evaluate at the onset i
 
 Designing for multilingual offerings is no easy task, but with some preparation and forethought, it can go very smoothly and be really successful.
 
-**For tools and additional resources, check out:**
-
-- [How to write for translation – thinking multilingually from the outset](https://www.semantix.eu/blog/how-to-write-for-translation/)
-- [Guidelines for writing for translation](http://www.web-translations.com/blog/content-guidelines/)
-- [How to Design for Multiple Languages](https://www.webdesignerdepot.com/2015/06/how-to-design-for-multiple-languages/)
-
 ---
 Join the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/)—a group of multilingual professionals around the government working tirelessly to improve and expand multilingual content for people with limited English proficiency.
 
