@@ -19,7 +19,7 @@ src: 'https://api.data.gov/'
 # 2 == will be part of the rotation on the homepage
 # 1 == will show on the all services page
 # 0 == hidden promo
-weight: 2
+weight: 1
 
 topics:
   - api

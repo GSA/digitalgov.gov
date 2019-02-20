@@ -6,7 +6,7 @@
       <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
         <header>
           <h2>Get Started Building</h2>
-          <p>Explore services that are user-centered, open-source and built by government for government.</p>
+          <p>Explore services that are user-centered, open-source, and built by government for government.</p>
         </header>
       </div>
     </div>
@@ -16,6 +16,7 @@
       {{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 2 }}
       {{ $promos := shuffle ($promos) }}
       {{ with $promos }}
+        {{/* TODO — make the # shown on homepage a config variable */}}
         {{ range $i, $e := first 9 . }}
           <div class="grid-col-12 tablet:grid-col-4 flex-6">
             <article class="promo" data-edit-this="{{- .File.Path -}}">
@@ -34,7 +35,7 @@
     <div class="grid-row grid-gap-2">
       <div class="grid-col-12 tablet:grid-col-4 tablet:grid-offset-4">
         <footer>
-          <a class="btn" href="#">See all {{ $promos_count }} »</a>
+          <a class="btn" href="#">See all {{ $promos_count }} services »</a>
         </footer>
       </div>
     </div>

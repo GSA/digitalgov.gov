@@ -19,7 +19,7 @@ src: 'https://digital.gov/services/mobile-application-testing-program/'
 # 2 == will be part of the rotation on the homepage
 # 1 == will show on the all services page
 # 0 == hidden promo
-weight: 2
+weight: 1
 
 topics:
   - mobile

@@ -60,6 +60,9 @@ params:
   url_shortener_api: d0ac464a2dfad044147e9537fd51503b
   devmode: true
 
+  # Homepage settings
+  # promos: 9
+
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"

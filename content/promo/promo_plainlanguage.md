@@ -1,6 +1,6 @@
 ---
 # What is the name of the product or service?
-name: 'Plainlanguage.gov'
+name: 'PlainLanguage.gov'
 
 # Keep it short — should be no longer than 10 words.
 summary: 'A guide to making copy clear and easy to understand.'

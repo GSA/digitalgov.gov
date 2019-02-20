@@ -1,9 +1,9 @@
 ---
 # What is the name of the product or service?
-name: '10X'
+name: '10x'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'Funds technology-focused ideas from federal employees to improve the experience all people have with our government.'
+summary: 'Funding technology-focused ideas that improve the experience people have with our government.'
 
 # What URL are we pointing to?
 # Note: We add a ?dg to the end of the URL
