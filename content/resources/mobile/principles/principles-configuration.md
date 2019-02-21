@@ -7,6 +7,8 @@ type: guide
 
 ---
 
+Welcome to Principle 7!	
+
 Like any piece of technology, a web server needs to be tuned for peak performance. While mobile devices continue to improve generation after generation, if the server at the heart of your site is not optimally configured, it may deliver a suboptimal experience to your users. Such poor performance may negatively impact the usability of your site and can be detected using Google’s [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), or the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites). 
 
 ## Improve Server Response Time
