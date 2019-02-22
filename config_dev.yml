@@ -61,7 +61,7 @@ params:
   devmode: true
 
   # Homepage settings
-  # promos: 9
+  dg_tagline: "We help the government community deliver better digital services."
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
