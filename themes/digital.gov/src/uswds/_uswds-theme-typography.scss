@@ -162,8 +162,8 @@ system:
 */
 
 $theme-font-mono:   'roboto-mono';
-$theme-font-sans:   'source-sans-pro';
-$theme-font-serif:  'merriweather';
+$theme-font-sans:   'public-sans';
+$theme-font-serif:  'georgia';
 $theme-font-cond:   false;
 
 /*
@@ -181,7 +181,7 @@ $theme-font-cond
 */
 
 $theme-font-ui:       $theme-font-sans;
-$theme-font-heading:  $theme-font-serif;
+$theme-font-heading:  $theme-font-sans;
 $theme-font-body:     $theme-font-sans;
 $theme-font-code:     $theme-font-mono;
 $theme-font-alt:      $theme-font-serif;
@@ -201,7 +201,7 @@ $theme-type-scale-3xs:      2;
 $theme-type-scale-2xs:      3;
 $theme-type-scale-xs:       4;
 $theme-type-scale-sm:       5;
-$theme-type-scale-md:       6;
+$theme-type-scale-md:       7;
 $theme-type-scale-lg:       9;
 $theme-type-scale-xl:       12;
 $theme-type-scale-2xl:      14;
@@ -218,13 +218,13 @@ Or use `false` for unneeded weights.
 
 $theme-output-all-weights:        false;
 
-$theme-font-weight-thin:          false;
+$theme-font-weight-thin:          100;
 $theme-font-weight-light:         300;
 $theme-font-weight-normal:        400;
-$theme-font-weight-medium:        false;
-$theme-font-weight-semibold:      false;
+$theme-font-weight-medium:        500;
+$theme-font-weight-semibold:      600;
 $theme-font-weight-bold:          700;
-$theme-font-weight-heavy:         false;
+$theme-font-weight-heavy:         900;
 
 /*
 ----------------------------------------
