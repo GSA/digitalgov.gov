@@ -808,6 +808,8 @@ privacy-impact-assessment:
   display_name: "Privacy Impact Assessment"
 prizes-and-competitions:
   display_name: "Prizes and Competitions"
+professional-development: 
+  display_name: "Professional Development"
 project-management:
   display_name: "Project Management"
 prototype:
