@@ -31,6 +31,9 @@
 
 top6:
 
+  - file          : '2019-02-14-introducing-2019-presidential-innovation-fellows.md'
+    type          : 'post'
+
   - file          : '2018-12-20-designing-for-translation.md'
     type          : 'post'
 
@@ -45,6 +48,3 @@ top6:
 
   - file          : '2018-11-02-health-tech-sprint-aims-at-improving-care-access-experience.md'
     type          : 'post'
-
-  - file          : '2018-11-01-dap-learning-series-basics-ab-testing-part-1.md'
-    type          : 'video'

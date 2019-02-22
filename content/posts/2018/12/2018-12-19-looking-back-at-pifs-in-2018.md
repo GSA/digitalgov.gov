@@ -32,7 +32,7 @@ canonical: https://www.gsa.gov/blog/2018/12/17/Looking-Back-at-our-%E2%80%9CTour
 
 ---
 
-_This post was orgiginally [published on GSA.gov](https://www.gsa.gov/blog/2018/12/17/Looking-Back-at-our-%E2%80%9CTour-of-Duty%E2%80%9D-in-American-Innovation-0)_
+_This post was originally [published on GSA.gov](https://www.gsa.gov/blog/2018/12/17/Looking-Back-at-our-%E2%80%9CTour-of-Duty%E2%80%9D-in-American-Innovation-0)_
 
 We have the best jobs in government, period. Each day we wake up empowered to solve critical issues facing public safety, national security, healthcare, and transportation.
 

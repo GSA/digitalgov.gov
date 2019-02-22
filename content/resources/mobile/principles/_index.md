@@ -28,8 +28,8 @@ The eight principles are:
 3. [Remember That We Navigate Mobile Sites Using Our Fingers](https://digital.gov/resources/mobile/principles/tap-targets/)
 4. [Installing additional software to properly view your site should not be necessary](https://digital.gov/resources/mobile/principles/plugins/)
 5. [Conserve resources, recycle when possible](https://digital.gov/resources/mobile/principles/cache/)
-6. [**The smaller the better, when it comes to page resources!**](https://digital.gov/resources/mobile/principles/optimize-minify-compression/)
-7. Properly configure the server and plan for growth
+6. [The smaller the better, when it comes to page resources!](https://digital.gov/resources/mobile/principles/optimize-minify-compression/)
+7. [**Properly configure the server**](https://digital.gov/resources/mobile/principles/configuration/)
 8. Don’t forget accessibility!
 
 As a reminder, **check back each week for another principle** that we distilled from Google's [Mobile Friendly Test](https://search.google.com/test/mobile-friendly) tool, [DigitalDashboard.gov](https://www.digitaldashboard.gov/), and the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites). We will provide a description of the issue, a method to detect the issue, and solutions to eliminate or prevent the issue from appearing your site to help make it more mobile-friendly. 
