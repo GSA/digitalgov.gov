@@ -35,9 +35,9 @@ Sylvia Ann Hewlett, an economist who has written extensively about sponsorship, 
 
 ## Why sponsorship? 
 
-Research has shown that [sponsorship is important](https://hbr.org/2011/01/the-real-benefit-of-finding-a) for career advancement, particularly when employees begin to compete for upper management positions. A lack of sponsorship has shown to be a barrier to advancement for women and [underrepresented racial and ethnic populations](https://www.diversityincbestpractices.com/). 
+Research has shown that [sponsorship is important](https://hbr.org/2011/01/the-real-benefit-of-finding-a) for career advancement, particularly when employees begin to compete for upper management positions. A lack of sponsorship has shown to be a barrier to advancement for [women](https://www.catalyst.org/wp-content/uploads/2019/01/sponsoring_women_to_success.pdf) (PDF, 28 pages, 893 kb) and [underrepresented racial and ethnic populations](https://www.diversityincbestpractices.com/). 
 
-Organizations also benefit from sponsorship: sponsors report increased job satisfaction, commitment to their organization, and a desire to “pay it forward.” Team morale also improved: people were willing to go the extra mile for their teammates as a result of strong relationships. 
+Organizations also benefit from sponsorship: [sponsors report](https://www.catalyst.org/wp-content/uploads/2019/01/sponsoring_women_to_success.pdf) (PDF, 28 pages, 893 kb) increased job satisfaction, commitment to their organization, and a desire to “pay it forward.” Team morale also improved: people were willing to go the extra mile for their teammates as a result of strong relationships. 
 
 ## Getting Started as a Sponsor 
 
