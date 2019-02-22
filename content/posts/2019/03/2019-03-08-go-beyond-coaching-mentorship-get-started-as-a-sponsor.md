@@ -3,7 +3,7 @@ slug: go-beyond-coaching-mentorship-get-started-as-a-sponsor
 date: 2019-03-08 14:45:00 -0500
 title: 'Go Beyond Coaching and Mentorship and Get Started as a Sponsor'
 summary: 'One step beyond mentorship is another practice called sponsorship&#58; action-orientated, deeply invested support that helps others in their long-term professional advancement&#46;'
-deck: 'How to use your power, influence, and networks to help protégés in their long-term professional career development.'
+deck: 'How to use your power, influence, and networks to help prot&eacute;g&eacute;s in their long-term professional career development.'
 authors: 
   - awichman
 categories: 
@@ -25,7 +25,7 @@ Team cooperation is critical in daily tasks. We’re also often quick to give ad
 
 Conversely, “coaching's primary emphasis is on maximizing people's potential by working on their perceptions, self-confidence and creative drive.” A coach does not need to have expertise in their coachee’s career field, since they don’t typically give advice. Instead, coaches guide others to create their own solutions. 
 
-Sponsorship goes beyond mentoring and coaching. Sponsors use their power, influence, and networks to help protégés, and they invest long term: 
+Sponsorship goes beyond mentoring and coaching. Sponsors use their power, influence, and networks to help prot&eacute;g&eacute;s, and they invest long term: 
 
 - “They advocate and find opportunities for promotion and career development. 
 - They open up their network and accelerate the learning curve for team members who might otherwise fall through the cracks. 
@@ -49,7 +49,7 @@ Although you probably won’t use every network/connection you have in a sponsor
 
 ## Practical Tips for Being a Sponsor 
 
-### Identifying a protégé 
+### Identifying a prot&eacute;g&eacute; 
 
 Looking at the networks you thought about above, write down a short list of people that you think have great potential. You may already have a mentee through a formal program; are you willing to also sponsor them? 
 
@@ -57,19 +57,19 @@ Consider the attributes you have seen that caught your attention: what are their
 
 ### Getting Started 
 
-Sponsor relationships can be formal or informal. A formalized relationship may not be ideal for you and your potential protégés. You also may find yourself being an “invisible sponsor” for someone; you might speak positively and advocate for someone without them knowing it. All forms of sponsorship are worthwhile! 
+Sponsor relationships can be formal or informal. A formalized relationship may not be ideal for you and your potential prot&eacute;g&eacute;s. You also may find yourself being an “invisible sponsor” for someone; you might speak positively and advocate for someone without them knowing it. All forms of sponsorship are worthwhile! 
 
-Realistically, you’ll only have time for a small number of on-going, formalized sponsor relationships. It’s important for you to encourage your protégés to have multiple sponsors. 
+Realistically, you’ll only have time for a small number of on-going, formalized sponsor relationships. It’s important for you to encourage your prot&eacute;g&eacute;s to have multiple sponsors. 
 
-Writer Gwen Moran has a list of [eight questions to ask a protégé](https://www.fastcompany.com/40543989/the-best-mentors-ask-these-8-questions) that can help you get started. For formal sponsor relationships, discuss the frequency of meetings and communication preferences. Additionally, agree on what confidentiality means: as a sponsor, you will be an advocate for your protégé. Sharing their accomplishments and goals is important. However, you will likely have conversations that touch on opinions and experiences that are private or deeply personal. Discuss with your protégé the types of information that should remain between the two of you (and revisit this throughout your relationship). 
+Writer Gwen Moran has a list of [eight questions to ask a prot&eacute;g&eacute;](https://www.fastcompany.com/40543989/the-best-mentors-ask-these-8-questions) that can help you get started. For formal sponsor relationships, discuss the frequency of meetings and communication preferences. Additionally, agree on what confidentiality means: as a sponsor, you will be an advocate for your prot&eacute;g&eacute;. Sharing their accomplishments and goals is important. However, you will likely have conversations that touch on opinions and experiences that are private or deeply personal. Discuss with your prot&eacute;g&eacute; the types of information that should remain between the two of you (and revisit this throughout your relationship). 
 
-Additionally, discuss your goals! What do you hope to get out of the relationship with your protégé? 
+Additionally, discuss your goals! What do you hope to get out of the relationship with your prot&eacute;g&eacute;? 
 
 ### Take Action 
 
-Management consultant Lara Hogan wrote an in-depth description of [what sponsors can do for their protégés on a regular basis](https://larahogan.me/blog/what-sponsorship-looks-like/). 
+Management consultant Lara Hogan wrote an in-depth description of [what sponsors can do for their prot&eacute;g&eacute;s on a regular basis](https://larahogan.me/blog/what-sponsorship-looks-like/). 
 
-Draft a list of opportunities, both one time and on-going, where you could sponsor your protégé. Think of both highly visible opportunities (representing your program at a work meeting; writing a blog post for your agency’s website) as well as strategic opportunities (introducing your protégé to someone who has influence in a relevant area; encouraging them to raise their hand for a stretch assignment that they otherwise wouldn’t consider). 
+Draft a list of opportunities, both one time and on-going, where you could sponsor your prot&eacute;g&eacute;. Think of both highly visible opportunities (representing your program at a work meeting; writing a blog post for your agency’s website) as well as strategic opportunities (introducing your prot&eacute;g&eacute; to someone who has influence in a relevant area; encouraging them to raise their hand for a stretch assignment that they otherwise wouldn’t consider). 
 
 Need additional ideas for your list? Other sponsor opportunities include: 
 
@@ -82,11 +82,11 @@ Need additional ideas for your list? Other sponsor opportunities include:
 
 ### Give Feedback 
 
-Feedback is a critical component of professional growth and a “micro-sponsorship” opportunity. Many people struggle to give clear, actionable and constructive feedback, particularly when addressing interpersonal challenges or poor performance. Research shows that [vague feedback holds employees back](https://hbr.org/2016/04/research-vague-feedback-is-holding-women-back), and your protégé may suffer from unclear feedback or an absence of it altogether. 
+Feedback is a critical component of professional growth and a “micro-sponsorship” opportunity. Many people struggle to give clear, actionable and constructive feedback, particularly when addressing interpersonal challenges or poor performance. Research shows that [vague feedback holds employees back](https://hbr.org/2016/04/research-vague-feedback-is-holding-women-back), and your prot&eacute;g&eacute; may suffer from unclear feedback or an absence of it altogether. 
 
 There are a variety of tools and articles written on giving feedback. The Center for Creative Leadership developed a three step model called the [Situation-Behavior-Impact Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) (SBI), and consultant Kim Scott has spoken extensively about the need for [Radical Candor](https://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/). 
 
-For protégés that you work with on a regular basis, consider meetings or projects from the past year. What went well, what needs improvement, and what do they need to advance in their career? 
+For prot&eacute;g&eacute;s that you work with on a regular basis, consider meetings or projects from the past year. What went well, what needs improvement, and what do they need to advance in their career? 
 
 For those whom you interact with irregularly, consider reviewing their portfolio, LinkedIn, or other public facing professional products. Can you write a recommendation or testimonial based on past collaborations? 
 
