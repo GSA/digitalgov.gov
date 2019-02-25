@@ -15,11 +15,13 @@ tag:
   - pif
   - presidential-innovation-fellows
 featured_image:
-  uid: pif-card-alt
+  uid: pif-talk3
   alt: ''
 ---
 
 Our country needs more Presidential Innovation Fellows. Our government needs product, engineering, design, technology, and organizational and development leaders who have the experience and management skills to solve critical problems, create new teams, and make a significant impact on the way citizens experience government services.
+
+{{< img src="pif-talk3" >}}
 
 The mission of the [Presidential Innovation Fellows program](https://www.presidentialinnovationfellows.gov/) is to transform the federal government from within. We do this by embedding talented individuals into federal agencies facing significant mission challenges. For example, Fellows serve in the senior echelons of the Federal Bureau of Investigation, the Department of Veterans Affairs, the Department of Homeland Security, the Department of Defense, the Department of Transportation, and the Food and Drug Administration, to name just a few. They have helped find new ways to partner with the private sector to reduce crime, make it easier for patients to enroll in the cancer trials, and ease the path for veterans seeking care.
 
@@ -38,5 +40,3 @@ We also encourage you to apply to the other government programs and fellowships.
 Being housed within the U.S. General Services Administration and Technology Transformation Services (TTS), the PIFs have access to a large network of technology professionals working to re-shape government from a variety of vantage points: with a cadre of free government-wide services via the Office of Products and Programs; via the 18F program that partners with agencies to strengthen technology practices through short projects; and through the TTS Centers of Excellence that are leveraging industry innovation to shape and centralize government best practices and expertise.
 
 On January 20, 2017  the President of the United States signed the TALENT Act (H.R. 39) to codify the Presidential Innovation Fellows program into law and recruit private sector science and technology innovation leaders into federal government service. The program is administered as a partnership between the White House Office of Science and Technology Policy (OSTP), the White House Office of Management and Budget (OMB), and the General Services Administration (GSA). For more information, and to apply, see [apply.pif.gov](https://presidentialinnovationfellows.gov/apply/).
-
-[Photo caption: — Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs. (photo credit: Jeff White, GSA)]
