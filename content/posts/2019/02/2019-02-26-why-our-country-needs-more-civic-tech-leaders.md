@@ -40,5 +40,3 @@ Being housed within the U.S. General Services Administration and Technology Tran
 On January 20, 2017  the President of the United States signed the TALENT Act (H.R. 39) to codify the Presidential Innovation Fellows program into law and recruit private sector science and technology innovation leaders into federal government service. The program is administered as a partnership between the White House Office of Science and Technology Policy (OSTP), the White House Office of Management and Budget (OMB), and the General Services Administration (GSA). For more information, and to apply, see [apply.pif.gov](https://presidentialinnovationfellows.gov/apply/).
 
 [Photo caption: — Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs. (photo credit: Jeff White, GSA)]
-
-_Justin Koufopoulos is a two-term Presidential Innovation Fellow, with a background in product strategy and organizational consulting. He is currently working at the Department of Veterans Affairs on modernizing the VA’s clinical research policy and infrastructure to better meet the needs of Veterans._
