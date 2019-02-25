@@ -12,9 +12,10 @@ authors:
 categories:
   -
 tag:
-  -
+  - pif
+  - presidential-innovation-fellows
 featured_image:
-  uid:
+  uid: pif-card-alt
   alt: ''
 ---
 
@@ -36,10 +37,8 @@ We also encourage you to apply to the other government programs and fellowships.
 
 Being housed within the U.S. General Services Administration and Technology Transformation Services (TTS), the PIFs have access to a large network of technology professionals working to re-shape government from a variety of vantage points: with a cadre of free government-wide services via the Office of Products and Programs; via the 18F program that partners with agencies to strengthen technology practices through short projects; and through the TTS Centers of Excellence that are leveraging industry innovation to shape and centralize government best practices and expertise.
 
-On January 20, 2017  the President of the United States signed the TALENT Act (H.R. 39) to codify the Presidential Innovation Fellows program into law and recruit private sector science and technology innovation leaders into federal government service. The program is administered as a partnership between the White House Office of Science and Technology Policy (OSTP), the White House Office of Management and Budget (OMB), and the General Services Administration (GSA). For more information, and to apply, see apply.pif.gov.
+On January 20, 2017  the President of the United States signed the TALENT Act (H.R. 39) to codify the Presidential Innovation Fellows program into law and recruit private sector science and technology innovation leaders into federal government service. The program is administered as a partnership between the White House Office of Science and Technology Policy (OSTP), the White House Office of Management and Budget (OMB), and the General Services Administration (GSA). For more information, and to apply, see [apply.pif.gov](https://presidentialinnovationfellows.gov/apply/).
 
-
-Photo caption:
-Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs. (photo credit: Jeff White, GSA)
+[Photo caption: — Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs. (photo credit: Jeff White, GSA)]
 
 _Justin Koufopoulos is a two-term Presidential Innovation Fellow, with a background in product strategy and organizational consulting. He is currently working at the Department of Veterans Affairs on modernizing the VA’s clinical research policy and infrastructure to better meet the needs of Veterans._
