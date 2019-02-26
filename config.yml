@@ -69,6 +69,7 @@ taxonomies:
   category              : "categories"
   author                : "authors"
 
+
 ## Menu Navigation
 menu:
   primary:
@@ -84,6 +85,6 @@ menu:
     - Name            : "Communities"
       URL             : "/communities/"
       Weight          : 4
-    - Name            : "People"
-      URL             : "/authors/"
+    - Name            : "Services"
+      URL             : "/services/"
       Weight          : 5
