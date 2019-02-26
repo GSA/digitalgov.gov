@@ -16,13 +16,13 @@ tag:
   - presidential-innovation-fellows
 featured_image:
   uid: pif-talk3
-  alt: 'Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs. (photo credit: Jeff White, GSA)'
+  alt: 'Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs.'
   
 ---
 
 Our country needs more Presidential Innovation Fellows. Our government needs product, engineering, design, technology, and organizational and development leaders who have the experience and management skills to solve critical problems, create new teams, and make a significant impact on the way citizens experience government services.
 
-{{< img src="pif-talk3" >}}
+{{< img src="pif-talk3" caption="Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs. (photo credit: Jeff White, GSA)">}}
 
 The mission of the [Presidential Innovation Fellows program](https://www.presidentialinnovationfellows.gov/) is to transform the federal government from within. We do this by embedding talented individuals into federal agencies facing significant mission challenges. For example, Fellows serve in the senior echelons of the Federal Bureau of Investigation, the Department of Veterans Affairs, the Department of Homeland Security, the Department of Defense, the Department of Transportation, and the Food and Drug Administration, to name just a few. They have helped find new ways to partner with the private sector to reduce crime, make it easier for patients to enroll in the cancer trials, and ease the path for veterans seeking care.
 
