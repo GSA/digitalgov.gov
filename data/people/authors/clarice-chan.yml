@@ -9,8 +9,10 @@ display_name: Clarice Chan
 first_name: Clarice
 last_name: Chan
 uid: clairice-chan
-email: ''
-bio: ''
+email: 
+linkedin: claricechan
+
+bio: 'Clarice Chan is a Presidential Innovation Fellow applying human-centered design to solve usability challenges at scale. With a background in product management, user-experience, and design thinking, Clarice is focused on digital transformation and service delivery modernization at the Department of Veterans Affairs.'
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
