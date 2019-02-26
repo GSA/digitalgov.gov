@@ -1,7 +1,7 @@
 ---
 slug: how-a-health-tech-sprint-inspired-an-ai-ecosystem
 date: 2019-02-27 13:00:00 -0500
-title: 'The Results of a 14-week Sprint Health Tech and Artificial Intelligence'
+title: 'Results of a 14-week Sprint Health Tech Using Artificial Intelligence'
 summary: 'The TOP Health tech team leveraged artificial intelligence and federal open data to promote better outcomes.'
 deck: "When the team began, they did not realize the profound lessons they would learn in just a few months"
 authors:
