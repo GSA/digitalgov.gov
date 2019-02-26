@@ -19,14 +19,17 @@ tag:
   - innovation
   - emerging-tech
 featured_image:
-  uid:
+  uid: pif-ai-open-data
   alt: ''
 ---
+
+{{< img src="pif-ai-open-data" >}}
 
 When we began our 14-week tech health sprint in October 2018, we did not realize the profound lessons we would learn in just a few months. Together with federal agencies and private sector organizations, we demonstrated the power of applying artificial intelligence to open federal data.
 Through this collaborative process, we showed that federal data can be turned into products for real-world health applications with the potential to help millions of Americans have a better life.
 
 Our TOP Health sprint, in collaboration with the U.S. Department of Health and Human Services [Office of the Chief Technology Officer](https://www.hhs.gov/cto/index.html) and [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/), was modeled in part after [The Opportunity Project](https://opportunity.census.gov/) (TOP) at U.S. Department of Commerce. It was co-lead by Presidential Innovation Fellow, Dr. Gil Alterovitz, and HHS Innovator-in-Residence, Dr. Kristen Honey.
+
 
 The TOP Health teams developed and delivered digital tools to address one of two challenges:
 
@@ -38,7 +41,7 @@ The TOP Health teams developed and delivered digital tools to address one of two
 
 In this first part of our series, we asked federal agencies and patient advocates who were part of the AI-ecosystem pilot to share their reactions and insights on their collaborations. Many shared that this sprint allowed for an open exchange of ideas and the opportunity for further collaboration between the U.S. government and private sector companies.
 
-Joshua Di Frances, the executive director of the Presidential Innovation Fellows (PIF) program says this collaboration across agencies and private companies represents a new way of approaching AI and federal open data. _“Through incentivizing links between government and industry via a bidirectional AI ecosystem, we can help promote usable, actionable data that benefits the American people,"_ Di Frances said.
+Joshua Di Frances, the executive director of the Presidential Innovation Fellows (PIF) program says this collaboration across agencies and private companies represents a new way of approaching AI and federal open data. “Through incentivizing links between government and industry via a bidirectional AI ecosystem, we can help promote usable, actionable data that benefits the American people," Di Frances said.
 
 ## Challenge #1: Artificial Intelligence (AI) Teams
 
