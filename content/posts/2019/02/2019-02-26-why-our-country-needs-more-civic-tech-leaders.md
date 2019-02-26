@@ -10,13 +10,14 @@ authors:
   - clara-tsao
   - stephen-winchell
 categories:
-  -
+  - managing-digital
 tag:
   - pif
   - presidential-innovation-fellows
 featured_image:
   uid: pif-talk3
-  alt: ''
+  alt: 'Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs. (photo credit: Jeff White, GSA)'
+  
 ---
 
 Our country needs more Presidential Innovation Fellows. Our government needs product, engineering, design, technology, and organizational and development leaders who have the experience and management skills to solve critical problems, create new teams, and make a significant impact on the way citizens experience government services.
