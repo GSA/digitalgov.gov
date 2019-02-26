@@ -1,9 +1,9 @@
 ---
 slug: how-a-health-tech-sprint-inspired-an-ai-ecosystem
 date: 2019-02-27 13:00:00 -0500
-title: 'How a Health Tech Sprint Inspired An AI Ecosystem'
-summary: 'This is a two-part series featuring learnings on the TOP Health tech sprint on using AI and federal open data to create new digital health tools.'
-deck: 'A pioneering TOP Health tech sprint produces valuable learnings on leveraging artificial intelligence and federal open data to promote better health outcomes.'
+title: 'The Results of a 14-week Sprint Health Tech and Artificial Intelligence'
+summary: 'The TOP Health tech team leveraged artificial intelligence and federal open data to promote better outcomes.'
+deck: "When the team began, they did not realize the profound lessons they would learn in just a few months"
 authors:
   - gil-alterovitz
   - davar-ardalan
@@ -26,9 +26,12 @@ featured_image:
 {{< img src="pif-ai-open-data" >}}
 
 When we began our 14-week tech health sprint in October 2018, we did not realize the profound lessons we would learn in just a few months. Together with federal agencies and private sector organizations, we demonstrated the power of applying artificial intelligence to open federal data.
+
 Through this collaborative process, we showed that federal data can be turned into products for real-world health applications with the potential to help millions of Americans have a better life.
 
 Our TOP Health sprint, in collaboration with the U.S. Department of Health and Human Services [Office of the Chief Technology Officer](https://www.hhs.gov/cto/index.html) and [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/), was modeled in part after [The Opportunity Project](https://opportunity.census.gov/) (TOP) at U.S. Department of Commerce. It was co-lead by Presidential Innovation Fellow, Dr. Gil Alterovitz, and HHS Innovator-in-Residence, Dr. Kristen Honey.
+
+[_Read our blog post from October that details our starting assumptions and project goals »_](http://localhost:1313/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/)
 
 
 The TOP Health teams developed and delivered digital tools to address one of two challenges:
