@@ -1,9 +1,9 @@
 ---
 slug: how-a-health-tech-sprint-inspired-an-ai-ecosystem
 date: 2019-02-27 13:00:00 -0500
-title: 'Results of a 14-week Sprint Health Tech Using Artificial Intelligence'
-summary: 'The TOP Health tech team leveraged artificial intelligence and federal open data to promote better outcomes.'
-deck: "When the team began, they did not realize the profound lessons they would learn in just a few months"
+title: 'Deep Dive: How a Health Tech Sprint Pioneered an AI Ecosystem'
+summary: 'Seven teams created digital tools that help in finding experimental therapies for patients, and for clinical trials to recruit new patients.'
+deck: "Seven teams created digital tools that help in finding experimental therapies for patients, and for clinical trials to recruit new patients."
 authors:
   - gil-alterovitz
   - davar-ardalan
@@ -25,28 +25,15 @@ featured_image:
 
 {{< img src="pif-ai-open-data" >}}
 
-When we began our 14-week tech health sprint in October 2018, we did not realize the profound lessons we would learn in just a few months. Together with federal agencies and private sector organizations, we demonstrated the power of applying artificial intelligence to open federal data.
+When we began our [14-week tech health sprint in October 2018](http://localhost:1313/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/), we did not realize the profound lessons we would learn in just a few months. Together with federal agencies and private sector organizations, we demonstrated the power of applying artificial intelligence (AI) to open federal data. Through this collaborative process, we showed that federal data can be turned into products for real-world health applications with the potential to help millions of Americans have a better life.
 
-Through this collaborative process, we showed that federal data can be turned into products for real-world health applications with the potential to help millions of Americans have a better life.
+Joshua Di Frances, the executive director of the Presidential Innovation Fellows (PIF) program, says that this collaboration across agencies and private companies represents a new way of approaching AI and federal open data. “Through incentivizing links between government and industry via a bidirectional AI ecosystem, we can help promote usable, actionable data that benefits the American people," Di Frances said.
 
-Our TOP Health sprint, in collaboration with the U.S. Department of Health and Human Services [Office of the Chief Technology Officer](https://www.hhs.gov/cto/index.html) and [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/), was modeled in part after [The Opportunity Project](https://opportunity.census.gov/) (TOP) at U.S. Department of Commerce. It was co-lead by Presidential Innovation Fellow, Dr. Gil Alterovitz, and HHS Innovator-in-Residence, Dr. Kristen Honey.
+## Challenge #1 - Artificial Intelligence (AI) Teams
 
-[_Read our blog post from October that details our starting assumptions and project goals »_](http://localhost:1313/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/)
-
-
-The TOP Health teams developed and delivered digital tools to address one of two challenges:
-
-## TOP Health Challenges
-
-**Challenge #1** - Artificial Intelligence (AI) Teams: Seven teams created digital tools that help in finding experimental therapies for patients and for clinical trials to recruit patients.
-
-**Challenge #2** - Lyme and Tick-Borne Disease Teams: Four teams developed capabilities to support data-driven decisions for the prevention, education, and science for improving public health outcomes related to tick-borne diseases.
-
-In this first part of our series, we asked federal agencies and patient advocates who were part of the AI-ecosystem pilot to share their reactions and insights on their collaborations. Many shared that this sprint allowed for an open exchange of ideas and the opportunity for further collaboration between the U.S. government and private sector companies.
+In this first part of our series, we asked federal agencies and patient advocates who were part of the AI teams to share their reactions and insights on their collaborations. Many shared that this sprint allowed for an open exchange of ideas and the opportunity for further collaboration between the U.S. government and private sector companies.
 
 Joshua Di Frances, the executive director of the Presidential Innovation Fellows (PIF) program says this collaboration across agencies and private companies represents a new way of approaching AI and federal open data. “Through incentivizing links between government and industry via a bidirectional AI ecosystem, we can help promote usable, actionable data that benefits the American people," Di Frances said.
-
-## Challenge #1: Artificial Intelligence (AI) Teams
 
 By January 2019, seven TOP Health teams had [delivered digital tools](https://www.hhs.gov/cto/blog/2019/1/17/top-health-tech-sprint-unleashes-the-power-of-open-data-and-ai.html) — all built with federal data and leveraging emerging technology like artificial intelligence (AI). Teams transformed [Data.gov](https://data.gov) resources into digital products, apps, and gamification inventions to improve clinical trials, experimental therapies, and data-driven solutions for complex challenges from cancer to Lyme and tick-borne diseases.
 
@@ -64,7 +51,7 @@ The Department of Veterans Affairs (VA) took a different approach. They provided
 
 Core to the TOP Health process is people — including patients. User-centered feedback from diverse individuals guided the development of all digital tools. In the AI ecosystem track, patient advocates like Stephen Aldrich, a 63-year-old ex-founder and CEO of Bio Economic Research Associates, LLC (bio-era) provided valuable feedback and perspective. Aldrich was diagnosed with metastatic Stage IV adenocarcinoma of the esophagus in late March 2017. “My response to my fatal cancer diagnosis served as an inspirational case study for the sprint group,” shares Aldrich. He is hopeful though for the future of experimental therapeutics via AI and open data.
 
-"I am extremely grateful to live at a time when what used to be a terminal cancer diagnosis can be turned into something much less threatening due, in no small part, to our exploding ability to gather and analyze personal -omic information.  I envision a day when all cancer patients have had their cancers fully sequenced, and enjoy direct control over their fundamental genomic and health data, enabling them to quickly identify the best potential treatment options for their unique cancers.  Amazing cures are possible, if we enable them to happen," Aldrich says.
+"I am extremely grateful to live at a time when what used to be a terminal cancer diagnosis can be turned into something much less threatening due, in no small part, to our exploding ability to gather and analyze personal omic information. I envision a day when all cancer patients have had their cancers fully sequenced, and enjoy direct control over their fundamental genomic and health data, enabling them to quickly identify the best potential treatment options for their unique cancers. Amazing cures are possible, if we enable them to happen," Aldrich says.
 
 Rick Bangs, MBA/PMP, is a bladder and prostate cancer survivor and works as a patient advocate, primarily in research and clinical trials. He serves as patient advocate for the National Cancer Institute (NCI), SWOG Cancer Research Network, the National Comprehensive Cancer Network (NCCN), and ASCO and has leadership roles in both the NCI and SWOG. He has also supported the clinicaltrials.gov development team in its efforts to improve its user interface and provide more relevant search results.
 
@@ -103,4 +90,10 @@ On February 28, 2019, the PIFs and HHS Office of the CTO will co-host the TOP He
 - Provide opportunity for all 10 TOP Health teams to pitch their 11 digital tools to federal leadership.
 - Build momentum for the larger, 250-person event at Census Bureau – [The Opportunity Project Demo Day](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/) – to be held on March 1.
 
-Are you interested in learning more about using/extending the AI ecosystem, Lyme Innovation, Open Data, Data’s Choice, AI’s Choice, or the TOP Health sprint?  If so, please see the TOP Health site or contact us at: [ai@pif.gov](mailto:ai@pif.gov) or [cto@hhs.gov](mailto:cto@hhs.gov). On social media follow [@InnovFellows](https://twitter.com/InnovFellows) @[HHSCTO](https://twitter.com/HHSCTO) and the hashtag [#TOPHealth](https://twitter.com/search?q=%23tophealth&src=typd).
+In early March, we’ll share learnings from Challenge #2, focusing on Lyme and Tick-Borne Disease Teams — four teams developed capabilities to support data-driven decisions for the prevention, education, and science for improving public health outcomes related to tick-borne diseases.
+
+---
+
+_Our TOP Health sprint, in collaboration with the U.S. Department of Health and Human Services [Office of the Chief Technology Officer](https://www.hhs.gov/cto/index.html) and [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/), was modeled in part after [The Opportunity Project](https://opportunity.census.gov/) (TOP) at U.S. Department of Commerce. It was co-lead by Presidential Innovation Fellow, Dr. Gil Alterovitz, and HHS Innovator-in-Residence, Dr. Kristen Honey._
+
+_Are you interested in learning more about using/extending the AI ecosystem, Lyme Innovation, Open Data, Data’s Choice, AI’s Choice, or the TOP Health sprint?  If so, please see the TOP Health site or contact us at: [ai@pif.gov](mailto:ai@pif.gov) or [cto@hhs.gov](mailto:cto@hhs.gov). On social media follow [@InnovFellows](https://twitter.com/InnovFellows) @[HHSCTO](https://twitter.com/HHSCTO) and the hashtag [#TOPHealth](https://twitter.com/search?q=%23tophealth&src=typd)._
