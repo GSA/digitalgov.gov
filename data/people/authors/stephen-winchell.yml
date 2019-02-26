@@ -10,9 +10,10 @@ first_name: Stephen
 last_name: Winchell
 uid: stephen-winchell
 email: stephen.winchell@gsa.gov
+linkedin: jkoufopoulos
 
 # Tell us about yourself! Keep it to 1-2 sentences.
-bio: ''
+bio: 'Justin Koufopoulos is a two-term Presidential Innovation Fellow, with a background in product strategy, design research, and organizational consulting. He is currently working at the Department of Veterans Affairs on modernizing their research policy and infrastructure to better meet the needs of Veterans. As a Presidential Innovation Fellow, Stephen Winchell works at the Intelligence Advanced Research Projects Activity (IARPA), creating and managing new high-risk high-payoff research programs in support of long term Intelligence Community (IC) goals. His projects have focused on evaluating and testing new technologies; AI Security and Maritime Programs, and larger Office of the Director of National Intelligence (ODNI) strategic efforts.'
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''
