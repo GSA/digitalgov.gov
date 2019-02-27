@@ -31,9 +31,12 @@
 
 top6:
 
-  - file          : '2019-02-26-why-our-country-needs-more-civic-tech-leaders.md'
+  - file          : '2019-02-26-how-a-health-tech-sprint-inspired-an-ai-ecosystem.md'
     type          : 'post'
 
+  - file          : '2019-02-26-why-our-country-needs-more-civic-tech-leaders.md'
+    type          : 'post'
+    
   - file          : '2019-02-14-introducing-2019-presidential-innovation-fellows.md'
     type          : 'post'
 
@@ -44,7 +47,4 @@ top6:
     type          : 'post'
 
   - file          : '2018-11-07-dap-learning-series-basics-ab-testing-part-2.md'
-    type          : 'video'
-
-  - file          : '2018-11-06-fedramps-resources-for-agencies.md'
     type          : 'video'
