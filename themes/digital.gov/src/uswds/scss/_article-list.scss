@@ -13,8 +13,8 @@
     transition: border .2s;
 
     & > div:first-of-type{
-      @include u-margin(0);
-      @include u-display('flex');
+      // @include u-margin(0);
+      // @include u-display('flex');
     }
 
     .icon{
