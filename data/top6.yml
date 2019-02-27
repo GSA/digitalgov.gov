@@ -31,6 +31,9 @@
 
 top6:
 
+  - file          : '2019-02-26-why-our-country-needs-more-civic-tech-leaders.md'
+    type          : 'post'
+
   - file          : '2019-02-14-introducing-2019-presidential-innovation-fellows.md'
     type          : 'post'
 
@@ -45,6 +48,3 @@ top6:
 
   - file          : '2018-11-06-fedramps-resources-for-agencies.md'
     type          : 'video'
-
-  - file          : '2018-11-02-health-tech-sprint-aims-at-improving-care-access-experience.md'
-    type          : 'post'
