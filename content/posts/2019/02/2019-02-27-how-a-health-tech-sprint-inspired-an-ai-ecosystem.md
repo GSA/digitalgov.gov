@@ -47,7 +47,7 @@ To inspire prospective inventors, including those with applications in the AI ec
 
 The Department of Veterans Affairs (VA) took a different approach. They provided access to de-identified cancer patients for use in matching to trials/therapeutics and analytical tools around AI and machine learning.
 
-## Patient Participation and Perspectives
+### Patient Participation and Perspectives
 
 Core to the TOP Health process is people — including patients. User-centered feedback from diverse individuals guided the development of all digital tools. In the AI ecosystem track, patient advocates like Stephen Aldrich, a 63-year-old ex-founder and CEO of Bio Economic Research Associates, LLC (bio-era) provided valuable feedback and perspective. Aldrich was diagnosed with metastatic Stage IV adenocarcinoma of the esophagus in late March 2017. “My response to my fatal cancer diagnosis served as an inspirational case study for the sprint group,” shares Aldrich. He is hopeful though for the future of experimental therapeutics via AI and open data.
 
@@ -59,7 +59,7 @@ Bangs says the AI ecosystem demos were promising though he believes that no one 
 
 He notes that applied responsibly open data AI approaches “probably” can facilitate a new experimental therapy ecosystem that will benefit the patients but he says data structures and hierarchies must be modernized and matching must account for location as well as disease, “Open data AI approaches can facilitate the ecosystem but only one which is as strong as its weakest link, which is data. The question is whether we can drive a result that is fit for purpose as defined by key stakeholders within the constraints and limitations.”
 
-## National Cancer Institute Deep Dive on Data Collaboration
+### National Cancer Institute Deep Dive on Data Collaboration
 
 The AI collaboration actually created new datasets, which resulted in a number of interesting patterns and lessons. For example, the National Cancer Institute (NCI), which is part of the National Institutes of Health (NIH), generated three new datasets including data on: (1) structured eligibility criteria, (2) participants based on call samples to contact center, and (3) medical professional-curated participant/trial match rating. NCI also provided medical professional curation to make datasets, and give guidance.
 
@@ -78,7 +78,7 @@ Dr. Sarosy applauds the various organizations for “applying resources to tackl
 
 Although she said that some of the new digital tools and applications from TOP Health are still quite early in development, she encourages continued progress. “This direct interaction helped me think of ways to work with my team to refine the datasets to better meet patients’ needs. I am hopeful that the direct interaction helped the innovators to better understand the challenges of providers as they seek to find the right trial for a potential participant at the point of need,” Sarosy added.
 
-## United States Leadership in AI and Technology
+### United States Leadership in AI and Technology
 
 This first-ever TOP Health tech sprint advanced priorities recently identified in the American AI Initiative, established by Executive Order in Feb. 2019. It also illustrated real-world value as government data was unlocked for public use as machine-readable "open data," per the Jan. 2019 signed Foundations for Evidence-based Policymaking Act.
 
