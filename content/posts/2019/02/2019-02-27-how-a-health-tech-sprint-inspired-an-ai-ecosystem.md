@@ -34,8 +34,6 @@ Joshua Di Frances, the executive director of the Presidential Innovation Fellows
 
 In this first part of our series, we asked federal agencies and patient advocates who were part of the AI teams to share their reactions and insights on their collaborations. Many shared that this sprint allowed for an open exchange of ideas and the opportunity for further collaboration between the U.S. government and private sector companies.
 
-Joshua Di Frances, the executive director of the Presidential Innovation Fellows (PIF) program says this collaboration across agencies and private companies represents a new way of approaching AI and federal open data. “Through incentivizing links between government and industry via a bidirectional AI ecosystem, we can help promote usable, actionable data that benefits the American people," Di Frances said.
-
 By January 2019, seven TOP Health teams had [delivered digital tools](https://www.hhs.gov/cto/blog/2019/1/17/top-health-tech-sprint-unleashes-the-power-of-open-data-and-ai.html) — all built with federal data and leveraging emerging technology like artificial intelligence (AI). Teams transformed [Data.gov](https://data.gov) resources into digital products, apps, and gamification inventions to improve clinical trials, experimental therapies, and data-driven solutions for complex challenges from cancer to Lyme and tick-borne diseases.
 
 From the onset of the AI-ecosystem sprint, Presidential Innovation Fellow Dr. Gil Alterovitz engaged with federal and industry thought leaders who emphasized that the key to fostering an AI-centric approach was quality data. To create value — especially with AI — data must be in an accessible and in a usable format.
