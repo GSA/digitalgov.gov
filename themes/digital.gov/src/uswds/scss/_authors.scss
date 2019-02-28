@@ -38,15 +38,18 @@
 	.author-short{
 		@include u-margin(0);
 		@include u-padding(0);
-		@include u-display('inline-block');
-		border:none;
-		@include u-text('normal');
+		@include u-display('flex');
+		@include u-flex('align-center')
+		@include u-border(0);
+		@include u-text('semibold');
+		@include u-text('no-underline');
 		@include u-font('sans', '2xs');
 		img{
 			@include u-margin-right('05');
-			position: relative;
 			@include u-circle(3);
-			top:6px;
+		}
+		span{
+
 		}
 	}
 }

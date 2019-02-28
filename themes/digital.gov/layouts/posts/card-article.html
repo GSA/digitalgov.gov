@@ -4,19 +4,22 @@
       <div class="content">
         <h3><a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a></h3>
         <p class="deck">{{ .Params.deck | markdownify -}}</p>
-
-        <p class="authors">{{ partial "core/get_authors_short" . -}}</p>
-        <div class="meta">
-          {{- partial "core/get_clicks" . -}}
-          {{- partial "core/get_topics" . -}}
-        </div>
       </div>
     </div>
     <div class="grid-col-3">
       <div class="media">
         <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
-          {{/* {{ partial "img-featured--home.html" . }} */}}
+          {{ partial "core/img-featured.html" . }}
         </a>
+      </div>
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="grid-col-12">
+      <div class="meta">
+        {{- partial "core/get_authors_short" . -}}
+        {{- partial "core/get_clicks" . -}}
+        {{- partial "core/get_topics" . -}}
       </div>
     </div>
   </div>

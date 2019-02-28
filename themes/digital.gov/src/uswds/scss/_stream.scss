@@ -1,0 +1,49 @@
+
+
+.stream{
+	article{
+		@include u-padding(4);
+		@include u-radius('lg');
+		@include u-bg('gray-warm-5');
+		h3{
+			@include u-font('sans', 'lg');
+			a{
+				@include u-color('black');
+				@include u-text('no-underline');
+			}
+		}
+		.deck{
+			@include u-margin-top(1);
+			@include u-font('sans', 'md');
+			@include u-text('light');
+		}
+		.meta{
+			@include u-margin-top(1);
+			.authors{
+				@include u-margin-top(0);
+				@include u-maxw('full');
+				@include u-display('flex');
+				@include u-flex('align-center');
+				a.author{
+					@include u-margin-left('105');
+					&:first-child{
+						@include u-margin-left(0);
+					}
+				}
+			}
+			.topics{
+				@include u-margin-top(0);
+			}
+			.clicks{
+				@include u-margin-top(1);
+				@include u-font('sans', 'xs');
+				@include u-display('inline-block');
+				@include u-text('gold-40v');
+				i{
+					@include u-text('gold-30v');
+				}
+			}
+		}
+
+	}
+}

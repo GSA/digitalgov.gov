@@ -5,21 +5,17 @@
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-4">
         <div class="grid-col-12">
-          <h1>Spotlight</h1>
+          <h1>News</h1>
           <p>A round-up of recent news and resources from across our community</p>
         </div>
       </div>
     </div>
   </header>
 
-  <section class="article-list">
+  <section class="stream">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-4">
-        <div class="grid-col-12 display-none tablet:display-block tablet:grid-col-4 tablet-lg:grid-col-3">
 
-          {{ partial "core/top-topics.html" . }}
-
-        </div>
         <div class="grid-col-12 tablet:grid-col-8 tablet-lg:grid-col-9">
           {{/* Blog Posts by Topic —
           List all of the blog posts tagged with this topic */}}
@@ -48,6 +44,12 @@
             {{ end }}
           {{ end }}
           {{ partial "core/pagination.html" . }}
+        </div>
+
+        <div class="grid-col-12 display-none tablet:display-block tablet:grid-col-4 tablet-lg:grid-col-3">
+
+          {{ partial "core/top-topics.html" . }}
+
         </div>
       </div>
     </div>

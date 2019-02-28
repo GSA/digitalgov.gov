@@ -3,7 +3,7 @@
   AUTHORS .... short
   ======================================
 */}}
-
+<p class="authors">
 {{- if (not (isset .Params "authors")) | or (eq .Params.authors "") -}}
 {{- else -}}
   {{/* get the authors  */}}
@@ -28,8 +28,9 @@
       {{- else -}}
       <img class="circle-5" src="http://placekitten.com/100/100" alt="">
       {{- end -}}
-      {{- $author.display_name | default $uid -}}
-      {{- if $author.agency }} / {{ $author.agency -}}{{- end -}}
-    </a>{{ if lt (add $i 1) $length }}, {{ end }}
+      <span>{{- $author.display_name | default $uid -}}
+      {{- if $author.agency }} / {{ $author.agency -}}{{- end -}}</span>
+    </a>{{ if lt (add $i 1) $length }}<!--,--> {{ end }}
   {{- end -}}
 {{- end -}}
+</p>

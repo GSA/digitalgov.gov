@@ -1,6 +1,6 @@
 {{/* News & Updates */}}
 
-<section id="news-stream">
+<section id="news">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
@@ -13,7 +13,7 @@
     </div>
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
-        <section class="article-list">
+        <section class="stream">
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
           {{- range first 8 $posts -}}
 
