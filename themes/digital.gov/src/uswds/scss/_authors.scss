@@ -39,7 +39,7 @@
 		@include u-margin(0);
 		@include u-padding(0);
 		@include u-display('flex');
-		@include u-flex('align-center')
+		@include u-flex('align-center');
 		@include u-border(0);
 		@include u-text('semibold');
 		@include u-text('no-underline');

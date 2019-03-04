@@ -28,8 +28,7 @@
       {{- else -}}
       <img class="circle-5" src="http://placekitten.com/100/100" alt="">
       {{- end -}}
-      <span>{{- $author.display_name | default $uid -}}
-      {{- if $author.agency }} / {{ $author.agency -}}{{- end -}}</span>
+      <span>{{- $author.display_name | default $uid -}}</span>
     </a>{{ if lt (add $i 1) $length }}<!--,--> {{ end }}
   {{- end -}}
 {{- end -}}

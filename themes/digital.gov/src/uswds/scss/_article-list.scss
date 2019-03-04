@@ -70,6 +70,7 @@
         @include u-margin-top('05');
         @include u-margin-bottom(1);
         @include u-display('inline-block');
+        @include u-flex('wrap');
       }
 
       .meta{

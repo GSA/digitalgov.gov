@@ -23,12 +23,11 @@
 				@include u-margin-top(0);
 				@include u-maxw('full');
 				@include u-display('flex');
-				@include u-flex('align-center');
+				@include u-flex('wrap');
 				a.author{
-					@include u-margin-left('105');
-					&:first-child{
-						@include u-margin-left(0);
-					}
+					@include u-margin-top(1);
+					@include u-margin-right('105');
+					z-index: 2;
 				}
 			}
 			.topics{
@@ -44,6 +43,32 @@
 				}
 			}
 		}
+
+		// To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+    position: relative;
+    & > a span{
+      margin: 0;
+      position:absolute;
+      width:100%;
+      height:100%;
+      top:0;
+      left: 0;
+      z-index: 1;
+    }
+    &:hover{
+      .content h3 a{
+				@include u-border-bottom('05', 'orange-warm-30v', 'solid');
+      }
+      .topics{
+        a{
+          @include u-bg('orange-warm-10');
+          &:hover{
+            @include u-bg('orange-warm-20');
+          }
+        }
+
+      }
+    }
 
 	}
 }

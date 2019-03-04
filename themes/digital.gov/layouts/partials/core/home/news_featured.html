@@ -2,17 +2,19 @@
 
 <section id="news">
   <div class="grid-container grid-container-desktop">
+
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+      <div class="grid-col-12">
         <header>
           <h2>News and Updates</h2>
           <p>A round-up of news, guidance, case studies, and interesting work from people across government</p>
         </header>
-
       </div>
     </div>
+
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
+
         <section class="stream">
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
           {{- range first 8 $posts -}}
