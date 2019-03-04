@@ -1,7 +1,9 @@
 
 .stream{
 	article{
-		@include u-padding(4);
+		@include u-margin-bottom(2);
+		@include u-padding-y(3);
+		@include u-padding-x(4);
 		@include u-radius('lg');
 		@include u-bg('gray-warm-5');
 		transition: background-color .2s;
@@ -43,12 +45,19 @@
 				}
 			}
 		}
+		.entry-featured img {
+		  filter: grayscale(75%);
+		}
 		.entry-featured::after {
 			@include u-display('block');
 		  @include u-position('relative');
-		  background-image: linear-gradient(to bottom, transparent 0%, rgba(165, 168, 232, 0.6) 100%);
-		  margin-top: -154px;
-		  height: 150px;
+			background-image:
+		    linear-gradient(
+		      rgba(255, 0, 0, 0),
+					rgba(165, 168, 232, 0.7)
+	    );
+		  margin-top: -64px;
+		  height: 60px;
 		  @include u-width('full');
 		  content: '';
 		}
