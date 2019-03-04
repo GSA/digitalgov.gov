@@ -3,7 +3,8 @@
 	article{
 		@include u-padding(4);
 		@include u-radius('lg');
-		@include u-bg('gray-warm-4');
+		@include u-bg('gray-warm-5');
+		transition: background-color .2s;
 		h3{
 			@include u-font('sans', 'lg');
 			a{
@@ -64,6 +65,7 @@
       z-index: 1;
     }
     &:hover{
+			@include u-bg('gray-warm-4');
       .content h3 a{
 				@include u-border-bottom('05', 'orange-warm-30v', 'solid');
       }
