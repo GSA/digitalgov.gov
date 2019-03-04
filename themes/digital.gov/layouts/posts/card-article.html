@@ -7,8 +7,10 @@
       </div>
       <div class="meta">
         {{- partial "core/get_authors_short" . -}}
-        {{- partial "core/get_clicks" . -}}
-        {{- partial "core/get_topics" . -}}
+        <div class="display-flex">
+          {{- partial "core/get_clicks" . -}}
+          {{- partial "core/get_topics" . -}}
+        </div>
       </div>
     </div>
     <div class="grid-col-3">

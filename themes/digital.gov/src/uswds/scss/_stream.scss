@@ -1,10 +1,9 @@
 
-
 .stream{
 	article{
 		@include u-padding(4);
 		@include u-radius('lg');
-		@include u-bg('gray-warm-5');
+		@include u-bg('gray-warm-4');
 		h3{
 			@include u-font('sans', 'lg');
 			a{
@@ -31,10 +30,10 @@
 				}
 			}
 			.topics{
-				@include u-margin-top(0);
+				@include u-margin-y(0);
 			}
 			.clicks{
-				@include u-margin-top(1);
+				@include u-padding-x('05');
 				@include u-font('sans', 'xs');
 				@include u-display('inline-block');
 				@include u-text('gold-40v');
@@ -43,16 +42,25 @@
 				}
 			}
 		}
+		.entry-featured::after {
+			@include u-display('block');
+		  @include u-position('relative');
+		  background-image: linear-gradient(to bottom, transparent 0%, rgba(165, 168, 232, 0.6) 100%);
+		  margin-top: -154px;
+		  height: 150px;
+		  @include u-width('full');
+		  content: '';
+		}
 
 		// To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
-    position: relative;
+		@include u-position('relative');
     & > a span{
-      margin: 0;
-      position:absolute;
-      width:100%;
-      height:100%;
-      top:0;
-      left: 0;
+      @include u-margin(0);
+			@include u-position('absolute');
+			@include u-width('full');
+			@include u-height('full');
+			@include u-top(0);
+			@include u-left(0);
       z-index: 1;
     }
     &:hover{
@@ -61,14 +69,12 @@
       }
       .topics{
         a{
-          @include u-bg('orange-warm-10');
+          @include u-bg('orange-warm-20');
           &:hover{
-            @include u-bg('orange-warm-20');
+            @include u-bg('orange-warm-30');
           }
         }
-
       }
     }
-
 	}
 }
