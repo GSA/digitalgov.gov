@@ -11,13 +11,17 @@
 		@include u-display('flex');
 		@include u-flex('align-center');
 		@include u-border(0);
+		@include u-color('blue-50v');
 		@include u-text('semibold');
 		@include u-text('no-underline');
-		@include u-font('sans', '2xs');
+		@include u-font('sans', '3xs');
 		z-index: 2;
 		img{
 			@include u-margin-right('05');
 			@include u-circle(3);
+		}
+		&:hover{
+			@include u-text('underline');
 		}
 	}
 }

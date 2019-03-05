@@ -1,9 +1,7 @@
 article.card{
-	@include u-margin-bottom(2);
-	@include u-padding-y(3);
-	@include u-padding-x(3);
-	@include u-radius('lg');
-	@include u-bg('gray-warm-5');
+	@include u-margin-bottom(0);
+	@include u-padding-y(4);
+	@include u-border-bottom('gray-40', 'solid', '1px');
 	h3{
 		@include u-font('sans', 'lg');
 		a{
@@ -22,6 +20,7 @@ article.card{
 			@include u-margin-y(0);
 		}
 		.clicks{
+			@include u-margin-right(1);
 			@include u-padding-x('05');
 			@include u-font('sans', 'xs');
 			@include u-display('inline-block');
@@ -33,6 +32,7 @@ article.card{
 	}
 	.entry-featured img {
 		filter: grayscale(75%);
+		transition: filter .2s;
 	}
 	.entry-featured::after {
 		@include u-display('block');
@@ -40,11 +40,16 @@ article.card{
 		background-image:
 			linear-gradient(
 				rgba(255, 0, 0, 0),
-				rgba(165, 168, 232, 0.7)
+				rgba(165, 168, 232, 0.5)
 		);
 		margin-top: -64px;
 		height: 60px;
 		@include u-width('full');
 		content: '';
+	}
+	&:hover{
+		.entry-featured img {
+			filter: grayscale(0%);
+		}
 	}
 }

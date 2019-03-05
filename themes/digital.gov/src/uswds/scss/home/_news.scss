@@ -5,16 +5,14 @@
   @include u-padding-bottom(5);
 }
 
-#home #news .spotlight {
-
-  // Spotlight Header
+#home #news {
+  @include u-padding-y(4);
   header{
-    @include u-bg('gray-warm-3');
-    @include u-padding('105');
+    @include u-margin-bottom(4);
     color: #000;
     h2{
       @include u-margin-y(1);
-      @include u-font('sans', 'xl');
+      @include u-font('sans', '3xl');
       @include u-text('thin');
       @include u-text('center');
       @include u-line-height('sans', 2);
@@ -28,12 +26,20 @@
     }
     p{
       @include u-margin(0);
+      @include u-text('light');
       @include u-text('center');
-      @include u-text('normal');
-      @include u-font('sans', '2xs');
+      @include u-font('sans', 'lg');
       @include u-line-height('sans', 3);
     }
   }
+}
+
+
+
+#home #news .spotlight {
+
+  // Spotlight Header
+
 
   section{
     @include u-bg('gray-warm-3');

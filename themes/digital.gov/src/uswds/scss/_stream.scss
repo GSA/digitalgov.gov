@@ -1,4 +1,6 @@
 
 .stream{
-	
+	article.card:first-child{
+		@include u-margin-top(0);
+	}
 }

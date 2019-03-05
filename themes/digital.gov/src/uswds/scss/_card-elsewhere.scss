@@ -2,6 +2,11 @@ article.card-elsewhere{
 	.icon{
 		@include u-margin-top('05');
 		@include u-margin-right('105');
-		@include u-width(6);
+		@include u-width(7);
+	}
+	.content{
+		a{
+			@include u-color('blue-50v');
+		}
 	}
 }
