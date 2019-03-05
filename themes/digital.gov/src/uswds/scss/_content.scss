@@ -24,6 +24,7 @@
     @include u-border-top(1px);
     @include u-line-height('sans', 3);
     @include u-font('sans', 'lg');
+    @include u-text('bold');
   }
   h3{
     @include u-margin-top(4);
