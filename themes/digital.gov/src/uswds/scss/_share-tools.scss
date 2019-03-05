@@ -1,0 +1,70 @@
+.share_tools{
+  @include u-margin-top(3);
+  @include u-font('sans', 'md');
+  h3 {
+    @include u-font('sans', 'xs');
+  }
+  a{
+    @include u-padding-top(1);
+    @include u-padding-bottom(1);
+    @include u-padding-x(0);
+    @include u-text('gray-1');
+    @include u-text('center');
+    @include u-text('no-underline');
+    @include u-display('block');
+    &:hover{
+      @include u-bg('gray-2');
+    }
+    i{
+      font-size: 1.125rem;
+    }
+  }
+  .facebook{
+    background: rgba(59, 89, 152, 1);
+    &:hover{
+      background: rgba(59, 89, 152, .8);
+    }
+  }
+  .twitter{
+    background: rgba(29, 161, 242, 1);
+    &:hover{
+      background: rgba(29, 161, 242, .8);
+    }
+  }
+  .linkedin{
+    background: rgba(0, 119, 181, 1);
+    &:hover{
+      background: rgba(0, 119, 181, .8);
+    }
+  }
+  .email{
+    @include u-padding-y(1);
+    @include u-bg('indigo-5');
+    @include u-text('indigo-warm-60');
+    @include u-font('sans', 'xs');
+
+    &:hover{
+      @include u-bg('indigo-20');
+    }
+    i{
+      position: relative;
+      top:1px;
+      font-size: 1rem;
+    }
+  }
+  .print{
+    @include u-padding-y(1);
+    @include u-bg('indigo-5');
+    @include u-text('indigo-warm-60');
+    @include u-font('sans', 'xs');
+
+    &:hover{
+      @include u-bg('indigo-20');
+    }
+    i{
+      position: relative;
+      top:1px;
+      font-size: 1rem;
+    }
+  }
+}
