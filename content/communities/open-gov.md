@@ -16,8 +16,6 @@ We host two listservs. One is open to the public/civil society for the purposes 
 - Public: (please subscribe if you are interested in collaboration with federal and civil society OpenGov partners) Join here: https://groups.google.com/forum/#!forum/us-open-government
 - Government only: For those working on NAP commitments or involved in OpenGov initiatives for your agency. Join by [emailing the OpenGov listserv](mailto:opengov-subscribe-request@listserv.gsa.gov).
 
-**Community Managers:** Kristen Honey, OMB; Alycia Yozzi, GSA; Jon Kraden, GSA
-
 ### Overview
 
 In 2009, the White House issued an unprecedented [Open Government Directive](https://obamawhitehouse.archives.gov/open/documents/open-government-directive) requiring federal agencies to take immediate, specific steps to achieve key milestones in transparency, participation, and collaboration. Agencies have set forth those steps in biennial Open Government Plans available on [each agency’s Open Government website](https://obamawhitehouse.archives.gov/open/about/working-group). The Interagency Open Government Working Group launched in early 2010 as a forum for open government professionals across agencies to share best practices to promote transparency, participation, and collaboration. The Group meets monthly and opens its meetings to civil society colleagues on a quarterly basis. In 2011, the open government efforts were expanded with the launch of the [Open Government Partnership](http://www.opengovpartnership.org/) U.S. efforts with the Open Government Partnership are set forth in biennial Open Government National Action Plans (NAP)  that detail specific and measurable open government commitments.
