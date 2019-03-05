@@ -14,11 +14,7 @@
       </div>
     </div>
     <div class="grid-col-3">
-      <div class="media">
-        <a href="{{ .Permalink }}" title="{{ $.Scratch.Get "card_title" }}">
-          {{ partial "core/img-featured.html" . }}
-        </a>
-      </div>
+      {{ partial "core/img-featured.html" . }}
     </div>
   </div>
 
