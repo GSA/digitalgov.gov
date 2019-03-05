@@ -1,4 +1,4 @@
-<article class="card" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
+<article class="card card-linked" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
   <div class="grid-row grid-gap-4">
     <div class="grid-col-9">
       <div class="content">
@@ -18,5 +18,5 @@
     </div>
   </div>
 
-  <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+  <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
 </article>

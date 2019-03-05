@@ -1,0 +1,27 @@
+
+.card-linked{
+	// To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+	@include u-position('relative');
+	.overlay span{
+		@include u-margin(0);
+		@include u-position('absolute');
+		@include u-width('full');
+		@include u-height('full');
+		@include u-top(0);
+		@include u-left(0);
+		z-index: 1;
+	}
+	&:hover{
+		.content h3 a{
+			@include u-border-bottom('05', 'orange-warm-30v', 'solid');
+		}
+		.topics{
+			a{
+				@include u-bg('orange-warm-20');
+				&:hover{
+					@include u-bg('orange-warm-30');
+				}
+			}
+		}
+	}
+}
