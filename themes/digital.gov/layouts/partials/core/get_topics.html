@@ -25,12 +25,12 @@
     {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
 
       {{/* Show all the topics */}}
-      <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a>
+      {{/* <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a> */}}
 
       {{/* Show only topics with weight 2 or 3 */}}
-      {{/* {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+      {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
         <a href="{{- .Permalink -}}" data-topic="{{- $slug -}}">{{- .Title -}}</a>
-      {{- end -}} */}}
+      {{- end -}}
 
     {{- end -}}
   {{- end -}}
