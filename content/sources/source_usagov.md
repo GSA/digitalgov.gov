@@ -10,9 +10,11 @@ summary: 'a one-line summary of the source'
 # Note: We add a ?dg to the end of the URL
 domain: 'https://usa.gov'
 
-# To find the favicon, view source on the page you're pointing to and search for "favicon" or "icon". The path to the icon should be near the top.
-# Copy and paste that full path here:
-icon: "https://www.usa.gov/images/USA_Fav_Icon152_default.png"
+# Images need to be 200x200px with a transparent background
+# Upload new images to Github in the /static/source/ folder
+# https://github.com/GSA/digitalgov.gov/tree/master/static/source/
+# The filename should reflect the name of the source or team (e.g., usds-logo.png)
+icon: "usa-gov.png"
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage

@@ -6,7 +6,8 @@
       {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
       {{- if $source -}}
         {{- if $source.Params.icon -}}
-          <img src="{{ $source.Params.icon }}" alt="{{- $source.Params.name -}}">
+          {{ $src := (print "/sources/" $source.Params.icon) }}
+          <img src="{{ $src | relURL }}" alt="{{- $source.Params.name -}}">
         {{- end -}}
 
       {{/* Otherwise, use the Favicon that Google stores for the site. */}}
