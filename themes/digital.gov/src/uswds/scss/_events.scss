@@ -48,7 +48,7 @@
       @include u-bg('indigo-warm-70');
       @include u-text('gray-1');
       @include u-display('block');
-      @include u-padding-y(1);
+      @include u-padding-y('105');
       @include u-text('no-underline');
       &:hover{
         @include u-bg('indigo-warm-80');
@@ -70,7 +70,7 @@
       a{
         @include u-bg('indigo-80');
         @include u-display('block');
-        @include u-padding-y(1);
+        @include u-padding-y('105');
         @include u-text('gray-1');
         @include u-text('no-underline');
         @include u-text('center');
