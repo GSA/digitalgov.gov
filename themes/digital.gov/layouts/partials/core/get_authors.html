@@ -6,7 +6,7 @@
 
 {{- if (not (isset .Params "authors")) | or (eq .Params.authors "") -}}
 {{- else -}}
-  <div class="authors">
+  <div class="authors-list">
     {{/* get the authors  */}}
     {{- $_authors := .Params.authors -}}
 

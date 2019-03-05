@@ -8,6 +8,8 @@
 @import 'newsletter';
 
 @import 'stream';
+@import 'card-article';
+@import 'card-elsewhere';
 
 @import 'mobile-nav';
 @import 'search-bar';
@@ -18,7 +20,15 @@
 @import 'table-of-contents';
 @import 'content';
 @import 'resources';
-@import 'authors';
+
+
+// Authors lists
+@import 'authors-list';
+@import 'authors-list-short';
+
+// Authors profile
+@import 'author-profile';
+
 @import 'notice-bar';
 
 @import 'related_promos';
@@ -34,8 +44,6 @@
 @import 'home/topics';
 @import 'home/communities';
 @import 'home/services';
-
-
 
 @import 'related_communities';
 

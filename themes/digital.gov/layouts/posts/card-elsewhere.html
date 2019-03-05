@@ -1,5 +1,5 @@
-<article class="card" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
-  <div>
+<article class="card card-elsewhere" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
+  <div class="display-flex">
     <div class="icon">
       {{/* Favicon
       If the there is a custom favicon set in /sources/source_[slug].md, then use that... */}}
@@ -17,20 +17,18 @@
     <div class="content">
       <p>
         {{- if .Params.deck -}}{{- .Params.deck | markdownify -}}{{- end -}}
-      </p>
-
-      <div class="meta">
-
         {{- if $source -}}
           {{ $url := urls.Parse .Params.source_url }}
-          <a class="source" href="{{- .Params.source_url -}}" title="Read at {{- $source.Params.name -}}"><i class="fas fa-external-link-alt"></i> <em>{{ $url.Scheme -}}://{{ $url.Host -}}/...</em></a>
+          <a class="source" href="{{- .Params.source_url -}}" title="Read at {{- $source.Params.name -}}"><em>{{ $url.Scheme -}}://{{ $url.Host -}}/ <i class="fas fa-external-link-square-alt"></i></em></a>
         {{ end }}
-        {{ partial "core/get_clicks" . -}}
-        {{ partial "core/get_topics" . }}
-      </div>
-    </div>
+      </p>
 
+    </div>
+  </div>
+  <div class="meta display-flex">
+    {{ partial "core/get_clicks" . -}}
+    {{ partial "core/get_topics" . }}
   </div>
 
-  <a href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
+  <a class="overlay" href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
 </article>

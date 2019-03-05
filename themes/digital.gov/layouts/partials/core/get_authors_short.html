@@ -3,7 +3,7 @@
   AUTHORS .... short
   ======================================
 */}}
-<p class="authors">
+<p class="authors-list authors-list-short">
 {{- if (not (isset .Params "authors")) | or (eq .Params.authors "") -}}
 {{- else -}}
   {{/* get the authors  */}}
@@ -22,7 +22,7 @@
     {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
     {{- $author := index $.Site.Data.people.authors $uid -}}
 
-    <a class="author author-short" href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.display_name | default $uid -}} " rel="author">
+    <a class="author" href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.display_name | default $uid -}} " rel="author">
       {{- if $author.github -}}
       <img class="circle-5" src="https://github.com/{{- $author.github -}}.png?size=50" alt="">
       {{- else -}}
