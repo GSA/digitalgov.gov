@@ -5,6 +5,10 @@ title: Kitchen Sink
 summary: "Summary"
 deck: "DECK goes here"
 topics:
+  - accessibility
+  - design
+  - code
+  - cloud
   - policy
 authors:
   - jeremyzilar
@@ -14,7 +18,13 @@ authors:
 
 # H1 Heading
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. **Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat**.
+
+Lorem ipsum dolor sit amet, _consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,_ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Lorem ipsum `dolor sit amet`, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+<pre>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</pre>
 
 ## H2 Heading
 
@@ -67,3 +77,15 @@ _Italic text — Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed 
   1. nested item
   2. nested item
 1. end list item
+
+---
+
+## Images
+
+{{< img-right src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor velit nec auctor semper. Donec egestas felis id turpis sollicitudin blandit vitae quis libero. Ut massa arcu, condimentum vitae laoreet auctor, blandit sit amet enim. Phasellus ornare rhoncus urna a lacinia. Nullam leo velit, ullamcorper id est ac, consectetur porttitor diam. In eu mollis nulla. Aenean molestie, urna non accumsan posuere, libero leo hendrerit ex, at lobortis nisl justo at nisi.
+
+{{< img src="pif-talk3" caption="Charles Worthington, Chief Technology Officer at the U.S. Department of Veterans Affairs and former Presidential Innovation Fellow, addressing the 2019 PIFs. (photo credit: Jeff White, GSA)">}}
+
+Suspendisse potenti. Etiam nibh leo, vulputate sed ligula ac, mattis dictum sapien. Proin eu mi vitae sapien fringilla consequat. Maecenas vel purus nec mauris dignissim pellentesque. Maecenas lectus eros, posuere id eros ut, luctus suscipit odio.

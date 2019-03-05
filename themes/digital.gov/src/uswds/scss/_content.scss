@@ -2,7 +2,7 @@
 
 .content{
   @include u-font('sans', 'md');
-  
+
   h1{
     @include u-display('none');
   }
@@ -52,23 +52,55 @@
     @include u-margin-top(0.5);
   }
 
-  blockquote{
-    @include u-margin-x(4);
-    @include u-measure(2);
+  // HR tags
+  hr{
+    @include u-margin-y(3);
   }
+
+  // Lists
+  li {
+    @include u-margin-bottom('105');
+    @include u-line-height('sans', 4);
+    ul,
+    ol{
+      @include u-margin-y(1);
+      @include u-padding-x(3);
+    }
+  }
+
+  // Code
   code{
-    @include u-padding-x(0.5);
-    @include u-padding-y(2px);
-    @include u-bg(base-lighter);
+    @include u-padding-x('05');
+    @include u-padding-y('1px');
+    @include u-bg('base-lightest');
+    @include u-font('mono', '2xs');
+    @include u-color('red-50');
+    @include u-border('1px', 'solid', 'base-lighter');
     @include u-radius(sm);
   }
-  pre{
+
+  pre {
     @include u-padding-x(3);
     @include u-padding-y(2);
-    @include u-bg(base-lighter);
-    @include u-radius(sm);
+    @include u-padding-right(4);
+    @include u-padding-bottom('205');
+    @include u-bg('base-lightest');
+    @include u-border('1px', 'solid', 'base-lighter');
+    @include u-color('indigo-warm-80');
+    @include u-radius('md');
+    @include u-font('mono', '2xs');
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
   }
+
   // Quotes
+  blockquote{
+    @include u-margin-x(5);
+    @include u-measure(2);
+  }
   .quote{
     @include u-margin-x(0);
     @include u-padding(3);
@@ -84,6 +116,26 @@
     @include u-width('card-lg');
     @include u-float('right');
   }
+
+  // Images
+  .image{
+    @include u-margin-top(2);
+    @include u-margin-bottom(4);
+    p{
+      @include u-margin-top('05');
+      @include u-padding-x('05');
+      @include u-font('sans', 'xs');
+      @include u-color('gray-cool-40');
+      @include u-maxw('full');
+      @include u-text('italic');
+    }
+  }
+  .align-right{
+    @include u-margin-y('205');
+    @include u-margin-left(2);
+    @include u-float('right');
+  }
+
 }
 
 .content > *:first-child {
