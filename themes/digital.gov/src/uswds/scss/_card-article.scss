@@ -18,6 +18,7 @@ article.card{
 		@include u-margin-top(1);
 		.topics{
 			@include u-margin-y(0);
+			@include u-font('sans', '3xs');
 		}
 		.clicks{
 			@include u-margin-right(1);
