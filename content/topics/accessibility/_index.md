@@ -6,7 +6,7 @@
 title: "Accessibility"
 
 # description — keep it short and clear
-summary: ""
+summary: "The design of products, devices, services, or environments for people with disabilities."
 
 # Weight
 weight: 3
