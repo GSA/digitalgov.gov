@@ -7,7 +7,7 @@ type: guide
 
 ---
 
-## Welcome to Principle 8, our last principle!
+Welcome to Principle 8, our last principle!
 
 Most of us can see, hear, and touch our mobile devices as they were designed, but many others are not. In the federal government, our customers are everyone—and we have a duty to help everyone have a great experience on our websites and mobile apps. 
 
