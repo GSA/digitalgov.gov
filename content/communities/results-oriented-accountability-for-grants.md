@@ -32,24 +32,11 @@ As the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA)
 
 ## Community Updates 
 
-**12/17/18 - Register Today for the Single Audit & Risk Management Demo Days!**
+**3/7/19:** 
 
-The Results-Oriented Accountability for Grants CAP Goal Team is hosting **Single Audit and Risk Management Industry Demonstration Days** beginning on April 3, 2019 through April 5, 2019. All interested parties experienced in creating automated solutions for data management are encouraged to attend. 
+- *Single Audit & Risk Management Demo Days* <br />Vendor registration and employee registration are now closed for the Single Audit and Risk Management Industry Demonstration Days that will take place from April 3, 2019 through April 5, 2019.
 
-For more information, visit FedBizOpps.gov and join the **Virtual Pre-Demonstration Day** session on March 4, 2019. All attendees are welcome to ask questions during the session or submit them via email to the Grants Team. 
-
-**Important Links:** 
- - Register for the Virtual Pre-Demonstration Day on January 8, 2019
- - Register for Industry Demonstration Days beginning on January 29, 2019. (**Deadline**: January 17, 2019 at 6 pm, EST)
-   - Vendor Registration
-   - Federal Employee Registration
-   - FedBizOpps.gov Announcement 
-
----
-
-**Now Open for Public Comments: Federal Grants Management Draft Data Standards** 
-
-The Results-Oriented Accountability for Grants CAP Goal Team is excited to release the **draft** Data Standards for public comment. The public comment period will stay open for 60 days beginning **November 16, 2018**, through **January 16, 2019** as noted on the Federal Register. You can submit comments through the Grants Feedback Site powered by GitHub. 
+- *Federal Grants Management Draft Data Standards* <br />The public comment period for the draft Data Standards is now closed.
 
 ## Key resources
 
