@@ -9,7 +9,7 @@ type: guide
 
 Welcome to Principle 8, our last principle!
 
-Most of us can see, hear, and touch our mobile devices as they were designed, but many others are not. In the federal government, our customers are everyone—and we have a duty to help everyone have a great experience on our websites and mobile apps. 
+Most of us can see, hear, and touch our mobile devices as they were designed, but many others cannot. In the federal government, our customers are everyone—and we have a duty to help everyone have a great experience on our websites and mobile apps. 
 
 This week we will focus on accessibility, the lack of which leads to mobile unfriendliness. The accessibility of federal websites is covered in the [Information Technology & Innovation Foundation (ITIF) Benchmarking Report](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites).
 
