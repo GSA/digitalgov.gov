@@ -34,9 +34,9 @@ As the [President’s Management Agenda](https://www.performance.gov/PMA/) (PMA)
 
 **3/7/19:** 
 
-- *Single Audit & Risk Management Demo Days* <br />Vendor registration and employee registration are now closed for the Single Audit and Risk Management Industry Demonstration Days that will take place from April 3, 2019 through April 5, 2019.
+- **Single Audit & Risk Management Demo Days** <br />Registration for vendors and federal employees is now closed for the Single Audit and Risk Management Industry Demonstration Days that will take place from April 3, 2019 through April 5, 2019.
 
-- *Federal Grants Management Draft Data Standards* <br />The public comment period for the draft Data Standards is now closed.
+- **Federal Grants Management Draft Data Standards** <br />The public comment period for the draft Data Standards is now closed.
 
 ## Key resources
 
