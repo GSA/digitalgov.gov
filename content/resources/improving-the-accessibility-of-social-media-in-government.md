@@ -21,17 +21,13 @@ To begin exploring the Toolkit, simply select from this table of contents:
   * [Additional Resources](#additional)
   * [How To Provide Feedback or Contribute Content To This Toolkit](#provide)
 
-<h2 id="developed" style="padding-top: 50px">
-  Who Developed This Toolkit?
-</h2>
+## Who Developed This Toolkit?
 
-** _Improving the Accessibility of Social Media_** is brought to you by the U.S. Department of Labor&#8217;s [Office of Disability Employment Policy (ODEP)](http://www.dol.gov/odep/), the U.S. General Services Administration’s [Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729) and the Social Media Accessibility Working Group, a committee within the [Federal Social Media Community of Practice]({{< link "social-media.md" >}} "Social Media"). Working together, these entities have aimed to curate and share best practices to help agencies ensure their social media content is accessible everyone, including users with disabilities. Efforts are also being made to work with social media platform and tool developers, citizens and partners to encourage greater accessibility.
+**_Improving the Accessibility of Social Media_** is brought to you by the U.S. Department of Labor&#8217;s [Office of Disability Employment Policy (ODEP)](http://www.dol.gov/odep/), the U.S. General Services Administration’s [Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729) and the Social Media Accessibility Working Group, a committee within the [Federal Social Media Community of Practice]({{< link "social-media.md" >}} "Social Media"). Working together, these entities have aimed to curate and share best practices to help agencies ensure their social media content is accessible everyone, including users with disabilities. Efforts are also being made to work with social media platform and tool developers, citizens and partners to encourage greater accessibility.
 
 The genesis of this Toolkit is a collaborative document that originated at the [#SocialGov Summit on Accessibility]({{< link "2012-11-30-socialgov-summit-highlights-accessibility-challenges.md" >}} "#SocialGov Summit Highlights Accessibility Challenges"), which is a product of eight agencies: U.S. Geological Survey, Environmental Protection Agency, Department of Labor, Department of Transportation, National Oceanic and Atmospheric Administration, National Cancer Institute, National Human Genome Research Institute and the General Services Administration. Also included is input from [“Sociability: Social Media for People with a Disability,”](http://www.mediaaccess.org.au/online-media/social-media) by Dr. Scott Hollier, Western Australia Manager for Media Access Australia (MAA) and member of the Advisory Committee of the World Wide Web Consortium (W3C).
 
-<h2 id="accessibility" style="padding-top: 50px">
-  Why Is The Accessibility of Social Media So Important?
-</h2>
+## Why Is The Accessibility of Social Media So Important?
 
 The Labor Department’s Office of Disability Employment Policy (ODEP) and the Federal Social Media Community of Practice are deeply invested in the issue of accessible technology. Why? Because the development and adoption of accessible, universally designed technology is critical to making sure people with disabilities succeed at work and deliver for their employers.
 
