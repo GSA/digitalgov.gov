@@ -19,23 +19,27 @@
 
   <section>
     <div class="grid-container grid-container-desktop">
+
+      {{/* If the first page in a paginated sequence */}}
+      {{ if eq .Paginator.PageNumber 1}}
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+          {{ partial "core/list_related_resources.html" . }}
+          {{ partial "core/list_related_communities.html" . }}
+          {{ partial "core/list_related_services.html" . }}
+        </div>
+      </div>
+      {{- end -}}
+
       <div class="grid-row grid-gap-4">
         <div class="grid-col-12 tablet:grid-col-8 tablet-lg:grid-col-9">
-          {{ if eq .Paginator.PageNumber 1}}
-
-            {{ partial "core/list_related_communities.html" . }}
-
-            {{ partial "core/list_related_resources.html" . }}
-
-          {{- end -}}
-
           <div class="stream">
           {{/* Blog Posts by Topic —
           List all of the blog posts tagged with this topic */}}
           {{- $pages := (where .Paginator.Pages "Section" "posts") -}}
           {{/* If there are any blog posts at all... */}}
           {{- if $pages -}}
-            <h3>Related news & blog posts</h3>
+            <h2>Related news & blog posts</h2>
             <p>{{- len $allpages }} posts</p>
 
             {{/* Loop through all the pages */}}
@@ -62,7 +66,7 @@
 
         <div class="grid-col-12 display-none tablet:display-block tablet:grid-col-4 tablet-lg:grid-col-3">
 
-          {{ partial "core/top-topics.html" . }}
+          {{ partial "core/topics-list.html" . }}
 
         </div>
 

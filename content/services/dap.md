@@ -6,6 +6,13 @@ title: 'DAP: Digital Analytics Program'
 summary: 'The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies.'
 aliases:
   - /services/dap/
+
+topics:
+  - analytics
+  - metrics
+  - data
+
+weight: 2
 ---
 
 The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies. The program is a hosted shared service provided by <a href="http://www.gsa.gov/portal/category/25729" target="_blank">GSA&#8217;s Technology Transformation Service</a>. On November 8, 2016, the Office of Management and Budget (OMB) released a memorandum on <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>, which requires federal agencies to implement the DAP javascript code on all public facing federal websites.

@@ -1,22 +1,23 @@
 // Popular Resources on the homepage
 // Needs a little extra indention to support the check icon.
-#resources .list-related{
-  @include u-margin-y('105');
-
-}
-.list-related-resources{
-  ul{
-    li{
-      text-indent: -10px;
-      @include u-text('blue-warm-70v');
-      a{
-        @include u-text('blue-warm-70v');
-        &:hover{
-          span{
-            border-bottom: 2px #1a4480 solid;
-          }
-        }
+#resources {
+  .list-related-services,
+  .list-related-communities{
+    @include u-padding(2);
+    @include u-border(0);
+    @include u-radius('md');
+    @include u-bg('cyan-5');
+    h2{
+      @include u-font('sans', 'sm');
+      @include u-text('medium');
+    }
+    ul{
+      @include u-margin(0);
+      @include add-list-reset();
+      li{
+        @include u-font('sans', 'xs');
       }
     }
+
   }
 }

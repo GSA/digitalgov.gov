@@ -2,14 +2,14 @@
 A list of the most important resources tagged with the same topic */}}
 
 {{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
-{{- $communities := (where .Pages "Section" "communities") -}}
+{{- $services := (where .Pages "Section" "services") -}}
 
 {{/* If there are any communities at all... */}}
-{{- if $communities -}}
-<div class="list-related list-related-communities">
-  <h2>Communities of Practice</h2>
+{{- if $services -}}
+<div class="list-related list-related-services">
+  <h2>Tools & Services</h2>
   <ul>
-    {{- range $communities -}}
+    {{- range $services -}}
       <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
     {{- end -}}
   </ul>

@@ -6,6 +6,10 @@ title: Federal CrowdSource Mobile Testing Program
 summary: Does your mobile application function properly on all devices your users have? Are you able to test your mobile site on all devices that access it? Do you have the time and money to maintain a mobile test lab?
 authors:
   - jparcell
+
+topics:
+  - mobile
+  - accessibility
 ---
 
 {{< legacy-img src="/2013/12/250-x-202-mobile-devices-testing-app.jpg" alt="Many smartphones and tablets on a table displaying the same app." >}}Does your mobile site function properly on all devices your users have?

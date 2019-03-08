@@ -1,6 +1,7 @@
 {{ define "content" }}
 
-<main role="main">
+
+<main id="resources" role="main">
   <article>
     <header>
       <div class="grid-container grid-container-desktop">
@@ -23,28 +24,37 @@
 
     <section>
       <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12">
-
-            {{ range $key, $value := .Site.Taxonomies.topics }}
-              {{ with $.Site.GetPage (printf "/topics/%s" $key) }}
-                {{ $resources := (where $value.Pages "Section" "resources") }}
-                {{ if $resources }}
-                <div class="list-related">
+        {{ range $key, $value := .Site.Taxonomies.topics }}
+          {{ with $.Site.GetPage (printf "/topics/%s" $key) }}
+            {{ $resources := (where $value.Pages "Section" "resources") }}
+            {{ if $resources }}
+            <div class="grid-row">
+              <div class="grid-col-12">
+                <div class="list-related list-related-resources">
                   <h2>{{ .Title }}</h2>
-                  <ul class="add-list-reset">
-                    {{ range $resources }}
-                      <li><i class="far fa-file"></i> <a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
-                    {{ end }}
-                  </ul>
-                  <p>More in <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }} »</a></p>
+                  {{- if .Params.summary -}}
+                  <p>{{- .Params.summary -}}</p>
+                  {{- end -}}
+                  <div class="grid-row grid-gap-4">
+                    <div class="grid-col-12 tablet-lg:grid-col-7">
+                      <ul>
+                        {{ range $resources }}
+                          <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+                        {{ end }}
+                      </ul>
+                    </div>
+                    <div class="grid-col-12 tablet-lg:grid-col-5">
+                      {{ partial "core/list_related_services.html" . }}
+                    </div>
+                  </div>
+                  <p class="more">See all blog posts on <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }} <i class="fas fa-arrow-circle-right"></i></a></p>
                 </div>
-                {{ end }}
-              {{ end }}
+              </div>
+            </div>
             {{ end }}
+          {{ end }}
+        {{ end }}
 
-          </div>
-        </div>
       </div>
     </section>
   </article>

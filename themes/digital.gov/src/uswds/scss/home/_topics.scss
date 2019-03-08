@@ -1,42 +1,26 @@
-// topics
 
+// List of Topic buttons
 .topics-list{
   @include u-padding-bottom(2);
   p{
     @include u-margin-bottom(1);
   }
-  footer{
-    p{
-      @include u-margin(0);
-      @include u-margin-bottom(1);
-      @include u-font('sans', 'xs');
-      @include u-line-height('sans', 1);
-      @include u-text('medium');
-      a{
-        @include u-text('no-underline');
-        @include u-text('indigo-warm-60');
-        &:hover{
-          span{
-            border-bottom: 2px #e66f0e solid;
-          }
-        }
-      }
-    }
-  }
 }
 
+// Topic buttons
 .topic{
   @include u-margin-bottom('105');
   h3{
     @include u-margin(0);
     a{
-      @include u-font('sans', 'lg');
-      @include u-text('normal');
+      @include u-padding-y(1);
+      @include u-padding-x(2);
+      @include u-padding-right('105');
+      @include u-font('sans', 'md');
+      @include u-text('medium');
       @include u-bg('white');
       @include u-text('indigo-warm-60v');
       border: 1px #745fe9 solid;
-      @include u-padding(2);
-      @include u-padding-right('105');
       @include u-radius('sm');
       @include u-display('block');
       transition: background-color .5s, color .5s;
@@ -53,68 +37,6 @@
         span{
           margin-right: 0;
         }
-      }
-    }
-  }
-}
-
-.topic-slim{
-  h3{
-    a{
-      @include u-font('sans', 'md');
-      @include u-text('medium');
-      @include u-padding-y(1);
-    }
-  }
-}
-
-
-nav.topics-featured{
-  @include u-bg('gray-warm-2');
-  @include u-text('indigo-80');
-  header{
-    @include u-padding('105');
-    @include u-padding-x(3);
-    h4{
-      @include u-margin(0);
-      @include u-font('sans', 'lg');
-      @include u-text('thin');
-      i{
-        @include u-display('none');
-      }
-    }
-  }
-
-  ul{
-    li{
-      a{
-        @include u-padding-y('05');
-        @include u-padding-x(3);
-        @include u-text('semibold');
-        @include u-text('no-underline');
-        @include u-text('indigo-70');
-        @include u-display('block');
-        &:hover{
-          @include u-bg('gray-warm-5');
-          span{
-            border-bottom: 2px #ff580a solid; // $indigo-40
-          }
-        }
-      }
-      .active{
-        @include u-text('bold');
-        @include u-bg('indigo-20');
-      }
-    }
-  }
-  footer{
-    @include u-padding-y(3);
-    @include u-padding-x(3);
-    a{
-      @include u-text('bold');
-      @include u-text('no-underline');
-      &:hover{
-        border-bottom: 2px #fc906d solid; // $indigo-40
       }
     }
   }

@@ -9,7 +9,7 @@
         {{- if $resources -}}
         <div class="list-related list-related-resources">
           <h4>Popular Resources</h4>
-          <ul>
+          <ul class="add-list-reset">
             {{- range sort $resources "Title" "asc" -}}
               {{- if eq .Params.weight 3 -}}
               <li><a href="{{- .Permalink -}}"><i class="far fa-lightbulb"></i> <span>{{ .Title | markdownify }}</span></a> {{- if .Params.deck }}{{- end -}}</li>
@@ -19,7 +19,7 @@
           <footer>
             <div class="grid-row grid-gap-2">
               <div class="grid-col-12">
-                <p><a href="/resources"><span>See all resources</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+                <p class="more"><a href="/resources"><span>See all resources</span> <i class="fas fa-arrow-circle-right"></i></a></p>
               </div>
             </div>
           </footer>

@@ -7,10 +7,10 @@ A list of the most important resources tagged with the same topic */}}
 {{/* If there are any resources at all... */}}
 {{- if $resources -}}
 <div class="list-related list-related-resources">
-  <h3>Key Resources</h3>
+  <h2>Key Resources</h2>
   <ul>
     {{- range $resources -}}
-      <li><i class="fas fa-file"></i> <a href="{{- .Permalink -}}"><span>{{ .Title | markdownify }}</span></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+      <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
     {{- end -}}
   </ul>
 </div>

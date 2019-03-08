@@ -1,0 +1,48 @@
+{{ define "content" }}
+
+
+<main id="services" role="main">
+  <article>
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
+
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}} </h1>
+
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+
+            {{/* {{ partial "last-updated" . }} */}}
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section>
+      <div class="grid-container grid-container-desktop">
+        {{ $services := (where .Site.Pages "Section" "services").ByTitle }}
+        {{ range $i, $e := $services }}
+          {{ if $services }}
+          <div class="grid-row">
+            <div class="grid-col-12">
+              <div class="list-related list-related-resources">
+                <h2>{{ .Title }}</h2>
+                {{- if .Params.summary -}}
+                <p>{{- .Params.summary -}}</p>
+                {{- end -}}
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        {{ end }}
+
+      </div>
+    </section>
+  </article>
+</main>
+
+{{ end }} {{/* end 'content' block */}}

@@ -24,6 +24,9 @@
 @import 'content';
 @import 'resources';
 
+// Lists of related pages
+@import 'list-related';
+
 
 @import 'share-tools';
 
@@ -52,5 +55,6 @@
 @import 'home/services';
 
 @import 'related_communities';
+@import 'topics-list';
 
 @import 'edit-this';
