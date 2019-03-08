@@ -1,0 +1,9 @@
+
+#resources_featured{
+  h2 {
+    @include u-font('sans', 'sm');
+  }
+  .list-related{
+    @include u-border(0);
+  }
+}

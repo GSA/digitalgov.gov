@@ -1,11 +1,8 @@
-{{/* Spotlight / Featured */}}
-
-<section id="resources">
+<section id="resources_featured">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
         {{- $resources := (where .Pages "Section" "resources") ".Params.weight" 3 -}}
-        {{ $resources }}
         {{/* If there are any resources at all... */}}
         {{- if $resources -}}
         <div class="list-related list-related-resources">
