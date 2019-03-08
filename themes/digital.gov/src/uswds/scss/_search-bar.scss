@@ -43,6 +43,7 @@
 		@include u-text('light');
 		@include u-text('black');
 		@include u-padding-left('105');
+		@include u-padding-bottom('05');
 		@include u-radius-left('lg');
 		@include u-border('2px');
 		@include u-border-right(0);

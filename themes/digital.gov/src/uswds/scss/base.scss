@@ -41,7 +41,6 @@
 @import 'notice-bar';
 
 @import 'related_promos';
-@import 'related_communities';
 @import 'taxonomy';
 @import 'video';
 
@@ -49,12 +48,16 @@
 @import 'home/home';
 @import 'home/news';
 @import 'home/events';
+@import 'home/topics_featured';
 @import 'home/training';
-@import 'home/topics';
 @import 'home/communities';
 @import 'home/services';
 
 @import 'related_communities';
+
+// Topics styles
+@import 'topic-buttons';
 @import 'topics-list';
 
+// Edit Tools
 @import 'edit-this';
