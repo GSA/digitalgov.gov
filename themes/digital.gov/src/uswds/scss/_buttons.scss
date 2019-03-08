@@ -1,0 +1,4 @@
+p.more {
+	@include u-font('sans', 'sm');
+	@include u-text('medium', !important);
+}

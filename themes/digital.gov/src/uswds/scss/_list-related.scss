@@ -26,11 +26,6 @@
       }
     }
   }
-  .more{
-    @include u-font('sans', 'sm');
-    @include u-text('italic');
-    @include u-text('medium');
-  }
 }
 .list-related .add-list-reset{
   @include u-margin(0);
