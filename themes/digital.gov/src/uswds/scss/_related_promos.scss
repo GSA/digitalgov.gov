@@ -1,15 +1,13 @@
-// promos
+// Related promos
 
-
-#related_promos {
-  @include u-margin-top(5);
+.related_promos {
+  // @include u-margin-top(5);
   header{
 		@include u-margin(0);
 		h3{
 			@include u-margin(0);
-      @include u-margin-bottom(1);
       @include u-font('sans', 'xs');
-      @include u-text('heavy');
+      @include u-text('bold');
 		}
 	}
   article.promo{

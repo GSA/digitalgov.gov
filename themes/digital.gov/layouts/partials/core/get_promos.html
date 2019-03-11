@@ -9,7 +9,7 @@
 
 {{- if .Params.topics -}}
   {{/* This appends/adds the related_topics array */}}
-  {{ $.Scratch.Add "related_topics" (slice .Params.topics ) }}
+  {{ $.Scratch.Add "related_topics" .Params.topics }}
 {{- else -}}
   {{/* This appends/adds the related_topic (via .Data.Term) to the array */}}
   {{ $.Scratch.Add "related_topics" (slice .Data.Term ) }}
@@ -58,10 +58,10 @@
 {{ if $related_promos }}
   {{/* If there are related promos... */}}
   {{ if gt (len $related_promos) 1 }}
-    <section id="related_promos">
+    <section class="related_promos">
 
       <header>
-        <h3>Get Started Building</h3>
+        <h3>Related Services</h3>
       </header>
 
     {{/* Let's loop through the file names! */}}

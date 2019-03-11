@@ -36,14 +36,14 @@
                   <p>{{- .Params.summary -}}</p>
                   {{- end -}}
                   <div class="grid-row grid-gap-4">
-                    <div class="grid-col-12 tablet-lg:grid-col-7">
+                    <div class="grid-col-12 tablet-lg:grid-col-9">
                       <ul>
                         {{ range $resources }}
                           <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
                         {{ end }}
                       </ul>
                     </div>
-                    <div class="grid-col-12 tablet-lg:grid-col-5">
+                    <div class="grid-col-12 tablet-lg:grid-col-3">
                       {{ partial "core/get_promos.html" . }}
                     </div>
                   </div>
