@@ -16,9 +16,23 @@
         <section>
           {{/* If the first page in a paginated sequence */}}
           {{ if eq .Paginator.PageNumber 1}}
-          {{ partial "core/list_related_resources.html" . }}
-          {{ partial "core/list_related_communities.html" . }}
-          {{ partial "core/list_related_services.html" . }}
+          <div class="list-collection list-collection-resources">
+            <h2>Top Resources</h2>
+            {{ partial "core/list_related_resources.html" . }}
+            <p class="more"><a href="{{ "/resources/" | absURL }}">See all Resources <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+          </div>
+          <div class="list-collection list-collection-services">
+            <h2>Related Services</h2>
+            {{ partial "core/list_related_services.html" . }}
+            <p class="more"><a href="{{ "/services/" | absURL }}">See all Services <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+          </div>
+          <div class="list-collection list-collection-communities">
+            <h2>Communities</h2>
+            {{ partial "core/list_related_communities.html" . }}
+            <p class="more"><a href="{{ "/communities/" | absURL }}">See all Communities <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+          </div>
+
+
           {{- end -}}
 
           <div class="stream">

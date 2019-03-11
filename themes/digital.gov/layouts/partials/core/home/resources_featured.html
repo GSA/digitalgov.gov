@@ -5,7 +5,7 @@
         {{- $resources := (where .Pages "Section" "resources") ".Params.weight" 3 -}}
         {{/* If there are any resources at all... */}}
         {{- if $resources -}}
-        <div class="list-related list-related-resources">
+        <div class="list-collection list-collection-resources">
           <h2>Popular Resources</h2>
           <ul class="add-list-reset">
             {{- range sort $resources "Title" "asc" -}}

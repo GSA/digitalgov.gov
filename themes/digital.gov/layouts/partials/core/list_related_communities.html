@@ -6,12 +6,9 @@ A list of the most important resources tagged with the same topic */}}
 
 {{/* If there are any communities at all... */}}
 {{- if $communities -}}
-<div class="list-related list-related-communities">
-  <h2>Communities of Practice</h2>
-  <ul>
-    {{- range $communities -}}
-      <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
-    {{- end -}}
-  </ul>
-</div>
+<ul>
+  {{- range $communities -}}
+    <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+  {{- end -}}
+</ul>
 {{- end -}}

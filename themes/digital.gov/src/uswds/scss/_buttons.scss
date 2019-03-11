@@ -1,4 +1,5 @@
 p.more {
+	@include u-margin-top(2);
 	@include u-font('sans', 'sm');
 	@include u-text('medium', !important);
 }

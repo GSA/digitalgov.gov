@@ -1,11 +1,16 @@
-.list-related{
-  @include u-margin-y('05');
+.list-collection{
   @include u-padding-y(2);
   @include u-border-top('1px', 'gray-cool-40', 'solid');
   h2{
     @include u-margin(0);
     @include u-margin-bottom(1);
-    @include u-font('sans', 'lg');
+    @include u-font('sans', 'md');
+    @include u-text('bold');
+  }
+  h4{
+    @include u-margin(0);
+    @include u-margin-top(3);
+    @include u-font('sans', 'sm');
     @include u-text('bold');
   }
   p{
@@ -16,35 +21,21 @@
     @include u-text('light');
   }
   ul{
+    @include u-margin-y('105');
     @include u-margin-x('05');
     @include u-padding-left(2);
     li{
       @include u-margin-bottom(1);
       @include u-font('sans', 'md');
+      img{
+        @include u-margin-left('05');
+        @include u-width('205');
+        position: relative;
+        top:4px;
+      }
       a{
         @include u-text('no-underline');
       }
     }
   }
 }
-.list-related .add-list-reset{
-  @include u-margin(0);
-  @include u-padding(0);
-}
-
-// .list-related-resources{
-//   ul{
-//     li{
-//       text-indent: -10px;
-//       @include u-text('blue-warm-70v');
-//       a{
-//         @include u-text('blue-warm-70v');
-//         &:hover{
-//           span{
-//             border-bottom: 2px #1a4480 solid;
-//           }
-//         }
-//       }
-//     }
-//   }
-// }

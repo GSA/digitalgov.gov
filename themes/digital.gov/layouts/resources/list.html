@@ -30,23 +30,17 @@
             {{ if $resources }}
             <div class="grid-row">
               <div class="grid-col-12">
-                <div class="list-related list-related-resources">
+                <div class="list-collection list-collection-resources">
                   <h2>{{ .Title }}</h2>
                   {{- if .Params.summary -}}
                   <p>{{- .Params.summary -}}</p>
                   {{- end -}}
-                  <div class="grid-row grid-gap-4">
-                    <div class="grid-col-12 tablet-lg:grid-col-9">
-                      <ul>
-                        {{ range $resources }}
-                          <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
-                        {{ end }}
-                      </ul>
-                    </div>
-                    <div class="grid-col-12 tablet-lg:grid-col-3">
-                      {{ partial "core/get_promos.html" . }}
-                    </div>
-                  </div>
+
+                  {{ partial "core/list_related_resources.html" . }}
+
+                  <h4>Related Guides and Services</h4>
+                  {{ partial "core/list_related_services.html" . }}
+
                   <p class="more">See all blog posts on <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }} <i class="fas fa-arrow-circle-right"></i></a></p>
                 </div>
               </div>
