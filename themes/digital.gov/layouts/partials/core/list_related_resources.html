@@ -6,9 +6,12 @@ A list of the most important resources tagged with the same topic */}}
 
 {{/* If there are any resources at all... */}}
 {{- if $resources -}}
-<ul>
-  {{- range $resources -}}
-    <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
-  {{- end -}}
-</ul>
+<div class="list-collection">
+  <h2>Top Resources</h2>
+  <ul>
+    {{- range $resources -}}
+      <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+    {{- end -}}
+  </ul>
+</div>
 {{- end -}}

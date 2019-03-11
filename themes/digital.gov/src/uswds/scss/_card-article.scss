@@ -35,19 +35,7 @@ article.card{
 		filter: grayscale(75%);
 		transition: filter .2s;
 	}
-	// .entry-featured::after {
-	// 	@include u-display('block');
-	// 	@include u-position('relative');
-	// 	background-image:
-	// 		linear-gradient(
-	// 			rgba(255, 0, 0, 0),
-	// 			rgba(165, 168, 232, 0.5)
-	// 	);
-	// 	margin-top: -64px;
-	// 	height: 60px;
-	// 	@include u-width('full');
-	// 	content: '';
-	// }
+
 	&:hover{
 		.entry-featured img {
 			filter: grayscale(0%);

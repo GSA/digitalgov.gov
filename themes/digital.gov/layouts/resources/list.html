@@ -30,15 +30,14 @@
             {{ if $resources }}
             <div class="grid-row">
               <div class="grid-col-12">
-                <div class="list-collection list-collection-resources">
+                <div class="resource-topic">
                   <h2>{{ .Title }}</h2>
                   {{- if .Params.summary -}}
-                  <p>{{- .Params.summary -}}</p>
+                  <p class="deck">{{- .Params.summary -}}</p>
                   {{- end -}}
 
                   {{ partial "core/list_related_resources.html" . }}
 
-                  <h4>Related Guides and Services</h4>
                   {{ partial "core/list_related_services.html" . }}
 
                   <p class="more">See all blog posts on <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }} <i class="fas fa-arrow-circle-right"></i></a></p>

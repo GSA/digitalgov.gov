@@ -1,9 +1,31 @@
 // Popular Resources on the homepage
 // Needs a little extra indention to support the check icon.
 #resources {
-  .list-collection{
+  .resource-topic{
+    @include u-padding-y(2);
+    @include u-border-top('1px', 'gray-cool-40', 'solid');
     h2{
       @include u-font('sans', 'xl');
+      @include u-margin(0);
+      @include u-margin-bottom(1);
+      @include u-text('bold');
+    }
+    p.deck{
+      @include u-margin(0);
+      @include u-margin-bottom(1);
+      @include u-font('sans', 'lg');
+      @include u-line-height('sans', 3);
+      @include u-text('light');
+    }
+    .list-collection{
+      @include u-padding-y(0);
+      @include u-border-top(0);
+      h2{
+        @include u-margin(0);
+        @include u-margin-top(3);
+        @include u-font('sans', 'sm');
+        @include u-text('bold');
+      }
     }
   }
 }

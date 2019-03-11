@@ -1,5 +1,11 @@
 p.more {
-	@include u-margin-top(2);
+	@include u-margin-top(0);
 	@include u-font('sans', 'sm');
 	@include u-text('medium', !important);
+	a{
+		@include u-text('no-underline');
+		&:hover{
+			@include u-border-bottom('05', 'solid', 'orange-warm-30v');
+		}
+	}
 }

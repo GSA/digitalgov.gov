@@ -13,7 +13,7 @@
     @include u-font('sans', 'sm');
     @include u-text('bold');
   }
-  p{
+  p.deck{
     @include u-margin(0);
     @include u-margin-bottom(1);
     @include u-font('sans', 'lg');
