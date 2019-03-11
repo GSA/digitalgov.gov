@@ -10,7 +10,7 @@
         <div class="grid-col-12">
           {{- $topics := (where .Site.Pages "Section" "topics") -}}
           <h1>Topics</h1>
-          <h4>There are {{ len $topics }} topics</h4>
+          <h4 class="display-none">There are {{ len $topics }} topics</h4>
         </div>
       </div>
     </div>
@@ -37,7 +37,7 @@
     </div>
   </section>
 
-  <section>
+  <section class="display-none">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-2">
         <div class="grid-col-6">
