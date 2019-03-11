@@ -539,7 +539,7 @@ termsofservice:
     uri           : http://storify.com/tos/amendment
     type          : web
     updated       :
-    status        :
+    status        : inactive
 
   - name          : StumbleUpon
     url           : http://www.stumbleupon.com/
