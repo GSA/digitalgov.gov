@@ -2,7 +2,7 @@
 
 main{
 	// Base Article Header Styles
-	> header,
+	header:first-of-type,
  	> article > header{
 		// @include u-bg('red-10');
 		@include u-margin-bottom(4);

@@ -1,8 +1,9 @@
 
-nav.topics-featured{
+nav.topics-sidebar{
   @include u-bg('gray-warm-2');
   @include u-text('indigo-80');
   header{
+    @include u-margin-bottom(1);
     @include u-padding('105');
     @include u-padding-x(3);
     h4{
