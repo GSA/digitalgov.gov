@@ -5,8 +5,19 @@
 */}}
 
 {{/* Gets the get_topics associated with this post */}}
-{{ $post_topics := .Params.topics }}
+{{ $.Scratch.Set "related_topics" (slice " ") }}
 
+{{- if .Params.topics -}}
+  {{/* This appends/adds the related_topics array */}}
+  {{ $.Scratch.Add "related_topics" (slice .Params.topics ) }}
+{{- else -}}
+  {{/* This appends/adds the related_topic (via .Data.Term) to the array */}}
+  {{ $.Scratch.Add "related_topics" (slice .Data.Term ) }}
+{{- end -}}
+
+{{ $post_topics := ($.Scratch.Get "related_topics") }}
+
+{{/* {{ {{ slice "a" "b" | shuffle }}}} */}}
 {{/* IMPORTANT */}}
 {{/* This is an empty array (a.k.a. slice) */}}
 {{ $.Scratch.Set "related_promos" (slice " ") }}

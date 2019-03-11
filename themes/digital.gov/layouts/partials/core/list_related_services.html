@@ -1,17 +1,83 @@
-{{/* Related Communities — 
-A list of the most important resources tagged with the same topic */}}
+{{/*
+  ======================================
+  Promos (for articles)
+  ======================================
+*/}}
 
-{{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
-{{- $services := (where .Pages "Section" "services") -}}
+{{/* Gets the topic associated with this post */}}
+{{ $topic_slug := .Data.Term }}
+{{/* IMPORTANT */}}
+{{/* This is an empty array (a.k.a. slice) */}}
+{{ $.Scratch.Set "list_related_promos" (slice " ") }}
 
-{{/* If there are any communities at all... */}}
-{{- if $services -}}
-<div class="list-related list-related-services">
-  <h2>Tools & Services</h2>
-  <ul>
-    {{- range $services -}}
-      <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
-    {{- end -}}
-  </ul>
-</div>
-{{- end -}}
+{{/* Get all the promos */}}
+{{ $promos := $.Site.GetPage "page" "promo" }}
+
+{{/* Get all the promos WHERE page weight == 2 */}}
+{{ $promos := where ($promos.Resources.ByType "page") ".Params.weight" 2 }}
+
+{{/* If there are any promos */}}
+{{ with $promos }}
+
+  {{/* For each promo */}}
+  {{ range $i, $e := . }}
+
+    {{/* get the topic associated with the promo */}}
+    {{ $promo_topics := .Params.topics }}
+
+    {{ .Data.Term }}
+    {{/* If the $topic is in one of these promos,... */}}
+    {{/* display the promo */}}
+    {{ if in $promo_topics $topic_slug }}
+
+    {{/* This appends/adds the .File.LogicalName to the array */}}
+    {{ $.Scratch.Add "list_related_promos" (slice .File.LogicalName ) }}
+
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Removes the duplicate file names in the array */}}
+{{ $related_promos := uniq ($.Scratch.Get "list_related_promos") }}
+
+{{ if $related_promos }}
+  {{/* If there are related promos... */}}
+  {{ if gt (len $related_promos) 1 }}
+    <section id="related_promos">
+
+      <header>
+        <h3>Get Started Building</h3>
+      </header>
+
+    {{/* Let's loop through the file names! */}}
+    {{ range $i, $e := $related_promos }}
+
+      {{/* Identifies the area to look for the file name */}}
+      {{ $headless := $.Site.GetPage "/promo" }}
+
+      {{/* Gathers all the files that match the file name ($e) */}}
+      {{ $reusablePages := $headless.Resources.Match $e }}
+
+      {{/* Finally we can loop through all of the promos/files */}}
+      {{ range $reusablePages }}
+
+        <article class="promo">
+          {{ if .Params.icon }}
+          {{ $src := (print "/promos/" .Params.icon) }}
+          <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+          {{ end }}
+          <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.name }}">{{ .Params.name }}</a></h3>
+          <p>{{ .Params.summary | markdownify }}</p>
+          <a href="{{ .Params.src }}?dg" title="{{ .Params.name }}"><span></span></a>
+        </article>
+
+      {{ end }}
+
+    {{ end }}
+    <footer>
+      {{ $promos := .Site.GetPage "page" "promo" }}
+      <h5><a href="{{ "/communities/" | absURL }}">See all {{ len ($promos.Resources.ByType "page") }} ways to get started <i class="fas fa-arrow-alt-circle-right"></i></a></h5>
+    </footer>
+    </section>
+  {{ end }}
+{{ end }}
