@@ -2,15 +2,15 @@
 // Needs a little extra indention to support the check icon.
 #resources {
   .resource-topic{
-    @include u-margin-bottom('105');
+    @include u-margin-y('105');
     @include u-padding-top(1);
     @include u-padding-bottom(2);
     @include u-border-top('1px', 'gray-cool-40', 'solid');
     h2{
-      @include u-font('sans', 'xl');
+      @include u-font('sans', 'lg');
       @include u-margin(0);
       @include u-margin-bottom(1);
-      @include u-text('heavy');
+      @include u-text('bold');
     }
     p.deck{
       @include u-margin(0);
@@ -29,5 +29,9 @@
         @include u-text('bold');
       }
     }
+  }
+  .in-page{
+    @include u-bg('gray-warm-3');
+    @include u-text('indigo-80');
   }
 }

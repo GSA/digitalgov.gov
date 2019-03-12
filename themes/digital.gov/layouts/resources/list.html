@@ -24,29 +24,79 @@
 
     <section>
       <div class="grid-container grid-container-desktop">
-        {{ range $key, $value := .Site.Taxonomies.topics }}
-          {{ with $.Site.GetPage (printf "/topics/%s" $key) }}
-            {{ $resources := (where $value.Pages "Section" "resources") }}
-            {{ if $resources }}
-            <div class="grid-row">
-              <div class="grid-col-12">
-                <div class="resource-topic">
-                  <h2>{{ .Title }}</h2>
-                  {{- if .Params.summary -}}
-                  <p class="deck">{{- .Params.summary -}}</p>
+
+        <div class="grid-row grid-gap-4">
+          <div class="grid-col-12 tablet:grid-col-9">
+
+            {{/* Top / Popular Resources */}}
+            {{- $resources := (where .Pages "Section" "resources") ".Params.weight" 3 -}}
+            {{/* If there are any resources at all... */}}
+            {{- if $resources -}}
+            <div class="list-collection list-collection-resources">
+              <h2>Popular Resources</h2>
+              <ul class="add-list-reset">
+                {{- range sort $resources "Title" "asc" -}}
+                  {{- if eq .Params.weight 3 -}}
+                  <li><a href="{{- .Permalink -}}"><i class="far fa-lightbulb"></i> <span>{{ .Title | markdownify }}</span></a> {{- if .Params.deck }}{{- end -}}</li>
                   {{- end -}}
-
-                  {{ partial "core/list_related_resources.html" (dict "root" . "expanded" false) }}
-
-                  {{ partial "core/list_related_services.html" . }}
-
-                  <p class="more"><a href="{{ .Permalink }}" title="{{ .Title }}">See all on {{ .Title }} <i class="fas fa-arrow-circle-right"></i></a></p>
+                {{- end -}}
+              </ul>
+              <footer>
+                <div class="grid-row grid-gap-2">
+                  <div class="grid-col-12">
+                    <p class="more"><a href="/resources"><span>See all resources</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+                  </div>
                 </div>
-              </div>
+              </footer>
             </div>
+            {{- end -}}
+
+
+            {{- range $key, $value := .Site.Taxonomies.topics -}}
+              {{- with $.Site.GetPage (printf "/topics/%s" $key) -}}
+                {{- $resources := (where $value.Pages "Section" "resources") -}}
+                {{- if $resources -}}
+
+                  <div id="{{- $key -}}" class="resource-topic">
+                    <h2>{{- .Title -}}</h2>
+                    {{- if .Params.summary -}}
+                    <p class="deck">{{- .Params.summary -}}</p>
+                    {{- end -}}
+
+                    {{ partial "core/list_related_resources.html" (dict "root" . "expanded" false) }}
+
+                    {{ partial "core/list_related_services.html" . }}
+
+                    <p class="more"><a href="{{ .Permalink }}" title="{{ .Title }}">See all on {{ .Title }} <i class="fas fa-arrow-circle-right"></i></a></p>
+                  </div>
+                {{ end }}
+              {{ end }}
             {{ end }}
-          {{ end }}
-        {{ end }}
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-3">
+            <nav class="topics-sidebar">
+              <header>
+                <h4>In this page</h4>
+              </header>
+              <ul class="add-list-reset">
+              {{ range $key, $value := .Site.Taxonomies.topics }}
+                {{ with $.Site.GetPage (printf "/topics/%s" $key) }}
+                  {{ $resources := (where $value.Pages "Section" "resources") }}
+                  {{ if $resources }}
+                    <li><a href="#{{- $key -}}">{{ .Title }}</a>
+                    </li>
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+              </ul>
+              <footer>
+                <p><a href="{{- "/topics/" | absURL -}}">See all topics »</a></p>
+              </footer>
+            </nav>
+          </div>
+        </div>
+
 
       </div>
     </section>

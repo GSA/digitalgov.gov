@@ -5,9 +5,6 @@
   }
   .list-collection{
     @include u-border(0);
-    ul{
-      @include u-padding-left(0);
-    }
   }
 
 }

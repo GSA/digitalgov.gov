@@ -22,7 +22,8 @@
     @include u-text('light');
   }
   ul{
-    @include u-margin-y('105');
+    @include u-margin(0);
+    @include u-margin-bottom('105');
     @include u-margin-x('05');
     @include u-padding-left(2);
     li{
@@ -38,5 +39,11 @@
         @include u-text('no-underline');
       }
     }
+  }
+}
+
+.list-collection-resources{
+  ul{
+    @include u-padding(0);
   }
 }

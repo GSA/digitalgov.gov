@@ -44,7 +44,6 @@
   {{/* If there are related promos... */}}
   {{ if gt (len $related_promos) 1 }}
   <div class="list-collection">
-    <h2>Related Guides and Services</h2>
     <ul>
     {{/* Let's loop through the file names! */}}
     {{ range $i, $e := $related_promos }}
@@ -64,7 +63,7 @@
 
     {{ end }}
     </ul>
-    
+
     <p class="more"><a href="{{ "/services/" | absURL }}">See all Services <i class="fas fa-arrow-alt-circle-right"></i></a></p>
   </div>
   {{ end }}
