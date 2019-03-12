@@ -1,6 +1,6 @@
 ---
 slug: understanding-sessions-vs-unique-pageviews
-title: 'Understanding Sessions vs&#46; Unique Pageviews'
+title: 'DAP Learning Series: Understanding When to Use Sessions vs&#46; Unique Pageviews'
 summary: 'Page level reporting is complicated - we regularly need to decide between using sessions and unique pageviews in reports&#46; But how should we be thinking about these two very different metrics&#63; And how should we interpret and use them in our content analysis&#63;  '
 featured_image: 
   uid: 
@@ -18,7 +18,7 @@ youtube_id: uVvP6qeaZPY
 
 Page level reporting is complicated - we regularly need to decide between using sessions and unique pageviews in reports. But how should we be thinking about these two very different metrics? And how should we interpret and use them in our content analysis? We’ll talk about the concepts of sessions and unique pageviews and demo how to answer your content questions to help you better understand how to report on your content using sessions and unique pageviews.  
 
-In this webinar, Freddie Blicher, Analyst for [DAP](https://digital.gov/dap/), will discuss how to think about sessions and unique pageviews in reporting and content analysis. Attendees will learn:
+In this webinar, **Freddie Blicher**, Analyst for [DAP](https://digital.gov/dap/), will discuss how to think about sessions and unique pageviews in reporting and content analysis. Attendees will learn:
 
 * Difference between sessions and unique pageviews and how to use them
 * How to analyze content
