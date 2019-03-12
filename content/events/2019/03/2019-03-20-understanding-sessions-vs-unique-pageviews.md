@@ -31,3 +31,5 @@ In this webinar, **Freddie Blicher**, an analyst for the [Digial Analytics Progr
 * [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
 * [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 * [Contact the DAP team](mailto:dap@support.digitalgov.gov)
+
+[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3946624&CustomerID=321)
