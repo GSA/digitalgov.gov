@@ -42,6 +42,7 @@ main{
    	.deck{
      	@include u-font('sans', 'xl');
      	@include u-text('light');
+			@include u-line-height('sans', 3);
    	}
 
 		p{

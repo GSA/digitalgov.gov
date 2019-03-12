@@ -36,11 +36,11 @@
                   <p class="deck">{{- .Params.summary -}}</p>
                   {{- end -}}
 
-                  {{ partial "core/list_related_resources.html" . }}
+                  {{ partial "core/list_related_resources.html" (dict "root" . "expanded" false) }}
 
                   {{ partial "core/list_related_services.html" . }}
 
-                  <p class="more">See all blog posts on <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }} <i class="fas fa-arrow-circle-right"></i></a></p>
+                  <p class="more"><a href="{{ .Permalink }}" title="{{ .Title }}">See all on {{ .Title }} <i class="fas fa-arrow-circle-right"></i></a></p>
                 </div>
               </div>
             </div>

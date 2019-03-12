@@ -2,16 +2,26 @@
 A list of the most important resources tagged with the same topic */}}
 
 {{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
-{{- $resources := (where .Pages "Section" "resources") -}}
+{{- $resources := (where .root.Pages "Section" "resources") -}}
 
 {{/* If there are any resources at all... */}}
 {{- if $resources -}}
+
 <div class="list-collection">
+
+  {{ if eq .expanded true }}
   <h2>Top Resources</h2>
+  {{ end }}
+
   <ul>
     {{- range $resources -}}
       <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
     {{- end -}}
   </ul>
+
+  {{ if eq .expanded true }}
+  <p class="more"><a href="{{ "/resources/" | absURL }}">See all Resources <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+  {{ end }}
+
 </div>
 {{- end -}}

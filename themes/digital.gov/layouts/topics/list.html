@@ -6,18 +6,23 @@
 <main role="main" id="topic">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-12 tablet:grid-col-8 tablet-lg:grid-col-9">
+      <div class="grid-col-12">
         <header class="page-header">
           <h6 class="breadcrumb"><a href="{{- "topics/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Topics</span> </a></h6>
           <h1>{{- .Title -}}</h1>
           {{- $allpages := (where .Pages "Section" "posts") -}}
           <p class="deck">{{- .Params.summary -}}</p>
         </header>
+      </div>
+    </div>
+
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12 tablet:grid-col-8 tablet-lg:grid-col-9">
         <section>
 
           {{/* If the first page in a paginated sequence */}}
           {{ if eq .Paginator.PageNumber 1}}
-            {{ partial "core/list_related_resources.html" . }}
+            {{ partial "core/list_related_resources.html" (dict "root" . "expanded" true) }}
 
             {{ partial "core/list_related_services.html" . }}
 
