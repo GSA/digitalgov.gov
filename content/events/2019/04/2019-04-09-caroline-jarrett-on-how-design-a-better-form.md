@@ -23,3 +23,5 @@ We have a lot of forms in government, and many of them would benefit from better
 *This talk is hosted by the TTS Research Guild and Digital.gov. [The TTS Research Guild](https://github.com/18F/g-research) is a GSA-local community of practice for design researchers and design research enthusiasts led by Ben Peterson.*
 
 *Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).* 
+
+[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3944823&CustomerID=321)
