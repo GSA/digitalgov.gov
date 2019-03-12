@@ -16,11 +16,11 @@ youtube_id: uVvP6qeaZPY
 
 ---
 
-Page-level reporting is complicated&mdash;we regularly need to decide between using sessions and unique pageviews in reports. How should we be thinking about these two very different metrics? How should we interpret and use them in our content analysis? We’ll talk about the concepts of sessions and unique pageviews and demonstrate how to answer your content questions to help you better understand how to report on your content using sessions and unique pageviews.  
+Page-level reporting is complicated&mdash;we regularly need to decide between using sessions and unique pageviews in reports. How should we be thinking about these two very different metrics? How should we interpret and use them in our content analysis? We’ll talk about the concepts of sessions and unique pageviews and demonstrate how to answer content questions to help you better understand how to report on your content using sessions and unique pageviews.  
 
 In this webinar, **Freddie Blicher**, an analyst for the [Digial Analytics Program](https://digital.gov/dap/) (DAP), will discuss how to think about sessions and unique pageviews in reporting and content analysis. Attendees will learn:
 
-* the difference between sessions and unique pageviews and how to use them
+* the difference between sessions and unique pageviews, and how to use them
 * how to analyze content
 
 --- 
