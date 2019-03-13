@@ -26,15 +26,15 @@
       <div class="grid-container grid-container-desktop">
         {{ $services := (where .Site.Pages "Section" "services").ByTitle }}
         <div class="list-collection">
-        <ul>
-        {{ range $i, $e := $services }}
-          {{ if $services }}
-            {{- if ge .Params.weight 1 -}}
-              <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.summary }} — {{ .Params.summary -}}{{- end -}}</li>
+          <ul>
+          {{ range $i, $e := $services }}
+            {{ if $services }}
+              {{- if ge .Params.weight 1 -}}
+                <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.summary }} — {{ .Params.summary -}}{{- end -}}</li>
+              {{ end }}
             {{ end }}
           {{ end }}
-        {{ end }}
-        </ul>
+          </ul>
         </div>
       </div>
     </section>
