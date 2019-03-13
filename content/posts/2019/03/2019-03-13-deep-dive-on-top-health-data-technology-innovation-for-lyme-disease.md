@@ -1,6 +1,6 @@
 ---
 slug: deep-dive-on-top-health-data-technology-innovation-for-lyme-disease
-date: 2019-03-13 12:00:00 -0500
+date: 2019-03-13 13:00:00 -0500
 title: 'Deep Dive: Using Data Technology &#43; Innovation for Lyme Disease'
 summary: 'A 14-week sprint delivered digital tools that used federal open data  to address Lyme and tick-borne diseases.'
 deck: 'Addressing Lyme and tick-borne disease by coupling the power of the crowd and patient insights with data.'
@@ -43,11 +43,6 @@ This next generation of technologists and innovators included a 14-year-old girl
 The TickTracker App, which you can download today for free on Android and Apple devices, uses real-time geolocation and amalgamates data from the U.S. Centers for Disease Control and Prevention (CDC), U.S. Department of Agriculture, the Smithsonian Institute, other federal agencies, and non-government data. The LivLyme Foundation created the TickTracker app and used the TOP Health sprint to connect with government data stewards and unlock new datasets to improve the app with new functionality. At the end of the TOP Health sprint, the TickTracker App went live with new data visualizations and heat maps to show the distributions of ticks.
 
 The TickTickBoom! Game by the LivLyme Foundation is the first-ever gamification tool for middle school children to learn how to protect themselves from ticks that may spread diseases like Lyme disease. The TickTickBOOM! game will soon be available for free to download on Android and Apple devices. As the twin inventors, Will and Jack Goodreau said in unison, “Who doesn’t want to blow up ticks?”
-
-{{< img src="pif-top-health2" >}}
-
-{{< img src="pif-top-health2-1" >}}
-
 
 ## TOP Health Challenges
 
