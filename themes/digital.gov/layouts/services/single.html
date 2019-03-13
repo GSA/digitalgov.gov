@@ -6,7 +6,7 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12">
-            <h6 class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></h6>
+            <h6 class="breadcrumb"><a href="{{- "services/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Services</span> </a></h6>
 
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}} </h1>
@@ -42,7 +42,7 @@
             {{- partial "core/get_communities" . -}}
 
             {{/* Promos */}}
-            {{- partial "core/get_promos" . -}}
+            {{- partial "core/get_services" . -}}
 
             {{/* Topics */}}
             {{- partial "core/get_topics" . -}}
