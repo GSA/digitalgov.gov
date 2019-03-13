@@ -1,11 +1,33 @@
 ---
 url: /services/challenge-gov/
-date: 2012-07-09 3:46:23 -0400
-uid: challenge-gov
-title: Crowdsourcing with Challenge.gov
-summary: 'Post a challenge on Challenge.gov A Primer on Challenges & Prizes Challenges and prize competitions are proven methods to drive innovation in the public sector and beyond. But they aren&rsquo;t new. The 1927 Orteig Prize led to Charles Lindbergh&rsquo;s famous transatlantic flight and advances in aerospace. In the centuries before, prizes were offered in Europe'
+
+# What is the name of the product or service?
+title: 'Challenge.gov'
+
+# Keep it short — should be no longer than 10 words.
+summary: 'An open innovation hub for challenge and prize competitions.'
+
+# What is the URL for this product or service?
+# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+# src: 'https://challenge.gov/'
+
+# Images need to be 200x200px with a transparent background
+# Upload new images to Github in the /static/promos/ folder
+# https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
+# The filename should reflect the name of the product or service (e.g., challenge-gov.png)
+# icon: 'challengegov.png'
+
+# Weight: control how services appear across the site
+# 2 == will be part of the rotation on the homepage
+# 1 == will show on the all services page
+# 0 == hidden promo
+weight: 1
+
+# Topics that best describe this product or service
 topics:
   - challenges
+  - innovation
+
 ---
 
 {{< button href="https://www.challenge.gov/post-challenges/" text="Post a challenge on Challenge.gov" >}}

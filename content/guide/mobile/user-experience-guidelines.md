@@ -105,7 +105,7 @@ Below we have added specific resources to each guideline.
 ## Guideline 5: Collect and use data (quantitative and qualitative) to determine what content your users want and where
 ### Government Examples & Resources:
 
-  * [Digital Analytics Program]({{< link "dap.md" >}})
+  * [Digital Analytics Program]({{< link "service_dap.md" >}})
   * [SaferBus Mobile Usability Case Study]({{< link "2013-03-21-saferbus-mobile-usability-case-study.md" >}})
   * [AIDS.gov Responsive Design]({{< link "2012-07-11-aids-gov-responsive-design.md" >}})
   * [CDC&#8217;s Digital Front Door Goes Responsive]({{< link "2014-06-05-cdcs-digital-front-door-goes-responsive.md" >}})

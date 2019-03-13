@@ -28,7 +28,7 @@ The [Electronic Capital Planning and Investment Control (eCPIC)]({{< link "elect
 
 ## Metrics
 
-[Digital Analytics Program (DAP)]({{< link "dap.md" >}} "DAP: Digital Analytics Program") offers advanced, easy Web analytics to federal agencies. The program includes is a **no-cost**, hosted shared service Web analytics tool, digital metrics guidance and best practices, training and support.
+[Digital Analytics Program (DAP)]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program") offers advanced, easy Web analytics to federal agencies. The program includes is a **no-cost**, hosted shared service Web analytics tool, digital metrics guidance and best practices, training and support.
 
 {{< button href="dap.md" text="Get Started" >}}
 

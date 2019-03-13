@@ -1,32 +1,29 @@
 ---
 # What is the name of the product or service?
-name: 'Pulse'
+title: '10x'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'Measures how U.S. government domains are following best practices for federal websites.'
+summary: 'Funding technology-focused ideas that improve the experience people have with our government.'
 
-# What URL are we pointing to?
-# Note: We add a ?dg to the end of the URL
-src: 'https://pulse.cio.gov/'
+# What is the URL for this product or service?
+# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+src: 'https://10x.gsa.gov/'
 
-# Images need to be 200x200px with a transparent background
+# Images need to be at 200x200px with a transparent background
 # Upload new images to Github in the /static/promos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: 'pulse.png'
+icon: '10x.png'
 
-# Weight control how these promos appear on the site
+# Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage
 # 1 == will show on the all services page
 # 0 == hidden promo
 weight: 2
 
+# Topics that best describe this product or service
 topics:
-  - https
+  - strategy
+  - design
   - managing-digital
-  - security
-  - dap
-  - analytics
-
-
 ---

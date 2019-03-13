@@ -1,18 +1,38 @@
 ---
-url: /dap/
-uid: dap
-date: 2012-10-30 3:41:20 -0400
-title: 'DAP: Digital Analytics Program'
-summary: 'The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies.'
-aliases:
-  - /services/dap/
+# URL for this page
+url: /services/dap/
 
+# What is the name of the product or service?
+title: 'Digital Analytics Program (DAP)'
+
+# Keep it short — should be no longer than 10 words.
+summary: 'A free web analytics tool for federal agencies.'
+
+# What URL are we pointing to?
+# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+# src: ''
+
+# Images need to be 200x200px with a transparent background
+# Upload new images to Github in the /static/promos/ folder
+# https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
+# The filename should reflect the name of the product or service (e.g., challenge-gov.png)
+icon: 'dap.png'
+
+# Weight control how these promos appear on the site
+# 2 == will be part of the rotation on the homepage
+# 1 == will show on the all services page
+# 0 == hidden promo
+weight: 2
+
+# Topics that best describe this product or service
 topics:
   - analytics
   - metrics
-  - data
+  - dap
 
-weight: 2
+aliases:
+  - /dap/
+
 ---
 
 The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies. The program is a hosted shared service provided by <a href="http://www.gsa.gov/portal/category/25729" target="_blank">GSA&#8217;s Technology Transformation Service</a>. On November 8, 2016, the Office of Management and Budget (OMB) released a memorandum on <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>, which requires federal agencies to implement the DAP javascript code on all public facing federal websites.

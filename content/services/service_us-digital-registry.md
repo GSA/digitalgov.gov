@@ -1,13 +1,39 @@
 ---
 url: /services/u-s-digital-registry/
-date: 2016-01-08 11:06:56 -0400
+
+# What is the name of the product or service?
 title: 'U.S. Digital Registry'
-summary: 'The U.S. Digital Registry serves as a resource for agencies, citizens, and developers to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites.'
+
+# Keep it short — should be no longer than 10 words.
+summary: 'A resource for confirming the official status of government social media accounts, mobile apps, and mobile websites.'
+
+# What URL are we pointing to?
+# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+src: 'https://digital.gov/services/u-s-digital-registry/'
+
+# Images need to be 200x200px with a transparent background
+# Upload new images to Github in the /static/promos/ folder
+# https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
+# The filename should reflect the name of the product or service (e.g., challenge-gov.png)
+# icon: 'uswds.png'
+
+# Weight control how these promos appear on the site
+# 2 == will be part of the rotation on the homepage
+# 1 == will show on the all services page
+# 0 == hidden promo
+weight: 1
+
+# Topics that best describe this product or service
+topics:
+  - social-media
+  - mobile
+  - managing-digital
+  - us-digital-registry
+
 aliases:
   - /services/social-media-registry/
   - /services/the-federal-mobile-apps-registry/
 ---
-
 
 To help prevent exploitation from unofficial sources, phishing scams, or malicious entities, the [**U.S. Digital Registry**](https://usdigitalregistry.digitalgov.gov/) serves as a resource for agencies, citizens, and developers to confirm the official status of social media and public-facing collaboration accounts, mobile apps, and mobile websites.
 

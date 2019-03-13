@@ -1,11 +1,33 @@
 ---
 url: /services/search/
-date: 2013-11-30 4:20:13 -0400
-title: Search.gov
-summary: 'Use Search.gov to power the search box on your federal government website&mdash;at no cost.'
-source_url: https://search.gov
+
+# What is the name of the product or service?
+title: 'Search.gov'
+
+# Keep it short — should be no longer than 10 words.
+summary: 'A free hosted search platform for federal websites.'
+
+# What URL are we pointing to?
+# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+src: 'https://search.gov/'
+
+# Images need to be 200x200px with a transparent background
+# Upload new images to Github in the /static/promos/ folder
+# https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
+# The filename should reflect the name of the product or service (e.g., challenge-gov.png)
+icon: 'searchgov.png'
+
+# Weight control how these promos appear on the site
+# 2 == will be part of the rotation on the homepage
+# 1 == will show on the all services page
+# 0 == hidden promo
 weight: 2
-homepage: true
+
+# Topics that best describe this product or service
+topics:
+  - search-engine-optimization
+  - seo
+
 ---
 
 Use [Search.gov](https://search.gov) _(formerly DigitalGov Search)_ to power the search box on your federal government website—at no cost. <a href="https://search.usa.gov/signup" target="_blank">Sign up for an account</a> to get started. Our hosted search service helps you improve visitors&#8217; search experience on your website.

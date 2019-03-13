@@ -1,15 +1,35 @@
 ---
 url: /services/mobile-application-testing-program/
-date: 2013-12-11 4:08:59 -0400
-uid: mobile-application-testing-program
-title: Federal CrowdSource Mobile Testing Program
-summary: Does your mobile application function properly on all devices your users have? Are you able to test your mobile site on all devices that access it? Do you have the time and money to maintain a mobile test lab?
-authors:
-  - jparcell
 
+# What is the name of the product or service?
+title: 'Federal CrowdSource Mobile Testing Program'
+
+# Keep it short — should be no longer than 10 words.
+summary: 'Free mobile compatibility testing by feds, for feds.'
+
+# What URL are we pointing to?
+# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+# src: ''
+
+# Images need to be 200x200px with a transparent background
+# Upload new images to Github in the /static/promos/ folder
+# https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
+# The filename should reflect the name of the product or service (e.g., challenge-gov.png)
+# icon: 'dap.png'
+
+# Weight control how these promos appear on the site
+# 2 == will be part of the rotation on the homepage
+# 1 == will show on the all services page
+# 0 == hidden promo
+weight: 2
+
+# Topics that best describe this product or service
 topics:
   - mobile
-  - accessibility
+  - user-testing-and-research
+  - ux
+  - user-experience
+
 ---
 
 {{< legacy-img src="/2013/12/250-x-202-mobile-devices-testing-app.jpg" alt="Many smartphones and tablets on a table displaying the same app." >}}Does your mobile site function properly on all devices your users have?

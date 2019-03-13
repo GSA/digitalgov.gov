@@ -16,7 +16,7 @@ domain: 'digit-150.png'
 # Copy and paste that full path here:
 # icon: "https://demo.digital.gov/img/icons/favicon.ico"
 
-# Weight control how these promos appear on the site
+# Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage
 
 # 1 == will show on the all services page

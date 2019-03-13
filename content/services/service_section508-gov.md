@@ -1,13 +1,13 @@
 ---
 # What is the name of the product or service?
-name: 'Go.USA.gov'
+title: 'Section508.gov'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'A URL shortener for official government domains.'
+summary: 'Guidance for Federal agencies on IT accessibility compliance.'
 
 # What URL are we pointing to?
-# Note: We add a ?dg to the end of the URL
-src: 'https://digital.gov/services/usa-gov-short-urls/'
+# Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
+src: 'https://www.section508.gov/'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/promos/ folder
@@ -21,8 +21,12 @@ src: 'https://digital.gov/services/usa-gov-short-urls/'
 # 0 == hidden promo
 weight: 1
 
+# Topics that best describe this product or service
 topics:
-  - social-media
-  - content-management
+  - managing-digital
+  - accessibility
+  - governance
+  - policy
+  - section-508
 
 ---
