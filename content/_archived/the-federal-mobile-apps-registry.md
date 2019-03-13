@@ -6,6 +6,7 @@ summary: 'Register your mobile product here! Promote your public facing mobile w
 draft: true
 authors:
   - jparcell
+redirectto: https://www.digitalgov.gov/services/u-s-digital-registry/
 ---
 
 <p style="text-align: center">
