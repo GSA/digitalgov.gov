@@ -104,4 +104,4 @@ The 14-week “TOP Health” tech sprint was co-led by the U.S. Department of He
 
 ---
 
-_TOP Health was modeled in part after [The Opportunity Project](https://opportunity.census.gov/) (TOP) led by the Census Bureau at U.S. Department of Commerce. The Opportunity Project is a process for engaging government, communities, and the technology industry to create digital tools that address our greatest challenges as a nation._
+_TOP Health was modeled in part after [The Opportunity Project](https://opportunity.census.gov/) (TOP) led by the Census Bureau at U.S. Department of Commerce. The Opportunity Project is a process for engaging government, communities, and the technology industry to create digital tools that address our greatest challenges as a nation._ 
