@@ -44,6 +44,11 @@ The TickTracker App, which you can download today for free on Android and Apple 
 
 The TickTickBoom! Game by the LivLyme Foundation is the first-ever gamification tool for middle school children to learn how to protect themselves from ticks that may spread diseases like Lyme disease. The TickTickBOOM! game will soon be available for free to download on Android and Apple devices. As the twin inventors, Will and Jack Goodreau said in unison, “Who doesn’t want to blow up ticks?”
 
+{{< img src="pif-top-health2" >}}
+
+{{< img src="pif-top-health2-1" >}}
+
+
 ## TOP Health Challenges
 
 The TOP Health sprint featured two challenges, one on AI for clinical trials and one on Lyme and tick-borne diseases. [Read about the TOP Health Challenge #1 results on AI](https://digital.gov/2019/02/27/how-a-health-tech-sprint-inspired-an-ai-ecosystem/) in part one of this two-part “Deep Dive” blog series. Both challenges connected federal datasets and data stewards with emerging technologies and ideas and from highly motivated, non-government innovators to solve real-world challenges. Each TOP Health team and its digital tool had to:
