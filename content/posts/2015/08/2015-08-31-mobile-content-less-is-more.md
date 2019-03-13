@@ -24,7 +24,7 @@ topics:
   - ux
 ---
 
-With 14 test cycles under our belt, the [Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}}) has heard one recurring theme from our testers—&#8221;there&#8217;s too much information!&#8221;
+With 14 test cycles under our belt, the [Federal CrowdSource Mobile Testing Program]({{< link "service_mobile-testing-program.md" >}}) has heard one recurring theme from our testers—&#8221;there&#8217;s too much information!&#8221;
 
 While both desktop monitor and smartphone screen sizes are growing, there is still no comparison. At our desks, many of us are using a 24 inch (or even bigger) monitor.
 

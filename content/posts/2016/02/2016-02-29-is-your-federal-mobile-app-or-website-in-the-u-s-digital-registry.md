@@ -19,7 +19,7 @@ topics:
   - usa-gov-federal-mobile-apps-directory
 ---
 
-We have received an amazing response to the [U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}}), our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.
+We have received an amazing response to the [U.S. Digital Registry]({{< link "service_us-digital-registry.md" >}}), our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.
 
 {{< legacy-img src="2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for Central Intelligence Agency on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." >}}
 
@@ -41,4 +41,4 @@ With the Registry, agencies are well on their way to providing a new generation 
 
 A mobile registration in the U.S. Digital Registry demonstrates an agency’s commitment to serving their customers’ needs anytime, anywhere and on any device. Currently, there are only 323 mobile registrations. We know there a number of agencies with [lost native apps and mobile websites]({{< link "2015-09-10-day-100-the-great-federal-mobile-product-hunt.md" >}}) (including responsive) that need to be added.
 
-Register your mobile products on the [U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}}) now and help us spread the word!
+Register your mobile products on the [U.S. Digital Registry]({{< link "service_us-digital-registry.md" >}}) now and help us spread the word!

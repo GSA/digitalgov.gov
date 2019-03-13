@@ -79,7 +79,7 @@ Online-based communication tools offer resources, each with unique strengths and
   5. Train stakeholders and others on the procedures and policies of social media cyber-security. 
       * Require training before use of an account.
   6. Use only authorized URL Shorteners, e.g. [go.USA.gov](https://go.usa.gov/).
-  7. Add all official accounts to the [U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}}), verifying authenticity of ownership. 
+  7. Add all official accounts to the [U.S. Digital Registry]({{< link "service_us-digital-registry.md" >}}), verifying authenticity of ownership. 
       * This tool, used by both Facebook and Google to verify accounts, tracks official federal social media accounts.
       * List Department of Defense (DoD) social media accounts in the [DoD Social Media Site Registry](http://www.defense.gov/RegisteredSites/SocialMediaSites.aspx). 
           * Per [DOD Web Policy](http://www.defense.gov/webmasters/) and [DoDI 8550.01](http://www.dtic.mil/whs/directives/corres/pdf/855001p.pdf) , use [DoD Social Media Registry submission form](http://www.defense.gov/RegisteredSites/SubmitLink.aspx).

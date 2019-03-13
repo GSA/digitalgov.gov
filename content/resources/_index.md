@@ -70,7 +70,7 @@ aliases:
 
 * [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 * [Eight Principles of Mobile-Friendliness](https://digital.gov/resources/mobile/principles/)
-* [Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}})
+* [Federal CrowdSource Mobile Testing Program]({{< link "service_mobile-testing-program.md" >}})
 * [A Guide to Creating Mobile-Friendly Websites](https://digital.gov/resources/guide-create-mobile-friendly-websites/)
 * [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}})
     * [Mobile Code Sharing Catalog]({{< link "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}})
@@ -109,7 +109,7 @@ aliases:
 * [Electronic Capital Planning and Investment Control eCPIC]({{< link "electronic-capital-planning-and-investment-control-ecpic.md" >}})
 * [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 KB, 2 pages, January 2015)
 * [Sample Position Descriptions for Digital Government Jobs]({{< link "sample-position-descriptions-for-digital-government-jobs.md" >}})
-* [U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}}) to register official social media accounts and mobile apps
+* [U.S. Digital Registry]({{< link "service_us-digital-registry.md" >}}) to register official social media accounts and mobile apps
 
 ## Records Management
 
@@ -146,7 +146,7 @@ aliases:
     * [Required Web Content and Links]({{< link "required-web-content-and-links.md" >}})
 * [Content Management Systems Toolkit]({{< link "2013-10-30-content-management-systems-toolkit.md" >}})
     * [Content Management Systems Used by Government Agencies]({{< link "content-management-systems-used-by-government-agencies.md" >}})
-* [Search.gov]({{< link "search.md" >}}) (formerly DigitalGov Search)
+* [Search.gov]({{< link "service_search.md" >}}) (formerly DigitalGov Search)
 * [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf" >}}) (PDF, 607 kb, 92 pages, June 2004)
     * [ICGI Report Attachments]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 184 kb, 7 pages, June 2004)
     * [ICGI Summary and Background]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 176 kb, 6 pages, June 2004)

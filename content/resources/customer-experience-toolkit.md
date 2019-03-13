@@ -162,7 +162,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
       * [Using Customer Feedback to Improve Healthcare.gov]({{< link "2015-09-17-using-customer-feedback-to-improve-healthcare-gov.md" >}})
   * Review website and search data to identify the most-viewed/popular content
       * [DAP/Google Analytics]({{< link "service_dap.md" >}}) &#8211; web analytics
-      * [DigitalGov Search]({{< link "search.md" >}}) &#8211; website search data
+      * [DigitalGov Search]({{< link "service_search.md" >}}) &#8211; website search data
 
 ### Identify common questions
 
@@ -238,7 +238,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 ### Use shared services
 
   * [Digital Analytics Program (DAP)]({{< link "service_dap.md" >}}) &#8211; website analytics
-  * [DigitalGov Search]({{< link "search.md" >}}) &#8211; hosted search service
+  * [DigitalGov Search]({{< link "service_search.md" >}}) &#8211; hosted search service
   * [DOI Federal Consulting Group (FCG)](https://www.fcg.gov/) &#8211; survey tools and analysis support
 
 ### Engage your team
@@ -269,7 +269,7 @@ Develop a Digital Business Strategy that embraces an improved customer experienc
   * Publish open, structured content
       * [Finding the Best Mobile Moment for Anytime, Anywhere Government]({{< link "2015-06-01-finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government.md" >}})
   * Coordinate across all channels (web, social, mobile, etc.)
-      * [U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}})
+      * [U.S. Digital Registry]({{< link "service_us-digital-registry.md" >}})
 
 ### Communicate clearly
 

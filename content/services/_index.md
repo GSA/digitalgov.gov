@@ -34,25 +34,25 @@ The [Electronic Capital Planning and Investment Control (eCPIC)]({{< link "elect
 
 ## Mobile
 
-[U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}} "The Federal Mobile Apps Registry"). Promote your public facing mobile websites and apps by registering them in the U.S. Digital Registry. Once registered your app will be featured on the [Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps) and included in a [government mobile product API](https://usdigitalregistry.digitalgov.gov/#swagger-api-docs). **Free!**
+[U.S. Digital Registry]({{< link "service_us-digital-registry.md" >}} "The Federal Mobile Apps Registry"). Promote your public facing mobile websites and apps by registering them in the U.S. Digital Registry. Once registered your app will be featured on the [Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps) and included in a [government mobile product API](https://usdigitalregistry.digitalgov.gov/#swagger-api-docs). **Free!**
 
-{{< button href="u-s-digital-registry.md" text="Get Started" >}}
+{{< button href="service_us-digital-registry.md" text="Get Started" >}}
 
-[Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program"). Take advantage of this FREE service provided for federal agencies by federal employees. Leverage an army of Testers (all federal employees) to evaluate your application on a wide variety of mobile devices and provide your agency with a results report you can immediately use to enhance your application.
+[Federal CrowdSource Mobile Testing Program]({{< link "service_mobile-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program"). Take advantage of this FREE service provided for federal agencies by federal employees. Leverage an army of Testers (all federal employees) to evaluate your application on a wide variety of mobile devices and provide your agency with a results report you can immediately use to enhance your application.
 
-{{< button href="mobile-application-testing-program.md" text="Get Started" >}}
+{{< button href="service_mobile-testing-program.md" text="Get Started" >}}
 
 ## Search
 
-[Search.gov]({{< link "search.md" >}} "Search.gov") (formerly DigitalGov Search) is a hosted site search service provided by the U.S. General Services Administration. You can use Search.gov to power the search box on your federal government website—**at no cost**.
+[Search.gov]({{< link "service_search.md" >}} "Search.gov") (formerly DigitalGov Search) is a hosted site search service provided by the U.S. General Services Administration. You can use Search.gov to power the search box on your federal government website—**at no cost**.
 
-{{< button href="search.md" text="Get Started" >}}
+{{< button href="service_search.md" text="Get Started" >}}
 
 ## Social Media
 
-[U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}} "Social Media Registry") is a tool to keep track of social media accounts managed by federal agencies. It helps the public identify “official” federal social media accounts and helps agencies manage their social media efforts. It includes a series of APIs so developers can build applications with the data from the registry. **Free!**
+[U.S. Digital Registry]({{< link "service_us-digital-registry.md" >}} "Social Media Registry") is a tool to keep track of social media accounts managed by federal agencies. It helps the public identify “official” federal social media accounts and helps agencies manage their social media efforts. It includes a series of APIs so developers can build applications with the data from the registry. **Free!**
 
-{{< button href="u-s-digital-registry.md" text="Get Started" >}}
+{{< button href="service_us-digital-registry.md" text="Get Started" >}}
 
 [USA.gov Short URLs]({{< link "usa-gov-short-urls.md" >}} "USA.gov Short URLs") let anyone with a government email address quickly and easily create short, trustworthy .gov URLs. **Free!**
 

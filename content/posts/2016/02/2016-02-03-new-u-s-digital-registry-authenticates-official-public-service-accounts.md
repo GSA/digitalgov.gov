@@ -21,7 +21,7 @@ topics:
 
 Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We’d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you do that and remove bureaucratic and technological barriers between users and digital public services.
 
-It’s called [the U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}}), and we hope you’ll join us in using it to develop a new generation of services that:
+It’s called [the U.S. Digital Registry]({{< link "service_us-digital-registry.md" >}}), and we hope you’ll join us in using it to develop a new generation of services that:
 
   * delivers authenticated information to users across platforms, languages and topics
   * supports cyber-security by deterring fake accounts that spread misinformation and steal personal data.

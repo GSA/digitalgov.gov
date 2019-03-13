@@ -647,7 +647,7 @@ To collect search metrics, you&#8217;ll need to pull data from a variety of sour
 
 **4. Register for application monitoring tools (optional).** Many tools are free for limited use. Use to report on site health metrics such as outages, page load times, application responsiveness, etc. (Examples: YSlow, Pingdom, AlertSite)
 
-**5. Attend training.** The DigitalGov University training, USASearch: Enhancing Your Website&#8217;s Search, explains how the free [USASearch tool]({{< link "search.md" >}}) can improve the search function on your government website. Another DigitalGov University training, The Science of Search: Competitive Intelligence for the Government Web Manager shows how to use the &#8220;science of search&#8221; to improve your search rankings.
+**5. Attend training.** The DigitalGov University training, USASearch: Enhancing Your Website&#8217;s Search, explains how the free [USASearch tool]({{< link "service_search.md" >}}) can improve the search function on your government website. Another DigitalGov University training, The Science of Search: Competitive Intelligence for the Government Web Manager shows how to use the &#8220;science of search&#8221; to improve your search rankings.
 
 ## <a name="usability-metrics"></a>Usability (User Experience) Metrics
 
