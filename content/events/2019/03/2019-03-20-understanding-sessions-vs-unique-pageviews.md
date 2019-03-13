@@ -16,6 +16,8 @@ youtube_id: uVvP6qeaZPY
 
 ---
 
+_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3946624&CustomerID=321)._ 
+
 Page-level reporting is complicated&mdash;we regularly need to decide between using sessions and unique pageviews in reports. How should we be thinking about these two very different metrics? How should we interpret and use them in our content analysis? We’ll talk about the concepts of sessions and unique pageviews and demonstrate how to answer content questions to help you better understand how to report on your content using sessions and unique pageviews.  
 
 In this webinar, **Freddie Blicher**, an analyst for the [Digial Analytics Program](https://digital.gov/dap/) (DAP), will discuss how to think about sessions and unique pageviews in reporting and content analysis. Attendees will learn:
@@ -30,4 +32,4 @@ In this webinar, **Freddie Blicher**, an analyst for the [Digial Analytics Progr
 * [Learn more about DAP](https://www.digitalgov.gov/services/dap/)
 * [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
 * [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
-* [Contact the DAP team](mailto:dap@support.digitalgov.gov)
+* [Contact the DAP team](mailto:dap@support.digitalgov.gov) 
