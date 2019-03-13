@@ -34,7 +34,7 @@ To quote Alan Turing, “**_Sometimes it is the people no one can imagine anythi
 
 What we couldn’t imagine was that K-12 STEM innovators would join our TOP Health sprint—and dazzle the U.S. Department of Health and Human Services (HHS), the Presidential Innovation Fellows Program, and leadership from across federal government. “These young people were very impressive,” said Ed Simcox, HHS Chief Technology Officer, “When it comes to a ‘wicked problem’ such as Lyme disease, we want to encourage innovation from any source, and clearly young people are stepping up to the challenge.”
 
-{{< youtube 36sdFlR1F-s >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36sdFlR1F-s?start=7411" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Ed Simcox introduces Olivia Goodreau. Video courtesy of the U.S. Census Bureau._
 
