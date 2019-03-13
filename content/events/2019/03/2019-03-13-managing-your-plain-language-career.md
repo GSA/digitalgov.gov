@@ -36,4 +36,4 @@ We'll discuss your formal and informal plain language work (teaching, training, 
 
 Please submit your questions to [info@plainlanguage.gov](mailto:info@plainlanguage.gov) by Tuesday, March 12 with the subject line: `3/13 Career Advice Meeting`.
 
-_This event will be held on Zoom. Our team will distribute links join the event prior to the event date. If you wish to install the Zooms web browser client beforehand, [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting)._ 
+_This event will be held on Zoom. Our team will distribute links join the event prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand._ 
