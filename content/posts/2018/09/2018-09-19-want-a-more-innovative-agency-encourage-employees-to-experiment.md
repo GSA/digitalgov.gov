@@ -1,0 +1,49 @@
+---
+slug: want-a-more-innovative-agency-encourage-employees-to-experiment
+date: 2018-09-19 10:12:00 -0500
+title: 'Want a More Innovative Agency&#63; Encourage Employees to Experiment'
+summary: 'How agency leaders can create a work environment that fosters innovation via creativity and experimentation&#46;'
+authors:
+  - brian-fox
+categories:
+  - managing-digital
+tag:
+  - innovation
+featured_image:
+  uid: light-bulb
+  alt: ''
+---
+
+
+_How agency leaders can create a work environment that fosters innovation via creativity and experimentation._
+
+Every organization seeks to innovate, to use the latest technology or methods to provide new products and services to their users—but despite this near-universal desire to improve the product, many can have a tough time generating meaningful innovation. What differentiates those agencies that are creating novel products or services from the rest is leadership’s role in creating a safe, creative work environment where employees have freedom to experiment on the job.
+
+{{< img src="leader-ship" >}}
+
+Leadership must clearly communicate a future vision, and highlight how they support its implementation today. Some agencies struggle with innovation because they may be struggling with short-term challenges. In this situation, innovation can appear to stand in the way of their short-term goals. But viewed as an investment, innovation can be properly prioritized, allowing leaders to ensure resources are adequately provided to ensure long-term relevance for the agency and its mission. Research, development, and “on the job learning” takes time and resources, but the fruits of this exploration allows for them to not only reach those goals faster and more efficiently, but also develop new, more relevant goals (in the form of new products and services). Agency leaders that are looking to improve innovation within their organizations must create an environment that allows creativity to flourish and be implemented. Work environments that enable collaboration, productivity, and engage employees’ excitement for their agency’s mission and products, all allow for greater creativity and innovation.
+
+Leaders should examine how much time their workforce has to experiment and “productively play.” While it’s important to plan future work to ensure that critical organizational goals are met, time should be set aside for everyone to innovate. Most innovations aren’t planned, and companies like 3M know this, allowing substantial time for their employees to experiment on their own (15% of their time!). The 3M Post-It notes that are probably on your desk as you read this are a great example of this “freedom to experiment”—[a 3M engineer determined on his own](https://www.wired.com/1998/01/the-15-percent-solution/) that an adhesive that failed in its initial development could be used on the back of paper to create a great way to tag and keep small notes. Amazon.com allows for "[blind alleys](https://www.bloomberg.com/news/articles/2004-08-18/jeff-bezos-blind-alley-explorer)" where employees can experiment to determine if a new idea or approach may yield positive outcomes for the business. The selling of used books through from 3rd party vendors through Amazon is an output of one such blind alley at Amazon, and this once-new-idea now accounts for over 30 percent of their book sales.
+
+At the [U.S. Geological Survey](https://www.usgs.gov/)’s (USGS) [National Geospatial Technical Operations Center](https://ngtoc.usgs.gov/) (NGTOC), development teams prioritize research into upcoming sprints, working with key stakeholders that are often excited about releasing new technology to the public. Planning for creativity in upcoming sprints allows the development staff the opportunity to learn and experiment with new methods and products. These short-term research sprints allow the development staff and stakeholders to take advantage of technical opportunities and the team’s creativity to meet an immediate goal. The [agile method](https://digital.gov/2018/04/03/thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods/) also limits potential “waste” by reporting out quickly and regularly on the outcome of any development research and prototyping, ensuring that new ideas don’t absorb too many resources or time. As Amazon, 3M, and USGS NGTOC demonstrate, if your staff’s time is 100% planned, the agency will not be able to leverage their creativity. But, freeing up some of your staff’s time to explore will allow for the discovery of innovative new products and methods of creating them. Innovation requires creative freedom, and providing the time for your staff to innovate will help ensure your agency is making the most of your staff’s creative potential.
+
+
+{{< img src="light-bulb" >}}
+
+Creating space for productive play, experimentation, and on-the-job learning is just the beginning. Leadership has a role in creating the venues for those ideas and lessons learned to be shared and discussed. Recurring events to allow your staff to show-and-tell what has resulted from their on-the-job experimentation allows for ideas to gain traction in the organization. In these events, it is critical for leaders to attend and praise not only the great innovations that are shared, but also praise those “failures” that were discovered by employees. Methods and techniques that don’t work can be as important as those that do. When leaders encourage and reward staff for sharing small failures, they are signaling to their staff that taking smart risks and the organizational learning that comes from it is valued—as it should be, since small risks and learning drive innovation. It is critical for the leader to show their staff that the sharing of failures is allowed, as creating a culture of psychological safety is not only more enjoyable to work in, it is also creates a more innovative organization. This improves the organization’s ability to not only produce great products, it also makes it easier to attract and retain talent. Leadership’s involvement in the show-and-tell allows them to ensure employees feel a sense of psychological safety when sharing the outcomes of their on-the-job innovation and experimentation. These recurring venues allow a concept that begins with one employee to start a process or create a product that revolutionizes the organization.
+
+At the USGS, we have created a recurring DevOps Sync to allow technical staff from throughout the bureau to come together to share the methods and technologies related to developing in the cloud that are working for them. The DevOps Sync is not a technical solution, but rather a recurring meeting that acts as a platform for sharing across the USGS.  It has allowed not only the various science centers to learn faster, but it has also enabled senior IT leadership at USGS to get feedback on the tools their stakeholders require to develop and release faster (and less expensively) in the cloud. Specifically, the DevOps Sync was used to provide a prioritized “wish list” of cloud capabilities to the CIO to consider by technical staff from across USGS. The CIO was able to focus his approval efforts on a few, high-payoff tools that would rapidly enable the bureau. Show-and-tell sessions enable technical staff and their leadership, as these venues can help coordinate their efforts to more quickly transform how their organization works.
+
+If your agency is looking to reap benefits from a technical or process improvement, but can’t seem to find the resources necessary to make the change, the [U.S. General Services Administration](https://www.gsa.gov/) (GSA) has a new program available to help you. The Technology Modernization Fund, or TMF, will allow you to borrow from its $100 million fund to help push through that internal transition, allowing your organization to make the leap to a more efficient technical capability or start practicing a more efficient process. You can find out more about the TMF on the Emerging Citizen Technology Office (ECTO) website: [https://emerging.digital.gov/TMF/](https://emerging.digital.gov/TMF/)
+
+Innovation takes time and energy for an organization, but when leaders provide their employees the space to experiment, they can often tap into their employees’ passions for their work and the product. So, while the investment in time may seem expensive, leaders providing the time for employees to experiment are providing their agencies with the opportunity to improve their products, services, and the processes that create them. When shepherded by leaders, innovative concepts started by an individual employee can revolutionize the processes or products of an agency.
+
+_Brian Fox is the Systems Development Branch Chief at the U.S. Geological Survey’s National Geospatial Technical Operations Center (NGTOC)._
+
+* * *
+
+_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+
+Check out some of DigitalGov’s articles on [the agile methodology](https://digital.gov/tag/agile/) and [innovation](https://digital.gov/tag/innovation/). For some on-the-job training with [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU), register for upcoming [events and webinars](https://digital.gov/events/) (review those you may have missed on [our YouTube Channel](https://www.youtube.com/digitalgov)).
+
+Have a **.gov** or **.mil** email address? Join our [Communities of Practice](https://www.digitalgov.gov/communities/) to connect with others at federal agencies working on innovative projects in emerging technologies (artificial intelligence, blockchain, virtual/augmented reality), agile/lean methodologies, mobile, user experience (UX), customer experience, open data, and much more.

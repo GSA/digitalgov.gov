@@ -1,11 +1,27 @@
 body {font-family:Trebuchet,Tahoma,sans-serif;}
-a,a:link,a:visited {color:#ff5049;}
+a,a:link,a:visited {color:#0C6874;}
 h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Trebuchet,Tahoma,sans-serif;}
 #sitetitle, #sitetitle .title {text-align:center;}
 #sitetitle .title, #sitetitle .title a {font-family:Trebuchet,Tahoma,sans-serif;}
 #topnav,ul.nav ul a {border:0;font-size:9pt;font-weight:bold;font-family:Trebuchet,Tahoma,sans-serif;background:#006873;}
-ul.nav a,ul.nav ul a {color:#ffffff;}
-ul.nav a:hover,ul.nav ul a:hover {color:#ff6860;}
+ul.nav ul a {
+  background-color: transparent;
+}
+ul.nav a {
+  border-bottom: 4px solid transparent;
+  color:#fff;
+}
+ul.nav a:hover {
+  border-color: #ff6860;
+  color:#fff;
+}
+ul.nav ul a {
+  color: #fff;
+}
+ul.nav ul a:hover {
+  color: #222;
+}
+
 ul.nav li.current-menu-parent > a,ul.nav li.current-menu-item > a,ul.nav li.current_page_item > a,ul.nav li li.current-menu-item > a,ul.nav li li.current-menu-item > a:hover,ul.nav li li.current_page_item > a,ul.nav li li.current_page_item > a:hover,ul.nav li li.current-menu-parent > a {color:#ff6860;}
 #catnav,#catnav ul ul a {border:0 !important;font-size:9pt;font-weight:normal;font-family:Arial,Helvetica,sans-serif;background-color:#fafafa;}
 #catnav a,#catnav ul ul a {border:0 !important;color:#333333;}
@@ -183,8 +199,12 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
   list-style: none !important;
 }
 
-.sub-menu {
-  background: #006873;
+.nav .sub-menu {
+  background: #11555C;
+}
+
+.catnav .sub-menu {
+  background: #fafafa;
 }
 
 .addthis_toolbox {
@@ -244,15 +264,17 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
 }
 
 #search_form input[type="submit"] {
-  background-color: #ff5049;
-  border-color: #ff5049;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
+  background-color: #2b2b2b;
+  border-color: #2b2b2b;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
   text-transform: uppercase !important;
+  letter-spacing: .02em;
   padding: 5px !important;
   color: #fff;
   cursor: pointer;
+  margin-top: 3px;
 }
 
 /* END SEARCH */
@@ -322,10 +344,10 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
   color: #f5f1e9;
 }
 
-.home .widget.solofolio h3.widgettitle,
-.home .catslide-intro h3.widgettitle,
-.page-id-244882 .widget.solofolio h3.widgettitle,
-.page-id-244882 .catslide-intro h3.widgettitle {
+.home .widget.solofolio h2.widgettitle,
+.home .catslide-intro h2.widgettitle,
+.page-id-244882 .widget.solofolio h2.widgettitle,
+.page-id-244882 .catslide-intro h2.widgettitle {
   color: #f5f1e9;
   font-size: 40px;
   background: none;
@@ -334,8 +356,8 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
 
 /* homepage section headers white text on teal bg */
 /* tribe-events-list-widget-12 is for Events list in Alternate Home Page, #tribe-events-list-widget-7 is Events list in the footer and sidebar  */
-.home .tribe-events-list-widget h3.widgettitle,
-.page-id-244882 .tribe-events-list-widget h3.widgettitle,
+.home .tribe-events-list-widget h2.widgettitle,
+.page-id-244882 .tribe-events-list-widget h2.widgettitle,
 
 #featposts-widget-4 .widgettitle,
 #featposts-widget-6 .widgettitle,
@@ -460,7 +482,6 @@ h6.post-title {
   width: 100%;
   height: 210px;
   float: none;
-  overflow: hidden;
   -webkit-box-shadow: 0 1px 10px #006873;
   -moz-box-shadow: 0 1px 10px #006873;
   box-shadow: 0 1px 10px #006873;
@@ -471,13 +492,6 @@ h6.post-title {
 .page-id-244882 .featpage-image img {
   height: 100%;
   width: 100%;
-}
-
-a:focus,
-a:active,
-.slides li:focus,
-.slides li:active {
-  outline: 2px dotted #ff5049 !important;
 }
 
 .featpage-image a {
@@ -495,7 +509,7 @@ a:active,
 }
 
 .more-link, .button {
-  background: #ff5049 !important;
+  background: #2B2B2B !important;
   color: #fff !important;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -509,7 +523,7 @@ a:active,
 
 .more-link:hover,
 .button:hover {
-  background: #ff6860 !important;
+  background: #DF4206 !important;
 }
 
 .home .subscribebox,
@@ -693,9 +707,9 @@ ul#filter li a:hover {
 }
 
 .wp-caption-text {
-  font-size: 9px !important;
-  color: #ccc;
-  padding: 0 0 0 5px !important;
+  font-size: 13px !important;
+  color: #787878;
+  padding: 0 0 0 0 !important;
   text-align: left !important;
 }
 
@@ -782,4 +796,79 @@ p.tribe-events-widget-link {
 .allauthors a.subicon,
 .auth-bio a.subicon {
   background-color: #0c555d;
+}
+
+#tribe-events-pg-template .tribe-events-content ol li, #tribe-events-pg-template .tribe-events-content ul li, .tribe-events-after-html ol li, .tribe-events-after-html ul li, .tribe-events-before-html ol li, .tribe-events-before-html ul li {
+  margin: 0 0 .5em;
+}
+
+.entry ul, .entry ol {
+  margin-top: .5em;
+}
+
+.screen-reader-popup:focus {
+  z-index: 9999;
+}
+
+a:hover, a:active { outline: none !important; }
+a:focus,
+.flex-container a:active,
+.myflexslider a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.myflexslider a:focus,
+.flexslider a:focus,
+input:focus,
+.usa-focus,
+.uswds :focus {
+  outline: 4px solid #FFCB52 !important;
+  transition: none !important;
+  outline-offset: 0;
+}
+
+a.block {
+  display: block;
+}
+
+.centercatnav #catnav ul ul a,
+.centercatnav #catnav li li:last-child a {
+  background-color: transparent;
+}
+
+.centercatnav #catnav li li:last-child a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.tribe-events-adv-list-widget .tribe-events-widget-link a,
+.tribe-events-back a,
+.tribe-events-list-widget .tribe-events-widget-link a,
+ul.tribe-events-sub-nav a {
+  font-size: 16px;
+}
+
+#footer-widgets {
+  background-color: #292A2B !important;
+  border-bottom: none;
+}
+
+#footer {
+  background-color: #1C1D1F;
+}
+
+.notice-text a,
+.notice-text a:link,
+.notice-text a:visited {
+  color: #1E4F94;
 }

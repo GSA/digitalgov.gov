@@ -15,7 +15,7 @@ tag:
   - government contact centers
 ---
 
-> “In business, words are words, explanations are explanations, promises are promises, but only performance is reality.” Harold S. Geneen {{< legacy-img src="2014/05/250-x-167-call-center-Young-IT-support-team-working-in-modern-open-office-Dean-Mitchell-iStock-Thinkstock-96269012.jpg" alt="Young call center staff working in modern open office" caption="" >}} 
+> “In business, words are words, explanations are explanations, promises are promises, but only performance is reality.” Harold S. Geneen {{< legacy-img src="2014/05/250-x-167-call-center-Young-IT-support-team-working-in-modern-open-office-Dean-Mitchell-iStock-Thinkstock-96269012.jpg" alt="Young call center staff working in modern open office" caption="" >}}
 
 As government contact center managers, we dream of having contact center contractors who regularly exceed our performance expectations. One way to motivate your contractor to excel is by including financial incentives/disincentives directly into your contact center contract.
 
@@ -52,7 +52,7 @@ I met with several federal contact center managers from the [Government Contact 
 
 What are your experiences with incentives/disincentives? Leave a comment, or for more more information, contact [Carolyn Kaleel](mailto:Carolyn.Kaleel@gsa.gov).
 
-_Learn more about the [Government Contact Center Council]({{< link "communities/government-contact-center-council" >}}) (G3C) and register for the [G3C training on Social Media Metrics]({{< link "social-media-metrics-for-federal-agencies.md" >}})._
+_Learn more about the [Government Contact Center Council]({{< link "communities/government-contact-center-council" >}}) (G3C)._
 
 Take a look at the other Contact Center articles we published in April:
 

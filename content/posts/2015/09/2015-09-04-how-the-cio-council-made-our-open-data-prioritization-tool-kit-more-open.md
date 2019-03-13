@@ -2,7 +2,7 @@
 slug: how-the-cio-council-made-our-open-data-prioritization-tool-kit-more-open
 date: 2015-09-04 13:00:18 -0400
 title: How the CIO Council Made Our Open Data Prioritization Tool Kit More Open
-summary: '{{< legacy-img src="2015/09/594-x-347-CIO-Open-Data-Prioritization-Toolkit-figure-1.jpg" alt="Shown in Figure 1, the Open Data Prioritization Toolkit is categorized into phases of understanding, evaluating, and opening datasets. It also shows alignment to support tools designed to help your agency throughout each phase. The provided tools are sample templates to guide agencies as they examine datasets and customize them based on'
+summary: 'The Open Data Prioritization Toolkit is categorized into phases of understanding, evaluating, and opening datasets.'
 authors:
   - cio-council-operations-staff
 categories:
@@ -34,5 +34,3 @@ Some notes:
 Questions? Tweet us [@ciodotgov](https://twitter.com/ciodotgov).
 
 _This post was originally published on the [CIO Council blog](https://cio.gov/cioc-blog/) by the CIO Council Operations Staff._
-
- 

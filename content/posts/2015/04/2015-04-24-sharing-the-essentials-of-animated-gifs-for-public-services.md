@@ -27,13 +27,13 @@ tag:
   - webinar
 ---
 
-[youtube=http://www.youtube.com/watch?v=ohmyOKPSGPg&w=600]
+Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction. 
 
-Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
+{{< youtube ohmyOKPSGPg >}}
 
-To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [U.S. SocialGov Community]({{< link "social-media.md" >}}) through [DigitalGov University]({{< link "/digitalgov-university/" >}}). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters.
+To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [U.S. SocialGov Community]({{< link "social-media.md" >}}) through [DigitalGov University]({{< link "/digitalgov-university/" >}}). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters. 
 
-Notably, this became the highest rated SocialGov webinar based on user feedback from a post-event survey. By popular demand, we will follow-up with another article highlighting the practical and efficient ways other agencies are using this training to develop and use animated gifs in their digital programs.
+Notably, this became the highest rated SocialGov webinar based on user feedback from a post-event survey. By popular demand, we will follow-up with another article highlighting the practical and efficient ways other agencies are using this training to develop and use animated gifs in their digital programs. 
 
 ## Define your objectives and bring services to where citizens are
 
@@ -77,13 +77,13 @@ In the webinar, she demonstrated how to:
   * Use animated gifs to explain how people can do a certain task, such as how to sign into a website, or how to set privacy settings on a website. For example, 18F used animated gifs in a tutorial for [how to use the command line and the terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
   * Try a free, open source program called [LiceCap](http://www.cockos.com/licecap/) to create tutorial and instructional animated gifs.
 
-[Animated Gif Tutorials with 18F](http://www.slideshare.net/DigitalGov/animated-gif-tutorials-with-18-f-melody-kramer "Animated Gif Tutorials with 18F"){.j-slideshow-url.title} (.pptx PowerPoint Presentation, 105 kb)
+[Animated Gif Tutorials with 18F](http://www.slideshare.net/DigitalGov/animated-gif-tutorials-with-18-f-melody-kramer "Animated Gif Tutorials with 18F") (.pptx PowerPoint Presentation, 105 kb)
 
 ## Animated gifs should meet accessibility standards
 
 {{< legacy-img src="2015/04/pokemon-player.png" alt="Pokemon in a player" >}}
 
-Victoria Wales of [USA.gov](http://www.usa.gov/) and [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/) educates federal managers on the importance and the process of enhancing the accessibility of digital services for citizens with disabilities: animated gifs are no different and present their own unique challenges.
+Victoria Wales of [USAGov](http://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) educates federal managers on the importance and the process of enhancing the accessibility of digital services for citizens with disabilities: animated gifs are no different and present their own unique challenges.
 
 In order to help meet those challenges, she suggested:
 

@@ -7,6 +7,8 @@ summary: 'The electronic Capital Planning and Investment Control (eCPIC) applica
 
 <div class="deck"><p>The eCPIC application helps automate capital planning and portfolio management processes for enabling government agencies to effectively mature their investment management strategies and achieve agency mission goals and objectives.</p></div>
 
+If you are interested in learning more about the eCPIC tool, please [email the project management office](mailto:ecpic.pmo@gsa.gov) for additional information and to schedule a demonstration.
+
 - [Our Goals](#our-goals)
 - [eCPIC Agencies](#ecpic-agencies)
 - [FAQs](#frequently-asked-questions)
@@ -23,29 +25,29 @@ eCPIC is a web-based, government-owned and operated software as a service (SaaS)
   * Increase Agency adoption of the eCPIC tool
   * Modernize the eCPIC application to improve current capability, take advantage of modern technologies, and ensure the future security of the eCPIC tool
 
-If you are interested in learning more about the [eCPIC](https://www.ecpic.gov/) tool, please [email the project management office](mailto:ecpic.pmo@gsa.gov) for additional information and to schedule a demonstration.
-
 ---
 
 ## eCPIC Agencies
 
-- Department of Commerce
-- Department of Energy
-- Environment Protection Agency
-- General Services Administration
-- Department of Housing and Urban Development
-- Department of the Interior
-- Department of Justice
-- Department of Labor
-- Social Security Administration
-- Office of Personnel Management
-- Department of Veteran’s Affairs
-- Department of Education
-- U.S. Small Business Administration
-- National Archives
-- U.S. Agency for International Development
+- Department of Commerce (Commerce)
+- National Aeronautics and Space Administration (NASA)
+- National Archives and Records Administration (NARA)
+- The United States Social Security Administration (SSA)
+- The U.S. Small Business Administration (SBA)
+- United States Department of Energy (DOE)
+- United States Department of Housing and Urban Development (HUD)
+- United States Office of Personnel Management (OPM)
+- U.S. Agency for International Development (USAID)
 - U.S. Army Corps of Engineers
-- Securities and Exchange Commission
+- U.S. Department of the Interior (Interior)
+- U.S. Department of Justice (Justice)
+- U.S. Department of Labor (Labor)
+- U.S. Department of Veterans Affairs (VA)
+- U.S. Department of Education (Education)
+- U.S. Environmental Protection Agency (EPA)
+- U.S. General Services Administration
+- U.S. Securities and Exchange Commission (SEC)
+
 
 ---
 

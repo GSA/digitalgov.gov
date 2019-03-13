@@ -16,7 +16,7 @@ tag:
 
 Here&#8217;s another other opportunity to show DigitalGov innovators what you got!
 
-The spring [Digital Citizen Services Summit]({{< tmp "events/2015-digitalgov-citizen-services-summit.md" >}} "Spring 2015 DigitalGov Citizen Services Summit") will host an expo, like we did in 2014, where you can showcase your program or service. This way participants will get a chance to meet the people behind innovative programs across the federal government and explore collaborations and knowledge sharing with you.
+The spring Digital Citizen Services Summit "Spring 2015 DigitalGov Citizen Services Summit") will host an expo, like we did in 2014, where you can showcase your program or service. This way participants will get a chance to meet the people behind innovative programs across the federal government and explore collaborations and knowledge sharing with you.
 
 We are inviting you to [submit information about the project you want to showcase](https://www.surveymonkey.com/s/digitalgov-expo) for a chance to exhibit. Spots are limited so make sure you get your submissions in early. We will be reviewing all submissions to make sure we are featuring agencies across the federal government and highlighting the breadth and depth of the innovations.
 

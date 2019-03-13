@@ -16,9 +16,8 @@ jQuery(document).ready(function($) {
   }
 
 
-  // The all-images JSON file
-  // var all_images_json = '/images/index.json';
-
+  // The all-images JSON file is now included via the "footer--custom-js" partial
+  // var all_images_json = '/images/v1/json/';
 
   // Gets all the image from the JSON file and appends them to #all-images div
   $.getJSON( all_images_json, function( data ) {
@@ -30,7 +29,6 @@ jQuery(document).ready(function($) {
       var attribution = img['credit'];
       var caption = img['caption'];
       var alt = img['alt'];
-      console.log('alt '+alt);
       var format = img['format'];
       var all_sizes = get_all_image_sizes(uid, format, width, height);
 
@@ -58,8 +56,9 @@ jQuery(document).ready(function($) {
             "<p><strong>attribution:</strong> "+attribution+"</p>",
             "<p><strong>caption:</strong> "+caption+"</p>",
             "<p><strong>alt:</strong> "+alt+"</p>",
-            "<p><strong>shortcode:</strong></p>",
-            "<pre>{{< img src=\""+uid+"\" capton=\"\" alt=\"\" >}}</pre>", // shortcode
+            "<pre>{{< img src=\""+uid+"\" >}}</pre>", // shortcode
+            "<pre>{{< img src=\""+uid+"\" caption=\""+caption+"\" alt=\""+alt+"\" >}}</pre>", // shortcode
+            "<pre>{{< img-right src=\""+uid+"\" caption=\""+caption+"\" alt=\""+alt+"\" >}}</pre>", // shortcode
             "<p><a target='_new' href='https://github.com/GSA/digitalgov.gov/edit/master/data/images/"+uid+".yml' title='view on GitHub'>Edit on GitHub »</a></p>",
           "</div>",
         "</div>"

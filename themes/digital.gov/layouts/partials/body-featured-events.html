@@ -1,0 +1,38 @@
+<section id="events">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div id="events-page">
+          <div class="events-current events-list">
+            <div class="events-head">
+              <h2>Upcoming Training & Events</h2>
+              <p>
+                <a href="{{ "events/" | absURL }}" title="View all DigitalGov Events">All Events</a> |
+                <a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos</a>
+              </p>
+            </div>
+
+            {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
+            {{ range where $events "Date" "ge" (now.AddDate 0 0 -1) | first 4 }}
+              {{ $now := now.Format "2006-01-02" }}
+              {{ $start := .Date.Format "2006-01-02"  }}
+              {{ if .Params.End_date }}
+                {{ $end := dateFormat "2006-01-02" .Params.End_date }}
+                {{ if or (ge $start $now) (ge $end $now)}}
+                  {{ .Render "li"}}
+                {{ end }}
+              {{ else if ge $start $now }}
+                {{ .Render "li"}}
+              {{ end }}
+            {{end}}
+
+          </div>
+
+          <a href="{{ "events/" | absURL }}" class="btn btn-open">View all events</a>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>

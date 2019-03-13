@@ -7,15 +7,19 @@ themesDir               : "./themes"
 MetaDataFormat          : "yaml"
 DefaultContentLanguage  : "en"
 SectionPagesMenu        : "main"
-Paginate                : 100
+Paginate                : 15
 googleAnalytics         : ""
 enableRobotsTXT         : true
 enableEmoji             : true
+enableGitInfo           : true
+buildFuture             : true
+
 
 ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
   - "content/images/*"
+  - "content/_archived/*"
 # uncomment the following for a dev mode that excludes posts before 2017
   - "content/posts/201[0-6]"
 
@@ -37,20 +41,27 @@ outputFormats:
 rssLimit: 20
 
 outputs:
-  home: ["HTML","RSS", "SiteImages"]
+  home: ["HTML","RSS", "SiteImages", "JSON"]
+  section: ["HTML","RSS", "JSON"]
+  page: ["HTML","RSS", "JSON"]
+  taxonomy: ["HTML","RSS", "JSON"]
+  taxonomyTerm: ["HTML","RSS", "JSON"]
 
 blackfriday:
   fractions: false
 
 params:
-  description: "DigitalGov: We’re helping you build a modern government."
+  description: "We’re building a modern government, together."
   cdnurl: "https://s3.amazonaws.com/digitalgov"
+  git_org: "GSA"
+  git_repo: "digitalgov.gov"
   devmode: true
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
-  events                : "event/:slug/"
+  events                : "event/:year/:month/:day/:slug/"
 
+preserveTaxonomyNames   : true
 taxonomies:
   tag                   : "tag"
   category              : "categories"
@@ -67,7 +78,7 @@ menu:
       Identifier      : "events"
       URL             : "/events/"
       Weight          : 2
-    - Name            : "Digitalgov University"
+    - Name            : "DigitalGov University"
       Parent          : "events"
       Identifier      : "dg-university"
       URL             : "/digitalgov-university/"
@@ -142,11 +153,6 @@ menu:
       Identifier      : "join"
       URL             : "/join/"
       Weight          : 7
-    - Name            : "Open Opportunites"
-      Parent          : "join"
-      Identifier      : "open-opportunities"
-      URL             : "/join/open-opportunities-in-digitalgov/"
-      Weight          : 71
 
   secondary:
     - Name            : "Challenges"
@@ -159,7 +165,7 @@ menu:
       URL             : "/categories/crowdsourcing-and-citizen-science/"
       Weight          : 11
 
-    - Name            : "code"
+    - Name            : "Code"
       Identifier      : "code"
       URL             : "/categories/code/"
       Weight          : 2
@@ -174,7 +180,7 @@ menu:
       URL             : "/categories/data/"
       Weight          : 21
 
-    - Name            : "content"
+    - Name            : "Content"
       Identifier      : "content"
       URL             : "/categories/content/"
       Weight          : 3
@@ -189,7 +195,7 @@ menu:
       URL             : "/categories/writing/"
       Weight          : 21
 
-    - Name            : "managing digital"
+    - Name            : "Managing Digital"
       Identifier      : "managing-digital"
       URL             : "/categories/managing-digital/"
       Weight          : 4
@@ -204,22 +210,22 @@ menu:
       URL             : "/categories/strategy-and-policy/"
       Weight          : 42
 
-    - Name            : "metrics"
+    - Name            : "Metrics"
       Identifier      : "resources"
       URL             : "/categories/metrics/"
       Weight          : 5
 
-    - Name            : "mobile"
+    - Name            : "Mobile"
       Identifier      : "mobile"
       URL             : "/categories/mobile/"
       Weight          : 6
 
-    - Name            : "social media"
+    - Name            : "Social media"
       Identifier      : "social-media"
       URL             : "/categories/social-media/"
       Weight          : 7
 
-    - Name            : "ux"
+    - Name            : "UX"
       Identifier      : "ux"
       URL             : "/categories/ux/"
       Weight          : 7

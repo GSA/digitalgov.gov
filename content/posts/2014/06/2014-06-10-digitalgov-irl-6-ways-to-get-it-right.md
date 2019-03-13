@@ -20,7 +20,7 @@ tag:
   - open data
 ---
 
-[{{< legacy-img src="2014/06/250-x-333-Gwynne-Kostin-Emergency-Alert-screenshot.jpg" alt="A screen capture of a Flash Flood Warning Emergency Alert for Washington D.C., sent on June 10, 2014 to mobile devices from the National Weather Service (NWS)." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/EmergencyAlert.jpg)This morning I was walking down 18th Street, crossing Pennsylvania Avenue by the World Bank when I heard what sounded like &#8220;<a href="https://www.youtube.com/watch?v=NRxrCBvt7TM" target="_blank">a test from the Emergency Broadcast System</a>.&#8221; I looked behind me and realized it was coming from my purse and that my phone was jiggling.
+[{{< legacy-img-right src="2014/06/250-x-333-Gwynne-Kostin-Emergency-Alert-screenshot.jpg" alt="A screen capture of a Flash Flood Warning Emergency Alert for Washington D.C., sent on June 10, 2014 to mobile devices from the National Weather Service (NWS)." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/EmergencyAlert.jpg)This morning I was walking down 18th Street, crossing Pennsylvania Avenue by the World Bank when I heard what sounded like &#8220;<a href="https://www.youtube.com/watch?v=NRxrCBvt7TM" target="_blank">a test from the Emergency Broadcast System</a>.&#8221; I looked behind me and realized it was coming from my purse and that my phone was jiggling.
 
 I pulled out my phone to see that there was a flash flood warning. I looked up and saw dozens of people on the crowded sidewalks pulling out devices. They all got the same alert. As everyone looked at their phones at once, it looked like a <a href="https://www.youtube.com/watch?v=gIoSga7tZPg" target="_blank">flash mob</a>.
 

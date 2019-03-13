@@ -4,7 +4,7 @@ date: 2015-05-18 10:00:35 -0400
 title: 'The Content Corner: Connecting With Customers at Labor'
 summary: 'Here at DigitalGov, customer service is a focal theme during the month of May, and by some type of cosmic chance, I was invited to share my insights on content strategy and content creation at a Customer Service Community of Practice event at the Department of Labor. The event focused on topics I commonly discuss here'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
 tag:

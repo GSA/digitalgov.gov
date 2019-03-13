@@ -1,7 +1,7 @@
 sources:
   - name          : "RSS Feed"
     username      : nil
-    link          : "https://www.digitalgov.gov/feed/"
+    link          : "https://digital.gov/posts/index.xml"
     shortcode     : "rss"
     action        : "Subscribe via RSS Feed"
 

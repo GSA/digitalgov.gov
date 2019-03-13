@@ -1,5 +1,5 @@
 {{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
+  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
   {{ $.Scratch.Set "has_sidebar" true }}
 {{ end }}
 
@@ -16,9 +16,9 @@
 
         {{ .Content }}
 
-        <!-- Edit file on GitHub -->
-        <a target="_blank" class="edit_file" href="https://github.com/GSA/digitalgov.gov" data-filepath="{{.File.Path}}" title="Edit in GitHub"><img src="{{ "img/GitHub-Mark-32px.png" | absURL }}" alt="GitHub Logo"><span>Edit</span></a>
-
+        {{ partial "post-meta--feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) }}
+        {{ partial "page-details" . }}
+        
       </div><!-- .entry -->
     </div><!--.post -->
   </div><!-- #content -->

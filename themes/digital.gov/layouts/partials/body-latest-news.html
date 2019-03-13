@@ -3,8 +3,8 @@
     <script type="text/javascript">
       //<![CDATA[
 
-      (function() {
 
+      (function() {
         // store the slider in a local variable
         var $window = jQuery(window),
           flexslider;
@@ -41,13 +41,10 @@
     </script>
 
     <div class="featured cat clearfix">
-      <div class="catslide-intro">
-        <h3 class="widgettitle"><span>Latest News</span></h3>
-      </div><!-- .catslide-intro -->
       <div id="featured-cat-thumbnav-8c61" class="myflexslider thumbnav 0 clearfix">
         <ul class="slides clearfix">
 
-          {{ range first 9 (where .Site.Pages "Section" "posts") }}
+          {{ range first 6 (where .Site.Pages "Section" "posts") }}
             {{ partial "news--item.html" . }}
           {{ end }}
 

@@ -2,7 +2,7 @@
 slug: make-mobile-gov-with-the-mobile-application-development-program
 date: 2013-05-23 9:01:11 -0400
 title: Make Mobile Gov with the Mobile Application Development Program
-summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the federal Digital Government Strategy. Today, GSA’s Digital Services Innovation Center and the Federal CIO Council launch the Mobile'
+summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the federal Digital Government Strategy.'
 authors:
   - jparcell
 categories:
@@ -42,7 +42,7 @@ The program is chock full of useful resources and tools. For starters there is
 
   * Agencies can easily create mobile ready websites using [Sites.USA.gov](https://Sites.USA.gov "Sites.USA.gov"). This GSA-hosted content management tool supports open content, is secure, compliant and uses only responsive themes that work well on any-sized screen.
 
-The [Federal Apps Registry]({{< link "the-federal-mobile-apps-registry.md" >}} "The Federal Mobile Apps Registry") helps verify that apps and mobile sites are actually government mobile products&#8211;and provides an API so agencies can easily create galleries around their mission areas.
+The [Federal Apps Registry]({{< link "u-s-digital-registry.md" >}} "The Federal Mobile Apps Registry") helps verify that apps and mobile sites are actually government mobile products&#8211;and provides an API so agencies can easily create galleries around their mission areas.
 
 ## Just Do It
 

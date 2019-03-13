@@ -20,16 +20,16 @@ The new training modules come in response to an ever-increasing demand across go
 
 In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. Registration is now open.
 
-In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. [Registration is now open.]({{< link "module-2-its-all-about-the-teams-the-importance-of-operational-incentives-in-prizes.md" >}})
+In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. [Registration is now open.](https://www.youtube.com/watch?v=w_-UKCfyjUQ)
 
 Module 3: Operational Best Practices and Lessons Learned
-  
+
 Module 4: The Importance of Marketing and Public Education
-  
+
 Module 5: Legal Considerations for Prizes
-  
+
 Module 6: Building a Community
-  
+
 Module 7: Post-Prize Industry and the Post-Prize Impact
 
 All training module webinars and the schedule can be found on the [Events Calendar]({{< link "events" >}}).

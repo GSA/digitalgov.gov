@@ -204,7 +204,7 @@ Implement agile, iterative, customer-centric design processes for all customer i
 ### Use plain language
 
   * [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm)
-  * [Spanish Language Style Guide and Glossaries]({{< link "spanish-language-style-guide-and-glossaries.md" >}})
+  * [Bilingual Glossaries, Dictionaries, and Style Guides]({{< link "bilingual-glossaries-dictionaries-style-guides.md" >}})
   * [Customer Experience Case Study: CDC’s Clear Communication Index](https://www.youtube.com/watch?v=HdHAAaCNirk) &#8211; video
 
 ### Conduct regular and ongoing user testing

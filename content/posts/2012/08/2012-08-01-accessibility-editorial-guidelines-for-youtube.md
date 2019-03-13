@@ -2,7 +2,7 @@
 slug: accessibility-editorial-guidelines-for-youtube
 date: 2012-08-01 9:00:44 -0400
 title: Accessibility Editorial Guidelines for YouTube
-summary: ' Introduction USA.gov and GobiernoUSA.gov use social media to make government information easy for people to find, access, and use. Among the essential tools we use are videos, which we host on USA.gov YouTube and GobiernoUSA.gov’s YouTube channels. We are always looking for opportunities to feature and leverage important'
+summary: 'USAGov and USAGov en Espa&#241;ol (formerly known as GobiernoUSA.gov) use social media to make government information easy for people to find, access, and use. Among the essential tools we use are videos, which we host on USA.gov and GobiernoUSA.gov’s YouTube channels.'
 authors:
   - lgodfrey
 categories:
@@ -22,7 +22,7 @@ tag:
 
 ## Introduction
 
-[USA.gov](http://www.usa.gov/) and [GobiernoUSA.gov](http://www.gobiernousa.gov/) use social media to make government information easy for people to find, access, and use. Among the essential tools we use are videos, which we host on [USA.gov YouTube](https://www.youtube.com/user/USGovernment) and [GobiernoUSA.gov’s YouTube](https://www.youtube.com/user/GobiernoUSA) channels.
+[USAGov](http://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) use social media to make government information easy for people to find, access, and use. Among the essential tools we use are videos, which we host on [USAGov's YouTube](https://www.youtube.com/user/USGovernment) and [USAGov en Espa&#241;ol’s YouTube](https://www.youtube.com/user/GobiernoUSA) channels.
 
 We are always looking for opportunities to feature and leverage important government information, by posting videos from various government agencies. We welcome and invite all government agencies to collaborate with us on providing useful and relevant information to the public. We also depend on agencies to help attract a large and diverse audience.
 
@@ -55,13 +55,13 @@ The videos we post:
 
 To provide helpful content with a neutral tone:
 
-  * Messaging must contain public service information and should relate to our audience. The categories listed under our YouTube channels’ playlists adhere to our websites taxonomy which is organized according to our audience’s needs (see [USA.gov’s channel](https://www.youtube.com/usagov) and [GobiernoUSA.gov’s channel](https://www.youtube.com/user/GobiernoUSA)).
+  * Messaging must contain public service information and should relate to our audience. The categories listed under our YouTube channels’ playlists adhere to our websites taxonomy which is organized according to our audience’s needs (see [USAGov’s channel](https://www.youtube.com/usagov) and [USAGov en Espa&#241;ol's channel](https://www.youtube.com/user/GobiernoUSA)).
   * Videos should aim for powerful messages that run no longer than 10 minutes
   * Avoid politically-charged intonations, self-or agency-promoting language (e.g., discussing the agency over delivering a public service message).
 
-Videos produced for GobiernoUSA should follow these language-specific guidelines:
+Videos produced for USAGov en Espa&#241;ol should follow these language-specific guidelines:
 
-  * Must be in Spanish. English videos may be featured on the GobiernoUSA channel in exceptional circumstances and will be decided on a case-by-case basis.
+  * Must be in Spanish. English videos may be featured on the USAGov en Espa&#241;ol channel in exceptional circumstances and will be decided on a case-by-case basis.
   * Speaker(s) and actors(s) must be proficient in Spanish, preferably native, and clearly convey message points.
   * Spanish must be neutral U.S. or international Spanish (such as CNN en español).
   * Captions must be in Spanish and synchronized with the audio.

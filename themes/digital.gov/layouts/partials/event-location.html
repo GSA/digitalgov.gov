@@ -1,0 +1,10 @@
+<div class="event-location">
+<p><strong>Location</strong><br />
+  {{ with .Params.venue.venue_name }}{{ . }}<br />{{ end }}
+  {{ .Params.venue.address }}<br />
+  {{ .Params.venue.city }}, {{ .Params.venue.state }}<br />
+  {{ with .Params.venue.zip }}{{ . }} {{ end }}{{ .Params.venue.country }}<br />
+  {{ with .Params.venue.room }}Room: {{ . }}<br />{{ end }}
+  Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a>
+</p>
+</div>

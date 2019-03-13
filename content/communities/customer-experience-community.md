@@ -14,4 +14,4 @@ The government Customer Experience Community of Practice (CX-COP) is an interage
 
 Join the CX-COP listserv and community to stay on the cutting edge of government customer experience, including news, training, best practices, and technology.
 
-Fill out the [sign-up form](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform), or [email us with your request](mailto:annabel.berman@gsa.gov?subject=Subscribe%20to%20CX-COP). You must have a government email address to join.
+Fill out the [sign-up form](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform), or [email us with your request](mailto:simchah.suveyke-bogin@gsa.gov?subject=Subscribe%20to%20CX-COP). You must have a government email address to join.

@@ -22,9 +22,9 @@ tag:
   - DigitalGov Summit
 ---
 
-In May 2015, we’re hosting the second [DigitalGov Citizen Services Summit]({{< tmp "events/2015-digitalgov-citizen-services-summit.md" >}} "Spring 2015 DigitalGov Citizen Services Summit"). This round we are looking to you—federal innovators across government—to help build the agenda. We want to get you the information you need, ignite discussion, foster sharing, build capacity, even get you to challenge and debate each other in the name of delivering better digital services. So, we’ve set up a [crowdsourcing platform](https://crowdhall.com/h/299/) where you can suggest presentation ideas and vote for your favorites.
+In May 2015, we’re hosting the second DigitalGov Citizen Services Summit "Spring 2015 DigitalGov Citizen Services Summit"). This round we are looking to you—federal innovators across government—to help build the agenda. We want to get you the information you need, ignite discussion, foster sharing, build capacity, even get you to challenge and debate each other in the name of delivering better digital services. So, we’ve set up a [crowdsourcing platform](https://crowdhall.com/h/299/) where you can suggest presentation ideas and vote for your favorites.
 
-## Step 1: Think Up a Great Idea {{< legacy-img src="2014/12/250-x-250-Light-bulb-with-colorful-Social-Media-icons-VLADGRIN-iStock-Thinkstock-187440476.jpg" alt="Light bulb with colorful Social Media icons" caption="" >}} 
+## Step 1: Think Up a Great Idea {{< legacy-img src="2014/12/250-x-250-Light-bulb-with-colorful-Social-Media-icons-VLADGRIN-iStock-Thinkstock-187440476.jpg" alt="Light bulb with colorful Social Media icons" caption="" >}}
 
 We’re looking for forward-thinking ideas, and we’re emphasizing creativity and innovation. Got a great program—or part of a program—to share? Did you hear about someone else’s great program that you want to learn more about? Do you wish someone solved a problem you’re facing and want to tap the wisdom of the crowd? Want to tell your story in front of your peers? Now’s the time to crystallize your idea. ​
 
@@ -36,7 +36,7 @@ This year’s theme is **open**. We want sessions and presos to focus on how &#8
 
 Anyone can propose a session. We’re accepting proposals through the end of January. And, while you can [add your proposed topic](https://crowdhall.com/h/299/) anonymously, if you create an account, you’ll be able to edit or add to your suggestion and get feedback from us. We might want to ask you to clarify, for example. No worries if you submit an idea without a speaker. We want to know what you want to know! We can work to find a great presenter on the topic. During this time, you’ll also be able to vote on submissions as they come in.
 
-## Step 3: Vote on Great Ideas {{< legacy-img src="2014/12/250-x-250-Colored-hands-bymandesigns-iStock-Thinkstock-186921434.jpg" alt="Multi-colored hands reach upward as if volunteering for something or to indicate each person is present" caption="" >}} 
+## Step 3: Vote on Great Ideas {{< legacy-img src="2014/12/250-x-250-Colored-hands-bymandesigns-iStock-Thinkstock-186921434.jpg" alt="Multi-colored hands reach upward as if volunteering for something or to indicate each person is present" caption="" >}}
 
 On February 1, 2015, we’ll open up the voting floodgates (and close to new submissions). Everyone can vote for the presentation(s) that they’d like to see at the Summit. You can vote for more than one great idea.
 

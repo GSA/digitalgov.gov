@@ -11,7 +11,7 @@ categories:
 tag:
   - GobiernoUSAgov
   - multilingual
-  - multilingual digital group
+  - multilingual-community
 ---
 
 Do you scratch your head trying to figure out the latest trends to reach out to Hispanics in the U.S.? If you answered yes, don&#8217;t worry, you&#8217;re not alone. The current Soccer World Cup is lending a great analogy to help you think through your strategy to your customers. {{< legacy-img src="2016/02/600-x-450-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="A World Cup soccer ball covered in various international flags." caption="" >}} 
@@ -44,6 +44,10 @@ A good soccer player knows how to find the sweet spot in any play: be relevant w
 
 A savvy marketer must do the same when targeting U.S. Hispanics: have an approach that allows you to communicate and connect without alienating your audience.
 
-Yes, you need to manage the nuances of language and culture, but don’t go to extremes either. Some words are practically universal; I know you&#8217;ve been hearing this one lately: GOOOOOOOLLLL!_**Alberto Navas** is a content strategy consultant working with [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/). This post was originally published on the Hispanic Online Marketing blog._
-_Editor&#8217;s Note: Interested in connecting with other government multilingual content managers? Join the [Multilingual Digital Group]({{< link "multilingual.md" >}} "Multilingual Digital Group") and help expand and improve digital content in languages other than English._
+Yes, you need to manage the nuances of language and culture, but don’t go to extremes either. Some words are practically universal; I know you&#8217;ve been hearing this one lately: GOOOOOOOLLLL! 
+
+_**Alberto Navas** is a content strategy consultant working with [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (<span style="text-decoration: underline;">formerly known as GobiernoUSA.gov</span>). This post was originally published on the Hispanic Online Marketing blog._ 
+
+_Editor&#8217;s Note: Interested in connecting with other government multilingual content managers? Join the [Multilingual Community of Practice]({{< link "multilingual.md" >}} "Multilingual Community of Practice") and help expand and improve digital content in languages other than English._ 
+
 _This article is part of this month&#8217;s editorial theme on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

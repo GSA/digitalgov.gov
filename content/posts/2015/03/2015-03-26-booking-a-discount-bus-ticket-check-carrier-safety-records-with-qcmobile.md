@@ -1,5 +1,5 @@
 ---
-slug: booking-a-discount-bus-ticket-check-carrier-safety-records-with-qcmobile.md
+slug: booking-a-discount-bus-ticket-check-carrier-safety-records-with-qcmobile
 date: 2015-03-26 11:56:54 -0400
 title: Booking a Discount Bus Ticket? Check Carrier Safety Records with QCMobile
 summary: 'The new app from the Department of Transportation’s Federal Motor Carrier Safety Administration called &ldquo;QCMobile&rdquo; empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&#8217;s mobile strategy, as they have also recently released the SaferRide app. QCMobile (QC stands'
@@ -35,4 +35,4 @@ No login is required to access safety performance information in the app. Just o
 
 QCMobile is available [via iTunes or the App Store for Apple devices](https://itunes.apple.com/us/app/qcmobile./id966285877?mt=8) and the [Google Play store for Android devices](https://play.google.com/store/apps/details?id=gov.fmcsa.qcmobile&hl=en).
 
-_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "the-federal-mobile-apps-registry.md" >}})._
+_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._

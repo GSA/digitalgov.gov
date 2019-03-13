@@ -1,10 +1,26 @@
+# Welcome to your profile settings on digital.gov
+# Feel free to make edits to your profile.
+# - Your profile can be viewed at http://digital.gov/authors/[uid]
+# - See all authors http://digital.gov/authors/
+# 
+# Reach out to digitalgov@gsa.gov if you need assistance.
+
 display_name: R. David Edelman
 first_name: R. David
 last_name: Edelman
 uid: r-david-edelman
 email: ""
 bio: 'R. David Edelman is Special Assistant to the President for Economic and Technology Policy at the National Economic Council (NEC). He leads policy development and coordination on issues relating to the digital economy, including broadband competition and access, high-tech intellectual property, online privacy, technology trade, and Internet governance. [Full bio<a>]'
-location: ""
+
+# Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
+location: ''
 quote: ""
-github: ""
-twitter: ""
+
+# Your GitHub username [e.g. 'jeremyzilar']
+github: ''
+
+# Your Twitter username [e.g. 'digital_gov']
+twitter: ''
+
+# Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
+url: ''

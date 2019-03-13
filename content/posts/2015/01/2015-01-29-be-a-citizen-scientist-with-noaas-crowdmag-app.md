@@ -2,7 +2,7 @@
 slug: be-a-citizen-scientist-with-noaas-crowdmag-app
 date: 2015-01-29 10:00:11 -0400
 title: 'Be a Citizen Scientist with NOAA&#8217;s CrowdMag App'
-summary: '{{< legacy-img src="2015/01/600-x-316-Crowd-Mag-app-map-via-web.jpg" alt="A screnn shot of a map that shows data collected from phones around the world. Displayed are the Crowdsourced magnetic data within a tolerance level of prediction by World Magnetic Model. They have added some uncertainty to each data point shown to ensure the privacy of contributors. The F channel represents Total'
+summary: 'Help the National Oceanic and Atmospheric Administration (NOAA) improve the accuracy of magnetic navigation by tracking changes in the Earth’s magnetic field.'
 authors:
   - kdowney
 categories:
@@ -43,4 +43,4 @@ CrowdMag is available [on Google Play](https://play.google.com/store/apps/detail
 
 **Bonus**: Learn more about geomagnetism on the NOAA’s [Frequently Asked Questions page](http://www.ngdc.noaa.gov/geomag/faqgeom.shtml).
 
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "the-federal-mobile-apps-registry.md" >}})._
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._

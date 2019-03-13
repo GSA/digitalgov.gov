@@ -1,0 +1,8 @@
+online:
+  name    : 'Online'
+in-person:
+  name    : 'In Person'
+youtube-live:
+  name    : 'YouTube LIVE'
+zoom:
+  name    : 'Zoom'

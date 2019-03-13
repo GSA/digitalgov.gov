@@ -1,5 +1,5 @@
 {{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
+  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
   {{ $.Scratch.Set "has_sidebar" true }}
 {{ end }}
 
@@ -12,8 +12,12 @@
       <div class="entry">
 
         <h1 class="post-title single">
-          <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
+          {{ .Title | markdownify }}
         </h1>
+
+        {{ if .Params.deck }}
+        <h2 class="deck">{{ .Params.deck | markdownify }}</h2>
+        {{ end }}
 
         {{ partial "post-meta" . }}
         <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -25,9 +29,8 @@
         <div class="addthis_inline_share_toolbox"></div>
         {{ partial "post-meta--related-posts" . }}
         {{ partial "post-meta--tag-list" . }}
-
-        <!-- Edit file on GitHub -->
-        <a target="_blank" class="edit_file" href="https://github.com/GSA/digitalgov.gov" data-filepath="{{.File.Path}}" title="Edit in GitHub"><img src="{{ "img/GitHub-Mark-32px.png" | absURL }}" alt="GitHub Logo"><span>Edit</span></a>
+        {{ partial "post-meta--feedback" (dict "page" . "page_type" "article" "branch" ($.Scratch.Get "branch")) }}
+        {{ partial "page-details" . }}
 
       </div><!-- .entry -->
 

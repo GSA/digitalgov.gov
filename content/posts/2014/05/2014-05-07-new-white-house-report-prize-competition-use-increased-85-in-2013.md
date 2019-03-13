@@ -4,7 +4,7 @@ date: 2014-05-07 13:30:07 -0400
 title: 'New White House Report: Prize Competition Use Increased 85% in 2013'
 summary: We are thrilled to share an update from our competition colleagues at the White House Office of Science and Technology Policy. The third annual comprehensive report detailing the use of prizes and
 authors:
-  - tmarcoullier
+  - tammi-marcoullier
 categories:
   - Challenges
 tag:
@@ -28,4 +28,4 @@ Cristin Dorgelo&#8217;s WhiteHouse.gov blog post [summarizes several of the tren
 
 To see the full list of public prize competitions run in federal government, go to [Challenge.gov](https://challenge.gov/).
 
-Join us at a challenge and prize community meeting [May 28 to review the findings]({{< tmp "events/2013-america-competes-report-challenges-and-prizes-in-person-event.md" >}} "challenge dot gov community event") of this report. This is open to federal employees who work on or are interested in launching federal challenge and prize competitions.
+Join us at a challenge and prize community meeting May 28 to review the findings "challenge dot gov community event") of this report. This is open to federal employees who work on or are interested in launching federal challenge and prize competitions.

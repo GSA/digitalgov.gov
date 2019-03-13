@@ -2,7 +2,7 @@
 url: /services/dap/common-questions-about-dap-faq/
 date: 2013-12-02 7:37:00 -0400
 title: 'Common Questions about DAP (FAQ)'
-summary: 'This guidance is part of the Digital Analytics Program (DAP): Support to Help Agencies Implement the Tool. See more on the DAP. Below are the questions we hear most often about the Digital Analytics Program (DAP). User Agreement Implementation Customization and Access Google Universal Analytics Data Access, Retention and Privacy'
+summary: 'This guidance is part of the Digital Analytics Program (DAP): Support to Help Agencies Implement the Tool. See more on the DAP. Below are the questions we hear most often about the Digital Analytics Program (DAP).'
 authors:
   - tlowden
 ---
@@ -13,13 +13,13 @@ authors:
 
 Below are the questions we hear most often about the [Digital Analytics Program (DAP)]({{< link "dap.md" >}} "DAP: Digital Analytics Program").
 
-  * [User Agreement](#part-7 "Common Questions about DAP (FAQ): Implementation")
-  * [Implementation](#part-1 "Common Questions about DAP (FAQ): Implementation")
-  * [Customization and Access](#part-2 "Common Questions about DAP (FAQ): Customization and Access")
-  * [Google Universal Analytics](#part-3 "Common Questions about DAP (FAQ): Google Universal Analytics")
-  * [Data Access, Retention and Privacy](#part-4 "Common Questions about DAP (FAQ): Data Access, Retention and Privacy")
-  * [Reporting](#part-5 "Common Questions about DAP (FAQ): Reporting")
-  * [Customer Satisfaction Tool Implementation](#part-6 "Common Questions about DAP (FAQ): Customer Satisfaction Tool Implementation")
+  * [User Agreement](#part-7) "Common Questions about DAP (FAQ): User Agreement"
+  * [Implementation](#part-1) "Common Questions about DAP (FAQ): Implementation"
+  * [Customization and Access](#part-2) "Common Questions about DAP (FAQ): Customization and Access"
+  * [Google Universal Analytics](#part-3) "Common Questions about DAP (FAQ): Google Universal Analytics"
+  * [Data Access, Retention and Privacy](#part-4) "Common Questions about DAP (FAQ): Data Access, Retention and Privacy"
+  * [Reporting](#part-5) "Common Questions about DAP (FAQ): Reporting"
+  * [Customer Satisfaction Tool Implementation](#part-6) "Common Questions about DAP (FAQ): Customer Satisfaction Tool Implementation"
 
 <h2 id="part-7" style="padding-top: 50px">
   User Agreement
@@ -95,7 +95,7 @@ No. At this time, the DAP GA code can be deployed only on public-facing agency w
 
 DAP GA Gov-wide account uses_ Views (formerly called &#8216;Profiles&#8217;)_ to categorize and report on federal government agencies’ website traffic. Views are assigned at the main federal agency level (e.g. DOD, DOC, Department of Education etc.), and the traffic for sub-agencies/bureaus websites is reported under their main agency profile. There’s also an overarching, government-wide reporting profile, which combines all of the federal websites’ traffic into a single profile.
 
-DAP staff is responsible for creating all agency profiles, as well as maintaining each of the profiles’ filters used to distribute incoming traffic data. For security purposes, all DAP GA user access requests must be first approved by the respective agency’s DAP POC. Once approved, all DAP users are granted view-only rights to access the GA viewss. After user access is granted, users can view website traffic within the DAP profiles. At this time, all of the user management and other admin functions are handled by the DAP staff only.
+DAP staff is responsible for creating all agency profiles, as well as maintaining each of the profiles’ filters used to distribute incoming traffic data. For security purposes, all DAP GA user access requests must be first approved by the respective agency’s DAP POC. Once approved, all DAP users are granted view-only rights to access the GA views. After user access is granted, users can view website traffic within the DAP profiles. At this time, all of the user management and other admin functions are handled by the DAP staff only.
 
 To zoom into the specific website’s traffic, each DAP user can create up to 100 advanced custom segments and/or custom reports. Each user also can create up to 25 dashboards for high-level, executive-type reporting. All of the user-based reports, segments, and dashboards can be shared with other GA DAP users, if requested. Additionally, a user can create various alerts to monitor their website performance and traffic, as well as campaigns and campaign-related reports. Watch the <a href="https://www.youtube.com/watch?v=CKMTK77PrJE&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P&index=4" target="_blank">DAP 101 recorded training</a> (Youtube), to learn more about profiles, segments and dashboards.
 

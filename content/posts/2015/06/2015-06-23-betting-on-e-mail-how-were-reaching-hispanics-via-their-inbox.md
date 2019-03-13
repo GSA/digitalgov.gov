@@ -18,7 +18,7 @@ tag:
 
 Driving visitors to a destination means reaching your users where they are at.
 
-In 2005, as part of the greater USA.gov marketing strategy, [GobiernoUSA.gov](http://www.GobiernoUSA.gov) launched an email program. These communications initially took the form of short blurbs that directed people to important site content and promoted other government information hosted by various federal agencies.
+In 2005, as part of the greater USA.gov marketing strategy, [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) launched an email program. These communications initially took the form of short blurbs that directed people to important site content and promoted other government information hosted by various federal agencies.
 
 From disaster preparedness, to health care, to now Twitter chats and [Google Hangouts]({{< link "2014-11-19-young-entrepreneurs-hang-out-with-government-virtually-and-in-spanish.md" >}})… our email strategy aims to provide timely messages to the public via the channel of their choice.
 
@@ -35,17 +35,17 @@ Moreover, it has helped us learn a lot about our users, how they behave, what th
 Today, our strategy is a hybrid of promotional tactics:
 
   * Manual sends on timely topics. On average, we send two to three emails a week in response to noteworthy topics, trends, and national observances.
-  * Auto sends that update our subscribers about [new posts on our blog for both USA.gov](http://blog.usa.gov/) and [GobiernoUSA.gov](http://blog.gobiernousa.gov/). These emails are sent on a daily basis.
+  * Auto sends that update our subscribers about [new posts on our blog for both USA.gov](http://blog.usa.gov/) and [USAGov en Espa&#241;ol](http://blog.gobiernousa.gov/). These emails are sent on a daily basis.
 
 Below is an example of a “manual send” email sent in late May about a national recall of Takata airbags that affected many automakers. Our call to action pointed our readers to check their VIN numbers to see if they were affected. Because the tool is in English, we gave a bit more context about what this number is. We also highlighted that these repairs are at no cost to the consumer by the auto manufacturers to ensure consumers wouldn’t be victims of scams.
 
-{{< legacy-img src="2015/06/574-x-401-Gobierno-email-spanish.jpg" alt="An email campaign in Spanish, using the Gobierno U.S.A. dot gov logo header." >}}
+{{< legacy-img src="2015/06/574-x-401-Gobierno-email-spanish.jpg" alt="An email campaign in Spanish, using the Gobierno U.S.A. dot gov logo header." >}} 
 
-{{< legacy-img src="2015/06/574-x-371-Gobierno-email-english.jpg" alt="An email campaign in English, using the U.S.A. dot gov logo header." >}}
+{{< legacy-img src="2015/06/574-x-371-Gobierno-email-english.jpg" alt="An email campaign in English, using the U.S.A. dot gov logo header." >}} 
 
 ## Experiment and Measure
 
-We evaluate every message we send by reviewing our data. Unique open rates—both numbers and percentages—help us evaluate what content performed well. We know, for example, that we have a lot of visitors to our GobiernoUSA.gov site seeking information on immigration. We align that information with our email sends, and the open rates and click-through rates prove the value of knowing what people are interested in. At the end of every month, our internal Performance Measurement Team provides us with a detailed report of how our messages performed. This is valuable information that informs our [content strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) moving forward.
+We evaluate every message we send by reviewing our data. Unique open rates—both numbers and percentages—help us evaluate what content performed well. We know, for example, that we have a lot of visitors to our USAGov en Espa&#241;ol site seeking information on immigration. We align that information with our email sends, and the open rates and click-through rates prove the value of knowing what people are interested in. At the end of every month, our internal Performance Measurement Team provides us with a detailed report of how our messages performed. This is valuable information that informs our [content strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) moving forward.
 
 We combine the data from email behavior with data from website visits and [calls to our contact center](http://www.usa.gov/phone.shtml), [1-844-USA-GOV1](tel:1-844-872-4681). All of these factors determine what we take our time to write and send to our email lists.
 
@@ -67,4 +67,4 @@ These are just a few of the challenges we considered, but with the right collabo
 
 In the next few months, we will be deploying an even more cohesive bilingual experience by aiming to send emails from other agencies directly via GobiernoUSA.gov. Right now, we cross-promote and include relevant links and messages, but in the future, we hope to send full emails that were created by our partners. We’ll be making content marketing decisions based on what we know our audience needs: clear, timely, interesting and useful information. We’ll be incorporating more messaging in English about available information in Spanish, and vice versa where appropriate, [targeting a bicultural and bilingual audience]({{< link "2014-12-19-reaching-out-to-deliver-within-crowdsourcing-internal-agency-projects.md" >}}). This includes Hispanics who prefer English, and millennials who prefer English or Spanish information.
 
-We also plan to create more action-oriented emails that are more geo-specific and targeted to [personas]({{< link "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}). Segmentation is something we’re honing as a platform strategy, so that we may serve the public in the most efficient way possible.
+We also plan to create more action-oriented emails that are more geo-specific and targeted to [personas]({{< link "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}). Segmentation is something we’re honing as a platform strategy, so that we may serve the public in the most efficient way possible. 

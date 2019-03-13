@@ -6,11 +6,12 @@ summary: The increasing presence of big data and all things digital will require
 authors:
   - kdaniel
 categories:
-  - Managing Digital
+  - managing-digital
   - strategy-and-policy
 tag:
   - National Oceanic and Atmospheric Administration
   - NOAA
+  - professional-development
   - US Citizenship and Immigration Service
   - USCIS
 ---

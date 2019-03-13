@@ -1,16 +1,16 @@
 ---
-url: /services/dap/
+url: /dap/
 uid: dap
 date: 2012-10-30 3:41:20 -0400
 title: 'DAP: Digital Analytics Program'
-summary: 'The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies. The program is a hosted shared service provided by GSA&#8217;s Technology Transformation Service. On November'
+summary: 'The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies.'
+aliases:
+  - /services/dap/
 ---
 
-
-
-{{< legacy-img src="/2015/04/600-dap-one-no-URL.jpg" alt="A screen capture of the Digital Analytics Program (DAP) analytics.usa.gov website dashboard, showing that 143,619 people were visiting government websites at that moment." >}}
-
 The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies. The program is a hosted shared service provided by <a href="http://www.gsa.gov/portal/category/25729" target="_blank">GSA&#8217;s Technology Transformation Service</a>. On November 8, 2016, the Office of Management and Budget (OMB) released a memorandum on <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>, which requires federal agencies to implement the DAP javascript code on all public facing federal websites.
+
+{{< legacy-img src="/2015/04/600-dap-one-no-URL.jpg" alt="A screen capture of the Digital Analytics Program (DAP) analytics.usa.gov website dashboard, showing that 143,619 people were visiting government websites at that moment." caption="A screenshot of analytics.usa.gov; not real-time results." >}}
 
 The program consists of:
 
@@ -53,10 +53,10 @@ The program consists of:
 
 Any federal agency can sign up to use the common Web analytics tool. Here&#8217;s how it works:
 
-  * Agencies define a DAP point of contact (POC).
-  * GSA will send the agency POC a short, sign-up form to register their agency and work with them to implement the common page tag code.
-  * GSA will provide implementation support, access to training, and other resources to agency POCs.
-  * If you don&#8217;t have an identified POC, [send us an email](mailto:dap@support.digitalgov.gov).
+  * Agencies define a DAP point of contact.
+  * GSA will send the agency point of contact a short, sign-up form to register their agency and work with them to implement the common page tag code.
+  * GSA will provide implementation support, access to training, and other resources to agency points of contact.
+  * If you don&#8217;t have an identified point of contact, [send us an email](mailto:dap@support.digitalgov.gov).
 
 ## Gaining access to DAP
 

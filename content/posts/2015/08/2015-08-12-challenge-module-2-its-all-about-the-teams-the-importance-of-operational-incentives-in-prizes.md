@@ -35,8 +35,8 @@ For problem-solvers, renown can lead to partnerships, visibility with venture ca
 
 But even with the best prize package, an ill-defined problem will leave potential problem-solvers stumbling at the gate, and a lack of promotion will almost always short-circuit participation.
 
-[Watch the webinar](https://www.youtube.com/watch?v=w_-UKCfyjUQ&feature=youtu.be) to learn more about creating compelling incentives and attracting key audiences, and save the date for the next module in the series, [Operational Best Practices and Lessons Learned]({{< link "module-3-operational-best-practices-and-lessons-learned.md" >}}), on September 10.
+[Watch the webinar](https://www.youtube.com/watch?v=w_-UKCfyjUQ&feature=youtu.be) to learn more about creating compelling incentives and attracting key audiences, and save the date for the next module in the series, [Operational Best Practices and Lessons Learned](https://www.youtube.com/watch?v=z6a1V-AXpN8), on September 10.
 
 [youtube=http://www.youtube.com/watch?v=w_-UKCfyjUQ&w=600]
-  
+
 Missed Module 1? You can read this [recap of Prize History, Prize Theory and What Makes a Good Prize]({{< link "2015-07-29-challenge-module-1-prize-history-prize-theory-and-what-makes-a-good-prize.md" >}}).
