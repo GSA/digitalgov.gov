@@ -1,9 +1,9 @@
 ---
 slug: deep-dive-on-top-health-data-technology-innovation-for-lyme-disease
 date: 2019-03-13 12:00:00 -0500
-title: 'Deep Dive on “TOP Health”&#58; Data &#43; Technology &#43; Innovation for Lyme Disease'
+title: 'Deep Dive: Using Data Technology &#43; Innovation for Lyme Disease'
 summary: 'After a 14-week “TOP Health” technology sprint, four of 11 teams delivered digital tools that used federal open data and&#x2F;or artificial intelligence &#40;AI&#41; related to Lyme and tick-borne diseases with results showcased over two days of events held at the White House Eisenhower Executive Office Building and at the Census Bureau as part of “The Opportunity Project” &#40;TOP&#41; Demo Day 2019&#46;'
-deck: 'After a 14-week TOP Health technology sprint, four of 11 teams delivered digital tools that used federal open data and/or artificial intelligence (AI) related to Lyme and tick-borne diseases with results showcased over two days of events held at the White House Eisenhower Executive Office Building and at the Census Bureau as part of The Opportunity Project (TOP) Demo Day 2019.'
+deck: 'Addressing Lyme and tick-borne disease by coupling the power of the crowd and patient insights with data.'
 authors:
   - kristen-honey
   - gil-alterovitz
@@ -33,8 +33,6 @@ To quote Alan Turing, “**_Sometimes it is the people no one can imagine anythi
 ## K-12 STEM Innovation
 
 What we couldn’t imagine was that K-12 STEM innovators would join our TOP Health sprint—and dazzle the U.S. Department of Health and Human Services (HHS), the Presidential Innovation Fellows Program, and leadership from across federal government. “These young people were very impressive,” said Ed Simcox, HHS Chief Technology Officer, “When it comes to a ‘wicked problem’ such as Lyme disease, we want to encourage innovation from any source, and clearly young people are stepping up to the challenge.”
-
-Embed: https://www.youtube.com/watch?v=36sdFlR1F-s&t=7411
 
 {{< youtube 36sdFlR1F-s >}}
 
