@@ -5,6 +5,9 @@ title: 'Bilingual Glossaries, Dictionaries, and Style Guides'
 summary: 'Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government.'
 type: guide
 deck: 'Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.'
+
+weight: 3
+
 authors:
   - lgodfrey
   - lmartinez
@@ -56,7 +59,7 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 - [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://www.minorityhealth.hhs.gov/OMHRC/) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
 - The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers two PDF files to download:
    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
-   - [Some Frequently Mistranslated English Terms](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary).  
+   - [Some Frequently Mistranslated English Terms](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary).
 
 
 ### General Terminology
@@ -96,7 +99,7 @@ The National Cancer Institute has a dictionary of cancer terms in English and Sp
 
 #### USAGov Bilingual Style Guide
 
-The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents) is a practical guide on the best practices used to create bilingual digital content for [USAGov](https://www.usa.gov/) and [USAGov en Español](https://www.usa.gov/espanol/). 
+The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents) is a practical guide on the best practices used to create bilingual digital content for [USAGov](https://www.usa.gov/) and [USAGov en Español](https://www.usa.gov/espanol/).
 
 #### The City and County of San Francisco
 

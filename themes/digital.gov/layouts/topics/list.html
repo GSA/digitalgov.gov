@@ -17,7 +17,7 @@
     </div>
 
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-12 tablet:grid-col-8 tablet-lg:grid-col-9">
+      <div class="grid-col-12">
         <section>
 
           {{/* If the first page in a paginated sequence */}}
@@ -25,6 +25,8 @@
             {{ partial "core/list_related_resources.html" (dict "root" . "expanded" true) }}
 
             {{ partial "core/list_related_communities.html" . }}
+
+            {{ partial "core/list_related_services.html" . }}
 
           {{- end -}}
 
@@ -57,11 +59,6 @@
 
           {{- partial "core/pagination.html" . -}}
         </section>
-      </div>
-      <div class="grid-col-12 display-none tablet:display-block tablet:grid-col-4 tablet-lg:grid-col-3">
-
-        {{ partial "core/topics-sidebar.html" . }}
-
       </div>
     </div>
   </div>

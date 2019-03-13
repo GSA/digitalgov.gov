@@ -1,12 +1,16 @@
 ---
 url: /resources/section-508-standards-for-electronic-and-information-technology-2/
 date: 2015-11-05 2:24:28 -0400
-title: Section 508 Standards for Electronic and Information Technology
-summary: "The Section 508 Standard for Electronic and Information Technology requires that when a federal agency shares information digitally, individuals with disabilities seeking information or services from a Federal agency, must have access to and be able to use the information and data, unless an undue burden would be imposed on the agency. View 508 Standards"
+title: "Section 508 Standards for Electronic and Information Technology"
+summary: "The Section 508 Standard for Electronic and Information Technology requires that when a federal agency shares information digitally, individuals with disabilities seeking information or services from a federal agency, must have access to and be able to use the information and data, unless an undue burden would be imposed on the agency. View 508 Standards"
+
+src: "http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards"
+
 topics:
   - accessibility
   - policy
   - section-508
+
 authors:
   - apiazza
 ---
@@ -22,7 +26,5 @@ authors:
   * [Federal Social Media Accessibility Toolkit]({{< link "federal-social-media-accessibility-toolkit-hackpad.md" >}})
 
 * * *
-
- 
 
 See more [DigitalGov Resources]({{< link "/resources/" >}})
