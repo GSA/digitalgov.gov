@@ -2,7 +2,7 @@
 slug: deep-dive-on-top-health-data-technology-innovation-for-lyme-disease
 date: 2019-03-13 12:00:00 -0500
 title: 'Deep Dive: Using Data Technology &#43; Innovation for Lyme Disease'
-summary: 'After a 14-week “TOP Health” technology sprint, four of 11 teams delivered digital tools that used federal open data and&#x2F;or artificial intelligence &#40;AI&#41; related to Lyme and tick-borne diseases with results showcased over two days of events held at the White House Eisenhower Executive Office Building and at the Census Bureau as part of “The Opportunity Project” &#40;TOP&#41; Demo Day 2019&#46;'
+summary: 'A 14-week sprint delivered digital tools that used federal open data  to address Lyme and tick-borne diseases.'
 deck: 'Addressing Lyme and tick-borne disease by coupling the power of the crowd and patient insights with data.'
 authors:
   - kristen-honey
