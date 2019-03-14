@@ -12,6 +12,10 @@ end_date: 2018-11-14 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Plain Language
 registration_url: https://www.eventbrite.com/e/responding-to-the-federal-plain-language-report-card-registration-51527002652
+categories:
+tag:
+  - plain-language
+  - plain-language-community-of-practice
 
 ---
 
