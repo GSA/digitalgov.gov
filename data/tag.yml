@@ -70,6 +70,8 @@ audio-video:
   display_name: "Audio/Video"
 augmented-reality:
   display_name: "Augmented Reality"
+automation:
+  display_name: "Automation"
 aws:
   display_name: "AWS"
 bar:
