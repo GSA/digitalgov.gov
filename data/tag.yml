@@ -338,7 +338,7 @@ federal-acquisition-service:
   display_name: "Federal Acquisition Service"
 federal-aviation-administration:
   display_name: "Federal Aviation Administration"
-federal-blockchain-community
+federal-blockchain-community:
   display_name: "Federal Blockchain Community of Practice"
 federal-bureau-of-investigation:
   display_name: "Federal Bureau of Investigation"
