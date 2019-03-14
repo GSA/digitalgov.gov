@@ -3,6 +3,7 @@ url: /services/dap/common-questions-about-dap-faq/
 date: 2013-12-02 7:37:00 -0400
 title: 'Common Questions about DAP (FAQ)'
 summary: 'This guidance is part of the Digital Analytics Program (DAP): Support to Help Agencies Implement the Tool. See more on the DAP. Below are the questions we hear most often about the Digital Analytics Program (DAP).'
+weight: 0
 authors:
   - tlowden
 ---

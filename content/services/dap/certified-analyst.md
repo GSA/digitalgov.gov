@@ -4,7 +4,7 @@ date: 2018-08-10 09:00:00 -0400
 title: 'Become a DAP Certified Analyst'
 summary: 'Download the study guide and learn how to become a DAP Certified Analyst at your federal agency.'
 deck: 'This is your opportunity to demonstrate mastery of the DAP Google Analytics account by becoming a certified analyst.'
-type: guide
+weight: 0
 authors:
   - tlowden
 ---
