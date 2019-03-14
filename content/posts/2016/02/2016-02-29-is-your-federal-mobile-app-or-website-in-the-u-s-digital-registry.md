@@ -1,5 +1,5 @@
 ---
-slug: is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry
+slug: is-your-federal-mobile-app-or-website-in-the-us-digital-registry
 date: 2016-02-29 11:10:07 -0400
 title: 'Is Your Federal Mobile App or Website in the U.S. Digital Registry?'
 summary: 'We have received an amazing response to the U.S. Digital Registry, our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.'
