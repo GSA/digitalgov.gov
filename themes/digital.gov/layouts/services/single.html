@@ -12,8 +12,8 @@
             <h1>{{- .Title | markdownify -}} </h1>
 
             {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- if .Params.summary -}}
+            <div class="deck">{{- .Params.summary | markdownify -}}</div>
             {{- end -}}
           </div>
         </div>
