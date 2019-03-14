@@ -24,10 +24,17 @@ venue:
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 categories:
+  - user experience
   - writing
 tag:
+  - customer-experience
+  - customer-experience-community-of-practice
+  - multilingual
   - plain-language
   - plain-language-community-of-practice
+  - training
+  - user experience
+  - ux
 
 ---
 
