@@ -22,9 +22,13 @@ venue:
   zip: 20405
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
+categories:
+  - api
+tag:
+  - api
+  - api-community
 
 ---
-
 
 This afternoon event is an opportunity for API practitioners from across federal agencies to come together, share news, and discuss topics of interest. Remote participants will be able to join in via Google Hangout. Anyone with a federal .gov or .mil address is welcome to attend.
 
@@ -44,4 +48,3 @@ This afternoon event is an opportunity for API practitioners from across federal
 
 In person: GSA Headquarters - Room 2143  
 Virtual:  Will send to registrants
-
