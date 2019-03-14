@@ -44,6 +44,8 @@ aoi:
   display_name: "AOI"
 api:
   display_name: "API"
+api-community:
+  display_name: "API Community of Practice"
 api-keys:
   display_name: "API Keys"
 app:
