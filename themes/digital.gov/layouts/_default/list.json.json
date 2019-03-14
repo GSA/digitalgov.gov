@@ -67,15 +67,17 @@
         {{ if (isset .Params "categories") }}
           "categories" : {
             {{ $_taxonomy := .Params.categories }}
-            {{ $length := $_taxonomy | len }}
-            {{ range $i, $e := $_taxonomy }}
-              {{ $slug := $e | urlize }}
-              {{ $cat := index $sitetags $slug }}
-              {{ $link := printf "categories/%s/" $slug }}
-              {{ if lt (add $i 1) $length }}
-                "{{- $slug -}}" : "{{- $cat.display_name | default $slug}}",
-              {{ else }}
-                "{{- $slug -}}" : "{{- $cat.display_name | default $slug}}"
+            {{ if $_taxonomy }}
+              {{ $length := $_taxonomy | len }}
+              {{ range $i, $e := $_taxonomy }}
+                {{ $slug := $e | urlize }}
+                {{ $cat := index $sitetags $slug }}
+                {{ $link := printf "categories/%s/" $slug }}
+                {{ if lt (add $i 1) $length }}
+                  "{{- $slug -}}" : "{{- $cat.display_name | default $slug}}",
+                {{ else }}
+                  "{{- $slug -}}" : "{{- $cat.display_name | default $slug}}"
+                {{ end }}
               {{ end }}
             {{ end }}
           },
