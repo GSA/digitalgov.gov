@@ -19,6 +19,15 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-ab-testing-basics-part-1-registration-51480200666
 youtube_id: K5nnKM3srqI
+categories:
+  - metrics
+tag:
+  - a-b-testing
+  - analytics
+  - cfpb
+  - consumer-financial-protection-bureau
+  - dap
+  - digital-analytics-program
 
 ---
 

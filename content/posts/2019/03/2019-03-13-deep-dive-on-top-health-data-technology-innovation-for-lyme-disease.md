@@ -18,6 +18,9 @@ tag:
 featured_image:
   uid: pif-ai-open-data
   alt: 'A graphic that reads&#58; Artificial Intelligence and Open Data Innovation for Health, brought to you by the Presidential Innovation Fellows and the U&#46;S&#46; Department of Health and Human Services&#46;'
+
+draft: true 
+  
 ---
 
 _NOTE: This blog emphasizes outcomes by the TOP Health Lyme teams. It is part two in our “Deep Dive” series with [part one summarizing the seven TOP Health teams that developed products for the AI ecosystem](https://digital.gov/2019/02/27/how-a-health-tech-sprint-inspired-an-ai-ecosystem/)._
