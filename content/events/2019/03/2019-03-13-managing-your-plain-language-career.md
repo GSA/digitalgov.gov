@@ -5,8 +5,8 @@ summary: 'We&#39;ll discuss how to document and publicize your formal and inform
 featured_image:
   uid: plain-language
   alt: ''
-event_type:
-  - zoom
+event_type: 
+  - youtube-live
 date: 2019-03-13 14:00:00 -0500
 end_date: 2019-03-13 15:00:00 -0500
 event_organizer: DigitalGov University
