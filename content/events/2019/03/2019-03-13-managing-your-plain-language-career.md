@@ -11,7 +11,12 @@ date: 2019-03-13 14:00:00 -0500
 end_date: 2019-03-13 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Plain Language
-registration_url: https://www.eventbrite.com/e/managing-your-plain-language-career-registration-56927630074
+registration_url: https://www.eventbrite.com/e/managing-your-plain-language-career-registration-56927630074 
+categories:
+  - writing
+tag:
+  - plain-language
+  - plain-language-community-of-practice
 
 ---
 
