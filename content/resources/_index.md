@@ -26,7 +26,7 @@ aliases:
 ## Challenges and Prizes
 
 * [Challenges and Prizes Community of Practice]({{< link "challenges-prizes.md" >}})
-* [Crowdsourcing with Challenge.gov]({{< link "challenge-gov.md" >}})
+* [Crowdsourcing with Challenge.gov]({{< link "service_challengegov.md" >}})
 * [Get Started with Challenge and Prize Competitions]({{< link "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}})
 
 ## Contact Centers
