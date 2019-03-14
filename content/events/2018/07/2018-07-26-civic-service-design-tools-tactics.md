@@ -13,6 +13,13 @@ event_organizer: DigitalGov University
 host: 
 registration_url: https://www.eventbrite.com/e/civic-service-design-tools-tactics-tickets-47865327483
 youtube_id: oo774vjqRjk
+categories:
+  - design
+  - ux
+tag:
+  - user-centered-design
+  - user-experience
+  - ux
 
 ---
 
