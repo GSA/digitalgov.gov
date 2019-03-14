@@ -14,6 +14,18 @@ event_organizer: digital.gov
 host: U.S. Web Design System
 youtube_id: yo5bsqixpNU
 registration_url: https://www.eventbrite.com/e/august-us-web-design-system-monthly-call-getting-started-with-uswds-20-tickets-47179708779
+categories:
+  - accessibility
+  - code
+  - design
+  - ux
+tag:
+  - accessibility
+  - user-centered-design
+  - user-experience
+  - uswds
+  - us-web-design-standards
+  - ux
 
 ---
 
