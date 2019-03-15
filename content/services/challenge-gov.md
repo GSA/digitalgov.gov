@@ -6,7 +6,7 @@ title: Crowdsourcing with Challenge.gov
 summary: 'Post a challenge on Challenge.gov A Primer on Challenges & Prizes Challenges and prize competitions are proven methods to drive innovation in the public sector and beyond. But they aren&rsquo;t new. The 1927 Orteig Prize led to Charles Lindbergh&rsquo;s famous transatlantic flight and advances in aerospace. In the centuries before, prizes were offered in Europe'
 ---
 
-{{< button href="https://www.challenge.gov/post-challenges/" text="Post a challenge on Challenge.gov" >}}
+{{< button href="https://challenge.gov/a/buzz/pages/about-us" text="Post a challenge on Challenge.gov" >}}
 
 ## **A Primer on Challenges & Prizes**
 
