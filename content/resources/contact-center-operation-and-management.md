@@ -14,8 +14,6 @@ Many things can impact the service quality, economics, and sustainability of you
   * [IVR Call Flow Basics]({{< link "contact-center-operation-and-management.md#IVR" >}})
   * [Disaster Planning and Recovery]({{< link "contact-center-operation-and-management.md#disaster" >}})
 
- 
-
 ## Control Contact Center Costs {#control}
 
 Across the government, contact center budgets are stretched to the limit by increasing demands for more services. One big challenge is how to do more with less, while at the same time improving performance and customer satisfaction. To meet this challenge, contact center operators must drive down costs and invest the savings in new technology and services.
@@ -56,7 +54,7 @@ These are costs of telecommunications services incurred to enable customers to a
 
 Pay attention to the per-call charge levied by the toll-free telephone service provider for calls made from pay phones. You bear the cost of the toll-free number, and there is evidence that fraudulent pay phone activities can add thousands of dollars to your telephone bills. Examine the call detail records carefully for potential abuse and be prepared to take action to block pay phone calls, if necessary.
 
-## Monitor Quality
+## Monitor Quality {#monitor}
 
 Quality monitoring allows you to observe an agent’s phone calls, email and web chats, and score those interactions against an agreed-upon definition of great customer interaction. The quality monitoring lifecycle is about process improvement and involves the following steps:
 
@@ -82,7 +80,7 @@ The lifecycle begins during hiring and training, when a prospective agent’s pe
 -   Recording results of the monitoring sessions and producing reports showing performance trends by individual agent and the whole team.
 -   Integrating calibration into the quality monitoring process.
 
-## Avoid Fraudulent Pay Phone Calls
+## Avoid Fraudulent Pay Phone Calls {#avoid}
 
 Your agency may be paying extra and illegal charges for calls from pay phones.
 
@@ -99,7 +97,7 @@ As a result of an investigation conducted by the General Services Administration
 -   If you find something suspicious, talk to your agency’s Inspector General (IG). An investigation will take time and may cost a lot, as your IG office may advise you to continue to allow such pay phone calls to facilitate the investigation.
 -   You can prevent incurring the “dial around compensation” fee if you block ALL calls from pay phone numbers or from the specific geographic locations that are generating these calls. However, blocking calls from all pay phones may prevent legitimate callers from getting the help they need and should only be done as a last resort.
 
-## Call Calibration
+## Call Calibration {#call}
 
 Calibration is a way to uniformly rate agent performance. It improves monitoring, limits variation in interpreting performance criteria, and achieves consistency among the people responsible for scoring.
 
@@ -140,7 +138,7 @@ Establish ground rules and communicate them to all participants in advance, so s
 -   Enforce compliance. It’s critical to identify and warn anyone who uses their own standards while monitoring, rather than the agreed-upon standards.
 -   Do not give up when the process gets difficult and some people seem ready to quit.
 
-## IVR Call Flow Basics
+## IVR Call Flow Basics {#IVR}
 
 An Interactive Voice Response (IVR) is a computer-based system allowing callers to use their telephone keypad or voice commands to retrieve and/or provide information without assistance from trained specialists. The IVR presents callers with a list of options and questions about the nature of their call, provides answers to frequently asked questions, and directs the calls for further assistance to trained specialists.
 
@@ -206,8 +204,7 @@ Disadvantages:
 
 For federal agencies and entities authorized to obtain products and services from the General Services Administration (GSA), IVR equipment and services can be obtained through various [Technology and Telecommunications contracts](http://www.gsa.gov/portal/content/105195) managed by GSA’s Federal Acquisition Service.
 
-## Disaster Planning and Recovery
-
+## Disaster Planning and Recovery {#disaster}
 
 Disaster Recovery and Business Continuity plans are used to mitigate the effects that service disruptions will have on customers. These disruptions may be caused by natural disasters; power, equipment, or transportation systems failures; or by other unexpected events.
 
