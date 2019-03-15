@@ -29,4 +29,4 @@ You’re jazzed about making government responsive to the public, to unleashing 
 
 ## Calling on every agency to partner up.
 
-Doing “more with less” is expected. But how do you meet stakeholder expectations, deliver on a 21st century government and keep your best and brightest staff engaged? Agencies are coming together to work on different pieces of the digital puzzle. Tapping your best and brightest to do interagency work can help you smartly create and adopt new tools and platforms at a lower cost and without reinventing the wheel–gaining more for mission.
+Doing “more with less” is expected. But how do you meet stakeholder expectations, deliver on a 21st century government and keep your best and brightest staff engaged? Agencies are coming together to work on different pieces of the digital puzzle. Tapping your best and brightest to do interagency work can help you smartly create and adopt new tools and platforms at a lower cost and without reinventing the wheel–gaining more for mission. 
