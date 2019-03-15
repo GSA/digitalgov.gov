@@ -25,5 +25,6 @@ That’s where the [U.S. Data Federation](https://github.com/18F/data-federation
 *Questions about this event or other events? Send them to digitalgovu@gsa.gov.*  
 
 **Other resources:**
+
 * [The U.S. Data Federation wants to make it easier to collect, combine, and exchange data across government](https://18f.gsa.gov/2019/03/05/the-us-data-federation/)
 * [U.S. Data Federation Github Repository](https://github.com/18F/data-federation-project)
