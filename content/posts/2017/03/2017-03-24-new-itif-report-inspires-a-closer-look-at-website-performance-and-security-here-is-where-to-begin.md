@@ -44,13 +44,13 @@ tag:
   - UX
 ---
 
-_The Information Technology & Innovation Foundation (ITIF) recently published a report,_ [_Benchmarking U.S. Government Websites_](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites)_, that looks at the performance, security, and accessibility of the top 297 government websites._ [_ITIF_](https://itif.org/about) _is a think tank in Washington, D.C. whose mission is to formulate, evaluate, and promote policy solutions that accelerate innovation in technology and public policy._ 
+_The Information Technology & Innovation Foundation (ITIF) recently published a report,_ [_Benchmarking U.S. Government Websites_](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites)_, that looks at the performance, security, and accessibility of the top 297 government websites._ [_ITIF_](https://itif.org/about) _is a think tank in Washington, D.C. whose mission is to formulate, evaluate, and promote policy solutions that accelerate innovation in technology and public policy._
 
 Over the past 90 days, government websites were visited over 2.55 billion times. According to the [Analytics Dashboard](https://analytics.usa.gov/), 43.5% of those views were done from a mobile device.
 
 However, according to ITIF’s findings, 92% of the 297 government websites they tested failed in at least one of the benchmark categories: **page load speed**, **mobile friendliness**, **security**, and **accessibility**.
 
-So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information. {{< legacy-img src="2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, solutions." caption="" >}} 
+So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information. {{< legacy-img src="2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, solutions." caption="" >}}
 
 ## Improving Your Site’s Performance
 
@@ -87,7 +87,7 @@ How does Search Engine Optimization (SEO) play into this? Here are [7 questions 
 
 **Resources & Tools**
 
-  * [Join our MobileGov Community]({{< link "categories/mobile" >}})
+  * [Join our MobileGov Community]({{< link "mobilegov.md" >}})
   * [Mobile Development and Testing with Chrome Developer Tools]({{< link "2016-11-21-mobile-development-and-testing-with-chrome-devtools.md" >}})
   * [Google Mobile Testing Tool](https://testmysite.thinkwithgoogle.com/)
   * [Four Steps to Achieve Good SEO]({{< link "2013-05-31-four-steps-to-achieve-good-seo.md" >}})

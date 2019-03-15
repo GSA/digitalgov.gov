@@ -38,20 +38,20 @@ The rise of third-party platforms in delivering modern public services required 
 
 Here’s how it works:
 
-  1. Government agencies, including members of the collaborative inter-agency [SocialGov]({{< link "social-media.md" >}}) and [MobileGov]({{< link "categories/mobile" >}}) communities, use [OMB Max](https://max.omb.gov/maxportal/home.do) to authenticate users of the U.S. Digital Registry and add their official accounts by:
-  
+  1. Government agencies, including members of the collaborative inter-agency [SocialGov]({{< link "social-media.md" >}}) and [MobileGov]({{< link "mobilegov.md" >}}) communities, use [OMB Max](https://max.omb.gov/maxportal/home.do) to authenticate users of the U.S. Digital Registry and add their official accounts by:
+
     &#8211; Name of the account
-  
+
     &#8211; Agency
-  
+
     &#8211; Platform
-  
+
     &#8211; URL
-  
+
     &#8211; Short Description, including mission focus
-  
+
     &#8211; Long Description, including links to Comment Policy, Terms of Service or other resources
-  
+
     &#8211; Collaborative Tagging (here’s where the magic is)
   2. Anyone can use that data to curate and conduct analysis across platforms, languages or by tags.
   3. Every week we continue to collect feedback from news organizations, companies, or public services on how future iterations of the U.S. Digital Registry can improve and expand.
@@ -79,7 +79,7 @@ Mashups with this would be awesome. For the people.
 We also encourage all third-party platforms with [Terms of Service with the government]({{< link "negotiated-terms-of-service-agreements.md" >}}) to use the registry to conclusively authenticate public service accounts. Not all platforms are in the registry in this first iteration, but we’ll get there.
 
 The new U.S. Digital Registry combines the former Federal Social Media Registry and Mobile Apps Registry with a path forward to further expand the scope, and provides a seachange in open data capabilities. We’re already meeting with organizations ready to use the registry API, and we’re determined to develop it into an expanding and evolving service that combines an easy-to-use tool with the active participation of hundreds of government technologists, innovative private-sector developers, news organizations, researchers and anyone who wants reliable access to the public information they need.
-  
+
 So if you could make any public service easier to access with it, where would you start?
 
 _This post was originally posted on [Medium](https://medium.com/@GeneralServicesAdministration/) by Justin Herman, SocialGov program lead, U.S. General Services Administration._

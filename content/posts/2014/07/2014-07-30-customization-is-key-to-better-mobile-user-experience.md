@@ -42,6 +42,6 @@ tag:
 
 These are great examples of implementations of government user experience. How can your mobile applications implement features like these to heighten user experience? There are more than [40 mobile user experience guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}) agencies can follow.
 
-In fact, the [Mobile Gov Community of Practice]({{< link "categories/mobile" >}}) and the [Federal User Experience Community]({{< link "user-experience.md" >}}) want your input at our [Mobile Gov Workshop: Help Expand the Mobile User Experience Guidelines]({{< tmp "events/mobilegov-workshop-help-expand-the-mobile-user-experience-guidelines.md" >}}) on Monday, August 4th. Help us move [our guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}) forward so we can help you further user experience in your own mobile apps!
+In fact, the [MobileGov Community of Practice]({{< link "mobilegov.md" >}}) and the [Federal User Experience Community]({{< link "user-experience.md" >}}) want your input at our [Mobile Gov Workshop: Help Expand the Mobile User Experience Guidelines]({{< tmp "events/mobilegov-workshop-help-expand-the-mobile-user-experience-guidelines.md" >}}) on Monday, August 4th. Help us move [our guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}) forward so we can help you further user experience in your own mobile apps!
 
  

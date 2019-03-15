@@ -56,7 +56,7 @@ tag:
   </li>
 </ul>
 
-**Cross Agency Sharing Multiplied.** There was an influx of cross agency sharing of mobile development practices, tools and solutions. In conjunction with the Federal CIO Council, we developed the [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program"). To help us create the program, agencies in the [Mobile Gov Community of Practice]({{< link "categories/mobile" >}} "Mobile") shared
+**Cross Agency Sharing Multiplied.** There was an influx of cross agency sharing of mobile development practices, tools and solutions. In conjunction with the Federal CIO Council, we developed the [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program"). To help us create the program, agencies in the [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile") shared
 
 <ul class="how_to_mobile_list">
   <li>
