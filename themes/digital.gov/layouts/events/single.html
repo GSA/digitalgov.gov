@@ -40,8 +40,10 @@
     {{ partial "event-stage.html" . }}
   {{ end }}
 
-
   <div class="event-content">
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <div class="addthis_inline_share_toolbox"></div>
+
     {{ .Content }}
   </div>
 
@@ -51,6 +53,6 @@
 
   {{ partial "post-meta--feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "branch" ($.Scratch.Get "branch")) }}
   {{ partial "page-details" . }}
-  
+
 </div>
 {{ end }}
