@@ -67,6 +67,8 @@ taxonomies:
   category              : "categories"
   author                : "authors"
 
+pluralizelisttitles     : false
+
 menu:
   primary:
     - Name            : "home"
