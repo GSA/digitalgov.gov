@@ -16,14 +16,16 @@ youtube_id: OoAisdLNhe0
 
 ---
 
-In this webinar, [Tim Lowden](https://digital.gov/authors/tlowden/), Program Manager for [DAP](https://digital.gov/dap/), will give a brief introduction of the Advanced Analysis tool, and discuss how it can be used to better understand how the public interacts with your website.  Attendees will learn:
+In this webinar, [Tim Lowden](https://digital.gov/authors/tlowden/), program manager for the [Digital Analytics Program](https://digital.gov/dap/) (DAP), will give a brief introduction of the Advanced Analysis tool, and discuss how it can be used to better understand how the public interacts with your website. Attendees will learn:
 
 - How to access the tool 
 - How it differs from custom reports 
-- Potential Use Cases 
-- Pros and Cons of the tool 
+- Potential use cases 
+- Pros and cons of the tool 
 
-_The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA._
+--- 
+
+_The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the U.S. General Services Administration (GSA)._ 
 
 - [Learn more about DAP](https://www.digitalgov.gov/services/dap/?__hstc=178037178.6df0bfb6325b021320caefc863c6b10a.1537471110272.1551458455902.1551722413397.31&__hssc=178037178.1.1551722413397&__hsfp=3247019564) 
 - [Getting Started](https://github.com/digital-analytics-program/gov-wide-code) 
