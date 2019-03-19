@@ -23,11 +23,14 @@
   <section class="communities-list">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-2">
-        {{ $current_url := .URL }}
+
+        {{/* Gets all communities pages */}}
         {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
+
+        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+        {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
+        
         {{ range $i, $e := $communities }}
-          {{/* If $current_url is NOT equal to the URL, then print the page */}}
-          {{ if not (eq $current_url $e.URL) }}
           <div class="grid-col-12 tablet:grid-col-6 tablet:flex-6">
 
             <article class="promo" data-edit-this="{{- .File.Path -}}">
@@ -41,8 +44,8 @@
             </article>
 
           </div>
-          {{ end }}
         {{ end }}
+
       </div>
     </div>
   </section>
