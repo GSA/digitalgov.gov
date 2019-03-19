@@ -19,7 +19,7 @@ topics:
   - United States Department of Energy
 ---
 
-{{< legacy-img src="2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" caption="" >}} 
+{{< legacy-img src="2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" caption="" >}}
 
 Practice makes perfect. But in the mobile world, it’s testing that makes products better.
 
@@ -37,7 +37,7 @@ Moving from a “desktop” presentation to [responsive design]({{< link "tag/re
   * Page content must be pared down to allow users to easily find what they are looking for. This can also have a positive impact on desktop user experience. Marissa Newhall, acting director of the Office of Digital Strategy and Communications at the Department of Energy (DOE), said optimizing [Energy.gov](http://www.energy.gov)’s content for mobile helped simplify the functionality of the desktop version. Newhall spoke about Energy.gov’s responsive implementation during DigitalGov’s webinar, [Responsive Web Design Challenges]({{< link "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}}).
   * Displaying data becomes problematic: on smaller screens, users cannot always tell where they are in the data. Our testing group came up with [8 Ways To Format Tables for Responsive Web Design]({{< link "2014-10-28-trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design.md" >}}), providing potential solutions to this issue.
 
-## Inspector Gadget Sometimes Has Malfunctions **** 
+## Inspector Gadget Sometimes Has Malfunctions ****
 
 Some “gadgets” that enhance websites are not fully functional on mobile devices.
 

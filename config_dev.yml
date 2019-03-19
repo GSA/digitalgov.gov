@@ -74,7 +74,8 @@ taxonomies:
   category              : "categories"
   author                : "authors"
 
-## Menu Navigation
+pluralizelisttitles     : false
+
 menu:
   primary:
     - Name            : "News"

@@ -87,7 +87,7 @@ How does Search Engine Optimization (SEO) play into this? Here are [7 questions 
 
 **Resources & Tools**
 
-  * [Join our MobileGov Community]({{< link "categories/mobile" >}})
+  * [Join our MobileGov Community]({{< link "mobilegov.md" >}})
   * [Mobile Development and Testing with Chrome Developer Tools]({{< link "2016-11-21-mobile-development-and-testing-with-chrome-devtools.md" >}})
   * [Google Mobile Testing Tool](https://testmysite.thinkwithgoogle.com/)
   * [Four Steps to Achieve Good SEO]({{< link "2013-05-31-four-steps-to-achieve-good-seo.md" >}})

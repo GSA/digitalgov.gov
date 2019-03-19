@@ -20,7 +20,7 @@ topics:
   - thursday-mobile-products
 ---
 
-> _A few weeks ago, [_Progressive Web Applications, Part 1: the New Pack Mule of the Internet_]({{< link "2016-09-20-progressive-web-applications-part-1-the-new-pack-mule-of-the-internet.md" >}}) _introduced PWAs and the technologies behind them. We shared that article to the [_MobileGov Community of Practice_]({{< link "categories/mobile" >}}) and asked about the pros and cons of this approach to_ [_winning mobile moments_]({{< link "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}})._
+> _A few weeks ago, [_Progressive Web Applications, Part 1: the New Pack Mule of the Internet_]({{< link "2016-09-20-progressive-web-applications-part-1-the-new-pack-mule-of-the-internet.md" >}}) _introduced PWAs and the technologies behind them. We shared that article to the [_MobileGov Community of Practice_]({{< link "mobilegov.md" >}}) and asked about the pros and cons of this approach to_ [_winning mobile moments_]({{< link "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}})._
 
 ## What Are Some Benefits of PWAs?
 
@@ -62,7 +62,7 @@ Using Gartner’s 2016 "[Hype Cycle for Web Computing](http://www.gartner.com/do
 
 ## What is the Future of PWA?
 
-There was a lot of interest in this approach from the community, but as you can see above there a lot of challenges. While their components are W3C compliant, when combined into a PWA they are not supported on many existing browsers. We will need to explore this new approach to mobile and will need [industry support](http://www.benfarrell.com/2016/02/26/progressive-web-apps/) to help us get PWAs supported in all browsers and development tools. PWAs are in their infancy, but have the potential to move from pack mule to workhouse of the Internet. 
+There was a lot of interest in this approach from the community, but as you can see above there a lot of challenges. While their components are W3C compliant, when combined into a PWA they are not supported on many existing browsers. We will need to explore this new approach to mobile and will need [industry support](http://www.benfarrell.com/2016/02/26/progressive-web-apps/) to help us get PWAs supported in all browsers and development tools. PWAs are in their infancy, but have the potential to move from pack mule to workhouse of the Internet.
 
 ### Resources (in alphabetical order by title):
 
@@ -86,7 +86,7 @@ There was a lot of interest in this approach from the community, but as you can 
 
 [Wait! The Web Isn’t Dead After All. Google Made Sure of It](https://www.wired.com/2016/04/wait-web-isnt-really-dead-google-made-sure/)
 
-[What’s Your Mobile Development Strategy?](http://sdtimes.com/whats-your-mobile-deveolpment-strategy/) 
+[What’s Your Mobile Development Strategy?](http://sdtimes.com/whats-your-mobile-deveolpment-strategy/)
 
 
 _Are you developing or already using Progressive Web Apps? Let us know in the comments below!_

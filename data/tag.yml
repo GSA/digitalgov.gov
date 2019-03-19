@@ -44,6 +44,8 @@ aoi:
   display_name: "AOI"
 api:
   display_name: "API"
+api-community:
+  display_name: "API Community of Practice"
 api-keys:
   display_name: "API Keys"
 app:
@@ -70,6 +72,8 @@ audio-video:
   display_name: "Audio/Video"
 augmented-reality:
   display_name: "Augmented Reality"
+automation:
+  display_name: "Automation"
 aws:
   display_name: "AWS"
 bar:
@@ -1001,7 +1005,7 @@ us-small-business-administration:
 us-trade-and-development-agency:
   display_name: "U.S. Trade and Development Agency"
 uswds:
-  display_name: "U.S. Web Design Standards"
+  display_name: "USWDS"
 ugc:
   display_name: "UGC"
 unified-shared-services-management:

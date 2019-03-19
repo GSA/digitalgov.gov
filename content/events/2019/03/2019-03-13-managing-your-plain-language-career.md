@@ -5,15 +5,16 @@ summary: 'We&#39;ll discuss how to document and publicize your formal and inform
 featured_image:
   uid: plain-language
   alt: ''
-event_platform: zoom
+event_type:
+  - youtube-live
 date: 2019-03-13 14:00:00 -0500
 end_date: 2019-03-13 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Plain Language
-registration_url: https://www.eventbrite.com/e/managing-your-plain-language-career-registration-56927630074 
-categories:
+registration_url: https://www.eventbrite.com/e/managing-your-plain-language-career-registration-56927630074
+youtube_id: JIR489Oq7OY
+topics:
   - writing
-tag:
   - plain-language
   - plain-language-community-of-practice
 
@@ -40,4 +41,4 @@ We'll discuss your formal and informal plain language work (teaching, training, 
 
 Please submit your questions to [info@plainlanguage.gov](mailto:info@plainlanguage.gov) by Tuesday, March 12 with the subject line: `3/13 Career Advice Meeting`.
 
-This event will be held on Zoom. Our team will distribute links join the event prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand. 
+This event will be held on Zoom. Our team will distribute links join the event prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.

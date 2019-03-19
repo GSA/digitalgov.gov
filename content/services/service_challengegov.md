@@ -30,7 +30,7 @@ topics:
 
 ---
 
-{{< button href="https://www.challenge.gov/post-challenges/" text="Post a challenge on Challenge.gov" >}}
+{{< button href="https://challenge.gov/a/buzz/pages/about-us" text="Post a challenge on Challenge.gov" >}}
 
 ## **A Primer on Challenges & Prizes**
 
