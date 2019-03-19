@@ -1,12 +1,14 @@
 ---
 url: /communities/manage-your-subscription/
-uid: manage-your-subscription
-date: 2016-04-22 12:52:52 -0400
 title: 'Manage Your Listserv Subscription'
 summary: 'GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information.'
+
+weight: 0
+
 aliases:
   - /manage-your-listserv-subscription/
   - /communities/manage-your-listserv-subscription/
+
 ---
 
 GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information.
