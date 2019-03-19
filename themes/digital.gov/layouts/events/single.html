@@ -11,10 +11,6 @@
   <div class="event-head">
     <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
     <h1>{{ .Title | markdownify }}</h1>
-    {{ if .Params.deck }}
-    <h2 class="deck">{{ .Params.deck | markdownify }}</h2>
-    {{ end }}
-
     <div class="event-details">
 
       <span class="event-date">
@@ -34,10 +30,6 @@
       {{ partial "event-type.html" . }}
 
     </div>
-
-    {{- if .Params.host -}}
-    <p class="host">Hosted by {{ .Params.host }} and {{ .Params.event_organizer }}</p>
-    {{- end -}}
 
     {{ partial "event-actions.html" . }}
 
