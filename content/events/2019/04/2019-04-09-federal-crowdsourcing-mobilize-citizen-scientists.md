@@ -1,6 +1,7 @@
 ---
 slug: federal-crowdsourcing-mobilize-citizen-scientists
 title: 'Federal Crowdsourcing&#58; Mobilize Citizen Scientists'
+deck: 'How to use crowdsourcing to reach beyond your walls and source talent and enthusiasm.'
 summary: 'Join us for the first installment of GSA’s Federal Crowdsourcing Webinar Series, where we’ll look at how to use crowdsourcing to reach beyond your walls and source talent and enthusiasm&#46;'
 featured_image:
   uid:
