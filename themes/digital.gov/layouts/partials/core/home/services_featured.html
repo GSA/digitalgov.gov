@@ -11,12 +11,19 @@
       </div>
     </div>
     <div class="grid-row grid-gap-2">
+
+    {{/* Gets all service pages */}}
     {{ $services := (where .Site.Pages "Section" "services") }}
-    {{ $services := (where $services ".Params.weight" "ge" 2 )  }}
-    {{/* {{ $services := shuffle ($services) }} */}}
+
+    {{/* Gather only the pages with a weight greater than or equal to 2 */}}
+    {{ $services := (where $services ".Params.weight" "ge" 2) }}
+
+    {{/* Shuffle the pages (will happen on build) */}}
+    {{ $services := shuffle ($services) }}
 
     {{ with $services }}
 
+      {{/* Show the first 9 services */}}
       {{/* TODO — make the # shown on homepage a config variable */}}
       {{ range $i, $e := first 9 . }}
         <div class="grid-col-12 tablet:grid-col-4 flex-6">
@@ -37,7 +44,7 @@
     <div class="grid-row grid-gap-2">
       <div class="grid-col-12 tablet:grid-col-4 tablet:grid-offset-4">
         <footer>
-          <a class="btn" href="#">See all services »</a>
+          <a class="btn" href="{{ "/services/" | absURL }}">See all services »</a>
         </footer>
       </div>
     </div>
