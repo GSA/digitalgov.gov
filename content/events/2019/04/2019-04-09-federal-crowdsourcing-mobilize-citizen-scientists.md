@@ -37,8 +37,7 @@ And mark your calendars—upcoming events include:
 - **June 11:** The Opportunity Project, U.S. Census Bureau
 - **July 9:** Open Opportunities, Office of Personnel Management
 
-This talk is hosted by Challenge.gov.
 
-Challenge.gov is [INSERT PROGRAM INFO HERE].
+_This talk is hosted by [Challenge.gov](https://challenge.gov/). Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market and manage their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).  
