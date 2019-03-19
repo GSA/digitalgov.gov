@@ -13,13 +13,12 @@ event_organizer: DigitalGov University
 host: 'Digital.gov + TTS Research Guild'
 registration_url: https://www.eventbrite.com/e/dalia-el-shimy-on-mixed-methods-research-in-support-of-design-registration-56943695125
 youtube_id: G8j815ryxr0
-categories:
+topics:
   - design
-  - user-experience
+  - research
   - ux
-tag:
-  - user-experience
-  - user-experience-community-of-practice
+  - user-research
+  - methodology
 
 ---
 
