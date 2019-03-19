@@ -4,7 +4,7 @@ title: 'Federal Crowdsourcing&#58; Mobilize Citizen Scientists'
 deck: 'How to use crowdsourcing to reach beyond your walls and source talent and enthusiasm.'
 summary: 'Join us for the first installment of GSA’s Federal Crowdsourcing Webinar Series, where we’ll look at how to use crowdsourcing to reach beyond your walls and source talent and enthusiasm&#46;'
 featured_image:
-  uid:
+  uid: challenge-gov-logo
   alt: ''
 event_type:
   - zoom
@@ -24,6 +24,7 @@ The series launches with a look at the [Federal Community of Practice for Crowds
 
 Learn about resources produced by the community and available on[CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
 
+{{< img-right src="challenge-gov-logo" >}}
 
 Featured guests will overview the community, the resources it offers, examples of successful projects, and ways you can participate or collaborate. They will answers questions you may have. Confirmed speakers include:
 
