@@ -14,6 +14,11 @@ host: U.S. Data Federation
 registration_url: https://www.eventbrite.com/e/an-introduction-to-the-us-data-federation-registration-58856885529
 youtube_id: r4XUu2MLrDo
 
+topics:
+  - api
+  - data
+  - open-source
+
 ---
 
 {{< img-right src="data-federation-logo" >}}
