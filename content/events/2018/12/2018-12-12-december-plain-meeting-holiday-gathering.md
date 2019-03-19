@@ -20,9 +20,7 @@ venue:
   zip: 20405
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
-categories:
-  - writing
-tag:
+topics:
   - plain-language
   - plain-language-community-of-practice
 
