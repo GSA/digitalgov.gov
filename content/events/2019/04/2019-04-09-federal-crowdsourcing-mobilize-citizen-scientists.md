@@ -13,20 +13,19 @@ end_date: 2019-04-09 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-federal-community-of-practice-for-crowdsourcing-and-citizen-registration-58989187247
-youtube_id:
 
 ---
 
-Join us for the first installment of our Federal Crowdsourcing Webinar Series at the U.S. General Services Administration (GSA) to hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and to multiply the ideas and perspectives being brought to a particular issue.
+Join us for the first installment of our Federal Crowdsourcing Webinar Series at the U.S. General Services Administration (GSA) to hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and to multiply the ideas and perspectives on a given issue.
 
-The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FCPCCS), a grassroots community open to all federal practitioners working on, [funding](https://digital.gov/tag/crowdfunding/), or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
+The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FCPCCS), a grassroots community open to all federal practitioners who are working on, [funding](https://digital.gov/tag/crowdfunding/), or have an interest in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
 
 
-Learn about resources produced by the community and available on[CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
+Learn about resources produced by the community and available on [CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
 
 {{< img-right src="challenge-gov-logo" >}}
 
-Featured guests will overview the community, the resources it offers, examples of successful projects, and ways you can participate or collaborate. They will answers questions you may have. Confirmed speakers include:
+Featured guests will provide an overview of the community, the resources it offers, examples of successful projects, and ways you can participate or collaborate. They will also answer any questions you may have. Confirmed speakers include:
 
 - John McLaughlin, U.S. General Services Administration
 - Sophia B Liu, U.S. Geological Survey
