@@ -11,10 +11,12 @@
       </div>
     </div>
     <div class="grid-row grid-gap-2">
+    {{ $services := (where .Site.Pages "Section" "services") }}
+    {{ $services := (where $services ".Params.weight" "ge" 2 )  }}
+    {{/* {{ $services := shuffle ($services) }} */}}
 
-    {{ $services := (where .Site.Pages "Section" "services").ByTitle }}
-    {{ $services := shuffle ($services) }}
     {{ with $services }}
+
       {{/* TODO — make the # shown on homepage a config variable */}}
       {{ range $i, $e := first 9 . }}
         <div class="grid-col-12 tablet:grid-col-4 flex-6">
