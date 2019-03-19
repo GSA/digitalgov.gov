@@ -24,18 +24,22 @@
 
     <section>
       <div class="grid-container grid-container-desktop">
+        {{/* Gets all service pages */}}
         {{ $services := (where .Site.Pages "Section" "services").ByTitle }}
+
+        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+        {{ $services := (where $services ".Params.weight" "ge" 1) }}
+
         <div class="list-collection">
           <ul>
           {{ range $i, $e := $services }}
             {{ if $services }}
-              {{- if ge .Params.weight 1 -}}
-                <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.summary }} — {{ .Params.summary -}}{{- end -}}</li>
-              {{ end }}
+              <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.summary }} — {{ .Params.summary -}}{{- end -}}</li>
             {{ end }}
           {{ end }}
           </ul>
         </div>
+        
       </div>
     </section>
   </article>
