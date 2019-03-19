@@ -42,7 +42,7 @@
     h3{
       @include u-line-height('sans', 2);
       @include u-font('sans', 'md');
-      @include u-text('heavy');
+      @include u-text('bold');
     }
     p{
       @include u-margin-top(1);
