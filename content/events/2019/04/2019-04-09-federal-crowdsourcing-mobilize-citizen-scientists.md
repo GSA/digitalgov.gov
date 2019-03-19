@@ -23,8 +23,6 @@ The series launches with a look at the [Federal Community of Practice for Crowds
 
 Learn about resources produced by the community and available on [CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
 
-{{< img-right src="challenge-gov-logo" >}}
-
 Featured guests will provide an overview of the community, the resources it offers, examples of successful projects, and ways you can participate or collaborate. They will also answer any questions you may have. Confirmed speakers include:
 
 - John McLaughlin, U.S. General Services Administration
@@ -36,6 +34,7 @@ And mark your calendars—upcoming events include:
 - **June 11:** The Opportunity Project, U.S. Census Bureau
 - **July 9:** Open Opportunities, Office of Personnel Management
 
+{{< img-right src="challenge-gov-logo" >}}
 
 _This talk is hosted by [Challenge.gov](https://challenge.gov/). Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market and manage their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
