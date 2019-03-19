@@ -7,6 +7,8 @@ summary: 'We support people who are working to improve accessibility of informat
 topics:
   - accessibility
 
+weight: 2
+
 community_list:
   - type: "listserv"
     subscribe_email: section.508@gsa.gov

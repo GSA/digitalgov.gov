@@ -6,6 +6,7 @@ title: 'Plain Language'
 summary: 'Our goal is to promote the use of plain language for all government communications.'
 members: 889
 emails_per_week: 1.1
+weight: 2
 topics:
   - plainlanguage
 aliases:

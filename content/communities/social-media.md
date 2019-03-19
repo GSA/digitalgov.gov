@@ -6,6 +6,9 @@ title: 'Social Media'
 summary: 'We work on improving the creation, adoption and evaluation of social engagement in government.'
 members: 1072
 emails_per_week: 9.0
+
+weight: 2
+
 topics:
   - social-media
 # redirectto: https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov

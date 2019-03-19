@@ -6,6 +6,9 @@ title: 'APIs'
 members: 1351
 summary: 'Working to advance the cause of APIs in the federal government'
 deck: 'Working to advance the cause of APIs in the federal government'
+
+weight: 2
+
 topics:
   - apis
   - code

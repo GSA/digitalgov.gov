@@ -5,6 +5,9 @@ date: 2018-03-28 3:30:00 -0400
 title: 'Data Cabinet'
 summary: 'A community for data professionals across federal government to share proven best practices and critical insights.'
 deck: "A Federal Data Science Community of Practice"
+
+weight: 2
+
 topics:
   - data
   - open-data

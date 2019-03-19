@@ -9,6 +9,8 @@ emails_per_week: .69
 aliases:
   - /government-contact-center-council-g3c/
 
+weight: 2
+
 community_list:
   - type: "listserv"
     subscribe_email: tim.cossairt@tsa.dhs.gov

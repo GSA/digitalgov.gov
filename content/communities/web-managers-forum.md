@@ -4,6 +4,7 @@ uid: web-content-managers
 date: 2013-11-21 3:31:31 -0400
 title: 'Web Content Managers'
 summary: 'The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites.'
+weight: 2
 topics:
   - managing-digital
   - content-strategy

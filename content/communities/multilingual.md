@@ -5,6 +5,9 @@ date: 2014-02-21 4:58:10 -0400
 title: "Multilingual "
 summary: 'We are working to expand and improve digital content in languages other than English.'
 deck: 'We are working to expand and improve digital content in languages other than English.'
+
+weight: 2
+
 topics:
   - multilingual
 aliases:

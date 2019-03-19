@@ -6,7 +6,7 @@ title: 'Results-Oriented Accountability for Grants'
 summary: "Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal."
 members: 108
 emails_per_week: .5
-
+weight: 2
 community_list:
   - type: "listserv"
     name: "Federal Members"
