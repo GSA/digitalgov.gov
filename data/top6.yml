@@ -31,6 +31,9 @@
 
 top6:
 
+  - file          : '2019-03-18-deep-dive-on-top-health-data-technology-innovation-for-lyme-disease.md'
+    type          : 'post'
+
   - file          : '2019-03-13-go-beyond-coaching-mentorship-get-started-as-a-sponsor.md'
     type          : 'post'
 
@@ -44,7 +47,4 @@ top6:
     type          : 'post'
 
   - file          : '2019-02-14-introducing-2019-presidential-innovation-fellows.md'
-    type          : 'post'
-
-  - file          : '2018-12-20-designing-for-translation.md'
     type          : 'post'
