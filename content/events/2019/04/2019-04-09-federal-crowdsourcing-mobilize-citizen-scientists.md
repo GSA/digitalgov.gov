@@ -1,7 +1,6 @@
 ---
 slug: federal-crowdsourcing-mobilize-citizen-scientists
-title: 'Federal Crowdsourcing&#58; Mobilize Citizen Scientists'
-deck: 'How to use crowdsourcing to reach beyond your walls and source talent and enthusiasm.'
+title: 'Federal Crowdsourcing Webinar Series, Episode 1: Citizen Science'
 summary: 'Join us for the first installment of GSA’s Federal Crowdsourcing Webinar Series, where we’ll look at how to use crowdsourcing to reach beyond your walls and source talent and enthusiasm&#46;'
 featured_image:
   uid: challenge-gov-logo
@@ -16,23 +15,28 @@ registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-ser
 
 ---
 
-Join us for the first installment of our Federal Crowdsourcing Webinar Series at the U.S. General Services Administration (GSA) to hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and to multiply the ideas and perspectives on a given issue.
+Join us at 2 PM ET, April 9 for the first installment in GSA’s Federal Crowdsourcing Webinar Series to hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and multiply the ideas and perspectives being brought to a particular issue.
 
-The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FCPCCS), a grassroots community open to all federal practitioners who are working on, [funding](https://digital.gov/tag/crowdfunding/), or have an interest in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
-
+The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, [funding](https://digital.gov/tag/crowdfunding/), or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
 
 Learn about resources produced by the community and available on [CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
 
-Featured guests will provide an overview of the community, the resources it offers, examples of successful projects, and ways you can participate or collaborate. They will also answer any questions you may have. Confirmed speakers include:
+This episode will also feature examples of hazard-related citizen science projects at the U.S. Geological Survey (USGS) and disaster-related crowdsourcing activities at the Federal Emergency Management Agency (FEMA) Crowdsourcing Unit.
 
-- John McLaughlin, U.S. General Services Administration
-- Sophia B Liu, U.S. Geological Survey
+**Featured Guests from FedCCS:**
 
-And mark your calendars—upcoming events include:
+- John McLaughlin, CitizenScience.gov Program Manager, U.S. General Services Administration
+- Sophia B Liu, Innovation Specialist, Crowdsourcing and Citizen Science Coordinator, U.S. Geological Survey; Co-Chair of FedCCS
+
+This webinar will take place on Zoom and a link will be shared before the event.
+
+### Upcoming episodes in the Federal Crowdsourcing Webinar Series include:
 
 - **May 14:** Challenge.gov, General Services Administration
 - **June 11:** The Opportunity Project, U.S. Census Bureau
 - **July 9:** Open Opportunities, Office of Personnel Management
+
+---
 
 {{< img-right src="challenge-gov-logo" >}}
 
