@@ -35,10 +35,6 @@
 
     </div>
 
-    {{- if .Params.host -}}
-    <p class="host">Hosted by {{ .Params.host }} and {{ .Params.event_organizer }}</p>
-    {{- end -}}
-
     {{ partial "event-actions.html" . }}
 
   </div>
