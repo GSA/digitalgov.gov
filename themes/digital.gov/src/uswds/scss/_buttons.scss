@@ -12,6 +12,7 @@ p.more {
 
 a.btn{
 	@include u-padding-y('105');
+	@include u-padding-bottom(2);
 	@include u-padding-x(3);
 	@include u-width('card-lg');
 	@include u-display('inline-block');
@@ -21,4 +22,11 @@ a.btn{
 	@include u-text('no-underline');
 	@include u-radius('md');
 	@include u-bg('indigo-60v');
+	i{
+		@include u-margin-left('05');
+	}
+	transition: background-color .2s, border-color .2s;
+	&:hover{
+		@include u-bg('indigo-70');
+	}
 }

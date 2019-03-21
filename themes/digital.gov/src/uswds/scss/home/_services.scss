@@ -58,6 +58,9 @@
     @include u-text('center');
     .btn{
       @include u-bg('indigo-cool-40v');
+      &:hover{
+        @include u-bg('indigo-cool-50');
+      }
     }
   }
 }
