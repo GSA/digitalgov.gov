@@ -1,5 +1,9 @@
 
 .stream{
+	h2{
+		@include u-font('sans', 'xl');
+		@include u-text('bold');
+	}
 	article.card:first-child{
 		@include u-margin-top(0);
 	}
