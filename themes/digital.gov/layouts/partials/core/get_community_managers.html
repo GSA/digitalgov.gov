@@ -36,7 +36,7 @@
             {{- if $author.github -}}
             <img class="circle-5" src="https://github.com/{{- $author.github -}}.png?size=50" alt="Photo: {{ $author.display_name | default $uid -}}">
             {{- else -}}
-            <img class="circle-10" src="{{- "img/digit-light.png" | absURL -}}" alt="Photo: {{ $author.display_name | default $uid -}}">
+            <img class="circle-5" src="{{- "img/digit-light.png" | absURL -}}" alt="Photo: {{ $author.display_name | default $uid -}}">
             {{- end -}}
           </div>
         </div>
