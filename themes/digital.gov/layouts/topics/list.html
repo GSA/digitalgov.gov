@@ -40,7 +40,7 @@
           {{- $pages := (where .Paginator.Pages "Section" "posts") -}}
           {{/* If there are any blog posts at all... */}}
           {{- if $pages -}}
-            <h2>Related news & blog posts</h2>
+            <h2>News and updates about {{ .Title -}}</h2>
             <p>{{- len $allpages }} posts</p>
 
             {{/* Loop through all the pages */}}
