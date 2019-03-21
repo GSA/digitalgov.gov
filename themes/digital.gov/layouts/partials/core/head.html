@@ -93,16 +93,24 @@
   <!-- Bing Validation -->
   <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
 
-  {{ if $.Params.canonical }}
-  {{ "<!-- Canonical URL =============== -->" | safeHTML }}
+  {{ if $.Params.canonical -}}
+  {{- "<!-- Canonical URL =============== -->" | safeHTML -}}
   <link rel="canonical" href="{{ $.Params.canonical }}" />
   {{ end }}
 
-  {{ if $.Params.redirectto }}
-  {{ "<!-- Redirect =============== -->" | safeHTML }}
-  <meta http-equiv="refresh" content="0; url=$.Params.redirectto">
+  {{- if $.Params.redirectto -}}
+  {{- "<!-- Redirect =============== -->" | safeHTML -}}
+  <meta http-equiv="refresh" content="0; url={{ $.Params.redirectto }}">
   <script type="text/javascript">
     window.location.href = "{{ $.Params.redirectto }}"
+  </script>
+  {{- end -}}
+
+  {{- if $.Params.src -}}
+  {{- "<!-- Redirect =============== -->" | safeHTML }}
+  <meta http-equiv="refresh" content="0; url={{ $.Params.src }}">
+  <script type="text/javascript">
+    window.location.href = "{{ $.Params.src }}?dg"
   </script>
   {{ end }}
 
