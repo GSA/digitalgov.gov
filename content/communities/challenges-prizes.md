@@ -19,9 +19,11 @@ community_list:
     subscribe_email: team@challenge.gov
     subject: "Join Challenges"
     body: "your name + agency you work for"
+
 community_managers:
-  - logan-powell
-  - bbrantley
+  - tammy-white
+  - eric-beidel
+  - stephanie-green
 
 ---
 
