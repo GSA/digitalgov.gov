@@ -2,6 +2,9 @@
 
 <main aria-label="Content" role="main" id="home">
 
+  {{/* Tag Line */}}
+  {{- partialCached "core/tag-line" . -}}
+
   {{/* Search */}}
   {{- partialCached "core/search-bar" . -}}
 

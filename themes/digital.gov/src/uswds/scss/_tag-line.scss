@@ -1,0 +1,10 @@
+.tag-line{
+	h3{
+		@include u-margin(0);
+		@include u-margin-bottom(2);
+		@include u-font('sans', '2xl');
+		@include u-text('thin');
+		@include u-text('center');
+		@include u-text('indigo-warm-80');
+	}
+}
