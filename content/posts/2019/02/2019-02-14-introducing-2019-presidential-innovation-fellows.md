@@ -6,9 +6,8 @@ deck: 'We are excited to announce our 2019 Presidential Innovation Fellows &#40;
 summary: 'We are excited to announce our 2019 Presidential Innovation Fellows &#40;PIF&#41; who have begun their “tour of duty” in American tech&#46;'
 authors:
   - davar-ardalan
-categories:
+topics:
   - managing-digital
-tag:
   - gsa
   - innovation
   - pif

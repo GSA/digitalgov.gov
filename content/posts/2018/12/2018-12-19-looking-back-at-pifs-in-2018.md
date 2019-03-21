@@ -11,11 +11,9 @@ authors:
   - nina-bianchi
   - steven-babitch
   - zach-goldfine
-categories:
-  - innovation
 topics:
-  - gsa
   - innovation
+  - gsa
   - pif
   - presidential-innovation-fellows
   - tts

@@ -10,9 +10,8 @@ authors:
   - justin-koufopoulos
   - clara-tsao
   - stephen-winchell
-categories:
+topics:
   - managing-digital
-tag:
   - pif
   - presidential-innovation-fellows
 featured_image:
