@@ -15,7 +15,7 @@
     <h3>Community Manager</h3>
   {{ end }}
 
-  <div class="authors">
+  <div class="authors-list">
 
     {{/* Count the number of authors */}}
     {{- $length := $_authors | len -}}
@@ -34,9 +34,9 @@
         <div class="grid-col-auto">
           <div class="photo height-5 width-5 display-flex flex-align-center flex-justify-center">
             {{- if $author.github -}}
-            <img class="circle-5" src="https://github.com/{{- $author.github -}}.png?size=50" alt="">
+            <img class="circle-5" src="https://github.com/{{- $author.github -}}.png?size=50" alt="Photo: {{ $author.display_name | default $uid -}}">
             {{- else -}}
-            <img class="circle-5" src="http://placekitten.com/100/100" alt="">
+            <img class="circle-10" src="{{- "img/digit-light.png" | absURL -}}" alt="Photo: {{ $author.display_name | default $uid -}}">
             {{- end -}}
           </div>
         </div>

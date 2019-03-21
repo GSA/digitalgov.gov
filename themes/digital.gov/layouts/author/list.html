@@ -16,7 +16,7 @@
             {{- if $person.github -}}
             <img class="profile" src="https://github.com/{{- $person.github -}}.png?size=100" srcset="https://www.github.com/{{-  $person.github -}}.png?size=200" alt="Photo: {{- $person_name -}}">
             {{- else -}}
-            <img class="profile" src="http://placekitten.com/200/200" alt="">
+            <img class="profile" src="{{- "img/digit-light.png" | absURL -}}" alt="Photo: {{- $person_name -}}">
             {{- end -}}
             <div>
               {{/* Name */}}
