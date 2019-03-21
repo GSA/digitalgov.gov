@@ -1,10 +1,10 @@
 // News + Spotlight
 
 #home #news {
-  @include u-padding-y(4);
-  @include u-padding-bottom(5);
+  @include u-padding-bottom(2);
   @include u-bg('gray-warm-3');
   header{
+    @include u-padding-y(4);
     @include u-margin-bottom(4);
     color: #000;
     h2{
@@ -28,5 +28,9 @@
       @include u-font('sans', 'lg');
       @include u-line-height('sans', 3);
     }
+  }
+  footer{
+    @include u-padding-y(4);
+    @include u-text('center');
   }
 }
