@@ -19,6 +19,7 @@ a.btn{
 	@include u-font('sans', 'lg');
 	@include u-color('white');
 	@include u-text('medium');
+	@include u-text('center');
 	@include u-text('no-underline');
 	@include u-radius('md');
 	@include u-bg('indigo-60v');
@@ -29,4 +30,80 @@ a.btn{
 	&:hover{
 		@include u-bg('indigo-70');
 	}
+}
+
+
+.actions{
+  @include u-margin-bottom(3);
+  @include u-display('flex');
+  .btn{
+    @include u-radius(0);
+    @include u-width('auto');
+    @include u-font('sans', 'md');
+    @include u-padding-x(4);
+  }
+  .btn-register{
+    @include u-text('light');
+    @include u-text('uppercase');
+  }
+	.btn-details{
+    @include u-bg('indigo-70');
+  }
+  .addtocalendar{
+    @include u-display('inline-block');
+    var{
+      @include u-display('none');
+    }
+    a{
+      @include u-padding-x(4);
+      @include u-padding-y('105');
+      @include u-padding-bottom(2);
+      @include u-bg('indigo-80');
+      @include u-display('inline-block');
+      @include u-text('white');
+      @include u-text('no-underline');
+      @include u-text('center');
+      @include u-font('sans', 'md');
+      @include u-text('light');
+    }
+    ul{
+      border: none;
+      width: 160px;
+      box-shadow: 0 0 5px #AAA;
+      @include u-padding(0);
+      li{
+        @include u-margin(0);
+        @include u-text('indigo-90');
+        background: none;
+        list-style-type: none;
+        a{
+          @include u-padding-y(1);
+          @include u-padding-x(2);
+          @include u-text('indigo-80');
+          @include u-text('normal');
+          @include u-font('sans', 'xs');
+          @include u-bg('indigo-10');
+          &:hover{
+            @include u-bg('indigo-50');
+            @include u-text('gray-1');
+          }
+        }
+      }
+    }
+  }
+}
+
+.actions-stacked{
+  @include u-display('block');
+  .btn{
+    @include u-display('block');
+    @include u-padding-x(1);
+  }
+  .addtocalendar {
+    @include u-display('block');
+    a{
+      @include u-display('block');
+      @include u-padding-x(1);
+    }
+  }
 }

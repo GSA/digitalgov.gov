@@ -32,6 +32,11 @@
       @include u-text('light');
       @include u-measure(2);
     }
+    .actions{
+      .btn{
+
+      }
+    }
   }
   .event-past{
 
@@ -39,70 +44,6 @@
 }
 
 .event{
-  .actions{
-    @include u-margin-bottom(3);
-    .btn{
-      @include u-text('center');
-      @include u-font('sans', 'md');
-      @include u-text('light');
-      @include u-bg('indigo-warm-70');
-      @include u-text('gray-1');
-      @include u-display('block');
-      @include u-padding-y('105');
-      @include u-text('no-underline');
-      &:hover{
-        @include u-bg('indigo-warm-80');
-      }
-    }
-    .register{
-      @include u-bg('indigo-warm-50v');
-      @include u-text('gray-1');
-      @include u-text('uppercase');
-      &:hover{
-        @include u-bg('indigo-warm-60v');
-      }
-    }
-    .addtocalendar{
-      @include u-display('block');
-      var{
-        @include u-display('none');
-      }
-      a{
-        @include u-bg('indigo-80');
-        @include u-display('block');
-        @include u-padding-y('105');
-        @include u-text('gray-1');
-        @include u-text('no-underline');
-        @include u-text('center');
-        @include u-font('sans', 'md');
-        @include u-text('light');
-      }
-      ul{
-      	border: none;
-        width: 160px;
-      	box-shadow: 0 0 5px #AAA;
-        @include u-padding(0);
-        li{
-          @include u-margin(0);
-          @include u-text('indigo-90');
-          background: none;
-        	list-style-type: none;
-          a{
-            @include u-padding-y(1);
-            @include u-padding-x(2);
-          	@include u-text('indigo-80');
-          	@include u-text('normal');
-          	@include u-font('sans', 'xs');
-            @include u-bg('indigo-10');
-            &:hover{
-            	@include u-bg('indigo-50');
-            	@include u-text('gray-1');
-            }
-          }
-        }
-      }
-    }
-  }
   .stage{
     @include u-margin-bottom(5);
     @include u-bg('gray-warm-5');

@@ -40,14 +40,13 @@
     {{/* EVENT Actions — REGISTER and Add to Calendar */}}
     {{/* If is a Future Event */}}
     {{- if eq $future_event true -}}
-    <section class="actions">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-2">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <div class="actions">
             {{/* Register */}}
-            <a class="btn register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
-          </div>
-          <div class="grid-col-2">
+            <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+
             <span class="addtocalendar">
               <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
               <var class="atc_event">
@@ -64,7 +63,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </div>
     {{- end -}}
 
 
@@ -111,9 +110,9 @@
             {{- if eq .Params.event_platform "zoom" -}}
             {{- else -}}
               {{- if eq $future_event true -}}
-              <div class="actions">
+              <div class="actions actions-stacked">
                 {{/* Register */}}
-                <a class="btn register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+                <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
 
                 <span class="addtocalendar">
                   <a class="atcb-link" title="Add to calendar"><i class="far fa-calendar-plus"></i> Add to Cal</a>
