@@ -23,6 +23,10 @@
           <a class="source" href="{{- .Params.source_url -}}" title="Read at {{- $source.Params.name -}}"><em>{{ $url.Scheme -}}://{{ $url.Host -}}/ <i class="fas fa-external-link-square-alt"></i></em></a>
         {{ end }}
       </p>
+      {{- if $source -}}
+        {{ $url := urls.Parse .Params.source_url }}
+        <p class="domain">via <a class="source" href="{{- $source.Params.domain -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></p>
+      {{ end }}
 
     </div>
   </div>
