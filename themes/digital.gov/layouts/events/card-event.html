@@ -11,15 +11,9 @@
     </div>
 
     <div class="grid-col-12 tablet:grid-col-4">
-      <div class="actions">
-        <div class="grid-row">
-          <div class="grid-col-6">
-            <a class="register btn" href="#">Register</a>
-          </div>
-          <div class="grid-col-6">
-            <a class="btn" href="#">Details</a>
-          </div>
-        </div>
+      <div class="actions flex-align-stretch">
+        <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+        <a class="btn btn-details" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Details</a>
       </div>
     </div>
 

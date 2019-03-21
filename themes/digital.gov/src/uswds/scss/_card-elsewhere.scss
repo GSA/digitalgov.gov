@@ -3,10 +3,22 @@ article.card-elsewhere{
 		@include u-margin-top('05');
 		@include u-margin-right('105');
 		@include u-width(7);
+		img{
+			@include u-shadow(2);
+		}
 	}
 	.content{
 		a{
 			@include u-color('blue-50v');
+		}
+	}
+	.domain{
+		@include u-margin-top('05');
+		@include u-font('sans', '2xs');
+		@include u-color('gray-60');
+		@include u-text('italic');
+		a{
+			@include u-color('gray-60');
 		}
 	}
 }
