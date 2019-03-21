@@ -15,6 +15,10 @@
             {{- if .Params.summary -}}
             <div class="deck">{{- .Params.summary | markdownify -}}</div>
             {{- end -}}
+
+            {{- if .Params.src -}}
+            <p><a href="{{- .Params.src -}}" title="Go to: {{- .Title | markdownify -}}">{{- .Params.src -}}</a> </p>
+            {{- end -}}
           </div>
         </div>
       </div>
