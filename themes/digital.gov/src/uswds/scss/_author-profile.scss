@@ -1,4 +1,4 @@
-.person{
+.author-profile{
 	img.profile{
 		@include u-margin-right('105');
 		@include u-circle(10);
@@ -27,4 +27,8 @@
 			}
 		}
 	}
+	footer{
+    @include u-padding-y(4);
+    @include u-text('center');
+  }
 }

@@ -1,9 +1,9 @@
 {{ define "content" }}
 <main role="main">
-  <section class="person">
+  <section class="author-profile">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-6">
-        <div class="grid-col-12 tablet-lg:grid-col-5">
+        <div class="grid-col-12">
           <header>
             {{ $slug := .Title | urlize }}
             {{ $person := index $.Site.Data.people.authors $slug }}
@@ -65,34 +65,51 @@
             </div>
           </header>
         </div>
-        <div class="grid-col-12 tablet-lg:grid-col-7">
-          <section class="article-list">
+      </div>
+    </div>
+  </section>
 
+  <section id="news">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12 ">
+          <section class="stream">
             {{/* Blog Posts by Author —
             List all of the blog posts by this author */}}
             {{ $pages := (where .Paginator.Pages "Section" "posts") }}
             {{/* If there are any pages/posts at all... */}}
             {{ if $pages }}
-              <h3>News and resources from across our community</h3>
+              <h2>Recent blog posts from {{ $person_name }}</h2>
               {{/* Loop through all the pages */}}
               {{ range $pages }}
 
                 {{/* External links */}}
                 {{- if .Params.source -}}
+                  {{/* see /layouts/posts/ for card templates */}}
                   {{ .Render "card-elsewhere"}}
                 {{ else }}
                   {{/* Blog Posts — Internal links */}}
                   {{- if .Params.deck }}
+                    {{/* see /layouts/posts/ for card templates */}}
                     {{ .Render "card-article"}}
                   {{ else }}
+                    {{/* see /layouts/posts/ for card templates */}}
                     {{ .Render "card-article"}}
                   {{ end }}
                 {{ end }}
 
               {{ end }}
             {{ end }}
+          </div>
+        </div>
+      </div>
 
-          </section>
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <footer>
+            <a class="btn" href="{{ "posts" | absURL }}" title="">See all News <i class="fas fa-arrow-circle-right"></i></a>
+            <p>Have a case study to share? Did your team recently launch something?<br/><a href="mailto:digitalgov@gsa.gov" title=""><strong>Send us an email</strong></a></p>
+          </footer>
         </div>
       </div>
     </div>
