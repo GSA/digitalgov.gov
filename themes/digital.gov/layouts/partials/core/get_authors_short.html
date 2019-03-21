@@ -26,7 +26,8 @@
       {{- if $author.github -}}
       <img class="circle-5" src="https://github.com/{{- $author.github -}}.png?size=50" alt="">
       {{- else -}}
-      <img class="circle-5" src="{{- "img/digit-light.png" | absURL -}}" alt="">
+      {{- $default_profile := print "img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
+      <img class="circle-5" src="{{- $default_profile | absURL -}}" alt="">
       {{- end -}}
       <span>{{- $author.display_name | default $uid -}}</span>
     </a>{{ if lt (add $i 1) $length }}<!--,--> {{ end }}
