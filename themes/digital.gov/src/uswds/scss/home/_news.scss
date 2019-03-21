@@ -5,8 +5,8 @@
   @include u-bg('gray-warm-3');
   header{
     @include u-padding-y(4);
-    @include u-margin-bottom(4);
-    color: #000;
+    @include u-margin-bottom(2);
+    @include u-color('black');
     h2{
       @include u-margin-y(1);
       @include u-font('sans', '3xl');
@@ -15,7 +15,7 @@
       @include u-line-height('sans', 2);
       a{
         @include u-text('no-underline');
-        color: #000;
+        @include u-color('black');
         &:hover{
           border-bottom: 2px #914734 solid; // $indigo-40
         }
