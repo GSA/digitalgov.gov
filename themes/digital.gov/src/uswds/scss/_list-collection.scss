@@ -28,7 +28,9 @@
     @include u-padding-left(2);
     li{
       @include u-margin-bottom(1);
+      @include u-maxw('tablet');
       @include u-font('sans', 'md');
+      @include u-line-height('sans', 3);
       img{
         @include u-margin-left('05');
         @include u-width('205');
