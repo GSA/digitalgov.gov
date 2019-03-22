@@ -24,6 +24,7 @@ topics:
   - digital-analytics-program
 
 ---
+_[View the slides from this presentation](https://digital.gov/pdf/sessions-unique-page-views.pdf)._
 
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3946624&CustomerID=321)._
 

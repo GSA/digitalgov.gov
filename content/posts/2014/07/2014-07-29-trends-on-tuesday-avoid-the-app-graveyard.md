@@ -11,15 +11,17 @@ topics:
   - ux
   - federal user experience community
   - mobile
+  - user-experience-community-of-practice
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-2
   - mobile-ux-guideline-4
   - trends-on-tuesday
   - user-experience
+
 ---
 
-[{{< legacy-img src="2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg" alt="Old Cemeteries Tombstone Closeups" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg) 
+[{{< legacy-img src="2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg" alt="Old Cemeteries Tombstone Closeups" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg)
 
 Apps that are downloaded, used a few times and then never used again, are considered part of the “app graveyard.” In fact, 95% of apps are discarded within a month of download by users, according to Smashing Magazine. By focusing on creating a great user experience, you can make sure your agency apps are used consistently and don’t end up in the app graveyard.
 

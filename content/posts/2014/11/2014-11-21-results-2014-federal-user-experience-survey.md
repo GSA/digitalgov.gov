@@ -13,9 +13,9 @@ topics:
   - user-testing-and-research
   - ux
   - AoI
-  - BLS
-  - federal user experience community
-  - US Bureau of Labor Statistics
+  - bls
+  - user-experience-community-of-practice
+  - us-bureau-of-labor-statistics
   - usability
   - user-experience
   - ux
