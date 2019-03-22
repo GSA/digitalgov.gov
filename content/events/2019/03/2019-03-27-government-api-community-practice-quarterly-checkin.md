@@ -11,7 +11,7 @@ event_type:
 date: 2019-03-27 15:00:00 -0500
 end_date: 2019-03-27 16:30:00 -0500
 event_organizer: DigitalGov University
-host: 
+host: APIs Community of Practice
 registration_url: https://www.eventbrite.com/e/government-api-community-of-practice-quarterly-check-in-registration-59198623677
 venue: 
   venue_name: U.S. General Services Administration
@@ -48,3 +48,5 @@ This afternoon event is an opportunity for API practitioners from across federal
 
 In person: GSA Headquarters - Room 3211  
 Virtual:  Will send to registrants
+
+[Learn more about the APIs community of practice]({{< link "communities/apis.md" >}} »)
