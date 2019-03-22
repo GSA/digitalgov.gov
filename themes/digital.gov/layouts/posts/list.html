@@ -19,27 +19,45 @@
         <div class="grid-col-12 tablet:grid-col-8 tablet-lg:grid-col-9">
           {{/* Blog Posts by Topic —
           List all of the blog posts tagged with this topic */}}
-          {{ $pages := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "posts") }}
 
-          {{/* If there are any resources at all... */}}
-          {{ if $pages }}
+          {{/* Gets the past events */}}
+          {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+
+          {{/* Gets the recent blog posts */}}
+          {{- $posts := where .Paginator.Pages "Section" "posts" -}}
+
+          {{/* Merges the past events and the recent blog posts */}}
+          {{ $stream := union $posts $past_events }}
+
+          {{/* Sorting all the items by date and reverse chron */}}
+          {{ $stream := $stream.ByDate.Reverse }}
+
+          {{/* If there are any items at all... */}}
+          {{ if $stream }}
 
             {{/* Loop through all the pages */}}
-            {{ range $pages.Pages }}
+            {{ range $stream }}
 
-              {{/* This file is located in /layouts/posts/article-card.html */}}
+              {{- if eq .Type "events" -}}
+                {{- .Render "card-event-past" -}}
+              {{- end -}}
 
-              {{/* External links */}}
-              {{- if .Params.source -}}
-                {{ .Render "card-elsewhere"}}
-              {{ else }}
-                {{/* Blog Posts — Internal links */}}
-                {{- if .Params.deck }}
-                  {{ .Render "card-article"}}
+              {{- if eq .Type "posts" -}}
+                {{/* External links */}}
+                {{- if .Params.source -}}
+                  {{/* see /layouts/posts/ for card templates */}}
+                  {{ .Render "card-elsewhere"}}
                 {{ else }}
-                  {{ .Render "card-article"}}
+                  {{/* Blog Posts — Internal links */}}
+                  {{- if .Params.deck }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ else }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ end }}
                 {{ end }}
-              {{ end }}
+              {{- end -}}
 
             {{ end }}
           {{ end }}

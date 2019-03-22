@@ -16,23 +16,42 @@
       <div class="grid-col-12">
 
         <section class="stream">
-          {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
-          {{- range first 8 $posts -}}
 
-            {{/* External links */}}
-            {{- if .Params.source -}}
-              {{/* see /layouts/posts/ for card templates */}}
-              {{ .Render "card-elsewhere"}}
-            {{ else }}
-              {{/* Blog Posts — Internal links */}}
-              {{- if .Params.deck }}
+          {{/* Gets the past events */}}
+          {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+
+          {{/* Gets the recent blog posts */}}
+          {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
+
+          {{/* Merges the past events and the recent blog posts */}}
+          {{ $stream := union $posts $past_events }}
+
+          {{/* Sorting all the items by date and reverse chron */}}
+          {{ $stream := $stream.ByDate.Reverse }}
+
+          {{/* Gets the first 8 items */}}
+          {{- range first 8 $stream -}}
+
+            {{- if eq .Type "events" -}}
+              {{- .Render "card-event-past" -}}
+            {{- end -}}
+
+            {{- if eq .Type "posts" -}}
+              {{/* External links */}}
+              {{- if .Params.source -}}
                 {{/* see /layouts/posts/ for card templates */}}
-                {{ .Render "card-article"}}
+                {{ .Render "card-elsewhere"}}
               {{ else }}
-                {{/* see /layouts/posts/ for card templates */}}
-                {{ .Render "card-article"}}
+                {{/* Blog Posts — Internal links */}}
+                {{- if .Params.deck }}
+                  {{/* see /layouts/posts/ for card templates */}}
+                  {{ .Render "card-article"}}
+                {{ else }}
+                  {{/* see /layouts/posts/ for card templates */}}
+                  {{ .Render "card-article"}}
+                {{ end }}
               {{ end }}
-            {{ end }}
+            {{- end -}}
 
           {{- end -}}
         </section>

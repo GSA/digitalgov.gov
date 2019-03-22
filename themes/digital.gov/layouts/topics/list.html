@@ -36,27 +36,48 @@
 
           <div class="stream">
           {{/* Blog Posts by Topic —
-          List all of the blog posts tagged with this topic */}}
-          {{- $pages := (where .Paginator.Pages "Section" "posts") -}}
+          List all of the blog posts and events tagged with this topic */}}
+
+          {{/* Gets the past events */}}
+          {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+
+          {{/* Gets the recent blog posts */}}
+          {{- $posts := where .Paginator.Pages "Section" "posts" -}}
+
+          {{/* Merges the past events and the recent blog posts */}}
+          {{ $stream := union $posts $past_events }}
+
+          {{/* Sorting all the items by date and reverse chron */}}
+          {{ $stream := $stream.ByDate.Reverse }}
+
           {{/* If there are any blog posts at all... */}}
-          {{- if $pages -}}
+          {{- if $stream -}}
             <h2>News and updates about {{ .Title -}}</h2>
             <p>{{- len $allpages }} posts</p>
 
             {{/* Loop through all the pages */}}
-            {{- range $pages -}}
+            {{- range $stream -}}
 
-              {{/* External links */}}
-              {{- if .Params.source -}}
-                {{ .Render "card-elsewhere"}}
-              {{ else }}
-                {{/* Blog Posts — Internal links */}}
-                {{- if .Params.deck }}
-                  {{ .Render "card-article"}}
+              {{- if eq .Type "events" -}}
+                {{- .Render "card-event-past" -}}
+              {{- end -}}
+
+              {{- if eq .Type "posts" -}}
+                {{/* External links */}}
+                {{- if .Params.source -}}
+                  {{/* see /layouts/posts/ for card templates */}}
+                  {{ .Render "card-elsewhere"}}
                 {{ else }}
-                  {{ .Render "card-article"}}
+                  {{/* Blog Posts — Internal links */}}
+                  {{- if .Params.deck }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ else }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ end }}
                 {{ end }}
-              {{ end }}
+              {{- end -}}
 
             {{- end -}}
           {{- end -}}
