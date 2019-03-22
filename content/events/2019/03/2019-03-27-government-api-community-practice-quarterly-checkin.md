@@ -37,7 +37,7 @@ This afternoon event is an opportunity for API practitioners from across federal
 3:00pm - Welcome and Introductions   
 3:10pm - Review of newly launched APIs and Developer Hubs | [suggest some here](https://github.com/18F/wg-api/issues/13))  
 3:20pm - Review of relevant news | [suggest some here](https://github.com/18F/wg-api/issues/14))  
-3:30pm - Agency Presentation 1 (TBA)  
+3:30pm - Agency Presentation 1 (FEC)  
 3:45pm - Agency Presentation 2 (TBA)  
 4:00pm - Requests for Help   
 4:10pm - Proposals and discussion for best practices and norms to adopt  
