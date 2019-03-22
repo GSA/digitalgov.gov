@@ -6,17 +6,17 @@ summary: 'In honor of World Usability Day, which happened on November 12, we’d
 authors:
   - rflagg
 categories:
-  - Monthly Theme
-  - UX
+  - monthly-theme
+  - ux
 tag:
   - 18F
-  - Customer Experience
-  - Customer Experience Community of Practice
-  - CX
-  - federal user experience community
-  - usability starter kit
-  - user experience
-  - UX
+  - customer-experience
+  - customer-experience-community-of-practice
+  - cx
+  - user-experience-community-of-practice
+  - usability-starter-kit
+  - user-experience
+  - ux
 ---
 
 In honor of [World Usability Day](http://www.worldusabilityday.org/), which happened on November 12, we’d like to demystify two extremely important and oft-confusing acronyms—CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery.
@@ -29,7 +29,7 @@ In honor of [World Usability Day](http://www.worldusabilityday.org/), which happ
       * Issuing a [Cross-Agency Priority (CAP) Goal](http://www.performance.gov/node/3400/view?view=public#overview) to deliver world-class customer services to citizens by making it faster and easier for individuals and businesses to complete transactions and have a positive experience with government;
       * Standing up a new [Social and Behavioral Sciences Team](https://sbst.gov/) to translate findings and methods from the social and behavioral sciences into improvements in federal policies and programs;
       * Creating the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service) to use the best of product design and engineering practices to transform the way government works.
-  * Though the DigitalGov UX program (and its roots as the First Fridays Usability Program) has sadly gone away, [GSA’s 18F team](https://18f.gsa.gov/) is helping agencies adopt agile design and testing methods to speed delivery and improve customer interactions with government. (The program may have ended, but the [usability case studies]({{< link "government-usability-case-studies.md" >}}) and [Usability Starter Kit]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}) are still very much alive!)
+  * Though the DigitalGov UX program (and its roots as the First Fridays Usability Program) has sadly gone away, [GSA’s 18F team](https://18f.gsa.gov/) is helping agencies adopt [agile](https://digital.gov/tag/agile/) design and testing methods to speed delivery and improve customer interactions with government. (The program may have ended, but the [usability case studies]({{< link "government-usability-case-studies.md" >}}) and [Usability Starter Kit]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}) are still very much alive!)
   * Finally, the government UX and CX communities continue to grow. The UX community now has almost 800 people, and the CX community has grown to over 500 members since it launched in April 2015.
 
 ## Exploring the Terms
@@ -60,4 +60,6 @@ CX and UX are everywhere in government now. However you define them, agencies ar
   * Read through the [Usability Starter Kit]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and contribute a case study or resource
   * A CX Toolkit is also in development; look for it in December 2015.
 
-How has your agency embraced CX and UX? Tell us in the comments._Thanks to members of the [UX]({{< link "user-experience.md" >}}) and [CX]({{< link "customer-experience-community.md" >}}) communities for their contributions to this article._
+How has your agency embraced CX and UX? Tell us in the comments. 
+
+_Thanks to members of the [UX]({{< link "user-experience.md" >}}) and [CX]({{< link "customer-experience-community.md" >}}) communities for their contributions to this article._
