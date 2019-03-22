@@ -1,6 +1,7 @@
 ---
 slug: understanding-sessions-vs-unique-pageviews
 title: 'DAP Learning Series: Understanding When to Use Sessions vs&#46; Unique Pageviews'
+deck: 'Understanding When to Use Sessions vs&#46; Unique Pageviews'
 summary: 'In this webinar, Freddie Blicher, an analyst for the Digial Analytics Program, will discuss how to think about sessions and unique pageviews in reporting and content analysis&#46;'
 featured_image:
   uid:

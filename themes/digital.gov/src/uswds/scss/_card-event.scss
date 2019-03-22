@@ -1,0 +1,45 @@
+article.card{
+	@include u-margin-bottom(0);
+	@include u-padding-y(4);
+	@include u-border-bottom('gray-40', 'solid', '1px');
+	h3{
+		@include u-font('sans', 'lg');
+		@include u-text('bold');
+		a{
+			@include u-color('black');
+			@include u-text('no-underline');
+		}
+	}
+	.deck{
+		@include u-margin-top(1);
+		@include u-font('sans', 'md');
+		@include u-text('light');
+	}
+	.meta{
+		@include u-margin-top(1);
+		.topics{
+			@include u-margin-y(0);
+			@include u-font('sans', '3xs');
+		}
+		.clicks{
+			@include u-margin-right(1);
+			@include u-padding-x('05');
+			@include u-font('sans', 'xs');
+			@include u-display('inline-block');
+			@include u-text('gold-40v');
+			i{
+				@include u-text('gold-30v');
+			}
+		}
+	}
+	.entry-featured img {
+		filter: grayscale(75%);
+		transition: filter .2s;
+	}
+
+	&:hover{
+		.entry-featured img {
+			filter: grayscale(0%);
+		}
+	}
+}

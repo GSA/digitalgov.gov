@@ -1,4 +1,68 @@
+.card{
+	@include u-margin-bottom(0);
+	@include u-padding-top(3);
+	@include u-padding-bottom(4);
+	@include u-border-bottom('gray-40', 'solid', '1px');
+	h6{
+		@include u-margin(0);
+		@include u-margin-bottom('05');
+		@include u-font('sans', 'xs');
+		@include u-text('bold');
+		@include u-text('uppercase');
+		@include u-color('indigo-warm-60v');
+	}
+	h3{
+		@include u-margin(0);
+		@include u-font('sans', 'lg');
+		@include u-text('bold');
+		a{
+			@include u-color('black');
+			@include u-text('no-underline');
+		}
+	}
+	.deck{
+		@include u-margin-top('05');
+		@include u-font('sans', 'md');
+		@include u-text('light');
+	}
+	.summary{}
 
+	.meta{
+		@include u-margin-top(1);
+		.clicks{
+			@include u-margin-right(1);
+			@include u-font('sans', 'xs');
+			@include u-display('inline-block');
+			@include u-color('gold-40v');
+			i{
+				@include u-color('gold-30v');
+			}
+		}
+		.date{
+			@include u-margin(0);
+			@include u-margin-right(1);
+			@include u-font('sans', '3xs');
+			@include u-display('inline-block');
+			@include u-color('gray-60');
+		}
+		.topics{
+			@include u-margin-y(0);
+			@include u-font('sans', '3xs');
+		}
+	}
+
+	.entry-featured img {
+		filter: grayscale(75%);
+		transition: filter .2s;
+	}
+
+	&:hover{
+		.entry-featured img {
+			filter: grayscale(0%);
+		}
+	}
+
+}
 .card-linked{
 	// To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
 	@include u-position('relative');
