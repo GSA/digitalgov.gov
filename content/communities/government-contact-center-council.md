@@ -19,7 +19,7 @@ To join, send an [email to Tim Cossairt](mailto:tim.cossairt@tsa.dhs.gov) with â
 
 The G3C leadership is a volunteer board of the following individuals:
 
-- Tim Cossairt (Transportation Security Administration) - Co-Chair
+- Tim Cossairt (Transportation Security Administration) - Chairperson
 
 ## Overview
 
