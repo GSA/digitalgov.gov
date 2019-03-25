@@ -20,9 +20,7 @@ DAP users often ask – _“How should I analyze my site?”_
 
 In this webinar Freddie Blicher, Analyst for DAP, will do a live demonstration of a real site analysis - from defining website mission, goals and KPIs to pulling reporting to better understand site performance.
 
-**Attendees will learn:**
-
-- how to align website mission, goals and KPIs with business questions and reporting
+**Attendees will learn:** how to align website mission, goals and KPIs with business questions and reporting
 
 
 ## Related

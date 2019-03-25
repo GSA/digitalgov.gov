@@ -1,7 +1,7 @@
 ---
 slug: dap-learning-series-using-analyticsusagov-api
 title: 'DAP Learning Series&#58; Using the analytics&#46;usa&#46;gov API'
-summary: 'Learn how Analytics.usa.gov, the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats outside of the Google Analytics interface.'
+summary: 'Learn how Analytics.usa.gov, the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats.'
 featured_image:
   uid:
   alt: ''
@@ -16,7 +16,7 @@ youtube_id: BT4rNBWbNHw
 
 ---
 
-Learn how Analytics.usa.gov, the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats outside of the Google Analytics interface. 
+Learn how Analytics.usa.gov, the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats outside of the Google Analytics interface.
 
 In this webinar, attendees will be introduced to the analytics.usa.gov API and how to query it for data.  Attendees will learn:
 
