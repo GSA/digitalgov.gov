@@ -1,6 +1,6 @@
 ---
 slug: qa-with-ryan-day-about-gsas-api-strategy
-date: 2019-03-25 14:45:00 -0500
+date: 2019-03-26 13:00:00 -0500
 title: 'Q&amp;A With Ryan Day About GSA’s API Strategy'
 deck: 'The new API standards will make it easier for GSA staff to launch and maintain good APIs&#46;'
 summary: 'The new API standards will make it easier for GSA staff to launch and maintain good APIs&#46;'
