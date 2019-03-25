@@ -2,7 +2,7 @@
 slug: dap-learning-series-a-deep-dive-into-audience-reports
 title: 'DAP Learning Series&#58; A Deep Dive Into Audience Reports'
 summary: 'Build upon your audience report knowledge and learn how to leverage these reports to better understand your audience.'
-featured_image: 
+featured_image:
   uid:
   alt: ''
 event_type:
@@ -25,3 +25,12 @@ In this webinar, Freddie Blicher, Analyst for DAP, will discuss:
 - audience reporting
 - how to leverage reporting to understand your audience
 - how to further build out audience segmentation using campaign URLs
+
+## Related
+
+The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA.
+
+- [Learn more about DAP]({{< link "services/_index.md" >}})
+- [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
+- [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
+- [Contact the DAP team](mailto:dap@support.digitalgov.gov)

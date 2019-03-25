@@ -2,10 +2,10 @@
 slug: dap-learning-series-site-analysis-live
 title: 'DAP Learning Series&#58; Site Analysis, Live!'
 summary: 'We’ll do a live demonstration of a real site analysis - from defining website mission, goals and KPIs to pulling reporting to better understand site performance&#46; '
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
+event_type:
   - youtube-live
 date: 2019-11-20 13:00:00 -0500
 end_date: 2019-11-20 14:00:00 -0500
@@ -16,4 +16,20 @@ youtube_id: 57mZ_YRIBOk
 
 ---
 
-***Paste body content here. Delete this line***
+DAP users often ask – _“How should I analyze my site?”_
+
+In this webinar Freddie Blicher, Analyst for DAP, will do a live demonstration of a real site analysis - from defining website mission, goals and KPIs to pulling reporting to better understand site performance.
+
+**Attendees will learn:**
+
+- how to align website mission, goals and KPIs with business questions and reporting
+
+
+## Related
+
+The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA.
+
+- [Learn more about DAP]({{< link "services/_index.md" >}})
+- [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
+- [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
+- [Contact the DAP team](mailto:dap@support.digitalgov.gov)
