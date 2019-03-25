@@ -2,7 +2,7 @@
 slug: an-introduction-dha-usability-lab-overview-case-studies-whats-next
 title: "An Introduction to the DHA Usability Lab"
 deck: "Overview, Case Studies, and What’s Next"
-summary: 'We have a lot of forms in government and many of them would benefit from better design&#46; In this talk, Caroline Jarrett will explore a curriculum she’s working on about how to design a form&#46;'
+summary: 'Join us for an overview of the DHA Usability Lab, and the resources they provide to improve customer experience.'
 featured_image:
   uid:
   alt: ''
