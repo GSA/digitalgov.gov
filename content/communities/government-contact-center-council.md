@@ -20,13 +20,10 @@ To join, send an [email to Tim Cossairt](mailto:tim.cossairt@tsa.dhs.gov) with �
 The G3C leadership is a volunteer board of the following individuals:
 
 - Tim Cossairt (Transportation Security Administration) - Co-Chair
-- Rosetta Lue (Veterans Administration) – Co-Chair
-- Dora G. Best (U.S. Patent and Trade Office) - Secretary
-- Wanda Whitney (National Institutes of Health) – Programs and Education
 
 ## Overview
 
-The G3C is an interagency group of contact center directors, managers and professionals from across federal, state, and local government. Co-Chairs Tim Cossairt (TSA) and Rosetta Lue (Veterans Administration) lead the executive board creating monthly webinars, conference calls, and networking events. We identify best practices, research, and trend analysis that improve government contact centers.
+The G3C is an interagency group of contact center directors, managers and professionals from across federal, state, and local government. Chairperson Tim Cossairt (TSA) leads the executive board creating monthly webinars, conference calls, and networking events. We identify best practices, research, and trend analysis that improve government contact centers.
 
 ## Who We Are
 
