@@ -176,9 +176,16 @@
 }
 .event .event-head h1{
 	color: #000;
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 	font-size: 28px;
 	line-height: 36px;
+}
+.event .deck{
+	margin:0 0 1em 0;
+	font-size: 24px;
+	line-height: 30px;
+	color:#000;
+	font-weight: 200;
 }
 .event .event-head .event-details{
 	margin-bottom: 5px;
