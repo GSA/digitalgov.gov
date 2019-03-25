@@ -19,7 +19,7 @@ featured_image:
 
 Our Chief Information Officer at the U.S. General Services Administration (GSA), David Shive, recently published [an update about our agency’s adoption of an API standards](https://gsablogs.gsa.gov/innovation/2019/02/26/gsa-rolls-out-agency-api-standards/) which seeks to improve the developer experience for those who use our agency’s APIs, and save time and money by making it easier for GSA staff to launch and maintain good APIs.This initiative is the culmination of a good bit of work that we hope will be a model for other agencies to follow.
 
-I recently chatted with Ryan Day, who leads [GSA’s API Strategy](https://tech.gsa.gov/guides/API_strategy/), to discuss the background to this effort and I wanted to share some notes from our conversation.
+Gray Brooks recently chatted with Ryan Day, who leads [GSA’s API Strategy](https://tech.gsa.gov/guides/API_strategy/), to discuss the background to this effort and I wanted to share some notes from our conversation.
 
 ---
 
