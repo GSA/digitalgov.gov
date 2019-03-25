@@ -2,10 +2,10 @@
 slug: dap-learning-series-misunderstood-metrics
 title: 'DAP Learning Series&#58; Misunderstood Metrics'
 summary: 'Google Analytics provides a plethora of metrics for DAP reporting&#46; DAP users have access to many metrics, but many of these metrics are misunderstood&#46; What are some examples of misunderstood metrics, and how and when should you use them&#63; We’ll talk about these metrics and their potential misinterpretations and pitfalls&#46;'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
+event_type:
   - youtube-live
 date: 2019-07-24 14:00:00 -0500
 end_date: 2019-07-24 15:00:00 -0500
@@ -16,4 +16,20 @@ youtube_id: Z9vezN59fuM
 
 ---
 
-***Paste body content here. Delete this line***
+Google Analytics provides a plethora of metrics for DAP reporting. DAP users have access to many metrics, but many of these metrics are misunderstood. What are some examples of misunderstood metrics, and how and when should you use them? We’ll talk about these metrics and their potential misinterpretations and pitfalls.
+
+In this webinar, Freddie Blicher, Analyst for DAP, will discuss:
+
+- misunderstood metrics and their pitfalls
+- which reports have misunderstood metrics
+- how to use and explain these metrics in your reporting
+
+
+## Related
+
+The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA.
+
+- [Learn more about DAP]({{< link "services/_index.md" >}})
+- [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
+- [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
+- [Contact the DAP team](mailto:dap@support.digitalgov.gov)
