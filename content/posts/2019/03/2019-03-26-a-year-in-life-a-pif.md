@@ -13,7 +13,7 @@ tag:
   - presidential-innovation-fellows
 
 featured_image:
-  uid:
+  uid: zach-goldfine
   alt: ''
 ---
 
@@ -54,5 +54,7 @@ Note: One year is very, very little time. So be careful not to get distracted by
 **Document** — Document everything you touch! Codify models and frameworks you used. Sit with people with whom you collaborated and write down your institutional knowledge. Store documentation in places that make sense for future people to see and use. Share your story: blog about what you did and why you did it. Work with PIF leadership to create documents that will help future PIFs :heart_eyes:
 
 ---
+
+{{< img src="zach-goldfine" >}}
 
 _Zach Goldfine is a PIF currently working with the VA Chief Technology Officer to get Veterans benefits more quickly._
