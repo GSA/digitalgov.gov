@@ -53,6 +53,8 @@ Those program owners and IT teams worked closely with us as we drafted the stand
 
 We also continue to provide them with tools and assistance to help them be successful. Our motto for this effort is “Making The Right Thing The Easy Thing.”
 
+{{< img src="api-pillars" >}}
+
 **Gray:** What resources from GSA’s API standards and your work are reusable by other agencies.
 
 **Ryan:** The standards themselves might be a good starting point for an agency that hasn’t developed their own standards or API style guide. Agencies are welcome to fork them or otherwise reference them. We certainly benefited from the [work done previously by the White House](https://github.com/WhiteHouse/api-standards) and [our own 18F organization](https://github.com/18F/api-standards).
