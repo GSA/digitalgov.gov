@@ -16,9 +16,10 @@ youtube_id: JiXvRdjFbVE
 
 ---
 
-In this webinar, attendees will hear from analytics practitioners at various agencies.
+In this webinar, we’ll talk to members of various agencies to find out how analytics programs and tools are governed at that agency. Each agency has its own way of determining which tools are used, methods of implementation, which personnel get access, how deployment and support are handled, and where responsibilities lie. 
 
 **Attendees will learn:**
+
 - What tools agencies use and how they got them approved
 - Which divisions analytics practitioners usually work in
 - How that agency approaches an analytics strategy
