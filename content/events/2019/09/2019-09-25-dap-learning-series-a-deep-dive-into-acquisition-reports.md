@@ -1,7 +1,7 @@
 ---
 slug: dap-learning-series-a-deep-dive-into-acquisition-reports
 title: 'DAP Learning Series&#58; A Deep Dive Into Acquisition Reports'
-summary: 'In this webinar, we’ll review the acquisition reporting section in-depth, and discuss usefulness of reports as well as where there may be gaps in data&#46;'
+summary: 'In this webinar, we’ll review the acquisition reporting section in-depth, and discuss usefulness of reports and where there may be gaps in data&#46;'
 featured_image:
   uid:
   alt: ''
@@ -23,11 +23,11 @@ The acquisition reporting section contains some of the most valuable data in Goo
 - how to make sure they are tracking acquisition to the best of their ability
 - how to use acquisition metrics and dimensions in custom reports
 
-## Related
+---
 
-The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA.
+_The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the U.S. General Services Administration (GSA)._
 
-- [Learn more about DAP]({{< link "services/_index.md" >}})
+- [Learn more about DAP](https://www.digitalgov.gov/services/dap/)
 - [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
 - [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
