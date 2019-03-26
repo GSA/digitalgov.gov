@@ -16,7 +16,7 @@ youtube_id: HQllbIhbGoM
 
 ---
 
-Unlock the power of audience reports in Google Analytics in this webinar. Often overlooked in reporting, audience reports empower DAP users to start identifying how your site and marketing resonate with your audience.
+Unlock the power of audience reports in Google Analytics in this webinar. Often overlooked in reporting, audience reports empower Digital Analytics Program (DAP) users to start identifying how your site and marketing resonate with your audience.
 
 Build upon your audience report knowledge and learn how to leverage these reports to better understand your audience. We’ll talk about audience reporting with an eye towards helping DAP users understand what’s available, and how to leverage this powerful data.
 
@@ -26,11 +26,11 @@ In this webinar, Freddie Blicher, Analyst for DAP, will discuss:
 - how to leverage reporting to understand your audience
 - how to further build out audience segmentation using campaign URLs
 
-## Related
+---
 
-The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA.
+_The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the U.S. General Services Administration (GSA)._
 
-- [Learn more about DAP]({{< link "services/_index.md" >}})
+- [Learn more about DAP](https://www.digitalgov.gov/services/dap/)
 - [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
 - [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
