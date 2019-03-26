@@ -13,7 +13,7 @@ tag:
   - apis
   - code
 featured_image:
-  uid:
+  uid: api-pillars
   alt: ''
 ---
 
