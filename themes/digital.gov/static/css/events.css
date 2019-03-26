@@ -24,6 +24,7 @@
 	font-size: 30px;
 	color:#000;
 }
+
 .events-head p{
 	font-size: 18px;
 	font-weight: 200;
@@ -180,28 +181,36 @@
 	font-size: 28px;
 	line-height: 36px;
 }
-.event .deck{
+.event .event-head h2.deck{
 	margin:0 0 1em 0;
 	font-size: 24px;
 	line-height: 30px;
 	color:#000;
 	font-weight: 200;
 }
+.event .host{
+	margin:0 0 1em 0;
+	color:#000;
+	font-size: 20px;
+	font-weight: 500;
+}
 .event .event-head .event-details{
 	margin-bottom: 5px;
 }
 .event .event-head .event-date{
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 	font-size: 18px;
 	line-height: 24px;
 	display: block;
 	color: #000;
+	font-weight: 900;
 }
 .event .event-head .event-date span{
 	display: block;
 }
 .event .event-head .event-type{
 	/* margin: 0 3px 0 0; */
+	margin-bottom: 0;
 	font-size: 16px;
 	position: relative;
 	top: -2px;
