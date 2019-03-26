@@ -1,7 +1,7 @@
 ---
 slug: 2019-government-ux-summit
 title: '2019 Government UX Summit'
-deck: "An opportunity to share experiences and lessons learned in UX and network with other UX practitioners from across the government."
+deck: "A gathering of UX practitioners from across government"
 summary: 'Sponsored by the User Experience Community of Practice &#40;UX CoP&#41; and DigitalGov, this event is an opportunity to share experiences and lessons learned in UX and network with other UX practitioners from across the government&#46;'
 featured_image:
   uid:

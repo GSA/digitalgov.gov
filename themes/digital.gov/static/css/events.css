@@ -105,6 +105,11 @@
 .btn.event_register, a.btn.event_register {
 	background: #000;
 }
+.btn.save-the-date, span.save-the-date {
+	background: #ffa50d;
+	color:#000000 !important;
+	display: inline-block;
+}
 .addtocalendar.btn{
 	background: #2673DF !important;
 }
