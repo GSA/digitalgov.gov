@@ -15,6 +15,8 @@ registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-ser
 
 ---
 
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3953097&CustomerID=321)_
+
 Join us at 2 PM ET, April 9 for the first installment in GSA’s Federal Crowdsourcing Webinar Series to hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and multiply the ideas and perspectives being brought to a particular issue.
 
 The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
