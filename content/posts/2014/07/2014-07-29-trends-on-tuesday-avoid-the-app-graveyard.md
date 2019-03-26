@@ -7,17 +7,19 @@ authors:
   - jparcell
   - katie-steffy
 categories:
-  - Mobile
-  - UX
-tag:
-  - federal user experience community
   - mobile
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 4
-  - Trends on Tuesday
-  - user experience
+  - ux
+tag:
+  - user-experience-community-of-practice
+  - mobile
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-4
+  - trends-on-tuesday
+  - user-experience
+  - ux
+
 ---
 
 [{{< legacy-img src="2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg" alt="Old Cemeteries Tombstone Closeups" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg) 
