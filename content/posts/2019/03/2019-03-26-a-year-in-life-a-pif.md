@@ -57,4 +57,4 @@ Note: One year is very, very little time. So be careful not to get distracted by
 
 {{< img src="zach-goldfine" >}}
 
-_Zach Goldfine is a PIF currently working with the VA Chief Technology Officer to get Veterans benefits more quickly._
+_Zach Goldfine is a PIF currently working with the Veterans Administration's Chief Technology Officer to get benefits to veterans more quickly._ 
