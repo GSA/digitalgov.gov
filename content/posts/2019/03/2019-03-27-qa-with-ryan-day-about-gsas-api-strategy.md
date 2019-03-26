@@ -2,22 +2,25 @@
 slug: qa-with-ryan-day-about-gsas-api-strategy
 date: 2019-03-27 13:00:00 -0500
 title: 'Q&amp;A With Ryan Day About GSA’s API Strategy'
-deck: 'The new API standards will make it easier for GSA staff to launch and maintain good APIs&#46;'
-summary: 'The new API standards will make it easier for GSA staff to launch and maintain good APIs&#46;'
+deck: 'These new API standards will make it easier for GSA staff to launch and maintain good APIs&#46;'
+summary: 'These new API standards will make it easier for GSA staff to launch and maintain good APIs&#46;'
 authors:
   - gray-brooks
   - ryan-day
 categories:
   - managing-digital
 tag:
-  - apis
+  - api
+  - api-community
   - code
+  - open-source
 featured_image:
   uid: api-pillars
   alt: ''
+
 ---
 
-Our Chief Information Officer at the U.S. General Services Administration (GSA), David Shive, recently published [an update about our agency’s adoption of an API standards](https://gsablogs.gsa.gov/innovation/2019/02/26/gsa-rolls-out-agency-api-standards/) which seeks to improve the developer experience for those who use our agency’s APIs, and save time and money by making it easier for GSA staff to launch and maintain good APIs.This initiative is the culmination of a good bit of work that we hope will be a model for other agencies to follow.
+David Shive, chief information officer at The U.S. General Services Administration (GSA) recently published [an update about our agency’s adoption of an API standards](https://gsablogs.gsa.gov/innovation/2019/02/26/gsa-rolls-out-agency-api-standards/) which seeks to improve the developer experience for those who use our agency’s APIs, and save time and money by making it easier for GSA staff to launch and maintain good APIs. This initiative is the culmination of a good bit of work that we hope will be a model for other agencies to follow.
 
 Gray Brooks recently chatted with Ryan Day, who leads [GSA’s API Strategy](https://tech.gsa.gov/guides/API_strategy/), to discuss the background to this effort.
 
