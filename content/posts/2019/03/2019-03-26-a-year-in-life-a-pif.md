@@ -13,7 +13,7 @@ tag:
   - presidential-innovation-fellows
 
 featured_image:
-  uid: zach-goldfine
+  uid: zach-goldfine-pif
   alt: ''
 ---
 
@@ -55,6 +55,6 @@ Note: One year is very, very little time. So be careful not to get distracted by
 
 ---
 
-{{< img src="zach-goldfine" >}}
+{{< img src="zach-goldfine-pif" >}}
 
-_Zach Goldfine is a PIF currently working with the Veterans Administration's Chief Technology Officer to get benefits to veterans more quickly._ 
+_Zach Goldfine is a PIF currently working with the Veterans Administration's Chief Technology Officer to get benefits to veterans more quickly._
