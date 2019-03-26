@@ -26,12 +26,11 @@ In this webinar, we’ll talk to members of various agencies to find out how ana
 - How the implementation and support structures work
 - What barriers practitioners face when trying to implement analytics tools and strategy
 
+---
 
-## Related
+_The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the U.S. General Services Administration (GSA)._
 
-The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the GSA.
-
-- [Learn more about DAP]({{< link "services/_index.md" >}})
+- [Learn more about DAP](https://www.digitalgov.gov/services/dap/)
 - [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
 - [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
