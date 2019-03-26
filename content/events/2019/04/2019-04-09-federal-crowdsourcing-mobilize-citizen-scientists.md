@@ -17,9 +17,9 @@ registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-ser
 
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3953097&CustomerID=321)_
 
-Join us at 2 PM ET, April 9 for the first installment in GSA’s Federal Crowdsourcing Webinar Series to hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and multiply the ideas and perspectives being brought to a particular issue.
+Join us on April 9 at 2:00 pm, Eastern for the first installment in GSA’s Federal Crowdsourcing Webinar Series to hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and multiply the ideas and perspectives being brought to a particular issue. 
 
-The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
+The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/). 
 
 Learn about resources produced by the community and available on [CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
 
@@ -27,8 +27,8 @@ This episode will also feature examples of hazard-related citizen science projec
 
 **Featured Guests from FedCCS:**
 
-- John McLaughlin, CitizenScience.gov Program Manager, U.S. General Services Administration
-- Sophia B Liu, Innovation Specialist, Crowdsourcing and Citizen Science Coordinator, U.S. Geological Survey; Co-Chair of FedCCS
+- **John McLaughlin**, CitizenScience.gov Program Manager, U.S. General Services Administration
+- **Sophia B Liu**, Innovation Specialist, Crowdsourcing and Citizen Science Coordinator, U.S. Geological Survey; Co-Chair of FedCCS
 
 This webinar will take place on Zoom and a link will be shared before the event.
 
@@ -44,4 +44,4 @@ This webinar will take place on Zoom and a link will be shared before the event.
 
 _This talk is hosted by [Challenge.gov](https://challenge.gov/). Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market and manage their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).  
+Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
