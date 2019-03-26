@@ -12,8 +12,6 @@ date: 2019-05-15 9:00:00 -0500
 end_date: 2019-05-15 12:00:00 -0500
 event_organizer: DigitalGov University
 host: User Experience Community of Practice
-registration_url: 
-youtube_id: 
 venue: 
   venue_name: US Bureau of Labor Statistics
   room: Conference and Training Center
