@@ -87,4 +87,4 @@ And we hope to use human centered design techniques to become more familiar with
 - The API.DATA.GOV platform: [https://api.data.gov/about/](https://api.data.gov/about/)
 - The Federalist platform: [https://federalist.18f.gov/](https://federalist.18f.gov/)
 - GSA’s open source policy: [https://open.gsa.gov/oss-policy/](https://open.gsa.gov/oss-policy/)
-GSA’s API Strategy: [https://tech.gsa.gov/guides/API_strategy/](https://tech.gsa.gov/guides/API_strategy/)
+- GSA’s API Strategy: [https://tech.gsa.gov/guides/API_strategy/](https://tech.gsa.gov/guides/API_strategy/)
