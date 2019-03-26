@@ -2,7 +2,7 @@
 slug: a-year-in-life-a-pif
 date: 2019-03-26 13:00:00 -0500
 title: 'A Year in the Life of a PIF'
-summary: 'Advice on how to make the most impact in a limited amount of time in government&#46;'
+summary: 'As a Presidential Innovation Fellow in my second year, I often get asked by the newer class of PIFs coming in, “What does a successful PIF year typically look like?”'
 deck: "Advice on how to make the most impact in a limited amount of time in government"
 authors:
   - zach-goldfine
@@ -13,10 +13,12 @@ tag:
   - presidential-innovation-fellows
 
 featured_image:
-  uid: zach-goldfine-pif
+  uid: zach-goldfine-pif-c
   alt: ''
 ---
 
+
+{{< img-right src="zach-goldfine-pif" >}}
 
 As a Presidential Innovation Fellow in my second year, I often get asked by the newer class of PIFs coming in, “What does a successful PIF year typically look like?”
 
@@ -54,7 +56,5 @@ Note: One year is very, very little time. So be careful not to get distracted by
 **Document** — Document everything you touch! Codify models and frameworks you used. Sit with people with whom you collaborated and write down your institutional knowledge. Store documentation in places that make sense for future people to see and use. Share your story: blog about what you did and why you did it. Work with PIF leadership to create documents that will help future PIFs :heart_eyes:
 
 ---
-
-{{< img src="zach-goldfine-pif" >}}
 
 _Zach Goldfine is a PIF currently working with the Veterans Administration's Chief Technology Officer to get benefits to veterans more quickly._
