@@ -59,7 +59,7 @@ As a participant, you’re free to choose the talk that interests you the most o
 | 12pm        | Community Lunch |
 
 
-Speakers representing agencies across the government, will share case studies, the latest best practices in UX methods, and strategies for UX management.
+Speakers representing agencies across the government will share case studies, the latest best practices in UX methods, and strategies for UX management.
 _(more details on the talks in each session to come...)_
 
 A community lunch will follow in the BLS cafeteria for those who wish to stay. Bring your lunch or purchase it in the cafeteria.
