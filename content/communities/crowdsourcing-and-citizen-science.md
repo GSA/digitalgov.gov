@@ -9,6 +9,8 @@ weight: 2
 
 topics:
   - crowdsourcing
+  - challenges
+
 aliases:
   - /federal-crowdsourcing-and-citizen-science/
   - /communities/federal-crowdsourcing-and-citizen-science/
