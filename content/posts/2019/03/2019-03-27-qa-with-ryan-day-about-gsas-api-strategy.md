@@ -15,7 +15,7 @@ tag:
   - code
   - open-source
 featured_image:
-  uid: api-pillars
+  uid: q-and-a
   alt: ''
 
 ---
