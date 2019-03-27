@@ -18,7 +18,7 @@ categories:
 
 {{< img src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
 
-Plain Language matters for speaking as well as writing! In fact, it may be even more important because your audience can't go back and re-listen if they don't follow you. An effective speaking style isn't always the same as an effective writing style for the same material. In addition, we sometimes give presentations by simply reading aloud academic-style text or&mdash;just as painful for the audience&mdash;reading aloud blocks of text right off the slides. 
+Plain language matters for speaking as well as writing! In fact, it may be even more important because your audience can't go back and re-listen if they don't follow you. An effective speaking style isn't always the same as an effective writing style for the same material. In addition, we sometimes give presentations by simply reading aloud academic-style text or&mdash;just as painful for the audience&mdash;reading aloud blocks of text right off the slides. 
 
 This seminar adapts principles of plain language to the context of speaking, covering not only wording, but also structure and integration with visual aids. 
 
