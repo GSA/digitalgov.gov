@@ -61,8 +61,6 @@ As a participant, you’re free to choose the talk that interests you the most o
 Speakers representing agencies across the government, will share case studies, the latest best practices in UX methods, and strategies for UX management.
 _(more details on the talks in each session to come...)_
 
-If you are in need of any special accommodations, please [email Jean Fox](mailto:jean.fox@bls.gov?Accommodations%20for%20Government%20UX%20Summit) by April 19.
-
 A community lunch will follow in the BLS cafeteria for those who wish to stay. Bring your lunch or purchase it in the cafeteria.
 
 ---
