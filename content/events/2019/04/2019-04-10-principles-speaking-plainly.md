@@ -18,12 +18,14 @@ categories:
 
 {{< img src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
 
-Plain language matters for speaking as well as writing! In fact, it may be even more important because your audience can't go back and re-listen if they don't follow you. An effective speaking style isn't always the same as an effective writing style for the same material. In addition, we sometimes give presentations by simply reading aloud academic-style text or&mdash;just as painful for the audience&mdash;reading aloud blocks of text right off the slides. 
+Plain language matters for speaking as well as writing! In fact, it may be even more important because your audience can't go back and re-listen if they don't follow you. 
+
+An effective speaking style isn't always the same as an effective writing style for the same material. In addition, we sometimes give presentations by simply reading aloud academic-style text or&mdash;just as painful for the audience&mdash;reading aloud blocks of text right off the slides. 
 
 This seminar adapts principles of plain language to the context of speaking, covering not only wording, but also structure and integration with visual aids. 
 
 This event will be held on Zoom. Our team will distribute a link join the session prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand. 
 
-## About plainlanguage.gov
+## About PlainLanguage.gov
 
 _The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/)._
