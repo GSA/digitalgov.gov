@@ -1,7 +1,7 @@
 ---
 slug: 2019-government-ux-summit
 title: 'Government UX Summit 2019'
-deck: "A half-day gathering of UX practitioners in government"
+deck: "Methods, Management, and Design"
 summary: 'Sponsored by the User Experience Community of Practice &#40;UX CoP&#41; and DigitalGov, this event is an opportunity to share experiences and lessons learned in UX and network with other UX practitioners from across the government&#46;'
 featured_image:
   uid: govt-ux-summit-2019
@@ -38,7 +38,7 @@ In-person registration will be limited to the first 225 people.
 
 Details on how to attend remotely will be sent out in the coming weeks to those who have registered.
 
-## The half-day program
+## The Program
 
 We’ll have three concurrent talks and presentations over the course of three sessions throughout the morning where you’ll be able to learn from experts, ask questions, and network with peers.
 
@@ -58,11 +58,11 @@ As a participant, you’re free to choose the talk that interests you the most o
 | 11:15-12pm  | Session C       |
 | 12pm        | Community Lunch |
 
-_(more details on the talks in each session to come… )_
 
 Speakers representing agencies across the government, will share case studies, the latest best practices in UX methods, and strategies for UX management.
+_(more details on the talks in each session to come… )_
 
-If you need any special accommodations, please [email Jean Fox](mailto:jean.fox@bls.gov?Accommodations%20for%20Government%20UX%20Summit%20) by April 19.
+If you are in need any special accommodations, please [email Jean Fox](mailto:jean.fox@bls.gov?Accommodations%20for%20Government%20UX%20Summit%20) by April 19.
 
 A community lunch will follow in the BLS cafeteria for those who wish to stay. Bring your lunch or purchase it in the cafeteria.
 
