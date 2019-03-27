@@ -14,7 +14,7 @@ A list of the most important resources tagged with the same topic */}}
   {{ end }}
 
   <ul>
-    {{- range $resources -}}
+    {{- range sort $resources "Title" "asc" -}}
       <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
     {{- end -}}
   </ul>

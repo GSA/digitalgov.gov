@@ -9,7 +9,7 @@ A list of the most important resources tagged with the same topic */}}
 <div class="list-collection">
   <h2>Communities of Practice</h2>
   <ul>
-    {{- range $communities -}}
+    {{- range sort $communities "Title" "asc" -}}
       <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
     {{- end -}}
   </ul>
