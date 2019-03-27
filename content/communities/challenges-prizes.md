@@ -10,6 +10,7 @@ weight: 2
 topics:
   - challenges
   - challenge-gov
+  - crowdsourcing
 
 aliases:
   - /challenges-prizes-community/
