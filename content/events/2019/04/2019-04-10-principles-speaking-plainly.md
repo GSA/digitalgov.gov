@@ -23,3 +23,7 @@ Plain Language matters for speaking as well as writing! In fact, it may be even 
 This seminar adapts principles of plain language to the context of speaking, covering not only wording but also structure and integration with visual aids. 
 
 This event will be held on Zoom. Our team will distribute links join the event prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand. 
+
+## About plainlanguage.gov
+
+_The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/)._
