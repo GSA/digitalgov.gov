@@ -13,6 +13,7 @@ date: 2019-05-15 9:00:00 -0500
 end_date: 2019-05-15 12:00:00 -0500
 event_organizer: DigitalGov University
 host: User Experience Community of Practice
+registration_url: https://www.eventbrite.com/e/government-ux-summit-2019-registration-56653417898
 venue:
   venue_name: US Bureau of Labor Statistics
   room: Conference and Training Center
@@ -31,7 +32,7 @@ Come and join your UX colleagues to discuss the latest in government UX!
 
 This an opportunity to learn, share experiences, and network with other UX practitioners from across government.
 
-**:tickets:Registration is now open for the 2019 Government UX Summit** to be held at the Bureau of Labor Statistics (BLS) in Washington, DC, on May 15, from 9 am - noon. Government employees and contractors with a government email address are eligible to attend, so please use your government email address when registering.
+**:tickets:Registration is now open for the 2019 Government UX Summit** to be held at the Bureau of Labor Statistics (BLS) in Washington, DC, on May 15, from 9 am - noon. U.S. Government employees and contractors with government email address are eligible to attend, so please use your government email address when registering.
 
 In-person registration will be limited to the first 225 people.
 
