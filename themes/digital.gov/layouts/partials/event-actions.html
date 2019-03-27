@@ -2,9 +2,7 @@
 
 {{ if ($t.After now) eq "true" }}
 <div class="event-actions">
-  {{- if .Params.registration_url -}}
-    <a class="btn event_register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
-  {{- end -}}
+  <a class="btn event_register" href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');">Register</a>
   {{- $event_startDate := dateFormat "2006-01-02 03:04 PM" (time .Params.date) -}}
   {{- $event_endDate := dateFormat "2006-01-02 03:04 PM" (time .Params.end_date) -}}
   {{- $event_url := (print "\n\nEvent Page: https:" .Permalink) -}}

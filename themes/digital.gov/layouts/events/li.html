@@ -19,9 +19,6 @@
   <div class="event-actions">
 
     <a class="event_btn btn" href="{{ .URL }}" title="Details: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Event details</strong></a>
-    {{ if .Params.registration_url }}
     <a class="event_btn btn event_register" href="{{ .Params.registration_url }}" title="Register: {{ $.Scratch.Get "displaytitle" }}" rel="bookmark"><strong>Register</strong></a>
-    {{ end }}
-
   </div>
 </div>
