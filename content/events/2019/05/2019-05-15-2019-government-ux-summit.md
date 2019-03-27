@@ -25,14 +25,13 @@ venue:
 
 ---
 
-
 {{< img src="govt-ux-summit-2019" >}}
 
 Come and join your UX colleagues to discuss the latest in government UX!
 
 This an opportunity to learn, share experiences, and network with other UX practitioners from across government.
 
-**:tickets:Registration is now open for the 2019 Government UX Summit** to be held at the Bureau of Labor Statistics (BLS) in Washington, DC, on May 15, from 9 am - noon. Government employees and contractors with government email address are eligible to attend, so please use your government email address when registering.
+**:tickets:Registration is now open for the 2019 Government UX Summit** to be held at the Bureau of Labor Statistics (BLS) in Washington, DC, on May 15, from 9 am - noon. Government employees and contractors with a government email address are eligible to attend, so please use your government email address when registering.
 
 In-person registration will be limited to the first 225 people.
 
@@ -60,9 +59,9 @@ As a participant, you’re free to choose the talk that interests you the most o
 
 
 Speakers representing agencies across the government, will share case studies, the latest best practices in UX methods, and strategies for UX management.
-_(more details on the talks in each session to come… )_
+_(more details on the talks in each session to come...)_
 
-If you are in need any special accommodations, please [email Jean Fox](mailto:jean.fox@bls.gov?Accommodations%20for%20Government%20UX%20Summit%20) by April 19.
+If you are in need any special accommodations, please [email Jean Fox](mailto:jean.fox@bls.gov?Accommodations%20for%20Government%20UX%20Summit) by April 19.
 
 A community lunch will follow in the BLS cafeteria for those who wish to stay. Bring your lunch or purchase it in the cafeteria.
 
