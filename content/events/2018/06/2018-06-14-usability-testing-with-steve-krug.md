@@ -13,6 +13,11 @@ event_organizer: DigitalGov University
 host: User Experience Community of Practice
 registration_url: https://www.eventbrite.com/e/usability-testing-with-steve-krug-registration-46107266074
 youtube_id: 6fjn1Zz3lMU
+topics:
+  - user-experience
+  - ux
+  - usability
+  - usability-testing
 
 ---
 
