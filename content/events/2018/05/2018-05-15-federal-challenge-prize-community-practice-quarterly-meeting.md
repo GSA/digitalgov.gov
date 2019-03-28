@@ -23,6 +23,7 @@ venue:
 topics:
   - challenges
   - challenges-and-prizes-community-of-practice
+  - crowdsourcing
 
 ---
 
