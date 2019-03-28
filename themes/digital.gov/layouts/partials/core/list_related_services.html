@@ -9,9 +9,27 @@ A list of the most important services tagged with the same topic */}}
 
 <div class="list-collection">
   <h2>Services</h2>
-  <ul>
+  <ul class="add-list-reset">
     {{- range sort $services "Title" "asc" -}}
-      <li><a {{ if .Params.src -}}class="external-link"{{- end }} href="{{- .Permalink -}}" title="{{ .Title | markdownify }}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+
+    {{/* If an external link  */}}
+    {{- if .Params.src -}}
+    <li data-edit-this="{{- .File.Path -}}">
+      <a {{ if .Params.src -}}class="external-linsk"{{- end }} href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
+        {{- if .Params.icon -}}{{- $src := (print "/promos/" .Params.icon) -}}<img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">{{- end -}}
+        <strong>{{ .Title | markdownify }}</strong>
+      </a>
+      {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+
+    {{/* If an internal link  */}}
+    {{- else -}}
+    <li data-edit-this="{{- .File.Path -}}">
+      <a href="{{- .Permalink -}}" title="{{ .Title | markdownify }}">
+        <strong>{{ .Title | markdownify }}</strong>
+      </a>
+      {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+    {{- end -}}
+
     {{- end -}}
   </ul>
   <p class="more"><a href="{{ "/services/" | absURL }}">See all Services <i class="fas fa-arrow-alt-circle-right"></i></a></p>

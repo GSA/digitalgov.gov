@@ -35,18 +35,18 @@
   ul{
     @include u-margin(0);
     @include u-margin-bottom('105');
-    @include u-margin-x('05');
-    @include u-padding-left(2);
+    // @include u-margin-x('05');
+    // @include u-padding-left(2);
     li{
-      @include u-margin-bottom(1);
-      @include u-maxw('tablet');
+      @include u-margin-bottom('105');
+      @include u-maxw('tablet-lg');
       @include u-font('sans', 'md');
       @include u-line-height('sans', 3);
       img{
-        @include u-margin-left('05');
-        @include u-width('205');
+        @include u-margin-right('05');
+        @include u-width(2);
         position: relative;
-        top:4px;
+        top:2px;
       }
       a{
         @include u-text('no-underline');
