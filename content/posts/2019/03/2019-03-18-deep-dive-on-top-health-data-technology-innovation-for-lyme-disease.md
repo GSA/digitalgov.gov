@@ -10,9 +10,13 @@ authors:
   - ed-simcox
 categories:
   - code
+  - mobile
 tag:
+  - apps
+  - gamification
   - hhs
   - innovation
+  - mobile-apps
   - open-data
   - pif
 featured_image:
