@@ -14,6 +14,18 @@ event_organizer: DigitalGov University
 host: Emerging Tech
 registration_url: https://www.eventbrite.com/e/us-federal-emerging-technology-public-meeting-spring-18-registration-44763838847
 youtube_id: V-pr47hrrEY
+topics:
+  - emerging-tech
+  - social-media
+  - ai
+  - artificial-intelligence
+  - artificial-intelligence-for-citizen-services-community
+  - automation
+  - blockchain
+  - socialgov
+  - socialgov-community
+  - virtual-reality
+  - virtual-augmented-reality-community
 
 ---
 
