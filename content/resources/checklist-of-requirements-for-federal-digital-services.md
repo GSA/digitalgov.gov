@@ -10,6 +10,9 @@ aliases:
   - /resources/dot-gov-domain-freeze-and-waivers/
   - /resources/checklist/
 weight: 3
+topics:
+  - managing-digital
+  - policy
 
 ---
 
