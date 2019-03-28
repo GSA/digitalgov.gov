@@ -17,6 +17,7 @@ tag:
 featured_image:
   uid: people-working-together
   alt: 'Photo of people working together at the Open Data Hackathon, 2016&#46;'
+
 ---
 
 > _In November, the U.S. Department of Education is holding a digital “report card” design challenge in Washington, D.C. to design tools, templates, and other innovative solutions to support data reporting requirements of the Every Student Succeeds Act (ESSA). This blog post was originally published on their [Office of Educational Technology’s blog](https://medium.com/@OfficeofEdTech/design-challenge-2dd649e5b8b4)._
