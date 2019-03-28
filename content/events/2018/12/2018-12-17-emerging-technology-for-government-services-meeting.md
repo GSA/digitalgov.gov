@@ -9,10 +9,9 @@ end_date: 2018-12-17 11:30:00 -0500
 event_organizer: DigitalGov University
 host: ECTO
 registration_url: https://www.eventbrite.com/e/emerging-technology-for-government-services-meeting-registration-53609046100
-categories:
+topics:
   - emerging-tech
   - social-media
-tag:
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
