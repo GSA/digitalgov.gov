@@ -15,7 +15,7 @@ A list of the most important services tagged with the same topic */}}
     {{/* If an external link  */}}
     {{- if .Params.src -}}
     <li data-edit-this="{{- .File.Path -}}">
-      <a {{ if .Params.src -}}class="external-linsk"{{- end }} href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
+      <a {{ if .Params.src -}}class="external-link"{{- end }} href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
         {{- if .Params.icon -}}
           {{- $src := (print "/promos/" .Params.icon) -}}
           <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">

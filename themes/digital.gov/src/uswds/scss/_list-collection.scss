@@ -21,7 +21,7 @@
     @include u-line-height('sans', 1);
     @include u-text('light');
   }
-  .external-link::after {
+  .external-link[href^=http]:not([href*=".gov"]):after {
       background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
       background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
       background-size: 100%;
