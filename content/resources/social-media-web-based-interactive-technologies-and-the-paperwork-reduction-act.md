@@ -6,6 +6,8 @@ summary: 'Inspired by the goal of promoting flexible and open interactions betwe
 topics:
   - social-media
   - policy
+  - pra
+
 ---
 
 Inspired by the goal of promoting flexible and open interactions between federal agencies and the public this memo clarifies when and how the Paperwork Reduction Act of 1995 (the PRA) applies to Federal agency use of social media and web-based interactive technologies.
