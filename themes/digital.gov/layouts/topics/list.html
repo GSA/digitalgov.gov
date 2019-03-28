@@ -27,7 +27,7 @@
 
           {{/* If the first page in a paginated sequence */}}
           {{ if eq .Paginator.PageNumber 1}}
-            {{ partial "core/list_related_resources.html" (dict "root" . "expanded" true) }}
+            {{ partial "core/list_related_resources.html" . }}
 
             {{ partial "core/list_related_communities.html" . }}
 

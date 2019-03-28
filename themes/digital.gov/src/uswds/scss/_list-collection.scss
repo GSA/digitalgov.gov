@@ -21,6 +21,17 @@
     @include u-line-height('sans', 1);
     @include u-text('light');
   }
+  .external-link::after {
+      background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
+      background: url('../' + $theme-image-path + 'external-link.png') no-repeat 0 0;
+      background-size: 100%;
+      content: "";
+      display: inline-block;
+      height: .85em;
+      margin-bottom: -2px;
+      margin-left: .25rem;
+      width: .85em;
+  }
   ul{
     @include u-margin(0);
     @include u-margin-bottom('105');
