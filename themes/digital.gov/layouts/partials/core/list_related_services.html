@@ -11,7 +11,7 @@ A list of the most important services tagged with the same topic */}}
   <h2>Services</h2>
   <ul>
     {{- range sort $services "Title" "asc" -}}
-      <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+      <li><a {{ if .Params.src -}}class="external-link"{{- end }} href="{{- .Permalink -}}" title="{{ .Title | markdownify }}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
     {{- end -}}
   </ul>
   <p class="more"><a href="{{ "/services/" | absURL }}">See all Services <i class="fas fa-arrow-alt-circle-right"></i></a></p>

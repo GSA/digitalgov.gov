@@ -24,7 +24,7 @@ community_managers:
 
 ### Join
 
-To join, send an email to [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=&amp;body=subscribe%20open-data) with "subscribe Open Data" in the subject.
+To join, send an email to [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=&amp;body=subscribe%20open-data) with no subject and body content containing "subscribe open-data".
 
 [Read more about the Open Data Working Group »](https://project-open-data.cio.gov/working-group/)
 

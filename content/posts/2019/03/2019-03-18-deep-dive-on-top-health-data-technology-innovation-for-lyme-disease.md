@@ -12,6 +12,7 @@ topics:
   - code
   - hhs
   - innovation
+  - mobile-apps
   - open-data
   - pif
 featured_image:
@@ -77,11 +78,11 @@ In addition to these K-12 STEM innovations, two adult-led teams participated in 
 
 **Clyme Health App** that provides patient symptom tracking for Lyme disease, inspired by [NIH Patient-Reported Outcomes Measurement Information System (PROMIS)](https://www.nia.nih.gov/research/resource/patient-reported-outcomes-measurement-information-system-promis) data. The Clyme Health tool began as an idea in 2016, originally called [“LymeDot”, at a Lyme Innovation Hackathon](http://lymeinnovation.org/2016-in-review/) co-sponsored by the Bay Area Lyme Foundation, MIT Hacking Medicine, and Harvard University’s Dean Center for Tick-Borne Illness. After gaining recognition in the 2016 – 2017 Lyme Innovation Hackathons, the app was acquired by the California Center for Functional Medicine (CCFM) renamed “Clyme Health”. During the TOP Health sprint, CCFM finished the technical development for Clyme Health and linked it to electronic health records (EHRs) for patient and practitioner use. In the words of Dr. Sunjya Schweig, Co-Director of CCFM and the Clyme Health team lead:
 
-> “_Clyme Health is a new ecosystem for managing Lyme and chronic illness patients, one that is both high-tech and high touch. It leverages symptom tracking, wearable data, easy access for patients to their own data with [Blue Button 2.0](https://bluebutton.cms.gov/) interoperability, and marries this with support and coaching to help patients navigate their chronic illness and path to recovery. Our goal is to help patients find treatments that work, help doctors better care for their complex patients, and help researchers identify diagnostic and treatment insights that will help the community at large._”
+> _"Clyme Health is a new ecosystem for managing Lyme and chronic illness patients, one that is both high-tech and high touch. It leverages symptom tracking, wearable data, easy access for patients to their own data with [Blue Button 2.0](https://bluebutton.cms.gov/) interoperability, and marries this with support and coaching to help patients navigate their chronic illness and path to recovery. Our goal is to help patients find treatments that work, help doctors better care for their complex patients, and help researchers identify diagnostic and treatment insights that will help the community at large."_
 
 **Lyme Tracker App** by the Global Lyme Alliance (GLA) and TrialX launched for public use at the end of the TOP Health sprint. This app aims to help people with Lyme disease track their symptoms and share their data with their healthcare providers. The GLA and TrialX app integrates with TrialX’s iConnect platform, which empowers people to find and connect with a clinical trial investigator or clinical trials near them. Sara Tyghter, GLA Director of Education and Outreach and co-facilitator of the app development in TOP Health, said:
 
-> _"There is a critical need to take a patient-centric approach to gather population-level data in order to better understand the traits of Lyme disease. Furthermore, such amassed patient data is important to share in an open environment that will give scientists and physicians a means to accelerate their research efforts and ultimately help patients.”_
+> _"There is a critical need to take a patient-centric approach to gather population-level data in order to better understand the traits of Lyme disease. Furthermore, such amassed patient data is important to share in an open environment that will give scientists and physicians a means to accelerate their research efforts and ultimately help patients."_
 
 The Clyme Health and Lyme Symptom Tracker apps are not connected, although both tools rest on [Blue Button 2.0](https://bluebutton.cms.gov/) standards for data interoperability and portability. These types of tools quantify symptoms and wellness over time, while empowering patients with easy access to their own health data. Patients then choose if and how to share their health data with practitioners, researchers, or third parties.  
 

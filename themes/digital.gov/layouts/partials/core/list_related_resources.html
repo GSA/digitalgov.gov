@@ -11,7 +11,12 @@ A list of the most important resources tagged with the same topic */}}
   <h2>Key Resources</h2>
   <ul>
     {{- range sort $resources "Title" "asc" -}}
-      <li data-edit-this="{{- .File.Path -}}"><a {{ if .Params.src -}} class="external-link"{{ end }} href="{{- .Permalink -}}" title="{{ .Title | markdownify }}"><strong>{{ .Title | markdownify }}</strong></a> {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+      <li data-edit-this="{{- .File.Path -}}">
+        <a {{ if .Params.src -}}class="external-link"{{- end }} href="{{- .Permalink -}}" title="{{ .Title | markdownify }}">
+          <strong>{{ .Title | markdownify }}</strong>
+          {{- if .Params.icon -}}{{- $src := (print "/promos/" .Params.icon) -}}<img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">{{- end -}}
+        </a>
+        {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
     {{- end -}}
   </ul>
   <p class="more"><a href="{{ "/resources/" | absURL }}">See all Resources <i class="fas fa-arrow-alt-circle-right"></i></a></p>

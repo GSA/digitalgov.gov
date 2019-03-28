@@ -1,7 +1,7 @@
 ---
 slug: dap-learning-series-using-advanced-analysis-tool
 title: 'DAP Learning Series&#58; Using the Advanced Analysis Tool'
-summary: 'The Digital Analytics Program &#40;DAP&#41; uses a paid Analytics 360 account&#46; Users of DAP have access to a special tool currently only available for paid accounts - the Advanced Analysis tool&#46; In this training, we’ll demo the tool and show how you can use it to better understand your data and create drag-and-drop reports!'
+summary: 'We’ll demo the Advanced Analysis tool and show how you can use it to better understand your data and create drag-and-drop reports!'
 featured_image:
   uid:
   alt: ''
@@ -35,7 +35,7 @@ In this webinar, [Tim Lowden](https://digital.gov/authors/tlowden/), program man
 
 _The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the U.S. General Services Administration (GSA)._
 
-- [Learn more about DAP](https://www.digitalgov.gov/services/dap/?__hstc=178037178.6df0bfb6325b021320caefc863c6b10a.1537471110272.1551458455902.1551722413397.31&__hssc=178037178.1.1551722413397&__hsfp=3247019564)
+- [Learn more about DAP](https://www.digitalgov.gov/services/dap/)
 - [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
 - [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
