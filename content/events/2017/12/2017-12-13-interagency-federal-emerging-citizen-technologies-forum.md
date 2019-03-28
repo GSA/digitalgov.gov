@@ -18,6 +18,9 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
   - /event/interagency-federal-emerging-citizen-technologies-forum/
+topics:
+  - emerging-tech
+
 ---
 This **in-person and online meeting** is for government employees only. Capacity is limited for in-person attendance.
 
