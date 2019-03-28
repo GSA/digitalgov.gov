@@ -15,13 +15,13 @@ summary: 'An open innovation hub for challenge and prize competitions.'
 # Upload new images to Github in the /static/promos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-# icon: 'challengegov.png'
+icon: 'challenge-gov-logo.png'
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage
 # 1 == will show on the all services page
 # 0 == hidden promo
-weight: 1
+weight: 2
 
 # Topics that best describe this product or service
 topics:
