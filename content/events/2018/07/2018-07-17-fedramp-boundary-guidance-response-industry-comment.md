@@ -13,6 +13,8 @@ event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/fedramp-boundary-guidance-response-to-industry-comment-registration-47678739393
 youtube_id: ez3yenZ57ok
+topics:
+  - fedramp
 
 ---
 
