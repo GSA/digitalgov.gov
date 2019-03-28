@@ -5,6 +5,9 @@ title: Required Web Content and Links
 summary: 'If you manage a public website in the federal executive branch, it&#8217;s a requirement to have certain content&mdash;or link to that content&mdash;from various places on your website. Here&rsquo;s a table to help you comply with these requirements. Required Link Suggested Link Label* Where It&rsquo;s Required Source of Requirement Privacy Policy&mdash;All federal'
 authors:
   - ndavidson
+topics:
+  - policy
+
 ---
 
 {{< legacy-img src="/2014/02/checkmark-250x179.jpg" alt="checkmark" >}} If you manage a public website in the federal executive branch, it&#8217;s a [requirement]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}} "Checklist of Requirements for Federal Websites and Digital Services") to have certain content—or link to that content—from various places on your website. Here’s a table to help you comply with these requirements.
