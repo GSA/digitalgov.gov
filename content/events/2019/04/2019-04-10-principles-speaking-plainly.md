@@ -16,7 +16,6 @@ categories:
   - writing
 ---
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993550&CustomerID=321)_
-
 {{< img src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
 
 Plain language matters for speaking as well as writing! In fact, it may be even more important because your audience can't go back and re-listen if they don't follow you. 
