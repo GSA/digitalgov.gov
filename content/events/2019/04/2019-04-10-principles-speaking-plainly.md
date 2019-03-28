@@ -15,6 +15,7 @@ registration_url: https://www.eventbrite.com/e/principles-of-speaking-plainly-re
 categories:
   - writing
 ---
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993550&CustomerID=321)_
 
 {{< img src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
 
