@@ -6,6 +6,10 @@ summary: 'Multilingual resources for government employees, translators, and comm
 
 deck: 'Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.'
 
+topics:
+  - multilingual
+  - multilingual-community
+
 weight: 3
 
 authors:
@@ -13,6 +17,7 @@ authors:
   - lmartinez
 aliases:
     - /resources/spanish-language-style-guide-and-glossaries/
+
 ---
 
 The bilingual glossaries, dictionaries, and Spanish language style guides available in this section are resources for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in languages other than English.
