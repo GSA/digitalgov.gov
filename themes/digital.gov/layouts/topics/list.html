@@ -20,6 +20,7 @@
       </div>
     </div>
 
+
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
         <section>
@@ -39,7 +40,7 @@
           List all of the blog posts and events tagged with this topic */}}
 
           {{/* Gets the past events */}}
-          {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+          {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
           {{/* Gets the recent blog posts */}}
           {{- $posts := where .Paginator.Pages "Section" "posts" -}}
