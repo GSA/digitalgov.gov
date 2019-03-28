@@ -17,6 +17,8 @@ aliases:
   - /event/2018/05/30/how-search-engines-index-your-websites/
 topics:
   - digitalgov-search
+  - seo
+  - search-engine-optimization
 
 ---
 
