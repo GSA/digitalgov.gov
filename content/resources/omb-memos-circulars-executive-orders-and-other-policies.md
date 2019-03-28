@@ -3,7 +3,10 @@ url: /resources/omb-memos-circulars-executive-orders-and-other-policies/
 date: 2017-09-20 12:12:26 -0400
 title: OMB Memos, Circulars, Executive Orders and Other Policies
 summary: Tech- and digital-related policies, memos, circulars and executive orders.
+topics:
+  - policy
 weight: 3
+
 ---
 
 _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
