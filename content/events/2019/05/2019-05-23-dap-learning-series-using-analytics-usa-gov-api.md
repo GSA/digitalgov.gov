@@ -15,6 +15,7 @@ registration_url: https://www.eventbrite.com/e/dap-learning-series-using-the-ana
 youtube_id: BT4rNBWbNHw
 
 ---
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993561&CustomerID=321)_
 
 Learn how [analytics.usa.gov](analytics.usa.gov), the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats outside of the Google Analytics interface.
 
