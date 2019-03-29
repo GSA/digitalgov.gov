@@ -13,6 +13,11 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-site-analysis-live-registration-59347191046
 youtube_id: 57mZ_YRIBOk
+topics:
+  - metrics
+  - analytics
+  - dap
+  - digital-analytics-program
 
 ---
 
