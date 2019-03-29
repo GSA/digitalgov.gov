@@ -13,6 +13,11 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-misunderstood-metrics-registration-59346956344
 youtube_id: Z9vezN59fuM
+topics:
+  - metrics
+  - analytics
+  - dap
+  - digital-analytics-program
 
 ---
 
