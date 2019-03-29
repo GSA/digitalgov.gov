@@ -22,9 +22,7 @@ venue:
   zip: 20006
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
-categories:
-  - api
-tag:
+topics:
   - api
   - api-community
 
