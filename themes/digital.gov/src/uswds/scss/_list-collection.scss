@@ -1,10 +1,10 @@
 .list-collection{
-  @include u-padding-top(2);
-  @include u-padding-bottom('205');
+  @include u-padding-top('105');
+  @include u-padding-bottom(2);
   @include u-border-top('1px', 'gray-cool-40', 'solid');
   h2{
     @include u-margin(0);
-    @include u-margin-bottom('105');
+    @include u-margin-bottom(2);
     @include u-font('sans', 'md');
     @include u-text('semibold');
   }

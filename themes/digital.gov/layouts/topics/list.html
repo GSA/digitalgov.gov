@@ -42,9 +42,9 @@
           {{ if eq .Paginator.PageNumber 1}}
             {{ partial "core/list_related_resources.html" . }}
 
-            {{ partial "core/list_related_communities.html" . }}
-
             {{ partial "core/list_related_services.html" . }}
+
+            {{ partial "core/list_related_communities.html" . }}
 
           {{- end -}}
 
