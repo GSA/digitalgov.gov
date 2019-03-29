@@ -15,7 +15,7 @@ registration_url: https://www.eventbrite.com/e/dap-learning-series-site-analysis
 youtube_id: 57mZ_YRIBOk
 
 ---
-_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993574&CustomerID=321)
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993574&CustomerID=321)_
 
 DAP users often ask – _“How should I analyze my site?”_
 
