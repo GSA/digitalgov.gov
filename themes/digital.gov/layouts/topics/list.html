@@ -5,7 +5,7 @@
 
 <main role="main" id="topic">
   <div class="grid-container grid-container-desktop">
-    <div class="grid-row grid-gap-4">
+    <div class="grid-row grid-gap-4" data-edit-this="{{- .File.Path -}}">
       <div class="grid-col-12">
         <header class="page-header">
           <h6 class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></h6>
@@ -18,7 +18,20 @@
 
         </header>
       </div>
+
+      {{/* If the topic page has Content */}}
+      {{- if .Content -}}
+      <section>
+        <div class="grid-row margin-y-2 grid-gap-6">
+          <div class="content">
+            {{- .Content -}}
+          </div>
+        </div>
+      </section>
+      {{- end -}}
+
     </div>
+
 
 
     <div class="grid-row grid-gap-4">
