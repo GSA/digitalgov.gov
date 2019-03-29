@@ -1,7 +1,7 @@
 .list-collection{
   @include u-padding-top('105');
   @include u-padding-bottom(2);
-  @include u-border-top('1px', 'gray-cool-40', 'solid');
+  // @include u-border-top('1px', 'gray-cool-40', 'solid');
   h2{
     @include u-margin(0);
     @include u-margin-bottom(2);
@@ -51,14 +51,11 @@
       }
       a{
         @include u-text('no-underline');
-        @include u-text('semibold');
+        @include u-text('medium');
+        &:hover{
+          @include u-border-bottom('1px', 'indigo-warm-60v', 'solid');
+        }
       }
     }
-  }
-}
-
-.list-collection-resources{
-  ul{
-    @include u-padding(0);
   }
 }
