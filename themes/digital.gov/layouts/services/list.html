@@ -46,7 +46,7 @@
                     {{- end -}}
                   </a>
                   <p>
-                    <a {{ if .Params.src -}}class="external-link"{{- end }} href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">{{- .Title | markdownify -}}</a>
+                    <a {{ if .Params.src -}}class="external-link"{{- end }} href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
                     {{- if .Params.summary }} — {{ .Params.summary | markdownify }}{{- end -}}
                   </p>
                 </div>

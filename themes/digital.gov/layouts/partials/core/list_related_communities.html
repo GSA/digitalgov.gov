@@ -12,7 +12,7 @@ A list of the most important resources tagged with the same topic */}}
     {{- range sort $communities "Title" "asc" -}}
       <li>
         <a href="{{- .Permalink -}}">
-          {{ .Title | markdownify }} Community
+          <span>{{ .Title | markdownify }} Community</span>
         </a>
         {{- if .Params.members -}}
           &nbsp;<span class="members">( +{{- .Params.members }} members )</span>
