@@ -40,7 +40,7 @@
       @include u-maxw('tablet-lg');
       @include u-font('sans', 'md');
       @include u-line-height('sans', 3);
-      span{
+      .members{
         @include u-font('sans', 'xs');
       }
       img{
@@ -51,6 +51,7 @@
       }
       a{
         @include u-text('no-underline');
+        @include u-text('semibold');
       }
     }
   }

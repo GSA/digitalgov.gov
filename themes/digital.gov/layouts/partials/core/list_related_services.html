@@ -22,7 +22,7 @@ A list of the most important services tagged with the same topic */}}
         {{- else -}}
           <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.src -}}" alt="{{- .Params.source -}}">
         {{- end -}}
-        <strong>{{ .Title | markdownify }}</strong>
+        {{ .Title | markdownify }}
       </a>
       {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
 

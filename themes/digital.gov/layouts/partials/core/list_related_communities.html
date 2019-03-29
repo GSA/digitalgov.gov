@@ -10,10 +10,13 @@ A list of the most important resources tagged with the same topic */}}
   <h2>Join a Community of Practice</h2>
   <ul class="add-list-reset">
     {{- range sort $communities "Title" "asc" -}}
-      <li><a href="{{- .Permalink -}}"><strong>{{ .Title | markdownify }} Community</strong></a>
-      {{- if .Params.members -}}
-      &nbsp;<span>( +{{- .Params.members }} members )</span>
-      {{- end -}}
+      <li>
+        <a href="{{- .Permalink -}}">
+          {{ .Title | markdownify }} Community
+        </a>
+        {{- if .Params.members -}}
+          &nbsp;<span class="members">( +{{- .Params.members }} members )</span>
+        {{- end -}}
       </li>
     {{- end -}}
   </ul>
