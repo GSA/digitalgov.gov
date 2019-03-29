@@ -13,6 +13,11 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-behavior-reports-registration-59347588234
 youtube_id: FP7acMUgeR8
+topics:
+  - metrics
+  - analytics
+  - dap
+  - digital-analytics-program
 
 ---
 
