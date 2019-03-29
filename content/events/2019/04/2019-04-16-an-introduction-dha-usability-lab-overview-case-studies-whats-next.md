@@ -14,8 +14,13 @@ event_organizer: DigitalGov University
 host:
 registration_url: https://www.eventbrite.com/e/introduction-to-the-dha-usability-lab-overview-case-studies-whats-next-registration-59327626528
 youtube_id: wZ0knU9_TAU
+topics:
+  - user-experience
+  - ux
+  - usability
 
 ---
+
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3953012&CustomerID=321)_
 
 Come learn about the [DHA Usability Lab](https://health.mil/About-MHS/OASDHA/Defense-Health-Agency/Operations/Clinical-Support-Division/Connected-Health/Usability-Lab) and how they are doing UX!
