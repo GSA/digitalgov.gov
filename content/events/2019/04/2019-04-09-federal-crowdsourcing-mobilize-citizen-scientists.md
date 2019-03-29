@@ -40,6 +40,8 @@ This webinar will take place on Zoom and a link will be shared before the event.
 
 For information on this episode or upcoming events in the crowdsourcing series, contact [team@challenge.gov](mailto:team@challenge.gov?subject=Crowdsourcing%20Series%20on%20DGU).
 
+This event will be held on Zoom. Our team will distribute a link join the session prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand. 
+
 ---
 
 {{< img-right src="challenge-gov-logo" >}}
