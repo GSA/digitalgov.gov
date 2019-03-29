@@ -4,9 +4,9 @@
   @include u-border-top('1px', 'gray-cool-40', 'solid');
   h2{
     @include u-margin(0);
-    @include u-margin-bottom(1);
+    @include u-margin-bottom('105');
     @include u-font('sans', 'md');
-    @include u-text('bold');
+    @include u-text('semibold');
   }
   h4{
     @include u-margin(0);
@@ -40,6 +40,9 @@
       @include u-maxw('tablet-lg');
       @include u-font('sans', 'md');
       @include u-line-height('sans', 3);
+      span{
+        @include u-font('sans', 'xs');
+      }
       img{
         @include u-margin-right('05');
         @include u-width(2);
