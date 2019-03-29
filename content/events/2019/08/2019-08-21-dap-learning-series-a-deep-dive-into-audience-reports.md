@@ -15,6 +15,7 @@ registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-aud
 youtube_id: HQllbIhbGoM
 
 ---
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993567&CustomerID=321)_
 
 Unlock the power of audience reports in Google Analytics in this webinar. Often overlooked in reporting, audience reports empower Digital Analytics Program (DAP) users to start identifying how your site and marketing resonate with your audience.
 
