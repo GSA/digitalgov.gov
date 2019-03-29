@@ -12,8 +12,11 @@ end_date: 2019-04-10 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Plain language 
 registration_url: https://www.eventbrite.com/e/principles-of-speaking-plainly-registration-59398898705
-categories:
+topics:
+  - plain-language
+  - plain-language-community-of-practice
   - writing
+
 ---
 
 {{< img src="plain-language" caption="" alt="Plain Language / plainlanguage.gov" >}}
