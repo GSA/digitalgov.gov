@@ -13,6 +13,11 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-audience-reports-registration-59347257244
 youtube_id: HQllbIhbGoM
+topics:
+  - metrics
+  - analytics
+  - dap
+  - digital-analytics-program
 
 ---
 
