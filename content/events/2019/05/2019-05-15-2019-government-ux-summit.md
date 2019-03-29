@@ -23,6 +23,11 @@ venue:
   zip: 20212
   country: United States
   map: https://goo.gl/maps/RLnNpE7hi6C2
+topics:
+  - design
+  - user-experience
+  - ux
+  - user-experience-community-of-practice
 
 ---
 
