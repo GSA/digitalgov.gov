@@ -30,29 +30,7 @@
       }
     }
   }
-  // promo
-  article.promo{
-    @include u-margin-bottom(2);
-    @include u-minh('card');
-    @include u-padding(2);
-    img{
-      @include u-width(7);
-      @include u-height(7);
-    }
-    h3{
-      @include u-line-height('sans', 2);
-      @include u-font('sans', 'md');
-      @include u-text('bold');
-    }
-    p{
-      @include u-margin-top(1);
-      @include u-font('sans', 'sm');
-      @include u-line-height('sans', 2);
-    }
-    &:hover{
-      @include u-bg('gray-warm-2');
-    }
-  }
+  
   footer{
     @include u-padding-y(4);
     @include u-text('center');

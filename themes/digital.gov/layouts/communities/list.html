@@ -29,11 +29,11 @@
 
         {{/* Gather only the pages with a weight greater than or equal to 1 */}}
         {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
-        
+
         {{ range $i, $e := $communities }}
           <div class="grid-col-12 tablet:grid-col-6 tablet:flex-6">
 
-            <article class="promo" data-edit-this="{{- .File.Path -}}">
+            <article class="promo promo-card" data-edit-this="{{- .File.Path -}}">
               <div class="grid-row grid-gap-4">
                 <div class="grid-col-12">
                   <h4><a href="{{ $e.Permalink }}" title="{{ $e.Title }}">{{ $e.Title }}</a></h4>

@@ -1,48 +1,79 @@
 // promos
 
 // The individual promos
-article.promo{
-  @include u-margin-bottom(2);
-  @include u-padding(2);
-  @include u-bg('gray-warm-5');
-  @include u-radius('md');
+.promo{
+  @include u-margin-y(1);
+  @include u-padding-y(1);
   h3{
     @include u-margin(0);
-    @include u-font('sans', 'sm');
-    @include u-line-height('sans', 1);
+    @include u-font('sans', 'md');
+    @include u-line-height('sans', 2);
     z-index: 2;
     position: relative;
     a{
       @include u-text('no-underline');
       @include u-text('indigo-80');
       &:hover{
-        border-bottom: 3px #fc906d solid; // $indigo-40
+        @include u-border-bottom('05', 'orange-warm-30v', 'solid');
       }
     }
   }
-  img.thumb{
-    @include u-float('right');
-    @include u-width(4);
-    @include u-height(4);
+  img{
+    @include u-margin-top('05');
+    @include u-margin-right(2);
+    @include u-width(5);
+    @include u-height(5);
   }
   p{
-    @include u-margin-top('05');
-    @include u-font('sans', 'xs');
+    @include u-margin-top(0);
+    @include u-font('sans', 'md');
+    @include u-line-height('sans', 3);
+  }
+  a{
     @include u-text('indigo-80');
-    @include u-line-height('sans', 1);
+    @include u-text('bold');
+    @include u-text('no-underline');
   }
   // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
   position: relative;
-  span{
-    margin: 0;
-    position:absolute;
-    width:100%;
-    height:100%;
-    top:0;
-    left: 0;
-    z-index: 1;
+  .overlay span{
+		@include u-margin(0);
+		@include u-position('absolute');
+		@include u-width('full');
+		@include u-height('full');
+		@include u-top(0);
+		@include u-left(0);
+		z-index: 1;
+	}
+  &:hover{
+    // @include u-bg('gray-warm-3');
+    p a{
+      @include u-border-bottom('05', 'orange-warm-30v', 'solid');
+    }
+  }
+}
+
+.promo-card{
+  @include u-margin-bottom(2);
+  @include u-padding(2);
+  @include u-bg('gray-warm-3');
+  @include u-radius('md');
+  @include u-minh('card');
+  img{
+    @include u-margin(0);
+    @include u-float('right');
+    @include u-width(7);
+    @include u-height(7);
   }
   &:hover{
-    @include u-bg('gray-warm-10');
+    @include u-bg('gray-warm-5');
+    a{
+      @include u-border-bottom('05', 'orange-warm-30v', 'solid');
+    }
+  }
+  p{
+    @include u-margin-top(1);
+    @include u-font('sans', 'sm');
+    @include u-line-height('sans', 2);
   }
 }

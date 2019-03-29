@@ -27,14 +27,14 @@
       {{/* TODO — make the # shown on homepage a config variable */}}
       {{ range $i, $e := first 9 . }}
         <div class="grid-col-12 tablet:grid-col-4 flex-6">
-          <article class="promo" data-edit-this="{{- .File.Path -}}">
+          <article class="promo promo-card" data-edit-this="{{- .File.Path -}}">
             {{ if .Params.icon }}
             {{ $src := (print "/promos/" .Params.icon) }}
             <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
             {{ end }}
             <h3><a href="{{ .Params.url }}?dg" title="{{ .Params.title }}">{{ .Params.title }}</a></h3>
             <p>{{ .Params.summary | markdownify }}</p>
-            <a href="{{ .Params.url }}?dg" title="{{ .Params.title }}"><span></span></a>
+            <a class="overlay" href="{{ .Params.url }}?dg" title="{{ .Params.title }}"><span></span></a>
           </article>
         </div>
       {{ end }}
