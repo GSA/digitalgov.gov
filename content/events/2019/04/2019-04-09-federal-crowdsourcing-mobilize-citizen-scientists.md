@@ -38,6 +38,8 @@ This webinar will take place on Zoom and a link will be shared before the event.
 - **June 11:** The Opportunity Project, U.S. Census Bureau
 - **July 9:** Open Opportunities, Office of Personnel Management
 
+For information on this episode or upcoming events in the crowdsourcing series, contact [team@challenge.gov](mailto:team@challenge.gov?subject=Crowdsourcing%20Series%20on%20DGU).
+
 ---
 
 {{< img-right src="challenge-gov-logo" >}}
