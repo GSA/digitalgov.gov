@@ -20,7 +20,7 @@ topics:
 
 ### What are Terms of Service (TOS)?
 
-Whenever you install iTunes or sign up for a site like Facebook or Twitter, at a certain point you have to click on a button and check a box that says something like &#8220;I agree to these Terms.&#8221; These are the [Terms of Service]({{< link "federal-compatible-terms-of-service-agreements.md" >}}) (or TOS), the rules companies require for doing business with them. Most people never read the rules. They just accept them and jump right into using the tool. All sorts of  products have terms: social sharing sites, usability testing tools, or many of the mobile apps on your smartphone.
+Whenever you install iTunes or sign up for a site like Facebook or Twitter, at a certain point you have to click on a button and check a box that says something like &#8220;I agree to these Terms.&#8221; These are the [Terms of Service]({{< link "/guide/terms-of-service/_index.md" >}}) (or TOS), the rules companies require for doing business with them. Most people never read the rules. They just accept them and jump right into using the tool. All sorts of  products have terms: social sharing sites, usability testing tools, or many of the mobile apps on your smartphone.
 
 ### Why are Terms of Service a big deal?
 
@@ -41,7 +41,7 @@ The good news is that many companies are willing to negotiate their Terms of Ser
 
 ### OK. What should I do to get an Amended Terms of Service?
 
-You&#8217;ll need to know whether the tool is free or paid, because that will determine whether you should work with a Contracting Officer or not (again, see the flowchart). If a Contracting Officer is not involved, you&#8217;ll then work with your agency lawyers (legal counsel) to create an Amended Terms of Service. Many agencies have done this successfully. The results—more than 70 completed Amended TOS—can be found on our [federally-compatible Terms of Service agreements]({{< link "federal-compatible-terms-of-service-agreements.md" >}}) page.
+You&#8217;ll need to know whether the tool is free or paid, because that will determine whether you should work with a Contracting Officer or not (again, see the flowchart). If a Contracting Officer is not involved, you&#8217;ll then work with your agency lawyers (legal counsel) to create an Amended Terms of Service. Many agencies have done this successfully. The results—more than 70 completed Amended TOS—can be found on our [federally-compatible Terms of Service agreements]({{< link "/guide/terms-of-service/_index.md" >}}) page.
 
 Your legal counsel will take a look at the company&#8217;s current TOS for the tool and identify any issues that could be a problem. She or he will then reach out to the company and ask them to modify their terms to meet federal needs. Often, the company will agree to the federal modifications your attorney proposes immediately. Other times, there is a back-and-forth as certain terms are added or deleted.
 
@@ -83,4 +83,4 @@ Each agency is unique and operates under its own set of authorities, and GSA its
 
 ## **For more information**
 
-Visit our [main Terms of Service page]({{< link "federal-compatible-terms-of-service-agreements.md" >}}).
+Visit our [main Terms of Service page]({{< link "/guide/terms-of-service/_index.md" >}}).

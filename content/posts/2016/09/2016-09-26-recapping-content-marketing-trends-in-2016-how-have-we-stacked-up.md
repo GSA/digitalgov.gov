@@ -51,7 +51,7 @@ With more than 200 staff contributing to 130 social media accounts on 14 differe
   </li>
 </ol>
 
-Having negotiated a [federal-friendly terms of service]({{< link "federal-compatible-terms-of-service-agreements.md" >}}) for the blogging platform Medium last year, a [handful of federal agencies]({{< link "2015-07-17-is-it-time-to-try-medium-new-federal-friendly-terms-of-service.md" >}}) have since used the platform to get their message out and connect with the American public. For example, President Obama broke with tradition and shared a sneak peek of his [State of the Union remarks on Medium](https://medium.com/@WhiteHouse/president-obamas-state-of-the-union-address-remarks-as-prepared-for-delivery-55f9825449b2).
+Having negotiated a [federal-friendly terms of service]({{< link "/guide/terms-of-service/_index.md" >}}) for the blogging platform Medium last year, a [handful of federal agencies]({{< link "2015-07-17-is-it-time-to-try-medium-new-federal-friendly-terms-of-service.md" >}}) have since used the platform to get their message out and connect with the American public. For example, President Obama broke with tradition and shared a sneak peek of his [State of the Union remarks on Medium](https://medium.com/@WhiteHouse/president-obamas-state-of-the-union-address-remarks-as-prepared-for-delivery-55f9825449b2).
 
 When looking to redesign U.S. paper money, The U.S. Department of the Treasury also used [Medium](https://medium.com/@USTreasury/we-heard-from-you-afa4c2238d37) to highlight many of the over one million responses and idea submissions via mail, email, tweets and other social media from a very passionate audience.
 

@@ -237,7 +237,7 @@ GSA has negotiated federal friendly Terms of Service with the following tools th
   * [SurveyMonkey](http://www.surveymonkey.com/)
   * [UserVoice](http://www.uservoice.com/)
 
-Take a look at the process for [signing the terms and using the tool]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") and talk to [your agency POC]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements").
+Take a look at the process for [signing the terms and using the tool]({{< link "/guide/terms-of-service/_index.md" >}} "Federal-Compatible Terms of Service Agreements") and talk to [your agency POC]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements").
 
 ### Is there exact wording for the Customer Satisfaction questions? Should it be exactly what’s outlined in the DAP Metrics Guidance under the Customer Satisfaction Metrics Section?
 
