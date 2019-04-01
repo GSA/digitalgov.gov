@@ -55,6 +55,9 @@
           {{/* Gets the past events */}}
           {{- $past_events := where (where .Paginator.Pages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
+          {{/* Gets the past events that have youtube_id set  */}}
+          {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+
           {{/* Gets the recent blog posts */}}
           {{- $posts := where .Paginator.Pages "Section" "posts" -}}
 

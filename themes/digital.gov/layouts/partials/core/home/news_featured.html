@@ -20,6 +20,9 @@
           {{/* Gets the past events */}}
           {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
+          {{/* Gets the past events that have youtube_id set  */}}
+          {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+
           {{/* Gets the recent blog posts */}}
           {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
 
@@ -55,8 +58,10 @@
 
           {{- end -}}
         </section>
+
       </div>
     </div>
+
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
         <footer>
@@ -65,5 +70,6 @@
         </footer>
       </div>
     </div>
+
   </div>
 </section>
