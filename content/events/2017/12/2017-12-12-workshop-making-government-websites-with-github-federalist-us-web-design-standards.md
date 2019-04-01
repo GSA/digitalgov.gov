@@ -22,6 +22,11 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
   - /event/workshop-making-government-websites-with-github-federalist-us-web-design-standards
+topics:
+  - code
+  - design
+  - uswds
+  - draft-web-design-standards
 
 ---
 
