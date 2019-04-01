@@ -1,6 +1,5 @@
 // Table of Contents
 
-
 .toc{
 	@include u-padding-x(3);
 	@include u-padding-y(2);
@@ -10,13 +9,18 @@
 		@include u-margin-bottom(2);
 	}
 	ul{
-		// @include add-list-reset;
-		@include u-padding-left(2);
+		@include add-list-reset;
+		// @include u-padding-left(2);
 		li{
 			@include u-margin-bottom('105');
 			@include u-font('sans', '2xs');
-			@include u-line-height('sans', 1);
-			list-style-type: circle;
+			@include u-line-height('sans', 3);
+			a{
+				@include u-text('no-underline');
+				&:hover{
+					@include u-text('underline');
+				}
+			}
 		}
 	}
 }
