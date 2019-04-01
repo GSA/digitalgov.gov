@@ -12,6 +12,10 @@ registration_url: https://www.eventbrite.com/e/cut-through-the-noise-connect-wit
 youtube_id: rXYUcCDkF9I
 aliases:
   - /event/connect-with-your-spanishlanguage-audience-on-social-media/
+topics:
+  - social-media
+  - multilingual
+
 ---
 
 ## Registration requirements:
