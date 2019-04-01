@@ -16,6 +16,8 @@ youtube_id: FP7acMUgeR8
 
 ---
 
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993572&CustomerID=321)_
+
 Google divides the user website journey across different sections of Google Analytics Standard Reports.
 
 In this webinar, Freddie Blicher, Analyst for the Digital Analytics Program (DAP), will do a deep dive into behavior reporting to help DAP users understand how to use it and what are the pitfalls. We’ll also unpack the most often used reports, and also speak to some lesser known reports and how DAP users can leverage them for analysis and insights.
