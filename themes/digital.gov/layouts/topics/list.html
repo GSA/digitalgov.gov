@@ -32,8 +32,6 @@
 
     </div>
 
-
-
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
         <section>
@@ -47,8 +45,18 @@
             {{ partial "core/list_related_communities.html" . }}
 
           {{- end -}}
+        </section>
+      </div>
+    </div>
+  </div>
 
-          <div class="stream">
+
+  <section id="news">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12 ">
+          <section class="stream">
+
           {{/* Blog Posts by Topic —
           List all of the blog posts and events tagged with this topic */}}
 
@@ -100,10 +108,11 @@
           {{- end -}}
 
           {{- partial "core/pagination.html" . -}}
-        </section>
+          </section>
+        </div>
       </div>
     </div>
-  </div>
+  </section>
 </main>
 
 {{- end -}}
