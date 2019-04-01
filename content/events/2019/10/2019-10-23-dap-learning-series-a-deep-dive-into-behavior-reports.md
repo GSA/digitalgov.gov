@@ -15,6 +15,7 @@ registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-beh
 youtube_id: FP7acMUgeR8
 
 ---
+
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993572&CustomerID=321)_
 
 Google divides the user website journey across different sections of Google Analytics Standard Reports.
