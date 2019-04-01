@@ -3,7 +3,6 @@ url: /guide/performance/optimize-css/
 title: 'Optimize CSS'
 type: guide
 guide: performance
-guidenav: performance
 summary: "How to optimize CSS and improve the performance of your website."
 weight: 2
 deck: 'The way your website uses CSS has a big impact on the performance of your website'

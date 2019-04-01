@@ -3,7 +3,6 @@ url: /guide/performance/utilize-caching/
 title: 'Utilize Caching'
 type: guide
 guide: performance
-guidenav: performance
 summary: 'How to utilize caching to improve the performance of your website.'
 weight: 5
 deck: 'Reducing the number of times your application requests and processes resources will improve your load time and reduce network data usage'

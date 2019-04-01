@@ -3,7 +3,6 @@ url: /guide/performance/methodology/
 title: 'Methodology'
 type: guide
 guide: performance
-guidenav: performance
 summary: 'We followed the following steps to conduct this study'
 weight: 7
 
