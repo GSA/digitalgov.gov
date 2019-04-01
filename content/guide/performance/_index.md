@@ -2,7 +2,6 @@
 url: /guide/performance/
 title: 'Performance Guide'
 summary: "A guide to improving performance on your website."
-type: guide
 guide: performance
 weight: 1
 deck: 'A guide to improving performance on your website'

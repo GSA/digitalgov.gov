@@ -1,7 +1,6 @@
 ---
 url: /guide/performance/optimize-images/
 title: 'Optimize Images'
-type: guide
 guide: performance
 summary: 'How to optimize images and improve the performance of your website.'
 weight: 3

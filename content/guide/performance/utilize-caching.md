@@ -1,7 +1,6 @@
 ---
 url: /guide/performance/utilize-caching/
 title: 'Utilize Caching'
-type: guide
 guide: performance
 summary: 'How to utilize caching to improve the performance of your website.'
 weight: 5

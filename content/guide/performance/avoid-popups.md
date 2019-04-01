@@ -1,7 +1,6 @@
 ---
 url: /guide/performance/avoid-popups/
 title: 'Avoid Pop-ups'
-type: guide
 guide: performance
 summary: 'Why pop-ups often obstruct and hurt the user experience.'
 weight: 6

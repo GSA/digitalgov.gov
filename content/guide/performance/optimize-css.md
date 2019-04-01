@@ -1,7 +1,6 @@
 ---
 url: /guide/performance/optimize-css/
 title: 'Optimize CSS'
-type: guide
 guide: performance
 summary: "How to optimize CSS and improve the performance of your website."
 weight: 2

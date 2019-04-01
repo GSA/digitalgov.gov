@@ -1,7 +1,6 @@
 ---
 url: /guide/performance/optimize-javascript
 title: 'Optimize JavaScript'
-type: guide
 guide: performance
 summary: 'How to optimize javascript to improve the performance of your website.'
 weight: 4
