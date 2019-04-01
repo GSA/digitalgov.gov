@@ -24,7 +24,7 @@ topics:
 
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3944823&CustomerID=321)._ 
 
-We have a lot of forms in government, and many of them would benefit from better design. In this talk, Caroline Jarrett will explore a curriculum she’s working on about how to design a form. She’ll be asking for our feedback about whether the curriculum contains the right topics and whether it might be useful in U.S. government.
+We have a lot of forms in government, and many of them would benefit from better design. In this talk, Caroline Jarrett will explore a curriculum she’s working on about how to design a form. She’ll be asking for our feedback about whether [the curriculum](http://www.effortmark.co.uk/a-draft-curriculum-for-how-to-design-a-form/) contains the right topics and whether it might be useful in U.S. government.
 
 **Caroline Jarrett** is a leading user experience and usability consultant specializing in forms and surveys. She works on a wide variety of forms (paper and web), websites, transactions, and surveys, and has written extensively on these themes. She speaks regularly at international conferences on design, usability, surveys, and forms. From 2013 to 2016, she worked mostly with the United Kingdom's [Government Digital Service](https://gds.blog.gov.uk/about/) (GDS), and her work helped GDS to create the [GOV.UK Design System](https://design-system.service.gov.uk/), released as a public beta in June 2018. Her main focus at the moment is NHS Digital, mostly providing advice to their team working on the [NHS Service Manual](https://beta.nhs.uk/service-manual/).
 

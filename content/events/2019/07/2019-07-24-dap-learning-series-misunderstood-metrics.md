@@ -21,6 +21,8 @@ topics:
 
 ---
 
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993566&CustomerID=321)_
+
 Google Analytics provides a plethora of metrics for DAP reporting. Digital Analytics Program (DAP) users have access to many metrics, but many of these metrics are misunderstood. What are some examples of misunderstood metrics, and how and when should you use them? We’ll talk about these metrics and their potential misinterpretations and pitfalls.
 
 In this webinar, Freddie Blicher, Analyst for DAP, will discuss:

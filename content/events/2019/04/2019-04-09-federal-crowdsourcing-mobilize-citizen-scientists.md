@@ -22,9 +22,9 @@ topics:
 
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3953097&CustomerID=321)_
 
-Join us on April 9 at 2:00 pm, Eastern for the first installment in GSA’s Federal Crowdsourcing Webinar Series to hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and multiply the ideas and perspectives being brought to a particular issue. 
+Join us on April 9 at 2:00 pm, Eastern for the first installment in GSA’s Federal Crowdsourcing Webinar Series to hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and multiply the ideas and perspectives being brought to a particular issue.
 
-The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/). 
+The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
 
 Learn about resources produced by the community and available on [CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
 
@@ -43,10 +43,14 @@ This webinar will take place on Zoom and a link will be shared before the event.
 - **June 11:** The Opportunity Project, U.S. Census Bureau
 - **July 9:** Open Opportunities, Office of Personnel Management
 
+For information on this episode or upcoming events in the crowdsourcing series, contact [team@challenge.gov](mailto:team@challenge.gov?subject=Crowdsourcing%20Series%20on%20DGU).
+
+This event will be held on Zoom. Our team will distribute a link join the session prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
+
 ---
 
 {{< img-right src="challenge-gov-logo" >}}
 
 _This talk is hosted by [Challenge.gov](https://challenge.gov/). Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market and manage their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).

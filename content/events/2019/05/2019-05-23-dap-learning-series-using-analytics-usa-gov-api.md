@@ -22,6 +22,8 @@ topics:
 
 ---
 
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993561&CustomerID=321)_
+
 Learn how [analytics.usa.gov](analytics.usa.gov), the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats outside of the Google Analytics interface.
 
 In this webinar, attendees will be introduced to the analytics.usa.gov API and how to query it for data.  Attendees will learn:

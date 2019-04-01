@@ -21,6 +21,8 @@ topics:
 
 ---
 
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993567&CustomerID=321)_
+
 Unlock the power of audience reports in Google Analytics in this webinar. Often overlooked in reporting, audience reports empower Digital Analytics Program (DAP) users to start identifying how your site and marketing resonate with your audience.
 
 Build upon your audience report knowledge and learn how to leverage these reports to better understand your audience. We’ll talk about audience reporting with an eye towards helping DAP users understand what’s available, and how to leverage this powerful data.

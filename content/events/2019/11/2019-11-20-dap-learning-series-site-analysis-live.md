@@ -21,6 +21,8 @@ topics:
 
 ---
 
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993574&CustomerID=321)_
+
 DAP users often ask – _“How should I analyze my site?”_
 
 In this webinar, Freddie Blicher, an analyst for the Digital Analytics Program (DAP), will do a live demonstration of a real site analysis - from defining website mission, goals and KPIs to pulling reporting to better understand site performance.

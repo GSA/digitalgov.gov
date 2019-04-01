@@ -21,6 +21,8 @@ topics:
 
 ---
 
+_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993569&CustomerID=321)_
+
 The acquisition reporting section contains some of the most valuable data in Google Analytics, but if you don’t track your acquisition traffic properly, you might not be using it to its full potential. In this training, attendees will learn:
 
 - about the reports in the Acquisition section
