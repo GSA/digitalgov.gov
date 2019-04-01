@@ -12,6 +12,10 @@ registration_url: https://www.eventbrite.com/e/an-around-the-world-recap-plain-m
 youtube_id: 3FKyVeipMss
 aliases:
   - /event/online-an-around-the-world-recap-plain-monthly-meeting/
+topics:
+  - plain-language
+  - plain-language-community-of-practice
+
 ---
 
 In this month's meeting, the [Plain Language Action and Information Network (PLAIN)](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) co-chairs will provide a recap of international plain language initiatives discussed at the 2017 Plain Language Association International conference in Graz, Austria.
