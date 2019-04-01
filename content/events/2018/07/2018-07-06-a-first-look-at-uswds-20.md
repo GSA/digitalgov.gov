@@ -13,6 +13,9 @@ event_organizer: DigitalGov University
 host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/july-us-web-design-system-monthly-call-tickets-46807677022
 youtube_id: TuOqjxirOUA
+topics:
+  - design
+  - uswds
 
 ---
 
