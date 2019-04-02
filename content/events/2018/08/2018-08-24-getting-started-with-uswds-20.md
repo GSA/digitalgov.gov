@@ -25,7 +25,6 @@ topics:
   - user-centered-design
   - user-experience
   - uswds
-  - us-web-design-standards
   - ux
 
 ---
