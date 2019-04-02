@@ -2,7 +2,7 @@
 url: /resources/web-accessibility-guidelines/
 title: Web Accessibility Guidelines (WCAG)
 deck: "A single shared standard for web content accessibility, developed in the open to meet the needs of individuals, organizations, and governments internationally"
-src: https://www.w3.org/WAI/standards-guidelines/wcag/
+source_url: https://www.w3.org/WAI/standards-guidelines/wcag/
 summary: 'The Web Content Accessibility Guidelines (WCAG) documents explain how to make web content more accessible to people with disabilities. Web &#8220;content&#8221; generally refers to the information in a web page or web application, including: natural information such as text, images, and sounds code or markup that defines structure, presentation, etc. View the Web Accessibility Guidelines'
 topics:
   - accessibility

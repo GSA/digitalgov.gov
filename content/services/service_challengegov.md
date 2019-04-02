@@ -9,7 +9,7 @@ summary: 'An open innovation hub for challenge and prize competitions.'
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-# src: 'https://challenge.gov/'
+# source_url: 'https://challenge.gov/'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder

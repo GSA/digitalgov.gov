@@ -7,9 +7,9 @@ title: 'U.S. Digital Registry'
 # Keep it short — should be no longer than 10 words.
 summary: 'A resource for confirming the official status of government social media accounts, mobile apps, and mobile websites.'
 
-# What URL are we pointing to?
+# Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-# src: 'https://digital.gov/services/u-s-digital-registry/'
+# source_url: 'https://digital.gov/services/u-s-digital-registry/'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder

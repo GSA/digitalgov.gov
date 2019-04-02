@@ -7,7 +7,7 @@ name: 'Digital.gov'
 summary: 'a one-line summary of the source'
 
 # Images need to be 200x200px with a transparent background
-# Upload new images to Github in the /static/source/ folder
+# Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
 domain: 'digit-150.png'

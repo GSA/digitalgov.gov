@@ -36,32 +36,32 @@
             {{ if $services }}
               <div class="promo" data-edit-this="{{- .File.Path -}}">
 
-                {{ if .Params.src -}}
+                {{ if .Params.source_url -}}
                 <div class="display-flex flex-align-start">
-                  <a href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
+                  <a href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
                     {{- if .Params.icon -}}
                       {{- $src := (print "/logos/" .Params.icon) -}}
                       <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
                     {{- else -}}
-                      <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.src -}}" alt="{{- .Params.source -}}">
+                      <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
                     {{- end -}}
                   </a>
                   <p>
-                    <a class="external-link" href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
+                    <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
                     {{- if .Params.summary }} — {{ .Params.summary | markdownify }}{{- end -}}
                   </p>
                 </div>
-                <a class="overlay" href="{{ .Params.src }}?=dg" title="{{ .Params.title }}"><span></span></a>
+                <a class="overlay" href="{{ .Params.source_url }}?=dg" title="{{ .Params.title }}"><span></span></a>
 
                 {{- else -}}
 
                 <div class="display-flex flex-align-start">
-                  <a href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
+                  <a href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
                     {{- if .Params.icon -}}
                       {{- $src := (print "/logos/" .Params.icon) -}}
                       <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
                     {{- else -}}
-                      <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.src -}}" alt="{{- .Params.source -}}">
+                      <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
                     {{- end -}}
                   </a>
                   <p>

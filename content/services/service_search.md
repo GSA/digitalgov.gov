@@ -7,9 +7,9 @@ title: 'Search.gov'
 # Keep it short — should be no longer than 10 words.
 summary: 'A free hosted search platform for federal websites.'
 
-# What URL are we pointing to?
+# Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-src: 'https://search.gov/'
+source_url: 'https://search.gov/'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder

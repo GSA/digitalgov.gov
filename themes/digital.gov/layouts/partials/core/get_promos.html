@@ -81,9 +81,9 @@
           {{ $src := (print "/logos/" .Params.icon) }}
           <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
           {{ end }}
-          <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.name }}">{{ .Params.name }}</a></h3>
+          <h3><a href="{{ .Params.source_url }}?dg" title="{{ .Params.name }}">{{ .Params.name }}</a></h3>
           <p>{{ .Params.summary | markdownify }}</p>
-          <a href="{{ .Params.src }}?dg" title="{{ .Params.name }}"><span></span></a>
+          <a href="{{ .Params.source_url }}?dg" title="{{ .Params.name }}"><span></span></a>
         </article>
 
       {{ end }}

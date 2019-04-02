@@ -6,7 +6,7 @@
       {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
       {{- if $source -}}
         {{- if $source.Params.icon -}}
-          {{ $src := (print "/sources/" $source.Params.icon) }}
+          {{ $src := (print "/logos/" $source.Params.icon) }}
           <img src="{{ $src | relURL }}" alt="{{- $source.Params.name -}}">
         {{- end -}}
 

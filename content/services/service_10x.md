@@ -7,7 +7,7 @@ summary: 'Funding technology-focused ideas that improve the experience people ha
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-src: 'https://10x.gsa.gov/'
+source_url: 'https://10x.gsa.gov/'
 
 # Images need to be at 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder

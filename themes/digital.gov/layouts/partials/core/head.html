@@ -106,11 +106,11 @@
   </script>
   {{- end -}}
 
-  {{- if $.Params.src -}}
+  {{- if $.Params.source_url -}}
   {{- "<!-- Redirect =============== -->" | safeHTML }}
-  <meta http-equiv="refresh" content="0; url={{ $.Params.src }}">
+  <meta http-equiv="refresh" content="0; url={{ $.Params.source_url }}">
   <script type="text/javascript">
-    window.location.href = "{{ $.Params.src }}?dg"
+    window.location.href = "{{ $.Params.source_url }}?dg"
   </script>
   {{ end }}
 

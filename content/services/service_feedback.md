@@ -5,9 +5,9 @@ title: 'Feedback'
 # Keep it short — should be no longer than 10 words.
 summary: 'a one-line summary of the product'
 
-# What URL are we pointing to?
+# Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-src: 'https://digital.gov/'
+source_url: 'https://digital.gov/'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
