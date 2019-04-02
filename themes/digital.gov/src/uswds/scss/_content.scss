@@ -118,6 +118,32 @@
     @include u-float('right');
   }
 
+  // tables
+  table{
+    @include u-margin-y(2);
+    @include u-font('sans', 'xs');
+    tr{
+      th,
+      td{
+        @include u-padding-y(1);
+        @include u-padding-x(1);
+        @include u-text('left');
+        vertical-align: top;
+        @include u-border-bottom('1px', 'solid', 'base-lighter');
+        .icon{
+          @include u-width('205');
+        }
+      }
+      th:first-child,
+      td:first-child{
+        @include u-padding-left(0);
+      }
+      th:last-child,
+      td:last-child{
+        @include u-padding-right(0);
+      }
+    }
+  }
   // Images
   .image{
     @include u-margin-top(2);
