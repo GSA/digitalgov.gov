@@ -7,12 +7,12 @@
       {{- if $source -}}
         {{- if $source.Params.icon -}}
           {{ $src := (print "/logos/" $source.Params.icon) }}
-          <img src="{{ $src | relURL }}" alt="{{- $source.Params.name -}}">
+          <img src="{{ $src | relURL }}" alt="{{- $source.Params.name -}} logo">
         {{- end -}}
 
       {{/* Otherwise, use the Favicon that Google stores for the site. */}}
       {{- else -}}
-        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo">
       {{ end }}
     </div>
     <div class="content">

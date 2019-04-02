@@ -18,9 +18,9 @@ A list of the most important resources tagged with the same topic */}}
         <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
           {{- if .Params.icon -}}
             {{- $src := (print "/logos/" .Params.icon) -}}
-            <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+            <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Title }} Logo">
           {{- else -}}
-            <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+            <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo">
           {{- end -}}
           <span>{{ .Title | markdownify }}</span>
         </a>
