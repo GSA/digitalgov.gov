@@ -3,13 +3,13 @@ slug: 18f-methods
 date: 2019-04-02 17:25:00 -0500
 
 title: '18F Methods'
-deck: 'A collection of tools that describe how teams can put human-centered design into practice&#46;'
-summary: 'A collection of tools that describe how teams can put human-centered design into practice&#46;'
-authors: 
+deck: 'A collection of tools that describe how teams can put human-centered design into practice.'
+summary: 'A collection of tools that describe how teams can put human-centered design into practice.'
+authors:
   - jeremyzilar
 
 # Topics that best describe this product or service
-topics: 
+topics:
   - content
   - design
   - agile
