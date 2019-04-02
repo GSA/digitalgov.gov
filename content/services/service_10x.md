@@ -10,7 +10,7 @@ summary: 'Funding technology-focused ideas that improve the experience people ha
 src: 'https://10x.gsa.gov/'
 
 # Images need to be at 200x200px with a transparent background
-# Upload new images to Github in the /static/promos/ folder
+# Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: '10x.png'

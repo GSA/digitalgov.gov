@@ -40,7 +40,7 @@
                 <div class="display-flex flex-align-start">
                   <a href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
                     {{- if .Params.icon -}}
-                      {{- $src := (print "/promos/" .Params.icon) -}}
+                      {{- $src := (print "/logos/" .Params.icon) -}}
                       <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
                     {{- else -}}
                       <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.src -}}" alt="{{- .Params.source -}}">
@@ -58,7 +58,7 @@
                 <div class="display-flex flex-align-start">
                   <a href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
                     {{- if .Params.icon -}}
-                      {{- $src := (print "/promos/" .Params.icon) -}}
+                      {{- $src := (print "/logos/" .Params.icon) -}}
                       <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
                     {{- else -}}
                       <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.src -}}" alt="{{- .Params.source -}}">

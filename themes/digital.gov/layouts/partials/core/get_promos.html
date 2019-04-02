@@ -78,7 +78,7 @@
 
         <article class="promo">
           {{ if .Params.icon }}
-          {{ $src := (print "/promos/" .Params.icon) }}
+          {{ $src := (print "/logos/" .Params.icon) }}
           <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
           {{ end }}
           <h3><a href="{{ .Params.src }}?dg" title="{{ .Params.name }}">{{ .Params.name }}</a></h3>

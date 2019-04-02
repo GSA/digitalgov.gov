@@ -29,7 +29,7 @@
         <div class="grid-col-12 tablet:grid-col-4 flex-6">
           <article class="promo promo-card" data-edit-this="{{- .File.Path -}}">
             {{ if .Params.icon }}
-            {{ $src := (print "/promos/" .Params.icon) }}
+            {{ $src := (print "/logos/" .Params.icon) }}
             <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
             {{ end }}
             <h3><a href="{{ .Params.url }}?dg" title="{{ .Params.title }}">{{ .Params.title }}</a></h3>

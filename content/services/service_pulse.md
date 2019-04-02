@@ -10,7 +10,7 @@ summary: 'Measures how U.S. government domains are following best practices for 
 src: 'https://pulse.cio.gov/'
 
 # Images need to be 200x200px with a transparent background
-# Upload new images to Github in the /static/promos/ folder
+# Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 icon: 'pulse.png'

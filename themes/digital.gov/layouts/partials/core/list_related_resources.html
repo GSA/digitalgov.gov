@@ -17,7 +17,7 @@ A list of the most important resources tagged with the same topic */}}
       <li class="indent" data-edit-this="{{- .File.Path -}}">
         <a class="external-link" href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
           {{- if .Params.icon -}}
-            {{- $src := (print "/promos/" .Params.icon) -}}
+            {{- $src := (print "/logos/" .Params.icon) -}}
             <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
           {{- else -}}
             <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.src -}}" alt="{{- .Params.source -}}">

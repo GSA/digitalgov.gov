@@ -11,7 +11,7 @@ summary: 'Managing Information as a Strategic Resource'
 src: 'https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf'
 
 # Images need to be 200x200px with a transparent background
-# Upload new images to Github in the /static/promos/ folder
+# Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
 # icon: "accessibility.png"
