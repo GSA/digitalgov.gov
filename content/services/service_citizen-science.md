@@ -13,7 +13,7 @@ src: 'https://citizenScience.gov/'
 # Upload new images to Github in the /static/promos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-# icon: '10x.png'
+icon: 'citizen-science.png'
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage

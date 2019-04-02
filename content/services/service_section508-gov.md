@@ -13,7 +13,7 @@ src: 'https://www.section508.gov/'
 # Upload new images to Github in the /static/promos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-# icon: 'uswds.png'
+icon: 'gsa.png'
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage
