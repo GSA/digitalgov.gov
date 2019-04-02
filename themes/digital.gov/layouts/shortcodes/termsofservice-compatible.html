@@ -25,7 +25,7 @@
     {{ end }}
     {{ $iconsrc := $.Scratch.Get "iconfile" }}
 
-    <td class="text-right"><a href="{{ $.Scratch.Get "filepath" }}" title="{{ .name }}"><i class='fas fa-{{ $iconsrc }}'></i> view</a></td>
+    <td><a href="{{ $.Scratch.Get "filepath" }}" title="{{ .name }}"><i class='fas fa-{{ $iconsrc }}'></i> view</a></td>
   </tr>
   {{ end }}
 </table>

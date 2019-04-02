@@ -122,6 +122,7 @@
   table{
     @include u-margin-y(2);
     @include u-font('sans', 'xs');
+    @include u-width('full');
     tr{
       th{
         @include u-text('left');
