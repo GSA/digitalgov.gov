@@ -2,8 +2,8 @@
 slug: 18f-guide-product-management
 date: 2019-04-03 17:34:00 -0500
 
-title: '18F Guide to Product Management'
-deck: 'A resource for product management best practices.'
+title: 'Guide to Doing Product Management Well'
+deck: 'Product management best practices from the team at 18F'
 summary: 'A resource for product management best practices.'
 authors:
   - jeremyzilar
