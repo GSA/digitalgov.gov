@@ -34,8 +34,9 @@
         <div class="list-collection">
           {{ range $i, $e := $services }}
             {{ if $services }}
-
               <div class="promo" data-edit-this="{{- .File.Path -}}">
+
+                {{ if .Params.src -}}
                 <div class="display-flex flex-align-start">
                   <a href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
                     {{- if .Params.icon -}}
@@ -46,17 +47,32 @@
                     {{- end -}}
                   </a>
                   <p>
-                    <a {{ if .Params.src -}}class="external-link"{{- end }} href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
+                    <a class="external-link" href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
                     {{- if .Params.summary }} — {{ .Params.summary | markdownify }}{{- end -}}
                   </p>
                 </div>
-                <a class="overlay" href="{{ .Params.url }}?dg" title="{{ .Params.title }}"><span></span></a>
+                <a class="overlay" href="{{ .Params.src }}?=dg" title="{{ .Params.title }}"><span></span></a>
 
+                {{- else -}}
+
+                <div class="display-flex flex-align-start">
+                  <a href="{{- .Params.src -}}?=dg" title="{{ .Title | markdownify }}">
+                    {{- if .Params.icon -}}
+                      {{- $src := (print "/promos/" .Params.icon) -}}
+                      <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+                    {{- else -}}
+                      <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.src -}}" alt="{{- .Params.source -}}">
+                    {{- end -}}
+                  </a>
+                  <p>
+                    <a href="{{- .Params.url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
+                    {{- if .Params.summary }} — {{ .Params.summary | markdownify }}{{- end -}}
+                  </p>
+                </div>
+                <a class="overlay" href="{{ .Params.url }}?=dg" title="{{ .Params.title }}"><span></span></a>
+                {{ end }}
               </div>
-
-            {{ else }}
             {{ end }}
-
           {{ end }}
         </div>
 
