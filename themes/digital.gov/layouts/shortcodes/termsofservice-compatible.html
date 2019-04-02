@@ -11,22 +11,21 @@
 
     {{ $.Scratch.Set "filepath" (printf "%s" "null") }}
     {{ if eq .type "pdf" }}
-      {{ $.Scratch.Set "iconfile" "img/icon-pdf.png" }}
+      {{ $.Scratch.Set "iconfile" "file-pdf" }}
       {{ $.Scratch.Set "filepath" (printf "%s/%s/%s" $cdnurl $legacyPath .uri) }}
     {{ else if eq .type "wdoc" }}
-      {{ $.Scratch.Set "iconfile" "img/icon-word.png" }}
+      {{ $.Scratch.Set "iconfile" "file-word" }}
       {{ $.Scratch.Set "filepath" (printf "%s/%s/%s" $cdnurl $legacyPath .uri) }}
     {{ else if eq .type "gdoc" }}
-      {{ $.Scratch.Set "iconfile" "img/icon-gdoc.png" }}
+      {{ $.Scratch.Set "iconfile" "file-alt" }}
       {{ $.Scratch.Set "filepath" (printf "%s" .uri) }}
     {{ else if eq .type "web" }}
-      {{ $.Scratch.Set "iconfile" "web" }}
+      {{ $.Scratch.Set "iconfile" "globe" }}
       {{ $.Scratch.Set "filepath" .uri }}
     {{ end }}
     {{ $iconsrc := $.Scratch.Get "iconfile" }}
-    {{ $fileicon := printf "<img class='icon-file icon' src='$iconsrc' alt='(.uri)'>" }}
 
-    <td class="tos"><a href="{{ $.Scratch.Get "filepath" }}" title="{{ .name }}">view <img class="icon-file icon icon-{{ .type }}" src="{{ $iconsrc | absURL }}" alt="{{ .type }}"> </a></td>
+    <td class="text-right"><a href="{{ $.Scratch.Get "filepath" }}" title="{{ .name }}"><i class='fas fa-{{ $iconsrc }}'></i> view</a></td>
   </tr>
   {{ end }}
 </table>

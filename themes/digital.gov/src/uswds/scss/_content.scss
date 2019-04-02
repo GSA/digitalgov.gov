@@ -123,13 +123,21 @@
     @include u-margin-y(2);
     @include u-font('sans', 'xs');
     tr{
+      th{
+        @include u-text('left');
+      }
       th,
       td{
         @include u-padding-y(1);
         @include u-padding-x(1);
-        @include u-text('left');
         vertical-align: top;
         @include u-border-bottom('1px', 'solid', 'base-lighter');
+        a{
+          @include u-text('no-underline');
+          &:hover{
+            @include u-text('underline');
+          }
+        }
         .icon{
           @include u-width('205');
         }
