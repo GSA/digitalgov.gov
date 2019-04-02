@@ -1,4 +1,20 @@
 // Guide Nav
+.guide-nav{
+	@include u-padding-left(3);
+	li{
+		@include u-margin-bottom('105');
+		@include u-font('sans', 'lg');
+		@include u-line-height('sans', 3);
+		@include u-text('bold');
+		a{
+			@include u-text('no-underline');
+			@include u-text('indigo-warm-70');
+			&:hover{
+				@include u-border-bottom('05', 'orange-warm-30v', 'solid');
+			}
+		}
+	}
+}
 .guide-nav-box {
 	@include u-margin-bottom(5);
 	.guide-title{

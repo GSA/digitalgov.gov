@@ -24,22 +24,21 @@
     <section>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row grid-gap-4">
-          {{/* Gets the current page URL */}}
-          {{ $current_url := .URL }}
-          {{ range $i, $e := (where .Site.Pages.ByWeight ".Params.guide" .Params.guide) }}
-            {{/* If $current_url is NOT equal to the URL, then print the page */}}
-            {{ if not (eq $current_url $e.URL) }}
-            <div class="grid-col-12 tablet:grid-col-6 flex-6">
-              <div class="topic">
-                <h3>
-                  <a class="text-no-underline text-ink" href="{{ $e.Permalink }}" title="{{$e.Title}}">{{$e.Title}} <span>&#8594;</span></a>
-                </h3>
-              </div>
-            </div>
+          <div class="grid-col-12 tablet:grid-col-9">
+            <ul class="guide-nav">
+            {{/* Gets the current page URL */}}
+            {{ $current_url := .URL }}
+            {{ range $i, $e := (where .Site.Pages.ByWeight ".Params.guide" .Params.guide) }}
+              {{/* If $current_url is NOT equal to the URL, then print the page */}}
+              {{ if not (eq $current_url $e.URL) }}
+                <li>
+                  <a href="{{ $e.Permalink }}" title="{{$e.Title}}">{{$e.Title}}</a>
+                </li>
 
+              {{ end }}
             {{ end }}
-
-          {{ end }}
+            </ul>
+          </div>
         </div>
       </div>
     </section>
