@@ -1,15 +1,15 @@
 ---
-slug: 18f-guide-product-managements
+slug: 18f-guide-product-management
 date: 2019-04-03 17:34:00 -0500
 
-title: '18F Guide to Product Managements'
-deck: 'A resource for product management best practices&#46;'
-summary: 'A resource for product management best practices&#46;'
-authors: 
+title: '18F Guide to Product Management'
+deck: 'A resource for product management best practices.'
+summary: 'A resource for product management best practices.'
+authors:
   - jeremyzilar
 
 # Topics that best describe this product or service
-topics: 
+topics:
   - design
   - managing-digital
   - strategy
@@ -25,4 +25,3 @@ source: '18f'
 source_url: 'https://product-guide.18f.gov/we-do-product-well/'
 
 ---
-
