@@ -1,22 +1,19 @@
-{{/* Core */}}
-
+<a class="usa-skipnav" href="#main-content">Skip to main content</a>
 <header id="header">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row">
       <div class="grid-col-12 minw-8 tablet-lg:grid-col-3">
-        <div id="explore">
-          <a href="#">Menu</a>
-        </div>
-        <h1 class="logo">
-          <a href="{{- "" | absURL -}}" title="Digital.gov Home">
+        <div class="display-flex flex-justify flex-align-center">
+          <a class="logo" href="{{- "" | absURL -}}" title="Digital.gov Home">
             <img src="{{- "img/digit-50.png" | absURL -}}" alt="Digital.gov"> Digital.gov
           </a>
-        </h1>
+          <a id="explore" href="#">Menu</a>
+        </div>
       </div>
 
       <div class="grid-col-12 tablet-lg:grid-col-9">
 
-        <nav>
+        <nav role="navigation">
           <ul>
             {{ range .Site.Menus.primary }}
               <li><a href="{{.URL}}" title="{{ .Name }}">{{ .Name }}</a></li>

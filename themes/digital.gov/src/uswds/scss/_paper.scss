@@ -1,0 +1,45 @@
+
+.paper{
+  @include u-bg('white');
+  -webkit-transition: margin .2s;
+  transition: margin .2s;
+  z-index: 5;
+  position: relative;
+}
+.paper.open{
+  width: 100%;
+  position: fixed;
+  margin-left: 85%;
+  @include at-media('tablet') {
+    margin-left: 40%;
+  }
+}
+
+.paper .mobile-nav{
+  margin-left: -85%;
+  @include at-media('tablet') {
+    margin-left: -40%;
+  }
+  -webkit-transition: margin .2s;
+  transition: margin .2s;
+}
+
+.paper.open .mobile-nav{
+  margin-left: 0;
+}
+
+.paper .screen{
+  display: none;
+  -webkit-box-shadow: -3px 0px 10px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: -3px 0px 10px 0px rgba(0,0,0,0.5);
+  box-shadow: -3px 0px 10px 0px rgba(0,0,0,0.5);
+}
+.paper.open .screen{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  display: block;
+  background: rgba(255, 255, 255, 0.6);
+  z-index: 10;
+}

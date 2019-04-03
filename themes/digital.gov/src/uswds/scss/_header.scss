@@ -1,71 +1,64 @@
 // Header
 
 header#header{
-	// @include u-bg('gray-warm-5');
 	@include u-margin-bottom(2);
-	@include u-padding-top(3);
+	@include u-padding-top(2);
 	@include u-padding-bottom(3);
+	// @include u-bg('gray-4');
+	// @include u-position('sticky');
+	// @include u-top(0);
+	// @include u-z(100);
 	// tablet-lg and above
 	@include at-media('tablet-lg') {
 		@include u-padding-y(3);
+		// @include u-position('relative');
+		// @include u-top('auto');
 	}
 
 	// Logo
-	h1.logo{
+	.logo{
 		@include u-margin(0);
-		@include u-padding-top('2px');
 		@include u-font('sans', 'xl');
 		@include u-line-height('sans', 1);
 		@include u-display('inline-block');
-		a{
-			@include u-text('black');
-			@include u-text('heavy');
-			@include u-text('no-underline');
+		@include u-text('black');
+		@include u-text('heavy');
+		@include u-text('no-underline');
+		@include at-media('tablet-lg') {
+			// @include u-font('sans', 'xl');
 		}
 		img{
 			// @include u-margin-right(1);
 			@include u-position('relative');
 			@include u-top('05');
 			@include u-width(4);
+			@include at-media('tablet-lg') {
+				// @include u-width(4);
+			}
 		}
 	}
 
 	#explore{
-		position: absolute;
-		right:0;
-		top:-2px;
-		a{
-			@include u-padding(1);
-			border: 2px #5942d2 solid;
-			@include u-radius('sm');
-			@include u-text('no-underline');
-			@include u-font('sans', 'md');
-			@include u-text('semibold');
-			@include u-text('indigo-warm-60v');
-			span{
-				@include u-font('sans', 'xl');
-				position: relative;
-				top:2px;
-			}
+		@include u-margin-top(1);
+		@include u-padding-y('05');
+		@include u-padding-x(1);
+		@include u-border('2px','solid','indigo-warm-60v');
+		@include u-radius('sm');
+		@include u-text('no-underline');
+		@include u-font('sans', 'md');
+		@include u-text('semibold');
+		@include u-text('indigo-warm-60v');
+		@include u-display('none');
+		@include at-media('tablet') {
+			@include u-display('none');
 		}
 	}
-	@include at-media('tablet') {
-		#explore{
-			display: none;
-		}
-	}
-
 
 
 	// Main Navigation
 	nav{
 		@include u-margin-top(3);
-		// padding: .4rem 3px .4rem 2px;
 		@include u-font('sans', 'md');
-		@include u-height('full');
-		@include u-width('full');
-		@include u-minw(7);
-		@include u-minh(7);
 
 		@include u-text('bold');
 		@include u-text('right');
