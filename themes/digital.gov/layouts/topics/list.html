@@ -35,9 +35,10 @@
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
         <section>
-
+          {{ "<!-- test 1 -->" | safeHTML }}
           {{/* If the first page in a paginated sequence */}}
           {{ if eq .Paginator.PageNumber 1}}
+            {{ "<!-- test 2 -->" | safeHTML }}
             {{ partial "core/list_related_resources.html" . }}
 
             {{ partial "core/list_related_services.html" . }}
