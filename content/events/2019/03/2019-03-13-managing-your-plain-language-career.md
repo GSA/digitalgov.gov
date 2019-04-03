@@ -85,7 +85,7 @@ Kat>> I always push Plain Language for emails. Start practicing in your emails. 
 
 Katherine>> And I've also found that it is a hard habit to break. It is hard now not to write in Plain Language. I mean I typically start editing, and it does not really matter if it's an internal or external audience because I have [ Indiscernible - audio cutting out ]. 
 
->I call it a Plain Language haircut. Sometimes you get -- we will receive a document, and it's a bit far down the road to really give it a heavy edit, and I think there is a balance of how much editing you can do on the product based on when the Plain Language person gets involved. We stress heavily, that the Plain Language team needs to be involved from the get-go so that there is no need to do a heavy edit later in the process as the product moves through the production. 
+I call it a Plain Language haircut. Sometimes you get -- we will receive a document, and it's a bit far down the road to really give it a heavy edit, and I think there is a balance of how much editing you can do on the product based on when the Plain Language person gets involved. We stress heavily, that the Plain Language team needs to be involved from the get-go so that there is no need to do a heavy edit later in the process as the product moves through the production. 
 
 Katherine>> I think that you have a list of questions, if I am correct. 
 
@@ -313,7 +313,7 @@ Katherine>> Fair enough, fair enough. I think it's helpful also being able to go
 
 Jonathan>> We recently had a document come to us. It's a legal document, and it was a request for frequently asked questions, a laundry list maybe. I don't know. 15 or 20 questions, and so one of our senior writer-editors took that and said okay, I can edit this for you, and he did, or we can do it this way, and we recommend this course of action, which was turn it into -- the request was [ Indiscernible - low volume ]. So he built out a page with a lot of headers and a lot of white space and very clean, organized, and crisp, and the General Counsel and the DOJ were like hey! That looks great! That's exactly what we need to do. But we gave them some options. We also recommend this way because, and then we justified it, and they were all on board, and it did not change any of the legal conversation that I'll have. 
 
->> Yup, sometimes that -- sometimes, they have to see something better before they can say oh, yeah, please, and one of the things -- also, this gets back to your point, Megan, with analytics. We've started using accordion menus on GSA.gov [ Indiscernible - low volume ], and the beauty of those is you can find out what frequently asked questions people are clicking on, how many times, and so we have looked at some and said okay, we are reordering these in order of the ones that people run the most frequently, and we are actually doing that, and my favorite? Nobody is clicking on these at all. 
+Yup, sometimes that -- sometimes, they have to see something better before they can say oh, yeah, please, and one of the things -- also, this gets back to your point, Megan, with analytics. We've started using accordion menus on GSA.gov [ Indiscernible - low volume ], and the beauty of those is you can find out what frequently asked questions people are clicking on, how many times, and so we have looked at some and said okay, we are reordering these in order of the ones that people run the most frequently, and we are actually doing that, and my favorite? Nobody is clicking on these at all. 
 
 [ Laughter ] 
 
