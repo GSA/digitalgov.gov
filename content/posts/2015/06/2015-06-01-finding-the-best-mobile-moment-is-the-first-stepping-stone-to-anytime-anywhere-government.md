@@ -17,7 +17,7 @@ topics:
   - 'Occupational Safety and Health Administration'
   - OSHA
   - US Department of Veterans Affairs
-  - usa.gov
+  - usa-gov
   - VA
 ---
 

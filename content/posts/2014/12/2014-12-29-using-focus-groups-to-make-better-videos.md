@@ -8,7 +8,7 @@ authors:
 topics:
   - user-testing-and-research
   - ux
-  - usa.gov
+  - usa-gov
   - user-experience
 ---
 

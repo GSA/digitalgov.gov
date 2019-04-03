@@ -25,7 +25,7 @@ topics:
   - multilingual
   - open-source
   - social-media
-  - usa.gov
+  - usa-gov
   - usagov
   - user-centered-design
 ---

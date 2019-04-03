@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - government-contact-centers
   - podcast
-  - usa.gov
+  - usa-gov
 ---
 
 [​DigitalGov University]({{< link "/digitalgov-university/" >}}) has added podcasts to our suite of offerings on DigitalGov, featuring interviews and discussions with leaders in the DigitalGov community.

@@ -22,7 +22,7 @@ topics:
   - social-media
   - SocialGov
   - socialgov-community
-  - usa.gov
+  - usa-gov
   - webinar
 ---
 

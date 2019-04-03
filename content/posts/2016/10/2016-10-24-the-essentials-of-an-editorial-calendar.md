@@ -16,7 +16,7 @@ topics:
   - multimedia
   - social-media
   - social-media-metrics
-  - usa.gov
+  - usa-gov
   - usagov
 ---
 

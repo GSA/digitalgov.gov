@@ -14,7 +14,7 @@ topics:
   - digitalgov-search
   - GobiernoUSAgov
   - personas
-  - usa.gov
+  - usa-gov
   - user-experience
   - ux
 ---

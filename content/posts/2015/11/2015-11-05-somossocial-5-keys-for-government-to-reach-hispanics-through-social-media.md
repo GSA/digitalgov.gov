@@ -23,7 +23,7 @@ topics:
   - social-media
   - Twitter
   - US Small Business Administration
-  - usa.gov
+  - usa-gov
   - usagov
 ---
 

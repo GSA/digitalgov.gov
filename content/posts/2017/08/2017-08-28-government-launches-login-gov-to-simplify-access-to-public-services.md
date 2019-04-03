@@ -30,7 +30,7 @@ topics:
   - US Department of Labor
   - US Department of State
   - US Digital Service
-  - usa.gov
+  - usa-gov
   - usagov
   - USCIS
   - USDS

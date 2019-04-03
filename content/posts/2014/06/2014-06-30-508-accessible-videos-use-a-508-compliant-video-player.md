@@ -11,7 +11,7 @@ topics:
   - accessibility
   - video
   - section-508
-  - US Access Board
+  - us-access-board
   - YouTube
 ---
 

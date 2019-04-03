@@ -21,7 +21,7 @@ topics:
   - OMB
   - SSA
   - The United States Social Security Administration
-  - US Access Board
+  - us-access-board
   - US Department of Education
   - US Department of Labor
   - US Department of Veterans Affairs

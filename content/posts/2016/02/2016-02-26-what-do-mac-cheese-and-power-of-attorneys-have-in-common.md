@@ -9,7 +9,7 @@ topics:
   - content
   - content-strategy
   - GobiernoUSAgov
-  - usa.gov
+  - usa-gov
   - usagov
 ---
 

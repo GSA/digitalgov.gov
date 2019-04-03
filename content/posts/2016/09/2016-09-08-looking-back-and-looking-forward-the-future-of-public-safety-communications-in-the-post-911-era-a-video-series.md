@@ -7,10 +7,9 @@ authors:
   - firstnet-communications
 topics:
   - data
-  - data
   - firstnet
   - innovation
-  - abbabba
+
 ---
 
 The week before Patriot Day, our nation’s annual remembrance of the 9/11 attacks, first responders share their remembrances and vision for the future of public safety communications in this video series. This week, we’ll hear from:
