@@ -3,7 +3,7 @@
 title: 'Federalist'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'Helps federal agencies quickly launch compliant websites.'
+summary: 'A publishing platform that helps federal partners launch, maintain and manage Government websites.'
 
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
