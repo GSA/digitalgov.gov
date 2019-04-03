@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
   - mobile-friendly
-  - Plain language
+  - plain-language
   - responsive-web-design
   - search-engine-optimization
   - usability

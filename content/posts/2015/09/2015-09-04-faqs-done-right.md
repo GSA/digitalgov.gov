@@ -8,7 +8,7 @@ authors:
 topics:
   - ux
   - writing
-  - Plain language
+  - plain-language
   - transportation-security-administration
   - TSA
   - US Citizenship and Immigration Service

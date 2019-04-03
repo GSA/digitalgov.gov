@@ -17,7 +17,7 @@ topics:
   - mobile
   - open-data
   - Open Opportunities program
-  - Plain language
+  - plain-language
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Composite-image-of-social-network-background-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-488640955.jpg" alt="Composite image of social network background" caption="" >}} 

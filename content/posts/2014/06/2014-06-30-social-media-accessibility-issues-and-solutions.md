@@ -16,7 +16,7 @@ topics:
   - FCC
   - Federal Communications Commission
   - infographic
-  - Plain language
+  - plain-language
   - social-media
 ---
 

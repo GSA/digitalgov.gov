@@ -12,7 +12,7 @@ topics:
   - customer-service
   - infographic
   - personas
-  - Plain language
+  - plain-language
   - social-media
   - the-content-corner
   - US Department of Labor

@@ -12,7 +12,7 @@ topics:
   - writing
   - content-strategy
   - plain-language
-  - Plain Language Community of Practice
+  - plain-language-community-of-practice
   - plain-writing-act-of-2010
   - Recaps
 ---

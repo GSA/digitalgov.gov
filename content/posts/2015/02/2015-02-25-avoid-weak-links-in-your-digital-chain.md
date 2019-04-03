@@ -14,7 +14,7 @@ topics:
   - epa
   - fda
   - GSA
-  - Plain language
+  - plain-language
   - search-engine-optimization
   - US Department of Labor
   - us-environmental-protection-agency

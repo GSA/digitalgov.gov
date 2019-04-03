@@ -10,7 +10,7 @@ topics:
   - our-work
   - digitalgov-search
   - https
-  - Plain language
+  - plain-language
   - search-engine-optimization
   - seo
 ---

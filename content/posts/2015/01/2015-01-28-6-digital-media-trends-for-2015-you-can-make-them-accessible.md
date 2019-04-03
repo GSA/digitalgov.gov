@@ -12,7 +12,7 @@ topics:
   - accessibility
   - content-strategy
   - mobile
-  - Plain language
+  - plain-language
   - section-508
   - social-media
 ---

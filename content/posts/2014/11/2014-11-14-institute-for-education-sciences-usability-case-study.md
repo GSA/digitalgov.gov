@@ -10,7 +10,7 @@ topics:
   - ux
   - IES
   - Institute for Education Sciences
-  - Plain language
+  - plain-language
   - US Department of Education
   - usability-case-study
   - user-experience

@@ -12,7 +12,7 @@ topics:
   - GAO
   - nasa
   - Peace Corps
-  - Plain language
+  - plain-language
   - socialgov-community
   - Twitter
   - US Government Accountability Office

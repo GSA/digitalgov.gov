@@ -30,7 +30,7 @@ topics:
   - metrics
   - mobile
   - mobile-first
-  - Plain language
+  - plain-language
   - resource
   - responsive-web-design
   - search-engine-optimization

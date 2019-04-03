@@ -9,7 +9,7 @@ topics:
   - content
   - writing
   - DGU
-  - Plain language
+  - plain-language
   - social-media
 ---
 

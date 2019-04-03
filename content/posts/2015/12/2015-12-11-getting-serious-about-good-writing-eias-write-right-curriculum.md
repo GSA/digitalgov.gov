@@ -8,7 +8,7 @@ authors:
 topics:
   - writing
   - EIA
-  - Plain language
+  - plain-language
   - plain-writing-act-of-2010
   - US Energy Information Administration
 ---

@@ -13,7 +13,7 @@ topics:
   - writing
   - accessibility
   - content
-  - Plain language
+  - plain-language
   - user-centered-design
   - user research
 ---

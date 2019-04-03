@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - writing
-  - Plain language
+  - plain-language
   - plain-writing-act-of-2010
   - Recaps
 ---

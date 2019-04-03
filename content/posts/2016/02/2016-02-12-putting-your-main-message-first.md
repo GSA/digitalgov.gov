@@ -8,8 +8,8 @@ authors:
 topics:
   - content
   - monthly-theme
-  - Plain language
-  - Plain Language Community of Practice
+  - plain-language
+  - plain-language-community-of-practice
   - US Citizenship and Immigration Service
   - USCIS
 ---

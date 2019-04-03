@@ -16,7 +16,7 @@ topics:
   - content
   - GSA
   - IT Schedule 70
-  - Plain language
+  - plain-language
   - US General Services Administration
   - user-experience
 ---

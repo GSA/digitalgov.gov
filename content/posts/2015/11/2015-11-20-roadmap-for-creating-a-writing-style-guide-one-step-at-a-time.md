@@ -8,7 +8,7 @@ authors:
 topics:
   - writing
   - EIA
-  - Plain language
+  - plain-language
   - US Energy Information Administration
 ---
 
