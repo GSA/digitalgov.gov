@@ -46,7 +46,7 @@
             {{- len $topics -}}
             {{- range $name, $taxonomy := $topics.ByTitle -}}
               <tr>
-                <td class="padding-1 border-bottom-1px border-base-lighter">###<a class="text-no-underline text-semibold" href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
+                <td class="padding-1 border-bottom-1px border-base-lighter"><a class="text-no-underline text-semibold" href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
                 <td class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs">{{ .Data.Term }}</td>
               </tr>
             {{- end -}}
