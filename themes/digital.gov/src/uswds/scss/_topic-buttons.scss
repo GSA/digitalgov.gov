@@ -11,7 +11,7 @@
     h3{
       @include u-margin(0);
       a{
-        @include u-overflow('hidden');
+        @include u-overflow('auto');
         white-space:nowrap;
         @include u-padding-y(1);
         @include u-padding-x(1);
@@ -32,7 +32,7 @@
           margin-right: 10px;
           @include u-text('gray-1');
           @include u-display('none');
-          @include at-media('tablet') {
+          @include at-media('tablet-lg') {
             @include u-display('block');
       		}
         }
