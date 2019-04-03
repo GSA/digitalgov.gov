@@ -48,7 +48,7 @@ header#header{
 		@include u-font('sans', 'md');
 		@include u-text('semibold');
 		@include u-text('indigo-warm-60v');
-		@include u-display('none');
+		// @include u-display('none');
 		@include at-media('tablet') {
 			@include u-display('none');
 		}
