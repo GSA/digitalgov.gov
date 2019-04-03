@@ -7,7 +7,7 @@ authors:
   - nicole-wong
 topics:
   - data
-  - big data
+  - big-data
   - white-house-office-of-science-and-technology-policy
 ---
 

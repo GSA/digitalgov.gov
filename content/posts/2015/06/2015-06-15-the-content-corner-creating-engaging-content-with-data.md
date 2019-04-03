@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - administrative-office-of-the-united-states-courts
-  - big data
+  - big-data
   - BLS
   - Census
   - content-strategy

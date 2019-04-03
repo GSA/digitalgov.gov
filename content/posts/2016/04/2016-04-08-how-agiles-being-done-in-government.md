@@ -16,7 +16,7 @@ topics:
   - communities
   - lean
   - methodology
-  - project management
+  - project-management
   - scrum
   - sprint
   - United States Census Bureau

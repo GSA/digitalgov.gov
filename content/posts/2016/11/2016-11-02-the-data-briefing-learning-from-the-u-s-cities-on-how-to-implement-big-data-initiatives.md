@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - strategy
   - policy
-  - big data
+  - big-data
   - data
   - the-data-briefing
 ---

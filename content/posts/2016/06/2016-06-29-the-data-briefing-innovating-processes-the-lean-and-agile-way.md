@@ -11,7 +11,7 @@ topics:
   - agile
   - ai
   - artificial intelligence
-  - big data
+  - big-data
   - cloud
   - data
   - Internet of things

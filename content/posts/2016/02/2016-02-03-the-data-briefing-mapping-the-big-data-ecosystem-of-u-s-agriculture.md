@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - data
-  - big data
+  - big-data
   - Commerce
   - data
   - Department of Commerce

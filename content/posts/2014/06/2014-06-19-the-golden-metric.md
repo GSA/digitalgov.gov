@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - metrics
-  - big data
+  - big-data
   - dap
   - data-gov
   - digital-analytics-program

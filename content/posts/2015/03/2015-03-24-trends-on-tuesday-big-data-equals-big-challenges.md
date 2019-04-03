@@ -7,7 +7,7 @@ authors:
   - kdaniel
 topics:
   - data
-  - big data
+  - big-data
   - data
   - privacy
   - trends-on-tuesday

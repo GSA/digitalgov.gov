@@ -13,7 +13,7 @@ topics:
   - Federal Communications Commission
   - GSA
   - innovation
-  - project management
+  - project-management
   - US General Services Administration
 ---
 
