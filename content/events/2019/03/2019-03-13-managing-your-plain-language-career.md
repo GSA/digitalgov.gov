@@ -85,15 +85,15 @@ Kat>> I always push Plain Language for emails. Start practicing in your emails. 
 
 Katherine>> And I've also found that it is a hard habit to break. It is hard now not to write in Plain Language. I mean I typically start editing, and it does not really matter if it's an internal or external audience because I have [ Indiscernible - audio cutting out ]. 
 
->> I call it a Plain Language haircut. Sometimes you get -- we will receive a document, and it's a bit far down the road to really give it a heavy edit, and I think there is a balance of how much editing you can do on the product based on when the Plain Language person gets involved. We stress heavily, that the Plain Language team needs to be involved from the get-go so that there is no need to do a heavy edit later in the process as the product moves through the production. 
+>I call it a Plain Language haircut. Sometimes you get -- we will receive a document, and it's a bit far down the road to really give it a heavy edit, and I think there is a balance of how much editing you can do on the product based on when the Plain Language person gets involved. We stress heavily, that the Plain Language team needs to be involved from the get-go so that there is no need to do a heavy edit later in the process as the product moves through the production. 
 
 Katherine>> I think that you have a list of questions, if I am correct. 
 
->> Yeah. 
+>Yeah. 
 
 Kat>> I do! 
 
->> [ Laughter ] 
+>[ Laughter ] 
 
 Katherine:>> So I guess one of the questions that people sent in about this was how do we get agencies to recognize effective communication, and, you know, Megan, do you have any input on how do we get agencies to recognize effective communication or, you know? 
 
@@ -117,13 +117,13 @@ Katherine>> Cake?
 
 Jonathan>> Cake there, all the agency leadership is there, and so we just try to create a buzz about it. 
 
->> Right. 
+>Right. 
 
 Jonathan>> But I also want to mention the community of practice, going out and tapping into the Plain Language advocates that we have serve as judges. Rather than the Plain Language division members, writer-editors being the judges, we allow the informal Plain Language committee to do that. Get as many people involved as we can. Try to create a drumbeat throughout the year. One heavy lift, one light lift. 
 
 Katherine>> Much easier than two heavy lifts. 
 
->> But the whole point is to show value of what we are doing, and in our case we are in the customer business. Our customers, they pay money for a service. I recently saw a Plain Language practitioner interviewed who said, “The public has a right to know what they are signing their name to, to understand what they are agreeing to.” Same for us, and so good language, good communication allows us to save money, allows us to save staff resources, and more effectively and efficiently adjudicate our immigration cases. 
+>But the whole point is to show value of what we are doing, and in our case we are in the customer business. Our customers, they pay money for a service. I recently saw a Plain Language practitioner interviewed who said, “The public has a right to know what they are signing their name to, to understand what they are agreeing to.” Same for us, and so good language, good communication allows us to save money, allows us to save staff resources, and more effectively and efficiently adjudicate our immigration cases. 
 
 Katherine>> Of what you have more than enough. 
 
@@ -133,11 +133,11 @@ Katherine>> Yes. Not letting plain writing or plain language, not letting the te
 
 Megan>> Here's one other thought on awards and recognition. We have a handful of writing awards within Trademarks now that criteria has nothing at all to do with plain language. I don't really know a lot about the criteria is because I think it should consider Plain Language, but I don't know if that is something that other people can relate to, but I think future state I would love to be in a position to be able to suggest that we incorporate some Plain Language requirements in the writing awards. 
 
->> If you find that the criteria, maybe you can suggest changes to bring Plain Language into it. 
+>If you find that the criteria, maybe you can suggest changes to bring Plain Language into it. 
 
->> Exactly. 
+>Exactly. 
 
->> You know. [ Indiscernible - audio cutting out ]. Not yet. Maybe that's a better way of thinking about it. Not yet, we don't have one yet. But how do you -- when you are with detailees, you said you are getting them trained, presumably to be involved with a lot of material and review and edit. How do you sort of mark their progress? Obviously you don't do -- I'm assuming you don't do things like number of documents reviewed. 
+>You know. [ Indiscernible - audio cutting out ]. Not yet. Maybe that's a better way of thinking about it. Not yet, we don't have one yet. But how do you -- when you are with detailees, you said you are getting them trained, presumably to be involved with a lot of material and review and edit. How do you sort of mark their progress? Obviously you don't do -- I'm assuming you don't do things like number of documents reviewed. 
 
 Jonathan>> No, we don't look at it that way. The detail is that we have, one, they apply for the jobs so they had some sort of efficacy, and we thought they would be successful, and I assigned them each a portfolio, also assigned to each one of the senior writer-editors as their mentor -- to do second-line report before it goes out to the clients, and they have been given projects. 
 
@@ -167,7 +167,7 @@ Jonathan>> But get them out in front, get them, allow them to develop, and allow
 
 Kat>> One of our other questions was about, you know, conferences. Some people, and agencies, they're not going to web conferences right now. Even if there are web conferences, the only way to join in is an event that's all across the country related to writing or, you know, the web, all sort of different Plain Language that you can get some really great volunteering out there and practice public speaking and share your passion for plain language, and obviously there are Plain International and Clarity International conferences, and of course we have the Center of Plain Language workshops, and definitely not playing here, and we have our PLAIN summit. We had our inaugural one last year, and we will hopefully have one this year, so I will not say when. 
 
->> [ Laughter ]. 
+>[ Laughter ]. 
 
 Kat>> There are many opportunities to volunteer. You can say I would love to help out with that or be a moderator on a panel. You don't actually have to speak and give a presentation, but my suggestion is going into conferences where they needed help and moderators, and I thought I'll be a moderator. I had no idea what I was doing, then I came up on the stage, I had cue cards, and it was a great way to network and meet others in the Plain Language community. Also, you can volunteer to judge the federal Plain Language awards. It usually happens around wintertime when they call for judges, and, you know, just look for emails from them. That kind of stuff. So I think that's an interesting way to get involved as well. 
 
@@ -187,7 +187,7 @@ Katherine>> Yeah.
 
 Megan>> I think that we have a few lawyers that we won over pretty early at USPTO and we convinced them that Plain Language is great. 
 
->> [ Indiscernible - audio cutting out ] 
+>[ Indiscernible - audio cutting out ] 
 
 Megan>> So we have a couple of attorneys who are really -- are fierce advocates, and so sometimes when we have resistance with a new person that we have not really worked with, it's really helpful 
 
@@ -219,9 +219,9 @@ Katherine>> Plainlanguage.gov is a good place to start. We also have federal res
 
 Kat>> I always love any books by Joe Kimble.
 
->> Writing for Dollars, Writing to Please . 
+>Writing for Dollars, Writing to Please . 
 
->> There you go. Ginny Reddish’s book Letting Go of the Words that's great for web content. There are some great resources. You know, check out Center of Plain Language, check out websites. They have a lot of good stuff there.  Bryan Garner, editor in chief of Black’s Law dictionary has some excellent books on plain language 
+>There you go. Ginny Reddish’s book Letting Go of the Words that's great for web content. There are some great resources. You know, check out Center of Plain Language, check out websites. They have a lot of good stuff there.  Bryan Garner, editor in chief of Black’s Law dictionary has some excellent books on plain language 
 
 Katherine>> Alan Alda, on science communications. He's got a couple of books and the Clear and Vivid podcast. 
 
@@ -241,7 +241,7 @@ Kat>> And you learn a lot. You learn so much than on Netflix.
 
 Lauren>> We have a question from somebody who works in a very public scientific organization, and scientists are highly educated. How do I get them talking details in writing and Plain Language? 
 
->> Well, there is [ Indiscernible - audio cutting out ] again, Alan Alda. He had a second career as teaching science communications, and I am thinking is internally from his own book. He loves science, but he was talking to scientists, and he ended up having to tell them you are not getting money from Congress because they don't know what you do. And you know, those things have to be in plain language for them to get money, that is what they have to do. And there was a large study that came out a couple years ago. 
+>Well, there is [ Indiscernible - audio cutting out ] again, Alan Alda. He had a second career as teaching science communications, and I am thinking is internally from his own book. He loves science, but he was talking to scientists, and he ended up having to tell them you are not getting money from Congress because they don't know what you do. And you know, those things have to be in plain language for them to get money, that is what they have to do. And there was a large study that came out a couple years ago. 
 
 Kat>> I don't remember where it was from, so I apologize, but science papers written by other scientists are completely not understandable by other scientists. So unless you are in the field working directly on that topic, you will not understand the paper that the other scientist wrote, and it is because of the perpetuation of the horrible, scientific, put all the words you can fit, the biggest word you can fit into the sentence or paragraph way of writing. They really have a completely different language between the different scientific fields, so the science community and academia are trying to get scientists to work together to have some kind of Plain Language summaries upfront so that the communities can directly get together because a lot of times you are missing out on a breakthrough study because you pass it over because you just don't get it. You can’t read the jargon, you can't get through all the dense content, so if it's a really serious problem in the science world, and especially if you're trying to cure cancer. I mean it's not a joke. 
 
@@ -249,13 +249,13 @@ Katherine>> There's also the National Association of Science Writers who might b
 
 Lauren>> I see a few people asking about how to comment on the Federal -- 
 
->> [ Laughter ] 
+>[ Laughter ] 
 
 Kat>> Register on the website, and I wish Miriam was here because she would talk about it. But all the rules and regulations are all posted there, and they are all links, and you can click on them, and there is usually a please comment section, and they will bring you this area where you can fill out a comment, and you automatically just upload it to OMB, and it's kind of a generic example. But it is fairly straightforward when you go to the website. 
 
 Katherine>> Interesting. Who would've thought that so many people are eager not to watch Netflix? 
 
->> [ Laughter ] 
+>[ Laughter ] 
 
 Kat>> So we often talk about MASH.
 
@@ -287,7 +287,7 @@ Jonathan>> We have --- within the Plain Language Division, we have the Spanish t
 
 Kat>> Yeah, and Donna's comments were [ Indiscernible - audio cutting out ] and addressing health concerns, so I would see probably more in that area, and that could actually be Health and Human Services (HHS) and CA and Maximus, yeah! Let me write that down so I can respond to the person who sent this, but yeah. And sometimes, user experience, customer experience groups are also interested in Plain Language in sort of the research and the talking at conferences part. 
 
->> [ Indiscernible - mumbling ]. 
+>[ Indiscernible - mumbling ]. 
 
 Katherine>> Megan, you talked very neatly about talking about [ Indiscernible - audio cutting out ] , but that is something that you do on your team or your team does. It also might be useful -- I mean the research element is looking at the medical and health, public health, but maybe even states and counties, if not cities, so it may not be a federal thing quite so much, but I know we've had a bunch of visitors. We met with the people from Oregon that time. The Oregon public health system, and they wanted to know how to set up a Plain Language program to get the people trained, so I think, I think a big focus on the research would be -- and also medical, including administrators with that. So are there any last-minute questions? I know that we have about 10 more minutes. Wow, it has just flown by! These are just really good questions. So ...
 
@@ -295,9 +295,9 @@ Katherine:>>I guess one of the questions I have is sort of something that we hav
 
 Kat>> I think Donna actually summed it up nicely in her notes. " A career is rarely a straight line. Some of my best memories and most valuable lessons are from unplanned stops inside a track since. A career is a life point that is made up of a series of job. No single job could be considered a career, and many jobs make up a full picture of a career. I found that it can be scary, and those are the ones that are most challenging and most interesting. I think those are all very true, and there is really no Plain Language career, but it is Plain Language being important to your career, and you put it in all the things that you do no matter where you are, like you bring it with you wherever you end up in your career. It can apply to everything, so I think that is a great aspect of Plain Language , and if you are passionate about it, you can share that passion and awareness of Plain Language in your field or wherever you go, if you change fields or offices or organizations, so think of it that way. And you know, it is what we make of it too. I ended up having a really great luck of being in some place that values Plain Language, I was able to make a Plain Language division, and I'm so glad now that Jonathan has that job. 
 
->> And I did not come from a Plain Language background. 
+>And I did not come from a Plain Language background. 
 
->> Really? 
+>Really? 
 
 Kat>> Jonathan came some journalism. I came from regulations, so it's interesting the fact that you can be from anywhere and fall into a job that is Plain Language related, and if you find yourself and you want to make things better, put that on your list to do and start doing it. The only one stopping you is you. That is my motivational speech. 
 
@@ -317,7 +317,7 @@ Jonathan>> We recently had a document come to us. It's a legal document, and it 
 
 >> Yup, sometimes that -- sometimes, they have to see something better before they can say oh, yeah, please, and one of the things -- also, this gets back to your point, Megan, with analytics. We've started using accordion menus on GSA.gov [ Indiscernible - low volume ], and the beauty of those is you can find out what frequently asked questions people are clicking on, how many times, and so we have looked at some and said okay, we are reordering these in order of the ones that people run the most frequently, and we are actually doing that, and my favorite? Nobody is clicking on these at all. 
 
->> [ Laughter ] 
+>[ Laughter ] 
 
 Katherine>> Nobody cares about this, so can we take them off, you know? You never know. But I have found that mostly, people respond with appreciation and delight because they did not know it could look as good as it could be, and so that -- I think part of this is sometimes, you have to tell people know, like now, I can look at your stuff by tomorrow morning, you know. That is just a fact, or, you know, I worked with you last time, and I cannot work on your material --  perhaps more gracefully phrased -- but there may be some people, and you may have other projects on your plate. I always think of editing for Plain Language as an opportunity to show something off better, you know? I feel like sometimes we get lumps of rock, and what we turn it into is at least a semiprecious stone. You know, we put it in a tumbler. Go with me with the metaphor here. And that leaves better than it was before. Now that being said, I think things can always be improved, but at some point you just have to say stop, so you don't need to be an alternate universe where everybody has infinite time. Do we have one more question, or are we closing? 
 
@@ -333,10 +333,10 @@ Megan>> Really appreciate it.
 
 Katherine>> Really enjoyed everyone's stories about this. And just a note, what we are going to do is we will write up the material that we have. We have a team of notetakers, thanking you guys too, and we will make this into some sort of content on PlainLanguage.gov, and we will add the video and stuff and post it on YouTube, so are there any last-minute, or are they just responding thank you? 
 
->> [ Laughter ] 
+>[Laughter] 
 
 Katherine>> Fair enough. Thank you so much. Everyone, have a great day. 
 
 Kat>> Bye! 
 
->> [ Event concluded ]
+>[Event concluded]
