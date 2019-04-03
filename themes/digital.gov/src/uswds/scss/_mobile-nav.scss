@@ -1,23 +1,23 @@
 // mobile-nav
 
-
-#mobile-nav{
+.mobile-nav{
   @include u-bg('indigo-80');
   @include u-padding-bottom(10);
   z-index: 1;
   position: fixed;
   top:0;
   bottom:0;
-  // left:0;
-  // width: 80%;
-  width:325px;
-  color:#fff;
+  left:0;
+  margin-left: -85%;
+  width: 85%;
+  @include u-text('white');
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
   -webkit-transition: margin .2s;
   transition: margin .2s;
   @include at-media('tablet'){
-    max-width: 325px;
+    margin-left: -40%;
+    width: 40%;
   }
   > header{
     @include u-bg('indigo-90');
@@ -45,7 +45,6 @@
       right: 0;
     }
   }
-
 
   nav{
     @include u-margin-y(2);
@@ -101,8 +100,4 @@
       }
     }
   }
-}
-
-#mobile-nav.open{
-  // display: block;
 }

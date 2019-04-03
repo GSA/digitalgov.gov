@@ -31,8 +31,9 @@
 
     {{- partialCached "core/footer.html" . -}}
     <div class="screen"></div>
+    {{- partialCached "core/mobile-nav.html" . -}}
   </div> <!-- end paper -->
-  {{- partialCached "core/mobile-nav.html" . -}}
+
 </body>
 
 <script src='{{ "lib/uswds/js/uswds.min.js" | absURL }}'></script>
