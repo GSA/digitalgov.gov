@@ -4,7 +4,9 @@ date: 2017-05-23 3:43:08 -0400
 title: 'Style Guides by Government Agencies'
 summary: 'This page is a collection of style guides created by government agencies.'
 topics:
-  - resource
+  - plain-language
+  - writing
+  - content
 
 ---
 
