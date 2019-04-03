@@ -42,9 +42,9 @@ body{
 .paper.open .screen{
   height: 100%;
   width: 100%;
-  position: fixed;
+  position: absolute;
   top: 0;
   display: block;
   background: rgba(255, 255, 255, 0.6);
-  z-index: 19;
+  z-index: 10;
 }
