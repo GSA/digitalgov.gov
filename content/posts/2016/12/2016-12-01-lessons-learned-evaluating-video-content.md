@@ -16,7 +16,7 @@ topics:
   - Consumer Financial Protection Bureau
   - content
   - content-strategy
-  - Digital Audio/Video Community
+  - digital-audio-video-community
   - user-experience
   - user-experience-community-of-practice
   - user research

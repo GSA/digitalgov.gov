@@ -17,7 +17,7 @@ topics:
   - OMB
   - US General Services Administration
   - Unified Shared Services Management
-  - USSM
+  - ussm
   - white-house
 ---
 

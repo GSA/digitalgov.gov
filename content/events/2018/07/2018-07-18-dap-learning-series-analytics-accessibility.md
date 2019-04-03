@@ -16,16 +16,12 @@ youtube_id: y0HD0baIIP0
 topics:
   - analytics
   - digital-analytics-program
-aliases:
-  - /event/dap-learning-series-analytics-accessibility/
-categories:
   - accessibility
-  - metrics
-tag:
-  - accessibility
-  - analytics
   - dap
   - digital-analytics-program
+  - metrics
+aliases:
+  - /event/dap-learning-series-analytics-accessibility/
 
 ---
 

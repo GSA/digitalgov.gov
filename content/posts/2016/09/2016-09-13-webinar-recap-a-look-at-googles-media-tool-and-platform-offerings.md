@@ -16,7 +16,7 @@ topics:
   - content
   - content-strategy
   - DGU
-  - Digital Audio/Video Community
+  - digital-audio-video-community
   - digitalgov-university
   - metrics
   - mobile

@@ -41,25 +41,29 @@
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-2">
         <div class="grid-col-6">
-          <ul class="add-list-reset">
+          <table>
             {{- $topics := (where .Site.Pages "Section" "topics") -}}
             {{- range $name, $taxonomy := $topics.ByTitle -}}
-              <li>
-                <a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a>
-              </li>
+              <tr>
+                <td class="padding-y-1 border-bottom-1px"><a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
+                <td class="padding-y-1 border-bottom-1px">{{ .Data.Term }}</td>
+              </tr>
             {{- end -}}
-          </ul>
+          </table>
+
         </div>
-        <div class="grid-col-6 display-none">
-          <ul class="add-list-reset">
+        <div class="grid-col-6">
+          <table>
             {{- $topics_tax := $.Site.Taxonomies.topics -}}
-            {{- len $topics_tax -}}
             {{- range $name, $taxonomy := $topics_tax -}}
               {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
-                <li><a href="{{- .Permalink -}}">{{- .Title -}}</a></li>
+              <tr>
+                <td class="padding-y-1 border-bottom-1px"><a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
+                <td class="padding-y-1 border-bottom-1px">{{ .Data.Term }}</td>
+              </tr>
               {{- end -}}
             {{- end -}}
-          </ul>
+          </table>
         </div>
       </div>
     </div>

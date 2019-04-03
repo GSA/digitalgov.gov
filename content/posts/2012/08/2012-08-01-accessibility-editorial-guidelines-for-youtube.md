@@ -9,7 +9,6 @@ topics:
   - accessibility
   - content
   - video
-  - accessibility
   - GobiernoUSAgov
   - multilingual
   - section-508
@@ -46,7 +45,7 @@ When sharing video content, most of the following should be answered with a reso
 
 The videos we post:
 
-  * Must be from a government agency and feature content relevant to our audience. 
+  * Must be from a government agency and feature content relevant to our audience.
       * Exceptions might be made if the content provides critical information that is not available by any government entity at the time (for example, during an emergency).
   * Must be shared through an existing government YouTube channel.
 

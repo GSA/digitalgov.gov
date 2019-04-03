@@ -14,7 +14,7 @@ topics:
   - ux
   - audio-video
   - data
-  - Digital Audio/Video Community
+  - digital-audio-video-community
   - mobile
   - mobile-friendly
   - mobile-gov
