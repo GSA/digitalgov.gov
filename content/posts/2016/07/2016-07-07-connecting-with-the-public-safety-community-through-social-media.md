@@ -9,7 +9,7 @@ topics:
   - mobile
   - social-media
   - First Responder Network Authority
-  - FirstNet
+  - firstnet
   - mobile
   - social-media
 ---

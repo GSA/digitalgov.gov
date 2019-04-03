@@ -9,7 +9,7 @@ topics:
   - content
   - content
   - content-strategy
-  - content syndication
+  - content-syndication
   - marketing
   - metrics
   - multilingual

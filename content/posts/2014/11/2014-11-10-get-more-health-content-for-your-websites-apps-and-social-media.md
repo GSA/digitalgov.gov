@@ -11,7 +11,7 @@ topics:
   - video
   - cdc
   - centers-for-disease-control-and-prevention
-  - content syndication
+  - content-syndication
   - fda
   - HHS
   - national-institutes-of-health

@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - user-testing-and-research
-  - citizen science
+  - citizen-science
   - crowdsourcing
   - Federal CrowdSource Mobile Testing Program
   - gamification

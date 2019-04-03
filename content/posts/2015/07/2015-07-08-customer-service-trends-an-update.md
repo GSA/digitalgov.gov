@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - ux
   - agile
-  - content syndication
+  - content-syndication
   - COPE
   - customer-experience
   - customer-satisfaction

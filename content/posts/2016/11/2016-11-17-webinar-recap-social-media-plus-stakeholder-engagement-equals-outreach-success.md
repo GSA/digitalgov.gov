@@ -13,7 +13,7 @@ topics:
   - cdc
   - content
   - content-strategy
-  - content syndication
+  - content-syndication
   - disease
   - multilingual
   - Recaps

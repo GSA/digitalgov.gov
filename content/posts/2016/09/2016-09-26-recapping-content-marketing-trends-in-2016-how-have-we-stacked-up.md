@@ -12,7 +12,7 @@ topics:
   - policy
   - content
   - content-strategy
-  - content syndication
+  - content-syndication
   - HHS
   - HRSA
   - mobile

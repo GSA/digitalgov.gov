@@ -9,7 +9,7 @@ topics:
   - mobile
   - abmc
   - american-battle-monuments-commission
-  - BBG
+  - bbg
   - Broadcasting Board of Governors
   - ICE
   - mobile

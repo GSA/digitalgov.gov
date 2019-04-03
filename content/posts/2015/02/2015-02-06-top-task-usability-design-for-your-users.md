@@ -10,7 +10,7 @@ topics:
   - design
   - user-testing-and-research
   - ux
-  - AoI
+  - aoi
   - Federal Reserve Board
   - FRB
   - top-tasks

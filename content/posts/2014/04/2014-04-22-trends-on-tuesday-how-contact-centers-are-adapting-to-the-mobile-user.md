@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - strategy
   - policy
-  - AoI
+  - aoi
   - GPS
   - mobile-apps
   - National Oceanic and Atmospheric Administration

@@ -17,7 +17,7 @@ topics:
   - broadband
   - data
   - First Responder Network Authority
-  - FirstNet
+  - firstnet
   - mobile
   - NPS
   - public safety

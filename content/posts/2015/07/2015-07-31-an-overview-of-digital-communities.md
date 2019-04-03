@@ -11,7 +11,7 @@ topics:
   - 18f
   - api
   - CIO Council
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science-and-crowdsourcing-community-of-practice
   - communities
   - drupal
   - mobile

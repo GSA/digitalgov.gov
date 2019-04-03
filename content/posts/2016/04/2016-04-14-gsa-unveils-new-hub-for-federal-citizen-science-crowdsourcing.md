@@ -8,8 +8,8 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - challenge-gov
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - OSTP
 ---

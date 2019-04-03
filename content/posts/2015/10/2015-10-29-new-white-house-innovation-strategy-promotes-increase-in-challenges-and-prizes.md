@@ -9,8 +9,8 @@ topics:
   - challenges
   - challenge-gov
   - challenges-and-prizes-community-of-practice
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - FCPCCS
   - Open Opportunities program
   - OSTP

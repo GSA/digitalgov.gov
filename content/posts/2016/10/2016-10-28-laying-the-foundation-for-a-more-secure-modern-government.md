@@ -18,7 +18,7 @@ topics:
   - GSA
   - infrastructure
   - innovation
-  - IT Modernization Fund
+  - it-modernization-fund
   - ITMF
   - National Cyber Security Awareness Month
   - NCSAM

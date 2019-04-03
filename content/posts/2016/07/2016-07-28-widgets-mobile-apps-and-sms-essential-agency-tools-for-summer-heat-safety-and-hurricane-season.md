@@ -12,7 +12,7 @@ topics:
   - social-media
   - app
   - content
-  - content syndication
+  - content-syndication
   - dhs
   - federal-emergency-management-agency
   - fema

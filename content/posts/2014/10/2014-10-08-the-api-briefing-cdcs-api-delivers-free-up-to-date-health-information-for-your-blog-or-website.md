@@ -11,7 +11,7 @@ topics:
   - api
   - cdc
   - centers-for-disease-control-and-prevention
-  - content syndication
+  - content-syndication
   - OPM
   - United States Office of Personnel Management
   - wednesday-api-briefing

@@ -12,7 +12,7 @@ topics:
   - centers-for-disease-control-and-prevention
   - content
   - content-strategy
-  - content syndication
+  - content-syndication
   - fda
   - HHS
   - national-institutes-of-health

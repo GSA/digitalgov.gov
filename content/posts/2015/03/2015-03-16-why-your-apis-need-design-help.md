@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - ux
   - api
-  - api keys
+  - api-keys
   - CFPB
   - Consumer Financial Protection Bureau
   - fda

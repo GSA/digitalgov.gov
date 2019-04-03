@@ -15,7 +15,7 @@ topics:
   - our-work
   - social-media
   - administrative-office-of-the-united-states-courts
-  - AoI
+  - aoi
   - cdc
   - Census
   - CFPB

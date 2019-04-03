@@ -10,7 +10,7 @@ topics:
   - mobile
   - ux
   - DOL
-  - federal user experience community
+  - federal-user-experience-community
   - mobile-apps
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4

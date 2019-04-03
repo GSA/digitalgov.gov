@@ -13,7 +13,7 @@ topics:
   - ux
   - customer-experience
   - cx
-  - FirstNet
+  - firstnet
   - social-media
   - the-content-corner
 ---

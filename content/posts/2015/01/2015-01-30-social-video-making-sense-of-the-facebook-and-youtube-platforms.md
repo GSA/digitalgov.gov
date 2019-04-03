@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - video
-  - BBG
+  - bbg
   - Broadcasting Board of Governors
   - DOI
   - facebook

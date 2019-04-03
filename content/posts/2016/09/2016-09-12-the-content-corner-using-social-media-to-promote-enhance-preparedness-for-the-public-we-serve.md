@@ -17,7 +17,7 @@ topics:
   - federal-emergency-management-agency
   - Federal Mobile Products Registry
   - fema
-  - FirstNet
+  - firstnet
   - mobile
   - National Guard
   - National Weather Service

@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - ux
-  - AoI
+  - aoi
   - user-experience
 ---
 

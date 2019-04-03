@@ -7,7 +7,7 @@ topics:
   - content
   - cdc
   - centers-for-disease-control-and-prevention
-  - content syndication
+  - content-syndication
   - HHS
   - mobile-gov-community-of-practice
   - mobile-gov

@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - dhs
-  - FirstNet
+  - firstnet
   - the-content-corner
   - US Department of Veterans Affairs
   - united-states-department-of-homeland-security

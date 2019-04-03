@@ -11,7 +11,7 @@ topics:
   - social-media
   - strategy
   - policy
-  - aiDS-gov
+  - aids-gov
   - content
   - content-strategy
   - HHS

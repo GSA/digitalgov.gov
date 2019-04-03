@@ -12,7 +12,7 @@ topics:
   - mobile
   - content
   - content-strategy
-  - content syndication
+  - content-syndication
   - federal-emergency-management-agency
   - fema
   - mobile-apps

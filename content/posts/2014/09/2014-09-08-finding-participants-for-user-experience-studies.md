@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - user-testing-and-research
-  - AoI
+  - aoi
   - BLS
   - DOL
   - US Bureau of Labor Statistics

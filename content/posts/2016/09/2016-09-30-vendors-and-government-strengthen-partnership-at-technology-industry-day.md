@@ -16,7 +16,7 @@ topics:
   - cloud
   - cloud-gov
   - data
-  - DATA Act
+  - data-act
   - Digital Accountability and Transparency Act
   - FAS
   - Federal Acquisition Service

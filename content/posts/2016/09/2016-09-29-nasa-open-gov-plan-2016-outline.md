@@ -18,7 +18,7 @@ topics:
   - strategy
   - policy
   - challenges-and-prize-competitions
-  - citizen science
+  - citizen-science
   - code
   - data
   - innovation

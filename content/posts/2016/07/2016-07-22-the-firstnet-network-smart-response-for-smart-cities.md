@@ -9,7 +9,7 @@ topics:
   - data
   - managing-digital
   - mobile
-  - FirstNet
+  - firstnet
   - Internet of things
   - IoT
   - mobile

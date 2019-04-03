@@ -9,7 +9,7 @@ topics:
   - communities
   - managing-digital
   - social-media
-  - AoI
+  - aoi
   - api
   - National Archives and Records Administration
   - SocialGov

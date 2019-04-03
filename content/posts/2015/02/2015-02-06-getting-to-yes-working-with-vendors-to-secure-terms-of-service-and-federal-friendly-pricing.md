@@ -9,7 +9,7 @@ authors:
 topics:
   - communities
   - social-media
-  - AoI
+  - aoi
   - HHS
   - Recaps
   - socialgov-community

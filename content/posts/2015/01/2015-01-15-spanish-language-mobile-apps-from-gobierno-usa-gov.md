@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - mobile
-  - BBG
+  - bbg
   - Broadcasting Board of Governors
   - Federal Mobile Products Registry
   - Federal Student Aid

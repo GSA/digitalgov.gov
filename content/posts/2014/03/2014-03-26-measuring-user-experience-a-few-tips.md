@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - ux
   - a-b-testing
-  - AoI
+  - aoi
   - Recaps
   - united-states-department-of-health-and-human-services
   - usability-testing

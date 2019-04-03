@@ -9,7 +9,7 @@ authors:
 topics:
   - mobile
   - ux
-  - federal user experience community
+  - federal-user-experience-community
   - mobile
   - user-experience-community-of-practice
   - mobile-apps

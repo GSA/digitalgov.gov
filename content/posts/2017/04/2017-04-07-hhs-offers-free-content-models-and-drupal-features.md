@@ -11,7 +11,7 @@ topics:
   - content
   - content-management-system
   - content-models
-  - content syndication
+  - content-syndication
   - drupal
   - HHS
   - open-and-structured-content-models

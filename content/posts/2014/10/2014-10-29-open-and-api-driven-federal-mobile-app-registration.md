@@ -10,7 +10,7 @@ topics:
   - communities
   - mobile
   - monthly-theme
-  - AoI
+  - aoi
   - Federal Mobile Products Registry
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5

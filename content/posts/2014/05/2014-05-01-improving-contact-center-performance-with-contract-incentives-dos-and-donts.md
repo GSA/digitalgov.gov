@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - monthly-theme
   - our-work
-  - AoI
+  - aoi
   - government-contact-centers
 ---
 

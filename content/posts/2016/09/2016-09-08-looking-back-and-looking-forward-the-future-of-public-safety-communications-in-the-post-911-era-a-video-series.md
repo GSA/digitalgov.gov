@@ -8,8 +8,9 @@ authors:
 topics:
   - data
   - data
-  - FirstNet
+  - firstnet
   - innovation
+  - abbabba
 ---
 
 The week before Patriot Day, our nation’s annual remembrance of the 9/11 attacks, first responders share their remembrances and vision for the future of public safety communications in this video series. This week, we’ll hear from:
@@ -28,6 +29,6 @@ In the video below, FirstNet’s Mike Worrell talks about the communication chal
 [youtube=http://www.youtube.com/watch?v=OFp1zHgxpHw&w=600]
 
 _
-  
+
 Mike Worrell is the FirstNet Senior Fire Services Advisor. He was previously with the Phoenix Fire Department where he served for 29 years, most recently as the technical services division chief. Worrell was also a member of the Public Safety Advisory Committee (PSAC) to FirstNet, a member of the National Urban Search and Rescue Incident Support Team, and a qualified Communications Unit Leader and Communications Technician instructor. Prior to joining the Phoenix Fire Department, he was an electronics technician in the U.S. Navy, Submarine Service._
 _This post was originally published on the [FirstNet blog](http://www.firstnet.gov/newsroom/blog)._

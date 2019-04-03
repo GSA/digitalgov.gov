@@ -14,7 +14,7 @@ topics:
   - content
   - content-models
   - content-strategy
-  - content syndication
+  - content-syndication
   - national-institutes-of-health
   - nih
   - open-and-structured-content-models

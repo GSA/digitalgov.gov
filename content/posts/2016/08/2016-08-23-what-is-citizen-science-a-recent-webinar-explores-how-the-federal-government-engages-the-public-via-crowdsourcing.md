@@ -9,8 +9,8 @@ topics:
   - crowdsourcing-and-citizen-science
   - cdc
   - centers-for-disease-control-and-prevention
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - communities
   - crowdsourcing
   - DGU

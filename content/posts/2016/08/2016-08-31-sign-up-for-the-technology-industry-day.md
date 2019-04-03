@@ -18,7 +18,7 @@ topics:
   - cloud-gov
   - code
   - data
-  - DATA Act
+  - data-act
   - Digital Accountability and Transparency Act
   - event
   - FAS

@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - mobile
   - monthly-theme
-  - AoI
+  - aoi
   - Census
   - COPE
   - crowdsourcing

@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - managing-digital
-  - AoI
+  - aoi
   - customer-experience
   - customer-satisfaction
   - government-contact-centers

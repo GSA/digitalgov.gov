@@ -12,7 +12,7 @@ topics:
   - managing-digital
   - mobile
   - monthly-theme
-  - AoI
+  - aoi
   - big-data
   - challenges-and-prize-competitions
   - customer-experience

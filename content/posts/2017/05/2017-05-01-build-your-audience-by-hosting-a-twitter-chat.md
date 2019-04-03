@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - writing
-  - aiDS-gov
+  - aids-gov
   - content-strategy
   - customer-service
   - social-media

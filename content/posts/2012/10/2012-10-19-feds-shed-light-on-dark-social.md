@@ -9,7 +9,7 @@ topics:
   - communities
   - metrics
   - social-media
-  - AoI
+  - aoi
   - SocialGov
   - socialgov-community
 ---

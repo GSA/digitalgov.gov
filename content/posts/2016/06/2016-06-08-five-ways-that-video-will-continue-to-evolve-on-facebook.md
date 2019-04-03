@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - social-media
   - video
-  - BBG
+  - bbg
   - Broadcasting Board of Governors
   - content
   - social-media

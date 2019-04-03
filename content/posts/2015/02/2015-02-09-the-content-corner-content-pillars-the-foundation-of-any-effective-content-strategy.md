@@ -9,7 +9,7 @@ topics:
   - communities
   - content
   - administrative-office-of-the-united-states-courts
-  - AoI
+  - aoi
   - content-strategy
   - the-content-corner
 ---

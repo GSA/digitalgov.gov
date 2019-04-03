@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - social-media
-  - AoI
+  - aoi
   - Central Intelligence Agency
   - CIA
   - DOI

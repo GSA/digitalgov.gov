@@ -9,9 +9,9 @@ topics:
   - accessibility
   - communities
   - social-media
-  - aiDS-gov
+  - aids-gov
   - Americans with Disabilities Act
-  - AoI
+  - aoi
   - DOL
   - FCC
   - Federal Communications Commission

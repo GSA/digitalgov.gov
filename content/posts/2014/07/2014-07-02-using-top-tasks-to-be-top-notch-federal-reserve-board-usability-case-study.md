@@ -9,7 +9,7 @@ topics:
   - communities
   - user-testing-and-research
   - ux
-  - AoI
+  - aoi
   - DigitalGov User Experience Program
   - Federal Reserve Board
   - first-click testing

@@ -12,8 +12,8 @@ topics:
   - challenge-gov
   - challenges-and-prize-competitions
   - challenges-and-prizes-community-of-practice
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - DARPA
   - Defense Advanced Research Projects Agency
   - DoD

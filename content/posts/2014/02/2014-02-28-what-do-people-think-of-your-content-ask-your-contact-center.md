@@ -11,7 +11,7 @@ topics:
   - managing-digital
   - social-media
   - ux
-  - AoI
+  - aoi
   - customer-experience
   - government-contact-centers
 ---

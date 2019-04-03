@@ -12,7 +12,7 @@ topics:
   - api
   - cdc
   - centers-for-disease-control-and-prevention
-  - content syndication
+  - content-syndication
   - COPE
   - fda
   - HHS

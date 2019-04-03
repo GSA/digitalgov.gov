@@ -7,8 +7,8 @@ authors:
   - stephanie-dromerick
 topics:
   - crowdsourcing-and-citizen-science
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - FS
   - US Forest Service
 ---

@@ -12,7 +12,7 @@ topics:
   - data
   - managing-digital
   - metrics
-  - AoI
+  - aoi
   - content-strategy
   - customer-satisfaction
   - government-contact-centers

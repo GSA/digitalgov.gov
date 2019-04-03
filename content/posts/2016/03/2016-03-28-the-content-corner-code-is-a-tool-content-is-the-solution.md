@@ -12,7 +12,7 @@ topics:
   - administrative-office-of-the-united-states-courts
   - code
   - content-strategy
-  - content syndication
+  - content-syndication
   - the-content-corner
 ---
 

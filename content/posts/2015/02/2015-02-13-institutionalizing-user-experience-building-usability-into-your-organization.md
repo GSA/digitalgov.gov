@@ -9,7 +9,7 @@ topics:
   - communities
   - ux
   - analytics
-  - AoI
+  - aoi
   - DigitalGov User Experience Program
   - FAA
   - Federal Aviation Administration

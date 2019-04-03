@@ -12,7 +12,7 @@ topics:
   - monthly-theme
   - user-testing-and-research
   - ux
-  - AoI
+  - aoi
   - bls
   - user-experience-community-of-practice
   - us-bureau-of-labor-statistics

@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content
-  - content syndication
+  - content-syndication
   - HHS
   - National Institute of Heart Lung and Blood Diseases
   - national-institutes-of-health

@@ -9,7 +9,7 @@ topics:
   - api
   - communities
   - content
-  - AoI
+  - aoi
   - api
   - Census
   - content-models

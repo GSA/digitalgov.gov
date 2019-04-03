@@ -10,8 +10,8 @@ topics:
   - managing-digital
   - our-work
   - "508"
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - dap
   - digital-analytics-program

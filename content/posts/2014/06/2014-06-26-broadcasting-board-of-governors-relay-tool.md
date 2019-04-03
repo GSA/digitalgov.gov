@@ -9,7 +9,7 @@ topics:
   - content
   - mobile
   - monthly-theme
-  - BBG
+  - bbg
   - Broadcasting Board of Governors
   - CMS
   - GitHub

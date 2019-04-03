@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content
-  - content syndication
+  - content-syndication
   - mobile
   - national-institutes-of-health
   - nih

@@ -16,7 +16,7 @@ topics:
   - 18f
   - best practices
   - data
-  - DATA Act
+  - data-act
   - Digital Accountability and Transparency Act
   - US Department of the Treasury
 ---

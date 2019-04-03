@@ -10,10 +10,10 @@ topics:
   - communities
   - crowdsourcing-and-citizen-science
   - monthly-theme
-  - AoI
+  - aoi
   - challenges-and-prizes-community-of-practice
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - Consumer Product Safety Commission
   - crowdsourcing
   - FCPCCS

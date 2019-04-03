@@ -43,6 +43,7 @@
         <div class="grid-col-6">
           <table>
             {{- $topics := (where .Site.Pages "Section" "topics") -}}
+            {{- len $topics -}}
             {{- range $name, $taxonomy := $topics.ByTitle -}}
               <tr>
                 <td class="padding-y-1 border-bottom-1px"><a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
@@ -55,11 +56,13 @@
         <div class="grid-col-6">
           <table>
             {{- $topics_tax := $.Site.Taxonomies.topics -}}
+            {{- len $topics_tax -}}
             {{- range $name, $taxonomy := $topics_tax -}}
               {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
               <tr>
                 <td class="padding-y-1 border-bottom-1px"><a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
                 <td class="padding-y-1 border-bottom-1px">{{ .Data.Term }}</td>
+                <td class="padding-y-1 border-bottom-1px">{{ $taxonomy.Count }}</td>
               </tr>
               {{- end -}}
             {{- end -}}

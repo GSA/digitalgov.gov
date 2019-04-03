@@ -9,8 +9,8 @@ topics:
   - challenges
   - crowdsourcing-and-citizen-science
   - challenge-gov
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - FCPCCS
   - United States Geological Survey

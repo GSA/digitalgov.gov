@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - Census
-  - content syndication
+  - content-syndication
   - DOL
   - Internet of things
   - mobile-code-catalog

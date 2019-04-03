@@ -9,7 +9,7 @@ topics:
   - communities
   - managing-digital
   - monthly-theme
-  - AoI
+  - aoi
   - HHS
   - national-institutes-of-health
   - NCI
