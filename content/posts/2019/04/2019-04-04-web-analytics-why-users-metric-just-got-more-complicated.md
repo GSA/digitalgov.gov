@@ -47,7 +47,7 @@ Regardless, those users metrics will shift from their previous benchmarks as a r
 
 Not at the moment. We want to see how this affects reporting before assessing how we react, if we react at all. At the time of writing, Google Analytics has issued no statement on ITP 2.1.
 
-The well-known analytics blogger Simo Ahava [has some suggestions](https://www.simoahava.com/analytics/itp-2-1-and-web-analytics/) (this is a long but worthy read!) to counter negative effects that may interest you for non-DAP implementations.
+There are analytics blogs that offer [suggestions](https://www.simoahava.com/analytics/itp-2-1-and-web-analytics/) to counter negative effects that may interest you for non-DAP implementations. 
 
 ### In conclusion
 
