@@ -6,6 +6,7 @@ deck: 'Reinvent the experience, not the wheel'
 summary: 'Reinvent the experience, not the wheel'
 authors:
   - dan-williams
+  - maya-benari
 categories:
   - code
   - design
