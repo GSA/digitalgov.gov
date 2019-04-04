@@ -1,11 +1,12 @@
 ---
-url: /services/dap/analytics-tool-instructions/
+url: /guide/dap/analytics-tool-instructions/
 date: 2014-05-13 8:42:03 -0400
 title: 'Government-Wide Analytics Tool for Federal Agencies'
 summary: 'Milestone 8.2 of the Digital Government Strategy calls for agencies to implement performance and customer satisfaction measuring tools on all .gov websites. To help your agency meet this requirement, GSA&rsquo;s Digital Services Innovation Center procured a Google Analytics (GA) Premium custom solution that does the following: Provides a federal-wide view of .gov websites Is easy'
-
+guide: dap
 weight: 0
-
+aliases:
+  - /services/dap/analytics-tool-instructions/
 ---
 
 Milestone 8.2 of the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for agencies to implement performance and customer satisfaction measuring tools on all .gov websites. To help your agency meet this requirement, GSA’s Digital Services Innovation Center procured a Google Analytics (GA) Premium custom solution that does the following:

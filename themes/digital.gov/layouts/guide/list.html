@@ -20,6 +20,18 @@
       </div>
     </header>
 
+    {{ if .Content }}
+    <section class="content">
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-9">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
     {{ if .Params.guide }}
     <section>
       <div class="grid-container grid-container-desktop">
@@ -43,30 +55,7 @@
       </div>
     </section>
     {{ end }}
-
-    {{ if .Params.quote }}
-    <section class="quote">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12">
-            <p>{{ .Params.quote | markdownify }}</p>
-          </div>
-        </div>
-      </div>
-    </section>
-    {{ end }}
-
-    {{ if .Content }}
-    <section class="content">
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-9">
-            {{ .Content }}
-          </div>
-        </div>
-      </div>
-    </section>
-    {{ end }}
+    
   </article>
 </main>
 {{ end }} {{/* end 'content' block */}}

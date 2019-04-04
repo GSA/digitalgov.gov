@@ -1,11 +1,14 @@
 ---
-url: /services/dap/guidance-for-dap-gov-wide-data/
+url: /guide/dap/guidance-for-dap-gov-wide-data/
 date: 2014-08-28 11:11:14 -0400
 title: Guidance for DAP Gov-Wide Data
 summary: 'On August 17th, Steve VanRoekel, U.S. Chief Information Officer, sent a memo to the CIO Council that stated beginning Aug 29, 2014, access to all Digital Analytics Program (DAP) data government-wide will be rolled out to all participating DAP agency users. That means that DAP users will have access not only to their specific agency&#8217;s'
+guide: dap
 weight: 0
 authors:
   - tlowden
+aliases:
+  - /services/dap/guidance-for-dap-gov-wide-data/
 ---
 
 On August 17th, Steve VanRoekel, U.S. Chief Information Officer, sent a memo to the CIO Council that stated beginning Aug 29, 2014, access to all [Digital Analytics Program (DAP)]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program") data government-wide will be rolled out to all participating DAP agency users. That means that DAP users will have access not only to their specific agency&#8217;s profile/view, but all of the participating agencies&#8217; views, as well as the government-wide main roll-up profile.

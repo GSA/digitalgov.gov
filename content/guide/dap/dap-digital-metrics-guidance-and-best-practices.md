@@ -1,10 +1,13 @@
 ---
-url: /services/dap/dap-digital-metrics-guidance-and-best-practices/
+url: /guide/dap/dap-digital-metrics-guidance-and-best-practices/
 date: 2013-07-29 9:27:00 -0400
 title: 'DAP: Digital Metrics Guidance and Best Practices'
 summary: 'Agencies should ensure that they collect, analyze, and report on a minimum baseline set of performance and customer satisfaction measures. It&rsquo;s important to collect a variety of metrics&mdash;not just visits or page views&mdash;to get a holistic picture of how well you&rsquo;re delivering your digital services and information. While a goal of the Digital Strategy is to have a common set of performance measures and consistent means of collecting data, agencies may have varied approaches to using and interpreting the data based on individual agency and website goals.'
 deck: 'Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers.'
+guide: dap
 weight: 0
+aliases:
+  - /services/dap/dap-digital-metrics-guidance-and-best-practices/
 ---
 
 **This guidance is part of the [Digital Analytics Program]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program") (DAP): Digital Metrics Guidance and Best Practices. [See more on the DAP]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program").**
