@@ -12,13 +12,17 @@ tag:
   - analytics
   - dap
 featured_image:
-  uid:
+  uid: dap-new-returning
   alt: ''
 ---
 
 Making sense of web analytics data is difficult in itself – there is a lot of terminology, learning curves for tools, and troubleshooting implementations. Unfortunately for web analysts, things just got a bunch harder when WebKit (which powers Safari, [among other projects](https://en.wikipedia.org/wiki/WebKit)) implemented [“Intelligent Tracking Prevention” (ITP) version 2.1](https://webkit.org/blog/8613/intelligent-tracking-prevention-2-1/) in March, 2019.
 
 ITP 2.1 has its roots in a noble cause – essentially, stopping ad networks from tracking users across domains and building profiles to target ads. Most of us outside of the marketing world applaud such an initiative. Unfortunately, in doing so, the way web analytics work for all of us, including those of us just trying to improve user experiences, is changing.
+
+
+{{< img src="dap-new-returning" >}}
+
 
 ### So What’s the Big Deal?
 
