@@ -5,11 +5,16 @@ title: 'Introducing USWDS 2.0'
 deck: 'Reinvent the experience, not the wheel'
 summary: 'Reinvent the experience, not the wheel'
 authors:
-  - dano
+  - dan-williams
 categories:
-  -
+  - code
+  - design
+  - managing-digital
+  - mobile
+  - ux
+  - accessibility
 tag:
-  -
+  - uswds
 featured_image:
   uid:
   alt: ''
