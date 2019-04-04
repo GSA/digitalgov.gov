@@ -52,6 +52,8 @@ You don’t need to totally redesign your existing site to [get started with USW
 - Supports custom typefaces
 - Provides resilient, modular components
 
+**IMAGE**
+Alt text: Side by side illustrations show before-and-after examples of a web page. One has the original page and the other shows that page with just a few design system components added.
 
 ## Practical Design Tokens
 
@@ -68,6 +70,8 @@ Design and development are all about decision making. Making decisions and commu
 - Even spacing units (based on 8px) yield reliable spacing and centering
 - Typescale outputs consistently and predictably, regardless of typeface
 
+**IMAGE**
+Alt text: An illustration of three designers and developers using design tokens to communicate their intention. They move from themes to components to a finished website.
 
 ## Accessible Color System
 
@@ -80,6 +84,8 @@ Making a good color decision means making an accessible color decision. The [USW
 - Supports practical project theme palettes
 - Is the foundation for expressive color families
 
+**IMAGE**
+Alt text: Two rows of colors from light to dark and their accessible color combinations.
 
 ## Expressive Theming
 
@@ -92,6 +98,8 @@ Every project is different. Different audiences, different missions, and differe
 - Custom settings power themeable layouts
 - Integrated with tokens and utilities
 
+**IMAGE**
+Alt text: An illustration shows five images of websites at different screen sizes, ranging from small to large — each with a different look and feel.
 
 ## Powerful Utility Classes
 
@@ -106,6 +114,8 @@ Building and testing a prototype is an invaluable step to understanding how real
 - Easy to transfer into production Sass with integrated functions and mixins
 - 25 KB gzipped, but optional
 
+**IMAGE**
+Alt text: This illustration shows another before-and-after example of how a website can use utility classes to change the styles of site elements. Five stylized examples of code are given below the two versions of the page.
 
 ## Simplified 12-Column Layout Grid
 
@@ -119,6 +129,8 @@ Layout grids give any website visual coherence. The [USWDS 2.0 layout grid](http
 - Predictable and nestable
 - Designed to be mobile-first and responsive
 
+**IMAGE**
+Alt text: An illustration shows a yellow 12-column grid system overlaid on a colorful website.
 
 ## Introducing Public Sans
 
@@ -133,7 +145,8 @@ USWDS 2.0 adds built-in support for custom typefaces, but sometimes you need som
 - Free and open-source
 - Features tabular numerals for data design
 
-
+**IMAGE**
+Alt text: Seven ways to say hello—Hi, Hello, Hey, Hola, Howdy, Heya, and Hai—are displayed in the new Public Sans font in various font weights.
 
 ## Built to Grow
 
@@ -148,23 +161,13 @@ USWDS 2.0 is built to grow. It exists to help teams build new things and explore
 - Easier to integrate new components from outside projects
 - Prepared to grow and adapt to user needs and industry best practices
 
+**IMAGE**
+Alt text: An expanding geometric flower formed from the USWDS logo.
 
 Like any true 2.0, this is a living product. We’ll continue to test our decisions and assumptions with real-world feedback as it develops and evolves. We encourage you to explore USWDS 2.0, contribute your own code and ideas, and leave feedback on [GitHub](https://github.com/uswds/uswds/issues), [email](mailto:uswds@gsa.gov), or our [Slack channel](https://chat.18f.gov/). And join our new mailing list by sending an email to [uswds-subscribe-request@listserv.gsa.gov](mailto:uswds-subscribe-request@listserv.gsa.gov). We’ll use your input to continuously improve the system with ongoing regular releases. We’re listening.
 
 ---
 
-USWDS is a team effort: built in the open for the public good. A heartfelt thank you to everyone who contributes to the project and whose work supports and inspires our own — your passion, smarts, and support are invaluable. We can’t do it without you.
+**USWDS is a team effort**: built in the open for the public good. A heartfelt thank you to everyone who contributes to the project and whose work supports and inspires our own — your passion, smarts, and support are invaluable. We can’t do it without you.
 
 A sincere thanks to Sara Cope, Stephanie Green, Jeremy Zilar, Jacob Parcell, Toni Bonitto, Andre Francisco, Dahianna Salazar Foreman, Wesley Thompson, Adam Biagianti, John Donmoyer, Brian Hurst, Steve Walker, Jen Thibault, Aviva Oskow, Christine Bath, Austin Hernandez, Nick Ng, Eddie Tejeda, Amir Reavis-Bey, Miguel Sousa, Scott Kellum, Eli Altman, Aaron Borden, Andrew Dunkman, Sawyer Hollenshead, Sha Hwang, Jared Cunha, Matt Langan, Heather Battaglia, T. Carter Baxter, Matt Yoder, David Way, nolawi, Amber Reed, Shawn Allen, Micah Taylor, Scott Weber, Brendan Sudol, Brandon Ruffridge, Atul Varma, Maria Marrero, bet4a, Robert Romore, Dave Methvin, Nick Schonning, cathrowe, fat32, Juliette Cezzar, Pablo Stanley, Eric Ronne, Ryan Thurlwell, Linzi Berry, Sam Soffes, Pablo Impallari, and Dave Crossland.
-
-For promotion:
-
-- GSA Social Media Community of Practice/OSC - Gabrielle Perret / Justin Ward
-- [Web Content Managers](https://digital.gov/communities/web-content-managers/), Federal Web Managers Council - Alycia Yozzi (Piazza)
-- [UX CoP](https://digital.gov/communities/user-experience/) - Jean Fox (BLS) and Silvia Salazar (NIH)
-- [Multilingual COP](https://digital.gov/communities/multilingual/) - Laura Godfrey
-- [Accessibility/Section 508 CoP](https://digital.gov/communities/accessibility/) - John Sullivan
-- [MobileGov CoP](https://digital.gov/communities/mobile/) - Jacob Parcell/David Fern
-- [Gov’t CX CoP](https://digital.gov/communities/customer-experience-community/) (maybe..?) - Simchah Suveyke-Bogin/Jon Kraden
-- DigitalGov [Facebook](https://www.facebook.com/digitalgov), [Twitter](https://twitter.com/Digital_Gov/); and various other GSA handles; send a stream of tweets about this content in bite size pieces
-- Drew Jack could help coordinate Insite article, press outreach etc. OSC would promote via their various outreach channels as well.
