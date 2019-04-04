@@ -22,7 +22,7 @@ By the People invites public participation in collective development of cultural
 
 This presentation will share the agile and iterative process of creating Concordia, and the engagement strategies developed to support the public as virtual volunteers with [Library of Congress Digital Collections](https://www.loc.gov/collections/).
 
-This talk is hosted by the Library of Congress and Digital.gov
+This talk is hosted by the [Library of Congress](https://www.loc.gov/) and Digital.gov
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
 
