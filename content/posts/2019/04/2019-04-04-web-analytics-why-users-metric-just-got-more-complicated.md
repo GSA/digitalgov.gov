@@ -1,7 +1,7 @@
 ---
 slug: web-analytics-why-users-metric-just-got-more-complicated
 date: 2019-04-04 13:51:00 -0500
-title: 'Why the Users Metric Just Complicated Web Analytics'
+title: 'Web Analytics: Why the Users Metric Just Got More Complicated'
 deck: 'A look at how the new Safari policy will alter your web analytics benchmarks.'
 summary: 'A look at how the new Safari policy will alter your web analytics benchmarks.'
 authors:
@@ -14,15 +14,12 @@ tag:
 featured_image:
   uid: dap-new-returning
   alt: ''
+
 ---
 
 Making sense of web analytics data is difficult in itself – there is a lot of terminology, learning curves for tools, and troubleshooting implementations. Unfortunately for web analysts, things just got a bunch harder when WebKit (which powers Safari, [among other projects](https://en.wikipedia.org/wiki/WebKit)) implemented [“Intelligent Tracking Prevention” (ITP) version 2.1](https://webkit.org/blog/8613/intelligent-tracking-prevention-2-1/) in March, 2019.
 
 ITP 2.1 has its roots in a noble cause – essentially, stopping ad networks from tracking users across domains and building profiles to target ads. Most of us outside of the marketing world applaud such an initiative. Unfortunately, in doing so, the way web analytics work for all of us, including those of us just trying to improve user experiences, is changing.
-
-
-{{< img src="dap-new-returning" >}}
-
 
 ### So What’s the Big Deal?
 
@@ -31,6 +28,8 @@ The biggest takeaway for us is:
 “With ITP 2.1, all persistent client-side cookies, i.e. persistent cookies created through document.cookie, are capped to a seven day expiry.”
 
 Essentially, that means that the persistent cookie used by web analytics tools to determine if a user is new or returning (the Google Analytics cookie has a default expiration of 24 months) will be forced to expire after seven days. So, if a user visits a site on Safari and returns just eight days later,that user will appear as a “new user” rather than a “returning” user (and count as two total users rather than one).
+
+{{< img src="dap-new-returning" >}}
 
 Another change is that both cross-domain and cross-subdomain tracking will be limited. A site would have to use the [Storage Access API](https://webkit.org/blog/8124/introducing-storage-access-api/) and obtain consent from the user to do so. That said, this change is less of a worry for most [Digital Analytics Program](https://digital.gov/dap/) (DAP) sites since DAP has no cross-domain tracking turned on by default.
 
