@@ -54,3 +54,4 @@ There are analytics blogs that offer [suggestions](https://www.simoahava.com/ana
 Keep in mind that while this is only affecting Safari for now on both MacOS (desktop) and iOS (mobile), other browsers may follow, so, setting benchmarks for users metrics may be difficult until all the ITP 2.1 dust settles. We felt it was important for DAP users to understand and be prepared for this change.
 
 As always, if you have questions or need help explaining these changes to leadership, contact us at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov).
+
