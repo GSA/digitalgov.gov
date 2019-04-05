@@ -6,7 +6,6 @@ jQuery(document).ready(function($) {
 	$('#TableOfContents > li:first').contents().unwrap();
 	$('#TableOfContents > ul > ul').remove();
 
-
 	function mobile_check(){
 		var isMobile = false; //initiate as false
 		// device detection
@@ -41,31 +40,36 @@ jQuery(document).ready(function($) {
 
 	    });
 		});
+	}
 
+	function truncate_nav(){
 		// checks if it is a mobile browser
 		if (mobile_check() == true) {
-			console.log('mobile device');
+			console.log('mobile device!');
 			var num = $('nav#TableOfContents ul:first-child > li').size();
-
+			console.log(num);
 			// if the number of H2 items in the in-page nav is greater than 6
-			// then truncate the list after 4 items, by adding the .ex class to the additional <li> tags in the nav
+			// then truncate the list after 4 items, by adding the .ex and .display-none classes to the additional <li> tags in the nav
 			if (num > 6) {
 				var rem = num - 4;
-				$('nav#TableOfContents ul:first-child > li').slice(-rem).addClass("ex");
+				$('nav#TableOfContents ul:first-child > li').slice(-rem).addClass("ex display-none");
 				// If greater than 6, the show / hide button appears as the last item in the list
-				$('<li class="more"><a href="#" title="">+ '+rem+' more »</a></li>').appendTo($('#TableOfContents ul:first-child'));
+				$('<li class="more"><a href="#" title="view the '+rem+' more items in this page">+ '+rem+' more »</a></li>').appendTo($('#TableOfContents ul:first-child'));
+				$('<li class="close display-none"><a href="#" title="close the navigation">close</a></li>').appendTo($('#TableOfContents ul:first-child'));
 			}
 
 		} else {
 			console.log('not a mobile device');
 		}
 	}
+	truncate_nav();
 
 
 	// Looks out for a click on the in-page nav
 	// passes the hash onto format_toc()
 	$("#TableOfContents a").click(function() {
 		var hash = $(this).attr('name');
+		console.log(hash);
 		format_toc(hash);
 	});
 
@@ -83,13 +87,18 @@ jQuery(document).ready(function($) {
 	}
 
 
-	var txt = $("#TableOfContents .more a").text();
-	$("#TableOfContents .more a").toggle(function() {
-	    $(this).text("close");
-			$("nav#TableOfContents ul:first-child > li.ex").addClass('show');
-	}, function() {
-	    $(this).text(txt);
-			$("nav#TableOfContents ul:first-child > li.ex").removeClass('show');
+	$("#TableOfContents .more").click(function(e) {
+		e.preventDefault();
+		$(this).addClass('display-none');
+		$("nav#TableOfContents ul:first-child > li.ex").removeClass('display-none');
+		$("#TableOfContents .close").removeClass('display-none');
+	});
+
+	$("#TableOfContents .close").click(function(e) {
+		e.preventDefault();
+		$("#TableOfContents .more").removeClass('display-none');
+		$("nav#TableOfContents ul:first-child > li.ex").addClass('display-none');
+		$("#TableOfContents .close").addClass('display-none');
 	});
 
 });
