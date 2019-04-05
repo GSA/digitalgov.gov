@@ -4,8 +4,8 @@ var gulp          = require("gulp"),
     jshint        = require("gulp-jshint")
 
 // task
-gulp.task('compile', function () {
-  gulp.src('./themes/digital.gov/src/js/**/*.js') // path to your files
+gulp.task('compile', function (done) {
+  return gulp.src('./themes/digital.gov/src/js/**/*.js') // path to your files
   .pipe(jshint())
   .pipe(jshint.reporter()) // Dump results
   .pipe(uglify())
