@@ -24,16 +24,7 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row margin-y-2 grid-gap-6">
 
-          <div class="grid-col-9">
-
-            {{/* Content */}}
-            <div class="content">
-              {{- .Content -}}
-            </div>
-
-          </div>
-
-          <div class="grid-col-3">
+          <div class="grid-col-12 tablet:grid-col-3 tablet:order-last">
 
             {{/* Table of contents */}}
             {{- partial "core/toc" . -}}
@@ -42,16 +33,25 @@
             {{/* {{- partial "last-updated" . -}}  */}}
 
             {{/* Related Communities */}}
-            {{- partial "core/get_communities" . -}}
+            {{/* {{- partial "core/get_communities" . -}} */}}
 
             {{/* Promos */}}
-            {{- partial "core/get_services" . -}}
+            {{/* {{- partial "core/get_services" . -}} */}}
 
             {{/* Topics */}}
-            {{- partial "core/get_topics" . -}}
+            {{/* {{- partial "core/get_topics" . -}} */}}
 
             {{/* Share Tools */}}
-            {{- partial "core/get_sharetools" . -}}
+            {{/* {{- partial "core/get_sharetools" . -}} */}}
+
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-9">
+
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
+            </div>
 
           </div>
 
