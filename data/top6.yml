@@ -31,6 +31,9 @@
 
 top6:
 
+  - file          : '2019-04-08-introducing-uswds-2.md'
+    type          : 'post'
+
   - file          : '2019-04-04-web-analytics-why-users-metric-just-got-more-complicated.md'
     type          : 'post'
 
@@ -44,7 +47,4 @@ top6:
     type          : 'post'
 
   - file          : '2019-03-13-go-beyond-coaching-mentorship-get-started-as-a-sponsor.md'
-    type          : 'post'
-
-  - file          : '2019-03-05-using-augmented-reality-teach-kids-about-currency.md'
     type          : 'post'
