@@ -17,10 +17,12 @@ categories:
 tag:
   - uswds
 featured_image:
-  uid:
-  alt: ''
+  uid: uswds-2-illio8
+  alt: 'A colorful collection of screens and interface components'
 
 ---
+
+{{< img src="uswds-2-illio8" >}}
 
 Today, we’re launching [U.S. Web Design System 2.0](https://v2.designsystem.digital.gov/) (USWDS 2.0), a new foundation for the future of our design system. This new version was designed to make it easier for any project to integrate USWDS and use it to support both your mission and the needs of your audience.
 
@@ -52,8 +54,7 @@ You don’t need to totally redesign your existing site to [get started with USW
 - Supports custom typefaces
 - Provides resilient, modular components
 
-**IMAGE**
-Alt text: Side by side illustrations show before-and-after examples of a web page. One has the original page and the other shows that page with just a few design system components added.
+{{< img src="uswds-2-illio3" >}}
 
 ## Practical Design Tokens
 
@@ -70,8 +71,7 @@ Design and development are all about decision making. Making decisions and commu
 - Even spacing units (based on 8px) yield reliable spacing and centering
 - Typescale outputs consistently and predictably, regardless of typeface
 
-**IMAGE**
-Alt text: An illustration of three designers and developers using design tokens to communicate their intention. They move from themes to components to a finished website.
+{{< img src="uswds-2-illio9" >}}
 
 ## Accessible Color System
 
@@ -84,8 +84,7 @@ Making a good color decision means making an accessible color decision. The [USW
 - Supports practical project theme palettes
 - Is the foundation for expressive color families
 
-**IMAGE**
-Alt text: Two rows of colors from light to dark and their accessible color combinations.
+{{< img src="uswds-2-illio2" >}}
 
 ## Expressive Theming
 
@@ -98,8 +97,7 @@ Every project is different. Different audiences, different missions, and differe
 - Custom settings power themeable layouts
 - Integrated with tokens and utilities
 
-**IMAGE**
-Alt text: An illustration shows five images of websites at different screen sizes, ranging from small to large — each with a different look and feel.
+{{< img src="uswds-2-illio1" >}}
 
 ## Powerful Utility Classes
 
@@ -114,8 +112,7 @@ Building and testing a prototype is an invaluable step to understanding how real
 - Easy to transfer into production Sass with integrated functions and mixins
 - 25 KB gzipped, but optional
 
-**IMAGE**
-Alt text: This illustration shows another before-and-after example of how a website can use utility classes to change the styles of site elements. Five stylized examples of code are given below the two versions of the page.
+{{< img src="uswds-2-illio4" >}}
 
 ## Simplified 12-Column Layout Grid
 
@@ -129,8 +126,7 @@ Layout grids give any website visual coherence. The [USWDS 2.0 layout grid](http
 - Predictable and nestable
 - Designed to be mobile-first and responsive
 
-**IMAGE**
-Alt text: An illustration shows a yellow 12-column grid system overlaid on a colorful website.
+{{< img src="uswds-2-illio7" >}}
 
 ## Introducing Public Sans
 
@@ -145,8 +141,7 @@ USWDS 2.0 adds built-in support for custom typefaces, but sometimes you need som
 - Free and open-source
 - Features tabular numerals for data design
 
-**IMAGE**
-Alt text: Seven ways to say hello—Hi, Hello, Hey, Hola, Howdy, Heya, and Hai—are displayed in the new Public Sans font in various font weights.
+{{< img src="uswds-2-illio7" >}}
 
 ## Built to Grow
 
@@ -161,8 +156,7 @@ USWDS 2.0 is built to grow. It exists to help teams build new things and explore
 - Easier to integrate new components from outside projects
 - Prepared to grow and adapt to user needs and industry best practices
 
-**IMAGE**
-Alt text: An expanding geometric flower formed from the USWDS logo.
+{{< img src="uswds-2-illio5" >}}
 
 Like any true 2.0, this is a living product. We’ll continue to test our decisions and assumptions with real-world feedback as it develops and evolves. We encourage you to explore USWDS 2.0, contribute your own code and ideas, and leave feedback on [GitHub](https://github.com/uswds/uswds/issues), [email](mailto:uswds@gsa.gov), or our [Slack channel](https://chat.18f.gov/). And join our new mailing list by sending an email to [uswds-subscribe-request@listserv.gsa.gov](mailto:uswds-subscribe-request@listserv.gsa.gov). We’ll use your input to continuously improve the system with ongoing regular releases. We’re listening.
 
