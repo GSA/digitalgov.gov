@@ -4,7 +4,6 @@ jQuery(document).ready(function($) {
 	// Register clicks on pages that have the short_url
 	// ==============================================================
 
-
 	// The Goal:
 	// To be able to display a metric on our Spotlight/News content that indicates a measure of interest from our readers.
 
@@ -36,7 +35,6 @@ jQuery(document).ready(function($) {
 	console.log('referer: '+referer);
 	var domains = ["localhost","digital.gov","demo.digital.gov"];
 	if ( (new RegExp(domains.join("|")).test(referer)) || (referer)) {
-		console.log('YES');
 		// short_url is defined in the <head>
 		// If not, none of this runs...
 		if (short_url){
@@ -60,20 +58,21 @@ jQuery(document).ready(function($) {
 	      setCookie(cookie_id,'true');
 	    }
 
-			function setCookie(key, value) {
-				var expires = new Date();
-				// I think this means that the cookie will expire in 60mins?
-				expires.setTime(expires.getTime() + (60 * (60 * 1000)) );
-				document.cookie = key + '=' + value + ';expires=' + expires.toUTCString() + "; path=/";
-			}
-
-			function getCookie(key) {
-			  var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
-			  return keyValue ? keyValue[2] : null;
-			}
 		}
 	}
 
+	function setCookie(key, value) {
+		var expires = new Date();
+		// I think this means that the cookie will expire in 60mins?
+		expires.setTime(expires.getTime() + (60 * (60 * 1000)) );
+		document.cookie = key + '=' + value + ';expires=' + expires.toUTCString() + "; path=/";
+	}
+
+	function getCookie(key) {
+		console.log('test1');
+		var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+		return keyValue ? keyValue[2] : null;
+	}
 
 
 
