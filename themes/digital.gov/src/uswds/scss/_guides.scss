@@ -68,11 +68,12 @@
 			li{
 				@include u-margin-bottom('105');
 				@include u-font('sans', 'md');
-				@include u-line-height('sans', 2);
+				@include u-line-height('sans', 3);
 				a{
 					@include u-padding-bottom(2px);
-					color: #a5a8e8; // $indigo-30v
-					color: #fc906d; // $orange-warm-30v
+					@include u-text('orange-warm-30v');
+					// color: #a5a8e8; // $indigo-30v
+					// color: #fc906d; // $orange-warm-30v
 					// color: #fbbaa7; // $orange-warm-20v
 					@include u-text('normal');
 					@include u-text('no-underline');
