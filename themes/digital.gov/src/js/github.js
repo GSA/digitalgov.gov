@@ -56,11 +56,11 @@ jQuery(document).ready(function($) {
 		var branch_link = get_branch_link(branch);
 		console.log(data);
 		if (data[0] == null) {
-			var commit_date = data['commit']['committer']['date'];
-			var commit_author = data['author']['login'];
+			var commit_date = data.commit.committer.committer.date;
+			var commit_author = data.author.login;
 		} else {
-			var commit_date = data[0]['commit']['committer']['date'];
-			var commit_author = data[0]['author']['login'];
+			var commit_date = data[0].commit.committer.date;
+			var commit_author = data[0].author.login;
 		}
 		var commit_author_url = 'https://github.com/' + commit_author;
 		var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/'+branch+'/content/' + filepath;
