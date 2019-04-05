@@ -17,10 +17,9 @@
 }
 
 .align-left {
-  float: left;
   clear: left;
   margin: 0 20px 10px 0;
-  width: 33%;
+  max-width: 60%;
 }
 
 #wrap img {
