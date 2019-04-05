@@ -1,6 +1,6 @@
 require('./config/gulp/images');
 require('./config/gulp/uswds');
-// require('./config/gulp/scripts');
+require('./config/gulp/scripts');
 require('./config/gulp/fontawesome');
 var gulp = require("gulp");
 
@@ -38,8 +38,9 @@ const PROJECT_JS_SRC  = './themes/digital.gov/src/js';
 
 gulp.task('watch-sass', function () {
   gulp.watch(`${PROJECT_SASS_SRC}/**/*.scss`, gulp.series('build-sass'));
+  gulp.watch(`${PROJECT_JS_SRC}/**/*.js`, gulp.series('compile'));
 });
 
-gulp.task('watch', gulp.series('build-sass', 'watch-sass'));
+gulp.task('watch', gulp.series('build-sass', 'compile', 'watch-sass'));
 
 gulp.task('default', gulp.series('watch'));
