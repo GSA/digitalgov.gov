@@ -36,9 +36,9 @@
 }
 
 .post .entry h2{
-	margin-top: 2.5em;
+	margin: 1em 0 .5em 0;
 	padding: .5em 0;
-	border-top:1px #000 solid;
+	/* border-top:1px #000 solid; */
 	color:#000;
 }
 
