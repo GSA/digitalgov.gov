@@ -1,5 +1,5 @@
 ---
-slug: an-innovative-approach-opioid-crisis
+slug: innovative-approaches-opioid-crisis
 title: 'Innovative Approaches to the Opioid Crisis'
 summary: 'Join federal, state and local governments and the broader community in an exploration of crowdsourcing approaches to address the opioid crisis&#46;  '
 featured_image: 
@@ -11,7 +11,7 @@ date: 2019-04-30 8:30:00 -0500
 end_date: 2019-04-30 12:00:00 -0500
 event_organizer: DigitalGov University
 host: Challenge.gov
-registration_url: https://www.eventbrite.com/e/an-innovative-approach-to-the-opioid-crisis-tickets-59961379099
+registration_url: https://www.eventbrite.com/e/innovative-approaches-to-the-opioid-crisis-registration-59961379099
 venue: 
   venue_name: U.S. General Services Administration
   room: 1459, 1460, 1461
