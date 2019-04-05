@@ -26,11 +26,11 @@ featured_image:
 
 Today, we’re launching [U.S. Web Design System 2.0](https://v2.designsystem.digital.gov/) (USWDS 2.0), a new foundation for the future of our design system. This new version was designed to make it easier for any project to integrate USWDS and use it to support both your mission and the needs of your audience.
 
-USWDS is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices. USWDS 2.0 is an important update to the design system — it introduces a powerful toolkit of new features to help make creating useful, consistent digital services faster, simpler, and more fun.
+USWDS is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices. USWDS 2.0 is an important update to the design system — it introduces a powerful toolkit of new features to help make creating useful, consistent digital services faster, simpler, and more fun.
 
-We’re proud that USWDS currently powers nearly [200 federal websites](https://v2.designsystem.digital.gov/getting-started/showcase/all/) and we’re committed to making the design system work better for any federal website. With USWDS 2.0 we’re introducing a design system that’s built to grow with your needs — to help teams build better, more engaging websites for the American public.
+We’re proud that USWDS currently powers nearly [200 federal websites](https://v2.designsystem.digital.gov/getting-started/showcase/all/) and we’re committed to making the design system work better for _any_ federal website. With USWDS 2.0 we’re introducing a design system that’s built to grow with your needs — to help teams build better, more engaging websites for the American public.
 
-Over the last two years, we’ve listened to the designers and developers using USWDS to build their websites. We’ve conducted interviews with project teams, listened to public feedback, and paid close attention to the issues in our [GitHub repos](https://github.com/uswds/). We’ve conducted our own research on how designers and developers communicate with each other, and the tools they use to prototype. This research and feedback shaped our priorities for USWDS 2.0:
+Over the last two years, we’ve listened to the designers and developers using USWDS. We’ve conducted interviews with project teams, listened to public feedback, and paid attention to the issues in our [GitHub repos](https://github.com/uswds/). We’ve conducted our own research on how designers and developers communicate with each other, and the tools they use to prototype. This research and feedback shaped our priorities for USWDS 2.0:
 
 - Encourage modular, iterative, user-centered design
 - Promote accessibility and mobile friendliness
@@ -46,7 +46,7 @@ So, what’s new in USWDS 2.0?
 
 ### Add a component, not a headache
 
-You don’t need to totally redesign your existing site to [get started with USWDS](https://v2.designsystem.digital.gov/documentation/). Adding USWDS 2.0 doesn’t mean breaking existing site functionality, so it’s easier to make incremental changes. Our components and code play well with existing styles, and it’s easy to adapt our default styles to the look-and-feel your users trust.
+You don’t need to totally redesign your existing site to [get started with USWDS](https://v2.designsystem.digital.gov/documentation/). Adding USWDS 2.0 doesn’t mean breaking existing site functionality, so it’s easier to make incremental changes. Our components and code play well with existing styles, and it’s easy to adapt our default styles to a look-and-feel appropriate to your audience.
 
 - Won’t affect your existing styles… until you want it to
 - Isolated class-based styling
@@ -60,7 +60,7 @@ You don’t need to totally redesign your existing site to [get started with USW
 
 ### A common language for designers and developers
 
-Design and development are all about decision making. Making decisions and communicating their details with the team takes time and has a cost, both in money and energy. [USWDS 2.0 design tokens](https://v2.designsystem.digital.gov/design-tokens/) are the common building blocks of visual design decisions (like color, typescale, and spacing units) that all USWDS projects share. Using a design token means that designers and developers spend less time fussing over pixels, eyedroppering hex codes, and redlining, and more time solving problems.
+Design and development are all about decision making. Making decisions and communicating these details with the team takes time and has a cost, both in money and energy. [USWDS 2.0 design tokens](https://v2.designsystem.digital.gov/design-tokens/) are the common building blocks of visual design decisions (like color, typescale, and spacing units) that all USWDS projects share. Using a design token means that designers and developers spend less time fussing over pixels, eyedroppering hex codes, and redlining, and more time solving problems.
 
 - Design tokens are a common language between designers and developers
 - Creates simple standardized palettes
@@ -73,11 +73,11 @@ Design and development are all about decision making. Making decisions and commu
 
 {{< img src="uswds-2-illio9" align="left" >}}
 
-## Accessible Color System
+## An Accessible Color System
 
 ### From AA Large to AAA: Section 508 contrast made simple
 
-Making a good color decision means making an accessible color decision. The [USWDS 2.0 color system](https://v2.designsystem.digital.gov/design-tokens/color/overview/) makes it simple and predictable to pick accessible color pairs. Each USWDS system color has a numeric grade (like the `50` in `red-50`). The difference between any two colors’ grades is what we call the magic number. Magic numbers of 40+ achieve AA Large contrast, magic numbers of 50+ achieve AA contrast, and magic numbers of 70+ achieve AAA contrast.
+Making a good color decision means making an accessible color decision. The [USWDS 2.0 color system](https://v2.designsystem.digital.gov/design-tokens/color/overview/) makes it simple and predictable to pick accessible color pairs. Each USWDS system color has a numeric grade (like the `50` in `red-50`). The difference between any two grades is what we call the magic number. Colors with magic numbers of 40+ achieve AA Large contrast, magic numbers of 50+ achieve AA contrast, and magic numbers of 70+ achieve AAA contrast.
 
 - Magic number makes contrast decisions a snap
 - Encourages accessible color choices for your mission and brand
@@ -132,7 +132,7 @@ Layout grids give any website visual coherence. The [USWDS 2.0 layout grid](http
 
 ### A free, open source typeface from USWDS
 
-USWDS 2.0 adds built-in support for custom typefaces, but sometimes you need something free, simple, and readable that just isn’t Helvetica. [Public Sans](https://github.com/uswds/public-sans) is an open source, open license (SIL Open Font License 1.1) typeface designed and maintained by USWDS, adapted from Libre Franklin. We intend Public Sans to be a model of how to design an open source typeface in public, with contributions and feedback from the public — to deliver a useful, neutral, sans serif now and continuously improve it into the future.
+USWDS 2.0 adds built-in support for custom typefaces, but sometimes you need something free, simple, and readable that just isn’t Helvetica. [Public Sans](https://github.com/uswds/public-sans) is an open source, open license typeface (SIL Open Font License 1.1) designed and maintained by USWDS, adapted from Libre Franklin. We intend Public Sans to be a model of how to design an open source typeface in public, with contributions and feedback from the public — to deliver a useful, neutral, sans serif now and continuously improve it into the future.
 
 - A clear, strong, neutral face for interfaces and continuous text
 - Developed by USWDS
