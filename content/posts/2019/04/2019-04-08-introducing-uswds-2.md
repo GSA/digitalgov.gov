@@ -42,6 +42,8 @@ Over the last two years, we’ve listened to the designers and developers using 
 
 So, what’s new in USWDS 2.0?
 
+{{< img src="uswds-2-illio-easier-incremental-adoption-alt" >}}
+
 ## Easier Incremental Adoption
 
 ### Add a component, not a headache
@@ -54,7 +56,7 @@ You don’t need to totally redesign your existing site to [get started with USW
 - Supports custom typefaces
 - Provides resilient, modular components
 
-{{< img src="uswds-2-illio-easier-incremental-adoption-alt" >}}
+{{< img src="uswds-2-illio-practical-design-tokens-alt" >}}
 
 ## Practical Design Tokens
 
@@ -71,7 +73,7 @@ Design and development are all about decision making. Making decisions and commu
 - Even spacing units (based on 8px) yield reliable spacing and centering
 - Typescale outputs consistently and predictably, regardless of typeface
 
-{{< img src="uswds-2-illio-practical-design-tokens-alt" >}}
+{{< img src="uswds-2-illio-accessible-color-system-alt" >}}
 
 ## An Accessible Color System
 
@@ -84,7 +86,7 @@ Making a good color decision means making an accessible color decision. The [USW
 - Supports practical project theme palettes
 - Is the foundation for expressive color families
 
-{{< img src="uswds-2-illio-accessible-color-system-alt" >}}
+{{< img src="uswds-2-illio-expressive-theming-alt" >}}
 
 ## Expressive Theming
 
@@ -97,7 +99,7 @@ Every project is different. Different audiences, different missions, and differe
 - Custom settings power themeable layouts
 - Integrated with tokens and utilities
 
-{{< img src="uswds-2-illio-expressive-theming-alt" >}}
+{{< img src="uswds-2-illio-powerful-utility-classes-alt" >}}
 
 ## Powerful Utility Classes
 
@@ -112,7 +114,7 @@ Building and testing a prototype is an invaluable step to understanding how real
 - Easy to transfer into production Sass with integrated functions and mixins
 - 25 KB gzipped, but optional
 
-{{< img src="uswds-2-illio-powerful-utility-classes-alt" >}}
+{{< img src="uswds-2-illio-simplified-12-column-layout-grid-alt" >}}
 
 ## Simplified 12-Column Layout Grid
 
@@ -126,7 +128,7 @@ Layout grids give any website visual coherence. The [USWDS 2.0 layout grid](http
 - Predictable and nestable
 - Designed to be mobile-first and responsive
 
-{{< img src="uswds-2-illio-simplified-12-column-layout-grid-alt" >}}
+{{< img src="uswds-2-illio-public-sans-hello-alt" >}}
 
 ## Introducing Public Sans
 
@@ -141,7 +143,7 @@ USWDS 2.0 adds built-in support for custom typefaces, but sometimes you need som
 - Free and open-source
 - Features tabular numerals for data design
 
-{{< img src="uswds-2-illio-public-sans-hello-alt" >}}
+{{< img src="uswds-2-illio-built-to-grow-alt" >}}
 
 ## Built to Grow
 
@@ -155,8 +157,6 @@ USWDS 2.0 is built to grow. It exists to help teams build new things and explore
 - Streamlined development process
 - Easier to integrate new components from outside projects
 - Prepared to grow and adapt to user needs and industry best practices
-
-{{< img src="uswds-2-illio-built-to-grow-alt" >}}
 
 Like any true 2.0, this is a living product. We’ll continue to test our decisions and assumptions with real-world feedback as it develops and evolves. We encourage you to explore USWDS 2.0, contribute your own code and ideas, and leave feedback on [GitHub](https://github.com/uswds/uswds/issues), [email](mailto:uswds@gsa.gov), or our [Slack channel](https://chat.18f.gov/). And join our new mailing list by sending an email to [uswds-subscribe-request@listserv.gsa.gov](mailto:uswds-subscribe-request@listserv.gsa.gov). We’ll use your input to continuously improve the system with ongoing regular releases. We’re listening.
 
