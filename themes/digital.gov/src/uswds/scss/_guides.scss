@@ -1,18 +1,31 @@
 // Guide Nav
 .guide-nav{
+	@include u-margin-y(5);
 	@include u-padding-left(3);
 	li{
-		@include u-margin-bottom('105');
-		@include u-font('sans', 'lg');
+		@include u-margin-bottom(3);
+		@include u-font('sans', 'md');
 		@include u-line-height('sans', 3);
-		@include u-text('bold');
+		h2{
+			@include u-margin-y(0);
+			@include u-margin-bottom('05');
+			@include u-font('sans', 'lg');
+			@include u-line-height('sans', 2);
+		}
+		p{
+			@include u-margin-y(0);
+			@include u-text('light');
+			@include u-line-height('sans', 3);
+		}
 		a{
 			@include u-text('no-underline');
 			@include u-text('indigo-warm-70');
+			@include u-text('bold');
 			&:hover{
-				@include u-border-bottom('05', 'orange-warm-30v', 'solid');
+				@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
 			}
 		}
+
 	}
 }
 .guide-nav-box {
@@ -22,7 +35,6 @@
 		@include u-display('none');
 		// tablet-lg and above
 		@include at-media('tablet-lg') {
-			display:block;
 			@include u-display('block');
 		}
 		@include u-bg('indigo-80');
@@ -35,59 +47,45 @@
 			@include u-text('thin');
 			@include u-line-height('sans', 2);
 			a{
-				// @include u-text('base-lightest');
-				color: #fff;
+				@include u-text('white');
 				@include u-text('no-underline');
+				&:hover{
+					@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+				}
 			}
-			a:hover{
-				border-bottom: 3px #fc906d solid;
-			}
+
 		}
 		p{
 			@include u-margin(0);
-			color: #fff;
+			@include u-text('white');
 			@include u-text('light');
 			@include u-font('sans', 'md');
 		}
 	}
 	.guide-nav{
+		@include add-list-reset;
+		@include u-margin(0);
+		@include u-padding-x(3);
+		@include u-padding-y(2);
 		// tablet and smaller
 		@include u-display('none');
 		// tablet-lg and above
 		@include at-media('tablet-lg') {
-			display:block;
 			@include u-display('block');
 		}
 		@include u-bg('indigo-80');
-		@include u-padding-x(3);
-		@include u-padding-y(2);
-		ul{
-			@include u-margin(0);
-			@include u-padding(0);
-			@include add-list-reset;
-			li{
-				@include u-margin-bottom('105');
-				@include u-font('sans', 'md');
-				@include u-line-height('sans', 3);
-				a{
-					@include u-padding-bottom(2px);
-					@include u-text('orange-warm-30v');
-					// color: #a5a8e8; // $indigo-30v
-					// color: #fc906d; // $orange-warm-30v
-					// color: #fbbaa7; // $orange-warm-20v
-					@include u-text('normal');
-					@include u-text('no-underline');
-				}
-				a:hover{
-					// @include u-border(0);
-					// @include u-border-bottom(2);
-					// @include u-border('orange-warm-40');
-					// @include u-border('solid');
-					border-bottom: 3px #656bd7 solid;
+
+		li{
+			@include u-font('sans', 'md');
+			a{
+				@include u-padding-bottom('2px');
+				@include u-text('orange-warm-30v');
+				@include u-text('normal');
+				&:hover{
+					@include u-border-bottom('2px', 'indigo-50v', 'solid');
 				}
 			}
 		}
-
 	}
 }
 

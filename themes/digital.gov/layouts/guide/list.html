@@ -40,14 +40,18 @@
             <ul class="guide-nav">
             {{/* Gets the current page URL */}}
             {{ $current_url := .URL }}
-            {{ range $i, $e := (where .Site.Pages.ByWeight ".Params.guide" .Params.guide) }}
+
+            {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
+            {{ range $i, $e := sort ($guidepages) ".Params.weight" "desc" }}
+
               {{/* If $current_url is NOT equal to the URL, then print the page */}}
               {{ if not (eq $current_url $e.URL) }}
                 <li>
-                  <a href="{{ $e.Permalink }}" title="{{$e.Title}}">{{$e.Title}}</a>
+                  <h2><a href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">{{- $e.Title | markdownify -}}</a></h2>
+                  {{- if $e.Params.deck -}}<p>{{- $e.Params.deck | markdownify -}}</p>{{- end -}}
                 </li>
-
               {{ end }}
+
             {{ end }}
             </ul>
           </div>
@@ -55,7 +59,7 @@
       </div>
     </section>
     {{ end }}
-    
+
   </article>
 </main>
 {{ end }} {{/* end 'content' block */}}

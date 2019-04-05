@@ -5,21 +5,22 @@
     <h4><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h4>
     <p>{{ .Parent.Params.deck }}</p>
   </div>
-  <div class="guide-nav">
-    {{ $current_url := .Parent.URL }}
-    <ul>
-      <li><a href="{{ .Parent.Permalink | relURL }}" title="{{ .Title }}">Overview</a></li>
-      {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
-      {{ range sort ($guidepages) ".Params.weight" "desc" }}
-        {{/* If $current_url is equal to the URL, then print the page and give it the title of "Overview" */}}
-        {{ if eq $current_url .URL }}
-        {{ else }}
-        <li><a href="{{ .Permalink | relURL }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></li>
-        {{ end }}
 
-      {{ end }}
-    </ul>
-  </div>
+  {{ $current_url := .Parent.URL }}
+
+  <ul class="guide-nav">
+    <li><a href="{{ .Parent.Permalink | relURL }}" title="{{ .Title }}">Overview</a></li>
+    {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
+    {{ range sort ($guidepages) ".Params.weight" "desc" }}
+
+      {{/* If $current_url is equal to the URL, then print the page and give it the title of "Overview" */}}
+      {{- if not (eq $current_url .URL) -}}
+        <li><a href="{{ .Permalink | relURL }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></li>
+      {{- end -}}
+
+    {{ end }}
+  </ul>
+
   {{ end }}
 
   <div class="toc">
