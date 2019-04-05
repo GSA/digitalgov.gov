@@ -171,6 +171,9 @@ body.No-Background-Pattern { background-image:none; }
 	display:block;
 	}
 
+.box{
+	margin-bottom: 1.5em;
+}
 #sidebar-bottom {
 	width: 100%;
 	clear:both;
