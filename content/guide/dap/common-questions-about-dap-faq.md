@@ -5,7 +5,7 @@ title: 'Common Questions about DAP'
 deck: 'These are the questions we get asked the most about the Digital Analytics Program (DAP)'
 summary: 'These are the questions we get asked the most about the Digital Analytics Program (DAP)'
 guide: dap
-weight: 0
+weight: 1
 authors:
   - tlowden
 aliases:

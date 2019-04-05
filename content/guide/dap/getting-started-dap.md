@@ -1,5 +1,5 @@
 ---
-url: /guide/dap/getting-started-with-dap/
+url: /guide/dap/getting-started-dap/
 title: 'Getting Started with DAP'
 deck: ''
 summary: ''
