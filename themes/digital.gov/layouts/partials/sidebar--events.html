@@ -1,5 +1,5 @@
 <div class="box">
-  <h4>Events</h4>
+  <h4>Upcoming Events</h4>
   <ul class="bulleted">
     {{ $now := now }}
     {{ $events := where .Site.Pages "Section" "events" }}
@@ -7,10 +7,10 @@
 
     {{ range first 3 $events }}
       <li>
-        <a href="{{ .Permalink }}" title="{{ htmlUnescape .Title | safeHTML }}" target="_self">{{ htmlUnescape .Title | safeHTML }}</a><br/>
-        <span class="tribe-event-date-start">{{ dateFormat "Jan _2, 3p.m." .Params.date }}</span>
+        <a href="{{ .Permalink }}" title="{{ htmlUnescape .Title | safeHTML }}" target="_self">{{ htmlUnescape .Title | safeHTML }}</a> —
+        <span class="tribe-event-date-start">{{ dateFormat "January 2, 3pm ET" .Params.date }}</span>
       </li>
     {{ end }}
   </ul>
-  <a href="{{ "events" | absURL }}" rel="bookmark">All events »</a>
+  <a href="{{ "events" | absURL }}" rel="bookmark">See all events »</a>
 </div>
