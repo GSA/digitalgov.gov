@@ -92,7 +92,7 @@ Making a good color decision means making an accessible color decision. The [USW
 
 ### Powered by your mission and user needs
 
-Every project is different. Different audiences, different missions, and different goals require different solutions. USWDS 2.0 helps teams reinvent the experience without reinventing the wheel with a flexible design system that encourages customization consistent with our best-practice guidance. Because using user-centered design to extend our defaults and build new things shouldn’t have to mean abandoning USWDS guidance altogether.
+Every project is different. Different audiences, different missions, and different goals require different solutions. USWDS 2.0 helps teams reinvent the experience without reinventing the wheel with a flexible design system that encourages customization consistent with our best-practice guidance. Because using user-centered design to adapt our defaults and build new things shouldn’t mean abandoning USWDS guidance altogether.
 
 - Normalized typefaces allow custom typeface support
 - It’s easier to match your brand to USWDS
