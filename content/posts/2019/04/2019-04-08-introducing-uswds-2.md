@@ -134,12 +134,12 @@ Layout grids give any website visual coherence. The [USWDS 2.0 layout grid](http
 
 ### A free, open source typeface from USWDS
 
-USWDS 2.0 adds built-in support for custom typefaces, and sometimes you need one that’s simple, neutral, and isn’t Helvetica. [Public Sans](https://github.com/uswds/public-sans) is an open source, free license typeface (SIL Open Font License 1.1) designed and maintained by USWDS, adapted from Libre Franklin. We intend Public Sans to be an example of how to design an open source typeface with contributions and feedback from the public — to deliver a useful, neutral, sans serif and continuously improve it.
+USWDS 2.0 adds built-in support for custom typefaces, and sometimes you need one that’s simple, neutral, and isn’t Helvetica. [Public Sans](https://github.com/uswds/public-sans) is an open source, free license typeface (SIL Open Font License 1.1) designed and maintained by USWDS, adapted from Libre Franklin. Just as with our components, we intend Public Sans to be an example of how to design an open source typeface with contributions and feedback from the public — to deliver a useful, neutral, sans serif and continuously improve it.
 
 - A neutral typeface for interfaces, headings, and body text
-- Developed by USWDS
 - A consistent alternative to system fonts or other neutral sans serifs
-- Designed for outcome-based continuous improvement just like our components
+- Developed for outcome-based continuous improvement just like our components
+- Designed for readability and accessibility
 - Free and open source
 - Features tabular numerals for data design
 
