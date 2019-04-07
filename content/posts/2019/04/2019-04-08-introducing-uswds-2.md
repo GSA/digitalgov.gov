@@ -162,6 +162,6 @@ Like any true 2.0, this is a living product. We’ll continue to test our decisi
 
 ---
 
-**USWDS is a team effort:** built in the open for the public good. A heartfelt thank you to everyone who contributes to the project and whose work supports and inspires our own — your passion, smarts, and support are invaluable. We can’t do it without you.
+USWDS is a team effort, built in the open for the public good. A heartfelt thank you to everyone who contributes to the project and whose work supports and inspires our own — your passion, smarts, and support are invaluable. We can’t do it without you.
 
 A sincere thanks to Sara Cope, Stephanie Green, Jeremy Zilar, Jacob Parcell, Toni Bonitto, Andre Francisco, Dahianna Salazar Foreman, Wesley Thompson, Adam Biagianti, John Donmoyer, Brian Hurst, Steve Walker, Jen Thibault, Aviva Oskow, Christine Bath, Austin Hernandez, Nick Ng, Eddie Tejeda, Amir Reavis-Bey, Miguel Sousa, Scott Kellum, Eli Altman, Aaron Borden, Andrew Dunkman, Sawyer Hollenshead, Sha Hwang, Jared Cunha, Matt Langan, Heather Battaglia, T. Carter Baxter, Matt Yoder, David Way, nolawi, Amber Reed, Shawn Allen, Micah Taylor, Scott Weber, Brendan Sudol, Brandon Ruffridge, Atul Varma, Maria Marrero, bet4a, Robert Romore, Dave Methvin, Nick Schonning, cathrowe, fat32, Juliette Cezzar, Pablo Stanley, Eric Ronne, Ryan Thurlwell, Linzi Berry, Sam Soffes, Pablo Impallari, and Dave Crossland.
