@@ -139,7 +139,7 @@ USWDS 2.0 adds built-in support for custom typefaces, and sometimes you need one
 - A neutral typeface for interfaces, headings, and body text
 - A consistent alternative to system fonts or other neutral sans serifs
 - Developed for outcome-based continuous improvement just like our components
-- Designed for readability and accessibility
+- Designed for legibility and readability
 - Features tabular numerals for data design
 - Free and open source
 
