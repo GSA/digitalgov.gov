@@ -145,11 +145,11 @@ USWDS 2.0 adds built-in support for custom typefaces, and sometimes you need one
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}
 
-## Built to Grow
+## Built to Grow, Designed to Adapt
 
 ### A stable foundation for the future
 
-USWDS 2.0 is built to grow. It exists to help teams build new things and explore new solutions — to be more useful to any federal website and to adapt to new problems and new insights. Our new release is the foundation for the future of the design system and a way to maintain predictable, reliable coherence in an ever-changing world of new technology and evolving expectations. We can’t wait to see what you build with it.
+USWDS 2.0 is built to grow and designed to adapt. It exists to help teams build new things and explore new solutions — to be more useful to any federal website and to adapt to new problems and new insights. Our new release is the foundation for the future of the design system and a way to maintain predictable, reliable coherence in an ever-changing world of new technology and evolving expectations. We can’t wait to see what you build with it.
 
 - No new components, but all new components
 - Consistent, predictable BEM naming
