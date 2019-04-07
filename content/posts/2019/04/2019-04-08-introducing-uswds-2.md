@@ -50,7 +50,7 @@ So, what’s new in USWDS 2.0?
 
 You don’t need to totally redesign your existing site to [get started with USWDS](https://v2.designsystem.digital.gov/documentation/). Adding USWDS 2.0 doesn’t mean breaking existing site functionality, so it’s easier to make incremental changes. Our components and code play well with existing styles, and it’s easy to adapt our default styles to a look-and-feel appropriate to your audience.
 
-- Won’t affect your existing styles
+- Isolated class-based styling won’t affect your existing styles
 - Isolated class-based styling
 - Customizable base font size
 - Supports custom typefaces
