@@ -140,8 +140,8 @@ USWDS 2.0 adds built-in support for custom typefaces, and sometimes you need one
 - A consistent alternative to system fonts or other neutral sans serifs
 - Developed for outcome-based continuous improvement just like our components
 - Designed for readability and accessibility
-- Free and open source
 - Features tabular numerals for data design
+- Free and open source
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}
 
