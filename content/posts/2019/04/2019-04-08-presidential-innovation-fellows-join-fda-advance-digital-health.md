@@ -13,7 +13,7 @@ tag:
   - pif
   - presidential-innovation-fellows
 featured_image:
-  uid:
+  uid: pif-raab-goldel
   alt: ''
 ---
 
@@ -23,7 +23,7 @@ Project teams at the agency have been exploring ways to incorporate more digital
 
 “The FDA has committed to being at the forefront of advancing the use of digital tools to empower consumers to take an active role in managing their own health while creating new opportunities for the agency to carry out its public health mission, such as through improved measurement of important endpoints in clinical trials and ensuring patients have access to safe, effective digital health devices,” said Dr. Sean Khozin, Director of FDA’s INFORMED. “We’re also looking at ways to incorporate more advanced digital processes into our regulatory review process, through INFORMED and other efforts. We’re excited to be working with the Presidential Innovation Fellows and to apply their experiences to enhance and scale our digital health strategy and research portfolio.”
 
-IMAGE GOES HERE
+{{< img src="pif-raab-goldel" >}}
 
 Robert Goldel will be working closely with Dr. Sean Khozin, the Founding Director of [INFORMED](https://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/OCE/ucm543768.htm) on questions of digital biomarkers, artificial intelligence (AI), and machine learning approaches in medicine. Khozin and Goldel will also be coordinating and supporting FDA work groups establishing data science and algorithm / AI regulations, procedures, and programs that have national or international impact.
 
