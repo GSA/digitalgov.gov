@@ -3,7 +3,7 @@ slug: introducing-uswds-2
 date: 2019-04-08 09:00:00 -0500
 title: 'Introducing USWDS 2.0'
 deck: 'Reinvent the experience, not the wheel'
-summary: 'Today's update introduces a powerful toolkit of new features to help make creating useful, consistent digital services faster, simpler, and more fun.'
+summary: "Today's update introduces a powerful toolkit of new features to help make creating useful, consistent digital services faster, simpler, and more fun."
 authors:
   - dan-williams
   - maya-benari
