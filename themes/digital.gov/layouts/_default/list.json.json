@@ -94,6 +94,12 @@
         "filepath" : {{ .File.Path | jsonify }},
         "filepathURL" : {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path | jsonify }},
         "editpathURL" : {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path | jsonify }},
+        {{- if .Params.source -}}
+        "source" : "{{- .Params.source -}}",
+        {{- end -}}
+        {{- if .Params.source_url -}}
+        "source_url" : "{{- .Params.source_url -}}",
+        {{- end -}}
         "url" : "{{- .Permalink -}}"
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
