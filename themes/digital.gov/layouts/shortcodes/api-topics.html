@@ -12,7 +12,7 @@
   {{- range $i, $e := $list.ByTitle -}}
     {
       "slug" : "{{ .File.Path | replaceRE "^topics/([^/]+).*" "$1" }}",
-      "display_name" : "{{ .Title -}}",
+      "title" : "{{ .Title -}}",
       "summary" : "{{ .Params.summary -}}",
       "weight" : "{{- .Params.weight -}}",
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
