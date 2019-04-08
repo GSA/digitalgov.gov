@@ -2,7 +2,7 @@
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
-# 
+#
 # Reach out to digitalgov@gsa.gov if you need assistance.
 
 display_name: Tim Lowden
@@ -13,12 +13,13 @@ email: timothy.lowden@gsa.gov
 bio: "Tim Lowden is Program Manager for the Digital Analytics Program (DAP) in the Technology Transformation Service at GSA. He holds a B.A. in English from SUNY Buffalo, an M.A. in Global Communication from the George Washington University, and is a Returned Peace Corps Volunteer who served in Morocco."
 
 # Agency Full Name [e.g. Department of Interior]
-agency_full_name: ''
+agency_full_name: 'General Services Administration'
 
 # Agency Acronym or short name [e.g. DOI]
-agency: ''
+agency: 'GSA'
 
 location: ""
+
 quote: ""
 
 # Your GitHub username [e.g. 'jeremyzilar']

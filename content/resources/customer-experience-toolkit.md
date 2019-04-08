@@ -30,7 +30,7 @@ Make the customer experience a strategic priority for your entire organization.
 
   * [Customer Service Cross-Agency Priority (CAP) Goal Update]({{< link "2015-12-14-government-customer-service-update-webinar-recap.md" >}})
   * [The Customer Service Playbook for Government](https://www.govloop.com/wp-content/uploads/2015/10/CustomerServicePlaybook.pdf) &#8211; GovLoop
-  * [Serving Citizens: Strategies for Customer-Centered Government in the Digital Age](http://ourpublicservice.org/publications/viewcontentdetails.php?id=246) &#8211; Partnership for Public Service
+  * [Serving Citizens: Strategies for Customer-Centered Government in the Digital Age](https://ourpublicservice.org/wp-content/uploads/2014/09/809b0d873a2bebe10611a1c4a054e5f0-1422459562.pdf) &#8211; Partnership for Public Service
   * [Re-Imagining Customer Service in Government](https://www.govloop.com/re-imagining-customer-service-in-government/) &#8211; GovLoop
   * [The Essentials of Customer Experience: Going Beyond Customer Service](https://www.youtube.com/watch?v=7MFjWiused8) – video featuring Forrester and Dept. of Education
 
