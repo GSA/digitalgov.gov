@@ -11,7 +11,7 @@
     "node-notifier": "^5.4.0"
   },
   "devDependencies": {
-    "autoprefixer": "^9.4.8",
+    "autoprefixer": "^9.5.1",
     "css-mqpacker": "^7.0.0",
     "cssnano": "^4.1.10",
     "del": "^3.0.0",
@@ -36,13 +36,13 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-strip-css-comments": "^2.0.0",
     "gulp-tap": "^1.0.1",
-    "gulp-uglify": "^3.0.1",
+    "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^5.0.1",
-    "image-size": "^0.7.2",
-    "jshint": "^2.10.1",
+    "image-size": "^0.7.3",
+    "jshint": "^2.10.2",
     "path": "^0.12.7",
-    "uswds": "^2.0.0-beta.5",
+    "uswds": "^2.0.1",
     "uswds-gulp": "github:uswds/uswds-gulp",
     "vinyl-paths": "^2.1.0"
   },
