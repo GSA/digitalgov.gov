@@ -7,7 +7,7 @@ body {
 	font-family:'source sans pro',arial, sans-serif;
 	font-size:16px;
 	line-height:1.6em;
-	color:#555;
+	color:#111;
 	font-weight:400;
 	}
 
@@ -46,13 +46,13 @@ h1 {
 	}
 
 h2 {
-	font-size: 26px;
+	font-size: 24px;
 	letter-spacing:0;
 	line-height:1.3em;
 	}
 
 h3 {
-	font-size: 22px;
+	font-size: 20px;
 	letter-spacing:0;
 	line-height: 1.5em;
 	}
@@ -219,7 +219,7 @@ a#cancel-comment-reply-link,
 .meta,
 .catslide-meta,
 p.sitemap-meta {
-	font-size:11px;
+	font-size:12px;
 	text-transform:uppercase;
 	height:1.5em;
 	line-height:1.5em;
@@ -229,7 +229,7 @@ p.sitemap-meta {
 .meta a,
 .catslide-meta a,
 p.sitemap-meta a {
-	border-bottom:1px dotted #ddd;
+	/* border-bottom:1px dotted #ddd; */
 	}
 
 .meta a:hover,
