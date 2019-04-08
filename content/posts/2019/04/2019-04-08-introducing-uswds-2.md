@@ -19,7 +19,7 @@ tag:
 featured_image:
   uid: uswds-2-illio-feature-image-black
   alt: 'A colorful collection of screens and interface components'
-
+canonical: https://v2.designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/
 ---
 
 Today, we’re launching [U.S. Web Design System 2.0](https://v2.designsystem.digital.gov/) (USWDS 2.0), a new foundation for the future of our design system. This new version was designed to make it easier for any project to integrate USWDS and use it to support your mission and the needs of your audience.
