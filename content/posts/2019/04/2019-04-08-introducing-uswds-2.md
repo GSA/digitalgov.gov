@@ -26,6 +26,8 @@ Today, we’re launching [U.S. Web Design System 2.0](https://v2.designsystem.di
 
 USWDS is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices. USWDS 2.0 is an important update to the design system — it introduces a powerful toolkit of new features to help make creating useful, consistent digital services faster, simpler, and more fun.
 
+<br/>
+
 {{< img src="uswds-2-illio-feature-image-black" >}}
 
 We’re proud that USWDS currently powers nearly [200 federal websites](https://v2.designsystem.digital.gov/getting-started/showcase/all/) and we’re committed to making the design system work better for _any_ federal website. With USWDS 2.0 we’re introducing a design system that’s built to grow with your needs — to help teams build better, more engaging websites for the American public.
@@ -42,6 +44,8 @@ Over the last two years, we’ve listened to the designers and developers using 
 
 So, what’s new in USWDS 2.0?
 
+<br/>
+
 {{< img src="uswds-2-illio-easier-incremental-adoption-alt" >}}
 
 ## Easier Incremental Adoption
@@ -55,6 +59,8 @@ You don’t need to totally redesign your existing site to [get started with USW
 - Customizable base font size
 - Supports custom typefaces
 - Provides resilient, modular components
+
+<br/>
 
 {{< img src="uswds-2-illio-practical-design-tokens-alt" >}}
 
@@ -73,6 +79,8 @@ Design and development are all about decision making. Making decisions and commu
 - Even spacing units (based on 8px) yield reliable spacing and centering
 - Typescale outputs consistently and predictably, regardless of typeface
 
+<br/>
+
 {{< img src="uswds-2-illio-accessible-color-system-alt" >}}
 
 ## An Accessible Color System
@@ -86,6 +94,8 @@ Making a good color decision means making an accessible color decision. The [USW
 - Supports practical project theme palettes
 - Is the foundation for expressive color families
 
+<br/>
+
 {{< img src="uswds-2-illio-expressive-theming-alt" >}}
 
 ## Expressive Theming
@@ -98,6 +108,8 @@ Every project is different. Different audiences, different missions, and differe
 - It’s easier to match your brand to USWDS
 - Custom settings power themeable layouts
 - Integrated with tokens and utilities
+
+<br/>
 
 {{< img src="uswds-2-illio-powerful-utility-classes-alt" >}}
 
@@ -114,6 +126,8 @@ Building and testing a prototype is an invaluable step to understanding how real
 - Easy to transfer into production Sass with integrated functions and mixins
 - 25 KB gzipped, but optional
 
+<br/>
+
 {{< img src="uswds-2-illio-simplified-12-column-layout-grid-alt" >}}
 
 ## Simplified 12-Column Layout Grid
@@ -127,6 +141,8 @@ Layout grids give any website visual coherence. The [USWDS 2.0 layout grid](http
 - Built with Flexbox
 - Predictable and nestable
 - Designed to be mobile-first and responsive
+
+<br/>
 
 {{< img src="uswds-2-illio-public-sans-hello-alt" >}}
 
@@ -142,6 +158,8 @@ USWDS 2.0 adds built-in support for custom typefaces, and sometimes you need one
 - Designed for legibility and readability
 - Features tabular numerals for data design
 - Free and open source
+
+<br/>
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}
 
