@@ -23,20 +23,31 @@
 }
 .post .post-title{
 	margin:0 0 .2em 0;
-	line-height: 36px;
+	line-height: 40px;
+	color:#000;
 }
-.post .deck{
+.post .entry .deck{
 	margin:0 0 0 0;
-	font-size: 21px;
-	line-height: 30px;
-	color:#444;
-	font-weight: 200;
+	padding:0;
+	font-size: 24px;
+	line-height: 33px;
+	color:#000;
+	border-top:none;
+	font-weight: 100;
 }
+
+.post .entry h2{
+	margin: 1em 0 .5em 0;
+	padding: .5em 0;
+	/* border-top:1px #000 solid; */
+	color:#000;
+}
+
 .entry-head .deck{
 	margin: 10px 0 25px 0;
 	font-size: 24px;
 	line-height: 36px;
-	/* font-weight: bold; */
+	border-top:none;
 	color:#222;
 	max-width: 800px;
 }

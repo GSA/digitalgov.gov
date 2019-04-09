@@ -171,6 +171,19 @@ body.No-Background-Pattern { background-image:none; }
 	display:block;
 	}
 
+#sidebar .box{
+	margin-bottom: 1.5em;
+}
+#sidebar .box h4{
+	margin-bottom: 6px;
+}
+#sidebar .box .sub-hed{
+	font-size: 18px;
+	line-height: 24px;
+}
+#sidebar .box ul{
+	padding-left: 17px;
+}
 #sidebar-bottom {
 	width: 100%;
 	clear:both;
@@ -225,7 +238,7 @@ h1,h2,h3,h4,h5,h6,h7,
 	margin: 0 0 20px;
 	padding: 0;
 	line-height: 1.1em;
-	color:#444;
+	/* color:#444; */
 	}
 
 h1 {
