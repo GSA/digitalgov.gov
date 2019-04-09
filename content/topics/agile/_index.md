@@ -9,7 +9,7 @@ title: "Agile"
 summary: ""
 
 # Weight
-weight: 2
+weight: 3
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki/topics

@@ -3,7 +3,7 @@
 # https://digital.gov/topics/challenges
 
 # Topic Title
-title: "Challenges"
+title: "Challenges and Prizes"
 
 # description — keep it short and clear
 summary: "Types of challenges–ideation, software and apps, creative and tech–and the platforms and tools for success."
