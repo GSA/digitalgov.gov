@@ -56,7 +56,7 @@ params:
   devmode               : false
 
   # Homepage settings
-  dg_tagline: "Guidance on creating better digital services in government"
+  dg_tagline: "Guidance for making digital services in government better"
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
