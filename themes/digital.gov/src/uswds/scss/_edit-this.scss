@@ -28,7 +28,6 @@
     }
   }
   &:hover{
-    // @include u-bg('gold-20v');
     outline: 4px #ffcb00 solid;
     @include u-outline-color('gold-20v');
     z-index: 100;
@@ -41,7 +40,9 @@
       span{
         display:block;
         position: relative;
+        text-indent: 0;
         padding: 9px 6px;
+        border:none;
       }
     }
   }
