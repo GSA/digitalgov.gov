@@ -37,6 +37,8 @@ A list of the most important resources tagged with the same topic */}}
       {{- else -}}
       <li data-edit-this="{{- .File.Path -}}">
         <a href="{{- .Permalink -}}" title="{{ .Title | markdownify }}">
+          {{- $source_url := (print "/logos/digit-150.png") -}}
+          <img class="thumb" src="{{ $source_url | relURL }}" alt="{{ .Title }} Logo">
           <span>{{ .Title | markdownify }}</span>
         </a>
         {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
