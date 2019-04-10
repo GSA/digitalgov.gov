@@ -1,7 +1,8 @@
 ---
 slug: an-innovative-approach-opioid-crisis
 title: 'Innovative Approaches to the Opioid Crisis'
-summary: 'Join federal, state and local governments and the broader community in an exploration of crowdsourcing approaches to address the opioid crisis&#46;  '
+summary: 'Join federal, state and local governments and the broader community in an exploration of crowdsourcing approaches to address the opioid crisis&#46;'
+deck: 'How Communities Are Crowdsourcing Solutions to Confront This Crisis'
 featured_image: 
   uid: 
   alt: ''
