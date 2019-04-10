@@ -22,7 +22,7 @@
   <div class="paper">
 
     {{- partialCached "core/notice-bar.html" . -}}
-    <!-- {{- partialCached "core/usa-banner.html" . -}} -->
+    {{- partialCached "core/usa-banner.html" . -}}
     {{- partialCached "core/header.html" . -}}
 
     {{/* Main Content */}}
@@ -36,7 +36,7 @@
 
 </body>
 
-<script src='{{ "lib/uswds/js/uswds.min.js" | absURL }}'></script>
+<script src='{{ "dist/uswds.min.js" | absURL }}'></script>
 <script src='{{ "dist/base.js" | absURL }}'></script>
 
 </html>

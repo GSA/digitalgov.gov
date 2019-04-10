@@ -1,32 +1,32 @@
 {{- $uswds_img_path := "lib/uswds/img" -}}
-<div class="usa-banner">
+<div class="usa-banner bg-primary-darker">
   <div class="usa-accordion">
-    <header class="usa-banner-header">
-      <div class="usa-banner-inner grid-container-desktop">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner width-desktop">
         <div class="grid-col-auto">
           {{- $uswds_asset := "favicons/favicon-57.png" -}}
           {{- $path := printf "%s/%s" $uswds_img_path $uswds_asset -}}
           {{- $path := (replace $path "//" "/") | relURL -}}
-          <img class="usa-banner-header-flag" src="{{- $path -}}" alt="U.S. flag">
+          <img class="usa-banner__header-flag" src="{{- $path -}}" alt="U.S. flag">
         </div>
-        <div class="grid-col-fill tablet:grid-col-auto">
-          <p class="usa-banner-header-text">An official website of the United States government</p>
-          <p class="usa-banner-header-action" aria-hidden="true">Here’s how you know</p>
+        <div class="grid-col-fill tablet:grid-col-auto text-base-lightest">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
         </div>
-        <button class="usa-accordion-button usa-banner-button"
+        <button class="usa-accordion__button usa-banner__button"
           aria-expanded="false" aria-controls="gov-banner">
-          <span class="usa-banner-button-text">Here's how you know</span>
+          <span class="usa-banner__button-text text-base-lightest">Here’s how you know</span>
         </button>
       </div>
     </header>
-    <div class="usa-banner-content usa-accordion-content" id="gov-banner">
+    <div class="usa-banner__content usa-accordion__content text-base-lightest" id="gov-banner">
       <div class="grid-row grid-gap-lg">
-        <div class="usa-banner-guidance-gov tablet:grid-col-6">
+        <div class="usa-banner__guidance tablet:grid-col-6">
           {{- $uswds_asset := "icon-dot-gov.svg" -}}
           {{- $path := printf "%s/%s" $uswds_img_path $uswds_asset -}}
           {{- $path := (replace $path "//" "/") | relURL -}}
-          <img class="usa-banner-icon usa-media_block-img" src="{{- $path -}}" alt="Dot gov">
-          <div class="usa-media_block-body">
+          <img class="usa-banner__icon usa-media-block__img" src="{{- $path -}}" alt="Dot gov">
+          <div class="usa-media-block__body">
             <p>
               <strong>The .gov means it’s official.</strong>
               <br>
@@ -34,12 +34,12 @@
             </p>
           </div>
         </div>
-        <div class="usa-banner-guidance-ssl tablet:grid-col-6">
+        <div class="usa-banner__guidance tablet:grid-col-6">
           {{- $uswds_asset := "icon-https.svg" -}}
           {{- $path := printf "%s/%s" $uswds_img_path $uswds_asset -}}
           {{- $path := (replace $path "//" "/") | relURL -}}
-          <img class="usa-banner-icon usa-media_block-img" src="{{- $path -}}" alt="Https">
-          <div class="usa-media_block-body">
+          <img class="usa-banner__icon usa-media-block__img" src="{{- $path -}}" alt="Https">
+          <div class="usa-media-block__body">
             <p>
               <strong>The site is secure.</strong>
               <br>
