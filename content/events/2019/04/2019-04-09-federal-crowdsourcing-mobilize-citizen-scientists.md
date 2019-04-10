@@ -12,6 +12,7 @@ end_date: 2019-04-09 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-federal-community-of-practice-for-crowdsourcing-and-citizen-registration-58989187247
+youtube_id: Kx1kSJ4y-7s
 
 ---
 
@@ -37,10 +38,10 @@ This webinar will take place on Zoom and a link will be shared before the event.
 - **May 14:** Challenge.gov, General Services Administration
 - **June 11:** The Opportunity Project, U.S. Census Bureau
 - **July 9:** Open Opportunities, Office of Personnel Management
+- **August 13:** History _By the People_, Library of Congress
 
 For information on this episode or upcoming events in the crowdsourcing series, contact [team@challenge.gov](mailto:team@challenge.gov?subject=Crowdsourcing%20Series%20on%20DGU).
 
-This event will be held on Zoom. Our team will distribute a link join the session prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand. 
 
 ---
 
