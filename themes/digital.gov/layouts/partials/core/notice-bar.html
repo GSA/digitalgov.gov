@@ -1,16 +1,20 @@
 {{ $current := "https://digital.gov" }}
 
-
 {{ if eq ($.Scratch.Get "env") "site" }}
+
 {{ else }}
-<section class="notice-bar">
-  <div class="grid-container grid-container-desktop">
-    <div class="grid-row">
-      <div class="grid-col">
-        <div class="padding-y-4 font-sans-lg"><strong>This is the BETA version of a <em>new</em> Digital.gov.</strong> Visit current site at <a href="{{ $current }}" target="_blank">{{ $current }}</a></div>
+
+  {{ if eq (printf "%v" $.Site.BaseURL) "//localhost:1313/" }}
+  {{ else }}
+  <section class="notice-bar">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col">
+          <div class="padding-y-4 font-sans-lg"><strong>This is the BETA version of a <em>new</em> Digital.gov.</strong> Visit current site at <a href="{{ $current }}" target="_blank">{{ $current }}</a></div>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+  {{ end }}
 
 {{ end }}
