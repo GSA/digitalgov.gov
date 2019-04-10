@@ -5,12 +5,13 @@ date: 2019-04-10 18:04:00 -0500
 title: 'How to track performance'
 deck: 'A step-by-step guide to picking metrics and tools for tracking performance on your siteundefined'
 summary: 'A step-by-step guide to picking metrics and tools for tracking performance on your siteundefined'
-authors: 
+authors:
   - jeremyzilar
 
 # Topics that best describe this product or service
-topics: 
+topics:
   - uswds
+  - performance
   - user-experience
 
 # What source published this?
