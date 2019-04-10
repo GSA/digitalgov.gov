@@ -38,10 +38,10 @@ This webinar will take place on Zoom and a link will be shared before the event.
 - **May 14:** Challenge.gov, General Services Administration
 - **June 11:** The Opportunity Project, U.S. Census Bureau
 - **July 9:** Open Opportunities, Office of Personnel Management
+- **August 13:** History _By the People_, Library of Congress
 
 For information on this episode or upcoming events in the crowdsourcing series, contact [team@challenge.gov](mailto:team@challenge.gov?subject=Crowdsourcing%20Series%20on%20DGU).
 
-This event will be held on Zoom. Our team will distribute a link join the session prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand. 
 
 ---
 
