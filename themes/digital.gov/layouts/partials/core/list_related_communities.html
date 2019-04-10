@@ -10,7 +10,7 @@ A list of the most important resources tagged with the same topic */}}
   <h2>Join a Community of Practice</h2>
   <ul class="add-list-reset">
     {{- range sort $communities "Title" "asc" -}}
-      <li>
+      <li data-edit-this="{{- .File.Path -}}">
         <a href="{{- .Permalink -}}">
           <span>{{ .Title | markdownify }} Community</span>
         </a>
