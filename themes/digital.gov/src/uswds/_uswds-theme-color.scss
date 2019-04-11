@@ -36,7 +36,7 @@ $theme-color-base-ink:              'gray-90';
 
 // Primary colors
 $theme-color-primary-family:        'indigo';
-$theme-color-primary-lightest:      false;
+$theme-color-primary-lightest:      'indigo-5';
 $theme-color-primary-lighter:       'indigo-10';
 $theme-color-primary-light:         'indigo-30';
 $theme-color-primary:               'indigo-60v';
@@ -127,7 +127,7 @@ General colors
 */
 
 // Links
-$theme-link-color:             'primary';
+$theme-link-color:             'green-cool-30v';
 $theme-link-visited-color:     'violet-70v';
 $theme-link-hover-color:       'primary-darker';
 $theme-link-active-color:      'primary-darker';
