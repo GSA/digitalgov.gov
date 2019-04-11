@@ -1,5 +1,5 @@
 ---
-slug: how-track-performance
+slug: /resources/how-track-performance
 date: 2019-04-10 18:04:00 -0500
 
 title: 'How to track performance'
@@ -19,6 +19,6 @@ source: 'uswds'
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-sourceoftruth: 'https://v2.designsystem.digital.gov/performance/how/'
+source_url: 'https://v2.designsystem.digital.gov/performance/how/'
 
 ---
