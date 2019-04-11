@@ -15,7 +15,7 @@ A list of the most important resources tagged with the same topic */}}
           <span>{{ .Title | markdownify }} Community</span>
         </a>
         {{- if .Params.members -}}
-          &nbsp;<span class="members">( +{{- .Params.members }} members )</span>
+          &nbsp;<span class="members">{{- lang.NumFmt 0 .Params.members -}}+ members</span>
         {{- end -}}
       </li>
     {{- end -}}
