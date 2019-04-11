@@ -11,7 +11,7 @@ topics:
   - mobile
   - ux
   - analytics
-  - customer-experience
+  - cx
   - dap
   - data
   - digital-analytics-program

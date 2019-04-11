@@ -17,7 +17,7 @@ topics:
   - ux
   - content
   - content-strategy
-  - customer-experience
+  - cx
   - cx
   - National Center for Complementary and Integrative Health
   - national-institutes-of-health

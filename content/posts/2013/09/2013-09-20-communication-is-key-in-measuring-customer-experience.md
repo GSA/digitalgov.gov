@@ -7,7 +7,7 @@ authors:
   - simchah-suveyke-bogin
 topics:
   - metrics
-  - customer-experience
+  - cx
 ---
 
 <p style="text-align: left">

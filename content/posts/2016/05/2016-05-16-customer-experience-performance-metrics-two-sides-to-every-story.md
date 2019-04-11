@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - monthly-theme
-  - customer-experience
+  - cx
   - cx
   - Ex-Im Bank
   - Export-Import Bank of the United States

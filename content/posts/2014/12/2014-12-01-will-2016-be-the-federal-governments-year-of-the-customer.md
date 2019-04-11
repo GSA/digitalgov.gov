@@ -7,7 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - managing-digital
-  - customer-experience
+  - cx
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - US Department of Veterans Affairs

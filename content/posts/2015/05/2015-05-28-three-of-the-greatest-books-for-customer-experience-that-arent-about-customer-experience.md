@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - monthly-theme
-  - customer-experience
+  - cx
   - customer-satisfaction
   - customer-service
 ---

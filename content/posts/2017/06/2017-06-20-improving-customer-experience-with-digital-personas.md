@@ -9,7 +9,7 @@ topics:
   - content
   - design
   - ux
-  - customer-experience
+  - cx
   - customer-experience-community-of-practice
   - cx
   - NARA

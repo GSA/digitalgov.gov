@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - metrics
-  - customer-experience
+  - cx
   - customer-satisfaction
   - Export-Import Bank of the United States
 ---

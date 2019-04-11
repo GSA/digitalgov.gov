@@ -7,7 +7,7 @@ authors:
   - va-center-for-innovation
 topics:
   - ux
-  - customer-experience
+  - cx
   - customer-service
   - cx
   - personas

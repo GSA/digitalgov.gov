@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   - challenges-and-prize-competitions
-  - customer-experience
+  - cx
   - digitalgov-university
   - ecpic
   - mobile-gov

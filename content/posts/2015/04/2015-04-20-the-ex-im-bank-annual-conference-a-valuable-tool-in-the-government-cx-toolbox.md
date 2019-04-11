@@ -7,7 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - managing-digital
-  - customer-experience
+  - cx
   - customer-satisfaction
   - customer-service
   - Ex-Im Bank

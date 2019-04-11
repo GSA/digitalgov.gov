@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - monthly-theme
   - centers-for-disease-control-and-prevention
-  - customer-experience
+  - cx
   - customer-satisfaction
   - Export-Import Bank of the United States
   - National Cancer Institute

@@ -7,7 +7,7 @@ authors:
   - martha-dorris
 topics:
   - managing-digital
-  - customer-experience
+  - cx
 ---
 
 {{< legacy-img src="2013/08/250-x-167-Hands-Group-poco_bw-iStock-Thinkstock-145905230.jpg" alt="Group of hands; teamwork." caption="" >}} 

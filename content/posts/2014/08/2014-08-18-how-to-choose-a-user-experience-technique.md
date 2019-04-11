@@ -8,7 +8,7 @@ authors:
 topics:
   - user-testing-and-research
   - ux
-  - customer-experience
+  - cx
   - DigitalGov User Experience Program
   - personas
   - usability-testing

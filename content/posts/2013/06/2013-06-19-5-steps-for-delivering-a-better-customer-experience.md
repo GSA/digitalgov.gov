@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - ux
-  - customer-experience
+  - cx
   - GSA
   - top-tasks
 ---

@@ -29,7 +29,7 @@ categories:
   - user experience
   - writing
 tag:
-  - customer-experience
+  - cx
   - customer-experience-community-of-practice
   - multilingual
   - plain-language

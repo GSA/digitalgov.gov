@@ -9,7 +9,7 @@ topics:
   - communities
   - managing-digital
   - aoi
-  - customer-experience
+  - cx
   - customer-satisfaction
   - government-contact-centers
 ---

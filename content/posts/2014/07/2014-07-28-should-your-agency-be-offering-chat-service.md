@@ -10,7 +10,7 @@ topics:
   - managing-digital
   - monthly-theme
   - aoi
-  - customer-experience
+  - cx
   - customer-satisfaction
   - Government Contact Center Council
   - government-contact-centers

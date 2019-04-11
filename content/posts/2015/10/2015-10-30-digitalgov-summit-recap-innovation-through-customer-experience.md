@@ -8,7 +8,7 @@ authors:
 topics:
   - managing-digital
   - our-work
-  - customer-experience
+  - cx
   - customer-satisfaction
   - customer-service
   - cx

@@ -9,7 +9,7 @@ members: 782
 weight: 2
 
 topics:
-  - customer-experience
+  - cx
 aliases:
   - /customer-experience-community/
 

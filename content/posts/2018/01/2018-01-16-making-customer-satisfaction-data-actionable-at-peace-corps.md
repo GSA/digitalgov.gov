@@ -17,7 +17,7 @@ topics:
   - analytics
   - data
   - cx
-  - customer-experience
+  - cx
   - customer-service
 featured_image:
   uid: peace-corps

@@ -8,7 +8,7 @@ authors:
 topics:
   - monthly-theme
   - our-work
-  - customer-experience
+  - cx
   - Open Opportunities program
 ---
 

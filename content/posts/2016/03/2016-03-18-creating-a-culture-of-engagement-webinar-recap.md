@@ -8,7 +8,7 @@ authors:
   - rflagg
 topics:
   - managing-digital
-  - customer-experience
+  - cx
   - cx
   - DOL
   - HUD

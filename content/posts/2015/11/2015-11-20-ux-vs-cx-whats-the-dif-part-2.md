@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - ux
   - 18f
-  - customer-experience
+  - cx
   - customer-experience-community-of-practice
   - cx
   - usability starter kit

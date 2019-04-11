@@ -11,7 +11,7 @@ topics:
   - api
   - augmented-reality
   - chatbots
-  - customer-experience
+  - cx
   - customer-service
   - cx
   - data

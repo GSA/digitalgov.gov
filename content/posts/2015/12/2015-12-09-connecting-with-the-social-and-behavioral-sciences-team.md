@@ -9,7 +9,7 @@ authors:
 topics:
   - managing-digital
   - monthly-theme
-  - customer-experience
+  - cx
   - customer-experience-community-of-practice
   - cx
   - Recaps

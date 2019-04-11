@@ -12,7 +12,7 @@ topics:
   - user-testing-and-research
   - ux
   - content
-  - customer-experience
+  - cx
   - cx
   - digitalgov-university
   - 'Office of Products and Programs'

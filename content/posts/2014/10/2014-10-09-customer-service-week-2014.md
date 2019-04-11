@@ -10,7 +10,7 @@ topics:
   - our-work
   - ux
   - 18f
-  - customer-experience
+  - cx
   - customer-service
   - Ex-Im Bank
   - Export-Import Bank of the United States

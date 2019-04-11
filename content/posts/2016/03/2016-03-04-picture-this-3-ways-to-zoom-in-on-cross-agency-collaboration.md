@@ -7,7 +7,7 @@ authors:
   - stephanie-thum
 topics:
   - ux
-  - customer-experience
+  - cx
   - customer-experience-community-of-practice
   - cx
   - Ex-Im Bank

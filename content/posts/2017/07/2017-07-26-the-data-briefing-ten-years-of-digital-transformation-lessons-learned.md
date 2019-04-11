@@ -20,7 +20,7 @@ topics:
   - artificial-intelligence-for-citizen-services-community
   - augmented-reality
   - blockchain
-  - customer-experience
+  - cx
   - customer-experience-community-of-practice
   - customer-service
   - cx

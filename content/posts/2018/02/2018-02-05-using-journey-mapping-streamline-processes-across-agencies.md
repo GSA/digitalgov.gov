@@ -14,7 +14,7 @@ topics:
   - analytics
   - user-experience
   - accessibility
-  - customer-experience
+  - cx
   - ux
   - cx
 featured_image: 

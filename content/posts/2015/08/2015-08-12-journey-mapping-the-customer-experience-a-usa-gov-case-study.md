@@ -9,7 +9,7 @@ authors:
 topics:
   - ux
   - analytics
-  - customer-experience
+  - cx
   - government-contact-centers
   - personas
   - usa-gov

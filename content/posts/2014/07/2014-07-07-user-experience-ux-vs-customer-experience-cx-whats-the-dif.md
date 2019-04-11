@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - ux
   - aoi
-  - customer-experience
+  - cx
   - DigitalGov User Experience Program
   - search-engine-optimization
   - user-experience

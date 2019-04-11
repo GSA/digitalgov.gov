@@ -11,7 +11,7 @@ topics:
   - monthly-theme
   - our-work
   - ux
-  - customer-experience
+  - cx
   - customer-service
   - Digital Services Playbook
   - government-contact-centers

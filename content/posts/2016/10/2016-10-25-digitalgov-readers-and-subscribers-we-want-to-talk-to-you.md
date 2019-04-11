@@ -12,7 +12,7 @@ topics:
   - user-testing-and-research
   - ux
   - content
-  - customer-experience
+  - cx
   - cx
   - DGU
   - digitalgov-university

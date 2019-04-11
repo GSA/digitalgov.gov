@@ -9,7 +9,7 @@ topics:
   - managing-digital
   - monthly-theme
   - ux
-  - customer-experience
+  - cx
   - customer-satisfaction
   - customer-service
   - data
