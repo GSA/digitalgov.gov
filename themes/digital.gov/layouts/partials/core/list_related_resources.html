@@ -17,18 +17,22 @@ A list of the most important resources tagged with the same topic */}}
 
       <li class="indent" data-edit-this="{{- .File.Path -}}">
         <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
+          {{/* If there is a defined source for this page */}}
           {{- if .Params.source -}}
             {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
             {{- if $source.Params.icon -}}
               {{ $source_url := (print "/logos/" $source.Params.icon) }}
               <img src="{{ $source_url | relURL }}" alt="{{- $source.Params.name -}} logo">
             {{- end -}}
+          {{/* If there is a defined icon for this page — bypassing the source */}}
           {{- else if .Params.icon -}}
             {{- $source_url := (print "/logos/" .Params.icon) -}}
             <img class="thumb" src="{{ $source_url | relURL }}" alt="{{ .Title }} Logo">
+          {{/* Lastly, let's attempt to get the favicon for the URL */}}
           {{- else -}}
             <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo">
           {{- end -}}
+
           <span>{{ .Title | markdownify }}</span>
         </a>
         {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
@@ -37,7 +41,8 @@ A list of the most important resources tagged with the same topic */}}
       {{- else -}}
       <li data-edit-this="{{- .File.Path -}}">
         <a href="{{- .Permalink -}}" title="{{ .Title | markdownify }}">
-          {{- $source_url := (print "/logos/digit-150.png") -}}
+          {{/* Use the digital.gov logo */}}
+          {{- $source_url := (print "/img/digit-150.png") -}}
           <img class="thumb" src="{{ $source_url | relURL }}" alt="{{ .Title }} Logo">
           <span>{{ .Title | markdownify }}</span>
         </a>
