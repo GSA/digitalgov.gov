@@ -22,7 +22,9 @@ topics:
   
 ---
 
-_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3944823&CustomerID=321)._ 
+_Watch the video on [YouTube](https://www.youtube.com/watch?v=Br5O0hAaqt8) to read the live chat comments that Caroline Jarrett explains in detail in her [recap of the event](http://www.effortmark.co.uk/discussing-a-topic-map-for-how-to-design-better-a-form/)._ 
+
+***
 
 We have a lot of forms in government, and many of them would benefit from better design. In this talk, Caroline Jarrett will explore a curriculum she’s working on about how to design a form. She’ll be asking for our feedback about whether [the curriculum](http://www.effortmark.co.uk/a-draft-curriculum-for-how-to-design-a-form/) contains the right topics and whether it might be useful in U.S. government.
 
