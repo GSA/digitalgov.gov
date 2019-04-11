@@ -7,7 +7,7 @@ authors:
   - yasmine-kloth
 topics:
   - content
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - content

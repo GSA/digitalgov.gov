@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - content
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - video

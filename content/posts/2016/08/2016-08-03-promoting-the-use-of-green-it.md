@@ -6,7 +6,7 @@ summary: 'Summary: We&#8217;re taking action to accelerate efforts to increase t
 authors:
   - tony-scott
 topics:
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - Federal Information Technology Acquisition Reform Act

@@ -6,7 +6,7 @@ summary: 'Having a keyword search strategy is critical for government agencies t
 authors:
   - stephanie-stover
 topics:
-  - managing-digital
+  - product-management
   - ux
   - search-engine-optimization
 ---

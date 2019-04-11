@@ -7,7 +7,7 @@ authors:
   - jacqueline-snee
   - rflagg
 topics:
-  - managing-digital
+  - product-management
   - cx
   - customer-experience-community-of-practice
   - cx

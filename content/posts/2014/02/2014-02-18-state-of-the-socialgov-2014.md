@@ -6,7 +6,7 @@ summary: 'If the silos and barriers that separated our programs are smashed, wha
 authors:
   - jherman
 topics:
-  - managing-digital
+  - product-management
   - social-media
   - american-red-cross
   - DGU

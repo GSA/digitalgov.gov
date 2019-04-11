@@ -9,7 +9,7 @@ topics:
   - accessibility
   - content
   - design
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - ux

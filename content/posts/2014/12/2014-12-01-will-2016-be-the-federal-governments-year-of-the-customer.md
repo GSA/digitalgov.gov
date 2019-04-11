@@ -6,7 +6,7 @@ summary: As 2014 draws to a close, agencies across the federal government are be
 authors:
   - stephanie-thum
 topics:
-  - managing-digital
+  - product-management
   - cx
   - Ex-Im Bank
   - Export-Import Bank of the United States

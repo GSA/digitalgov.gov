@@ -6,7 +6,7 @@ summary: ' Here&#8217;s another other opportunity to show DigitalGov innovators 
 authors:
   - apiazza
 topics:
-  - managing-digital
+  - product-management
   - our-work
   - DigitalGov Summit
 ---

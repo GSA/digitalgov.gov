@@ -7,7 +7,7 @@ authors:
   - jsnee
   - rflagg
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - cx
   - customer-experience-community-of-practice

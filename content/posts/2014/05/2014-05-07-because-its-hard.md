@@ -7,7 +7,7 @@ authors:
   - gwynne-kostin
 topics:
   - content
-  - managing-digital
+  - product-management
   - monthly-theme
   - our-work
   - strategy

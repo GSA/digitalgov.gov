@@ -1,9 +1,9 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/managing-digital
+# https://digital.gov/topics/product-management
 
 # Topic Title
-title: "Managing Digital"
+title: "Product Management"
 
 # description — keep it short and clear
 summary: ""

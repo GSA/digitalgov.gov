@@ -7,7 +7,7 @@ authors:
   - david-hebert
 topics:
   - content
-  - managing-digital
+  - product-management
   - social-media
 ---
 

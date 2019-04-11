@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - governance
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - best practices

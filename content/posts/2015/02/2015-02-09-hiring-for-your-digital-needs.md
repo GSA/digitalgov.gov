@@ -6,7 +6,7 @@ summary: The increasing presence of big data and all things digital will require
 authors:
   - kdaniel
 topics:
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - National Oceanic and Atmospheric Administration

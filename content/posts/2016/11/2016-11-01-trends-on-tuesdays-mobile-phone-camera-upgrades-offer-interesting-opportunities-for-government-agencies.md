@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - content
-  - managing-digital
+  - product-management
   - social-media
   - video
   - app

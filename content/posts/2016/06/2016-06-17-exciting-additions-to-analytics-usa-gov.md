@@ -10,7 +10,7 @@ authors:
   - colin-craig
 topics:
   - data
-  - managing-digital
+  - product-management
   - metrics
   - our-work
   - 18f

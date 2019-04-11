@@ -6,7 +6,7 @@ summary: A recent FedTech Magazine article asked,
 authors:
   - jherman
 topics:
-  - managing-digital
+  - product-management
   - social-media
   - CFPB
   - DGU

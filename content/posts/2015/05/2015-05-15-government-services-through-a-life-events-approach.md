@@ -6,7 +6,7 @@ summary: The federal government is increasingly focused on designing and deliver
 authors:
   - mary-ann-monroe
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - cx
   - customer-satisfaction

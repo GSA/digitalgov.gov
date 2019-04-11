@@ -9,7 +9,7 @@ authors:
   - michelle-chronister
   - john-yuda
 topics:
-  - managing-digital
+  - product-management
   - ux
   - 18f
   - Draft Web Design Standards

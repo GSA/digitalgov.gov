@@ -7,7 +7,7 @@ authors:
   - alan-greilsamer
 topics:
   - content
-  - managing-digital
+  - product-management
   - ux
   - FCN
   - mobile

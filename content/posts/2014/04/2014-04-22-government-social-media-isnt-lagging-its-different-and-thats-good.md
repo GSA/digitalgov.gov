@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - communities
-  - managing-digital
+  - product-management
   - social-media
   - aoi
   - api

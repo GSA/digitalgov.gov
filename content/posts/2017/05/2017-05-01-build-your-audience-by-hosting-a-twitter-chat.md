@@ -7,7 +7,7 @@ authors:
   - aids-gov
 topics:
   - content
-  - managing-digital
+  - product-management
   - social-media
   - strategy
   - policy

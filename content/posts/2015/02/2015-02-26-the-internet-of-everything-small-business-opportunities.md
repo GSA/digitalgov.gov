@@ -7,7 +7,7 @@ authors:
   - david-a-bray
   - g-nagesh-rao
 topics:
-  - managing-digital
+  - product-management
   - FCC
   - Federal Communications Commission
   - privacy

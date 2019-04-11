@@ -17,7 +17,7 @@ aliases:
   - /event/responding-to-a-disaste-how-usagov-helped-shape-the-digital-response-in-puerto-rico
   - /event/responding-to-a-disaster-how-usagov-helped-shape-the-digital-response-in-puerto-rico
 topics:
-  - managing-digital
+  - product-management
   - multilingual
   - usagov
 

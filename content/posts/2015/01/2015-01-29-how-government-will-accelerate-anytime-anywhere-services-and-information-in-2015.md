@@ -7,7 +7,7 @@ authors:
   - jparcell
 topics:
   - communities
-  - managing-digital
+  - product-management
   - mobile
   - monthly-theme
   - aoi

@@ -14,7 +14,7 @@ topics:
   - data
   - design
   - governance
-  - managing-digital
+  - product-management
   - metrics
   - mobile
   - our-work

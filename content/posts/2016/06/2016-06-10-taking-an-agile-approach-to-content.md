@@ -8,7 +8,7 @@ authors:
   - nicole-fenton
 topics:
   - content
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - 18f

@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - content
-  - managing-digital
+  - product-management
   - mobile
   - social-media
   - ux

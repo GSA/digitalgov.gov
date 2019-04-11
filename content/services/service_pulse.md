@@ -24,7 +24,7 @@ weight: 2
 # Topics that best describe this product or service
 topics:
   - https
-  - managing-digital
+  - product-management
   - security
   - dap
   - analytics

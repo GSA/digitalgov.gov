@@ -7,7 +7,7 @@ authors:
   - minette-wilson
 topics:
   - challenges
-  - managing-digital
+  - product-management
   - social-media
   - crowdfunding
   - US Department of State

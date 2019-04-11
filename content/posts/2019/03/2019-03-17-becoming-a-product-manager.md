@@ -6,7 +6,7 @@ summary: ''
 authors:
   - jeremyzilar
 topics:
-  - managing-digital
+  - product-management
   - project-management
 
 source: 'doi-revenuedata'

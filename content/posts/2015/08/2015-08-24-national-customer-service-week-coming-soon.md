@@ -6,7 +6,7 @@ summary: 'Help us celebrate the Everyday Heroes in our agencies during Customer 
 authors:
   - alison-sturgeon
 topics:
-  - managing-digital
+  - product-management
   - customer-service
 ---
 

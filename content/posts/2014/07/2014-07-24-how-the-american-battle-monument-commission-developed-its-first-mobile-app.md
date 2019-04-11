@@ -6,7 +6,7 @@ summary: The job of the American Battle Monument Commission (AMBC) is to manage 
 authors:
   - zeshan-khan
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - ux
   - abmc

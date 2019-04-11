@@ -7,7 +7,7 @@ authors:
   - lesia-dickson
 topics:
   - data
-  - managing-digital
+  - product-management
   - mobile
   - strategy
   - policy

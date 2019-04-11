@@ -7,7 +7,7 @@ authors:
   - leah-stewart
   - ray-drake
 topics:
-  - managing-digital
+  - product-management
   - social-media
   - social-media
   - US Citizenship and Immigration Service

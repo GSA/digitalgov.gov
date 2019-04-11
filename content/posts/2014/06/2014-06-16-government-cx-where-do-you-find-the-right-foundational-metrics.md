@@ -6,7 +6,7 @@ summary: 'Customer service. Customer satisfaction. Improving the customer experi
 authors:
   - stephanie-thum
 topics:
-  - managing-digital
+  - product-management
   - metrics
   - cx
   - customer-satisfaction

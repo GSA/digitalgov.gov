@@ -7,7 +7,7 @@ authors:
   - victoria-wales
 topics:
   - content
-  - managing-digital
+  - product-management
   - social-media
   - strategy
   - policy

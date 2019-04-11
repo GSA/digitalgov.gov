@@ -7,7 +7,7 @@ authors:
   - federal-depository-library-program
 topics:
   - content
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - content

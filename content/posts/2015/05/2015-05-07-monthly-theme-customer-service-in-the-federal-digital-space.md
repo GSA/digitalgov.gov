@@ -7,7 +7,7 @@ authors:
   - jparcell
   - awichman
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - cx
   - customer-satisfaction

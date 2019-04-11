@@ -6,7 +6,7 @@ summary: Federal agencies are required by law (see the list of applicable ones h
 authors:
   - jparcell
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - Defense Intelligence Agency
   - DIA

@@ -7,7 +7,7 @@ authors:
   - lnelson
 topics:
   - governance
-  - managing-digital
+  - product-management
   - DOL
   - mobile-code-catalog
   - open-and-structured-content-models

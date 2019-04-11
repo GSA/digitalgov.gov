@@ -8,7 +8,7 @@ authors:
 topics:
   - accessibility
   - content
-  - managing-digital
+  - product-management
   - social-media
   - strategy
   - policy

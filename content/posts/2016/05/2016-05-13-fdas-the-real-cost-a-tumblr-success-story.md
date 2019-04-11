@@ -7,7 +7,7 @@ authors:
   - stacey-palosky
 topics:
   - content
-  - managing-digital
+  - product-management
   - social-media
   - social-media
 ---

@@ -6,7 +6,7 @@ summary: 'We have long believed that &ldquo;governments learn best from other go
 authors:
   - darlene-meskell
 topics:
-  - managing-digital
+  - product-management
   - innovation
   - usability-testing
   - user-experience

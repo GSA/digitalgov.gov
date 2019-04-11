@@ -8,7 +8,7 @@ authors:
   - darren-b-lurie
 topics:
   - content
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - content

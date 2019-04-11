@@ -27,6 +27,6 @@ topics:
   - policy
   - security
   - governance
-  - managing-digital
+  - product-management
 
 ---

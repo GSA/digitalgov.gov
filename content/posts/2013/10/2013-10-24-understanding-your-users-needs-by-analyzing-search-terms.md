@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - data
-  - managing-digital
+  - product-management
   - metrics
   - digitalgov-search
 ---

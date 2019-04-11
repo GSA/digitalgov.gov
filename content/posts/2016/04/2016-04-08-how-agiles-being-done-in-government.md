@@ -6,7 +6,7 @@ summary: The concepts of agile may not be new, but there is a renewed push acros
 authors:
   - andreanocesigritz
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - strategy
   - policy

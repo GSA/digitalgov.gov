@@ -6,7 +6,7 @@ summary: 'Customer experience is about making sure needs are met. It’s certain
 authors:
   - zachary-lerner
 topics:
-  - managing-digital
+  - product-management
   - cx
   - customer-service
   - HUD

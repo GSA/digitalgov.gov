@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - content
-  - managing-digital
+  - product-management
   - mobile
   - api
   - Census

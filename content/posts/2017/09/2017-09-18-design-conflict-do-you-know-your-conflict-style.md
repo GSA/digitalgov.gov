@@ -6,7 +6,7 @@ summary: 'Building empathy towards users is always a part of the UX process, but
 authors:
   - meghan-lazier
 topics:
-  - managing-digital
+  - product-management
   - ux
   - design
   - communication

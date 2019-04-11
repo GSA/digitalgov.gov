@@ -6,7 +6,7 @@ summary: 'Get your customer personas right, and you will improve the customer ex
 authors:
   - ktrebon
 topics:
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - ux

@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - accessibility
-  - managing-digital
+  - product-management
   - ux
   - accessibility
   - dhs

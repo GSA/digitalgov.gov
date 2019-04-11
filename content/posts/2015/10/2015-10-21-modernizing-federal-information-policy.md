@@ -8,7 +8,7 @@ authors:
   - tony-scott
   - howard-shelanski
 topics:
-  - managing-digital
+  - product-management
   - Office of Management and Budget
   - OMB
 ---

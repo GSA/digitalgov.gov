@@ -6,7 +6,7 @@ summary: 'Mobile devices are moving closer to the center of the social universe,
 authors:
   - jparcell
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - monthly-theme
   - social-media

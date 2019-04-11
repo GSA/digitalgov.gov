@@ -7,7 +7,7 @@ authors:
   - kyle-s-richardson
 topics:
   - content
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - content

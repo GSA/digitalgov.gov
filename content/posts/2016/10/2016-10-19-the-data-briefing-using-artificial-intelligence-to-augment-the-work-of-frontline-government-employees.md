@@ -6,7 +6,7 @@ summary: 'You have probably read about the recent release of the White House’s
 authors:
   - bbrantley
 topics:
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - ai

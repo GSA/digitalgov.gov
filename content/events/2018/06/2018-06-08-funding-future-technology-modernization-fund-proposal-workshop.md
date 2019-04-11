@@ -15,7 +15,7 @@ registration_url: https://www.eventbrite.com/e/funding-the-future-technology-mod
 youtube_id: 0UsrfJ9oiM4
 topics:
   - emerging-tech
-  - managing-digital
+  - product-management
   - it-modernization-fund
 
 ---

@@ -6,7 +6,7 @@ summary: 'One of the biggest challenges in implementing a new technology or proc
 authors:
   - christen-geiler
 topics:
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - FCC

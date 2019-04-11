@@ -7,7 +7,7 @@ authors:
   - carolyn-kaleel
 topics:
   - communities
-  - managing-digital
+  - product-management
   - monthly-theme
   - our-work
   - aoi

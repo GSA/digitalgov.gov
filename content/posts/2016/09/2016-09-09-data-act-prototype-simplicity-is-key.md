@@ -10,7 +10,7 @@ topics:
   - code
   - data
   - governance
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - 18f

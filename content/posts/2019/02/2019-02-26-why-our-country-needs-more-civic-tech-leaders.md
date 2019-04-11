@@ -11,7 +11,7 @@ authors:
   - clara-tsao
   - stephen-winchell
 topics:
-  - managing-digital
+  - product-management
   - pif
   - presidential-innovation-fellows
 featured_image:

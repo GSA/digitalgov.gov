@@ -9,7 +9,7 @@ topics:
   - api
   - challenges
   - code
-  - managing-digital
+  - product-management
   - challenge-gov
   - mobile-apps
   - OPM

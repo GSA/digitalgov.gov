@@ -7,7 +7,7 @@ authors:
   - ryan-edelstein
 topics:
   - content
-  - managing-digital
+  - product-management
   - content
   - usa-gov
 ---

@@ -9,7 +9,7 @@ authors:
   - anne-rung
   - marc-groman
 topics:
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - acquisition

@@ -6,7 +6,7 @@ summary: 'Customer experience (CX) is an emerging area of focus within governmen
 authors:
   - stephanie-thum
 topics:
-  - managing-digital
+  - product-management
   - cx
   - Export-Import Bank of the United States
 ---

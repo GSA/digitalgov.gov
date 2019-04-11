@@ -8,7 +8,7 @@ authors:
   - lisa-friedersdorf
 topics:
   - governance
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - innovation

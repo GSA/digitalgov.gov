@@ -9,7 +9,7 @@ topics:
   - api
   - code
   - data
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - ux

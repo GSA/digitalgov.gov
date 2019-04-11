@@ -23,7 +23,7 @@ weight: 1
 
 # Topics that best describe this product or service
 topics:
-  - managing-digital
+  - product-management
   - accessibility
   - governance
   - policy

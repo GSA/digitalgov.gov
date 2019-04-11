@@ -6,7 +6,7 @@ summary: 'OMB’s Lisa Danzig, who co-leads the Cross Agency Priority (CAP) Cust
 authors:
   - jsnee
 topics:
-  - managing-digital
+  - product-management
   - cx
   - customer-experience-community-of-practice
   - customer-satisfaction

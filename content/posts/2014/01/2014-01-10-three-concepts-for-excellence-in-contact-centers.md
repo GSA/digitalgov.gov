@@ -7,7 +7,7 @@ authors:
   - mary-ann-monroe
 topics:
   - communities
-  - managing-digital
+  - product-management
   - aoi
   - cx
   - customer-satisfaction

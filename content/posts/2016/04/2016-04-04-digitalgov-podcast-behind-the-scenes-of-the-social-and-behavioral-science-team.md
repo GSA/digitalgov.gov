@@ -6,7 +6,7 @@ summary: 'Enrolling veterans in retirement plans. Helping small farmers access c
 authors:
   - awichman
 topics:
-  - managing-digital
+  - product-management
   - user-testing-and-research
   - GSA
   - Social and Behavioral Sciences Team

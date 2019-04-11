@@ -8,7 +8,7 @@ authors:
   - marina-fox
 topics:
   - governance
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - analytics

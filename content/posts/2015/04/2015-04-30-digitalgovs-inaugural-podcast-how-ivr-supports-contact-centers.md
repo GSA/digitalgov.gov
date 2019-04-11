@@ -6,7 +6,7 @@ summary: '​DigitalGov University has added podcasts to our suite of offerings 
 authors:
   - apiazza
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - government-contact-centers
   - podcast

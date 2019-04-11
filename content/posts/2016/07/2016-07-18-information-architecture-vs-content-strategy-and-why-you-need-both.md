@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - content

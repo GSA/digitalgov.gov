@@ -10,7 +10,7 @@ topics:
   - code
   - content
   - crowdsourcing-and-citizen-science
-  - managing-digital
+  - product-management
   - metrics
   - mobile
   - monthly-theme

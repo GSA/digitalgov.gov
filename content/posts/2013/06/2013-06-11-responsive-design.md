@@ -6,7 +6,7 @@ summary: 'Responsive Web design refers to a fluidly constructed Web page layout 
 authors:
   - jparcell
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - mobile-apps
   - responsive-web-design

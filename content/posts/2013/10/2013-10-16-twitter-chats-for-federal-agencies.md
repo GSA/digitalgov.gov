@@ -7,7 +7,7 @@ authors:
   - jherman
 topics:
   - content
-  - managing-digital
+  - product-management
   - social-media
   - HHS
   - Twitter

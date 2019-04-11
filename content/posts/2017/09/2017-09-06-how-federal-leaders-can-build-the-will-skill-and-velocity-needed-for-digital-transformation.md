@@ -9,7 +9,7 @@ featured_image:
 authors:
   - bbrantley
 topics:
-  - managing-digital
+  - product-management
   - communication
   - human resources
   - skills

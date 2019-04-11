@@ -8,7 +8,7 @@ authors:
   - gwynne-kostin
 topics:
   - content
-  - managing-digital
+  - product-management
   - our-work
   - social-media
   - strategy

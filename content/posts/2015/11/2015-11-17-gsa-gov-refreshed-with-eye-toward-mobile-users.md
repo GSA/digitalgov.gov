@@ -7,7 +7,7 @@ authors:
   - jeff-woodworth
 topics:
   - design
-  - managing-digital
+  - product-management
   - mobile
   - 18f
   - responsive-web-design

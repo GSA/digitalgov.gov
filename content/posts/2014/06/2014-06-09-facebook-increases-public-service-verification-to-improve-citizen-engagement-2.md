@@ -9,7 +9,7 @@ topics:
   - api
   - data
   - governance
-  - managing-digital
+  - product-management
   - social-media
   - 18f
   - Central Intelligence Agency

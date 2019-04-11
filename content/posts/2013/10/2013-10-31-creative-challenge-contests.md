@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - challenges
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - analytics

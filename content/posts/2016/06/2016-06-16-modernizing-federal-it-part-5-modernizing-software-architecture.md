@@ -7,7 +7,7 @@ authors:
   - rob-klopp
 topics:
   - code
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - architecture

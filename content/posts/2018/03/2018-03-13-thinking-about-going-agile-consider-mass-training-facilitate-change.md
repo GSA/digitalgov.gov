@@ -6,7 +6,7 @@ summary: 'How organizational instruction can help transform the processes and cu
 authors:
   - brian-fox
 topics:
-  - managing-digital
+  - product-management
   - agile
 featured_image:
   uid: ux-training-class

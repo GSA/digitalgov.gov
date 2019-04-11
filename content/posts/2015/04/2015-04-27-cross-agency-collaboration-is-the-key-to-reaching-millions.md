@@ -7,7 +7,7 @@ authors:
   - lgodfrey
 topics:
   - content
-  - managing-digital
+  - product-management
   - CFPB
   - Consumer Financial Protection Bureau
   - content-strategy

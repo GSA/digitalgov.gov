@@ -7,7 +7,7 @@ authors:
   - lgodfrey
 topics:
   - content
-  - managing-digital
+  - product-management
   - ANLE
   - cx
   - GobiernoUSAgov

@@ -6,7 +6,7 @@ summary: AIDS.gov convenes and is guided by the Federal HIV/AIDS Web Council. Th
 authors:
   - miguel-gomez
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - social-media
   - National Institute of Allergy and Infectious Diseases

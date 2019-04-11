@@ -9,7 +9,7 @@ topics:
   - code
   - communities
   - content
-  - managing-digital
+  - product-management
   - mobile
   - monthly-theme
   - our-work

@@ -6,7 +6,7 @@ summary: 'While we think about the audience, we don’t often map out the experi
 authors:
   - martha-dorris
 topics:
-  - managing-digital
+  - product-management
   - social-media
   - ux
   - cx

@@ -9,7 +9,7 @@ topics:
   - accessibility
   - data
   - design
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - user-testing-and-research

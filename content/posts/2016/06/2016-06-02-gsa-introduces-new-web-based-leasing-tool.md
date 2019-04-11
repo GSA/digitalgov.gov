@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - managing-digital
+  - product-management
   - ux
   - GSA
   - US General Services Administration

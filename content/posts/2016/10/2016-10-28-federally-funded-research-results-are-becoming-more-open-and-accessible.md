@@ -7,7 +7,7 @@ authors:
   - jerry-sheehan
 topics:
   - data
-  - managing-digital
+  - product-management
   - content
   - data
   - DoD

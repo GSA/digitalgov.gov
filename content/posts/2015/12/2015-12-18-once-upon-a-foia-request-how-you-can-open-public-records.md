@@ -7,7 +7,7 @@ authors:
   - jherman
   - meredith-stewart
 topics:
-  - managing-digital
+  - product-management
   - social-media
   - DOJ
   - FBI

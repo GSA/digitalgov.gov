@@ -6,7 +6,7 @@ summary: 'In today’s digital world, it’s imperative that government agencies
 authors:
   - jim-sheire
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - mobile
   - security

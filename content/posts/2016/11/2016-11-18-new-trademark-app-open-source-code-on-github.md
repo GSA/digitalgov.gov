@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - data
-  - managing-digital
+  - product-management
   - mobile
   - api
   - code

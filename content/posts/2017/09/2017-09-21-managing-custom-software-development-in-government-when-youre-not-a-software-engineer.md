@@ -6,7 +6,7 @@ summary: "As custom software development becomes integral to accomplishing any p
 authors:
   - kaitlin-devine
 topics:
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - 18f

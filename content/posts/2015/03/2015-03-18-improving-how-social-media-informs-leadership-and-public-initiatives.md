@@ -7,7 +7,7 @@ authors:
   - corina-dubois
   - david-a-bray
 topics:
-  - managing-digital
+  - product-management
   - social-media
   - social-media
   - Twitter

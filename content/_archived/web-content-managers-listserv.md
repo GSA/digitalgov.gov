@@ -6,7 +6,7 @@ summary: 'The Web Content Managers listserv is open to content managers from any
 members: 1875
 topics:
   - content
-  - managing-digital
+  - product-management
 
 community_list:
   - type: "listserv"

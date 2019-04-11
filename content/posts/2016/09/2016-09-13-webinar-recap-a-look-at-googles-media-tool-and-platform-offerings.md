@@ -7,7 +7,7 @@ authors:
   - randy-abramson
 topics:
   - content
-  - managing-digital
+  - product-management
   - metrics
   - mobile
   - video

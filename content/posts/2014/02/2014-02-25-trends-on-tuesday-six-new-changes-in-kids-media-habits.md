@@ -7,7 +7,7 @@ authors:
   - lisa-wilcox
 topics:
   - content
-  - managing-digital
+  - product-management
   - mobile
   - mobile
   - trends-on-tuesday

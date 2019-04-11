@@ -7,7 +7,7 @@ authors:
   - sara-smith
   - janet-linton
 topics:
-  - managing-digital
+  - product-management
   - social-media
   - national-institutes-of-health
   - nih

@@ -6,7 +6,7 @@ summary: 'The vision for my office, the Office of Citizen Services and Innovativ
 authors:
   - martha-dorris
 topics:
-  - managing-digital
+  - product-management
   - cx
   - GSA
 ---

@@ -6,7 +6,7 @@ title: 'Web Content Managers'
 summary: 'The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites.'
 weight: 2
 topics:
-  - managing-digital
+  - product-management
   - content-strategy
   - analytics
   - project-management

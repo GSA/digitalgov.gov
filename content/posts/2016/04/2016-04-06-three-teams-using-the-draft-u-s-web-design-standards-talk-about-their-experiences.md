@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - design
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - ux

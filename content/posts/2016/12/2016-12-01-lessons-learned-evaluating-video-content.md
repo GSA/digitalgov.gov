@@ -7,7 +7,7 @@ authors:
   - tim-jakubowski
 topics:
   - content
-  - managing-digital
+  - product-management
   - user-testing-and-research
   - ux
   - video

@@ -10,7 +10,7 @@ authors:
   - joel-minton
   - tom-mills
 topics:
-  - managing-digital
+  - product-management
   - 18f
   - CBP
   - cx

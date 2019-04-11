@@ -9,7 +9,7 @@ authors:
   - chris-cairns
   - melody-kramer
 topics:
-  - managing-digital
+  - product-management
   - 18f
   - GitHub
 ---

@@ -25,7 +25,7 @@ weight: 1
 topics:
   - cloud
   - security
-  - managing-digital
+  - product-management
   - fedramp
 
 ---

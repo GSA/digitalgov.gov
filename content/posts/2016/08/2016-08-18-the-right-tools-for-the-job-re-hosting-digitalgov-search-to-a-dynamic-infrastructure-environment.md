@@ -6,7 +6,7 @@ summary: 'This is the first post of a 5-part series. DigitalGov Search is a comm
 authors:
   - dmccleskey
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - our-work
   - strategy

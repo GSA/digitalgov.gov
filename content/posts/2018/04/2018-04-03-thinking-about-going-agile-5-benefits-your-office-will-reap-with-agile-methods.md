@@ -6,7 +6,7 @@ summary: 'Five benefits of using agile methodologies that can help federal emplo
 authors:
   - brian-fox
 topics:
-  - managing-digital
+  - product-management
   - agile
   - sprint
 featured_image:

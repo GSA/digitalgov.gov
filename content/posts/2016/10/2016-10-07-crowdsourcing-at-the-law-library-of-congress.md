@@ -8,7 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - data
-  - managing-digital
+  - product-management
   - user-testing-and-research
   - crowdsourcing
   - Law Library of Congress

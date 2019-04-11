@@ -7,7 +7,7 @@ authors:
   - sarah-crane
 topics:
   - content
-  - managing-digital
+  - product-management
   - api
   - dap
   - digital-analytics-program

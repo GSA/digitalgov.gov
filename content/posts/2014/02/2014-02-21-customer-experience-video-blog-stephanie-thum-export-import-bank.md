@@ -6,7 +6,7 @@ summary: ' Stephanie Thum from Ex-Im Bank kicks off our video blog with an intro
 authors:
   - stephanie-thum
 topics:
-  - managing-digital
+  - product-management
   - cx
   - Export-Import Bank of the United States
 ---

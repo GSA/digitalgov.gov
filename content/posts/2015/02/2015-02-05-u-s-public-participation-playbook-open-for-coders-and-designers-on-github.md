@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - communities
-  - managing-digital
+  - product-management
   - metrics
   - social-media
   - aoi

@@ -7,7 +7,7 @@ authors:
   - ryan-sibley
 topics:
   - content
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - 18f

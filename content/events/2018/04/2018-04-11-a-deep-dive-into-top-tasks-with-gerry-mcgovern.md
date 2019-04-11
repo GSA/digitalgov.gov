@@ -16,7 +16,7 @@ youtube_id: 5llJ98UkXYI
 aliases:
   - /event/a-deep-dive-into-top-tasks-with-gerry-mcgovern/
 topics:
-  - managing-digital
+  - product-management
   - project-management
 
 ---

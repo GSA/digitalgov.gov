@@ -6,7 +6,7 @@ summary: 'It’s been a busy few months negotiating Terms of Service on behalf o
 authors:
   - bsteele
 topics:
-  - managing-digital
+  - product-management
   - social-media
   - Terms of Service
 ---

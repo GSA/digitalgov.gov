@@ -9,7 +9,7 @@ topics:
   - challenges
   - code
   - content
-  - managing-digital
+  - product-management
   - metrics
   - mobile
   - social-media

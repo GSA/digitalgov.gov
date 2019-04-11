@@ -6,7 +6,7 @@ summary: As government contact centers, we all face financial and technological 
 authors:
   - rosetta-carrington-lue
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - cx
   - government-contact-centers

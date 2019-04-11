@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - crowdsourcing-and-citizen-science
-  - managing-digital
+  - product-management
   - our-work
   - "508"
   - citizen-science

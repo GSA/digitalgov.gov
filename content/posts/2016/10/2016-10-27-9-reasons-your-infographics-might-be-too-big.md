@@ -9,7 +9,7 @@ authors:
 topics:
   - content
   - design
-  - managing-digital
+  - product-management
   - social-media
   - content
   - infographic

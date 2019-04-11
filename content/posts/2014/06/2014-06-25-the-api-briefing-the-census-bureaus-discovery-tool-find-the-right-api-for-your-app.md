@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - code
-  - managing-digital
+  - product-management
   - mobile
   - api
   - mobile-apps

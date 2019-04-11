@@ -8,7 +8,7 @@ deck: 'As of July of 2018, all new and redesigned agency websites are required t
 featured_image:
   uid: hr2331-connected-govt-act
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - policy
 ---

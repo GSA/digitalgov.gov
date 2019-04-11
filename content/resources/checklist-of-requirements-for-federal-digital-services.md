@@ -11,7 +11,7 @@ aliases:
   - /resources/checklist/
 weight: 3
 topics:
-  - managing-digital
+  - product-management
   - policy
   - multilingual
 

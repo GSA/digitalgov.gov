@@ -6,7 +6,7 @@ summary: 'The Department of Homeland Security (DHS) has submitted a report to Co
 authors:
   - department-of-homeland-security
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - strategy
   - policy

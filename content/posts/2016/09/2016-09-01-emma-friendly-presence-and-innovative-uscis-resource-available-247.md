@@ -8,7 +8,7 @@ authors:
   - limary-suarez-pacheco
 topics:
   - content
-  - managing-digital
+  - product-management
   - ux
   - ai
   - artificial intelligence

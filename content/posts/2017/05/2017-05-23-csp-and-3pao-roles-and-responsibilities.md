@@ -7,7 +7,7 @@ authors:
   - fedramp
 topics:
   - code
-  - managing-digital
+  - product-management
   - cloud
   - fedramp
   - security

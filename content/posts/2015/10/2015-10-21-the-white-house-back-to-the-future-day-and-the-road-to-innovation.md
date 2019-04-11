@@ -6,7 +6,7 @@ summary: ' Well, it&#8217;s here: October 21, 2015. While Marty McFly (Michael J
 authors:
   - toni-bonitto
 topics:
-  - managing-digital
+  - product-management
   - innovation
   - OSTP
   - Twitter

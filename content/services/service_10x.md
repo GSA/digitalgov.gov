@@ -25,5 +25,5 @@ weight: 2
 topics:
   - strategy
   - design
-  - managing-digital
+  - product-management
 ---

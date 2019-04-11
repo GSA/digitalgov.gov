@@ -13,7 +13,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - data
   - governance
-  - managing-digital
+  - product-management
   - mobile
   - strategy
   - policy

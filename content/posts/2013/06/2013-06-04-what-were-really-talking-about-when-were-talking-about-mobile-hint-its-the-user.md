@@ -6,7 +6,7 @@ summary: It used to be when we said mobile we meant activities and devices defin
 authors:
   - jim-costello
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - mobile
   - mobile-app-development-program

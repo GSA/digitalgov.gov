@@ -7,7 +7,7 @@ authors:
   - ktrebon
 topics:
   - design
-  - managing-digital
+  - product-management
   - monthly-theme
   - user-testing-and-research
   - CFPB

@@ -6,7 +6,7 @@ summary: Federal agencies are required to make all federal websites accessible t
 authors:
   - tlowden
 topics:
-  - managing-digital
+  - product-management
   - metrics
   - analytics
   - dap

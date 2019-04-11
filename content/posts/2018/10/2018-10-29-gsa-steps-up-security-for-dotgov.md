@@ -9,7 +9,7 @@ authors:
   - cameron-dixon
   - marina-fox
 topics:
-  - managing-digital
+  - product-management
   - security
   - national-cyber-security-awareness-month
 featured_image:

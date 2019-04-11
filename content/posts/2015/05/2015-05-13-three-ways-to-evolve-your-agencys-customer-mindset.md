@@ -6,7 +6,7 @@ summary: 'Customer experience (CX) improvement projects come in many forms, but 
 authors:
   - stephanie-thum
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - cx
   - customer-service

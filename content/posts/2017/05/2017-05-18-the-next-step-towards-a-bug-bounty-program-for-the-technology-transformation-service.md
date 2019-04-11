@@ -8,7 +8,7 @@ authors:
   - omid-ghaffari-tabrizi
   - waldo-jaquith
 topics:
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - 18f

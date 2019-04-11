@@ -9,7 +9,7 @@ topics:
   - code
   - content
   - data
-  - managing-digital
+  - product-management
   - mobile
   - social-media
   - ux

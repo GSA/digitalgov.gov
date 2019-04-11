@@ -6,7 +6,7 @@ summary: Meeting customer needs can be done, no matter what agency you represent
 authors:
   - awichman
 topics:
-  - managing-digital
+  - product-management
   - our-work
   - cx
   - customer-satisfaction

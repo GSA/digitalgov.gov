@@ -7,7 +7,7 @@ authors:
   - david-s-ferriero
 topics:
   - api
-  - managing-digital
+  - product-management
   - monthly-theme
   - social-media
   - NARA

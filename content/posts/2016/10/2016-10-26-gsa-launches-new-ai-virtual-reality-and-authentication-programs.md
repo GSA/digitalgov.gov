@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - emerging-tech
-  - managing-digital
+  - product-management
   - mobile
   - our-work
   - social-media

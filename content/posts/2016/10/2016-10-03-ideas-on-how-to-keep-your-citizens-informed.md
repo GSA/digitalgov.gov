@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content
-  - managing-digital
+  - product-management
   - cdc
   - centers-for-disease-control-and-prevention
   - content

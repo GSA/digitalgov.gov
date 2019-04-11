@@ -7,7 +7,7 @@ authors:
   - denise-turner-roth
   - david-mader
 topics:
-  - managing-digital
+  - product-management
   - GSA
   - infrastructure
   - innovation

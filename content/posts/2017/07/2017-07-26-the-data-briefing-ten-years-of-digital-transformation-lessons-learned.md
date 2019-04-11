@@ -10,7 +10,7 @@ authors:
 topics:
   - data
   - emerging-tech
-  - managing-digital
+  - product-management
   - ux
   - the-data-briefing
   - user-experience

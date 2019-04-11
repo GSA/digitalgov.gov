@@ -6,7 +6,7 @@ summary: 'The world’s toughest challenges require out-of-the-box thinking. But
 authors:
   - awichman
 topics:
-  - managing-digital
+  - product-management
   - crowdsourcing
   - gamification
   - Office of Naval Research

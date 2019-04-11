@@ -11,7 +11,7 @@ topics:
   - api
   - api-community
   - code
-  - managing-digital
+  - product-management
   - open-source
 featured_image:
   uid: q-and-a

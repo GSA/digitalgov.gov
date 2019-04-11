@@ -6,7 +6,7 @@ summary: 'Doing business with any U.S. government agency can be a daunting task.
 authors:
   - stephanie-thum
 topics:
-  - managing-digital
+  - product-management
   - cx
   - Ex-Im Bank
   - Export-Import Bank of the United States

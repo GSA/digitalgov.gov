@@ -7,7 +7,7 @@ authors:
   - rachel-mundstock
 topics:
   - content
-  - managing-digital
+  - product-management
   - our-work
   - api
   - digitalgov-search

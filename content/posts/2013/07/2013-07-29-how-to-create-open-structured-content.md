@@ -7,7 +7,7 @@ authors:
   - rflagg
 topics:
   - content
-  - managing-digital
+  - product-management
   - content-models
   - COPE
   - metadata

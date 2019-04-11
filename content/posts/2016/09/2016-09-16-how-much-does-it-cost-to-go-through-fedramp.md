@@ -7,7 +7,7 @@ authors:
   - matt-goodrich
 topics:
   - data
-  - managing-digital
+  - product-management
   - cloud
   - data
   - fedramp

@@ -7,7 +7,7 @@ authors:
   - ben-bloom
 topics:
   - design
-  - managing-digital
+  - product-management
   - user-testing-and-research
   - ux
   - content

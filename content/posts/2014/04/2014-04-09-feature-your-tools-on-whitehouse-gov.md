@@ -7,7 +7,7 @@ authors:
   - ori-hoffer
 topics:
   - content
-  - managing-digital
+  - product-management
   - US Department of Agriculture
   - US Department of Education
   - United States Department of Energy

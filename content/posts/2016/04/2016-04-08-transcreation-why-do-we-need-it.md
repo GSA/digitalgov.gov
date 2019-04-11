@@ -7,7 +7,7 @@ authors:
   - andrea-m-castelluccio
 topics:
   - content
-  - managing-digital
+  - product-management
   - writing
   - content-strategy
   - GobiernoUSAgov

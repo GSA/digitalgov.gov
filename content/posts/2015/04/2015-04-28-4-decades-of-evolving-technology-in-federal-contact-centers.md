@@ -6,7 +6,7 @@ summary: For more than 40 years, Warren Snaider has been working at the General 
 authors:
   - coqui-aspiazu
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - cx
   - customer-service

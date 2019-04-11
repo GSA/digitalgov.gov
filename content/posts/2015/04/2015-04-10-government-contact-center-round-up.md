@@ -6,7 +6,7 @@ summary: 'The Government Contact Center Council (G3C), led by GSA’s Tonya Bere
 authors:
   - apiazza
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - customer-service
   - DGU

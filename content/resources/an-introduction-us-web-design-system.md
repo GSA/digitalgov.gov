@@ -13,7 +13,7 @@ topics:
   - accessibility
   - code
   - design
-  - managing-digital
+  - product-management
   - mobile
   - uswds
   - user-experience

@@ -7,7 +7,7 @@ authors:
   - donna-canestraro
 topics:
   - governance
-  - managing-digital
+  - product-management
 ---
 
 <p style="text-align: left">

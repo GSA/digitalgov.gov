@@ -27,7 +27,7 @@ weight: 1
 topics:
   - social-media
   - mobile
-  - managing-digital
+  - product-management
   - us-digital-registry
 
 aliases:

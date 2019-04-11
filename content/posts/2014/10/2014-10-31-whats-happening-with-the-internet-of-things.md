@@ -6,7 +6,7 @@ summary: 'No Mobile Gov Month on DigitalGov would be complete without an update 
 authors:
   - jparcell
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - monthly-theme
   - our-work

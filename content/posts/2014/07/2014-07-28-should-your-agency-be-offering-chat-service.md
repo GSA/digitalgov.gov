@@ -7,7 +7,7 @@ authors:
   - tonya-beres
 topics:
   - communities
-  - managing-digital
+  - product-management
   - monthly-theme
   - aoi
   - cx

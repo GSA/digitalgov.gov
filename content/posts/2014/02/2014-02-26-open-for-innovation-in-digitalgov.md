@@ -6,7 +6,7 @@ summary: 'There’s tons of great work and innovations happening in federal agen
 authors:
   - gwynne-kostin
 topics:
-  - managing-digital
+  - product-management
   - our-work
   - cx
   - innovation

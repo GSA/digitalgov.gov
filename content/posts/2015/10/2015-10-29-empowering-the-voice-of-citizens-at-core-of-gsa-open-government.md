@@ -6,7 +6,7 @@ summary: ' We are proud to announce our commitment to the third U.S. National Ac
 authors:
   - jherman
 topics:
-  - managing-digital
+  - product-management
   - our-work
   - social-media
   - data-gov

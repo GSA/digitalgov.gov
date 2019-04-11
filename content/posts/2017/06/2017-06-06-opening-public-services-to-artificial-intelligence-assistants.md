@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - emerging-tech
-  - managing-digital
+  - product-management
   - our-work
   - ux
   - artificial-intelligence

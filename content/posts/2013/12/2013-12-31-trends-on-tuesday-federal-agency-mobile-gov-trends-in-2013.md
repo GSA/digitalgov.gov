@@ -6,7 +6,7 @@ summary: Today we want to tell you about the federal agency trends we saw this y
 authors:
   - jparcell
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - cdc
   - Census

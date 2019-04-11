@@ -7,7 +7,7 @@ authors:
   - v-david-zvenyach
 topics:
   - code
-  - managing-digital
+  - product-management
   - 18f
   - GitHub
   - open-source

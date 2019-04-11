@@ -6,7 +6,7 @@ summary: 'Do you know who your customers are?  And what they expect from your or
 authors:
   - martha-dorris
 topics:
-  - managing-digital
+  - product-management
   - ux
   - cx
 ---

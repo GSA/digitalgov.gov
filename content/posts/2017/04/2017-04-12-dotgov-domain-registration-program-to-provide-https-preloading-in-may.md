@@ -7,7 +7,7 @@ authors:
   - marina-fox
   - eric-mill
 topics:
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - GSA

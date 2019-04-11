@@ -7,7 +7,7 @@ authors:
   - steven-vanroekel
 topics:
   - governance
-  - managing-digital
+  - product-management
   - our-work
   - white-house
 ---

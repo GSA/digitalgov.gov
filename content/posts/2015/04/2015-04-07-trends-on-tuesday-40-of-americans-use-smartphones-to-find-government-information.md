@@ -6,7 +6,7 @@ summary: 'The Pew Research Center released a deep research dive into &ldquo;U.S.
 authors:
   - wsullivan
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - strategy
   - policy

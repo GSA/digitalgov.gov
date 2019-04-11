@@ -7,7 +7,7 @@ authors:
   - jason-duley
 topics:
   - code
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - code

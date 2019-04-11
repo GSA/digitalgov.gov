@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - design
-  - managing-digital
+  - product-management
   - mobile
   - user-testing-and-research
   - ux

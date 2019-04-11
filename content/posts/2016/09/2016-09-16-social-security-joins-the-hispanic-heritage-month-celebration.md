@@ -7,7 +7,7 @@ authors:
   - doug-walker
 topics:
   - content
-  - managing-digital
+  - product-management
   - ux
   - content
   - cx

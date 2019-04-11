@@ -6,7 +6,7 @@ summary: ' On Wednesday, March 11, FedRAMP unveiled a redesigned FedRAMP.gov. Th
 authors:
   - matt-goodrich
 topics:
-  - managing-digital
+  - product-management
   - cloud
   - dap
   - digital-analytics-program

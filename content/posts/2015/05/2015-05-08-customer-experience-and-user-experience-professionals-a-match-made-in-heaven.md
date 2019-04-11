@@ -6,7 +6,7 @@ summary: 'Recently, Forrester Research analyst Leah Buley wrote a blog post and 
 authors:
   - ktrebon
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - ux
   - cx

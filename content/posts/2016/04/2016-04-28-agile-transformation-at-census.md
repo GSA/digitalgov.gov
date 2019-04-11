@@ -6,7 +6,7 @@ summary: The agile transformation at the Census Bureau started several years ago
 authors:
   - angela-bell
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - agile
   - agile-lean-community-of-practice

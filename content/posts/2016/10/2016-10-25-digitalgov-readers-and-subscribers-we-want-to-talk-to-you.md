@@ -7,7 +7,7 @@ authors:
   - 18f-team
 topics:
   - content
-  - managing-digital
+  - product-management
   - our-work
   - user-testing-and-research
   - ux

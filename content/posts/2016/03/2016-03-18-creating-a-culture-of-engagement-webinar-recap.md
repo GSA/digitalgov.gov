@@ -7,7 +7,7 @@ authors:
   - john-paul
   - rflagg
 topics:
-  - managing-digital
+  - product-management
   - cx
   - cx
   - DOL

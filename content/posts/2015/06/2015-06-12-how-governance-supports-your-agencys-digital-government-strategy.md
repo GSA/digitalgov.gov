@@ -7,7 +7,7 @@ authors:
   - robert-jacoby
 topics:
   - governance
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - HHS

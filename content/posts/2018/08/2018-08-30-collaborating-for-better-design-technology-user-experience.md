@@ -7,7 +7,7 @@ authors:
   - john-sullivan
 topics:
   - design
-  - managing-digital
+  - product-management
   - ux
   - accessibility
   - innovation

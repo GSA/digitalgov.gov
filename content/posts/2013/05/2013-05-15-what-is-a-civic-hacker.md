@@ -7,7 +7,7 @@ authors:
   - lnelson
 topics:
   - code
-  - managing-digital
+  - product-management
   - National Day of Civic Hacking
 ---
 

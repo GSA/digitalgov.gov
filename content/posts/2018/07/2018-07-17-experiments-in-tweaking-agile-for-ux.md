@@ -8,7 +8,7 @@ authors:
   - jessica-skretch
 topics:
   - design
-  - managing-digital
+  - product-management
   - ux
   - agile
   - sprint

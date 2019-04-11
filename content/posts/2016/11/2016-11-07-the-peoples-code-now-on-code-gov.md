@@ -7,7 +7,7 @@ authors:
   - tony-scott
 topics:
   - code
-  - managing-digital
+  - product-management
   - strategy
   - policy
   - code

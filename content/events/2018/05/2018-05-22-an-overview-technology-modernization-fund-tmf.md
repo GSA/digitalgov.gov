@@ -17,7 +17,7 @@ youtube_id: cvKMYGcabxo
 topics:
   - emerging-tech
   - it-modernization-fund
-  - managing-digital
+  - product-management
 
 ---
 

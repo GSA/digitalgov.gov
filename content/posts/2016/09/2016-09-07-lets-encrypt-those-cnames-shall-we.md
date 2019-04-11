@@ -7,7 +7,7 @@ authors:
   - nathan-smith
   - dmccleskey
 topics:
-  - managing-digital
+  - product-management
   - monthly-theme
   - our-work
   - aws

@@ -17,7 +17,7 @@ aliases:
   - /event/conversations-on-public-impact-how-data-trusts-can-preserve-protect-your-digital-initiatives/
 topics:
   - code
-  - managing-digital
+  - product-management
   - data
   - security
 

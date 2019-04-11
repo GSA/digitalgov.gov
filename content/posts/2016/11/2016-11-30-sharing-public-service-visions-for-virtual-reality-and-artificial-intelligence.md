@@ -8,7 +8,7 @@ authors:
 topics:
   - communities
   - emerging-tech
-  - managing-digital
+  - product-management
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community

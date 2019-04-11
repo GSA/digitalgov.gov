@@ -10,7 +10,7 @@ authors:
 categories:
   - code
   - design
-  - managing-digital
+  - product-management
   - mobile
   - ux
   - accessibility

@@ -6,7 +6,7 @@ summary: 'As we move into 2016, here are 10 trends I foresee flourishing around 
 authors:
   - wsullivan
 topics:
-  - managing-digital
+  - product-management
   - mobile
   - monthly-theme
   - https

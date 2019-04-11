@@ -9,7 +9,7 @@ authors:
   - kristen-albrittain
 topics:
   - content
-  - managing-digital
+  - product-management
   - social-media
   - content
   - NARA
