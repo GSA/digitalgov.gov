@@ -31,5 +31,6 @@ topics:
   - accessibility
   - user-experience
   - mobile
+  - product-management
 
 ---
