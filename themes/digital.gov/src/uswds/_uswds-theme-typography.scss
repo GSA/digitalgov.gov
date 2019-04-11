@@ -65,9 +65,9 @@ unclassed elements:
 ----------------------------------------
 */
 
-$theme-global-paragraph-styles: false;
-$theme-global-link-styles:      false;
-$theme-global-content-styles:   false;
+$theme-global-paragraph-styles: true;
+$theme-global-link-styles:      true;
+$theme-global-content-styles:   true;
 
 /*
 ----------------------------------------
@@ -305,10 +305,10 @@ $theme-type-scale-2xs:      3;
 $theme-type-scale-xs:       4;
 $theme-type-scale-sm:       5;
 $theme-type-scale-md:       7;
-$theme-type-scale-lg:       9;
+$theme-type-scale-lg:       10;
 $theme-type-scale-xl:       12;
-$theme-type-scale-2xl:      14;
-$theme-type-scale-3xl:      15;
+$theme-type-scale-2xl:      15;
+$theme-type-scale-3xl:      17;
 
 /*
 ----------------------------------------
@@ -400,7 +400,7 @@ $theme-style-body-element:         false;
 
 // Headings
 $theme-h1-font-size:               '2xl';
-$theme-h2-font-size:               'xl';
+$theme-h2-font-size:               'lg';
 $theme-h3-font-size:               'lg';
 $theme-h4-font-size:               'sm';
 $theme-h5-font-size:               'xs';

@@ -5,7 +5,7 @@ p.more {
 	a{
 		@include u-text('no-underline');
 		&:hover{
-			@include u-border-bottom('2px', 'solid', 'orange-warm-40v');
+			@include u-border-bottom('2px', 'solid', 'orange-warm-30v');
 		}
 	}
 }

@@ -9,7 +9,7 @@ main{
 		// @include u-bg('red-10');
 		@include u-margin-bottom(4);
    	// Breadcrumbs
-   	h6.breadcrumb{
+   	.breadcrumb{
      	@include u-margin-y(1);
      	@include u-text('bold');
      	@include u-font('sans', 'md');
@@ -28,12 +28,12 @@ main{
    	h1{
      	@include u-margin(0);
      	@include u-text('heavy');
-     	@include u-font('sans', '2xl');
+     	// @include u-font('sans', '2xl');
      	@include u-line-height('sans', 1);
    	}
    	@include at-media('tablet') {
      	h1{
-       	@include u-font('sans', '3xl');
+       	// @include u-font('sans', '3xl');
        	@include u-line-height('sans', 2);
      	}
    	}

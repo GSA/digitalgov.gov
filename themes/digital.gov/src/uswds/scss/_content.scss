@@ -23,7 +23,6 @@
     @include u-padding-top(1.5);
     @include u-border-top(1px);
     @include u-line-height('sans', 3);
-    @include u-font('sans', 'lg');
     @include u-text('bold');
   }
   h3{
