@@ -74,7 +74,7 @@ Understand the needs of your customers, collect and address customer feedback, a
 government-customer-service-policies-requirements-1993-to-present/)
 * [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (4 pages, 196 kb)
 
-<p class="more"><a href="{{< link "topics/customer-experience/_index.md" >}}">More on Customer Experience <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+<p class="more"><a href="{{< link "topics/cx/_index.md" >}}">More on Customer Experience <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
 ## Design System and Standards
 

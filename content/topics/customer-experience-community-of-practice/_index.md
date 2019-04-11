@@ -1,6 +1,6 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/customer-experience-community-of-practice
+# https://digital.gov/topics/cx-community-of-practice
 
 # Topic Title
 title: "Customer Experience Community Of Practice"
