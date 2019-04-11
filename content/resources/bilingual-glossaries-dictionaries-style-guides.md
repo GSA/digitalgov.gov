@@ -10,7 +10,7 @@ topics:
   - multilingual
   - multilingual-community
 
-weight: 3
+weight: 2
 
 authors:
   - lgodfrey
