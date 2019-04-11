@@ -3,7 +3,7 @@
 # https://digital.gov/topics/cx
 
 # Topic Title
-title: "CX"
+title: "Customer Experience"
 
 # description — keep it short and clear
 summary: ""
