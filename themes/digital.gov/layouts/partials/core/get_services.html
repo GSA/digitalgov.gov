@@ -60,35 +60,33 @@
 
       <div class="promo" data-edit-this="{{- .File.Path -}}">
         {{ if .Params.source_url -}}
-        <div class="display-flex flex-align-start">
-          <a href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
-            {{- if .Params.icon -}}
-              {{- $src := (print "/logos/" .Params.icon) -}}
-              <img class="width-3 margin-right-1" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
-            {{- else -}}
-              <img class="width-3 margin-right-1" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
-            {{- end -}}
-          </a>
-          <p>
+        <div class="display-flex flex-align-center flex-justify">
+          <h4>
             <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
-          </p>
+          </h4>
+          {{- if .Params.icon -}}
+            {{- $src := (print "/logos/" .Params.icon) -}}
+            <img class="width-3" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+          {{- else -}}
+            <img class="width-3" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+          {{- end -}}
+
         </div>
         <a class="overlay" href="{{ .Params.source_url }}?=dg" title="{{ .Params.title }}"><span></span></a>
 
         {{- else -}}
 
-        <div class="display-flex flex-align-start">
-          <a href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
-            {{- if .Params.icon -}}
-              {{- $src := (print "/logos/" .Params.icon) -}}
-              <img class="width-3 margin-right-1" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
-            {{- else -}}
-              <img class="width-3 margin-right-1" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
-            {{- end -}}
-          </a>
-          <p>
+        <div class="display-flex flex-align-center flex-justify">
+          <h4>
             <a href="{{- .Params.url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
-          </p>
+          </h4>
+          {{- if .Params.icon -}}
+            {{- $src := (print "/logos/" .Params.icon) -}}
+            <img class="width-3" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+          {{- else -}}
+            <img class="width-3" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+          {{- end -}}
+
         </div>
         <a class="overlay" href="{{ .Params.url }}?=dg" title="{{ .Params.title }}"><span></span></a>
         {{ end }}
@@ -98,7 +96,7 @@
     {{ end }}
 
     <footer>
-      <h5><a href="{{ "/services/" | absURL }}">See all {{ len (where .Site.Pages "Section" "services") }} services <i class="fas fa-arrow-alt-circle-right"></i></a></h5>
+      <p class="more"><a href="{{ "/services/" | absURL }}"><span>See all {{ len (where .Site.Pages "Section" "services") }} services</span> <i class="fas fa-arrow-circle-right"></i></a></p>
     </footer>
   </section>
   {{ end }}

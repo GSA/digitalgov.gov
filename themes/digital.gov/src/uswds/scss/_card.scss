@@ -44,6 +44,7 @@
 			@include u-font('sans', '3xs');
 			@include u-display('inline-block');
 			@include u-color('gray-60');
+			white-space: nowrap;
 		}
 		.topics{
 			@include u-margin-y(0);
@@ -76,8 +77,8 @@
 		z-index: 1;
 	}
 	&:hover{
-		.content h3 a{
-			@include u-border-bottom('05', 'orange-warm-30v', 'solid');
+		h3 a{
+			@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
 		}
 		.topics{
 			a{

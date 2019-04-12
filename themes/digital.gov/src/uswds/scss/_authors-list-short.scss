@@ -11,14 +11,19 @@
 		@include u-display('flex');
 		@include u-flex('align-center');
 		@include u-border(0);
-		@include u-color('blue-50v');
-		@include u-text('semibold');
+		@include u-text('medium');
 		@include u-text('no-underline');
-		@include u-font('sans', '3xs');
+		@include u-font('sans', 'xs');
+		@include at-media('tablet') {
+			@include u-font('sans', '2xs');
+		}
 		z-index: 2;
 		img{
 			@include u-margin-right('05');
-			@include u-circle(3);
+			@include u-circle(4);
+			@include at-media('tablet') {
+				@include u-circle(3);
+			}
 		}
 		&:hover{
 			@include u-text('underline');

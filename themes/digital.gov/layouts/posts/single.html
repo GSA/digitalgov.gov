@@ -6,7 +6,7 @@
       <div class="grid-container grid-container-desktop" data-edit-this="{{- .File.Path -}}">
         <div class="grid-row">
           <div class="grid-col-12">
-            <h6 class="breadcrumb"><a href="{{- "posts/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>Latest News</span> </a></h6>
+            <p class="breadcrumb"><a href="{{- "posts/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>Latest News</span> </a></p>
 
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}} </h1>
@@ -15,6 +15,16 @@
             {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
+
+            <div class="meta tablet:display-none">
+              {{- partial "core/get_authors_short" . -}}
+              <div class="display-flex">
+                {{- partial "core/get_clicks" . -}}
+                <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
+              </div>
+              {{- partial "core/get_topics" . -}}
+            </div>
+
           </div>
         </div>
       </div>
@@ -23,7 +33,18 @@
     <section>
       <div class="grid-container grid-container-desktop" data-edit-this="{{- .File.Path -}}">
         <div class="grid-row margin-y-2 grid-gap-6">
-          <div class="grid-col-3">
+
+          <div class="grid-col-12 tablet-lg:grid-col-9 tablet-lg:order-last">
+
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
+            </div>
+
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-3">
+
             {{/* Authors */}}
             {{- partial "core/get_authors" . -}}
 
@@ -46,15 +67,6 @@
 
             {{/* Share Tools */}}
             {{- partial "core/get_sharetools" . -}}
-
-          </div>
-
-          <div class="grid-col-9">
-
-            {{/* Content */}}
-            <div class="content">
-              {{- .Content -}}
-            </div>
 
           </div>
 

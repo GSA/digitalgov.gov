@@ -3,13 +3,13 @@
 		@include u-margin(0);
 		@include u-margin-bottom(2);
 		@include u-margin-x('auto');
-		@include u-font('sans', 'xl');
+		@include u-font('sans', 'lg');
 		@include u-maxw('tablet');
 		@include u-text('thin');
 		@include u-text('center');
 		@include u-text('indigo-warm-80');
 		@include at-media('tablet') {
-			@include u-margin-top(4);
+			@include u-margin-top(2);
 			@include u-font('sans', '2xl');
 		}
 	}

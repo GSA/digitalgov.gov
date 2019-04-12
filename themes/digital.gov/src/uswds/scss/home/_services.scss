@@ -6,7 +6,7 @@
   header{
     @include u-margin-bottom(4);
     @include u-text('center');
-    color:#3d4076;
+    @include u-text('orange-warm-30v');
     h2{
       @include u-font('sans', '3xl');
       @include u-line-height('sans', 2);
@@ -30,7 +30,7 @@
       }
     }
   }
-  
+
   footer{
     @include u-padding-y(4);
     @include u-text('center');

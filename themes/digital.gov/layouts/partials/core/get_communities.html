@@ -57,26 +57,23 @@
 
       {{/* Finally we can get the communities/pages and their data */}}
       {{ with $.Site.GetPage (print "/communities/" $e) }}
-        <article class="promo">
-          <div class="grid-row">
-            <div class="grid-col-9 display-flex flex-align-center">
-              <h3><a href="{{ .Permalink }}?promo" title="{{ .Title }}">{{ .Title }}</a></h3>
-            </div>
-            <div class="grid-col-3 display-flex flex-align-center">
-              {{- if .Params.members -}}
-              <p class="members"><i class="fas fa-user"></i>&nbsp;{{- .Params.members -}}</p>
-              {{- end -}}
-            </div>
+        <div class="promo">
+          <div class="display-flex flex-align-center flex-justify">
+            <h4><a href="{{ .Permalink }}?promo" title="{{ .Title }}">{{ .Title }}</a></h4>
+            {{- if .Params.members -}}
+            <p class="members">{{- .Params.members -}}+</p>
+            {{- end -}}
           </div>
           <a href="{{ .Params.url }}?dg" title="{{ .Params.head }}"><span></span></a>
-        </article>
+        </div>
       {{ end }}
 
     {{ end }}
 
     <footer>
-      <h5><a href="{{ "/communities/" | absURL }}">See all {{ len (where .Site.Pages "Section" "communities") }} communities <i class="fas fa-arrow-alt-circle-right"></i></a></h5>
+      <p class="more"><a href="{{ "/communities/" | absURL }}"><span>See all {{ len (where .Site.Pages "Section" "communities") }} communities</span> <i class="fas fa-arrow-circle-right"></i></a></p>
     </footer>
+
   </section>
   {{ end }}
 {{ end }}
