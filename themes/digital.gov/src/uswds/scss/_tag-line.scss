@@ -9,7 +9,7 @@
 		@include u-text('center');
 		@include u-text('indigo-warm-80');
 		@include at-media('tablet') {
-			@include u-margin-top(4);
+			@include u-margin-top(2);
 			@include u-font('sans', '2xl');
 		}
 	}
