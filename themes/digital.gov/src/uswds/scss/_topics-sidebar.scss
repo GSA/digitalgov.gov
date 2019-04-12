@@ -18,6 +18,8 @@ nav.topics-sidebar{
 
   ul{
     li{
+      @include u-margin-y(0);
+      @include u-padding-y(0);
       a{
         @include u-padding-y('05');
         @include u-padding-x(3);
@@ -28,7 +30,7 @@ nav.topics-sidebar{
         &:hover{
           @include u-bg('gray-warm-5');
           span{
-            border-bottom: 2px #ff580a solid; // $indigo-40
+            @include u-border-bottom('2px', 'solid', 'orange-warm-30v');
           }
         }
       }
