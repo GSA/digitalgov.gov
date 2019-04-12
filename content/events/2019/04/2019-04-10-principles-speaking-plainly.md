@@ -12,6 +12,7 @@ end_date: 2019-04-10 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Plain language
 registration_url: https://www.eventbrite.com/e/principles-of-speaking-plainly-registration-59398898705
+youtube_id: VTXJoHara-4
 topics:
   - plain-language
   - plain-language-community-of-practice
@@ -30,7 +31,6 @@ An effective speaking style isn't always the same as an effective writing style 
 
 This seminar adapts principles of plain language to the context of speaking, covering not only wording, but also structure and integration with visual aids.
 
-This event will be held on Zoom. Our team will distribute a link join the session prior to the event date. You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
 
 ## About PlainLanguage.gov
 
