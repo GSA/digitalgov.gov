@@ -4,7 +4,7 @@ article.card-elsewhere{
 		@include u-margin-right('105');
 		@include u-width(15);
 		@include at-media('tablet'){
-			@include u-width(7);
+			@include u-width(8);
 		}
 		img{
 			@include u-shadow(2);
