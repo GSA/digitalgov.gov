@@ -23,7 +23,18 @@
     <section>
       <div class="grid-container grid-container-desktop" data-edit-this="{{- .File.Path -}}">
         <div class="grid-row margin-y-2 grid-gap-6">
-          <div class="grid-col-3">
+
+          <div class="grid-col-12 tablet-lg:grid-col-9 tablet-lg:order-last">
+
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
+            </div>
+
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-3">
+
             {{/* Authors */}}
             {{- partial "core/get_authors" . -}}
 
@@ -46,15 +57,6 @@
 
             {{/* Share Tools */}}
             {{- partial "core/get_sharetools" . -}}
-
-          </div>
-
-          <div class="grid-col-9">
-
-            {{/* Content */}}
-            <div class="content">
-              {{- .Content -}}
-            </div>
 
           </div>
 
