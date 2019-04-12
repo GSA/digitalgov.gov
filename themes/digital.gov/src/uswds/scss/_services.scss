@@ -1,0 +1,62 @@
+// Services
+
+// The individual promos
+.tool{
+  @include u-margin-y(1);
+  @include u-padding-y(2);
+  @include u-border-top('1px','gray-warm-20','solid');
+  &:first-child{
+    @include u-border-top(0);
+    @include u-padding-top(0);
+  }
+  h3{
+    @include u-margin(0);
+    @include u-margin-bottom('05');
+    @include u-font('sans', 'md');
+    @include u-line-height('sans', 2);
+    @include u-text('bold');
+    z-index: 2;
+    position: relative;
+    a{
+      @include u-text('no-underline');
+      @include u-text('indigo-80');
+      &:hover{
+        @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+      }
+    }
+  }
+
+  p{
+    @include u-margin-top(0);
+    @include u-font('sans', 'md');
+    @include u-line-height('sans', 3);
+  }
+  .source_url{
+    @include u-margin-top('05');
+    @include u-font('sans', 'sm');
+    a{
+      @include u-text('blue-50v');
+    }
+  }
+  a{
+    @include u-text('indigo-80');
+    @include u-text('no-underline');
+  }
+
+  // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+  position: relative;
+  .overlay span{
+		@include u-margin(0);
+		@include u-position('absolute');
+		@include u-width('full');
+		@include u-height('full');
+		@include u-top(0);
+		@include u-left(0);
+		z-index: 1;
+	}
+  &:hover{
+    h3 a{
+      @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+    }
+  }
+}
