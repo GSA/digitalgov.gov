@@ -1,35 +1,14 @@
-// Popular Resources on the homepage
-// Needs a little extra indention to support the check icon.
+// Styles for the main resources page
+
 #resources {
-  .resource-topic{
-    @include u-margin-y('105');
-    @include u-padding-top(1);
-    @include u-padding-bottom(2);
-    @include u-border-top('1px', 'gray-cool-40', 'solid');
-    h2{
-      @include u-font('sans', 'lg');
-      @include u-margin(0);
-      @include u-margin-bottom(1);
-      @include u-text('bold');
-    }
-    p.deck{
-      @include u-margin(0);
-      @include u-margin-bottom(1);
-      @include u-font('sans', 'lg');
-      @include u-line-height('sans', 3);
-      @include u-text('light');
-    }
-    .list-collection{
-      @include u-padding-y(0);
-      @include u-border-top(0);
-      h2{
-        @include u-margin(0);
-        @include u-margin-top(3);
-        @include u-font('sans', 'sm');
-        @include u-text('bold');
-      }
+  .list-collection{
+    @include u-margin-bottom(2);
+    @include u-border(0);
+    h2 {
+      @include u-font('sans', 'md');
     }
   }
+
   .in-page{
     @include u-bg('gray-warm-3');
     @include u-text('indigo-80');

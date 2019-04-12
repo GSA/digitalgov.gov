@@ -11,7 +11,7 @@ main{
 
 		// Breadcrumbs
    	.breadcrumb{
-     	@include u-margin-y(1);
+     	@include u-margin-y(2);
      	@include u-text('bold');
      	@include u-font('sans', 'md');
      	a{
@@ -28,19 +28,17 @@ main{
    	// Page Titles
    	h1{
      	@include u-margin(0);
+     	@include u-margin-bottom('2px');
      	@include u-text('heavy');
-     	// @include u-font('sans', '2xl');
      	@include u-line-height('sans', 1);
-   	}
-   	@include at-media('tablet') {
-     	h1{
-       	// @include u-font('sans', '3xl');
-       	@include u-line-height('sans', 2);
-     	}
+			@include at-media('tablet') {
+				@include u-line-height('sans', 2);
+			}
    	}
 
    	// Deck
    	.deck{
+			@include u-margin(0);
      	@include u-font('sans', 'xl');
      	@include u-text('light');
      	@include u-text('indigo-warm-80');
