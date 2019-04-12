@@ -30,7 +30,7 @@ main{
      	@include u-margin(0);
      	@include u-margin-bottom('2px');
      	@include u-text('heavy');
-     	@include u-line-height('sans', 1);
+     	@include u-line-height('sans', 2);
 			@include at-media('tablet') {
 				@include u-line-height('sans', 2);
 			}
@@ -39,10 +39,14 @@ main{
    	// Deck
    	.deck{
 			@include u-margin(0);
-     	@include u-font('sans', 'xl');
+     	@include u-font('sans', 'lg');
      	@include u-text('light');
      	@include u-text('indigo-warm-80');
-			@include u-line-height('sans', 3);
+			@include u-line-height('sans', 2);
+			@include at-media('tablet') {
+				@include u-font('sans', 'xl');
+				@include u-line-height('sans', 2);
+			}
    	}
 
 		p{

@@ -15,6 +15,16 @@
             {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
+
+            <div class="meta tablet:display-none">
+              {{- partial "core/get_authors_short" . -}}
+              <div class="display-flex">
+                {{- partial "core/get_clicks" . -}}
+                <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
+              </div>
+              {{- partial "core/get_topics" . -}}
+            </div>
+
           </div>
         </div>
       </div>

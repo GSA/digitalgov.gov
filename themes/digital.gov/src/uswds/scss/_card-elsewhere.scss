@@ -2,7 +2,10 @@ article.card-elsewhere{
 	.icon{
 		@include u-margin-top('05');
 		@include u-margin-right('105');
-		@include u-width(7);
+		@include u-width(15);
+		@include at-media('tablet'){
+			@include u-width(7);
+		}
 		img{
 			@include u-shadow(2);
 		}
