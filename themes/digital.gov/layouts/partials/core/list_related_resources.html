@@ -17,34 +17,32 @@ A list of the most important resources tagged with the same topic */}}
 
       <li class="indent" data-edit-this="{{- .File.Path -}}">
         <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
+
           {{/* If there is a defined source for this page */}}
           {{- if .Params.source -}}
             {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
             {{- if $source.Params.icon -}}
-              {{ $source_url := (print "/logos/" $source.Params.icon) }}
-              <img src="{{ $source_url | relURL }}" alt="{{- $source.Params.name -}} logo">
+              {{- $source_url := (print "/logos/" $source.Params.icon) -}}
+              <img src="{{- $source_url | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
             {{- end -}}
-          {{/* If there is a defined icon for this page — bypassing the source */}}
-          {{- else if .Params.icon -}}
-            {{- $source_url := (print "/logos/" .Params.icon) -}}
-            <img class="thumb" src="{{ $source_url | relURL }}" alt="{{ .Title }} Logo">
-          {{/* Lastly, let's attempt to get the favicon for the URL */}}
+
+          {{/* No source? let's attempt to get the favicon for the URL */}}
           {{- else -}}
-            <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo">
+            <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo"/><span>{{- .Title | markdownify -}}</span>
           {{- end -}}
 
-          <span>{{ .Title | markdownify }}</span>
         </a>
         {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
 
-      {{/* If an internal link  */}}
+      {{/* If an internal link... */}}
       {{- else -}}
       <li data-edit-this="{{- .File.Path -}}">
         <a href="{{- .Permalink -}}" title="{{ .Title | markdownify }}">
+
           {{/* Use the digital.gov logo */}}
           {{- $source_url := (print "/img/digit-150.png") -}}
-          <img class="thumb" src="{{ $source_url | relURL }}" alt="{{ .Title }} Logo">
-          <span>{{ .Title | markdownify }}</span>
+          <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
+          
         </a>
         {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
       {{- end -}}
