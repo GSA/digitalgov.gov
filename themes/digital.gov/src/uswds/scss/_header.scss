@@ -4,15 +4,8 @@ header#header{
 	@include u-margin-bottom(2);
 	@include u-padding-top(2);
 	@include u-padding-bottom(3);
-	// @include u-bg('gray-4');
-	// @include u-position('sticky');
-	// @include u-top(0);
-	// @include u-z(100);
-	// tablet-lg and above
 	@include at-media('tablet-lg') {
 		@include u-padding-y(3);
-		// @include u-position('relative');
-		// @include u-top('auto');
 	}
 
 	// Logo
@@ -22,13 +15,12 @@ header#header{
 		@include u-line-height('sans', 1);
 		@include u-display('inline-block');
 		@include u-text('black');
-		@include u-text('heavy');
+		@include u-text('bold');
 		@include u-text('no-underline');
 		@include at-media('tablet-lg') {
 			// @include u-font('sans', 'xl');
 		}
 		img{
-			// @include u-margin-right(1);
 			@include u-position('relative');
 			@include u-top('05');
 			@include u-width(4);
