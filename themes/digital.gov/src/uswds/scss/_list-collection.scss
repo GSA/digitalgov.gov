@@ -44,7 +44,7 @@
         @include u-font('sans', 'xs');
       }
       img{
-        @include u-margin-right('05');
+        @include u-margin-right(1);
         @include u-width(2);
         position: relative;
         top:1px;
