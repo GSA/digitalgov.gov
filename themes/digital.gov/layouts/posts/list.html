@@ -4,9 +4,16 @@
   <header>
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-4">
-        <div class="grid-col-12">
-          <h1>News and Case Studies</h1>
-          <p>Notable work from people and teams across government</p>
+        <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
+
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
+
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck | markdownify -}}</div>
+          {{- end -}}
+          
         </div>
       </div>
     </div>

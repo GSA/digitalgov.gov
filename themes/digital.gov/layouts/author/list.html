@@ -3,7 +3,7 @@
   <section class="author-profile">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row grid-gap-6">
-        <div class="grid-col-12">
+        <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
           <header>
             {{ $slug := .Title | urlize }}
             {{ $person := index $.Site.Data.people.authors $slug }}
