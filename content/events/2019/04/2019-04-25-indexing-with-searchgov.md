@@ -2,9 +2,7 @@
 slug: indexing-with-searchgov
 title: 'Indexing with Search&#46;gov'
 summary: 'Come take a walk through the Search&#46;gov indexing process from start to finish&#46;'
-featured_image: 
-  uid: https://drive.google.com/open?id=0B93bMoizOqoCTXo3TnFCdndYNjA
-  alt: 'Search&#46;gov Logo'
+
 event_type: 
   - youtube-live
 date: 2019-04-25 13:00:00 -0500
