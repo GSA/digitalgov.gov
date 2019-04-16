@@ -1,36 +1,33 @@
 // News + Spotlight
 
 #news {
+  @include u-padding-y(4);
   @include u-padding-bottom(2);
   @include u-bg('gray-warm-3');
   header{
-    @include u-padding-y(4);
+    @include u-padding-y(2);
     @include u-margin-bottom(2);
     @include u-color('black');
     h2{
       @include u-margin-y(1);
-      @include u-font('sans', '3xl');
-      @include u-text('thin');
-      @include u-text('center');
+      @include u-font('sans', '2xl');
+      @include u-text('bold');
       @include u-line-height('sans', 2);
-      a{
-        @include u-text('no-underline');
-        @include u-color('black');
-        &:hover{
-          border-bottom: 2px #914734 solid; // $indigo-40
-        }
-      }
+      @include u-color('indigo-warm-80');
     }
     p{
       @include u-margin(0);
       @include u-text('light');
-      @include u-text('center');
       @include u-font('sans', 'lg');
       @include u-line-height('sans', 3);
+      @include u-color('indigo-warm-60');
     }
   }
   footer{
     @include u-padding-y(4);
     @include u-text('center');
+    p{
+      @include u-maxw('full');
+    }
   }
 }

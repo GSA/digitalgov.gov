@@ -41,7 +41,7 @@
 		.date{
 			@include u-margin(0);
 			@include u-margin-right(1);
-			@include u-font('sans', '3xs');
+			@include u-font('sans', '2xs');
 			@include u-display('inline-block');
 			@include u-color('gray-60');
 			white-space: nowrap;

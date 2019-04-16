@@ -1,8 +1,9 @@
 
 .stream{
 	h2{
-		@include u-font('sans', 'xl');
+		@include u-font('sans', '2xl');
 		@include u-text('bold');
+		@include u-color('indigo-warm-80');
 	}
 	article.card:first-child{
 		@include u-margin-top(0);

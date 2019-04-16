@@ -15,7 +15,6 @@ a.btn{
 	@include u-padding-y('105');
 	@include u-padding-bottom(2);
 	@include u-padding-x(3);
-	@include u-width('card-lg');
 	@include u-display('inline-block');
 	@include u-font('sans', 'lg');
 	@include u-color('white');
