@@ -2,7 +2,6 @@
 url: /resources/
 date: 2013-11-17 11:13:13 -0400
 title: "Guides and Resources"
-deck: 'What you need to confidently take steps toward working smarter, iterating more frequently and delivering better, more effective services to the public'
 summary: 'Common resources for people working in Digital government.'
 aliases:
   - /tools/
