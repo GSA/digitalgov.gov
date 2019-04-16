@@ -80,6 +80,9 @@
 		h3 a{
 			@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
 		}
+		.play{
+			background: url("../img/play-btn-active.png") no-repeat;
+		}
 		.topics{
 			a{
 				@include u-bg('orange-warm-20');
