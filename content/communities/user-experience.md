@@ -4,7 +4,7 @@ uid: user-experience
 date: 2014-01-13 2:35:36 -0400
 title: 'User Experience'
 summary: "Join other federal user experience practitioners and learn how to make better user-centered products."
-members: 1103
+members: 1180
 emails_per_week: 9.55
 weight: 2
 topics:

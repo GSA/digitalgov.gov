@@ -19,6 +19,8 @@ community_list:
     subscribe_email: alycia.piazza@gsa.gov
     subject: "Join Web Content Managers"
     form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
+members: 1910
+emails_per_week: 4.0
 ---
 
 

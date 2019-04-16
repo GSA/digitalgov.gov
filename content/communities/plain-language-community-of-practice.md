@@ -4,7 +4,7 @@ uid: plain-language
 date: 2016-02-03 10:58:53 -0400
 title: 'Plain Language'
 summary: 'Our goal is to promote the use of plain language for all government communications.'
-members: 889
+members: 961
 emails_per_week: 1.1
 weight: 2
 topics:

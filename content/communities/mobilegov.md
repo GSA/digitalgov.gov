@@ -18,7 +18,7 @@ community_list:
 community_managers:
   - jparcell
   - david-fern
-members: 1017
+members: 1129
 emails_per_week: 2.62
 
 ---

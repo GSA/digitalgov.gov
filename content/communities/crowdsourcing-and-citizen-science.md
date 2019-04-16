@@ -19,7 +19,7 @@ community_list:
   - type: "listserv"
     subscribe_email: listserv@listserv.gsa.gov
     subject: "subscribe FCPCCS"
-members: 377
+members: 380
 emails_per_week: 4.0
 
 ---
