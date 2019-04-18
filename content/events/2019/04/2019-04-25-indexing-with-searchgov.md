@@ -16,6 +16,7 @@ registration_url: https://www.eventbrite.com/e/indexing-with-searchgov-registrat
 youtube_id: zxyJVrxWVmg
 
 ---
+_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4009164&CustomerID=321)_
 
 {{< img-right src="searchdotgovlogo"  >}}
 
