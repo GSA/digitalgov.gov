@@ -15,7 +15,7 @@ header#header{
 		@include u-line-height('sans', 1);
 		@include u-display('inline-block');
 		@include u-text('black');
-		@include u-text('bold');
+		@include u-text('heavy');
 		@include u-text('no-underline');
 		@include at-media('tablet-lg') {
 			// @include u-font('sans', 'xl');
