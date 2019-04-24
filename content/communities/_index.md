@@ -36,6 +36,8 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Challenges & Prizes]({{< link "challenges-prizes.md" >}})**: We encourage public participation in prize competitions to find innovative government solutions.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes.md" >}})
 
+**[Code]({{< link "code.gov" >}}):** A place where we talk about open source software development, code reuse, code events (such as hackathons), the Federal Source Code Poplicyand and collaboration across agencies on ways to improve open source in government.<br/>[Learn&nbsp;more&nbsp;»]({{< link "code.gov" >}})
+
 **[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "crowdsourcing-and-citizen-science.md" >}})
 
