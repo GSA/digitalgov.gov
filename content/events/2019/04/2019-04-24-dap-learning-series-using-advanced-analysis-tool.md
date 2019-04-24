@@ -24,6 +24,8 @@ In this webinar, [Tim Lowden](https://digital.gov/authors/tlowden/), program man
 - Potential use cases
 - Pros and cons of the tool
 
+_[View the slides for this presentation](https://digital.gov/pdf/using-advanced-analysis-tool.pdf)._
+
 ---
 
 _The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the U.S. General Services Administration (GSA)._
