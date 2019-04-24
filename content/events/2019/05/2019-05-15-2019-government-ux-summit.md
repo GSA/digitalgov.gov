@@ -45,27 +45,48 @@ Details on how to attend remotely will be sent out in the coming weeks to those 
 
 ## The Program
 
-We’ll have three concurrent talks and presentations over the course of three sessions throughout the morning where you’ll be able to learn from experts, ask questions, and network with peers.
+There will be three tracks this year, covering a wide range of topics
+related to government UX work.
 
-- **UX Methods**
-- **UX Management**
-- **Design in UX**
+  - UX Methods
+  - UX Management
+  - Design in UX
+  
+As a participant, you’re free to choose the talk that interests you the most on the day of.  
 
-As a participant, you’re free to choose the talk that interests you the most on the day of.
+9:00 – 9:15 - Welcome
 
-| Time | Session / Activity         |
-|-------------|-----------------|
-| 9:00-9:15am | Welcome         |
-| 9:15-10am   | Session A       |
-| 10-10:15am  | Break           |
-| 10:15-11am  | Session B       |
-| 11-11:15am  | Break           |
-| 11:15-12pm  | Session C       |
-| 12pm        | Community Lunch |
+9:15-10:00:
 
+  - Methods: **Raising the Design Voice in Government: A Case Study**,
+    Kristal Byrd (GSA)
+  - Management: **Lessons from Building Remote-First, Cross-Functional
+    Teams**, panel led by Amy Ashida (GSA)
+  - Design: **Embedding Service Design in New York City Government:
+    Lessons Learned**, Caroline Bauer (NYC Mayor's Office)
 
-Speakers representing agencies across the government will share case studies, the latest best practices in UX methods, and strategies for UX management.
-_(more details on the talks in each session to come...)_
+10:00-10:15 – Break
+
+10:15 – 11:00
+
+  - Methods: **Accessible Experience First: The Key to Integrating UX in
+    the Agile Process Under Budget and with Whole-Team Support**, Arva
+    Adams (USPTO)
+  - Management: **Teaching Digital Skills: Learning Usability Testing by
+    Peer Training**, Maroya Faied and Shannon McHarg (ONRR)
+  - Design: **The Importance of Color in UX**, Scott Lenger (FRB)
+
+11:00-11:15 – Break
+
+11:15-12:00
+
+  - Methods: **User Documentation--Do We Still Need This Stuff?**,
+    Kristen Faiferlick (NOAA)
+  - Management: **CDC’s Digital First Approach: Enhancing User
+    Experience on CDC Vaccines Site**, Lisa Richman (CDC)
+  - Design: **Creating the Future of Government User Experience: How
+    Design Systems Can Help Us Improve—Better and Faster**, Aviva Oskow
+    (GSA)
 
 A community lunch will follow in the BLS cafeteria for those who wish to stay. Bring your lunch or purchase it in the cafeteria.
 
