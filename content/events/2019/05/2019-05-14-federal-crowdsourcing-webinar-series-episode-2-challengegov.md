@@ -23,12 +23,12 @@ The Federal Crowdsourcing Webinar Series explores how federal agencies are engag
 
 In this webinar, you’ll learn more about how agencies are using prize competitions to achieve mission-related goals. This overview will include a description of prize types, prize activities across federal government, and the legal authorities for running these competitions.
 
-## Featured Guests from Challenge.gov:
+Additionally, this episode will feature an overview of the prize portfolio at the Maternal and Child Health Bureau branch of the Department of Health and Human Services, and a look at how they’ve [achieved impact](https://challenge.gov/a/buzz/pages/case-studies) by offering cash prizes and other incentives for top ideas.
+
+### Featured speakers
 
 - **Jarah Meador, PhD**, Director, Challenge.gov, U.S. General Services Administration
 - **Jessie Buerlein, MSW**, Public Health Analyst, Maternal and Child Health Bureau, Health Resources and Services Administration, Department of Health and Human Services
-
-Additionally, this episode will feature an overview of the prize portfolio at the Maternal and Child Health Bureau branch of the Department of Health and Human Services, and a look at how they’ve [achieved impact](https://challenge.gov/a/buzz/pages/case-studies) by offering cash prizes and other incentives for top ideas.
 
 ## Upcoming episodes in the Federal Crowdsourcing Webinar Series include:
 
