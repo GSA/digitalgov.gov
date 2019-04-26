@@ -27,12 +27,12 @@ In this webinar, you’ll learn more about how agencies are using prize competit
 
 Additionally, this episode will feature an overview of the prize portfolio at the Maternal and Child Health Bureau branch of the Department of Health and Human Services, and a look at how they’ve [achieved impact](https://challenge.gov/a/buzz/pages/case-studies) by offering cash prizes and other incentives for top ideas.
 
-**Featured speakers**
+**Featured speakers:**
 
 - **Jarah Meador, PhD**, Director, Challenge.gov, U.S. General Services Administration
 - **Jessie Buerlein, MSW**, Public Health Analyst, Maternal and Child Health Bureau, Health Resources and Services Administration, Department of Health and Human Services
 
-## Upcoming episodes in the Federal Crowdsourcing Webinar Series include:
+**Upcoming episodes in the Federal Crowdsourcing Webinar Series include:**
 
 - **June 11:** The Opportunity Project, U.S. Census Bureau
 - **July 9:** Open Opportunities, Office of Personnel Management
