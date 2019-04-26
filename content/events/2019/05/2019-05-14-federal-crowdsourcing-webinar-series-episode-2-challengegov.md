@@ -15,6 +15,8 @@ registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-ser
 
 ---
 
+_[View Live Captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3998834&CustomerID=321)_
+
 The Federal Crowdsourcing Webinar Series explores how federal agencies are engaging the crowd to multiply the ideas and perspectives they bring to certain issues. In this second episode, you’ll learn about the benefits of prize competitions and the resources available to federal agencies through GSA’s Challenge.gov program.
 
 {{< img-right src="challenge-gov-logo" >}}
