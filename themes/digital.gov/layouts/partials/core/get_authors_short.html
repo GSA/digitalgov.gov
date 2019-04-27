@@ -3,34 +3,40 @@
   AUTHORS .... short
   ======================================
 */}}
-<p class="authors-list authors-list-short">
-{{- if (not (isset .Params "authors")) | or (eq .Params.authors "") -}}
-{{- else -}}
-  {{/* get the authors  */}}
-  {{- $_authors := .Params.authors -}}
 
-  {{/* Count the number of authors */}}
-  {{- $length := $_authors | len -}}
+{{- if .Params.authors -}}
+  <p class="authors-list authors-list-short">
+    {{/* Sets the taxonomy we're pulling here */}}
+    {{- $taxonomy := "authors" -}}
+    {{- $authors := .Param $taxonomy -}}
 
-  {{- range $i, $e := $_authors -}}
+    {{/* Count the number of authors */}}
+    {{- $length := $authors | len -}}
 
-    {{/* If the byline was entered as a display name (i.e. - John Smith )
-    then this will turn that into a UID for use in a URL. */}}
-    {{- $uid := $e | urlize -}}
+    {{/* NOTE: Many of the pages in digital.gov have duplicate topics. */}}
+    {{/* So we are running "uniq" on the array to remove duplicates */}}
+    {{- range $i, $e := uniq (sort $authors) -}}
+      {{- $uid := . -}}
 
-    {{- $data := $.Site.Data -}}
-    {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
-    {{- $author := index $.Site.Data.people.authors $uid -}}
+      {{/* If the byline was entered as a display name (i.e. - John Smith )
+      then this will turn that into a UID for use in a URL. */}}
+      {{- $uid := $e | urlize -}}
 
-    <a class="author" href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.display_name | default $uid -}} " rel="author">
-      {{- if $author.github -}}
-      <img class="circle-5" src="https://github.com/{{- $author.github -}}.png?size=50" alt="">
-      {{- else -}}
-      {{- $default_profile := print "img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
-      <img class="circle-5" src="{{- $default_profile | absURL -}}" alt="">
+      {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
+      {{- $author := $.Site.GetPage (printf "/%s/%s" $taxonomy $uid) -}}
+      {{- with $author -}}
+
+      <a class="author" href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.Params.display_name | default $uid -}} " rel="author">
+        {{- if $author.Params.github -}}
+        <img class="circle-5" src="https://github.com/{{- $author.Params.github -}}.png?size=50" alt="">
+        {{- else -}}
+        {{- $default_profile := print "img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
+        <img class="circle-5" src="{{- $default_profile | absURL -}}" alt="">
+        {{- end -}}
+        <span>{{- $author.Params.display_name | default $uid -}}</span>
+      </a>{{ if lt (add $i 1) $length }}<!--,--> {{ end }}
+
       {{- end -}}
-      <span>{{- $author.display_name | default $uid -}}</span>
-    </a>{{ if lt (add $i 1) $length }}<!--,--> {{ end }}
-  {{- end -}}
+    {{- end -}}
+  </p>
 {{- end -}}
-</p>
