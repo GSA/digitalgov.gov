@@ -6,8 +6,8 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12">
-            {{ $authors := $.Site.Data.people.authors }}
-            <h1>People</h1>
+            {{- $authors := (where .Site.Pages "Section" "authors") -}}
+            <h1>Authors</h1>
             <h4>There are {{ len $authors }} authors</h4>
           </div>
         </div>
@@ -18,16 +18,44 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12">
-            {{ $data := $.Site.Data }}
-            {{ if eq $.Data.Plural "authors" }}
-            {{ $taxo := $.Data.Terms.Alphabetical  }}
-              {{ range $tax := $taxo }}
-                {{ $uid := $tax.Name | urlize }}
-                {{ $author := index $data.people.authors $uid }}
-                  {{ $link := printf "authors/%s/" $uid }}
-                  <h3><a href="{{ $link | absURL }}">{{ $author.display_name | default $uid }} ({{ $tax.Count }})</a></h3>
+            <div class="authors-list">
+              {{- range $uid, $taxonomy := $authors -}}
+                {{ $link := printf "authors/%s/" .Params.uid }}
+
+                {{- $author := . -}}
+                {{- with $author -}}
+
+                  <div class="author grid-row flex-no-wrap">
+                    <div class="grid-col-auto">
+                      <div class="photo height-5 width-5 display-flex flex-align-center flex-justify-center">
+                        {{- if $author.Params.github -}}
+                        <img class="circle-5" src="https://github.com/{{- $author.Params.github -}}.png?size=50" alt="">
+                        {{- else -}}
+                        {{- $default_profile := print "img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
+                        <img class="circle-5" src="{{- $default_profile | absURL -}}" alt="">
+                        {{- end -}}
+                      </div>
+                    </div>
+                    <div class="grid-col-9">
+                      <div class="details">
+                        <h5>
+                          <a href="{{- $link | absURL -}} " title="Posts by {{- $author.Params.display_name | default $uid -}} " rel="author">
+                            {{- $author.Params.display_name | default $uid -}}
+                          </a>
+                        </h5>
+
+                        {{- if $author.Params.agency -}}
+                        <p>{{- $author.Params.agency -}}{{- if $author.Params.location -}}&nbsp;|&nbsp;{{- $author.Params.location -}}{{- end -}}</p>
+                        {{- end -}}
+
+                      </div>
+                    </div>
+                  </div>
+
+                {{- end -}}
+
               {{ end }}
-            {{ end }}
+            </div>
           </div>
         </div>
       </div>
