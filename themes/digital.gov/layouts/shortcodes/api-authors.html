@@ -1,34 +1,40 @@
-{{- $list := .Site.Data.people.authors -}}
-{{- $length := (len $list) -}}
+{{- partial "core/set-env.html" . -}}
+{{- $list := (where .Site.Pages "Section" "authors") -}}
+{{- $length := len $list -}}
 {
-    "version" : "https://jsonfeed.org/version/1",
-    "content" : "authors",
-    "type" : "list",
-    "title" : "Authors | {{ .Site.Title }}",
-    "home_page_url" : "{{- .Site.BaseURL -}}",
-    "count" : "{{- $length -}}",
-    {{- with .Site.Author.name -}}
-    "author" : {
-        "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
-        "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
-        "avatar": "{{- . | absURL -}}"{{- end -}}
-    },
-    {{- end -}}
-    "items" : [
-      {{- range $index, $value := $list -}} {
-        "{{- $index -}}" : {
-          {{- $len := (len $value) -}}
-          {{ $.Scratch.Set "l" 0 }}
-          {{- range $key, $v := $value -}}
-            {{ $.Scratch.Add "l" 1 }}
-            {{ $l := $.Scratch.Get "l" }}
-            "{{- $key -}}" : "{{- $v -}}"{{ if not (eq $len $l) }}, {{ end }}
-          {{- end -}}
-        }
-        {{ $.Scratch.Add "i" 1 }}
-        {{ $i := $.Scratch.Get "i" }}
-
-      }{{ if not (eq $length $i) }}, {{ end }}
-      {{- end -}}
-    ]
+  "version" : "https://jsonfeed.org/version/1",
+  "content" : "authors",
+  "type" : "list",
+  "title" : "Authors | {{ .Site.Title }}",
+  "home_page_url" : "{{- .Site.BaseURL -}}",
+  "count" : "{{- $length -}}",
+  {{- with .Site.Author.name -}}
+  "author" : {
+      "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
+      "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
+      "avatar": "{{- . | absURL -}}"{{- end -}}
+  },
+  {{- end -}}
+  "items" : [
+    {{- range $index, $value := $list -}}
+    {{- $author := . -}}
+    {{- with $author -}}
+      "{{- $index -}}" : {
+        {{/* {{- $len := (len $value) -}} */}}
+        {{ $.Scratch.Set "l" 0 }}
+        {{- range $key, $v := $value -}}
+          {{ $.Scratch.Add "l" 1 }}
+          {{ $l := $.Scratch.Get "l" }}
+          "{{- $key -}}" : "{{- $v -}}"{{- if not (eq $length $l) -}}, {{- end -}}
+        {{- end -}}
+      }
+      {{ $.Scratch.Add "i" 1 }}
+      {{ $i := $.Scratch.Get "i" }}
+    }
+    {{- $.Scratch.Add "i" 1 -}}
+    {{- $iterator := $.Scratch.Get "i" -}}
+    {{- if not (eq $length $iterator) -}}, {{- end -}}
+  {{- end -}}
+  {{- end -}}
+  ]
 }
