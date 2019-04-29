@@ -7,7 +7,7 @@
   "type" : "list",
   "title" : "Topics | {{- .Site.Title -}}",
   "home_page_url" : "{{- .Site.BaseURL -}}",
-  "count" : "{{ $length }}",
+  "count" : "{{- $length -}}",
   "items" : [
   {{- range $i, $e := $list.ByTitle -}}
     {
