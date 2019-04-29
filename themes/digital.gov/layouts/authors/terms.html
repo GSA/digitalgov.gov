@@ -25,7 +25,7 @@
                 {{- $author := . -}}
                 {{- with $author -}}
 
-                  <div class="author grid-row flex-no-wrap">
+                  <div class="author grid-row flex-no-wrap" data-edit-this="{{- .File.Path -}}">
                     <div class="grid-col-auto">
                       <div class="photo height-5 width-5 display-flex flex-align-center flex-justify-center">
                         {{- if $author.Params.github -}}
