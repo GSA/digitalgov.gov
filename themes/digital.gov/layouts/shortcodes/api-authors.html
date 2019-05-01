@@ -7,34 +7,37 @@
   "type" : "list",
   "title" : "Authors | {{ .Site.Title }}",
   "home_page_url" : "{{- .Site.BaseURL -}}",
-  "count" : "{{- $length -}}",
-  {{- with .Site.Author.name -}}
+  "count" : "{{- $length }}",
+  {{ with .Site.Author.name -}}
   "author" : {
       "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
       "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
       "avatar": "{{- . | absURL -}}"{{- end -}}
   },
   {{- end -}}
-  "items" : [
-    {{- range $index, $value := $list -}}
-    {{- $author := . -}}
-    {{- with $author -}}
-      "{{- $index -}}" : {
-        {{/* {{- $len := (len $value) -}} */}}
-        {{ $.Scratch.Set "l" 0 }}
-        {{- range $key, $v := $value -}}
-          {{ $.Scratch.Add "l" 1 }}
-          {{ $l := $.Scratch.Get "l" }}
-          "{{- $key -}}" : "{{- $v -}}"{{- if not (eq $length $l) -}}, {{- end -}}
-        {{- end -}}
-      }
-      {{ $.Scratch.Add "i" 1 }}
-      {{ $i := $.Scratch.Get "i" }}
-    }
-    {{- $.Scratch.Add "i" 1 -}}
+  "items" : [{
+  {{ range $index, $author := $list -}}
+    "{{- $author.Params.uid -}}" : {
+      "uid" : "{{- $author.Params.uid -}}",
+      "display_name" : "{{- $author.Params.display_name -}}",
+      "first_name" : "{{- $author.Params.first_name -}}",
+      "last_name" : "{{- $author.Params.last_name -}}",
+      "pronoun" : "{{- $author.Params.pronoun -}}",
+      "email" : "{{- $author.Params.email -}}",
+      "location" : "{{- $author.Params.location -}}",
+      "bio" : "{{- $author.Params.bio -}}",
+      "bio_url" : "{{- $author.Params.bio_url -}}",
+      "agency" : "{{- $author.Params.agency -}}",
+      "agency_full_name" : "{{- $author.Params.agency_full_name -}}",
+      "github" : "{{- $author.Params.github -}}",
+      "profile_source" : "{{- $author.Params.profile_source -}}",
+      "twitter" : "{{- $author.Params.twitter -}}",
+      "facebook" : "{{- $author.Params.facebook -}}",
+      "linkedin" : "{{- $author.Params.linkedin -}}",
+      "youtube" : "{{- $author.Params.youtube -}}"
+    }{{- $.Scratch.Add "i" 1 -}}
     {{- $iterator := $.Scratch.Get "i" -}}
     {{- if not (eq $length $iterator) -}}, {{- end -}}
-  {{- end -}}
-  {{- end -}}
-  ]
+  {{ end }}
+  }]
 }
