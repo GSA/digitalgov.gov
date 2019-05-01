@@ -7,8 +7,12 @@
         <div class="grid-row">
           <div class="grid-col-12">
             {{- $authors := (where .Site.Pages "Section" "authors") -}}
-            <h1>Authors</h1>
-            <h4>There are {{ len $authors }} authors</h4>
+            <h1>{{ .Title }}</h1>
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+            <h4>{{ len $authors }} authors, writers, and contributors</h4>
           </div>
         </div>
       </div>
@@ -19,7 +23,7 @@
         <div class="grid-row">
           <div class="grid-col-12">
             <div class="authors-list">
-              {{- range $uid, $author := $authors -}}
+              {{- range $i, $author := $authors -}}
                 {{ $link := printf "authors/%s/" .Params.uid }}
 
                   <div class="author grid-row flex-no-wrap" data-edit-this="{{- .File.Path -}}">
@@ -36,8 +40,8 @@
                     <div class="grid-col-9">
                       <div class="details">
                         <h5>
-                          <a href="{{- $link | absURL -}} " title="Posts by {{- $author.Params.display_name | default $uid -}} " rel="author">
-                            {{- $author.Params.display_name | default $uid -}}
+                          <a href="{{- $link | absURL -}} " title="Posts by {{- $author.Params.display_name | default $i -}} " rel="author">
+                            {{- $author.Params.display_name | default $i -}}
                           </a>
                         </h5>
 
