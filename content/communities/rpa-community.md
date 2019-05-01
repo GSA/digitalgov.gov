@@ -3,10 +3,9 @@ url: /communities/rpa/
 uid: rpa
 date: 2019-04-24 2:32:10 -0400
 title: "Robotic Process Automation (RPA) CoP"
-summary: ''
----
+summary: We are a group who is working to accelearate robotic process automation (RPA) adoption in the federal government.
 
-We are a group who is working to accelerate robotic process automation (RPA) adoption in the federal government. 
+---
 
 ## Join
 
@@ -39,12 +38,12 @@ The executive sponsors of the RPA CoP are GSA Chief Financial Officer Gerard Bad
 The CoP is organized by Practice Areas for distinct components of RPA program management. Each Practice Area is led by a volunteer agency employee - a Practice Leader - and supported by Practice Area Team - a group of agency volunteers.  All members are required to join at least one Practice Area Team after their first meeting attended. This reflects the CoP’s principle that all contribute and all benefit. The following is an initial, proposed list of Practice Areas and will be amended as agreed by the CoP:
 
 **Program and Operations Management**
-* Governance / Center of Excellence (including strategies for scaling)
-* Human Resource Impacts, Culture Change, Communications (internal and external)
-* Business Case (including benefit realization)
-* Operations Management (modify and fix bots)
-* Management Reporting (performance metrics, dashboarding)
-* Contracting
+- Governance / Center of Excellence (including strategies for scaling)
+- Human Resource Impacts, Culture Change, Communications (internal and external)
+- Business Case (including benefit realization)
+- Operations Management (modify and fix bots)
+- Management Reporting (performance metrics, dashboarding)
+- Contracting
 
 **Process Assessment and Implementation**
 * Identification, Assessment and Selection of Processes for Automation
