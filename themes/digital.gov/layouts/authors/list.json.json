@@ -4,7 +4,7 @@
 {
     "version" : "https://jsonfeed.org/version/1",
     "home_page_url" : "{{- .Site.BaseURL -}}",
-    "content" : "authorz",
+    "content" : "author",
     "type" : "list",
     "count" : "{{- $length -}}",
     {{- with .OutputFormats.Get "JSON" -}}
@@ -12,48 +12,48 @@
     {{- end -}}
     "profile_url" : "{{- .Permalink -}}",
     {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
-    {{- $author := index $.Site.Data.people.authors $.Data.Term -}}
-    {{- if $author.display_name -}}
-    "display_name" : "{{- $author.display_name -}}",
+    {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $.Data.Term) -}}
+    {{- if $author.Params.display_name -}}
+    "display_name" : "{{- $author.Params.display_name -}}",
     {{- end -}}
-    {{- if $author.first_name -}}
-    "first_name" : "{{- $author.first_name -}}",
+    {{- if $author.Params.first_name -}}
+    "first_name" : "{{- $author.Params.first_name -}}",
     {{- end -}}
-    {{- if $author.last_name -}}
-    "last_name" : "{{- $author.last_name -}}",
+    {{- if $author.Params.last_name -}}
+    "last_name" : "{{- $author.Params.last_name -}}",
     {{- end -}}
-    {{- if $author.uid -}}
-    "uid" : "{{- $author.uid -}}",
+    {{- if $author.Params.uid -}}
+    "uid" : "{{- $author.Params.uid -}}",
     {{- end -}}
-    {{- if $author.email -}}
-    "email" : "{{- $author.email -}}",
+    {{- if $author.Params.email -}}
+    "email" : "{{- $author.Params.email -}}",
     {{- end -}}
-    {{- if $author.bio -}}
-    "bio" : "{{- $author.bio -}}",
+    {{- if $author.Params.bio -}}
+    "bio" : "{{- $author.Params.bio -}}",
     {{- end -}}
-    {{- if $author.location -}}
-    "location" : "{{- $author.location -}}",
+    {{- if $author.Params.location -}}
+    "location" : "{{- $author.Params.location -}}",
     {{- end -}}
-    {{- if $author.agency -}}
-    "agency" : "{{- $author.agency -}}",
+    {{- if $author.Params.agency -}}
+    "agency" : "{{- $author.Params.agency -}}",
     {{- end -}}
-    {{- if $author.agency_full_name -}}
-    "agency_full_name" : "{{- $author.agency_full_name -}}",
+    {{- if $author.Params.agency_full_name -}}
+    "agency_full_name" : "{{- $author.Params.agency_full_name -}}",
     {{- end -}}
-    {{- if $author.github -}}
-    "github" : "{{- $author.github -}}",
+    {{- if $author.Params.github -}}
+    "github" : "{{- $author.Params.github -}}",
     {{- end -}}
-    {{- if $author.twitter -}}
-    "twitter" : "{{- $author.twitter -}}",
+    {{- if $author.Params.twitter -}}
+    "twitter" : "{{- $author.Params.twitter -}}",
     {{- end -}}
-    {{- if $author.facebook -}}
-    "facebook" : "{{- $author.facebook -}}",
+    {{- if $author.Params.facebook -}}
+    "facebook" : "{{- $author.Params.facebook -}}",
     {{- end -}}
-    {{- if $author.linkedin -}}
-    "linkedin" : "{{- $author.linkedin -}}",
+    {{- if $author.Params.linkedin -}}
+    "linkedin" : "{{- $author.Params.linkedin -}}",
     {{- end -}}
-    {{- if $author.youtube -}}
-    "youtube" : "{{- $author.youtube -}}",
+    {{- if $author.Params.youtube -}}
+    "youtube" : "{{- $author.Params.youtube -}}",
     {{- end -}}
     "items" : [
     {{- range $index, $element := $list -}}
@@ -77,12 +77,13 @@
           "authors" : {
           {{- range $i, $e := $_authors -}}
             {{- $uid := $e | urlize -}}
-            {{- $data := $.Site.Data -}}
-            {{- $author := index $data.people.authors $uid -}}
-            {{- if lt (add $i 1) $length -}}
-              "{{- $uid -}}" : "{{- $author.display_name | default $uid}}",
-            {{- else -}}
-              "{{- $uid -}}" : "{{- $author.display_name | default $uid}}"
+            {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
+            {{- with $author -}}
+              {{- if lt (add $i 1) $length -}}
+                "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}",
+              {{- else -}}
+                "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}"
+              {{- end -}}
             {{- end -}}
           {{- end -}}
           },
