@@ -30,7 +30,7 @@ Additionally, this episode will feature an overview of the prize portfolio at th
 **Featured speakers:**
 
 - **Jarah Meador, PhD**, Director, Challenge.gov, U.S. General Services Administration
-- **Jessie Buerlein, MSW**, Public Health Analyst, Maternal and Child Health Bureau, Health Resources and Services Administration, Department of Health and Human Services
+- **Jessie Buerlein, MSW**, Sr. Public Health Analyst and Prize Lead, Maternal and Child Health Bureau, Health Resources and Services Administration, Department of Health and Human Services
 
 **Upcoming episodes in the Federal Crowdsourcing Webinar Series include:**
 
