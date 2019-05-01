@@ -48,7 +48,7 @@ The CoP is organized by Practice Areas for distinct components of RPA program ma
 #### Process Assessment and Implementation
   - Identification, Assessment and Selection of Processes for Automation
   - Implementation Process (including documentation, templates, and audit readiness)
-  - Development (including documentation, templates and audit readiness)
+  - Development (approach and process management, e.g.,  business, IT and/or contract developers, training)
   - Use Cases, including potential government-wide cases and identification of bots and bot components to be included in the ‘Asset LIbrary’ (reusable code)
   - Bot Scope (guidelines for human vs. bot functions, privacy, ethics)
 
@@ -56,6 +56,7 @@ The CoP is organized by Practice Areas for distinct components of RPA program ma
   - IT Platform, including configuration and capacity management (options and best practice)
   - Bot Credentialing (options and best practices)
   - Security(ATO)
+  - Development (e.g.,  best practice, reference information, code reviews)
   - Privacy [Privacy Threshold Assessment (PTA), Privacy Impact Assessments (PIA), System of Records Notices (SORN)]
   - Software Options and Capabilities
   - Platform for Government-wide Sharing of Bots and Bot Components (‘Asset Library’)
