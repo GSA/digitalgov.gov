@@ -11,15 +11,15 @@ summary: We are a group who is working to accelearate robotic process automation
 
 The FedRPA CoP is open to government employees only. 
  
-Self-subscribe by creating a new email message addressed to: FedRPA-subscribe-request@listserv.gsa.gov. The message content does not matter!
+Click here to subscribe: [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov). The message content does not matter!
 
-You may unsubscribe by sending an email to FedRPA-unsubscribe-request@listserv.gsa.gov. The message content does not matter!
+Click here to unsubscribe: [FedRPA-unsubscribe-request@listserv.gsa.gov](mailto:FedRPA-unsubscribe-request@listserv.gsa.gov). The message content does not matter!
 
 ## Community Managers
-  - nick.surkamp@gsa.gov
-  - brenden.cuyler@gsa.gov
-  - edward.burrows@gsa.gov
-  - brian.mooers@gsa.gov
+  - [nick.surkamp@gsa.gov](mailto:nick.surkamp@gsa.gov)
+  - [brenden.cuyler@gsa.gov](mailto:brenden.cuyler@gsa.gov)
+  - [edward.burrows@gsa.gov](mailto:edward.burrows@gsa.gov)
+  - [brian.mooers@gsa.gov](mailto:brian.mooers@gsa.gov)
 
 ## Introduction
 
