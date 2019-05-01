@@ -5,7 +5,7 @@ title: 'A Better DigitalGov'
 summary: 'We’re going to try something new here, something better.'
 authors:
   - jeremyzilar
-  - DigitalGov
+  - digitalgov-team
 featured_image:
   uid: tile-1
   alt: A better DigitalGov

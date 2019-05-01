@@ -8,12 +8,11 @@ topics:
   - product-management
   - strategy
   - policy
-authors:
- - nist
   - data
-  - National Institute of Standards and Technology
-  - NIST
   - security
+authors:
+  - nist
+
 ---
 
 ## Categorizing and Describing Cybersecurity Work for the Nation
