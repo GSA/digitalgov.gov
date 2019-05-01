@@ -24,4 +24,4 @@ How to join our listserv:
 
 The Plain Language Action and Information Network (PLAIN) Community of Practice (PL-COP) is an inter-agency group of plain language practitioners from many different federal government agencies and specialties who support the use of clear communication in government writing.
 
-PL-COP is administered by the [Plain Language Action and Information Network (PLAIN)](http://www.plainlanguage.gov/).
+PL-COP is administered by the [Plain Language Action and Information Network (PLAIN)](https://www.plainlanguage.gov/about/).
