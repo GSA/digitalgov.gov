@@ -17,9 +17,10 @@ _You should regularly review your agency's websites and other digital products a
 ## Overarching Policies
 These high-level policies cover basic requirements for all digital products and services.
 
-* [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
+* [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 * [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 * [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) (July 28, 2016)
+* [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
 
 
@@ -27,7 +28,7 @@ These high-level policies cover basic requirements for all digital products and 
 
 Ensure access for people with disabilities, including motor, auditory, cognitive, seizure/neurological, and visual impairments; ensure content is "perceivable, operable, understandable, and robust." Teach staff how to create accessible products, and conduct accessibility testing before launch, or when making significant changes to, digital products and services.
 
-* [Accessibility for teams](https://accessibility.digital.gov/) — A guide for embedding accessibility and inclusive design practices into your team’s workflow
+* [Accessibility for Teams](https://accessibility.digital.gov/) — A guide for embedding accessibility and inclusive design practices into your team’s workflow
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
 * [Section 508 Law](https://www.section508.gov/content/learn/laws-and-policies) and [Technical Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
 * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)
@@ -88,9 +89,9 @@ Federal executive branch agency websites must use only .gov or .mil domains unle
 
 Establish a digital governance structure to provide accountability and enforce policies and standards. Manage and fund your digital presence as an integral part of your overall business, communications, and customer experience strategies. Leverage existing infrastructure, shared tools, best practices, and communities of practice, and coordinate within and across agencies to create efficiency and reduce duplication. When missions overlap, collaborate with other agencies to develop cross-agency websites (portals); coordinate across government to disseminate emergency response info.
 
+- [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 - [Digital Governance Policy Outline](https://digital.gov/resources/digital-governance-policies/)
--  [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012) (requirement 4.2)
-
+- [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012) (requirement 4.2)
 
 
 ## Information Quality
@@ -113,7 +114,9 @@ Include all [required content and links](/resources/required-web-content-and-lin
 
 ## Mobile/Device Agnostic
 
-Improve priority customer facing services for mobile use. Shift to an enterprise-wide asset management and procurement model, including mobile-related procurements.
+Improve priority customer facing services for mobile use. Shift to an enterprise-wide asset management and procurement model, including mobile-related procurements. 
+
+* [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 
 
 ## Multilingual Websites

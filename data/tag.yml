@@ -15,13 +15,13 @@ accessibility:
 acquisition:
   display_name: "Acquisition"
 administration-on-aging:
-  display_name: "Administration On Aging"
+  display_name: "Administration on Aging"
 administrative-office-of-the-united-states-courts:
-  display_name: "Administrative Office Of The United States Courts"
+  display_name: "Administrative Office of the United States Courts"
 agile:
   display_name: "Agile"
 agile-lean-community-of-practice:
-  display_name: "Agile/Lean Community Of Practice"
+  display_name: "Agile/Lean Community of Practice"
 ai:
   display_name: "AI"
 aids-gov:
@@ -31,19 +31,21 @@ american-battle-monuments-commission:
 american-red-cross:
   display_name: "American Red Cross"
 americans-with-disabilities-act:
-  display_name: "Americans With Disabilities Act"
+  display_name: "Americans with Disabilities Act"
 analytics:
   display_name: "Analytics"
 analytics-usa-gov:
   display_name: "analytics.usa.gov"
 animal-and-plant-health-inspection-service:
-  display_name: "Animal And Plant Health Inspection Service"
+  display_name: "Animal and Plant Health Inspection Service"
 anle:
-  display_name: "Anle"
+  display_name: "ANLE"
 aoi:
   display_name: "AOI"
 api:
   display_name: "API"
+api-community:
+  display_name: "API Community of Practice"
 api-keys:
   display_name: "API Keys"
 app:
@@ -53,7 +55,7 @@ apps:
 apps-challenges:
   display_name: "Apps Challenges"
 architect-of-the-capitol:
-  display_name: "Architect Of The Capitol"
+  display_name: "Architect of the Capitol"
 architecture:
   display_name: "Architecture"
 arlington-national-cemetery:
@@ -61,7 +63,7 @@ arlington-national-cemetery:
 artificial-intelligence:
   display_name: "Artificial Intelligence"
 artificial-intelligence-for-citizen-services-community:
-  display_name: "Artificial Intelligence For Citizen Services Community"
+  display_name: "Artificial Intelligence for Citizen Services Community"
 atf:
   display_name: "ATF"
 audio:
@@ -70,6 +72,8 @@ audio-video:
   display_name: "Audio/Video"
 augmented-reality:
   display_name: "Augmented Reality"
+automation:
+  display_name: "Automation"
 aws:
   display_name: "AWS"
 bar:
@@ -97,17 +101,17 @@ bls:
 broadband:
   display_name: "Broadband"
 broadcasting-board-of-governors:
-  display_name: "Broadcasting Board Of Governors"
+  display_name: "Broadcasting Board of Governors"
 browsers:
   display_name: "Browsers"
 bureau-of-alcohol-tobacco-firearms-and-explosives:
-  display_name: "Bureau Of Alcohol Tobacco Firearms And Explosives"
+  display_name: "Bureau of Alcohol Tobacco Firearms and Explosives"
 bureau-of-indian-affairs:
-  display_name: "Bureau Of Indian Affairs"
+  display_name: "Bureau of Indian Affairs"
 bureau-of-justice-statistics:
-  display_name: "Bureau Of Justice Statistics"
+  display_name: "Bureau of Justice Statistics"
 bureau-of-reclamation:
-  display_name: "Bureau Of Reclamation"
+  display_name: "Bureau of Reclamation"
 cbp:
   display_name: "CPB"
 cdc:
@@ -115,9 +119,9 @@ cdc:
 census:
   display_name: "Census"
 centers-for-disease-control-and-prevention:
-  display_name: "Centers For Disease Control And Prevention"
+  display_name: "Centers for Disease Control and Prevention"
 centers-for-medicare-and-medicaid-services:
-  display_name: "Centers For Medicare And Medicaid Services"
+  display_name: "Centers for Medicare and Medicaid Services"
 central-intelligence-agency:
   display_name: "Central Intelligence Agency"
 cfpb:
@@ -125,9 +129,9 @@ cfpb:
 challenge-gov:
   display_name: "Challenge.gov"
 challenges-and-prize-competitions:
-  display_name: "Challenges And Prize Competitions"
+  display_name: "Challenges and Prize Competitions"
 challenges-and-prizes-community-of-practice:
-  display_name: "Challenges And Prizes Community Of Practice"
+  display_name: "Challenges and Prizes Community of Practice"
 chatbots:
   display_name: "Chatbots"
 cia:
@@ -139,11 +143,11 @@ cio-council:
 citizen-science:
   display_name: "Citizen Science"
 citizen-science-and-crowdsourcing-community-of-practice:
-  display_name: "Citizen Science And Crowdsourcing Community Of Practice"
+  display_name: "Citizen Science and Crowdsourcing Community of Practice"
 cloud:
   display_name: "Cloud"
 cloud-gov:
-  display_name: "cloud.gov"
+  display_name: "Cloud.gov"
 cms:
   display_name: "CMS"
 cncs:
@@ -183,9 +187,9 @@ cops-office:
 core:
   display_name: "Core"
 corporation-for-national-and-community-service:
-  display_name: "Corporation For National And Community Service"
+  display_name: "Corporation for National and Community Service"
 court-services-and-offender-supervision-agency:
-  display_name: "Court Services And Offender Supervision Agency"
+  display_name: "Court Services and Offender Supervision Agency"
 cpsc:
   display_name: "Cpsc"
 crowdfunding:
@@ -197,7 +201,7 @@ csosa:
 customer-experience:
   display_name: "Customer Experience"
 customer-experience-community-of-practice:
-  display_name: "Customer Experience Community Of Practice"
+  display_name: "Customer Experience Community of Practice"
 customer-satisfaction:
   display_name: "Customer Satisfaction"
 customer-service:
@@ -217,19 +221,19 @@ data-act:
 data-visualization:
   display_name: "Data Visualization"
 data-gov:
-  display_name: "data.gov"
+  display_name: "Data.gov"
 defense-advanced-research-projects-agency:
   display_name: "Defense Advanced Research Projects Agency"
 defense-commissary-agency:
   display_name: "Defense Commissary Agency"
 defense-finance-and-accounting-services:
-  display_name: "Defense Finance And Accounting Services"
+  display_name: "Defense Finance and Accounting Services"
 defense-intelligence-agency:
   display_name: "Defense Intelligence Agency"
 defense-logistics-agency:
   display_name: "Defense Logistics Agency"
 department-of-commerce:
-  display_name: "Department Of Commerce"
+  display_name: "Department of Commerce"
 developer-hub:
   display_name: "Developer Hub"
 dfas:
@@ -241,7 +245,7 @@ dhs:
 dia:
   display_name: "DIA"
 digital-accountability-and-transparency-act:
-  display_name: "Digital Accountability And Transparency Act"
+  display_name: "Digital Accountability and Transparency Act"
 digital-acquisition-playbook:
   display_name: "Digital Acquisition Playbook"
 digital-acquisitions-accelerator:
@@ -254,14 +258,16 @@ digital-records:
   display_name: "Digital Records"
 digital-services-playbook:
   display_name: "Digital Services Playbook"
+digitalgov:
+  display_name: "DigitalGov"
 digitalgov-search:
-  display_name: "Digitalgov Search"
+  display_name: "DigitalGov Search"
 digitalgov-summit:
-  display_name: "Digitalgov Summit"
+  display_name: "DigitalGov Summit"
 digitalgov-university:
-  display_name: "Digitalgov University"
+  display_name: "DigitalGov University"
 digitalgov-user-experience-program:
-  display_name: "Digitalgov User Experience Program"
+  display_name: "DigitalGov User Experience Program"
 disease:
   display_name: "Disease"
 dod:
@@ -278,6 +284,8 @@ dos:
   display_name: "DOS"
 dot:
   display_name: "DOT"
+dotgov:
+  display_name: "DotGov"
 draft-web-design-standards:
   display_name: "Draft Web Design Standards"
 drupal:
@@ -297,9 +305,9 @@ event:
 ex-im-bank:
   display_name: "Ex Im Bank"
 executive-office-of-the-president:
-  display_name: "Executive Office Of The President"
+  display_name: "Executive Office of the President"
 export-import-bank-of-the-united-states:
-  display_name: "Export Import Bank Of The United States"
+  display_name: "Export Import Bank of the United States"
 faa:
   display_name: "FAA"
 facebook:
@@ -334,8 +342,10 @@ federal-acquisition-service:
   display_name: "Federal Acquisition Service"
 federal-aviation-administration:
   display_name: "Federal Aviation Administration"
+federal-blockchain-community:
+  display_name: "Federal Blockchain Community of Practice"
 federal-bureau-of-investigation:
-  display_name: "Federal Bureau Of Investigation"
+  display_name: "Federal Bureau of Investigation"
 federal-communications-commission:
   display_name: "Federal Communications Commission"
 federal-crowdsource-mobile-testing-program:
@@ -357,7 +367,7 @@ federal-register:
 federal-reserve-board:
   display_name: "Federal Reserve Board"
 federal-risk-and-authorization-management-program:
-  display_name: "Federal Risk And Authorization Management Program"
+  display_name: "Federal Risk and Authorization Management Program"
 federal-student-aid:
   display_name: "Federal Student Aid"
 federal-trade-commission:
@@ -375,7 +385,7 @@ first-responder-network-authority:
 first-responders-network:
   display_name: "First Responders Network"
 firstnet:
-  display_name: "Firstnet"
+  display_name: "FirstNet"
 fitara:
   display_name: "FITARA"
 foia:
@@ -385,7 +395,7 @@ foo:
 frb:
   display_name: "FRB"
 freedom-of-information-act:
-  display_name: "Freedom Of Information Act"
+  display_name: "Freedom of Information Act"
 fs:
   display_name: "FS"
 fsa:
@@ -401,7 +411,7 @@ gao:
 github:
   display_name: "Github"
 gobiernousagov:
-  display_name: "Gobiernousagov"
+  display_name: "GobiernoUSA.gov"
 google-analytics:
   display_name: "Google Analytics"
 go-usa-gov:
@@ -455,25 +465,25 @@ innovation:
 instagram:
   display_name: "Instagram"
 institute-for-education-sciences:
-  display_name: "Institute For Education Sciences"
+  display_name: "Institute for Education Sciences"
 institute-of-museum-and-library-services:
-  display_name: "Institute Of Museum And Library Services"
+  display_name: "Institute of Museum and Library Services"
 internal-revenue-service:
   display_name: "Internal Revenue Service"
 international-trade-administration:
   display_name: "International Trade Administration"
 internet-of-things:
-  display_name: "Internet Of Things"
+  display_name: "Internet of Things"
 inventory-data-gov:
   display_name: "inventory.data.gov"
 ios:
   display_name: "IOS"
 iot:
-  display_name: "IOT"
+  display_name: "IoT"
 irs:
   display_name: "IRS"
 it-modernization-fund:
-  display_name: "It Modernization Fund"
+  display_name: "IT Modernization Fund"
 it-schedule-70:
   display_name: "IT Schedule 70"
 ita:
@@ -487,17 +497,17 @@ json:
 kanban:
   display_name: "Kanban"
 kids-gov:
-  display_name: "kids.gov"
+  display_name: "Kids.gov"
 knowledge-management:
   display_name: "Knowledge Management"
 law-library-of-congress:
-  display_name: "Law Library Of Congress"
+  display_name: "Law Library of Congress"
 lean:
   display_name: "Lean"
 lep:
   display_name: "LEP"
 library-of-congress:
-  display_name: "Library Of Congress"
+  display_name: "Library of Congress"
 linkedin:
   display_name: "Linkedin"
 loc:
@@ -531,11 +541,11 @@ mobile-first:
 mobile-friendly:
   display_name: "Mobile Friendly"
 mobile-gov:
-  display_name: "Mobile Gov"
+  display_name: "MobileGov"
 mobile-gov-community-of-practice:
-  display_name: "Mobile Gov Community Of Practice"
+  display_name: "MobileGov Community of Practice"
 mobile-gov-experience:
-  display_name: "Mobile Gov Experience"
+  display_name: "MobileGov Experience"
 mobile-testing:
   display_name: "Mobile Testing"
 mobile-user-experience-guidelines:
@@ -553,9 +563,9 @@ mobile-ux-guideline-5:
 mobile-ux-guideline-6:
   display_name: "Mobile UX Guideline 6"
 mobilegov:
-  display_name: "Mobilegov"
+  display_name: "MobileGov"
 modernization-and-migration-management-framework:
-  display_name: "Modernization And Migration Management Framework"
+  display_name: "Modernization and Migration Management Framework"
 multilingual:
   display_name: "Multilingual"
 multilingual-community:
@@ -569,29 +579,29 @@ nasa:
 nasm:
   display_name: "NASM"
 national-action-plan-on-open-government:
-  display_name: "National Action Plan On Open Government"
+  display_name: "National Action Plan on Open Government"
 national-aeronautics-and-space-administration:
-  display_name: "National Aeronautics And Space Administration"
+  display_name: "National Aeronautics and Space Administration"
 national-air-and-space-museum:
-  display_name: "National Air And Space Museum"
+  display_name: "National Air and Space Museum"
 national-archives-and-records-administration:
-  display_name: "National Archives And Records Administration"
+  display_name: "National Archives and Records Administration"
 national-cancer-institute:
   display_name: "National Cancer Institute"
 national-center-for-complementary-and-integrative-health:
-  display_name: "National Center For Complementary And Integrative Health"
+  display_name: "National Center for Complementary and Integrative Health"
 national-center-for-telehealth-and-technology:
-  display_name: "National Center For Telehealth And Technology"
+  display_name: "National Center for Telehealth and Technology"
 national-cyber-security-awareness-month:
   display_name: "National Cyber Security Awareness Month"
 national-day-of-civic-hacking:
-  display_name: "National Day Of Civic Hacking"
+  display_name: "National Day of Civic Hacking"
 national-defense-university:
   display_name: "National Defense University"
 national-eye-institute:
   display_name: "National Eye Institute"
 national-gallery-of-art:
-  display_name: "National Gallery Of Art"
+  display_name: "National Gallery of Art"
 national-guard:
   display_name: "National Guard"
 national-highway-traffic-safety-administration:
@@ -599,29 +609,29 @@ national-highway-traffic-safety-administration:
 national-hurricane-center:
   display_name: "National Hurricane Center"
 national-institute-of-allergy-and-infectious-diseases:
-  display_name: "National Institute Of Allergy And Infectious Diseases"
+  display_name: "National Institute of Allergy and Infectious Diseases"
 national-institute-of-heart-lung-and-blood-diseases:
-  display_name: "National Institute Of Heart Lung And Blood Diseases"
+  display_name: "National Institute of Heart Lung and Blood Diseases"
 national-institute-of-justice:
-  display_name: "National Institute Of Justice"
+  display_name: "National Institute of Justice"
 national-institute-of-standards:
-  display_name: "National Institute Of Standards"
+  display_name: "National Institute of Standards"
 national-institute-of-standards-and-technology:
-  display_name: "National Institute Of Standards And Technology"
+  display_name: "National Institute of Standards and Technology"
 national-institute-on-drug-abuse:
-  display_name: "National Institute On Drug Abuse"
+  display_name: "National Institute on Drug Abuse"
 national-institutes-of-health:
-  display_name: "National Institutes Of Health"
+  display_name: "National Institutes of Health"
 national-library-of-medicine:
-  display_name: "National Library Of Medicine"
+  display_name: "National Library of Medicine"
 national-museum-of-african-american-history-and-culture:
-  display_name: "National Museum Of African American History And Culture"
+  display_name: "National Museum of African American History and Culture"
 national-museum-of-american-history:
-  display_name: "National Museum Of American History"
+  display_name: "National Museum of American History"
 national-ocean-service:
   display_name: "National Ocean Service"
 national-oceanic-and-atmospheric-administration:
-  display_name: "National Oceanic And Atmospheric Administration"
+  display_name: "National Oceanic and Atmospheric Administration"
 national-renewable-energy-laboratory:
   display_name: "National Renewable Energy Laboratory"
 national-resources-conservation-service:
@@ -631,7 +641,7 @@ national-science-foundation:
 national-technical-information-service:
   display_name: "National Technical Information Service"
 national-telecommunications-and-information-administration:
-  display_name: "National Telecommunications And Information Administration"
+  display_name: "National Telecommunications and Information Administration"
 national-weather-service:
   display_name: "National Weather Service"
 national-zoological-park:
@@ -699,41 +709,41 @@ nuclear-regulatory-commission:
 nws:
   display_name: "NWS"
 occupational-safety-and-health-administration:
-  display_name: "Occupational Safety And Health Administration"
+  display_name: "Occupational Safety and Health Administration"
 ocsit:
   display_name: "OCSIT"
 odni:
   display_name: "ODNI"
 office-of-child-support-enforcement:
-  display_name: "Office Of Child Support Enforcement"
+  display_name: "Office of Child Support Enforcement"
 office-of-citizen-services-and-innovative-technology:
-  display_name: "Office Of Citizen Services And Innovative Technology"
+  display_name: "Office of Citizen Services and Innovative Technology"
 office-of-community-oriented-policing-services:
-  display_name: "Office Of Community Oriented Policing Services"
+  display_name: "Office of Community Oriented Policing Services"
 office-of-government-information-services:
-  display_name: "Office Of Government Information Services"
+  display_name: "Office of Government Information Services"
 office-of-governmentwide-policy:
-  display_name: "Office Of Governmentwide Policy"
+  display_name: "Office of Governmentwide Policy"
 office-of-information-policy:
-  display_name: "Office Of Information Policy"
+  display_name: "Office of Information Policy"
 office-of-inspector-general:
-  display_name: "Office Of Inspector General"
+  display_name: "Office of Inspector General"
 office-of-management-and-budget:
-  display_name: "Office Of Management And Budget"
+  display_name: "Office of Management and Budget"
 office-of-minority-health:
-  display_name: "Office Of Minority Health"
+  display_name: "Office of Minority Health"
 office-of-natural-resources-revenue:
-  display_name: "Office Of Natural Resources Revenue"
+  display_name: "Office of Natural Resources Revenue"
 office-of-naval-research:
-  display_name: "Office Of Naval Research"
+  display_name: "Office of Naval Research"
 office-of-products-and-programs:
-  display_name: "Office Of Products And Programs"
+  display_name: "Office of Products and Programs"
 office-of-the-director-of-national-intelligence:
-  display_name: "Office Of The Director Of National Intelligence"
+  display_name: "Office of the Director of National Intelligence"
 office-of-the-national-coordinator-for-health-it:
-  display_name: "Office Of The National Coordinator For Health It"
+  display_name: "Office of the National Coordinator for Health IT"
 office-of-the-us-foreign-assistance-resources:
-  display_name: "Office Of The U.S. Foreign Assistance Resources"
+  display_name: "Office of the U.S. Foreign Assistance Resources"
 ogis:
   display_name: "OGIA"
 ogp:
@@ -753,7 +763,7 @@ onrr:
 open:
   display_name: "Open"
 open-and-structured-content-models:
-  display_name: "Open And Structured Content Models"
+  display_name: "Open and Structured Content Models"
 open-data:
   display_name: "Open Data"
 open-government:
@@ -787,9 +797,9 @@ pinterest:
 plain-language:
   display_name: "Plain Language"
 plain-language-community-of-practice:
-  display_name: "Plain Language Community Of Practice"
+  display_name: "Plain Language Community of Practice"
 plain-writing-act-of-2010:
-  display_name: "Plain Writing Act Of 2010"
+  display_name: "Plain Writing Act of 2010"
 podcast:
   display_name: "Podcast"
 policy:
@@ -803,7 +813,9 @@ privacy:
 privacy-impact-assessment:
   display_name: "Privacy Impact Assessment"
 prizes-and-competitions:
-  display_name: "Prizes And Competitions"
+  display_name: "Prizes and Competitions"
+professional-development: 
+  display_name: "Professional Development"
 project-management:
   display_name: "Project Management"
 prototype:
@@ -857,31 +869,31 @@ seo:
 sites:
   display_name: "Sites"
 sitesusagov:
-  display_name: "Sitesusagov"
+  display_name: "sites.usa.gov"
 skills:
   display_name: "Skills"
 small-business-innovation-research:
   display_name: "Small Business Innovation Research"
 smithsonian-center-for-learning-and-digital-access:
-  display_name: "Smithsonian Center For Learning And Digital Access"
+  display_name: "Smithsonian Center for Learning and Digital Access"
 smithsonian-institution:
   display_name: "Smithsonian Institution"
 smithsonian-libraries:
   display_name: "Smithsonian Libraries"
 smithsonian-national-museum-of-the-american-indian:
-  display_name: "Smithsonian National Museum Of The American Indian"
+  display_name: "Smithsonian National Museum of the American Indian"
 sms:
   display_name: "SMS"
 social-and-behavioral-sciences-team:
-  display_name: "Social And Behavioral Sciences Team"
+  display_name: "Social and Behavioral Sciences Team"
 social-media:
   display_name: "Social Media"
 social-media-metrics:
   display_name: "Social Media Metrics"
 socialgov:
-  display_name: "Socialgov"
+  display_name: "SocialGov"
 socialgov-community:
-  display_name: "Socialgov Community"
+  display_name: "SocialGov Community"
 sprint:
   display_name: "Sprint"
 ssa:
@@ -897,9 +909,9 @@ technology-industry-day:
 technology-transformation-service:
   display_name: "Technology Transformation Service"
 terms-of-service:
-  display_name: "Terms Of Service"
+  display_name: "Terms of Service"
 the-bureau-of-land-management:
-  display_name: "The Bureau Of Land Management"
+  display_name: "The Bureau of Land Management"
 the-content-corner:
   display_name: "The Content Corner"
 the-data-briefing:
@@ -917,7 +929,7 @@ training:
 transportation-security-administration:
   display_name: "Transportation Security Administration"
 trends-on-tuesday:
-  display_name: "Trends On Tuesday"
+  display_name: "Trends on Tuesday"
 tribal:
   display_name: "Tribal"
 tribal-government:
@@ -931,35 +943,35 @@ twitter:
 us-access-board:
   display_name: "U.S. Access Board"
 us-agency-for-international-development:
-  display_name: "U.S. Agency For International Development"
+  display_name: "U.S. Agency for International Development"
 us-bureau-of-economic-analysis:
-  display_name: "U.S. Bureau Of Economic Analysis"
+  display_name: "U.S. Bureau of Economic Analysis"
 us-bureau-of-engraving-and-printing:
-  display_name: "U.S. Bureau Of Engraving And Printing"
+  display_name: "U.S. Bureau of Engraving and Printing"
 us-bureau-of-labor-statistics:
-  display_name: "U.S. Bureau Of Labor Statistics"
+  display_name: "U.S. Bureau of Labor Statistics"
 us-citizenship-and-immigration-service:
-  display_name: "U.S. Citizenship And Immigration Service"
+  display_name: "U.S. Citizenship and Immigration Service"
 us-coast-guard:
   display_name: "U.S. Coast Guard"
 us-customs-and-border-protection:
-  display_name: "U.S. Customs And Border Protection"
+  display_name: "U.S. Customs and Border Protection"
 us-department-of-agriculture:
-  display_name: "U.S. Department Of Agriculture"
+  display_name: "U.S. Department of Agriculture"
 us-department-of-education:
-  display_name: "U.S. Department Of Education"
+  display_name: "U.S. Department of Education"
 us-department-of-justice:
-  display_name: "U.S. Department Of Justice"
+  display_name: "U.S. Department of Justice"
 us-department-of-labor:
-  display_name: "U.S. Department Of Labor"
+  display_name: "U.S. Department of Labor"
 us-department-of-state:
-  display_name: "U.S. Department Of State"
+  display_name: "U.S. Department of State"
 us-department-of-the-interior:
-  display_name: "U.S. Department Of The Interior"
+  display_name: "U.S. Department of the Interior"
 us-department-of-the-treasury:
-  display_name: "U.S. Department Of The Treasury"
+  display_name: "U.S. Department of the Treasury"
 us-department-of-veterans-affairs:
-  display_name: "U.S. Department Of Veterans Affairs"
+  display_name: "U.S. Department of Veterans Affairs"
 us-digital-registry:
   display_name: "U.S. Digital Registry"
 us-digital-service:
@@ -969,7 +981,7 @@ us-energy-information-administration:
 us-environmental-protection-agency:
   display_name: "U.S. Environmental Protection Agency"
 us-food-and-drug-administration:
-  display_name: "U.S. Food And Drug Administration"
+  display_name: "U.S. Food and Drug Administration"
 us-forest-service:
   display_name: "U.S. Forest Service"
 us-general-services-administration:
@@ -981,19 +993,19 @@ us-government-accountability-office:
 us-government-printing-office:
   display_name: "U.S. Government Printing Office"
 us-health-resources-and-services-administration:
-  display_name: "U.S. Health Resources And Services Administration"
+  display_name: "U.S. Health Resources and Services Administration"
 us-immigration-and-customs-enforcement:
-  display_name: "U.S. Immigration And Customs Enforcement"
+  display_name: "U.S. Immigration and Customs Enforcement"
 us-national-park-service:
   display_name: "U.S. National Park Service"
 us-securities-and-exchange-commission:
-  display_name: "U.S. Securities And Exchange Commission"
+  display_name: "U.S. Securities and Exchange Commission"
 us-small-business-administration:
   display_name: "U.S. Small Business Administration"
 us-trade-and-development-agency:
-  display_name: "U.S. Trade And Development Agency"
+  display_name: "U.S. Trade and Development Agency"
 uswds:
-  display_name: "U.S. Web Design Standards"
+  display_name: "USWDS"
 ugc:
   display_name: "UGC"
 unified-shared-services-management:
@@ -1005,35 +1017,35 @@ united-states-army:
 united-states-census-bureau:
   display_name: "United States Census Bureau"
 united-states-department-of-defense:
-  display_name: "United States Department Of Defense"
+  display_name: "United States Department of Defense"
 united-states-department-of-energy:
-  display_name: "United States Department Of Energy"
+  display_name: "United States Department of Energy"
 united-states-department-of-health-and-human-services:
-  display_name: "United States Department Of Health And Human Services"
+  display_name: "United States Department of Health and Human Services"
 united-states-department-of-homeland-security:
-  display_name: "United States Department Of Homeland Security"
+  display_name: "United States Department of Homeland Security"
 united-states-department-of-housing-and-urban-development:
-  display_name: "United States Department Of Housing And Urban Development"
+  display_name: "United States Department of Housing and Urban Development"
 united-states-department-of-transportation:
-  display_name: "United States Department Of Transportation"
+  display_name: "United States Department of Transportation"
 united-states-geological-survey:
   display_name: "United States Geological Survey"
 united-states-navy:
   display_name: "United States Navy"
 united-states-office-of-personnel-management:
-  display_name: "United States Office Of Personnel Management"
+  display_name: "United States Office of Personnel Management"
 united-states-patent-and-trademark-office:
-  display_name: "United States Patent And Trademark Office"
+  display_name: "United States Patent and Trademark Office"
 united-states-postal-service:
   display_name: "United States Postal Service"
 us-fish-and-wildlife-service:
-  display_name: "U.S. Fish And Wildlife Service"
+  display_name: "U.S. Fish and Wildlife Service"
 us-web-design-standards:
   display_name: "U.S. Web Design Standards"
 usa-gov:
-  display_name: "usa.gov"
+  display_name: "USA.gov"
 usa-gov-federal-mobile-apps-directory:
-  display_name: "usa.gov Federal Mobile Apps Directory"
+  display_name: "USAGov Federal Mobile Apps Directory"
 usability:
   display_name: "Usability"
 usability-case-study:
@@ -1043,7 +1055,7 @@ usability-starter-kit:
 usability-testing:
   display_name: "Usability Testing"
 usagov:
-  display_name: "UsaGov"
+  display_name: "USAGov"
 usaid:
   display_name: "USAID"
 usajobs:
@@ -1059,7 +1071,7 @@ user-centered-design:
 user-experience:
   display_name: "User Experience"
 user-experience-community-of-practice:
-  display_name: "User Experience Community Of Practice"
+  display_name: "User Experience Community of Practice"
 user-generated-content:
   display_name: "User Generated Content"
 user-research:
@@ -1081,7 +1093,7 @@ ux:
 va:
   display_name: "VA"
 va-center-for-innovation:
-  display_name: "VA Center For Innovation"
+  display_name: "VA Center for Innovation"
 vaci:
   display_name: "VACI"
 veterans-health-administration:
@@ -1099,17 +1111,17 @@ virtual-augmented-reality-community:
 voice:
   display_name: "Voice"
 web-based:
-  display_name: "Web Based"
+  display_name: "Web-based"
 web-content-managers-forum:
   display_name: "Web Content Managers Forum"
 webinar:
   display_name: "Webinar"
 wednesday-api-briefing:
-  display_name: "Wednesday Api Briefing"
+  display_name: "Wednesday API Briefing"
 white-house:
   display_name: "White House"
 white-house-office-of-science-and-technology-policy:
-  display_name: "White House Office Of Science And Technology Policy"
+  display_name: "White House Office of Science and Technology Policy"
 wireless:
   display_name: "Wireless"
 work-in-progress:
@@ -1121,6 +1133,6 @@ world-bank:
 yelp:
   display_name: "Yelp"
 youtube:
-  display_name: "Youtube"
+  display_name: "YouTube"
 zero-ui:
   display_name: "Zero UI"

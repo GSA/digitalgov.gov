@@ -19,6 +19,7 @@ ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
   - "content/images/*"
+  - "content/_archived/*"
 # uncomment the following for a dev mode that excludes posts before 2017
   - "content/posts/201[0-6]"
 
@@ -65,6 +66,8 @@ taxonomies:
   tag                   : "tag"
   category              : "categories"
   author                : "authors"
+
+pluralizelisttitles     : false
 
 menu:
   primary:

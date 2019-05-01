@@ -1,6 +1,7 @@
 {{ with $.Scratch.Get "relatedCommunities" }}
 <div class="box">
-  <h4>Join the community</h4>
+  <h4>Join a community</h4>
+  <p class="sub-hed">Over 11,000 people are collaborating across government to make digital services better in government.</p>
   {{ range $community := . }}
     {{ range where (where $.Site.Pages "Section" "communities") "Params.uid" $community }}
       <div class="community-promo">
@@ -8,6 +9,6 @@
       </div>
     {{ end }}
   {{ end }}
-  <a href="{{ "communities" | absURL }}" rel="bookmark">All communities »</a>
+  <a href="{{ "communities" | absURL }}" rel="bookmark">See all communities »</a>
 </div>
 {{ end }}

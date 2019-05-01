@@ -5,15 +5,21 @@ date: 2013-11-17 11:12:13 -0400
 title: 'Communities of Practice'
 summary: 'Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.'
 
+aliases:
+  - /communities/community-solutions/
+
 ---
 
 ## Come together, learn from others in government
 
 Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.
 
-There are more than 10,000 people participating across government in 21 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
+There are more than 10,000 people participating across government in 22 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
 
 ### Our Communities
+
+**[Accessibility]({{< link "accessibility.md" >}})**: The IT Accessibility Community supports people in government who working to improve accessibility of information technology.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "accessibility.md" >}})
 
 **[Agile/Lean]({{< link "agile-lean.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "agile-lean.md" >}})
@@ -27,11 +33,8 @@ There are more than 10,000 people participating across government in 21 areas. O
 **[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
 
-**[Challenges & Prizes]({{< link "challenges-prizes.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.<br/>
+**[Challenges & Prizes]({{< link "challenges-prizes.md" >}})**: We encourage public participation in prize competitions to find innovative government solutions.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes.md" >}})
-
-**[Community Solutions]({{< link "community-solutions.md" >}})**: A community of federal staff that provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "community-solutions.md" >}})
 
 **[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "crowdsourcing-and-citizen-science.md" >}})
@@ -83,4 +86,4 @@ There are more than 10,000 people participating across government in 21 areas. O
 
 Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the [Freedom of Information Act](https://www.foia.gov/) (FOIA)._
 
-For more information on Communities, or to propose a new inter-agency group, please send an email to [Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
+For more information on Communities, or to propose a new inter-agency group, please send an email to [**digitalgov@gsa.gov**](mailto:digitalgov@gsa.gov?subject=Communities).

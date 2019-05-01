@@ -6,18 +6,20 @@ summary: 'When it comes to Web and software design, the pen(cil) is often mighti
 authors:
   - jonathan-rubin
 categories:
-  - Design
-  - Mobile
-  - UX
+  - design
+  - mobile
+  - ux
 tag:
   - DOL
   - federal user experience community
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile UX Guideline 4
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-4
   - prototype
   - usability
-  - user experience
+  - user-experience
+  - ux
+
 ---
 
 When it comes to Web and software design, the pen(cil) is often mightier than the Design Suite. What I mean is: Tech is cool, but don’t fall under its spell. It’s often when you remove the technological layers between you and your thoughts that the best ideas sprout.
@@ -38,7 +40,7 @@ This is a sample design I made for an idea for federal mobile app. It took exact
 
 All of a sudden, you’ve gone from a piece of paper to an experience you can lead someone through. Now, by creating multiple sheets for your customer to move through, you can conduct a quick but valuable usability test. Your customer (and you) start to understand the product better. They can see the layers and understand where they “are” in the whole thing. That’s very powerful. Once you know where you are, you know where you can do. Options start to come to mind. And people can form opinions about this new experience that they are having.
 
-The [Federal User Experience Program]({{< link "user-experience.md" >}} "Federal User Experience Community") and the [Mobile Gov Community of Practice]({{< link "categories/mobile" >}} "Mobile") recently held a Mobile Prototyping workshop where we taught people to list as many ideas as they could for a mobile app, and then start sketching some design ideas with markers. They started off rough, and quickly progressed into a series of images they gave to users to try. Very quickly, the design strengths and weaknesses revealed themselves.
+The [Federal User Experience Program]({{< link "user-experience.md" >}} "Federal User Experience Community") and the [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile") recently held a Mobile Prototyping workshop where we taught people to list as many ideas as they could for a mobile app, and then start sketching some design ideas with markers. They started off rough, and quickly progressed into a series of images they gave to users to try. Very quickly, the design strengths and weaknesses revealed themselves.
 
 {{< legacy-img src="2014/07/600-x-290-prototyp-3.jpg" alt="prototype 3" >}}
 

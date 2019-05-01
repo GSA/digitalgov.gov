@@ -1,12 +1,11 @@
 # DigitalGov.gov
 
-Hello!
-
 Welcome to our repository.
 
 ---
 
-#### Install
+
+## Install
 
 * `brew install hugo` for OSX
 * see https://gohugo.io/getting-started/installing/ for other OSs

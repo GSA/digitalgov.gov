@@ -174,13 +174,9 @@ Trillion (US English) = Billón (unidad seguida de doce ceros)
 
 ### Meaning of these terms in the [Diccionario de la Real Academia Española (DRAE)](http://www.rae.es/)
 
-Billón = Un millón de millones, que se expresa por la
+Billón = Un millón de millones, que se expresa por la unidad seguida de doce ceros. (DRAE)
 
-unidad seguida de doce ceros. (DRAE)
-
-Trillón = Un millón de billones, que se expresa por la
-
-unidad seguida de 18 ceros. (DRAE)
+Trillón = Un millón de billones, que se expresa por la unidad seguida de 18 ceros. (DRAE)
 
 ## Punctuation {#punctuation}
 
@@ -537,7 +533,9 @@ Each character and its code is listed below:
 
 ## Sources
 
-* [El Diccionario de la Real Academia Española](http://www.rae.es/). _National Association of Hispanic Journalists. Manual de estilo. Knight Ridder: Ann Arbor, c.2003. (Not available online)_
-* [Apuntes](http://www.apuntesonline.org/archivesmenu.html)
-* [Glosas, órgano informativo de la Comisión de Traducciones de la Academia Norteamericana de la Lengua Española](http://www.anle.us/)
+* [El Diccionario de la Real Academia Española](http://www.rae.es/). 
+
+* National Association of Hispanic Journalists. Manual de estilo. Knight Ridder: Ann Arbor, c.2003. (Not available online)
+
+* [Glosas, órgano informativo de la Comisión de Traducciones de la Academia Norteamericana de la Lengua Española](https://glosas.anle.us/)
 * [Errores ortotipográficos en la traducción al español](http://www.certifiedchinesetranslation.com/Spanish/ortotipo.html). Xosé Castro Roig y Lucía Rodríguez Corral, c.1999

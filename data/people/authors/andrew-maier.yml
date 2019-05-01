@@ -9,21 +9,21 @@ display_name: Andrew Maier
 first_name: Andrew
 last_name: Maier
 uid: andrew-maier
-email: ""
-bio: Andrew Maier is a User Experience Designer with 18F at GSA.
+email: "andrew.maier@gsa.gov"
+bio: "Andrew Maier is a designer and researcher with 18F"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: ''
+location: "Washington, DC"
 
 # Do you have a quote that you'd like to share on your profile?
 # [e.g. '']
-quote: ''
+quote: 'Central to any new order that can shape and direct technology and human destiny will be a renewed emphasis on the concept of justice.'
 
 # Your GitHub username [e.g. 'jeremyzilar']
-github: ''
+github: 'andrewmaier'
 
 # Your Twitter username [e.g. 'digital_gov']
-twitter: ''
+twitter: 'andrewmaier'
 
 # Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
-url: ''
+url: "https://civicquarterly.com"

@@ -29,13 +29,8 @@ cabinet:
     title         :
     agency        : Energy
 
-  - person        : Debra Harris
-    email         : Debra.Harris@hhs.gov
-    title         :
-    agency        : Health & Human Services (HHS)
-
-  - person        : Bill Trefzger
-    email         : william.trefzger@hhs.gov
+  - person        : Coqui Aspiazu
+    email         : Maria.Aspiazu@hhs.gov
     title         :
     agency        : Health & Human Services (HHS)
 
@@ -154,9 +149,9 @@ noncabinet:
     agency        : Corporation for National and Community Service
     email         : jlepage@cns.gov
 
-  - person        : Jessica Orquina
+  - person        : Christine Dibble
     agency        : Environmental Protection Agency (EPA)
-    email         : orquina.jessica@epamail.epa.gov
+    email         : Dibble.Christine@epa.gov
 
   - person        : Christine Nazer
     agency        : Equal Employment Opportunity Commission
@@ -330,15 +325,15 @@ noncabinet:
     agency        : Small Business Administration (SBA)
     email         : Natale.goriel@sba.gov
 
-  - person        : Natale Goriel
-    agency        : Small Business Administration (SBA)
-    email         : Natale.goriel@sba.gov
-
   - person        : Sarah Taylor Sulick
     agency        : Smithsonian Institution
     email         : socialmedia@si.edu
 
-  - person        : Wayne.R.Whitten
+  - person        : Kia Anderson (Social Media)
+    agency        : Social Security Administration (SSA)
+    email         : Kia.Anderson@ssa.gov
+
+  - person        : Wayne R. Whitten (Website)
     agency        : Social Security Administration (SSA)
     email         : Wayne.R.Whitten@ssa.gov
 
@@ -361,10 +356,6 @@ noncabinet:
   - person        : William Trumpbour
     agency        : U.S. Postal Service (USPS)
     email         : william.j.trumpbour@usps.gov
-
-  - person        : Brandy Osimokun
-    agency        : U.S. Postal Service (USPS)
-    email         : brandy.a.osimokun@usps.gov
 
   - person        : Brandy Osimokun
     agency        : U.S. Postal Service (USPS)

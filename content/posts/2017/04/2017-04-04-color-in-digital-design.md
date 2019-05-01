@@ -15,13 +15,14 @@ tag:
   - US Web Design Standards
   - user experience
   - User Experience Community of Practice
+  - USPTO
   - UX
   - Web Content Managers Forum
 ---
 
 How do we choose color in digital design? In print, we have the Pantone fan and what you see is what you get — as long as your printer is color calibrated. With computer monitors, one does not get such precision, even within one office. So how much time and effort do you spend on color selection? What you select could be your agency or office standard for the next five, ten or one hundred years! No pressure.
 
-{{< legacy-img src="2017/04/600-x-461-Boutet\_1708\_color_circles.jpg" alt="Claude Boutet’s 7-color and 12-color color wheels." >}}
+{{< legacy-img src="2017/04/600-x-461-Boutet_1708_color_circles.jpg" alt="Claude Boutet’s 7-color and 12-color color wheels." caption="By C. B. (probably Claude Boutet or it's editor, Christophe Ballard[1]) [Public domain], via Wikimedia Commons" >}}
 
 Remember the colors of the box of your favorite cereal? Of course you do, even if it’s from when you were a kid. If the color changed next week, you wouldn’t recognize it; you would have trouble finding it in the cereal aisle and might even ask someone in the store for assistance. Well, website and online apps work much the same way. So, choosing colors that will last is highly important.
 

@@ -15,7 +15,12 @@
           {{ .Title | markdownify }}
         </h1>
 
+        {{ if .Params.deck }}
+        <h2 class="deck">{{ .Params.deck | markdownify }}</h2>
+        {{ end }}
+
         {{ partial "post-meta" . }}
+        
         <!-- Go to www.addthis.com/dashboard to customize your tools -->
         <div class="addthis_inline_share_toolbox"></div>
 

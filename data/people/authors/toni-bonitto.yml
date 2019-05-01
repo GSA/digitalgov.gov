@@ -1,0 +1,32 @@
+# Welcome to your profile settings on digital.gov
+# Feel free to make edits to your profile.
+# - Your profile can be viewed at http://digital.gov/authors/[uid]
+# - See all authors http://digital.gov/authors/
+#
+# Reach out to digitalgov@gsa.gov if you need assistance.
+
+display_name: Toni Bonitto
+first_name: Toni
+last_name: Bonitto
+uid: toni-bonitto
+email: toni.bonitto@gsa.gov
+linkedin: bonitto
+
+# Tell us about yourself! Keep it to 1-2 sentences.
+bio: "New to government, Toni spent most of her tech career in New York, New Jersey, and Florida in the private and nonprofit sectors. She now serves as an Innovation Specialist for DigitalGov in the Technology Transformation Service at GSA's headquarters in Washington, DC."
+
+# Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
+location: "Washington, DC"
+
+# Do you have a quote that you'd like to share on your profile?
+# [e.g. '']
+quote: "Observe and retain."
+
+# Your GitHub username [e.g. 'jeremyzilar']
+github: 'ToniBonittoGSA'
+
+# Your Twitter username [e.g. 'digital_gov']
+twitter: 'Digital_Gov'
+
+# Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
+url: 'https://digital.gov/about/'

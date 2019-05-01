@@ -15,17 +15,24 @@ registration_url: https://www.eventbrite.com/e/dap-learning-series-creating-goal
 youtube_id: -x7LoXw7vHc
 aliases:
   - /event/dap-learning-series-creating-goals-conversions/
+categories:
+  - metrics
+tag:
+  - analytics
+  - dap
+  - digital-analytics-program
+
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._
 
-For the existence of DAP so far, we’ve not used the Goals feature because each agency view is limited to 20 slots. We’ve decided to change that policy and open up Goals to agency users! In this training, we’ll show you what Goals are and what they can offer, plus describe the process we’re putting in place to use Goals. Tune in for a whole new world of opportunity!
+In this training, we’ll show you what goals are and what they can offer, plus show you how to use goals to see conversions in various reports in your independent Google Analytics accounts. Tune in for a whole new world of opportunity!
 
 You’ll learn:
 
-- What Goals are and what value they add
-- About the different types of Goals
-- How to apply for a Goal slot in your agency view
+- What goals are and what value they add
+- About the different types of goals
+- How to use the conversions metrics in various reports
 
 ---
 

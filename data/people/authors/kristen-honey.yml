@@ -5,27 +5,27 @@
 # 
 # Reach out to digitalgov@gsa.gov if you need assistance.
 
-display_name: Kristen Honey
+display_name: Kristen Honey, PhD
 first_name: Kristen
 last_name: Honey
 uid: kristen-honey
-email: Kristen_T_Honey@ostp.eop.gov
+email: khoney@omb.eop.gov
 
 # Tell us about yourself! Keep it to 1-2 sentences.
-bio: ''
+bio: "Kristen Honey, PhD, PMP is an Innovator in Residence with the HHS Office of the Chief Technology Officer, U.S. Department of Health and Human Services (HHS)."
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: ''
+location: 'Washington, DC'
 
 # Do you have a quote that you'd like to share on your profile?
 # [e.g. '']
 quote: ''
 
 # Your GitHub username [e.g. 'jeremyzilar']
-github: ''
+github: 'KristenHoney'
 
 # Your Twitter username [e.g. 'digital_gov']
-twitter: ''
+twitter: 'khoney'
 
 # Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
-url: ''
+url: 'https://www.hhs.gov/about/agencies/cto/'

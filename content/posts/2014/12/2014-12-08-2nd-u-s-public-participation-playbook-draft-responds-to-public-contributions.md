@@ -100,7 +100,7 @@ Effective comments are “actionable,” meaning easy to place in context and ev
 
 More than just effective comments, we&#8217;re working to improve our standard for effective responses.
 
-For example, private-sector mobile expert Sean McDonald of FrontlineSMS contributed nine suggestions addressing mobile development in public participation. In response, Jacob Parcell, <a href="{{< link "categories/mobile" >}}" target="_blank">MobileGov Community</a> lead, responded to his comment on Madison, then incorporated the feedback into the most current draft. Eventually, we will want all collaborations in the resource that transparent as we improve the process, as illustrated:
+For example, private-sector mobile expert Sean McDonald of FrontlineSMS contributed nine suggestions addressing mobile development in public participation. In response, Jacob Parcell, <a href="{{< link "mobilegov.md" >}}" target="_blank">MobileGov Community</a> lead, responded to his comment on Madison, then incorporated the feedback into the most current draft. Eventually, we will want all collaborations in the resource that transparent as we improve the process, as illustrated:
 
 [{{< legacy-img src="2014/12/Madison-Example-600px.jpg" alt="Madison Example 600px" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/Madison-Example-600px.jpg)
 
@@ -124,260 +124,132 @@ Part of designing collaboration into the DNA of the playbook is not just creatin
 
 ## U.S. Public Participation Playbook Working Group Members
 
-U.S. Food and Drug Administration, Office of Women&#8217;s Health
-  
-Alison Lemon
-
-Office of the Director of National Intelligence
-  
-Alla Goldman
-
-General Services Administration, DigitalGov Search
-  
-Ammie Farraj Feijoo
-
-General Services Administration, Office of DigitalGov
-  
-Ashley Wichman
-
-First Responder Network Authority
-  
-Bernetta Reese
-
-Federal Communications Commission
-  
-Brittany Stevenson
-
-Environmental Protection Agency
-  
-Bryant Crowe
-
-White House Office of Science and Technology Policy
-  
-Charles Worthington
-
-International Trade Administration
-  
-Chris Higginbotham
-
-U.S. Coast Guard
-  
-Christopher Lagan
-
-General Services Administration, sites.USA.gov
-  
-Coqui Aspiazu
-
-Department of State, Consular Affairs
-  
-Corina Dubois
-
-White House Office of Science and Technology Policy
-  
-Corinna Zarek
-
-Navy Army Community Credit Union
-  
-Crystal Deleon
-
-Department of Transportation
-  
-Daniel Morgan
-
-U.S. Fish and Wildlife Service
-  
-Danielle Brigida
-
-National Library of Medicine
-  
-David Hale
-
-Federal Communications Commission
-  
-Deanna Stephens
-
-General Services Administration, Emerging Leaders Program
-  
-Daniel Kenny
-
-Federal Communications Commission
-  
-Dr. David A. Bray
-
-U.S. Peace Corps
-  
-Emily Dulcan
-
-U.S. Global Change Research Program
-  
-Emily Therese Cloyd
-
-General Services Administration, 18F
-  
-Eric Mill
-
-General Services Administration, 18F
-  
-Gray Brooks
-
-General Services Administration, Office of DigitalGov
-  
-Gwynne Kostin
-
-U.S. Small Business Administration
-  
-Jack Bienko
-
-General Services Administration, Office of DigitalGov
-  
-Jacob Parcell
-
-Department of Commerce
-  
-Jacque Mason
-
-Library of Congress
-  
-Jamie Stevenson
-
-Environmental Protection Agency
-  
-Jay Davis
-
-NASA
-  
-Jeanne Holm
-
-General Services Administration, USA.gov
-  
-Jessica Milcetich
-
-Department of State, Information Assurance Branch
-  
-Jody Bennett
-
-General Services Administration, Office of DigitalGov
-  
-Justin Herman
-
-Department of State, Office of Emergency Management
-  
-Kate E. Bitely
-
-National Park Service
-  
-Kathleen Camarda (former employee)
-
-Department of Labor, Office of Disability Employment Policy
-  
-Katia Albanese
-
-Defense Commissary Agency
-  
-Kirsten O&#8217;Nell
-
-National Parks Service
-  
-Laura Cohen
-
-General Services Administration, GobiernoUSA.gov
-  
-Laura Godfrey
-
-Department of Homeland Security
-  
-Lindsey Backhaus
-
-U.S. Census Bureau
-  
-Logan Powell
-
-U.S. Army, Conflict Resolution & Public Participation Center of Expertise
-  
-Maria Lantz
-
-Defense Logistics Agency
-  
-Mason Lowery
-
-Department of Labor, Office of Disability Employment Policy
-  
-Michael Reardon
-
-Office of the Director of National Intelligence
-  
-Michael Thomas
-
-Smithsonian Institution
-  
-Miranda Gale
-
-General Services Administration
-  
-Monica Fitzgerald
-
-White House Office of Management and Budget
-  
-Nicholas Fraser
-
-Department of Education
-  
-Nicole Callahan
-
-Department of State, Consular Affairs
-  
-Nicole Stillwell
-
-General Services Administration, 18F
-  
-Noah Kunin
-
-Federal Aviation Administration
-  
-Paul Cianciolo
-
-Federal Communications Commission
-  
-Priscilla Silva (former employee)
-
-General Services Administration, Office of DigitalGov
-  
-Rachel Flagg
-
-Department of State, Educational and Cultural Affairs
-  
-Rebecca Ramspott
-
-General Services Administration, Data.gov
-  
-Rebecca Williams
-
-Environmental Protection Agency
-  
-Robert Burchard
-
-Department of Labor
-  
-Robin Ackerman
-
-White House Office of Science and Technology Policy
-  
-Ryan Panchadsaram
-
-Department of State, Consular Affairs
-  
-Sara Stealy
-
-U.S. Geological Survey
-  
-Scott Horvath
-
-National Institutes of Health
-  
-Scott Prince
-
-National Defense University
-  
-Veronica Wendt
-
- _Justin Herman is the <a href="{{< link "social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please contact him via [email](mailto:justin.herman@gsa.gov "Email Justin Herman")._
+Alison Lemon, U.S. Food and Drug Administration, Office of Women&#8217;s Health
+
+Alla Goldman, Office of the Director of National Intelligence
+
+Ammie Farraj Feijoo, General Services Administration, DigitalGov Search
+
+Ashley Wichman, General Services Administration, Office of DigitalGov
+
+Bernetta Reese, First Responder Network Authority
+
+Brittany Stevenson, Federal Communications Commission
+
+Bryant Crowe, Environmental Protection Agency
+
+Charles Worthington, White House Office of Science and Technology Policy
+
+Chris Higginbotham, International Trade Administration
+
+Christopher Lagan, U.S. Coast Guard
+
+Coqui Aspiazu, General Services Administration, sites.USA.gov
+
+Corina Dubois, Department of State, Consular Affairs
+
+Corinna Zarek, White House Office of Science and Technology Policy
+
+Crystal Deleon, Navy Army Community Credit Union
+
+Daniel Morgan, Department of Transportation
+
+Danielle Brigida, U.S. Fish and Wildlife Service
+
+David Hale, National Library of Medicine
+
+Deanna Stephens, Federal Communications Commission
+
+Daniel Kenny, General Services Administration, Emerging Leaders Program
+
+Dr. David A. Bray, Federal Communications Commission
+
+Emily Dulcan, U.S. Peace Corps
+
+Emily Therese Cloyd, U.S. Global Change Research Program
+
+Eric Mill, General Services Administration, 18F
+
+Gray Brooks, General Services Administration, 18F
+
+Gwynne Kostin, General Services Administration, Office of DigitalGov
+
+Jack Bienko, U.S. Small Business Administration
+
+Jacob Parcell, General Services Administration, Office of DigitalGov
+
+Jacque Mason, Department of Commerce
+
+Jamie Stevenson, Library of Congress
+
+Jay Davis, Environmental Protection Agency
+
+Jeanne Holm, NASA 
+
+Jessica Milcetich, General Services Administration, USA.gov
+
+Jody Bennett, Department of State, Information Assurance Branch
+
+Justin Herman, General Services Administration, Office of DigitalGov
+
+Kate E. Bitely, Department of State, Office of Emergency Management
+
+Kathleen Camarda (former employee), National Park Service
+
+Katia Albanese, Department of Labor, Office of Disability Employment Policy
+
+Kirsten O&#8217;Nell, Defense Commissary Agency
+
+Laura Cohen, National Parks Service
+
+Laura Godfrey, General Services Administration, USAGov en Espa&#241;ol (_formerly known as GobiernoUSA.gov_)
+
+Lindsey Backhaus, Department of Homeland Security
+
+Logan Powell, U.S. Census Bureau
+
+Maria Lantz, U.S. Army, Conflict Resolution & Public Participation Center of Expertise
+
+Mason Lowery, Defense Logistics Agency
+
+Michael Reardon, Department of Labor, Office of Disability Employment Policy
+
+Michael Thomas, Office of the Director of National Intelligence
+
+Miranda Gale, Smithsonian Institution
+
+Monica Fitzgerald, General Services Administration
+
+Nicholas Fraser, White House Office of Management and Budget
+
+Nicole Callahan, Department of Education
+
+Nicole Stillwell, Department of State, Consular Affairs
+
+Noah Kunin, General Services Administration, 18F
+
+Paul Cianciolo, Federal Aviation Administration
+
+Priscilla Silva (former employee), Federal Communications Commission
+
+Rachel Flagg, General Services Administration, Office of DigitalGov
+
+Rebecca Ramspott, Department of State, Educational and Cultural Affairs
+
+Rebecca Williams, General Services Administration, Data.gov
+
+Robert Burchard, Environmental Protection Agency
+
+Robin Ackerman, Department of Labor
+
+Ryan Panchadsaram, White House Office of Science and Technology Policy
+
+Sara Stealy, Department of State, Consular Affairs
+
+Scott Horvath, U.S. Geological Survey
+
+Scott Prince, National Institutes of Health
+
+Veronica Wendt, National Defense University
+
+<em>Justin Herman is the <a href="{{< link "social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>

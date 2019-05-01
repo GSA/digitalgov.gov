@@ -22,6 +22,17 @@ venue:
   zip: 20405
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
+categories:
+  - emerging-tech
+tag:
+  - ai
+  - artificial-intelligence
+  - artificial-intelligence-for-citizen-services-community
+  - automation
+  - augmented-reality
+  - federal-blockchain-community
+  - virtual-augmented-reality-community
+  - virtual-reality
 
 ---
 

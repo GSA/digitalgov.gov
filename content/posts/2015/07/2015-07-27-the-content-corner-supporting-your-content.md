@@ -4,7 +4,7 @@ date: 2015-07-27 10:18:44 -0400
 title: 'The Content Corner: Supporting Your Content'
 summary: 'This column revolves mostly around content creation and strategy, but an overlooked part of the content lifecycle is helping people find your content. Your content is made to be seen and without planning for promotion, it may never be found. The methods available to you may vary (wildly) at your agency, so remember your mileage may'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
 tag:

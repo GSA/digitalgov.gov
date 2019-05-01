@@ -2,7 +2,7 @@
 slug: how-to-make-a-mobile-paper-prototype
 date: 2014-05-22 13:00:44 -0400
 title: How to Make a Mobile Paper Prototype
-summary: 'What if a single piece of paper could make your mobile app work 20% better? It’s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it’s true. Well before we get into the design and coding phases, we can show customers'
+summary: 'What if a single piece of paper could make your mobile app work 20 percent better? It’s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it’s true. Well before we get into the design and coding phases, we can show customers'
 authors:
   - jonathan-rubin
 categories:
@@ -20,19 +20,19 @@ tag:
   - user experience
 ---
 
-What if a single piece of paper could make your mobile app work 20% better?
+What if a single piece of paper could make your mobile app work 20 percent better?
 
 {{< legacy-img src="2014/05/Mobile-Paper-Prototype-phone-screenshot-May-20th-2014-759am.jpg" alt="Mobile Paper Prototype phone screenshot" >}}
 
 It’s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it’s true. Well before we get into the design and coding phases, we can show customers a mockup of an idea of what our product might look like. It’s called a [prototype](http://www.usability.gov/how-to-and-tools/methods/prototyping.html) (or a wireframe)—it’s a model of a design that’s still in development. It doesn&#8217;t need to be fancy, or even made on a computer. But it can make the difference between a product that looks good and one that people will actually use.
 
-The essence of [Mobile User Experience]({{< link "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" >}}) is getting into your customer’s heads and finding out if what you’re doing meets expectations and helps people reach their goals. Mobile prototypes give you early-stage feedback when ideas are still fluid and you can still make significant changes to your design. As Frank Lloyd Wright said, “You can fix it now on the drafting board with an eraser, or you can fix it later with a sledgehammer.” Good things to test in early prototypes are navigation, labels, content organization, Web forms and interactive elements.
+The essence of [Mobile User Experience]({{< link "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" >}}) is getting into your customer’s heads and finding out if what you’re doing meets expectations and helps people reach their goals. Mobile prototypes give you early-stage feedback when ideas are still fluid and you can still make significant changes to your design. As architect Frank Lloyd Wright said, “You can fix it now on the drafting board with an eraser, or you can fix it later with a sledgehammer.” Good things to test in early prototypes are navigation, labels, content organization, Web forms and interactive elements.
 
 There are lots of [mobile prototyping tools](https://www.google.com/search?q=digital+mobile+prototype&oq=digital+mobile+prototype&aqs=chrome..69i57j69i64l2.4607j0j7&sourceid=chrome&es_sm=93&ie=UTF-8#q=mobile+prototype+tool&safe=active) out there (both free and paid) to make a digital mockup, but paper prototyping requires zero tech skills and can be done very quickly.
 
 **Paper Prototyping for Mobile**
 
-Michelle Chronister works on the USA.gov team at the U.S. General Services Administration (GSA). She and her team were trying to enhance their site (and their Spanish counterpart [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/)) and wanted to see how their designs would work on desktop, mobile and tablets. They wanted to get customer feedback early, and see if they were going in the right direction.
+Michelle Chronister works on the USA.gov team at the U.S. General Services Administration (GSA). She and her team were trying to enhance their site (and their Spanish counterpart, [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) &#91;_formerly known as GobiernoUSA.gov_&#93;) and wanted to see how their designs would work on desktop, mobile and tablets. They wanted to get customer feedback early, and see if they were going in the right direction.
 
 So Michelle built a clever (and free!) paper prototype of her mobile sites out of things she found in her office supply room. She printed out early designs of her sites, and created a “mobile viewer” where a user could interact with them.
 

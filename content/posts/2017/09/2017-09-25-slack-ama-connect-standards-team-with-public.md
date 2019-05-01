@@ -6,7 +6,7 @@ summary: 'The Standards team hosted their first AMA (Ask Me Anything) with the p
 authors:
   - john-donmoyer
   - marco-segreto
-  - will-sullivan
+  - wsullivan
   - ryan-thurlwell
   - atul-varma
 featured_image:
@@ -78,7 +78,7 @@ Many groups have taken the Standards and extended them for this purpose, so one 
 
 ### Have you given any thoughts to including the individual elements (like the Fractal site) with the bundled zip releases?
 
-One challenge in including these elements is that there isn't any widely-accepted technology for doing HTML markup. The Fractal guide uses Nunjucks as an internal tool to ensure the Standards are working properly. There's no real "standard" here so it's very difficult to offer a solution that helps everyone.  
+One challenge in including these elements is that there isn't any widely-accepted technology for doing HTML markup. The Fractal guide uses Nunjucks as an internal tool to ensure the Standards are working properly. There's no real "standard" here so it's very difficult to offer a solution that helps everyone.
 
 But, third parties are welcome to build tooling for this, and some of the core developers even made our own "third-party" packages that are separate from the core Standards. For example, past and current members built a Jekyll theme and a Python package that integrates the Standards with Django Forms.
 

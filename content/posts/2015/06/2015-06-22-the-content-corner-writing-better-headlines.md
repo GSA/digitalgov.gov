@@ -4,7 +4,7 @@ date: 2015-06-22 10:00:49 -0400
 title: 'The Content Corner: Writing Better Headlines'
 summary: 'The clarity of a headline or title plays a critical role in whether your content is ever seen and read by your customers. As the battle for eyeballs continues to escalate, digital media providers seem to be resorting more and more to &ldquo;clickbait&rdquo; titles and headlines. However, as with all forms of overused marketing, consumers'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
 tag:

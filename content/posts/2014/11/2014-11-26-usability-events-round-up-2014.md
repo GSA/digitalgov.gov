@@ -6,17 +6,17 @@ summary: 'This past year DigitalGov University has hosted at least one Usability
 authors:
   - apiazza
 categories:
-  - Monthly Theme
-  - UX
+  - monthly-theme
+  - ux
 tag:
-  - DGU
-  - DigitalGov User Experience Program
-  - federal user experience community
-  - Recaps
+  - dgu
+  - digitalgov-user-experience-program
+  - user-experience-community-of-practice
+  - recaps
   - usability
-  - usability testing
-  - user experience
-  - UX
+  - usability-testing
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2014/11/600-x-316-Usability-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-468906877.jpg" alt="Usability concept in tag cloud" caption="" >}} 

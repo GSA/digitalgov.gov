@@ -6,29 +6,33 @@ summary: 'Resources like Theresa Neil’s Mobile Design Product Gallery book and
 authors:
   - katie-steffy
 categories:
-  - Mobile
-  - UX
+  - mobile
+  - ux
 tag:
-  - CDC
-  - Centers for Disease Control and Prevention
-  - federal user experience community
-  - GPS
-  - HHS
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - user-experience-community-of-practice
+  - gps
+  - hhs
   - Library of Congress
-  - LOC
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 3
-  - NPS
-  - Smithsonian Institution
-  - US Department of Education
-  - US National Park Service
-  - United States Department of Health and Human Services
-  - user experience
+  - loc
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-3
+  - nps
+  - smithsonian-institution
+  - us-department-of-education
+  - us-national-park-service
+  - united-states-department-of-health-and-human-services
+  - user-experience
+  - ux
+
 ---
 
-{{< legacy-img src="2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" >}}Resources like Theresa Neil’s [Mobile Design Product Gallery](http://mobiledesignpatterngallery.com/index.php) book and [Mobile-patterns.com](http://www.mobile-patterns.com) describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week’s [Trends on Tuesday]({{< link "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}), customizing apps to meet users’ needs is a crucial part in maximizing user experience. Today, we wanted to highlight how some agencies are implementing search, maps & geolocation and custom navigation to better their mobile product’s user experience.
+{{< legacy-img src="2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" >}}
+
+Resources like Theresa Neil’s [Mobile Design Product Gallery](http://mobiledesignpatterngallery.com/index.php) book and [Mobile-patterns.com](http://www.mobile-patterns.com) describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week’s [Trends on Tuesday]({{< link "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}), customizing apps to meet users’ needs is a crucial part in maximizing user experience. Today, we wanted to highlight how some agencies are implementing search, maps & geolocation and custom navigation to better their mobile product’s user experience.
 
   * **Search** 
       * [Healthy Swimming](http://apps.usa.gov/healthy-swimming.shtml): Not only can users search among the content provided by the Centers for Disease Control and Prevention, they can search through highlighted text or any notes they took. This provides ease of access to key information in a pinch, when the user needs it most.
@@ -42,6 +46,4 @@ tag:
 
 These are great examples of implementations of government user experience. How can your mobile applications implement features like these to heighten user experience? There are more than [40 mobile user experience guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}) agencies can follow.
 
-In fact, the [Mobile Gov Community of Practice]({{< link "categories/mobile" >}}) and the [Federal User Experience Community]({{< link "user-experience.md" >}}) want your input at our [Mobile Gov Workshop: Help Expand the Mobile User Experience Guidelines]({{< tmp "events/mobilegov-workshop-help-expand-the-mobile-user-experience-guidelines.md" >}}) on Monday, August 4th. Help us move [our guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}) forward so we can help you further user experience in your own mobile apps!
-
- 
+In fact, the [MobileGov Community of Practice]({{< link "mobilegov.md" >}}) and the [Federal User Experience Community]({{< link "user-experience.md" >}}) want your input at our [Mobile Gov Workshop: Help Expand the Mobile User Experience Guidelines]({{< tmp "events/mobilegov-workshop-help-expand-the-mobile-user-experience-guidelines.md" >}}) on Monday, August 4th. Help us move [our guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}) forward so we can help you further user experience in your own mobile apps! 

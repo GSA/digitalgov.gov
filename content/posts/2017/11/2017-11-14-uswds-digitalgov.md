@@ -6,8 +6,8 @@ summary: 'We’re excited to announce that the U.S. Web Design Standards team ha
 authors:
   - jeremyzilar
 tag:
-  - uswds
   - digitalgov
+  - uswds
 featured_image:
   uid: tile-4
   alt: 'U.S. Web Design Standards'

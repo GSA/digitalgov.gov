@@ -4,7 +4,7 @@ date: 2014-09-15 10:00:25 -0400
 title: 'Helpful Hints: Writing RFPs So Real Businesses Can Respond'
 summary: 'If you have a hand in contracts for crowdsourcing initiatives and challenge and prize competitions, here are some helpful hints for you. We&#8217;ve gathered this list from the expert businesses that provide competition services. Haven&#8217;t heard about that? See GSA Schedule 541-4G. Background: Over the last two years, competition providers and consultants have become more'
 authors:
-  - tmarcoullier
+  - tammi-marcoullier
 categories:
   - Challenges
 tag:

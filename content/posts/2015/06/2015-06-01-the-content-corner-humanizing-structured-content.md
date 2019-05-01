@@ -4,7 +4,7 @@ date: 2015-06-01 10:00:43 -0400
 title: 'The Content Corner: Humanizing Structured Content'
 summary: 'Over the past several years, DigitalGov has been extremely focused on structured content, content models, and their role in future-ready content (and rightly so). A shift of focus back to the content itself as opposed to where it will be published is critical for agencies as we aim to reach as many customers as possible, regardless of'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
 tag:

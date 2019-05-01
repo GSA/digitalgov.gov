@@ -4,7 +4,7 @@ date: 2016-02-01 10:00:28 -0400
 title: 'The Content Corner: Four Ways to Help Your Content Stand Out'
 summary: 'When discussing trends for 2016, I made some mention of the content overload that started in 2015 but will certainly increase in 2016. Contently recently found that organizations created 73% more content in 2015 than in 2014. I see no reason why that number will decline in 2016, especially as content becomes the beast of'
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
   - Video

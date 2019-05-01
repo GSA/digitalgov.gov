@@ -1,6 +1,6 @@
 ---
 slug: getting-started-with-uswds-20
-title: 'Getting started with USWDS 2.0'
+title: 'Getting Started with USWDS 2.0'
 summary: 'The U.S. Web Design System team will show you how to get started with USWDS 2.0: how to set up your project colors, fonts, and more.'
 featured_image:
   uid: getting-started-with-uswds-2
@@ -12,11 +12,22 @@ date: 2018-08-24 13:00:00 -0500
 end_date: 2018-08-24 13:30:00 -0500
 event_organizer: digital.gov
 host: U.S. Web Design System
+youtube_id: yo5bsqixpNU
 registration_url: https://www.eventbrite.com/e/august-us-web-design-system-monthly-call-getting-started-with-uswds-20-tickets-47179708779
+categories:
+  - accessibility
+  - code
+  - design
+  - ux
+tag:
+  - accessibility
+  - user-centered-design
+  - user-experience
+  - uswds
+  - us-web-design-standards
+  - ux
 
 ---
-
-{{< img src="getting-started-with-uswds-2" >}}
 
 Join us for our next monthly call on **Friday, August 24, 2018 at 1:00 pm ET / 10:00 am PT** for our monthly conversation with fellow designers and developers across the government.
 

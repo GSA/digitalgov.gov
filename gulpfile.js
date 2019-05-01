@@ -5,13 +5,15 @@ var gulp          = require("gulp"),
     vinylPaths    = require('vinyl-paths'),
     replace       = require("gulp-replace-name"),
     sass          = require("gulp-sass"),
-    autoprefixer  = require("gulp-autoprefixer"),
+    autoprefixer  = require("autoprefixer"),
     hash          = require("gulp-hash"),
     del           = require("del"),
     concat        = require('gulp-concat'),
     cleanCSS      = require('gulp-clean-css'),
-    cssnano       = require('gulp-cssnano'),
+    cssnano       = require('cssnano'),
     sourcemaps    = require('gulp-sourcemaps'),
+    postcss       = require('gulp-postcss'),
+    mqpacker      = require('css-mqpacker'),
     combineMq     = require('gulp-combine-mq'),
     strip         = require('gulp-strip-css-comments'),
     bless         = require('gulp-bless'),
@@ -30,9 +32,6 @@ var gulp          = require("gulp"),
                   },
     s3            = require('gulp-s3-upload')(s3config),
     cp            = require('child_process');
-
-const USWDS_DIST = 'node_modules/uswds/dist';
-const USWDS_DIST_DIR = path.join(__dirname, ...USWDS_DIST.split('/'));
 
 
 gulp.task("file-tidy", function (done) {
@@ -54,9 +53,9 @@ gulp.task("file-tidy", function (done) {
     .pipe(gulp.dest("content/images/_working/to-process/"))
 });
 
-gulp.task("clean-inbox", ["file-tidy"], function (done) {
+gulp.task("clean-inbox", gulp.series('file-tidy', function(done){
   return del(['content/images/_inbox/**', '!content/images/_inbox', '!content/images/_inbox/__add jpg and png files to this folder__']);
-});
+}));
 
 
 function get_curr_date(){
@@ -103,14 +102,16 @@ function get_image_sq(path){
   return sq_dim;
 }
 
-gulp.task("img-variants", ["clean-inbox"], function (done) {
+gulp.task("img-variants", gulp.series('clean-inbox', function (done) {
   return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}")
     // Create responsive variants
     .pipe(tap(function (file) {
       var uid = get_image_uid(file.path);
       var format = get_image_format(file.path);
       var dimensions = sizeOf(file.path);
-      fs.writeFile('data/images/'+ uid +'.yml', get_image_data(uid, dimensions.width, dimensions.height, format));
+      fs.writeFile('data/images/'+ uid +'.yml', get_image_data(uid, dimensions.width, dimensions.height, format), function(){
+        console.log('image written');
+      });
     }))
     // Create responsive variants
       .pipe(responsive({
@@ -326,9 +327,9 @@ gulp.task("img-variants", ["clean-inbox"], function (done) {
     }))
     .pipe(vinylPaths(del))
     .pipe(gulp.dest("content/images/_working/processed/"));
-});
+}));
 
-gulp.task("upload", ["img-variants"], function (done) {
+gulp.task("upload", gulp.series('img-variants', function (done) {
   return gulp.src("content/images/_working/processed/**/*")
     .pipe(s3({
       Bucket: 'digitalgov',   //  Required
@@ -340,7 +341,7 @@ gulp.task("upload", ["img-variants"], function (done) {
 
     .pipe(vinylPaths(del))
     .pipe(gulp.dest("content/images/_working/uploaded/"));
-});
+}));
 
 
 // gulp.task('log', ["upload"], function (cb) {
@@ -350,7 +351,7 @@ gulp.task("upload", ["img-variants"], function (done) {
 //     }))
 // });
 
-gulp.task("proxy", ["upload"], function (done) {
+gulp.task("proxy", gulp.series('upload', function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
   return gulp.src("content/images/_working/originals/*.{png,jpg}")
@@ -395,66 +396,66 @@ gulp.task("proxy", ["upload"], function (done) {
       silent: true,
     }))
     .pipe(gulp.dest("static/img/proxy/"));
-});
+}));
 
-gulp.task("done", ["proxy"], function (done) {
+gulp.task("done", gulp.series('proxy', function (done) {
   return gulp.src("content/images/_working/originals/*")
     .pipe(gulp.dest("content/images/uploaded/"));
-});
+}));
 
-gulp.task("cleanup", ["done"], function (done) {
+gulp.task("cleanup", gulp.series('done', function (done) {
   return del(['content/images/_working/**']);
-});
+}));
 
-gulp.task("process-img", ["cleanup"], function () {});
+gulp.task("process-img", gulp.series('cleanup', function () {}));
 
 
 // - - - - - - - - - - - - - - - - -
 // Build USWDS styles
 
-gulp.task('copy-uswds-assets', () => {
-  return gulp.src(`${USWDS_DIST}/@(js|fonts|img)/**/**`)
-  .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds'));
-});
+// gulp.task('copy-uswds-assets', () => {
+//   return gulp.src(`${USWDS_DIST}/@(js|fonts|img)/**/**`)
+//   .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds'));
+// });
 
-gulp.task('sass', function (done) {
-  return gulp.src('./themes/digital.gov/src/sass/**/*.scss')
-    .pipe(sourcemaps.init())
-    .pipe(sass({
-      includePaths: [
-        path.join(USWDS_DIST_DIR, 'scss'),
-      ]
-    }).on('error', sass.logError))
-    .pipe(
-      autoprefixer({
-        browsers: [
-          '> 1%',
-          'Last 2 versions',
-          'IE 11',
-          'IE 10',
-          'IE 9',
-        ],
-        cascade: false,
-      }))
-    .pipe(cssnano({
-      safe: true,
-      // XXX see https://github.com/ben-eb/cssnano/issues/340
-      mergeRules: false,
-    }))
-    .pipe(rename({
-      suffix: '.min',
-    }))
-    .pipe(sourcemaps.write())
-    .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'));
-});
+// gulp.task('sass', function (done) {
+//   return gulp.src('./themes/digital.gov/src/sass/**/*.scss')
+//     .pipe(sourcemaps.init())
+//     .pipe(sass({
+//       includePaths: [
+//         path.join(USWDS_DIST_DIR, 'scss'),
+//       ]
+//     }).on('error', sass.logError))
+//     .pipe(
+//       autoprefixer({
+//         browsers: [
+//           '> 1%',
+//           'Last 2 versions',
+//           'IE 11',
+//           'IE 10',
+//           'IE 9',
+//         ],
+//         cascade: false,
+//       }))
+//     .pipe(cssnano({
+//       safe: true,
+//       // XXX see https://github.com/ben-eb/cssnano/issues/340
+//       mergeRules: false,
+//     }))
+//     .pipe(rename({
+//       suffix: '.min',
+//     }))
+//     .pipe(sourcemaps.write())
+//     .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'));
+// });
 
 
-// - - - - - - - - - - - - - - - - -
-gulp.task("watch", function () {
-  gulp.watch('./themes/digital.gov/src/sass/**/*.scss', ['sass']);
-})
+// // - - - - - - - - - - - - - - - - -
+// gulp.task("watch", function () {
+//   gulp.watch('./themes/digital.gov/src/sass/**/*.scss', ['sass']);
+// })
 
 
 // - - - - - - - - - - - - - - - - -
 // Set watch as default task
-gulp.task('default', ['watch', 'sass', 'copy-uswds-assets']);
+gulp.task('default', gulp.series('watch', 'sass', 'copy-uswds-assets'));

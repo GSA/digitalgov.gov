@@ -4,7 +4,7 @@ date: 2015-11-02 10:13:29 -0400
 title: 'The Content Corner: The Joys of the Content Template'
 summary: Many of us depend a great deal on subject matter experts (SMEs) to generate content that will eventually end up on our site. These are men and women that have critical knowledge to share with our audiences, and it is our job to make it match our various editorial and content guidelines. Using a simple
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
 tag:

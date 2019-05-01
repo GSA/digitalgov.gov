@@ -27,32 +27,24 @@
 #   type          : 'community'
 
 
+
+
 top6:
 
-
-  - file          : '2018-07-26-civic-service-design-tools-tactics.md'
-    type          : 'video'
-    title         : 'Civic Service Design Tools + Tactics'
-    summary       : "An introduction New York City's Service Design Studio and the practical methods they're using to gather insights."
-
-  - file          : '2018-07-17-experiments-in-tweaking-agile-for-ux.md'
+  - file          : '2019-04-09-presidential-innovation-fellows-join-fda-advance-digital-health.md'
     type          : 'post'
 
-  - file          : '2018-07-16-emerging-technology-leadership-series-brian-behlendorf-blockchain.md'
-    type          : 'video'
-    title         : 'Emerging Technology Leadership Series: Brian Behlendorf and Blockchain'
-    summary       : 'This series is a six-part livestream pilot to enhance the modern federal workforce with training, education, and awareness of emerging technologies.'
-
-
-  - file          : '2018-07-12-an-inside-look-at-how-fbi-develops-engaging-video.md'
-    type          : 'video'
-    title         : 'An Inside Look at How the FBI Develops Engaging Video'
-    summary       : 'Bryce Spivey and Steve Lewis discuss successful video strategies from concept to completion, including marketing, collaboration, challenges, and lessons learned.'
-
-  - file          : '2018-07-10-introducing-accessibillity-teams.md'
+  - file          : '2019-04-08-introducing-uswds-2.md'
     type          : 'post'
 
-  - file          : '2018-07-06-a-first-look-at-uswds-20.md'
-    type          : 'video'
-    title         : 'A First Look at USWDS 2.0'
-    summary       : 'The USWDS team shares what is coming up in version 2.0, which is set to launch later this summer.'
+  - file          : '2019-04-04-web-analytics-why-users-metric-just-got-more-complicated.md'
+    type          : 'post'
+
+  - file          : '2019-03-27-qa-with-ryan-day-about-gsas-api-strategy.md'
+    type          : 'post'
+
+  - file          : '2019-03-26-a-year-in-life-a-pif.md'
+    type          : 'post'
+
+  - file          : '2019-03-18-deep-dive-on-top-health-data-technology-innovation-for-lyme-disease.md'
+    type          : 'post'

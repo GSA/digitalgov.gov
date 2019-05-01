@@ -30,9 +30,7 @@ tag:
   - Web Content Managers Forum
 ---
 
-[
-  
-{{< legacy-img src="2014/03/Birthday-Cake\_Internet\_World-Wide-Web\_25-years-old\_Featured_301x212-250x176.jpg" alt="The internet is 25 years old!" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/Birthday-Cake_Internet_World-Wide-Web_25-years-old_Featured_301x212.jpg) With the [25th anniversary of the Web](http://www.pewinternet.org/2014/02/27/the-web-at-25-in-the-u-s/), we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since.
+{{< legacy-img-right src="2014/03/Birthday-Cake\_Internet\_World-Wide-Web\_25-years-old\_Featured_301x212-250x176.jpg" alt="The internet is 25 years old!" >}}With the [25th anniversary of the Web](http://www.pewinternet.org/2014/02/27/the-web-at-25-in-the-u-s/), we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since.
 
 The State Department may have been one of the first, in 1991, with a bulletin board presence launched thru the Government Printing Office, according to Janice Clark, Director in the Office of Website Management, Bureau of Public Affairs. “We saw the transition from hot type to cold and onto desktop publishing, and finally in the early 90’s began to morph into Web editors.
 
@@ -90,4 +88,4 @@ While no one knows what online government will look like in the next 25 years, a
 
 Curious what your agency’s first Web presence looked like? Check out the [Wayback Machine](http://archive.org/web/web.php) and NARA’s [Web Harvest](http://www.webharvest.gov/).
 
-Tomorrow the [Mobile Community of Practice]({{< link "categories/mobile" >}}) will offer its take on what effect mobile technologies will have on the next 25 years of the Web.
+Tomorrow the [Mobile Community of Practice](https://digital.gov/communities/mobile/) will offer its take on what effect mobile technologies will have on the next 25 years of the Web.

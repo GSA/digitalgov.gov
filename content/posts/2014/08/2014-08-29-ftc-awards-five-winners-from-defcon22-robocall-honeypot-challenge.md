@@ -4,7 +4,7 @@ date: 2014-08-29 11:00:26 -0400
 title: 'FTC Awards Five Winners from #DEFCON22 Robocall Honeypot Challenge'
 summary: 'The Federal Trade Commission (FTC) had such great success with their first robocall challenge competition that the agency decided to take a different angle this year&mdash;targeting the skilled hackers at DEF CON 22, the annual defense conference in Las Vegas in early August. Five winners earned cash prizes and bragging rights for their creative technical'
 authors:
-  - tmarcoullier
+  - tammi-marcoullier
 categories:
   - Challenges
 tag:

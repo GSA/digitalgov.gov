@@ -6,13 +6,15 @@ summary: It may seem like issuing an open challenge to the American public is a 
 authors:
   - eric-beidel
 categories:
-  - Challenges
+  - challenges
+  - managing-digital
 tag:
-  - ChallengeGov
-  - Challenges and Prizes Community of Practice
+  - challengegov
+  - challenges-and-prizes-community-of-practice
+  - preofessional-development
 ---
 
-{{< legacy-img src="2015/10/600-x-400-Mentor-On-Blackboard-frankwolffnl-iStock-Thinkstock-476483392.jpg" alt="The words Improve, Success, Training, Motivate, Work, and Inspire intersect the word Mentor on a blackboard." caption="" >}} 
+{{< legacy-img src="2015/10/600-x-400-Mentor-On-Blackboard-frankwolffnl-iStock-Thinkstock-476483392.jpg" alt="The words Improve, Success, Training, Motivate, Work, and Inspire intersect the word Mentor on a blackboard." caption="frankwolffnl/iStock/Thinkstock" >}} 
 
 It may seem like issuing an open challenge to the American public is a novel form of federal procurement, but it has quickly become an effective way of generating fresh solutions to enduring problems.
 
@@ -34,25 +36,25 @@ Challenge competitions are changing the way we do business, and the people on th
 
 {{< legacy-img src="2015/10/600-x-340-First-ChallengeGov-Mentorship-Program-2015-mentors.jpg" alt="Challenge.gov mentors" >}}
 
-  * Noel Bakhtian, Department of Energy
-  * Kati Daffan, Federal Trade Commission
-  * Scott Davis, Department of Housing and Urban Development
-  * Eric Eberly, NASA
-  * Heather Evans, National Institute of Standards and Technology
-  * Ami Grace-Tardy, Department of Energy
-  * Jeff Heninger, NASA
-  * Matthew Hepburn, Defense Advanced Research Projects Agency
-  * Patricia Hsue, Federal Trade Commission
-  * Maurice Kent, U.S. Agency for International Development
-  * Alison LaBonte, Department of Energy
-  * Jarah Meador, Department of Veterans Affairs
-  * Jose Munoz, National Science Foundation
-  * Chad Nelson, Food and Drug Administration
-  * Albert Palacios, Department of Education
-  * Sandeep Patel, Department of Health and Human Services
-  * Yuliana Porras-Mendoza, Bureau of Reclamation
-  * Steve Rader, NASA
-  * Denice Shaw, Environmental Protection Agency
-  * Adam Wong, Department of Health and Human Services
+* Noel Bakhtian, Department of Energy
+* Kati Daffan, Federal Trade Commission
+* Scott Davis, Department of Housing and Urban Development
+* Eric Eberly, NASA
+* Heather Evans, National Institute of Standards and Technology
+* Ami Grace-Tardy, Department of Energy
+* Jeff Heninger, NASA
+* Matthew Hepburn, Defense Advanced Research Projects Agency
+* Patricia Hsue, Federal Trade Commission
+* Maurice Kent, U.S. Agency for International Development
+* Alison LaBonte, Department of Energy
+* Jarah Meador, Department of Veterans Affairs
+* Jose Munoz, National Science Foundation
+* Chad Nelson, Food and Drug Administration
+* Albert Palacios, Department of Education
+* Sandeep Patel, Department of Health and Human Services
+* Yuliana Porras-Mendoza, Bureau of Reclamation
+* Steve Rader, NASA
+* Denice Shaw, Environmental Protection Agency
+* Adam Wong, Department of Health and Human Services
 
 For more information about the program or to connect with a mentor, [email the Challenge.gov team](mailto:challenge@gsa.gov).

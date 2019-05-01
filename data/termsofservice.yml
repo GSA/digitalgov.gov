@@ -539,7 +539,7 @@ termsofservice:
     uri           : http://storify.com/tos/amendment
     type          : web
     updated       :
-    status        :
+    status        : inactive
 
   - name          : StumbleUpon
     url           : http://www.stumbleupon.com/
@@ -656,7 +656,7 @@ termsofservice:
   - name          : YouTube
     url           : http://www.youtube.com
     description   : Video sharing
-    uri           : 2014/01/youtube-tos-amendment.pdf
+    uri           : '2014/01/youtube-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-01
     status        :

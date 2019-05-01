@@ -47,15 +47,15 @@ Listed below are resources available that further describe and conduct functiona
 **Relevant Communities:**
 
   * <a href="http://ixdadc.ning.com/" rel="nofollow">Interaction Design Association &#8211; DC Chapter</a> local community focused DC group within the larger Interaction Design Association
-  * [Mobile Gov Community of Practice]({{< link "categories/mobile" >}} "Mobile Gov Community Events") &#8211; cross-gov, multidisciplinary community dedicated to building a anytime, anywhere gov for the public
+  * [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile Gov Community Events") &#8211; cross-gov, multidisciplinary community dedicated to building a anytime, anywhere gov for the public
   * <a href="http://www.w3.org/" rel="nofollow">World Wide Web Consortium</a> &#8211; international community that develops Web standards
 
 **Testing Services**
-  
+
 These services/companies or websites are offered as a sample of what is currently available and do not indicate an endorsement of them or their products and/or services. **The Federal CrowdSource Mobile Testing provides&#8230;**
 
 **Mobile Resources:**
-  
+
 Below are links to organizations that provide mobile functionality and usability testing services.
 
   * <a href="http://m.dudamobile.com/site/dm/about#2805" rel="nofollow">Dudamobile</a>
@@ -64,7 +64,7 @@ Below are links to organizations that provide mobile functionality and usability
   * <a href="http://www.userlytics.com/blog/mobile-app-usability-testing-remote-users" rel="nofollow">Userlytics</a>
 
 **Web Resources:**
-  
+
 Below are links to organizations that provide web functionality and usability testing services.
 
   * <a href="http://99tests.com/" rel="nofollow">99tests</a>
@@ -81,7 +81,7 @@ Below are links to organizations that provide web functionality and usability te
   * <a href="http://www.usertesting.com/" rel="nofollow">Usertesting</a>
   * <a href="http://www.utest.com/" rel="nofollow">uTest</a>
 
-## 
+##
 
 ## <a name="x-Test Plans/Checklists available on GitHub"></a>Test Plans/Checklists available on GitHub
 

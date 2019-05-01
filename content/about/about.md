@@ -11,7 +11,7 @@ Welcome to DigitalGov.
 
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
-And we do that by providing people in government the tools, methods, practices and policy guidance they need to deliver effective and accessible digital services.
+And we do that by providing people in the federal government with the tools, methods, practices and policy guidance they need to deliver effective and accessible digital services.
 
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
@@ -41,7 +41,7 @@ We are building DigitalGov into a destination that practices the methods that it
 
 ## The Team
 
-We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in government and have a wealth of experience creating modern digital services.
+We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in the federal government and have a wealth of experience creating modern digital services.
 
 ## DigitalGov
 **Jeremy Zilar**, Director<br/>

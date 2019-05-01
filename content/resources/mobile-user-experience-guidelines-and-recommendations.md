@@ -1,17 +1,22 @@
 ---
-url: /resources/mobile-user-experience-guidelines-and-recommendations/
+url: /resources/mobile-user-experience-guidelines/
 date: 2013-12-11 4:13:00 -0400
-title: Mobile User Experience Guidelines and Recommendations
-summary: 'If your app doesn&#8217;t have a good user experience, it goes to the app graveyard. The need for digital products to work better is not new in the federal government. Resources like the Digital Playbook and Public Participation Playbook have had impact helping agencies become user-friendly and both of these resources note the importance of'
+title: Mobile User Experience Guidelines
+summary: 'Six user experience guidelines for creating a mobile product.'
+deck: 'Six user experience guidelines for creating a mobile product.'
+type: guide
+guidenav: connected-government
 authors:
   - jparcell
+aliases:
+  - /resources/mobile-user-experience-guidelines-and-recommendations/
 ---
 
 If your app doesn&#8217;t have a good user experience, it goes to the [app graveyard]({{< link "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
 
 The need for digital products to work better is not new in the federal government. Resources like the [Digital Playbook](https://playbook.cio.gov/) and [Public Participation Playbook](https://participation.usa.gov/) have had impact helping agencies become user-friendly and both of these resources note the importance of developing usable products for mobile users.
 
-As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice]({{< link "categories/mobile" >}})  members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
+As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice]({{< link "mobilegov.md" >}})  members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
 
 **[Guideline 1](#guideline1 "Mobile User Experience Guidelines and Recommendations 1")**: Make sure your content is structured and chunked appropriately for multiple devices
 

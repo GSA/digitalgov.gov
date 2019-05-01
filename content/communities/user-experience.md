@@ -11,7 +11,7 @@ aliases:
 Join other federal user experience practitioners and learn how to make better user-centered products.
 
 ### Join
-Send an email from your official government email to [ux-cop-request@listserv.gsa.gov](mailto:ux-cop-request@listserv.gsa.gov?subject=Join%20U%20Community), with “Join UX Community” in the subject line.
+Send an email from your official government email to [ux-cop-request@listserv.gsa.gov](mailto:ux-cop-request@listserv.gsa.gov?subject=Join%20UX%20Community), with “Join UX Community” in the subject line.
 
 ### Community Managers:
 Jean Fox (BLS) and Silvia Salazar (NIH)

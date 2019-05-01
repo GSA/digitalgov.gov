@@ -1,5 +1,6 @@
 body {font-family:Trebuchet,Tahoma,sans-serif;}
-a,a:link,a:visited {color:#0C6874;}
+a,a:link,a:visited {color:#005ea2;}
+a:hover {color:#005ea2;}
 h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Trebuchet,Tahoma,sans-serif;}
 #sitetitle, #sitetitle .title {text-align:center;}
 #sitetitle .title, #sitetitle .title a {font-family:Trebuchet,Tahoma,sans-serif;}

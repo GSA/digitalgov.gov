@@ -18,6 +18,7 @@ ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
   - "content/images/*"
+  - "content/_archived/*"
 
 sitemap:
   changefreq            : "monthly"
@@ -61,6 +62,8 @@ taxonomies:
   tag                   : "tag"
   category              : "categories"
   author                : "authors"
+
+pluralizelisttitles     : false
 
 menu:
   primary:

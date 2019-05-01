@@ -1,7 +1,7 @@
 ---
 slug: dap-learning-series-writing-custom-javascript-for-tag-managers
-title: 'DAP Learning Series&#58; Writing Custom Javascript for Tag Managers'
-summary: 'This online event will focus on how to track specific events and write javascript to maximize the tag manager experience'
+title: 'DAP Learning Series&#58; Writing Custom JavaScript for Tag Managers'
+summary: 'This online event will focus on how to track specific events and write JavaScript to maximize the tag manager experience'
 featured_image:
   uid:
   alt: ''
@@ -12,14 +12,21 @@ end_date: 2018-09-20 15:00:00 -0400
 event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-writing-custom-javascript-for-tag-managers-registration-42564562753
-youtube_id: 8HZYe8RENWk
+youtube_id: iKBCY7tfxSY
 aliases:
   - /event/dap-learning-series-writing-custom-javascript-for-tag-managers
+categories:
+  - metrics
+tag:
+  - analytics
+  - dap
+  - digital-analytics-program
+
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._
 
-This advanced training is for people currently using or interested in using tag managers to deploy DAP and/or Google Analytics. We’ll have presenters from different agencies to get custom in learning how to track specific events and write javascript to maximize the tag manager experience.
+This advanced training is for people currently using or interested in using tag managers to deploy DAP and/or Google Analytics. We’ll have presenters from different agencies to get custom in learning how to track specific events and write JavaScript to maximize the tag manager experience.
 
 You’ll learn:
 

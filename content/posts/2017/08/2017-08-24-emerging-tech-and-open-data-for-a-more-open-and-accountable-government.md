@@ -6,8 +6,9 @@ summary: 'Open data and emerging technologies&mdash;including artificial intelli
 authors:
   - jherman
 categories:
-  - Data
-  - Our Work
+  - data
+  - emerging-tech
+  - our-work
 tag:
   - AI
   - artificial intelligence

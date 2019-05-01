@@ -4,7 +4,7 @@ date: 2016-02-29 10:21:01 -0400
 title: 'The Content Corner: Facebook Expands Access to Instant Articles'
 summary: As I begin to wind down my time at The Content Corner, I have realized that one of my biggest content concerns uncovered during my tenure is digital sharecropping. The recent announcement from Facebook that they will soon open their Instant Articles publishing capability to everyone was reason enough for me to revisit the topic
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
   - Monthly Theme

@@ -13,13 +13,13 @@ authors:
 
 Below are the questions we hear most often about the [Digital Analytics Program (DAP)]({{< link "dap.md" >}} "DAP: Digital Analytics Program").
 
-  * [User Agreement](#part-7 "Common Questions about DAP (FAQ): Implementation")
-  * [Implementation](#part-1 "Common Questions about DAP (FAQ): Implementation")
-  * [Customization and Access](#part-2 "Common Questions about DAP (FAQ): Customization and Access")
-  * [Google Universal Analytics](#part-3 "Common Questions about DAP (FAQ): Google Universal Analytics")
-  * [Data Access, Retention and Privacy](#part-4 "Common Questions about DAP (FAQ): Data Access, Retention and Privacy")
-  * [Reporting](#part-5 "Common Questions about DAP (FAQ): Reporting")
-  * [Customer Satisfaction Tool Implementation](#part-6 "Common Questions about DAP (FAQ): Customer Satisfaction Tool Implementation")
+  * [User Agreement](#part-7) "Common Questions about DAP (FAQ): User Agreement"
+  * [Implementation](#part-1) "Common Questions about DAP (FAQ): Implementation"
+  * [Customization and Access](#part-2) "Common Questions about DAP (FAQ): Customization and Access"
+  * [Google Universal Analytics](#part-3) "Common Questions about DAP (FAQ): Google Universal Analytics"
+  * [Data Access, Retention and Privacy](#part-4) "Common Questions about DAP (FAQ): Data Access, Retention and Privacy"
+  * [Reporting](#part-5) "Common Questions about DAP (FAQ): Reporting"
+  * [Customer Satisfaction Tool Implementation](#part-6) "Common Questions about DAP (FAQ): Customer Satisfaction Tool Implementation"
 
 <h2 id="part-7" style="padding-top: 50px">
   User Agreement

@@ -2,7 +2,7 @@
 slug: usa-gov-mobile-apps-gallery
 date: 2012-04-10 9:25:46 -0400
 title: USA.gov Mobile Apps Gallery
-summary: 'In April 2012, the U.S. General Services Administration launched a &#8220;full stack&#8221; responsive redesign of the federal mobile apps galleries: apps.USA.gov and apps.GobiernoUSA.gov. The full stack includes both a REST API and a complete redesign of the site using responsive design techniques. Responsive web design allows the content on a website to respond to the'
+summary: 'In April 2012, the U.S. General Services Administration launched a &#8220;full stack&#8221; responsive redesign of the federal mobile apps galleries: apps.USA.gov and apps.GobiernoUSA.gov. The full stack includes both a REST API and a complete redesign of the site using responsive design techniques.'
 authors:
   - jparcell
 categories:
@@ -25,7 +25,7 @@ The app galleries were launched as the first responsive design site as their con
 
 **What We Did**
 
-  1. Content analysis &#8211; the team initially analyzed all of the content from not only the USA.gov and GobiernoUSA.gov app galleries, but also other commercial app stores and markets. We also took into account that future galleries might include non-mobile apps as well as new devices
+  1. Content analysis &#8211; the team initially analyzed all of the content from not only the [USAGov](https://www.usa.gov/) and [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) app galleries, but also other commercial app stores and markets. We also took into account that future galleries might include non-mobile apps as well as new devices
   2. Existing commercial app stores and markets were reviewed for design ideas to create a best in breed design, starting with the mobile experience and then expanding to a full screen experience
   3. The data dictionary was designed to accommodate the data elements and functionality desired in the app galleries
   4. A REST API was created to provide public access to app information. Using a REST API as a foundation for building the app galleries would enable other developers to create additional products based on the app gallery data
@@ -64,12 +64,10 @@ CONS:
 
 **What&#8217;s Next?**
 
-We are excited to be one of the first federal agencies to take advantage of responsive design techniques as part of our ‘mobile first’ strategy for our websites. We will continue to enhance the app galleries and are talking to other agencies that are interested in leveraging our API and responsive design for their own app galleries. Finally, we are using the lessons learned to create a 508-compliant, responsive design template that may be used for the USA.gov and GobiernoUSA.gov mobile sites.
+We are excited to be one of the first federal agencies to take advantage of responsive design techniques as part of our ‘mobile first’ strategy for our websites. We will continue to enhance the app galleries and are talking to other agencies that are interested in leveraging our API and responsive design for their own app galleries. Finally, we are using the lessons learned to create a 508-compliant, responsive design template that may be used for the USAGov and USAGov en Espa&#241;ol mobile sites.
 
 **Contact**
 
-Email Meghan Daly at: <a href="mailto:meghan.daly@gsa.gov" rel="nofollow">meghan (dot) daly (at) gsa (dot) gov</a>
-  
-Email Ken Fang at: <a href="mailto:ken.fang@mobomo.com" rel="nofollow">ken (dot) fang (at) mobomo (dot) com</a>
-  
-Email Brian Lacey at: <a href="mailto:brian@mobomo.com" rel="nofollow">brian (at) mobomo (dot) com</a>
+<a href="mailto:meghan.daly@gsa.gov" rel="nofollow">Email Meghan Daly</a> <br />
+<a href="mailto:ken.fang@mobomo.com" rel="nofollow">Email Ken Fang</a> <br />
+<a href="mailto:brian@mobomo.com" rel="nofollow">Email Brian Lacey</a> 

@@ -2,7 +2,7 @@
 slug: live-streamed-demos-for-exponential-transparency-and-information-sharing
 date: 2016-08-09 10:00:36 -0400
 title: Live Streamed Demos for Exponential Transparency and Information Sharing
-summary: 'This spring, the eRegulations Notice & Comment team began building out a new feature set for the platform &mdash; adding the ability for agencies with proposed regulations to show the public more precisely the changes being proposed and allow agencies to receive more granular, contextual, and better-organized comments. One of the challenges we wrestled with'
+summary: 'This spring, the eRegulations Notice & Comment team began building out a new feature set for the platform &mdash; adding the ability for agencies with proposed regulations to show the public more precisely the changes being proposed and allow agencies to receive more granular, contextual, and better-organized comments.'
 authors:
   - wsullivan
 categories:
@@ -14,9 +14,9 @@ categories:
 tag:
   - 18F
   - audio
-  - Audio/Video
+  - Audio-Video
   - DGU
-  - Digital Audio/Video Community
+  - digital-audio-video-community
   - DigitalGov University
   - EPA
   - US Environmental Protection Agency
@@ -64,5 +64,8 @@ Here are some examples of our demos to give you a feel for what we produced and 
   * [eRegs Notice & Comment Demo &#8211; Sprint 4 &#8211; More Wireframes!](https://www.youtube.com/watch?v=wFEDa7CsQAo)
   * [eRegs Notice & Comment Demo &#8211; Sprint 5 &#8211; Wireframes & Working Code!](https://www.youtube.com/watch?v=h8DyhPOgUt4)
 
-_Special thanks to the_ DigitalGov _team, and specifically [Janelle Thalls]({{< link "author/jthalls" >}}), who helped us with the streaming account and initial setup and to the EPA eManifest and Regulations.gov teams for their partnership on this pilot project._
+_Special thanks to the_ DigitalGov _team, and specifically [Janelle Thalls]({{< link "author/jthalls" >}}), who helped us with the streaming account and initial setup and to the EPA eManifest and Regulations.gov teams for their partnership on this pilot project._ 
+
+* * *
+
 _This post was originally published on the [18F Blog](https://18f.gsa.gov/blog/)._

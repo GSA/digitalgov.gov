@@ -4,7 +4,7 @@ date: 2015-03-10 10:00:56 -0400
 title: 'Trends on Tuesday: More Time-Consuming, Complex Tasks on Mobile Platforms'
 summary: 'One of the leading mobile app analytics companies, Flurry, released their annual mobile app growth report with some interesting data showing how audiences are changing the way they engage with mobile applications. Overall, mobile app usage grew 76% in 2014, and the top app categories included: &ldquo;Lifestyle & Shopping,&rdquo; growing 174%; &ldquo;Utilities & Productivity,&rdquo; growing'
 authors:
-  - will-sullivan
+  - wsullivan
 categories:
   - Mobile
 tag:
@@ -32,4 +32,4 @@ As this shift happens, government agencies should prepare their digital app and 
 
 Imagine doing your taxes—all on your mobile phone (now you can only [check your tax refund status]({{< link "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}} "IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety")). That might be the most complex possible example, but in the future mobile-first or mobile-only audiences may start to expect it. Our government agencies should start preparing and planning for that future, offering more full-service, complex and secure tasks over smaller, mobile interfaces.
 
-Join the [MobileGov Community of Practice]({{< link "categories/mobile" >}} "Mobile") and help build an [anytime, anywhere government future]({{< link "2015-01-29-how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015.md" >}} "How Government will Accelerate Anytime, Anywhere Services and Information in 2015").
+Join the [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile") and help build an [anytime, anywhere government future]({{< link "2015-01-29-how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015.md" >}} "How Government will Accelerate Anytime, Anywhere Services and Information in 2015").

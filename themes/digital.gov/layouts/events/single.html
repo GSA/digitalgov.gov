@@ -11,6 +11,10 @@
   <div class="event-head">
     <a class="breadcrumb" href="{{ "events/" | absURL }}"> &laquo; All Events </a>
     <h1>{{ .Title | markdownify }}</h1>
+    {{ if .Params.deck }}
+    <h2 class="deck">{{ .Params.deck | markdownify }}</h2>
+    {{ end }}
+
     <div class="event-details">
 
       <span class="event-date">
@@ -40,8 +44,10 @@
     {{ partial "event-stage.html" . }}
   {{ end }}
 
-
   <div class="event-content">
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <div class="addthis_inline_share_toolbox"></div>
+
     {{ .Content }}
   </div>
 
@@ -51,6 +57,6 @@
 
   {{ partial "post-meta--feedback" (dict "page" . "page_type" "event" "cc" "digitalgovu@gsa.gov" "branch" ($.Scratch.Get "branch")) }}
   {{ partial "page-details" . }}
-  
+
 </div>
 {{ end }}

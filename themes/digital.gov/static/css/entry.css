@@ -20,19 +20,38 @@
 .entry-head .breadcrumb p{
 	margin: 0;
 }
+.post .post-title{
+	margin:0 0 .2em 0;
+	line-height: 40px;
+	color:#000;
+}
+.post .entry .deck{
+	margin:0 0 0 0;
+	padding:0;
+	font-size: 24px;
+	line-height: 33px;
+	color:#000;
+	border-top:none;
+	font-weight: 100;
+}
+
+.post .entry h2{
+	margin: 1em 0 .5em 0;
+	padding: .5em 0;
+	/* border-top:1px #000 solid; */
+	color:#000;
+}
 
 .entry-head .deck{
 	margin: 10px 0 25px 0;
 	font-size: 24px;
 	line-height: 36px;
-	/* font-weight: bold; */
+	border-top:none;
 	color:#222;
 	max-width: 800px;
 }
 .entry-content{
 	margin-bottom: 50px;
-	width: 650px;
-	display: inline-block;
 }
 .entry-content .image img{
 	margin:0;
@@ -194,36 +213,22 @@
 	display: none;
 }
 
-@media only screen and (max-width:480px) {
-	#wrap{
-		margin: 0;
-		padding: 15px;
-	}
-	.page .entry,
-	.entry-content{
-		width:auto;
-		float: left;
-	}
-	.last_commit{
-		/* display: none; */
-	}
-	.guide .entry-head{
-		margin-bottom: 40px;
-	}
-}
 
-@media only screen and (max-width:800px) {
-	#wrap{
-		margin: 0;
-		padding: 15px;
-		width:auto;
-	}
-	.page .entry,
+@media only screen and (min-width: 576px) {
+}
+@media only screen and (min-width: 768px) {
 	.entry-content{
-		width:auto;
-	}
+ 	 width: 650px;
+ 	 display: inline-block;
+  }
+}
+@media only screen and (min-width: 992px) {
 
 }
+@media only screen and (min-width: 1024px) {
+
+}
+
 
 
 .entry .favicon{

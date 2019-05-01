@@ -9,6 +9,7 @@ authors:
   - bbrantley
 categories:
   - Data
+  - emerging-tech
   - Managing Digital
   - UX
 tag:

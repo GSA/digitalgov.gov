@@ -25,18 +25,16 @@ What Makes a Native App Successful?
 
 There are over 200 native applications in the federal government with various download numbers. Are the ones with the most downloads the most successful? Is the one with fewer users who are more engaged more successful? It depends on what you are trying to accomplish.
 
-David Cooper, the [Mobile Application Development Lead]({{< link "2015-06-25-using-apps-for-mental-healthcare.md" >}}) with the National Center for Telehealth and Technology (T2) and member of the [MobileGov Community of Practice]({{< link "categories/mobile" >}}), said during a recent DigitalGov University (DGU) webinar, that while vanity metrics such as page views for websites and downloads for apps make you feel good, they don’t tell you anything about how users like your app or site. For that, you need actionable metrics, ones that provide you with the information you need to help improve your app. Downloads won’t give you that information. {{< legacy-img src="2016/05/600-x-400-Pirate-Lady\_Reiterlied\_flickr\_CC-BY-NC-SA-2.0\_21900258113\_db59a364a7\_o.jpg" alt="A colorful lady pirate LEGO toy against a black background" caption="" >}} 
+David Cooper, the [Mobile Application Development Lead]({{< link "2015-06-25-using-apps-for-mental-healthcare.md" >}}) with the National Center for Telehealth and Technology (T2) and member of the [MobileGov Community of Practice]({{< link "mobilegov.md" >}}), said during a recent DigitalGov University (DGU) webinar, that while vanity metrics such as page views for websites and downloads for apps make you feel good, they don’t tell you anything about how users like your app or site. For that, you need actionable metrics, ones that provide you with the information you need to help improve your app. Downloads won’t give you that information. 
+
+{{< legacy-img src="2016/05/600-x-400-Pirate-Lady_Reiterlied_flickr_CC-BY-NC-SA-2.0_21900258113_db59a364a7_o.jpg" alt="A colorful lady pirate LEGO toy against a black background" caption="" >}} 
 
 The pirate metrics framework, according to Cooper, is a good way to understand how your product is performing. Coined by [David McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version), the “pirate” in the metrics comes from the first letters of the lifecycle stages of the framework.
 
 A &#8211; Acquisition
-  
 A &#8211; Activation
-  
 R &#8211; Retention
-  
 R &#8211; Revenue
-  
 R &#8211; Referral
 
 One of the things Cooper likes about Pirate Metrics is that it does focus on actionable metrics. Cooper walked listeners through the five stages of the Pirate Metric framework and applied his native app use cases to each of them. I’ve provided the stages and some of the examples he gave below.
@@ -67,11 +65,13 @@ As Cooper, a psychologist by training, pointed out you can find many low cost an
 
 Watch the webinar to see how you can learn how to use pirate metrics in your agency!
   
-[youtube=http://www.youtube.com/watch?v=C\_P1\_iXOwJc&w=600]
+{{< youtube C_P1_iXOwJc >}}
 
 Helpful Training Links Cooper mentioned in his slides:
 
-  * [Pragmatic Marketing Webinars](http://pragmaticmarketing.com/resources/webinars)
-  * [General Assembly Marketing](https://generalassemb.ly/blog/category/digital-marketing-2/)
-  * [Udemy Marketing Courses](https://www.udemy.com/courses/marketing/all-courses/?price=price-free&lang=en)
-  * Google [Analytics](https://www.youtube.com/user/googleanalytics) and [Ventures](https://www.youtube.com/user/GoogleVentures)_Learn more about [DigitalGov University]({{< link "/digitalgov-university/" >}}) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_
+  * [Pragmatic Marketing Webinars](http://pragmaticmarketing.com/resources/webinars) 
+  * [General Assembly Marketing](https://generalassemb.ly/blog/category/digital-marketing-2/) 
+  * [Udemy Marketing Courses](https://www.udemy.com/courses/marketing/all-courses/?price=price-free&lang=en) 
+  * Google [Analytics](https://www.youtube.com/user/googleanalytics) and [Ventures](https://www.youtube.com/user/GoogleVentures) 
+  
+  _Learn more about [DigitalGov University]({{< link "/digitalgov-university/" >}}) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_

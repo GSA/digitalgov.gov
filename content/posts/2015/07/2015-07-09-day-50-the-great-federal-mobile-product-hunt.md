@@ -2,7 +2,7 @@
 slug: day-50-the-great-federal-mobile-product-hunt
 date: 2015-07-09 10:55:19 -0400
 title: 'DAY 50: The Great Federal Mobile Product Hunt!'
-summary: ' The Great Federal Mobile Product Hunt is off to the races in both English and Spanish with David Cooper in the lead at 12 #lostapps from the National Center for Telehealth and Technology, Department of Veterans Affairs in a close second with 10,'
+summary: 'An update on the Great Federal Mobile Product Hunt.'
 authors:
   - courtney-greenley
 categories:
@@ -35,7 +35,7 @@ For those new to the hunt for #lostapps, the campaign mission is simple—find E
 
 Here’s how you **JOIN** the Great Federal Mobile Product Hunt:
 
-  * Go to the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml) AND [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/conectese-gobierno/apps.moviles.shtml) to see if your agency’s products are listed.
+  * Go to the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml) AND [USAGov en Espa&#241;ol](http://www.usa.gov/gobiernousa/conectese-gobierno/apps.moviles.shtml) (_formerly known as GobiernoUSA.gov_) to see if your agency’s products are listed.
   * If they are listed, great! Check for updates/corrections to be added.
   * If not listed, or if there is an update&#8211;email us with the subject line “#LostApps” with the name of the mobile app or website and contact person. We will add the app or website to the registry, and we may profile it in our [Thursday Mobile Products]({{< link "tag/thursday-mobile-products" >}}) series here on DigitalGov.
 

@@ -4,7 +4,7 @@ date: 2015-04-27 10:56:28 -0400
 title: 'The Content Corner: The Content Wars'
 summary: One of the most interesting trends forming at the start of 2015 is the rise of new digital publishers. Online entities from Facebook to GE are continuing their strong forays into the world of content production. This shift, especially among social media platforms such as Facebook, Linked In and Snapchat, could significantly alter the digital
 authors:
-  - tymanuel
+  - tyrus-manuel
 categories:
   - Content
   - Social Media
