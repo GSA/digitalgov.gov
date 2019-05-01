@@ -44,9 +44,9 @@ github: "KristenHoney"
 profile_source: ""
 
 # Professional Social Media [e.g., Digital_Gov]
-Twitter: "khoney"
-Facebook: ""
-LinkedIn: ""
+twitter: "khoney"
+facebook: ""
+linkedin: ""
 YouTube: ""
 
 # For more information on managing your author page,

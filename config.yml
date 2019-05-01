@@ -36,12 +36,16 @@ outputFormats:
   JSON:
     mediatype: "application/json"
 
+preserveTaxonomyNames   : true
+taxonomies:
+  topic                 : "topics"
+  author                : "authors"
+
 outputs:
   home: ["HTML","RSS", "SiteImages", "JSON"]
   section: ["HTML","RSS", "JSON"]
   page: ["HTML","RSS", "JSON"]
-  taxonomy: ["HTML","RSS", "JSON"]
-  taxonomyTerm: ["HTML","RSS", "JSON"]
+  taxonomy: ["HTML","RSS", "json"]
 
 blackfriday:
   fractions: false
@@ -61,13 +65,6 @@ params:
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
-
-preserveTaxonomyNames   : true
-taxonomies:
-  tag                   : "tag"
-  topic                 : "topics"
-  category              : "categories"
-  author                : "authors"
 
 pluralizelisttitles     : false
 

@@ -44,10 +44,10 @@ github: "andrewmaier"
 profile_source: ""
 
 # Professional Social Media [e.g., Digital_Gov]
-Twitter: "andrewmaier"
-Facebook: ""
-LinkedIn: ""
-YouTube: ""
+twitter: "andrewmaier"
+facebook: ""
+linkedin: ""
+youtube: ""
 
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors

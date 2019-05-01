@@ -44,9 +44,9 @@ github: ""
 profile_source: ""
 
 # Professional Social Media [e.g., Digital_Gov]
-Twitter: "@fooqaz"
-Facebook: ""
-LinkedIn: ""
+twitter: "@fooqaz"
+facebook: ""
+linkedin: ""
 YouTube: ""
 
 # For more information on managing your author page,

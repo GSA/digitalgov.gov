@@ -44,9 +44,9 @@ github: "JustinHerman"
 profile_source: ""
 
 # Professional Social Media [e.g., Digital_Gov]
-Twitter: "JustinHerman"
-Facebook: ""
-LinkedIn: ""
+twitter: "JustinHerman"
+facebook: ""
+linkedin: ""
 YouTube: ""
 
 # For more information on managing your author page,

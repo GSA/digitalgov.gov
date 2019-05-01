@@ -44,9 +44,9 @@ github: "jeremyzilar"
 profile_source: ""
 
 # Professional Social Media [e.g., Digital_Gov]
-Twitter: "jeremyzilar"
-Facebook: "jeremy.zilar"
-LinkedIn: "jeremy.zilar"
+twitter: "jeremyzilar"
+facebook: "jeremy.zilar"
+linkedin: "jeremy.zilar"
 YouTube: "jeremy.zilar"
 
 # For more information on managing your author page,

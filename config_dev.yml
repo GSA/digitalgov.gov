@@ -28,6 +28,10 @@ sitemap:
   priority              : 0.5
   filename              : "sitemap.xml"
 
+outputFormats.authors:
+  baseName: "authors"
+  isPlainText: true
+  mediatype: "application/json"
 outputFormats:
   SiteImages:
     mediaType: "application/json"
@@ -40,19 +44,24 @@ outputFormats:
 
 rssLimit: 20
 
+preserveTaxonomyNames   : true
+taxonomies:
+  topic                 : "topics"
+  author                : "authors"
+
 outputs:
   home: ["HTML","RSS", "SiteImages", "JSON"]
   section: ["HTML","RSS", "JSON"]
   page: ["HTML","RSS", "JSON"]
   taxonomy: ["HTML","RSS", "JSON"]
-  taxonomyTerm: ["HTML","RSS", "JSON"]
+  taxonomyTerm: ["JSON"]
 
 blackfriday:
   fractions: false
   smartypants: true
 
 params:
-  description           : "We're making digital in government better, together."
+  description: "We're making digital in government better, together."
   cdnurl: "https://s3.amazonaws.com/digitalgov"
   git_org: "GSA"
   git_repo: "digitalgov.gov"
@@ -66,11 +75,6 @@ params:
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
-
-preserveTaxonomyNames   : true
-taxonomies:
-  topic                 : "topics"
-  author                : "authors"
 
 pluralizelisttitles     : false
 

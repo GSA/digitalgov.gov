@@ -44,9 +44,9 @@ github: "kpspivey"
 profile_source: ""
 
 # Professional Social Media [e.g., Digital_Gov]
-Twitter: "katherinespivey"
-Facebook: ""
-LinkedIn: ""
+twitter: "katherinespivey"
+facebook: ""
+linkedin: ""
 YouTube: ""
 
 # For more information on managing your author page,

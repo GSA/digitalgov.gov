@@ -44,10 +44,10 @@ github: ""
 profile_source: ""
 
 # Professional Social Media [e.g., Digital_Gov]
-Twitter: ""
-Facebook: ""
-LinkedIn: "ayjahthomas"
-YouTube: ""
+twitter: ""
+facebook: ""
+linkedin: "ayjahthomas"
+youtube: ""
 
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors
