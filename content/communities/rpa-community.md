@@ -37,7 +37,7 @@ The executive sponsors of the RPA CoP are GSA Chief Financial Officer Gerard Bad
 
 The CoP is organized by Practice Areas for distinct components of RPA program management. Each Practice Area is led by a volunteer agency employee - a Practice Leader - and supported by Practice Area Team - a group of agency volunteers.  All members are required to join at least one Practice Area Team after their first meeting attended. This reflects the CoP’s principle that all contribute and all benefit. The following is an initial, proposed list of Practice Areas and will be amended as agreed by the CoP:
 
-**Program and Operations Management**
+#### Program and Operations Management
   - Governance / Center of Excellence (including strategies for scaling)
   - Human Resource Impacts, Culture Change, Communications (internal and external)
   - Business Case (including benefit realization)
@@ -45,14 +45,14 @@ The CoP is organized by Practice Areas for distinct components of RPA program ma
   - Management Reporting (performance metrics, dashboarding)
   - Contracting
 
-**Process Assessment and Implementation**
+#### Process Assessment and Implementation
   - Identification, Assessment and Selection of Processes for Automation
   - Implementation Process (including documentation, templates, and audit readiness)
   - Development (including documentation, templates and audit readiness)
   - Use Cases, including potential government-wide cases and identification of bots and bot components to be included in the ‘Asset LIbrary’ (reusable code)
   - Bot Scope (guidelines for human vs. bot functions, privacy, ethics)
 
-**Technical**
+#### Technical
   - IT Platform, including configuration and capacity management (options and best practice)
   - Bot Credentialing (options and best practices)
   - Security(ATO)
