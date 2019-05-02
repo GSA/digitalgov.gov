@@ -6,7 +6,7 @@ summary: Tech- and digital-related policies, memos, circulars and executive orde
 
 ---
 
-This is a select list of Office of Management and Budget (OMB) Memos and Circulars, Executive Orders, and other policies that are related to digital media and innovation. For a complete list, see [OMB Circulars](https://www.whitehouse.gov/omb/information-for-agencies/circulars/) and [OMB Memoranda](https://www.whitehouse.gov/omb/information-for-agencies/memoranda/)
+This is a select list of Office of Management and Budget (OMB) Memos and Circulars, Executive Orders, and other policies that are related to digital media and innovation. For a complete list, see [OMB Circulars](https://www.whitehouse.gov/omb/information-for-agencies/circulars/) and [OMB Memoranda](https://www.whitehouse.gov/omb/information-for-agencies/memoranda/). 
 
 _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._ 
 
