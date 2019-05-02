@@ -3,7 +3,7 @@ slug: how-develop-an-agency-brand-voice-that-connects-with-customers-online
 title: 'How to Develop an Agency Brand Voice That Connects With Customers Online'
 summary: 'Come join the Plain Language community on the 12th of June and learn how to develop an agency brand voice!'
 featured_image: 
-  uid: 
+  uid: plain-language
   alt: ''
 event_type: 
   - zoom
