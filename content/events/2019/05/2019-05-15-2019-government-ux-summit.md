@@ -36,6 +36,8 @@ This an opportunity to learn, share experiences, and network with other UX pract
 
 In-person registration will be limited to the first 225 people.
 
+All sessions will be recorded and posted on Digital.gov after the event.
+
 Details on how to attend remotely will be sent out in the coming weeks to those who have registered.
 
 ## The Program
