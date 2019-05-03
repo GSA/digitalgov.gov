@@ -1,0 +1,28 @@
+# Welcome to your profile settings on digital.gov
+# Feel free to make edits to your profile.
+# - Your profile can be viewed at http://digital.gov/authors/[uid]
+# - See all authors http://digital.gov/authors/
+#
+# Reach out to digitalgov@gsa.gov if you need assistance.
+
+display_name: Angela Colter
+first_name: Angela
+last_name: Colter
+uid: angela-colter
+email: angela.colter@gsa.gov
+linkedin: 
+
+# Tell us about yourself! Keep it to 1-2 sentences.
+bio: "Angela Colter is the Acting Executive Director of 18F in the Technology Transformation Services (TTS). She leads a team of innovation specialists in partnerships with other federal agencies to improve the user experience of government She is also a published author and speaker on usability, accessibility, and designing for people with low-literacy skills."
+
+# Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
+location: "Washington, DC"
+
+# Your GitHub username [e.g. 'jeremyzilar']
+github: 'acolter'
+
+# Your Twitter username [e.g. 'digital_gov']
+twitter: ''
+
+# Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
+url: 'https://www.18f.gov/'
