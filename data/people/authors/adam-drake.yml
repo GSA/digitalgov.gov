@@ -10,7 +10,7 @@ first_name: Adam
 last_name: Drake
 uid: adam-drake
 email: adam.drake@gsa.gov
-linkedin: 
+linkedin:
 
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: "Adam Drake leads technical business transformations in global and multi-cultural environments through leadership, technology, and data architecture guidance. He is currently a White House Presidential Innovation Fellow serving with the United States Marine Corps and also IEEE Senior Member."
@@ -22,7 +22,7 @@ location: "Washington, DC"
 github: 'adamdrake'
 
 # Your Twitter username [e.g. 'digital_gov']
-twitter: '
+twitter: ""
 
 # Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
 url: 'https://www.presidentialinnovationfellows.gov'
