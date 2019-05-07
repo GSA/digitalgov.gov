@@ -31,6 +31,10 @@
 
 top6:
 
+
+  - file          : '2019-05-07-two-complementary-teams-with-same-goal.md'
+    type          : 'post'
+
   - file          : '2019-04-09-presidential-innovation-fellows-join-fda-advance-digital-health.md'
     type          : 'post'
 
@@ -46,5 +50,3 @@ top6:
   - file          : '2019-03-26-a-year-in-life-a-pif.md'
     type          : 'post'
 
-  - file          : '2019-03-18-deep-dive-on-top-health-data-technology-innovation-for-lyme-disease.md'
-    type          : 'post'
