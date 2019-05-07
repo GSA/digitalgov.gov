@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: journey-maps-as-communication-tools
-date: 2019-05-07 10:00
+date: 2019-05-07 10:00:00
 title: "Journey Maps as Communication Tools"
 deck: "The team at Office of Natural Resources Revenue wrote about how they use journey mapping to help teams look at their agency’s processes in a more comprehensive way."
 summary: "The team at Office of Natural Resources Revenue wrote about how they use journey mapping to help teams look at their agency’s processes in a more comprehensive way."
@@ -16,14 +16,14 @@ source_url: "https://revenuedata.doi.gov/blog/journey-mapping/"
 source: doi-revenuedata
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - design
   - product-management
   - user-experience
   - ux
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - jeremyzilar
 
 # ♥♥♥ Make it better ♥♥♥
