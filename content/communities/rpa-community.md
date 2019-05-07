@@ -36,9 +36,10 @@ The CoP achieves its mission through information sharing, identification and def
 
 ### Practice areas
 
-The CoP is organized by Practice Areas for distinct components of RPA program management. Each Practice Area is led by a volunteer agency employee - a Practice Leader - and supported by Practice Area Team - a group of agency volunteers.
+The CoP is organized by practice areas for distinct components of RPA program management. Each practice areas is led by a volunteer agency employee
+- a practice Leader - and supported by practice area team - a group of agency volunteers.
 
-All members are required to join at least one Practice Area Team after their first meeting attended. This reflects the CoP’s principle that all contribute and all benefit.
+All members are required to join at least one "practice area team" after their first meeting attended. This reflects the CoP’s principle that all contribute and all benefit.
 
 The following is an initial, proposed list of practice areas and will be amended as agreed by the CoP:
 
