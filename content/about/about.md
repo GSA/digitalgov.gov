@@ -45,7 +45,6 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 
 ## DigitalGov
 **Jeremy Zilar**, Director<br/>
-**Jacqueline Snee**, Community Manager<br/>
 **Dan Williams**, Designer<br/>
 **Andrea Sigritz**, Editor, User Research & Content Strategy<br/>
 **Toni Bonitto**, Editor, Platform & Content Production<br/>
@@ -54,7 +53,6 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 ### The U.S. Web Design System Core Team
 
 **Dan Williams**, Product Owner<br/>
-**Maya Benari**, Product Manager<br/>
 **Adam Biagianti**, Engineering Lead
 
 [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
