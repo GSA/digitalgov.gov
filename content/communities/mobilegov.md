@@ -15,9 +15,11 @@ community_list:
     subscribe_email: mobilegov-request@listserv.gsa.gov
     email: MOBILEGOV@listserv.gsa.gov
     subject: "Subscribe to MobileGov"
+
 community_managers:
   - jparcell
   - david-fern
+
 members: 1129
 emails_per_week: 2.62
 

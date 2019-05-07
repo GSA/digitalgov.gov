@@ -82,12 +82,13 @@
         "authors" : {
         {{- range $i, $e := $_authors -}}
           {{- $uid := $e | urlize -}}
-          {{- $data := $.Site.Data -}}
-          {{- $author := index $data.people.authors $uid -}}
-          {{- if lt (add $i 1) $length -}}
-            "{{- $uid -}}" : "{{- $author.display_name | default $uid}}",
-          {{- else -}}
-            "{{- $uid -}}" : "{{- $author.display_name | default $uid}}"
+          {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
+          {{- with $author -}}
+            {{- if lt (add $i 1) $length -}}
+              "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}",
+            {{- else -}}
+              "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}"
+            {{- end -}}
           {{- end -}}
         {{- end -}}
         },

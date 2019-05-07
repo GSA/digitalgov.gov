@@ -6,9 +6,9 @@ title: 'Why Our Country Needs More Civic Tech Leaders'
 summary: 'Government is a great place to work for technologists, data scientists, designers and entrepreneurs who want to serve and solve problems for the American people.'
 deck: 'Why government is a great place to work for technologists, data scientists, designers, and entrepreneurs who want to serve and solve problems for the American people.'
 authors:
-  - clarice-chan
   - justin-koufopoulos
   - clara-tsao
+  - clarice-chan
   - stephen-winchell
 topics:
   - product-management
