@@ -65,6 +65,9 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Results-Oriented Accountability for Grants]({{< link "results-oriented-accountability-for-grants.md" >}})**: Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "results-oriented-accountability-for-grants.md" >}})
 
+**[RPA Community]({{< link "rpa-community.md" >}})**: We are a group who is working to accelerate robotic process automation (RPA) adoption in the federal government.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "rpa-community.md" >}})
+
 **[SocialGov](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)
 
