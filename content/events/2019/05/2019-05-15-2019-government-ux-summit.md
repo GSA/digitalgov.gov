@@ -41,6 +41,8 @@ This an opportunity to learn, share experiences, and network with other UX pract
 
 In-person registration will be limited to the first 225 people.
 
+All sessions will be recorded and posted on Digital.gov after the event.
+
 Details on how to attend remotely will be sent out in the coming weeks to those who have registered.
 
 ## The Program
@@ -54,39 +56,29 @@ related to government UX work.
   
 As a participant, you’re free to choose the talk that interests you the most on the day of.  
 
-9:00 – 9:15 - Welcome
+9:00 – 9:15 - **Welcome** :wave:
 
 9:15-10:00:
 
-  - Methods: **Raising the Design Voice in Government: A Case Study**,
-    Kristal Byrd (GSA)
-  - Management: **Lessons from Building Remote-First, Cross-Functional
-    Teams**, panel led by Amy Ashida (GSA)
-  - Design: **Embedding Service Design in New York City Government:
-    Lessons Learned**, Caroline Bauer (NYC Mayor's Office)
+  - Methods: **Raising the Design Voice in Government: A Case Study**, Kristal Byrd (GSA)
+  - Management: **Lessons from Building Remote-First, Cross-Functional Teams**, panel led by Amy Ashida (GSA)
+  - Design: **Embedding Service Design in New York City Government: Lessons Learned**, Caroline Bauer (NYC Mayor's Office)
 
 10:00-10:15 – Break
 
 10:15 – 11:00
 
-  - Methods: **Accessible Experience First: The Key to Integrating UX in
-    the Agile Process Under Budget and with Whole-Team Support**, Arva
-    Adams (USPTO)
-  - Management: **Teaching Digital Skills: Learning Usability Testing by
-    Peer Training**, Maroya Faied and Shannon McHarg (ONRR)
+  - Methods: **Accessible Experience First: The Key to Integrating UX in the Agile Process Under Budget and with Whole-Team Support**, Arva Adams (USPTO)
+  - Management: **Teaching Digital Skills: Learning Usability Testing by Peer Training**, Maroya Faied and Shannon McHarg (ONRR)
   - Design: **The Importance of Color in UX**, Scott Lenger (FRB)
 
 11:00-11:15 – Break
 
 11:15-12:00
 
-  - Methods: **User Documentation--Do We Still Need This Stuff?**,
-    Kristen Faiferlick (NOAA)
-  - Management: **CDC’s Digital First Approach: Enhancing User
-    Experience on CDC Vaccines Site**, Lisa Richman (CDC)
-  - Design: **Creating the Future of Government User Experience: How
-    Design Systems Can Help Us Improve—Better and Faster**, Aviva Oskow
-    (GSA)
+  - Methods: **User Documentation--Do We Still Need This Stuff?**, Kristen Faiferlick (NOAA, Contracted by Genwest)
+  - Management: **CDC’s Digital First Approach: Enhancing User Experience on CDC Vaccines Site**, Lisa Richman (CDC)
+  - Design: **The Future of Government User Experience: Improving Faster with Design Systems**, Aviva Oskow (GSA)
 
 A community lunch will follow in the BLS cafeteria for those who wish to stay. Bring your lunch or purchase it in the cafeteria.
 

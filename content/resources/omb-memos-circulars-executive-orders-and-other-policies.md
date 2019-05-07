@@ -9,6 +9,8 @@ weight: 3
 
 ---
 
+This is a select list of Office of Management and Budget (OMB) Memos and Circulars, Executive Orders, and other policies that are related to digital media and innovation. For a complete list, see [OMB Circulars](https://www.whitehouse.gov/omb/information-for-agencies/circulars/) and [OMB Memoranda](https://www.whitehouse.gov/omb/information-for-agencies/memoranda/).
+
 _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 
 ## Memos
@@ -60,8 +62,6 @@ _Did we miss any? [Let us know](mailto:digitalgov@gsa.gov)._
 [Presidential Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal)
 
 ## Miscellaneous
-
-The Conne
 
 [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 

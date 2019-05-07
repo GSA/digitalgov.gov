@@ -36,8 +36,7 @@ This episode features examples of hazard-related citizen science projects at the
 - **John McLaughlin**, CitizenScience.gov Program Manager, U.S. General Services Administration
 - **Sophia B Liu**, Innovation Specialist, Crowdsourcing and Citizen Science Coordinator, U.S. Geological Survey; Co-Chair of FedCCS
 
-
-### Upcoming episodes in the Federal Crowdsourcing Webinar Series include:
+**Upcoming episodes in the Federal Crowdsourcing Webinar Series include:**
 
 - **May 14:** Challenge.gov, General Services Administration
 - **June 11:** The Opportunity Project, U.S. Census Bureau
@@ -45,7 +44,6 @@ This episode features examples of hazard-related citizen science projects at the
 - **August 13:** History _By the People_, Library of Congress
 
 For information on this episode or upcoming events in the crowdsourcing series, contact [team@challenge.gov](mailto:team@challenge.gov?subject=Crowdsourcing%20Series%20on%20DGU).
-
 
 ---
 
