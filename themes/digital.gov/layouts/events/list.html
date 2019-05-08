@@ -5,7 +5,15 @@
     <div class="grid-container grid-container-desktop">
       <div class="grid-row">
         <div class="grid-col-12">
-          <h1>Upcoming Events</h1>
+
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
+
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck | markdownify -}}</div>
+          {{- end -}}
+          
         </div>
       </div>
     </div>
