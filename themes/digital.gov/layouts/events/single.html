@@ -21,7 +21,7 @@
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12">
+          <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
             <p class="breadcrumb"><a href="{{- "events/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></p>
             <h1>{{- .Title | markdownify -}}</h1>
             {{/* Deck */}}
@@ -29,6 +29,21 @@
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
             {{- if .Params.host -}}
+
+            <p class="datetime"><i class="far fa-calendar"></i>
+              {{ with .Date }}
+              {{ . | dateFormat "Monday, January 02, 2006" }}
+              {{ end }}
+              <span>
+                {{- with .Date -}}
+                {{- . | dateFormat "3:04 PM" -}}
+                {{- end }} –
+                {{ with .Params.end_date -}}
+                {{- . | dateFormat "3:04 PM ET" -}}
+                {{- end -}}
+              </span>
+            </p>
+
             <p class="host">Hosted by {{ .Params.host }} and {{ .Params.event_organizer }}</p>
             {{- end -}}
           </div>

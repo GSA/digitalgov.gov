@@ -72,6 +72,12 @@ params:
   # Homepage settings
   dg_tagline: "Guidance for making _better_ digital services in government"
 
+  # number of news items to include on the homepage
+  news_count: 5
+
+  # number of events to include on the homepage
+  events_count: 3 
+
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
