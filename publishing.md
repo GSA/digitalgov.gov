@@ -4,7 +4,9 @@
 
 To proceed, you will need a GitHub account [http://github.com](http://github.com) and you will need to have the DigitalGov team add you as an contributor to our repo. Send us a note at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
-- - -
+---
+
+
 ### Creating a Draft for Review on GitHub.com
 
 **Step 1.** — Log in to [http://github.com](http://github.com)
@@ -83,7 +85,7 @@ aliases:
 
 
 - - -
-### All the Front Matter Data You'll ever need 
+### All the Front Matter Data You'll ever need
 
 ```
 ---
