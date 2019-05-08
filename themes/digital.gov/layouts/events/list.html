@@ -4,8 +4,22 @@
   <header>
     <div class="grid-container grid-container-desktop">
       <div class="grid-row">
-        <div class="grid-col-12">
-          <h1>Upcoming Events</h1>
+        <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
+
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
+
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck | markdownify -}}</div>
+          {{- end -}}
+
+          <div class="more">
+            <p><a href="https://www.youtube.com/digitalgov"><span>See our video library</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+            <p><a href="#events-past"><span>See past events</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+          </div>
+
+
         </div>
       </div>
     </div>
