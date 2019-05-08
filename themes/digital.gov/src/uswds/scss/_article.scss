@@ -6,7 +6,6 @@ main{
 	header.page-header,
 	> header,
  	> article > header{
-		// @include u-bg('red-10');
 		@include u-margin-bottom(4);
 
 		// Breadcrumbs
@@ -60,7 +59,6 @@ main{
 	// Base Article Styles
 	article{
 		@include u-margin-bottom(5);
-
 		.date{
 			@include u-margin-top(3);
 			@include u-font('sans', '2xs');
@@ -73,7 +71,6 @@ main{
 				border-bottom: 2px #8889db solid; // $indigo-40
 			}
 		}
-
 
 		.topics{
 			@include u-margin-top(9);
@@ -101,5 +98,4 @@ main{
 			}
 		}
 	}
-
 }
