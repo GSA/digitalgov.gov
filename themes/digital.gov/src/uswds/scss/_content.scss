@@ -9,6 +9,18 @@
       @include u-text('underline');
     }
   }
+  a[href^=http]:not([href$=".gov"]):after {
+    background: url(../lib/uswds/external-link.svg) no-repeat 0 0;
+    background-size: 100%;
+    content: "";
+    display: inline-block;
+    height: .65em;
+    margin-bottom: -1px;
+    margin-left: .25rem;
+    width: .65em;
+  }
+
+
   h1{
     @include u-display('none');
   }
