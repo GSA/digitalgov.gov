@@ -1,13 +1,13 @@
 <article class="card card-event card-event-past card-linked" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
-  <div class="grid-row grid-gap-4">
+  <div class="grid-row grid-gap-2">
 
-    <div class="grid-col-12 tablet:grid-col-4 tablet:order-last">
+    <div class="grid-col-12 tablet:grid-col-3 tablet:order-last">
       {{ if .Params.youtube_id }}
-      <div class="image-featured youtube-player" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
+      <div class="image-featured youtube-card" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
       {{ end }}
     </div>
 
-    <div class="grid-col-12 tablet:grid-col-8">
+    <div class="grid-col-12 tablet:grid-col-9">
       <h6>Video</h6>
       <h3>
         <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
