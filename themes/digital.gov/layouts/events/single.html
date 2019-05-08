@@ -21,7 +21,7 @@
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12">
+          <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
             <p class="breadcrumb"><a href="{{- "events/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></p>
             <h1>{{- .Title | markdownify -}}</h1>
             {{/* Deck */}}
