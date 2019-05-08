@@ -32,8 +32,11 @@
           {{/* Sorting all the items by date and reverse chron */}}
           {{ $stream := $stream.ByDate.Reverse }}
 
+          {{/* gets the # of news items to display from the config.yml */}}
+          {{ $news_count := .Site.Params.news_count }}
+
           {{/* Gets the first 8 items */}}
-          {{- range first 8 $stream -}}
+          {{- range first $news_count $stream -}}
 
             {{- if eq .Type "events" -}}
               {{- .Render "card-event-past" -}}

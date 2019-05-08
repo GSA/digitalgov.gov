@@ -6,9 +6,11 @@
       <div class="image-featured youtube-card" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
       {{ end }}
     </div>
+    {{ end }}
 
     <div class="grid-col-12 tablet:grid-col-9">
       <h6>Video</h6>
+      {{ end }}
       <h3>
         <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
       </h3>

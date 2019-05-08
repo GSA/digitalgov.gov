@@ -11,9 +11,14 @@
       </div>
       <div class="grid-col-12 tablet:grid-col-7">
         <section>
-          {{/* {{- $events := (where .Data.Pages "Section" "events").Reverse -}} */}}
+
           {{ $events := where .Site.RegularPages.Reverse  "Section" "events" }}
-          {{ $events := $events | intersect (where $events "Date" "ge" now) | first 5 }}
+
+          {{/* gets the # of news items to display from the config.yml */}}
+          {{ $events_count := .Site.Params.events_count }}
+
+          {{ $events := $events | intersect (where $events "Date" "ge" now) | first $events_count }}
+          
           {{- range $events -}}
             {{- $now := now.Format "2006-01-02" -}}
             {{- $start := .Date.Format "2006-01-02" -}}
