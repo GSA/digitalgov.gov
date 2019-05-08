@@ -2,14 +2,14 @@
 slug: two-complementary-teams-with-same-goal
 date: 2019-05-07 11:00:00 -0500
 title: 'Two Complementary Teams With the Same Goal'
+deck: 'How the Presidential Innovation Fellows and 18F teams support each other at agencies&#46;'
 summary: 'How the Presidential Innovation Fellows and 18F teams support each other at agencies&#46;'
 authors:
   - justin-koufopoulos
   - angela-colter
   - adam-drake
-categories:
+topics:
   - managing-digital
-tag:
   - 18f
   - pif
 featured_image:
