@@ -28,9 +28,7 @@
 
 
 
-
 top6:
-
 
   - file          : '2019-05-07-two-complementary-teams-with-same-goal.md'
     type          : 'post'
@@ -49,4 +47,3 @@ top6:
 
   - file          : '2019-03-26-a-year-in-life-a-pif.md'
     type          : 'post'
-
