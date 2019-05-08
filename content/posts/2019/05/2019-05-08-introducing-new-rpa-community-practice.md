@@ -12,6 +12,8 @@ featured_image:
   uid: rpa-stock-photo-2
   alt: ''
 
+canonical: https://www.gsa.gov/blog/2019/04/18/gsa-calls-on-federal-emerging-tech-leaders-to-form-rpa-community-of-practice
+
 ---
 
 _Originally published on the [GSA blog](https://www.gsa.gov/blog/2019/04/18/gsa-calls-on-federal-emerging-tech-leaders-to-form-rpa-community-of-practice)_
