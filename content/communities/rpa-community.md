@@ -13,7 +13,7 @@ The robotic process automation (RPA) community of practice exists to bring toget
 
 The FedRPA CoP is open to government employees only.
 
-:pen: To join, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)
+To join, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)
 
 
 ## Who we are
