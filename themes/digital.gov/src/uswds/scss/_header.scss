@@ -1,7 +1,6 @@
 // Header
 
 header#header{
-	@include u-margin-bottom(2);
 	@include u-padding-y(1);
 	@include u-border-bottom('1px', 'gray-warm-20', 'solid');
 	@include at-media('tablet-lg') {
