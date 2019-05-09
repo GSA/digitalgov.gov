@@ -9,7 +9,7 @@ authors:
   - angela-colter
   - adam-drake
 topics:
-  - managing-digital
+  - product-management
   - 18f
   - pif
 featured_image:

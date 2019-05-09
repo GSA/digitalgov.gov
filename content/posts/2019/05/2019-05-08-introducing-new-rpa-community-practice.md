@@ -6,7 +6,7 @@ deck: 'The new community will explore opportunities, share ideas, and collaborat
 summary: 'The new community will explore opportunities, share ideas, and collaborate on how RPA can be effectively implemented in federal agencies&#46;'
 authors:
   - ed-burrows
-categories:
+topics:
   - emerging-tech
 featured_image:
   uid: rpa-stock-photo-2
