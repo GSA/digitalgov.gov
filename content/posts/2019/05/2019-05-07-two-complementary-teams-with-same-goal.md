@@ -2,6 +2,7 @@
 slug: two-complementary-teams-with-same-goal
 date: 2019-05-07 11:00:00 -0500
 title: 'How 18F and PIF Work Together in Agencies'
+deck: 'Two teams working together to help agencies become more effective at meeting the needs of citizens'
 summary: 'Two teams working together to help agencies become more effective at meeting the needs of citizens.'
 authors:
   - justin-koufopoulos
