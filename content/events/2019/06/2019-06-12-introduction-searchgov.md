@@ -19,7 +19,7 @@ youtube_id: niT9kU6AfP8
 
 {{< img-right src="searchdotgovlogo" caption="" alt="Search.gov logo" >}}
 
-[**Search.gov**](https://search.gov/) is a self-service, plug-and-play search solution that federal agencies can use to provide a high quality search experience to their website’s users. 
+[**Search.gov**](https://search.gov/) is a self-service, plug-and-play search solution that federal agencies can use to provide a high-quality search experience to their website’s users. 
 
 In this online event, we’ll provide a basic overview of Search.gov’s essential features and tour its Admin Center.
 
