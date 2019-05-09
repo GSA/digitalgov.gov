@@ -3,7 +3,7 @@ slug: introduction-searchgov
 title: "Introduction to Search&#46;gov"
 summary: "Come and learn all about Search&#46;gov! The site search for federal government websites"
 featured_image: 
-  uid: 
+  uid: searchdotgovlogo
   alt: ''
 event_type: 
   - youtube-live
@@ -15,6 +15,9 @@ registration_url: https://www.eventbrite.com/e/introduction-to-searchgov-registr
 youtube_id: niT9kU6AfP8
 
 ---
+
+
+{{< img-right src="searchdotgovlogo" caption="" alt="Search.gov logo" >}}
 
 [**Search.gov**](https://search.gov/) is a self-service, plug-and-play search solution that federal agencies can use to provide a high quality search experience to their website’s users. 
 
