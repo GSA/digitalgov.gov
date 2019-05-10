@@ -23,8 +23,15 @@
 		@include u-font('sans', 'md');
 		.profile-thumbs{
 			@include u-margin-top('105');
-			img{
-				@include u-border('1px', 'gray-warm-20', 'solid');
+			.thumb{
+				@include u-display('inline-block');
+				@include u-width(2);
+				img{
+					@include u-border('1px', 'gray-warm-20', 'solid');
+					box-shadow: 0 0 0 2px #fff;
+					@include u-circle(4);
+					@include u-position('absolute');
+				}
 			}
 		}
 	}
