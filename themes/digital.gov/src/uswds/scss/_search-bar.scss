@@ -44,23 +44,24 @@
 		@include u-text('black');
 		@include u-padding-left('105');
 		@include u-padding-bottom('05');
-		@include u-radius-left('lg');
-		@include u-border('2px');
+		@include u-radius-left('md');
+		@include u-border('1px', 'solid', 'indigo-warm-70');
 		@include u-border-right(0);
-		@include u-border('solid');
-		@include u-border-color('indigo-warm-70');
 
 		&::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 		  @include u-text('gray-cool-70');
+			@include u-text('thin');
 		  opacity: 1; /* Firefox */
 		}
 
 		&:-ms-input-placeholder { /* Internet Explorer 10-11 */
 		  @include u-text('gray-cool-70');
+			@include u-text('thin');
 		}
 
 		&::-ms-input-placeholder { /* Microsoft Edge */
 		  @include u-text('gray-cool-70');
+			@include u-text('thin');
 		}
 	}
 
@@ -71,11 +72,9 @@
 		@include u-font('sans', 'md');
 		@include u-height(6);
 
-		@include u-radius-right('lg');
-		@include u-border('2px');
+		@include u-radius-right('md');
+		@include u-border('1px', 'solid', 'indigo-warm-70');
 		@include u-border-left(0);
-		@include u-border('solid');
-		@include u-border-color('indigo-warm-70');
 
 		&:hover{
 			@include u-bg('indigo-warm-40v');
@@ -83,8 +82,8 @@
 
 		// tablet-lg and above
 		@include at-media('tablet-lg') {
-			position:inherit;
-			left:0;
+			@include u-position('absolute');
+			right:6px;
 		}
 		img{
 			width:1.62em;
