@@ -11,6 +11,6 @@ jQuery(document).ready(function($) {
 		smartBackspace: true // Default value
 	}
 
-	var typed = new Typed(".tagline span", options);
+	// var typed = new Typed(".tagline span", options);
 
 });

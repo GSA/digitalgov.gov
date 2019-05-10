@@ -20,10 +20,11 @@ header#header{
 		@include u-text('black');
 		@include u-text('heavy');
 		@include u-text('no-underline');
+		@include u-width('card-lg');
+		@include u-padding-right(9);
 		@include at-media('tablet-lg') {
 		}
 		img{
-			@include u-width('card');
 		}
 	}
 

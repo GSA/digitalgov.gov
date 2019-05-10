@@ -25,10 +25,10 @@
 			@include u-margin-top('105');
 			.thumb{
 				@include u-display('inline-block');
-				@include u-width(2);
+				@include u-width('205');
 				img{
 					@include u-border('1px', 'gray-warm-20', 'solid');
-					box-shadow: 0 0 0 2px #fff;
+					// box-shadow: 0 0 0 2px #fff;
 					@include u-circle(4);
 					@include u-position('absolute');
 				}
