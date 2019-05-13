@@ -16,6 +16,8 @@ youtube_id: niT9kU6AfP8
 
 ---
 
+_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4018863&CustomerID=321)_
+
 
 {{< img-right src="searchdotgovlogo" caption="" alt="Search.gov logo" >}}
 
