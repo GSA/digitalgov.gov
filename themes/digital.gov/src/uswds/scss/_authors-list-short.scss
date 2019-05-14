@@ -5,12 +5,13 @@
 	@include u-flex('wrap');
 	.author{
 		@include u-margin(0);
-		@include u-margin-top(1);
+		// @include u-margin-top(1);
 		@include u-margin-right('105');
 		@include u-padding(0);
 		@include u-display('flex');
 		@include u-flex('align-center');
 		@include u-border(0);
+		@include u-text('indigo-warm-80');
 		@include u-text('medium');
 		@include u-text('no-underline');
 		@include u-font('sans', 'xs');

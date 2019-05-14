@@ -5,11 +5,13 @@
         <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
       </h3>
       <p class="deck">{{ .Params.deck | markdownify -}}</p>
-      <div class="meta">
+      <div class="meta display-flex flex-justify">
         <div class="display-flex flex-align-center">
           {{- partial "core/get_clicks" . -}}
-          {{- partial "core/get_authors_short" . -}}
           <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
+          {{- partial "core/get_authors_short" . -}}
+        </div>
+        <div>
           {{- partial "core/get_topics" . -}}
         </div>
       </div>

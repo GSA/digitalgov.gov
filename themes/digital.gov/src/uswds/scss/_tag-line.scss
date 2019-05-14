@@ -20,7 +20,7 @@
 	.blurb{
 		@include u-margin-y('205');
 		@include u-text('center');
-		@include u-text('thin');
+		@include u-text('light');
 		@include u-font('sans', 'lg');
 	}
 }

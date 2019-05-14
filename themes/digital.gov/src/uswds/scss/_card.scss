@@ -28,7 +28,7 @@
 	.summary{}
 
 	.meta{
-		@include u-margin-top(1);
+		@include u-margin-top(4);
 		.clicks{
 			@include u-margin-right(1);
 			@include u-font('sans', 'xs');
@@ -85,9 +85,9 @@
 		}
 		.topics{
 			a{
-				@include u-bg('orange-warm-20');
+				@include u-bg('indigo-warm-20');
 				&:hover{
-					@include u-bg('orange-warm-30');
+					@include u-bg('indigo-warm-30');
 				}
 			}
 		}
