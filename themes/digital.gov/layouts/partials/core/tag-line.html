@@ -1,21 +1,15 @@
 <section class="tag-line">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-2">
-      <div class="grid-col-12m= margin-4">
+      <div class="grid-col-12">
         <h3 class="tagline">{{ .Site.Params.dg_tagline | markdownify }}</h3>
-        <div class="community">
-          Written by over 539 people in civic-tech community. <a href="#"><strong>Learn more »</strong></a>
-          <div class="profile-thumbs">
-            {{- $authors := (where .Site.Pages "Section" "authors") -}}
-            {{- range $i, $author := $authors -}}
-              {{- if $author.Params.github -}}
-                <div class="thumb">
-                  <img class="circle-5" src="https://github.com/{{- $author.Params.github -}}.png?size=50" alt="">
-                </div>
-              {{- end -}}
-            {{- end -}}
-          </div>
+      </div>
+    </div>
 
+    <div class="grid-row grid-gap-2">
+      <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+        <div class="blurb">
+          Explore the guides, resources, tools, and services for making digital better in government
         </div>
       </div>
     </div>
