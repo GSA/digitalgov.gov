@@ -1,7 +1,7 @@
 <section id="resources_featured">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-12">
+      <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
         {{- $resources := (where .Pages "Section" "resources") ".Params.weight" 3 -}}
         {{/* If there are any resources at all... */}}
         {{- if $resources -}}
