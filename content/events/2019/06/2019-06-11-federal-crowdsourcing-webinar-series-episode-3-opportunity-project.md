@@ -19,6 +19,8 @@ _[View Live Captioning for this Event ](https://www.captionedtext.com/client/eve
 
 The Federal Crowdsourcing Webinar Series explores how federal agencies are engaging the crowd to multiply the ideas and perspectives they bring to certain issues. In this third episode, you’ll learn how The Opportunity Project is bringing together government, technologists, and communities to create digital tools that help strengthen economic opportunity. 
 
+{{< img-right src="challenge-gov-logo" >}}
+
 Through [The Opportunity Project](https://opportunity.census.gov/), the U.S. Census Bureau connects tech developers, local leaders, and nonprofits to create digital solutions to problems faced by communities throughout the country. The results empower people with technology and make government data more accessible and user-friendly. 
 
 Since launching in 2016, The Opportunity Project has yielded dozens of new digital tools that, among other things, connect veterans and their families with jobs, increase access to services and shelter for people experiencing homelessness, and rebuild rural economies. 
