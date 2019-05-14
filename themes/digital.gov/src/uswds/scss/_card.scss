@@ -1,8 +1,7 @@
 .card{
-	@include u-margin-bottom(0);
-	@include u-padding-top(3);
-	@include u-padding-bottom(4);
-	@include u-border-bottom('gray-40', 'solid', '1px');
+	@include u-margin-bottom(1);
+	@include u-padding(2);
+	@include u-bg('white');
 	h6{
 		@include u-margin(0);
 		@include u-margin-bottom('05');
@@ -22,7 +21,8 @@
 	}
 	.deck{
 		@include u-margin-top('05');
-		@include u-font('sans', 'md');
+		@include u-font('sans', 'lg');
+		@include u-line-height('sans', 2);
 		@include u-text('light');
 	}
 	.summary{}
