@@ -1,7 +1,7 @@
 ---
 slug: introduction-searchgov
 title: "Introduction to Search&#46;gov"
-summary: "Come and learn all about Search&#46;gov! The site search for federal government websites"
+summary: "Come and learn all about Search&#46;gov! The site search for federal government websites&#46;"
 featured_image: 
   uid: searchdotgovlogo
   alt: ''
@@ -15,7 +15,6 @@ registration_url: https://www.eventbrite.com/e/introduction-to-searchgov-registr
 youtube_id: niT9kU6AfP8
 
 ---
-
 
 {{< img-right src="searchdotgovlogo" caption="" alt="Search.gov logo" >}}
 
@@ -32,18 +31,16 @@ In this online event, we’ll provide a basic overview of Search.gov’s essenti
 - Analyzing searchers’ behavior through analytics 
 - Branding your results page and deciding which features to turn on 
 - Indexing your content with Search.gov and activating your search 
-  
 
 ## Related Links:
 
-- [Search Site Launch Guide](https://search.gov/manual/site-launch-guide.html)
-- [Everything You Need to Know About Indexing with Search.gov](https://search.gov/manual/indexing-with-searchgov.html)
-- [Previous Training Sessions](https://search.gov/manual/training.html)
-
+- [Search Site Launch Guide](https://search.gov/manual/site-launch-guide.html) 
+- [Everything You Need to Know About Indexing with Search.gov](https://search.gov/manual/indexing-with-searchgov.html) 
+- [Previous Training Sessions](https://search.gov/manual/training.html) 
   
 ---
 
-[**Search.gov**](https://search.gov/) is a service of the General Services Administration, supporting the search boxes on over 2,000 websites, across 30% of federal domains.
+_[**Search.gov**](https://search.gov/) is a service of the General Services Administration, supporting the search boxes on over 2,000 websites, across 30% of federal domains._
 
 For more information about Search.gov, email [search@support.digitalgov.gov](mailto:search@support.digitalgov.gov), or call 202-969-7426. 
 
