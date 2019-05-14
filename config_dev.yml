@@ -70,7 +70,7 @@ params:
   devmode: true
 
   # Homepage settings
-  dg_tagline: "The government employee’s guide to delivering <span>modern digital services</span>"
+  dg_tagline: "Get started building"
 
   # number of news items to include on the homepage
   news_count: 5
