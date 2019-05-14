@@ -15,7 +15,7 @@
 		@include u-font('sans', 'lg');
 		@include u-text('bold');
 		a{
-			@include u-color('black');
+			@include u-text('indigo-warm-80');
 			@include u-text('no-underline');
 		}
 	}
@@ -43,7 +43,7 @@
 			@include u-margin-right(1);
 			@include u-font('sans', '2xs');
 			@include u-display('inline-block');
-			@include u-color('gray-60');
+			@include u-color('gray-50');
 			white-space: nowrap;
 		}
 		.topics{
@@ -81,9 +81,7 @@
 		h3 a{
 			@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
 		}
-		.play{
-			background: url("../img/play-btn-active.png") no-repeat;
-		}
+		.play{}
 		.topics{
 			a{
 				@include u-bg('indigo-warm-20');

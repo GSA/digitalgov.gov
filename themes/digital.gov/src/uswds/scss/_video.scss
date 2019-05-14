@@ -37,20 +37,27 @@
     background: transparent;
   }
   .play {
-    height: 47px;
-    width: 70px;
     left: 50%;
-    top: 57%;
+    top: 45%;
+    @include u-circle(10);
+    @include u-bg('indigo-warm-80');
+    @include u-border('white', 'solid', '05');
     margin-left: -36px;
     margin-top: -36px;
     position: absolute;
-    background: url("../img/play-btn.png") no-repeat;
     cursor: pointer;
     // display: none;
   }
+  .play::after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 60px;
+    content: "\f04b";
+  }
+
+  // See card.scss for card overlay styles
   &:hover .play{
     display: block;
-  	background: url("../img/play-btn-active.png") no-repeat;
   }
 
 }

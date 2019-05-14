@@ -14,12 +14,8 @@ header#header{
 	// Logo
 	.logo{
 		@include u-margin(0);
-		@include u-font('sans', 'lg');
 		@include u-line-height('sans', 1);
-		@include u-display('inline-block');
-		@include u-text('black');
-		@include u-text('heavy');
-		@include u-text('no-underline');
+		@include u-display('block');
 		@include u-width('card');
 		@include at-media('tablet-lg') {
 		}
@@ -93,7 +89,7 @@ header#header{
 				@include u-padding-x(2);
 				a{
 					@include u-padding-bottom(2px);
-					@include u-text('black');
+					@include u-text('indigo-warm-80');
 					@include u-text('no-underline');
 				}
 				a:hover{

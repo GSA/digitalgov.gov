@@ -6,7 +6,7 @@ article.card{
 		@include u-font('sans', 'lg');
 		@include u-text('bold');
 		a{
-			@include u-color('black');
+			@include u-text('indigo-warm-80');
 			@include u-text('no-underline');
 		}
 	}
