@@ -11,16 +11,19 @@
     h2{
       @include u-margin-y(1);
       @include u-font('sans', '2xl');
-      @include u-text('bold');
+      @include u-text('heavy');
+      @include u-text('center');
       @include u-line-height('sans', 2);
       @include u-color('indigo-warm-80');
     }
     p{
       @include u-margin(0);
       @include u-text('light');
+      @include u-text('center');
+      @include u-maxw('none');
       @include u-font('sans', 'lg');
       @include u-line-height('sans', 3);
-      @include u-color('indigo-warm-60');
+      @include u-color('indigo-warm-80');
     }
   }
   footer{
