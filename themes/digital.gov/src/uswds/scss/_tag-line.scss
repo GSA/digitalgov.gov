@@ -1,16 +1,31 @@
 .tag-line{
+	@include u-margin-y(3);
 	h3{
-		@include u-margin(0);
-		@include u-margin-bottom(2);
-		@include u-margin-x('auto');
-		@include u-font('sans', 'xl');
-		@include u-maxw('tablet');
-		@include u-text('thin');
+		@include u-margin-y(0);
+		@include u-font('sans', '2xl');
+		@include u-text('light');
 		@include u-text('center');
 		@include u-text('indigo-warm-80');
 		@include at-media('tablet') {
-			@include u-margin-top(2);
-			@include u-font('sans', '2xl');
+			@include u-font('sans', 'xl');
 		}
+		span{
+			@include u-text('light');
+			@include u-text('blue-warm-50v');
+		}
+	}
+	.learn-more{
+		@include u-text('center');
+		@include u-text('semibold');
+		@include u-font('sans', 'md');
+		a{
+			@include u-margin-x('105');
+			@include u-text('blue-warm-50v');
+			@include u-text('no-underline');
+			&:hover{
+				@include u-border-bottom('2px','solid','blue-warm-50v');
+			}
+		}
+
 	}
 }

@@ -61,7 +61,7 @@ blackfriday:
   smartypants: true
 
 params:
-  description: "We're making digital in government better, together."
+  description: "The guides, resources, tools, and services for making digital better in government"
   cdnurl: "https://s3.amazonaws.com/digitalgov"
   git_org: "GSA"
   git_repo: "digitalgov.gov"
@@ -70,13 +70,13 @@ params:
   devmode: true
 
   # Homepage settings
-  dg_tagline: "Guidance for making _better_ digital services in government"
+  dg_tagline: "Explore the guides, resources, tools, and services for making digital better in government"
 
   # number of news items to include on the homepage
   news_count: 5
 
   # number of events to include on the homepage
-  events_count: 3 
+  events_count: 3
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"

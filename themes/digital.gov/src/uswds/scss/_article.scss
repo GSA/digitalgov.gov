@@ -85,16 +85,16 @@ main{
 				@include u-display('inline-block');
 				@include u-text('no-underline');
 				@include u-radius('pill');
-				@include u-bg('orange-warm-10');
-				@include u-text('orange-warm-80');
+				@include u-bg('indigo-warm-10');
+				@include u-text('indigo-warm-80');
 				@include u-line-height('sans', 2);
 				z-index: 2;
 				@include u-position('relative');
 				transition: background-color .2s, color .2s;
 			}
 			a:hover{
-				@include u-bg('orange-warm-20');
-				@include u-text('orange-warm-80');
+				@include u-bg('indigo-warm-20');
+				@include u-text('indigo-warm-80');
 			}
 		}
 	}

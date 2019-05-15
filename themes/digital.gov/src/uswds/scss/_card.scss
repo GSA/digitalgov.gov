@@ -1,8 +1,7 @@
 .card{
-	@include u-margin-bottom(0);
-	@include u-padding-top(3);
-	@include u-padding-bottom(4);
-	@include u-border-bottom('gray-40', 'solid', '1px');
+	@include u-margin-bottom(1);
+	@include u-padding(2);
+	@include u-bg('white');
 	h6{
 		@include u-margin(0);
 		@include u-margin-bottom('05');
@@ -16,19 +15,20 @@
 		@include u-font('sans', 'lg');
 		@include u-text('bold');
 		a{
-			@include u-color('black');
+			@include u-text('indigo-warm-80');
 			@include u-text('no-underline');
 		}
 	}
 	.deck{
 		@include u-margin-top('05');
-		@include u-font('sans', 'md');
+		@include u-font('sans', 'lg');
+		@include u-line-height('sans', 2);
 		@include u-text('light');
 	}
 	.summary{}
 
 	.meta{
-		@include u-margin-top(1);
+		@include u-margin-top(4);
 		.clicks{
 			@include u-margin-right(1);
 			@include u-font('sans', 'xs');
@@ -43,7 +43,7 @@
 			@include u-margin-right(1);
 			@include u-font('sans', '2xs');
 			@include u-display('inline-block');
-			@include u-color('gray-60');
+			@include u-color('gray-50');
 			white-space: nowrap;
 		}
 		.topics{
@@ -77,17 +77,18 @@
 		z-index: 1;
 	}
 	&:hover{
+		@include u-bg('gray-cool-2');
 		h3 a{
 			@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
 		}
 		.play{
-			background: url("../img/play-btn-active.png") no-repeat;
+			@include u-bg('indigo-warm-60v');
 		}
 		.topics{
 			a{
-				@include u-bg('orange-warm-20');
+				@include u-bg('indigo-warm-20');
 				&:hover{
-					@include u-bg('orange-warm-30');
+					@include u-bg('indigo-warm-30');
 				}
 			}
 		}

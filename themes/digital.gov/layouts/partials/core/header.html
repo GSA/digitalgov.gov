@@ -1,17 +1,13 @@
 <a class="usa-skipnav" href="#main-content">Skip to main content</a>
 <header id="header">
-  <div class="grid-container grid-container-desktop">
-    <div class="grid-row">
-      <div class="grid-col-12 minw-8 tablet-lg:grid-col-3">
-        <div class="display-flex flex-justify flex-align-center">
-          <a class="logo" href="{{- "" | absURL -}}" title="Digital.gov Home">
-            <img src="{{- "img/digit-50.png" | absURL -}}" alt="Digital.gov"> Digital.gov
-          </a>
-          <a id="explore" href="#">Menu</a>
-        </div>
-      </div>
+<div class="grid-container grid-container-widescreen">
+  <div class="grid-row">
+    <div class="grid-col-12">
 
-      <div class="grid-col-12 tablet-lg:grid-col-9">
+      <div class="display-flex flex-justify flex-align-center">
+        <a class="logo" href="{{- "" | absURL -}}" title="Digital.gov Home">
+          <img src="{{- "img/digitalgov-logo-black.png" | absURL -}}" alt="Digital.gov">
+        </a>
 
         <nav role="navigation">
           <ul>
@@ -21,7 +17,14 @@
           </ul>
         </nav>
 
+        <div>
+          <a id="explore" href="#">Explore</a>
+          <a href="{{- "/join" | absURL -}}" title="Contribute to Digital.gov" class="contribute"><span>Contribute</span></a>
+        </div>
+
       </div>
+
     </div>
   </div>
+</div>
 </header>

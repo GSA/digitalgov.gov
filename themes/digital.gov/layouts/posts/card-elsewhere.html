@@ -20,19 +20,25 @@
         {{- if .Params.deck -}}{{- .Params.deck | markdownify -}}{{- end -}}
         {{- if $source -}}
           {{ $url := urls.Parse .Params.source_url }}
-          <a class="source" href="{{- .Params.source_url -}}" title="Read at {{- $source.Params.name -}}"><em>{{ $url.Scheme -}}://{{ $url.Host -}}/ <i class="fas fa-external-link-square-alt"></i></em></a>
+          <em>— via <a class="source" href="{{- $source.Params.domain -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>
         {{ end }}
       </p>
       {{- if $source -}}
         {{ $url := urls.Parse .Params.source_url }}
-        <p class="domain">via <a class="source" href="{{- $source.Params.domain -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></p>
+        <p class="domain"></p>
       {{ end }}
 
     </div>
   </div>
-  <div class="meta display-flex">
-    {{ partial "core/get_clicks" . -}}
-    {{ partial "core/get_topics" . }}
+  <div class="meta display-flex flex-justify">
+    <div>
+      {{ partial "core/get_clicks" . -}}
+      <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
+    </div>
+    <div>
+      {{ partial "core/get_topics" . }}
+    </div>
+
   </div>
 
   <a class="overlay" href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>

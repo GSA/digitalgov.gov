@@ -305,10 +305,10 @@ $theme-type-scale-2xs:      3;
 $theme-type-scale-xs:       4;
 $theme-type-scale-sm:       5;
 $theme-type-scale-md:       7;
-$theme-type-scale-lg:       10;
+$theme-type-scale-lg:       9;
 $theme-type-scale-xl:       12;
-$theme-type-scale-2xl:      14;
-$theme-type-scale-3xl:      16;
+$theme-type-scale-2xl:      15;
+$theme-type-scale-3xl:      17;
 
 /*
 ----------------------------------------
@@ -331,7 +331,7 @@ $theme-font-weight-heavy:         900;
 // should we generate all available weights
 // regardless of the assignments above?
 
-$theme-generate-all-weights:        false;
+$theme-generate-all-weights:        true;
 
 /*
 ----------------------------------------

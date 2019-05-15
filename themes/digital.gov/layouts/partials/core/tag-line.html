@@ -2,7 +2,12 @@
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-2">
       <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
-        <h3>{{ .Site.Params.dg_tagline | markdownify }}</h3>
+        <h3 class="tagline">{{ .Site.Params.dg_tagline | markdownify }}</h3>
+        <div class="learn-more">
+          <a href="{{- "/about" | absURL -}}" title="Learn more about Digital.gov">Learn more</a>
+          <a href="{{- "/about" | absURL -}}" title="Give us feedback">Give us feedback</a>
+        </div>
+
       </div>
     </div>
   </div>
