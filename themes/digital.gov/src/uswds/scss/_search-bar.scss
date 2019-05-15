@@ -45,7 +45,7 @@
 		@include u-padding-left('105');
 		@include u-padding-bottom('05');
 		@include u-radius-left('md');
-		@include u-border('1px', 'solid', 'indigo-warm-70');
+		@include u-border('2px', 'solid', 'indigo-warm-70');
 		@include u-border-right(0);
 
 		&::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
@@ -73,7 +73,7 @@
 		@include u-height(6);
 
 		@include u-radius-right('md');
-		@include u-border('1px', 'solid', 'indigo-warm-70');
+		@include u-border('2px', 'solid', 'indigo-warm-70');
 		@include u-border-left(0);
 
 		&:hover{
