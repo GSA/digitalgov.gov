@@ -17,7 +17,7 @@ Milestone 8.2 of the [Digital Government Strategy](http://www.whitehouse.gov/sit
 
 ## Instructions for Adding Custom Web Analytics Code to Federal Agency Websites
 
-Agencies have two options for the DAP code implementation, all described in detail in the <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/DAP_v3.1_QuickGuide_Aug2016-1.pdf" target="_blank">DAP Implementation Guide</a> (PDF, 195 KB, 10 pages, August 2016) and outlined below.
+Agencies have two options for the DAP code implementation, all described in detail in the <a href="https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20Quick%20Guide.pdf" target="_blank">DAP Implementation Guide</a> and outlined below.
 
   1. **Centrally hosted (recommended):**  the implementation involves calling the DAP code file via a central host location that the Digital Analytics Program hosts at: <a href="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js" target="_blank">https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js</a>.
 
@@ -26,7 +26,7 @@ Agencies have two options for the DAP code implementation, all described in deta
 
 <a style="line-height: 1.5" href="https://raw.githubusercontent.com/digital-analytics-program/gov-wide-code/master/Universal-Federated-Analytics.js" target="_blank">Regular version of the DAP code<br /> </a><a style="line-height: 1.5" href="https://raw.githubusercontent.com/digital-analytics-program/gov-wide-code/master/Universal-Federated-Analytics-Min.js">Minified version of the DAP code</a>
 
-In addition, those implementing should read capabilities of the code in the <a href="https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.0%20-%20DAP%20Code%20Capabilities%20Summary%20and%20Reference.pdf">version 4.0 Code Summary</a>, and the <a href="https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.0%20-%20Release%20Notes.pdf" target="_blank">version 4.0 Release Notes</a>.
+In addition, those implementing should read capabilities of the code in the <a href="https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20DAP%20Code%20Capabilities%20Summary%20and%20Reference.pdf">version 4.1 Code Summary</a>, and the <a href="https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20Release%20Notes.pdf" target="_blank">version 4.1 Release Notes</a>.
 
 With either option (centrally or locally hosted), the Government-Wide Digital Analytics Program website traffic data is being filtered into its own separate Google Analytics account and should cause no material change in your independent Google Analytics account metrics._Note: When migrating from DAP Google Analytics &#8220;Classic&#8221; to DAP Universal Analytics (UA), you must replace both the old javascript code file and the script block/tag, as specified in the Implementation Guide, to follow the new UA format._
 
