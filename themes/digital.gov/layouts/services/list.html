@@ -25,14 +25,12 @@
     <section>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row grid-gap-2">
+
         {{/* Gets all service pages */}}
         {{ $services := (where .Site.Pages "Section" "services") }}
 
-        {{/* Gather only the pages with a weight greater than or equal to 2 */}}
+        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
         {{ $services := (where $services ".Params.weight" "ge" 1) }}
-
-        {{/* Shuffle the pages (will happen on build) */}}
-        {{ $services := shuffle ($services) }}
 
         {{ with $services }}
 
