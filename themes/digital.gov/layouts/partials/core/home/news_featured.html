@@ -1,89 +1,91 @@
 {{/* News & Updates */}}
 
-<section id="news">
-  <div class="grid-container grid-container-desktop">
+<section class="posts">
+  <div class="paper">
+    <div class="grid-container grid-container-desktop">
 
-    <div class="grid-row grid-gap-4">
-      <div class="grid-col-12">
-        <header>
-          <h2>Community Spotlight</h2>
-          <p>Innovative work, news and ideas from people and teams in government</p>
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+          <header>
+            <h2>Community Spotlight</h2>
+            <p>Innovative work, news and ideas from people and teams in government</p>
 
-          <div class="join">
-            <a href="{{- "/join" | absURL -}}">Contribute</a>
-            <a href="{{- "/communities" | absURL -}}">Join a community</a>
-            <a href="{{- "/join" | absURL -}}">Host an event</a>
-          </div>
+            <div class="join">
+              <a href="{{- "/join" | absURL -}}">Contribute</a>
+              <a href="{{- "/communities" | absURL -}}">Join a community</a>
+              <a href="{{- "/join" | absURL -}}">Host an event</a>
+            </div>
 
-          <div class="newsletter">
-            <p><a href="http://connect.digitalgov.gov/subscribe" title="Sign up for our newsletter"><img src="{{ "img/love-letter.png" | absURL }}" alt="Newsletter"> <span>Sign up for our newsletter</span></a> and stay up to date with the news and events happening across our community.</p>
-          </div>
+            <div class="newsletter">
+              <p><a href="http://connect.digitalgov.gov/subscribe" title="Sign up for our newsletter"><img src="{{ "img/love-letter.png" | absURL }}" alt="Newsletter"> <span>Sign up for our newsletter</span></a> and stay up to date with the news and events happening across our community.</p>
+            </div>
 
-        </header>
+          </header>
+        </div>
       </div>
-    </div>
 
-    <div class="grid-row grid-gap-4">
-      <div class="grid-col-12">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
 
-        <section class="stream">
+          <section class="stream">
 
-          {{/* Gets the past events */}}
-          {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+            {{/* Gets the past events */}}
+            {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
-          {{/* Gets the past events that have youtube_id set  */}}
-          {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+            {{/* Gets the past events that have youtube_id set  */}}
+            {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
-          {{/* Gets the recent blog posts */}}
-          {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
+            {{/* Gets the recent blog posts */}}
+            {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
 
-          {{/* Merges the past events and the recent blog posts */}}
-          {{ $stream := union $posts $past_events }}
+            {{/* Merges the past events and the recent blog posts */}}
+            {{ $stream := union $posts $past_events }}
 
-          {{/* Sorting all the items by date and reverse chron */}}
-          {{ $stream := $stream.ByDate.Reverse }}
+            {{/* Sorting all the items by date and reverse chron */}}
+            {{ $stream := $stream.ByDate.Reverse }}
 
-          {{/* gets the # of news items to display from the config.yml */}}
-          {{ $news_count := .Site.Params.news_count }}
+            {{/* gets the # of news items to display from the config.yml */}}
+            {{ $news_count := .Site.Params.news_count }}
 
-          {{/* Gets the first 8 items */}}
-          {{- range first $news_count $stream -}}
+            {{/* Gets the first 8 items */}}
+            {{- range first $news_count $stream -}}
 
-            {{- if eq .Type "events" -}}
-              {{- .Render "card-event-past" -}}
-            {{- end -}}
+              {{- if eq .Type "events" -}}
+                {{- .Render "card-event-past" -}}
+              {{- end -}}
 
-            {{- if eq .Type "posts" -}}
-              {{/* External links */}}
-              {{- if .Params.source -}}
-                {{/* see /layouts/posts/ for card templates */}}
-                {{ .Render "card-elsewhere"}}
-              {{ else }}
-                {{/* Blog Posts — Internal links */}}
-                {{- if .Params.deck }}
+              {{- if eq .Type "posts" -}}
+                {{/* External links */}}
+                {{- if .Params.source -}}
                   {{/* see /layouts/posts/ for card templates */}}
-                  {{ .Render "card-article"}}
+                  {{ .Render "card-elsewhere"}}
                 {{ else }}
-                  {{/* see /layouts/posts/ for card templates */}}
-                  {{ .Render "card-article"}}
+                  {{/* Blog Posts — Internal links */}}
+                  {{- if .Params.deck }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ else }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ end }}
                 {{ end }}
-              {{ end }}
+              {{- end -}}
+
             {{- end -}}
+          </section>
 
-          {{- end -}}
-        </section>
-
+        </div>
       </div>
-    </div>
 
-    <div class="grid-row grid-gap-4">
-      <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
-        <footer>
-          <a class="btn" href="{{ "posts" | absURL }}" title=""><span>See all News</span> <i class="fas fa-arrow-circle-right"></i></a>
-          <p>Have a case study to share? Did your team recently launch something?<br/><a href="mailto:digitalgov@gsa.gov" title=""><strong>Send us an email</strong></a></p>
-        </footer>
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <footer>
+            <a class="btn" href="{{ "posts" | absURL }}" title=""><span>See all News</span> <i class="fas fa-arrow-circle-right"></i></a>
+            <p>Have a case study to share? Did your team recently launch something?<br/><a href="mailto:digitalgov@gsa.gov" title=""><strong>Send us an email</strong></a></p>
+          </footer>
+        </div>
       </div>
-    </div>
 
+    </div>
   </div>
 </section>

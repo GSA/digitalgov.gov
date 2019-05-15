@@ -1,8 +1,8 @@
 ---
 url: /posts/
-title: 'News and Updates'
-summary: 'Notable work from people and teams across government'
-deck: "Notable work from people and teams across government"
+title: 'Community Spotlight'
+summary: 'Innovative work, news and ideas from people and teams in government'
+deck: "Innovative work, news and ideas from people and teams in government"
 
 aliases:
   - /news/
