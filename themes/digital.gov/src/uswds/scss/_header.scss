@@ -32,7 +32,6 @@ header#header{
 		@include u-font('sans', 'md');
 		@include u-text('semibold');
 		@include u-text('indigo-warm-60v');
-		// @include u-display('none');
 		@include at-media('desktop') {
 			@include u-display('none');
 		}
@@ -48,6 +47,11 @@ header#header{
 		@include u-text('semibold');
 		@include u-text('no-underline');
 		@include u-font('sans', 'md');
+		&:hover{
+			span{
+				@include u-border-bottom('2px','solid','white');
+			}
+		}
 	}
 
 	// Main Navigation

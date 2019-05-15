@@ -36,8 +36,10 @@
         @include u-radius('md');
         @include u-display('inline-block');
         @include u-font('sans', 'md');
+        transition: background-color .5s, color .5s;
         &:hover{
-          @include u-bg('indigo-warm-10');
+          @include u-bg('indigo-warm-60v');
+          @include u-text('white');
         }
       }
     }
