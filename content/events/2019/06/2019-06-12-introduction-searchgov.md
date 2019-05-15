@@ -16,6 +16,8 @@ youtube_id: niT9kU6AfP8
 
 ---
 
+_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4018863&CustomerID=321)._ 
+
 
 {{< img-right src="searchdotgovlogo" caption="" alt="Search.gov logo" >}}
 
@@ -30,14 +32,12 @@ In this online event, we’ll provide a basic overview of Search.gov’s essenti
 - Analyzing searchers’ behavior through analytics 
 - Branding your results page and deciding which features to turn on 
 - Indexing your content with Search.gov and activating your search 
-  
 
 ## Related Links:
 
 - [Search Site Launch Guide](https://search.gov/manual/site-launch-guide.html)
 - [Everything You Need to Know About Indexing with Search.gov](https://search.gov/manual/indexing-with-searchgov.html)
-- [Previous Training Sessions](https://search.gov/manual/training.html)
-
+- [Previous Training Sessions](https://search.gov/manual/training.html) 
   
 ---
 
