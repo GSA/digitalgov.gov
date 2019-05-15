@@ -1,7 +1,8 @@
 // Article
 
 main{
-
+	@include u-padding-y(6);
+	
 	// Base Article Header Styles
 	header.page-header,
 	> header,
