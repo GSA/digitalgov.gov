@@ -1,11 +1,11 @@
 {{ define "content" }}
 
 <main role="main">
-  
+
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
-        <header>
+        <header class="header-{{- .Type -}}">
           {{/* Page Title */}}
           <h1>{{- .Title | markdownify -}} </h1>
 

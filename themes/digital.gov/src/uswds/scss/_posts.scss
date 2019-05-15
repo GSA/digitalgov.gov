@@ -1,10 +1,11 @@
 // Homepage — https://digital.gov/
 .home{
-  .posts{
+  #posts_featured{
     .paper{
       @include u-padding-y(3);
+      @include u-bg('gray-warm-5');
     }
-    header{
+    header.header-posts{
       @include u-padding-y(2);
     }
   }
@@ -15,68 +16,69 @@
   .paper{
     @include u-bg('gray-warm-5');
   }
+}
 
-  main header{
-    @include u-padding-bottom(2);
-    @include u-text('indigo-warm-80');
-    h1, h2{
-      @include u-margin-y(1);
-      @include u-font('sans', '2xl');
-      @include u-text('heavy');
-      @include u-text('center');
-      @include u-line-height('sans', 2);
+// header styles that apply to both places
+header.header-posts{
+  @include u-padding-bottom(2);
+  @include u-text('indigo-warm-80');
+  h1, h2{
+    @include u-margin-y(1);
+    @include u-font('sans', '2xl');
+    @include u-text('heavy');
+    @include u-text('center');
+    @include u-line-height('sans', 2);
+  }
+  .deck, p{
+    @include u-margin(0);
+    @include u-text('light');
+    @include u-text('center');
+    @include u-maxw('none');
+    @include u-font('sans', 'lg');
+    @include u-line-height('sans', 3);
+  }
+  .join{
+    @include u-margin-y(3);
+    @include u-text('center');
+    a{
+      @include u-margin-x('105');
+      @include u-padding-y('05');
+      @include u-padding-x('105');
+      @include u-border('2px', 'indigo-warm-60v', 'solid');
+      @include u-text('no-underline');
+      @include u-text('medium');
+      @include u-text('indigo-warm-60v');
+      @include u-radius('md');
+      @include u-display('inline-block');
+      @include u-font('sans', 'md');
+      transition: background-color .5s, color .5s;
+      &:hover{
+        @include u-bg('indigo-warm-60v');
+        @include u-text('white');
+      }
     }
-    .deck, p{
-      @include u-margin(0);
-      @include u-text('light');
-      @include u-text('center');
-      @include u-maxw('none');
-      @include u-font('sans', 'lg');
-      @include u-line-height('sans', 3);
+  }
+  .newsletter{
+    p{
+      @include u-padding-x(2);
+      @include u-font('sans', 'sm');
+      @include u-text('left');
     }
-    .join{
-      @include u-margin-y(3);
-      @include u-text('center');
-      a{
-        @include u-margin-x('105');
-        @include u-padding-y('05');
-        @include u-padding-x('105');
-        @include u-border('2px', 'indigo-warm-60v', 'solid');
-        @include u-text('no-underline');
-        @include u-text('medium');
-        @include u-text('indigo-warm-60v');
-        @include u-radius('md');
-        @include u-display('inline-block');
-        @include u-font('sans', 'md');
-        transition: background-color .5s, color .5s;
-        &:hover{
-          @include u-bg('indigo-warm-60v');
-          @include u-text('white');
+    a{
+      @include u-text('no-underline');
+      @include u-text('indigo-warm-60v');
+      @include u-text('bold');
+      img{
+        @include u-position('relative');
+        @include u-top(1);
+        @include u-width(4);
+      }
+      &:hover{
+        span{
+          @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
         }
       }
     }
-    .newsletter{
-      p{
-        @include u-padding-x(2);
-        @include u-font('sans', 'sm');
-        @include u-text('left');
-      }
-      a{
-        @include u-text('no-underline');
-        @include u-text('indigo-warm-60v');
-        @include u-text('bold');
-        img{
-          @include u-position('relative');
-          @include u-top(1);
-          @include u-width(4);
-        }
-        &:hover{
-          span{
-            @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
-          }
-        }
-      }
 
-    }
   }
 }
