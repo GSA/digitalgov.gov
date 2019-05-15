@@ -1,15 +1,15 @@
 {{- $uswds_img_path := "lib/uswds/img" -}}
-<div class="usa-banner bg-primary-darker">
+<div class="usa-banner bg-primary-darkest">
   <div class="usa-accordion">
     <header class="usa-banner__header">
-      <div class="usa-banner__inner grid-container-desktop">
+      <div class="usa-banner__inner grid-container-widescreen">
         <div class="grid-col-auto">
           {{- $uswds_asset := "favicons/favicon-57.png" -}}
           {{- $path := printf "%s/%s" $uswds_img_path $uswds_asset -}}
           {{- $path := (replace $path "//" "/") | relURL -}}
           <img class="usa-banner__header-flag" src="{{- $path -}}" alt="U.S. flag">
         </div>
-        <div class="grid-col-fill tablet:grid-col-auto text-base-lightest">
+        <div class="grid-col-fill tablet:grid-col-auto text-base-lightest text-center">
           <p class="usa-banner__header-text">An official website of the United States government</p>
           <p class="usa-banner__header-action text-white" aria-hidden="true">Here’s how you know</p>
         </div>
