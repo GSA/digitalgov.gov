@@ -1,9 +1,10 @@
 // Services
 
-#home section#services{
-  @include u-bg('indigo-80');
-  @include u-padding-y(6);
-  header{
+.services{
+  .paper{
+    @include u-bg('indigo-80');
+  }
+  main header{
     @include u-margin-bottom(4);
     @include u-text('center');
     @include u-text('orange-warm-30v');
