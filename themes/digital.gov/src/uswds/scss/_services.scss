@@ -7,20 +7,24 @@
   main header{
     @include u-margin-bottom(4);
     @include u-text('center');
-    @include u-text('orange-warm-30v');
-    h2{
+    h1{
       @include u-font('sans', '3xl');
       @include u-line-height('sans', 2);
       @include u-margin-bottom(1);
       @include u-text('thin');
       @include u-text('orange-warm-30v');
     }
+    .deck{
+      @include u-text('white');
+      @include u-font('sans', 'lg');
+      @include u-text('light');
+    }
     p{
       @include u-margin(0);
       @include u-margin-bottom(1);
       @include u-font('sans', 'lg');
       @include u-text('light');
-      @include u-text('gray-1');
+      @include u-text('white');
     }
     a{
       @include u-text('no-underline');
