@@ -46,6 +46,7 @@ header#header{
 		@include u-padding-y(1);
 		@include u-radius('md');
 		@include u-text('semibold');
+		@include u-text('no-underline');
 		@include u-font('sans', 'md');
 	}
 
