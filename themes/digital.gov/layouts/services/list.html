@@ -1,7 +1,7 @@
 {{ define "content" }}
 
 
-<main id="services" role="main">
+<main role="main">
   <article>
     <header>
       <div class="grid-container grid-container-desktop">
@@ -24,6 +24,34 @@
 
     <section>
       <div class="grid-container grid-container-desktop">
+        <div class="grid-row grid-gap-2">
+        {{/* Gets all service pages */}}
+        {{ $services := (where .Site.Pages "Section" "services") }}
+
+        {{/* Gather only the pages with a weight greater than or equal to 2 */}}
+        {{ $services := (where $services ".Params.weight" "ge" 1) }}
+
+        {{/* Shuffle the pages (will happen on build) */}}
+        {{ $services := shuffle ($services) }}
+
+        {{ with $services }}
+
+          {{ range $i, $e := . }}
+            <div class="grid-col-12 tablet:grid-col-4 flex-6">
+              <div class="promo promo-card " data-edit-this="{{- .File.Path -}}">
+                {{ if .Params.icon }}
+                {{ $src := (print "/logos/" .Params.icon) }}
+                <img class="float-right margin-left-1 width-7" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+                {{ end }}
+                <h3><a href="{{ .Params.url }}?dg" title="{{ .Params.title }}">{{ .Params.title }}</a></h3>
+                <p>{{ .Params.summary | markdownify }}</p>
+                <a class="overlay" href="{{ .Params.url }}?dg" title="{{ .Params.title }}"><span></span></a>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+        </div>
+
         {{/* Gets all service pages */}}
         {{ $services := (where .Site.Pages "Section" "services").ByTitle }}
 
