@@ -81,7 +81,9 @@
 		h3 a{
 			@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
 		}
-		.play{}
+		.play{
+			@include u-bg('indigo-warm-60v');
+		}
 		.topics{
 			a{
 				@include u-bg('indigo-warm-20');
