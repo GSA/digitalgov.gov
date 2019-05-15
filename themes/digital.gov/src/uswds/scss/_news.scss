@@ -41,6 +41,29 @@
         }
       }
     }
+    .newsletter{
+      p{
+        @include u-padding-x(2);
+        @include u-font('sans', 'sm');
+        @include u-text('left');
+      }
+      a{
+        @include u-text('no-underline');
+        @include u-text('indigo-warm-60v');
+        @include u-text('bold');
+        img{
+          @include u-position('relative');
+          @include u-top(1);
+          @include u-width(4);
+        }
+        &:hover{
+          span{
+            @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+          }
+        }
+      }
+
+    }
   }
   footer{
     @include u-padding-y(4);
