@@ -3,8 +3,7 @@
 {{- partialCached "core/head-comment.html" . -}}
 {{- partial "core/head.html" . -}}
 
-<body class="">
-
+<body class="{{- .Type }} {{ .Kind -}}">
   <script>
     dataLayer = [{
       'content-type': 'resource+page',
