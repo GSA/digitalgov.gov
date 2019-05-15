@@ -1,5 +1,4 @@
-// News + Spotlight
-
+// Homepage — https://digital.gov/
 .home{
   .posts{
     .paper{
@@ -10,6 +9,8 @@
     }
   }
 }
+
+// All posts page — https://digital.gov/posts/
 .posts{
   .paper{
     @include u-bg('gray-warm-5');
