@@ -16,13 +16,10 @@ header#header{
 		@include u-margin(0);
 		@include u-line-height('sans', 1);
 		@include u-display('block');
-		@include u-width('card');
 		@include at-media('tablet-lg') {
 		}
 		img{
 			width:182px;
-			@include u-position('absolute');
-			@include u-top('05');
 		}
 	}
 
