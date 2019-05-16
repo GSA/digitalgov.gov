@@ -1,5 +1,5 @@
 ---
-url: /resources/crowdsourcing-toolkit-for-federal-agencies/
+slug: crowdsourcing-toolkit-for-federal-agencies
 date: 2014-03-05 12:01:06 -0400
 title: Crowdsourcing Toolkit for Federal Agencies
 summary: "What is a Challenge? In a challenge, a &#8220;seeker&#8221; challenges &#8220;solvers&#8221; to identify a solution to a particular problem, or rewards contestants for accomplishing a goal. "

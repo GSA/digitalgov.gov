@@ -1,5 +1,5 @@
 ---
-url: /resources/antideficiency-act-implications-of-rtain-online-terms-of-service-agreements/
+slug: antideficiency-act-implications-of-rtain-online-terms-of-service-agreements
 date: 2015-11-24 9:43:26 -0400
 title: Antideficiency Act Implications of Certain Online Terms of Service Agreements
 summary: 'This memo contains the opinion by the Office of Legal Counsel (OLC) of the Department of Justice (DOJ)  and sheds light on specific, problematic terms of use in social media products. The OLC Memorandum concludes that in certain circumstances, a Federal employee with contracting authority violates the Antideficiency Act when he or she opens an agency'

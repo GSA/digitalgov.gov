@@ -1,5 +1,5 @@
 ---
-url: /resources/
+slug: 
 date: 2013-11-17 11:13:13 -0400
 title: "Guides and Resources"
 summary: 'Common resources for people working in Digital government.'

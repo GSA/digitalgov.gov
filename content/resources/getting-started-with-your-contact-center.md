@@ -1,5 +1,5 @@
 ---
-url: /resources/contact-center-guidelines/getting-started-with-your-contact-center/
+slug: contact-center-guidelines/getting-started-with-your-contact-center
 date: 2014-02-05 10:25:54 -0400
 title: 'Getting Started with your Contact Center'
 type: guide

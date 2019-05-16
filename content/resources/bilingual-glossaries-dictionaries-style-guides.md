@@ -1,5 +1,5 @@
 ---
-url: /resources/bilingual-glossaries-dictionaries-style-guides/
+slug: bilingual-glossaries-dictionaries-style-guides
 date: 2014-06-11 9:55:09 -0400
 title: 'Bilingual Glossaries, Dictionaries, and Style Guides'
 summary: 'Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government.'

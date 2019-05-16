@@ -1,5 +1,5 @@
 ---
-url: /resources/mobile/principles/javascript/
+slug: mobile/principles/javascript
 date: 2018-10-09 12:30:00 -0500
 title: 'JavaScript Is Really Cool, When Used With Care'
 summary: 'Week one of our series, Eight Principles of Mobile-Friendliness, covers the benefits of using JavaScript.'

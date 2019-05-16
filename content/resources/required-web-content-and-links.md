@@ -1,5 +1,5 @@
 ---
-url: /resources/required-web-content-and-links/
+slug: required-web-content-and-links
 date: 2011-12-05 12:37:26 -0400
 title: Required Web Content and Links
 summary: 'If you manage a public website in the federal executive branch, it&#8217;s a requirement to have certain content&mdash;or link to that content&mdash;from various places on your website. Here&rsquo;s a table to help you comply with these requirements. Required Link Suggested Link Label* Where It&rsquo;s Required Source of Requirement Privacy Policy&mdash;All federal'

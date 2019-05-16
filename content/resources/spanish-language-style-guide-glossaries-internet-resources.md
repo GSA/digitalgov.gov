@@ -1,5 +1,5 @@
 ---
-url: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/
+slug: spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources
 date: 2014-06-11 9:59:14 -0400
 title: 'Spanish Language Style Guide and Glossaries: Internet Resources'
 summary: 'A list of additional Internet resources to help standardize the use of Spanish across government.'
