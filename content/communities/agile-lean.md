@@ -11,6 +11,8 @@ weight: 2
 
 topics:
   - agile
+  - product-management
+  
 aliases:
   - /agile-lean-community-of-practice/
 
