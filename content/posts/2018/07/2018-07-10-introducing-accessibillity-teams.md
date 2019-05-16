@@ -9,6 +9,7 @@ categories:
   - accessibility
   - ux
 tag:
+  - accessibility
   - methodology
 featured_image:
   uid: accessibility-for-teams-2
