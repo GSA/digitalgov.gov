@@ -12,7 +12,7 @@
 }
 
 // All posts page — https://digital.gov/posts/
-.posts{
+.posts.section{
   .paper{
     @include u-bg('gray-warm-5');
   }
