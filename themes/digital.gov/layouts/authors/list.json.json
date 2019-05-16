@@ -65,7 +65,7 @@
         {{- if (isset .Params "summary") -}}
         "summary" : "{{- .Params.summary -}}",
         {{- end -}}
-        "date_published" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
+        "date" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
         {{- if .Lastmod -}}
         "date_modified" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
         {{- else -}}
