@@ -29,6 +29,14 @@
 
           <section class="stream">
 
+            {{/* Future Events ===========================  */}}
+            {{- $events := where .Site.RegularPages.Reverse  "Section" "events" -}}
+
+            {{/* gets the # of news items to display from the config.yml */}}
+            {{- $events_count := .Site.Params.events_count -}}
+
+            {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 -8)) | first 2 -}}
+
             {{/* Past Events =========================== */}}
             {{/* only the ones with videos */}}
             {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
@@ -42,6 +50,7 @@
 
             {{/* Merges the past events and the recent blog posts */}}
             {{ $stream := union $posts $past_events }}
+            {{/* {{ $stream := union $posts $events }} */}}
 
             {{/* Sorting all the items by date and reverse chron */}}
             {{ $stream := $stream.ByDate.Reverse }}
@@ -51,12 +60,26 @@
 
             {{/* Gets the first X items for the news stream */}}
             {{/* The # is defined in the config.yml file */}}
-            {{- range first $stream_count $stream -}}
+            {{- range $i, $el := first $stream_count $stream -}}
+
+              
+              {{- with $events -}}
+                {{- if eq $i 2 -}}
+                  {{- range first 1 $events -}}
+                    {{- .Render "card-event" -}}
+                  {{- end -}}
+                {{- end -}}
+
+                {{- if eq $i 8 -}}
+                  {{- range first 1 (after 1 $events) -}}
+                    {{- .Render "card-event" -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+
 
               {{- if eq .Type "events" -}}
-                {{- if .Date.After now -}}
-                  {{- .Render "card-event" -}}
-                {{- else -}}
+                {{- if .Date.Before now -}}
                   {{- .Render "card-event-past" -}}
                 {{- end -}}
               {{- end -}}
