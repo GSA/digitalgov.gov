@@ -29,17 +29,29 @@
 
           <section class="stream">
 
-            {{/* Gets the past events */}}
+            {{/* Past Events =========================== */}}
+            {{/* only the ones with videos */}}
             {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
             {{/* Gets the past events that have youtube_id set  */}}
             {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
+            {{/* Future Events ===========================  */}}
+            {{/* in the coming 8 days */}}
+            {{ $events := where .Site.RegularPages.Reverse  "Section" "events" }}
+
+            {{/* gets the # of news items to display from the config.yml */}}
+            {{ $events_count := .Site.Params.events_count }}
+
+            {{ $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 -8)) | first $events_count }}
+
+            {{/* Posts =========================== */}}
             {{/* Gets the recent blog posts */}}
             {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
 
             {{/* Merges the past events and the recent blog posts */}}
             {{ $stream := union $posts $past_events }}
+            {{ $stream := union $posts $events }}
 
             {{/* Sorting all the items by date and reverse chron */}}
             {{ $stream := $stream.ByDate.Reverse }}
