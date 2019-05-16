@@ -36,34 +36,29 @@
             {{/* Gets the past events that have youtube_id set  */}}
             {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
-            {{/* Future Events ===========================  */}}
-            {{/* in the coming 8 days */}}
-            {{ $events := where .Site.RegularPages.Reverse  "Section" "events" }}
-
-            {{/* gets the # of news items to display from the config.yml */}}
-            {{ $events_count := .Site.Params.events_count }}
-
-            {{ $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 -8)) | first $events_count }}
-
             {{/* Posts =========================== */}}
             {{/* Gets the recent blog posts */}}
             {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
 
             {{/* Merges the past events and the recent blog posts */}}
             {{ $stream := union $posts $past_events }}
-            {{ $stream := union $posts $events }}
 
             {{/* Sorting all the items by date and reverse chron */}}
             {{ $stream := $stream.ByDate.Reverse }}
 
             {{/* gets the # of news items to display from the config.yml */}}
-            {{ $news_count := .Site.Params.news_count }}
+            {{ $stream_count := .Site.Params.stream_count }}
 
-            {{/* Gets the first 8 items */}}
-            {{- range first $news_count $stream -}}
+            {{/* Gets the first X items for the news stream */}}
+            {{/* The # is defined in the config.yml file */}}
+            {{- range first $stream_count $stream -}}
 
               {{- if eq .Type "events" -}}
-                {{- .Render "card-event-past" -}}
+                {{- if .Date.After now -}}
+                  {{- .Render "card-event" -}}
+                {{- else -}}
+                  {{- .Render "card-event-past" -}}
+                {{- end -}}
               {{- end -}}
 
               {{- if eq .Type "posts" -}}
