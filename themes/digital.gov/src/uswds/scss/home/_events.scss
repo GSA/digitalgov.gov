@@ -4,7 +4,7 @@
   #events_featured{
     .paper{
       @include u-padding-y(3);
-      @include u-bg('blue-50v');
+      @include u-bg('blue-warm-10');
     }
     header.header-posts{
       @include u-padding-y(2);
@@ -15,7 +15,7 @@
 // All posts page — https://digital.gov/posts/
 .events.section{
   .paper{
-    @include u-bg('blue-50v');
+    @include u-bg('blue-warm-10');
   }
 }
 
@@ -28,7 +28,6 @@ header.header-events{
     @include u-font('sans', '3xl');
     @include u-text('thin');
     @include u-text('center');
-    @include u-text('white');
     @include u-line-height('sans', 2);
   }
   .deck, p{
@@ -36,7 +35,6 @@ header.header-events{
     @include u-text('light');
     @include u-text('center');
     @include u-maxw('none');
-    @include u-text('white');
     @include u-font('sans', 'lg');
     @include u-line-height('sans', 3);
   }
