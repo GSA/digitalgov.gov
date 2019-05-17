@@ -222,13 +222,13 @@ Special instructions: The building is open to the public. A hackathon representa
 ### New York City, NY
 
 **One World Trade Center**<br/>
-New York, NY 10007 (south entrance)<br/>
+New York, NY 10007<br/>
 [View map](https://goo.gl/maps/RgRmvzZKY432K9kp8)<br/>
 Capacity: 35
 
 Local hackathon run-time: 10:00 am - 5:00 pm, ET. Participants arrive no earlier than: 9:00 am. Public hours to the building are 7 am - 5 pm.
 
-Special instructions: Participant will follow all security procedures stated and be escorted by a hackathon representative to Room 55S08.
+Special instructions: Please enter at the south entrance. Participants will follow all security procedures stated and be escorted by a hackathon representative to Room 55S08.
 
 
 
