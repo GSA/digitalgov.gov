@@ -37,7 +37,7 @@ Throughout this all-day hackathon, taking place simultaneously at eight GSA loca
 
 ## What Is Customer Experience, and What Does This Mean for Government?
 
-Customer Experience is the journey a customer has while interacting with products and brands. CX has gained a lot of attention within government, and our aim is to better the customer experience for external and internal interaction with government agencies, products, technology and people.
+Customer experience is the journey a customer has while interacting with products and brands. CX has gained a lot of attention within government, and our aim is to better the customer experience for external and internal interaction with government agencies, products, technology and people.
 
 ## Hackathon details
 
