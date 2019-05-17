@@ -168,13 +168,11 @@ For each GSA location, building entrance information and room numbers are provid
 
 **What to Bring**
 
-- [A government-issued ID](https://travel.state.gov/content/travel/en/passports/requirements/identification.html) — you will need to go through security.
-- Your own laptop and power cord.
-- Headphones.
-- Personal water bottle, if desired.
-- Your own lunch, if desired - the hackathon schedule does not provide for a dedicated lunch break, so if you prefer to work through lunch time, please bring your own lunch. It will be time-consuming to go in and out of the government buildings.
-
-
+- [A government-issued ID](https://travel.state.gov/content/travel/en/passports/requirements/identification.html) — you will need to go through security
+- Your own laptop and power cord
+- Headphones
+- Personal water bottle, if desired
+- Your own lunch, if desired - the hackathon schedule does not provide for a dedicated lunch break, so if you prefer to work through lunch time, please bring your own lunch. It will be time-consuming to go in and out of the government buildings
 
 
 ---
