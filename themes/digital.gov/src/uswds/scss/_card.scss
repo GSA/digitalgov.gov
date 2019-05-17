@@ -28,18 +28,16 @@
 		}
 	}
 	p{
+		@include u-margin-top(1);
 		@include u-line-height('sans', 3);
 		@include u-font('sans', 'md');
 	}
 	.deck{
-		@include u-margin-top('05');
-		@include u-font('sans', 'md');
-		@include u-line-height('sans', 3);
 		@include u-text('light');
 	}
 
-	.summary{
-
+	.image-featured{
+		@include u-margin-bottom(2);
 	}
 
 	.meta{
@@ -75,6 +73,7 @@
 			white-space: nowrap;
 		}
 		.authors-list-short{
+			@include u-margin(0);
 			@include at-media('tablet') {
 				@include u-order('last');
 			}
