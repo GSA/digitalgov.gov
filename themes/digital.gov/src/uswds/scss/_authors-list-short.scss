@@ -1,8 +1,8 @@
 .authors-list-short{
-	@include u-margin-top(0);
+	@include u-margin-top(0, !important);
 	@include u-margin-bottom('205');
 	@include at-media('tablet') {
-		@include u-margin-bottom(0);
+		@include u-margin-y(0, !important);
 	}
 	@include u-maxw('full');
 	@include u-display('flex');
