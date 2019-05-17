@@ -1,12 +1,17 @@
 .card{
 	@include u-margin-bottom(1);
-	@include u-padding(2);
 	@include u-bg('white');
-	h6{
+	.paper{
+		@include u-padding('205', !important);
+		@include u-bg('white', !important);
+		transition: background-color .2s;
+	}
+	h6,
+	.kicker{
 		@include u-margin(0);
 		@include u-margin-bottom('05');
-		@include u-font('sans', 'xs');
-		@include u-text('bold');
+		@include u-font('sans', '2xs');
+		@include u-text('semibold');
 		@include u-text('uppercase');
 		@include u-color('indigo-warm-60v');
 	}
@@ -74,15 +79,22 @@
 		@include u-height('full');
 		@include u-top(0);
 		@include u-left(0);
+		cursor: pointer;
 		z-index: 1;
 	}
 	&:hover{
-		@include u-bg('gray-cool-2');
+		.paper{
+			@include u-bg('gray-cool-2', !important);
+		}
 		h3 a{
 			@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
 		}
 		.play{
 			@include u-bg('indigo-warm-60v');
+		}
+		.btn-register{
+			@include u-bg('indigo-warm-60v');
+			@include u-text('white');
 		}
 		.topics{
 			a{

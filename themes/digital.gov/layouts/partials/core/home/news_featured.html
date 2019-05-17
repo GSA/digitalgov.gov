@@ -62,7 +62,7 @@
             {{/* The # is defined in the config.yml file */}}
             {{- range $i, $el := first $stream_count $stream -}}
 
-              
+
               {{- with $events -}}
                 {{- if eq $i 2 -}}
                   {{- range first 1 $events -}}

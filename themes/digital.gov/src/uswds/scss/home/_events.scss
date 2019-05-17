@@ -1,16 +1,16 @@
 // training and events
 
-.home{
-  #events_featured{
-    .paper{
-      @include u-padding-y(3);
-      @include u-bg('blue-warm-10');
-    }
-    header.header-posts{
-      @include u-padding-y(2);
-    }
-  }
-}
+// .home{
+//   #events_featured{
+//     .paper{
+//       @include u-padding-y(3);
+//       @include u-bg('blue-warm-10');
+//     }
+//     header.header-posts{
+//       @include u-padding-y(2);
+//     }
+//   }
+// }
 
 // All posts page — https://digital.gov/posts/
 .events.section{

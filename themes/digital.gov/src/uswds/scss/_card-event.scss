@@ -1,45 +1,56 @@
-article.card{
-	@include u-margin-bottom(0);
-	@include u-padding-y(4);
-	@include u-border-bottom('gray-40', 'solid', '1px');
-	h3{
-		@include u-font('sans', 'lg');
-		@include u-text('bold');
-		a{
-			@include u-text('indigo-warm-80');
-			@include u-text('no-underline');
-		}
-	}
-	.deck{
-		@include u-margin-top(1);
-		@include u-font('sans', 'md');
-		@include u-text('light');
-	}
-	.meta{
-		@include u-margin-top(1);
-		.topics{
-			@include u-margin-y(0);
-			@include u-font('sans', '3xs');
-		}
-		.clicks{
-			@include u-margin-right(1);
-			@include u-padding-x('05');
-			@include u-font('sans', 'xs');
-			@include u-display('inline-block');
-			@include u-text('gold-40v');
-			i{
-				@include u-text('gold-30v');
-			}
-		}
-	}
-	.entry-featured img {
-		filter: grayscale(75%);
-		transition: filter .2s;
+article.card-event-promo{
+
+	.banner{
+		@include u-padding-y('05');
+		@include u-padding-x('205');
+		@include u-bg('gold-5v');
+		@include u-text('red-cool-40v');
+		@include u-text('semibold');
 	}
 
-	&:hover{
-		.entry-featured img {
-			filter: grayscale(0%);
+	.date{
+		@include u-margin(0);
+		@include u-padding-right(2);
+		// @include u-bg('blue-warm-5');
+		@include u-border-right('1px', 'indigo-warm-80', 'solid');
+		span{
+			@include u-display('block');
+			@include u-text('center');
+			@include u-text('medium');
+		}
+		.date-mo{
+			@include u-text('uppercase');
+			@include u-font('sans', 'md');
+		}
+		.date-day{
+			@include u-font('sans', '3xl');
+			@include u-text('thin');
+		}
+		.btn-register{
+			// @include u-margin-x('105');
+			@include u-padding-y('05');
+			@include u-padding-x(0);
+			@include u-font('sans', 'md');
+			@include u-display('block');
+			@include u-radius('sm');
+			@include u-bg('white');
+			@include u-text('center');
+			@include u-text('indigo-warm-60v');
+			@include u-border('2px', 'indigo-warm-60v', 'solid');
+			transition: background-color .25s, color .25s;
 		}
 	}
+	&:hover{
+		.btn-register{
+			@include u-bg('indigo-warm-60v');
+			@include u-text('white');
+		}
+	}
+
+	.time{
+		@include u-font('sans', 'md');
+		@include u-text('bold');
+		@include u-text('red-cool-40v');
+	}
+
 }

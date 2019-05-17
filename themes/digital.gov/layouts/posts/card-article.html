@@ -1,22 +1,29 @@
 <article class="card card-article card-linked" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
-  <div class="grid-row grid-gap-2">
-    <div class="grid-col-12">
-      <h3>
-        <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
-      </h3>
-      <p class="deck">{{ .Params.deck | markdownify -}}</p>
-      <div class="meta display-flex flex-justify">
-        <div class="display-flex flex-align-center">
-          {{- partial "core/get_clicks" . -}}
-          <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
-          {{- partial "core/get_authors_short" . -}}
-        </div>
-        <div>
-          {{- partial "core/get_topics" . -}}
+  <div class="paper">
+    <div class="grid-row grid-gap-2">
+      <div class="grid-col-12">
+        <h3>
+          <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
+        </h3>
+
+        {{- if .Params.deck -}}
+        <p class="deck">{{ .Params.deck | markdownify }}</p>
+        {{- else -}}
+        <p class="summary">{{ .Params.summary | markdownify }}</p>
+        {{- end -}}
+
+        <div class="meta display-flex flex-justify">
+          <div class="display-flex flex-align-center">
+            {{- partial "core/get_clicks" . -}}
+            <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
+            {{- partial "core/get_authors_short" . -}}
+          </div>
+          <div>
+            {{- partial "core/get_topics" . -}}
+          </div>
         </div>
       </div>
     </div>
+    <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </div>
-
-  <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
 </article>
