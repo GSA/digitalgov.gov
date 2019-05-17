@@ -2,16 +2,16 @@
   <div class="paper">
     <div class="grid-row grid-gap-2">
 
-      {{ if .Params.youtube_id }}
+      {{- if .Params.youtube_id -}}
       <div class="grid-col-12 tablet:grid-col-5 tablet:order-last">
         <div class="image-featured youtube-player" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
       </div>
-      {{ end }}
+      {{- end -}}
 
-      <div class="grid-col-12 tablet:grid-col-7">
-        {{ if .Params.youtube_id }}
+      <div class="grid-col-12 {{ if .Params.youtube_id -}}tablet:grid-col-7{{- end -}}">
+        {{- if .Params.youtube_id -}}
         <h6>Video</h6>
-        {{ end }}
+        {{- end -}}
         <h3>
           <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
         </h3>
