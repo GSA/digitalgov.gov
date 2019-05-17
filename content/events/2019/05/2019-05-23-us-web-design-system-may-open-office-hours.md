@@ -10,7 +10,7 @@ event_type:
 date: 2019-05-23 14:30:00 -0500
 end_date: 2019-05-23 15:30:00 -0500
 event_organizer: DigitalGov University
-host: DigitalGov University, USWDS
+host: USWDS
 registration_url: https://www.eventbrite.com/e/us-web-design-system-may-open-office-hours-registration-62047830732
 youtube_id: FZGqnO0bZww
 
@@ -24,12 +24,12 @@ Please join Dan Williams from the USWDS team as he walks through the updates and
 
 [**USWDS**](https://v2.designsystem.digital.gov) is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices. USWDS 2.0 is an important update to the design system — it introduces a powerful toolkit of new features to help make creating useful, consistent digital services faster, simpler, and more fun.
 
-In addition, USWDS 2.0 ships with Public Sans — A free, open source typeface that’s simple, neutral, and isn’t Helvetica. [Public Sans](https://public-sans.digital.gov/) is an open source, free license typeface (SIL Open Font License 1.1) designed and maintained by USWDS, adapted from Libre Franklin.
+In addition, USWDS 2.0 ships with [**Public Sans**](https://public-sans.digital.gov/) — A free, open source typeface that’s simple, neutral, and isn’t Helvetica. Public Sans is an open source, free license typeface (SIL Open Font License 1.1) designed and maintained by USWDS, adapted from Libre Franklin.
 
 
 ## Related
 
 - [Introducing USWDS 2.0](https://v2.designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/)
-- [A guide to migrating to 2.0](https://v2.designsystem.digital.gov/documentation/migration/)
-- [Contribute on GitHub](https://github.com/uswds/uswds)
+- [A guide to migrating to USWDS 2.0](https://v2.designsystem.digital.gov/documentation/migration/)
 - [Public Sans](https://public-sans.digital.gov/)
+- [Contribute on GitHub](https://github.com/uswds/uswds)
