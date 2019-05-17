@@ -60,7 +60,7 @@ header.header-posts{
   }
   .newsletter{
     p{
-      @include u-padding-x(2);
+      @include u-padding-x('205');
       @include u-font('sans', 'sm');
       @include u-text('left');
     }
