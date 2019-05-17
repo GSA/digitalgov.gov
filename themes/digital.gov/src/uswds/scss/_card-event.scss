@@ -12,7 +12,7 @@
 		@include u-margin(0);
 		@include u-padding-right(0);
 		@include at-media('tablet') {
-			@include u-padding-right(2);
+			@include u-padding-right('205');
 			@include u-border-right('1px', 'indigo-warm-80', 'solid');
 		}
 		span{
