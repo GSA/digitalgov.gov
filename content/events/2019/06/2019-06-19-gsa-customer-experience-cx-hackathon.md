@@ -16,10 +16,9 @@ registration_url: TKTK
 aliases:
   - /2019/06/19/gsa-hackathon
 
-
 ---
 
-The General Services Administration (GSA) is holding a coast-to-coast hackathon on Wednesday, June 19, 2019, aimed at bettering the customer experience of products in government.
+The General Services Administration (GSA) is holding a coast-to-coast hackathon on Wednesday, June 19, 2019, aimed at bettering the customer experience (CX) of products in government.
 
 Throughout the federal government, as described in the [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html), improving customer experience is a top priority. Customer experience can refer to the external customers and internal customers. This hackathon, we will be focusing on both. The participants will be including the newly-released [U.S. Web Design System 2.0](https://digital.gov/2019/04/08/introducing-uswds-2/) in their solutions.
 
@@ -38,7 +37,7 @@ Throughout this all-day hackathon, taking place simultaneously at eight GSA loca
 
 ## What Is Customer Experience, and What Does This Mean for Government?
 
-Customer Experience (CX) is the journey a customer has while interacting with products and brands. CX has gained a lot of attention within government, and our aim is to better the customer experience for external and internal interaction with government agencies, products, technology and people.
+Customer Experience is the journey a customer has while interacting with products and brands. CX has gained a lot of attention within government, and our aim is to better the customer experience for external and internal interaction with government agencies, products, technology and people.
 
 ## Hackathon details
 
@@ -54,7 +53,7 @@ Customer Experience (CX) is the journey a customer has while interacting with pr
 
 ## Who Is Invited
 
-GSA seeks application developers interested in User Experience (UX) to participate. Please note:
+GSA seeks application developers interested in user experience (UX) to participate. Please note:
 
 - Federal employee cannot participate
 - Federal grantees may not use federal funds to develop competition solutions unless consistent with the purpose of their grant award.
