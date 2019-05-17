@@ -16,7 +16,7 @@ youtube_id: 7LY8A2lMU8I
 
 ---
 
-Come learn more about how [Virtual Student Foreign Service](https://www.state.gov/virtual-student-federal-service/) (VSFS) can help your program achieve its mission!
+Come learn more about how [Virtual Student Federal Service](https://www.state.gov/virtual-student-federal-service/) (VSFS) can help your program achieve its mission!
 
 Now in its 10th year, the VSFS can connect your office to talented students across the country. VSFS is a free, shared service offering federal agencies an opportunity to engage directly and remotely with talented U.S. college students. These virtual interns can work on projects ranging from research to design to UX to data visualization to social media to translation to video production and more!
 
