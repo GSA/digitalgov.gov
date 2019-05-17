@@ -1,7 +1,7 @@
 ---
-slug: gsa-hackathon
-title: "GSA Hackathon 2019"
-summary: "A day focused on designing a better customer experience with and within government"
+slug: gsa-customer-experience-cx-hackathon
+title: "GSA Customer Experience Hackathon 2019"
+summary: "A day focused on designing a better customer experience with and within government."
 deck: "A day focused on designing a better customer experience with and within government"
 featured_image:
   uid:
@@ -13,6 +13,9 @@ end_date: 2019-06-19 17:00:00 -0500
 event_organizer: DigitalGov University
 host: General Services Administration
 registration_url: TKTK
+aliases:
+  - /2019/06/19/gsa-hackathon
+
 
 ---
 
