@@ -15,7 +15,7 @@
         <div class="meta display-flex flex-justify">
           <div class="display-flex flex-align-center">
             {{- partial "core/get_clicks" . -}}
-            <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
+            <p class="datetime">{{ dateFormat "Jan 02, 2006" .Date }}</p>
             {{- partial "core/get_authors_short" . -}}
           </div>
           <div>
