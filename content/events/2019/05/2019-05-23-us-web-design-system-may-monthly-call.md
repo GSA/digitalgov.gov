@@ -16,6 +16,8 @@ youtube_id: FZGqnO0bZww
 
 ---
 
+_[View Live Captioning for this Event](https://www.captionedtext.com/client/event.aspx?EventID=4039863&CustomerID=321)_
+
 The General Services Administration’s Technology Transformation Services launched [U.S. Web Design System 2.0](https://v2.designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/) on April 8, 2019, and there’s a lot that’s changed from v1 to version v2.
 
 Please join Dan Williams from the USWDS team as he walks through the updates and improvements in USWDS 2.0, and takes your questions.
