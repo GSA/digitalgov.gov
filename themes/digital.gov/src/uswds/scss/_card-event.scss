@@ -1,11 +1,11 @@
-article.card-event-promo{
+.card-event-promo{
 
 	.banner{
 		@include u-padding-y('05');
 		@include u-padding-x('205');
-		@include u-bg('gold-5v');
-		@include u-text('red-cool-40v');
-		@include u-text('semibold');
+		@include u-bg('red-cool-20v');
+		@include u-text('indigo-warm-80');
+		@include u-text('medium');
 	}
 
 	.date{

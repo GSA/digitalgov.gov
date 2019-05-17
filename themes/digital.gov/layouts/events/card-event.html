@@ -1,10 +1,10 @@
-<article class="card card-event-promo card-linked" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
+<div class="card card-event-promo card-linked" data-edit-this="{{- .File.Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
 
   {{- if gt (now.AddDate 0 0 10) .Date -}}
-  <div class="banner">
+  <div class="banner display-none">
     <div class="grid-row grid-gap-2">
       <div class="grid-col-12">
-        In the next week
+        In the next 10 days
       </div>
     </div>
   </div>
@@ -36,4 +36,4 @@
     </div>
     <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </div>
-</article>
+</div>

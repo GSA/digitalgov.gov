@@ -1,8 +1,4 @@
-article.card-elsewhere{
-	p{
-		@include u-line-height('sans', 3);
-		@include u-font('sans', 'md');
-	}
+.card-elsewhere{
 	.icon{
 		@include u-margin-right(2);
 		@include u-width(10);

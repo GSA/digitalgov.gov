@@ -24,13 +24,20 @@
 			@include u-text('no-underline');
 		}
 	}
+	p{
+		@include u-line-height('sans', 3);
+		@include u-font('sans', 'md');
+	}
 	.deck{
 		@include u-margin-top('05');
 		@include u-font('sans', 'lg');
 		@include u-line-height('sans', 2);
 		@include u-text('light');
 	}
-	.summary{}
+
+	.summary{
+
+	}
 
 	.meta{
 		@include u-margin-top(4);
