@@ -3,7 +3,7 @@
   {{- $short_url_api := printf  "https://go.usa.gov/api/clicks.json?login=%s&apiKey=%s&shortUrl=%s" .Site.Params.url_shortener_login .Site.Params.url_shortener_api $encodedurl -}}
   {{- range $short_url_data := getJSON $short_url_api -}}
     {{- range $click_data := $short_url_data.data.entry -}}
-      <em class="clicks"><i class="fas fa-bolt"></i> <span>{{ $click_data.user_clicks }}</span> views</em>
+      <p class="clicks"><i class="fas fa-bolt"></i> <span>{{ $click_data.user_clicks }}</span> views</p>
     {{- end -}}
   {{- end -}}
 {{- end -}}

@@ -12,18 +12,13 @@
         <p class="summary">{{ .Params.summary | markdownify }}</p>
         {{- end -}}
 
-        <div class="meta display-flex flex-justify">
-          <div class="display-flex flex-align-center">
-            {{- partial "core/get_clicks" . -}}
-            <p class="datetime">{{ dateFormat "Jan 02, 2006" .Date }}</p>
-            {{- partial "core/get_authors_short" . -}}
-          </div>
-          <div>
-            {{- partial "core/get_topics" . -}}
-          </div>
+        <div class="meta">
+          {{- partial "core/get_authors_short" . -}}
+          {{- partial "core/get_clicks" . -}}
+          <p class="datetime">{{ dateFormat "Jan 02, 2006" .Date }}</p>
         </div>
       </div>
     </div>
-    <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+    <a class="overlay display-none" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </div>
 </div>

@@ -1,5 +1,9 @@
 .authors-list-short{
 	@include u-margin-top(0);
+	@include u-margin-bottom('205');
+	@include at-media('tablet') {
+		@include u-margin-bottom(0);
+	}
 	@include u-maxw('full');
 	@include u-display('flex');
 	@include u-flex('wrap');
@@ -20,9 +24,11 @@
 		}
 		z-index: 2;
 		img{
+			@include u-margin-bottom('05');
 			@include u-margin-right('05');
-			@include u-circle(4);
+			@include u-circle(3);
 			@include at-media('tablet') {
+				@include u-margin-bottom(0);
 				@include u-circle(3);
 			}
 		}

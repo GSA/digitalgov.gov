@@ -2,13 +2,13 @@
 	.icon{
 		@include u-margin-right(2);
 		@include u-square(7);
-		@include at-media('tablet'){
-			@include u-square(10);
+		@include at-media('mobile-lg'){
+			@include u-square(9);
 		}
 		img{
 			@include u-circle(7);
 			@include at-media('mobile-lg'){
-				@include u-circle(10);
+				@include u-circle(9);
 			}
 			@include u-border('1px', 'gray-cool-10', 'solid');
 		}

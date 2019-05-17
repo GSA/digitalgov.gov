@@ -9,13 +9,6 @@
 			@include u-padding('205', !important);
 		}
 	}
-	.datetime{
-		@include u-margin(0);
-		@include u-font('sans', '2xs');
-		@include u-display('inline-block');
-		@include u-color('gray-50');
-		white-space: nowrap;
-	}
 	h6,
 	.kicker{
 		@include u-margin(0);
@@ -52,15 +45,38 @@
 	.meta{
 		@include u-margin-top(2);
 		@include at-media('tablet') {
-			@include u-margin-top(4);
+			@include u-margin-top(3);
+			@include u-display('flex');
+			@include u-flex('align-center');
 		}
 		.clicks{
+			@include u-margin-top(0);
 			@include u-margin-right(1);
-			@include u-font('sans', 'xs');
-			@include u-display('inline-block');
+			@include at-media('tablet'){
+				@include u-margin-right(2);
+			}
+			@include u-font('sans', '2xs');
+			@include u-text('italic');
+			@include u-display('block');
 			@include u-color('gold-40v');
 			i{
 				@include u-color('gold-30v');
+			}
+			white-space: nowrap;
+		}
+		.datetime{
+			@include u-margin(0);
+			@include at-media('tablet'){
+				@include u-margin-right(2);
+			}
+			@include u-font('sans', '2xs');
+			@include u-display('inline-block');
+			@include u-color('gray-50');
+			white-space: nowrap;
+		}
+		.authors-list-short{
+			@include at-media('tablet') {
+				@include u-order('last');
 			}
 		}
 		.topics{
