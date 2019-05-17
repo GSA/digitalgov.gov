@@ -29,7 +29,7 @@ Throughout this all-day hackathon, taking place simultaneously at eight GSA loca
 5. **New York City, NY** [_details_](#new-york-city-ny)
 6. **Philadelphia, PA** [_details_](#philadelphia-pa)
 7. **San Francisco, CA** [_details_](#san-francisco-ca)
-8. **Washington, DC.** [_details_](#washington-dc)
+8. **Washington, DC** [_details_](#washington-dc)
 
 ---
 
@@ -158,11 +158,11 @@ Use of design best practices to improve usability and emotional response — wei
 
 ## Details by Location
 
-:stopwatch: **The competition will start at 10:00 am, Eastern Time, simultaneously nationwide.**
+:stopwatch:**The competition will start at 10:00 am, Eastern Time, simultaneously nationwide.** All registered participants must arrive at their designated hackathon room location by 10:00 am, ET (or local equivalent) to be eligible to participate in the competition and win a prize.
 
-All registered participants must arrive at their designated hackathon room location by 10:00 am, ET (or local equivalent) to be eligible to participate in the competition and win a prize. Location specific details are below. Participants should plan to arrive in a reasonable amount of time to go through all security protocol, gain entry into the building, and get settled for the day prior to the start of the hackathon at 10:00 am, ET.
+While the hackathon starts at 10:00 am, ET, participants should plan to arrive early enough to go through all security protocol, gain entry into the building, and get settled for the day prior to the start.
 
-All participants must register in advance and check in with Security and sign with the Protective Security Officer (PSO) upon arriving at the applicable GSA location. A U.S. government-issued ID, such as a valid driver's license or passport, is required to gain access into the building, and must be presented to the PSO upon arrival. The visitor(s) will be issued a one-day GSA Visitor Badge which must be returned when departing the building. All visitors must pass through the magnetometer, and their possessions may be x–rayed. A GSA employee must escort visitors through the hallways at all times.
+All participants must register in advance and check in with security and sign with the Protective Security Officer (PSO) upon arriving at the applicable GSA location. A U.S. government-issued ID, such as a valid driver's license or passport, is required to gain access into the building, and must be presented to the PSO upon arrival. Visitors will be issued a one-day GSA Visitor Badge which must be returned when departing the building. All visitors must pass through the magnetometer, and their possessions may be x–rayed. A GSA employee must escort visitors through the hallways at all times.
 
 For each GSA location, building entrance information and room numbers are provided below for registered participants’ convenience. Participants register for the hackathon and receive confirmation in order to access the appropriate building.
 
