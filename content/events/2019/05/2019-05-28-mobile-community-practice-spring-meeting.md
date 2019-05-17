@@ -33,5 +33,5 @@ _Questions about this event or future events? Send them to [digitalgovu@gsa.gov]
 
 - [Join the Mobile Community of Practice]({{< link "communities/mobilegov.md" >}})
 - [Eight Principles of Mobile-Friendliness]({{< link "resources/mobile/principles/_index.md" >}})
+- [H.R.5759 — 21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) (IDEA)
 - [Connected Government Act Overview]({{< link "resources/connected-government-act.md" >}})
-- [21st Century Integrated Digital Experience Act — H.R.5759](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) (IDEA)
