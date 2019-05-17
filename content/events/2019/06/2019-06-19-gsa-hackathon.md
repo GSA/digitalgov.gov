@@ -1,8 +1,8 @@
 ---
 slug: gsa-hackathon
 title: "GSA Hackathon 2019"
-summary: 'A day focused on designing a better customer experience with and within government'
-deck: 'A day focused on designing a better customer experience with and within government'
+summary: "A day focused on designing a better customer experience with and within government"
+deck: "A day focused on designing a better customer experience with and within government"
 featured_image:
   uid:
   alt: ''
@@ -22,52 +22,51 @@ Throughout the federal government, as described in the [President’s Management
 
 Throughout this all-day hackathon, taking place simultaneously at eight GSA locations nationwide, participants will evaluate real-world products and iterate on ideas for making the customer experience better in GSA applications.
 
+1. **Boston, MA** [_details_](#boston-ma)
+2. **Chicago, IL** [_details_](#chicago-il)
+3. **Ft Worth, TX** [_details_](#ft-worth-tx)
+4. **Kansas City, MO** [_details_](#kansas-city-mo)
+5. **New York City, NY** [_details_](#new-york-city-ny)
+6. **Philadelphia, PA** [_details_](#philadelphia-pa)
+7. **San Francisco, CA** [_details_](#san-francisco-ca)
+8. **Washington, DC.** [_details_](#washington-dc)
 
-## Participating Cities
-
-1. Boston, MA
-2. Chicago, IL
-3. Ft Worth, TX
-4. Kansas City, MO
-5. New York City, NY
-6. Philadelphia, PA
-7. San Francisco, CA
-8. Washington, DC.
-
-## Who Is Invited?
-
-GSA seeks application developers interested in User Experience (UX) to participate.
-
-The goals of this day are to:
-
-- Work on GSA Applications that’ll make an impact across government in a short amount of time
-- Meet other practitioners
-- Have fun
-
-**NOTE**
-
-- Federal employee cannot participate
-- Federal grantees may not use federal funds to develop competition solutions unless consistent with the purpose of their grant award.
-- Federal contractors may not use federal funds from a contract to develop competition applications or to fund efforts in support of a competition entry.
-
-## What We’ll Be Hacking On
-
-Participants will be hacking on applications that are core to GSA operations. Your ideas will help these services to have a greater impact in government.
+---
 
 ## What Is Customer Experience, and What Does This Mean for Government?
 
 Customer Experience (CX) is the journey a customer has while interacting with products and brands. CX has gained a lot of attention within government, and our aim is to better the customer experience for external and internal interaction with government agencies, products, technology and people.
 
+## Hackathon details
 
-## What to Bring
+- [**Who is Invited »**](#who-is-invited)<br/>
+- [**What We’ll Be Hacking On »**](#what-we-ll-be-hacking-on)<br/>
+- [**Cash Awards »**](#cash-awards)<br/>
+- [**How Judging Works »**](#how-judging-works)<br/>
+- [**Scoring »**](#scoring)<br/>
+- [**Detail by location »**](#details-by-location)<br/>
+- [**What to bring »**](#details-by-location)<br/>
+- [**Questions »**](#)<br/>
 
-- [A government-issued ID](https://travel.state.gov/content/travel/en/passports/requirements/identification.html) — you will need to go through security.
-- Your own laptop and power cord.
-- Headphones.
-- Personal water bottle, if desired.
-- Your own lunch, if desired - the hackathon schedule does not provide for a dedicated lunch break, so if you prefer to work through lunch time, please bring your own lunch. It will be time-consuming to go in and out of the government buildings.
 
----
+## Who Is Invited
+
+GSA seeks application developers interested in User Experience (UX) to participate. Please note:
+
+- Federal employee cannot participate
+- Federal grantees may not use federal funds to develop competition solutions unless consistent with the purpose of their grant award.
+- Federal contractors may not use federal funds from a contract to develop competition applications or to fund efforts in support of a competition entry.
+
+**The goals of this day are to:**
+
+- Work on GSA Applications that’ll make an impact across government in a short amount of time
+- Meet other practitioners
+- Have fun
+
+
+## What We’ll Be Hacking On
+
+Participants will be hacking on applications that are core to GSA operations. Your ideas will help these services to have a greater impact in government.
 
 ## Cash Awards
 
@@ -75,13 +74,15 @@ GSA anticipates awarding four cash prizes, for a $20,000 total prize purse: four
 
 Prizes will be distributed to the eligible winners via Electronic Funds Transfer (EFT), within 60 business days of the announcement of the winner(s). GSA will distribute the funds evenly to all team members listed in the original registrations who arrive at the Security Desk at their respective locations for the competition start time of 10:00am ET and stay for the full day (10:00 am - 4:00 pm, ET). Funding for this hackathon will come from GSA.
 
-## How Does Judging Work?
+## How Judging Works
 
-10:00 am - 3:00 pm — Hacking
-3:00 - 4:00 pm — Round 1 judging, winners announced
-4:00 - 5:00 pm — Round 2 judging, winner announced
+10:00 am to 3:00 pm — Hacking
 
-_A full schedule for the day will be posted in the coming weeks. _
+3:00 to 4:00 pm — Round 1 judging, winners announced
+
+4:00 to 5:00 pm — Round 2 judging, winner announced
+
+_A full schedule for the day will be posted in the coming weeks._
 
 ### Round 1
 
@@ -112,7 +113,7 @@ All instructions and text are in plain language and written in terms that all cu
 - The customer can accomplish the task independently.
 - The customer can accomplish the task efficiently.
 - The customer isn’t distracted by the layout of the environment or application.
-- The new additions to the application follows the new[U.S. Web Design System](https://digital.gov/2019/04/08/introducing-uswds-2/) 2.0, to the extent feasible.
+- The new additions to the application follows the new [U.S. Web Design System](https://digital.gov/2019/04/08/introducing-uswds-2/) 2.0, to the extent feasible.
 
 ### Emotional Response — 40 percent
 
@@ -153,21 +154,35 @@ Use of design best practices to improve usability and emotional response — wei
 - The solution can be easily integrated with the application
 
 
-
 ---
 
 ## Details by Location
 
-**The competition will start at 10:00 am, Eastern Time, simultaneously nationwide.** All registered participants must arrive at their designated hackathon room location by 10:00 am, ET (or local equivalent) to be eligible to participate in the competition and win a prize. Location specific details are below. Participants should plan to arrive in a reasonable amount of time to go through all security protocol, gain entry into the building, and get settled for the day prior to the start of the hackathon at 10:00 am, ET.
+:stopwatch: **The competition will start at 10:00 am, Eastern Time, simultaneously nationwide.**
+
+All registered participants must arrive at their designated hackathon room location by 10:00 am, ET (or local equivalent) to be eligible to participate in the competition and win a prize. Location specific details are below. Participants should plan to arrive in a reasonable amount of time to go through all security protocol, gain entry into the building, and get settled for the day prior to the start of the hackathon at 10:00 am, ET.
 
 All participants must register in advance and check in with Security and sign with the Protective Security Officer (PSO) upon arriving at the applicable GSA location. A U.S. government-issued ID, such as a valid driver's license or passport, is required to gain access into the building, and must be presented to the PSO upon arrival. The visitor(s) will be issued a one-day GSA Visitor Badge which must be returned when departing the building. All visitors must pass through the magnetometer, and their possessions may be x–rayed. A GSA employee must escort visitors through the hallways at all times.
 
-
 For each GSA location, building entrance information and room numbers are provided below for registered participants’ convenience. Participants register for the hackathon and receive confirmation in order to access the appropriate building.
 
+**What to Bring**
+
+- [A government-issued ID](https://travel.state.gov/content/travel/en/passports/requirements/identification.html) — you will need to go through security.
+- Your own laptop and power cord.
+- Headphones.
+- Personal water bottle, if desired.
+- Your own lunch, if desired - the hackathon schedule does not provide for a dedicated lunch break, so if you prefer to work through lunch time, please bring your own lunch. It will be time-consuming to go in and out of the government buildings.
 
 
+
+
+---
 ### Boston, MA
+
+<div class="align-right">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 **Thomas P. O'Neill, Jr. Federal Building** <br/>
 10 Causeway St, Boston, MA 02222<br/>
@@ -179,8 +194,13 @@ Local hackathon run-time: 10:00 am - 5:00 pm, Eastern Time (ET). Participants sh
 Special instructions: Participant will follow all security procedures stated and be escorted by a hackathon representative to Conference Room B on the first floor.
 
 
+---
 
 ### Chicago, IL
+
+<div class="align-right">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 **Ralph H. Metcalfe Federal Building** <br/>
 230 S Dearborn, Chicago, IL 60604 <br/>
@@ -192,8 +212,12 @@ Local hackathon run-time: 9:00 am - 4:00 pm, Central Time (CT). Participants sho
 Special instructions: Participant will follow all security procedures stated and be escorted by a hackathon representative to Rooms 330 and 329.
 
 
-
+---
 ### Ft. Worth, TX
+
+<div class="align-right">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 **Fritz G. Lanham Federal Building**<br/>
 819 Taylor Street, Fort Worth, TX 76102-6124<br/>
@@ -205,8 +229,12 @@ Local hackathon run-time: 9:00 am - 4:00 pm, CT. Participants should arrive no e
 Special instructions: The building has two entrances. Participants can use either entrance and a hackathon representative will be stationed there to escort to the rooms, after the participant follows security protocol.
 
 
-
+---
 ### Kansas City, MO
+
+<div class="align-right">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 **Two Pershing Square**
 2300 Main Street, Kansas City, MO 64108-2416 <br/>
@@ -218,8 +246,12 @@ Local hackathon run-time: 9:00 am - 4:00 pm, CT. Participants should arrive no l
 Special instructions: The building is open to the public. A hackathon representative will escort participants to the meeting room.
 
 
-
+---
 ### New York City, NY
+
+<div class="align-right">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 **One World Trade Center**<br/>
 New York, NY 10007<br/>
@@ -231,8 +263,12 @@ Local hackathon run-time: 10:00 am - 5:00 pm, ET. Participants arrive no earlier
 Special instructions: Please enter at the south entrance. Participants will follow all security procedures stated and be escorted by a hackathon representative to Room 55S08.
 
 
-
+---
 ### Philadelphia, PA
+
+<div class="align-right">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 **Dow Building**<br/>
 100 S Independence Mall W, Philadelphia, PA 19106-3400<br/>
@@ -244,8 +280,12 @@ Local hackathon run-time: 10:00 am - 5:00 pm, ET. Participants arrive no later t
 Special instructions: The Dow Building is located on the corner of 6th and Market Streets. Participants can enter by using stairs on either Market Street side or 6th street side. Participants will come across Beer Garden to the Lobby entrance. Participants should check in at the security desk. A hackathon representative to escort them to the conference room.
 
 
-
+---
 ### San Francisco, CA
+
+<div class="align-right">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 **50 United Nations Plaza Federal Office Building**<br/>
 50 United Nations Plaza, San Francisco, CA 94102<br/>
@@ -257,8 +297,12 @@ Local hackathon run-time: 7:00 am - 2:00 pm, Pacific Time (PT). Participants arr
 Special instructions: Please enter through the center doors facing Civic Center and UN Plaza. Participant will follow all security procedures stated and be escorted by a hackathon representative to the Oakland & San Francisco conference rooms.
 
 
-
+---
 ### Washington, DC
+
+<div class="align-right">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 **U.S. General Services Administration, Central Office**<br/>
 1800 F Street NW, Washington, DC 20405-0001<br/>
@@ -269,6 +313,7 @@ Local hackathon run-time: 10:00 am - 5:00 pm, ET. Participants arrive no later t
 
 Special instructions: Main entrance located on 18th & F Street NW. Participant will follow all security procedures stated and be escorted by a hackathon representative to the Conference Center Rooms 1459, 1460, and 1461.
 
+---
 
 ### Questions?
 
