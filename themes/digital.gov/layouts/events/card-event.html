@@ -13,17 +13,8 @@
 
   <div class="paper">
     <div class="grid-row grid-gap-2">
-      <div class="grid-col-4 tablet:grid-col-2">
 
-        <div class="date">
-          <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
-          <span class="date-day">{{- dateFormat "02" .Date -}}</span>
-          <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
-        </div>
-
-      </div>
-
-      <div class="grid-col-8 tablet:grid-col-10">
+      <div class="grid-col-9 tablet-lg:grid-col-10">
         <h3>
           <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
         </h3>
@@ -32,6 +23,18 @@
         {{- else -}}
         <p class="summary">{{ .Params.summary | markdownify }}</p>
         {{- end -}}
+
+        <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+      </div>
+
+      <div class="grid-col-3 tablet-lg:grid-col-2 order-first">
+
+        <div class="date">
+          <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
+          <span class="date-day">{{- dateFormat "02" .Date -}}</span>
+          <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+        </div>
+
       </div>
     </div>
     <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>

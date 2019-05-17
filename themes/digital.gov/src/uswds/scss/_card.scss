@@ -2,9 +2,12 @@
 	@include u-margin-bottom(1);
 	@include u-bg('white');
 	.paper{
-		@include u-padding('205', !important);
+		@include u-padding('105', !important);
 		@include u-bg('white', !important);
 		transition: background-color .2s;
+		@include at-media('tablet') {
+			@include u-padding('205', !important);
+		}
 	}
 	h6,
 	.kicker{

@@ -10,9 +10,11 @@
 
 	.date{
 		@include u-margin(0);
-		@include u-padding-right(2);
-		// @include u-bg('blue-warm-5');
-		@include u-border-right('1px', 'indigo-warm-80', 'solid');
+		@include u-padding-right(0);
+		@include at-media('tablet') {
+			@include u-padding-right(2);
+			@include u-border-right('1px', 'indigo-warm-80', 'solid');
+		}
 		span{
 			@include u-display('block');
 			@include u-text('center');
@@ -20,24 +22,41 @@
 		}
 		.date-mo{
 			@include u-text('uppercase');
-			@include u-font('sans', 'md');
+			@include u-font('sans', 'sm');
+			@include u-text('bold');
+			@include at-media('tablet') {
+				@include u-text('medium');
+			}
 		}
 		.date-day{
-			@include u-font('sans', '3xl');
+			@include u-font('sans', '2xl');
 			@include u-text('thin');
+			@include at-media('tablet') {
+				@include u-font('sans', '3xl');
+			}
 		}
 		.btn-register{
-			// @include u-margin-x('105');
-			@include u-padding-y('05');
-			@include u-padding-x(0);
-			@include u-font('sans', 'md');
-			@include u-display('block');
-			@include u-radius('sm');
-			@include u-bg('white');
-			@include u-text('center');
-			@include u-text('indigo-warm-60v');
-			@include u-border('2px', 'indigo-warm-60v', 'solid');
-			transition: background-color .25s, color .25s;
+			@include u-display('none');
+			@include at-media('tablet') {
+				@include u-display('block');
+			}
+		}
+	}
+	.btn-register{
+		@include u-padding-y('05');
+		@include u-padding-x(0);
+		@include u-font('sans', 'md');
+		@include u-display('block');
+		@include u-radius('sm');
+		@include u-bg('indigo-warm-60v');
+		@include u-text('white');
+		@include u-bg('white');
+		@include u-text('indigo-warm-60v');
+		@include u-text('center');
+		@include u-border('2px', 'indigo-warm-60v', 'solid');
+		transition: background-color .25s, color .25s;
+		@include at-media('tablet') {
+			@include u-display('none');
 		}
 	}
 	&:hover{
