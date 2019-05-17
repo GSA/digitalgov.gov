@@ -16,6 +16,7 @@ youtube_id: 7LY8A2lMU8I
 
 ---
 
+_[View Live Captioning for this Event](https://www.captionedtext.com/client/event.aspx?EventID=4039820&CustomerID=321)_
 
 Come learn more about how [Virtual Student Federal Service](https://www.state.gov/virtual-student-federal-service/) (VSFS) can help your program achieve its mission!
 
