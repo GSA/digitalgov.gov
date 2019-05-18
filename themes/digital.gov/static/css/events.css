@@ -263,6 +263,11 @@
 	padding: 1em 1em;
 	background: #f0f0ec;
 }
+.event .event-content .note{
+	margin-bottom: 20px;
+	padding: .5em .75em;
+	background: #fef0c8;
+}
 .event .event-content table{
 	color: #000;
 }
