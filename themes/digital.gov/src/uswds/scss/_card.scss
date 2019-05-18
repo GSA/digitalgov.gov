@@ -1,6 +1,7 @@
 .card{
 	@include u-margin-bottom(1);
 	@include u-bg('white');
+	@include u-border-bottom('1px', 'gray-cool-10', 'solid');
 	.paper{
 		@include u-padding('105', !important);
 		@include u-bg('white', !important);
