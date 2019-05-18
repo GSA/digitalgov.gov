@@ -258,6 +258,11 @@
 	max-width: 650px;
 	margin: 30px 0;
 }
+.event .event-content .box{
+	margin-bottom: 2em;
+	padding: 1em 1em;
+	background: #f0f0ec;
+}
 .event .event-content table{
 	color: #000;
 }
