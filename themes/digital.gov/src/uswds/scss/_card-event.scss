@@ -48,8 +48,6 @@
 		@include u-font('sans', 'md');
 		@include u-display('block');
 		@include u-radius('sm');
-		@include u-bg('indigo-warm-60v');
-		@include u-text('white');
 		@include u-bg('white');
 		@include u-text('indigo-warm-60v');
 		@include u-text('center');
@@ -66,6 +64,11 @@
 		}
 	}
 
+	.host{
+		@include u-margin-y(2);
+		@include u-text('gray-cool-60');
+		@include u-font('sans', 'sm');
+	}
 	.time{
 		@include u-font('sans', 'md');
 		@include u-text('bold');

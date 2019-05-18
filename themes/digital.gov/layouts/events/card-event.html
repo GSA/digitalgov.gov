@@ -24,6 +24,10 @@
         <p class="summary">{{ .Params.summary | markdownify }}</p>
         {{- end -}}
 
+        {{- if .Params.host -}}
+        <p class="host">Hosted by {{ .Params.host | markdownify }}</p>
+        {{- end -}}
+
         <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
       </div>
 
