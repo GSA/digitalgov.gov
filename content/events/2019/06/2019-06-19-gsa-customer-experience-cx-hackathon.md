@@ -20,7 +20,12 @@ aliases:
 
 {{< img src="gsa-hackathon-2019" >}}
 
+
+{{< box >}}
+
 The General Services Administration (GSA) is holding a coast-to-coast hackathon on Wednesday, June 19, 2019, aimed at bettering the customer experience (CX) of products in government.
+
+{{< /box >}}
 
 Improving customer experience is a top priority throughout the federal government, as described in the [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html). Customer experience can refer to the external customers and internal customers. This hackathon, we will be focusing on both. The participants will be including the newly-released [U.S. Web Design System 2.0](https://digital.gov/2019/04/08/introducing-uswds-2/) in their solutions.
 
@@ -43,15 +48,18 @@ Customer experience is the journey a customer has while interacting with product
 
 ## Hackathon details
 
-- [**Who is Invited »**](#who-is-invited)<br/>
-- [**What We’ll Be Hacking On »**](#what-we-ll-be-hacking-on)<br/>
-- [**Cash Awards »**](#cash-awards)<br/>
-- [**How Judging Works »**](#how-judging-works)<br/>
-- [**Scoring »**](#scoring)<br/>
-- [**Detail by location »**](#details-by-location)<br/>
-- [**What to bring »**](#details-by-location)<br/>
-- [**Questions »**](#)<br/>
+{{< box >}}
 
+- [**Who is Invited »**](#who-is-invited)
+- [**What We’ll Be Hacking On »**](#what-we-ll-be-hacking-on)
+- [**Cash Awards »**](#cash-awards)
+- [**How Judging Works »**](#how-judging-works)
+- [**Scoring »**](#scoring)
+- [**Detail by location »**](#details-by-location)
+- [**What to bring »**](#details-by-location)
+- [**Questions »**](#)
+
+{{< /box >}}
 
 ## Who Is Invited
 
