@@ -59,12 +59,43 @@ GSA seeks application developers interested in user experience (UX) to participa
 - Federal grantees may not use federal funds to develop competition solutions unless consistent with the purpose of their grant award.
 - Federal contractors may not use federal funds from a contract to develop competition applications or to fund efforts in support of a competition entry.
 
-**The goals of this day are to:**
+### The goals of this day are to:
 
 - Work on GSA Applications that’ll make an impact across government in a short amount of time
 - Meet other practitioners
 - Have fun
 
+### Schedule
+<table>
+  <tr>
+    <td>
+    10:00 am to 3:00 pm
+    </td>
+    <td>
+    Hacking time!
+    </td>
+  </tr>
+  <tr>
+    <td>
+    3:00 to 4:00 pm
+    </td>
+    <td>
+    Round 1 presentations and judging, winners announced
+    </td>
+  </tr>
+  <tr>
+    <td>
+    4:00 to 5:00
+    </td>
+    <td>
+    Round 2 judging, winner announced
+    </td>
+  </tr>
+</table>
+
+_A full schedule for the day will be posted in the coming weeks._
+
+---
 
 ## What We’ll Be Hacking On
 
@@ -76,23 +107,13 @@ GSA anticipates awarding four cash prizes, for a $20,000 total prize purse: four
 
 Prizes will be distributed to the eligible winners via Electronic Funds Transfer (EFT), within 60 business days of the announcement of the winner(s). GSA will distribute the funds evenly to all team members listed in the original registrations who arrive at the Security Desk at their respective locations for the competition start time of 10:00am ET and stay for the full day (10:00 am - 4:00 pm, ET). Funding for this hackathon will come from GSA.
 
+---
+
 ## How Judging Works
 
-10:00 am to 3:00 pm — Hacking
+**Round 1** — Each team will have an equitable amount of time to present their solutions to a judging panel of 3 to 4 federal employees and the other teams until all teams have presented. After Round 1 judging is complete and winners are announced, the winners of Round 1 will move on to Round 2 judging.
 
-3:00 to 4:00 pm — Round 1 judging, winners announced
-
-4:00 to 5:00 pm — Round 2 judging, winner announced
-
-_A full schedule for the day will be posted in the coming weeks._
-
-### Round 1
-
-The hacking ends at 3:00 pm, ET. Each team will have an equitable amount of time to present their solutions to a judging panel of 3 to 4 federal employees and the other teams until all teams have presented. After Round 1 judging is complete and winners are announced, the winners of Round 1 will move on to Round 2 judging.
-
-### Round 2
-
-During Round 2, one winner will be selected by a federal executive judging panel and announced at 5:00 pm, ET.
+**Round 2** — During Round 2, one winner will be selected by a federal executive judging panel and announced at 5:00 pm, ET.
 
 All presentations and judging will take place virtually through video conferencing software and equipment provided by GSA, and in-person at 1800 F St NW, Washington, DC 20405.
 
@@ -101,6 +122,8 @@ Registered participants at the eight GSA locations nationwide will be evaluated 
 ### Presentations
 
 Each team will present to a judging panel their solution for up to three minutes. In Round 1, each pool of competitors will only present and be judged against the same problem set. The judges will be evaluating each solution as if they are the application user. The round will be judged based on the following criteria with each judge independently scoring the solution on a scale of 1 to 5; for more information, please see the [Round 1 Judging Form](https://drive.google.com/a/gsa.gov/open?id=10BjnvPjGnflCrckbCJv6YKzBqPmZtLY650NMLGxElUU).
+
+---
 
 ## Scoring
 
@@ -164,7 +187,7 @@ Use of design best practices to improve usability and emotional response — wei
 
 While the hackathon starts at 10:00 am, ET, participants should plan to arrive early enough to go through all security protocol, gain entry into the building, and get settled for the day prior to the start.
 
-All participants must register in advance and check in with security and sign with the Protective Security Officer (PSO) upon arriving at the applicable GSA location. A U.S. government-issued ID, such as a valid driver's license or passport, is required to gain access into the building, and must be presented to the PSO upon arrival. Visitors will be issued a one-day GSA Visitor Badge which must be returned when departing the building. All visitors must pass through the magnetometer, and their possessions may be x–rayed. A GSA employee must escort visitors through the hallways at all times.
+All participants must [register in advance](https://www.eventbrite.com/e/gsa-hackathon-2019-registration-62066933870) and check in with security and sign with the Protective Security Officer (PSO) upon arriving at the applicable GSA location. A U.S. government-issued ID, such as a valid driver's license or passport, is required to gain access into the building, and must be presented to the PSO upon arrival. Visitors will be issued a one-day GSA Visitor Badge which must be returned when departing the building. All visitors must pass through the magnetometer, and their possessions may be x–rayed. A GSA employee must escort visitors through the hallways at all times.
 
 For each GSA location, building entrance information and room numbers are provided below for registered participants’ convenience. Participants register for the hackathon and receive confirmation in order to access the appropriate building.
 
