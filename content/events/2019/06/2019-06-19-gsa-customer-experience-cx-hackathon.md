@@ -4,7 +4,7 @@ title: "GSA Customer Experience Hackathon 2019"
 summary: "A day focused on designing a better customer experience with and within government."
 deck: "A day focused on designing a better customer experience with and within government"
 featured_image:
-  uid:
+  uid: gsa-hackathon-2019
   alt: ''
 event_type:
   - in-person
@@ -18,9 +18,11 @@ aliases:
 
 ---
 
+{{< img src="gsa-hackathon-2019" >}}
+
 The General Services Administration (GSA) is holding a coast-to-coast hackathon on Wednesday, June 19, 2019, aimed at bettering the customer experience (CX) of products in government.
 
-Throughout the federal government, as described in the [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html), improving customer experience is a top priority. Customer experience can refer to the external customers and internal customers. This hackathon, we will be focusing on both. The participants will be including the newly-released [U.S. Web Design System 2.0](https://digital.gov/2019/04/08/introducing-uswds-2/) in their solutions.
+Improving customer experience is a top priority throughout the federal government, as described in the [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html). Customer experience can refer to the external customers and internal customers. This hackathon, we will be focusing on both. The participants will be including the newly-released [U.S. Web Design System 2.0](https://digital.gov/2019/04/08/introducing-uswds-2/) in their solutions.
 
 Throughout this all-day hackathon, taking place simultaneously at eight GSA locations nationwide, participants will evaluate real-world products and iterate on ideas for making the customer experience better in GSA applications.
 
