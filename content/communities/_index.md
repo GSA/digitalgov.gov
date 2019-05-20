@@ -7,8 +7,10 @@ summary: 'Our communities are where people in government come together to learn,
 
 aliases:
   - /communities/community-solutions/
+  - /communities/data-cabinet/
 
 ---
+
 
 ## Come together, learn from others in government
 
@@ -38,9 +40,6 @@ There are more than 10,000 people participating across government in 22 areas. O
 
 **[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "crowdsourcing-and-citizen-science.md" >}})
-
-**[Data Cabinet]({{< link "data-cabinet.md" >}})**: A community for data professionals across federal government to share proven best practices and critical insights.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "data-cabinet.md" >}})
 
 **[G3C]({{< link "government-contact-center-council.md" >}})**: The Government Contact Center Council (G3C) is an organization of contact center leaders from local, state and federal agencies focusing on delivering exceptional customer/citizen experiences.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "government-contact-center-council.md" >}})
