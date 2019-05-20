@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: making-tough-content-choices
+short_url: https://go.usa.gov/xmvG4
 date: 2019-05-20 12:00:00
 title: "Making tough content choices"
 deck: "**Understanding your constraints is user-centered design** Your ability to deliver user value is always constrained by, well, _your ability to deliver user value_. "
@@ -16,14 +17,14 @@ source_url: "https://revenuedata.doi.gov/blog/making-tough-content-choices/"
 source: doi-revenuedata
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - content
   - product-management
   - content-strategy
   - strategy
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - jeremyzilar
 
 # ♥♥♥ Make it better ♥♥♥
