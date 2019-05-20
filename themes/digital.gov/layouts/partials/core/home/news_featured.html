@@ -35,7 +35,7 @@
             {{/* gets the # of news items to display from the config.yml */}}
             {{- $events_count := .Site.Params.events_count -}}
 
-            {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 -8)) | first 2 -}}
+            {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0)) | first 2 -}}
 
             {{/* Past Events =========================== */}}
             {{/* only the ones with videos */}}
