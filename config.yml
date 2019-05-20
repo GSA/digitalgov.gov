@@ -63,7 +63,7 @@ params:
   dg_tagline: "Explore the guides, resources, tools, and services for making digital better in government"
 
   # number of news items to include on the homepage
-  news_count: 5
+  stream_count: 10
 
   # number of events to include on the homepage
   events_count: 3

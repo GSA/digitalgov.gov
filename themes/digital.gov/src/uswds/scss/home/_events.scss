@@ -1,111 +1,192 @@
 // training and events
 
-#events_featured{
-  @include u-padding-y(5);
-  @include u-padding-bottom(6);
-  // @include u-bg('mint-cool-10');
-  header{
-    h2{
-      @include u-margin(0);
-      @include u-margin-bottom(1);
-      @include u-font('sans', '3xl');
-      @include u-text('thin');
-      @include u-text('indigo-80');
-      @include u-line-height('sans', 2);
-    }
-    p{
-      @include u-font('sans', 'lg');
-      @include u-text('indigo-80');
-    }
-  }
+// .home{
+//   #events_featured{
+//     .paper{
+//       @include u-padding-y(3);
+//       @include u-bg('blue-warm-10');
+//     }
+//     header.header-posts{
+//       @include u-padding-y(2);
+//     }
+//   }
+// }
 
-  section{
-    // @include u-bg('mint-30');
-    // @include u-bg('mint-cool-20');
-    // @include u-padding('05');
-    article.featured_event{
-      // @include u-bg('mint-cool-10');
-      // &:hover{
-      //   @include u-bg('mint-cool-20');
-      // }
-      @include u-padding('105');
-      @include u-margin-bottom(1);
-      @include u-radius('sm');
-
-      .date{
-        @include u-margin(0);
-        @include u-padding-y('2px');
-        @include u-bg('gray-1');
-        @include u-text('center');
-        @include u-display('block');
-        @include u-text('no-underline');
-        .month{
-          position: inherit;
-          @include u-display('block');
-          @include u-font('sans', 'xs');
-          @include u-text('bold');
-          @include u-text('uppercase');
-          @include u-bg('gray-1');
-        }
-        .day{
-          position: inherit;
-          @include u-display('block');
-          @include u-font('sans', 'xl');
-          @include u-line-height('sans', 2);
-          @include u-text('thin');
-        }
-      }
-
-      .register{
-        @include u-text('center');
-        @include u-text('uppercase');
-        @include u-font('sans', '3xs');
-        @include u-bg('indigo-50v');
-        @include u-display('block');
-        // @include u-display('none');
-        @include u-padding-y('05');
-        @include u-text('no-underline');
-        z-index: 2;
-        position: relative;
-        color: #fff;
-        &:hover{
-          border:none;
-          @include u-bg('indigo-60v');
-        }
-      }
-
-      h3{
-        @include u-margin(0);
-        @include u-margin-bottom('05');
-        @include u-font('sans', 'md');
-        @include u-line-height('sans', 2);
-        @include u-text('bold');
-        a{
-          @include u-text('no-underline');
-          @include u-text('indigo-80');
-          &:hover{
-            border-bottom: 2px #914734 solid; // $indigo-40
-          }
-        }
-      }
-      p{
-        @include u-margin(0);
-        @include u-font('sans', 'sm');
-        @include u-text('indigo-80');
-        @include u-line-height('sans', 3);
-      }
-
-      // To make the whole EVENT promo clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
-      position: relative;
-      a span{
-        margin: 0;
-        position:absolute;
-        width:100%;
-        height:100%;
-        top:0;
-        left: 0;
-        z-index: 1;
-      }
-    }
+// All posts page — https://digital.gov/posts/
+.events.section{
+  .paper{
+    @include u-bg('blue-warm-5');
   }
 }
+
+// header styles that apply to both places
+header.header-events{
+  @include u-padding-bottom(2);
+  @include u-text('indigo-warm-80');
+  h1, h2{
+    @include u-margin-y(1);
+    @include u-font('sans', '3xl');
+    @include u-text('thin');
+    @include u-text('center');
+    @include u-line-height('sans', 2);
+  }
+  .deck, p{
+    @include u-margin(0);
+    @include u-text('light');
+    @include u-text('center');
+    @include u-maxw('none');
+    @include u-font('sans', 'lg');
+    @include u-line-height('sans', 3);
+  }
+  .join{
+    @include u-margin-y(3);
+    @include u-text('center');
+    a{
+      @include u-margin-x('105');
+      @include u-padding-y('05');
+      @include u-padding-x('105');
+      @include u-border('2px', 'indigo-warm-60v', 'solid');
+      @include u-text('no-underline');
+      @include u-text('medium');
+      @include u-text('indigo-warm-60v');
+      @include u-radius('md');
+      @include u-display('inline-block');
+      @include u-font('sans', 'md');
+      transition: background-color .5s, color .5s;
+      &:hover{
+        @include u-bg('indigo-warm-60v');
+        @include u-text('white');
+      }
+    }
+  }
+  .newsletter{
+    p{
+      @include u-padding-x(2);
+      @include u-font('sans', 'sm');
+      @include u-text('left');
+    }
+    a{
+      @include u-text('no-underline');
+      @include u-text('indigo-warm-60v');
+      @include u-text('bold');
+      img{
+        @include u-position('relative');
+        @include u-top(1);
+        @include u-width(4);
+      }
+      &:hover{
+        span{
+          @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+        }
+      }
+    }
+
+  }
+}
+
+// #events_featured{
+//   header{
+//     h2{
+//       @include u-margin(0);
+//       @include u-margin-bottom(1);
+//       @include u-font('sans', '3xl');
+//       @include u-text('thin');
+//       @include u-text('indigo-80');
+//       @include u-line-height('sans', 2);
+//     }
+//     p{
+//       @include u-font('sans', 'lg');
+//       @include u-text('indigo-80');
+//     }
+//   }
+//
+//   section{
+//     // @include u-bg('mint-30');
+//     // @include u-bg('mint-cool-20');
+//     // @include u-padding('05');
+//     article.featured_event{
+//       // @include u-bg('mint-cool-10');
+//       // &:hover{
+//       //   @include u-bg('mint-cool-20');
+//       // }
+//       @include u-padding('105');
+//       @include u-margin-bottom(1);
+//       @include u-radius('sm');
+//
+//       .date{
+//         @include u-margin(0);
+//         @include u-padding-y('2px');
+//         @include u-bg('gray-1');
+//         @include u-text('center');
+//         @include u-display('block');
+//         @include u-text('no-underline');
+//         .month{
+//           position: inherit;
+//           @include u-display('block');
+//           @include u-font('sans', 'xs');
+//           @include u-text('bold');
+//           @include u-text('uppercase');
+//           @include u-bg('gray-1');
+//         }
+//         .day{
+//           position: inherit;
+//           @include u-display('block');
+//           @include u-font('sans', 'xl');
+//           @include u-line-height('sans', 2);
+//           @include u-text('thin');
+//         }
+//       }
+//
+//       .register{
+//         @include u-text('center');
+//         @include u-text('uppercase');
+//         @include u-font('sans', '3xs');
+//         @include u-bg('indigo-50v');
+//         @include u-display('block');
+//         // @include u-display('none');
+//         @include u-padding-y('05');
+//         @include u-text('no-underline');
+//         z-index: 2;
+//         position: relative;
+//         color: #fff;
+//         &:hover{
+//           border:none;
+//           @include u-bg('indigo-60v');
+//         }
+//       }
+//
+//       h3{
+//         @include u-margin(0);
+//         @include u-margin-bottom('05');
+//         @include u-font('sans', 'md');
+//         @include u-line-height('sans', 2);
+//         @include u-text('bold');
+//         a{
+//           @include u-text('no-underline');
+//           @include u-text('indigo-80');
+//           &:hover{
+//             border-bottom: 2px #914734 solid; // $indigo-40
+//           }
+//         }
+//       }
+//       p{
+//         @include u-margin(0);
+//         @include u-font('sans', 'sm');
+//         @include u-text('indigo-80');
+//         @include u-line-height('sans', 3);
+//       }
+//
+//       // To make the whole EVENT promo clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+//       position: relative;
+//       a span{
+//         margin: 0;
+//         position:absolute;
+//         width:100%;
+//         height:100%;
+//         top:0;
+//         left: 0;
+//         z-index: 1;
+//       }
+//     }
+//   }
+// }

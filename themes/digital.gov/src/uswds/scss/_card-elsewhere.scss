@@ -1,19 +1,20 @@
-article.card-elsewhere{
-	p{
-		@include u-line-height('sans', 3);
-		@include u-font('sans', 'md');
-	}
+.card-elsewhere{
 	.icon{
 		@include u-margin-right(2);
-		@include u-width(10);
-		@include at-media('tablet'){
-			@include u-width(7);
+		@include u-square(7);
+		@include at-media('mobile-lg'){
+			@include u-square(9);
 		}
 		img{
-			// @include u-shadow(2);
+			@include u-circle(7);
+			@include at-media('mobile-lg'){
+				@include u-circle(9);
+			}
+			@include u-border('1px', 'gray-cool-10', 'solid');
 		}
 	}
 	.content{
+		flex: 1;
 		a{
 			@include u-color('blue-50v');
 		}

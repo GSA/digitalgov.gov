@@ -1,6 +1,6 @@
 {{/* News & Updates */}}
 
-<section id="posts_featured">
+<section id="posts_featured" class="stream">
   <div class="paper">
     <div class="grid-container grid-container-desktop">
 
@@ -29,29 +29,59 @@
 
           <section class="stream">
 
-            {{/* Gets the past events */}}
+            {{/* Future Events ===========================  */}}
+            {{- $events := where .Site.RegularPages.Reverse  "Section" "events" -}}
+
+            {{/* gets the # of news items to display from the config.yml */}}
+            {{- $events_count := .Site.Params.events_count -}}
+
+            {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 -8)) | first 2 -}}
+
+            {{/* Past Events =========================== */}}
+            {{/* only the ones with videos */}}
             {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
             {{/* Gets the past events that have youtube_id set  */}}
             {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
+            {{/* Posts =========================== */}}
             {{/* Gets the recent blog posts */}}
             {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
 
             {{/* Merges the past events and the recent blog posts */}}
             {{ $stream := union $posts $past_events }}
+            {{/* {{ $stream := union $posts $events }} */}}
 
             {{/* Sorting all the items by date and reverse chron */}}
             {{ $stream := $stream.ByDate.Reverse }}
 
             {{/* gets the # of news items to display from the config.yml */}}
-            {{ $news_count := .Site.Params.news_count }}
+            {{ $stream_count := .Site.Params.stream_count }}
 
-            {{/* Gets the first 8 items */}}
-            {{- range first $news_count $stream -}}
+            {{/* Gets the first X items for the news stream */}}
+            {{/* The # is defined in the config.yml file */}}
+            {{- range $i, $el := first $stream_count $stream -}}
+
+
+              {{- with $events -}}
+                {{- if eq $i 2 -}}
+                  {{- range first 1 $events -}}
+                    {{- .Render "card-event" -}}
+                  {{- end -}}
+                {{- end -}}
+
+                {{- if eq $i 8 -}}
+                  {{- range first 1 (after 1 $events) -}}
+                    {{- .Render "card-event" -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+
 
               {{- if eq .Type "events" -}}
-                {{- .Render "card-event-past" -}}
+                {{- if .Date.Before now -}}
+                  {{- .Render "card-event-past" -}}
+                {{- end -}}
               {{- end -}}
 
               {{- if eq .Type "posts" -}}
