@@ -82,7 +82,7 @@ GSA seeks application developers interested in user experience (UX) to participa
   </tr>
   <tr>
     <td>
-    3:00 to 4:00 pm
+    3:00 pm to 4:00 pm
     </td>
     <td>
     Round 1 presentations and judging, winners announced
@@ -90,7 +90,7 @@ GSA seeks application developers interested in user experience (UX) to participa
   </tr>
   <tr>
     <td>
-    4:00 to 5:00
+    4:00 pm to 5:00 pm
     </td>
     <td>
     Round 2 judging, winner announced
