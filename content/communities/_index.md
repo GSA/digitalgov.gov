@@ -6,5 +6,6 @@ deck: "Over 11,000 people are collaborating and sharing resources across governm
 
 aliases:
   - /communities/community-solutions/
+  - /communities/data-cabinet/
 
 ---

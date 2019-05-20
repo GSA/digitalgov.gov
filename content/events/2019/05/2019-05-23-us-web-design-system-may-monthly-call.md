@@ -6,13 +6,12 @@ featured_image:
   uid: uswds-2-illio-feature-image
   alt: ''
 event_type:
-  - youtube-live
+  - zoom
 date: 2019-05-23 14:30:00 -0500
 end_date: 2019-05-23 15:30:00 -0500
 event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/us-web-design-system-may-open-office-hours-registration-62047830732
-youtube_id: FZGqnO0bZww
 
 ---
 
@@ -35,3 +34,5 @@ In addition, USWDS 2.0 ships with [**Public Sans**](https://public-sans.digital.
 - [A guide to migrating to USWDS 2.0](https://v2.designsystem.digital.gov/documentation/migration/)
 - [Public Sans](https://public-sans.digital.gov/)
 - [Contribute on GitHub](https://github.com/uswds/uswds)
+
+This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
