@@ -38,6 +38,6 @@
       {{ partial "core/get_clicks" . -}}
       <p class="datetime">{{ dateFormat "Jan 02, 2006" .Date }}</p>
     </div>
-    <a class="overlay" href="{{- .Params.source_url -}}" title="{{- .Params.source_name -}}"><span></span></a>
+    <a class="overlay" href="{{- if .Params.short_url -}}{{- .Params.short_url -}}{{- else -}}{{- .Params.source_url -}}{{- end -}}" title="{{- .Params.source_name -}}"><span></span></a>
   </div>
 </div>
