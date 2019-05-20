@@ -15,11 +15,7 @@ If you manage a U.S. government website, or write digital content for your agenc
 
 ### Join
 
-To subscribe please complete this [online form](https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform). If you are a U.S. government employee, we’ll automatically subscribe people every Friday. If you have trouble accessing the form please contact [Alycia Yozzi](mailto:alycia.yozzi@gsa.gov?subject=Join).
-
-### Community Manager
-
-Alycia Yozzi (GSA)
+To subscribe please complete this [online form](https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform). If you are a U.S. government employee, we’ll automatically subscribe people every Friday. If you have trouble accessing the form please contact DigitalGov (mailto:digitalgovu@gsa.gov?subject=Join).
 
 ### Overview
 
