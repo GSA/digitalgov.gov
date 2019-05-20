@@ -16,6 +16,8 @@ youtube_id: 2Bl5Z6XZFX8
 
 ---
 
+_[View Live Captioning for this Event](https://www.captionedtext.com/client/event.aspx?EventID=4040414&CustomerID=321)_
+
 In February of this year, traffic from mobile devices made up greater than 50 percent of web traffic for the first time in history, as measured by GSA’s [Digital Analytics Program](https://analytics.usa.gov/) (DAP).
 
 What does it mean for federal agencies when most web traffic is coming from mobile devices? As for-profit brands increasingly compete for customers through better integrated digital experiences across platforms, how will the federal government meet the public’s ever-growing user expectations? What tools and resources are available to help federal practitioners transition towards a more holistic approach to customer experience? How is your agency working to improve the mobile citizen experience?
