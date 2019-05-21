@@ -60,7 +60,7 @@ params:
   devmode               : false
 
   # Homepage settings
-  dg_tagline: "Explore the guides, resources, tools, and services for making digital better in government"
+  dg_tagline: "Build better digital services"
 
   # number of news items to include on the homepage
   stream_count: 10
