@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-a-deep-dive-into-behavior-reports
+kicker: Learning Series
 title: 'DAP Learning Series&#58; A Deep Dive Into Behavior Reports'
 summary: 'We’ll do a deep dive into behavior reporting to help DAP users understand how to use it and what are the pitfalls&#46;'
 featured_image:

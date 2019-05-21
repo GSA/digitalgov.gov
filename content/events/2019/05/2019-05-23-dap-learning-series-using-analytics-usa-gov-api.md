@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-using-analytics-usa-gov-api
+kicker: Learning Series
 title: 'DAP Learning Series&#58; Using the analytics&#46;usa&#46;gov API'
 summary: 'Learn how Analytics.usa.gov, the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats.'
 featured_image:

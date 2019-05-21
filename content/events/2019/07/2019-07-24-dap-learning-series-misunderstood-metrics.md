@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-misunderstood-metrics
+kicker: Learning Series
 title: 'DAP Learning Series&#58; Misunderstood Metrics'
 summary: 'What are some examples of misunderstood metrics, and how and when should you use them&#63; We’ll talk about these metrics and their potential misinterpretations and pitfalls&#46;'
 featured_image:

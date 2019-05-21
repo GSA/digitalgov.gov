@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-a-deep-dive-into-audience-reports
+kicker: Learning Series
 title: 'DAP Learning Series&#58; A Deep Dive Into Audience Reports'
 summary: 'Build upon your audience report knowledge and learn how to leverage these reports to better understand your audience.'
 featured_image:

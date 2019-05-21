@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-site-analysis-live
+kicker: Learning Series
 title: 'DAP Learning Series&#58; Site Analysis, Live!'
 summary: 'Join us for a live demonstration of a real site analysis - from defining website mission, goals, and KPIs, to pulling reporting to better understand site performance&#46;'
 featured_image:

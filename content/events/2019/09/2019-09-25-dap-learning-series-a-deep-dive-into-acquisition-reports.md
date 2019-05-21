@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-a-deep-dive-into-acquisition-reports
+kicker: Learning Series
 title: 'DAP Learning Series&#58; A Deep Dive Into Acquisition Reports'
 summary: 'In this webinar, we’ll review the acquisition reporting section in-depth, and discuss usefulness of reports and where there may be gaps in data&#46;'
 featured_image:
