@@ -3,7 +3,7 @@ slug: federal-crowdsourcing-webinar-series-episode-2-challengegov
 title: 'Federal Crowdsourcing Webinar Series, Episode 2&#58; Challenge&#46;gov'
 summary: 'Need help solving a problem&#63; Join Challenge&#46;gov to learn how federal agencies can use prize competitions to reach innovators in novel ways&#46;'
 featured_image:
-  uid: challegegov-card-ep2-alt
+  uid: challengegov-card-episode-2
   alt: ''
 event_type:
   - zoom
