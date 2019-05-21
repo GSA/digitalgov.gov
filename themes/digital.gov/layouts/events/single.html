@@ -105,8 +105,8 @@
     {{- end -}}
 
 
-    <section class="content">
-      <div class="grid-container grid-container-desktop">
+    <section>
+      <div class="grid-container grid-container-desktop" data-edit-this="{{- .File.Path -}}">
         <div class="grid-row grid-gap-4">
           <div class="grid-col-12 tablet:grid-col-9">
             {{- if eq .Params.event_platform "zoom" -}}
@@ -116,8 +116,13 @@
               {{- end -}}
             {{- end -}}
 
-            {{/* Content of the event page  */}}
-            {{- .Content -}}
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
+            </div>
+
+            
+            {{- partial "core/feedback" (dict "page" . "page_type" "event" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 

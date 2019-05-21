@@ -53,6 +53,8 @@
               {{- .Content -}}
             </div>
 
+            {{- partial "core/feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+
           </div>
 
         </div>

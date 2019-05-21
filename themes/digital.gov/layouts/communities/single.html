@@ -101,10 +101,8 @@
             <div class="content">
               {{ .Content }}
             </div>
-          </div>
 
-          <div class="grid-col-12 tablet-lg:grid-col-8">
-            {{ partialCached "core/feedback" (dict "page" . "page_type" "article" "branch" ($.Scratch.Get "branch")) }}
+            {{- partial "core/feedback" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 

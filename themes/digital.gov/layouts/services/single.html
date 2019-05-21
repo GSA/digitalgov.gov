@@ -35,6 +35,8 @@
               {{- .Content -}}
             </div>
 
+            {{- partial "core/feedback" (dict "page" . "page_type" "service" "branch" ($.Scratch.Get "branch")) -}}
+
           </div>
 
           <div class="grid-col-3">
