@@ -1,0 +1,33 @@
+#feedback{
+	@include u-margin-y(4);
+	@include u-padding(2);
+	@include u-bg('gray-warm-5');
+	.branch{
+		@include u-display('none');
+	}
+	.edit_file{
+		@include u-margin-top(1);
+		.edit_file_link{
+			@include u-padding-x('105');
+			@include u-padding-y('05');
+			@include u-bg('blue-warm-50v');
+			@include u-font('sans', 'sm');
+			@include u-radius('sm');
+			@include u-text('white');
+			@include u-text('medium');
+			@include u-text('no-underline');
+			@include u-display('inline-block');
+			&:hover{
+				span{
+					@include u-border-bottom('1px','solid','white');
+				}
+			}
+		}
+		p{
+			@include u-margin(0);
+			@include u-padding-x('05');
+			@include u-display('inline-block');
+			@include u-font('sans', 'sm');
+		}
+	}
+}

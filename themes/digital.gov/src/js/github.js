@@ -8,12 +8,13 @@ jQuery(document).ready(function($) {
 			// Build the edit link
 			var edit = [
 				"<a target='_blank' class='edit_file_link' href='"+editpathURL+"' title='Edit in GitHub'>",
-					"Edit",
+					"<span>Edit</span>",
 				"</a>"
 			].join("\n");
 
 			// Insert the .edit_file_link html into the .edit_file div and remove the .hidden class
-			$('.entry-meta .edit_file').html(edit).removeClass('hidden');
+			$('#feedback .edit_file').html(edit).removeClass('hidden');
+			console.log('ddd');
 		}
 	}
 	build_edit_file_link();
@@ -25,7 +26,6 @@ jQuery(document).ready(function($) {
 			branchpath = "/" + branch;
 		}
 		var commit_api_path  = "https://api.github.com/repos/" + git_org + "/" + git_repo + "/commits" + branchpath + "?path=/content/" + filepath;
-		console.log(commit_api_path);
 		if (commit_api_path !== undefined) {
 			$.ajax({
 			  url: commit_api_path,
@@ -42,7 +42,7 @@ jQuery(document).ready(function($) {
 			});
 		}
 	}
-	// get_commit_data(filepath);
+	get_commit_data(filepath);
 
 	function get_branch_link(branch){
 		var path = 'https://github.com/GSA/digitalgov.gov/tree/' + branch;
@@ -54,7 +54,6 @@ jQuery(document).ready(function($) {
 
 	function show_last_commit(data, branch){
 		var branch_link = get_branch_link(branch);
-		console.log(data);
 		if (data[0] == null) {
 			var commit_date = data.commit.committer.committer.date;
 			var commit_author = data.author.login;
@@ -66,17 +65,17 @@ jQuery(document).ready(function($) {
 		var commit_history_url = 'https://github.com/GSA/digitalgov.gov/commits/'+branch+'/content/' + filepath;
 		var last_commit = [
 			branch_link,
-			"Last updated by",
+			"<p>Last updated by",
 			"<a href="+commit_author_url+" title="+commit_author+">",
 				"<span class='commit-author'>"+commit_author+"</span>",
 			"</a> on ",
 			"<a href="+commit_history_url+">",
 				"<span class='commit-date'>"+getFormattedDate(commit_date)+"</span>",
-			"</a>",
+			"</a></p>",
 			""
 		].join("\n");
-		$('.last_commit').each(function(i, items_list) {
-			$(this).append(last_commit).removeClass('hidden');
+		$('.edit_file').each(function(i, items_list) {
+			$(this).append(last_commit);
 		});
 	}
 
@@ -85,14 +84,13 @@ jQuery(document).ready(function($) {
 		var last_commit = [
 			branch_link
 		].join("\n");
-		$('.last_commit').each(function(i, items_list) {
+		$('.edit_file').each(function(i, items_list) {
 			$(this).append(last_commit).removeClass('hidden');
 		});
 	}
 
 
 	function getFormattedDate(d) {
-
 		var date = new Date(d);
 		date.setUTCHours(date.getUTCHours() - 4);
 		var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];

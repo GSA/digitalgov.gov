@@ -1,17 +1,6 @@
-<section>
-  <div class="grid-container">
-    <div class="grid-row flex-justify flex-align-center">
-      <div class="grid-col-8">
+<div id="feedback" class="branch-{{ .branch }}" name="feedback">
+  <p class="feedback-copy">Have feedback or questions? <a target="new" href="mailto:digitalgov@gsa.gov?subject=Feedback%3A%20{{ htmlUnescape .page.Title | safeHTML }}&amp;body=%0D%0A---enter%20your%20feedback%2Fquestions%20here---%0D%0A%0D%0A%0D%0A-%20-%20-%20-%20-%20%0D%0APage%3A%20{{ htmlUnescape .page.Title | safeHTML }}%0D%0AURL%3A%20https%3A%2F%2Fwww.digital.gov{{ .page.Permalink | markdownify }}%0D%0A-%20-%20-%20-%20-%0D%0A%0D%0A%0D%0AWe%20value%20your%20feedback%20and%20open%20questions.%20Thank%20you%20for%20helping%20to%20make%20our%20pages%20better.%0D%0A%0D%0Ahttps%3A%2F%2Fwww.digital.gov%0D%0A%40digital_gov%20on%20Twitter{{ if .cc }}&amp;cc={{ .cc }}{{ end }}">Send&nbsp;us&nbsp;an&nbsp;email&nbsp;»</a></p>
 
-        <div id="feedback" class="bg-accent-cool-light padding-3 radius-sm branch-{{ .branch }}" name="feedback">
-          <p class="feedback-copy">Have feedback or questions about this {{ .page_type | markdownify }}? <a target="new" href="mailto:digitalgov@gsa.gov?subject=Feedback%3A%20{{ htmlUnescape .page.Title | safeHTML }}&amp;body=%0D%0A---enter%20your%20feedback%2Fquestions%20here---%0D%0A%0D%0A%0D%0A-%20-%20-%20-%20-%20%0D%0APage%3A%20{{ htmlUnescape .page.Title | safeHTML }}%0D%0AURL%3A%20https%3A%2F%2Fwww.digital.gov{{ .page.Permalink | markdownify }}%0D%0A-%20-%20-%20-%20-%0D%0A%0D%0A%0D%0AWe%20value%20your%20feedback%20and%20open%20questions.%20Thank%20you%20for%20helping%20to%20make%20our%20pages%20better.%0D%0A%0D%0Ahttps%3A%2F%2Fwww.digital.gov%0D%0A%40digital_gov%20on%20Twitter{{ if .cc }}&amp;cc={{ .cc }}{{ end }}">Send&nbsp;us&nbsp;an&nbsp;email&nbsp;»</a></p>
-
-          <!-- Edit file on GitHub -->
-          <div class="edit_file hidden"></div>
-          <div class="last_commit hidden"></div>
-        </div>
-        
-      </div>
-    </div>
-  </div>
-</section>
+  <!-- Edit file on GitHub -->
+  <div class="edit_file hidden"></div>
+</div>
