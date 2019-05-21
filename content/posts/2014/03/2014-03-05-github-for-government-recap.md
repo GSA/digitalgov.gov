@@ -22,7 +22,7 @@ Never tried GitHub? Noah Kunin, from the Consumer Financial Protection Bureau, w
 
 {{< legacy-img src="2014/03/GitHub-recording.png" alt="Understanding the GitHub Workflow" >}}
 
-Here are some of the highlights from the recent [DigitalGov University webinar]({{< ref "events" >}}):
+Here are some of the highlights from the recent [DigitalGov University webinar]({{< ref "/events" >}}):
 
   * How to create a new issue & reopen old issues
   * How to assign people

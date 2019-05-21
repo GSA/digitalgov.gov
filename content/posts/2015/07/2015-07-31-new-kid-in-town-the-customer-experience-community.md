@@ -18,7 +18,7 @@ topics:
 
 [Cross-Agency Priority (CAP) Goals](http://www.performance.gov/node/3400/view?view=public#overview) prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government. To build on the momentum of this goal, the government Customer Experience Community of Practice (CX-COP) was launched in early 2015.
 
-The CX-COP supports collaboration and sharing among government customer experience practitioners. The group is sponsored by [GSA’s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729), which also sponsors several other [government Communities of Practice]({{< ref "/communities/_index.md" >}}). The CX-COP, though it is the newest community, already has over 450 members from over 70 government agencies, with more people joining every day.
+The CX-COP supports collaboration and sharing among government customer experience practitioners. The group is sponsored by [GSA’s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729), which also sponsors several other [government Communities of Practice]({{< ref "/communities" >}}). The CX-COP, though it is the newest community, already has over 450 members from over 70 government agencies, with more people joining every day.
 
 ## Bring Customers to the Table
 

@@ -49,7 +49,7 @@ There are already efforts in the federal government to start thinking about cont
 
 But this is just a start. Government’s thinking needs not only to be mobile first, but also needs to move “up the stack” and consider how content and data can be structured and available for anytime, anywhere, anything interaction. <a style="line-height: 1.5em" href="{{< ref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}">Content syndication</a> efforts and the government-wide <a style="line-height: 1.5em" href="{{< ref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}">open content modeling working group</a> are examples of early shifts toward this thinking.
 
-There is a LOT more thinking and doing to be done. Help build toward this anytime, anywhere, anything future by getting involved with the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") or one of [our other communities]({{< ref "/communities/_index.md" >}} "Communities").
+There is a LOT more thinking and doing to be done. Help build toward this anytime, anywhere, anything future by getting involved with the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") or one of [our other communities]({{< ref "/communities" >}} "Communities").
 
 See our post on the 25th anniversary of the Web: [In the Beginning…of Web in Federal Government]({{< ref "2014-03-12-in-the-beginning-of-web-in-federal-government.md" >}} "In the Beginning…of Web in Federal Government").
 

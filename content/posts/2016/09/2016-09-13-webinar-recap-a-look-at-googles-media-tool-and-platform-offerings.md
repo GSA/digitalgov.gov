@@ -34,7 +34,7 @@ Suddenly, </span>[<span style="font-weight: 400">digital video is everywhere</sp
 </p>
 
 <p>
-  Nick Whitaker, Media Outreach Manager at Google, joined us </span><span style="font-weight: 400">last week in a <a href="{{< ref "/about/digitalgov-university.md" >}}">DigitalGov University</a> webinar, <a href="https://www.youtube.com/watch?v=-Ae2efgu9As">Video, VR, Mobile Reporting, and More With Google</a>, for the <a href="{{< ref "communities/video-production/" >}}">Digital Audio/Video Community of Practice</a> </span><span style="font-weight: 400">to discuss Google’s latest media offerings. </p> 
+  Nick Whitaker, Media Outreach Manager at Google, joined us </span><span style="font-weight: 400">last week in a <a href="{{< ref "/about/digitalgov-university.md" >}}">DigitalGov University</a> webinar, <a href="https://www.youtube.com/watch?v=-Ae2efgu9As">Video, VR, Mobile Reporting, and More With Google</a>, for the <a href="{{< ref "/communities/video.md" >}}">Digital Audio/Video Community of Practice</a> </span><span style="font-weight: 400">to discuss Google’s latest media offerings. </p> 
   
   <h2>
     All About News Lab

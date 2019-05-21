@@ -45,7 +45,7 @@ If you’re interested in publishing your site’s content as an API, below are 
 
 ## Freeing Content from Our Social Media
 
-Chances are you’re already tweeting newsworthy content on Twitter, sharing your pictures on Flickr, Instagram, or Pinterest, posting your videos on YouTube, or connecting with the public via Facebook, Google+, or LinkedIn. That’s because publishing content on [social media]({{< ref "/topics/socialmedia" >}}) gets your information into the hands of the public in the places they’re at.
+Chances are you’re already tweeting newsworthy content on Twitter, sharing your pictures on Flickr, Instagram, or Pinterest, posting your videos on YouTube, or connecting with the public via Facebook, Google+, or LinkedIn. That’s because publishing content on [social media]({{< ref "/topics/social-media" >}}) gets your information into the hands of the public in the places they’re at.
 
 If you’re interested in repurposing your social media content, below are a few of the most popular social media APIs to get you started:
 

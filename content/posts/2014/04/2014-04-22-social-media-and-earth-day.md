@@ -38,15 +38,15 @@ The United States Environmental Protection Agency (EPA) has been leading the way
 <span style="line-height: 1.5em;">To provide a coordinated look for Earth Day across EPA&#8217;s home page and social media, EPA is using the same image on the main and Spanish Twitter, FB, and Google+ pages:</span>
 
 [http://www.epa.gov](http://www.epa.gov/)
-  
+
 [http://twitter.com/epa](https://twitter.com/epa)
-  
+
 [http://facebook.com/epa](https://www.facebook.com/EPA)
-  
+
 [http://twitter.com/epaespanol](https://twitter.com/epaespanol)
-  
+
 [http://facebook.com/epaespanol](https://www.facebook.com/epaespanol)
-  
+
 [https://plus.google.com/+EPAgov](https://plus.google.com/+EPAgov/about)
 
 [{{< legacy-img src="2014/04/600-x-540-Earth-Day-EPA-Act-on-Climate-tools-from-Flickr.jpg" alt="Earth Day 2014 EPA Environmental Protection Agency Act on Climate tool" >}}](https://www.flickr.com/photos/usepagov/with/13931126206/ "Earth Day 2014 EPA Environmental Protection Agency Act on Climate tool")
@@ -61,7 +61,7 @@ The National Aeronautics and Space Administration (NASA) is holding a [#GlobalSe
 
 [{{< legacy-img src="2014/04/600-x-865-Earth-Day-GlobalSelfie-NASA-National-Aeronautics-and-Space-Administration-section-from-Twitter.jpg" alt="600-x-865-Earth-Day-GlobalSelfie-NASA\---National-Aeronautics-and-Space-Administration-section-from-Twitter" >}}](https://twitter.com/NASA/status/458634627914018816/photo/1)
 
-The National Oceanic and Atmospheric Administration (NOAA) is using its [Twitter](https://twitter.com/NOAA), [Facebook](https://www.facebook.com/NOAA) and [Instagram](http://instagram.com/p/nGf3eESfYM/) feeds to promote the [unveiling of its U.S. Postal Service (USPS) International Forever Stamp](http://research.noaa.gov/News/NewsArchive/LatestNews/TabId/684/ArtMID/1768/ArticleID/10540/US-Postal-Service-unveils-new-Earth-Day-stamp-celebrating-NOAA-Climate-Science.aspx), says [Genevieve Contey]({{< ref "authors/gencon" >}}), deputy director/managing editor for the Digital Media branch of NOAA Communications & External Affairs. The stamp, that features a NOAA visual representation of the Earth’s sea surface temperatures, allows NOAA to demonstrate the agency’s role in providing environmental intelligence. The image came from an animation created from the output of a computer model of Earth’s climate by NOAA’s Geophysical Fluid Dynamics Laboratory, with land color derived from a NASA satellite composite.
+The National Oceanic and Atmospheric Administration (NOAA) is using its [Twitter](https://twitter.com/NOAA), [Facebook](https://www.facebook.com/NOAA) and [Instagram](http://instagram.com/p/nGf3eESfYM/) feeds to promote the [unveiling of its U.S. Postal Service (USPS) International Forever Stamp](http://research.noaa.gov/News/NewsArchive/LatestNews/TabId/684/ArtMID/1768/ArticleID/10540/US-Postal-Service-unveils-new-Earth-Day-stamp-celebrating-NOAA-Climate-Science.aspx), says [Genevieve Contey]({{< ref "/authors/genevieve-contey" >}}), deputy director/managing editor for the Digital Media branch of NOAA Communications & External Affairs. The stamp, that features a NOAA visual representation of the Earth’s sea surface temperatures, allows NOAA to demonstrate the agency’s role in providing environmental intelligence. The image came from an animation created from the output of a computer model of Earth’s climate by NOAA’s Geophysical Fluid Dynamics Laboratory, with land color derived from a NASA satellite composite.
 
 [{{< legacy-img src="2014/04/600-x-600-Earth-Day-NOAA-USPS-new-postage-stamp.jpg" alt="US Postal Service unveils new Earth Day stamp celebrating NOAA Climate Science" >}}](http://research.noaa.gov/News/NewsArchive/LatestNews/TabId/684/ArtMID/1768/ArticleID/10540/US-Postal-Service-unveils-new-Earth-Day-stamp-celebrating-NOAA-Climate-Science.aspx)
 

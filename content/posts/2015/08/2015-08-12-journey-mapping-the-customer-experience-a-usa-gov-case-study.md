@@ -40,7 +40,7 @@ To create Linda’s behavior line, we looked at:
   * USA.gov customer satisfaction survey data
   * Searches on Google that led customers to USA.gov
   * [Contact center]({{< ref "/topics/government-contact-centers" >}}) content usage
-  * Web analytics for other government websites available through the [Digital Analytics Program]({{< ref "service_dap.md" >}})
+  * Web analytics for other government websites available through the [Digital Analytics Program]({{< ref "/services/service_dap.md" >}})
   * General search trends on Google
 
 Once the behavior line was created, we printed each step on one piece of paper. We taped the steps to the wall, with accompanying images, and the facilitators walked the participants through a series of exercises to explore the journey, which includes:
@@ -69,7 +69,7 @@ The journey mapping process and results helped us clearly see the pain points an
 
 ## Next Steps and Key Takeaways
 
-While the process of journey mapping is enlightening, it doesn’t end with a map. Follow-up and planning for improvement are key. We’ve incorporated many outcomes from our journey maps into our [customer experience]({{< ref "/topics/customer-experience" >}}) (CX) improvement queue. We’ve prioritized several projects into our fourth quarter objectives and key results across our content, user experience, performance measurement, and contact center teams.
+While the process of journey mapping is enlightening, it doesn’t end with a map. Follow-up and planning for improvement are key. We’ve incorporated many outcomes from our journey maps into our [customer experience]({{< ref "/topics/cx" >}}) (CX) improvement queue. We’ve prioritized several projects into our fourth quarter objectives and key results across our content, user experience, performance measurement, and contact center teams.
 
 [{{< legacy-img src="2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="600-x-480-USAgov-Personas-and-Journey-Maps" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/07/1000-x-800-USAgov-Personas-and-Journey-Maps.jpg)
 

@@ -41,4 +41,4 @@ By following the above steps, agencies are creating [structured content built sp
 _(Forbes magazine is used for illustrative purposes only and does not imply endorsement by the federal government or any federal agencies.)_
 _Each week,_ [_The Data Briefing_]({{< ref "/topics/the-data-briefing" >}}) _showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via email._
 
-[_Dr. William Brantley_]({{< ref "authors/bbrantley" >}})) _is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+[_Dr. William Brantley_]({{< ref "/authors/bbrantley" >}})) _is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

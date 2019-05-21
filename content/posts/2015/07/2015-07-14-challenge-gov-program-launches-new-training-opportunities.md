@@ -31,6 +31,6 @@ Module 6: Building a Community
 
 Module 7: Post-Prize Industry and the Post-Prize Impact
 
-All training module webinars and the schedule can be found on the [Events Calendar]({{< ref "events" >}}).
+All training module webinars and the schedule can be found on the [Events Calendar]({{< ref "/events" >}}).
 
 Approaching its fifth year, Challenge.gov has seen participation on a global scale. There have been over 100,000 solvers who have participated in over 400 challenges from 76 agencies and more than $120 million in prizes awarded for successful solutions. There have been more than 3.5 million site visits to the platform from every country around the globe, including participants from every state in the U.S.

@@ -20,7 +20,7 @@ aliases:
 
 {{< youtube DgSfm1wZvvE >}}
 
-The [Digital Analytics Program]({{< ref "service_dap.md" >}}) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, “Policies for Federal Agency Public Websites and Digital Services,” which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.
+The [Digital Analytics Program]({{< ref "/services/service_dap.md" >}}) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, “Policies for Federal Agency Public Websites and Digital Services,” which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.
 
 The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/watch?v=DgSfm1wZvvE) webinar, co-sponsored by the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}), focused on measuring mobile users with DAP’s analytics tools, which are essentially a pre-configured version of Google Analytics. {{< legacy-img src="2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="" >}}
 
@@ -58,4 +58,4 @@ Federal website administrators can [email the DAP Support team](mailto:dap@suppo
 
 
 _For additional information regarding federal websites and digital products, visit our [Resources]({{< ref "/resources/_index.md" >}}) section, and review the [Checklist of Requirements for Federal Websites and Digital Services]({{< ref "checklist-of-requirements-for-federal-digital-services.md" >}})._
-_Read some of our recent blog posts on what other agencies are doing in [mobile]({{< ref "/topics/mobile" >}}) and [metrics](({{< ref "/topics/metrics" >}})), and if you have a .gov or .mil email account, consider joining some of our various [Communities of Practice]({{< ref "/communities/_index.md" >}})._
+_Read some of our recent blog posts on what other agencies are doing in [mobile]({{< ref "/topics/mobile" >}}) and [metrics](({{< ref "/topics/metrics" >}})), and if you have a .gov or .mil email account, consider joining some of our various [Communities of Practice]({{< ref "/communities" >}})._

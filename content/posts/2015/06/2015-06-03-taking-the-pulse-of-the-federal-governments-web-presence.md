@@ -26,7 +26,7 @@ A sort of health monitor for the U.S. government&#8217;s websites, it&#8217;s ca
 
 [Pulse](https://pulse.cio.gov/) is a lightweight dashboard that uses the [official .gov domain list](https://github.com/GSA/data/blob/gh-pages/dotgov-domains/2015-03-15-federal.csv) to measure two things:
 
-  * [Analytics](https://pulse.cio.gov/analytics/domains/): Whether federal executive branch domains are participating in the [Digital Analytics Program]({{< ref "service_dap.md" >}}) (DAP) that powers [analytics.usa.gov](https://analytics.usa.gov/).
+  * [Analytics](https://pulse.cio.gov/analytics/domains/): Whether federal executive branch domains are participating in the [Digital Analytics Program]({{< ref "/services/service_dap.md" >}}) (DAP) that powers [analytics.usa.gov](https://analytics.usa.gov/).
   * [HTTPS](https://pulse.cio.gov/https/domains/): Whether federal domains have deployed the [HTTPS protocol](https://https.cio.gov/faq/), and how well they&#8217;ve done it.
 
 These two things are just a start—there are a lot of other important things worth measuring! It&#8217;s also important to note that Pulse is currently only measuring parent domains (e.g. agency.gov) and is _not_ measuring subdomains (e.g. portal.agency.gov).
@@ -68,7 +68,7 @@ The process is not fully automated, and so Pulse isn&#8217;t updated every day. 
 
 [{{< legacy-img src="2015/06/600-x-181-analytics.jpg" alt="600-x-181-analytics" >}}](https://pulse.cio.gov/analytics/domains/)
 
-The [Digital Analytics Program]({{< ref "service_dap.md" >}}) (DAP) is a free, shared Web analytics service for U.S. federal agencies.
+The [Digital Analytics Program]({{< ref "/services/service_dap.md" >}}) (DAP) is a free, shared Web analytics service for U.S. federal agencies.
 
 To participate, agencies place some JavaScript on their websites that report to a combined analytics account. DAP has [privacy controls]({{< ref "common-questions-about-dap-faq.md#part-4.md" >}}) that anonymize visitor addresses and restrict data sharing.
 

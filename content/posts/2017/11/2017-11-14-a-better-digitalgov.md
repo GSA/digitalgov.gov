@@ -33,7 +33,7 @@ So we’re setting out to deliver just that. And we’re making a commitment to 
 
 - [Here's what we're working on][3ed80b13]
 - [Sign up for our newsletter][20d731c7]
-- [Join a community of practice]({{< ref "/communities/_index.md" >}})
+- [Join a community of practice]({{< ref "/communities" >}})
 - [Follow us on Twitter][a4d3008a]
 - [Join us on Facebook][48963c81]
 - [Learn more about our team]({{< ref "/about/about.md" >}})

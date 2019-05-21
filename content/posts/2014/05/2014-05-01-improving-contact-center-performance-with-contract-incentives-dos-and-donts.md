@@ -30,7 +30,7 @@ OMB’s A Guide to Best Practices for Performance Based Contracting encourages u
 
 ## More experts—What do Government Contact Center Managers say?
 
-I met with several federal contact center managers from the [Government Contact Center Council]({{< ref "communities/government-contact-center-council" >}}) (G3C) to learn from their experiences. Each had used or is currently using incentives/disincentives in their contact center contract. Some of the managers loved incentives/disincentives; some didn’t. But ALL agreed on these tips:
+I met with several federal contact center managers from the [Government Contact Center Council]({{< ref "/communities/government-contact-center-council.md" >}}) (G3C) to learn from their experiences. Each had used or is currently using incentives/disincentives in their contact center contract. Some of the managers loved incentives/disincentives; some didn’t. But ALL agreed on these tips:
 
 ### Do
 
@@ -51,7 +51,7 @@ I met with several federal contact center managers from the [Government Contact 
 
 What are your experiences with incentives/disincentives? Leave a comment, or for more more information, contact [Carolyn Kaleel](mailto:Carolyn.Kaleel@gsa.gov).
 
-_Learn more about the [Government Contact Center Council]({{< ref "communities/government-contact-center-council" >}}) (G3C)._
+_Learn more about the [Government Contact Center Council]({{< ref "/communities/government-contact-center-council.md" >}}) (G3C)._
 
 Take a look at the other Contact Center articles we published in April:
 

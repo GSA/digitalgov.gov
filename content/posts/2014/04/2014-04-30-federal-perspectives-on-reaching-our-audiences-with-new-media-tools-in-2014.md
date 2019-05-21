@@ -36,7 +36,7 @@ Tori Garten (Chief, New Media and Policy, Web Policy Branch, Office of Communica
 
 ## Moving Ahead: Mobile and Resources
 
-Jacob Parcell (Manager, Mobile Programs, General Services Administration) spoke about responsive Web design and the future of government. Mr. Parcell works in the Digital Services Innovation Center which assists federal agencies with standards, practices, and metrics around Web and mobile design. They work to support implementation of the Digital Government Strategy. GSA has consolidated many of its development resources related to social media, mobile and challenges onto [DigitalGov.gov]({{< ref "index.html" >}}). The blog and other resources may interest those outside the USG who are also working on digital innovation.
+Jacob Parcell (Manager, Mobile Programs, General Services Administration) spoke about responsive Web design and the future of government. Mr. Parcell works in the Digital Services Innovation Center which assists federal agencies with standards, practices, and metrics around Web and mobile design. They work to support implementation of the Digital Government Strategy. GSA has consolidated many of its development resources related to social media, mobile and challenges onto [DigitalGov.gov](https://digital.gov/). The blog and other resources may interest those outside the USG who are also working on digital innovation.
 
 These speakers reminded the Council that we need to continue to follow communication trends to reach our audiences. Whether government or in the community, we have a responsibility to respond to our audiences’ communication preferences.
 

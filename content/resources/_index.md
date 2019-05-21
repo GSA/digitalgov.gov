@@ -31,7 +31,7 @@ aliases:
 
 ## Contact Centers
 
-* [Government Contact Center Council (G3C)]({{< link "communities/government-contact-center-council" >}})
+* [Government Contact Center Council (G3C)]({{< link "/communities/government-contact-center-council" >}})
 * [Contact Center Guidelines]({{< link "contact-center-guidelines.md" >}})
 * [2011 Federal Contact Center Survey, Final Report]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/2011-Federal-Contact-Center-Survey-Final-Report-Sept30th2011-Prepared-for-GSA-OCSIT.pdf" >}}) (PDF, 1.52 MB, 54 pages, September 2011)
 
