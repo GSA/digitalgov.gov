@@ -1,5 +1,6 @@
 ---
 slug: mobile-community-practice-spring-meeting
+kicker: Community Meeting
 title: 'Mobile Community of Practice Spring Meeting'
 summary: "Join us to learn about the latest developments in the mobile citizen experience&#46; and discuss recent developments and highlight opportunities"
 featured_image:

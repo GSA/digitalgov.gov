@@ -1,6 +1,7 @@
 ---
 slug: federal-crowdsourcing-webinar-series-episode-3-opportunity-project
-title: 'Federal Crowdsourcing Webinar Series, Episode 3&#58; The Opportunity Project'
+kicker: Episode 3
+title: 'Federal Crowdsourcing Webinar Series: The Opportunity Project'
 summary: 'The Opportunity Project engages government, communities, and the technology industry to create digital tools that address our greatest challenges as a nation&#46; Learn how this initiative is making government data more accessible through cross-sector collaboration&#46;'
 featured_image:
   uid: opportunity-project
