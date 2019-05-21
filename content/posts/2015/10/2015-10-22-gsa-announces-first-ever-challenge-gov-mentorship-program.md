@@ -18,7 +18,7 @@ It may seem like issuing an open challenge to the American public is a novel for
 
 In every community, there are those who use their knowledge and experience to guide their neighbors down new paths. The federal challenge and prize community is no different, and we have several pioneers to thank for first testing the waters and later advocating the use of prize competitions.
 
-GSA honored many of these trailblazers [recently]({{< link "2015-10-13-challenge-gov-honors-federal-agencies-staff-for-raising-the-bar-on-public-sector-prize-competitions.md" >}}) with help from the White House and other partners. We came together to celebrate the five-year anniversary of [Challenge.gov](https://www.challenge.gov/list/), which has seen more than 80 federal agencies announce close to 500 challenges.
+GSA honored many of these trailblazers [recently]({{< ref "2015-10-13-challenge-gov-honors-federal-agencies-staff-for-raising-the-bar-on-public-sector-prize-competitions.md" >}}) with help from the White House and other partners. We came together to celebrate the five-year anniversary of [Challenge.gov](https://www.challenge.gov/list/), which has seen more than 80 federal agencies announce close to 500 challenges.
 
 To continue this momentum, we used our anniversary event to announce a new [mentorship program](https://www.challenge.gov/mentors/) to make some of the best minds available to agencies looking to run a challenge.
 

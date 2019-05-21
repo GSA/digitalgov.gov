@@ -29,7 +29,7 @@ The Department of Defense&#8217;s Computer/Electronic Accommodations Program (CA
 
 The CAP mobile app allows people to use their mobile devices to look up information about the services and resources offered by CAP. It serves as a vocational planning aid designed for use by U.S government employees with disabilities who require assistive technology and other accommodations to perform their jobs. It is also for their supervisors who need to provide reasonable accommodation.
 
-You can use this app to learn about a variety of accommodation solutions. The solutions describe in detail smart phone accessibility features and lead you to other useful mobile apps and self-help tools. For example, there are tools that allow you to recognize and rate your level of anxiety, and the [Breathe2Relax app]({{< link "2015-06-25-using-apps-for-mental-healthcare.md" >}}) teaches stress-reducing breathing techniques.
+You can use this app to learn about a variety of accommodation solutions. The solutions describe in detail smart phone accessibility features and lead you to other useful mobile apps and self-help tools. For example, there are tools that allow you to recognize and rate your level of anxiety, and the [Breathe2Relax app]({{< ref "2015-06-25-using-apps-for-mental-healthcare.md" >}}) teaches stress-reducing breathing techniques.
 
 {{< legacy-img src="2015/11/250-x-444-CAP-Mobile-App-iPhonevideos-screen.jpg" alt="The videos screen from the Computer Electronic Accommodations Program (CAP) mobile iPhone app" >}}The app includes many useful features such as:
 

@@ -20,6 +20,6 @@ With the recent growth of smartphone and tablet ownership, it’s no surprise th
   * Mobile usage more than doubles time spent on radio (1 hour 26 minutes) and print (32 minutes).
   * Only time watching TV—4 hours 31 minutes—surpassed time spent on mobile media in 2013.
 
-What does this mean for government communicators? If your agency has been waiting for a good time to move forward with implementing a [mobile first]({{< link "2012-08-03-mobile-first-webinar-recap.md" >}} "Mobile First Webinar Recap") strategy, it’s here.
+What does this mean for government communicators? If your agency has been waiting for a good time to move forward with implementing a [mobile first]({{< ref "2012-08-03-mobile-first-webinar-recap.md" >}} "Mobile First Webinar Recap") strategy, it’s here.
 
-And DigitalGov has resources to help. Check out the [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program") for everything your agency needs to know about customer-facing mobile services.
+And DigitalGov has resources to help. Check out the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program") for everything your agency needs to know about customer-facing mobile services.

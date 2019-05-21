@@ -77,4 +77,4 @@ We use several monitoring tools to measure our system&#8217;s performance. The q
 
 We regularly ask ourselves, &#8220;Will this shave some time off and help us deliver our results in under 380 milliseconds?&#8221;
 
-Not yet a [DigitalGov Search]({{< link "service_search.md" >}}) customer? [Sign up](https://search.usa.gov/signup) and get started!
+Not yet a [DigitalGov Search]({{< ref "service_search.md" >}}) customer? [Sign up](https://search.usa.gov/signup) and get started!

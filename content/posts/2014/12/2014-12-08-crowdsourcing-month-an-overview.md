@@ -45,7 +45,7 @@ topics:
 
 {{< legacy-img src="2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}} 
 
-This month we&#8217;ll be [highlighting articles about crowdsourcing]({{< link "categories/monthly-theme" >}}). These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills.
+This month we&#8217;ll be [highlighting articles about crowdsourcing]({{< ref "categories/monthly-theme" >}}). These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills.
 
 Among the mechanisms are hackathons, data jams, code-a-thons, prize competitions, workplace surveys, open ideation, micro-tasks or microwork, citizen science, crowdfunding, and more.
 
@@ -55,7 +55,7 @@ A brief look at history outlines a few notable prize competitions, crowdsourcing
 
 The U.S. government has Challenge.gov—the hub of publicly open competitions to solve technical, scientific, and creative problems. Today, there are more than $2.6 million in prizes available, including a competition to find a technical solution to retrieving and sharing data from bug boxes. The National Science Foundation launched the <a href="http://beyondthebox.aibs.org/" target="_blank">Beyond the Box challenge</a> after extensive research and coming to the conclusion that they needed an innovation that would surpass what is commercially available.
 
-Since its launch in 2010, federal agencies have run more than 370 competitions and awarded more than $72 million in prizes along with valuable non-cash incentive prizes on the Challenge.gov platform. You can learn more about the program, winners and case studies by watching short, <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC" target="_blank">on-demand videos</a> or reading articles in the <a href="{{< link "categories/challenges" >}}" target="_blank">Challenge categoy</a> of this site.
+Since its launch in 2010, federal agencies have run more than 370 competitions and awarded more than $72 million in prizes along with valuable non-cash incentive prizes on the Challenge.gov platform. You can learn more about the program, winners and case studies by watching short, <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC" target="_blank">on-demand videos</a> or reading articles in the <a href="{{< ref "categories/challenges" >}}" target="_blank">Challenge categoy</a> of this site.
 
 The Department of Health and Human Services (HHS), NASA, Department of Defense, and Energy are the leading agencies for a number of challenges launched. Combined, these agencies comprise more than 65% of all federal challenge competitions. We&#8217;ve also seen huge success with <a href="http://www2.epa.gov/innovation/prize-competitions" target="_blank">EPA&#8217;s myraid initiatives</a> (like My Air, My Health), Federal Trade Commission&#8217;s Robocall Challenge, and USAID&#8217;s efforts for water desalination and an Ebola response.
 
@@ -65,7 +65,7 @@ Citizen science is the hot new topic in open crowdsourcing efforts. These progra
 
 Another success story is from National Archives and Records Administration (NARA), which developed the <a href="http://www.archives.gov/citizen-archivist/" target="_blank">Citizen Archivist Dashboard</a>. Contributors tag and document transcription to archival records. More than 170,000 volunteers indexed 132 million names of the 1940 Census in only five months, which NARA could not have done alone.
 
-The Office of Science and Technology Policy is putting forth an effort to <a href="http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government" target="_blank">create a toolkit for innovation</a> which will involve the [Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}}) and [Challenges & Prizes]({{< link "challenges-prizes.md" >}} "Challenges & Prizes Community") Communities of Practice. Some details:
+The Office of Science and Technology Policy is putting forth an effort to <a href="http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government" target="_blank">create a toolkit for innovation</a> which will involve the [Citizen Science]({{< ref "crowdsourcing-and-citizen-science.md" >}}) and [Challenges & Prizes]({{< ref "challenges-prizes.md" >}} "Challenges & Prizes Community") Communities of Practice. Some details:
 
 > Citizen science and crowdsourcing are powerful tools that can help federal agencies:
 > 

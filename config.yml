@@ -69,6 +69,8 @@ params:
   events_count: 3
 
 
+relativeURLs: true
+refLinksNotFoundURL: https://digital.gov/resources/
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"

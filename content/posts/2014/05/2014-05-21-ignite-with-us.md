@@ -25,7 +25,7 @@ Have a DigitalGov success?—published an API? Got buy-in from leadership? Chang
 
 Heck! Have you prototyped a wearable, drivable or flyable?
 
-Have a [DigitalGov]({{< link "index.html" >}}) opinion?—think we should be focusing more or less on something? Have an idea on how to improve development? Want to share your digital gov mantra? Internet of things?
+Have a [DigitalGov]({{< ref "index.html" >}}) opinion?—think we should be focusing more or less on something? Have an idea on how to improve development? Want to share your digital gov mantra? Internet of things?
 
 You are doing and thinking a lot, and we have a place for a few of you smarties to share with other agencies. At the close of the [DigitalGov Citizen Services Summit]({{< tmp"events/digitalgov-citizen-services-summit.md" >}} "DigitalGov Citizen Services Summit") we will have quick and catchy ignite sessions and we want you to share your amazing innovations.
 

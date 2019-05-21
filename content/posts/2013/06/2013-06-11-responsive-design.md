@@ -59,6 +59,6 @@ Finally, using responsive design techniques means that your web layout stands a 
   * <a href="http://speakerdeck.com/u/scottjehl/p/responsive-responsible" rel="nofollow">Responsive and Responsible</a>
   * <a href="http://www.slideshare.net/lyzadanger/crap-it-doesnt-look-quite-right-or-how-i-learned-to-stop-worrying-and-set-my-mobile-web-sites-free-9518337" rel="nofollow">Cloud Four (non-Techy)</a>
   * <a href="http://patternlab.bradfrostweb.com/" rel="nofollow">Pattern Lab</a> by Brad Frost
-  * [USA.gov Responsive Design]({{< link "2013-08-20-embracing-responsive-design.md" >}} "Embracing Responsive Design") Implementation
+  * [USA.gov Responsive Design]({{< ref "2013-08-20-embracing-responsive-design.md" >}} "Embracing Responsive Design") Implementation
 
 ## <a name="x-Government Examples of Responsive Design::"></a> {#toc8}

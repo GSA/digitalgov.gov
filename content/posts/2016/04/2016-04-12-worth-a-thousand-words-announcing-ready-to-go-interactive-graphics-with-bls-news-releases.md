@@ -18,7 +18,7 @@ topics:
   - US Department of Labor
 ---
 
-Last spring I wrote about how we’ve been using [more and better charts and maps]({{< link "2015-06-05-visualizing-bls-data-to-improve-understanding.md" >}}) to help you understand our statistics. Today I’m excited to tell you about a new set of graphical tools to make our news releases more illuminating at the moment of their posting.
+Last spring I wrote about how we’ve been using [more and better charts and maps]({{< ref "2015-06-05-visualizing-bls-data-to-improve-understanding.md" >}}) to help you understand our statistics. Today I’m excited to tell you about a new set of graphical tools to make our news releases more illuminating at the moment of their posting.
 
 [{{< legacy-img src="2016/04/600-x-417-BLS-intractve-graphics-Latin-America-Caribbean-Air-passenger-fares-import-and-export-12-month-percent-change.jpg" alt="Screen capture of a BLS intractve graphics chart for Latin America & Caribbean Air passenger fares. Click to visit and interact with this and other chart examples." >}}](http://www.bls.gov/charts/import-export/air-passenger-fairs-12-month-percent-change.htm)
 

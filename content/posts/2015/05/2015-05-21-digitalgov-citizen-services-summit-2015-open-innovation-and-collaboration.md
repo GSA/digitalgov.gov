@@ -58,7 +58,7 @@ She also said that young people have found ways to serve their country through t
 
 
 
-Dr. David Bray, Chief Information Officer for the Federal Communications Commission and Eisenhower Fellow, discussed the [Internet of Everything]({{< link "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}).
+Dr. David Bray, Chief Information Officer for the Federal Communications Commission and Eisenhower Fellow, discussed the [Internet of Everything]({{< ref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}).
 
 <blockquote class="twitter-tweet" data-width="500">
   <p lang="en" dir="ltr">

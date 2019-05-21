@@ -16,7 +16,7 @@ topics:
 
 Every week my main goal is to usually provide new ways to help you feed the content beast. However, today I am going to remind you of why feeding the beast is important, especially when it comes to your search engine rankings and helping users find your content.
 
-I&#8217;ve discussed key [search engine optimization]({{< link "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}) (SEO) tips previously and there is no shortage of [SEO content]({{< link "2014-06-13-search-engine-optimization-for-government-websites.md" >}}) available, but today I am going to focus again on how quality and quantity of your content can have an impact on your search engine rankings and how that content appears on search engine results pages (SERPs).
+I&#8217;ve discussed key [search engine optimization]({{< ref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}) (SEO) tips previously and there is no shortage of [SEO content]({{< ref "2014-06-13-search-engine-optimization-for-government-websites.md" >}}) available, but today I am going to focus again on how quality and quantity of your content can have an impact on your search engine rankings and how that content appears on search engine results pages (SERPs).
 
 # More, More, More&#8230;
 
@@ -38,7 +38,7 @@ Also be sure to review site areas regularly (probably as part of an audit or con
 
 # Engaging Content
 
-I could almost just add links to several of my previous posts of [The Content Corner]({{< link "tag/the-content-corner" >}}), but I also want to look at this topic through the lens of SEO and how you appear on SERPs.
+I could almost just add links to several of my previous posts of [The Content Corner]({{< ref "tag/the-content-corner" >}}), but I also want to look at this topic through the lens of SEO and how you appear on SERPs.
 
 There is a lot of discussion about “quality content” and I like to toss around the term “efficient content” but what many of us don’t do a great job of is trying to help you find ways to quantify or define what that is. Google prefers the term “[valuable content](https://support.google.com/webmasters/answer/6001093?hl=en)”, so of course one of the first steps is to have as great an understanding as possible of what the user is looking for or what they will find value in.
 
@@ -50,7 +50,7 @@ Search data can also help you determine if certain site content is not meeting y
 
 # Don’t Forget that Content Pillar
 
-Way back in [my first post]({{< link "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}), I shared with you the content pillar concept and it remains a wonderful way to solve some of the issues I have raised in this post. By building a pillar around any piece of content it allows you to address both the quantity and the quality content struggle by providing additional content types that users will value.
+Way back in [my first post]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}), I shared with you the content pillar concept and it remains a wonderful way to solve some of the issues I have raised in this post. By building a pillar around any piece of content it allows you to address both the quantity and the quality content struggle by providing additional content types that users will value.
 
 The content pillar can help you develop video, infographics, and other images to include with your content to provide a more engaging experience for the user.
 

@@ -12,7 +12,7 @@ topics:
   - google-analytics
 ---
 
-[{{< legacy-img src="2014/08/250-x-151-DAP-2.jpg" alt="DAP screen capture" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/DAP-2.jpg)The <a href="{{< link "service_dap.md" >}}" target="_blank">Digital Analytics Program (DAP)</a> is delighted to announce the launch of a DAP user group and new training program. These initiatives will support DAP users in getting the most from their implementation.
+[{{< legacy-img src="2014/08/250-x-151-DAP-2.jpg" alt="DAP screen capture" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/DAP-2.jpg)The <a href="{{< ref "service_dap.md" >}}" target="_blank">Digital Analytics Program (DAP)</a> is delighted to announce the launch of a DAP user group and new training program. These initiatives will support DAP users in getting the most from their implementation.
 
 The kick-off for this user group will be on Thursday, September 12, 2013, when we will host a webinar to welcome  users and discuss how a user group can provide the most benefit. Meeting invitations with login instructions will be sent to directly to these users two weeks before the meeting.
 

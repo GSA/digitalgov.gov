@@ -24,7 +24,7 @@ While official sources explain that the desired outcome is not possible at this 
 
 [{{< legacy-img src="2015/12/506-x-311-FBI-NY-PharmaBro-Martin-Shkreli-arrest-WuTang-Clan-tweet-Dec-17th-2015.jpg" alt="FBI NY's tweet on the arrest of Pharma Bro Martin Shkreli and Wu-Tang Clan album December 17th 2015" >}}](https://twitter.com/newyorkfbi/status/677597263540191232)
 
-&#8230;in light of this creative effort, let&#8217;s discuss how you too can use FOIA and other [Open Government programs]({{< link "2015-10-29-empowering-the-voice-of-citizens-at-core-of-gsa-open-government.md" >}}) to build a better tomorrow.
+&#8230;in light of this creative effort, let&#8217;s discuss how you too can use FOIA and other [Open Government programs]({{< ref "2015-10-29-empowering-the-voice-of-citizens-at-core-of-gsa-open-government.md" >}}) to build a better tomorrow.
 
 ## What is FOIA?
 

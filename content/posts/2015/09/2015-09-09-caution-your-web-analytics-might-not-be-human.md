@@ -14,7 +14,7 @@ topics:
   - digital-analytics-program
 ---
 
-A <a href="{{< link "service_dap.md" >}}" target="_blank">Digital Analytics Program (DAP)</a> user recently contacted me with an observation/problem: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing, and he couldn’t figure out why the numbers would be so different.
+A <a href="{{< ref "service_dap.md" >}}" target="_blank">Digital Analytics Program (DAP)</a> user recently contacted me with an observation/problem: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing, and he couldn’t figure out why the numbers would be so different.
 
 When I say different, I mean substantially so. Looking at the pageviews metric, the agency implementation was reporting almost 33% MORE views than DAP. Naturally, he hoped that the higher numbers were the “correct” ones, and somehow, the DAP numbers were incorrect.
 

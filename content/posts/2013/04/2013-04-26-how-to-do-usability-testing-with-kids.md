@@ -20,7 +20,7 @@ topics:
 
 What do kids know about Web design? As we found out, quite a lot.
 
-Recently our [DigitalGov User Experience Program]({{< link "resources/digitalgov-user-experience-resources/" >}}) teamed up with the [Kids.gov](http://www.kids.gov/) team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office, made possible by “Take Your Child to Work Day.” We also tweeted some results under the hashtag [#kidsgovtest](https://twitter.com/search?q=kidsgovtest&src=typd "kidsgovtest")
+Recently our [DigitalGov User Experience Program]({{< ref "resources/digitalgov-user-experience-resources.md" >}}) teamed up with the [Kids.gov](http://www.kids.gov/) team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office, made possible by “Take Your Child to Work Day.” We also tweeted some results under the hashtag [#kidsgovtest](https://twitter.com/search?q=kidsgovtest&src=typd "kidsgovtest")
 
 We turned the lunchroom into our testing area, and set up laptops, balloons, markers and a good supply of sugar. Our goal: To get user feedback on Kids.gov’s design, navigation, and content.
 

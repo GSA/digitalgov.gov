@@ -26,11 +26,11 @@ People come to your site with something in mind they want to do. It’s a priori
 
 **3. Survey time!**
   
-Government agencies can use many different types of superb survey tools to collect information (there are a few survey products in <a title="Negotiated Terms of Service Agreements" href="{{< link "negotiated-terms-of-service-agreements.md" >}}" target="_blank">this list of services</a> with federal-compatible Terms of Service).  Why not find out more about your audience with some well-designed surveys that will explore people’s needs?  Quite a few survey tools are free.
+Government agencies can use many different types of superb survey tools to collect information (there are a few survey products in <a title="Negotiated Terms of Service Agreements" href="{{< ref "negotiated-terms-of-service-agreements.md" >}}" target="_blank">this list of services</a> with federal-compatible Terms of Service).  Why not find out more about your audience with some well-designed surveys that will explore people’s needs?  Quite a few survey tools are free.
 
 **4. Know thy metrics**
   
-Chances are, you’ve got some metrics lying around that could use some more exploring. If you’re rebooting a site, you’ve got all the old traffic reports. Maybe you’ve got some old surveys or customer emails in a folder somewhere (see above). Or you want to explore what search terms people are using in Google. Whatever it is, take a look and try to find some patterns of user behavior inside <a title="With Measurable Usability Goals – We All Score" href="{{< link "2013-10-28-with-measurable-usability-goals-we-all-score.md" >}}" target="_blank">your key metrics</a>. Are there features people have been asking about for years? Pages that were popular / unpopular? Exit points where people got frustrated and left? Be like Batman – it’s time to be a detective.
+Chances are, you’ve got some metrics lying around that could use some more exploring. If you’re rebooting a site, you’ve got all the old traffic reports. Maybe you’ve got some old surveys or customer emails in a folder somewhere (see above). Or you want to explore what search terms people are using in Google. Whatever it is, take a look and try to find some patterns of user behavior inside <a title="With Measurable Usability Goals – We All Score" href="{{< ref "2013-10-28-with-measurable-usability-goals-we-all-score.md" >}}" target="_blank">your key metrics</a>. Are there features people have been asking about for years? Pages that were popular / unpopular? Exit points where people got frustrated and left? Be like Batman – it’s time to be a detective.
 
 **5. User Interviews**
   

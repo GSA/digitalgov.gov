@@ -129,6 +129,6 @@ If you have decided that conducting a focus group is a good idea for your projec
   * [CheckList](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/FocusGroupCheckList.pdf) [PDF]: A printable Word document to use on the day of your focus group, to make sure you don’t forget anything.
   * [Quiz](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/QuizTestYourKnowledge.pdf) [PDF]: A fun way to test your knowledge.
 
-Finally, in our [Usability Starter Kit]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}), you can find a script to use for your focus group and a presentation on focus groups.
+Finally, in our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}), you can find a script to use for your focus group and a presentation on focus groups.
 
 _Stacey Sarris is a UX consultant and adjunct professor at Pace University, doctoral candidate at University of Baltimore&#8217;s Information and Interaction Design program, and was a UX intern at GSA._

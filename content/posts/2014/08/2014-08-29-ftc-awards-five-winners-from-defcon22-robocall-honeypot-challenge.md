@@ -14,7 +14,7 @@ topics:
 
 {{< legacy-img src="2014/08/600-x-408-Golden-honey-bee-rvbox-iStock-Thinkstock-162847094.jpg" alt="Honey dipper and pot" caption="" >}} 
 
-The Federal Trade Commission (FTC) had such [great success with their first robocall challenge competition]({{< link "2013-10-25-thousands-of-calls-blocked-thanks-to-contest-winner.md" >}} "Thousands of Calls Blocked, Thanks to Contest Winner") that the agency decided to take a different angle this year—targeting the skilled hackers at DEF CON 22, the annual defense conference in Las Vegas in early August.
+The Federal Trade Commission (FTC) had such [great success with their first robocall challenge competition]({{< ref "2013-10-25-thousands-of-calls-blocked-thanks-to-contest-winner.md" >}} "Thousands of Calls Blocked, Thanks to Contest Winner") that the agency decided to take a different angle this year—targeting the skilled hackers at DEF CON 22, the annual defense conference in Las Vegas in early August.
 
 Five winners earned cash prizes and bragging rights for their creative technical solutions around building and hacking &#8220;honeypots&#8221; that spoofed illegal robocall experiences. Some details from the program managers:
 
@@ -43,5 +43,5 @@ Five winners earned cash prizes and bragging rights for their creative technical
 </p>
 
 <p style="color: #323232">
-  <em>Interested in learning more about Challenge and Prize Competitions? Check out our <a title="Get Started with Challenge and Prize Competitions" href="{{< link "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}}">Get Started Guide</a>.</em>
+  <em>Interested in learning more about Challenge and Prize Competitions? Check out our <a title="Get Started with Challenge and Prize Competitions" href="{{< ref "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}}">Get Started Guide</a>.</em>
 </p>

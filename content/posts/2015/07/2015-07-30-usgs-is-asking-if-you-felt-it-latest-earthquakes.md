@@ -50,4 +50,4 @@ We may not know when a big one is coming, but we can be prepared.
 
 The Federal Emergency Management Agency (FEMA) has a variety of [earthquake-related information resources](http://www.fema.gov/earthquake-publications) to help us with our preparedness and inform us of what to do before, during and after an earthquake.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

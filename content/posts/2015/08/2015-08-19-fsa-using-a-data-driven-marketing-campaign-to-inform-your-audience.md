@@ -39,7 +39,7 @@ Additionally, FSA did a variety of things that were in direct response to the ne
   * Utilized partners who had a voice with student loan borrowers and [made it easy](http://financialaidtoolkit.ed.gov/tk/outreach/target/borrowers/repayment-resources.jsp) for them to share the campaign message
   * Wrote [blogs posts](http://www.ed.gov/blog/topic/federal-student-aid/) about the most confusing aspects of the repayment process
   * Hosted webinars to help borrowers better understand their repayment options
-  * Hosted [#AskFAFSA]({{< link "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}) Office hours to provide direct customer service to borrowers.
+  * Hosted [#AskFAFSA]({{< ref "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}) Office hours to provide direct customer service to borrowers.
 
 All of these new tactics are based on website search data and the most popular call center topics from the Federal Student Aid Information Center. “The data-driven nature of this campaign has played a huge role in making the campaign a success,” said Callahan. “We analyzed data every step of the way, from A/B message testing, to website and conversion data, to video data. We constantly made adjustments to our tactics and content based on the data, which resulted in an extremely efficient campaign.”
 

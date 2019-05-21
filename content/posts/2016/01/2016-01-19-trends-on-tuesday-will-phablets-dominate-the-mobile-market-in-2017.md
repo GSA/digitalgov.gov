@@ -34,4 +34,4 @@ The percentage of new phablet-sized phone activations during the 2014-2015 holid
     </p>
     
     <p>
-      Is your agency prepared for the phablet-majority audience that could be coming as early as next year? These larger mobile phone interfaces have exploded in popularity in just a couple of short years. Stay tuned to DigitalGov for more news and information around </span><a href="{{< link "categories/mobile" >}}"><span style="font-weight: 400">mobile trends.</a></p>
+      Is your agency prepared for the phablet-majority audience that could be coming as early as next year? These larger mobile phone interfaces have exploded in popularity in just a couple of short years. Stay tuned to DigitalGov for more news and information around </span><a href="{{< ref "categories/mobile" >}}"><span style="font-weight: 400">mobile trends.</a></p>

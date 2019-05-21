@@ -27,16 +27,16 @@ Our research has shown that people in government need clear, practical, well-doc
 
 So we’re setting out to deliver just that. And we’re making a commitment to improve our site and its services iteratively and in the open. By clearly documenting each step of our process, we hope to be a practical example, make paths that others can follow or adapt, and create a space where government teams can share their own problems and solutions. We’ll need your help to make this happen.
 
-**Related:** [The U.S. Web Design Standards team has joined the DigitalGov team]({{< link "2017-11-14-uswds-digitalgov.md" >}})
+**Related:** [The U.S. Web Design Standards team has joined the DigitalGov team]({{< ref "2017-11-14-uswds-digitalgov.md" >}})
 
 **How to stay up-to-date:**
 
 - [Here's what we're working on][3ed80b13]
 - [Sign up for our newsletter][20d731c7]
-- [Join a community of practice]({{< link "/communities/" >}})
+- [Join a community of practice]({{< ref "/communities/_index.md" >}})
 - [Follow us on Twitter][a4d3008a]
 - [Join us on Facebook][48963c81]
-- [Learn more about our team]({{< link "/about/" >}})
+- [Learn more about our team]({{< ref "/about/about.md" >}})
 
   [3ed80b13]: https://github.com/GSA/digitalgov.gov/issues "What we're working on in GitHub"
   [20d731c7]: https://connect.digitalgov.gov/subscribe "Sign up for our newsletter"

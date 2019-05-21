@@ -69,6 +69,6 @@ On the heels of the DEBUT Challenge, NIH’s latest problem-solving opportunity 
 
 Both problem-solving initiatives are prime examples of how a prize competition can inspire young innovators and entrepreneurs to contribute to an agency’s mission.
 
-The federal challenge and prize community will gather October 7-8 in Washington, D.C., to share more success stories and celebrate the fifth anniversary of Challenge.gov. Stay tuned to [Twitter](https://twitter.com/ChallengeGov), [Facebook](https://www.facebook.com/ChallengeGov), and [DigitalGov]({{< link "index.html" >}}) for forthcoming details.
+The federal challenge and prize community will gather October 7-8 in Washington, D.C., to share more success stories and celebrate the fifth anniversary of Challenge.gov. Stay tuned to [Twitter](https://twitter.com/ChallengeGov), [Facebook](https://www.facebook.com/ChallengeGov), and [DigitalGov]({{< ref "index.html" >}}) for forthcoming details.
 
 And if you have a challenge success story to share, [email the challenge team](mailto:challenge@gsa.gov).

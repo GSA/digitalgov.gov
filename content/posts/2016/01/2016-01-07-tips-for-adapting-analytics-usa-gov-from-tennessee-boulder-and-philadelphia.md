@@ -15,7 +15,7 @@ topics:
   - digital-analytics-program
 ---
 
-When [we launched analytics.usa.gov](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/) with the [Digital Analytics Program]({{< link "service_dap.md" >}}), the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction:
+When [we launched analytics.usa.gov](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/) with the [Digital Analytics Program]({{< ref "service_dap.md" >}}), the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction:
 
 > This open source project is in the public domain, which means that this website and its data are free for you to use without restriction. You can find the [code for this website](https://github.com/GSA/analytics.usa.gov) and the [code behind the data collection](https://github.com/18F/analytics-reporter) on GitHub.
 

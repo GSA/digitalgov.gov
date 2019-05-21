@@ -21,12 +21,12 @@ Good content drives your digital presence. No matter what you produce content fo
 
 But, there are things you can do to help your work stand out. In February on DigitalGov, we’ll be looking at content from a variety of angles: content strategy, the long tail, the importance of links, and website redesigns of Ed.gov and ForeignAssistance.gov.
 
-This month we’re also welcoming our new contributor, Ty Manuel, from the Administrative Office of the U.S. Courts, who will be writing on content trends in a regular column called “The Content Corner.” He’s already gotten off to a great start with his piece on [Content Pillars]({{< link "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}} "The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy").
+This month we’re also welcoming our new contributor, Ty Manuel, from the Administrative Office of the U.S. Courts, who will be writing on content trends in a regular column called “The Content Corner.” He’s already gotten off to a great start with his piece on [Content Pillars]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}} "The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy").
 
 Check back later this week and the rest of the month to read these pieces:
 
-  * [The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy]({{< link "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}} "The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy")
-  * [Don’t Forget the Long Tail: It Can Deliver Value]({{< link "2015-02-13-dont-forget-the-long-tail-it-can-deliver-value.md" >}} "Don’t Forget the Long Tail: It Can Deliver Value")
-  * [Building Brick By Brick: Ed.Gov’s Website Redesign and Mobile Implementation]({{< link "2015-02-12-building-brick-by-brick-ed-govs-website-redesign-and-mobile-implementation.md" >}} "Building Brick by Brick: Ed.gov’s Website Redesign and Mobile Implementation")
-  * [ForeignAssistance.gov’s Redesign: Using Agile Methodology to Keep Users in Mind]({{< link "2015-02-27-foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind.md" >}})
-  * [Avoid Weak ‘Links’ in Your Digital Chain]({{< link "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}})
+  * [The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy]({{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}} "The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy")
+  * [Don’t Forget the Long Tail: It Can Deliver Value]({{< ref "2015-02-13-dont-forget-the-long-tail-it-can-deliver-value.md" >}} "Don’t Forget the Long Tail: It Can Deliver Value")
+  * [Building Brick By Brick: Ed.Gov’s Website Redesign and Mobile Implementation]({{< ref "2015-02-12-building-brick-by-brick-ed-govs-website-redesign-and-mobile-implementation.md" >}} "Building Brick by Brick: Ed.gov’s Website Redesign and Mobile Implementation")
+  * [ForeignAssistance.gov’s Redesign: Using Agile Methodology to Keep Users in Mind]({{< ref "2015-02-27-foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind.md" >}})
+  * [Avoid Weak ‘Links’ in Your Digital Chain]({{< ref "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}})

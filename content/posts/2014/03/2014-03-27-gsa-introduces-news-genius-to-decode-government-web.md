@@ -64,7 +64,7 @@ topics:
 </p>
 
 <p dir="ltr">
-  This announcement comes today in conjunction with our SocialGov Summit, hosted by the <a href="{{< link "social-media.md" >}}">Federal SocialGov Community</a> and the Small Business Administration, which focuses on how government can better grow opportunities for entrepreneurs and small businesses using digital engagement, social media and data.
+  This announcement comes today in conjunction with our SocialGov Summit, hosted by the <a href="{{< ref "social-media.md" >}}">Federal SocialGov Community</a> and the Small Business Administration, which focuses on how government can better grow opportunities for entrepreneurs and small businesses using digital engagement, social media and data.
 </p>
 
 <p dir="ltr">
@@ -72,19 +72,19 @@ topics:
 </p>
 
 <p dir="ltr">
-  The SocialGov Summits are an ongoing education and training series through <a href="{{< link "events" >}}">DigitalGov University</a> open free to government employees in order to help build the government of the 21st Century. We have <a href="{{< link "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}">quadrupled the amount of these digital trainings</a> available in 2014, with the same resources, by using social media and data as a mechanism to improve the internal function of government itself.
+  The SocialGov Summits are an ongoing education and training series through <a href="{{< ref "events" >}}">DigitalGov University</a> open free to government employees in order to help build the government of the 21st Century. We have <a href="{{< ref "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}">quadrupled the amount of these digital trainings</a> available in 2014, with the same resources, by using social media and data as a mechanism to improve the internal function of government itself.
 </p>
 
 <p dir="ltr">
-  The <a href="{{< link "social-media.md" >}}">SocialGov Community</a>, also known less-coolly as the Federal Social Media Community of Practice, is a performance-driven team of 600 digital engagement managers from more than 130 federal programs committed to using social media to measurably improve public services and measurably reduce costs. Recent shared services delivered by the SocialGov Community include the:
+  The <a href="{{< ref "social-media.md" >}}">SocialGov Community</a>, also known less-coolly as the Federal Social Media Community of Practice, is a performance-driven team of 600 digital engagement managers from more than 130 federal programs committed to using social media to measurably improve public services and measurably reduce costs. Recent shared services delivered by the SocialGov Community include the:
 </p>
 
   * <p dir="ltr">
-      first comprehensive <a href="{{< link "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}">social media performance analysis recommendations</a> for government
+      first comprehensive <a href="{{< ref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}">social media performance analysis recommendations</a> for government
     </p>
 
   * <p dir="ltr">
-      first federal toolkit to improve the <a href="{{< link "2012-11-30-socialgov-summit-highlights-accessibility-challenges.md" >}}">accessibility of social media for persons with disabilities</a>
+      first federal toolkit to improve the <a href="{{< ref "2012-11-30-socialgov-summit-highlights-accessibility-challenges.md" >}}">accessibility of social media for persons with disabilities</a>
     </p>
 
   * <p dir="ltr">
@@ -92,7 +92,7 @@ topics:
     </p>
 
 <p dir="ltr">
-  For more information on the SocialGov Community, check out our recent <a href="{{< link "2014-02-18-state-of-the-socialgov-2014.md" >}}">“State of the #SocialGov 2014” post</a>.
+  For more information on the SocialGov Community, check out our recent <a href="{{< ref "2014-02-18-state-of-the-socialgov-2014.md" >}}">“State of the #SocialGov 2014” post</a>.
 </p>
 
 <p dir="ltr">

@@ -19,7 +19,7 @@ topics:
   - ux
 ---
 
-[Personas]({{< link "2015-01-09-personas-101.md" >}}) are fictional characters that describe an organization’s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s actions meet the needs of the majority of customers, including visitors to your website, contact center, in-person visits, and interactive voice response (IVR) self service customers.
+[Personas]({{< ref "2015-01-09-personas-101.md" >}}) are fictional characters that describe an organization’s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s actions meet the needs of the majority of customers, including visitors to your website, contact center, in-person visits, and interactive voice response (IVR) self service customers.
 
 ## Why We Updated our Personas
 
@@ -27,8 +27,8 @@ Personas aren’t new to [USA.gov](http://www.usa.gov/). We developed personas s
 
 We created [new personas](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/USA.gov-Personas-March-2015.pdf) [PDF] of the customers who currently use USA.gov and 1-844-USA-GOV1 based on the themes and insights observed from several different data sets. We reviewed the following 2014 data:
 
-  * USA.gov Web analytics (via the [Digital Analytics Program]({{< link "service_dap.md" >}})), including demographics, devices, common paths, popular pages, and outbound links
-  * Onsite search data from [DigitalGov Search]({{< link "service_search.md" >}})
+  * USA.gov Web analytics (via the [Digital Analytics Program]({{< ref "service_dap.md" >}})), including demographics, devices, common paths, popular pages, and outbound links
+  * Onsite search data from [DigitalGov Search]({{< ref "service_search.md" >}})
   * USA.gov customer satisfaction survey data
   * Searches on Google that led customers to USA.gov (via [Google Webmaster Tools](https://www.google.com/webmasters/))
   * 1-844-USA-GOV1 contact center content usage

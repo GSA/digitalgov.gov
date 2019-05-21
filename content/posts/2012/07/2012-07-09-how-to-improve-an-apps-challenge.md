@@ -40,7 +40,7 @@ topics:
     </p>
 
     <p>
-      Check out our <a title="Resources to Help Run an Apps or Mobile Apps Challenge" href="{{< link "2013-11-06-software-and-apps-challenges.md" >}}">resources</a>—including examples, lessons learned, and more—to help you run your apps or mobile apps challenge.
+      Check out our <a title="Resources to Help Run an Apps or Mobile Apps Challenge" href="{{< ref "2013-11-06-software-and-apps-challenges.md" >}}">resources</a>—including examples, lessons learned, and more—to help you run your apps or mobile apps challenge.
     </p>
 
     <p>

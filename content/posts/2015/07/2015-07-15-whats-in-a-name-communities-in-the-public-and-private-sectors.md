@@ -18,7 +18,7 @@ topics:
 
 {{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}} 
 
-Many of you are part of a government community. [We lead a few of them here]({{< link "/communities/" >}}), and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a [community for government Drupal users](https://www.drupalgovcon.org/drupal-govcon-2015/community).
+Many of you are part of a government community. [We lead a few of them here]({{< ref "/communities/_index.md" >}}), and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a [community for government Drupal users](https://www.drupalgovcon.org/drupal-govcon-2015/community).
 
 A co-worker recently asked me for research on communities because she is trying to increase the sense of community among her program&#8217;s customers. Her question made me realize that the public and private sectors use communities in different ways. Check out the [material written about private communities](https://www.forrester.com/search?tmtxt=communities&N=10003&range=504001). Here&#8217;s roughly how they work:
 
@@ -28,16 +28,16 @@ A co-worker recently asked me for research on communities because she is trying 
 
 There are a few ways that government and private communities are alike. Check out this [infographic on how to utilize communities](http://info.dnnsoftware.com/rs/dotnetnuke/images/21-Valuable-Ways-Marketers-Use-Communities.pdf?utm_source=Early9&utm_medium=email&utm_campaign=core_nurture&mkt_tok=3RkMMJWWfF9wsRonu6rJde%2FhmjTEU5z16uwsWKC%2FgJ541El3fuXBP2XqjvpVQcRnMLvYDBceEJhqyQJxPr3CKdgNwNtuRhDiAQ%3D%3D), and you&#8217;ll see that there are many things both sectors can do:
 
-  * Both can co-create through communities. What better way to improve or create a product or service than to ask current or potential users? For example, [Web Content Managers]({{< link "web-managers-forum.md" >}}) frequently reach out to other community members to test the new version of a website. Showing that you are open to feedback goes a long way.
-  * Both can share information. Private sector communities can blog and ask questions, and so can we. Many of you have written articles for [DigitalGov,]({{< link "index.html" >}}) or asked a question on one of our community listservs.
-  * Being too self serving is one _don&#8217;t_ in both public and private communities. If members get the impression that they are being used for sales purposes or to increase numbers, they will leave. As [Ty Manuel wrote]({{< link "2015-07-06-the-content-corner-creating-good-content-is-hard.md" >}}), **good content is key** because it gets shared, builds relationships and establishes trust.
+  * Both can co-create through communities. What better way to improve or create a product or service than to ask current or potential users? For example, [Web Content Managers]({{< ref "web-managers-forum.md" >}}) frequently reach out to other community members to test the new version of a website. Showing that you are open to feedback goes a long way.
+  * Both can share information. Private sector communities can blog and ask questions, and so can we. Many of you have written articles for [DigitalGov,]({{< ref "index.html" >}}) or asked a question on one of our community listservs.
+  * Being too self serving is one _don&#8217;t_ in both public and private communities. If members get the impression that they are being used for sales purposes or to increase numbers, they will leave. As [Ty Manuel wrote]({{< ref "2015-07-06-the-content-corner-creating-good-content-is-hard.md" >}}), **good content is key** because it gets shared, builds relationships and establishes trust.
 
 Getting more involved in a community is a great way for federal employees to do their jobs better and grow their careers. Here are some ways you can get started:
 
-  * [Share your knowledge by writing articles for DigitalGov]({{< link "join.md" >}}).
-  * Join [communities, so you can learn from everyone]({{< link "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}).
-  * Increase your skills by trying out online tools for communities. For example, GSA employees use Salesforce Chatter, and [Digital Analytics Program customers collaborate on Yammer]({{< link "service_dap.md" >}}).
-  * Have a skill you don&#8217;t get to use everyday at work? Federal agencies post tasks they need done through the [Open Opportunities Program]({{< link "open-opportunities.md" >}}). From there, you can create a profile on the [Open Opportunities site](https://openopps.digitalgov.gov/) and join their LinkedIn group.
-  * Take advantage of [events where you can network with communities]({{< link "/digitalgov-university/" >}}).
+  * [Share your knowledge by writing articles for DigitalGov]({{< ref "join.md" >}}).
+  * Join [communities, so you can learn from everyone]({{< ref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}).
+  * Increase your skills by trying out online tools for communities. For example, GSA employees use Salesforce Chatter, and [Digital Analytics Program customers collaborate on Yammer]({{< ref "service_dap.md" >}}).
+  * Have a skill you don&#8217;t get to use everyday at work? Federal agencies post tasks they need done through the [Open Opportunities Program]({{< ref "open-opportunities.md" >}}). From there, you can create a profile on the [Open Opportunities site](https://openopps.digitalgov.gov/) and join their LinkedIn group.
+  * Take advantage of [events where you can network with communities]({{< ref "/about/digitalgov-university.md" >}}).
 
 Have you taken part in a government or private sector community? Write us, and let us know how it was beneficial.

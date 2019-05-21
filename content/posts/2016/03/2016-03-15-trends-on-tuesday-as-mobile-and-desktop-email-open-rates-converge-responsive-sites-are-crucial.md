@@ -16,7 +16,7 @@ topics:
 
 A new report about email usage reinforced the importance of always building responsive websites. [Yesmail&#8217;s quarterly report](http://www.marketingcharts.com/online/responsive-design-seen-key-as-mobile-and-desktop-email-cto-rates-converge-66262/?utm_campaign=rssfeed&utm_source=mc&utm_medium=textlink) showed that mobile and desktop email click-to-open rates are converging to almost the same level for the first time ever. {{< legacy-img src="2016/03/600-x-400-Laptop-Tablet-PC-Smart-Phone-scyther5-iStock-Thinkstock-479312924.jpg" alt="Three mobile devices on a wooden surface; a laptop, tablet PC, and a smart phone." caption="" >}}
 
-As people become [more mobile-first and mobile-only users of the Internet]({{< link "2016-01-05-trends-on-tuesday-mobile-only-u-s-audiences-grow-while-broadband-usage-drops.md" >}}), users opening emails on their desktop devices has dropped continuously for the past 2 years, from 22.6% to 15.3%.
+As people become [more mobile-first and mobile-only users of the Internet]({{< ref "2016-01-05-trends-on-tuesday-mobile-only-u-s-audiences-grow-while-broadband-usage-drops.md" >}}), users opening emails on their desktop devices has dropped continuously for the past 2 years, from 22.6% to 15.3%.
 
 The report from Yesmail states: &#8220;The results certainly support the argument for responsive design,&#8221; as those who used responsive design in all of their emails had:
 
@@ -24,4 +24,4 @@ The report from Yesmail states: &#8220;The results certainly support the argumen
   * A notable difference in the percentage of clicks occurring on mobile devices (58% vs. 46.7%); and
   * A stronger mobile click-to-open rate (16.2% vs. 10.4%).
 
-Making sure your email newsletters, as well as, links from your email newsletters are responsive-optimized is critical for reaching agency audiences who increasingly are [using their smartphones for most tasks]({{< link "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}).
+Making sure your email newsletters, as well as, links from your email newsletters are responsive-optimized is critical for reaching agency audiences who increasingly are [using their smartphones for most tasks]({{< ref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}).

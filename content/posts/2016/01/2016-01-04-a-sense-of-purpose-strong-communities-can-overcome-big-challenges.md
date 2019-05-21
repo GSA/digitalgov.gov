@@ -31,11 +31,11 @@ Currently on loan from HUD to the RAND Corporation, Davis continues to work on i
 
 As Americans become increasingly mobile, the traditional concept of community has expanded from a city, town or state to include the online domain, with networks stretching the globe. {{< legacy-img src="2015/12/600-x-431-Crowdfunding-nevarpp-iStock-Thinkstock-467787672.jpg" alt="Individual and teams contribute money to fund a solution" caption="" >}}
 
-[Federal crowdsourcing events]({{< link "2015-12-16-challenges-crowdsourcing-citizen-science-whats-the-dif.md" >}}), such as challenge and prize competitions, represent an inexpensive way to bring together diverse mindsets to solve problems of various scope and scale.
+[Federal crowdsourcing events]({{< ref "2015-12-16-challenges-crowdsourcing-citizen-science-whats-the-dif.md" >}}), such as challenge and prize competitions, represent an inexpensive way to bring together diverse mindsets to solve problems of various scope and scale.
 
 “People feel a sense of purpose” when they are part of a community, said Jono Bacon, director of community at GitHub. He added that members of a community gain access to tools, knowledge and other people.
 
-And while the concept of community may be fading in the physical world, it has grown in the online world. Just look at Wikipedia, [OpenStreetMap]({{< link "2014-12-17-with-every-tool-possible-supporting-humanitarian-aid-efforts-through-crowdsourced-mapping.md" >}}), the Open Compute Project and more.
+And while the concept of community may be fading in the physical world, it has grown in the online world. Just look at Wikipedia, [OpenStreetMap]({{< ref "2014-12-17-with-every-tool-possible-supporting-humanitarian-aid-efforts-through-crowdsourced-mapping.md" >}}), the Open Compute Project and more.
 
 These initiatives are known as “write” communities and include people brought together by the idea of improving something, said Bacon, who until recently led community efforts at XPRIZE.
 
@@ -64,6 +64,6 @@ A community grows and takes shape somewhat naturally, but Bacon and Davis also o
 Finally, Bacon and Davis emphasized that the positive impact doesn’t end once a winner is announced. The community formed during a challenge can help continue the work after the competition is over.
 
 [youtube=http://www.youtube.com/watch?v=9JhOZP61_XI&w=600]_Next up in their training series, Challenge.gov will cover the importance of capitalizing on the momentum of a challenge after a prize has been awarded._ _The [Post-Prize Industry and Post-Prize Impact webinar](https://www.youtube.com/watch?v=QdLSB2rjV9w) will take place on Jan. 14._
-_These Challenge.gov training modules are part of a seven-part expert training series, [How to Design & Operate Prizes to Maximize Success]({{< link "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}), hosted by [DigitalGov University]({{< link "/digitalgov-university/" >}})._
+_These Challenge.gov training modules are part of a seven-part expert training series, [How to Design & Operate Prizes to Maximize Success]({{< ref "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}), hosted by [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}})._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

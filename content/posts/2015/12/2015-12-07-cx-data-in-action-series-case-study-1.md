@@ -79,4 +79,4 @@ Watch the webinar to hear Terri’s full presentation.
 
 [youtube=http://www.youtube.com/watch?v=fI6o7hxSJQw&w=600]
 
-Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting the Community page]({{< link "customer-experience-community.md" >}}), and [viewing our playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) of on-demand training videos.
+Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting the Community page]({{< ref "customer-experience-community.md" >}}), and [viewing our playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) of on-demand training videos.

@@ -27,14 +27,14 @@ topics:
   - virtual-augmented-reality-community
 ---
 
-Suddenly, </span>[<span style="font-weight: 400">digital video is everywhere</span>]({{< link "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}})<span style="font-weight: 400"> on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and all of the features each publishing platform has to offer. Facebook, Twitter and SnapChat all offer great video platforms that are free and easy to use, plus they make it easy for you to market to your social followers on those respective platforms.</p> 
+Suddenly, </span>[<span style="font-weight: 400">digital video is everywhere</span>]({{< ref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}})<span style="font-weight: 400"> on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and all of the features each publishing platform has to offer. Facebook, Twitter and SnapChat all offer great video platforms that are free and easy to use, plus they make it easy for you to market to your social followers on those respective platforms.</p> 
 
 <p>
   When most people think of Google, they often think of the search engine, but Google also has been on the forefront of creating media and research tools, metric suites and content presentation platforms for years. Together, these Google resources can help any digital audio/video producer discover interesting stories, produce/publish content and track consumption.  Google tools are free to use (as are the Facebook video and Facebook Live platforms), but be sure to check with your respective agency to see if agency-wide agreements are in place. 
 </p>
 
 <p>
-  Nick Whitaker, Media Outreach Manager at Google, joined us </span><span style="font-weight: 400">last week in a <a href="{{< link "/digitalgov-university/" >}}">DigitalGov University</a> webinar, <a href="https://www.youtube.com/watch?v=-Ae2efgu9As">Video, VR, Mobile Reporting, and More With Google</a>, for the <a href="{{< link "communities/video-production/" >}}">Digital Audio/Video Community of Practice</a> </span><span style="font-weight: 400">to discuss Google’s latest media offerings. </p> 
+  Nick Whitaker, Media Outreach Manager at Google, joined us </span><span style="font-weight: 400">last week in a <a href="{{< ref "/about/digitalgov-university.md" >}}">DigitalGov University</a> webinar, <a href="https://www.youtube.com/watch?v=-Ae2efgu9As">Video, VR, Mobile Reporting, and More With Google</a>, for the <a href="{{< ref "communities/video-production/" >}}">Digital Audio/Video Community of Practice</a> </span><span style="font-weight: 400">to discuss Google’s latest media offerings. </p> 
   
   <h2>
     All About News Lab

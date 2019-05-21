@@ -22,7 +22,7 @@ _Originally published on the [GSA blog](https://www.gsa.gov/blog/2019/04/18/gsa-
 
 Emerging technologies are rapidly changing the way government and industry do business. In order to prepare for and fully leverage this technological revolution, GSA is forming a community of practice (CoP) for robotic process automation (RPA). The new RPA CoP will allow federal government leaders to explore opportunities, share ideas, and collaborate on how RPA can be effectively implemented in their respective agencies.
 
-[**Join the community »**]({{< link "communities/rpa-community.md" >}})
+[**Join the community »**]({{< ref "communities/rpa-community.md" >}})
 
 The Executive Sponsors of the RPA CoP are GSA Chief Financial Officer Gerard Badorrek and GSA Technology Transformation Services (TTS) Director Anil Cheriyan. The CoP will be chaired by Ed Burrows of the GSA Office of the Chief Financial Officer (CFO).
 

@@ -24,7 +24,7 @@ See the sample results page below that shows image results displayed on [DOI.gov
 
 We also [open-sourced the entire codebase](https://github.com/GSA/oasis) behind this project.
 
-This post is the first of [two in a series]({{< link "2014-11-04-a-picture-is-worth-a-thousand-tokens-part-ii.md" >}} "A Picture Is Worth a Thousand Tokens: Part II") where I take a technical deep dive into the details of how the image search engine works, and specifically how we used Elasticsearch to build it.
+This post is the first of [two in a series]({{< ref "2014-11-04-a-picture-is-worth-a-thousand-tokens-part-ii.md" >}} "A Picture Is Worth a Thousand Tokens: Part II") where I take a technical deep dive into the details of how the image search engine works, and specifically how we used Elasticsearch to build it.
 
 ## Our Goal
 
@@ -126,7 +126,7 @@ All of these similar photos are relevant, but we&#8217;d rather just show a few 
 
 **Date**: We initially focused on surfacing the most relevant pictures on the first page of the search results, but as we dug into page two and beyond, we saw some profiles had photos that were all scored 0.0. The culprit was the Gaussian decay function we were applying to decrease relevancy on older photos. The first batch of agency photos all happened to cover current affairs, like White House events and State Department conferences. But some of our other agencies use social media mainly for archival photos. The [Library of Congress Flickr photostream](https://www.flickr.com/photos/library_of_congress/) contains some photos that were taken 150 _years_ ago, and the Gaussian decay function decayed their relevancy right down to zero.
 
-This clearly isn’t what we wanted so we focused on improving our relevance algorithm in our second iteration, which I’ll tell you more about in [next week’s blog post]({{< link "2014-11-04-a-picture-is-worth-a-thousand-tokens-part-ii.md" >}} "A Picture Is Worth a Thousand Tokens: Part II").
+This clearly isn’t what we wanted so we focused on improving our relevance algorithm in our second iteration, which I’ll tell you more about in [next week’s blog post]({{< ref "2014-11-04-a-picture-is-worth-a-thousand-tokens-part-ii.md" >}} "A Picture Is Worth a Thousand Tokens: Part II").
 
 ## About Us
 

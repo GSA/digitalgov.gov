@@ -36,5 +36,5 @@ Let us know what you think. With the ability to count traffic for desktop, table
 
 More responsive design examples: 
 
-* [Medicare.gov]({{< link "2013-06-27-medicare-gov-mobile-website.md" >}})
-* [Housing & Urban Development Office of Inspector General]({{< link "2013-08-01-hud-office-of-inspector-general-responsive-design-website.md" >}})
+* [Medicare.gov]({{< ref "2013-06-27-medicare-gov-mobile-website.md" >}})
+* [Housing & Urban Development Office of Inspector General]({{< ref "2013-08-01-hud-office-of-inspector-general-responsive-design-website.md" >}})

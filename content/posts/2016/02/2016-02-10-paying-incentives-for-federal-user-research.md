@@ -32,4 +32,4 @@ Some agencies hire vendors to recruit and pay the participants, while others do 
   * Finding participants: This can be difficult, but local universities can help. They may even be able to offer classrooms as testing locations.
   * Testing locations: If you test in a public place, such as a library or university, and are only asking people for a few minutes of their time, you may not need to pay incentives.
 
-_Thanks to members of the [UX]({{< link "user-experience.md" >}}) community for their contributions to this article._
+_Thanks to members of the [UX]({{< ref "user-experience.md" >}}) community for their contributions to this article._

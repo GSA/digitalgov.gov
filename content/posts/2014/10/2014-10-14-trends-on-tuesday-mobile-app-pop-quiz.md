@@ -41,4 +41,4 @@ So, how did you do? Every agency should take this test before investing time and
 
 The [U.S. Census Bureau](http://www.census.gov/) and the [Centers for Disease Control and Prevention](http://www.cdc.gov/) are great examples of how agencies are putting these questions and answers to use. Their apps, [Pop Quiz](http://www.census.gov/mobile/censuspopquiz/) and [Solve the Outbreak](http://www.cdc.gov/mobile/applications/sto/) use games to connect hard-to-reach audiences with information they should know.
 
-For more information on developing mobile products for the public, check out DigitalGov’s [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program").
+For more information on developing mobile products for the public, check out DigitalGov’s [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program").

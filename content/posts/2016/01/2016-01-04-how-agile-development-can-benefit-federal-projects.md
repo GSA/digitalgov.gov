@@ -17,7 +17,7 @@ Agile methods help agencies deliver projects and products more efficiently and e
 
 Transitioning to agile development has benefited [Open Opportunities](https://openopps.digitalgov.gov/), a platform that helps agencies tap into federal expertise and provides professional development opportunities to federal employees.
 
-The platform first launched in May 2013 using a WordPress-based system. In August 2014, 18F was hired to work on the project, and 18F team members began customizing a crowdsourcing platform developed by the Department of State using open, [agile methods]({{< link "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}).
+The platform first launched in May 2013 using a WordPress-based system. In August 2014, 18F was hired to work on the project, and 18F team members began customizing a crowdsourcing platform developed by the Department of State using open, [agile methods]({{< ref "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}).
 
 Not only has going open and agile helped stimulate innovation on the platform, it has expedited feature development, reduced development costs and provided a path for the public to get involved.
 

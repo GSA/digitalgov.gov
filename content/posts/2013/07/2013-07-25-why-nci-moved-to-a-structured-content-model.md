@@ -21,7 +21,7 @@ topics:
 
 Wikipedia says that structured content refers to information that&#8217;s been broken down and classified using metadata. It can also refer to information that&#8217;s been classified using XML or other standard or proprietary forms of metadata.
 
-The National Institutes of Health&#8217;s National Cancer Institute (NIH/NCI) [move to structured content]({{< link "2013-07-29-how-to-create-open-structured-content.md" >}} "How to Create Open, Structured Content") has allowed them to easily deliver their content anywhere, anytime, and on any device.
+The National Institutes of Health&#8217;s National Cancer Institute (NIH/NCI) [move to structured content]({{< ref "2013-07-29-how-to-create-open-structured-content.md" >}} "How to Create Open, Structured Content") has allowed them to easily deliver their content anywhere, anytime, and on any device.
 
 ## The Challenge
 
@@ -31,7 +31,7 @@ In many cases, some sections of documents were ready to be released while others
 
 ## The Solution
 
-As NCI began looking at an updated [Content Management System]({{< link "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit"), they made a conscious effort to separate the structure from the platform. The solution they found most useful was XML. They also developed training materials for the writers, and they trained them on how their content will be shown on the various devices.
+As NCI began looking at an updated [Content Management System]({{< ref "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit"), they made a conscious effort to separate the structure from the platform. The solution they found most useful was XML. They also developed training materials for the writers, and they trained them on how their content will be shown on the various devices.
 
 ## Results
 
@@ -39,4 +39,4 @@ The XML structure provided NIH/NCI with rich metadata that gave them more flexib
 
 NIH/NCI sees structured content as the first step in &#8220;future-proofing&#8221; their content. As they receive more and more content and devices multiply, it will be almost impossible to keep adjusting and updating content without structured content.
 
-_Editor&#8217;s Note: Check out the [structured, open content models]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!") and join in the [open content modeling project](https://github.com/GSA/Open-And-Structured-Content-Models/issues)._
+_Editor&#8217;s Note: Check out the [structured, open content models]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!") and join in the [open content modeling project](https://github.com/GSA/Open-And-Structured-Content-Models/issues)._

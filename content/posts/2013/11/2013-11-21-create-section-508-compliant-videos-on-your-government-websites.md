@@ -24,6 +24,6 @@ In early 2012, an interagency group of Section 508 experts, convened by the Gene
 
 **How to Create Section 508-Compliant Videos on Your Government Websites**
 
-  * [Make Multimedia Section 508 Compliant and Accessible]({{< link "2013-06-26-making-multimedia-section-508-compliant-and-accessible.md" >}}
+  * [Make Multimedia Section 508 Compliant and Accessible]({{< ref "2013-06-26-making-multimedia-section-508-compliant-and-accessible.md" >}}
 
 We welcome your feedback. We intend to maintain and plan to evolve these documents.

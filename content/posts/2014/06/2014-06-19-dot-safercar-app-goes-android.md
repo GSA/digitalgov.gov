@@ -14,7 +14,7 @@ topics:
 
 If you&#8217;re doing either or both, best be sure to grab the app for the [SaferCar program](http://www.safercar.gov/) from the Department of Transportation&#8217;s [National Highway Traffic Safety Administration](http://www.nhtsa.gov/About) (NHTSA).
 
-[We blogged about the SaferCar app]({{< link "2013-04-18-dots-safercar-app.md" >}}) last year when NHTSA [launched the app in iOS](https://itunes.apple.com/us/app/safercar/id593086230?ls=1&mt=8), and we are pleased to report that Android users have been brought into the fold with their own version [for download on Google Play](https://play.google.com/store/apps/details?id=gov.nhtsa.safercar).
+[We blogged about the SaferCar app]({{< ref "2013-04-18-dots-safercar-app.md" >}}) last year when NHTSA [launched the app in iOS](https://itunes.apple.com/us/app/safercar/id593086230?ls=1&mt=8), and we are pleased to report that Android users have been brought into the fold with their own version [for download on Google Play](https://play.google.com/store/apps/details?id=gov.nhtsa.safercar).
 
   * Buying a car? The app offers 5-Star crash test safety ratings and comparisons for a variety of makes and models.
 

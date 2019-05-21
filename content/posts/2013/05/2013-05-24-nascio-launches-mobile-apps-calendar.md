@@ -16,6 +16,6 @@ topics:
 
 &#8220;This tool offers a convenient way to see what other states are producing in terms of mobile apps, and allowing states to generate ideas for their own state or territory,&#8221; said Brenda Decker, NASCIO president and Nebraska CIO. &#8220;Some states lead the way in mobile app development and can pose as models for those growing their mobile app capabilities.&#8221;
 
-For more information be sure to read our May 13 post [Federal Mobile Code Sharing Catalog]({{< link "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}} "Federal Mobile Code Sharing Catalog Is Here").
+For more information be sure to read our May 13 post [Federal Mobile Code Sharing Catalog]({{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}} "Federal Mobile Code Sharing Catalog Is Here").
 
 _This post was originally published on  [NASCIO.org](http://www.nascio.org/newsroom/pressrelease.cfm?id=158)._

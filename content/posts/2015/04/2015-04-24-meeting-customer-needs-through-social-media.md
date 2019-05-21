@@ -19,11 +19,11 @@ topics:
 
 Social media tools can amplify your agency’s message, but they are also a meeting space for two-way conversations. They can be a key tool to resolve user issues and deliver excellent customer service.
 
-This is true for agencies in every corner of the government space. In honor of our monthly contact center theme, we reached out to the [Social Media Community of Practice]({{< link "social-media.md" >}}) to learn more about how social media complements the work of federal contact centers.
+This is true for agencies in every corner of the government space. In honor of our monthly contact center theme, we reached out to the [Social Media Community of Practice]({{< ref "social-media.md" >}}) to learn more about how social media complements the work of federal contact centers.
 
 ## Federal Student Aid
 
-{{< legacy-img src="2014/12/250-x-283-Twitter-photo-AskFAFSA-experts.jpg" alt="250 x 283 Twitter photo AskFAFSA experts" >}}Customer service is the main focus of Federal Student Aid’s social media accounts. In addition to the monthly [#AskFAFSA chats]({{< link "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}} "Great Customer Service in 140 Characters: #AskFAFSA Twitter Chats") that DigitalGov recently covered, FSA provides daily customer service through the [@FAFSA](https://twitter.com/FAFSA) Twitter and the [Federal Student Aid Facebook](https://www.facebook.com/FederalStudentAid) page.
+{{< legacy-img src="2014/12/250-x-283-Twitter-photo-AskFAFSA-experts.jpg" alt="250 x 283 Twitter photo AskFAFSA experts" >}}Customer service is the main focus of Federal Student Aid’s social media accounts. In addition to the monthly [#AskFAFSA chats]({{< ref "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}} "Great Customer Service in 140 Characters: #AskFAFSA Twitter Chats") that DigitalGov recently covered, FSA provides daily customer service through the [@FAFSA](https://twitter.com/FAFSA) Twitter and the [Federal Student Aid Facebook](https://www.facebook.com/FederalStudentAid) page.
 
 “In 2014, we responded to 3,450 inquiries,” said Nicole Callahan, Digital Engagement Strategist for FSA. “Altogether, customer service makes up 66% of our total social media activity at Federal Student Aid. Even our tweets and status updates are driven by the questions we receive via social media.”
 

@@ -207,7 +207,7 @@ This section provides tips on running an ideation challenge, resources, examples
   </h2>
   
   <p>
-    The following list of tools and challenge platforms is provided as a resource and is not an endorsement for any company or technology. Those companies that are on the GSA Schedule <a href="http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES">541-4G for Challenges & Competition Services</a> are noted with (GS) next to the company name. Those that have a federal-compatible <a href="{{< link "negotiated-terms-of-service-agreements.md" >}}">Terms of Service</a> are noted with a (ToS) next to the company name.
+    The following list of tools and challenge platforms is provided as a resource and is not an endorsement for any company or technology. Those companies that are on the GSA Schedule <a href="http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES">541-4G for Challenges & Competition Services</a> are noted with (GS) next to the company name. Those that have a federal-compatible <a href="{{< ref "negotiated-terms-of-service-agreements.md" >}}">Terms of Service</a> are noted with a (ToS) next to the company name.
   </p>
   
   <p>
@@ -219,7 +219,7 @@ This section provides tips on running an ideation challenge, resources, examples
   </p>
   
   <p>
-    <a href="http://challenge.sites.usa.gov/">GSA Ideation Platform</a><br /> This is a no-cost, online tool for federal agencies to run ideation crowdsourcing competitions. The Challenge.gov team built this ideation tool on the <a href="https://sites.usa.gov/">sites.usa.gov platform</a> and launched it in February 2014. Watch the on-demand webinar to learn <a href="{{< link "2014-03-11-crowdsource-ideas-with-new-competition-platform.md" >}}">how to</a> use <a href="http://challenge.sites.usa.gov/">Challenge.sites.usa.gov</a>. Contact <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> for more information.
+    <a href="http://challenge.sites.usa.gov/">GSA Ideation Platform</a><br /> This is a no-cost, online tool for federal agencies to run ideation crowdsourcing competitions. The Challenge.gov team built this ideation tool on the <a href="https://sites.usa.gov/">sites.usa.gov platform</a> and launched it in February 2014. Watch the on-demand webinar to learn <a href="{{< ref "2014-03-11-crowdsource-ideas-with-new-competition-platform.md" >}}">how to</a> use <a href="http://challenge.sites.usa.gov/">Challenge.sites.usa.gov</a>. Contact <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> for more information.
   </p>
   
   <p>

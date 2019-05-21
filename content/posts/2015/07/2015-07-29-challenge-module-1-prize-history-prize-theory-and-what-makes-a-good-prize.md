@@ -14,7 +14,7 @@ topics:
 
 {{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
-Two powerhouses in the Challenge and Prize community came together at GSA for the [first in a seven-part learning series]({{< link "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}) recently. Chris Frangione, Vice President of Prize Development for the XPrize and Alexis Bonnell, Innovation Evangelist at USAID offered insights and background into what makes a great ideation competition, sharing case studies and the history of prizes during the webinar.
+Two powerhouses in the Challenge and Prize community came together at GSA for the [first in a seven-part learning series]({{< ref "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}) recently. Chris Frangione, Vice President of Prize Development for the XPrize and Alexis Bonnell, Innovation Evangelist at USAID offered insights and background into what makes a great ideation competition, sharing case studies and the history of prizes during the webinar.
 
 Frangione kicked off the session with a little background look at the world of competitions and prizes, pointing out that ideation competitions have been around for centuries. “If you’ve got a problem, there’s a solution out there,” he says, adding the solution to a prize competition often comes from an unlikely source.
 

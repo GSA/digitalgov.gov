@@ -85,7 +85,7 @@ On the other end of the tech spectrum, mobile users make up an ever-growing perc
 
 Compliance with 508 standards may be one place where the government is ahead of the private sector! Make sure you’re in compliance by:
 
-  * Knowing your [508 compliance basics]({{< link "categories/accessibility" >}})
+  * Knowing your [508 compliance basics]({{< ref "categories/accessibility" >}})
   * Going beyond the alt tag: closed captioning of videos should be a standard practice
   * Providing alternate options for viewing visual content
   * Considering color contracts in design. Try using color wheels or contrast checker tools
@@ -107,7 +107,7 @@ On the backend, be sure to tweak your metadata so that your content shares well 
 
 Measuring your success (or failure) marks the final, and arguably most important, step in any online storytelling venture. Whether you created a coordinated promotional campaign or just shared with your audience, you’ll want to know which outreach efforts created the most bang for your buck.
 
-Thanks to the [Digital Analytics Program]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program"), government websites use Google Analytics as the go-to metrics tool. Tallying up sessions, users, and pageviews makes a great first start, but we recommend taking your metrics further to fully measure your impact. With GA’s goal, flow, and funnel tools, you easily can see which sources brought people that not only looked at your site, but also how they interacted with your content, giving great insight into the value of each promotional source. For example, which do you find more valuable: thousands of people who come from social media source who, A) leave immediately, or hundreds who visit from social media source who, B) watch the videos, download PDFs, share your content, and visit other pages on your site?
+Thanks to the [Digital Analytics Program]({{< ref "service_dap.md" >}} "DAP: Digital Analytics Program"), government websites use Google Analytics as the go-to metrics tool. Tallying up sessions, users, and pageviews makes a great first start, but we recommend taking your metrics further to fully measure your impact. With GA’s goal, flow, and funnel tools, you easily can see which sources brought people that not only looked at your site, but also how they interacted with your content, giving great insight into the value of each promotional source. For example, which do you find more valuable: thousands of people who come from social media source who, A) leave immediately, or hundreds who visit from social media source who, B) watch the videos, download PDFs, share your content, and visit other pages on your site?
 
 Take note of what social media outreach efforts are the most valuable to you, as it relates to your goals for your project. Some good questions to ask include:
 

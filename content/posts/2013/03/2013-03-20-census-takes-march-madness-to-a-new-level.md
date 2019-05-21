@@ -10,7 +10,7 @@ topics:
   - Census
 ---
 
-<a href="{{< link "2013-03-20-census-takes-march-madness-to-a-new-level.md" >}}" rel="attachment wp-att-97632">{{< legacy-img src="2013/03/census-1-308x220-1-250x178.jpg" alt="census-1-308x220 (1)" >}}</a>
+<a href="{{< ref "2013-03-20-census-takes-march-madness-to-a-new-level.md" >}}" rel="attachment wp-att-97632">{{< legacy-img src="2013/03/census-1-308x220-1-250x178.jpg" alt="census-1-308x220 (1)" >}}</a>
 
 Government agencies are working hard  to communicate complex mountains of data clearly and effectively through graphics. The [Census Bureau](http://www.census.gov/), known for their great work creating visual images, has done just that. They have created a great data visualization game just in time for March Madness! The game, &#8220;Population Bracketology&#8221; [tests your knowledge](http://www.census.gov/dataviz/visualizations/057/) of state and metropolitan area population estimates.
 
@@ -22,7 +22,7 @@ My question is should they have included Spokane in the game? After all they do 
 
 ## **Want to Learn More?**
 
-Take a look at the presentation from the Cenus Bureu&#8217;s Eric Newburger on the <a href="{{< link "2013-03-20-census-takes-march-madness-to-a-new-level.md" >}}" rel="attachment wp-att-98462">Census Bureau&#8217;s Data visualization mission</a> (PPT, 5.14 MB, 22 slides, March 2013) to increase the ratio of graphics to text in publications both online and in print and open their datasets and analyses to a broader public. Also, learn more about creating the Census Bureau&#8217;s [data visualization of the week](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/03/data-visualization-of-the-week_0.pdf) (PDF, 3.75 MB, 22 pages, March 2013) from Alex Tait of International Mapping. Learn more about Data Visualization: Images That Tell a Story from the March 2013 training demo:
+Take a look at the presentation from the Cenus Bureu&#8217;s Eric Newburger on the <a href="{{< ref "2013-03-20-census-takes-march-madness-to-a-new-level.md" >}}" rel="attachment wp-att-98462">Census Bureau&#8217;s Data visualization mission</a> (PPT, 5.14 MB, 22 slides, March 2013) to increase the ratio of graphics to text in publications both online and in print and open their datasets and analyses to a broader public. Also, learn more about creating the Census Bureau&#8217;s [data visualization of the week](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/03/data-visualization-of-the-week_0.pdf) (PDF, 3.75 MB, 22 pages, March 2013) from Alex Tait of International Mapping. Learn more about Data Visualization: Images That Tell a Story from the March 2013 training demo:
 
 [youtube=http://www.youtube.com/watch?v=yxK9Cb-TSGM&w=600]
 

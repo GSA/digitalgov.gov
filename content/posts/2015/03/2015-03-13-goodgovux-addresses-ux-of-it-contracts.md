@@ -21,7 +21,7 @@ That was the question posed to more than 100 people at the [GoodGovUX](http://go
 
 GoodGovUX co-founder Keith Deaven collected responses from the crowd, which was a diverse mix of people working in private industry, federal, and local governments. Definitions of user experience ranged from the technical (“it’s the functional design before the visual design”), to the practical (“I got started in UX so my mom could use the computer”).
 
-It was clear that you could walk through a crowd of UX professionals and get a different answer from everyone you talked to, highlighting a fundamental problem with UX in government: how can we incorporate [user experience design]({{< link "categories/design" >}}) into IT contracts and proposals? And how can we make sure whatever website or mobile app that gets created is ultimately usable and valuable to customers?
+It was clear that you could walk through a crowd of UX professionals and get a different answer from everyone you talked to, highlighting a fundamental problem with UX in government: how can we incorporate [user experience design]({{< ref "categories/design" >}}) into IT contracts and proposals? And how can we make sure whatever website or mobile app that gets created is ultimately usable and valuable to customers?
 
 The goal of the event was to bring together professionals from across government and contracting communities to improve customer experience by developing a common understanding of what UX is, and why it matters for government projects.
 
@@ -31,7 +31,7 @@ Civic designer Dana Chisnell ([@danachis](https://twitter.com/danachis)) from th
 
 “Everybody is a designer,” she noted. “Everyone who works in government will be the next generation of civic designers driving the next enlightenment.”
 
-The [U.S. Digital Services Playbook](https://playbook.cio.gov/) was cited as a great place for people to [get started with UX]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}).
+The [U.S. Digital Services Playbook](https://playbook.cio.gov/) was cited as a great place for people to [get started with UX]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}).
 
 {{< legacy-img src="2015/03/600-x-450-goodgovux-2.jpg" alt="Robert Read from 18F, Sara Mastro from Mediabarn and John Whalen from Brilliant Experience talk about User Experience" >}}
 

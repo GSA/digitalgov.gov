@@ -24,10 +24,10 @@ Engagement is also the foundation of all user experience initiatives and is this
 
 There are also a multitude of ways that you can engage with #UXgov through the DigitalGov website:
 
-  * Join the [UX community of practice]({{< link "user-experience.md" >}}) to exchange ideas, training opportunities and more
+  * Join the [UX community of practice]({{< ref "user-experience.md" >}}) to exchange ideas, training opportunities and more
   * [Volunteer](https://docs.google.com/a/gsa.gov/forms/d/177jjJXp2nvBaFOBWnVIDV5UFWGIMfBibMMNvYZdklpQ/viewform) to be a usability tester
-  * Launch your own UX initiative with our [Usability Starter Kit]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}})
-  * Read our [UX blog posts]({{< link "categories/ux" >}}) on everything under the sun
-  * Submit a [Usability Case Study]({{< link "government-usability-case-studies.md" >}}) about the great work you&#8217;ve done
+  * Launch your own UX initiative with our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}})
+  * Read our [UX blog posts]({{< ref "categories/ux" >}}) on everything under the sun
+  * Submit a [Usability Case Study]({{< ref "government-usability-case-studies.md" >}}) about the great work you&#8217;ve done
 
 Remember—whatever you build, it always come down, ultimately, to the customers that use it. Make sure they are part of the process, and they&#8217;ll thank you for it.

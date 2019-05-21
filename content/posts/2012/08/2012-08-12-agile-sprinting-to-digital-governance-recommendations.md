@@ -17,7 +17,7 @@ topics:
 
 A clear governance structure helps with digital service efficiency and quality of service. Agencies can use the [digital services governance recommendations](http://www.whitehouse.gov/digitalgov/digital-services-governance-recommendations) to &#8220;establish an agency-wide governance structure for developing and delivering digital services” by November 23.
 
-As part of its mission to promote cross-agency sharing of best practices in the delivery of digital services, the Digital Services Advisory Group worked with the [Federal CIO Council](http://www.cio.gov/) and [Federal Web Managers Council]({{< link "web-managers-forum.md" >}} "Web Content Managers Forum") to develop recommendations on how agencies can
+As part of its mission to promote cross-agency sharing of best practices in the delivery of digital services, the Digital Services Advisory Group worked with the [Federal CIO Council](http://www.cio.gov/) and [Federal Web Managers Council]({{< ref "web-managers-forum.md" >}} "Web Content Managers Forum") to develop recommendations on how agencies can
   
 stand up effective digital services governance structures consistent with Milestone Action #4.2. Recognizing that governance is a means to an end, the recommendations highlight opportunity areas for agencies to deliver better services at a lower cost.
 

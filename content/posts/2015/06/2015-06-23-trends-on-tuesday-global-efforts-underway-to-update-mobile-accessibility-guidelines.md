@@ -19,7 +19,7 @@ topics:
 
 {{< legacy-img src="2015/06/600-x-400-Man-with-infantile-cerebral-palsy-using-a-computer-Horsche-iStock-Thinkstock-513396687.jpg" alt="Man with infantile cerebral palsy using a computer" caption="" >}} 
 
-Federal agencies do not get a free pass on accessibility for mobile—as we stated [earlier this month]({{< link "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}}), Section 508 of the Rehabilitation Act applies to ALL information and communication technology (ICT).
+Federal agencies do not get a free pass on accessibility for mobile—as we stated [earlier this month]({{< ref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}}), Section 508 of the Rehabilitation Act applies to ALL information and communication technology (ICT).
 
 Luckily, there are a number of organizations working on guidelines and practices to help the private and public sectors create accessible mobile websites and applications. The [M-Enabling Conference](http://www.m-enabling.com/), an annual event dedicated to making mobile technology accessible, brought experts from around the world to talk about guidelines and practices for these efforts. You can watch a complete [panel about mobile accessibility guidelines](http://www.webable.tv/Events/M_Enabling_Summit_2015/TabId/1199/VideoId/1576/Policies--Standards-Standards--Guidelines-For-Accessible-Mobile-Devices.aspx), but here are some of the most useful guidelines they mention for making mobile implementations accessible.
 

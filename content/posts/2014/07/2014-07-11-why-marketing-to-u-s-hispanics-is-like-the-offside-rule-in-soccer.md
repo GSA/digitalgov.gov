@@ -47,6 +47,6 @@ Yes, you need to manage the nuances of language and culture, but don’t go to e
 
 _**Alberto Navas** is a content strategy consultant working with [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (<span style="text-decoration: underline;">formerly known as GobiernoUSA.gov</span>). This post was originally published on the Hispanic Online Marketing blog._ 
 
-_Editor&#8217;s Note: Interested in connecting with other government multilingual content managers? Join the [Multilingual Community of Practice]({{< link "multilingual.md" >}} "Multilingual Community of Practice") and help expand and improve digital content in languages other than English._ 
+_Editor&#8217;s Note: Interested in connecting with other government multilingual content managers? Join the [Multilingual Community of Practice]({{< ref "multilingual.md" >}} "Multilingual Community of Practice") and help expand and improve digital content in languages other than English._ 
 
 _This article is part of this month&#8217;s editorial theme on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
