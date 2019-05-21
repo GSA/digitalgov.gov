@@ -3,7 +3,7 @@ slug: federal-crowdsourcing-mobilize-citizen-scientists
 title: 'Federal Crowdsourcing Webinar Series, Episode 1: Citizen Science'
 summary: 'This is the first installment of GSA’s Federal Crowdsourcing Webinar Series, where we look at how to use crowdsourcing to reach beyond your walls and source talent and enthusiasm&#46;'
 featured_image:
-  uid: challegegov-card-ep1
+  uid: challegegov-card-ep1-alt
   alt: ''
 event_type:
   - zoom

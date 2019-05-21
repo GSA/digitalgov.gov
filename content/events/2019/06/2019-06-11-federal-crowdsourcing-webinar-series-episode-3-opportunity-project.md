@@ -3,7 +3,7 @@ slug: federal-crowdsourcing-webinar-series-episode-3-opportunity-project
 title: 'Federal Crowdsourcing Webinar Series, Episode 3&#58; The Opportunity Project'
 summary: 'The Opportunity Project engages government, communities, and the technology industry to create digital tools that address our greatest challenges as a nation&#46; Learn how this initiative is making government data more accessible through cross-sector collaboration&#46;'
 featured_image:
-  uid: challegegov-card-ep3
+  uid: challegegov-card-ep3-alt
   alt: ''
 event_type:
   - zoom
@@ -16,7 +16,7 @@ registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-ser
 ---
 
 
-{{< img src="challegegov-card-ep3" >}}
+{{< img src="challegegov-card-ep3-alt" >}}
 
 _[View Live Captioning for this Event ](https://www.captionedtext.com/client/event.aspx?EventID=3998900&CustomerID=321)_
 
