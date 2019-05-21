@@ -9,9 +9,15 @@
       {{- end -}}
 
       <div class="grid-col-12 {{ if .Params.youtube_id -}}tablet:grid-col-7{{- end -}}">
-        {{- if .Params.youtube_id -}}
-        <h6>Video</h6>
+        
+        {{- if .Params.kicker -}}
+        <p class="kicker">{{- .Params.kicker -}}</p>
+        {{- else -}}
+          {{- if .Params.youtube_id -}}
+          <p class="kicker">Video</p>
+          {{- end -}}
         {{- end -}}
+
         <h3>
           <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
         </h3>
