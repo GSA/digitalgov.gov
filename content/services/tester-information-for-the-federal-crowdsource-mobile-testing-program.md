@@ -6,7 +6,7 @@ summary: Armed with only a mobile device, Federal volunteer mobile product teste
 weight: 0
 ---
 
-[{{< legacy-img src="/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the [Crowdsource Mobile Testing Program]({{< link "service_mobile-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program"). Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into GitHub.
+[{{< legacy-img src="/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the [Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}} "Federal CrowdSource Mobile Testing Program"). Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into GitHub.
 
 In return, testers
 
@@ -21,7 +21,7 @@ You can find information on the current test cycle and previous test cycle docum
 
 Prior to a test cycle, volunteer testers should review the following information:
 
-  * [Mobile Product Compatibility and Functional Testing 101]({{< link "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" >}} "Mobile Product Compatibility and Functional Testing 101")
+  * [Mobile Product Compatibility and Functional Testing 101]({{< ref "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" >}} "Mobile Product Compatibility and Functional Testing 101")
 
 ### Previous Test Cycle Documentation
 
@@ -30,6 +30,6 @@ Prior to a test cycle, volunteer testers should review the following information
 
 ### Previous Issues of The Mobile Tester
 
-  * [Mobile Tester: Usability Short Reads: Learning from others’ mistakes]({{< link "2014-02-28-mobile-tester-usability-short-reads-learning-from-others-mistakes.md" >}} "Mobile Tester: Usability Short Reads: Learning from others’ mistakes"), Feb 2014
-  * [Test Cases: Write Them Once, Test Many Times]({{< link "2013-12-16-the-test-case-write-it-once-test-many-times.md" >}} "The Test Case: Write It Once, Test Many Times"), Dec 2013
-  * [Which Devices Should I Test With]({{< link "2013-10-29-which-devices-should-i-test-with.md" >}} "Which Devices Should I Test With?")? Oct 2013
+  * [Mobile Tester: Usability Short Reads: Learning from others’ mistakes]({{< ref "2014-02-28-mobile-tester-usability-short-reads-learning-from-others-mistakes.md" >}} "Mobile Tester: Usability Short Reads: Learning from others’ mistakes"), Feb 2014
+  * [Test Cases: Write Them Once, Test Many Times]({{< ref "2013-12-16-the-test-case-write-it-once-test-many-times.md" >}} "The Test Case: Write It Once, Test Many Times"), Dec 2013
+  * [Which Devices Should I Test With]({{< ref "2013-10-29-which-devices-should-i-test-with.md" >}} "Which Devices Should I Test With?")? Oct 2013

@@ -15,4 +15,4 @@ The No FEAR Act requires a Federal agency to post on its public Web site summary
 
 * * *
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

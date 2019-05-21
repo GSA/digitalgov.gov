@@ -28,4 +28,4 @@ Managing web records properly is essential to effective web site operations, esp
 
  
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

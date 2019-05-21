@@ -20,8 +20,8 @@ The guides below were peer reviewed by [Leticia Molinero](http://www.anle.us/344
 
 ## Related Pages
 
-  * [Grammar]({{< link "spanish-language-style-guide-and-glossaries-grammar.md" >}} "Spanish Language Style Guide and Glossaries: Grammar")
-  * [Frequently Mistranslated English Terms]({{< link "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}} "Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms")
-  * [Information Technology Terms]({{< link "spanish-language-style-guide-glossaries-information-technology-terms.md" >}} "Spanish Language Style Guide & Glossaries: Information Technology Terms")
-  * [Internet Resources]({{< link "spanish-language-style-guide-glossaries-internet-resources.md" >}} "Spanish Language Style Guide & Glossaries: Internet Resources")
-  * [Spanish Health Care Terms in the United States]({{< link "spanish-health-care-terms-in-the-united-states.md" >}} "Spanish Health Care Terms in the United States")
+  * [Grammar]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md" >}} "Spanish Language Style Guide and Glossaries: Grammar")
+  * [Frequently Mistranslated English Terms]({{< ref "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}} "Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms")
+  * [Information Technology Terms]({{< ref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}} "Spanish Language Style Guide & Glossaries: Information Technology Terms")
+  * [Internet Resources]({{< ref "spanish-language-style-guide-glossaries-internet-resources.md" >}} "Spanish Language Style Guide & Glossaries: Internet Resources")
+  * [Spanish Health Care Terms in the United States]({{< ref "spanish-health-care-terms-in-the-united-states.md" >}} "Spanish Health Care Terms in the United States")

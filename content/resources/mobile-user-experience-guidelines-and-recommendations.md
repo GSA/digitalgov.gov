@@ -15,11 +15,11 @@ aliases:
   - /resources/mobile-user-experience-guidelines-and-recommendations/
 ---
 
-If your app doesn&#8217;t have a good user experience, it goes to the [app graveyard]({{< link "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
+If your app doesn&#8217;t have a good user experience, it goes to the [app graveyard]({{< ref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
 
 The need for digital products to work better is not new in the federal government. Resources like the [Digital Playbook](https://playbook.cio.gov/) and [Public Participation Playbook](https://participation.usa.gov/) have had impact helping agencies become user-friendly and both of these resources note the importance of developing usable products for mobile users.
 
-As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice]({{< link "mobilegov.md" >}})  members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
+As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice]({{< ref "mobilegov.md" >}})  members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
 
 **[Guideline 1](#guideline1 "Mobile User Experience Guidelines and Recommendations 1")**: Make sure your content is structured and chunked appropriately for multiple devices
 
@@ -41,24 +41,24 @@ Below we have added specific resources to each guideline.
 
 ### Government Examples and Resources:
 
-  * [DigitalGov Resources to Make your Content Mobile-Friendly]({{< link "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}})  &#8211; An overview of DigitalGov resources about making agency content mobile   friendly. Find case studies, tools and code to help you mobilize content.
-  * [Why NCI Moved to a Structured]({{< link "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}}) Content Model (a case study)
-  * [Structured]({{< link "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}) Content in Government: How HHS and NCI Are Getting Started
+  * [DigitalGov Resources to Make your Content Mobile-Friendly]({{< ref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}})  &#8211; An overview of DigitalGov resources about making agency content mobile   friendly. Find case studies, tools and code to help you mobilize content.
+  * [Why NCI Moved to a Structured]({{< ref "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}}) Content Model (a case study)
+  * [Structured]({{< ref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}}) Content in Government: How HHS and NCI Are Getting Started
   * [18F Digital Content Guide](https://pages.18f.gov/content-guide/index.html) &#8211; This guide helps writers create content that’s easy to use and meets citizens where they’re at.
   * [Sites.USA.gov](https://sites.usa.gov/)
   * Sites is a shared service to help agencies focus on creating great content rather than on building systems to deliver that content.
-  * Open Source Code for [Making Tables Responsive]({{< link "2014-12-11-defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables.md" >}}) &#8211; Learn how the Defense Financial Accounting Service [leveraged code that the Department of Health and Human Services developed]({{< link "2014-10-30-hhs-conquers-tables-in-a-responsive-design.md" >}}) to make their tables and charts responsive.
+  * Open Source Code for [Making Tables Responsive]({{< ref "2014-12-11-defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables.md" >}}) &#8211; Learn how the Defense Financial Accounting Service [leveraged code that the Department of Health and Human Services developed]({{< ref "2014-10-30-hhs-conquers-tables-in-a-responsive-design.md" >}}) to make their tables and charts responsive.
   * Open and Structured Content:  &#8220;Article&#8221; and &#8220;Event&#8221; Models
-  * [Government Open and Structured Content Models Are Here]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) &#8211; Introduction to the content models developed by the Open and Structured Content Working Group
+  * [Government Open and Structured Content Models Are Here]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) &#8211; Introduction to the content models developed by the Open and Structured Content Working Group
   * [Open and Structured Content Models Project](http://gsa.github.io/Open-And-Structured-Content-Models/index.html) &#8211; Article and Event Content Model Repository with element field definitions for both models.
-  * [What Structured Content Can Do For You: Webinar Recap]({{< link "2014-06-09-what-structured-content-can-do-for-you-webinar-recap.md" >}}) &#8211; Introduction to the Article Content Model
-  * [Open and Structured Content Models Workshop Recap]({{< link "2014-10-27-open-and-structured-content-models-workshop-recap.md" >}}) &#8211; Highlights from September 2014 workshop featuring speakers from National Public Radio and the Securities and Exchange Commission.
-  * [Top 5 Reasons to Use Government-wide Open]({{< link "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}}) and Structured Content Models
-  * [Always Future Ready: The Benefits of Open]({{< link "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}) Content Models and Structured Data Webinar
-  * [The Content Corner: Humanizing Structured Content]({{< link "2015-06-01-the-content-corner-humanizing-structured-content.md" >}}) &#8211; Article offering tips on how to encourage content creators and SMEs to use content models.
+  * [What Structured Content Can Do For You: Webinar Recap]({{< ref "2014-06-09-what-structured-content-can-do-for-you-webinar-recap.md" >}}) &#8211; Introduction to the Article Content Model
+  * [Open and Structured Content Models Workshop Recap]({{< ref "2014-10-27-open-and-structured-content-models-workshop-recap.md" >}}) &#8211; Highlights from September 2014 workshop featuring speakers from National Public Radio and the Securities and Exchange Commission.
+  * [Top 5 Reasons to Use Government-wide Open]({{< ref "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}}) and Structured Content Models
+  * [Always Future Ready: The Benefits of Open]({{< ref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}) Content Models and Structured Data Webinar
+  * [The Content Corner: Humanizing Structured Content]({{< ref "2015-06-01-the-content-corner-humanizing-structured-content.md" >}}) &#8211; Article offering tips on how to encourage content creators and SMEs to use content models.
   * [Open and Structured Content Working Group Discussion Board](https://github.com/GSA/Open-And-Structured-Content-Models/issues)&#8212; Join the discussion about adopting structured content models across government.
-  * Guidelines to [making Mobile Websites]({{< link "2015-04-15-mobilegeddon-government-edition.md" >}}) mobile search friendly &#8211; A how-to guide written by the Search.gov _(formerly DigitalGov Search)_ team
-  * [How to Use Open Source CMS to Implement Responsive Web Design]({{< link "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}})
+  * Guidelines to [making Mobile Websites]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}) mobile search friendly &#8211; A how-to guide written by the Search.gov _(formerly DigitalGov Search)_ team
+  * [How to Use Open Source CMS to Implement Responsive Web Design]({{< ref "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}})
 
 <h2 id="guideline2" style="padding-top: 50px">
   Guideline 2: Follow industry user interface guidelines and government regulations (like 508) in the development of your mobile product
@@ -67,9 +67,9 @@ Below we have added specific resources to each guideline.
 ### Government Regulations and Resources:
 
   * [Section 508 Rules refresh](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/proposed-rule/ii-executive-summary) &#8211; includes guidance for smartphones and other new devices.
-  * [Status of Worldwide Efforts to Update Accessibility Guidance]({{< link "2015-06-23-trends-on-tuesday-global-efforts-underway-to-update-mobile-accessibility-guidelines.md" >}})
+  * [Status of Worldwide Efforts to Update Accessibility Guidance]({{< ref "2015-06-23-trends-on-tuesday-global-efforts-underway-to-update-mobile-accessibility-guidelines.md" >}})
   * U.S. Department of Labor&#8217;s Accessibility [test script for Section 508 compliance of native apps](https://github.com/USDepartmentofLabor/Mobile-Accessibility-Test-Script) .
-  * [Mobile Statement of Work and Developer Qualifications]({{< link "mobile-sow-and-developer-qualifications.md" >}})
+  * [Mobile Statement of Work and Developer Qualifications]({{< ref "mobile-sow-and-developer-qualifications.md" >}})
   * Developed by agencies with mobile contracts, includes current iOS, Google Play, etc. SDK requirements).
 
 ### Non-Government Examples and Resources:
@@ -89,9 +89,9 @@ Below we have added specific resources to each guideline.
 
 ### Government Examples and Resources:
 
-  * [How Six Agencies are CrowdSourcing with Native Apps]({{< link "2014-12-22-how-six-agencies-are-crowdsourcing-with-mobile-apps.md" >}})
-      * [NOAA CrowdMag: Citizen Science on the Go]({{< link "2015-06-18-noaas-crowdmag-app-citizen-science-on-the-go.md" >}})
-  * [American Battle Monuments Commission Native Apps]({{< link "2015-03-05-explore-iconic-overseas-world-war-ii-sites-with-abmc-apps.md" >}})
+  * [How Six Agencies are CrowdSourcing with Native Apps]({{< ref "2014-12-22-how-six-agencies-are-crowdsourcing-with-mobile-apps.md" >}})
+      * [NOAA CrowdMag: Citizen Science on the Go]({{< ref "2015-06-18-noaas-crowdmag-app-citizen-science-on-the-go.md" >}})
+  * [American Battle Monuments Commission Native Apps]({{< ref "2015-03-05-explore-iconic-overseas-world-war-ii-sites-with-abmc-apps.md" >}})
 
 ### Non-Government Examples and Resources:
 
@@ -105,12 +105,12 @@ Below we have added specific resources to each guideline.
 
 ### Government Examples and Resources:
 
-  * [Design Sketching: The Easiest Prototype Method Ever]({{< link "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}}) &#8211; Discusses how paper sketching can quickly capture the essence of a mobile app/website.
-  * [Mobile paper prototype]({{< link "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}})
-  * [Mobile Product Testing Guidelines and Resources]({{< link "2013-08-22-mobile-product-testing-guidelines.md" >}})
-  * [The Emulator Dilemma: Can Mobile Device Testing Be Completed With Devices?]({{< link "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}})
-  * [Federal Crowdsource Mobile Testing Program]({{< link "service_mobile-testing-program.md" >}}) and Lessons Learned
-  * [AIDS.Gov Performance Testing Lessons Learned]({{< link "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}})
+  * [Design Sketching: The Easiest Prototype Method Ever]({{< ref "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}}) &#8211; Discusses how paper sketching can quickly capture the essence of a mobile app/website.
+  * [Mobile paper prototype]({{< ref "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}})
+  * [Mobile Product Testing Guidelines and Resources]({{< ref "2013-08-22-mobile-product-testing-guidelines.md" >}})
+  * [The Emulator Dilemma: Can Mobile Device Testing Be Completed With Devices?]({{< ref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}})
+  * [Federal Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) and Lessons Learned
+  * [AIDS.Gov Performance Testing Lessons Learned]({{< ref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}})
 
 ### Non-Government Examples and Resources:
 
@@ -127,11 +127,11 @@ Below we have added specific resources to each guideline.
 
 ### Government Examples & Resources:
 
-  * [Digital Analytics Program]({{< link "service_dap.md" >}})
-  * [SaferBus Mobile Usability Case Study]({{< link "2013-03-21-saferbus-mobile-usability-case-study.md" >}})
-  * [AIDS.gov Responsive Design]({{< link "2012-07-11-aids-gov-responsive-design.md" >}})
-  * [CDC&#8217;s Digital Front Door Goes Responsive]({{< link "2014-06-05-cdcs-digital-front-door-goes-responsive.md" >}})
-  * [Responsive Web Design Challenges Webinar Recap]({{< link "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}})
+  * [Digital Analytics Program]({{< ref "service_dap.md" >}})
+  * [SaferBus Mobile Usability Case Study]({{< ref "2013-03-21-saferbus-mobile-usability-case-study.md" >}})
+  * [AIDS.gov Responsive Design]({{< ref "2012-07-11-aids-gov-responsive-design.md" >}})
+  * [CDC&#8217;s Digital Front Door Goes Responsive]({{< ref "2014-06-05-cdcs-digital-front-door-goes-responsive.md" >}})
+  * [Responsive Web Design Challenges Webinar Recap]({{< ref "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}})
 
 ### Non-Government Examples  & Resources:
 

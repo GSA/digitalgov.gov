@@ -9,7 +9,7 @@ aliases:
 
 We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://youtube.com/digitalgov). Trainings are open to anyone working in the government or for a government agency.
 
-- [View our upcoming events »]({{< link "/events/" >}})
+- [View our upcoming events »]({{< ref "/events" >}})
 - [View our video archive »](https://youtube.com/digitalgov)
 
 ## Work with us

@@ -21,4 +21,4 @@ This memo set forth that &#8220;To the extent feasible and appropriate, especial
 
 * * *
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

@@ -13,10 +13,10 @@ authors:
 
 **Oops &#8211; The page you&#8217;re looking for cannot be found. What you can do:**
 
-  * **Go back to the [homepage]({{< link "index.html" >}}).**
+  * **Go back to the [homepage](https://digital.gov/).**
   * [Search](http://find.digitalgov.gov/search?affiliate=digitalgov) for it.
-  * Look at the [sitemap]({{< link "sitemap.md" >}})
-  * Check out a list of [pages that have been moved]({{< link "lost-and-found-mapping-page.md" >}}).
+  * Look at the [sitemap]({{< ref "sitemap.md" >}})
+  * Check out a list of [pages that have been moved]({{< ref "lost-and-found-mapping-page.md" >}}).
   * [Let us know this page is missing](mailto:digitalgov@gsa.gov) by sending us an email.
 
 

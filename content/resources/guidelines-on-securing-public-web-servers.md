@@ -23,4 +23,4 @@ The World Wide Web (WWW) is a system for exchanging information over the Interne
 
 * * *
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})
