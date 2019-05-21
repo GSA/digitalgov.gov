@@ -42,7 +42,7 @@ The past 18 months focused on the first two strategies.
 
 The next 16 months will focus on the second two strategies.
 
-**Standards, practices and tools:** OMB has identified leaders from 15 high-impact customer-facing programs, who gather together on a regular basis to discuss issues, share best practices and provide feedback to CAP goal leadership. A “Principles & Practices” subgroup (led by [Rachel Flagg, GSA]({{< ref "author/rflagg" >}})) is developing a customer service toolkit, which includes practical guidance and resources to help agencies improve the experience they deliver to customers.
+**Standards, practices and tools:** OMB has identified leaders from 15 high-impact customer-facing programs, who gather together on a regular basis to discuss issues, share best practices and provide feedback to CAP goal leadership. A “Principles & Practices” subgroup (led by [Rachel Flagg, GSA]({{< ref "authors/rflagg" >}})) is developing a customer service toolkit, which includes practical guidance and resources to help agencies improve the experience they deliver to customers.
 
 **Improve top customer interactions:** Moving forward, the CAP Goal team will focus on improving top customer transactions with federal programs. First priority will be those agencies that provide significant services to citizens, businesses and other customers.
 

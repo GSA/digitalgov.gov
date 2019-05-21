@@ -21,7 +21,7 @@ topics:
 </p>
 
 <p dir="ltr">
-  2) <a title="link to Challenges page on DigitalGov.gov" href="{{< ref "categories/challenges" >}}">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
+  2) <a title="link to Challenges page on DigitalGov.gov" href="{{< ref "/topics/challenges" >}}">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
 </p>
 
   * [Software/apps]({{< ref "2013-11-06-software-and-apps-challenges.md" >}} "Software/apps challenge toolkit")

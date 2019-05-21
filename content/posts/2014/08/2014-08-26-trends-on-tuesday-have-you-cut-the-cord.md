@@ -20,7 +20,7 @@ topics:
 
 First, it was party lines. Then, it was the rotary phone. Now, two-in-five (41%) U.S. households have officially said goodbye to landlines, according to a <a title="recent report" href="http://www.cdc.gov/nchs/data/nhis/earlyrelease/wireless201407.pdf" target="_blank">recent report</a> by the Centers for Disease Control and Prevention (CDC)&#8217;s National Center for Health Statistics.
 
-If you have been keeping up with previous <a title="mobile trends" href="{{< ref "tag/trends-on-tuesday" >}}" target="_blank">mobile trends</a>, you won’t be surprised to learn who has decided to cut the telephone cord:
+If you have been keeping up with previous <a title="mobile trends" href="{{< ref "/topics/trends-on-tuesday" >}}" target="_blank">mobile trends</a>, you won’t be surprised to learn who has decided to cut the telephone cord:
 
   * An estimated 39.1% of adults and 47.1% of children lived in wireless-only households in 2013.
   * Nearly two-thirds (65.7%) of 25- to 29-year-olds, are living the wireless-only lifestyle, followed by 59.7% of 30- to 34-year-olds, and 53% of 18- to 24-year-olds.

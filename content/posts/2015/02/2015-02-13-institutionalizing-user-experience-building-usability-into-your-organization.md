@@ -28,7 +28,7 @@ So, you have some systems or tools your customers or employees access. Maybe you
 
 ## Step 1: Get buy-in {{< legacy-img src="2015/02/250-x-167-Learn-and-share-conceptual-words-on-blackboard-AnsonLu-iStock-Thinkstock-525385549.jpg" alt="Learn and share conceptual words on blackboard" caption="" >}} 
 
-First, get a UX champion in your organization. Lay the groundwork with managers, content authors, developers, or anyone else who has a stake in improving user experience. Read [books](http://uxmastery.com/resources/books/) and [articles]({{< ref "categories/ux" >}}), attend [events and webinars]({{< ref "events" >}}), and share your insight with your colleagues. Use what you have learned to show how it benefits your organization. Keep building until you are the office usability expert.
+First, get a UX champion in your organization. Lay the groundwork with managers, content authors, developers, or anyone else who has a stake in improving user experience. Read [books](http://uxmastery.com/resources/books/) and [articles]({{< ref "/topics/ux" >}}), attend [events and webinars]({{< ref "events" >}}), and share your insight with your colleagues. Use what you have learned to show how it benefits your organization. Keep building until you are the office usability expert.
 
 As one UX-pert advised, &#8220;Don’t let the naysayers discourage you. You’re likely to run into obstacles from internal stakeholders and even established designers.&#8221; Talk it up so word gets to the right people.
 

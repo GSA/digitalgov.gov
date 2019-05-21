@@ -142,7 +142,7 @@ The [Question and Answer portion](https://www.youtube.com/watch?v=TGYhWjSmDvs&t=
         </p>
 
         <p>
-          <em>Read other DigitalGov posts about <a href="{{< ref "tag/plain-language-2" >}}">Plain Language</a>. Learn more about <a href="{{< ref "/about/digitalgov-university.md" >}}">DigitalGov University</a> and how you can work with the team to set up an online or in-person event or training session. </em>
+          <em>Read other DigitalGov posts about <a href="{{< ref "/topics/plain-language-2" >}}">Plain Language</a>. Learn more about <a href="{{< ref "/about/digitalgov-university.md" >}}">DigitalGov University</a> and how you can work with the team to set up an online or in-person event or training session. </em>
         </p>
 
         <p>

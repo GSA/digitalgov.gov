@@ -26,7 +26,7 @@ When ABMC was deciding how to pursue app development, their work consisted of Us
 
 Sarah Herrmann, Digital Communications Manager at ABMC, said ABMC’s mobile strategy is to provide a wireless tour guide experience for monuments located around the world. After thorough research and requirements writing, ABMC decided to develop mobile apps that would have static and consistently-functional content.
 
-In the research phase, Herrmann phoned other agencies, read helpful [DigitalGov articles on mobile topics]({{< ref "categories/mobile" >}}), and took a look at [Apple](https://developer.apple.com/) and [Android](http://developer.android.com/) development pages online for extra tips. Having requirements set up and written down early helped her team focus on the same goal.
+In the research phase, Herrmann phoned other agencies, read helpful [DigitalGov articles on mobile topics]({{< ref "/topics/mobile" >}}), and took a look at [Apple](https://developer.apple.com/) and [Android](http://developer.android.com/) development pages online for extra tips. Having requirements set up and written down early helped her team focus on the same goal.
 
 Herrmann heavily supports the act of writing everything down. Even at the beginning of planning, try to incorporate all the requirements into your mobile strategy so the end product won’t be faulty and it will be easy to see if any aspect of the plan was neglected.
 

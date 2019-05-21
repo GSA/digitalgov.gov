@@ -22,7 +22,7 @@ topics:
   - white-house
 ---
 
-****[Gray Brooks]({{< ref "author/gray-brooks" >}}) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)]({{< ref "/about/digitalgov-university.md" >}}) presentation, [Introduction to APIs]({{< ref "2012-07-26-introduction-to-apis.md" >}}).
+****[Gray Brooks]({{< ref "authors/gray-brooks" >}}) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)]({{< ref "/about/digitalgov-university.md" >}}) presentation, [Introduction to APIs]({{< ref "2012-07-26-introduction-to-apis.md" >}}).
 
 He described APIs as &#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways—via mobile devices, mobile apps, innovative mash-ups, and much more.&#8221; Simply put, &#8220;APIs are a better way to get government information and services into the hands of the people who need them.&#8221; {{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
 
@@ -52,4 +52,4 @@ There are several schools of thought on the differences between the two options.
 
 Custom APIs allow a bit of flexibility.  Custom API’s look “beyond the page” and present a new paradigm with infinite possibility.  They provide high flexibility at “site” or agency level but can lead to high complexity across agencies.  Finally, they lend themselves to developer communities and education.
 
-Utilizing an assortment of tools can enhance your web site – public or private. Whatever option you go with, the integration of APIs into your content must be a consideration going forward._To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s [API articles]({{< ref "categories/api" >}}) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._
+Utilizing an assortment of tools can enhance your web site – public or private. Whatever option you go with, the integration of APIs into your content must be a consideration going forward._To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s [API articles]({{< ref "/topics/api" >}}) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._

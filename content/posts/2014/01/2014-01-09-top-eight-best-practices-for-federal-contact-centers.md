@@ -57,8 +57,8 @@ topics:
 
 ## 6. Engage Your Customers to Create a Two-Way Dialogue
 
-  * Provide blogs, communities, and outreach via other [social media]({{< ref "categories/socialmedia" >}}) venues.
-  * Incorporate [videos]({{< ref "categories/video" >}}) and webcasting.
+  * Provide blogs, communities, and outreach via other [social media]({{< ref "/topics/socialmedia" >}}) venues.
+  * Incorporate [videos]({{< ref "/topics/video" >}}) and webcasting.
 
 ## 7. Collect Customer Feedback
 
@@ -69,7 +69,7 @@ topics:
       * Restrict the number of questions to seven.
       * Survey everyone; not just the happy or unhappy customers
   * Conduct focus groups to gauge opinions.
-  * Implement [usability testing](http://({{< ref "categories/user-testing-research" >}}) to determine what is and isn&#8217;t working.
+  * Implement [usability testing](http://({{< ref "/topics/user-testing-research" >}}) to determine what is and isn&#8217;t working.
   * Conduct interviews, workshops.
 
 ## 8. Stay Current with the Latest Research and Best Practices

@@ -60,7 +60,7 @@ Not necessarily. Good old fashioned UX research will tell you whether your users
 
 ## 7. What Is The Best Mobile Configuration For Us?
 
-Whatever configuration you decide to go with, be sure to employ [UX best practices]({{< ref "categories/ux" >}})!
+Whatever configuration you decide to go with, be sure to employ [UX best practices]({{< ref "/topics/ux" >}})!
 
   * Responsive: a single site and design that changes configuration depending on the size of the screen.
   * Adaptive, or Dynamic serving: to use the same URLs to serve different experiences to desktop and mobile users. This could be good if leaders feel passionately about the site header.

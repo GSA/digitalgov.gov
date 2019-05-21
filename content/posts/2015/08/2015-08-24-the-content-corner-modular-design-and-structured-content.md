@@ -81,4 +81,4 @@ Modular design allows for quick changes with minimal disruption. The header or l
 
 Modular design, from front-end to back-end, helps reduce the messy interfaces and reacts faster to all those things that haven’t been invented yet.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

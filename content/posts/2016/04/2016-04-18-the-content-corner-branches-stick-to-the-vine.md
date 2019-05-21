@@ -71,5 +71,5 @@ This is a fact that cannot be overstated, regardless of platform (blog, social m
     </p>
     
     <p>
-      <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "tag/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
+      <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
     </p>
