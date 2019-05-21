@@ -4,7 +4,7 @@
 	h3{
 		@include u-margin-y(0);
 		@include u-font('sans', '2xl');
-		@include u-text('heavy');
+		@include u-text('bold');
 		@include u-text('center');
 		@include u-text('indigo-warm-80');
 		@include at-media('tablet') {

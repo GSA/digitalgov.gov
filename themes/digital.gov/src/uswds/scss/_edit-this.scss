@@ -54,6 +54,7 @@
     bottom: 20px;
     right: 20px;
     padding: 20px;
+    @include u-z('top');
     @include u-display('block');
     @include u-font('sans', 'md');
     @include u-circle(9);
