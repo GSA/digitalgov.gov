@@ -23,6 +23,9 @@
         <div class="grid-row">
           <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
             <p class="breadcrumb"><a href="{{- "events/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></p>
+            {{- if .Params.kicker -}}
+            <p class="kicker">{{- .Params.kicker -}}</p>
+            {{- end -}}
             <h1>{{- .Title | markdownify -}}</h1>
             {{/* Deck */}}
             {{- if .Params.deck -}}
@@ -121,7 +124,7 @@
               {{- .Content -}}
             </div>
 
-            
+
             {{- partial "core/feedback" (dict "page" . "page_type" "event" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>

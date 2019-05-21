@@ -25,6 +25,14 @@ main{
      	}
    	}
 
+		.kicker{
+			@include u-margin(0);
+			@include u-margin-bottom('05');
+			@include u-font('sans', 'sm');
+			@include u-text('semibold');
+			@include u-text('uppercase');
+			@include u-color('indigo-warm-60v');
+		}
    	// Page Titles
    	h1{
      	@include u-margin(0);
