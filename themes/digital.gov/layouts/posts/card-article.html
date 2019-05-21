@@ -2,6 +2,9 @@
   <div class="paper">
     <div class="grid-row grid-gap-2">
       <div class="grid-col-12">
+        {{- if .Params.kicker -}}
+        <p class="kicker">{{- .Params.kicker -}}</p>
+        {{- end -}}
         <h3>
           <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
         </h3>
