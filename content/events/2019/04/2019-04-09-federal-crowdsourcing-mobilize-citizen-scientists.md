@@ -3,7 +3,7 @@ slug: federal-crowdsourcing-mobilize-citizen-scientists
 title: 'Federal Crowdsourcing Webinar Series, Episode 1: Citizen Science'
 summary: 'This is the first installment of GSA’s Federal Crowdsourcing Webinar Series, where we look at how to use crowdsourcing to reach beyond your walls and source talent and enthusiasm&#46;'
 featured_image:
-  uid: challenge-gov-logo
+  uid: challegegov-card-ep1
   alt: ''
 event_type:
   - zoom
@@ -18,9 +18,9 @@ youtube_id: Kx1kSJ4y-7s
 
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3953097&CustomerID=321)_
 
-This is the first installment in GSA’s Federal Crowdsourcing Webinar Series. You will hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue. 
+This is the first installment in GSA’s Federal Crowdsourcing Webinar Series. You will hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 
-The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/). 
+The series launches with a look at the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://digital.gov/communities/crowdsourcing-and-citizen-science/) (FedCCS), a grassroots community open to all federal practitioners working on, funding, or just interested in learning more about [crowdsourcing](https://digital.gov/tag/crowdsourcing/) and [citizen science](https://digital.gov/tag/citizen-science/).
 
 Learn about resources produced by the community and available on [CitizenScience.gov](http://www.citizenscience.gov/), a program and website launched in 2016 as a central hub for federally sponsored citizen science and crowdsourcing projects. This site helps federal agencies design and advertise projects that engage volunteers in solving real-world problems, often through participation in the scientific process.
 
@@ -46,4 +46,4 @@ For information on this episode or upcoming events in the crowdsourcing series, 
 
 _This talk is hosted by [Challenge.gov](https://challenge.gov/). Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market and manage their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
