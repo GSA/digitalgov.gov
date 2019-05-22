@@ -1,5 +1,5 @@
 ---
-url: /resources/omb-memo-on-testing-and-simplifying-federal-forms/
+slug: omb-memo-on-testing-and-simplifying-federal-forms
 date: 2015-12-03 1:06:55 -0400
 title: OMB Memo on Testing and Simplifying Federal Forms
 summary: "This memo set forth that &#8220;To the extent feasible and appropriate, especially for complex or lengthy forms, agencies shall engage in advance testing of information collections, including Federal forms, in order (1) to ensure that they are not unnecessarily complex, burdensome, or confusing, (2) to obtain the best available information about the likely burdens on"

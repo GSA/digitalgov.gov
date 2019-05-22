@@ -1,5 +1,5 @@
 ---
-url: /resources/improving-the-accessibility-of-social-media-in-government/
+slug: improving-the-accessibility-of-social-media-in-government
 date: 2014-07-16 2:50:38 -0400
 title: Improving the Accessibility of Social Media in Government
 summary: "Government agencies are increasingly using social media to engage with citizens, share information and deliver services more quickly and effectively than ever before. But as social content, data and platforms become more diverse, agencies have a responsibility to ensure these digital services are accessible to all citizens, including people with disabilities."

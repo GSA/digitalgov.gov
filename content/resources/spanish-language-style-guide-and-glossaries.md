@@ -1,5 +1,5 @@
 ---
-url: /resources/spanish-language-style-guide-and-glossaries/
+slug: spanish-language-style-guide-and-glossaries
 date: 2014-06-11 9:55:09 -0400
 title: 'Spanish Language Style Guides and Glossaries'
 summary: 'Spanish Language Style Guides are resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, and glossaries to standardize the use of Spanish across government.'
@@ -12,7 +12,7 @@ authors:
 
 Spanish Language Style Guides are resources for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in Spanish. The guide contains information on grammar and style issues as well as glossaries to standardize the use of Spanish across government.
 
-The guides below were peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE). 
+The guides below were peer reviewed by [Leticia Molinero](http://www.anle.us/344/Leticia-Molinero.html), [Maria Cornelio](http://www.anle.us/490/Maria-Cornelio.html) and [Jack Segura](http://www.anle.us/333/Joaquin-Segura.html?sfl=es), members of the North American Academy of the Spanish Language (ANLE).
 
   [6ea313c3]: https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2014-ANLE-Agreement.pdf "The 2014 GSA/ANLE Agreement"
 

@@ -1,5 +1,5 @@
 ---
-url: /resources/kitchen-sink/
+slug: kitchen-sink
 date: 2019-02-14 13:00:00 -0400
 title: Kitchen Sink
 summary: "Summary"

@@ -1,5 +1,5 @@
 ---
-url: /resources/mobile-user-experience-guidelines/
+slug: mobile-user-experience-guidelines
 date: 2013-12-11 4:13:00 -0400
 title: Mobile User Experience Guidelines
 summary: 'Six user experience guidelines for creating a mobile product.'

@@ -1,5 +1,5 @@
 ---
-url: /resources/nara-guidance-on-managing-web-records/
+slug: nara-guidance-on-managing-web-records
 date: 2015-11-23 3:34:32 -0400
 title: NARA guidance on Managing Web Records
 summary: Managing web records properly is essential to effective web site operations, especially the mitigation of the risks an agency faces by using the web to carry out agency business. This guidance will assist agency officials in this regard, including agency program staff, webmasters, IT staff, and other agency officials who have a role in web

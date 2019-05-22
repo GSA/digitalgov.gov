@@ -1,5 +1,5 @@
 ---
-url: /resources/contact-center-guidelines/contact-center-operation-and-management/
+slug: contact-center-guidelines/contact-center-operation-and-management
 date: 2014-02-05 10:36:45 -0400
 title: "Contact Center Operation and Management"
 summary: "Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance. Control Contact Center Costs Monitor Quality Avoid Fraudulent Pay Phone Calls Call Calibration IVR Call Flow Basics Disaster Planning and"

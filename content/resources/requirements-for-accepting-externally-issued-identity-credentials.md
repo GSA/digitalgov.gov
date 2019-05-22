@@ -1,5 +1,5 @@
 ---
-url: /resources/requirements-for-accepting-externally-issued-identity-credentials/
+slug: requirements-for-accepting-externally-issued-identity-credentials
 date: 2015-12-03 2:20:17 -0400
 title: Requirements for Accepting Externally Issued Identity Credentials
 summary: "This memo dated October 6, 2011, from the Federal CIO to the CIO&#8217;s of Executive Departments and Agencies, mandates that &#8220;agencies are to begin leveraging externally-issued credentials, in addition to continuing to offer federally-issued credentials.&#8221; The memo begins with the observation that the use of externally-issued credentials (i.e., those that have been issued by an"

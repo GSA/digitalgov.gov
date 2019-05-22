@@ -1,5 +1,5 @@
 ---
-url: /resources/style-guides-by-government-agencies/
+slug: style-guides-by-government-agencies
 date: 2017-05-23 3:43:08 -0400
 title: 'Style Guides by Government Agencies'
 summary: 'This page is a collection of style guides created by government agencies.'
