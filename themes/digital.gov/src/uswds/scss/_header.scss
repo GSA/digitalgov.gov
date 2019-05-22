@@ -19,7 +19,8 @@ header#header{
 		@include at-media('tablet-lg') {
 		}
 		img{
-			width:182px;
+			// width:182px;
+			@include u-width('card');
 		}
 	}
 
