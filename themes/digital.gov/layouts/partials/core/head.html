@@ -78,17 +78,15 @@
   {{ "<!-- End of Twitter -->" | safeHTML }}
 
   {{ "<!-- RSS Feed -->" | safeHTML }}
-  <link href="{{ "feed/index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ with .OutputFormats.Get "RSS" -}}
+  <link href="{{- .RelPermalink -}}" rel="feed" type="application/rss+xml" />
+  {{- end }}
 
   {{ "<!-- JSON Feed -->" | safeHTML }}
   <link href="{{ .Permalink }}index.json" rel="alternate" type="application/json" title="{{ .Site.Title }}" />
 
   {{ "<!-- Sitemap-->" | safeHTML }}
   <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
-  {{ if .RSSLink }}
-
-  {{ end }}
 
   <!-- Bing Validation -->
   <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
