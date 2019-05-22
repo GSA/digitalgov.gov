@@ -4,7 +4,7 @@ kicker: Episode 3
 title: 'Federal Crowdsourcing Webinar Series: The Opportunity Project'
 summary: 'The Opportunity Project engages government, communities, and the technology industry to create digital tools that address our greatest challenges as a nation&#46; Learn how this initiative is making government data more accessible through cross-sector collaboration&#46;'
 featured_image:
-  uid: opportunity-project
+  uid: challengegov-card-episode-3
   alt: ''
 event_type:
   - zoom
@@ -16,13 +16,13 @@ registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-ser
 
 ---
 
+{{< img src="challengegov-card-episode-3"  >}}
+
 _[View Live Captioning for this Event ](https://www.captionedtext.com/client/event.aspx?EventID=3998900&CustomerID=321)_
 
 The Federal Crowdsourcing Webinar Series explores how federal agencies are engaging the crowd to multiply the ideas and perspectives they bring to certain issues. In this third episode, you’ll learn how The Opportunity Project is bringing together government, technologists, and communities to create digital tools that help strengthen economic opportunity.
 
 {{< img-right src="opportunity-project" >}}
-
-{{< img-right src="challenge-gov-logo" >}}
 
 Through [The Opportunity Project](https://opportunity.census.gov/), the U.S. Census Bureau connects tech developers, local leaders, and nonprofits to create digital solutions to problems faced by communities throughout the country. The results empower people with technology and make government data more accessible and user-friendly.
 
@@ -44,6 +44,8 @@ She’ll also preview an exciting new venture planned for the summer when The Op
 For information on this episode or upcoming events in the crowdsourcing series, contact [team@challenge.gov](mailto:team@challenge.gov).
 
 ---
+
+{{< img-right src="challenge-gov-logo" >}}
 
 _This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market and manage their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
