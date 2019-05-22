@@ -37,6 +37,7 @@ outputFormats:
     mediatype: "application/json"
 
 preserveTaxonomyNames   : true
+
 taxonomies:
   topic                 : "topics"
   author                : "authors"
