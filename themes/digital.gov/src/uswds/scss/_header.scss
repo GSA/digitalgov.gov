@@ -27,7 +27,7 @@ header#header{
 	#explore{
 		@include u-padding-x(2);
 		@include u-padding-y(1);
-		@include u-border('2px','solid','indigo-warm-60v');
+		@include u-border('2px','solid','indigo-60v');
 		@include u-radius('sm');
 		@include u-text('no-underline');
 		@include u-font('sans', 'md');
@@ -39,7 +39,7 @@ header#header{
 	}
 
 	.contribute{
-		@include u-bg('indigo-warm-60v');
+		@include u-bg('indigo-60v');
 		@include u-text('white');
 		@include u-border(0);
 		@include u-padding-x(2);
@@ -59,7 +59,7 @@ header#header{
 	nav{
 		@include u-margin-top('05');
 		@include u-font('sans', 'md');
-		@include u-text('normal');
+		@include u-text('medium');
 		@include u-text('right');
 
 		// tablet and smaller
