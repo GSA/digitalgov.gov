@@ -3,7 +3,7 @@
 	@include u-margin-y(5);
 	@include u-padding-left(3);
 	li{
-		@include u-margin-bottom(3);
+		@include u-margin-bottom(2);
 		@include u-font('sans', 'md');
 		@include u-line-height('sans', 3);
 		h2{
