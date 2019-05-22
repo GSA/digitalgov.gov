@@ -243,7 +243,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Analytics Program" href="{{< ref "service_dap.md" >}}">DAP: Digital Analytics Program</a>
+      <a title="DAP: Digital Analytics Program" href="{{< ref "/services/service_dap.md" >}}">DAP: Digital Analytics Program</a>
     </td>
   </tr>
 
@@ -294,7 +294,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Events" href="{{< ref "events" >}}">Events</a>
+      <a title="Events" href="{{< ref "/events" >}}">Events</a>
     </td>
   </tr>
 
