@@ -21,4 +21,4 @@ authors:
 
  
 
-See all [DigitalGov Resources]({{< link "/resources/" >}})
+See all [DigitalGov Resources]({{< ref "/resources" >}})

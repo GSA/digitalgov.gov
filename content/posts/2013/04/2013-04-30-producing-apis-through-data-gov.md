@@ -24,7 +24,7 @@ One way agencies can offer APIs for their data is to use the built–in function
   3. Create an html page within your agency&#8217;s developer hub that will serve as an API homepage for this documentation (e.g., www.agency.gov/developer/name-of-api).
   4. Customize the template below with the appropriate API information from your interactive dataset (see #2) and add the information to the API homepage that you&#8217;ve created. A. For the API URL, copy the &#8216;API Access Endpoint&#8217;, remove the &#8216;json&#8217; suffix, and insert &#8216;[format]&#8217;.B. The &#8216;Response Format&#8217;, &#8216;Type&#8217;, and &#8216;Authentication&#8217; fields do not need customizing.C. For the &#8216;Example Requests&#8217;, begin with the dataset&#8217;s &#8216;API Access Endpoint&#8217;, and customize it with parameters and values that demonstrate potential uses of this dataset&#8217;s API.D. For the Parameter&#8217;s Chart, describe each of the parameters listed in the &#8216;Column IDs&#8217; and provide examples that are used in the dataset.  It may be appropriate to combine some Column IDs, for instance, along the lines of the example below.
   5. Include a link to the &#8216;[Further Developer Documentation](http://dev.socrata.com/)&#8216; that Socrata offers.
-  6. Link to any [additional developer resources]({{< link "2013-05-16-api-release-kit.md" >}} "API Release Kit") you create to a &#8216;Related Resources&#8217; section.
+  6. Link to any [additional developer resources]({{< ref "2013-05-16-api-release-kit.md" >}} "API Release Kit") you create to a &#8216;Related Resources&#8217; section.
 
 ## Template
 
@@ -130,7 +130,7 @@ None required
 
 ### Related Resources
 
-Include [any additional resources]({{< link "2013-05-16-api-release-kit.md" >}} "API Release Kit") your team can offer developers.
+Include [any additional resources]({{< ref "2013-05-16-api-release-kit.md" >}} "API Release Kit") your team can offer developers.
 
 ## Completed Example
 

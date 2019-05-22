@@ -20,7 +20,7 @@ Many experts now recommend even shorter page titles. Below are a couple of artic
 
 [New Title Tag Guidelines & Preview Tool](http://moz.com/blog/new-title-tag-guidelines-preview-tool)
 
-In addition to the suggestions offered in our [previous article on Achieving Good SEO]({{< link "2013-05-31-four-steps-to-achieve-good-seo.md" >}}), here are a few specific tips for page titles:
+In addition to the suggestions offered in our [previous article on Achieving Good SEO]({{< ref "2013-05-31-four-steps-to-achieve-good-seo.md" >}}), here are a few specific tips for page titles:
 
 1. Place page titles in a
 

@@ -28,8 +28,8 @@ You can view a recording of the presentation below:
 
 
   
-Remember, this webinar covered just one of many ways available to agencies to help manage their social media programs — as part of our effort to <a title="Innovation Means More, Better, Cost Effective Digital Training" href="{{< link "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}" target="_blank">offer social media training throughout each month</a>, if you have an idea for an upcoming webinar please contact us at justin.herman@gsa.gov.
+Remember, this webinar covered just one of many ways available to agencies to help manage their social media programs — as part of our effort to <a title="Innovation Means More, Better, Cost Effective Digital Training" href="{{< ref "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}" target="_blank">offer social media training throughout each month</a>, if you have an idea for an upcoming webinar please contact us at justin.herman@gsa.gov.
 
-Also, don’t forget to RSVP for our next #socialgov training: “[State of the Social Gov 2014,]({{< link "2014-02-18-state-of-the-socialgov-2014.md" >}})” where you can learn more about DigitalGov social media services, along with our shared plans for the coming year.
+Also, don’t forget to RSVP for our next #socialgov training: “[State of the Social Gov 2014,]({{< ref "2014-02-18-state-of-the-socialgov-2014.md" >}})” where you can learn more about DigitalGov social media services, along with our shared plans for the coming year.
 
  

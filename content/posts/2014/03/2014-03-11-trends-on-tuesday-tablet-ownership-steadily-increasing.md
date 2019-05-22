@@ -20,4 +20,4 @@ What is also interesting to note is that a shift toward smaller tablet screens i
 
 > Among current owners, small screens of seven to eight inches have increased from 25 percent ownership in June 2013 to 32 percent in December 2013. Conversely, ownership of medium screens 8.9 to 10.1inches have decreased from 73 percent in June 2013 to 68 percent in December 2013.
 
-The increase in overall tablet ownership and the move toward a slightly smaller screen means agencies designing their information for anywhere any device consumption need to consider the proliferation of screen sizes and think along [responsive design]({{< link "2013-08-20-embracing-responsive-design.md" >}} "Embracing Responsive Design").
+The increase in overall tablet ownership and the move toward a slightly smaller screen means agencies designing their information for anywhere any device consumption need to consider the proliferation of screen sizes and think along [responsive design]({{< ref "2013-08-20-embracing-responsive-design.md" >}} "Embracing Responsive Design").

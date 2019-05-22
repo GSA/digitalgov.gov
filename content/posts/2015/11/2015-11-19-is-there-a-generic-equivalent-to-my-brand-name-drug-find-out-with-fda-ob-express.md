@@ -48,4 +48,4 @@ The help and support links allow you to email questions directly from the app. T
 
 So, the next time you visit the pharmacy, check out the generics for your brand name drugs with this app and perhaps save some money. I know I will.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

@@ -23,7 +23,7 @@ If you were to spend any time with me in the kitchen, you would often find me se
 
 Part of good substitution includes seeking out equivalents that will perform the same role. For example, sour milk or buttermilk are used in a recipe for a specific function. You can&#8217;t just use fresh milk and extra butter. You need to add vinegar to the fresh milk first so the chemistry comes out right.
 
-Below is an excerpt from a DigitalGov post by Martha Dorris called [What is a &#8220;Customer Centric&#8221; Culture?]({{< link "2013-09-27-what-is-a-customer-centric-culture.md" >}}). It&#8217;s a great &#8216;recipe&#8217;, but I want employees to enjoy this ‘dish’ as much as their customers will, which means I need to make a substitution. As you read the excerpt, I want you to mentally substitute &#8217;employee&#8217; for &#8216;customer&#8217; and see how it &#8216;tastes&#8217;.
+Below is an excerpt from a DigitalGov post by Martha Dorris called [What is a &#8220;Customer Centric&#8221; Culture?]({{< ref "2013-09-27-what-is-a-customer-centric-culture.md" >}}). It&#8217;s a great &#8216;recipe&#8217;, but I want employees to enjoy this ‘dish’ as much as their customers will, which means I need to make a substitution. As you read the excerpt, I want you to mentally substitute &#8217;employee&#8217; for &#8216;customer&#8217; and see how it &#8216;tastes&#8217;.
 
 > The key to be a customer-centric culture is to understand who your customers are and their expectations. Customers and the customer experience strategy should be at the center of your business.
 > 
@@ -34,13 +34,13 @@ Below is an excerpt from a DigitalGov post by Martha Dorris called [What is a &#
 > 
 > These are all important questions as we build a customer-centric culture. These issues are critical when making business decisions. We must also acknowledge that while these principles are important, not all decisions can/will be made to satisfy our customer all the time. Particularly in the government with budget constraints, we can’t always provide the type of experience, or make every process or technology change that could result in more satisfied customers. Managing customer expectations and communicating clearly helps eliminate frustration on their part. {{< legacy-img src="2016/05/600-x-450-Butter-and-Oil-Multiart-iStock-Thinkstock-164111582.jpg" alt="Butter and oil" caption="" >}} 
 
-So, did it taste good? Does the substitution make sense? I think that recipe will turn out great with my substitution! Let&#8217;s see if it works in another of Martha&#8217;s &#8216;recipes&#8217;, this time from [15 Government Customer Service Trends for 2015]({{< link "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}).
+So, did it taste good? Does the substitution make sense? I think that recipe will turn out great with my substitution! Let&#8217;s see if it works in another of Martha&#8217;s &#8216;recipes&#8217;, this time from [15 Government Customer Service Trends for 2015]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}).
 
 > If your agency is looking for ways to improve the experience you provide to your customers, we recommend increasing collaboration with other agencies (federal, state, and local) to share best practices, as well as working with the private sector and non-profits to make things easier for your customers.
 
 I think this recipe is going to be my favorite! Martha Dorris is becoming the Martha Stewart of transforming government, don&#8217;t you agree?
 
-But there is still something missing from these recipes, so let&#8217;s try to find one where we can really make the employee ingredient the &#8216;star of the dish&#8217;, as they like to say on the Cooking Channel! With our substitution in place with Martha&#8217;s [5 Steps for Delivering a Better Customer Experience]({{< link "2013-06-19-5-steps-for-delivering-a-better-customer-experience.md" >}}), we begin to create a recipe like no other.
+But there is still something missing from these recipes, so let&#8217;s try to find one where we can really make the employee ingredient the &#8216;star of the dish&#8217;, as they like to say on the Cooking Channel! With our substitution in place with Martha&#8217;s [5 Steps for Delivering a Better Customer Experience]({{< ref "2013-06-19-5-steps-for-delivering-a-better-customer-experience.md" >}}), we begin to create a recipe like no other.
 
 > Everyone wants to know how to provide outstanding customer experience in government. It can be difficult, because everyday our customers are also doing business with companies like Starbucks, Zappos, and Virgin America, that excel in customer service. Those experiences drive high expectations for interacting with any organization, including government agencies.
 

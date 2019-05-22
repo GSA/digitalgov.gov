@@ -21,7 +21,7 @@ topics:
   - the-content-corner
 ---
 
-****Content can be categorized in many ways. While breaking down your [website analytics](({{< link "categories/metrics" >}})), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.
+****Content can be categorized in many ways. While breaking down your [website analytics](({{< ref "/topics/metrics" >}})), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.
 
 Let&#8217;s first define the two terms:
 
@@ -31,7 +31,7 @@ These days, we could probably most agree that short-form content makes up the ma
 
 But, according to a [Pew Research study](http://www.journalism.org/2016/05/05/long-form-reading-shows-signs-of-life-in-our-mobile-news-world/), readers access long-form articles at nearly the same rate as short ones.
 
-&#8220;Rather surprising,&#8221; I thought when I read that—and it’s something to consider when developing your content strategy (ironically, this is one of my shortest [The Content Corner]({{< link "categories/content" >}}) pieces yet). I shouldn’t be surprised though, because it’s something that [Tyrus Manuel predicted]({{< link "2016-01-11-the-content-corner-content-trends-for-2016.md" >}}) back in January would be a trend for 2016.
+&#8220;Rather surprising,&#8221; I thought when I read that—and it’s something to consider when developing your content strategy (ironically, this is one of my shortest [The Content Corner]({{< ref "/topics/content" >}}) pieces yet). I shouldn’t be surprised though, because it’s something that [Tyrus Manuel predicted]({{< ref "2016-01-11-the-content-corner-content-trends-for-2016.md" >}}) back in January would be a trend for 2016.
 
 > _&#8220;As we forge ahead into 2016, we should again commit ourselves to focus on creating content for our users and be sure it helps solve specific problems or helps to reinforce positive impressions of our agencies.&#8221;_
 
@@ -43,13 +43,13 @@ There’s huge value to creating short-form content to grab the attention of you
   </p>
 </blockquote>
 
-Speaking of short attention spans, there’s Snapchat, the social network with content that can disappear by design—although it’s features have evolved beyond that to make it &#8220;[one of the most complete and engaging communication platforms on the market](https://blog.bufferapp.com/snapchat-chat)&#8221; (learn how [USA.gov is using Snapchat]({{< link "2016-04-01-why-we-launched-a-snapchat-account-and-how-well-measure-success.md" >}}) to engage with its audience).__You may not have heard, but they [recently launched](http://www.theverge.com/2016/6/17/11962916/snapchat-real-life-tech-magazine-publication-announced) a new digital magazine. Called [Real Life](http://reallifemag.com/), it will focus on &#8220;how our lives are mediated by devices.&#8221; I checked it out and was surprised to find that the content is quite opposite of its social media platform. Articles are lacking imagery and written in storytelling form, like your typical magazine.
+Speaking of short attention spans, there’s Snapchat, the social network with content that can disappear by design—although it’s features have evolved beyond that to make it &#8220;[one of the most complete and engaging communication platforms on the market](https://blog.bufferapp.com/snapchat-chat)&#8221; (learn how [USA.gov is using Snapchat]({{< ref "2016-04-01-why-we-launched-a-snapchat-account-and-how-well-measure-success.md" >}}) to engage with its audience).__You may not have heard, but they [recently launched](http://www.theverge.com/2016/6/17/11962916/snapchat-real-life-tech-magazine-publication-announced) a new digital magazine. Called [Real Life](http://reallifemag.com/), it will focus on &#8220;how our lives are mediated by devices.&#8221; I checked it out and was surprised to find that the content is quite opposite of its social media platform. Articles are lacking imagery and written in storytelling form, like your typical magazine.
 
 It has yet to be seen how successful the platform will be, but it’s certainly interesting that Snapchat has delved into long-form publishing.
 
 Apparently, long-form content [gets more shares/social engagement](https://www.act-on.com/blog/2016/07/long-form-content-vs-short-form-which-gets-the-results-you-want/) and it ranks better on search engines. And interestingly, &#8220;[cell-phone readers spend about twice as much time with long-form content as with short-form content](http://www.journalism.org/2016/05/05/long-form-reading-shows-signs-of-life-in-our-mobile-news-world/),&#8221; with most either later at night or early in the morning. {{< legacy-img src="2016/07/313-x-492-Pew-Research-Center_U.S.-public-show-signs-of-engaging-with-long-form-articles-on-cellphones.jpg" alt="U.S. public show signs of engaging with long-form articles on cellphones." caption="" >}} 
 
-According to the </span><span style="font-weight: 400"><a href="{{< link "service_dap.md" >}}">Digital Analytics Program</a>&#8216;s</span> [<span style="font-weight: 400">Analytics Dashboard</span>](https://analytics.usa.gov)<span style="font-weight: 400">, which <a href="{{< link "2016-02-18-analytics-usa-gov-now-with-agency-specific-dashboards.md" >}}">provides insight into how the public interacts with specific agency websites</a> (currently, <a href="https://analytics.usa.gov/data/#explanation">more than 400 executive branch government domains across about 5,000 total websites</a>), visits to government websites on <a href="https://analytics.usa.gov/data/">mobile rivals that of tablet and desktop</a>, especially on the weekend. </p> 
+According to the </span><span style="font-weight: 400"><a href="{{< ref "/services/service_dap.md" >}}">Digital Analytics Program</a>&#8216;s</span> [<span style="font-weight: 400">Analytics Dashboard</span>](https://analytics.usa.gov)<span style="font-weight: 400">, which <a href="{{< ref "2016-02-18-analytics-usa-gov-now-with-agency-specific-dashboards.md" >}}">provides insight into how the public interacts with specific agency websites</a> (currently, <a href="https://analytics.usa.gov/data/#explanation">more than 400 executive branch government domains across about 5,000 total websites</a>), visits to government websites on <a href="https://analytics.usa.gov/data/">mobile rivals that of tablet and desktop</a>, especially on the weekend. </p> 
 
 <p>
   {{< legacy-img src="2016/07/600-x-315-Analytics.USA_.gov-Dashboard-Screen-Shot-2016-07-25-at-2.11.16-PM.jpg" alt="Screen capture of the top of the Data page of the Analytics.USA.gov Dashboard on July 25, 2016." >}}

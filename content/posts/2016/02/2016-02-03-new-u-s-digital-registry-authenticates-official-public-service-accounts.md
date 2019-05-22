@@ -21,7 +21,7 @@ topics:
 
 Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We’d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you do that and remove bureaucratic and technological barriers between users and digital public services.
 
-It’s called [the U.S. Digital Registry]({{< link "service_us-digital-registry.md" >}}), and we hope you’ll join us in using it to develop a new generation of services that:
+It’s called [the U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}}), and we hope you’ll join us in using it to develop a new generation of services that:
 
   * delivers authenticated information to users across platforms, languages and topics
   * supports cyber-security by deterring fake accounts that spread misinformation and steal personal data.
@@ -37,7 +37,7 @@ The rise of third-party platforms in delivering modern public services required 
 
 Here’s how it works:
 
-  1. Government agencies, including members of the collaborative inter-agency [SocialGov]({{< link "social-media.md" >}}) and [MobileGov]({{< link "mobilegov.md" >}}) communities, use [OMB Max](https://max.omb.gov/maxportal/home.do) to authenticate users of the U.S. Digital Registry and add their official accounts by:
+  1. Government agencies, including members of the collaborative inter-agency [SocialGov]({{< ref "social-media.md" >}}) and [MobileGov]({{< ref "mobilegov.md" >}}) communities, use [OMB Max](https://max.omb.gov/maxportal/home.do) to authenticate users of the U.S. Digital Registry and add their official accounts by:
 
     &#8211; Name of the account
 
@@ -75,7 +75,7 @@ In the meantime, we encourage state, local and international public services bod
 
 Mashups with this would be awesome. For the people.
 
-We also encourage all third-party platforms with [Terms of Service with the government]({{< link "negotiated-terms-of-service-agreements.md" >}}) to use the registry to conclusively authenticate public service accounts. Not all platforms are in the registry in this first iteration, but we’ll get there.
+We also encourage all third-party platforms with [Terms of Service with the government]({{< ref "negotiated-terms-of-service-agreements.md" >}}) to use the registry to conclusively authenticate public service accounts. Not all platforms are in the registry in this first iteration, but we’ll get there.
 
 The new U.S. Digital Registry combines the former Federal Social Media Registry and Mobile Apps Registry with a path forward to further expand the scope, and provides a seachange in open data capabilities. We’re already meeting with organizations ready to use the registry API, and we’re determined to develop it into an expanding and evolving service that combines an easy-to-use tool with the active participation of hundreds of government technologists, innovative private-sector developers, news organizations, researchers and anyone who wants reliable access to the public information they need.
 

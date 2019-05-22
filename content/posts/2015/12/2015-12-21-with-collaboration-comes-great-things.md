@@ -24,10 +24,10 @@ The NIDDK team ported the existing Java/PHP codebase for the Syndication CMS plu
 
 Interested in learning more about content syndication? Please check out the following:
 
-[Get More Health Content for Your Websites, Apps, and Social Media]({{< link "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}})
+[Get More Health Content for Your Websites, Apps, and Social Media]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}})
 
-[Content Syndication of NIH Grants Information Now Available]({{< link "2015-07-02-content-syndication-of-nih-grants-information-now-available.md" >}})
+[Content Syndication of NIH Grants Information Now Available]({{< ref "2015-07-02-content-syndication-of-nih-grants-information-now-available.md" >}})
 
-[Government Open and Structured Content Models Are Here!]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}})
+[Government Open and Structured Content Models Are Here!]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}})
 
  

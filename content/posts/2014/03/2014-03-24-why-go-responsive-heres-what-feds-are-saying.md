@@ -21,11 +21,11 @@ topics:
 </p>
 
 <p dir="ltr">
-  Responsive Web design <a title="Responsive Web Design" href="{{< link "tag/responsive-web-design" >}}">implementations in the federal government</a> have members of the <a title="Mobile" href="{{< link "mobilegov.md" >}}">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
+  Responsive Web design <a title="Responsive Web Design" href="{{< ref "/topics/responsive-web-design" >}}">implementations in the federal government</a> have members of the <a title="Mobile" href="{{< ref "mobilegov.md" >}}">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
 </p>
 
 <p dir="ltr">
-  In February, the Mobile Gov Community of Practice <a title="Responsive Web Design Workshop: Why, How and What’s Next?" href="{{< link "2014-01-30-responsive-web-design-workshop-why-how-and-whats-next.md" >}}">hosted a workshop</a> with more than 40 feds from 19 agencies to answer these questions.
+  In February, the Mobile Gov Community of Practice <a title="Responsive Web Design Workshop: Why, How and What’s Next?" href="{{< ref "2014-01-30-responsive-web-design-workshop-why-how-and-whats-next.md" >}}">hosted a workshop</a> with more than 40 feds from 19 agencies to answer these questions.
 </p>
 
 <p dir="ltr">
@@ -33,7 +33,7 @@ topics:
 </p>
 
 <p dir="ltr">
-  Responsive Web design is a solution <a title="Responsive Design Overview, Resources and Tools" href="{{< link "2013-06-11-responsive-design.md" >}}">for designing a website to fit any device&#8217;s screen size</a>. Before the how, agencies need to know the why—what are the reasons agencies should implement this mobile technology instead of, say, a native app? Here’s what we were told:
+  Responsive Web design is a solution <a title="Responsive Design Overview, Resources and Tools" href="{{< ref "2013-06-11-responsive-design.md" >}}">for designing a website to fit any device&#8217;s screen size</a>. Before the how, agencies need to know the why—what are the reasons agencies should implement this mobile technology instead of, say, a native app? Here’s what we were told:
 </p>
 
   * <p dir="ltr">

@@ -13,7 +13,7 @@ Here, on DigitalGov, you can make government services and information better by 
 ## How can I contribute?
 
   * [**Send us your article ideas, pitch your story, or email your presentation** ideas](#guidelines "To send your article ideas, pitch your story, or email your idea for a presentation contact us").
-  * [**Join** a DigitalGov Community of Practice]({{< link "/communities/" >}}).
+  * [**Join** a DigitalGov Community of Practice]({{< ref "/communities" >}}).
   * [**Keep in the loop** by signing up for our DigitalGov newsletters](http://connect.digitalgov.gov/subscribe).
   * [**Subscribe** to our podcasts on the iTunes store](https://itunes.apple.com/us/podcast/digitalgov-podcast/) and catch up on our recent episodes.
   * **Share! Share! Share** Forward the newsletter. Tweet an article. Post on Facebook or LinkedIn. Tell your colleagues and build the DigitalGov network.

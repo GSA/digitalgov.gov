@@ -21,7 +21,7 @@ topics:
 
 iPlover is a new app from the U.S. Geological Survey (USGS) for data collection about habitats on coastal beaches and the environment surrounding them.
 
-That sounds like a really difficult and important task, but luckily for us, the app is designed for trained and vetted professionals. It is an example of another [federal crowdsourcing app]({{< link "2014-12-22-how-six-agencies-are-crowdsourcing-with-mobile-apps.md" >}} "How Six Agencies Are CrowdSourcing with Mobile Apps"), but for experts. The app is actually intended for use by USGS officials and partners and will not function without an approved log-in.
+That sounds like a really difficult and important task, but luckily for us, the app is designed for trained and vetted professionals. It is an example of another [federal crowdsourcing app]({{< ref "2014-12-22-how-six-agencies-are-crowdsourcing-with-mobile-apps.md" >}} "How Six Agencies Are CrowdSourcing with Mobile Apps"), but for experts. The app is actually intended for use by USGS officials and partners and will not function without an approved log-in.
 
 To understand and manage dynamic coastal landscapes for beach-dependent species, such as the totally adorable [Piping Plover](http://wh.er.usgs.gov/slr/images/pipingplovers2.png "Piping Plover") (the app’s namesake!), research scientists require biological and geological data across a whole range of environments and habitats.
 
@@ -38,4 +38,4 @@ USGS and partners use the app to:
 
 The app was developed by the USGS Woods Hole Coastal and Marine Science Center and the USGS Center for Integrated Data Analytics. It is currently only available on Apple’s [App Store](https://itunes.apple.com/us/app/iplover/id975620593).
 
-_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "service_us-digital-registry.md" >}})._
+_You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._

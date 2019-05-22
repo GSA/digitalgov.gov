@@ -36,7 +36,7 @@ The answer: open innovation.
 
 Federal agencies need to engage and collaborate with all sectors of society, a task made easier by online technologies, says a Government Accountability Office (GAO) [report](http://www.gao.gov/products/GAO-17-14) issued last week.
 
-OPEN INNOVATION: Practices to Engage Citizens and Effectively Implement Federal Initiatives is accompanied by an infographic and podcast, all well worth your while. Many of the highlighted activities were spearheaded by [communities]({{< link "/communities/" >}}) represented on DigitalGov: crowdsourcing and citizen science, open data, and prize competitions.
+OPEN INNOVATION: Practices to Engage Citizens and Effectively Implement Federal Initiatives is accompanied by an infographic and podcast, all well worth your while. Many of the highlighted activities were spearheaded by [communities]({{< ref "/communities" >}}) represented on DigitalGov: crowdsourcing and citizen science, open data, and prize competitions.
 
 [{{< legacy-img src="2016/10/600-x-234-GAO-report-title.jpg" alt="Click to view the full infographic" >}}](http://www.gao.gov/assets/690/680374.pdf)
 

@@ -25,7 +25,7 @@ On August 10, the [White House Office of Science and Technology Policy](https://
 
 Since 2010, the U.S. General Services Administration (GSA) has provided [Challenge.gov](https://www.challenge.gov/) as a place for federal agencies to announce challenges and for citizens to compete for prizes by offering their talents and expertise to the government.
 
-During that time, GSA has trained more than 1,500 agency staff members on the effective use of challenges and worked tirelessly to build momentum and share resources through a growing federal [community of practice]({{< link "challenges-prizes.md" >}}).
+During that time, GSA has trained more than 1,500 agency staff members on the effective use of challenges and worked tirelessly to build momentum and share resources through a growing federal [community of practice]({{< ref "challenges-prizes.md" >}}).
 
 [{{< legacy-img src="2016/08/250-x-323-Implementation-of-Federal-Prize-Authority-Fiscal-Year-2015-Progress-Report_August-2016-cover-WH-OSTP.jpg" alt="Report cover. Click to read the August 2016 White House report pdf file." >}}](https://www.whitehouse.gov/sites/default/files/fy2015_competes_prizes_report.pdf)The work is making a difference and catching on in new places across government. Just look at some of the numbers in the White House’s new report.
 

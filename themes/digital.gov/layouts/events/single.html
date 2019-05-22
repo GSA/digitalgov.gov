@@ -154,11 +154,8 @@
               {{- end -}}
             {{- end -}}
 
-            {{/* Related Communities */}}
-            {{- partial "core/get_communities" . -}}
-
-            {{/* Promos */}}
-            {{- partial "core/get_services" . -}}
+            {{/* Related Communities and Services */}}
+            {{- partial "core/get_related" . -}}
 
             {{/* Topics */}}
             {{- partial "core/get_topics" . -}}

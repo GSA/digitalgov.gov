@@ -26,4 +26,4 @@ After [initially pushing back on the new ad blocking](http://www.adweek.com/news
 
 &#8220;We messed up,&#8221; said Scott Cunningham, senior vice president of technology and ad operations at the IAB. &#8220;Looking back now, our scraping of dimes may have cost us dollars in consumer loyalty.&#8221;
 
-The key to fix this is to always build your digital products with a user-centered design, especially when creating [mobile moments]({{< link "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}): [performance and speed]({{< link "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}) are often the most important factors for the user to have an excellent experience.
+The key to fix this is to always build your digital products with a user-centered design, especially when creating [mobile moments]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}): [performance and speed]({{< ref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}) are often the most important factors for the user to have an excellent experience.

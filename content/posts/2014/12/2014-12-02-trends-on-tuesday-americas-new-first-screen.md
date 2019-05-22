@@ -28,4 +28,4 @@ So what are some of the factors that helped mobile snatch the big prize from tel
 
 This a big moment for the mobile industry, as well as app developers (like us). Despite the belief that the larger players in the app industry would monopolize time spent on mobile, consumers have shown that there is growing interest in specialized applications.
 
-For more information on how to successfully develop mobile applications and/or mobile websites for the public, check out the [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program").
+For more information on how to successfully develop mobile applications and/or mobile websites for the public, check out the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program").

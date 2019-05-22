@@ -11,11 +11,11 @@ authors:
 
 Below are examples and explanations for words, phrases, acronyms, numbers, punctuation, capitalization, symbols, and more used in Spanish grammar.
 
-* [Abbreviations, Acronyms and Em Dash]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#abbreviations" >}})
-* [Spanish Language Capitalization]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#capitalization" >}})
-* [Spanish Language Dates & Numbers]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#dates" >}})
-* [Spanish Language Punctuation]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#punctuation" >}})
-* [Spanish Language Diacritics and HTML Code]({{< link "spanish-language-style-guide-and-glossaries-grammar.md#diacritics" >}})
+* [Abbreviations, Acronyms and Em Dash]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md#abbreviations" >}})
+* [Spanish Language Capitalization]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md#capitalization" >}})
+* [Spanish Language Dates & Numbers]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md#dates" >}})
+* [Spanish Language Punctuation]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md#punctuation" >}})
+* [Spanish Language Diacritics and HTML Code]({{< ref "spanish-language-style-guide-and-glossaries-grammar.md#diacritics" >}})
 
 ## Abbreviations, Acronyms and Em Dash {#abbreviations}
 

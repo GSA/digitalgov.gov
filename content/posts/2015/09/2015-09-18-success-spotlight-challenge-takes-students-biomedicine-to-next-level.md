@@ -23,7 +23,7 @@ In its [Design by Biomedical Undergraduate Teams (DEBUT) Challenge](http://www.n
 
 While members of the first-place team graduated in May, the work they initiated under this challenge will continue.
 
-The team’s [Viral Diagnostic Technology](https://www.youtube.com/watch?v=MpAT1ChE0rk) makes it easier for HIV patients to determine if their medications are, indeed, reducing the amount of virus in their bloodstreams. The technology they designed can detect HIV through electrochemical methods, which are less complex than biological methods. {{< legacy-img src="2015/09/425-x-263-Viral-Diagnostic-Technology-2.jpg" alt="The special membrane used by the device is first coated with an HIV-specific antibody which captures HIV viruses. Then, gold and silver nanoparticles are bound to the captured HIV. With each of the steps, ions become progressively less able to reach electrodes. By measuring the resulting current, it is possible to determine the amount of virus that has been caught in the membrane." caption="" >}} 
+The team’s [Viral Diagnostic Technology](https://www.youtube.com/watch?v=MpAT1ChE0rk) makes it easier for HIV patients to determine if their medications are, indeed, reducing the amount of virus in their bloodstreams. The technology they designed can detect HIV through electrochemical methods, which are less complex than biological methods. {{< legacy-img src="2015/09/425-x-263-Viral-Diagnostic-Technology-2.jpg" alt="The special membrane used by the device is first coated with an HIV-specific antibody which captures HIV viruses. Then, gold and silver nanoparticles are bound to the captured HIV. With each of the steps, ions become progressively less able to reach electrodes. By measuring the resulting current, it is possible to determine the amount of virus that has been caught in the membrane." caption="" >}}
 
 In addition to taking center stage at the annual meeting of the Biomedical Engineering Society, the Lehigh grads will receive a $20,000 prize—seed money they plan to start a new business, protect their intellectual property, and fund further research.
 
@@ -69,6 +69,6 @@ On the heels of the DEBUT Challenge, NIH’s latest problem-solving opportunity 
 
 Both problem-solving initiatives are prime examples of how a prize competition can inspire young innovators and entrepreneurs to contribute to an agency’s mission.
 
-The federal challenge and prize community will gather October 7-8 in Washington, D.C., to share more success stories and celebrate the fifth anniversary of Challenge.gov. Stay tuned to [Twitter](https://twitter.com/ChallengeGov), [Facebook](https://www.facebook.com/ChallengeGov), and [DigitalGov]({{< link "index.html" >}}) for forthcoming details.
+The federal challenge and prize community will gather October 7-8 in Washington, D.C., to share more success stories and celebrate the fifth anniversary of Challenge.gov. Stay tuned to [Twitter](https://twitter.com/ChallengeGov), [Facebook](https://www.facebook.com/ChallengeGov), and [DigitalGov](https://digital.gov/) for forthcoming details.
 
 And if you have a challenge success story to share, [email the challenge team](mailto:challenge@gsa.gov).

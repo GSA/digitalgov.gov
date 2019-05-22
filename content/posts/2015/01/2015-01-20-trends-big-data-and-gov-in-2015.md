@@ -19,7 +19,7 @@ topics:
 
 As we move into 2015, the amount of data available in the digital ecosystem will increase very rapidly because of the Internet of Things (IoT), social media and wearable tech. In the future, the problem lies not only with data collection, but with what one does with the data.
 
-Big Data, one of the main and recurring buzzwords of the digital century, will remain important, but will force us to answer the question of what we will do with the data. When [dealing with data]({{< link "2014-08-22-actionable-web-analytics-a-three-step-process.md" >}}), we have to ask the right questions to get answers that will lead to action. In 2015, there has to be a shift in thinking about the uses and implications of data in our agencies. In order to delve a bit deeper into Big Data and its implications, we spoke with **Samuel Bronson**, Web Analytics Program Manager, at the U.S. Environmental Protection Agency.
+Big Data, one of the main and recurring buzzwords of the digital century, will remain important, but will force us to answer the question of what we will do with the data. When [dealing with data]({{< ref "2014-08-22-actionable-web-analytics-a-three-step-process.md" >}}), we have to ask the right questions to get answers that will lead to action. In 2015, there has to be a shift in thinking about the uses and implications of data in our agencies. In order to delve a bit deeper into Big Data and its implications, we spoke with **Samuel Bronson**, Web Analytics Program Manager, at the U.S. Environmental Protection Agency.
 
 ## How has data management evolved over the past few years?
 
@@ -27,7 +27,7 @@ Mainly, data has gotten bigger and expanded in scope. As companies and organizat
 
 ## What do you predict will be the areas of concern for data management in the future, as we move to IoT and wearables? {{< legacy-img src="2014/04/250-x-200-monicaodo-iStock-Thinkstock-482299521.jpg" alt="An illustration of a smart phone and smart watch synching data" caption="" >}} 
 
-In one sense, [IoT]({{< link "2014-10-31-whats-happening-with-the-internet-of-things.md" >}}) is not an entirely new idea, but the natural expansion of existing ideas. Utilizing WiFi technology to collect data from people, animals, and all types of mobile and immobile objects kind of seems like it was and is inevitable.
+In one sense, [IoT]({{< ref "2014-10-31-whats-happening-with-the-internet-of-things.md" >}}) is not an entirely new idea, but the natural expansion of existing ideas. Utilizing WiFi technology to collect data from people, animals, and all types of mobile and immobile objects kind of seems like it was and is inevitable.
 
 ### Area of Concern: Applying analytics to new data streams
 
@@ -35,7 +35,7 @@ There will be the challenge of knowing how to apply the process of analytics to 
 
 ### Area of Concern: Privacy
 
-With data collecting devices filling every corner of our homes, cars, and lives, where will the line be drawn? How much is too much? And, what [security]({{< link "2014-10-30-cyber-house-of-horrors.md" >}}) measures will be taken to reassure those who consider reassurance of privacy as a prerequisite to participation in the IoT? It will vary, of course, by device, product, and organization, but that’s a challenge that will have to be addressed.
+With data collecting devices filling every corner of our homes, cars, and lives, where will the line be drawn? How much is too much? And, what [security]({{< ref "2014-10-30-cyber-house-of-horrors.md" >}}) measures will be taken to reassure those who consider reassurance of privacy as a prerequisite to participation in the IoT? It will vary, of course, by device, product, and organization, but that’s a challenge that will have to be addressed.
 
 ## How do you foresee Big Data impacting government in the years to come?
 

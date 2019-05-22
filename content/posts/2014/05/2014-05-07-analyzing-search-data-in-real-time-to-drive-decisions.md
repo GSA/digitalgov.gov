@@ -26,4 +26,4 @@ The team is now able to make quick sense of massive amounts of data to make deci
 
 What’s next? The team is working on putting these dashboards in the hands of customers so that they, too, can quickly make sense of their agency’s search data and make decisions to improve searchers’ experience on their sites.
 
-Not a DigitalGov Search customer? [Sign up]({{< link "service_search.md" >}}) and join the 1,500 government websites using the service to power their search box and improve customers’ search experience.
+Not a DigitalGov Search customer? [Sign up]({{< ref "service_search.md" >}}) and join the 1,500 government websites using the service to power their search box and improve customers’ search experience.

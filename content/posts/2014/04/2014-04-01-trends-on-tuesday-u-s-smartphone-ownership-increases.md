@@ -17,8 +17,8 @@ topics:
 
 That is a 66.8 percent mobile market penetration, meaning two thirds of people in the country owned a smartphone at the beginning of this year. Comscore also finds Apple continues to sell the most devices, while Android is the top mobile platform. 
 
-Smartphone adoption will continue to grow. Earlier this year, Gartner reported [that smartphones were the top shipping device worldwide]({{< link "2014-02-11-trends-on-tuesday-1-billion-smartphones-shipped-in-2013.md" >}} "Trends on Tuesday: 1 Billion Smartphones Shipped in 2013") and last week they predicted that smartphones would continue to be the [ top selling device in 2014](http://www.mobilemarketingwatch.com/gartner-mobile-phones-now-the-biggest-segment-of-the-overall-device-market-40589/). 
+Smartphone adoption will continue to grow. Earlier this year, Gartner reported [that smartphones were the top shipping device worldwide]({{< ref "2014-02-11-trends-on-tuesday-1-billion-smartphones-shipped-in-2013.md" >}} "Trends on Tuesday: 1 Billion Smartphones Shipped in 2013") and last week they predicted that smartphones would continue to be the [ top selling device in 2014](http://www.mobilemarketingwatch.com/gartner-mobile-phones-now-the-biggest-segment-of-the-overall-device-market-40589/). 
 
-With the majority of people in the U.S. owning smartphones, it is imperative that agencies have a [mobile first strategy]({{< link "2013-09-30-mobile-first.md" >}}). Our [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program") can help agencies strategize for the mobile present and future.
+With the majority of people in the U.S. owning smartphones, it is imperative that agencies have a [mobile first strategy]({{< ref "2013-09-30-mobile-first.md" >}}). Our [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program") can help agencies strategize for the mobile present and future.
 
 What is your agency doing to properly serve the mobile population? Let us know in the comments!

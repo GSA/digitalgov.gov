@@ -17,9 +17,9 @@ The word accessibility breeds misconceptions.
 
 Why? Because accessibility is something that scares you.
 
-[Accessibility]({{< link "categories/accessibility" >}}) is hard. Accessibility needs people with specialized expertise. Accessibility problems often depend on the context of the website or Web application in question. Accessibility takes time. Accessibility is a [legal mandate](https://www.disability.gov/). Accessibility is a moral obligation.
+[Accessibility]({{< ref "/topics/accessibility" >}}) is hard. Accessibility needs people with specialized expertise. Accessibility problems often depend on the context of the website or Web application in question. Accessibility takes time. Accessibility is a [legal mandate](https://www.disability.gov/). Accessibility is a moral obligation.
 
-These statements are both true and misconceptions. The misconceptions happen when you try to solve accessibility problems with just accessibility solutions. In that world, accessibility becomes this &#8220;requirement&#8221; or &#8220;list&#8221; that you tack on or create to make it more manageable. You try to corral accessibility into some stage in your process, but it doesn&#8217;t quite fit in anywhere. Because it&#8217;s everywhere. Making those misconceptions disappear happens when you [focus on the people]({{< link "2014-12-29-crowdsourcing-for-accessibility.md" >}}) and [processes around accessibility](http://section508.gov/). Then, it becomes something you can do.
+These statements are both true and misconceptions. The misconceptions happen when you try to solve accessibility problems with just accessibility solutions. In that world, accessibility becomes this &#8220;requirement&#8221; or &#8220;list&#8221; that you tack on or create to make it more manageable. You try to corral accessibility into some stage in your process, but it doesn&#8217;t quite fit in anywhere. Because it&#8217;s everywhere. Making those misconceptions disappear happens when you [focus on the people]({{< ref "2014-12-29-crowdsourcing-for-accessibility.md" >}}) and [processes around accessibility](http://section508.gov/). Then, it becomes something you can do.
 
 The impetus for most accessibility successes or failures falls into one or more of these three topics:
 
@@ -63,8 +63,8 @@ At each turning point, you should ask yourself, &#8220;How is this going to work
 
 ## What&#8217;s Next?
 
-  * Begin [digging deeper into accessibility]({{< link "2014-11-17-user-experience-impossible-the-line-between-accessibility-and-usability.md" >}}).
-  * Learn more about designing accessible user experiences with [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/). DigitalGov also has resources on [making videos accessible]({{< link "2014-06-30-508-accessible-videos-why-and-how-to-make-them.md" >}}).
+  * Begin [digging deeper into accessibility]({{< ref "2014-11-17-user-experience-impossible-the-line-between-accessibility-and-usability.md" >}}).
+  * Learn more about designing accessible user experiences with [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/). DigitalGov also has resources on [making videos accessible]({{< ref "2014-06-30-508-accessible-videos-why-and-how-to-make-them.md" >}}).
   * Begin integrating accessibility testing into your processes early and often, from [design](http://webaim.org/resources/designers/) to [development](http://davidakennedy.com/2014/10/31/web-accessibility-in-60-seconds/). It&#8217;s easier than you think.
 
 _**David A. Kennedy** is a former contractor for the Consumer Financial Protection Bureau._

@@ -22,7 +22,7 @@ topics:
   - ux
 ---
 
-About a year and a half ago, the Federal Citizen Information Center—today called USAGov—embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See [more about our rebirth]({{< link "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}).
+About a year and a half ago, the Federal Citizen Information Center—today called USAGov—embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See [more about our rebirth]({{< ref "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}).
 
 {{< legacy-img src="2016/04/600-x-520-USAgov-Bilingual-Content-Style-Guide.jpg" alt="USA gov Bilingual Content Style Guide" >}}
 
@@ -41,4 +41,4 @@ Simple. A lot of the guidance applies to both languages, so if there is no speci
 We wanted to share this process with you. So, take a look and come back from time to time as we add new sections and update existing guidance. The USAGov Bilingual Style Guide is a living tool that reflects the evolving nature of languages.
 
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/) by Laura Godfrey, the Bilingual Senior Editor of USAGov._
-_Additionally, you can check out DigitalGov&#8217;s [Resources]({{< link "/resources/" >}}) to review the [Bilingual Glossaries, Dictionaries, and Style Guides]({{< link "bilingual-glossaries-dictionaries-style-guides.md" >}}), and join the [Multilingual Community of Practice]({{< link "multilingual.md" >}}) and other_ [Communities]({{< link "/communities/" >}})_._
+_Additionally, you can check out DigitalGov&#8217;s [Resources]({{< ref "/resources/_index.md" >}}) to review the [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}}), and join the [Multilingual Community of Practice]({{< ref "multilingual.md" >}}) and other_ [Communities]({{< ref "/communities" >}})_._

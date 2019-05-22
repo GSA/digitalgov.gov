@@ -19,7 +19,7 @@ topics:
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg)Anytime, Anywhere, Any Device.
 
-The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the [federal Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Today, GSA’s [Digital Services Innovation Center]({{< link "join.md" >}} "Join DigitalGov") and the [Federal CIO Council](http://cio.gov/) launch the [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.
+The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the [federal Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Today, GSA’s [Digital Services Innovation Center]({{< ref "join.md" >}} "Join DigitalGov") and the [Federal CIO Council](http://cio.gov/) launch the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.
 
 The program&#8211;developed with and by 25 agencies across government&#8211;will help agencies in each stage of mobile development.
 
@@ -35,13 +35,13 @@ The program&#8211;developed with and by 25 agencies across government&#8211;will
 
 The program is chock full of useful resources and tools. For starters there is
 
-  * The [Mobile Code Sharing Catalog]({{< link "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}} "Federal Mobile Code Sharing Catalog Is Here") provides agency mobile developers with whole [frameworks for a mobile web site](http://gsa.github.io/Mobile-Code-Catalog/web_html.html), modular code to solve common problems, and open-sourced apps to modify or use as a template. AND, agencies and other developers can [submit code for reuse](https://github.com/GSA/Mobile-Code-Catalog/pulls).
+  * The [Mobile Code Sharing Catalog]({{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}} "Federal Mobile Code Sharing Catalog Is Here") provides agency mobile developers with whole [frameworks for a mobile web site](http://gsa.github.io/Mobile-Code-Catalog/web_html.html), modular code to solve common problems, and open-sourced apps to modify or use as a template. AND, agencies and other developers can [submit code for reuse](https://github.com/GSA/Mobile-Code-Catalog/pulls).
 
   *  [RFP-EZ](https://rfpez.gsa.gov/government) helps link agencies and small businesses for tech projects below $150,000&#8211;definitely a sweet spot for many mobile products. The idea is to help agencies reach the talent in startups more quickly and at reasonable cost. We worked with the RFP-EZ team at SBA to include mobile statement of work templates. Now when agencies create a new project in RFP-EZ, they can jumpstart their efforts by choosing the “Mobile Application Development” project type.
 
   * Agencies can easily create mobile ready websites using [Sites.USA.gov](https://Sites.USA.gov "Sites.USA.gov"). This GSA-hosted content management tool supports open content, is secure, compliant and uses only responsive themes that work well on any-sized screen.
 
-The [Federal Apps Registry]({{< link "service_us-digital-registry.md" >}} "The Federal Mobile Apps Registry") helps verify that apps and mobile sites are actually government mobile products&#8211;and provides an API so agencies can easily create galleries around their mission areas.
+The [Federal Apps Registry]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Apps Registry") helps verify that apps and mobile sites are actually government mobile products&#8211;and provides an API so agencies can easily create galleries around their mission areas.
 
 ## Just Do It
 

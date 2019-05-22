@@ -28,4 +28,4 @@ The head of the agency delegates to the CIO a number of information security res
 
  
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

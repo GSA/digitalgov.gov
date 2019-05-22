@@ -25,4 +25,4 @@ This [infographic from the study](http://www.citrix.com/content/dam/citrix/en_us
 
 As the data demonstrates a third of users expect a mobile site to load within 5 seconds. However, these users aren’t necessarily blaming the web site for all delays, as 57% blame the mobile provider when a video stalls.
 
-Agencies optimizing their websites for mobile use need to consider the user’s experience and provide a site that focuses on only the most important user content to ensure quick loading. Check out our [mobile performance testing resources]({{< link "2013-08-05-mobile-product-performance-testing-resources.md" >}} "Mobile Product Performance Testing").
+Agencies optimizing their websites for mobile use need to consider the user’s experience and provide a site that focuses on only the most important user content to ensure quick loading. Check out our [mobile performance testing resources]({{< ref "2013-08-05-mobile-product-performance-testing-resources.md" >}} "Mobile Product Performance Testing").

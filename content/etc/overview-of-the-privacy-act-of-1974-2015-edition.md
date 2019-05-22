@@ -25,4 +25,4 @@ This overview provides reference to and legal analysis of court decisions interp
 
 * * *
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

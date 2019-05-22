@@ -29,7 +29,7 @@ Haven’t downloaded the quitStart app yet? [Smokefree.gov](http://smokefree.gov
 
 {{< legacy-img src="2015/10/590-x-122-Smoke-Free-Text-logo.jpg" alt="The Smoke Free Text logo" >}}
 
-SmokefreeTXT is available 24/7 for those 13 years and older with a quick signup online or by phone. To sign up on your phone, just text QUIT to 47848. SmokefreeTXT is a 6-8 week program and users will receive 1 to 5 messages each day. You can stop or start again as necessary. At the end of the program, smokefreeTXT will continue to follow up with messages at 1, 3, and 6 months to ensure you’re still on track to smoke-free living. For more information see [DigitalGov’s article about NCI’s SMS here]({{< link "2015-04-16-nci-reaching-the-public-via-sms-to-change-behaviors.md" >}}).
+SmokefreeTXT is available 24/7 for those 13 years and older with a quick signup online or by phone. To sign up on your phone, just text QUIT to 47848. SmokefreeTXT is a 6-8 week program and users will receive 1 to 5 messages each day. You can stop or start again as necessary. At the end of the program, smokefreeTXT will continue to follow up with messages at 1, 3, and 6 months to ensure you’re still on track to smoke-free living. For more information see [DigitalGov’s article about NCI’s SMS here]({{< ref "2015-04-16-nci-reaching-the-public-via-sms-to-change-behaviors.md" >}}).
 
 All of these helpful services are free to use, so go ahead and get on your phone, tablet, or desktop. If you want something simple then stick with the smokefreeTXT and if you want something a little more fun and interactive then go for the app!
 

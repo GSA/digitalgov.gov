@@ -37,6 +37,7 @@ outputFormats:
     mediatype: "application/json"
 
 preserveTaxonomyNames   : true
+
 taxonomies:
   topic                 : "topics"
   author                : "authors"
@@ -69,10 +70,20 @@ params:
   events_count: 3
 
 
+relativeURLs: true
+refLinksNotFoundURL: https://digital.gov/resources/
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
+
+related:
+  threshold: 100
+  includeNewer: false
+  toLower: false
+  indices:
+  - name: topics
+    weight: 100
 
 pluralizelisttitles     : false
 

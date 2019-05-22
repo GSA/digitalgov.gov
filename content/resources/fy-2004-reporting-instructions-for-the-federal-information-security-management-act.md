@@ -29,4 +29,4 @@ This memorandum provides updated instructions for agency reporting under the Fed
 
  
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

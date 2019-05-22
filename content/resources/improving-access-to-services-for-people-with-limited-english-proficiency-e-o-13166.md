@@ -21,4 +21,4 @@ On August 11, 2000, the President signed Executive Order 13166, &#8220;Improving
 
 * * *
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

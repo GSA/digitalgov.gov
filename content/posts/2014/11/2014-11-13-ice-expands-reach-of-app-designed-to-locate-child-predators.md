@@ -20,7 +20,7 @@ Catching child predators? There&#8217;s an app for that, and it&#8217;s expandin
 
 [Operation Predator](https://www.ice.gov/predator/predator-app.htm)—the first U.S. federal law enforcement app designed to seek the public&#8217;s help with identifying and locating fugitive and unknown suspected child predators—is now available for both Android and iOS-based smartphones, and also features built-in Spanish language support.
 
-U.S. Immigration and Customs Enforcement&#8217;s (ICE) Homeland Security Investigations (HSI) [launched the initial Operation Predator]({{< link "2014-05-01-operation-predator-app-from-ice-developed-to-help-rescue-children-capture-sexual-predators.md" >}}) for Apple products in September 2013. Within 36 hours of its launch, the app helped HSI special agents apprehend a suspect. The latest versions of the app are expected to significantly increase public outreach to help locate child predators and rescue their victims.
+U.S. Immigration and Customs Enforcement&#8217;s (ICE) Homeland Security Investigations (HSI) [launched the initial Operation Predator]({{< ref "2014-05-01-operation-predator-app-from-ice-developed-to-help-rescue-children-capture-sexual-predators.md" >}}) for Apple products in September 2013. Within 36 hours of its launch, the app helped HSI special agents apprehend a suspect. The latest versions of the app are expected to significantly increase public outreach to help locate child predators and rescue their victims.
 
 The Spanish language versions of the app are built-in to the iOS and Android applications and require no additional downloads.
 
@@ -35,4 +35,4 @@ The app also provides additional resources about HSI and its global partners in 
 
 The iOS version of the app can be downloaded from [Apple&#8217;s App Store and iTunes](https://itunes.apple.com/us/app/operation-predator/id695130859?mt=8); the Android version is available on the [Google Play store](https://play.google.com/store/apps/details?id=com.java.ice).
 
-You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by using the [Federal Mobile Product Registry]({{< link "service_us-digital-registry.md" >}} "The Federal Mobile Products Registry").
+You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by using the [Federal Mobile Product Registry]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Products Registry").

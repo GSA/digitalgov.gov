@@ -31,7 +31,7 @@ Hispanics are one of [fastest growing demographics](http://www.pewresearch.org/f
 
 We know every day that more and more Hispanics are on social media, but on which platforms?, Where are they participating? And more importantly, in what language?
 
-No issue is more debated than [the role “Spanglish” plays]({{< link "2015-06-19-real-internationalization-isnt-just-geographic-its-linguistic.md" >}}) in the way organizations communicate with the Latino community in the United States. So last Wednesday, USAGov in collaboration with DigitalGov University, hosted an interactive event exploring the critical role social media plays in reaching Hispanics in this country.
+No issue is more debated than [the role “Spanglish” plays]({{< ref "2015-06-19-real-internationalization-isnt-just-geographic-its-linguistic.md" >}}) in the way organizations communicate with the Latino community in the United States. So last Wednesday, USAGov in collaboration with DigitalGov University, hosted an interactive event exploring the critical role social media plays in reaching Hispanics in this country.
 
 {{< legacy-img src="2015/11/542-x-348-Spanglish-event-screenshot.jpg" alt="Screencap of Does Your Social Media Speak Spanglish? How to connect with multi-generational Hispanics event, including the Somos Social hashtag." >}}
 

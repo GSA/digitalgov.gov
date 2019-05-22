@@ -69,7 +69,7 @@ There has never been a negative reaction regarding our productions. What really 
 
 ## All of Us Should be Podcasting
 
-In the final analysis, all agencies that are interested in quick and relatively inexpensive communication should [add podcasting to their public outreach strategy]({{< link "2015-09-14-the-content-corner-should-you-stop-writing-and-start-podcasting.md" >}}). If you so, you will experience a sense of creativity and precision that you didn’t have before.
+In the final analysis, all agencies that are interested in quick and relatively inexpensive communication should [add podcasting to their public outreach strategy]({{< ref "2015-09-14-the-content-corner-should-you-stop-writing-and-start-podcasting.md" >}}). If you so, you will experience a sense of creativity and precision that you didn’t have before.
 
 Looking back, the only thing I would have done differently is to have insisted on better training for myself, and you should too.
 

@@ -27,11 +27,11 @@ Government agencies need to make sure their mobile websites and native apps don�
 
 The need for digital products to work better is not new in the federal government. Resources like the [Digital Playbook](https://playbook.cio.gov/) and [Public Participation Playbook](https://participation.usa.gov/) have had impact helping agencies become user-friendly and both of these resources note the importance of developing usable products for mobile users.
 
-Mobile user experience [encompasses the user’s perceptions and feelings before, during and after their interaction](http://www.smashingmagazine.com/2012/07/elements-mobile-user-experience/) with a native app or mobile website. To help agencies, the [MobileGov Community of Practice]({{< link "mobilegov.md" >}}) released 42 mobile user experience guidelines in 2013.
+Mobile user experience [encompasses the user’s perceptions and feelings before, during and after their interaction](http://www.smashingmagazine.com/2012/07/elements-mobile-user-experience/) with a native app or mobile website. To help agencies, the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}) released 42 mobile user experience guidelines in 2013.
 
 However, [mobile development is an ever-changing target](http://www.infoworld.com/article/2610221/application-development/12-predictions-for-the-future-of-programming.html) and agencies need quick mobile development “do&#8217;s and don&#8217;ts” so we challenged MobileGov community members at events over the last six months to tell us the most important things agencies need to do when mobilizing their information, products and services. {{< legacy-img src="2015/07/600-x-400-Reference-Book-DenzilMann-iStock-Thinkstock-477170032.jpg" alt="Reference Book" caption="" >}} 
 
-We’ve turned the 42 into [six guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}) and we’ve collected resources, tools and agency examples agency program managers and mobile developers can use to develop them.
+We’ve turned the 42 into [six guidelines]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}) and we’ve collected resources, tools and agency examples agency program managers and mobile developers can use to develop them.
 
 **Guideline 1**: Make sure your content is structured and chunked appropriately for multiple devices
 
@@ -49,4 +49,4 @@ These six guidelines are intended to help you keep your mobile websites and nati
 
 We need you to help us add what you’ve done to create awesome mobile anytime, anywhere experiences.
 
-You can also participate in the events the MobileGov Community of Practice will be hosting which will focus on each of these guidelines over the coming months. Follow DigitalGov and the [MobileGov Community of Practice]({{< link "mobilegov.md" >}}) page to keep abreast of events. If you want get involved, host an event around these guidelines or have any other thoughts or questions, [email Jacob Parcell](mailto:jacob.parcell@gsa.gov).
+You can also participate in the events the MobileGov Community of Practice will be hosting which will focus on each of these guidelines over the coming months. Follow DigitalGov and the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}) page to keep abreast of events. If you want get involved, host an event around these guidelines or have any other thoughts or questions, [email Jacob Parcell](mailto:jacob.parcell@gsa.gov).

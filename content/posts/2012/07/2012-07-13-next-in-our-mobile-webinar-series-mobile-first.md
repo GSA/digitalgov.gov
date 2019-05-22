@@ -19,7 +19,7 @@ Do you think &#8220;mobile first&#8221;? A &#8220;mobile first&#8221; approach i
 
 ### Description
 
-In this second webinar in our [mobile webinar series]({{< link "2012-07-02-mobile-webinar-series-recap-responsive-design.md" >}} "Mobile Webinar Series Recap: Responsive Design"), you&#8217;ll learn how to get your agency thinking &#8220;mobile first.&#8221; The Department of State and NIH&#8217;s National Cancer Institute will share their &#8220;mobile first&#8221; experiences in a webinar moderated by Gwynne Kostin, director of GSA&#8217;s Digital Services Innovation Center.
+In this second webinar in our [mobile webinar series]({{< ref "2012-07-02-mobile-webinar-series-recap-responsive-design.md" >}} "Mobile Webinar Series Recap: Responsive Design"), you&#8217;ll learn how to get your agency thinking &#8220;mobile first.&#8221; The Department of State and NIH&#8217;s National Cancer Institute will share their &#8220;mobile first&#8221; experiences in a webinar moderated by Gwynne Kostin, director of GSA&#8217;s Digital Services Innovation Center.
 
 ### What You’ll Learn
 

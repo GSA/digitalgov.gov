@@ -13,11 +13,11 @@ topics:
 
 Federal agencies must prepare social media readiness procedures for cyber-vandalism, effectively recover control during an incident, and respond quickly to the public to maintain confidence in digital services.
 
-A new toolkit developed by more than a dozen government managers and representatives from major social media platforms, <a href="{{< link "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" target="_blank">&#8220;Readiness, Recovery Response: Social Media Cyber-Vandalism Toolkit,&#8221;</a> will help agencies evaluate and improve security of their programs to ensure they are better prepared for emerging challenges.
+A new toolkit developed by more than a dozen government managers and representatives from major social media platforms, <a href="{{< ref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" target="_blank">&#8220;Readiness, Recovery Response: Social Media Cyber-Vandalism Toolkit,&#8221;</a> will help agencies evaluate and improve security of their programs to ensure they are better prepared for emerging challenges.
 
-In light of recent social media cyber-vandalism incidents affecting public services, the [SocialGov Community]({{< link "social-media.md" >}}) &#8212; including almost 900 digital engagement managers from across government &#8212; assembled a working group tasked to compile a best practices resource any agency could customize.
+In light of recent social media cyber-vandalism incidents affecting public services, the [SocialGov Community]({{< ref "social-media.md" >}}) &#8212; including almost 900 digital engagement managers from across government &#8212; assembled a working group tasked to compile a best practices resource any agency could customize.
 
-One week later, following the rapid collaborative development process outlined in the [U.S. Public Participation Playbook]({{< link "2014-12-17-3rd-u-s-public-participation-playbook-draft-released-this-month.md" >}}), the new resource is now available as a “living document” for continuous enhancement and expansion to match evolving technologies. We hope experts both within and outside government will continue to improve and expand upon with more training and resources as they develop.
+One week later, following the rapid collaborative development process outlined in the [U.S. Public Participation Playbook]({{< ref "2014-12-17-3rd-u-s-public-participation-playbook-draft-released-this-month.md" >}}), the new resource is now available as a “living document” for continuous enhancement and expansion to match evolving technologies. We hope experts both within and outside government will continue to improve and expand upon with more training and resources as they develop.
 
 The federal working group assembled to deliver this collaborative resource includes:
 

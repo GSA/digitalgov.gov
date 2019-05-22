@@ -22,4 +22,4 @@ Just to say that in more explicit, simple terms: Unless your app is game, financ
 
 Flurry notes that one area where Android and Apple usage differs widely is sub-categories of games, where iOS has a stronger hold of more frequent usage, especially in action and family games.
 
-Read more about [Flurry’s App Matrix in their blog post](http://flurrymobile.tumblr.com/post/144245637325/appmatrix) and learn more about [using “Pirate Metrics” to analyze and grow your mobile application’s audience]({{< link "2016-05-12-using-pirate-metrics-to-analyze-your-mobile-applications-audience.md" >}}) from a recent DigitalGov workshop.
+Read more about [Flurry’s App Matrix in their blog post](http://flurrymobile.tumblr.com/post/144245637325/appmatrix) and learn more about [using “Pirate Metrics” to analyze and grow your mobile application’s audience]({{< ref "2016-05-12-using-pirate-metrics-to-analyze-your-mobile-applications-audience.md" >}}) from a recent DigitalGov workshop.

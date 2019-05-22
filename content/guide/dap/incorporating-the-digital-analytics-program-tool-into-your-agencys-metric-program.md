@@ -9,9 +9,9 @@ aliases:
   - /services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/
 ---
 
-**This guidance is part of the [Digital Analytics Program]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program") (DAP). [See more on the DAP]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program").**
+**This guidance is part of the [Digital Analytics Program]({{< ref "service_dap.md" >}} "DAP: Digital Analytics Program") (DAP). [See more on the DAP]({{< ref "service_dap.md" >}} "DAP: Digital Analytics Program").**
 
-Several factors are important to consider when determining what role the [Digital Analytics Program]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program") (DAP) Analytics Tool (DAP AT) solution should play in your agency’s or sub-agency’s Web analytics reporting. This discussion is especially relevant to those agencies who are considering a transition from their legacy Web analytics tool to using the DAP AT solution as their sole Web analytics solution. Here we provide agencies additional information and guidance to ensure that a transition to the DAP solution will not result in significant gaps in your agency-specific reporting. Please consider all of this information before deciding to transition from an agency-specific Web analytics legacy tool to the DAP AT solution.
+Several factors are important to consider when determining what role the [Digital Analytics Program]({{< ref "service_dap.md" >}} "DAP: Digital Analytics Program") (DAP) Analytics Tool (DAP AT) solution should play in your agency’s or sub-agency’s Web analytics reporting. This discussion is especially relevant to those agencies who are considering a transition from their legacy Web analytics tool to using the DAP AT solution as their sole Web analytics solution. Here we provide agencies additional information and guidance to ensure that a transition to the DAP solution will not result in significant gaps in your agency-specific reporting. Please consider all of this information before deciding to transition from an agency-specific Web analytics legacy tool to the DAP AT solution.
 
 ## What is the DAP’s approach to GA code customization?
 
@@ -51,8 +51,8 @@ Other leading Web analytics solutions, such as Omniture/Adobe SiteCatalyst and W
 
 ## Learn More
 
-  * [Digital Analytics Program]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program")
-  * [Common Questions About the Digital Analytics Program]({{< link "common-questions-about-dap-faq.md" >}} "Common Questions about DAP - FAQ")
+  * [Digital Analytics Program]({{< ref "service_dap.md" >}} "DAP: Digital Analytics Program")
+  * [Common Questions About the Digital Analytics Program]({{< ref "common-questions-about-dap-faq.md" >}} "Common Questions about DAP - FAQ")
 
 ## Contact Us
 

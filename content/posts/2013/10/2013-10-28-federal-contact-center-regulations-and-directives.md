@@ -27,7 +27,7 @@ Contact centers operated and managed by federal agencies have to follow certain 
     </p>
 
     <p>
-      Find out how <a title="Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)" href="{{< link "contact-center-technologies.md" >}}>Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)</a> enable agencies to extend services to people who are deaf, hard-of-hearing, or speech impaired.
+      Find out how <a title="Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)" href="{{< ref "contact-center-technologies.md" >}}>Text Telephones/Telecommunications Devices for the Deaf (TTY/TDD)</a> enable agencies to extend services to people who are deaf, hard-of-hearing, or speech impaired.
     </p>
   </div>
 

@@ -22,13 +22,13 @@ topics:
   - US Department of State
 ---
 
-Most of us in the DigitalGov community recognize that responsive Web design is one approach to [mobile first]({{< link "2013-09-30-mobile-first.md" >}}) and most of us have a pretty clear picture of what it means—a responsive website will adjust to different devices, and the content will neatly change its layout from one screen size to another.
+Most of us in the DigitalGov community recognize that responsive Web design is one approach to [mobile first]({{< ref "2013-09-30-mobile-first.md" >}}) and most of us have a pretty clear picture of what it means—a responsive website will adjust to different devices, and the content will neatly change its layout from one screen size to another.
 
 But do you know _how_ it happens? Would you know how to _implement_ responsive Web design in your agency? The “[Mobile Web Templates: How to Use Open Source CMS to Implement Responsive Web Design]({{< tmp "events/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design.md" >}})” webinar (embedded below) gave us the tools to say yes to these questions.
 
 [youtube=http://www.youtube.com/watch?v=iKeh25cKgrY&w=600]
 
-As we’ve been learning since the [February workshop on the topic]({{< link "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), federal Web managers are using a number of solutions to implement responsive design on their sites, including [structured data and content models]({{< link "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}), APIs, and/or leveraging existing content management systems (CMS). Last month’s webinar featured three speakers presenting solutions that use open-source CMS: **Ryan Day** from the General Services Administration, **Eric Brassil** from the State Department, and **Karen Trebon** from the General Services Administration.
+As we’ve been learning since the [February workshop on the topic]({{< ref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), federal Web managers are using a number of solutions to implement responsive design on their sites, including [structured data and content models]({{< ref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}), APIs, and/or leveraging existing content management systems (CMS). Last month’s webinar featured three speakers presenting solutions that use open-source CMS: **Ryan Day** from the General Services Administration, **Eric Brassil** from the State Department, and **Karen Trebon** from the General Services Administration.
 
 ### Drupal at GSA’s Child Care Information Portal
 
@@ -60,6 +60,6 @@ You begin the process by clicking Sign-up at [Sites.USA.gov](https://sites.usa.g
 
 The responsive solutions open-source software provides are a key reason for choosing to go with open source. When software improvements are crowdsourced, the need to accommodate a variety of users drives innovation, and each innovation benefits the entire community of users. After viewing this webinar, Web managers should feel armed with a better understanding of how responsive Web design happens on the back-end, and can go forth and implement!
 
-Members of the [MobileGov Community of Practice]({{< link "mobilegov.md" >}} "Mobile") will be featured in another event focusing on mobile Web implementation. Sign up for the [&#8220;]({{< tmp "events/mobilegov-mystery-getting-buy-in-and-other-challenges-in-mobile-web-implementations.md" >}})<span style="color: #222222"><a href="{{< tmp "events/mobilegov-mystery-getting-buy-in-and-other-challenges-in-mobile-web-implementations.md" >}}">MobileGov Mystery: Getting Buy-in and Other Challenges In Mobile Web Implementations&#8221;</a> webinar happening on September 10 from 2-3pm EST.</span>_**Ellen Arnold Losey** is the Senior Graphic Designer and Webmaster at the Institute of Museum and Library Services._
+Members of the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}} "Mobile") will be featured in another event focusing on mobile Web implementation. Sign up for the [&#8220;]({{< tmp "events/mobilegov-mystery-getting-buy-in-and-other-challenges-in-mobile-web-implementations.md" >}})<span style="color: #222222"><a href="{{< tmp "events/mobilegov-mystery-getting-buy-in-and-other-challenges-in-mobile-web-implementations.md" >}}">MobileGov Mystery: Getting Buy-in and Other Challenges In Mobile Web Implementations&#8221;</a> webinar happening on September 10 from 2-3pm EST.</span>_**Ellen Arnold Losey** is the Senior Graphic Designer and Webmaster at the Institute of Museum and Library Services._
 
  

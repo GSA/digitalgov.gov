@@ -17,7 +17,7 @@ topics:
   - security
 ---
 
-_This is the final post in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< link "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})._
+_This is the final post in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< ref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})._
 
 Federal websites are [required to implement DNSSEC](https://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2008/m08-23.pdf), which relies on knowing exactly what server is responding to a request. In Amazon Web Services (AWS), the problem of unreliable servers is solved by [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) (ELB). An ELB containing one or more servers is presented to the world as a single hostname — say, <tt>usasearch-elb.ec2.aws.com</tt> — and requests are routed to individual servers in the ELB pool based on health and capacity. Hosts change without notice, at odds with standard DNSSEC implementations.
 
@@ -78,7 +78,7 @@ Side note: You can see the script that we wrote to request the AXFR from the mas
 
 ## But What About Wildcards?
 
-Earlier we talked about using wildcard DNS records to simplify the process of creating [customer-specific CNAMEs]({{< link "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}}). You might have expected that to cause a problem with respect to DNSSEC and dynamic records. However, as it turns out, wildcard records don’t present the same problem to DNSSEC that ALIAS records present.
+Earlier we talked about using wildcard DNS records to simplify the process of creating [customer-specific CNAMEs]({{< ref "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}}). You might have expected that to cause a problem with respect to DNSSEC and dynamic records. However, as it turns out, wildcard records don’t present the same problem to DNSSEC that ALIAS records present.
 
 Let’s take a closer look at what happened in our two-step zone updating process. First, the master server contains a wildcard ALIAS record that points customer sites to an ELB CNAME:
 
@@ -107,7 +107,7 @@ For DigitalGov Search agency customers with DNSSEC-signed zones of their own, th
   <em>Read more of this 5 part series:</em>
 </h3>
 
-  * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< link "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})
-  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All]({{< link "2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md" >}})
-  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection]({{< link "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}})
-  * [Let’s Encrypt those CNAMES, Shall We?]({{< link "2016-09-07-lets-encrypt-those-cnames-shall-we.md" >}})
+  * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< ref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})
+  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All]({{< ref "2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md" >}})
+  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection]({{< ref "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}})
+  * [Let’s Encrypt those CNAMES, Shall We?]({{< ref "2016-09-07-lets-encrypt-those-cnames-shall-we.md" >}})

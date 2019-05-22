@@ -19,4 +19,4 @@ topics:
 
 • **Rise of Gestures and Touch-free Input** &#8211; Casting a sidelong glance to pause a video, and other gestures and nontap inputs [are on the rise](http://phys.org/news/2013-12-pcs-tablets-movements.html). More sophisticated transitions and input methods will soon be the norm for interacting with devices.
 
-The point of these projections is that with new functionality the smartphone of tomorrow will be tuned into the user more than ever. This is why it is important for government agencies to recognize these trends and adapt their [mobile first]({{< link "2013-09-30-mobile-first.md" >}} "Mobile First") approaches to meet the needs of the user.
+The point of these projections is that with new functionality the smartphone of tomorrow will be tuned into the user more than ever. This is why it is important for government agencies to recognize these trends and adapt their [mobile first]({{< ref "2013-09-30-mobile-first.md" >}} "Mobile First") approaches to meet the needs of the user.

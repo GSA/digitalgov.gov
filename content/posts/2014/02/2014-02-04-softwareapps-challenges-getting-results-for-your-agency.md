@@ -29,6 +29,6 @@ In case you missed it, you can watch the recording below:
   
 
   
-If you like what you see here, please register for our next DigitalGov University and Challenge.gov webinar, &#8220;[Running a Successful Video Challenge]({{< link "events" >}})&#8221; with special guests Jason Crusan of NASA and James DeJulio of Tongal, where we&#8217;ll tackle the unique aspects of crowdsourcing videos.
+If you like what you see here, please register for our next DigitalGov University and Challenge.gov webinar, &#8220;[Running a Successful Video Challenge]({{< ref "/events" >}})&#8221; with special guests Jason Crusan of NASA and James DeJulio of Tongal, where we&#8217;ll tackle the unique aspects of crowdsourcing videos.
 
 Hope to see you there!

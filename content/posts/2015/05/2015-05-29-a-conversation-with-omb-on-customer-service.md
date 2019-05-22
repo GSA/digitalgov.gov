@@ -15,7 +15,7 @@ topics:
   - OMB
 ---
 
-{{< legacy-img src="2015/05/250-x-333-Lisa-Danzig.jpg" alt="Lisa Danzig" >}}We recently sat down with Lisa Danzig, who’s leading work at the Office of Management and Budget (OMB) on the [FY15 Cross Agency Priority (CAP) goal](http://www.performance.gov/cap-goals-list) on Customer Service (CS). The CS CAP goal aims to help agencies deliver world-class customer service to citizens that’s on par with leading private sector services by streamlining transactions, [setting customer service standards]({{< link "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" >}}) for high impact services, and making it faster and easier to complete transactions with government online.
+{{< legacy-img src="2015/05/250-x-333-Lisa-Danzig.jpg" alt="Lisa Danzig" >}}We recently sat down with Lisa Danzig, who’s leading work at the Office of Management and Budget (OMB) on the [FY15 Cross Agency Priority (CAP) goal](http://www.performance.gov/cap-goals-list) on Customer Service (CS). The CS CAP goal aims to help agencies deliver world-class customer service to citizens that’s on par with leading private sector services by streamlining transactions, [setting customer service standards]({{< ref "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" >}}) for high impact services, and making it faster and easier to complete transactions with government online.
 
 As one of only 15 CAP goals, it’s clear that improving the customer experience is a priority for the federal government, so we asked Lisa to tell us more.
 
@@ -43,7 +43,7 @@ We also hope to grow the Customer Experience Community of Practice, and get more
 
 There is great power in individual effort in this space. Advocate across your agency to streamline and improve how we design and deliver customer solutions. Always question how we’re serving customers. Do we listen and respond quickly to concerns? Are we doing something because it’s easier for us or easier for the customer?
 
-Use tools such as journey maps and [personas]({{< link "2015-01-09-personas-101.md" >}}) to put a human face on the work we do. How can we make these journeys easier for people?
+Use tools such as journey maps and [personas]({{< ref "2015-01-09-personas-101.md" >}}) to put a human face on the work we do. How can we make these journeys easier for people?
 
 Join the new Customer Experience Community of Practice (CX-COP). [Register online](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) or email [Rachel Flagg](mailto:rachel.flagg@gsa.gov) to join. You’ll learn about tools and training opportunities, and build relationships with colleagues at other agencies who can answer questions, solve problems, and help you accomplish your goals.
 

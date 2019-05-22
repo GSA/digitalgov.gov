@@ -17,7 +17,7 @@ topics:
 
 [{{< legacy-img src="2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg" alt="An image of a magnifying glass over a computer screen" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg)
 
-Following the [recent OMB memo](https://https.cio.gov/) that all publicly available federal websites and Web services must [implement HTTPS]({{< link "2015-07-21-an-introduction-to-https-by-18f-and-digitalgov-university.md" >}}) by December 31, 2016, Web content managers across government are considering the [SEO](http://search.digitalgov.gov/blog/seo-joe-pagano.html) (search engine optimization) implications of the transition, among other details.
+Following the [recent OMB memo](https://https.cio.gov/) that all publicly available federal websites and Web services must [implement HTTPS]({{< ref "2015-07-21-an-introduction-to-https-by-18f-and-digitalgov-university.md" >}}) by December 31, 2016, Web content managers across government are considering the [SEO](http://search.digitalgov.gov/blog/seo-joe-pagano.html) (search engine optimization) implications of the transition, among other details.
 
 In August 2014, Google confirmed that [HTTPS is a ranking signal in their algorithm](http://googlewebmastercentral.blogspot.com/2014/08/https-as-ranking-signal.html). But being a ranking signal and having an impact on findability are two different things. In the post, Google describes HTTPS as “a very lightweight signal—affecting fewer than 1% of global queries, and carrying less weight than other signals such as [high-quality content](https://support.google.com/webmasters/answer/6001093).” And, in October 2014, Bing found the idea of an HTTPS boost [almost laughable](https://www.seroundtable.com/bing-https-ranking-19243.html). SearchMetrics recently found an [increasing proportion of top-ranking sites use HTTPS](http://www.searchmetrics.com/wp-content/uploads/Ranking-Factors-2015-Whitepaper-US.pdf) [PDF, see page 10], but it’s still small and rankings are attributed primarily to brand strength.
 
@@ -74,7 +74,7 @@ Using
           Tags—Yes!</h2>
 
           <p>
-            The <a href="{{< link "2014-03-28-plain-language-page-titles-more-important-than-ever.md" >}}">
+            The <a href="{{< ref "2014-03-28-plain-language-page-titles-more-important-than-ever.md" >}}">
 
             <title>
               tag</a> we’re talking about here is located within the

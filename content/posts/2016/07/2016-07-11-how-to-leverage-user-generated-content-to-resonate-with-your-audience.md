@@ -64,7 +64,7 @@ Just a few other benefits of UGC include:
 
 > _&#8220;[Authenticity is key &#8211; if you don’t believe what someone is telling you and you don’t think they are being genuine or telling the truth, then it means nothing.](http://www.socialmediatoday.com/marketing/influencer-marketing-collaboration-not-transaction)&#8221; – Dan Neale, Social Media Today_
 
-As previously stated on [The Content Corner]({{< link "tag/the-content-corner" >}}), &#8220;[users (especially Millennials) demand authenticity from any brand/entity/agency they interact with]({{< link "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}).&#8221; So, whatever the tactic, be genuine!
+As previously stated on [The Content Corner]({{< ref "/topics/the-content-corner" >}}), &#8220;[users (especially Millennials) demand authenticity from any brand/entity/agency they interact with]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}).&#8221; So, whatever the tactic, be genuine!
 
 There are many ideas for how to implement user-generated content into your content strategy. I’ve gathered several case studies from across the government, to provide a glimpse at some of the many ways agencies are seeing the value in UGC.
 
@@ -74,7 +74,7 @@ To highlight community policing efforts in action, the Community Oriented Polici
 
 {{< legacy-img src="2016/07/600-x-300-National-Archives-and-Records-Administration-July-4th-Transcribe-a-thon.jpg" alt="National Archives and Records Administration graphic for the July 4th Transcribe-a-thon." >}}<figure class="tmblr-full"></figure> 
 
-Earlier this year, the _National Institutes of Health_ [held a data call]({{< link "2016-06-13-nih-image-gallery-data-call-success.md" >}}) highlighting NIH-funded scientific research to help populate their [centralized image service](https://www.nih.gov/news-events/images) for the dissemination of primarily scientific, biomedical, and disease related imagery. Their efforts were deemed successful as they received over 50 image submissions from 24 different funded institutions.
+Earlier this year, the _National Institutes of Health_ [held a data call]({{< ref "2016-06-13-nih-image-gallery-data-call-success.md" >}}) highlighting NIH-funded scientific research to help populate their [centralized image service](https://www.nih.gov/news-events/images) for the dissemination of primarily scientific, biomedical, and disease related imagery. Their efforts were deemed successful as they received over 50 image submissions from 24 different funded institutions.
 
 {{< legacy-img src="2016/07/600-x-120-nih-image-gallery-photo-montage.jpg" alt="NIH image gallery photo montage." >}}<figure class="tmblr-full"></figure> 
 
@@ -96,4 +96,4 @@ In an effort to increase “surface observations” [NOAA’s National Severe St
   The <a href="http://www.fs.fed.us/">U.S. Forest Service</a> and <a href="http://www.usda.gov/">U.S. Department of Agriculture</a> host many <a href="http://www.citizenscience.gov/catalog/">projects in the catalog</a> that collaborate with NGO’s, schools and state and local governments, that, among other things, support conservation goals/policy and research advancement, build new technologies, and gather or classify data.
 </p>
 
-There are many more examples of effective user-generated content. How have you, or can you, implement it into your content calendar? Please share your thoughts in the comments below or reach out to me on [Twitter @SSgtKRich](https://www.twitter.com/SSgtKRich)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+There are many more examples of effective user-generated content. How have you, or can you, implement it into your content calendar? Please share your thoughts in the comments below or reach out to me on [Twitter @SSgtKRich](https://www.twitter.com/SSgtKRich)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

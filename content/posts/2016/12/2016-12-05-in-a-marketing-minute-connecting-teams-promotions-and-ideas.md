@@ -89,5 +89,5 @@ ICYMI — August promotions!
 
 To be in the know of what the M team is cranking out in collaboration with many of you, check out the [editorial calendar](https://docs.google.com/spreadsheets/u/1/d/1lSrSUibMhRnMq1d6PonG476DskNzoY7qTMrhK73dWas/edit?usp=drive_web)! Have an idea? Submit it for consideration via [this Google Form](https://docs.google.com/a/gsa.gov/forms/d/1Mmf2fEUDHillNtdDJjwOrniZEm1uyXnX_uLyU7X2zRQ/viewform). 
 
-[_Victoria Wales_]({{< link "author/victoria-wales" >}}) _is a Digital Innovation Specialist for USAGov at GSA._
+[_Victoria Wales_]({{< ref "/authors/victoria-wales" >}}) _is a Digital Innovation Specialist for USAGov at GSA._
 _This was originally published on the [USAGov blog](https://blog.usa.gov/)._

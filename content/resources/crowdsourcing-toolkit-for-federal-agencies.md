@@ -13,8 +13,8 @@ authors:
 
 In a challenge, a &#8220;seeker&#8221; challenges &#8220;solvers&#8221; to identify a solution to a particular problem, or rewards contestants for accomplishing a goal. The solutions may be: ideas, designs, logos, videos, finished products, digital games, or mobile applications. There are many challenge success stories in government:
 
-  * [Challenges Conducted Under America COMPETES Act Authority]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/implementation-federal-prize-authority.pdf" >}}) (PDF, 486 KB, 53 pages, March 2012)
-  * [Success Stories Compiled in Conjunction with the Challenge.gov First Birthday Event]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/agency-stories-challenge-prize-competitions.pdf" >}}) (PDF, 544 KB, 16 pages, September 2011)
+  * [Challenges Conducted Under America COMPETES Act Authority](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/implementation-federal-prize-authority.pdf) (PDF, 486 KB, 53 pages, March 2012)
+  * [Success Stories Compiled in Conjunction with the Challenge.gov First Birthday Event](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/agency-stories-challenge-prize-competitions.pdf) (PDF, 544 KB, 16 pages, September 2011)
 
 Challenges can offer incentive prizes that are either monetary or non-monetary. Examples of non-monetary prizes can include:
 
@@ -24,10 +24,10 @@ Challenges can offer incentive prizes that are either monetary or non-monetary. 
 
 Details on **types of challenges**:
 
-  * [Ideation Challenges]({{< link "2013-11-14-ideation-challenges.md" >}})
-  * [Software and Apps Challenges]({{< link "2013-11-06-software-and-apps-challenges.md" >}})
-  * [Creative Challenge Contests]({{< link "2013-10-31-creative-challenge-contests.md" >}})
-  * [Technology Demonstration and Market Stimulation Prizes]({{< link "2013-10-31-technology-demonstration-and-market-stimulation-challenges.md" >}})
+  * [Ideation Challenges]({{< ref "2013-11-14-ideation-challenges.md" >}})
+  * [Software and Apps Challenges]({{< ref "2013-11-06-software-and-apps-challenges.md" >}})
+  * [Creative Challenge Contests]({{< ref "2013-10-31-creative-challenge-contests.md" >}})
+  * [Technology Demonstration and Market Stimulation Prizes]({{< ref "2013-10-31-technology-demonstration-and-market-stimulation-challenges.md" >}})
 
 ​Challenge platforms are the online tools that provide a forum for the seeker to post the problem, or call-to-action, and invite a community of solvers to suggest, collaborate on, and judge solutions.
 

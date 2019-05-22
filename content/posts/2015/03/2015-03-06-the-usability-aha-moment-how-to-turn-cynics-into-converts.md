@@ -23,15 +23,15 @@ topics:
 
 User Experience (UX) is the comprehensive experience a person has when using a product or application, and usability is the ease of use (or lack thereof) when using it. Many of us have discovered the vast advantages of evaluating usability on our own; however, getting others to jump on board is often a different story.
 
-The most difficult part of integrating an effective UX program in your organization is getting the initial buy-in from developers and stakeholders. You can test a product until the cows come home, but until you [get colleagues on board]({{< link "2015-02-13-institutionalizing-user-experience-building-usability-into-your-organization.md" >}}) with what you’re trying to accomplish, it could all be for naught.
+The most difficult part of integrating an effective UX program in your organization is getting the initial buy-in from developers and stakeholders. You can test a product until the cows come home, but until you [get colleagues on board]({{< ref "2015-02-13-institutionalizing-user-experience-building-usability-into-your-organization.md" >}}) with what you’re trying to accomplish, it could all be for naught.
 
-Usability and the suggestion of user experience is sometimes viewed as an attack on a project instead of a means of improvement. But with the application of good practices, a usability initiative can greatly reduce project costs by decreasing time spent on unnecessary (and unwanted) features of a program. Emphasizing these reductions in time and money is often the key to a successful usability program. (_Editor&#8217;s note: [Usability Case Studies]({{< link "government-usability-case-studies.md" >}}) can help too_).
+Usability and the suggestion of user experience is sometimes viewed as an attack on a project instead of a means of improvement. But with the application of good practices, a usability initiative can greatly reduce project costs by decreasing time spent on unnecessary (and unwanted) features of a program. Emphasizing these reductions in time and money is often the key to a successful usability program. (_Editor&#8217;s note: [Usability Case Studies]({{< ref "government-usability-case-studies.md" >}}) can help too_).
 
 In the end, everyone wants what is best for the customer; however, there are differing opinions on how best to determine what it is the customer truly wants and expects from their products. Here are a few simple tips to help guide those usability naysayers in your office towards the light:
 
 #### 1. Encourage Partnership and Coordination
 
-Start by asking your stakeholders what their goals are, who they see as their core user group, and what they see as [the most important tasks]({{< link "2015-02-06-top-task-usability-design-for-your-users.md" >}}) users should be able to accomplish. Be respectful of the time and effort the group has already put into the project. Show that your goal is to work with the development team, not against them. Stress that incorporating usability into any project plan saves time and money by identifying ways in which their funding can be saved.
+Start by asking your stakeholders what their goals are, who they see as their core user group, and what they see as [the most important tasks]({{< ref "2015-02-06-top-task-usability-design-for-your-users.md" >}}) users should be able to accomplish. Be respectful of the time and effort the group has already put into the project. Show that your goal is to work with the development team, not against them. Stress that incorporating usability into any project plan saves time and money by identifying ways in which their funding can be saved.
 
 #### 2. Choose Your Words Wisely
 

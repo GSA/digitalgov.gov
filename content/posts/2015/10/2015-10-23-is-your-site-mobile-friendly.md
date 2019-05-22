@@ -20,7 +20,7 @@ topics:
 
 What is mobile-friendly?
 
-[Mobile-friendly]({{< link "2015-04-30-mobile-friendly-park-websites-on-nps-gov.md" >}}) simply means your visitors can use phones and tablets to visit your website and [have a user-friendly experience]({{< link "2015-10-20-focus-on-mobile-performance.md" >}}).
+[Mobile-friendly]({{< ref "2015-04-30-mobile-friendly-park-websites-on-nps-gov.md" >}}) simply means your visitors can use phones and tablets to visit your website and [have a user-friendly experience]({{< ref "2015-10-20-focus-on-mobile-performance.md" >}}).
 
 Many of us get toward the end of mobile site development and really do not know if what we created is &#8220;mobile-friendly.” We think we have followed all of the mobile best practices and performed usability testing. However, do we have something concrete to quantitatively certify that we are mobile-friendly?
 
@@ -28,8 +28,8 @@ Most would say no.
 
 ## Why Does It Matter If Your Site Is Mobile-Friendly?
 
-  1. You want your [mobile moments]({{< link "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}) to be happy experiences! You are building software and tools for your customers and they will not be used if they are hard to use, slow or do not work on the user’s small device.
-  2. On April 21, 2015, Google released a new [mobile-friendly ranking algorithm designed to give a boost to mobile-friendly pages]({{< link "2015-04-15-mobilegeddon-government-edition.md" >}}) in Google’s mobile search results. If you want to be found in Google, you need a mobile-friendly site.
+  1. You want your [mobile moments]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}) to be happy experiences! You are building software and tools for your customers and they will not be used if they are hard to use, slow or do not work on the user’s small device.
+  2. On April 21, 2015, Google released a new [mobile-friendly ranking algorithm designed to give a boost to mobile-friendly pages]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}) in Google’s mobile search results. If you want to be found in Google, you need a mobile-friendly site.
 
 ## What Tools Can Help Improve Our Site?
 
@@ -41,7 +41,7 @@ This means you may want to scan with multiple tools as each was developed lookin
 
 Most have nicely-formatted results reports and suggestions, but it is up to you to interpret the reports, and you may find many false positives or issues that you are willing to live with. The performance results are especially interesting as it makes tuning easier, allowing developers to optimize mobile rendering to meet their specific performance objectives. Those performance objectives operate on a continuum: From highly optimized to the point of excluding images and interactive elements, down to websites that are not functional for mobile and considered desktop-only.
 
-These tools may be challenging for some sites. For example, some tools only work on non-SSL (http not https) sites, and most tools require your site be accessed online. DigitalGov has an article with more [tips on optimizing website performance]({{< link "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}).
+These tools may be challenging for some sites. For example, some tools only work on non-SSL (http not https) sites, and most tools require your site be accessed online. DigitalGov has an article with more [tips on optimizing website performance]({{< ref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}).
 
 ## What Do the Results Reports Look Like?
 

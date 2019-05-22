@@ -29,6 +29,6 @@ One tool that Localytics&#8217; Dave Hoch cites as valuable for re-engaging your
 
 Their research found native apps with integrated push notifications are retaining regular users (those who open the app more than 10 times) at a rate of 56% in 2015.
 
-One of the challenges of app engagement for government agencies is their content is often very utility driven. While [apps are often especially good for complex utility tasks as well as entertainment]({{< link "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}), users of government apps will probably be more brief and low-engagement audiences. For instance, use cases would be reporting a trash pickup or filing a public complaint or looking up a government office.
+One of the challenges of app engagement for government agencies is their content is often very utility driven. While [apps are often especially good for complex utility tasks as well as entertainment]({{< ref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}), users of government apps will probably be more brief and low-engagement audiences. For instance, use cases would be reporting a trash pickup or filing a public complaint or looking up a government office.
 
-To learn more about best practices and trends in this area, check out additional  [mobile articles on DigitalGov]({{< link "tag/mobile-2" >}}).
+To learn more about best practices and trends in this area, check out additional  [mobile articles on DigitalGov]({{< ref "/topics/mobile" >}}).

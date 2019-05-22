@@ -17,8 +17,7 @@
 
   {{/* For each of the topics,... */}}
 
-  {{/* NOTE: Many of the pages in digital.gov have duplicate topics. */}}
-  {{/* So we are running "uniq" on the array to remove duplicates */}}
+  {{/* NOTE: Many of the pages in digital.gov have duplicate topics after our last migration —— So we are running "uniq" on the array to remove duplicates */}}
   {{- range $i, $e := uniq (sort $topics) -}}
     {{- $slug := . -}}
 

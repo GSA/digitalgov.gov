@@ -26,11 +26,11 @@ DigitalGov&#8217;s user experience resources provide tools for federal employees
 
 **1. Usability Starter Kit**
 
-Get help creating your own usability tests, download presentations you can use, get templates and more in our [Usability Starter Kit]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}).
+Get help creating your own usability tests, download presentations you can use, get templates and more in our [Usability Starter Kit]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}}).
 
 **2. Usability Case Studies**
 
-Our [Usability Case Studies]({{< link "government-usability-case-studies.md" >}}) are filled with Before and After screenshots of government products improved by user research.
+Our [Usability Case Studies]({{< ref "government-usability-case-studies.md" >}}) are filled with Before and After screenshots of government products improved by user research.
 
 **3. API Usability Evaluation**
 
@@ -40,5 +40,5 @@ For more than a year the [API Usability Evaluations](https://pages.18f.gov/API-U
 
 See the results of our federal-wide User Experience Survey and learn about government user research trends, interests and challenges.
 
-  * 2014 [Federal User Experience Survey]({{< link "2014-11-21-results-2014-federal-user-experience-survey.md" >}})
+  * 2014 [Federal User Experience Survey]({{< ref "2014-11-21-results-2014-federal-user-experience-survey.md" >}})
   * 2013 [Federal User Experience Survey](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/2013-Federal-UX-Survey.pptx)

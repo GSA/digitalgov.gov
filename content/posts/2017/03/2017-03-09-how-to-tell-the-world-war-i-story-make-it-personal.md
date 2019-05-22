@@ -30,7 +30,7 @@ In my opinion, Option B is much more compelling. We can understand Barber’s fe
 ## Getting Started on Making it Personal:
 
 <li style="font-weight: 400">
-  <strong>Think about the profound effect World War I had on American society.</strong> It changed international relations, science and technology, music, gender roles, and race relations, among others. <a href="{{< link "2016-11-08-why-world-war-i-matters-for-your-agency.md" >}}">Many agencies in the federal government can find a connection to the Great War, but it may take a little creative thinking</a>.
+  <strong>Think about the profound effect World War I had on American society.</strong> It changed international relations, science and technology, music, gender roles, and race relations, among others. <a href="{{< ref "2016-11-08-why-world-war-i-matters-for-your-agency.md" >}}">Many agencies in the federal government can find a connection to the Great War, but it may take a little creative thinking</a>.
 </li>
 <li style="font-weight: 400">
   <strong>Find people that played a role in World War I that you can connect to your agency’s mission.</strong> More than four million Americans served, and millions more at home were connected to the war. Here are some examples of how Americans who lost their lives in the war can be connected to the bigger picture: <ul>
@@ -82,5 +82,5 @@ In my opinion, Option B is much more compelling. We can understand Barber’s fe
 These a few ways to get started on making emotional and intellectual connections with your readers about World War I. When you make your content personal, you make it memorable._**About the American Battle Monuments Commission** (ABMC):_ 
   _ABMC is a U.S. government agency charged with commemorating the service, achievements and sacrifice of the U.S. armed forces. Established by Congress in 1923, ABMC administers, operates, and maintains 26 permanent American military cemeteries and 27 federal memorials, monuments, and markers located across the globe. These cemeteries and memorials, most of which commemorate the service and sacrifice of Americans who served in World War I and World War II, are among the most beautiful and meticulously maintained shrines in the world. For more information, visit [www.abmc.gov](https://www.abmc.gov/), or connect with us on [Facebook](https://www.facebook.com/abmcpage), [YouTube](http://www.youtube.com/user/abmcvideos), or [Instagram](http://www.instagram.com/usabmc)._ _This is the second article of a 3-part series from ABMC—the others are:_
 
-  * Part I, [Why World War I Matters for Your Agency]({{< link "2016-11-08-why-world-war-i-matters-for-your-agency.md" >}})
+  * Part I, [Why World War I Matters for Your Agency]({{< ref "2016-11-08-why-world-war-i-matters-for-your-agency.md" >}})
   * Part III, _Coming soon_

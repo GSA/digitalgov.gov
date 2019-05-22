@@ -18,19 +18,19 @@ topics:
 
 {{< legacy-img src="2015/10/600-x-400-Woman-typing-on-laptop-Jupiterimages-Stockbyte-Thinkstock-86541717.jpg" alt="Woman typing on laptop." caption="" >}} 
 
-Recently, [I shared some suggestions and personal lessons learned]({{< link "2015-10-05-the-content-corner-content-management-system-considerations.md" >}}) for agencies either shopping for a new CMS or preparing to revamp their content strategy and workflow.
+Recently, [I shared some suggestions and personal lessons learned]({{< ref "2015-10-05-the-content-corner-content-management-system-considerations.md" >}}) for agencies either shopping for a new CMS or preparing to revamp their content strategy and workflow.
 
 Let’s take things one step further and focus on arguably the most important parts of your CMS: the content creator or user. Arguments can be made that content is the most important, but the user creates that content, so either way we have a tight first and second most important ranking.
 
-By applying some good [user experience]({{< link "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}) practices, you can help make your content creator&#8217;s job as easy as possible and also ensure you get the best content as efficiently as possible.
+By applying some good [user experience]({{< ref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}) practices, you can help make your content creator&#8217;s job as easy as possible and also ensure you get the best content as efficiently as possible.
 
 ## Content Contributors Are Users Too
 
-Maybe everyone else gets this and I am showing scars from bad CMS implementations in my past, but I still feel like this point cannot be made enough. In several of my past CMS implementations, the content contributors have been discounted because they are “staff” and are not given the same consideration as we would for external users completing an online form. But a CMS is essentially an online form for your internal users and its ease of use should be given the same priority as your results from an [external survey]({{< link "2014-11-10-4-tips-on-great-survey-design.md" >}}).
+Maybe everyone else gets this and I am showing scars from bad CMS implementations in my past, but I still feel like this point cannot be made enough. In several of my past CMS implementations, the content contributors have been discounted because they are “staff” and are not given the same consideration as we would for external users completing an online form. But a CMS is essentially an online form for your internal users and its ease of use should be given the same priority as your results from an [external survey]({{< ref "2014-11-10-4-tips-on-great-survey-design.md" >}}).
 
 At [my agency](http://uscourts.gov), we have recently wrapped up a project to streamline the CMS form our court HR representatives use for internal job postings.
 
-After [user interviews]({{< link "2013-06-28-6-way-to-improve-web-user-experience.md" >}}), [wireframing]({{< link "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}}) and a recent migration to a Drupal CMS, we were able to really simplify the job posting process for this group of content contributors dispersed across the country (and U.S. territories).
+After [user interviews]({{< ref "2013-06-28-6-way-to-improve-web-user-experience.md" >}}), [wireframing]({{< ref "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}}) and a recent migration to a Drupal CMS, we were able to really simplify the job posting process for this group of content contributors dispersed across the country (and U.S. territories).
 
 ## Field Names
 
@@ -70,10 +70,10 @@ Providing structure to the form fields and creating groupings of fields that mak
 
 In our job form, we leveraged Drupal’s field grouping to create clear sections dedicated to the main components of the job posting, such as contact information and court location. We also used a field grouping that would be closed by default, but could be expanded by a user if needed. This helps reduce clutter and confusing additional form fields that many of our users wouldn’t need to even see.
 
-Similar guides for the user can be created using the standard tools of [good content formatting]({{< link "2015-07-06-the-content-corner-creating-good-content-is-hard.md" >}}) such as clear headings and breaking up information in a way that improves scanning.
+Similar guides for the user can be created using the standard tools of [good content formatting]({{< ref "2015-07-06-the-content-corner-creating-good-content-is-hard.md" >}}) such as clear headings and breaking up information in a way that improves scanning.
 
-This type of attention to [content formatting]({{< link "2015-07-27-the-content-corner-supporting-your-content.md" >}}) is always critical, but I would argue that when you are providing instructions to a user it&#8217;s even more important, especially when the end result will become live content.
+This type of attention to [content formatting]({{< ref "2015-07-27-the-content-corner-supporting-your-content.md" >}}) is always critical, but I would argue that when you are providing instructions to a user it&#8217;s even more important, especially when the end result will become live content.
 
-Be sure to treat your CMS as you would any Web content or product and always seek feedback from your users. Make changes, as needed, to make their jobs a little easier and make your CMS an even greater aid in implementing a consistent [content strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
+Be sure to treat your CMS as you would any Web content or product and always seek feedback from your users. Make changes, as needed, to make their jobs a little easier and make your CMS an even greater aid in implementing a consistent [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

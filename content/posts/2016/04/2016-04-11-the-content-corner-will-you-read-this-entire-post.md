@@ -24,7 +24,7 @@ There was a book I loved as a child that featured the Sesame Street character Gr
 
 ## Facing the Harsh Truths
 
-I recently wrote about the challenges of [content metrics]({{< link "2016-03-21-the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement.md" >}}) and one specific observation stuck with me: social media shares have little connection to people reading an article. Chartbeat CEO Tony Haile bluntly stated that their metrics and research have found “[effectively no correlation between social shares and people actually reading](http://www.theverge.com/2014/2/14/5411934/youre-not-going-to-read-this).”
+I recently wrote about the challenges of [content metrics]({{< ref "2016-03-21-the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement.md" >}}) and one specific observation stuck with me: social media shares have little connection to people reading an article. Chartbeat CEO Tony Haile bluntly stated that their metrics and research have found “[effectively no correlation between social shares and people actually reading](http://www.theverge.com/2014/2/14/5411934/youre-not-going-to-read-this).”
 
 As far back as 2008 (and I still use this quote often), Jakob Nielsen broke our hearts by pointing out that [people read about 20% of all Web content](https://www.nngroup.com/articles/how-little-do-users-read/). This was only shortly after the launch of the first iPhone and the smartphone revolution that certainly reduced this amount even further. In fact, more recent studies have found content viewed via mobile social media apps is processed faster than the same content via desktop. Mobile news feed content can be [retained after only .25 seconds of exposure](http://adage.com/article/digitalnext/facebook-twitter-mobile-content-consumed-differently/302397/) according to research by Fors-Marsh, an applied research company. Yes, one quarter of a second is now a baseline unit of measure for content consumption!
 
@@ -46,7 +46,7 @@ When I say we don’t, I don’t mean we throw up our hands and become Luddites.
 
 When you think about it, a large influence on how we write for the Web was Nielsen’s 20% estimate that crystallized how people’s reading habits changed as the medium shifted online.
 
-Writing for this 20% includes [tips I have mentioned before]({{< link "tag/the-content-corner" >}}):
+Writing for this 20% includes [tips I have mentioned before]({{< ref "/topics/the-content-corner" >}}):
 
   * Clear and concise headlines are critical to grabbing a user’s attention
   * Bulleted lists are easily ingested by a scanning reader
@@ -114,10 +114,10 @@ And let’s be honest, getting some users to quickly scan our content is going t
 
 Patel and many others stress the importance of making sure every post or piece of content is focused solely on helping a user solve a problem. And I agree that a great deal of your content needs to be developed with that in mind, though I guess at times I fail to practice what I preach.
 
-Variance is allowed on platforms such as a blog where you not only provide answers or guidance or expertise, but you do it with a certain [voice and style]({{< link "2015-04-20-the-content-corner-finding-your-voice.md" >}}). Readers may connect with the combination of your personality and the issues you share and discuss. Those who scan may not care about your pithy remarks or thin, geekish veneer, but others will be drawn to whatever helps you stand out.
+Variance is allowed on platforms such as a blog where you not only provide answers or guidance or expertise, but you do it with a certain [voice and style]({{< ref "2015-04-20-the-content-corner-finding-your-voice.md" >}}). Readers may connect with the combination of your personality and the issues you share and discuss. Those who scan may not care about your pithy remarks or thin, geekish veneer, but others will be drawn to whatever helps you stand out.
 
-When I discuss topics like this I wonder if our own concern for voice or style is all that separates us from the [algorithms]({{< link "2015-08-03-the-content-corner-rise-of-the-machines.md" >}}) or from creating Web content with no narrative structure but just chunks of information stripped to its most basic and digestible form. This seems like my idea of efficient content gone haywire and breaks the balance of creating content for the scanner and the dedicated reader.
+When I discuss topics like this I wonder if our own concern for voice or style is all that separates us from the [algorithms]({{< ref "2015-08-03-the-content-corner-rise-of-the-machines.md" >}}) or from creating Web content with no narrative structure but just chunks of information stripped to its most basic and digestible form. This seems like my idea of efficient content gone haywire and breaks the balance of creating content for the scanner and the dedicated reader.
 
 Did you make it this far? If so, I hope it was worth your while and hopefully you can strike that balance between straightforward content that is scannable, but is also rich enough to attract and maintain a more invested reader base. Always think about stripping away 80% of anything you post and look at whether or not what’s left gets your main point across. If it doesn’t, revisit the techniques shared here. See if you can improve your summary or key points—or just keep warning people about the monster at the end of your post.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

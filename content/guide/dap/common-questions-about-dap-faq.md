@@ -12,7 +12,7 @@ aliases:
   - /services/dap/common-questions-about-dap-faq/
 ---
 
-**This guidance is part of the [Digital Analytics Program]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program") (DAP): Support to Help Agencies Implement the Tool. [See more on the DAP]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program").**
+**This guidance is part of the [Digital Analytics Program]({{< ref "/services/service_dap.md" >}} "DAP: Digital Analytics Program") (DAP): Support to Help Agencies Implement the Tool. [See more on the DAP]({{< ref "/services/service_dap.md" >}} "DAP: Digital Analytics Program").**
 
 
 
@@ -49,7 +49,7 @@ Yes. The government-wide analytics code is sensitive to the Google Analytics cod
 
 ### Q. Will the code affect other analytics code running on my site, such as WebTrends, WebTrends Live, SiteCatalyst or Urchin?
 
-The code will not interfere at all with WebTrends, WebTrends Live, SiteCatalyst, and it synchronizes itself with Urchin. Learn more about [incorporating the DAP tool into your current metrics program]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program").
+The code will not interfere at all with WebTrends, WebTrends Live, SiteCatalyst, and it synchronizes itself with Urchin. Learn more about [incorporating the DAP tool into your current metrics program]({{< ref "/services/service_dap.md" >}} "DAP: Digital Analytics Program").
 
 ### Q. If the government-wide tracking code suffers an error, will the code stop other code from running?
 
@@ -64,7 +64,7 @@ The only issue is customizations that affect:
   * Use _setDomain with a leading period
   * Use the old Urchin tracking code
 
-The current deployment is designed to insulate itself from and be unobtrusive to existing implementations. The government-wide tool looks at the existing cookies and adjusts its own configuration to match the existing GA code configuration. The only caveat is if your existing customizations changed cookie timeout periods. In these unusual cases, this code will write to the same cookies with the standard timeout periods. Learn more about [incorporating the DAP tool into your current metrics program]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program").
+The current deployment is designed to insulate itself from and be unobtrusive to existing implementations. The government-wide tool looks at the existing cookies and adjusts its own configuration to match the existing GA code configuration. The only caveat is if your existing customizations changed cookie timeout periods. In these unusual cases, this code will write to the same cookies with the standard timeout periods. Learn more about [incorporating the DAP tool into your current metrics program]({{< ref "/services/service_dap.md" >}} "DAP: Digital Analytics Program").
 
 ### Q. What kind of testing was done to ensure that the code doesn’t cause conflicts with other script-based code already in use?
 
@@ -76,7 +76,7 @@ Yes, DAP code can track HTTPS websites and webpages. The current DAP GA code ser
 
 ### Q. For agencies who have a “legacy” metrics program (e.g. Urchin), is there a way to pull in some of that historical data (log files) into our new profile so that we can continue to compare current performance with historical data? Or do we need to just save that data somewhere else?
 
-No, there is no way to import legacy/historical data or log files into the Government-wide, agency-specific profile. The goal of the Gov-wide, GA collection is to provide consistent tracking methodology for Web traffic data, using the same Web analytics tool. Mixing new GA data with historical data from other Web analytics tools will create inaccurate and misleading trends. Learn more about [incorporating the DAP tool into your current metrics program]({{< link "service_dap.md" >}} "DAP: Digital Analytics Program").
+No, there is no way to import legacy/historical data or log files into the Government-wide, agency-specific profile. The goal of the Gov-wide, GA collection is to provide consistent tracking methodology for Web traffic data, using the same Web analytics tool. Mixing new GA data with historical data from other Web analytics tools will create inaccurate and misleading trends. Learn more about [incorporating the DAP tool into your current metrics program]({{< ref "/services/service_dap.md" >}} "DAP: Digital Analytics Program").
 
 ### Q. Can the DAP GA code be deployed on internal agency websites (available only for internal employees)?
 
@@ -114,13 +114,13 @@ No. The gov-wide Google Analytics code is designed to collect data in a consiste
 
 In the last several years, Google Analytics has grown to serve not just individual users and websites, but also entire corporations and government agencies. With that, it has gone through a series of transformations, and its reporting and development evolved. To continue to enhance its future feature development and tracking, and to provide more flexibility for customization, Google decided to gradually phase out its classic ga.js code and to start using its brand new Universal Analytics (UA) tracking code. Universal Analytics (also known as analytics.js) is now the operating standard for Google Analytics.
 
-If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions]({{< link "analytics-tool-instructions.md" >}}) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
+If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions]({{< ref "analytics-tool-instructions.md" >}}) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
 
 ### Q. What&#8217;s the difference between classic GA and Universal Analytics (UA)?
 
 Compared to the classic GA (ga.js), UA gives GA users more control over tracking settings (e.g. session timeouts, campaign timeouts, exclusion of referrals, addition of search engines, removal of certain search terms etc.). UA also gives users the ability to create custom dimensions and custom metrics (in the current classic GA, users can only create custom variables), and other customization enhancements.
 
-If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions]({{< link "analytics-tool-instructions.md" >}}) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
+If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions]({{< ref "analytics-tool-instructions.md" >}}) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
 
 ## Data Access, Retention and Privacy
 
@@ -174,7 +174,7 @@ We recommend adding the following language:
 >   * [Cookies & Google Analytics on Websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
 >   * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
 
-See [this notice]({{< link "policies.md" >}}) on our Site Policies page.
+See [this notice]({{< ref "policies.md" >}}) on our Site Policies page.
 
 ## Reporting
 
@@ -225,11 +225,11 @@ GSA has negotiated federal friendly Terms of Service with the following tools th
   * [SurveyMonkey](http://www.surveymonkey.com/)
   * [UserVoice](http://www.uservoice.com/)
 
-Take a look at the process for [signing the terms and using the tool]({{< link "/guide/terms-of-service/_index.md" >}} "Federal-Compatible Terms of Service Agreements") and talk to [your agency POC]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements").
+Take a look at the process for [signing the terms and using the tool]({{< ref "/guide/terms-of-service/_index.md" >}} "Federal-Compatible Terms of Service Agreements") and talk to [your agency POC]({{< ref "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements").
 
 ### Q. Is there exact wording for the Customer Satisfaction questions? Should it be exactly what’s outlined in the DAP Metrics Guidance under the Customer Satisfaction Metrics Section?
 
-The [Digital Metrics guidance]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}} "DAP: Digital Metrics Guidance and Best Practices") provides suggested wording for gathering the four core customer satisfaction measures. This wording is based on research and is a common way that these measures are collected. You do not need to use this exact wording. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [
+The [Digital Metrics guidance]({{< ref "dap-digital-metrics-guidance-and-best-practices.md" >}} "DAP: Digital Metrics Guidance and Best Practices") provides suggested wording for gathering the four core customer satisfaction measures. This wording is based on research and is a common way that these measures are collected. You do not need to use this exact wording. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [
   ](http://www.howto.gov/web-content/digital-metrics#customer-satisfaction-metrics)
 
 ### Q. How should we report the Customer Satisfaction Metrics?
@@ -243,7 +243,7 @@ For Customer Satisfaction:
 
 ### Q. How should we structure the data? Open ended? Numeric scale?
 
-The data you report should be structured and quantitative. Don’t report the open ended answers to questions. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [See the guidance on customer satisfaction metrics.]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}}"Digital Metrics for Federal Agencies")
+The data you report should be structured and quantitative. Don’t report the open ended answers to questions. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [See the guidance on customer satisfaction metrics.]({{< ref "dap-digital-metrics-guidance-and-best-practices.md" >}}"Digital Metrics for Federal Agencies")
 
 ### Q. How frequently should we be prompting for a survey?
 

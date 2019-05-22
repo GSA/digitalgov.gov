@@ -18,4 +18,4 @@ There are a couple of significant facts from those who CAN remember;
   * Almost half of people surveyed, said it had been an hour or less since they last had their phone nearby.
   * Less than a fifth of those surveyed had not had their phone in earshot in 3 hours or more.
 
-Mobile is prevalent in people&#8217;s daily lives, but this information suggests mobile devices are becoming an afterthought. As people become more used to consuming information from mobile devices, agencies need to adopt a [mobile first]({{< link "2013-09-30-mobile-first.md" >}} "Mobile First") approach in order to connect with them anytime, anywhere.
+Mobile is prevalent in people&#8217;s daily lives, but this information suggests mobile devices are becoming an afterthought. As people become more used to consuming information from mobile devices, agencies need to adopt a [mobile first]({{< ref "2013-09-30-mobile-first.md" >}} "Mobile First") approach in order to connect with them anytime, anywhere.

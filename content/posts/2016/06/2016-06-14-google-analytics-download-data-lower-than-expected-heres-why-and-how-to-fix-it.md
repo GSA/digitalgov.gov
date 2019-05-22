@@ -13,7 +13,7 @@ topics:
   - metrics
 ---
 
-What’s the best way to track file downloads in Google Analytics? Will the [Digital Analytics Program]({{< link "service_dap.md" >}}) (DAP) help me track PDF/.doc/.xls downloads? Are my download numbers accurate? Why aren’t my file downloads appearing in the web analytics data? {{< legacy-img src="2016/06/600-x-400-Download-f-dalgic-iStock-Thinkstock-481014627.jpg" alt="Download screen on a mobile phone." caption="" >}} 
+What’s the best way to track file downloads in Google Analytics? Will the [Digital Analytics Program]({{< ref "/services/service_dap.md" >}}) (DAP) help me track PDF/.doc/.xls downloads? Are my download numbers accurate? Why aren’t my file downloads appearing in the web analytics data? {{< legacy-img src="2016/06/600-x-400-Download-f-dalgic-iStock-Thinkstock-481014627.jpg" alt="Download screen on a mobile phone." caption="" >}} 
 
 The answers to these questions aren’t abundantly clear to even seasoned web analysts. But here’s the good news: If your site uses DAP, we’ve done the hard work, and our code records file downloads on your web pages by default! That said, sometimes people come to us and say “I KNOW my PDF file has been viewed a lot, but the analytics don’t say that.”
 

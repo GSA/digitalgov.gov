@@ -16,7 +16,7 @@ topics:
 
 Did this week&#8217;s polar vortex wreak havoc on your heating and cooling system? Maybe now you&#8217;re in the hunt for a new furnace or looking for more efficient ways to keep warm?
 
-Just in time for the epic deep freeze, the team at the [Department of Energy](http://energy.gov/about-us) has created a much improved web experience for users of their Energy Saver and other popular programs with the launch of a shiny new version of [Energy.gov](http://energy.gov/) built with the latest in [responsive design]({{< link "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") functionality.
+Just in time for the epic deep freeze, the team at the [Department of Energy](http://energy.gov/about-us) has created a much improved web experience for users of their Energy Saver and other popular programs with the launch of a shiny new version of [Energy.gov](http://energy.gov/) built with the latest in [responsive design]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") functionality.
 
 Whether on a smartphone, tablet or desktop computer, now you&#8217;ll get optimized browsing on Energy.gov, a hub for a host of DOE products and services including:
 

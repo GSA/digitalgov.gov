@@ -29,4 +29,4 @@ This Appendix describes agency responsibilities for implementing the reporting a
 
 * * *
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

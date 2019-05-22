@@ -51,7 +51,7 @@ topics:
     </p>
 
 <p dir="ltr">
-  Also, the we recently featured a post &#8220;<a title="Key to Successful Prize Competitions: Define Your Problem Statement" href="{{< link "2013-11-13-key-to-successful-prize-competitions-define-your-problem-statement.md" >}}">Key to Successful Prize Competitions: Define your Problem Statement</a>,&#8221; highlighting how failing to properly define your problem up front can result in lower participation and submissions that don’t actually solve your issue.
+  Also, the we recently featured a post &#8220;<a title="Key to Successful Prize Competitions: Define Your Problem Statement" href="{{< ref "2013-11-13-key-to-successful-prize-competitions-define-your-problem-statement.md" >}}">Key to Successful Prize Competitions: Define your Problem Statement</a>,&#8221; highlighting how failing to properly define your problem up front can result in lower participation and submissions that don’t actually solve your issue.
 </p>
 
 <p dir="ltr">

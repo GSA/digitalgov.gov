@@ -80,7 +80,7 @@ The second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov
   </tr>
 </table>
 
-“Open” was the theme of the 2015 Summit which featured a select line up of speakers from across the federal government and covered [diverse topics that were voted on using a crowdsourcing platform]({{< link "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}}) and reviewed by the [Summit Sounding Board](https://summit.digitalgov.gov/summit-sounding-board/). Topics included privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, [public participation](https://participation.usa.gov/), open customer experience and more.The full Summit video, including the exclusive livestream interviews, is now available.
+“Open” was the theme of the 2015 Summit which featured a select line up of speakers from across the federal government and covered [diverse topics that were voted on using a crowdsourcing platform]({{< ref "2014-12-15-crowdsourced-digital-citizen-services-summit.md" >}}) and reviewed by the [Summit Sounding Board](https://summit.digitalgov.gov/summit-sounding-board/). Topics included privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, [public participation](https://participation.usa.gov/), open customer experience and more.The full Summit video, including the exclusive livestream interviews, is now available.
 
 [youtube https://www.youtube.com/watch?v=nvB1udoMKfM&w=600]
 

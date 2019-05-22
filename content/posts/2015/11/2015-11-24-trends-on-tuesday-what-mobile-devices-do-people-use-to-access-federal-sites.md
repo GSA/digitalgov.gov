@@ -15,7 +15,7 @@ topics:
   - trends-on-tuesday
 ---
 
-Mobile users of government websites are [growing in double digit percentages]({{< link "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}) and will likely soon become the [majority](http://marketingland.com/report-half-top-100-digital-properties-audiences-are-now-mobile-only-135353).
+Mobile users of government websites are [growing in double digit percentages]({{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}) and will likely soon become the [majority](http://marketingland.com/report-half-top-100-digital-properties-audiences-are-now-mobile-only-135353).
 
 For some recent internal project research, I dove into some of the [federal government-wide analytics](http://analytics.usa.gov) looking at mobile usage and found a few interesting tidbits to share:
 
@@ -35,6 +35,6 @@ For some recent internal project research, I dove into some of the [federal gove
   <b>Screen resolutions are incredibly fragmented.</b> While Apple’s small product offering of one phone per year helps establish standards, after you leave the comfort of the five resolutions from the last five Apple phones, there’s an infinite long tail of device screen sizes.
 </li>
 
-I should note: This doesn’t include all government websites, just federal ones using the [Digital Analytics Program]({{< link "service_dap.md" >}}) (DAP). For a sampling of the government agencies included and a high level overview, check out [analytics.usa.gov](https://analytics.usa.gov/).
+I should note: This doesn’t include all government websites, just federal ones using the [Digital Analytics Program]({{< ref "/services/service_dap.md" >}}) (DAP). For a sampling of the government agencies included and a high level overview, check out [analytics.usa.gov](https://analytics.usa.gov/).
 
 While I compared one year and three month data for different purposes, this post focused on the most recent three month data since phones are upgraded fairly frequently—sometimes annually, for people who are particularly clumsy, or for those using U.S. cell providers that offer annual upgrades. Using one year data gives a bigger picture—especially for things like tax season, when the IRS is frequently at the top of [analytics.usa.gov](https://analytics.usa.gov/)—but the accuracy of the data quickly decays, as Apple releases new devices and OS versions in the fall and Android manufacturers churn out new phones year-round. {{< legacy-img src="2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="" >}}
