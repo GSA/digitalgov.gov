@@ -77,6 +77,14 @@ permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
 
+related:
+  threshold: 100
+  includeNewer: false
+  toLower: false
+  indices:
+  - name: topics
+    weight: 100
+
 pluralizelisttitles     : false
 
 menu:
