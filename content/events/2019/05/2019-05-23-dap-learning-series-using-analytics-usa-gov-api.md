@@ -8,8 +8,8 @@ featured_image:
   alt: ''
 event_type:
   - zoom
-date: 2019-05-23 14:00:00
-end_date: 2019-05-23 15:00:00
+date: 2019-05-23 14:00:00 -0400
+end_date: 2019-05-23 15:00:00 -0400
 event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-using-the-analyticsusagov-api-registration-59346385637
