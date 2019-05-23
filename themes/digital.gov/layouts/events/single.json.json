@@ -76,6 +76,9 @@
       {{- if (isset .Params "youtube_id") -}}
       "youtube_id" : "{{- .Params.youtube_id -}}",
       {{- end -}}
+      {{- if (isset .Params "zoom_id") -}}
+      "zoom_id" : "{{- .Params.zoom_id -}}",
+      {{- end -}}
       {{- if (isset .Params "authors") -}}
         {{- $_authors := .Params.authors -}}
         {{- $length := $_authors | len -}}
