@@ -20,7 +20,7 @@ registration_url: https://www.eventbrite.com/e/us-web-design-system-may-open-off
 
 Visit [zoom.us](https://zoom.us) to learn more or [download & run Zoom](https://zoom.us/download). If you cannot download or run the application, [join from your browser](https://zoom.us/j/365531070).
 
-Dial by your location:<br/>
+Optional: Dial by phone<br/>
 +1-646-876-9923 US (New York) / +1-669-900-6833 US (San Jose)<br/>
 Meeting ID: `365 531 070`
 {{< /box >}}
