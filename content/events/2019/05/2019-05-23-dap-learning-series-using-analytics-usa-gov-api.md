@@ -20,8 +20,7 @@ topics:
   - analytics
   - dap
   - digital-analytics-program
-
-zoom_url: https://zoom.us/j/137833785
+zoom_id: 137833785
 
 ---
 

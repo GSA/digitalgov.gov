@@ -10,7 +10,7 @@ end_date: 2019-05-23 15:30:00 -0500
 event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/us-web-design-system-may-open-office-hours-registration-62047830732
-zoom_url: https://zoom.us/j/365531070
+zoom_id: 365531070
 
 ---
 
