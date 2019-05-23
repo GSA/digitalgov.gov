@@ -17,11 +17,13 @@ zoom_url: https://zoom.us/j/137833785
 ---
 
 {{< box >}}
-
 **This event will be held over Zoom.** At the time of the event, click here to join: https://zoom.us/j/137833785
 
 Visit [zoom.us](https://zoom.us) to learn more or [download & run Zoom](https://zoom.us/download). If you cannot download or run the application, [join from your browser](https://zoom.us/j/137833785).
 
+Dial by your location:<br/>
++1-646-876-9923 US (New York) / +1-669-900-6833 US (San Jose)<br/>
+Meeting `ID: 137 833 785`
 {{< /box >}}
 
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993561&CustomerID=321)_
