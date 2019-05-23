@@ -3,7 +3,7 @@
 {{- $length := (len $list) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
-    "content" : "page",
+    "content" : "{{- .Type -}}",
     "type" : "single",
     "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} |  {{- end -}} {{- .Site.Title -}} {{- end -}}",
     "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
