@@ -112,7 +112,7 @@
       <div class="grid-container grid-container-desktop" data-edit-this="{{- .File.Path -}}">
         <div class="grid-row grid-gap-4">
           <div class="grid-col-12 tablet:grid-col-9">
-            {{- if eq .Params.event_platform "zoom" -}}
+            {{- if .Params.zoom_url -}}
               {{/* If is a Future Event */}}
               {{- if eq $future_event true -}}
                 {{- .Render "stage-zoom" -}}
