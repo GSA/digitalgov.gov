@@ -33,8 +33,6 @@ Join us for our next monthly call on **Friday, August 24, 2018 at 1:00 pm ET / 1
 
 This month, the U.S. Web Design System team will show you how to get started with USWDS 2.0: how to set up your project colors, fonts, and more.
 
-_NOTE: This event will be held over [Zoom](https://zoom.us/j/350777429). On the day of the event, [visit this link](https://zoom.us/j/350777429) to verify that you're set up with Zoom before the start of the event._
-
 **Coming in USWDS 2.0**
 
 - Practical, accessible color system
