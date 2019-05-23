@@ -42,12 +42,10 @@
       "date_modified" : "{{- .LastMod.Format "2006-01-02T15:04:05Z07:00" -}}",
       {{- end -}}
       {{- with .Date -}}
-      "start_date" : "{{ . | dateFormat "Monday, January 02, 2006" }}",
-      "start_time" : "{{ . | dateFormat "3:04 PM" }}",
+      "start_date" : "{{ . | dateFormat "2006-01-02T15:04:05Z07:00" }}",
       {{- end -}}
       {{- with .Params.end_date -}}
-      "end_date" : "{{ . | dateFormat "Monday, January 02, 2006" }}",
-      "end_time" : "{{ . | dateFormat "3:04 PM ET" }}",
+      "end_date" : "{{ . | dateFormat "2006-01-02T15:04:05Z07:00" }}",
       {{- end -}}
       {{ $data := $.Site.Data.events }}
       {{ if (isset .Params "event_type") }}
