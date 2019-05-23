@@ -36,6 +36,8 @@ In this webinar, attendees will be introduced to the analytics.usa.gov API and h
 
 Of note, this training is not a training specifically on APIs in general. The team will briefly cover what an API is and how they work, but it will not be an an-depth look at APIs themselves.
 
+_[View the slides from this presentation](https://digital.gov/pdf/dap-using-analytics-usa-gov-api.pdf) (PDF 372KB)._
+
 ---
 
 _The Digital Analytics Program (DAP) offers advanced, easy web analytics to federal agencies. DAP is run by the Office of Products and Programs in the U.S. General Services Administration (GSA)._

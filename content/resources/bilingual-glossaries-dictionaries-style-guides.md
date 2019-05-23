@@ -41,6 +41,8 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 The Bureau updated the [Glossary of English-Spanish Financial Terms](https://s3.amazonaws.com/files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf) (505 kb, PDF, 76 pages) with additional terminology compiled from other agencies and entities.
 
+[Glossary of English-Chinese Financial Terms](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf) (PDF, 1.5 MB, 71 pages)
+
 #### Federal Housing Finance Agency (FHFA)
 
 FHFA (along with partner agencies) has created a searchable [English-Spanish Glossary of Mortgage Translations](https://www.fhfa.gov/MortgageTranslations/Pages/glossary.aspx). Glossaries in other languages are planned for the future.
@@ -64,7 +66,8 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 - [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://www.minorityhealth.hhs.gov/OMHRC/) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
 - The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers two PDF files to download:
    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
-   - [Some Frequently Mistranslated English Terms](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary).
+   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages).
+
 
 
 ### General Terminology

@@ -1,7 +1,7 @@
 ---
 slug: 2019-virtual-student-federal-service-vsfs-info-session
 title: '2019 Virtual Student Federal Service &#40;VSFS&#41; Info Session'
-summary: 'A quick overview of how your agency can participate in this year’s VSFS program&#46;'
+summary: 'An overview of how your agency can participate in this year’s VSFS program&#46;'
 featured_image:
   uid: vsfs-card
   alt: ''

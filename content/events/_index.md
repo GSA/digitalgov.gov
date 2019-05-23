@@ -1,8 +1,8 @@
 ---
 url: /events/
-date: 2019-05-07 20:00:00 -0400
-title: "Upcoming Events"
-deck: "Online and in-person training and events for people in government"
-summary: "Online and in-person training and events for people in government"
-
+date: 2018-03-27 10:04:09 -0400
+title: Events
+summary: ''
+aliases:
+  - /event/
 ---

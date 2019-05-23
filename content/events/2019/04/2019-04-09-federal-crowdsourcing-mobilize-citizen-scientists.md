@@ -21,7 +21,7 @@ youtube_id: Kx1kSJ4y-7s
 
 ---
 
-_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3953097&CustomerID=321)_
+_[View the slides from this presentation](https://digital.gov/pdf/ep1-challengegov.pdf) (PDF 10.5MB)._
 
 This is the first installment in GSA’s Federal Crowdsourcing Webinar Series. You will hear how federal agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 
