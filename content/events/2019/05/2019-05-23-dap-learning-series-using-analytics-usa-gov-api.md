@@ -14,17 +14,6 @@ youtube_id: N6cFKcPK8PU
 
 ---
 
-{{< box >}}
-**This event will be held over Zoom.** At the time of the event, click here to join: https://zoom.us/j/137833785
-
-Visit [zoom.us](https://zoom.us) to learn more or [download & run Zoom](https://zoom.us/download). If you cannot download or run the application, [join from your browser](https://zoom.us/j/137833785).
-
-Optional: Dial by phone<br/>
-`+1-646-876-9923` US (New York) / `+1-669-900-6833` US (San Jose)<br/>
-Meeting `ID: 137 833 785`
-{{< /box >}}
-
-
 Learn how [analytics.usa.gov](analytics.usa.gov), the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats outside of the Google Analytics interface.
 
 In this webinar, attendees will be introduced to the analytics.usa.gov API and how to query it for data.  Attendees will learn:
