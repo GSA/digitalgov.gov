@@ -5,28 +5,14 @@ summary: 'Learn how Analytics.usa.gov, the public window into how the public int
 featured_image:
   uid:
   alt: ''
-event_type:
-  - zoom
 date: 2019-05-23 14:00:00 -0500
 end_date: 2019-05-23 15:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-using-the-analyticsusagov-api-registration-59346385637
-zoom_url: https://zoom.us/j/137833785
+youtube_id: N6cFKcPK8PU
 
 ---
-
-{{< box >}}
-**This event will be held over Zoom.** At the time of the event, click here to join: https://zoom.us/j/137833785
-
-Visit [zoom.us](https://zoom.us) to learn more or [download & run Zoom](https://zoom.us/download). If you cannot download or run the application, [join from your browser](https://zoom.us/j/137833785).
-
-Optional: Dial by phone<br/>
-`+1-646-876-9923` US (New York) / `+1-669-900-6833` US (San Jose)<br/>
-Meeting `ID: 137 833 785`
-{{< /box >}}
-
-_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993561&CustomerID=321)_
 
 Learn how [analytics.usa.gov](analytics.usa.gov), the public window into how the public interacts with federal government websites, uses an API and allows you to query data in machine-readable formats outside of the Google Analytics interface.
 
