@@ -1,6 +1,6 @@
 ---
 slug: us-government-open-innovation-summit-transformation-through-citizen-science-prize-competitions
-title: 'U&#46;S&#46; Government Open Innovation Summit&#58; Transformation Through Citizen Science and Prize Competitions'
+title: "U.S. Government Open Innovation Summit&#58; Transformation Through Citizen Science and Prize Competitions"
 summary: 'Engage in a series of exciting dialogues on how the public is helping to reshape government&#46;'
 featured_image: 
   uid: 
