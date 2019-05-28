@@ -20,17 +20,23 @@
     {{- if .Params.last_name -}}
     "last_name" : "{{- .Params.last_name -}}",
     {{- end -}}
+    {{- if .Params.pronoun -}}
+    "pronoun" : "{{- .Params.pronoun -}}",
+    {{- end -}}
     {{- if .Params.uid -}}
     "uid" : "{{- .Params.uid -}}",
     {{- end -}}
     {{- if .Params.email -}}
     "email" : "{{- .Params.email -}}",
     {{- end -}}
+    {{- if .Params.location -}}
+    "location" : "{{- .Params.location -}}",
+    {{- end -}}
     {{- if .Params.bio -}}
     "bio" : "{{- .Params.bio -}}",
     {{- end -}}
-    {{- if .Params.location -}}
-    "location" : "{{- .Params.location -}}",
+    {{- if .Params.bio_url -}}
+    "bio_url" : "{{- .Params.bio_url -}}",
     {{- end -}}
     {{- if .Params.agency -}}
     "agency" : "{{- .Params.agency -}}",
@@ -40,6 +46,9 @@
     {{- end -}}
     {{- if .Params.github -}}
     "github" : "{{- .Params.github -}}",
+    {{- end -}}
+    {{- if .Params.profile_source -}}
+    "profile_source" : "{{- .Params.profile_source -}}",
     {{- end -}}
     {{- if .Params.twitter -}}
     "twitter" : "{{- .Params.twitter -}}",
