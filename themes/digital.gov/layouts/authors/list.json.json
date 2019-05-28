@@ -11,56 +11,54 @@
     "feed_url" : "{{- .Permalink -}}",
     {{- end -}}
     "profile_url" : "{{- .Permalink -}}",
-    {{/* Lets look up the author data, based on the UID. Should equal the filename */}}
-    {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $.Data.Term) -}}
-    {{- if $author.Params.display_name -}}
-    "display_name" : "{{- $author.Params.display_name -}}",
+    {{- if .Params.display_name -}}
+    "display_name" : "{{- .Params.display_name -}}",
     {{- end -}}
-    {{- if $author.Params.first_name -}}
-    "first_name" : "{{- $author.Params.first_name -}}",
+    {{- if .Params.first_name -}}
+    "first_name" : "{{- .Params.first_name -}}",
     {{- end -}}
-    {{- if $author.Params.last_name -}}
-    "last_name" : "{{- $author.Params.last_name -}}",
+    {{- if .Params.last_name -}}
+    "last_name" : "{{- .Params.last_name -}}",
     {{- end -}}
-    {{- if $author.Params.uid -}}
-    "uid" : "{{- $author.Params.uid -}}",
+    {{- if .Params.uid -}}
+    "uid" : "{{- .Params.uid -}}",
     {{- end -}}
-    {{- if $author.Params.email -}}
-    "email" : "{{- $author.Params.email -}}",
+    {{- if .Params.email -}}
+    "email" : "{{- .Params.email -}}",
     {{- end -}}
-    {{- if $author.Params.bio -}}
-    "bio" : "{{- $author.Params.bio -}}",
+    {{- if .Params.bio -}}
+    "bio" : "{{- .Params.bio -}}",
     {{- end -}}
-    {{- if $author.Params.location -}}
-    "location" : "{{- $author.Params.location -}}",
+    {{- if .Params.location -}}
+    "location" : "{{- .Params.location -}}",
     {{- end -}}
-    {{- if $author.Params.agency -}}
-    "agency" : "{{- $author.Params.agency -}}",
+    {{- if .Params.agency -}}
+    "agency" : "{{- .Params.agency -}}",
     {{- end -}}
-    {{- if $author.Params.agency_full_name -}}
-    "agency_full_name" : "{{- $author.Params.agency_full_name -}}",
+    {{- if .Params.agency_full_name -}}
+    "agency_full_name" : "{{- .Params.agency_full_name -}}",
     {{- end -}}
-    {{- if $author.Params.github -}}
-    "github" : "{{- $author.Params.github -}}",
+    {{- if .Params.github -}}
+    "github" : "{{- .Params.github -}}",
     {{- end -}}
-    {{- if $author.Params.twitter -}}
-    "twitter" : "{{- $author.Params.twitter -}}",
+    {{- if .Params.twitter -}}
+    "twitter" : "{{- .Params.twitter -}}",
     {{- end -}}
-    {{- if $author.Params.facebook -}}
-    "facebook" : "{{- $author.Params.facebook -}}",
+    {{- if .Params.facebook -}}
+    "facebook" : "{{- .Params.facebook -}}",
     {{- end -}}
-    {{- if $author.Params.linkedin -}}
-    "linkedin" : "{{- $author.Params.linkedin -}}",
+    {{- if .Params.linkedin -}}
+    "linkedin" : "{{- .Params.linkedin -}}",
     {{- end -}}
-    {{- if $author.Params.youtube -}}
-    "youtube" : "{{- $author.Params.youtube -}}",
-    {{- end -}},
+    {{- if .Params.youtube -}}
+    "youtube" : "{{- .Params.youtube -}}",
+    {{- end -}}
     "branch" : {{ $.Scratch.Get "branch" | jsonify }},
     "filename" : {{ .File.LogicalName | jsonify }},
     "filepath" : {{ .File.Path | jsonify }},
     "filepathURL" : {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path | jsonify }},
     "editpathURL" : {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path | jsonify }},
-    "url" : "{{- .Permalink -}}"
+    "url" : "{{- .Permalink -}}",
     "items" : [
     {{- range $index, $element := $list -}}
     {
@@ -86,9 +84,9 @@
             {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
             {{- with $author -}}
               {{- if lt (add $i 1) $length -}}
-                "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}",
+                "{{- $uid -}}" : "{{- .Params.display_name | default $uid }}",
               {{- else -}}
-                "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}"
+                "{{- $uid -}}" : "{{- .Params.display_name | default $uid }}"
               {{- end -}}
             {{- end -}}
           {{- end -}}
