@@ -1,6 +1,6 @@
 ---
 slug: mobile-application-development-program-webinar-and-wikithon-tomorrow
-date: 2013-05-29 10:00:43 -0400
+date: 2013-05-29 10:00:00
 title: Mobile Application Development Program Webinar and Wikithon Tomorrow!
 summary: ' Anytime, anywhere government information and services are becoming more important as the public increasingly consumes information and services on the go. As we announced last week, agencies can now get assistance with their mobile development efforts with our new Mobile Application Development Program. Tomorrow, we will host'
 authors:

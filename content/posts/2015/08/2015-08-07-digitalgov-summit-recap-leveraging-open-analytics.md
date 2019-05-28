@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-summit-recap-leveraging-open-analytics
-date: 2015-08-07 11:10:54 -0400
+date: 2015-08-07 11:10:00
 title: 'DigitalGov Summit Recap: Leveraging Open Analytics'
 summary: 'Seven million dollars is a big price tag. That is the amount Forbes predicts organizations will spend on analytics-related initiatives in 2015, according to a recent report. While government agencies may not have big budgets for data analysis, we do have tons of data&mdash;survey data, usability data, campaign data&mdash;that should be leveraged to drive decisions.'
 authors:

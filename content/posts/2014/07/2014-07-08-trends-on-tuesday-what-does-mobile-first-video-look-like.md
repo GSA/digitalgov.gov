@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-what-does-mobile-first-video-look-like
-date: 2014-07-08 1:39:53 -0400
+date: 2014-07-08 1:39:00
 title: 'Trends on Tuesday: What Does Mobile-First Video Look Like?'
 summary: 'Like many Americans during the last month, I developed FIFA fever. Checking on scores, anticipating the latest Google Doodle and watching game highlights became part of my daily iPhone routine. Despite the elimination of Team U.S.A, mobile video consumption continues to win new fans. Consider these mobile video viewing statistics: On average, consumers spend 33 minutes'
 authors:

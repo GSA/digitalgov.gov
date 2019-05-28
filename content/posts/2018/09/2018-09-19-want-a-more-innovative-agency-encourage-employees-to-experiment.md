@@ -1,6 +1,6 @@
 ---
 slug: want-a-more-innovative-agency-encourage-employees-to-experiment
-date: 2018-09-19 10:12:00 -0500
+date: 2018-09-19 10:12:00
 title: 'Want a More Innovative Agency&#63; Encourage Employees to Experiment'
 summary: 'How agency leaders can create a work environment that fosters innovation via creativity and experimentation&#46;'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: usability-and-accessibility-looking-at-user-experience-through-two-lenses
-date: 2013-08-30 8:31:17 -0400
+date: 2013-08-30 8:31:00
 title: Looking at User Experience through Two Lenses
 summary: 'Usability and accessibility are slightly different lenses to assess user experience. It is possible to be strong in one area and weak in the other. Using either approach alone could result in an inaccurate view of your site’s user experience. Evaluating your website with both usability and accessibility in mind gives all users the best'
 authors:

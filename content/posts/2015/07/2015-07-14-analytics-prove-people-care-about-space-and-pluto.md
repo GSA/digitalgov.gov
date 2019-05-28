@@ -1,6 +1,6 @@
 ---
 slug: analytics-prove-people-care-about-space-and-pluto
-date: 2015-07-14 11:48:43 -0400
+date: 2015-07-14 11:48:00
 title: Analytics Prove People Care About Space (and Pluto!)
 summary: 'Despite the fact that Pluto has been downgraded to a &#8220;dwarf planet&#8221;,  the analytics of federal government websites prove there are still a lot of people who want to get an up-close look. NASA’s New Horizons spacecraft, a project over nine years in the making, flew by Pluto this morning at approximately 7:49 a.m. The'
 authors:

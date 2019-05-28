@@ -1,6 +1,6 @@
 ---
 slug: how-agencies-can-support-employee-professional-development
-date: 2015-10-09 10:00:09 -0400
+date: 2015-10-09 10:00:00
 title: How Agencies Can Support Employee Professional Development
 summary: 'Providing professional development for over 100,000 employees is no easy task. To build on the existing skills of their workforce, the U.S. Department of Agriculture (USDA) has piloted AgOpportunity, a program that matches USDA employees with projects that need their skills and interest. The idea for AgOpportunity came from the Partnership for Public Service’s Excellence'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: making-a-statement-when-it-comes-to-hackathons-a-compelling-challenge-statement-is-key-to-success
-date: 2016-05-19 10:00:51 -0400
+date: 2016-05-19 10:00:00
 title: 'Making a Statement: When It Comes to Hackathons, a Compelling Challenge Statement Is Key to Success'
 summary: 'As the civic hacking movement continues to grow in the United States, agencies are starting to adopt hackathons to engage citizens in the challenging work of improving government services and solving real-world challenges using open data. Whether you are planning your own hackathon, or planning in a multi-government agency &#8220;mass collaboration&#8221; such as the National'
 authors:

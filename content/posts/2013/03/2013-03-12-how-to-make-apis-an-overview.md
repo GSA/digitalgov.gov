@@ -1,6 +1,6 @@
 ---
 slug: how-to-make-apis-an-overview
-date: 2013-03-12 12:47:51 -0400
+date: 2013-03-12 12:47:00
 title: How to Make APIs—An Overview
 summary: 'After choosing a set of information or services to offer via API, some of your next steps are to plan and implement the API. You&#8217;ll still need to prepare documentation, tools, and other elements that make a complete package for the API, but at the center is the actual Web service itself. In many situations,'
 authors:

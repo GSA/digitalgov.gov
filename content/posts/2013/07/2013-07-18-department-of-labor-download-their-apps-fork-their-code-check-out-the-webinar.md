@@ -1,6 +1,6 @@
 ---
 slug: department-of-labor-download-their-apps-fork-their-code-check-out-the-webinar
-date: 2013-07-18 9:30:08 -0400
+date: 2013-07-18 9:30:00
 title: 'Department of Labor: Download Their Apps, Fork Their Code, Check out the Webinar'
 summary: 'The Department of Labor&#8217;s DOL Timesheet, OSHA Heat Index Tool and LaborStats apps are available anytime and anywhere for the public. Now their code is available for agencies to leverage for mobile development. All the apps&#8217; code are available on the Mobile Code'
 authors:

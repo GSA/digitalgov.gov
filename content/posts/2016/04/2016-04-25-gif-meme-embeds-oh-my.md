@@ -1,6 +1,6 @@
 ---
 slug: gif-meme-embeds-oh-my
-date: 2016-04-25 11:48:11 -0400
+date: 2016-04-25 11:48:00
 title: 'The Content Corner: GIF? Meme? Embeds? Oh, My!'
 summary: 'You probably have heard this before, or may even hear it all the time, &ldquo;Content is King.&rdquo; What that means is, that in today’s fast moving digital communications age, with social media as the driver&mdash;organizations (agencies) must have a content plan to stay relevant. Sure, not every agency has the resources, or frankly is as'
 authors:

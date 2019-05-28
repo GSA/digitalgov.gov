@@ -1,6 +1,6 @@
 ---
 slug: negotiating-a-mobile-terms-of-service-agreement
-date: 2015-09-25 10:00:38 -0400
+date: 2015-09-25 10:00:00
 title: Negotiating a Mobile Terms of Service Agreement
 summary: 'In our personal lives, most of us barely pay attention to Terms of Service (TOS) agreements. But in our professional lives, as federal employees, mindlessly clicking through a TOS is not an option. The DigitalGov article Getting to Yes: Working with Vendors to Secure Terms of Service and Federal Friendly Pricing explored the legal dilemmas'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-testing-key-to-quality-mobile-products
-date: 2014-03-25 10:00:34 -0400
+date: 2014-03-25 10:00:00
 title: 'Trends on Tuesday: Testing Key to Quality Mobile Products'
 summary: 'Building quality mobile products is the greatest challenge for succeeding in the mobile space according to an infographic by SmartBear. One key to developing quality mobile products is testing, as &ldquo;nearly 50% of consumers will delete an app if they encounter just a single bug.&rdquo; As a result the following processes are used to ensure'
 authors:

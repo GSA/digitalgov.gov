@@ -1,6 +1,6 @@
 ---
 slug: web-metadata-publishing-using-xml
-date: 2015-03-23 11:00:18 -0400
+date: 2015-03-23 11:00:00
 title: Web Metadata Publishing Using XML
 summary: 'Metadata for website content is usually managed as part of the editorial process when documents are created and published with content management systems. There may be another source for this metadata, especially in regulatory agencies: internal databases that reference Web content in support of record keeping processes. These databases may contain public and non-public information'
 authors:

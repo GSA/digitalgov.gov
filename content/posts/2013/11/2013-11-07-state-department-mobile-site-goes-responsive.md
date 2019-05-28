@@ -1,6 +1,6 @@
 ---
 slug: state-department-mobile-site-goes-responsive
-date: 2013-11-07 12:04:34 -0400
+date: 2013-11-07 12:04:00
 title: State Department Mobile Site Goes Responsive
 summary: The Department of State has updated their mobile website m.state.gov
 topics:

@@ -1,6 +1,6 @@
 ---
 slug: a-year-in-life-a-pif
-date: 2019-03-26 12:38:00 -0500
+date: 2019-03-26 12:38:00
 title: 'A Year in the Life of a PIF'
 summary: 'As a Presidential Innovation Fellow in my second year, I often get asked by the newer class of PIFs coming in, “What does a successful PIF year typically look like?”'
 deck: "Advice on how to make the most impact in a limited amount of time in government"

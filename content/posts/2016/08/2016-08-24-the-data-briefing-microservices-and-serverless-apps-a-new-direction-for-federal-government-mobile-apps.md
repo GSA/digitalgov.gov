@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-microservices-and-serverless-apps-a-new-direction-for-federal-government-mobile-apps
-date: 2016-08-24 10:00:00 -0400
+date: 2016-08-24 10:00:00
 title: 'The Data Briefing: Microservices and Serverless Apps — A New Direction for Federal Government Mobile Apps?'
 summary: 'Continuing from last week’s column on DevOps and containers, I will explain two other hot trends in IT &mdash; microservices and serverless apps. For those who want official federal government guidance, the National Institute of Standards and Technology (NIST) has released a draft special publication on microservices, application containers, and system virtual machines (PDF, 660'
 authors:

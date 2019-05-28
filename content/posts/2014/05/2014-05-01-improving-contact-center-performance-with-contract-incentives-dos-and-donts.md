@@ -1,6 +1,6 @@
 ---
 slug: improving-contact-center-performance-with-contract-incentives-dos-and-donts
-date: 2014-05-01 13:20:39 -0400
+date: 2014-05-01 13:20:00
 title: 'Improving Contact Center Performance with Contract Incentives: Dos and Don’ts'
 summary: '&ldquo;In business, words are words, explanations are explanations, promises are promises, but only performance is reality.&rdquo; Harold S. Geneen As government contact center managers, we dream of having contact center contractors who regularly exceed our performance expectations. One way to motivate your contractor to excel is by including financial incentives/disincentives directly into your contact center contract.'
 authors:

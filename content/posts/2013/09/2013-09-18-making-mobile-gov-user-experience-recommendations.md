@@ -1,6 +1,6 @@
 ---
 slug: making-mobile-gov-user-experience-recommendations
-date: 2013-09-18 2:49:35 -0400
+date: 2013-09-18 2:49:00
 title: 'Making Mobile Gov: User Experience Recommendations'
 summary: 'How We Did It Last November, as part of revisiting the state of Mobile Gov, government mobile innovators identified a need for guidelines to help create amazing and engaging mobile user experiences. We convened a group to workshop around elements of mobile user experience with the'
 authors:

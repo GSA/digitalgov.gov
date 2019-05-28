@@ -1,6 +1,6 @@
 ---
 slug: creating-wall-sized-interaction-at-the-smithsonians-national-air-and-space-museum
-date: 2016-09-30 1:00:59 -0400
+date: 2016-09-30 1:00:00
 title: Creating Wall-Sized Interaction at the Smithsonian’s National Air and Space Museum
 summary: 'As any experienced retailer will tell you, the customer experience begins at the store entrance. Note the friendly Walmart greeter, the approachable minimalism of an Apple Store, and the calculated whimsy of Anthropologie. Store designers understand that a customer’s decision to make a purchase is often made within seconds of entering. The same holds true'
 authors:

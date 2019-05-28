@@ -1,6 +1,6 @@
 ---
 slug: is-it-time-to-try-medium-new-federal-friendly-terms-of-service
-date: 2015-07-17 11:10:08 -0400
+date: 2015-07-17 11:10:00
 title: Is It Time to Try Medium? New Federal-Friendly Terms of Service
 summary: What is Medium? Good question. Is it a publishing platform, a social network, a distribution channel, a 21st century version of the op-ed page, or something else? With a continuously evolving feature-set, Medium defies simple classification. Perhaps it is best to think about Medium in terms of what you can accomplish with it. With a
 authors:

@@ -1,6 +1,6 @@
 ---
 url: /digitalgov-university/
-date: 2013-11-17 11:11:43 -0400
+date: 2013-11-17 11:11:00
 title: DigitalGov University
 summary: 'DigitalGov helps agencies meet the public&rsquo;s 21st century digital expectations by providing a platform for federal agencies to share innovations, offer case-studies, host summits and workshops and connect with each other.'
 aliases:

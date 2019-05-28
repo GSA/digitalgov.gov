@@ -1,6 +1,6 @@
 ---
 slug: additional-data-options-with-dap
-date: 2016-04-05 10:00:38 -0400
+date: 2016-04-05 10:00:00
 title: Additional Data Options With DAP
 summary: 'Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP.'
 authors:

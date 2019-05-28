@@ -4,8 +4,8 @@ title: 'Emerging Technology for Government Services Meeting'
 summary: 'This is an opportunity to discuss what agencies need to know about current issues in emerging technologies for IT modernization and form consensus on inter-agency collaboration and resource development, and shape initiatives that empower teams across government&#46;'
 event_type:
   - online
-date: 2018-12-17 10:30:00 -0500
-end_date: 2018-12-17 11:30:00 -0500
+date: 2018-12-17 10:30:00
+end_date: 2018-12-17 11:30:00
 event_organizer: DigitalGov University
 host: ECTO
 registration_url: https://www.eventbrite.com/e/emerging-technology-for-government-services-meeting-registration-53609046100

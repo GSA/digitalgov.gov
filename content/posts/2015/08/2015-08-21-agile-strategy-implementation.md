@@ -1,6 +1,6 @@
 ---
 slug: agile-strategy-implementation
-date: 2015-08-21 11:17:27 -0400
+date: 2015-08-21 11:17:00
 title: Agile Strategy Implementation
 summary: 'The Challenge Much like GSA experienced three years ago, the Management Information Systems Office (MISO) organization at the Centers for Disease Control and Prevention (CDC) had a vision, a crazy deadline, and the need to change and change fast. MISO is responsible for developing, maintaining, and managing a variety of enterprise business systems across the CDC.'
 authors:

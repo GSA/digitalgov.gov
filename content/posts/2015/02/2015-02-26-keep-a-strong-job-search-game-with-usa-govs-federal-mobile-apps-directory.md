@@ -1,6 +1,6 @@
 ---
 slug: keep-a-strong-job-search-game-with-usa-govs-federal-mobile-apps-directory
-date: 2015-02-26 13:00:43 -0400
+date: 2015-02-26 13:00:00
 title: 'Keep a Strong Job Search Game with USA.gov&#8217;s Federal Mobile Apps Directory'
 summary: 'Scoping the fed scene for the best match to apply your very formidable skillset? Use your smartphone to cast a wider net on your job search with help from the USA.gov Federal Mobile Apps Directory. Federal job hunters are no longer confined to desktop websites, so check'
 authors:

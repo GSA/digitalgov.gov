@@ -1,6 +1,6 @@
 ---
 slug: buying-power-new-labs-will-foster-innovation-in-government-acquisition
-date: 2016-03-24 10:00:31 -0400
+date: 2016-03-24 10:00:00
 title: 'Buying Power: New Labs Will Foster Innovation in Government Acquisition'
 summary: The slow, tedious federal acquisition process has long been the butt of jokes in the private sector. If the government had wanted to buy the original Nintendo, one might say, it would have all the paperwork in place by the time the rest of the world had moved on to the XBox. But that culture
 authors:

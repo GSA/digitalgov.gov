@@ -1,6 +1,6 @@
 ---
 slug: usagovs-step-by-step-guide-to-making-snapchat-stories-as-accessible-as-possible
-date: 2016-03-29 1:30:57 -0400
+date: 2016-03-29 1:30:00
 title: USAGov’s Step-by-Step Guide to Making Snapchat Stories As Accessible As Possible
 summary: 'One of the biggest things we take into account whenever we consider launching on a new social platform is how we can make the information we share through that tool as accessible as possible. In its current form, Snapchat isn’t a highly accessible platform. This isn’t a problem that’s unique to Snapchat. Many emerging technologies'
 authors:

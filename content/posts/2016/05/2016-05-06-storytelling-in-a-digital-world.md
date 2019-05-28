@@ -1,6 +1,6 @@
 ---
 slug: storytelling-in-a-digital-world
-date: 2016-05-06 10:00:58 -0400
+date: 2016-05-06 10:00:00
 title: Storytelling in a Digital World
 summary: 'The art of storytelling has been around since the dawn of mankind. Storytelling remains relevant today, and a recent effort by the Environmental Protection Agency (EPA) shows how agencies can use storytelling to showcase great projects while also teaching employees new communication strategies. Over the past year, Chris Reed, an environmental protection specialist in EPA’s'
 authors:

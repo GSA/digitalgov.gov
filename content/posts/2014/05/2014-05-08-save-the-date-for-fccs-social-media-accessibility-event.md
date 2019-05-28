@@ -1,6 +1,6 @@
 ---
 slug: save-the-date-for-fccs-social-media-accessibility-event
-date: 2014-05-08 1:00:33 -0400
+date: 2014-05-08 1:00:00
 title: 'Save the Date for FCC&#8217;s Social Media Accessibility Event'
 summary: 'On Thursday, July 17, the FCC&#8217;s Accessibility and Innovation Initiative will host a public event called &#8220;Accessing Social Media.&#8221; The purpose is to promote collaborative, cross-sector problem-solving on how to produce and consume accessible social media, considering authoring tools, client apps, and best practices for various'
 authors:

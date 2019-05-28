@@ -1,6 +1,6 @@
 ---
 slug: managing-custom-software-development-in-government-when-youre-not-a-software-engineer
-date: 2017-09-21 16:10:00 -0400
+date: 2017-09-21 16:10:00
 title: Managing Custom Software Development in Government When You're Not a Software Engineer
 summary: "As custom software development becomes integral to accomplishing any program's mission, many managers in government find themselves faced with handling the unfamiliar: overseeing the design and implementation of a digital product that is functional, user-friendly, and necessary for realizing your program’s mission."
 authors:

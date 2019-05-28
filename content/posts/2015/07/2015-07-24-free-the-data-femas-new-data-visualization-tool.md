@@ -1,6 +1,6 @@
 ---
 slug: free-the-data-femas-new-data-visualization-tool
-date: 2015-07-24 11:00:54 -0400
+date: 2015-07-24 11:00:00
 title: 'Free the Data: FEMA’s New Data Visualization Tool'
 summary: '  FEMA collects data from disasters. We look at various hazards over time, and a question we get a lot when we’re trying to talk about what can happen is what has happened previously? Providing'
 authors:

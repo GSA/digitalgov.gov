@@ -1,6 +1,6 @@
 ---
 slug: usgs-picture-puzzle-do-you-see-changes-to-the-coast
-date: 2014-09-22 10:00:21 -0400
+date: 2014-09-22 10:00:00
 title: 'USGS Picture Puzzle: Do You See Changes to the Coast?'
 summary: 'If you are a coastal resident, go to the beach, or are interested in digital volunteering, you can be a tremendous help in identifying and classifying changes that storms make to our coast after severe storms. The U.S. Geological Survey (USGS) has launched iCoast, a Web application where you can view aerial photographs and help classify'
 authors:

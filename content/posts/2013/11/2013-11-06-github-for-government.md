@@ -1,6 +1,6 @@
 ---
 slug: github-for-government
-date: 2013-11-06 7:46:20 -0400
+date: 2013-11-06 7:46:00
 title: Best Practices for Open Source in Government (Using GitHub)
 summary: 'Working on getting your agency to release an open source policy? Awesome! But if you want an effective open source program, you have to tightly integrate open source into how your agency procures, builds, and distributes technology. You&#8217;re not alone! There&#8217;s a growing community of'
 authors:

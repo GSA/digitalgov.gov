@@ -1,6 +1,6 @@
 ---
 url: /guide/dap/
-date: 2018-08-10 09:00:00 -0400
+date: 2018-08-10 09:00:00
 title: 'Digital Analytics Program Handbook'
 summary: 'A free web analytics tool for federal agencies.'
 deck: 'A guide to the free, web analytics tool for federal agencies.'

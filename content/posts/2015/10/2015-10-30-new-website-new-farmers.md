@@ -1,6 +1,6 @@
 ---
 slug: new-website-new-farmers
-date: 2015-10-30 2:55:47 -0400
+date: 2015-10-30 2:55:00
 title: New Website. New Farmers.
 summary: ' USDA has been looking for ways to improve content delivery to our customers and making their first interaction with USDA and government a positive one. In 2014, USDA launched New Farmers, a website dedicated to helping new and beginning farmers and ranchers find the resources'
 authors:

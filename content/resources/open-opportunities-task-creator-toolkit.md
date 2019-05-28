@@ -1,6 +1,6 @@
 ---
 slug: open-opportunities-task-creator-toolkit
-date: 2015-04-24 4:12:33 -0400
+date: 2015-04-24 4:12:00
 title: Open Opportunities Task Creator Toolkit
 summary: 'The step-by-step task creation process for Open Opportunities.'
 topics:

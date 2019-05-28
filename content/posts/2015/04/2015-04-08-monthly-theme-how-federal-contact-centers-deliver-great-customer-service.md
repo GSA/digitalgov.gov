@@ -1,6 +1,6 @@
 ---
 slug: monthly-theme-how-federal-contact-centers-deliver-great-customer-service
-date: 2015-04-08 9:35:49 -0400
+date: 2015-04-08 9:35:00
 title: 'Monthly Theme: How Federal Contact Centers Deliver Great Customer Service'
 summary: 'At the end of last year, DigitalGov posted an article predicting that 2016 would be the year of the customer. Stephanie Thum, Vice President of Customer Experience at Export-Import Bank, looked at the great strides made in federal customer service in 2014 and called it the year of &ldquo;planting seeds.&rdquo; She then pointed to 2015'
 authors:

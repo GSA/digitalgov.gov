@@ -1,6 +1,6 @@
 ---
 slug: heat-mapping-case-study-epa-gov-homepage
-date: 2014-08-12 11:00:17 -0400
+date: 2014-08-12 11:00:00
 title: 'Heat Mapping Case Study: Epa.gov Homepage'
 summary: 'Most people relate the term &ldquo;heat map&rdquo; with something they see during the weather forecast on the nightly news, those colorful maps that vividly illustrate how hot it’s going to be during an impending heat wave. The word &#8220;heat map&#8221; may not usually however, conjure up images of a widely used Web usability tool; but for those'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-making-a-difference-one-microtask-at-a-time
-date: 2015-04-22 10:00:44 -0400
+date: 2015-04-22 10:00:00
 title: 'The API Briefing: Making a Difference One Microtask at a Time'
 summary: 'I recently found an app that provides a great service through crowdsourcing. Be My Eyes connects visually-impaired people with volunteers. Using the smartphone’s camera, the volunteers can perform tasks such as reading an expiration date or helping someone navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how'
 authors:

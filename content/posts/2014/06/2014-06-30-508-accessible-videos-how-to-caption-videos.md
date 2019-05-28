@@ -1,6 +1,6 @@
 ---
 slug: 508-accessible-videos-how-to-caption-videos
-date: 2014-06-30 10:00:22 -0400
+date: 2014-06-30 10:00:00
 title: '508 Accessible Videos &#8211; How to Caption Videos'
 summary: ' What are Captions? In a video, captions collect all audio information and describe them using text. They include not only spoken content but also non-speech information such as sound effects, music, laughter, and speaker identification and location (for example, audio spoken off-screen). Captions appear transposed over the visual elements in'
 authors:

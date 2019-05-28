@@ -1,6 +1,6 @@
 ---
 slug: tapping-teen-power-challenging-youth-with-prize-competitions
-date: 2016-01-11 10:30:05 -0400
+date: 2016-01-11 10:30:00
 title: "Tapping ‘Teen Power’ — Challenging Youth with Prize Competitions"
 summary: 'Sometimes in crowdsourcing, you want to take your problem straight to a specific crowd. And sometimes that crowd is still in school. Challenge.gov has seen many federal agencies launch prize competitions to educate and engage high school students. These include a NASA challenge that asked students to develop devices that could protect astronauts from radiation during space flight.'
 authors:

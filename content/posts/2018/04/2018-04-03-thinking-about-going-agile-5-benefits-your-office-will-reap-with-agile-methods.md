@@ -1,6 +1,6 @@
 ---
 slug: thinking-about-going-agile-5-benefits-your-office-will-reap-with-agile-methods
-date: 2018-04-03 12:00:00 -0500
+date: 2018-04-03 12:00:00
 title: 'Thinking About Going Agile&#63; 5 Benefits Your Office Will Reap With Agile Methods'
 summary: 'Five benefits of using agile methodologies that can help federal employees improve the quality of their work.'
 authors:

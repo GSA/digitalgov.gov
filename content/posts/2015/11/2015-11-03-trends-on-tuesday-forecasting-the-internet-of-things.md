@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-forecasting-the-internet-of-things
-date: 2015-11-03 10:00:36 -0400
+date: 2015-11-03 10:00:00
 title: 'Trends on Tuesday: Forecasting the Internet of Things'
 summary: 'An industry group tracking the growth and production of the &ldquo;Internet of Things,&rdquo; a term given to Internet-connected devices and accessories, is predicting that growth will slow over the next 6 months, but then surge 3 times as fast, over the following year. The research was organized by the IoT M2M Council, which is made'
 authors:

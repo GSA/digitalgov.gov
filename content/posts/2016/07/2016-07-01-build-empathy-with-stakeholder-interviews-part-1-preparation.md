@@ -1,6 +1,6 @@
 ---
 slug: build-empathy-with-stakeholder-interviews-part-1-preparation
-date: 2016-07-01 10:00:26 -0400
+date: 2016-07-01 10:00:00
 title: 'Build Empathy With Stakeholder Interviews, Part 1: Preparation'
 summary: 'What stakeholder interviews are, why they’re valuable, and how to prepare for them.'
 deck: 'What stakeholder interviews are, why they’re valuable, and how to prepare for them.'

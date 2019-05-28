@@ -1,6 +1,6 @@
 ---
 slug: ice-expands-reach-of-app-designed-to-locate-child-predators
-date: 2014-11-13 10:15:21 -0400
+date: 2014-11-13 10:15:00
 title: ICE Expands Reach of App Designed to Locate Child Predators
 summary: 'Catching child predators? There&#8217;s an app for that, and it&#8217;s expanding its reach to Android smartphones. Operation Predator&mdash;the first U.S. federal law enforcement app designed to seek the public&#8217;s help with identifying and locating fugitive and unknown suspected child predators&mdash;is now'
 authors:

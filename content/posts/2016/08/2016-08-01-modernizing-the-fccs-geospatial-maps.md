@@ -1,6 +1,6 @@
 ---
 slug: modernizing-the-fccs-geospatial-maps
-date: 2016-08-01 14:00:52 -0400
+date: 2016-08-01 14:00:00
 title: 'Modernizing the FCC&#8217;s Geospatial Maps'
 summary: 'Maps and geospatial analysis have become increasingly important as they allow the FCC to display information to the public in an interactive visual format. The FCC’s maps have become useful tools for conveying data in conjunction with Commission reports and public notices. The FCC’s maps site serves as a centralized hub for data visualizations and'
 authors:

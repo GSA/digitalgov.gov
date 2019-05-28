@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-optimizing-infographics-for-mobile
-date: 2014-02-04 10:33:06 -0400
+date: 2014-02-04 10:33:00
 title: 'Trends on Tuesday: Optimizing Infographics for Mobile'
 summary: 'Mobile first means more than just focusing on text content; it’s also includes considering visual content as important element of the user experience.'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: a-look-at-podcasting-at-csosa
-date: 2016-05-27 11:45:25 -0400
+date: 2016-05-27 11:45:00
 title: A Look at Podcasting at CSOSA
 summary: 'Podcasting is growing significantly. Per Pew, the percentage of Americans who have listened to a podcast in the past month has almost doubled since 2008, from 9% to 17% by January of 2015. The percentage listening in 2015 was up two points over 2014 levels (15%). Edison Research also reported that fully one-third (33%) of'
 authors:

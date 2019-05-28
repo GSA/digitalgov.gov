@@ -1,6 +1,6 @@
 ---
 slug: cfpb-serves-up-financial-tips-to-seniors
-date: 2017-09-11 10:00:44 -0400
+date: 2017-09-11 10:00:00
 title: CFPB Serves up Financial Tips to Seniors
 authors:
   - erin-scheithe

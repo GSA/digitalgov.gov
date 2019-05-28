@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-date: 2019-02-19 15:00:00 -0500
-end_date: 2019-02-19 16:00:00 -0500
+date: 2019-02-19 15:00:00
+end_date: 2019-02-19 16:00:00
 event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-webinar-for-federal-privacy-professionals-registration-53600065238

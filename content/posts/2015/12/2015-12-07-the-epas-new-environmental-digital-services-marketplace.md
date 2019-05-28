@@ -1,6 +1,6 @@
 ---
 slug: the-epas-new-environmental-digital-services-marketplace
-date: 2015-12-07 13:29:31 -0400
+date: 2015-12-07 13:29:00
 title: 'The EPA&#8217;s New Environmental Digital Services Marketplace'
 summary: 'Over the past year, the Environmental Protection Agency (EPA) has undertaken a broad initiative to transform the way it delivers digital services. We’ve been working hand-in-hand with the EPA to make this transformation a success by supporting such programs as eManifest. Working with 18F'
 authors:

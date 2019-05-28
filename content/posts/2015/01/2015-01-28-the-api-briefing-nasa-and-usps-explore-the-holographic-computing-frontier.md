@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-nasa-and-usps-explore-the-holographic-computing-frontier
-date: 2015-01-28 10:00:30 -0400
+date: 2015-01-28 10:00:00
 title: 'The API Briefing: NASA and USPS Explore the Holographic Computing Frontier'
 summary: 'Big news in the technology world as Microsoft unveiled HoloLens and Microsoft’s use of holographic computing in the upcoming Windows 10 release. Holographic computing or augmented reality uses computer-generated images that are overlaid on real world videos. For example, a user can view a car through their smartphone. An app can project information such as'
 authors:

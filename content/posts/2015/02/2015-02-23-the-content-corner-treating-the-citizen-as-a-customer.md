@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-treating-the-citizen-as-a-customer
-date: 2015-02-23 11:10:26 -0400
+date: 2015-02-23 11:10:00
 title: 'The Content Corner: Treating the Citizen as a Customer'
 summary: 'There is a tendency in government to discount a range of strategies closely connected to marketing. A good example, and a recent buzzword, is content marketing. Content marketing’s main goal is to drive a user to click or sign-up; to turn them into a lead or a buying customer. We’re the federal government, we aren’t'
 authors:

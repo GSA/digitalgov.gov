@@ -1,6 +1,6 @@
 ---
 slug: mobile-gov-resources-for-2013
-date: 2012-12-21 9:55:27 -0400
+date: 2012-12-21 9:55:00
 title: Mobile Gov Resources for 2013!
 summary: 'With mobile use growing exponentially and federal agencies implementing customer-facing mobile services for the Digital Government Strategy, we decided to put together a Mobile Gov resource &#8220;cheat sheet&#8221; with concepts and information we think will be helpful for agencies implementing Mobile Gov in 2013. Here&#8217;s what Mobile Gov implementers need to'
 topics:

@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-the-department-of-education-needs-your-help-with-their-first-developers-site
-date: 2017-04-19 11:00:26 -0400
+date: 2017-04-19 11:00:00
 title: 'The Data Briefing: The Department of Education Needs Your Help with their First Developers&#8217; Site'
 summary: 'The Department of Education (ED) launched its first developer site. The developer site is built on GitHub which will make it easier for ED to centralize their code and Application Programming Interfaces (APIs). Currently, ten APIs are on the developer site: The Civil Right Data Collection (CRDC) APIs: These three APIs give information on public'
 authors:

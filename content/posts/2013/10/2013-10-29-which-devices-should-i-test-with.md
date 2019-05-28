@@ -1,6 +1,6 @@
 ---
 slug: which-devices-should-i-test-with
-date: 2013-10-29 11:14:52 -0400
+date: 2013-10-29 11:14:00
 title: Which Devices Should I Test With?
 summary: 'Like a kid in a candy store&#8230; Every time we go to the mall, the kids pull us to the candy store with the floor-to-ceiling tubes of colored candy. The kids quickly grab their bags and scavenge from each of the bins until'
 topics:

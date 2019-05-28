@@ -1,6 +1,6 @@
 ---
 slug: epas-mobile-access-review-committee
-date: 2012-02-24 12:06:56 -0400
+date: 2012-02-24 12:06:00
 title: 'EPA&#8217;s Mobile Access Review Committee'
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Environmental Protection Agency. The Enivronmental Protection Agency&#8217;s Mobile Access Review Committee (MARC) is a committee that evaluates external (public-facing) mobile app and mobile Web concepts prior to any development. MARC serves as'
 authors:

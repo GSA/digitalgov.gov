@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-consumer-purchases-and-usage-of-tablets-shrink-as-phablets-grow
-date: 2015-05-12 10:00:21 -0400
+date: 2015-05-12 10:00:00
 title: 'Trends on Tuesday: Consumer Purchases and Usage of Tablets Shrink, as Phablets Grow'
 summary: ' Consumers are buying less tablets and more phablets, especially in the U.S. Three recent research reports released in the past week from IDC, Flurry and Kantar each point to a shift in consumer purchasing habits over the past quarter, showing that consumers'
 authors:

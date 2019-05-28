@@ -1,6 +1,6 @@
 ---
 slug: what-weve-learned-three-years-of-answering-questions-on-social-media
-date: 2013-07-02 8:46:16 -0400
+date: 2013-07-02 8:46:00
 title: 'What We’ve Learned: Three Years of Answering Questions on Social Media'
 summary: 'USA.gov and GobiernoUSA.gov have been engaging with the public on social media long before Mayor Cory Booker underscored the need at this year’s SXSW. In January 2010, we began to respond to questions and comments on our Facebook and Twitter accounts. We never advertised the service, but people naturally'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: three-actions-to-take-now-to-prepare-for-hurricane-season
-date: 2016-06-02 10:00:04 -0400
+date: 2016-06-02 10:00:00
 title: Three Actions to Take Now to Prepare for Hurricane Season
 summary: 'Summary: The 2016 National Preparedness Report is an important guidepost in our work to build a stronger, more resilient America. Today we released the 2016 National Preparedness Report, an important guidepost in our work to build'
 authors:

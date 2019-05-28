@@ -1,6 +1,6 @@
 ---
 slug: mobile/principles/configuration
-date: 2019-02-12 12:30:00 -0500
+date: 2019-02-12 12:30:00
 title: 'Properly Configure the Server'
 summary: 'Week seven of our series, Eight Principles of Mobile-Friendliness, covers configuring servers to optimize response time.'
 type: guide

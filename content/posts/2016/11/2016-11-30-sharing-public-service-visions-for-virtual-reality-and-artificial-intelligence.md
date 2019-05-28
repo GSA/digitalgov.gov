@@ -1,6 +1,6 @@
 ---
 slug: sharing-public-service-visions-for-virtual-reality-and-artificial-intelligence
-date: 2016-11-30 12:00:46 -0400
+date: 2016-11-30 12:00:00
 title: Sharing Public Service Visions for Virtual Reality and Artificial Intelligence
 summary: 'I’m taking a break from sorting through dozens of concepts from federal agencies about how they want to use artificial intelligence and virtual reality for citizens in the coming months in order to share with you just some of these groundbreaking initiatives of tomorrow that can be explored at a DigitalGov University workshop this week.'
 authors:

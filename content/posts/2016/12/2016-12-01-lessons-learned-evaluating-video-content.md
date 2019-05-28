@@ -1,6 +1,6 @@
 ---
 slug: lessons-learned-evaluating-video-content
-date: 2016-12-01 12:00:23 -0400
+date: 2016-12-01 12:00:00
 title: 'Lessons Learned: Evaluating Video Content'
 summary: 'If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization’s'
 authors:

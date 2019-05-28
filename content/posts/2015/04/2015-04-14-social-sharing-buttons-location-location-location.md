@@ -1,6 +1,6 @@
 ---
 slug: social-sharing-buttons-location-location-location
-date: 2015-04-14 10:00:19 -0400
+date: 2015-04-14 10:00:00
 title: 'Social Sharing Buttons: Location, Location, Location'
 summary: ' DigitalGov has seen posts from members of the community who land on opposite sides regarding social sharing buttons. There are those who find social sharing buttons useful (When Sharing Buttons'
 authors:

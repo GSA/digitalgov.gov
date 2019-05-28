@@ -1,6 +1,6 @@
 ---
 slug: dots-safercar-app
-date: 2013-04-18 9:15:20 -0400
+date: 2013-04-18 9:15:00
 title: The SaferCar App
 summary: 'The U.S. Department of Transportation&#8217;s National Highway Traffic Safety Administration (NHTSA) has created a new iOS app that provides real-time vehicle safety information to consumers from NHTSA&#8217;s SaferCar.gov site The new SaferCar app gives consumers immediate access to key safety information to'
 topics:

@@ -1,6 +1,6 @@
 ---
 slug: to-use-social-sharing-buttons-or-not
-date: 2014-04-02 13:00:25 -0400
+date: 2014-04-02 13:00:00
 title: To Use Social Sharing Buttons or Not
 summary: Our digital gov neighbors in the U.K. have been working on their own digital strategy, including the consolidating into a single website. When the GOV.UK team introduced social sharing buttons, that allow users to post a link to the page on Facebook or Twitter, on their
 authors:

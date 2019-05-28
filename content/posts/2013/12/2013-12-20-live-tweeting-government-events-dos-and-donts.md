@@ -1,6 +1,6 @@
 ---
 slug: live-tweeting-government-events-dos-and-donts
-date: 2013-12-20 9:24:55 -0400
+date: 2013-12-20 9:24:00
 title: Live Tweeting Government Events – DOs and DON’Ts
 summary: ' In this time of tight travel budgets, not everyone can make it to every event or conference they’d like to attend. Luckily, Twitter has made it easier to share events through live tweeting. Live tweeting is using Twitter'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: bringing-water-protection-into-the-modern-age
-date: 2015-10-01 13:55:10 -0400
+date: 2015-10-01 13:55:00
 title: Bringing Water Protection into the Modern Age
 summary: Information technology is everywhere. How we communicate, and how we share with one another has gone digital, saving paper, time, money, and making it easier to get information faster and more reliably. Forty-three years ago, when the Clean Water Act was enacted, things moved a little slower. But the significance and impact of this important
 authors:

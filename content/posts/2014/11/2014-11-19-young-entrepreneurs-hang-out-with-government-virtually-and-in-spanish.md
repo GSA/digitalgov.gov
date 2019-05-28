@@ -1,6 +1,6 @@
 ---
 slug: young-entrepreneurs-hang-out-with-government-virtually-and-in-spanish
-date: 2014-11-19 10:00:28 -0400
+date: 2014-11-19 10:00:00
 title: 'Young Entrepreneurs Hang Out With Government Virtually&#8230; and in Spanish'
 summary: 'It’s a well-known fact that the Hispanic population is growing at a rapid pace, and among the areas seeing the most interest and growth is business. According to the Small Business Administration (SBA), there are more than 3 million Hispanic-owned businesses in the U.S. today, a number that is growing at three times the national'
 authors:

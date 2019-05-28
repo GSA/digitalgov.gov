@@ -1,6 +1,6 @@
 ---
 slug: celebrating-nanotechnology-with-a-day-a-dash-some-nuggets-and-a-plan
-date: 2016-11-04 11:00:56 -0400
+date: 2016-11-04 11:00:00
 title: Celebrating Nanotechnology With a Day, a Dash, Some Nuggets, and a Plan
 summary: 'Summary: The release of an updated National Nanotechnology Initiative Strategic Plan caps a month of activities highlighting nanotechnology. The Federal government continues to play a key role in the success of the U.S. nanotechnology enterprise through the National Nanotechnology Initiative (NNI)&mdash;as was'
 authors:

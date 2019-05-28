@@ -1,6 +1,6 @@
 ---
 slug: congress-gov-homepage-highlights-alerts-and-more-enhancements
-date: 2016-11-16 11:00:37 -0400
+date: 2016-11-16 11:00:00
 title: Congress.gov Homepage Highlights, Alerts, and More Enhancements
 summary: 'This has been an exciting and successful year for Congress.gov. We accomplished a major milestone when we retired THOMAS in July. Over the course of 2016, we completed a number of enhancements to Congress.gov. In April we expanded quick search to include the Congressional Record, Committee Reports, Nominations, Treaty Documents, and Communications. In May we launched several new RSS feeds and'
 authors:

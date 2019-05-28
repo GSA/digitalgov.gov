@@ -1,6 +1,6 @@
 ---
 slug: dol-labor-stats-app
-date: 2012-02-22 15:09:51 -0400
+date: 2012-02-22 15:09:00
 title: DOL Labor Stats App
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. The Labor Stats Application presents the most up-to-date numbers and news releases for top employment statistics published by Department of Labor’s Employment and Training Administration (ETA) and Bureau of Labor Statistics'
 authors:

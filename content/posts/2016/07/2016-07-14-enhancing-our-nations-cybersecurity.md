@@ -1,6 +1,6 @@
 ---
 slug: enhancing-our-nations-cybersecurity
-date: 2016-07-14 14:00:04 -0400
+date: 2016-07-14 14:00:00
 title: 'Enhancing our Nation&#8217;s Cybersecurity'
 summary: 'The mission of U.S. General Services Administration (GSA)&#8217;s Integrated Technology Services (ITS) is to deliver best value technology solutions to the government and the American people, and one of the most critically important capabilities that our nation currently needs is strengthened cybersecurity. We have been working with numerous other federal agencies to ensure that the'
 authors:

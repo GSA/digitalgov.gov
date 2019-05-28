@@ -1,6 +1,6 @@
 ---
 slug: not-just-a-website-challenge-gov-enables-agencies-to-innovate-with-incentives
-date: 2015-09-10 2:57:15 -0400
+date: 2015-09-10 2:57:00
 title: 'Not Just a Website: Challenge.gov Enables Agencies to Innovate with Incentives'
 summary: Next month, Challenge.gov turns five. A technical platform, a listing of federal prize competitions, and consultation and support services for running impactful challenges all meld into the program, which brings the best ideas and talent together to solve mission-centric problems. To mark the milestone, the General Services Administration (GSA) will host a special event on
 authors:

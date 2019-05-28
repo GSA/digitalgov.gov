@@ -1,6 +1,6 @@
 ---
 slug: challenge-gov-launches-one-click-reporting-for-annual-prizes-data-call
-date: 2016-11-09 5:43:18 -0400
+date: 2016-11-09 5:43:00
 title: Challenge.gov Launches One-Click Reporting for Annual Prizes Data Call
 summary: 'This year, the deadline for agencies to submit their reporting of incentive prize competitions and challenges for FY16 comes earlier than most. Roughly two weeks from today, by Nov. 18, federal agencies are required to submit their accounts of every prize, competition, or challenge that launched, ran or completed in FY16 via email.  {{< legacy-img'
 authors:

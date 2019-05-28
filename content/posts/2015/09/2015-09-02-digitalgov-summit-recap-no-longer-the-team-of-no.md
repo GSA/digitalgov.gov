@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-summit-recap-no-longer-the-team-of-no
-date: 2015-09-02 10:00:51 -0400
+date: 2015-09-02 10:00:00
 title: 'DigitalGov Summit Recap: No Longer the Team of No'
 summary: 'No one likes to be told no. This is especially true at work, when you’re moving toward something that you feel is in the best interest of your customers. But so often in government, our forward progress gets slowed down by others in our organization who we think &ldquo;just don’t get it&rdquo;&mdash;namely those in content,'
 authors:

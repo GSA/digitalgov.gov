@@ -1,6 +1,6 @@
 ---
 slug: spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms
-date: 2014-06-11 9:58:19 -0400
+date: 2014-06-11 9:58:00
 title: 'Spanish Language Style Guide and Glossaries: Information Technology Terms'
 summary: 'A list of common English information technology terms, and their Spanish translations.'
 topics:

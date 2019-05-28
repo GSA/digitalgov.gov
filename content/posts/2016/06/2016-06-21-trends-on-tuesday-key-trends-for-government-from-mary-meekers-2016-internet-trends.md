@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-key-trends-for-government-from-mary-meekers-2016-internet-trends
-date: 2016-06-21 12:00:54 -0400
+date: 2016-06-21 12:00:00
 title: 'Trends on Tuesday: Key Trends for Government from Mary Meeker’s 2016 Internet Trends'
 summary: 'Internet strategist Mary Meeker delivered her 2016 Internet Trends report this month, and there are several key takeaways for government agencies to consider and continue tracking as our connected world continues to evolve: Mobile phone adoption and Internet growth is meeting saturation. Incremental global growth will continue (especially in India, which she called out for'
 authors:

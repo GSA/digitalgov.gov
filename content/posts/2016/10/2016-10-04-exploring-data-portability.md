@@ -1,6 +1,6 @@
 ---
 slug: exploring-data-portability
-date: 2016-10-04 10:00:59 -0400
+date: 2016-10-04 10:00:00
 title: Exploring Data Portability
 summary: 'Summary: We’d like to hear from you on whether and how to increase your ability to get and use your data. Many of us store our email and photos with cloud services companies or track our finances on bank websites instead of in a checkbook register. Our medical records are stored electronically at hospitals and'
 authors:

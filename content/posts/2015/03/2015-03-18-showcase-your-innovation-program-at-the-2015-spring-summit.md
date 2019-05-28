@@ -1,6 +1,6 @@
 ---
 slug: showcase-your-innovation-program-at-the-2015-spring-summit
-date: 2015-03-18 1:00:21 -0400
+date: 2015-03-18 1:00:00
 title: Showcase Your Innovation Program at the 2015 Spring Summit
 summary: ' Here&#8217;s another other opportunity to show DigitalGov innovators what you got! The spring Digital Citizen Services Summit will host an expo, like we did in 2014, where you can showcase your program or service. This way participants will get a chance to meet'
 authors:

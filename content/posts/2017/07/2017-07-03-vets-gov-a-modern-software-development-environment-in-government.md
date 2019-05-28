@@ -1,6 +1,6 @@
 ---
 slug: vets-gov-a-modern-software-development-environment-in-government
-date: 2017-07-03 15:36:05 -0400
+date: 2017-07-03 15:36:00
 title: 'Vets.gov: A Modern Software Development Environment in Government'
 summary: When people think of government software, they often think of COBOL and PowerBuilder 5, with manual software deploys every three to six months on a fixed number of machines in a government-run data center. This perception is sometimes justified, but sometimes entirely wrong. Regardless, the perception makes many developers reluctant to work for the government
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-maximizing-your-mobile-moments
-date: 2014-07-01 11:00:13 -0400
+date: 2014-07-01 11:00:00
 title: 'Trends on Tuesday: Maximizing Your Mobile Moments'
 summary: The rise of mobile device ownership is rapidly changing the way we, and our stakeholders, interact with organizations and information. From local weather to the status of our train, we look to our smartphones to not only provide the answers, but anticipate our questions. Forrester refers to this
 authors:

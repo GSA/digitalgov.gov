@@ -1,6 +1,6 @@
 ---
 slug: somossocial-bilingual-twitter-chats-how-to-do-them-effectively
-date: 2016-01-08 10:00:00 -0400
+date: 2016-01-08 10:00:00
 title: '#SomosSocial: Bilingual Twitter Chats—How to Do Them Effectively'
 summary: 'There are 11.7 million + reasons to be on Twitter&mdash;the approximate number of Hispanics in the U.S. who are using the platform. And out of those 11.7 million, 43% tweet in English and in Spanish. Hispanics over index their counterparts when it comes to digital technologies and services, but how do you reach them and'
 authors:

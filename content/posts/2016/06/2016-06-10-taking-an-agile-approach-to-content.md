@@ -1,6 +1,6 @@
 ---
 slug: taking-an-agile-approach-to-content
-date: 2016-06-10 2:00:28 -0400
+date: 2016-06-10 2:00:00
 title: Taking an Agile Approach to Content
 summary: 'So, you’ve recently joined an agile team &mdash; congratulations! Here at 18F, we work in an agile way &mdash; in other words, we base our designs on user needs, conduct usability testing, iterate quickly, and release MVPs (minimum viable products) rather than highly finalized releases. We take an agile approach to content too. While there’s'
 authors:

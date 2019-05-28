@@ -1,6 +1,6 @@
 ---
 slug: the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment
-date: 2016-08-18 10:00:29 -0400
+date: 2016-08-18 10:00:00
 title: 'The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment'
 summary: 'This is the first post of a 5-part series. DigitalGov Search is a commercial-grade search engine provided as a shared-service by the United States General Services Administration. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that'
 authors:

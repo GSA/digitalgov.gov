@@ -1,6 +1,6 @@
 ---
 slug: appendix-i-to-omb-circular-no-a-130-federal-agency-responsibilities-for-maintaining-records-about-individuals
-date: 2015-11-23 2:52:12 -0400
+date: 2015-11-23 2:52:00
 title: Appendix I to OMB Circular No. A-130 Federal Agency Responsibilities for Maintaining Records About Individuals
 summary: "This Appendix describes agency responsibilities for implementing the reporting and publication requirements of the Privacy Act of 1974, 5 U.S.C. 552a. It applies to all agencies subject to the Act. View Appendix I to OMB Circular No. A-130 Federal Agency Responsibilities for Maintaining Records About Individuals Related Resources OMB M-15-13, Policy to Require Secure Connections"
 topics:

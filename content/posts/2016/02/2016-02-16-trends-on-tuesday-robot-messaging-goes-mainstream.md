@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-robot-messaging-goes-mainstream
-date: 2016-02-16 10:00:10 -0400
+date: 2016-02-16 10:00:00
 title: 'Trends on Tuesday: Robot Messaging Goes Mainstream'
 summary: 'John Connor can&#8217;t save you. Robots are here to take over the world. Two interesting new consumer mobile and digital content experiences were launched in the past week, signaling some of the first mainstream brands embracing this new paradigm of interactive, bot-driven content experiences: Quartz&#8217;s News App and The New York Times Election Slack Bot. Both'
 authors:

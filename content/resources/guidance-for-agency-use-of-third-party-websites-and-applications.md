@@ -1,6 +1,6 @@
 ---
 slug: guidance-for-agency-use-of-third-party-websites-and-applications
-date: 2015-11-23 2:48:38 -0400
+date: 2015-11-23 2:48:00
 title: Guidance for Agency Use of Third-Party Websites and Applications
 summary: 'This Memorandum requires Federal agencies to take specific steps to protect individual privacy whenever they use third-party websites and applications to engage with the public. View Guidance for Agency Use of Third-Party Websites and Applications   Related Links President&rsquo;s Memorandum on Transparency and Open Government Open Government Directive OMB&rsquo;s Guidance for Online Use of Web'
 topics:

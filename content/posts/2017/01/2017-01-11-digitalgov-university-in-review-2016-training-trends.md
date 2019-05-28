@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-university-in-review-2016-training-trends
-date: 2017-01-11 12:00:02 -0400
+date: 2017-01-11 12:00:00
 title: 'DigitalGov University in Review: 2016 Training Trends'
 summary: 'DigitalGov University (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.'
 authors:

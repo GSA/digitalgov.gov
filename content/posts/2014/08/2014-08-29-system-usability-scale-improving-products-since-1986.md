@@ -1,6 +1,6 @@
 ---
 slug: system-usability-scale-improving-products-since-1986
-date: 2014-08-29 10:15:49 -0400
+date: 2014-08-29 10:15:00
 title: 'System Usability Scale (SUS): Improving Products Since 1986'
 summary: Trying to measure usability can be a head scratcher. How easy something is to use depends on where you are, who you are, and a number of other factors. Luckily in the world of usability, there exists a post-test survey known as the System Usability Scale, introduced in 1986 by an engineer named John Brooke,
 authors:

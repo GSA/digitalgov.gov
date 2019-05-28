@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-holiday-shopping-sales-show-a-move-towards-mobile-first
-date: 2015-12-15 11:00:22 -0400
+date: 2015-12-15 11:00:00
 title: 'Trends on Tuesday: Holiday Shopping Sales Show a Move Towards Mobile-First'
 summary: 'U.S. shoppers are increasingly using their mobile devices to make purchases during the busiest shopping days: Black Friday and Thanksgiving weekend. According to Custora, online Black Friday sales rose more than 16% compared to last year, and smartphone use rose to more than 36% (up from 30% last year), with iPhones accounting for the lion’s share of'
 authors:

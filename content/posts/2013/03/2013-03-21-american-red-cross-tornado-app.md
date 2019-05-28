@@ -1,6 +1,6 @@
 ---
 slug: american-red-cross-tornado-app
-date: 2013-03-21 9:46:31 -0400
+date: 2013-03-21 9:46:00
 title: American Red Cross Tornado App
 summary: The American Red Cross Tornado App gets your family and home ready for a tornado. The app, which is available on the Android and iOS platforms, puts everything you need to know
 topics:

@@ -1,6 +1,6 @@
 ---
 slug: how-fsa-revamped-their-online-presence-with-mobile-moments-in-mind
-date: 2015-12-17 10:00:43 -0400
+date: 2015-12-17 10:00:00
 title: How FSA Revamped Their Online Presence with Mobile Moments in Mind
 summary: Let the mic drop! Mobile moments are created with the expectation that an app can stun the crowd. Do not let your audience down; they may never come back. Federal Student Aid (FSA), in an effort to provide better customer service, decided to build a mobile-responsive website. Kaegy Pabulos, a Borrower Experience Specialist and project
 authors:

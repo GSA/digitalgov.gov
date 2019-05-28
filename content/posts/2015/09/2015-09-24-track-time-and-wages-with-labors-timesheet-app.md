@@ -1,6 +1,6 @@
 ---
 slug: track-time-and-wages-with-labors-timesheet-app
-date: 2015-09-24 10:00:37 -0400
+date: 2015-09-24 10:00:00
 title: 'Track Time and Wages with Labor&#8217;s Timesheet App'
 summary: Believe it or not, even a couple years ago, I was using pen and paper to record and track the hours I worked. It was definitely a chore, reconciling work hours with leave, overtime and any number of other entries, week after week. However, in these times of mobile apps for almost anything, several products
 authors:

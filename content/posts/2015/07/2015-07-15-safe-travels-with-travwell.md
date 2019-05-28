@@ -1,6 +1,6 @@
 ---
 slug: safe-travels-with-travwell
-date: 2015-07-15 11:02:14 -0400
+date: 2015-07-15 11:02:00
 title: Safe Travels with TravWell
 summary: 'Ahhh&hellip; Summer is here at last! It’s time for relaxing vacation! Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris&mdash;it is time for a travel app.'
 authors:

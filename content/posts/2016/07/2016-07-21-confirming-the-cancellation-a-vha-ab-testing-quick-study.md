@@ -1,6 +1,6 @@
 ---
 slug: confirming-the-cancellation-a-vha-ab-testing-quick-study
-date: 2016-07-21 10:00:48 -0400
+date: 2016-07-21 10:00:00
 title: 'Confirming the Cancellation: A VHA A/B Testing Quick Study'
 summary: 'Summary: Clinicians using electronic health record (EHR) systems to make requests for patients need an intuitive, but safe, method of confirming that they want to cancel a started function or form. Recently, Veterans Health Administration (VHA) developers asked Human Factors Engineering (HFE) to assess a concern that a confirmation dialog in the EHR contained unclear'
 authors:

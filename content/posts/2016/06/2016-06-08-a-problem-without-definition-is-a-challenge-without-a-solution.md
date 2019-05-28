@@ -1,6 +1,6 @@
 ---
 slug: a-problem-without-definition-is-a-challenge-without-a-solution
-date: 2016-06-08 10:00:16 -0400
+date: 2016-06-08 10:00:00
 title: A Problem Without Definition Is a Challenge Without a Solution
 summary: 'A prize competition often starts with a problem. In order to get help to find a solution, people need to clearly understand your problem. Understanding and effectively communicating your problem isn’t easy, but it’s necessary. Problems are like spaghetti&mdash;messy and complex, says Denys Resnick, Executive Vice President of Strategic Programs at NineSigma Inc., which provides'
 authors:

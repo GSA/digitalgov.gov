@@ -1,6 +1,6 @@
 ---
 slug: new-playbook-details-what-its-like-to-work-with-18f-delivery
-date: 2015-11-20 1:00:26 -0400
+date: 2015-11-20 1:00:00
 title: 'New Playbook Details What It&#8217;s Like to Work with 18F Delivery'
 summary: If you or your agency have thought about working with 18F but are unsure of how we work with our partners, we have a new set of guidelines to help you out. The 18F Delivery Partner Playbook is specifically targeted at federal offices interested in working with 18F to build digital services. The playbook is
 authors:

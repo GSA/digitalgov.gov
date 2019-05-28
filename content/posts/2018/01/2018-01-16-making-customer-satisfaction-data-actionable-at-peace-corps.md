@@ -1,6 +1,6 @@
 ---
 slug: making-customer-satisfaction-data-actionable-at-peace-corps
-date: 2018-01-30 09:30:00 -0400
+date: 2018-01-30 09:30:00
 title: 'Making Customer Satisfaction Data Actionable at the Peace Corps'
 summary: 'Learn how measuring customer experience helped inform and guide website development at Peace Corps'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables
-date: 2014-12-11 11:14:44 -0400
+date: 2014-12-11 11:14:00
 title: Defense Finance Accounting Services Use HHS Code to Make Mobile-Friendly Tables
 summary: ' Government mobile code developed to help make tables mobile-friendly in one agency has now been used in another agency’s mobile efforts. Last month, Clair Koroma told DigitalGov readers about code that the Department of Health and Human Services had developed to make website tables mobile-friendly and then HHS'
 authors:

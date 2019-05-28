@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-six-new-changes-in-kids-media-habits
-date: 2014-02-25 11:53:59 -0400
+date: 2014-02-25 11:53:00
 title: 'Trends on Tuesday: Six New Changes in Kids&#8217; Media Habits'
 summary: 'Children&#8217;s mobile media use has doubled and in some cases tripled in the last two years, according an eSchool News report of a study by Common Sense Media. Here are the other key findings: Roughly twice'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: thinking-about-going-agile-consider-mass-training-facilitate-change
-date: 2018-03-13 12:00:00 -0500
+date: 2018-03-13 12:00:00
 title: 'Thinking About Going Agile&#63; Consider Mass Training to Facilitate the Change'
 summary: 'How organizational instruction can help transform the processes and culture of your office.'
 authors:

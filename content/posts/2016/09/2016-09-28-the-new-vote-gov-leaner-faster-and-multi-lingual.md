@@ -1,6 +1,6 @@
 ---
 slug: the-new-vote-gov-leaner-faster-and-multi-lingual
-date: 2016-09-28 11:00:27 -0400
+date: 2016-09-28 11:00:00
 title: 'The New Vote.gov: Leaner, Faster and Multi-Lingual'
 summary: 'One year ago this week, we launched vote.gov (also known as vote.usa.gov). It’s a concise and simple site with a single mission: direct citizens through the voter registration process as quickly as possible. It was created by a joint team of USA.gov staffers and Presidential Innovation Fellows, all of whom work within the General Services'
 authors:

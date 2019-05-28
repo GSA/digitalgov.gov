@@ -1,6 +1,6 @@
 ---
 slug: webinar-recap-plain-language-action-and-information-network-plain-june-meeting
-date: 2017-06-30 3:00:41 -0400
+date: 2017-06-30 3:00:00
 title: 'Webinar Recap: Plain Language Action and Information Network (PLAIN) June Meeting'
 summary: 'This month&#8217;s Plain Language of Community Practice meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful DigitalGov University (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session. Many'
 authors:

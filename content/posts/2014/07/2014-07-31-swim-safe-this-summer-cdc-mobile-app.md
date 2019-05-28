@@ -1,6 +1,6 @@
 ---
 slug: swim-safe-this-summer-cdc-mobile-app
-date: 2014-07-31 10:53:46 -0400
+date: 2014-07-31 10:53:00
 title: Safe Swimming This Summer (Can You Say That Four Times Fast?)
 summary: 'You don&#8217;t have to try too hard to get people into the water during summer. But swimming the healthy and safe way? Well, everyone could use help on that. Whether you are a swimmer, lifeguard, pool attendant or sun-loving spectator, the Centers for Disease'
 topics:

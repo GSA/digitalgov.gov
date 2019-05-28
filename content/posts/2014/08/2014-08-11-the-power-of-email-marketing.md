@@ -1,6 +1,6 @@
 ---
 slug: the-power-of-email-marketing
-date: 2014-08-11 10:00:14 -0400
+date: 2014-08-11 10:00:00
 title: The Power of Email Marketing
 summary: 'If you aren’t currently including email marketing in your digital outreach efforts, you’re missing out. Think about email marketing in the same way you think about tools like Facebook, Twitter, YouTube, and your website. It’s another digital platform that allows you to reach your customers and achieve your goals. Email marketing can be used in'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: making-world-war-i-relevant-today-are-wwi-propaganda-posters-the-original-meme
-date: 2017-07-05 12:36:52 -0400
+date: 2017-07-05 12:36:00
 title: 'Making World War I Relevant Today: Are WWI Propaganda Posters the Original Meme?'
 summary: 'Merriam-Webster officially defines a meme as &ldquo;an idea, behavior, style, or usage that spreads from person to person within a culture.&rdquo; But these days, most of us think of memes as those viral posts online that convey a message using a photo with text. They range from funny to serious to offensive, and everything in'
 authors:

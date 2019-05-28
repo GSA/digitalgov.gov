@@ -1,6 +1,6 @@
 ---
 slug: finding-usability-testers-tips-from-an-army-recruiter
-date: 2017-09-28 14:50:00 -0400
+date: 2017-09-28 14:50:00
 title: 'Finding Usability Testers: Tips from an Army Recruiter'
 summary: 'An Army recruiter shares how her training in the Army has helped in her approach to usability testing, and gives a peek inside how usability testing works for USAJOBS.gov at the Office of Personnel Management (OPM).'
 authors:

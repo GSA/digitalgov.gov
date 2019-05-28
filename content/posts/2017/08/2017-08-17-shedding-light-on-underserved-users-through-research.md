@@ -1,6 +1,6 @@
 ---
 slug: shedding-light-on-underserved-users-through-research
-date: 2017-08-17 2:29:33 -0400
+date: 2017-08-17 2:29:00
 title: Shedding Light on Underserved Users through Research
 summary: 'How user interviews helped spotlight the needs of a previously forgotten group.  We may not like to admit it, but, most web services or sites have users that (for whatever reason) just aren’t well understood&mdash;and in turn, not well served. Conducting user interviews and making sure you get good participation from those groups can help'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: opm-wants-to-hear-from-you-by-december-9
-date: 2015-11-27 13:00:16 -0400
+date: 2015-11-27 13:00:00
 title: OPM Wants to Hear from You by December 9
 summary: 'The Office of Personnel Management (OPM) is looking for agency subject matter experts (SMEs) to participate in an occupational study of the Public Affairs Series 1035. OPM is accepting SME submissions until Wednesday, December 9th. The study will review the &#8220;current classification and qualification standards for public affairs work&#8221; and allow OPM to make any revisions'
 authors:

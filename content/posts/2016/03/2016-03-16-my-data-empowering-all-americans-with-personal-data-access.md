@@ -1,6 +1,6 @@
 ---
 slug: my-data-empowering-all-americans-with-personal-data-access
-date: 2016-03-16 11:10:02 -0400
+date: 2016-03-16 11:10:00
 title: 'My Data: Empowering All Americans with Personal Data Access'
 summary: 'Summary: Consumers empowered with their own data are in the driver’s seat to make informed choices. In the 21st century economy, Americans rely on online services to access personal bank accounts, pay bills, and shop online, so why don’t we have similar interactions with Federal government through easy-to-use, online tools? The answer is we can&mdash;and increasingly'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: usa-gov-mobile-apps-gallery
-date: 2012-04-10 9:25:46 -0400
+date: 2012-04-10 9:25:00
 title: USA.gov Mobile Apps Gallery
 summary: 'In April 2012, the U.S. General Services Administration launched a &#8220;full stack&#8221; responsive redesign of the federal mobile apps galleries: apps.USA.gov and apps.GobiernoUSA.gov. The full stack includes both a REST API and a complete redesign of the site using responsive design techniques.'
 authors:

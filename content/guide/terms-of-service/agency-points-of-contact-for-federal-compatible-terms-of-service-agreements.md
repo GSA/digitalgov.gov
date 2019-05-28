@@ -1,6 +1,6 @@
 ---
 url: /guide/terms-of-service/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/
-date: 2014-01-08 10:49:03 -0400
+date: 2014-01-08 10:49:00
 title: Agency Points of Contact for Federal Compatible Terms of Service Agreements
 guide: terms-of-service
 summary: "The list of cabinet and non-cabinet agency points of contact for the federal-compatible Terms of Service agreements."

@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-be-prepared-with-the-federal-emergency-management-agencys-mobile-app
-date: 2015-05-06 11:00:44 -0400
+date: 2015-05-06 11:00:00
 title: 'The API Briefing: Be Prepared with the Federal Emergency Management Agency’s Mobile App'
 summary: 'Before coming to DC in late 2008, I lived in Louisville, Kentucky. Louisville is in the Ohio Valley Region, which meteorologists euphemistically call &ldquo;weather-rich.&rdquo; With spring came the beautiful flowers and the Kentucky Derby. Spring also brought flooding, tornadoes, severe thunderstorms, and windstorms. This is why I had several emergency weather radios that also doubled'
 authors:

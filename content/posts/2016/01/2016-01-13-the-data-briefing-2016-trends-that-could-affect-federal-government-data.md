@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-2016-trends-that-could-affect-federal-government-data
-date: 2016-01-13 13:00:51 -0400
+date: 2016-01-13 13:00:00
 title: 'The Data Briefing: 2016 Trends That Could Affect Federal Government Data'
 summary: 'Many IT pundits predict 2016 will be a major tipping point in data and related technologies. Here are just a few predictions: 1) The Internet of Things&mdash;The number of devices that can connect to the Internet increases, especially in consumer electronics. Also, the number of sensors will dramatically increase providing more real-time data on weather,'
 authors:

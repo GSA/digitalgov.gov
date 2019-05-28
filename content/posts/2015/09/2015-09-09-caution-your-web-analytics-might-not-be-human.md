@@ -1,6 +1,6 @@
 ---
 slug: caution-your-web-analytics-might-not-be-human
-date: 2015-09-09 10:00:14 -0400
+date: 2015-09-09 10:00:00
 title: 'Caution: Your Web Analytics Might Not Be Human'
 summary: 'A Digital Analytics Program (DAP) user recently contacted me with an observation/problem: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing,'
 authors:

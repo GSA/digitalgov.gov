@@ -1,6 +1,6 @@
 ---
 url: /guide/terms-of-service/
-date: 2014-01-09 2:40:58 -0400
+date: 2014-01-09 2:40:00
 title: "Federal-Compatible Terms of Service Agreements"
 guide: terms-of-service
 summary: 'Agreements negotiated between the federal government and vendors who offer digital tools and services.'

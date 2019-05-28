@@ -1,6 +1,6 @@
 ---
 slug: 5-things-every-federal-recruiter-should-know-about-linkedin
-date: 2014-05-16 10:00:19 -0400
+date: 2014-05-16 10:00:00
 title: 5 Things Every Federal Recruiter Should Know About LinkedIn
 summary: 'Some people think LinkedIn is only for active job seekers. Although many of LinkedIn’s 300,000,000+ registered members fit that profile, LinkedIn is also chock-full of passive job seekers&mdash;those who have a job but are'
 authors:

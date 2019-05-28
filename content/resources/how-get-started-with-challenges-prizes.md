@@ -1,6 +1,6 @@
 ---
 slug: /resources/how-get-started-with-challenges-prizes
-date: 2019-04-11 11:00:00 -0500
+date: 2019-04-11 11:00:00
 
 title: 'How to get started with challenges and prizes'
 deck: 'A repository of case studies and best practices for running challenges of all kinds.'

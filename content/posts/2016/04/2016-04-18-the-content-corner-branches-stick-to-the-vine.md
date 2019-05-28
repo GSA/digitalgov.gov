@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-branches-stick-to-the-vine
-date: 2016-04-18 11:00:03 -0400
+date: 2016-04-18 11:00:00
 title: 'The Content Corner: Branches—Stick to the Vine'
 summary: A branch that does not stick to its source of nutrition will wither away and die. Just ask anyone who has received a bouquet of beautiful flowers about how long they really last. In the same way, as communicators we must stay connected to our audience, or we risk the chance of fading away into
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: explore-iconic-overseas-world-war-ii-sites-with-abmc-apps
-date: 2015-03-05 10:22:36 -0400
+date: 2015-03-05 10:22:00
 title: Explore Iconic Overseas World War II Sites with ABMC Apps
 summary: 'We have not forgotten, we will never forget, the debt of infinite gratitude that we have contracted with those who gave everything for our freedom. Rene Coty, Pr&eacute;sident de la R&eacute;publique Francaise Those are the words of Rene Coty, the president'
 authors:

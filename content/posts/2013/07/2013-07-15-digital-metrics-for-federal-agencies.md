@@ -1,6 +1,6 @@
 ---
 slug: digital-metrics-for-federal-agencies
-date: 2013-07-15 11:41:47 -0400
+date: 2013-07-15 11:41:00
 title: Digital Metrics for Federal Agencies
 summary: 'Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers. Part 1: Common Metrics: Guidance, Best Practices, and'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: how-a-two-day-sprint-moved-an-agency-twenty-years-forward
-date: 2015-09-21 10:00:49 -0400
+date: 2015-09-21 10:00:00
 title: How a Two-Day Sprint Moved an Agency Twenty Years Forward
 summary: 'At 18F Consulting, we experiment with ways to empower agencies to build cost-efficient, excellent digital solutions. Recently we partnered with the Department of Labor’s Wage and Hour Division (WHD) to run a two day &ldquo;Design/Dev Agile Sprint.&rdquo; Background: Investigators in Wage and Hour Division The Department of Labor’s Wage and Hour Division is responsible for'
 authors:

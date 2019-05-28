@@ -1,6 +1,6 @@
 ---
 slug: content-syndication-of-nih-grants-information-now-available
-date: 2015-07-02 10:47:58 -0400
+date: 2015-07-02 10:47:00
 title: Content Syndication of NIH Grants Information Now Available
 summary: 'Now you can pull the latest NIH grant content directly into your site.'
 authors:

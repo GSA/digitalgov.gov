@@ -1,6 +1,6 @@
 ---
 slug: how-to-tell-your-agencys-story-plainly
-date: 2014-04-16 10:00:23 -0400
+date: 2014-04-16 10:00:00
 title: How to Tell Your Agency’s Story—Plainly
 summary: 'You’ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You’ve got the facts. You’ve got the talking points. All you have to do is put it together, right? Wait. What you want to tell people is not necessarily what they need to know. I know it’s hard to organize material'
 authors:

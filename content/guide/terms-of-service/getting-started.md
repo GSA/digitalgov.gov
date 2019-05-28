@@ -1,6 +1,6 @@
 ---
 url: /guide/terms-of-service/getting-started/
-date: 2014-01-09 2:40:58 -0400
+date: 2014-01-09 2:40:00
 title: "Getting Started"
 guide: terms-of-service
 summary: ""

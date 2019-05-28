@@ -1,6 +1,6 @@
 ---
 slug: the-nuance-between-customers-and-partners
-date: 2013-12-20 10:10:08 -0400
+date: 2013-12-20 10:10:00
 title: The Nuance Between Customers and Partners
 summary: 'Before you can create your customer experience (CX) strategy, you have to answer the key question: Who are your customers? Consider the concept that among the groups you interact with internally, you could be their customer, they could be your customer, or you'
 authors:

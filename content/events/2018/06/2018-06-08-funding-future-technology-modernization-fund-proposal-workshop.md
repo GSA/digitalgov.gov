@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-date: 2018-06-08 09:00:00 -0500
-end_date: 2018-06-08 12:00:00 -0500
+date: 2018-06-08 09:00:00
+end_date: 2018-06-08 12:00:00
 event_organizer: DigitalGov University
 host:
 registration_url: https://www.eventbrite.com/e/funding-the-future-technology-modernization-fund-proposal-workshop-registration-46384593568

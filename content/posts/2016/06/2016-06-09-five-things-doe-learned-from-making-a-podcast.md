@@ -1,6 +1,6 @@
 ---
 slug: five-things-doe-learned-from-making-a-podcast
-date: 2016-06-09 10:00:33 -0400
+date: 2016-06-09 10:00:00
 title: Five Things DOE Learned from Making a Podcast
 summary: 'The Energy Department launched Direct Current, our first podcast, on May 9. The first episode&mdash;all about rooftop solar, as well as the history of our agency&mdash;has been well-received so far by press, stakeholders, and the general public. One review'
 authors:

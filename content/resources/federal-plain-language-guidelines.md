@@ -1,6 +1,6 @@
 ---
 slug: federal-plain-language-guidelines
-date: 2015-11-05 2:06:53 -0400
+date: 2015-11-05 2:06:00
 title: Federal Plain Language Guidelines
 summary: 'The Plain Language Action and Information Network (PLAIN) put together these federal guidelines to help implement the Plain Language Act of 2010. View Plain Language Guidelines Related Resources: Plain Writing Act of 2010 Plain Writing Basics Plain Language Web Writing Tips See all DigitalGov Resources'
 topics:

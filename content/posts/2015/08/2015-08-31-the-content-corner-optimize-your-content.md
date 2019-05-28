@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-optimize-your-content
-date: 2015-08-31 10:00:08 -0400
+date: 2015-08-31 10:00:00
 title: 'The Content Corner: Optimize Your Content'
 summary: 'For the past several weeks, I have been writing about fairly cerebral and more technical aspects of content generation and language in general. This week, I felt it was time to get back to a more basic content concept: content optimization. Frequently when content optimization is discussed it is heavily focused on search engine optimization'
 authors:

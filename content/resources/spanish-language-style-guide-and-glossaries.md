@@ -1,6 +1,6 @@
 ---
 slug: spanish-language-style-guide-and-glossaries
-date: 2014-06-11 9:55:09 -0400
+date: 2014-06-11 9:55:00
 title: 'Spanish Language Style Guides and Glossaries'
 summary: 'Spanish Language Style Guides are resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, and glossaries to standardize the use of Spanish across government.'
 topics:

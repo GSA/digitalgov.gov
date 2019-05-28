@@ -1,6 +1,6 @@
 ---
 slug: twitter-chats-for-federal-agencies
-date: 2013-10-16 12:10:18 -0400
+date: 2013-10-16 12:10:00
 title: Twitter Chat Guidance for Federal Agencies
 summary: A Twitter town hall, or Twitter chat, is an event where agencies invite public engagement for a scheduled time period during which users can ask questions or find out more information about a topic via Twitter, much like a webinar. The questions are tagged
 authors:

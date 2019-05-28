@@ -1,6 +1,6 @@
 ---
 slug: federal-perspectives-on-reaching-our-audiences-with-new-media-tools-in-2014
-date: 2014-04-30 1:03:13 -0400
+date: 2014-04-30 1:03:00
 title: Federal Perspectives on Reaching Our Audiences with New Media Tools in 2014
 summary: AIDS.gov convenes and is guided by the Federal HIV/AIDS Web Council. The Council includes Web/new media leads, subject matter experts, and communication leads representing HIV programs across the U.S. government. Together we use new media to promote federal programs, policies and resources related to HIV.
 authors:

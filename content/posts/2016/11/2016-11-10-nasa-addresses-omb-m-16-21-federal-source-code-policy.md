@@ -1,6 +1,6 @@
 ---
 slug: nasa-addresses-omb-m-16-21-federal-source-code-policy
-date: 2016-11-10 3:00:22 -0400
+date: 2016-11-10 3:00:00
 title: NASA Addresses OMB M-16-21 Federal Source Code Policy
 summary: In August 2016, OMB released M-16-21, which seeks to ensure that new custom-developed Federal source code be made broadly available for reuse across the Federal Government. M-16-21 also requires agencies, when commissioning new custom software, to release at least 20 percent of new custom-developed code as Open Source Software (OSS) for three years, and to
 authors:

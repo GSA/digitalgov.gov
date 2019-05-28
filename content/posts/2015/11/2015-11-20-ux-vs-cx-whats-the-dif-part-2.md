@@ -1,6 +1,6 @@
 ---
 slug: ux-vs-cx-whats-the-dif-part-2
-date: 2015-11-20 11:10:26 -0400
+date: 2015-11-20 11:10:00
 title: 'UX vs. CX: What&#8217;s the Dif? Part 2'
 summary: 'In honor of World Usability Day, which happened on November 12, we’d like to demystify two extremely important and oft-confusing acronyms&mdash;CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery.'
 authors:

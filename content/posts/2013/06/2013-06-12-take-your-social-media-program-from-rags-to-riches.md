@@ -1,6 +1,6 @@
 ---
 slug: take-your-social-media-program-from-rags-to-riches
-date: 2013-06-12 8:55:54 -0400
+date: 2013-06-12 8:55:00
 title: Take Your Social Media Program From Rags to Riches
 summary: Are you a small or even one-deep government social media team who wonders how with limited resources you can still deliver the program citizens need? Do you have a larger team but still want to know how you can roll up your sleeves and make a change? If either
 authors:

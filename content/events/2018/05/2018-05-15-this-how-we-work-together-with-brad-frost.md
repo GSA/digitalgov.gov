@@ -8,8 +8,8 @@ featured_image:
 event_type:
   - youtube-live
   - online
-date: 2018-05-31 11:00:00 -0500
-end_date: 2018-05-31 12:00:00 -0500
+date: 2018-05-31 11:00:00
+end_date: 2018-05-31 12:00:00
 event_organizer: DigitalGov
 host:
 registration_url: https://www.eventbrite.com/e/this-is-how-we-work-together-with-brad-frost-registration-46125160597

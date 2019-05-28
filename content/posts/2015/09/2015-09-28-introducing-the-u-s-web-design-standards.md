@@ -1,6 +1,6 @@
 ---
 slug: introducing-the-u-s-web-design-standards
-date: 2015-09-28 3:18:18 -0400
+date: 2015-09-28 3:18:00
 title: Introducing the U.S. Web Design Standards
 summary: Joanne is a young Army Veteran who is looking to make use of her GI Bill Benefits and apply for federal student loans to attend college. In trying to access the federal programs which will allow her to afford college, Joanne must navigate the websites of multiple agencies. She finds dozens of government websites which
 authors:

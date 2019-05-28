@@ -1,6 +1,6 @@
 ---
 slug: get-started-with-challenge-and-prize-competitions
-date: 2014-03-31 10:00:13 -0400
+date: 2014-03-31 10:00:00
 title: Get Started with Challenge and Prize Competitions
 summary: 'Interested in running a challenge and prize competition, but don&#8217;t know where to start? Well, here are all the resources GSA&#8217;s Office of Citizen Services and Innovative Technologies has to offer: 1) Challenge.gov. Put your agency&#8217;s challenges on this government-wide listing and learn about more than 300 public'
 authors:

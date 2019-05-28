@@ -1,7 +1,7 @@
 ---
 url: /communities/mobile/
 uid: mobile
-date: 2013-11-21 3:30:19 -0400
+date: 2013-11-21 3:30:00
 title: 'MobileGov'
 summary: 'We work across agencies to implement government-wide solutions for making mobile technologies better.'
 

@@ -1,6 +1,6 @@
 ---
 slug: contact-center-guidelines/contact-center-technologies
-date: 2014-02-05 10:27:01 -0400
+date: 2014-02-05 10:27:00
 title: Contact Center Technologies
 summary: 'A contact center is supported by many technologies designed to enhance the customer experience, improve the operating and management efficiency, or lower the overall costs of running a contact center. These technologies are: Automatic Call Distributor Systems Email Response Management Systems Intelligent Call Routing Interactive Voice Response Systems Knowledge Management Systems TTY/TDD Communications Toll-Free Telephone'
 topics:

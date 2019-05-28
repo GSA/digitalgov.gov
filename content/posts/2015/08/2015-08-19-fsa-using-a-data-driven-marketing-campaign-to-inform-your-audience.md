@@ -1,6 +1,6 @@
 ---
 slug: fsa-using-a-data-driven-marketing-campaign-to-inform-your-audience
-date: 2015-08-19 10:00:04 -0400
+date: 2015-08-19 10:00:00
 title: 'FSA: Using a Data-Driven Marketing Campaign to Inform Your Audience'
 summary: ' For millions of Americans, federal student loans have made it possible to get a college education. For many, moving forward after college can become an overwhelming challenge. In 2014, the Department of Education had 41 million borrowers and a loan'
 authors:

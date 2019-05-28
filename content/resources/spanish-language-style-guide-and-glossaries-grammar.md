@@ -1,6 +1,6 @@
 ---
 slug: spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar
-date: 2014-02-07 5:16:19 -0400
+date: 2014-02-07 5:16:00
 title: 'Spanish Language Style Guide and Glossaries: Grammar'
 summary: 'Examples and explanations for words, phrases, acronyms, numbers, punctuation, capitalization, symbols, and more used in Spanish grammar.'
 topics:

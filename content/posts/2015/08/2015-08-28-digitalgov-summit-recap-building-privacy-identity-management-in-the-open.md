@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-summit-recap-building-privacy-identity-management-in-the-open
-date: 2015-08-28 10:00:32 -0400
+date: 2015-08-28 10:00:00
 title: 'DigitalGov Summit Recap: Building Privacy & Identity Management in the Open'
 summary: 'How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the 2015 DigitalGov Citizen Services Summit. &#8220;Cybersecurity has really come a long way in the last 10 years, unifying the conversation about risk across organizations,&#8221; said'
 authors:

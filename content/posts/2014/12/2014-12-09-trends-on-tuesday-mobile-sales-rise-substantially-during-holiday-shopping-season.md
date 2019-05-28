@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-mobile-sales-rise-substantially-during-holiday-shopping-season
-date: 2014-12-09 10:14:32 -0400
+date: 2014-12-09 10:14:00
 title: 'Trends on Tuesday: Mobile Sales Rise Substantially During Holiday Shopping Season'
 summary: 'Were you surfing the pre-Black Friday online sales while waiting for the Thanksgiving turkey to appear on the table? Turns out, you weren’t alone. &ldquo;Online sales for Thanksgiving 2014 grew 12.2%, with mobile sales accounting for 74% of that traffic,&rdquo; according to Mobile Marketing Watch. To put that in context, mobile sales grew 26.1% percent'
 authors:

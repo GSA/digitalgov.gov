@@ -1,6 +1,6 @@
 ---
 url: /guide/terms-of-service/negotiated-terms-of-service-agreements/
-date: 2014-01-13 10:50:02 -0400
+date: 2014-01-13 10:50:00
 uid: negotiated-terms-of-service-agreements
 title: 'Negotiated Terms of Service Agreements'
 type: guide

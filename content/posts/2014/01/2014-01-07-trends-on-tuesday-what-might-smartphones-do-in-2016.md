@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-what-might-smartphones-do-in-2016
-date: 2014-01-07 13:42:23 -0400
+date: 2014-01-07 13:42:00
 title: 'Trends on Tuesday: What Might Smartphones Do in 2016?'
 summary: 'A recent article in Mobile Marketing Watch suggested location-based sensor fusion would be featured on a billion mobile devices in 2016. Last year Mary Meeker said in 2013 that mobile would be wearable, sharable, drivable and flyable. We&#8217;ve gathered some other projections for the future functionality of mobile devices; &bull; Indoor'
 authors:

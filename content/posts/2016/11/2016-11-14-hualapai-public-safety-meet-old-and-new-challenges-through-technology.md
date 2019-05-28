@@ -1,6 +1,6 @@
 ---
 slug: hualapai-public-safety-meet-old-and-new-challenges-through-technology
-date: 2016-11-14 11:00:06 -0400
+date: 2016-11-14 11:00:00
 title: Hualapai Public Safety Meet Old and New Challenges Through Technology
 summary: '6,000 feet deep, 18 miles wide, 5,000 people per day: The Reality of the Tribal Beat How can a place be remote and virtually unpopulated, yet constantly full of thousands of people and teeming with activity? It certainly seems impossible, but that is exactly the situation at Grand Canyon West (GCW), home of the Hualapai'
 authors:

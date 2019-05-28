@@ -9,8 +9,8 @@ featured_image:
 event_type:
   - online
   - in-person
-date: 2019-05-15 9:00:00 -0500
-end_date: 2019-05-15 12:00:00 -0500
+date: 2019-05-15 9:00:00
+end_date: 2019-05-15 12:00:00
 event_organizer: DigitalGov University
 host: User Experience Community of Practice
 registration_url: https://www.eventbrite.com/e/government-ux-summit-2019-registration-56653417898

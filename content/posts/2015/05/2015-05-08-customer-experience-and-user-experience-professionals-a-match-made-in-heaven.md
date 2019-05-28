@@ -1,6 +1,6 @@
 ---
 slug: customer-experience-and-user-experience-professionals-a-match-made-in-heaven
-date: 2015-05-08 9:50:44 -0400
+date: 2015-05-08 9:50:00
 title: 'Customer Experience and User Experience Professionals &#8211; A Match Made in Heaven!'
 summary: 'Recently, Forrester Research analyst Leah Buley wrote a blog post and report that reminded me of our &#8220;what&#8217;s the diff?&#8221; article on customer experience vs. user experience. In them, she describes the difference between customer experience professionals (CX) and user experience professionals (UX). A Forrester survey found that about 40% of the time, CX and UX are'
 authors:

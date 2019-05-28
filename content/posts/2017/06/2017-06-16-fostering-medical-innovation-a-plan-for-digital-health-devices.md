@@ -1,6 +1,6 @@
 ---
 slug: fostering-medical-innovation-a-plan-for-digital-health-devices
-date: 2017-06-16 15:07:18 -0400
+date: 2017-06-16 15:07:00
 title: 'Fostering Medical Innovation: A Plan for Digital Health Devices'
 summary: It is incumbent upon FDA to ensure that we have the right policies in place to promote and encourage safe and effective innovation that can benefit consumers, and adopt regulatory approaches to enable the efficient development of these technologies. By taking an efficient, risk-based approach to our regulation, FDA can promote health through the creation
 authors:

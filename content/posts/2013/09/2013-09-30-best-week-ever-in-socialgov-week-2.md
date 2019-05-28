@@ -1,6 +1,6 @@
 ---
 slug: best-week-ever-in-socialgov-week-2
-date: 2013-09-30 2:58:09 -0400
+date: 2013-09-30 2:58:00
 title: 'Best Week Ever in #SocialGov: 2'
 summary: '(This is the second installment of an ongoing series charting the programs, events and people that make the emerging field of social media and data in government From where I sit, I think we just had a great week in #socialgov. From a sold-out international forum that demonstrated how we can use free tools to'
 authors:

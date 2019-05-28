@@ -1,6 +1,6 @@
 ---
 slug: wherever-you-go-there-we-are-the-geolocation-api
-date: 2015-11-23 13:00:37 -0400
+date: 2015-11-23 13:00:00
 title: 'Wherever You Go, There We Are: the Geolocation API'
 summary: 'No matter how you go mobile, you can meet your user’s needs. Recommendations based on location are plentiful, particularly on native apps. But don’t fret, agencies with mobile websites: you can also get in the location customization game. Geolocation is a W3C scripting API that can be used with JavaScript in Web browsers. In the'
 authors:

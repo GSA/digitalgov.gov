@@ -7,8 +7,8 @@ featured_image:
   alt: 'FedRAMP Logo'
 event_type:
   - youtube-live
-date: 2018-02-14 12:00:00 -0500
-end_date: 2018-02-14 13:00:00 -0500
+date: 2018-02-14 12:00:00
+end_date: 2018-02-14 13:00:00
 event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/how-fedramp-supports-agencies-a-resource-overview-registration-41287416775

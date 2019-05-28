@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal
-date: 2015-01-13 12:02:04 -0400
+date: 2015-01-13 12:02:00
 title: 'Trends On Tuesday: Responsive Web Design Implementation Happening Piecemeal'
 summary: 'Approximately 18% of websites have implemented Responsive Web Design, according to the audit of websites Guy Podjarny completed in November. That&#8217;s more than 7% growth since his previous audit in January 2014. That number may seem low with the popularity of Responsive Web Design and the preference of mobile websites from users, but implementing responsive Web'
 authors:

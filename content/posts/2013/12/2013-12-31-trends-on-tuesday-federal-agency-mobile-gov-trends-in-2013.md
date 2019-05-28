@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-federal-agency-mobile-gov-trends-in-2013
-date: 2013-12-31 13:31:03 -0400
+date: 2013-12-31 13:31:00
 title: 'Trends on Tuesday: Federal Agency Mobile Gov Trends in 2013'
 summary: Today we want to tell you about the federal agency trends we saw this year in the development of public facing mobile products. Digital Government Strategy drove Mobile Gov Development Digital Government Strategy milestone 7.2 required agencies to implement two public facing mobile products in May. The White House highlighted
 authors:

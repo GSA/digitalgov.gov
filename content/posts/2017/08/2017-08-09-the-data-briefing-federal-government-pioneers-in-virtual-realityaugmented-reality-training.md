@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-federal-government-pioneers-in-virtual-realityaugmented-reality-training
-date: 2017-08-09 5:59:54 -0400
+date: 2017-08-09 5:59:00
 title: 'The Data Briefing: Federal Government Pioneers in Virtual Reality/Augmented Reality Training'
 summary: When I was in the private sector, around the year 2000, I worked for an information technology (IT) consulting company as a project manager and developer. On one project, I provided support for early mobile devices given to medical students. I worked in a small office around the corner from the cardio-respiratory simulator (CRS). The
 authors:

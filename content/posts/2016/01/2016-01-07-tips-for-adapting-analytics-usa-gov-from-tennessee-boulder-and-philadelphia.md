@@ -1,6 +1,6 @@
 ---
 slug: tips-for-adapting-analytics-usa-gov-from-tennessee-boulder-and-philadelphia
-date: 2016-01-07 13:19:21 -0400
+date: 2016-01-07 13:19:00
 title: Tips for Adapting analytics.usa.gov from Tennessee, Boulder, and Philadelphia
 summary: 'When we launched analytics.usa.gov with the Digital Analytics Program, the U.S. Digital Service, and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction: This open source project is in the public domain, which means'
 authors:

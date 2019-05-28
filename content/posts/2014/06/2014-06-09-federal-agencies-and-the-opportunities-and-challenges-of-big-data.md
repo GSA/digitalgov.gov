@@ -1,6 +1,6 @@
 ---
 slug: federal-agencies-and-the-opportunities-and-challenges-of-big-data
-date: 2014-06-09 11:20:01 -0400
+date: 2014-06-09 11:20:00
 title: Federal Agencies and the Opportunities and Challenges of Big Data
 summary: 'On June 19, the Obama Administration will continue the conversation on big data as we co-host our fourth big data conference, this time with the Georgetown University McCourt School of Public Policy’s Massive Data Institute. The conference, &ldquo;Improving Government Performance in the Era of Big Data; Opportunities and Challenges for Federal Agencies,&rdquo; will build on'
 authors:

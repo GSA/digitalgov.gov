@@ -1,6 +1,6 @@
 ---
 slug: introducing-openfda
-date: 2014-03-17 12:00:06 -0400
+date: 2014-03-17 12:00:00
 title: Introducing openFDA
 summary: ' Welcome to the new home of openFDA! We are incredibly excited to see so much interest in our work and hope that this site can be a valuable resource to those wishing to use public FDA data in both the public and private'
 authors:

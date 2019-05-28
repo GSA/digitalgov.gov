@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-top-five-findings-for-api-developers-from-pew-research-center
-date: 2015-04-29 10:00:19 -0400
+date: 2015-04-29 10:00:00
 title: 'The API Briefing: Top Five Findings for API Developers from Pew Research Center'
 summary: 'The Pew Research Center just released a report on how Americans view open government data. The following findings were based on a November to December 2014 survey of 3,212 adults. Two-thirds of Americans use the Internet or an app to connect with the government. According to Pew, 37% use the Internet to connect with the'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: optimizing-social-at-peace-corps-not-a-zero-sum-game
-date: 2015-10-02 10:00:12 -0400
+date: 2015-10-02 10:00:00
 title: 'Optimizing Social at Peace Corps: Not a Zero-Sum Game'
 summary: 'At the Peace Corps, we continually try to find new ways to test, measure and optimize our marketing and communications initiatives. Recently, we embarked on a project to design a framework to test and optimize content on the social media platforms we use to engage our stakeholders. This process required us to reboot our expectations in terms of'
 authors:

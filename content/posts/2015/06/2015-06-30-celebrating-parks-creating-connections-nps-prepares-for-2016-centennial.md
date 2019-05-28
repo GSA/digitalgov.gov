@@ -1,6 +1,6 @@
 ---
 slug: celebrating-parks-creating-connections-nps-prepares-for-2016-centennial
-date: 2015-06-30 2:06:40 -0400
+date: 2015-06-30 2:06:00
 title: 'Celebrating Parks, Creating Connections: NPS Prepares for 2016 Centennial'
 summary: ' Planning your next national park adventure (from the comfort of your couch) is easier than ever with a new website, Find Your Park.com. Launched on April 2nd, the mobile-friendly FindYourPark.com was designed and launched by the National Park Foundation (NPF), the'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: trends-big-data-and-gov-in-2015
-date: 2015-01-20 11:00:41 -0400
+date: 2015-01-20 11:00:00
 title: 'Trends: Big Data and Gov in 2015'
 summary: ' As we move into 2015, the amount of data available in the digital ecosystem will increase very rapidly because of the Internet of Things (IoT), social media and wearable tech. In the future, the problem lies not only with data collection, but with what one does with the data. Big'
 authors:

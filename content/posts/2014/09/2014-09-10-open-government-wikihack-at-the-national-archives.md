@@ -1,6 +1,6 @@
 ---
 slug: open-government-wikihack-at-the-national-archives
-date: 2014-09-10 10:00:36 -0400
+date: 2014-09-10 10:00:00
 title: 'Open Government #WikiHack at the National Archives'
 summary: ' The National Archives and Records Administration and Wikimedia D.C., invite you to help us improve access to open government data on Wikipedia. We are excited to announce that we will be hosting the Open Government #WikiHack, a two-day hackathon at the National Archives Building in downtown'
 authors:

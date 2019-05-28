@@ -1,6 +1,6 @@
 ---
 slug: what-do-mac-cheese-and-power-of-attorneys-have-in-common
-date: 2016-02-26 10:47:25 -0400
+date: 2016-02-26 10:47:00
 title: 'What do Mac & Cheese and Power of Attorneys Have in Common?'
 summary: 'They ranked among our top three most popular emails in 2015. At USAGov, we know that email is often our #1 driver of traffic to our content, and nine out of 10 times it’s our go-to outreach tool for disseminating timely information. But doing email sends consistently and effectively isn’t always clear cut, especially when'
 authors:

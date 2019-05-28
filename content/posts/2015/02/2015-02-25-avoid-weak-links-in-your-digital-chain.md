@@ -1,6 +1,6 @@
 ---
 slug: avoid-weak-links-in-your-digital-chain
-date: 2015-02-25 11:10:25 -0400
+date: 2015-02-25 11:10:00
 title: Avoid Weak ‘Links’ in Your Digital Chain
 summary: 'Users don’t like surprises. Unexpected or unwanted content undermines the credibility of your agency and frustrates users who come to your website looking for specific information. Using links appropriately in your website content is one way to build trust with users, according to an article by Kara Pernice of the Nielsen Norman Group. Here’s a'
 authors:

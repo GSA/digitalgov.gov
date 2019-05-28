@@ -1,6 +1,6 @@
 ---
 slug: api-security
-date: 2013-07-29 1:12:58 -0400
+date: 2013-07-29 1:12:00
 title: API Security
 summary: 'Like website development, API security revolves around three stages&mdash;planning the API, testing the API, and monitoring the API after it has launched. The planning stage requires those involved to conceptually map several design decisions and the impact that they will have on security. The second stage applies your agency’s security program to the API release'
 authors:

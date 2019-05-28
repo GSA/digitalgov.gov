@@ -8,8 +8,8 @@ featured_image:
 event_type: 
   - online
   - in-person
-date: 2019-03-27 15:00:00 -0500
-end_date: 2019-03-27 16:30:00 -0500
+date: 2019-03-27 15:00:00
+end_date: 2019-03-27 16:30:00
 event_organizer: DigitalGov University
 host: APIs Community of Practice
 registration_url: https://www.eventbrite.com/e/government-api-community-of-practice-quarterly-check-in-registration-59198623677

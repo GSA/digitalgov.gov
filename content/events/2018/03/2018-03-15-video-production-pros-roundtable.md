@@ -8,8 +8,8 @@ featured_image:
 event_type:
   - youtube-live
   - in-person
-date: 2018-03-15 16:00:00 -0500
-end_date: 2018-03-15 17:30:00 -0500
+date: 2018-03-15 16:00:00
+end_date: 2018-03-15 17:30:00
 event_organizer: DigitalGov University
 host: Video Production Community
 registration_url: https://www.eventbrite.com/e/video-production-pros-roundtable-registration-43757301266

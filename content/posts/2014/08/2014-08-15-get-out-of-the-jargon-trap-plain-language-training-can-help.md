@@ -1,6 +1,6 @@
 ---
 slug: get-out-of-the-jargon-trap-plain-language-training-can-help
-date: 2014-08-15 10:00:22 -0400
+date: 2014-08-15 10:00:00
 title: 'Get Out of the Jargon Trap: Plain Language Training Can Help'
 summary: The Plain Language Action and Information Network (PLAIN) is the official federal working group designated to help agencies with plain language, including training. PLAIN offers free 3.5-hour classes in the principles of plain language and plain language for Web writing.
 authors:

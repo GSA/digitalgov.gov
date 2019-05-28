@@ -1,6 +1,6 @@
 ---
 slug: government-as-an-information-franchise
-date: 2012-11-13 9:28:00 -0400
+date: 2012-11-13 9:28:00
 title: Government as an Information Franchise
 summary: 'The Digital Government Strategy represents best practices in today’s web services landscape. The DGS outlines a path to making government web services faster, more cost-efficient and higher-performing. It also frames out the digital government that everybody wants by making government information more flexible, actionable and easier to use. America Has Been There and Done That. Really?! Many consider'
 authors:

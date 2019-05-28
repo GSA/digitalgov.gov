@@ -1,6 +1,6 @@
 ---
 url: /guide/dap/common-questions-about-dap-faq/
-date: 2013-12-02 7:37:00 -0400
+date: 2013-12-02 7:37:00
 title: 'Common Questions about DAP'
 deck: 'These are the questions we get asked the most about the Digital Analytics Program (DAP)'
 summary: 'These are the questions we get asked the most about the Digital Analytics Program (DAP)'

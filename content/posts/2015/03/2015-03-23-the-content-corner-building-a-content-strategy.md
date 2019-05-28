@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-building-a-content-strategy
-date: 2015-03-23 9:45:24 -0400
+date: 2015-03-23 9:45:00
 title: 'The Content Corner: Building a Content Strategy'
 summary: 'I recently read a disheartening statistic which stated that only 32% of B2B organizations and 27% of B2C organizations had a documented content strategy. When you combine these results with the general assumption that the federal government lags behind in areas such as this (especially since content strategies have a marketing basis), then the number'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: can-you-crowdsource-your-user-experience-research
-date: 2014-12-09 12:00:34 -0400
+date: 2014-12-09 12:00:00
 title: Can You Crowdsource Your User Experience Research?
 summary: 'In one sense, almost any type of user research is crowdsourced&mdash;you’re talking to people and using that information to improve your system. But in a true sense, crowdsourcing is more than just collecting information, it’s collaborating on it. We want to have real conversations, not one-time emailed suggestions without followups. So here’s a few tidbits'
 authors:

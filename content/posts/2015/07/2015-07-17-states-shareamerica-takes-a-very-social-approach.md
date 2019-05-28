@@ -1,6 +1,6 @@
 ---
 slug: states-shareamerica-takes-a-very-social-approach
-date: 2015-07-17 10:00:59 -0400
+date: 2015-07-17 10:00:00
 title: State’s ShareAmerica Takes a Very Social Approach
 summary: 'Social media is front and center at Share.America.gov, a U.S. Department of State site managed by the Bureau of International Information Programs, that describes itself as a &ldquo;platform for sharing compelling stories and images that spark discussion and debate on important topics like democracy, freedom of expression, innovation, entrepreneurship, education, and the role of civil society.&rdquo;'
 authors:

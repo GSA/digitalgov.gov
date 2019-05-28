@@ -1,6 +1,6 @@
 ---
 slug: welcome-to-the-future-of-census-gov
-date: 2014-02-24 14:34:01 -0400
+date: 2014-02-24 14:34:00
 title: Welcome to the Future of Census.gov
 summary: 'If you have ever visited census.gov, you know that sorting through the vast array of information about America’s people, places and economy can be daunting. Based on customer research and feedback we collected and analyzed over time, we heard loud and clear'
 authors:

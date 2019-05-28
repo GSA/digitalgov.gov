@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-twenty-years-of-usajobs
-date: 2016-10-12 13:00:42 -0400
+date: 2016-10-12 13:00:00
 title: 'The Data Briefing: Twenty Years of USAJOBS'
 summary: I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20th anniversary of USAJOBS. 1) What are the three big lessons learned from 20 years of building and managing USAJOBS? I think one of the greatest benefits of being an Agile program is that we are constantly learning. In
 authors:

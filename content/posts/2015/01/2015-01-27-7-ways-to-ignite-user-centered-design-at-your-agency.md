@@ -1,6 +1,6 @@
 ---
 slug: 7-ways-to-ignite-user-centered-design-at-your-agency
-date: 2015-01-27 10:00:54 -0400
+date: 2015-01-27 10:00:00
 title: 7 Ways to Ignite User-Centered Design at Your Agency
 summary: 'So you’ve done a couple of usability studies, and a few people are starting to &ldquo;see the light.&rdquo; Now you’d like to take it to the next level and help your organization embrace user-centered design (UCD) as the philosophy that drives all your digital projects. But what is best way to do this? How can'
 authors:

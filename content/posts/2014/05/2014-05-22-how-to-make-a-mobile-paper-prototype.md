@@ -1,6 +1,6 @@
 ---
 slug: how-to-make-a-mobile-paper-prototype
-date: 2014-05-22 13:00:44 -0400
+date: 2014-05-22 13:00:00
 title: How to Make a Mobile Paper Prototype
 summary: 'What if a single piece of paper could make your mobile app work 20 percent better? It’s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it’s true. Well before we get into the design and coding phases, we can show customers'
 authors:

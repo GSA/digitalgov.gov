@@ -1,6 +1,6 @@
 ---
 slug: responsive-web-design-workshop-why-how-and-whats-next
-date: 2014-01-30 10:28:29 -0400
+date: 2014-01-30 10:28:00
 title: 'Responsive Web Design Workshop: Why, How and What’s Next?'
 summary: 'Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many agencies have implemented it and many others are exploring this approach to Mobile Gov. There are still many other questions about responsive web'
 authors:

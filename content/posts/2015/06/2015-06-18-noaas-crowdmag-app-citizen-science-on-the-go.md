@@ -1,6 +1,6 @@
 ---
 slug: noaas-crowdmag-app-citizen-science-on-the-go
-date: 2015-06-18 10:00:40 -0400
+date: 2015-06-18 10:00:00
 title: 'NOAA&#8217;s CrowdMag App: Citizen Science on the Go'
 summary: 'The rise in mobile device usage has created a rise in expectations: the public wants new and innovative interactions with all organizations, including government. Incorporating social media in mobile websites and native apps is one way federal agencies have increased public interaction. Six agencies have leveraged native app functionality for crowdsourcing purposes. The National Oceanic'
 authors:

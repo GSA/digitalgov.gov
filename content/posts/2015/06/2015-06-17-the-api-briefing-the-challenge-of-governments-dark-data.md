@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-the-challenge-of-governments-dark-data
-date: 2015-06-17 10:00:23 -0400
+date: 2015-06-17 10:00:00
 title: 'The API Briefing: the Challenge of Government’s Dark Data'
 summary: 'By now, you are familiar with &ldquo;big data&rdquo; or datasets that are so large that they cannot be analyzed by conventional analytical methods. You may have heard of &ldquo;long data&rdquo; which is data that has a temporal context. I work with long data when I analyze hiring patterns over time in workforce data. There is'
 authors:

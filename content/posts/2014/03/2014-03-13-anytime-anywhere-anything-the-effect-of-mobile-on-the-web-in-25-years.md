@@ -1,6 +1,6 @@
 ---
 slug: anytime-anywhere-anything-the-effect-of-mobile-on-the-web-in-25-years
-date: 2014-03-13 14:32:42 -0400
+date: 2014-03-13 14:32:00
 title: 'Anytime, Anywhere, Anything: The Effect of Mobile on the Web in 25 Years'
 summary: 'In 25 years, imagine a world where anytime, anywhere, any device is just taken for granted. That’s the theme from the responses we got from our Mobile Gov Community of Practice members when we asked them to predict the effect mobile would have on the Web'
 authors:

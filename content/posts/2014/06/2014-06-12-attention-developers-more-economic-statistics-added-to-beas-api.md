@@ -1,6 +1,6 @@
 ---
 slug: attention-developers-more-economic-statistics-added-to-beas-api
-date: 2014-06-12 10:00:33 -0400
+date: 2014-06-12 10:00:00
 title: 'Attention Developers: More Economic Statistics Added to BEA’s API'
 summary: Developers, do you want to bring more detailed economic data to your next app? The Bureau of Economic Analysis (BEA) recently added several data sets to the application programming interface (API) we launched last year. The API now provides direct access to the
 authors:

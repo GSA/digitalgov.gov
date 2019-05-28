@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-date: 2018-06-14 14:00:00 -0500
-end_date: 2018-06-14 15:30:00 -0500
+date: 2018-06-14 14:00:00
+end_date: 2018-06-14 15:30:00
 event_organizer: DigitalGov University
 host: User Experience Community of Practice
 registration_url: https://www.eventbrite.com/e/usability-testing-with-steve-krug-registration-46107266074

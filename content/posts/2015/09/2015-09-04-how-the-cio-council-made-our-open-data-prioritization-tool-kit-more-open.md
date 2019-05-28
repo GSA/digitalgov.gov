@@ -1,6 +1,6 @@
 ---
 slug: how-the-cio-council-made-our-open-data-prioritization-tool-kit-more-open
-date: 2015-09-04 13:00:18 -0400
+date: 2015-09-04 13:00:00
 title: How the CIO Council Made Our Open Data Prioritization Tool Kit More Open
 summary: 'The Open Data Prioritization Toolkit is categorized into phases of understanding, evaluating, and opening datasets.'
 authors:

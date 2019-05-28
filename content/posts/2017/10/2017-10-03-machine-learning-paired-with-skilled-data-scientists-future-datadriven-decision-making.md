@@ -1,6 +1,6 @@
 ---
 slug: machine-learning-paired-with-skilled-data-scientists-future-datadriven-decision-making
-date: 2017-10-03 12:05:00 -0400
+date: 2017-10-03 12:05:00
 title: 'Machine Learning Paired with Skilled Data Scientists is the Future of Data-Driven Decision Making'
 summary: ML can provide high-value services for data management and analytics, security threat detection, and process improvement but it doesn't stop there.
 authors:

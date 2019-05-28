@@ -1,6 +1,6 @@
 ---
 slug: advancing-forward-best-of-social-media-in-2013-and-beyond
-date: 2014-01-10 5:42:11 -0400
+date: 2014-01-10 5:42:00
 title: 'Advancing Forward: Best of Social Media in 2013 and Beyond'
 summary: 'It was a very good year, as Frank Sinatra sang, in the field of social media for the federal government. Advances were made not only in the technologies applied by agencies, but also the policies and strategies that unlock their potential to improve services and reduce costs. I’d like to share with you just some'
 authors:

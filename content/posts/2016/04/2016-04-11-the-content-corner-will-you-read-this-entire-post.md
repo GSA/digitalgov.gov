@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-will-you-read-this-entire-post
-date: 2016-04-11 11:00:29 -0400
+date: 2016-04-11 11:00:00
 title: 'The Content Corner: Will You Read This Entire Post?'
 summary: 'Deep down we&#8217;ve always known that people only read a small portion of any content shared online. In many ways that can&#8217;t be fixed but there are ways to help people read more or at least scan better. There was a book I loved as a child that featured the Sesame Street character Grover, titled'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: whats-in-a-name-communities-in-the-public-and-private-sectors
-date: 2015-07-15 10:00:21 -0400
+date: 2015-07-15 10:00:00
 title: 'What&#8217;s in a Name? &#8220;Communities&#8221; in the Public and Private Sectors'
 summary: Many of you are part of a government community. We lead a few of them here, and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a community for government Drupal users. A co-worker recently asked me for research on communities because she is trying to
 authors:

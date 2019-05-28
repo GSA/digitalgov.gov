@@ -1,6 +1,6 @@
 ---
 slug: nine-tips-to-leverage-your-facebook-page
-date: 2014-03-19 1:02:11 -0400
+date: 2014-03-19 1:02:00
 title: Nine Tips to Leverage your Facebook Page
 summary: 'Due to recent news feed changes, Facebook engagement is down nearly 50% since October for brand pages and is predicted to go lower, according to Social@Ogilvy. As a result federal agencies are continually monitoring the performance of their pages and diversifying their strategies. We talked to members of the Social Media Community'
 authors:

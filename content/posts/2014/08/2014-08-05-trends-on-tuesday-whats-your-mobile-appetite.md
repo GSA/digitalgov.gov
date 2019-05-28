@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-whats-your-mobile-appetite
-date: 2014-08-05 11:00:57 -0400
+date: 2014-08-05 11:00:00
 title: 'Trends on Tuesday: What’s Your Mobile [App]etite?'
 summary: 'In a few short years, the number of mobile apps has exploded, and the time spent on apps continues to increase. However, one thing hasn&#8217;t changed: the number of apps individuals use. The average smartphone owner uses 22 to 28 apps in a month, according to new data from Nielsen. Here are a few highlights'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: national-science-foundations-science-and-engineering-indicators-app
-date: 2013-09-19 10:41:41 -0400
+date: 2013-09-19 10:41:00
 title: 'National Science Foundation&#8217;s Science and Engineering Indicators App'
 summary: 'The National Science Foundation&#8217;s National Science Board has developed Science and Engineering Indicators for iPad. The application provides full content of the Science and Engineering Indicators (SEI) 2012 report &#8211;the latest edition available. From NSF, The biennial SEI report is a comprehensive source of high-quality, quantitative'
 topics:

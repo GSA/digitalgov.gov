@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type: 
   - youtube-live
-date: 2018-07-16 15:00:00 -0500
-end_date: 2018-07-16 16:00:00 -0500
+date: 2018-07-16 15:00:00
+end_date: 2018-07-16 16:00:00
 event_organizer: DigitalGov University
 host: Emerging Citizen Technology Office (ECTO) 
 registration_url: https://www.eventbrite.com/e/emerging-technology-leadership-series-brian-behlendorf-and-blockchain-registration-47996835828

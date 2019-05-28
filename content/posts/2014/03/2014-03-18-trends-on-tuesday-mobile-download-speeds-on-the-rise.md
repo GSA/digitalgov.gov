@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-mobile-download-speeds-on-the-rise
-date: 2014-03-18 1:35:57 -0400
+date: 2014-03-18 1:35:00
 title: 'Trends on Tuesday: Mobile Download Speeds on the Rise'
 summary: 'Mobile devices are uploading data faster and mobile users are starting to expect better performance, according to Citrix. Fifty percent of web pages are taking 37.5% less time to load on a mobile device than they did just a year ago according the Citrix Mobile Analytics Report. This infographic from the study shows the percentage of users'
 authors:

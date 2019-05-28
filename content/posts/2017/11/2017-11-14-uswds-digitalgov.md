@@ -1,6 +1,6 @@
 ---
 slug: uswds-digitalgov
-date: 2017-11-14 14:05:00 -0400
+date: 2017-11-14 14:05:00
 title: 'U.S. Web Design Standards + DigitalGov'
 summary: 'We’re excited to announce that the U.S. Web Design Standards team has moved over to OPP and joined the DigitalGov team.'
 authors:

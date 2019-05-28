@@ -8,8 +8,8 @@ featured_image:
 event_type:
   - online
   - in-person
-date: 2018-08-06 10:00:00 -0500
-end_date: 2018-08-06 12:00:00 -0500
+date: 2018-08-06 10:00:00
+end_date: 2018-08-06 12:00:00
 event_organizer: DigitalGov University
 host: Emerging Citizen Technology Office (ECTO)
 registration_url: https://www.eventbrite.com/e/performance-goals-for-government-services-inter-agency-emerging-citizen-technology-meeting-aug-2018-registration-48453323194

@@ -1,6 +1,6 @@
 ---
 slug: rocking-the-vote-how-the-usa-gov-brand-leveraged-the-mid-term-elections
-date: 2014-11-05 11:22:55 -0400
+date: 2014-11-05 11:22:00
 title: 'Rocking the Vote: How the USA.gov Brand Leveraged the Mid-term Elections'
 summary: You might have noticed a lot of people were talking about the elections yesterday, especially on social media. Election and voting hashtags were trending all day long as people around the country hit the polls to vote for senators, representatives, governors and more. And while plenty of people were really excited to simply let their
 authors:

@@ -1,6 +1,6 @@
 ---
 url: /join/
-date: 2013-11-30 4:14:36 -0400
+date: 2013-11-30 4:14:00
 title: Join DigitalGov
 summary: 'Here, on DigitalGov, you can make government services and information better by sharing your tales, talents, and time. We know there&#8217;s a lot of innovation going on in agencies because we&#8217;ve seen it. We&#8217;ve seen the fruits of your experiments, read your strategies and RFPs, and watched you try new approaches to old problems.'
 aliases:

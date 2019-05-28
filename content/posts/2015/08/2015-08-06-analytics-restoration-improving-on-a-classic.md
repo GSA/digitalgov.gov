@@ -1,6 +1,6 @@
 ---
 slug: analytics-restoration-improving-on-a-classic
-date: 2015-08-06 11:24:50 -0400
+date: 2015-08-06 11:24:00
 title: 'Analytics Restoration: Improving on a Classic'
 summary: Sometimes it is important to take a fresh look at a classic. As we digital analysts can attest, the array of software now available to our respective analytics programs has grown tremendously over the past few years. Even as we play catch-up to our private sector leaders, many digital analytics programs across the federal government
 authors:

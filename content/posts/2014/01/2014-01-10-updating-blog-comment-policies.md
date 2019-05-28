@@ -1,6 +1,6 @@
 ---
 slug: updating-blog-comment-policies
-date: 2014-01-10 6:00:07 -0400
+date: 2014-01-10 6:00:00
 title: Updating Blog Comment Policies
 summary: 'The difference between only distributing an online press release and opening up the benefits from a blogging community can be found in how your agency encourages and manages comments and engagement. An easily-referenced comment policy lets authors and contributors know what your agency’s guidelines are in order'
 authors:

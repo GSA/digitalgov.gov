@@ -1,6 +1,6 @@
 ---
 slug: hiring-for-your-digital-needs
-date: 2015-02-09 10:00:07 -0400
+date: 2015-02-09 10:00:00
 title: Hiring For Your Digital Needs
 summary: The increasing presence of big data and all things digital will require the federal government to hire more techies. The skills brought by techies will help the federal government, but we also must consider that success in the federal government will require more than the skills they bring. The techies may be from the private
 authors:

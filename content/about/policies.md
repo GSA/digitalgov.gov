@@ -1,6 +1,6 @@
 ---
 url: /policies/
-date: 2013-12-19 12:58:33 -0400
+date: 2013-12-19 12:58:00
 title: Policies
 summary: 'Policies for DigitalGov'
 aliases:

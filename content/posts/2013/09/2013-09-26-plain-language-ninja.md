@@ -1,6 +1,6 @@
 ---
 slug: plain-language-ninja
-date: 2013-09-26 8:24:42 -0400
+date: 2013-09-26 8:24:00
 title: Plain Language Ninja
 summary: 'A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division. So I scooted my chair over and looked at it. Then I looked at him and asked, &ldquo;But what'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: creating-a-veterans-centered-experience-through-exploreva
-date: 2015-05-01 10:00:29 -0400
+date: 2015-05-01 10:00:00
 title: Creating a Veterans-Centered Experience Through ExploreVA
 summary: 'Good customer service includes user-centered design. For one digital team at the Department of Veterans Affairs, creating a veterans-centered experience started with one word: explore. The ExploreVA website provides a single location for veterans and their families to research the benefits that they may be entitled to receive. Benefits include health care, education, employment, and'
 authors:

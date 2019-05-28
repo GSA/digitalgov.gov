@@ -1,6 +1,6 @@
 ---
 slug: deep-dive-on-top-health-data-technology-innovation-for-lyme-disease
-date: 2019-03-18 13:00:00 -0500
+date: 2019-03-18 13:00:00
 title: 'Deep Dive: Using Data Technology &#43; Innovation for Lyme Disease'
 summary: 'A 14-week sprint delivered digital tools that used federal open data to address Lyme and tick-borne diseases.'
 deck: 'Addressing Lyme and tick-borne disease by coupling the power of the crowd and patient insights with data.'

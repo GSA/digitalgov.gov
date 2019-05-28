@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-mapping-food-deserts-the-usda-economic-research-services-gis-map-services
-date: 2014-07-23 10:00:27 -0400
+date: 2014-07-23 10:00:00
 title: 'The API Briefing: Mapping Food Deserts – The USDA Economic Research Service’s GIS Map Services'
 summary: Food deserts are areas where residents have little or no access to nutritional food. Food deserts exist because of low-incomes, lack of transportation, or too few stores that stock produce and other healthy food items. Governments from the local level to federal have implemented grant programs to encourage grocery store construction in the food deserts.
 authors:

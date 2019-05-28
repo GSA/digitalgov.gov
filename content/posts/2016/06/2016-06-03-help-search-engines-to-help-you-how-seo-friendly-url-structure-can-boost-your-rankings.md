@@ -1,6 +1,6 @@
 ---
 slug: help-search-engines-to-help-you-how-seo-friendly-url-structure-can-boost-your-rankings
-date: 2016-06-03 11:00:41 -0400
+date: 2016-06-03 11:00:00
 title: 'Help Search Engines Help You: How SEO-Friendly URL Structure Can Boost Your Rankings'
 summary: Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? How great it would be if that were easy to do. Well, actually it is. I realized that recently when I was doing research for one of my personal passions, which is finding invasive
 authors:

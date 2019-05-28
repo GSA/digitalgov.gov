@@ -1,6 +1,6 @@
 ---
 slug: have-you-critiqued-your-critique-process
-date: 2017-07-31 12:00:00 -0400
+date: 2017-07-31 12:00:00
 title: 'Have You Critiqued Your Critique Process?'
 summary: 'DEMO Whenever I hear someone complain about the process of a design critique, I’m always a bit surprised. Blame it on the fact'
 authors:

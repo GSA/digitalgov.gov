@@ -1,6 +1,6 @@
 ---
 slug: gsa-introduces-new-web-based-leasing-tool
-date: 2016-06-02 12:00:21 -0400
+date: 2016-06-02 12:00:00
 title: GSA Introduces New Web-Based Leasing Tool
 summary: 'Recently, Regional Administrator Sara Manzano-D&iacute;az of the U.S. General Services Administration (GSA) introduced a web-based leasing tool, the Automated Advanced Acquisition Program (AAAP), to 60 lessors and/or brokers at the Dow Building in Philadelphia. The AAAP tool was designed to consolidate and streamline the leasing process, making for a more efficient, transparent process that also'
 authors:

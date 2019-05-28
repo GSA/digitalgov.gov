@@ -1,6 +1,6 @@
 ---
 slug: why-your-user-experience-must-include-design-for-accessibility
-date: 2015-10-16 10:00:52 -0400
+date: 2015-10-16 10:00:00
 title: Why Your User Experience Must Include Design for Accessibility
 summary: 'Too often, usability and accessibility are confused with each other by our clients (stakeholders). They shouldn’t be, because while they are related, they are very different. So, how do you bring these two concepts together? They should really be working side-by-side throughout the ENTIRE process. This might seem like a no-brainer but it can be'
 authors:

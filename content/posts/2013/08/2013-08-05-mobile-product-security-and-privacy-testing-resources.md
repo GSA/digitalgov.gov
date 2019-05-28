@@ -1,6 +1,6 @@
 ---
 slug: mobile-product-security-and-privacy-testing-resources
-date: 2013-08-05 15:01:32 -0400
+date: 2013-08-05 15:01:00
 title: Mobile Product Security and Privacy Testing Resources
 summary: 'Security testing is used to ensure that a mobile product does not pose a threat to agency IT systems and databases. In addition, privacy testing ensures that an app does not put the user’s personally identifiable information into a compromisable position. This article was developed as part of the Mobile Application Development Program. See our'
 authors:

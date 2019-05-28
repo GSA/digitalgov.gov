@@ -1,6 +1,6 @@
 ---
 slug: what-is-a-customer-centric-culture-part-2
-date: 2014-08-06 13:00:02 -0400
+date: 2014-08-06 13:00:00
 title: 'What is a &#8220;Customer Centric&#8221; Culture &#8211; Part 2'
 summary: 'Since April of 2011 when President Obama signed Executive Order 13571 mandating agencies improve the quality of service they give to the public, agencies have been working through strategies to best fulfill this task. We at GSA&#8217;s Office of Citizen Services and Innovative Technologies (OCSIT) were no exception. Back in September of 2013, we wrote'
 authors:

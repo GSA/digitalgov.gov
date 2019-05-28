@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-podcast-behind-the-scenes-of-the-social-and-behavioral-science-team
-date: 2016-04-04 10:00:15 -0400
+date: 2016-04-04 10:00:00
 title: 'DigitalGov Podcast: Behind the Scenes of the Social and Behavioral Science Team'
 summary: 'Enrolling veterans in retirement plans. Helping small farmers access credit. Surveying employees about their workspace. These projects might seem widely different from one another: they span different agencies and diverse audiences. But all three projects have been addressed by a new team in government that is helping agencies build things better, based on behavioral science.'
 authors:

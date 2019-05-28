@@ -1,6 +1,6 @@
 ---
 slug: new-google-analytics-for-government-training-manual
-date: 2014-05-15 10:00:48 -0400
+date: 2014-05-15 10:00:00
 title: New Google Analytics for Government Training Manual
 summary: 'Looking for a training manual on how to use Google Analytics for your agency? Here&#8217;s your answer. I released a second edition of my Google Analytics for Government training manual. Download your copy today (PDF, 4.94 MB, 65 pages, May 2014) and'
 authors:

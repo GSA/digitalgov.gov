@@ -1,6 +1,6 @@
 ---
 slug: making-federal-employment-accessible-thru-dods-cap-app
-date: 2015-11-05 10:00:43 -0400
+date: 2015-11-05 10:00:00
 title: Making Federal Employment Accessible thru DOD’s CAP App
 summary: '&ldquo;My Disability is One Part of Who I Am&rdquo; was the theme of the 70th National Disability Employment Awareness Month this past October. We celebrated the many contributions of our friends and co-workers with disabilities and recognized the diverse skills and talents they bring to our workplace. However, the real question is: how do we create a'
 authors:

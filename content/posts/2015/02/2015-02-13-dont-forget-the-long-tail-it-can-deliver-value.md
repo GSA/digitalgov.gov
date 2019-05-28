@@ -1,6 +1,6 @@
 ---
 slug: dont-forget-the-long-tail-it-can-deliver-value
-date: 2015-02-13 11:10:37 -0400
+date: 2015-02-13 11:10:00
 title: 'Don’t Forget the Long Tail: It Can Deliver Value'
 summary: 'Top tasks matter. Visitors come to your website with specific goals in mind. Using a top-task methodology can be particularly useful when redesigning your homepage. But, top tasks aren’t the whole story. Our government websites also have a large range of tiny tasks that, when managed carefully, have the potential to deliver value. In The'
 authors:

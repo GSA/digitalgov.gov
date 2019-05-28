@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-create-better-mobile-content
-date: 2015-07-13 11:00:23 -0400
+date: 2015-07-13 11:00:00
 title: 'The Content Corner: Create Better Mobile Content'
 summary: 'All content needs to be developed with a mobile-first strategy, from headline choice to paragraph length. Although we are all now living in a post-mobilegeddon world, many of us are still implementing a mobile strategy. This strategy should consider several factors, including viewport size, cellular versus WiFi considerations, and load times. It should also include a'
 authors:

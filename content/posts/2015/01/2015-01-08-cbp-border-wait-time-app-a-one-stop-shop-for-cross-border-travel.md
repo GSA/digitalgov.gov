@@ -1,6 +1,6 @@
 ---
 slug: cbp-border-wait-time-app-a-one-stop-shop-for-cross-border-travel
-date: 2015-01-08 10:31:58 -0400
+date: 2015-01-08 10:31:00
 title: CBP Border Wait Time App a One-Stop Shop for Cross Border Travel
 summary: The new Border Wait Time app from U.S. Customs and Border Protection (CBP) is a one stop shop for cross border travelers, displaying estimated wait times and open lane statuses at U.S. land ports of entry. Travelers can also locate ports of entry
 authors:

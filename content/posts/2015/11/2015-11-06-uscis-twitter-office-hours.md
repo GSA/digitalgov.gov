@@ -1,6 +1,6 @@
 ---
 slug: uscis-twitter-office-hours
-date: 2015-11-06 10:00:33 -0400
+date: 2015-11-06 10:00:00
 title: USCIS Twitter Office Hours
 summary: 'On September 1, U.S. Citizenship and Immigration Services (USCIS) hosted our first Twitter Office Hours, a Twitter chat for USCIS customers. The purpose of this pilot event was to offer our customers a different way to engage with us. We aimed to leverage Twitter to answer questions on our agency’s programs and policies and to'
 authors:

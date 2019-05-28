@@ -1,6 +1,6 @@
 ---
 slug: heatmapping-tools-show-whats-hot-on-your-pages
-date: 2014-04-04 10:00:37 -0400
+date: 2014-04-04 10:00:00
 title: 'Heatmapping Tools Show What&#8217;s &#8220;Hot&#8221; on Your Pages'
 summary: 'Most analytics tools can tell you how many times a link on your page is clicked on, but they can’t help you draw conclusions about a page with just a mere list of top links. A tool called a heatmap turns data into a data visualization, so you can more easily see how people are'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: design-sketching-the-easiest-prototype-method-ever
-date: 2014-08-08 10:00:19 -0400
+date: 2014-08-08 10:00:00
 title: 'Design Sketching: The Easiest Prototype Method Ever'
 summary: 'When it comes to Web and software design, the pen(cil) is often mightier than the Design Suite. What I mean is: Tech is cool, but don’t fall under its spell. It’s often when you remove the technological layers between you and your thoughts that the best ideas sprout. You’ve heard of great ideas that started'
 authors:

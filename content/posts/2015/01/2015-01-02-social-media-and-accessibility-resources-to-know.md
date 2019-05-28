@@ -1,6 +1,6 @@
 ---
 slug: social-media-and-accessibility-resources-to-know
-date: 2015-01-02 10:00:59 -0400
+date: 2015-01-02 10:00:00
 title: 'Social Media and Accessibility: Resources to Know'
 summary: When the Americans with Disabilities Act (ADA) was passed in 1990, there was no Facebook, Twitter, or LinkedIn. Since then, the number of social media channels, and their use for communication among all demographics, has grown exponentially. Unfortunately, however, despite newer ways to reach individuals living with disabilities, many individuals in this community face challenges
 authors:

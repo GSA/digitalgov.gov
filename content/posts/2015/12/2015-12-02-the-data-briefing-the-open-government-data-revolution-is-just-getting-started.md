@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-the-open-government-data-revolution-is-just-getting-started
-date: 2015-12-02 11:00:18 -0400
+date: 2015-12-02 11:00:00
 title: 'The Data Briefing: The Open Government Data Revolution Is Just Getting Started'
 summary: 'Some of you may remember when President Reagan opened America’s Global Positioning System (GPS) data. President Reagan gave all countries access to the GPS data in response to the Soviet Union shooting down Korean Airlines Flight 007 on September 1, 1983. I do not believe that the U.S. realized how much opening up GPS data'
 authors:

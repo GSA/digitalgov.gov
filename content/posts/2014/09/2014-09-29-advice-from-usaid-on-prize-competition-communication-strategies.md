@@ -1,6 +1,6 @@
 ---
 slug: advice-from-usaid-on-prize-competition-communication-strategies
-date: 2014-09-29 1:57:25 -0400
+date: 2014-09-29 1:57:00
 title: Advice from USAID on Prize Competition Communication Strategies
 summary: 'A well-developed communications plan is critical to the success of a challenge competition, but too often it is one item managers leave to consider at the end of prize design. The United States Agency for International Development (USAID)’s Jarah Meador shared the Desal Prize plan and results in the September 16 webinar, &ldquo;Why Your Gov'
 authors:

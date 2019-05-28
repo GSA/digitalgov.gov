@@ -1,6 +1,6 @@
 ---
 slug: epa-mobile-projects-update
-date: 2014-04-17 10:00:48 -0400
+date: 2014-04-17 10:00:00
 title: EPA Mobile Projects Update
 summary: 'Earth Day is next week, so today instead of featuring one mobile product like we do every Thursday, we&#8217;re highlighting how the U.S. Environmental Protection Agency is tackling mobile to help empower citizen environmental decisions. Currently, you can'
 authors:

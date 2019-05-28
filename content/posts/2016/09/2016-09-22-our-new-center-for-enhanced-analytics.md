@@ -1,6 +1,6 @@
 ---
 slug: our-new-center-for-enhanced-analytics
-date: 2016-09-22 11:00:55 -0400
+date: 2016-09-22 11:00:00
 title: Our New Center for Enhanced Analytics
 summary: 'Analytics and &ldquo;big data&rdquo; seem to be the next frontier in a number of arenas. Data researchers can use the large, real-time data sets that are available today to facilitate scientific discovery, improve the flow of traffic, and increase energy efficiency, among many other things. Last year, the White House appointed the first federal Chief'
 authors:

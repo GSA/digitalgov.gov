@@ -1,6 +1,6 @@
 ---
 slug: is-there-a-generic-equivalent-to-my-brand-name-drug-find-out-with-fda-ob-express
-date: 2015-11-19 1:00:14 -0400
+date: 2015-11-19 1:00:00
 title: Is There a Generic Equivalent to My Brand Name Drug? Find out with FDA OB Express
 summary: 'Have you ever taken your prescription to the pharmacy, the one that you fill regularly, and the pharmacist hands you pills that have a different name and look quite different from what you regularly get? As a chemist by training, I try to curb my initial anxiety by checking out the composition. However, I have always looked'
 authors:

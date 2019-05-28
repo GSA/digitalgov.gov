@@ -1,6 +1,6 @@
 ---
 slug: data-act-prototype-simplicity-is-key
-date: 2016-09-09 11:00:54 -0400
+date: 2016-09-09 11:00:00
 title: 'DATA Act Prototype: Simplicity Is Key'
 summary: 'Last week we wrote about how we diffuse knowledge through shared interests and sharing best practices on the Micro-purchase Platform. This week, we’ll focus on some of the lessons learned during the (completed) DATA Act prototype. Importantly, though that project has finished, this post is not meant to be a full retrospective or post-mortem; we’ll'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-four-steps-to-becoming-a-data-driven-organization
-date: 2016-11-09 11:00:45 -0400
+date: 2016-11-09 11:00:00
 title: 'The Data Briefing: Four Steps to Becoming a Data-Driven Organization'
 summary: 'As the Federal government agencies begin the digital transformation journey, becoming a data-driven organization is even more vital. What does it mean to become a data-driven organization? According to one definition, &ldquo;[a] data-driven company is an organization where every person who can use data to make better decisions, has access to the data they need'
 authors:

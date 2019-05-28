@@ -1,6 +1,6 @@
 ---
 slug: understanding-twitter-quality-filters-for-content-strategy
-date: 2016-11-25 14:00:46 -0400
+date: 2016-11-25 14:00:00
 title: Understanding Twitter Quality Filters for Content Strategy
 summary: 'In a move to win back users and improve the company’s image, Twitter introduced quality filters in August. They followed this move in November with an option to mute certain words. These changes will have larger ramifications for federal agencies, who will need to focus on quality of content in order to retain their audience'
 authors:

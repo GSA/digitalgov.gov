@@ -1,6 +1,6 @@
 ---
 slug: web-analytics-why-users-metric-just-got-more-complicated
-date: 2019-04-04 13:51:00 -0500
+date: 2019-04-04 13:51:00
 title: 'Web Analytics: Why the Users Metric Just Got More Complicated'
 deck: 'A look at how the new Safari policy will alter your web analytics benchmarks.'
 summary: 'A look at how the new Safari policy will alter your web analytics benchmarks.'

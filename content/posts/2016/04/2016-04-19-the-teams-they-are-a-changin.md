@@ -1,6 +1,6 @@
 ---
 slug: the-teams-they-are-a-changin
-date: 2016-04-19 10:00:06 -0400
+date: 2016-04-19 10:00:00
 title: The Teams, They Are a Changin’
 summary: 'Business people and developers must work together daily throughout the project.&mdash;Agile Manifesto My team has experienced a lot of change in the past few weeks. We were a team of seven, and now we’ve been reduced to two. We’re off-boarding two developers, a content specialist, and the product owner, and we’re onboarding a new content'
 authors:

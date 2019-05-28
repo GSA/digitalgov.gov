@@ -1,6 +1,6 @@
 ---
 slug: interested-in-using-the-new-poll-feature-on-twitter-heres-what-you-need-to-know
-date: 2015-11-16 11:10:58 -0400
+date: 2015-11-16 11:10:00
 title: Interested in Using the New Poll Feature on Twitter? Here’s What You Need to Know!
 summary: ' Twitter polls allow you to tweet out simple A or B style opinion polls. These polls can spark some great engagement, but you’ll want to keep a few things in mind before getting started: To stay within the social media'
 authors:

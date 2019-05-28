@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-introducing-the-u-s-patent-and-trademark-offices-new-open-data-portal
-date: 2016-05-18 11:10:59 -0400
+date: 2016-05-18 11:10:00
 title: 'The Data Briefing: Introducing the U.S. Patent and Trademark Office’s New Open Data Portal'
 summary: 'My first column when I came back from last year’s summer sabbatical was on the U.S. Patent and Trademark Office’s (USPTO) PatentsView project.'
 authors:

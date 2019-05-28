@@ -1,6 +1,6 @@
 ---
 slug: attend-the-digitalgov-summit-virtually-or-host-an-expo-table
-date: 2015-04-08 11:06:05 -0400
+date: 2015-04-08 11:06:00
 title: 'Attend the DigitalGov Summit &#8211; Virtually, or Host an Expo Table'
 summary: 'Sign up now to watch the DigitalGov Summit from the comfort of your desk! We are excited to announce that although we’ve sold out in-person attendance for the DigitalGov Citizen Services Summit, we have just opened up registration to attend virtually. Virtual attendance will be an awesome way to experience the event with extras not'
 authors:

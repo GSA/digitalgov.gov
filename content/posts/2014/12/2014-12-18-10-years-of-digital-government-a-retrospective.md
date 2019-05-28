@@ -1,6 +1,6 @@
 ---
 slug: 10-years-of-digital-government-a-retrospective
-date: 2014-12-18 3:09:04 -0400
+date: 2014-12-18 3:09:00
 title: 10 Years of Digital Government—A Retrospective
 summary: 'In December of 2004, the Office of Management and Budget (OMB) issued the first Policies for Federal Public Websites. Over the past decade, we’ve seen technology completely transform how government delivers information and services to the public. On this 10-year anniversary, we’re taking a walk down memory lane to recap some of the pivotal moments'
 authors:

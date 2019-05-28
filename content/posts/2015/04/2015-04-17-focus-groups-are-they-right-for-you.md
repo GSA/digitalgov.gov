@@ -1,6 +1,6 @@
 ---
 slug: focus-groups-are-they-right-for-you
-date: 2015-04-17 11:10:32 -0400
+date: 2015-04-17 11:10:00
 title: 'Focus Groups: Are They Right for You?'
 summary: ' The short answer is: it depends on your goals. If you Google &ldquo;focus group,&rdquo; you will have a host of positive and negative feedback, but the truth is that it depends on what your needs are. What Is a Focus Group? Focus groups are an inexpensive way'
 authors:

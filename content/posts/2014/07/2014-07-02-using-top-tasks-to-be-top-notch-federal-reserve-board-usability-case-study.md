@@ -1,6 +1,6 @@
 ---
 slug: using-top-tasks-to-be-top-notch-federal-reserve-board-usability-case-study
-date: 2014-07-02 13:51:51 -0400
+date: 2014-07-02 13:51:00
 title: 'Using Top Tasks to be Top-Notch: Federal Reserve Board Usability Case Study'
 summary: 'In 2012, the Federal Reserve Board used the Top-task methodology to redesign our intranet, called Inside the Board, which had not been significantly updated since it was launched in 1995. After determining the top tasks the audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project'
 authors:

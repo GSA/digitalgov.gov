@@ -1,6 +1,6 @@
 ---
 slug: taking-the-pulse-of-the-federal-governments-web-presence
-date: 2015-06-03 13:10:57 -0400
+date: 2015-06-03 13:10:00
 title: 'Taking the Pulse of the Federal Government&#8217;s Web Presence'
 summary: 'The U.S. federal government is launching a new project to monitor how it&#8217;s doing at best practices on the Web. A sort of health monitor for the U.S. government&#8217;s websites, it&#8217;s called Pulse and you can find it at pulse.cio.gov. Pulse is a lightweight dashboard that uses the official .gov domain list'
 authors:

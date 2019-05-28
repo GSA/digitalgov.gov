@@ -1,6 +1,6 @@
 ---
 slug: build-empathy-with-stakeholder-interviews-part-2-conversation
-date: 2016-07-29 12:00:13 -0400
+date: 2016-07-29 12:00:00
 title: 'Build Empathy With Stakeholder Interviews, Part 2: Conversation'
 summary: 'How to run user-interviews and synthesize and integrate the results into the teams shared understanding'
 deck: 'How to run user-interviews and synthesize and integrate the results into the teams shared understanding'

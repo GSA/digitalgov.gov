@@ -1,6 +1,6 @@
 ---
 slug: open-source-micro-purchasing-an-experiment-in-federal-acquisition
-date: 2015-10-16 13:36:47 -0400
+date: 2015-10-16 13:36:00
 title: 'Open Source Micro-Purchasing: An Experiment in Federal Acquisition'
 summary: '18F is an open-source team. We currently have hundreds of publicly available repositories, with dozens under active development. We&#8217;ve had numerous contributions from colleagues within government, and contributions from members of the public. But in the next few weeks, we are going to run an experiment: we want to contract for contributions. And we want'
 authors:

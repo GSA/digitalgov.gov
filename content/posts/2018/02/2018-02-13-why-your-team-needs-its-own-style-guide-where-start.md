@@ -1,6 +1,6 @@
 ---
 slug: why-your-team-needs-its-own-style-guide-where-start
-date: 2018-02-13 10:00:00 -0500
+date: 2018-02-13 10:00:00
 title: Why Your Team Needs Its Own Style Guide and Where to Start
 summary: 'Learn how creating your own style guide can help facilitate development for agency websites. Review best practices, lessons learned, and examples from the U.S. Web Design System, Consumer Financial Protection Bureau, and the United States Patent and Trademark Office.'
 authors:

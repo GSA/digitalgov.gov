@@ -1,6 +1,6 @@
 ---
 slug: institutionalizing-user-experience-building-usability-into-your-organization
-date: 2015-02-13 10:00:30 -0400
+date: 2015-02-13 10:00:00
 title: 'Institutionalizing User Experience: Building Usability into Your Organization'
 summary: 'So, you have some systems or tools your customers or employees access. Maybe you want to put together a robust capability to conduct usability testing. How do you start formalizing user experience (UX) into your organization? Brad Ludlow at GSA tossed this topic out on the User Experience community listserv, and I&#8217;ve encapsulated the superb discussion that'
 authors:

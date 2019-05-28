@@ -8,8 +8,8 @@ featured_image:
   alt: ''
 event_type:
   - in-person
-date: 2019-06-19 10:00:00 -0500
-end_date: 2019-06-19 17:00:00 -0500
+date: 2019-06-19 10:00:00
+end_date: 2019-06-19 17:00:00
 event_organizer: DigitalGov University
 host: General Services Administration
 registration_url: https://www.eventbrite.com/e/gsa-hackathon-2019-registration-62066933870

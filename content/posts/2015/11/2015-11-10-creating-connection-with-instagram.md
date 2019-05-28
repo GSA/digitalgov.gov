@@ -1,6 +1,6 @@
 ---
 slug: creating-connection-with-instagram
-date: 2015-11-10 1:00:23 -0400
+date: 2015-11-10 1:00:00
 title: Creating Connection with Instagram
 summary: 'I’ve been thinking a lot about Instagram lately. It’s pretty big, especially among the younger populations (AKA. Millennials). Actually, from what I can tell, it’s pretty big with lots of different age groups, genders, and ethnicities; and it’s growing every day. Full disclosure: I use Instagram in my personal'
 authors:

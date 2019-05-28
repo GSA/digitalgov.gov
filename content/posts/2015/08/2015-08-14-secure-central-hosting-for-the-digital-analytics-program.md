@@ -1,6 +1,6 @@
 ---
 slug: secure-central-hosting-for-the-digital-analytics-program
-date: 2015-08-14 13:00:48 -0400
+date: 2015-08-14 13:00:00
 title: 'Secure Central Hosting for the Digital Analytics Program'
 summary: 'The U.S. government&#8217;s Digital Analytics Program (DAP) collects Web traffic and analytics data from across the federal government.'
 authors:

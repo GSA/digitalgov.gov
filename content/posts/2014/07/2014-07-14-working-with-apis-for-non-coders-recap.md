@@ -1,6 +1,6 @@
 ---
 slug: working-with-apis-for-non-coders-recap
-date: 2014-07-14 10:00:00 -0400
+date: 2014-07-14 10:00:00
 title: Working with APIs for Non-Coders Recap
 summary: 'In a recent event titled: &#8220;Intro to APIs: Working with URLs, JSON, APIs, and Open Data&mdash;Without Writing Any Code,&#8221; federal practitioners and supporters interested in open data attended an in-person workshop, led by Eric Mill, a key developer on GSA&#8217;s 18f team. This event was especially targeted to non-developers and explored the basics of APIs,'
 authors:

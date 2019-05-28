@@ -1,6 +1,6 @@
 ---
 slug: mobile/principles/plugins
-date: 2018-12-04 09:30:00 -0500
+date: 2018-12-04 09:30:00
 title: 'Installing Additional Software to Properly View Your Site Should Not Be Necessary'
 summary: 'Week four of our series, Eight Principles of Mobile-Friendliness, covers the issue of relying on additional software to properly view your site.'
 type: guide

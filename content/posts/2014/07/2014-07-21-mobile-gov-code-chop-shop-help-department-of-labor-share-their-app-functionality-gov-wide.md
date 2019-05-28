@@ -1,6 +1,6 @@
 ---
 slug: mobile-gov-code-chop-shop-help-department-of-labor-share-their-app-functionality-gov-wide
-date: 2014-07-21 14:00:01 -0400
+date: 2014-07-21 14:00:00
 title: 'Mobile Gov Code Chop Shop: Help Department of Labor Share Their App Functionality Gov-wide'
 summary: 'You&#8217;ve just found a great open source fed agency app on the Mobile Code Sharing Catalog, and would love to use one of its cool functionalities for your own agency&#8217;s app. As federal agencies release more and more code to the open source'
 authors:

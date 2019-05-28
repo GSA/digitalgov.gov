@@ -1,6 +1,6 @@
 ---
 slug: managing-federal-information-as-a-strategic-resource
-date: 2016-07-27 15:00:01 -0400
+date: 2016-07-27 15:00:00
 title: Managing Federal Information as a Strategic Resource
 summary: 'Summary: Today, OMB is releasing an update to Circular A-130, the Federal Government’s governing document for the management of Federal information resources. Today the Office of Management and Budget (OMB) is releasing an update to the Federal Government’s governing document for the management of Federal information resources: Circular A-130, Managing Information as a Strategic Resource.'
 authors:

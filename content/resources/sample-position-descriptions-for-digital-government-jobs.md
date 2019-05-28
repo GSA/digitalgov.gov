@@ -1,6 +1,6 @@
 ---
 slug: sample-position-descriptions-for-digital-government-jobs
-date: 2014-06-24 9:50:15 -0400
+date: 2014-06-24 9:50:00
 title: Sample Position Descriptions for Digital Government Jobs
 summary: Use and customize these sample position descriptions to hire your own digital gov team. Position descriptions, as defined by the Office of Personnel Management (OPM), include an official series, title, and grade based on the results of a classification determination. Accessibility Web Development and Accessibility Specialist (MS Word, 22 KB, 1 page, September 2012) Analytics
 authors:

@@ -1,7 +1,7 @@
 ---
 url: /communities/web-content-managers/
 uid: web-content-managers
-date: 2013-11-21 3:31:31 -0400
+date: 2013-11-21 3:31:00
 title: 'Web Content Managers'
 summary: 'The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites.'
 weight: 2

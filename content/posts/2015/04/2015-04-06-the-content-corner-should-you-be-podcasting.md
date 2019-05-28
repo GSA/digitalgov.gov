@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-should-you-be-podcasting
-date: 2015-04-06 10:00:34 -0400
+date: 2015-04-06 10:00:00
 title: 'The Content Corner: Should You Be Podcasting?'
 summary: 'Along a somewhat personal journey (that you have chosen to join) to better define the term content,  I’ve stumbled upon the puzzle of podcasts. Full disclosure: I have never been and most likely will never be a consumer of podcasts, ten years ago or today. I tried several times to listen to &ldquo;Serial&rdquo; and my'
 authors:

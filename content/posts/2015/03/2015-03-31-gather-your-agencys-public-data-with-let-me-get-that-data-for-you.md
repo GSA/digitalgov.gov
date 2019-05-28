@@ -1,6 +1,6 @@
 ---
 slug: gather-your-agencys-public-data-with-let-me-get-that-data-for-you
-date: 2015-03-31 10:38:06 -0400
+date: 2015-03-31 10:38:00
 title: 'Gather Your Agency&#8217;s Public Data with Let Me Get That Data for You'
 summary: 'In case you missed it, U.S. Open Data recently launched a tool called: Let Me Get That Data For You (LMGTDY). The name is a play on the very funny Let Me Google That For You website. How LMGTDFY works Let Me Get That Data For You searches any website for'
 authors:

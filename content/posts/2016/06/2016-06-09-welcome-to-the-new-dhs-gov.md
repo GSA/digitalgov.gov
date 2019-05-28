@@ -1,6 +1,6 @@
 ---
 slug: welcome-to-the-new-dhs-gov
-date: 2016-06-09 2:00:26 -0400
+date: 2016-06-09 2:00:00
 title: Welcome to the New DHS.gov
 summary: 'Today, I am happy to announce the newly optimized DHS.gov website. Over the past year, DHS has worked behind the scenes to update and modernize our flagship website, making it faster and easier to use. Some of the specific differences you’ll see are: Compatibility for both desktop computers and mobile devices (phones and tablets) Cleaner,'
 authors:

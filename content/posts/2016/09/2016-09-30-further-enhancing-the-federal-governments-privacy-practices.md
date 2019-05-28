@@ -1,6 +1,6 @@
 ---
 slug: further-enhancing-the-federal-governments-privacy-practices
-date: 2016-09-30 11:30:06 -0400
+date: 2016-09-30 11:30:00
 title: Further Enhancing the Federal Government’s Privacy Practices
 summary: 'Summary: The Office of Management and Budget is releasing updated guidance on the role and designation of Senior Agency Officials for Privacy. The digital economy has transformed how citizens interact with their Government. Government services related to immigration, student loans, health insurance, and veterans’ benefits are just a sample of the services now available online.'
 authors:

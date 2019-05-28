@@ -1,6 +1,6 @@
 ---
 slug: hitting-the-ground-running-with-the-digital-strategy
-date: 2012-06-27 7:28:21 -0400
+date: 2012-06-27 7:28:00
 title: Hitting the Ground Running With the Digital Strategy
 summary: 'Last month, the Obama Administration launched the Digital Government Strategy (PDF/ HTML5), a comprehensive roadmap aimed at building a 21st Century Digital Government that delivers better digital services to the American people.'
 authors:

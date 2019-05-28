@@ -1,6 +1,6 @@
 ---
 url: /open-data-policy-m-13-13/
-date: 2015-12-01 12:50:58 -0400
+date: 2015-12-01 12:50:00
 title: Open Data Policy (M 13-13)
 summary: 'Making information resources accessible, discoverable, and usable by the public can help fuel entrepreneurship, innovation, and scientific discovery- all of which improve Americans&#8217; lives and contribute significantly to job creation. This Memorandum establishes a framework to help institutionalize the principles of effective infonnation management at each stage of the information&#8217;s life cycle to promote interoperability and'
 authors:

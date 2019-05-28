@@ -1,6 +1,6 @@
 ---
 url: /resources/dot-gov-domain-freeze-and-waivers/
-date: 2012-03-29 11:15:10 -0400
+date: 2012-03-29 11:15:00
 title: 'ARCHIVED &#8211; Dot Gov Domain Freeze and Waivers'
 summary: 'Note that, as of June 2011, a freeze is in effect on issuing new .gov domains for Federal Executive Branch agencies. '
 draft: true

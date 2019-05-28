@@ -1,6 +1,6 @@
 ---
 slug: facebook-news-feed-algorithm-update-what-you-need-to-know
-date: 2013-12-19 12:47:48 -0400
+date: 2013-12-19 12:47:00
 title: 'Facebook News Feed Algorithm Update: What You Need to Know'
 summary: 'Facebook announced they are refining their algorithm this week to better identify and promote quality news content. This can and will affect your strategic performance, but what exactly makes &ldquo;quality&rdquo; content and how can your agency ensure they are on the winning side of this adjustment? We talked with Facebook about the changes, and the bottom'
 authors:

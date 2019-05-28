@@ -1,6 +1,6 @@
 ---
 slug: nist-crafts-next-generation-safeguards-for-information-systems-and-the-internet-of-things
-date: 2017-08-22 2:00:13 -0400
+date: 2017-08-22 2:00:00
 title: NIST Crafts Next-Generation Safeguards for Information Systems and the Internet of Things
 summary: 'Information systems&mdash;from communications platforms to internet-connected devices&mdash;require both security and privacy safeguards to work successfully and protect users in our increasingly complex and interconnected world. Toward these ends, the National Institute of Standards and Technology (NIST) has issued a new draft revision of its widely used Special Publication (SP) 800-53, Security and Privacy Controls for Information'
 authors:

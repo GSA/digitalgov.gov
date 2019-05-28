@@ -1,6 +1,6 @@
 ---
 slug: fipnet-digital-imaging-partner-guidance-now-available
-date: 2016-12-02 14:00:55 -0400
+date: 2016-12-02 14:00:00
 title: FIPNet Digital Imaging Partner Guidance Now Available
 summary: 'Guidance for Contributing Digital Content to FDsys (govinfo) is now available on FDLP.gov.  Federal Information Preservation Network (FIPNet) digital imaging partners now have guidance documentation for creating and contributing digitally-imaged U.S. Government content to Federal Digital System (FDsys)/govinfo*. The guidance specifications are based on current best practices from the Federal Agency Digitization Guidelines Initiative and'
 authors:

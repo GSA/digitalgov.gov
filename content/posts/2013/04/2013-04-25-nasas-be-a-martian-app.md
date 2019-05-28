@@ -1,6 +1,6 @@
 ---
 slug: nasas-be-a-martian-app
-date: 2013-04-25 9:48:32 -0400
+date: 2013-04-25 9:48:00
 title: 'NASA&#8217;s Be A Martian App'
 summary: 'Solar System fans, space shuttles are not the only way you can visit a planet! In July 2012, the Jet Propulsion Laboratory at NASA developed a mobile app called &ldquo;NASA Be A Martian&rdquo;, which allows you to become a Martian citizen on planet Mars. A Martian'
 authors:

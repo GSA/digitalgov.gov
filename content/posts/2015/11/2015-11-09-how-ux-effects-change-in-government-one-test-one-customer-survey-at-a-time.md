@@ -1,6 +1,6 @@
 ---
 slug: how-ux-effects-change-in-government-one-test-one-customer-survey-at-a-time
-date: 2015-11-09 12:23:18 -0400
+date: 2015-11-09 12:23:00
 title: How UX Effects Change in Government—One Test, One Customer Survey at a Time
 summary: 'Over the past few years, many agencies have learned how to do user experience (UX) with few resources. And while that’s still a problem at many agencies, many UX initiatives have been gaining momentum and attracting new stakeholders. Federal-wide efforts like the Social and Behavioral Sciences Team (SBST) and the U.S. Digital Service’s (USDS) promotion'
 authors:

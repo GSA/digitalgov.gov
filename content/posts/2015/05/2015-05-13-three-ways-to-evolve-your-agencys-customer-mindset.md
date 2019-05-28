@@ -1,6 +1,6 @@
 ---
 slug: three-ways-to-evolve-your-agencys-customer-mindset
-date: 2015-05-13 13:00:46 -0400
+date: 2015-05-13 13:00:00
 title: Three Ways to Evolve Your Agency’s Customer Mindset
 summary: 'Customer experience (CX) improvement projects come in many forms, but evolving an agency’s entire mindset to be customer-focused requires far more in the way of commitment, time, staff and organizational patience. As the senior CX lead for a U.S. government agency and an advisory committee member to the President’s Cross-Agency Priority (CAP) goal on customer'
 authors:

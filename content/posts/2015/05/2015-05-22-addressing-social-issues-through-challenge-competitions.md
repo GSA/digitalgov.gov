@@ -1,6 +1,6 @@
 ---
 slug: addressing-social-issues-through-challenge-competitions
-date: 2015-05-22 10:00:20 -0400
+date: 2015-05-22 10:00:00
 title: Addressing Social Issues Through Challenge Competitions
 summary: 'Innovation challenges leverage public creativity to address important problems. They can also be a tool for reaching and educating the next generation of leaders about social issues. The Office of Policy Development and Research (PD&R) at the U.S. Department of Housing and Urban Development (HUD) recently wrapped up the second year of the Innovation in'
 authors:

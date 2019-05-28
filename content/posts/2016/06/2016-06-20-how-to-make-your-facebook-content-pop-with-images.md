@@ -1,6 +1,6 @@
 ---
 slug: how-to-make-your-facebook-content-pop-with-images
-date: 2016-06-20 3:02:38 -0400
+date: 2016-06-20 3:02:00
 title: How to Make Your Facebook Content ‘Pop’ with Images
 summary: 'Facebook is a highly visual medium. Studies show that Facebook posts featuring photos are the most noticed, liked, and shared. Posts featuring an image stand out in the news feeds of people who like your page. While a great image can cut through the clutter, you don’t need to fill your feed. Think &ldquo;representative&rdquo; and high-quality'
 authors:

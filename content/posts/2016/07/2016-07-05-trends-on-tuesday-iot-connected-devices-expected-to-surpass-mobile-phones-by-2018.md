@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-iot-connected-devices-expected-to-surpass-mobile-phones-by-2018
-date: 2016-07-05 14:00:25 -0400
+date: 2016-07-05 14:00:00
 title: 'Trends on Tuesday: IoT Connected Devices Expected to Surpass Mobile Phones by 2018'
 summary: 'International telecommunications network operator, Ericsson, released their Mobility Report around the future of mobile recently with a bunch of interesting data around the future of telecommunications and mobile. The surprise star of the report is not mobile phones though&mdash;although it will continue to grow, especially in emerging markets where it hasn’t reached saturation like it'
 authors:

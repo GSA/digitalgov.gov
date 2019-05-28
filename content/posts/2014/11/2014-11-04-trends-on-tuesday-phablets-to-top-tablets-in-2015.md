@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-phablets-to-top-tablets-in-2015
-date: 2014-11-04 11:10:30 -0400
+date: 2014-11-04 11:10:00
 title: 'Trends on Tuesday: Phablets to Top Tablets in 2015?'
 summary: 'Is it a phone or is it a tablet? The International Data Corporation (IDC) predicts that &#8220;phablets,&#8221; the popular term for smartphones with screen sizes from 5.5 to less than 7 inches, will outship portable PCs this year and tablets in 2015. Specifically, total phablet volume will top 318 million units, surpassing the 233 million'
 authors:

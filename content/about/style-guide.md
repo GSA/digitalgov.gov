@@ -1,6 +1,6 @@
 ---
 url: /style-guide/
-date: 2018-04-26 10:25:54 -0400
+date: 2018-04-26 10:25:00
 title: 'DigitalGov Style Guide'
 type: guide
 summary: 'This is the DigitalGov style guide.'

@@ -1,6 +1,6 @@
 ---
 slug: video-blog-sarah-crane-usa-gov
-date: 2014-05-12 11:58:21 -0400
+date: 2014-05-12 11:58:00
 title: 'Video Blog: Sarah Crane, USA.gov'
 summary: 'Next in our video blog series, Sarah Crane from USA.gov shares how multiple product lines have led to an inconsistent customer experience and how new functional teams are helping them become more efficient.'
 authors:

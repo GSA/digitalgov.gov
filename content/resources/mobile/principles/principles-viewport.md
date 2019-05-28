@@ -1,6 +1,6 @@
 ---
 slug: mobile/principles/viewport
-date: 2018-10-09 12:30:00 -0500
+date: 2018-10-09 12:30:00
 title: 'The Viewport Is the Window to Your Site'
 summary: 'Week two of our series, Eight Principles of Mobile-Friendliness, covers the benefits of setting your viewport.'
 type: guide

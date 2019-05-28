@@ -10,8 +10,8 @@ event_type:
   - in-person
 topics:
   - plain-language
-date: 2018-07-20 09:00:00 -0500
-end_date: 2018-07-20 15:30:00 -0500
+date: 2018-07-20 09:00:00
+end_date: 2018-07-20 15:30:00
 event_organizer: DigitalGov
 host: Plain Language Community of Practice
 youtube_id: W4gzfemW0Rc

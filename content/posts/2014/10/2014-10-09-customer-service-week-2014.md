@@ -1,6 +1,6 @@
 ---
 slug: customer-service-week-2014
-date: 2014-10-09 10:00:53 -0400
+date: 2014-10-09 10:00:00
 title: Customer Service Week 2014
 summary: They say that customer experience (CX) is the new marketing. People will tell their friends about their experience with your agency, and social media makes it easy to broadcast whether the experience was easy and enjoyable, or terrible. In 1992, Congress proclaimed the first full week in
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: new-nih-clinical-trials-media-player-now-available
-date: 2015-02-11 10:00:43 -0400
+date: 2015-02-11 10:00:00
 title: New NIH Clinical Trials Media Player Now Available
 summary: Spread the Word about Clinical Trials! As we have recently seen with the Ebola outbreak, clinical trials are immensely important to medical advancement and treatment. The National Institutes of Health (NIH), in conjunction with the Centers for Disease Control and Prevention, has developed a new syndication tool to disseminate NIH Clinical Trials information. This effort
 authors:

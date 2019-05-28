@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-big-data-equals-big-challenges
-date: 2015-03-24 13:59:04 -0400
+date: 2015-03-24 13:59:00
 title: 'Trends on Tuesday: Big Data Equals Big Challenges'
 summary: According to an article from Readwrite, the amount of money going to big data projects is steadily increasing despite widespread failure to achieve many results. For big data-related projects in global organizations, a total of $31 billion was spent in 2013 and that amount is expected to top $114 billion by 2018. The recognition that
 authors:

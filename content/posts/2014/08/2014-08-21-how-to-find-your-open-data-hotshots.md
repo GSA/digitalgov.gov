@@ -1,6 +1,6 @@
 ---
 slug: how-to-find-your-open-data-hotshots
-date: 2014-08-21 11:00:30 -0400
+date: 2014-08-21 11:00:00
 title: How to Find Your Open Data Hotshots
 summary: 'How can you find the top 5 users of your open data? We were recently asked this question on the Open Data listserv, and while this information can be a good measure of success for open data programs, we also figured some of the answers shared would be of interest to the broader community. This blog'
 authors:

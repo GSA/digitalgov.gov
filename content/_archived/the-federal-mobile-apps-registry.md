@@ -1,6 +1,6 @@
 ---
 url: /services/the-federal-mobile-apps-registry/
-date: 2014-01-07 5:06:58 -0400
+date: 2014-01-07 5:06:00
 title: The Federal Mobile Products Registry
 summary: 'Register your mobile product here! Promote your public facing mobile websites and apps by registering them in the Mobile Products Registry. Registration gets your app listed on USAgov&rsquo;s Federal Mobile Apps Directory and included in a government'
 draft: true

@@ -1,6 +1,6 @@
 ---
 slug: services-mean-success-for-federal-challenges
-date: 2015-08-18 10:00:15 -0400
+date: 2015-08-18 10:00:00
 title: Services Mean Success for Federal Challenges
 summary: ' Challenge.gov offers a number of services to help agencies create successful competitions. One challenge that recently wrapped up made use of the full range of these services to come up with some creative, useful apps that have nationwide implications. Presidential'
 authors:

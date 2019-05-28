@@ -1,6 +1,6 @@
 ---
 slug: accessibility-editorial-guidelines-for-youtube
-date: 2012-08-01 9:00:44 -0400
+date: 2012-08-01 9:00:00
 title: Accessibility Editorial Guidelines for YouTube
 summary: 'USAGov and USAGov en Espa&#241;ol (formerly known as GobiernoUSA.gov) use social media to make government information easy for people to find, access, and use. Among the essential tools we use are videos, which we host on USA.gov and GobiernoUSA.gov’s YouTube channels.'
 authors:

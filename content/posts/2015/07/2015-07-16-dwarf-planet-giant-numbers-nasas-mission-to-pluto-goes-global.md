@@ -1,6 +1,6 @@
 ---
 slug: dwarf-planet-giant-numbers-nasas-mission-to-pluto-goes-global
-date: 2015-07-16 14:49:49 -0400
+date: 2015-07-16 14:49:00
 title: 'Dwarf Planet, Giant Numbers: NASA’s Mission to Pluto Goes Global'
 summary: ' Even on a &ldquo;slow&rdquo; day, NASA is a pretty cool place to work, but the cool factor gets cranked way up when the whole world joins in the adventure. That’s what happened this week when the New Horizons spacecraft arrived at Pluto after decade-long, three-billion-mile journey through the solar system.'
 authors:

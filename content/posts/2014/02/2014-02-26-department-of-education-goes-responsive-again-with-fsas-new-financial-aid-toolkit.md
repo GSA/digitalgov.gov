@@ -1,6 +1,6 @@
 ---
 slug: department-of-education-goes-responsive-again-with-fsas-new-financial-aid-toolkit
-date: 2014-02-26 11:15:53 -0400
+date: 2014-02-26 11:15:00
 title: 'Department of Education goes responsive (again) with FSA&#8217;s new Financial Aid Toolkit'
 summary: 'Money for college?  It&#8217;s never too early &#8212; or too late, for that matter &#8212; to start schooling oneself in the possibilities of federal financial aid. Following in the footsteps of their StudentAid.gov website, the digital team at  Ed.gov&#8217;s Federal Student Aid (FSA) closed out 2013 with the launch of FinancialAidToolkit.ed.gov, a &#8220;sister&#8221; site featuring'
 topics:

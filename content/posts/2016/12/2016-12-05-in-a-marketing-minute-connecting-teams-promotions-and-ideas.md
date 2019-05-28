@@ -1,6 +1,6 @@
 ---
 slug: in-a-marketing-minute-connecting-teams-promotions-and-ideas
-date: 2016-12-05 10:00:57 -0400
+date: 2016-12-05 10:00:00
 title: 'In a Marketing Minute: Connecting Teams, Promotions, and Ideas'
 summary: 'Every first week of every month, USAGov’s marketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It’s how we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act'
 authors:

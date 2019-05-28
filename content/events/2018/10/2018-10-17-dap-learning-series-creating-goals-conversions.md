@@ -10,8 +10,8 @@ event_type:
 topics:
   - analytics
   - dap
-date: 2018-10-17 14:00:00 -0400
-end_date: 2018-10-17 15:00:00 -0400
+date: 2018-10-17 14:00:00
+end_date: 2018-10-17 15:00:00
 event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-creating-goals-and-conversions-registration-42564656032

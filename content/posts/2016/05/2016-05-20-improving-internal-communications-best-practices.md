@@ -1,6 +1,6 @@
 ---
 slug: improving-internal-communications-best-practices
-date: 2016-05-20 10:00:55 -0400
+date: 2016-05-20 10:00:00
 title: 'Improving Internal Communications: Best Practices'
 summary: Customers are not the only group with whom we need to effectively communicate as we work to improve our quality of service. Effective communication between employees and leadership is critical to improving the customer experience. Front line employees interact with the public on a regular basis, and if employees do not have the information they
 authors:

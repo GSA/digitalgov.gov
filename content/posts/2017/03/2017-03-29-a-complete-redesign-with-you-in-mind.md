@@ -1,6 +1,6 @@
 ---
 slug: a-complete-redesign-with-you-in-mind
-date: 2017-03-29 1:00:36 -0400
+date: 2017-03-29 1:00:00
 title: A Complete Redesign with You in Mind
 summary: 'We&#8217;re excited to launch a complete redesign of USDA.gov featuring stronger visual storytelling components, a more modern user-experience with easy to find services and resources, and to top it off, a completely mobile-friendly design. Through careful planning, thoughtful design, and a primary focus on user experience and usability, we&#8217;ve taken the best of government and industry'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: new-outbreaks-but-no-zombies-on-cdcs-solve-the-outbreak
-date: 2013-10-31 10:01:14 -0400
+date: 2013-10-31 10:01:00
 title: 'New Outbreaks (but No Zombies) on CDC&#8217;s Solve the Outbreak'
 summary: 'The Centers for Disease Control recently added three new outbreaks to their Solve the Outbreak app. CDC released the app earlier this year to teach users how CDC’s disease detectives save lives everyday.'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: next-in-our-mobile-webinar-series-mobile-first
-date: 2012-07-13 11:48:11 -0400
+date: 2012-07-13 11:48:00
 title: 'Next in our Mobile Webinar Series: Mobile First!'
 summary: 'You need resources, and we are here to help with an excellent new webinar series to jump start your agency’s digital gov efforts. Do you think &#8220;mobile first&#8221;? A &#8220;mobile first&#8221; approach is where new websites and applications are designed for mobile devices first, instead'
 topics:

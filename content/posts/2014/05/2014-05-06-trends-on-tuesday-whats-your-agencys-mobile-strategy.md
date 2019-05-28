@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-whats-your-agencys-mobile-strategy
-date: 2014-05-06 10:15:36 -0400
+date: 2014-05-06 10:15:00
 title: 'Trends on Tuesday: What&#8217;s Your Agency&#8217;s Mobile Strategy?'
 summary: 'Here’s a statistic that might surprise you: 28% of Chief Information Officer (CIO)s in the private sector admitted in a survey they don&#8217;t have a plan for mobile technology. They cited compliance issues as a factor preventing their organizations from taking'
 authors:

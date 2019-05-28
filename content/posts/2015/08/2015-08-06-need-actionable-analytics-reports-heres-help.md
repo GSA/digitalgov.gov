@@ -1,6 +1,6 @@
 ---
 slug: need-actionable-analytics-reports-heres-help
-date: 2015-08-06 10:00:33 -0400
+date: 2015-08-06 10:00:00
 title: Need Actionable Analytics Reports? Here’s Help
 summary: 'The Digital Analytics Program (DAP) provides a wealth of standard Web analytics reports within its current Web analytics tool (Google Analytics Premium). Yet, navigating through big data with a standard report can be a challenge and definitely takes a few clicks. To quickly get to the insights of your agency websites&#8217; traffic, building your own'
 authors:

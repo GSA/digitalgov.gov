@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-better-crowdsourced-federal-government-projects-through-cognitive-computing
-date: 2016-05-25 10:00:26 -0400
+date: 2016-05-25 10:00:00
 title: 'The Data Briefing: Better Crowdsourced Federal Government Projects Through Cognitive Computing'
 summary: 'Cognitive computing has been receiving a good deal of attention lately as more companies have been building intelligent agents. Ever since IBM Watson&#8217;s 2011 appearance on Jeopardy, cognitive computing has spread into healthcare, investing and even veterinary medicine. However, it is only recently that cognitive computing has spread into government applications. As the name implies,'
 authors:

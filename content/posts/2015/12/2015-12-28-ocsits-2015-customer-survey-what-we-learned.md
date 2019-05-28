@@ -1,6 +1,6 @@
 ---
 slug: ocsits-2015-customer-survey-what-we-learned
-date: 2015-12-28 10:00:13 -0400
+date: 2015-12-28 10:00:00
 title: OCSIT’s 2015 Customer Survey—What We Learned
 summary: 'Three years ago, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) set out to design a system to consistently measure customer satisfaction across our office. We were inspired by the Digital Government Strategy, which tasks agencies to adopt a customer-centric approach to service delivery.'
 authors:

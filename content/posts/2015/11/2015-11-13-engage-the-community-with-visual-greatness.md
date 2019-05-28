@@ -1,6 +1,6 @@
 ---
 slug: engage-the-community-with-visual-greatness
-date: 2015-11-13 10:00:28 -0400
+date: 2015-11-13 10:00:00
 title: Engage the Community with Visual Greatness
 summary: 'The power of using social media to find and create images can be overwhelming. What image do I post? How can I get more followers when I don’t have animals or pretty pictures to share? All good questions. The fact is, no matter what your agency does you can find a visual way to tell'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: challenge-module-1-prize-history-prize-theory-and-what-makes-a-good-prize
-date: 2015-07-29 10:00:52 -0400
+date: 2015-07-29 10:00:00
 title: 'Challenge Module 1: Prize History, Prize Theory and What Makes a Good Prize'
 summary: ' Two powerhouses in the Challenge and Prize community came together at GSA for the first in a seven-part learning series recently. Chris Frangione, Vice President of Prize Development for the XPrize and Alexis Bonnell, Innovation Evangelist at USAID offered insights'
 authors:

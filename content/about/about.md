@@ -1,6 +1,6 @@
 ---
 url: /about/
-date: 2017-11-14 12:05:00 -0400
+date: 2017-11-14 12:05:00
 title: 'About'
 summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
 aliases:

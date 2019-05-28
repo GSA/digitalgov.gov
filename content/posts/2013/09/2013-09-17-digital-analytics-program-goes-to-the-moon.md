@@ -1,6 +1,6 @@
 ---
 slug: digital-analytics-program-goes-to-the-moon
-date: 2013-09-17 12:39:20 -0400
+date: 2013-09-17 12:39:00
 title: Digital Analytics Program Goes To The Moon!
 summary: '  On Feb. 15, 2013, a meteor weighing 10,000 metric tons exploded 14 miles above Chelyabinsk, Russia. Users flocked to NASA.gov for info, and we spiked to nearly 12 million page views that day, ~16 times the daily average. Our real-time analytics showed over 300,000 active visitors'
 authors:

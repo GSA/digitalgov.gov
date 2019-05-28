@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-date: 2018-07-06 13:00:00 -0500
-end_date: 2018-07-06 13:30:00 -0500
+date: 2018-07-06 13:00:00
+end_date: 2018-07-06 13:30:00
 event_organizer: DigitalGov University
 host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/july-us-web-design-system-monthly-call-tickets-46807677022

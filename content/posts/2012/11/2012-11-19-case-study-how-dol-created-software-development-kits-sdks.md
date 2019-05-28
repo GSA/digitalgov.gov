@@ -1,6 +1,6 @@
 ---
 slug: case-study-how-dol-created-software-development-kits-sdks
-date: 2012-11-19 1:16:23 -0400
+date: 2012-11-19 1:16:00
 title: 'Case Study: How DOL Created Software Development Kits (SDKs)'
 summary: 'What It Is The U.S. Department of Labor sought to go beyond merely making data available to developers and take ease of use of the data to the next level by giving developers tools that would make using DOL’s data easier. The target audience was not just experienced developers, but even those who may be'
 authors:

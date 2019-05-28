@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-the-promise-and-perils-of-artificial-emotional-intelligence
-date: 2017-06-14 11:37:13 -0400
+date: 2017-06-14 11:37:00
 title: 'The Data Briefing: the Promise &#8211; and Perils &#8211; of Artificial Emotional Intelligence'
 summary: 'The first chatbot, ELIZA, was created back in 1964 to demonstrate that communication between humans and computers would be superficial. However, much to Dr. Weizenbaum’s (ELIZA’a creator) surprise, people easily formed friendly relationships with the computer program. People forming relationships with ELIZA was especially surprising considering just how simple the program was regarding generating conversational'
 authors:

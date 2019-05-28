@@ -1,6 +1,6 @@
 ---
 slug: curate-the-best-thinking-available
-date: 2016-11-30 3:00:06 -0400
+date: 2016-11-30 3:00:00
 title: Curate the Best Thinking Available
 summary: 'When I joined the code.gov project, I had just over a month to make an impact on the project. The most pressing work seemed to be defining a software metadata schema &mdash; a way for agencies to format the details of the software they’ve built. In August of this year, the Federal Source Code Policy'
 authors:

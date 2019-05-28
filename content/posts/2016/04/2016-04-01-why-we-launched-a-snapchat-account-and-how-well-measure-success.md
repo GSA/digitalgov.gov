@@ -1,6 +1,6 @@
 ---
 slug: why-we-launched-a-snapchat-account-and-how-well-measure-success
-date: 2016-04-01 11:00:14 -0400
+date: 2016-04-01 11:00:00
 title: Why We Launched A Snapchat Account and How We’ll Measure Success
 summary: 'Yesterday, we shared our Snapchat account with the public. After weeks of testing the tool to iron out kinks and determine how we’d make content accessible, we were excited to go public when the official government-friendly terms of service were signed. So now you may be asking, why'
 authors:

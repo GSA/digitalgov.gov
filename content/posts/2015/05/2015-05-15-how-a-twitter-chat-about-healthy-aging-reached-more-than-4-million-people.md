@@ -1,6 +1,6 @@
 ---
 slug: how-a-twitter-chat-about-healthy-aging-reached-more-than-4-million-people
-date: 2015-05-15 10:00:34 -0400
+date: 2015-05-15 10:00:00
 title: How a Twitter Chat about Healthy Aging Reached More than 4 Million People
 summary: There are multiple health-related Twitter chats every day of the week. There are chats focused on specific conditions, on the healthcare system, on treatments, on products and on practices. If your agency or organization is interested in leading a conversation in this
 authors:

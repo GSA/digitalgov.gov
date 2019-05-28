@@ -1,6 +1,6 @@
 ---
 slug: all-in-partnering-across-sectors-can-boost-competition-results
-date: 2015-12-11 10:00:14 -0400
+date: 2015-12-11 10:00:00
 title: 'All In: Partnering Across Sectors Can Boost Competition Results'
 summary: 'We’ve heard the phrase a million times: Nobody does it alone. Still, it rings true no matter what you’re trying to accomplish. When it comes to crowdsourcing competitions, government agencies are making breakthroughs in a variety of fields by partnering with companies, nonprofit organizations and others beyond the federal framework. The White House announced more'
 authors:

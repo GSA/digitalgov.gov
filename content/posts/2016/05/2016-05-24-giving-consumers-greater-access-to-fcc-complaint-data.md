@@ -1,6 +1,6 @@
 ---
 slug: giving-consumers-greater-access-to-fcc-complaint-data
-date: 2016-05-24 11:10:17 -0400
+date: 2016-05-24 11:10:00
 title: Giving Consumers Greater Access to FCC Complaint Data
 summary: 'Greater transparency is one of the goals of our Consumer Help Center, which for over a year now has been the FCC’s primary online destination for learning about consumer telecommunications issues, filing informal consumer complaints and finding out what other consumers are concerned about.'
 authors:

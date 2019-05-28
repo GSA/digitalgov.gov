@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-date: 2019-05-21 12:00:00 -0500
-end_date: 2019-05-21 12:30:00 -0500
+date: 2019-05-21 12:00:00
+end_date: 2019-05-21 12:30:00
 event_organizer: DigitalGov University
 host: DigitalGov University
 registration_url: https://www.eventbrite.com/e/2019-virtual-student-federal-service-info-session-registration-62009088854

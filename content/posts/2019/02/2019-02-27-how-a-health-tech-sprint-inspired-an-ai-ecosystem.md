@@ -1,6 +1,6 @@
 ---
 slug: how-a-health-tech-sprint-inspired-an-ai-ecosystem
-date: 2019-02-27 13:00:00 -0500
+date: 2019-02-27 13:00:00
 title: 'Deep Dive: How a Health Tech Sprint Pioneered an AI Ecosystem'
 summary: 'Seven teams created digital tools that help in finding experimental therapies for patients, and for clinical trials to recruit new patients.'
 deck: "Seven teams created digital tools that help in finding experimental therapies for patients, and for clinical trials to recruit new patients."

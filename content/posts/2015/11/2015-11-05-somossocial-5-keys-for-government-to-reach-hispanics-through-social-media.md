@@ -1,6 +1,6 @@
 ---
 slug: somossocial-5-keys-for-government-to-reach-hispanics-through-social-media
-date: 2015-11-05 14:09:46 -0400
+date: 2015-11-05 14:09:00
 title: '#SomosSocial: 5 Keys for Government to Reach Hispanics Through Social Media'
 summary: 'Hispanics are one of fastest growing demographics in the U.S. But like any demographic, there are important nuances to consider when connecting with this audience. Insight into your audience’s motivations, behavior and preferences is key for anyone trying to engage with the public. We know every day that more and more Hispanics are on social'
 authors:

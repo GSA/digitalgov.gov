@@ -1,6 +1,6 @@
 ---
 slug: help-us-strengthen-open-government
-date: 2015-07-10 11:27:41 -0400
+date: 2015-07-10 11:27:00
 title: Help Us Strengthen Open Government
 summary: Since the United States joined the Open Government Partnership in 2011, U.S. agencies have been working alongside civil society to develop and implement commitments to increase transparency, improve participation, and curb corruption. From opening up Federal spending data to make it easier to see how taxpayer dollars are spent, to the We the People online
 authors:

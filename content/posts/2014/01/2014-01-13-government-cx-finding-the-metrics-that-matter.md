@@ -1,6 +1,6 @@
 ---
 slug: government-cx-finding-the-metrics-that-matter
-date: 2014-01-13 8:42:11 -0400
+date: 2014-01-13 8:42:00
 title: 'Government CX: Finding the Metrics that Matter'
 summary: 'Customer experience (CX) is an emerging area of focus within government.  My role as Vice President of Customer Experience at the Export-Import Bank speaks to this reality. Our agency’s customers and partners consist of U.S. exporters, financial services institutions, insurance brokers and foreign buyers of U.S. products and services. All play a key role in'
 authors:

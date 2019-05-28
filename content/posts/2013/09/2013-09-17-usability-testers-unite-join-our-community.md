@@ -1,6 +1,6 @@
 ---
 slug: usability-testers-unite-join-our-community
-date: 2013-09-17 8:53:11 -0400
+date: 2013-09-17 8:53:00
 title: Usability testers unite! Join our Community
 summary: 'I’m the kind of guy who loves tests. Not SATs, or BMI tests, but usability tests: connecting target customers with a government website and watching how they interact with it. Our DigitalGov User Experience Program (formerly known as First Fridays) has taught dozens of agencies how to conduct'
 authors:

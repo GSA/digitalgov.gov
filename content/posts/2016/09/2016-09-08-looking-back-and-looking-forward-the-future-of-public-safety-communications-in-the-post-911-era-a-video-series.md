@@ -1,6 +1,6 @@
 ---
 slug: looking-back-and-looking-forward-the-future-of-public-safety-communications-in-the-post-911-era-a-video-series
-date: 2016-09-08 1:00:56 -0400
+date: 2016-09-08 1:00:00
 title: 'Looking Back and Looking Forward: the Future of Public Safety Communications in the Post 9/11 Era—a Video Series'
 summary: 'The week before Patriot Day, our nation’s annual remembrance of the 9/11 attacks, first responders share their remembrances and vision for the future of public safety communications in this video series. This week, we’ll hear from: Mike Worrell, Senior Fire Advisor, FirstNet Chad Weber, Public Information Officer, Florida Wildlife Conservation, Northeast Region Mike Duyck, Fire'
 authors:

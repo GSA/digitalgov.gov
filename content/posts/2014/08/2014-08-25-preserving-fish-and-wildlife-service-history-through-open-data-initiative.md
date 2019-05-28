@@ -1,6 +1,6 @@
 ---
 slug: preserving-fish-and-wildlife-service-history-through-open-data-initiative
-date: 2014-08-25 10:00:50 -0400
+date: 2014-08-25 10:00:00
 title: Preserving Fish and Wildlife Service History through Open Data Initiative
 summary: 'In the summer of 1914, Frederick M. Dille, manager at Fort Niobrara National Wildlife Refuge, observed: &ldquo;The general conditions of affairs at Niobrara are favorable and good. The animals are thriving, the feed has been abundant, the fence is in good shape and Mr. Schultz has handled everything very satisfactory. [&hellip;] The pheasants have done'
 authors:

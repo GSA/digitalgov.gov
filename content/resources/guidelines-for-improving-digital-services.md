@@ -1,6 +1,6 @@
 ---
 slug: guidelines-for-improving-digital-services
-date: 2014-04-04 3:12:19 -0400
+date: 2014-04-04 3:12:00
 title: Guidelines for Improving Digital Services
 summary: 'The Digital Services Advisory Group and the Federal Web Managers Council have developed the following guidelines to meet the 6.1 milestone of the Digital Government Strategy. These recommendations apply to all digital services, including Web, mobile, apps, APIs, and online forms. Guidelines Guideline 1: Digital Strategy Integrate your digital presence into your agency&rsquo;s overall business, communications, and customer experience strategy Guideline 2: Governance,'
 authors:

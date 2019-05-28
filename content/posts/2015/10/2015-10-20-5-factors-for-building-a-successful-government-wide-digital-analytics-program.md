@@ -1,6 +1,6 @@
 ---
 slug: 5-factors-for-building-a-successful-government-wide-digital-analytics-program
-date: 2015-10-20 3:15:07 -0400
+date: 2015-10-20 3:15:00
 title: 5 Factors to Building a Successful Government-wide Digital Analytics Program
 summary: 'Launched just three years ago, the Digital Analytics Program (DAP) continues to drive the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale. The DAP officially launched on October 15, 2012 with a release of its first version of'
 authors:

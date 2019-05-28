@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-the-rise-in-mobile-addicts
-date: 2015-08-18 11:10:23 -0400
+date: 2015-08-18 11:10:00
 title: 'Trends on Tuesday: The Rise in “Mobile Addicts”'
 summary: ' Yahoo’s mobile analytics division, Flurry, released an interesting report, in July, comparing mobile usage among three distinct types of users around the world based on how frequently they launch mobile applications each day: Regular Users, Super Users and Mobile Addicts. According to Flurry, of'
 authors:

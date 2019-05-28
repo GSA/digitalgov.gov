@@ -1,6 +1,6 @@
 ---
 slug: a-deeper-look-into-the-usda-gov-website-redesign
-date: 2017-04-26 11:00:11 -0400
+date: 2017-04-26 11:00:00
 title: A Deeper Look into the USDA.gov Website Redesign
 summary: 'We hope you are finding it easier to get the information you need on USDA.gov following the launch of our site redesign in March. We’ve already welcomed over 1 million visitors to the new site and we are pleased with the positive feedback we’ve received thus far. Our redesign makes it easier for you to'
 authors:

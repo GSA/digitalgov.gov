@@ -1,6 +1,6 @@
 ---
 slug: webinar-recap-a-look-at-googles-media-tool-and-platform-offerings
-date: 2016-09-13 11:00:15 -0400
+date: 2016-09-13 11:00:00
 title: 'Webinar Recap: A Look At Google&#8217;s Media Tool and Platform Offerings'
 summary: 'Suddenly, digital video is everywhere on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and all of the features each publishing platform has to offer. Facebook, Twitter and SnapChat all offer great video platforms that are free and easy to use, plus they make it easy for you to market to'
 authors:

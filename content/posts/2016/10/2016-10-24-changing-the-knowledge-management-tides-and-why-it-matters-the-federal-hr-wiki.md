@@ -1,6 +1,6 @@
 ---
 slug: changing-the-knowledge-management-tides-and-why-it-matters-the-federal-hr-wiki
-date: 2016-10-24 12:00:26 -0400
+date: 2016-10-24 12:00:00
 title: 'Changing the Knowledge Management Tides and Why it Matters: The Federal HR Wiki'
 summary: 'Imagine this &ndash; a go-to member of your organization just retired, a furlough is approaching, and now no one knows what to do. What communications need to go out?  Who is considered &lsquo;excepted’?  Can the daycare center stay open?  In the absence of mind-melds, how do you make expert knowledge easily accessible to newer team'
 authors:

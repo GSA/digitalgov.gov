@@ -1,6 +1,6 @@
 ---
 slug: world-usability-day-engagement
-date: 2014-11-13 9:00:09 -0400
+date: 2014-11-13 9:00:00
 title: 'World Usability Day 2014 theme: Engagement'
 summary: 'There are many buzzwords thrown around in the digital government universe, but the most impactful ideas are rooted in one action: engagement. Whether it is a tweet, a mobile app, or a community of practitioners, every digital program or service requires interaction between an organization and its customer. Engagement is also the foundation of all'
 authors:

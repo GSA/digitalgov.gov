@@ -1,6 +1,6 @@
 ---
 slug: design-conflict-do-you-know-your-conflict-style
-date: 2017-09-18 09:00:34 -0400
+date: 2017-09-18 09:00:00
 title: 'Design and Conflict&#58; Do You Know Your Conflict Style&#63;'
 summary: 'Building empathy towards users is always a part of the UX process, but it’s not always common practice to build empathy towards our teammates. Here’s an idea to proactively address conflict and build empathy through understanding on your team.'
 authors:

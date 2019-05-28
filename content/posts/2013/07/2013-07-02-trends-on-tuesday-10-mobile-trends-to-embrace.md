@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-10-mobile-trends-to-embrace
-date: 2013-07-02 9:24:48 -0400
+date: 2013-07-02 9:24:00
 title: 'Trends on Tuesday: 10 Mobile Trends to Embrace'
 summary: 'Jackie Rov of tmgmedia points out that with more than a billion smartphones in consumer’s pockets, it’s more important than ever for brands to adapt their strategy to mobile trends.  To engage with consumers in the mobile era, we must understand the shift in consumer behavior'
 authors:

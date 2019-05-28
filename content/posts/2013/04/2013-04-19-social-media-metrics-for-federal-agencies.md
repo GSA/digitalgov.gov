@@ -1,6 +1,6 @@
 ---
 slug: social-media-metrics-for-federal-agencies
-date: 2013-04-19 11:45:50 -0400
+date: 2013-04-19 11:45:00
 title: Social Media Metrics for Federal Agencies
 summary: 'Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis&mdash;using the vast'
 authors:

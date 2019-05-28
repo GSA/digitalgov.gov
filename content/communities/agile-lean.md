@@ -1,7 +1,7 @@
 ---
 url: /communities/agile-lean/
 uid: agile-lean
-date: 2017-09-04 15:45:00 -0400
+date: 2017-09-04 15:45:00
 title: 'Agile/Lean'
 summary: 'Supporting people working with agile/lean methodologies and those who would like to learn more.'
 members: 466

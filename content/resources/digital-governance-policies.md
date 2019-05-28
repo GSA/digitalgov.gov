@@ -1,6 +1,6 @@
 ---
 slug: digital-governance-policies
-date: 2017-05-31 6:27:04 -0400
+date: 2017-05-31 6:27:00
 title: Digital Governance Policy Outline
 summary: 'A template for digital governance policies.'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: member-spotlight-jill-james-dept-of-education
-date: 2014-08-27 10:00:43 -0400
+date: 2014-08-27 10:00:00
 title: 'Member Spotlight &#8211; Jill James, Dept. of Education'
 summary: 'Welcome to the first edition of a new series of articles spotlighting members of our Government Web Manager Community. This month, we introduce Jill James, who’s the Senior Web Editor/Director for the Department of Education, in their Communications and Outreach'
 authors:

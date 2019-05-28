@@ -1,6 +1,6 @@
 ---
 slug: emma-friendly-presence-and-innovative-uscis-resource-available-247
-date: 2016-09-01 10:00:40 -0400
+date: 2016-09-01 10:00:00
 title: 'Emma: Friendly Presence and Innovative USCIS Resource Available 24/7'
 summary: 'We are working hard to serve you and continue to make improvements to Emma, our Spanish-speaking Interactive Virtual Assistant. Help us improve Emma’s knowledge by continuing to ask your immigration-related questions on USCIS.gov/es from any device. This blog will help you understand a little bit more about how Emma works and how you can help'
 authors:

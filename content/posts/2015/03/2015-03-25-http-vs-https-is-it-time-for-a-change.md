@@ -1,6 +1,6 @@
 ---
 slug: http-vs-https-is-it-time-for-a-change
-date: 2015-03-25 10:00:43 -0400
+date: 2015-03-25 10:00:00
 title: 'HTTP vs HTTPS: Is it Time For a Change?'
 summary: Data. Security. Privacy. These are the cornerstones of many discussions concerning technology. The security of citizen information when interacting with the federal government will be increasingly important as we progress into the future. A few agencies have begun to use Hyper Text Transfer Protocol Secure (HTTPS) in lieu of the standard HTTP. For these agencies,
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: census-promotes-mobile-apps-front-and-center
-date: 2014-09-04 13:18:46 -0400
+date: 2014-09-04 13:18:00
 title: Census Promotes Mobile Apps Front and Center!
 summary: ' Those cutting edge folks over at Census have raised the bar again! Not only do they have three mobile apps that use their own APIs, but now everyone who visits Census.gov is presented with an'
 topics:

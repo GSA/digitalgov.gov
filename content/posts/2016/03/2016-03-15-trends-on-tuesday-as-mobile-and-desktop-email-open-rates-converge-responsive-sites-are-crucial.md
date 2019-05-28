@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-as-mobile-and-desktop-email-open-rates-converge-responsive-sites-are-crucial
-date: 2016-03-15 10:00:13 -0400
+date: 2016-03-15 10:00:00
 title: 'Trends on Tuesday: As Mobile and Desktop Email Open Rates Converge, Responsive Sites Are Crucial'
 summary: 'A new report about email usage reinforced the importance of always building responsive websites. Yesmail&#8217;s quarterly report showed that mobile and desktop email click-to-open rates are converging to almost the same level for the first time ever. As people become more mobile-first and mobile-only users of the Internet, users opening emails on their desktop devices'
 authors:

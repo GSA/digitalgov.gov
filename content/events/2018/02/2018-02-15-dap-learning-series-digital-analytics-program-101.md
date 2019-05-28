@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-date: 2018-02-15 13:00:00 -0500
-end_date: 2018-02-15 16:00:00 -0500
+date: 2018-02-15 13:00:00
+end_date: 2018-02-15 16:00:00
 event_organizer: DigitalGov University
 host: Digital Analytics Program
 registration_url: https://www.eventbrite.com/e/dap-learning-series-digital-analytics-program-101-registration-42540102592

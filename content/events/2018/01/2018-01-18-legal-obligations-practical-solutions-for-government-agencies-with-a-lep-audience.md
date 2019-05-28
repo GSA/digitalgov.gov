@@ -7,8 +7,8 @@ featured_image:
   alt: 'Department of Justice'
 event_type:
   - youtube-live
-date: 2018-01-18 14:00:00 -0400
-end_date: 2018-01-18 15:00:00 -0400
+date: 2018-01-18 14:00:00
+end_date: 2018-01-18 15:00:00
 event_organizer: DigitalGov University
 host: Multilingual Community of Practice
 registration_url: https://www.eventbrite.com/e/legal-obligations-practical-solutions-if-your-agency-interacts-with-lep-audiences-registration-40912496378

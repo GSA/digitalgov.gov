@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-mobile-websites-or-mobile-apps-or-both
-date: 2016-03-09 10:46:15 -0400
+date: 2016-03-09 10:46:00
 title: 'The Data Briefing: Mobile Websites or Mobile Apps or Both?'
 summary: 'The increasing sophistication of mobile devices has created many opportunities for developers. Thanks to APIs* and open data, developers can build thousands of mobile apps and mobile websites to meet users’ needs. This opportunity has created one of the most contentious debates in the mobile development community: mobile apps versus mobile websites? There is, yet,'
 authors:

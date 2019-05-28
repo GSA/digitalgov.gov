@@ -1,6 +1,6 @@
 ---
 slug: twitter-town-hall-tips-from-the-va
-date: 2015-12-18 10:00:05 -0400
+date: 2015-12-18 10:00:00
 title: Twitter Town Hall Tips from the VA
 summary: I work for the Department of Veterans Affairs in a national benefits office that oversees Veterans life Insurance programs. Our office has held a couple of successful Twitter Town Halls. They get a little smoother each time because we make a point of adjusting our style based on our lessons learned. After answering a question
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-how-neuroscience-and-communication-theory-inform-good-user-experience-design
-date: 2015-11-25 11:00:51 -0400
+date: 2015-11-25 11:00:00
 title: 'The Data Briefing: How Neuroscience and Communication Theory Inform Good User Experience Design'
 summary: 'Standing on the corner, waiting in the rain, I swear I’ll never, ever, use that app again. Why? Because the bad user experience (UX) design was preventing me from determining when the Metrobus would arrive. UX is everything from the visual design to the navigation structure of the website or mobile app. This month, DigitalGov'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: congress-creates-the-bill-of-rights-from-national-archives
-date: 2015-09-03 10:00:14 -0400
+date: 2015-09-03 10:00:00
 title: '&#8220;Congress Creates the Bill of Rights&#8221; from National Archives'
 summary: ' Whether it&#8217;s the 800-year-old legacy of the Magna Carta, the Bill of Rights of the United States Constitution or the more recent Charter of Fundamental Rights of the European Union, all of these documents are powerful'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: how-federal-leaders-can-build-the-will-skill-and-velocity-needed-for-digital-transformation
-date: 2017-09-06 3:00:31 -0400
+date: 2017-09-06 3:00:00
 title: How Federal Leaders Can Build the Will, Skill, and Velocity Needed for Digital Transformation
 summary: 'Learning&mdash;and practicing&mdash;five imperatives of network leadership can help agencies improve their odds for successful digital transformation.  Many organizations are undergoing digital transformation because the organizations see that it is necessary for long-term survival. However, digitally reinventing the organization is &ldquo;one of the hardest journeys to make.&rdquo;  According to industry experts, two-thirds of organizations will fail'
 featured_image:

@@ -1,6 +1,6 @@
 ---
 slug: check-out-our-new-uscis-instagram-account
-date: 2016-09-21 13:00:08 -0400
+date: 2016-09-21 13:00:00
 title: Check Out Our New USCIS Instagram Account!
 summary: We are fortunate to meet amazing immigrants every day and share in their immigration journeys. Now we have a unique opportunity to share their stories with the world using Instagram. Today, we launched our Instagram account under the handle @USCIS and @USCIS_ES (Spanish version) and will share photos, graphics and videos to highlight our vital
 authors:

@@ -1,7 +1,7 @@
 ---
 url: /communities/social-media/
 uid: social-media
-date: 2013-11-21 3:32:54 -0400
+date: 2013-11-21 3:32:00
 title: 'Social Media'
 summary: 'We work on improving the creation, adoption and evaluation of social engagement in government.'
 members: 991

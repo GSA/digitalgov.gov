@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-web-standards-advocate-advises-adaptive-web-design-for-government-sites
-date: 2015-08-25 11:10:50 -0400
+date: 2015-08-25 11:10:00
 title: 'Trends on Tuesday: Web Standards Advocate Advises Adaptive Web Design for Government Sites'
 summary: ' This August, Aaron Gustafson, Web Standards Advocate at Microsoft, industry thought leader and speaker, and an author who wrote a leading book on adaptive web design, spoke to the government tech community at the U.S. General Services Administration'
 authors:

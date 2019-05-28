@@ -10,8 +10,8 @@ event_type:
   - online
 topics:
   - fedramp
-date: 2018-10-30 14:00:00 -0500
-end_date: 2018-10-30 15:00:00 -0500
+date: 2018-10-30 14:00:00
+end_date: 2018-10-30 15:00:00
 event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/fedramps-resources-for-csps-registration-51472220798

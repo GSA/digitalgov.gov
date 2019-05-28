@@ -1,6 +1,6 @@
 ---
 slug: a-sense-of-purpose-strong-communities-can-overcome-big-challenges
-date: 2016-01-04 13:00:44 -0400
+date: 2016-01-04 13:00:00
 title: 'A Sense of Purpose: Strong Communities Can Overcome Big Challenges'
 summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not the traditional public hearing-style events for which government agencies are known. But these events helped to fuel the Department of Housing and Urban Development’s (HUD) Rebuild by Design Challenge (PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged'
 authors:

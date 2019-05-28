@@ -1,6 +1,6 @@
 ---
 slug: real-internationalization-isnt-just-geographic-its-linguistic
-date: 2015-06-19 11:00:33 -0400
+date: 2015-06-19 11:00:00
 title: 'Real Internationalization Isn’t Just Geographic: It’s Linguistic'
 summary: Twenty years ago, the chances of watching an NBA game with commentary in a language other than English were small. Today, the NBA transmits games in 47 languages to 215 countries across the world. This is a perfect example of how organizations have evolved over time to meet the demands of their audiences. Evidence like
 authors:

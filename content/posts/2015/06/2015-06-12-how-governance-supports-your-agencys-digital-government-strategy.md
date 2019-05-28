@@ -1,6 +1,6 @@
 ---
 slug: how-governance-supports-your-agencys-digital-government-strategy
-date: 2015-06-12 10:00:33 -0400
+date: 2015-06-12 10:00:00
 title: How Governance Supports Your Agency’s Digital Government Strategy
 summary: 'It seems that everyone these days is talking about &ldquo;governance.&rdquo; But what is it, really, and how can you make good governance usable in your agency? The federal government developed the Digital Government Strategy to deliver better Web services to the American people. The strategy is based on the notion of focusing on customers&mdash;the American'
 authors:

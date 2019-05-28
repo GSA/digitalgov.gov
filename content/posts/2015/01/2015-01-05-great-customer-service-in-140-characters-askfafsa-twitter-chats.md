@@ -1,6 +1,6 @@
 ---
 slug: great-customer-service-in-140-characters-askfafsa-twitter-chats
-date: 2015-01-05 10:00:25 -0400
+date: 2015-01-05 10:00:00
 title: 'Great Customer Service in 140 Characters: #AskFAFSA Twitter Chats'
 summary: ' As agencies strive for success in digital government, they often need to open their virtual doors and meet the public in new and evolving spaces. Federal Student Aid meets its audience in the 21st century public square at monthly #AskFAFSA sessions. During the live'
 authors:

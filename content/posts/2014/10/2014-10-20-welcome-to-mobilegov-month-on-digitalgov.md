@@ -1,6 +1,6 @@
 ---
 slug: welcome-to-mobilegov-month-on-digitalgov
-date: 2014-10-20 12:26:16 -0400
+date: 2014-10-20 12:26:00
 title: Welcome to Mobile Gov Month on DigitalGov
 summary: ' What’s your mobile itch? A long time ago at a workshop not so far away&#8230;we asked the 40 federal government innovators who had released native apps this question. We wanted to know their biggest barriers, challenges, frustrations to building anytime, anywhere government. Their generosity in telling'
 authors:

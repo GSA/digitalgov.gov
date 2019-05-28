@@ -1,6 +1,6 @@
 ---
 slug: 9-reasons-your-infographics-might-be-too-big
-date: 2016-10-27 12:00:27 -0400
+date: 2016-10-27 12:00:00
 title: 9 Reasons Your Infographics Might Be Too Big
 summary: Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures. While a massive infographic immediately arrests due to
 authors:

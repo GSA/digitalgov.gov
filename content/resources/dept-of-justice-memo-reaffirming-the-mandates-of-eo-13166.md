@@ -1,6 +1,6 @@
 ---
 slug: dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166
-date: 2015-12-01 11:30:45 -0400
+date: 2015-12-01 11:30:00
 title: Dept. of Justice Memo Reaffirming the Mandates of EO 13166
 summary: 'Executive Order 13 1661 was issued in August of 2000 and this memorandum reaffirms its mandate. The Executive Order has two primary parts: Each federal agency must develop and implement a system by which limited English proficient (LEP) persons can meaningfully access the agency&#8217;s services. Each agency providing federal financial assistance must issue guidance to'
 topics:

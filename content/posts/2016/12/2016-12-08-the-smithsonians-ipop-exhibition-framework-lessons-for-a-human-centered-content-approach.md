@@ -1,6 +1,6 @@
 ---
 slug: the-smithsonians-ipop-exhibition-framework-lessons-for-a-human-centered-content-approach
-date: 2016-12-08 12:30:40 -0400
+date: 2016-12-08 12:30:00
 title: 'The Smithsonian’s IPOP Exhibition Framework: Lessons for a Human-Centered Content Approach'
 summary: 'One of the great challenges in designing a product &mdash; digital or otherwise &mdash; is stepping outside yourself and climbing into the minds of your users. You love the wonderful new app you’ve designed, but will it appeal to others? Fortunately, the field of user experience design (UX) gives us tools to understand our users through surveys, interviews, card'
 authors:

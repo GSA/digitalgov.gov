@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - zoom
-date: 2019-05-14 14:00:00 -0500
-end_date: 2019-05-14 15:00:00 -0500
+date: 2019-05-14 14:00:00
+end_date: 2019-05-14 15:00:00
 event_organizer: DigitalGov University
 host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-episode-2-challengegov-tickets-60872206408

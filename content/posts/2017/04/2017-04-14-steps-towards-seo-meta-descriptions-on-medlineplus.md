@@ -1,6 +1,6 @@
 ---
 slug: steps-towards-seo-meta-descriptions-on-medlineplus
-date: 2017-04-14 11:00:08 -0400
+date: 2017-04-14 11:00:00
 title: 'Steps Towards SEO: Meta Descriptions on MedlinePlus'
 summary: 'MedlinePlus is a consumer health website produced by the U.S. National Library of Medicine (NLM), available in both English and Spanish. As part of our Search Engine Optimization (SEO) strategy, we recently added meta descriptions to our health topic pages. A meta description is a short HTML attribute in the head tag that describes the contents of a'
 authors:

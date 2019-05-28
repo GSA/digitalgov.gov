@@ -1,6 +1,6 @@
 ---
 slug: meeting-patients-where-they-are-liberating-clinical-trials-data-under-the-cancer-moonshot
-date: 2016-11-16 13:00:23 -0400
+date: 2016-11-16 13:00:00
 title: 'Meeting Patients Where They Are: Liberating Clinical Trials Data Under the Cancer Moonshot'
 summary: Cancer clinical trials are a critically important step on the pathway for new or improved treatments to make their way to patients in clinics and hospitals in towns and cities across the country. Patients and their loved ones are relying on these rigorous studies to determine whether promising new therapies and approaches might extend how
 authors:

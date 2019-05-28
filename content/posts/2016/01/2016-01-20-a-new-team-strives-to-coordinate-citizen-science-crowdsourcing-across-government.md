@@ -1,6 +1,6 @@
 ---
 slug: a-new-team-strives-to-coordinate-citizen-science-crowdsourcing-across-government
-date: 2016-01-20 10:00:29 -0400
+date: 2016-01-20 10:00:00
 title: A New Team Strives to Coordinate Citizen Science, Crowdsourcing Across Government
 summary: A government can accomplish nothing without the ingenuity of its people. This is why the federal government is committed to using online tools to make its problem-solving more open and collaborative. A growing number of agencies are testing the applications of crowdsourcing and citizen science to accomplish more, and in many cases, do things faster
 authors:

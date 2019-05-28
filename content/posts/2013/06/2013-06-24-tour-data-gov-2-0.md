@@ -1,6 +1,6 @@
 ---
 slug: tour-data-gov-2-0
-date: 2013-06-24 9:04:23 -0400
+date: 2013-06-24 9:04:00
 title: Tour Data.gov 2.0
 summary: ' As you know, last month Data.gov launched its new open-source Data.gov 2.0 catalog (catalog.data.gov). Based on CKAN, a data management platform used by many open-data catalogs around the world, Data.gov’s new catalog has received nothing but kudos from users. For the first time, our raw datasets, tools'
 authors:

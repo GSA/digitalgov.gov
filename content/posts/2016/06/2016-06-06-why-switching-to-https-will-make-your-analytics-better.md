@@ -1,6 +1,6 @@
 ---
 slug: why-switching-to-https-will-make-your-analytics-better
-date: 2016-06-06 11:00:14 -0400
+date: 2016-06-06 11:00:00
 title: Why Switching to HTTPS Will Make Your Analytics Better
 summary: Federal agencies are required to make all federal websites accessible through a secure, HTTPS-only connection by the end of the 2016 calendar year. What you might not have known is that the switch to HTTPS will improve your ability to track which sites are directing web traffic to yours. Recently, a federal colleague reached out
 authors:

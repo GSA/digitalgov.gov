@@ -1,6 +1,6 @@
 ---
 slug: laying-the-foundation-for-a-more-secure-modern-government
-date: 2016-10-28 3:00:16 -0400
+date: 2016-10-28 3:00:00
 title: Laying the Foundation for a More Secure, Modern Government
 summary: 'Summary: Building on efforts to boost Federal cybersecurity & as part of National Cybersecurity Awareness Month, today we&#8217;re releasing a proposed guidance to modernize Federal IT. America’s spirit of ingenuity and entrepreneurship created the world’s most innovative economy and keeps us dominant in today’s digital age. Indeed, in 1985 about 2,000 people used the Internet;'
 authors:

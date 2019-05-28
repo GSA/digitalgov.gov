@@ -1,6 +1,6 @@
 ---
 slug: naras-docsteach
-date: 2012-04-25 12:42:14 -0400
+date: 2012-04-25 12:42:00
 title: 'NARA&#8217;s DocsTeach'
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Archives and Records Administration. DocsTeach is a mobile application developed by the National Archives and Records Administration (NARA) that allows teachers to create and share'
 topics:

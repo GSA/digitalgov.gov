@@ -1,6 +1,6 @@
 ---
 slug: two-complementary-teams-with-same-goal
-date: 2019-05-07 11:00:00 -0500
+date: 2019-05-07 11:00:00
 title: 'How Presidential Innovation Fellows and 18F Support One Another in Agencies'
 deck: 'Two teams working together to help agencies become more effective at meeting the needs of citizens'
 summary: 'Two teams working together to help agencies become more effective at meeting the needs of citizens.'

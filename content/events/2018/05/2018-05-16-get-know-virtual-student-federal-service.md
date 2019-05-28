@@ -8,8 +8,8 @@ featured_image:
 event_type: 
   - youtube-live
   - online
-date: 2018-05-24 13:00:00 -0500
-end_date: 2018-05-24 14:00:00 -0500
+date: 2018-05-24 13:00:00
+end_date: 2018-05-24 14:00:00
 event_organizer: DigitalGov University
 host: 
 registration_url: https://www.eventbrite.com/e/virtual-student-federal-service-vsfs-submit-a-project-and-make-an-impact-registration-46118530767

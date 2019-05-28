@@ -1,6 +1,6 @@
 ---
 slug: connect-with-your-colleagues-before-you-need-them
-date: 2015-01-12 11:10:04 -0400
+date: 2015-01-12 11:10:00
 title: Connect with Your Colleagues Before You Need Them
 summary: 'Running a government website or social media account is complex: while trying to meet your agency’s mission goals and your customers’ needs, you also have to keep track of issues like ethics, information security, privacy, and accessibility. It’s enough to make your head spin. Luckily, no one &hellip; errr &hellip; no online communications person &hellip;'
 authors:

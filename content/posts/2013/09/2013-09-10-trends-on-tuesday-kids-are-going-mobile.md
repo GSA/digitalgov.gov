@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-kids-are-going-mobile
-date: 2013-09-10 2:31:38 -0400
+date: 2013-09-10 2:31:00
 title: 'Trends on Tuesday: Kids are Going Mobile'
 summary: 'From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds&mdash;particularly our smartphones and tablets. The early adoption of mobile is growing each year as evidenced by this infographic from EveryDayFamily.com. 30 percent of 2- to'
 authors:

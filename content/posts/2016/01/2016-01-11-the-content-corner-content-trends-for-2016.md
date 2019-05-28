@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-content-trends-for-2016
-date: 2016-01-11 14:00:53 -0400
+date: 2016-01-11 14:00:00
 title: 'The Content Corner: Content Trends for 2016'
 summary: The beginning of a new year is generally a time where people on a personal and professional level look ahead and prognosticate. When it comes to almost any digital media, the one thing we can be certain of is that the pace will quicken, the offerings will expand, and something totally unexpected will jump out
 authors:

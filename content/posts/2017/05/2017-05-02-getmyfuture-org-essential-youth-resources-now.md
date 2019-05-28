@@ -1,6 +1,6 @@
 ---
 slug: getmyfuture-org-essential-youth-resources-now
-date: 2017-05-02 14:00:39 -0400
+date: 2017-05-02 14:00:00
 title: 'GetMyFuture.org: Essential Youth Resources, Now'
 summary: 'They say that life can be summed up as the process of a series of doors closing. By that, they mean that opportunities for taking different paths start to disappear as you move through life. It’s a logical sentiment, but there’s an obverse to it. When you’re young, all those doors are open. Doors as far as you can see. It’s all about learning how to make informed decisions about what doors to wander through.'
 authors:

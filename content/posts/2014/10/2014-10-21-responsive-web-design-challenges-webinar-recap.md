@@ -1,6 +1,6 @@
 ---
 slug: responsive-web-design-challenges-webinar-recap
-date: 2014-10-21 10:00:18 -0400
+date: 2014-10-21 10:00:00
 title: Responsive Web Design Challenges Webinar Recap
 summary: 'A website redesign is never an easy task, but when responsiveness is one of your redesign&#8217;s key goals, special considerations come into play that can present unique challenges. In the September webinar on Responsive Web Design Challenges in Government, we heard from'
 authors:

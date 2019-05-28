@@ -1,6 +1,6 @@
 ---
 slug: 18f-guide-product-management
-date: 2019-04-03 17:34:00 -0500
+date: 2019-04-03 17:34:00
 
 title: '18F Guide to Product Management'
 deck: 'Best practices on doing product management well'

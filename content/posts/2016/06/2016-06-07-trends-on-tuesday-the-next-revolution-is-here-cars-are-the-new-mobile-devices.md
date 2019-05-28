@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-the-next-revolution-is-here-cars-are-the-new-mobile-devices
-date: 2016-06-07 10:00:46 -0400
+date: 2016-06-07 10:00:00
 title: 'Trends on Tuesday: The Next Revolution Is Here—Cars Are the New Mobile Devices'
 summary: 'Last week, Recode published an article focused on a recent report from industry consultant Chetan Sharma that found the largest number of new mobile activations in the first quarter of 2016 came from a &lsquo;different’ kind of mobile tool&mdash;cars. There are still a lot of phone and tablet mobile activations happening&mdash;31% and 23% of all activations, respectively&mdash;but'
 authors:

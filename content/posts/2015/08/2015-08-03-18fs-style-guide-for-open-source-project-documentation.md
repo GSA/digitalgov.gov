@@ -1,6 +1,6 @@
 ---
 slug: 18fs-style-guide-for-open-source-project-documentation
-date: 2015-08-03 10:00:04 -0400
+date: 2015-08-03 10:00:00
 title: 18F’s Style Guide for Open Source Project Documentation
 summary: 'We routinely publish our best practices in the 18F Guides, and today we’re happy to launch a new one: the 18F Open Source Style Guide. The Open Source Style Guide is a comprehensive handbook for writing clear, accessible, and user-friendly documentation so that'
 authors:

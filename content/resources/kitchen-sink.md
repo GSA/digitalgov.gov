@@ -1,6 +1,6 @@
 ---
 slug: kitchen-sink
-date: 2019-02-14 13:00:00 -0400
+date: 2019-02-14 13:00:00
 title: Kitchen Sink
 summary: "Summary"
 deck: "DECK goes here"

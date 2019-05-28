@@ -1,6 +1,6 @@
 ---
 slug: make-gov-apis-better-with-user-experience
-date: 2014-05-09 10:00:29 -0400
+date: 2014-05-09 10:00:00
 title: Make Gov APIs Better with User Experience
 summary: 'APIs and User Experience go together like gummi bears and ice cream. An API is a product just like a car, a website or a ballpoint pen. It’s designed to help someone do something. Products'
 authors:

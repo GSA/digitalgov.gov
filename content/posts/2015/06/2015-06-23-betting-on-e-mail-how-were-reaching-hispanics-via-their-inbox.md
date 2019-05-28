@@ -1,6 +1,6 @@
 ---
 slug: betting-on-email-how-were-reaching-hispanics-via-their-inbox
-date: 2015-06-23 11:30:58 -0400
+date: 2015-06-23 11:30:00
 title: 'Betting on email: How We&#8217;re Reaching Hispanics via Their Inbox'
 summary: Driving visitors to a destination means reaching your users where they are at. In 2005, as part of the greater USA.gov marketing strategy, GobiernoUSA.gov launched an email program. These communications initially took the form of short blurbs that directed people to important site content and promoted other government information hosted by various federal agencies. From
 authors:

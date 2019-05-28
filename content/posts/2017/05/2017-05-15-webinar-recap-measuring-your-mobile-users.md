@@ -1,6 +1,6 @@
 ---
 slug: webinar-recap-measuring-your-mobile-users
-date: 2017-05-15 11:00:23 -0400
+date: 2017-05-15 11:00:00
 title: 'Webinar Recap: Measuring Your Mobile Users'
 summary: 'In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, &ldquo;Policies for Federal Agency Public Websites and Digital Services,&rdquo; which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.'
 authors:

@@ -5,8 +5,8 @@ summary: 'Crowdsourcing experts from around the federal government come together
 event_type:
   - youtube-live
   - in-person
-date: 2018-05-15 13:00:00 -0500
-end_date: 2018-05-15 16:00:00 -0500
+date: 2018-05-15 13:00:00
+end_date: 2018-05-15 16:00:00
 event_organizer: DigitalGov University
 host: Challenge & Prize Community of Practice
 registration_url: https://www.eventbrite.com/e/federal-challenge-prize-community-of-practice-quarterly-meeting-registration-45447663184

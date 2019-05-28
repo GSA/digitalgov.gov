@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program
-date: 2015-02-24 10:00:03 -0400
+date: 2015-02-24 10:00:00
 title: 'Trends on Tuesday: Mobile Web Lessons From the CrowdSource Mobile Testing Program'
 summary: 'Practice makes perfect. But in the mobile world, it’s testing that makes products better. For federal agencies that have developed their own apps or mobile-friendly sites, the CrowdSource Mobile Testing Program offers a simple way to collect feedback on compatibility testing. Since the program’s inception in March 2013, eight federal mobile websites (including responsive design)'
 authors:

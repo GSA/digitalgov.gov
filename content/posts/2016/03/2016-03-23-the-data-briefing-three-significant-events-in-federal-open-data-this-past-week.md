@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-three-significant-events-in-federal-open-data-this-past-week
-date: 2016-03-23 10:00:52 -0400
+date: 2016-03-23 10:00:00
 title: 'The Data Briefing: Three Significant Events in Federal Open Data This Past Week'
 summary: Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public. In its Second Open Government National Action Plan (PDF, 639 KB, 5 pages, September 2014), the White House called for a government-wide policy on
 authors:

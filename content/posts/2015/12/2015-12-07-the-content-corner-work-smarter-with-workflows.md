@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-work-smarter-with-workflows
-date: 2015-12-07 10:00:55 -0400
+date: 2015-12-07 10:00:00
 title: 'The Content Corner: Work Smarter with Workflows'
 summary: 'I noticed recently that I have spent a decent amount of time discussing or referencing content workflow, but I haven’t spent much time on how to actually create or use workflows. Developing content workflows can be a fairly painless process that can make your regular content creation a much smoother and efficient process. Content workflows'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: federalist-is-out-of-beta-and-open-for-business
-date: 2017-06-05 11:00:17 -0400
+date: 2017-06-05 11:00:00
 title: Federalist Is out of Beta and Open for Business
 summary: 'If you’re a program manager or a federal web developer you’ve probably been given a seemingly simple task: Create a basic website as part of a new initiative at your agency. The hardest part is often not crafting the content or designing the prototype, but getting the security and privacy compliance in order to launch'
 authors:

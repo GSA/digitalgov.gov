@@ -1,6 +1,6 @@
 ---
 slug: monthly-theme-at-your-service
-date: 2015-08-05 10:16:31 -0400
+date: 2015-08-05 10:16:00
 title: 'Monthly Theme: At Your Service'
 summary: 'In this digital age, we know customers expect their government interactions to be on the same level as their interactions with the private sector. Agencies are always striving to improve the quality of their services to meet their customers’ needs. So too in our office, where we use the feedback, you, our agency customers, provide'
 authors:

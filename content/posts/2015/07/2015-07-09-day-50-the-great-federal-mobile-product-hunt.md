@@ -1,6 +1,6 @@
 ---
 slug: day-50-the-great-federal-mobile-product-hunt
-date: 2015-07-09 10:55:19 -0400
+date: 2015-07-09 10:55:00
 title: 'DAY 50: The Great Federal Mobile Product Hunt!'
 summary: 'An update on the Great Federal Mobile Product Hunt.'
 authors:

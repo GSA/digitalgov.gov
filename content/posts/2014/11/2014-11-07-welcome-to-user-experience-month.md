@@ -1,6 +1,6 @@
 ---
 slug: welcome-to-user-experience-month
-date: 2014-11-07 12:00:33 -0400
+date: 2014-11-07 12:00:00
 title: Welcome to User Experience Month!
 summary: 'One challenge with digital government: it&#8217;s hard to see people. If you work at a U.S. Post Office, you interact with your customers, talk with them, and even see what they are feeling by looking at their faces. You can understand their experience fairly easily. In the digital world, technology decreases physical distance but increases'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: agency-mobile-resources-at-the-ready-following-omb-memo
-date: 2016-09-09 1:00:59 -0400
+date: 2016-09-09 1:00:00
 title: Agency Mobile Resources at the Ready Following OMB Memo
 summary: 'Note: This is a guest blog post by Amando E. Gavino, Jr., Director, Office of Network Services, ITS/FAS/GSA. He is responsible for a portfolio of telecommunication acquisition solutions that provide government agencies the ability to meet their diverse set of telecommunication requirements. Acquisition solutions include Networx, Enterprise Infrastructure Solutions &ndash; EIS (the future replacement for'
 authors:

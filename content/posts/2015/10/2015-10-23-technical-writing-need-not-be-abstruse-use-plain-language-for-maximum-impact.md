@@ -1,6 +1,6 @@
 ---
 slug: technical-writing-need-not-be-abstruse-use-plain-language-for-maximum-impact
-date: 2015-10-23 10:00:55 -0400
+date: 2015-10-23 10:00:00
 title: Technical Writing Need Not Be Abstruse—Use Plain Language for Maximum Impact
 summary: 'Author writes: Additionally, the method utilized a myriad of factors for the purpose of incentivizing production to hit record-high levels of magnitude in the equivalent time period. Author thinks: My work sounds serious, impressive and interesting. Reader thinks: Huh? Technical writers are great&mdash;some of my favorite colleagues are technical writers. But technical writers often need'
 authors:

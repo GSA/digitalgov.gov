@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-realtrack-how-hackathons-help-create-apps-from-apis
-date: 2014-07-16 10:00:12 -0400
+date: 2014-07-16 10:00:00
 title: 'The API Briefing: RealTrack – How Hackathons Help Create Apps from APIs'
 summary: 'Once a federal agency releases an API, there are several ways they can be used in apps. The most common method is through hackathons. Hackathons are where an agency or agencies present the API(s) and invite developers to create prototype apps. The apps'
 authors:

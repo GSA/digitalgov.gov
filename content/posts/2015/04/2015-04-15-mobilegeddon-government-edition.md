@@ -1,6 +1,6 @@
 ---
 slug: mobilegeddon-government-edition
-date: 2015-04-15 14:15:42 -0400
+date: 2015-04-15 14:15:00
 title: 'Mobilegeddon: Government Edition'
 summary: 'Much is being said and written about the coming Mobilegeddon/Mopocalypse on April 21st&mdash;the day Google’s ranking algorithm will begin boosting results for mobile-friendly sites and penalizing mobile-unfriendly sites. While some agency websites are mobile-friendly, a great many are not. We will do well to pay attention&mdash;almost 25% of traffic on government websites is coming from'
 authors:

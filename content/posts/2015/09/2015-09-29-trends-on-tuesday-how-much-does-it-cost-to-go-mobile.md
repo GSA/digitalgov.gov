@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-how-much-does-it-cost-to-go-mobile
-date: 2015-09-29 1:00:08 -0400
+date: 2015-09-29 1:00:00
 title: 'Trends on Tuesday: How Much Does It Cost to Go Mobile?'
 summary: 'A penny saved is a penny earned. But spending your pennies on mobile development is necessary to meet 21st century needs. Regardless of how you plan to create that awesome anytime, anywhere mobile experience, it’s going to cost you. While the most obvious parts of the mobile price tag for native app development are initial'
 authors:

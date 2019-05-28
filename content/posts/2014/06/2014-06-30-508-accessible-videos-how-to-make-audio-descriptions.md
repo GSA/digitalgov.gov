@@ -1,6 +1,6 @@
 ---
 slug: 508-accessible-videos-how-to-make-audio-descriptions
-date: 2014-06-30 10:00:33 -0400
+date: 2014-06-30 10:00:00
 title: '508 Accessible Videos &#8211; How to Make Audio Descriptions'
 summary: ' What are Audio Descriptions? Audio Description, also called descriptive video or video description, is an additional audio track that describes and gives context for essential visual information. Audio Description makes videos and multimedia accessible to people who have &#8220;low vision&#8221; (very poor vision), or who are blind, by capturing what'
 authors:

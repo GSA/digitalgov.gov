@@ -1,6 +1,6 @@
 ---
 slug: challenge-module-2-its-all-about-the-teams-the-importance-of-operational-incentives-in-prizes
-date: 2015-08-12 11:10:17 -0400
+date: 2015-08-12 11:10:00
 title: 'Challenge Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes'
 summary: ' A strong incentive is the lifeblood of solving any challenge. That’s the message experts offered August 4 as part of a Challenge.gov webinar series on running successful federal competitions. Sam Ortega, manager'
 authors:

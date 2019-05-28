@@ -1,6 +1,6 @@
 ---
 slug: new-coast-guard-app-streamlines-boating-safety-to-maximize-summer-fun
-date: 2015-06-04 10:00:34 -0400
+date: 2015-06-04 10:00:00
 title: New Coast Guard App Streamlines Boating Safety to Maximize Summer Fun
 summary: 'Just in time for the summer season, the U.S. Coast Guard launched a brand new app to give smartphone users easy, on-demand access to critical boating safety information and resources. With this new app, called United States Coast Guard, users can ensure they have proper'
 authors:

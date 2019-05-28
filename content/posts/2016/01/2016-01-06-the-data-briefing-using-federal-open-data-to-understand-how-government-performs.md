@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-using-federal-open-data-to-understand-how-government-performs
-date: 2016-01-06 10:54:27 -0400
+date: 2016-01-06 10:54:00
 title: 'The Data Briefing: Using Federal Open Data to Understand How Government Performs'
 summary: 'Some highlights from the recent fall conference of the Association for Public Policy Analysis and Management: Localities that receive disaster mitigation funds also have more disaster declarations. Longer, more detailed proposed regulations receive fewer challenges to implementing the regulation. Agencies that are better at quantifying their results are safer from budget cuts. The findings above'
 authors:

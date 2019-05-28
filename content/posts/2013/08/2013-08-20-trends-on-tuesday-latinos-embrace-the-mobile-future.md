@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-latinos-embrace-the-mobile-future
-date: 2013-08-20 9:30:26 -0400
+date: 2013-08-20 9:30:00
 title: 'Trends on Tuesday: Latinos Embrace the Mobile Future'
 summary: 'Latinos appear to be adapting to mobile technology faster than other groups, according to Mobile Future. They are ahead of the average U.S. population in several key categories, such as: 47% of Latino adults have embraced wireless exclusively versus 34% of all U.S. adults'
 authors:

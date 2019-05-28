@@ -1,6 +1,6 @@
 ---
 slug: nist-hosts-reference-data-challenge-to-create-mobile-apps
-date: 2015-08-13 10:00:09 -0400
+date: 2015-08-13 10:00:00
 title: NIST Hosts Reference Data Challenge to Create Mobile Apps
 summary: 'The National Institute of Standards and Technology (NIST) wants YOU to help them build native apps. NIST launched the Reference Data Challenge to improve the way the agency shares scientific reference data. They want third party developers from around the country to build native apps that aggregate and improve the usability of free NIST datasets and resources.'
 authors:

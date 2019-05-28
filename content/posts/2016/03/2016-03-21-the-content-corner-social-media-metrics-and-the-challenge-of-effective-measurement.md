@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement
-date: 2016-03-21 11:18:21 -0400
+date: 2016-03-21 11:18:00
 title: 'The Content Corner: Social Media Metrics and the Challenge of Effective Measurement'
 summary: 'I’ve recently been required to focus more attention on social media from a federal agency standpoint and this has directly led to a greater consideration of content. One of my first steps was to begin sharing various forms of content and gauge the success of each type. In today’s post, I’ll share what I have'
 authors:

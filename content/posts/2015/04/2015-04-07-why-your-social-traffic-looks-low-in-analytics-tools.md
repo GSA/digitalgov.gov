@@ -1,6 +1,6 @@
 ---
 slug: why-your-social-traffic-looks-low-in-analytics-tools
-date: 2015-04-07 13:00:23 -0400
+date: 2015-04-07 13:00:00
 title: Why Your Social Traffic Looks Low in Analytics Tools
 summary: Part of my job as an analyst on the Digital Analytics Program (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I
 authors:

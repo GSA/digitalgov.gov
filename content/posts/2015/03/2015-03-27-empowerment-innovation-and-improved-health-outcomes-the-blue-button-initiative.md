@@ -1,6 +1,6 @@
 ---
 slug: empowerment-innovation-and-improved-health-outcomes-the-blue-button-initiative
-date: 2015-03-27 10:00:40 -0400
+date: 2015-03-27 10:00:00
 title: 'Empowerment, Innovation, and Improved Health Outcomes: the Blue Button Initiative'
 summary: 'Finding and getting access to our own health information can be a complex process. And most of us don’t really think about having our health information readily accessible until we really need it &ndash; like in the event of an emergency, or when switching doctors or traveling. Combing through stacks of paperwork and contacting providers'
 authors:

@@ -8,8 +8,8 @@ featured_image:
   alt: ''
 event_type: 
   - in-person
-date: 2019-04-30 8:30:00 -0500
-end_date: 2019-04-30 12:00:00 -0500
+date: 2019-04-30 8:30:00
+end_date: 2019-04-30 12:00:00
 event_organizer: DigitalGov University
 host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/an-innovative-approach-to-the-opioid-crisis-tickets-59961379099

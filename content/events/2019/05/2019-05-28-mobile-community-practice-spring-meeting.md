@@ -8,8 +8,8 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-date: 2019-05-28 09:30:00 -0500
-end_date: 2019-05-28 10:00:00 -0500
+date: 2019-05-28 09:30:00
+end_date: 2019-05-28 10:00:00
 event_organizer: DigitalGov University
 host: MobileGov
 registration_url: https://www.eventbrite.com/e/mobilegov-community-of-practice-spring-meeting-registration-62013325526

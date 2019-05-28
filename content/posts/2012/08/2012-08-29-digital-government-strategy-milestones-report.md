@@ -1,6 +1,6 @@
 ---
 slug: digital-government-strategy-milestones-report
-date: 2012-08-29 10:00:19 -0400
+date: 2012-08-29 10:00:00
 title: Digital Government Strategy Milestones Report
 summary: 'Yesterday marked three months since the release of the Digital Government Strategy and agencies have been making great strides in meeting the milestones toward building a 21st Century Government. In his blog, Building-blocks of a 21st Century Digital Government, Steve Van Roekel said: Executing on this vision of government cannot happen'
 authors:

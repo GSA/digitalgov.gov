@@ -1,6 +1,6 @@
 ---
 slug: state-of-federal-blogging-2016
-date: 2016-01-15 10:00:10 -0400
+date: 2016-01-15 10:00:00
 title: State of Federal Blogging 2016
 summary: 'How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the White House, NASA and the Department of the Interior run their blogs and share content. White House: Blog Less, Empower More When you go to WhiteHouse.gov, their blog is featured prominently'
 authors:

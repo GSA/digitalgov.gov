@@ -1,6 +1,6 @@
 ---
 slug: unleashing-data-innovation-for-action-on-climate-change
-date: 2014-06-02 10:00:30 -0400
+date: 2014-06-02 10:00:00
 title: Unleashing Data Innovation for Action on Climate Change
 summary: Last June, President Obama launched a Climate Action Plan to cut carbon pollution, prepare communities for the impacts of climate change, and lead international efforts to address this global challenge. The plan recognizes that even as we act to curb the carbon pollution that is driving climate change,
 authors:

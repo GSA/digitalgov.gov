@@ -1,6 +1,6 @@
 ---
 slug: creative-usability-test-methods-or-my-brief-career-as-a-robot-voice
-date: 2016-08-31 12:00:42 -0400
+date: 2016-08-31 12:00:00
 title: Creative Usability Test Methods—or My Brief Career as a Robot Voice
 summary: 'When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That’s just what happened to us. We’re well practiced at usability testing at USAGov&mdash;in person, remote, hallway tests, first-click tests&mdash;all of these things we manage without blinking an eye.'
 authors:

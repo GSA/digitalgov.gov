@@ -1,6 +1,6 @@
 ---
 slug: turning-government-data-into-better-public-service
-date: 2015-03-19 10:32:42 -0400
+date: 2015-03-19 10:32:00
 title: Turning Government Data into Better Public Service
 summary: Every day, millions of people use their laptops, phones, and tablets to check the status of their tax refund, get the latest forecast from the National Weather Service, book a campsite at one of our national parks, and much more. There were more than 1.3 billion visits to websites across the federal government in just
 authors:

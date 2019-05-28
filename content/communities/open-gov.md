@@ -1,7 +1,7 @@
 ---
 url: /communities/open-government/
 uid: open-government
-date: 2017-08-24 3:30:00 -0400
+date: 2017-08-24 3:30:00
 title: 'OpenGov'
 summary: 'The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.'
 weight: 2

@@ -1,6 +1,6 @@
 ---
 slug: social-media-data-deep-dive-turning-findings-into-action
-date: 2016-10-28 11:00:55 -0400
+date: 2016-10-28 11:00:00
 title: 'Social Media Data Deep Dive: Turning Findings into Action'
 summary: 'GobiernoUSA, just like USA.gov, is part of a unique effort with a large mission&mdash;to guide people to the government information and services they seek. We cover a lot of topics in Spanish via our website, social media platforms, email sends, and contact center. One of the communication channels we focus a lot of attention on'
 authors:

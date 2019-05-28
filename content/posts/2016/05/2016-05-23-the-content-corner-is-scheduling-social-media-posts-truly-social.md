@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-is-scheduling-social-media-posts-truly-social
-date: 2016-05-23 11:10:49 -0400
+date: 2016-05-23 11:10:00
 title: 'The Content Corner: Is Scheduling Social Media Posts Truly Social?'
 summary: 'Good communicators are always&hellip;well&hellip;evaluating the way they communicate. As we think of the &ldquo;customer experience,&rdquo; it is key to constantly consider your methods for engaging with your audience. Just as the platforms themselves continue to change to keep their audience, continuing to refine our ways of sending messages will assure that you don’t get left'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: the-ex-im-bank-annual-conference-a-valuable-tool-in-the-government-cx-toolbox
-date: 2015-04-20 1:53:13 -0400
+date: 2015-04-20 1:53:00
 title: 'The Ex-Im Bank Annual Conference: A Valuable Tool in the Government CX Toolbox'
 summary: 'It can be easy to forget that customer experience (CX) improvement efforts within the government sphere aren’t limited to surveys, journey maps, analytics, big data, apps, and technology. Watching Export-Import Bank’s Annual Conference come together, I’m reminded of the fundamental role that interpersonal communication plays in improving customer experience, from the front line of our'
 authors:

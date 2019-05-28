@@ -1,6 +1,6 @@
 ---
 slug: functionality-and-usability-testing-resources
-date: 2013-05-25 16:28:41 -0400
+date: 2013-05-25 16:28:00
 title: Functionality and Usability Testing Resources
 summary: Functionality testing verifies that the functions of a product or service is working as intended. Each function is tested by providing appropriate input, verifying the output and comparing the actual results with the expected results. Usability testing measures the ease of use and intuitiveness of a product or service by asking users to perform a
 authors:

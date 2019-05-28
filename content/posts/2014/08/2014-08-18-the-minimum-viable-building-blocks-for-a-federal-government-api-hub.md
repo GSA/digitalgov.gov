@@ -1,6 +1,6 @@
 ---
 slug: the-minimum-viable-building-blocks-for-a-federal-government-api-hub
-date: 2014-08-18 1:00:50 -0400
+date: 2014-08-18 1:00:00
 title: The Minimum Viable Building Blocks For a Federal Government API Hub
 summary: 'My name is Kin Lane, I am the API Evangelist, and a round two Presidential Innovation Fellow. I spend each day looking through the developer portals and hubs for API across the private sector. Recently I’ve also spent time looking at 77 federal government API developer portals and 190 APIs, and'
 authors:

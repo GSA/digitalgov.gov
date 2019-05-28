@@ -1,6 +1,6 @@
 ---
 slug: digitalgovs-2015-year-in-review
-date: 2015-12-31 11:00:26 -0400
+date: 2015-12-31 11:00:00
 title: 'DigitalGov&#8217;s 2015 Year in Review'
 summary: 'As we look ahead to 2016, we wanted to take a minute to look at our most popular content in 2015 and reflect on our second year. This was a big year for DigitalGov as we saw our session traffic nearly double and our weekly and daily email subscribers increase by 15%. DigitalGov was also'
 authors:

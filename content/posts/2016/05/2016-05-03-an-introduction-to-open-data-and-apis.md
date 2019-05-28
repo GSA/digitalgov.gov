@@ -1,6 +1,6 @@
 ---
 slug: an-introduction-to-open-data-and-apis
-date: 2016-05-03 10:00:32 -0400
+date: 2016-05-03 10:00:00
 title: An Introduction to Open Data and APIs
 summary: 'The federal workplace is abuzz these days with talk about open data and how agencies can leverage that data through APIs. According to the federal Open Data Policy, data should be managed as an information asset, and making it discoverable and usable (in other words, open). Open data &ldquo;not only strengthens our democracy and promotes efficiency'
 authors:

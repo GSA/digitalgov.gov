@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-the-challenge-of-opening-up-federal-government-algorithms
-date: 2016-02-24 10:00:39 -0400
+date: 2016-02-24 10:00:00
 title: 'The Data Briefing: The Challenge of Opening up Federal Government Algorithms'
 summary: Algorithms are becoming more important as the amount of data grows, and the complexity of government and business processes grows. Put simply, an algorithm is just a set of steps for solving a problem. If you shop online, use an online social network or a mobile app to plan your route, then you are using
 authors:

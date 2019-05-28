@@ -1,6 +1,6 @@
 ---
 slug: challenges-crowdsourcing-citizen-science-whats-the-dif
-date: 2015-12-16 11:10:18 -0400
+date: 2015-12-16 11:10:00
 title: 'Challenges, Crowdsourcing, Citizen Science: What&#8217;s the Dif?'
 summary: 'There’s more than one way to harness the wisdom of the crowd. In honor of December’s monthly theme, we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two’s company, three’s a crowd&mdash;and getting input from many is crowdsourcing. A White House'
 authors:

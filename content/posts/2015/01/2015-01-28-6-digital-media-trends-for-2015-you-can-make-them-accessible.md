@@ -1,6 +1,6 @@
 ---
 slug: 6-digital-media-trends-for-2015-you-can-make-them-accessible
-date: 2015-01-28 2:30:19 -0400
+date: 2015-01-28 2:30:00
 title: '6 Digital Media Trends for 2015: You Can Make Them Accessible!'
 summary: ' Resolutions and predictions abound this time of year. If you’ve already lost the fight to finally give up sardine ice cream, you can always resolve to maintain or improve your digital media accessibility. Some people say that accessibility and Section 508 compliance squashes'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: follow-the-clicks-a-look-at-click-through-rates-on-government-websites
-date: 2014-11-12 10:00:51 -0400
+date: 2014-11-12 10:00:00
 title: 'Follow the Clicks: A Look at Click-through Rates on Government Websites'
 summary: 'How important is it to show the most relevant result at the top of your search results page? Very. Searchers expect to find what they&#8217;re looking for quickly and easily&mdash;and without scrolling&mdash;when they search on government websites. If a Web page isn&#8217;t &ldquo;above the fold&rdquo; as one of the first listings on the first results'
 authors:

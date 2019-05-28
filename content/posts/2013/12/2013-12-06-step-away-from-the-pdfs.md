@@ -1,6 +1,6 @@
 ---
 slug: step-away-from-the-pdfs
-date: 2013-12-06 12:55:07 -0400
+date: 2013-12-06 12:55:00
 title: Step away from the PDFs!
 summary: 'Every year, one of our office’s biggest projects is to prepare the Information Sharing Environment Annual Report to the Congress. This report examines the progress of Congress’s mandate in the Intelligence Reform and Terrorism Prevention Act of 2004 to develop a better environment of terrorism-related information sharing.'
 authors:

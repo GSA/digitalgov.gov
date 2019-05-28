@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-i-for-one-welcome-our-new-chatbot-blockchain-digital-autonomous-organizations
-date: 2016-07-06 11:00:56 -0400
+date: 2016-07-06 11:00:00
 title: 'The Data Briefing: I, For One, Welcome Our New Chatbot Blockchain Digital Autonomous Organizations'
 summary: 'It is at the intersections of fields where you find the most fascinating and innovative concepts. Recently, a conference on &ldquo;Open Human Resources and the Cognitive Era&rdquo; explored the use of chatbots and blockchain technologies in human resources. Human Resources (HR) is quietly undergoing a revolution as many HR practitioners are transforming HR by using'
 authors:

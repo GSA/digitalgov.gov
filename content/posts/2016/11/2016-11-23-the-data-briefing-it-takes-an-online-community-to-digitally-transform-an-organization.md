@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-it-takes-an-online-community-to-digitally-transform-an-organization
-date: 2016-11-23 11:00:49 -0400
+date: 2016-11-23 11:00:00
 title: 'The Data Briefing: It Takes an Online Community to Digitally Transform an Organization'
 summary: 'The open source movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name &mdash; crowdsourcing. Crowdsourcing is a powerful tool and is now being used to help'
 authors:

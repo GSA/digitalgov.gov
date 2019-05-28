@@ -1,6 +1,6 @@
 ---
 slug: how-to-manage-multimedia-assets-what-peace-corps-is-doing-to-grow-its-photo-and-video-archives
-date: 2015-12-04 10:00:46 -0400
+date: 2015-12-04 10:00:00
 title: 'How to Manage Multimedia Assets: What Peace Corps Is Doing to Grow Its Photo and Video Archives'
 summary: When Alex Snyder started working at Peace Corps a few years ago, he had an opportunity to explore a new platform for housing their digital assets. As a professional photographer himself, he saw the value in focusing on visual elements and making those more accessible. He focused on making the library about photos, video and
 authors:

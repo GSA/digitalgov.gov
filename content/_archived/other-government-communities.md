@@ -1,6 +1,6 @@
 ---
 url: /communities/other-government-communities/
-date: 2016-02-08 10:40:40 -0400
+date: 2016-02-08 10:40:00
 title: Other Government Communities
 summary: 'Digital communities of practice from around the government'
 ---

@@ -1,6 +1,6 @@
 ---
 slug: tips-for-creating-great-digital-content-for-kids
-date: 2013-06-17 10:24:36 -0400
+date: 2013-06-17 10:24:00
 title: Tips for Creating Great Digital Content for Kids
 summary: 'Great websites for kids have many of the same features as websites for adults, but some key differences are worth noting when writing digital content for kids or teens. Kids have short attention spans, so it&#8217;s important to keep your site engaging, fun,'
 authors:

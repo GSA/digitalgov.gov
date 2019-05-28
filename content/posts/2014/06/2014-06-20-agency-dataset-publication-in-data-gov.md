@@ -1,6 +1,6 @@
 ---
 slug: agency-dataset-publication-in-data-gov
-date: 2014-06-20 10:00:51 -0400
+date: 2014-06-20 10:00:00
 title: Agency Dataset Publication in Data.gov
 summary: 'Not sure how to get your datasets into Data.gov? We’ve put together an overview to show you how the process works. Agencies prepare their enterprise data inventories in data.json format and post them on their websites (agency.gov/data.json), pursuant to the Open Data Policy and following the guidance and using the tools available on Project Open'
 authors:

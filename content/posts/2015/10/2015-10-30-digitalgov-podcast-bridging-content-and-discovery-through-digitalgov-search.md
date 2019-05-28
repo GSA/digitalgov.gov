@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-podcast-bridging-content-and-discovery-through-digitalgov-search
-date: 2015-10-30 1:12:28 -0400
+date: 2015-10-30 1:12:00
 title: 'DigitalGov Podcast: Bridging Content and Discovery Through DigitalGov Search'
 summary: ' You can find cute kitten photos online, but you can&#8217;t find Ben Franklin&#8217;s jetpack (well, you can search for it, but you won&#8217;t find it!). For government agencies, connecting users to information is a critical part of meeting the public&#8217;s needs and delivering excellent customer service. DigitalGov Search helps agencies deliver information to government'
 authors:

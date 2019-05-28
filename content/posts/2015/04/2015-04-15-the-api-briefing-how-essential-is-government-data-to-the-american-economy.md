@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-how-essential-is-government-data-to-the-american-economy
-date: 2015-04-15 12:54:44 -0400
+date: 2015-04-15 12:54:00
 title: 'The API Briefing: How Essential Is Government Data to the American Economy?'
 summary: I grew up when home computers were first being introduced to the general public. I bought my first computer, a Commodore 64, after spending a summer of mowing lawns and saving up my birthday and Christmas money. It was not until I entered college that I became an infopreneur. Infopreneurs are entrepreneurs who used computers
 authors:

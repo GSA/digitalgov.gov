@@ -1,6 +1,6 @@
 ---
 slug: fedramp-5th-anniversary
-date: 2017-06-13 14:10:23 -0400
+date: 2017-06-13 14:10:00
 title: FedRAMP 5th Anniversary
 summary: 'This week we’re excited to celebrate FedRAMP’s fifth birthday! The program has come a long way over the past five years, as we have been able to grow and transform the program to continue meeting our partners’ evolving needs. FedRAMP'
 authors:

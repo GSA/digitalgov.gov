@@ -1,6 +1,6 @@
 ---
 slug: embracing-responsive-design
-date: 2013-08-20 7:42:45 -0400
+date: 2013-08-20 7:42:00
 title: Embracing Responsive Design
 summary: See how a shift in consumer behavior during the last few years lead to the responsive redesign of USA.gov and GobiernoUSA.gov.
 authors:

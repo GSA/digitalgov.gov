@@ -1,6 +1,6 @@
 ---
 slug: /resources/an-introduction-us-web-design-system
-date: 2019-04-11 23:37:00 -0500
+date: 2019-04-11 23:37:00
 
 title: 'An Introduction to USWDS 2.0'
 deck: 'A design system for the federal government'

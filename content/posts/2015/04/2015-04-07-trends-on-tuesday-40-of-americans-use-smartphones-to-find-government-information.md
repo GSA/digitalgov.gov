@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information
-date: 2015-04-07 10:00:52 -0400
+date: 2015-04-07 10:00:00
 title: 'Trends on Tuesday: 40% of Smartphone Users Look up Government Information'
 summary: 'The Pew Research Center released a deep research dive into &ldquo;U.S. Smartphone Use in 2015&rdquo; that provided three big ideas and data points for government agencies to consider when planning their digital strategies. More than 2/3 of Americans have smartphones; many of those are mobile first or mobile only Internet users.'
 authors:

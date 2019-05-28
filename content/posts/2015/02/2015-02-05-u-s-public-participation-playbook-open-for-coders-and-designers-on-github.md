@@ -1,6 +1,6 @@
 ---
 slug: u-s-public-participation-playbook-open-for-coders-and-designers-on-github
-date: 2015-02-05 11:47:52 -0400
+date: 2015-02-05 11:47:00
 title: U.S. Public Participation Playbook Open for Coders and Designers on GitHub
 summary: 'We released the United States Public Participation Playbook this week, a new open resource agencies can use to evaluate and build better programs that give a voice to the people they serve&mdash;and the response was fantastic. Public servants and citizens around the world have shared it, and already are contributing new ideas that build from'
 authors:

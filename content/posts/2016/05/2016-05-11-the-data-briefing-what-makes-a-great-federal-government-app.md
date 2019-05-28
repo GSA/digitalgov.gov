@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-what-makes-a-great-federal-government-app
-date: 2016-05-11 11:00:51 -0400
+date: 2016-05-11 11:00:00
 title: 'The Data Briefing: What Makes a Great Federal Government App?'
 summary: 'USAGov recently released a list of six great federal government mobile apps. There were many apps released by the federal government over the last 5-6 years on a wide range of topics and services. Many are well-designed and useful to the American public. So, what are the outstanding federal government apps for 2016?'
 authors:

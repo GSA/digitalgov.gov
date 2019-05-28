@@ -1,6 +1,6 @@
 ---
 slug: collaborating-for-better-design-technology-user-experience
-date: 2018-08-30 12:18:00 -0500
+date: 2018-08-30 12:18:00
 title: 'Collaborating for Better Design, Technology, and User Experience'
 summary: 'Overview of initiatives across Federal government that focus on IT design, development and accessibility&#46;'
 authors:

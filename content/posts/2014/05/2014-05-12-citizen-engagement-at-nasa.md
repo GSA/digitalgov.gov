@@ -1,6 +1,6 @@
 ---
 slug: citizen-engagement-at-nasa
-date: 2014-05-12 14:37:55 -0400
+date: 2014-05-12 14:37:00
 title: Citizen Engagement at NASA
 summary: 'Recently, the White House hosted Stakeholder Engagement Workshops&mdash;an informal meet-up for citizens and federal agencies to discuss progress on Open Government. The third version of our Open Gov Plan is due June 1st. My Open Innovation teammates and I took the opportunity to attend the event. We gained valuable insights from citizen activists on what'
 authors:

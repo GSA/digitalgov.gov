@@ -1,6 +1,6 @@
 ---
 slug: nasa-space-place-prime-app
-date: 2013-08-15 9:51:48 -0400
+date: 2013-08-15 9:51:00
 title: NASA Space Place Prime App
 summary: 'In May, NASA released the Space Place Prime app for both iPhone and iPad. This app&#8217;s target audience is not only kids, but for teachers, parents, and all space enthusiasts. Based on NASA&#8217;s website, The Space Place, this app presents'
 authors:

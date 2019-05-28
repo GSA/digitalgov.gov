@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-mobile-web-audiences-abandon-sites-with-interstitial-ads
-date: 2015-08-04 11:18:12 -0400
+date: 2015-08-04 11:18:00
 title: 'Trends on Tuesday: Mobile Web Audiences Abandon Sites with Interstitial Ads'
 summary: 'David Morell, a software engineer with Google, posted an interesting case study from the tech giant, sharing data about how users interacted with interstitials (ie webpages displayed before or after an expected content page) on their website. Their analysis showed that 69% of users completely abandoned the page and their original intent after being shown an interstitial. Interstitials take many'
 authors:

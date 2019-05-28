@@ -1,6 +1,6 @@
 ---
 slug: from-taste-testers-to-explorers-developing-personas-for-open-opportunities
-date: 2014-12-08 10:00:45 -0400
+date: 2014-12-08 10:00:00
 title: 'From Taste-Testers to Explorers: Developing Personas for Open Opportunities'
 summary: 'Being customer-focused means doing the gumshoe work of research and rounds of analysis to find gold by understanding user goals. For the task-based innovation network, Open Opportunities for DigitalGov, that meant developing personas in order to overcome our own biases and learn about the different motivations of our participants. In this article, we&#8217;ll talk about'
 authors:

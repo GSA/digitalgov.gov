@@ -1,6 +1,6 @@
 ---
 slug: how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015
-date: 2015-01-29 3:19:04 -0400
+date: 2015-01-29 3:19:00
 title: How Government will Accelerate Anytime, Anywhere Services and Information in 2015
 summary: 'Innovative wearables, stronger wifi and more 3D printing have been among the many projections for the future of mobile in 2015. Whatever comes to pass, we can be certain that the anytime, anywhere user will develop new habits and desires based on new trends. Government must accelerate its customer service approach with anytime, anywhere efforts to keep up. Here’s'
 authors:

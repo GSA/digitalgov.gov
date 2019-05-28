@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-companies-use-mobile-for-brand-loyalty
-date: 2013-09-03 9:56:06 -0400
+date: 2013-09-03 9:56:00
 title: 'Trends on Tuesday: Companies Use Mobile for Brand Loyalty'
 summary: A recent survey of 100 retailers by EPiServer found that 46 percent of those with a mobile strategy in place and 74 percent of those planning to launch one soon said they are using mobile primarily to increase customer loyalty or provide a more personalized experience for
 topics:

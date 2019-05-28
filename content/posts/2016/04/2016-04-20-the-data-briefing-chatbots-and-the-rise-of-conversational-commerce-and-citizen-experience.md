@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience
-date: 2016-04-20 11:00:59 -0400
+date: 2016-04-20 11:00:00
 title: 'The Data Briefing: Chatbots and the Rise of Conversational Commerce and Citizen Experience'
 summary: 'Ten months ago, I wrote about the rise of the post-app world in which mobile personal assistants would do the work of five to 10 apps combined. These mobile personal assistants, now known as chatbots, would work through conversational interfaces (voice and instant messaging, for example). The idea is to build more natural interfaces for people'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: voices-of-veterans-introducing-personas-to-better-understand-our-customers
-date: 2016-09-29 11:00:46 -0400
+date: 2016-09-29 11:00:00
 title: 'Voices of Veterans: Introducing Personas to Better Understand Our Customers'
 summary: Understanding our Veterans and their unique needs and experiences is at the heart of creating a more Veteran-centered VA. By listening to their voices and the stories they share, we can design services and experiences that meet the needs of Veterans. Taking a step towards a deeper understanding of our Veterans, in the fall of
 authors:

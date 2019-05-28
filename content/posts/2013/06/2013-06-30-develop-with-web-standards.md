@@ -1,6 +1,6 @@
 ---
 slug: develop-with-web-standards
-date: 2013-06-30 1:23:02 -0400
+date: 2013-06-30 1:23:00
 title: Develop with Web Standards
 summary: 'What It Is Do you remember the days when web pages had banners announcing that they were &#8220;best viewed with browser X&#8221;? Veteran web developers and designers certainly do, because they had to consider numerous exceptions for certain browsers and their versions. Today, building websites isn&#8217;t as challenging and that&#8217;s because developers are moving toward'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: feds-shed-light-on-dark-social
-date: 2012-10-19 2:05:46 -0400
+date: 2012-10-19 2:05:00
 title: Feds Shed Light on Dark Social
 summary: '&#8220;Dark Social&#8221; media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant'
 authors:

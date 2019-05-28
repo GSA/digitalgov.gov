@@ -1,6 +1,6 @@
 ---
 slug: find-fuel-during-disasters-with-lantern-live-app
-date: 2014-12-04 10:00:58 -0400
+date: 2014-12-04 10:00:00
 title: Find Fuel During Disasters with Lantern Live App
 summary: 'Who to call? Where to meet? What to pack? How to find fuel? Make sure your personal disaster preparedness plan includes how to quickly find functioning gas stations in your area with help from the Department of Energy’s Lantern'
 authors:

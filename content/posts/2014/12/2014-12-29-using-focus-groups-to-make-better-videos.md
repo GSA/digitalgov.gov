@@ -1,6 +1,6 @@
 ---
 slug: using-focus-groups-to-make-better-videos
-date: 2014-12-29 11:00:11 -0400
+date: 2014-12-29 11:00:00
 title: Using Focus Groups to Make Better Videos
 summary: 'There’s what you expect your audience to think, and then there’s what your audience is actually thinking. Sometimes, these can be entirely different. But, you won’t know unless you test it. For the release of the 2014 Consumer Action Handbook (CAH), the Federal Citizen Information Center’s marketing team piloted a series of videos. The videos'
 authors:

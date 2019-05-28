@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-are-pcs-obsolete-2
-date: 2014-09-02 14:05:01 -0400
+date: 2014-09-02 14:05:00
 title: 'Trends on Tuesday: Are PCs Obsolete?'
 summary: 'We&#8217;ve seen (and experienced) a dramatic growth in mobile consumption in recent years. From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what’s happening on existing platforms, according to'
 authors:

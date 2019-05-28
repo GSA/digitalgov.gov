@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-should-you-stop-writing-and-start-podcasting
-date: 2015-09-14 10:00:35 -0400
+date: 2015-09-14 10:00:00
 title: 'The Content Corner: Should You Stop Writing and Start Podcasting?'
 summary: 'Several months or so ago, I raised the question of whether you and your agency should be podcasting. Incidentally, my post coincided with the launch of DigitalGov’s new podcast series. As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’s Serial and'
 authors:

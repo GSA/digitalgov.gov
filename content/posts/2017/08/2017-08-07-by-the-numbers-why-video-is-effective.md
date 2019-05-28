@@ -1,6 +1,6 @@
 ---
 slug: by-the-numbers-why-video-is-effective
-date: 2017-08-07 1:54:45 -0400
+date: 2017-08-07 1:54:00
 title: 'By the Numbers: Why Video Is Effective'
 summary: 'At HIV.gov, we’re often asked if videos are effective tools for communicating HIV prevention and treatment information. Our experience, the work of our partners, and current research continue to support the use of video for informing and empowering individuals.'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: a-february-focus-on-content-on-digitalgov
-date: 2015-02-12 10:28:00 -0400
+date: 2015-02-12 10:28:00
 title: A February Focus on Content on DigitalGov
 summary: 'Good content drives your digital presence. No matter what you produce content for&mdash;social media, websites, blogs&mdash;getting people to see your work is critical. But getting noticed is not as easy as it used to be. A recent Vox article on the future of blogging talked about this problem: &ldquo;The incentives of the social Web make'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: connected-government-act
-date: 2018-06-25 9:00:00 -0400
+date: 2018-06-25 9:00:00
 title: 'Connected Government Act'
 summary: 'Resources to help your agency comply with the Connected Government Act.'
 type: guide

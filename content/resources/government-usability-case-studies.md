@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-user-experience-resources/government-usability-case-studies
-date: 2014-01-16 10:24:24 -0400
+date: 2014-01-16 10:24:00
 title: Government Usability Case Studies
 summary: "This list of government usability case studies shows how government sites, mobile apps and other products become more effective, more coherent and more usable by focusing on the User Experience of their customers. Want to be featured here? Just email us. National Cancer Institute Persona"
 topics:

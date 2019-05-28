@@ -1,6 +1,6 @@
 ---
 slug: tag-management-a-digital-analysts-best-friend
-date: 2016-03-31 10:00:14 -0400
+date: 2016-03-31 10:00:00
 title: 'Tag Management: A Digital Analyst&#8217;s Best Friend'
 summary: 'Tag managers can assist in collecting valuable data about visits to your website. Here at CFPB, we use Google Tag Manager (GTM), which is a free tool that works in tandem with Google Analytics to record and send data on how users interact with your website on an aggregate level, including which pages they view, where they'
 authors:

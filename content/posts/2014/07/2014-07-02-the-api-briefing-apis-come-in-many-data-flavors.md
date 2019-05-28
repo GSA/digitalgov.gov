@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-apis-come-in-many-data-flavors
-date: 2014-07-02 10:00:44 -0400
+date: 2014-07-02 10:00:00
 title: 'The API Briefing: APIs Come In Many (Data) Flavors'
 summary: This week, we will look at three different APIs that demonstrate how agencies use different technologies to serve out data. Presenting data in various formats encourages developers to build on federal APIs. As past columns have shown, the innovative apps created with federal data are quickly growing. The latest API news this week is how
 authors:

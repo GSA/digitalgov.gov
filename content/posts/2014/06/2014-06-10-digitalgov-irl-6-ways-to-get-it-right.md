@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-irl-6-ways-to-get-it-right
-date: 2014-06-10 8:14:55 -0400
+date: 2014-06-10 8:14:00
 title: 'DigitalGov IRL: 6 Ways To Get It Right'
 summary: 'This morning I was walking down 18th Street, crossing Pennsylvania Avenue by the World Bank when I heard what sounded like &#8220;a test from the'
 authors:

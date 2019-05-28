@@ -1,6 +1,6 @@
 ---
 slug: customize-your-own-amazing-social-media-report-infographic
-date: 2014-03-14 12:00:32 -0400
+date: 2014-03-14 12:00:00
 title: Customize Your Own Amazing Social Media Report Infographic
 summary: Social Media Community of Practice developed a set of baseline social media metrics to help you assess whether your efforts are achieving the results you want. How do
 authors:

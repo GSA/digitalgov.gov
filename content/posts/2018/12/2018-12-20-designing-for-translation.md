@@ -1,6 +1,6 @@
 ---
 slug: designing-for-translation
-date: 2018-12-20 10:02:00 -0500
+date: 2018-12-20 10:02:00
 title: 'Designing for Translation'
 summary: 'Learn simple planning steps to successfully translate content into multiple languages&#46;'
 deck: 'Simple planning steps to successfully adapt content into multiple languages'

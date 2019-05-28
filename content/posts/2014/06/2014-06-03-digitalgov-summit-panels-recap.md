@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-summit-panels-recap
-date: 2014-06-03 14:35:10 -0400
+date: 2014-06-03 14:35:00
 title: Turning Data Into Action—DigitalGov Summit Recap
 summary: At the DigitalGov Citizen Services Summit last Friday, more than 200 innovators across government and industry came together to share how digital services can improve citizen services and reduce cost. Four panels convened to share information on performance analysis, customer service across channels, public private partnerships and inter-agency work. We have a recap of the
 authors:

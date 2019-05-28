@@ -1,6 +1,6 @@
 ---
 slug: getting-serious-about-good-writing-eias-write-right-curriculum
-date: 2015-12-11 11:10:22 -0400
+date: 2015-12-11 11:10:00
 title: Getting Serious About Good Writing—EIA’s Write Right Curriculum
 summary: 'Let’s see&ndash;you want to improve the skills of your agency’s writers. Here’s a to-do list: Enlist a high-level champion, ideally your agency head, to make statements saying writing skills are critical&mdash;check. Create a Writing Style Guide&mdash;check. Hold classes to introduce the Style Guide&mdash;check. Expand internal editing resources&mdash;check. But what’s next? If you really want to'
 authors:

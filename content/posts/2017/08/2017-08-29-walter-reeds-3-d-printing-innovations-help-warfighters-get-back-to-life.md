@@ -1,6 +1,6 @@
 ---
 slug: walter-reeds-3-d-printing-innovations-help-warfighters-get-back-to-life
-date: 2017-08-29 10:02:21 -0400
+date: 2017-08-29 10:02:00
 title: 'Walter Reed&#8217;s 3-D Printing Innovations Help Warfighters Get Back to Life'
 summary: This is part of an ongoing series highlighting the innovations and research happening at Walter Reed National Military Medical Center in Bethesda, Maryland. Wounded warriors who dream of returning to playing hockey, climbing mountains or simply brushing their teeth with ease can look to 3-D printing innovations at Walter Reed National Military Medical Center to
 featured_image:

@@ -5,8 +5,8 @@ summary: 'Come learn how to create a simple, compliant government website, using
 event_type:
   - youtube-live
   - in-person
-date: 2017-12-12 09:00:00 -0400
-end_date: 2017-12-12 12:00:00 -0400
+date: 2017-12-12 09:00:00
+end_date: 2017-12-12 12:00:00
 event_organizer: Federalist
 host: Will Slack
 registration_url: https://www.eventbrite.com/e/workshop-making-government-websites-with-federalist-github-basics-registration-39457265744

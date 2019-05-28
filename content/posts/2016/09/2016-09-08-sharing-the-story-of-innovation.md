@@ -1,6 +1,6 @@
 ---
 slug: sharing-the-story-of-innovation
-date: 2016-09-08 11:00:55 -0400
+date: 2016-09-08 11:00:00
 title: Sharing The Story of Innovation
 summary: Our goal for a more veteran-centered and innovative VA is shared. Our approach to innovation is collaborative. Our approach to innovation is driven by listening, understanding and responding to the experiences and stories of the Veterans we serve. We were huddled on squeaky chairs in the social room of a transitional housing facility in Los
 authors:

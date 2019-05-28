@@ -1,6 +1,6 @@
 ---
 slug: best-week-in-socialgov-ever-week-1
-date: 2013-09-18 10:39:52 -0400
+date: 2013-09-18 10:39:00
 title: 'Best Week in SocialGov Ever: 1'
 summary: (This is the first installment of an ongoing series charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.) From where I sit, I think we
 authors:

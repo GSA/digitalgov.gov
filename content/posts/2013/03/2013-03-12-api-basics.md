@@ -1,6 +1,6 @@
 ---
 slug: api-basics
-date: 2013-03-12 12:24:59 -0400
+date: 2013-03-12 12:24:00
 title: API Basics
 summary: 'Common Technical Choices Protocol API protocol is the set of rules that govern how an API functions. The protocol outlines the structure and definitions of the API. The two common forms are REST and SOAP. REST is the dominant choice for API protocol because it uses the http protocol that powers the Web. REST supports more'
 authors:

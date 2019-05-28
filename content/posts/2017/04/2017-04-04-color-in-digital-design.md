@@ -1,6 +1,6 @@
 ---
 slug: color-in-digital-design
-date: 2017-04-04 11:00:46 -0400
+date: 2017-04-04 11:00:00
 title: Color in Digital Design
 summary: 'How do we choose color in digital design? In print, we have the Pantone fan and what you see is what you get &mdash; as long as your printer is color calibrated. With computer monitors, one does not get such precision, even within one office. So how much time and effort do you spend on color selection?'
 authors:

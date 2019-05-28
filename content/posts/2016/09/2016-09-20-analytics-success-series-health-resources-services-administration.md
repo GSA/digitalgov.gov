@@ -1,6 +1,6 @@
 ---
 slug: analytics-success-series-health-resources-services-administration
-date: 2016-09-20 2:00:17 -0400
+date: 2016-09-20 2:00:00
 title: 'Analytics Success Series: Health Resources & Services Administration'
 summary: 'Health Resources and Services Administration’s Analytics Success: Using Analytics to Reduce Content and Improve User Experience  Unlike out-of-town guests, you want your web visitors to stick around. So, if your site continues to see a bounce rate that stubbornly refuses to drop&mdash;it’s time to make some changes. That’s exactly what happened to the Health Resources'
 authors:

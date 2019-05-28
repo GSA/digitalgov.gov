@@ -1,6 +1,6 @@
 ---
 slug: how-to-run-an-agile-project-in-government
-date: 2015-01-16 11:10:59 -0400
+date: 2015-01-16 11:10:00
 title: How to Run an Agile Project in Government
 summary: 'For a seminar organized by DigitalGov University, Robert Read, the Managing Director at 18F, gave a presentation on agile methodologies in the federal government. Risk mitigation is a big advantage of using the agile methodology. The methodology deals with risk through the use of multiple iterations or &#8220;sprints&#8221; that ultimately lead to the development of'
 authors:

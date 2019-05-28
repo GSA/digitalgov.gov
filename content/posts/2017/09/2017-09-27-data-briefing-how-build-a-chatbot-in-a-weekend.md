@@ -1,6 +1,6 @@
 ---
 slug: data-briefing-how-build-a-chatbot-in-a-weekend
-date: 2017-09-27 15:40:00 -0400
+date: 2017-09-27 15:40:00
 title: 'The Data Briefing: How to Build a Chatbot in a Weekend'
 summary: 'As chatbots have become more popular, some online sites will let you create a chatbot with little or no programming.'
 authors:

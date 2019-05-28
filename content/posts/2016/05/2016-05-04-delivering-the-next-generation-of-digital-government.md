@@ -1,6 +1,6 @@
 ---
 slug: delivering-the-next-generation-of-digital-government
-date: 2016-05-04 11:10:23 -0400
+date: 2016-05-04 11:10:00
 title: Delivering the Next Generation of Digital Government
 summary: We are in an era of digital transformation across many different industries, including government. Those organizations that have successfully led in this area or have fully transformed into digital organizations are succeeding at a faster pace than those who have not. The imperative for the federal government to provide effective digital service is clear. The
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: recapping-content-marketing-trends-in-2016-how-have-we-stacked-up
-date: 2016-09-26 14:00:24 -0400
+date: 2016-09-26 14:00:00
 title: 'The Content Corner: Recapping Content Marketing Trends in 2016—How Have We Stacked Up?'
 summary: 'Earlier this year, it was predicted that content marketing would become even more important due to its ability to enhance not just visibility, but also increase engagement with customers&mdash;who could, in turn, become great promoters of your content. Needless to say, much of our time these days as communicators is spent on developing, distributing, maximizing, and'
 authors:

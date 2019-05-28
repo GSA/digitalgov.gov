@@ -1,6 +1,6 @@
 ---
 slug: working-in-public-from-day-1
-date: 2014-08-04 10:00:38 -0400
+date: 2014-08-04 10:00:00
 title: Working In Public From Day 1
 summary: 'In the wide world of software, maybe you’ve heard someone say this, or maybe you’ve said it yourself: &#8220;I’ll open source it after I clean up the code; it’s a mess right now.&#8221; Or: &#8220;I think there are some passwords in there; I’ll get around to cleaning it out at some point.&#8221; Or simply: &#8220;No'
 authors:

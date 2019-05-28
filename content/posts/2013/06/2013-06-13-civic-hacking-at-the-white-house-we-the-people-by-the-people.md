@@ -1,6 +1,6 @@
 ---
 slug: civic-hacking-at-the-white-house-we-the-people-by-the-people
-date: 2013-06-13 10:16:48 -0400
+date: 2013-06-13 10:16:00
 title: 'Civic Hacking at the White House: We the People, By the People'
 summary: 'On June 1st and 2nd, more than 11,000 civic activists, technology experts, and entrepreneurs around the country came together for the National Day of Civic Hacking. Civic activists, technology experts, and entrepreneurs in 83 cities developed software to help others in their own neighborhoods and across the country.'
 authors:

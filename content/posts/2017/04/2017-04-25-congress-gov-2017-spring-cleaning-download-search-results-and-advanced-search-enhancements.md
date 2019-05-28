@@ -1,6 +1,6 @@
 ---
 slug: congress-gov-2017-spring-cleaning-download-search-results-and-advanced-search-enhancements
-date: 2017-04-25 14:19:20 -0400
+date: 2017-04-25 14:19:00
 title: 'Congress.gov 2017 Spring Cleaning: Download Search Results and Advanced Search Enhancements'
 summary: 'Spring is a beautiful time of year in Washington, D.C. The temperature warms up; the cherry blossoms are out; and we frequently have an update of Congress.gov to share. In 2015 we added treaties and web-friendly bill text, and in 2016 we expanded the quick search feature. Today there is another round of enhancements to the Library of Congress website for'
 authors:

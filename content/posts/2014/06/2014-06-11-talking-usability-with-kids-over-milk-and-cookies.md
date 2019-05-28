@@ -1,6 +1,6 @@
 ---
 slug: talking-usability-with-kids-over-milk-and-cookies
-date: 2014-06-11 10:00:51 -0400
+date: 2014-06-11 10:00:00
 title: Talking Usability with Kids over Milk and Cookies
 summary: 'The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending &ldquo;Take Your Daughters and Sons to Work Day&rdquo;? We took advantage of this event held on April 24, 2014, at'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: create-section-508-compliant-videos-on-your-government-websites
-date: 2013-11-21 8:47:00 -0400
+date: 2013-11-21 8:47:00
 title: Create Section 508-Compliant Videos on Your Government Websites
 summary: It is undeniable the reach of online video into our modern lives. From cats in shark costumes riding on Roombas to the 2.1 million people live streaming the 2012 Super Bowl. Online video inspires us with TED talks and allows us to feel the rush of Felix Baumgartner jumping from space. With online video so
 authors:

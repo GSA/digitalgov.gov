@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type: 
   - youtube-live
-date: 2018-07-17 15:00:00 -0500
-end_date: 2018-07-17 16:00:00 -0500
+date: 2018-07-17 15:00:00
+end_date: 2018-07-17 16:00:00
 event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/fedramp-boundary-guidance-response-to-industry-comment-registration-47678739393

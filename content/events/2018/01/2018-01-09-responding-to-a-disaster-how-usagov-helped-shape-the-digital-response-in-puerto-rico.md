@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - youtube-live
-date: 2018-01-09 12:00:00 -0400
-end_date: 2018-01-09 12:30:00 -0400
+date: 2018-01-09 12:00:00
+end_date: 2018-01-09 12:30:00
 event_organizer: DigitalGov University
 host:
 registration_url: https://www.eventbrite.com/e/usagov-supports-femas-digital-response-in-puerto-rico-registration-41706772078

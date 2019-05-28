@@ -1,6 +1,6 @@
 ---
 slug: using-personas-to-better-understand-customers-usa-gov-case-study
-date: 2015-04-06 11:49:07 -0400
+date: 2015-04-06 11:49:00
 title: 'Using Personas to Better Understand Customers: USA.gov Case Study'
 summary: 'Personas are fictional characters that describe an organization’s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s actions meet the needs of the majority of customers, including visitors to your website, contact'
 authors:

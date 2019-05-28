@@ -1,6 +1,6 @@
 ---
 slug: accessibility-is-not-scary-2
-date: 2015-02-20 10:00:33 -0400
+date: 2015-02-20 10:00:00
 title: Accessibility Is (Not) Scary
 summary: The word accessibility breeds misconceptions. Why? Because accessibility is something that scares you. Accessibility is hard. Accessibility needs people with specialized expertise. Accessibility problems often depend on the context of the website or Web application in question. Accessibility takes time. Accessibility is a legal mandate. Accessibility is a moral obligation. These statements are both true
 authors:

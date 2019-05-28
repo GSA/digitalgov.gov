@@ -1,6 +1,6 @@
 ---
 slug: analyzing-search-data-in-real-time-to-drive-decisions
-date: 2014-05-07 13:00:27 -0400
+date: 2014-05-07 13:00:00
 title: Analyzing Search Data in Real-Time to Drive Decisions
 summary: 'DigitalGov Search recently rolled out a new open source technology stack, which gives the team access to real-time analytics and dashboards to monitor search trends.'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: storyboard-a-tool-for-a-successful-video
-date: 2014-04-11 10:00:19 -0400
+date: 2014-04-11 10:00:00
 title: 'Storyboard: A Tool for a Successful Video'
 summary: 'The script is king when it comes to creating a video. Once you have the words, it’s the pictures that will tell the story. Storyboards are a key component in video production. They serve as a guide during the production process, allowing the video producer to determine how the use of footage, sound bites, audio'
 authors:

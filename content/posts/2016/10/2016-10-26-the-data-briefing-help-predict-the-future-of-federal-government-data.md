@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-help-predict-the-future-of-federal-government-data
-date: 2016-10-26 13:00:55 -0400
+date: 2016-10-26 13:00:00
 title: 'The Data Briefing: Help Predict the Future of Federal Government Data'
 summary: 'In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber'
 authors:

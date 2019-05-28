@@ -1,6 +1,6 @@
 ---
 slug: government-launches-login-gov-to-simplify-access-to-public-services
-date: 2017-08-28 9:04:54 -0400
+date: 2017-08-28 9:04:00
 title: Government Launches Login.Gov to Simplify Access to Public Services
 summary: 'Joel Minton, a member of the U.S. Digital Service, is working with GSA’s Technology Transformation Service as the director of login.gov. Tom Mills is the Chief Technology Architect at U.S. Customs and Border Protection. In early April, the U.S. Digital Service and 18F launched login.gov, a single sign-on solution for government websites that will enable'
 featured_image:

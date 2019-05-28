@@ -1,6 +1,6 @@
 ---
 slug: let-us-share-your-events
-date: 2015-02-03 11:08:59 -0400
+date: 2015-02-03 11:08:00
 title: Let Us Share Your Events
 summary: 'You may have seen this icon on our calendar recently. This icon indicates a digitalgov &#8220;friend event.&#8221; What&#8217;s a Friend Event Does your agency offer training or events to help improve digital services? Are they free? Are they open to other federal government agencies? If you answered YES to all three questions then you have a friend'
 authors:

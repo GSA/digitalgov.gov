@@ -1,6 +1,6 @@
 ---
 url: /digitalgov-university/video-library/
-date: 2014-01-24 9:57:35 -0400
+date: 2014-01-24 9:57:00
 title: Video Library
 summary: Enjoy our most recently recorded events below or take a look at our YouTube channel to view all of our recorded events. View All Videos
 

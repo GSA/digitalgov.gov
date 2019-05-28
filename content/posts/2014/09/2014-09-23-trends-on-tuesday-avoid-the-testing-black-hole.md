@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-avoid-the-testing-black-hole
-date: 2014-09-23 10:00:42 -0400
+date: 2014-09-23 10:00:00
 title: 'Trends on Tuesday: Avoid the Testing Black Hole'
 summary: ' Remember the Golden Age of Web development? A time long ago when there were only five desktop browsers to support, a few different screen sizes and every user connected via broadband? Well, those days are over. With the advent of mobile Web'
 authors:

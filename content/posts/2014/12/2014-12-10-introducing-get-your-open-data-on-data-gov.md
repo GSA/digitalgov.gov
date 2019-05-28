@@ -1,6 +1,6 @@
 ---
 slug: introducing-get-your-open-data-on-data-gov
-date: 2014-12-10 2:57:55 -0400
+date: 2014-12-10 2:57:00
 title: Introducing “Get Your Open Data on Data.gov”
 summary: Data.gov is the central clearinghouse for open data from the United States federal government. It also provides access to many local government and non-federal open data resources. But how does this data get on to Data.gov? Data.gov does not host data directly, but rather aggregates metadata about
 authors:

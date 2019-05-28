@@ -1,6 +1,6 @@
 ---
 slug: omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15
-date: 2015-12-03 1:34:16 -0400
+date: 2015-12-03 1:34:00
 title: OMB Final Guidance on Implementing the Plain Writing Act of 2010 (M 11-15)
 summary: "In the January 2009 Memo on Transparency and Open Government, President Obama emphasized the importance of establishing &ldquo;a system of transparency, public participation, and collaboration.&rdquo; Plain writing is indispensable to achieving these goals. The Plain Writing Act of 2010 (the Act) (Public Law 111-274), which the President signed into law on October 13, 2010, calls for"
 topics:

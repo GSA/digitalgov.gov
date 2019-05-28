@@ -12,8 +12,8 @@ topics:
   - code
   - design
   - uswds
-date: 2018-08-24 13:00:00 -0500
-end_date: 2018-08-24 13:30:00 -0500
+date: 2018-08-24 13:00:00
+end_date: 2018-08-24 13:30:00
 event_organizer: digital.gov
 host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/august-us-web-design-system-monthly-call-getting-started-with-uswds-20-tickets-47179708779

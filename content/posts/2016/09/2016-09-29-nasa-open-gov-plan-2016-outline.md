@@ -1,6 +1,6 @@
 ---
 slug: nasa-open-gov-plan-2016-outline
-date: 2016-09-29 2:00:50 -0400
+date: 2016-09-29 2:00:00
 title: 'NASA: Open Gov Plan 2016 Outline'
 summary: 'Here is the outline for our 2016 Open Government Plan. Let us know what you think. We&#8217;ve also posted this on GitHub/NASA for your comments: https://github.com/nasa/Open-Gov-Plan-v4. NASA and Open Government NASA is an open government agency based on the founding legislation in the National Aeronautics and Space Act of 1958, which calls for participation and sharing'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: crowdhall-tint-now-available-for-federal-use
-date: 2014-02-05 16:59:18 -0400
+date: 2014-02-05 16:59:00
 title: Crowdhall, Tint Now Available for Federal Use
 summary: 'It’s been a busy few months negotiating Terms of Service on behalf of the federal government, and we’re happy to announce CrowdHall and Tint are now available and that the Tumblr agreement has been updated for the first time in almost 2 years.CrowdHall logo'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: /resources/how-track-performance
-date: 2019-04-10 18:04:00 -0500
+date: 2019-04-10 18:04:00
 
 title: 'How to track performance'
 deck: 'A step-by-step guide to picking metrics and tools for tracking performance on your siteundefined'

@@ -1,6 +1,6 @@
 ---
 slug: using-visual-content-to-drive-engagement
-date: 2014-06-23 10:00:41 -0400
+date: 2014-06-23 10:00:00
 title: Using Visual Content to Drive Engagement
 summary: 'You’ve probably noticed the trend toward more visual content being shared across social platforms&mdash;pictures, infographics and how-to videos seem to be popping up everywhere. We certainly noticed that trend across several government social media properties, so when'
 authors:

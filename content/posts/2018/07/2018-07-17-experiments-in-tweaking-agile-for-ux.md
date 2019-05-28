@@ -1,6 +1,6 @@
 ---
 slug: experiments-in-tweaking-agile-for-ux
-date: 2018-07-17 09:00:00 -0500
+date: 2018-07-17 09:00:00
 title: 'Experiments in Tweaking Agile for UX'
 summary: 'Designers at the Federal Reserve Board share how they adjusted the agile process to work better for their team&#46;'
 authors:

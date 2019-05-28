@@ -1,6 +1,6 @@
 ---
 slug: to-the-brink-jfk-and-the-cuban-missile-crisis-exhibit-app
-date: 2013-07-11 9:04:11 -0400
+date: 2013-07-11 9:04:00
 title: 'To the Brink: JFK and the Cuban Missile Crisis Exhibit App'
 summary: 'The 2013 JFK Library and Museum exhibit &ldquo;To the Brink: JFK and the Cuban Missile Crisis&rdquo; now has a virtual partner on the iPad.  Anytime, anywhere, people will be able'
 authors:

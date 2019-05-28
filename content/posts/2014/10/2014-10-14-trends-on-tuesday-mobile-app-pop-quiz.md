@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-mobile-app-pop-quiz
-date: 2014-10-14 13:56:57 -0400
+date: 2014-10-14 13:56:00
 title: 'Trends on Tuesday: Mobile App Pop Quiz'
 summary: 'It’s time for a mobile pop quiz. How well do you know consumers and the time they spend on mobile apps? ComScore recently released the U.S. Mobile App Report which sheds light on how Americans use mobile apps. Test your knowledge with the five questions'
 authors:

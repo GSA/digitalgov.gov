@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-user-experience-resources/digitalgov-user-experience-program-results-and-case-studies
-date: 2014-01-16 11:01:12 -0400
+date: 2014-01-16 11:01:00
 title: 'Fueleconomy.gov &#8211; Extended Case Study'
 summary: "Like any valid business decision, User Experience work should produce results and demonstrable impact. To see a list of screenshots from websites we&#8217;ve improved, visit the rest of our Usability Case Studies. Or see a more complete case study below. Case Study: Fueleconomy.gov Mobile Site In December of 2012"
 topics:

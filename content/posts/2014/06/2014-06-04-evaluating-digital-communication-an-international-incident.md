@@ -1,6 +1,6 @@
 ---
 slug: evaluating-digital-communication-an-international-incident
-date: 2014-06-04 10:00:28 -0400
+date: 2014-06-04 10:00:00
 title: 'Evaluating Digital Communication: An International Incident'
 summary: 'Are you measuring Twitter followers and press release downloads without any clue as to what people are doing with your agency’s products and information? Or do you not even know what to measure, never mind whether that measurement would be meaningful? Fear not, fair government communicator&mdash;there is hope! On May 15, top government communication measurement'
 authors:

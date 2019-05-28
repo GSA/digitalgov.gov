@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type:
   - online
-date: 2019-04-01 12:00:00 -0500
-end_date: 2019-04-01 13:00:00 -0500
+date: 2019-04-01 12:00:00
+end_date: 2019-04-01 13:00:00
 event_organizer: DigitalGov University
 host: Agency for Healthcare Research and Quality (AHRQ)
 registration_url: http://cma.ahrq.gov/AprilWebinar

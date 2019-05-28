@@ -1,6 +1,6 @@
 ---
 slug: the-peoples-code
-date: 2016-08-09 1:00:47 -0400
+date: 2016-08-09 1:00:00
 title: 'The People&#8217;s Code'
 summary: 'Summary: Today, we’re releasing the Federal Source Code policy to support improved access to custom software code developed by or for the Federal Government. &#8220;If we can reconceive of our government so that the interactions and the interplay between private sector, nonprofits, and government are opened up, and we use technology, data, social media in order'
 authors:

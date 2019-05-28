@@ -1,6 +1,6 @@
 ---
 slug: developer-kit
-date: 2013-05-21 13:05:45 -0400
+date: 2013-05-21 13:05:00
 title: /Developer Kit
 summary: These are the elements that make up a well-rounded developer hub. Homepage The API efforts of any agency should all be accessible via one easy to reach developers hub. This Web page should provide a path to all public APIs and any associated resources. Once an agency has begun to publish multiple APIs, certain resources
 authors:

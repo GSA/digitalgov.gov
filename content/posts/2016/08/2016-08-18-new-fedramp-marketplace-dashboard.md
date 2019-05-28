@@ -1,6 +1,6 @@
 ---
 slug: new-fedramp-marketplace-dashboard
-date: 2016-08-18 12:00:22 -0400
+date: 2016-08-18 12:00:00
 title: New FedRAMP Marketplace Dashboard
 summary: 'We’re incredibly excited to announce the launch of the new FedRAMP Marketplace dashboard! It’s loaded with all sorts of ways for you to see how everyone is participating with FedRAMP! When we launched the FedRAMP Marketplace about 3 years ago, our intent was to'
 authors:

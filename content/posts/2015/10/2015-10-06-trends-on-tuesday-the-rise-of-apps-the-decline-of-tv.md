@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-the-rise-of-apps-the-decline-of-tv
-date: 2015-10-06 10:00:24 -0400
+date: 2015-10-06 10:00:00
 title: 'Trends on Tuesday: The Rise of Apps, The Decline of TV'
 summary: 'Move over, 60 inch widescreens&mdash;for the first time ever, U.S. consumers are spending more time in mobile apps than on TV. An article from Flurry Insights, the blog for Yahoo’s mobile analytics service, covered the recent viewing trends. Apps are now the top media channel in the United States: on average, people spend 198 minutes on'
 authors:

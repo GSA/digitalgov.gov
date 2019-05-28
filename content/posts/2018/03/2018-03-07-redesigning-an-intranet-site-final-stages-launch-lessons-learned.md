@@ -1,6 +1,6 @@
 ---
 slug: redesigning-an-intranet-site-final-stages-launch-lessons-learned
-date: 2018-03-07 12:00:00 -0500
+date: 2018-03-07 12:00:00
 title: 'Redesigning an Intranet Site&#58; Final Stages, Launch, and Lessons Learned'
 summary: 'Helpful lessons from the National Center for Complementary and Integrative Health (NCCIH) on the redesign of an intranet.'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: 18f-methods
-date: 2019-04-02 17:25:00 -0500
+date: 2019-04-02 17:25:00
 
 title: '18F Methods'
 deck: 'A collection of tools that describe how teams can put human-centered design into practice.'

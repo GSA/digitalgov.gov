@@ -1,6 +1,6 @@
 ---
 slug: new-kid-in-town-the-customer-experience-community
-date: 2015-07-31 10:00:20 -0400
+date: 2015-07-31 10:00:00
 title: 'New Kid in Town: The Customer Experience Community'
 summary: Cross-Agency Priority (CAP) Goals prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government. To build on the momentum of this goal, the government Customer Experience Community of Practice (CX-COP)
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: cyber-house-of-horrors
-date: 2014-10-30 4:29:46 -0400
+date: 2014-10-30 4:29:00
 title: Beware the Cyber Security House of Horrors!
 summary: 'Ghosts. Ghouls. Zombies. Multi-stakeholder content audits. This Halloween there is no shortage of terrors lurking to keep federal Web managers up all night, and our work is largely done in one of the scariest domains of all: cyberspace. Every moment of every day, a vast system of computers and networks are actively working to support'
 authors:

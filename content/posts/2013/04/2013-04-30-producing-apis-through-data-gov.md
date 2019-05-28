@@ -1,6 +1,6 @@
 ---
 slug: producing-apis-through-data-gov
-date: 2013-04-30 1:07:53 -0400
+date: 2013-04-30 1:07:00
 title: Producing APIs through Data.gov
 summary: 'One way agencies can offer APIs for their data is to use the built&ndash;in functionality of Data.gov. The information that is hosted as interactive datasets have an API layer which agencies can make available through documentation in the developer&#8217;s section of the agency&#8217;s website. The guide below will help you do this. Process Upload a dataset'
 authors:

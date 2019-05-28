@@ -1,6 +1,6 @@
 ---
 slug: live-streamed-demos-for-exponential-transparency-and-information-sharing
-date: 2016-08-09 10:00:36 -0400
+date: 2016-08-09 10:00:00
 title: Live Streamed Demos for Exponential Transparency and Information Sharing
 summary: 'This spring, the eRegulations Notice & Comment team began building out a new feature set for the platform &mdash; adding the ability for agencies with proposed regulations to show the public more precisely the changes being proposed and allow agencies to receive more granular, contextual, and better-organized comments.'
 authors:

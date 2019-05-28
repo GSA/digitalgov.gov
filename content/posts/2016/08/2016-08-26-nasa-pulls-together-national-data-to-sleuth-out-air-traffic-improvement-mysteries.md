@@ -1,6 +1,6 @@
 ---
 slug: nasa-pulls-together-national-data-to-sleuth-out-air-traffic-improvement-mysteries
-date: 2016-08-26 12:00:04 -0400
+date: 2016-08-26 12:00:00
 title: NASA Pulls Together National Data to Sleuth Out Air Traffic Improvement Mysteries
 summary: 'For the first time ever, air traffic researchers can view and analyze archived flight data collected and merged from all air traffic facilities across the U.S., with fast update rates ranging from one second to 12 seconds for every flight’s position. Previously, researchers only had access to national flight data that was similar to internet'
 authors:

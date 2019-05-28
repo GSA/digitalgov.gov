@@ -1,6 +1,6 @@
 ---
 slug: fedramp-weekly-tips-cues-november-9-2016
-date: 2016-11-10 10:00:51 -0400
+date: 2016-11-10 10:00:00
 title: 'FedRAMP Weekly Tips & Cues – November 9, 2016'
 summary: 'Many of  our cloud service providers (CSPs), federal agencies, and third party assessment organizations (3PAOs) often share common issues and questions when going through the FedRAMP process. To help guide our stakeholders, we will be providing weekly tips and address frequently asked questions and concerns. Email us potential tips and questions that you would like published'
 authors:

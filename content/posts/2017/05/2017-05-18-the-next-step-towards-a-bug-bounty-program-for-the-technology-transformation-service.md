@@ -1,6 +1,6 @@
 ---
 slug: the-next-step-towards-a-bug-bounty-program-for-the-technology-transformation-service
-date: 2017-05-18 2:00:07 -0400
+date: 2017-05-18 2:00:00
 title: The Next Step Towards a Bug Bounty Program for the Technology Transformation Service
 summary: 'We took a big step toward creating a bug bounty program for our agency by issuing an award to HackerOne for a Software-as-a-Service bug-reporting platform.'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-a-world-without-web-pages
-date: 2015-03-16 11:10:48 -0400
+date: 2015-03-16 11:10:00
 title: 'The Content Corner: A World Without Web Pages'
 summary: Imagine a world without Web pages, only intelligent, self-assembling chunks of content waiting to respond to your needs. The page is irrelevant, there may be no context beyond what is included in your content. The content has to survive on its own, perform its goals on its own. Originally when creating content, you would take
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: why-congressedits-matters-for-your-agency
-date: 2014-07-30 10:00:23 -0400
+date: 2014-07-30 10:00:00
 title: Why @congressedits Matters for Your Agency
 summary: 'If you haven&#8217;t heard about @congressedits yet, it&#8217;s a Twitter bot that was recently created to tweet out every anonymous edit made to Wikipedia from Congressional IP addresses. So, anyone editing articles on Wikipedia without logging in, and doing this while on Congressional Internet access, will have those changes tweeted (like this). Some of these'
 authors:

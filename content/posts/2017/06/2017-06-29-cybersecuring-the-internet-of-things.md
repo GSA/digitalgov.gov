@@ -1,6 +1,6 @@
 ---
 slug: cybersecuring-the-internet-of-things
-date: 2017-06-29 2:00:47 -0400
+date: 2017-06-29 2:00:00
 title: '&#8216;Cybersecuring&#8217; the Internet of Things'
 slug: 'cybersecuring-the-internet-of-things'
 summary: I recently had the chance to talk with the legendary Vint Cerf, one of the founding fathers of the internet. We had a wide-ranging discussion about the past, present and future of the internet, network security and what it would take to successfully, safely and reliably merge the digital and physical worlds, a concept known

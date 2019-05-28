@@ -1,6 +1,6 @@
 ---
 slug: user-experience-ux-vs-customer-experience-cx-whats-the-dif
-date: 2014-07-07 10:00:02 -0400
+date: 2014-07-07 10:00:00
 title: 'User Experience (UX) vs. Customer Experience (CX): What&#8217;s the Dif?'
 summary: '&ldquo;User Experience&rdquo; and &ldquo;Customer Experience.&rdquo; They sound pretty similar, right? Well, here at the Office of Citizen Services and Innovative Technologies, we look at it like this: User Experience (UX) deals with people interacting with your product and the experience they receive from that interaction. UX is measured with metrics like: success rate, error rate,'
 authors:

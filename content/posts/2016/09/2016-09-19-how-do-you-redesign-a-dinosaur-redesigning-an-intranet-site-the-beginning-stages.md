@@ -1,6 +1,6 @@
 ---
 slug: how-do-you-redesign-a-dinosaur-redesigning-an-intranet-site-the-beginning-stages
-date: 2016-09-19 10:00:56 -0400
+date: 2016-09-19 10:00:00
 title: 'How Do You Redesign a ‘Dinosaur’? Redesigning an Intranet Site: the Beginning Stages'
 summary: 'Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. Indeed, it’s our job to nurture this ongoing process to create, update, test, update again. And, repeat! But, what about those sites or pages that seem to never crawl up to the &lsquo;high-priority’ list and'
 authors:

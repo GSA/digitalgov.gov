@@ -1,6 +1,6 @@
 ---
 slug: hows-my-waterway-a-mobile-optimized-site-from-the-epa
-date: 2013-08-22 9:55:39 -0400
+date: 2013-08-22 9:55:00
 title: 'How&#8217;s My Waterway?: A Mobile Optimized Site from the EPA'
 summary: 'The United States Environmental Protection Agency (EPA) has upgraded its &#8216;How&#8217;s My Waterway?&#8217; website into a responsive design website, meaning it'
 authors:

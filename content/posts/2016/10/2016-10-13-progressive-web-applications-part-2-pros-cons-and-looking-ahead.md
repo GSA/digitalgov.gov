@@ -1,6 +1,6 @@
 ---
 slug: progressive-web-applications-part-2-pros-cons-and-looking-ahead
-date: 2016-10-13 11:00:04 -0400
+date: 2016-10-13 11:00:00
 title: 'Progressive Web Applications, Part 2: Pros, Cons, and Looking Ahead'
 summary: 'A few weeks ago, Progressive Web Applications, Part 1: the New Pack Mule of the Internet introduced PWAs and the technologies behind them. We shared that article to the MobileGov Community of Practice and asked about the pros and cons of this approach to winning mobile moments. What Are Some Benefits of PWAs? PWAs bring'
 authors:

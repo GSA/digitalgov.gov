@@ -1,6 +1,6 @@
 ---
 slug: the-golden-metric
-date: 2014-06-19 12:15:33 -0400
+date: 2014-06-19 12:15:00
 title: The Golden Metric
 summary: 'Are you looking for the &ldquo;golden metric&#8221; that is the best measure of your agency’s website performance and cross-comparable across .gov websites? If so, stop looking. The concept of the golden metric is a dangerous one because it oversimplifies performance analysis of your website and overlooks the truth'
 authors:

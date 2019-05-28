@@ -1,6 +1,6 @@
 ---
 slug: whats-your-strategy-operational-excellence-product-leadership-or-customer-intimacy
-date: 2013-12-02 9:22:50 -0400
+date: 2013-12-02 9:22:00
 title: What’s Your Strategy? Operational Excellence, Product Leadership or Customer Intimacy?
 summary: 'In the Discipline of Market Leaders by Michael Treacy and Fred Wiersema, we learned about the importance of being clear about your strategic priority.  What unique value do you bring to the marketplace and your customers?  In this book, they describe three strategic priorities'
 authors:

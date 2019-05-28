@@ -1,6 +1,6 @@
 ---
 slug: social-media-and-earth-day
-date: 2014-04-22 14:40:10 -0400
+date: 2014-04-22 14:40:00
 title: Ten Earth Day Activities in Digital Government
 summary: 'On this Earth Day, federal social media managers are hard at work, sharing and promoting what government and citizens can do to protect the environment. We’ve compiled a sample of the activities that also show how different agencies are using different social media tools in support of a common goal. The United States Environmental Protection'
 authors:

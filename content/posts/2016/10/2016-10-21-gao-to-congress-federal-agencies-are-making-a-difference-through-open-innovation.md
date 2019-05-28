@@ -1,6 +1,6 @@
 ---
 slug: gao-to-congress-federal-agencies-are-making-a-difference-through-open-innovation
-date: 2016-10-21 13:00:16 -0400
+date: 2016-10-21 13:00:00
 title: 'GAO to Congress: Federal Agencies Are Making a Difference Through Open Innovation'
 summary: 'Federal agencies confront tough problems every day. In searching for solutions, agencies will want to attract different perspectives, test new products, build capacity and communities, and increase public awareness. How do they do it? The answer: open innovation. Federal agencies need to engage and collaborate with all sectors of society, a task made easier by'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-feeding-the-beast-with-agile-content-development
-date: 2016-03-14 10:59:54 -0400
+date: 2016-03-14 10:59:00
 title: 'The Content Corner: Feeding the Beast with Agile Content Development'
 summary: 'I feel as though I have ignored the beast in the room lately, and since I began my tenure on The Content Corner introducing that concept, I felt I needed to wrestle with it one last time before I depart. Previously, I discussed the concept of pair writing. Today I want to investigate how another software'
 authors:

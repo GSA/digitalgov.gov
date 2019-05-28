@@ -1,6 +1,6 @@
 ---
 slug: collaboration-and-innovation-beyond-government-borders
-date: 2016-06-10 10:00:09 -0400
+date: 2016-06-10 10:00:00
 title: Collaboration and Innovation, Beyond Government Borders
 summary: 'How to start an innovation movement: Connect innovators with fellow innovators, and find more innovators to collaborate with.'
 authors:

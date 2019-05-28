@@ -1,6 +1,6 @@
 ---
 slug: applying-customer-service-metrics-to-improve-customer-experience-cx
-date: 2016-11-03 10:00:10 -0400
+date: 2016-11-03 10:00:00
 title: Applying Customer Service Metrics to Improve Customer Experience (CX)
 summary: 'Lately, I’ve looked at how a government agency measures a customer’s experience. It’s such a complex topic that I would need more than one blog to discuss the nuances behind it. In my last blog, I examined and brokedown three types of customer service metrics: customer satisfaction (CSAT), Net Promoter Score (NPS), and Customer Effort'
 authors:

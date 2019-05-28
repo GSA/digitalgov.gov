@@ -8,8 +8,8 @@ featured_image:
 event_type:
   - youtube-live
   - online
-date: 2018-04-11 10:00:00 -0500
-end_date: 2018-04-11 12:00:00 -0500
+date: 2018-04-11 10:00:00
+end_date: 2018-04-11 12:00:00
 event_organizer: DigitalGov University
 host: Emerging Tech
 registration_url: https://www.eventbrite.com/e/us-federal-emerging-technology-public-meeting-spring-18-registration-44763838847

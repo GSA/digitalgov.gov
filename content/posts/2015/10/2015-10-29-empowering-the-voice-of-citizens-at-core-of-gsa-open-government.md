@@ -1,6 +1,6 @@
 ---
 slug: empowering-the-voice-of-citizens-at-core-of-gsa-open-government
-date: 2015-10-29 10:19:09 -0400
+date: 2015-10-29 10:19:00
 title: Empowering the Voice of Citizens at Core of GSA Open Government
 summary: ' We are proud to announce our commitment to the third U.S. National Action Plan for Open Government, released this week at the Open Government Partnership (OGP) Global Summit in Mexico City, Mexico,'
 authors:

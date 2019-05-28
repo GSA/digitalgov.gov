@@ -1,6 +1,6 @@
 ---
 slug: how-to-implement-an-apps-challenge
-date: 2012-07-09 2:30:29 -0400
+date: 2012-07-09 2:30:00
 title: How to Implement an Apps Challenge
 summary: Recruiting the right judges, writing clear rules, and ensuring the public can find your apps challenge online will help ensure success. Recruit the judges Reach out to those who have expertise in your topic or are influential in the area. Well-known judges will help you draw attention to your challenge, and the judges are likely
 authors:

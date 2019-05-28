@@ -1,6 +1,6 @@
 ---
 slug: announcing-the-digital-acquisition-accelerator-playbook
-date: 2016-10-20 11:00:41 -0400
+date: 2016-10-20 11:00:00
 title: Announcing the Digital Acquisition Accelerator Playbook
 summary: 'Built on the lessons learned during the pilot phase of the Digital Acquisitions Accelerator, the accompanying playbook examines the current acquisition landscape and provides an approach to procuring custom software solutions.'
 authors:

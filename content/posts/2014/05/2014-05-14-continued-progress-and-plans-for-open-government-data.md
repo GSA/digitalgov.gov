@@ -1,6 +1,6 @@
 ---
 slug: continued-progress-and-plans-for-open-government-data
-date: 2014-05-14 13:30:22 -0400
+date: 2014-05-14 13:30:00
 title: Continued Progress and Plans for Open Government Data
 summary: One year ago today, President Obama signed an executive order that made open and machine-readable data the new default for government information. This historic step is helping to make government-held data more accessible to the public and to entrepreneurs while appropriately safeguarding sensitive information and rigorously protecting privacy. Freely available data from the U.S. government
 authors:

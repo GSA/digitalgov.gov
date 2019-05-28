@@ -1,6 +1,6 @@
 ---
 slug: api-analytics
-date: 2013-03-12 13:11:57 -0400
+date: 2013-03-12 13:11:00
 title: API Analytics
 summary: 'Similar to website analytics, API analytics focus on reliably reporting the metrics which are most useful to its stakeholders. There are a many ways of collecting, reporting, and consuming API analytics but all revolve around the industry&ndash;accepted norm that some form of analytics are crucial to any API program. The most basic metrics will track'
 authors:

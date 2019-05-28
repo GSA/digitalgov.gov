@@ -1,7 +1,7 @@
 ---
 url: /communities/challenges-prizes/
 uid: challenges-prizes
-date: 2013-12-05 11:46:00 -0400
+date: 2013-12-05 11:46:00
 title: 'Challenges & Prizes'
 summary: "We work to find innovative government solutions through encouraging public participation in crowdsourcing competitions."
 

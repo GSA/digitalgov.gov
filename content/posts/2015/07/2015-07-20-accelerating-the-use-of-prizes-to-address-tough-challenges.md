@@ -1,6 +1,6 @@
 ---
 slug: accelerating-the-use-of-prizes-to-address-tough-challenges
-date: 2015-07-20 1:46:00 -0400
+date: 2015-07-20 1:46:00
 title: Accelerating the Use of Prizes to Address Tough Challenges
 summary: ' Later this year, the Federal government will celebrate the fifth anniversary of Challenge.gov, a one-stop shop that has prompted tens of thousands of individuals, including engaged citizens and entrepreneurs, to participate in more than 400 public-sector prize competitions with more'
 authors:

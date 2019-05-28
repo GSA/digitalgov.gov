@@ -1,6 +1,6 @@
 ---
 slug: transcreation-why-do-we-need-it
-date: 2016-04-08 10:00:14 -0400
+date: 2016-04-08 10:00:00
 title: 'Transcreation: Why Do We Need It?'
 summary: Transcreation is a relatively new term that blends the words translation and creation. In a nutshell, transcreation involves taking a concept in one language and completely recreating it in another language. A successfully transcreated message (either written or visual) evokes the same emotions and carries the same implications in the target language as it does
 authors:

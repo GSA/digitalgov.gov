@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-department-of-justice-frees-the-content-with-two-new-apis
-date: 2014-12-17 10:20:21 -0400
+date: 2014-12-17 10:20:00
 title: 'The API Briefing: Department of Justice Frees the Content with Two New APIs'
 summary: When websites were first created back in the 1990s, developers perfected their skills designing sites that presented content in an attractive and eye-catching manner. Content was completely contained within the four corners of the site. With the rise of Web 2.0, content
 authors:

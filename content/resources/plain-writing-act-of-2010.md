@@ -1,6 +1,6 @@
 ---
 slug: plain-writing-act-of-2010
-date: 2015-11-05 2:13:05 -0400
+date: 2015-11-05 2:13:00
 title: Plain Writing Act of 2010
 summary: 'The Plain Writing Act of 2010 (PDF, 153 kb, 3 pages, September 2010) was enacted to enhance citizen access to Government information and services by establishing that Government documents issued to the public must be written clearly. View Plain Writing Act of 2010 Related Resources: PLAIN&#8217;s Federal Plain Language Guidelines Plain Writing Basics Plain Language Web Writing'
 topics:

@@ -1,6 +1,6 @@
 ---
 slug: government-services-through-a-life-events-approach
-date: 2015-05-15 13:30:54 -0400
+date: 2015-05-15 13:30:00
 title: Government Services Through a Life Events Approach
 summary: The federal government is increasingly focused on designing and delivering citizen-centered services with enhanced experiences that deliver value to customers. These ideals are established in the Presidential Management Agenda Customer Service Cross-Agency Priority Goal, the Digital Government Strategy, and various open government activities. Designing services to be responsive to be life events that drive public
 authors:

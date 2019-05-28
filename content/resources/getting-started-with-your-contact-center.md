@@ -1,6 +1,6 @@
 ---
 slug: contact-center-guidelines/getting-started-with-your-contact-center
-date: 2014-02-05 10:25:54 -0400
+date: 2014-02-05 10:25:00
 title: 'Getting Started with your Contact Center'
 type: guide
 summary: 'This guide provides you with the information to get a governement contact center started'

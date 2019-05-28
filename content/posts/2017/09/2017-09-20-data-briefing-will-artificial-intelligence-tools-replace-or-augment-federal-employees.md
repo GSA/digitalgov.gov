@@ -1,6 +1,6 @@
 ---
 slug: data-briefing-will-artificial-intelligence-tools-replace-or-augment-federal-employees
-date: 2017-09-20 11:00:44 -0400
+date: 2017-09-20 11:00:00
 title: 'The Data Briefing&#58; Will Artificial Intelligence Tools Replace or Augment Federal Employees&#63;'
 summary: 'A Washington, D.C. think tank recently released reports advocating using artificial intelligence (AI) tools to reorganize the federal government.'
 authors:

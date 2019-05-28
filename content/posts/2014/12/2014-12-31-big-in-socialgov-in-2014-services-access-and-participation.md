@@ -1,6 +1,6 @@
 ---
 slug: big-in-socialgov-in-2014-services-access-and-participation
-date: 2014-12-31 14:25:53 -0400
+date: 2014-12-31 14:25:00
 title: 'Big in SocialGov in 2014: Services, Access and Participation'
 summary: Social media for public service is a diverse field that uses platforms and data from both the private and public sectors to improve citizen services, make them easier to access and deliver them more cost effectively. It is not just public affairs or communications, but spreads into customer service, resource development and more. Many of
 authors:

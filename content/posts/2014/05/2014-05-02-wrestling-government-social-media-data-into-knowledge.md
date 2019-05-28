@@ -1,6 +1,6 @@
 ---
 slug: wrestling-government-social-media-data-into-knowledge
-date: 2014-05-02 15:20:17 -0400
+date: 2014-05-02 15:20:00
 title: Wrestling Government Social Media Data Into Knowledge
 summary: 'This week the SocialGov Community took the step of recruiting a Digital Engagement Knowledge Manager, and I am excited to join the team through the innovative new Open Opportunities Program. At this point, though, you may be asking&mdash;is there really so much information out there that it needs to be'
 authors:

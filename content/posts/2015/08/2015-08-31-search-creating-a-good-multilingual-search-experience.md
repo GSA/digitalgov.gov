@@ -1,6 +1,6 @@
 ---
 slug: search-creating-a-good-multilingual-search-experience
-date: 2015-08-31 11:10:46 -0400
+date: 2015-08-31 11:10:00
 title: 'Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience'
 summary: 'Government agencies across the United States publish content in a growing number of languages to do the business of the country. In 2015, DigitalGov Search dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support 68 different languages.'
 authors:

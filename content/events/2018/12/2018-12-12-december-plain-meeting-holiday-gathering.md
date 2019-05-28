@@ -6,8 +6,8 @@ featured_image:
   uid: plain-language
   alt: 'The Plain Language.gov website logo.'
 event_platform: zoom
-date: 2018-12-12 14:00:00 -0500
-end_date: 2018-12-12 15:30:00 -0500
+date: 2018-12-12 14:00:00
+end_date: 2018-12-12 15:30:00
 event_organizer: DigitalGov University
 host: Plain Language Community of Practice
 registration_url: https://www.eventbrite.com/e/december-plain-meeting-and-holiday-gathering-registration-52711328001

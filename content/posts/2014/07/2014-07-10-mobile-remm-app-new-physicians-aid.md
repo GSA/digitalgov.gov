@@ -1,6 +1,6 @@
 ---
 slug: mobile-remm-app-new-physicians-aid
-date: 2014-07-10 10:00:49 -0400
+date: 2014-07-10 10:00:00
 title: 'Mobile REMM App: New Physicians’ Aid'
 summary: 'The Department of Health and Human Service’s Mobile REMM App provides physicians and emergency medical staff with the latest and greatest information concerning radioactive and nuclear emergencies. Available on iOS, Android, and Blackberry platforms, the native application showcases comprehensive information concerning dose'
 authors:

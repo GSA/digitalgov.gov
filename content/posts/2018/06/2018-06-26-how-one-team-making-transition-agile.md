@@ -1,6 +1,6 @@
 ---
 slug: how-one-team-making-transition-agile
-date: 2018-06-26 11:36:00 -0500
+date: 2018-06-26 11:36:00
 title: 'How One Team is Making the Transition to Agile'
 summary: 'A hybrid approach of waterfall and agile practices is helping the USGS make the transition to agile.'
 authors:

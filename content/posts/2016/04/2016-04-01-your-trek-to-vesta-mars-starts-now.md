@@ -1,6 +1,6 @@
 ---
 slug: your-trek-to-vesta-mars-starts-now
-date: 2016-04-01 13:02:23 -0400
+date: 2016-04-01 13:02:00
 title: 'Your Trek to Vesta & Mars Starts Now'
 summary: 'The NASA Open Innovation team is pleased to announce the availability of the APIs that power Mars Trek and Vesta Trek on api.nasa.gov. The APIs for Mars provide data from the Mars Express, Mars Global Surveyor, Mars Odyssey and Mars Reconnaissance Orbiter missions with 21 different data products such as MOLA Altimetery Hillshade, Viking and THEMIS.'
 authors:

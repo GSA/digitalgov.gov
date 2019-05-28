@@ -1,6 +1,6 @@
 ---
 slug: policyops-a-better-way-to-create-and-implement-government-policies-and-programs
-date: 2014-04-10 2:06:42 -0400
+date: 2014-04-10 2:06:00
 title: PolicyOps—A Better Way to Create and Implement Government Policies and Programs?
 summary: '&ldquo;PolicyOps&rdquo; is a better way to create and implement government policies and programs through cutting-edge data analytics and new collaboration methods. PolicyOps (&ldquo;Policy&rdquo; plus &ldquo;Operations&rdquo;) is a new proposal for improving policy making and policy implementation. Based on a cutting-edge IT management method, DevOps (&ldquo;Development&rdquo; plus &ldquo;Operations&rdquo;), PolicyOps has two major concepts. First, closer collaboration'
 authors:

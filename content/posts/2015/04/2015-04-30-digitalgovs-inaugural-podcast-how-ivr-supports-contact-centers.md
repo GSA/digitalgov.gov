@@ -1,6 +1,6 @@
 ---
 slug: digitalgovs-inaugural-podcast-how-ivr-supports-contact-centers
-date: 2015-04-30 1:35:34 -0400
+date: 2015-04-30 1:35:00
 title: 'DigitalGov&#8217;s Inaugural Podcast: How IVR Supports Contact Centers'
 summary: '​DigitalGov University has added podcasts to our suite of offerings on DigitalGov, featuring interviews and discussions with leaders in the DigitalGov community. For the first edition, we talked to Diane ​Devera, &#8220;Voice of the IVR&#8221; for the USA.gov Contact Center. In this 10 minute discussion with Jacob Parcell, Manager of Mobile Programs, Devera discusses several'
 authors:

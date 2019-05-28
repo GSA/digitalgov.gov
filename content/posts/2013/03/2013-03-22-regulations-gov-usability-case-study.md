@@ -1,6 +1,6 @@
 ---
 slug: regulations-gov-usability-case-study
-date: 2013-03-22 11:29:33 -0400
+date: 2013-03-22 11:29:00
 title: 'Regulations.gov &#8211; Usability Case Study'
 summary: 'More and more people use search as their primary means of finding what they are looking for. When users get confused by the search results, or can’t immediately find what they are looking for, they’re going to get frustrated. They may even leave the site for good. The DigitalGov User Experience Program helped test Regulations.gov on October 5, 2012, to'
 authors:

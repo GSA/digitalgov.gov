@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-fred-and-alfred-serve-up-a-buffet-of-economic-data
-date: 2014-11-26 11:10:15 -0400
+date: 2014-11-26 11:10:00
 title: 'The API Briefing: FRED® and ALFRED® Serve Up a Buffet of Economic Data'
 summary: 'The federal government captures almost every economic data trend through several agencies. The Federal Reserve of St. Louis offers 238,000 economic trends through FRED&reg; (Federal Reserve Economic Data). FRED&reg; data can be accessed through the FRED&reg; website or the FRED&reg; mobile app (Android | Apple). FRED&reg; data can'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-how-to-best-prepare-federal-government-datasets-for-chatbots
-date: 2017-05-10 11:00:46 -0400
+date: 2017-05-10 11:00:00
 title: 'The Data Briefing: How to Best Prepare Federal Government Datasets for Chatbots'
 summary: Forbes magazine recently ran an article showcasing six handy mobile apps that were built using federal government open data. The apps range from the Alternative Fueling Station Locator to ZocDoc (a doctor locator). What I especially like about the Forbes article is that the author describes the federal government data sets behind each app. There
 authors:

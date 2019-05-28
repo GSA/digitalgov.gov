@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-a-great-start-for-an-api-nlms-toxnet-web-service
-date: 2014-10-01 11:43:33 -0400
+date: 2014-10-01 11:43:00
 title: 'The API Briefing: A Great Start For an API – NLM’s TOXNET Web Service'
 summary: 'Glad to be back after a three-week absence. I was preparing for the South Eastern Conference on Public Administration held in Atlanta this year. Great conversations and I can tell you that the academic community is hungry for more government data and APIs. A great example is this week’s API Briefing: the U.S. National Library'
 authors:

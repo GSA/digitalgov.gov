@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type: 
   - youtube-live
-date: 2019-04-23 14:00:00 -0500
-end_date: 2019-04-23 15:00:00 -0500
+date: 2019-04-23 14:00:00
+end_date: 2019-04-23 15:00:00
 event_organizer: Digitalgov
 host: Library of Congress Labs & Digitalgov University
 registration_url: https://www.eventbrite.com/e/crowdsourcing-for-access-engagement-at-the-library-of-congress-registration-59761556424

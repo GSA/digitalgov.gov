@@ -1,6 +1,6 @@
 ---
 slug: ssi-mobile-wage-reporting
-date: 2013-09-05 9:24:40 -0400
+date: 2013-09-05 9:24:00
 title: SSI Mobile Wage Reporting
 summary: Following up on their mobile website, the Social
 authors:

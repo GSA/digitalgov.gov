@@ -1,6 +1,6 @@
 ---
 slug: help-shape-public-participation
-date: 2014-11-25 14:29:05 -0400
+date: 2014-11-25 14:29:00
 title: Help Shape Public Participation
 summary: ' Public participation&mdash;where citizens help shape and implement government programs&mdash;is a foundation of open, transparent, and engaging government services. From emergency management and regulatory development to science and education, better and more meaningful engagement with those'
 authors:

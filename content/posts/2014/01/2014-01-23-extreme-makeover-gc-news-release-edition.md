@@ -1,6 +1,6 @@
 ---
 slug: extreme-makeover-gc-news-release-edition
-date: 2014-01-23 10:01:34 -0400
+date: 2014-01-23 10:01:00
 title: 'Extreme Makeover: GC News Release Edition'
 summary: ' The Government of Canada (GC) is retiring the traditional news release format in favour of a more digital-friendly product that makes the key messages of announcements clearer, quick facts more accessible and integrates more effectively with social media channels. The old style'
 authors:

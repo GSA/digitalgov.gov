@@ -1,6 +1,6 @@
 ---
 slug: 3-ways-manage-research-projects-remotely
-date: 2017-10-03 16:28:00 -0400
+date: 2017-10-03 16:28:00
 title: '3 Ways to Manage Research Projects Remotely'
 summary: 'Being a remote team doesn’t mean you should forgo any of your research rituals. It means finding different ways to do them.'
 authors:

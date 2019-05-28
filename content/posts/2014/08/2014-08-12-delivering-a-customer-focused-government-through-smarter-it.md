@@ -1,6 +1,6 @@
 ---
 slug: delivering-a-customer-focused-government-through-smarter-it
-date: 2014-08-12 14:29:36 -0400
+date: 2014-08-12 14:29:00
 title: Delivering a Customer-Focused Government Through Smarter IT
 summary: As technology changes, government must change with it to address new challenges and take advantage of new opportunities. This Administration has made important strides in modernizing government so that it serves its constituents more effectively and efficiently, but we know there is much more to do. Last year, a group of digital and technology experts
 authors:

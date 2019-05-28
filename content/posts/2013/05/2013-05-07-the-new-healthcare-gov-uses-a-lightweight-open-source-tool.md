@@ -1,6 +1,6 @@
 ---
 slug: the-new-healthcare-gov-uses-a-lightweight-open-source-tool
-date: 2013-05-07 9:01:13 -0400
+date: 2013-05-07 9:01:00
 title: The New Healthcare.gov Uses a Lightweight Open Source Tool
 summary: ' Last week, we told you about the upcoming relaunch of Healthcare.gov and its use of the Jekyll website generator. Jekyll allows users to build dynamic websites served by static pages. To help manage large websites using Jekyll, developers working on the new healthcare.gov published the &lsquo;Prose.io’  editing interface'
 authors:

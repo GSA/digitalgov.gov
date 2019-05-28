@@ -1,6 +1,6 @@
 ---
 slug: where-content-and-marketing-meet-an-email-case-study
-date: 2016-07-15 10:00:28 -0400
+date: 2016-07-15 10:00:00
 title: 'Where Content and Marketing Meet: An email Case Study'
 summary: 'Content marketing is everywhere and you&#8217;re hearing more about it every day&mdash;but how do you do it well? While content marketing can take many forms (articles, infographics, videos, and more), it shares a common purpose: providing useful content to attract new customers to your product or service. At USAGov, customized email messages to our subscribers'
 authors:

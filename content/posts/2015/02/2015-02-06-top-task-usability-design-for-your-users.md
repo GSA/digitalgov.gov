@@ -1,6 +1,6 @@
 ---
 slug: top-task-usability-design-for-your-users
-date: 2015-02-06 10:10:11 -0400
+date: 2015-02-06 10:10:00
 title: 'Top Task Usability: Design for Your Users'
 summary: 'Being able to design a website that users love is not too far away from being able to read their minds. While designers can’t read minds, that doesn’t stop them from using their website’s top tasks to make it seem like they can. A website’s top tasks include 5-10 tasks (depending on the scope of the'
 authors:

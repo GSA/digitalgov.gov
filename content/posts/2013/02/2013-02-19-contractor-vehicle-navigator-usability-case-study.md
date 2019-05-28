@@ -1,6 +1,6 @@
 ---
 slug: contractor-vehicle-navigator-usability-case-study
-date: 2013-02-19 11:39:15 -0400
+date: 2013-02-19 11:39:00
 title: 'Contractor Vehicle Navigator &#8211; Usability Case Study'
 summary: 'When users interact with a website to find information, it is important that we help them find their way by using plain language, clear terminology and visible help text. On December 7, 2012, the DigitalGov User Experience Program helped test the U.S. General Services Administration&#8217;s Contract Vehicle Navigator website. This Navigator site helps contracting officers find'
 authors:

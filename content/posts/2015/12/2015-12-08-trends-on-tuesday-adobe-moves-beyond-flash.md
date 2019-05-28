@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-adobe-moves-beyond-flash
-date: 2015-12-08 10:00:43 -0400
+date: 2015-12-08 10:00:00
 title: 'Trends on Tuesday: Adobe Moves Beyond Flash'
 summary: 'Half a decade since Steve Jobs declared war on Adobe Flash and refused to support it on Apple’s mobile and tablet devices, Flash is finally losing its crown as one of the stand-alone products of Adobe. In the announcement, Adobe said, &ldquo;Flash has played a leading role in bringing new capabilities to the Web. From'
 authors:

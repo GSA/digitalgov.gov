@@ -1,6 +1,6 @@
 ---
 slug: softwareapps-challenges-getting-results-for-your-agency
-date: 2014-02-04 15:10:17 -0400
+date: 2014-02-04 15:10:00
 title: 'Software/Apps Challenges: Getting Results for Your Agency'
 summary: ' Federal agencies are rapidly finding that software and/or app prize competitions have the potential to harness innovative ideas from the public. But'
 authors:

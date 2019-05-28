@@ -1,6 +1,6 @@
 ---
 slug: law-library-of-congress-implements-solution-for-link-and-reference-rot
-date: 2016-04-13 10:00:12 -0400
+date: 2016-04-13 10:00:00
 title: Law Library of Congress Implements Solution for Link and Reference Rot
 summary: 'Last fall, the Law Library of Congress implemented an external archiving solution for the problem of link and reference rot in its legal research reports. &ldquo;Link rot&rdquo; and &ldquo;reference rot&rdquo; (a.k.a. &ldquo;content drift&rdquo;) are the terms used to describe, respectively, the problem of non-working Web addresses and Web addresses that work but link to modified'
 authors:

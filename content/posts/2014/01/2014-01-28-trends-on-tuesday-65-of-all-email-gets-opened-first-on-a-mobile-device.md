@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-65-of-all-email-gets-opened-first-on-a-mobile-device
-date: 2014-01-28 5:37:44 -0400
+date: 2014-01-28 5:37:00
 title: 'Trends on Tuesday: 65% of All Email Gets Opened First on a Mobile Device'
 summary: 'While composing email on mobile phones is still a tricky feat, email reading is quickly shifting away from the desktop. According to data from the US Consumer Device Preference Report: Q4 2013 from Movable Ink, way more than half of all email &mdash; a full 65 percent &mdash; is now being accessed'
 authors:

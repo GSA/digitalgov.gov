@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-making-those-connections
-date: 2015-03-30 10:00:27 -0400
+date: 2015-03-30 10:00:00
 title: 'The Content Corner: Making Those Connections'
 summary: ' A (possibly infamous) blog post from last Friday and the discussion/debate that followed reminded me of several important points that we all may lose'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: to-get-things-done-you-need-great-secure-tools
-date: 2017-04-11 11:00:12 -0400
+date: 2017-04-11 11:00:00
 title: To Get Things Done, You Need Great, Secure Tools
 summary: 'To folks new to government, one of the most surprising differences between our work and work in the private sector are the barriers in accessing commercially available software, and commercially available Software-as-a-Service (SaaS) in particular. There are good reasons for these barriers: the government places premiums on considerations such as security, privacy, accessibility, license management,'
 authors:

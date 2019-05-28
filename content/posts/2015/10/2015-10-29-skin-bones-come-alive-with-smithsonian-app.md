@@ -1,6 +1,6 @@
 ---
 slug: skin-bones-come-alive-with-smithsonian-app
-date: 2015-10-29 11:12:04 -0400
+date: 2015-10-29 11:12:00
 title: 'Skin & Bones Come Alive with Smithsonian App'
 summary: ' The night air is cool and crisp, the autumn leaves are falling, your costume is ready, jack-o-lanterns carved, lights dimmed, candy in the basket&mdash;what else do you need to make &#8220;All Hallows’ Eve trick or treat&#8221; complete? Some eerie music, a spine'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: check-out-data-govs-new-metrics-page
-date: 2017-08-04 12:00:38 -0400
+date: 2017-08-04 12:00:00
 title: 'Check out Data.gov&#8217;s New Metrics Page'
 summary: 'Data.gov recently updated its Metrics page to provide greater detail and transparency to the progress of the Data.gov catalog. Data.gov is primarily a metadata catalog, providing information about, and links to, open datasets made available by federal agencies and participating non-federal sources such as state, county, and city'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-americas-new-first-screen
-date: 2014-12-02 10:00:46 -0400
+date: 2014-12-02 10:00:00
 title: 'Trends on Tuesday: America’s New First Screen'
 summary: 'It has finally happened: Mobile has bumped TV as America&#8217;s first screen. Recent analysis from Flurry Analytics, which included data from the Bureau of Labor Statistics, found that time spent on mobile devices grew in the U.S. by 9.3% to 2 hrs and 57 minutes, while time spent watching TV has remained flat at 2 hrs and 48'
 authors:

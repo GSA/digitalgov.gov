@@ -1,6 +1,6 @@
 ---
 slug: hot-off-the-press-18fs-api-standards
-date: 2014-07-16 13:00:03 -0400
+date: 2014-07-16 13:00:00
 title: 'Hot off the Press: 18F’s API Standards'
 summary: 'We recently released the first version of our API Standards&mdash;a set of recommendations and guidelines for API production. It is our intention that every 18F API meet these standards, to help us ensure a baseline quality and consistency across all APIs we offer now and in the future. These standards guide'
 authors:

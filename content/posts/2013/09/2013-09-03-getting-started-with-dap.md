@@ -1,6 +1,6 @@
 ---
 slug: getting-started-with-dap
-date: 2013-09-03 9:50:06 -0400
+date: 2013-09-03 9:50:00
 title: Getting Started with the Digital Analytics Program
 summary: The Digital Analytics Program (DAP) is delighted to announce the launch of a DAP user group and new training program. These initiatives will support DAP users in getting the most from their implementation. The kick-off for this user group will be on Thursday, September 12, 2013, when we will
 authors:

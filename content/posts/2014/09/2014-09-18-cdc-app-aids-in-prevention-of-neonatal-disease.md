@@ -1,6 +1,6 @@
 ---
 slug: cdc-app-aids-in-prevention-of-neonatal-disease
-date: 2014-09-18 11:51:06 -0400
+date: 2014-09-18 11:51:00
 title: CDC App Aids in Prevention of Neonatal Disease
 summary: 'The Centers for Disease Control has added another tool to its suite of mobile applications for healthcare providers and clinicians. The &#8220;Prevent Group B Strep&#8221; app provides specific, timely guidance to obstetric and neonatal providers to aid in'
 topics:

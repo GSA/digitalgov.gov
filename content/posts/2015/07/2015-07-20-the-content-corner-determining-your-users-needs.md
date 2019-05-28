@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-determining-your-users-needs
-date: 2015-07-20 10:20:36 -0400
+date: 2015-07-20 10:20:00
 title: 'The Content Corner: Determining Your User&#8217;s Needs'
 summary: I recently wrapped up a series of user interviews as part of a review of our judiciary-wide intranet in order to provide better digital services to our customers (and yes, our internal users are our customers, not just the general public). As I prepare to delve back into determining user and content needs for a
 authors:

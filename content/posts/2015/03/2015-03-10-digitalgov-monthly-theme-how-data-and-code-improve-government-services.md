@@ -1,6 +1,6 @@
 ---
 slug: digitalgov-monthly-theme-how-data-and-code-improve-government-services
-date: 2015-03-10 11:43:05 -0400
+date: 2015-03-10 11:43:00
 title: 'DigitalGov Monthly Theme: How Data and Code Improve Government Services'
 summary: Data and code are the foundation, building blocks, and cornerstone of government digital services. They are the keys that open the door to a better digital government future and are fundamental in making government more open. No matter who you are or where you work in the federal space, data and code enable your projects
 authors:

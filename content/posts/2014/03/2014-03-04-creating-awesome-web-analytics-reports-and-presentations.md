@@ -1,6 +1,6 @@
 ---
 slug: creating-awesome-web-analytics-reports-and-presentations
-date: 2014-03-04 11:33:08 -0400
+date: 2014-03-04 11:33:00
 title: Creating Awesome Web Analytics Reports and Presentations
 summary: Collecting visitor, engagement, and traffic data for your digital channels is nothing new. By this time, you have a lot of data about your website. How do you use and present that data to make meaningful recommendations?
 authors:

@@ -1,7 +1,7 @@
 ---
 url: /communities/user-experience/
 uid: user-experience
-date: 2014-01-13 2:35:36 -0400
+date: 2014-01-13 2:35:00
 title: 'User Experience'
 summary: "Join other federal user experience practitioners and learn how to make better user-centered products."
 members: 1180

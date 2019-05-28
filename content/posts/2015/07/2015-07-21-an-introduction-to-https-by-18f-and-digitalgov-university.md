@@ -1,6 +1,6 @@
 ---
 slug: an-introduction-to-https-by-18f-and-digitalgov-university
-date: 2015-07-21 11:10:31 -0400
+date: 2015-07-21 11:10:00
 title: An Introduction to HTTPS, by 18F and DigitalGov University
 summary: '18F uses HTTPS for everything we make, and the U.S. government is in the process of transitioning to HTTPS everywhere. As part of this effort, we&#8217;ve recently partnered with DigitalGov University to produce a two-video series introducing the why&#8217;s and how&#8217;s of HTTPS. In an Introduction to HTTPS for beginners, we cover what happens when'
 authors:

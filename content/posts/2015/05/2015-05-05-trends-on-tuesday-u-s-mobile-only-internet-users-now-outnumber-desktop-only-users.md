@@ -1,6 +1,6 @@
 ---
 slug: trends-on-tuesday-u-s-mobile-only-internet-users-now-outnumber-desktop-only-users
-date: 2015-05-05 11:00:36 -0400
+date: 2015-05-05 11:00:00
 title: 'Trends on Tuesday: U.S. Mobile-Only Internet Users Now Outnumber Desktop-Only Users'
 summary: ' Just a week after the &lsquo;Mobilegeddon’ shift in Google search engine rankings to favor mobile-friendly sites, comScore released a research report citing that the U.S. had reached a new inflection point&mdash;there are now more mobile-only Internet users than desktop-only. What’s even'
 authors:

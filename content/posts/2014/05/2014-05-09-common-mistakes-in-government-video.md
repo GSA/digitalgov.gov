@@ -1,6 +1,6 @@
 ---
 slug: common-mistakes-in-government-video
-date: 2014-05-09 10:00:28 -0400
+date: 2014-05-09 10:00:00
 title: Common Mistakes in Government Video
 summary: ' Videographers in the federal government come from a variety of backgrounds&mdash;commercial television news, the armed services or broadcast/film school. Many of these individuals continue to hone their craft through the years, adopting new technology, taking training courses, learning new editing software,'
 authors:

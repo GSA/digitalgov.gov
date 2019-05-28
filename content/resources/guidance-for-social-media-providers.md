@@ -1,6 +1,6 @@
 ---
 slug: guidance-for-social-media-providers
-date: 2014-02-14 12:30:27 -0400
+date: 2014-02-14 12:30:00
 title: Guidance for Social Media Providers
 summary: "GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please email GSA and include the following information: Explanation of the"
 topics:

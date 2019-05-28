@@ -1,6 +1,6 @@
 ---
 slug: the-new-fedramp-gov-is-here
-date: 2015-03-12 13:00:23 -0400
+date: 2015-03-12 13:00:00
 title: The New FedRAMP.gov Is Here
 summary: ' On Wednesday, March 11, FedRAMP unveiled a redesigned FedRAMP.gov. The new site focuses on user experience that fosters a better understanding of FedRAMP from basic knowledge, to in-depth program requirements and includes the launch of a'
 authors:

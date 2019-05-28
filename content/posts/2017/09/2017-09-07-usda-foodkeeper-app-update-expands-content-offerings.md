@@ -1,6 +1,6 @@
 ---
 slug: usda-foodkeeper-app-update-expands-content-offerings
-date: 2017-09-07 3:59:14 -0400
+date: 2017-09-07 3:59:00
 title: USDA FoodKeeper App Update Expands Content Offerings
 summary: 'The USDA&#8217;s multilingual FoodKeeper app has been updated to include three options for receiving food recall updates and expands storage timelines to over 500 products. This post was originally published on the USDA blog. The Department of Agriculture (USDA) today announced new updates to its popular FoodKeeper application that will provide users with new access to'
 authors:

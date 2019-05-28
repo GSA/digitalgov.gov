@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-is-pair-writing-right-for-you
-date: 2015-12-14 10:00:35 -0400
+date: 2015-12-14 10:00:00
 title: 'The Content Corner: Is Pair Writing Right for You?'
 summary: 'Fresh from last week’s article about workflows and their importance in the content creation process, I stumbled upon a new twist in content production known as pair writing. Many of you familiar with agile methodologies or software programming in general should know the term pair programming. Pair writing hopes to take some of the same'
 authors:

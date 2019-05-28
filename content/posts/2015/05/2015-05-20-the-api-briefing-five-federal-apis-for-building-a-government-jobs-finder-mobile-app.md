@@ -1,6 +1,6 @@
 ---
 slug: the-api-briefing-five-federal-apis-for-building-a-government-jobs-finder-mobile-app
-date: 2015-05-20 10:00:43 -0400
+date: 2015-05-20 10:00:00
 title: 'The API Briefing: Five Federal APIs for Building a Government Jobs Finder Mobile App'
 summary: 'The spring semesters are winding down at the universities where I teach. Many students are looking for summer internships or their first job after graduation. Of course, I talk about the opportunities in government through the Pathways program, the Presidential Management Fellows, or the various agency-specific internship programs. I’ve demonstrated USAJOBS in my classes, but'
 authors:

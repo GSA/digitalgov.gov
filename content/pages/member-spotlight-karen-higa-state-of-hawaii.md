@@ -1,6 +1,6 @@
 ---
 url: /communities/web-managers-forum/member-spotlight-karen-higa-state-of-hawaii/
-date: 2014-10-14 2:12:31 -0400
+date: 2014-10-14 2:12:00
 title: Member Spotlight – Karen Higa, State of Hawaii
 summary: 'This month, we turn the spotlight on Karen Higa, who manages Hawaii.gov.'
 ---

@@ -1,6 +1,6 @@
 ---
 slug: new-u-s-digital-registry-authenticates-official-public-service-accounts
-date: 2016-02-03 12:00:48 -0400
+date: 2016-02-03 12:00:00
 title: New U.S. Digital Registry Authenticates Official Public Service Accounts
 summary: ' Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We’d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: 5-crucial-steps-for-conducting-an-effective-customer-interview
-date: 2015-05-26 11:10:18 -0400
+date: 2015-05-26 11:10:00
 title: 5 Crucial Steps for Conducting an Effective Customer Interview
 summary: 'When focusing on customer experience, we all know that we need to truly understand our customer if we expect to provide them with an enjoyable experience. In an effort to do so, organizations often jump right to a survey to identify their customers’ needs and wants. While surveys are a great first step to understanding'
 authors:

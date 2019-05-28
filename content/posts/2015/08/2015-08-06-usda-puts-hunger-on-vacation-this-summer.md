@@ -1,6 +1,6 @@
 ---
 slug: usda-puts-hunger-on-vacation-this-summer
-date: 2015-08-06 13:00:44 -0400
+date: 2015-08-06 13:00:00
 title: USDA Puts Hunger on Vacation This Summer
 summary: ' The USDA&#8217;s Food and Nutrition Service is helping to put hunger on vacation this summer with their Summer Meal Site Finder, a Web and mobile tool that will provide the location of summer meal sites to ensure low-income children continue to receive nutritious meals while school is out. Having this'
 topics:

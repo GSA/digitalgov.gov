@@ -1,6 +1,6 @@
 ---
 slug: nsf-gov-usability-case-study
-date: 2012-11-05 11:57:16 -0400
+date: 2012-11-05 11:57:00
 title: 'NSF.gov &#8211; Usability Case Study'
 summary: 'Many government websites are informational in nature &#8211; you don&#8217;t sign up for things or buy anything. Instead, you look for something &#8211; a name, a ruling, some contact information. Informational sites &#8211; and scientific sites in particular &#8211; can be a challenge to design. With so much information, how do you make the important'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: multimedia-storytelling-in-government-ghazni-towers-documentation-project
-date: 2014-10-03 12:40:52 -0400
+date: 2014-10-03 12:40:00
 title: 'Multimedia Storytelling in Government: Ghazni Towers Documentation Project'
 summary: '&#8220;Content is king&#8221; is a generally accepted truth for those of us who produce digital media. But once you have compelling content, how to best present it to your audience becomes the next challenge. In recent years, Web innovators started emphasizing the effectiveness of &#8220;digital storytelling,&#8221; or content focused on individual, human experiences using compelling'
 authors:

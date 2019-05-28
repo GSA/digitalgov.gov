@@ -1,6 +1,6 @@
 ---
 slug: national-customer-service-week-is-over-but-our-work-is-not
-date: 2015-10-20 10:00:56 -0400
+date: 2015-10-20 10:00:00
 title: National Customer Service Week Is Over, but Our Work Is Not!
 summary: 'Get your customer personas right, and you will improve the customer experience (CX) for the rest of your audience. That&#8217;s advice Rick Parrish from Forrester Research gave in response to an audience question during the September 29 DigitalGov University webinar on the state of CX in the federal government. Your key customers are those that are most important to the organization, and often most'
 authors:

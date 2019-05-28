@@ -1,6 +1,6 @@
 ---
 slug: open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task
-date: 2015-04-24 4:12:26 -0400
+date: 2015-04-24 4:12:00
 title: 10 Tips for Creating the Perfect Open Opportunity Task
 summary: 'Ten tips for creating tasks in Open Opportunities on USAJOBS.'
 topics:

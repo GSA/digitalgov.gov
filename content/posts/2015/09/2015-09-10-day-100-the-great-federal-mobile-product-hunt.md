@@ -1,6 +1,6 @@
 ---
 slug: day-100-the-great-federal-mobile-product-hunt
-date: 2015-09-10 1:09:17 -0400
+date: 2015-09-10 1:09:00
 title: 'Day 100: The Great Federal Mobile Product Hunt'
 summary: 'A long time ago in a federal agency building far, far away on F Street&hellip; the Great Federal Mobile Product Hunt launched at the DigitalGov Citizen Services Summit in Washington, DC.'
 authors:

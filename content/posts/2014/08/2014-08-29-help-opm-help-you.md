@@ -1,6 +1,6 @@
 ---
 slug: help-opm-help-you
-date: 2014-08-29 2:41:13 -0400
+date: 2014-08-29 2:41:00
 title: Help OPM Use SocialGov to Reinvent Fed Recruitment and Recognition
 summary: 'Here at the U.S. Office of Personnel Management, we recently announced two exciting new government-wide working group teams with the mission of helping us use social media in ways we haven’t explored before. We’re hoping to recruit federal employees'
 authors:

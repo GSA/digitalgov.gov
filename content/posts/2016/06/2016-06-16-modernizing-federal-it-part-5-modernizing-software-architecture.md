@@ -1,6 +1,6 @@
 ---
 slug: modernizing-federal-it-part-5-modernizing-software-architecture
-date: 2016-06-16 14:00:31 -0400
+date: 2016-06-16 14:00:00
 title: 'Modernizing Federal IT Part 5: Modernizing Software Architecture'
 summary: 'This is the fifth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure. You can find part 1 here, part 2 here, part 3 here and part 4 here. In the next three posts we will consider the problem of modernizing old legacy software. In this post we will start a'
 authors:

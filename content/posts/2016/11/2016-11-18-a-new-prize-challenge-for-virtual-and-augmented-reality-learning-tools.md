@@ -1,6 +1,6 @@
 ---
 slug: a-new-prize-challenge-for-virtual-and-augmented-reality-learning-tools
-date: 2016-11-18 12:00:22 -0400
+date: 2016-11-18 12:00:00
 title: A New Prize Challenge for Virtual and Augmented Reality Learning Tools
 summary: 'Summary: The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education. &ldquo;I’m calling for investments in educational technology that will help create. . . educational software that’s as compelling as the best video game. I want you guys to be stuck on'
 authors:

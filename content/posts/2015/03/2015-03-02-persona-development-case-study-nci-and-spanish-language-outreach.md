@@ -1,6 +1,6 @@
 ---
 slug: persona-development-case-study-nci-and-spanish-language-outreach
-date: 2015-03-02 10:00:16 -0400
+date: 2015-03-02 10:00:00
 title: 'Persona Development Case Study: NCI and Spanish Language Outreach'
 summary: ' Government websites need to address the needs of diverse audiences. Although translations are a first step towards engaging non-English speaking audiences, the intended audience may be alienated if information is not presented in a culturally relevant way. The'
 authors:

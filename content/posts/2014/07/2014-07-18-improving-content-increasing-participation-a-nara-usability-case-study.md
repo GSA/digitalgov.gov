@@ -1,6 +1,6 @@
 ---
 slug: improving-content-increasing-participation-a-nara-usability-case-study
-date: 2014-07-18 10:00:49 -0400
+date: 2014-07-18 10:00:00
 title: 'Improving Content, Increasing Participation: A NARA Usability Case Study'
 summary: 'Over the years, the staff intranet at the National Archives and Records Administration (NARA) had become increasingly difficult to use. Old, irrelevant content routinely bubbled to the top of search results, and essential employee tools were hard to find. NARA staff agreed that the site was due for an upgrade: fixing NARA@work was voted a'
 authors:

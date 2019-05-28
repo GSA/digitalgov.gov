@@ -1,6 +1,6 @@
 ---
 slug: what-to-do-with-big-data
-date: 2014-03-27 9:00:38 -0400
+date: 2014-03-27 9:00:00
 title: What to Do with Big Data?
 summary: ' Shortly after taking office in 2009, President Obama launched the Open Government Initiative, an effort to increase transparency, participation, and collaboration in the federal government. The initiative introduced a number of websites and strategies to offer raw government data, including research grant information'
 authors:

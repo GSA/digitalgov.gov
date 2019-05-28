@@ -1,6 +1,6 @@
 ---
 slug: the-new-fec-gov
-date: 2017-06-06 10:25:09 -0400
+date: 2017-06-06 10:25:00
 title: The New FEC.gov
 summary: 'Last week, the Federal Election Commission (FEC) unveiled their new website at FEC.gov. This new site is the result of a years-long collaboration with GSA’s 18F and features completely revamped tools for exploring campaign finance data. It provides user-centered content for understanding the reporting and compliance requirements for people participating in federal elections, redesigned tools'
 authors:

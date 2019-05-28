@@ -1,6 +1,6 @@
 ---
 slug: a-new-look-at-the-freedom-of-information-act
-date: 2014-09-08 10:00:46 -0400
+date: 2014-09-08 10:00:00
 title: A New Look at the Freedom of Information Act
 summary: There are many ways the public can get information from the federal government. For example, you can check out Data.gov to find scores of datasets and APIs, agency websites for information about their work, or other important information in online FOIA Libraries. Or you can also just ask for it. Since 1966, the Freedom of
 authors:

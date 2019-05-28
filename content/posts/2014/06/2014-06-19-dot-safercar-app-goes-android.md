@@ -1,6 +1,6 @@
 ---
 slug: dot-safercar-app-goes-android
-date: 2014-06-19 1:00:15 -0400
+date: 2014-06-19 1:00:00
 title: 'DOT&#8217;s SaferCar App Goes Android'
 summary: 'With the start of &#8220;astronomical summer&#8221; later this week on June 21, that means two things: road trips and car buying. If you&#8217;re doing either or both, best be sure to grab the app for the SaferCar program from the Department of Transportation&#8217;s'
 topics:

@@ -1,6 +1,6 @@
 ---
 slug: the-test-case-write-it-once-test-many-times
-date: 2013-12-16 11:38:54 -0400
+date: 2013-12-16 11:38:00
 title: 'The Test Case: Write It Once, Test Many Times'
 summary: 'What if Thomas Edison Didn’t Use Test Cases? &ldquo;I have not failed. I&#8217;ve just found 10,000 ways that won&#8217;t work.&rdquo; ~Thomas A. Edison Software testing is like a science experiment. The Tester must plan: methods, steps, and paths through the Application Under Test (AUT) to completely exercise the'
 topics:

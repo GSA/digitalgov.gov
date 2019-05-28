@@ -1,7 +1,7 @@
 ---
 url: /communities/government-contact-center-council/
 uid: government-contact-center-council
-date: 2013-11-21 3:28:02 -0400
+date: 2013-11-21 3:28:00
 title: 'Government Contact Center Council (G3C)'
 summary: 'We are an inter-agency group of contact center directors and managers with over 200 members across 55 federal, state and local government agencies.'
 members: 326

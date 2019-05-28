@@ -1,6 +1,6 @@
 ---
 slug: sharing-information-across-and-within-organizations-shouldnt-be-challenging
-date: 2013-11-04 9:26:25 -0400
+date: 2013-11-04 9:26:00
 title: Sharing Information Across and Within Organizations Shouldn’t Be Challenging!
 summary: 'Are you involved in a collaborative project where you need to share information? Whether it is within an organization across units or external to an organization &ndash; across agencies, or levels of government &ndash; sharing of information can be fraught with challenges.  The Center for Technology in Government, (CTG) University at Albany, New York has released'
 authors:

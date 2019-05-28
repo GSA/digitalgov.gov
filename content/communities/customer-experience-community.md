@@ -1,7 +1,7 @@
 ---
 url: /communities/customer-experience-community/
 uid: customer-experience-community
-date: 2015-07-08 10:30:37 -0400
+date: 2015-07-08 10:30:00
 title: 'Customer Experience'
 summary: 'We are an interagency group of customer experience practitioners.'
 members: 782

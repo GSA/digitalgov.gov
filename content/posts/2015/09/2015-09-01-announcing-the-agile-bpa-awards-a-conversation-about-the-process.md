@@ -1,6 +1,6 @@
 ---
 slug: announcing-the-agile-bpa-awards-a-conversation-about-the-process
-date: 2015-09-01 11:10:59 -0400
+date: 2015-09-01 11:10:00
 title: 'Announcing the Agile BPA Awards: A Conversation About the Process'
 summary: 'In January, 18F Consulting announced a new kind of process for vendors to compete for software acquisition contracts. The Agile Blanket Purchase Agreement (BPA) process would be open to existing vendors on Schedule 70, and require vendors to submit a working prototype based on a public dataset&mdash;and then show their work in a publicly available'
 authors:

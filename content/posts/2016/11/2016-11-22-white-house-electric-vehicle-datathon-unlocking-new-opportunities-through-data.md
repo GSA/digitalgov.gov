@@ -1,6 +1,6 @@
 ---
 slug: white-house-electric-vehicle-datathon-unlocking-new-opportunities-through-data
-date: 2016-11-22 11:08:26 -0400
+date: 2016-11-22 11:08:00
 title: 'White House Electric Vehicle Datathon: Unlocking New Opportunities through Data'
 summary: 'Summary: The White House is hosting its first-ever Electric Vehicle Datathon, and nominations for participation are now open. Don&#8217;t miss your chance to join the discussion! The White House Domestic Policy Council and Office of Science and Technology Policy will convene its first-ever Electric Vehicle (EV) Datathon on November 29. This event, held in partnership'
 authors:

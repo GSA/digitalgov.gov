@@ -1,6 +1,6 @@
 ---
 slug: citizen-science-is-sound-science-provided-by-you
-date: 2016-08-25 14:00:48 -0400
+date: 2016-08-25 14:00:00
 title: Citizen Science is Sound Science Provided by You
 summary: 'Have you ever seen a cool bird in your backyard and wondered if there was some way to share what you saw with others? Better yet, have you thought about sharing your observations and having them used to help study and conserve those birds? These thoughts are an indicator that you might have the makings of a'
 authors:

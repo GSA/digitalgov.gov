@@ -1,6 +1,6 @@
 ---
 slug: marketing-government-through-agency-partnerships
-date: 2018-04-02 12:00:00 -0500
+date: 2018-04-02 12:00:00
 title: 'New USAGov Program Aims to Help Agencies Market Within the Federal Government'
 summary: 'The Outreach and Marketing team from USAGov helps agencies amplify their key messages through a variety of channels.'
 authors:

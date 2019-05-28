@@ -1,6 +1,6 @@
 ---
 slug: analytics-success-series-usajobs
-date: 2016-09-15 13:00:46 -0400
+date: 2016-09-15 13:00:00
 title: 'Analytics Success Series: USAJOBS'
 summary: 'USAJOBS’ Analytics Success: using analytics to create accurate testing strategies. Accurate testing strategies are crucial to ensure quality products. Hi-fidelity approaches ensure QA efforts are testing in a true-to-life manner, similar to real-world users. Inaccurate, lo-fidelity testing can miss situational bugs that become showstoppers in production. USAJOBS is leveraging the Digital Analytics Program (DAP) to'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-is-that-drug-safe-the-fdas-rr-drug-rshiny-app
-date: 2015-11-04 10:11:23 -0400
+date: 2015-11-04 10:11:00
 title: 'The Data Briefing: Is That Drug Safe? &#8211; The FDA’s RR-Drug R/Shiny App'
 summary: I (virtually) attended the Third Annual Safety Datapalooza last Thursday and was greatly impressed by the projects and initiatives for public safety. This was a great event, and I am glad that live streaming was provided for those who could not attend in person but have a great interest in using government data for disaster
 authors:

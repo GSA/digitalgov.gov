@@ -1,6 +1,6 @@
 ---
 slug: twitter-best-practices-for-government
-date: 2013-11-25 13:01:09 -0400
+date: 2013-11-25 13:01:00
 title: Twitter Best Practices for Government
 summary: 'Best practices and success stories to help government leverage the power of Twitter'
 authors:

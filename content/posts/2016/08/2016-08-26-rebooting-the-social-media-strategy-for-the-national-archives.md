@@ -1,6 +1,6 @@
 ---
 slug: rebooting-the-social-media-strategy-for-the-national-archives
-date: 2016-08-26 10:00:19 -0400
+date: 2016-08-26 10:00:00
 title: Rebooting the Social Media Strategy for the National Archives
 summary: 'In six years, you can get a lot done! If you are the International Space Station, you could have orbited the earth 35,040 times. If you are Apple, you could have released 10 new iPhones. If you are the National Archives, you have gone from zero social media accounts to over 100! It’s been six'
 authors:

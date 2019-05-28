@@ -1,6 +1,6 @@
 ---
 slug: large-scale-development-culture-change-google-and-the-u-s-government
-date: 2014-12-22 10:05:52 -0400
+date: 2014-12-22 10:05:00
 title: 'Large Scale Development Culture Change: Google and the U.S. Government'
 summary: 'As part of 18F&#8217;s mission to deliver effective, user-centric services focused on the interaction between government and the people and businesses it serves, we are also committed to demonstrating how open source and agile-inspired methodologies are critical to an effective, efficient, modern delivery process. We believe these methods produce better software and services at lower'
 authors:

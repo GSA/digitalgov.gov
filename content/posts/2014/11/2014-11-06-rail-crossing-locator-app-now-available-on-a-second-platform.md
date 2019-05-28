@@ -1,6 +1,6 @@
 ---
 slug: rail-crossing-locator-app-now-available-on-a-second-platform
-date: 2014-11-06 10:00:43 -0400
+date: 2014-11-06 10:00:00
 title: Rail Crossing Locator App Now Available on a Second Platform
 summary: 'You don’t need to be a rail buff to want to download the Federal Railroad Administration Rail Crossing Locator app. Parents, outdoor enthusiasts, emergency responders, school officials, motorists and many others will find value in locating area highway-rail crossings. The aim of the app is public safety and the Department of Transportation'
 authors:

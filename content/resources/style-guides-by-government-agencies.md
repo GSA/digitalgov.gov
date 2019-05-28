@@ -1,6 +1,6 @@
 ---
 slug: style-guides-by-government-agencies
-date: 2017-05-23 3:43:08 -0400
+date: 2017-05-23 3:43:00
 title: 'Style Guides by Government Agencies'
 summary: 'This page is a collection of style guides created by government agencies.'
 topics:

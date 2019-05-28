@@ -1,6 +1,6 @@
 ---
 slug: contact-center-guidelines
-date: 2014-02-05 9:41:22 -0400
+date: 2014-02-05 9:41:00
 title: Contact Center Guidelines
 summary: 'Contact Centers are becoming the hub for federal agencies to gather valuable, decision-making data to meet their missions. The Contact Center is no longer viewed as only a center to receive complaints, but as a valued operation in an agency&rsquo;s strategy to deliver a quality customer experience. Customers want to speak to government agencies via'
 topics:

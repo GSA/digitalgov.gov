@@ -1,6 +1,6 @@
 ---
 slug: walking-in-our-customers-shoes
-date: 2015-01-16 10:00:08 -0400
+date: 2015-01-16 10:00:00
 title: 'Walking in Our Customers&#8217; Shoes'
 summary: 'The General Services Administration&#8217;s (GSA’s) focus on customer experience can be traced back to its inception on July 1, 1949, when President Truman created a new federal agency to manage and store government records, handle emergency preparedness, and stockpile strategic supplies for wartime. While our customer focus has stayed with us, GSA’s mission has morphed'
 authors:

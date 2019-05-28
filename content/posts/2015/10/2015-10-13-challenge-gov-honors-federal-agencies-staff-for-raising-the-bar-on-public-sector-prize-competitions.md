@@ -1,6 +1,6 @@
 ---
 slug: challenge-gov-honors-federal-agencies-staff-for-raising-the-bar-on-public-sector-prize-competitions
-date: 2015-10-13 14:26:44 -0400
+date: 2015-10-13 14:26:00
 title: Challenge.gov Honors Federal Agencies, Staff for Raising the Bar on Public Sector Prize Competitions
 summary: The biggest advocates for the use of challenges in the public sector gathered at the General Services Administration (GSA) headquarters, October 8, to acknowledge the remarkable rise of a community that has grown steadily in number and influence over the past five years. More than 300 federal employees representing agencies spanning government attended in person
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-creating-good-content-is-hard
-date: 2015-07-06 10:00:55 -0400
+date: 2015-07-06 10:00:00
 title: 'The Content Corner: Creating Good Content is Hard'
 summary: Throughout my five-plus months so far on this blog, I have focused a great deal on creating content, the various methods to improve your content, and what exactly content is. One thing that I may not have emphasized enough is the quality of the actual writing itself and how no content strategy on the planet
 authors:

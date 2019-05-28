@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-how-blockchains-future-growth-will-affect-federal-agencies
-date: 2017-09-13 09:01:00 -0400
+date: 2017-09-13 09:01:00
 title: 'The Data Briefing&#58; How Blockchain’s Future Growth Will Affect Federal Agencies'
 summary: 'Blockchains are an innovative technology which promises to radically change how society conducts business. It will take significant changes in organizational processes before agencies can begin to support blockchains.'
 featured_image:

@@ -4,8 +4,8 @@ title: 'January PLAIN Monthly Meeting'
 summary: 'Monthly meeting of the Plain Language Community of Practice&#46;'
 event_type:
   - youtube-live
-date: 2018-01-10 14:00:00 -0400
-end_date: 2018-01-10 15:00:00 -0400
+date: 2018-01-10 14:00:00
+end_date: 2018-01-10 15:00:00
 event_organizer: DigitalGov University
 host: Plain Language Action and Information Network
 registration_url: https://www.eventbrite.com/e/january-plain-monthly-meeting-registration-41577411156

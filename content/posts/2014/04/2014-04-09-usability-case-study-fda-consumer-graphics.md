@@ -1,6 +1,6 @@
 ---
 slug: usability-case-study-fda-consumer-graphics
-date: 2014-04-09 10:00:33 -0400
+date: 2014-04-09 10:00:00
 title: 'FDA Consumer Graphics &#8211; Usability Case Study'
 summary: 'User testing isn’t just for websites&mdash;it’s for any product that has an audience. Which is everything, really. And that includes print materials, signage and infographics as well. Focusing on the User Experience is especially vital for the U.S. Food and Drug Administration (FDA), which is committed to effectively communicating about products that affect the public'
 authors:

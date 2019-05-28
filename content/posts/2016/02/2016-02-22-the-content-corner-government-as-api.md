@@ -1,6 +1,6 @@
 ---
 slug: the-content-corner-government-as-api
-date: 2016-02-22 11:10:39 -0400
+date: 2016-02-22 11:10:00
 title: 'The Content Corner: Government as API'
 summary: 'Here at DigitalGov, we generally focus on federal governmental digital efforts within the U.S. It is where we live and operate, so it makes sense, but many governments across the world struggle with the same issues and leverage technology as a common solution. When I came across an article where Australia announced its &ldquo;government as'
 authors:

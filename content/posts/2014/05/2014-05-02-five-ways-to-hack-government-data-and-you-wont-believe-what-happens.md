@@ -1,6 +1,6 @@
 ---
 slug: five-ways-to-hack-government-data-and-you-wont-believe-what-happens
-date: 2014-05-02 10:00:00 -0400
+date: 2014-05-02 10:00:00
 title: 'Civic Hacking: Pathways for Participation'
 summary: ' The National Day of Civic Hacking is actually a weekend. An awe-inspiring two days of collaborative work where coders, designers, writers, innovative thinkers,'
 authors:

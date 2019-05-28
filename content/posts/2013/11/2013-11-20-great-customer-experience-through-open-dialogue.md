@@ -1,6 +1,6 @@
 ---
 slug: great-customer-experience-through-open-dialogue
-date: 2013-11-20 9:19:59 -0400
+date: 2013-11-20 9:19:00
 title: Great Customer Experience through Open Dialogue
 summary: 'While we think about the audience, we don’t often map out the experience we want them to have when using our services. This is critical information for the design. In other cases, we may not have the data to analyze existing customers’'
 authors:

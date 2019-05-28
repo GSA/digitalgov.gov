@@ -1,6 +1,6 @@
 ---
 slug: using-journey-mapping-streamline-processes-across-agencies
-date: 2018-02-05 11:52:00 -0400
+date: 2018-02-05 11:52:00
 title: 'Using Journey Mapping to Streamline Processes Across Agencies'
 summary: 'How one team used journey mapping to improve the customer experience for newly naturalized citizens attempting to travel abroad&#46;'
 deck: 'How one team used journey mapping to improve the customer experience for newly naturalized citizens attempting to travel abroad&#46;'

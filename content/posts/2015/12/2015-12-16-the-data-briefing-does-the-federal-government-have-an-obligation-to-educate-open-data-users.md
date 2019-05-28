@@ -1,6 +1,6 @@
 ---
 slug: the-data-briefing-does-the-federal-government-have-an-obligation-to-educate-open-data-users
-date: 2015-12-16 10:00:07 -0400
+date: 2015-12-16 10:00:00
 title: 'The Data Briefing: Does the Federal Government Have an Obligation to Educate Open Data Users?'
 summary: 'Pop quiz on statistics and data science (answers at the end of the article): 1) I have some data on accidents at railroad crossings. One variable indicates the compass direction a railroad crossing faces (North, Northwest, Northeast, and so on). This variable is a/an: Ordinal Categorical Directional Interval 2) I have some ordinal data that'
 authors:

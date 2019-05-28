@@ -1,6 +1,6 @@
 ---
 slug: what-labor-department-data-do-you-want
-date: 2015-04-17 10:00:12 -0400
+date: 2015-04-17 10:00:00
 title: What Labor Department Data Do You Want?
 summary: ' Four years ago, we released our Labor Department-wide API&mdash;that is, an Application Programming Interface&mdash;with the hope that anyone who wants to build an'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: bullying-help-prevent-and-protect-anytime-anywhere-on-any-device
-date: 2014-10-09 11:08:02 -0400
+date: 2014-10-09 11:08:00
 title: 'Bullying: Help Prevent and Protect Anytime, Anywhere, on Any Device'
 summary: 'I don&#8217;t remember being bullied as a kid, but my younger sister once was. When she was in junior high, a jealous schoolmate who ran in a small tough pack threatened to &#8220;beat up&#8221; my quiet, mild-mannered sibling at an unspecified time and day during her walk home from school. Sound familiar? Back then (in an era before text messaging'
 topics:

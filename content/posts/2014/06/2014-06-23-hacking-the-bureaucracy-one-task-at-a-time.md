@@ -1,6 +1,6 @@
 ---
 slug: hacking-the-bureaucracy-one-task-at-a-time
-date: 2014-06-23 13:00:53 -0400
+date: 2014-06-23 13:00:00
 title: Hacking the Bureaucracy One Task at a Time
 summary: 'Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the Open Opportunities program.'
 authors:

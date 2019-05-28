@@ -1,6 +1,6 @@
 ---
 slug: gov-domain-registration-process-final-rule
-date: 2015-12-01 9:17:58 -0400
+date: 2015-12-01 9:17:00
 title: GOV Domain Registration Process Final Rule
 summary: 'This final rule provided a new policy for the .GOV domain that will be included in the Federal Management Regulation. This final rule establishes FMR part 102-173, Internet GOV Domain, and provides policy for registration of domain names.   View .Gov Domain Registration Final Rule Related Resources OMB M-05-04, Policies for Federal Agency Public Websites'
 topics:

@@ -1,6 +1,6 @@
 ---
 slug: need-help-responding-to-facebook-twitter-questions-use-your-contact-center-customer-service-experts
-date: 2014-04-30 10:00:49 -0400
+date: 2014-04-30 10:00:00
 title: 'Need Help Responding to Facebook & Twitter Questions? Use Your Contact Center Customer Service Experts'
 summary: 'Government agencies are always looking for better ways to connect with their audiences while making more effective use of existing (or shrinking) resources. To that end, many agencies&mdash;including ours, the National Cancer Institute&mdash;have begun to use social media platforms to help serve the communications mission. As these tools have become more widely used, NCI’s Contact'
 authors:

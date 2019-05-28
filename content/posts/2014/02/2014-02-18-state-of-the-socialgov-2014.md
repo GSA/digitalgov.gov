@@ -1,6 +1,6 @@
 ---
 slug: state-of-the-socialgov-2014
-date: 2014-02-18 4:09:21 -0400
+date: 2014-02-18 4:09:00
 title: 'State of the #SocialGov 2014'
 summary: 'If the silos and barriers that separated our programs are smashed, what could we do to realize the full potential of innovation in public service? Whether you’re a citizen who needs better access to services, an entrepreneur looking to spark innovation in the marketplace, or a public servant who wants to get your mission done'
 authors:

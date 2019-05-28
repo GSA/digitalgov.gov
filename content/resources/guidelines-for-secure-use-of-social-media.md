@@ -1,6 +1,6 @@
 ---
 slug: guidelines-for-secure-use-of-social-media
-date: 2015-11-24 9:50:19 -0400
+date: 2015-11-24 9:50:00
 title: Guidelines for Secure Use of Social Media
 summary: "The use of social media for federal services and interactions is growing tremendously, supported by initiatives from the administration, directives from government leaders, and demands from the public. This situation presents both opportunity and risk. Guidelines and recommendations for using social media technologies in a manner that minimizes the risk are analyzed and presented in"
 topics:

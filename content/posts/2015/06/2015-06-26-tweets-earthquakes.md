@@ -1,6 +1,6 @@
 ---
 slug: tweets-earthquakes
-date: 2015-06-26 10:00:36 -0400
+date: 2015-06-26 10:00:00
 title: 'As the World Churns: Earthquake Detection via Twitter'
 summary: When one thinks of social media, usually it is thought of as a tool to keep in touch with friends and family. Behind all the social networking lies vast amounts of data that can be used in a multitude of ways. This data is an opportunity for government agencies to improve the services they provide
 authors:

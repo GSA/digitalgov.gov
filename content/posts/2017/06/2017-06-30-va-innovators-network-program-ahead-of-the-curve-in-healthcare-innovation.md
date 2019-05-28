@@ -1,6 +1,6 @@
 ---
 slug: va-innovators-network-program-ahead-of-the-curve-in-healthcare-innovation
-date: 2017-06-30 11:00:59 -0400
+date: 2017-06-30 11:00:00
 title: 'VA Innovators Network Program: Ahead of the Curve in Healthcare Innovation'
 summary: 'VA Innovators Network Program Selected as FedHealth IT Innovation Award Winner This month, FedHealth IT announced that the U.S. Department of Veterans Affairs Innovators Network Program was selected as a 2017 recipient of the FedHealthIT Innovation Award. FedHealth IT recognized 25 Federal Health'
 authors:

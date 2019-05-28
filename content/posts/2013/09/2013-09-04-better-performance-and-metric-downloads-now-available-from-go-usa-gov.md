@@ -1,6 +1,6 @@
 ---
 slug: better-performance-and-metric-downloads-now-available-from-go-usa-gov
-date: 2013-09-04 11:04:03 -0400
+date: 2013-09-04 11:04:00
 title: Better Performance and Metric Downloads Now Available From Go.USA.gov
 summary: A few weeks ago, the Go.USA.gov URL shortener introduced several new features to improve the user experience. Go.USA.gov now offers users faster speeds and downloadable metric information about their links. The service, which launched in 2009, gives government agencies the ability to provide trustworthy shortened links to their audience. Just
 authors:

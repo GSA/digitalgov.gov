@@ -1,6 +1,6 @@
 ---
 slug: santa-is-16-centuries-old-things-ive-learned-from-norad-tracks-santa-app
-date: 2014-12-24 9:00:36 -0400
+date: 2014-12-24 9:00:00
 title: 'Santa Is 16 Centuries Old: Things I&#8217;ve Learned from NORAD Tracks Santa App'
 summary: 'NORAD&#8217;s Santa Tracker is available for download again! Here are five things I learned from the magical NORAD Tracks Santa app to keep my nieces, nephews and neighborhood children entertained this holiday season, even if I don’t remember how many of them'
 authors:

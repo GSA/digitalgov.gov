@@ -1,6 +1,6 @@
 ---
 slug: what-happens-when-the-whole-team-joins-user-interviews
-date: 2016-08-22 14:00:00 -0400
+date: 2016-08-22 14:00:00
 title: What Happens When the Whole Team Joins User Interviews
 summary: 'The CALC team is an agile team of four &#8212; six if you count the Scrummaster and the Product Owner &#8212; building a simple means to load price data into the original CALC tool. They’re an Agile team, which means everybody pitches in on everything to some degree, and here, in their own words, is'
 authors:

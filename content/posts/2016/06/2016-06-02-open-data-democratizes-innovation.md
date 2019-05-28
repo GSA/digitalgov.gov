@@ -1,6 +1,6 @@
 ---
 slug: open-data-democratizes-innovation
-date: 2016-06-02 14:15:24 -0400
+date: 2016-06-02 14:15:00
 title: Open Data Democratizes Innovation
 summary: 'Americans Use Public Data to Improve the Lives of Fellow Citizens Data is one of our most important national assets. It informs our policy and our national priorities. But as we have seen time and time again, the most effective way to govern is to engage with the public directly. Thanks to the President’s Executive Order requiring'
 authors:

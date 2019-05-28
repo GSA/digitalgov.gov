@@ -1,6 +1,6 @@
 ---
 slug: social-security-joins-the-hispanic-heritage-month-celebration
-date: 2016-09-16 12:00:53 -0400
+date: 2016-09-16 12:00:00
 title: Social Security Joins The Hispanic Heritage Month Celebration
 summary: Social Security joins you and your family in celebrating Hispanic Heritage Month, which runs from September 15 to October 15. We know the contributions of Hispanics can be traced to before the origins of the United States with the discovery, exploration, and naming of many places in our nation, such as state names like California,
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: how-creating-on-the-fly-digital-content-can-fill-an-immediate-audience-need
-date: 2016-08-25 11:00:32 -0400
+date: 2016-08-25 11:00:00
 title: How Creating On-The-Fly Digital Content Can Fill an Immediate Audience Need
 summary: 'When some U.S. athletes at this month’s Olympic Games started showing up at their events with dark red circles on their torsos, sports commentators and the media hungrily sought answers to what the marks could be. In less than a day after the spots were&hellip;spotted, the story of the mysterious circles was becoming clearer: they'
 authors:

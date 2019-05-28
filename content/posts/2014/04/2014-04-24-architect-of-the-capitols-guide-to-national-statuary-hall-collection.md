@@ -1,6 +1,6 @@
 ---
 slug: architect-of-the-capitols-guide-to-national-statuary-hall-collection
-date: 2014-04-24 10:00:53 -0400
+date: 2014-04-24 10:00:00
 title: 'Architect of the Capitol&#8217;s Guide to National Statuary Hall Collection'
 summary: 'The Architect of the Capitol&#8217;s new app gives users the ability to view the collection of statues donated by the 50 states in its Guide to the National Statuary Hall Collection of State Statues, available on iOS. Visiting the capitol? The app'
 topics:

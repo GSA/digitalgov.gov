@@ -1,6 +1,6 @@
 ---
 slug: gsa-fas-qr-code
-date: 2013-03-07 12:50:06 -0400
+date: 2013-03-07 12:50:00
 title: GSA FAS QR Code
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA. The General Services Administration&#8217;s Federal Acquisition Service Customer Accounts and Research (CAR) Office created a QR codes presentation for the 2011 GSA Expo to teach government attendees about the benefits of'
 authors:

@@ -1,6 +1,6 @@
 ---
 slug: customization-is-key-to-better-mobile-user-experience
-date: 2014-07-30 2:12:52 -0400
+date: 2014-07-30 2:12:00
 title: Customization is Key to Better Mobile User Experience
 summary: 'Resources like Theresa Neil’s Mobile Design Product Gallery book and Mobile-patterns.com describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week’s Trends on Tuesday, customizing apps to meet'
 authors:

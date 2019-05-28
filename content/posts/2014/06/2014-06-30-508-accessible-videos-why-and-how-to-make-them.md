@@ -1,6 +1,6 @@
 ---
 slug: 508-accessible-videos-why-and-how-to-make-them
-date: 2014-06-30 10:00:51 -0400
+date: 2014-06-30 10:00:00
 title: 508 Accessible Videos—Why (and How) to Make Them
 summary: 'Making Web content and video accessible to people with disabilities is the law. Ensuring a video is accessible requires planning. Taking steps from day one will save you time and money. To verify that a video is accessible you&#8217;d need to incorporate three elements: Captioning Audio descriptions An Accessible video player Why Accessibility Matters Many government'
 authors:

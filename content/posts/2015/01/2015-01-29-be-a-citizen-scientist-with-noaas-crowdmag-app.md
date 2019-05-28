@@ -1,6 +1,6 @@
 ---
 slug: be-a-citizen-scientist-with-noaas-crowdmag-app
-date: 2015-01-29 10:00:11 -0400
+date: 2015-01-29 10:00:00
 title: 'Be a Citizen Scientist with NOAA&#8217;s CrowdMag App'
 summary: 'Help the National Oceanic and Atmospheric Administration (NOAA) improve the accuracy of magnetic navigation by tracking changes in the Earth’s magnetic field.'
 authors:

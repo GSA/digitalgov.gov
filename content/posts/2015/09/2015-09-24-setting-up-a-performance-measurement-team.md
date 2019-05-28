@@ -1,6 +1,6 @@
 ---
 slug: setting-up-a-performance-measurement-team
-date: 2015-09-24 11:00:41 -0400
+date: 2015-09-24 11:00:00
 title: Setting Up a Performance Measurement Team
 summary: 'As part of an organizational shift to functional teams at GSA’s Federal Citizen Information Center (FCIC), we created a Performance Measurement Team that consolidates data analysis for our websites, contact center channels, and marketing channels. Instead of looking at metrics within the bubble of each program, we’re beginning to leverage insights across programs. These are'
 authors:

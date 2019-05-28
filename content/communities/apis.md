@@ -1,7 +1,7 @@
 ---
 url: /communities/apis/
 uid: apis
-date: 2018-03-29 3:30:00 -0400
+date: 2018-03-29 3:30:00
 title: 'APIs'
 members: 1351
 summary: 'Working to advance the cause of APIs in the federal government'

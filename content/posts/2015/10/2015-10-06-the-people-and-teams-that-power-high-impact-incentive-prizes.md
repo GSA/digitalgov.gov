@@ -1,6 +1,6 @@
 ---
 slug: the-people-and-teams-that-power-high-impact-incentive-prizes
-date: 2015-10-06 11:10:55 -0400
+date: 2015-10-06 11:10:00
 title: The People and Teams That Power High-Impact Incentive Prizes
 summary: ' Federal agencies have used prize competitions and challenges to drive competition and spark innovation for nearly a decade. In September 2010, as part of President Obama’s Strategy for American Innovation [PDF], the Administration launched Challenge.gov, an online platform that enables federal agencies to engage civic'
 authors:

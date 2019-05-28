@@ -1,6 +1,6 @@
 ---
 slug: federal-student-aid-customer-experience-journey-a-recap
-date: 2015-08-14 10:00:11 -0400
+date: 2015-08-14 10:00:00
 title: 'Federal Student Aid Customer Experience Journey: A Recap'
 summary: ' Customer Experience (CX) deserves a voice at an agency’s senior levels. Putting CX'
 authors:

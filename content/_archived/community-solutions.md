@@ -1,7 +1,7 @@
 ---
 url: /communities/community-solutions/
 uid: community-solutions
-date: 2017-05-17 4:51:55 -0400
+date: 2017-05-17 4:51:00
 title: 'Community Solutions'
 summary: 'We provide services to local communities in a holistic and collaborative way.'
 members: 95
