@@ -19,7 +19,7 @@ _[View live captioning for this event](https://www.captionedtext.com/client/even
 
 Is your agency using a tone of voice that connects with customers online, or is it using a stale, bureaucratic voice that repels them and breeds distrust or confusion? 
  
-In this workshop, we’ll cover what brand voice is and how it’s governed. We’ll look at examples of agency content that’s written in a voice that supports the agency’s brand, and some examples that don’t. We’ll go through a simple exercise that will help you define your brand voice, which may vary somewhat by project, product, or section of your site. We’ll also discuss the situations in which using an inconsistent voice will cause problems. 
+Noted trainer Leslie O’Flahavan will cover what brand voice is and how it’s governed. We’ll see examples of agency content that’s written in a voice that supports the agency’s brand, and some examples that don’t. We’ll go through a simple exercise that will help you define your brand voice, which may vary somewhat by project, product, or section of your site. We’ll also discuss the situations in which using an inconsistent voice will cause problems.
 
 This event will be held on [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux) and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand. Our team will email the link to join the event prior to the event date. 
 

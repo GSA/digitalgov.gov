@@ -5,6 +5,7 @@ title: Policies
 summary: 'Policies for DigitalGov'
 aliases:
   - /about/policies/
+
 ---
 
 ## Comment Policy
@@ -15,13 +16,13 @@ Comments are available on many pages and posts on this site. We welcome your com
 
 ## Privacy
 
-The U.S. General Services Administration (GSA) Office of Citizen Services & Innovative Technologies will not share or sell any of your personal information with any other organization or government agency except as required by law. Please view [GSA’s privacy and security notice](http://www.gsa.gov/portal/content/116609).
+The U.S. General Services Administration (GSA) Office of Products and Programs will not share or sell any of your personal information with any other organization or government agency except as required by law. Please view [GSA’s privacy and security notice](http://www.gsa.gov/portal/content/116609).
 
 ### Cookies and Analytics
 
 DigitalGov uses single-session cookies to serve technical purposes, like providing seamless navigation through the platform. These cookies do not permanently record data, and they are not stored on your computer&#8217;s hard drive. DigitalGov&#8217;s session cookies are only available during an active browser session. When you close your browser, the session cookie disappears.
 
-DigitalGov also uses multi-session cookies to help us understand how people use the platform, and how we can make it better. We use Google Analytics Web analytics software. We do not collect any personally identifiable information. Traffic statistics are collected anonymously and aggregated, and no information is traceable to any specific individual. [You can change the setting of your browser to block cookies by following these instructions](http://www.usa.gov/optout-instructions.shtml).
+DigitalGov also uses multi-session cookies to help us understand how people use the platform, and how we can make it better. We use Google Analytics Web analytics software. We do not collect any personally identifiable information (PII). Traffic statistics are collected anonymously and aggregated, and no information is traceable to any specific individual. [You can change the setting of your browser to block cookies by following these instructions](http://www.usa.gov/optout-instructions.shtml).
 
 ## Linking Policy and Endorsement
 
@@ -37,4 +38,4 @@ This site may include useful hypertext links or pointers to information created 
 
 Most material on DigitalGov is free of copyright and may be copied and distributed without permission. We are flattered that you want to share. Citation of DigitalGov and a link back is much appreciated.
 
-We sometimes use photos or graphics that we licensed or that are restricted. Check to see if there is a copyright or photo credit. You need to request permission from the original source to use this material. [More about copyright and other rights pertaining to U.S. Government works](http://www.usa.gov/copyright.shtml).
+We sometimes use photos or graphics that we licensed or that are restricted. Check to see if there is a copyright or photo credit. **You need to request permission from the original source to use this material.** [More about copyright and other rights pertaining to U.S. Government works](http://www.usa.gov/copyright.shtml).
