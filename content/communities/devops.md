@@ -1,6 +1,7 @@
 ---
 url: /communities/devops/
 uid: devops
+date: 2019-05-29 12:58:00 -0500
 title: "DevOps Community of Practice"
 summary: ""
 
@@ -8,21 +9,21 @@ summary: ""
 
 The DevOps Community of Practice (CoP) provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.
 
-Government agencies are investing in cloud capabilities and are seeking to work more iteratively, improving their ability to support the public through their digital services.  The DevOps CoP will allow agencies to share their innovations and successes, reducing the “cost of learning and innovating” across government.
+Government agencies are investing in cloud capabilities and are seeking to work more iteratively, improving their ability to support the public through their digital services. The DevOps CoP will allow agencies to share their innovations and successes, reducing the “cost of learning and innovating” across government.
 
 ## Join
 
-To join, send an email to the list: [DEVOPS-TODAY-SUBSCRIBE-REQUEST@LISTSERV.GSA.GOV](mailto:DEVOPS-TODAY-SUBSCRIBE-REQUEST@LISTSERV.GSA.GOV)
+To join, send an email to: [devops-today-subscribe-request@listserv.gsa.gov](mailto:devops-today-subscribe-request@listserv.gsa.gov)
 
 ## Who we are
 
-The CoP manager is Brian Fox, an 18F Strategist.  Prior to working as a member of the 18F Strategy team, he led Systems Development at USGS’s National Geospatial Technical Operations Center (NGTOC) where he oversaw development activity in support of The National Map.  Prior to leading NGTOC's Systems Development Branch, Brian supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas.
+The CoP manager is Brian Fox, a strategist at 18F. Prior to working as a member of the 18F Strategy team, he led systems development at USGS’s National Geospatial Technical Operations Center (NGTOC) where he oversaw development activity in support of The National Map. Brian has also supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas.
 
 ## What we do
 
 The DevOps CoP will meet once a month for 30 minutes. In each meeting, a presenter will have the opportunity to share experiences for 15 minutes, followed by a 15 minute Q&A session.
 
-We work towards the following:
+**We work towards the following:**
 
 - This CoP allows technical staff and leadership from across government to share their experiences and lessons learned implementing DevOps and agile practices, as well as their efforts to migrate data and services to the cloud.
 - We aim to help reduce the learning curve associated with individual agencies, bureaus, and offices adopting cloud capabilities and DevOps practices. The DevOps CoP will allow agencies to learn from one another, sharing technical know-how. We also promote the adoption of DevOps, knowing that DevOps techniques and technologies can not only save time and reduce costs, but also be a vehicle for innovation.
