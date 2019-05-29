@@ -41,6 +41,9 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "crowdsourcing-and-citizen-science.md" >}})
 
+**[DevOps]({{< link "devops.md" >}})**: Summary <br/>
+[Learn&nbsp;more&nbsp;»]({{< link "devops.md" >}})
+
 **[G3C]({{< link "government-contact-center-council.md" >}})**: The Government Contact Center Council (G3C) is an organization of contact center leaders from local, state and federal agencies focusing on delivering exceptional customer/citizen experiences.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "government-contact-center-council.md" >}})
 
