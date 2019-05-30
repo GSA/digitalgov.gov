@@ -41,6 +41,41 @@ a.btn{
 	}
 }
 
+.join-buttons{
+	@include u-margin-y(1);
+	@include u-text('center');
+	@include u-display('flex');
+	@include u-flex('wrap');
+	@include u-flex('row');
+	@include u-flex('justify-center');
+	@include u-flex('align-center');
+	@include at-media('tablet'){
+		@include u-margin-y(3);
+	}
+	a{
+		@include u-margin-x('05');
+		@include u-margin-bottom(1);
+		@include u-padding-y('05');
+		@include u-padding-x(1);
+		@include u-text('no-underline');
+		@include u-text('medium');
+		@include u-text('indigo-warm-60v');
+		@include u-radius('md');
+		@include u-display('inline-block');
+		@include u-font('sans', 'xs');
+		transition: background-color .5s, color .5s;
+		@include at-media('tablet'){
+			@include u-padding-y('05');
+			@include u-padding-x('105');
+			@include u-font('sans', 'md');
+			@include u-border('2px', 'indigo-warm-60v', 'solid');
+		}
+		&:hover{
+			@include u-bg('indigo-warm-60v');
+			@include u-text('white');
+		}
+	}
+}
 
 .actions{
   @include u-margin-bottom(3);

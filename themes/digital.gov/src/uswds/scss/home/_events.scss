@@ -38,27 +38,6 @@ header.header-events{
     @include u-font('sans', 'lg');
     @include u-line-height('sans', 3);
   }
-  .join{
-    @include u-margin-y(3);
-    @include u-text('center');
-    a{
-      @include u-margin-x('105');
-      @include u-padding-y('05');
-      @include u-padding-x('105');
-      @include u-border('2px', 'indigo-warm-60v', 'solid');
-      @include u-text('no-underline');
-      @include u-text('medium');
-      @include u-text('indigo-warm-60v');
-      @include u-radius('md');
-      @include u-display('inline-block');
-      @include u-font('sans', 'md');
-      transition: background-color .5s, color .5s;
-      &:hover{
-        @include u-bg('indigo-warm-60v');
-        @include u-text('white');
-      }
-    }
-  }
   .newsletter{
     p{
       @include u-padding-x(2);
