@@ -18,16 +18,20 @@ p.more {
 
 a.btn{
 	@include u-padding-y('105');
-	@include u-padding-bottom(2);
-	@include u-padding-x(3);
+	@include u-padding-x(2);
 	@include u-display('inline-block');
-	@include u-font('sans', 'lg');
+	@include u-font('sans', 'md');
 	@include u-color('white');
 	@include u-text('medium');
 	@include u-text('center');
 	@include u-text('no-underline');
 	@include u-radius('md');
 	@include u-bg('indigo-60v');
+	@include at-media('tablet') {
+		@include u-padding-y('105');
+		@include u-padding-x(3);
+		@include u-font('sans', 'lg');
+	}
 	i{
 		@include u-margin-left('05');
 	}
