@@ -18,12 +18,12 @@
 
   <section class="topic-buttons">
     <div class="grid-container grid-container-desktop">
-      <div class="grid-row grid-gap-1 tablet:grid-gap-2">
+      <div class="grid-row tablet:grid-gap-2">
         {{- $top_topics := $.Site.Taxonomies.topics -}}
         {{- range $name, $taxonomy := $top_topics -}}
           {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
             {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
-              <div class="grid-col-6 tablet:grid-col-4">
+              <div class="grid-col-12 tablet:grid-col-4">
                 <div class="topic topic-slim" data-edit-this="{{- .File.Path -}}">
                   <h3>
                     <a class="text-no-underline text-ink" href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
