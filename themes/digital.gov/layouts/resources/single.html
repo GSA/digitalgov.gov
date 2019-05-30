@@ -26,7 +26,18 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row grid-gap-6">
 
-          <div class="grid-col-12 tablet:grid-col-3 tablet:order-last">
+          <div class="grid-col-12 tablet:grid-col-9">
+
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
+            </div>
+
+            {{- partial "core/feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-3">
 
             {{/* Table of contents */}}
             {{- partial "core/toc" . -}}
@@ -42,17 +53,6 @@
 
             {{/* Share Tools */}}
             {{/* {{- partial "core/get_sharetools" . -}} */}}
-
-          </div>
-
-          <div class="grid-col-12 tablet:grid-col-9">
-
-            {{/* Content */}}
-            <div class="content">
-              {{- .Content -}}
-            </div>
-
-            {{- partial "core/feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 
