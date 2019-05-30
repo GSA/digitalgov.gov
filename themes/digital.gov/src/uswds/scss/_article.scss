@@ -39,7 +39,9 @@ main{
      	@include u-margin-bottom('2px');
      	@include u-text('heavy');
      	@include u-line-height('sans', 2);
+			@include u-font('sans', 'xl');
 			@include at-media('tablet') {
+				@include u-font('sans', '2xl');
 				@include u-line-height('sans', 2);
 			}
    	}
