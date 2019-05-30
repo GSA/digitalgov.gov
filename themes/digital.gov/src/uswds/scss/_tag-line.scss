@@ -1,15 +1,18 @@
 .tag-line{
 	@include u-margin-y(3);
-	@include u-margin-top(6);
+	@include u-margin-top(5);
 	@include at-media('tablet') {
 		@include u-margin-top(9);
 	}
 	h3{
 		@include u-margin-y(0);
-		@include u-font('sans', '2xl');
+		@include u-font('sans', 'xl');
 		@include u-text('center');
 		@include u-text('indigo-warm-80');
 		@include u-text('bold');
+		@include at-media('mobile-lg') {
+			@include u-font('sans', '2xl');
+		}
 		@include at-media('tablet') {
 			@include u-font('sans', '3xl');
 		}

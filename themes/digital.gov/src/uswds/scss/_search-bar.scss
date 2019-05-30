@@ -2,7 +2,10 @@
 
 .search-bar{
 	@include u-margin-top(1);
-	@include u-margin-bottom(9);
+	@include u-margin-bottom(4);
+	@include at-media('tablet') {
+		@include u-margin-bottom(9);
+	}
 	h3{
 		@include u-margin(0);
 		@include u-margin-bottom(2);
@@ -23,21 +26,13 @@
 }
 
 .search_form{
-	// box-shadow: 0 0 2pt 1pt #9287d8;
 	@include u-width('full');
-	@include u-margin-top(3);
-	// tablet and smaller
-	// tablet and above
+	@include u-margin-top(2);
 	@include at-media('tablet') {
-		@include u-margin-top(0);
-	}
-	// tablet-lg and above
-	@include at-media('tablet-lg') {
-		// @include u-maxw('mobile-lg');
+		@include u-margin-top(1);
 	}
 
 	.search_field{
-		// box-shadow: 0 0 2pt 1pt #9287d8;
 		@include u-width('full');
 		@include u-height(6);
 		@include u-font('sans', 'lg');
@@ -76,7 +71,7 @@
 		@include u-radius-right('md');
 		@include u-border('2px', 'solid', 'indigo-warm-70');
 		@include u-border-left(0);
-
+		@include u-bg('white');
 		&:hover{
 			@include u-bg('indigo-warm-40v');
 		}
