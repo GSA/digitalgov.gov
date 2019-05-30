@@ -90,7 +90,8 @@
       @include u-margin-y(1);
       li{
         a{
-          @include u-font('sans', 'lg');
+          @include u-font('sans', 'md');
+          @include u-line-height('sans', 1);
           @include u-text('medium');
           @include u-padding-y(1);
           @include u-text('white');

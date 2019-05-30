@@ -1,8 +1,3 @@
-{{/* Core */}}
-
-{{/* Spotlight / Newsletter */}}
-{{- partialCached "core/newsletter_signup" . -}}
-
 <footer id="footer">
   <div class="grid-container padding-x-2">
     <div class="grid-row">
@@ -27,10 +22,14 @@
   </div>
 </footer>
 
-{{/* If the short_url is available on a page, an iFrame loads in this DIV and increments the counter on the URL shortener by 1. And because of the SAMEORIGIN rules for digital.gov, this iframe never really loads the page, yet it still increments the counter on the shortened URL.
+{{/*
+If the short_url is available on a page, an iFrame loads in this DIV and increments the counter on the URL shortener by 1. And because of the SAMEORIGIN rules for digital.gov, this iframe never really loads the page, yet it still increments the counter on the shortened URL.
+
 For more detail on the logic, see:
 - src/js/clicks.js
-- layouts/partial/get_clicks.html */}}
+- layouts/partial/get_clicks.html
+
+*/}}
 <div id="clicks_iframe" class="display-none"></div>
 
 <div class="edit_tools">
