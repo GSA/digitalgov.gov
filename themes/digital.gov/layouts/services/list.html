@@ -5,7 +5,7 @@
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
-        <header class="header-{{- .Type -}}" data-edit-this="{{- .File.Path -}}">
+        <header class="header-{{- .Type -}}" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
 
           {{/* Page Title */}}
           <h1>{{- .Title | markdownify -}} </h1>
@@ -36,7 +36,7 @@
 
         {{ range $i, $e := . }}
           <div class="grid-col-12 tablet:grid-col-4 tablet:flex-6">
-            <div class="promo promo-card " data-edit-this="{{- .File.Path -}}">
+            <div class="promo promo-card " data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
               {{ if .Params.icon }}
               {{ $src := (print "/logos/" .Params.icon) }}
               <img class="float-right margin-left-1 width-7" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">

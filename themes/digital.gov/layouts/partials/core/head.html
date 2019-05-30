@@ -139,7 +139,6 @@
     git_repo         = {{ .Site.Params.git_repo }};
     branch           = {{ $.Scratch.Get "branch" }};
     short_url        = {{ if .Params.short_url -}}{{- .Params.short_url -}}{{ else }}""{{- end -}};
-    content_type     = {{ .Type }};
     filename         = {{ .File.LogicalName }};
     filepath         = {{ .File.Path }};
     filepathURL      = {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $.File.Path }};

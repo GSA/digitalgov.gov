@@ -1,4 +1,4 @@
-<article class="event card promo" data-edit-this="{{- .File.Path -}}">
+<article class="event card promo" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
   <div class="grid-row grid-gap-2">
     <div class="grid-col-12 tablet:grid-col-4">
       <div class="youtube-card" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>

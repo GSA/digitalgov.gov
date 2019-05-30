@@ -5,7 +5,7 @@
 
 <main role="main" id="topic">
   <div class="grid-container grid-container-desktop">
-    <div class="grid-row grid-gap-4" data-edit-this="{{- .File.Path -}}">
+    <div class="grid-row grid-gap-4" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
       <div class="grid-col-12">
         <header class="page-header">
           <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></p>

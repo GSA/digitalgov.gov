@@ -4,7 +4,7 @@
   <header class="header-{{- .Type -}}">
     <div class="grid-container grid-container-desktop">
       <div class="grid-row">
-        <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
+        <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
 
           {{/* Page Title */}}
           <h1>{{- .Title | markdownify -}} </h1>

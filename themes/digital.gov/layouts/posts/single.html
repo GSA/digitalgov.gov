@@ -3,7 +3,7 @@
 <main role="main">
   <article >
     <header>
-      <div class="grid-container grid-container-desktop" data-edit-this="{{- .File.Path -}}">
+      <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <div class="grid-row">
           <div class="grid-col-12">
             <p class="breadcrumb"><a href="{{- "posts/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>Latest News</span> </a></p>
@@ -32,7 +32,7 @@
     </header>
 
     <section>
-      <div class="grid-container grid-container-desktop" data-edit-this="{{- .File.Path -}}">
+      <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <div class="grid-row margin-y-2 grid-gap-6">
 
           <div class="grid-col-12 tablet-lg:grid-col-9 tablet-lg:order-last">

@@ -15,7 +15,7 @@ A list of the most important resources tagged with the same topic */}}
       {{/* If an external link  */}}
       {{- if or .Params.source_url .Params.source -}}
 
-      <li class="indent" data-edit-this="{{- .File.Path -}}">
+      <li class="indent" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
 
           {{/* If there is a defined source for this page */}}
@@ -36,7 +36,7 @@ A list of the most important resources tagged with the same topic */}}
 
       {{/* If an internal link... */}}
       {{- else -}}
-      <li data-edit-this="{{- .File.Path -}}">
+      <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <a href="{{- .Permalink -}}" title="{{ .Title | markdownify }}">
 
           {{/* Use the digital.gov logo */}}

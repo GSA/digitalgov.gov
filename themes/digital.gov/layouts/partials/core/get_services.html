@@ -58,7 +58,7 @@
       {{/* Finally we can get the services/pages and their data */}}
       {{ with $.Site.GetPage (print "/services/" $e) }}
 
-      <div class="promo" data-edit-this="{{- .File.Path -}}">
+      <div class="promo" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
         {{ if .Params.source_url -}}
         <div class="display-flex flex-align-center flex-justify">
           <h4>

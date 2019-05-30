@@ -21,7 +21,7 @@
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
+          <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
             <p class="breadcrumb"><a href="{{- "events/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Events</span> </a></p>
             {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
@@ -109,7 +109,7 @@
 
 
     <section>
-      <div class="grid-container grid-container-desktop" data-edit-this="{{- .File.Path -}}">
+      <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <div class="grid-row grid-gap-4">
           <div class="grid-col-12 tablet:grid-col-9">
             {{- if .Params.zoom_id -}}

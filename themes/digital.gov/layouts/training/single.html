@@ -22,7 +22,7 @@
     <section class="events-list">
       <div class="grid-container grid-container-desktop">
         <div class="grid-row grid-gap-4">
-          <div class="grid-col-12 tablet:grid-col-4" data-edit-this="{{- .File.Path -}}">
+          <div class="grid-col-12 tablet:grid-col-4" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
             {{ .Content }}
           </div>
           <div class="grid-col-12 tablet:grid-col-8">

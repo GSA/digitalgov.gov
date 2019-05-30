@@ -7,7 +7,7 @@
     {{- range $name, $taxonomy := $top_topics -}}
       {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
         {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
-          <li data-edit-this="{{- .File.Path -}}">
+          <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
             <a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a>
           </li>
         {{- end -}}

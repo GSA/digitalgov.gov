@@ -26,7 +26,7 @@
               {{- range $i, $author := $authors -}}
                 {{ $link := printf "authors/%s/" .Params.uid }}
 
-                  <div class="author grid-row flex-no-wrap" data-edit-this="{{- .File.Path -}}">
+                  <div class="author grid-row flex-no-wrap" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
                     <div class="grid-col-auto">
                       <div class="photo height-5 width-5 display-flex flex-align-center flex-justify-center">
                         {{- if $author.Params.github -}}

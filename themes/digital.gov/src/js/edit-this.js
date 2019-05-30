@@ -3,8 +3,7 @@ jQuery(document).ready(function($) {
 	function enable_edit_this(){
 		$('*[data-edit-this]').each(function(){
 			var filepath = $(this).data('edit-this');
-			var edit_path = "https://github.com/"+git_org+"/"+git_repo+"/edit/"+branch+"/content/"+filepath;
-			var edit_link = '<a class="edit_this_btn" href="'+edit_path+'" title="edit this" target="_blank"><span>edit</span></a>';
+			var edit_link = '<a class="edit_this_btn" href="https://workflow.digital.gov'+filepath+'" title="edit this" target="_blank"><span>edit</span></a>';
 			$(this).addClass('edit-this').append(edit_link);
 		});
 	}
