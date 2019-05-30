@@ -51,12 +51,11 @@
     </div>
   </div>
 
-
-  <section id="news">
-    <div class="grid-container grid-container-desktop">
-      <div class="grid-row grid-gap-4">
-        <div class="grid-col-12 ">
-          <section class="stream">
+  <section id="posts_featured" class="stream">
+    <div class="paper">
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row grid-gap-4">
+          <div class="grid-col-12 ">
 
           {{/* Blog Posts by Topic —
           List all of the blog posts and events tagged with this topic */}}
@@ -109,11 +108,12 @@
           {{- end -}}
 
           {{- partial "core/pagination.html" . -}}
-          </section>
+          </div>
         </div>
       </div>
     </div>
   </section>
+
 </main>
 
 {{- end -}}

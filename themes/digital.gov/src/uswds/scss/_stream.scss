@@ -1,9 +1,12 @@
 
 .stream{
 	h2{
-		@include u-font('sans', '2xl');
+		@include u-font('sans', 'xl');
 		@include u-text('bold');
-		@include u-color('indigo-warm-80');
+		@include u-text('indigo-warm-80');
+		@include at-media('tablet-lg') {
+			@include u-font('sans', 'xl');
+		}
 	}
 	.card:first-child{
 		@include u-margin-top(0);
