@@ -1,7 +1,10 @@
 // Article
 
 main{
-	@include u-padding-y(6);
+	@include u-padding-y(0);
+	@include at-media('tablet') {
+		@include u-padding-y(6);
+	}
 
 	// Base Article Header Styles
 	header.page-header,
@@ -29,9 +32,9 @@ main{
 			@include u-margin(0);
 			@include u-margin-bottom('05');
 			@include u-font('sans', 'sm');
-			@include u-text('semibold');
+			@include u-text('normal');
 			@include u-text('uppercase');
-			@include u-color('indigo-warm-60v');
+			@include u-color('indigo-warm-90');
 		}
    	// Page Titles
    	h1{
@@ -70,18 +73,32 @@ main{
 	// Base Article Styles
 	article{
 		@include u-margin-bottom(5);
-		.date{
-			@include u-margin-top(3);
-			@include u-font('sans', '2xs');
-			a{
-				@include u-text('gray-cool-60');
-				@include u-text('semibold');
-				@include u-text('no-underline');
+		.meta{
+			@include u-display('block');
+			@include at-media('tablet-lg') {
+				@include u-display('none');
 			}
-			a:hover{
-				border-bottom: 2px #8889db solid; // $indigo-40
+			.authors-list-short{
+				@include u-margin-left(0);
+				@include u-margin-bottom(2);
+				flex-basis: 100%;
+				.author{
+					@include u-font('sans', 'sm');
+					img{
+						@include u-circle(4);
+					}
+				}
 			}
 		}
+	}
 
+}
+
+
+.meta{
+	// @include u-margin-top(3);
+	// @include u-display('block');
+	@include at-media('tablet-lg') {
+		// @include u-display('none');
 	}
 }

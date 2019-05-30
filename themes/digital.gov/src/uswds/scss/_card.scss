@@ -40,49 +40,6 @@
 		@include u-margin-bottom(2);
 	}
 
-	.meta{
-		@include u-margin-top(2);
-		@include at-media('tablet') {
-			@include u-margin-top(3);
-			@include u-display('flex');
-			@include u-flex('align-center');
-		}
-		.clicks{
-			@include u-margin-top(0);
-			@include u-margin-right(1);
-			@include at-media('tablet'){
-				@include u-margin-right(2);
-			}
-			@include u-font('sans', '2xs');
-			@include u-text('italic');
-			@include u-display('block');
-			@include u-color('gold-40v');
-			i{
-				@include u-color('gold-30v');
-			}
-			white-space: nowrap;
-		}
-		.datetime{
-			@include u-margin(0);
-			@include at-media('tablet'){
-				@include u-margin-right(2);
-			}
-			@include u-font('sans', '2xs');
-			@include u-display('inline-block');
-			@include u-color('gray-50');
-			white-space: nowrap;
-		}
-		.authors-list-short{
-			@include at-media('tablet') {
-				@include u-order('last');
-			}
-		}
-		.topics{
-			@include u-margin-y(0);
-			@include u-font('sans', '3xs');
-		}
-	}
-
 	.entry-featured img {
 		filter: grayscale(75%);
 		transition: filter .2s;
@@ -130,5 +87,63 @@
 				}
 			}
 		}
+	}
+}
+
+
+.meta{
+	@include u-margin-top(2);
+	@include u-display('flex');
+	@include u-flex('wrap');
+	@include u-flex('align-center');
+	@include at-media('tablet-lg') {
+		@include u-margin-top(3);
+	}
+	.date{
+		@include u-margin-top(0);
+		@include at-media('tablet-lg') {
+			@include u-margin-top(0);
+		}
+		@include u-font('sans', '2xs');
+		@include u-text('gray-cool-60');
+		@include u-text('normal');
+		a{
+			@include u-text('gray-cool-60');
+			@include u-text('no-underline');
+		}
+		a:hover{
+			border-bottom: 2px #8889db solid; // $indigo-40
+		}
+	}
+	.clicks{
+		@include u-margin-top(0);
+		@include u-margin-left(2);
+		@include at-media('tablet'){
+			@include u-margin-left(2);
+		}
+		@include u-font('sans', '2xs');
+		@include u-text('italic');
+		@include u-display('block');
+		@include u-text('gold-40v');
+		i{
+			@include u-text('gold-30v');
+		}
+		white-space: nowrap;
+	}
+	.authors-list-short{
+		@include u-margin-bottom(2);
+		@include u-margin-left(0);
+		flex-basis: 100%;
+		@include at-media('tablet') {
+			flex-basis: auto;
+			@include u-margin-bottom(1);
+			@include u-margin-left(2);
+			@include u-order('last');
+			@include u-margin-bottom(3);
+		}
+	}
+	.topics{
+		@include u-margin-y(0);
+		@include u-font('sans', '3xs');
 	}
 }

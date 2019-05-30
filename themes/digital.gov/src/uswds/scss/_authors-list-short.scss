@@ -19,16 +19,16 @@
 		@include u-text('indigo-warm-80');
 		@include u-text('medium');
 		@include u-text('no-underline');
-		@include u-font('sans', '2xs');
+		@include u-font('sans', 'xs');
 		@include at-media('tablet') {
-			@include u-font('sans', '2xs');
+			@include u-font('sans', 'xs');
 		}
 		z-index: 2;
 		img{
 			@include u-margin-bottom('05');
 			@include u-margin-right('05');
 			@include u-circle(3);
-			@include at-media('tablet') {
+			@include at-media('tablet-lg') {
 				@include u-margin-bottom(0);
 				@include u-circle(3);
 			}
