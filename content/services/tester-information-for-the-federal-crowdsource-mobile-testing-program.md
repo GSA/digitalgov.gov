@@ -2,7 +2,7 @@
 url: /services/mobile-application-testing-program/tester-information-for-the-federal-crowdsource-mobile-testing-program/
 date: 2014-06-16 11:20:38 -0400
 title: "Tester Information for the Federal Crowdsource Mobile Testing Program"
-summary: Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the Crowdsource Mobile Testing Program. Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into"
+summary: "Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the Crowdsource Mobile Testing Program. Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into"
 weight: 0
 ---
 
