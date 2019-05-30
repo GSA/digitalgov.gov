@@ -4,24 +4,19 @@
 
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
-      <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
-        <header class="header-{{- .Type -}}">
-          <div class="grid-container grid-container-desktop">
-            <div class="grid-row">
-              <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
+      <div class="grid-col-12">
+        <header class="header-{{- .Type -}}" data-edit-this="{{- .File.Path -}}">
 
-                {{/* Page Title */}}
-                <h1>{{- .Title | markdownify -}} </h1>
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
 
-                {{/* Deck */}}
-                {{- if .Params.deck -}}
-                <div class="deck">{{- .Params.deck | markdownify -}}</div>
-                {{- end -}}
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck | markdownify -}}</div>
+          {{- end -}}
 
-                {{/* {{ partial "last-updated" . }} */}}
-              </div>
-            </div>
-          </div>
+          {{/* {{ partial "last-updated" . }} */}}
+
         </header>
       </div>
     </div>
