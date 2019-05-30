@@ -1,57 +1,62 @@
 {{ define "content" }}
 
 <main role="main">
-  <article>
-    <header>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
 
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}} </h1>
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
+        <header class="header-{{- .Type -}}">
+          <div class="grid-container grid-container-desktop">
+            <div class="grid-row">
+              <div class="grid-col-12" data-edit-this="{{- .File.Path -}}">
 
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
+                {{/* Page Title */}}
+                <h1>{{- .Title | markdownify -}} </h1>
 
-            {{/* {{ partial "last-updated" . }} */}}
-          </div>
-        </div>
-      </div>
-    </header>
+                {{/* Deck */}}
+                {{- if .Params.deck -}}
+                <div class="deck">{{- .Params.deck | markdownify -}}</div>
+                {{- end -}}
 
-    <section>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row grid-gap-2">
-
-        {{/* Gets all service pages */}}
-        {{ $services := (where .Site.Pages "Section" "services") }}
-
-        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-        {{ $services := (where $services ".Params.weight" "ge" 1) }}
-
-        {{ with $services }}
-
-          {{ range $i, $e := . }}
-            <div class="grid-col-12 tablet:grid-col-4 flex-6">
-              <div class="promo promo-card " data-edit-this="{{- .File.Path -}}">
-                {{ if .Params.icon }}
-                {{ $src := (print "/logos/" .Params.icon) }}
-                <img class="float-right margin-left-1 width-7" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
-                {{ end }}
-                <h3><a href="{{ .Params.url }}?dg" title="{{ .Params.title }}">{{ .Params.title }}</a></h3>
-                <p>{{ .Params.summary | markdownify }}</p>
-                <a class="overlay" href="{{ .Params.url }}?dg" title="{{ .Params.title }}"><span></span></a>
+                {{/* {{ partial "last-updated" . }} */}}
               </div>
             </div>
-          {{ end }}
-        {{ end }}
-        </div>
-
+          </div>
+        </header>
       </div>
-    </section>
-  </article>
+    </div>
+  </div>
+
+  <section>
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-2">
+
+      {{/* Gets all service pages */}}
+      {{ $services := (where .Site.Pages "Section" "services") }}
+
+      {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+      {{ $services := (where $services ".Params.weight" "ge" 1) }}
+
+      {{ with $services }}
+
+        {{ range $i, $e := . }}
+          <div class="grid-col-12 tablet:grid-col-4 tablet:flex-6">
+            <div class="promo promo-card " data-edit-this="{{- .File.Path -}}">
+              {{ if .Params.icon }}
+              {{ $src := (print "/logos/" .Params.icon) }}
+              <img class="float-right margin-left-1 width-7" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+              {{ end }}
+              <h3><a href="{{ .Params.url }}?dg" title="{{ .Params.title }}">{{ .Params.title }}</a></h3>
+              <p>{{ .Params.summary | markdownify }}</p>
+              <a class="overlay" href="{{ .Params.url }}?dg" title="{{ .Params.title }}"><span></span></a>
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+      </div>
+
+    </div>
+  </section>
 </main>
 
 {{ end }} {{/* end 'content' block */}}

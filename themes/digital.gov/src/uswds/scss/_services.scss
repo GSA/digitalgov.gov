@@ -1,41 +1,32 @@
 // Services
-
-// All posts page — https://digital.gov/posts/
-
-
 .services.section{
   .paper{
-    @include u-bg('indigo-80');
+    // @include u-bg('indigo-80');
   }
-  main header{
-    @include u-margin-bottom(4);
+}
+
+header.header-services{
+  @include u-padding-bottom(2);
+  @include u-text('indigo-warm-80');
+  h1, h2{
+    @include u-margin-y(1);
+    @include u-text('heavy');
     @include u-text('center');
-    h1{
-      @include u-font('sans', '3xl');
-      @include u-line-height('sans', 2);
-      @include u-margin-bottom(1);
-      @include u-text('thin');
-      @include u-text('orange-warm-30v');
+    @include u-line-height('sans', 2);
+    @include u-font('sans', 'xl');
+    @include at-media('tablet') {
+      @include u-font('sans', '2xl');
     }
-    .deck{
-      @include u-text('white');
+  }
+  .deck, p{
+    @include u-margin(0);
+    @include u-text('light');
+    @include u-text('center');
+    @include u-maxw('none');
+    @include u-font('sans', 'md');
+    @include u-line-height('sans', 3);
+    @include at-media('tablet') {
       @include u-font('sans', 'lg');
-      @include u-text('light');
-    }
-    p{
-      @include u-margin(0);
-      @include u-margin-bottom(1);
-      @include u-font('sans', 'lg');
-      @include u-text('light');
-      @include u-text('white');
-    }
-    a{
-      @include u-text('no-underline');
-      @include u-text('gray-1');
-      @include u-text('blue-50v');
-      &:hover{
-        border-bottom: 3px #fc906d solid; // $violet-60v
-      }
     }
   }
 }
