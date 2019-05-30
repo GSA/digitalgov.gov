@@ -1,6 +1,9 @@
 .tag-line{
 	@include u-margin-y(3);
-	@include u-margin-top(9);
+	@include u-margin-top(6);
+	@include at-media('tablet') {
+		@include u-margin-top(9);
+	}
 	h3{
 		@include u-margin-y(0);
 		@include u-font('sans', '2xl');
