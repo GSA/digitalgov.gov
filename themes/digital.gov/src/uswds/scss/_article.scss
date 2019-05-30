@@ -1,7 +1,7 @@
 // Article
 
 main{
-	@include u-padding-y(0);
+	@include u-padding-y(3);
 	@include at-media('tablet') {
 		@include u-padding-y(6);
 	}
