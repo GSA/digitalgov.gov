@@ -16,8 +16,6 @@ header#header{
 		@include u-margin(0);
 		@include u-line-height('sans', 1);
 		@include u-display('block');
-		@include at-media('tablet-lg') {
-		}
 		img{
 			// width:182px;
 			@include u-width('card');

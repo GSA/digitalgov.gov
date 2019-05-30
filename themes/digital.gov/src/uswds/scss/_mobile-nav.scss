@@ -2,7 +2,6 @@
 
 .mobile-nav{
   @include u-bg('indigo-80');
-  @include u-padding-bottom(10);
   z-index: 1;
   position: fixed;
   top:0;
@@ -20,10 +19,9 @@
     width: 40%;
   }
   > header{
-    @include u-bg('indigo-90');
+    @include u-bg('indigo-warm-90');
     @include u-padding-x(3);
-    @include u-padding-top(5);
-    @include u-padding-bottom(4);
+    @include u-padding-y(3);
     @include u-flex('row');
     @include u-flex('justify-start');
     .logo{
@@ -40,15 +38,15 @@
       @include u-radius('sm');
       @include u-display('inline-block');
       @include u-font('sans', 'lg');
-      position: absolute;
-      top:0;
-      right: 0;
+      @include u-position('absolute');
+      @include u-top(0);
+      @include u-right(0);
     }
   }
 
   nav{
     @include u-margin-y(2);
-    @include u-bg('indigo-80');
+    @include u-bg('indigo-warm-80');
     @include u-text('gray-1');
     @include u-font('sans', 'md');
     h4{
@@ -70,17 +68,17 @@
           @include u-text('light');
           @include u-text('orange-warm-20v');
           @include u-text('no-underline');
-          @include u-font('sans', 'sm');
+          @include u-font('sans', 'md');
+          span{
+            @include u-text('light');
+          }
           &:hover{
             @include u-bg('indigo-80');
           }
-          // span:hover{
-          //   border-bottom: 3px #656bd7 solid;
-          // }
         }
       }
       li:last-child a{
-        border-bottom: none; // $indigo-60
+        @include u-border(0);
       }
     }
 
@@ -89,13 +87,13 @@
   .main_nav{
     @include u-bg('indigo-80');
     ul{
-      @include u-margin-y('105');
+      @include u-margin-y(1);
       li{
         a{
-          @include u-font('sans', 'md');
+          @include u-font('sans', 'lg');
           @include u-text('medium');
-          @include u-padding-y('105');
-          color:#fff;
+          @include u-padding-y(1);
+          @include u-text('white');
         }
       }
     }
