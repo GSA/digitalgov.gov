@@ -24,36 +24,63 @@ header#header{
 		}
 	}
 
-	#explore{
-		@include u-padding-x(2);
-		@include u-padding-y(1);
-		@include u-border('2px','solid','indigo-60v');
-		@include u-radius('sm');
-		@include u-text('no-underline');
-		@include u-font('sans', 'md');
-		@include u-text('semibold');
-		@include u-text('indigo-warm-60v');
-		@include at-media('desktop') {
+	.buttons{
+		@include u-display('flex');
+		@include u-flex('align-center');
+		a{
+			@include u-padding-x(1);
+			@include u-padding-y(1);
+			@include u-radius('md');
+			@include u-text('no-underline');
+			@include u-font('sans', 'sm');
+			@include u-line-height('sans', 1);
+			@include u-text('semibold');
+			@include u-text('center');
+			@include u-border('2px','solid','indigo-60v');
+			@include at-media('desktop') {
+				@include u-font('sans', 'md');
+			}
+		}
+		#explore{
+			@include u-text('indigo-warm-60v');
+			@include u-display('inline-block');
+			@include u-margin-left(1);
+			@include at-media('desktop') {
+				@include u-display('none');
+			}
+		}
+
+		.contribute{
+			@include u-bg('white');
+			@include u-text('indigo-60v');
 			@include u-display('none');
+			@include u-border(0);
+			&:hover{
+				@include u-bg('indigo-10');
+				span{
+					@include u-border-bottom('1px','solid','indigo-60v');
+				}
+			}
+
+			@include at-media('tablet') {
+				@include u-display('inline-block');
+			}
+			@include at-media('desktop') {
+				@include u-padding-x(2);
+				@include u-bg('indigo-60v');
+				@include u-text('white');
+				&:hover{
+					@include u-bg('indigo-70');
+					span{
+						@include u-border-bottom('1px','solid','indigo-10');
+					}
+				}
+			}
+
+
 		}
 	}
 
-	.contribute{
-		@include u-bg('indigo-60v');
-		@include u-text('white');
-		@include u-border(0);
-		@include u-padding-x(2);
-		@include u-padding-y(1);
-		@include u-radius('md');
-		@include u-text('semibold');
-		@include u-text('no-underline');
-		@include u-font('sans', 'md');
-		&:hover{
-			span{
-				@include u-border-bottom('2px','solid','white');
-			}
-		}
-	}
 
 	// Main Navigation
 	nav{
