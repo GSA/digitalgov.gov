@@ -6,6 +6,7 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12">
+
             <p class="breadcrumb"><a href="{{- "services/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Services</span> </a></p>
             {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
@@ -28,20 +29,23 @@
 
     <section>
       <div class="grid-container grid-container-desktop">
-        <div class="grid-row margin-y-2 grid-gap-6">
+        <div class="grid-row grid-gap-6">
 
-          <div class="grid-col-9">
+          <div class="grid-col-12 tablet:grid-col-9">
 
             {{/* Content */}}
             <div class="content">
               {{- .Content -}}
             </div>
 
-            {{- partial "core/feedback" (dict "page" . "page_type" "service" "branch" ($.Scratch.Get "branch")) -}}
+            {{- partial "core/feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 
-          <div class="grid-col-3">
+          <div class="grid-col-12 tablet:grid-col-3">
+
+            {{/* Table of contents */}}
+            {{- partial "core/toc" . -}}
 
             {{/* Last updated */}}
             {{/* {{- partial "last-updated" . -}}  */}}
@@ -50,10 +54,10 @@
             {{- partial "core/get_related" . -}}
 
             {{/* Topics */}}
-            {{- partial "core/get_topics" . -}}
+            {{/* {{- partial "core/get_topics" . -}} */}}
 
             {{/* Share Tools */}}
-            {{- partial "core/get_sharetools" . -}}
+            {{/* {{- partial "core/get_sharetools" . -}} */}}
 
           </div>
 
