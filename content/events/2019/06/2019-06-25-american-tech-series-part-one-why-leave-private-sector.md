@@ -15,6 +15,7 @@ registration_url: https://www.eventbrite.com/e/american-tech-series-part-one-why
 youtube_id: F8ynyjxNjEI
 
 ---
+[*View live captioning for this event*](https://www.captionedtext.com/client/event.aspx?EventID=4044360&CustomerID=321)
 
 **Why Leave the Private Sector?** Civic technologists bring new technologies into our government in service of the American people. Their job is about managing the process of technology change, and introducing the art of the possible to government leaders. Joining Davar Ardalan on American Tech are Presidential Innovation Fellows (PIF) Executive Director, Joshua Di Frances, Director of Workforce Solutions at Centers of Excellence (CoE), Nina Bianchi, and PIF Clarice Chan who is now working with Veterans Affairs’ Chief Technology Officer (CTO).
 
