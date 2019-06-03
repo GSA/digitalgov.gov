@@ -1,6 +1,11 @@
 {{- partial "core/set-env.html" . -}}
+{{ partialCached "core/head-comment.html" . }}
+
 <!DOCTYPE html>
-{{- partialCached "core/head-comment.html" . -}}
+
+{{ "<!--[if lt IE 9]><html class='lt-ie9'><![endif]-->" | safeHTML }}
+{{ "<!--[if gt IE 8]><!--><html lang='en'><!--<![endif]-->" | safeHTML }}
+
 {{- partial "core/head.html" . -}}
 
 <body class="{{- .Type }} {{ .Kind -}}">

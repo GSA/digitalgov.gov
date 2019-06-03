@@ -69,6 +69,13 @@ params:
   # number of events to include on the homepage
   events_count: 3
 
+  #base SEO keywords
+  keywords:
+    - digital
+    - government
+    - technology
+    - civic-tech
+
 
 relativeURLs: true
 refLinksNotFoundURL: https://digital.gov/resources/

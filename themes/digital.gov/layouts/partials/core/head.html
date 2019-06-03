@@ -2,29 +2,28 @@
 {{/* Featured_image call */}}
   {{- $cdnurl := .Site.Params.cdnurl -}}
   {{- $dg_filename := print "digitalgov-card-" (index (seq 3 | shuffle) 0) -}}
-  {{ $featImg := index $.Site.Data.images (default $dg_filename .Params.featured_image.uid) }}
-  {{ $featImgBase := $featImg.uid }}
-  {{ $featImgExt := $featImg.format }}
-  {{ $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase }}
-  {{ $featImgWidth := $featImg.width }}
-  {{ $featImgHeight := $featImg.height }}
-  {{ $.Scratch.Set "featImgSuffix" "" }}
-  {{ if gt $featImgWidth 1200 }}
-   {{ $.Scratch.Set "featImgSuffix" "_w1200" }}
-  {{ end }}
-  {{ if gt $featImgWidth 800 }}
-   {{ $.Scratch.Set "featImgTwitterSuffix" "_w800" }}
-  {{ end }}
-  {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
+  {{- $featImg := index $.Site.Data.images (default $dg_filename .Params.featured_image.uid) -}}
+  {{- $featImgBase := $featImg.uid -}}
+  {{- $featImgExt := $featImg.format -}}
+  {{- $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase -}}
+  {{- $featImgWidth := $featImg.width -}}
+  {{- $featImgHeight := $featImg.height -}}
+  {{- $.Scratch.Set "featImgSuffix" "" -}}
+  {{- if gt $featImgWidth 1200 -}}
+   {{- $.Scratch.Set "featImgSuffix" "_w1200" -}}
+  {{- end -}}
+  {{- if gt $featImgWidth 800 -}}
+   {{- $.Scratch.Set "featImgTwitterSuffix" "_w800" -}}
+  {{- end -}}
+  {{- $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt -}}
 {{/* End featured_image call */}}
-
 <!-- Logic for Page Types -->
 {{/* Get Page Type */}}
-{{ if .IsPage }}
-  {{ $.Scratch.Set "pagetype" "article" }}
-{{ else }}
-  {{ $.Scratch.Set "pagetype" "website" }}
-{{ end }}
+{{- if .IsPage -}}
+  {{- $.Scratch.Set "pagetype" "article" -}}
+{{- else -}}
+  {{- $.Scratch.Set "pagetype" "website" -}}
+{{- end -}}
 
 <html lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
 
@@ -42,39 +41,32 @@
   {{ "<!-- End Google Tag Manager -->" | safeHTML }}
 
   {{ "<!-- Page Title -->" | safeHTML }}
-  <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title | markdownify) }}</title>
+  <title>{{- $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title | markdownify) -}}</title>
 
   {{ "<!-- Meta Description -->" | safeHTML }}
   <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
-  {{ $sitetags := $.Site.Data.tag }}
-  {{ with $.Params.tag }}
-    {{ $_taxonomy := .}}
-    {{ $length := $_taxonomy | len }}
-
-  {{ "<!-- Meta Keywords -->" | safeHTML }}
-  <meta name="keywords" content='{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}'>
-  {{ end }}
+  <meta name="keywords" content="{{- if .Site.Params.keywords -}}{{ if .Params.topics -}}{{- delimit .Site.Params.keywords ", " ", " -}}, {{- delimit .Params.topics ", " -}}{{- else -}}{{- delimit .Site.Params.keywords ", " -}}{{- end -}}{{- end -}}" />
 
   {{ "<!-- Start of Facebook Open Graph -->" | safeHTML }}
-  <meta property="og:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
-  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
-  <meta property="og:type" content="{{ $.Scratch.Get "pagetype" }}">
-  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:title" content="{{- $.Params.title | default $.Site.Title | markdownify -}}" />
+  <meta property="og:description" content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}">
+  <meta property="og:type" content="{{- $.Scratch.Get "pagetype" -}}">
+  <meta property="og:url" content="{{- .Permalink -}}" />
   <meta property="og:site_name" content="Digital.gov">
   {{- if $featImgURL -}}<meta property="og:image" content="{{ $featImgURL }}" />{{- end -}}
   {{ if $.Params.youtube_id }}<meta property='og:video' content='https://www.youtube.com/v/{{ $.Params.youtube_id }}' />{{ end }}
   <meta property="fb:admins" content="100000569454928" />
   <meta property="article:publisher" content="https://www.facebook.com/digitalgov" />
-  {{- if $.Params.date -}}<meta property="article:published_time" content="{{ ($.Params.date).Format "2006-01-02T15:04:05" }}-0500" />{{- end -}}
+  {{- if $.Params.date -}}<meta property="article:published_time" content="{{ ($.Params.date).Format "2006-01-02T15:04:05" }}-0500" />{{- end }}
   {{ "<!-- End of Facebook Open Graph -->" | safeHTML }}
 
   {{ "<!-- Start of Twitter Card -->" | safeHTML }}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Digital_Gov" />
   <meta name="twitter:creator" content="@Digital_Gov" />
-  {{ if $featImgURL }}<meta name="twitter:image:src" content="{{ $featImgURL }}">{{ end }}
-  <meta property="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
-  <meta property="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}">
+  {{ if $featImgURL }}<meta name="twitter:image:src" content="{{- $featImgURL -}}">{{ end }}
+  <meta property="twitter:description" content="{{- $.Params.summary | default $.Site.Params.description | markdownify -}}">
+  <meta property="twitter:title" content="{{- $.Params.title | default $.Site.Title | markdownify -}}">
   {{ "<!-- End of Twitter -->" | safeHTML }}
 
   {{ "<!-- RSS Feed -->" | safeHTML }}
@@ -83,51 +75,50 @@
   {{- end }}
 
   {{ "<!-- JSON Feed -->" | safeHTML }}
-  <link href="{{ .Permalink }}index.json" rel="alternate" type="application/json" title="{{ .Site.Title }}" />
+  <link href="{{- .Permalink -}}index.json" rel="alternate" type="application/json" title="{{- .Site.Title -}}" />
 
   {{ "<!-- Sitemap-->" | safeHTML }}
-  <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
+  <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | absURL -}}" />
 
   <!-- Bing Validation -->
   <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
 
   {{ if $.Params.canonical -}}
   {{- "<!-- Canonical URL =============== -->" | safeHTML -}}
-  <link rel="canonical" href="{{ $.Params.canonical }}" />
+  <link rel="canonical" href="{{- $.Params.canonical -}}" />
   {{ end }}
 
   {{- if $.Params.redirectto -}}
   {{- "<!-- Redirect =============== -->" | safeHTML -}}
-  <meta http-equiv="refresh" content="0; url={{ $.Params.redirectto }}">
+  <meta http-equiv="refresh" content="0; url={{- $.Params.redirectto -}}">
   <script type="text/javascript">
-    window.location.href = "{{ $.Params.redirectto }}"
+    window.location.href = "{{- $.Params.redirectto -}}"
   </script>
   {{- end -}}
 
   {{- if $.Params.source_url -}}
   {{- "<!-- Redirect =============== -->" | safeHTML }}
-  <meta http-equiv="refresh" content="0; url={{ $.Params.source_url }}">
+  <meta http-equiv="refresh" content="0; url={{- $.Params.source_url -}}">
   <script type="text/javascript">
-    window.location.href = "{{ $.Params.source_url }}?dg"
+    window.location.href = "{{- $.Params.source_url -}}?dg"
   </script>
-  {{ end }}
-
+  {{- end -}}
 
   {{ "<!-- CSS -->" | safeHTML }}
-  {{/* <link rel="stylesheet" href='{{ "dist/styles.css" | absURL }}' type="text/css" media='all' /> */}}
+  {{/* <link rel="stylesheet" href='{{- "dist/styles.css" | absURL -}}' type="text/css" media='all' /> */}}
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-  <link rel="stylesheet" href='{{ "dist/styles.css" | absURL }}' type="text/css" media='all' />
+  <link rel="stylesheet" href='{{- "dist/styles.css" | absURL -}}' type="text/css" media='all' />
 
   {{ "<!-- jQuery | ver=1.12.4 -->" | safeHTML }}
-  <script type='text/javascript' src='{{ "js/jquery.js" | absURL }}'></script>
+  <script type='text/javascript' src='{{- "js/jquery.js" | absURL -}}'></script>
 
   {{ "<!-- Favicons & Icons -->" | safeHTML }}
-  <link rel="apple-touch-icon" sizes="180x180" href='{{ "img/icons/apple-touch-icon.png" | absURL }}'>
-  <link rel="icon" type="image/png" sizes="32x32" href='{{ "img/icons/favicon-32x32.png" | absURL }}'>
-  <link rel="icon" type="image/png" sizes="16x16" href='{{ "img/icons/favicon-16x16.png" | absURL }}'>
-  <link rel="manifest" href='{{ "img/icons/manifest.json" | absURL }}'>
-  <link rel="mask-icon" href='{{ "img/icons/safari-pinned-tab.svg" | absURL }}' color="#333333">
-  <link rel="shortcut icon" href='{{ "img/icons/favicon.ico" | absURL }}'>
+  <link rel="apple-touch-icon" sizes="180x180" href='{{- "img/icons/apple-touch-icon.png" | absURL -}}'>
+  <link rel="icon" type="image/png" sizes="32x32" href='{{- "img/icons/favicon-32x32.png" | absURL -}}'>
+  <link rel="icon" type="image/png" sizes="16x16" href='{{- "img/icons/favicon-16x16.png" | absURL -}}'>
+  <link rel="manifest" href='{{- "img/icons/manifest.json" | absURL -}}'>
+  <link rel="mask-icon" href='{{- "img/icons/safari-pinned-tab.svg" | absURL -}}' color="#333333">
+  <link rel="shortcut icon" href='{{- "img/icons/favicon.ico" | absURL -}}'>
   <meta name="msapplication-config" content='{{ "img/icons/browserconfig.xml" | absURL }}'>
   <meta name="theme-color" content="#ffffff">
 
@@ -147,15 +138,14 @@
   </script>
 
 
-  {{ if eq .Section "events" }}
+  {{- if eq .Section "events" -}}
   {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
   <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
-  {{ end }}
+  {{- end -}}
 
-  {{ range $.Params.css }}
-    {{ $path := (printf "css/%s" .) | absURL }}
-    <link rel="stylesheet" media="all" href="{{ $path }}" type="text/css"/>
-  {{ end }}
-
+  {{- range $.Params.css -}}
+    {{- $path := (printf "css/%s" .) | absURL -}}
+    <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
+  {{- end -}}
 
 </head>
