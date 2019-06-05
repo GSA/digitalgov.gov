@@ -19,7 +19,7 @@ To join, send an email to **[team@challenge.gov](mailto:team@challenge.gov)** wi
 
 ## Community Manager(s)
 
-Kelly Olson, Tammy White, Eric Beidel and Stephanie Green in the GSA
+Jarah Meador and Tammy White
 
 ## Who we are
 
