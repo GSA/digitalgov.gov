@@ -18,10 +18,9 @@ youtube_id: 5ORul6NslyE
 
 _[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4043837&CustomerID=321)_
 
+{{< img src="open-innovation-summit-lockup" >}}
 
 Join innovators from across the public and private sectors for an event designed to highlight the potentialities and impact of crowdsourcing through citizen science and prize competitions in the U.S. government.
-
-{{< img src="open-innovation-summit-lockup" >}}
 
 Speakers, panels, and interactive events will explore the use of these approaches to innovation, the opportunities and benefits they offer, and hurdles faced in integrating them into existing federal agency processes. This event will complement an upcoming crowdsourcing report to Congress that details how prize competitions and citizen science are transforming government.
 
