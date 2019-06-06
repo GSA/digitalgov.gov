@@ -14,10 +14,9 @@ event_organizer: DigitalGov University
 host: Federal Community of Practice for Crowdsourcing and Citizen Science (FedCCS), Challenges and Prizes Federal Community of Practice
 registration_url: https://www.eventbrite.com/e/us-government-open-innovation-summit-transformation-through-citizen-science-and-prizes-registration-61872290687
 youtube_id: 5ORul6NslyE
+# caption_url: https://www.captionedtext.com/client/event.aspx?EventID=4043837&CustomerID=321
 
 ---
-
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4043837&CustomerID=321)_
 
 {{< img src="open-innovation-summit-lockup" >}}
 
@@ -25,7 +24,11 @@ Join innovators from across the public and private sectors for an event designed
 
 Speakers, panels, and interactive events will explore the use of these approaches to innovation, the opportunities and benefits they offer, and hurdles faced in integrating them into existing federal agency processes. This event will complement an upcoming crowdsourcing report to Congress that details how prize competitions and citizen science are transforming government.
 
+---
+
 ## Event Agenda
+
+{{< box >}}
 
 **8:30 - 9:10 a.m.** - Registration and Arrivals
 
@@ -81,6 +84,8 @@ Speakers, panels, and interactive events will explore the use of these approache
 **2:45 - 3:00 p.m.** - Concluding Remarks
 
 **3:00 - 4:00 p.m.** - Open Networking
+
+{{< /box >}}
 
 ## Related links
 
