@@ -16,7 +16,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Join
 
-To join, send an email to: [devops-today-subscribe-request@listserv.gsa.gov](mailto:devops-today-subscribe-request@listserv.gsa.gov)
+To join, send an email from your official government email to: [devops-today-subscribe-request@listserv.gsa.gov](mailto:devops-today-subscribe-request@listserv.gsa.gov)
 
 ## What we do
 
