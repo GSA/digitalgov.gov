@@ -231,7 +231,7 @@ Special instructions: Participant will follow all security procedures stated and
 </div>
 
 **Ralph H. Metcalfe Federal Building** <br/>
-230 S Dearborn, Chicago, IL 60604 <br/>
+77 W Jackson Blvd, Chicago, IL 60604 <br/>
 [View map](https://goo.gl/maps/gysMhn5qAGq4HLJv8)<br/>
 Capacity: 27
 
