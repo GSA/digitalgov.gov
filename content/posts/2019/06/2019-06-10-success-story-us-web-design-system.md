@@ -16,7 +16,7 @@ source_url: "https://medium.com/codedotgov/success-story-the-u-s-web-design-syst
 source: codegov
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - code
   - design
   - user-experience
@@ -24,7 +24,7 @@ topics:
   - uswds
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - jeremyzilar
 
 # Make it better ♥
