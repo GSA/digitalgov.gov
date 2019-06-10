@@ -61,6 +61,8 @@ There are more than 10,000 people participating across government in 22 areas. O
 
 **[OpenGov]({{< link "open-gov.md" >}}):** A place where we talk about transparency, open-participation, and collaboration across agencies.<br/>[Learn&nbsp;more&nbsp;»]({{< link "open-gov.md" >}})
 
+**[Open Source]({{< link "open-source.md" >}}):** The federal government’s open source software community.<br/>[Learn&nbsp;more&nbsp;»]({{< link "open-source.md" >}})
+
 **[Plain Language Action and Information Network]({{< link "plain-language-community-of-practice.md" >}})**: Supporting the use of clear communication in government writing and helping federal agencies comply with the Plain Writing Act of 2010.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "plain-language-community-of-practice.md" >}})
 
