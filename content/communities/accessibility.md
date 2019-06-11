@@ -5,16 +5,11 @@ summary: 'We support people who are working to improve accessibility of informat
 topics:
   - accessibility
 
-weight: 2
-
-
 community_list:
   - platform: "listserv"
     subcribe_email: section.508@gsa.gov
     subcribe_email_subject: "Join: Accessibility / Section 508"
     members: 1351
-
-
 
 
 authors:
