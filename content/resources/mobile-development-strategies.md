@@ -3,9 +3,6 @@ slug: mobile-development-strategies
 date: 2018-10-09 12:30:00 -0500
 title: 'Mobile Development Strategies'
 summary: 'The following is a list of the most common mobile development strategies.'
-featured_image:
-  uid:
-type: guide
 deck:
 topics:
   - mobile
