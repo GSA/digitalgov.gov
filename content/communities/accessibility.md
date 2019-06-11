@@ -2,7 +2,9 @@
 url: /communities/accessibility/
 title: 'Accessibility / Section 508'
 summary: 'We support people who are working to improve accessibility of information technology.'
-weight: 0
+
+weight: 1
+
 topics:
   - accessibility
 
