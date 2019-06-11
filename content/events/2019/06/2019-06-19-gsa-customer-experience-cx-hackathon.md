@@ -171,7 +171,7 @@ Access the 2017 FRPP public data set:
 
 - Use our [Interactive map of Federal Real Property](https://frppmap.gsa.gov/frppmap/) (built with Esri’s [Web App Builder](https://doc.arcgis.com/en/web-appbuilder/))
 - Use the Geospatial Feature Service ([metadata and service](https://services1.arcgis.com/eBupDfPlEJK3mdAm/ArcGIS/rest/services/Master_View_2/FeatureServer/0)) ([map](http://www.arcgis.com/home/webmap/viewer.html?url=https://services1.arcgis.com/eBupDfPlEJK3mdAm/ArcGIS/rest/services/Master_View_2/FeatureServer/0&source=sd))
-- download the `.csv` files from [Civilian agencies - detailed asset level data](https://catalog.data.gov/dataset/federal-real-property-profile-data-for-civilian-agencies)
+- Download the `.csv` files from [Civilian agencies - detailed asset level data](https://catalog.data.gov/dataset/federal-real-property-profile-data-for-civilian-agencies)
 
 {{< /box >}}
 
