@@ -106,6 +106,126 @@ _A full schedule for the day will be posted in the coming weeks._
 
 Participants will be hacking on applications that are core to GSA operations. Your ideas will help these services to have a greater impact in government.
 
+You’ll be hacking on one of four GSA applications:
+
+{{< box >}}
+
+## GSA IT Service Desk
+
+**Description of the Challenge:**
+GSA’s implementation of the internal IT Service Desk is hosted by ServiceNow’s self-service portal. This application is not easily navigable or aesthetically appealing.  Overall, the customer experience is lackluster.  Users are reluctant to use the portal. Feedback indicates that users feel the service catalog items, request submission forms, and mechanisms for reporting IT issues are not intuitive.
+
+**Hopeful Outcome:**
+Our goal for the Hackathon is to receive recommendations from developers and designers that reflect a responsive, mobile-friendly, pixel-perfect user interface(s) to improve the customer’s experience in one or more of the challenge areas identified above.
+
+Solution should incorporate the following characteristics:
+
+- **Useful:** Content should be original and fulfill a need;
+- **Usable:** Site must be easy to use;
+- **Desirable:** Image, identity, brand, and other design elements are used to evoke emotion and appreciation;
+- **Findable:** Content needs to be navigable and locatable;
+- **Accessible:** Content needs to be accessible to people with disabilities; and
+- **Credible:** Users must trust and believe what you tell them
+
+Think outside of the box, the ServiceNow platform can do practically anything, use it for something we haven't seen before! Lastly, remember to have fun!
+
+**Skills Needed:**
+ServiceNow Developer tools, Java-script, AngularJS, Rest APIs
+
+**Datasets to Use/Need:**
+ServiceNow Developer Portal | [View](https://developer.servicenow.com/app.do#!/home)
+
+{{< /box >}}
+
+
+{{< box >}}
+
+## Federal Real Property Profile Management System (FRPP MS)
+
+**Description of the Challenge:**
+
+The FRPP Mapping Application is a map of the properties gathered through GSA Office of Governmentwide Policy's Federal Real Property Council. The award winning site is used by Congress, several federal agencies and the public and has extremely high visibility. The task is to make the 300000+ dataset that feeds the application easy to visualize and analyze on a map. This user guide has been prepared for assistance in using the map.
+
+The current application has been dubbed difficult to use for the following reasons:
+
+1. Tools on the map are not intuitive. The users is immediately faced with the map screen and given no instructions on how to access the data. Such tools include the Filter tools (above the left panel and the left panel itself of the map) and Layer Display tool (directly to the top right of the Filter tool). Please see image below for tools used in the FRPP map and the initial application view.
+2. Most of the map data cannot be displayed until a user is an appropriate degree of distance from the ground. This is a limitation purposely imposed to increase performance, however the user has nothing to communicate the situation. Please, see the images below for explanation. The left image is at the extent (or starting position) of the map the image on the right is at an appropriate distance from the ground to view data.
+3. The use of the Filter tool is confusing to users. On the below image on the left, you will see a query initiated on the Disposed View assets. The query doesn’t assist the user to build it, all data values are simply presented to the user to complete the Filter form. On the below image on the right, the user is not guided to how to perform the Spatial Query. They would need to make assumptions on the function’s behavior and/or learn to use it via trial and error.
+
+**Hopeful outcome:**
+Our goal for the hackathon is to receive visually appealing design recommendations to redesign the user interface of the FRPP map/application. We would hope the recommendations would be in the form of a web page with Javascript code accessing the underlying FRPP dataset so as to be easy to apply to the public facing application.
+
+**Skills needed:**
+ArcGIS Online, REST, JavaScript (Esri's JavaScript API) to interact with maps/map data via Esri’s components (developer can feel free to use a different mapping environment), Any web based scripting language for any other gui components.
+
+**Datasets to you'll need:**
+Access the 2017 FRPP public data set:
+
+- Use our [Interactive map of Federal Real Property](https://frppmap.gsa.gov/frppmap/) (built with Esri’s [Web App Builder](https://doc.arcgis.com/en/web-appbuilder/))
+- Use the Geospatial Feature Service ([metadata and service](https://services1.arcgis.com/eBupDfPlEJK3mdAm/ArcGIS/rest/services/Master_View_2/FeatureServer/0)) ([map](http://www.arcgis.com/home/webmap/viewer.html?url=https://services1.arcgis.com/eBupDfPlEJK3mdAm/ArcGIS/rest/services/Master_View_2/FeatureServer/0&source=sd))
+- download the `.csv` files from [Civilian agencies - detailed asset level data](https://catalog.data.gov/dataset/federal-real-property-profile-data-for-civilian-agencies)
+
+{{< /box >}}
+
+{{< box >}}
+
+## Acquisition Gateway
+
+**Description of the Challenge:**
+
+The Acquisition Gateway is the workbench for the federal acquisition professional. We provide market research tools, pricing data, federal acquisition best practices, and a way to connect with others in the federal acquisition space.  As part of the Hackathon, the Gateway is soliciting contestants to provide a "chatbot" or other automated response solution which efficiently answers user inquiries related to how to best utilize the Gateway and/or direct users to information/applications most useful to their query.  Contestants will be provided with sample queries/responses and relevant limitations/needs from our development team necessary to facilitate future integration with the Gateway platform.
+
+**Types of questions for the chatbot to answer:**
+
+- How do I do X on the Gateway?
+- What is available on the Gateway?
+
+**Chatbot parameters (must haves):**
+
+- Compatible with our Drupal/Angular/SOLr environment
+- Meets GSA security requirements
+- Presents a friendly, even quirky vibe yet also be professional (e.g. not Clippy)
+- Features a robust back end UI for managing questions and answers
+- Expandable - Looking forward it could support the FAS Digital Experience initiative or be repurposed in other ways
+
+**Chatbot Parameters (nice to haves, post MVP):**
+
+- Consistent with GSA/FAS Branding
+- Linked to NCSC/Salesforce to provide one source of common queries
+- GTM capable
+- Expandable into instant messaging within Community
+
+**Inspiration Example:**
+
+USCIS “Emma” Virtual Assistant (Thanks to Peter Nguyen for the suggestion)
+[https://www.uscis.gov/emma](https://www.uscis.gov/emma)
+
+**Hopeful Outcome:**
+Our goal for the hackathon is to have a working prototype or MVP chatbot/automated response solution based on open source software and capable of being incorporated into the Gateway Platform.
+
+**Skills Needed:**
+Knowledge of open source “chatbot” technologies
+
+**Potentially helpful** - Drupal, Angular JS, Angular 7, SOLr
+
+{{< /box >}}
+
+{{< box >}}
+
+## HRLinks
+
+**Description of the Challenge:**
+
+HRLinks is a Human Resources Management System that supports the General Services Administration (GSA), the Office of Personnel Management (OPM), National Credit Union Administration(NCUA), RailRoad Retirement Board (RRB) and numerous Federal Boards and Commissions. The system is COTS based PeopleSoft with very little customization. GSA is looking for improvements to the navigation and User Interface to the HRLinks environment.
+
+**Hopeful Outcome:**
+Our goal for the hackathon is to obtain a wireframe or working prototype of proposed  improvements to the navigation and User Interface for an internal process.
+
+**Skills Needed:**
+The current system is built in PeopleSoft. Due to the nature of the environment we are unable to release code. Instead we will be providing a quick demo and screenshots of the processes we hope to improve. The participant can use any tools at their disposal to produce a wireframe or working prototype in order to show Ui/UX improvements.
+
+{{< /box >}}
+
 ## Cash Awards
 
 GSA anticipates awarding four cash prizes, for a $20,000 total prize purse: four application-specific teams will be selected in the first round of judging to be eligible for a cash prize of $2,500 and move onto Round 2 judging. Of those, one solution will then be selected in Round 2 judging, and a $10,000 grand prize will be awarded that team, for a total of $12,500. Team application projects will be evaluated in accordance with the judging criteria outlined below.
