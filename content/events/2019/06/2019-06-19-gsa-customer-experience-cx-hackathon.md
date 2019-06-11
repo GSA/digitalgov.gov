@@ -110,7 +110,7 @@ You’ll be hacking on one of four GSA applications:
 
 {{< box >}}
 
-## GSA IT Service Desk
+## 1: GSA IT Service Desk
 
 **Description of the Challenge:**
 GSA’s implementation of the internal IT Service Desk is hosted by ServiceNow’s self-service portal. This application is not easily navigable or aesthetically appealing.  Overall, the customer experience is lackluster.  Users are reluctant to use the portal. Feedback indicates that users feel the service catalog items, request submission forms, and mechanisms for reporting IT issues are not intuitive.
@@ -140,7 +140,7 @@ ServiceNow Developer Portal | [View](https://developer.servicenow.com/app.do#!/h
 
 {{< box >}}
 
-## Federal Real Property Profile Management System (FRPP MS)
+## 2: Federal Real Property Profile Management System (FRPP MS)
 
 **Description of the Challenge:**
 
@@ -148,9 +148,17 @@ The FRPP Mapping Application is a map of the properties gathered through GSA Off
 
 The current application has been dubbed difficult to use for the following reasons:
 
-1. Tools on the map are not intuitive. The users is immediately faced with the map screen and given no instructions on how to access the data. Such tools include the Filter tools (above the left panel and the left panel itself of the map) and Layer Display tool (directly to the top right of the Filter tool). Please see image below for tools used in the FRPP map and the initial application view.
-2. Most of the map data cannot be displayed until a user is an appropriate degree of distance from the ground. This is a limitation purposely imposed to increase performance, however the user has nothing to communicate the situation. Please, see the images below for explanation. The left image is at the extent (or starting position) of the map the image on the right is at an appropriate distance from the ground to view data.
-3. The use of the Filter tool is confusing to users. On the below image on the left, you will see a query initiated on the Disposed View assets. The query doesn’t assist the user to build it, all data values are simply presented to the user to complete the Filter form. On the below image on the right, the user is not guided to how to perform the Spatial Query. They would need to make assumptions on the function’s behavior and/or learn to use it via trial and error.
+**1** — Tools on the map are not intuitive. The users are immediately faced with the map screen and given no instructions on how to access the data. Such tools include the Filter tools (above the left panel and the left panel itself of the map) and Layer Display tool (directly to the top right of the Filter tool). Please see image below for tools used in the FRPP map and the initial application view.
+
+{{< img src="esri-screenshot-1" >}}
+
+**2** — Most of the map data cannot be displayed until a user is an appropriate degree of distance from the ground. This is a limitation purposely imposed to increase performance, however the user has nothing to communicate the situation. Please, see the images below for explanation. The left image is at the extent (or starting position) of the map the image on the right is at an appropriate distance from the ground to view data.
+
+{{< img src="esri-screenshot-2" >}}
+
+**3** — The use of the Filter tool is confusing to users. On the below image on the left, you will see a query initiated on the Disposed View assets. The query doesn’t assist the user to build it, all data values are simply presented to the user to complete the Filter form. On the below image on the right, the user is not guided to how to perform the Spatial Query. They would need to make assumptions on the function’s behavior and/or learn to use it via trial and error.
+
+{{< img src="esri-screenshot-3" >}}
 
 **Hopeful outcome:**
 Our goal for the hackathon is to receive visually appealing design recommendations to redesign the user interface of the FRPP map/application. We would hope the recommendations would be in the form of a web page with Javascript code accessing the underlying FRPP dataset so as to be easy to apply to the public facing application.
@@ -169,7 +177,7 @@ Access the 2017 FRPP public data set:
 
 {{< box >}}
 
-## Acquisition Gateway
+## 3: Acquisition Gateway
 
 **Description of the Challenge:**
 
@@ -212,7 +220,7 @@ Knowledge of open source “chatbot” technologies
 
 {{< box >}}
 
-## HRLinks
+## 4: HRLinks
 
 **Description of the Challenge:**
 
