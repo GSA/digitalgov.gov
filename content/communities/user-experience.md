@@ -9,11 +9,11 @@ topics:
   - user-experience
 aliases:
   - /federal-user-experience-community-of-practice/
-
+weight: 1
 community_list:
   - platform: "listserv"
     subscribe_email: ux-cop-request@listserv.gsa.gov
-    subcribe_email_subject: "Join UX Community"
+    subscribe_email_subject: "Join UX Community"
     members: 1180
     emails_per_week: 9.55
 

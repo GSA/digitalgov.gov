@@ -8,16 +8,16 @@ topics:
   - open-source
 aliases:
   - /communities/open-government-opengov-community-of-practice/
-
+weight: 1
 community_list:
   - platform: "google-group"
     type: "Public"
-    subcribe_form: "https://groups.google.com/forum/#!forum/us-open-government"
+    subscribe_form: "https://groups.google.com/forum/#!forum/us-open-government"
     terms: "Anyone is welcome to join."
   - platform: "listserv"
     type: "Government only"
-    subcribe_email: opengov-subscribe-request@listserv.gsa.gov
-    subcribe_email_subject: "Join: OpenGov"
+    subscribe_email: opengov-subscribe-request@listserv.gsa.gov
+    subscribe_email_subject: "Join: OpenGov"
 
 ---
 

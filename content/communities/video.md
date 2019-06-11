@@ -3,7 +3,7 @@ url: /communities/video-production/
 date: 2016-07-08 1:19:06 -0400
 title: 'Video Production Pros'
 summary: 'Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government.'
-
+weight: 1
 topics:
   - video
   - audio
@@ -14,7 +14,7 @@ aliases:
 community_list:
   - platform: "listserv"
     subscribe_email: Kevin.Spivey@cfpb.gov
-    subcribe_email_subject: "Join Video Production Pros"
+    subscribe_email_subject: "Join Video Production Pros"
     members: 398
     emails_per_week: 5.94
 

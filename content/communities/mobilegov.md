@@ -5,15 +5,15 @@ date: 2013-11-21 3:30:19 -0400
 title: 'MobileGov'
 summary: 'We work across agencies to implement government-wide solutions for making mobile technologies better.'
 
-weight: 2
 
+weight: 1
 topics:
   - mobile
 
 community_list:
   - platform: "listserv"
-    subcribe_email: mobilegov-request@listserv.gsa.gov
-    subcribe_email_subject: "Subscribe to MobileGov"
+    subscribe_email: mobilegov-request@listserv.gsa.gov
+    subscribe_email_subject: "Subscribe to MobileGov"
     members: 1129
     emails_per_week: 2.62
 

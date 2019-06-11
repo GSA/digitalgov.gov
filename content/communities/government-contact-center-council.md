@@ -7,13 +7,13 @@ summary: 'We are an inter-agency group of contact center directors and managers 
 aliases:
   - /government-contact-center-council-g3c/
 
-weight: 2
+weight: 1
 
 community_list:
   - platform: "listserv"
-    subcribe_email: tim.cossairt@tsa.dhs.gov
-    subcribe_email_subject: "Join G3C"
-    subcribe_email_body: "your name, agency, title, telephone number and email"
+    subscribe_email: tim.cossairt@tsa.dhs.gov
+    subscribe_email_subject: "Join G3C"
+    subscribe_email_body: "your name, agency, title, telephone number and email"
     members: 326
     emails_per_week: .69
 

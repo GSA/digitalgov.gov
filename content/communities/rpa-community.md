@@ -6,8 +6,8 @@ summary: We are a group who is working to accelearate robotic process automation
 
 community_list:
   - platform: "listserv"
-    subcribe_email: FedRPA-subscribe-request@listserv.gsa.gov
-
+    subscribe_email: FedRPA-subscribe-request@listserv.gsa.gov
+weight: 1
 ---
 
 The robotic process automation (RPA) community of practice exists to bring together federal agencies that are interested in implementing RPA into their respective agencies. The CoP will share information and resources on the RPA process, collaborate and problem solve. This CoP is organized and coordinated by the General Services Administration (GSA).

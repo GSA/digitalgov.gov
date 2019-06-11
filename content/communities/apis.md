@@ -5,7 +5,7 @@ title: 'APIs'
 summary: 'Working to advance the cause of APIs in the federal government'
 deck: 'Working to advance the cause of APIs in the federal government'
 
-weight: 2
+weight: 1
 
 topics:
   - apis
@@ -14,10 +14,10 @@ topics:
 
 community_list:
   - platform: "google-group"
-    subcribe_email: listserv@listserv.gsa.gov
-    subcribe_email_subject: "Join: Accessibility / Section 508"
-    subcribe_email_body: "subscribe agile-lean-cop"
-    subcribe_form: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
+    subscribe_email: listserv@listserv.gsa.gov
+    subscribe_email_subject: "Join: Accessibility / Section 508"
+    subscribe_email_body: "subscribe agile-lean-cop"
+    subscribe_form: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
     terms: "This community is open to anyone."
     members: 1351
 

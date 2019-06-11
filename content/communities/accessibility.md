@@ -2,15 +2,15 @@
 url: /communities/accessibility/
 title: 'Accessibility / Section 508'
 summary: 'We support people who are working to improve accessibility of information technology.'
+weight: 0
 topics:
   - accessibility
 
 community_list:
   - platform: "listserv"
-    subcribe_email: section.508@gsa.gov
-    subcribe_email_subject: "Join: Accessibility / Section 508"
+    subscribe_email: section.508@gsa.gov
+    subscribe_email_subject: "Join: Accessibility / Section 508"
     members: 1351
-
 
 authors:
   - john-sullivan

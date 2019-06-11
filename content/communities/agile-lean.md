@@ -4,7 +4,7 @@ date: 2017-09-04 15:45:00 -0400
 title: 'Agile/Lean'
 summary: 'Supporting people working with agile/lean methodologies and those who would like to learn more.'
 
-weight: 2
+weight: 1
 
 topics:
   - agile
@@ -15,9 +15,9 @@ aliases:
 
 community_list:
   - platform: "listserv"
-    subcribe_email: listserv@listserv.gsa.gov
-    subcribe_email_subject: "Join: Accessibility / Section 508"
-    subcribe_email_body: "subscribe agile-lean-cop"
+    subscribe_email: listserv@listserv.gsa.gov
+    subscribe_email_subject: "Join: Accessibility / Section 508"
+    subscribe_email_body: "subscribe agile-lean-cop"
     members: 466
     emails_per_week: 1.58
 

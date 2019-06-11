@@ -7,7 +7,7 @@ summary: 'We work on improving the creation, adoption and evaluation of social e
 members: 991
 emails_per_week: 9.0
 
-weight: 2
+weight: 1
 
 topics:
   - social-media
@@ -16,7 +16,7 @@ topics:
 community_list:
   - platform: "listserv"
     subscribe_email: SM-COP-subscribe-request@listserv.gsa.gov
-    subcribe_email_subject: "Join #SocialGov"
+    subscribe_email_subject: "Join #SocialGov"
     members: 991
     emails_per_week: 8.1
 

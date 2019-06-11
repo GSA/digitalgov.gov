@@ -8,7 +8,7 @@ topics:
   - content-strategy
   - analytics
   - project-management
-
+weight: 1
 aliases:
   - /communities/web-managers-forum/
   - /communities/web-managers-forum/web-content-managers-listserv/
@@ -16,8 +16,8 @@ aliases:
 community_list:
   - platform: "listserv"
     subscribe_email: alycia.piazza@gsa.gov
-    subcribe_email_subject: "Join Web Content Managers"
-    subcribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
+    subscribe_email_subject: "Join Web Content Managers"
+    subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
     members: 1910
     emails_per_week: 4.0
 

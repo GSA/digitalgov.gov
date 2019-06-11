@@ -5,7 +5,7 @@ date: 2015-07-08 10:30:37 -0400
 title: 'Customer Experience'
 summary: 'We are an interagency group of customer experience practitioners.'
 
-weight: 2
+weight: 1
 
 topics:
   - cx
@@ -14,9 +14,9 @@ aliases:
 
 community_list:
   - platform: "listserv"
-    subcribe_email: annabel.berman@gsa.gov
-    subcribe_email_subject: "Join: CX"
-    subcribe_form: "https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform"
+    subscribe_email: annabel.berman@gsa.gov
+    subscribe_email_subject: "Join: CX"
+    subscribe_form: "https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform"
     members: 782
 
 ---
