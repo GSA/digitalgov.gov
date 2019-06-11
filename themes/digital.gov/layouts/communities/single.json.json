@@ -89,23 +89,32 @@
         "community_list" : {
 
           {{- $community_lists := .Params.community_list -}}
+          {{- $length := $community_lists | len -}}
+          {{- $.Scratch.Set "count" 1 -}}
           {{/* For each of the $community_lists,... */}}
           {{- range $index, $list := $community_lists -}}
-            {{- $length := $list | len -}}
-            {{- $.Scratch.Set "count" 1 -}}
-            "list" : {
-            {{- range $i, $e := $list -}}
-              {{- with $e -}}
-                {{- $count := $.Scratch.Get "count" -}}
-                {{- if eq $count $length -}}
-                  "{{- $i -}}" : "{{- $e -}}"
-                {{- else -}}
-                  "{{- $i -}}" : "{{- $e -}}",
+            {{/* If there is a list... */}}
+            {{- with $list -}}
+              {{/* get the count */}}
+              {{- $count := $.Scratch.Get "count" -}}
+              "list_{{ $count }}" : {
+              {{/* number of lists */}}
+              {{- $sub_length := $list | len -}}
+
+              {{- $.Scratch.Set "sub_count" 1 -}}
+              {{- range $i, $e := $list -}}
+                {{- with $e -}}
+                  {{- $sub_count := $.Scratch.Get "sub_count" -}}
+                  {{- if eq $sub_count $sub_length -}}
+                    "{{- $i -}}" : "{{- $e -}}"
+                  {{- else -}}
+                    "{{- $i -}}" : "{{- $e -}}",
+                  {{- end -}}
+                  {{- $.Scratch.Add "sub_count" 1 -}}
                 {{- end -}}
-                {{- $.Scratch.Set "count" (add $count 1) -}}
               {{- end -}}
+              }{{- if eq $count $length -}}{{- else -}},{{- end -}}{{- $.Scratch.Add "count" 1 -}}
             {{- end -}}
-            },
           {{- end -}}
         },
       {{- end -}}
