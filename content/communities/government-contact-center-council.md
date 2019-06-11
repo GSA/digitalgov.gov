@@ -1,21 +1,22 @@
 ---
 url: /communities/government-contact-center-council/
-uid: government-contact-center-council
 date: 2013-11-21 3:28:02 -0400
 title: 'Government Contact Center Council (G3C)'
 summary: 'We are an inter-agency group of contact center directors and managers with over 200 members across 55 federal, state and local government agencies.'
-members: 326
-emails_per_week: .69
+
 aliases:
   - /government-contact-center-council-g3c/
 
 weight: 2
 
 community_list:
-  - type: "listserv"
-    subscribe_email: tim.cossairt@tsa.dhs.gov
-    subject: "Join G3C"
-    body: "your name, agency, title, telephone number and email"
+  - platform: "listserv"
+    subcribe_email: tim.cossairt@tsa.dhs.gov
+    subcribe_email_subject: "Join G3C"
+    subcribe_email_body: "your name, agency, title, telephone number and email"
+    members: 326
+    emails_per_week: .69
+
 ---
 
 The Government Contact Center Council (G3C) is an organization of contact center leaders from local, state and federal agencies focusing on delivering exceptional customer/citizen experiences.

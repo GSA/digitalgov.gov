@@ -1,12 +1,11 @@
 ---
 url: /communities/open-data/
-uid: open-data
 date: 2015-07-08 10:30:37 -0400
 title: 'Open Data'
 summary: 'A community listserv and working group that unites 900 open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues.'
-members: 878
+
 weight: 2
-emails_per_week: 1
+
 topics:
   - data
   - open-data
@@ -14,10 +13,13 @@ aliases:
   - /communities/open-data-community-of-practice/
 
 community_list:
-  - type: "listserv"
-    subscribe_email: listserv@listserv.gsa.gov
-    subject: "subscribe Open Data"
-community_managers:
+  - platform: "listserv"
+    subcribe_email: listserv@listserv.gsa.gov
+    subcribe_email_subject: "Subscribe Open Data"
+    members: 878
+    emails_per_week: 1
+
+authors:
   - pashlock
   - hyon-kim
 ---

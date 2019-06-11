@@ -11,17 +11,15 @@ topics:
   - mobile
 
 community_list:
-  - type: "listserv"
-    subscribe_email: mobilegov-request@listserv.gsa.gov
-    email: MOBILEGOV@listserv.gsa.gov
-    subject: "Subscribe to MobileGov"
+  - platform: "listserv"
+    subcribe_email: mobilegov-request@listserv.gsa.gov
+    subcribe_email_subject: "Subscribe to MobileGov"
+    members: 1129
+    emails_per_week: 2.62
 
-community_managers:
+authors:
   - jparcell
   - david-fern
-
-members: 1129
-emails_per_week: 2.62
 
 ---
 

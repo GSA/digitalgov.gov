@@ -1,26 +1,27 @@
 ---
 url: /communities/agile-lean/
-uid: agile-lean
 date: 2017-09-04 15:45:00 -0400
 title: 'Agile/Lean'
 summary: 'Supporting people working with agile/lean methodologies and those who would like to learn more.'
-members: 466
-emails_per_week: 1.58
 
 weight: 2
 
 topics:
   - agile
   - product-management
-  
+
 aliases:
   - /agile-lean-community-of-practice/
 
 community_list:
-  - type: "listserv"
-    subscribe_email: listserv@listserv.gsa.gov
-    body: "subscribe agile-lean-cop"
-community_managers:
+  - platform: "listserv"
+    subcribe_email: listserv@listserv.gsa.gov
+    subcribe_email_subject: "Join: Accessibility / Section 508"
+    subcribe_email_body: "subscribe agile-lean-cop"
+    members: 466
+    emails_per_week: 1.58
+
+authors:
   - logan-powell
   - bbrantley
 

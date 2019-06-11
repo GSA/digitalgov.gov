@@ -1,5 +1,5 @@
 {{- $uswds_img_path := "lib/uswds/img" -}}
-<div class="usa-banner bg-primary-darker">
+<div class="usa-banner">
   <div class="usa-accordion">
     <header class="usa-banner__header">
       <div class="usa-banner__inner grid-container-widescreen">
@@ -9,17 +9,17 @@
           {{- $path := (replace $path "//" "/") | relURL -}}
           <img class="usa-banner__header-flag" src="{{- $path -}}" alt="U.S. flag">
         </div>
-        <div class="grid-col-fill tablet:grid-col-auto text-base-lightest text-center">
+        <div class="grid-col-fill tablet:grid-col-auto text-center">
           <p class="usa-banner__header-text">An official website of the United States government</p>
           <p class="usa-banner__header-action text-white" aria-hidden="true">Here’s how you know</p>
         </div>
         <button class="usa-accordion__button usa-banner__button"
           aria-expanded="false" aria-controls="gov-banner">
-          <span class="usa-banner__button-text text-base-lightest">Here’s how you know</span>
+          <span class="usa-banner__button-text">Here’s how you know</span>
         </button>
       </div>
     </header>
-    <div class="usa-banner__content usa-accordion__content text-base-lightest" id="gov-banner">
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner">
       <div class="grid-row grid-gap-lg">
         <div class="usa-banner__guidance tablet:grid-col-6">
           {{- $uswds_asset := "icon-dot-gov.svg" -}}

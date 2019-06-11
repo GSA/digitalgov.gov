@@ -1,6 +1,5 @@
 ---
 url: /communities/multilingual/
-uid: multilingual
 date: 2014-02-21 4:58:10 -0400
 title: "Multilingual "
 summary: 'We are working to expand and improve digital content in languages other than English.'
@@ -13,18 +12,18 @@ topics:
 aliases:
   - /government-multilingual-websites-community/
 
-# Community Information
-
 community_list:
-  - type: "listserv"
-    subscribe_email: laura.godfrey@gsa.gov
-    subject: "Join: Multilingual"
+  - platform: "listserv"
+    subcribe_email: laura.godfrey@gsa.gov
+    subcribe_email_subject: "Join: Multilingual"
+    subcribe_form: "https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ"
     terms: "All government employees (federal, state, local, tribal) or contractors with a .gov or .mil email address are eligible to join."
-    form: "https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ"
-community_managers:
+    members: 225
+    emails_per_week: 1.33
+
+authors:
   - lgodfrey
-members: 225
-emails_per_week: 1.33
+
 ---
 
 We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.

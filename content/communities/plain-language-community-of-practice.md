@@ -1,12 +1,8 @@
 ---
 url: /communities/plain-language/
-uid: plain-language
 date: 2016-02-03 10:58:53 -0400
 title: 'Plain Language'
 summary: 'Our goal is to promote the use of plain language for all government communications.'
-members: 961
-emails_per_week: 1.1
-weight: 2
 topics:
   - plainlanguage
 aliases:
@@ -18,10 +14,13 @@ topics:
   - writing
 
 community_list:
-  - type: "listserv"
-    form: https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN
+  - platform: "listserv"
+    subcribe_form: "https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN"
     terms: "*You'll need to [register for an account](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1=SUBED1%3DPL-COP-MAIN&X=&Y=) before filling out our form. Anyone with a .gov or .mil email address is eligible to join."
-community_managers:
+    members: 961
+    emails_per_week: 1.1
+
+authors:
   - katherine-spivey
 ---
 

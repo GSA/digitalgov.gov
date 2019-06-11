@@ -1,6 +1,5 @@
 ---
 url: /communities/crowdsourcing-and-citizen-science/
-uid: crowdsourcing-and-citizen-science
 date: 2015-09-29 2:17:02 -0400
 title: 'Crowdsourcing and Citizen Science'
 summary: 'We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.'
@@ -16,11 +15,12 @@ aliases:
   - /communities/federal-crowdsourcing-and-citizen-science/
 
 community_list:
-  - type: "listserv"
-    subscribe_email: listserv@listserv.gsa.gov
-    subject: "subscribe FCPCCS"
-members: 380
-emails_per_week: 4.0
+  - platform: "listserv"
+    subcribe_email: listserv@listserv.gsa.gov
+    subcribe_email_subject: "subscribe FCPCCS"
+    subcribe_email_body: "enter your name + agency you work for"
+    members: 380
+    emails_per_week: 4.0
 
 ---
 
