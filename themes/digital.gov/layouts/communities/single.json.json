@@ -130,6 +130,26 @@
       "source_url" : "{{- .Params.source_url -}}",
       {{- end -}}
       "url" : "{{- .Permalink -}}",
+      {{- if .Params.aliases -}}
+      "aliases" : {
+        {{- $aliaslen := .Params.aliases | len -}}
+        {{- $.Scratch.Set "aliascount" 1 -}}
+        {{- range $i, $e := .Params.aliases -}}
+          {{- with $e -}}
+            {{- $aliascount := $.Scratch.Get "aliascount" -}}
+            {{- if eq $aliascount $aliaslen -}}
+              "{{- $i -}}" : "{{- $e -}}"
+            {{- else -}}
+              "{{- $i -}}" : "{{- $e -}}",
+            {{- end -}}
+            {{- $.Scratch.Add "aliascount" 1 -}}
+          {{- end -}}
+        {{- end -}}
+      },
+      {{- end -}}
+      {{- if .Params.weight -}}
+      "weight" : "{{- .Params.weight -}}",
+      {{- end -}}
       "content" : {{- .Content | jsonify -}}
     }
   ]
