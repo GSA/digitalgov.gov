@@ -97,6 +97,9 @@
       "source_url" : "{{- .Params.source_url -}}",
       {{- end -}}
       "url" : "{{- .Permalink -}}",
+      {{- if .Params.weight -}}
+      "weight" : "{{- .Params.weight -}}",
+      {{- end -}}
       "content" : {{- .Content | jsonify -}}
     }
   ]

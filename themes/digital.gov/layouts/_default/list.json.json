@@ -101,6 +101,9 @@
         {{- if .Params.source_url -}}
         "source_url" : "{{- .Params.source_url -}}",
         {{- end -}}
+        {{- if .Params.weight -}}
+        "weight" : "{{- .Params.weight -}}",
+        {{- end -}}
         "url" : "{{- .Permalink -}}"
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}

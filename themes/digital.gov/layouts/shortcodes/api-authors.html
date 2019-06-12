@@ -75,6 +75,9 @@
         "filepath" : {{ $author.File.Path | jsonify }},
         "filepathURL" : {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $author.File.Path | jsonify }},
         "editpathURL" : {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $author.File.Path | jsonify }},
+        {{- if $author.Params.weight -}}
+        "weight" : "{{- $author.Params.weight -}}",
+        {{- end -}}
         "url" : "{{- .Permalink -}}"
       }{{- $.Scratch.Add "i" 1 -}}
       {{- $iterator := $.Scratch.Get "i" -}}
