@@ -186,6 +186,10 @@
     @include u-margin-y('205');
     @include u-margin-left(2);
     @include u-float('right');
+    @include u-width('card');
+    @include at-media('tablet') {
+			@include u-width('full');
+		}
   }
 
 }
