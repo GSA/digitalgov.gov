@@ -1,21 +1,20 @@
 ---
 url: /communities/results-oriented-accountability-for-grants/
-uid: results-oriented-accountability-for-grants
 date: 2018-05-31 12:00:00 -0400
 title: 'Results-Oriented Accountability for Grants'
 summary: "Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal."
-members: 108
-emails_per_week: .5
-weight: 2
+weight: 1
 community_list:
-  - type: "listserv"
-    name: "Federal Members"
+  - platform: "listserv"
+    type: "government only"
     subscribe_email: grantsfed-subscribe-request@listserv.gsa.gov
-    subject: "Federal Join: Results-Oriented Accountability for Grants Community of Practice"
-  - type: "listserv"
-    name: "Non-federal Members"
+    subscribe_email_subject: "Federal Join: Results-Oriented Accountability for Grants Community of Practice"
+    members: 108
+    emails_per_week: .3
+  - platform: "listserv"
+    type: "public"
     subscribe_email: grantscommunity-subscribe-request@listserv.gsa.gov
-    subject: "Non-Federal Join: Results-Oriented Accountability for Grants Community of Practice"
+    subscribe_email_subject: "Non-Federal Join: Results-Oriented Accountability for Grants Community of Practice"
     terms: "Anyone is welcome to join"
 
 ---

@@ -1,26 +1,26 @@
 ---
 url: /communities/web-content-managers/
-uid: web-content-managers
 date: 2013-11-21 3:31:31 -0400
 title: 'Web Content Managers'
 summary: 'The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites.'
-weight: 2
 topics:
   - product-management
   - content-strategy
   - analytics
   - project-management
+weight: 1
 aliases:
   - /communities/web-managers-forum/
   - /communities/web-managers-forum/web-content-managers-listserv/
 
 community_list:
-  - type: "listserv"
+  - platform: "listserv"
     subscribe_email: alycia.piazza@gsa.gov
-    subject: "Join Web Content Managers"
-    form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
-members: 1910
-emails_per_week: 4.0
+    subscribe_email_subject: "Join Web Content Managers"
+    subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
+    members: 1910
+    emails_per_week: 4.0
+
 ---
 
 

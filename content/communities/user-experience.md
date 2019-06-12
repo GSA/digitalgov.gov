@@ -4,18 +4,19 @@ uid: user-experience
 date: 2014-01-13 2:35:36 -0400
 title: 'User Experience'
 summary: "Join other federal user experience practitioners and learn how to make better user-centered products."
-members: 1180
-emails_per_week: 9.55
-weight: 2
+
 topics:
   - user-experience
 aliases:
   - /federal-user-experience-community-of-practice/
-
+weight: 1
 community_list:
-  - type: "listserv"
+  - platform: "listserv"
     subscribe_email: ux-cop-request@listserv.gsa.gov
-    subject: "Join UX Community"
+    subscribe_email_subject: "Join UX Community"
+    members: 1180
+    emails_per_week: 9.55
+
 ---
 
 Join other federal user experience practitioners and learn how to make better user-centered products.

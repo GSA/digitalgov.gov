@@ -26,48 +26,52 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row grid-gap-4">
           <div class="grid-col-12 tablet-lg:grid-col-4">
+
             {{ if .Params.community_list }}
             <section class="community-info {{ .Params.community_type -}}">
 
               {{ range $i, $e := .Params.community_list }}
                 <div class="join-box">
 
-                  {{- if $e.name -}}
-                  <h3>{{- $e.name -}}</h3>
+                  <!-- Type of list — public or government only -->
+                  {{- if $e.type -}}
+                  <h3>{{- $e.type -}}</h3>
                   {{- end -}}
 
-                  {{- if and (eq $e.type "listserv") (not $e.form ) -}}
+                  <!-- Listserv Platforms without form sign-up option -->
+                  {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
                     <a href="mailto:{{- $e.subscribe_email -}}
-                    {{- if $e.subject -}}
-                      ?subject={{- $e.subject -}}
-                      {{- if $e.body -}}
-                        &body={{- $e.body -}}
+                    {{- if $e.subscribe_subject -}}
+                      ?subject={{- $e.subscribe_subject -}}
+                      {{- if $e.subscribe_body -}}
+                        &body={{- $e.subscribe_body -}}
                       {{- end -}}
                     {{- else -}}
-                      {{- if $e.body -}}
-                        ?body={{- $e.body -}}
+                      {{- if $e.subscribe_body -}}
+                        ?body={{- $e.subscribe_body -}}
                       {{- end -}}
-                    {{- end -}}" class="join"><i class="fas fa-envelope"></i> Join by email</a>
+                    {{- end -}}" class="join type-{{- $e.platform -}}"><i class="fas fa-envelope"></i> Join by email</a>
 
-                    <p>To join, email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subject }} <code>{{ $e.subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.body }} and <code>{{ $e.body }}</code> in the body{{- end -}}.</p>
+                    <p>To join, email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_subject }} <code>{{ $e.subscribe_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_body }} and <code>{{ $e.subscribe_body }}</code> in the body{{- end -}}.</p>
+                  {{- end -}}
+
+                  <!-- Listserv Platforms with form as sign-up option -->
+                  {{- if and (eq $e.platform "listserv") ( $e.subscribe_form ) -}}
+                    <a href="{{ $e.subscribe_form }}" class="join type-{{- $e.platform -}}" title="Join the {{ .Title | markdownify }} Community"><i class="fas fa-file-signature"></i> Join via our form</a>
+
+                    <p>To join, <a href="{{ $e.subscribe_form }}" title="Fill out our form">fill out our form</a>{{ if $e.subscribe_email }} or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_subject }} <code>{{ $e.subscribe_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_body }} and <code>{{ $e.subscribe_body }}</code> in the body{{- end -}}{{- end -}}.</p>
+                  {{- end -}}
+
+                  <!-- Google Group platforms -->
+                  {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
+                    <a href="{{- $e.subscribe_form -}}" class="join type-{{- $e.platform -}}"><i class="fab fa-google"></i> Join the Google Group</a>
+
+                    <p>To join, fill out our form or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_subject }} <code>{{ $e.subscribe_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_body }} and <code>{{ $e.subscribe_body }}</code> in the body{{- end -}}.</p>
                   {{- end -}}
 
 
-                  {{- if and (eq $e.type "listserv") ( $e.form ) -}}
-                    <a href="{{ $e.form }}" class="join" title="Join the {{ .Title | markdownify }} Community"><i class="fas fa-file-signature"></i> Join via our form</a>
 
-                    <p>To join, <a href="{{ $e.form }}" title="Fill out our form">fill out our form</a>{{ if $e.subscribe_email }} or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subject }} <code>{{ $e.subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.body }} and <code>{{ $e.body }}</code> in the body{{- end -}}{{- end -}}.</p>
-                  {{- end -}}
-
-                  {{- if and (eq $e.type "google-group") ( $e.form ) -}}
-                    <a href="{{- $e.form -}}" class="join type-{{- $e.type -}}"><i class="fab fa-google"></i> Join the Google Group</a>
-
-                    <p>To join, fill out our form or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subject }} <code>{{ $e.subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.body }} and <code>{{ $e.body }}</code> in the body{{- end -}}.</p>
-                  {{- end -}}
-
-
-
-                  {{/* Checking to see if community_terms are defined */}}
+                  {{/* Checking to see if community terms are defined */}}
                   {{ if $e.terms }}
                   <p class="terms"><em>{{ $e.terms | markdownify }}</em></p>
                   {{ else }}
@@ -78,9 +82,9 @@
 
               {{ end }}
 
-              {{ if .Params.community_managers }}
+              {{ if .Params.authors }}
               <div class="community_managers">
-                {{- partial "core/get_community_managers" . -}}
+                {{- partial "core/get_authors" . -}}
               </div>
               {{ end }}
 

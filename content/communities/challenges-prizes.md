@@ -1,11 +1,10 @@
 ---
 url: /communities/challenges-prizes/
-uid: challenges-prizes
 date: 2013-12-05 11:46:00 -0400
 title: 'Challenges & Prizes'
 summary: "We work to find innovative government solutions through encouraging public participation in crowdsourcing competitions."
 
-weight: 2
+weight: 1
 
 topics:
   - challenges
@@ -15,13 +14,15 @@ topics:
 aliases:
   - /challenges-prizes-community/
 
-community_list:
-  - type: "listserv"
-    subscribe_email: team@challenge.gov
-    subject: "Join Challenges"
-    body: "your name + agency you work for"
 
-community_managers:
+community_list:
+  - platform: "listserv"
+    subscribe_email: team@challenge.gov
+    subscribe_email_subject: "Join Challenges"
+    subscribe_email_body: "enter your name + agency you work for"
+    members: 1351
+
+authors:
   - tammy-white
   - eric-beidel
   - stephanie-green

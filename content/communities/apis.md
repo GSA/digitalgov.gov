@@ -1,26 +1,32 @@
 ---
 url: /communities/apis/
-uid: apis
 date: 2018-03-29 3:30:00 -0400
 title: 'APIs'
-members: 1351
 summary: 'Working to advance the cause of APIs in the federal government'
 deck: 'Working to advance the cause of APIs in the federal government'
 
-weight: 2
+weight: 1
 
 topics:
   - apis
   - code
   - open-source
 
-# Community Information
 community_list:
-  - type: "google-group"
+  - platform: "google-group"
+    subscribe_email: listserv@listserv.gsa.gov
+    subscribe_email_subject: "Join: Accessibility / Section 508"
+    subscribe_email_body: "subscribe agile-lean-cop"
+    subscribe_form: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
     terms: "This community is open to anyone."
-    form: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
-community_managers:
+    members: 1351
+
+list: "google-group"
+
+
+authors:
   - gray-brooks
+
 ---
 
 This community of practice is for anyone who is interested in government APIs and developer outreach, with a focus on the federal government. APIs are as important to digital government as they are are esoteric and sometimes difficult to understand. This forum exists to help federal agencies share news, ask for help, and expand the use of APIs in government.
