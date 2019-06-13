@@ -25,11 +25,9 @@ featured_image:
 
 There’s a less tangible but equally unavoidable reason for fixing apps that aren’t broken: to keep them interesting for people. Those fixes come in the quest for improvement and they keep the relationship with users healthy.
 
-The Federal Emergency Management Agency (FEMA) recently navigated this realm between advancing technology, user demands, and relationships with its emergency alert and safety information app. The in-demand feature of the app, those emergency alerts, started acting up.
-
+The Federal Emergency Management Agency (FEMA) recently navigated this realm between advancing technology, user demands, and relationships with its emergency alert and safety information app. The in-demand feature of the app, those emergency alerts, started acting up. 
 
 {{< img src="fema-mobile-app-home" >}}
-
 
 “Hello developers,” posted the_moongirl under her two-star app rating in the App Store in early 2019, “I am a meteorologist and had been recommending this app to all of my friends for robust and reliable weather alerting. Everything about it was great. Within the last couple of months, I stopped getting alerts.”
 
@@ -63,4 +61,4 @@ There’s confidence the pending release will address the bug, and FEMA has move
 
 FEMA believes listening drives the best design and communication builds trust. When the technology acts up—which is inevitable—the relationship has the integrity to withstand it. That’s a pretty strong and pretty normal model.
 
-“The best email we can receive is a simple response that says, ‘Thanks! It’s working now,’” said Kuhns.
+“The best email we can receive is a simple response that says, ‘Thanks! It’s working now,’” said Kuhns. 
