@@ -9,6 +9,7 @@ weight: 1
 
 topics:
   - multilingual
+  - content
 aliases:
   - /government-multilingual-websites-community/
 
