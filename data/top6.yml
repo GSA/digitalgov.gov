@@ -30,6 +30,9 @@
 
 top6:
 
+  - file          : '2019-06-13-building-trust-with-users-through-open-communication-feedback.md'
+    type          : 'post'
+
   - file          : '2019-05-08-introducing-new-rpa-community-practice.md'
     type          : 'post'
 
@@ -43,7 +46,4 @@ top6:
     type          : 'post'
 
   - file          : '2019-04-04-web-analytics-why-users-metric-just-got-more-complicated.md'
-    type          : 'post'
-
-  - file          : '2019-03-27-qa-with-ryan-day-about-gsas-api-strategy.md'
     type          : 'post'
