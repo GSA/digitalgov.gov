@@ -1,5 +1,5 @@
 ---
-url: /communities/open-government/
+slug: open-gov
 date: 2017-08-24 3:30:00 -0400
 title: 'OpenGov'
 summary: 'The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.'
@@ -8,6 +8,7 @@ topics:
   - open-source
 aliases:
   - /communities/open-government-opengov-community-of-practice/
+  - /communities/open-government/
 weight: 1
 community_list:
   - platform: "google-group"

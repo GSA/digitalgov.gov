@@ -1,5 +1,5 @@
 ---
-url: /communities/devops/
+slug: devops
 uid: devops
 date: 2019-05-29 12:58:00 -0500
 title: "DevOps Community of Practice"

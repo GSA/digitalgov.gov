@@ -1,9 +1,9 @@
 ---
-url: /communities/rpa/
+slug: rpa
 date: 2019-04-24 2:32:10 -0400
 title: "Robotic Process Automation (RPA) Community of Practice"
 summary: We are a group who is working to accelearate robotic process automation (RPA) adoption in the federal government.
-topics: 
+topics:
   - emerging-tech
 community_list:
   - platform: "listserv"

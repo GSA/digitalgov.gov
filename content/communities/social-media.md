@@ -1,11 +1,8 @@
 ---
-url: /communities/social-media/
-uid: social-media
+slug: social-media
 date: 2013-11-21 3:32:54 -0400
 title: 'SocialGov'
 summary: 'We work on improving the creation, adoption, and evaluation of social media engagement in government.'
-members: 991
-emails_per_week: 9.0
 
 weight: 1
 

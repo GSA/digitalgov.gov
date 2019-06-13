@@ -1,5 +1,5 @@
 ---
-url: /communities/open-data/
+slug: open-data
 date: 2015-07-08 10:30:37 -0400
 title: 'Open Data'
 summary: 'A community listserv and working group that unites 900 open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues.'

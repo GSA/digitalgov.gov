@@ -1,5 +1,5 @@
 ---
-url: /communities/crowdsourcing-and-citizen-science/
+slug: crowdsourcing-and-citizen-science
 date: 2015-09-29 2:17:02 -0400
 title: 'Crowdsourcing and Citizen Science'
 summary: 'We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.'

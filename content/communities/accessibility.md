@@ -1,5 +1,6 @@
 ---
-url: /communities/accessibility/
+slug: accessibility
+date: 2018-10-05 12:00:00 -0500
 title: 'Accessibility / Section 508'
 summary: 'We support people who are working to improve accessibility of information technology.'
 
