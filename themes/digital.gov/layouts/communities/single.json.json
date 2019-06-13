@@ -29,6 +29,9 @@
     {{- end -}}
     "item" : [
     {
+      {{- if (isset .Params "kicker") -}}
+      "kicker" : "{{- .Params.kicker -}}",
+      {{- end -}}
       "title" : {{- .Title | jsonify -}},
       {{- if (isset .Params "summary") -}}
       "summary" : "{{- .Params.summary -}}",
