@@ -121,6 +121,12 @@
           {{- end -}}
         },
       {{- end -}}
+      {{- if .Params.featured_image -}}
+      "featured_image" : {
+        "uid" : "{{- .Params.featured_image.uid -}}",
+        "alt" : "{{- .Params.featured_image.alt -}}"
+      },
+      {{- end -}}
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
       "filename" : {{ .File.LogicalName | jsonify }},
       "filepath" : {{ .File.Path | jsonify }},
