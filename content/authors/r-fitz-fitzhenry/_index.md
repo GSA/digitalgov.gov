@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/authors/r-fitz-fitzhenry
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: robert-fitzhenry
+slug: r-fitz-fitzhenry
 display_name: "R. 'Fitz' Fitzhenry"
 first_name: "Robert"
 last_name: "Fitzhenry"
