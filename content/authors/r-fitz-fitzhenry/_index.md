@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/r-fitz-fitzhenry
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: r-fitz-fitzhenry
 display_name: "R. 'Fitz' Fitzhenry"
 first_name: "Robert"
 last_name: "Fitzhenry"
@@ -11,7 +10,7 @@ last_name: "Fitzhenry"
 pronoun: ""
 
 # user id — not easily changed
-uid: ""
+uid: "r-fitz-fitzhenry"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: rfitzhenry@fs.fed.us
