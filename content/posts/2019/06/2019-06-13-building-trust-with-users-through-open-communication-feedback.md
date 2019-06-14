@@ -3,8 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: building-trust-with-users-through-open-communication-feedback
-date: 2019-06-13 13:00:00 -0500
-kicker: ""
+date: 2019-06-13 14:00:00 -0500
 title: "Building Trust with Users Through Open Communication and Feedback"
 deck: "A look at how FEMA responds to user needs and bugs in their app development."
 summary: "A look at how FEMA responds to user needs and bugs in their app development."
@@ -22,10 +21,8 @@ topics:
 authors: 
   - r-fitz-fitzhenry
 
-featured_image:
-  uid: fema-mobile-app-home-updated
-  alt: 'A screen from the FEMA app&#46;'
-
+# Primary Image
+primary_image: "fema-mobile-app-home-updated"
 
 # Make it better ♥
 ---
