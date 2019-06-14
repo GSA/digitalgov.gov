@@ -42,7 +42,7 @@ community_list:
 # Make it better ♥
 ---
 
-{{< img src="challenge-gov" caption="" alt="Challege.gov Logo" >}}
+{{< img-right src="challenge-gov-logo" >}}
 
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
