@@ -1,23 +1,37 @@
 ---
+# View this page at https://digital.gov/communities/accessibility-section-508
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: accessibility
-date: 2018-10-05 12:00:00 -0500
-title: 'Accessibility / Section 508'
-summary: 'We support people who are working to improve accessibility of information technology.'
+date: 2018-10-05 13:00:00 -0500
+title: "Accessibility / Section 508"
+deck: ""
+summary: "We support people who are working to improve accessibility of information technology."
 
-weight: 1
-
-topics:
+# see all topics at https://digital.gov/topics
+topics: 
   - accessibility
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - avis-ryan
+  - john-sullivan
+  - yvette-gibson
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
 community_list:
-  - platform: "listserv"
-    subscribe_email: section.508@gsa.gov
+  - platform: listserv
+    type: public
+    subscribe_email: "section.508@gsa.gov"
     subscribe_email_subject: "Join: Accessibility / Section 508"
     members: 1351
 
-authors:
-  - john-sullivan
 
+# Make it better ♥
 ---
 
 The IT Accessibility Community of Practice helps federal agencies buy and build accessible IT, with tools, training and best practices to support universal design, accessible development, and 508-compliant procurement. We work to encourage the adoption of accessible IT across the federal government.
