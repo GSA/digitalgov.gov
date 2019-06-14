@@ -29,10 +29,11 @@ As Presidential Innovation Fellows, our work reaches across every federal agency
 Join us for a 20 person only, interactive workshop on data storytelling. The federal call for open data means that very soon the American public will be involved in the civic tech process in new and engaging ways. Similarly, federal agencies are eager to visualize evidence based data in dynamic ways that tell stories and inspire both employees and external audiences.
 
 **Hosts include:** 
-- Nina Bianchi is a PIF and Director of Workforce Solutions at CoEs
-- Maria Dayton is a PIF and working with 24 agencies at GSA on Cap Goal 4
-- Amy Ashida is a UX Designer with 18F who is collaborating on our AI-centric Story Bank
-- Davar Ardalan is Deputy Director of the Presidential Innovation Fellowship Program 
+
+* Nina Bianchi is a PIF and Director of Workforce Solutions at CoEs
+* Maria Dayton is a PIF and working with 24 agencies at GSA on Cap Goal 4
+* Amy Ashida is a UX Designer with 18F who is collaborating on our AI-centric Story Bank
+* Davar Ardalan is Deputy Director of the Presidential Innovation Fellowship Program 
 
 **Data Storytelling Workshop Agenda:**
 
