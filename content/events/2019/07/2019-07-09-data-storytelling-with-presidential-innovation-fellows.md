@@ -37,14 +37,14 @@ Join us for a 20 person only, interactive workshop on data storytelling. The fed
 
 **Data Storytelling Workshop Agenda:**
 
-10:30-10:40 Arrivals 
-10:40-10:50 Introduction to Data Storytelling (Davar, Nina, Maria)
-10:50-11:00 Emoji icebreaker (Nina lead w/ support by Maria/Davar/Amy)
-11:05-11:20 Best Practices: Dashboards (Maria)
--break- 5 min
-11:20-11:35 Davar & Amy of 18F Design Lab - What’s happening now across the USG
-11:35-12:10 Imagine this! Every Dashboard Tells a Story: mobile + desktop (Nina)
-12:10-12:30 Group: Show + Tell
+* 10:30-10:40 Arrivals 
+* 10:40-10:50 Introduction to Data Storytelling (Davar, Nina, Maria)
+* 10:50-11:00 Emoji icebreaker (Nina lead w/ support by Maria/Davar/Amy)
+* 11:05-11:20 Best Practices: Dashboards (Maria)
+* -break- 5 min
+* 11:20-11:35 Davar & Amy of 18F Design Lab - What’s happening now across the USG
+* 11:35-12:10 Imagine this! Every Dashboard Tells a Story: mobile + desktop (Nina)
+* 12:10-12:30 Group: Show + Tell
 
 TTS federal employees are welcome to join us in person. The workshop is hosted by the [Presidential Innovation Fellows Program](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-presidential-innovation-fellows)(PIF), and [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU).
 *Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).*
