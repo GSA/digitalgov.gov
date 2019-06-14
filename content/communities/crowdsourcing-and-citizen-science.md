@@ -1,27 +1,45 @@
 ---
-slug: crowdsourcing-and-citizen-science
-date: 2015-09-29 2:17:02 -0400
-title: 'Crowdsourcing and Citizen Science'
-summary: 'We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.'
+# View this page at https://digital.gov/communities/crowdsourcing-citizen-science
+# Learn how to edit our pages at https://workflow.digital.gov
 
+slug: crowdsourcing-citizen-science
+date: 2015-09-29 2:17:00 -0500
+title: "Crowdsourcing and Citizen Science"
+deck: ""
+summary: "We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives."
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - challenges
+  - crowdsourcing
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - jay-benforado
+  - sophia-b-liu
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
 weight: 1
 
-topics:
-  - crowdsourcing
-  - challenges
-
-aliases:
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
   - /federal-crowdsourcing-and-citizen-science/
   - /communities/federal-crowdsourcing-and-citizen-science/
 
+
 community_list:
-  - platform: "listserv"
-    subscribe_email: listserv@listserv.gsa.gov
+  - platform: listserv
+    type: public
+    subscribe_email: "listserv@listserv.gsa.gov"
     subscribe_email_subject: "subscribe FCPCCS"
     subscribe_email_body: "enter your name + agency you work for"
     members: 380
-    emails_per_week: 4.0
+    emails_per_week: 4
 
+
+# Make it better ♥
 ---
 
 The Federal Community of Practice on Crowdsourcing and Citizen Science (FedCCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
