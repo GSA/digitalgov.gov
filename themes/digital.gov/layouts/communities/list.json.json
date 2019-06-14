@@ -158,6 +158,9 @@
         {{- end -}}
       },
       {{- end -}}
+      {{- if .Slug -}}
+      "slug" : "{{ .Slug }}",
+      {{- end -}}
       "url" : "{{- .Permalink -}}"
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}

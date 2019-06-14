@@ -146,6 +146,9 @@
         {{- end -}}
       },
       {{- end -}}
+      {{- if .Slug -}}
+      "slug" : "{{ .Slug }}",
+      {{- end -}}
       "url" : "{{- .Permalink -}}"
     }
   ]
