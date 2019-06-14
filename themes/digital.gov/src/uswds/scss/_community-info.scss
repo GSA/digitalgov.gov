@@ -54,6 +54,7 @@
     @include u-padding(2);
     h3{
       @include u-margin(0);
+      @include u-margin-bottom('05');
       @include u-font('sans', 'sm');
     }
   }

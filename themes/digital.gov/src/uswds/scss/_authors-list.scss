@@ -32,5 +32,8 @@
 		&:first-child{
 			@include u-border-top(0);
 		}
+		&:last-child{
+			@include u-margin-bottom(0);
+		}
 	}
 }
