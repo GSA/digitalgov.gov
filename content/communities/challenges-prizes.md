@@ -1,35 +1,48 @@
 ---
+# View this page at https://digital.gov/communities/challenges-prizes
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: challenges-prizes
-date: 2013-12-05 11:46:00 -0400
-title: 'Challenges & Prizes'
+date: 2013-12-05 10:46:00 -0500
+title: "Challenges & Prizes"
+deck: ""
 summary: "We work to find innovative government solutions through encouraging public participation in crowdsourcing competitions."
 
+# see all topics at https://digital.gov/topics
+topics: 
+  - challenges
+  - crowdsourcing
+  - challenge-gov
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - eric-beidel
+  - stephanie-green
+  - tammy-white
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
 weight: 1
 
-topics:
-  - challenges
-  - challenge-gov
-  - crowdsourcing
-
-aliases:
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
   - /challenges-prizes-community/
 
 
 community_list:
-  - platform: "listserv"
-    subscribe_email: team@challenge.gov
-    subscribe_email_subject: "Join Challenges"
+  - platform: listserv
+    type: public
+    subscribe_email: "team@challenge.gov"
+    subscribe_email_subject: "Join Challenges Community"
     subscribe_email_body: "enter your name + agency you work for"
     members: 1351
 
-authors:
-  - tammy-white
-  - eric-beidel
-  - stephanie-green
 
+# Make it better ♥
 ---
 
-{{< img src="challenge-gov" caption="" alt="Challege.gov Logo" >}}
+{{< img-right src="challenge-gov-logo" >}}
 
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
