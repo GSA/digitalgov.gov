@@ -30,6 +30,9 @@
 
 top6:
 
+  - file          : '2019-06-18-introducing-a-guide-paperwork-reduction-act.md'
+    type          : 'post'
+
   - file          : '2019-06-13-building-trust-with-users-through-open-communication-feedback.md'
     type          : 'post'
 
@@ -43,7 +46,4 @@ top6:
     type          : 'post'
 
   - file          : '2019-04-08-introducing-uswds-2.md'
-    type          : 'post'
-
-  - file          : '2019-04-04-web-analytics-why-users-metric-just-got-more-complicated.md'
     type          : 'post'
