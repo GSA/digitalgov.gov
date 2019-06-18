@@ -1,50 +1,65 @@
-{{ define "content" }}
+{{- define "content" -}}
 
-<main role="main" class="page">
-
+<main role="main">
   <article>
-    <div class="grid-container grid-container-desktop">
-
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <header>
-            {{/* The Parent Guide */}}
-            <h5 class="guide-title"><a class="text-no-underline hover:text-underline" href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h5>
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
+            <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></p>
+            {{- if .Params.kicker -}}
+            <p class="kicker">{{- .Params.kicker -}}</p>
+            {{- end -}}
             {{/* Page Title */}}
-            <h1 class="font-sans-2xl text-heavy margin-y-0">{{ .Title | markdownify }}</h1>
+            <h1>{{- .Title | markdownify -}} </h1>
+
             {{/* Deck */}}
             {{- if .Params.deck -}}
-            <div class="deck font-sans-xl text-light">{{- .Params.deck | markdownify -}}</div>
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
-            {{/* {{ partial "last-updated" . }} */}}
-          </header>
-        </div>
-      </div>
-
-      <div class="grid-row grid-gap-6">
-
-        <div class="grid-col-12 tablet-lg:grid-col-8">
-          <div class="content">
-            {{ .Content }}
           </div>
         </div>
-
-        <div class="grid-col-12 tablet-lg:grid-col-4">
-          {{- partial "core/guide-nav" . -}}
-        </div>
-
       </div>
+    </header>
 
-      <div class="grid-row grid-gap-6">
-        <div class="grid-col-12">
-          {{ partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
+    <section>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row grid-gap-6">
+
+          <div class="grid-col-12 tablet:grid-col-9">
+
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
+            </div>
+
+            {{- partial "core/feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-3">
+
+            {{/* Table of contents */}}
+            {{- partial "core/toc" . -}}
+
+            {{/* Last updated */}}
+            {{/* {{- partial "last-updated" . -}}  */}}
+
+            {{/* Related Communities and Services */}}
+            {{- partial "core/get_related" . -}}
+
+            {{/* Topics */}}
+            {{/* {{- partial "core/get_topics" . -}} */}}
+
+            {{/* Share Tools */}}
+            {{/* {{- partial "core/get_sharetools" . -}} */}}
+
+          </div>
+
         </div>
       </div>
+    </section>
 
-    </div>
   </article>
 </main>
-
-  {{ partial "core/overlay" . }}
-
-{{ end }} {{/* end 'content' block */}}
+{{- end -}}
