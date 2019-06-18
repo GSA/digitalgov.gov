@@ -1,7 +1,7 @@
 ---
-url: /about/
 date: 2017-11-14 12:05:00 -0400
-title: 'About'
+title: 'Welcome to Digital.gov'
+deck: 'learn more about why'
 summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
 aliases:
   - /contact-us/
