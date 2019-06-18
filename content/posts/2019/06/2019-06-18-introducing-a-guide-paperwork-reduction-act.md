@@ -27,7 +27,7 @@ The PRA Guide is a plain language guide which answers the most common questions 
 
 It aims to give federal employees confidence working with the PRA&mdash;and through this, lower the barriers to working effectively with the public.
 
-All of the content has been reviewed and approved by the office that oversees clearances&mdash;the Office of Information Affairs (OIRA) in the Office of Management and Budget (OMB).
+All of the content has been reviewed and approved by the office that oversees clearances&mdash;the Office of Information and Regulatory Affairs (OIRA) in the Office of Management and Budget (OMB).
 
 {{< img src="pra-guide-launch" >}}
 
