@@ -12,7 +12,7 @@ featured_image:
   alt: 'U.S. Web Design Standards'
 ---
 
-We’re excited to announce that [the U.S. Web Design Standards][18a73fb9] has moved over to the [Office of Products and Platforms (OPP)][3f7dfc99] and joined [the new DigitalGov team]({{< ref "/about/about.md" >}}), effective October 1, 2017.
+We’re excited to announce that [the U.S. Web Design Standards][18a73fb9] has moved over to the [Office of Products and Platforms (OPP)][3f7dfc99] and joined [the new DigitalGov team]({{< ref "/about/" >}}), effective October 1, 2017.
 
   [18a73fb9]: https://standards.usa.gov/ "The U.S. Web Design Standards"
   [3f7dfc99]: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs "Office of Products and Platforms (OPP)"

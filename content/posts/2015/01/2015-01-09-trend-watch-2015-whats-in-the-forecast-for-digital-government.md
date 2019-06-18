@@ -30,4 +30,4 @@ In January on DigitalGov, we’ll highlight pieces looking at trends we see comi
 
 Check back Monday, when we kick-off the month with [15 Government Customer Service Trends]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}} "15 Government Customer Service Trends for 2015"). And you can look at some of our most recent [monthly theme articles]({{< ref "/topics/monthly-theme" >}}) in: [crowdsourcing]({{< ref "2014-12-08-crowdsourcing-month-an-overview.md" >}} "Crowdsourcing Month: An Overview"), [user experience]({{< ref "2014-11-07-welcome-to-user-experience-month.md" >}} "Welcome to User Experience Month!"), and [mobile]({{< ref "2014-10-20-welcome-to-mobilegov-month-on-digitalgov.md" >}} "Welcome to Mobile Gov Month on DigitalGov").
 
-Where do you see digital government going in 2015? Where should agencies focus their efforts? [Let us know]({{< ref "/about/about.md" >}} "Contact Us")!
+Where do you see digital government going in 2015? Where should agencies focus their efforts? [Let us know]({{< ref "/about/" >}} "Contact Us")!

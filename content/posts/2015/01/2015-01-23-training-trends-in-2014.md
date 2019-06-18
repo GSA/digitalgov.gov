@@ -15,7 +15,7 @@ topics:
   - SocialGov
 ---
 
-In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to [share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations]({{< ref "/about/about.md" >}} "Contact Us") of the 21st century citizen customer better. Whew. That’s a mouthful.
+In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to [share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations]({{< ref "/about/" >}} "Contact Us") of the 21st century citizen customer better. Whew. That’s a mouthful.
 
 Thanks to all the participation from you, across many agencies, we’ve hosted over 100 events this past year with over 8,000 attendees. So, we thought we’d take took a look at the most popular (by attendance) in-person, on-line and recorded events throughout 2014.
 

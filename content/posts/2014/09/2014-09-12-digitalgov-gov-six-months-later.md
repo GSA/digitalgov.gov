@@ -26,7 +26,7 @@ topics:
 
 Six months ago, we launched this DigitalGov.gov platform to support federal agencies in delivering 21st century digital services and information to the public. It seems a good time to share some of the thinking that went into the development of the platform, and what we&#8217;ve learned so far.
 
-Looking back, we knew we had great content for digital innovators. Here at the [Center for Digital Government at GSA]({{< ref "/about/about.md" >}} "About"), we created the go-to references for federal agencies around Web, mobile, social media, challenges and prizes, and were growing API content. We also had a large, engaged audience ready to share their knowledge with others. So what was the problem?
+Looking back, we knew we had great content for digital innovators. Here at the [Center for Digital Government at GSA]({{< ref "/about/" >}} "About"), we created the go-to references for federal agencies around Web, mobile, social media, challenges and prizes, and were growing API content. We also had a large, engaged audience ready to share their knowledge with others. So what was the problem?
 
 ## The Problem(s)
 
@@ -73,4 +73,4 @@ So far, the data is showing that we are doing what we set out to do. But, we kno
 
 In the next few weeks we’ll be publishing our first roadmap with priorities for the next FY. We plan to be very transparent. Look also for a follow up on some decisions and pivots we’ve made since launch in February—not everything went as expected.
 
-Oh, and regarding doing MORE and doing it better? Keep an eye out for _more_ posts featuring more agencies doing _more_ innovative work to make a _more_ responsive 21st century government. And last, [keep in touch]({{< ref "/about/about.md" >}} "Contact Us"). Comments and suggestions are always welcome.
+Oh, and regarding doing MORE and doing it better? Keep an eye out for _more_ posts featuring more agencies doing _more_ innovative work to make a _more_ responsive 21st century government. And last, [keep in touch]({{< ref "/about/" >}} "Contact Us"). Comments and suggestions are always welcome.

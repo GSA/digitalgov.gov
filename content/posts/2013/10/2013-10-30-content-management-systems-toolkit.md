@@ -377,7 +377,7 @@ Before you shut down the old site, run the old and new sites in parallel to test
 If you’ve done your research and followed your plan, you should have a smooth migration. Once it’s all done, and the site is live in the new CMS:
 
   * Evaluate what worked well, and where you ran into problems. Document as lessons learned for future migration projects, and share with your colleagues.
-  * Consider writing a case study, and [send to us]({{< ref "/about/about.md" >}} "Contact Us") so we can post on DigitalGov, so others can benefit from your experiences.
+  * Consider writing a case study, and [send to us]({{< ref "/about/" >}} "Contact Us") so we can post on DigitalGov, so others can benefit from your experiences.
   * Perform a “before and after comparison” to document improved efficiencies and help you measure success. Identify how the new CMS improves your ability to manage information assets, speed up content publication, or other improvements.
   * Communicate results to your management team and stakeholders, so they understand that all the hard work was worth it.
 
