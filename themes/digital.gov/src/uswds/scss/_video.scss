@@ -40,8 +40,8 @@
     @include u-bottom(1);
     @include u-text('indigo-warm-10');
     @include u-text('center');
-    @include u-width(8);
-    @include u-height(8);
+    @include u-width(7);
+    @include u-height(7);
     @include u-radius('lg');
     background-color: rgba(0, 0, 0, .85); // #18161d - indigo-warm-90
     transition: background-color .2s;
@@ -58,7 +58,7 @@
     @include u-width(0);
     @include u-height(0);
     border-style: solid;
-    border-width: 14.5px 0 14.5px 26px;
+    border-width: 14px 0 14px 24px;
     border-color: transparent transparent transparent #fff;
   }
 
