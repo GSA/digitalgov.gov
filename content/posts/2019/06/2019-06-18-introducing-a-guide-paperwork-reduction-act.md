@@ -43,7 +43,7 @@ Some unfortunate examples are when paper forms are directly copied to web interf
 
 This website aims to lower the barrier by increasing employees’ confidence and eliminating a common cause of delay: the back-and-forth between agencies and OIRA. Having the basics in [plain language](https://www.plainlanguage.gov/) is expected to save everybody time.
 
-[The site’s process table](https://pra.digital.gov/clearance-process/) also helps agencies plan the right activities at the right times.
+The site’s [process table](https://pra.digital.gov/clearance-process/) also helps agencies plan the right activities at the right times.
 
 With these barriers decreased, the joint project teams hope to unblock good changes while preserving scrutiny on burdensome collections.
 
@@ -57,5 +57,5 @@ The PRA Guide is the result of [Phase 3](https://10x.gsa.gov/the-10x-process/) o
 
 Work doesn’t stop now that the PRA Guide is released. OIRA and Digital.gov are committed to addressing the challenges [uncovered by the user research](https://github.com/GSA/digitalgov-pra/wiki/Summary) so far, and continuing this research.
 
-What we need most from you right now, though, is feedback! Does the PRA Guide answer your questions? Is something missing? Or still unclear? You can give feedback in [our open code repository on GitHub](https://github.com/GSA/digitalgov-pra) or send directly to [PRA@OMB.EOP.GOV](mailto:%70%72%61@%6F%6D%62.%65%6F%70.%67%6F%76
+What we need most from you right now, though, is feedback! Does the PRA Guide answer your questions? Is something missing or still unclear? You can give feedback in [our open code repository on GitHub](https://github.com/GSA/digitalgov-pra), or send directly to [PRA@OMB.EOP.GOV](mailto:%70%72%61@%6F%6D%62.%65%6F%70.%67%6F%76
 ?subject=PRA%20Website:%20Site%20Feedback&body=Please%20fill%20out%20the%20information%20below%0A%0A%0AWhat%20were%20you%20trying%20to%20do?%0A%0A%0AGeneral%20Comments).
