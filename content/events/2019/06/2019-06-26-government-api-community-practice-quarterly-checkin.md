@@ -34,15 +34,15 @@ This afternoon event is an opportunity for API practitioners from across federal
 
 ## Agenda
 
-3:00pm - Welcome and Introductions   
-3:10pm - Review of newly launched APIs and Developer Hubs 
-3:20pm - Review of relevant news 
-3:30pm - Agency Presentation 1 
-3:45pm - Agency Presentation 2 
-4:00pm - Requests for Help   
-4:10pm - Proposals and discussion for best practices and norms to adopt  
-4:20pm - Other Discussion and Q&A  
-4:30pm - Wrap up  
+- 3:00pm - Welcome and Introductions
+- 3:10pm - Review of newly launched APIs and Developer Hubs
+- 3:20pm - Review of relevant news
+- 3:30pm - Agency Presentation 1
+- 3:45pm - Agency Presentation 2
+- 4:00pm - Requests for Help
+- 4:10pm - Proposals and discussion for best practices and norms to adopt
+- 4:20pm - Other Discussion and Q&A
+- 4:30pm - Wrap up  
 
 ## Location 
 
