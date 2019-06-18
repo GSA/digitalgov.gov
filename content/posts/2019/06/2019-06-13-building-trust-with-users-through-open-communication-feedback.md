@@ -9,7 +9,7 @@ deck: "A look at how FEMA responds to user needs and bugs in their app developme
 summary: "A look at how FEMA responds to user needs and bugs in their app development."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - cx
   - mobile
   - content-strategy
@@ -17,8 +17,12 @@ topics:
   - fema
   - thursday-mobile-products
 
+featured_image:
+  uid: fema-mobile-app-home-updated
+  alt: 'A screen from the FEMA app&#46;'
+
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - r-fitz-fitzhenry
 
 # Primary Image
