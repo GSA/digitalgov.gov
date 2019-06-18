@@ -19,16 +19,12 @@
     </script>
   {{ end }}
 
-  {{ if eq ($.Scratch.Get "env") "site" }}
-  {{ else }}
-    {{ partial "notice-bar.html" . }}
-  {{ end }}
-
   {{ partial "usa-banner.html" . }}
 
   <div id="outer-wrap" role="main">
 
     {{ partial "nav-top-nav.html" . }}
+    {{ partial "notice-bar.html" . }}
     {{ partial "header.html" . }}
 
     <div id="wrap">
