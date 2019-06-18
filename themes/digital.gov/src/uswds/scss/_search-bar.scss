@@ -4,7 +4,7 @@
 	@include u-margin-top(1);
 	@include u-margin-bottom(4);
 	@include at-media('tablet') {
-		@include u-margin-bottom(9);
+		@include u-margin-bottom(5);
 	}
 	h3{
 		@include u-margin(0);
@@ -69,7 +69,7 @@
 		@include u-height(6);
 
 		@include u-radius-right('md');
-		@include u-border('2px', 'solid', 'indigo-warm-70');
+		@include u-border('3px', 'solid', 'indigo-warm-60v');
 		@include u-border-left(0);
 		@include u-bg('white');
 		&:hover{
@@ -82,9 +82,9 @@
 			right:6px;
 		}
 		img{
-			width:1.62em;
+			width:1.4em;
 			position: relative;
-			top:2px;
+			top:4px;
 		}
 	}
 }
