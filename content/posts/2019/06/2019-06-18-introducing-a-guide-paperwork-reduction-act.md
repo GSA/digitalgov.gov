@@ -23,7 +23,7 @@ featured_image:
 
 Today, we’re proud to launch [a new guide on the Paperwork Reduction Act](https://pra.digital.gov/) (PRA) — a clear introduction to the Act and the clearance process around it.
 
-The PRA Guide is a plain language guide which answers the most common questions like, “What is the PRA for?”, “Do I need clearance?”, and “What’s the process?”. 
+The PRA Guide is a plain language guide which answers the most common questions like, “What is the PRA for?”, “Do I need clearance?”, and “What’s the process?” 
 
 It aims to give federal employees confidence working with the PRA&mdash;and through this, lower the barriers to working effectively with the public.
 
