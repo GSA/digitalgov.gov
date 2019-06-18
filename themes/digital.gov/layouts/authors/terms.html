@@ -24,8 +24,8 @@
           <div class="grid-col-12">
             <div class="authors-list">
               {{- range $i, $author := $authors -}}
-                {{ $link := printf "authors/%s/" .Params.uid }}
-
+                {{ if .Params.uid }}
+                  {{ $link := printf "authors/%s/" .Params.uid }}
                   <div class="author grid-row flex-no-wrap" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
                     <div class="grid-col-auto">
                       <div class="photo height-5 width-5 display-flex flex-align-center flex-justify-center">
@@ -52,8 +52,7 @@
                       </div>
                     </div>
                   </div>
-
-
+                {{ end }}
               {{ end }}
             </div>
           </div>
