@@ -17,12 +17,7 @@
 
 p.notice-text {
   margin: .1em 0;
-  font-size: 20px;
-  text-align: center;
-}
-
-span.notice-text--primary {
-  font-weight: bold;
+  font-size: 18px;
 }
 
 .notice-text a,
@@ -32,10 +27,6 @@ span.notice-text--primary {
   color: #fff;
 
 }
-/* .notice-text a span {
-  margin-left: .5em;
-  border: 2px #fff solid;
-  padding:.2em .5em;
-  border-radius: 4px;
-  background: #fff;
-} */
+.notice-text a span:hover {
+  border-bottom: 2px #fff solid;
+}
