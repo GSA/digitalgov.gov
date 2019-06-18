@@ -8,15 +8,15 @@ A list of the most important resources tagged with the same topic */}}
 {{- if $resources -}}
 
 <div class="list-collection">
-  <h2>Resources on {{ .Title }} </h2>
+  <h2>Resources on {{- .Title -}}  </h2>
   <ul class="add-list-reset">
     {{- range sort $resources "Title" "asc" -}}
 
       {{/* If an external link  */}}
       {{- if or .Params.source_url .Params.source -}}
 
-      <li class="indent" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
-        <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
+      <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        <a class="" href="{{- .Params.source_url -}}?=dg" title="{{- .Title | markdownify -}}">
 
           {{/* If there is a defined source for this page */}}
           {{- if .Params.source -}}
@@ -32,19 +32,21 @@ A list of the most important resources tagged with the same topic */}}
           {{- end -}}
 
         </a>
-        {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+        {{- if .Params.deck -}}  — {{- .Params.deck -}}{{- end -}}
+      </li>
 
       {{/* If an internal link... */}}
       {{- else -}}
       <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
-        <a href="{{- .Permalink -}}" title="{{ .Title | markdownify }}">
+        <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}} ">
 
           {{/* Use the digital.gov logo */}}
           {{- $source_url := (print "/img/digit-150.png") -}}
           <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
-          
+
         </a>
-        {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
+        {{- if .Params.deck -}}  — {{- .Params.deck -}}{{- end -}}
+      </li>
       {{- end -}}
 
     {{- end -}}
