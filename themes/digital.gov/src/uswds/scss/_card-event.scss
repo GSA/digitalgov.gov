@@ -1,5 +1,5 @@
 .card-event-promo{
-	@include u-border-top('05', 'red-cool-40v', 'solid');
+	@include u-border-top('05', 'red-cool-30v', 'solid');
 	.banner{
 		@include u-padding-y('05');
 		@include u-padding-x('205');
@@ -31,6 +31,7 @@
 		.date-day{
 			@include u-font('sans', '2xl');
 			@include u-text('thin');
+			@include u-line-height('sans', 2);
 			@include at-media('tablet') {
 				@include u-font('sans', '3xl');
 			}
@@ -43,7 +44,7 @@
 		}
 	}
 	.btn-register{
-		@include u-padding-y('05');
+		@include u-padding-y(0);
 		@include u-padding-x(0);
 		@include u-font('sans', 'md');
 		@include u-display('block');
