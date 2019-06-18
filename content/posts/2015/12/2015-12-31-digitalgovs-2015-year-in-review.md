@@ -20,7 +20,7 @@ As we look ahead to 2016, we wanted to take a minute to look at our most popular
 
 Looking over the content we published this year and at the pieces you were most interested in, we were happy to see that your interest spans several areas of the digital space, including: [security]({{< ref "/topics/code" >}}), [user experience]({{< ref "/topics/ux" >}}, [accessibility]({{< ref "/topics/accessibility" >}}), [social media]({{< ref "/topics/social-media" >}}) and [Terms of Service]({{< ref "/topics/terms-of-service" >}}), and information about our [services]({{< ref "/services/_index.md" >}}).
 
-So as 2015 comes to a close, we want to THANK YOU for reading, [sharing](https://twitter.com/digital_gov) and commenting. You can look forward to more interesting content in 2016. If there’s something you’d like to see featured on DigitalGov, [let us know]({{< ref "/about/" >}}). {{< legacy-img src="2015/12/600-x-400-Top-10-Concept-Clipped-Cards-and-Lights-Jason-Enterline-iStock-Thinkstock-470951074.jpg" alt="Top 10 spelled out on note cards clipped to a clothesline, with the night sky and twinkling lights in the background" caption="" >}} 
+So as 2015 comes to a close, we want to THANK YOU for reading, [sharing](https://twitter.com/digital_gov) and commenting. You can look forward to more interesting content in 2016. If there’s something you’d like to see featured on DigitalGov, [let us know]({{< ref "/about/_index.md" >}}). {{< legacy-img src="2015/12/600-x-400-Top-10-Concept-Clipped-Cards-and-Lights-Jason-Enterline-iStock-Thinkstock-470951074.jpg" alt="Top 10 spelled out on note cards clipped to a clothesline, with the night sky and twinkling lights in the background" caption="" >}} 
 
 Here are the top 10 most-popular 2015 articles (in terms of pageviews):
 

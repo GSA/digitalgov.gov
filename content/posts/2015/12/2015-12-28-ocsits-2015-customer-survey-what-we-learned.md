@@ -76,7 +76,7 @@ We also received a ton of constructive feedback that’s helping us to improve h
 
 As 2015 winds down, we’re looking ahead to continue this learning process in 2016. If you’ve participated in past GCXi surveys, we thank you for sharing your candid feedback. As you can see, we take it to heart and will continue to use your feedback to make our programs even better.
 
-Our mission at GSA/OCSIT is to support other agencies, particularly with technology. What else can we do to make your job easier? You don’t have to wait for a survey to tell us—[we’re always listening]({{< ref "/about/" >}})! If you have an idea or suggestion, please leave a comment here, or email the person who manages your favorite [community of practice]({{< ref "/communities" >}}).
+Our mission at GSA/OCSIT is to support other agencies, particularly with technology. What else can we do to make your job easier? You don’t have to wait for a survey to tell us—[we’re always listening]({{< ref "/about/_index.md" >}})! If you have an idea or suggestion, please leave a comment here, or email the person who manages your favorite [community of practice]({{< ref "/communities" >}}).
 
 To wrap up, I want to share one final comment we received, which encompasses not just OCSIT, but all of you in our communities, too!
 

@@ -44,6 +44,6 @@ DGU has morphed over the years into a program by feds for feds. We listen and he
 
 [tell us, and we will put it on the calendar](https://www.surveymonkey.com/s/friend-event).
 
-Are you using social in an innovative way to meet your agency goals? Are you working in an agile environment? Are you more focused on creating mobile apps? Has using an open sourced tool allow you to work smarter? We want to know. [Submit your event ideas to us]({{< ref "/about/" >}} "Contact Us"). Chances are other agencies can benefit from the awesome work you&#8217;re doing and the lessons you learned along the way. Feel free to also submit ideas on what you want to hear about or who you want to hear from.
+Are you using social in an innovative way to meet your agency goals? Are you working in an agile environment? Are you more focused on creating mobile apps? Has using an open sourced tool allow you to work smarter? We want to know. [Submit your event ideas to us]({{< ref "/about/_index.md" >}} "Contact Us"). Chances are other agencies can benefit from the awesome work you&#8217;re doing and the lessons you learned along the way. Feel free to also submit ideas on what you want to hear about or who you want to hear from.
 
 One last thing continue to check out the [events calendar]({{< ref "/events" >}}) to see what&#8217;s cookin&#8217;, and keep those cards and letters coming.

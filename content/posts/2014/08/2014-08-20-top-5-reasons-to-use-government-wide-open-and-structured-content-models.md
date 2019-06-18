@@ -24,7 +24,7 @@ Content models provide an opportunity for agencies to structure, organize, distr
 
 The point—with good content models, a single piece of Web content becomes an adaptive information asset that can be leveraged anytime, anywhere.
 
-Holly Irving, from the National Institutes of Health, leads a government-wide working group which has been researching industry metadata standards to find common elements for all agencies to use. In May, the group, sponsored by the [Digital Services Innovation Center]({{< ref "/about/" >}} "About"), released government-wide content models.
+Holly Irving, from the National Institutes of Health, leads a government-wide working group which has been researching industry metadata standards to find common elements for all agencies to use. In May, the group, sponsored by the [Digital Services Innovation Center]({{< ref "/about/_index.md" >}} "About"), released government-wide content models.
 
 Irving recently gave us five reasons why agencies should start using the government shared [Article and Event models]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"), released in May, and stop reinventing the content wheel:
 

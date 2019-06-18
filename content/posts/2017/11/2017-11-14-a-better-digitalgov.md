@@ -36,7 +36,7 @@ So we’re setting out to deliver just that. And we’re making a commitment to 
 - [Join a community of practice]({{< ref "/communities" >}})
 - [Follow us on Twitter][a4d3008a]
 - [Join us on Facebook][48963c81]
-- [Learn more about our team]({{< ref "/about/" >}})
+- [Learn more about our team]({{< ref "/about/_index.md" >}})
 
   [3ed80b13]: https://github.com/GSA/digitalgov.gov/issues "What we're working on in GitHub"
   [20d731c7]: https://connect.digitalgov.gov/subscribe "Sign up for our newsletter"

@@ -124,4 +124,4 @@ We look forward to bringing you more great content in 2015, but first we wanted 
   </div>
 </blockquote>
 
-We welcome your contributions; in fact, only half of the articles on this list were written by DigitalGov staff. Add your voice to the mix and help us promote your agency&#8217;s efforts by [contacting us]({{< ref "/about/" >}}).
+We welcome your contributions; in fact, only half of the articles on this list were written by DigitalGov staff. Add your voice to the mix and help us promote your agency&#8217;s efforts by [contacting us]({{< ref "/about/_index.md" >}}).
