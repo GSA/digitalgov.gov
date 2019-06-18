@@ -16,6 +16,8 @@ youtube_id:
 
 ---
 
+_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4069748&CustomerID=321)_
+
 The General Services Administration’s Technology Transformation Services launched [U.S. Web Design System 2.0](https://designsystem.digital.gov/) on April 8, 2019. Please join Dan Williams, USWDS product lead, for a walkthrough of the how to migrate your site to 2.0. Dan will also take any questions about the system you may have.
 
 This event is part of a monthly series generally taking place the third Thursday of each month. Video from the webinar will be available on Digital.gov shortly after the event.  
