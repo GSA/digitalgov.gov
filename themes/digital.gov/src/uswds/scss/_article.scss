@@ -3,7 +3,7 @@
 main{
 	@include u-padding-y(3);
 	@include at-media('tablet') {
-		@include u-padding-y(6);
+		@include u-padding-y(4);
 	}
 
 	// Base Article Header Styles
@@ -11,6 +11,7 @@ main{
 	> header,
  	> article > header{
 		@include u-padding-y(2);
+		@include u-margin-bottom(3);
 
 		// Breadcrumbs
    	.breadcrumb{
