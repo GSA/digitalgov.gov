@@ -4,7 +4,7 @@ title: 'Sharpen Your Social Skills for Summer'
 deck: "Learn how to develop creative content for social media using photography, and sharpening your Instagram skills."
 summary: 'Learn how to develop creative content for social media using photography, and sharpening your Instagram skills.'
 featured_image:
-  uid:
+  uid: socialgov-summer-skills
   alt: ''
 event_type:
   - youtube-live
@@ -27,27 +27,32 @@ venue:
 
 ---
 
+
 Join the [SocialGov Community of Practice](https://digital.gov/communities/social-media/) for our Summer Meetup to learn more from your social media colleagues to learn more about photography for social media, developing creative content, and Instagram tactics. In this session you will also have in person networking opportunities before and after the session.
 
 We’ll be joined by social media experts from the U.S. Consumer Product Safety Commission, U.S. Army Reserve Command, and U.S. Marine Corps Installation Command.
 
-### Schedule
+{{< img src="socialgov-summer-skills" >}}
 
-12:30 - 1:00 pm — In-person networking, talk to others IRL (in real life)
+---
 
-1:00 - 1:45 pm  — Session 1: Instagram Best Practices with Sgt. Stephanie Ramirez, Army Reserve Social Media Manager, U.S. Army Reserve Command
+## Schedule
 
-~~~ 15 minute break ~~~
+**12:30 - 1:00 pm** — In-person networking, talk to others IRL (in real life)
 
-2:00 - 2:45 pm — Session 2 - Make photos stand out on social media with Mr. J.R. Arce, Social Media Lead, Marine Corps Installation Command
+**1:00 - 1:45 pm**  — Session 1: Instagram Best Practices with Sgt. Stephanie Ramirez, Army Reserve Social Media Manager, U.S. Army Reserve Command
 
-~~~ 15 minute break ~~~
+_~~~ 15 minute break ~~~_
 
-3:00 - 3:45 pm —  Session 3 - The creative process behind [@USCPSC](https://twitter.com/USCPSC) and tips for getting management on board with new engagement strategies with Joe Galbo, Social Media Manager for [@USCPSC](https://twitter.com/USCPSC), U.S. Consumer Product Safety Commission
+**2:00 - 2:45 pm** — Session 2 - Make photos stand out on social media with Mr. J.R. Arce, Social Media Lead, Marine Corps Installation Command
 
-~~~ 15 minute break ~~~
+_~~~ 15 minute break ~~~_
 
-4:00 - 5:00 pm — In-person networking, talk with others IRL
+**3:00 - 3:45 pm** —  Session 3 - The creative process behind [@USCPSC](https://twitter.com/USCPSC) and tips for getting management on board with new engagement strategies with Joe Galbo, Social Media Manager for [@USCPSC](https://twitter.com/USCPSC), U.S. Consumer Product Safety Commission
+
+_~~~ 15 minute break ~~~_
+
+**4:00 - 5:00 pm** — In-person networking, talk with others IRL
 
 ---
 
@@ -55,4 +60,4 @@ The [SocialGov Community of Practice](https://digital.gov/communities/social-med
 
 Our team will send a reminder email prior to the event that will include your link to join the video.
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
