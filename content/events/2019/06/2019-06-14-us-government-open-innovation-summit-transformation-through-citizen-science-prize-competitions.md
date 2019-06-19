@@ -2,7 +2,7 @@
 slug: us-government-open-innovation-summit-transformation-through-citizen-science-prize-competitions
 title: "U.S. Government Open Innovation Summit"
 deck: "Transformation Through Citizen Science and Prize Competitions"
-summary: 'Engage in a series of exciting dialogues on how the public is helping to reshape government&#46;'
+summary: 'Presentations that highligh the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government'
 featured_image:
   uid: open-innovation-summit-lockup
   alt: ''
@@ -14,20 +14,20 @@ event_organizer: DigitalGov University
 host: Federal Community of Practice for Crowdsourcing and Citizen Science (FedCCS), Challenges and Prizes Federal Community of Practice
 registration_url: https://www.eventbrite.com/e/us-government-open-innovation-summit-transformation-through-citizen-science-and-prizes-registration-61872290687
 youtube_id: 5ORul6NslyE
-# caption_url: https://www.captionedtext.com/client/event.aspx?EventID=4043837&CustomerID=321
 
 ---
-
-_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4043837&CustomerID=321)_
-
-{{< img src="open-innovation-summit-lockup" >}}
 
 On June 14, the General Services Administration and White House Office of Science and Technology Policy (OSTP) hosted innovators from the public and private sectors to highlight the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government.
 
 The inaugural U.S. Open Innovation Summit featured a keynote speech from OSTP Director Dr. Kelvin Droegemeier, who announced the release of a new report on prize competitions and citizen science projects run by the federal government during 2017-2018.
+
+{{< img src="open-innovation-summit-lockup" >}}
+
 The event featured a variety of presentations, panel discussions and interactive events that explored the use of these approaches, the opportunities and benefits they offer, and challenges integrating them into existing federal agency processes.
 
-- Download: [Federal Citizen Science and Prize Authority Fiscal Yeas 2017 -2018 report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf) | [Raw data on prizes and challenges, appendices A and B] (https://www.challenge.gov/toolkit/resources/) | [Raw data on crowdsourcing and citizen science, appendices C and D] (https://www.citizenscience.gov/about/#)
+- Download: [Federal Citizen Science and Prize Authority Fiscal Yeas 2017 -2018 report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf)
+  - Raw data on prizes and challenges, [appendices A and B] (https://www.challenge.gov/toolkit/resources/)
+  - Raw data on crowdsourcing and citizen science, [appendices C and D] (https://www.citizenscience.gov/about/#)
 - [Review speaker presentations with project-specific details](TBD)
 
 ---
