@@ -11,7 +11,7 @@ question: Did your accessibility testing tools provide accurate results?
 
 ### Steps to take
 - **Quick check**: Use a tool to quickly check for common errors in your browser. You can use [HTML CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/), [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US), [Lighthouse Accessibility Audit](https://developers.google.com/web/tools/lighthouse/), or [WAVE](http://wave.webaim.org/extension/).
-- **Build process**: Integrate a tool like [axe-core](https://github.com/dequelabs/axe-core), [Lighthouse Audits](https://github.com/GoogleChrome/lighthouse/blob/master/docs/readme.md#using-programmatically), or [AccessLint.js](https://github.com/accesslint/accesslint.js/tree/master) into your project to programmatically add accessibility tests and catch errors as you build out your website.
+- **Build process**: Integrate a tool like [axe-core](https://github.com/dequelabs/axe-core), [Lighthouse Command Line Tools](https://github.com/GoogleChrome/lighthouse), or [AccessLint.js](https://github.com/accesslint/accesslint.js/tree/master) into your project to programmatically add accessibility tests and catch errors as you build out your website.
 - **Continuous integration**: Use a tool like [AccessLint](https://www.accesslint.com/) to find accessibility issues in your GitHub pull requests.
 - **Simulate impairments**: Use tools to simulate color blindness, low vision, zoom, low contrast, high contrast, and more.
 
