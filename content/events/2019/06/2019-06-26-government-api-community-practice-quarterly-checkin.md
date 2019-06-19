@@ -12,7 +12,7 @@ date: 2019-06-26 15:00:00 -0500
 end_date: 2019-06-26 16:30:00 -0500
 event_organizer: DigitalGov University
 host: API Community of Practice
-registration_url: https://www.eventbrite.com/e/government-api-community-of-practice-quarterly-check-in-registration-59198623677
+registration_url: https://www.eventbrite.com/e/government-api-community-of-practice-quarterly-check-in-registration-63308833425
 venue: 
   venue_name: U.S. General Services Administration
   room: 2213
