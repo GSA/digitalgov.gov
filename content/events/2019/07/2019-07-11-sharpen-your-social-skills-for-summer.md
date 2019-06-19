@@ -33,9 +33,11 @@ Join the [SocialGov Community of Practice](https://digital.gov/communities/socia
 
 We’ll be joined by social media experts from the U.S. Consumer Product Safety Commission, U.S. Army Reserve Command, and U.S. Marine Corps Installation Command.
 
-{{< box >}}
+---
 
 ## Schedule
+
+{{< box >}}
 
 **12:30 - 1:00 pm** — In-person networking, talk to others IRL (in real life)
 
