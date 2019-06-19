@@ -41,7 +41,7 @@ The event featured a variety of presentations, panel discussions and interactive
 **9:10 - 9:15 a.m.** - Welcome
 
 -   Jarah Meador - Director of Challenge.gov and CitizenScience.gov (GSA)
--   Jay Huie - Acting Director, Office of Products and Programs (GSA)
+-   Jay Huie - Assistant Commissioner, Office of Products and Programs (GSA)
 
 **9:15 - 9:30 a.m.** - Opening Remarks
 
