@@ -27,7 +27,7 @@ On June 14, the General Services Administration and White House Office of Scienc
 The inaugural U.S. Open Innovation Summit featured a keynote speech from OSTP Director Dr. Kelvin Droegemeier, who announced the release of a new report on prize competitions and citizen science projects run by the federal government during 2017-2018.
 The event featured a variety of presentations, panel discussions and interactive events that explored the use of these approaches, the opportunities and benefits they offer, and challenges integrating them into existing federal agency processes.
 
-- [Download a copy of the Federal Citizen Science and Prize Authority Fiscal Yeas 2017 -2018 report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf)
+- Download: [Federal Citizen Science and Prize Authority Fiscal Yeas 2017 -2018 report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf) | [Raw data on prizes and challenges, appendices A and B] (https://www.challenge.gov/toolkit/resources/) | [Raw data on crowdsourcing and citizen science, appendices C and D] (https://www.citizenscience.gov/about/#)
 - [Review speaker presentations with project-specific details](TBD)
 
 ---
