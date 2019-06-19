@@ -22,9 +22,13 @@ _[View live captioning for this event](https://www.captionedtext.com/client/even
 
 {{< img src="open-innovation-summit-lockup" >}}
 
-Join innovators from across the public and private sectors for an event designed to highlight the potentialities and impact of crowdsourcing through citizen science and prize competitions in the U.S. government.
+On June 14, the General Services Administration and White House Office of Science and Technology Policy (OSTP) hosted innovators from the public and private sectors to highlight the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government.
 
-Speakers, panels, and interactive events will explore the use of these approaches to innovation, the opportunities and benefits they offer, and hurdles faced in integrating them into existing federal agency processes. This event will complement an upcoming crowdsourcing report to Congress that details how prize competitions and citizen science are transforming government.
+The inaugural U.S. Open Innovation Summit featured a keynote speech from OSTP Director Dr. Kelvin Droegemeier, who announced the release of a new report on prize competitions and citizen science projects run by the federal government during 2017-2018.
+The event featured a variety of presentations, panel discussions and interactive events that explored the use of these approaches, the opportunities and benefits they offer, and challenges integrating them into existing federal agency processes.
+
+- Download: [Federal Citizen Science and Prize Authority Fiscal Yeas 2017 -2018 report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf) | [Raw data on prizes and challenges, appendices A and B] (https://www.challenge.gov/toolkit/resources/) | [Raw data on crowdsourcing and citizen science, appendices C and D] (https://www.citizenscience.gov/about/#)
+- [Review speaker presentations with project-specific details](TBD)
 
 ---
 
@@ -37,7 +41,7 @@ Speakers, panels, and interactive events will explore the use of these approache
 **9:10 - 9:15 a.m.** - Welcome
 
 -   Jarah Meador - Director of Challenge.gov and CitizenScience.gov (GSA)
--   Jay Huie - Acting Director, Office of Products and Programs (GSA)
+-   Jay Huie - Assistant Commissioner, Office of Products and Programs (GSA)
 
 **9:15 - 9:30 a.m.** - Opening Remarks
 
@@ -96,8 +100,6 @@ Speakers, panels, and interactive events will explore the use of these approache
 
 ---
 
-_This talk is hosted by Federal Community of Practice for Crowdsourcing and Citizen Science and the Challenges and Prizes Federal Community of Practice, and facilitated by DigitalGov University. Both communities provide mechanisms for members of federal, state, local and tribal agencies to share best practices and identify collaboration opportunities across government._
-
-Our team will send a reminder email prior to the event that includes your link to join the video.
+_This talk was hosted by Federal Community of Practice for Crowdsourcing and Citizen Science and the Challenges and Prizes Federal Community of Practice, and facilitated by DigitalGov University. Both communities provide mechanisms for members of federal, state, local and tribal agencies to share best practices and identify collaboration opportunities across government._
 
 Questions about this event or future events? Send them to [team@challenge.gov](mailto:team@challenge.gov).
