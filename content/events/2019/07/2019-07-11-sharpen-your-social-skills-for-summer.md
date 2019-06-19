@@ -1,8 +1,9 @@
 ---
 slug: sharpen-your-social-skills-for-summer
-title: 'A Socialgov Community of Practice Meeting&#58; Sharpen Your Social Skills for Summer'
-summary: 'Come and learn more about photography for social media, how to develop creative content, and honing your Instagram tactics'
-featured_image: 
+title: 'Sharpen Your Social Skills for Summer'
+deck: "Learn how to develop creative content for social media using photography, and sharpening your Instagram skills."
+summary: 'Learn how to develop creative content for social media using photography, and sharpening your Instagram skills.'
+featured_image:
   uid:
   alt: ''
 event_type:
