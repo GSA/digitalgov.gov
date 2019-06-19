@@ -27,14 +27,13 @@ venue:
 
 ---
 
+{{< img src="socialgov-summer-skills" >}}
 
 Join the [SocialGov Community of Practice](https://digital.gov/communities/social-media/) for our Summer Meetup to learn more from your social media colleagues to learn more about photography for social media, developing creative content, and Instagram tactics. In this session you will also have in person networking opportunities before and after the session.
 
 We’ll be joined by social media experts from the U.S. Consumer Product Safety Commission, U.S. Army Reserve Command, and U.S. Marine Corps Installation Command.
 
-{{< img src="socialgov-summer-skills" >}}
-
----
+{{< box >}}
 
 ## Schedule
 
@@ -53,6 +52,8 @@ _~~~ 15 minute break ~~~_
 _~~~ 15 minute break ~~~_
 
 **4:00 - 5:00 pm** — In-person networking, talk with others IRL
+
+{{< /box >}}
 
 ---
 
