@@ -43,9 +43,6 @@ community_list:
 
 The Agile/Lean Community of Practice was started to bring together federal employees who are currently working with agile/lean methodologies or would like to learn more about Agile/Lean. We believe that agile/lean concepts can help the federal government become more efficient and effective while delivering better public services to the American citizen.
 
-## Join
-To join, send an email to **[listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov)** with no subject line and "subscribe agile-lean-cop" in the body.
-
 ## Community Managers
 
 Logan Powell (Census) and Dr. Bill Brantley (USPTO)
