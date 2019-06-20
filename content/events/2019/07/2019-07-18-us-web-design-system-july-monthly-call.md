@@ -1,7 +1,7 @@
 ---
 slug: us-web-design-system-july-monthly-call
-title: 'U&#46;S&#46; Web Design System&#58; July Monthly Call (Topic: Migrating your site)'
-summary: 'Join the U&#46;S&#46; Web Design System team as we walk through how to migrate your site to 2&#46;0 and take any questions you might have! '
+title: "U&#46;S&#46; Web Design System&#58; How to migrate your site to USWDS 2.0"
+summary: "In our July meeting, the USWDS team will walk through how to migrate your site to 2.0 and take any questions you might have."
 featured_image: 
   uid: uswds-2-illio-feature-image
   alt: 'U&#46;S&#46; Web Design System'
@@ -12,7 +12,6 @@ end_date: 2019-07-18 15:00:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System, DigitalGov University
 registration_url: https://www.eventbrite.com/e/us-web-design-system-july-monthly-call-registration-63426916615
-youtube_id: 
 
 ---
 
