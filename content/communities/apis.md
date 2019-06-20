@@ -31,12 +31,6 @@ authors:
 
 This community of practice is for anyone who is interested in government APIs and developer outreach, with a focus on the federal government. APIs are as important to digital government as they are are esoteric and sometimes difficult to understand. This forum exists to help federal agencies share news, ask for help, and expand the use of APIs in government.
 
-## How to join
-
-To participate in this community of practice, join the [group mailing list](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis). The mailing list is open to anyone, in or out of government.
-
-**Community Manager:** Gray Brooks
-
 ## Who we are
 
 The community mailing list is open to everyone, though some events will be limited to those with a federal **.gov** or **.mil** email address.

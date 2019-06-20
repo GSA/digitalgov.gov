@@ -9,12 +9,12 @@ deck: ""
 summary: "We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - challenges
   - crowdsourcing
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - jay-benforado
   - sophia-b-liu
 
@@ -24,7 +24,7 @@ authors:
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /federal-crowdsourcing-and-citizen-science/
   - /communities/federal-crowdsourcing-and-citizen-science/
 
@@ -43,10 +43,6 @@ community_list:
 ---
 
 The Federal Community of Practice on Crowdsourcing and Citizen Science (FedCCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
-
-## Join
-
-Any federal employee or affiliate (e.g., contractors on federal teams) can join our community by emailing the listserv: [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=&amp;body=subscribe%20FCPCCS). The email should have nothing in the subject line, but should have “subscribe FCPCCS” in the body of the message. **Note**: Be sure to remove your signature from the body of the email so that the rest of the message remains blank.
 
 ## Community Managers
 

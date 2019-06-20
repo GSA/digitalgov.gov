@@ -9,13 +9,13 @@ deck: ""
 summary: "We work to find innovative government solutions through encouraging public participation in crowdsourcing competitions."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - challenges
   - crowdsourcing
   - challenge-gov
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - eric-beidel
   - stephanie-green
   - tammy-white
@@ -26,7 +26,7 @@ authors:
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /challenges-prizes-community/
 
 
@@ -47,13 +47,6 @@ community_list:
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
 If you answered yes to any of these questions, the Challenges and Prizes Federal Community of Practice is for you!
-
-## Join
-To join, send an email to **[team@challenge.gov](mailto:team@challenge.gov)** with your name and agency you work for.
-
-## Community Manager(s)
-
-Jarah Meador and Tammy White
 
 ## Who we are
 
