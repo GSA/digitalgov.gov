@@ -30,6 +30,9 @@
 
 top6:
 
+  - file          : '2019-06-14-us-government-open-innovation-summit-transformation-through-citizen-science-prize-competitions.md'
+    type          : 'video'
+
   - file          : '2019-06-18-introducing-a-guide-paperwork-reduction-act.md'
     type          : 'post'
 
