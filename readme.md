@@ -2,13 +2,9 @@
 ## We help the government build better digital services
 https://digital.gov
 
-Follow us on [Twitter »](https://twitter.com/digital_gov/)
-Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
-Sign-up for the [Digital.gov newsletter »](https://connect.digitalgov.gov/subscribe)
-
----
-
-
+- Follow us on [Twitter »](https://twitter.com/digital_gov/)
+- Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
+- Sign-up for the [Digital.gov newsletter »](https://connect.digitalgov.gov/subscribe)
 
 ---
 
@@ -22,14 +18,13 @@ Sign-up for the [Digital.gov newsletter »](https://connect.digitalgov.gov/subsc
 [Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
 
 **For OSX:**
-* `brew install hugo` 
-* see https://gohugo.io/getting-started/installing/ for other OSs
+`brew install hugo` 
+_see https://gohugo.io/getting-started/installing/ for other OSs_
 
 #### Run
 
-* `hugo serve --config=config.yml` (can take 2-3 minutes to launch)
-* or
-* `hugo serve --config=config_dev.yml` (can take 20 secsto launch but only builds a portion of the content)
+`hugo serve --config=config.yml` _(can take 2-3 minutes to launch)_
+or
+`hugo serve --config=config_dev.yml` _(can take 20 secsto launch but only builds a portion of the content)_
 
-
-* visit http://localhost:1313/
+**visit** http://localhost:1313/
