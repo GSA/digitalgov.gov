@@ -6,13 +6,13 @@ featured_image:
   uid: uswds-2-illio-feature-image
   alt: 'U&#46;S&#46; Web Design System'
 event_type: 
-  - online
+  - Zoom
 date: 2019-06-20 14:00:00 -0500
 end_date: 2019-06-20 15:00:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System, DigitalGov University
 registration_url: https://www.eventbrite.com/e/us-web-design-system-june-monthly-call-registration-63426163362
-youtube_id: 
+
 
 ---
   
