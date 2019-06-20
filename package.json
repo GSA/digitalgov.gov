@@ -11,7 +11,7 @@
     "node-notifier": "^5.4.0"
   },
   "devDependencies": {
-    "autoprefixer": "^9.5.1",
+    "autoprefixer": "^9.6.0",
     "css-mqpacker": "^7.0.0",
     "cssnano": "^4.1.10",
     "del": "^3.0.0",
@@ -42,7 +42,7 @@
     "image-size": "^0.7.4",
     "jshint": "^2.10.2",
     "path": "^0.12.7",
-    "uswds": "^2.0.2",
+    "uswds": "^2.0.3",
     "uswds-gulp": "github:uswds/uswds-gulp",
     "vinyl-paths": "^2.1.0"
   },
