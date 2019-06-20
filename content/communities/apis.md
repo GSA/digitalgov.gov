@@ -1,32 +1,37 @@
 ---
+# View this page at https://digital.gov/communities/apis
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: apis
-date: 2018-03-29 3:30:00 -0400
-title: 'APIs'
-summary: 'Working to advance the cause of APIs in the federal government'
-deck: 'Working to advance the cause of APIs in the federal government'
+date: 2018-03-29 3:30:00 -0500
+title: "APIs"
+deck: "Working to advance the cause of APIs in the federal government"
+summary: "Working to advance the cause of APIs in the federal government"
 
-weight: 1
-
-topics:
-  - apis
+# see all topics at https://digital.gov/topics
+topics: 
   - code
+  - api
   - open-source
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - gray-brooks
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
 community_list:
-  - platform: "google-group"
-    subscribe_email: listserv@listserv.gsa.gov
-    subscribe_email_subject: "Join: Accessibility / Section 508"
-    subscribe_email_body: "subscribe agile-lean-cop"
-    subscribe_form: "https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis"
+  - platform: google-group
+    type: public
+    subscribe_form: https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis
     terms: "This community is open to anyone."
     members: 1351
 
-list: "google-group"
 
-
-authors:
-  - gray-brooks
-
+# Make it better ♥
 ---
 
 This community of practice is for anyone who is interested in government APIs and developer outreach, with a focus on the federal government. APIs are as important to digital government as they are are esoteric and sometimes difficult to understand. This forum exists to help federal agencies share news, ask for help, and expand the use of APIs in government.
