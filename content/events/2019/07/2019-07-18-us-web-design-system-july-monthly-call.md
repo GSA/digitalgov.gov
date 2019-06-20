@@ -1,6 +1,6 @@
 ---
 slug: us-web-design-system-july-monthly-call
-title: 'U&#46;S&#46; Web Design System&#58; July Monthly Call'
+title: 'U&#46;S&#46; Web Design System&#58; July Monthly Call (Topic: Migrating your site)'
 summary: 'Join the U&#46;S&#46; Web Design System team as we walk through how to migrate your site to 2&#46;0 and take any questions you might have! '
 featured_image: 
   uid: uswds-2-illio-feature-image
