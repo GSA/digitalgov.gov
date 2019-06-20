@@ -1,4 +1,4 @@
-# DigitalGov.gov / Publishing
+# Digital.gov / Publishing
 
 ## A guide to publishing in a GitHub based workflow
 

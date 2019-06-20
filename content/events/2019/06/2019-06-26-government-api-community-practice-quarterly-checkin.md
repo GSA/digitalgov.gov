@@ -2,10 +2,10 @@
 slug: government-api-community-practice-quarterly-checkin
 title: 'Government API Community of Practice - Quarterly Check-In'
 summary: 'This afternoon event is an opportunity for API practitioners from across federal agencies to come together, share news, and discuss topics of interest&#46; Remote participants will be able to join in via Google Hangout&#46; Anyone with a federal &#46;gov or &#46;mil address is welcome to attend&#46;'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
+event_type:
   - online
   - in-person
 date: 2019-06-26 15:00:00 -0500
@@ -13,7 +13,7 @@ end_date: 2019-06-26 16:30:00 -0500
 event_organizer: DigitalGov University
 host: API Community of Practice
 registration_url: https://www.eventbrite.com/e/government-api-community-of-practice-quarterly-check-in-registration-63308833425
-venue: 
+venue:
   venue_name: U.S. General Services Administration
   room: 2213
   address: 1800 F Street NW
@@ -42,11 +42,11 @@ This afternoon event is an opportunity for API practitioners from across federal
 - 4:00pm - Requests for Help
 - 4:10pm - Proposals and discussion for best practices and norms to adopt
 - 4:20pm - Other Discussion and Q&A
-- 4:30pm - Wrap up  
+- 4:30pm - Wrap up
 
-## Location 
+## Location
 
-In person: GSA Headquarters - Room 2213  
+In person: GSA Headquarters - Room 2213
 Virtual:  Will send to registrants
 
-[Learn more about the APIs community of practice »]({{< link "communities/apis.md" >}})
+[Learn more about the APIs community of practice »]({{< ref "/communities/apis.md" >}})
