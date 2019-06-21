@@ -1,8 +1,8 @@
 ---
 slug: sharpen-your-social-skills-for-summer
 title: 'Sharpen Your Social Skills for Summer'
-deck: "Learn how to develop creative content for social media using photography, and sharpening your Instagram skills."
-summary: 'Learn how to develop creative content for social media, make your photos stand out, and sharpen your Instagram skills.'
+deck: "Learn how to develop creative content for social media, make your photos stand out, and sharpen your Instagram skills."
+summary: "Learn how to develop creative content for social media, make your photos stand out, and sharpen your Instagram skills."
 featured_image:
   uid: socialgov-summer-skills
   alt: ''
