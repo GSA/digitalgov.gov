@@ -4,6 +4,7 @@
 
 slug: building-trust-with-users-through-open-communication-feedback
 date: 2019-06-13 14:00:00 -0500
+kicker: Mobile
 title: "Building Trust with Users Through Open Communication and Feedback"
 deck: "A look at how FEMA responds to user needs and bugs in their app development."
 summary: "A look at how FEMA responds to user needs and bugs in their app development."
