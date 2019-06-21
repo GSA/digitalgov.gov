@@ -14,7 +14,7 @@ end_date: 2019-07-11 17:00:00 -0500
 event_organizer: DigitalGov University
 host: SocialGov Community of Practice
 registration_url: https://www.eventbrite.com/e/socialgov-summer-meetup-registration-63691985443
-youtube_id: 2uEyjYm0Mg
+youtube_id: -2uEyjYm0Mg
 venue:
   venue_name: U.S. General Services Administration
   room: Conference Center (1459/1460/1461)
@@ -28,6 +28,8 @@ venue:
 ---
 
 {{< img src="socialgov-summer-skills" >}}
+
+_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4071181&CustomerID=321)_
 
 Join the [SocialGov Community of Practice](https://digital.gov/communities/social-media/) for our Summer Meetup to learn more from your social media colleagues to learn more about photography for social media, developing creative content, and Instagram tactics. In this session you will also have in person networking opportunities before and after the session.
 

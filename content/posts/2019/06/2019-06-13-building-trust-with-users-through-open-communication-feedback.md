@@ -18,7 +18,7 @@ topics:
   - thursday-mobile-products
 
 featured_image:
-  uid: fema-mobile-app-home-updated
+  uid: fema-mobile-app-home-cropped
   alt: 'A screen from the FEMA app&#46;'
 
 # see all authors at https://digital.gov/authors
