@@ -6,7 +6,7 @@ featured_image:
   uid: uswds-2-illio-feature-image
   alt: 'U&#46;S&#46; Web Design System'
 event_type: 
-  - online
+  - Zoom
 date: 2019-07-18 14:00:00 -0500
 end_date: 2019-07-18 15:00:00 -0500
 event_organizer: DigitalGov University
@@ -33,4 +33,4 @@ In addition, USWDS 2.0 ships with [**Public Sans**](https://public-sans.digital.
 - [Public Sans](https://public-sans.digital.gov/)
 - [Contribute on GitHub](https://github.com/uswds/uswds)
 
-This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand._ 
