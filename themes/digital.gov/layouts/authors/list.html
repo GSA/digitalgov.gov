@@ -51,8 +51,8 @@
                   {{- if .Params.github -}}
                     <li><a class="github" rel="external" title="{{- .Params.display_name }} on GitHub" href="http://www.github.com/{{- .Params.github -}}"><i class="fab fa-github-square"></i></a></li>
                   {{- end -}}
-                  <li><a class="rss" title="RSS Feed for {{ .Params.display_name }}" href="{{ .RSSLink }}"><i class="fas fa-rss-square"></i></a></li>
-                  <li><a class="json" title="API for {{ .Params.display_name }}" href="{{ .Permalink }}index.json"><i class="fab fa-js-square"></i></a></li>
+                  {{-  if .OutputFormats.Get "RSS" -}}<li><a class="rss" title="RSS Feed for {{ .Params.display_name -}}" href="{{- .RelPermalink -}}"><i class="fas fa-rss-square"></i></a></li>{{- end -}}
+                  <li><a class="json" title="API for {{ .Params.display_name -}}" href="{{- .Permalink -}}index.json"><i class="fab fa-js-square"></i></a></li>
                 </ul>
               </div>
             </div>
