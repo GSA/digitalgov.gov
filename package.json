@@ -40,6 +40,7 @@
     "gulp-util": "^3.0.8",
     "gulp-watch": "^5.0.1",
     "image-size": "^0.7.4",
+    "jquery": "^3.4.1",
     "jshint": "^2.10.2",
     "path": "^0.12.7",
     "uswds": "^2.0.3",
