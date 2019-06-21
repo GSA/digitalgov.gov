@@ -12,3 +12,10 @@ gulp.task('compile', function (done) {
   .pipe(concat('base.js'))
   .pipe(gulp.dest('./themes/digital.gov/static/dist'));
 });
+
+const JQUERY_PATH = 'node_modules/jquery/dist/jquery.min.js';
+
+gulp.task('copy-jquery', () => {
+  return gulp.src(`${JQUERY_PATH}`)
+  .pipe(gulp.dest('./themes/digital.gov/static/dist'));
+});

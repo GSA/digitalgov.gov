@@ -41,6 +41,6 @@ gulp.task('watch-sass', function () {
   gulp.watch(`${PROJECT_JS_SRC}/**/*.js`, gulp.series('compile'));
 });
 
-gulp.task('watch', gulp.series('build-sass', 'compile', 'watch-sass'));
+gulp.task('watch', gulp.series('build-sass', 'copy-jquery', 'compile', 'watch-sass'));
 
 gulp.task('default', gulp.series('watch'));
