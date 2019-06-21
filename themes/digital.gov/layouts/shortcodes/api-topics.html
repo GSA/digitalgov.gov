@@ -12,7 +12,7 @@
   {{- range $topic := $list.ByTitle -}}
     {{- with $topic -}}
       {
-        "slug" : "{{- .File.Path | replaceRE "^topics/([^/]+).*" "$1" -}}",
+        "slug" : "{{- with .File -}}{{- .Path | replaceRE "^topics/([^/]+).*" "$1" -}}{{- end -}}",
         "title" : "{{- .Title -}}",
         "summary" : "{{- .Params.summary -}}",
         {{- if .Params.aliases -}}
@@ -36,10 +36,12 @@
         "weight" : "{{- .Params.weight -}}",
         {{- end -}}
         "branch" : {{- $.Scratch.Get "branch" | jsonify -}},
-        "filename" : {{- .File.LogicalName | jsonify -}},
-        "filepath" : {{- .File.Path | jsonify -}},
-        "filepathURL" : {{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path | jsonify -}},
-        "editpathURL" : {{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path | jsonify -}}
+        {{- with .File -}}
+        "filename" : {{- .LogicalName | jsonify -}},
+        {{- end -}}
+        "filepath" : {{- with .File -}}{{- .Path | jsonify -}}{{- end -}},
+        "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}}
       }
       {{- $.Scratch.Add "i" 1 -}}
       {{- $iterator := $.Scratch.Get "i" -}}

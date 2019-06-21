@@ -31,7 +31,9 @@
     {{ if in $promo_topics $topic_slug }}
 
     {{/* This appends/adds the .File.LogicalName to the array */}}
-    {{ $.Scratch.Add "list_related_promos" (slice .File.LogicalName ) }}
+    {{- with .File -}}
+      {{ $.Scratch.Add "list_related_promos" (slice .LogicalName ) }}
+    {{- end -}}
 
     {{ end }}
   {{ end }}

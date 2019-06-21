@@ -33,7 +33,9 @@
       {{ if in $service_topics $topic }}
 
       {{/* This appends/adds the .File.LogicalName to the array */}}
-      {{ $.Scratch.Add "related_services" (slice .File.LogicalName ) }}
+      {{- with .File -}}
+        {{ $.Scratch.Add "related_services" (slice .LogicalName ) }}
+      {{- end -}}
 
       {{ end }}
     {{ end }}

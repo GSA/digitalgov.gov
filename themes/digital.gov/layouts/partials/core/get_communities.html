@@ -33,7 +33,9 @@
       {{ if in $community_topics $topic }}
 
       {{/* This appends/adds the .File.LogicalName to the array */}}
-      {{ $.Scratch.Add "related_communities" (slice .File.LogicalName ) }}
+      {{- with .File -}}
+        {{ $.Scratch.Add "related_communities" (slice .LogicalName ) }}
+      {{- end -}}
 
       {{ end }}
     {{ end }}

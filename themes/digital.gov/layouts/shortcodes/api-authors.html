@@ -70,11 +70,13 @@
         {{- if $author.Params.youtube -}}
         "youtube" : "{{- $author.Params.youtube -}}",
         {{- end -}}
-        "branch" : {{ $.Scratch.Get "branch" | jsonify }},
-        "filename" : {{ $author.File.LogicalName | jsonify }},
-        "filepath" : {{ $author.File.Path | jsonify }},
-        "filepathURL" : {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $author.File.Path | jsonify }},
-        "editpathURL" : {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $author.File.Path | jsonify }},
+        "branch" : {{- $.Scratch.Get "branch" | jsonify -}},
+        {{- with $author.File -}}
+          "filename" : {{- .LogicalName | jsonify -}},
+        {{- end -}}
+        "filepath" : {{ with $author.File -}}{{- .Path | jsonify -}}{{- end -}},
+        "filepathURL" : {{- with $author.File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        "editpathURL" : {{- with $author.File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
         {{- if .Params.aliases -}}
         "aliases" : {
           {{- $aliaslen := .Params.aliases | len -}}

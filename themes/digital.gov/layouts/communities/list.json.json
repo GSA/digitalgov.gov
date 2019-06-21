@@ -133,10 +133,10 @@
       },
       {{- end -}}
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
-      "filename" : {{ .File.LogicalName | jsonify }},
-      "filepath" : {{ .File.Path | jsonify }},
-      "filepathURL" : {{ printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path | jsonify }},
-      "editpathURL" : {{ printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .File.Path | jsonify }},
+      "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
+      "filepath" : {{- with .File -}}{{- .Path | jsonify -}}{{- end -}},
+      "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+      "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
       {{- if .Params.source -}}
       "source" : "{{- .Params.source -}}",
       {{- end -}}
