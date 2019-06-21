@@ -14,7 +14,6 @@ jQuery(document).ready(function($) {
 
 			// Insert the .edit_file_link html into the .edit_file div and remove the .hidden class
 			$('#feedback .edit_file').html(edit).removeClass('hidden');
-			console.log('ddd');
 		}
 	}
 	build_edit_file_link();
