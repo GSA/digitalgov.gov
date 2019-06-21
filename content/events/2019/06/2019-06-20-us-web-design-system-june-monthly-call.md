@@ -12,12 +12,10 @@ end_date: 2019-06-20 15:00:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System, DigitalGov University
 registration_url: https://www.eventbrite.com/e/us-web-design-system-june-monthly-call-registration-63426163362
-
+youtube_id: l1u3umf5YXo
 
 ---
   
-_[View Live Captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4049253&CustomerID=321)_
-
 The General Services Administration’s Technology Transformation Services launched [U.S. Web Design System 2.0](https://designsystem.digital.gov/) on April 8, 2019. Please join Dan Williams, USWDS product lead, for a walkthrough of the system’s design tokens. Dan will also take any questions about the system you may have.
 
 This event is part of a monthly series generally taking place the third Thursday of each month. Video from the webinar will be available on Digital.gov shortly after the event.  
@@ -33,5 +31,3 @@ In addition, USWDS 2.0 ships with [**Public Sans**](https://public-sans.digital.
 - [A guide to migrating to USWDS 2.0](https://designsystem.digital.gov/documentation/migration/)
 - [Public Sans](https://public-sans.digital.gov/)
 - [Contribute on GitHub](https://github.com/uswds/uswds)
-
-This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
