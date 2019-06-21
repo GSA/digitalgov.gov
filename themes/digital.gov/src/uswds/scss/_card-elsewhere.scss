@@ -1,20 +1,27 @@
 .card-elsewhere{
 	.icon{
-		@include u-margin-right(2);
+		@include u-margin-right('105');
 		@include u-square(7);
 		@include at-media('mobile-lg'){
-			@include u-square(9);
+			@include u-square(7);
 		}
 		img{
 			@include u-circle(7);
 			@include at-media('mobile-lg'){
-				@include u-circle(9);
+				@include u-circle(7);
 			}
 			@include u-border('1px', 'gray-cool-10', 'solid');
 		}
 	}
 	.content{
 		flex: 1;
+		p{
+			@include u-measure(5);
+		}
+		.source{
+			@include u-margin-top('05');
+			@include u-display('block');
+		}
 		a{
 			@include u-color('blue-50v');
 		}

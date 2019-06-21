@@ -1,7 +1,11 @@
 <div class="card card-article card-linked" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
   <div class="paper">
     <div class="grid-row grid-gap-2">
-      <div class="grid-col-12">
+      <div class="grid-col-12 tablet:grid-col-3 tablet:order-2">
+        {{- partial "core/img-featured" . -}}
+      </div>
+      <div class="grid-col-12 tablet:grid-col-9 tablet:order-1">
+
         {{- if .Params.kicker -}}
         <p class="kicker">{{- .Params.kicker -}}</p>
         {{- end -}}
@@ -21,6 +25,7 @@
           {{- partial "core/get_clicks" . -}}
         </div>
       </div>
+
     </div>
     <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
   </div>

@@ -23,7 +23,7 @@
           {{- if .Params.deck -}}{{- .Params.deck | markdownify -}}{{- end -}}
           {{- if $source -}}
             {{ $url := urls.Parse .Params.source_url }}
-            <em>— via <a class="source" href="{{- $source.Params.domain -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>
+            <em class="source">— via <a href="{{- $source.Params.domain -}}" title="Read at {{ $source.Params.name -}}">{{- $source.Params.name -}}</a></em>
           {{ end }}
         </p>
         {{- if $source -}}

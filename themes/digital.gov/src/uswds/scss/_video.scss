@@ -51,7 +51,7 @@
   }
   .play::after {
     @include u-position('relative');
-    @include u-top(2);
+    @include u-top('105');
     @include u-left('2px');
     content: " ";
     @include u-display('inline-block');
