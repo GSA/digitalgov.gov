@@ -19,7 +19,7 @@ tag:
 featured_image:
   uid: pra-guide-launch
   alt: ''
-
+weight: 2
 ---
 
 Today, we’re proud to launch [a new guide on the Paperwork Reduction Act](https://pra.digital.gov/) (PRA) — a clear introduction to the Act and the clearance process around it.
