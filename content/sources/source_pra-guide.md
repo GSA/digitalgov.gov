@@ -4,11 +4,11 @@ slug: 'pra-guide'
 name: 'PRA Guide'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'A guide to navigating Paperwork Reduction Act'
+summary: "A guide to navigating Paperwork Reduction Act"
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-domain: 'https://pra.digital.gov'
+domain: "https://pra.digital.gov"
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
@@ -24,7 +24,7 @@ icon: 'pra-guide.png'
 # 0 == hidden promo
 # weight: 3
 
-topics:
-  - pra
+# topics:
+#   - pra
 
 ---
