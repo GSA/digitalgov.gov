@@ -53,6 +53,7 @@
 
             {{/* Sorting all the items by date and reverse chron */}}
             {{ $stream := $stream.ByDate.Reverse }}
+            {{ $stream := $stream.ByWeight }}
 
             {{/* gets the # of news items to display from the config.yml */}}
             {{ $stream_count := .Site.Params.stream_count }}
