@@ -458,4 +458,4 @@ gulp.task("process-img", gulp.series('cleanup', function () {}));
 
 // - - - - - - - - - - - - - - - - -
 // Set watch as default task
-gulp.task('default', gulp.series('watch', 'sass', 'copy-uswds-assets'));
+// gulp.task('default', gulp.series('watch', 'sass', 'copy-uswds-assets'));
