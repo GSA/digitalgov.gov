@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cibuilds/hugo:latest
+      - image: circleci/ruby:2.6.2-node-browsers
 
     steps:
       - checkout
