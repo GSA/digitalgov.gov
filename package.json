@@ -52,7 +52,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-strip-css-comments": "^1.2.0",
     "gulp-tap": "^1.0.1",
-    "gulp-watch": "^4.3.11",
+    "gulp-watch": "^5.0.1",
     "gutil": "^1.6.4",
     "node-notifier": "^5.4.0",
     "octicons": "^7.3.0",
