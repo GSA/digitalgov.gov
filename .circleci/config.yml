@@ -17,6 +17,9 @@ jobs:
           paths:
             - node_modules
       - run:
+          name: install gulp
+          command: sudo npm install gulp -g
+      - run:
           name: Gulp Version
           command: gulp -v
       - run:
