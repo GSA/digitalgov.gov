@@ -14,8 +14,8 @@ jobs:
           name: Install Node dependencies
           command: npm install
       - run:
-          name: NPM Update
-          command: npm update
+          name: Gulp Version
+          command: gulp -v
       # - save_cache:
       #     key: v1-npm-{{ checksum "package-lock.json" }}
       #     paths:
