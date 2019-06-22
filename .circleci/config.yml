@@ -8,18 +8,17 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - v1-npm-{{ checksum "package-lock.json" }}
-            - v1-npm-
+            - v1-npm-cache-{{ .Branch }}-{{ .Revision }}
       - run:
           name: Install Node dependencies
-          command: npm install
+          command: npm install --ignore-scripts --verbose
+      - save_cache:
+          key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - node_modules
       - run:
           name: Gulp Version
           command: gulp -v
-      - save_cache:
-          key: v1-npm-{{ checksum "package-lock.json" }}
-          paths:
-            - node_modules
       - run:
           name: Process images
           command: gulp process-img
