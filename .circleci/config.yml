@@ -21,7 +21,7 @@ jobs:
           command: npm install
       - run:
           name: Install Gulp
-          command: npm i -g gulp-cli
+          command: npm i -g gulp
       - save_cache:
           key: v1-npm-{{ checksum "package-lock.json" }}
           paths:
