@@ -35,22 +35,22 @@ Don’t miss this enlightening and potentially career-enriching episode.
 
 This is the fourth episode in the Federal Crowdsourcing Webinar Series, which airs the second Tuesday of each month. With each installment, we illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 
-**Stay tuned for future airings:**
+### Stay tuned for future airings: 
 
 - **August 13:** History By the People, with Lauren Algee, Library of Congress  
   
-**And don’t miss these previous episodes:**
+### And don’t miss these previous episodes: 
 
 - **Episode 3:** [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/) (June 2019), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau 
 - **Episode 2:** [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/) (May 2019), with Jarah Meador, GSA, and Jessie Buerlein, HHS 
 - **Episode 1:** [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/) (April 2019), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
 
-_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand._
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand._ 
 
-_We will send a reminder email prior to the event that includes your link to join the video._
+_We will send a reminder email prior to the event that includes your link to join the video._ 
 
 ---
 
-_This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
- 
-_For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._
+_This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._ 
+
+_For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._ 
