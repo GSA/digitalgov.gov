@@ -35,11 +35,11 @@ Don’t miss this enlightening and potentially career-enriching episode.
 
 This is the fourth episode in the Federal Crowdsourcing Webinar Series, which airs the second Tuesday of each month. With each installment, we illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 
-### Stay tuned for future airings: 
+**Stay tuned for future airings:**
 
 - **August 13:** History By the People, with Lauren Algee, Library of Congress  
   
-### And don’t miss these previous episodes:
+**And don’t miss these previous episodes:**
 
 - **Episode 3:** [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/) (June 2019), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau 
 - **Episode 2:** [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/) (May 2019), with Jarah Meador, GSA, and Jessie Buerlein, HHS 
