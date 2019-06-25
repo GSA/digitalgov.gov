@@ -3,7 +3,7 @@ slug: federal-crowdsourcing-webinar-series-episode-4-open-opportunities
 title: 'Federal Crowdsourcing Webinar Series, Episode 4&#58; Open Opportunities'
 summary: 'The Open Opportunities program is a “win-win” for federal employees looking to refresh their skills and U&#46;S&#46; agencies seeking talent, energy, and enthusiasm from across a diverse cross-section of the federal workforce&#46;'
 featured_image:
-  uid:
+  uid: challengegov-card-episode-4
   alt: ''
 event_type:
   - online
@@ -14,6 +14,8 @@ host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-episode-4-open-opportunities-registration-59460312395
 
 ---
+
+{{< img src="challengegov-card-episode-4"  >}}
 
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3998903&CustomerID=321)_
 
@@ -51,6 +53,6 @@ We will send a reminder email prior to the event that includes your link to join
 
 ---
 
-_This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._ 
+_This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
 _For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._
