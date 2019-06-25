@@ -1,7 +1,7 @@
 ---
 slug: federal-plain-language-report-card-planning
 title: 'Federal Plain Language Report Card Planning'
-summary: 'Come and help is plan for this year&#39;s federal report card review&#46;'
+summary: 'Come and help us plan for this year&#39;s federal report card review&#46;'
 featured_image: 
   uid: plain-language
   alt: ''
