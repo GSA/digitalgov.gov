@@ -7,8 +7,8 @@ featured_image:
   uid: socialgov-summer-skills
   alt: ''
 event_type:
-  
   - in-person
+  - online
 date: 2019-07-11 12:30:00 -0500
 end_date: 2019-07-11 17:00:00 -0500
 event_organizer: DigitalGov University
