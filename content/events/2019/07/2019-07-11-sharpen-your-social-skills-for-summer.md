@@ -7,14 +7,13 @@ featured_image:
   uid: socialgov-summer-skills
   alt: ''
 event_type:
-  - youtube-live
   - in-person
+  - online
 date: 2019-07-11 12:30:00 -0500
 end_date: 2019-07-11 17:00:00 -0500
 event_organizer: DigitalGov University
 host: SocialGov Community of Practice
 registration_url: https://www.eventbrite.com/e/socialgov-summer-meetup-registration-63691985443
-youtube_id: -2uEyjYm0Mg
 venue:
   venue_name: U.S. General Services Administration
   room: Conference Center (1459/1460/1461)
