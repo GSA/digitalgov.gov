@@ -1,20 +1,19 @@
 ---
 slug: sharpen-your-social-skills-for-summer
 title: 'Sharpen Your Social Skills for Summer'
-deck: "Learn how to develop creative content for social media using photography, and sharpening your Instagram skills."
-summary: 'Learn how to develop creative content for social media using photography, and sharpening your Instagram skills.'
+deck: "Learn how to develop creative content for social media, make your photos stand out, and sharpen your Instagram skills."
+summary: "Learn how to develop creative content for social media, make your photos stand out, and sharpen your Instagram skills."
 featured_image:
   uid: socialgov-summer-skills
   alt: ''
 event_type:
-  - youtube-live
   - in-person
+  - online
 date: 2019-07-11 12:30:00 -0500
 end_date: 2019-07-11 17:00:00 -0500
 event_organizer: DigitalGov University
 host: SocialGov Community of Practice
 registration_url: https://www.eventbrite.com/e/socialgov-summer-meetup-registration-63691985443
-youtube_id: -2uEyjYm0Mg
 venue:
   venue_name: U.S. General Services Administration
   room: Conference Center (1459/1460/1461)
@@ -31,7 +30,9 @@ venue:
 
 _[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4071181&CustomerID=321)_
 
-Join the [SocialGov Community of Practice](https://digital.gov/communities/social-media/) for our Summer Meetup to learn more from your social media colleagues to learn more about photography for social media, developing creative content, and Instagram tactics. In this session you will also have in person networking opportunities before and after the session.
+
+Join the [SocialGov Community of Practice](https://digital.gov/communities/social-media/) for our Summer Meetup to learn more from your social media colleagues about photography for social media, developing creative content, and Instagram tactics. In this session you will also have in person networking opportunities before and after the session. 
+
 
 We’ll be joined by social media experts from the U.S. Consumer Product Safety Commission, U.S. Army Reserve Command, and U.S. Marine Corps Installation Command.
 

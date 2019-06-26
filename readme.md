@@ -1,4 +1,5 @@
 # Digital.gov
+
 ## We help the government build better digital services
 https://digital.gov
 
@@ -13,12 +14,17 @@ https://digital.gov
 
 [Digital.gov](https://digital.gov/) is built with [Hugo](https://gohugo.io/) and hosted by [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).
 
+
+### Install NPM Dependencies
+
+`npm install`
+
 ### Install Hugo
 
 [Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
 
 **For OSX:**
-`brew install hugo` 
+`brew install hugo`
 _see https://gohugo.io/getting-started/installing/ for other OSs_
 
 #### Run
