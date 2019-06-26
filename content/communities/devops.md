@@ -20,7 +20,7 @@ To join, send an email from your official government email to: [devops-today-sub
 
 ## What we do
 
-The DevOps CoP will meet the fourth Tuesday of each month for 30 minutes. In each meeting, a presenter will have the opportunity to share experiences for 15 minutes, followed by a 15 minute Q&A session.
+The DevOps CoP will meet on the fourth Tuesday of each month for 30 minutes. In each meeting, a presenter will have the opportunity to share experiences for 15 minutes, followed by a 15 minute Q&A session.
 
 **We work towards the following:**
 
