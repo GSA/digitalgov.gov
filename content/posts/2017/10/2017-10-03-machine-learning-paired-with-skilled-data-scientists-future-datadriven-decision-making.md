@@ -14,7 +14,6 @@ topics:
   - data
   - defense-advanced-research-projects-agency
   - hhs
-  - machine-learning
   - nasa
   - national-aeronautics-and-space-administration
   - trends-on-tuesday

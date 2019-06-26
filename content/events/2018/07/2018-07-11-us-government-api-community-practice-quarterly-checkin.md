@@ -23,7 +23,7 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 topics:
   - api
-  - api-community
+  - api
 
 ---
 

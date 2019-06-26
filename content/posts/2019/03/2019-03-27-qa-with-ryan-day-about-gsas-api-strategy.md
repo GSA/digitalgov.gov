@@ -9,7 +9,7 @@ authors:
   - ryan-day
 topics:
   - api
-  - api-community
+  - api
   - code
   - product-management
   - open-source

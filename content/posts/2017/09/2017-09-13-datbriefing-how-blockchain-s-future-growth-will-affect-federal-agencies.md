@@ -18,7 +18,7 @@ topics:
   - data
   - security
   - the-data-briefing
-  - emerging-citizen-technology
+  - emerging-tech
 
 ---
 

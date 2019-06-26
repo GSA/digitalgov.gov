@@ -17,13 +17,13 @@ topics:
   - OMB
   - US General Services Administration
   - Unified Shared Services Management
-  - ussm
   - white-house
+
 ---
 
 > **Summary**: Today, we’re launching the M3 Framework to provide agencies with leading best practices for mission-support function modernizations and migrations.
 
-The government’s internal operations have a powerful impact on service to its citizens, and this Administration has made transformation of management practices within the Federal Government a key priority. By [sharing and streamlining mission support services](https://www.whitehouse.gov/blog/2016/05/04/continuing-shared-services-momentum) and [retiring or modernizing inefficient legacy IT systems](https://www.whitehouse.gov/blog/2016/04/08/improving-and-modernizing-federal-cybersecurity), we’re better able to overcome the challenges of large-scale mission support projects, support core agency missions, and make our IT infrastructure more secure – all while achieving a more efficient, secure, and effective government for the American people. {{< legacy-img src="2016/08/600-x-400-Washington-DC-Capitol-dome-detail-with-waving-american-flag-Andrea-Izzotti-iStock-Thinkstock-513647471.jpg" alt="Washington DC Capitol dome detail with waving american flag." caption="" >}} 
+The government’s internal operations have a powerful impact on service to its citizens, and this Administration has made transformation of management practices within the Federal Government a key priority. By [sharing and streamlining mission support services](https://www.whitehouse.gov/blog/2016/05/04/continuing-shared-services-momentum) and [retiring or modernizing inefficient legacy IT systems](https://www.whitehouse.gov/blog/2016/04/08/improving-and-modernizing-federal-cybersecurity), we’re better able to overcome the challenges of large-scale mission support projects, support core agency missions, and make our IT infrastructure more secure – all while achieving a more efficient, secure, and effective government for the American people. {{< legacy-img src="2016/08/600-x-400-Washington-DC-Capitol-dome-detail-with-waving-american-flag-Andrea-Izzotti-iStock-Thinkstock-513647471.jpg" alt="Washington DC Capitol dome detail with waving american flag." caption="" >}}
 
 Recognizing the need to provide agencies with leading practices during mission-support function modernizations and migrations, the General Service Administration’s (GSA) Unified Shared Services Management (USSM) office developed the Modernization and Migration Management (M3) Framework. The M3 Framework, [released today](https://www.ussm.gov/m3/) on the [USSM.gov](https://www.ussm.gov/) website, includes an M3 Playbook and Investment Review Process, which together aim to increase the likelihood of success as agencies modernize and/or migrate their mission support functions such as financial management, human resources and acquisition.
 

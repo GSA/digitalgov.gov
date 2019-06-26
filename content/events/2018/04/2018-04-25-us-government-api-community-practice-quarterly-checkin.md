@@ -24,7 +24,7 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 topics:
   - api
-  - api-community
+  - api
 
 ---
 
@@ -35,7 +35,7 @@ This afternoon event is an opportunity for API practitioners from across federal
 - 3:00pm - Welcome and Introductions
 - 3:10pm - Review of newly launched APIs and Developer Hubs (details below)
 - 3:20pm - Review of relevant news (details below)
-- 3:30pm - Agency Presentation 
+- 3:30pm - Agency Presentation
 - 3:45pm - Agency Presentation
 - 4:00pm - Requests for Help
 - 4:10pm - Proposals and discussion for best practices and norms to adopt

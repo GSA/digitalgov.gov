@@ -20,7 +20,7 @@ topics:
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
-  - automation
+  - emerging-tech
   - blockchain
   - socialgov
   - socialgov-community

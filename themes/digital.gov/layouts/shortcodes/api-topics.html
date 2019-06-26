@@ -36,16 +36,17 @@
         "weight" : "{{- .Params.weight -}}",
         {{- end -}}
         "branch" : {{- $.Scratch.Get "branch" | jsonify -}},
-        {{- with .File -}}
-        "filename" : {{- .LogicalName | jsonify -}},
-        {{- end -}}
+        "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
         "filepath" : {{- with .File -}}{{- .Path | jsonify -}}{{- end -}},
         "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
-        "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}}
+        "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        "length" : {{- $length -}},
+        "iterator" : "{{- $.Scratch.Get "i" -}}"
       }
       {{- $.Scratch.Add "i" 1 -}}
       {{- $iterator := $.Scratch.Get "i" -}}
       {{- if not (eq $length $iterator) -}}, {{- end -}}
+
     {{- end -}}
   {{- end -}}
   ]

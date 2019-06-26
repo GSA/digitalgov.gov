@@ -28,7 +28,7 @@ categories:
   - api
 tag:
   - api
-  - api-community
+  - api
 
 ---
 

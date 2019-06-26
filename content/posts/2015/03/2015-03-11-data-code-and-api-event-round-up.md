@@ -17,7 +17,6 @@ topics:
   - data-gov
   - drupal
   - GitHub
-  - inventory.data.gov
   - json
   - metadata
   - mobile-gov-community-of-practice

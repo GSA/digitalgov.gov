@@ -15,9 +15,9 @@ topics:
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
-  - automation
+  - emerging-tech
   - augmented-reality
-  - federal-blockchain-community
+  - blockchain
   - social-media
   - virtual-augmented-reality-community
   - virtual-reality

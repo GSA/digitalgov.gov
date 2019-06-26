@@ -14,7 +14,7 @@ topics:
   - policy
   - content
   - content-strategy
-  - kids.gov
+  - kids-gov
   - Pinterest
   - social-media
   - social-media-metrics

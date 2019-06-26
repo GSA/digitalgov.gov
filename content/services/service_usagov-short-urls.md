@@ -26,7 +26,7 @@ weight: 1
 # Topics that best describe this product or service
 topics:
   - social-media
-  - content-management
+  - content-strategy
 
 ---
 

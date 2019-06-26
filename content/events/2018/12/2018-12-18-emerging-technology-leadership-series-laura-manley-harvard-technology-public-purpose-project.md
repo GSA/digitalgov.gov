@@ -19,7 +19,7 @@ topics:
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
   - augmented-reality
-  - federal-blockchain-community
+  - blockchain
   - virtual-augmented-reality-community
   - virtual-reality
 
