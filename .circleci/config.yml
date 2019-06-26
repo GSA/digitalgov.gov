@@ -15,6 +15,9 @@ jobs:
       - run:
           name: Install Node dependencies
           command: npm install
+      - run:
+          name: Node version
+          command: node -v
       - save_cache:
           key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
           paths:
