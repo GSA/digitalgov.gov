@@ -14,7 +14,7 @@ jobs:
           command: sudo npm install gulp -g
       - run:
           name: Install Node dependencies
-          command: npm install --ignore-scripts --verbose
+          command: npm install
       - save_cache:
           key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
           paths:
