@@ -16,7 +16,7 @@ The FedRPA CoP is open to government employees only.
 To join, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)
 
 
-## Who we are
+## Who We Are
 
 The CoP will be chaired by Ed Burrows of the GSA Office of the Chief Financial Officer (CFO).
 
@@ -30,7 +30,7 @@ The CoP will be chaired by Ed Burrows of the GSA Office of the Chief Financial O
 The executive sponsors of the RPA CoP are GSA Chief Financial Officer Gerard Badorrek and GSA Technology Transformation Services (TTS) Director Anil Cheriyan.
 
 
-## What we do
+## What We Do
 
 The CoP achieves its mission through information sharing, identification and definition of options, best practices, methods and standards for RPA implementation and operations. The CoP does not set policy, but policy-setting agencies are encouraged to participate and make use of the community’s base of knowledge, information and experience.
 
