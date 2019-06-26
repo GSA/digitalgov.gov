@@ -31,4 +31,4 @@ The DevOps CoP will meet on the fourth Tuesday of each month for 30 minutes. In 
 
 ## Who We Are
 
-**Brian Fox** (community manager) is currently a strategist at [18F](https://18f.gsa.gov/). Prior to working as a member of the 18F Strategy team, he led systems development at USGS’s National Geospatial Technical Operations Center (NGTOC) where he oversaw development activity in support of The National Map. Brian has also supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas.
+Community Manager **Brian Fox** is currently a strategist at [18F](https://18f.gsa.gov/). Prior to working as a member of the 18F Strategy team, he led systems development at USGS’s National Geospatial Technical Operations Center (NGTOC) where he oversaw development activity in support of The National Map. Brian has also supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas.
