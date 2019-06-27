@@ -6,6 +6,7 @@ featured_image:
   uid:
   alt: ''
 event_type:
+  - Zoom
 date: 2019-06-26 14:00:00 -0500
 end_date: 2019-06-26 15:00:00 -0500
 event_organizer: DigitalGov University
