@@ -24,6 +24,8 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 
 ---
+
+
 As Presidential Innovation Fellows, our work reaches across every federal agency and visualizing this work can be daunting. How do we design informative dashboards that tell a story? How can we use our creativity to explore new visuals to make the complex more simple?
 
 Join us for a 20 person only, interactive workshop on data storytelling. The federal call for open data means that very soon the American public will be involved in the civic tech process in new and engaging ways. Similarly, federal agencies are eager to visualize evidence based data in dynamic ways that tell stories and inspire both employees and external audiences.
