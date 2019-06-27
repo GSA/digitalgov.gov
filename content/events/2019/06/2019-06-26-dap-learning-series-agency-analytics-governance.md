@@ -15,7 +15,6 @@ registration_url: https://www.eventbrite.com/e/dap-learning-series-agency-analyt
 youtube_id: u2phSZaY6Z0
 
 ---
-_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993564&CustomerID=321)_
 
 In this webinar, we’ll talk to members of various agencies to find out how analytics programs and tools are governed at that agency. Each agency has its own way of determining which tools are used, methods of implementation, which personnel get access, how deployment and support are handled, and where responsibilities lie.
 
