@@ -8,16 +8,15 @@ gulp.task('add', function(){
     .pipe(git.add({args: '-f'}));
 });
 
-// Run git commit with a computed commit message
+// Run git commit
+// src are the files to commit (or ./*)
 gulp.task('commit', gulp.series('add', function (done){
-  let newVersion;
-  function computeNewVersion() { newVersion = "3.3" }
-  return gulp.src('*')
-    .pipe(computeNewVersion())
-    .pipe(git.commit(() => `new image`));
+  return gulp.src('./*')
+    .pipe(git.commit('initial commit', {args: '-a'}));
 }));
 
-// gulp.task("commit", gulp.series('add', function (done) {
-//   return gulp.src('*')
-//     .pipe(git.add());
-// }));
+gulp.task('push', gulp.series('commit', function (done){
+  git.push('origin', {args: " -f"}, function (err) {
+    if (err) throw err;
+  });
+});
