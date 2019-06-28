@@ -407,7 +407,8 @@ gulp.task("cleanup", gulp.series('done', function (done) {
   return del(['content/images/_working/**']);
 }));
 
-gulp.task("process-img", gulp.series('cleanup', function () {}));
+gulp.task("process-img", gulp.series('cleanup'));
+// gulp.task('default', gulp.series('watch', 'sass', 'copy-uswds-assets'));
 
 
 // - - - - - - - - - - - - - - - - -
