@@ -5,7 +5,7 @@ var git = require('gulp-git');
 // src is the file(s) to add (or ./*)
 gulp.task('add', function(){
   return gulp.src('./*')
-    .pipe(git.add());
+    .pipe(git.add({args: '-f'}));
 });
 
 // Run git commit with a computed commit message
