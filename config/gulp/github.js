@@ -19,4 +19,4 @@ gulp.task('push', gulp.series('commit', function (done){
   git.push('origin', {args: " -f"}, function (err) {
     if (err) throw err;
   });
-});
+}));
