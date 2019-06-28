@@ -23,7 +23,7 @@ var gulp          = require("gulp"),
     responsive    = require('gulp-responsive'),
     tap           = require('gulp-tap'),
     rename        = require("gulp-rename"),
-    fs            = require('fs'),
+    fs            = require('graceful-fs'),
     sizeOf        = require('image-size'),
     dotenv        = require('dotenv').config(),
     s3config      = {
@@ -109,7 +109,9 @@ gulp.task("img-variants", gulp.series('clean-inbox', function (done) {
       var uid = get_image_uid(file.path);
       var format = get_image_format(file.path);
       var dimensions = sizeOf(file.path);
-      fs.writeFile('data/images/'+ uid +'.yml', get_image_data(uid, dimensions.width, dimensions.height, format));
+      fs.writeFile('data/images/'+ uid +'.yml', get_image_data(uid, dimensions.width, dimensions.height, format), function(){
+        console.log('image written');
+      });
     }))
     // Create responsive variants
       .pipe(responsive({
@@ -342,13 +344,6 @@ gulp.task("upload", gulp.series('img-variants', function (done) {
 }));
 
 
-// gulp.task('log', ["upload"], function (cb) {
-//   gulp.src('content/images/_working/processed/**/*', { base: 'content/images/_working/processed/' })
-//     .pipe(tap(function (file) {
-//       fs.writeFile(get_data_path(file.path), 'hello there', cb);
-//     }))
-// });
-
 gulp.task("proxy", gulp.series('upload', function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
@@ -404,5 +399,3 @@ gulp.task("done", gulp.series('proxy', function (done) {
 gulp.task("cleanup", gulp.series('done', function (done) {
   return del(['content/images/_working/**']);
 }));
-
-gulp.task("process-img", gulp.series('cleanup', function () {}));
