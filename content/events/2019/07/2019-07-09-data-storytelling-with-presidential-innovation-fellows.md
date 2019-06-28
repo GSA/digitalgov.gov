@@ -1,19 +1,19 @@
 ---
 slug: data-storytelling-with-presidential-innovation-fellows
 title: 'Data Storytelling with the Presidential Innovation Fellows'
-summary: 'Two hour workshop with PIFs to learn how to give your data its best story possible&#46; 
+summary: 'Two hour workshop with PIFs to learn how to give your data its best story possible&#46;
 '
-featured_image: 
-  uid: 
-  alt: ''
-event_type: 
+featured_image:
+  uid: pif-data-storytelling-workshop
+  alt:
+event_type:
   - in-person
 date: 2019-07-09 10:30:00 -0500
 end_date: 2019-07-09 12:30:00 -0500
 event_organizer: DigitalGov University
 host: PIF
 registration_url: https://www.eventbrite.com/e/data-storytelling-with-the-presidential-innovation-fellows-registration-63280252940
-venue: 
+venue:
   venue_name: U.S. General Services Administration
   room: PIF Space
   address: 1800 F Street NW
@@ -25,21 +25,22 @@ venue:
 
 ---
 
+{{< img src="pif-data-storytelling-workshop" >}}
 
 As Presidential Innovation Fellows, our work reaches across every federal agency and visualizing this work can be daunting. How do we design informative dashboards that tell a story? How can we use our creativity to explore new visuals to make the complex more simple?
 
 Join us for a 20 person only, interactive workshop on data storytelling. The federal call for open data means that very soon the American public will be involved in the civic tech process in new and engaging ways. Similarly, federal agencies are eager to visualize evidence based data in dynamic ways that tell stories and inspire both employees and external audiences.
 
-**Hosts include:** 
+**Hosts include:**
 
 * Nina Bianchi is a PIF and Director of Workforce Solutions at CoEs
 * Maria Dayton is a PIF and working with 24 agencies at GSA on Cap Goal 4
 * Amy Ashida is a UX Designer with 18F who is collaborating on our AI-centric Story Bank
-* Davar Ardalan is Deputy Director of the Presidential Innovation Fellowship Program 
+* Davar Ardalan is Deputy Director of the Presidential Innovation Fellowship Program
 
 **Data Storytelling Workshop Agenda:**
 
-* 10:30-10:40 Arrivals 
+* 10:30-10:40 Arrivals
 * 10:40-10:50 Introduction to Data Storytelling (Davar, Nina, Maria)
 * 10:50-11:00 Emoji icebreaker (Nina lead w/ support by Maria/Davar/Amy)
 * 11:05-11:20 Best Practices: Dashboards (Maria)
