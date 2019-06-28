@@ -344,13 +344,6 @@ gulp.task("upload", gulp.series('img-variants', function (done) {
 }));
 
 
-// gulp.task('log', ["upload"], function (cb) {
-//   gulp.src('content/images/_working/processed/**/*', { base: 'content/images/_working/processed/' })
-//     .pipe(tap(function (file) {
-//       fs.writeFile(get_data_path(file.path), 'hello there', cb);
-//     }))
-// });
-
 gulp.task("proxy", gulp.series('upload', function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
@@ -408,55 +401,3 @@ gulp.task("cleanup", gulp.series('done', function (done) {
 }));
 
 gulp.task("process-img", gulp.series('cleanup'));
-// gulp.task('default', gulp.series('watch', 'sass', 'copy-uswds-assets'));
-
-
-// - - - - - - - - - - - - - - - - -
-// Build USWDS styles
-
-// gulp.task('copy-uswds-assets', () => {
-//   return gulp.src(`${USWDS_DIST}/@(js|fonts|img)/**/**`)
-//   .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds'));
-// });
-
-// gulp.task('sass', function (done) {
-//   return gulp.src('./themes/digital.gov/src/sass/**/*.scss')
-//     .pipe(sourcemaps.init())
-//     .pipe(sass({
-//       includePaths: [
-//         path.join(USWDS_DIST_DIR, 'scss'),
-//       ]
-//     }).on('error', sass.logError))
-//     .pipe(
-//       autoprefixer({
-//         browsers: [
-//           '> 1%',
-//           'Last 2 versions',
-//           'IE 11',
-//           'IE 10',
-//           'IE 9',
-//         ],
-//         cascade: false,
-//       }))
-//     .pipe(cssnano({
-//       safe: true,
-//       // XXX see https://github.com/ben-eb/cssnano/issues/340
-//       mergeRules: false,
-//     }))
-//     .pipe(rename({
-//       suffix: '.min',
-//     }))
-//     .pipe(sourcemaps.write())
-//     .pipe(gulp.dest('./themes/digital.gov/static/lib/uswds/css'));
-// });
-
-
-// // - - - - - - - - - - - - - - - - -
-// gulp.task("watch", function () {
-//   gulp.watch('./themes/digital.gov/src/sass/**/*.scss', ['sass']);
-// })
-
-
-// - - - - - - - - - - - - - - - - -
-// Set watch as default task
-// gulp.task('default', gulp.series('watch', 'sass', 'copy-uswds-assets'));
