@@ -113,6 +113,10 @@ The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-cont
 
 The [Filipino Translation Style Guide](https://drive.google.com/file/d/0B5nsVoOnh9x8Ul9uYzNSRDlXY2M/view) provides guidelines for translation in the Filipino language for the City and County of San Francisco.
 
+#### National Institutes of Health (NIH)
+
+NIH has a new Spanish Style Guide available in [English](https://digital.gov/pdf/NIH_Spanish_Style_Guide_Eng_ver.pdf) (PDF, 315 kb, 33 pages) and [Spanish](https://digital.gov/pdf/NIH_Spanish_Style_Guide_Spanish_ver.pdf) (PDF, 427 kb, 32 pages). 
+
 ## Additional Resources
 
 - [Spanish Grammar](https://digital.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/) <br />This page was peer reviewed by Leticia Molinero, Maria Cornelio and Jack Segura, members of the North American Academy of the Spanish Language (ANLE).

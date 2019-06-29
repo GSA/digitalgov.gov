@@ -16,9 +16,12 @@ topics:
   - Twitter
   - US Department of State
   - United States Department of Defense
+
 ---
 
-[{{< legacy-img src="2014/04/Getty-article-image.jpg" alt="multiple small images on a computer screen" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/Getty-article-image.jpg)Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its’ copyrighted images for free. The news generated headlines and questions about whether it’s okay for government content producers to use the tool.
+[{{< legacy-img src="2014/04/Getty-article-image.jpg" alt="multiple small images on a computer screen" >}}] 
+
+Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its’ copyrighted images for free. The news generated headlines and questions about whether it’s okay for government content producers to use the tool.
 
 From Getty’s perspective, the answer is yes. The company’s main restriction is that the images be used for editorial, non-commercial purposes and government content meets this criteria.
 
@@ -58,7 +61,7 @@ One sure way to acquire photos with appropriate rights is to get them from prima
       * Department of Defense [DVIDS](http://www.dvidshub.net/)
       * [USA.gov Images](http://www.usa.gov/Topics/Graphics.shtml)
 
-Many agencies curate and feature some of their best images in [Flickr streams](https://www.flickr.com/photos/statephotos/sets/), [Tumblr](http://www.archives.gov/social-media/tumblr.html), Pinterest, [Instagram](http://instagram.com/statedept) and other social media channels.
+Many agencies curate and feature some of their best images in [Flickr streams](https://www.flickr.com/photos/statephotos/sets/), [Tumblr](http://www.archives.gov/social-media/tumblr.html), [Pinterest](https://www.pinterest.com/nasa/), [Instagram](http://instagram.com/statedept) and other social media channels.
 
 ## How Else Might I Get Permission to Use Copyrighted Photographs?
 
@@ -69,5 +72,7 @@ Many agencies curate and feature some of their best images in [Flickr streams](h
 ## How Do I Ensure Proper Future Use of Photos I Post?
 
 The best strategy is to consistently take the time to properly tag, caption and credit photographs. This will not only clearly identify what is public domain and what is copyrighted, but also make it easier for future researchers to find your best photographs.
+
+--- 
 
 _**Judith Snyderman** is a stock image specialist and contractor for government agencies._

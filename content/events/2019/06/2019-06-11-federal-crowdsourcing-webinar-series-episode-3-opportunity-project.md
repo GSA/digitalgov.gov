@@ -17,8 +17,6 @@ youtube_id: ZhMgfptuiUw
 
 ---
 
-{{< img src="challengegov-card-episode-3"  >}}
-
 _[View Live Captioning for this Event ](https://www.captionedtext.com/client/event.aspx?EventID=3998900&CustomerID=321)_
 
 The Federal Crowdsourcing Webinar Series explores how federal agencies are engaging the crowd to multiply the ideas and perspectives they bring to certain issues. In this third episode, you’ll learn how The Opportunity Project is bringing together government, technologists, and communities to create digital tools that help strengthen economic opportunity.
