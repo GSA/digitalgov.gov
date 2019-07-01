@@ -15,8 +15,6 @@ registration_url: https://www.eventbrite.com/preview?eid=63483436668
 youtube_id: Hi9KWZhi0so
 
 ---
-INSERT CAPTIONING
-
 User-centered design is a practice honed by the American tech industry. In American government practice, it has meant inserting the end-user into as many conversations, meetings, and product discussions as possible. Many people in government are receptive to this re-framing, and it allows civic technologists and designers across TTS to more intentionally design products and services with the person who will use it in mind. Joining Davar Ardalan are 18F Designer Vishal Iyer, and PIF Zachary Goldfine.
 
 We are launching this series in conjunction with GSA’s 70th Anniversary. Curated by GSA’s Office of Products and Programs (OPP), the Presidential Innovation Fellows Program (PIF), and DigitalGov University (DGU), these chats foster learnings and a collective voice on applied innovation. The series is produced and hosted by PIF leaders, Davar Ardalan and Joshua Di Frances.
