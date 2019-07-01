@@ -1,6 +1,6 @@
 ---
 slug: us-web-design-system-july-monthly-call
-title: "U&#46;S&#46; Web Design System&#58; How to migrate your site to USWDS 2.0"
+title: "U&#46;S&#46; Web Design System&#58; How to Migrate Your Site to USWDS 2.0"
 summary: "In our July meeting, the USWDS team will walk through how to migrate your site to 2.0 and take any questions you might have."
 featured_image: 
   uid: uswds-2-illio-feature-image
