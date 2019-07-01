@@ -1,6 +1,6 @@
 ---
 slug: data-storytelling-with-presidential-innovation-fellows
-title: 'Data Storytelling with the Presidential Innovation Fellows'
+title: 'Data Storytelling With the Presidential Innovation Fellows'
 summary: 'Two hour workshop with PIFs to learn how to give your data its best story possible&#46; 
 '
 featured_image: 
