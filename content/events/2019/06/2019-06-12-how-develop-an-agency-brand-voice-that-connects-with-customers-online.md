@@ -16,11 +16,11 @@ youtube_id: Cmxv70Tn2hk
 
 ---
 
-[Read the event transcript](https://digital.gov/pdf/PLAIN-06122019-Transcript.pdf) (PDF, 84 KB, 12 pages)
+[Read the event transcript](https://digital.gov/pdf/PLAIN-06122019-Transcript.pdf) (PDF, 84 KB, 12 pages) 
 
 Is your agency using a tone of voice that connects with customers online, or is it using a stale, bureaucratic voice that repels them and breeds distrust or confusion? 
  
-Noted trainer Leslie O’Flahavan will cover what brand voice is and how it’s governed. We’ll see examples of agency content that’s written in a voice that supports the agency’s brand, and some examples that don’t. We’ll go through a simple exercise that will help you define your brand voice, which may vary somewhat by project, product, or section of your site. We’ll also discuss the situations in which using an inconsistent voice will cause problems.
+Noted trainer Leslie O’Flahavan will cover what brand voice is and how it’s governed. We’ll see examples of agency content that’s written in a voice that supports the agency’s brand, and some examples that don’t. We’ll go through a simple exercise that will help you define your brand voice, which may vary somewhat by project, product, or section of your site. We’ll also discuss the situations in which using an inconsistent voice will cause problems. 
 
 **About PlainLanguage.gov** 
 
