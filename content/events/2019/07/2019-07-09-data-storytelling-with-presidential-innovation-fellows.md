@@ -48,7 +48,7 @@ Join us for a 20 person only, interactive workshop on data storytelling. The fed
 * 11:35-12:10 Imagine this! Every Dashboard Tells a Story: mobile + desktop (Nina)
 * 12:10-12:30 Group: Show + Tell
 
-TTS federal employees are welcome to join us in person. The workshop is hosted by the [Presidential Innovation Fellows Program](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-presidential-innovation-fellows)(PIF), and [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU).
+All federal employees are welcome to join us in person. The workshop is hosted by the [Presidential Innovation Fellows Program](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-presidential-innovation-fellows)(PIF), and [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU).
 *Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).*
 
 Presidential Innovation Fellows, DigitalGov University and 18F Design Lab are part of GSA's Technology Transformation Services with a mission to improve the public’s experience with the government by helping agencies build, buy and share technology that allows them to better serve the public.
