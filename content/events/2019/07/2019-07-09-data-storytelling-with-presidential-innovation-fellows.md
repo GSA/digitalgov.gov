@@ -24,9 +24,9 @@ venue:
 
 ---
 
-As Presidential Innovation Fellows (PIFs), our work reaches across every federal agency and visualizing this work can be daunting. How do we design informative dashboards that tell a story? How can we use our creativity to explore new visuals to make the complex more simple?
+As Presidential Innovation Fellows (PIFs), our work reaches across every federal agency and visualizing this work can be daunting. How do we design informative dashboards that tell a story? How can we use our creativity to explore new visuals to make the complex more simple? 
 
-Join us for an interactive 20-person workshop on data storytelling. The federal call for open data means that very soon the American public will be involved in the civic tech process in new and engaging ways. Similarly, federal agencies are eager to visualize evidence based data in dynamic ways that tell stories and inspire both employees and external audiences.
+Join us for an interactive 20-person workshop on data storytelling. The federal call for open data means that very soon the American public will be involved in the civic tech process in new and engaging ways. Similarly, federal agencies are eager to visualize evidence based data in dynamic ways that tell stories and inspire both employees and external audiences. 
 
 **Hosts include:** 
 
@@ -35,7 +35,7 @@ Join us for an interactive 20-person workshop on data storytelling. The federal 
 * Amy Ashida: a UX Designer with [18F](https://www.18f.gov/) who is collaborating on our AI-centric Story Bank 
 * Davar Ardalan: Deputy Director of the [Presidential Innovation Fellows](https://www.pif.gov) program 
 
-**Data Storytelling Workshop Agenda:**
+**Data Storytelling Workshop Agenda:** 
 
 * 10:30 - 10:40 Arrivals 
 * 10:40 - 10:50 Introduction to Data Storytelling (Davar, Nina, Maria) 
