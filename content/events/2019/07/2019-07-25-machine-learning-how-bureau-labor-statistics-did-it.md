@@ -18,4 +18,4 @@ Come and learn about the 8 year journey of integrating machine learning models i
 
 Joining us will be presenter Alex Measure, Economist at Bureau of Labor Statistics. Alex is an economist turned machine learning and natural language processing practitioner. He designs, builds, and maintains machine learning systems that automate difficult text classification, information extraction, and record matching problems in production systems.
 
-Questions about this event or future events? Email them to digitalgovu@gsa.gov.
+Questions about this event or future events? Email them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
