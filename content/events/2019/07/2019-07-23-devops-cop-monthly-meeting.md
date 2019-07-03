@@ -1,7 +1,7 @@
 ---
 slug: devops-cop-monthly-meeting
 title: 'DevOps Community of Practice Monthly Meeting'
-summary: 'Overview of the U.S. Department of Housing and Urban Development/'s Real Estate Assessment Center &#40;REAC&#41; IT team, program, structure, and their shift to DevOps&#46;'
+summary: 'Overview of the HUD Real Estate Assessment Center &#40;REAC&#41; IT team, program, structure, and their shift to DevOps&#46;'
 featured_image: 
   uid: 
   alt: ''
