@@ -19,4 +19,4 @@ Kevin Portanova, of the Real Estate Assessment Center (REAC) at the U.S. Departm
 
 _Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
 
-[Join the Dev Ops Community of Practice](https://digital.gov/communities/devops/) 
+[Join the DevOps Community of Practice](https://digital.gov/communities/devops/) 
