@@ -1,7 +1,7 @@
 ---
 slug: devops-cop-monthly-meeting
-title: 'DevOps COP Monthly Meeting'
-summary: 'Overview of HUD’s Real Estate Assessment Center &#40;REAC&#41; IT Team, Program, and Structure and their shift to DevOps&#46;'
+title: 'DevOps Community of Practice Monthly Meeting'
+summary: 'Overview of the U.S. Department of Housing and Urban Development's Real Estate Assessment Center &#40;REAC&#41; IT team, program, structure, and their shift to DevOps&#46;'
 featured_image: 
   uid: 
   alt: ''
@@ -14,6 +14,7 @@ host: DevOps COP
 registration_url: https://www.eventbrite.com/e/devops-cop-monthly-meeting-registration-64672677720
 
 ---
-Kevin Portanova with HUD’s Real Estate Assessment Center (REAC) will be presenting on their transition to DevOps methods, as well as the changes to the program and resulting organizational transformation to improve services to the public.  
+
+Kevin Portanova, of the Real Estate Assessment Center (REAC) at the U.S. Department of Housing and Urban Development (HUD), will be presenting on their transition to DevOps methods&mdash;as well as the changes to the program and resulting organizational transformation&mdash;to improve services to the public.  
 
 _Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
