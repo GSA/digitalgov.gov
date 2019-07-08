@@ -30,6 +30,9 @@
 
 top6:
 
+  - file          : '2019-07-09-get-to-know-10x.md'
+    type          : 'post'
+
   - file          : '2019-06-26-dap-learning-series-agency-analytics-governance.md'
     type          : 'video'
 
@@ -43,7 +46,4 @@ top6:
     type          : 'post'
 
   - file          : '2019-05-08-introducing-new-rpa-community-practice.md'
-    type          : 'post'
-
-  - file          : '2019-05-07-two-complementary-teams-with-same-goal.md'
     type          : 'post'
