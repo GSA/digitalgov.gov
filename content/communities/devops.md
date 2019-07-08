@@ -7,7 +7,6 @@ deck: "Operating rapidly changing resilient systems at scale"
 summary: "The practice of operations and development staff participating together in the in the entire service lifecycle operate rapidly changing resilient systems at scale."
 
 ---
-[Register for the July 23, 2019 COP meeting](https://digital.gov/event/2019/07/23/devops-cop-monthly-meeting/)
 
 The DevOps Community of Practice (CoP) provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.
 
@@ -15,6 +14,9 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 **DevOps** is the practice of operations and development staff participating together in the in the entire service lifecycle operate rapidly changing resilient systems at scale.
 
+## Upcoming Events
+
+- [**DevOps Community of Practice Monthly Meeting**](https://digital.gov/event/2019/07/23/devops-cop-monthly-meeting/) — July 23 at 2:00pm ET
 
 ## Join
 
