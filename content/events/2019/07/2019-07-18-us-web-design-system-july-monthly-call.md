@@ -1,6 +1,6 @@
 ---
 slug: us-web-design-system-july-monthly-call
-title: "U&#46;S&#46; Web Design System&#58; How to migrate your site to USWDS 2.0"
+title: "U&#46;S&#46; Web Design System&#58; How to Migrate Your Site to USWDS 2.0"
 summary: "In our July meeting, the USWDS team will walk through how to migrate your site to 2.0 and take any questions you might have."
 featured_image: 
   uid: uswds-2-illio-feature-image
@@ -32,5 +32,7 @@ In addition, USWDS 2.0 ships with [**Public Sans**](https://public-sans.digital.
 - [A guide to migrating to USWDS 2.0](https://designsystem.digital.gov/documentation/migration/)
 - [Public Sans](https://public-sans.digital.gov/)
 - [Contribute on GitHub](https://github.com/uswds/uswds)
+
+--- 
 
 _This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand._ 

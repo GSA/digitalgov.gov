@@ -8,7 +8,36 @@ aliases:
 
 ---
 
-Here, on DigitalGov, you can make government services and information better by sharing your tales, talents, and time. We know there&#8217;s a lot of innovation going on in agencies because we&#8217;ve seen it. We&#8217;ve seen the fruits of your experiments, read your strategies and RFPs, and watched you try new approaches to old problems. These are stepping stones, ladders, and accelerators for other agencies.
+Here, on DigitalGov, you can make government services and information better by sharing your tales, talents, and time. We know there&#8217;s a lot of innovation going on in agencies because we&#8217;ve seen it. We&#8217;ve seen the fruits of your experiments, read your strategies and RFPs, and watched you try new approaches to old problems. These are stepping stones, ladders, and accelerators for other agencies. 
+
+<hr width="75%" align="center"> 
+
+## Virtual Student Federal Service — #ApplyInJuly to Be an Intern for the Innovation Portfolio
+
+Are you a U.S. college student looking for a way to make a real difference in the work of your government, while also gaining job experience and connections?
+
+Through the [Virtual Student Federal Service (VSFS) program](https://vsfs.state.gov/), students can work on projects that advance the work of government on multiple fronts. Tech-related projects include developing virtual programs, engaging in digital communications, data analysis, graphic design, and building apps.
+
+U.S. students **apply** to their top three VSFS projects from **July 1** to **July 31** on [USAJOBS.gov](https://www.usajobs.gov/). VSFS supervisors will review applications between August 1 and August 31 and may contact VSFS candidates for a virtual interview. As part of the interview, candidates may be asked to show examples of their expertise and work. All candidates will hear by **early September 2019** if they have been offered a position.
+
+Selected interns work on their projects for 10 hours each week, from September 2019 through May 2020. Some interns work with their academic institutions to receive course credit for their VSFS participation.
+
+Our Innovation Portfolio is looking to select five virtual interns for the following three positions: 
+
+**Project Title**: [Design the future of the U.S. Web Design System (USWDS)](https://vsfs.state.gov/projects/view/2412) <br />**Number of interns**: 2 <br />**Project Summary**: Support USWDS by improving documentation for developers and designers, developing new USWDS components, or (if you've got the JavaScript skills) helping understand how the future of USWDS could work with web components and CSS custom properties. Let's build something great! 
+
+**Project Title**: [CitizenScience.gov Website Developer](https://vsfs.state.gov/projects/view/2475)  <br />**Number of interns**: 1  <br />Project Summary: Help accelerate innovation across the U.S. government working with the CitizenScience.gov Program. We need your help to refine functional elements of our website to better serve the federal workforce, our partners, and the public. 
+
+**Project Title**: [Citizen Science Communicator](https://vsfs.state.gov/projects/view/2474) <br />**Number of interns**: 2 <br />**Project Summary**: Help accelerate innovation across the U.S. government working with the CitizenScience.gov Program. We need your ideas on how to communicate about the impact of the public participating voluntarily in the scientific process to addressing real-world issues. 
+
+**Additional information:** 
+
+ - [How to Apply to VSFS Projects](https://vsfs.state.gov/how-to-apply) 
+ - [VSFS Frequently Asked Questions](https://vsfs.state.gov/faq) 
+
+_DigitalGov is part of the Innovation Portfolio of the [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs), which is part of the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA)._ 
+
+<hr width="75%" align="center">
 
 ## How can I contribute?
 

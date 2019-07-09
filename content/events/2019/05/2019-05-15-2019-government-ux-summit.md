@@ -62,23 +62,39 @@ As a participant, you’re free to choose the talk that interests you the most o
 
   - Methods: **Raising the Design Voice in Government: A Case Study**, Kristal Byrd (GSA)
   - Management: **Lessons from Building Remote-First, Cross-Functional Teams**, panel led by Amy Ashida (GSA)
+    - [Watch the video](https://www.youtube.com/watch?v=daMZo4WZ0Hg)
+    - [Read the transcript](https://digital.gov/pdf/Management1-Panel-Remote-Teams.pdf) (PDF, 58 KB, 7 pages)
   - Design: **Embedding Service Design in New York City Government: Lessons Learned**, Caroline Bauer (NYC Mayor's Office)
+    - [Watch the video](https://www.youtube.com/watch?v=uOuEp6jw_WM)
+    - [Read the transcript](https://digital.gov/pdf/Design1-Bauer-NYC-Government.pdf) (PDF, 119 KB, 10 pages)
 
 10:00-10:15 – Break
 
 10:15 – 11:00
 
   - Methods: **Accessible Experience First: The Key to Integrating UX in the Agile Process Under Budget and with Whole-Team Support**, Arva Adams (USPTO)
+    - [Watch the video](https://www.youtube.com/watch?v=cbTQ7C3ry-E)
+    - [Read the transcript](https://digital.gov/pdf/Methods2-Adams-Accessible-Experience-First.pdf) (PDF, 89 KB, 12 pages)
   - Management: **Teaching Digital Skills: Learning Usability Testing by Peer Training**, Maroya Faied and Shannon McHarg (ONRR)
+    - [Watch the video](https://www.youtube.com/watch?v=nobgPaAYkgU)
+    - [Read the transcript](https://digital.gov/pdf/Management2-Faied-McHarg-Digital-Skills.pdf) (PDF, 69 KB, 11 pages)
   - Design: **The Importance of Color in UX**, Scott Lenger (FRB)
+    - [Watch the video](https://www.youtube.com/watch?v=3jhxsRmchSs)
+    - [Read the transcript](https://digital.gov/pdf/Design2-Lenger-Color-UX.pdf) (PDF, 63 KB, 10 pages)
 
 11:00-11:15 – Break
 
 11:15-12:00
 
   - Methods: **User Documentation--Do We Still Need This Stuff?**, Kristen Faiferlick (NOAA, Contracted by Genwest)
+    - [Watch the video](https://www.youtube.com/watch?v=4ipC4fsJ0gA)
+    - [Read the transcript](https://digital.gov/pdf/Methods3-Faiferlick-User-Documentation.pdf) (PDF, 100 KB, 12 pages)
   - Management: **CDC’s Digital First Approach: Enhancing User Experience on CDC Vaccines Site**, Lisa Richman (CDC)
+    - [Watch the video](https://www.youtube.com/watch?v=FmNWm6oDYoQ)
+    - [Read the transcript](https://digital.gov/pdf/Management3-Richman-CDC-Digital-First.pdf) (PDF, 86 KB, 10 pages)
   - Design: **The Future of Government User Experience: Improving Faster with Design Systems**, Aviva Oskow (GSA)
+    - [Watch the video](https://www.youtube.com/watch?v=fHRsDKjUlNU)
+    - [Read the transcript](https://digital.gov/pdf/Design3-Oskow-Design-Systems.pdf) (PDF, 110 KB, 15 pages)
 
 A community lunch will follow in the BLS cafeteria for those who wish to stay. Bring your lunch or purchase it in the cafeteria.
 

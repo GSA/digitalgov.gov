@@ -4,7 +4,7 @@ kicker: Learning Series
 title: 'DAP Learning Series&#58; Agency Analytics Governance'
 summary: 'We’ll talk to members of various agencies to find out how analytics programs and tools are governed at that agency&#46;'
 featured_image:
-  uid:
+  uid: dap-agency-analytics-governance
   alt: ''
 event_type:
   - Zoom

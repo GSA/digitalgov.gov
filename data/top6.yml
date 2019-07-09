@@ -30,6 +30,12 @@
 
 top6:
 
+  - file          : '2019-07-09-get-to-know-10x.md'
+    type          : 'post'
+
+  - file          : '2019-06-26-dap-learning-series-agency-analytics-governance.md'
+    type          : 'video'
+
   - file          : '2019-06-14-us-government-open-innovation-summit-transformation-through-citizen-science-prize-competitions.md'
     type          : 'video'
 
@@ -40,13 +46,4 @@ top6:
     type          : 'post'
 
   - file          : '2019-05-08-introducing-new-rpa-community-practice.md'
-    type          : 'post'
-
-  - file          : '2019-05-07-two-complementary-teams-with-same-goal.md'
-    type          : 'post'
-
-  - file          : '2019-04-09-presidential-innovation-fellows-join-fda-advance-digital-health.md'
-    type          : 'post'
-
-  - file          : '2019-04-08-introducing-uswds-2.md'
     type          : 'post'
