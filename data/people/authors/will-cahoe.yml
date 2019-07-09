@@ -5,17 +5,24 @@
 #
 # Reach out to digitalgov@gsa.gov if you need assistance.
 
-display_name: Sarah Crane
-first_name: Sarah
-last_name: Crane
-uid: sarah-crane
-email: sarah.crane@gsa.gov
-bio: Sarah Crane is the Director of USA.gov.
-location: ""
-quote: ""
+display_name: Will Cahoe
+first_name: Will
+last_name: Cahoe
+uid: will-cahoe
+email: ""
+
+# Tell us about yourself! Keep it to 1-2 sentences.
+bio: ''
+
+# Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
+location: ''
+
+# Do you have a quote that you'd like to share on your profile?
+# [e.g. '']
+quote: ''
 
 # Your GitHub username [e.g. 'jeremyzilar']
-github: 'SarahCraneGSA'
+github: 'willcahoe'
 
 # Your Twitter username [e.g. 'digital_gov']
 twitter: ''
