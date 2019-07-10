@@ -23,6 +23,8 @@ Want to make a change to how you receive emails from us? [Head over to our manag
 
 :envelope:Have additional questions? Reach out at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
+Interested in contributing to Digital.gov? [Check out what we're looking for »]({{< link "/about/contribute/" >}})
+
 ## Other ways to subscribe and follow
 
 - [Join a community of practice]({{< link "/communities/" >}})
