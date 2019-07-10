@@ -1,5 +1,5 @@
 ---
-slug: /contribute/
+slug: contribute
 date: 2019-07-10 4:00:00 -0500
 title: Contribute to Digital.gov
 deck: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
@@ -7,6 +7,7 @@ summary: "Have a case study to share? Did your team recently launch something ne
 aliases:
   - /join-digitalgov/
   - /join/
+  - /contribute/
 
 ---
 
