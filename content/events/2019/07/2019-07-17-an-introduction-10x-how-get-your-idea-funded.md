@@ -11,7 +11,7 @@ date: 2019-07-17 14:00:00 -0500
 end_date: 2019-07-17 15:00:00 -0500
 event_organizer: DigitalGov University
 host: 10x
-registration_url: [https://www.eventbrite.com/e/an-introduction-to-10x-and-how-to-get-your-idea-funded-registration-65120640589](https://www.eventbrite.com/e/an-introduction-to-10x-and-how-to-get-your-idea-funded-registration-65120640589)
+registration_url: https://www.eventbrite.com/e/an-introduction-to-10x-and-how-to-get-your-idea-funded-registration-65120640589
 youtube_id: EnRVrJz2Ut0
 
 ---
