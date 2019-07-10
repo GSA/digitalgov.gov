@@ -13,7 +13,7 @@ aliases:
 
 Our newsletter is sent out every Tuesday morning _(with the exception of holiday weeks)_.
 
-{{< button href="https://connect.digitalgov.gov/subscribe" text="subscribe" >}}
+{{< button href="https://connect.digitalgov.gov/subscribe" text="subscribe to our newsletter" >}}
 
 Our strategy is to provide you with just the right amount of information to help you and your team make something 5% better. We’re not interested in flooding your inbox with emails you don’t need.
 
