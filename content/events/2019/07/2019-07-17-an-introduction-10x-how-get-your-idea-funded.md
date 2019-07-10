@@ -11,10 +11,11 @@ date: 2019-07-17 14:00:00 -0500
 end_date: 2019-07-17 15:00:00 -0500
 event_organizer: DigitalGov University
 host: 10x
-registration_url: TKTK
-youtube_id: TKTK
+registration_url: [https://www.eventbrite.com/e/an-introduction-to-10x-and-how-to-get-your-idea-funded-registration-65120640589](https://www.eventbrite.com/e/an-introduction-to-10x-and-how-to-get-your-idea-funded-registration-65120640589)
+youtube_id: EnRVrJz2Ut0
 
 ---
+_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4079096&CustomerID=321)_
 
 Do you work on a product or service in government that has an effect on the public? Do you have an idea for how to transform a product or service to make the government better or more effective?
 
