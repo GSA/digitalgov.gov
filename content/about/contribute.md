@@ -6,6 +6,7 @@ deck: "Have a case study to share? Did your team recently launch something new? 
 summary: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
 aliases:
   - /join-digitalgov/
+  - /about/join/
   - /join/
   - /contribute/
 
