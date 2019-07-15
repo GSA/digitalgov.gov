@@ -48,4 +48,4 @@ This event was held over [Zoom](https://www.zoom.us/).
 
 _This talk was hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
-_For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._
+_For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._ 
