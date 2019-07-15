@@ -11,12 +11,9 @@ date: 2019-07-09 14:00:00 -0500
 end_date: 2019-07-09 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Challenge.gov
+youtube_id: P2zYuqikgzY
 
 ---
-
-{{< img src="challengegov-card-episode-4"  >}}
-
-_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3998903&CustomerID=321)_
 
 During this episode of the Federal Crowdsourcing Webinar Series, we met Lisa Nelson, engagement manager for the Open Opportunities program. She shared how agencies are crowdsourcing for talent to respond quickly to critical mission needs and changes, and how federal employees benefit from the experiential professional development offered.
 
@@ -51,4 +48,4 @@ This event was held over [Zoom](https://www.zoom.us/).
 
 _This talk was hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
-_For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._
+_For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._ 
