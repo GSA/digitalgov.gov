@@ -11,27 +11,22 @@ date: 2019-07-09 14:00:00 -0500
 end_date: 2019-07-09 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Challenge.gov
-registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-episode-4-open-opportunities-registration-59460312395
+youtube_id: P2zYuqikgzY
 
 ---
 
-{{< img src="challengegov-card-episode-4"  >}}
-
-_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=3998903&CustomerID=321)_
-
-During this episode of the Federal Crowdsourcing Webinar Series, meet Lisa Nelson, engagement manager for the Open Opportunities program. She’ll share how agencies are crowdsourcing for talent to respond quickly to critical mission needs and changes, and how federal employees benefit from the experiential professional development offered.
+During this episode of the Federal Crowdsourcing Webinar Series, we met Lisa Nelson, engagement manager for the Open Opportunities program. She shared how agencies are crowdsourcing for talent to respond quickly to critical mission needs and changes, and how federal employees benefit from the experiential professional development offered.
 
 Whether you’re looking to enhance existing skills, or seeking a more extensive career reboot without losing the benefits of your employment tenure, [Open Opportunities](https://openopps.usajobs.gov/) is a matchmaker made for government. The program, now part of [USAJOBS](https://www.usajobs.gov/), provides an avenue for federal workers to “try on” new assignments and positions, network both within and outside of their current agencies, and achieve professional development goals during short-term engagements.
 
 Think of like a mini detail, but with less paperwork. Feds can volunteer up to 20% of their time—with a manager’s approval—to work on short-term assignments.
 
-## Learn how Open Opportunities can help:
+## In This Webinar, Learn How Open Opportunities Can Help...
 
 - Advance your career by sharpening your skills or learning new ones.
 - Break you from your routine, opening you to collaborations with others in different agencies.
 - Expand your professional network and contacts within communities of innovators.
 
-Don’t miss this enlightening and potentially career-enriching episode.
 
 ## More About the Series
 
@@ -47,12 +42,10 @@ This is the fourth episode in the Federal Crowdsourcing Webinar Series, which ai
 - Episode 2: [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/) (May 2019), with Jarah Meador, GSA, and Jessie Buerlein, HHS
 - Episode 1: [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/) (April 2019), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
 
-This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
-
-We will send a reminder email prior to the event that includes your link to join the video.
+This event was held over [Zoom](https://www.zoom.us/).
 
 ---
 
-_This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
+_This talk was hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
-_For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._
+_For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._ 
