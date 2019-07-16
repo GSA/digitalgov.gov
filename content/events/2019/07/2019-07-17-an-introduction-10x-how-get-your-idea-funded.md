@@ -21,7 +21,7 @@ Do you work on a product or service in government that has an effect on the publ
 
 {{< img-right src="10x-funded-cover" >}}
 
-**Join us this Wednesday, July 17 at 2pm ET** to learn how you can get your idea funded through [10x](https://10x.gsa.gov/) — the new investment fund for technology products in the government from the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS) office at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA) that funds new ideas to help the government deliver better products and services.
+**Join us this Wednesday, July 17 at 2pm ET** to learn how you can get your idea funded through [10x](https://10x.gsa.gov/) — the new investment fund for technology products in the government from the [Technology Transformation Services](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA) that funds new ideas to help the government deliver better products and services.
 
 [_Read our recent blog post on digital.gov »_](https://digital.gov/2019/07/09/get-to-know-10x/)
 
