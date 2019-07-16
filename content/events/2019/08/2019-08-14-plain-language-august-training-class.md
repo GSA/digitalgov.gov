@@ -1,7 +1,7 @@
 ---
 slug: plain-language-august-training-class
-title: 'Plain Language August Training Class'
-summary: 'Come to the GSA for an in-person training class for an update on plain writing principles and the Plain Writing Act of 2010&#46;'
+title: 'Plain Language In-person Training: Writing Principles and Techniques'
+summary: 'Come to the GSA for an in-person training for an update on plain writing principles and the Plain Writing Act of 2010&#46;'
 featured_image: 
   uid: 
   alt: ''
