@@ -67,12 +67,21 @@ a.btn{
 		@include at-media('tablet'){
 			@include u-padding-y('05');
 			@include u-padding-x('105');
-			@include u-font('sans', 'md');
-			@include u-border('2px', 'indigo-warm-60v', 'solid');
+			@include u-font('sans', 'sm');
+			@include u-border('1px', 'indigo-warm-60v', 'solid');
 		}
+
 		&:hover{
 			@include u-bg('indigo-warm-60v');
 			@include u-text('white');
+		}
+		img{
+			@include u-position('relative');
+			@include u-top('05');
+			@include u-width(3);
+			@include at-media('tablet'){
+				@include u-top('2px');
+			}
 		}
 	}
 }

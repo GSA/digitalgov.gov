@@ -16,6 +16,20 @@
           @include u-font('sans', '2xl');
         }
       }
+
+      .newsletter{
+        // @include u-margin-top(0);
+        // @include u-padding-y(1);
+        p{
+          @include u-font('sans', 'md');
+        }
+        a{
+          // @include u-padding('105');
+          @include u-radius('md');
+          // @include u-border('2px', 'indigo-warm-60v', 'solid');
+        }
+      }
+
     }
   }
 }
