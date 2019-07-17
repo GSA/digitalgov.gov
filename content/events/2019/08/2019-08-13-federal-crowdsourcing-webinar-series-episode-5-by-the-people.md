@@ -30,10 +30,6 @@ On the digital side, help comes from everyday folks who serve as virtual volunte
 This is the fifth episode in the Federal Crowdsourcing Webinar Series, which airs the second Tuesday of each month. With each installment, we illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 
 
-**Stay tuned for future airings:**
-
-- August 13: History By the People, with Lauren Algee, Library of Congress 
-
 **And don’t miss these previous episodes:**
 
 - Episode 4: [Open Opportunities](https://digital.gov/event/2019/07/09/federal-crowdsourcing-webinar-series-episode-4-open-opportunities/) (July 2019), with Lisa Nelson, USAJOBS, OPM
