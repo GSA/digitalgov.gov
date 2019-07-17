@@ -19,7 +19,7 @@
             <a href="{{- "/join" | absURL -}}">Write for us</a>
             <a href="{{- "/join" | absURL -}}">Host an event</a>
           </div>
-          
+
         </header>
       </div>
     </div>
@@ -41,19 +41,17 @@
           {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
 
           {{/* Gets the recent blog posts */}}
-          {{- $posts := where .Paginator.Pages "Section" "posts" -}}
+          {{- $posts := where .Pages "Section" "posts" -}}
 
           {{/* Merges the past events and the recent blog posts */}}
           {{ $stream := union $posts $past_events }}
 
-          {{/* Sorting all the items by date and reverse chron */}}
-          {{ $stream := $stream.ByDate.Reverse }}
-
           {{/* If there are any items at all... */}}
-          {{ if $stream }}
+          {{- if $stream -}}
 
             {{/* Loop through all the pages */}}
-            {{ range $stream }}
+            {{/* Also sorting all the items by date and reverse chron */}}
+            {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}
 
               {{- if eq .Type "events" -}}
                 {{- .Render "card-event-past" -}}
