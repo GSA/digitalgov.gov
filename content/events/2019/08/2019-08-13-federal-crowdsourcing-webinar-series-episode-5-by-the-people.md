@@ -14,7 +14,7 @@ host: Challenge.gov
 
 ---
 
-COPY NEEDS TO BE UPDATED
+[---- COPY NEEDS TO BE UPDATED ----]
 
 During this episode of the Federal Crowdsourcing Webinar Series, we met Lisa Nelson, engagement manager for the Open Opportunities program. She shared how agencies are crowdsourcing for talent to respond quickly to critical mission needs and changes, and how federal employees benefit from the experiential professional development offered.
 
