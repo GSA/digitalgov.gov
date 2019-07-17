@@ -1,6 +1,6 @@
 ---
 slug: federal-crowdsourcing-webinar-series-episode-5-by-the-people
-title: "Federal Crowdsourcing Webinar Series, Episode 4&#58; Open Opportunities"
+title: "Federal Crowdsourcing Webinar Series, Episode 5&#58; By the People"
 summary: "The Library of Congress is the largest library in the world, and while it’s often referred to as the research arm of Congress, it’s hardly limited to lawmakers. It’s open to the public who, in fact, are also helping to make the institution’s digital collections more accessible and available to all."
 featured_image:
   uid: challengegov-card-episode-5
