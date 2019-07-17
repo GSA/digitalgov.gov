@@ -22,69 +22,8 @@
       </div>
     </header>
 
-    <section>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row grid-gap-4">
-          <div class="grid-col-12">
-            {{/* Top / Popular Resources */}}
-            {{- $resources := (where .Pages "Section" "resources") ".Params.weight" 3 -}}
-            {{/* If there are any resources at all... */}}
-            {{- if $resources -}}
-            <div class="list-collection">
-              <h2>Popular Guides and Resources</h2>
-              <ul class="add-list-reset">
-                {{- range sort $resources "Title" "asc" -}}
-                  {{- if eq .Params.weight 3 -}}
-
-                    {{/* If an external link  */}}
-                    {{- if or .Params.source_url .Params.source -}}
-
-                    <li class="indent" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
-                      <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
-                        {{/* If there is a defined source for this page */}}
-                        {{- if .Params.source -}}
-                          {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
-                          {{- if $source.Params.icon -}}
-                            {{ $source_url := (print "/logos/" $source.Params.icon) }}
-                            <img src="{{ $source_url | relURL }}" alt="{{- $source.Params.name -}} logo">
-                          {{- end -}}
-                        {{/* If there is a defined icon for this page — bypassing the source */}}
-                        {{- else if .Params.icon -}}
-                          {{- $source_url := (print "/logos/" .Params.icon) -}}
-                          <img class="thumb" src="{{ $source_url | relURL }}" alt="{{ .Title }} Logo">
-                        {{/* Lastly, let's attempt to get the favicon for the URL */}}
-                        {{- else -}}
-                          <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo">
-                        {{- end -}}
-
-                        <span>{{ .Title | markdownify }}</span>
-                      </a>
-                      {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
-                    </li>
-
-                    {{/* If an internal link  */}}
-                    {{- else -}}
-                    <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
-                      <a href="{{- .Permalink -}}" title="{{ .Title | markdownify }}">
-                        {{/* Use the digital.gov logo */}}
-                        {{- $source_url := (print "/img/digit-50.png") -}}
-                        <img class="thumb" src="{{ $source_url | relURL }}" alt="{{ .Title }} Logo">
-                        <span>{{ .Title | markdownify }}</span>
-                      </a>
-                      {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
-                    </li>
-                    {{- end -}}
-
-                  {{- end -}}
-                {{- end -}}
-              </ul>
-            </div>
-            {{- end -}}
-
-          </div>
-        </div>
-      </div>
-    </section>
+    {{/* Popular Resources */}}
+    {{- partialCached "core/home/resources_featured" . -}}
 
     <section class="topic-buttons">
       <div class="grid-container grid-container-desktop">

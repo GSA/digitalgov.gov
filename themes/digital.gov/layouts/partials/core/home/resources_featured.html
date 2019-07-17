@@ -31,7 +31,7 @@
                     {{- end -}}
 
                   </a>
-                  {{- if .Params.deck -}}  — {{- .Params.deck -}}{{- end -}}
+                  {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
                 </li>
 
                 {{/* If an internal link... */}}
@@ -44,13 +44,15 @@
                     <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
 
                   </a>
-                  {{- if .Params.deck -}}  — {{- .Params.deck -}}{{- end -}}
+                  {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
                 </li>
                 {{- end -}}
 
               {{- end -}}
             {{- end -}}
           </ul>
+
+          {{- if .IsHome -}}
           <footer>
             <div class="grid-row grid-gap-2">
               <div class="grid-col-12">
@@ -58,6 +60,8 @@
               </div>
             </div>
           </footer>
+          {{- end -}}
+
         </div>
         {{- end -}}
       </div>

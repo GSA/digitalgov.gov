@@ -35,11 +35,14 @@
   ul{
     @include u-margin(0);
     @include u-margin-bottom('105');
+    @include u-padding-left(3);
     li{
       @include u-margin-bottom('105');
       @include u-maxw('tablet-lg');
       @include u-font('sans', 'md');
       @include u-line-height('sans', 3);
+      @include u-text-indent(-3);
+
       .members{
         @include u-font('sans', 'xs');
       }
