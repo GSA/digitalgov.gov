@@ -14,24 +14,18 @@ host: Challenge.gov
 
 ---
 
-[---- COPY NEEDS TO BE UPDATED ----]
+The [Library of Congress](https://www.loc.gov/) is the oldest cultural institution in the country, housing more than 168 million items in its vast collection (including more than 39 million cataloged books and other print materials in 470 languages).
 
-During this episode of the Federal Crowdsourcing Webinar Series, we met Lisa Nelson, engagement manager for the Open Opportunities program. She shared how agencies are crowdsourcing for talent to respond quickly to critical mission needs and changes, and how federal employees benefit from the experiential professional development offered.
+By its own estimates, the Library receives more than 15,000 items each business day, adding some 10,000 items to its collection. Simultaneously, it hosts [an active schedule](https://www.loc.gov/events) of lectures, exhibits, concerts, classes—but with only 3,100 permanent staff, how does the Library do it all?
 
-Whether you’re looking to enhance existing skills, or seeking a more extensive career reboot without losing the benefits of your employment tenure, [Open Opportunities](https://openopps.usajobs.gov/) is a matchmaker made for government. The program, now part of [USAJOBS](https://www.usajobs.gov/), provides an avenue for federal workers to “try on” new assignments and positions, network both within and outside of their current agencies, and achieve professional development goals during short-term engagements.
+On the digital side, help comes from everyday folks who serve as virtual volunteers in the Library’s public crowdsourcing initiative, [By the People](https://crowd.loc.gov/). From [letters to Abraham Lincoln](https://crowd.loc.gov/campaigns/letters-to-lincoln/1865-1889-inauguration-assassination-and-aftermath/?) to scouting reports of [baseball legend Branch Rickey](https://crowd.loc.gov/campaigns/branch-rickey-changing-the-game/), volunteers collectively have transcribed over 17,000 pages of content over the past eight months, and there’s much more to do.
 
-Think of like a mini detail, but with less paperwork. Feds can volunteer up to 20% of their time—with a manager’s approval—to work on short-term assignments.
-
-## In This Webinar, Learn How Open Opportunities Can Help...
-
-- Advance your career by sharpening your skills or learning new ones.
-- Break you from your routine, opening you to collaborations with others in different agencies.
-- Expand your professional network and contacts within communities of innovators.
-
+**Lauren Algee**, senior innovation specialist for [Library of Congress Labs](https://labs.loc.gov/), highlights how By the People invites the general public to transcribe, review, and tag digitized historical texts from the Library’s collection—improving the accessibility, search, and legibility of historical documents, and opening the texts to computational analysis.
 
 ## More About the Series
 
-This is the fourth episode in the Federal Crowdsourcing Webinar Series, which airs the second Tuesday of each month. With each installment, we illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
+This is the fifth episode in the Federal Crowdsourcing Webinar Series, which airs the second Tuesday of each month. With each installment, we illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
+
 
 **Stay tuned for future airings:**
 
@@ -39,14 +33,18 @@ This is the fourth episode in the Federal Crowdsourcing Webinar Series, which ai
 
 **And don’t miss these previous episodes:**
 
+- Episode 4: [Open Opportunities](https://digital.gov/event/2019/07/09/federal-crowdsourcing-webinar-series-episode-4-open-opportunities/) (July 2019), with Lisa Nelson, USAJOBS, OPM
 - Episode 3: [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/) (June 2019), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
 - Episode 2: [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/) (May 2019), with Jarah Meador, GSA, and Jessie Buerlein, HHS
 - Episode 1: [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/) (April 2019), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
 
-This event was held over [Zoom](https://www.zoom.us/).
+
+
+:video_camera: This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
+
 
 ---
 
-_This talk was hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
+_This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
 _For questions about this event, contact [team@challenge.gov](mailto:team@challenge.gov)._
