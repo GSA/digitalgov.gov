@@ -1,6 +1,6 @@
 # Digital.gov
 
-## We help the government build better digital services
+## We help people in government build better digital services
 https://digital.gov
 
 - Follow us on [Twitter »](https://twitter.com/digital_gov/)
