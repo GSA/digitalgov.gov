@@ -1,4 +1,5 @@
 ---
+type: home
 tag:
   - Digital
   - Government
