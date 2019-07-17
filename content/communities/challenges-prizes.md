@@ -32,7 +32,7 @@ aliases:
 
 community_list:
   - platform: listserv
-    type: public
+    type: government
     subscribe_email: "team@challenge.gov"
     subscribe_email_subject: "Join Challenges Community"
     subscribe_email_body: "enter your name + agency you work for"

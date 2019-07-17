@@ -31,7 +31,7 @@ aliases:
 
 community_list:
   - platform: listserv
-    type: public
+    type: government
     subscribe_email: "listserv@listserv.gsa.gov"
     subscribe_email_subject: "subscribe FCPCCS"
     subscribe_email_body: "enter your name + agency you work for"

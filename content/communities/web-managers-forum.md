@@ -9,14 +9,14 @@ deck: ""
 summary: "The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - product-management
   - content-strategy
   - project-management
   - analytics
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - digitalgov-team
 
 # Page weight: controls how this page appears across the site
@@ -25,14 +25,14 @@ authors:
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
+aliases:
   - /communities/web-managers-forum/
   - /communities/web-managers-forum/web-content-managers-listserv/
 
 
 community_list:
   - platform: listserv
-    type: public
+    type: government
     subscribe_email: "digitalgovu@gsa.gov"
     subscribe_email_subject: "Join Web Content Managers"
     subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform

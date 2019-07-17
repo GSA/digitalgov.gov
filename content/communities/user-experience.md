@@ -11,6 +11,7 @@ aliases:
 weight: 1
 community_list:
   - platform: "listserv"
+    type: government
     subscribe_email: ux-cop-request@listserv.gsa.gov
     subscribe_email_subject: "Join UX Community"
     members: 1180

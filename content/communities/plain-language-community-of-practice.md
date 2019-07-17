@@ -15,6 +15,7 @@ topics:
 weight: 1
 community_list:
   - platform: "listserv"
+    type: government
     subscribe_form: "https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN"
     terms: "*You'll need to [register for an account](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1=SUBED1%3DPL-COP-MAIN&X=&Y=) before filling out our form. Anyone with a .gov or .mil email address is eligible to join."
     members: 961
@@ -27,14 +28,6 @@ authors:
 Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.
 
 And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 125 KB) mandates plain language for certain audiences and tasks.
-
-### Join
-
-How to join our listserv:
-
-1. [Register for a LISTSERV account](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1=SUBED1%3DPL-COP-MAIN&X=&Y=)
-2. [Fill out our form](https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN)
-
 
 ### Who we are
 

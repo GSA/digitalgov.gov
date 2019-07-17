@@ -11,6 +11,7 @@ weight: 1
 
 community_list:
   - platform: "listserv"
+    type: government
     subscribe_email: tim.cossairt@tsa.dhs.gov
     subscribe_email_subject: "Join G3C"
     subscribe_email_body: "your name, agency, title, telephone number and email"

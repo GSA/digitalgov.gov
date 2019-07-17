@@ -12,6 +12,7 @@ topics:
 
 community_list:
   - platform: "listserv"
+    type: government
     subscribe_email: annabel.berman@gsa.gov
     subscribe_email_subject: "Join: CX"
     subscribe_form: "https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform"

@@ -9,11 +9,11 @@ deck: ""
 summary: "We support people who are working to improve accessibility of information technology."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - accessibility
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - avis-ryan
   - john-sullivan
   - yvette-gibson
@@ -25,7 +25,7 @@ weight: 1
 
 community_list:
   - platform: listserv
-    type: public
+    type: government
     subscribe_email: "section.508@gsa.gov"
     subscribe_email_subject: "Join: Accessibility / Section 508"
     members: 1351

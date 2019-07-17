@@ -14,6 +14,7 @@ aliases:
 
 community_list:
   - platform: "listserv"
+    type: government
     subscribe_email: listserv@listserv.gsa.gov
     subscribe_email_subject: "Subscribe Open Data"
     members: 878

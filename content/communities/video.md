@@ -13,6 +13,7 @@ aliases:
 
 community_list:
   - platform: "listserv"
+    type: government
     subscribe_email: Kevin.Spivey@cfpb.gov
     subscribe_email_subject: "Join Video Production Pros"
     members: 398

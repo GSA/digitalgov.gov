@@ -9,12 +9,12 @@ deck: "Working  to implement solutions for making mobile technologies better in 
 summary: "We work across agencies to implement government-wide solutions for making mobile technologies better."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - accessibility
   - mobile
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - david-fern
   - jparcell
 
@@ -25,7 +25,7 @@ weight: 1
 
 community_list:
   - platform: listserv
-    type: public
+    type: government
     subscribe_email: "mobilegov-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe to MobileGov"
     members: 1129

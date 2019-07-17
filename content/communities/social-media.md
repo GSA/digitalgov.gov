@@ -13,6 +13,7 @@ topics:
 
 community_list:
   - platform: "listserv"
+    type: government
     subscribe_email: SM-COP-subscribe-request@listserv.gsa.gov
     subscribe_email_subject: "Join #SocialGov"
     members: 991
