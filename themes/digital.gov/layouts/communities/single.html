@@ -35,54 +35,57 @@
 
                   <!-- Type of list — public or government only -->
                   {{- if $e.type -}}
-                  <h3>{{- $e.type -}}</h3>
+                  <div class="type">{{- $e.type -}}</div>
                   {{- end -}}
 
-                  <!-- Listserv Platforms without form sign-up option -->
-                  {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
-                    <a href="mailto:{{- $e.subscribe_email -}}
-                    {{- if $e.subscribe_email_subject -}}
-                      ?subject={{- $e.subscribe_email_subject -}}
-                      {{- if $e.subscribe_email_body -}}
-                        &body={{- $e.subscribe_email_body -}}
-                      {{- end -}}
-                    {{- else -}}
-                      {{- if $e.subscribe_email_body -}}
-                        ?body={{- $e.subscribe_email_body -}}
-                      {{- end -}}
-                    {{- end -}}" class="join type-{{- $e.platform -}}"><i class="fas fa-envelope"></i> Join by email</a>
+                  <div class="join-box-wrapper">
+                    <!-- Listserv Platforms without form sign-up option -->
+                    {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
+                      <a href="mailto:{{- $e.subscribe_email -}}
+                      {{- if $e.subscribe_email_subject -}}
+                        ?subject={{- $e.subscribe_email_subject -}}
+                        {{- if $e.subscribe_email_body -}}
+                          &body={{- $e.subscribe_email_body -}}
+                        {{- end -}}
+                      {{- else -}}
+                        {{- if $e.subscribe_email_body -}}
+                          ?body={{- $e.subscribe_email_body -}}
+                        {{- end -}}
+                      {{- end -}}" class="join type-{{- $e.platform -}}"><i class="fas fa-envelope"></i> Join by email</a>
 
-                    <p>To join, email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_email_subject }} <code>{{ $e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_email_body }} and <code>{{ $e.subscribe_email_body }}</code> in the body{{- end -}}.</p>
-                  {{- end -}}
+                      <p>To join, email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_email_subject }} <code>{{ $e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_email_body }} and <code>{{ $e.subscribe_email_body }}</code> in the body{{- end -}}.</p>
+                    {{- end -}}
 
-                  <!-- Listserv Platforms with form as sign-up option -->
-                  {{- if and (eq $e.platform "listserv") ( $e.subscribe_form ) -}}
-                    <a href="{{ $e.subscribe_form }}" class="join type-{{- $e.platform -}}" title="Join the {{ .Title | markdownify }} Community"><i class="fas fa-file-signature"></i> Join via our form</a>
+                    <!-- Listserv Platforms with form as sign-up option -->
+                    {{- if and (eq $e.platform "listserv") ( $e.subscribe_form ) -}}
+                      <a href="{{ $e.subscribe_form }}" class="join type-{{- $e.platform -}}" title="Join the {{ .Title | markdownify }} Community"><i class="fas fa-file-signature"></i> Join via our form</a>
 
-                    <p>To join, <a href="{{ $e.subscribe_form }}" title="Fill out our form">fill out our form</a>{{ if $e.subscribe_email }} or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_email_subject }} <code>{{ $e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_email_body }} and <code>{{ $e.subscribe_email_body }}</code> in the body{{- end -}}{{- end -}}.</p>
-                  {{- end -}}
+                      <p>To join, <a href="{{ $e.subscribe_form }}" title="Fill out our form">fill out our form</a>{{ if $e.subscribe_email }} or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_email_subject }} <code>{{ $e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_email_body }} and <code>{{ $e.subscribe_email_body }}</code> in the body{{- end -}}{{- end -}}.</p>
+                    {{- end -}}
 
-                  <!-- Google Group platforms -->
-                  {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
-                    <a href="{{- $e.subscribe_form -}}" class="join type-{{- $e.platform -}}"><i class="fab fa-google"></i> Join the Google Group</a>
+                    <!-- Google Group platforms -->
+                    {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
+                      <a href="{{- $e.subscribe_form -}}" class="join type-{{- $e.platform -}}"><i class="fab fa-google"></i> Join the Google Group</a>
 
-                    <p>To join, fill out our form or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_email_subject }} <code>{{ $e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_email_body }} and <code>{{ $e.subscribe_email_body }}</code> in the body{{- end -}}.</p>
-                  {{- end -}}
+                      <p>To join, fill out our form or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_email_subject }} <code>{{ $e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_email_body }} and <code>{{ $e.subscribe_email_body }}</code> in the body{{- end -}}.</p>
+                    {{- end -}}
 
 
 
-                  {{/* Checking to see if community terms are defined */}}
-                  {{ if $e.terms }}
-                  <p class="terms"><em>{{ $e.terms | markdownify }}</em></p>
-                  {{ else }}
-                  <p class="terms"><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
-                  {{ end }}
+                    {{/* Checking to see if community terms are defined */}}
+                    {{ if $e.terms }}
+                    <p class="terms"><em>{{ $e.terms | markdownify }}</em></p>
+                    {{ else }}
+                    <p class="terms"><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
+                    {{ end }}
 
-                  {{- if $e.members -}}
-                    <p class="members"><i class="far fa-user"></i> {{ $e.members }} members
-                    {{- if $e.emails_per_week }}
-                     <br/> <i class="far fa-envelope"></i> Avg. {{ $e.emails_per_week }} emails per week{{- end -}}</p>
-                  {{- end -}}
+                    {{- if $e.members -}}
+                      <p class="members"><i class="far fa-user"></i> {{ $e.members }} members
+                      {{- if $e.emails_per_week }}
+                       <br/> <i class="far fa-envelope"></i> Avg. {{ $e.emails_per_week }} emails per week{{- end -}}</p>
+                    {{- end -}}
+
+                  </div>
 
                 </div>
 

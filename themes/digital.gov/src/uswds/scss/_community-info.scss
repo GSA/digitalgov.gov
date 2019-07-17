@@ -1,16 +1,26 @@
 .community-info{
   @include u-margin-bottom(3);
-  @include u-bg('gray-warm-4');
+  // @include u-bg('gray-warm-4');
   @include u-font('sans', '2xs');
   .join-box{
+    @include u-margin-bottom('205');
     @include u-bg('gray-warm-10');
-    @include u-padding(2);
     @include u-line-height('sans', 1);
-    border-top: 1px #999 solid;
     &:first-child{
       border: none;
     }
 
+    .type{
+      @include u-text('center');
+      @include u-text('uppercase');
+      @include u-font('sans', '3xs');
+      @include u-bg('gray-warm-20');
+      @include u-padding-y('05');
+    }
+
+    .join-box-wrapper{
+      @include u-padding(2);
+    }
     h3{
       @include u-margin-top(0);
       @include u-font('sans', 'xs');
