@@ -13,11 +13,23 @@ aliases:
 
 Our newsletter is sent out every Tuesday morning _(with the exception of holiday weeks)_.
 
-{{< button href="https://connect.digitalgov.gov/subscribe" text="subscribe to our newsletter" >}}
-
 Our strategy is to provide you with just the right amount of information to help you and your team make something 5% better. We’re not interested in flooding your inbox with emails you don’t need.
 
 That said — while we aim to send one email each week, we may occasionally send stand alone emails with important news items or product launches. Though we'll keep those emails to a minimum.
+
+{{< box >}}
+### Subscribe to our newsletter
+
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "1962994",
+	formId: "ba5bb171-6a2d-4a96-a9f5-c94378f94c63"
+});
+</script>{{< /box >}}
 
 Want to make a change to how you receive emails from us? [Head over to our manage subscription page »](https://connect.digitalgov.gov/subscribe)
 
