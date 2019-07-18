@@ -31,11 +31,9 @@ That said — while we aim to send one email each week, we may occasionally send
 });
 </script>{{< /box >}}
 
-Want to make a change to how you receive emails from us? [Head over to our manage subscription page »](https://connect.digitalgov.gov/subscribe)
-
 :envelope:Have additional questions? Reach out at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
-Interested in contributing to Digital.gov? [Check out what we're looking for »]({{< link "/about/contribute/" >}})
+Interested in contributing to Digital.gov? [Check out our contribution page »]({{< link "/about/contribute/" >}})
 
 ## Other ways to subscribe and follow
 
