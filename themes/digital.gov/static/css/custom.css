@@ -38,6 +38,12 @@ Add styles inside the media query below that you only want to be applied to the 
 }
 
 
+/* HubSpot Forms */
+.hbspt-form{
+	padding:1.5em;
+	background:#f0f0ec;
+}
+
 .hbspt-form form{
 	margin:0;
 }
@@ -48,25 +54,41 @@ Add styles inside the media query below that you only want to be applied to the 
 .hbspt-form form input{
 	font-size: 16px;
 }
+.hbspt-form form .input textarea,
+.hbspt-form form .input input{
+	border:1px #ccc solid;
+}
 .hbspt-form form .input ul{
+	padding-left: 0;
 	padding-top:0 !important;
 }
+.hbspt-form form .input ul li{
+	list-style-type: none;
+}
+/* fixes the text on check boxes in forms */
+.hbspt-form form .input ul li span{
+	top:2px;
+	position: relative;
+	margin-left:3px;
+}
 
+/* Submit button styles */
 .hbspt-form form .actions{
-	margin:1em 0 0 0;
+	margin:1.5em 0;
 	padding-top:0 !important;
 	padding-bottom:0 !important;
 }
-.hbspt-form form .actions input{
+.hbspt-form form .actions input.hs-button{
 	padding:14px 18px;
 	background: #ff6860;
 	border:none !important;
 	border-radius: 0;
 	text-shadow: none;
 	box-shadow: none;
-	font-size: 16px;
+	font-size: 18px;
+	font-weight:bold;
 }
-.hbspt-form form .actions input:hover{
+.hbspt-form form .actions input.hs-button:hover{
 	box-shadow: none !important;
 	border: none !important;
 	background: #d94941;
