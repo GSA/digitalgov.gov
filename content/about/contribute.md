@@ -32,7 +32,6 @@ We regularly accept articles, blog posts, events, resources, tools, and other co
 });
 </script>
 
----
 
 ## Submission Considerations
 Just a few quick notes to consider before submitting your contribution request:

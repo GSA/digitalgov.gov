@@ -40,7 +40,9 @@ Add styles inside the media query below that you only want to be applied to the 
 
 /* HubSpot Forms */
 .hbspt-form{
+	margin-bottom: 1.5em;
 	padding:1.5em;
+	padding-bottom:2em;
 	background:#f0f0ec;
 }
 
@@ -74,7 +76,7 @@ Add styles inside the media query below that you only want to be applied to the 
 
 /* Submit button styles */
 .hbspt-form form .actions{
-	margin:1.5em 0;
+	margin:1.5em 0 0 0;
 	padding-top:0 !important;
 	padding-bottom:0 !important;
 }
