@@ -34,9 +34,7 @@ We regularly accept articles, blog posts, events, resources, tools, and other co
 });
 </script>
 
-_If content is about programs at your agency, you must have it reviewed and approved by your agency’s Comms team before submitting._
-
-:envelope:Have additional questions? Send us an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+:envelope:Have additional questions? Send us an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
 {{< /box >}}
 
 ---
@@ -62,7 +60,7 @@ Just a few quick notes to consider before submitting your contribution request:
 This information is crucial to modernizing services and much of it is government-specific, dealing with the various rules, regulations and policies.
 Access to the right tools and resources will help them confidently take steps toward working smarter, iterating more frequently and delivering better, more effective services to the public.
 
-**Some recent examples**
+**Some examples**
 
 - [A resource page that explains how to do something](https://digital.gov/resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/)
 - [A template for a much needed, common document](https://digital.gov/resources/digital-governance-policies/)
@@ -74,7 +72,7 @@ Access to the right tools and resources will help them confidently take steps to
 Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices.
 They want more information that is specific to government — examples of what agencies are doing; case studies; collections of validated federal-wide news that has an impact on digital in one spot.
 
-**Some recent examples**
+**Some examples**
 
 - [A link to a blog post](https://revenuedata.doi.gov/blog/journey-mapping/)
 - [A blog post from an agency](https://digital.gov/2019/06/13/building-trust-with-users-through-open-communication-feedback/)
@@ -87,9 +85,9 @@ People are interested in participating in spaces where they can more seamlessly 
 
 **Here are some ways to start collaborating**
 
-- Join a community of practice
-- Get in touch with us about hosting an event
-- Subscribe to our newsletter
+- [Join a community of practice](https://digital.gov/communities/)
+- Get in touch with us about hosting an event by filling out the form above
+- [Subscribe to our newsletter](digital.gov/about/subscribe/)
 
 ---
 
