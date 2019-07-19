@@ -14,7 +14,7 @@ aliases:
 
 While our primary mission is helping agencies implement new technologies or innovations to increase customer experience, DigitalGov has several channels to reach both federal and non-federal stakeholders. We send out a newsletter to a broad range of people in government, host informational blog posts and videos on our site, and work with DigitalGov University (DGU) to offer virtual and in-person educational experiences.
 
-We regularly accept articles, blog posts, events, resources, tools, and other content for this site from various agencies and are open to other suggestions. [Learn more about what our readers need »](#)
+We regularly accept articles, blog posts, events, resources, tools, and other content for this site from various agencies and are open to other suggestions. [Learn more about what our readers need »](#what-our-readers-need)
 
 - **News, Updates, and Blog Posts** — Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices. We are looking for posts that show what your team is working on, what challenges you’re facing, or how you’re working to make digital better for the public.
 - **Case Studies** — We are looking for examples of what agencies are doing, case studies, or collections of validated federal-wide news that has an impact on digital in one spot.
@@ -62,8 +62,8 @@ Access to the right tools and resources will help them confidently take steps to
 
 **Some examples**
 
-- [A resource page that explains how to do something](https://digital.gov/resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/)
-- [A template for a much needed, common document](https://digital.gov/resources/digital-governance-policies/)
+- [A resource page that explains how to do something]({{< link "/resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/" >}})
+- [A template for a much needed, common document]({{< link "/resources/digital-governance-policies/" >}})
 - [A link to a helpful guide that your agency relies upon](https://accessibility.18f.gov/)
 
 
@@ -75,9 +75,9 @@ They want more information that is specific to government — examples of what a
 **Some examples**
 
 - [A link to a blog post](https://revenuedata.doi.gov/blog/journey-mapping/)
-- [A blog post from an agency](https://digital.gov/2019/06/13/building-trust-with-users-through-open-communication-feedback/)
-- [An explainer in a blog post](https://digital.gov/2014/07/07/user-experience-ux-vs-customer-experience-cx-whats-the-dif/)
-- [An explainer over video](https://digital.gov/event/2019/04/24/dap-learning-series-using-advanced-analysis-tool/)
+- [A blog post from an agency]({{< link "/2019/06/13/building-trust-with-users-through-open-communication-feedback/" >}})
+- [An explainer in a blog post]({{< link "/2014/07/07/user-experience-ux-vs-customer-experience-cx-whats-the-dif/" >}})
+- [An explainer over video]({{< link "/event/2019/04/24/dap-learning-series-using-advanced-analysis-tool/" >}})
 
 ### Collaboration
 
@@ -85,9 +85,9 @@ People are interested in participating in spaces where they can more seamlessly 
 
 **Here are some ways to start collaborating**
 
-- [Join a community of practice](https://digital.gov/communities/)
+- [Join a community of practice]({{< link "/communities/" >}})
 - Get in touch with us about hosting an event by filling out the form above
-- [Subscribe to our newsletter](digital.gov/about/subscribe/)
+- [Subscribe to our newsletter]({{< link "/about/subscribe/" >}})
 
 ---
 
