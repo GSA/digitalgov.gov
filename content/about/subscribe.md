@@ -17,21 +17,9 @@ That said — while we aim to send one email each week, we may occasionally send
 
 _Interested in contributing to Digital.gov? [Check out our contribution page »]({{< link "/about/contribute/" >}})_
 
-
-<!--[if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "1962994",
-	formId: "f8c8ff73-dbc9-4242-90e4-e8cbcee02f6a"
-});
-</script>
+{{< hs-form-subscribe >}}
 
 :envelope:Have additional questions? Reach out at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
-
-
 
 ## Other ways to subscribe and follow
 
