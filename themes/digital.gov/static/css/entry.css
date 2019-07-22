@@ -20,11 +20,13 @@
 .entry-head .breadcrumb p{
 	margin: 0;
 }
+.page .post-title,
 .post .post-title{
 	margin:0 0 .2em 0;
 	line-height: 40px;
 	color:#000;
 }
+.page .entry .deck,
 .post .entry .deck{
 	margin:0 0 0 0;
 	padding:0;

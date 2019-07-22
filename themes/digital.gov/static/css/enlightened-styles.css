@@ -356,11 +356,11 @@ a, a:link, a:visited {
 	outline:none;
 	text-decoration:none;
 	color:#268CBF;
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	-ms-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.15s ease-in-out;
+	-moz-transition: all 0.15s ease-in-out;
+	-o-transition: all 0.15s ease-in-out;
+	-ms-transition: all 0.15s ease-in-out;
+	transition: all 0.15s ease-in-out;
 	}
 
 a:hover, a:active {
@@ -4842,21 +4842,15 @@ a.button,
 	display: inline-block;
 	margin: 0 5px 20px 0;
 	text-decoration: none;
-	background:#fff url(images/gradient60.png) bottom left repeat-x;
 	border:0;
 	cursor:pointer;
 	text-align:center;
 	font-weight:bold;
 	color: #444;
 	color: rgba(0,0,0,0.7);
-	border:1px solid #ccc;
-	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
-	-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
-    	box-shadow:  0 1px 2px rgba(0, 0, 0, 0.2), inset 0 0 0 1px rgba(255,255,255,0.2);
-	-webkit-border-radius:3px;
-	-moz-border-radius:3px;
-	border-radius:3px;
-	text-shadow:0 1px 0 rgba(255,255,255,0.2);
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	border-radius:2px;
 	}
 
 .button.large {
@@ -4869,7 +4863,7 @@ a.button,
 	line-height: 26px;
 	padding: 5px 20px;
 	font-size:12px;
-	}
+}
 
 a.button:hover,
 .button:hover {
