@@ -95,6 +95,7 @@ As a participant, you’re free to choose the talk that interests you the most o
   - Design: **The Future of Government User Experience: Improving Faster with Design Systems**, Aviva Oskow (GSA)
     - [Watch the video](https://www.youtube.com/watch?v=fHRsDKjUlNU)
     - [Read the transcript](https://digital.gov/pdf/Design3-Oskow-Design-Systems.pdf) (PDF, 110 KB, 15 pages)
+    - [View the slides](https://digital.gov/pdf/Slides-Design3-Oskow-Design-Systems.pdf) (PDF, 22.5 MB, 90 pages)
 
 A community lunch will follow in the BLS cafeteria for those who wish to stay. Bring your lunch or purchase it in the cafeteria.
 
