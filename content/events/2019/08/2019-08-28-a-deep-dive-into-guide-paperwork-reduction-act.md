@@ -14,7 +14,7 @@ host:
 registration_url: https://www.eventbrite.com/e/a-deep-dive-into-the-guide-to-the-paperwork-reduction-act-registration-66215553503
 
 ---
-
+*[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4112832&CustomerID=321)*
 
 In June, the Office of Information and Regulatory Affairs (OIRA) and Digital.gov launched the [Guide to the Paperwork Reduction Act](https://pra.digital.gov/) (PRA)—a plain language guide that answers the most common questions people have around the PRA. It aims to give confidence to federal employees when working with the PRA—and through this, lowers the barriers to working effectively with the public.
 
