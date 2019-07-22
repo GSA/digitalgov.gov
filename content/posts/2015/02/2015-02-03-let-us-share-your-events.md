@@ -10,7 +10,7 @@ topics:
   - DGU
 ---
 
-{{< legacy-img src="2015/02/250-x-212-DGU-Partner-Event-using-DG-logo-colors-image-from-People-in-action-logos-and-icons-marko187-iStock-Thinkstock-451025551.jpg" alt="DGU Friend Event icon" caption="" >}} 
+{{< legacy-img src="2015/02/250-x-212-DGU-Partner-Event-using-DG-logo-colors-image-from-People-in-action-logos-and-icons-marko187-iStock-Thinkstock-451025551.jpg" alt="DGU Friend Event icon" caption="" >}}
 
 You may have seen this icon on our calendar recently. This icon indicates a digitalgov &#8220;friend event.&#8221;
 
@@ -26,7 +26,7 @@ If you answered YES to all three questions then you have a friend event that we 
 
   * [Submit your event for the calendar](https://www.surveymonkey.com/s/friend-event).
   * It goes up on the calendar. (As long it&#8217;s free, hosted by a federal agency and in the realm of digital services.)
-  * It [goes out in our newsletter](http://connect.digitalgov.gov/subscribe).
+  * It [goes out in our newsletter]({{< link "/about/subscribe/" >}}).
 
 ## WIIFM?
 

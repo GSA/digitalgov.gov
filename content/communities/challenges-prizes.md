@@ -4,9 +4,10 @@
 
 slug: challenges-prizes
 date: 2013-12-05 10:46:00 -0500
-title: "Challenges & Prizes"
+title: 'Challenge & Prize'
 deck: ""
-summary: "We work to find innovative government solutions through encouraging public participation in crowdsourcing competitions."
+summary: "We encourage public participation in crowdsourcing competitions to find innovative government solutions."
+
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -38,6 +39,7 @@ community_list:
     subscribe_email_body: "enter your name + agency you work for"
     members: 1351
 
+If you answered yes to any of these questions, the Challenge and Prize Federal Community of Practice is for you!
 
 # Make it better ♥
 ---
@@ -54,15 +56,15 @@ Hackathons, grand challenges, data jams, map-a-thons—it’s all crowdsourcing.
 
 ## What we do
 
-Our go-getter members exchange ideas, review best practices, and provide a sounding board and sanity check on crowdsourcing policies and procedures. We are changing the way the government does business, advising our organizational leaders on new ways to acquire innovations—wherever they emerge—at tremendous cost avoidance and in a fraction of the usual procurement time.
+Our members exchange ideas, review best practices, and provide a sounding board on crowdsourcing policies and procedures. We are changing the way the government does business, advising our organizational leaders on new ways to source innovations—wherever they emerge—at tremendous cost avoidance and in a fraction of the usual procurement time.
 
-Our community supports and encourages the use of incentivized competition and challenges to attract and engage the public to help us meet critical government needs for the good of community and country.
+Our community supports and encourages the use of incentivized competition to attract and engage the public to help us meet critical government needs.
 
-Members of the Challenges and Prizes COP gather about four times a year to share ideas, review best practices, and discuss policies and procedures. Membership and participation is open to federal, state, and local government. We host a listserv for members to ask questions, announce new challenges and prizes, voting opportunities, challenge results and impact, events, research, resources, and more.
+Members of the Challenge and Prize COP gather about four times a year to share ideas, review best practices, and discuss policies and procedures. Membership and participation is open to federal, state, and local government. We host a listserv for members to ask questions, announce new challenges and prizes, and more.
 
 ## Key Resources
-- Official listing of federal challenge: http://www.challenge.gov
+- Official listing of federal prizes and challenges: http://www.challenge.gov
 - Toolkit and resources on running challenges: http://www.challenge.gov/toolkit
-- Playlist of challenges and prizes webinars: http://www.youtube.com/digitalgov/
+- Playlist of challenges and prizes webinars: https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC
 - Facebook: http://www.facebook.com/challengegov
 - Twitter: http://www.twitter.com/challengegov
