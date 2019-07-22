@@ -12,7 +12,7 @@ end_date: 2019-07-24 15:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-misunderstood-metrics-registration-59346956344
-youtube_id: bSkO87878Zs
+youtube_id: nvNwmFEroWA
 
 ---
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993566&CustomerID=321)_
