@@ -1,6 +1,6 @@
 ---
 slug: a-deep-dive-into-innovative-methods-behind-guide-paperwork-reduction-act
-title: 'A Deep Dive Into the Innovative Methods Behind “The Guide to the Paperwork Reduction Act”'
+title: 'A Deep Dive Into the Guide to the Paperwork Reduction Act'
 summary: 'We will hear from the teams behind the PRA Guide and explore why and how it was built, the methods they used, and what the team is doing to ensure a sustainable path for the future&#46;'
 featured_image:
   uid: pra-event-card
