@@ -12,7 +12,7 @@ end_date: 2019-07-10 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Plain Language 
 registration_url: https://www.eventbrite.com/e/federal-plain-language-report-card-planning-registration-63583460843
-youtube_id: T_zTZGDE7Gg&t=4s
+youtube_id: T_zTZGDE7Gg&t=6s
 
 ---
 
