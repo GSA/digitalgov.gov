@@ -6,15 +6,15 @@ featured_image:
   uid:
   alt: ''
 event_type:
-  - youtube-live
+  - Zoom
 date: 2019-11-20 13:00:00 -0500
 end_date: 2019-11-20 14:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-site-analysis-live-registration-59347191046
-youtube_id: 57mZ_YRIBOk
 
 ---
+
 _[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993574&CustomerID=321)_
 
 DAP users often ask – _“How should I analyze my site?”_
