@@ -34,10 +34,10 @@ There are a few ways that government and private communities are alike. Check ou
 
 Getting more involved in a community is a great way for federal employees to do their jobs better and grow their careers. Here are some ways you can get started:
 
-  * [Share your knowledge by writing articles for DigitalGov]({{< link "contribute.md" >}}).
-  * Join [communities, so you can learn from everyone]({{< link "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}).
-  * Increase your skills by trying out online tools for communities. For example, GSA employees use Salesforce Chatter, and [Digital Analytics Program customers collaborate on Yammer]({{< link "dap.md" >}}).
-  * Have a skill you don&#8217;t get to use everyday at work? Federal agencies post tasks they need done through the [Open Opportunities Program]({{< link "open-opportunities.md" >}}). From there, you can create a profile on the [Open Opportunities site](https://openopps.digitalgov.gov/) and join their LinkedIn group.
-  * Take advantage of [events where you can network with communities]({{< link "/digitalgov-university/" >}}).
+  * [Share your knowledge by writing articles for DigitalGov]({{< ref "contribute.md" >}}).
+  * Join [communities, so you can learn from everyone]({{< ref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}).
+  * Increase your skills by trying out online tools for communities. For example, GSA employees use Salesforce Chatter, and [Digital Analytics Program customers collaborate on Yammer]({{< ref "service_dap.md" >}}).
+  * Have a skill you don&#8217;t get to use everyday at work? Federal agencies post tasks they need done through the [Open Opportunities Program]({{< ref "open-opportunities.md" >}}). From there, you can create a profile on the [Open Opportunities site](https://openopps.digitalgov.gov/) and join their LinkedIn group.
+  * Take advantage of [events where you can network with communities]({{< ref "/about/digitalgov-university.md" >}}).
 
 Have you taken part in a government or private sector community? Write us, and let us know how it was beneficial.

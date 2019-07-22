@@ -59,8 +59,8 @@ We are building DigitalGov into a destination that practices the methods that it
 - [DigitalGov on GitHub](https://github.com/GSA/digitalgov.gov)
 - [Follow us on Twitter](https://twitter.com/digital_gov/)
 - [Join our Facebook page](https://www.facebook.com/DigitalGov)
-- [Subscribe to our newsletter]({{< link "/about/subscribe/" >}})
-- [Join a community of practice]({{< link "/communities/" >}})
+- [Subscribe to our newsletter]({{< ref "/about/subscribe.md" >}})
+- [Join a community of practice]({{< ref "/communities/_index.md" >}})
 - Reach out, [send us an email](mailto:digitalgov@gsa.gov)
 
 

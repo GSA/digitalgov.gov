@@ -26,7 +26,7 @@ If you answered YES to all three questions then you have a friend event that we 
 
   * [Submit your event for the calendar](https://www.surveymonkey.com/s/friend-event).
   * It goes up on the calendar. (As long it&#8217;s free, hosted by a federal agency and in the realm of digital services.)
-  * It [goes out in our newsletter]({{< link "/about/subscribe/" >}}).
+  * It [goes out in our newsletter]({{< ref "/about/subscribe.md" >}}).
 
 ## WIIFM?
 

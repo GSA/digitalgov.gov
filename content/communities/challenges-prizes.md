@@ -39,8 +39,6 @@ community_list:
     subscribe_email_body: "enter your name + agency you work for"
     members: 1351
 
-If you answered yes to any of these questions, the Challenge and Prize Federal Community of Practice is for you!
-
 # Make it better ♥
 ---
 
@@ -48,7 +46,7 @@ If you answered yes to any of these questions, the Challenge and Prize Federal C
 
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
-If you answered yes to any of these questions, the Challenges and Prizes Federal Community of Practice is for you!
+If you answered yes to any of these questions, the Challenge and Prize Federal Community of Practice is for you!
 
 ## Who we are
 
