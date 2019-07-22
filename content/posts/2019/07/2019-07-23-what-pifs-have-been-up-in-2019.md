@@ -12,7 +12,7 @@ tag:
   - pifs
 
 featured_image:
-  uid: pif-homecoming-1
+  uid: pif-homecoming-2
   alt: ""
 
 ---
