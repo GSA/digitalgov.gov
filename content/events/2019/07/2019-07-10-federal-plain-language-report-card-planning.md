@@ -5,8 +5,6 @@ summary: 'Come and help us plan for this year&#39;s federal report card review&#
 featured_image: 
   uid: plain-language
   alt: ''
-event_type: 
-  - Zoom
 date: 2019-07-10 14:00:00 -0500
 end_date: 2019-07-10 15:00:00 -0500
 event_organizer: DigitalGov University
