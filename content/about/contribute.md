@@ -81,6 +81,8 @@ As we found in listening to them, they are working against incredible odds, and 
 
 ---
 
+<img src="https://connect.digitalgov.gov/hs-fs/hubfs/VSFS%20screencap.jpg" style="text-align: center; border: none;">
+
 ## Virtual Student Federal Service — #ApplyInJuly to Be an Intern for the Innovation Portfolio
 
 Are you a U.S. college student looking for a way to make a real difference in the work of your government, while also gaining job experience and connections?
@@ -103,5 +105,6 @@ Our Innovation Portfolio is looking to select five virtual interns for the follo
 
  - [How to Apply to VSFS Projects](https://vsfs.state.gov/how-to-apply)
  - [VSFS Frequently Asked Questions](https://vsfs.state.gov/faq)
+ - Watch our 30-minute video: [2019 Virtual Student Federal Service (VSFS) Info Session](https://digital.gov/event/2019/05/21/2019-virtual-student-federal-service-vsfs-info-session/)
 
 _Digital.gov is part of the Innovation Portfolio of the [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs), which is part of the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA)._
