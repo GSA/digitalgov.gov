@@ -15,8 +15,6 @@ registration_url: https://www.eventbrite.com/e/american-tech-series-part-two-adv
 youtube_id: Hi9KWZhi0so
 
 ---
-[*View live captioning for this event*](https://www.captionedtext.com/client/event.aspx?EventID=4076484&CustomerID=321)
-
 
 User-centered design is a practice honed by the American tech industry. In American government practice, it has meant inserting the end-user into as many conversations, meetings, and product discussions as possible. Many people in government are receptive to this re-framing, and it allows civic technologists and designers across TTS to more intentionally design products and services with the person who will use it in mind. Joining Davar Ardalan are 18F Product Manager Kara Reinsel, PIF Maria Dayton, and USA.gov's Marietta Jelks.
 
