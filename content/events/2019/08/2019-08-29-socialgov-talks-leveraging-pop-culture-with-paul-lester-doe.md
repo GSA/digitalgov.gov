@@ -1,6 +1,6 @@
 ---
 slug: socialgov-talks-leveraging-pop-culture-with-paul-lester-doe
-title: 'SocialGov Talks&#58; Leveraging pop culture with Paul Lester of the DOE'
+title: 'SocialGov Talks&#58; Leveraging Pop Culture With Paul Lester of the DOE'
 summary: 'Learn from a social media expert at Department of Energy how to use pop culture references as a jumping off point to talk about your agency’s work&#46;  '
 featured_image: 
   uid: 
