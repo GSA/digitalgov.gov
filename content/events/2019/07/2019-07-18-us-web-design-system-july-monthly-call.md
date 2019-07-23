@@ -12,6 +12,7 @@ end_date: 2019-07-18 15:30:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System, DigitalGov University
 registration_url: https://www.eventbrite.com/e/us-web-design-system-july-monthly-call-registration-63426916615
+youtube_id: 0Yp_tV7lf18&t
 
 ---
 
