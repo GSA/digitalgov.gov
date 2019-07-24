@@ -81,6 +81,7 @@ As we found in listening to them, they are working against incredible odds, and 
 ## Virtual Student Federal Service Internships
 
 <div class="deck">#ApplyInJuly to Be an Intern for the Innovation Portfolio</div>
+<br /> 
 
 <p align="center"><img src="https://connect.digitalgov.gov/hs-fs/hubfs/VSFS%20screencap.jpg" alt="Screen capture of the VSFS website homepage with a person sitting on a stone wall looking toward a scenic horizon and a timeline of the application process."></p>
 
