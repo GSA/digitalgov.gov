@@ -35,8 +35,6 @@ Just a few quick notes to consider before submitting your contribution request:
 - **Visuals/Media** — Photos, screenshots, charts, and other visuals help engage the reader and keep them interested in your content. If you have visuals that we can include, please try to identify the highest resolution of the file possible (i.e., usually anything 150 dpi or greater works best) and we can work with you to adjust the image to an appropriate format and file size. Alternative text also must be provided for accessibility tools like screen readers.
 - **Timing** — We generally try to post content within two weeks of your submission. Events are most successful when we post them four weeks out from the event date. So we ask that you take this into account before submitting an event. Videos from events are usually posted within a week after an event once closed captioning and other supporting information is available.
 
----
-
 ## What Our Readers Need
 
 <div class="deck">Through our user research, we have found that there are three things product managers in government need to be successful in their work.</div>
@@ -52,7 +50,6 @@ Access to the right tools and resources will help them confidently take steps to
 - [A resource page that explains how to do something]({{< link "/resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/" >}})
 - [A template for a much needed, common document]({{< link "/resources/digital-governance-policies/" >}})
 - [A link to a helpful guide that your agency relies upon](https://accessibility.18f.gov/)
-
 
 ### Examples of problems being solved in government
 
@@ -81,16 +78,13 @@ People are interested in participating in spaces where they can more seamlessly 
 
 This guidance stems from qualitative user research we conducted with over nearly two dozen federal members of our audience — content managers, designers, developers, innovation leaders — who are involved with all aspects of agencies’ digital services.
 
-As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart:
-
----
-
-<img src="https://connect.digitalgov.gov/hs-fs/hubfs/VSFS%20screencap.jpg" alt="Screen capture of the VSFS website homepage with a person sitting on a stone wall looking toward a scenic horizon and a timeline of the application process." style="text-align: center; border: none;">
+As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart: 
 
 ## Virtual Student Federal Service Internships
 
 <div class="deck">ApplyInJuly to Be an Intern for the Innovation Portfolio</div>
 
+<img src="https://connect.digitalgov.gov/hs-fs/hubfs/VSFS%20screencap.jpg" alt="Screen capture of the VSFS website homepage with a person sitting on a stone wall looking toward a scenic horizon and a timeline of the application process." style="text-align: center; border: none;">
 Are you a U.S. college student looking for a way to make a real difference in the work of your government, while also gaining job experience and connections?
 
 Through the [Virtual Student Federal Service (VSFS) program](https://vsfs.state.gov/), students can work on projects that advance the work of government on multiple fronts. Tech-related projects include developing virtual programs, engaging in digital communications, data analysis, graphic design, and building apps.
