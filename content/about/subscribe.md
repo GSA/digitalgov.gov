@@ -25,5 +25,5 @@ _Interested in contributing to Digital.gov? [Check out our contribution page »]
 
 - [Join a community of practice]({{< link "/communities/" >}})
 - [Digital.gov on GitHub](https://github.com/GSA/digitalgov.gov)
-- [Follow us on Twitter](https://twitter.com/digital_gov/)
-- [Join our Facebook page](https://www.facebook.com/Digital.gov)
+- [Follow us on Twitter](https://twitter.com/Digital_Gov/)
+- [Join our Facebook page](https://www.facebook.com/DigitalGov)
