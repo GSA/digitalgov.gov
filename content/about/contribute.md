@@ -74,8 +74,6 @@ People are interested in participating in spaces where they can more seamlessly 
 - Get in touch with us about hosting an event by filling out the form above
 - [Subscribe to our newsletter]({{< link "/about/subscribe/" >}})
 
----
-
 This guidance stems from qualitative user research we conducted with over nearly two dozen federal members of our audience — content managers, designers, developers, innovation leaders — who are involved with all aspects of agencies’ digital services.
 
 As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart: 
@@ -84,7 +82,8 @@ As we found in listening to them, they are working against incredible odds, and 
 
 <div class="deck">#ApplyInJuly to Be an Intern for the Innovation Portfolio</div>
 
-<img src="https://connect.digitalgov.gov/hs-fs/hubfs/VSFS%20screencap.jpg" alt="Screen capture of the VSFS website homepage with a person sitting on a stone wall looking toward a scenic horizon and a timeline of the application process." style="text-align: center; border: none;">
+<p align="center"><img src="https://connect.digitalgov.gov/hs-fs/hubfs/VSFS%20screencap.jpg" alt="Screen capture of the VSFS website homepage with a person sitting on a stone wall looking toward a scenic horizon and a timeline of the application process."></p>
+
 Are you a U.S. college student looking for a way to make a real difference in the work of your government, while also gaining job experience and connections?
 
 Through the [Virtual Student Federal Service (VSFS) program](https://vsfs.state.gov/), students can work on projects that advance the work of government on multiple fronts. Tech-related projects include developing virtual programs, engaging in digital communications, data analysis, graphic design, and building apps.
