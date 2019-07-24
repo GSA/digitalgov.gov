@@ -4,6 +4,7 @@ date: 2019-07-10 4:00:00 -0500
 title: Contribute to Digital.gov
 deck: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
 summary: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
+type: guide
 aliases:
   - /join-digitalgov/
   - /about/join/
@@ -24,6 +25,7 @@ We regularly accept articles, blog posts, events, resources, tools, and other co
 {{< hs-form-contribute >}}
 
 ## Submission Considerations
+
 Just a few quick notes to consider before submitting your contribution request:
 
 - **Your Organization** — We cannot accept promotional content or pitches from vendors. If content is about programs at your agency, you must have it reviewed and approved by your agency’s communications team before submitting.
@@ -39,8 +41,7 @@ Just a few quick notes to consider before submitting your contribution request:
 
 <div class="deck">Through our user research, we have found that there are three things product managers in government need to be successful in their work.</div>
 
-
-#### Tools and Resources
+### Tools and Resources
 This information is crucial to modernizing services and much of it is government-specific, dealing with the various rules, regulations and policies.
 Access to the right tools and resources will help them confidently take steps toward working smarter, iterating more frequently and delivering better, more effective services to the public.
 
@@ -53,7 +54,8 @@ Access to the right tools and resources will help them confidently take steps to
 
 ### Examples of problems being solved in government
 
-Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices.
+Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices. 
+
 They want more information that is specific to government — examples of what agencies are doing; case studies; collections of validated federal-wide news that has an impact on digital in one spot.
 
 **Some examples**
