@@ -37,12 +37,14 @@ Just a few quick notes to consider before submitting your contribution request:
 
 ---
 
-## What our readers need
+## What Our Readers Need
 
 <div class="deck">Through our user research, we have found that there are three things product managers in government need to be successful in their work.</div>
 
 ### Tools and Resources
+
 This information is crucial to modernizing services and much of it is government-specific, dealing with the various rules, regulations and policies.
+
 Access to the right tools and resources will help them confidently take steps toward working smarter, iterating more frequently and delivering better, more effective services to the public.
 
 **Some examples**
@@ -85,7 +87,9 @@ As we found in listening to them, they are working against incredible odds, and 
 
 <img src="https://connect.digitalgov.gov/hs-fs/hubfs/VSFS%20screencap.jpg" alt="Screen capture of the VSFS website homepage with a person sitting on a stone wall looking toward a scenic horizon and a timeline of the application process." style="text-align: center; border: none;">
 
-## Virtual Student Federal Service — #ApplyInJuly to Be an Intern for the Innovation Portfolio
+## Virtual Student Federal Service Internships
+
+<div class="deck">ApplyInJuly to Be an Intern for the Innovation Portfolio</div>
 
 Are you a U.S. college student looking for a way to make a real difference in the work of your government, while also gaining job experience and connections?
 
