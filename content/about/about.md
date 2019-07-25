@@ -60,7 +60,7 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 
 ## Contact Us
 
-For all media inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
+For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
 
 **Have a question or comment?**
 
