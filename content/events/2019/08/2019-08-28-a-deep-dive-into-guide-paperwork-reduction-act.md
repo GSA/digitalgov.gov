@@ -6,7 +6,7 @@ featured_image:
   uid: pra-event-card
   alt: ''
 event_type:
-  - online
+  - Zoom
 date: 2019-08-28 11:00:00 -0500
 end_date: 2019-08-28 12:00:00 -0500
 event_organizer: DigitalGov University
