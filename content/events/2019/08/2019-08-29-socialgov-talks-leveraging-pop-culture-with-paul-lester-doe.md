@@ -19,17 +19,19 @@ _[View live captioning for this event ](https://www.captionedtext.com/client/ev
 
 Join Paul Lester, Digital Content Specialist for the [Department of Energy](https://www.energy.gov/) (DOE), to discuss how DOE leveraged the popular TV show, “Stranger Things” as a conversation starter about the agency’s mission and work using digital media (social media, blog, podcast, etc.). Mr. Lester will also discuss how he got management buy-in to use a pop culture phenomenon to promote the agency’s work. 
 
-**Paul Lester, Digital Content Specialist for the Department of Energy**
+**Related links:** 
 
-Paul Lester is a Digital Content Specialist in the Department of Energy’s Office of Public Affairs. Paul was born in Ohio but spent most of his life in Florida, where he worked as a news researcher/archivist and online editor for the [Orlando Sentinel](http://www.orlandosentinel.com/). 
-
-He moved to Washington in 2008 for a web editor role with [The Guardian](http://www.theguardian.com/us) before working as a contractor for the [Wind](https://www.energy.gov/node/779761) and [Water](https://www.energy.gov/node/779756) Technologies Office, the [Small Business Administration](https://www.sba.gov/), and DOE’s [Office of Energy Efficiency and Renewable Energy](https://www.energy.gov/eere/office-energy-efficiency-renewable-energy). Paul joined the Energy.gov team in March 2015, contributing to [Energy Blog](https://www.energy.gov/blog-archive) and assisting with managing the Energy Department’s [social media channels](https://www.energy.gov/about-us/web-policies/social-media). When he’s not in the office, Paul can be seen slowly running around D.C. training for his next half marathon.
-
-- The blog that started it all…. [https://www.energy.gov/articles/what-stranger-things-didn-t-get-quite-so-right-about-energy-department](https://www.energy.gov/articles/what-stranger-things-didn-t-get-quite-so-right-about-energy-department) 
+- The blog that started it all… [https://www.energy.gov/articles/what-stranger-things-didn-t-get-quite-so-right-about-energy-department](https://www.energy.gov/articles/what-stranger-things-didn-t-get-quite-so-right-about-energy-department) 
 -  …that resulted in press like this Wired interview: [https://www.wired.com/2016/08/energy-department-responds-stranger-things/](https://www.wired.com/2016/08/energy-department-responds-stranger-things/) 
 -  We kept it going with our #StrangerThings-themed Halloween! [https://twitter.com/ENERGY/status/793185809549631488](https://twitter.com/ENERGY/status/793185809549631488) 
 - The next year, we delved deeper into the Upside Down and the work DOE is doing in particle physics with a podcast segment… [https://www.energy.gov/podcasts/direct-current-energygov-podcast/s2-e7-energy-secrets](https://www.energy.gov/podcasts/direct-current-energygov-podcast/s2-e7-energy-secrets) 
 -  …and blog post from the director of High Energy Physics: [https://www.energy.gov/articles/searching-upside-down](https://www.energy.gov/articles/searching-upside-down)
+
+**Paul Lester, Digital Content Specialist for the Department of Energy**
+
+Paul Lester is a digital content specialist in the Department of Energy’s Office of Public Affairs. Paul was born in Ohio but spent most of his life in Florida, where he worked as a news researcher-slash-archivist and online editor for the [Orlando Sentinel](http://www.orlandosentinel.com/). 
+
+He moved to Washington in 2008 for a web editor role with [The Guardian](http://www.theguardian.com/us) before working as a contractor for the [Wind](https://www.energy.gov/node/779761) and [Water](https://www.energy.gov/node/779756) Technologies Office, the [Small Business Administration](https://www.sba.gov/), and DOE’s [Office of Energy Efficiency and Renewable Energy](https://www.energy.gov/eere/office-energy-efficiency-renewable-energy). Paul joined the Energy.gov team in March 2015, contributing to [Energy Blog](https://www.energy.gov/blog-archive) and assisting with managing the Energy Department’s [social media channels](https://www.energy.gov/about-us/web-policies/social-media). When he’s not in the office, Paul can be seen slowly running around D.C. training for his next half marathon.
 
 ---
 
