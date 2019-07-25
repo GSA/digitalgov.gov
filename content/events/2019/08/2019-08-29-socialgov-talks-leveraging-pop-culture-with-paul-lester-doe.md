@@ -19,6 +19,8 @@ _[View live captioning for this event ](https://www.captionedtext.com/client/ev
 
 Join Paul Lester, Digital Content Specialist for the [Department of Energy](https://www.energy.gov/) (DOE), to discuss how DOE leveraged the popular TV show, “Stranger Things” as a conversation starter about the agency’s mission and work using digital media (social media, blog, podcast, etc.). Mr. Lester will also discuss how he got management buy-in to use a pop culture phenomenon to promote the agency’s work. 
 
+**Related links:** 
+
 - The blog that started it all…. [https://www.energy.gov/articles/what-stranger-things-didn-t-get-quite-so-right-about-energy-department](https://www.energy.gov/articles/what-stranger-things-didn-t-get-quite-so-right-about-energy-department) 
 -  …that resulted in press like this Wired interview: [https://www.wired.com/2016/08/energy-department-responds-stranger-things/](https://www.wired.com/2016/08/energy-department-responds-stranger-things/) 
 -  We kept it going with our #StrangerThings-themed Halloween! [https://twitter.com/ENERGY/status/793185809549631488](https://twitter.com/ENERGY/status/793185809549631488) 
