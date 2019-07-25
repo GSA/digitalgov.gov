@@ -5,13 +5,14 @@ title: 'About'
 summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
 aliases:
   - /contact-us/
+
 ---
 
 Welcome to DigitalGov.
 
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
-And we do that by providing people in the federal government with the tools, methods, practices and policy guidance they need to deliver effective and accessible digital services.
+And we do that by providing people in the federal government with the tools, methods, practices, and policy guidance they need to deliver effective and accessible digital services.
 
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
@@ -46,9 +47,7 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 ## DigitalGov
 **Jeremy Zilar**, Director<br/>
 **Dan Williams**, Designer<br/>
-**Andrea Sigritz**, Editor, User Research & Content Strategy<br/>
 **Toni Bonitto**, Editor, Platform & Content Production<br/>
-**Soncerray Bolling**, Video Editor, Training & Education
 
 ### The U.S. Web Design System Core Team
 
