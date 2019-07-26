@@ -12,6 +12,7 @@ end_date: 2019-07-25 15:00:00 -0500
 event_organizer: DigitalGov University
 host: AI COP
 registration_url: https://www.eventbrite.com/e/machine-learning-how-bureau-of-labor-statistics-did-it-registration-64613832713
+youtube_id: 0j-DmzJmJFg
 
 ---
 
