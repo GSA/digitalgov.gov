@@ -31,21 +31,21 @@ This 3-hour, in-person training class, will provide an update on plain writing p
 
 This training session will benefit you no matter what audience you write for: external audiences that include customers, citizens, and the public, as well as if you write press releases, emails, articles, blogs, websites, newsletters, etc.
 
-Session Location: Conference room 1153 at the GSA (1800 F St. NW, Washington, DC).
+Session Location: Conference room 1153, at the U.S. General Services Administration (street address and link to Google Maps are below).
 
 Class limit is 30 participants.
 
 ***Related links:***
 
-- [https://www.plainlanguage.gov/](https://www.plainlanguage.gov/)
+- [PlainLanguage.gov](https://www.plainlanguage.gov/)
 - [Plain Writing Act of 2010](https://www.congress.gov/bill/111th-congress/house-bill/946)
 
 ---
 
 _The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing._
 
-- Visit [plainlanguage.gov](https://www.plainlanguage.gov/)
-- Join the [community](https://digital.gov/communities/plain-language/)
+- Visit [PlainLanguage.gov](https://www.plainlanguage.gov/)
+- Join the [community of practice](https://digital.gov/communities/plain-language/)
 - Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
