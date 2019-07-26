@@ -12,13 +12,11 @@ end_date: 2019-07-18 15:30:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System, DigitalGov University
 registration_url: https://www.eventbrite.com/e/us-web-design-system-july-monthly-call-registration-63426916615
-youtube_id: 0Yp_tV7lf18&t
+youtube_id: 0Yp_tV7lf18
 
 ---
 
-_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4069748&CustomerID=321)_
-
-The General Services Administration’s Technology Transformation Services launched [U.S. Web Design System 2](https://designsystem.digital.gov/) on April 8, 2019. Please join Dan Williams, USWDS product lead, as he hosts special guests from across government as they share their experience with migrating to USWDS 2. Dan will also take any questions about the system you may have.
+The U.S. General Services Administration’s [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) launched [U.S. Web Design System 2](https://designsystem.digital.gov/) on April 8, 2019. Please join Dan Williams, USWDS product lead, as he hosts special guests from across government as they share their experience with migrating to USWDS 2. Dan will also take any questions about the system you may have.
 
 This event is part of a monthly series generally taking place the third Thursday of each month. Video from the webinar will be available on Digital.gov shortly after the event.  
 
@@ -26,8 +24,7 @@ This event is part of a monthly series generally taking place the third Thursday
 
 In addition, USWDS 2 ships with [**Public Sans**](https://public-sans.digital.gov/) — a free, open source typeface that’s simple, neutral, and isn’t Helvetica. Public Sans is an open source, free license typeface (SIL Open Font License 1.1) designed and maintained by USWDS, adapted from Libre Franklin.
 
-
-## Related
+## Related links
 
 - [Introducing USWDS 2](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/)
 - [A guide to migrating to USWDS 2](https://designsystem.digital.gov/documentation/migration/)
