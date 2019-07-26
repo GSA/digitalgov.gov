@@ -71,6 +71,7 @@ As a participant, you’re free to choose the talk that interests you the most o
   - Methods: **Accessible Experience First: The Key to Integrating UX in the Agile Process Under Budget and with Whole-Team Support**, Arva Adams (USPTO)
     - [Watch the video](https://www.youtube.com/watch?v=cbTQ7C3ry-E)
     - [Read the transcript](https://digital.gov/pdf/Methods2-Adams-Accessible-Experience-First.pdf) (PDF, 89 KB, 12 pages)
+    - [View the slides](https://digital.gov/pdf/Slides-Methods2-Adams-Accessible-Experience-First.pdf) (PDF, 4.22 MB, 19 pages)
   - Management: **Teaching Digital Skills: Learning Usability Testing by Peer Training**, Maroya Faied and Shannon McHarg (ONRR)
     - [Watch the video](https://www.youtube.com/watch?v=nobgPaAYkgU)
     - [Read the transcript](https://digital.gov/pdf/Management2-Faied-McHarg-Digital-Skills.pdf) (PDF, 69 KB, 11 pages)
