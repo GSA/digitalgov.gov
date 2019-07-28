@@ -10,7 +10,6 @@ categories:
   - managing-digital
 tag:
   - pifs
-
 featured_image:
   uid: pif-homecoming-2
   alt: ""
