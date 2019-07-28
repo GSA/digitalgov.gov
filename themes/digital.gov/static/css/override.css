@@ -509,8 +509,8 @@ h6.post-title {
   opacity: 1 !important;
 }
 
-.more-link, .button {
-  background: #2B2B2B !important;
+.more-link {
+  background: #ff5049 !important;
   color: #fff !important;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -522,9 +522,21 @@ h6.post-title {
   font-size: .9em;
 }
 
-.more-link:hover,
-.button:hover {
-  background: #DF4206 !important;
+a.button {
+  background: #2f2f2f !important;
+  color: #fff !important;
+  padding: 5px 25px;
+  display: inline-block;
+  border: 0;
+  font-size: 1em;
+}
+
+a.button:hover {
+  background: #111 !important;
+}
+
+.more-link:hover{
+  background: #ff6860 !important;
 }
 
 .home .subscribebox,

@@ -258,15 +258,18 @@
 	max-width: 650px;
 	margin: 30px 0;
 }
-.event .event-content .box{
+.box{
 	margin-bottom: 2em;
 	padding: 1em 1em;
 	background: #f0f0ec;
 }
-.event .event-content .note{
+.note{
 	margin-bottom: 20px;
-	padding: .5em .75em;
+	padding: 1em;
 	background: #fef0c8;
+}
+.note p:last-child{
+	margin-bottom: 0;
 }
 .event .event-content table{
 	color: #000;
