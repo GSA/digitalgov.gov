@@ -7,11 +7,9 @@ deck: "The federal government’s open source software community."
 summary: "The federal government’s open source software community."
 ---
 
-
 We are a community of federal government developers, managers, and individuals interested in open source software. We support the implementation of the [Federal Source Code Policy](https://sourcecode.cio.gov/) (OMB Memo M-16-21) and associated technology platform, [Code.gov](https://code.gov/).
 
 **Open Source** is the practice of text goes here....
-
 
 ## Join
 
