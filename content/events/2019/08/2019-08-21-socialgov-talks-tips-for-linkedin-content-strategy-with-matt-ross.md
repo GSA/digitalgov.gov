@@ -3,7 +3,7 @@ slug: socialgov-talks-tips-for-linkedin-content-strategy-with-matt-ross
 title: 'SocialGov Talks&#58; Tips for LinkedIn Content Strategy, with Matt Ross'
 summary: 'Matt Ross, of LinkedIn’s Marketing Solutions Government &amp; Advocacy team, will share tips and best practices on how to improve your agency’s use of content to maximize engagement with your core audience&#46; '
 featured_image:
-  uid: socialgov-linkedin-content-strategy
+  uid: socialgov-linkedin-2
   alt: ''
 event_type:
   - Zoom
@@ -15,7 +15,7 @@ registration_url: https://www.eventbrite.com/e/socialgov-talks-tips-for-linkedin
 
 ---
 
-{{< img src="socialgov-linkedin-content-strategy" >}}
+{{< img src="socialgov-linkedin-2" >}}
 
 _[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4114349&CustomerID=321)_
 
