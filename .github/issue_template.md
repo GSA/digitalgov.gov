@@ -1,7 +1,4 @@
-## it should include …
-- [ ] thing
-- [ ] and another thing
 
-## it's done when …
+## it should include
 - [ ] thing
 - [ ] and another thing
