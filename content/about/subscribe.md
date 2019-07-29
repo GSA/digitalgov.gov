@@ -4,9 +4,11 @@ date: 2019-07-10 4:00:00 -0500
 title: Subscribe to Digital.gov
 deck: "Stay connected with the innovative work, news, events and ideas from people and teams across government"
 summary: "Stay connected with the innovative work, news, events and ideas from people and teams across government"
+featured_image:
+  uid: subscribe-card-1
+  alt: ''
 aliases:
   - /subscribe/
-
 ---
 
 **The Digital.gov Newsletter** is a round-up of innovative work, news and ideas from people and teams across government. It also includes a list of the upcoming community events and training aimed at elevating our digital expertise. Our newsletter is sent out every Tuesday morning _(with the exception of holiday weeks)_.
