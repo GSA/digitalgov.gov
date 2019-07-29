@@ -56,6 +56,7 @@ As a participant, you’re free to choose the talk that interests you the most o
 9:15-10:00:
 
   - Methods: **Raising the Design Voice in Government: A Case Study**, Kristal Byrd (GSA)
+    - [View the slides](https://digital.gov/pdf/Slides-Methods1-Byrd-Raising-Design-Voice.pdf) (PDF, 5.95 MB, 52 pages)
   - Management: **Lessons from Building Remote-First, Cross-Functional Teams**, panel led by Amy Ashida (GSA)
     - [Watch the video](https://www.youtube.com/watch?v=daMZo4WZ0Hg)
     - [Read the transcript](https://digital.gov/pdf/Management1-Panel-Remote-Teams.pdf) (PDF, 58 KB, 7 pages)
