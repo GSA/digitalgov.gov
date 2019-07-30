@@ -41,7 +41,7 @@ The goal is to develop templates and compile research data, mandates and other m
 
 The group comes together to work on:
 
-  * Solving common translation problems
+  * Solving common translation problems?
   * Overcoming language barriers
   * Developing government-wide style guides to help standardize the use of languages other than English throughout the government
   * Developing plain language guidelines
