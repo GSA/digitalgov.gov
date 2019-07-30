@@ -7,7 +7,7 @@ authors:
   - tlowden
 ---
 
-On August 17th, Steve VanRoekel, U.S. Chief Information Officer, sent a memo to the CIO Council that stated beginning Aug 29, 2014, access to all [Digital Analytics Program (DAP)]({{< link "dap.md" >}} "DAP: Digital Analytics Program") data government-wide will be rolled out to all participating DAP agency users. That means that DAP users will have access not only to their specific agency&#8217;s profile/view, but all of the participating agencies&#8217; views, as well as the government-wide main roll-up profile.
+On August 17th, Steve VanRoekel, U.S. Chief Information Officer, sent a memo to the CIO Council that stated beginning Aug 29, 2014, access to all [Digital Analytics Program (DAP)]({{< link "/dap/" >}} "DAP: Digital Analytics Program") data government-wide will be rolled out to all participating DAP agency users. That means that DAP users will have access not only to their specific agency&#8217;s profile/view, but all of the participating agencies&#8217; views, as well as the government-wide main roll-up profile.
 
 As the memo stated, &#8220;opening the DAP government-wide data will let participating agencies see other agency’s public-facing website analytics, gain valuable knowledge about shared customers, benchmark against similar agencies, and, most importantly, engage in collaboration and exchange lessons learned.&#8221;
 

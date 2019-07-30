@@ -124,7 +124,7 @@ Below we have added specific resources to each guideline.
 
 ### Government Examples & Resources:
 
-  * [Digital Analytics Program]({{< link "dap.md" >}})
+  * [Digital Analytics Program]({{< link "/dap/" >}})
   * [SaferBus Mobile Usability Case Study]({{< link "2013-03-21-saferbus-mobile-usability-case-study.md" >}})
   * [AIDS.gov Responsive Design]({{< link "2012-07-11-aids-gov-responsive-design.md" >}})
   * [CDC&#8217;s Digital Front Door Goes Responsive]({{< link "2014-06-05-cdcs-digital-front-door-goes-responsive.md" >}})

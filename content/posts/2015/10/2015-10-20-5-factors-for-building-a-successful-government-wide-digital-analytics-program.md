@@ -18,7 +18,7 @@ tag:
 
 {{< legacy-img src="2014/10/600-x-400-Graphic-charts-bizoo_n-iStock-Thinkstock-478288259.jpg" alt="Various analytics graphic charts" caption="" >}}
 
-Launched just three years ago, the [Digital Analytics Program (DAP)]({{< link "dap.md" >}}) continues to drive the [2012 Digital Government Strategy’s](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance) mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale.
+Launched just three years ago, the [Digital Analytics Program (DAP)]({{< link "/dap/" >}}) continues to drive the [2012 Digital Government Strategy’s](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance) mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale.
 
 [The DAP officially launched on October 15, 2012](http://gsablogs.gsa.gov/dsic/2012/10/05/digital-analytics-program-helps-agencies-measure-web-performance/) with a release of its first version of the government-wide Web analytics code. The first agency to implement DAP was the Department of Interior, on doi.gov. Today, 45 agencies—including all CFO Act agencies—have implemented the common code across more than 4,000 public-facing websites, counting 1.5 BILLION pageviews each month.
 

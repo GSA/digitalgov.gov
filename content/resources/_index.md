@@ -63,7 +63,7 @@ aliases:
 
 ## Measurement
 
-* [Digital Analytics Program]({{< link "dap.md" >}})
+* [Digital Analytics Program]({{< link "/dap/" >}})
 * [Digital Metrics Guidance and Best Practices]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}})
 
 ## Mobile

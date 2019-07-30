@@ -60,7 +60,7 @@ Number of IRS pages that are in the Top 20 pages: **16**
 ### Fun Facts:
 
   * Folks in other time zones still have time to postmark their returns by midnight. Check out the U.S. Postal Service site to <a href="https://www.usps.com/taxes/" target="_blank">find Post Office locations that are open late</a> to postmark tax returns.
-  * It doesn&#8217;t look like we hit [DAP]({{< link "dap.md" >}} "DAP: Digital Analytics Program") Program Manager Marina Fox&#8217;s prediction of 300,000 realtime views. We&#8217;ll ask for her post-game analysis tomorrow._-gk, Digital Government, GSA
+  * It doesn&#8217;t look like we hit [DAP]({{< link "/dap/" >}} "DAP: Digital Analytics Program") Program Manager Marina Fox&#8217;s prediction of 300,000 realtime views. We&#8217;ll ask for her post-game analysis tomorrow._-gk, Digital Government, GSA
 
 _
 
@@ -288,7 +288,7 @@ Number of IRS pages that are in the Top 20 pages: **10**
 
 Good morning, and Happy #TaxDay!
 
-It&#8217;s nearing 8:00 am at DigitalGov headquarters in Washington, DC, and there are more than 90,000 people on government websites right now. There is a lot of excitement for today. As we mentioned earlier, Marina Fox, manager of the [Digital Analytics Program]({{< link "dap.md" >}} "DAP: Digital Analytics Program"), is guessing that real-time users could hit 300,000 today, smashing the current record of 200,000.
+It&#8217;s nearing 8:00 am at DigitalGov headquarters in Washington, DC, and there are more than 90,000 people on government websites right now. There is a lot of excitement for today. As we mentioned earlier, Marina Fox, manager of the [Digital Analytics Program]({{< link "/dap/" >}} "DAP: Digital Analytics Program"), is guessing that real-time users could hit 300,000 today, smashing the current record of 200,000.
 
 We&#8217;ll be bringing hourly updates throughout the day and into the evening. Here&#8217;s a quick glance at what is happening right now. All of the data we are referencing is from the [Analytics Dashboard](https://analytics.usa.gov/).
 
@@ -309,4 +309,4 @@ _
 
 ## First Posting: April 14
 
-Join us at 8:00 am tomorrow as we live blog the action on the [public analytics dashboard](http://analytics.usa.gov). Marina Fox, manager of the [Digital Analytics Program]({{< link "dap.md" >}} "DAP: Digital Analytics Program") thinks the real-time users could hit 300,000 (the current record stands just at 200,000). We will be posting hourly updates throughout the day and into the evening. We&#8217;ll also be active on our Twitter, [@Digital_Gov](https://twitter.com/digital_gov), with the hashtag #TaxDay.
+Join us at 8:00 am tomorrow as we live blog the action on the [public analytics dashboard](http://analytics.usa.gov). Marina Fox, manager of the [Digital Analytics Program]({{< link "/dap/" >}} "DAP: Digital Analytics Program") thinks the real-time users could hit 300,000 (the current record stands just at 200,000). We will be posting hourly updates throughout the day and into the evening. We&#8217;ll also be active on our Twitter, [@Digital_Gov](https://twitter.com/digital_gov), with the hashtag #TaxDay.

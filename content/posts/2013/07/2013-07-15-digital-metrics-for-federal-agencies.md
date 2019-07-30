@@ -734,7 +734,7 @@ Here are a set of recommended, baseline social media metrics, developed and main
 
 The most efficient and consistent way for agencies to collect the common performance metrics is to add a common analytics page tag to their websites. [Page tagging](http://en.wikipedia.org/wiki/Web_analytics) is now the industry standard for collecting real-time, detailed page-level performance data; it’s generally low-cost and relatively easy to implement.
 
-[GSA’s Center for Digital Services Innovation](http://gsablogs.gsa.gov/dsic/) has developed this Metrics toolkit that provides the following resources for agencies, as part of the [Digital Analytics Program]({{< link "dap.md" >}}).
+[GSA’s Center for Digital Services Innovation](http://gsablogs.gsa.gov/dsic/) has developed this Metrics toolkit that provides the following resources for agencies, as part of the [Digital Analytics Program]({{< link "/dap/" >}}).
 
 Read OMB&#8217;s guidance to agencies (accessible to federal employees on the OMB MAX wiki):
 

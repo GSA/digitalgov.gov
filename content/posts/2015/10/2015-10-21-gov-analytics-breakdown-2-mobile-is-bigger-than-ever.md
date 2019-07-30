@@ -20,7 +20,7 @@ tag:
   - user experience
 ---
 
-A review of the <a href="{{< link "dap.md" >}}" target="_blank">Digital Analytics Program</a> (DAP) data confirms what many are already saying: **Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing.**
+A review of the <a href="{{< link "/dap/" >}}" target="_blank">Digital Analytics Program</a> (DAP) data confirms what many are already saying: **Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing.**
 
 Three things are evident when looking at the breakdown of sessions on federal government websites across device types over the last three years:
 
@@ -60,4 +60,4 @@ In sum, one-in-three visits to federal websites are on a mobile device (includin
 We hope this information proves useful as you think about the maintenance, design and creation of federal sites!
 
 **_*For all DAP figures cited, the date range of August 16 &#8211; September 15 was used in the three consecutive years (2013, 2014 and 2015) across all DAP-participating websites. The number of sites participating in DAP increased yearly, so the data included in the yearly analysis was represented by a different sample size of websites. This information should be used to provide a general insight into the public’s behavior trends._**_Author’s Note: This is Part 2 of a blog in which we use data from the Digital Analytics Program (DAP) to discuss shifts in the ways the public interacts with U.S. federal government websites. This part focuses on mobile vs desktop usage, while <a href="{{< link "2015-10-15-gov-analytics-breakdown-1-browsers-chrome-takes-the-cake.md" >}}" target="_blank">Part 1 discussed browser usage</a>. The DAP collects data from more than 4,000 U.S. federal government websites. See more data at <a href="http://analytics.usa.gov" target="_blank">analytics.usa.gov</a>._
-_To learn more about the <a href="{{< link "dap.md" >}}" target="_blank">Digital Analytics Program</a>, request access to the data (federal employees only) or to learn how to participate, <a href="mailto:dap@support.digitalgov.gov" target="_blank">email DAP support</a>._
+_To learn more about the <a href="{{< link "/dap/" >}}" target="_blank">Digital Analytics Program</a>, request access to the data (federal employees only) or to learn how to participate, <a href="mailto:dap@support.digitalgov.gov" target="_blank">email DAP support</a>._

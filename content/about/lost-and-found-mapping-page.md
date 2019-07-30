@@ -243,7 +243,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Analytics Program" href="{{< link "dap.md" >}}">DAP: Digital Analytics Program</a>
+      <a title="DAP: Digital Analytics Program" href="{{< link "/dap/" >}}">DAP: Digital Analytics Program</a>
     </td>
   </tr>
 
