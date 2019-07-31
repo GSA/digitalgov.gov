@@ -4,6 +4,7 @@ title: "Add Your Site to DAP"
 deck: ""
 summary: ""
 type: guide
+guide: dap
 ---
 
 On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP JavaScript code on all public-facing federal websites.

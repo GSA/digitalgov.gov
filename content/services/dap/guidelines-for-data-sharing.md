@@ -4,6 +4,7 @@ title: "Guidelines for Data Sharing"
 deck: ""
 summary: ""
 type: guide
+guide: dap
 ---
 
 The Digital Analytics Program (DAP) maintains a wealth of data from the DAP Google Analytics account at [analytics.usa.gov](https://analytics.usa.gov/), and also offers an API for that data. Any data appearing on that public dashboard can be freely communicated or shared.

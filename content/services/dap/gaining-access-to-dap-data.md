@@ -4,6 +4,7 @@ title: "Gaining Access to the Data"
 deck: ""
 summary: ""
 type: guide
+guide: dap
 ---
 
 Any federal employee or contractor who works for a participating agency can register for access to the Digital Analytics Program (DAP) reporting interface, so long as the agency point of contact (POC) approves. In order to gain access to the data, please [email DAP Support](http://dap@support.digitalgov.gov?subject=User%20Access%20Request) with the subject line “User Access Request.” A member of the team will reply with instructions and a link to a form to register, and your POC will be cc’d for approval. 

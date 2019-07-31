@@ -4,6 +4,10 @@ title: "Add Your Site to DAP"
 deck: "The questions that we get asked about the most often"
 summary: ""
 type: guide
+guide: dap
+aliases:
+  - /services/dap/common-questions-about-dap-faq/
+
 ---
 
 

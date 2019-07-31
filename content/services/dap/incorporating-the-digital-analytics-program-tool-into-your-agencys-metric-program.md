@@ -3,6 +3,8 @@ url: /services/dap/incorporating-the-digital-analytics-program-tool-into-your-ag
 date: 2014-03-18 2:38:16 -0400
 title: 'Incorporating the Digital Analytics Program Tool Into Your Agency&#8217;s Metric Program'
 summary: 'This guidance is part of the Digital Analytics Program (DAP). See more on the DAP. Several factors are important to consider when determining what role the Digital Analytics Program (DAP) Analytics Tool (DAP AT) solution should play in your agency&rsquo;s or sub-agency&rsquo;s Web analytics reporting. This discussion is especially relevant to those agencies who are considering a transition from their legacy Web analytics tool to'
+type: guide
+guide: dap
 ---
 
 **This guidance is part of the [Digital Analytics Program]({{< link "/dap/" >}} "DAP: Digital Analytics Program") (DAP). [See more on the DAP]({{< link "/dap/" >}} "DAP: Digital Analytics Program").**

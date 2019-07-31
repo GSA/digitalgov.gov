@@ -4,6 +4,7 @@ title: "Digital Analytics Program (DAP)"
 deck: "A free web analytics tool and support for federal agencies"
 summary: 'The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies.'
 type: guide
+guide: dap
 aliases:
   - /dap/
 ---
