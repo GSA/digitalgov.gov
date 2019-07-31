@@ -30,26 +30,26 @@ body {
 	font-family:arial,helvetica,sans-serif;
 	}
 
-body.bodybg1 { background-image:url(images/bodybg1.jpg); }
-body.bodybg2 { background-image:url(images/bodybg2.jpg); }
-body.bodybg3 { background-image:url(images/bodybg3.jpg); }
-body.bodybg4 { background-image:url(images/bodybg4.jpg); }
-body.bodybg5 { background-image:url(images/bodybg5.jpg); }
-body.bodybg6 { background-image:url(images/bodybg6.jpg); }
-body.bodybg7 { background-image:url(images/bodybg7.jpg); }
-body.bodybg8 { background-image:url(images/bodybg8.jpg); }
-body.bodybg9 { background-image:url(images/bodybg9.jpg); }
-body.bodybg10 { background-image:url(images/bodybg10.jpg); }
-body.bodybg11 { background-image:url(images/bodybg11.jpg); }
-body.bodybg12 { background-image:url(images/bodybg12.jpg); }
-body.bodybg13 { background-image:url(images/bodybg13.jpg); }
-body.bodybg14 { background-image:url(images/bodybg14.jpg); }
-body.bodybg15 { background-image:url(images/bodybg15.jpg); }
-body.bodybg16 { background-image:url(images/bodybg16.jpg); }
-body.bodybg17 { background-image:url(images/bodybg17.jpg); }
-body.bodybg18 { background-image:url(images/bodybg18.jpg); }
-body.bodybg19 { background-image:url(images/bodybg19.jpg); }
-body.bodybg20 { background-image:url(images/bodybg20.jpg); }
+body.bodybg1 { background-image:url(../css/images/bodybg1.jpg); }
+body.bodybg2 { background-image:url(../css/images/bodybg2.jpg); }
+body.bodybg3 { background-image:url(../css/images/bodybg3.jpg); }
+body.bodybg4 { background-image:url(../css/images/bodybg4.jpg); }
+body.bodybg5 { background-image:url(../css/images/bodybg5.jpg); }
+body.bodybg6 { background-image:url(../css/images/bodybg6.jpg); }
+body.bodybg7 { background-image:url(../css/images/bodybg7.jpg); }
+body.bodybg8 { background-image:url(../css/images/bodybg8.jpg); }
+body.bodybg9 { background-image:url(../css/images/bodybg9.jpg); }
+body.bodybg10 { background-image:url(../css/images/bodybg10.jpg); }
+body.bodybg11 { background-image:url(../css/images/bodybg11.jpg); }
+body.bodybg12 { background-image:url(../css/images/bodybg12.jpg); }
+body.bodybg13 { background-image:url(../css/images/bodybg13.jpg); }
+body.bodybg14 { background-image:url(../css/images/bodybg14.jpg); }
+body.bodybg15 { background-image:url(../css/images/bodybg15.jpg); }
+body.bodybg16 { background-image:url(../css/images/bodybg16.jpg); }
+body.bodybg17 { background-image:url(../css/images/bodybg17.jpg); }
+body.bodybg18 { background-image:url(../css/images/bodybg18.jpg); }
+body.bodybg19 { background-image:url(../css/images/bodybg19.jpg); }
+body.bodybg20 { background-image:url(../css/images/bodybg20.jpg); }
 body.No-Background-Pattern { background-image:none; }
 
 #outer-wrap {
@@ -135,7 +135,7 @@ body.No-Background-Pattern { background-image:none; }
 	padding:0;
 	clear: both;
 	margin: auto;
-	background:url(images/dot.gif) 65.625% 0 repeat-y;
+	background:url(../css/images/dot.gif) 65.625% 0 repeat-y;
 	}
 
 #contentleft {
@@ -294,7 +294,7 @@ h1.archive-title,
 .auth-bio h1 {
 	padding:0 0 5px;
 	margin:0 0 20px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 h1.archive-title {
@@ -317,14 +317,14 @@ h3#reply-title,
 	margin:0 0 15px;
 	padding:0 0 7px;
 	letter-spacing:0;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 .cats-by-2 h2.feat-title,
 .cat-posts-stacked h2.feat-title {
 	margin:0 0 15px;
 	padding:0 0 5px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 .allauthors h2 {
@@ -1129,7 +1129,7 @@ ol.commentlist li .comment-body {
 	margin: 0 0 15px;
 	font-size:12px;
 	line-height:1.5em;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 .commentlist cite {
@@ -1673,7 +1673,7 @@ ul.fixednav li li.current-menu-parent > a {
 .page.hentry {
 	margin: 0 0 30px;
 	padding:0 0 10px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	clear:both;
 	}
 
@@ -1735,7 +1735,7 @@ ul.fixednav li li.current-menu-parent > a {
 	list-style-type:none;
 	padding:0;
 	display:inline;
-	background:url(images/dotvert.png) 0 50% no-repeat;
+	background:url(../css/images/dotvert.png) 0 50% no-repeat;
 	padding-left:8px;
 	}
 
@@ -1754,7 +1754,7 @@ p#breadcrumbs {
 	font-size:12px;
 	margin:0 0 30px;
 	padding:0 0 5px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 p.tags {
@@ -1815,31 +1815,31 @@ a.subicon:active {
 	opacity: 1 !important;
 	}
 
-.subicon.rss { background-image:url(images/rss.png); }
+.subicon.rss { background-image:url(../css/images/rss.png); }
 .subicon.rss:hover { background-color:#ff9900; }
 
-.subicon.facebook { background-image:url(images/facebook.png) }
+.subicon.facebook { background-image:url(../css/images/facebook.png) }
 .subicon.facebook:hover { background-color:#336699; }
 
-.subicon.instagram { background-image:url(images/instagram.png); }
+.subicon.instagram { background-image:url(../css/images/instagram.png); }
 .subicon.instagram:hover { background-color:#4C7399; }
 
-.subicon.twitter { background-image:url(images/twitter.png); }
+.subicon.twitter { background-image:url(../css/images/twitter.png); }
 .subicon.twitter:hover { background-color:#3D9CCC; }
 
-.subicon.pinterest { background-image:url(images/pinterest.png); }
+.subicon.pinterest { background-image:url(../css/images/pinterest.png); }
 .subicon.pinterest:hover { background-color:#CC3333; }
 
-.subicon.gplus { background-image:url(images/googleplus.png); }
+.subicon.gplus { background-image:url(../css/images/googleplus.png); }
 .subicon.gplus:hover { background-color:#CC3333; }
 
-.subicon.flickr, .subicon.flickr-g  { background-image:url(images/flickr.png); }
+.subicon.flickr, .subicon.flickr-g  { background-image:url(../css/images/flickr.png); }
 .subicon.flickr:hover, .subicon.flickr-g:hover { background-color:#FF6699; }
 
-.subicon.linkedin, .subicon.linkedin-g  { background-image:url(images/linkedin.png); }
+.subicon.linkedin, .subicon.linkedin-g  { background-image:url(../css/images/linkedin.png); }
 .subicon.linkedin:hover, .subicon.linkedin-g:hover { background-color:#6699CC; }
 
-.subicon.youtube { background-image:url(images/youtube.png); }
+.subicon.youtube { background-image:url(../css/images/youtube.png); }
 .subicon.youtube:hover { background-color:#FF6666; }
 
 /* ---------------[ Author Styles for All Authors Page Template ]--------------- */
@@ -2046,7 +2046,7 @@ a.subicon:active {
 	padding:30px 0 0;
 	background:transparent;
 	margin: 0 auto 30px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 .post-by-2 .entry {
@@ -2099,7 +2099,7 @@ a.subicon:active {
 	padding: 0 0 15px;
 	background:transparent;
 	border:0;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 .cats-by-2 .post:last-child {
@@ -2343,7 +2343,7 @@ a.subicon:active {
 	}
 
 .c-sn-sw .page-border {
-	background:url(images/dot.gif) 46.875% 0 repeat-y;
+	background:url(../css/images/dot.gif) 46.875% 0 repeat-y;
 	}
 
 /* ---------[ Sidebar-Narrow | Content | Sidebar-Wide ]--------- */
@@ -2359,7 +2359,7 @@ a.subicon:active {
 	}
 
 .sn-c-sw .page-border {
-	background:url(images/dot.gif) 15.625% 0 repeat-y;
+	background:url(../css/images/dot.gif) 15.625% 0 repeat-y;
 	}
 
 /* ---------[ Sidebar-Wide | Sidebar-Narrow | Content ]--------- */
@@ -2385,7 +2385,7 @@ a.subicon:active {
 	}
 
 .sw-sn-c .page-border {
-	background:url(images/dot.gif) 53.125% 0 repeat-y;
+	background:url(../css/images/dot.gif) 53.125% 0 repeat-y;
 	}
 
 /* ---------[ Sidebar-Wide | Content | Sidebar-Narrow ]--------- */
@@ -2417,7 +2417,7 @@ a.subicon:active {
 	}
 
 .sw-c-sn .page-border {
-	background:url(images/dot.gif) 84.375% 0 repeat-y;
+	background:url(../css/images/dot.gif) 84.375% 0 repeat-y;
 	}
 
 /* ---------[ Full-Width Layout Styles ]--------- */
@@ -2486,7 +2486,7 @@ a.subicon:active {
 .post ul.archives-by-cat {
 	margin: 5px 0 15px;
 	padding: 0 0 12px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 .post ul.archives-by-cat li {
@@ -2501,7 +2501,7 @@ a.subicon:active {
 	background:transparent;
 	margin: 0 0 20px 0;
 	padding: 0 0 15px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 .post ul.archive-tabs li {
@@ -2643,7 +2643,7 @@ a.subicon:active {
 .sitemap-post {
 	clear:both;
 	margin: 0 0 15px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	padding:0 0 10px;
 	}
 
@@ -2814,7 +2814,7 @@ html[xmlns] .slides {
 	height: 25px;
 	margin: -27px 0 0;
 	display: block;
-	background: #fff url(images/bg_direction_nav1.png) no-repeat 0 0;
+	background: #fff url(../css/images/bg_direction_nav1.png) no-repeat 0 0;
 	border:1px solid #eeeeee;
 	position:absolute;
 	top: 50%;
@@ -2985,7 +2985,7 @@ html[xmlns] .slides {
 	z-index:1;
 	padding:0;
 	border:0;
-	background:#fafafa url(images/loading.gif) 50% 50% no-repeat;
+	background:#fafafa url(../css/images/loading.gif) 50% 50% no-repeat;
 	width:auto;
 	min-height:200px;
 	}
@@ -2995,7 +2995,7 @@ html[xmlns] .slides {
 	clear:both;
 	width:100%;
 	height:38px;
-	background:url(images/slide-shadow-sm.png) top center no-repeat;
+	background:url(../css/images/slide-shadow-sm.png) top center no-repeat;
 	margin-bottom:40px;
 	}
 
@@ -3124,7 +3124,7 @@ html[xmlns] .slides {
 	height: 40px;
 	margin: -40px 0 0;
 	display: block;
-	background: #000 url(images/feat-nav-left.png) no-repeat 50% 50%;
+	background: #000 url(../css/images/feat-nav-left.png) no-repeat 50% 50%;
 	background-color: rgba(0,0,0,0.9);
 	border:0;
 	position:absolute;
@@ -3147,7 +3147,7 @@ html[xmlns] .slides {
 	}
 
 .featured.narrow .flex-direction-nav .flex-next {
-	background-image:url(images/feat-nav-right.png);
+	background-image:url(../css/images/feat-nav-right.png);
 	right:0;
 	left:auto;
 	-moz-border-radius: 3px 0 0 3px;
@@ -3172,7 +3172,7 @@ html[xmlns] .slides {
 	z-index:1;
 	padding:0;
 	border:0;
-	background:#fafafa url(images/loading.gif) 50% 50% no-repeat;
+	background:#fafafa url(../css/images/loading.gif) 50% 50% no-repeat;
 	width:auto;
 	min-height:200px;
 	}
@@ -3182,7 +3182,7 @@ html[xmlns] .slides {
 	clear:both;
 	width:100%;
 	height:60px;
-	background:url(images/slide-shadow.png) 50% 0 no-repeat;
+	background:url(../css/images/slide-shadow.png) 50% 0 no-repeat;
 	}
 
 .widget.widepageslider,
@@ -3303,7 +3303,7 @@ html[xmlns] .slides {
 	height: 40px;
 	margin: -40px 0 0;
 	display: block;
-	background: #000 url(images/feat-nav-left.png) no-repeat 50% 50%;
+	background: #000 url(../css/images/feat-nav-left.png) no-repeat 50% 50%;
 	background-color: rgba(0,0,0,0.9);
 	border:0;
 	position:absolute;
@@ -3326,7 +3326,7 @@ html[xmlns] .slides {
 	}
 
 .featured.wide .flex-direction-nav .flex-next {
-	background-image:url(images/feat-nav-right.png);
+	background-image:url(../css/images/feat-nav-right.png);
 	right:0;
 	left:auto;
 	-moz-border-radius: 3px 0 0 3px;
@@ -3412,7 +3412,7 @@ html[xmlns] .slides {
 	margin:0;
 	padding-left:12px;
 	float:left;
-	background:url(images/dotvert.png) 5px 50% no-repeat;
+	background:url(../css/images/dotvert.png) 5px 50% no-repeat;
 	display:inline;
 	}
 
@@ -3473,7 +3473,7 @@ ul.catslide-meta li.catslide-comment {}
 .featured.cat .thumbnav .flex-direction-nav a {
 	width: 17px;
 	height: 19px;
-	background: #fafafa url(images/nav-rt-dk.png) no-repeat 50% 50%;
+	background: #fafafa url(../css/images/nav-rt-dk.png) no-repeat 50% 50%;
 	margin: 0;
 	top: 0;
 	opacity:1;
@@ -3485,7 +3485,7 @@ ul.catslide-meta li.catslide-comment {}
 	}
 
 .featured.cat .thumbnav .flex-direction-nav .flex-prev {
-	background-image:url(images/nav-lt-dk.png);
+	background-image:url(../css/images/nav-lt-dk.png);
 	right: 34px;
 	left:auto;
 	}
@@ -3595,7 +3595,7 @@ ul.catslide-meta li.catslide-comment {}
 	z-index:1;
 	margin:0 auto 30px;
 	padding: 0 0 85px;
-	background:transparent url(images/hd-bg.gif) bottom left repeat-x;
+	background:transparent url(../css/images/hd-bg.gif) bottom left repeat-x;
 	}
 
 .featured.yt-temp .flexslider .slides {
@@ -3659,7 +3659,7 @@ p.yt-vid-title {
 	float:none;
 	margin:0 auto 30px;
 	clear:both;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	width:100%;
 	padding:0;
 	height:30px;
@@ -4064,7 +4064,7 @@ html[xmlns] .flextabs .slides {
 
 .widget.sidetabs .flextabs li li {
 	padding: 14px 15px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	}
 
 .widget.sidetabs .popular-slide p {
@@ -4108,7 +4108,7 @@ html[xmlns] .flextabs .slides {
 
 .cat-posts-widget .post {
 	margin: 0 0 15px;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	padding:0 0 15px;
 	}
 
@@ -4288,7 +4288,7 @@ html[xmlns] .flextabs .slides {
 .widget.subscribebox form {}
 
 .widget.subscribebox p.intro {
-	background:url(images/email-sub.png) top right no-repeat;
+	background:url(../css/images/email-sub.png) top right no-repeat;
 	padding-right:48px;
 	min-height: 38px;
 	}
@@ -4995,7 +4995,7 @@ a.button:hover,
 	font-size:11px;
 	text-transform:uppercase;
 	text-indent:-999em;
-	background:#000 url(images/page-up.png) 50% 50% no-repeat;
+	background:#000 url(../css/images/page-up.png) 50% 50% no-repeat;
 	}
 
 #backtotop:hover {
@@ -5075,25 +5075,25 @@ a.button:hover,
 	display:block;
 	padding: 0 0 0 40px;
 	margin: 0 0 12px;
-	background:url(images/contact-person.png) 0 0 no-repeat;
+	background:url(../css/images/contact-person.png) 0 0 no-repeat;
 	min-height:20px;
 	line-height:20px;
 	}
 
 .contactinfo .phone {
-	background:url(images/contact-phone.png) 0 0 no-repeat;
+	background:url(../css/images/contact-phone.png) 0 0 no-repeat;
 	}
 
 .contactinfo .email {
-	background:url(images/contact-email.png) 0 0 no-repeat;
+	background:url(../css/images/contact-email.png) 0 0 no-repeat;
 	}
 
 .contactinfo .address {
-	background:url(images/contact-address.png) 0 0 no-repeat;
+	background:url(../css/images/contact-address.png) 0 0 no-repeat;
 	}
 
 .contactinfo .addinfo {
-	background:url(images/contact-info.png) 0 0 no-repeat;
+	background:url(../css/images/contact-info.png) 0 0 no-repeat;
 	}
 
 /* -------------------[ Sales Page Template Styles ]------------------- */
@@ -5209,12 +5209,12 @@ body.page-template-page-landing-php {
 	padding: 0;
 	margin: 0 0 10px;
 	padding-left:20px;
-	background:url(images/bullet.png) 0 5px no-repeat;
+	background:url(../css/images/bullet.png) 0 5px no-repeat;
 	}
 
 .post ul.check li {
 	padding-left:30px;
-	background:url(images/check.gif) 0 6px no-repeat;
+	background:url(../css/images/check.gif) 0 6px no-repeat;
 	}
 
 .page-template-page-landing-php blockquote,
@@ -5241,7 +5241,7 @@ body.page-template-page-landing-php {
 .page-template-page-landing-php blockquote.guarantee {
 	border:1px solid #CFDAE5;
 	padding-left:155px;
-	background:#DCE9F5 url(images/guar.gif) 15px 20px no-repeat;
+	background:#DCE9F5 url(../css/images/guar.gif) 15px 20px no-repeat;
 	min-height:125px;
 	}
 
@@ -5460,7 +5460,7 @@ body.page-template-page-landing-php {
 	margin:0 auto 30px;
 	padding:0 0 10px;
 	clear:both;
-	background:url(images/dotted.png) bottom left repeat-x;
+	background:url(../css/images/dotted.png) bottom left repeat-x;
 	display:block;
 	width:100%;
 	}
@@ -5481,7 +5481,7 @@ body.page-template-page-landing-php {
 .layout-controls a {
 	width:14px;
 	height:14px;
-	background:url(images/layout-switch.png) 0 0 no-repeat;
+	background:url(../css/images/layout-switch.png) 0 0 no-repeat;
 	text-indent:-999em;
 	margin:0 0 0 5px;
 	display:block;
