@@ -11,11 +11,11 @@ aliases:
   - /subscribe/
 ---
 
-**The Digital.gov Newsletter** is a round-up of innovative work, news and ideas from people and teams across government. It also includes a list of the upcoming community events and training aimed at elevating our digital expertise. Our newsletter is sent out every Tuesday morning _(with the exception of holiday weeks)_.
+**The Digital.gov Newsletter** is a round-up of innovative work, news and ideas from people and teams across government. It also includes a list of the upcoming community events and training aimed at elevating your digital expertise. Our newsletter is sent out every Tuesday morning _(with the exception of holiday weeks)_.
 
-Our strategy is to provide you with just the right amount of information to help you and your team make something 5% better. We’re not interested in flooding your inbox with emails you don’t need.
+Our strategy is to provide you with just the right amount of information to help you and your team make something 5 percent better. We’re not interested in flooding your inbox with emails you don’t need.
 
-That said — while we aim to send one email each week, we may occasionally send stand alone emails with important news items or product launches. Though we'll keep those emails to a minimum.
+That said — while we aim to send one email each week, we may occasionally send stand alone emails with important news items or product launches (though we'll keep those emails to a minimum).
 
 _Interested in contributing to Digital.gov? [Check out our contribution page »]({{< link "/about/contribute/" >}})_
 
