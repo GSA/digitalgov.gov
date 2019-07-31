@@ -72,12 +72,12 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
 
 .bordered th {
   background-color: #dce9f9;
-  background-image: -webkit-gradient(linear,left top,left bottom,from(#ebf3fc),to(#dce9f9));
-  background-image: -webkit-linear-gradient(top,#ebf3fc,#dce9f9);
-  background-image: -moz-linear-gradient(top,#ebf3fc,#dce9f9);
-  background-image: -ms-linear-gradient(top,#ebf3fc,#dce9f9);
-  background-image: -o-linear-gradient(top,#ebf3fc,#dce9f9);
-  background-image: linear-gradient(top,#ebf3fc,#dce9f9);
+  background-image: -webkit-gradient(linear,to left top,to left bottom,from(#ebf3fc),to(#dce9f9));
+  background-image: -webkit-linear-gradient(to top,#ebf3fc,#dce9f9);
+  background-image: -moz-linear-gradient(to top,#ebf3fc,#dce9f9);
+  background-image: -ms-linear-gradient(to top,#ebf3fc,#dce9f9);
+  background-image: -o-linear-gradient(to top,#ebf3fc,#dce9f9);
+  background-image: linear-gradient(to top,#ebf3fc,#dce9f9);
   border-top: none;
   border-bottom: none;
 }
@@ -109,12 +109,12 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
   text-shadow: 0 1px 0 rgba(255,255,255,.5);
   border-bottom: 1px solid #ccc;
   background-color: #eee;
-  background-image: -webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#eee));
-  background-image: -webkit-linear-gradient(top,#f5f5f5,#eee);
-  background-image: -moz-linear-gradient(top,#f5f5f5,#eee);
-  background-image: -ms-linear-gradient(top,#f5f5f5,#eee);
-  background-image: -o-linear-gradient(top,#f5f5f5,#eee);
-  background-image: linear-gradient(top,#f5f5f5,#eee);
+  background-image: -webkit-gradient(linear,to left top,to left bottom,from(#f5f5f5),to(#eee));
+  background-image: -webkit-linear-gradient(to top,#f5f5f5,#eee);
+  background-image: -moz-linear-gradient(to top,#f5f5f5,#eee);
+  background-image: -ms-linear-gradient(to top,#f5f5f5,#eee);
+  background-image: -o-linear-gradient(to top,#f5f5f5,#eee);
+  background-image: linear-gradient(to top,#f5f5f5,#eee);
 }
 
 .zebra th:first-child {
