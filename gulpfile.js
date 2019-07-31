@@ -9,7 +9,7 @@ gulp.task("process-img", gulp.series('cleanup'));
 
 // USWDS
 gulp.task('watch-sass', function () {
-  gulp.watch(`${PROJECT_SASS_SRC}/**/*.scss`, gulp.series('build-sass'));
+  gulp.watch('./themes/digital.gov/src/scss/**/*.scss', gulp.series('build-sass'));
 });
 
 gulp.task('watch', gulp.series('build-sass', 'watch-sass'));
