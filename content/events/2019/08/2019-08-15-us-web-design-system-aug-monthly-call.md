@@ -32,8 +32,7 @@ Connect with U.S. Web Design System:
 - Email Us - [uswds@gsa.gov](mailto:uswds@gsa.gov?subject=Aug%20Monthly%20Call) 
 - Join the USWDS 2.0 ListServe - [uswds-subscribe-request@listserv.gsa.gov](mailto:uswds-subscribe-request@listserv.gsa.gov) 
 
-
-&lt;horizontal rule&gt;
+<hr />
 
 This talk is hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov. 
 
