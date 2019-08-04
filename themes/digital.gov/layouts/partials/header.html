@@ -1,12 +1,78 @@
-<div id="header" class="clearfix">
-  <div id="head-content" class="clearfix">
-    <!-- SITE-TITLE/LOGO -->
-    <div id="sitetitle">
-      <h1 class="visuallyhidden">DigitalGov</h1>
-      <a href="{{ "index.html" | absURL }}" title="DigitalGov"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/logo2.png" alt="DigitalGov" /></a>
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text">
+        <h1 class="visuallyhidden">DigitalGov</h1>
+        <a href="{{ "index.html" | absURL }}" title="Digital.gov Home" aria-label="Home"><img class="width-mobile" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/logo2.png" alt="DigitalGov" /></a>
+      </em>
     </div>
-
-    {{ partial "nav-catnav.html" . }}
-
+    <button class="usa-menu-btn">Menu</button>
   </div>
-</div>
+  <nav role="navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button class="usa-nav__close">
+        <img src="/assets/img/close.svg" alt="close">
+      </button>
+      <ul class="usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item">
+          <button class="usa-accordion__button usa-nav__link  usa-current" aria-expanded="false" aria-controls="extended-nav-section-one"><span>Current section</span></button>
+          <ul id="extended-nav-section-one" class="usa-nav__submenu">
+            <li class="usa-nav__submenu-item">
+              <a href="#">Navigation link</a>
+            </li>
+            <li class="usa-nav__submenu-item">
+              <a href="#">Navigation link</a>
+            </li>
+            <li class="usa-nav__submenu-item">
+              <a href="#">Navigation link</a>
+            </li>
+          </ul>
+        </li>
+        <li class="usa-nav__primary-item">
+          <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="extended-nav-section-two"><span>Section</span></button>
+          <ul id="extended-nav-section-two" class="usa-nav__submenu">
+            <li class="usa-nav__submenu-item">
+              <a href="#">Navigation link</a>
+            </li>
+            <li class="usa-nav__submenu-item">
+              <a href="#">Navigation link</a>
+            </li>
+            <li class="usa-nav__submenu-item">
+              <a href="#">Navigation link</a>
+            </li>
+          </ul>
+        </li>
+        <li class="usa-nav__primary-item">
+          <a class="usa-nav__link" href="javascript:void(0)"><span>Simple link</span></a>
+        </li>
+      </ul>
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item">
+            <a href="">Secondary link</a>
+          </li>
+          <li class="usa-nav__secondary-item">
+            <a href="">Another secondary link</a>
+          </li>
+        </ul>
+
+
+        <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get" class="usa-search usa-search--small">
+          <input name="utf8" type="hidden" value="&#x2713;" />
+          <input id="affiliate" name="affiliate" type="hidden" value="digitalgov" />
+
+          <div role="search">
+            <label class="usa-sr-only" for="query">Search small</label>
+            <input class="usa-input" id="query" type="search" name="query">
+            <button class="usa-button" name="commit" type="submit"><span class="usa-sr-only">Search</span></button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<main id="main-content"></main>
+
+{{ partial "nav-catnav.html" . }}

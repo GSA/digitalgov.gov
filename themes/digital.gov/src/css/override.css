@@ -481,12 +481,6 @@ h6.post-title {
   width: 100%;
 }
 
-a:focus,
-a:active,
-.slides li:focus,
-.slides li:active {
-  /* outline: 2px dotted #ff5049 !important; */
-}
 
 .featpage-image a {
   display: block !important;

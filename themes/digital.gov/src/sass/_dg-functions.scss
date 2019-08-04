@@ -1,9 +1,0 @@
-@function size($pixels){
-  $pxToRem: #{($pixels / $base-rem)}rem;
-  @return $pxToRem;
-}
-
-@function size-sans($pixels){
-  $normalizedSans: #{($pixels / $base-rem) * $sans-normalize-multiplier}rem;
-  @return $normalizedSans;
-}
