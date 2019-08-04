@@ -14,39 +14,17 @@
       <button class="usa-nav__close">
         <img src="/assets/img/close.svg" alt="close">
       </button>
+
+      {{- $currentNode := . -}}
+      {{- $menuClasses := "usa-nav__primary-item" -}}
       <ul class="usa-nav__primary usa-accordion">
-        <li class="usa-nav__primary-item">
-          <button class="usa-accordion__button usa-nav__link  usa-current" aria-expanded="false" aria-controls="extended-nav-section-one"><span>Current section</span></button>
-          <ul id="extended-nav-section-one" class="usa-nav__submenu">
-            <li class="usa-nav__submenu-item">
-              <a href="#">Navigation link</a>
-            </li>
-            <li class="usa-nav__submenu-item">
-              <a href="#">Navigation link</a>
-            </li>
-            <li class="usa-nav__submenu-item">
-              <a href="#">Navigation link</a>
-            </li>
-          </ul>
-        </li>
-        <li class="usa-nav__primary-item">
-          <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="extended-nav-section-two"><span>Section</span></button>
-          <ul id="extended-nav-section-two" class="usa-nav__submenu">
-            <li class="usa-nav__submenu-item">
-              <a href="#">Navigation link</a>
-            </li>
-            <li class="usa-nav__submenu-item">
-              <a href="#">Navigation link</a>
-            </li>
-            <li class="usa-nav__submenu-item">
-              <a href="#">Navigation link</a>
-            </li>
-          </ul>
-        </li>
-        <li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="javascript:void(0)"><span>Simple link</span></a>
-        </li>
-      </ul>
+        {{- range .Site.Menus.primary -}}
+          <li class="usa-nav__primary-item {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} usa-current{{ end }}">
+            <a class="usa-nav__link" href="{{- .URL -}}"><span>{{- .Name -}}</span></a>
+          </li>
+        {{- end -}}
+      </ul><!-- .nav -->
+
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
           <li class="usa-nav__secondary-item">
