@@ -7,10 +7,9 @@
 <div id="widgetized-page" class="clearfix">
   <div class="page-widget-wide top clearfix">
 
-    {{ partial "body-top6.html" . }}
-    <!-- {{ partial "body-latest-events.html" . }} -->
-    {{ partial "body-featured-events.html" . }}
-    <!-- {{ partial "body-featured.html" . }} -->
+    {{- partial "body-top6.html" . -}}
+    {{- partial "topic-list.html" . -}}
+    {{- partial "body-featured-events.html" . -}}
 
   </div><!-- /div.page-widget-wide -->
   <div class="page-widget-wide bottom clearfix">
