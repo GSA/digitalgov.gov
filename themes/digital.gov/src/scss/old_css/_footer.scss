@@ -1,0 +1,46 @@
+.usa-footer *{
+	@include u-font-family('sans');
+}
+.usa-footer__secondary-section{
+	// @include u-bg('blue-70v');
+	// @include u-text('white');
+	// digital.gov logo
+	.usa-footer__contact-heading a{
+		@include u-display('flex');
+		@include u-flex('align-end');
+		@include u-flex('justify-end')
+		img{
+			@include u-margin-right(1);
+		}
+	}
+
+	// GSA logo
+	.usa-footer__logo-img{
+		@include u-margin-right(1);
+		@include u-width(7);
+		@include u-height(7);
+	}
+	.supported-by{
+		p{
+			@include u-font('sans', 'xs');
+			@include u-line-height('sans', 2);
+			@include u-text('base-dark');
+			@include u-margin(0);
+			a{
+				@include u-text('base-dark');
+			}
+		}
+		h3{
+			@include u-margin-y('05');
+		}
+	}
+	.usa-footer__logo-heading{
+		@include u-font('sans', 'lg');
+		@include u-display('flex');
+		@include u-flex('align-center');
+		img{
+			@include u-margin-right(1);
+			@include u-width(5);
+		}
+	}
+}

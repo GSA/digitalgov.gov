@@ -38,7 +38,7 @@ header.usa-header{
 		@include add-list-reset;
 		@include u-margin-top(1);
 		a{
-			@include u-margin-x('2px');
+			@include u-margin-x('05');
 			@include u-font('sans', 'md');
 			@include u-text('base-dark');
 			@include u-display('inline-block');

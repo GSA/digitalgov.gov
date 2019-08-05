@@ -182,3 +182,27 @@ menu:
       Identifier      : "user-testing-and-research"
       URL             : "/categories/user-testing-and-research/"
       Weight          : 71
+
+  contribute:
+    - Name            : "Write for us"
+      Identifier      : "contribute"
+      URL             : "/contribute/"
+      Weight          : 1
+    - Name            : "Join a community"
+      Identifier      : "communities"
+      URL             : "/communities/"
+      Weight          : 2
+    - Name            : "Edit on GitHub"
+      Identifier      : "edit"
+      URL             : "https://github.com/GSA/digitalgov.gov/"
+      Weight          : 3
+
+  about:
+    - Name            : "About Us"
+      Identifier      : "about"
+      URL             : "/about/"
+      Weight          : 1
+    - Name            : "Site Policies"
+      Identifier      : "policies"
+      URL             : "/policies/"
+      Weight          : 2

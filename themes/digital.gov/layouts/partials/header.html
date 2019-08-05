@@ -2,7 +2,7 @@
 <header class="usa-header usa-header--extended" role="banner">
   <div class="usa-navbar">
     <div class="usa-logo" id="extended-logo">
-      <em class="usa-logo__text"><a href="{{ "index.html" | absURL }}" title="Home" aria-label="Home"><img class="" src="{{ "img/dg-logo-w54.svg" | absURL }}" alt="{{- .Site.Title -}}" /> <span>{{- .Site.Title -}}</span></a></em>
+      <em class="usa-logo__text"><a href="{{- "/" | absURL -}}" title="Home" aria-label="Home"><img class="" src="{{- "img/dg-logo-w54.svg" | absURL -}}" alt="{{- .Site.Title -}} Logo" /> <span>{{- .Site.Title -}}</span></a></em>
       <p class="sub-head">Guidance on building better digital services in  government.</p>
     </div>
 
@@ -47,10 +47,10 @@
         </form>
 
         <div class="social-icons">
-          <a href="#"><i class="fab fa-twitter"></i></a>
-          <a href=""><i class="fab fa-facebook"></i></a>
-          <a href=""><i class="fas fa-rss-square"></i></a>
-          <a href=""><i class="fab fa-youtube"></i></a>
+          <a rel="alternate" href="https://twitter.com/digital_gov"><i class="fab fa-twitter"></i></a>
+          <a rel="alternate" href="https://www.facebook.com/digitalgov/"><i class="fab fa-facebook"></i></a>
+          <a rel="alternate" href="https://youtube.com/digitalgov"><i class="fab fa-youtube"></i></a>
+          {{ with .OutputFormats.Get "rss" -}}{{- printf `<a rel="%s" type="%s" href="%s" title="%s" ><i class="fas fa-rss-square"></i></a>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML -}}{{- end }}
         </div>
 
       </div>
