@@ -48,7 +48,7 @@ header.usa-header{
 			@include u-flex('align-center');
 			@include u-display('none');
 			@include at-media('desktop') {
-				@include u-display('block');
+				@include u-display('flex');
 			}
 			img{
 				@include u-margin-right('05');
