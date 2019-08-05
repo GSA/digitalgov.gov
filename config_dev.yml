@@ -192,9 +192,9 @@ menu:
       Identifier      : "contribute"
       URL             : "/contribute/"
       Weight          : 1
-    - Name            : "Join a community"
-      Identifier      : "communities"
-      URL             : "/communities/"
+    - Name            : "Host and event"
+      Identifier      : "digitalgov-university"
+      URL             : "/digitalgov-university/"
       Weight          : 2
     - Name            : "Edit on GitHub"
       Identifier      : "edit"
