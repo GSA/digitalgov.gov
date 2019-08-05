@@ -1,6 +1,14 @@
 .usa-footer *{
 	@include u-font-family('sans');
 }
+.usa-footer{
+	a{
+	  text-decoration: none;
+	}
+	a:hover{
+	  text-decoration: underline;
+	}
+}
 .usa-footer__secondary-section{
 	// @include u-bg('blue-70v');
 	// @include u-text('white');
