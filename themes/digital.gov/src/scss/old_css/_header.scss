@@ -1,13 +1,10 @@
 header.usa-header{
-	nav.usa-nav{
-		.usa-current{
-
+	.usa-logo{
+		img{
+			// @include u-width('card-lg');
+			@include at-media('tablet') {
+				// @include u-width('mobile');
+			}
 		}
 	}
 }
-
-// .usa-header--extended .usa-current:after,
-// .usa-header--extended .usa-nav__link:hover:after,
-// .usa-header--extended [aria-expanded=true]:after{
-// 	background-color: red;
-// }
