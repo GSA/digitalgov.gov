@@ -7,9 +7,9 @@ authors:
   - nina-bianchi
 categories:
   - managing-digital
+  - our-work
 tag:
   - emerging-tech
-  - our-work
   - professional-development
 featured_image:
   uid: nina-bianchi-img2
