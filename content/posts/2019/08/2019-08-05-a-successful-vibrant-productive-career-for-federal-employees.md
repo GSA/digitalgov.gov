@@ -1,6 +1,6 @@
 ---
 slug: a-successful-vibrant-productive-career-for-federal-employees
-date: 2019-08-05 12:00:00 -0500
+date: 2019-08-05 13:00:00 -0500
 title: 'A Successful, Vibrant, and Productive Career for Federal Employees'
 summary: 'How might the federal government support ongoing collaboration and partnership with leaders in both industry and the federal government to modernize opportunities along innovative career paths&#63; Insights from the White House Workforce Data Interoperability Sprint present an opportunity to reframe the skills gap to accommodate a more flexible learning system that more accurately reflects the changing nature of work&#46;'
 authors:
@@ -12,7 +12,7 @@ tag:
   - our-work
   - professional-development
 featured_image:
-  uid: nina-bianchi-2
+  uid: nina-bianchi-img2
   alt: 'Multiple seated and standing participants from the White House Workforce Innovation Sprint work together in teams to collaborate on concepts around the worker-learning user experience at the Lab at OPM, a human-centered workspace&#46;'
 
 ---
@@ -20,7 +20,7 @@ featured_image:
 All Americans deserve access to pathways that lead to successful, vibrant, and productive careers. At the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) and the[ Centers of Excellence](https://coe.gsa.gov/) (CoE), we understand and strive to honor this vision by paving an accelerated pathway to foster learning cultures and adaptive workforce solutions within the federal government. To remain competitive and to stay ahead of rapid technological advances impacting many fields, our nation must urgently adopt an elastic culture of lifelong learning and growth mindsets to thrive in evolving workplace roles. Our nation's economy, health, and safety depend on it.
 
 
-{{< img src="nina-bianchi-2" >}}
+{{< img src="nina-bianchi-img2" >}}
 
 How might the federal government support ongoing collaboration and partnership with leaders in both industry and the federal government to modernize opportunities along innovative career paths? According to the [Office of Personnel Management](https://www.opm.gov/) (OPM), the federal workforce is composed of an [estimated 2.1 million](http://www.fedscope.opm.gov) civilian workers. [Congressional Budget Office](https://www.cbo.gov/) (CBO) [reports](https://www.cbo.gov/system/files/2018-11/54647-MBR.pdf) (PDF, 560 kb, 5 pages) that spending by the government was $4.1 trillion in 2018” which amounts to 20.3 percent of GDP in 2018 alone. The federal government directly impacts everyone, and should be prepared to serve its citizens with the workforce of the future, now.
 
@@ -28,7 +28,7 @@ Cross-cutting stakeholder engagement workshops, like the 2019 Summer White House
 
 Tomorrow’s workforce depends more on team intelligence and less on individual roles—this is why the human-centered collaborative approach creates a critical structure and serves as a catalyst to realizing the workforce we envision for the federal government. Our opportunities include investing in more engaging learning experiences to help employees, and in better service outcomes for customers. We can also focus on transferable approaches to work — the how, rather than the what — to improve work outcomes. Taking action on these opportunities also requires a shift of attitudes to foster where learning is essential to every role to keep the workplace toolboxes fresh, from frontline to C-suite.
 
-{{< img src="nina-bianchi-3" >}}
+{{< img src="nina-bianchi-img3" >}}
 
 [Emerging technologies](https://digital.gov/categories/emerging-tech/), such as quantum computing, artificial intelligence, and 5G, are transforming what we work on and how we do it. Rigid skill requirements and competencies of yesterday’s technologies and work cultures do not apply to the industries of the future. Rather than structuring policy around skills and complex task taxonomies that are at risk of becoming quickly outdated, how might we invest in defining traits, experiences, and behaviors of universal future performance indicators? How might these traits support us in the development of agile learning records which connect us to new technical skills as trends emerge. As a co-designer and participant of the Summer 2019 Workforce Data Interoperability Sprint to help inform the [American Workforce Policy Advisory Board](https://www.commerce.gov/americanworker/american-workforce-policy-advisory-board), **my biggest takeaway was to advocate for strengths-based assessments that focus on competencies (the “how”) which enable skills (the “what”). We have an opportunity to reframe the “skills gap” to accommodate a more flexible system that more accurately reflects the changing nature of work**.
 
@@ -42,7 +42,7 @@ A worker’s traits and behaviors, whether frontline or C-suite, should serve as
 - **Communicate Clearly**: communicate, listen, encourage ideas
 - **Create Accountability**: set expectations, hold others accountable, hold self accountable
 
-{{< img src="nina-bianchi-1" >}}
+{{< img src="nina-bianchi-img1" >}}
 
 Moving forward, as a White House Presidential Innovation Fellow and Director of Workforce Solutions at the IT Modernization Centers of Excellence, I plan to dive deeper into the following questions:
 
