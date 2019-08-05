@@ -2,7 +2,7 @@
 slug: a-successful-vibrant-productive-career-for-federal-employees
 date: 2019-08-05 13:00:00 -0500
 title: 'A Successful, Vibrant, and Productive Career for Federal Employees'
-summary: 'How might the federal government support ongoing collaboration and partnership with leaders in both industry and the federal government to modernize opportunities along innovative career paths&#63; Insights from the White House Workforce Data Interoperability Sprint present an opportunity to reframe the skills gap to accommodate a more flexible learning system that more accurately reflects the changing nature of work&#46;'
+summary: 'Insights from the White House Workforce Data Interoperability Sprint present an opportunity to reframe the skills gap to accommodate a more flexible learning system and more accurately reflect the changing nature of work&#46;'
 authors:
   - nina-bianchi
 categories:
