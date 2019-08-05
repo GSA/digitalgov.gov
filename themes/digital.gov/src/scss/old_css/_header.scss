@@ -1,10 +1,21 @@
 header.usa-header{
 	.usa-navbar{
+		@include u-height('card');
+		@include u-flex('align-start');
 		@include at-media('desktop') {
+			@include u-height('auto');
 			@include u-padding-x(4);
 		}
 	}
+	.usa-nav__secondary{
+		bottom:7.5rem;
+	}
 	.usa-logo{
+		@include u-margin-top(1);
+		@include at-media('desktop') {
+			@include u-margin-top(4);
+			@include u-margin-bottom('105');
+		}
 		a{
 			@include u-display('flex');
 			@include u-text('mint-cool-90');
@@ -12,24 +23,43 @@ header.usa-header{
 		img{
 			@include u-margin-right(1);
 			@include u-width(6);
-			@include at-media('tablet') {
-				// @include u-width('mobile');
-			}
 		}
 		.usa-logo__text{
 			@include u-font('sans', 'xl');
+			@include at-media('desktop') {
+				@include u-font('sans', 'xl');
+			}
 		}
 		.sub-head{
 			@include u-margin-top(1);
-			@include u-margin-left(7);
+			@include u-margin-bottom('205');
 			@include u-width('mobile');
-			@include u-font('sans', 'sm');
+			@include u-font('sans', 'md');
 			@include u-line-height('sans', 2);
 			@include u-text('no-italic');
 			@include u-text('base-dark');
-			@include u-display('none');
+			@include u-text('light');
+			// @include u-display('none');
 			@include at-media('desktop') {
+				@include u-font('sans', 'lg');
+				@include u-margin-bottom(4);
 				@include u-display('block');
+			}
+		}
+		.agency_refer{
+			@include u-margin-bottom(1);
+			@include u-font('sans', '2xs');
+			@include u-line-height('sans', 1);
+			@include u-text('base');
+			@include u-display('flex');
+			@include u-flex('align-center');
+			// @include u-display('none');
+			@include at-media('desktop') {
+				@include u-display('flex');
+			}
+			img{
+				@include u-margin-right('05');
+				@include u-width('205');
 			}
 		}
 	}

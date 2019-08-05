@@ -3,7 +3,9 @@
   <div class="usa-navbar">
     <div class="usa-logo" id="extended-logo">
       <em class="usa-logo__text"><a href="{{- "/" | absURL -}}" title="Home" aria-label="Home"><img class="" src="{{- "img/dg-logo-w54.svg" | absURL -}}" alt="{{- .Site.Title -}} Logo" /> <span>{{- .Site.Title -}}</span></a></em>
-      <p class="sub-head">Guidance on building better digital services in  government.</p>
+      <p class="sub-head">{{- .Site.Params.description -}}</p>
+      <p class="agency_refer"><img src="{{- "img/gsa-logo-w50.png" | absURL -}}" alt="GSA Logo" /><span>{{- .Site.Params.agency_refer -}}</span></p>
+
     </div>
 
     <button class="usa-menu-btn">Menu</button>
