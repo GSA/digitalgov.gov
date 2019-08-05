@@ -2,7 +2,7 @@
 <header class="usa-header usa-header--extended" role="banner">
   <div class="usa-navbar">
     <div class="usa-logo" id="extended-logo">
-      <em class="usa-logo__text"><a href="{{ "index.html" | absURL }}" title="Home" aria-label="Home"><img class="" src="{{ "/img/dg-logo-w50.png" | absURL }}" alt="DigitalGov" /> Project title</a></em>
+      <em class="usa-logo__text"><a href="{{ "index.html" | absURL }}" title="Home" aria-label="Home"><img class="" src="{{ "/img/dg-logo-w54.svg" | absURL }}" alt="DigitalGov" /> <span>{{- .Site.Title -}}</span></a></em>
     </div>
 
     <button class="usa-menu-btn">Menu</button>
@@ -10,7 +10,7 @@
   <nav role="navigation" class="usa-nav">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">
-        <img src="/assets/img/close.svg" alt="close">
+        <img src="{{ "/uswds/img/close.svg" | absURL }}" alt="close">
       </button>
 
       {{- $currentNode := . -}}
