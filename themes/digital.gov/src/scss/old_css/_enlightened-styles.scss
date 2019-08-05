@@ -17,39 +17,7 @@
 
 /* -------------------[ Main Page Elements ]------------------- */
 
-body {
-	text-align: left;
-	margin: 0;
-	padding: 0;
-	color:#333;
-	background-color:#eee;
-	background-position: 0 0;
-	background-attachment: fixed;
-	font-size:12px;
-	line-height:1.5em;
-	}
 
-body.bodybg1 { background-image:url(../css/images/bodybg1.jpg); }
-body.bodybg2 { background-image:url(../css/images/bodybg2.jpg); }
-body.bodybg3 { background-image:url(../css/images/bodybg3.jpg); }
-body.bodybg4 { background-image:url(../css/images/bodybg4.jpg); }
-body.bodybg5 { background-image:url(../css/images/bodybg5.jpg); }
-body.bodybg6 { background-image:url(../css/images/bodybg6.jpg); }
-body.bodybg7 { background-image:url(../css/images/bodybg7.jpg); }
-body.bodybg8 { background-image:url(../css/images/bodybg8.jpg); }
-body.bodybg9 { background-image:url(../css/images/bodybg9.jpg); }
-body.bodybg10 { background-image:url(../css/images/bodybg10.jpg); }
-body.bodybg11 { background-image:url(../css/images/bodybg11.jpg); }
-body.bodybg12 { background-image:url(../css/images/bodybg12.jpg); }
-body.bodybg13 { background-image:url(../css/images/bodybg13.jpg); }
-body.bodybg14 { background-image:url(../css/images/bodybg14.jpg); }
-body.bodybg15 { background-image:url(../css/images/bodybg15.jpg); }
-body.bodybg16 { background-image:url(../css/images/bodybg16.jpg); }
-body.bodybg17 { background-image:url(../css/images/bodybg17.jpg); }
-body.bodybg18 { background-image:url(../css/images/bodybg18.jpg); }
-body.bodybg19 { background-image:url(../css/images/bodybg19.jpg); }
-body.bodybg20 { background-image:url(../css/images/bodybg20.jpg); }
-body.No-Background-Pattern { background-image:none; }
 
 #outer-wrap {
 	width:1180px;
@@ -170,6 +138,7 @@ body.No-Background-Pattern { background-image:none; }
 	margin-bottom: 1.5em;
 }
 #sidebar .box h4{
+	margin-top: 0;
 	margin-bottom: 6px;
 }
 #sidebar .box .sub-hed{

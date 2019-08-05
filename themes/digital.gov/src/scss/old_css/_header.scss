@@ -1,10 +1,18 @@
 header.usa-header{
 	.usa-logo{
+		a{
+			@include u-display('flex');
+			@include u-text('mint-cool-90');
+		}
 		img{
-			// @include u-width('card-lg');
+			@include u-margin-right(1);
+			@include u-width(6);
 			@include at-media('tablet') {
 				// @include u-width('mobile');
 			}
+		}
+		.usa-logo__text{
+			@include u-font('sans', 'xl');
 		}
 	}
 }
