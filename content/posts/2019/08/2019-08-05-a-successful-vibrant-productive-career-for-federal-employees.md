@@ -6,10 +6,10 @@ summary: 'Insights from the White House Workforce Data Interoperability Sprint p
 authors:
   - nina-bianchi
 categories:
+  - emerging-tech
   - managing-digital
   - our-work
 tag:
-  - emerging-tech
   - professional-development
 featured_image:
   uid: nina-bianchi-img2
