@@ -1,4 +1,9 @@
 header.usa-header{
+	.usa-navbar{
+		@include at-media('desktop') {
+			@include u-padding-x(4);
+		}
+	}
 	.usa-logo{
 		a{
 			@include u-display('flex');

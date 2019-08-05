@@ -8,5 +8,6 @@
 	}
 	.topic{
 		@include u-margin-bottom(1);
+		@include u-font('sans', 'sm');
 	}
 }
