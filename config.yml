@@ -188,7 +188,7 @@ menu:
       Identifier      : "contribute"
       URL             : "/contribute/"
       Weight          : 1
-    - Name            : "Host and event"
+    - Name            : "Host an event"
       Identifier      : "digitalgov-university"
       URL             : "/digitalgov-university/"
       Weight          : 2
