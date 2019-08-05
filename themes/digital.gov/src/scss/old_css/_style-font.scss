@@ -1,21 +1,13 @@
-/* -- Mods for Custom Google Fonts -- */
-
-@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600,600italic,700,700italic|Roboto+Slab:100,300,400,700|Roboto+Condensed:300,300italic,400,400italic,700,700italic);
 
 
 body {
-	font-family:'source sans pro',arial, sans-serif;
 	font-size:16px;
 	line-height:1.6em;
 	color:#111;
 	font-weight:400;
 	}
 
-h1,h2,h3,h4,h5,h6,h7,
-#sitetitle .title {
-	font-family:'roboto slab','source sans pro',arial, sans-serif;
-	font-weight:700;
-	}
+
 
 ul#filter li,
 .single .navigation,
@@ -36,8 +28,7 @@ a.more-link,
 .wp-pagenavi,
 #catnav,
 ul.fixednav  {
-	font-family:'roboto condensed','source sans pro',arial, sans-serif;
-	}
+}
 
 h1 {
 	font-size:30px;

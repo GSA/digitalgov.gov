@@ -27,7 +27,6 @@ body {
 	background-attachment: fixed;
 	font-size:12px;
 	line-height:1.5em;
-	font-family:arial,helvetica,sans-serif;
 	}
 
 body.bodybg1 { background-image:url(../css/images/bodybg1.jpg); }
@@ -227,15 +226,7 @@ body.No-Background-Pattern { background-image:none; }
 
 /* -------------------[ Headings ]------------------- */
 
-h1,h2,h3,h4,h5,h6,h7,
-#sitetitle .title  {
-	font-family:arial,helvetica,sans-serif;
-	letter-spacing:0;
-	margin: 0 0 20px;
-	padding: 0;
-	line-height: 1.1em;
-	/* color:#444; */
-	}
+
 
 h1 {
 	font-size:36px;
