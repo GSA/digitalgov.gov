@@ -43,12 +43,16 @@
         </div>
         <div class="tablet:grid-col-4">
           <div class="usa-sign-up">
-            <h3 class="usa-sign-up__heading">Sign up for our newsletter</h3>
-            <form class="usa-form">
-              <label class="usa-label" for="email" id="">Your email address</label>
-              <input class="usa-input" id="email" name="email" type="email">
-              <button class="usa-button" type="submit">Sign up</button>
-            </form>
+            <!--[if lte IE 8]>
+            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+            <![endif]-->
+            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+            <script>
+              hbspt.forms.create({
+            	portalId: "1962994",
+            	formId: "f8c8ff73-dbc9-4242-90e4-e8cbcee02f6a"
+            });
+            </script>
           </div>
         </div>
       </div>

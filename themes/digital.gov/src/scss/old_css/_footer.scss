@@ -3,16 +3,14 @@
 }
 .usa-footer{
 	a{
-	  text-decoration: none;
+		@include u-text('no-underline');
+		@include u-text('primary-darker');
 	}
 	a:hover{
-	  text-decoration: underline;
+	  @include u-text('underline');
 	}
 }
 .usa-footer__secondary-section{
-	// @include u-bg('blue-70v');
-	// @include u-text('white');
-	// digital.gov logo
 	.usa-footer__contact-heading a{
 		@include u-display('flex');
 		@include u-flex('align-end');
@@ -25,8 +23,8 @@
 	// GSA logo
 	.usa-footer__logo-img{
 		@include u-margin-right(1);
-		@include u-width(7);
-		@include u-height(7);
+		@include u-width(6);
+		@include u-height(6);
 	}
 	.supported-by{
 		p{
@@ -49,6 +47,37 @@
 		img{
 			@include u-margin-right(1);
 			@include u-width(5);
+		}
+	}
+}
+
+.usa-sign-up{
+	.hbspt-form{
+		@include u-padding(0);
+
+		h2{
+			@include u-margin(0);
+			@include u-margin-bottom(1);
+			@include u-font('sans', 'lg');
+			@include u-line-height('sans', 2);
+		}
+
+		form {
+			.actions input.hs-button{
+				@include u-padding-y(1);
+	    	@include u-bg('primary');
+	    	@include u-text('white');
+	    	@include u-radius('md');
+				@include u-font('sans', 'md');
+				&:hover{
+					@include u-bg('primary-dark');
+				}
+			}
+			.input input{
+				@include u-padding-x(1);
+				@include u-padding-y(1);
+				@include u-font('sans', 'md');
+			}
 		}
 	}
 }
