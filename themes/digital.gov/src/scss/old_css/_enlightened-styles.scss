@@ -17,52 +17,15 @@
 
 /* -------------------[ Main Page Elements ]------------------- */
 
-body {
-	text-align: left;
-	margin: 0;
-	padding: 0;
-	color:#333;
-	background-color:#eee;
-	background-position: 0 0;
-	background-attachment: fixed;
-	font-size:12px;
-	line-height:1.5em;
-	font-family:arial,helvetica,sans-serif;
-	}
 
-body.bodybg1 { background-image:url(../css/images/bodybg1.jpg); }
-body.bodybg2 { background-image:url(../css/images/bodybg2.jpg); }
-body.bodybg3 { background-image:url(../css/images/bodybg3.jpg); }
-body.bodybg4 { background-image:url(../css/images/bodybg4.jpg); }
-body.bodybg5 { background-image:url(../css/images/bodybg5.jpg); }
-body.bodybg6 { background-image:url(../css/images/bodybg6.jpg); }
-body.bodybg7 { background-image:url(../css/images/bodybg7.jpg); }
-body.bodybg8 { background-image:url(../css/images/bodybg8.jpg); }
-body.bodybg9 { background-image:url(../css/images/bodybg9.jpg); }
-body.bodybg10 { background-image:url(../css/images/bodybg10.jpg); }
-body.bodybg11 { background-image:url(../css/images/bodybg11.jpg); }
-body.bodybg12 { background-image:url(../css/images/bodybg12.jpg); }
-body.bodybg13 { background-image:url(../css/images/bodybg13.jpg); }
-body.bodybg14 { background-image:url(../css/images/bodybg14.jpg); }
-body.bodybg15 { background-image:url(../css/images/bodybg15.jpg); }
-body.bodybg16 { background-image:url(../css/images/bodybg16.jpg); }
-body.bodybg17 { background-image:url(../css/images/bodybg17.jpg); }
-body.bodybg18 { background-image:url(../css/images/bodybg18.jpg); }
-body.bodybg19 { background-image:url(../css/images/bodybg19.jpg); }
-body.bodybg20 { background-image:url(../css/images/bodybg20.jpg); }
-body.No-Background-Pattern { background-image:none; }
 
 #outer-wrap {
 	width:1180px;
 	margin:50px auto;
 	background:#fff;
 	padding:0;
-	-moz-box-shadow:  0px 1px 3px rgba(0, 0, 0, 0.2);
-	-webkit-box-shadow:  0px 1px 3px rgba(0, 0, 0, 0.2);
-	box-shadow:  0px 1px 3px rgba(0, 0, 0, 0.2);
-	border-top:10px solid #000;
 	overflow:hidden;
-	}
+}
 
 #wrap,
 .limit,
@@ -175,6 +138,7 @@ body.No-Background-Pattern { background-image:none; }
 	margin-bottom: 1.5em;
 }
 #sidebar .box h4{
+	margin-top: 0;
 	margin-bottom: 6px;
 }
 #sidebar .box .sub-hed{
@@ -231,15 +195,7 @@ body.No-Background-Pattern { background-image:none; }
 
 /* -------------------[ Headings ]------------------- */
 
-h1,h2,h3,h4,h5,h6,h7,
-#sitetitle .title  {
-	font-family:arial,helvetica,sans-serif;
-	letter-spacing:0;
-	margin: 0 0 20px;
-	padding: 0;
-	line-height: 1.1em;
-	/* color:#444; */
-	}
+
 
 h1 {
 	font-size:36px;
@@ -350,39 +306,7 @@ h2.description {
 	padding:0;
 	}
 
-/* -------------------[ Links ]------------------- */
 
-a, a:link, a:visited {
-	outline:none;
-	text-decoration:none;
-	color:#268CBF;
-	-webkit-transition: all 0.15s ease-in-out;
-	-moz-transition: all 0.15s ease-in-out;
-	-o-transition: all 0.15s ease-in-out;
-	-ms-transition: all 0.15s ease-in-out;
-	transition: all 0.15s ease-in-out;
-	}
-
-a:hover, a:active {
-	text-decoration:none;
-	color:#000000;
-	}
-
-a.more-link,
-a.more-link:link,
-a.more-link:visited  {}
-
-a.more-link:hover,
-a.more-link:active  {}
-
-p.readmore {}
-
-.readmore a.more-link,
-.readmore a.more-link:link,
-.readmore a.more-link:visited  {}
-
-.readmore a.more-link:hover,
-.readmore a.more-link:active  {}
 
 #footer a,
 #footer a:link,
@@ -803,177 +727,7 @@ hr {
         clear: both;
 	}
 
-input:focus {
-	outline: none;
-	}
 
-select,
-input,
-textarea {
-	-webkit-appearance: none;
-	-webkit-border-radius:0;
-	border-radius:0;
-	font-family:inherit;
-	font-size:inherit;
-	}
-
-input[type="checkbox"] { -webkit-appearance: checkbox; }
-input[type="radio"] { -webkit-appearance: radio; }
-input[type="submit"], input[type="button"] { -webkit-appearance: button; }
-select { -webkit-appearance:menulist; border:1px solid #eeeeee; background:#fafafa; padding:5px; }
-
-/* ---------[ Form Styles ]--------- */
-
-form {
-	background:transparent;
-	padding:0;
-	border:0;
-	}
-
-form input[type="text"],
-form input[type="email"],
-form input[type="password"],
-form input[type="search"],
-form textarea {
-	border:1px solid #eeeeee;
-	background:#fafafa;
-	font-family:inherit;
-	font-size:inherit;
-	padding: 2%;
-	margin: 2px 0 20px;
-	width:70%;
-	display:block;
-	}
-
-form textarea {
-	width:95%;
-	}
-
-form input[type="text"]:focus,
-form input[type="email"]:focus,
-form input[type="password"]:focus,
-form input[type="search"]:focus,
-form textarea:focus {
-	background:#fff;
-	}
-
-form input[type="submit"],
-form input[type="button"] {
-	cursor:pointer;
-	font-family:inherit;
-	clear:both;
-	padding: 10px 25px;
-	text-align:center;
-	color:#fff;
-	background:#336699;
-	}
-
-form input[type="submit"]:hover,
-form input[type="button"]:hover {
-	background:#000;
-	}
-
-/* ---------[ Contact Form 7 Styles ]--------- */
-
-.wpcf7 form {
-	background:transparent;
-	padding:0;
-	border:0;
-	}
-
-.wpcf7 form input[type="text"],
-.wpcf7 form input[type="email"],
-.wpcf7 form textarea {
-	border:1px solid #eeeeee;
-	background:#fafafa;
-	font-family:inherit;
-	font-size:inherit;
-	padding: 2%;
-	margin: 2px 0 20px;
-	width:70%;
-	display:block;
-	}
-
-.wpcf7 form textarea,
-#contentright .wpcf7 form input[type="text"],
-#contentright .wpcf7 form input[type="email"] {
-	width:95%;
-	}
-
-.wpcf7 form input[type="text"]:focus,
-.wpcf7 form input[type="email"]:focus,
-.wpcf7 form textarea:focus {
-	background:#fff;
-	}
-
-.wpcf7 form input[type="submit"],
-.wpcf7 form input[type="button"] {
-	cursor:pointer;
-	font-family:inherit;
-	clear:both;
-	padding: 10px 25px;
-	text-align:center;
-	color:#fff;
-	background:#336699;
-	}
-
-.wpcf7 form input[type="submit"]:hover,
-.wpcf7 form input[type="button"]:hover {
-	background:#000;
-	}
-
-/* ---------[ Email Form and Search Form ]--------- */
-
-.email-form form,
-form#searchform  {
-	padding:0;
-	margin:0;
-	}
-
-.email-form form input[type="text"],
-.email-form form input[type="email"],
-form#searchform input[type="text"] {
-	padding: 10px;
-	width:180px;
-	border:1px solid #eeeeee;
-	background:#fafafa;
-	text-transform:lowercase;
-	color:#666;
-	font-family:inherit;
-	font-size:inherit;
-	margin: 0 5px 5px 0;
-	display:inline;
-	}
-
-.email-form form input[type="text"]:focus,
-.email-form form input[type="email"]:focus,
-form#searchform input[type="text"]:focus {
-	background:#fff;
-	}
-
-.email-form form input[type="submit"],
-.email-form form input[type="button"],
-form#searchform input[type="submit"],
-form#searchform input[type="button"] {
-	background: #336699;
-	border:1px solid #336699;
-	color: #fff;
-	padding: 9px 10px;
-	cursor:pointer;
-	text-transform:lowercase;
-	margin: 0 0 5px 0;
-	font-family:inherit;
-	font-size:inherit;
-	display:inline;
-	}
-
-.email-form form input[type="submit"]:hover,
-.email-form form input[type="button"]:hover,
-form#searchform input[type="submit"]:hover,
-form#searchform input[type="button"]:hover {
-	background:#000;
-	border-color:#000;
-	}
 
 /* -------- [ Table ] -------- */
 

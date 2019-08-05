@@ -1,0 +1,47 @@
+header.usa-header{
+	.usa-navbar{
+		@include at-media('desktop') {
+			@include u-padding-x(4);
+		}
+	}
+	.usa-logo{
+		a{
+			@include u-display('flex');
+			@include u-text('mint-cool-90');
+		}
+		img{
+			@include u-margin-right(1);
+			@include u-width(6);
+			@include at-media('tablet') {
+				// @include u-width('mobile');
+			}
+		}
+		.usa-logo__text{
+			@include u-font('sans', 'xl');
+		}
+		.sub-head{
+			@include u-margin-top(1);
+			@include u-margin-left(7);
+			@include u-width('mobile');
+			@include u-font('sans', 'sm');
+			@include u-line-height('sans', 2);
+			@include u-text('no-italic');
+			@include u-text('base-dark');
+			@include u-display('none');
+			@include at-media('desktop') {
+				@include u-display('block');
+			}
+		}
+	}
+	.social-icons {
+		@include u-float('right');
+		@include add-list-reset;
+		@include u-margin-top(1);
+		a{
+			@include u-margin-x('05');
+			@include u-font('sans', 'md');
+			@include u-text('base-dark');
+			@include u-display('inline-block');
+		}
+	}
+}

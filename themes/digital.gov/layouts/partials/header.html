@@ -1,12 +1,59 @@
-<div id="header" class="clearfix">
-  <div id="head-content" class="clearfix">
-    <!-- SITE-TITLE/LOGO -->
-    <div id="sitetitle">
-      <h1 class="visuallyhidden">DigitalGov</h1>
-      <a href="{{ "index.html" | absURL }}" title="DigitalGov"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/logo2.png" alt="DigitalGov" /></a>
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text"><a href="{{- "/" | absURL -}}" title="Home" aria-label="Home"><img class="" src="{{- "img/dg-logo-w54.svg" | absURL -}}" alt="{{- .Site.Title -}} Logo" /> <span>{{- .Site.Title -}}</span></a></em>
+      <p class="sub-head">Guidance on building better digital services in  government.</p>
     </div>
 
-    {{ partial "nav-catnav.html" . }}
-
+    <button class="usa-menu-btn">Menu</button>
   </div>
-</div>
+  <nav role="navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button class="usa-nav__close">
+        <img src="{{ "uswds/img/close.svg" | absURL }}" alt="close">
+      </button>
+
+      {{- $currentNode := . -}}
+      {{- $menuClasses := "usa-nav__primary-item" -}}
+      <ul class="usa-nav__primary usa-accordion">
+        {{- range .Site.Menus.primary -}}
+          <li class="usa-nav__primary-item {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} usa-current{{ end }}">
+            <a class="usa-nav__link" href="{{- .URL -}}"><span>{{- .Name -}}</span></a>
+          </li>
+        {{- end -}}
+      </ul><!-- .nav -->
+
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item">
+            <a href="{{- "/about/" | absURL -}}">About</a>
+          </li>
+          <li class="usa-nav__secondary-item">
+            <a href="{{- "/contribute/" | absURL -}}">Write for us</a>
+          </li>
+        </ul>
+
+
+        <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get" class="usa-search usa-search--small">
+          <input name="utf8" type="hidden" value="&#x2713;" />
+          <input id="affiliate" name="affiliate" type="hidden" value="digitalgov" />
+
+          <div role="search">
+            <label class="usa-sr-only" for="query">Search small</label>
+            <input class="usa-input" id="query" type="search" name="query">
+            <button class="usa-button" name="commit" type="submit"><span class="usa-sr-only">Search</span></button>
+          </div>
+        </form>
+
+        <div class="social-icons">
+          <a rel="alternate" href="https://twitter.com/digital_gov"><i class="fab fa-twitter"></i></a>
+          <a rel="alternate" href="https://www.facebook.com/digitalgov/"><i class="fab fa-facebook"></i></a>
+          <a rel="alternate" href="https://youtube.com/digitalgov"><i class="fab fa-youtube"></i></a>
+          {{ with .OutputFormats.Get "rss" -}}{{- printf `<a rel="%s" type="%s" href="%s" title="%s" ><i class="fas fa-rss-square"></i></a>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML -}}{{- end }}
+        </div>
+
+      </div>
+    </div>
+  </nav>
+</header>
