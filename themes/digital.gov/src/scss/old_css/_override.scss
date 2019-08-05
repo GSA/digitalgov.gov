@@ -820,21 +820,7 @@ p.tribe-events-widget-link {
   z-index: 9999;
 }
 
-a:hover, a:active { outline: none !important; }
-a:focus,
-.flex-container a:active,
-.myflexslider a:active,
-.flexslider a:active,
-.flex-container a:focus,
-.myflexslider a:focus,
-.flexslider a:focus,
-input:focus,
-.usa-focus,
-.uswds :focus {
-  outline: 4px solid #FFCB52 !important;
-  transition: none !important;
-  outline-offset: 0;
-}
+
 
 a.block {
   display: block;
