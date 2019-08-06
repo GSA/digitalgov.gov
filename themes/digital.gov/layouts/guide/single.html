@@ -19,13 +19,15 @@
       {{ if .Params.deck }}
       <div class="deck">{{ .Params.deck }}</div>
       {{ end }}
+
       {{ partial "last-updated" . }}
+
     </div>
 
     {{- partial "guide-nav" . -}}
 
     <div class="entry-content">
-      
+
       <!-- Go to www.addthis.com/dashboard to customize your tools -->
       <div class="addthis_inline_share_toolbox"></div>
 
