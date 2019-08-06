@@ -6,10 +6,12 @@
 {{ partial "head.html" . }}
 {{ partial "body-top.html" . }}
 
+<main id="main-content">
 {{ block "content" . }} The BASE CONTENT didn't load. :/ {{ end }}
 {{ if eq .Layout "1col" }}{{ else }}
 {{ block "sidebar" . }}{{ end }}
 {{ end }}
+</main>
 
 {{ partial "body-bottom.html" . }}
 {{ partial "footer.html" . }}

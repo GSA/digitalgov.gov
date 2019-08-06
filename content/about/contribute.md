@@ -78,33 +78,6 @@ This guidance stems from qualitative user research we conducted with over nearly
 
 As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart: 
 
-## Virtual Student Federal Service Internships
-
-<div class="deck">#ApplyInJuly to Be an Intern for the Innovation Portfolio</div>
-<br /> 
-
-<p align="center"><img src="https://connect.digitalgov.gov/hs-fs/hubfs/VSFS%20screencap.jpg" alt="Screen capture of the VSFS website homepage with a person sitting on a stone wall looking toward a scenic horizon and a timeline of the application process."></p>
-
-Are you a U.S. college student looking for a way to make a real difference in the work of your government, while also gaining job experience and connections?
-
-Through the [Virtual Student Federal Service (VSFS) program](https://vsfs.state.gov/), students can work on projects that advance the work of government on multiple fronts. Tech-related projects include developing virtual programs, engaging in digital communications, data analysis, graphic design, and building apps.
-
-U.S. students **apply** to their top three VSFS projects from **July 1** to **July 31** on [USAJOBS.gov](https://www.usajobs.gov/). VSFS supervisors will review applications between August 1 and August 31 and may contact VSFS candidates for a virtual interview. As part of the interview, candidates may be asked to show examples of their expertise and work. All candidates will hear by **early September 2019** if they have been offered a position.
-
-Selected interns work on their projects for 10 hours each week, from September 2019 through May 2020. Some interns work with their academic institutions to receive course credit for their VSFS participation.
-
-Our Innovation Portfolio is looking to select five virtual interns for the following three positions:
-
-**Project Title**: [Design the future of the U.S. Web Design System (USWDS)](https://vsfs.state.gov/projects/view/2412) <br />**Number of interns**: 2 <br />**Project Summary**: Support USWDS by improving documentation for developers and designers, developing new USWDS components, or (if you've got the JavaScript skills) helping understand how the future of USWDS could work with web components and CSS custom properties. Let's build something great!
-
-**Project Title**: [CitizenScience.gov Website Developer](https://vsfs.state.gov/projects/view/2475)  <br />**Number of interns**: 1  <br />Project Summary: Help accelerate innovation across the U.S. government working with the CitizenScience.gov Program. We need your help to refine functional elements of our website to better serve the federal workforce, our partners, and the public.
-
-**Project Title**: [Citizen Science Communicator](https://vsfs.state.gov/projects/view/2474) <br />**Number of interns**: 2 <br />**Project Summary**: Help accelerate innovation across the U.S. government working with the CitizenScience.gov Program. We need your ideas on how to communicate about the impact of the public participating voluntarily in the scientific process to addressing real-world issues.
-
-**Additional information:**
-
- - [How to Apply to VSFS Projects](https://vsfs.state.gov/how-to-apply)
- - [VSFS Frequently Asked Questions](https://vsfs.state.gov/faq)
- - Watch our 30-minute video: [2019 Virtual Student Federal Service (VSFS) Info Session](https://digital.gov/event/2019/05/21/2019-virtual-student-federal-service-vsfs-info-session/)
+---
 
 _Digital.gov is part of the Innovation Portfolio of the [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs), which is part of the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA)._

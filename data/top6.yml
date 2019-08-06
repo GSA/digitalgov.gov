@@ -30,6 +30,9 @@
 
 top6:
 
+  - file          : '2019-08-05-a-successful-vibrant-productive-career-for-federal-employees.md'
+    type          : 'post'
+
   - file          : '2019-07-09-get-to-know-10x.md'
     type          : 'post'
 
@@ -43,7 +46,4 @@ top6:
     type          : 'post'
 
   - file          : '2019-06-13-building-trust-with-users-through-open-communication-feedback.md'
-    type          : 'post'
-
-  - file          : '2019-05-08-introducing-new-rpa-community-practice.md'
     type          : 'post'

@@ -1,0 +1,10 @@
+<section class="topic-list">
+  <div class="grid-container">
+    <h4>Browse Posts by Topic</h4>
+    <div class="grid-row grid-gap-4">
+      {{ range .Site.Data.topicsfeatured.topicsfeatured }}
+        <div class="grid-col-6 tablet:grid-col-4 tablet-lg:grid-col-3 topic"><a href="{{ .url | absURL }}" title="{{ .name }}">{{ .name }}</a></div>
+      {{ end }}
+    </div>
+  </div>
+</section>
