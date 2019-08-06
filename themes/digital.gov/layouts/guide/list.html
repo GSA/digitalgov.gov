@@ -16,6 +16,8 @@
       {{ partial "last-updated" . }}
     </div>
 
+    {{- partial "guide-nav" . -}}
+
     <div class="guide-nav">
       {{ if .Params.guidenav }}
         {{ $cur := .Params.guidenav }}
