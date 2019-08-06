@@ -25,9 +25,9 @@ header.usa-header{
 			@include u-width(6);
 		}
 		.usa-logo__text{
-			@include u-font('sans', 'xl');
+			@include u-font('sans', '2xl');
 			@include at-media('desktop') {
-				@include u-font('sans', 'xl');
+				@include u-font('sans', '2xl');
 			}
 		}
 		.sub-head{
