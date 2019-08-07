@@ -17,7 +17,7 @@ registration_url: https://www.eventbrite.com/e/quantifying-the-value-of-innovati
 
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4120016&CustomerID=321)_
 
-We know that the value of "innovation" can be difficult to communicate. How might we better tell the story of our work? How can we see the connections across our projects? Through the [Presidential Innovation Fellow](https://www.presidentialinnovationfellows.gov/) (PIF) Storybank prototype we are answering these questions in three ways:
+We know that the value of _innovation_ can be difficult to communicate. How might we better tell the story of our work? How can we see the connections across our projects? Through the Presidential Innovation Fellow (PIF) **Storybank** prototype we are answering these questions in three ways:
 
 1) Collecting the stories
 
@@ -35,10 +35,10 @@ We now have 135 entries from 25 PIFs. We know what percentage of PIFs are workin
 
 Join our webinar to learn more about data storytelling, tagging text, and quantifying the value of innovation. 
 
-This talk is hosted by the Presidential Innovation Fellows and 18F. 
+This talk is hosted by the [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/) and [18F](https://www.18f.gov/). 
 
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
-  
-_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand._
+_Questions about this event or future events?_ Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand._ 
