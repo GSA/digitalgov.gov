@@ -35,7 +35,7 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
 
-**[Challenges & Prizes]({{< link "challenges-prizes.md" >}})**: We encourage public participation in prize competitions to find innovative government solutions.<br/>
+**[Challenge & Prize]({{< link "challenges-prizes.md" >}})**: We encourage public participation in prize competitions to find innovative government solutions.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes.md" >}})
 
 **[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
