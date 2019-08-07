@@ -1,19 +1,25 @@
 <div class="guide-nav">
 
   {{- if .Params.guide -}}
+  {{- $current_section_url := .CurrentSection.URL -}}
   <div class="guide-title">
+    {{- if eq $current_section_url .URL -}}
+    <h4><a href="{{- .Parent.Permalink -}}" title="{{- .Title -}}">{{ .Title -}}</a></h4>
+    <p>{{- .Params.deck -}}</p>
+    {{- else -}}
     <h4><a href="{{- .Parent.Permalink -}}" title="{{- .Parent.Title -}}">{{ .Parent.Title -}}</a></h4>
     <p>{{- .Parent.Params.deck -}}</p>
+    {{- end -}}
+
   </div>
 
-  {{- $current_url := .Parent.URL -}}
   <ul class="guide-index">
     <li><a href="{{- .Parent.Permalink | relURL -}}" title="{{- .Title -}}">Overview</a></li>
     {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
     {{- range sort ($guidepages) ".Params.weight" "desc" -}}
 
-      {{/* If $current_url is equal to the URL, then print the page and give it the title of "Overview" */}}
-      {{- if not (eq $current_url .URL) -}}
+      {{/* If $current_section_url is equal to the URL, then print the page and give it the title of "Overview" */}}
+      {{- if not (eq $current_section_url .URL) -}}
         <li><a href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></li>
       {{- end -}}
 
