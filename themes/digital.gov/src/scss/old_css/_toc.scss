@@ -22,10 +22,16 @@
 		}
 	}
 
+	ul.guide-index{
+		@include add-list-reset;
+		@include u-padding(2);
+		@include u-padding-top(0);
+		@include u-padding(2);
+	}
+
 	ul{
 		@include u-margin-top(0);
 		@include u-margin-bottom(3);
-		@include add-list-reset;
 		@include u-padding-top(0);
 		@include u-padding(2);
 		li{
@@ -72,16 +78,17 @@
 		h4{
 			@include u-margin(0);
 			@include u-margin-bottom(1);
-			@include u-font('sans', 'lg');
+			@include u-font('sans', 'xs');
+			@include u-text('uppercase');
 		}
 
 		#TableOfContents{
 			ul{
-				@include u-padding(0);
-				@include add-list-reset;
+				@include u-padding-y(0);
+				@include u-padding-right(0);
 				li{
 					@include u-padding-y(1);
-					@include u-font('sans', 'xs');
+					@include u-font('sans', '2xs');
 					@include u-text('normal');
 				}
 			}

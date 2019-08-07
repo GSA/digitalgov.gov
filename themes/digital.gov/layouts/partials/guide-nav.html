@@ -7,7 +7,7 @@
   </div>
 
   {{- $current_url := .Parent.URL -}}
-  <ul>
+  <ul class="guide-index">
     <li><a href="{{- .Parent.Permalink | relURL -}}" title="{{- .Title -}}">Overview</a></li>
     {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
     {{- range sort ($guidepages) ".Params.weight" "desc" -}}
