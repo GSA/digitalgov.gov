@@ -64,7 +64,7 @@ At the [Defense Innovation Unit](https://www.diu.mil/) (DIU) of the DoD at the P
 **ROBERT GOLDEL** 
 Robert is leading efforts connecting the [U.S. Food and Drug Administration](https://www.fda.gov/) (FDA), NIH, and the VA to demonstrate how digital health technologies, including digital biomarkers and a digital health catalyst, can support an innovation ecosystem to drive down the costs and validate the efficacy of software-based medicine. 
 
-{{< img src="pif-homecoming-4" alt="Margaret Weichert, Deputy Director for Management at the Office of Management and Budget, and Acting Director at the Office of Personnel Management addressing Fellows at the EEOB PIF Homecoming event." >}}
+{{< img src="pif-homecoming-4" alt="Davar Ardalan, Deputy Director of the Presidential Innovation Fellowship program featured speaker on the PIF Storybank and the power of data storytelling." >}}
 
 **ZACHARY GOLDFINE** 
 At the VA, Zachary is helping to create a benefits intake API so that more veterans can digitally submit their benefit applications to the VA. 
@@ -105,4 +105,4 @@ At the VA, Nelson is working on a system that uses machine learning and natural 
 **STEPHEN WINCHELL** 
 At the [Intelligence Advanced Research Projects Activity](https://www.iarpa.gov/) (IARPA), Stephen works on creating and managing new high-risk, high-payoff research programs in support of [U.S. Intelligence Community](https://www.odni.gov/index.php/what-we-do/members-of-the-ic) (IC) goals. 
 
-{{< img src="pif-homecoming-3" alt="Davar Ardalan, Deputy Director of the Presidential Innovation Fellowship program featured speaker on the PIF Storybank and the power of data storytelling." >}} 
+{{< img src="pif-homecoming-3" alt="Margaret Weichert, Deputy Director for Management at the Office of Management and Budget, and Acting Director at the Office of Personnel Management addressing Fellows at the EEOB PIF Homecoming event." >}} 
