@@ -7,7 +7,6 @@ featured_image:
   uid: plain-language-summit-2019
   alt: 'Plain Language Summit 2019'
 event_type:
-  - online
   - zoom
   - in-person
 date: 2019-09-05 09:00:00 -0500
@@ -21,7 +20,7 @@ venue:
   address: 1800 F Street NW
   city: Washington
   state: D.C.
-  zip: 20405
+  zip: 20006
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
 categories:
@@ -79,6 +78,8 @@ We believe the public deserves plain language communication from its government,
 Planning on attending? Let others know and use our hashtag `#PlainSummit2019`! [Here's what people are saying on Twitter](https://twitter.com/hashtag/PlainSummit2019) or follow [@govplainlang on twitter](https://twitter.com/govplainlang).
 {{< /box >}}
 
+_This event will be live streamed on Zoom. Link will be provided to registrants in advance of the event._
+
 ## About plainlanguage.gov
 
 The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing.
@@ -88,4 +89,4 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
 
 
-**NOTE:** In-person tickets are limited and going quickly, so sign-up fast! Federal employees registered with a .mil or .gov email will receive priority, and others after.
+**NOTE:** In-person tickets are limited and going quickly, so sign-up fast!
