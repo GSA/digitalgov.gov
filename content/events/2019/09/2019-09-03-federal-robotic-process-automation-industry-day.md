@@ -31,4 +31,4 @@ This all-day event is designed to build collaborative partnerships with industry
 
 Our team will send a reminder email prior to the event that includes your link to join the video.
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event? Send them to [RPA@gsa.gov](mailto:rpa@gsa.gov)._
