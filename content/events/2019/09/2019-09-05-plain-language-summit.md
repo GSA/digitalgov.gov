@@ -75,7 +75,9 @@ We believe the public deserves plain language communication from its government,
 | 3:30pm - 4:00pm   | **Wrap Up & Closing** - Kathryn Catania, USCIS and Katherine Spivey, GSA |
 
 
+{{< box >}}
 Planning on attending? Let others know and use our hashtag `#PlainSummit2019`! [Here's what people are saying on Twitter](https://twitter.com/hashtag/PlainSummit2019) or follow [@govplainlang on twitter](https://twitter.com/govplainlang).
+{{< /box >}}
 
 ## About plainlanguage.gov
 
