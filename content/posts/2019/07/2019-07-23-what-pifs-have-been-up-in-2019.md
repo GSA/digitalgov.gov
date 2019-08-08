@@ -2,8 +2,8 @@
 slug: what-pifs-have-been-up-in-2019
 date: 2019-07-23 09:00:00 -0500
 title: 'What the PIFs Have Been Up to in 2019'
-deck: ""
-summary: ""
+summary: "Members of the PIF class of 2019 include data strategists, AI specialists, venture capitalists, and neuroscientists&#46; See what they’ve been up to this year&#46;"
+deck: "American Innovation in Action Across 24 Agencies"
 authors:
   - davar-ardalan
   - joshua-di-frances
@@ -11,15 +11,16 @@ categories:
   - managing-digital
 tag:
   - pifs
+  - innovation
 featured_image:
-  uid: pif-homecoming-2
-  alt: ""
+  uid: pif-homecoming-8
+  alt: "Presidential Innovation Fellows gathered at the Eisenhower Executive Office Building on July 12 as part of a PIF Homecoming event&#46;"
 
 ---
 
 Across the federal government, [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/) (PIF) are helping to streamline regulations, increase engagement with private sector investors, and deploy pioneering machine learning and natural language processing solutions. 
 
-{{< img src="pif-homecoming-8" alt="Presidential Innovation Fellows gathered at EEOB on July 12 as part of a PIF Homecoming event." >}}
+{{< img src="pif-homecoming-8" alt="Presidential Innovation Fellows gathered at the Eisenhower Executive Office Building on July 12 as part of a PIF Homecoming event." >}}
 
 As part of the [President's Management Agenda](https://www.performance.gov/PMA/PMA.html) (PMA), PIFs are working on the [Cross Agency Priority (CAP) Goal number 4](https://www.performance.gov/CAP/cx/) on governmentwide customer experience (CX). This work—across 24 federal agencies—is to design the data infrastructure necessary to create the first public-facing dashboards on citizen experience. At the [U.S. Department of Transportation](https://www.transportation.gov/) (DOT), they are helping unlock the potential of artificial intelligence (AI) and autonomous systems while designing for a future transportation ecosystem. 
 
@@ -105,4 +106,4 @@ At the VA, Nelson is working on a system that uses machine learning and natural 
 **STEPHEN WINCHELL** 
 At the [Intelligence Advanced Research Projects Activity](https://www.iarpa.gov/) (IARPA), Stephen works on creating and managing new high-risk, high-payoff research programs in support of [U.S. Intelligence Community](https://www.odni.gov/index.php/what-we-do/members-of-the-ic) (IC) goals. 
 
-{{< img src="pif-homecoming-3" alt="Margaret Weichert, Deputy Director for Management at the Office of Management and Budget, and Acting Director at the Office of Personnel Management addressing Fellows at the EEOB PIF Homecoming event." >}} 
+{{< img src="pif-homecoming-3" alt="Deputy Director for Management at the Office of Management and Budget, and Acting Director at the Office of Personnel Management, Margaret Weichert, addressing Fellows at the PIF Homecoming event at the Eisenhower Executive Office Building." >}} 
