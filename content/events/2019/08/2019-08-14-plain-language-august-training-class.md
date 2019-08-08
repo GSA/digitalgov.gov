@@ -15,7 +15,7 @@ registration_url: https://www.eventbrite.com/e/plain-language-august-training-cl
 
 venue:
   venue_name: U.S. General Services Administration
-  room:
+  room: 1153
   address: 1800 F Street NW
   city: Washington
   state: D.C.
