@@ -6,6 +6,7 @@ deck: ""
 summary: ""
 authors:
   - davar-ardalan
+  - joshua-di-frances
 categories:
   - managing-digital
 tag:
