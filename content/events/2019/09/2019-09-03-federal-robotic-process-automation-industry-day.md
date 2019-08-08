@@ -3,7 +3,7 @@ slug: federal-robotic-process-automation-industry-day
 title: 'Federal Robotic Process Automation Industry Day'
 summary: 'Designed to build collaborative public-private partnerships and inform federal employees, this day-long event will feature presentations from industry and government leaders, automation platform providers, automation systems integrators and consultancies, emerging technology experts, and more&#46;'
 featured_image:
-  uid: rpa-industry-day-card
+  uid: rpa-industry-day-card-2
   alt: ''
 event_type:
   - youtube-live
@@ -27,7 +27,7 @@ venue:
 
 This all-day event is designed to build collaborative partnerships with industry, hear industry perspectives about robotic process automation (RPA) and related emerging technologies, and inform federal employees and the [**RPA Community of Practice**](https://digital.gov/communities/rpa/) about current trends, best practices, and capabilities for RPA and emerging technologies in the public sector.
 
-{{< img src="rpa-industry-day-card" >}}
+{{< img src="rpa-industry-day-card-2" >}}
 
 Our team will send a reminder email prior to the event that includes your link to join the video.
 
