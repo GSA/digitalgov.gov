@@ -25,7 +25,7 @@ featured_image:
 
 Across the federal government, [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/) (PIF) are helping to streamline regulations, increase engagement with private sector investors, and deploy pioneering machine learning and natural language processing solutions. 
 
-{{< img src="pif-homecoming-8" alt="Presidential Innovation Fellows gathered at the Eisenhower Executive Office Building on July 12 as part of a PIF Homecoming event." >}}
+{{< img src="pif-homecoming-8" alt="Presidential Innovation Fellows gathered at the Eisenhower Executive Office Building on July 12th as part of a PIF Homecoming event." >}}
 
 As part of the [President's Management Agenda](https://www.performance.gov/PMA/PMA.html) (PMA), PIFs are working on the [Cross Agency Priority (CAP) Goal number 4](https://www.performance.gov/CAP/cx/) on governmentwide customer experience (CX). This work—across 24 federal agencies—is to design the data infrastructure necessary to create the first public-facing dashboards on citizen experience. At the [U.S. Department of Transportation](https://www.transportation.gov/) (DOT), they are helping unlock the potential of artificial intelligence (AI) and autonomous systems while designing for a future transportation ecosystem. 
 
