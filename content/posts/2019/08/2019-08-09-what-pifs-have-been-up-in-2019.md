@@ -1,6 +1,6 @@
 ---
 slug: what-pifs-have-been-up-in-2019
-date: 2019-08-08 12:00:00 -0500
+date: 2019-08-09 10:30:00 -0500
 title: 'What the PIFs Have Been Up to in 2019'
 summary: 'Members of the PIF class of 2019 include data strategists, AI specialists, venture capitalists, and neuroscientists&#46; See what they’ve been up to this year&#46;'
 authors: 
