@@ -10,6 +10,8 @@
 }
 .entry-head .breadcrumb{
 	margin-bottom: 15px;
+	@include u-font('sans', 'lg');
+	@include u-text('medium');
 }
 .entry-head .breadcrumb p{
 	margin: 0;
