@@ -7,12 +7,9 @@ authors:
   - ndavidson
 ---
 
-If you manage a public website in the federal executive branch, it&#8217;s a [requirement]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}} "Checklist of Requirements for Federal Websites and Digital Services") to have certain content—or provide links to content—from various places on your website.
-
-_View the ["Checklist of Requirements for Federal Websites and Digital Services" »]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})_
+If you manage a public website in the federal executive branch, it&#8217;s a [requirement]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}} "Checklist of Requirements for Federal Websites and Digital Services") to have certain content—or provide links to content—from various places on your website. _See the ["Checklist of Requirements for Federal Websites and Digital Services" »]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})_
 
 Here’s a list of the requirements, the text that needs to be used for each.
-
 
 
 ## Privacy Policy
