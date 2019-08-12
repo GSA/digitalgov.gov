@@ -162,6 +162,6 @@ See individual requirements for your agency
 
 ---
 
-_&#42; These requirements apply to executive departments and agencies and their public websites. Check the specific law to see if it also applies to the judicial or legislative agencies or to intranets._
+_&#42; These requirements apply to executive departments and agencies and their public websites. Check the specific law to see if it also applies to the judicial or legislative agencies, or to intranets._ 
 
-_**The Federal Web Managers Council** recommends that government agencies use consistent link labels for common content found on government websites. These recommendations are based on industry standard link labels and a usability study of common government terms [usability study of common government terms](http://www.slideshare.net/DigitalGov/icgi-content-standards-usability-test-results "ICGI Content Standards: Usability Test Results, Content Managers’ Forum, July 15, 2004") (MS PowerPoint, 144 KB, 49 slides, July 2004)._
+_**The Federal Web Managers Council** recommends that government agencies use consistent link labels for common content found on government websites. These recommendations are based on industry standard link labels and a usability study of common government terms [usability study of common government terms](http://www.slideshare.net/DigitalGov/icgi-content-standards-usability-test-results "ICGI Content Standards: Usability Test Results, Content Managers’ Forum, July 15, 2004") (MS PowerPoint, 144 KB, 49 slides, July 2004)._ 
