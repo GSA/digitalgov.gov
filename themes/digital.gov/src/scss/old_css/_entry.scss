@@ -2,19 +2,19 @@
 }
 
 .entry-head{
-	margin-bottom: 32px;
+	@include u-margin-y(3);
 }
 .entry-head h1{
 	margin: 0;
 	color:#222;
 }
 .entry-head .breadcrumb{
-	margin-bottom: 15px;
-	@include u-font('sans', 'lg');
+	@include u-margin-bottom(1);
+	@include u-font('sans', 'md');
 	@include u-text('normal');
 }
 .entry-head .breadcrumb p{
-	margin: 0;
+	@include u-margin(0);
 }
 .page .post-title,
 .post .post-title{
