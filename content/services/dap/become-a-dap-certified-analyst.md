@@ -30,9 +30,7 @@ In order to prevent the distribution of correct answers, the DAP team has opted 
 
 ## Study Materials
 
-The Digital Analytics Program team has created a study guide to help prospective analysts become more familiar with the content. The study guide is not the only resource from which the DAP Certification Exam draws questions.
-
-### Materials to help you study: 
+The Digital Analytics Program team has created a study guide to help prospective analysts become more familiar with the content, but it is not the only resource from which the DAP Certification Exam draws questions.
 
 - [Review the DAP Certification Exam Study Guide](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/Certified_Analyst_Study_Guide.pdf) (PDF, 1.7 MB, 40 pages) 
 - [Watch our video tutorials and talks on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
