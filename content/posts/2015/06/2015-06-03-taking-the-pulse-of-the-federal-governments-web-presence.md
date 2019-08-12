@@ -71,7 +71,7 @@ The process is not fully automated, and so Pulse isn&#8217;t updated every day. 
 
 The [Digital Analytics Program]({{< link "/dap/" >}}) (DAP) is a free, shared Web analytics service for U.S. federal agencies.
 
-To participate, agencies place some JavaScript on their websites that report to a combined analytics account. DAP has [privacy controls]({{< link "common-questions-about-dap-faq.md#part-4.md" >}}) that anonymize visitor addresses and restrict data sharing.
+To participate, agencies place some JavaScript on their websites that report to a combined analytics account. DAP has [privacy controls]({{< link "common-questions-about-dap.md.md" >}}) that anonymize visitor addresses and restrict data sharing.
 
 Access to the account is shared within the federal government, and much of its data is shared publicly on [analytics.usa.gov](https://analytics.usa.gov/). DAP also regularly publishes a list of around 4,000 participating websites that have reported visitor data in the preceding 2 weeks.
 

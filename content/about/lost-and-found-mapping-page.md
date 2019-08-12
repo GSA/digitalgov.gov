@@ -253,7 +253,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Common Questions about DAP (FAQ)" href="{{< link "common-questions-about-dap-faq.md" >}}">Common Questions about DAP (FAQ)</a>
+      <a title="Common Questions about DAP (FAQ)" href="{{< link "common-questions-about-dap.md" >}}">Common Questions about DAP (FAQ)</a>
     </td>
   </tr>
 

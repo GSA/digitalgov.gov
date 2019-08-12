@@ -1,6 +1,6 @@
 ---
 date: 2019-07-31 09:00:00 -0500
-title: "Add Your Site to DAP"
+title: "Common Questions about DAP"
 deck: "The questions that we get asked about the most often"
 summary: ""
 type: guide
