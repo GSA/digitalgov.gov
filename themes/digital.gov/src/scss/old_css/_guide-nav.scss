@@ -79,6 +79,18 @@
 			// 	font-weight: bold;
 			// }
 		}
+		li.ex{
+			@include u-display('none');
+			@include at-media('desktop') {
+				display: list-item;
+			}
+		}
+		li.ex.show{
+			display: list-item;
+		}
+		li.more{
+			@include u-display('block');
+		}
 
 	}
 

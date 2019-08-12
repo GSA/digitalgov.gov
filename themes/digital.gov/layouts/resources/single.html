@@ -12,11 +12,14 @@
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
     </div>
 
+    {{- partial "guide-nav" . -}}
+
     <div class="entry-content">
       <!-- Go to www.addthis.com/dashboard to customize your tools -->
       <div class="addthis_inline_share_toolbox"></div>
-      
+
       {{ .Content }}
+
     </div>
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
     <div class="addthis_inline_share_toolbox"></div>
