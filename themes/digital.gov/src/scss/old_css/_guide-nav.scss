@@ -53,31 +53,6 @@
 			&:last-child{
 				@include u-border-bottom(0);
 			}
-			a{
-			}
-			// margin-bottom: 0;
-			// border-top: 1px #6d91ed solid;
-			// line-height: 22px;
-			// color: #1f1c19;
-			// font-size: 18px;
-			// font-weight: 800;
-			// &:first-child{
-			// 	border-top: none;
-			// 	a{
-			// 		padding-top:0;
-			// 	}
-			// }
-			// a{
-			// 	margin:0;
-			// 	padding: 12px 0;
-			// 	display: block;
-			// 	&:hover{
-			// 		text-decoration: underline;
-			// 	}
-			// }
-			// .active{
-			// 	font-weight: bold;
-			// }
 		}
 		li.ex{
 			@include u-display('none');
@@ -96,8 +71,10 @@
 
 	.toc{
 		@include u-padding(0);
+		@include u-bg('base-lightest');
 		@include at-media('desktop') {
 			@include u-padding(2);
+			@include u-bg('white');
 		}
 		@include u-bg('white');
 		h4{
