@@ -1,16 +1,19 @@
 ---
 date: 2019-07-31 09:00:00 -0500
-title: "Guidelines for Data Sharing"
+title: "Guidelines for Sharing DAP Data"
 deck: ""
 summary: ""
 type: guide
 guide: dap
 ---
 
-The Digital Analytics Program (DAP) maintains a wealth of data from the DAP Google Analytics account at [analytics.usa.gov](https://analytics.usa.gov/), and also offers an API for that data. Any data appearing on that public dashboard can be freely communicated or shared.
+#### Data that is publicly shareable
+Any data appearing on our public dashboard ([analytics.usa.gov](https://analytics.usa.gov/)) can be freely communicated or shared. We also offer an API for the data behind [analytics.usa.gov](https://analytics.usa.gov/), which is powered by a wealth of data from the Digital Analytics Program (DAP) Google Analytics account.
 
-The DAP team often receives requests for information related to specific agencies or websites from journalists, researchers, and academics. Our policy is to refer any data requests for information more granular than what is available on analytics.usa.gov to the agency’s DAP point of contact (POC). It’s the agency’s discretion to provide data related to their sites beyond what is already publicly available. Occasionally, we also receive [Freedom of Information Act](https://www.foia.gov/) (FOIA) requests that we refer to the agency in question.
+#### Requests for data
+Our policy is to refer any data requests for information more granular than what is available on analytics.usa.gov to the agency’s DAP point of contact (POC). It’s the agency’s discretion to provide data related to their sites beyond what is already publicly available. We ccasionally receive [Freedom of Information Act](https://www.foia.gov/) (FOIA) requests that we refer to the agency in question.
 
+#### Your responsibility
 As a user, we ask that you observe similar data confidentiality practices. By logging in and accessing the Digital Analytics Program account, you understand and agree that: 
 
 - Access to the government-wide view of the Digital Analytics Program (DAP) is to assist participating agencies in improving websites across the government.
