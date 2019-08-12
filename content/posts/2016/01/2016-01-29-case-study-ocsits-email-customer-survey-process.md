@@ -106,7 +106,7 @@ Like anything else in life, you try something, learn, adapt, move forward. We le
 As background, here are some of the resources that inspired us as we developed the GCXi:
 
   * [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15)—video
-  * [Digital Metrics Guidance and Best Practices]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}})
+  * [Digital Metrics Guidance and Best Practices]({{< link "/services/dap/_index.md" >}})
   * [Forrester’s Customer Experience Index](https://www.forrester.com/CX-Index/-/E-MPL191)
   * [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf)—ClickTools (PDF)
   * [Likert-Type Scale Response Anchors](http://www.clemson.edu/centers-institutes/tourism/documents/sample-scales.pdf)—recommended wording and rating scales for a variety of survey questions

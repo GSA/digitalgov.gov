@@ -24,7 +24,7 @@ Three years ago, GSA’s Office of Citizen Services and Innovative Technologies 
 
 {{< legacy-img src="2015/12/600-x-345-word-cloud-of-GCXi-survey-responses.jpg" alt="A word cloud of Government Customer Experience Index survey responses." >}}
 
-Armed with tools such as the [Digital Analytics Program]({{< link "/dap/" >}}) (DAP), which offers [guidance on common customer satisfaction metrics]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}}), we developed a Government Customer Experience Index (GCXi) for OCSIT. Loosely modeled after the [Forrester Customer Experience Index](http://blogs.forrester.com/megan_burns/14-01-21-introducing_forresters_customer_experience_index_2014), it’s been invaluable to help us consistently measure customer satisfaction across our major lines of business.
+Armed with tools such as the [Digital Analytics Program]({{< link "/dap/" >}}) (DAP), which offers [guidance on common customer satisfaction metrics]({{< link "/services/dap/_index.md" >}}), we developed a Government Customer Experience Index (GCXi) for OCSIT. Loosely modeled after the [Forrester Customer Experience Index](http://blogs.forrester.com/megan_burns/14-01-21-introducing_forresters_customer_experience_index_2014), it’s been invaluable to help us consistently measure customer satisfaction across our major lines of business.
 
 ## The Process
 

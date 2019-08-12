@@ -34,8 +34,8 @@ The Digital Analytics Program team has created a study guide to help prospective
 
 ### Materials to help you study: 
 
-- [DAP Certification Exam Study Guide](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/Certified_Analyst_Study_Guide.pdf) (PDF, 1.7 MB, 40 pages) 
-- Our [Analytics playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
-- [DAP GitHub Repo](https://github.com/digital-analytics-program/gov-wide-code) 
+- [Review the DAP Certification Exam Study Guide](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/Certified_Analyst_Study_Guide.pdf) (PDF, 1.7 MB, 40 pages) 
+- [Watch our video tutorials and talks on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
+- [Explore the DAP GitHub Repo](https://github.com/digital-analytics-program/gov-wide-code) 
 
 Good luck on the exam :tada: !

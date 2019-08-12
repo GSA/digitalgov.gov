@@ -7,6 +7,8 @@ type: guide
 guide: dap
 aliases:
   - /dap/
+  - /services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/
+  - /services/dap/dap-digital-metrics-guidance-and-best-practices/
 ---
 
 The Digital Analytics Program (DAP) offers a web analytics tool, training, and support to federal agencies. The program is a shared service provided by the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov) (GSA).
