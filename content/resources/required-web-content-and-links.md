@@ -5,6 +5,7 @@ deck: "A list of required links that all federal websites need to have"
 summary: "A list of required links that all federal websites need to have"
 authors:
   - ndavidson
+type: guide
 
 ---
 
