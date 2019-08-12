@@ -129,8 +129,10 @@ With the January release of the [Access Board’s final rule](https://www.access
   * [CIO Council’s Accessibility Playbook](https://section508.gov/content/it-accessibility-playbook)
   * [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< link "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
   * DGU video course: [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw) (duration: 65 minutes) 
-  
+
 _Do you want more information on accessibility resources?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Accessibility) _and we’ll put something together for you._
+
+---
 
 _All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
 
