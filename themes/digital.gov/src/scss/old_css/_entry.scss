@@ -70,6 +70,18 @@
 	margin-bottom: 24px;
 }
 
+.entry-content h5{
+	@include u-margin(0);
+	@include u-margin-bottom('05');
+	@include u-font('sans', 'md');
+	@include u-text('base-darker');
+}
+.entry-content h6{
+	@include u-margin(0);
+	@include u-font('sans', 'xs');
+	@include u-text('uppercase');
+}
+
 .entry-meta{
 	margin-bottom: 120px;
 	padding: 20px;
