@@ -116,6 +116,9 @@
 					@include u-padding-y(1);
 					@include u-font('sans', '2xs');
 					@include u-text('normal');
+					ul{
+						@include u-display('none');
+					}
 				}
 			}
 		}
