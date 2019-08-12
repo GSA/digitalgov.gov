@@ -11,9 +11,12 @@
 
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
       {{ if .Params.deck }}
+
       <div class="deck">{{ .Params.deck }}</div>
       {{ end }}
+
       {{ partial "last-updated" . }}
+
     </div>
 
     {{- partial "guide-nav" . -}}
