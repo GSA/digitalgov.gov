@@ -66,6 +66,11 @@
 .entry-content{
 	color:#222;
 }
+
+.entry-content h4{
+	@include u-margin-y('105');
+}
+
 .entry-content p{
 	margin-bottom: 24px;
 }
