@@ -61,9 +61,11 @@ header.usa-header{
 				@include u-display('flex');
 			}
 			img{
+				@include u-margin-top('2px');
 				@include u-margin-right('05');
 				@include u-width(2);
 				@include at-media('tablet') {
+					@include u-margin-top(0);
 					@include u-width('205');
 				}
 			}
