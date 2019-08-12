@@ -17,8 +17,7 @@ featured_image:
 
 ---
 
-All Americans deserve access to pathways that lead to successful, vibrant, and productive careers. At the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) and the[ Centers of Excellence](https://coe.gsa.gov/) (CoE), we understand and strive to honor this vision by paving an accelerated pathway to foster learning cultures and adaptive workforce solutions within the federal government. To remain competitive and to stay ahead of rapid technological advances impacting many fields, our nation must urgently adopt an elastic culture of lifelong learning and growth mindsets to thrive in evolving workplace roles. Our nation's economy, health, and safety depend on it.
-
+All Americans deserve access to pathways that lead to successful, vibrant, and productive careers. At the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) and the[ Centers of Excellence](https://coe.gsa.gov/) (CoE), we understand and strive to honor this vision by paving an accelerated pathway to foster learning cultures and adaptive workforce solutions within the federal government. To remain competitive and to stay ahead of rapid technological advances impacting many fields, our nation must urgently adopt an elastic culture of lifelong learning and growth mindsets to thrive in evolving workplace roles. Our nation's economy, health, and safety depend on it. 
 
 {{< img src="nina-bianchi-img2" >}}
 
@@ -26,7 +25,7 @@ How might the federal government support ongoing collaboration and partnership w
 
 Cross-cutting stakeholder engagement workshops, like the 2019 Summer White House Workforce Data Interoperability Sprint, capitalized on connections and opportunities for workforce transformation that exist at the root of trusting partnerships and reimagining the future of workforce data.
 
-Tomorrow’s workforce depends more on team intelligence and less on individual roles—this is why the human-centered collaborative approach creates a critical structure and serves as a catalyst to realizing the workforce we envision for the federal government. Our opportunities include investing in more engaging learning experiences to help employees, and in better service outcomes for customers. We can also focus on transferable approaches to work — the how, rather than the what — to improve work outcomes. Taking action on these opportunities also requires a shift of attitudes to foster where learning is essential to every role to keep the workplace toolboxes fresh, from frontline to C-suite.
+Tomorrow’s workforce depends more on team intelligence and less on individual roles—this is why the human-centered collaborative approach creates a critical structure and serves as a catalyst to realizing the workforce we envision for the federal government. Our opportunities include investing in more engaging learning experiences to help employees which will improve better service outcomes for customers. We can also focus on transferable approaches to work — the how, rather than the what — to improve work outcomes. Taking action on these opportunities also requires a shift of attitudes to foster where learning is essential to every role to keep the workplace toolboxes fresh, from frontline to C-suite. 
 
 {{< img src="nina-bianchi-img3" >}}
 
