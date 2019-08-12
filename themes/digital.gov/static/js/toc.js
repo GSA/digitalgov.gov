@@ -15,7 +15,7 @@ jQuery(document).ready(function($) {
 	}
 
 	function format_toc(hash){
-		$('.guide-nav #TableOfContents ul').each(function(i, items_list) {
+		$('.toc #TableOfContents ul').each(function(i, items_list) {
 			$(items_list).find('li:first-child > a').each(function(j, li){
 				$(li).removeClass('active');
 				var t = $(li).html();
