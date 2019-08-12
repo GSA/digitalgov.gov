@@ -10,12 +10,16 @@
     <div class="entry-head">
       {{ partial "breadcrumbs" . }}
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
+      {{ if .Params.deck }}
+      <h2 class="deck">{{ .Params.deck | markdownify }}</h2>
+      {{ end }}
     </div>
+
 
     <div class="entry-content">
       <!-- Go to www.addthis.com/dashboard to customize your tools -->
       <div class="addthis_inline_share_toolbox"></div>
-      
+
       {{ .Content }}
     </div>
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
