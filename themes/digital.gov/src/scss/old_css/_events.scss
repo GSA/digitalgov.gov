@@ -263,6 +263,12 @@
 	margin-bottom: 2em;
 	padding: 1em 1em;
 	background: #f0f0ec;
+	ul{
+		&:last-child{
+			margin-bottom: 0;
+		}
+	}
+
 }
 .note{
 	margin-bottom: 20px;

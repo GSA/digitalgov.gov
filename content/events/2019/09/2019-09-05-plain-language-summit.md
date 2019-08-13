@@ -60,11 +60,11 @@ We believe the public deserves plain language communication from its government,
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 9:00am            | **Welcome from Federal Plain Language Community of Practice, Co-Chairs** - Katherine Spivey, GSA and Kathryn Catania, USCIS |
 | 9:15am            | **Welcome from GSA’s Senior Plain Language Official** |
-| 9:25am - 9:30am  | **PLAIN training updat** - Jamie Stark, USCIS |
+| 9:25am - 9:30am  | **PLAIN training update** - Jamie Stark, USCIS |
 | 9:25am - 10:00am  | **Health Literacy** - Cynthia Baur |
 | 10:00am - 10:15am | **Break** |
 | 10:15am - 11:15am | **Science Panel** - Jana Goldman and Susanna Murley |
-| 11:15am - 11:45am | **Plain UX** — Jon Rubin, CFPB |
+| 11:15am - 11:45am | **Plain UX** — John Whalen |
 | 11:45am - 12:50pm | **Break for Lunch** |
 | 1:00pm - 1:30pm   | **International Plain Language Standards** — Annetta Cheek |
 | 1:30pm - 2:00pm   | **Privacy Act** — Richard Spiedel, GSA |
