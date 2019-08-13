@@ -10,6 +10,9 @@
     <div class="entry-head">
       {{ partial "breadcrumbs" . }}
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
+      {{ if .Params.deck }}
+      <h2 class="deck">{{ .Params.deck | markdownify }}</h2>
+      {{ end }}
     </div>
 
     {{- partial "guide-nav" . -}}
