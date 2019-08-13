@@ -13,10 +13,11 @@ aliases:
 ## Getting Started
 - [**OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies**]({{< link "omb-memos-circulars-executive-orders-and-other-policies.md" >}})
 - [**Checklist of Requirements for Federal Digital Services**]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})
+- [**Required Web Content and Links**]({{< link "resources/required-web-content-and-links.md" >}})
 
 ## Accessibility
 
-* [Introducing Accessibility for Teams](https://digital.gov/2018/07/10/introducing-accessibility-for-teams/) 
+* [Introducing Accessibility for Teams](https://digital.gov/2018/07/10/introducing-accessibility-for-teams/)
     - [Accessibility for Teams](https://accessibility.digital.gov/)
 * [Accessibility Resource List]({{< link "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
 * [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< link "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
