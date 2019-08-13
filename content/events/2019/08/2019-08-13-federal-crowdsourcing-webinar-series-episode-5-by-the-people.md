@@ -6,7 +6,7 @@ featured_image:
   uid: challengegov-card-episode-5
   alt: ''
 event_type:
-  - Online
+  - Zoom
 date: 2019-08-13 14:00:00 -0500
 end_date: 2019-08-13 15:00:00 -0500
 event_organizer: DigitalGov University
@@ -37,8 +37,6 @@ This is the fifth episode in the Federal Crowdsourcing Webinar Series, which air
 - Episode 3: [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/) (June 2019), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
 - Episode 2: [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/) (May 2019), with Jarah Meador, GSA, and Jessie Buerlein, HHS
 - Episode 1: [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/) (April 2019), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
-
----
 
 ---
 
