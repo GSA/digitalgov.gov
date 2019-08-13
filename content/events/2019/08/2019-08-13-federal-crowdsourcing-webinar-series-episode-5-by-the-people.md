@@ -12,15 +12,13 @@ end_date: 2019-08-13 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-episode-5-by-the-people-registration-60195136273
+youtube_id: -37DJHJtFE0
 
 ---
 
 {{< img src="challengegov-card-episode-5" >}}
 
 ---
-
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=3998904&CustomerID=321)_
-
 The [Library of Congress](https://www.loc.gov/) is the oldest cultural institution in the country, housing more than 168 million items in its vast collection (including more than 39 million cataloged books and other print materials in 470 languages).
 
 By its own estimates, the Library receives more than 15,000 items each business day, adding some 10,000 items to its collection. Simultaneously, it hosts [an active schedule](https://www.loc.gov/events) of lectures, exhibits, concerts, classes—but with only 3,100 permanent staff, how does the Library do it all?
@@ -39,10 +37,6 @@ This is the fifth episode in the Federal Crowdsourcing Webinar Series, which air
 - Episode 3: [The Opportunity Project](https://digital.gov/event/2019/06/11/federal-crowdsourcing-webinar-series-episode-3-opportunity-project/) (June 2019), with Drew Zachary and Lorena Molina-Irizarry, U.S. Census Bureau
 - Episode 2: [Challenges and Prize Competitions](https://digital.gov/event/2019/05/14/federal-crowdsourcing-webinar-series-episode-2-challengegov/) (May 2019), with Jarah Meador, GSA, and Jessie Buerlein, HHS
 - Episode 1: [Crowdsourcing and Citizen Science](https://digital.gov/event/2019/04/09/federal-crowdsourcing-mobilize-citizen-scientists/) (April 2019), with John McLaughlin, NOAA, and Sophia B. Liu, USGS
-
----
-
-:video_camera: This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
 
 ---
 
