@@ -1,7 +1,9 @@
 .usa-footer *{
 	@include u-font-family('sans');
 }
+
 .usa-footer{
+	clear:both;
 	a{
 		@include u-text('no-underline');
 		@include u-text('primary-darker');
