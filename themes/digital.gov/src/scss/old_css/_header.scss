@@ -46,6 +46,7 @@ header.usa-header{
 				@include u-display('block');
 			}
 		}
+		// GSA Logo
 		.agency_refer{
 			@include u-margin-bottom(1);
 			@include u-font('sans', '3xs');
