@@ -25,7 +25,7 @@ By its own estimates, the Library receives more than 15,000 items each business 
 
 On the digital side, help comes from everyday folks who serve as virtual volunteers in the Library’s public crowdsourcing initiative, [By the People](https://crowd.loc.gov/). From [letters to Abraham Lincoln](https://crowd.loc.gov/campaigns/letters-to-lincoln/1865-1889-inauguration-assassination-and-aftermath/?) to scouting reports of [baseball legend Branch Rickey](https://crowd.loc.gov/campaigns/branch-rickey-changing-the-game/), volunteers collectively have transcribed over 17,000 pages of content over the past eight months, and there’s much more to do.
 
-**Lauren Algee**, senior innovation specialist for [Library of Congress Labs](https://labs.loc.gov/), highlights how By the People invites the general public to transcribe, review, and tag digitized historical texts from the Library’s collection—improving the accessibility, search, and legibility of historical documents, and opening the texts to computational analysis.
+In this webinar, **Lauren Algee**, senior innovation specialist for [Library of Congress Labs](https://labs.loc.gov/), highlights how By the People invites the general public to transcribe, review, and tag digitized historical texts from the Library’s collection—improving the accessibility, search, and legibility of historical documents, and opening the texts to computational analysis.
 
 ## More About the Series
 
