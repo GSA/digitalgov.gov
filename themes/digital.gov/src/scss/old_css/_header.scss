@@ -54,11 +54,7 @@ header.usa-header{
 			@include u-display('flex');
 			@include u-flex('align-start');
 			@include at-media('tablet') {
-				@include u-width('205');
 				@include u-font('sans', '2xs');
-			}
-			@include at-media('desktop') {
-				@include u-display('flex');
 			}
 			img{
 				@include u-margin-top('2px');
@@ -68,6 +64,9 @@ header.usa-header{
 					@include u-margin-top(0);
 					@include u-width('205');
 				}
+			}
+			span{
+				@include u-display('block');
 			}
 		}
 	}
