@@ -16,9 +16,6 @@ youtube_id: -37DJHJtFE0
 
 ---
 
-{{< img src="challengegov-card-episode-5" >}}
-
----
 The [Library of Congress](https://www.loc.gov/) is the oldest cultural institution in the country, housing more than 168 million items in its vast collection (including more than 39 million cataloged books and other print materials in 470 languages).
 
 By its own estimates, the Library receives more than 15,000 items each business day, adding some 10,000 items to its collection. Simultaneously, it hosts [an active schedule](https://www.loc.gov/events) of lectures, exhibits, concerts, classes—but with only 3,100 permanent staff, how does the Library do it all?
