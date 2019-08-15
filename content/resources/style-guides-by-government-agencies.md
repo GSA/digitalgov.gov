@@ -55,7 +55,7 @@ This page is a collection of style guides created by government agencies.  You c
 - [HHS.gov Style Guide](https://www.hhs.gov/web/policies-and-standards/style-guide/) [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (PDF, 285 KB, 4 pgs)
 - [HHS Web Style Guide](https://www.hhs.gov/web/policies-and-standards/web-style-guide/)
 
-**U.S. Department of Veterans Affairs**
+**U.S. Department of Veterans Affairs (VA)**
 
 - [VA.gov Content Style Guide](https://design.va.gov/content-style-guide/)
 
