@@ -27,4 +27,4 @@ Here are some key stats:
   4. 60% of Twitter users access via mobile at least once a month
   5. Mobile users are 66% more likely to retweet content than web users.
 
-The intersection of social and mobile allows government agencies to gain a more holistic view of their user base.  Mobile allows agencies to develop more two-way conversations with the public, creating a shift from monologue to dialogue but agencies need to figure out where these new methodologies will work best for them.  For help doing that, start to think [Mobile First](https://digitalgov.sites.usa.gov/2013/09/30/mobile-first/ "Mobile First") with social media.
+The intersection of social and mobile allows government agencies to gain a more holistic view of their user base.  Mobile allows agencies to develop more two-way conversations with the public, creating a shift from monologue to dialogue but agencies need to figure out where these new methodologies will work best for them.  For help doing that, start to think [Mobile First](https://digital.gov/2013/09/30/mobile-first/ "Mobile First") with social media.

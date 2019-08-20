@@ -132,7 +132,7 @@ Then, when any resulting concerns are worked out, even weeks or months later, th
   </li>
 </ol>
 
-**​**In addition to ensuring the health and uptime of the API, there should also be an associated developer support program that is now activated. Two [important ingredients](https://digitalgov.sites.usa.gov/2013/05/16/api-release-kit/ "API Release Kit") for any healthy API are: a feedback mechanism that allows developers to communicate with the API producer; and a means of broadcasting news and updates to developers who may be consuming the API. This role will require an owner lest it fall by the wayside.
+**​**In addition to ensuring the health and uptime of the API, there should also be an associated developer support program that is now activated. Two [important ingredients](https://digital.gov/2013/05/16/api-release-kit/ "API Release Kit") for any healthy API are: a feedback mechanism that allows developers to communicate with the API producer; and a means of broadcasting news and updates to developers who may be consuming the API. This role will require an owner lest it fall by the wayside.
 
 ## Track progress
 

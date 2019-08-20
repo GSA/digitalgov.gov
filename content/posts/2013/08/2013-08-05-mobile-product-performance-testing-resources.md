@@ -14,7 +14,7 @@ topics:
 
 Performance testing is used to verify that an app or web page will display quickly to the user and will continue to function as the number of users increases to peak loads. Performance is an important consideration for mobile applications because the connection speed of users is often slower and more variable for mobile users than desktop users. Surveys have shown that users will often stop using applications or web sites that load slowly.
 
-This article was developed as part of the [Mobile Application Development Program](https://digitalgov.sites.usa.gov/resources/mobile-application-development-program/ "Mobile Application Development Program"). See our [general guidelines to testing](https://digitalgov.sites.usa.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") article for more resources on mobile product testing.
+This article was developed as part of the [Mobile Application Development Program](https://digital.gov/resources/mobile-application-development-program/ "Mobile Application Development Program"). See our [general guidelines to testing](https://digital.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") article for more resources on mobile product testing.
 
 Performance testing will typically consider the following items:
 

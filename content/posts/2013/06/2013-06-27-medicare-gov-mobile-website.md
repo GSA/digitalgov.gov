@@ -24,4 +24,4 @@ Medicare.gov users can also access the blog, news and videos sections.
 
 The responsive framework of the Medicare.gov website is Bootstrap. Bootstrap is a tool that allows users to develop sleek, intuitive websites at faster pace using HMTL5, CSS and JavaScript. Flexible and scalable tools like Bootstrap provide themes and templates that allow you to customize the resolution settings for desktops, tablets and smartphones.
 
-You can [read more about the Medicare.gov responsive design redesign](https://digitalgov.sites.usa.gov/2012/09/13/medicare-gov-responsive-redesign/ "Medicare.gov Responsive Redesign") and find other mobile products like Medicare.gov on the [USA.gov Apps Gallery.](http://apps.usa.gov/)
+You can [read more about the Medicare.gov responsive design redesign](https://digital.gov/2012/09/13/medicare-gov-responsive-redesign/ "Medicare.gov Responsive Redesign") and find other mobile products like Medicare.gov on the [USA.gov Apps Gallery.](http://apps.usa.gov/)

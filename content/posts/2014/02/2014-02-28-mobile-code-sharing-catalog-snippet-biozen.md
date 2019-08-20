@@ -19,7 +19,7 @@ You can find out more at [BioZen&#8217;s official site](http://www.t2.health.mil
 BioZen is just one of the many pieces of open source code available on the [Mobile Code Sharing Catalog](http://gsa.github.io/Mobile-Code-Catalog/index.html) hosted on [GitHub](https://github.com/).
 
 <p dir="ltr">
-  <em>The Mobile Code Sharing Catalog was developed as part of the <a title="Mobile Application Development Program" href="https://digitalgov.sites.usa.gov/resources/mobile-application-development-program/">Mobile Application Development Program</a>. Developers can find and SHARE source code for native and web projects from a variety of sources.</em>
+  <em>The Mobile Code Sharing Catalog was developed as part of the <a title="Mobile Application Development Program" href="https://digital.gov/resources/mobile-application-development-program/">Mobile Application Development Program</a>. Developers can find and SHARE source code for native and web projects from a variety of sources.</em>
 </p>
 
   * _Are you a government mobile innovator with some code you’ve developed to share?[ Submit your code](http://gsa.github.io/Mobile-Code-Catalog/form.html)._

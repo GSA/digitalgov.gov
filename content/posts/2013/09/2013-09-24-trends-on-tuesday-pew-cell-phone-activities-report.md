@@ -17,6 +17,6 @@ In Pew&#8217;s recent survey, they found the most popular activities people perf
   
 These trends are important when trying to determine the best Mobile User Experience for your website and/or app. Without knowing these trends it would be difficult to properly leverage an app or a mobile website to its full potential.
 
-See our article on [Making Mobile Gov: User Experience Recommendations](https://digitalgov.sites.usa.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations") guidelines on creating good mobile user experiences.
+See our article on [Making Mobile Gov: User Experience Recommendations](https://digital.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations") guidelines on creating good mobile user experiences.
 
 _Lisa Wilcox, U.S. Department of Agriculture_

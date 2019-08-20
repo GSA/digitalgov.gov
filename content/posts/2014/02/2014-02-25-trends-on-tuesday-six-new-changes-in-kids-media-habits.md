@@ -21,4 +21,4 @@ topics:
   4. Poor and minority children have more access to mobile devices and apps than they did two years ago, but a large access gap still remains. Access to high-speed internet has remained about the same, but access to smart phones is increasing.
   5. Television is the most common platform for children’s educational content. Though many children access educational materials on mobile devices, television continues to top the list.
 
-Again as government thinks [mobile first](https://digitalgov.sites.usa.gov/2013/09/30/mobile-first/ "Mobile First"), agencies must remember that mobile is a channel for people of all ages.
+Again as government thinks [mobile first](https://digital.gov/2013/09/30/mobile-first/ "Mobile First"), agencies must remember that mobile is a channel for people of all ages.

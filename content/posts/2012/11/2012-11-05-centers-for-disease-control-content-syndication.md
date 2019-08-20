@@ -22,7 +22,7 @@ CDC developed content syndication to give our public health partners and other i
 
 ## <a name="x-What We Did"></a>What We Did {#toc1}
 
-CDC created an [application programming interface (API)](https://digitalgov.sites.usa.gov/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs") that enabling partner organizations to display CDC.gov content on their Web sites by simply adding a JavaScript widget which retrieves the CDC content. CDC assigns a unique campaign ID to each partner that is used for tracking and metrics purposes. This unique ID allows CDC to measure not only the traffic generated on the partner site, but also all traffic from their site back to CDC.gov.
+CDC created an [application programming interface (API)](https://digital.gov/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs") that enabling partner organizations to display CDC.gov content on their Web sites by simply adding a JavaScript widget which retrieves the CDC content. CDC assigns a unique campaign ID to each partner that is used for tracking and metrics purposes. This unique ID allows CDC to measure not only the traffic generated on the partner site, but also all traffic from their site back to CDC.gov.
 
 ## <a name="x-How It Worked"></a>How It Worked {#toc2}
 

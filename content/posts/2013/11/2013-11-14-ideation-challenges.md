@@ -26,7 +26,7 @@ This section provides tips on running an ideation challenge, resources, examples
 
 <div>
   <p>
-    Ideation is the process of generating and developing new ideas to solve a problem or improve a product, process, or service. Public and private sector organizations commonly engage in ideation with the public or their customers. Challenge and prize competitions can gather ideas from the public, including experts, academics, students, and the private sector, on how to solve a problem. Sometimes the ideation phase is the first of several stages, where ideas are implemented in later phases, such as an apps or <a href="https://digitalgov.sites.usa.gov/wp-admin/post.php?post=94962&action=edit">technology demonstration challenge</a>.
+    Ideation is the process of generating and developing new ideas to solve a problem or improve a product, process, or service. Public and private sector organizations commonly engage in ideation with the public or their customers. Challenge and prize competitions can gather ideas from the public, including experts, academics, students, and the private sector, on how to solve a problem. Sometimes the ideation phase is the first of several stages, where ideas are implemented in later phases, such as an apps or <a href="https://digital.gov/wp-admin/post.php?post=94962&action=edit">technology demonstration challenge</a>.
   </p>
   
   <h2>

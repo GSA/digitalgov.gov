@@ -19,4 +19,4 @@ topics:
 >   * **Providing Value from Start to Finish**: SMS is now used for everything from receipt confirmations to account updates.
 >   * **Delivering More Through Less**: Marketers don&#8217;t want to overextend their welcome on their consumer&#8217;s mobile devices, so they send fewer messages that are carefully crafted with more relevance to the consumer.
 
-Agencies wanting to promote their mobile products should consider this new level of SMS Marketing for their consumers to get their services out there. Check out other agencies that are using [SMS](https://digitalgov.sites.usa.gov/2012/08/21/sms-or-short-message-service/ "SMS or Short Message Service") as a marketing strategy.
+Agencies wanting to promote their mobile products should consider this new level of SMS Marketing for their consumers to get their services out there. Check out other agencies that are using [SMS](https://digital.gov/2012/08/21/sms-or-short-message-service/ "SMS or Short Message Service") as a marketing strategy.

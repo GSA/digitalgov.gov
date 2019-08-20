@@ -20,6 +20,6 @@ Using gamification, Solve the Outbreak is a great way to study epidemiology by
   * learning about diseases and outbreaks in an engaging way, and
   * seeing how disease detectives save lives around the world.
 
-You can learn more about how CDC designed Solve the Outbreak by attending the DigitalGov University Webinar [You’ll Have Them at Swipe: Make An Awesome Mobile User Experience](https://digitalgov.sites.usa.gov/2013/02/11/youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar/ "You’ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar") on Wednesday, February 27, 2013.
+You can learn more about how CDC designed Solve the Outbreak by attending the DigitalGov University Webinar [You’ll Have Them at Swipe: Make An Awesome Mobile User Experience](https://digital.gov/2013/02/11/youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar/ "You’ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar") on Wednesday, February 27, 2013.
 
 Also, you can find more mobile products like CDC&#8217;s [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) in the [USA.gov Apps Gallery](http://apps.usa.gov/).

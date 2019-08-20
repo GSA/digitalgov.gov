@@ -44,7 +44,7 @@ topics:
     </p>
 
     <p>
-      Review all the apps challenge steps at a glance on the <a href="https://digitalgov.sites.usa.gov/2013/11/06/software-and-apps-challenges/">How to Run an Apps Challenge page</a>.
+      Review all the apps challenge steps at a glance on the <a href="https://digital.gov/2013/11/06/software-and-apps-challenges/">How to Run an Apps Challenge page</a>.
     </p>
 
     <p>

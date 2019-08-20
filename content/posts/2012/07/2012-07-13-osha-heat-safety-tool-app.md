@@ -35,6 +35,6 @@ In iOS, the app became a very confusing experience. User interface conventions w
 
 ## <a name="x-What We Learned"></a>What We Learned {#toc3}
 
-Design for the individual platforms from the beginning. Headaches and delays later in the process from usability or accessibility issues can be headed-off right from the beginning. One way to do that is by following a good [Statement of Work model](https://digitalgov.sites.usa.gov/resources/mobile-sow-and-developer-qualifications/ "Mobile SOW and Developer Qualifications") when contracting for mobile products.
+Design for the individual platforms from the beginning. Headaches and delays later in the process from usability or accessibility issues can be headed-off right from the beginning. One way to do that is by following a good [Statement of Work model](https://digital.gov/resources/mobile-sow-and-developer-qualifications/ "Mobile SOW and Developer Qualifications") when contracting for mobile products.
 
 <span style="color: #000000;font-family: arial, helvetica, sans-serif;font-size: 12.727272033691406px;line-height: 17.27272605895996px;background-color: #ffffff"> </span>

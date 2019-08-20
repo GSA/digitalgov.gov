@@ -17,10 +17,10 @@ require('./config/gulp/uswds');
 // Don't use a trailing `/` for path names, use `path/to/dir`
 
 // USWDS source directory
-const USWDS_SRC         = 'node_modules/uswds/dist';
+const USWDS_SRC  = './themes/digital.gov/src/scss/uswds';
 
 // Project Sass source directory
-const PROJECT_SASS_SRC  = './themes/digital.gov/src/uswds';
+const PROJECT_SASS_SRC  = './themes/digital.gov/src/scss/new';
 
 // Project JS source directory
 const PROJECT_JS_SRC  = './themes/digital.gov/src/js';
@@ -41,6 +41,7 @@ const PROJECT_JS_SRC  = './themes/digital.gov/src/js';
 
 
 gulp.task('watch-sass', function () {
+  gulp.watch(`${USWDS_SRC}/**/*.scss`, gulp.series('build-sass'));
   gulp.watch(`${PROJECT_SASS_SRC}/**/*.scss`, gulp.series('build-sass'));
   gulp.watch(`${PROJECT_JS_SRC}/**/*.js`, gulp.series('compile'));
 });

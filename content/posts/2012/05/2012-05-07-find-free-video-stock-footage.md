@@ -12,9 +12,9 @@ topics:
 ---
 
 ## [
-  ](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/b8-stock-footage.jpg) 
+  ](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/b8-stock-footage.jpg)
 
-If you&#8217;re creating video, stock footage can be your best friend. If you need shots of people walking around, a photo of Chicago, the sound of footsteps or a Latin soundtrack, someone else has already probably already created it and made it available for free!  Also known as B–roll, stock footage is extra material that may or may not have appeared in previous productions. Be sure to read about [copyright](https://digitalgov.sites.usa.gov/2013/05/04/video-copyright/ "Video copyright: How to avoid getting sued"), to ensure you don&#8217;t grab licensed video or music by accident.[{{< legacy-img src="2012/05/b8-stock-footage-250x199.jpg" alt="b8-stock-footage-250x199" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/05/b8-stock-footage-250x199.jpg)
+If you&#8217;re creating video, stock footage can be your best friend. If you need shots of people walking around, a photo of Chicago, the sound of footsteps or a Latin soundtrack, someone else has already probably already created it and made it available for free!  Also known as B–roll, stock footage is extra material that may or may not have appeared in previous productions. Be sure to read about [copyright](https://digital.gov/2013/05/04/video-copyright/ "Video copyright: How to avoid getting sued"), to ensure you don&#8217;t grab licensed video or music by accident.[{{< legacy-img src="2012/05/b8-stock-footage-250x199.jpg" alt="b8-stock-footage-250x199" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/05/b8-stock-footage-250x199.jpg)
 
 Remember:
 

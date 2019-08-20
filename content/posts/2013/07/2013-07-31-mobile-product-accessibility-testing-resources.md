@@ -14,7 +14,7 @@ topics:
 
 Accessibility testing is a subset of usability testing and is the inclusive practice of making websites and mobile applications usable by people of all abilities and disabilities. You do this by testing mobile websites and/or applications on all leading browsers, mobile devices and screen readers.
 
-This article was developed as part of the [Mobile Application Development Program](https://digitalgov.sites.usa.gov/resources/mobile-application-development-program/ "Mobile Application Development Program"). See our [general guidelines to testing](https://digitalgov.sites.usa.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") article for more resources on mobile product testing.
+This article was developed as part of the [Mobile Application Development Program](https://digital.gov/resources/mobile-application-development-program/ "Mobile Application Development Program"). See our [general guidelines to testing](https://digital.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") article for more resources on mobile product testing.
 
 ## <a name="x-Government Guidance"></a>Government Guidance {#toc0}
 

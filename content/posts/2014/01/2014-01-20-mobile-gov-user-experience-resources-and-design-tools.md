@@ -28,7 +28,7 @@ There are a number of resources in the private sector for designing excellent Us
 
 **Government Guidance and Resources**
   
-Since November 2012, the [Mobile Gov Community of Practice](https://digitalgov.sites.usa.gov/communities/mobile/ "Mobile Gov Community Events") has been working to create awesome mobile user experiences and expertise in government. The community has hosted workshops, webinars, a user experience toolkit and a crowdsourcing tool. In September 2013, based on this work, the community released over forty [<span class="wiki_link_ext">Mobile User Experience Guidelines and Recommendations </span>](https://digitalgov.sites.usa.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations")for government.
+Since November 2012, the [Mobile Gov Community of Practice](https://digital.gov/communities/mobile/ "Mobile Gov Community Events") has been working to create awesome mobile user experiences and expertise in government. The community has hosted workshops, webinars, a user experience toolkit and a crowdsourcing tool. In September 2013, based on this work, the community released over forty [<span class="wiki_link_ext">Mobile User Experience Guidelines and Recommendations </span>](https://digital.gov/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations")for government.
 
 
 

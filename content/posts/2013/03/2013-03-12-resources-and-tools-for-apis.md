@@ -52,7 +52,7 @@ With the open source release of the [White House&#8217;s API Standards template]
 ## <a name="case-studies"></a>Case Studies
 
   * [Centers for Disease Control & Prevention](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/cdc-content-services-api.docx "CDC case study") (MS Word, 20.93 KB, 2 pages, November 2012)
-  * [Department of Labor—Software Development Kits (SDKs)](https://digitalgov.sites.usa.gov/2012/11/19/case-study-how-dol-created-software-development-kits-sdks/ "Case Study: How DOL Created Software Development Kits - SDKs")
+  * [Department of Labor—Software Development Kits (SDKs)](https://digital.gov/2012/11/19/case-study-how-dol-created-software-development-kits-sdks/ "Case Study: How DOL Created Software Development Kits - SDKs")
   * [Federal Register](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf)**** (PDF, 218 KB, 3 pages, November 2012)
   * [General Services Administration—Social Media Registry]({{< ref "2012-11-19-case-study-how-gsa-launched-social-media-registry.md" >}} "Case Study: How GSA Launched Social Media Registry")
   * [HealthFinder.gov]({{< ref "2012-07-16-healthfinder-gov-api.md" >}} "Healthfinder.gov API")
@@ -65,7 +65,7 @@ There are several different ways to generate APIs that range in complexity and f
 
 ## <a name="api-release-kit"></a>API Release Kit
 
-Best practices around API production have agreed on a number of common elements which strongly benefit an API and warrant inclusion in the release whenever possible. The [API release kit](https://digitalgov.sites.usa.gov/2013/05/16/api-release-kit/ "API Release Kit") provides an outline of these components along with options for each functionality.
+Best practices around API production have agreed on a number of common elements which strongly benefit an API and warrant inclusion in the release whenever possible. The [API release kit](https://digital.gov/2013/05/16/api-release-kit/ "API Release Kit") provides an outline of these components along with options for each functionality.
 
 ## <a name="developer-kit"></a>/Developer Kit
 
@@ -73,7 +73,7 @@ Government agencies are increasingly being called upon to provide a central hub 
 
 ## <a name="producing-apis-through-data.gov"></a>Producing APIs through Data.gov
 
-One method by which agencies can offer Public APIs is by leveraging the power of interactive datasets on Data.gov. This [guide](https://digitalgov.sites.usa.gov/2013/04/30/producing-apis-through-data-gov/ "Producing APIs through Data.gov") provides a process, template, and example agencies can follow to accomplish this.
+One method by which agencies can offer Public APIs is by leveraging the power of interactive datasets on Data.gov. This [guide](https://digital.gov/2013/04/30/producing-apis-through-data-gov/ "Producing APIs through Data.gov") provides a process, template, and example agencies can follow to accomplish this.
 
 ## <a name="government-api-listserv"></a>U.S. Government APIs Listserv
 

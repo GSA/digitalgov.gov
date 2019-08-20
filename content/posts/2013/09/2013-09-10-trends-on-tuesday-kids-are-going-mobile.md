@@ -33,6 +33,6 @@ Smartphones and tablets are very easy to use, as children have learned early how
 >   * 28% are Art & Music
 >   * 19% are Character Based
 
-There are examples of mobile targeting children’s games like [CDC’s Solve the Outbreak](http://www.cdc.gov/mobile/Applications/sto/), the [Smithsonian’s Meanderthal](http://humanorigins.si.edu/resources/multimedia/mobile-apps) and the [National Gallery of Art&#8217;s  Your Art](http://www.nga.gov/content/ngaweb/visit/tours-and-guides/mobile-app.html), which has a specific Kid’s Tour section. As government thinks [mobile first](https://digitalgov.sites.usa.gov/2013/09/30/mobile-first/ "Mobile First"), these agencies remember that mobile is a channel for children of all ages.
+There are examples of mobile targeting children’s games like [CDC’s Solve the Outbreak](http://www.cdc.gov/mobile/Applications/sto/), the [Smithsonian’s Meanderthal](http://humanorigins.si.edu/resources/multimedia/mobile-apps) and the [National Gallery of Art&#8217;s  Your Art](http://www.nga.gov/content/ngaweb/visit/tours-and-guides/mobile-app.html), which has a specific Kid’s Tour section. As government thinks [mobile first](https://digital.gov/2013/09/30/mobile-first/ "Mobile First"), these agencies remember that mobile is a channel for children of all ages.
 
 _Lisa Wilcox, U.S. Department of Agriculture_

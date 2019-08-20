@@ -14,7 +14,7 @@ topics:
 
 It&#8217;s speculated that the brand strategy was used when organizations felt they could not beat other companies with lower prices on products. As the infographic illustrates, mobile transactions generally account for less than 20% of the transactions completed.
 
-Federal agencies who are thinking [mobile first](https://digitalgov.sites.usa.gov/2013/09/30/mobile-first/ "Mobile First") should consider strategies that create personalized experiences or enhance user loyalty. For example, upon smartphone launch the [MyTSA](https://digitalgov.sites.usa.gov/2012/02/22/my-tsa-mobile-app/ "My TSA Mobile App") app displays local airport delays and security line times in real time. This action personalizes the user experience and let&#8217;s them know there is a place to find this information quickly when they need it in the future.
+Federal agencies who are thinking [mobile first](https://digital.gov/2013/09/30/mobile-first/ "Mobile First") should consider strategies that create personalized experiences or enhance user loyalty. For example, upon smartphone launch the [MyTSA](https://digital.gov/2012/02/22/my-tsa-mobile-app/ "My TSA Mobile App") app displays local airport delays and security line times in real time. This action personalizes the user experience and let&#8217;s them know there is a place to find this information quickly when they need it in the future.
 
  
 

@@ -29,12 +29,12 @@ Several recent policies support this shift by requiring federal agencies to publ
 Structured content gives you granular control over your information, so you can &#8220;**C**reate **O**nce, **P**ublish **E**verywhere,&#8221; instead of re-creating content for different platforms. Read about the [COPE: Create Once, Publish Everywhere](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) method from National Public Radio.
 
 <p style="text-align: center">
-  <a href="https://digitalgov.sites.usa.gov/2013/12/12/how-to-create-open-structured-content/structured-content-cope-strategy-graphic/" rel="attachment wp-att-97582">{{< legacy-img src="2013/12/structured-content-cope-strategy-graphic.jpg" alt="Diagram showing how content can be repurposed for multiple platforms" >}}</a>
+  <a href="https://digital.gov/2013/12/12/how-to-create-open-structured-content/structured-content-cope-strategy-graphic/" rel="attachment wp-att-97582">{{< legacy-img src="2013/12/structured-content-cope-strategy-graphic.jpg" alt="Diagram showing how content can be repurposed for multiple platforms" >}}</a>
 </p>
 
 **Share and Re-Use Content via RSS and APIs**
 
-Structured content enables others to aggregate and reuse information via Really Simple Syndication (RSS) feeds, which automatically publish frequently changing information, and [Application Programming Interfaces (APIs)](https://digitalgov.sites.usa.gov/2012/07/26/introduction-to-apis/ "Introduction to APIs"), which enable websites, programs, and devices to interact with one another. RSS and APIs are great ways to share information, because they can automate many tasks and automatically present the latest information, even combining information from several sources. But you can’t use these technologies without structured content.
+Structured content enables others to aggregate and reuse information via Really Simple Syndication (RSS) feeds, which automatically publish frequently changing information, and [Application Programming Interfaces (APIs)](https://digital.gov/2012/07/26/introduction-to-apis/ "Introduction to APIs"), which enable websites, programs, and devices to interact with one another. RSS and APIs are great ways to share information, because they can automate many tasks and automatically present the latest information, even combining information from several sources. But you can’t use these technologies without structured content.
 
 As an example, if you publish information about an event as structured content, the same event information could be displayed as part of a calendar of events, or published via a news feed, or aggregated with other related events via an API. A short description of the event could display on mobile devices, and a longer description could display on a PC. The possibilities are endless.
 
