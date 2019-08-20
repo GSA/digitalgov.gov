@@ -5,12 +5,13 @@ deck: 'We help the government community deliver better digital services.'
 summary: 'Welcome to DigitalGov. Learn more about what we&#39;re working on'
 aliases:
   - /contact-us/
+
 ---
 
 
 Our mission is to transform how government learns, builds, delivers, and measures digital services in the 21st century.
 
-And we do that by providing people in the federal government with the tools, methods, practices and policy guidance they need to deliver effective and accessible digital services.
+And we do that by providing people in the federal government with the tools, methods, practices, and policy guidance they need to deliver effective and accessible digital services.
 
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
@@ -73,10 +74,9 @@ We are a cross-functional team of writers, editors, strategists, technologists, 
 **U.S. Web Design System:** Dan Wiliams, Sara Cope<br/>
 
 
-
 ## Contact Us
 
-For all media inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
+For all media or speaker inquiries, please [email GSA’s Office of Strategic Communication](mailto:press@gsa.gov) (OSC).
 
 **Have a question or comment?**
 

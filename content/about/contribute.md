@@ -4,6 +4,7 @@ date: 2019-07-10 4:00:00 -0500
 title: Contribute to Digital.gov
 deck: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
 summary: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
+type: guide
 aliases:
   - /join-digitalgov/
   - /about/join/
@@ -24,6 +25,7 @@ We regularly accept articles, blog posts, events, resources, tools, and other co
 {{< hs-form-contribute >}}
 
 ## Submission Considerations
+
 Just a few quick notes to consider before submitting your contribution request:
 
 - **Your Organization** — We cannot accept promotional content or pitches from vendors. If content is about programs at your agency, you must have it reviewed and approved by your agency’s communications team before submitting.
@@ -33,15 +35,14 @@ Just a few quick notes to consider before submitting your contribution request:
 - **Visuals/Media** — Photos, screenshots, charts, and other visuals help engage the reader and keep them interested in your content. If you have visuals that we can include, please try to identify the highest resolution of the file possible (i.e., usually anything 150 dpi or greater works best) and we can work with you to adjust the image to an appropriate format and file size. Alternative text also must be provided for accessibility tools like screen readers.
 - **Timing** — We generally try to post content within two weeks of your submission. Events are most successful when we post them four weeks out from the event date. So we ask that you take this into account before submitting an event. Videos from events are usually posted within a week after an event once closed captioning and other supporting information is available.
 
----
-
-## What our readers need
+## What Our Readers Need
 
 <div class="deck">Through our user research, we have found that there are three things product managers in government need to be successful in their work.</div>
 
+### Tools and Resources
 
-#### Tools and Resources
 This information is crucial to modernizing services and much of it is government-specific, dealing with the various rules, regulations and policies.
+
 Access to the right tools and resources will help them confidently take steps toward working smarter, iterating more frequently and delivering better, more effective services to the public.
 
 **Some examples**
@@ -50,10 +51,10 @@ Access to the right tools and resources will help them confidently take steps to
 - [A template for a much needed, common document]({{< ref "digital-governance-policies.md" >}})
 - [A link to a helpful guide that your agency relies upon](https://accessibility.18f.gov/)
 
-
 ### Examples of problems being solved in government
 
-Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices.
+Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices. 
+
 They want more information that is specific to government — examples of what agencies are doing; case studies; collections of validated federal-wide news that has an impact on digital in one spot.
 
 **Some examples**
@@ -73,35 +74,10 @@ People are interested in participating in spaces where they can more seamlessly 
 - Get in touch with us about hosting an event by filling out the form above
 - [Subscribe to our newsletter]({{< ref "/about/subscribe.md" >}})
 
----
-
 This guidance stems from qualitative user research we conducted with over nearly two dozen federal members of our audience — content managers, designers, developers, innovation leaders — who are involved with all aspects of agencies’ digital services.
 
-As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart:
+As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart: 
 
 ---
-
-## Virtual Student Federal Service — #ApplyInJuly to Be an Intern for the Innovation Portfolio
-
-Are you a U.S. college student looking for a way to make a real difference in the work of your government, while also gaining job experience and connections?
-
-Through the [Virtual Student Federal Service (VSFS) program](https://vsfs.state.gov/), students can work on projects that advance the work of government on multiple fronts. Tech-related projects include developing virtual programs, engaging in digital communications, data analysis, graphic design, and building apps.
-
-U.S. students **apply** to their top three VSFS projects from **July 1** to **July 31** on [USAJOBS.gov](https://www.usajobs.gov/). VSFS supervisors will review applications between August 1 and August 31 and may contact VSFS candidates for a virtual interview. As part of the interview, candidates may be asked to show examples of their expertise and work. All candidates will hear by **early September 2019** if they have been offered a position.
-
-Selected interns work on their projects for 10 hours each week, from September 2019 through May 2020. Some interns work with their academic institutions to receive course credit for their VSFS participation.
-
-Our Innovation Portfolio is looking to select five virtual interns for the following three positions:
-
-**Project Title**: [Design the future of the U.S. Web Design System (USWDS)](https://vsfs.state.gov/projects/view/2412) <br />**Number of interns**: 2 <br />**Project Summary**: Support USWDS by improving documentation for developers and designers, developing new USWDS components, or (if you've got the JavaScript skills) helping understand how the future of USWDS could work with web components and CSS custom properties. Let's build something great!
-
-**Project Title**: [CitizenScience.gov Website Developer](https://vsfs.state.gov/projects/view/2475)  <br />**Number of interns**: 1  <br />Project Summary: Help accelerate innovation across the U.S. government working with the CitizenScience.gov Program. We need your help to refine functional elements of our website to better serve the federal workforce, our partners, and the public.
-
-**Project Title**: [Citizen Science Communicator](https://vsfs.state.gov/projects/view/2474) <br />**Number of interns**: 2 <br />**Project Summary**: Help accelerate innovation across the U.S. government working with the CitizenScience.gov Program. We need your ideas on how to communicate about the impact of the public participating voluntarily in the scientific process to addressing real-world issues.
-
-**Additional information:**
-
- - [How to Apply to VSFS Projects](https://vsfs.state.gov/how-to-apply)
- - [VSFS Frequently Asked Questions](https://vsfs.state.gov/faq)
 
 _Digital.gov is part of the Innovation Portfolio of the [Office of Products and Programs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs), which is part of the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov/) (GSA)._

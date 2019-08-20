@@ -7,7 +7,7 @@ featured_image:
   uid:
   alt: ''
 event_type:
-  - youtube-live
+  - Zoom
 date: 2019-09-25 13:00:00 -0500
 end_date: 2019-09-25 14:00:00 -0500
 event_organizer: DigitalGov University

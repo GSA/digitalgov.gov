@@ -61,6 +61,7 @@ As a participant, you’re free to choose the talk that interests you the most o
 9:15-10:00:
 
   - Methods: **Raising the Design Voice in Government: A Case Study**, Kristal Byrd (GSA)
+    - [View the slides](https://digital.gov/pdf/Slides-Methods1-Byrd-Raising-Design-Voice.pdf) (PDF, 5.95 MB, 52 pages)
   - Management: **Lessons from Building Remote-First, Cross-Functional Teams**, panel led by Amy Ashida (GSA)
     - [Watch the video](https://www.youtube.com/watch?v=daMZo4WZ0Hg)
     - [Read the transcript](https://digital.gov/pdf/Management1-Panel-Remote-Teams.pdf) (PDF, 58 KB, 7 pages)
@@ -76,6 +77,7 @@ As a participant, you’re free to choose the talk that interests you the most o
   - Methods: **Accessible Experience First: The Key to Integrating UX in the Agile Process Under Budget and with Whole-Team Support**, Arva Adams (USPTO)
     - [Watch the video](https://www.youtube.com/watch?v=cbTQ7C3ry-E)
     - [Read the transcript](https://digital.gov/pdf/Methods2-Adams-Accessible-Experience-First.pdf) (PDF, 89 KB, 12 pages)
+    - [View the slides](https://digital.gov/pdf/Slides-Methods2-Adams-Accessible-Experience-First.pdf) (PDF, 4.22 MB, 19 pages)
   - Management: **Teaching Digital Skills: Learning Usability Testing by Peer Training**, Maroya Faied and Shannon McHarg (ONRR)
     - [Watch the video](https://www.youtube.com/watch?v=nobgPaAYkgU)
     - [Read the transcript](https://digital.gov/pdf/Management2-Faied-McHarg-Digital-Skills.pdf) (PDF, 69 KB, 11 pages)

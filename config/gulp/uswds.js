@@ -12,19 +12,18 @@ USWDS SASS GULPFILE
 */
 
 var autoprefixer  = require('autoprefixer');
-// var autoprefixerOptions = require('./node_modules/uswds-gulp/config/browsers');
+var autoprefixerOptions = require('../../node_modules/uswds-gulp/config/browsers');
 var cssnano       = require('cssnano');
 var gulp          = require('gulp');
 var mqpacker      = require('css-mqpacker');
-var notify        = require('gulp-notify');
 var path          = require('path');
-var pkg           = require('../../package.json');
+var pkg           = require('../../node_modules/uswds/package.json');
 var postcss       = require('gulp-postcss');
 var rename        = require('gulp-rename');
 var replace       = require('gulp-replace');
 var sass          = require('gulp-sass');
 var sourcemaps    = require('gulp-sourcemaps');
-var uswds         = require('../uswds');
+var uswds         = require('../../node_modules/uswds-gulp/config/uswds');
 
 /*
 ----------------------------------------
@@ -38,16 +37,16 @@ PATHS
 */
 
 // Project Sass source directory
-const PROJECT_SASS_SRC = './themes/digital.gov/src/uswds';
+const PROJECT_SASS_SRC = './themes/digital.gov/src/scss';
 
 // Images destination
-const IMG_DEST = './themes/digital.gov/static/lib/uswds';
+const IMG_DEST = './themes/digital.gov/static/uswds/img';
 
 // Fonts destination
-const FONTS_DEST = './themes/digital.gov/static/fonts';
+const FONTS_DEST = './themes/digital.gov/static/uswds/fonts';
 
 // Javascript destination
-const JS_DEST = './themes/digital.gov/static/dist';
+const JS_DEST = './themes/digital.gov/static/uswds/js';
 
 // Compiled CSS destination
 const CSS_DEST = './themes/digital.gov/static/dist';
@@ -106,7 +105,7 @@ gulp.task('build-sass', function(done) {
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest(`${CSS_DEST}`))
     .pipe(notify({
-      // "sound": "Pop" // case sensitive
+      "sound": "Pop" // case sensitive
     }));
 });
 
@@ -117,11 +116,3 @@ gulp.task('init', gulp.series(
   'copy-uswds-js',
   'build-sass',
 ));
-
-// gulp.task('watch-sass', function () {
-//   gulp.watch(`${PROJECT_SASS_SRC}/**/*.scss`, gulp.series('build-sass'));
-// });
-//
-// gulp.task('watch', gulp.series('build-sass', 'watch-sass'));
-//
-// gulp.task('default', gulp.series('watch'));

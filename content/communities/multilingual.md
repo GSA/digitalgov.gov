@@ -32,17 +32,15 @@ We are a group of federal, state and local government content managers, formerly
 
 ## Join
 
-[Fill out this form](https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ) to subscribe to our listserv or send an email to group Chair, [Laura Godfrey](mailto:laura.godfrey@gsa.gov).
-
 Join us if you are a government employee working for a federal, state or local U.S. government agency or a contractor with a government email address working on government digital content.
+
+[Fill out this form](https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ) to subscribe to our listserv. If your agency blocks the use of Google forms, send an email to group Manager, [Laura Godfrey](mailto:laura.godfrey@gsa.gov).
 
 ## Who we are
 
 We work to support Executive Order 13166, “[Improving Access to Services for People with Limited English Proficiency](http://www.justice.gov/crt/about/cor/Pubs/eolep.pdf)” (PDF, 255 KB, 6 pages, August 2000). Our primary purpose is to meet the growing demand for government information and services in other languages and to share ideas, challenges and best practices for managing multilingual content and websites.
 
 We [collect research]({{< ref "2014-07-01-multilingual-digital-content.md" >}}), and develop and curate tools and best practices. We also meet several times a year and maintain an active listserv.
-
-
 
 ## We work on three main areas:
 

@@ -16,15 +16,11 @@ This page is a collection of style guides created by government agencies.  You c
 
 ---
 
-#### Plain Language
-
-- [plainlanguage.gov](https://plainlanguage.gov/)
-
-#### 18F
+**18F**
 
 - [Content Guide](https://content-guide.18f.gov/)
 
-#### Centers for Disease Control and Prevention (CDC)
+**Centers for Disease Control and Prevention (CDC)**
 
 - [CDC Guide to Writing for Social Media](https://www.cdc.gov/socialmedia/tools/guidelines/guideforwriting.html) (PDF, 1.6 MB, 60 pgs)
 - [CDC Social Media Tools, Guidelines & Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/)
@@ -36,49 +32,56 @@ This page is a collection of style guides created by government agencies.  You c
 - [The Health Communicator’s Social Media Toolkit](https://www.cdc.gov/socialmedia/tools/guidelines/socialmediatoolkit.html) (PDF, 2.5 MB, 59 pgs)
 - [Twitter Guidelines & Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/twitter.html)
 
-#### Central Intelligence Agency (CIA)
+**Central Intelligence Agency (CIA)**
 
 - [Directorate of Intelligence’s Style Manual & Writers Guide for Intelligence Publications, 8th edition, 2011](https://www.scribd.com/doc/233259974/Directorate-of-Intelligence-Style-Manual-Writers-Guide-for-Intelligence-Publications-Eighth-Edition-2011)
 
-#### Congressional Budget Office (CBO)
+**Congressional Budget Office (CBO)**
 
 - [A Guide to Style and Usage](http://www.cbo.gov/sites/default/files/cbofiles/attachments/44975-StyleGuide.pdf) (PDF, 1.8 MB, 100 pgs)
 
-#### Consumer Financial Protection Bureau (CFPB)
+**Consumer Financial Protection Bureau (CFPB)**
 
 - [CFPB&#8217;s Glossary of English-Spanish Financial Terms](https://s3.amazonaws.com/files.consumerfinance.gov/f/201510_cfpb_spanish-style-guide-glossary.pdf) (PDF, 132 KB, 20 pgs)
 
-#### National Archives and Records Administration (NARA)
+**National Archives and Records Administration (NARA)**
 
 - [NARA Style Guide](https://www.archives.gov/files/open/plain-writing/style-guide.pdf) (PDF, 428 KB, 63 pgs)
 
-#### Social Security Administration (SSA)
+**Plain Language**
 
-- [Program Operational Manual for Notice Standards](https://secure.ssa.gov/apps10/poms.nsf/lnx/0900610000)
+- [PlainLanguage.gov](https://plainlanguage.gov/)
 
-#### U.S. Department of Health and Human Services (HHS)
+**U.S. Department of Health and Human Services (HHS)**
 
 - [Administration for Children & Families Editorial Style Guide](https://www.acf.hhs.gov/digital-toolbox/content/editorial-style-guide)
 - [HealthCare.gov Styleguide](https://styleguide.healthcare.gov/)
 - [HHS.gov Style Guide](https://www.hhs.gov/web/policies-and-standards/style-guide/) [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (PDF, 285 KB, 4 pgs)
 - [HHS Web Style Guide](https://www.hhs.gov/web/policies-and-standards/web-style-guide/)
 
+**U.S. Department of Veterans Affairs (VA)**
 
-#### U.S. Energy Information Administration (EIA)
+- [VA.gov Content Style Guide](https://design.va.gov/content-style-guide/)
+
+**U.S. Energy Information Administration (EIA)**
 
 - [EIA Writing Style Guide](https://www.eia.gov/about/eiawritingstyleguide.pdf) (PDF, 1.3 MB, 139 pgs)
 
-#### U.S. Environmental Protection Agency (EPA)
+**U.S. Environmental Protection Agency (EPA)**
 
 - [EPA Communications Style Book](https://www.epa.gov/stylebook)
 
-#### U.S. General Services Administration (GSA)
+**U.S. General Services Administration (GSA)**
 
 - [USAGov Bilingual Style Guide: Table of Contents](https://www.usa.gov/style-guide/table-of-contents)
 
-#### U.S. Government Publishing Office (GPO)
+**U.S. Government Publishing Office (GPO)**
 
 - [U.S. Government Publishing Office Style Manual](https://www.gpo.gov/fdsys/search/pagedetails.action?collectionCode=GPO&granuleId=&packageId=GPO-STYLEMANUAL-2016)
+
+**U.S. Social Security Administration (SSA)**
+
+- [Program Operational Manual for Notice Standards](https://secure.ssa.gov/apps10/poms.nsf/lnx/0900610000)
 
 * * *
 

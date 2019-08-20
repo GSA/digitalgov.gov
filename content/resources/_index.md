@@ -1,5 +1,5 @@
 ---
-slug: 
+slug:
 date: 2013-11-17 11:13:13 -0400
 title: "Guides and Resources"
 summary: 'Common resources for people working in Digital government.'
@@ -13,6 +13,7 @@ aliases:
 ## Getting Started
 - [**OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies**]({{< ref "omb-memos-circulars-executive-orders-and-other-policies.md" >}})
 - [**Checklist of Requirements for Federal Digital Services**]({{< ref "checklist-of-requirements-for-federal-digital-services.md" >}})
+- [**Required Web Content and Links**]({{< ref "resources/required-web-content-and-links.md" >}})
 
 ## Accessibility
 
