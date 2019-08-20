@@ -1,5 +1,5 @@
 ---
-slug: prototyping-engagement-workshops-for-future-federal-data-dashboards-storytelling
+slug: prototyping-engagement-workshops
 date: 2019-08-21 18:06:00 -0500
 title: "Prototyping Engagement Workshops for the Future of Federal Data, Dashboards, and Storytelling"
 deck: ""
