@@ -33,12 +33,12 @@ Paul Lester is a digital content specialist in the Department of Energy’s Offi
 
 He moved to Washington in 2008 for a web editor role with [The Guardian](http://www.theguardian.com/us) before working as a contractor for the [Wind](https://www.energy.gov/node/779761) and [Water](https://www.energy.gov/node/779756) Technologies Office, the [Small Business Administration](https://www.sba.gov/), and DOE’s [Office of Energy Efficiency and Renewable Energy](https://www.energy.gov/eere/office-energy-efficiency-renewable-energy). Paul joined the Energy.gov team in March 2015, contributing to [Energy Blog](https://www.energy.gov/blog-archive) and assisting with managing the Energy Department’s [social media channels](https://www.energy.gov/about-us/web-policies/social-media). When he’s not in the office, Paul can be seen slowly running around D.C. training for his next half marathon.
 
----
+_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
 
 This SocialGov Talk is hosted by [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media Community of Practice (CoP). SocialGov has over 1,200 members from 90+ departments and agencies across the federal government. 
 
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
-This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
-  
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+--- 
+
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._ 
