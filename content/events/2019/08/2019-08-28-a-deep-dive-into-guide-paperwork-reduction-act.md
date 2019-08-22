@@ -24,6 +24,10 @@ The PRA Guide is a product of [10x](https://10x.gsa.gov/), a new and innovative 
 
 In this talk, we’ll cover how the PRA guide came about and explore the methods that the team used to break down the complexity around this complicated requirement and get a product launched in just a few months. We’ll also be taking questions.
 
-We’ll also talk with the team from OIRA about how they arrived at the idea to submit a pitch to 10x in the first place, and what new things they’ve learned about building a product from the ground up.
+We’ll also talk with the team from OIRA about how they arrived at the idea to submit a pitch to 10x in the first place, and what new things they’ve learned about building a product from the ground up. 
 
-*This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.*
+_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
+
+--- 
+
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._ 
