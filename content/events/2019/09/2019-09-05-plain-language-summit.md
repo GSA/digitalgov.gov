@@ -35,10 +35,10 @@ tag:
   - training
   - user experience
   - ux
+
 ---
 
 {{< img src="card-plain-language-summit-2019" >}}
-
 
 **On Thursday, September 5th, 2019**, the federal Plain Language community will bring together some of the brightest individuals involved in government communications for a one-day series of talks and conversations on how to advance plain language in government communications.
 
@@ -51,8 +51,6 @@ We believe the public deserves plain language communication from its government,
 - Plain language gets your message across in the shortest time possible.
 - More people are able to understand your message.
 - There is less chance that your document will be misunderstood, so you spend less time explaining it to people. And if your document gives instructions, your readers are more likely to understand them and follow them correctly.
-
-
 
 ## Our Plain Agenda
 
@@ -78,15 +76,20 @@ We believe the public deserves plain language communication from its government,
 Planning on attending? Let others know and use our hashtag `#PlainSummit2019`! [Here's what people are saying on Twitter](https://twitter.com/hashtag/PlainSummit2019) or follow [@govplainlang on twitter](https://twitter.com/govplainlang).
 {{< /box >}}
 
-_This event will be live streamed on Zoom. Link will be provided to registrants in advance of the event._
-
-## About plainlanguage.gov
+## About PlainLanguage.gov
 
 The Plain Language Action and Information Network (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing.
 
-- Visit [plainlanguage.gov](https://www.plainlanguage.gov/)
+- Visit [PlainLanguage.gov](https://www.plainlanguage.gov/)
 - Join the [community](https://digital.gov/communities/plain-language/)
-- Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
-
+- Follow [@GovPlainLang on Twitter](https://twitter.com/govplainlang)
 
 **NOTE:** In-person tickets are limited and going quickly, so sign-up fast!
+
+_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
+
+Our team will send a reminder email prior to the event that includes your link to join the video. 
+
+--- 
+
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._ 
