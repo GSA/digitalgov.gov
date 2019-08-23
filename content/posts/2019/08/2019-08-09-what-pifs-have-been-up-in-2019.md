@@ -108,6 +108,8 @@ Nevin facilitated the establishment of the [U.S. Department of State](https://ww
 **NELSON A. COLÓN VARGAS** 
 At the VA, Nelson is working on a system that uses machine learning and natural language processing to automate the initial classification of benefit claim forms, saving millions of dollars and cutting wait time by five to seven days. 
 
+**JOY WHITT**: At the VA, Joy is working with the [U.S. Digital Service](https://www.usds.gov) (USDS) team to track and improve va.gov analytics for veteran’s services. 
+
 **STEPHEN WINCHELL** 
 At the [Intelligence Advanced Research Projects Activity](https://www.iarpa.gov/) (IARPA), Stephen works on creating and managing new high-risk, high-payoff research programs in support of [U.S. Intelligence Community](https://www.odni.gov/index.php/what-we-do/members-of-the-ic) (IC) goals. 
 
