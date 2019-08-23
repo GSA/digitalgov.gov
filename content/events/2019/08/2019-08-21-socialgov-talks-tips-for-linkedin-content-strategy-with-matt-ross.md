@@ -12,12 +12,9 @@ end_date: 2019-08-21 15:00:00 -0500
 event_organizer: Digitalgov University
 host: Socialgov CoP
 registration_url: https://www.eventbrite.com/e/socialgov-talks-tips-for-linkedin-content-strategy-with-matt-ross-registration-66485015471
+youtube_id: bSVMF4MzGyc
 
 ---
-
-{{< img src="socialgov-linkedin-2" >}}
-
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4114349&CustomerID=321)_
 
 Does your agency’s LinkedIn content strategy need an update? Have you been successful in gaining followers? Hear some tips and best practices from Matt Ross, of LinkedIn’s Marketing Solutions Government & Advocacy team, on how to improve your agency’s use of content to maximize engagement with your core audience.
 
