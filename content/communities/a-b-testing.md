@@ -15,13 +15,8 @@ To participate in this community of practice, email Kelley Holden [kelley.holden
 To participate in this community of practice,
 
 **Community Managers:**
-Kelley Holden ([kelley.holden@cfpb.gov](mailto:kelley.holden@cfpb.gov))
-Consumer Financial Bureau Bureau | Washington, DC
-Lead of the CFPB Digital Analytics team | GH @KelleyHolden
-
-Jennifer (Jenn) Wingerberg ([jennifer.wingerberg@cfpb.gov](mailto:jennifer.wingerberg@cfpb.gov))
-Consumer Financial Protection Bureau | Washington, DC
-Web Analytics Specialists on the CFPB Digital Analytics team
+- [Kelley Holden](mailto:kelley.holden@cfpb.gov) / Consumer Financial Bureau Bureau — Lead of the CFPB Digital Analytics team
+- [Jennifer (Jenn) Wingerberg](mailto:jennifer.wingerberg@cfpb.gov)) / Consumer Financial Protection Bureau — Web Analytics Specialists on the CFPB Digital Analytics team
 
 
 ## Who we are
