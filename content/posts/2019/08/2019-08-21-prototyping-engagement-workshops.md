@@ -27,13 +27,12 @@ _User-centered design is critical for employee engagement—from the front lines
 
 As digital transformation leaders in the federal government, our work reaches across every federal agency. Visualizing the impact of this foundational work can be daunting. How might we prepare our federal leaders with the tools, skills, and mindset to design more useful dashboards that tell a story? How can we use our creativity to explore new visuals to make the complex more simple? What role does storytelling and  project-based learning have to usher new policy forward and facilitate change in a smart and more effective way?
 
-[[ IMAGE OF people in chairs holding up signs ]]
+{{< img src="pif-prototyping-engagement-01" >}}
 
 
 In July 2019, we explored these questions and prototyped solutions along with 14 federal agencies in an interactive workshop on data storytelling ([see the agenda](https://digital.gov/event/2019/07/09/data-storytelling-with-presidential-innovation-fellows/)). The federal call for open data means that very soon the American public will be involved in the civic tech process in new and engaging ways. Similarly, federal agencies are eager to visualize evidence-based data in dynamic ways that tell stories and inspire both employees and external audiences.
 
-[[ diptych ]]
-
+{{< img src="pif-prototyping-engagement" >}}
 
 In this two-hour workshop, our [Technology Transformation Services](https://www.gsa.gov/tts) (TTS) team collaborated to introduce new tools, skills, and mindsets that will enable the federal workforce to better harness the power of data to make decisions and communicate more clearly with citizen customers.
 
@@ -43,8 +42,7 @@ From our best practices tutorial, we transitioned into a deeper exploration on h
 
 As a specific example of research and development in progress, we shared learnings from a Storybank that the [Presidential Innovation Fellowship Program](https://presidentialinnovationfellows.gov/) has been prototyping together with 18F Designer, Amy Ashida. The Storybank demonstrates the value of innovation by collecting stories, designing more relevant reporting metrics, and visualizations. Each week, beginning in April 2019, Presidential Innovation Fellows, answered questions via a form in Airtable. Tracking this weekly narrative has helped our fellows capture internal learnings about their work. Similar to a weekly diary, the learnings are giving us better insight into some of the advances, blockers, and collaborations happening across 24 agencies.
 
-[[ doodle ]]
-
+{{< img src="pif-prototyping-engagement-03" >}}
 
 ### Our three core workshop takeaways include the following points:
 
@@ -60,9 +58,3 @@ We have learned that federal learning programs are more often associated with co
 
 
 Building on these core takeaways, we’ll host another workshop in October 2019, where we will feature Rob Dimeo, visual facilitator and Director of the [National Institute of Standards and Technology](https://www.nist.gov/) (NIST) [Center for Neutron Research](https://www.nist.gov/ncnr) (NCNR). Check out his post on NIST’s TAking Measure blog, [My Visual Crutch for Communicating Science](https://www.nist.gov/blogs/taking-measure/my-visual-crutch-communicating-science-0), and [sign up for the DigitalGov newsletter](https://digital.gov/about/subscribe/) to be informed of the exact date. Stay tuned for a future workshop on Artificial Intelligence and Storytelling.
-
-{{< img src="pif-prototyping-engagement" >}}
-
-{{< img src="pif-prototyping-engagement-2" >}}
-
-{{< img src="pif-prototyping-engagement-3" >}}
