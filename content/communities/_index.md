@@ -20,8 +20,8 @@ There are more than 10,000 people participating across government in 22 areas. O
 
 ### Our Communities
 
-**[A/B Testing ]({{< link "a/b-testing.md" >}})**: Using analytics-driven A/B testing practices to validate whether suggested modifications to a digital touchpoint provide optimal benefits for the business and its users.<br/>
-[Learn&nbsp;more&nbsp;»]({{< a/b-testing.md" >}})
+**[A/B Testing ]({{< link "a-b-testing.md" >}})**: Using analytics-driven A/B testing practices to validate whether suggested modifications to a digital touchpoint provide optimal benefits for the business and its users.<br/>
+[Learn&nbsp;more&nbsp;»]({{< a-b-testing.md" >}})
 
 **[Accessibility]({{< link "accessibility.md" >}})**: The IT Accessibility Community supports people in government who working to improve accessibility of information technology.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "accessibility.md" >}})
