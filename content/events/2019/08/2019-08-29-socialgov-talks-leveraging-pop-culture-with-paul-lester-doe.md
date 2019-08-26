@@ -12,6 +12,7 @@ end_date: 2019-08-29 14:00:00 -0500
 event_organizer: DigitalGov University
 host: Socialgov 
 registration_url: https://www.eventbrite.com/e/socialgov-talks-leveraging-pop-culture-with-paul-lester-of-the-doe-registration-66348428937
+draft: true
 
 ---
 
