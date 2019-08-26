@@ -40,6 +40,8 @@ tag:
 
 {{< img src="card-plain-language-summit-2019" >}}
 
+_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4135103&CustomerID=321)_
+
 **On Thursday, September 5th, 2019**, the federal Plain Language community will bring together some of the brightest individuals involved in government communications for a one-day series of talks and conversations on how to advance plain language in government communications.
 
 Do you work in government communications? Gather your team and join us in-person or online to learn about the importance of plain language and methods for implementing it, and learn from fellow communicators from across the federal government.
