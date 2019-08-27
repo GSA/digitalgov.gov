@@ -117,14 +117,6 @@ termsofservice:
     updated       :
     status        :
 
-  - name          : Dipity
-    url           : http://www.dipity.com/
-    description   : Multimedia timelines
-    uri           : '2014/07/dippity-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
-    status        :
-
   - name          : Eventbrite
     url           : http://www.eventbrite.com/
     description   : Event Management tool
@@ -203,7 +195,7 @@ termsofservice:
     uri           : '2014/07/google-plus-tos-amendment.pdf'
     type          : pdf
     updated       : 2014-07
-    status        :
+    status        : inactive
 
   - name          : Google Visualization
     url           : https://developers.google.com/chart/
