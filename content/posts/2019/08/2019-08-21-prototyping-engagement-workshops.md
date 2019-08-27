@@ -5,6 +5,8 @@ title: "Prototyping Engagement Workshops for the Future of Federal Data, Dashboa
 deck: "User-centered design is critical for employee engagement, from the front lines to C-suite."
 summary: "User-centered design is critical for meetings—from the front lines to C-suite&#46; How might we host more hands-on learning sessions and experience exchanges to improve and customize the way the federal workforce communicates to diverse stakeholders&#63;"
 authors:
+  - davar-ardalan
+  - nina-bianchi
   - maria-dayton
 categories:
   - managing-digital
@@ -18,7 +20,7 @@ tag:
   - presidential-innovation-fellows
 
 featured_image:
-  uid:
+  uid: pif-prototyping-engagement-01
   alt: ''
 ---
 
