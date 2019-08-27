@@ -2,10 +2,10 @@
 slug: quantifying-value-innovation
 title: 'Quantifying the Value of Innovation'
 summary: 'We know that the value of &quot;innovation&quot; can be difficult to communicate&#46; How might we better tell the story of our work&#63; Join our webinar to learn more about data storytelling, tagging text and quantifying the value of innovation&#46; '
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
+event_type:
   - Zoom
 date: 2019-09-03 13:00:00 -0500
 end_date: 2019-09-03 14:00:00 -0500
@@ -33,7 +33,7 @@ We began the PIF Storybank in April 2019 as a prototype. Each week, PIFs answer 
 
 We now have 135 entries from 25 PIFs. We know what percentage of PIFs are working on AI, autonomous vehicles, communications, cross-agency collaboration, data accountability, data science, data transparency, public-private collaborations, human-centered design, investment, twenty-first-century workforce, product management, and tech infrastructure. We know that 18 PIFs have worked on AI projects across 16 agencies. We also know what blockers have arisen.
 
-Join our webinar to learn more about data storytelling, tagging text, and quantifying the value of innovation. 
+Join our webinar to learn more about data storytelling, tagging text, and quantifying the value of innovation.
 
 This talk is hosted by the [Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/) and [18F](https://www.18f.gov/). 
 
@@ -41,6 +41,10 @@ Our team will send a reminder email prior to the event that includes your link t
 
 _Questions about this event or future events?_ Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
 
---- 
+---
 
-_This event will be held over [Zoom](https://www.zoom.us/) &#40;see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)&#41;. You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._ 
+_This event will be held over [Zoom](https://www.zoom.us/) &#40;see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)&#41;. You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._
+
+---
+
+_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
