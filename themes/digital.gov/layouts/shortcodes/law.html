@@ -1,0 +1,8 @@
+<div class="box box-law">
+  <div class="law-head">
+    <span class="icon"><i class="fas fa-gavel"></i></span> <a href="{{ .Get "src" }}" title="View {{ .Get "name" }}">{{ .Get "name" }}</a>
+  </div>
+  <div class="law-body">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

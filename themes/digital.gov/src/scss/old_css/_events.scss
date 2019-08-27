@@ -270,6 +270,33 @@
 	}
 
 }
+.box-law{
+	@include u-padding(0);
+	@include u-padding-bottom(2);
+	@include u-bg('gold-5');
+	@include u-font('serif', '2xs');
+	.law-head{
+		@include u-padding-y(1);
+		@include u-padding-x(1);
+		@include u-margin-bottom('105');
+		@include u-bg('gold-10');
+		@include u-border-bottom('1px', 'base-lighter', 'solid');
+		@include u-font('sans', 'sm');
+		@include u-text('italic');
+		@include u-text('normal');
+		a{
+			@include u-text('black');
+			@include u-text('underline');
+		}
+	}
+	.law-body{
+		@include u-padding-y(1);
+		@include u-padding-x(3);
+	}
+	p, ul, li {
+		@include u-margin-bottom(1);
+	}
+}
 .note{
 	margin-bottom: 20px;
 	padding: 1em;
