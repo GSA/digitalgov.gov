@@ -1,8 +1,14 @@
 <div class="box box-law">
   <div class="law-head">
-    <span class="icon"><i class="fas fa-gavel"></i></span> <a href="{{ .Get "src" }}" title="View {{ .Get "name" }}">{{ .Get "name" }}</a>
+    <a class="scroll" href="{{- .Get "src" -}}" title="View {{- .Get "name" -}}">
+      <i class="fas fa-scroll"></i>
+    </a>
+    <a class="src" href="{{- .Get "src" -}}" title="View {{- .Get "name" -}}"><span>{{- .Get "name" | markdownify -}}</span></a>
+    </a>
   </div>
+  {{- if .Inner -}}
   <div class="law-body">
-    {{ .Inner | markdownify }}
+    {{- .Inner | markdownify -}}
   </div>
+  {{- end -}}
 </div>
