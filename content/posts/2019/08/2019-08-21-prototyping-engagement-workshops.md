@@ -17,6 +17,8 @@ tag:
   - policy
   - workforce
   - pif
+  - artificial-intelligence
+  - data
   - presidential-innovation-fellows
 
 featured_image:
