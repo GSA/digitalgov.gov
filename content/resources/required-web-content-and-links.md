@@ -5,19 +5,19 @@ deck: "A list of required links that all federal websites need to have"
 summary: "A list of required links that all federal websites need to have"
 authors:
   - ndavidson
-type: guide
 
 ---
 
-If you manage a public website in the federal executive branch, it&#8217;s a [requirement]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}} "Checklist of Requirements for Federal Websites and Digital Services") to have certain content&mdash;or provide links to content&mdash;from various places on your website. _See the ["Checklist of Requirements for Federal Websites and Digital Services" »]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})_
+If you manage a public website in the federal executive branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on "your agency’s principal website and on any known sub-agency or other major entry points to their site".
 
-{{< law src="12121" name="M-17-06: Policies for Federal Agency Public Websites and Digital Services" >}}
+Here is the law:
 
+{{< law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" name="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
 
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
 
-At a minimum, agencies must post links to the following information on the agency’s principal website and on any known sub-agency or other major entry points to their site:
+At a minimum, {{< highlight >}}agencies must post links to the following information on the agency’s principal website and on any known sub-agency or other major entry points to their site{{< /highlight >}}:
 
 - **A.** USA.gov;
 - **B.** the website’s privacy policy;
@@ -27,17 +27,38 @@ At a minimum, agencies must post links to the following information on the agenc
 	2. the agency’s Privacy Program Page;
 	3. the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
 	4. the agency’s Open Government Page;
-	5. the agency’s Plain Writing Page;37
-	6. information as required under the No Fear Act of 2002;38 and
+	5. the agency’s Plain Writing Page;
+	6. information as required under the No Fear Act of 2002;
 	7. information associated with the agency’s implementation of the Information Quality Act.
 
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.
+For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /law >}}
 
-{{< /law >}}
+---
+
+## How to implement
+
+The following is a list of requirements, and the text that needs to be used for each.
+
+- See the [**U.S. Web Design System Footer** component »](https://designsystem.digital.gov/components/footer/)
 
 
+## USA.gov
 
-Here’s a list of the requirements, and the text that needs to be used for each.
+{{< box >}}
+##### Required link text:
+`USA.gov`
+
+##### Required on:
+- Your principal website
+- Any known sub-agency site
+- Any known major entry points to your sites
+
+##### Required by:
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
+- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
+- [E-Gov Act of 2002](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=107_cong_bills&docid=f:h2458enr.txt.pdf) (PDF, 209 KB, 72 pages, December 2002), which mandates a “Federal Internet Portal”
+
+{{< / box >}}
 
 ## Privacy Policy
 
@@ -54,16 +75,18 @@ All federal public websites* must comply with existing laws and directives that 
 
 ##### Required on:
 - Your principal website
+- Any known sub-agency site
 - Any known major entry points to your sites
-- Any Web page that collects substantial information in identifiable form
+- Any web page that collects substantial information in identifiable form
 
 ##### Required by:
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 - [OMB Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-02/) _(See Attachment A, Section III)_
 
 {{< / box >}}
 
 
-## FOIA
+## Freedom of Information Act (FOIA)
 All federal public websites* must comply with existing laws and directives that relate to the Freedom of Information Act (FOIA). The principal requirement is that websites must have a page that includes certain content as required by the FOIA. This page should include information about how the public can request information under the Act. Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
@@ -72,22 +95,27 @@ All federal public websites* must comply with existing laws and directives that 
 
 ##### Required on:
 - Your principal website
+- Any known sub-agency site
 - Any known major entry points to your sites
 
 ##### Required by:
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 - [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
 
 {{< / box >}}
 
 
-## Organizational Information
-- Mission
-- Statutory authority
-- Description of organizational structure
-- Strategic plan
-- Budget and performance reports (and link to required page as described below)
-- Small business point-of-contact
-- “About Us”
+## About Page
+
+You are required to have an "About" page on your site that includes your agency mission, descriptions of the organization structure, statutory authority, and links to the following information:
+
+- the agency’s strategic plan and annual performance plans
+- the agency’s Privacy Program Page
+- the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
+- the agency’s Open Government Page
+- the agency’s Plain Writing Page
+- information as required under the No Fear Act of 2002
+- information associated with the agency’s implementation of the Information Quality Act
 
 {{< box >}}
 ##### Required link text:
@@ -95,9 +123,11 @@ All federal public websites* must comply with existing laws and directives that 
 
 ##### Required on:
 - Your principal website
+- Any known sub-agency site
 - Any known major entry points to your sites
 
 ##### Required by:
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 - [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
 
 {{< / box >}}
@@ -115,8 +145,16 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 
 ##### Required by:
 - [Consolidated Appropriations Act](https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm) for FY 2008, Division D, Title VI, Section 534
-
 {{< / box >}}
+
+{{< law src="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm" name="Consolidated Appropriations Act" >}}
+Sec. 534. NOTE: 5 USC app. 6 note. The Departments, agencies,
+and commissions funded under this Act, shall establish and maintain on
+the homepages of their Internet websites--
+
+- (1) a direct link to the Internet websites of their Offices of Inspectors General; and
+- (2) a mechanism on the Offices of Inspectors General website by which individuals may anonymously report cases of waste, fraud, or abuse with respect to those Departments, agencies, and commissions.
+{{< / law >}}
 
 
 ## Budget and Performance Reports
@@ -154,22 +192,6 @@ All federal public websites* must comply with the existing No Fear Act Notificat
 
 {{< / box >}}
 
-
-## USA.gov
-
-{{< box >}}
-##### Required link text:
-`USA.gov`
-
-##### Required on:
-- Your principal website
-- Any known major entry points to your sites
-
-##### Required by:
-- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
-- [E-Gov Act of 2002](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=107_cong_bills&docid=f:h2458enr.txt.pdf) (PDF, 209 KB, 72 pages, December 2002), which mandates a “Federal Internet Portal”
-
-{{< / box >}}
 
 
 ## Cross-agency portals
