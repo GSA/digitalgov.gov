@@ -282,6 +282,8 @@
 .box-law{
 	@include u-padding(0);
 	@include u-bg('gold-5');
+	@include u-maxh('mobile-lg');
+	@include u-overflow('scroll');
 	@include u-radius-top('sm');
 	@include u-radius-bottom('sm');
 	@include u-font('serif', '2xs');
@@ -293,6 +295,8 @@
 		@include u-font('sans', 'sm');
 		@include u-text('normal');
 		@include u-display('flex');
+		@include u-position('sticky');
+		@include u-top(0);
 		&:hover{
 			@include u-bg('gold-20');
 			.scroll{
@@ -335,7 +339,7 @@
 		@include u-margin-y(2);
 		@include u-padding-y('105');
 		@include u-padding-x(4);
-		@include u-padding-bottom(6);
+		@include u-padding-bottom(2);
 		@include u-padding-left(8);
 		@include u-text('gold-80');
 		@include at-media('tablet-lg') {
