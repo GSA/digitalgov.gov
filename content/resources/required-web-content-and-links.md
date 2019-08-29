@@ -80,7 +80,7 @@ For other required links, Federal agencies should determine the best location on
 
 ## Privacy Policy
 
-All federal public websites* must comply with existing laws and directives that address the need to protect the privacy of the American people when they interact with their government. Some of the key requirements for federal public websites include:
+All federal public websites must comply with existing laws and directives that address the need to protect the privacy of the American people when they interact with their government. Some of the key requirements for federal public websites include:
 
 - Conducting privacy impact assessments;
 - Posting privacy policies on each website, including instructions on how to [“opt-out”](http://www.usa.gov/optout_instructions.shtml)of any Web tracking and measurement technologies the agency may use;
@@ -124,7 +124,7 @@ For other required links, Federal agencies should determine the best location on
 
 
 ### Freedom of Information Act (FOIA)
-All federal public websites* must comply with existing laws and directives that relate to the Freedom of Information Act (FOIA). The principal requirement is that websites must have a page that includes certain content as required by the FOIA. This page should include information about how the public can request information under the Act. Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
+All federal public websites must comply with existing laws and directives that relate to the Freedom of Information Act (FOIA). The principal requirement is that websites must have a page that includes certain content as required by the FOIA. This page should include information about how the public can request information under the Act. Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
 ##### Required link text:
@@ -245,7 +245,8 @@ the homepages of their Internet websites--
 - Homepage
 
 ##### Required by:
-- [OMB Circular A-11](https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc), Part 6{{< / box >}}
+- [OMB Circular A-11](https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc), Part 6
+- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004){{< / box >}}
 
 {{< law src="https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc" name="OMB Circular A-11, Part 6, Section 210" >}}
 
@@ -253,14 +254,14 @@ the homepages of their Internet websites--
 
 **210.5 How are agency-specific plans and reports made available to the public on the agency’s website?**
 
-To enhance transparency of performance data, agencies should make information, including prior plans and reports, as easy as possible to locate from the agency homepage on Performance.gov. Agencies will provide a hyperlink on Performance.gov to the agency’s web page where the agency has published current and past performance plans and reports. Agencies will also create a prominent link directly to this page from the agency homepage.
+To enhance transparency of performance data, agencies should make information, including prior plans and reports, as easy as possible to locate from the agency homepage on Performance.gov. Agencies will provide a hyperlink on Performance.gov to the {{< highlight >}}agency’s web page where the agency has published current and past performance plans and reports{{< /highlight >}}. {{< highlight >}}Agencies will also create a prominent link directly to this page from the agency homepage{{< / highlight >}}.
 
 Agencies may also want to create links from this page to other planning and performance reporting documents, such as the workforce plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.{{< / law >}}
 
 
 
 ## No Fear Act Data
-All federal public websites* must comply with the existing No Fear Act Notification and Federal Employee Anti-Discrimination and Retaliation of 2002 (No Fear Act) Public Law No. 107-174). Organizations should review the relevant law to ensure that their public websites meet the full range of requirements.
+All federal public websites must comply with the existing No Fear Act Notification and Federal Employee Anti-Discrimination and Retaliation of 2002 (No Fear Act) Public Law No. 107-174). Organizations should review the relevant law to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
 ##### Required link text:
@@ -270,7 +271,8 @@ All federal public websites* must comply with the existing No Fear Act Notificat
 - Homepage
 
 ##### Required by:
-- [Final rule issued by the Equal Employment Opportunity Commission](https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm){{< / box >}}
+- [Final rule issued by the Equal Employment Opportunity Commission](https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm)
+- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004){{< / box >}}
 
 {{< law src="https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm" name="Final rule issued by the Equal Employment Opportunity Commission" >}}
 
@@ -307,6 +309,6 @@ See individual requirements for your agency
 
 ---
 
-_&#42; These requirements apply to executive departments and agencies and their public websites. Check the specific law to see if it also applies to the judicial or legislative agencies, or to intranets._
+_These requirements apply to executive departments and agencies and their public websites. Check the specific law to see if it also applies to the judicial or legislative agencies, or to intranets._
 
 _**The Federal Web Managers Council** recommends that government agencies use consistent link labels for common content found on government websites. These recommendations are based on industry standard link labels and a usability study of common government terms [usability study of common government terms](http://www.slideshare.net/DigitalGov/icgi-content-standards-usability-test-results "ICGI Content Standards: Usability Test Results, Content Managers’ Forum, July 15, 2004") (MS PowerPoint, 144 KB, 49 slides, July 2004)._
