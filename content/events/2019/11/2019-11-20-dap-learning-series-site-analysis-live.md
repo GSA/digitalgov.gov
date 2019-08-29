@@ -31,3 +31,7 @@ _The Digital Analytics Program (DAP) offers advanced, easy web analytics to fede
 - [Getting Started](https://github.com/digital-analytics-program/gov-wide-code)
 - [View digital analytics training videos](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
 - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
+
+---
+
+_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
