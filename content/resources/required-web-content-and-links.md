@@ -5,12 +5,27 @@ deck: "A list of required links that all federal websites need to have"
 summary: "A list of required links that all federal websites need to have"
 authors:
   - ndavidson
+  - rflagg
+  - jeremyzilar
 
 ---
 
-If you manage a public website in the federal executive branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on "your agency’s principal website and on any known sub-agency or other major entry points to their site".
+If you manage a public website in the federal executive branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on "your agency’s principal website and on any known sub-agency or other major entry points" to your agency site.
 
-Here is the law:
+**This page makes it clear:**
+
+- what links are required
+- which law is requiring those links
+- the text that should be used for each links
+- where the link should be located on your site
+
+Please let us know how we can make this page better or more useful.
+
+For specific implementaiton guidance, see the [**U.S. Web Design System Footer** component](https://designsystem.digital.gov/components/footer/), as this is where most of these links should be located on your site.
+
+---
+
+## Required in OMB M-17-06
 
 {{< law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" name="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
@@ -33,20 +48,12 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 
 For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /law >}}
 
----
 
-## How to implement
-
-The following is a list of requirements, and the text that needs to be used for each.
-
-- See the [**U.S. Web Design System Footer** component »](https://designsystem.digital.gov/components/footer/)
-
-
-## USA.gov
 
 {{< box >}}
+### USA.gov
 ##### Required link text:
-`USA.gov`
+`USA.gov` or 
 
 ##### Required on:
 - Your principal website
@@ -60,7 +67,7 @@ The following is a list of requirements, and the text that needs to be used for 
 
 {{< / box >}}
 
-## Privacy Policy
+### Privacy Policy
 
 All federal public websites* must comply with existing laws and directives that address the need to protect the privacy of the American people when they interact with their government. Some of the key requirements for federal public websites include:
 
@@ -86,7 +93,7 @@ All federal public websites* must comply with existing laws and directives that 
 {{< / box >}}
 
 
-## Freedom of Information Act (FOIA)
+### Freedom of Information Act (FOIA)
 All federal public websites* must comply with existing laws and directives that relate to the Freedom of Information Act (FOIA). The principal requirement is that websites must have a page that includes certain content as required by the FOIA. This page should include information about how the public can request information under the Act. Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
@@ -105,7 +112,7 @@ All federal public websites* must comply with existing laws and directives that 
 {{< / box >}}
 
 
-## About Page
+### About Page
 
 You are required to have an "About" page on your site that includes your agency mission, descriptions of the organization structure, statutory authority, and links to the following information:
 
@@ -132,8 +139,19 @@ You are required to have an "About" page on your site that includes your agency 
 
 {{< / box >}}
 
+## Required in the Consolidated Appropriations Act
 
-## Inspector General
+{{< law src="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm" name="Consolidated Appropriations Act" >}}
+Sec. 534. NOTE: 5 USC app. 6 note. The Departments, agencies,
+and commissions funded under this Act, shall establish and maintain on
+the homepages of their Internet websites--
+
+- (1) a direct link to the Internet websites of their Offices of Inspectors General; and
+- (2) a mechanism on the Offices of Inspectors General website by which individuals may anonymously report cases of waste, fraud, or abuse with respect to those Departments, agencies, and commissions.
+{{< / law >}}
+
+
+### Report Fraud / Inspector General
 A method for reporting evidence of waste, fraud, or abuse to the Inspector General, and linking to Inspector General audits and investigative reports.
 
 {{< box >}}
@@ -147,17 +165,24 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 - [Consolidated Appropriations Act](https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm) for FY 2008, Division D, Title VI, Section 534
 {{< / box >}}
 
-{{< law src="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm" name="Consolidated Appropriations Act" >}}
-Sec. 534. NOTE: 5 USC app. 6 note. The Departments, agencies,
-and commissions funded under this Act, shall establish and maintain on
-the homepages of their Internet websites--
 
-- (1) a direct link to the Internet websites of their Offices of Inspectors General; and
-- (2) a mechanism on the Offices of Inspectors General website by which individuals may anonymously report cases of waste, fraud, or abuse with respect to those Departments, agencies, and commissions.
+
+## Required in OMB Circular A-11
+
+{{< law src="https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc" name="OMB Circular A-11" >}}
+
+**Part 6, Section 210 | PERFORMANCE.GOV AND PUBLIC REPORTING**
+
+**210.5 How are agency-specific plans and reports made available to the public on the agency’s website?**
+
+To enhance transparency of performance data, agencies should make information, including prior plans and reports, as easy as possible to locate from the agency homepage on Performance.gov. Agencies will provide a hyperlink on Performance.gov to the agency’s web page where the agency has published current and past performance plans and reports. Agencies will also create a prominent link directly to this page from the agency homepage.
+
+Agencies may also want to create links from this page to other planning and performance reporting documents, such as the workforce plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.
+
 {{< / law >}}
 
 
-## Budget and Performance Reports
+### Budget and Performance Reports
 - Strategic plan
 - Annual performance plan (APP) and Annual performance report (APR)
 - Annual financial statements
@@ -176,6 +201,27 @@ the homepages of their Internet websites--
 
 {{< / box >}}
 
+
+## Required by the final rule issued by the Equal Employment Opportunity Commission
+
+{{< law src="https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm" name="Final rule issued by the Equal Employment Opportunity Commission" >}}
+
+**Link Location, Link Name, Search Engines and URLs**
+
+Section 1614.703(d) of the interim rule requires an agency to title its posted EEO information _Equal Employment Opportunity Data Posted Pursuant to the No Fear Act_. {{< highlight >}}This section further requires an agency to prominently place a hyperlink to the data on the homepage of its public Web site.{{< /highlight >}} There was some objection both to the location of the hyperlink and its name.
+
+As for the location, agencies argue that their homepages already are well populated with hyperlinks which primarily are mission- specific. Adding another hyperlink, thereby producing crowding, may in fact be counter-productive. Moreover, many people visiting an agency Web site do so through hyperlinks from other non-agency Web sites or search engines that bypass an agency's homepage. Some agencies allow internet users to compose a personal homepage, which again bypasses the agency's standard homepage. For these and other reasons, the agencies that commented uniformly were of the opinion that a hyperlink on an agency's homepage is not the best way to ensure the public's assess to an agency's posted EEO data. These agencies therefore suggested that each agency decide itself where to place its EEO data and hyperlinks to that data since each agency best knows where a target audience goes to look for certain information. A number of agencies offered suggestions where the hyperlink would be better placed, such as on the "About the Agency" or "Working for the Agency/Employment" pages.
+
+The Commission is concerned that without a uniform hyperlink location members of the public seeking EEO data from more than one agency will have trouble finding the data. If one agency's hyperlink is on the "About the Agency" page, another's is on the "Employment Opportunities" page, another's is on a page entitled "Civil Rights", and another's is on the homepage, locating the data for multiple agencies could well end up as an exercise in trial and error. Even assuming that the homepage is not the best or most intuitive location for the hyperlink, EEOC is convinced that it would not be in the public interest to allow each agency to decide where on its Web site it will place the hyperlink. Thus, if not the homepage, EEOC must dictate another uniform location. The problem is that there are no other locations common to all agency public Web sites. Agencies do not label their "About the Agency" and "Employment" pages identically. Not every agency has an Employment Opportunities page. Thus, there is no way to standardize through a rule an alternative location for the link. This leaves only the homepage as the one Web page all agencies possess in common, and therefore it is the homepage which shall house the link.
+
+Regarding the title of the hyperlink, EEOC agrees that it is too wordy. EEOC, however, does not agree that the label "No FEAR" will be widely misunderstood by members of the public. On the contrary, the term "No FEAR Act" has attained familiarity among employees and those involved in EEO matters. Accordingly, the final rule provides that the hyperlink shall be called "No FEAR Act Data". However, agencies will be required to title the page where its data appears as follows:
+
+> "Equal Employment Opportunity Data Posted Pursuant to Title III of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act), Pub. L. 107-174."
+
+In furtherance of making every agency's No FEAR Act data easily accessible, it was suggested that agencies maintain their posted data so that it is readily retrievable by commercial search engines. EEOC agrees and has added a subsection setting forth this requirement.
+
+Finally, some commenters suggested that each agency provide EEOC with the hyperlink to its No FEAR data and that EEOC post the agency hyperlinks in one location on EEOC's public Web site. EEOC has decided to adopt this suggestion. Therefore, the final rule contains the requirement that an agency provide EEOC with the URL for the location of its No FEAR data and provide URL updates as necessary. Agencies can e-mail their URLs to EEOC at NoFEAR.URLS@eeoc.gov.
+{{< / law >}}
 
 ## No Fear Act Data
 All federal public websites* must comply with the existing No Fear Act Notification and Federal Employee Anti-Discrimination and Retaliation of 2002 (No Fear Act) Public Law No. 107-174). Organizations should review the relevant law to ensure that their public websites meet the full range of requirements.

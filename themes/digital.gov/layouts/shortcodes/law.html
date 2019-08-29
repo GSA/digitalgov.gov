@@ -3,7 +3,12 @@
     <a class="scroll" href="{{- .Get "src" -}}" title="View {{- .Get "name" -}}">
       <i class="fas fa-scroll"></i>
     </a>
-    <p class="src"><a  href="{{- .Get "src" -}}" title="View {{- .Get "name" -}}"><span>{{- .Get "name" | markdownify -}}</span></a> {{- if (.Get "pdf") -}}{{- .Get "pdf" -}}{{- end -}}</p>
+    <div class="src">
+      <p>
+        <a  href="{{- .Get "src" -}}" title="View {{- .Get "name" -}}">{{- .Get "name" | markdownify -}}</a> 
+        <span>{{- if (.Get "pdf") -}}{{- .Get "pdf" -}}{{- end -}}</span>
+      </p>
+    </div>
     </a>
   </div>
   {{- if .Inner -}}
