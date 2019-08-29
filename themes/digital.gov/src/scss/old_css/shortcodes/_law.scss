@@ -1,7 +1,7 @@
 .box-law{
 	@include u-padding(0);
 	@include u-bg('gold-5');
-	@include u-maxh('mobile-lg');
+	@include u-maxh('mobile');
 	@include u-overflow('scroll');
 	@include u-radius-top('sm');
 	@include u-radius-bottom('sm');
