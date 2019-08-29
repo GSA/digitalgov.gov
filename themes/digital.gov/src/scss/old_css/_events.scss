@@ -266,19 +266,6 @@
 	@include u-bg('yellow-10v');
 }
 
-.box{
-	margin-bottom: 2em;
-	padding: 1em 1em;
-	@include u-bg('gray-warm-5');
-	@include u-radius('sm');
-	ul{
-		&:last-child{
-			margin-bottom: 0;
-		}
-	}
-
-}
-
 .note{
 	margin-bottom: 20px;
 	padding: 1em;
