@@ -34,7 +34,13 @@ For specific implementaiton guidance, see the [**U.S. Web Design System Footer**
 
 ## Government Customer Support
 
-Copy about USA.gov goes here... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor velit nec auctor semper.
+[**USA.gov**](https://usa.gov) is the official web portal for the U.S. government. It is a public domain website. You may link to USA.gov at no cost.
+
+When you link to USA.gov, please do it in an appropriate context as a service to your customers when they need to find official U.S. government information and services.
+
+We also encourage you to link to [USAGov en Español](https://www.usa.gov/espanol/), the official Spanish language web portal of the U.S. government.
+
+- [Learn more about linking to USA.gov »](https://www.usa.gov/link-to-us)
 
 {{< box >}}
 ##### Required link text:
