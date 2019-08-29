@@ -46,7 +46,7 @@
 }
 
 #TableOfContents ul li a{
-	@include u-padding-y('05');
+	@include u-padding-y(1);
 	@include u-padding-x(0);
 	@include u-line-height('sans', 2);
 }
