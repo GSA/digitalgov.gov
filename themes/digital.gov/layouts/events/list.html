@@ -26,7 +26,7 @@
             {{ if .Params.End_date }}
               {{ $end := dateFormat "2006-01-02" .Params.End_date }}
               {{ if or (ge $start $now) (ge $end $now)}}
-                {{ if not .Params.on-hold }}
+                {{ if not .Params.on_hold }}
                   {{ .Render "li"}}
                 {{ end }}
               {{ end }}
@@ -47,7 +47,7 @@
 
             {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
             {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-              {{ if not .Params.on-hold }}
+              {{ if not .Params.on_hold }}
                 {{ .Render "past"}}
               {{ end }}
             {{ end }}
