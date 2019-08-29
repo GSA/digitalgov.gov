@@ -32,7 +32,7 @@ For specific implementaiton guidance, see the [**U.S. Web Design System Footer**
 
 ---
 
-## Customer Support for the Pubic
+## Government Customer Support
 
 Copy about USA.gov goes here... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor velit nec auctor semper.
 
@@ -154,7 +154,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 
 For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /law >}}
 
-### About Page
+## About Page
 
 You are required to have an "About" page on your site that includes your agency mission, descriptions of the organization structure, statutory authority, and links to the following information:
 
