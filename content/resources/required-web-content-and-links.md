@@ -32,7 +32,7 @@ For specific implementaiton guidance, see the [**U.S. Web Design System Footer**
 
 ---
 
-## Customer Support
+## Customer Support for the Pubic
 
 Copy about USA.gov goes here... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor velit nec auctor semper.
 
