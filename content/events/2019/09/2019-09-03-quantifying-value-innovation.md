@@ -12,6 +12,7 @@ end_date: 2019-09-03 14:00:00 -0500
 event_organizer: DigitalGov University
 host: Presidential Innovation Fellows, 18F
 registration_url: https://www.eventbrite.com/e/quantifying-the-value-of-innovation-registration-68315857569
+draft: true
 
 ---
 
@@ -44,3 +45,4 @@ _Questions about this event or future events?_ Send them to [digitalgovu@gsa.gov
 ---
 
 _This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
+
