@@ -30,12 +30,13 @@ USWDS is a library of code, tools, and guidance to help government teams design 
 - [Email Us](mailto:uswds@gsa.gov)  
 - Join the [USWDS ListServ](mailto:uswds-subscribe-request@listserv.gsa.gov)
 
----
+This talk is hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov. 
 
-_This talk is hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov._ 
+_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
+
+---
 
 Our team will send a reminder email before the event that includes your link to join the video. 
 
-This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._
 
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
