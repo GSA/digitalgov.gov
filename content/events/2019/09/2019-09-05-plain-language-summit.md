@@ -66,12 +66,10 @@ We believe the public deserves plain language communication from its government,
 | 10:15am - 11:15am | **Science Panel** - Jana Goldman and Susanna Murley |
 | 11:15am - 11:45am | **Plain UX** — John Whalen |
 | 11:45am - 12:50pm | **Break for Lunch** |
-| 1:00pm - 1:30pm   | **International Plain Language Standards** — Annetta Cheek |
-| 1:30pm - 2:00pm   | **Privacy Act** — Richard Spiedel, GSA |
-| 2:00pm - 2:15pm   | **Break** |
-| 2:15pm - 3:00pm   | **Center for Plain Language Federal Report Card** — David Lipscomb |
-| 3:00pm - 3:30pm   | **Customer Experience** - Camille Tucker |
-| 3:30pm - 4:00pm   | **Wrap Up & Closing** - Kathryn Catania, USCIS and Katherine Spivey, GSA |
+| 1:00pm - 1:45pm   | **International Plain Language Standards** — Annetta Cheek |
+| 1:45pm - 2:30pm   | **Center for Plain Language Federal Report Card** — David Lipscomb |
+| 2:30pm - 3:00pm   | **Customer Experience** - Camille Tucker |
+| 3:00pm - 3:15pm   | **Wrap Up & Closing** - Kathryn Catania, USCIS and Katherine Spivey, GSA |
 
 
 {{< box >}}
