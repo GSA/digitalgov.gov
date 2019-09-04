@@ -19,7 +19,6 @@ If you manage a public website in the federal Executive Branch, you are required
 - where the link should be located on your site
 - which law requires those links
 
-
 In addition to being compliant with the law, it is recommended that agencies implement these user-friendly required links with in clear, user-friendly way.
 
 For specific implementation guidance, see the [**U.S. Web Design System Footer** component](https://designsystem.digital.gov/components/footer/), as this is where most of these links should be located on your site.
@@ -235,7 +234,7 @@ the homepages of their Internet websites--
 `Budget and performance`
 
 ##### Required on:
-- Homepage
+- The homepage of your agency's principal website
 
 ##### Required by:
 - [OMB Circular A-11](https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc), Part 6{{< / box >}}
@@ -260,7 +259,7 @@ All federal public websites must comply with the existing No Fear Act Notificati
 `No Fear Act Data` or `Equal Employment`
 
 ##### Required on:
-- Homepage
+- The homepage of your agency's principal website
 
 ##### Required by:
 - [Final rule issued by the Equal Employment Opportunity Commission](https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm){{< / box >}}
