@@ -117,7 +117,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-policy >}}
 
 
-### Freedom of Information Act (FOIA)
+## Freedom of Information Act (FOIA)
 All federal public websites must comply with existing laws and directives that relate to the Freedom of Information Act (FOIA). The principal requirement is that websites must have a page that includes certain content as required by the FOIA. This page should include information about how the public can request information under the Act. Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}

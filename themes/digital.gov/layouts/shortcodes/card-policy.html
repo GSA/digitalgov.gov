@@ -16,7 +16,7 @@
   </h3>
 
   {{- if .Inner -}}
-  <div id="card-policy-{{- .Page.Scratch.Get "count" -}}" class="usa-accordion__content usa-prose">
+  <div id="card-policy-{{- .Page.Scratch.Get "count" -}}" class="card-policy-body usa-accordion__content usa-prose">
     {{- .Inner | markdownify -}}
 
     <a class="src" href="{{- .Get "src" }}" title="View {{ .Get "name" | plainify -}}">View the full document <i class="fas fa-arrow-right"></i></a>

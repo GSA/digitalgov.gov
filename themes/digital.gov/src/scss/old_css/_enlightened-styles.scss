@@ -203,9 +203,10 @@ h1 {
 	}
 
 h2 {
+	@include u-margin-top(8);
 	font-size: 30px;
 	letter-spacing:-0.03em;
-	}
+}
 
 h3 {
 	font-size: 28px;
