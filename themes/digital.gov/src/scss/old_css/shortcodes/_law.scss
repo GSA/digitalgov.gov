@@ -1,76 +1,50 @@
-.box-law{
-	@include u-padding(0);
-	@include u-bg('gold-5');
-	@include u-maxh('mobile');
-	@include u-overflow('scroll');
-	@include u-radius-top('sm');
-	@include u-radius-bottom('sm');
-	@include u-font('serif', '2xs');
-	@include u-line-height('serif', 5);
-	.law-head{
-		@include u-bg('gold-10');
-		@include u-radius-top('sm');
-		@include u-border-bottom('1px', 'base-lighter', 'solid');
-		@include u-font('sans', 'xs');
+.card-law{
+	@include u-margin-bottom(1);
+	button{
+		@include u-padding-y('105');
+		@include u-padding-left(7);
+		@include u-text('medium');
+		@include u-text('gold-80');
 		@include u-line-height('serif', 3);
-		@include u-text('normal');
-		@include u-display('flex');
-		@include u-position('sticky');
-		@include u-top(0);
+		@include u-position('relative');
+		@include u-bg('gold-10');
+		@include u-font('sans', 'xs');
+		@include u-radius('sm');
+		.scroll{
+			@include u-padding-x('105');
+			@include u-position('absolute');
+			@include u-top(0);
+			@include u-left(0);
+			@include u-height('full');
+			@include u-display('flex');
+			@include u-flex('align-center');
+			@include u-text('white');
+			@include u-bg('gold-50');
+			@include u-radius-left('sm');
+		}
+		.src{
+			em{
+				@include u-text('base-dark');
+				@include u-text('italic');
+			}
+		}
 		&:hover{
 			@include u-bg('gold-20');
 			.scroll{
 				@include u-bg('gold-60');
 			}
 		}
-		.scroll{
-			@include u-display('block');
-			@include u-padding-x('105');
-			@include u-bg('gold-50');
-			@include u-radius-top('sm');
-			@include u-radius-right(0);
-			@include u-text('white');
-			@include u-text('no-underline');
-			@include u-display('flex');
-			@include u-flex('align-center');
-			@include u-padding(2);
-			@include u-font('sans', 'sm');
-			@include at-media('tablet-lg') {
-				@include u-padding('105');
-			}
-		}
-		.src{
-			@include u-padding-y(1);
-			@include u-padding-x('105');
-			@include u-text('gold-80');
-			@include u-display('flex');
-			@include u-flex('align-center');
-			p{
-				@include u-margin(0);
-			}
-			a{
-				@include u-text('no-underline');
-				@include u-text('gold-80');
-				&:hover{
-					@include u-text('no-underline');
-					@include u-border-bottom('1px', 'gold-80', 'solid');
-				}
-			}
-			// PDF data
-			span{
-				@include u-text('base-dark');
-				@include u-font('sans', 'xs');
-				@include u-text('italic');
-			}
-		}
 	}
-	.law-body{
-		@include u-margin-y(2);
+	.card-law-body{
 		@include u-padding-y('105');
 		@include u-padding-x(4);
 		@include u-padding-bottom(2);
 		@include u-padding-left(8);
+		@include u-bg('gold-5');
 		@include u-text('gold-80');
+		@include u-radius-bottom('sm');
+		@include u-font('serif', '2xs');
+		@include u-line-height('serif', 5);
 		@include at-media('tablet-lg') {
 			@include u-padding-x(7);
 		}
@@ -82,8 +56,10 @@
 			@include u-text('base');
 			@include u-bg('gold-5');
 		}
-	}
-	p, ul, li {
-		@include u-margin-bottom(1);
+		.src{
+			@include u-font('sans', '2xs');
+			@include u-text('gold-80');
+			@include u-text('medium');
+		}
 	}
 }
