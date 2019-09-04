@@ -317,14 +317,6 @@ termsofservice:
     updated       :
     status        :
 
-  - name          : MixedInk
-    url           : http://www.mixedink.com/
-    description   : Collaborative writing
-    uri           : '2014/01/mixedink-tos-amendment.pdf'
-    type          : pdf
-    updated       : 2014-07
-    status        :
-
   - name          : 'My.ComMetrics'
     url           : http://my.commetrics.com/
     description   : 'Tracking & benchmarking of blogs'
