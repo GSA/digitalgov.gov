@@ -27,7 +27,7 @@
 			@include u-display('block');
 			@include u-text('uppercase');
 			@include u-text('light');
-			@include u-font('sans', '2xs');
+			@include u-font('sans', '3xs');
 		}
 		.src{
 			em{
@@ -45,7 +45,7 @@
 		}
 	}
 	.card-policy-body{
-		@include u-padding-y(2);
+		@include u-padding-y(4);
 		@include u-padding-x(4);
 		@include u-padding-left(8);
 		@include u-bg('gold-5');
