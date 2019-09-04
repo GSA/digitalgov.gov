@@ -10,7 +10,7 @@ authors:
 
 ---
 
-If you manage a public website in the federal executive branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on "your agency’s principal website and on any known sub-agency or other major entry points" to your agency site.
+If you manage a public website in the federal Executive Branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on "your agency’s principal website and on any known sub-agency or other major entry points" to your agency site.
 
 **This page makes it clear:**
 
@@ -26,7 +26,7 @@ As M-17-06 says,
 
 > _Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services._
 
-For specific implementaiton guidance, see the [**U.S. Web Design System Footer** component](https://designsystem.digital.gov/components/footer/), as this is where most of these links should be located on your site.
+For specific implementation guidance, see the [**U.S. Web Design System Footer** component](https://designsystem.digital.gov/components/footer/), as this is where most of these links should be located on your site.
 
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
