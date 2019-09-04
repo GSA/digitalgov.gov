@@ -14,17 +14,13 @@ If you manage a public website in the federal Executive Branch, you are required
 
 **This page makes it clear:**
 
-- what links are required
-- which law requires those links
+- what links are required and the purpose they serve
 - the text that you should use for each link
 - where the link should be located on your site
+- which law requires those links
 
 
 In addition to being compliant with the law, it is recommended that agencies implement these user-friendly required links with in clear, user-friendly way.
-
-As M-17-06 says,
-
-> _Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services._
 
 For specific implementation guidance, see the [**U.S. Web Design System Footer** component](https://designsystem.digital.gov/components/footer/), as this is where most of these links should be located on your site.
 
@@ -53,10 +49,9 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 
 ##### Required by:
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
 - [E-Gov Act of 2002](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=107_cong_bills&docid=f:h2458enr.txt.pdf) (PDF, 209 KB, 72 pages, December 2002), which mandates a “Federal Internet Portal”{{< / box >}}
 
-{{< law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" name="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
 
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
@@ -75,7 +70,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 	6. information as required under the No Fear Act of 2002;
 	7. information associated with the agency’s implementation of the Information Quality Act.
 
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /law >}}
+For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-law >}}
 
 
 ## Privacy Policy
@@ -101,7 +96,7 @@ All federal public websites must comply with existing laws and directives that a
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 - [OMB Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-02/) _(See Attachment A, Section III)_{{< / box >}}
 
-{{< law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" name="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
 
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
@@ -120,7 +115,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 	6. information as required under the No Fear Act of 2002;
 	7. information associated with the agency’s implementation of the Information Quality Act.
 
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /law >}}
+For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-law >}}
 
 
 ### Freedom of Information Act (FOIA)
@@ -136,10 +131,9 @@ All federal public websites must comply with existing laws and directives that r
 - Any known major entry points to your sites
 
 ##### Required by:
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004){{< / box >}}
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
-{{< law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" name="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
 
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
@@ -158,7 +152,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 	6. information as required under the No Fear Act of 2002;
 	7. information associated with the agency’s implementation of the Information Quality Act.
 
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /law >}}
+For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-law >}}
 
 ## About Page
 
@@ -182,10 +176,9 @@ You are required to have an "About" page on your site that includes your agency 
 - Any known major entry points to your sites
 
 ##### Required by:
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004){{< / box >}}
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
-{{< law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" name="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
+{{< card-law src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
 
 Laws, regulations, or other policies will occasionally mandate that agencies place certain links on their website. Agencies must respect and adhere to these statutory or executive-level mandates and incorporate these requirements in a manner that does not reduce the usability or performance of the agency’s website and digital services.
@@ -204,7 +197,7 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 	6. information as required under the No Fear Act of 2002;
 	7. information associated with the agency’s implementation of the Information Quality Act.
 
-For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /law >}}
+For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-law >}}
 
 
 ## Report Fraud to the Inspector General
@@ -220,14 +213,14 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 ##### Required by:
 - [Consolidated Appropriations Act](https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm) for FY 2008, Division D, Title VI, Section 534{{< / box >}}
 
-{{< law src="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm" name="Consolidated Appropriations Act" >}}
+{{< card-law src="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm" kicker="Policy" title="Consolidated Appropriations Act" >}}
 **Sec. 534.** NOTE: 5 USC app. 6 note. The Departments, agencies,
 and commissions funded under this Act, shall establish and maintain on
 the homepages of their Internet websites--
 
 - {{< highlight >}}(1) a direct link to the Internet websites of their Offices of Inspectors General; and{{< /highlight >}}
 - (2) a mechanism on the Offices of Inspectors General website by which individuals may anonymously report cases of waste, fraud, or abuse with respect to those Departments, agencies, and commissions.
-{{< / law >}}
+{{< / card-law >}}
 
 
 ## Budget and Performance Reports
@@ -245,10 +238,9 @@ the homepages of their Internet websites--
 - Homepage
 
 ##### Required by:
-- [OMB Circular A-11](https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc), Part 6
-- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004){{< / box >}}
+- [OMB Circular A-11](https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc), Part 6{{< / box >}}
 
-{{< law src="https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc" name="OMB Circular A-11, Part 6, Section 210" >}}
+{{< card-law src="https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc" kicker="Policy" title="OMB Circular A-11, Part 6, Section 210" >}}
 
 **Part 6, Section 210 | PERFORMANCE.GOV AND PUBLIC REPORTING**
 
@@ -256,25 +248,24 @@ the homepages of their Internet websites--
 
 To enhance transparency of performance data, agencies should make information, including prior plans and reports, as easy as possible to locate from the agency homepage on Performance.gov. Agencies will provide a hyperlink on Performance.gov to the {{< highlight >}}agency’s web page where the agency has published current and past performance plans and reports{{< /highlight >}}. {{< highlight >}}Agencies will also create a prominent link directly to this page from the agency homepage{{< / highlight >}}.
 
-Agencies may also want to create links from this page to other planning and performance reporting documents, such as the workforce plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.{{< / law >}}
+Agencies may also want to create links from this page to other planning and performance reporting documents, such as the workforce plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.{{< / card-law >}}
 
 
 
-## No Fear Act Data
+## Equal Employment
 All federal public websites must comply with the existing No Fear Act Notification and Federal Employee Anti-Discrimination and Retaliation of 2002 (No Fear Act) Public Law No. 107-174). Organizations should review the relevant law to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
 ##### Required link text:
-`No Fear Act Data`
+`No Fear Act Data` or `Equal Employment`
 
 ##### Required on:
 - Homepage
 
 ##### Required by:
-- [Final rule issued by the Equal Employment Opportunity Commission](https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm)
-- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004){{< / box >}}
+- [Final rule issued by the Equal Employment Opportunity Commission](https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm){{< / box >}}
 
-{{< law src="https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm" name="Final rule issued by the Equal Employment Opportunity Commission" >}}
+{{< card-law src="https://www.govinfo.gov/content/pkg/FR-2006-08-02/html/E6-12432.htm" kicker="Policy" title="Final rule issued by the Equal Employment Opportunity Commission" >}}
 
 **Link Location, Link Name, Search Engines and URLs**
 
@@ -290,22 +281,8 @@ Regarding the title of the hyperlink, EEOC agrees that it is too wordy. EEOC, ho
 
 In furtherance of making every agency's No FEAR Act data easily accessible, it was suggested that agencies maintain their posted data so that it is readily retrievable by commercial search engines. EEOC agrees and has added a subsection setting forth this requirement.
 
-Finally, some commenters suggested that each agency provide EEOC with the hyperlink to its No FEAR data and that EEOC post the agency hyperlinks in one location on EEOC's public Web site. EEOC has decided to adopt this suggestion. Therefore, the final rule contains the requirement that an agency provide EEOC with the URL for the location of its No FEAR data and provide URL updates as necessary. Agencies can e-mail their URLs to EEOC at NoFEAR.URLS@eeoc.gov.{{< / law >}}
+Finally, some commenters suggested that each agency provide EEOC with the hyperlink to its No FEAR data and that EEOC post the agency hyperlinks in one location on EEOC's public Web site. EEOC has decided to adopt this suggestion. Therefore, the final rule contains the requirement that an agency provide EEOC with the URL for the location of its No FEAR data and provide URL updates as necessary. Agencies can e-mail their URLs to EEOC at NoFEAR.URLS@eeoc.gov.{{< / card-law >}}
 
-
-## Cross-agency portals
-Cross-agency portals, as required by law or policy
-
-{{< box >}}
-##### Required link text:
-See individual requirements for your agency
-
-##### Required on:
-- See individual requirements for your agency
-
-##### Required by:
-- [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
-{{< / box >}}
 
 ---
 

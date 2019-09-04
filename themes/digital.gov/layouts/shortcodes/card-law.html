@@ -8,7 +8,10 @@
       aria-expanded="false"
       aria-controls="card-law-{{- .Page.Scratch.Get "count" -}}">
       <span class="scroll"><i class="fas fa-scroll"></i></span>
-      <span class="src">{{- .Get "name" | markdownify }} {{ if (.Get "pdf") -}}<em>{{- .Get "pdf" -}}</em>{{- end -}}</span>
+      <span class="src">
+        {{ if (.Get "kicker") -}}<strong class="kicker">{{- .Get "kicker" -}}</strong>{{- end -}}
+        {{- .Get "title" | markdownify }}
+        {{ if (.Get "pdf") -}}<em>{{- .Get "pdf" -}}</em>{{- end -}}</span>
     </button>
   </h3>
 

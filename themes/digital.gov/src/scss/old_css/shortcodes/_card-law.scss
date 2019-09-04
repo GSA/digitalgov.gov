@@ -22,10 +22,19 @@
 			@include u-bg('gold-50');
 			@include u-radius-left('sm');
 		}
+		.kicker{
+			@include u-margin-bottom('05');
+			@include u-display('block');
+			@include u-text('uppercase');
+			@include u-text('light');
+			@include u-font('sans', '2xs');
+		}
 		.src{
 			em{
+				@include u-margin-left('2px');
 				@include u-text('base-dark');
 				@include u-text('italic');
+				@include u-text('normal');
 			}
 		}
 		&:hover{
@@ -36,9 +45,8 @@
 		}
 	}
 	.card-law-body{
-		@include u-padding-y('105');
+		@include u-padding-y(2);
 		@include u-padding-x(4);
-		@include u-padding-bottom(2);
 		@include u-padding-left(8);
 		@include u-bg('gold-5');
 		@include u-text('gold-80');

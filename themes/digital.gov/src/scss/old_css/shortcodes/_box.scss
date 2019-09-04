@@ -1,5 +1,5 @@
 .box{
-	@include u-margin-bottom(2);
+	@include u-margin-bottom(1);
 	@include u-padding(2);
 	@include u-bg('gray-warm-5');
 	@include u-radius('sm');
