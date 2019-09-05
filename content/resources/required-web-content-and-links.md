@@ -10,7 +10,7 @@ authors:
 
 ---
 
-If you manage a public website in the federal Executive Branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on website.
+If you manage a public website in the federal government's Executive Branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
 
 **This page makes it clear:**
 
@@ -19,9 +19,7 @@ If you manage a public website in the federal Executive Branch, you are required
 - where the link should be located on your site
 - which law or policy requires those links
 
-Use the guidance below to implement these required links with in clear, user-friendly way.
-
-For specific implementation guidance, see the [**U.S. Web Design System Footer** component](https://designsystem.digital.gov/components/footer/), as this is where most of these links should be located on your site.
+Use the guidance below to implement these required links in a clear, user-friendly way.
 
 **Questions?** send an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
@@ -47,8 +45,7 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 - Any known major entry points to your sites
 
 ##### Required by:
-- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [E-Gov Act of 2002](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=107_cong_bills&docid=f:h2458enr.txt.pdf) (PDF, 209 KB, 72 pages, December 2002), which mandates a “Federal Internet Portal”{{< / box >}}
+- [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016){{< / box >}}
 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
@@ -93,7 +90,7 @@ All federal public websites must comply with existing laws and directives that a
 
 ##### Required by:
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [OMB Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-02/) _(See Attachment A, Section III)_{{< / box >}}
+- [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-02/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_{{< / box >}}
 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
@@ -115,6 +112,77 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 	7. information associated with the agency’s implementation of the Information Quality Act.
 
 For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-policy >}}
+
+{{< card-policy src="https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/" kicker="Policy" title="**OMB M-03-22:** Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002" >}}**III. Privacy Policies on Agency Websites**
+
+1. _Privacy Policy Clarification_. To promote clarity to the public, agencies are required to refer to their general web site notices explaining agency information handling practices as the "Privacy Policy."
+
+1. _Effective Date_. Agencies are expected to implement the following changes to their websites by December 15, 2003.
+
+1. _Exclusions_: For purposes of web privacy policies, this guidance does not apply to:
+    1. information other than "government information" as defined in [OMB Circular A-130](https://obamawhitehouse.archives.gov/omb/circulars_a130_a130trans4/);
+    2. agency intranet web sites that are accessible only by authorized government users (employees, contractors, consultants, fellows, grantees);
+    3. national security systems defined at 40 U.S.C. 11103 as exempt from the definition of information technology (see section 202(i) of the E-government Act).
+
+1. _Content of Privacy Policies_.
+    1. Agency Privacy Policies must comply with guidance issued in OMB [Memorandum 99-18](https://obamawhitehouse.archives.gov/omb/memoranda_m99-18/) and must now also include the following two new content areas:
+        1. _Consent to collection and sharing_ <sup>[15](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#15)</sup>. Agencies must now ensure that privacy policies:
+            1. inform visitors whenever providing requested information is voluntary;
+            2. inform visitors how to grant consent for use of voluntarily-provided information; and
+            3. inform visitors how to grant consent to use mandatorily-provided information for other than statutorily-mandated uses or authorized routine uses under the Privacy Act.
+
+        2. _Rights under the Privacy Act or other privacy laws_ <sup>[16](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#16)</sup>. Agencies must now also notify web-site visitors of their rights under the Privacy Act or other privacy-protecting laws that may primarily apply to specific agencies (such as the Health Insurance Portability and Accountability Act of 1996, the IRS Restructuring and Reform Act of 1998, or the Family Education Rights and Privacy Act):
+            1. in the body of the web privacy policy;
+            2. via link to the applicable agency regulation (e.g., Privacy Act regulation and pertinent system notice); or
+            3. via link to other official summary of statutory rights (such as the summary of Privacy Act rights in the FOIA/Privacy Act Reference Materials posted by the Federal Consumer Information Center at [www.Firstgov.gov](http://www.firstgov.gov/)).
+
+    2. Agency Privacy Policies must continue to address the following, modified, requirements:
+
+        1. Nature, purpose, use and sharing of information collected . Agencies should follow existing policies (issued in [OMB Memorandum 99-18](https://obamawhitehouse.archives.gov/omb/memoranda_m99-18/)) concerning notice of the nature, purpose, use and sharing of information collected via the Internet, as modified below:
+            1. _Privacy Act information_. When agencies collect information subject to the Privacy Act, agencies are directed to explain what portion of the information is maintained and retrieved by name or personal identifier in a Privacy Act system of records and provide a Privacy Act Statement either:
+                1. at the point of collection, or
+                2. via link to the agency’s general Privacy Policy <sup>[18](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#18)</sup>.
+
+            2. _"Privacy Act Statements"_. Privacy Act Statements must notify users of the authority for and purpose and use of the collection of information subject to the Privacy Act, whether providing the information is mandatory or voluntary, and the effects of not providing all or any part of the requested information.
+            3. _Automatically Collected Information (site management data)_. Agency Privacy Policies must specify what information the agency collects automatically (i.e., user’s IP address, location, and time of visit) and identify the use for which it is collected (i.e., site management or security purposes).
+            4. _Interaction with children_: Agencies that provide content to children under 13 and that collect personally identifiable information from these visitors should incorporate the requirements of the Children’s Online Privacy Protection Act ("COPPA") into their Privacy Policies (see Attachment C) <sup>[19](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#19)</sup>.
+            5. _Tracking and customization activities_. Agencies are directed to adhere to the following modifications to [OMB Memorandum 00-13](https://obamawhitehouse.archives.gov/omb/memoranda_m00-13/) and the OMB follow-up guidance letter dated [September 5, 2000](https://obamawhitehouse.archives.gov/omb/inforeg_cookies_letter90500/):
+                1. _Tracking technology prohibitions_:
+                    1. agencies are prohibited from using persistent cookies or any other means (e.g., web beacons) to track visitors’ activity on the Internet except as provided in subsection (b) below;
+                    2. agency heads may approve, or may authorize the heads of sub-agencies or senior official(s) reporting directly to the agency head to approve, the use of persistent tracking technology for a compelling need. When used, agency’s must post clear notice in the agency’s privacy policy of:
+                        - the nature of the information collected;
+                        - the purpose and use for the information;
+                        - whether and to whom the information will be disclosed; and
+                        - the privacy safeguards applied to the information collected.
+
+                    3. agencies must report the use of persistent tracking technologies as authorized for use by subsection b. above (see section VII) <sup>[20](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#20)</sup>.
+
+                2. _The following technologies are not prohibited:_
+                    1. Technology that is used to facilitate a visitor’s activity within a single session (e.g., a "session cookie") and does not persist over time is not subject to the prohibition on the use of tracking technology.
+                    2. Customization technology (to customize a website at the visitor’s request) if approved by the agency head or designee for use (see v.1.b above) and where the following is posted in the Agency’s Privacy Policy:
+                        - the purpose of the tracking (i.e., customization of the site);
+                        - that accepting the customizing feature is voluntary;
+                        - that declining the feature still permits the individual to use the site; and
+                        - the privacy safeguards in place for handling the information collected.
+
+                    3. Agency use of password access to information that does not involve "persistent cookies" or similar technology.
+
+            6. _Law enforcement and homeland security sharing_: Consistent with current practice, Internet privacy policies may reflect that collected information may be shared and protected as necessary for authorized law enforcement, homeland security and national security activities.
+
+        2. _Security of the information_ <sup>[21](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#21)</sup>. Agencies should continue to comply with existing requirements for computer security in administering their websites <sup>[22](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#22)</sup> and post the following information in their Privacy Policy:
+            1. in clear language, information about management, operational and technical controls ensuring the security and confidentiality of personally identifiable records (e.g., access controls, data storage procedures, periodic testing of safeguards, etc.), and
+            2. in general terms, information about any additional safeguards used to identify and prevent unauthorized attempts to access or cause harm to information and systems. (The statement should be at a level to inform the public that their information is being protected while not compromising security.)
+
+1. _Placement of notices_. Agencies should continue to follow the policy identified in [OMB Memorandum 99-18](https://obamawhitehouse.archives.gov/omb/memoranda_m99-18/) regarding the posting of privacy policies on their websites. Specifically, {{< highlight >}}agencies must post (or link to) privacy policies at:{{< /highlight >}}
+    1. {{< highlight >}}their principal web site;{{< /highlight >}}
+    2. {{< highlight >}}any known, major entry points to their sites;{{< /highlight >}}
+    3. {{< highlight >}}any web page that collects substantial information in identifiable form.{{< /highlight >}}
+ 
+
+2. **_Clarity of notices_**. Consistent with [OMB Memorandum 99-18](https://obamawhitehouse.archives.gov/omb/memoranda_m99-18/), privacy policies must be:
+    1. clearly labeled and easily accessed;
+    2. written in plain language; and
+    3. made clear and easy to understand, whether by integrating all information and statements into a single posting, by layering a short "highlights" notice linked to full explanation, or by other means the agency determines is effective.{{< /card-policy >}}
 
 
 ## Freedom of Information Act (FOIA)
@@ -231,31 +299,39 @@ the homepages of their Internet websites--
 
 
 ## Budget and Performance Reports
+
+Agencies are required to have a page on their website that has the following information:
+
 - Strategic plan
 - Annual performance plan (APP) and Annual performance report (APR)
 - Annual financial statements
 - GAO high-risk improvement plans with status of implementation (if not included in APP and APR)
 - Inspector General audits and investigative reports, and a method to report evidences of waste, fraud, or abuse to the Inspector General
 
+
 {{< box >}}
 ##### Required link text:
-`Budget and performance`
+`Budget and Performance`
 
 ##### Required on:
 - The homepage of your agency's principal website
 
 ##### Required by:
-- [OMB Circular A-11](https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc), Part 6{{< / box >}}
+- [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf), Part 6{{< / box >}}
 
-{{< card-policy src="https://obamawhitehouse.archives.gov/omb/circulars_a11_current_year_a11_toc" kicker="Policy" title="OMB Circular A-11, Part 6, Section 210" >}}
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf" kicker="Policy" title="OMB Circular A-11, Part 6, Section 210.6" >}}
 
-**Part 6, Section 210 | PERFORMANCE.GOV AND PUBLIC REPORTING**
+**Part 6, Section 210 | PUBLIC REPORTING AND PERFORMANCE.GOV**
 
-**210.5 How are agency-specific plans and reports made available to the public on the agency’s website?**
+**210.6 How are agency-specific plans and reports made available to the public on the agency’s website?**
 
-To enhance transparency of performance data, agencies should make information, including prior plans and reports, as easy as possible to locate from the agency homepage on Performance.gov. Agencies will provide a hyperlink on Performance.gov to the {{< highlight >}}agency’s web page where the agency has published current and past performance plans and reports{{< /highlight >}}. {{< highlight >}}Agencies will also create a prominent link directly to this page from the agency homepage{{< / highlight >}}.
+To enhance transparency of performance data, all Federal {{< highlight >}}agencies should make information, including prior plans and reports, as easy as possible to locate from the agency’s individual website{{< /highlight >}} (e.g., [www.usda.gov](www.usda.gov)). Federal Agencies must also provide a hyperlink on Performance.gov to the agency’s public website (e.g., https://www.usda.gov/our-agency/about-usda/performance) where the agency has published current and past performance plans and reports. In adherence to OMB Memorandum M-17-06, agencies must create a prominent link directly to their performance plans and reports from their “About Agency” or “About Us” page, which is directly off of the agency’s homepage.
 
-Agencies may also want to create links from this page to other planning and performance reporting documents, such as the workforce plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.{{< / card-policy >}}
+Agencies may also want to create links from this page to other planning and performance reporting documents, such as the human capital operating plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.
+
+When developing performance information for publication, agencies should be open, transparent, and accountable for results of progress against stated performance goals and objectives, publishing information online consistent with the Federal Records Act, privacy and security restrictions, and other applicable law and policy including [OMB Circular A-130](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf), Managing Information as a Strategic Resource. It is important that agencies communicate relevant, reliable, and timely performance information within and outside their organizations to improve performance outcomes and operational efficiency.
+
+**Machine-readable**. Consistent with the GPRA Modernization Act of 2010, information published through Performance.gov will be made available to the public in a machine-readable format. See section 240 for additional information on an initiative to make agency performance plans and reports ‘machine readable’ with the 2021 Budget and Performance Planning / Reporting cycle.{{< / card-policy >}}
 
 
 
@@ -264,7 +340,7 @@ All federal public websites must comply with the existing No Fear Act Notificati
 
 {{< box >}}
 ##### Required link text:
-`No Fear Act Data` or `Equal Employment`
+`No FEAR Act Data`
 
 ##### Required on:
 - The homepage of your agency's principal website
@@ -293,6 +369,6 @@ Finally, some commenters suggested that each agency provide EEOC with the hyperl
 
 ---
 
-_These requirements apply to executive departments and agencies and their public websites. Check the specific law to see if it also applies to the judicial or legislative agencies, or to intranets._
+_These requirements apply to executive branch departments and agencies and their public websites. Check the specific law or policy to see if it also applies to the judicial or legislative agencies, or intranets._
 
 _**The Federal Web Managers Council** recommends that government agencies use consistent link labels for common content found on government websites. These recommendations are based on industry standard link labels and a usability study of common government terms [usability study of common government terms](http://www.slideshare.net/DigitalGov/icgi-content-standards-usability-test-results "ICGI Content Standards: Usability Test Results, Content Managers’ Forum, July 15, 2004") (MS PowerPoint, 144 KB, 49 slides, July 2004)._
