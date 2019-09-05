@@ -118,7 +118,15 @@ For other required links, Federal agencies should determine the best location on
 
 
 ## Freedom of Information Act (FOIA)
-All federal public websites must comply with existing laws and directives that relate to the Freedom of Information Act (FOIA). The principal requirement is that websites must have a page that includes certain content as required by the FOIA. This page should include information about how the public can request information under the Act. Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
+
+All federal public websites must comply with existing laws and directives that relate to the Freedom of Information Act (FOIA).
+
+There are two requirements that all federal public websites must have:
+
+1. A page that includes [certain content as required by the FOIA](https://www.justice.gov/oip/blog/foia-update-oip-guidance-electronic-foia-amendments-implementation-guidance-outline) that includes information about how the public can request information under the Freedom of Information Act (FOIA). This page us usually located on the agency’s principal website.
+2. A link to this page needs to be on the agency’s principal website and on any known sub-agency or other major entry points.
+
+Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
 ##### Required link text:
