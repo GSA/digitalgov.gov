@@ -74,7 +74,7 @@ For other required links, Federal agencies should determine the best location on
 All federal public websites must comply with existing laws and directives that address the need to protect the privacy of the American people when they interact with their government. Some of the key requirements for federal public websites include:
 
 - Conducting privacy impact assessments;
-- Posting privacy policies on each website, including instructions on how to [“opt-out”](http://www.usa.gov/optout_instructions.shtml)of any Web tracking and measurement technologies the agency may use;
+- Posting privacy policies on each website, including instructions on how to "[opt-out](http://www.usa.gov/optout_instructions.shtml)" of any web tracking and measurement technologies the agency may use;
 - Posting a “Privacy Act Statement” that tells visitors the organization’s legal authority for collecting personal data and how the data will be used; and
 - Translating privacy policies into a standardized machine-readable format.
 
@@ -90,7 +90,7 @@ All federal public websites must comply with existing laws and directives that a
 
 ##### Required by:
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-- [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://obamawhitehouse.archives.gov/omb/memoranda_m03-02/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_{{< / box >}}
+- [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_{{< / box >}}
 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **16. Ensure Access to Mandatory Content**
