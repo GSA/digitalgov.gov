@@ -10,16 +10,16 @@ authors:
 
 ---
 
-If you manage a public website in the federal Executive Branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on "your agency’s principal website and on any known sub-agency or other major entry points" to your agency site.
+If you manage a public website in the federal Executive Branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on website.
 
 **This page makes it clear:**
 
 - what links are required and the purpose they serve
 - the text that you should use for each link
 - where the link should be located on your site
-- which law requires those links
+- which law or policy requires those links
 
-In addition to being compliant with the law, it is recommended that agencies implement these user-friendly required links with in clear, user-friendly way.
+Use the guidance below to implement these required links with in clear, user-friendly way.
 
 For specific implementation guidance, see the [**U.S. Web Design System Footer** component](https://designsystem.digital.gov/components/footer/), as this is where most of these links should be located on your site.
 
@@ -29,7 +29,7 @@ For specific implementation guidance, see the [**U.S. Web Design System Footer**
 
 ## Government Customer Support
 
-[**USA.gov**](https://usa.gov) is the official web portal for the U.S. government. It is a public domain website. You may link to USA.gov at no cost.
+[**USA.gov**](https://usa.gov) is the official web portal for the U.S. government.
 
 When you link to USA.gov, please do it in an appropriate context as a service to your customers when they need to find official U.S. government information and services.
 
