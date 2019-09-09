@@ -7,8 +7,8 @@ featured_image:
   alt: ''
 event_type: 
   - Zoom
-date: 2019-09-24 14:30:00 -0500
-end_date: 2019-09-24 15:00:00 -0500
+date: 2019-09-24 14:00:00 -0500
+end_date: 2019-09-24 14:30:00 -0500
 event_organizer: DigitalGov University
 host: DevOps COP 
 registration_url: https://www.eventbrite.com/e/devops-community-of-practice-devops-for-the-decennial-census-registration-71822915273
@@ -25,9 +25,9 @@ Joining us will be Graham Bagget. Graham has worked at the Census Bureau for the
 
 Visit the [DevOps Community of Practice] (https://digital.gov/communities/devops/) page to join either the federal or public Listserv. 
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
+_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
 
-Our team will send a reminder email prior to the event.
+Our team will send a reminder email prior to the event. 
 
 ---
 
