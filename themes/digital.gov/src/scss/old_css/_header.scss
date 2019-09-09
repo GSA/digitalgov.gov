@@ -33,7 +33,6 @@ header.usa-header{
 		.sub-head{
 			@include u-margin-top(1);
 			@include u-margin-bottom('205');
-			@include u-width('mobile');
 			@include u-font('sans', 'md');
 			@include u-line-height('sans', 2);
 			@include u-text('no-italic');
@@ -41,25 +40,34 @@ header.usa-header{
 			@include u-text('light');
 			// @include u-display('none');
 			@include at-media('desktop') {
+				@include u-width('mobile');
 				@include u-font('sans', 'lg');
 				@include u-margin-bottom(4);
 				@include u-display('block');
 			}
 		}
+		// GSA Logo
 		.agency_refer{
 			@include u-margin-bottom(1);
-			@include u-font('sans', '2xs');
-			@include u-line-height('sans', 1);
+			@include u-font('sans', '3xs');
+			@include u-line-height('sans', 2);
 			@include u-text('base');
 			@include u-display('flex');
-			@include u-flex('align-center');
-			// @include u-display('none');
-			@include at-media('desktop') {
-				@include u-display('flex');
+			@include u-flex('align-start');
+			@include at-media('tablet') {
+				@include u-font('sans', '2xs');
 			}
 			img{
+				@include u-margin-top('2px');
 				@include u-margin-right('05');
-				@include u-width('205');
+				@include u-width(2);
+				@include at-media('tablet') {
+					@include u-margin-top(0);
+					@include u-width('205');
+				}
+			}
+			span{
+				@include u-display('block');
 			}
 		}
 	}

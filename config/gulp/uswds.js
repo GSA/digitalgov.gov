@@ -37,7 +37,9 @@ PATHS
 */
 
 // Project Sass source directory
-const PROJECT_SASS_SRC = './themes/digital.gov/src/scss';
+const PROJECT_SASS_SRC = './themes/digital.gov/src/scss/old_css';
+
+const USWDS_SRC = './themes/digital.gov/src/scss/uswds';
 
 // Images destination
 const IMG_DEST = './themes/digital.gov/static/uswds/img';
@@ -59,7 +61,7 @@ TASKS
 
 gulp.task('copy-uswds-setup', () => {
   return gulp.src(`${uswds}/scss/theme/**/**`)
-  .pipe(gulp.dest(`${PROJECT_SASS_SRC}`));
+  .pipe(gulp.dest(`${USWDS_SRC}`));
 });
 
 gulp.task('copy-uswds-fonts', () => {

@@ -15,7 +15,13 @@
       {{ end }}
     </div>
 
-    {{- partial "guide-nav" . -}}
+    <div class="guide-nav">
+      <div class="toc">
+        <h6>In this page</h6>
+        {{- .TableOfContents -}}
+      </div>
+    </div>
+
 
     <div class="entry-content">
       <!-- Go to www.addthis.com/dashboard to customize your tools -->

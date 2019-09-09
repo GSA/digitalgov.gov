@@ -20,7 +20,7 @@ Add styles beneath this line that you want to be applied across your entire site
 }
 
 .hidden{
-	display: none;
+	@include u-display('none');
 }
 
 /* DESKTOP ONLY STYLES

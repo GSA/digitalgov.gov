@@ -3,7 +3,7 @@ slug: us-web-design-system-aug-monthly-call
 title: 'U&#46;S&#46; Web Design System&#58; Aug Monthly Call'
 summary: 'Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, as he walks through the design system and answers your questions&#46; This month we’ll take a look at bootstrapping USWDS, including how to add USWDS to a project and start designing in minutes&#46;'
 featured_image:
-  uid: uswds-2-illio-feature-image
+  uid: 
   alt: 
 event_type:
   - Zoom
@@ -11,10 +11,9 @@ date: 2019-08-15 14:30:00 -0500
 end_date: 2019-08-15 15:30:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System
-registration_url: https://www.eventbrite.com/e/us-web-design-system-aug-monthly-call-registration-67269650335
+youtube_id: ZxlIgbrP0No
 
 ---
-_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4117240&CustomerID=321)_
 
 
 Please join Dan Williams, USWDS product lead, for an introduction to bootstrapping USWDS, including how to add USWDS to a project and start designing in minutes. Dan will also answer your questions about the design system.
