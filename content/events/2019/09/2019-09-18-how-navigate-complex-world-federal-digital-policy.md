@@ -27,12 +27,12 @@ Key takeaways will include:
 - Roadmap to breaking down policy into a consumable and shareable format 
 - Future-proof planning 
 
-***Tori Garten’s*** professional goal is to help government function faster, flexible and more fluid from the inside out in her role as Chief of the New Media and Web Policy Branch at the National Institute of Allergy and Infectious Diseases, one of the 27 Institutes and Centers of NIH. Tori enjoys solving digital communications challenges, and helping others to understand and operate in this ever evolving ecosystem. Tori’s technical and communication skills were developed in the fire of the dot com era, and she has been applying those skills in the challenging government arena for over 16 years. Tori enjoys seeing connections between seemingly unconnected, and applying that perspective to creative ideas and innovative solutions.
+In her role as Chief of the New Media and Web Policy Branch at the NIAID&mdash;one of the 27 Institutes and Centers of NIH&mdash;**Tori Garten’s** professional goal is to help government function faster, and be more flexible and more fluid, from the inside out. Tori enjoys solving digital communications challenges, and helping others to understand and operate in this ever evolving ecosystem. Tori’s technical and communication skills were developed in the fire of the dot com era, and she has been applying those skills in the challenging government arena for over 16 years. Tori enjoys seeing connections between seemingly unconnected, and applying that perspective to creative ideas and innovative solutions. 
 
----
-
-_This talk is hosted Digital.gov. Our team will send a reminder email prior to the event that includes your link to join the video. 
+_This talk is hosted Digital.gov. Our team will send a reminder email prior to the event that includes your link to join the video. _ 
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
 
-This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting)_ beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))
+---
+
+_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting)_ beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
