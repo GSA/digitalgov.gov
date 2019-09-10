@@ -21,7 +21,7 @@ Developing a citizen science project can be an effective means of collecting dat
 
 ***Julie Vastine*** is the director of the Alliance for Aquatic Resource Monitoring (ALLARM) at Dickinson College in Carlisle, Pennsylvania.  She is responsible for leadership of the ALLARM program and providing technical assistance to watershed communities interested in using science as a tool for change.  Julie has worked in the volunteer monitoring/citizen science field for seventeen years. In 2019, she was appointed to the National Water Quality Monitoring Council as the volunteer monitoring representative. In 2018, she was elected to the Citizen Science Association. A native of the Chesapeake Bay region, Julie enjoys working with community organizations to build their capacity to monitor, protect, and restore water quality in Pennsylvania and New York. In addition to her love working with communities on stream monitoring, Julie enjoys hiking, biking, cooking, and yoga.
 
-- [CitizenScience.gov/](https://www.citizenscience.gov/) 
+- [CitizenScience.gov](https://www.citizenscience.gov/) 
 - [Alliance for Aquatic Resource Monitoring (ALLARM)](https://www.dickinson.edu/allarm) 
 - [ALLARM Study Design Manual](https://www.dickinson.edu/download/downloads/id/7016/study_design_manual_2017.pdf) (PDF, 1.5 MB, 17 pages)
 
