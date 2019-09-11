@@ -69,7 +69,7 @@ We believe the public deserves plain language communication from its government,
 
 
 {{< box >}}
-Planning on attending? Let others know and use our hashtag `#PlainSummit2019`! [Here's what people are saying on Twitter](https://twitter.com/hashtag/PlainSummit2019) or follow [@govplainlang on twitter](https://twitter.com/govplainlang).
+Let others know and use our hashtag `#PlainSummit2019`! [Here's what people are saying on Twitter](https://twitter.com/hashtag/PlainSummit2019) or follow [@govplainlang on twitter](https://twitter.com/govplainlang).
 {{< /box >}}
 
 ## About PlainLanguage.gov
