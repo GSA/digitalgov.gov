@@ -36,9 +36,10 @@ We’ll also examine various themes and topics, including:
 
 ## Read ahead
 
-- [A Successful, Vibrant, and Productive Career for Federal Employees] (https://digital.gov/2019/08/05/a-successful-vibrant-productive-career-for-federal-employees/), a recap article about the 2019 Summer White House Workforce Data Interoperability Sprint
-- [Employee Engagement Workshops for the Future of Federal Data, Dashboards, and Storytelling] (https://digital.gov/2019/08/21/prototyping-engagement-workshops/), a recap article of innovative federal engagement strategies 
-- [Five Keys to a Successful Google Team] (https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+- [Technology Transformation Begins With People: Closing the Human-Technology Gap](https://digital.gov/2019/09/11/technology-transformation-begins-with-people-closing-human-technology-gap/)
+- [A Successful, Vibrant, and Productive Career for Federal Employees](https://digital.gov/2019/08/05/a-successful-vibrant-productive-career-for-federal-employees/), a recap article about the 2019 Summer White House Workforce Data Interoperability Sprint
+- [Employee Engagement Workshops for the Future of Federal Data, Dashboards, and Storytelling](https://digital.gov/2019/08/21/prototyping-engagement-workshops/), a recap article of innovative federal engagement strategies 
+- [Five Keys to a Successful Google Team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
 
 **NOTE:** In-person tickets are limited and going quickly, so sign-up fast!
 
