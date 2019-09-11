@@ -1,6 +1,6 @@
 ---
 slug: technology-transformation-begins-with-people-closing-human-technology-gap
-date: 2019-09-10 13:00:00 -0500
+date: 2019-09-11 12:00:00 -0500
 title: 'Technology Transformation Begins With People&#58; Closing the Human-Technology Gap'
 summary: 'GSA&#39;s Technology Transformation Services is prototyping a human-centered approach to cultivating an environment of lifelong learning to attract and retain the best talent to serve our citizens&#46;'
 authors:
