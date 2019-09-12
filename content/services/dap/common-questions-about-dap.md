@@ -1,7 +1,6 @@
 ---
 date: 2019-07-31 09:00:00 -0500
 title: "Common Questions about DAP"
-deck: "The questions that we get asked about the most often"
 summary: ""
 type: guide
 guide: dap
@@ -64,7 +63,7 @@ DAP staff is responsible for creating all agency profiles, as well as maintainin
 
 To view data related to a specific website’s traffic, each DAP user can create up to 100 advanced custom segments and/or custom reports. All of the user-based reports, segments, and dashboards can be shared with other GA DAP users, if requested. Additionally, a user can create various alerts to monitor their website performance and traffic, as well as campaigns and campaign-related reports. Watch the [DAP 101 recorded training](https://www.youtube.com/watch?v=CKMTK77PrJE&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P&index=4) (YouTube), to learn more about profiles, segments, and dashboards.
 
-Customization and Access
+## Customization and Access
 
 **Q. Who can use the tool?**
 
