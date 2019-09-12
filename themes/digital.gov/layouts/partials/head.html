@@ -59,7 +59,7 @@
   <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
   <meta property="og:type" content="{{ $.Scratch.Get "pagetype" }}">
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:site_name" content="DigitalGov">
+  <meta property="og:site_name" content="Digital.gov">
   {{ if $featImgURL }}<meta property="og:image" content="{{ $featImgURL }}" />{{ end }}
   {{ if $.Params.youtube_id }}<meta property='og:video' content='https://www.youtube.com/v/{{ $.Params.youtube_id }}' />{{ end }}
   <meta property="fb:admins" content="100000569454928" />
@@ -80,7 +80,7 @@
   <link href="{{ "feed/index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 
   {{ "<!-- Sitemap-->" | safeHTML }}
-  <link rel="sitemap" type="application/xml" title="DigitalGov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
+  <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
   {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
