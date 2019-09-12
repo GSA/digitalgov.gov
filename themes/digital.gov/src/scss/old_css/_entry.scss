@@ -68,9 +68,6 @@
 	color:#222;
 }
 
-.entry-content>:first-of-type{
-	@include u-margin-top(0);
-}
 .entry-content h4{
 	@include u-margin-y('105');
 }
