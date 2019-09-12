@@ -13,32 +13,35 @@ aliases:
 
 The Digital Analytics Program (DAP) offers a web analytics tool, training, and support to federal agencies. The program is a shared service provided by the [Technology Transformation Services](http://www.gsa.gov/tts) (TTS) at the [U.S. General Services Administration](https://www.gsa.gov) (GSA).
 
+
+**We provide federal agencies with:**
+
+- Free web analytics tools for public-facing federal websites that are comprehensive and easy-to-use
+- Scalable infrastructure for measureing a broad range of .gov sites (large and small)
+- Training on analytics tools and reporting
+    - [View upcoming trainings and talks »](https://demo.digital.gov/events/) 
+    - [View past recorded trainings »](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
+- Ongoing help-desk support around implementation, data, and reporting.
+
+
+## We Provide Insights Across Agencies
+
+Want to see how many people are on government websites right now? Take a look at our [**analytics.usa.gov**](https://analytics.usa.gov/?=dg) dashboard that delivers an unprecedented, government-wide view of how the public interacts with federal websites.
+
+{{< img src="analytics-usa-gov" caption="A screenshot of the [analytics.usa.gov](https://analytics.usa.gov?=dg) dashboard — a government-wide view of how the public interacts with federal websites dashboard." alt="a screenshot of the analytics.usa.gov dashboard — a government-wide view of how the public interacts with federal websites" >}}
+
+
+### DAP is required
+
 On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf)(PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP JavaScript code on all public facing federal websites. 
 
-{{< legacy-img src="/2015/04/600-dap-one-no-URL.jpg" alt="A screen capture of the Digital Analytics Program (DAP) analytics.usa.gov website dashboard, showing that 143,619 people were visiting government websites at that moment." caption="A screenshot of analytics.usa.gov; not real-time results." >}}
+{{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 
-**The program consists of:** 
+**2. Use Analytics and User Feedback to Manage Websites and Digital Services**
 
-- A no-cost web analytics tool for public-facing federal websites
-- Analytics Tools and Reporting Training
-    - Past recorded trainings on our [YouTube channel](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
-    - Future training found on our [events page](https://demo.digital.gov/events/) 
+All public facing websites and digital services should be designed around user needs with data driven analysis influencing management and development decisions. Agencies should use qualitative and quantitative data to determine user goals, needs, and behaviors, and continually test websites and digital services to ensure that user needs are addressed.
 
-- Ongoing help-desk implementation and data reporting support via email at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov) 
-A public window into selected data at [analytics.usa.gov](https://analytics.usa.gov/)
+- A. {{< highlight >}}All agencies must participate in the General Service Administration’s (GSA) Digital Analytics Program (DAP) and deploy the DAP tracking code on all public facing agency websites.{{< /highlight >}} The DAP provides agencies with free quantitative analytics to inform website management. Participation in the DAP does not preclude agencies from using other analytics programs.
+- B. GSA will maintain a public listing of the domains participating in the DAP and track agency compliance on the DotGov Dashboard.{{< /card-policy >}}
 
-
-## DAP provides no-cost website analytics services and support that include:
-
-- comprehensive, easy-to-use analytics for public-facing websites
-- broad overviews and in-depth insights that apply to programs across agencies
-- scalable infrastructure for measureing a broad range of .gov sites (large and small)
-
-**DAP also provides data insights across agencies**
-
-- Our [**analytics.usa.gov**](https://analytics.usa.gov/) dashboard is a common analytics tool across federal agencies delivers an unprecedented, governmentwide view of how the public interacts with federal websites. 
-- Participation from over 60 agencies offers data from a variety of types of websites within government. 
-- Making analytics data more accessible allows for agencies to collaborate to improve services.
-
-
-Email the [Digital Analytics Program](mailto:dap@support.digitalgov.gov)
+**Questions?** Email the [Digital Analytics Program](mailto:dap@support.digitalgov.gov)
