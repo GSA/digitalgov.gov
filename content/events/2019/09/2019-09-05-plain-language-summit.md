@@ -13,7 +13,7 @@ date: 2019-09-05 09:00:00 -0500
 end_date: 2019-09-05 16:00:00 -0500
 event_organizer: DigitalGov
 host: Plain Language Community of Practice
-registration_url: https://www.eventbrite.com/e/plain-language-summit-2019-registration-68312080271
+youtube_id: cny1CIMuv3o
 venue:
   venue_name: U.S. General Services Administration
   room: 1459/1460/1461
@@ -40,11 +40,7 @@ tag:
 
 {{< img src="card-plain-language-summit-2019" >}}
 
-_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4135103&CustomerID=321)_
-
-**On Thursday, September 5th, 2019**, the federal Plain Language community will bring together some of the brightest individuals involved in government communications for a one-day series of talks and conversations on how to advance plain language in government communications.
-
-Do you work in government communications? Gather your team and join us in-person or online to learn about the importance of plain language and methods for implementing it, and learn from fellow communicators from across the federal government.
+**On Thursday, September 5th, 2019**, the federal Plain Language community brought together some of the brightest individuals involved in government communications for a one-day series of talks and conversations on how to advance plain language in government communications.
 
 {{< img-right src="plain-language" >}}
 
@@ -73,7 +69,7 @@ We believe the public deserves plain language communication from its government,
 
 
 {{< box >}}
-Planning on attending? Let others know and use our hashtag `#PlainSummit2019`! [Here's what people are saying on Twitter](https://twitter.com/hashtag/PlainSummit2019) or follow [@govplainlang on twitter](https://twitter.com/govplainlang).
+Let others know and use our hashtag `#PlainSummit2019`! [Here's what people are saying on Twitter](https://twitter.com/hashtag/PlainSummit2019) or follow [@govplainlang on twitter](https://twitter.com/govplainlang).
 {{< /box >}}
 
 ## About PlainLanguage.gov
@@ -84,12 +80,8 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Join the [community](https://digital.gov/communities/plain-language/)
 - Follow [@GovPlainLang on Twitter](https://twitter.com/govplainlang)
 
-**NOTE:** In-person tickets are limited and going quickly, so sign-up fast!
-
 _Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
 
-Our team will send a reminder email prior to the event that includes your link to join the video. 
 
 ---
 
-_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_ 
