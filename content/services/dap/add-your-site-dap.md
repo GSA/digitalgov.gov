@@ -17,6 +17,8 @@ All public facing websites and digital services should be designed around user n
 
 - A. {{< highlight >}}All agencies must participate in the General Service Administration’s (GSA) Digital Analytics Program (DAP) and deploy the DAP tracking code on all public facing agency websites.{{< /highlight >}} The DAP provides agencies with free quantitative analytics to inform website management. Participation in the DAP does not preclude agencies from using other analytics programs.
 - B. GSA will maintain a public listing of the domains participating in the DAP and track agency compliance on the DotGov Dashboard.{{< /card-policy >}}
+
+
 ## Participating in the Program
 
 Any federal agency can sign up to use the Digital Analytics Program web analytics tool. Here’s how it works: 
@@ -26,13 +28,20 @@ Any federal agency can sign up to use the Digital Analytics Program web analytic
 - GSA will provide implementation support, access to training, and other resources to the agency POC.
 - If you don’t have an identified point of contact, [send us an email](mailto:dap@support.digitalgov.gov).
 
-## Instructions for Adding Custom Web Analytics Code to Federal Agency Websites
 
+## Appropriate Placement of the DAP Script Tag
+
+**The DAP script should only be applied to public-facing pages.** Public-facing web pages are defined as those that can be accessed without any authentication or login, and are not part of an otherwise "privileged session."
+
+The DAP script tag should not be placed on pages visited during logged-in sessions. Notably, other seemingly “public” pages that can be accessed without authentication may also be part of _privileged sessions_; for example, a password reset page that is accessed by clicking a link in an email is not appropriate for DAP code because it assumes the visitor has the privilege of control over the email account used to provide the link. 
+
+
+## Instructions for Adding Custom Web Analytics Code to Federal Agency Websites
 
 Agencies have two options for the DAP code implementation, all described in detail in the [DAP Implementation Guide](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20Quick%20Guide.pdf) (PDF, 293 kb, 13 pages PDF), and outlined below. 
 
-1. **Centrally hosted (recommended):** the implementation involves calling the DAP code file via a central host location that the Digital Analytics Program hosts at: [https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js](https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js). The DAP team continuously updates this file with new versions (and/or bug fixes periodically), and those changes take effect immediately on sites implemented with the file via the above location. We’ve taken every measure possible to make this option easy and secure. Please [see our GitHub repo](https://github.com/digital-analytics-program/gov-wide-code) for more explanation and [the implementation guide](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.0%20-%20Quick%20Guide.pdf) (PDF, 217 kb, 12 pages PDF) for specific steps.
-2. **Locally hosted:** The other option is to continue to host the DAP code file locally, as many agencies have done in the past. If you determine this is the right option for your agency website, please choose one of the file versions below (posted on Github) to host the DAP code locally, and review [the implementation guide](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/DAP_v3.1_QuickGuide_Aug2016-1.pdf) (PDF) for specific steps. Please note that if you choose to implement using the locally hosted version, you will need to upgrade your code each time the DAP team releases a new code version. Failure to update your locally hosted code could impact the quality, security, and/or functionality of data collected in DAP. 
+1. **Centrally hosted (recommended):** the implementation involves calling the DAP code file via a central host location that the Digital Analytics Program hosts at: [https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js](https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js). The DAP team continuously updates this file with new versions (and/or bug fixes periodically), and those changes take effect immediately on sites implemented with the file via the above location. We’ve taken every measure possible to make this option easy and secure. Please [see our GitHub repo](https://github.com/digital-analytics-program/gov-wide-code) for more explanation and [the implementation guide](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20Quick%20Guide.pdf) (PDF, 293 kb, 13 pages PDF) for specific steps.
+2. **Locally hosted:** The other option is to continue to host the DAP code file locally, as many agencies have done in the past. If you determine this is the right option for your agency website, please choose one of the file versions below (posted on Github) to host the DAP code locally, and review [the implementation guide](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20Quick%20Guide.pdf) (PDF, 293 kb, 13 pages PDF) for specific steps. Please note that if you choose to implement using the locally hosted version, you will need to upgrade your code each time the DAP team releases a new code version. Failure to update your locally hosted code could impact the quality, security, and/or functionality of data collected in DAP. 
     - File number one: [Regular version of the DAP JavaScript code on GitHub](https://raw.githubusercontent.com/digital-analytics-program/gov-wide-code/master/Universal-Federated-Analytics.js). 
     - File number two: [Minified version of the DAP JavaScript code on GitHub](https://raw.githubusercontent.com/digital-analytics-program/gov-wide-code/master/Universal-Federated-Analytics-Min.js). 
 
@@ -41,9 +50,3 @@ In addition, those implementing should read capabilities of the code in the [ver
 With either option (centrally or locally hosted), the Government-Wide Digital Analytics Program website traffic data is being filtered into its own separate Google Analytics account, and should cause no change in your independent Google Analytics account metrics. 
 
 If you have any questions, please email us at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov). We’d be happy to assist.
-
-## Appropriate Placement of the DAP Script Tag
-
-The Digital Analytics Program JavaScript code is intended to be implemented on public-facing federal government web pages. In this sense, public-facing web pages are defined as those that can be accessed without any authentication or login, and are not part of an otherwise "privileged session." 
-
-As such, the DAP script tag should not be placed on pages visited during logged-in sessions. Notably, other seemingly “public” pages that can be accessed without authentication may also be part of _privileged sessions_; for example, a password reset page that is accessed by clicking a link in an email is not appropriate for DAP code because it assumes the visitor has the privilege of control over the email account used to provide the link.
