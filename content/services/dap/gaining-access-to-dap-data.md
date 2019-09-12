@@ -5,6 +5,7 @@ deck: ""
 summary: ""
 type: guide
 guide: dap
+weight: 1
 ---
 
 Any federal employee or contractor who works for a participating agency can register for access to the Digital Analytics Program (DAP) reporting interface, so long as the agency point of contact (POC) approves.
@@ -18,7 +19,7 @@ Contrary to common belief, **you do not need a Gmail address to access Google An
 - If yes, no action is needed.
 - If no, then you'll need to associate your .gov or .mil or authorized contractor email address with Google Analytics at [https://accounts.google.com/SignUpWithoutGmail?hl=en](https://accounts.google.com/SignUpWithoutGmail?hl=en), if isn’t already associated. **Do not create a new Gmail address**.
 
-{{< note >}}**Note: Do you have a gmail.com address linked to your .gov email address (potentially as a backup)?**, If so, you will have to unlink those accounts in order to become a DAP user. We can send you instructions to help unlink the accounts. Also, linking those addresses after being granted access could result in your personal gmail.com address becoming the "primary" account, and you may be subject to removal from our system.
+{{< note >}}**Do you have a gmail.com address linked to your .gov email address (potentially as a backup)?** If so, you will have to unlink those accounts in order to become a DAP user. We can send you instructions to help unlink the accounts. Also, linking those addresses after being granted access could result in your personal gmail.com address becoming the "primary" account, and you may be subject to removal from our system.
 {{< /note >}}
 
 
