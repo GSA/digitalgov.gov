@@ -46,6 +46,7 @@
 	line-height: 36px;
 	border-top:none;
 	color:#222;
+	@include u-maxw('tablet-lg');
 }
 .entry-content{
 	margin-bottom: 50px;
