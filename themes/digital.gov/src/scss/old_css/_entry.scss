@@ -36,7 +36,6 @@
 .post .entry h2{
 	margin: 1em 0 .5em 0;
 	padding: .5em 0;
-	/* border-top:1px #000 solid; */
 	color:#000;
 }
 
@@ -69,6 +68,9 @@
 	color:#222;
 }
 
+.entry-content>:first-of-type{
+	@include u-margin-top(0);
+}
 .entry-content h4{
 	@include u-margin-y('105');
 }
