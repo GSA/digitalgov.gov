@@ -1,7 +1,7 @@
 ---
 slug: us-web-design-system-september-monthly-call
 title: 'U&#46;S&#46; Web Design System&#58; September Monthly Call'
-summary: 'Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, as he walks through the design system and answers your questions&#46; '
+summary: 'This month, we’ll take a look at the development process for a USWDS component and demonstrate how we start with a problem and work to a solution that could be shared across other websites.'
 featured_image: 
   uid: 
   alt: ''
@@ -17,7 +17,7 @@ registration_url: https://www.eventbrite.com/e/us-web-design-system-september-mo
 
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4134158&CustomerID=321)_
 
-Please join Dan Williams, U.S. Web Design System (USWDS) product lead, for an introduction to the USWDS. Dan also will answer your questions about the design system.
+Please join Dan Williams, U.S. Web Design System (USWDS) product lead, for an overview of the development process for a USWDS component. He will co-present with Jeremy Zilar of Digital.gov to demonstrate how we start with a problem and work to a solution that could be shared across other websites, as well as answer your questions about the design system. 
 
 This event is part of a monthly series that generally takes place on the third Thursday of each month. The video will be available on Digital.gov shortly after the event.
 
@@ -38,5 +38,5 @@ _Questions about this event or future events? Send them to [digitalgovu@gsa.gov]
 
 Our team will send a reminder email before the event that includes your link to join the video. 
 
-_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._
+_This event will be held and recorded over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._
 
