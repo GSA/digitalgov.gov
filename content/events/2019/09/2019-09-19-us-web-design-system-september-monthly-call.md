@@ -1,7 +1,7 @@
 ---
 slug: us-web-design-system-september-monthly-call
 title: 'U&#46;S&#46; Web Design System&#58; September Monthly Call'
-summary: 'Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, as he walks through the design system and answers your questions&#46; '
+summary: 'This month, we’ll take a look at the development process for a USWDS component and demonstrate how we start with a problem and work to a solution that could be shared across other websites.'
 featured_image: 
   uid: 
   alt: ''
