@@ -1,6 +1,6 @@
 {{ define "pagevars" }}
   {{ $.Scratch.Set "bodyclasses" "top archive post-type-archive post-type-archive-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-list events-archive tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive" }}
-  {{ $.Scratch.Set "headtitle" "Events | DigitalGov" }}
+  {{ $.Scratch.Set "headtitle" "Events | Digital.gov" }}
 {{ end }}
 
 {{ define "content" }}
@@ -15,7 +15,7 @@
             <div class="events-head">
               <h1>Upcoming Training & Events</h1>
               <p>
-                <a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a>
+                <a href="https://www.youtube.com/digitalgov" title="View all Digital.gov videos and training">All training & videos »</a>
               </p>
             </div>
 
@@ -42,7 +42,7 @@
 
             <div class="events-head">
               <h1>Past Events</h1>
-              <p><a href="https://www.youtube.com/digitalgov" title="View all DigitalGov videos and training">All training & videos »</a></p>
+              <p><a href="https://www.youtube.com/digitalgov" title="View all Digital.gov videos and training">All training & videos »</a></p>
             </div>
 
             {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
