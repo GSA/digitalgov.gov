@@ -8,7 +8,7 @@ guide: dap
 ---
 
 ## Data that is publicly shareable
-Any data appearing on our public dashboard ([analytics.usa.gov](https://analytics.usa.gov/)) can be freely communicated or shared. We also offer an API for the data behind [analytics.usa.gov](https://analytics.usa.gov/), which is powered by a wealth of data from the Digital Analytics Program (DAP) Google Analytics account.
+Any data appearing on our public dashboard ([analytics.usa.gov](https://analytics.usa.gov/)) can be freely communicated or shared. We also [offer an API](https://open.gsa.gov/api/dap/) for the data behind [analytics.usa.gov](https://analytics.usa.gov/), which is powered by a wealth of data from the Digital Analytics Program (DAP) Google Analytics account.
 
 ## Requests for data
 Our policy is to refer any data requests for information more granular than what is available on analytics.usa.gov to the agency’s DAP point of contact (POC). It’s the agency’s discretion to provide data related to their sites beyond what is already publicly available. We ccasionally receive [Freedom of Information Act](https://www.foia.gov/) (FOIA) requests that we refer to the agency in question.
