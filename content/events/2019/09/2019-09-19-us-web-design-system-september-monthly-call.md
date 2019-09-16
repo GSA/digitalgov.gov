@@ -6,7 +6,7 @@ featured_image:
   uid: 
   alt: ''
 event_type: 
-  - online
+  - Zoom
 date: 2019-09-19 14:30:00 -0500
 end_date: 2019-09-19 15:30:00 -0500
 event_organizer: DigitalGov University
