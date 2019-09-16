@@ -33,7 +33,7 @@ A. Currently, DAP uses Google Analytics 360 to collect and analyze the Web traff
 
 **Q. Does this tool have to go on all websites? Or just top-level domains?**
 
-A. On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf)(PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP javascript code on all public facing federal websites. Please see the Adding Your Site(s) to the Program page for more information.
+A. On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf)(PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP javascript code on all public facing federal websites. Please see the `Adding Your Site to DAP` page for more information.
 
 **Q. Can the DAP code be implemented with other Google Analytics and/or other web analytics tools?**
 
@@ -59,7 +59,7 @@ A. No. The DAP Google Analytics code should be deployed only on public-facing ag
 
 A. DAP Google Analytics account uses Views (formerly called ‘Profiles’) to categorize and report on federal government agencies’ website traffic. Views are assigned at the main or cabinet federal agency level (e.g. DOD, DOC, Department of Education etc.), and the traffic for sub-agency or bureau websites is reported under that main agency profile. There’s also an overarching, government-wide reporting profile, which combines all of the federal websites’ traffic into a single profile.
 
-DAP staff is responsible for creating all agency profiles, as well as maintaining each of the profiles’ filters used to distribute incoming traffic data. All DAP GA user access requests must be first approved by the respective agency’s DAP POC. Once approved, all DAP users are granted view-only rights to access the Google Analytics views. After user access is granted, users can view website traffic within the DAP profiles. All user management and other admin functions are handled by the DAP staff only. 
+DAP staff is responsible for creating all agency profiles, as well as maintaining each of the profile filters used to distribute incoming traffic data. All DAP GA user access requests must be first approved by the respective agency’s DAP POC. Once approved, all DAP users are granted view-only rights to access the Google Analytics views. After user access is granted, users can view website traffic within the DAP profiles. All user management and other admin functions are handled by the DAP staff only. 
 
 To view data related to a specific website’s traffic, each DAP user can create up to 100 advanced custom segments and/or custom reports. All of the user-based reports, segments, and dashboards can be shared with other GA DAP users, if requested. Additionally, a user can create various alerts to monitor their website performance and traffic, as well as campaigns and campaign-related reports. Watch the [DAP 101 recorded training](https://www.youtube.com/watch?v=CKMTK77PrJE&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P&index=4) (YouTube), to learn more about profiles, segments, and dashboards.
 
@@ -75,7 +75,7 @@ A. Yes. There is no cost for federal government agencies to use this tool.
 
 **Q. Is a Gmail or Google account the only way to access this data?**
 
-A. Google account is required, but a Gmail email address is not—any email address can be used to create a Google account. Personal Gmail accounts will not be granted access. You should sign up for the Digital Analytics Program using your .gov or contractor company email address.
+A. A Google account is required, but a Gmail email address is not—any email address can be used to create a Google account. Personal Gmail accounts will not be granted access. You should sign up for the Digital Analytics Program using your .gov or contractor company email address.
 
 **Q. Am I allowed to modify the DAP GA code to customize it for my agency/website?**
 
@@ -85,7 +85,7 @@ A. No. The gov-wide Google Analytics code is designed to collect data in a consi
 
 **Q. Can visitors to government websites opt-out from being tracked by Google Analytics?**
 
-A. Yes. Google officially allows people to [opt out of Google Analytics](https://support.google.com/analytics/answer/181881?hl=en) through a [browser extension](https://tools.google.com/dlpage/gaoptout) for many major browsers.
+A. Yes. Google allows people to [opt out of Google Analytics](https://support.google.com/analytics/answer/181881?hl=en) through a [browser extension](https://tools.google.com/dlpage/gaoptout) for many major browsers.
 
 **Q. Does Google or GSA collect Personally Identifiable Information (PII)?**
 
@@ -95,7 +95,7 @@ In addition, the DAP code is set to anonymize IP addresses at the earliest avail
 
 **Q. Are the metrics we collect available to Google’s corporate advertising partners?**
 
-A. No. None of the federal government data tracked as part of the Digital Analytics Program will be shared with or available to Google’s corporate advertising partners.
+A. No. None of the federal government data tracked as part of the Digital Analytics Program are shared with to Google’s corporate advertising partners.
 
 **Q. Does Google or GSA ever store IP addresses?**
 
