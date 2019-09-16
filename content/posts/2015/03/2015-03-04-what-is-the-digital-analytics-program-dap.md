@@ -18,7 +18,7 @@ tag:
 
 {{< legacy-img src="2015/03/352-x-250-DAP-Realtime-Users.jpg" alt="An example of the real-time reporting in DAP's Web analytics tool where a count of visitors reads 181,221." >}}
 
-The [Digital Analytics Program (DAP)]({{< link "dap.md" >}}) is a cornerstone of the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale. The DAP, provided by GSA to all federal executive branch agencies, delivers digital analytics tools (like Web analytics and customer satisfaction survey tools), performance metrics guidance, metrics benchmarks, and training, all at no cost.
+The [Digital Analytics Program (DAP)]({{< link "/dap/" >}}) is a cornerstone of the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale. The DAP, provided by GSA to all federal executive branch agencies, delivers digital analytics tools (like Web analytics and customer satisfaction survey tools), performance metrics guidance, metrics benchmarks, and training, all at no cost.
 
 ## Common Set of Digital Metrics Gov-Wide
 
@@ -54,4 +54,4 @@ Efficiency and effectiveness are the pinnacles of the DAP’s value to governmen
 
 The DAP provides a model for scalability and transferability that is unmatched. By procuring top-of-the-line solutions and structuring the implementations so they can be shared by all of government, the program has created a synergy of cost savings and improved innovation. The aggregate data collected by the DAP is so much greater than the sum of its participating agency parts, being that it allows a glimpse into the public’s interaction with a huge swath of government websites. In a sense, it is a public service for the public service, and the team hopes that this model will be aggressively adopted for other IT solutions as well.
 
-To learn more about DAP and how to participate in the program, visit the [DAP overview page]({{< link "dap.md" >}}) or contact us via [email](mailto:dap@gsa.gov).
+To learn more about DAP and how to participate in the program, visit the [DAP overview page]({{< link "/dap/" >}}) or contact us via [email](mailto:dap@gsa.gov).

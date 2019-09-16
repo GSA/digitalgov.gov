@@ -11,26 +11,15 @@
 
       <h1 class="post-title single">{{ .Title | markdownify }}</h1>
       {{ if .Params.deck }}
+
       <div class="deck">{{ .Params.deck }}</div>
       {{ end }}
+
       {{ partial "last-updated" . }}
+
     </div>
 
-    <div class="guide-nav">
-      {{ if .Params.guidenav }}
-        {{ $cur := .Params.guidenav }}
-        <ul>
-        <!-- looking for a data-file in /data/guidenav/ -->
-        {{ range (index .Site.Data.guidenav .Params.guidenav).guidenav }}
-          <li><a href="{{ .slug | relURL }}" title="{{ .title }}">{{ .title }}</a></li>
-        {{ end }}
-        </ul>
-      {{ end }}
-      <div class="toc">
-        <h6>In this page</h6>
-        {{ partial "toc.html" . }}
-      </div>
-    </div>
+    {{- partial "guide-nav" . -}}
 
     <div class="entry-content">
       {{ .Content }}

@@ -166,7 +166,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
   * Institute processes to review customer feedback on a regular basis 
       * [Using Customer Feedback to Improve Healthcare.gov]({{< link "2015-09-17-using-customer-feedback-to-improve-healthcare-gov.md" >}})
   * Review website and search data to identify the most-viewed/popular content 
-      * [DAP/Google Analytics]({{< link "dap.md" >}}) &#8211; web analytics
+      * [DAP/Google Analytics]({{< link "/dap/" >}}) &#8211; web analytics
       * [DigitalGov Search]({{< link "search.md" >}}) &#8211; website search data
 
 ### Identify common questions
@@ -231,7 +231,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 ### Standardize processes
 
   * Follow policies and requirements 
-      * [Digital Metrics Guidance and Best Practices]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}})
+      * [Digital Metrics Guidance and Best Practices]({{< link "/services/dap/_index.md" >}})
       * [Paperwork Reduction Act Fast Track Process]({{< link "/resources/" >}})paperwork-reduction-act-44-u-s-c-3501-et-seq/)
   * Adopt survey best practices 
       * [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15) &#8211; video
@@ -245,7 +245,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 
 ### Use shared services
 
-  * [Digital Analytics Program (DAP)]({{< link "dap.md" >}}) &#8211; website analytics
+  * [Digital Analytics Program (DAP)]({{< link "/dap/" >}}) &#8211; website analytics
   * [DigitalGov Search]({{< link "search.md" >}}) &#8211; hosted search service
   * [DOI Federal Consulting Group (FCG)](https://www.fcg.gov/) &#8211; survey tools and analysis support
 

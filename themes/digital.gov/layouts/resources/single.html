@@ -18,7 +18,7 @@
     <div class="guide-nav">
       <div class="toc">
         <h6>In this page</h6>
-        {{ partial "toc.html" . }}
+        {{- .TableOfContents -}}
       </div>
     </div>
 
@@ -28,6 +28,7 @@
       <div class="addthis_inline_share_toolbox"></div>
 
       {{ .Content }}
+
     </div>
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
     <div class="addthis_inline_share_toolbox"></div>

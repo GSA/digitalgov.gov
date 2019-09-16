@@ -18,7 +18,7 @@ tag:
 
 {{< legacy-img src="2014/10/600-x-400-Graphic-charts-bizoo_n-iStock-Thinkstock-478288259.jpg" alt="Various analytics graphic charts" caption="" >}}
 
-Launched just three years ago, the [Digital Analytics Program (DAP)]({{< link "dap.md" >}}) continues to drive the [2012 Digital Government Strategy’s](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance) mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale.
+Launched just three years ago, the [Digital Analytics Program (DAP)]({{< link "/dap/" >}}) continues to drive the [2012 Digital Government Strategy’s](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance) mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale.
 
 [The DAP officially launched on October 15, 2012](http://gsablogs.gsa.gov/dsic/2012/10/05/digital-analytics-program-helps-agencies-measure-web-performance/) with a release of its first version of the government-wide Web analytics code. The first agency to implement DAP was the Department of Interior, on doi.gov. Today, 45 agencies—including all CFO Act agencies—have implemented the common code across more than 4,000 public-facing websites, counting 1.5 BILLION pageviews each month.
 
@@ -58,7 +58,7 @@ Don’t create in a silo. Eventually, programs have to get a buy-in from custome
 
 Talking about great data is great. However, applying the great data to make informed decisions is what it’s all about. While users understand the value and importance of Big Data in general, and DAP in particular, using the data and applying it to drive decisions can be overwhelming. “Where do I begin?” is a common question we get when agencies first on-board with DAP.
 
-At DAP, we’ve always felt passionate about sharing lessons learned and demonstrating how data can be used to drive decisions. So, we write topic-based blogs, [trend analyses]({{< link "2015-10-15-gov-analytics-breakdown-1-browsers-chrome-takes-the-cake.md" >}}), [benchmark]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}}) recommendations, [metrics guidance]({{< link "2014-06-19-the-golden-metric.md" >}}), [methods for analyzing data]({{< link "2015-04-16-using-a-hypothesis-driven-approach-in-analyzing-and-making-sense-of-your-website-traffic-data.md" >}}) to support agencies in integrating the use of the data into their daily routine. The best examples, though, come from agencies themselves, demonstrating how they’ve used DAP data to drive decisions, in [real-world]({{< link "2013-11-06-nps-gov-use-of-digital-analytics-program-beyond-the-numbers.md" >}}) or [out-of-this world]({{< link "2013-09-17-digital-analytics-program-goes-to-the-moon.md" >}}) scenarios.
+At DAP, we’ve always felt passionate about sharing lessons learned and demonstrating how data can be used to drive decisions. So, we write topic-based blogs, [trend analyses]({{< link "2015-10-15-gov-analytics-breakdown-1-browsers-chrome-takes-the-cake.md" >}}), [benchmark]({{< link "/services/dap/_index.md" >}}) recommendations, [metrics guidance]({{< link "2014-06-19-the-golden-metric.md" >}}), [methods for analyzing data]({{< link "2015-04-16-using-a-hypothesis-driven-approach-in-analyzing-and-making-sense-of-your-website-traffic-data.md" >}}) to support agencies in integrating the use of the data into their daily routine. The best examples, though, come from agencies themselves, demonstrating how they’ve used DAP data to drive decisions, in [real-world]({{< link "2013-11-06-nps-gov-use-of-digital-analytics-program-beyond-the-numbers.md" >}}) or [out-of-this world]({{< link "2013-09-17-digital-analytics-program-goes-to-the-moon.md" >}}) scenarios.
 
 ### 3. Innovate On the Fly
 
@@ -82,7 +82,7 @@ Data management and governance lie at the heart of the DAP program. Frankly, at 
 
 At DAP, data is monitored closely on an hourly basis with the help of automated alerts to pick up significant changes and perform diagnostics. In addition, to ensure that the data is processed and standardized before it is available for reporting, we apply a set of data [standardization rules](https://github.com/digital-analytics-program/gov-wide-code/issues/10) against all of the collected data. As DAP continues to evolve, the role of the DAP Experts Community will continue to expand.
 
-Data quality doesn’t stop with DAP Experts. Every government user of DAP data also has responsibilities, abiding by a [set of rules]({{< link "common-questions-about-dap-faq.md#part-7.md" >}}) to protect the integrity of the data upon receiving access to it.
+Data quality doesn’t stop with DAP Experts. Every government user of DAP data also has responsibilities, abiding by a [set of rules]({{< link "common-questions-about-dap.md#part-7.md" >}}) to protect the integrity of the data upon receiving access to it.
 
 ## It’s a Journey
 

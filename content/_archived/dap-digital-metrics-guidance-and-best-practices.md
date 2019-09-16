@@ -3,9 +3,11 @@ url: /services/dap/dap-digital-metrics-guidance-and-best-practices/
 date: 2013-07-29 9:27:00 -0400
 title: 'DAP: Digital Metrics Guidance and Best Practices'
 summary: 'Agencies should ensure that they collect, analyze, and report on a minimum baseline set of performance and customer satisfaction measures. It&rsquo;s important to collect a variety of metrics&mdash;not just visits or page views&mdash;to get a holistic picture of how well you&rsquo;re delivering your digital services and information. While a goal of the Digital Strategy is to have a common set of performance measures and consistent means of collecting data, agencies may have varied approaches to using and interpreting the data based on individual agency and website goals.'
+type: guide
+guide: dap
 ---
 
-**This guidance is part of the [Digital Analytics Program]({{< link "dap.md" >}} "DAP: Digital Analytics Program") (DAP): Digital Metrics Guidance and Best Practices. [See more on the DAP]({{< link "dap.md" >}} "DAP: Digital Analytics Program").**
+**This guidance is part of the [Digital Analytics Program]({{< link "/dap/" >}} "DAP: Digital Analytics Program") (DAP): Digital Metrics Guidance and Best Practices. [See more on the DAP]({{< link "/dap/" >}} "DAP: Digital Analytics Program").**
 
 Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers.
 
@@ -730,7 +732,7 @@ Here are a set of [recommended, baseline social media metrics]({{< link "2013-04
 
 The most efficient and consistent way for agencies to collect the common performance metrics is to add a common analytics page tag to their websites. [Page tagging](http://en.wikipedia.org/wiki/Web_analytics) is now the industry standard for collecting real-time, detailed page-level performance data; it’s generally low-cost and relatively easy to implement.
 
-[GSA’s Center for Digital Services Innovation](http://gsablogs.gsa.gov/dsic/) has developed this Metrics toolkit that provides the following resources for agencies, as part of the [Digital Analytics Program]({{< link "dap.md" >}}).
+[GSA’s Center for Digital Services Innovation](http://gsablogs.gsa.gov/dsic/) has developed this Metrics toolkit that provides the following resources for agencies, as part of the [Digital Analytics Program]({{< link "/dap/" >}}).
 
 Read OMB&#8217;s guidance to agencies (accessible to federal employees on the OMB MAX wiki):
 

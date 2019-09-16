@@ -2,17 +2,19 @@
 }
 
 .entry-head{
-	margin-bottom: 32px;
+	@include u-margin-y(3);
 }
 .entry-head h1{
 	margin: 0;
 	color:#222;
 }
 .entry-head .breadcrumb{
-	margin-bottom: 15px;
+	@include u-margin-bottom(1);
+	@include u-font('sans', 'md');
+	@include u-text('normal');
 }
 .entry-head .breadcrumb p{
-	margin: 0;
+	@include u-margin(0);
 }
 .page .post-title,
 .post .post-title{
@@ -34,7 +36,6 @@
 .post .entry h2{
 	margin: 1em 0 .5em 0;
 	padding: .5em 0;
-	/* border-top:1px #000 solid; */
 	color:#000;
 }
 
@@ -44,7 +45,7 @@
 	line-height: 36px;
 	border-top:none;
 	color:#222;
-	max-width: 800px;
+	@include u-maxw('tablet-lg');
 }
 .entry-content{
 	margin-bottom: 50px;
@@ -66,6 +67,11 @@
 .entry-content{
 	color:#222;
 }
+
+.entry-content h4{
+	@include u-margin-y('105');
+}
+
 .entry-content p{
 	margin-bottom: 18px;
 }
@@ -187,22 +193,8 @@
 	font-size: 20px;
 	font-weight: 600;
 }
-.guide .entry-content h2{
-	margin-top: 60px;
-	margin-bottom: 35px;
-	padding-top: 15px;
-	border-top: 1px #555 solid;
-	color: #000;
-	font-size: 28px;
-}
-.guide .entry-content h2:first-child{
-	margin-top: 0px;
-}
-.guide .entry-content h3{
-	margin-bottom: 10px;
-	margin-top: 35px;
-	color: #222;
-}
+
+
 
 .last-updated{
 	margin-top: 25px;

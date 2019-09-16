@@ -608,27 +608,27 @@ acronym, abbr, span.caps {
 	cursor: help;
 	}
 
-.entry ul,
-.entry ol {
+.entry-content ul,
+.entry-content ol {
 	margin: 0 0 20px 0;
 	padding-left: 30px;
 }
 
-.entry ul ul,
-.entry ol ul,
-.entry ul ol,
-.entry ol ol {
+.entry-content ul ul,
+.entry-content ol ul,
+.entry-content ul ol,
+.entry-content ol ol {
 	margin-bottom: 0;
 	}
 
-.entry li{
+.entry-content li{
 	margin-bottom: 8px;
 }
-.entry ul li {
+.entry-content ul li {
 	list-style: disc;
 }
 
-.entry ul li li {
+.entry-content ul li li {
 	list-style: circle;
 }
 
