@@ -7,7 +7,7 @@ type: guide
 guide: dap
 ---
 
-**DAP is required:** On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf)(PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP JavaScript code on all public facing federal websites. 
+**DAP is required:** On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf)(PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP JavaScript code on all public facing federal websites. 
 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 
@@ -24,7 +24,7 @@ All public facing websites and digital services should be designed around user n
 Any federal agency can sign up to use the Digital Analytics Program web analytics tool. Here’s how it works: 
 
 - Agencies define a DAP point of contact.
-- The U.S. General Services Administration (GSA) will send the agency point of contact (POC) a short, sign-up form to register their agency, and work with them to implement the common page tag code.
+- The U.S. General Services Administration (GSA) will send the agency point of contact (POC) a short registration form to register their agency, and work with them to implement the common page tag code.
 - GSA will provide implementation support, access to training, and other resources to the agency POC.
 - If you don’t have an identified point of contact, [send us an email](mailto:dap@support.digitalgov.gov).
 
@@ -47,6 +47,6 @@ Agencies have two options for the DAP code implementation, all described in deta
 
 In addition, those implementing should read capabilities of the code in the [version 4.1 Code Summary](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20DAP%20Code%20Capabilities%20Summary%20and%20Reference.pdf) (PDF, 472 kb, 20 pages PDF), and the [version 4.1 Release Notes](https://github.com/digital-analytics-program/gov-wide-code/blob/master/documentation/GSA%20DAP%204.1%20-%20Release%20Notes.pdf) (PDF, 143 kb, 3 pages PDF).
 
-With either option (centrally or locally hosted), the Government-Wide Digital Analytics Program website traffic data is being filtered into its own separate Google Analytics account, and should cause no change in your independent Google Analytics account metrics. 
+With either option (centrally or locally hosted), the Government-Wide Digital Analytics Program website traffic data flows into its own separate Google Analytics account, and should cause no change in your independent Google Analytics account metrics. 
 
 If you have any questions, please email us at [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov). We’d be happy to assist.
