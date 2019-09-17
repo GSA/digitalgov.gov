@@ -26,8 +26,8 @@ In this recent round, we selected 32 projects to start at the Phase 1: Investiga
 **Agency Diversity of Submissions:** This year, we received our highest ever number of submissions from outside GSA. Of the total submission pool, 70 percent of submitted ideas were from GSA and partner agencies, and 30 percent were from other agencies. 81 percent of selected ideas were from GSA and partner agencies, and 19 percent were from other agencies. The graphs below illustrate the breakdown. We want to encourage individuals from a variety of agencies to submit ideas! If you are an employee from an agency outside GSA interested in submitting an idea to 10x but you have questions or hesitations about the process, please reach out to [10x@gsa.gov](mailto:10x@gsa.gov).
 
 {{< img src="10x-projects-report-1" >}}
+{{< img src="10x-projects-report-4" >}}
 
-{{< img src="10x-projects-report-2" >}}
 
 **Solution Areas:** We categorized and grouped pitches into 8 topic areas and mapped how submitted and selected ideas fell into these categories.
 
@@ -43,7 +43,7 @@ We have a total of 43 projects awaiting to start and 12 that are ongoing. Here i
 - **Phase 3:** 2 ongoing, 0 awaiting start
 - **Phase 4:** 1 ongoing, 1 awaiting start
 
-{{< img src="10x-projects-report-4" >}}
+{{< img src="10x-projects-report-2" >}}
 
 And to better highlight the work of our projects, we recently published a new “[Projects](https://10x.gsa.gov/projects/)” page to the [10x website](https://10x.gsa.gov/projects/), which details Phases 3 and 4 projects that are currently ongoing and graduated. We’ll continue to update this page as the 10x program and pipeline grow and evolve. 
 
