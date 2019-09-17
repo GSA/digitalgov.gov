@@ -16,6 +16,7 @@ personas:
 - Use a modern video player that supports captions.
 - If you've captioned your video, provide a transcript as one of the optional output formats produced by the closed captioning process. 
   - To make the transcript available, link to it from your web page, wherever you link to or display the associated video.
+- Audio description is required when important information is visually shown on the screen that cannot be observed by a blind or vision-impaired individual.  
 
 #### About transcripts
 A transcript is a text version of the media content. A transcript should capture all the spoken audio, plus on-screen text and descriptions of key visual information that wouldn’t otherwise be accessible without seeing the video. Transcripts make video content accessible to everyone, including people who are unable to view the video due to accessibility problems or technical limitations. They are also helpful for people who want to quickly scan or search a video’s content but do not have the time to watch the entire video.
