@@ -29,6 +29,9 @@
 
 top6:
 
+  - file          : '2019-09-17-findings-from-10xs-recent-round-submissions.md'
+    type          : 'post'
+
   - file          : '2019-09-11-technology-transformation-begins-with-people-closing-human-technology-gap.md'
     type          : 'post'
 
@@ -43,7 +46,3 @@ top6:
 
   - file          : '2019-07-25-machine-learning-how-bureau-labor-statistics-did-it.md'
     type          : 'video'
-
-  - file          : '2019-07-09-get-to-know-10x.md'
-    type          : 'post'
-
