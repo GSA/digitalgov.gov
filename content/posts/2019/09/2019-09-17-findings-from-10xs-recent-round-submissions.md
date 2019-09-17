@@ -4,13 +4,13 @@ date: 2019-09-17 11:07:00 -0500
 title: 'Findings From 10x’s Recent Round of Submissions'
 summary: 'The 10x Program received over 237 submissions from 129 individuals across a range of federal agencies for ideas to help the federal government deliver better products and services&#46;'
 authors:
-  -
+  - nico-papafil
 categories:
-  -
+  - managing-digital
 tag:
-  -
+  - 10x
 featured_image:
-  uid:
+  uid: 10x-projects-report-1
   alt: ''
 ---
 
@@ -25,13 +25,14 @@ In this recent round, we selected 32 projects to start at the Phase 1: Investiga
 
 **Agency Diversity of Submissions:** This year, we received our highest ever number of submissions from outside GSA. Of the total submission pool, 70 percent of submitted ideas were from GSA and partner agencies, and 30 percent were from other agencies. 81 percent of selected ideas were from GSA and partner agencies, and 19 percent were from other agencies. The graphs below illustrate the breakdown. We want to encourage individuals from a variety of agencies to submit ideas! If you are an employee from an agency outside GSA interested in submitting an idea to 10x but you have questions or hesitations about the process, please reach out to [10x@gsa.gov](mailto:10x@gsa.gov).
 
-IMAGE 1
+{{< img src="10x-projects-report-1" >}}
 
-IMAGE 2
+{{< img src="10x-projects-report-2" >}}
 
 **Solution Areas:** We categorized and grouped pitches into 8 topic areas and mapped how submitted and selected ideas fell into these categories.
 
-IMAGE 3
+{{< img src="10x-projects-report-3" >}}
+
 
 **10x Projects Pipeline:** We also wanted to give visibility into the current Phase 3 and Phase 4 projects in our 10x pipeline and showcase the great work these projects teams are accomplishing. 
 
@@ -42,7 +43,7 @@ We have a total of 43 projects awaiting to start and 12 that are ongoing. Here i
 - **Phase 3:** 2 ongoing, 0 awaiting start
 - **Phase 4:** 1 ongoing, 1 awaiting start
 
-IMAGE 4
+{{< img src="10x-projects-report-4" >}}
 
 And to better highlight the work of our projects, we recently published a new “[Projects](https://10x.gsa.gov/projects/)” page to the [10x website](https://10x.gsa.gov/projects/), which details Phases 3 and 4 projects that are currently ongoing and graduated. We’ll continue to update this page as the 10x program and pipeline grow and evolve. 
 
