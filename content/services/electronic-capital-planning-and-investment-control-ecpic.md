@@ -29,12 +29,14 @@ eCPIC is a web-based, government-owned and operated software as a service (SaaS)
 
 ## eCPIC Agencies
 
+- Defense Health Agency (DHA)
 - Department of Commerce (Commerce)
 - National Aeronautics and Space Administration (NASA)
 - National Archives and Records Administration (NARA)
 - The United States Social Security Administration (SSA)
 - The U.S. Small Business Administration (SBA)
 - United States Department of Energy (DOE)
+- United States Department of Health and Human Services (HHS)
 - United States Department of Housing and Urban Development (HUD)
 - United States Office of Personnel Management (OPM)
 - U.S. Agency for International Development (USAID)
