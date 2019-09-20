@@ -15,7 +15,7 @@ registration_url: https://www.eventbrite.com/e/socialgov-talks-leveraging-pop-cu
 
 ---
 
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4113418&CustomerID=321)_
+_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4167517&CustomerID=321)_
 
 {{< img src="event-leveraging-pop-culture" >}}
 
