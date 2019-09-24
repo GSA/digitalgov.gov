@@ -27,9 +27,9 @@ venue:
 
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4171525&CustomerID=321)_
 
-With an estimated 51% of the US population saying they’ve listened to a podcast, ever wondered if a podcast is right for your agency to get out information about your mission and work?
+With an estimated 51 percent of the U.S. population saying that they’ve listened to a podcast, have you ever wondered if a podcast is right for your agency to get out information about your mission and work? 
 
-SocialGov’s Fall meeting is bringing together four top experts in federal podcasting to talk about what it takes to put together a professional and engaging podcast and tips to grow your audience.
+SocialGov’s fall meeting is bringing together four top experts in federal podcasting to talk about what it takes to put together a professional and engaging podcast, and tips to grow your audience.
 
 ## Our Speakers
 
@@ -48,7 +48,7 @@ SocialGov’s Fall meeting is bringing together four top experts in federal podc
 
 ---
 
-_This meeting is the Fall meeting for [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media community of practice. SocialGov has over 1,200 members from 90+ departments and agencies across the federal government._
+_This meeting is the fall meeting for [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media community of practice. SocialGov has over 1,200 members from 90+ departments and agencies across the federal government._
 
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
