@@ -1,11 +1,11 @@
 ---
 slug: socialgov-fall-meeting-podcasting
 title: 'Socialgov Fall Meeting - PODCASTING!'
-summary: 'Join the minds behind 4 top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences&#46; '
-featured_image: 
-  uid: 
+summary: 'Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences&#46; '
+featured_image:
+  uid:
   alt: ''
-event_type: 
+event_type:
   - online
   - in-person
 date: 2019-10-17 08:00:00 -0500
@@ -13,7 +13,7 @@ end_date: 2019-10-17 12:00:00 -0500
 event_organizer: DigitalGov University
 host: SocialGov
 registration_url: https://www.eventbrite.com/e/socialgov-fall-meeting-podcasting-registration-73999357069
-venue: 
+venue:
   venue_name: U.S. General Services Administration
   room: Conference Center (Rooms 1459-1461)
   address: 1800 F Street NW
@@ -27,26 +27,22 @@ venue:
 
 _[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4171525&CustomerID=321)_
 
-With an estimated 51% of the US population saying they’ve listened to a podcast, ever wondered if a podcast is right for your agency to get out information about your mission and work? SocialGov’s Fall meeting is bringing together four top experts in federal podcasting to talk about what it takes to put together a professional and engaging podcast and tips to grow your audience.
+With an estimated 51% of the US population saying they’ve listened to a podcast, ever wondered if a podcast is right for your agency to get out information about your mission and work?
 
-[NIH: All About Grants Podcasts](https://grants.nih.gov/news/virtual-learning/podcasts.htm)
-David A. Kosub, Ph.D OER/NIH/HHS
+SocialGov’s Fall meeting is bringing together four top experts in federal podcasting to talk about what it takes to put together a professional and engaging podcast and tips to grow your audience.
 
-[Energy's Direct Current Podcast](https://www.energy.gov/podcasts/direct-current-energygov-podcast) 
-Matt Dozier matt.dozier@hq.doe.gov
+## Our Speakers
 
-[State's 22.33 Podcast](https://eca.state.gov/2233)
-Williamson, Desire [WilliamsonDL@state.gov](mailto:WilliamsonDL@state.gov)
-Wurst, Christopher M [WurstCM@state.gov](mailto:WurstCM@state.gov) 
+- **David A. Kosub, Ph.D OER/NIH/HHS** — [NIH: All About Grants Podcasts](https://grants.nih.gov/news/virtual-learning/podcasts.htm)
+- **Matt Dozier, DOE** [email](mailto:matt.dozier@hq.doe.gov) — [Energy's Direct Current Podcast](https://www.energy.gov/podcasts/direct-current-energygov-podcast) 
+- **Desire Williamson** [email](mailto:WilliamsonDL@state.gov) and **Christopher M Wurst** [email](mailto:WurstCM@state.gov) — [State's 22.33 Podcast](https://eca.state.gov/2233)
+- **Tanner Iskra, VA** [email](mailto:Tanner.Iskra@va.gov) — [VA's Borne the Battle Podcast](https://podcasts.apple.com/us/podcast/borne-the-battle/id1171416564)
 
-[VA's Borne the Battle Podcast](https://podcasts.apple.com/us/podcast/borne-the-battle/id1171416564)
-Tanner IskraVA | Office of Public and Intergovernmental Affairs Tanner.Iskra@va.gov
+### Podcast Links:
 
-***Related Links:***
-
-- [NIH: All About Grants Podcasts](https://grants.nih.gov/news/virtual-learning/podcasts.htm) 
-- [Energy's Direct Current Podcast](https://www.energy.gov/podcasts/direct-current-energygov-podcast)  
-- [State's 22.33 Podcast](https://eca.state.gov/2233) 
+- [NIH: All About Grants Podcasts](https://grants.nih.gov/news/virtual-learning/podcasts.htm)
+- [Energy's Direct Current Podcast](https://www.energy.gov/podcasts/direct-current-energygov-podcast) 
+- [State's 22.33 Podcast](https://eca.state.gov/2233)
 - [VA's Borne the Battle Podcast](https://podcasts.apple.com/us/podcast/borne-the-battle/id1171416564)
 
 ---
