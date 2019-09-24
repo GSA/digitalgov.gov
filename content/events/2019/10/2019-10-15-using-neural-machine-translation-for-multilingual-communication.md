@@ -33,7 +33,8 @@ For 20+ years, Beth has led business development efforts and program execution t
 
 ---
 
-_This talk is hosted by the Multilingual Community of Practice and Digital.gov. 
+_This talk is hosted by the [Multilingual Community of Practice]
+(https://digital.gov/communities/multilingual/) and Digital.gov. 
 Our team will send a reminder email prior to the event that includes your link to join the video_
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
