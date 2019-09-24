@@ -33,10 +33,11 @@ SocialGov’s Fall meeting is bringing together four top experts in federal podc
 
 ## Our Speakers
 
-- **David A. Kosub, Ph.D OER/NIH/HHS** — [NIH: All About Grants Podcasts](https://grants.nih.gov/news/virtual-learning/podcasts.htm)
-- **Matt Dozier, DOE** [email](mailto:matt.dozier@hq.doe.gov) — [Energy's Direct Current Podcast](https://www.energy.gov/podcasts/direct-current-energygov-podcast) 
-- **Desire Williamson** [email](mailto:WilliamsonDL@state.gov) and **Christopher M Wurst** [email](mailto:WurstCM@state.gov) — [State's 22.33 Podcast](https://eca.state.gov/2233)
-- **Tanner Iskra, VA** [email](mailto:Tanner.Iskra@va.gov) — [VA's Borne the Battle Podcast](https://podcasts.apple.com/us/podcast/borne-the-battle/id1171416564)
+- David A. Kosub, Ph.D, NIH
+- Matt Dozier, DOE ([email](mailto:matt.dozier@hq.doe.gov)) 
+- Desire Williamson, State Dept. ([email](mailto:WilliamsonDL@state.gov))
+- Christopher M Wurst, State Dept. ([email](mailto:WurstCM@state.gov)), State Dept.
+- Tanner Iskra, VA ([email](mailto:Tanner.Iskra@va.gov))
 
 ### Podcast Links:
 
