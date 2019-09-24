@@ -1,12 +1,12 @@
 ---
 slug: socialgov-fall-meeting-podcasting
 title: 'Socialgov Fall Meeting - PODCASTING!'
-summary: 'Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences&#46; '
+summary: 'Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences&#46;'
 featured_image:
   uid:
   alt: ''
 event_type:
-  - online
+  - Zoom
   - in-person
 date: 2019-10-17 08:00:00 -0500
 end_date: 2019-10-17 12:00:00 -0500
@@ -33,22 +33,22 @@ SocialGov’s Fall meeting is bringing together four top experts in federal podc
 
 ## Our Speakers
 
-- David A. Kosub, Ph.D, NIH
-- Matt Dozier, DOE ([email](mailto:matt.dozier@hq.doe.gov)) 
-- Desire Williamson, State Dept. ([email](mailto:WilliamsonDL@state.gov))
-- Christopher M Wurst, State Dept. ([email](mailto:WurstCM@state.gov)), State Dept.
-- Tanner Iskra, VA ([email](mailto:Tanner.Iskra@va.gov))
+- David A. Kosub, Ph.D, National Institutes of Health  
+- Matt Dozier, U.S. Department of Energy ([email](mailto:matt.dozier@hq.doe.gov)) 
+- Desire Williamson, U.S. Department of State ([email](mailto:WilliamsonDL@state.gov)) 
+- Christopher M Wurst, U.S. Department of State ([email](mailto:WurstCM@state.gov)) 
+- Tanner Iskra, U.S. Department of Veterans Affairs ([email](mailto:Tanner.Iskra@va.gov))
 
 ### Podcast Links:
 
-- [NIH: All About Grants Podcasts](https://grants.nih.gov/news/virtual-learning/podcasts.htm)
+- [NIH: All About Grants Podcasts](https://grants.nih.gov/news/virtual-learning/podcasts.htm) 
 - [Energy's Direct Current Podcast](https://www.energy.gov/podcasts/direct-current-energygov-podcast) 
-- [State's 22.33 Podcast](https://eca.state.gov/2233)
-- [VA's Borne the Battle Podcast](https://podcasts.apple.com/us/podcast/borne-the-battle/id1171416564)
+- [State's 22.33 Podcast](https://eca.state.gov/2233) 
+- [VA's Borne the Battle Podcast](https://podcasts.apple.com/us/podcast/borne-the-battle/id1171416564) 
 
 ---
 
-_This meeting is the Fall meeting for SocialGov, the federal government’s social media community of practice. SocialGov has over 1,200 members from 90+ departments and agencies across the federal government._
+_This meeting is the Fall meeting for [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media community of practice. SocialGov has over 1,200 members from 90+ departments and agencies across the federal government._
 
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
