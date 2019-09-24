@@ -1,6 +1,6 @@
 ---
 slug: socialgov-fall-meeting-podcasting
-title: 'Socialgov Fall Meeting - PODCASTING!'
+title: 'Socialgov Fall Meeting - Podcasting!'
 summary: 'Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences&#46;'
 featured_image:
   uid:
@@ -29,7 +29,7 @@ _[View live captioning for this event](https://www.captionedtext.com/client/even
 
 With an estimated 51 percent of the U.S. population saying that they’ve listened to a podcast, have you ever wondered if a podcast is right for your agency to get out information about your mission and work? 
 
-SocialGov’s fall meeting is bringing together four top experts in federal podcasting to talk about what it takes to put together a professional and engaging podcast, and tips to grow your audience.
+SocialGov’s fall meeting is bringing together four top experts in federal podcasting to talk about what it takes to put together a professional and engaging podcast, and tips to grow your audience. 
 
 ## Our Speakers
 
