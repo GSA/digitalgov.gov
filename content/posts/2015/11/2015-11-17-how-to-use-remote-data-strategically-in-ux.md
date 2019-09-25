@@ -14,7 +14,7 @@ topics:
 
 One of the challenges UX practitioners can face is how to communicate much of the data that’s out there. The key word is “communicate.” Since many of us are used to qualitative findings, making the jump to “hard data” can be a challenge. There are tools out there that make this easier, but we still need some explanations and/or translations. {{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 
 
-First, let me be clear that I am not endorsing any product or technique. At our agency, we now use [Google Analytics]({{< ref "/services/service_dap.md" >}}). We previously used WebTrends. In the past, this data had to be gathered through server logs, and it was up to the individual to make it understandable.
+First, let me be clear that I am not endorsing any product or technique. At our agency, we now use [Google Analytics]({{< ref "/services/dap/_index.md" >}}). We previously used WebTrends. In the past, this data had to be gathered through server logs, and it was up to the individual to make it understandable.
 
 As long as the data collection is set up for the site, the data should be there to be analyzed; if it hasn’t been set up, you will need to communicate to the client why it should be, and why you want to look at it. I have found this information useful in:
 

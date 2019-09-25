@@ -233,7 +233,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Metrics Guidance and Best Practices" href="{{< ref "dap-digital-metrics-guidance-and-best-practices.md" >}}">DAP: Digital Metrics Guidance and Best Practices</a>
+      <a title="DAP: Digital Metrics Guidance and Best Practices" href="{{< ref "/services/dap/_index.md" >}}">DAP: Digital Metrics Guidance and Best Practices</a>
     </td>
   </tr>
 
@@ -243,7 +243,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Analytics Program" href="{{< ref "/services/service_dap.md" >}}">DAP: Digital Analytics Program</a>
+      <a title="DAP: Digital Analytics Program" href="{{< ref "/services/dap/_index.md" >}}">DAP: Digital Analytics Program</a>
     </td>
   </tr>
 
@@ -253,7 +253,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Common Questions about DAP (FAQ)" href="{{< ref "common-questions-about-dap-faq.md" >}}">Common Questions about DAP (FAQ)</a>
+      <a title="Common Questions about DAP (FAQ)" href="{{< ref "common-questions-about-dap.md" >}}">Common Questions about DAP (FAQ)</a>
     </td>
   </tr>
 
@@ -263,7 +263,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Government-Wide Analytics Tool for Federal Agencies" href="{{< ref "analytics-tool-instructions.md" >}}">Government-Wide Analytics Tool for Federal Agencies</a>
+      <a title="Government-Wide Analytics Tool for Federal Agencies" href="{{< ref "add-your-site-dap.md" >}}">Government-Wide Analytics Tool for Federal Agencies</a>
     </td>
   </tr>
 
@@ -273,7 +273,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program" href="{{< ref "incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program.md" >}}">Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program</a>
+      <a title="Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program" href="{{< ref "/services/dap/_index.md" >}}">Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program</a>
     </td>
   </tr>
 

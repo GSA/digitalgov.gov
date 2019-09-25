@@ -92,7 +92,7 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
   Products We Shipped
 </h2>
 
-### analytics.usa.gov_In March, we worked with the [Digital Analytics Program]({{< ref "/services/service_dap.md" >}}), the [U.S. Digital Service (USDS)](https://www.whitehouse.gov/digital/united-states-digital-service), and the White House to [build and host a dashboard](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/) showing U.S. federal government web traffic._
+### analytics.usa.gov_In March, we worked with the [Digital Analytics Program]({{< ref "/services/dap/_index.md" >}}), the [U.S. Digital Service (USDS)](https://www.whitehouse.gov/digital/united-states-digital-service), and the White House to [build and host a dashboard](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/) showing U.S. federal government web traffic._
 
 > “I really enjoyed working on [analytics.usa.gov](https://analytics.usa.gov/). Being empowered to build a MVP quickly and well and keep iterating it was very refreshing.”—**Gray Brooks**
 > 

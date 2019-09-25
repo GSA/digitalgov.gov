@@ -59,6 +59,6 @@ Participants also expanded their skill sets as a result of the collaboration. Sa
 
 ## Behind the Scenes
 
-The toolkit was built on [Sites](https://sites.usa.gov/), a free shared service that provides federal agencies with an open-source CMS and secure cloud hosting. Analytics code from the [Digital Analytics Program]({{< ref "/services/service_dap.md" >}}) was implemented on the toolkit website, and [DigitalGov Search](http://search.digitalgov.gov/) powers the toolkit’s search box.
+The toolkit was built on [Sites](https://sites.usa.gov/), a free shared service that provides federal agencies with an open-source CMS and secure cloud hosting. Analytics code from the [Digital Analytics Program]({{< ref "/services/dap/_index.md" >}}) was implemented on the toolkit website, and [DigitalGov Search](http://search.digitalgov.gov/) powers the toolkit’s search box.
 
 Gustetic noted that the project was done with no funding, making the availability of tools and shared services essential in the success of the toolkit.

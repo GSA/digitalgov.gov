@@ -75,7 +75,7 @@ With public expectations at an all-time high, and trust in government nearing al
 ## 9. Collection and measurement of key website performance and satisfaction data will improve.
 
 <p style="padding-left: 30px;">
-  Use of the <a title="DAP: Digital Analytics Program" href="{{< ref "/services/service_dap.md" >}}">Digital Analytics Program (DAP</a>) will continue to expand across government. This no-cost, hosted website analytics tool helps government agencies measure performance of their digital services, and it will be augmented to measure customer satisfaction and integrate with key performance indicators.
+  Use of the <a title="DAP: Digital Analytics Program" href="{{< ref "/services/dap/_index.md" >}}">Digital Analytics Program (DAP</a>) will continue to expand across government. This no-cost, hosted website analytics tool helps government agencies measure performance of their digital services, and it will be augmented to measure customer satisfaction and integrate with key performance indicators.
 </p> {{< legacy-img src="2015/01/600-x-325-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280.jpg" alt="Website Contact Page Icons Concept" caption="" >}} 
 
 ## 10. Agencies will align contact channels to deliver the same answers to customers via email, phone, chat, website etc.

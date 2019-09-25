@@ -64,8 +64,8 @@ aliases:
 
 ## Measurement
 
-* [Digital Analytics Program]({{< ref "service_dap.md" >}})
-* [Digital Metrics Guidance and Best Practices]({{< ref "dap-digital-metrics-guidance-and-best-practices.md" >}})
+* [Digital Analytics Program]({{< ref "/services/dap/_index.md" >}})
+* [Digital Metrics Guidance and Best Practices]({{< ref "/services/dap/_index.md" >}})
 
 ## Mobile
 
