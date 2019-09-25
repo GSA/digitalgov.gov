@@ -8,10 +8,12 @@
   },
   "dependencies": {
     "change-case": "^3.1.0",
-    "node-notifier": "^5.4.0"
+    "node-gyp": "^5.0.3",
+    "node-notifier": "^5.4.3",
+    "prebuild-install": "^5.3.2"
   },
   "devDependencies": {
-    "autoprefixer": "^9.6.0",
+    "autoprefixer": "^9.6.1",
     "css-mqpacker": "^7.0.0",
     "cssnano": "^4.1.10",
     "del": "^3.0.0",
@@ -29,7 +31,6 @@
     "gulp-rename": "^1.4.0",
     "gulp-replace": "^1.0.0",
     "gulp-replace-name": "^1.0.1",
-    "gulp-responsive": "^2.14.0",
     "gulp-s3-upload": "^1.7.3",
     "gulp-sass": "^4.0.2",
     "gulp-size": "^3.0.0",
@@ -39,11 +40,12 @@
     "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^5.0.1",
-    "image-size": "^0.7.4",
+    "image-size": "^0.7.5",
     "jquery": "^3.4.1",
     "jshint": "^2.10.2",
     "path": "^0.12.7",
-    "uswds": "^2.0.3",
+    "sharp": "^0.23.0",
+    "uswds": "^2.2.1",
     "uswds-gulp": "github:uswds/uswds-gulp",
     "vinyl-paths": "^2.1.0"
   },
