@@ -1,9 +1,8 @@
-require('./config/gulp/images');
 require('./config/gulp/uswds');
 require('./config/gulp/scripts');
 require('./config/gulp/fontawesome');
 var gulp = require("gulp");
-require('./config/gulp/images');
+// require('./config/gulp/images');
 require('./config/gulp/uswds');
 
 
