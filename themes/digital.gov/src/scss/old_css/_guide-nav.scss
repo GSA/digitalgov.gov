@@ -36,6 +36,9 @@
 		@include at-media('desktop') {
 			@include u-padding(2);
 		}
+		.active{
+			@include u-text('underline');
+		}
 	}
 
 	ul{
