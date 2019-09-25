@@ -6,11 +6,12 @@ summary: ""
 type: guide
 guide: dap
 weight: 1
+
 ---
 
 Any federal employee or contractor who works for a participating agency can register for access to the Digital Analytics Program (DAP) reporting interface, so long as the agency point of contact (POC) approves. 
 
-[**Send an email to DAP Support**](http://dap@support.digitalgov.gov?subject=registration%20form%20request) to request a registration form. Please also let us know in that email that you have associated your official email account. 
+[**Send an email to DAP Support**](http://dap@support.digitalgov.gov?subject=registration%20form%20request) to request a registration form. Please also let us know in that email that you have associated your official email account. 
 
 ## Eligible Email Addresses
 
