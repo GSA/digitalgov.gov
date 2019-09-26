@@ -18,7 +18,7 @@ topics:
   - usability
 ---
 
-{{< legacy-img src="2015/04/250-x-250-Burning-phone-Sergey-Peterman-Hemera-Thinkstock-ThinkstockPhotos-100882419.jpg" alt="Burning phone" caption="" >}} 
+{{< legacy-img src="2015/04/250-x-250-Burning-phone-Sergey-Peterman-Hemera-Thinkstock-ThinkstockPhotos-100882419.jpg" alt="Burning phone" caption="" >}}
 
 Much is being said and [written]({{< ref "2015-03-03-trends-on-tuesday-google-to-implement-mobile-friendly-rankings.md" >}}) about the coming [Mobilegeddon/Mopocalypse](http://searchengineland.com/infographic-mobile-seo-tips-217912) on April 21st—the day Google’s ranking algorithm will begin boosting results for mobile-friendly sites and penalizing mobile-unfriendly sites. While some agency websites are mobile-friendly, a great many are not.
 
@@ -45,7 +45,7 @@ There are a number of tools available. Run them **even if you think you don’t 
   * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/). For an additional perspective, while you’re at it, run [YSlow](http://yslow.org/).
 
 ## 4. We’re Already Doing Traditional SEO—Do We Also Need Mobile SEO? and
-  
+
 5. How Is Mobile SEO Different From Local SEO?
 
 Mobile SEO incorporates additional elements to focus on the person.

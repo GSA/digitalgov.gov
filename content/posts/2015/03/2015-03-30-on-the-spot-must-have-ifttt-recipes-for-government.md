@@ -55,5 +55,3 @@ Example: “[Send a daily email digest of new NASA postings on USAJobs](https://
 ## Honorable Mention: Silence That Phone in Meetings, People
 
 This speaks for itself so your colleagues don’t have to: [“Never forget to #silence your #Android phone at #work”](https://ifttt.com/recipes/165456-never-forget-to-silence-your-android-phone-at-work)
-
- 

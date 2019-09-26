@@ -32,10 +32,10 @@ Here’s what we&#8217;ve already learned from the data:
 This Analytics Dashboard is just a first step. Not every government website is represented in this data. Currently, the Digital Analytics Program collects Web traffic from almost 300 executive branch government domains, including every cabinet department, out of about 1,350 domains total. Over the coming months, we will encourage more sites to join the Digital Analytics Program, and we’ll include more information and insights about traffic to government sites with the same <a href="https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/" target="_blank">open source development process we used to create the Dashboard</a>. If you have ideas for the project, or want to help improve it, let us know by <a href="https://github.com/gsa/analytics.usa.gov" target="_blank">contributing to the project on GitHub</a> or emailing <a href="mailto:digitalgov@gsa.gov" target="_blank">DigitalGov</a>.
 
 Learn more about the Digital Analytics Program at: <{{< ref "/services/dap/_index.md" >}}>
-  
+
 Learn more about the U.S. Digital Service at: <http://www.whitehouse.gov/usds>
-  
+
 Learn more about 18F at: <https://18f.gsa.gov/>
-  
+
 Learn more about the White House Office of Science and Technology Policy at: <https://www.whitehouse.gov/administration/eop/ostp>_Leah Bannon is part of 18F within GSA; Tim Lowden is a Program Analyst on the Digital Analytics Program within GSA&#8217;s Office of Citizen Services and Innovative Technologies; Ryan Panchadsaram is Deputy U.S. Chief Technology Officer; Charles Worthington is part of OMB&#8217;s U.S. Digital Service HQ._
 _This article was originally posted on the [White House blog](https://www.whitehouse.gov/blog/2015/03/19/turning-government-data-better-public-service)._

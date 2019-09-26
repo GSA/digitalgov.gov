@@ -62,7 +62,7 @@ These dashboard pages allow for greater insight into how the public interacts wi
     <td style="width: 50%;vertical-align: top;text-align: center">
       {{< legacy-img src="2016/02/250-x-384-VA-Traffic-by-Country.png" alt="A chart showing the traffic on VA websites by country" >}}
     </td>
-    
+
     <td style="width: 50%;vertical-align: top;text-align: center">
       {{< legacy-img src="2016/02/250-x-388-NASA-traffic-by-country.png" alt="A chart showing the traffic on NASA websites by country" >}}
     </td>

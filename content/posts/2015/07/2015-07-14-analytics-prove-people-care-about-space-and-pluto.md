@@ -14,7 +14,7 @@ topics:
   - nasa
 ---
 
-{{< legacy-img src="2015/07/250-x-250-NASA-nh-pluto-charon-earth-size.jpg" alt="This graphic presents a view of Pluto and Charon as they would appear if placed slightly above Earth's surface and viewed from a great distance. Recent measurements obtained by New Horizons indicate that Pluto has a diameter of 2370 km, 18.5% that of Earth's, while Charon has a diameter of 1208 km, 9.5% that of Earth's." caption="" >}} 
+{{< legacy-img src="2015/07/250-x-250-NASA-nh-pluto-charon-earth-size.jpg" alt="This graphic presents a view of Pluto and Charon as they would appear if placed slightly above Earth's surface and viewed from a great distance. Recent measurements obtained by New Horizons indicate that Pluto has a diameter of 2370 km, 18.5% that of Earth's, while Charon has a diameter of 1208 km, 9.5% that of Earth's." caption="" >}}
 
 Despite the fact that Pluto has been <a href="http://www.space.com/2791-pluto-demoted-longer-planet-highly-controversial-definition.html" target="_blank">downgraded to a &#8220;dwarf planet&#8221;</a>,  the analytics of federal government websites prove there are still a lot of people who want to get an up-close look.
 

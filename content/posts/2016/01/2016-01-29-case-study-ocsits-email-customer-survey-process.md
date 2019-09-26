@@ -12,7 +12,7 @@ topics:
   - cx
 ---
 
-At GSA’s Office of Citizen Services and Innovative Technologies (OCSIT), we offer technology services and tools to make government work better. To help us gauge the effectiveness of the programs we offer to other government agencies, in 2013 we launched our first Government Customer Experience Index (GCXi) survey. This annual email survey consistently measures customer satisfaction, loyalty and ease of use for various OCSIT programs. {{< legacy-img src="2016/01/600-x-400-Online-Survey-devke-iStock-Thinkstock-469618252.jpg" alt="The word survey in giant red lettering, with a computer mouse plugged into the letter R." caption="" >}} 
+At GSA’s Office of Citizen Services and Innovative Technologies (OCSIT), we offer technology services and tools to make government work better. To help us gauge the effectiveness of the programs we offer to other government agencies, in 2013 we launched our first Government Customer Experience Index (GCXi) survey. This annual email survey consistently measures customer satisfaction, loyalty and ease of use for various OCSIT programs. {{< legacy-img src="2016/01/600-x-400-Online-Survey-devke-iStock-Thinkstock-469618252.jpg" alt="The word survey in giant red lettering, with a computer mouse plugged into the letter R." caption="" >}}
 
 A previous post about the GCXi ([OCSIT’s 2015 Customer Survey—What We Learned]({{< ref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}})) generated lots of questions from readers about the back-end processes we use to conduct the survey and turn customer data into action. Since we’re big fans of transparency, we’re sharing this case study in hopes that it’s helpful to you as you build your own Voice of the Customer (VOC) program.
 
@@ -40,7 +40,7 @@ A benefit of keeping this process top-of-mind for staff all year long is that it
 
 One of our primary goals was to develop a framework to consistently measure customer satisfaction across all our programs, on an ongoing basis. Consistency is important to benchmark progress, and the index gives us a framework to do just that. By asking the same core questions for all our programs, we’ve created a baseline to help us evaluate whether we’re improving over time.
 
-## The Questions {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
+## The Questions {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}}
 
 The email survey currently consists of six questions. Four of the questions are multiple-choice and are used to calculate a “score” for each program; this is our baseline. The last two are open-ended, and provide the most actionable data, because they give customers a platform to tell us, in their own words, what’s working and where we can improve.
 

@@ -37,7 +37,7 @@ Both Mozilla Firefox and the Android browser have had modest decreases year over
       <strong>Interesting browser facts:</strong>
     </th>
   </tr>
-  
+
   <tr>
     <td>
       <ul style="padding-left: 5px;margin-bottom: 0px">

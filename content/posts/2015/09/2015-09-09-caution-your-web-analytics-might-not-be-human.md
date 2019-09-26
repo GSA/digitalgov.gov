@@ -18,7 +18,7 @@ A <a href="{{< ref "/services/dap/_index.md" >}}" target="_blank">Digital Analyt
 
 When I say different, I mean substantially so. Looking at the pageviews metric, the agency implementation was reporting almost 33% MORE views than DAP. Naturally, he hoped that the higher numbers were the “correct” ones, and somehow, the DAP numbers were incorrect.
 
-The first thing I told him was that, unfortunately, the two numbers will never be <a href="http://fivethirtyeight.com/features/why-we-still-cant-agree-on-web-metrics/" target="_blank">exactly the same</a>. Tracking with two different tools or in this case, even two instances of the same tool, won’t end up reporting perfect matches (since the DAP code is custom-built). That said, a 33% delta was far too much; and after some thought, I figured out what the main problem was. {{< legacy-img src="2015/09/600-x-400-Robot-Spider-with-clipping-path-Linda-Bucklin-iStock-Thinkstock-139863441.jpg" alt="Illustration of a robot spider" caption="" >}} 
+The first thing I told him was that, unfortunately, the two numbers will never be <a href="http://fivethirtyeight.com/features/why-we-still-cant-agree-on-web-metrics/" target="_blank">exactly the same</a>. Tracking with two different tools or in this case, even two instances of the same tool, won’t end up reporting perfect matches (since the DAP code is custom-built). That said, a 33% delta was far too much; and after some thought, I figured out what the main problem was. {{< legacy-img src="2015/09/600-x-400-Robot-Spider-with-clipping-path-Linda-Bucklin-iStock-Thinkstock-139863441.jpg" alt="Illustration of a robot spider" caption="" >}}
 
 Spiders.
 

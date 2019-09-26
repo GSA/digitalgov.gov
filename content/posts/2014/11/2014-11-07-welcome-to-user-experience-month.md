@@ -14,7 +14,7 @@ topics:
   - ux
 ---
 
-{{< legacy-img src="2014/11/600-x-250-UX-monthly-theme-slider-by-Jessica-Skretch-FTCgov.jpg" alt="Jessica Skretch, FTC" caption="" >}} 
+{{< legacy-img src="2014/11/600-x-250-UX-monthly-theme-slider-by-Jessica-Skretch-FTCgov.jpg" alt="Jessica Skretch, FTC" caption="" >}}
 
 One challenge with digital government: it&#8217;s hard to see people.
 

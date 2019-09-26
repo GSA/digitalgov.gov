@@ -76,7 +76,7 @@ Number of IRS pages that are in the Top 20 pages: **16**
 ### Fun Facts:
 
   * Two IRS app pages are currently on the Top 20.
-  * You&#8217;re not alone tax traffic lovers. We&#8217;ve got you covered until midnight on the West Coast._-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">Sites</a>_
+  * You&#8217;re not alone tax traffic lovers. We&#8217;ve got you covered until midnight on the West Coast. -Coqui Aspiazu_
 
 ## 10:00 Update
 

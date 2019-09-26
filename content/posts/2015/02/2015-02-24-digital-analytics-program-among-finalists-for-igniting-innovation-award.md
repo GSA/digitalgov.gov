@@ -20,7 +20,7 @@ topics:
   - TSA
 ---
 
-{{< legacy-img src="2015/02/600-x-450-Podium-with-red-carpet-DenisKot-iStock-Thinkstock-506330511.jpg" alt="Podium with red carpet" caption="" >}} 
+{{< legacy-img src="2015/02/600-x-450-Podium-with-red-carpet-DenisKot-iStock-Thinkstock-506330511.jpg" alt="Podium with red carpet" caption="" >}}
 
 The federal government has IT challenges, and innovative federal projects are tackling those challenges head-on. As projects gain momentum, outside organizations have taken notice.
 

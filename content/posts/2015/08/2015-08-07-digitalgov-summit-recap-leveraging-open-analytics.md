@@ -16,7 +16,7 @@ topics:
   - united-states-department-of-health-and-human-services
 ---
 
-{{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 
+{{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}}
 
 Seven million dollars is a big price tag. That is the amount Forbes predicts organizations will spend on analytics-related initiatives in 2015, according to a recent report.
 
@@ -51,5 +51,3 @@ For one of the National Center for Telehealth & Technology’s apps, Cooper’s 
 If you can get people to agree to collect data in a spreadsheet, you can make decisions, Bronson said.
 
 Regression analysis can be done in a spreadsheet, added Fox. You don’t have to invest a huge amount of money. “We are all analysts these days, and making sure you leverage the data to make the experience of websites better for consumers is really our duty. It’s what we do,” Fox explained.
-
- 

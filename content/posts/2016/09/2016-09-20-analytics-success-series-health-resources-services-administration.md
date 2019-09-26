@@ -23,7 +23,7 @@ topics:
   - user-experience
 ---
 
-_Health Resources and Services Administration’s Analytics Success: Using Analytics to Reduce Content and Improve User Experience_ 
+_Health Resources and Services Administration’s Analytics Success: Using Analytics to Reduce Content and Improve User Experience_
 
 Unlike out-of-town guests, you want your web visitors to stick around. So, if your site continues to see a bounce rate that stubbornly refuses to drop—it’s time to make some changes.
 
@@ -66,7 +66,7 @@ Using information architecture validation software, we surveyed over 90 active s
 
 Launching in July 2016, our site has already begun to show improvements—including a gradual lowering of our site’s bounce rate. Given data from previous site revamps, we expect key metrics will continue to show progress over time.
 
- 
+
 
 <cite>*Caveat: The MCHB site links out to several sub-sites controlled by different contractors. The 91% only takes into account pages removed from our content management system.</cite>_Christy Choi, Mackenzie Cummings, and Richard Morey work in the <a href="http://www.hrsa.gov/about/organization/bureaus/oc/index.html" target="_blank">Health Resources and Services Administration Office of Communications</a>_
 _This post is part of an ongoing series of case-studies highlighting how the federal government is using the Digital Analytics Program (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please contact us via <a href="mailto:dap@support.digitalgov.gov" target="_blank">email</a>._

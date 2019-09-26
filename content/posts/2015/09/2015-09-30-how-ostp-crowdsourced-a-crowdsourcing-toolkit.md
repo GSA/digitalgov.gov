@@ -27,7 +27,7 @@ topics:
   - white-house-office-of-science-and-technology-policy
 ---
 
-{{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}} 
+{{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}}
 
 To promote crowdsourcing, one effective tool is, well, crowdsourcing.
 
@@ -43,7 +43,7 @@ Specifically, the toolkit provides:
 
 The Toolkit was developed in response to the [2013 Second Open Government National Action Plan](https://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) [PDF]. As part of the the plan, agencies were charged with developing an Open Innovation Toolkit; the Crowdsourcing and Citizen Science Toolkit is the first component of the Open Innovation Toolkit to be completed.
 
-## Building the Building Team {{< legacy-img src="2015/09/600-x-400-Cube-Letters-show-teams-in-front-of-unsharp-ludo-figures-Umkehrer-iStock-Thinkstock-472509682.jpg" alt="Cube Letters show teams in front of unsharp ludo figures." caption="" >}} 
+## Building the Building Team {{< legacy-img src="2015/09/600-x-400-Cube-Letters-show-teams-in-front-of-unsharp-ludo-figures-Umkehrer-iStock-Thinkstock-472509682.jpg" alt="Cube Letters show teams in front of unsharp ludo figures." caption="" >}}
 
 OSTP and CCS had a wealth of subject matter expert knowledge but did not have resources or expertise to build and host a publicly available toolkit.
 

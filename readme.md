@@ -32,6 +32,6 @@ _see https://gohugo.io/getting-started/installing/ for other OSs_
 
 `hugo serve --config=config.yml` _(can take 2-3 minutes to launch)_
 or
-`hugo serve --config=config_dev.yml` _(can take 20 secsto launch but only builds a portion of the content)_
+`hugo serve --config=config_dev.yml` _(can take 20 secs to launch but only builds a portion of the content)_
 
 **visit** http://localhost:1313/

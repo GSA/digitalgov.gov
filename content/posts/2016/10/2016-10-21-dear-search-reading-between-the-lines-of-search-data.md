@@ -30,8 +30,8 @@ Is there more to search data than just the terms people search for – does it m
 And finally, do you have a formal method of evaluating the search experience that you can share?
 
 Best,
-  
-UX Vexed {{< legacy-img src="2016/08/600-x-400-Search-bar-on-virtual-screen-Gajus-iStock-Thinkstock-178761722.jpg" alt="Search bar on virtual screen." caption="" >}} 
+
+UX Vexed {{< legacy-img src="2016/08/600-x-400-Search-bar-on-virtual-screen-Gajus-iStock-Thinkstock-178761722.jpg" alt="Search bar on virtual screen." caption="" >}}
 
 Dear Vexed,
 
@@ -66,7 +66,7 @@ By looking at trends for individual queries, query topics, locations, and destin
 If you have further questions, Vexed, you can always <a href="search@support.digitalgov.gov" target="_blank">email the DigitalGov Search team</a>.
 
 Happy searching,
-  
+
 Dawn
-  
+
 Program Manager, DigitalGov Search

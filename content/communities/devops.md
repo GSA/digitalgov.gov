@@ -16,7 +16,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Events
 
-- [**DevOps Community of Practice Monthly Meeting**](https://digital.gov/event/2019/07/23/devops-cop-monthly-meeting/) — July 23 at 2:00pm ET
+- [**DevOps Community of Practice Monthly Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/) — September 24 at 2:00pm ET
 
 ## Join
 We have two listservs available, one for Federal Employees, and one for all individuals: 
@@ -37,4 +37,6 @@ The DevOps CoP will meet on the fourth Tuesday of each month for 30 minutes. In 
 
 ## Who We Are
 
-Community Manager **Brian Fox** is currently a strategist at [18F](https://18f.gsa.gov/). Prior to working as a member of the 18F Strategy team, he led systems development at USGS’s National Geospatial Technical Operations Center (NGTOC) where he oversaw development activity in support of The National Map. Brian has also supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas.
+Community Co-Manager **Brian Fox** is currently a strategist with [18F](https://18f.gsa.gov/). Prior to working as a member of the 18F Strategy team, he led systems development at USGS’s National Geospatial Technical Operations Center (NGTOC) where he oversaw development activity in support of The National Map. Brian has also supported the National Geospatial-Intelligence Agency in a variety of roles, including joint military assignments in the United States and overseas.
+
+Community Co-Manager **Peter Burkholder** is a consulting engineer with [18F](https://18f.gsa.gov/), where he's also supported cloud.gov. Before 18F, Peter worked with Chef Software's enterprise customers to guide them on adoption of DevOps practices and infras tructure-as-code, and has held operations roles with health technology companies, NIH, NCAR and AARP.  He's also an organizer of the DevOpsDC MeetUp and the annual DevOpsDaysDC conference.

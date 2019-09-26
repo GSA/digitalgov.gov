@@ -18,7 +18,7 @@ topics:
   - personas
 ---
 
-{{< legacy-img src="2015/01/600-x-450-Silver-plate-with-chart-peshkov-iStock-Thinkstock-490450531.jpg" alt="Silver plate with chart" caption="" >}} 
+{{< legacy-img src="2015/01/600-x-450-Silver-plate-with-chart-peshkov-iStock-Thinkstock-490450531.jpg" alt="Silver plate with chart" caption="" >}}
 
 With public expectations at an all-time high, and trust in government nearing all-time lows, agencies need to step up their game. Veterans, seniors, students, taxpayers—all Americans—deserve the best service from their government. Here are our predictions for how the federal government will improve customer service in the coming year:
 
@@ -76,7 +76,7 @@ With public expectations at an all-time high, and trust in government nearing al
 
 <p style="padding-left: 30px;">
   Use of the <a title="DAP: Digital Analytics Program" href="{{< ref "/services/dap/_index.md" >}}">Digital Analytics Program (DAP</a>) will continue to expand across government. This no-cost, hosted website analytics tool helps government agencies measure performance of their digital services, and it will be augmented to measure customer satisfaction and integrate with key performance indicators.
-</p> {{< legacy-img src="2015/01/600-x-325-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280.jpg" alt="Website Contact Page Icons Concept" caption="" >}} 
+</p> {{< legacy-img src="2015/01/600-x-325-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280.jpg" alt="Website Contact Page Icons Concept" caption="" >}}
 
 ## 10. Agencies will align contact channels to deliver the same answers to customers via email, phone, chat, website etc.
 
@@ -106,7 +106,7 @@ With public expectations at an all-time high, and trust in government nearing al
 
 <p style="padding-left: 30px;">
   The President just announced a new (non-monetary) awards program that will recognize and reward professionalism and service excellence, and highlight initiatives that improve service, so they can be replicated across government.
-</p> {{< legacy-img src="2014/08/600-x-370-Group-Of-Hands-of-Multi-Ethnic-Group-Of-People-Holding-Electronic-Devices-Robert-Churchill-iStock-Thinkstock-485584337.jpg" alt="A diverse group of hands hold up various mobile devices, each displaying a person, in front of an American flag" caption="" >}} 
+</p> {{< legacy-img src="2014/08/600-x-370-Group-Of-Hands-of-Multi-Ethnic-Group-Of-People-Holding-Electronic-Devices-Robert-Churchill-iStock-Thinkstock-485584337.jpg" alt="A diverse group of hands hold up various mobile devices, each displaying a person, in front of an American flag" caption="" >}}
 
 ## 15. Efforts to improve customer experience will be driven by passionate employees across the country, at all levels of government.
 

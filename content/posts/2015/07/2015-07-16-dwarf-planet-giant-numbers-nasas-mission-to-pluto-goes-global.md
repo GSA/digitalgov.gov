@@ -32,7 +32,7 @@ Any time we go this far from home and do something that’s never been done befo
         <p dir="ltr" lang="en">
           Pluto just had its first visitor! Thanks <a href="https://twitter.com/NASA">@NASA</a> &#8211; it&#8217;s a great day for discovery and American leadership. <a href="http://t.co/FfztBSMbK0">pic.twitter.com/FfztBSMbK0</a>
         </p>
-        
+
         <p>
           — President Obama (@POTUS) <a href="https://twitter.com/POTUS/status/621133763385425920">July 15, 2015</a>
         </p>
@@ -48,5 +48,5 @@ Of course we love these numbers, and we always knew this would be a big one. But
   * NASA TV held its audience throughout the day, with plays in the 20,000-30,000 range even during hours with no direct New Horizons coverage. This was a bonus, giving us a larger than usual audience for broadcasts about the International Space Station and other NASA programs.
 
 {{< legacy-img src="2015/07/600-x-214-NASA-2-engage.jpg" alt="600-x-214-NASA-2\---engage" >}}
-  
+
 This is just getting started. We’re looking forward to seeing what else Pluto has to offer, and watching the analytics to see how the world engages._Jim Wilson is Senior Editor of www.nasa.gov at the National Aeronautics and Space Administration._

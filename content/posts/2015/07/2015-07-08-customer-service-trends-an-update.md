@@ -29,7 +29,7 @@ topics:
   - VA
 ---
 
-{{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 
+{{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}}
 
 Earlier this year, we published [15 Government Customer Service Trends for 2015]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}). We’re halfway through the year now—how are these trends holding up?
 
@@ -53,7 +53,7 @@ Currently, the [federal government has hundreds of mobile apps](https://www.usa.
 
 Through the [Social Media Registry]({{< ref "service_us-digital-registry.md" >}}), agencies can register their official social media accounts so that the public can validate their authenticity when receiving information. This is especially important during emergency situations, when the Federal Emergency Management Agency, the National Oceanic and Atmospheric Administration, and other agencies share information to keep people safe and healthy during disasters, [bad weather]({{< ref "2015-05-06-the-api-briefing-be-prepared-with-the-federal-emergency-management-agencys-mobile-app.md" >}}), or [emergency response efforts]({{< ref "2015-06-11-when-catastrophe-strikes-provide-support-samhsas-disaster-response-app.md" >}}).
 
-## 6. Contact Centers Remain a Key Channel {{< legacy-img src="2015/04/600-x-330-Call-center-Androsov-Konstantin-iStock-Thinkstock-ThinkstockPhotos-93536394.jpg" alt="Call center" caption="" >}} 
+## 6. Contact Centers Remain a Key Channel {{< legacy-img src="2015/04/600-x-330-Call-center-Androsov-Konstantin-iStock-Thinkstock-ThinkstockPhotos-93536394.jpg" alt="Call center" caption="" >}}
 
 Contact centers are still an important channel, and the government must “up their game” on how they [deliver services through contact centers]({{< ref "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}}). Recently, the Department of Veterans Affairs announced a goal to create a single 1-800 number for veterans, instead of making veterans call different numbers for medical appointments, hearing aids, prosthetics, etc. This is not only more efficient for the government, it will eliminate frustration and confusion for veterans trying to find the correct number for different services. New features such as “call back” and [social media]({{< ref "2015-04-24-meeting-customer-needs-through-social-media.md" >}}) marketing make contact centers one of the most important channels to improve government customer service. [Contact center data can even help you identify and correct problems on your website]({{< ref "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}}), enabling a better customer experience for website visitors.
 

@@ -38,11 +38,11 @@ The data told us that our visitors did not hang out with us for very long. After
 Web analytics data also helped us understand that mobile users were becoming an increasing percentage of our customers. This contributed to our desire to make sure that our design was equally direct for users on mobile and desktop, and therefore to allow our writers not to think about different platforms when writing. The result was one column of content on every type of device. If an idea wasn’t important enough to be included in the main content, then it didn’t need to be in a desktop-only bonus box on the side.
 
 **Previous Design:**
-  
+
 {{< legacy-img src="2016/10/USAgovOld.jpg" alt="The old version of the USA.gov webpage on International Travel" >}}
 
 **New Design:**
-  
+
 {{< legacy-img src="2016/10/USAgovnew.jpg" alt="The new version of the USA.gov webpage on getting or renewing a U.S. passport" >}}
 
 Overall, the Digital Analytics Program/Google Analytics usage data helped us pare down a sprawling site with busy content pages in a more efficient site that catered to its true primary users: people jumping in from Google to get an overview of a topic and know where to go next, and perhaps check out very closely related information as well. It’s also been hugely influential on our home page designs, as we strive to create a home page that enables the types of uses for our site that are most prevalent. But that’s a blog post for another day!_David Kaufmann is a member of the Analytics and User Experience teams at USAGov._

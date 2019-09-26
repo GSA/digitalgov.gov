@@ -37,5 +37,3 @@ Depending on the goals of the Web page, you can see how effective those landing 
 This report provides data in two tabs—one for the performance of specific content or pages and one for technical performance of the Web page. You can see which Web pages are receiving repeat pageviews, the percentage of pageviews which are entrances to the website, as well as the bounce rate and average time on page.
 
 {{< legacy-img src="2015/07/600-x-396-DAP-Custom-Reporting-Catalog-Aug-2015-Content-Efficiency-page-performance.jpg" alt="An analytics report shows Page Performance Efficiency" >}}
-
- 

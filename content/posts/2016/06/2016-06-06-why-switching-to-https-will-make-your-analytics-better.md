@@ -16,7 +16,7 @@ topics:
   - metrics
 ---
 
-Federal agencies are required to make all federal websites accessible through a <a href="https://https.cio.gov/" target="_blank">secure, HTTPS-only connection</a> by the end of the 2016 calendar year. What you might not have known is that the switch to HTTPS will improve your ability to track which sites are directing web traffic to yours. {{< legacy-img src="2016/06/600-x-425-Https-internet-security-concept-doguhakan-iStock-Thinkstock-497418668.jpg" alt="Https internet security concept" caption="" >}} 
+Federal agencies are required to make all federal websites accessible through a <a href="https://https.cio.gov/" target="_blank">secure, HTTPS-only connection</a> by the end of the 2016 calendar year. What you might not have known is that the switch to HTTPS will improve your ability to track which sites are directing web traffic to yours. {{< legacy-img src="2016/06/600-x-425-Https-internet-security-concept-doguhakan-iStock-Thinkstock-497418668.jpg" alt="Https internet security concept" caption="" >}}
 
 Recently, a federal colleague reached out to a [digital community]({{< ref "/communities" >}}) about a huge jump in referrals from <a href="https://wikipedia.org" target="_blank">Wikipedia.org</a> to a federal site in late February. In addition to the sheer volume, the referrals were attributed to one page (<a href="http://en.wikipedia.org" target="_blank">en.wikipedia.org</a>) only, and not from any other, more specific pages. The huge amount of sudden referral traffic and the lack of specificity of the referring pages were mysteries she was hoping to solve.
 

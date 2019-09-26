@@ -25,7 +25,7 @@ topics:
   - user-centered-design
 ---
 
-I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20<sup>th</sup> anniversary of USAJOBS. {{< legacy-img src="2016/10/600-x-400-20th-Cake-robynmac-iStock-Thinkstock-179306985.jpg" alt="A red, white, and blue 20th anniversary or birthday cake." caption="" >}} 
+I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20<sup>th</sup> anniversary of USAJOBS. {{< legacy-img src="2016/10/600-x-400-20th-Cake-robynmac-iStock-Thinkstock-179306985.jpg" alt="A red, white, and blue 20th anniversary or birthday cake." caption="" >}}
 
 **1) What are the three big lessons learned from 20 years of building and managing USAJOBS?**
 
