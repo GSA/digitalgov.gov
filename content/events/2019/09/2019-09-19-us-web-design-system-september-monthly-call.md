@@ -15,7 +15,7 @@ registration_url: https://www.eventbrite.com/e/us-web-design-system-september-mo
 
 ---
 
-_[View live captioning for this event](https://www.captionedtext.com/client/event.aspx?EventID=4134158&CustomerID=321)_
+[https://www.youtube.com/watch?v=48tNlM9XQsM](https://www.youtube.com/watch?v=48tNlM9XQsM)
 
 Please join Dan Williams, U.S. Web Design System (USWDS) product lead, for an overview of the development process for a USWDS component. He will co-present with Jeremy Zilar of Digital.gov to demonstrate how we start with a problem and work to a solution that could be shared across other websites, as well as answer your questions about the design system. 
 
