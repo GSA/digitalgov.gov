@@ -30,7 +30,7 @@ $theme-alert-padding-x:               2.5;
 
 // Banner
 $theme-banner-font-family:            'ui';
-$theme-banner-max-width:              'desktop';
+$theme-banner-max-width:              'widescreen';
 
 // Button
 $theme-button-font-family:            'ui';
@@ -52,9 +52,9 @@ $theme-input-state-border-width:      0.5;
 
 // Header
 $theme-header-font-family:            'ui';
-$theme-header-logo-text-width:        33%;
-$theme-header-max-width:              'desktop';
-$theme-header-min-width:              'desktop';
+$theme-header-logo-text-width:        50%;
+$theme-header-max-width:              'widescreen';
+$theme-header-min-width:              'widescreen';
 
 // Hero
 $theme-hero-image:                    '../img/hero.png';

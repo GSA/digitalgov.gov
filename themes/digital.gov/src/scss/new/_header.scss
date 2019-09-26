@@ -1,21 +1,22 @@
 // Header
 
 header#header{
+	@include u-bg('primary-darker');
 	@include u-padding-y(1);
 	@include u-border-bottom('1px', 'gray-warm-20', 'solid');
-	@include at-media('tablet-lg') {
-		@include u-padding-y(1);
-	}
 	@include u-position('sticky');
 	@include u-top(0);
 	@include u-z(500);
-	@include u-bg('white');
+	@include at-media('tablet-lg') {
+		@include u-padding-y('105');
+	}
 
 	// Logo
 	.logo{
 		@include u-margin(0);
 		@include u-line-height('sans', 1);
 		@include u-display('block');
+		@include u-text('white');
 		img{
 			// width:182px;
 			@include u-width('card');
@@ -117,7 +118,7 @@ header#header{
 				@include u-padding-x(2);
 				a{
 					@include u-padding-bottom(2px);
-					@include u-text('indigo-warm-80');
+					@include u-text('white');
 					@include u-text('no-underline');
 				}
 				a:hover{
