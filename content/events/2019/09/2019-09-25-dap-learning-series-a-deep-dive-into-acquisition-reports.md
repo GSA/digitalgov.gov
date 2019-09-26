@@ -15,7 +15,7 @@ registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-acq
 
 ---
 
-_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993569&CustomerID=321)_
+_[View slides for this event.](https://digital.gov/pdf/Deep-Dive-Into-Acquisition-Reports.pdf)(PDF, 4.52 MB, 19 pages)_
 
 The acquisition reporting section contains some of the most valuable data in Google Analytics, but if you don’t track your acquisition traffic properly, you might not be using it to its full potential. In this training, attendees will learn:
 
