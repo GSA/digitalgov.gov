@@ -37,7 +37,7 @@
     "postcss": "^7.0.17",
     "postcss-uncss": "^0.16.1",
     "uncss": "^0.16.2",
-    "uswds": "^2.1.0",
+    "uswds": "^2.2.1",
     "uswds-gulp": "github:uswds/uswds-gulp"
   }
 }
