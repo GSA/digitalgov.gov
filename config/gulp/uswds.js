@@ -42,13 +42,13 @@ const PROJECT_SASS_SRC  = './themes/digital.gov/src/scss/new';
 const USWDS_SRC = './themes/digital.gov/src/scss/uswds';
 
 // Images destination
-const IMG_DEST = './themes/digital.gov/static/uswds/img';
+const IMG_DEST = './themes/digital.gov/static/lib/uswds/img';
 
 // Fonts destination
 const FONTS_DEST = './themes/digital.gov/static/uswds/fonts';
 
 // Javascript destination
-const JS_DEST = './themes/digital.gov/static/uswds/js';
+const JS_DEST = './themes/digital.gov/static/lib/uswds/js';
 
 // Compiled CSS destination
 const CSS_DEST = './themes/digital.gov/static/dist';
