@@ -1,35 +1,38 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top archive post-type-archive post-type-archive-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-list events-archive tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive" }}
-  {{ $.Scratch.Set "headtitle" "Events | Digital.gov" }}
-{{ end }}
-
 {{ define "content" }}
 
-<section id="events">
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <div id="events-listing">
+<main role="main">
+  <header class="header-{{- .Type -}}">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
 
-          <div class="events-current events-list">
-            <div class="events-head">
-              <h1>Upcoming Training & Events</h1>
-              <p>
-                <a href="https://www.youtube.com/digitalgov" title="View all Digital.gov videos and training">All training & videos »</a>
-              </p>
-            </div>
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
 
-            {{ range .Data.Pages.Reverse }}
-            {{ $now := now.Format "2006-01-02" }}
-            {{ $start := .Date.Format "2006-01-02"  }}
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck | markdownify -}}</div>
+          {{- end -}}
 
-            {{ if .Params.End_date }}
-              {{ $end := dateFormat "2006-01-02" .Params.End_date }}
-              {{ if or (ge $start $now) (ge $end $now)}}
-                {{ if not .Params.on_hold }}
-                  {{ .Render "li"}}
-                {{ end }}
-              {{ end }}
+          <div class="join-buttons">
+            <a href="https://www.youtube.com/digitalgov">Video library</a>
+            <a href="#events-past">Past events</a>
+            <a href="{{- "/join" | absURL -}}">Host an event</a>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="article-list">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-3">
+        <div class="grid-col-12">
+          {{ range .Data.Pages.Reverse }}
+          {{ $now := now.Format "2006-01-02" }}
+          {{ $start := .Date.Format "2006-01-02"  }}
 
           {{ if .Params.End_date }}
             {{ $end := dateFormat "2006-01-02" .Params.End_date }}
@@ -49,6 +52,7 @@
       </div>
     </div>
   </section>
+
 
 
   {{/* Past events */}}
