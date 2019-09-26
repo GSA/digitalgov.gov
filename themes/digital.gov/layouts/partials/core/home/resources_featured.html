@@ -1,16 +1,15 @@
+{{- $resources_featured := (where .Site.Pages "Section" "resources") -}}
+{{/* If there are any resources at all... */}}
+{{- if $resources_featured -}}
 <section id="resources_featured">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
-        {{- $resources := (where .Pages "Section" "resources") ".Params.weight" 3 -}}
-        {{/* If there are any resources at all... */}}
-        {{- if $resources -}}
         <div class="list-collection">
           <h2>Popular Guides and Resources</h2>
           <ul class="add-list-reset">
-            {{- range sort $resources "Title" "asc" -}}
+            {{- range sort $resources_featured "Title" "asc" -}}
               {{- if eq .Params.weight 3 -}}
-
                 {{/* If an external link  */}}
                 {{- if or .Params.source_url .Params.source -}}
 
@@ -63,9 +62,8 @@
           {{- end -}}
 
         </div>
-        {{- end -}}
       </div>
     </div>
-
   </div>
 </section>
+{{- end -}}
