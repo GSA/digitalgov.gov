@@ -12,10 +12,9 @@ end_date: 2019-09-19 15:30:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System 
 registration_url: https://www.eventbrite.com/e/us-web-design-system-september-monthly-call-registration-70228448179
+youtube_id: 48tNlM9XQsM
 
 ---
-
-[https://www.youtube.com/watch?v=48tNlM9XQsM](https://www.youtube.com/watch?v=48tNlM9XQsM)
 
 Please join Dan Williams, U.S. Web Design System (USWDS) product lead, for an overview of the development process for a USWDS component. He will co-present with Jeremy Zilar of Digital.gov to demonstrate how we start with a problem and work to a solution that could be shared across other websites, as well as answer your questions about the design system. 
 
