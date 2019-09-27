@@ -34,7 +34,7 @@ Although agencies are adopting cloud technologies at record-high levels, challen
 
 ***More About the Series***
 
-This is the fifth episode in the Federal Crowdsourcing Webinar Series, which airs the second Tuesday of each month. With each installment, we illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
+This is the sixth episode in the Federal Crowdsourcing Webinar Series, which airs the second Tuesday of each month. With each installment, we illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 
 And don’t miss these previous episodes:
 
