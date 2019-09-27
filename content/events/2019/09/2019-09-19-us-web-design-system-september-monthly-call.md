@@ -30,7 +30,7 @@ USWDS is a library of code, tools, and guidance to help government teams design 
 - [Email Us](mailto:uswds@gsa.gov)  
 - Join the [USWDS ListServ](mailto:uswds-subscribe-request@listserv.gsa.gov)
 
-This talk is hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov. 
+This talk was hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov. 
 
 _Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
 
