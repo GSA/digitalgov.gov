@@ -26,13 +26,13 @@ Although agencies are adopting cloud technologies at record-high levels, challen
 
 ***Betsy Steele*** leads the FedRAMP Program Office’s outreach and training initiatives. In her role, she develops and implements training for agencies, cloud service providers, and third-party assessment organizations to increase the rate of cloud adoption and the security of cloud computing solutions used across government. Prior to joining FedRAMP, Betsy managed GSA’s government-wide Terms of Service Program, negotiating more than 70 federal compatible terms of service amendments for social media tools and applications. 
 
-##***Related Links***
+***Related Links***
 
 - [Federal Risk and Authorization Management Program ](https://www.fedramp.gov) 
 - [Federal Information Security Modernization Act ](https://www.congress.gov/bill/113th-congress/senate-bill/2521)
 - [Betsy Steele ](https://digital.gov/authors/bsteele/)
 
-###More About the Series
+***More About the Series***
 
 This is the fifth episode in the Federal Crowdsourcing Webinar Series, which airs the second Tuesday of each month. With each installment, we illuminate how U.S. agencies are reaching beyond their walls to source talent and enthusiasm, and can multiply the ideas and perspectives being brought to a particular issue.
 
@@ -46,13 +46,13 @@ And don’t miss these previous episodes:
 
 ---
 
-_This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010.
+_This talk is hosted by Challenge.gov. Managed by GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
-This webinar was presented in coordination with DigitalGov University. DigitalGov University provides a range of free online and in-person trainings and events for people and teams across the federal government_
+_This webinar was presented in coordination with DigitalGov University. DigitalGov University provides a range of free online and in-person trainings and events for people and teams across the federal government_
 
 Questions about this event? Send them to [team@challenge.gov](mailto:team@challenge.gov).  
 
-This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
+This event will be held and recorded over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
 
 
 
