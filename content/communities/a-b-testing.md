@@ -11,19 +11,18 @@ We believe A/B testing is the core to a continuous optimization strategy for del
 
 ## How to join
 
-To participate in this community of practice, email either Kelley Holden [kelley.holden@cfpb.gov](mailto:kelley.holden@cfpb.gov?subject=Subscribe%20to%20A&#47;B%20Testing%20Community) or Jenn Wingerberg [jennifer.wingerberg@cfpb.gov](mailto:jennifer.wingerberg@cfpb.gov?subject=Subscribe%20to%20A&#47;B%20Testing%20Community), and one of us will add you to the Listserv, which is where we send out quarterly invites. 
-
-**Community Managers:** 
-
-- [Kelley Holden](mailto:kelley.holden@cfpb.gov), Consumer Financial Bureau Bureau — Lead of the CFPB Digital Analytics team
-- [Jennifer (Jenn) Wingerberg](mailto:jennifer.wingerberg@cfpb.gov)), Consumer Financial Protection Bureau — Web Analytics Specialists on the CFPB Digital Analytics team
-
-
-## Who we are
-
-The A/B Testing Community of Practice started with the team at the Consumer Financial Protection Bureau (CFPB), circa 2016. We were so inspired by what we’d learned from our own tests that we wanted to share with other federal agencies, and see what we could learn from case studies outside CFPB. We are driven to foster a group that can share their experiences and learn from one another.
-
+To join, send an email from your official government email to: [abtest-subscribe-request@listserv.gsa.gov](mailto:abtest-subscribe-request@listserv.gsa.gov)
 
 ## What we do
 
-The A/B Testing Community of Practice meets once a quarter to discuss the latest in the A/B testing world. We invite guest speakers, share case studies, explore new tools, and provide support for new and current members trying to grow their A/B testing practice and knowledge.
+The A/B Testing Community of Practice organizes meetings to discuss the latest in A/B testing. We invite guest speakers, share case studies, explore new tools, and provide support for new and current members trying to grow their A/B testing practice and knowledge.
+
+## Who we are
+
+The A/B Testing Community of Practice started with a team at the Consumer Financial Protection Bureau (CFPB), circa 2016. We were inspired by what we’d learned from our own tests that, and see what we could learn from case studies outside CFPB. We are driven to foster a group that can share their experiences and learn from one another.
+
+**Community Managers:** 
+
+- [Kelley Holden](mailto:kelley.holden@cfpb.gov), works at the CFPB as a Digital Analytics Program Manager on the Data Science and Analytics team. She has worked on multiple projects that include SEO strategy, A/B and RCT testing, web analysis, analytics visualizations, data science, and user behavior analysis.
+
+
