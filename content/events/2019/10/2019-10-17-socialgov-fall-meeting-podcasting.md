@@ -34,10 +34,10 @@ SocialGov’s fall meeting is bringing together four top experts in federal podc
 ## Our Speakers
 
 - David A. Kosub, Ph.D, National Institutes of Health  
-- Matt Dozier, U.S. Department of Energy ([email](mailto:matt.dozier@hq.doe.gov)) 
-- Ana-Maria Sinitean, U.S. Department of State ([email](mailto:SiniteanAM@state.gov)) 
-- Christopher M Wurst, U.S. Department of State ([email](mailto:WurstCM@state.gov)) 
-- Tanner Iskra, U.S. Department of Veterans Affairs ([email](mailto:Tanner.Iskra@va.gov))
+- Matt Dozier, U.S. Department of Energy 
+- Ana-Maria Sinitean, U.S. Department of State 
+- Christopher M Wurst, U.S. Department of State
+- Tanner Iskra, U.S. Department of Veterans Affairs 
 
 ### Podcast Links:
 

@@ -1,4 +1,4 @@
-# Digital.gov
+<h1><img src="https://demo.digital.gov/img/digitalgov-logo-black.svg" alt="Digital.gov Logo"/></h1>
 
 ## We help people in government build better digital services
 https://digital.gov
@@ -7,6 +7,7 @@ https://digital.gov
 - Follow us on [Twitter »](https://twitter.com/digital_gov/)
 - Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
 
+Want to learn more about how we work? [Check out our Wiki page »](https://github.com/GSA/digitalgov.gov/wiki)
 
 ---
 
