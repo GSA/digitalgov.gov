@@ -22,7 +22,11 @@
     </header>
 
     {{/* Popular Resources */}}
-    {{- partialCached "core/home/resources_featured" . -}}
+    <section class="usa-section" id="resources_featured">
+      <div class="grid-container grid-container-desktop">
+        {{- partialCached "core/resources_featured" . -}}
+      </div>
+    </section>
 
     <section class="topic-buttons">
       <div class="grid-container grid-container-desktop">
