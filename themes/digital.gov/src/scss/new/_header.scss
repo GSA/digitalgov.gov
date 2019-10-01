@@ -26,16 +26,19 @@
 		}
 	}
 
-	.usa-nav__primary > .usa-nav__primary-item{
-		@include u-font('sans', 'md');
-		a{
-			@include u-text('black');
-			&:hover{
+	nav.usa-nav{
+		.usa-nav__primary > .usa-nav__primary-item{
+			@include u-font('sans', 'md');
+			a{
+				@include u-text('black');
+				&:hover{
 
-			}
-			&:after{
-				@include u-bg('orange-warm-30');
+				}
+				&:after{
+					@include u-bg('orange-warm-30');
+				}
 			}
 		}
 	}
+
 }
