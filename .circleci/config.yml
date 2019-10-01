@@ -22,6 +22,6 @@ jobs:
           key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
           paths:
             - node_modules
-      - run:
-          name: Process images
-          command: gulp process-img
+      # - run:
+          # name: Process images
+          # command: gulp process-img
