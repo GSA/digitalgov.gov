@@ -16,7 +16,13 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Events
 
-- [**DevOps Community of Practice Monthly Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/) — September 24 at 2:00pm ET
+- Please be on the lookout for our October meeting here soon. 
+
+## Past Events
+
+- [**September DevOps Community of Practice Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/)
+- [**August DevOps Community of Practice Meeting**](https://digital.gov/event/2019/08/27/devops-community-practice-monthly-meeting/)
+- [**July DevOps Community of Practice Meeting**](https://digital.gov/event/2019/07/23/devops-cop-monthly-meeting/)
 
 ## Join
 We have two listservs available, one for Federal Employees, and one for all individuals: 
