@@ -21,20 +21,4 @@ jQuery(document).ready(function($) {
 		closeNav();
 	});
 
-	// Temporary
-	// Press the escape key to open nav
-	$(document).bind('keyup', function (evt) {
-		if (evt.keyCode == 27){
-			return (this.tog = !this.tog) ? openNav() : closeNav();
-		}
-	});
-
-	// Temporary
-	// Press the 1 key to toggleClass on .paper
-	$(document).bind('keyup', function (evt) {
-		if (evt.keyCode == 49){
-			$('.paper').toggleClass('testing');
-		}
-	});
-
 });
