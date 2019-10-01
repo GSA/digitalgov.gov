@@ -1,27 +1,27 @@
-version: 2
-jobs:
-  build:
-    docker:
-      - image: circleci/node:10.11.0-browsers
-
-    steps:
-      - checkout
-      - restore_cache:
-          keys:
-            - v1-npm-cache-{{ .Branch }}-{{ .Revision }}
-      - run:
-          name: install gulp
-          command: sudo npm install gulp -g
-      - run:
-          name: Install Node dependencies
-          command: npm install
-      - run:
-          name: Node version
-          command: node -v
-      - save_cache:
-          key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
-          paths:
-            - node_modules
-      # - run:
-          # name: Process images
-          # command: gulp process-img
+# version: 2
+# jobs:
+#   build:
+#     docker:
+#       - image: circleci/node:10.11.0-browsers
+#
+#     steps:
+#       - checkout
+#       - restore_cache:
+#           keys:
+#             - v1-npm-cache-{{ .Branch }}-{{ .Revision }}
+#       - run:
+#           name: install gulp
+#           command: sudo npm install gulp -g
+#       - run:
+#           name: Install Node dependencies
+#           command: npm install
+#       - run:
+#           name: Node version
+#           command: node -v
+#       - save_cache:
+#           key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
+#           paths:
+#             - node_modules
+#       # - run:
+#           # name: Process images
+#           # command: gulp process-img
