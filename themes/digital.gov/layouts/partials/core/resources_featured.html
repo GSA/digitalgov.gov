@@ -1,0 +1,61 @@
+{{- $resources_featured := (where .Site.Pages "Section" "resources") -}}
+{{/* If there are any resources at all... */}}
+{{- if $resources_featured -}}
+<div class="list-collection">
+  <h2>Popular Guides and Resources</h2>
+  <ul class="add-list-reset">
+    {{- range sort $resources_featured "Title" "asc" -}}
+      {{- if eq .Params.weight 3 -}}
+        {{/* If an external link  */}}
+        {{- if or .Params.source_url .Params.source -}}
+
+        <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+          <a class="" href="{{- .Params.source_url -}}?=dg" title="{{- .Title | markdownify -}}">
+
+            {{/* If there is a defined source for this page */}}
+            {{- if .Params.source -}}
+              {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+              {{- if $source.Params.icon -}}
+                {{- $source_url := (print "/logos/" $source.Params.icon) -}}
+                <img src="{{- $source_url | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
+              {{- end -}}
+
+            {{/* No source? let's attempt to get the favicon for the URL */}}
+            {{- else -}}
+              <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo"/><span>{{- .Title | markdownify -}}</span>
+            {{- end -}}
+
+          </a>
+          {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
+        </li>
+
+        {{/* If an internal link... */}}
+        {{- else -}}
+        <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+          <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}} ">
+
+            {{/* Use the digital.gov logo */}}
+            {{- $source_url := (print "/img/digit-150.png") -}}
+            <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
+
+          </a>
+          {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
+        </li>
+        {{- end -}}
+
+      {{- end -}}
+    {{- end -}}
+  </ul>
+
+  {{- if .IsHome -}}
+  <footer>
+    <div class="grid-row grid-gap-2">
+      <div class="grid-col-12">
+        <p class="more"><a href="/resources"><span>See all guides and resources</span> <i class="fas fa-arrow-circle-right"></i></a></p>
+      </div>
+    </div>
+  </footer>
+  {{- end -}}
+
+</div>
+{{- end -}}
