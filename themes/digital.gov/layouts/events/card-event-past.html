@@ -3,12 +3,12 @@
     <div class="grid-row grid-gap-2">
 
       {{- if .Params.youtube_id -}}
-      <div class="grid-col-12 tablet:grid-col-4 tablet:order-last">
+      <div class="grid-col-12 tablet:grid-col-3 tablet:order-last">
         <div class="image-featured youtube-player" data-id="{{ .Params.youtube_id }}" data-link="{{ .Permalink }}"></div>
       </div>
       {{- end -}}
 
-      <div class="grid-col-12 {{ if .Params.youtube_id -}}tablet:grid-col-8{{- end -}}">
+      <div class="grid-col-12 {{ if .Params.youtube_id -}}tablet:grid-col-9{{- end -}}">
 
         {{- if .Params.kicker -}}
         <p class="kicker">{{- .Params.kicker -}}</p>
