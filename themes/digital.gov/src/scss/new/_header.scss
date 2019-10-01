@@ -1,0 +1,44 @@
+// Header
+
+.usa-header--extended {
+	.usa-logo{
+		img{
+			@include u-margin-right('2px');
+			@include u-position('relative');
+			@include u-top(1);
+			@include u-width(5);
+		}
+		.old_logo{
+			@include u-top('2px');
+			@include u-width(5);
+			@include u-display('none');
+		}
+		span{
+			@include u-padding-bottom('05');
+			@include u-font('sans', '2xl');
+		}
+		a{
+			&:hover{
+				span{
+					// @include u-border-bottom('2px', 'black', 'solid');
+				}
+			}
+		}
+	}
+
+	nav.usa-nav{
+		.usa-nav__primary > .usa-nav__primary-item{
+			@include u-font('sans', 'md');
+			a{
+				@include u-text('black');
+				&:hover{
+
+				}
+				&:after{
+					@include u-bg('orange-warm-30');
+				}
+			}
+		}
+	}
+
+}
