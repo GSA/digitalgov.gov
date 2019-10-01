@@ -4,7 +4,8 @@ date: 2018-04-26 10:25:54 -0400
 title: 'DigitalGov Style Guide'
 type: guide
 summary: 'This is the DigitalGov style guide.'
-deck: 'We encourage you to use the guidelines below to ensure that content on digital.gov is clear, consist and benefits the widest possible audience.'
+deck: 'We encourage you to use the guidelines below to ensure that content on digital.gov is clear, concise, and benefits the widest possible audience.'
+
 ---
 
 :tada: Welcome to the DigitalGov style guide! 
