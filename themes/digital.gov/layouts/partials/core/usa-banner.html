@@ -4,7 +4,7 @@
     <header class="usa-banner__header">
       <div class="usa-banner__inner grid-container-widescreen">
         <div class="grid-col-auto">
-          {{- $uswds_asset := "favicons/favicon-57.png" -}}
+          {{- $uswds_asset := "us_flag_small.png" -}}
           {{- $path := printf "%s/%s" $uswds_img_path $uswds_asset -}}
           {{- $path := (replace $path "//" "/") | relURL -}}
           <img class="usa-banner__header-flag" src="{{- $path -}}" alt="U.S. flag">
