@@ -11,7 +11,7 @@ https://digital.gov
 ---
 
 
-## Development Guide
+## Installtion and Development 
 
 [Digital.gov](https://digital.gov/) is built with [Hugo](https://gohugo.io/) and hosted by [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).
 
