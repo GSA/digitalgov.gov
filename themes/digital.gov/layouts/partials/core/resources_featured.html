@@ -36,7 +36,7 @@
 
             {{/* Use the digital.gov logo */}}
             {{- $source_url := (print "/img/digit-150.png") -}}
-            <img class="thumb" src="{{- $source_url | relURL -}}" alt="Digital.gov logo" /><span>{{- .Title | markdownify -}}</span>
+            <img class="thumb" src="{{- $source_url | absURL -}}" alt="Digital.gov logo" /><span>{{- .Title | markdownify -}}</span>
 
           </a>
           {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
