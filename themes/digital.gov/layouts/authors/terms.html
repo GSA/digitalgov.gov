@@ -32,7 +32,7 @@
                         {{- if $author.Params.github -}}
                         <img class="circle-5" src="https://github.com/{{- $author.Params.github -}}.png?size=50" alt="">
                         {{- else -}}
-                        {{- $default_profile := print "img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
+                        {{- $default_profile := print "/img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
                         <img class="circle-5" src="{{- $default_profile | absURL -}}" alt="">
                         {{- end -}}
                       </div>
