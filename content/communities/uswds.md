@@ -15,7 +15,7 @@ featured_image:
 
 ## Join
 
-Sign up to join the #uswds-public TTS Slack channel at [chat.18f.gov](https://chat.18f.gov/).
+Sign up to join the `#uswds-public` channel in our Slack at [chat.18f.gov](https://chat.18f.gov/). Once appoved, you will be added as a single-channel guest into the TTS-GSA Slack.
 
 **Community Manager:** Dan Williams, U.S. General Services Administration (GSA)
 
