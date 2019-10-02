@@ -14,7 +14,7 @@
   @include u-padding-y(5);
   .box{
     @include u-padding(2);
-    @include u-padding-bottom('205');
+    @include u-padding-bottom(3);
     @include u-bg('primary-darker');
     h2{
       @include u-font('sans', '2xl');
