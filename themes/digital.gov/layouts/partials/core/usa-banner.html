@@ -24,8 +24,8 @@
         <div class="usa-banner__guidance tablet:grid-col-6">
           {{- $uswds_asset := "icon-dot-gov.svg" -}}
           {{- $path := printf "%s/%s" $uswds_img_path $uswds_asset -}}
-          {{- $path := (replace $path "//" "/") | relURL -}}
-          <img class="usa-banner__icon usa-media-block__img" src="{{- $path -}}" alt="Dot gov">
+          {{- $path := (replace $path "//" "/") -}}
+          <img class="usa-banner__icon usa-media-block__img" src="{{- $path | absURL -}}" alt="Dot gov">
           <div class="usa-media-block__body">
             <p>
               <strong>The .gov means it’s official.</strong>
@@ -37,8 +37,8 @@
         <div class="usa-banner__guidance tablet:grid-col-6">
           {{- $uswds_asset := "icon-https.svg" -}}
           {{- $path := printf "%s/%s" $uswds_img_path $uswds_asset -}}
-          {{- $path := (replace $path "//" "/") | relURL -}}
-          <img class="usa-banner__icon usa-media-block__img" src="{{- $path -}}" alt="Https">
+          {{- $path := (replace $path "//" "/") -}}
+          <img class="usa-banner__icon usa-media-block__img" src="{{- $path | absURL -}}" alt="Https">
           <div class="usa-media-block__body">
             <p>
               <strong>The site is secure.</strong>
