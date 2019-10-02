@@ -10,7 +10,7 @@
             {{- if .Params.github -}}
               <img class="profile" src="https://github.com/{{- .Params.github -}}.png?size=100" srcset="https://www.github.com/{{-  .Params.github -}}.png?size=200" alt="Photo: {{- .Params.display_name -}}">
             {{- else -}}
-              <img class="profile" src="{{- "img/digit-light.png" | absURL -}}" alt="Photo: {{- .Params.display_name -}}">
+              <img class="profile" src="{{- "/img/digit-light.png" | absURL -}}" alt="Photo: {{- .Params.display_name -}}">
             {{- end -}}
 
             <div>
