@@ -1,0 +1,26 @@
+<div class="usa-accordion card-policy">
+
+  {{- .Page.Scratch.Add "count" 1 -}}
+
+  <h3 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      title="View {{ .Get "name" | plainify -}}"
+      aria-expanded="false"
+      aria-controls="card-policy-{{- .Page.Scratch.Get "count" -}}">
+      <span class="scroll"><i class="fas fa-scroll"></i></span>
+      <span class="src">
+        {{ if (.Get "kicker") -}}<strong class="kicker">{{- .Get "kicker" -}}</strong>{{- end -}}
+        {{- .Get "title" | markdownify }}
+        {{ if (.Get "pdf") -}}<em>{{- .Get "pdf" -}}</em>{{- end -}}</span>
+    </button>
+  </h3>
+
+  {{- if .Inner -}}
+  <div id="card-policy-{{- .Page.Scratch.Get "count" -}}" class="card-policy-body usa-accordion__content usa-prose">
+    {{- .Inner | markdownify -}}
+
+    <a class="src" href="{{- .Get "src" }}" title="View {{ .Get "name" | plainify -}}">View the full document <i class="fas fa-arrow-right"></i></a>
+  </div>
+  {{- end -}}
+
+</div>

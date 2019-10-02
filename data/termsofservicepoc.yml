@@ -4,8 +4,8 @@ cabinet:
     title         :
     agency        : Agriculture (USDA)
 
-  - person        : Abby Bowman
-    email         : ABowman@doc.gov
+  - person        : Alicia Sowah
+    email         : asowah@doc.gov
     title         :
     agency        : Commerce
 
@@ -29,8 +29,8 @@ cabinet:
     title         :
     agency        : Energy
 
-  - person        : Coqui Aspiazu
-    email         : Maria.Aspiazu@hhs.gov
+  - person        : John Yembrick
+    email         : John.Yembrick@hhs.gov
     title         :
     agency        : Health & Human Services (HHS)
 
@@ -313,9 +313,9 @@ noncabinet:
     agency        : Privacy and Civil Liberties Oversight Board
     email         : michele.iversen@pclob.gov
 
-  - person        : Laura Egerdal
+  - person        : Nathasha Lim
     agency        : Securities and Exchange Commission (SEC)
-    email         : egerdall@sec.gov
+    email         : LimN@sec.gov
 
   - person        : Steve Morris
     agency        : Small Business Administration (SBA)

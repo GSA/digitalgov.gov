@@ -20,6 +20,9 @@ There are more than 10,000 people participating across government in 22 areas. O
 
 ### Our Communities
 
+**[A/B Testing ]({{< link "a-b-testing.md" >}})**: Using analytics-driven A/B testing practices to validate whether suggested modifications to a digital touchpoint provide optimal benefits for the business and its users.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "a-b-testing.md" >}})
+
 **[Accessibility]({{< link "accessibility.md" >}})**: The IT Accessibility Community supports people in government who working to improve accessibility of information technology.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "accessibility.md" >}})
 
@@ -35,13 +38,13 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
 
-**[Challenges & Prizes]({{< link "challenges-prizes.md" >}})**: We encourage public participation in prize competitions to find innovative government solutions.<br/>
+**[Challenge & Prize]({{< link "challenges-prizes.md" >}})**: We encourage public participation in prize competitions to find innovative government solutions.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes.md" >}})
 
 **[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "crowdsourcing-and-citizen-science.md" >}})
 
-**[DevOps]({{< link "devops.md" >}})**: The practice of operations and development staff participating together in the in the entire service lifecycle operate rapidly changing resilient systems at scale. <br/>
+**[DevOps]({{< link "devops.md" >}})**: The practice of development and operations staff participating together in the entire service lifecycle, rapidly changing resilient systems at scale. <br/>
 [Learn&nbsp;more&nbsp;»]({{< link "devops.md" >}})
 
 **[G3C]({{< link "government-contact-center-council.md" >}})**: The Government Contact Center Council (G3C) is an organization of contact center leaders from local, state and federal agencies focusing on delivering exceptional customer/citizen experiences.<br/>

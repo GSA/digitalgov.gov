@@ -1,0 +1,256 @@
+.page .entry{
+}
+
+.entry-head{
+	@include u-margin-y(3);
+}
+.entry-head h1{
+	margin: 0;
+	color:#222;
+}
+.entry-head .breadcrumb{
+	@include u-margin-bottom(1);
+	@include u-font('sans', 'md');
+	@include u-text('normal');
+}
+.entry-head .breadcrumb p{
+	@include u-margin(0);
+}
+.page .post-title,
+.post .post-title{
+	margin:0 0 .2em 0;
+	line-height: 40px;
+	color:#000;
+}
+.page .entry .deck,
+.post .entry .deck{
+	margin:0 0 0 0;
+	padding:0;
+	font-size: 24px;
+	line-height: 33px;
+	color:#000;
+	border-top:none;
+	font-weight: 100;
+}
+
+.post .entry h2{
+	margin: 1em 0 .5em 0;
+	padding: .5em 0;
+	color:#000;
+}
+
+.entry-head .deck{
+	margin: 10px 0 25px 0;
+	font-size: 24px;
+	line-height: 36px;
+	border-top:none;
+	color:#222;
+	@include u-maxw('tablet-lg');
+}
+.entry-content{
+	margin-bottom: 50px;
+}
+.entry-content .image img{
+	margin:0;
+}
+
+.entry-content .deck{
+	margin-bottom: 21px;
+	font-size: 22px;
+	line-height: 32px;
+}
+
+.entry .video{
+	margin-bottom: 20px;
+}
+
+.entry-content{
+	color:#222;
+}
+
+.entry-content h4{
+	@include u-margin-y('105');
+}
+
+.entry-content p{
+	margin-bottom: 18px;
+}
+
+.entry-content h5{
+	@include u-margin(0);
+	@include u-margin-bottom('05');
+	@include u-font('sans', 'md');
+	@include u-text('base-darker');
+}
+.entry-content h6{
+	@include u-margin(0);
+	@include u-font('sans', 'xs');
+	@include u-text('uppercase');
+}
+
+.entry-meta{
+	margin-bottom: 120px;
+	padding: 20px;
+	background: #fae8f2;
+	color: #222;
+	border-radius: 2px;
+	max-width: 600px;
+	clear: both;
+}
+
+.entry-meta .tags {
+	color: #222;
+}
+.entry-meta .tags a {
+	font-size: .9em;
+}
+.entry-meta .tags a:hover{
+	text-decoration: underline;
+}
+
+
+.entry-meta p.feedback{
+	margin-bottom: 0 !important;
+	padding-bottom: 12px !important;
+	font-weight: bold;
+}
+
+/*Edit File button on posts/pages/events*/
+.entry-meta .edit_file{
+	margin-right: 4px;
+	display: inline;
+}
+
+.entry-meta .edit_file .edit_file_link{
+	padding: 5px 18px;
+	line-height: 16px;
+	display: inline-block;
+	background: #be0069;
+	border-radius: 3px;
+	color:#fff !important;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+}
+.entry-meta .edit_file .edit_file_link:hover{
+	background: #8f004f;
+}
+
+/* Colors for the MASTER branch */
+.branch-master{
+	background-color: #E9E9FA;
+}
+.branch-master .edit_file .edit_file_link{
+	background-color: #4f297c;
+}
+.branch-master .edit_file .edit_file_link:hover{
+	background-color: #290553;
+}
+.branch-master .last_commit .branch{
+	background-color: #cfadf7;
+}
+.branch-master .last_commit .branch:hover{
+	background-color: #a77cdb;
+}
+
+
+.last_commit {
+	margin: 0;
+	display: inline;
+	color: #000;
+	font-size: 14px;
+}
+.last_commit a{
+	text-decoration: underline;
+	color: #444;
+}
+
+.last_commit .branch{
+	margin-right: 3px;
+	padding: 5px 12px 5px 23px;
+	line-height: 16px;
+	display: inline-block;
+	border-radius: 3px;
+	background: #f6a1d0 url("../img/git-branch.png") no-repeat 8px 6px;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	color: #000;
+	text-decoration: none;
+}
+.last_commit .branch:hover{
+	background-color: #f57cbf;
+}
+
+/* Guides */
+.guide .entry-head{
+	margin-bottom: 45px;
+}
+.guide .entry-head .deck{
+	margin-bottom: 10px;
+}
+.guide .entry-head .pagenav{
+	font-size: 20px;
+	font-weight: 600;
+}
+
+
+
+.last-updated{
+	margin-top: 25px;
+	background: rgba(252, 212, 48, .1);
+	background: url('../img/clock-icon.png') no-repeat 0px 6px;
+}
+.last-updated .last_commit{
+	padding-left: 20px;
+	color: #898989;
+	font-size: 14px;
+}
+.last-updated .last_commit a{
+	color: #898989;
+}
+.last-updated .last_commit .branch{
+	display: none;
+}
+
+
+@media only screen and (min-width: 576px) {
+}
+@media only screen and (min-width: 768px) {
+	.entry-content{
+ 	 width: 650px;
+ 	 display: inline-block;
+  }
+}
+@media only screen and (min-width: 992px) {
+
+}
+@media only screen and (min-width: 1024px) {
+
+}
+
+
+
+.entry .favicon{
+	display: inline !important;
+	position: relative;
+  top: 2px;
+  margin-right: 5px;
+}
+.entry .icon{
+	display: inline !important;
+	width:20px;
+	position: relative;
+  top: 4px;
+}
+
+.entry .icon-web{
+	display: none !important;
+}
+
+.entry-content table{
+	width: 100%;
+}
+.entry-content table tr{
+	background: none;
+}

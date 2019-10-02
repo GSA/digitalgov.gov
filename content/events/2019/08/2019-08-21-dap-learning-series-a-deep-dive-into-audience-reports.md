@@ -6,17 +6,15 @@ featured_image:
   uid:
   alt: ''
 event_type:
-  - youtube-live
+  - Zoom
 date: 2019-08-21 13:00:00 -0500
 end_date: 2019-08-21 14:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-audience-reports-registration-59347257244
-youtube_id: HQllbIhbGoM
+youtube_id: AT-KLe47HKo
 
 ---
-_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993567&CustomerID=321)_
-
 Unlock the power of audience reports in Google Analytics in this webinar. Often overlooked in reporting, audience reports empower Digital Analytics Program (DAP) users to start identifying how your site and marketing resonate with your audience.
 
 Build upon your audience report knowledge and learn how to leverage these reports to better understand your audience. We’ll talk about audience reporting with an eye towards helping DAP users understand what’s available, and how to leverage this powerful data.

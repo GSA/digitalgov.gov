@@ -233,7 +233,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Metrics Guidance and Best Practices" href="{{< link "dap-digital-metrics-guidance-and-best-practices.md" >}}">DAP: Digital Metrics Guidance and Best Practices</a>
+      <a title="DAP: Digital Metrics Guidance and Best Practices" href="{{< link "/services/dap/_index.md" >}}">DAP: Digital Metrics Guidance and Best Practices</a>
     </td>
   </tr>
 
@@ -243,7 +243,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Analytics Program" href="{{< link "dap.md" >}}">DAP: Digital Analytics Program</a>
+      <a title="DAP: Digital Analytics Program" href="{{< link "/dap/" >}}">DAP: Digital Analytics Program</a>
     </td>
   </tr>
 
@@ -253,7 +253,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Common Questions about DAP (FAQ)" href="{{< link "common-questions-about-dap-faq.md" >}}">Common Questions about DAP (FAQ)</a>
+      <a title="Common Questions about DAP (FAQ)" href="{{< link "common-questions-about-dap.md" >}}">Common Questions about DAP (FAQ)</a>
     </td>
   </tr>
 
@@ -273,7 +273,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program" href="{{< link "incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program.md" >}}">Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program</a>
+      <a title="Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program" href="{{< link "/services/dap/_index.md" >}}">Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program</a>
     </td>
   </tr>
 

@@ -59,7 +59,7 @@
   <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
   <meta property="og:type" content="{{ $.Scratch.Get "pagetype" }}">
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:site_name" content="DigitalGov">
+  <meta property="og:site_name" content="Digital.gov">
   {{ if $featImgURL }}<meta property="og:image" content="{{ $featImgURL }}" />{{ end }}
   {{ if $.Params.youtube_id }}<meta property='og:video' content='https://www.youtube.com/v/{{ $.Params.youtube_id }}' />{{ end }}
   <meta property="fb:admins" content="100000569454928" />
@@ -80,7 +80,7 @@
   <link href="{{ "feed/index.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 
   {{ "<!-- Sitemap-->" | safeHTML }}
-  <link rel="sitemap" type="application/xml" title="DigitalGov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
+  <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
   {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
@@ -104,31 +104,9 @@
 
 
   {{ "<!-- CSS -->" | safeHTML }}
-  <link rel='stylesheet' href='{{ "css/widget.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/dashicons.min.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/sitesusagov.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/mtphr-tabs.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/mtphr-tabs.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/mtphr-styles.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/mtphr-style.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/enlightened-styles.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/style-font.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/style-responsive.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/wpp.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/shortcodes.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/style-front-end.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/notice-bar.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/tribe-events-full.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/tribe-events-theme.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/entry.css?=20180626" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/toc.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "lib/uswds/css/dg-uswds.min.css" | absURL }}' type='text/css' media='all' />
-  <link rel="stylesheet" media="all" href="{{ "css/override.css" | absURL }}" type="text/css" />
-  <link rel='stylesheet' href='{{ "css/federalist-additions.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/video.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/events.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/featured.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/custom.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "dist/styles-legacy.css" | absURL }}' type='text/css' media='all' />
+  <script src="https://kit.fontawesome.com/dbf359f887.js"></script>
+
 
   {{ if eq .Section "events" }}
   {{ "<!-- Add to Calendar CSS -->" | safeHTML }}

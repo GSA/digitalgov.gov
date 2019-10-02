@@ -16,7 +16,7 @@ The FedRPA CoP is open to government employees only.
 To join, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)
 
 
-## Who we are
+## Who We Are
 
 The CoP will be chaired by Ed Burrows of the GSA Office of the Chief Financial Officer (CFO).
 
@@ -30,7 +30,7 @@ The CoP will be chaired by Ed Burrows of the GSA Office of the Chief Financial O
 The executive sponsors of the RPA CoP are GSA Chief Financial Officer Gerard Badorrek and GSA Technology Transformation Services (TTS) Director Anil Cheriyan.
 
 
-## What we do
+## What We Do
 
 The CoP achieves its mission through information sharing, identification and definition of options, best practices, methods and standards for RPA implementation and operations. The CoP does not set policy, but policy-setting agencies are encouraged to participate and make use of the community’s base of knowledge, information and experience.
 
@@ -40,36 +40,6 @@ The CoP is organized by practice areas for distinct components of RPA program ma
 - a practice Leader - and supported by practice area team - a group of agency volunteers.
 
 All members are required to join at least one "practice area team" after their first meeting attended. This reflects the CoP’s principle that all contribute and all benefit.
-
-The following is an initial, proposed list of practice areas and will be amended as agreed by the CoP:
-
-**Program and Operations Management**
-
-- Governance / Center of Excellence (including strategies for scaling)
-- Human Resource Impacts, Culture Change, Communications (internal and external)
-- Business Case (including benefit realization)
-- Operations Management (modify and fix bots)
-- Management Reporting (performance metrics, dashboarding)
-- Contracting
-
-**Process Assessment and Implementation**
-
-- Identification, Assessment and Selection of Processes for Automation
-- Implementation Process (including documentation, templates, and audit readiness)
-- Development (approach and process management, e.g.,  business, IT and/or contract developers, training)
-- Use Cases, including potential government-wide cases and identification of bots and bot components to be included in the ‘Asset LIbrary’ (reusable code)
-- Bot Scope (guidelines for human vs. bot functions, privacy, ethics)
-
-**Technical**
-
-- IT Platform, including configuration and capacity management (options and best practice)
-- Bot Credentialing (options and best practices)
-- Security (ATO)
-- Development (e.g.,  best practice, reference information, code reviews)
-- Privacy [Privacy Threshold Assessment (PTA), Privacy Impact Assessments (PIA), System of Records Notices (SORN)]
-- Software Options and Capabilities
-- Platform for Government-wide Sharing of Bots and Bot Components (‘Asset Library’)
-- Evolution / Combination of RPA with Cognitive Technologies
 
 ---
 
