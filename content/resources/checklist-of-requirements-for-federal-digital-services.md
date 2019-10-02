@@ -14,9 +14,9 @@ aliases:
 
 {{< note >}}
 **Note:** _You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations._
+{{< /note >}}
 
 See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
-{{< /note >}}
 
 
 ## Overarching Policies
