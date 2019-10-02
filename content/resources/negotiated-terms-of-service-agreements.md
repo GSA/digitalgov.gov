@@ -37,7 +37,7 @@ aliases:
 ---
 
 {{< note >}}
-**Note:** The Terms of Service (TOS) program at the U.S. General Services Administration (GSA) is currently inactive. While the items included below may still be active, Digital.gov is not able to add new agreements to the list below.
+**Note:** The Terms of Service (TOS) program at the U.S. General Services Administration (GSA) is currently inactive. While the items included below may still be active, Digital.gov is not able to add new agreements to the list.
 {{< /note >}}
 
 **:warning:** Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency.
