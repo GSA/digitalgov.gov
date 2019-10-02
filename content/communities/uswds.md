@@ -2,7 +2,7 @@
 url: /communities/uswds/
 uid: uswds
 title: 'U.S. Web Design System Community of Practice'
-summary: 'A community for anyone building federal websites with the U.S. Web Design System or considering it for a future project.'
+summary: 'A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project.'
 featured_image:
   uid: uswds-2-illio-built-to-grow-alt
   alt: ''
@@ -11,7 +11,7 @@ featured_image:
 
 {{< img-right src="uswds-logo" >}}
 
-[**USWDS**](https://designsystem.digital.gov) is a design system that’s built to grow — to help teams build better, more engaging websites for the American public. As a community, we’re committed to making USWDS the right choice for any federal website.
+The [**U.S. Web Design System**](https://designsystem.digital.gov) is a design system that’s built to grow — to help teams build better, more engaging websites for the American public. As a community, we’re committed to making USWDS the right choice for any federal website.
 
 ## Join
 
@@ -19,12 +19,12 @@ Sign up to join the `#uswds-public` channel in our Slack at [chat.18f.gov](https
 
 ## Who We Are
 
-**USWDS** is an active open source community of government engineers, content specialists, and designers. Our contributors, both in and out of government, support dozens of agencies and nearly 200 websites. [Learn more about contributing »](https://github.com/uswds/uswds/blob/develop/CONTRIBUTING.md)
+The **U.S. Web Design System** is an active open source community of government engineers, content specialists, and designers. Our contributors, both in and out of government, support dozens of agencies and nearly 200 websites. [Learn more about contributing »](https://github.com/uswds/uswds/blob/develop/CONTRIBUTING.md)
 
 **Community Manager:** Dan Williams, U.S. General Services Administration (GSA)
 
 ## What we do
-We support the USWDS’ efforts to make it easier to build accessible, mobile-friendly government websites for the American public.
+We support the U.S. Web Design System’s efforts to make it easier to build accessible, mobile-friendly government websites for the American public.
 
 ### Additional Resources
 
@@ -32,6 +32,6 @@ We support the USWDS’ efforts to make it easier to build accessible, mobile-fr
 - [USWDS on GitHub](https://github.com/uswds/uswds/) 
 - [Join the USWDS Slack](https://chat.18f.gov/) 
 - [Follow @USWDS on Twitter](https://twitter.com/uswds?lang=en)
-- [Email the team](mailto:uswds@gsa.gov)
+- [Email the USWDS team](mailto:uswds@gsa.gov)
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}
