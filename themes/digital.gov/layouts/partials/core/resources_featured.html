@@ -32,7 +32,10 @@
         {{/* If an internal link...  */}}
         {{- else -}}
         <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
-          <a href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}} ">
+          <p>{{- .Permalink | absURL -}}</p>
+          <p>{{- .Permalink | relURL -}}</p>
+          <p>{{- .Permalink -}}</p>
+          <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}} ">
 
             {{/* Use the digital.gov logo */}}
             {{- $source_url := (print "/img/digit-150.png") -}}
