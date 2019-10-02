@@ -10,11 +10,14 @@
   }
 }
 
+
+
+
 #home #resources_featured{
   @include u-padding-y(5);
   .box{
     @include u-padding(2);
-    @include u-padding-bottom(3);
+    @include u-padding-bottom(5);
     @include u-bg('primary-darker');
     h2{
       @include u-font('sans', '2xl');
@@ -22,7 +25,7 @@
       @include u-text('thin');
     }
     p{
-      @include u-text('accent-warm-light');
+      @include u-text('accent-warm');
       @include u-font('sans', 'md');
       @include u-line-height('sans', 3);
     }
