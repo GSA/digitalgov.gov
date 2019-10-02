@@ -17,7 +17,7 @@
               {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
               {{- if $source.Params.icon -}}
                 {{- $source_url := (print "/logos/" $source.Params.icon) -}}
-                <img src="{{- $source_url | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
+                <img src="{{- $source_url | absURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
               {{- end -}}
 
             {{/* No source? let's attempt to get the favicon for the URL */}}
@@ -36,7 +36,7 @@
 
             {{/* Use the digital.gov logo */}}
             {{- $source_url := (print "/img/digit-150.png") -}}
-            <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
+            <img class="thumb" src="{{- $source_url | absURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
 
           </a>
           {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}
