@@ -17,11 +17,11 @@ featured_image:
 
 Sign up to join the `#uswds-public` channel in our Slack at [chat.18f.gov](https://chat.18f.gov/). Once appoved, you will be added as a single-channel guest into the TTS-GSA Slack.
 
-**Community Manager:** Dan Williams, U.S. General Services Administration (GSA)
-
 ## Who We Are
 
 **USWDS** is an active open source community of government engineers, content specialists, and designers. Our contributors, both in and out of government, support dozens of agencies and nearly 200 websites. [Learn more about contributing »](https://github.com/uswds/uswds/blob/develop/CONTRIBUTING.md)
+
+**Community Manager:** Dan Williams, U.S. General Services Administration (GSA)
 
 ## What we do
 We support the USWDS’ efforts to make it easier to build accessible, mobile-friendly government websites for the American public. While our listserv is primarily a means to broadcast news and updates, see the Related Resources section below for the many other ways we can work together to improve the system.
