@@ -128,7 +128,7 @@ aliases:
 * [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit]({{< link "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}})
 * [Barriers and Solutions to Implementing Social Media in Government]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf" >}}) (PDF, 55 kb, 4 pages, December 2008)
 
-## Terms of Services Agreements
+## Terms of Service Agreements
 
 * [Federal Compatible Terms of Service]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
     * [Negotiated Terms of Service Agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
