@@ -78,7 +78,7 @@ params:
     - civic-tech
 
 
-relativeURLs: true
+# relativeURLs: true
 refLinksNotFoundURL: https://digital.gov/resources/
 
 permalinks:
