@@ -11,7 +11,7 @@ featured_image:
 
 {{< img-right src="uswds-logo" >}}
 
-The [**U.S. Web Design System**](https://designsystem.digital.gov) is a design system that’s built to grow — to help teams build better, more engaging websites for the American public. As a community, we’re committed to making USWDS the right choice for any federal website.
+[**The U.S. Web Design System**](https://designsystem.digital.gov) is a design system that’s built to grow — to help teams build better, more engaging websites for the American public. As a community, we’re committed to making USWDS the right choice for any federal website.
 
 ## Join
 
@@ -19,7 +19,7 @@ Sign up to join the `#uswds-public` channel in our Slack at [chat.18f.gov](https
 
 ## Who We Are
 
-The **U.S. Web Design System** is an active open source community of government engineers, content specialists, and designers. Our contributors, both in and out of government, support dozens of agencies and nearly 200 websites. [Learn more about contributing »](https://github.com/uswds/uswds/blob/develop/CONTRIBUTING.md)
+**The U.S. Web Design System** is an active open source community of government engineers, content specialists, and designers. Our contributors, both in and out of government, support dozens of agencies and nearly 200 websites. [Learn more about contributing »](https://github.com/uswds/uswds/blob/develop/CONTRIBUTING.md)
 
 **Community Manager:** Dan Williams, U.S. General Services Administration (GSA)
 
