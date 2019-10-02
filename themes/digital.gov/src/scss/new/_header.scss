@@ -6,8 +6,12 @@
 			img{
 				@include u-margin-right('2px');
 				@include u-position('relative');
-				@include u-top(1);
-				@include u-width(5);
+				@include u-top('2px');
+				@include u-width(3);
+				@include at-media('tablet') {
+					@include u-top(1);
+					@include u-width(5);
+				}
 			}
 			.old_logo{
 				@include u-top('2px');
@@ -16,7 +20,11 @@
 			}
 			span{
 				@include u-padding-bottom('05');
-				@include u-font('sans', '2xl');
+				@include u-font('sans', 'xl');
+				@include u-line-height('sans', 1);
+				@include at-media('tablet') {
+					@include u-font('sans', '2xl');
+				}
 			}
 
 			&:hover{
