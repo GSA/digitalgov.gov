@@ -1,4 +1,4 @@
-# Digital.gov
+<h1><img src="https://demo.digital.gov/img/digitalgov-logo-black.svg" alt="Digital.gov Logo"/></h1>
 
 ## We help the government build better digital services
 https://digital.gov
@@ -7,6 +7,7 @@ https://digital.gov
 - Follow us on [Twitter »](https://twitter.com/digital_gov/)
 - Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
 
+Want to learn more about how we work? [Check out our Wiki page »](https://github.com/GSA/digitalgov.gov/wiki)
 
 ---
 
@@ -32,6 +33,6 @@ _see https://gohugo.io/getting-started/installing/ for other OSs_
 
 `hugo serve --config=config.yml` _(can take 2-3 minutes to launch)_
 or
-`hugo serve --config=config_dev.yml` _(can take 20 secsto launch but only builds a portion of the content)_
+`hugo serve --config=config_dev.yml` _(can take 20 secs to launch but only builds a portion of the content)_
 
 **visit** http://localhost:1313/

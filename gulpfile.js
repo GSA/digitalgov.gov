@@ -1,11 +1,11 @@
 var gulp = require("gulp");
-require('./config/gulp/images');
+// require('./config/gulp/images');
 require('./config/gulp/uswds');
 
 
 
 // Image Processor
-gulp.task("process-img", gulp.series('cleanup'));
+// gulp.task("process-img", gulp.series('cleanup'));
 
 // USWDS
 gulp.task('watch-sass', function () {

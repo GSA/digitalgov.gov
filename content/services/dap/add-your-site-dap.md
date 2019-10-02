@@ -5,9 +5,10 @@ deck: ""
 summary: ""
 type: guide
 guide: dap
+
 ---
 
-**DAP is required:** On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf)(PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP JavaScript code on all public facing federal websites. 
+**DAP is required:** On November 8, 2016, the [Office of Management and Budget](https://www.whitehouse.gov/omb/) (OMB) released a memorandum on [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages), which requires federal agencies to implement the DAP JavaScript code on all public facing federal websites. 
 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 
@@ -18,7 +19,6 @@ All public facing websites and digital services should be designed around user n
 - A. {{< highlight >}}All agencies must participate in the General Service Administration’s (GSA) Digital Analytics Program (DAP) and deploy the DAP tracking code on all public facing agency websites.{{< /highlight >}} The DAP provides agencies with free quantitative analytics to inform website management. Participation in the DAP does not preclude agencies from using other analytics programs.
 - B. GSA will maintain a public listing of the domains participating in the DAP and track agency compliance on the DotGov Dashboard.{{< /card-policy >}}
 
-
 ## Participating in the Program
 
 Any federal agency can sign up to use the Digital Analytics Program web analytics tool. Here’s how it works: 
@@ -28,13 +28,11 @@ Any federal agency can sign up to use the Digital Analytics Program web analytic
 - GSA will provide implementation support, access to training, and other resources to the agency POC.
 - If you don’t have an identified point of contact, [send us an email](mailto:dap@support.digitalgov.gov).
 
-
 ## Appropriate Placement of the DAP Script Tag
 
 **The DAP script should only be applied to public-facing pages.** Public-facing web pages are defined as those that can be accessed without any authentication or login, and are not part of an otherwise "privileged session."
 
 The DAP script tag should not be placed on pages visited during logged-in sessions. Notably, other seemingly “public” pages that can be accessed without authentication may also be part of _privileged sessions_; for example, a password reset page that is accessed by clicking a link in an email is not appropriate for DAP code because it assumes the visitor has the privilege of control over the email account used to provide the link. 
-
 
 ## Instructions for Adding Custom Web Analytics Code to Federal Agency Websites
 

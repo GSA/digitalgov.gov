@@ -81,7 +81,7 @@ This page is a collection of style guides created by government agencies.  You c
 
 * * *
 
-#### Other Writing Resources
+## Other Writing Resources
 
 Here&#8217;s a collection of guides created by digital communities of practice and other groups.
 
