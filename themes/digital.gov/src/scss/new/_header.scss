@@ -2,22 +2,23 @@
 
 .usa-header--extended {
 	.usa-logo{
-		img{
-			@include u-margin-right('2px');
-			@include u-position('relative');
-			@include u-top(1);
-			@include u-width(5);
-		}
-		.old_logo{
-			@include u-top('2px');
-			@include u-width(5);
-			@include u-display('none');
-		}
-		span{
-			@include u-padding-bottom('05');
-			@include u-font('sans', '2xl');
-		}
 		a{
+			img{
+				@include u-margin-right('2px');
+				@include u-position('relative');
+				@include u-top(1);
+				@include u-width(5);
+			}
+			.old_logo{
+				@include u-top('2px');
+				@include u-width(5);
+				@include u-display('none');
+			}
+			span{
+				@include u-padding-bottom('05');
+				@include u-font('sans', '2xl');
+			}
+
 			&:hover{
 				span{
 					// @include u-border-bottom('2px', 'black', 'solid');
@@ -35,10 +36,26 @@
 
 				}
 				&:after{
-					@include u-bg('orange-warm-30');
+					@include u-bg('orange-warm-40v');
 				}
 			}
 		}
+		p.agency_refer{
+			@include u-float('right');
+		}
 	}
 
+	.agency_refer{
+		@include u-display('flex');
+		@include u-flex('align-center');
+		@include u-font('sans', '3xs');
+		@include u-text('base-dark');
+		img{
+			@include u-margin-right('05');
+			@include u-width(2);
+		}
+		span{
+			@include u-font('sans', '3xs');
+		}
+	}
 }

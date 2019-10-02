@@ -53,7 +53,7 @@ blackfriday:
 
 params:
   description: "Guidance on building better digital services in government"
-  agency_refer: "A product of the U.S. General Services Administration"
+  agency_refer: "U.S. General Services Administration"
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
   git_org               : "GSA"
   git_repo              : "digitalgov.gov"
