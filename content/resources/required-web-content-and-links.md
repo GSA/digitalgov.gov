@@ -113,7 +113,7 @@ Section 508 of the Rehabilitation Act was enacted to eliminate barriers in infor
 <sup>29</sup> Section 508 does not apply to national security systems, as that term is defined in section 11103(a) of title 40. 29 U.S.C. &sect; 794d(a)(5). <br />
 <sup>30</sup> 36 CFR Part 1194 <br />
 <sup>31</sup> 29 U.S.C. &sect; 794d(g) <br />
-<sup>32</sup> [Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013) </p>{{< /card-policy >}}
+<sup>32</sup> <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" title="OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act">OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> (PDF, 212 kb, 13 pages, January 2013) </p>{{< /card-policy >}}
 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" kicker="Policy" title="**OMB Memorandum:** Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act" pdf="(PDF, 212 kb, 13 pages, January 2013)" >}}**Increase Transparency**
 
