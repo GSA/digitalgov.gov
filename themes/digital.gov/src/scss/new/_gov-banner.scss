@@ -13,4 +13,9 @@
       @include u-text('base-lighter');
     }
   }
+
+  .usa-banner__button[aria-expanded=true]:after{
+    @include u-bg('primary-darker');
+    background-image: url(../lib/uswds/img/close-white-alt.svg),linear-gradient(transparent,transparent);
+  }
 }

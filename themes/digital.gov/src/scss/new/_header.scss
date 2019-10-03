@@ -1,6 +1,7 @@
 // Header
 
 .usa-header--extended {
+	@include u-bg('white');
 	.usa-navbar{
 		@include u-bg('primary-darker');
 		@include at-media('tablet') {
