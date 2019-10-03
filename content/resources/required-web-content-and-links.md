@@ -76,7 +76,7 @@ For other required links, Federal agencies should determine the best location on
 Federal agencies must: 
 
 1. develop an accessibility statement,
-2. add it as "Accessibility" page on the agency's main website,  
+2. add it as an "Accessibility" page on the agency's main website,  
 3. link to it on all secondary public-facing websites, and 
 4. link to it on the agency's Intranet website. 
 
