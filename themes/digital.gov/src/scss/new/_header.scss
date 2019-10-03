@@ -19,7 +19,7 @@
 				@include u-margin-right(1);
 				@include u-width(3);
 				@include at-media('tablet') {
-					@include u-width(5);
+					@include u-width(4);
 				}
 			}
 			.logo-black{
@@ -38,6 +38,7 @@
 				@include u-padding-bottom(0);
 				@include u-font('sans', 'xl');
 				@include u-line-height('sans', 1);
+				@include u-text('bold');
 				@include at-media('tablet') {
 					@include u-font('sans', '2xl');
 				}
