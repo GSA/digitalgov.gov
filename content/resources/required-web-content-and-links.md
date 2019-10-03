@@ -121,8 +121,8 @@ Transparency of Federal programs, performance, and spending facilitates increase
 
 Transparency of agency Section 508 practices and application will be improved through two key actions: (1) providing the public with a standard feedback mechanism and statement available on agency websites, and (2) making [www.section508.gov](https://www.section508.gov) the one-stop information resource for agencies with respect to successful Section 508 management and implementation. Specifically, within 180 days of the release of this strategic plan: 
 
-**1.** the General Services Administration (GSA) will share with OMB the action plan for transforming www.section508.gov into the one-stop source of information and communication for successfully managing Section 508 implementation throughout the acquisition lifecycle. 
-**2.** {{< highlight >}}Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.{{< /highlight >}} Sample and best-in-practice accessibility statements can be found at [www.section508.gov](https://www.section508.gov). 
+1. the General Services Administration (GSA) will share with OMB the action plan for transforming www.section508.gov into the one-stop source of information and communication for successfully managing Section 508 implementation throughout the acquisition lifecycle. 
+2. {{< highlight >}}Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.{{< /highlight >}} Sample and best-in-practice accessibility statements can be found at [www.section508.gov](https://www.section508.gov). 
 {{< /card-policy >}}
 
 ## Budget and Performance Reports
@@ -219,8 +219,8 @@ The Information Quality Act applies to all information disseminated from Federal
 
 **E.** Agencies must clearly identify external links from their websites, and to the extent practicable update or remove the links when the external information is no longer sufficiently accurate, relevant, timely, necessary or complete. 
 
-**1.** {{< highlight >}}Agency websites must clearly state that the content of external links to non-Federal Agency websites is not endorsed by the Federal Government and is not subject to Federal information quality, privacy, security, and related guidelines.{{< /highlight >}} 
-**2.** {{< highlight >}}Agencies should choose the best approach to identify external links to users in a way that minimizes the impact on the usability of their websites and digital services.{{< /highlight >}}{{< /card-policy >}}
+1. {{< highlight >}}Agency websites must clearly state that the content of external links to non-Federal Agency websites is not endorsed by the Federal Government and is not subject to Federal information quality, privacy, security, and related guidelines.{{< /highlight >}} 
+2. {{< highlight >}}Agencies should choose the best approach to identify external links to users in a way that minimizes the impact on the usability of their websites and digital services.{{< /highlight >}}{{< /card-policy >}}
 
 
 ## Freedom of Information Act (FOIA)
