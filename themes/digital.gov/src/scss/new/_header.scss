@@ -51,6 +51,22 @@
 		}
 	}
 
+	.usa-menu-btn{
+		@include u-margin-right('105');
+		@include u-padding-y('2px');
+		@include u-padding-x(1);
+		@include u-border('1px', 'white', 'solid');
+		@include u-height('auto');
+		@include u-radius('md');
+		@include u-text('no-uppercase');
+		@include u-bg('primary-darker');
+		@include u-font('sans', 'xs');
+		@include u-text('bold');
+		i{
+			@include u-margin-right('2px');
+		}
+	}
+
 	nav.usa-nav{
 		.usa-nav__primary > .usa-nav__primary-item{
 			@include u-font('sans', 'md');

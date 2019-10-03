@@ -41,15 +41,15 @@
     p{
       @include u-margin-top(1);
       @include u-text('primary-dark');
-      @include u-font('serif', 'lg');
-      @include u-line-height('serif', 3);
+      @include u-font('sans', 'lg');
+      @include u-line-height('sans', 3);
       @include u-text('thin');
       @include u-text('italic');
       @include at-media('tablet-lg') {
-        @include u-text('normal');
+        @include u-text('light');
         @include u-margin-top('105');
         @include u-text('accent-warm');
-        @include u-font('serif', 'lg');
+        @include u-font('sans', 'md');
       }
     }
   }
