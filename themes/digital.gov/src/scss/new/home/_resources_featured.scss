@@ -44,7 +44,6 @@
       @include u-font('sans', 'lg');
       @include u-line-height('sans', 3);
       @include u-text('thin');
-      @include u-text('italic');
       @include at-media('tablet-lg') {
         @include u-text('light');
         @include u-margin-top('105');
