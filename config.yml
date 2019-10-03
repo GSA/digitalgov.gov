@@ -116,10 +116,6 @@ menu:
       Identifier      : "services"
       URL             : "/services/"
       Weight          : 5
-    - Name            : "Subscribe"
-      Identifier      : "subscribe"
-      URL             : "/subscribe/"
-      Weight          : 6
 
   secondary:
     - Name            : "Challenges"
