@@ -1,25 +1,41 @@
 // Header
 
 .usa-header--extended {
+	.usa-navbar{
+		@include u-bg('primary-darker');
+		@include at-media('tablet') {
+			@include u-bg('white');
+		}
+	}
 	.usa-logo{
 		a{
+			@include u-display('flex');
+			@include u-flex('align-center');
+			@include u-text('white');
+			@include at-media('tablet') {
+				@include u-text('black');
+			}
 			img{
-				@include u-margin-right('2px');
-				@include u-position('relative');
-				@include u-top('2px');
+				@include u-margin-right(1);
 				@include u-width(3);
 				@include at-media('tablet') {
-					@include u-top(1);
 					@include u-width(5);
 				}
 			}
-			.old_logo{
-				@include u-top('2px');
-				@include u-width(5);
+			.logo-black{
 				@include u-display('none');
+				@include at-media('tablet') {
+					@include u-display('block');
+				}
+			}
+			.logo-white{
+				@include u-display('block');
+				@include at-media('tablet') {
+					@include u-display('none');
+				}
 			}
 			span{
-				@include u-padding-bottom('05');
+				@include u-padding-bottom(0);
 				@include u-font('sans', 'xl');
 				@include u-line-height('sans', 1);
 				@include at-media('tablet') {
