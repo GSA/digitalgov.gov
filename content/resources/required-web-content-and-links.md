@@ -11,6 +11,7 @@ authors:
 
 ---
 
+
 If you manage a public website in the federal government's Executive Branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
 
 **This page makes it clear:**
@@ -117,11 +118,16 @@ Section 508 of the Rehabilitation Act was enacted to eliminate barriers in infor
 **A.** Agencies must comply with Section 508 and with the Electronic and Information Technology (EIT) Accessibility Standards. <sup>30</sup> Additionally, agencies must also adhere to their own Section 508 regulations and policies. Section 508 does not limit rights, remedies, or procedures otherwise available under other Federal laws, including Sections 501, 503, and 504 of the Rehabilitation Act and the Americans with Disabilities Act. <sup>31</sup>; <br />**B.** Section 508 technical and EIT Accessibility requirements must be included in the requirements document for the procurement of EIT products and services and planned for and built into the development, operations and management lifecycle of a Federal website or digital service. Any new functionality must be regularly tested to ensure it meets the EIT Accessibility Standards and is accessible for persons with disabilities.; <br />**C.** {{< highlight >}}Agencies must develop accessibility statements for their website{{< /highlight >}} and appoint a Section 508 Coordinator {{< highlight >}}as required by OMB Memorandum, <em>Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</em>{{< /highlight >}}. <sup>[32](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) </sup>;
 
 ***
-<p style="font-size: small;"><sup>28</sup> <em>See</em> 29 U.S.C. &sect; 794d <br />
+
+{{< footnote >}}
+<sup>28</sup> _See_ 29 U.S.C. &sect; 794d <br />
 <sup>29</sup> Section 508 does not apply to national security systems, as that term is defined in section 11103(a) of title 40. 29 U.S.C. &sect; 794d(a)(5). <br />
 <sup>30</sup> 36 CFR Part 1194 <br />
 <sup>31</sup> 29 U.S.C. &sect; 794d(g) <br />
-<sup>32</sup> <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" title="OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act">OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> (PDF, 212 kb, 13 pages, January 2013) </p>{{< /card-policy >}}
+<sup>32</sup> [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013)
+{{< /footnote >}}
+
+{{< /card-policy >}}
 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" kicker="Policy" title="**OMB Memorandum:** Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act" pdf="(PDF, 212 kb, 13 pages, January 2013)" >}}**Increase Transparency**
 
