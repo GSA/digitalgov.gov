@@ -1,17 +1,18 @@
 {{- $uswds_img_path := "/lib/uswds/img" -}}
-<div class="usa-banner">
+<a class="usa-skipnav" href="#main-content">Skip to main content</a>
+<div class="usa-banner gov-banner">
   <div class="usa-accordion">
     <header class="usa-banner__header">
-      <div class="usa-banner__inner grid-container-widescreen">
+      <div class="usa-banner__inner">
         <div class="grid-col-auto">
           {{- $uswds_asset := "us_flag_small.png" -}}
           {{- $path := printf "%s/%s" $uswds_img_path $uswds_asset -}}
           {{- $path := (replace $path "//" "/") -}}
           <img class="usa-banner__header-flag" src=".{{- $path -}}" alt="A U.S. flag">
         </div>
-        <div class="grid-col-fill tablet:grid-col-auto text-center">
+        <div class="grid-col-fill tablet:grid-col-auto">
           <p class="usa-banner__header-text">An official website of the United States government</p>
-          <p class="usa-banner__header-action text-white" aria-hidden="true">Here’s how you know</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
         </div>
         <button class="usa-accordion__button usa-banner__button"
           aria-expanded="false" aria-controls="gov-banner">

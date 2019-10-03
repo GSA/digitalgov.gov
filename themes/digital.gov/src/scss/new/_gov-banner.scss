@@ -1,0 +1,16 @@
+.gov-banner{
+  @include u-bg('primary-darkest');
+  .usa-banner__header-text{
+    @include u-text('white');
+  }
+  .usa-banner__content{
+    @include u-text('white');
+  }
+  .usa-banner__header-action,
+  .usa-banner__button{
+    @include u-text('base-light');
+    &:hover{
+      @include u-text('base-lighter');
+    }
+  }
+}
