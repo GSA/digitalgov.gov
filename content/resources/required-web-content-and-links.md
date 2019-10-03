@@ -28,18 +28,25 @@ Use the guidance below to implement these required links in a clear, user-friend
 
 ## About Page
 
-You are required to have an "About" page on your site that includes your agency mission, descriptions of the organization structure, statutory authority, and links to the following information:
+You are required to have an "About" page on your site that includes information about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
 
 - the agency’s strategic plan and annual performance plans
-- the agency’s Privacy Program Page
-- the agency point of contact as required by the Small Business Paperwork Relief Act of 2002
-- the agency’s Open Government Page
-- the agency’s Plain Writing Page
-- information as required under the No Fear Act of 2002
+- the agency’s privacy policy page (more on this below)
+- the agency’s point of contact, as required by the Small Business Paperwork Relief Act of 2002
+- the agency’s Open Government page
+- the agency’s Plain Writing page
+- information as required under the No Fear Act of 2002 (more on this below)
 - information associated with the agency’s implementation of the Information Quality Act
 
+
+For example, our Digital.gov About page has:
+- text about our program
+- a link to our own privacy policy that also links to the GSA's privacy policy page
+- links to GSA's pages for the rest of the links
+
+
 {{< box >}}
-##### Required link text:
+##### Suggested link text:
 `About Us` or `About`
 
 ##### Required on:
@@ -74,23 +81,23 @@ For other required links, Federal agencies should determine the best location on
 
 ## Accessibility Page
 
-Federal agencies must: 
+Federal agencies must:
 
 1. develop an accessibility statement,
-2. add it as an "Accessibility" page on the agency's main website and provide a link to it,  
-3. link to it on all secondary public-facing websites, and 
-4. link to it on the agency's Intranet website. 
+2. add it as an "Accessibility" page on the agency's main website and provide a link to it,
+3. link to it on all secondary public-facing websites, and
+4. link to it on the agency's Intranet website.
 
-The accessibility statement should, at a minimum, include: 
+The accessibility statement should, at a minimum, include:
 
-- contact information for the agency Section 508 program, 
-- date of the last update, and 
-- the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program. 
+- contact information for the agency Section 508 program,
+- date of the last update, and
+- the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.
 
-Sample and best-in-practice accessibility statements can be found at [Section508.gov](www.section508.gov) on the pages for [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies), and [Executive Guide to Federal IT Accessibility](https://www.section508.gov/tools/playbooks/exec-guide-accessibility). 
+Sample and best-in-practice accessibility statements can be found at [Section508.gov](www.section508.gov) on the pages for [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies), and [Executive Guide to Federal IT Accessibility](https://www.section508.gov/tools/playbooks/exec-guide-accessibility).
 
 {{< box >}}
-##### Required link text:
+##### Suggested link text:
 `Accessibility`
 
 ##### Required on:
@@ -105,11 +112,11 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **12. Ensure Accessibility for Individuals with Disabilities**
 
-Section 508 of the Rehabilitation Act was enacted to eliminate barriers in information technology, open new opportunities for people with disabilities, and encourage the development of technologies that will help achieve these goals. <sup>28</sup> The law applies to all Federal departments and agencies when they develop, procure, maintain, or use electronic and information technology. <sup>29</sup> Under Section 508, departments and agencies must ensure that employees and members of the public with disabilities have access to information and data that is comparable to access available to others unless an undue burden would be imposed on the department or agency. 
+Section 508 of the Rehabilitation Act was enacted to eliminate barriers in information technology, open new opportunities for people with disabilities, and encourage the development of technologies that will help achieve these goals. <sup>28</sup> The law applies to all Federal departments and agencies when they develop, procure, maintain, or use electronic and information technology. <sup>29</sup> Under Section 508, departments and agencies must ensure that employees and members of the public with disabilities have access to information and data that is comparable to access available to others unless an undue burden would be imposed on the department or agency.
 
 **A.** Agencies must comply with Section 508 and with the Electronic and Information Technology (EIT) Accessibility Standards. <sup>30</sup> Additionally, agencies must also adhere to their own Section 508 regulations and policies. Section 508 does not limit rights, remedies, or procedures otherwise available under other Federal laws, including Sections 501, 503, and 504 of the Rehabilitation Act and the Americans with Disabilities Act. <sup>31</sup>; <br />**B.** Section 508 technical and EIT Accessibility requirements must be included in the requirements document for the procurement of EIT products and services and planned for and built into the development, operations and management lifecycle of a Federal website or digital service. Any new functionality must be regularly tested to ensure it meets the EIT Accessibility Standards and is accessible for persons with disabilities.; <br />**C.** {{< highlight >}}Agencies must develop accessibility statements for their website{{< /highlight >}} and appoint a Section 508 Coordinator {{< highlight >}}as required by OMB Memorandum, <em>Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</em>{{< /highlight >}}. <sup>[32](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) </sup>;
 
-*** 
+***
 <p style="font-size: small;"><sup>28</sup> <em>See</em> 29 U.S.C. &sect; 794d <br />
 <sup>29</sup> Section 508 does not apply to national security systems, as that term is defined in section 11103(a) of title 40. 29 U.S.C. &sect; 794d(a)(5). <br />
 <sup>30</sup> 36 CFR Part 1194 <br />
@@ -118,12 +125,12 @@ Section 508 of the Rehabilitation Act was enacted to eliminate barriers in infor
 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" kicker="Policy" title="**OMB Memorandum:** Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act" pdf="(PDF, 212 kb, 13 pages, January 2013)" >}}**Increase Transparency**
 
-Transparency of Federal programs, performance, and spending facilitates increases in accountability and citizen engagement. To support increased transparency, the Accessibility Committee has expanded on information available to agencies by creating a best practices library. The library may be found at [https://cio.gov/2011/05/](https://cio.gov/2011/05/) and contains examples of best practices in policy and procedures that can increase transparency. Feedback from the listening sessions and the national dialogue indicates several areas that would benefit from more transparency. Specific areas include opportunities for public engagement, inter-agency collaboration, and standardizing agency approaches to Section 508 implementation. 
+Transparency of Federal programs, performance, and spending facilitates increases in accountability and citizen engagement. To support increased transparency, the Accessibility Committee has expanded on information available to agencies by creating a best practices library. The library may be found at [https://cio.gov/2011/05/](https://cio.gov/2011/05/) and contains examples of best practices in policy and procedures that can increase transparency. Feedback from the listening sessions and the national dialogue indicates several areas that would benefit from more transparency. Specific areas include opportunities for public engagement, inter-agency collaboration, and standardizing agency approaches to Section 508 implementation.
 
-Transparency of agency Section 508 practices and application will be improved through two key actions: (1) providing the public with a standard feedback mechanism and statement available on agency websites, and (2) making [www.section508.gov](https://www.section508.gov) the one-stop information resource for agencies with respect to successful Section 508 management and implementation. Specifically, within 180 days of the release of this strategic plan: 
+Transparency of agency Section 508 practices and application will be improved through two key actions: (1) providing the public with a standard feedback mechanism and statement available on agency websites, and (2) making [www.section508.gov](https://www.section508.gov) the one-stop information resource for agencies with respect to successful Section 508 management and implementation. Specifically, within 180 days of the release of this strategic plan:
 
-1. the General Services Administration (GSA) will share with OMB the action plan for transforming www.section508.gov into the one-stop source of information and communication for successfully managing Section 508 implementation throughout the acquisition lifecycle. 
-2. {{< highlight >}}Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.{{< /highlight >}} Sample and best-in-practice accessibility statements can be found at [www.section508.gov](https://www.section508.gov). 
+1. the General Services Administration (GSA) will share with OMB the action plan for transforming www.section508.gov into the one-stop source of information and communication for successfully managing Section 508 implementation throughout the acquisition lifecycle.
+2. {{< highlight >}}Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.{{< /highlight >}} Sample and best-in-practice accessibility statements can be found at [www.section508.gov](https://www.section508.gov).
 {{< /card-policy >}}
 
 ## Budget and Performance Reports
@@ -138,7 +145,7 @@ Agencies are required to have a page on their website that has the following inf
 
 
 {{< box >}}
-##### Required link text:
+##### Suggested link text:
 `Budget and Performance`
 
 ##### Required on:
@@ -162,12 +169,12 @@ When developing performance information for publication, agencies should be open
 **Machine-readable**. Consistent with the GPRA Modernization Act of 2010, information published through Performance.gov will be made available to the public in a machine-readable format. See section 240 for additional information on an initiative to make agency performance plans and reports ‘machine readable’ with the 2021 Budget and Performance Planning / Reporting cycle.{{< / card-policy >}}
 
 
-## Equal Employment 
+## Equal Employment
 
 All federal public websites must comply with the existing No Fear Act Notification and Federal Employee Anti-Discrimination and Retaliation of 2002 (No Fear Act) Public Law No. 107-174). Organizations should review the relevant law to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
-##### Required link text:
+##### Suggested link text:
 `No FEAR Act Data`
 
 ##### Required on:
@@ -195,12 +202,12 @@ In furtherance of making every agency's No FEAR Act data easily accessible, it w
 Finally, some commenters suggested that each agency provide EEOC with the hyperlink to its No FEAR data and that EEOC post the agency hyperlinks in one location on EEOC's public Web site. EEOC has decided to adopt this suggestion. Therefore, the final rule contains the requirement that an agency provide EEOC with the URL for the location of its No FEAR data and provide URL updates as necessary. Agencies can e-mail their URLs to EEOC at NoFEAR.URLS@eeoc.gov.{{< / card-policy >}}
 
 
-## External Links 
+## External Links
 
-Agencies must clearly identify external links from their websites. Agency websites must clearly state that the content of external links to non-federal agency websites is not endorsed by the federal government and is not subject to federal information quality, privacy, security, and related guidelines. 
+Agencies must clearly identify external links from their websites. Agency websites must clearly state that the content of external links to non-federal agency websites is not endorsed by the federal government and is not subject to federal information quality, privacy, security, and related guidelines.
 
 {{< box >}}
-##### Required link text:
+##### Suggested link text:
 Agencies should choose the best approach to identify external links to users in a way that minimizes the impact on the usability of their websites and digital services
 
 ##### Required on:
@@ -214,13 +221,13 @@ Agencies should choose the best approach to identify external links to users in 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf" kicker="Policy" title="**OMB M-17-06**: Policies for Federal Agency Public Websites and Digital Services" pdf="(PDF, 1.2 MB, 18 pages, November 2016)" >}}
 **11. Ensure Information Quality and Accuracy**
 
-The Internet enables agencies to communicate information quickly and easily to a wide audience, which, while of great benefit to society, also increases the potential harm that can result from disseminating incorrect information. Taking this into account, information disseminated from Federal Government websites and digital services, or from third-party services on behalf of the Government, is expected to be authoritative and reliable. 
+The Internet enables agencies to communicate information quickly and easily to a wide audience, which, while of great benefit to society, also increases the potential harm that can result from disseminating incorrect information. Taking this into account, information disseminated from Federal Government websites and digital services, or from third-party services on behalf of the Government, is expected to be authoritative and reliable.
 
-The Information Quality Act applies to all information disseminated from Federal websites, and in certain cases, to information published to third-party sites on behalf of the Government. OMB has published Information Quality Guidelines to help agencies meet this requirement. <sup>26</sup> 
+The Information Quality Act applies to all information disseminated from Federal websites, and in certain cases, to information published to third-party sites on behalf of the Government. OMB has published Information Quality Guidelines to help agencies meet this requirement. <sup>26</sup>
 
-**E.** Agencies must clearly identify external links from their websites, and to the extent practicable update or remove the links when the external information is no longer sufficiently accurate, relevant, timely, necessary or complete. 
+**E.** Agencies must clearly identify external links from their websites, and to the extent practicable update or remove the links when the external information is no longer sufficiently accurate, relevant, timely, necessary or complete.
 
-1. {{< highlight >}}Agency websites must clearly state that the content of external links to non-Federal Agency websites is not endorsed by the Federal Government and is not subject to Federal information quality, privacy, security, and related guidelines.{{< /highlight >}} 
+1. {{< highlight >}}Agency websites must clearly state that the content of external links to non-Federal Agency websites is not endorsed by the Federal Government and is not subject to Federal information quality, privacy, security, and related guidelines.{{< /highlight >}}
 2. {{< highlight >}}Agencies should choose the best approach to identify external links to users in a way that minimizes the impact on the usability of their websites and digital services.{{< /highlight >}}{{< /card-policy >}}
 
 
@@ -236,7 +243,7 @@ There are two requirements that all federal public websites must have:
 Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
 
 {{< box >}}
-##### Required link text:
+##### Suggested link text:
 `FOIA` or `Freedom of Information Act`
 
 ##### Required on:
@@ -281,8 +288,12 @@ We also encourage you to link to [USAGov en Español](https://www.usa.gov/espano
 - [Learn more about linking to USA.gov »](https://www.usa.gov/link-to-us)
 
 {{< box >}}
-##### Required link text:
-`USA.gov`
+##### Suggested link text:
+`Have a question about government services? Contact USA.gov`
+
+```
+<a href="https://www.usa.gov/" title="Contact USA.gov">Contact USA.gov</a>
+```
 
 ##### Required on:
 - Your principal website
@@ -324,7 +335,7 @@ All federal public websites must comply with existing laws and directives that a
 - Translating privacy policies into a standardized machine-readable format.
 
 {{< box >}}
-##### Required link text:
+##### Suggested link text:
 `Privacy Policy`
 
 ##### Required on:
@@ -435,7 +446,7 @@ For other required links, Federal agencies should determine the best location on
 A method for reporting evidence of waste, fraud, or abuse to the Inspector General, and linking to Inspector General audits and investigative reports.
 
 {{< box >}}
-##### Required link text:
+##### Suggested link text:
 `Office of the Inspector General`
 
 ##### Required on:
