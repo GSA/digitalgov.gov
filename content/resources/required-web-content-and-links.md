@@ -94,8 +94,8 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 
 ##### Required on:
 - Your principal website
-- Any known sub-agency site; secondary websites can link to their agency’s Accessibility page on the principle website
-- Your agency Intranet website
+- Any known sub-agency site; these secondary websites can link to the Accessibility page on their agency's principle website
+- Your agency Intranet website; can link to the Accessibility page on their agency's principle website
 
 ##### Required by:
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
