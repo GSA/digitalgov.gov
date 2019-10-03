@@ -5,7 +5,7 @@
 	.usa-navbar{
 		@include u-bg('primary-darker');
 		@include at-media('tablet') {
-			@include u-bg('white');
+			@include u-bg('transparent');
 		}
 	}
 	.usa-logo{
