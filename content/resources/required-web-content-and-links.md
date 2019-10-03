@@ -71,13 +71,14 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-policy >}}
 
 
-## Accessibility
+## Accessibility Page
 
 Federal agencies must: 
 
 1. develop an accessibility statement,
-2. add it as Accessibility page on the agency's main website, and 
-3. link to it on all secondary public-facing websites, and agency Intranet websites. 
+2. add it as "Accessibility" page on the agency's main website,  
+3. link to it on all secondary public-facing websites, and 
+4. link to it on the agency's Intranet website. 
 
 The accessibility statement should, at a minimum, include: 
 
@@ -105,14 +106,14 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 
 Section 508 of the Rehabilitation Act was enacted to eliminate barriers in information technology, open new opportunities for people with disabilities, and encourage the development of technologies that will help achieve these goals. <sup>28</sup> The law applies to all Federal departments and agencies when they develop, procure, maintain, or use electronic and information technology. <sup>29</sup> Under Section 508, departments and agencies must ensure that employees and members of the public with disabilities have access to information and data that is comparable to access available to others unless an undue burden would be imposed on the department or agency. 
 
-**A.** Agencies must comply with Section 508 and with the Electronic and Information Technology (EIT) Accessibility Standards. <sup>30</sup> Additionally, agencies must also adhere to their own Section 508 regulations and policies. Section 508 does not limit rights, remedies, or procedures otherwise available under other Federal laws, including Sections 501, 503, and 504 of the Rehabilitation Act and the Americans with Disabilities Act. <sup>31</sup>; <br />**B.** Section 508 technical and EIT Accessibility requirements must be included in the requirements document for the procurement of EIT products and services and planned for and built into the development, operations and management lifecycle of a Federal website or digital service. Any new functionality must be regularly tested to ensure it meets the EIT Accessibility Standards and is accessible for persons with disabilities.; <br />**C.** {{< highlight >}}Agencies must develop accessibility statements for their website{{< /highlight >}} and appoint a Section 508 Coordinator as required by OMB Memorandum, [Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act]( https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf). <sup>[32](https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)</sup>;
+**A.** Agencies must comply with Section 508 and with the Electronic and Information Technology (EIT) Accessibility Standards. <sup>30</sup> Additionally, agencies must also adhere to their own Section 508 regulations and policies. Section 508 does not limit rights, remedies, or procedures otherwise available under other Federal laws, including Sections 501, 503, and 504 of the Rehabilitation Act and the Americans with Disabilities Act. <sup>31</sup>; <br />**B.** Section 508 technical and EIT Accessibility requirements must be included in the requirements document for the procurement of EIT products and services and planned for and built into the development, operations and management lifecycle of a Federal website or digital service. Any new functionality must be regularly tested to ensure it meets the EIT Accessibility Standards and is accessible for persons with disabilities.; <br />**C.** {{< highlight >}}Agencies must develop accessibility statements for their website{{< /highlight >}} and appoint a Section 508 Coordinator as required by OMB Memorandum, [Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act]( https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf). <sup>[32](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) </sup>;
 
 *** 
 <p style="font-size: small;"><sup>28</sup> See 29 U.S.C. &sect; 794d <br />
 <sup>29</sup> Section 508 does not apply to national security systems, as that term is defined in section 11103(a) of title 40. 29 U.S.C. &sect; 794d(a)(5). <br />
 <sup>30</sup> 36 CFR Part 1194 <br />
 <sup>31</sup> 29 U.S.C. &sect; 794d(g) <br />
-<sup>32</sup> [https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf](https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013)</p>{{< /card-policy >}}
+<sup>32</sup> [https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013) </p>{{< /card-policy >}}
 
 {{< card-policy src="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" kicker="Policy" title="**OMB Memorandum:** Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act" pdf="(PDF, 212 kb, 13 pages, January 2013)" >}}**Increase Transparency**
 
@@ -121,7 +122,8 @@ Transparency of Federal programs, performance, and spending facilitates increase
 Transparency of agency Section 508 practices and application will be improved through two key actions: (1) providing the public with a standard feedback mechanism and statement available on agency websites, and (2) making [www.section508.gov](https://www.section508.gov) the one-stop information resource for agencies with respect to successful Section 508 management and implementation. Specifically, within 180 days of the release of this strategic plan: 
 
 **1.** the General Services Administration (GSA) will share with OMB the action plan for transforming www.section508.gov into the one-stop source of information and communication for successfully managing Section 508 implementation throughout the acquisition lifecycle. 
-**2.** {{< highlight >}}Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.{{< /highlight >}} Sample and best-in-practice accessibility statements can be found at [www.section508.gov](https://www.section508.gov).{{< /card-policy >}}
+**2.** {{< highlight >}}Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.{{< /highlight >}} Sample and best-in-practice accessibility statements can be found at [www.section508.gov](https://www.section508.gov). 
+{{< /card-policy >}}
 
 ## Budget and Performance Reports
 
@@ -192,7 +194,7 @@ In furtherance of making every agency's No FEAR Act data easily accessible, it w
 Finally, some commenters suggested that each agency provide EEOC with the hyperlink to its No FEAR data and that EEOC post the agency hyperlinks in one location on EEOC's public Web site. EEOC has decided to adopt this suggestion. Therefore, the final rule contains the requirement that an agency provide EEOC with the URL for the location of its No FEAR data and provide URL updates as necessary. Agencies can e-mail their URLs to EEOC at NoFEAR.URLS@eeoc.gov.{{< / card-policy >}}
 
 
-## External links 
+## External Links 
 
 Agencies must clearly identify external links from their websites. Agency websites must clearly state that the content of external links to non-federal agency websites is not endorsed by the federal government and is not subject to federal information quality, privacy, security, and related guidelines. 
 
