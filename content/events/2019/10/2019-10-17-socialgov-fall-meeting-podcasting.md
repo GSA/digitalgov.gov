@@ -46,17 +46,7 @@ SocialGov’s fall meeting is bringing together four top experts in federal podc
 - [State's 22.33 Podcast](https://eca.state.gov/2233) 
 - [VA's Borne the Battle Podcast](https://podcasts.apple.com/us/podcast/borne-the-battle/id1171416564) 
 
----
-
-_This meeting is the fall meeting for [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media community of practice. SocialGov has over 1,200 members from 90+ departments and agencies across the federal government._
-
-Our team will send a reminder email prior to the event that includes your link to join the video. 
-
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
-
-This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
-
-**Agenda:**
+### Agenda:
 
 * **8:30-9:00 a.m. – Networking**  
 * **9:00-9:15 a.m. – Intro: Why a podcast?**  
@@ -77,3 +67,13 @@ This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [compute
 * **11:00 - 11:15 a.m. – BREAK (conclusion of virtual portion of the event)**  
 * **11:15 a.m. - 12:00 p.m. – Breakout sessions/small group Q&A**  
   * Meet the podcasters!
+
+---
+
+_This meeting is the fall meeting for [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media community of practice. SocialGov has over 1,200 members from 90+ departments and agencies across the federal government._
+
+Our team will send a reminder email prior to the event that includes your link to join the video. 
+
+Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+
+This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
