@@ -58,22 +58,22 @@ This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [compute
 
 **Agenda:**
 
-**- 8:30-9:00 a.m. – Networking**  
-**- 9:00-9:15 a.m. – Intro: Why a podcast?**  
-**- 9:15-10:00 a.m. – Panel 1: Getting Started - Content**  
-    - Types of podcasts - interview panel discussion, narrative storytelling, hybrid
-    - Writing a script, development content, storytelling  
-    - Hosting  
-    - Podcast guest speakers  
-**- 10:00 - 10:15 a.m. – BREAK**  
-**- 10:15 - 11:00 a.m. – Panel 2: Getting Started - Technical**  
-    - Equipment: Show us your setup  
-    - Recording: Studio, in the field, over the phone  
-    - Editing/Producing  
-    - Theme music and transitions  
-    - Find a place to host your podcast  
-    - iTunes podcast directory  
-    - Marketing and growing your audience  
-**- 11:00 - 11:15 a.m. – BREAK (conclusion of virtual portion of the event)**  
-**- 11:15 a.m. - 12:00 p.m. – Breakout sessions/small group Q&A**  
-    - Meet the podcasters!
+  **- 8:30-9:00 a.m. – Networking**  
+  **- 9:00-9:15 a.m. – Intro: Why a podcast?**  
+  **- 9:15-10:00 a.m. – Panel 1: Getting Started - Content**  
+      - Types of podcasts - interview panel discussion, narrative storytelling, hybrid
+      - Writing a script, development content, storytelling  
+      - Hosting  
+      - Podcast guest speakers  
+  **- 10:00 - 10:15 a.m. – BREAK**  
+  **- 10:15 - 11:00 a.m. – Panel 2: Getting Started - Technical**  
+      - Equipment: Show us your setup  
+      - Recording: Studio, in the field, over the phone  
+      - Editing/Producing  
+      - Theme music and transitions  
+      - Find a place to host your podcast  
+      - iTunes podcast directory  
+      - Marketing and growing your audience  
+  **- 11:00 - 11:15 a.m. – BREAK (conclusion of virtual portion of the event)**  
+  **- 11:15 a.m. - 12:00 p.m. – Breakout sessions/small group Q&A**  
+      - Meet the podcasters!
