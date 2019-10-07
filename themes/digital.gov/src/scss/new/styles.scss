@@ -35,6 +35,7 @@
 // Import theme custom styles
 
 @import 'layout';
+@import 'gov-banner';
 @import 'paper';
 
 @import 'header';
@@ -43,16 +44,12 @@
 @import 'newsletter';
 @import 'stream';
 
-
 // Cards
 @import 'card';
 @import 'card-article';
 @import 'card-elsewhere';
 @import 'card-event';
 
-@import 'mobile-nav';
-@import 'search-bar';
-@import 'tag-line';
 @import 'article';
 @import 'posts';
 @import 'guides';
@@ -63,7 +60,6 @@
 
 // Lists of related pages
 @import 'list-collection';
-
 
 @import 'feedback';
 @import 'share-tools';
@@ -79,7 +75,6 @@
 @import 'notice-bar';
 
 @import 'related_promos';
-@import 'taxonomy';
 @import 'video';
 
 // Homepage Styles

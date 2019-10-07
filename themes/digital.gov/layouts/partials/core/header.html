@@ -1,30 +1,71 @@
-<a class="usa-skipnav" href="#main-content">Skip to main content</a>
 <div class="usa-overlay"></div>
-<header class="usa-header usa-header--basic">
-  <div class="usa-nav-container">
-    <div class="usa-navbar">
-      <div class="usa-logo" id="basic-logo">
-        <em class="usa-logo__text">
-          <a aria-label="Home" href="{{- "" | absURL -}}" title="Digital.gov Home">
-            <img class="logo" src="{{- "img/digitalgov-logo-black.svg" | absURL -}}" alt="Digital.gov">
-          </a>
-        </em>
-      </div>
-      <button class="usa-menu-btn">Menu</button>
+<header class="usa-header usa-header--extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text">
+        <a href="{{- "/index.html" | absURL -}}" title="{{- .Site.Title }} Home" aria-label="{{- .Site.Title }} Home">
+          <img class="logo-white" src="{{- "img/digit-100-white.svg" | absURL -}}" alt="{{- .Site.Title -}} Logo" />
+          <img class="logo-black" src="{{- "img/digit-100-black.svg" | absURL -}}" alt="{{- .Site.Title -}} Logo" />
+          <span>{{- .Site.Title -}}</span>
+        </a>
+      </em>
+      <p class="sub-head display-none">{{- .Site.Params.description -}}</p>
+      <!-- <p class="agency_refer"><img src="{{- "img/gsa-logo-w50.png" | absURL -}}" alt="GSA Logo" /><span>{{- .Site.Params.agency_refer -}}</span></p> -->
+
     </div>
 
-    <nav aria-label="Primary navigation" class="usa-nav">
-      <button class="usa-nav__close">
-        <img src="/assets/img/close.svg" alt="close">
-      </button>
-      <ul class="usa-nav__primary usa-accordion">
-        <li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="javascript:void(0)"><span>Simple link</span></a>
-        </li>
-        <li class="usa-nav__primary-item">
-          <a class="usa-nav__link" href="javascript:void(0)"><span>Simple link</span></a>
-        </li>
-      </ul>
-    </nav>
+    <button class="usa-menu-btn"><i class="fas fa-bars"></i> Menu</button>
   </div>
+  <nav role="navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button class="usa-nav__close">
+        <img src="{{ "/lib/uswds/img/close.svg" | relURL }}" alt="close">
+      </button>
+
+      {{- $currentNode := . -}}
+      {{- $menuClasses := "usa-nav__primary-item" -}}
+      <ul class="usa-nav__primary usa-accordion">
+        {{- range .Site.Menus.primary -}}
+          <li class="usa-nav__primary-item {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} usa-current{{ end }}">
+            <a class="usa-nav__link" href="{{- .URL -}}"><span>{{- .Name -}}</span></a>
+          </li>
+        {{- end -}}
+      </ul><!-- .nav -->
+
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item">
+            <a href="{{- "/about/" | absURL -}}">About</a>
+          </li>
+          <li class="usa-nav__secondary-item">
+            <a href="{{- "/subscribe/" | absURL -}}">Subscribe</a>
+          </li>
+          <li class="usa-nav__secondary-item">
+            <a href="{{- "/contribute/" | absURL -}}">Write for us</a>
+          </li>
+        </ul>
+
+
+        <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get" class="usa-search usa-search--small">
+          <input name="utf8" type="hidden" value="&#x2713;" />
+          <input id="affiliate" name="affiliate" type="hidden" value="digitalgov" />
+
+          <div role="search">
+            <label class="usa-sr-only" for="query">Search small</label>
+            <input class="usa-input" id="query" type="search" name="query" placeholder="Search">
+            <button class="usa-button" name="commit" type="submit"><span class="usa-sr-only">Search</span></button>
+          </div>
+        </form>
+
+
+        <div class="social-icons display-none">
+          <a rel="alternate" href="https://twitter.com/digital_gov"><i class="fab fa-twitter"></i></a>
+          <a rel="alternate" href="https://www.facebook.com/digitalgov/"><i class="fab fa-facebook"></i></a>
+          <a rel="alternate" href="https://youtube.com/digitalgov"><i class="fab fa-youtube"></i></a>
+          {{ with .OutputFormats.Get "rss" -}}{{- printf `<a rel="%s" type="%s" href="%s" title="%s" ><i class="fas fa-rss-square"></i></a>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML -}}{{- end }}
+        </div>
+
+      </div>
+    </div>
+  </nav>
 </header>

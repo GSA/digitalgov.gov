@@ -1,0 +1,21 @@
+.gov-banner{
+  @include u-bg('primary-darkest');
+  .usa-banner__header-text{
+    @include u-text('white');
+  }
+  .usa-banner__content{
+    @include u-text('white');
+  }
+  .usa-banner__header-action,
+  .usa-banner__button{
+    @include u-text('base-light');
+    &:hover{
+      @include u-text('base-lighter');
+    }
+  }
+
+  .usa-banner__button[aria-expanded=true]:after{
+    @include u-bg('primary-darker');
+    background-image: url(../lib/uswds/img/close-white-alt.svg),linear-gradient(transparent,transparent);
+  }
+}
