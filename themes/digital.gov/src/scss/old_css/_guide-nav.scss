@@ -56,6 +56,15 @@
 			&:last-child{
 				@include u-border-bottom(0);
 			}
+			a{
+				@include u-text('black');
+			}
+		}
+		li.active{
+			@include u-border-right('05', 'solid', 'blue-60v');
+			a{
+				@include u-text('blue-60v');
+			}
 		}
 		li.ex{
 			@include u-display('none');
