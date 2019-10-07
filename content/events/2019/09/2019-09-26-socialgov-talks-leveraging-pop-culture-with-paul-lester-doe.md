@@ -13,10 +13,9 @@ event_organizer: DigitalGov University
 host: Socialgov
 registration_url: https://www.eventbrite.com/e/socialgov-talks-leveraging-pop-culture-with-paul-lester-of-the-doe-registration-66348428937
 
+youtube_id: hC9OJjtMgnE
+
 ---
-
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4167517&CustomerID=321)_
-
 {{< img src="event-leveraging-pop-culture" >}}
 
 Join Paul Lester, Digital Content Specialist for the [Department of Energy](https://www.energy.gov/) (DOE), to discuss how DOE leveraged the popular TV show, “_Stranger Things_” as a conversation starter about the agency’s mission and work using digital media (social media, blog, podcast, etc.). Paul will also discuss how he got management buy-in to use a pop culture phenomenon to promote the agency’s work.

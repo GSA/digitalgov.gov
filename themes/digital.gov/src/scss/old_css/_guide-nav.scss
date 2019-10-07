@@ -47,6 +47,7 @@
 		@include at-media('desktop') {
 			@include u-padding(2);
 		}
+		
 		li{
 			@include u-padding-y(1);
 			@include u-font('sans', 'md');
@@ -60,6 +61,7 @@
 				@include u-text('black');
 			}
 		}
+
 		li.active{
 			@include u-border-right('05', 'solid', 'blue-60v');
 			a{

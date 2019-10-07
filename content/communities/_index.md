@@ -20,6 +20,9 @@ There are more than 10,000 people participating across government in 22 areas. O
 
 ### Our Communities
 
+**[A/B Testing ]({{< link "a-b-testing.md" >}})**: Using analytics-driven A/B testing practices to validate whether suggested modifications to a digital touchpoint provide optimal benefits for the business and its users.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "a-b-testing.md" >}})
+
 **[Accessibility]({{< link "accessibility.md" >}})**: The IT Accessibility Community supports people in government who working to improve accessibility of information technology.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "accessibility.md" >}})
 
@@ -74,6 +77,9 @@ There are more than 10,000 people participating across government in 22 areas. O
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)
 
 **[User Experience]({{< link "user-experience.md" >}})**: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "user-experience.md" >}})
+
+**[U.S. Web Design System]({{< link "uswds.md" >}})**: An active open source community of government engineers, content specialists, and designers.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "user-experience.md" >}})
 
 **[Video Production Pros]({{< link "video.md" >}})** We’re a group of storytellers, artists, creatives, directors, DP’s, producers, editors and more. Sharing leading trends, best practices, latest projects, feedback, techniques, and strategies that help our respective agencies connect with people through the power of video.<br/>
