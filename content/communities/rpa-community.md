@@ -22,12 +22,9 @@ The CoP will be chaired by Ed Burrows of the GSA Office of the Chief Financial O
 
 **Your community managers**
 
-- Edward Burrows — [edward.burrows@gsa.gov](mailto:edward.burrows@gsa.gov)
-- Brenden Cuyler — [brenden.cuyler@gsa.gov](mailto:brenden.cuyler@gsa.gov)
-- Brian Mooers — [brian.mooers@gsa.gov](mailto:brian.mooers@gsa.gov)
-- Nick Surkamp — [nick.surkamp@gsa.gov](mailto:nick.surkamp@gsa.gov)
-
-The executive sponsors of the RPA CoP are GSA Chief Financial Officer Gerard Badorrek and GSA Technology Transformation Services (TTS) Director Anil Cheriyan.
+- Community of Practice Coordinator, Jim Geoghegan — [james.geoghegan@gsa.gov ](mailto:james.geoghegan@gsa.gov )
+- GSA Chief Financial Officer, Executive Sponser and Acting Community of Practice Chair - Gerard Badorrek 
+- GSA Technology Transformation Services (TTS) Director, and Executive Sponser - Anil Cheriyan 
 
 
 ## What We Do
