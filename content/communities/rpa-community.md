@@ -22,9 +22,9 @@ The CoP will be chaired by Ed Burrows of the GSA Office of the Chief Financial O
 
 **Your community managers**
 
-- Jim Geoghegan, Community of Practice Coordinator — [james.geoghegan@gsa.gov ](mailto:james.geoghegan@gsa.gov )
-- Gerard Badorrek - GSA Chief Financial Officer, Executive Sponser and Acting Community of Practice Chair
-- Anil Cheriyan - GSA Technology Transformation Services (TTS) Director, and Executive Sponser
+- Jim Geoghegan — Community of Practice Coordinator, [james.geoghegan@gsa.gov ](mailto:james.geoghegan@gsa.gov )
+- Gerard Badorrek — GSA Chief Financial Officer, Executive Sponser and Acting Community of Practice Chair
+- Anil Cheriyan — GSA Technology Transformation Services (TTS) Director, and Executive Sponser
 
 
 ## What We Do
