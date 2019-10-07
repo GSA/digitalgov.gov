@@ -18,8 +18,6 @@ To join, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:Fed
 
 ## Who We Are
 
-The CoP will be chaired by Ed Burrows of the GSA Office of the Chief Financial Officer (CFO).
-
 **Your community managers**
 
 - Jim Geoghegan — Community of Practice Coordinator, [james.geoghegan@gsa.gov ](mailto:james.geoghegan@gsa.gov )
