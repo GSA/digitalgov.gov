@@ -17,29 +17,29 @@ zoom:
 
 ---
 
+
 _[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4200787&CustomerID=321)_
 
-Join Dan Williams, the U.S. Web Design System (USWDS) product lead, as he walks through the design system and answers your questions.
+Join Dan Williams, [the U.S. Web Design System](https://designsystem.digital.gov) (USWDS) product lead, as he walks through the design system and answers your questions.
 
 This month we’re going to take a step back and answer the question: _"Just what is a design system?"_ 
 
-And to answer that question we’ll talk about how a design system like USWDS help teams design and build dynamic and effective government websites. So if you or someone on your team is interested in design system basics, join us to discuss The Rules of Play: Creativity and Constraint in the U.S. Web Design System.
+And to answer that question we’ll talk about how a design system like USWDS help teams design and build dynamic and effective government websites. So if you or someone on your team is interested in design system basics, join us to discuss _The Rules of Play: Creativity and Constraint in the U.S. Web Design System_.
 
-This event is part of a monthly series that generally takes place on the third Thursday of each month. The video will be available on Digital.gov shortly after the event.
+This event is part of a monthly series that takes place on the third Thursday of each month. The video will be available on Digital.gov shortly after the event.
 
-USWDS is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices. 
+[USWDS](https://designsystem.digital.gov) is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices. 
 
-- [Home Page](https://designsystem.digital.gov/) for USWDS 
-- [GitHub](https://github.com/uswds/uswds/issues) 
-- [Slack](https://chat.18f.gov/) 
-- [Twitter](https://twitter.com/uswds?lang=en) 
-- Join the [USWDS ListServ](mailto:uswds-subscribe-request@listserv.gsa.gov)
+- [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [Contribute GitHub](https://github.com/uswds/uswds/issues) 
+- [Join our community](https://digital.gov/communities/uswds/) 
+- [Follow @uswds on Twitter](https://twitter.com/uswds?lang=en) 
 
 ---
 
-_This talk is hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov._ 
+_This talk is hosted by the [U.S. Web Design System(https://v2.designsystem.digital.gov/) and Digital.gov._ 
 
-Our team will send a reminder email before the event that includes your link to join the video. 
+Our team will send a reminder email before the event that includes your link to join the video. 
 
 _This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
 
