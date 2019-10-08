@@ -40,7 +40,7 @@ This event is part of a monthly series that takes place on the third Thursday of
 
 ---
 
-_This talk is hosted by the [U.S. Web Design System(https://v2.designsystem.digital.gov/) and Digital.gov._ 
+_This talk is hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov._ 
 
 Our team will send a reminder email before the event that includes your link to join the video. 
 
