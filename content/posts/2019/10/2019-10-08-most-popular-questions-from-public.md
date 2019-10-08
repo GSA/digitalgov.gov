@@ -6,8 +6,8 @@ slug: most-popular-questions-from-public
 date: 2019-10-08 12:00:00 -0500
 kicker: "Contact Centers"
 title: "The Most Popular Questions from the Public "
-deck: "The team at USAGov manages our government-wide contact center and answers questions from the public via phone and chat in both English and Spanish. They analyzed more than 13,000 chats and phone calls and tagged these inquiries by popular topic area. Here’s what they learned"
-summary: "The team at USAGov manages our government-wide contact center and answers questions from the public via phone and chat in both English and Spanish. They analyzed more than 13,000 chats and phone calls and tagged these inquiries by popular topic area. Here’s what they learned"
+deck: "The team at USAGov analyzed more than 13,000 chats and phone calls from the public, in both English and Spanish, and then tagged these inquiries by popular topic area. These are the top questions our government-wide contact center received over the last four months."
+summary: "The team at USAGov analyzed more than 13,000 chats and phone calls from the public, in both English and Spanish, and then tagged these inquiries by popular topic area. These are the top questions our government-wide contact center received over the last four months."
 
 # originally published at the following URL
 source_url: "https://blog.usa.gov/usagov-contact-center-five-most-popular-questions-from-may-to-july-2019"
