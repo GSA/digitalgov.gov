@@ -15,7 +15,6 @@ The FedRPA CoP is open to government employees only.
 
 To join, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)
 
-
 ## Who We Are
 
 **Your community managers**
@@ -23,7 +22,6 @@ To join, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:Fed
 - Jim Geoghegan — Community of Practice Coordinator, [james.geoghegan@gsa.gov ](mailto:james.geoghegan@gsa.gov )
 - Gerard Badorrek — GSA Chief Financial Officer, Executive Sponser and Acting Community of Practice Chair
 - Anil Cheriyan — GSA Technology Transformation Services (TTS) Director, and Executive Sponser
-
 
 ## What We Do
 
