@@ -31,6 +31,7 @@
     "gulp-clean-css": "^4.2.0",
     "gulp-combine-mq": "^0.4.0",
     "gulp-concat": "^2.6.1",
+    "gulp-git": "^2.9.0",
     "gulp-gzip": "^1.4.2",
     "gulp-hash": "^4.2.2",
     "gulp-postcss": "^8.0.0",

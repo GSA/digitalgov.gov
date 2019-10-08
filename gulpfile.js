@@ -5,7 +5,7 @@ require('./config/gulp/uswds');
 
 
 // Image Processor
-gulp.task("process-img", gulp.series('cleanup'));
+gulp.task("process-img", gulp.series('git-push'));
 
 // USWDS
 gulp.task('watch-sass', function () {

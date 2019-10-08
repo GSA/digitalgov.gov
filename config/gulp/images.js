@@ -28,7 +28,8 @@ var gulp          = require("gulp"),
     dotenv        = require('dotenv').config(),
     s3config      = JSON.parse(fs.readFileSync('.env')),
     s3            = require('gulp-s3-upload')(s3config),
-    cp            = require('child_process');
+    cp            = require('child_process'),
+    git           = require('gulp-git');
 
 
 gulp.task("file-tidy", function (done) {
@@ -403,4 +404,27 @@ gulp.task("done", gulp.series('proxy', function (done) {
 
 gulp.task("cleanup", gulp.series('done', function (done) {
   return del(['content/images/_working/**']);
+}));
+
+
+// ==============================
+
+
+gulp.task("git-add", gulp.series('cleanup', function (done) {
+  console.log('adding...');
+  return gulp.src('data/images/*')
+    .pipe(git.add());
+}));
+
+gulp.task("git-commit", gulp.series('git-add', function (done) {
+  console.log('commiting');
+  return gulp.src('data/images/*')
+    .pipe(git.commit('new images'));
+}));
+
+gulp.task("git-push", gulp.series('git-commit', function (done) {
+  console.log('pushing...');
+  git.push('origin', function (err) {
+    if (err) throw err;
+  });
 }));
