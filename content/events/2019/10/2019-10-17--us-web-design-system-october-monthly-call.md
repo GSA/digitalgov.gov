@@ -1,7 +1,8 @@
 ---
 slug: -us-web-design-system-october-monthly-call
-title: ' U&#46;S&#46; Web Design System&#58; October Monthly Call'
-summary: 'Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, as he walks through the design system and answers your questions&#46; '
+kicker: "USWDS"
+title: "The Rules of Play: Creativity and Constraint in the U.S. Web Design System"
+summary: "Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, in our monthly call as he walks through the design system and answers your questions&#46;"
 featured_image: 
   uid: 
   alt: ''
@@ -18,7 +19,11 @@ zoom:
 
 _[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4200787&CustomerID=321)_
 
-Please join Dan Williams, U.S. Web Design System (USWDS) product lead, for an overview of the development process for a USWDS component. This month we’re going to take a step back and answer the question: just what is a design system? And to answer that question we’ll talk about how a design system like USWDS help teams design and build dynamic and effective government websites. So if you or someone on your team is interested in design system basics, join Dan Williams, USWDS project lead, to discuss The Rules of Play: Creativity and Constraint in the U.S. Web Design System.
+Join Dan Williams, the U.S. Web Design System (USWDS) product lead, as he walks through the design system and answers your questions.
+
+This month we’re going to take a step back and answer the question: _"Just what is a design system?"_ 
+
+And to answer that question we’ll talk about how a design system like USWDS help teams design and build dynamic and effective government websites. So if you or someone on your team is interested in design system basics, join us to discuss The Rules of Play: Creativity and Constraint in the U.S. Web Design System.
 
 This event is part of a monthly series that generally takes place on the third Thursday of each month. The video will be available on Digital.gov shortly after the event.
 
