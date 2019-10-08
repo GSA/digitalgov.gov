@@ -18,7 +18,7 @@ youtube_id: hC9OJjtMgnE
 ---
 {{< img src="event-leveraging-pop-culture" >}}
 
-Join Paul Lester, Digital Content Specialist for the [Department of Energy](https://www.energy.gov/) (DOE), to discuss how DOE leveraged the popular TV show, “_Stranger Things_” as a conversation starter about the agency’s mission and work using digital media (social media, blog, podcast, etc.). Paul will also discuss how he got management buy-in to use a pop culture phenomenon to promote the agency’s work.
+Join Paul Lester, Digital Content Specialist for the [Department of Energy](https://www.energy.gov/) (DOE), to discuss how DOE leveraged the popular TV show, _Stranger Things_ as a conversation starter about the agency’s mission and work using digital media (social media, blog, podcast, etc.). Paul will also discuss how he got management buy-in to use a pop culture phenomenon to promote the agency’s work.
 
 **A list of the blog posts we'll be talking about:**
 
