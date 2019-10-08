@@ -22,6 +22,10 @@ jobs:
           key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
           paths:
             - node_modules
-      # - run:
-          # name: Process images
-          # command: gulp process-img
+      - run:
+          name: Process images
+          commands:
+            - git config --global -l
+            - git config --global user.email jeremyzilar@github.com
+            - git config --global user.name jeremyzilar
+            - gulp process-img
