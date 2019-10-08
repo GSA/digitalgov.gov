@@ -15,20 +15,13 @@ The FedRPA CoP is open to government employees only.
 
 To join, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)
 
-
 ## Who We Are
-
-The CoP will be chaired by Ed Burrows of the GSA Office of the Chief Financial Officer (CFO).
 
 **Your community managers**
 
-- Edward Burrows — [edward.burrows@gsa.gov](mailto:edward.burrows@gsa.gov)
-- Brenden Cuyler — [brenden.cuyler@gsa.gov](mailto:brenden.cuyler@gsa.gov)
-- Brian Mooers — [brian.mooers@gsa.gov](mailto:brian.mooers@gsa.gov)
-- Nick Surkamp — [nick.surkamp@gsa.gov](mailto:nick.surkamp@gsa.gov)
-
-The executive sponsors of the RPA CoP are GSA Chief Financial Officer Gerard Badorrek and GSA Technology Transformation Services (TTS) Director Anil Cheriyan.
-
+- Jim Geoghegan — Community of Practice Coordinator, [james.geoghegan@gsa.gov ](mailto:james.geoghegan@gsa.gov )
+- Gerard Badorrek — GSA Chief Financial Officer, Executive Sponser and Acting Community of Practice Chair
+- Anil Cheriyan — GSA Technology Transformation Services (TTS) Director, and Executive Sponser
 
 ## What We Do
 
