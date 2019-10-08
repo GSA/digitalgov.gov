@@ -4,7 +4,7 @@ kicker: "USWDS"
 title: "The Rules of Play: Creativity and Constraint in the U.S. Web Design System"
 summary: "Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, in our monthly call as he walks through the design system and answers your questions&#46;"
 featured_image: 
-  uid: 
+  uid: uswds-2-illio-feature-image
   alt: ''
 event_type: 
   - online
@@ -12,7 +12,7 @@ date: 2019-10-17 14:30:00 -0500
 end_date: 2019-10-17 15:30:00 -0500
 event_organizer: DigitalGov University
 host: USWDS
-registration_url: https://www.eventbrite.com/myevent?eid=75886136477
+registration_url: https://www.eventbrite.com/e/us-web-design-system-october-monthly-call-registration-75886136477
 zoom: 
 
 ---
@@ -34,6 +34,8 @@ This event is part of a monthly series that takes place on the third Thursday of
 - [Contribute GitHub](https://github.com/uswds/uswds/issues) 
 - [Join our community](https://digital.gov/communities/uswds/) 
 - [Follow @uswds on Twitter](https://twitter.com/uswds?lang=en) 
+
+{{< img src="uswds-2-illio-feature-image" >}}
 
 ---
 
