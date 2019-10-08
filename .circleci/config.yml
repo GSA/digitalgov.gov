@@ -6,22 +6,22 @@ jobs:
 
     steps:
       - checkout
-      # - restore_cache:
-      #     keys:
-      #       - v1-npm-cache-{{ .Branch }}-{{ .Revision }}
+      - restore_cache:
+          keys:
+            - v1-npm-cache-{{ .Branch }}-{{ .Revision }}
       # - run:
       #     name: install gulp
       #     command: sudo npm install gulp -g
-      # - run:
-      #     name: Install Node dependencies
-      #     command: npm install
-      # - run:
-      #     name: Node version
-      #     command: node -v
-      # - save_cache:
-      #     key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
-      #     paths:
-      #       - node_modules
+      - run:
+          name: Install Node dependencies
+          command: npm install
+      - run:
+          name: Node version
+          command: node -v
+      - save_cache:
+          key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - node_modules
       # - run:
           # name: Process images
           # command: gulp process-img
