@@ -402,7 +402,7 @@ gulp.task("done", gulp.series('proxy', function (done) {
     .pipe(gulp.dest("content/images/uploaded/"));
 }));
 
-gulp.task("cleanup", gulp.series('done', function (done) {
+gulp.task("cleanup", gulp.series('proxy', function (done) {
   return del(['content/images/_working/**']);
 }));
 
