@@ -335,22 +335,7 @@ gulp.task("img-variants", gulp.series('clean-inbox', function (done) {
   .pipe(gulp.dest("content/images/_working/processed/"));
 }));
 
-gulp.task("upload", gulp.series('img-variants', function (done) {
-  return gulp.src("content/images/_working/processed/**/*")
-    .pipe(s3({
-      Bucket: 'digitalgov',   //  Required
-      ACL:    'public-read'   //  Needs to be user-defined
-    }, {
-      // S3 Constructor Options, ie:
-      maxRetries: 5
-    }))
-
-    .pipe(vinylPaths(del))
-    .pipe(gulp.dest("content/images/_working/uploaded/"));
-}));
-
-
-gulp.task("proxy", gulp.series('upload', function (done) {
+gulp.task("proxy", gulp.series('img-variants', function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
   return gulp.src("content/images/_working/originals/*.{png,jpg}")
@@ -395,6 +380,20 @@ gulp.task("proxy", gulp.series('upload', function (done) {
       silent: true,
     }))
     .pipe(gulp.dest("static/img/proxy/"));
+}));
+
+gulp.task("upload", gulp.series('proxy', function (done) {
+  return gulp.src("content/images/_working/processed/**/*")
+    .pipe(s3({
+      Bucket: 'digitalgov',   //  Required
+      ACL:    'public-read'   //  Needs to be user-defined
+    }, {
+      // S3 Constructor Options, ie:
+      maxRetries: 5
+    }))
+
+    .pipe(vinylPaths(del))
+    .pipe(gulp.dest("content/images/_working/uploaded/"));
 }));
 
 gulp.task("done", gulp.series('proxy', function (done) {
