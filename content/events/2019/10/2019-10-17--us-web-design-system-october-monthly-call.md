@@ -7,7 +7,7 @@ featured_image:
   uid: uswds-2-illio-feature-image
   alt: ''
 event_type: 
-  - online
+  - Zoom
 date: 2019-10-17 14:30:00 -0500
 end_date: 2019-10-17 15:30:00 -0500
 event_organizer: DigitalGov University
@@ -16,7 +16,6 @@ registration_url: https://www.eventbrite.com/e/us-web-design-system-october-mont
 zoom: 
 
 ---
-
 
 _[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4200787&CustomerID=321)_
 
@@ -35,8 +34,7 @@ This event is part of a monthly series that takes place on the third Thursday of
 - [The U.S. Web Design System](https://designsystem.digital.gov/)
 - [Contribute GitHub](https://github.com/uswds/uswds/issues) 
 - [Join our community](https://digital.gov/communities/uswds/) 
-- [Follow @uswds on Twitter](https://twitter.com/uswds?lang=en) 
-
+- [Follow @uswds on Twitter](https://twitter.com/uswds) 
 
 ---
 
