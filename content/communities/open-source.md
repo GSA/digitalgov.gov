@@ -13,7 +13,7 @@ We are a community of federal government developers, managers, and individuals i
 
 ## Join
 
-Send an email to [**code@listserv.gsa.gov**](mailto:code@listserv.gsa.gov) with an empty subject line and email body.
+To join, send an email to **[listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov)** with no subject line and "subscribe code" in the body.
 
 ## What we do
 
