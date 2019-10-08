@@ -20,6 +20,8 @@ zoom:
 
 _[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4200787&CustomerID=321)_
 
+{{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}
+
 Join Dan Williams, [the U.S. Web Design System](https://designsystem.digital.gov) (USWDS) product lead, as he walks through the design system and answers your questions.
 
 This month we’re going to take a step back and answer the question: _"Just what is a design system?"_ 
@@ -35,7 +37,6 @@ This event is part of a monthly series that takes place on the third Thursday of
 - [Join our community](https://digital.gov/communities/uswds/) 
 - [Follow @uswds on Twitter](https://twitter.com/uswds?lang=en) 
 
-{{< img src="uswds-2-illio-feature-image" >}}
 
 ---
 
