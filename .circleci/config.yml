@@ -33,12 +33,24 @@ jobs:
             node -v
 
       - run:
-          name: Process Images
+          name: Image Prep
+          command: gulp img-prep
+
+      - run:
+          name: Image Process
+          command: gulp img-process
+
+      - run:
+          name: Image Upload
+          command: gulp img-process
+
+      - run:
+          name: Image Commit
           command: |
             git config --global -l
             git config --global user.email "jeremyzilar@github.com"
             git config --global user.name "jeremyzilar"
-            gulp process-img
+            gulp img-commit
 
       - save_cache:
           key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}

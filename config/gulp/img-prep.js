@@ -1,38 +1,12 @@
-var gulp          = require("gulp"),
-    path          = require('path'),
-    gutil         = require('gulp-util'),
-    watch         = require('gulp-watch'),
-    vinylPaths    = require('vinyl-paths'),
-    replace       = require("gulp-replace-name"),
-    sass          = require("gulp-sass"),
-    autoprefixer  = require("autoprefixer"),
-    hash          = require("gulp-hash"),
-    del           = require("del"),
-    concat        = require('gulp-concat'),
-    cleanCSS      = require('gulp-clean-css'),
-    cssnano       = require('cssnano'),
-    sourcemaps    = require('gulp-sourcemaps'),
-    postcss       = require('gulp-postcss'),
-    mqpacker      = require('css-mqpacker'),
-    combineMq     = require('gulp-combine-mq'),
-    strip         = require('gulp-strip-css-comments'),
-    bless         = require('gulp-bless'),
-    gzip          = require('gulp-gzip'),
-    size          = require('gulp-size'),
-    changeCase    = require('change-case'),
-    responsive    = require('gulp-responsive'),
-    tap           = require('gulp-tap'),
-    rename        = require("gulp-rename"),
-    fs            = require('graceful-fs'),
-    sizeOf        = require('image-size'),
-    dotenv        = require('dotenv').config(),
-    s3config      = {
-                    accessKeyId: process.env.AWS_ACCESSKEY,
-                    secretAccessKey: process.env.AWS_SECRET
-                  },
-    s3            = require('gulp-s3-upload')(s3config),
-    cp            = require('child_process'),
-    git           = require('gulp-git');
+var gulp          = require("gulp");
+var replace       = require("gulp-replace-name");
+var rename        = require("gulp-rename");
+var changeCase    = require('change-case');
+var del           = require("del");
+var tap           = require('gulp-tap');
+var sizeOf        = require('image-size');
+var fs            = require('graceful-fs');
+
 
 
 // Clean up the filename before processing
