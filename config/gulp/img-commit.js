@@ -4,13 +4,13 @@ var git           = require('gulp-git');
 
 gulp.task("git-add", gulp.series(function (done) {
   console.log('adding');
-  return gulp.src('data/*')
+  return gulp.src('./*')
     .pipe(git.add());
 }));
 
 gulp.task("git-commit", gulp.series('git-add', function (done) {
   console.log('commiting');
-  return gulp.src('data/*')
+  return gulp.src('./*')
     .pipe(git.commit('adding in images', {args: '-a'}));
 }));
 
