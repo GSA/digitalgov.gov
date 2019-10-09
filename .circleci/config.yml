@@ -2,13 +2,30 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/node:10.11.0-browsers
+      - image: circleci/node:10.16.3-browsers
 
     steps:
       - checkout
+
       - restore_cache:
           keys:
-            - v1-npm-cache-{{ .Branch }}-{{ .Revision }}
+            - dg-cache-v1-{{ .Branch }}-{{ .Revision }}
+            - dg-cache-v1-{{ .Branch }}
+            - dg-cache-v1
+
+      - run:
+          name: Install NPM Dependencies
+          command: npm install
+
+      - run:
+          name: Install Gulp
+          command: npm install gulp -g
+
+      - save_cache:
+          key: dg-cache-v1-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - node_modules
+
       - run:
           name: NPM Install
           command: |
