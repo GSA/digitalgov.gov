@@ -9,10 +9,13 @@ https://digital.gov
 
 Want to learn more about how we work? [Check out our Wiki page »](https://github.com/GSA/digitalgov.gov/wiki)
 
+
 ---
 
 
-## Installtion and Development 
+[![CircleCI](https://circleci.com/gh/GSA/digitalgov.gov/tree/master.svg?style=svg)](https://circleci.com/gh/GSA/digitalgov.gov/tree/master)
+
+## Development Guide
 
 [Digital.gov](https://digital.gov/) is built with [Hugo](https://gohugo.io/) and hosted by [Federalist](https://federalist.18f.gov/) and [Cloud.gov](https://cloud.gov/).
 

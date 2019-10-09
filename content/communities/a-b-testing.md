@@ -11,7 +11,7 @@ We believe A/B testing is the core to a continuous optimization strategy for del
 
 ## How to join
 
-The A/B Testing CoP is open to federal government employees only. To join, send an email from your official government email to: [abtest-subscribe-request@listserv.gsa.gov](mailto:abtest-subscribe-request@listserv.gsa.gov)
+To join, send an email to: [abtest-subscribe-request@listserv.gsa.gov](mailto:abtest-subscribe-request@listserv.gsa.gov)
 
 ## What we do
 
