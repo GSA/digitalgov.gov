@@ -17,11 +17,12 @@ aliases:
 
 ## Accessibility
 
+* [Find Your Agency's 508 Program Manager](https://section508.gov/tools/coordinator-listing) 
+* [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw)
 * [Introducing Accessibility for Teams](https://digital.gov/2018/07/10/introducing-accessibility-for-teams/)
     - [Accessibility for Teams](https://accessibility.digital.gov/)
-* [Accessibility Resource List]({{< ref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
-* [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< ref "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
-* [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw)
+* [Accessibility Resource List]({{< link "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
+* [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< link "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
 * [Mythbuster’s Guide to Accessibility](https://medium.com/the-u-s-digital-service/mythbusters-guide-to-accessibility-92ccd88655c6#.lj5vo2vff)
 
 ## Challenges and Prizes
@@ -128,7 +129,7 @@ aliases:
 * [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit]({{< ref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}})
 * [Barriers and Solutions to Implementing Social Media in Government](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf) (PDF, 55 kb, 4 pages, December 2008)
 
-## Terms of Services Agreements
+## Terms of Service Agreements
 
 * [Federal Compatible Terms of Service]({{< ref "/guide/terms-of-service/_index.md" >}})
     * [Negotiated Terms of Service Agreements]({{< ref "negotiated-terms-of-service-agreements.md" >}})

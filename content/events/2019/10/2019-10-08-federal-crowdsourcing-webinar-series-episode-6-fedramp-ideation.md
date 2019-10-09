@@ -11,6 +11,7 @@ date: 2019-10-08 14:30:00 -0500
 end_date: 2019-10-08 15:30:00 -0500
 event_organizer: DigitalGov University
 host: Challenge.gov
+draft: true
 registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-series-6-registration-66229112057
 
 ---
