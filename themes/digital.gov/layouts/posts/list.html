@@ -6,6 +6,7 @@
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <header class="header-{{- .Type -}}">
+
           {{/* Page Title */}}
           <h1>{{- .Title | markdownify -}} </h1>
 
@@ -15,7 +16,6 @@
           {{- end -}}
 
           <div class="join-buttons">
-            <a href="http://connect.digitalgov.gov/subscribe"><img src="{{ "img/love-letter.png" | absURL }}" alt="Newsletter"> Sign-up for our newsletter</a>
             <a href="{{- "/join" | absURL -}}">Write for us</a>
             <a href="{{- "/join" | absURL -}}">Host an event</a>
           </div>
