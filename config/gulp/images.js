@@ -82,7 +82,7 @@ gulp.task("write-data-file", gulp.series('clean-inbox', function (done) {
   return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}")
     // write the .yml file for this image
     .pipe(tap(function (file) {
-      var uid = file.path.match('/([^\/]+)(?=\.\w+$)/g'); // gets the slug/filename from the path
+      var uid = file.path.match(/([^\/]+)(?=\.\w+$)/g); // gets the slug/filename from the path
       var format = file.path.split('.').pop();
       var dimensions = sizeOf(file.path);
       var img_data = [
