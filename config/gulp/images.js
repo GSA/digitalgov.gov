@@ -362,26 +362,6 @@ gulp.task("proxy", gulp.series('img-variants', function (done) {
       errorOnEnlargement: false,
       silent: true,
     }))
-    .pipe(responsive({
-      '*': {
-        rename: {
-          suffix: '',
-          extname: '.jpg',
-        },
-        grayscale: true,
-        quality: 1,
-        flatten: true,
-        blur: true,
-      },
-    }, {
-      // Global configuration for all images
-      progressive: true,
-      withMetadata: false,
-      errorOnUnusedConfig: false,
-      skipOnEnlargement: true,
-      errorOnEnlargement: false,
-      silent: true,
-    }))
     .pipe(gulp.dest("static/img/proxy/"));
 }));
 
