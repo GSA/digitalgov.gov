@@ -413,6 +413,7 @@ gulp.task("cleanup", gulp.series('done', function (done) {
 
 
 gulp.task("git-add", gulp.series('cleanup', function (done) {
+  console.log('adding');
   return gulp.src('data/images/*')
     .pipe(git.add());
 }));

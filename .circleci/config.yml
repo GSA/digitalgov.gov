@@ -31,10 +31,15 @@ jobs:
           command: |
             npm install
             node -v
+
+      - run:
+          name: Process Images
+          command: |
             git config --global -l
             git config --global user.email "jeremyzilar@github.com"
             git config --global user.name "jeremyzilar"
             gulp process-img
+
       - save_cache:
           key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
           paths:
