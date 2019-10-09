@@ -9,23 +9,16 @@ jobs:
       - restore_cache:
           keys:
             - v1-npm-cache-{{ .Branch }}-{{ .Revision }}
-      # - run:
-      #     name: install gulp
-      #     command: sudo npm install gulp -g
       - run:
-          name: Install Node dependencies
-          command: npm install
-      - run:
-          name: Node version
-          command: node -v
-      - save_cache:
-          key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
-          paths:
-            - node_modules
-      - run:
-          name: Process images
+          name: NPM Install
           command: |
+            npm install
+            node -v
             git config --global -l
             git config --global user.email "jeremyzilar@github.com"
             git config --global user.name "jeremyzilar"
             gulp process-img
+      - save_cache:
+          key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - node_modules
