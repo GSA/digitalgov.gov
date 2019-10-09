@@ -46,11 +46,7 @@ jobs:
 
       - run:
           name: Image Commit
-          command: |
-            git config --global -l
-            git config --global user.email "jeremyzilar@github.com"
-            git config --global user.name "jeremyzilar"
-            gulp img-commit
+          command: gulp img-commit
 
       - save_cache:
           key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
