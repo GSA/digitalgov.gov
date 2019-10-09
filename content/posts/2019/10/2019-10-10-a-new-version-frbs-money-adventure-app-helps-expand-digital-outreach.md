@@ -14,6 +14,7 @@ tag:
 featured_image: 
   uid: 
   alt: 'text'
+
 ---
 
 The Federal Reserve Board’s U.S. Currency Education Program recently launched the _[Money Adventure](https://www.uscurrency.gov/educational-materials/classrooms/money-adventure-mobile-app)_ Android app. _Money Adventure_ is a fun, interactive app that teaches the next generation of cash users about the historical designs and robust security features of U.S. currency. 
