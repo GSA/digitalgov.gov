@@ -26,7 +26,10 @@ var gulp          = require("gulp"),
     fs            = require('graceful-fs'),
     sizeOf        = require('image-size'),
     dotenv        = require('dotenv').config(),
-    s3config      = JSON.parse(fs.readFileSync('.env')),
+    s3config      = {
+                    accessKeyId: process.env.AWS_ACCESSKEY,
+                    secretAccessKey: process.env.AWS_SECRET
+                  },
     s3            = require('gulp-s3-upload')(s3config),
     cp            = require('child_process'),
     git           = require('gulp-git');
@@ -396,12 +399,12 @@ gulp.task("upload", gulp.series('proxy', function (done) {
     .pipe(gulp.dest("content/images/_working/uploaded/"));
 }));
 
-gulp.task("done", gulp.series('proxy', function (done) {
+gulp.task("done", gulp.series('upload', function (done) {
   return gulp.src("content/images/_working/originals/*")
     .pipe(gulp.dest("content/images/uploaded/"));
 }));
 
-gulp.task("cleanup", gulp.series('proxy', function (done) {
+gulp.task("cleanup", gulp.series('done', function (done) {
   return del(['content/images/_working/**']);
 }));
 
@@ -410,7 +413,6 @@ gulp.task("cleanup", gulp.series('proxy', function (done) {
 
 
 gulp.task("git-add", gulp.series('cleanup', function (done) {
-  console.log('adding...');
   return gulp.src('data/images/*')
     .pipe(git.add());
 }));
