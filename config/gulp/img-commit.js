@@ -2,7 +2,7 @@ var gulp          = require("gulp");
 var git           = require('gulp-git');
 
 
-gulp.task("git-add", gulp.series(function (done) {
+gulp.task("git-add", gulp.series('cleanup', function (done) {
   console.log('adding');
   return gulp.src('data/*')
     .pipe(git.add());
@@ -11,12 +11,14 @@ gulp.task("git-add", gulp.series(function (done) {
 gulp.task("git-commit", gulp.series('git-add', function (done) {
   console.log('commiting');
   return gulp.src('data/*')
-    .pipe(git.commit('adding in images', {args: '-a'}));
+    .pipe(git.commit('adding in images'));
 }));
 
 gulp.task("git-push", gulp.series('git-commit', function (done) {
   console.log('pushing...');
-  git.push('origin', {args: " -f"}, function (err) {
-    if (err) throw err;
-  });
+  return gulp.src('data/*')
+    .pipe(git.push('origin', {args: " -f"}, function (err) {
+      if (err) throw err;
+    }));
+
 }));

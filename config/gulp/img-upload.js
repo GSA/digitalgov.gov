@@ -8,7 +8,7 @@ var s3config      = {
     s3            = require('gulp-s3-upload')(s3config);
 
 
-gulp.task("upload", gulp.series(function (done) {
+gulp.task("upload", gulp.series(gulp.parallel('img-variants', 'img-proxy'), function (done) {
   return gulp.src("content/images/_working/processed/**/*")
     .pipe(s3({
       Bucket: 'digitalgov',   //  Required

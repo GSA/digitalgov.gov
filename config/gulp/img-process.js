@@ -2,7 +2,7 @@ var gulp          = require("gulp");
 var responsive    = require('gulp-responsive');
 
 
-gulp.task("img-variants", gulp.series(function (done) {
+gulp.task("img-variants", gulp.series('mkdir', function (done) {
   return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg,JPG,JPEG,PNG}")
     // Create responsive variants
     .pipe(responsive({
