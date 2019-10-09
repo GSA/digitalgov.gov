@@ -16,9 +16,8 @@ gulp.task("git-commit", gulp.series('git-add', function (done) {
 
 gulp.task("git-push", gulp.series('git-commit', function (done) {
   console.log('pushing...');
-  return gulp.src('data/*')
-    .pipe(git.push('origin', {args: " -f"}, function (err) {
-      if (err) throw err;
-    }));
-
+  git.push('origin', {args: " -f"}, function (err) {
+    if (err) throw err;
+  })
+  done();
 }));
