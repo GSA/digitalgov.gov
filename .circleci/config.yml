@@ -19,7 +19,7 @@ jobs:
 
       - run:
           name: Install Gulp
-          command: npm install gulp -g
+          command: sudo npm install gulp -g
 
       - save_cache:
           key: dg-cache-v1-{{ .Branch }}-{{ .Revision }}
