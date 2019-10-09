@@ -24,8 +24,8 @@ jobs:
             - node_modules
       - run:
           name: Process images
-          commands:
-            - git config --global -l
-            - git config --global user.email jeremyzilar@github.com
-            - git config --global user.name jeremyzilar
-            - gulp process-img
+          command: |
+            git config --global -l
+            git config --global user.email "jeremyzilar@github.com"
+            git config --global user.name "jeremyzilar"
+            gulp process-img
