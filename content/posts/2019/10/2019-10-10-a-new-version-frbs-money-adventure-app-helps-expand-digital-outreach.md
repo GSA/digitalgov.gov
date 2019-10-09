@@ -12,8 +12,8 @@ tag:
   - frb
   - mobile-apps
 featured_image: 
-  uid: 
-  alt: 'text'
+  uid: money-adventure-welcome-screen
+  alt: ''
 
 ---
 
