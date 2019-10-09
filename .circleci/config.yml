@@ -7,52 +7,52 @@ jobs:
     steps:
       - checkout
 
-      - restore_cache:
-          keys:
-            - dg-cache-v1-{{ .Branch }}-{{ .Revision }}
-            - dg-cache-v1-{{ .Branch }}
-            - dg-cache-v1
-
-      - run:
-          name: Install NPM Dependencies
-          command: npm install
-
-      - run:
-          name: Install Gulp
-          command: sudo npm install gulp -g
-
-      - save_cache:
-          key: dg-cache-v1-{{ .Branch }}-{{ .Revision }}
-          paths:
-            - node_modules
-
-      - run:
-          name: NPM Install
-          command: |
-            npm install
-            node -v
-
-      - run:
-          name: Image Prep
-          command: gulp img-prep
-
-      - run:
-          name: Image Process
-          command: gulp img-process
-
-      - run:
-          name: Image Upload
-          command: gulp img-process
-
-      - run:
-          name: Image Commit
-          command: |
-            git config --global -l
-            git config --global user.email "jeremy.zilar@gsa.gov"
-            git config --global user.name "Jeremy Zilar"
-            gulp img-commit
-
-      - save_cache:
-          key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
-          paths:
-            - node_modules
+      # - restore_cache:
+      #     keys:
+      #       - dg-cache-v1-{{ .Branch }}-{{ .Revision }}
+      #       - dg-cache-v1-{{ .Branch }}
+      #       - dg-cache-v1
+      #
+      # - run:
+      #     name: Install NPM Dependencies
+      #     command: npm install
+      #
+      # - run:
+      #     name: Install Gulp
+      #     command: sudo npm install gulp -g
+      #
+      # - save_cache:
+      #     key: dg-cache-v1-{{ .Branch }}-{{ .Revision }}
+      #     paths:
+      #       - node_modules
+      #
+      # - run:
+      #     name: NPM Install
+      #     command: |
+      #       npm install
+      #       node -v
+      #
+      # - run:
+      #     name: Image Prep
+      #     command: gulp img-prep
+      #
+      # - run:
+      #     name: Image Process
+      #     command: gulp img-process
+      #
+      # - run:
+      #     name: Image Upload
+      #     command: gulp img-process
+      #
+      # - run:
+      #     name: Image Commit
+      #     command: |
+      #       git config --global -l
+      #       git config --global user.email "jeremy.zilar@gsa.gov"
+      #       git config --global user.name "Jeremy Zilar"
+      #       gulp img-commit
+      #
+      # - save_cache:
+      #     key: v1-npm-cache-{{ .Branch }}-{{ .Revision }}
+      #     paths:
+      #       - node_modules
