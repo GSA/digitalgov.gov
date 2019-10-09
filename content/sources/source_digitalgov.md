@@ -10,11 +10,11 @@ summary: 'a one-line summary of the source'
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
-domain: 'digit-150.png'
+domain: 'https://demo.digital.gov'
 
 # To find the favicon, view source on the page you're pointing to and search for "favicon" or "icon". The path to the icon should be near the top.
 # Copy and paste that full path here:
-# icon: "https://demo.digital.gov/img/icons/favicon.ico"
+icon: "digit-indigo.png"
 
 # Weight: control how services appear across the site
 # 2 == will be part of the rotation on the homepage
