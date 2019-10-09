@@ -11,7 +11,7 @@ gulp.task("git-add", gulp.series('cleanup', function (done) {
 gulp.task("git-commit", gulp.series('git-add', function (done) {
   console.log('commiting');
   return gulp.src('data/*')
-    .pipe(git.commit('adding in images'));
+    .pipe(git.commit('adding in images [skip ci]'));
 }));
 
 gulp.task("git-push", gulp.series('git-commit', function (done) {
