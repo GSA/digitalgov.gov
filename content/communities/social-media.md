@@ -19,6 +19,7 @@ community_list:
     members: 991
     emails_per_week: 8.1
 
+redirectto: https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov
 ---
 
 The Federal SocialGov Community was launched in June 2012 to research, evaluate and implement emerging social technologies and strategies for public services. We help develop the shared resources and tools needed to get the job done, including:
