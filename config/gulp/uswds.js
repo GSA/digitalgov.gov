@@ -36,10 +36,14 @@ PATHS
 ----------------------------------------
 */
 
+// USWDS source directory
+const USWDS_SRC  = './themes/digital.gov/src/scss/uswds';
+
 // Project Sass source directory
 const PROJECT_SASS_SRC  = './themes/digital.gov/src/scss/new';
 
-const USWDS_SRC = './themes/digital.gov/src/scss/uswds';
+// Project JS source directory
+const PROJECT_JS_SRC  = './themes/digital.gov/src/js';
 
 // Images destination
 const IMG_DEST = './themes/digital.gov/static/lib/uswds/img';
@@ -53,6 +57,11 @@ const JS_DEST = './themes/digital.gov/static/lib/uswds/js';
 // Compiled CSS destination
 const CSS_DEST = './themes/digital.gov/static/dist';
 
+// Site CSS destination
+// Like the _site/assets/css directory in Jekyll, if necessary.
+// If using, uncomment line 112
+const SITE_CSS_DEST = './path/to/site/css/destination';
+
 /*
 ----------------------------------------
 TASKS
@@ -61,7 +70,7 @@ TASKS
 
 gulp.task('copy-uswds-setup', () => {
   return gulp.src(`${uswds}/scss/theme/**/**`)
-  .pipe(gulp.dest(`${USWDS_SRC}`));
+  .pipe(gulp.dest(`${PROJECT_SASS_SRC}`));
 });
 
 gulp.task('copy-uswds-fonts', () => {
@@ -82,19 +91,15 @@ gulp.task('copy-uswds-js', () => {
 gulp.task('build-sass', function(done) {
   var plugins = [
     // Autoprefix
-    autoprefixer(require('./browsers')),
+    autoprefixer(autoprefixerOptions),
     // Pack media queries
     mqpacker({ sort: true }),
     // Minify
-    cssnano(({ autoprefixer: { browsers: require('./browsers') }}))
+    cssnano(({ autoprefixer: { browsers: autoprefixerOptions }}))
   ];
   return gulp.src([
       `${PROJECT_SASS_SRC}/*.scss`
     ])
-    .pipe(replace(
-      /\buswds @version\b/g,
-      'uswds v' + pkg.version
-    ))
     .pipe(sourcemaps.init({ largeFile: true }))
     .pipe(sass({
         includePaths: [
@@ -103,8 +108,14 @@ gulp.task('build-sass', function(done) {
           `${uswds}/scss/packages`,
         ]
       }))
+    .pipe(replace(
+      /\buswds @version\b/g,
+      'based on uswds v' + pkg.version
+    ))
     .pipe(postcss(plugins))
     .pipe(sourcemaps.write('.'))
+    // uncomment the next line if necessary for Jekyll to build properly
+    //.pipe(gulp.dest(`${SITE_CSS_DEST}`))
     .pipe(gulp.dest(`${CSS_DEST}`));
 });
 
