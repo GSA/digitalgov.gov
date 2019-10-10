@@ -1,6 +1,6 @@
 ---
 slug: socialgov-fall-meeting-podcasting
-title: 'Socialgov Fall Meeting - Podcasting!'
+title: 'SocialGov Fall Meeting - Podcasting!'
 summary: 'Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences&#46;'
 featured_image:
   uid:
@@ -8,7 +8,7 @@ featured_image:
 event_type:
   - Zoom
   - in-person
-date: 2019-10-17 08:00:00 -0500
+date: 2019-10-17 08:30:00 -0500
 end_date: 2019-10-17 12:00:00 -0500
 event_organizer: DigitalGov University
 host: SocialGov
@@ -45,6 +45,28 @@ SocialGov’s fall meeting is bringing together four top experts in federal podc
 - [Energy's Direct Current Podcast](https://www.energy.gov/podcasts/direct-current-energygov-podcast) 
 - [State's 22.33 Podcast](https://eca.state.gov/2233) 
 - [VA's Borne the Battle Podcast](https://podcasts.apple.com/us/podcast/borne-the-battle/id1171416564) 
+
+### Agenda:
+
+* **8:30-9:00 a.m. – Networking**  
+* **9:00-9:15 a.m. – Intro: Why a podcast?**  
+* **9:15-10:00 a.m. – Panel 1: Getting Started - Content**  
+  * Types of podcasts - interview panel discussion, narrative storytelling, hybrid
+  * Writing a script, development content, storytelling  
+  * Hosting  
+  * Podcast guest speakers  
+* **10:00 - 10:15 a.m. – BREAK**  
+* **10:15 - 11:00 a.m. – Panel 2: Getting Started - Technical**  
+  * Equipment: Show us your setup  
+  * Recording: Studio, in the field, over the phone  
+  * Editing/Producing  
+  * Theme music and transitions  
+  * Find a place to host your podcast  
+  * iTunes podcast directory  
+  * Marketing and growing your audience  
+* **11:00 - 11:15 a.m. – BREAK (conclusion of virtual portion of the event)**  
+* **11:15 a.m. - 12:00 p.m. – Breakout sessions/small group Q&A**  
+  * Meet the podcasters!
 
 ---
 

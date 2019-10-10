@@ -9,8 +9,11 @@ https://digital.gov
 
 Want to learn more about how we work? [Check out our Wiki page »](https://github.com/GSA/digitalgov.gov/wiki)
 
+
 ---
 
+
+[![CircleCI](https://circleci.com/gh/GSA/digitalgov.gov/tree/master.svg?style=svg)](https://circleci.com/gh/GSA/digitalgov.gov/tree/master)
 
 ## Development Guide
 
