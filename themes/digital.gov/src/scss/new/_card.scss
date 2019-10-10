@@ -33,11 +33,9 @@
 		@include u-font('sans', 'md');
 	}
 	.deck{
-		// @include u-text('light');
 	}
 
 	.image-featured{
-		@include u-margin-bottom(2);
 	}
 
 	.entry-featured img {
@@ -90,12 +88,11 @@
 	}
 }
 
-
 .meta{
 	@include u-margin-top('105');
 	@include u-display('flex');
 	@include u-flex('wrap');
-	@include u-flex('align-end');
+	@include u-flex('align-center');
 	@include at-media('tablet-lg') {
 		@include u-margin-top(3);
 	}
