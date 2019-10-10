@@ -41,9 +41,9 @@
               {{- $src := (print "/logos/" .Params.icon) -}}
               <img class="float-right margin-left-1 margin-bottom-1 width-7" src="{{- $src | relURL -}}" alt="{{- .Params.name }} Logo">
               {{- end -}}
-              <h3><a href="{{- .Params.source_url -}}?dg" title="{{- .Params.title -}}">{{- .Params.title --}}</a></h3>
+              <h3><a href="{{- if .Params.source_url -}}{{- .Params.source_url -}}{{- else -}}{{- .URL -}}{{- end -}}?dg" title="{{- .Params.title -}}">{{- .Params.title -}}</a></h3>
               <p>{{- .Params.summary | markdownify -}}</p>
-              <a class="overlay" href="{{- .Params.source_url -}}?dg" title="{{- .Params.title -}}"><span></span></a>
+              <a class="overlay" href="{{- if .Params.source_url -}}{{- .Params.source_url -}}{{- else -}}{{- .URL -}}{{- end -}}?dg" title="{{- .Params.title -}}"><span></span></a>
             </div>
           </div>
         {{- end -}}
