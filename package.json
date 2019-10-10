@@ -19,7 +19,7 @@
     "cssnano": "^4.1.4",
     "del": "^3.0.0",
     "dotenv": "^8.1.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-bless": "^4.0.1",
     "gulp-clean-css": "^4.2.0",
     "gulp-combine-mq": "^0.4.0",
