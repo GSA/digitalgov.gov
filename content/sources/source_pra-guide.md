@@ -1,7 +1,7 @@
 ---
 # What is the headline of this promo?
 slug: 'pra-guide'
-name: 'PRA Guide'
+name: 'The Guide to the Paperwork Reduction Act'
 
 # Keep it short — should be no longer than 10 words.
 summary: "A guide to navigating Paperwork Reduction Act"
