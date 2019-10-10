@@ -12,8 +12,8 @@ tag:
   - frb
   - mobile-apps
 featured_image:
-  uid: fed-reserve-app-1
-  alt: "A screen capture of the app's note back explorer in use on an Android tablet. Along the top are buttons for home, and seven bill denominations ($1, $2, $5, $10, $20, $50, and $100) that users can select and explore. Four elements on the back of a $1 bill are circled in white. In the lower right corner is an illustration of Buck the Time-Traveling Dog who guides the user on a quest through the historical events illustrated on the back of U.S. currency."
+  uid: money-adventure-welcome-screen
+  alt: ''
 
 ---
 
