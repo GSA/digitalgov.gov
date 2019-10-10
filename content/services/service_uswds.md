@@ -5,6 +5,9 @@ title: 'U.S. Web Design System'
 # Keep it short — should be no longer than 10 words.
 summary: 'A design system for the federal government.'
 
+# What source published this?
+source: 'uswds'
+
 # Will this point to an external source URL?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 source_url: 'https://designsystem.digital.gov/'
