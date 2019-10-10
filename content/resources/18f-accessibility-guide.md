@@ -6,6 +6,9 @@ title: '18F Accessibility Guide'
 deck: 'A resource for developing accessible products.'
 summary: 'A resource for developing accessible products.'
 
+# What source published this?
+source: '18f'
+
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
 source_url: 'https://accessibility.18f.gov/'
