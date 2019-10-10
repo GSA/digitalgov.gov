@@ -47,13 +47,14 @@
   }
 }
 
+
 .edit_tools{
   position: relative;
   @include u-display('none');
   @include at-media('tablet') {
     @include u-display('block');
   }
-  .editor{
+  .edit{
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -79,7 +80,15 @@
       outline: none;
     }
   }
-  .active{
+
+  .edit-issue{
+    @include u-display('none');
+  }
+
+}
+
+.edit_tools.active{
+  .edit{
     // padding: 15px;
     @include u-padding('105');
     @include u-border(1,'blue-50v','solid');
@@ -91,6 +100,19 @@
     }
     i{
       left: 0;
+    }
+  }
+  .edit-issue{
+    @include u-padding('105');
+    @include u-display('block');
+    bottom:110px;
+    @include u-bg('red-40v');
+    @include u-text('white');
+    @include u-border(1,'red-50v','solid');
+    @include u-font('sans', 'lg');
+    &:hover{
+      @include u-bg('red-50v');
+      @include u-border(1,'red-60v','solid');
     }
   }
 }
