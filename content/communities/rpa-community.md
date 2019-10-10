@@ -17,22 +17,35 @@ To join, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:Fed
 
 ## Who We Are
 
-**Your community managers**
+The executive sponsors of the RPA CoP are GSA Chief Financial Officer and acting CoP Chair, Gerard Badorrek, and GSA Technology Transformation Services (TTS) Director, Anil Cheriyan. Jim Geoghegan, is the CoP Coordinator, [james.geoghegan@gsa.gov ](mailto:james.geoghegan@gsa.gov )
 
-- Jim Geoghegan — Community of Practice Coordinator, [james.geoghegan@gsa.gov ](mailto:james.geoghegan@gsa.gov )
-- Gerard Badorrek — GSA Chief Financial Officer, Executive Sponser and Acting Community of Practice Chair
-- Anil Cheriyan — GSA Technology Transformation Services (TTS) Director, and Executive Sponser
+The CoP is organized into 11 practice areas.  Each practice area has assigned leaders from impactful Federal RPA programs. 
+
+**Technology **
+
+  * Privacy: Richard Spiedel, General Services Administration (GSA); Marcela Souaya, General Services Administration (GSA)
+  * Credentialing: Jennifer Hill, Treasury (FIT); Elizabeth McEntire, Office of the Under Secretary of Defense (DOD)
+  * IT Platform: Shang-Jeo Gaublomme, Department of Homeland Security (DHS); John Felsted, Defense Logistics Agency (DOD); Ron Woody, United States Department of Agriculture (USDA)
+  * Security / Authority to Operate (ATO): Frank Greenwell, Federal Reserve Board (FRB); David Harris, Department of the Interior (DOI); Taylor Roberts, Office of Management and Budget (OMB)
+
+**Management **
+
+ * Governance / Center of Excellence (CoE): James Gregory, Department of Homeland Security (DHS); Anju Anand, National Science Foundation (NSF); Pam Wolfe, National Aeronautics and Space Administration (NASA)
+ * HR Impact, Culture, Change Management, Comms: Veronica Villalobos, Office of Personnel Management (OPM); Marianne Ndekey, Office of Personnel Management (OPM); A’ndrea Jones, Department of Housing and Urban Development (HUD)
+ * Management Reporting & Business Value: James Geoghegan, General Services Administration (GSA); Kate Mishra, Department of Housing and Urban Development (HUD)
+ * Process Selection, Use Case, and Automation Sharing: Erica Thomas, Office of the Secretary of Defense (DOD), Bo Shevchik, Federal Reserve System (Bank of St. Louis)
+ * RPA & Intelligent Automation: Rachael Martin, Joint Artificial Intelligence Center (DOD)
+
+**Operations **
+
+ * Operations Management: General Services Administration (GSA)
+ * Development: Christine Gex, Department of the Army (DOD); Margaret Moon, National Science Foundation (NSF)
+
+**RPA Playbook Lead: Jim Geoghegan, General Services Administration (GSA) **
 
 ## What We Do
 
 The CoP achieves its mission through information sharing, identification and definition of options, best practices, methods and standards for RPA implementation and operations. The CoP does not set policy, but policy-setting agencies are encouraged to participate and make use of the community’s base of knowledge, information and experience.
-
-### Practice areas
-
-The CoP is organized by practice areas for distinct components of RPA program management. Each practice areas is led by a volunteer agency employee
-- a practice Leader - and supported by practice area team - a group of agency volunteers.
-
-All members are required to join at least one "practice area team" after their first meeting attended. This reflects the CoP’s principle that all contribute and all benefit.
 
 ---
 
