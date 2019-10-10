@@ -1,6 +1,6 @@
 ---
 slug: socialgov-fall-meeting-podcasting
-title: 'Socialgov Fall Meeting - Podcasting!'
+title: 'SocialGov Fall Meeting - Podcasting!'
 summary: 'Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences&#46;'
 featured_image:
   uid:
