@@ -29,6 +29,9 @@
 
 top6:
 
+  - file          : '2019-10-10-a-new-version-frbs-money-adventure-app-helps-expand-digital-outreach.md'
+    type          : 'post'
+
   - file          : '2019-09-17-findings-from-10xs-recent-round-submissions.md'
     type          : 'post'
 
@@ -43,6 +46,3 @@ top6:
 
   - file          : '2019-08-05-a-successful-vibrant-productive-career-for-federal-employees.md'
     type          : 'post'
-
-  - file          : '2019-07-25-machine-learning-how-bureau-labor-statistics-did-it.md'
-    type          : 'video'
