@@ -24,7 +24,7 @@ The CoP is organized into 11 practice areas.  Each practice area has assigned le
 
   * _Privacy_: Richard Spiedel, General Services Administration (GSA); Marcela Souaya, General Services Administration (GSA)
   * _Credentialing_: Jennifer Hill, Treasury (FIT); Elizabeth McEntire, Office of the Under Secretary of Defense (DOD)
-  * _IT Platform): Shang-Jeo Gaublomme, Department of Homeland Security (DHS); John Felsted, Defense Logistics Agency (DOD); Ron Woody, United States Department of Agriculture (USDA)
+  * _IT Platform_: Shang-Jeo Gaublomme, Department of Homeland Security (DHS); John Felsted, Defense Logistics Agency (DOD); Ron Woody, United States Department of Agriculture (USDA)
   * _Security / Authority to Operate (ATO)_: Frank Greenwell, Federal Reserve Board (FRB); David Harris, Department of the Interior (DOI); Taylor Roberts, Office of Management and Budget (OMB)
 
 **Management:**
@@ -41,7 +41,7 @@ The CoP is organized into 11 practice areas.  Each practice area has assigned le
  * _Development_: Christine Gex, Department of the Army (DOD); Margaret Moon, National Science Foundation (NSF)
 
 **RPA Playbook Lead:** 
-* Jim Geoghegan, General Services Administration (GSA)
+  * Jim Geoghegan, General Services Administration (GSA)
 
 ## What We Do
 
