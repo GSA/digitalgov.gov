@@ -13,16 +13,36 @@ A list of the most important services tagged with the same topic */}}
     {{- range sort $services "Title" "asc" -}}
 
     {{/* If an external link  */}}
-    {{- if .Params.source_url -}}
-    <li class="indent" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
-      <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}">
-        {{- if .Params.icon -}}
-          {{- $src := (print "/logos/" .Params.icon) -}}
-          <img class="thumb" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+    {{- if or .Params.source_url .Params.source -}}
+
+    <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+      <a class="" href="{{- .Params.source_url -}}?=dg" title="{{- .Title | markdownify -}}">
+
+        {{/* If there is a defined source for this page */}}
+        {{- if .Params.source -}}
+          {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+          {{- if $source.Params.icon -}}
+
+            {{/*
+            We have two folders for source icons
+            - /logos/ — this is for logos to be used in the newsfeed and the icons
+            - logos/icons/ — for overriding the icon image
+            */}}
+            {{- $icon_url := (print "/static/logos/icons/" $source.Params.icon) -}}
+            {{- if (fileExists $icon_url) -}}
+              <img src="{{- (print "/logos/icons/" $source.Params.icon) | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
+            {{- else -}}
+              <img src="{{- (print "/logos/" $source.Params.icon) | relURL -}}" alt="{{- $source.Params.name -}} logo"/><span>{{- .Title | markdownify -}}</span>
+            {{- end -}}
+
+
+          {{- end -}}
+
+        {{/* No source? let's attempt to get the favicon for the URL */}}
         {{- else -}}
-          <img class="thumb" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+          <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}} logo"/><span>{{- .Title | markdownify -}}</span>
         {{- end -}}
-        <span>{{ .Title | markdownify }}</span>
+
       </a>
       {{- if .Params.deck }} — {{ .Params.deck -}}{{- end -}}</li>
 
