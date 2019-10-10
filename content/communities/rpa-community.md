@@ -21,14 +21,14 @@ The executive sponsors of the RPA CoP are GSA Chief Financial Officer and acting
 
 The CoP is organized into 11 practice areas.  Each practice area has assigned leaders from impactful Federal RPA programs. 
 
-**Technology **
+**Technology**
 
   * Privacy: Richard Spiedel, General Services Administration (GSA); Marcela Souaya, General Services Administration (GSA)
   * Credentialing: Jennifer Hill, Treasury (FIT); Elizabeth McEntire, Office of the Under Secretary of Defense (DOD)
   * IT Platform: Shang-Jeo Gaublomme, Department of Homeland Security (DHS); John Felsted, Defense Logistics Agency (DOD); Ron Woody, United States Department of Agriculture (USDA)
   * Security / Authority to Operate (ATO): Frank Greenwell, Federal Reserve Board (FRB); David Harris, Department of the Interior (DOI); Taylor Roberts, Office of Management and Budget (OMB)
 
-**Management **
+**Management**
 
  * Governance / Center of Excellence (CoE): James Gregory, Department of Homeland Security (DHS); Anju Anand, National Science Foundation (NSF); Pam Wolfe, National Aeronautics and Space Administration (NASA)
  * HR Impact, Culture, Change Management, Comms: Veronica Villalobos, Office of Personnel Management (OPM); Marianne Ndekey, Office of Personnel Management (OPM); A’ndrea Jones, Department of Housing and Urban Development (HUD)
@@ -36,12 +36,12 @@ The CoP is organized into 11 practice areas.  Each practice area has assigned le
  * Process Selection, Use Case, and Automation Sharing: Erica Thomas, Office of the Secretary of Defense (DOD), Bo Shevchik, Federal Reserve System (Bank of St. Louis)
  * RPA & Intelligent Automation: Rachael Martin, Joint Artificial Intelligence Center (DOD)
 
-**Operations **
+**Operations**
 
  * Operations Management: General Services Administration (GSA)
  * Development: Christine Gex, Department of the Army (DOD); Margaret Moon, National Science Foundation (NSF)
 
-**RPA Playbook Lead: Jim Geoghegan, General Services Administration (GSA) **
+**RPA Playbook Lead: Jim Geoghegan, General Services Administration (GSA)**
 
 ## What We Do
 
