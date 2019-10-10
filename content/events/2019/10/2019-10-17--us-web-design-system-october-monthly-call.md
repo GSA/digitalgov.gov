@@ -1,7 +1,7 @@
 ---
 slug: -us-web-design-system-october-monthly-call
 kicker: "USWDS"
-title: "The Rules of Play: Creativity and Constraint in the U.S. Web Design System"
+title: U.S. Web Design System: October Monthly Call
 summary: "Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, in our monthly call as he walks through the design system and answers your questions&#46;"
 featured_image: 
   uid: uswds-2-illio-feature-image
