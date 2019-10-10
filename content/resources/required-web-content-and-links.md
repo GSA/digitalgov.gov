@@ -12,7 +12,7 @@ authors:
 ---
 
 
-If you manage a public website in the federal government's Executive Branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
+If you manage a public website in the federal government's executive branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
 
 **This page makes it clear:**
 
@@ -29,26 +29,27 @@ Use the guidance below to implement these required links in a clear, user-friend
 
 ## About Page
 
-You are required to have an "About" page on your site that includes information about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
+You are required to have an "About" page on your site.
+
+On your primary agency site, you would include information about the agency with descriptions of the agency organization structure, mission, and statutory authority, and links to the following information:
 
 - the agency’s strategic plan and annual performance plans
-- the agency’s privacy policy page (more on this below)
+- the agency’s privacy policy page _(more on this below)_
 - the agency’s point of contact, as required by the Small Business Paperwork Relief Act of 2002
 - the agency’s Open Government page
 - the agency’s Plain Writing page
-- information as required under the No Fear Act of 2002 (more on this below)
+- information as required under the No Fear Act of 2002 _(more on this below)_
 - information associated with the agency’s implementation of the Information Quality Act
 
+Secondary agency sites also need an "About" page that describes your site and links to your own website policies. It should also links to the primary agency's "About" page. For example, our Digital.gov About page has:
 
-For example, our Digital.gov About page has:
 - text about our program
-- a link to our own privacy policy that also links to the GSA's privacy policy page
-- links to GSA's pages for the rest of the links
-
+- a link to our own website policies (which includes links GSA’s policy page)
+- a link to GSA’s About page
 
 {{< box >}}
 ##### Suggested link text:
-`About Us` or `About`
+ `About` or `About Us`
 
 ##### Required on:
 - Your principal website
@@ -80,14 +81,14 @@ At a minimum, {{< highlight >}}agencies must post links to the following informa
 For other required links, Federal agencies should determine the best location on their website to place those links based on user needs and the underlying requirement from law or policy.{{< /card-policy >}}
 
 
-## Accessibility Page
+## Accessibility Statement
 
 Federal agencies must:
 
-1. develop an accessibility statement,
-2. add it as an "Accessibility" page on the agency's main website and provide a link to it,
-3. link to it on all secondary public-facing websites, and
-4. link to it on the agency's Intranet website.
+- develop an accessibility statement,
+- add it as an “Accessibility” page on the agency’s main website and provide a link to it,
+- link to it on all secondary public-facing websites, and
+- link to it on the agency’s Intranet website.
 
 The accessibility statement should, at a minimum, include:
 
@@ -102,9 +103,7 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 `Accessibility`
 
 ##### Required on:
-- Your principal website
-- Any known sub-agency site; these secondary websites can link to the Accessibility page on their agency's principle website
-- Your agency Intranet website; can link to the Accessibility page on their agency's principle website
+- All agency websites, internal and external. Secondary sites can link to the accessibility statement on the domain website.
 
 ##### Required by:
 - [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
@@ -211,6 +210,8 @@ Finally, some commenters suggested that each agency provide EEOC with the hyperl
 ## External Links
 
 Agencies must clearly identify external links from their websites. Agency websites must clearly state that the content of external links to non-federal agency websites is not endorsed by the federal government and is not subject to federal information quality, privacy, security, and related guidelines.
+
+Any link that is not a federal `.gov` or `.mil` website is considered an external link.
 
 {{< box >}}
 ##### Suggested link text:
