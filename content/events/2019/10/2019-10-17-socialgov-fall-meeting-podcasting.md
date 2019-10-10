@@ -8,7 +8,7 @@ featured_image:
 event_type:
   - Zoom
   - in-person
-date: 2019-10-17 08:00:00 -0500
+date: 2019-10-17 08:30:00 -0500
 end_date: 2019-10-17 12:00:00 -0500
 event_organizer: DigitalGov University
 host: SocialGov
