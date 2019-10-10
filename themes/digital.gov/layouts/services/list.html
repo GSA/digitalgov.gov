@@ -27,31 +27,31 @@
       <div class="grid-row grid-gap-2">
 
       {{/* Gets all service pages */}}
-      {{ $services := (where .Site.Pages "Section" "services") }}
+      {{- $services := (where .Site.Pages "Section" "services") -}}
 
       {{/* Gather only the pages with a weight greater than or equal to 1 */}}
-      {{ $services := (where $services ".Params.weight" "ge" 1) }}
+      {{- $services := (where $services ".Params.weight" "ge" 1) -}}
 
-      {{ with $services }}
+      {{- with $services -}}
 
-        {{ range $i, $e := . }}
+        {{- range $i, $e := . -}}
           <div class="grid-col-12 tablet:grid-col-6 tablet:flex-6">
             <div class="promo promo-card " data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
-              {{ if .Params.icon }}
-              {{ $src := (print "/logos/" .Params.icon) }}
-              <img class="float-right margin-left-1 margin-bottom-1 width-7" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
-              {{ end }}
-              <h3><a href="{{ .Params.source_url }}?dg" title="{{ .Params.title }}">{{ .Params.title }}</a></h3>
-              <p>{{ .Params.summary | markdownify }}</p>
-              <a class="overlay" href="{{ .Params.source_url }}?dg" title="{{ .Params.title }}"><span></span></a>
+              {{- if .Params.icon -}}
+              {{- $src := (print "/logos/" .Params.icon) -}}
+              <img class="float-right margin-left-1 margin-bottom-1 width-7" src="{{- $src | relURL -}}" alt="{{- .Params.name }} Logo">
+              {{- end -}}
+              <h3><a href="{{- .Params.source_url -}}?dg" title="{{- .Params.title -}}">{{- .Params.title --}}</a></h3>
+              <p>{{- .Params.summary | markdownify -}}</p>
+              <a class="overlay" href="{{- .Params.source_url -}}?dg" title="{{- .Params.title -}}"><span></span></a>
             </div>
           </div>
-        {{ end }}
-      {{ end }}
+        {{- end -}}
+      {{- end -}}
       </div>
 
     </div>
   </section>
 </main>
 
-{{ end }} {{/* end 'content' block */}}
+{{- end -}} {{/* end 'content' block */}}
