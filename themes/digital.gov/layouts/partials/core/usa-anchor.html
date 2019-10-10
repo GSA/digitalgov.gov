@@ -1,0 +1,64 @@
+{{- range .Site.Data.usa_anchor.anchor_data -}}
+<section class="anchor" data-uswds="1.0">
+<div class="component-anchor">
+  <div class="usa-accordion">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+          <div class="org-short">
+            <div class="org-copy">
+              <a href="{{- .agency_url -}}" title="{{- .agency -}}"><img class="org-img" src="{{- .agency_logo | relURL -}}" alt="{{- .agency -}} Logo"></a>
+              <p><a href="#" title="{{- .site_name -}}">{{- .site_name -}}</a> is a product of the <a href="{{- .org_primary_url -}}" title="{{- .org_primary -}}">{{- .org_primary -}}</a>{{- if .org_primary -}}, and managed by <a href="{{- .org_secondary_url -}}" title="{{- .org_secondary -}}">{{- .org_secondary -}}</a>{{- end -}}.</p>
+            </div>
+
+            <button class="btn-learn-more usa-button usa-button--outline usa-button--inverse usa-accordion__button" aria-hidden="false" aria-expanded="false" aria-controls="org-details">
+              <span>Learn&nbsp;more</span>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="org-expanded" id="org-details" hidden>
+        <div class="grid-row grid-gap-2">
+          <div class="grid-col-12 tablet-lg:grid-col-6">
+            <div class="org-copy">
+              <p>{{- .org_primary_bio -}} <a class="more" href="{{- .org_primary_url -}}" title="Learn more about {{- .org_primary -}}"><span>Read more</span>&nbsp;»</a></p>
+              {{- if .org_secondary_bio -}}
+              <p>{{- .org_secondary_bio -}} <a class="more" href="{{- .org_secondary_url -}}" title="Learn more about {{- .org_secondary -}}"><span>Read more</span>&nbsp;»</a></p>
+              {{- end -}}
+            </div>
+          </div>
+
+          <div class="grid-col-12 tablet-lg:grid-col-5 tablet-lg:grid-offset-1">
+            <div class="org-links">
+              <p><i class="fas fa-envelope"></i> For questions about this website, email <a href="mailto:{{- .site_email -}}">{{- .site_email -}}</a>.</p>
+              <p>Additional information about the {{- .agency -}} ({{- .agency_acronym -}}) can be found at <a href="{{- .agency_about -}}" title="More about the {{- .agency_acronym -}}">{{- .agency_about -}} »</a></p>
+              <ul>
+                <li><a href="#" title=""><span>Submit a FOIA request</span>&nbsp;»</a></li>
+                <li><a href="#" title=""><span>Report fraud, waste, or abuse</span>&nbsp;»</a></li>
+                <li><a href="#" title=""><span>View No FEAR Act data (EEO)</span>&nbsp;»</a></li>
+                <li><a href="#" title=""><span>View budget and performance reports</span>&nbsp;»</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="component-anchor-support">
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row grid-gap-2">
+      <div class="grid-col-12">
+        <div class="usagov">
+          <p><i class="fas fa-comment fa-flip-horizontal"></i> <span>Have a question about government services?</span></p>
+          <a class="usa-button usa-button-sm" href="#">Contact USA.gov</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+{{- end -}}

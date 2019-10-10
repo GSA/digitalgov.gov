@@ -1,0 +1,22 @@
+anchor_data:
+  - site_name: Digital.gov
+    site_email: digitalgov@gsa.gov
+    site_url: https://digital.gov/
+    site_about: https://digital.gov/about
+    agency: The General Services Administration
+    agency_acronym: GSA
+    agency_logo: /img/gsa-logo-w100.png
+    agency_url: https://gsa.gov
+    agency_about: https://gsa.gov/about
+    org_primary: Technology Transformation Services
+    org_primary_acronym: TTS
+    org_primary_url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services
+    org_primary_email: tts-info@gsa.gov
+    org_primary_about: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services
+    org_primary_bio: "As part of GSA’s Technology Transformation Services (TTS), we apply modern methodologies and technologies to improve the public’s experience with government. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions."
+    org_secondary: Office of Products and Programs
+    org_secondary_acronym: TTSS
+    org_secondary_url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs
+    org_secondary_email: tts-info@gsa.gov
+    org_secondary_about: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs
+    org_secondary_bio: "The Office of Products and Programs (OPP) is a portfolio of products and services that help agencies improve delivery of information and services to the public."
