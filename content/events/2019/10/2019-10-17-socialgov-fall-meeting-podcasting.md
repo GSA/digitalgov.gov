@@ -33,7 +33,7 @@ With an estimated 51 percent of the U.S. population saying that they’ve listen
 
 SocialGov’s fall meeting is bringing together four top experts in federal podcasting to talk about what it takes to put together a professional and engaging podcast, and tips to grow your audience.
 
-## Our Speakers
+## Our Speakers:
 
 - David A. Kosub, Ph.D, National Institutes of Health
 - Matt Dozier, U.S. Department of Energy
