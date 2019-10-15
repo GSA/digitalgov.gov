@@ -16,7 +16,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Events
 
-- Please be on the lookout for our October meeting here soon. 
+- [**October Meeting**](https://digital.gov/event/2019/10/22/october-devops-cop-meeting/)
 
 ## Past Events
 
