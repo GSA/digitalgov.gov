@@ -5,8 +5,6 @@ summary: 'Robert J&#46; Huttenlocker, who currently serves as the Assistant Insp
 featured_image:
   uid:
   alt: ''
-event_type:
-  -
 date: 2019-11-01 10:00:00 -0500
 end_date: 2019-11-01 11:30:00 -0500
 event_organizer: DigitalGov University
