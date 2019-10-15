@@ -22,6 +22,7 @@ Political Savvy can be defined as the ability to exhibit confidence and professi
 The Federal Leadership and Professional Development Seminar Series (FLPDSS) provides no-cost “by government, for government” seminars that are presented by federal experts to employees across the government to share federal leader expertise and lessons learned; provide free training, as training resources are always limited; and bring individuals together from across the federal government and foster intra- and inter-agency connections, collaborations, and sharing.
 
 **Related Links:**
+
 - [How to Choose Meaningful Metrics](https://www.youtube.com/watch?v=nK9anHbGqfU)
 - [All Previous Session Recordings and Transcripts](https://community.max.gov/x/_3opcg) 
 - [OMB Evidence and Evaluation Community](https://login.max.gov/cas/login?service=https%3A%2F%2Fcommunity.max.gov%2Flogin.action%3Fos_destination%3D%252Fpages%252Fviewpage.action%253FspaceKey%253DOMB%2526title%253DEvidence%252Band%252BEvaluation%252BCommunity) 
