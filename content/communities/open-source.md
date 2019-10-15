@@ -9,7 +9,6 @@ summary: "The federal government’s open source software community."
 
 We are a community of federal government developers, managers, and individuals interested in open source software. We support the implementation of the [Federal Source Code Policy](https://sourcecode.cio.gov/) (OMB Memo M-16-21) and associated technology platform, [Code.gov](https://code.gov/).
 
-
 ## Join
 
 To join, send an email to **[listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov)** with no subject line and "subscribe code" in the body.
