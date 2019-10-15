@@ -1,6 +1,6 @@
 ---
 slug: socialgov-fall-meeting-podcasting
-title: 'Socialgov Fall Meeting - Podcasting!'
+title: 'SocialGov Fall Meeting - Podcasting!'
 summary: 'Join the minds behind four top federal podcasts to learn how to create, produce, and promote professional podcasts that engage with audiences&#46;'
 featured_image:
   uid:
@@ -8,7 +8,7 @@ featured_image:
 event_type:
   - Zoom
   - in-person
-date: 2019-10-17 08:00:00 -0500
+date: 2019-10-17 08:30:00 -0500
 end_date: 2019-10-17 12:00:00 -0500
 event_organizer: DigitalGov University
 host: SocialGov
