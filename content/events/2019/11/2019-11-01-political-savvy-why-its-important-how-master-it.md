@@ -30,7 +30,7 @@ The Federal Leadership and Professional Development Seminar Series (FLPDSS) prov
 
 ---
 
-_This talk is hosted by the [Federal Leadership Seminar ](http://cma.ahrq.gov/112019Webinar)and Digital.gov. To receive seminar invitations and resources, you may join the seminar series Listserv by sending a blank email from your government email address to FedLeadershipSeminar-subscribe-request@listserv.gsa.gov. Past leadership seminar recordings are available on the [FLPDSS YouTube page](https://www.youtube.com/channel/UCJ1wh1JcX9nwin7w1f_S3fQ)._
+This talk is hosted by the [Federal Leadership Seminar ](http://cma.ahrq.gov/112019Webinar)and Digital.gov. To receive seminar invitations and resources, you may join the seminar series listserv by sending a blank email from your government email address to [FedLeadershipSeminar-subscribe-request@listserv.gsa.gov](mailto:FedLeadershipSeminar-subscribe-request@listserv.gsa.gov). Past leadership seminar recordings are available on the [FLPDSS YouTube page](https://www.youtube.com/channel/UCJ1wh1JcX9nwin7w1f_S3fQ).
 
 For more information, please contact the FLPDSS Chair – Kim Wittenberg – at [kim.wittenberg@ahrq.hhs.gov](mailto:kim.wittenberg@ahrq.hhs.gov).
 
