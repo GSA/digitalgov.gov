@@ -53,7 +53,6 @@
 
 @import 'article';
 @import 'posts';
-@import 'guides';
 @import 'events';
 @import 'table-of-contents';
 @import 'content';
@@ -65,6 +64,8 @@
 @import 'feedback';
 @import 'share-tools';
 
+@import 'guides';
+@import 'guides/header';
 
 // Authors lists
 @import 'authors-list';
