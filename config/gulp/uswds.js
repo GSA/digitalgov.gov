@@ -98,7 +98,7 @@ gulp.task('build-sass', function(done) {
     cssnano(({ autoprefixer: { browsers: autoprefixerOptions }}))
   ];
   return gulp.src([
-      `${PROJECT_SASS_SRC}/*.scss`
+      `${PROJECT_SASS_SRC}/**/*.scss`
     ])
     .pipe(sourcemaps.init({ largeFile: true }))
     .pipe(sass({
