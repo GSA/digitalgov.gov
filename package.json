@@ -7,19 +7,18 @@
     "doc": "docs"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
     "octicons": "^7.3.0"
   },
   "devDependencies": {
     "acorn": "^6.3.0",
-    "autoprefixer": "^9.6.4",
+    "autoprefixer": "^9.6.5",
     "braces": "^2.3.2",
     "change-case": "^3.1.0",
     "css-mqpacker": "^7.0.0",
     "cssnano": "^4.1.10",
     "del": "^3.0.0",
-    "dotenv": "^8.1.0",
-    "gulp": "^4.0.2",
+    "dotenv": "^8.2.0",
+    "gulp": "^4.0.0",
     "gulp-bless": "^4.0.1",
     "gulp-clean-css": "^4.2.0",
     "gulp-combine-mq": "^0.4.0",
@@ -50,6 +49,7 @@
     "path": "^0.12.7",
     "postcss": "^7.0.18",
     "postcss-uncss": "^0.16.1",
+    "sharp": "^0.23.1",
     "uncss": "^0.16.2",
     "uswds": "^2.2.1",
     "uswds-gulp": "github:uswds/uswds-gulp",

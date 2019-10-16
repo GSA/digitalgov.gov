@@ -14,6 +14,7 @@ topics:
 featured_image:
   uid: money-adventure-welcome-screen
   alt:
+
 ---
 
 In 2016, the Federal Reserve Board’s [U.S. Currency Education Program](https://www.uscurrency.gov/about-us) (CEP) began its search for an innovative way to teach young students about Federal Reserve notes. When researching how elementary-aged students learn new topics in the classroom, we noticed a strong trend in effective mobile-based instruction. We then identified which mobile technologies teachers use in American classrooms.
@@ -28,4 +29,4 @@ Money Adventure facilitates a playful learning environment, similar to [Currency
 
 {{< img src="money-adventure-buck" >}}
 
-The app is currently available for download on the [Apple App Store](https://itunes.apple.com/us/app/money-adventure/id1446642877). After download, the app is fully usable without an internet connection. The Android version is scheduled to launch in late 2019.
+The app is currently available for download on Apple's [App Store](https://itunes.apple.com/us/app/money-adventure/id1446642877). After download, the app is fully usable without an internet connection. The Android version is scheduled to launch in late 2019.
