@@ -50,7 +50,7 @@ We do our best to keep the list current based on information we get from agencie
  * [SmartCheck.gov](https://www.smartcheck.gov) (Drupal 8)
  * [Whistleblower.gov](https://www.whistleblower.gov) (Drupal 8)
 
-[Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) (WordPress/PHP)
+[Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) (Wagtail)
 
 [Consumer Product Safety Commission](http://www.cpsc.gov/) (EpiServer)
 

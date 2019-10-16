@@ -3,7 +3,7 @@ slug: using-neural-machine-translation-for-multilingual-communication
 title: 'Using Neural Machine Translation for Multilingual Communication'
 summary: 'With the sharp improvement in machine translation quality, the variety of government use cases for this technology has evolved&#46;'
 featured_image:
-  uid:
+  uid: multilingual-neural-machine-translation
   alt: ''
 event_type:
   - Zoom
@@ -16,6 +16,8 @@ registration_url: https://www.eventbrite.com/e/using-neural-machine-translation-
 ---
 
 _[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4171409&CustomerID=321)_
+
+{{< img src="multilingual-neural-machine-translation" >}}
 
 A new type of Artificial Intelligence (AI) technology, called Neural Machine Translation (NMT), is quickly earning the attention of multilingual communities. This software is helping to expedite the translation process and has the potential to open government information to more non-English languages. 
 
@@ -33,7 +35,7 @@ For 20+ years, Beth has led business development efforts and program execution t
 - [Systran Translation Tool](https://translate.systran.net/translationTools/text)
 - [Designing for Translation](https://digital.gov/2018/12/20/designing-for-translation/)
 
-_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
+_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
 
 ---
 
@@ -41,4 +43,4 @@ _This talk is hosted by the [Multilingual Community of Practice]
 (https://digital.gov/communities/multilingual/) and Digital.gov. 
 Our team will send a reminder email prior to the event that includes your link to join the video_
 
-_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._ 
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._
