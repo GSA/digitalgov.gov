@@ -7,7 +7,6 @@ require('./config/gulp/img-commit');
 
 require('./config/gulp/uswds');
 
-
 // Image Process tasks
 gulp.task("img-prep", gulp.series('mkdir'));
 gulp.task("img-process", gulp.series(gulp.parallel('img-variants', 'img-proxy')));

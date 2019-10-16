@@ -52,6 +52,7 @@
     "path": "^0.12.7",
     "postcss": "^7.0.18",
     "postcss-uncss": "^0.16.1",
+    "sharp": "^0.23.1",
     "uncss": "^0.16.2",
     "uswds": "^2.2.1",
     "uswds-gulp": "github:uswds/uswds-gulp",
