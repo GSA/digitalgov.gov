@@ -1,25 +1,9 @@
 {{ define "content" }}
 
 <main role="main">
+  {{- partial "core/guides/hero" . -}}
+
   <article>
-    <header>
-      <div class="grid-container grid-container-widescreen">
-        <div class="grid-row ">
-          <div class="grid-col-12">
-
-            {{/* Page Title */}}
-            <h1>{{- .Title | markdownify -}} </h1>
-
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
-
-          </div>
-        </div>
-      </div>
-    </header>
-
     {{ if .Content }}
     <section class="content">
       <div class="grid-container grid-container-widescreen">

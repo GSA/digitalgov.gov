@@ -1,32 +1,25 @@
 {{ define "content" }}
 
 <main role="main">
+
+  {{- partial "core/guides/hero" . -}}
+
   <article class="guide">
-    <header>
-      <div class="grid-container grid-container-widescreen">
-        <div class="grid-row">
-          <div class="grid-col-12">
 
-            <p class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span> </a></p>
+    {{/* Page Title */}}
+    <h1>{{- .Title | markdownify -}} </h1>
 
-            {{/* Page Title */}}
-            <h1 class="font-sans-2xl text-heavy margin-y-0">{{ .Title | markdownify }}</h1>
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck font-sans-xl text-light">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
-            {{/* {{ partial "last-updated" . }} */}}
-          </div>
-        </div>
-      </div>
-    </header>
+    {{/* Deck */}}
+    {{- if .Params.deck -}}
+    <div class="deck">{{- .Params.deck | markdownify -}}</div>
+    {{- end -}}
 
     <section>
       <div class="grid-container grid-container-widescreen">
         <div class="grid-row grid-gap-4">
 
           <div class="grid-col-12 tablet-lg:grid-col-3">
-            {{ partial "core/guides/guide-nav" . }}
+            `{{- partial "core/guides/guide-nav" . -}}`
           </div>
 
           <div class="grid-col-12 tablet-lg:grid-col-8">
@@ -40,4 +33,4 @@
     </section>
   </article>
 </main>
-{{ end }} {{/* end 'content' block */}}
+{{- end -}} {{/* end 'content' block */}}
