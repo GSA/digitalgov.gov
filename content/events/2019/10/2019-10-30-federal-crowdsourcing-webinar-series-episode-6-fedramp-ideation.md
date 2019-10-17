@@ -18,7 +18,7 @@ aliases:
 
 ---
 
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4194557&CustomerID=321)_
+_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4205794&CustomerID=321)_
 
 
 {{< img src="challengegov-card-episode-6" >}}
