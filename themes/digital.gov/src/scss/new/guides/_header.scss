@@ -1,11 +1,7 @@
 // Guide Header
 .guide{
 	header.usa-header{
-		background: pink;
-		.usa-navbar{
-			@include u-maxw('widescreen');
-		}
-		.usa-nav .usa-nav__inner{
+		.usa-nav-container{
 			@include u-maxw('widescreen');
 		}
 	}

@@ -1,6 +1,6 @@
 // Header
 
-.usa-header--extended {
+.usa-header {
 	@include u-bg('white');
 	.usa-navbar{
 		@include u-bg('primary-darker');
@@ -17,7 +17,8 @@
 				@include u-text('black');
 			}
 			img{
-				@include u-margin-right(1);
+				@include u-margin-right('2px');
+				@include u-padding('2px');
 				@include u-width(3);
 				@include at-media('tablet') {
 					@include u-width(4);
@@ -41,7 +42,7 @@
 				@include u-line-height('sans', 1);
 				@include u-text('bold');
 				@include at-media('tablet') {
-					@include u-font('sans', '2xl');
+					@include u-font('sans', 'xl');
 				}
 			}
 
