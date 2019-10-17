@@ -1,11 +1,13 @@
 ---
 date: 2019-07-31 09:00:00 -0500
 title: "Guidelines for Sharing DAP Data"
-deck: ""
+deck: "Any data appearing on our public dashboard data appearing on our public dashboard"
 summary: ""
 type: guide
 guide: dap
 ---
+
+
 
 ## Data that is publicly shareable
 Any data appearing on our public dashboard ([analytics.usa.gov](https://analytics.usa.gov/)) can be freely communicated or shared. We also [offer an API](https://open.gsa.gov/api/dap/) for the data behind [analytics.usa.gov](https://analytics.usa.gov/), which is powered by a wealth of data from the Digital Analytics Program (DAP) Google Analytics account.

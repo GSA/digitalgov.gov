@@ -73,7 +73,7 @@ main{
 
 	// Base Article Styles
 	article{
-		@include u-margin-bottom(5);
+		@include u-margin-y(5);
 		.meta{
 			@include u-display('block');
 			@include at-media('tablet-lg') {

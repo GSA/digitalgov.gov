@@ -305,9 +305,9 @@ $theme-type-scale-2xs:      3;
 $theme-type-scale-xs:       4;
 $theme-type-scale-sm:       5;
 $theme-type-scale-md:       7;
-$theme-type-scale-lg:       9;
+$theme-type-scale-lg:       10;
 $theme-type-scale-xl:       11;
-$theme-type-scale-2xl:      13;
+$theme-type-scale-2xl:      14;
 $theme-type-scale-3xl:      15;
 
 /*
@@ -411,12 +411,12 @@ $theme-display-font-size:          '3xl';
 
 // Text and prose
 $theme-text-measure-narrow:        1;
-$theme-text-measure:               4;
+$theme-text-measure:               5;
 $theme-text-measure-wide:          6;
 $theme-prose-font-family:          'body';
 
 // Lead text
 $theme-lead-font-family:           'heading';
-$theme-lead-font-size:             'lg';
-$theme-lead-line-height:           6;
-$theme-lead-measure:               6;
+$theme-lead-font-size:             'xl';
+$theme-lead-line-height:           2;
+$theme-lead-measure:               5;
