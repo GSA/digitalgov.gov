@@ -1,36 +1,5 @@
-// Guide Nav
-.guide-nav{
-	@include u-margin-y(5);
-	@include u-padding-left(3);
-	li{
-		@include u-margin-bottom(2);
-		@include u-font('sans', 'md');
-		@include u-line-height('sans', 3);
-		h2{
-			@include u-margin-y(0);
-			@include u-margin-bottom('05');
-			@include u-font('sans', 'lg');
-			@include u-line-height('sans', 2);
-		}
-		p{
-			@include u-margin-y(0);
-			@include u-text('light');
-			@include u-line-height('sans', 3);
-		}
-		a{
-			@include u-text('no-underline');
-			@include u-text('indigo-warm-70');
-			@include u-text('bold');
-			&:hover{
-				@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
-			}
-		}
-	}
-}
-
 .guide-nav-box {
-
-	.usa-sidenav{
+	.guide-nav{
 		@include u-margin-bottom(3);
 		@include u-radius('md');
 		@include u-border('2px', 'base-lighter', 'solid');

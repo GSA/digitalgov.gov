@@ -1,7 +1,7 @@
 // Guide Header
-
-
 .guide{
+
+	// Gov banner — makes it widescreen
 	.gov-banner{
 		.usa-banner__inner{
 			@include u-maxw('widescreen');
@@ -10,14 +10,85 @@
 			@include u-maxw('widescreen');
 		}
 	}
+	// Header — makes it widescreen
 	header.usa-header{
 		.usa-nav-container{
 			@include u-maxw('widescreen');
 		}
 	}
 
+
+
+	// ================
+
 	main{
 		@include u-padding(0);
 	}
 
+	// ================
+	// navigation tricks
+	.usa-header{
+		.usa-nav{
+			@include at-media('tablet') {
+				@include u-display('none');
+			}
+			.usa-nav__primary{
+				@include u-order(2);
+			}
+			.guide-nav{
+				@include u-order(0);
+			}
+			.usa-search{
+				@include u-order(1);
+			}
+		}
+	}
+}
+
+
+.guide{
+	// ================
+	// Header styles
+	header.usa-header{
+		@include u-bg('base-lightest');
+		background-image: url('../guides/dap-wide.png');
+		background-position: bottom right;
+		background-repeat: no-repeat;
+		background-size: 200px 200px;
+		@include at-media('tablet') {
+			background-size: 508px;
+		}
+
+		@include u-minh('mobile');
+	}
+	.hero{
+		@include u-padding-y(3);
+		// If is the guide home
+		h1{
+			@include u-font('sans', '3xl');
+			@include u-text('heavy');
+			@include u-text('primary-darker');
+			a{
+				@include u-text('primary-darker');
+				@include u-text('no-underline');
+			}
+		}
+		h2{
+			@include u-font('sans', 'lg');
+			@include u-text('heavy');
+			a{
+				@include u-text('primary-darker');
+				@include u-text('no-underline');
+			}
+		}
+		.deck{
+			@include u-margin(0);
+			@include u-margin-top('05');
+			@include u-font('sans', 'xl');
+			@include u-text('thin');
+			@include u-text('primary-dark');
+			@include u-line-height('sans', 2);
+			@include u-maxw('desktop');
+		}
+	}
 }

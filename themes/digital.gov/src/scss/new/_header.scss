@@ -38,11 +38,11 @@
 			}
 			span{
 				@include u-padding-bottom(0);
-				@include u-font('sans', 'xl');
+				@include u-font('sans', 'md');
 				@include u-line-height('sans', 1);
 				@include u-text('bold');
 				@include at-media('tablet') {
-					@include u-font('sans', 'xl');
+					@include u-font('sans', 'lg');
 				}
 			}
 

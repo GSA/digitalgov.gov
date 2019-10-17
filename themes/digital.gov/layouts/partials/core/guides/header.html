@@ -29,6 +29,22 @@
         {{- end -}}
       </ul><!-- .nav -->
 
+      <ul class="guide-nav usa-nav__primary usa-accordion">
+        <li>
+          <a href="{{- .CurrentSection.URL | relURL -}}" title="{{- .Title -}}">Overview</a>
+        </li>
+        {{- $current := . -}}
+        {{- $current_url := .Parent.URL -}}
+        {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
+        {{- range sort ($guidepages) ".Params.weight" "desc" -}}
+          {{- if not (eq $current_url .URL) -}}
+            <li class="usa-nav__primary-item {{- if eq $current.URL .URL -}}usa-current{{- end -}}"><a class="usa-nav__link" href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a></li>
+          {{- end -}}
+
+        {{- end -}}
+      </ul>
+
+
       <form class="usa-search usa-search--small ">
         <div role="search">
           <label class="usa-sr-only" for="basic-search-field-small">Search small</label>
@@ -37,5 +53,23 @@
         </div>
       </form>
     </nav>
+  </div>
+
+  <div class="hero">
+
+    <div class="grid-container-widescreen">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          {{/* Page Title */}}
+          <h1><a href="{{- .Parent.Permalink -}}" title="{{- .Parent.Title -}}">{{- .Parent.Title -}}</a></h1>
+
+          {{/* Deck */}}
+          {{- if .Parent.Params.deck -}}
+          <div class="deck">{{- .Parent.Params.deck | markdownify -}}</div>
+          {{- end -}}
+        </div>
+      </div>
+    </div>
+
   </div>
 </header>
