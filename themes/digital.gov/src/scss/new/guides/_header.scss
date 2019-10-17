@@ -17,6 +17,19 @@
 		}
 	}
 
+	header.usa-header{
+		.usa-logo__text{
+			.home{
+				@include u-margin-top('05');
+				@include u-margin-left('105');
+				@include u-padding-y('05');
+				@include u-padding-x(1);
+				@include u-text('thin');
+				@include u-font('sans', 'md');
+				@include u-border-left('1px', 'black', 'solid');
+			}
+		}
+	}
 
 
 	// ================
