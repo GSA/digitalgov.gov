@@ -1,5 +1,15 @@
 // Guide Header
+
+
 .guide{
+	.gov-banner{
+		.usa-banner__inner{
+			@include u-maxw('widescreen');
+		}
+		.usa-banner__content{
+			@include u-maxw('widescreen');
+		}
+	}
 	header.usa-header{
 		.usa-nav-container{
 			@include u-maxw('widescreen');
