@@ -14,16 +14,6 @@
         <div class="grid-col-12 tablet-lg:grid-col-8">
           <div class="usa-layout-docs__main usa-prose">
 
-            <div class="page-head">
-              {{/* Page Title */}}
-              <h1>{{- .Title | markdownify -}} </h1>
-
-              {{/* Deck */}}
-              {{- if .Params.deck -}}
-              <div class="usa-intro">{{- .Params.deck | markdownify -}}</div>
-              {{- end -}}
-            </div>
-
             {{ .Content }}
 
           </div>

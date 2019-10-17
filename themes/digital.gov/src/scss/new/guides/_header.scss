@@ -20,38 +20,4 @@
 		@include u-padding(0);
 	}
 
-	.hero{
-		@include u-padding-y(8);
-		@include u-bg('base-lightest');
-		// If is the guide home
-		h1{
-			@include u-font('sans', '3xl');
-			@include u-text('heavy');
-			@include u-text('primary-darker');
-		}
-		.deck{
-			@include u-margin(0);
-			@include u-margin-top('05');
-			@include u-font('sans', '2xl');
-			@include u-text('thin');
-			@include u-text('primary-dark');
-			@include u-line-height('sans', 2);
-			@include u-maxw('desktop');
-		}
-	}
-
-	.hero-page{
-		@include u-padding-y(4);
-		h2{
-			@include u-font('sans', '2xl');
-			@include u-text('heavy');
-			a{
-				@include u-text('primary-darker');
-				@include u-text('no-underline');
-			}
-		}
-		.deck{
-			@include u-font('sans', 'xl');
-		}
-	}
 }
