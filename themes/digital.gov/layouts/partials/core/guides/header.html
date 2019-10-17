@@ -62,11 +62,23 @@
       <div class="grid-row">
         <div class="grid-col-12">
           {{/* Page Title */}}
-          <h1><a href="{{- $current.Parent.Permalink -}}" title="{{- $current.Parent.Title -}}">{{- $current.Parent.Title -}}</a></h1>
+          {{- if eq .Kind "section" -}}
+            <h1>{{- .Title -}}</h1>
 
-          {{/* Deck */}}
-          {{- if $current.Parent.Params.deck -}}
-          <div class="deck">{{- $current.Parent.Params.deck | markdownify -}}</div>
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+
+          {{- else -}}
+
+            <h1><a href="{{- $current.Parent.Permalink -}}" title="{{- $current.Parent.Title -}}">{{- $current.Parent.Title -}}</a></h1>
+
+            {{/* Deck */}}
+            {{- if $current.Parent.Params.deck -}}
+            <div class="deck">{{- $current.Parent.Params.deck | markdownify -}}</div>
+            {{- end -}}
+            
           {{- end -}}
         </div>
       </div>
