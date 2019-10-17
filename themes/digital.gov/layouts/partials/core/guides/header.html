@@ -62,11 +62,11 @@
       <div class="grid-row">
         <div class="grid-col-12">
           {{/* Page Title */}}
-          <h1><a href="{{- .Parent.Permalink -}}" title="{{- .Parent.Title -}}">{{- .Parent.Title -}}</a></h1>
+          <h1><a href="{{- $current.Parent.Permalink -}}" title="{{- $current.Parent.Title -}}">{{- $current.Parent.Title -}}</a></h1>
 
           {{/* Deck */}}
-          {{- if .Parent.Params.deck -}}
-          <div class="deck">{{- .Parent.Params.deck | markdownify -}}</div>
+          {{- if $current.Parent.Params.deck -}}
+          <div class="deck">{{- $current.Parent.Params.deck | markdownify -}}</div>
           {{- end -}}
         </div>
       </div>
