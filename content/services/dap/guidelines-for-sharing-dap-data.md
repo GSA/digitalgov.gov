@@ -1,7 +1,7 @@
 ---
 date: 2019-07-31 09:00:00 -0500
 title: "Guidelines for Sharing DAP Data"
-deck: "Any data appearing on our public dashboard data appearing on our public dashboard"
+deck: ""
 summary: ""
 type: guide
 guide: dap
