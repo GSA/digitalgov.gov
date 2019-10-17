@@ -21,11 +21,11 @@ Digital Analytics Program Manager, Kelley Holden, works on the Data Science and 
 
 ---
 
-**This talk is hosted by the TTS Research Guild and [Digital.gov](https://digital.gov/). The [TTS Research Guild](https://github.com/18F/g-research) is a GSA-local community of practice for design researchers and design research enthusiasts led by Ben Peterson (another person to co-lead the guild is yet to be determined).**
+_This talk is hosted by the TTS Research Guild and [Digital.gov](https://digital.gov/). The [TTS Research Guild](https://github.com/18F/g-research) is a GSA-local community of practice for design researchers and design research enthusiasts led by Ben Peterson (another person to co-lead the guild is yet to be determined)._
 
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
 
 If using __Zoom__, include: 
-**This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))**
+_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
