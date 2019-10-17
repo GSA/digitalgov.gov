@@ -4,39 +4,37 @@
 
   {{- partial "core/guides/hero" . -}}
 
-  <article class="guide">
+  <article>
+    <div class="grid-container grid-container-widescreen">
+      <div class="grid-row grid-gap-4">
 
-    <section>
-      <div class="grid-container grid-container-widescreen">
-        <div class="grid-row grid-gap-4">
+        <div class="grid-col-12 tablet-lg:grid-col-2">
+          {{- partial "core/guides/guide-nav" . -}}
+        </div>
 
-          <div class="grid-col-12 tablet-lg:grid-col-2">
-            {{- partial "core/guides/guide-nav" . -}}
+        <div class="grid-col-12 tablet-lg:grid-col-9">
+          <div class="usa-layout-docs__main usa-prose">
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}} </h1>
+
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+
+            {{ .Content }}
+
           </div>
 
-          <div class="grid-col-12 tablet-lg:grid-col-9">
-            <div class="usa-layout-docs__main usa-prose">
-              {{/* Page Title */}}
-              <h1>{{- .Title | markdownify -}} </h1>
-
-              {{/* Deck */}}
-              {{- if .Params.deck -}}
-              <div class="deck">{{- .Params.deck | markdownify -}}</div>
-              {{- end -}}
-
-              {{ .Content }}
-
-            </div>
-
-            <div class="content">
-              {{ .Content }}
-            </div>
-
+          <div class="content">
+            {{ .Content }}
           </div>
 
         </div>
+
       </div>
-    </section>
+    </div>
   </article>
+  
 </main>
 {{- end -}} {{/* end 'content' block */}}

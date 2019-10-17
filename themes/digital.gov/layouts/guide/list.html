@@ -4,46 +4,36 @@
   {{- partial "core/guides/hero" . -}}
 
   <article>
-    {{ if .Content }}
-    <section class="content">
-      <div class="grid-container grid-container-widescreen">
-        <div class="grid-row">
-          <div class="grid-col-9">
+    <div class="grid-container grid-container-widescreen">
+      <div class="grid-row grid-gap-4">
+
+        <div class="grid-col-12 tablet-lg:grid-col-2">
+          {{- partial "core/guides/guide-nav" . -}}
+        </div>
+
+        <div class="grid-col-12 tablet-lg:grid-col-9">
+          <div class="usa-layout-docs__main usa-prose">
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}} </h1>
+
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+
+            {{ .Content }}
+
+          </div>
+
+          <div class="content">
             {{ .Content }}
           </div>
+
         </div>
+
       </div>
-    </section>
-    {{ end }}
-
-    {{ if .Params.guide }}
-    <section>
-      <div class="grid-container grid-container-widescreen">
-        <div class="grid-row grid-gap-4">
-          <div class="grid-col-12 tablet:grid-col-9">
-            <ul class="guide-nav">
-            {{/* Gets the current page URL */}}
-            {{ $current_url := .URL }}
-
-            {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
-            {{ range $i, $e := sort ($guidepages) ".Params.weight" "desc" }}
-
-              {{/* If $current_url is NOT equal to the URL, then print the page */}}
-              {{ if not (eq $current_url $e.URL) }}
-                <li>
-                  <h2><a href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">{{- $e.Title | markdownify -}}</a></h2>
-                  {{- if $e.Params.deck -}}<p>{{- $e.Params.deck | markdownify -}}</p>{{- end -}}
-                </li>
-              {{ end }}
-
-            {{ end }}
-            </ul>
-          </div>
-        </div>
-      </div>
-    </section>
-    {{ end }}
-
+    </div>
   </article>
+  
 </main>
 {{ end }} {{/* end 'content' block */}}
