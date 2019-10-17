@@ -2,7 +2,7 @@
   <nav aria-label="Secondary navigation">
     <ul class="usa-sidenav">
       <li>
-        <a href="{{ .Parent.Permalink | relURL }}" title="{{ .Title }}">Overview</a>
+        <a href="{{- .CurrentSection.URL | relURL -}}" title="{{- .Title -}}">Overview</a>
       </li>
       {{- $current := . -}}
       {{- $current_url := .Parent.URL -}}
@@ -16,7 +16,7 @@
     </ul>
     <div class="toc">
       <h4>In this page</h4>
-      {{ .TableOfContents }}
+      {{- .TableOfContents -}}
     </div>
   </nav>
 </aside>
