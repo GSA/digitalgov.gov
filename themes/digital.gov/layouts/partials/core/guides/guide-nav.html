@@ -1,30 +1,22 @@
+<aside class="guide-nav-box usa-layout-docs__sidenav">
+  <nav aria-label="Secondary navigation">
+    <ul class="usa-sidenav">
+      <li>
+        <a href="{{ .Parent.Permalink | relURL }}" title="{{ .Title }}">Overview</a>
+      </li>
+      {{- $current := . -}}
+      {{- $current_url := .Parent.URL -}}
+      {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
+      {{- range sort ($guidepages) ".Params.weight" "desc" -}}
+        {{- if not (eq $current_url .URL) -}}
+          <li><a class="{{- if eq $current.URL .URL -}}usa-current{{- end -}}" href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></li>
+        {{- end -}}
 
-<div class="guide-nav-box">
-  {{ if .Params.guide }}
-  <div class="guide-title">
-    <h4><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h4>
-    <p>{{ .Parent.Params.deck }}</p>
-  </div>
-
-  {{ $current_url := .Parent.URL }}
-
-  <ul class="guide-nav">
-    <li><a href="{{ .Parent.Permalink | relURL }}" title="{{ .Title }}">Overview</a></li>
-    {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
-    {{ range sort ($guidepages) ".Params.weight" "desc" }}
-
-      {{/* If $current_url is equal to the URL, then print the page and give it the title of "Overview" */}}
-      {{- if not (eq $current_url .URL) -}}
-        <li><a href="{{ .Permalink | relURL }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></li>
       {{- end -}}
-
-    {{ end }}
-  </ul>
-
-  {{ end }}
-
-  <div class="toc">
-    <h4>In this page</h4>
-    {{ .TableOfContents }}
-  </div>
-</div>
+    </ul>
+    <div class="toc">
+      <h4>In this page</h4>
+      {{ .TableOfContents }}
+    </div>
+  </nav>
+</aside>
