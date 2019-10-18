@@ -22,13 +22,23 @@ Hyejin Hickey and Christina Lantuh will share details of the NLSC—an agile, fl
 
 **Christina Lantuh** is a policy analyst with experience in military personnel programs. Within the past five years, she has supported the Defense Threat Reduction Agency, Office of Warrior Care, and the Defense Language and National Security Education Office’s National Language Service Corps. Her educational background is in Policy Analysis and Management, and she is currently pursuing a law degree.
 
-**Hyejin Hickey** is a language acquisition professional with expertise in military foreign language education. Within the past 12 years, she has supported the U.S. Special Operations Command’s Special Warfare Center and School, U.S. Army 1-1 Special Forces Group and Detachment 1, and U.S. Air Force 43rd Intelligence Squadron in Okinawa, Japan. Currently, she supports the Defense Language and National Security Education Office’s National Language Service Corps as the Partner Support Liaison Lead.
+**Hyejin Hickey** is a language acquisition professional with expertise in military foreign language education. Within the past 12 years, she has supported the U.S. Special Operations Command’s Special Warfare Center and School, U.S. Army 1-1 Special Forces Group and Detachment 1, and U.S. Air Force 43rd Intelligence Squadron in Okinawa, Japan. Currently, she supports the Defense Language and National Security Education Office’s National Language Service Corps as the Partner Support Liaison Lead. 
+
+## Related NLSC Links: 
+
+- [Mission and Vision](https://www.nlscorps.org/about.html) 
+- [History](https://www.nlscorps.org/about.html#History) 
+- [Governance](https://www.nlscorps.org/about.html#Governance) 
+- [Historical Documents](https://www.nlscorps.org/about.html#HD) 
+- [Shareable Media](https://www.nlscorps.org/about.html#Media) 
+- [National Security Education Program](https://www.nsep.gov) (NSEP)
 
 ---
 
-*This talk is hosted by the Multilingual Community of Practice and Digital.gov.*
+*This talk is hosted by the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/) and Digital.gov.* 
+
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
 
-This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._ 
