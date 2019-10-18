@@ -72,7 +72,7 @@
 
 	nav.usa-nav{
 		.usa-nav__primary > .usa-nav__primary-item{
-			@include u-font('sans', 'md');
+			@include u-font('sans', 'sm');
 			a{
 				@include u-text('black');
 				&:hover{

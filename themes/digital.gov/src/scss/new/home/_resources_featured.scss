@@ -41,14 +41,14 @@
     p{
       @include u-margin-top(1);
       @include u-text('primary-dark');
-      @include u-font('sans', 'lg');
+      @include u-font('sans', 'md');
       @include u-line-height('sans', 3);
       @include u-text('thin');
       @include at-media('tablet-lg') {
         @include u-text('light');
         @include u-margin-top('105');
         @include u-text('accent-warm');
-        @include u-font('sans', 'md');
+        @include u-font('sans', 'sm');
       }
     }
   }

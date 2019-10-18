@@ -61,7 +61,7 @@
     padding: 20px;
     @include u-z('top');
     @include u-display('block');
-    @include u-font('sans', 'md');
+    @include u-font('sans', 'sm');
     @include u-circle(9);
     @include u-bg('blue-40v');
     @include u-text('white');

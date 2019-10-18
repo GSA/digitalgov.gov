@@ -9,7 +9,7 @@
   @include u-radius('md');
   h3{
     @include u-margin(0);
-    @include u-font('sans', 'md');
+    @include u-font('sans', 'sm');
     @include u-line-height('sans', 2);
     @include u-display('inline');
     z-index: 2;
@@ -98,7 +98,7 @@
   @include u-minh(0);
   @include at-media('tablet') {
     @include u-margin-bottom('105');
-		@include u-minh('card');
+		@include u-minh(15);
 	}
   &:hover{
     @include u-bg('gray-warm-5');
