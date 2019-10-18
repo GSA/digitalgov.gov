@@ -1,6 +1,5 @@
 // Guide Header
 .guide{
-
 	// Gov banner — makes it widescreen
 	.gov-banner{
 		.usa-banner__inner{
@@ -62,23 +61,23 @@
 .guide{
 	// ================
 	// Header styles
-	header.usa-header{
+	header.guide-header{
 		@include u-bg('base-lightest');
 		background-image: url('../guides/dap-wide.png');
 		background-position: bottom right;
 		background-repeat: no-repeat;
 		background-size: 200px 200px;
 		@include at-media('tablet') {
-			background-size: 508px;
+			background-size: 210px;
 		}
 
-		@include u-minh('mobile');
+		@include u-minh('card');
 	}
 	.hero{
 		@include u-padding-y(3);
 		// If is the guide home
 		h1{
-			@include u-font('sans', '3xl');
+			@include u-font('sans', 'xl');
 			@include u-text('heavy');
 			@include u-text('primary-darker');
 			a{
@@ -97,7 +96,7 @@
 		.deck{
 			@include u-margin(0);
 			@include u-margin-top('05');
-			@include u-font('sans', 'xl');
+			@include u-font('sans', 'lg');
 			@include u-text('thin');
 			@include u-text('primary-dark');
 			@include u-line-height('sans', 2);
