@@ -16,8 +16,7 @@ Check out the variety of services available for agencies!
 
 ## eCPIC
 
-The [Electronic Capital Planning and Investment Control (eCPIC)]({{< link "electronic-capital-planning-and-investment-control-ecpic.md" >}} "eCPIC") application, developed to address agency needs for a more organized and transparent approach to IT Capital Planning, is a web-based, government-owned technology solution that Federal Agencies use to support their internal Portfolio Management, IT Capital Planning, and IT Governance processes, and also to meet their external reporting requirements to the Office of Management and Budget (OMB).
-
+The [Electronic Capital Planning and Investment Control (eCPIC)]({{< link "electronic-capital-planning-and-investment-control-ecpic.md" >}} "eCPIC") application was developed to address agency needs for a more organized and transparent approach to IT capital planning. It is a web-based, government-owned, fee-for-service, federal shared software-as-a-service solution. Federal agencies use eCPIC to support their internal IT portfolio management, IT capital planning, and IT governance processes. The eCPIC application also enables agencies to meet their external IT project cost, schedule, risk, and performance reporting requirements to the Office of Management and Budget (OMB) Office of the Chief Information Officer (OFCIO).
 {{< button href="electronic-capital-planning-and-investment-control-ecpic.md" text="Get Started" >}}
 
 ## Data.gov
