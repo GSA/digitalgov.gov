@@ -3,8 +3,8 @@
     <ul class="usa-sidenav guide-nav">
       {{- $current := . -}}
       {{- $current_url := $current.URL -}}
-      <li class="{{- if eq .Kind "section" -}}usa-current{{- end -}}">
-        <a href="{{- .CurrentSection.URL | relURL -}}" title="{{- .Title -}}">Overview</a>
+      <li>
+        <a class="{{- if eq .Kind "section" -}}usa-current{{- end -}}" href="{{- .CurrentSection.URL | relURL -}}" title="{{- .Title -}}">Overview</a>
       </li>
       {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
       {{- range sort ($guidepages) ".Params.weight" "desc" -}}
@@ -14,9 +14,5 @@
 
       {{- end -}}
     </ul>
-    <div class="toc">
-      <h4>In this page</h4>
-      {{- .TableOfContents -}}
-    </div>
   </nav>
 </aside>

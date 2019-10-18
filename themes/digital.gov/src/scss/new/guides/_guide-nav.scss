@@ -8,7 +8,7 @@
 			a{
 				@include u-text('black');
 				&:hover{
-					@include u-bg('primary-light');
+					@include u-bg('primary-lighter');
 					@include u-text('underline');
 				}
 			}

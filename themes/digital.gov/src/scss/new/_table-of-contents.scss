@@ -1,21 +1,15 @@
 // Table of Contents
 
 .toc{
-	@include u-margin-bottom('205');
-	@include u-padding-x(1);
-	h4{
-		@include u-margin(0);
-		@include u-margin-bottom(1);
-	}
+	@include u-margin-y(6);
+	@include u-padding-bottom(4);
+	@include u-border-top('1px', 'base-lighter', 'solid');
+	@include u-border-bottom('1px', 'base-lighter', 'solid');
 	ul{
 		@include u-padding-left(2);
 		li{
 			@include u-margin-bottom(1);
-			@include u-font('sans', '2xs');
-			@include u-line-height('sans', 2);
 			a{
-				@include u-text('primary-darkest');
-				@include u-text('no-underline');
 				&:hover{
 					@include u-text('underline');
 				}

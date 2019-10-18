@@ -21,6 +21,14 @@
               {{- if .Params.deck -}}
               <div class="usa-intro">{{- .Params.deck | markdownify -}}</div>
               {{- end -}}
+
+              {{- if .TableOfContents -}}
+              <div class="toc">
+                <h2>In this page</h2>
+                {{- .TableOfContents -}}
+              </div>
+              {{- end -}}
+
             </div>
 
             {{ .Content }}
