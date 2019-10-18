@@ -15,7 +15,7 @@ tag:
 
 Accessibility testing is a subset of usability testing and is the inclusive practice of making websites and mobile applications usable by people of all abilities and disabilities. You do this by testing mobile websites and/or applications on all leading browsers, mobile devices and screen readers.
 
-This article was developed as part of the [Mobile Application Development Program](https://digitalgov.sites.usa.gov/resources/mobile-application-development-program/ "Mobile Application Development Program"). See our [general guidelines to testing](https://digitalgov.sites.usa.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") article for more resources on mobile product testing.
+This article was developed as part of the [Mobile Application Development Program](https://digital.gov/resources/mobile-application-development-program/ "Mobile Application Development Program"). See our [general guidelines to testing](https://digital.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") article for more resources on mobile product testing.
 
 ## <a name="x-Government Guidance"></a>Government Guidance {#toc0}
 
@@ -45,8 +45,6 @@ Listed below are resources available that further describe and conduct accessibi
   * <a href="http://webaim.org/" rel="nofollow">WebAIM</a> &#8211; non-profit website with comprehensive web accessibility resources.
   * <a href="http://mobiforge.com/developing/story/why-mobile-web-accessibility-matters-best-practices-make-your-mobile-site-accessibl" rel="nofollow">Why Mobile Web Accessibility Matters</a> &#8211; article discussing best practices to make a mobile site accessible.
 
- 
-
 ### <a name="x-Resources Available-Testing Services"></a>Testing Services {#toc3}
 
 These services/companies or web sites are offered as a sample of what is currently available and do not indicate an endorsement of them or their products and/or services. Agencies should consult their Accessibility experts about other mobile accessibility tools.
@@ -61,8 +59,6 @@ These services/companies or web sites are offered as a sample of what is current
   * <a href="http://validator.w3.org/" rel="nofollow">W3C Markup Validation Service</a>
   * <a href="http://wave.webaim.org/" rel="nofollow">Wave</a>
   * <a href="http://devel.freebsoft.org/wahelper" rel="nofollow">WA Helper</a>
-
- 
 
 ## <a name="x-Test Plans/Checklists available on GitHub"></a>Test Plans/Checklists available on GitHub {#toc4}
 
