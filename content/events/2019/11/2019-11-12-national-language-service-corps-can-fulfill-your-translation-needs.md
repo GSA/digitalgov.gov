@@ -26,7 +26,7 @@ Hyejin Hickey and Christina Lantuh will share details of the NLSC—an agile, fl
 
 ---
 
-__This talk is hosted by the Multilingual Community of Practice and Digital.gov.__
+*This talk is hosted by the Multilingual Community of Practice and Digital.gov.*
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
