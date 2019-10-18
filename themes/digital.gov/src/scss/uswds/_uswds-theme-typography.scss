@@ -399,9 +399,9 @@ $theme-body-line-height:           4;
 $theme-style-body-element:         true;
 
 // Headings
-$theme-h1-font-size:               '2xl';
-$theme-h2-font-size:               'xl';
-$theme-h3-font-size:               'lg';
+$theme-h1-font-size:               'xl';
+$theme-h2-font-size:               'lg';
+$theme-h3-font-size:               'md';
 $theme-h4-font-size:               'sm';
 $theme-h5-font-size:               'xs';
 $theme-h6-font-size:               '2xs';
@@ -417,6 +417,6 @@ $theme-prose-font-family:          'body';
 
 // Lead text
 $theme-lead-font-family:           'heading';
-$theme-lead-font-size:             'xl';
+$theme-lead-font-size:             'lg';
 $theme-lead-line-height:           3;
 $theme-lead-measure:               5;

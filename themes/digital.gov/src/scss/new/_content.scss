@@ -1,7 +1,6 @@
 // Content settings
 
 .content{
-
   a{
     @include u-text('no-underline');
     &:hover{
@@ -18,7 +17,6 @@
     margin-left: .25rem;
     width: .65em;
   }
-
 
   h1{
     @include u-display('none');

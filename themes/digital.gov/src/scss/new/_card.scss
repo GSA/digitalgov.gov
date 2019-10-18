@@ -20,7 +20,7 @@
 	}
 	h3{
 		@include u-margin(0);
-		@include u-font('sans', 'sm');
+		@include u-font('sans', 'md');
 		@include u-text('bold');
 		a{
 			@include u-text('indigo-warm-80');

@@ -48,7 +48,7 @@
 	// Header styles
 
 	.hero{
-		@include u-padding-y(3);
+		@include u-padding-y(5);
 		@include u-bg('base-lightest');
 		background-image: url('../guides/dap-wide.png');
 		background-position: bottom right;
