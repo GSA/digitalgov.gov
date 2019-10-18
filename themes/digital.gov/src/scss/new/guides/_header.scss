@@ -16,21 +16,6 @@
 		}
 	}
 
-	header.usa-header{
-		.usa-logo__text{
-			.home{
-				@include u-margin-top('05');
-				@include u-margin-left('105');
-				@include u-padding-y('05');
-				@include u-padding-x(1);
-				@include u-text('thin');
-				@include u-font('sans', 'md');
-				@include u-border-left('1px', 'black', 'solid');
-			}
-		}
-	}
-
-
 	// ================
 
 	main{
@@ -39,29 +24,31 @@
 
 	// ================
 	// navigation tricks
-	.usa-header{
-		.usa-nav{
-			@include at-media('tablet') {
-				@include u-display('none');
-			}
-			.usa-nav__primary{
-				@include u-order(2);
-			}
-			.guide-nav{
-				@include u-order(0);
-			}
-			.usa-search{
-				@include u-order(1);
-			}
-		}
-	}
+	// .usa-header{
+	// 	.usa-nav{
+	// 		@include at-media('tablet') {
+	// 			@include u-display('none');
+	// 		}
+	// 		.usa-nav__primary{
+	// 			@include u-order(2);
+	// 		}
+	// 		.guide-nav{
+	// 			@include u-order(0);
+	// 		}
+	// 		.usa-search{
+	// 			@include u-order(1);
+	// 		}
+	// 	}
+	// }
 }
 
 
 .guide{
 	// ================
 	// Header styles
-	header.guide-header{
+
+	.hero{
+		@include u-padding-y(3);
 		@include u-bg('base-lightest');
 		background-image: url('../guides/dap-wide.png');
 		background-position: bottom right;
@@ -70,11 +57,6 @@
 		@include at-media('tablet') {
 			background-size: 210px;
 		}
-
-		@include u-minh('card');
-	}
-	.hero{
-		@include u-padding-y(3);
 		// If is the guide home
 		h1{
 			@include u-font('sans', 'xl');

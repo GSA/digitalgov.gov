@@ -4,11 +4,10 @@
     <div class="usa-navbar">
       <div class="usa-logo" id="basic-logo">
         <em class="usa-logo__text">
-          <a href="{{- "/index.html" | absURL -}}" title="{{- .Site.Title }} Home" aria-label="{{- .Site.Title }} Home">
+          <a href="{{- "/index.html" | relURL -}}" title="{{- .Site.Title }} Home" aria-label="{{- .Site.Title }} Home">
             <img class="logo-white" src="{{- "img/digit-100-white.svg" | absURL -}}" alt="{{- .Site.Title -}} Logo" />
             <img class="logo-black" src="{{- "img/digit-100-black.svg" | absURL -}}" alt="{{- .Site.Title -}} Logo" />
             <span>{{- .Site.Title -}}</span>
-            <span class="home">All guides</span>
           </a>
         </em>
       </div>
@@ -29,22 +28,6 @@
           </li>
         {{- end -}}
       </ul><!-- .nav -->
-
-      <ul class="guide-nav usa-nav__primary usa-accordion">
-        <li>
-          <a href="{{- .CurrentSection.URL | relURL -}}" title="{{- .Title -}}">Overview</a>
-        </li>
-        {{- $current := . -}}
-        {{- $current_url := .Parent.URL -}}
-        {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
-        {{- range sort ($guidepages) ".Params.weight" "desc" -}}
-          {{- if not (eq $current_url .URL) -}}
-            <li class="usa-nav__primary-item {{- if eq $current.URL .URL -}}usa-current{{- end -}}"><a class="usa-nav__link" href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}"><span>{{- .Title | markdownify -}}</span></a></li>
-          {{- end -}}
-
-        {{- end -}}
-      </ul>
-
 
       <form class="usa-search usa-search--small ">
         <div role="search">
@@ -72,6 +55,7 @@
 
           {{- else -}}
 
+            {{- $current := . -}}
             <h1><a href="{{- $current.Parent.Permalink -}}" title="{{- $current.Parent.Title -}}">{{- $current.Parent.Title -}}</a></h1>
 
             {{/* Deck */}}
