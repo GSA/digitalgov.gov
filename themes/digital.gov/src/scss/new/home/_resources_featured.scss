@@ -27,7 +27,7 @@
       @include u-padding-bottom(5);
     }
     h2{
-      @include u-font('sans', '2xl');
+      @include u-font('sans', 'xl');
       @include u-text('primary-darker');
       @include u-text('thin');
       @include u-margin-bottom(2);
@@ -35,7 +35,7 @@
         @include u-margin-bottom(0);
         @include u-text('thin');
         @include u-text('white');
-        @include u-font('sans', '2xl');
+        @include u-font('sans', 'xl');
       }
     }
     p{
