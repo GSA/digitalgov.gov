@@ -15,6 +15,7 @@ registration_url: https://www.eventbrite.com/e/an-introduction-to-10x-and-how-to
 youtube_id: EnRVrJz2Ut0
 
 ---
+
 Do you work on a product or service in government that has an effect on the public? Do you have an idea for how to transform a product or service to make the government better or more effective?
 
 {{< img-right src="10x-funded-cover" >}}
