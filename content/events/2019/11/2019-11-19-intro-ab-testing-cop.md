@@ -1,6 +1,6 @@
 ---
 slug: intro-ab-testing-cop
-title: "An Introduction to the A&#x2F;B Testing Community"
+title: "An Introduction to the A&#x2F;B Testing Community of Practice"
 summary: 'We know there are many ways to use A&#x2F;B testing to inform decision making at your agency – this is a quick introduction on the many ways CFPB has used it to improve UX across their website&#46; '
 featured_image: 
   uid: 
@@ -29,5 +29,5 @@ Our team will send a reminder email prior to the event that includes your link t
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
 
-If using __Zoom__, include: 
+If using _Zoom_, include: 
 _This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
