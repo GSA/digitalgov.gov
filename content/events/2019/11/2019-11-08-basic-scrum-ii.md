@@ -3,7 +3,7 @@ slug: basics-scrum-ii
 title: 'Basics of Scrum II'
 summary: ''
 featured_image:
-  uid:
+  uid: agile-scrum-part-2
   alt: ''
 event_type:
   - zoom
@@ -16,4 +16,4 @@ youtube_id:
 
 ---
 
-***Paste body content here. Delete this line**
+{{< img src="agile-scrum-part-2" >}}

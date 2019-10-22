@@ -3,7 +3,7 @@ slug: intro-kanban-i
 title: 'Intro to Kanban I'
 summary: ''
 featured_image:
-  uid:
+  uid: agile-kanban-part-1
   alt: ''
 event_type:
   - zoom
@@ -16,4 +16,4 @@ youtube_id:
 
 ---
 
-***Paste body content here. Delete this line**
+{{< img src="agile-kanban-part-1" >}}
