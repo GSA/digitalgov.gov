@@ -11,7 +11,7 @@ date: 2019-10-22 14:00:00 -0500
 end_date: 2019-10-22 14:30:00 -0500
 event_organizer: DigitalGov University
 host: DevOps COP
-registration_url: https://www.eventbrite.com/e/october-devops-cop-meeting-registration-76962995391
+youtube_id:yHlnAG2UX3Y
 
 ---
 
