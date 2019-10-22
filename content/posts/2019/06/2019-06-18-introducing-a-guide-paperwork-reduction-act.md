@@ -51,7 +51,7 @@ With these barriers decreased, the joint project teams hope to unblock good chan
 
 The PRA Guide was developed with the help of a fund called [10x](https://10x.gsa.gov/), which funds innovative ideas from within government. When OIRA (which handles PRA clearances) heard about this opportunity, it presented a clear path to address the frustration around PRA.
 
-The PRA Guide is the result of [Phase 3](https://10x.gsa.gov/the-10x-process/) of 10x funding, which established the best path forwards through user research: a clear and intuitive website that presents a holistic view of the PRA process.
+The PRA Guide is the result of [Phase 3](https://10x.gsa.gov/the-10x-process/) of 10x funding, which established the best path forwards through user research: a clear and intuitive website that presents a holistic view of the PRA process...
 
 ## The Future of the PRA Guide
 
