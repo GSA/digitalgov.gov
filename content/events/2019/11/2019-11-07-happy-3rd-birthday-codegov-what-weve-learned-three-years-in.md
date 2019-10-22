@@ -27,3 +27,5 @@ _* If unfamiliar with the pop culture reference, watch Schoolhouse Rock’s educ
 _This talk is hosted by [Code.gov](https://code.gov/) and [Digital.gov](https://digital.gov/)._
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+
+_This event will be held and recorded over [Zoom](https://www.zoom.us). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
