@@ -35,7 +35,7 @@ All of the content has been reviewed and approved by the office that oversees cl
 
 The Paperwork Reduction Act was enacted in 1980 to protect the public from excessive demands for information. Despite its age, the PRA’s concerns are especially relevant now. Now more than ever, good data is essential for government decision-making, but gathering this data must be balanced against the desire to decrease burden on the public. It’s a tricky balancing act.
 
-Until today, federal employees have struggled with navigating the clearance process. Whenever they wanted information from the public - from official forms to online surveys - they’ve entered a world of uncertainty.
+Until today, federal employees have struggled with navigating the clearance process. Whenever they wanted information from the public - from official forms to online surveys - they’ve entered a world of uncertainty....
 
 Federal employees are often reluctant to modify forms because of the hassle and delay of the clearance process.
 
