@@ -14,12 +14,13 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 **DevOps** is the practice of operations and development staff participating together in the in the entire service lifecycle operate rapidly changing resilient systems at scale.
 
-## Upcoming Events
+## Upcoming Meetings
+
+- Please check back for for upcoming meetings. 
+
+## Past Meetings
 
 - [**October Meeting**](https://digital.gov/event/2019/10/22/october-devops-cop-meeting/)
-
-## Past Events
-
 - [**September Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/)
 - [**August Meeting**](https://digital.gov/event/2019/08/27/devops-community-practice-monthly-meeting/)
 - [**July Meeting**](https://digital.gov/event/2019/07/23/devops-cop-monthly-meeting/)
