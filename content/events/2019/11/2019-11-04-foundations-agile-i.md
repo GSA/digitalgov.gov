@@ -27,23 +27,23 @@ In this first session, Alan and Alan will give an introduction to Kanban + Agile
 
 > _**Kanban** — a process management and diagnostic tool that can be used with both Agile and non-Agile environments. A Kanban board can be a helpful tool for introducing a few Agile behaviors to a team less familiar with the methodology._
 
-
 ## More talks in this series:
 
-- [Foundations of Agile, Part I](#) — Friday, November 4, 1:30 - 2:30 pm, ET 
-- [Foundations of Agile, Part II](#) — Tuesday, November 5, 3:30 - 4:30 pm, ET 
-- [Basic Scrum, Part I](#) — Friday, November 8, 1:30 - 2:30 pm, ET 
-- [Basic Scrum, Part II](#) — Tuesday, November 12, 3:00 - 4:00 pm, ET 
-- [Intro to Kanban, Part I](#) — Monday, November 13, 3:00 - 4:00 pm, ET 
-- [Intro to Kanban, Part II](#) — Tuesday, November 14, 2:30 - 3:30 pm, ET
+- [**Foundations of Agile, Part I**](#) — Friday, November 4, 1:30 - 2:30 pm, ET 
+- [**Foundations of Agile, Part II**](#) — Tuesday, November 5, 3:30 - 4:30 pm, ET 
+- [**Basic Scrum, Part I**](#) — Friday, November 8, 1:30 - 2:30 pm, ET 
+- [**Basic Scrum, Part II**](#) — Tuesday, November 12, 3:00 - 4:00 pm, ET 
+- [**Intro to Kanban, Part I**](#) — Monday, November 13, 3:00 - 4:00 pm, ET 
+- [**Intro to Kanban, Part II**](#) — Tuesday, November 14, 2:30 - 3:30 pm, ET
 
-
-## About the speakers, Alan and Alan
+## About the speakers
 
 **Alan Atlas** is currently the Agile Coach for [login.gov](https://login.gov), and has been with [18F](https://18f.gsa.gov) for nearly four years. During that time, he has primarily delivered various kinds of Agile training, coaching, and management consulting. He began his Agile career as Scrum Master for the team at Amazon.com that build Amazon S3. Before coming to 18F, he spent over ten years consulting and coaching privately for Agile teams at various private sector companies.
 
 **Alan Brouilette** is the Chief of Staff for [18F](https://www.18f.gov). He came here in 2015 to be an Agile coach and found himself learning Operations by doing, developing processes for staffing, agreements, travel, and other bits and pieces that make 18F function (e.g. meeting facilitation, and putting out fires). Prior to 18F he worked in the financial industry, news and sports radio, and taught processes and collaboration.
 
+
+{{< box >}}
 ## What is Agile?
 
 If you take nothing else from all these words, take this — Agile is not a checklist, or a methodology, or a series of rituals. Agile is a way of thinking and a way of attacking problems. Embrace mistakes, learn, and keep trying. Mess up, and learn again and again and again. Cut your losses. Fail forward fast. It’s okay. You won’t get fired. You’re always improving.
@@ -58,6 +58,8 @@ As we put it in [the 18F Guide to Agile](https://agile.18f.gov/modern-software-p
 > Waterfall is when you lay out The Plan in full before you start: every detail, every feature, every meeting, every benchmark, and then you’re wrong on most of them but forge ahead anyway, secure in the knowledge that following The Plan gives air cover in the likely event that the thing you’re building doesn’t work the way you expected it to when you made The Plan.
 
 > Agile is different. In Agile, you build big things a baby step at a time. You are motivated and engaged because you are empowered to make your own decisions about how you accomplish your work. Agile has an end result in mind, and maybe a timeframe, but it only gets into the details as needed, which allows for change in response to new information.
+
+{{< /box >}}
 
 ## Related Links: 
 
