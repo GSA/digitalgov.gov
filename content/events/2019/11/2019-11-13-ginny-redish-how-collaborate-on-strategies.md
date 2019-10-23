@@ -35,7 +35,7 @@ For the last two decades, most of Ginny’s work has been helping clients make w
 All of Ginny’s research, training and writing projects have been collaborative efforts with a goal of helping client teams hone their skills. She is also the author of Letting Go of the Words, User and Task Analysis for Interface Design, and A Practical Guide to Usability Testing.
 
 [Ginny's articles and talks](https://redish.net/articles-talks/)
-
+ 
 ---
 
 _All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
