@@ -13,7 +13,7 @@ end_date: 2019-11-13 15:30:00 -0500
 event_organizer: DigitalGov University
 host: PLAIN and Digital.gov
 registration_url: https://www.eventbrite.com/e/78200633199
-youtube_id: 
+
 venue: 
   venue_name: U.S. General Services Administration
   room: 4143
