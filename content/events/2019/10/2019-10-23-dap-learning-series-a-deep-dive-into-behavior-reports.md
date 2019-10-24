@@ -2,7 +2,7 @@
 slug: dap-learning-series-a-deep-dive-into-behavior-reports
 kicker: Learning Series
 title: 'DAP Learning Series&#58; A Deep Dive Into Behavior Reports'
-summary: 'We’ll do a deep dive into behavior reporting to help DAP users understand how to use it and what are the pitfalls&#46;'
+summary: 'A deep dive into behavior reporting to help DAP users understand how to use it and what are the pitfalls&#46;'
 featured_image:
   uid:
   alt: ''
@@ -45,4 +45,4 @@ _The Digital Analytics Program (DAP) offers advanced, easy web analytics to fede
 
 ---
 
-_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_ 
+_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
