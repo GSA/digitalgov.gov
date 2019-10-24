@@ -32,11 +32,7 @@ topics:
 
 ---
 
-{{< legacy-img src="/2013/12/250-x-202-mobile-devices-testing-app.jpg" alt="Many smartphones and tablets on a table displaying the same app." >}}Does your mobile site function properly on all devices your users have?
-
-Are you able to test your mobile site on all devices that access it?
-
-Do you have the time and money to maintain a mobile test lab?
+Does your mobile site function properly on all devices your users have? Are you able to test your mobile site on all devices that access it? Do you have the time and money to maintain a mobile test lab?
 
 We&#8217;re guessing not.
 
@@ -62,4 +58,4 @@ Whether you have a site ready for testing or want to join our cadre of volunteer
 
 Our program has tested a native app or two, but there have been some challenges to doing so. If your app is already in the app stores, then we won’t have a problem. Just [send us an email](mailto:DigitalGov@gsa.gov?subject=App Test Request Federal Crowdsource Mobile Testing Program) and let us know how we might be able to help.
 
-Want to learn more about what we&#8217;ve learned in the Crowdsource Mobile Testing program?  [Check out our lessons learned blog posts]({{< ref "/topics/mobile-testing" >}})!
+_Want to learn more about what we&#8217;ve learned in the Crowdsource Mobile Testing program?  [Check out our lessons learned blog posts]({{< ref "/topics/mobile-testing" >}})!_
