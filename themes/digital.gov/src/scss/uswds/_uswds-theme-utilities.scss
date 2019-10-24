@@ -18,14 +18,14 @@ https://v2.designsystem.digital.gov/utilities
 */
 
 $utilities-use-important:     false;
-$output-all-utilities:        true;
+$output-all-utilities:        false;
 
 /*
 ----------------------------------------
 Utility breakpoints
 ----------------------------------------
 Which breakpoints does your project
-need? Select as `true` any breakpoint
+need? Select as `false` any breakpoint
 used by utilities or layout grid
 ----------------------------------------
 */
@@ -65,7 +65,7 @@ Settings
 */
 
 $add-aspect-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -74,7 +74,7 @@ $add-aspect-settings: (
 );
 
 $add-list-reset-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -83,7 +83,7 @@ $add-list-reset-settings: (
 );
 
 $align-items-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -92,35 +92,35 @@ $align-items-settings: (
 );
 
 $background-color-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
-  hover:        true,
+  hover:        false,
   visited:      false
 );
 
 $border-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
-  hover:        true,
+  hover:        false,
   visited:      false
 );
 
 $border-color-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
-  hover:        true,
+  hover:        false,
   visited:      false
 );
 
 $border-radius-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
   hover:        false,
@@ -128,7 +128,7 @@ $border-radius-settings: (
 );
 
 $border-style-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -137,7 +137,7 @@ $border-style-settings: (
 );
 
 $border-width-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -146,7 +146,7 @@ $border-width-settings: (
 );
 
 $bottom-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -155,16 +155,16 @@ $bottom-settings: (
 );
 
 $box-shadow-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
-  hover:        true,
+  hover:        false,
   visited:      false
 );
 
 $circle-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -173,7 +173,7 @@ $circle-settings: (
 );
 
 $clearfix-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -182,16 +182,16 @@ $clearfix-settings: (
 );
 
 $color-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
-  hover:        true,
+  hover:        false,
   visited:      false
 );
 
 $cursor-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -201,7 +201,7 @@ $cursor-settings: (
 
 $display-settings: (
   output:       true,
-  responsive:   true,
+  responsive:   false,
   active:       false,
   focus:        false,
   hover:        false,
@@ -209,7 +209,7 @@ $display-settings: (
 );
 
 $flex-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -218,7 +218,7 @@ $flex-settings: (
 );
 
 $flex-direction-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -227,7 +227,7 @@ $flex-direction-settings: (
 );
 
 $flex-wrap-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -236,7 +236,7 @@ $flex-wrap-settings: (
 );
 
 $float-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -245,8 +245,8 @@ $float-settings: (
 );
 
 $font-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
   hover:        false,
@@ -254,7 +254,7 @@ $font-settings: (
 );
 
 $font-family-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -263,7 +263,7 @@ $font-family-settings: (
 );
 
 $font-feature-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -272,7 +272,7 @@ $font-feature-settings: (
 );
 
 $font-style-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -281,8 +281,8 @@ $font-style-settings: (
 );
 
 $font-weight-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
   hover:        false,
@@ -290,7 +290,7 @@ $font-weight-settings: (
 );
 
 $height-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -299,8 +299,8 @@ $height-settings: (
 );
 
 $justify-content-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
   hover:        false,
@@ -308,7 +308,7 @@ $justify-content-settings: (
 );
 
 $left-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -317,7 +317,7 @@ $left-settings: (
 );
 
 $letter-spacing-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -326,8 +326,8 @@ $letter-spacing-settings: (
 );
 
 $line-height-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
   hover:        false,
@@ -335,8 +335,8 @@ $line-height-settings: (
 );
 
 $margin-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
   hover:        false,
@@ -344,7 +344,7 @@ $margin-settings: (
 );
 
 $max-height-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -353,7 +353,7 @@ $max-height-settings: (
 );
 
 $max-width-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -362,8 +362,8 @@ $max-width-settings: (
 );
 
 $measure-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
   hover:        false,
@@ -371,7 +371,7 @@ $measure-settings: (
 );
 
 $min-height-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -380,7 +380,7 @@ $min-height-settings: (
 );
 
 $min-width-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -389,7 +389,7 @@ $min-width-settings: (
 );
 
 $opacity-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -407,7 +407,7 @@ $order-settings: (
 );
 
 $outline-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -416,7 +416,7 @@ $outline-settings: (
 );
 
 $outline-color-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -425,7 +425,7 @@ $outline-color-settings: (
 );
 
 $overflow-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -434,8 +434,8 @@ $overflow-settings: (
 );
 
 $padding-settings: (
-  output:       true,
-  responsive:   true,
+  output:       false,
+  responsive:   false,
   active:       false,
   focus:        false,
   hover:        false,
@@ -443,7 +443,7 @@ $padding-settings: (
 );
 
 $pin-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -452,7 +452,7 @@ $pin-settings: (
 );
 
 $position-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -461,7 +461,7 @@ $position-settings: (
 );
 
 $right-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -470,7 +470,7 @@ $right-settings: (
 );
 
 $square-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -479,7 +479,7 @@ $square-settings: (
 );
 
 $text-align-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -488,25 +488,25 @@ $text-align-settings: (
 );
 
 $text-decoration-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
-  hover:        true,
+  hover:        false,
   visited:      false
 );
 
 $text-decoration-color-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
-  hover:        true,
+  hover:        false,
   visited:      false
 );
 
 $text-indent-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -515,7 +515,7 @@ $text-indent-settings: (
 );
 
 $text-transform-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -524,7 +524,7 @@ $text-transform-settings: (
 );
 
 $top-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -533,7 +533,7 @@ $top-settings: (
 );
 
 $vertical-align-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -542,7 +542,7 @@ $vertical-align-settings: (
 );
 
 $whitespace-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -551,7 +551,7 @@ $whitespace-settings: (
 );
 
 $width-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
@@ -560,7 +560,7 @@ $width-settings: (
 );
 
 $z-index-settings: (
-  output:       true,
+  output:       false,
   responsive:   false,
   active:       false,
   focus:        false,
