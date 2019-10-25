@@ -38,12 +38,12 @@ All of Ginny’s research, training and writing projects have been collaborative
  
 ---
 
-_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+_All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
 
-_This talk is hosted by the PLAIN LANGUAGE and Digital.gov. [The TTS Research Guild](https://github.com/18F/g-research) is a GSA-local community of practice for design researchers and design research enthusiasts led by Ben Peterson and TBD other co-lead._
+Our team will send a reminder email prior to the event that includes your link to join the video. 
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
 
----
+This talk is hosted by the [Plain Language Action and Information Network](https://digital.gov/communities/plain-language/) (PLAIN) and Digital.gov. 
 
 _This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
