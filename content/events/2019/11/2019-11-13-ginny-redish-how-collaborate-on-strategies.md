@@ -7,7 +7,6 @@ featured_image:
   alt: ''
 event_type: 
   - zoom
-  - in-person
 date: 2019-11-13 14:00:00 -0500
 end_date: 2019-11-13 15:30:00 -0500
 event_organizer: DigitalGov University
