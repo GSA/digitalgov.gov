@@ -5,6 +5,9 @@ summary: 'Robert J&#46; Huttenlocker, who currently serves as the Assistant Insp
 featured_image:
   uid:
   alt: ''
+event_type: 
+  - online
+  - in-person
 date: 2019-11-01 10:00:00 -0500
 end_date: 2019-11-01 11:30:00 -0500
 event_organizer: DigitalGov University
@@ -13,7 +16,9 @@ registration_url: http://cma.ahrq.gov/112019Webinar
 
 ---
 
-Political Savvy can be defined as the ability to exhibit confidence and professional diplomacy, while effectively relating to people at all levels internally and externally. This seminar will focus on what it is, how to master it, and why mastering this skill is so important, along with a discussion about engagement and communications-related issues that are common across organizations. This talk is part of the Federal Leadership and Professional Development Seminar Series (FLPDSS).
+Political Savvy can be defined as the ability to exhibit confidence and professional diplomacy, while effectively relating to people at all levels internally and externally. This seminar will focus on what it is, how to master it, and why mastering this skill is so important, along with a discussion about engagement and communications-related issues that are common across organizations. This talk is part of the Federal Leadership and Professional Development Seminar Series (FLPDSS). 
+
+**Note**: If you register to attend online (instead of attending in person in Maryland), a reminder email will be sent prior to the event that includes your link to join the video. 
 
 ## Our speaker
 
