@@ -25,7 +25,7 @@ Sophia B. Liu, Innovation Specialist, Science and Decisions Center, U.S. Geologi
 
 ## Overview 
 
-The FedCCS seeks to expand and improve the U.S. government’s use of crowdsourcing, citizen science, and similar public participation techniques for the purpose of enhancing agency mission, scientific, and societal outcomes. The CCS seeks to create a nurturing ecosystem for federally supported services, the science, technology, engineering and math (STEM) disciplines, and sciences that draw on public participation and partnership. You can learn more about the activities of this community in this two-page overview document.
+The FedCCS seeks to expand and improve the U.S. government’s use of crowdsourcing, citizen science, and similar public participation techniques for the purpose of enhancing agency mission, scientific, and societal outcomes. The CCS seeks to create a nurturing ecosystem for federally supported services, the science, technology, engineering and math (STEM) disciplines, and sciences that draw on public participation and partnership. You can learn more about the activities of this community in this [two-page overview document](https://digital.gov/pdf/FedCCS.pdf).
 
 ## Who we are 
 
