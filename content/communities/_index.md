@@ -29,9 +29,6 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Agile/Lean]({{< link "agile-lean.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "agile-lean.md" >}})
 
-**[Artificial Intelligence for Citizen Services](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)**: Analyzing, testing and developing shared resources for Artificial Intelligence capabilities to improve performance and accessibility of citizen services.<br/>
-[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)
-
 **[APIs]({{< link "apis.md" >}})**: A community for anyone interested in government APIs and developer outreach in the federal government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "apis.md" >}})
 
