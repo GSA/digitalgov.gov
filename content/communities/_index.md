@@ -35,8 +35,8 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[APIs]({{< link "apis.md" >}})**: A community for anyone interested in government APIs and developer outreach in the federal government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "apis.md" >}})
 
-**[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.<br/>
-[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
+**[Blockchain]({{< link "blockchain.md" >}})**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "blockchain.md" >}})
 
 **[Challenge & Prize]({{< link "challenges-prizes.md" >}})**: We encourage public participation in prize competitions to find innovative government solutions.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes.md" >}})
