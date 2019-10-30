@@ -1,30 +1,32 @@
 ---
-slug: intro-kanban-i
-title: 'Intro to Kanban I'
-summary: 'Part one of an introduction to Kanban and Agile and how to use it with your team to effectively manage the change that happens on your project.'
+slug: foundations-agile-ii
+title: 'Foundations of Agile II'
+summary: 'Part two of an introduction to Agile concepts, roles, and the language that is commonly used in Agile processes.'
 featured_image:
-  uid: agile-kanban-part-1
+  uid: agile-scrum-part-2
   alt: ''
 event_type:
   - zoom
-date: 2019-11-13 15:00:00 -0500
-end_date: 2019-11-13 16:00:00 -0500
+date: 2019-11-05 15:30:00 -0500
+end_date: 2019-11-05 16:30:00 -0500
 event_organizer: DigitalGov University
 host: 18F
-registration_url: https://www.eventbrite.com/e/agile-talks-intro-to-kanban-part-i-registration-78078507919
+registration_url: https://www.eventbrite.com/e/agile-talks-foundations-of-agile-part-ii-registration-78060157031
 youtube_id:
 
 ---
 
-{{< img src="agile-kanban-part-1" >}}
+{{< img src="agile-scrum-part-2" >}}
 
 Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
 
-## About this session — Kanban, Part I
+## About this session — Foundations of Agile, Part II
 
-In this first session, Alan and Alan will give an introduction to Kanban + Agile and how to use it with your team to effectively manage the change that happens on your project and team (a.k.a. chaos).
+In this second session, Alan and Alan will give an introduction to Agile and go over high level concepts, roles, and language that is commonly used in Agile processes.
 
-> _**Kanban** — a process management and diagnostic tool that can be used with both Agile and non-Agile environments. A Kanban board can be a helpful tool for introducing a few Agile behaviors to a team less familiar with the methodology._
+> _**Agile** — a set of values and principles that describe a way of working that promotes continuous learning and user-focused value delivery._
+
+This is the second of a two-part training series on the Foundations of Agile.
 
 ## More talks in this series:
 

@@ -1,7 +1,7 @@
 ---
 slug: foundations-agile-i
 title: 'Foundations of Agile I'
-summary: ''
+summary: 'Part one of an introduction to Agile concepts, roles, and the language that is commonly used in Agile processes.'
 featured_image:
   uid: agile-scrum-part-1
   alt: ''
@@ -21,11 +21,11 @@ youtube_id:
 
 Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
 
-## About this session — Kanban, Part I
+## About this session — Foundations of Agile, Part I
 
-In this first session, Alan and Alan will give an introduction to Kanban + Agile and how to use it with your team to effectively manage the change that happens on your project and team (a.k.a. chaos).
+In this first session, Alan and Alan will give an introduction to Agile and go over high level concepts, roles, and language that is commonly used in Agile processes.
 
-> _**Kanban** — a process management and diagnostic tool that can be used with both Agile and non-Agile environments. A Kanban board can be a helpful tool for introducing a few Agile behaviors to a team less familiar with the methodology._
+> _**Agile** — a set of values and principles that describe a way of working that promotes continuous learning and user-focused value delivery._
 
 ## More talks in this series:
 
@@ -76,3 +76,9 @@ As we put it in [the 18F Guide to Agile](https://agile.18f.gov/modern-software-p
 - Join the [DevOps Community of Practice »](http://localhost:1313/communities/devops/)
 
 _Learn more about how 18F can support your team at [https://18f.gsa.gov](https://18f.gsa.gov/)_
+
+---
+
+Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
+
+_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._
