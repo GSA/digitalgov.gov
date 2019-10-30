@@ -85,8 +85,8 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Video Production Pros]({{< link "video.md" >}})** We’re a group of storytellers, artists, creatives, directors, DP’s, producers, editors and more. Sharing leading trends, best practices, latest projects, feedback, techniques, and strategies that help our respective agencies connect with people through the power of video.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "video.md" >}})
 
-**[Virtual/Augmented Reality](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)**: Analyzing, testing and developing shared resources for Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.<br/>
-[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)
+**[Virtual/Augmented Reality]({{< link "virtual-and-augmented-reality.md" >}})**: Analyzing, testing and developing shared resources for Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "virtual-and-augmented-reality.md" >}})
 
 **[Web Content Managers]({{< link "web-managers-forum.md" >}})**: Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "web-managers-forum.md" >}})
