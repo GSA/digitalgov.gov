@@ -73,8 +73,8 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[RPA Community]({{< link "rpa-community.md" >}})**: We are a group who is working to accelerate robotic process automation (RPA) adoption in the federal government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "rpa-community.md" >}})
 
-**[SocialGov](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
-[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)
+**[Social Media]({{< link "social-media.md" >}})**: We are a community that aims to improve the creation, adoption and evaluation of social media in government.
+[Learn&nbsp;more&nbsp;»]({{< link "social-media.md" >}})
 
 **[User Experience]({{< link "user-experience.md" >}})**: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "user-experience.md" >}})
