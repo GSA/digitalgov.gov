@@ -7,19 +7,19 @@ summary: 'The Federal SocialGov Community unites over 1,200 digital managers and
 
 ---
 
-### Who we are
+## Who we are
 
 The Federal SocialGov Community was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies for public services. It unites over 1,200 digital managers and specialists at more than 160 federal, tribal, state, and local agencies in a collaborative program aimed at improving the creation, adoption, and evaluation of digital engagement programs.
 
-### How to Join
+## How to Join
 
 If you are a government employee with a .gov or .mil email address, join our [SocialGov Community](mailto:SM-COP-subscribe-request@listserv.gsa.gov?subject=SocialGov%20listserv).
 
-### Community Manager
+## Community Manager
 SocialGov is managed by Gabrielle Perret, Senior Media Advisor at the U.S. General Services Administration.
 
 
-### What We Do
+## What We Do
 We identify opportunities and challenges to improve government use of social data, and collectively address them for the shared benefit of all agencies. We also help develop shared resources and tools needed to get the job done, including:
 
 - [U.S. Public Participation Playbook](https://participation.usa.gov)
