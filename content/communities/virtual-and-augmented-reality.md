@@ -2,7 +2,7 @@
 url: /communities/virtual-and-augmented-reality/
 uid: virtual-and-augmented-reality
 date: 2019-10-30 12:00:00 -0400
-title: "Virtual and Augmented Reality"
+title: "Virtual and Augmented Reality Community of Practice"
 summary: "A collaborative hub for the research and refinement of VR and AR business cases and pilot programs across government."
 
 ---
