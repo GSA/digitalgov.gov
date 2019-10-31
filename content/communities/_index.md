@@ -35,7 +35,7 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[APIs]({{< link "apis.md" >}})**: A community for anyone interested in government APIs and developer outreach in the federal government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "apis.md" >}})
 
-**[Blockchain]({{< link "blockchain.md" >}})**: A collaborative hub for federal agencies and U.S. businesses who are interested in exploring distributed ledger technology and its implementation within government.<br/>
+**[Blockchain]({{< link "blockchain.md" >}})**: A collaborative hub for federal agencies that are interested in exploring distributed ledger technology and its implementation within government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "blockchain.md" >}})
 
 **[Challenge & Prize]({{< link "challenges-prizes.md" >}})**: We encourage public participation in prize competitions to find innovative government solutions.<br/>
@@ -85,7 +85,7 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Video Production Pros]({{< link "video.md" >}})** We’re a group of storytellers, artists, creatives, directors, DP’s, producers, editors and more. Sharing leading trends, best practices, latest projects, feedback, techniques, and strategies that help our respective agencies connect with people through the power of video.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "video.md" >}})
 
-**[Virtual/Augmented Reality]({{< link "virtual-and-augmented-reality.md" >}})**: A collaborative hub for the research and refinement of VR and AR business cases and pilot programs across government.<br/>
+**[Virtual/Augmented Reality]({{< link "virtual-and-augmented-reality.md" >}})**: A collaborative hub for the research and refinement of VR and AR use cases and pilot programs across government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "virtual-and-augmented-reality.md" >}})
 
 **[Web Content Managers]({{< link "web-managers-forum.md" >}})**: Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.<br/>
