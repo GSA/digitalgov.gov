@@ -1,6 +1,6 @@
 ---
 slug: foundations-agile-i
-title: 'Foundations of Agile I'
+title: 'Foundations of Agile, Part I'
 deck: "with Alan Atlas and Alan Brouilette"
 summary: 'This is the first of two sessions that will explore the fundamentals of the Agile methodology.'
 featured_image:

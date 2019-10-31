@@ -1,6 +1,6 @@
 ---
 slug: intro-kanban-ii
-title: 'Intro to Kanban II'
+title: 'Intro to Kanban, Part II'
 deck: "with Alan Atlas and Alan Brouilette"
 summary: 'Part two of an introduction to Kanban and how to use it to model any flow-based process.'
 featured_image:
