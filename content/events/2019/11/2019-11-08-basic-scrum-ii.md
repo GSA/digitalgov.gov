@@ -25,10 +25,10 @@ The second session on Scrum will go into more detail about what is happening dur
 
 #### More talks in this series:
 
-- [**Foundations of Agile, Part I**]({{< link "/event/2019/11/04/foundations-agile-i/" >}}) — Friday, November 4, 1:30 - 2:30 pm, ET 
+- [**Foundations of Agile, Part I**]({{< link "/event/2019/11/04/foundations-agile-i/" >}}) — Monday, November 4, 1:30 - 2:30 pm, ET 
 - [**Foundations of Agile, Part II**]({{< link "/event/2019/11/05/basic-scrum-i/" >}}) — Tuesday, November 5, 3:30 - 4:30 pm, ET 
-- [**Basic Scrum, Part I**]({{< link "/event/2019/11/08/basic-scrum-i/" >}}) — Friday, November 8, 1:30 - 2:30 pm, ET 
-- [**Basic Scrum, Part II**]({{< link "/event/2019/11/12/basics-scrum-ii/" >}}) — Tuesday, November 12, 3:00 - 4:00 pm, ET 
+- [**Basics of Scrum, Part I**]({{< link "/event/2019/11/08/basic-scrum-i/" >}}) — Friday, November 8, 1:30 - 2:30 pm, ET 
+- [**Basics of Scrum, Part II**]({{< link "/event/2019/11/12/basics-scrum-ii/" >}}) — Tuesday, November 12, 3:00 - 4:00 pm, ET 
 - [**Intro to Kanban, Part I**]({{< link "/event/2019/11/13/intro-kanban-i/" >}}) — Monday, November 13, 3:00 - 4:00 pm, ET 
 - [**Intro to Kanban, Part II**]({{< link "/event/2019/11/14/intro-kanban-ii/" >}}) — Tuesday, November 14, 2:30 - 3:30 pm, ET
 
