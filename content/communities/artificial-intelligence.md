@@ -14,9 +14,8 @@ This community aims to unite public service managers in evaluating and building 
 
 ## How to Join
 
-**If you are a government employee** with a .gov or .mil email address, join our [Federal Artificial Intelligence for Citizen Services Community](mailto:AI-subscribe-request@listserv.gsa.gov?subject=AI%20listserv).
+**If you are a government employee** with a .gov or .mil email address, join our [Federal Artificial Intelligence Community](mailto:AI-subscribe-request@listserv.gsa.gov?subject=AI%20listserv).
 
-**To join our public listserv** for Artificial Intelligence for Citizen Services, contact [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=AI%20listserv) with the message body “SUB AIPublic.”
 
 ## What We Do
-We launched an open-source pilot that helped dozens of federal programs make their services available to consumer intelligent personal assistants (IPAs) like Amazon Alexa, Microsoft Cortana, Google Assistant, and Facebook Messenger. We’re working with client agencies to prepare business cases understanding the impact of these advances in Artificial Intelligence on Citizen Services.
+We launched an open-source pilot that helped dozens of federal programs make their services available to consumer intelligent personal assistants (IPAs) like Amazon Alexa, Microsoft Cortana, Google Assistant, and Facebook Messenger. We’re working with client agencies to prepare business cases understanding the impact of these advances in Artificial Intelligence.
