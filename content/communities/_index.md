@@ -29,14 +29,14 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Agile/Lean]({{< link "agile-lean.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "agile-lean.md" >}})
 
-**[Artificial Intelligence for Citizen Services](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)**: Analyzing, testing and developing shared resources for Artificial Intelligence capabilities to improve performance and accessibility of citizen services.<br/>
-[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)
+**[Artificial Intelligence]({{< link "artificial-intelligence.md" >}})**: Supporting and coordinating the use of artificial intelligence technologies in federal agencies.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "artificial-intelligence.md" >}})
 
 **[APIs]({{< link "apis.md" >}})**: A community for anyone interested in government APIs and developer outreach in the federal government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "apis.md" >}})
 
-**[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.<br/>
-[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
+**[Blockchain]({{< link "blockchain.md" >}})**: A collaborative hub for federal agencies that are interested in exploring distributed ledger technology and its implementation within government.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "blockchain.md" >}})
 
 **[Challenge & Prize]({{< link "challenges-prizes.md" >}})**: We encourage public participation in prize competitions to find innovative government solutions.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes.md" >}})
@@ -73,8 +73,8 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[RPA Community]({{< link "rpa-community.md" >}})**: We are a group who is working to accelerate robotic process automation (RPA) adoption in the federal government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "rpa-community.md" >}})
 
-**[SocialGov](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
-[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)
+**[Social Media]({{< link "social-media.md" >}})**: We are a community that aims to improve the creation, adoption and evaluation of social media in government.
+[Learn&nbsp;more&nbsp;»]({{< link "social-media.md" >}})
 
 **[User Experience]({{< link "user-experience.md" >}})**: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "user-experience.md" >}})
@@ -85,8 +85,8 @@ There are more than 10,000 people participating across government in 22 areas. O
 **[Video Production Pros]({{< link "video.md" >}})** We’re a group of storytellers, artists, creatives, directors, DP’s, producers, editors and more. Sharing leading trends, best practices, latest projects, feedback, techniques, and strategies that help our respective agencies connect with people through the power of video.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "video.md" >}})
 
-**[Virtual/Augmented Reality](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)**: Analyzing, testing and developing shared resources for Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.<br/>
-[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)
+**[Virtual/Augmented Reality]({{< link "virtual-and-augmented-reality.md" >}})**: A collaborative hub for the research and refinement of VR and AR use cases and pilot programs across government.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "virtual-and-augmented-reality.md" >}})
 
 **[Web Content Managers]({{< link "web-managers-forum.md" >}})**: Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "web-managers-forum.md" >}})

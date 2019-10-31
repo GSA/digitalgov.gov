@@ -4,25 +4,36 @@ uid: social-media
 date: 2013-11-21 3:32:54 -0400
 title: 'Social Media Community of Practice'
 summary: 'The Federal SocialGov Community unites over 1,200 digital managers and specialists at more than 160 agencies and offices in a collaborative program aimed at improving the creation, adoption and evaluation of digital engagement programs.'
-redirectto: https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov
 
 ---
 
-### Join
+## Who we are
 
-To join, [send an email to Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23SocialGov) with “Join #SocialGov” in the subject.
+The Federal SocialGov Community was launched in June 2012 to research, evaluate, and implement emerging social technologies and strategies for public services. It unites over 1,200 digital managers and specialists at more than 160 federal, tribal, state, and local agencies in a collaborative program aimed at improving the creation, adoption, and evaluation of digital engagement programs.
 
-### Who we are
+## How to Join
 
-The Federal SocialGov Community unites over 1,200 digital managers and specialists at more than 160 agencies and offices in a collaborative program aimed at improving the creation, adoption and evaluation of digital engagement programs.
+If you are a government employee with a .gov or .mil email address, join our [SocialGov Community](mailto:SM-COP-subscribe-request@listserv.gsa.gov?subject=SocialGov%20listserv).
 
-The SocialGov Community launched in June 2012 as a performance-based inter-agency collaboration, working with missions across government, the [White House](http://www.whitehouse.gov/), international partners, public-private partnerships, and citizens to promote the effective and responsible use of social media and digital engagement for measurably improving citizen services, making them more inclusive and accessible, and reducing their costs.
+## Community Manager
+SocialGov is managed by Gabrielle Perret, Senior Media Advisor at the U.S. General Services Administration.
 
-### What We Do
 
-We identify opportunities and challenges to improve government use of social data, and collectively address them for the shared benefit of all agencies. We support the creation of online communities that provide opportunities for citizens to collaborate, participate, and engage with their government.
+## What We Do
+We identify opportunities and challenges to improve government use of social data, and collectively address them for the shared benefit of all agencies. We also help develop shared resources and tools needed to get the job done, including:
 
-  * Best practices: We curate [best practices]({{< link "categories/socialmedia" >}} "Social Media") for innovative, effective, and responsible use and governance of social media across the government.
-  * Training: We research, organize, and host live and on-demand [social media training for all agencies]({{< link "events" >}} in federal, state, and local government.
-  * Shared tools: We actively test and evaluate emerging social tools and strategies for government and negotiate [federal-compatible terms of service]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") for federal agencies.
-  * Working Groups and Resource Development: We organize productive working groups that produce shared resources for all agencies to use, like the <a href="https://www.whitehouse.gov/blog/2015/02/03/announcing-us-public-participation-playbook" target="_blank">U.S. Public Participation Playbook</a> and the <a href="{{< link "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" target="_blank">Cyber-Vandalism Toolkit</a>.
+- [U.S. Public Participation Playbook](https://participation.usa.gov)
+- [Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit](https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/)
+- [Improving the Accessibility of Social Media in Government for Persons with Disabilities](https://digital.gov/resources/improving-the-accessibility-of-social-media-in-government/) 
+
+Another one of these programs is the [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/), which is the official resource that agencies, citizens, and developers use to confirm the official status of social media and public-facing collaboration accounts, mobile apps and mobile websites. This creates an additional layer of security by helping prevent exploitation from unofficial sources, phishing scams, or malicious entities. 
+
+
+### Tools and Resources
+
+- U.S. Digital Registry [https://digital.gov/services/u-s-digital-registry/](https://digital.gov/services/u-s-digital-registry/) 
+- U.S. Public Participation Playbook [https://participation.usa.gov](https://participation.usa.gov) 
+- Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit [https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/](https://digital.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/) 
+- Federal Social Media Analytics Toolkit [https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/) 
+- Federal Social Media Accessibility Toolkit [https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/) 
+- Federal-Compatible Terms of Service Agreements [https://digital.gov/resources/federal-compatible-terms-of-service-agreements/](https://digital.gov/resources/federal-compatible-terms-of-service-agreements/) 
