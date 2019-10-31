@@ -17,7 +17,7 @@ The AI CoP is being launched in coordination with the Federal Chief Information 
 
 ## How to Join
 
-**If you are a government employee** with a .gov or .mil email address, you can join our commumity by sending an email to [AI-subscribe-request@listserv.gsa.gov](mailto:AI-subscribe-request@listserv.gsa.gov?subject=AI%20listserv).
+**If you are a government employee** with a .gov or .mil email address, you can join our community by sending an email to [AI-subscribe-request@listserv.gsa.gov](mailto:AI-subscribe-request@listserv.gsa.gov?subject=AI%20listserv).
 
 ## What we do
 The AI CoP will bring together federal employees to:
