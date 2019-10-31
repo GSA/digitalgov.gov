@@ -2,7 +2,7 @@
 slug: foundations-agile-ii
 title: 'Foundations of Agile II'
 deck: "with Alan Atlas and Alan Brouilette"
-summary: 'Part two of an introduction to Agile concepts, roles, and the language that is commonly used in Agile processes.'
+summary: 'Part two of exploring the fundamentals of the Agile methodology will look at the external view of producing customer value and the difficulty of adopting Agile methods.'
 featured_image:
   uid: agile-foundations-part-2
   alt: ''

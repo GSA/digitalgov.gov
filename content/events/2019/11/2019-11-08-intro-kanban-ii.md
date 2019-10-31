@@ -2,7 +2,7 @@
 slug: intro-kanban-ii
 title: 'Intro to Kanban II'
 deck: "with Alan Atlas and Alan Brouilette"
-summary: 'Part two of an introduction to Kanban and Agile and how to use it with your team to effectively manage the change that happens on your project.'
+summary: 'Part two of an introduction to Kanban and how to use it to model any flow-based process.'
 featured_image:
   uid: agile-kanban-part-2
   alt: ''
@@ -19,15 +19,9 @@ youtube_id:
 
 {{< img src="agile-kanban-part-2" >}}
 
-Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
-
 ## About this session — Kanban, Part II
 
-In this second session, Alan and Alan will dive deeper into Kanban + Agile and showing you how to use it with your team to effectively manage the change that happens on your project and team (a.k.a. chaos).
-
-> _**Kanban** — a process management and diagnostic tool that can be used with both Agile and non-Agile environments. A Kanban board can be a helpful tool for introducing a few Agile behaviors to a team less familiar with the methodology._
-
-This is the second of a two-part training series on Using Kanban with Agile.
+Kanban is not strictly an Agile method as it can be used to model any flow-based process. However it is quite applicable for Agile situations, and is much more amenable to environments that are not concerned with software development.
 
 #### More talks in this series:
 

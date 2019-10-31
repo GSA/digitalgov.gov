@@ -2,7 +2,7 @@
 slug: intro-kanban-i
 title: 'Intro to Kanban I'
 deck: "with Alan Atlas and Alan Brouilette"
-summary: 'Part one of an introduction to Kanban and Agile and how to use it with your team to effectively manage the change that happens on your project.'
+summary: 'Part one of an introduction to Kanban and how to use it to model any flow-based process.'
 featured_image:
   uid: agile-kanban-part-1
   alt: ''
@@ -19,11 +19,9 @@ youtube_id:
 
 {{< img src="agile-kanban-part-1" >}}
 
-Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
-
 ## About this session — Kanban, Part I
 
-Kanban is not strictly an Agile method as it can be used to model any flow-based process. However it is quite applicable for Agile situations, and is much more amenable to environments that are not concerned with software development. 
+Kanban is not strictly an Agile method as it can be used to model any flow-based process. However it is quite applicable for Agile situations, and is much more amenable to environments that are not concerned with software development.
 
 ## More talks in this series:
 

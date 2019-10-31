@@ -2,7 +2,7 @@
 slug: basic-scrum-i
 title: "Basics of Scrum, Part I"
 deck: "with Alan Atlas and Alan Brouilette"
-summary: "An introduction to using Scrum and how you can help your team respond to change and self-organize around customer-focused needs. to help teams self-organize around customer-focused needs and responding to change."
+summary: "Scrum is the most widely used Agile software development methodology. This session will cover the basics of Scrum at a very high level."
 featured_image:
   uid: agile-scrum-part-1
   alt: ''
@@ -18,8 +18,6 @@ youtube_id:
 ---
 
 {{< img src="agile-scrum-part-1" >}}
-
-Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
 
 ## About this session — Basic Scrum, Part I
 

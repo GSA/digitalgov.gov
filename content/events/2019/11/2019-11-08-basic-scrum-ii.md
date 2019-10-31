@@ -2,7 +2,7 @@
 slug: basics-scrum-ii
 title: "Basics of Scrum, Part II"
 deck: "with Alan Atlas and Alan Brouilette"
-summary: "Part two of an introduction to using Scrum and how you can help your team respond to change and self-organize around customer-focused needs. to help teams self-organize around customer-focused needs and responding to change."
+summary: "Scrum is the most widely used Agile software development methodology. This second session will go into more detail about what is happening during each of the Scrum ceremonies."
 featured_image:
   uid: agile-scrum-part-2
   alt: ''
@@ -19,11 +19,9 @@ youtube_id:
 
 {{< img src="agile-scrum-part-2" >}}
 
-In this second session, Alan and Alan will give an introduction to using Scrum and how you can your team respond to change, and self-organize around customer-focused needs.
-
 ## About this session — Basics of Scrum, Part II
 
-The second session on Scrum will go into more detail about what is happening during each f the Scrum Ceremonies. Topics will include Sprint Planning, During the Sprint, Sprint Review, Sprint Retrospective, and Benefits of Scrum. We’ve tried to keep the prepared material a bit shorter to leave time for more questions and discussion.
+The second session on Scrum will go into more detail about what is happening during each of the Scrum ceremonies. Topics will include Sprint Planning, During the Sprint, Sprint Review, Sprint Retrospective, and Benefits of Scrum. We’ve tried to keep the prepared material a bit shorter to leave time for more questions and discussion.
 
 #### More talks in this series:
 
