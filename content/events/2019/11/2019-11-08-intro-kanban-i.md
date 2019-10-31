@@ -23,9 +23,7 @@ Agile is a way of thinking and a way of attacking problems, and it is central to
 
 ## About this session — Kanban, Part I
 
-In this first session, Alan and Alan will give an introduction to Kanban + Agile and how to use it with your team to effectively manage the change that happens on your project and team (a.k.a. chaos).
-
-> _**Kanban** — a process management and diagnostic tool that can be used with both Agile and non-Agile environments. A Kanban board can be a helpful tool for introducing a few Agile behaviors to a team less familiar with the methodology._
+Kanban is not strictly an Agile method as it can be used to model any flow-based process. However it is quite applicable for Agile situations, and is much more amenable to environments that are not concerned with software development. 
 
 ## More talks in this series:
 

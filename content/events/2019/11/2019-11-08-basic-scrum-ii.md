@@ -23,12 +23,7 @@ In this second session, Alan and Alan will give an introduction to using Scrum a
 
 ## About this session — Basics of Scrum, Part II
 
-In this second session, Alan and Alan will dive deeper into Kanban + Agile and showing you how to use it with your team to effectively manage the change that happens on your project and team (a.k.a. chaos).
-
-> _**Scrum** - a framework for Agile product development centered around self-organizing team, customer focus, and responding to change._
-> _**Sprint** - the unit of iteration in scrum: a short, fixed interval in which an agile team commits to and delivers a piece of customer value from the backlog. Sprint Backlog Item - A more granular item than one one would find in a product backlog. It could be a task, chore, bug, or small or finely sliced user story._
-
-This is the second of a two-part training series on the Basics of Scrum in Agile.
+The second session on Scrum will go into more detail about what is happening during each f the Scrum Ceremonies. Topics will include Sprint Planning, During the Sprint, Sprint Review, Sprint Retrospective, and Benefits of Scrum. We’ve tried to keep the prepared material a bit shorter to leave time for more questions and discussion.
 
 #### More talks in this series:
 

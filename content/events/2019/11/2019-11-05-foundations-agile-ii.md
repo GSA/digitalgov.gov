@@ -23,11 +23,7 @@ Agile is a way of thinking and a way of attacking problems, and it is central to
 
 ## About this session
 
-In this second session, Alan and Alan will give an introduction to Agile and go over high level concepts, roles, and language that is commonly used in Agile processes.
-
-> _**Agile** — a set of values and principles that describe a way of working that promotes continuous learning and user-focused value delivery._
-
-This is the second of a two-part training series on the Foundations of Agile.
+This second session will take a quick look at the external view of producing customer value and the difficulty of adopting Agile methods. The majority of the session will present a high level overview of Scrum, Kanban, and Lean.
 
 #### More talks in this series:
 

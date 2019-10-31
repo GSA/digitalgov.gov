@@ -23,12 +23,7 @@ Agile is a way of thinking and a way of attacking problems, and it is central to
 
 ## About this session — Basic Scrum, Part I
 
-In this first session, Alan and Alan will give an introduction to using Scrum and how you can your team respond to change, and self-organize around customer-focused needs.
-
-> _**Scrum** - a framework for Agile product development centered around self-organizing team, customer focus, and responding to change._
-> _**Sprint** - the unit of iteration in scrum: a short, fixed interval in which an agile team commits to and delivers a piece of customer value from the backlog. Sprint Backlog Item - A more granular item than one one would find in a product backlog. It could be a task, chore, bug, or small or finely sliced user story._
-
-This is the first of a two-part training series on the Basics of Scrum in Agile.
+By far the most widely used Agile software development methodology is Scrum. This session will cover the basics of Scrum at a very high level. Topics will include the Agile Dev Model, Scrum Process Framework, Product Backlog and Product Owner, User Stories, and Scrum Team.
 
 #### More talks in this series:
 
