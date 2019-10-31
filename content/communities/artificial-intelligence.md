@@ -2,12 +2,12 @@
 url: /communities/artificial-intelligence/
 uid: artificial-intelligence
 date: 2019-10-30 12:00:00 -0400
-title: "Artificial Intelligence Community"
-summary: "Uniting public service managers in evaluating and building smart automation solutions."
+title: "Artificial Intelligence Community of Practice"
+summary: "Supporting and coordinating the use of artificial intelligence technologies in federal agencies."
 
 ---
 
-Next generation digital public services are powered by government data and artificial intelligence like chatbots and smart forms. The intelligent automation of programs helps make our public services more open, responsive, informative, and accessible for the American people.
+When the President signed the [Executive Order 13859, Maintaining American Leadership in Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/), on February 11, 2019, it launched the American AI initiative to promote and protect AI technology and innovation in the United States. 
 
 ## Who we are
 
@@ -25,7 +25,7 @@ The AI CoP is being launched in coordination with the Federal Chief Information 
 
 ## How to Join
 
-**If you are a government employee** with a .gov or .mil email address, join our [Federal Artificial Intelligence Community](mailto:AI-subscribe-request@listserv.gsa.gov?subject=AI%20listserv).
+**If you are a government employee** with a .gov or .mil email address, you can join our commumity by sending an email to [AI-subscribe-request@listserv.gsa.gov](mailto:AI-subscribe-request@listserv.gsa.gov?subject=AI%20listserv).
 
 ## What we do
 The AI CoP will bring together federal employees to:
