@@ -11,8 +11,7 @@ date: 2019-11-12 13:00:00 -0500
 end_date: 2019-11-12 14:00:00 -0500
 event_organizer: DigitalGov University
 host: Multilingual Community of Practice and Digital.gov
-registration_url: https://www.eventbrite.com/e/77501026657
-youtube_id: 
+registration_url: https://www.eventbrite.com/e/77501026657 
 
 ---
 
