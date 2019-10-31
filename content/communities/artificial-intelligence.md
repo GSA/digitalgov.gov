@@ -11,15 +11,7 @@ When the president signed the [Executive Order 13859, Maintaining American Leade
 
 ## Who we are
 
-This community aims to unite federal employees who are active in, or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government, including those related to:
-
-- autonomous systems, 
-- biometric identification, 
-- computer vision, 
-- human-computer interactions, 
-- machine learning, 
-- natural language processing, 
-- and robotics. 
+This community aims to unite federal employees who are active in, or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government.
 
 The AI CoP is being launched in coordination with the Federal Chief Information Officer (CIO).
 
