@@ -34,7 +34,7 @@ These high-level policies cover basic requirements for all digital products and 
 * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
 
 
-## Accessibility/Section 508
+## Accessibility / Section 508
 
 Ensure access for people with disabilities, including motor, auditory, cognitive, seizure/neurological, and visual impairments; ensure content is "perceivable, operable, understandable, and robust." Teach staff how to create accessible products, and conduct accessibility testing before launch, or when making significant changes to, digital products and services.
 
