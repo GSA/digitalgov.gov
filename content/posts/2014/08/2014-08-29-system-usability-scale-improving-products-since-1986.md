@@ -25,9 +25,7 @@ The System Usability Scale he created asks users their opinion on how easy somet
 
 Here&#8217;s what an SUS looks like:
 
-**System Usability Scale Questionnaire
-  
-** 
+**System Usability Scale Questionnaire** 
 
 1. I think I would like to use this system frequently.
   
