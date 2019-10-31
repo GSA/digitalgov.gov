@@ -1,14 +1,15 @@
 ---
 slug: basic-scrum-i
 title: "Basics of Scrum, Part I"
+deck: "with Alan Atlas and Alan Brouilette"
 summary: "An introduction to using Scrum and how you can help your team respond to change and self-organize around customer-focused needs. to help teams self-organize around customer-focused needs and responding to change."
 featured_image:
   uid: agile-scrum-part-1
   alt: ''
 event_type:
   - zoom
-date: 2019-11-05 13:30:00 -0500
-end_date: 2019-11-05 14:30:00 -0500
+date: 2019-11-08 13:30:00 -0500
+end_date: 2019-11-08 14:30:00 -0500
 event_organizer: DigitalGov University
 host: 18F
 registration_url: https://www.eventbrite.com/e/agile-talks-basic-scrum-part-i-registration-78063298427
@@ -29,14 +30,14 @@ In this first session, Alan and Alan will give an introduction to using Scrum an
 
 This is the first of a two-part training series on the Basics of Scrum in Agile.
 
-## More talks in this series:
+#### More talks in this series:
 
-- [**Foundations of Agile, Part I**](#) — Friday, November 4, 1:30 - 2:30 pm, ET 
-- [**Foundations of Agile, Part II**](#) — Tuesday, November 5, 3:30 - 4:30 pm, ET 
-- [**Basic Scrum, Part I**](#) — Friday, November 8, 1:30 - 2:30 pm, ET 
-- [**Basic Scrum, Part II**](#) — Tuesday, November 12, 3:00 - 4:00 pm, ET 
-- [**Intro to Kanban, Part I**](#) — Monday, November 13, 3:00 - 4:00 pm, ET 
-- [**Intro to Kanban, Part II**](#) — Tuesday, November 14, 2:30 - 3:30 pm, ET
+- [**Foundations of Agile, Part I**]({{< link "/event/2019/11/04/foundations-agile-i/" >}}) — Friday, November 4, 1:30 - 2:30 pm, ET 
+- [**Foundations of Agile, Part II**]({{< link "/event/2019/11/05/basic-scrum-i/" >}}) — Tuesday, November 5, 3:30 - 4:30 pm, ET 
+- [**Basic Scrum, Part I**]({{< link "/event/2019/11/08/basic-scrum-i/" >}}) — Friday, November 8, 1:30 - 2:30 pm, ET 
+- [**Basic Scrum, Part II**]({{< link "/event/2019/11/12/basics-scrum-ii/" >}}) — Tuesday, November 12, 3:00 - 4:00 pm, ET 
+- [**Intro to Kanban, Part I**]({{< link "/event/2019/11/13/intro-kanban-i/" >}}) — Monday, November 13, 3:00 - 4:00 pm, ET 
+- [**Intro to Kanban, Part II**]({{< link "/event/2019/11/14/intro-kanban-ii/" >}}) — Tuesday, November 14, 2:30 - 3:30 pm, ET
 
 ## About the speakers
 

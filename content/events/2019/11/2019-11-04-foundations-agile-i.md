@@ -1,9 +1,10 @@
 ---
 slug: foundations-agile-i
 title: 'Foundations of Agile I'
+deck: "with Alan Atlas and Alan Brouilette"
 summary: 'Part one of an introduction to Agile concepts, roles, and the language that is commonly used in Agile processes.'
 featured_image:
-  uid: agile-scrum-part-1
+  uid: agile-foundations-part-1
   alt: ''
 event_type:
   - zoom
@@ -16,7 +17,7 @@ youtube_id:
 
 ---
 
-{{< img src="agile-scrum-part-1" >}}
+{{< img src="agile-foundations-part-1" >}}
 
 
 Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
@@ -27,14 +28,14 @@ In this first session, Alan and Alan will give an introduction to Agile and go o
 
 > _**Agile** — a set of values and principles that describe a way of working that promotes continuous learning and user-focused value delivery._
 
-## More talks in this series:
+#### More talks in this series:
 
-- [**Foundations of Agile, Part I**](#) — Friday, November 4, 1:30 - 2:30 pm, ET 
-- [**Foundations of Agile, Part II**](#) — Tuesday, November 5, 3:30 - 4:30 pm, ET 
-- [**Basic Scrum, Part I**](#) — Friday, November 8, 1:30 - 2:30 pm, ET 
-- [**Basic Scrum, Part II**](#) — Tuesday, November 12, 3:00 - 4:00 pm, ET 
-- [**Intro to Kanban, Part I**](#) — Monday, November 13, 3:00 - 4:00 pm, ET 
-- [**Intro to Kanban, Part II**](#) — Tuesday, November 14, 2:30 - 3:30 pm, ET
+- [**Foundations of Agile, Part I**]({{< link "/event/2019/11/04/foundations-agile-i/" >}}) — Friday, November 4, 1:30 - 2:30 pm, ET 
+- [**Foundations of Agile, Part II**]({{< link "/event/2019/11/05/basic-scrum-i/" >}}) — Tuesday, November 5, 3:30 - 4:30 pm, ET 
+- [**Basic Scrum, Part I**]({{< link "/event/2019/11/08/basic-scrum-i/" >}}) — Friday, November 8, 1:30 - 2:30 pm, ET 
+- [**Basic Scrum, Part II**]({{< link "/event/2019/11/12/basics-scrum-ii/" >}}) — Tuesday, November 12, 3:00 - 4:00 pm, ET 
+- [**Intro to Kanban, Part I**]({{< link "/event/2019/11/13/intro-kanban-i/" >}}) — Monday, November 13, 3:00 - 4:00 pm, ET 
+- [**Intro to Kanban, Part II**]({{< link "/event/2019/11/14/intro-kanban-ii/" >}}) — Tuesday, November 14, 2:30 - 3:30 pm, ET
 
 ## About the speakers
 
