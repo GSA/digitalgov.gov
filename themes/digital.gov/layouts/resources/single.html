@@ -24,14 +24,8 @@
 
 
     <div class="entry-content">
-      <!-- Go to www.addthis.com/dashboard to customize your tools -->
-      <div class="addthis_inline_share_toolbox"></div>
-
       {{ .Content }}
-
     </div>
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-    <div class="addthis_inline_share_toolbox"></div>
 
     {{ partial "post-meta--feedback" (dict "page" . "page_type" "page" "branch" ($.Scratch.Get "branch") ) }}
     {{ partial "page-details" . }}

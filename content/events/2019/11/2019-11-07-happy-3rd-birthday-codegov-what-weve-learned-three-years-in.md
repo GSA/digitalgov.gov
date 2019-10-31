@@ -11,12 +11,11 @@ date: 2019-11-07 14:00:00 -0500
 end_date: 2019-11-07 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Code.gov and DigitalGov
-registration_url: https://www.eventbrite.com/e/78033796185
-youtube_id: 
+registration_url: https://www.eventbrite.com/e/78033796185 
 
 ---
 
-It’s [Code.gov](https://code.gov/)’s 3rd birthday! As we celebrate our 3rd trip around the sun, we wanted to share where we’ve been, where we are going, and the implementation of the federal source code.
+It’s [Code.gov](https://code.gov/)’s 3rd birthday! As we celebrate our 3rd trip around the sun, we wanted to share where we’ve been, where we are going, and the implementation of the federal source code policy.
 
 When we launched three years ago in November of 2016, our site had 45 code projects. Now we have 6,609 projects from 26 agencies. But people still want to know...What is Code.gov? Well, since _three is a magic number*_, we want to take you behind the curtain to learn what exactly Code.gov is, meet the team, and learn how you can become a part of our community.
 

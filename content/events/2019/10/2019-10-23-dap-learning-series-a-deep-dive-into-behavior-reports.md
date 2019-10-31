@@ -12,14 +12,15 @@ end_date: 2019-10-23 14:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-behavior-reports-registration-59347588234
+youtube_id: hbx8Yrj3zS0
 
 ---
 
-_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993572&CustomerID=321)_
+_[View the slides](https://digital.gov/pdf/Deep-Dive-Into-Behavior-Reports.pdf)_ (PDF, 6.56 MB, 21 pages)
 
 Google divides the user website journey across different sections of Google Analytics Standard Reports.
 
-In this webinar, Digital Analytics Program (DAP) Analyst, Freddie Blicher, will do a deep dive into behavior reporting to help DAP users understand how to use it and what are the pitfalls. We’ll also unpack the most often used reports, and also speak to some lesser known reports and how DAP users can leverage them for analysis and insights.
+In this webinar, Digital Analytics Program (DAP) program manager, Tim Lowden, will do a deep dive into behavior reporting to help DAP users understand how to use it and what are the pitfalls. We’ll also unpack the most often used reports, and also speak to some lesser known reports and how DAP users can leverage them for analysis and insights.
 
 **Attendees will learn:**
 

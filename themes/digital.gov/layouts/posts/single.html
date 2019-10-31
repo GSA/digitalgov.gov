@@ -19,15 +19,10 @@
         <h2 class="deck">{{ .Params.deck | markdownify }}</h2>
         {{ end }}
 
-        {{ partial "post-meta" . }}
-        
-        <!-- Go to www.addthis.com/dashboard to customize your tools -->
-        <div class="addthis_inline_share_toolbox"></div>
+        {{- partial "post-meta" . -}}
 
-        {{ .Content }}
+        {{- .Content -}}
 
-        <!-- Go to www.addthis.com/dashboard to customize your tools -->
-        <div class="addthis_inline_share_toolbox"></div>
         {{ partial "post-meta--related-posts" . }}
         {{ partial "post-meta--tag-list" . }}
         {{ partial "post-meta--feedback" (dict "page" . "page_type" "article" "branch" ($.Scratch.Get "branch")) }}
