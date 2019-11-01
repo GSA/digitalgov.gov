@@ -1,7 +1,7 @@
 ---
 slug: us-web-design-system-november-monthly-call
-title: 'U&#46;S&#46; Web Design System&#58; November Monthly Call'
-summary: ''
+title: "U&#46;S&#46; Web Design System&#58; November Monthly Call"
+summary: "Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, in our monthly call as he walks through the design system and answers your questions&#46;"
 featured_image:
   uid: uswds-2-illio-feature-image
   alt: ''
@@ -17,7 +17,7 @@ registration_url: https://www.eventbrite.com/e/us-web-design-system-november-mon
 
 {{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}
 
-This November, Dan Williams, [the U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) product lead, will demo the new version of the USWDS Jekyll theme and Brian Seek will talk about using Drupal to run multiple USWDS sites on the same codebase with different settings files.'
+This November, Dan Williams, [the U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) product lead, will demo the new version of the USWDS Jekyll theme and Brian Seek will talk about using Drupal to run multiple USWDS sites on the same codebase with different settings files.
 
 Brian Seek is Drupalist and Engineer at CivicActions, working with the Department of Justice, Office of Justice Programs.
 
