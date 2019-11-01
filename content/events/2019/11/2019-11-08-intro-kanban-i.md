@@ -29,8 +29,8 @@ Kanban is not strictly an Agile method as it can be used to model any flow-based
 - [**Foundations of Agile, Part II**]({{< link "/event/2019/11/05/foundations-agile-ii" >}}) — Tuesday, November 5, 3:30 - 4:30 pm, ET 
 - [**Basics of Scrum, Part I**]({{< link "/event/2019/11/08/basic-scrum-i/" >}}) — Friday, November 8, 1:30 - 2:30 pm, ET 
 - [**Basics of Scrum, Part II**]({{< link "/event/2019/11/12/basics-scrum-ii/" >}}) — Tuesday, November 12, 3:00 - 4:00 pm, ET 
-- [**Intro to Kanban, Part I**]({{< link "/event/2019/11/13/intro-kanban-i/" >}}) — Monday, November 13, 3:00 - 4:00 pm, ET 
-- [**Intro to Kanban, Part II**]({{< link "/event/2019/11/14/intro-kanban-ii/" >}}) — Tuesday, November 14, 2:30 - 3:30 pm, ET
+- [**Intro to Kanban, Part I**]({{< link "/event/2019/11/13/intro-kanban-i/" >}}) — Wednesday, November 13, 3:00 - 4:00 pm, ET 
+- [**Intro to Kanban, Part II**]({{< link "/event/2019/11/14/intro-kanban-ii/" >}}) — Thursday, November 14, 2:30 - 3:30 pm, ET
 
 ## About the speakers
 
