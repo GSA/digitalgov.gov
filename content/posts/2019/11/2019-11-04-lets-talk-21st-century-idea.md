@@ -3,11 +3,12 @@ slug: lets-talk-21st-century-idea
 date: 2019-11-04 10:00:00 -0500
 title: "Let’s talk 21st Century IDEA"
 summary: "We are starting a new blog post series on 21st Century IDEA that’ll break down one essential topic and point to guidance to start running with it&#46;"
-authors:
-  - jeremyzilar
 featured_image:
   uid: this-weeks-idea-card
   alt: ''
+authors:
+  - jeremyzilar
+  
 ---
 
 
@@ -33,5 +34,7 @@ Each week, we’ll break down one topic that is essential to [21st Century IDEA]
 ### From the field
 
 We’d like to congratulate the CIO.gov team for relaunching their site using the [U.S. Web Design System](https://designsystem.digital.gov) (USWDS) 2.0. Learn more about [their new look](https://www.cio.gov/new-look/) or [check out their code](https://github.com/GSA/cio.gov-redo). :tada: :clap:
+
+---
 
 _Have a 21st Century IDEA related comment or question? Or maybe you’d like to shout out some work your team has done? Send it to us by 3 pm ET on Thursdays ([digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)) and we’ll work to incorporate it into the next week’s newsletter._
