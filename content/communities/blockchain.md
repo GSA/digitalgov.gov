@@ -19,14 +19,16 @@ Federal agencies are eager to better evaluate and adopt distributed ledger techn
 - Appropriated funds
 - Federal assistance and foreign aid delivery
 
-## Who we are
+## Who we are 
+
 This community serves as a collaborative hub for federal agencies that are interested in exploring distributed ledger technology and its implementation within government.
 
 ## How to join
 
-If you are a government employee with a .gov or .mil email address, join our [Federal Blockchain Community](mailto:Blockchain-subscribe-request@listserv.gsa.gov?subject=Blockchain%20listserv).
+**If you are a federal government employee** with a .gov or .mil email address, join our [Federal Blockchain Community](mailto:Blockchain-subscribe-request@listserv.gsa.gov?subject=Blockchain%20listserv).
 
 To join our public listserv for Blockchain, contact [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=Blockchain%20listserv) with the message body“SUB BlockchainPublic.”
 
 ### What we do
+
 We hosted the first U.S. Federal Blockchain Forum on July 18, 2017, uniting more than 100 federal managers from dozens of unique agencies to discuss use cases, limitations, and solutions. Agency teams submitted their own potential use cases for blockchain technology to our current repository of almost 200 submissions.
