@@ -13,7 +13,7 @@ The president signed the 21st Century Integrated Digital Experience Act—otherw
 
 The current state of federal websites and digital services is not ideal. We can, and should, do more. 21st Century IDEA is a way to make this change happen, and it provides a clear, practical path forward. This is a significant opportunity to improve the lives of the public, and public servants, by transforming how government uses technology.
 
-So what is 21st Century IDEA? The bill’s sponsor, Representative Ro Khanna, summed it up by saying, “Government exists to serve citizens, and this bill ensures government leverages available technology to provide cohesive, user-friendly online service that people around this country expect and deserve.”
+So what is 21st Century IDEA? The bill’s sponsor, Representative Ro Khanna, summed it up by saying, _“Government exists to serve citizens, and this bill ensures government leverages available technology to provide cohesive, user-friendly online service that people around this country expect and deserve.”_
 
 When it comes to online services, we all have to do a better job. Customer expectations are being ratcheted up by the private sector. Government services should be delivered in ways the public now demands and expects—on the go, fast, easy, secure, and accessible. 
 
