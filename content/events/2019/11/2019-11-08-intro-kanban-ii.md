@@ -21,7 +21,7 @@ youtube_id:
 
 ## About this session — Kanban, Part II
 
-Kanban is not strictly an Agile method as it can be used to model any flow-based process. However it is quite applicable for Agile situations, and is much more amenable to environments that are not concerned with software development.
+Building on Intro to Kanban I, we go into greater depth on how to handle urgencies, emergencies, & blocked items; and how kanban fits with Agile. The session wraps up with a non-software case study. 
 
 #### More talks in this series:
 

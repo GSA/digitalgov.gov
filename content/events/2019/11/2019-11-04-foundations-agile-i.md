@@ -24,7 +24,8 @@ Agile is a way of thinking and a way of attacking problems, and it is central to
 
 ## About this session — Foundations of Agile, Part I
 
-Agile methods, particularly Agile software development methods, have become the de facto approach to modern software development. Many people find themselves on “Agile teams” doing “Agile development” without understanding the fundamental underlying principles. This is the first of two sessions that will explore the fundamentals of the Agile methodology. Major topics covered will include the need for Agile, the Agile Manifesto and Principles, and Iterative development.
+Agile methods, particularly Agile software development methods, have become the de facto approach to modern software development. Many people find themselves on “Agile teams” doing “Agile development” without understanding the fundamental underlying principles. This is the first of two sessions that will explore the fundamentals of Agile methodology. Major topics covered will include the need for Agile, the Agile Manifesto and Principles, and Iterative development.
+
 
 #### More talks in this series:
 
