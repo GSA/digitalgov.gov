@@ -23,7 +23,7 @@ We'll be joined by **Brian Seek**, a Drupalist and Engineer at CivicActions, wor
 
 This event is part of a monthly series that takes place on the third Thursday of each month. The video will be available on Digital.gov shortly after the event.
 
-[USWDS](https://designsystem.digital.gov/) is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
+[**USWDS**](https://designsystem.digital.gov/) is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
 
 - [The U.S. Web Design System](https://designsystem.digital.gov/)
 - [Contribute GitHub](https://github.com/uswds/uswds/issues)
