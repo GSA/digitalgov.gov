@@ -19,9 +19,7 @@ We can, and should, do more. 21st Century IDEA is a way to make this change happ
 
 ## What’s in the Law?
 
-_High-level requirements in 21st Century IDEA._
-
-21st Century IDEA speaks to the omnichannel experience of our customers by recognizing that their end-to-end experience must be smooth and easy, not disjointed. Specifically, the Act requires all executive branch agencies to:
+21st Century IDEA speaks to the omnichannel experience of our customers by recognizing that their end-to-end experience must be smooth and easy, not disjointed. Specifically, the Act requires all executive branch agencies to: 
 
 - modernize their websites,
 - digitize services and forms,
