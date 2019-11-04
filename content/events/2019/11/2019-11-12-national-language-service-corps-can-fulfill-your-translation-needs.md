@@ -15,6 +15,11 @@ registration_url: https://www.eventbrite.com/e/77501026657
 
 ---
 
+{{< note >}}
+**Note:** _This live event is for federal employees. Please register with your federal **.gov** or **.mil** email address. 
+A recording of the video will be posted here shortly after it ends for all to view._
+{{< /note >}}
+
 Using external translation vendors can often be costly, rigid, and time-consuming. The [National Language Service Corps](https://www.nlscorps.org) (NLSC), a program of the [Defense Language National Security Education Office](https://dlnseo.org/) (DLNSEO) in the [Office of the Under Secretary of Defense for Personnel and Readiness](https://prhome.defense.gov/) at the [Department of Defense](https://www.defense.gov) (DoD), can help fulfill your language needs offering regional and cultural expertise at a fraction of the cost.
 
 Hyejin Hickey and Christina Lantuh will share details of the NLSC—an agile, flexible, and cost-effective (yet high-quality) program that can provide services in over 400 languages. They will delve into the NLSC’s full range of language capabilities and answer your questions on how to maximize their services.
