@@ -11,7 +11,6 @@ authors:
   
 ---
 
-
 _“In the midst of chaos, there is also opportunity” ― Sun Tzu_
 
 Welcome to “This Week’s IDEA”, your new update on the 21st Century Integrated Digital Experience Act (21st Century IDEA).
@@ -28,7 +27,7 @@ Each week, we’ll break down one topic that is essential to [21st Century IDEA]
 
 ## Up Next 
 - [We’re hosting a new series of talks on Agile](https://digital.gov/event/2019/11/04/foundations-agile-i/) from 18F’s Alan Atlas and Alan Brouilette. 
-- The [U.S. Web Design System: November monthly call](https://digital.gov/event/2019/11/21/us-web-design-system-november-monthly-call/) will be on Thurs, Nov. 21 @ 2:30pm ET.
+- The [U.S. Web Design System: November monthly call](https://digital.gov/event/2019/11/21/us-web-design-system-november-monthly-call/) will be on Thursday, November 21, at 2:30 pm, ET.
 - We’re also working on creating more visibility around the Federal Web Council and the work that they’ve been doing around 21st Century IDEA. More on that in the coming weeks.
 
 ### From the Field
