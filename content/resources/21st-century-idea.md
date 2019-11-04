@@ -1,7 +1,7 @@
 ---
 url: /resources/21st-century-idea/
 date: 2019-11-01 3:00:00 -0400
-title: "21st Century IDEA"
+title: "21st Century Integrated Digital Experience Act"
 summary: "A law to improve federal websites and digital services intended for use by the public."
 authors:
   - ammie-farraj-feijoo
