@@ -30,11 +30,15 @@ The Web Council is led by two co-chairs; one from the General Services Administr
 - [Rachel Flagg](mailto:rachel.flagg@gsa.gov) - Content Strategist at the U.S. General Services Administration (GSA), Office of Government-wide Policy (OGP)
 - [Matthew Harmon](mailto:matthew.harmon@hq.dhs.gov) - Director of Web Communications at the U.S. Department of Homeland Security (DHS), Office of Public Affairs
 
+## Members
+
+- 
+- 
+-
+
 ## Current Projects and Key Resources
 
 - 21st Century Integrated Digital Experience Act (21st Century IDEA)
 - [Text of 21st Century IDEA](https://www.congress.gov/bill/115th-congress/house-bill/5759/text)
 - [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/)
 - [Checklist of Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)
-
-## Members
