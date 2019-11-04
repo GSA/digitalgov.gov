@@ -9,7 +9,7 @@ authors:
 
 ---
 
-The 21st Century Integrated Digital Experience Act, otherwise known as "_21st Century IDEA_",into was signed into law in December 2018. The Act aims to improve the digital government customer experience by reinforcing existing requirements for federal public websites.
+The 21st Century Integrated Digital Experience Act, otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers by reinforcing existing requirements for federal public websites.
 
 So what is 21st Century IDEA? The bill’s sponsor, Representative Ro Khanna, summed it up by saying, _“Government exists to serve citizens, and this bill ensures government leverages available technology to provide cohesive, user-friendly online service that people around this country expect and deserve.”_
 
@@ -17,8 +17,7 @@ The current state of federal websites and digital services is not ideal. Custome
 
 We can, and should, do more. 21st Century IDEA is a way to make this change happen, and it provides a clear, practical path forward. This is a significant opportunity to improve the lives of the public by transforming how government uses technology.
 
-
-### What’s in the law?
+## What’s in the law?
 
 _High-level requirements in 21st Century IDEA._
 
@@ -31,7 +30,7 @@ _High-level requirements in 21st Century IDEA._
 
 It also encourages agencies to standardize and transition to centralized shared services.
 
-### What does it mean to modernize websites?
+## What does it mean to modernize websites?
 
 All new, public-facing websites and digital services must meet eight specific requirements.
 
@@ -44,8 +43,7 @@ All new, public-facing websites and digital services must meet eight specific re
 7. **Customizable** - provide an option for a more customized digital experience
 8. **Mobile-friendly** - be functional and usable on mobile devices
 
-
-### How is progress reported?
+## How is progress reported?
 
 **21st Century IDEA** requires executive agencies to provide progress reports. Each agency that maintains a public website or digital service must report to
 
