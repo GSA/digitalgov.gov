@@ -10,20 +10,22 @@ aliases:
 
 {{< search-resources >}}
 
-## Getting Started
+## Featured Resources
 - [**OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies**]({{< link "omb-memos-circulars-executive-orders-and-other-policies.md" >}})
 - [**Checklist of Requirements for Federal Digital Services**]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})
 - [**Required Web Content and Links**]({{< link "resources/required-web-content-and-links.md" >}})
+- [**An overview of the 21st Century Integrated Digital Experience Act**]({{< link "resources/21st-century-integrated-digital-experience-act.md" >}})
+
 
 ## Accessibility
 
-* [Find Your Agency's 508 Program Manager](https://section508.gov/tools/coordinator-listing) 
-* [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw) 
-* [Introducing Accessibility for Teams](https://digital.gov/2018/07/10/introducing-accessibility-for-teams/) 
-    - [Accessibility for Teams](https://accessibility.digital.gov/) 
-* [Accessibility Resource List]({{< link "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}}) 
-* [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< link "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}}) 
-* [Mythbuster’s Guide to Accessibility](https://medium.com/the-u-s-digital-service/mythbusters-guide-to-accessibility-92ccd88655c6#.lj5vo2vff) 
+* [Find Your Agency's 508 Program Manager](https://section508.gov/tools/coordinator-listing)
+* [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw)
+* [Introducing Accessibility for Teams](https://digital.gov/2018/07/10/introducing-accessibility-for-teams/)
+    - [Accessibility for Teams](https://accessibility.digital.gov/)
+* [Accessibility Resource List]({{< link "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
+* [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< link "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
+* [Mythbuster’s Guide to Accessibility](https://medium.com/the-u-s-digital-service/mythbusters-guide-to-accessibility-92ccd88655c6#.lj5vo2vff)
 
 ## Challenges and Prizes
 
