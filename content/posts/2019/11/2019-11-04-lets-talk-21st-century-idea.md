@@ -20,7 +20,7 @@ Welcome to “This Week’s IDEA”, your new update on the 21st Century Integra
 
 Each week, we’ll break down one topic that is essential to [21st Century IDEA](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) and provide related guidance that your team needs to start making focused changes to your digital products. We’re aiming to publish this update each Monday morning on Digital.gov and distribute it through the Digital.gov newsletter and in our communities of practice _(note: we might skip some holiday weeks)_.
 
-**Still getting to know the 21st Century IDEA Act?**
+**Still Getting to Know the 21st Century IDEA Act?**
 
 - [We published an overview of 21st Century IDEA](https://digital.gov/resources/21st-century-idea/) where we break down the key sections of the law in clear, plain language. We’ll be building on this in the coming weeks.
 - Chat with others in government about 21st Century IDEA in the [Web Managers community](https://digital.gov/communities/web-content-managers/). This listserv has the right mix of people who work at the intersection of communication and technology in government.
@@ -31,7 +31,7 @@ Each week, we’ll break down one topic that is essential to [21st Century IDEA]
 - The next [U.S. Web Design System](https://designsystem.digital.gov/) monthly call will be on [Thurs, Nov. 21 @ 2:30pm ET](https://digital.gov/event/2019/11/21/us-web-design-system-november-monthly-call/).
 - We’re also working on creating more visibility around the Federal Web Council and the work that they’ve been doing around 21st Century IDEA. More on that in the coming weeks.
 
-### From the field
+### From the Field
 
 We’d like to congratulate the CIO.gov team for relaunching their site using the [U.S. Web Design System](https://designsystem.digital.gov) (USWDS) 2.0. Learn more about [their new look](https://www.cio.gov/new-look/) or [check out their code](https://github.com/GSA/cio.gov-redo). :tada: :clap:
 
