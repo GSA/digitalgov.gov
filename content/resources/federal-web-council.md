@@ -25,13 +25,10 @@ If you’re a federal employee working on web and digital services, and wish to 
 
 ## Leadership
 
-The Web Council is led by two co-chairs; one from the General Services Administration, as the sponsoring agency, and the other from one of the member agencies. The agency co-chair occasionally rotates.
-
-### Current Co-Chairs
+The Web Council is led by two co-chairs; one from the General Services Administration, as the sponsoring agency, and the other from one of the member agencies. The agency co-chair occasionally rotates. The current co-chairs are:
 
 - [Rachel Flagg](mailto:rachel.flagg@gsa.gov) - Content Strategist at the U.S. General Services Administration (GSA), Office of Government-wide Policy (OGP)
 - [Matthew Harmon](mailto:matthew.harmon@hq.dhs.gov) - Director of Web Communications at the U.S. Department of Homeland Security (DHS), Office of Public Affairs
-
 
 ## Current Projects and Key Resources
 
