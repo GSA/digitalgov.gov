@@ -4,6 +4,7 @@ date: 2019-11-01 3:00:00 -0400
 title: "21st Century Integrated Digital Experience Act"
 summary: "The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
 deck: "The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
+type: guide
 authors:
   - ammie-farraj-feijoo
   - jeremyzilar
