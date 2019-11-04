@@ -17,7 +17,7 @@ The current state of federal websites and digital services is not ideal. Custome
 
 We can, and should, do more. 21st Century IDEA is a way to make this change happen, and it provides a clear, practical path forward. This is a significant opportunity to improve the lives of the public by transforming how government uses technology.
 
-## What’s in the law?
+## What’s in the Law?
 
 _High-level requirements in 21st Century IDEA._
 
@@ -30,7 +30,7 @@ _High-level requirements in 21st Century IDEA._
 
 It also encourages agencies to standardize and transition to centralized shared services.
 
-## What does it mean to modernize websites?
+## What Does It Mean to Modernize Websites?
 
 All new, public-facing websites and digital services must meet eight specific requirements.
 
@@ -43,7 +43,7 @@ All new, public-facing websites and digital services must meet eight specific re
 7. **Customizable** - provide an option for a more customized digital experience
 8. **Mobile-friendly** - be functional and usable on mobile devices
 
-## How is progress reported?
+## How is Progress Reported?
 
 **21st Century IDEA** requires executive agencies to provide progress reports. Each agency that maintains a public website or digital service must report to
 
