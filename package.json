@@ -26,7 +26,6 @@
     "gulp-git": "^2.9.0",
     "gulp-gzip": "^1.4.2",
     "gulp-hash": "^4.2.2",
-    "gulp-jshint": "^2.1.0",
     "gulp-notify": "^3.2.0",
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^1.4.0",
@@ -54,5 +53,8 @@
     "uswds": "^2.2.1",
     "uswds-gulp": "github:uswds/uswds-gulp",
     "vinyl-paths": "^3.0.0"
+  },
+  "dependencies": {
+    "octicons": "^7.3.0"
   }
 }

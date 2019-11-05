@@ -15,6 +15,8 @@ registration_url: http://cma.ahrq.gov/112019Webinar
 
 Political Savvy can be defined as the ability to exhibit confidence and professional diplomacy, while effectively relating to people at all levels internally and externally. This seminar will focus on what it is, how to master it, and why mastering this skill is so important, along with a discussion about engagement and communications-related issues that are common across organizations. This talk is part of the Federal Leadership and Professional Development Seminar Series (FLPDSS).
 
+**Note**: If you register to attend online (instead of attending in person in Maryland), a reminder email will be sent prior to the event that includes your link to join the video.
+
 ## Our speaker
 
 **Robert J. Huttenlocker** currently serves as the Assistant Inspector General for Management at the Office of Inspector General (OIG) of the U. S. Department of Agriculture (USDA). His USDA career spans almost 29 years, during which time he has held numerous leadership positions in three agencies and OIG. Mr. Huttenlocker has over 30 years of federal service and has been a member of the Senior Executive Service (SES) since November 2006. 

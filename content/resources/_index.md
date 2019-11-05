@@ -14,6 +14,7 @@ aliases:
 - [**OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies**]({{< ref "omb-memos-circulars-executive-orders-and-other-policies.md" >}})
 - [**Checklist of Requirements for Federal Digital Services**]({{< ref "checklist-of-requirements-for-federal-digital-services.md" >}})
 - [**Required Web Content and Links**]({{< ref "resources/required-web-content-and-links.md" >}})
+- [**An overview of the 21st Century Integrated Digital Experience Act**]({{< ref "resources/21st-century-integrated-digital-experience-act.md" >}})
 
 ## Accessibility
 
