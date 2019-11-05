@@ -16,7 +16,6 @@ type: guide
 weight: 3
 ---
 
-
 If you manage a public website in the federal government's executive branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
 
 **This page makes it clear:**
@@ -474,9 +473,6 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 - (2) a mechanism on the Offices of Inspectors General website by which individuals may anonymously report cases of waste, fraud, or abuse with respect to those Departments, agencies, and commissions.
 {{< / card-policy >}}
 
-- {{< highlight >}}(1) a direct link to the Internet websites of their Offices of Inspectors General; and{{< /highlight >}}
-- (2) a mechanism on the Offices of Inspectors General website by which individuals may anonymously report cases of waste, fraud, or abuse with respect to those Departments, agencies, and commissions.
-{{< / card-policy >}}
 
 ---
 
