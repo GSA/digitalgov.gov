@@ -20,6 +20,8 @@ youtube_id:
 {{< img src="agile-foundations-part-1" >}}
 
 
+_[View the slides](https://digital.gov/pdf/Foundations-of-Agile-Part-I.pdf)_ (PDF, 23.1 MB, 40 pages)
+
 Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
 
 ## About this session — Foundations of Agile, Part I
