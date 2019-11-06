@@ -16,8 +16,6 @@ youtube_id: Dtv2H1YsswQ
 
 ---
 
-{{< img src="agile-foundations-part-2" >}}
-
 Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
 
 ## About this session
