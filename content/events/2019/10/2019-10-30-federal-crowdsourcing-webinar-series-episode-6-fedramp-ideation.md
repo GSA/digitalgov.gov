@@ -16,9 +16,9 @@ registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-ser
 aliases:
   - /event/2019/10/08/federal-crowdsourcing-webinar-series-episode-6-fedramp-ideation/
 
----
+youtube_id: bx1ANQtHNQY
 
-Youtube_id:bx1ANQtHNQY
+---
 
 Government is finding its way to the cloud, using care and caution to protect its sensitive data while supporting current IT modernization efforts, a hallmark of the [President’s Management Agenda](https://www.whitehouse.gov/omb/management/pma/) (PMA).
 
