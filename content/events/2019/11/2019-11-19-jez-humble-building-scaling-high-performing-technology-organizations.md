@@ -17,7 +17,7 @@ registration_url: https://www.eventbrite.com/e/jez-humble-building-and-scaling-h
 
 {{< img src="devops-jez-humble" >}}
 
-How can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter―that it can't provide a competitive advantage to our companies.
+How can we apply technology to drive business value in organizations? For years, we've been told that the performance of software delivery teams doesn't matter, or that it can't provide a competitive advantage to our companies, or produce better outcomes in the public sector.
 
 {{< img-right src="jez-humble" >}}
 
