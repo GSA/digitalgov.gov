@@ -1,5 +1,12 @@
 .gov-banner{
   @include u-bg('primary-darkest');
+  .usa-banner__inner{
+    @include u-maxw('desktop-lg');
+    @include u-display('flex');
+    // @include u-flex('row');
+    // @include u-flex('align-center');
+    // @include u-flex('justify-center')
+  }
   .usa-banner__header-text{
     @include u-text('white');
   }
