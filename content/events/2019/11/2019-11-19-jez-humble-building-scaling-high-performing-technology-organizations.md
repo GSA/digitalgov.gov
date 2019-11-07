@@ -18,7 +18,9 @@ registration_url: https://www.eventbrite.com/e/jez-humble-building-and-scaling-h
 
 How can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter―that it can't provide a competitive advantage to our companies.
 
-Through four years of groundbreaking research to include data collected from the State of DevOps reports, Jez Humble and his colleagues set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods. This talk presents the findings of that research, including how to measure the performance of software teams, what capabilities organizations should invest in to drive higher performance, and how software leaders can apply these findings in their own organizations.
+Through four years of groundbreaking research to include data collected from the State of DevOps reports, **Jez Humble** and his colleagues set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods. 
+
+This talk presents the findings of that research, including how to measure the performance of software teams, what capabilities organizations should invest in to drive higher performance, and how software leaders can apply these findings in their own organizations.
 
 **Join the DevOps Community** by visiting [our community page](https://digital.gov/communities/devops/).
 
