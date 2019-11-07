@@ -1,7 +1,7 @@
 ---
 slug: ginny-redish-how-collaborate-on-strategies
-title: 'Ginny Redish&#58; How to Collaborate on Strategies'
-summary: 'How does content strategy mesh with business, user experience &#40;UX&#41;, and a marketing strategy&#63;'
+title: "Ginny Redish&#58; How to Collaborate on Strategies"
+summary: "How does content strategy mesh with business, user experience &#40;UX&#41;, and a marketing strategy&#63;"
 featured_image:
   uid: plainlanguage-ginny-redish-card
   alt: ''
