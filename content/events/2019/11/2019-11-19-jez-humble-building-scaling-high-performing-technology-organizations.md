@@ -1,7 +1,7 @@
 ---
 slug: jez-humble-building-scaling-high-performing-technology-organizations
 title: "Jez Humble&#58; Building and Scaling High Performing Technology Organizations"
-summary: "This talk presents the findings of that research, including how to measure the performance of software teams, what capabilities organizations should invest in to drive higher performance, and how software leaders can apply these findings in their own organizations&#46;"
+summary: "This talk presents the findings from the latest State of DevOps report, including how to measure the performance of software teams, what capabilities organizations should invest in to drive higher performance, and how software leaders can apply these findings in their own organizations."
 featured_image:
   uid: devops-jez-humble
   alt: ''
