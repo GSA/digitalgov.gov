@@ -18,10 +18,7 @@ aliases:
 
 ---
 
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4205794&CustomerID=321)_
-
-
-{{< img src="challengegov-card-episode-6" >}}
+Youtube_id:bx1ANQtHNQY
 
 Government is finding its way to the cloud, using care and caution to protect its sensitive data while supporting current IT modernization efforts, a hallmark of the [President’s Management Agenda](https://www.whitehouse.gov/omb/management/pma/) (PMA).
 
