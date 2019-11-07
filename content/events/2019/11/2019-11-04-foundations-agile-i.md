@@ -12,8 +12,7 @@ date: 2019-11-04 13:30:00 -0500
 end_date: 2019-11-04 14:30:00 -0500
 event_organizer: DigitalGov University
 host: 18F
-registration_url: https://www.eventbrite.com/e/agile-talks-foundations-of-agile-part-i-registration-78043727891
-youtube_id:
+youtube_id:MRfsXVOicC8
 
 ---
 
@@ -83,4 +82,3 @@ _Learn more about how 18F can support your team at [https://18f.gsa.gov](https:/
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
 
-_This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._
