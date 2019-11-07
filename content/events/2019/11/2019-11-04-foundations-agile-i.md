@@ -13,11 +13,9 @@ end_date: 2019-11-04 14:30:00 -0500
 event_organizer: DigitalGov University
 host: 18F
 registration_url: https://www.eventbrite.com/e/agile-talks-foundations-of-agile-part-i-registration-78043727891
-youtube_id:
+youtube_id: MRfsXVOicC8
 
 ---
-
-{{< img src="agile-foundations-part-1" >}}
 
 
 _[View the slides](https://digital.gov/pdf/Foundations-of-Agile-Part-I.pdf)_ (PDF, 23.1 MB, 40 pages)
