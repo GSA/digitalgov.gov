@@ -11,11 +11,11 @@ date: 2019-11-07 14:00:00 -0500
 end_date: 2019-11-07 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Code.gov and DigitalGov
-youtube_id= pCkVngWmMbE
+youtube_id: pCkVngWmMbE
 
 ---
 
-_[View the slides](http://digitalgov.gov/static/pdf/Happy3rdBDayCode.gov.pdf)_ (PDF, 372 KB, 22 pages)
+_[View the slides](http://digitalgov.gov/pdf/Happy3rdBDayCode.gov.pdf)_ (PDF, 372 KB, 22 pages)
 
 It’s [Code.gov](https://code.gov/)’s 3rd birthday! As we celebrate our 3rd trip around the sun, we wanted to share where we’ve been, where we are going, and the implementation of the federal source code policy.
 
