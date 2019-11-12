@@ -16,8 +16,6 @@ youtube_id: Q9BgnJqMP4Y
 
 ---
 
-{{< img src="agile-scrum-part-1" >}}
-
 ## About this session — Basics of Scrum, Part I
 
 By far the most widely used Agile software development methodology is Scrum. This session will cover the basics of Scrum at a very high level. Topics will include the Agile Dev Model, Scrum Process Framework, Product Backlog and Product Owner, User Stories, and Scrum Team.
