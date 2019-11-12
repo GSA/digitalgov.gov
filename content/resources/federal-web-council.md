@@ -2,8 +2,8 @@
 url: /resources/federal-web-council/
 date: 2019-06-25 9:00:00 -0400
 title: "Federal Web Council"
-summary: ""
-deck: ""
+summary: "A cross-agency group that is working together to improve the delivery of U.S. government information and services online."
+deck: "A cross-agency group that is working to improve the delivery of government information and digital services."
 
 ---
 
