@@ -28,7 +28,11 @@ Around [21st Century IDEA](https://digital.gov/resources/21st-century-integrated
 
 Over the summer, the Council worked to better understand how to help federal agencies meet the requirements of 21st Century IDEA. They gathered questions and feedback from the government Web Content Managers Community with the goal of identifying the areas of the law where agencies need more clarification on their responsibilities under the Act. In the coming weeks, we’ll be helping the Council to surface a lot of the findings from their work with you.
 
+## Up Next
 
+- [**Our series of talks on Agile**](https://digital.gov/event/2019/11/04/foundations-agile-i/) from 18F’s Alan Atlas and Alan Brouilette have been wildly popular, and give an amazing overview of how to manage a product team that is doing iterative, user-centered product development. The [remaining 3 sessions](https://digital.gov/events/)  are this week. You can also [watch all of the sessions](https://digital.gov/event/2019/11/04/foundations-agile-i/) via the links on the event pages.
+- **The U.S. Web Design System: November monthly call** will be on Thurs, Nov 21, at 2:30 pm, ET. — [Register](https://digital.gov/event/2019/11/21/us-web-design-system-november-monthly-call/)
+- **Don't miss the illustrious Ginny Redish** as she talks user experience (UX) and plain language strategies on Weds, Nov 13, 2019 2:00 pm, ET. — [Register](https://digital.gov/event/2019/11/13/ginny-redish-how-collaborate-on-strategies/)
 
 
 ## Quotes from the field and shout-outs
