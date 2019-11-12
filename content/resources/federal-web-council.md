@@ -61,7 +61,7 @@ You are encouraged to reach out to your agency’s Web Council member if you hav
 -   Department of Labor — Stan Olshefski
 -   Department of State — Monica Perry
 -   Department of Transportation — Andrea Bouchard
--   Department of the Treasury — _VACANT_
+-   Department of the Treasury — Teri Greene
 -   Department of Veterans Affairs — Joshua Tuscher
 -   Environmental Protection Agency — Lin Darlington
 -   General Services Administration — Sarah Bryant
