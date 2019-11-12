@@ -16,6 +16,8 @@ youtube_id: Q9BgnJqMP4Y
 
 ---
 
+[View the slides] https://digital.gov/event/2019/11/08/basic-scrum-i/pdf/Basics-of-Scrum-Part-One.pdf (PDF, 922KB, 25 pages)
+
 ## About this session — Basics of Scrum, Part I
 
 By far the most widely used Agile software development methodology is Scrum. This session will cover the basics of Scrum at a very high level. Topics will include the Agile Dev Model, Scrum Process Framework, Product Backlog and Product Owner, User Stories, and Scrum Team.
