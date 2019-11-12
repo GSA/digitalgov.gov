@@ -5,6 +5,8 @@ title: Inventory.data.gov Guide
 summary: Introduction Features Using inventory.data.gov Creating a User Account Using inventory.data.gov to manage datasets Adding a Dataset Exporting Data.json Automating data.json downloads by agencies Dataset Hosting Webinar on inventory.data.gov Introduction Inventory.data.gov is a data management tool established in 2013 by the Data.gov Program Management Office (PMO) in what is now the Technology Transformation Service of the
 authors:
   - pashlock
+redirectto: https://resources.data.gov/tools/inventory-data-gov-guide/
+
 ---
 
 * [Introduction](#introduction)
