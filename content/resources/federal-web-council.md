@@ -4,6 +4,7 @@ date: 2019-06-25 9:00:00 -0400
 title: "Federal Web Council"
 summary: "A cross-agency group that is working together to improve the delivery of U.S. government information and services online."
 deck: "A cross-agency group that is working to improve the delivery of government information and digital services."
+type: guide
 
 ---
 
@@ -28,10 +29,8 @@ All federal employees working on web and digital services are encouraged to join
 
 The Web Council is led by two co-chairs; one from the U.S. General Services Administration (GSA) as the sponsoring agency, and the other from one of the member agencies.
 
-### Current Co-Chairs
-
--   [**Rachel Flagg**](mailto:rachel.flagg@gsa.gov) - Content Strategist at GSA’s Office of Government-wide Policy (OGP)
-- [**Matthew Harmon**](mailto:matthew.harmon@hq.dhs.gov) - Director of Web Communications at the U.S. Department of Homeland Security (DHS), Office of Public Affairs
+-   [**Rachel Flagg**](mailto:rachel.flagg@gsa.gov) — Content Strategist at GSA’s Office of Government-wide Policy (OGP)
+- [**Matthew Harmon**](mailto:matthew.harmon@hq.dhs.gov) — Director of Web Communications at the U.S. Department of Homeland Security (DHS), Office of Public Affairs
 
 ---
 
@@ -48,27 +47,27 @@ The Web Council is led by two co-chairs; one from the U.S. General Services Admi
 
 You are encouraged to reach out to your agency’s Web Council member if you have any questions regarding the initiatives listed above, including 21st Century IDEA.
 
--   Agency for International Development - Gregg Your
--   Department of Agriculture - Peter Rhee
--   Department of Commerce - Alicia Sowah
--   Department of Defense - Terry Davis
--   Department of Education - Jim Mould
--   Department of Energy - Tom O'Neill
--   Department of Health and Human Services - Stacey Palosky
--   Department of Homeland Security - Matt Harmon
--   Department of Housing and Urban Development - Helen Savoye-Minor
--   Department of the Interior - Larry Gillick
--   Department of Justice - Ashley McGowan
--   Department of Labor - Stan Olshefski
--   Department of State - Monica Perry
--   Department of Transportation - Andrea Bouchard
--   Department of the Treasury - VACANT
--   Department of Veterans Affairs - Joshua Tuscher
--   Environmental Protection Agency - Lin Darlington
--   General Services Administration - Sarah Bryant
--   National Aeronautics and Space Administration - Brian Dunbar
--   National Science Foundation - VACANT
--   Nuclear Regulatory Commission - VACANT
--   Office of Personnel Management - Heather Stern
--   Small Business Administration - Nagesh Rao
--   Social Security Administration - Wayne Whitten
+-   Agency for International Development — Gregg Your
+-   Department of Agriculture — Peter Rhee
+-   Department of Commerce — Alicia Sowah
+-   Department of Defense — Terry Davis
+-   Department of Education — Jim Mould
+-   Department of Energy — Tom O'Neill
+-   Department of Health and Human Services — Stacey Palosky
+-   Department of Homeland Security — Matt Harmon
+-   Department of Housing and Urban Development — Helen Savoye-Minor
+-   Department of the Interior — Larry Gillick
+-   Department of Justice — Ashley McGowan
+-   Department of Labor — Stan Olshefski
+-   Department of State — Monica Perry
+-   Department of Transportation — Andrea Bouchard
+-   Department of the Treasury — _VACANT_
+-   Department of Veterans Affairs — Joshua Tuscher
+-   Environmental Protection Agency — Lin Darlington
+-   General Services Administration — Sarah Bryant
+-   National Aeronautics and Space Administration — Brian Dunbar
+-   National Science Foundation — _VACANT_
+-   Nuclear Regulatory Commission — _VACANT_
+-   Office of Personnel Management — Heather Stern
+-   Small Business Administration — Nagesh Rao
+-   Social Security Administration — Wayne Whitten
