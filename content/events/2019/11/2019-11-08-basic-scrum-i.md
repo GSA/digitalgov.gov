@@ -16,7 +16,7 @@ youtube_id: Q9BgnJqMP4Y
 
 ---
 
-[View the slides] https://digital.gov/event/2019/11/08/basic-scrum-i/pdf/Basics-of-Scrum-Part-One.pdf (PDF, 922KB, 25 pages)
+[_View the slides_](https://digital.gov/event/2019/11/08/basic-scrum-i/pdf/Basics-of-Scrum-Part-One.pdf) (PDF, 922KB, 25 pages)
 
 ## About this session — Basics of Scrum, Part I
 
