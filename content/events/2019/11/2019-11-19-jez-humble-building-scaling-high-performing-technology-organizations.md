@@ -27,7 +27,7 @@ This talk presents the findings of that research, including how to measure the p
 
 {{< img-right src="jez-humble" >}}
 
-**Jez Humble** is co-author of the Shingo Award-winning Accelerate, The DevOps Handbook, Lean Enterprise, and the Jolt Award-winning Continuous Delivery. He has spent his career tinkering with code, infrastructure, and product development in companies of varying sizes across three continents, including [work for the US Federal Government](https://18f.gsa.gov/2016/08/10/patterns-for-managing-multi-tenant-cloud-environments/) at [18F](https://18f.gsa.gov). As well as serving as DevOps Research and Assessment’s (DORA) CTO, Jez teaches at UC Berkeley.
+**Jez Humble** is co-author of the Shingo Award-winning Accelerate, The DevOps Handbook, Lean Enterprise, and the Jolt Award-winning Continuous Delivery. He has spent his career tinkering with code, infrastructure, and product development in companies of varying sizes across three continents, including [work for the US Federal Government](https://18f.gsa.gov/2016/08/10/patterns-for-managing-multi-tenant-cloud-environments/) at [18F](https://18f.gsa.gov). Jez works as a developer advocate at Google and teaches at UC Berkeley.
 
 ---
 
