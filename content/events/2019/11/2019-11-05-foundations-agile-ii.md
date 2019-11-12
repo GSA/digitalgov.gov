@@ -16,6 +16,8 @@ youtube_id: Dtv2H1YsswQ
 
 ---
 
+[View the slides](https://digital.gov/pdf/Foundations-of-Agile-%20Part-2-Slides.pdf) (PDF, 1.67 MB, 38 pages)
+
 Agile is a way of thinking and a way of attacking problems, and it is central to how modern, digital teams attack problems and respond effectively to the inevitable change that arises when working on digital products.
 
 ## About this session
@@ -67,8 +69,8 @@ As we put it in [the 18F Guide to Agile](https://agile.18f.gov/modern-software-p
 
 ### Want to talk to others in government who are using Agile?
 
-- Join the [Agile/Lean Community of Practice »](http://localhost:1313/communities/agile-lean/)
-- Join the [DevOps Community of Practice »](http://localhost:1313/communities/devops/)
+- Join the [Agile/Lean Community of Practice »](https://digital.gov/communities/agile-lean/)
+- Join the [DevOps Community of Practice »](https://digital.gov/communities/devops/)
 
 _Learn more about how 18F can support your team at [https://18f.gsa.gov](https://18f.gsa.gov/)_
 
