@@ -32,17 +32,17 @@ top6:
   - file          : '2019-11-12-meet-your-federal-web-council.md'
     type          : 'post'
 
+  - file          : '2019-11-08-basic-scrum-i.md'
+    type          : 'video'
+
+  - file          : '2019-11-05-foundations-agile-ii.md'
+    type          : 'video'
+
+  - file          : '2019-11-04-foundations-agile-i.md'
+    type          : 'video'
+
   - file          : '2019-11-04-lets-talk-21st-century-idea.md'
     type          : 'post'
 
   - file          : '2019-10-10-a-new-version-frbs-money-adventure-app-helps-expand-digital-outreach.md'
     type          : 'post'
-
-  - file          : '2019-09-17-findings-from-10xs-recent-round-submissions.md'
-    type          : 'post'
-
-  - file          : '2019-09-11-technology-transformation-begins-with-people-closing-human-technology-gap.md'
-    type          : 'post'
-
-  - file          : '2019-08-27-devops-community-practice-monthly-meeting.md'
-    type          : 'video'
