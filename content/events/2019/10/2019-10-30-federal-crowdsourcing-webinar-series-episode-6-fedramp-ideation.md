@@ -16,12 +16,9 @@ registration_url: https://www.eventbrite.com/e/federal-crowdsourcing-webinar-ser
 aliases:
   - /event/2019/10/08/federal-crowdsourcing-webinar-series-episode-6-fedramp-ideation/
 
+youtube_id: bx1ANQtHNQY
+
 ---
-
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4205794&CustomerID=321)_
-
-
-{{< img src="challengegov-card-episode-6" >}}
 
 Government is finding its way to the cloud, using care and caution to protect its sensitive data while supporting current IT modernization efforts, a hallmark of the [President’s Management Agenda](https://www.whitehouse.gov/omb/management/pma/) (PMA).
 
@@ -50,5 +47,3 @@ And don’t miss these previous episodes:
 _This talk is hosted by [Challenge.gov](https://www.challenge.gov). Managed by the GSA, Challenge.gov serves as both the official listing of prize competitions across government, as well as a centralized platform for federal agencies to market their problem-solving events. The program also designs resources and training, which have helped more than 100 federal agencies run over 900 prize competitions with public participation since 2010._
 
 _This webinar was presented in coordination with [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU) which provides a range of free online and in-person trainings and events for people and teams across the federal government._
-
-_This event will be held and recorded over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client&#95;4meeting) to install the Zoom web browser client beforehand._

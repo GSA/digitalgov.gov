@@ -40,7 +40,7 @@
   </div>
 
   <!-- If event_type == "online" -->
-  {{ if (isset .Params "youtube_id") }}
+  {{ if ( .Params.youtube_id ) and ( .Params.youtube_id "!=" "") }}
     {{ partial "event-stage.html" . }}
   {{ end }}
 

@@ -11,10 +11,14 @@ date: 2019-11-12 13:00:00 -0500
 end_date: 2019-11-12 14:00:00 -0500
 event_organizer: DigitalGov University
 host: Multilingual Community of Practice and Digital.gov
-registration_url: https://www.eventbrite.com/e/77501026657
-youtube_id: 
+registration_url: https://www.eventbrite.com/e/77501026657 
 
 ---
+
+{{< note >}}
+**Note:** _This live event is for federal employees. Please register with your federal **.gov** or **.mil** email address. 
+A recording of the video will be posted here shortly after it ends for all to view._
+{{< /note >}}
 
 Using external translation vendors can often be costly, rigid, and time-consuming. The [National Language Service Corps](https://www.nlscorps.org) (NLSC), a program of the [Defense Language National Security Education Office](https://dlnseo.org/) (DLNSEO) in the [Office of the Under Secretary of Defense for Personnel and Readiness](https://prhome.defense.gov/) at the [Department of Defense](https://www.defense.gov) (DoD), can help fulfill your language needs offering regional and cultural expertise at a fraction of the cost.
 
