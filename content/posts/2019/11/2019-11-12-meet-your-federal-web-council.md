@@ -42,3 +42,7 @@ Over the summer, the Council worked to better understand how to help federal age
 _“Thanks for a great session today. I always leave inspired and hopeful when the federal digital community is brought together."_ — **Heather Stern, Digital Director at OPM** after a recent in-person workshop at the GSA around the U.S. Web Design System.
 
 Huge shout out to the teams at FEMA and DHS on launching the new [Ready.gov](https://ready.gov/) and [Ready.gov Kids](https://ready.gov/kids), using the U.S. Web Design System. _“These teams did a tremendous job, and are really pushing the envelope here at DHS on how we iterate and design using the USWDS.”_ — **Matt Harmon, Director, Web Communications, DHS**.
+
+---
+
+_Have a 21st Century IDEA related comment or question? Or maybe you’d like to shout out some work your team has done? Send it to us by 3 pm ET on Thursdays ([digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)) and we’ll work to incorporate it into the next week’s newsletter._
