@@ -1,7 +1,7 @@
 ---
-slug: 1119-socialgov-talk-reaching-small-businesses-in-digital-environment
-title: '11&#x2F;19 Socialgov Talk&#58; Reaching Small Businesses in the Digital Environment'
-summary: 'In this webinar, the social  media experts from the U&#46;S&#46; Small Business Administration will discuss how they find and communicate with small businesses on their social media platforms&#46;'
+slug: socialgov-talk-reaching-small-businesses-in-digital-environment
+title: 'SocialGov Talk&#58; Reaching Small Businesses in the Digital Environment'
+summary: 'In this webinar, the social media experts from the U&#46;S&#46; Small Business Administration will discuss how they find and communicate with small businesses on their social media platforms&#46;'
 featured_image: 
   uid: 
   alt: ''
@@ -26,9 +26,7 @@ SBA will discuss how they find and communicate with small businesses on their di
 
 **Natale Goriel, Online Media Coordinator**
 
-Online Media Coordinator, Natale Goriel, manages the U.S. Small Business Administration’s online outreach to small business owners and entrepreneurs. She has led SBA’s efforts to launch the agency’s social media program, manage SBA initiatives and reach new audiences in innovative ways. She holds a master’s degree in Communication, Culture, & Technology from Georgetown University and a bachelor’s degree from University of the Pacific.
-
- 
+Online Media Coordinator, Natale Goriel, manages the U.S. Small Business Administration’s online outreach to small business owners and entrepreneurs. She has led SBA’s efforts to launch the agency’s social media program, manage SBA initiatives and reach new audiences in innovative ways. She holds a master’s degree in Communication, Culture, & Technology from Georgetown University and a bachelor’s degree from University of the Pacific. 
 
 **Paul Lester, Social Media Manager**
 
@@ -44,9 +42,4 @@ The DGU team will send a reminder email prior to the event that includes a link 
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
 
-_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure to install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
-
-
-
-
-
+_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure to install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)),_ 
