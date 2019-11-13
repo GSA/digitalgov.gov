@@ -44,8 +44,6 @@ Listed below are resources available that further describe and conduct accessibi
   * <a href="http://webaim.org/" rel="nofollow">WebAIM</a> &#8211; non-profit website with comprehensive web accessibility resources.
   * <a href="http://mobiforge.com/developing/story/why-mobile-web-accessibility-matters-best-practices-make-your-mobile-site-accessibl" rel="nofollow">Why Mobile Web Accessibility Matters</a> &#8211; article discussing best practices to make a mobile site accessible.
 
- 
-
 ### <a name="x-Resources Available-Testing Services"></a>Testing Services {#toc3}
 
 These services/companies or web sites are offered as a sample of what is currently available and do not indicate an endorsement of them or their products and/or services. Agencies should consult their Accessibility experts about other mobile accessibility tools.
@@ -60,8 +58,6 @@ These services/companies or web sites are offered as a sample of what is current
   * <a href="http://validator.w3.org/" rel="nofollow">W3C Markup Validation Service</a>
   * <a href="http://wave.webaim.org/" rel="nofollow">Wave</a>
   * <a href="http://devel.freebsoft.org/wahelper" rel="nofollow">WA Helper</a>
-
- 
 
 ## <a name="x-Test Plans/Checklists available on GitHub"></a>Test Plans/Checklists available on GitHub {#toc4}
 
