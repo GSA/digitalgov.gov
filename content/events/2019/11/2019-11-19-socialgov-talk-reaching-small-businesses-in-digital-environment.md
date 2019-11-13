@@ -39,7 +39,7 @@ Paul Lester is a social media manager at the U.S. Small Business Administration.
 
 ---
 
-_This meeting is the fall meeting for [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media community of practice. SocialGov has over 1,200 members from more than 90 departments and agencies across the federal government._
+_This meeting is sponsored by [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media community of practice. SocialGov has over 1,200 members from more than 90 departments and agencies across the federal government._
 
 The DGU team will send a reminder email prior to the event that includes a link to join the video. 
 
