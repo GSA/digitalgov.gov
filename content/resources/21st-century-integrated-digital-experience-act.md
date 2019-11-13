@@ -17,9 +17,6 @@ authors:
 The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.
 
 
-So what is 21st Century IDEA? The bill’s sponsor, Representative Ro Khanna, summed it up by saying, _“Government exists to serve citizens, and this bill ensures government leverages available technology to provide cohesive, user-friendly online service that people around this country expect and deserve.”_
-
-
 ## Why Is It Important?
 
 The current state of federal websites and digital services is not ideal. Customer expectations are being ratcheted up by the private sector. Government services should be delivered in ways the public now demands and expects—quick, easy, secure, and accessible.
@@ -31,7 +28,7 @@ We can, and should, do more.
 
 ## What’s in the Law?
 
-So what is in 21st Century IDEA? The bill’s sponsor, Representative Ro Khanna, summed it up by saying, “_Government exists to serve citizens, and this bill ensures government leverages available technology to provide cohesive, user-friendly online service that people around this country expect and deserve._”
+So what is in 21st Century IDEA? The bill’s sponsor, Representative Ro Khanna, summed it up by saying, _“Government exists to serve citizens, and this bill ensures government leverages available technology to provide cohesive, user-friendly online service that people around this country expect and deserve.”_
 
 Specifically, the Act requires all executive branch agencies to:
 

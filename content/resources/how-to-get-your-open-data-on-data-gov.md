@@ -9,6 +9,8 @@ topics:
   - data-gov
 authors:
   - pashlock
+redirectto: https://resources.data.gov/tools/how-to-get-your-open-data-on-datagov/
+
 ---
 
 Data.gov is the central clearinghouse for open data from the United States federal government. It also provides access to many local government and non-federal open data resources. Find out below how federal, federal geospatial, and non-federal data is funneled to Data.gov and how you can get your data federated on Data.gov for greater discoverability and impact.
