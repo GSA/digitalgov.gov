@@ -24,6 +24,8 @@ Join the digital experts at the U.S. Small Business Administration (SBA) to lear
 
 SBA will discuss how they find and communicate with small businesses on their different social media platforms. SBA will also talk about how they design successful social media campaigns and how they measure the effectiveness of their message. They will also share some tips for reaching small business by using hashtags, images/graphics, videos, gifs, and more.
 
+## Speakers
+
 **Natale Goriel, Online Media Coordinator**
 
 Online Media Coordinator, Natale Goriel, manages the U.S. Small Business Administration’s online outreach to small business owners and entrepreneurs. She has led SBA’s efforts to launch the agency’s social media program, manage SBA initiatives and reach new audiences in innovative ways. She holds a master’s degree in Communication, Culture, & Technology from Georgetown University and a bachelor’s degree from University of the Pacific. 
@@ -33,6 +35,7 @@ Online Media Coordinator, Natale Goriel, manages the U.S. Small Business Adminis
 Paul Lester is a social media manager at the U.S. Small Business Administration. Most recently, Paul was a content specialist with the Department of Energy, where he managed the agency’s social media accounts and pitched in on all things digital for the Office of Public Affairs. Before his federal career, Paul was a web editor with the Guardian of London’s D.C. bureau and spent more than a decade at the Orlando Sentinel in Florida as an online producer, archivist, and news clerk. 
 
 **Stephen Morris, Communications Program Liaison and Director for the Office of Strategic Alliances**
+
 
 ---
 
