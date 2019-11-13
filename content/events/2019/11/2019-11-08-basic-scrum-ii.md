@@ -12,11 +12,11 @@ date: 2019-11-12 15:00:00 -0500
 end_date: 2019-11-12 16:00:00 -0500
 event_organizer: DigitalGov University
 host: 18F
-youtube_id: Gt-iG6RcU2Y&t=8s
+youtube_id: Gt-iG6RcU2Y
 
 ---
 
-{{< img src="agile-scrum-part-2" >}}
+
 
 ## About this session — Basics of Scrum, Part II
 
