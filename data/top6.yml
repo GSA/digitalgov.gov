@@ -29,6 +29,9 @@
 
 top6:
 
+  - file          : '2019-11-08-basic-scrum-ii.md'
+    type          : 'video'
+
   - file          : '2019-11-12-meet-your-federal-web-council.md'
     type          : 'post'
 
@@ -42,7 +45,4 @@ top6:
     type          : 'video'
 
   - file          : '2019-11-04-lets-talk-21st-century-idea.md'
-    type          : 'post'
-
-  - file          : '2019-10-10-a-new-version-frbs-money-adventure-app-helps-expand-digital-outreach.md'
     type          : 'post'
