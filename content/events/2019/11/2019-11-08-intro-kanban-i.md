@@ -16,8 +16,6 @@ youtube_id: 7L3m26puP-M
 
 ---
 
-{{< img src="agile-kanban-part-1" >}}
-
 ## About this session — Kanban, Part I
 
 Kanban is not strictly an Agile method as it can be used to model any flow-based process. However it is quite applicable for Agile situations, and is much more amenable to environments that are not concerned with software development. 18F’s Operations team used Kanban very successfully in 2016 to bring order to a chaotic process.
