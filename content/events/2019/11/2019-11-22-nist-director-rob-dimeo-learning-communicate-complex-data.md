@@ -25,11 +25,11 @@ venue:
 
 ---
 
-## This is an in-person only event. 
+**This is an in-person only event.** 
 
 Do you struggle to communicate about your data-centered work? We have a lot of complex data sources in the government, many of which will soon be shared with the public and with internal staff in new and exciting ways. In this talk, NIST Director Rob Dimeo will explore how “sketchnoting” can be used to communicate complex data in simple ways to both internal and external audiences. **Explaining new technology is hard. Innovate with visuals!**
 
-## His presentation will consist of:
+**His presentation will consist of:**
 
 - What are sketchnotes and how are they useful for data storytelling? (~20 minutes)
 - A data storytelling example (~20-30 minutes)
