@@ -13,8 +13,6 @@ youtube_id: 3jY7z9gYG5Y
 
 ---
 
-{{< img src="plainlanguage-ginny-redish-card" >}}
-
 Join us for a session with noted user experience (UX) and plain language expert, Ginny Redish. She'll explain strategies, how they work together, the good that happens when they do, the mess that happens when they don't, and the worst scenario of all: no strategy at all.
 
 
