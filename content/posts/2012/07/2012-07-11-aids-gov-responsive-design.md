@@ -16,7 +16,7 @@ topics:
   - responsive-web-design
 ---
 
-{{< img-right src="2013/12/aids_ss.jpg" alt="Aids.gov" >}} 
+{{< legacy-img-right src="2013/12/aids_ss.jpg" alt="Aids.gov" >}}
 
 Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov.
 
