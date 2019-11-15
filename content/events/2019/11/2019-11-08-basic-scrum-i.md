@@ -12,12 +12,11 @@ date: 2019-11-08 13:30:00 -0500
 end_date: 2019-11-08 14:30:00 -0500
 event_organizer: DigitalGov University
 host: 18F
-registration_url: https://www.eventbrite.com/e/agile-talks-basic-scrum-part-i-registration-78063298427
-youtube_id:
+youtube_id: Q9BgnJqMP4Y
 
 ---
 
-{{< img src="agile-scrum-part-1" >}}
+[_View the slides_](https://digital.gov/pdf/Basics-of-Scrum-Part-One.pdf) (PDF, 922KB, 25 pages)
 
 ## About this session — Basics of Scrum, Part I
 
@@ -68,8 +67,8 @@ As we put it in [the 18F Guide to Agile](https://agile.18f.gov/modern-software-p
 
 ### Want to talk to others in government who are using Agile?
 
-- Join the [Agile/Lean Community of Practice »](http://localhost:1313/communities/agile-lean/)
-- Join the [DevOps Community of Practice »](http://localhost:1313/communities/devops/)
+- Join the [Agile/Lean Community of Practice »](https://digital.gov/communities/agile-lean/)
+- Join the [DevOps Community of Practice »](https://digital.gov/communities/devops/)
 
 _Learn more about how 18F can support your team at [https://18f.gsa.gov](https://18f.gsa.gov/)_
 
