@@ -42,6 +42,14 @@ We’d like to get your help in defining the elements that we all need to have i
 
 Over the course of the next few weeks, we'll be taking your answers and using them to help point us in the right direction as we work to provide you with the guidance and tools you need to start earning trust.
 
+{{< box >}}
+**Still Getting to Know 21st Century IDEA?**
+
+- [We published an overview of 21st Century IDEA]({{< link "resources/21st-century-integrated-digital-experience-act.md" >}}) where we break down the key sections of the law in clear, plain language. We’ll be building on this in the coming weeks.
+- Chat with others in government about 21st Century IDEA in the [Web Managers community](https://digital.gov/communities/web-content-managers/). This listserv has the right mix of people who work at the intersection of communication and technology in government.
+
+{{< /box >}}
+
 ## Up next
 
 - We’re honored to have **Jez Humble** join us to talk about continuous integration (#DevOps), which is essential to building great digital product teams. He'll cover the capabilities orgs should be investing in, and how to apply these changes [[Register](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)]
