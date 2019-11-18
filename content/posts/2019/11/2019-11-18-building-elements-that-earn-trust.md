@@ -41,3 +41,18 @@ We’d like to get your help in defining the elements that we all need to have i
 2. To perform this action, we need {{< highlight >}}to register for a .gov domain at DotGov.gov. and renew it annually{{< /highlight >}}.
 
 Over the course of the next few weeks, we'll be taking your answers and using them to help point us in the right direction as we work to provide you with the guidance and tools you need to start earning trust.
+
+## Up next
+
+- We’re honored to have **Jez Humble** join us to talk about continuous integration (#DevOps), which is essential to building great digital product teams. He'll cover the capabilities orgs should be investing in, and how to apply these changes [[Register](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)]
+
+- The **Digital Analytics Program** (DAP) team will be doing a LIVE demonstration of a real site analysis - from defining website mission, goals and KPIs, to pulling reporting to better understand site performance [[Register](https://digital.gov/event/2019/11/20/dap-learning-series-site-analysis-live/)]
+
+
+## Quotes from the field and shout-outs
+
+:tada: Congratulations to *Sarah Bryant* and the whole GSA.gov team on updating [https://gsa.gov/](https://www.gsa.gov/), which uses the [U.S. Web Design System](https://designsystem.digital.gov/). We look forward to hearing more about how visitors are responding to the changes in the coming weeks.
+
+---
+
+_Have a 21st Century IDEA related comment or question? Or maybe you’d like to shout out some work your team has done? Send it to us by 3 pm ET on Thursdays ([digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)) and we’ll work to incorporate it into the next week’s newsletter._
