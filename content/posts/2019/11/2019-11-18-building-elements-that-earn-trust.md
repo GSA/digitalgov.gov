@@ -37,7 +37,7 @@ We’d like to get your help in defining the elements that we all need to have i
 
 **An example might be**:
 
-1. To deliver an experience that is trustworthy, we need to `use a .gov top-level domain`.
-2. To perform this action, we need `to register for a .gov domain at DotGov.gov. and renew it annually`.
+1. To deliver an experience that is trustworthy, we need to {{< highlight >}}use a .gov top-level domain{{< /highlight >}}.
+2. To perform this action, we need {{< highlight >}}to register for a .gov domain at DotGov.gov. and renew it annually{{< /highlight >}}.
 
 Over the course of the next few weeks, we'll be taking your answers and using them to help point us in the right direction as we work to provide you with the guidance and tools you need to start earning trust.
