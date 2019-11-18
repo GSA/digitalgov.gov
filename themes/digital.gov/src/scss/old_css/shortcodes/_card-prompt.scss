@@ -6,9 +6,10 @@
 	.intro{
 		@include u-display('flex');
 		@include u-flex('align-start');
+		@include u-font('sans', 'md');
 		.icon{
 			@include u-font('sans', '2xl');
-			@include u-width(8);
+			@include u-minw(6);
 			@include u-top(0);
 			@include u-text('blue-cool-60');
 		}
@@ -40,7 +41,9 @@
 	}
 	.fallback{
 		@include u-margin-top('205');
-		@include u-font('sans', 'xs');
-		@include u-text('base-dark');
+		@include u-margin-bottom(0);
+		@include u-font('sans', 'sm');
+		@include u-text('base-darker');
+		@include u-line-height('sans', 2);
 	}
 }
