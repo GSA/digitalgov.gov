@@ -22,7 +22,7 @@ This week, we’d like to talk about [trust](https://www.merriam-webster.com/dic
 
 Those who oversee federal websites and digital services can’t assume that trust is a given. Trust is earned each time someone has a positive experience with your service. Building trust takes time&mdash;it involves understanding (then meeting or exceeding) a user’s expectations; a process that can be established quickly and maintained over continued interactions.
 
-The more we do this work, it becomes clear that trust is a key value that overlays why we do this work. And it’s our job as civil servants, to build the elements that earn the public’s trust.
+The more we do this work, it becomes clear that trust is a key value that overlays why we do this work. And it’s our job as civil servants to build the elements that earn the public’s trust.
 
 **Help us identify a trustworthy experience**
 
@@ -32,7 +32,6 @@ We’d like to get your help in defining the elements that we all need to have i
 
 1. To deliver an experience that is trustworthy, we need to _____________.
 2. To perform this action, we need _______________.
-
 {{< /card-prompt >}}
 
 **An example might be**:
@@ -50,11 +49,11 @@ Over the course of the next few weeks, we'll be taking your answers and using th
 
 {{< /box >}}
 
-## Up next
+## Up Next
 
 - We’re honored to have **Jez Humble** join us to talk about continuous integration (#DevOps), which is essential to building great digital product teams. He'll cover the capabilities orgs should be investing in, and how to apply these changes [[Register](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)]
 
-- The **Digital Analytics Program** (DAP) team will be doing a LIVE demonstration of a real site analysis - from defining website mission, goals and KPIs, to pulling reporting to better understand site performance [[Register](https://digital.gov/event/2019/11/20/dap-learning-series-site-analysis-live/)]
+- The **Digital Analytics Program** (DAP) team will be doing a LIVE demonstration of a real site analysis - from defining website mission, goals, and KPIs, to pulling reporting to better understand site performance [[Register](https://digital.gov/event/2019/11/20/dap-learning-series-site-analysis-live/)]
 
 
 ## Quotes from the field and shout-outs
