@@ -12,9 +12,7 @@ featured_image:
 
 ---
 
-
-> “The people when rightly and fully trusted will return the trust.” —
-> Abraham Lincoln
+{{< card-quote text="The people when rightly and fully trusted will return the trust." cite="Abraham Lincoln" >}}
 
 {{< img-right src="this-weeks-idea-icon-wk3" >}}
 

@@ -1,0 +1,8 @@
+{{- if (.Get "text") -}}
+<div class="card-quote">
+  <blockquote>
+    “{{- .Get "text" -}}”
+    {{- if (.Get "cite") -}}<cite>— {{- .Get "cite" -}}</cite>{{- end -}}
+  </blockquote>
+</div>
+{{- end -}}
