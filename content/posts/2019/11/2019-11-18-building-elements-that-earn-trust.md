@@ -24,7 +24,7 @@ Those who oversee federal websites and digital services can’t assume that trus
 
 The more we do this work, it becomes clear that trust is a key value that overlays why we do this work. And it’s our job as civil servants to build the elements that earn the public’s trust.
 
-**Help us identify a trustworthy experience**
+**Help help us identify the elements that make a trustworthy experience possible**
 
 We’d like to get your help in defining the elements that we all need to have in place to start earning trust, and what actions federal digital teams need to take to get there.
 
@@ -51,9 +51,9 @@ Over the course of the next few weeks, we'll be taking your answers and using th
 
 ## Up Next
 
-- We’re honored to have **Jez Humble** join us to talk about continuous integration (#DevOps), which is essential to building great digital product teams. He'll cover the capabilities orgs should be investing in, and how to apply these changes [[Register](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)]
+- We’re honored to have **Jez Humble** join us to talk about continuous integration (#DevOps), which is essential to building great digital product teams. He'll cover the capabilities orgs should be investing in, and how to apply these changes [[**Register**](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)]
 
-- The **Digital Analytics Program** (DAP) team will be doing a LIVE demonstration of a real site analysis - from defining website mission, goals, and KPIs, to pulling reporting to better understand site performance [[Register](https://digital.gov/event/2019/11/20/dap-learning-series-site-analysis-live/)]
+- The **Digital Analytics Program** (DAP) team will be doing a LIVE demonstration of a real site analysis - from defining website mission, goals, and KPIs, to pulling reporting to better understand site performance [[**Register**](https://digital.gov/event/2019/11/20/dap-learning-series-site-analysis-live/)]
 
 
 ## Quotes from the field and shout-outs
