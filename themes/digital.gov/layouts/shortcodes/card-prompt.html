@@ -1,0 +1,19 @@
+{{- if .Inner -}}
+<div class="card-prompt">
+  {{- if (.Get "intro") -}}
+    <div class="intro">
+      <div class="icon">
+        <i class="fas fa-comment-alt fa-flip-horizontal"></i>
+      </div>
+      <p>{{ .Get "intro" | markdownify -}}</p>
+    </div>
+  {{- end -}}
+  {{- if .Inner -}}
+  <div class="prompt">
+    {{- .Inner | markdownify -}}
+  </div>
+  {{- end -}}
+  {{- if (.Get "button") -}}<button class="usa-button"><a href="{{- .Get "url" -}}" title="{{- .Get "button" -}}">{{- .Get "button" -}}</a></button>{{- end -}}
+  {{- if (.Get "fallback") -}}<p class="fallback">{{- .Get "fallback" | markdownify -}}</p>{{- end -}}
+</div>
+{{- end -}}
