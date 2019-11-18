@@ -42,6 +42,29 @@ function build_edit_file_link(){
 }
 build_edit_file_link();
 
+
+
+function get_issue_comments(){
+	var issue_id = '1517';
+	var issue_comments_api = "https://api.github.com/repos/GSA/digitalgov.gov/issues/" + issue_id + "/comments";
+	if (issue_comments_api !== undefined) {
+		$.ajax({
+		  url: issue_comments_api,
+		 	dataType: 'json',
+		}).done(function(data) {
+			if (typeof data !== 'undefined') {
+				var count = $(data).length;
+				if (count > 1) {
+					$('.card-prompt .submit span').html('<strong>+'+count+'</strong> submissions');
+				}
+			}
+		});
+	}
+}
+get_issue_comments();
+
+
+
 function get_commit_data(){
 	if (branch == "master") {
 		branchpath = "";
@@ -49,7 +72,6 @@ function get_commit_data(){
 		branchpath = "/" + branch;
 	}
 	var commit_api_path  = "https://api.github.com/repos/" + git_org + "/" + git_repo + "/commits" + branchpath + "?path=/content/" + filepath;
-	console.log(commit_api_path);
 	if (commit_api_path !== undefined) {
 		$.ajax({
 		  url: commit_api_path,
@@ -78,7 +100,6 @@ function get_branch_link(branch){
 
 function show_last_commit(data, branch){
 	var branch_link = get_branch_link(branch);
-	console.log(data);
 	if (data[0] == null) {
 		var commit_date = data['commit']['committer']['date'];
 		var commit_author = data['author']['login'];
