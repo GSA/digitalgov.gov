@@ -28,6 +28,7 @@
 	}
 
 	button{
+		@include u-margin-bottom('105');
 		@include u-padding-y('105');
 		@include u-padding-x(3);
 		@include u-text('medium');
@@ -35,6 +36,13 @@
 		@include u-radius('sm');
 		@include u-bg('blue-cool-60');
 		@include u-font('sans', 'lg');
+		a{
+			@include u-text('white');
+			&:hover{
+				@include u-text('white');
+				@include u-text('no-underline');
+			}
+		}
 		&:hover{
 			@include u-bg('blue-cool-70');
 		}

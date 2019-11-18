@@ -13,7 +13,7 @@
     {{- .Inner | markdownify -}}
   </div>
   {{- end -}}
-  {{- if (.Get "button") -}}<button class="usa-button">{{- .Get "button" -}}</button>{{- end -}}
+  {{- if (.Get "button") -}}<button class="usa-button"><a href="{{- .Get "url" -}}" title="{{- .Get "button" -}}">{{- .Get "button" -}}</a></button>{{- end -}}
   {{- if (.Get "fallback") -}}<p class="fallback">{{- .Get "fallback" | markdownify -}}</p>{{- end -}}
 </div>
 {{- end -}}
