@@ -41,6 +41,8 @@ Paul Lester is a social media manager at the U.S. Small Business Administration.
 
 **Stephen Morris, Communications Program Liaison and Director for the Office of Strategic Alliances**
 
+Stephen Morris is the Director of Strategic Alliances for the U.S. Small Business Administration, where he manages the agency’s partnerships and major events, including National Small Business Week and Small Business Saturday. Prior to his current role, he served as a digital media manager for SBA and in communication roles at Peace Corps and the Department of State. Originally from Cincinnati, OH, Steve holds a master’s degree in communication, culture, & technology from Georgetown University and a bachelor’s degree from American University.
+
 ---
 
 _This meeting is sponsored by [SocialGov](https://digital.gov/communities/social-media/), the federal government’s social media community of practice. SocialGov has over 1,200 members from more than 90 departments and agencies across the federal government._
