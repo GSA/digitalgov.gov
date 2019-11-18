@@ -9,7 +9,9 @@ authors:
 featured_image:
   uid: this-weeks-idea-card-wk3
   alt: ''
+
 ---
+
 
 > “The people when rightly and fully trusted will return the trust.” —
 > Abraham Lincoln
@@ -20,7 +22,7 @@ Welcome to this week’s idea, where we explain one essential topic around [**21
 
 This week, we’d like to talk about [trust](https://www.merriam-webster.com/dictionary/trust), and the key elements that go into building that trust with people who are using our services.
 
-Those who oversee federal websites and digital services can't assume that trust is a given. Trust is earned each time someone has a positive experience with your service. And building trust takes time, and involves understanding (then meeting or exceeding) a user’s expectations—a process that can be established quickly and maintained over continued interactions. And that trust is easily damaged.
+Those who oversee federal websites and digital services can’t assume that trust is a given. Trust is earned each time someone has a positive experience with your service. Building trust takes time&mdash;it involves understanding (then meeting or exceeding) a user’s expectations; a process that can be established quickly and maintained over continued interactions.
 
 The more we do this work, it becomes clear that trust is a key value that overlays why we do this work. And it’s our job as civil servants, to build the elements that earn the public’s trust.
 
