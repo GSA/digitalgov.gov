@@ -6,10 +6,6 @@ deck: "Let’s talk about trust, and the elements that go into building that tru
 summary: 'This week, we’d like to talk about trust, and the elements that go into building that trust with people who are using our services&#46;'
 authors:
   - jeremyzilar
-categories:
-  -
-tag:
-  -
 featured_image:
   uid:
   alt: ''
@@ -31,3 +27,15 @@ The more we do this work, it becomes clear that trust is a key value that overla
 **Help us identify a trustworthy experience**
 
 We’d like to get your help in defining the elements that we all need to have in place to start earning trust, and what actions federal digital teams need to take to get there.
+
+{{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers." button="Submit your answers" fallback="fallback text">}}
+
+1. To deliver an experience that is trustworthy, we need to _____________.
+2. To perform this action, we need _______________.
+
+{{< /card-prompt >}}
+
+**An example might be**:
+
+1. To deliver an experience that is trustworthy, we need to `use a .gov top-level domain`.
+2. To perform this action, we need `to register for a .gov domain at DotGov.gov. and renew it annually`.
