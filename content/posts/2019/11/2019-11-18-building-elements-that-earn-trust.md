@@ -24,7 +24,7 @@ Those who oversee federal websites and digital services can’t assume that trus
 
 The more we do this work, it becomes clear that trust is a key value that overlays why we do this work. And it’s our job as civil servants to build the elements that earn the public’s trust.
 
-**Help help us identify the elements that make a trustworthy experience possible**
+**Help us identify the elements that make a trustworthy experience possible**
 
 We’d like to get your help in defining the elements that we all need to have in place to start earning trust, and what actions federal digital teams need to take to get there.
 
