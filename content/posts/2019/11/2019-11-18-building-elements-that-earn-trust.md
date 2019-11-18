@@ -2,19 +2,19 @@
 slug: building-elements-that-earn-trust
 date: 2019-11-18 08:34:00 -0500
 title: 'Building the Elements That Earn Trust'
-deck: "Let’s talk about trust, and the elements that go into building that trust with people who are using our services&#46;"
-summary: 'This week, we’d like to talk about trust, and the elements that go into building that trust with people who are using our services&#46;'
+deck: "Let’s talk the elements that go into building trust with people who are using our services&#46;"
+summary: 'This week, we’d like to talk about trust, and the elements that go into building trust with people who are using our services&#46;'
 authors:
   - jeremyzilar
 featured_image:
-  uid:
+  uid: this-weeks-idea-card-wk3
   alt: ''
 ---
 
 > “The people when rightly and fully trusted will return the trust.” —
 > Abraham Lincoln
 
-{{< img-right src="this-weeks-idea-icon-wk2" >}}
+{{< img-right src="this-weeks-idea-icon-wk3" >}}
 
 Welcome to this week’s idea, where we explain one essential topic around [**21st Century IDEA**](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) and give you the resources and tools to start making focused changes to your digital products.
 
