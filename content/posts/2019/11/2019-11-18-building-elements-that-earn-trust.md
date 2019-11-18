@@ -9,6 +9,7 @@ authors:
 featured_image:
   uid:
   alt: ''
+
 ---
 
 > “The people when rightly and fully trusted will return the trust.” —
@@ -20,7 +21,7 @@ Welcome to this week’s idea, where we explain one essential topic around [**21
 
 This week, we’d like to talk about [trust](https://www.merriam-webster.com/dictionary/trust), and the key elements that go into building that trust with people who are using our services.
 
-Those who oversee federal websites and digital services can't assume that trust is a given. Trust is earned each time someone has a positive experience with your service. And building trust takes time, and involves understanding (then meeting or exceeding) a user’s expectations—a process that can be established quickly and maintained over continued interactions. And that trust is easily damaged.
+Those who oversee federal websites and digital services can’t assume that trust is a given. Trust is earned each time someone has a positive experience with your service. Building trust takes time&mdash;it involves understanding (then meeting or exceeding) a user’s expectations; a process that can be established quickly and maintained over continued interactions.
 
 The more we do this work, it becomes clear that trust is a key value that overlays why we do this work. And it’s our job as civil servants, to build the elements that earn the public’s trust.
 
@@ -28,11 +29,10 @@ The more we do this work, it becomes clear that trust is a key value that overla
 
 We’d like to get your help in defining the elements that we all need to have in place to start earning trust, and what actions federal digital teams need to take to get there.
 
-{{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers, and you’re welcome to submit as many times as you’d like." button="Submit your answers" fallback="If you’re having trouble submitting, send us your answers to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)">}}
+{{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers, and you’re welcome to submit as many times as you’d like." button="Submit your answers" fallback="If you’re having trouble submitting, send us your answers to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)">}} 
 
-1. To deliver an experience that is trustworthy, we need to _____________.
-2. To perform this action, we need _______________.
-
+1. To deliver an experience that is trustworthy, we need to _____________. 
+2. To perform this action, we need _______________. 
 {{< /card-prompt >}}
 
 **An example might be**:
