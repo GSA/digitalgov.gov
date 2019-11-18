@@ -1,4 +1,5 @@
 .card-quote{
+	@include u-margin-bottom(1);
 	@include u-font('serif', 'lg');
 	@include u-text('gold-80');
 	@include u-text('italic');
