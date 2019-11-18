@@ -29,6 +29,9 @@
 
 top6:
 
+  - file          : '2019-11-18-building-elements-that-earn-trust.md'
+    type          : 'post'
+
   - file          : '2019-11-08-basic-scrum-ii.md'
     type          : 'video'
 
@@ -43,6 +46,3 @@ top6:
 
   - file          : '2019-11-04-foundations-agile-i.md'
     type          : 'video'
-
-  - file          : '2019-11-04-lets-talk-21st-century-idea.md'
-    type          : 'post'
