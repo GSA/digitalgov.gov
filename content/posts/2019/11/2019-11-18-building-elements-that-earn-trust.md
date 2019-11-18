@@ -28,7 +28,7 @@ The more we do this work, it becomes clear that trust is a key value that overla
 
 We’d like to get your help in defining the elements that we all need to have in place to start earning trust, and what actions federal digital teams need to take to get there.
 
-{{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers." button="Submit your answers" fallback="fallback text">}}
+{{< card-prompt intro="**In your words, help us complete these two sentences.** There are no right or wrong answers, and you’re welcome to submit as many times as you’d like." button="Submit your answers" fallback="If you’re having trouble submitting, send us your answers to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)">}}
 
 1. To deliver an experience that is trustworthy, we need to _____________.
 2. To perform this action, we need _______________.
@@ -39,3 +39,5 @@ We’d like to get your help in defining the elements that we all need to have i
 
 1. To deliver an experience that is trustworthy, we need to `use a .gov top-level domain`.
 2. To perform this action, we need `to register for a .gov domain at DotGov.gov. and renew it annually`.
+
+Over the course of the next few weeks, we'll be taking your answers and using them to help point us in the right direction as we work to provide you with the guidance and tools you need to start earning trust.
