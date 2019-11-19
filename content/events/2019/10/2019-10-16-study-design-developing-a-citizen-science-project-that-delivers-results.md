@@ -12,6 +12,7 @@ end_date: 2019-10-16 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Federal Crowdsourcing and Citizen Science Community of Practice
 registration_url: https://www.eventbrite.com/e/study-design-developing-a-citizen-science-project-that-delivers-results-registration-72182944129
+youtube_id: ZQ2xibNtYqc
 
 ---
 

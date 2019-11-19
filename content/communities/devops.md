@@ -12,20 +12,21 @@ The DevOps Community of Practice (CoP) provides information technology and devel
 
 Government agencies are investing in cloud capabilities and are seeking to work more iteratively, improving their ability to support the public through their digital services. The DevOps CoP will allow agencies to share their innovations and successes, reducing the “cost of learning and innovating” across government.
 
-**DevOps** is the practice of operations and development staff participating together in the in the entire service lifecycle operate rapidly changing resilient systems at scale.
+**DevOps** is the practice of operations and development staff participating together in the entire service lifecycle operate rapidly changing resilient systems at scale.
 
-## Upcoming Events
+## Upcoming Meetings
+
+- **November Special Event:**<br />[Jez Humble: Building and Scaling High Performing Technology Organizations](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)<br />This talk presents the findings from the latest State of DevOps report, including how to measure the performance of software teams, what capabilities organizations should invest in to drive higher performance, and how software leaders can apply these findings in their own organizations.
+
+## Past Meetings
 
 - [**October Meeting**](https://digital.gov/event/2019/10/22/october-devops-cop-meeting/)
-
-## Past Events
-
 - [**September Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/)
 - [**August Meeting**](https://digital.gov/event/2019/08/27/devops-community-practice-monthly-meeting/)
 - [**July Meeting**](https://digital.gov/event/2019/07/23/devops-cop-monthly-meeting/)
 
 ## Join
-We have two listservs available, one for Federal Employees, and one for all individuals: 
+We have two listservs available, one for Federal Employees, and one for all individuals:
 
 - To join our federal government employee only Listserv, send an email from your official government email to: [devops-today-subscribe-request@listserv.gsa.gov](mailto:devops-today-subscribe-request@listserv.gsa.gov)
 
