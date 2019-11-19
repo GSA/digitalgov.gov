@@ -18,7 +18,7 @@
       @include u-text('no-underline');
       @include u-text('indigo-80');
       &:hover{
-        @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+        @include u-border-bottom('2px', 'accent-warm', 'solid');
       }
     }
   }
@@ -31,7 +31,7 @@
       @include u-text('no-underline');
       @include u-text('indigo-70');
       &:hover{
-        @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+        @include u-border-bottom('2px', 'accent-warm', 'solid');
       }
     }
   }
@@ -84,10 +84,10 @@
     @include u-bg('gray-warm-5');
     h3 a,
     h4 a{
-      @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+      @include u-border-bottom('2px', 'accent-warm', 'solid');
     }
     p a{
-      @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+      @include u-border-bottom('2px', 'accent-warm', 'solid');
     }
   }
 }
@@ -103,7 +103,7 @@
   &:hover{
     @include u-bg('gray-warm-5');
     a{
-      @include u-border-bottom('05', 'orange-warm-30v', 'solid');
+      @include u-border-bottom('05', 'accent-warm', 'solid');
     }
   }
   p{

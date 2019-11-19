@@ -1,7 +1,11 @@
 .agency-banner{
-  @include u-padding-y(2);
+  @include u-padding-top(2);
   @include u-text('base-darkest');
   @include u-bg('white');
+  @include u-display('none');
+  @include at-media('tablet') {
+    // @include u-display('block');
+  }
   .org-copy{
     a{
       @include u-display('flex');
@@ -13,7 +17,7 @@
       }
       span{
         @include u-margin-left(1);
-        @include u-font('sans', 'xs');
+        @include u-font('sans', '2xs');
         @include u-text('normal');
       }
     }
