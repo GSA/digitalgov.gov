@@ -2,7 +2,7 @@
 slug: building-elements-that-earn-trust
 date: 2019-11-18 08:34:00 -0500
 title: 'Building the Elements That Earn Trust'
-deck: "Let’s talk the elements that go into building trust with people who are using our services&#46;"
+deck: "Let’s talk about the elements that go into building trust with people who are using our services&#46;"
 summary: 'This week, we’d like to talk about trust, and the elements that go into building trust with people who are using our services&#46;'
 authors:
   - jeremyzilar
@@ -20,7 +20,7 @@ Welcome to this week’s idea, where we explain one essential topic around [**21
 
 This week, we’d like to talk about [trust](https://www.merriam-webster.com/dictionary/trust), and the key elements that go into building that trust with people who are using our services.
 
-Those who oversee federal websites and digital services can’t assume that trust is a given. Trust is earned each time someone has a positive experience with your service. Building trust takes time&mdash;it involves understanding (then meeting or exceeding) a user’s expectations; a process that can be established quickly and maintained over continued interactions.
+Those of us who oversee federal websites and digital services can’t assume that trust is a given. Trust is earned each time someone has a positive experience with your service. Building trust takes time&mdash;it involves understanding (then meeting or exceeding) a user’s expectations; a process that can be established quickly and maintained over continued interactions.
 
 The more we do this work, it becomes clear that trust is a key value that overlays why we do this work. And it’s our job as civil servants to build the elements that earn the public’s trust.
 
