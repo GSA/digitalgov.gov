@@ -1,19 +1,19 @@
 .agency-banner{
-  @include u-padding-y('05');
-  @include u-bg('blue-warm-80');
-  @include u-text('white');
+  @include u-padding-y(2);
+  @include u-text('base-darkest');
+  @include u-bg('white');
   .org-copy{
     a{
       @include u-display('flex');
       @include u-flex('align-center');
-      @include u-text('white');
+      @include u-text('base-darkest');
       @include u-text('no-underline');
       .org-img{
-        @include u-width(3);
+        @include u-width('205');
       }
       span{
         @include u-margin-left(1);
-        @include u-font('sans', 'sm');
+        @include u-font('sans', 'xs');
         @include u-text('normal');
       }
     }
