@@ -7,11 +7,11 @@ deck: 'Culture plays a vital role in modernizing agency operations, from frontli
 authors: 
   - nina-bianchi
 categories: 
+  - managing-digital
+tag: 
   - centers-of-excellence
   - coe
   - professional-development
-tag: 
-  - 
 featured_image: 
   uid: 
   alt: 'featured alt text'
