@@ -55,7 +55,7 @@ function get_issue_comments(){
 			if (typeof data !== 'undefined') {
 				var count = $(data).length;
 				if (count > 1) {
-					$('.card-prompt .submit span').html('<strong>+'+count+'</strong> submissions');
+					$('.card-prompt .submit span').html('<strong>'+count+'+</strong> submissions');
 				}
 			}
 		});
