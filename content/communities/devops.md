@@ -20,7 +20,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Past Meetings
 
-- **November Special Event:**<br />[Jez Humble: Building and Scaling High Performing Technology Organizations](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)<br />
+- [**November Special Event: Jez Humble: Building and Scaling High Performing Technology Organizations**](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)
 - [**October Meeting**](https://digital.gov/event/2019/10/22/october-devops-cop-meeting/)
 - [**September Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/)
 - [**August Meeting**](https://digital.gov/event/2019/08/27/devops-community-practice-monthly-meeting/)
