@@ -11,7 +11,7 @@ date: 2019-11-19 11:00:00 -0500
 end_date: 2019-11-19 11:30:00 -0500
 event_organizer: DigitalGov University
 host: TTS Research Guild & Digital.gov
-registration_url: https://www.eventbrite.com/e/77338107361 
+youtube_id: fXHqrdOEbnI
 
 ---
 
@@ -28,6 +28,3 @@ _This talk is hosted by the TTS Research Guild and [Digital.gov](https://digital
 Our team will send a reminder email prior to the event that includes your link to join the video. 
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov). 
-
-If using _Zoom_, include: 
-_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
