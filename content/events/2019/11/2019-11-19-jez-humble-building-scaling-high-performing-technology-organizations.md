@@ -16,8 +16,6 @@ youtube_id: j6jxW_bax3Y
 
 ---
 
-{{< img src="devops-jez-humble" >}}
-
 How can we apply technology to drive business value in organizations? For years, we've been told that the performance of software delivery teams doesn't matter, or that it can't provide a competitive advantage to our companies, or produce better outcomes in the public sector.
 
 Through seven years of groundbreaking research to include data collected from the State of DevOps reports, **Jez Humble** and his colleagues set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods.
