@@ -16,10 +16,11 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-- **November Special Event:**<br />[Jez Humble: Building and Scaling High Performing Technology Organizations](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)<br />This talk presents the findings from the latest State of DevOps report, including how to measure the performance of software teams, what capabilities organizations should invest in to drive higher performance, and how software leaders can apply these findings in their own organizations.
+- Please check back soon for upcoming meetings. 
 
 ## Past Meetings
 
+- **November Special Event:**<br />[Jez Humble: Building and Scaling High Performing Technology Organizations](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)<br />
 - [**October Meeting**](https://digital.gov/event/2019/10/22/october-devops-cop-meeting/)
 - [**September Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/)
 - [**August Meeting**](https://digital.gov/event/2019/08/27/devops-community-practice-monthly-meeting/)
