@@ -11,7 +11,8 @@ date: 2019-11-19 13:00:00 -0500
 end_date: 2019-11-19 14:00:00 -0500
 event_organizer: DigitalGov University
 host: DevOps Community
-registration_url: https://www.eventbrite.com/e/jez-humble-building-and-scaling-high-performing-technology-organizations-registration-80579640875
+youtube_id: j6jxW_bax3Y
+
 
 ---
 
@@ -35,4 +36,3 @@ This talk presents the findings of that research, including how to measure the p
 
 _Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
 
-_This event will be held and recorded over [Zoom](https://www.zoom.us). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
