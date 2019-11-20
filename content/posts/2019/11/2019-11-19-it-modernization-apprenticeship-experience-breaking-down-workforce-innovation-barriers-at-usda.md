@@ -18,7 +18,6 @@ featured_image:
 
 ---
 
-
 > "The people, the culture, it's what makes a transformation successful." — USDA Apprentice
 
 People are at the heart of successful IT transformation. The [Centers of Excellence](https://coe.gsa.gov/) (CoE) at the U.S. General Services Administration (GSA) are accelerating a 21st-century government culture by helping agencies innovate from within. The U.S. Department of Agriculture (USDA) invested in a two-year IT Modernization Apprenticeship program with GSA's CoE to bolster rising talent within their organization and support sustainable modernization.
@@ -33,15 +32,11 @@ At the conclusion of the first cohort's two-year detailee experience, we collect
 
 ## Impact
 
-> IMAGE
-> Alt text: An infographic shows how people are at the center of IT Modernization. A blue circle representing business needs and a yellow circle representing IT solutions overlap at the center in green to show that people are the focus. This relationship is the basis for a culture change. The four core impact categories for a culture of excellence include operational innovation, holistic growth, scalable knowledge, and diverse relationships.
-
 Four impact levers&mdash;Operational Innovation, Holistic Growth, Diverse Relationships, and Scalable Knowledge&mdash;help lower the barriers to workforce innovation as outlined in our findings on [closing the human-technology gap](https://digital.gov/2019/09/11/technology-transformation-begins-with-people-closing-human-technology-gap/). Each theme influences the way work gets done inside government. Improving the employee experience enables the workforce to improve service outcomes for customer citizens.
 
 For example, it typically takes from 18 to 24 months to secure an Authority to Operate (ATO), which is the permission to operate an application that would service citizen customer needs in a production environment. With a collaboration in these impact areas, Apprentices and CoE teams were able to do it in only four and a half months.
 
 (For more CoE success stories, check out the [USDA Direct Farm Loans Journey](https://coe.gsa.gov/coe/farm-loans/index.html) that improves customer experience and increases opportunities for America's farmers and producers.)
-
 
 ### Operational Innovation
 
@@ -53,9 +48,7 @@ What is the modern workplace experience? A 21st-century workplace supports colla
 
 "If we're all in the same space, we should be able to collaborate to develop shared answers," was a sentiment expressed by one Apprentice. Co-location of teams, as another Apprentice suggested, helps with cross-collaboration. "When you hear things that are happening in other Centers, you start to think about the impact on your own CoE." USDA, a visible and high-traffic co-location site, made employee engagement easier, empowered communication, and improved collaboration. One Apprentice noted that you could see and feel that "there is a transformation going on." They noted that, "Co-experiences, rather than lecture-based experiences" made learning more enjoyable and thus more successful.
 
-
 {{< img src="coe-apprenticeship-03" >}}
-
 
 ### Holistic Growth
 
@@ -89,4 +82,4 @@ Before the CoE was established, those who would eventually become Apprentices we
 
 {{< img src="coe-apprenticeship-07" >}}
 
-Let's imagine a future where the federal government invests in the continuous development of its people, alongside emerging technology. Help shape the future of the federal government as _the_ employer of choice for generations to come! Reach out to the Centers of Excellence at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov) to learn more about how you might bring the IT Modernization Apprenticeship Experience to your agency.
+Let's imagine a future where the federal government invests in the continuous development of its people, alongside emerging technology. Help shape the future of the federal government as _the_ employer of choice for generations to come! Reach out to the Centers of Excellence at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov) to learn more about how you might bring the IT Modernization Apprenticeship Experience to your agency. 
