@@ -116,12 +116,16 @@ cbp:
   display_name: "CPB"
 cdc:
   display_name: "CDC"
+coe:
+  display_name: "CoE"
 census:
   display_name: "Census"
 centers-for-disease-control-and-prevention:
   display_name: "Centers for Disease Control and Prevention"
 centers-for-medicare-and-medicaid-services:
   display_name: "Centers for Medicare and Medicaid Services"
+centers-of-excellence:
+  display_name: "Centers of Excellence"
 central-intelligence-agency:
   display_name: "Central Intelligence Agency"
 cfpb:
