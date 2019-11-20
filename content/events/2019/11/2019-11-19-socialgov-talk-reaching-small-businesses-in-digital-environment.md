@@ -10,7 +10,7 @@ event_type:
 date: 2019-11-19 14:00:00 -0500
 end_date: 2019-11-19 15:00:00 -0500
 event_organizer: DigitalGov University
-host: Socialgov
+host: SocialGov
 youtube_id: aR2feIr_1Ds
 
 ---
@@ -24,7 +24,6 @@ Join the digital experts at the U.S. Small Business Administration (SBA) to lear
 SBA will discuss how they find and communicate with small businesses on their different social media platforms. SBA will also talk about how they design successful social media campaigns and how they measure the effectiveness of their message. They will also share some tips for reaching small business by using hashtags, images/graphics, videos, gifs, and more.
 
 ## Speakers
-
 
 {{< img-right src="natale-goriel" >}}
 
