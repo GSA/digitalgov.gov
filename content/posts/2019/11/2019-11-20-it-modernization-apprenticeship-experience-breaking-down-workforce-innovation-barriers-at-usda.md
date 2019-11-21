@@ -32,6 +32,8 @@ At the conclusion of the first cohort's two-year detailee experience, we collect
 
 ## Impact
 
+{{< img src="coe-apprenticeship-08" >}}
+
 Four impact levers&mdash;Operational Innovation, Holistic Growth, Diverse Relationships, and Scalable Knowledge&mdash;help lower the barriers to workforce innovation as outlined in our findings on [closing the human-technology gap](https://digital.gov/2019/09/11/technology-transformation-begins-with-people-closing-human-technology-gap/). Each theme influences the way work gets done inside government. Improving the employee experience enables the workforce to improve service outcomes for customer citizens.
 
 For example, it typically takes from 18 to 24 months to secure an Authority to Operate (ATO), which is the permission to operate an application that would service citizen customer needs in a production environment. With a collaboration in these impact areas, Apprentices and CoE teams were able to do it in only four and a half months.
@@ -82,4 +84,4 @@ Before the CoE was established, those who would eventually become Apprentices we
 
 {{< img src="coe-apprenticeship-07" >}}
 
-Let's imagine a future where the federal government invests in the continuous development of its people, alongside emerging technology. Help shape the future of the federal government as _the_ employer of choice for generations to come! Reach out to the Centers of Excellence at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov) to learn more about how you might bring the IT Modernization Apprenticeship Experience to your agency. 
+Let's imagine a future where the federal government invests in the continuous development of its people, alongside emerging technology. Help shape the future of the federal government as _the_ employer of choice for generations to come! Reach out to the Centers of Excellence at [connectcoe@gsa.gov](mailto:connectcoe@gsa.gov) to learn more about how you might bring the IT Modernization Apprenticeship Experience to your agency.
