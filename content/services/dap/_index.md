@@ -21,7 +21,7 @@ The Digital Analytics Program (DAP) offers a web analytics tool, training, and s
 - Training on analytics tools and reporting
     - [View upcoming trainings and talks »](https://demo.digital.gov/events/) 
     - [View past recorded trainings »](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
-- Ongoing help-desk support around implementation, data, and reporting. 
+- Ongoing help-desk support around implementation, data, and reporting
 
 ## We Provide Insights Across Agencies
 
