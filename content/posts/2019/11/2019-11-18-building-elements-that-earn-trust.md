@@ -58,7 +58,7 @@ Over the course of the next few weeks, we'll be taking your answers and using th
 
 ## Quotes from the field and shout-outs
 
-:tada: Congratulations to *Sarah Bryant* and the whole GSA.gov team on updating [https://gsa.gov/](https://www.gsa.gov/), which uses the [U.S. Web Design System](https://designsystem.digital.gov/). We look forward to hearing more about how visitors are responding to the changes in the coming weeks.
+:tada: Congratulations to *Sarah Bryant* and the whole GSA.gov team on updating [https://www.gsa.gov/](https://www.gsa.gov/), which uses the [U.S. Web Design System](https://designsystem.digital.gov/). We look forward to hearing more about how visitors are responding to the changes in the coming weeks.
 
 ---
 
