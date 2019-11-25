@@ -9,9 +9,11 @@ aliases:
   - /join/open-opportunities-in-digitalgov/
   - /join/open-opportunities-in-digitalgov/how-open-opportunities-works/
   - /join/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/
-deck: "Open Opportunities is a government wide program offering professional development opportunities and facilitating collaboration and knowledge sharing across the Federal Government&#46;"
+
 
 ---
+
+Open Opportunities is a government wide program offering professional development opportunities and facilitating collaboration and knowledge sharing across the federal government.
 
 - [Visit Open Opportunities](https://openopps.usajobs.gov/), managed by USAJobs
 - [What is Open Opportunities?](https://usajobs.github.io/openopps-help/)
