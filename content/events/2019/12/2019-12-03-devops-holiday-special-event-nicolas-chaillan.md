@@ -21,11 +21,12 @@ It demonstrates how 37 weapon, business and cyber systems are moving to DevSecOp
 
 ## About the Speaker
 
-**Mr. Nicolas Chaillan** is the first [Air Force](https://www.af.mil/) Chief Software Officer (CSO), under Dr. William Roper, the Assistant Secretary of the Air Force for **Acquisition, Technology and Logistics**, Arlington, Virginia. He is also the co-lead for the Department of Defense Enterprise DevSecOps Initiative with the Department of Defense Chief Information Officer. Mr. Chaillan is responsible for enabling Air Force programs in the transition to Agile and DevSecOps to establish force-wide DevSecOps capabilities and best practices, including continuous Authority to Operate processes and faster streamlined technology adoption.
+**Mr. Nicolas Chaillan** is the first [Air Force](https://www.af.mil/) Chief Software Officer (CSO), under Dr. William Roper, the Assistant Secretary of the Air Force for **Acquisition, Technology and Logistics**, Arlington, Virginia. He is also the co-lead for the DoD Enterprise DevSecOps Initiative with the DoD Chief Information Officer (CIO). Mr. Chaillan is responsible for enabling Air Force programs in the transition to Agile and DevSecOps to establish force-wide DevSecOps capabilities and best practices, including continuous Authority to Operate processes and faster, streamlined technology adoption. 
 
-Prior to his current position, Mr. Chaillan was the Special Advisor for Cloud Security and DevSecOps at the Department of Defense, OSD, A&S and Special Advisor for Cybersecurity and Chief Architect for Cyber.gov at the Department of Homeland Security. He designed the new robust, innovative and holistic .gov cybersecurity architecture (Cyber.gov), that mitigates cyber threats by leveraging best practices and implementable solutions with minimal impact to workforce efficiency.
+In addition to his public service, Mr. Chaillan is a technology entrepreneur, software developer, cyber expert and inventor. He has over 19 years of domestic and international experience with strong technical and subject matter expertise in cybersecurity, software development, product innovation, governance, risk management and compliance. Specifically, these fields include Cloud computing, Cybersecurity, DevSecOps, Big Data, multi-touch, mobile, Internet of Things (IoT), Mixed Reality, virtual reality, and wearables. 
 
-* [Air Force Office of the Chief Software Officer](https://software.af.mil/) 
+* [Full biography](https://www.af.mil/About-Us/Biographies/Display/Article/1926281/nicolas-m-chaillan/)
+* Air Force [Office of the Chief Software Officer](https://software.af.mil/) (OCSO)
 
 ---
 
