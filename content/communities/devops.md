@@ -16,7 +16,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-- Please check back soon for upcoming meetings. 
+- [**December Special Event with Nicolas Chaillan**](https://digital.gov/event/2019/12/03/devops-holiday-special-event-nicolas-chaillan/)
 
 ## Past Meetings
 
