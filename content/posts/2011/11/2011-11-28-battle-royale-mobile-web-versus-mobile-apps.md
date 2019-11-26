@@ -17,7 +17,7 @@ tag:
 
 ---
 
-Antelopes IMAGE
+
 
 When agency folks gather together to talk about mobile gov, the number one question asked is, &#8220;Should we do a mobile app or a mobile web site?&#8221;
 
