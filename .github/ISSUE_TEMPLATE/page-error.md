@@ -1,8 +1,8 @@
 ---
-name: Page Error
-about: Help us find pages that were broken in our content migration
-title: "[page error]"
-labels: bug, editorial/content
+name: Content Error
+about: bugs related to formatting of content in pages
+title: "[Content Cleanup]"
+labels: "Bug, Bug: Content Cleanup"
 assignees: ''
 
 ---
