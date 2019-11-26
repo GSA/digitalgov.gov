@@ -1,3 +1,7 @@
+{{/* Future Events ===========================  */}}
+{{- $events := where .Site.RegularPages.Reverse  "Section" "events" -}}
+{{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0))  -}}
+{{- with $events -}}
 <section id="events">
   <div class="container">
     <div class="row">
@@ -12,19 +16,11 @@
               </p>
             </div>
 
-            {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
-            {{ range where $events "Date" "ge" (now.AddDate 0 0 -1) | first 4 }}
-              {{ $now := now.Format "2006-01-02" }}
-              {{ $start := .Date.Format "2006-01-02"  }}
-              {{ if .Params.End_date }}
-                {{ $end := dateFormat "2006-01-02" .Params.End_date }}
-                {{ if or (ge $start $now) (ge $end $now)}}
-                  {{ .Render "li"}}
-                {{ end }}
-              {{ else if ge $start $now }}
+            {{- with $events -}}
+              {{- range $events -}}
                 {{ .Render "li"}}
-              {{ end }}
-            {{end}}
+              {{- end -}}
+            {{- end -}}
 
           </div>
 
@@ -36,3 +32,4 @@
     </div>
   </div>
 </section>
+{{- end -}}
