@@ -12,8 +12,7 @@ date: 2019-11-20 13:00:00 -0500
 end_date: 2019-11-20 14:00:00 -0500
 event_organizer: DigitalGov University
 host: DAP
-registration_url: https://www.eventbrite.com/e/dap-learning-series-site-analysis-live-registration-59347191046
-youtube_id: 57mZ_YRIBOk
+youtube_id: 3smZz7PduK8
 topics:
   - metrics
   - analytics
@@ -21,8 +20,6 @@ topics:
   - digital-analytics-program
 
 ---
-
-_[View live captioning for this event.](https://www.captionedtext.com/client/event.aspx?EventID=3993574&CustomerID=321)_
 
 DAP users often ask – _“How should I analyze my site?”_
 
@@ -40,5 +37,3 @@ _The Digital Analytics Program (DAP) offers advanced, easy web analytics to fede
 - [Contact the DAP team](mailto:dap@support.digitalgov.gov)
 
 ---
-
-_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_

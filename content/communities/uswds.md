@@ -15,7 +15,7 @@ featured_image:
 
 ## Join
 
-Join the `#uswds-public` channel in our Slack at [chat.18f.gov](https://chat.18f.gov/). Once appoved, you will be added as a single-channel guest into the TTS-GSA Slack.
+Join the `#uswds-public` channel in our Slack at [chat.18f.gov](https://chat.18f.gov/). Once approved, you will be added as a single-channel guest into the TTS-GSA Slack.
 
 ## Who We Are
 
