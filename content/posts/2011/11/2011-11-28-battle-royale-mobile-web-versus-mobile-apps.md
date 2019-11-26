@@ -17,7 +17,7 @@ tag:
 
 ---
 
-{{< legacy-img-right src="2011/11/250-x-167-Stuart-Barr_Fighting-Topis_Nov17th2008_Creative-Commons-BY-NC-SA-2.jpg" alt="A photo of two fighting Topis (antelopes) head-butt each other, locking horns, in a grassy field. caption="Photo by Stuart Barr, Creative Commons BY-NC-SA 2.0" >}} 
+{{< legacy-img-right src="2011/11/250-x-167-Stuart-Barr_Fighting-Topis_Nov17th2008_Creative-Commons-BY-NC-SA-2.jpg" alt="A photo of two fighting Topis (antelopes) head-butt each other, locking horns, in a grassy field." caption="Photo by Stuart Barr, Creative Commons BY-NC-SA 2.0" >}} 
 
 When agency folks gather together to talk about mobile gov, the number one question asked is, &#8220;Should we do a mobile app or a mobile web site?&#8221;
 
