@@ -16,4 +16,4 @@ registration_url: https://www.eventbrite.com/e/83901699241
 
 ---
 
-***Paste body content here. Delete this line***
+Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions.
