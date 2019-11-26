@@ -15,7 +15,7 @@ registration_url: https://www.eventbrite.com/e/devops-holiday-special-event-nico
 
 ---
 
-We will share how the Department of Defense (DoD) moved to DevSecOps and Continuous Integration/Continuous Delivery by leveraging [Kubernetes](https://software.af.mil/training/kubernetes/) and Oracle Cloud Infrastructure (OCI) compliant containers.
+We will share how the Department of Defense (DoD) moved to DevSecOps and Continuous Integration/Continuous Delivery by leveraging [Kubernetes](https://software.af.mil/training/kubernetes/) and Open Container Initiative (OCI) compliant containers.
 
 It demonstrates how 37 weapon, business and cyber systems are moving to DevSecOps best practices, including leveraging the DoD DevSecOps Reference Design and the Continuous Authority to Operate.
 
