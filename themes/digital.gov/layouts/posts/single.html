@@ -21,7 +21,9 @@
 
         {{- partial "post-meta" . -}}
 
-        {{- .Content -}}
+        <div class="usa-content">
+          {{- .Content -}}
+        </div>
 
         {{ partial "post-meta--related-posts" . }}
         {{ partial "post-meta--tag-list" . }}
