@@ -12,7 +12,6 @@ end_date: 2019-12-03 14:30:00 -0500
 event_organizer: DigitalGov University
 host: DevOps COP
 registration_url: https://www.eventbrite.com/e/devops-holiday-special-event-nicolas-chaillan-registration-83635186093
-draft: true
 
 ---
 
