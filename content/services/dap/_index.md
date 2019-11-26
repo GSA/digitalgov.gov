@@ -22,7 +22,7 @@ The Digital Analytics Program (DAP) offers a web analytics tool, training, and s
 - Training on analytics tools and reporting
     - [View upcoming trainings and talks »](https://demo.digital.gov/events/) 
     - [View past recorded trainings »](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
-- Ongoing help-desk support around implementation, data, and reporting.
+    - Ongoing help-desk support around implementation, data, and reporting
 
 ## We Provide Insights Across Agencies
 
@@ -41,4 +41,6 @@ All public facing websites and digital services should be designed around user n
 - A. {{< highlight >}}All agencies must participate in the General Service Administration’s (GSA) Digital Analytics Program (DAP) and deploy the DAP tracking code on all public facing agency websites.{{< /highlight >}} The DAP provides agencies with free quantitative analytics to inform website management. Participation in the DAP does not preclude agencies from using other analytics programs.
 - B. GSA will maintain a public listing of the domains participating in the DAP and track agency compliance on the DotGov Dashboard.{{< /card-policy >}}
 
-**Questions?** Email the [Digital Analytics Program](mailto:dap@support.digitalgov.gov)
+## Contact the DAP Team
+
+**Questions?** Email the [Digital Analytics Program](mailto:dap@support.digitalgov.gov).

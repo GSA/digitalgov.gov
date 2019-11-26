@@ -14,6 +14,7 @@ aliases:
 - [**OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies**]({{< ref "omb-memos-circulars-executive-orders-and-other-policies.md" >}})
 - [**Checklist of Requirements for Federal Digital Services**]({{< ref "checklist-of-requirements-for-federal-digital-services.md" >}})
 - [**Required Web Content and Links**]({{< ref "resources/required-web-content-and-links.md" >}})
+- [**An overview of the 21st Century Integrated Digital Experience Act**]({{< ref "resources/21st-century-integrated-digital-experience-act.md" >}})
 
 ## Accessibility
 
@@ -21,8 +22,8 @@ aliases:
 * [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw)
 * [Introducing Accessibility for Teams](https://digital.gov/2018/07/10/introducing-accessibility-for-teams/)
     - [Accessibility for Teams](https://accessibility.digital.gov/)
-* [Accessibility Resource List]({{< link "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
-* [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< link "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
+* [Accessibility Resource List]({{< ref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
+* [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< ref "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
 * [Mythbuster’s Guide to Accessibility](https://medium.com/the-u-s-digital-service/mythbusters-guide-to-accessibility-92ccd88655c6#.lj5vo2vff)
 
 ## Challenges and Prizes
@@ -148,9 +149,9 @@ aliases:
     * [Required Web Content and Links]({{< ref "required-web-content-and-links.md" >}})
 * [Content Management Systems Toolkit]({{< ref "2013-10-30-content-management-systems-toolkit.md" >}})
     * [Content Management Systems Used by Government Agencies]({{< ref "content-management-systems-used-by-government-agencies.md" >}})
-* [Search.gov]({{< ref "service_search.md" >}}) (formerly DigitalGov Search)
-* [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf) (PDF, 607 kb, 92 pages, June 2004)
-    * [ICGI Report Attachments](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf) (PDF, 184 kb, 7 pages, June 2004)
-    * [ICGI Summary and Background](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf) (PDF, 176 kb, 6 pages, June 2004)
-* [Office of Management and Budget Policies for Federal Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 kb, 5 pages, December 2004)
+* [Search.gov]({{< ref "search.md" >}}) (formerly DigitalGov Search)
+* [Interagency Committee on Government Information (ICGI) – Recommended Policies and Guidelines for Federal Public Websites]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf" >}}) (PDF, 607 kb, 92 pages, June 2004)
+    * [ICGI Report Attachments]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 184 kb, 7 pages, June 2004)
+    * [ICGI Summary and Background]({{< ref "https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf" >}}) (PDF, 176 kb, 6 pages, June 2004)
+* [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 * [Style Guides by Government Agencies]({{< ref "style-guides-by-government-agencies.md" >}})

@@ -41,7 +41,17 @@
   {{ "<!-- End Google Tag Manager -->" | safeHTML }}
 
   {{ "<!-- Page Title -->" | safeHTML }}
-  <title>{{- $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title | markdownify) -}}</title>
+  {{- $pagetitle := (printf "%s %s" .Title " / ") -}}
+
+  {{- if .Title -}}
+  {{/* if is a post or a page with a title */}}
+  {{/* Page title – Digital.gov */}}
+  <title>{{- .Title }} – {{ .Site.Title -}}</title>
+  {{ else -}}
+  {{/* if is the homepage */}}
+  {{/* Digital.gov */}}
+  <title>{{- .Site.Title }} — {{ .Site.Params.description -}}</title>
+  {{ end -}}
 
   {{ "<!-- Meta Description -->" | safeHTML }}
   <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
@@ -80,6 +90,10 @@
   {{ "<!-- Sitemap-->" | safeHTML }}
   <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | absURL -}}" />
 
+  <!-- Theme Color / Browser -->
+  <!-- https://developers.google.com/web/tools/lighthouse/audits/address-bar -->
+  <meta name="theme-color" content="#656bd7"/>
+
   <!-- Bing Validation -->
   <meta name="msvalidate.01" content="A662823C2F59EB4F55F752CC752AC299" />
 
@@ -117,7 +131,6 @@
   <link rel="mask-icon" href='{{- "img/icons/safari-pinned-tab.svg" | absURL -}}' color="#333333">
   <link rel="shortcut icon" href='{{- "img/icons/favicon.ico" | absURL -}}'>
   <meta name="msapplication-config" content='{{ "img/icons/browserconfig.xml" | absURL }}'>
-  <meta name="theme-color" content="#ffffff">
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 

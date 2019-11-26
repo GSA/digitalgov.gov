@@ -9,6 +9,8 @@ topics:
   - data-gov
 authors:
   - pashlock
+redirectto: https://resources.data.gov/tools/inventory-data-gov-guide/
+
 ---
 
 * [Introduction](#introduction)
