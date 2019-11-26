@@ -12,12 +12,9 @@ date: 2019-11-14 14:30:00 -0500
 end_date: 2019-11-14 15:30:00 -0500
 event_organizer: DigitalGov University
 host: 18F
-registration_url: https://www.eventbrite.com/e/agile-talks-kanban-part-ii-registration-78069860053
-youtube_id:
+youtube_id: HUA7iIb1Y9g
 
 ---
-
-{{< img src="agile-kanban-part-2" >}}
 
 ## About this session — Kanban, Part II
 
