@@ -11,7 +11,7 @@ date: 2019-11-21 14:30:00 -0500
 end_date: 2019-11-21 15:30:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System
-registration_url: https://www.eventbrite.com/e/us-web-design-system-november-monthly-call-registration-79794691069
+youtube_id: -mWm-2V-DLA
 
 ---
 
