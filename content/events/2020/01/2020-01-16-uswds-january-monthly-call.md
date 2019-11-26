@@ -1,7 +1,7 @@
 ---
 slug: uswds-january-monthly-call
 title: 'USWDS January Monthly Call'
-summary: 'Join USWDS Product Lead, Dan Williams as we discuss the US Web Design System and answer your questions'
+summary: 'Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions&#46;'
 featured_image: 
   uid: 
   alt: ''
@@ -16,4 +16,6 @@ youtube_id:
 
 ---
 
-***Paste body content here. Delete this line***
+Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions.
+
+[USWDS](https://designsystem.digital.gov/) is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices. 
