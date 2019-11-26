@@ -19,22 +19,25 @@
               </p>
             </div>
 
-            {{ range .Data.Pages.Reverse }}
-            {{ $now := now.Format "2006-01-02" }}
-            {{ $start := .Date.Format "2006-01-02"  }}
+            {{/* Future Events ===========================  */}}
+            {{- $events := where .Site.RegularPages.Reverse  "Section" "events" -}}
+            {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0))  -}}
 
-            {{ if .Params.End_date }}
-              {{ $end := dateFormat "2006-01-02" .Params.End_date }}
-              {{ if or (ge $start $now) (ge $end $now)}}
-                {{ if not .Params.on_hold }}
-                  {{ .Render "li"}}
-                {{ end }}
-              {{ end }}
+            {{/* Past Events =========================== */}}
+            {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
 
-              {{ else if ge $start $now }}
-                  {{ .Render "li"}}
-              {{ end }}
-            {{ end }}
+            {{- with $events -}}
+              {{- range $events -}}
+                {{ .Render "li"}}
+              {{- end -}}
+            {{- else -}}
+              <div class="box">
+
+                {{- $copy := printf "**There are no scheduled events at this time.** We’re working on scheduling events for the near future.<br /> Contact us about [hosting a training or event]({{< link 'contribute.md' >}})." -}}
+                {{- $copy | markdownify -}}
+
+              </div>
+            {{- end -}}
 
           </div>
 
@@ -45,12 +48,11 @@
               <p><a href="https://www.youtube.com/digitalgov" title="View all Digital.gov videos and training">All training & videos »</a></p>
             </div>
 
-            {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
-            {{ range where $events.Reverse ".Date.Unix" "<" now.Unix }}
-              {{ if not .Params.on_hold }}
-                {{ .Render "past"}}
-              {{ end }}
-            {{ end }}
+            {{- with $past_events -}}
+              {{- range $past_events -}}
+                {{ .Render "li"}}
+              {{- end -}}
+            {{- end -}}
 
           </div>
 
