@@ -18,18 +18,13 @@
       }
 
       .newsletter{
-        // @include u-margin-top(0);
-        // @include u-padding-y(1);
         p{
           @include u-font('sans', 'md');
         }
         a{
-          // @include u-padding('105');
           @include u-radius('md');
-          // @include u-border('2px', 'indigo-warm-60v', 'solid');
         }
       }
-
     }
   }
 }
@@ -77,7 +72,7 @@ header.header-posts{
       }
       a{
         @include u-text('no-underline');
-        @include u-text('indigo-warm-60v');
+        @include u-text('primary-vivid');
         @include u-text('bold');
         img{
           @include u-position('relative');
@@ -90,7 +85,7 @@ header.header-posts{
         }
         &:hover{
           span{
-            @include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+            @include u-border-bottom('2px', 'accent-warm', 'solid');
           }
         }
       }

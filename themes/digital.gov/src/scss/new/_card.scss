@@ -16,7 +16,7 @@
 		@include u-font('sans', '2xs');
 		@include u-text('semibold');
 		@include u-text('uppercase');
-		@include u-color('indigo-warm-60v');
+		@include u-color('primary-vivid');
 	}
 	h3{
 		@include u-margin(0);
@@ -68,13 +68,13 @@
 			@include u-bg('gray-cool-2', !important);
 		}
 		h3 a{
-			@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+			@include u-border-bottom('2px', 'accent-warm', 'solid');
 		}
 		.play{
-			@include u-bg('indigo-warm-60v');
+			@include u-bg('primary-vivid');
 		}
 		.btn-register{
-			@include u-bg('indigo-warm-60v');
+			@include u-bg('primary-vivid');
 			@include u-text('white');
 		}
 		.topics{

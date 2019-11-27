@@ -1,0 +1,25 @@
+.agency-banner{
+  @include u-padding-top(2);
+  @include u-text('base-darkest');
+  @include u-bg('white');
+  @include u-display('none');
+  @include at-media('tablet') {
+    // @include u-display('block');
+  }
+  .org-copy{
+    a{
+      @include u-display('flex');
+      @include u-flex('align-center');
+      @include u-text('base-darkest');
+      @include u-text('no-underline');
+      .org-img{
+        @include u-width('205');
+      }
+      span{
+        @include u-margin-left(1);
+        @include u-font('sans', '2xs');
+        @include u-text('normal');
+      }
+    }
+  }
+}

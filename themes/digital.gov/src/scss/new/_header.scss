@@ -3,7 +3,6 @@
 .usa-header--extended {
 	@include u-bg('white');
 	.usa-navbar{
-		@include u-bg('primary-darker');
 		@include at-media('tablet') {
 			@include u-bg('transparent');
 		}
@@ -12,7 +11,7 @@
 		a{
 			@include u-display('flex');
 			@include u-flex('align-center');
-			@include u-text('white');
+			@include u-text('black');
 			@include at-media('tablet') {
 				@include u-text('black');
 			}
@@ -23,18 +22,7 @@
 					@include u-width(4);
 				}
 			}
-			.logo-black{
-				@include u-display('none');
-				@include at-media('tablet') {
-					@include u-display('block');
-				}
-			}
-			.logo-white{
-				@include u-display('block');
-				@include at-media('tablet') {
-					@include u-display('none');
-				}
-			}
+
 			span{
 				@include u-padding-bottom(0);
 				@include u-font('sans', 'xl');
@@ -57,19 +45,21 @@
 		@include u-margin-right('105');
 		@include u-padding-y('2px');
 		@include u-padding-x(1);
-		@include u-border('1px', 'white', 'solid');
+		@include u-border('1px', 'black', 'solid');
 		@include u-height('auto');
 		@include u-radius('md');
 		@include u-text('no-uppercase');
-		@include u-bg('primary-darker');
 		@include u-font('sans', 'xs');
 		@include u-text('bold');
+		@include u-text('black');
+		@include u-bg('white');
 		i{
 			@include u-margin-right('2px');
 		}
 	}
 
 	nav.usa-nav{
+		@include u-border-top(0);
 		.usa-nav__primary > .usa-nav__primary-item{
 			@include u-font('sans', 'md');
 			a{
