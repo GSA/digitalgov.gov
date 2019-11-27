@@ -16,6 +16,8 @@ youtube_id:
 
 ---
 
+{{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}
+
 Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. The video will be available on Digital.gov shortly after the event.
