@@ -10,7 +10,7 @@ event_type:
 date: 2019-12-19 14:30:00 -0500
 end_date: 2019-12-19 15:30:00 -0500
 event_organizer: DigitalGov University
-host: 
+host: U.S. Web Design System
 registration_url: https://www.eventbrite.com/e/us-web-design-system-december-monthly-call-registration-83901699241
 youtube_id: 
 
