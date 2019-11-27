@@ -1,6 +1,6 @@
 ---
 slug: uswds-december-monthly-call
-title: 'USWDS December Monthly Call'
+title: 'U.S. Web Design System: December Monthly Call'
 summary: 'Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions&#46;'
 featured_image: 
   uid:  
