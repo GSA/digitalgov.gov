@@ -32,7 +32,7 @@ This event is part of a monthly series that takes place on the third Thursday of
 
 Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
 
-_This talk is hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov._
+_This talk is hosted by the [U.S. Web Design System](https://designsystem.digital.gov/) and Digital.gov._
 
 Our team will send a reminder email before the event that includes your link to join the video.
 
