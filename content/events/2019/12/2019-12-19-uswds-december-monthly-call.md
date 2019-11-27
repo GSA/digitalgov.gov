@@ -30,10 +30,10 @@ This event is part of a monthly series that takes place on the third Thursday of
 
 ---
 
+Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
+
 _This talk is hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov._
 
 Our team will send a reminder email before the event that includes your link to join the video.
 
 _This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
-
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
