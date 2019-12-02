@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  hugo:
+    image: cibuilds/hugo:0.59.1
+    working_dir: /srv/hugo
+    volumes:
+      - .:/srv/hugo
+    command: "hugo serve"
+    ports:
+      - 1313:1313
