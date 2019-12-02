@@ -16,7 +16,7 @@ youtube_id: Gt-iG6RcU2Y
 
 ---
 
-
+[_View the slides_](https://digital.gov/pdf/BasicScrumPtII.pdf) (PDF, 991KB, 27 pages)
 
 ## About this session — Basics of Scrum, Part II
 
