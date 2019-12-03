@@ -16,7 +16,7 @@ youtube_id: HUA7iIb1Y9g
 
 ---
 
-[View the slides] (https://digital.gov/pdf/Intro-to-Kanban-Pt-11.pdf) (PDF, 1.18 MB, 39 pages)
+[View the slides](https://digital.gov/pdf/Intro-to-Kanban-Pt-11.pdf) (PDF, 1.18 MB, 39 pages)
 
 ## About this session — Kanban, Part II
 
