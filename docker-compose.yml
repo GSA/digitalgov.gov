@@ -2,8 +2,11 @@ version: '3'
 
 services:
   hugo:
-    image: cibuilds/hugo:0.59.1
-    working_dir: /Sites/digitalgov.gov
+    image: jojomi/hugo:0.59.1
+    build:
+      context: .
+    volumes:
+      - .:/app
     command: "hugo serve"
     ports:
       - 1313:1313
