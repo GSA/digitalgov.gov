@@ -15,6 +15,8 @@ youtube_id: 3smZz7PduK8
 
 ---
 
+[_View the slides_](https://digital.gov/pdf/DAPLearningSeries.pdf) (PDF, 5.4 MB, 27 pages)
+
 DAP users often ask – _“How should I analyze my site?”_
 
 In this webinar, Freddie Blicher, an analyst for the Digital Analytics Program (DAP), will do a live demonstration of a real site analysis - from defining website mission, goals and KPIs to pulling reporting to better understand site performance.
