@@ -39,6 +39,8 @@ ODPHP and CH completed audience research to learn barriers and facilitators for 
 
 ODPHP and CH completed an environmental scan of existing physical activity apps and online tools before getting started. The scan shaped part of the tool’s direction and inspired many early sketches. But since this was a new, unique tool centered on meeting [Physical Activity Guidelines for Americans](https://health.gov/paguidelines/), the crux of creation came from planning and ideation. Planning followed a user-centered design process, which involved iterating, feedback, and two rounds of user testing. In the first round, the research team presented three scenarios for which adults and parents might use the tool.
 
+Round 1 users and the scenarios CH wanted them to work through with an earlier version of the online activity planner. 
+
 | **Type of Adult**                                   | **Primary scenario**                                                                                               |
 |-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | **Young adults (ages 18 to 45) (n=3)**              | “I want ideas for how to fit activity into my day both at home and at work.”                                       |
