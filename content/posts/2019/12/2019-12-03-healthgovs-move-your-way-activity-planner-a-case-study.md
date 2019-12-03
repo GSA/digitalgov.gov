@@ -2,7 +2,7 @@
 slug: healthgovs-move-your-way-activity-planner-a-case-study
 date: 2019-12-03 10:00:00 -0500
 title: 'Health&#46;gov’s Move Your Way Activity Planner&#58; A Case Study'
-summary: 'How HHS developed a bilingual online tool using audience research and iterative feedback to help adults increase their recommended aerobic activity and strength training.'
+summary: 'How an HHS team developed a bilingual online tool using audience research and iterative feedback to help adults increase their recommended aerobic activity and strength training.'
 deck: 'Adhering to user experience (UX) design principles can be key when making public health tools.'
 authors:
   - stephanie-santana
@@ -30,7 +30,6 @@ Not everyone needs help getting more physical activity, but those who aren’t y
 
 {{< img src="move-your-way-04" >}}
 
-
 ## 2: Ask yourself, “What am I trying to solve?”
 
 ODPHP and CH completed audience research to learn barriers and facilitators for physical activity among adult contemplators. They determined that this group needed help figuring out how to fit physical activity into their daily routines and break down the recommendation of 150 minutes per week into small, manageable chunks. Contemplators also did not like “one size fits all” recommendations. So, ODPHP and CH set out to develop a tool that would allow users to build a customized plan tailored to their preferences that would help them meet the recommendations their way. Users can pick filters that are aligned with top barriers and facilitators identified during audience research to narrow a list of suggested activities. Users can then select activities and specify duration and frequency when adding activities to their weekly plan. As users add activities to their plan, they can see their progress toward meeting the recommendations.
@@ -39,7 +38,7 @@ ODPHP and CH completed audience research to learn barriers and facilitators for 
 
 ODPHP and CH completed an environmental scan of existing physical activity apps and online tools before getting started. The scan shaped part of the tool’s direction and inspired many early sketches. But since this was a new, unique tool centered on meeting [Physical Activity Guidelines for Americans](https://health.gov/paguidelines/), the crux of creation came from planning and ideation. Planning followed a user-centered design process, which involved iterating, feedback, and two rounds of user testing. In the first round, the research team presented three scenarios for which adults and parents might use the tool.
 
-Round 1 users and the scenarios CH wanted them to work through with an earlier version of the online activity planner.
+The table below shows three examples of Round 1 users and the scenarios that CH wanted them to work through with an earlier version of the online activity planner.
 
 | **Type of Adult**                                   | **Primary scenario**                                                                                               |
 |-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
