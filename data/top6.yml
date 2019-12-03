@@ -29,6 +29,9 @@
 
 top6:
 
+  - file          : '2019-12-03-healthgovs-move-your-way-activity-planner-a-case-study.md'
+    type          : 'post'
+
   - file          : '2019-11-20-it-modernization-apprenticeship-experience-breaking-down-workforce-innovation-barriers-at-usda.md'
     type          : 'post'
 
@@ -43,6 +46,3 @@ top6:
 
   - file          : '2019-11-12-meet-your-federal-web-council.md'
     type          : 'post'
-
-  - file          : '2019-11-08-basic-scrum-i.md'
-    type          : 'video'
