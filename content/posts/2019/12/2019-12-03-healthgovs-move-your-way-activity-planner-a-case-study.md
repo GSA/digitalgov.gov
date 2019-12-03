@@ -22,7 +22,7 @@ The [Office of Disease Prevention and Health Promotion](https://www.health.gov/)
 
 {{< img src="move-your-way-02" >}}
 
-This is a walk through of how the ODPHP team, lead by Frances Bevington, partnered with Communicate Health (CH) to apply UX design practices to create health.gov’s [_Move Your Way_ Activity Planner](https://www.health.gov/MoveYourWay/Activity-Planner/). They share their process and lessons learned in creating this user-friendly, online tool.
+This case study is a walk through of how the ODPHP team, lead by Frances Bevington, partnered with Communicate Health (CH) to apply UX design practices to create health.gov’s [_Move Your Way_ Activity Planner](https://www.health.gov/MoveYourWay/Activity-Planner/). They share their process and lessons learned in creating this user-friendly, online tool.
 
 ## 1: Shape all processes around your target audience
 
