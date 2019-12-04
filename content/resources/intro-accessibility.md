@@ -43,6 +43,7 @@ We’re not just here to talk about compliance and the rules. We’re here to ta
 
 This principle is known as Inclusive Design; we create products, services, and environments without the need for special adaptation or specialized design.
 
+{{< img src="accessibility-inclusive-design" >}}
 
 In order to be an advocate for the creation of products and services that are accessible, we need to reframe our ideas around disability.
 
@@ -74,13 +75,13 @@ The idea that things that help people with disabilities can benefit everyone ins
 
 Let’s review temporary and situational disabilities in a bit more detail.
 
-[IMAGE]
+{{< img src="accessibility-disability-see" >}}
 
 **Temporary disabilities** — There are occasions where folks might have a temporary disability due to an illness or medical circumstances.
 
 Someone with an arm in a cast will have difficulty typing on their keyboard, or, after an eye doctor appointment, one’s pupils are dilated and the usual brightness of a phone’s screen is painful.
 
-[IMAGE]
+{{< img src="accessibility-disability-touch" >}}
 
 **Situational disabilities** — There are also situational disabilities that occur during specific circumstances.
 
@@ -91,7 +92,7 @@ Examples include a new parent holding a baby, someone trying to open a door whil
 
 It’s also good to remember that there are disabilities that are not physical that have an affect on our work, like anxiety, dyslexia, and autism. These [posters from the U.K. government](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) illustrate the do’s and don'ts around about designing for these types of disabilities.
 
-[IMAGE / POSTERS]
+{{< img src="govuk-accessibility-posters" >}}
 
 It’s important to keep in mind the context for which folks are using your product or service, and how they’ll be interacting with you.
 
@@ -176,8 +177,8 @@ If you are able to test screen readers with multiple browsers, the following is 
 - [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/) — An introduction to how people with disabilities, including people with age-related impairments, use the Web. It describes assistive technology tools and approaches that people with different kinds of disabilities use to browse the Web (and the barriers they encounter due to poor design).
 - [Web Almanac, Part II, Chapter 9: Accessibility](https://almanac.httparchive.org/en/2019/accessibility) - Covers additional topics, including readability, navigation, and form controls.
 
-_This introduction to accessibility was based on content created by the Technology Transformation Services (TTS) Accessibility Guild. Many thanks to former and current guild co-leads, Nikki Lee (18F) and David Stenger (USAgov), and Jacklynn Pham (18F) and Toni Bonitto (TTS Office of Solutions), for creating and iterating on this!_ 
+_This introduction to accessibility was based on content created by the Technology Transformation Services (TTS) Accessibility Guild. Many thanks to former and current guild co-leads, Nikki Lee (18F) and David Stenger (USAgov), and Jacklynn Pham (18F) and Toni Bonitto (TTS Office of Solutions), for creating and iterating on this!_
 
 [Subscribe to our weekly newsletter](https://digital.gov/about/subscribe/)—a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise. Join DigitalGov's [Communities of Practice](https://digital.gov/communities/) to connect with over 13,000 people across 22 focus areas who learn, share, and collaborate to build solutions to common problems and challenges in government.
 
-_(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
+_(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
