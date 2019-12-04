@@ -160,7 +160,7 @@ If you are able to test screen readers with multiple browsers, the following is 
 -   Windows 10 Narrator and Edge
 -   VoiceOver (Mac) and Safari (Mac)
 
-### Recommended Resources
+## Recommended Resources
 
 - [WCAG 2.0](https://www.w3.org/TR/WCAG20/) — This outlines the principles, guidelines, testable success criteria, and techniques needed to optimize content.
 - [W3C’s WCAG quick reference guide](https://www.w3.org/WAI/WCAG21/quickref/) — A compliance checklist; it will help you satisfy your Section 508 obligations. Be sure to review the white “Understanding” button given in each criteria section for more in-depth information. Remember: the success criteria are just the baseline. We are encouraged to surpass the values specified; not see them as a ceiling to build to.
