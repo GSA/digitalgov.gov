@@ -3,10 +3,13 @@ url: /resources/intro-accessibility/
 date: 2019-12-04 9:00:00 -0400
 title: "Intro to Accessibility"
 deck: "TKTK"
-summary: "TKTK"
+summary: "Accessibility is one of the most important values underlying all of the work that we do. This page is an introduction to why accessibility matters and we hope that you share it with your team."
 type: guide
 featured_image:
   uid:
+authors:
+  - tonibonitto
+  - jeremyzilar
 
 ---
 
@@ -22,15 +25,15 @@ This page is an introduction to why accessibility matters, and we hope that you 
 
 How do we get there? The shortest version is to make sure that everyone ensures that their products meet the minimum [Level-A](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aa%2Caaa#top) and [Level-AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=a%2Caaa#top) Success Criteria (SC) of the Web Content Accessibility Guidelines (WCAG) — the globally recognized guidelines for creating accessible digital experiences from the [World Wide Web Consortium](https://www.w3.org/) (W3C).
 
-[WCAG 2.0](https://www.w3.org/TR/WCAG20/) outlines the principles, guidelines, testable success criteria, and techniques needed to optimize content. There are four principles known as “POUR,” where all online content should be:
+[WCAG 2.0](https://www.w3.org/TR/WCAG20/) outlines the **principles**, **guidelines**, testable **success criteria**, and **techniques** needed to optimize content. There are four principles known as “POUR,” where all online content should be:
 
-1.  Perceivable - Information and user interface components must be presentable to users in ways they can perceive (it can't be invisible to all of their senses).
+1. **Perceivable** - Information and user interface components must be presentable to users in ways they can perceive (it can't be invisible to all of their senses).
 
-2.  Operable - User interface components and navigation must be operable (the interface cannot require interaction that a user cannot perform).
+2. **Operable** - User interface components and navigation must be operable (the interface cannot require interaction that a user cannot perform).
 
-3.  Understandable - Information and the operation of user interface must be understandable (the content or operation cannot be beyond their understanding).
+3. **Understandable** - Information and the operation of user interface must be understandable (the content or operation cannot be beyond their understanding).
 
-4.  Robust - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technology (as technologies and user agents evolve, the content should remain accessible).
+4. **Robust** - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technology (as technologies and user agents evolve, the content should remain accessible).
 
 Sometimes the technical descriptions of the WCAG requirements can make it harder to understand, but luckily we have the resources to help navigate the basics.
 
@@ -69,7 +72,6 @@ The idea that things that help people with disabilities can benefit everyone ins
 
 {{< youtube JQ0iMulicgg >}}
 
-
 Let’s review temporary and situational disabilities in a bit more detail.
 
 [IMAGE]
@@ -85,12 +87,11 @@ Someone with an arm in a cast will have difficulty typing on their keyboard, or,
 Examples include a new parent holding a baby, someone trying to open a door while holding one or multiple items, or if calling into meeting where they have a visual presentation.
 
 
-## Cognitive, Learning, and Neurological Disabilities
+### Cognitive, Learning, and Neurological Disabilities
 
 It’s also good to remember that there are disabilities that are not physical that have an affect on our work, like anxiety, dyslexia, and autism. These [posters from the U.K. government](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) illustrate the do’s and don'ts around about designing for these types of disabilities.
 
 [IMAGE / POSTERS]
-
 
 It’s important to keep in mind the context for which folks are using your product or service, and how they’ll be interacting with you.
 
@@ -112,8 +113,6 @@ There are lots of accessibility problems we can catch before we even put our pro
 
 With good testing practices, we’ll fix obvious bugs before they ever reach an end user. This is just as true with accessibility as it is for everything else.
 
-
-
 ## What Can You Do to Help?
 
 ### 1. **Set up a good process from the start**
@@ -127,19 +126,17 @@ Here are some tasks for each member of your team:
 -   **Engineering:** Set up basic tests using standard components, and implement labels and keyboard navigation behavior
 -   **Acquisitions:** Make sure vendor tools are accessible
 
-
 ### 2. **Be mindful of how to be more inclusive when working with others**
 
 Create an environment where folks feel comfortable letting you know what their preferences are so that every team member can contribute in their full capacity. Even if no one on your team needs accommodations now, consider how your resources will be used later (and if there are any barriers for folks to contribute).
 
 Here are some practices for being more inclusive with those you work with, many of which are an extension of the courtesy that most people automatically practice.
 
--   **Create presentations or other documents that are accessible:** Making internal documents accessible helps your co-workers and partners (and is required, too!)
--   **Be open to other ways of working if the tools aren’t working for some of your coworkers:** If one tool isn’t working for some of your coworkers, switch to another.
--   **Make sure everyone can participate:** Make use of the [Federal Relay captioning services](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services/federal-relay-fedrelay) to help make your meetings and work accessible to those you work with. (We use [Relay Conference Captioning](https://www.sprintrelay.com/federal) for most hosted meetings)
+-  **Create presentations or other documents that are accessible:** Making internal documents accessible helps your co-workers and partners (and is required, too!)
+-  **Be open to other ways of working if the tools aren’t working for some of your coworkers:** If one tool isn’t working for some of your coworkers, switch to another.
+-  **Make sure everyone can participate:** Make use of the [Federal Relay captioning services](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services/federal-relay-fedrelay) to help make your meetings and work accessible to those you work with. (We use [Relay Conference Captioning](https://www.sprintrelay.com/federal) for most hosted meetings)
 
 Federal Relay services are free for federal agencies to use through a contract agreement. The one that we use most often for hosting meetings is “[Relay Conference Captioning](https://www.sprintrelay.com/federal) (RCC)”
-
 
 ## Try Using a Screen Reader
 
@@ -182,4 +179,4 @@ If you are able to test screen readers with multiple browsers, the following is 
 
 [Subscribe to our weekly newsletter](https://digital.gov/about/subscribe/)—a round-up of innovative work, news, and ideas from people and teams across government. It includes a list of the upcoming community events and training aimed at elevating your digital expertise. Join DigitalGov’s [Communities of Practice](https://digital.gov/communities/) to connect with over 13,000 people across 22 focus areas learn, share, and collaborate to build solutions to common problems and challenges in government.
 
-*(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)*
+_(All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
