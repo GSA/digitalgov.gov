@@ -26,17 +26,21 @@ weight: 1
 community_list:
   - platform: listserv
     type: government
+    terms: "Federal employees can send an [email to David Fern](mailto:mobilegov-request@listserv.gsa.gov) with “Subscribe to MobileGov” in the subject line."
     subscribe_email: "mobilegov-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe to MobileGov"
     members: 1129
     emails_per_week: 2.62
-
 
 # Make it better ♥
 ---
 
 MobileGov Community of Practice members, a network of federal employees, work across agencies to create anytime, anywhere government resources and solutions for today and tomorrow.
 
-Hear how forward thinking agencies are tackling public facing mobile technologies together and help build government-wide solutions.
+Hear how forward-thinking agencies are tackling public-facing mobile technologies together, and help build government-wide solutions.
 
-_Only Federal Employees are invited to join this Mobile Community of Practice._
+## Join
+
+Only federal employees are invited to join this Mobile Community of Practice.
+
+Federal employees can send an [email to David Fern](mailto:mobilegov-request@listserv.gsa.gov) with “Subscribe to MobileGov” in the subject line.
