@@ -2,8 +2,7 @@
 url: /resources/intro-accessibility/
 date: 2019-12-04 9:00:00 -0400
 title: "Intro to Accessibility"
-deck: "TKTK"
-summary: "Accessibility is one of the most important values underlying all of the work that we do. This page is an introduction to why accessibility matters and we hope that you share it with your team."
+summary: "An introduction to accessibility, why it matters."
 type: guide
 featured_image:
   uid:
