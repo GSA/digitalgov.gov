@@ -5,7 +5,7 @@ title: "Intro to Accessibility"
 summary: "An introduction to accessibility, why it matters."
 type: guide
 featured_image:
-  uid:
+  uid: accessibility-101-card
 authors:
   - tonibonitto
   - jeremyzilar
