@@ -35,7 +35,22 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Images
 
-By default, the any data that is included in the image data file, will be rendered with the image.
+Each image has a corresponding data file in `/data/images/`. That file specifies the
+
+```
+
+date     : 2017-08-22 21:04:32 -0400
+uid      : very-large-array-nm
+width    : 3888
+height   : 2600
+format   : jpg
+credit   : Jeremy Zilar
+caption  : The Very Large Array in New Mexico
+alt      : A photo of a satelite dish from the very large array in New Mexico
+
+```
+
+By default, the data that is included in the image data file, will be rendered with the image.
 
 ### Image shortcode without the alt tag
 
@@ -49,6 +64,9 @@ NOTE — The `alt` tag is still set in the `img` tag, along with the caption and
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
+{{< img-right src="very-large-array-nm" >}}
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
