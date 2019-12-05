@@ -1,7 +1,10 @@
+// Styles for the list of authors generally found on blog posts and event pages
+// NOTE: The authors-list is included twice on the page. Once for desktop, the other for mobile.
+
 .authors-list{
 	@include u-margin-top(0);
 	.author{
-		@include u-margin-bottom(2);
+		@include u-margin-bottom('105');
 		@include u-padding-top(1);
 		@include u-border-top('1px','solid', 'gray-10');
 		img{
@@ -17,11 +20,11 @@
 				@include u-text('bold');
 				@include u-line-height('sans', 1);
 				a{
-					color:#000;
+					@include u-text('black');
 					@include u-text('no-underline');
 				}
 				a:hover{
-					border-bottom: 2px #fc906d solid;
+					@include u-border-bottom('2px', 'accent-warm', 'solid');
 				}
 			}
 			p{
@@ -31,9 +34,6 @@
 		}
 		&:first-child{
 			@include u-border-top(0);
-		}
-		&:last-child{
-			@include u-margin-bottom(0);
 		}
 	}
 }

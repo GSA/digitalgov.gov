@@ -1,32 +1,30 @@
 <div class="card card-article card-linked" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
-  <div class="paper">
-    <div class="grid-row grid-gap-2">
-      <div class="grid-col-12 tablet:grid-col-4 tablet:order-2">
-        {{- partial "core/img-featured" . -}}
-      </div>
-      <div class="grid-col-12 tablet:grid-col-8 tablet:order-1">
-
-        {{- if .Params.kicker -}}
-        <p class="kicker">{{- .Params.kicker -}}</p>
-        {{- end -}}
-        <h3>
-          <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
-        </h3>
-
-        {{- if .Params.deck -}}
-        <p class="deck">{{ .Params.deck | markdownify }}</p>
-        {{- else -}}
-        <p class="summary">{{ .Params.summary | markdownify }}</p>
-        {{- end -}}
-
-        <div class="meta">
-          {{- partial "core/get_authors_short" . -}}
-          <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
-          {{- partial "core/get_clicks" . -}}
-        </div>
-      </div>
-
+  <div class="grid-row grid-gap-2">
+    <div class="grid-col-12 tablet:grid-col-4 tablet:order-2">
+      {{- partial "core/img-featured" . -}}
     </div>
-    <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+    <div class="grid-col-12 tablet:grid-col-8 tablet:order-1">
+
+      {{- if .Params.kicker -}}
+      <p class="kicker">{{- .Params.kicker -}}</p>
+      {{- end -}}
+      <h3>
+        <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
+      </h3>
+
+      {{- if .Params.deck -}}
+      <p class="deck">{{ .Params.deck | markdownify }}</p>
+      {{- else -}}
+      <p class="summary">{{ .Params.summary | markdownify }}</p>
+      {{- end -}}
+
+      <div class="meta">
+        {{- partial "core/get_authors_short" . -}}
+        <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
+        {{- partial "core/get_clicks" . -}}
+      </div>
+    </div>
+
   </div>
+  <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
 </div>
