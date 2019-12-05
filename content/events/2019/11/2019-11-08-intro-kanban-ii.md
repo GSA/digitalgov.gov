@@ -16,6 +16,8 @@ youtube_id: HUA7iIb1Y9g
 
 ---
 
+[View the slides](https://digital.gov/pdf/Intro-to-Kanban-Pt-II.pdf) (PDF, 1.18 MB, 39 pages)
+
 ## About this session — Kanban, Part II
 
 Building on Intro to Kanban I, we go into greater depth on how to handle urgencies, emergencies, & blocked items; and how kanban fits with Agile. The session wraps up with a non-software case study.
