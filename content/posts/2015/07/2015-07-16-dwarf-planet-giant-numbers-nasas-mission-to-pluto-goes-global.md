@@ -19,7 +19,7 @@ Even on a “slow” day, NASA is a pretty cool place to work, but the cool fact
 
 That’s what happened this week when the [New Horizons](http://www.nasa.gov/mission_pages/newhorizons/main/index.html) spacecraft arrived at Pluto after decade-long, three-billion-mile journey through the solar system. New Horizons has already sent back [never-before seen images](http://www.nasa.gov/mission_pages/newhorizons/images/index.html) of the dwarf planet, and it is collecting so much data that it will take 16 months to send it all back to Earth.
 
-Any time we go this far from home and do something that’s never been done before, it’s sort of a big deal. And it shows, thanks to our data from the [Digital Analytics Program]({{< ref "/services/dap/_index.md" >}}). Some quick facts:
+Any time we go this far from home and do something that’s never been done before, it’s sort of a big deal. And it shows, thanks to our data from the [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}}). Some quick facts:
 
   * It’s our biggest mission-related traffic event since we joined DAP in February 2013, with nearly 10 million page views on July 14 alone. During the 7 a.m. hour, 42 percent of all government traffic was going to NASA pages.
   * [NASA Television](http://www.nasa.gov/multimedia/nasatv/index.html) live streams were played more than 750,000 times during the day, with 200,000 plays during the arrival between 7 a.m. and 9 a.m. EDT.

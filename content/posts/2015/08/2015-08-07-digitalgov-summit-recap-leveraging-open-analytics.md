@@ -22,7 +22,7 @@ Seven million dollars is a big price tag. That is the amount Forbes predicts org
 
 While government agencies may not have big budgets for data analysis, we do have tons of data—survey data, usability data, campaign data—that should be leveraged to drive decisions. This idea was the subject of a panel discussion during the second annual [DigitalGov Citizen Services Summit]({{< ref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}), held in May.
 
-How can you bring all your data together to tell a story, drive decisions and make a change, asked Marina Fox, manager of the government-wide [Digital Analytics Program]({{< ref "/services/dap/_index.md" >}}) and panel moderator.
+How can you bring all your data together to tell a story, drive decisions and make a change, asked Marina Fox, manager of the government-wide [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}}) and panel moderator.
 
 ## Define Your Goals, Then Apply the Tools
 
