@@ -6,10 +6,10 @@
 {{ $imgCDN := printf "%s/%s/%s" $cdnurl $legacyPath $imgPath }}
 {{ $prefix := replaceRE "^(http[s]://).+$" "$1" $imgPath }}
 
-<div class="align-right image{{ if or (.Get "align") (.Get "caption")}}{{ with .Get "caption" }} wp-caption{{ end }}{{ with .Get "align" }} align{{.}}{{ end }}{{ end }}">
+<div class="image{{ if (.Get "caption")}}{{ with .Get "caption" }} caption{{ end }}{{ end }} image-right">
   <img src="{{ if ne $prefix $imgPath }}{{ $imgPath }}{{ else }}{{ $imgCDN }}{{ end }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
   {{ with .Get "caption" }}
-    <p class="wp-caption-text">
+    <p class="caption">
       {{ . | markdownify }}
     </p>
   {{ end }}
