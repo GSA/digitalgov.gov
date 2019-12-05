@@ -6,6 +6,7 @@ type: guide
 guide: dap
 aliases:
   - /services/dap/common-questions-about-dap-faq/
+  - /services/dap/common-questions-about-dap/
 
 ---
 

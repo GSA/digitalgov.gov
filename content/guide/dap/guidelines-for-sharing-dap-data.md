@@ -5,6 +5,8 @@ deck: ""
 summary: ""
 type: guide
 guide: dap
+aliases:
+  - /services/dap/guidelines-for-sharing-dap-data/
 ---
 
 ## Data that is publicly shareable
