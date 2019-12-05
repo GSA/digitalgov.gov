@@ -19,6 +19,8 @@ authors:
   - jeremyzilar
   - dan-williams
   - sara-cope
+  - toni-bonitto
+  - ammie-farraj-feijoo
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
