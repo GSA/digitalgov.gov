@@ -7,6 +7,7 @@ type: guide
 guide: dap
 aliases:
   - /dap/certified-analyst/
+  - /services/dap/become-a-dap-certified-analyst/
   - /services/dap/certified-analyst/
 
 ---
