@@ -16,11 +16,13 @@
   }
 }
 .image-right{
-  @include u-margin-y('205');
-  @include u-margin-top('205');
+  @include u-margin-y(3);
   @include u-margin-left(3);
   @include u-float('right');
-  @include u-width('mobile');
+  @include u-width('card');
+  @include at-media('tablet') {
+    @include u-width('mobile');
+  }
 }
 
 .image-left{

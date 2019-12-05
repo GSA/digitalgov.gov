@@ -34,7 +34,7 @@
     {{- $imgBaseCDN -}}.{{- $imgExt }} {{ $imgWidth -}}w
     {{- end -}}
       "
-    sizes='(max-width: 600px) 30vw, 400px'/>
+    sizes='(max-width: 600px) 40vw, 400px'/>
 
     {{- if or $imgCaption $imgCredit -}}
       <p>{{- $imgCaption | markdownify -}}{{- if $imgCredit }} <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>{{- end -}}
