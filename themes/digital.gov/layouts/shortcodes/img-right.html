@@ -1,42 +1,45 @@
 <!-- image -->
-{{ $cdnurl := .Site.Params.cdnurl }}
-{{ $thisimg := index $.Site.Data.images (.Get "src" | lower) }}
-{{ $imgBase := $thisimg.uid }}
-{{ $imgExt := $thisimg.format }}
-{{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
-{{ $imgWidth := $thisimg.width }}
-{{ $imgHeight := $thisimg.height }}
+{{- $cdnurl := .Site.Params.cdnurl -}}
+{{- $thisimg := index $.Site.Data.images (.Get "src" | lower) -}}
+{{- $imgBase := $thisimg.uid -}}
+{{- $imgExt := $thisimg.format -}}
+{{- $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase -}}
+{{- $imgWidth := $thisimg.width -}}
+{{- $imgHeight := $thisimg.height -}}
+{{- $imgCaption := $thisimg.caption -}}
+{{- $imgCredit := $thisimg.credit -}}
 
 <div class="image image-right">
   <img
-    src='{{ $imgBaseCDN }}_w200.{{ $imgExt }}'
-    {{ if or (.Get "alt") $thisimg.alt }}
-    alt='{{ with .Get "alt" }}{{ . }}{{ else }}{{ $thisimg.alt }}{{ end }}'
-    {{ end }}
-    srcset='
-    {{ if ge $imgWidth 200 }}{{ $imgBaseCDN }}_bu.jpg 48w,
-      {{ if ge $imgWidth 400 }}
-        {{ if ge $imgWidth 600 }}
-          {{ if ge $imgWidth 800 }}
-            {{ if ge $imgWidth 1200 }}
-              {{ $imgBaseCDN }}_w1200.{{ $imgExt }} 1200w,
-            {{ end }}
-            {{ $imgBaseCDN }}_w800.{{ $imgExt }} 800w,
-          {{ end }}
-          {{ $imgBaseCDN }}_w600.{{ $imgExt }} 600w,
-        {{ end }}
-        {{ $imgBaseCDN }}_w400.{{ $imgExt }} 400w,
-      {{ end }}
-      {{ $imgBaseCDN }}_w200.{{ $imgExt }} 200w
-    {{ else }}
-    {{ $imgBaseCDN }}.{{ $imgExt }} {{ $imgWidth }}w
-    {{ end }}
-      '
-    sizes='(max-width: 600px) 30vw, 200px'/>
-  {{ with $thisimg.credit }}
-    <p class="wp-caption-text">
-      {{ . | markdownify }}
-    </p>
-  {{ end }}
+    src='{{- $imgBaseCDN -}}_w400.{{- $imgExt -}}'
+    {{- if or (.Get "alt") $thisimg.alt -}}
+    alt='{{- with .Get "alt" -}}{{- . -}}{{- else -}}{{- $thisimg.alt -}}{{- end -}}'
+    {{- end -}}
+    srcset="
+    {{- if ge $imgWidth 200 -}}{{- $imgBaseCDN -}}_bu.jpg 48w,
+      {{- if ge $imgWidth 400 -}}
+        {{- if ge $imgWidth 600 -}}
+          {{- if ge $imgWidth 800 -}}
+            {{- if ge $imgWidth 1200 -}}
+              {{- $imgBaseCDN -}}_w1200.{{- $imgExt }} 1200w,
+            {{- end -}}
+            {{- $imgBaseCDN -}}_w800.{{- $imgExt }} 800w,
+          {{- end -}}
+          {{- $imgBaseCDN -}}_w600.{{- $imgExt }} 600w,
+        {{- end -}}
+        {{- $imgBaseCDN -}}_w400.{{- $imgExt }} 400w,
+      {{- end -}}
+      {{- $imgBaseCDN -}}_w200.{{- $imgExt }} 200w
+    {{- else -}}
+    {{- $imgBaseCDN -}}.{{- $imgExt }} {{ $imgWidth -}}w
+    {{- end -}}
+      "
+    sizes='(max-width: 600px) 30vw, 400px'/>
+
+    {{- if or $imgCaption $imgCredit -}}
+      <p>{{- $imgCaption | markdownify -}}{{- if $imgCredit }} <span>—&nbsp;{{ $imgCredit | markdownify -}}</span>{{- end -}}
+      </p>
+    {{- end -}}
+
 </div>
 <!-- image -->
