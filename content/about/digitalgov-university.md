@@ -15,15 +15,15 @@ We provide a range of free online and in-person trainings and events for people 
 
 ## Work with us
 
-**Interested in hosting an online or in-person training or event?**<br/>
-Send us an email with describing your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. [**Send us an email**](mailto:digitalgovu@gsa.gov)
+**Interested in hosting an online or in-person training or event?**<br/ >
+Send us an email that describes your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. 
 
 {{< button href="mailto:digitalgovu@gsa.gov?subject=Training%20Idea" text="Send us an email" >}}
 
 ## Use of DigitalGov Materials
 
-Unless a copyright is indicated, material presented by DigitalGov is free of copyright and may be copied and distributed without permission. Citation of DigitalGov as source is appreciated. However, some material used in DGU training is the property of private individuals, companies, or independent contractors and therefore may be protected by copyright.
+Unless a copyright is indicated, material presented by DigitalGov is free of copyright and may be copied and distributed without permission. Citation of DigitalGov as the source is appreciated. However, some material used in DGU training is the property of private individuals, companies, or independent contractors and therefore may be protected by copyright.
 
 If a copyright is indicated on a photo, graphic, or other material, you must get permission from the original source to use or to copy this material.
 
-Learn more about [Copyright and Other Rights Pertaining to U.S. Government Works](http://www.usa.gov/copyright.shtml).
+Learn more about [Copyright and Other Rights Pertaining to U.S. Government Works](http://www.usa.gov/copyright.shtml). 
