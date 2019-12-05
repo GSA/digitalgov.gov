@@ -25,6 +25,13 @@
   }
 }
 
+// Making the older, right-aligned images smaller on desktop because they were cut to smaller sizes back then...
+.image-right-legacy{
+  @include at-media('tablet') {
+    @include u-width('card-lg');
+  }
+}
+
 .image-left{
   @include u-margin-y('205');
   @include u-margin-top('205');

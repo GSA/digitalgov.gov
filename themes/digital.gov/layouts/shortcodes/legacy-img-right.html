@@ -7,7 +7,7 @@
 {{- $imgCDN := printf "%s/%s/%s" $cdnurl $legacyPath $imgPath -}}
 {{- $prefix := replaceRE "^(http[s]://).+$" "$1" $imgPath -}}
 
-<div class="image image-right">
+<div class="image image-right image-right-legacy">
   <img src="{{- if ne $prefix $imgPath -}}{{- $imgPath -}}{{- else -}}{{- $imgCDN -}}{{- end -}}" {{ if or (.Get "alt") $imgCaption -}}alt="{{- with .Get "alt" -}}{{- . -}}{{- else -}}{{- $imgCaption -}}{{- end -}}"{{- end -}} />
   {{- if $imgCaption -}}
     <p>{{- $imgCaption | markdownify -}}</p>
