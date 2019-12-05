@@ -18,19 +18,16 @@
   }
   .box{
     @include u-margin(0);
-    @include u-padding(2);
-    @include u-padding-y(4);
-    @include u-bg('base-lightest');
+    @include u-padding(0);
+    @include u-bg('white');
     @include at-media('tablet-lg') {
       @include u-bg('primary-darker');
-      @include u-padding-y(2);
-      @include u-padding-bottom(5);
     }
     h2{
+      @include u-padding(2);
       @include u-font('sans', '2xl');
       @include u-text('primary-darker');
       @include u-text('thin');
-      @include u-margin-bottom(2);
       @include at-media('tablet-lg') {
         @include u-margin-bottom(0);
         @include u-text('thin');
@@ -39,16 +36,41 @@
       }
     }
     p{
-      @include u-margin-top(1);
+      @include u-margin-top(0);
+      @include u-padding-x(2);
+      @include u-padding-bottom(2);
+      @include u-border-bottom('1px', 'base-lightest', 'solid');
+      @include u-bg('white');
       @include u-text('primary-dark');
-      @include u-font('sans', 'lg');
-      @include u-line-height('sans', 3);
-      @include u-text('thin');
+      @include u-font('sans', 'md');
+      @include u-line-height('sans', 2);
+      @include u-text('normal');
       @include at-media('tablet-lg') {
-        @include u-text('light');
-        @include u-margin-top('105');
-        @include u-text('accent-warm');
-        @include u-font('sans', 'md');
+        @include u-padding(2);
+        @include u-bg('primary-darkest');
+        @include u-text('normal');
+        @include u-font('sans', 'sm');
+        @include u-text('base-light');
+        @include u-line-height('sans', 2);
+      }
+      a{
+        @include u-display('flex');
+        @include u-flex('align-center');
+        @include u-text('no-underline');
+        @include u-text('base-darker');
+        @include at-media('tablet-lg') {
+          @include u-text('base-lighter');
+        }
+        img{
+          @include u-margin-right('105');
+          @include u-width(5);
+          @include u-minw(5);
+          @include at-media('tablet-lg') {
+            @include u-width(7);
+            @include u-minw(7);
+          }
+        }
+
       }
     }
   }

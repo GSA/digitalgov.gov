@@ -12,7 +12,7 @@
         @include u-text('no-underline');
         @include u-text('indigo-90');
         &:hover{
-          border-bottom: 3px #656bd7 solid; // $indigo-40
+          @include u-border-bottom('2px', 'indigo-50v', 'solid');
         }
       }
     }
@@ -32,14 +32,6 @@
       @include u-text('light');
       @include u-measure(2);
     }
-    .actions{
-      .btn{
-
-      }
-    }
-  }
-  .event-past{
-
   }
 }
 
@@ -94,7 +86,7 @@
         @include u-text('indigo-60');
         &:hover{
           span{
-            border-bottom:2px #4d52af solid;
+            @include u-border-bottom('2px','indigo-60','solid');
           }
         }
       }

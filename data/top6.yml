@@ -29,23 +29,20 @@
 
 top6:
 
-  - file          : '2019-11-04-lets-talk-21st-century-idea.md'
+  - file          : '2019-11-20-it-modernization-apprenticeship-experience-breaking-down-workforce-innovation-barriers-at-usda.md'
     type          : 'post'
 
-  - file          : '2019-10-10-a-new-version-frbs-money-adventure-app-helps-expand-digital-outreach.md'
+  - file          : '2019-11-18-building-elements-that-earn-trust.md'
     type          : 'post'
 
-  - file          : '2019-09-17-findings-from-10xs-recent-round-submissions.md'
-    type          : 'post'
-
-  - file          : '2019-09-11-technology-transformation-begins-with-people-closing-human-technology-gap.md'
-    type          : 'post'
-
-  - file          : '2019-08-27-devops-community-practice-monthly-meeting.md'
+  - file          : '2019-11-13-ginny-redish-how-collaborate-on-strategies.md'
     type          : 'video'
 
-  - file          : '2019-08-09-what-pifs-have-been-up-in-2019.md'
+  - file          : '2019-11-08-basic-scrum-ii.md'
+    type          : 'video'
+
+  - file          : '2019-11-12-meet-your-federal-web-council.md'
     type          : 'post'
 
-  - file          : '2019-08-05-a-successful-vibrant-productive-career-for-federal-employees.md'
-    type          : 'post'
+  - file          : '2019-11-08-basic-scrum-i.md'
+    type          : 'video'

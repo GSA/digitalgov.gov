@@ -1,5 +1,5 @@
 .card-event-promo{
-	@include u-border-top('05', 'red-cool-30v', 'solid');
+	@include u-border-top('2px', 'primary-darker', 'solid');
 	.banner{
 		@include u-padding-y('05');
 		@include u-padding-x('205');
@@ -50,9 +50,9 @@
 		@include u-display('block');
 		@include u-radius('sm');
 		@include u-bg('white');
-		@include u-text('indigo-warm-60v');
+		@include u-text('primary-vivid');
 		@include u-text('center');
-		@include u-border('2px', 'indigo-warm-60v', 'solid');
+		@include u-border('2px', 'primary-vivid', 'solid');
 		transition: background-color .25s, color .25s;
 		@include at-media('tablet') {
 			@include u-display('none');
@@ -60,7 +60,7 @@
 	}
 	&:hover{
 		.btn-register{
-			@include u-bg('indigo-warm-60v');
+			@include u-bg('primary-vivid');
 			@include u-text('white');
 		}
 	}

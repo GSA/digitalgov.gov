@@ -12,14 +12,15 @@ The DevOps Community of Practice (CoP) provides information technology and devel
 
 Government agencies are investing in cloud capabilities and are seeking to work more iteratively, improving their ability to support the public through their digital services. The DevOps CoP will allow agencies to share their innovations and successes, reducing the “cost of learning and innovating” across government.
 
-**DevOps** is the practice of operations and development staff participating together in the in the entire service lifecycle operate rapidly changing resilient systems at scale.
+**DevOps** is the practice of operations and development staff participating together in the entire service lifecycle operate rapidly changing resilient systems at scale.
 
 ## Upcoming Meetings
 
-- Please check back for for upcoming meetings.
+- [**December Special Event with Nicolas Chaillan**](https://digital.gov/event/2019/12/03/devops-holiday-special-event-nicolas-chaillan/)
 
 ## Past Meetings
 
+- [**November Special Event: Jez Humble: Building and Scaling High Performing Technology Organizations**](https://digital.gov/event/2019/11/19/jez-humble-building-scaling-high-performing-technology-organizations/)
 - [**October Meeting**](https://digital.gov/event/2019/10/22/october-devops-cop-meeting/)
 - [**September Meeting**](https://digital.gov/event/2019/09/24/devops-community-monthly-meeting-decennial-census/)
 - [**August Meeting**](https://digital.gov/event/2019/08/27/devops-community-practice-monthly-meeting/)

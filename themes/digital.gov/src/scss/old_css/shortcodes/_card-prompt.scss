@@ -1,0 +1,57 @@
+.card-prompt{
+	@include u-margin-bottom(2);
+	@include u-padding(3);
+	@include u-bg('blue-cool-80');
+	@include u-bg('blue-cool-10');
+	.intro{
+		@include u-display('flex');
+		@include u-flex('align-start');
+		@include u-font('sans', 'md');
+		.icon{
+			@include u-font('sans', '2xl');
+			@include u-minw(6);
+			@include u-top(0);
+			@include u-text('blue-cool-60');
+		}
+		p{
+			@include u-margin-bottom(1);
+		}
+
+	}
+	.prompt{
+		@include u-font('serif', 'xl');
+		@include u-text('blue-cool-80');
+		@include u-line-height('serif', 3);
+		li{
+			@include u-margin-bottom(2);
+		}
+	}
+
+	button{
+		@include u-margin-bottom('105');
+		@include u-padding-y('105');
+		@include u-padding-x(3);
+		@include u-text('medium');
+		@include u-text('white');
+		@include u-radius('sm');
+		@include u-bg('blue-cool-60');
+		@include u-font('sans', 'lg');
+		a{
+			@include u-text('white');
+			&:hover{
+				@include u-text('white');
+				@include u-text('no-underline');
+			}
+		}
+		&:hover{
+			@include u-bg('blue-cool-70');
+		}
+	}
+	.fallback{
+		@include u-margin-top('205');
+		@include u-margin-bottom(0);
+		@include u-font('sans', 'sm');
+		@include u-text('base-darkest');
+		@include u-line-height('sans', 2);
+	}
+}

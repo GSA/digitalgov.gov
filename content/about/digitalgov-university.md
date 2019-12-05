@@ -15,9 +15,7 @@ We provide a range of free online and in-person trainings and events for people 
 ## Work with us
 
 **Interested in hosting an online or in-person training or event?**<br/>
-Send us an email with describing your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. [**digitalgovu@gsa.gov**](mailto:digitalgovu@gsa.gov)
-
-{{< button href="mailto:digitalgovu@gsa.gov?subject=Training%20Idea" text="Send us an email" >}}
+Send us an email with describing your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. [**Send Us an email**](mailto:digitalgovu@gsa.gov)
 
 
 
