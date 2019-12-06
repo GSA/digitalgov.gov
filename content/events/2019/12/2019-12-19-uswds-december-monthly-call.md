@@ -18,9 +18,11 @@ youtube_id:
 
 {{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}
 
-Please join Dan Williams, U.S. Web Design System (USWDS) product lead, as he wraps up 2019 with a special talk dedicated to answer the hardest questions about USWDS from the past year. Whether your agency has already begun implementing USWDS, or if you just have general questions about how to successfully use the design system, Dan will bring his expertise to help you use USWDS more effectively.
+Please join Dan Williams, U.S. Web Design System (USWDS) product lead, as he wraps up 2019 with a special talk dedicated to answering the hardest questions about USWDS from the past year. 
 
-If you have questions ahead of time, please email them to [uswds@gsa.gov](mailto:uswds@gsa.gov)prior to the event. Time also will be available at the end of the discussion for answer live questions submitted via chat.
+Whether your agency has already begun implementing USWDS, or if you just have general questions about how to successfully use the design system, Dan will bring his expertise to help you use USWDS more effectively.
+
+If you have questions ahead of time, please email them to [uswds@gsa.gov](mailto:uswds@gsa.gov) prior to the event. Time also will be available at the end of the discussion to answer live questions submitted via chat.
 
 This event is part of a monthly series that generally takes place on the third Thursday of each month. The video will be available on Digital.gov shortly after the event.
 
