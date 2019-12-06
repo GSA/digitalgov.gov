@@ -18,14 +18,16 @@ header.header-events{
   }
   .deck, p{
     @include u-margin(0);
-    @include u-margin-x('auto');
     @include u-text('light');
     @include u-text('center');
-    @include u-width('tablet-lg');
     @include u-font('sans', 'lg');
     @include u-line-height('sans', 3);
     strong{
       @include u-text('medium');
+    }
+    @include at-media('tablet-lg') {
+      @include u-margin-x('auto');
+      @include u-width('tablet-lg');
     }
   }
   .newsletter{
