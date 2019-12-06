@@ -11,7 +11,7 @@ aliases:
 
 ---
 
-> This guide was developed by the [MobileGov](https://digital.gov/communities/mobile/) Communtiy of Practice.
+_This guide was developed by the [MobileGov](https://digital.gov/communities/mobile/) Communtiy of Practice._
 
 You have decided to create a mobile application. What development strategy do you use? There are many strategies to choose from—some have very subtle differences between them, and some are used in combination.
 
