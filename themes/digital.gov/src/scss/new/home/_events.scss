@@ -8,7 +8,7 @@
 // header styles that apply to both places
 header.header-events{
   @include u-padding-bottom(2);
-  @include u-text('indigo-warm-80');
+  @include u-text('primary-dark');
   h1, h2{
     @include u-margin-y(1);
     @include u-font('sans', '2xl');
@@ -18,11 +18,15 @@ header.header-events{
   }
   .deck, p{
     @include u-margin(0);
+    @include u-margin-x('auto');
     @include u-text('light');
     @include u-text('center');
-    @include u-maxw('none');
+    @include u-width('tablet-lg');
     @include u-font('sans', 'lg');
     @include u-line-height('sans', 3);
+    strong{
+      @include u-text('medium');
+    }
   }
   .newsletter{
     p{
