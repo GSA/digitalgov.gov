@@ -1,10 +1,10 @@
-<section class="stage">
-  <p class="font-sans-lg"><strong><i class="fas fa-desktop"></i> This event will be held over Zoom.</strong> A link to join this event will be sent via e-mail to those who register.</p>
-  <p>Visit <a href="https://zoom.us" title="Visit zoom.us">zoom.us</a> to learn more or <a href="https://zoom.us/download" title="download & run Zoom"><strong>download & run Zoom</strong></a>. If you cannot download or run the application, <a href="{{- .Params.zoom_id -}}" title="join Zoom from your browser">join from your browser</a>.</p>
+<section class="stage stage-zoom">
+  <p><strong><i class="fas fa-desktop"></i> This event will be held over Zoom.</strong> A link to join this event will be sent via e-mail to those who register.</p>
+  <p>Visit <a href="https://zoom.us" title="Visit zoom.us">zoom.us</a> to learn more or <a href="https://zoom.us/download" title="download & run Zoom"><strong>download & run Zoom</strong></a>.</p>
 
-  {{- if (isset .Params "captions") -}}
+  {{- if .Params.captions -}}
   <div class="event-tools">
-    <p><a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{- .Title -}}"><strong><i class="far fa-closed-captioning"></i> <span>Captions</span></strong></a></p>
+    <p><a class="captions" href="{{- .Params.captions -}}" title="Captions for the {{- .Title -}}"><strong><i class="far fa-closed-captioning"></i> <span>View captions</span></strong></a></p>
   </div>
   {{- end -}}
 

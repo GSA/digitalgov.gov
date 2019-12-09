@@ -85,17 +85,17 @@
     {{- end -}}
 
 
-    {{/* EVENT Stage
+    {{/* EVENT Stages —
+    Depending on the type of event, different "event stages" appear on the page.
+    Only for upcomming events
     ==================================== */}}
 
     {{/* YouTube LIVE Stage */}}
-    {{- if (isset .Params "youtube_id") -}}
+    {{- if eq .Params.event_platform "youtube_live" -}}
 
       {{/* If is a Future Event */}}
       {{- if eq $future_event true -}}
-
         {{- .Render "stage-youtube-live" -}}
-
       {{- end -}}
 
       {{/* PAST EVENT / Video stage  -------------------- */}}
@@ -107,15 +107,16 @@
       {{- end -}}
     {{- end -}}
 
-
     <section>
       <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <div class="grid-row grid-gap-4">
           <div class="grid-col-12 tablet:grid-col-9">
-            {{- if .Params.zoom_id -}}
+
+            <!-- Captions box — wont appear on youtube_live events -->
+            {{- if not (eq .Params.event_platform "youtube_live") -}}
               {{/* If is a Future Event */}}
               {{- if eq $future_event true -}}
-                {{- .Render "stage-zoom" -}}
+                {{- .Render "captions" -}}
               {{- end -}}
             {{- end -}}
 
@@ -124,14 +125,21 @@
               {{- .Content -}}
             </div>
 
+            <!-- Zoom helper box -->
+            {{- if eq .Params.event_platform "zoom" -}}
+              {{/* If is a Future Event */}}
+              {{- if eq $future_event true -}}
+                {{- .Render "stage-zoom" -}}
+              {{- end -}}
+            {{- end -}}
+
 
             {{- partial "core/feedback" (dict "page" . "page_type" "event" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
 
           <div class="grid-col-12 tablet:grid-col-3">
-            {{- if eq .Params.event_platform "zoom" -}}
-            {{- else -}}
+            {{- if eq .Params.event_platform "youtube_live" -}}
               {{- if eq $future_event true -}}
               <div class="actions actions-stacked">
                 {{/* Register */}}
