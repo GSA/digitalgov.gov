@@ -64,7 +64,41 @@
     }
   }
   .stage-zoom{
-    @include u-margin-top(3);
+    @include u-margin-bottom(1);
+    @include u-padding(2);
+    @include u-radius('sm');
+    @include u-display('flex');
+    p{
+      @include u-margin-top(0);
+      @include u-maxw('full');
+      @include u-font('sans', '2xs');
+      @include u-line-height('sans', 3);
+      @include at-media('tablet') {
+        @include u-font('sans', 'xs');
+        @include u-line-height('sans', 3);
+      }
+    }
+    .icon{
+      @include u-font('sans', 'md');
+      @include u-margin-top('05');
+      @include u-margin-right(1);
+      @include at-media('tablet') {
+        @include u-margin-right('105');
+        @include u-font('sans', 'lg');
+      }
+      p{
+        @include u-text('primary-darker');
+        @include u-text('center');
+        @include u-circle(5);
+        @include at-media('tablet') {
+          @include u-circle(6);
+    		}
+        @include u-border('2px', 'solid', 'primary-darker');
+        @include u-display('flex');
+        @include u-flex('align-center');
+        @include u-flex('justify-center');
+      }
+    }
   }
 
   .event-tools{
@@ -98,7 +132,7 @@
       @include u-font('sans', 'xs');
       @include u-text('no-underline');
       @include u-radius('md');
-      @include u-text('primary');
+      @include u-text('primary-darker');
       &:hover{
         span{
           @include u-border-bottom('2px','primary-vivid','solid');
