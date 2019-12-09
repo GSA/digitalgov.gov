@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: alex-alex-dance-party
-title: "Part 2: Alex + Alex Office Dance Party"
+title: "Dance Party Part Deux: Alex + Alex + D. Pino"
 deck: "Hosting a dance party in your office is easier than you'd expect"
 summary: "Alex and Alex will cover the basics of hosting a dance party in your office."
 host: "Digital.gov Univeristy"
