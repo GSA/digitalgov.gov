@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: alex-alex-dance-party
-title: "Part 2: Alex + Alex Office Dance Party"
+title: "Part 1: Alex + Alex Office Dance Party"
 deck: "Hosting a dance party in your office is easier than you'd expect"
 summary: "Alex and Alex will cover the basics of hosting a dance party in your office."
 host: "Digital.gov Univeristy"
@@ -12,10 +12,10 @@ registration_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 captions: https://genius.com/Rick-astley-never-gonna-give-you-up-lyrics
 
 # start date
-date: 2019-12-13 11:55:00 -0500
+date: 2019-12-01 11:55:00 -0500
 
 # end date
-end_date: 2019-12-13 12:00:00 -0500
+end_date: 2019-12-01 12:00:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics:

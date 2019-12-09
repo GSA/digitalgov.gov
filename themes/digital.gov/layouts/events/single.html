@@ -98,14 +98,17 @@
         {{- .Render "stage-youtube-live" -}}
       {{- end -}}
 
-      {{/* PAST EVENT / Video stage  -------------------- */}}
-      {{/* If is NOT a Future Event (Past event) */}}
-      {{- if eq $future_event false -}}
-
-        {{- .Render "stage-youtube" -}}
-
-      {{- end -}}
     {{- end -}}
+
+
+    {{/* PAST EVENT / Video  -------------------- */}}
+    {{/* If is NOT a Future Event (Past event) */}}
+    {{- if eq $future_event false -}}
+
+      {{- .Render "stage-youtube" -}}
+
+    {{- end -}}
+
 
     <section>
       <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
