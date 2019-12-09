@@ -52,10 +52,10 @@ main{
 
    	// Deck
    	.deck{
-			@include u-margin(0);
+			@include u-margin-y(0);
      	@include u-font('sans', 'lg');
      	@include u-text('light');
-     	@include u-text('indigo-warm-70');
+     	@include u-text('primary-dark');
 			@include u-line-height('sans', 2);
 			@include at-media('tablet') {
 				@include u-font('sans', 'xl');
