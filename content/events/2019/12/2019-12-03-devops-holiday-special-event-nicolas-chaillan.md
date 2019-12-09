@@ -1,18 +1,31 @@
 ---
-slug: devops-holiday-special-event-nicolas-chaillan
-title: 'DevOps Holiday Special Event&#58; Nicolas Chaillan'
-summary: 'Join the Chief Software Officer of the USAF to learn&#58; How the DoD moved to Kubernetes and Istio&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - zoom
-date: 2019-12-03 14:00:00 -0500
-end_date: 2019-12-03 14:30:00 -0500
-event_organizer: DigitalGov University
-host: DevOps COP
-youtube_id: RB7s9xCW2CM
+# View this page at https://digital.gov/event/2019/12/devops-holiday-special-event-nicolas-chaillan
+# Learn how to edit our pages at https://workflow.digital.gov
 
+slug: devops-holiday-special-event-nicolas-chaillan
+title: "DevOps Holiday Special Event: Nicolas Chaillan"
+deck: ""
+summary: "Join the Chief Software Officer of the USAF to learn: How the DoD moved to Kubernetes and Istio."
+host: "DevOps COP"
+event_organizer: "DigitalGov University"
+registration_url: TKTK
+captions: 
+
+# start date
+date: 2019-12-03 14:00:00 -0500
+
+# end date
+end_date: 2019-12-03 14:30:00
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - agile
+  - devops
+  - product-management
+youtube_id: RB7s9xCW2CM
+zoom_id: TKTK
+
+# Make it better ♥
 ---
 
 We will share how the Department of Defense (DoD) moved to DevSecOps and Continuous Integration/Continuous Delivery by leveraging [Kubernetes](https://software.af.mil/training/kubernetes/) and Open Container Initiative (OCI) compliant containers.
