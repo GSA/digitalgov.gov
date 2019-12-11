@@ -20,7 +20,7 @@ This page is an introduction to why accessibility matters, and we hope that you 
 
 ## Accessibility is the Law
 
-[Section 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it) are established and maintained by the [U. S. Access Board](https://www.access-board.gov/). Under Section 508 of the Rehabilitation Act of 1973, agencies must give disabled employees and members of the public access to information that is comparable to the access available to others.
+[Section 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh) are established and maintained by the [U. S. Access Board](https://www.access-board.gov/). Under Section 508 of the Rehabilitation Act of 1973, agencies must give disabled employees and members of the public access to information that is comparable to the access available to others.
 
 How do we get there? The shortest version is to make sure that everyone ensures that their products meet the minimum [Level-A](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aa%2Caaa#top) and [Level-AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=a%2Caaa#top) Success Criteria (SC) of the Web Content Accessibility Guidelines (WCAG) — the globally recognized guidelines for creating accessible digital experiences from the [World Wide Web Consortium](https://www.w3.org/) (W3C).
 
