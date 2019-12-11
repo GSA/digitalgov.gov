@@ -27,7 +27,7 @@ Fortunately, there is a wealth of checklists, tools, videos, and guidance around
 
 So how do we make it easier for people to care about accessibility and to start asking the right questions around their work?
 
-As a step in that direction, we put together a page we’re calling [Introduction to Accessibility](https://digital.gov/resources/intro-accessibility/) that is intended to illustrate the point that everyone experiences some form of disability, and the work of correcting our environments to be more accessible, benefits everyone.
+As a step in that direction, we put together a page we’re calling [**Introduction to Accessibility**](https://digital.gov/resources/intro-accessibility/) that is intended to illustrate the point that everyone experiences some form of disability, and the work of correcting our environments to be more accessible, benefits everyone.
 
 We hope you’ll use resource this to onboard someone to the topic of accessibility. It is based off of an onboarding presentation that we do for each new employee here in the Technology Transformation Services.
 
