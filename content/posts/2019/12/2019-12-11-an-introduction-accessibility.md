@@ -8,7 +8,7 @@ authors:
 categories: 
   - accessibility
 tag: 
-  - 
+  - accessibility
 featured_image: 
   uid: 
   alt: ''
