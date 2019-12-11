@@ -25,6 +25,7 @@
     		}
         @include u-font('sans', 'md');
         @include u-text('medium');
+        @include u-text('no-underline');
         @include u-bg('white');
         @include u-text('primary-vivid');
         @include u-border('1px','primary-vivid','solid');

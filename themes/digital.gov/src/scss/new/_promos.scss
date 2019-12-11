@@ -111,4 +111,10 @@
     @include u-font('sans', 'sm');
     @include u-line-height('sans', 2);
   }
+  img{
+    @include u-float('right');
+    @include u-margin-left(1);
+    @include u-margin-bottom(1);
+    @include u-width(7);
+  }
 }
