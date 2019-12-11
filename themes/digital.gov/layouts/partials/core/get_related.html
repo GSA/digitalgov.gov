@@ -25,7 +25,7 @@
   {{- range $communities -}}
 
     <div class="promo">
-      <div class="display-flex flex-align-center flex-justify">
+      <div>
         <h4><a href="{{ .Permalink }}?promo" title="{{ .Title }}">{{ .Title }}</a></h4>
         {{- if .Params.members -}}
         <p class="members">{{- .Params.members -}}+</p>
@@ -63,15 +63,15 @@
 
   <div class="promo" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
     {{ if .Params.source_url -}}
-    <div class="display-flex flex-align-center flex-justify">
+    <div>
       <h4>
         <a class="external-link" href="{{- .Params.source_url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
       </h4>
       {{- if .Params.icon -}}
         {{- $src := (print "/logos/" .Params.icon) -}}
-        <img class="width-3" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+        <img src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
       {{- else -}}
-        <img class="width-3" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
       {{- end -}}
 
     </div>
@@ -79,15 +79,15 @@
 
     {{- else -}}
 
-    <div class="display-flex flex-align-center flex-justify">
+    <div>
       <h4>
         <a href="{{- .Params.url -}}?=dg" title="{{ .Title | markdownify }}"><span>{{- .Title | markdownify -}}</span></a>
       </h4>
       {{- if .Params.icon -}}
         {{- $src := (print "/logos/" .Params.icon) -}}
-        <img class="width-3" src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
+        <img src="{{ $src | relURL }}" alt="{{ .Params.name }} Logo">
       {{- else -}}
-        <img class="width-3" src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
+        <img src="https://www.google.com/s2/favicons?domain={{- .Params.source_url -}}" alt="{{- .Params.source -}}">
       {{- end -}}
 
     </div>
