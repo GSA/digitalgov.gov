@@ -5,7 +5,7 @@ jQuery(document).ready(function($) {
 	// ==============================================================
 
 	// The Goal:
-	// To be able to display a metric on our Spotlight/News content that indicates a measure of interest from our readers.
+	// To be able to display a metric on our News cards content that indicates a measure of interest from our readers.
 
 	// How are we doing this?
 	// We are registering all clicks through the go.usa.gov short_url.
@@ -28,11 +28,10 @@ jQuery(document).ready(function($) {
 	// How to test
 	// 1. Any link originating from digital.gov should register one click, via the iframe
 	// 2. Any link originating from a short_url should register a click via the short_url (the iframe should not load)
-	// 3. Any direct link (e.g bookmark of )
+	// 3. Any direct link -- not being captured
 
 
 	var referer = document.referrer;
-	console.log('referer: '+referer);
 	var domains = ["localhost","digital.gov","demo.digital.gov"];
 	if ( (new RegExp(domains.join("|")).test(referer)) || (referer)) {
 		// short_url is defined in the <head>

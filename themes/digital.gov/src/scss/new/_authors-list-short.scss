@@ -1,10 +1,7 @@
 // Styles for the list of authors generally found on in cards in the news stream
 .authors-list-short{
-	@include u-margin-top(0, !important);
+	@include u-margin-top('205');
 	@include u-margin-bottom(1);
-	@include at-media('tablet-lg') {
-		@include u-margin-y(0, !important);
-	}
 	@include u-maxw('full');
 	@include u-display('flex');
 	@include u-flex('wrap');

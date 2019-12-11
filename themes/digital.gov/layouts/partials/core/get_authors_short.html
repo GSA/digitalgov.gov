@@ -5,7 +5,7 @@
 */}}
 
 {{- if .Params.authors -}}
-  <p class="authors-list authors-list-short">
+  <div class="authors-list authors-list-short">
 
     {{/* Sets the taxonomy we're pulling here */}}
     {{- $taxonomy := "authors" -}}
@@ -39,5 +39,5 @@
 
       {{- end -}}
     {{- end -}}
-  </p>
+  </div>
 {{- end -}}
