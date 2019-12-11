@@ -8,7 +8,11 @@
       @include u-text('underline');
     }
   }
-  a[href^=http]:not([href$=".gov"]):after {
+
+  // Applies the arrow to all external links
+  // Select all the links with href that start with "http" and do not contain ".gov"
+  // See https://css-tricks.com/attribute-selectors/
+  a[href^=http]:not([href*=".gov"]):after {
     background: url(../lib/uswds/img/external-link.svg) no-repeat 0 0;
     background-size: 100%;
     content: "";
@@ -168,7 +172,7 @@
       }
     }
   }
-  
+
 }
 
 .content > *:first-child {

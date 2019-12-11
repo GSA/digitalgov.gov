@@ -3,9 +3,10 @@
 
 .authors-list{
 	@include u-margin-top(0);
+	@include u-margin-bottom(7);
 	.author{
 		@include u-margin-bottom('105');
-		@include u-padding-top(1);
+		@include u-padding-top('105');
 		@include u-border-top('1px','solid', 'gray-10');
 		img{
 			@include u-border('1px','solid', 'indigo-30');
