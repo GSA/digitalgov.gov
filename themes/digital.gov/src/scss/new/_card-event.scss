@@ -1,12 +1,5 @@
 .card-event-promo{
 	@include u-border-top('2px', 'primary-darker', 'solid');
-	.banner{
-		@include u-padding-y('05');
-		@include u-padding-x('205');
-		@include u-bg('red-cool-20v');
-		@include u-text('indigo-warm-80');
-		@include u-text('medium');
-	}
 
 	.date{
 		@include u-margin(0);
@@ -66,9 +59,13 @@
 	}
 
 	.host{
-		@include u-margin-top('105');
+		@include u-margin-y('105');
 		@include u-text('gray-cool-60');
-		@include u-font('sans', 'sm');
+		@include u-font('sans', 'xs');
+		@include at-media('tablet-lg') {
+			@include u-font('sans', 'sm');
+		}
+		@include u-line-height('sans', 2);
 	}
 	.time{
 		@include u-font('sans', 'md');

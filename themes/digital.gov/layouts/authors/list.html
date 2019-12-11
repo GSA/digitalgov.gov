@@ -3,7 +3,7 @@
 
   <section class="author-profile">
     <div class="grid-container grid-container-desktop">
-      <div class="grid-row grid-gap-6">
+      <div class="grid-row tablet-lg:grid-gap-6">
         <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
           <header>
 
@@ -65,7 +65,7 @@
 
   <section id="news">
     <div class="grid-container grid-container-desktop">
-      <div class="grid-row grid-gap-4">
+      <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12 ">
           <section class="stream">
             {{/* Blog Posts by Topic —
@@ -126,7 +126,7 @@
         </div>
       </div>
 
-      <div class="grid-row grid-gap-4">
+      <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
           <footer>
             <a class="btn" href="{{ "posts" | absURL }}" title=""><span>See all News</span> <i class="fas fa-arrow-circle-right"></i></a>

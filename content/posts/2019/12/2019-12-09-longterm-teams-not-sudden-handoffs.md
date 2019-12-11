@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: longterm-teams-not-sudden-handoffs
+short_url: https://go.usa.gov/xpp52
 date: 2019-12-09 12:00:00 -0500
 title: "Long-term teams, not sudden handoffs"
 deck: "Don’t let your agency waste knowledge and opportunity. Instead of planning for a handoff to O&M, plan for a long-term team. Instead of launching and then keeping it running, plan for ongoing development."
@@ -16,12 +17,12 @@ source_url: "https://18f.gsa.gov/2019/12/03/long-term-teams/"
 source: 18f
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - product-management
   - project-management
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - elizabeth-ayer
 
 # Make it better ♥
