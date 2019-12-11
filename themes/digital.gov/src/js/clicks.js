@@ -51,7 +51,6 @@ jQuery(document).ready(function($) {
 			// Let's set a cookie!
 			// If the cookie_id already exists, we are not going to load the iframe and increment the clicks (views) of the short URL.
 	    if (getCookie(cookie_id) == 'true') {
-				console.log('cookie is set');
 	    } else {
 				$('#clicks_iframe').prepend('<iframe src="'+short_url+'" width="1" height="1"></iframe>');
 	      setCookie(cookie_id,'true');
@@ -68,7 +67,6 @@ jQuery(document).ready(function($) {
 	}
 
 	function getCookie(key) {
-		console.log('test1');
 		var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
 		return keyValue ? keyValue[2] : null;
 	}
@@ -100,7 +98,8 @@ jQuery(document).ready(function($) {
 				var element = $(article).find('.clicks span');
 				var stale_clicks = $(element).text();
 				var current_clicks = value.user_clicks;
-
+				console.log('current_clicks');
+				console.log(current_clicks);
 				// Count up from the existing number to the current_num_clicks
 				var interval = setInterval(function() {
 					if (stale_clicks >= current_clicks) clearInterval(interval);
