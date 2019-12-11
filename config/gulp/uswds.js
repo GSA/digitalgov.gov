@@ -70,7 +70,7 @@ TASKS
 
 gulp.task('copy-uswds-setup', () => {
   return gulp.src(`${uswds}/scss/theme/**/**`)
-  .pipe(gulp.dest(`${PROJECT_SASS_SRC}`));
+  .pipe(gulp.dest(`${USWDS_SRC}`));
 });
 
 gulp.task('copy-uswds-fonts', () => {
