@@ -44,7 +44,7 @@
             {{- end -}}
           {{- end -}}
 
-          <div class="grid-col-12 tablet:grid-col-6 tablet:flex-6">
+          <div class="grid-col-12 tablet:grid-col-6">
             <div class="promo promo-card " data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
               {{- if .Params.icon -}}
               {{- $src := (print "/logos/" .Params.icon) -}}

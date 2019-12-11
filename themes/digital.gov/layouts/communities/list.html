@@ -34,7 +34,7 @@
         {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
 
         {{ range $i, $e := $communities }}
-          <div class="grid-col-12 tablet:grid-col-6 tablet:flex-6">
+          <div class="grid-col-12 tablet:grid-col-6">
 
             <article class="promo promo-card" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
               <div class="grid-row tablet-lg:grid-gap-4">
