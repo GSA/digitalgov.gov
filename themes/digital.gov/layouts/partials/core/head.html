@@ -46,7 +46,7 @@
   {{- if .Title -}}
   {{/* if is a post or a page with a title */}}
   {{/* Page title – Digital.gov */}}
-  <title>{{- .Title }} – {{ .Site.Title -}}</title>
+  <title>{{- .Title | markdownify }} – {{ .Site.Title -}}</title>
   {{ else -}}
   {{/* if is the homepage */}}
   {{/* Digital.gov */}}
