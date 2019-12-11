@@ -24,7 +24,7 @@ Building on last year’s results, we are back at it again—but this time we ex
 
 The eight principles are:
 
-1. [JavaScript is really cool, when used with care]({{< ref "/resources/mobile/principles/principles-javascript.md" >}})
+1. [JavaScript is really cool, when used with care]({{< ref "principles-javascript.md" >}})
 2. [The viewport is the window to your site](https://digital.gov/resources/mobile/principles/viewport/)
 3. [Remember That We Navigate Mobile Sites Using Our Fingers](https://digital.gov/resources/mobile/principles/tap-targets/)
 4. [Installing additional software to properly view your site should not be necessary](https://digital.gov/resources/mobile/principles/plugins/)
