@@ -15,7 +15,7 @@ featured_image:
 
 ---
 
-“We need to make every single thing accessible to every single person with a disability.”― Stevie Wonder
+{{< card-quote text="We need to make every single thing accessible to every single person with a disability." cite="Stevie Wonder" >}}
 
 We all know that building accessible products and services is fundamental toward building trust and serving the broadest possible definition of the public. 
 
@@ -25,16 +25,16 @@ Fortunately, there is a wealth of checklists, tools, videos, and guidance around
 
 So how do we make it easier for people to care about accessibility and to start asking the right questions around their work?
 
-As a step in that direction, we put together a page we’re calling Introduction to Accessibility that is intended to illustrate the point that everyone experiences some form of disability, and the work of correcting our environments to be more accessible, benefits everyone.
+As a step in that direction, we put together a page we’re calling [Introduction to Accessibility](https://digital.gov/resources/intro-accessibility/) that is intended to illustrate the point that everyone experiences some form of disability, and the work of correcting our environments to be more accessible, benefits everyone.
 
 We hope you’ll use resource this to onboard someone to the topic of accessibility. It is based off of an onboarding presentation that we do for each new employee here in the Technology Transformation Services.
 
 ## Up Next 
 
-December 19: Please join Dan Williams, U.S. Web Design System (USWDS) product lead, as he wraps up 2019 with a special talk dedicated to answering the hardest questions about USWDS from the past year. Register
+**December 19**: Please join Dan Williams, U.S. Web Design System (USWDS) product lead, as he wraps up 2019 with a special talk dedicated to answering the hardest questions about USWDS from the past year. [Register](https://digital.gov/event/2019/12/19/uswds-december-monthly-call/)
 
 ## Quotes From the Field and Shout-Outs 
 
-Huge shout-out to Robert Jolly, a Product Manager at 18F who recently took on the task of updating the 18F Accessibility Guide to USWDS 2.0 from USWDS 1.0. Along the way, Robert stated, “I’m not an engineer by trade/title!” yet found his way through the guidance and made it happen.
+Huge shout-out to **Robert Jolly, a Product Manager at 18F** who recently took on the task of updating the [18F Accessibility Guide](https://accessibility.18f.gov/) to USWDS 2.0 from USWDS 1.0. Along the way, Robert stated, “I’m not an engineer by trade/title!” yet found his way through the guidance and made it happen.
 
-“thanks for all the great work y’all are doing—it’s extremely helpful and sorely needed in the federal government.” — Steven “Shep” Shepherd who works in the Policy and Legislative Initiatives Division at HUD and is working with to revise their existing web forms using USWDS 2.0.
+_“thanks for all the great work y’all are doing—it’s extremely helpful and sorely needed in the federal government.”_ — **Steven “Shep” Shepherd who works in the Policy and Legislative Initiatives Division at HUD** and is working with to revise their existing web forms using USWDS 2.0.
