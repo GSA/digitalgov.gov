@@ -4,7 +4,6 @@ date: 2019-07-10 4:00:00 -0500
 title: Contribute to Digital.gov
 deck: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
 summary: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
-type: guide
 aliases:
   - /join-digitalgov/
   - /about/join/
@@ -53,7 +52,7 @@ Access to the right tools and resources will help them confidently take steps to
 
 ### Examples of problems being solved in government
 
-Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices. 
+Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices.
 
 They want more information that is specific to government — examples of what agencies are doing; case studies; collections of validated federal-wide news that has an impact on digital in one spot.
 
@@ -76,7 +75,7 @@ People are interested in participating in spaces where they can more seamlessly 
 
 This guidance stems from qualitative user research we conducted with over nearly two dozen federal members of our audience — content managers, designers, developers, innovation leaders — who are involved with all aspects of agencies’ digital services.
 
-As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart: 
+As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart:
 
 ---
 
