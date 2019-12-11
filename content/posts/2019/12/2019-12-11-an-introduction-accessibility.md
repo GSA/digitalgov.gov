@@ -1,8 +1,8 @@
 ---
 slug: an-introduction-accessibility
 date: 2019-12-11 09:11:00 -0500
-title: 'An Introduction to Accessibility'
-summary: 'This week, we're taking at look at how to reframe our approach to encouraging others to build with accessibility&#46;'
+title: "An Introduction to Accessibility"
+summary: 'This week, we&#39;re taking at look at how to reframe our approach to encouraging others to build with accessibility&#46;'
 authors:
   - jeremyzilar
 categories:
