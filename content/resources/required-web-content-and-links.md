@@ -11,7 +11,6 @@ authors:
 
 topics:
   - policy
-type: guide
 
 weight: 3
 ---
