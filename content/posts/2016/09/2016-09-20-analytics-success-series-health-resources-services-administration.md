@@ -35,7 +35,7 @@ Those facts alone sounded alarm bells. But then we dug deeper.
 
 ## Uncovering the Problem(s)
 
-First, we plunged head-first into an analysis of available analytics via the [Digital Analytics Program]({{< ref "/services/dap/_index.md" >}})—beyond the bounce rate. We needed to expose all the issues if we planned to fix them.
+First, we plunged head-first into an analysis of available analytics via the [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}})—beyond the bounce rate. We needed to expose all the issues if we planned to fix them.
 
 We looked at three main things:
 

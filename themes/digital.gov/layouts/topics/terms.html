@@ -6,7 +6,7 @@
 
   <header>
     <div class="grid-container grid-container-desktop">
-      <div class="grid-row grid-gap-4">
+      <div class="grid-row tablet-lg:grid-gap-4">
         <div class="grid-col-12">
           {{- $topics := (where .Site.Pages "Section" "topics") -}}
           <h1>Topics</h1>
@@ -39,7 +39,7 @@
 
   <section class="display-none">
     <div class="grid-container grid-container-desktop">
-      <div class="grid-row grid-gap-2">
+      <div class="grid-row tablet-lg:grid-gap-2">
         <div class="grid-col-6">
           <table>
             {{- $topics := (where .Site.Pages "Section" "topics") -}}

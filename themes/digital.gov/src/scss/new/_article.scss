@@ -10,7 +10,7 @@ main{
 	header.page-header,
 	> header,
  	> article > header{
-		@include u-padding-y(2);
+		@include u-padding-bottom(2);
 		@include u-margin-bottom(3);
 
 		// Breadcrumbs
@@ -52,10 +52,10 @@ main{
 
    	// Deck
    	.deck{
-			@include u-margin(0);
+			@include u-margin-y(0);
      	@include u-font('sans', 'lg');
      	@include u-text('light');
-     	@include u-text('indigo-warm-70');
+     	@include u-text('primary-dark');
 			@include u-line-height('sans', 2);
 			@include at-media('tablet') {
 				@include u-font('sans', 'xl');
@@ -74,32 +74,57 @@ main{
 	// Base Article Styles
 	article{
 		@include u-margin-bottom(5);
-		.meta{
-			@include u-display('block');
-			@include at-media('tablet-lg') {
-				@include u-display('none');
-			}
+		header{
 			.authors-list-short{
-				@include u-margin-left(0);
-				@include u-margin-bottom(2);
-				flex-basis: 100%;
-				.author{
-					@include u-font('sans', 'sm');
-					img{
-						@include u-circle(4);
-					}
+				@include u-display('flex');
+				@include at-media('tablet-lg') {
+					@include u-display('none');
+				}
+			}
+			.meta{
+				@include at-media('tablet-lg') {
+					@include u-display('none');
 				}
 			}
 		}
-	}
 
-}
-
-
-.meta{
-	// @include u-margin-top(3);
-	// @include u-display('block');
-	@include at-media('tablet-lg') {
-		// @include u-display('none');
+		.meta{
+			@include u-margin-top('205');
+			@include u-display('flex');
+			@include at-media('tablet-lg') {
+				@include u-margin-top(0);
+			}
+			.date{
+				@include u-margin-right('105');
+				@include u-font('sans', '2xs');
+				@include at-media('tablet-lg') {
+					@include u-font('sans', 'xs');
+					@include u-margin-right(2);
+				}
+				@include u-text('gray-cool-60');
+				@include u-text('normal');
+				a{
+					@include u-text('gray-cool-60');
+					@include u-text('no-underline');
+					&:hover{
+						@include u-border-bottom('2px', 'accent-warm', 'solid');
+					}
+				}
+			}
+			.clicks{
+				@include u-margin-top(0);
+				@include u-font('sans', '2xs');
+				@include at-media('tablet-lg') {
+					@include u-font('sans', 'xs');
+				}
+				@include u-text('italic');
+				@include u-display('block');
+				@include u-text('gold-40v');
+				i{
+					@include u-text('gold-30v');
+				}
+				white-space: nowrap;
+			}
+		}
 	}
 }

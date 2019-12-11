@@ -41,7 +41,17 @@
   {{ "<!-- End Google Tag Manager -->" | safeHTML }}
 
   {{ "<!-- Page Title -->" | safeHTML }}
-  <title>{{- $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title | markdownify) -}}</title>
+  {{- $pagetitle := (printf "%s %s" .Title " / ") -}}
+
+  {{- if .Title -}}
+  {{/* if is a post or a page with a title */}}
+  {{/* Page title – Digital.gov */}}
+  <title>{{- .Title }} – {{ .Site.Title -}}</title>
+  {{ else -}}
+  {{/* if is the homepage */}}
+  {{/* Digital.gov */}}
+  <title>{{- .Site.Title }} — {{ .Site.Params.description -}}</title>
+  {{ end -}}
 
   {{ "<!-- Meta Description -->" | safeHTML }}
   <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />

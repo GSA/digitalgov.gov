@@ -12,10 +12,9 @@ end_date: 2019-10-15 12:00:00 -0500
 event_organizer: DigitalGov University
 host: Multilingual Community of Practice
 registration_url: https://www.eventbrite.com/e/using-neural-machine-translation-for-multilingual-communication-registration-73984366231
+youtube_id: BGOEGD2_NyM
 
 ---
-
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4171409&CustomerID=321)_
 
 {{< img src="multilingual-neural-machine-translation" >}}
 

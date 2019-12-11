@@ -38,7 +38,7 @@
       a{
         @include u-text('normal');
         @include u-text('no-underline');
-        @include u-text('indigo-warm-60v');
+        @include u-text('primary-vivid');
         &:hover{
           border-bottom: 2px #967efb solid; // $indigo-40
         }

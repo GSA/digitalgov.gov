@@ -16,7 +16,6 @@ type: guide
 weight: 3
 ---
 
-
 If you manage a public website in the federal government's executive branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
 
 **This page makes it clear:**
@@ -462,19 +461,18 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 `Office of the Inspector General`
 
 ##### Required on:
-- Homepage of each executive department and agency
+- Homepage of each executive department, agency, and commission
 
 ##### Required by:
 - [Consolidated Appropriations Act](https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm) for FY 2008, Division D, Title VI, Section 534{{< / box >}}
 
 {{< card-policy src="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm" kicker="Policy" title="Consolidated Appropriations Act" >}}
-**Sec. 534.** NOTE: 5 USC app. 6 note. The Departments, agencies,
-and commissions funded under this Act, shall establish and maintain on
-the homepages of their Internet websites--
+**Sec. 534.** (NOTE: 5 USC app. 6 note.) {{< highlight >}}The departments, agencies, and commissions funded under this Act, shall establish and maintain on the homepages of their Internet websites{{< /highlight >}}--
 
-- {{< highlight >}}(1) a direct link to the Internet websites of their Offices of Inspectors General; and{{< /highlight >}}
+- {{< highlight >}}(1) a direct link to the Internet websites of their Offices of Inspectors General{{< /highlight >}}; and
 - (2) a mechanism on the Offices of Inspectors General website by which individuals may anonymously report cases of waste, fraud, or abuse with respect to those Departments, agencies, and commissions.
 {{< / card-policy >}}
+
 
 ---
 

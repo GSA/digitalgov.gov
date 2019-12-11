@@ -26,7 +26,7 @@ During the summer, we review and analyze the data, then develop action plans for
 
 A benefit of keeping this process top-of-mind for staff all year long is that it enforces the importance of customer-centric thinking in all we do. It’s also just one of many tools in our VOC toolbox. Other tools we use include:
 
-  * [Web analytics]({{< ref "/services/dap/_index.md" >}})
+  * [Web analytics]({{< ref "/guide/dap/_index.md" >}})
   * [Usability testing]({{< ref "digitalgov-user-experience-program-usability-starter-kit.md" >}})
   * [Call center data]({{< ref "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}})
   * Web pop-up surveys
@@ -105,7 +105,7 @@ Like anything else in life, you try something, learn, adapt, move forward. We le
 As background, here are some of the resources that inspired us as we developed the GCXi:
 
   * [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15)—video
-  * [Digital Metrics Guidance and Best Practices]({{< ref "/services/dap/_index.md" >}})
+  * [Digital Metrics Guidance and Best Practices]({{< ref "/guide/dap/_index.md" >}})
   * [Forrester’s Customer Experience Index](https://www.forrester.com/CX-Index/-/E-MPL191)
   * [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf)—ClickTools (PDF)
   * [Likert-Type Scale Response Anchors](http://www.clemson.edu/centers-institutes/tourism/documents/sample-scales.pdf)—recommended wording and rating scales for a variety of survey questions

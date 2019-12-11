@@ -22,7 +22,7 @@
 				@include u-font('sans', 'xl');
 				@include u-display('inline-block');
 				a{
-					@include u-text('indigo-80');
+					@include u-text('primary-darker');
 				}
 			}
 		}

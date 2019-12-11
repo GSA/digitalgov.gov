@@ -14,10 +14,9 @@ event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/us-web-design-system-october-monthly-call-registration-75886136477
 zoom:
+youtube_id: l65ZNlYroco
 
 ---
-
-_[View live captioning for this event ](https://www.captionedtext.com/client/event.aspx?EventID=4200787&CustomerID=321)_
 
 {{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}
 

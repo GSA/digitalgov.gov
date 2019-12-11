@@ -19,10 +19,10 @@
 		}
 		a{
 			@include u-text('no-underline');
-			@include u-text('indigo-warm-70');
+			@include u-text('primary-dark');
 			@include u-text('bold');
 			&:hover{
-				@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+				@include u-border-bottom('2px', 'accent-warm', 'solid');
 			}
 		}
 	}
@@ -49,7 +49,7 @@
 				@include u-text('white');
 				@include u-text('no-underline');
 				&:hover{
-					@include u-border-bottom('2px', 'orange-warm-30v', 'solid');
+					@include u-border-bottom('2px', 'accent-warm', 'solid');
 				}
 			}
 
@@ -78,7 +78,7 @@
 			@include u-font('sans', 'md');
 			a{
 				@include u-padding-bottom('2px');
-				@include u-text('orange-warm-30v');
+				@include u-text('accent-warm');
 				@include u-text('normal');
 				&:hover{
 					@include u-border-bottom('2px', 'indigo-50v', 'solid');

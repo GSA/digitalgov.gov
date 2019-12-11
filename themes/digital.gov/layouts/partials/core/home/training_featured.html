@@ -2,7 +2,7 @@
 <section id="training_featured">
   <div class="grid-container">
 
-    <div class="grid-row grid-gap-2">
+    <div class="grid-row tablet-lg:grid-gap-2">
       <div class="grid-col-12">
         <header>
           <h2>Learn from the best</h2>
@@ -12,7 +12,7 @@
     </div>
 
     <section>
-    <div class="grid-row grid-gap-3">
+    <div class="grid-row tablet-lg:grid-gap-3">
 
       {{ $training := where .Site.RegularPages.ByWeight  "Section" "events" }}
       {{ $training := $training | intersect (where $training "Date" "<" now) | first 4 }}
