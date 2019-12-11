@@ -5,13 +5,13 @@ summary: 'Join the Chief Software Officer of the USAF to learn&#58; How the DoD 
 featured_image:
   uid:
   alt: ''
-event_type:
-  - zoom
+event_platform: zoom
 date: 2019-12-03 14:00:00 -0500
 end_date: 2019-12-03 14:30:00 -0500
 event_organizer: DigitalGov University
 host: DevOps COP
 youtube_id: RB7s9xCW2CM
+captions:
 
 ---
 
@@ -33,4 +33,3 @@ In addition to his public service, Mr. Chaillan is a technology entrepreneur, so
 **Join the DevOps Community** by visiting [our community page](https://digital.gov/communities/devops/).
 
 _Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
-
