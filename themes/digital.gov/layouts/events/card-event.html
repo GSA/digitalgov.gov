@@ -2,7 +2,7 @@
 
   {{- if gt (now.AddDate 0 0 10) .Date -}}
   <div class="banner display-none">
-    <div class="grid-row grid-gap-2">
+    <div class="grid-row tablet-lg:grid-gap-2">
       <div class="grid-col-12">
         In the next 10 days
       </div>
@@ -10,7 +10,7 @@
   </div>
   {{- end -}}
 
-  <div class="grid-row grid-gap-2">
+  <div class="grid-row tablet-lg:grid-gap-2">
 
     <div class="grid-col-9 tablet-lg:grid-col-10">
       {{- if .Params.kicker -}}
