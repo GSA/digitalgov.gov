@@ -23,7 +23,7 @@
 		@include u-font('sans', 'lg');
 		@include u-text('bold');
 		a{
-			@include u-text('indigo-warm-80');
+			@include u-text('primary-darker');
 			@include u-text('no-underline');
 		}
 	}

@@ -10,9 +10,9 @@
       @include u-font('sans', 'lg');
       a{
         @include u-text('no-underline');
-        @include u-text('indigo-90');
+        @include u-text('primary-darkest');
         &:hover{
-          @include u-border-bottom('2px', 'indigo-50v', 'solid');
+          @include u-border-bottom('2px', 'primary-vivid', 'solid');
         }
       }
     }
@@ -20,10 +20,10 @@
       @include u-margin(0);
       @include u-font('sans', 'sm');
       @include u-text('medium');
-      @include u-text('orange-warm-50v');
+      @include u-text('accent-warm-dark');
       span{
         @include u-margin-x('05');
-        @include u-text('orange-warm-50v');
+        @include u-text('accent-warm-dark');
       }
     }
     p{

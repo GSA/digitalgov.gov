@@ -129,7 +129,7 @@ a.btn{
       @include u-padding(0);
       li{
         @include u-margin(0);
-        @include u-text('indigo-90');
+        @include u-text('primary-darkest');
         background: none;
         list-style-type: none;
         a{
