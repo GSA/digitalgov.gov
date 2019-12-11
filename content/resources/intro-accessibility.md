@@ -66,7 +66,7 @@ The fix that benefits everyone in this circumstance might be to apply a captioni
 
 {{< youtube iWO5N3n1DXU >}}
 
-According to [Microsoft’s Inclusive Design Toolkit](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf) (PDF, 22 MB, 32 pages), each year in the U.S., approximately 26,000 new people suffer the loss of an upper limb. When we include people with temporary (13 million) and situational impairments (an additional 8 million people), that’s more than 21 million people each year who experience disabilities.
+According to Microsoft’s Inclusive Design Toolkit, each year in the U.S., approximately 26,000 new people suffer the loss of an upper limb. When we include people with temporary (13 million) and situational impairments (an additional 8 million people), that’s more than 21 million people each year who experience disabilities.
 
 The idea that things that help people with disabilities can benefit everyone inspired the field of universal design, where buildings and objects are designed to be as usable as possible for everyone, regardless of age or ability. When assistive technology (AT) becomes sufficiently ubiquitous and widely used, it is no longer considered assistive technology. It becomes “normal.”
 
