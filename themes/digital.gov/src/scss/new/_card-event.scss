@@ -1,12 +1,5 @@
 .card-event-promo{
 	@include u-border-top('2px', 'primary-darker', 'solid');
-	.banner{
-		@include u-padding-y('05');
-		@include u-padding-x('205');
-		@include u-bg('red-cool-20v');
-		@include u-text('indigo-warm-80');
-		@include u-text('medium');
-	}
 
 	.date{
 		@include u-margin(0);
