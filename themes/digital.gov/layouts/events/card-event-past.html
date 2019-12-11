@@ -10,10 +10,10 @@
     <div class="grid-col-12 {{ if .Params.youtube_id -}}tablet:grid-col-8{{- end -}}">
 
       {{- if .Params.kicker -}}
-      <p class="kicker">{{- .Params.kicker -}}</p>
+      <div class="kicker">{{- .Params.kicker -}}</div>
       {{- else -}}
         {{- if .Params.youtube_id -}}
-        <p class="kicker">Video</p>
+        <div class="kicker">Video</div>
         {{- end -}}
       {{- end -}}
 
@@ -21,15 +21,16 @@
         <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
       </h3>
       {{- if .Params.deck -}}
-        <p class="deck">{{ .Params.deck | markdownify -}}</p>
+        <div class="deck">{{ .Params.deck | markdownify -}}</div>
       {{- else -}}
-        <p class="deck">{{ .Params.summary | markdownify -}}</p>
+        <div class="deck">{{ .Params.summary | markdownify -}}</div>
       {{- end -}}
 
+      {{- partial "core/get_authors_short" . -}}
+      
       <div class="meta">
-        {{- partial "core/get_authors_short" . -}}
         {{- partial "core/get_clicks" . -}}
-        <p class="date">{{ dateFormat "Jan 02, 2006" .Date }}</p>
+        <div class="date">{{ dateFormat "Jan 02, 2006" .Date }}</div>
       </div>
 
     </div>

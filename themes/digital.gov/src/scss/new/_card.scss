@@ -27,10 +27,12 @@
 			@include u-text('no-underline');
 		}
 	}
+	.summary,
 	.deck{
 		@include u-margin-top(1);
 		@include u-line-height('sans', 3);
 		@include u-font('sans', 'md');
+		@include u-text('normal');
 	}
 
 	.meta{
