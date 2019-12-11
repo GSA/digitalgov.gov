@@ -1,5 +1,5 @@
 ---
-url: /guide/terms-of-service/negotiated-terms-of-service-agreements/
+url: /resources/negotiated-terms-of-service-agreements/
 date: 2014-01-13 10:50:02 -0400
 uid: negotiated-terms-of-service-agreements
 title: 'Negotiated Terms of Service Agreements'
@@ -43,9 +43,9 @@ aliases:
 **Note:** The Terms of Service (TOS) program at the U.S. General Services Administration (GSA) is currently inactive. While the items included below may still be active, Digital.gov is not able to add new agreements to the list.
 {{< /note >}}
 
-**:warning:** Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service Point of Contact]({{< ref "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency.
+**:warning:** Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency.
 
-See [complete implementation guidance]({{< ref "/guide/terms-of-service/_index.md#how-to-implement" >}} "Federal-Compatible Terms of Service Agreements") on the main Terms of Service page.
+See [complete implementation guidance]({{< link "federal-compatible-terms-of-service-agreements.md#how-to-implement" >}} "Federal-Compatible Terms of Service Agreements") on the main Terms of Service page.
 
 ## Federal Compatible Terms of Service
 
