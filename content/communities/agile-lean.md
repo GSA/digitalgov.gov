@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: agile-lean
-date: 2017-09-04 16:45:00 -0500
+date: 2017-09-04 15:45:00 -0500
 title: "Agile/Lean"
 deck: "Supporting people working with agile/lean methodologies and those who would like to learn more."
 summary: "Supporting people working with agile/lean methodologies and those who would like to learn more."
