@@ -10,7 +10,7 @@ anchor_data:
     agency_acronym: GSA
     agency_logo: /img/gsa-logo-w100.png
     agency_url: https://gsa.gov
-    agency_about: https://gsa.gov/about
+    agency_about_url: https://gsa.gov/about
     org_primary: Technology Transformation Services
     org_primary_acronym: TTS
     org_primary_url: https://www.gsa.gov/tts/
@@ -23,3 +23,7 @@ anchor_data:
     org_secondary_email: tts-info@gsa.gov
     org_secondary_about: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions
     org_secondary_bio: "TTS Solutions is a portfolio of products and services that help agencies improve delivery of information and services to the public."
+    foia_request_url: "TKTK"
+    fraud_waste_abuse_url: "TKTK"
+    no_fear_act_url: "TKTK"
+    budget_performance_url: "TKTK"
