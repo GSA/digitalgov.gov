@@ -9,8 +9,8 @@ anchor_data:
     agency: U.S. General Services Administration
     agency_acronym: GSA
     agency_logo: /img/gsa-logo-w100.png
-    agency_url: https://gsa.gov
-    agency_about_url: https://gsa.gov/about
+    agency_url: https://www.gsa.gov
+    agency_about_url: https://www.gsa.gov/about
     org_primary: Technology Transformation Services
     org_primary_acronym: TTS
     org_primary_url: https://www.gsa.gov/tts/
