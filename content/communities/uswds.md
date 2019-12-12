@@ -33,9 +33,14 @@ community_list:
     subscribe_form: https://chat.18f.gov/
     terms: "Once approved, you will be added as a single-channel guest into the TTS-GSA Slack."
 
+featured_image:
+  uid: uswds-2-illio-built-to-grow-alt
+  alt: ''
 
 # Make it better ♥
 ---
+
+
 
 {{< img-right src="uswds-logo" >}}
 
