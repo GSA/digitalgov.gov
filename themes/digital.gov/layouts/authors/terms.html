@@ -26,14 +26,14 @@
               {{- range $i, $author := $authors -}}
                 {{ if .Params.uid }}
                   {{ $link := printf "authors/%s/" .Params.uid }}
-                  <div class="author grid-row flex-no-wrap" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+                  <div class="author grid-row" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
                     <div class="grid-col-auto">
-                      <div class="photo height-5 width-5 display-flex flex-align-center flex-justify-center">
+                      <div class="photo">
                         {{- if $author.Params.github -}}
-                        <img class="circle-5" src="https://github.com/{{- $author.Params.github -}}.png?size=50" alt="">
+                        <img src="https://github.com/{{- $author.Params.github -}}.png?size=50" alt="">
                         {{- else -}}
                         {{- $default_profile := print "img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
-                        <img class="circle-5" src="{{- $default_profile | absURL -}}" alt="">
+                        <img src="{{- $default_profile | absURL -}}" alt="">
                         {{- end -}}
                       </div>
                     </div>

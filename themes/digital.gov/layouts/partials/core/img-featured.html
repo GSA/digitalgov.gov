@@ -13,7 +13,7 @@
     {{- $.Scratch.Set "imgSuffix" "_w400" -}}
   {{- end -}}
 
-  <div class="image-featured">
+  <div class="media-featured">
     <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}">
       <img src="{{- $imgBaseCDN -}}{{- $.Scratch.Get "imgSuffix" -}}.{{- $imgExt -}}" alt="{{- .Title | markdownify -}}" title="{{- .Title | markdownify -}}" />
     </a>

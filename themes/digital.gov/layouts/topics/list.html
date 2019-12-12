@@ -5,7 +5,7 @@
 
 <main role="main" id="topic">
   <div class="grid-container grid-container-desktop">
-    <div class="grid-row grid-gap-4" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+    <div class="grid-row tablet-lg:grid-gap-4" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
       <div class="grid-col-12">
         <header class="page-header">
           <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></p>
@@ -21,7 +21,7 @@
       {{/* If the topic page has Content */}}
       {{- if .Content -}}
       <section>
-        <div class="grid-row margin-y-2 grid-gap-6">
+        <div class="grid-row tablet-lg:grid-gap-6">
           <div class="content">
             {{- .Content -}}
           </div>
@@ -31,7 +31,7 @@
 
     </div>
 
-    <div class="grid-row grid-gap-4">
+    <div class="grid-row tablet-lg:grid-gap-4">
       <div class="grid-col-12">
         <section>
 
@@ -54,7 +54,7 @@
   <section id="posts_featured" class="stream">
     <div class="paper">
       <div class="grid-container grid-container-desktop">
-        <div class="grid-row grid-gap-4">
+        <div class="grid-row tablet-lg:grid-gap-4">
           <div class="grid-col-12 ">
 
           {{/* Blog Posts by Topic —

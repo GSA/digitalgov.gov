@@ -3,25 +3,24 @@
 <main role="main">
 
   <article>
-    <div class="grid-container padding-x-2">
-
+    <div class="grid-container">
       <div class="grid-row">
         <div class="grid-col-12">
           <header>
             {{/* The Parent Guide */}}
-            <h5 class="guide-title"><a class="text-no-underline hover:text-underline" href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h5>
+            <h5 class="guide-title"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}">{{ .Parent.Title }}</a></h5>
             {{/* Page Title */}}
-            <h1 class="font-sans-2xl text-heavy margin-y-0">{{ .Title | markdownify }}</h1>
+            <h1>{{ .Title | markdownify }}</h1>
             {{/* Deck */}}
             {{- if .Params.deck -}}
-            <div class="deck font-sans-xl text-light">{{- .Params.deck | markdownify -}}</div>
+            <div>{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
             {{/* {{ partial "last-updated" . }} */}}
           </header>
         </div>
       </div>
 
-      <div class="grid-row grid-gap-6">
+      <div class="grid-row tablet-lg:grid-gap-6">
 
         <div class="grid-col-12 tablet-lg:grid-col-8">
           <div class="content">
@@ -35,7 +34,7 @@
 
       </div>
 
-      <div class="grid-row grid-gap-6">
+      <div class="grid-row tablet-lg:grid-gap-6">
         <div class="grid-col-12">
           {{ partial "core/feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
         </div>

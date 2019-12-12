@@ -1,10 +1,14 @@
 // Table of Contents
 
 .toc{
-	@include u-margin-y(6);
-	@include u-padding-bottom(4);
-	@include u-border-top('1px', 'base-lighter', 'solid');
-	@include u-border-bottom('1px', 'base-lighter', 'solid');
+	@include u-margin-bottom(5);
+	@include u-padding-x('205');
+	@include u-padding-y(2);
+	@include u-bg('indigo-10');
+	h4{
+		@include u-margin(0);
+		@include u-margin-bottom(2);
+	}
 	ul{
 		@include u-padding-left(2);
 		li{

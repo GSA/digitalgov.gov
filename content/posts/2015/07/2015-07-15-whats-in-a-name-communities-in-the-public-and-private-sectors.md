@@ -36,7 +36,7 @@ Getting more involved in a community is a great way for federal employees to do 
 
   * [Share your knowledge by writing articles for DigitalGov]({{< ref "contribute.md" >}}).
   * Join [communities, so you can learn from everyone]({{< ref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}).
-  * Increase your skills by trying out online tools for communities. For example, GSA employees use Salesforce Chatter, and [Digital Analytics Program customers collaborate on Yammer]({{< ref "/services/dap/_index.md" >}}).
+  * Increase your skills by trying out online tools for communities. For example, GSA employees use Salesforce Chatter, and [Digital Analytics Program customers collaborate on Yammer]({{< ref "/guide/dap/_index.md" >}}).
   * Have a skill you don&#8217;t get to use everyday at work? Federal agencies post tasks they need done through the [Open Opportunities Program]({{< ref "open-opportunities.md" >}}). From there, you can create a profile on the [Open Opportunities site](https://openopps.digitalgov.gov/) and join their LinkedIn group.
   * Take advantage of [events where you can network with communities]({{< ref "/about/digitalgov-university.md" >}}).
 

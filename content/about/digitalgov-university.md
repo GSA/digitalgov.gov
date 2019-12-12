@@ -5,6 +5,7 @@ title: DigitalGov University
 summary: 'DigitalGov helps agencies meet the public&rsquo;s 21st century digital expectations by providing a platform for federal agencies to share innovations, offer case-studies, host summits and workshops and connect with each other.'
 aliases:
   - /digitalgov-university/digitalgov-university-event-and-training-request-form/
+
 ---
 
 We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://youtube.com/digitalgov). Trainings are open to anyone working in the government or for a government agency.
@@ -15,16 +16,11 @@ We provide a range of free online and in-person trainings and events for people 
 ## Work with us
 
 **Interested in hosting an online or in-person training or event?**<br/>
-Send us an email with describing your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. [**digitalgovu@gsa.gov**](mailto:digitalgovu@gsa.gov)
-
-{{< button href="mailto:digitalgovu@gsa.gov?subject=Training%20Idea" text="Send us an email" >}}
-
-
-
+Send us an email that describes your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. [**Send Us an email**](mailto:digitalgovu@gsa.gov?subject=Training%20Idea)
 
 ## Use of DigitalGov Materials
 
-Unless a copyright is indicated, material presented by DigitalGov is free of copyright and may be copied and distributed without permission. Citation of DigitalGov as source is appreciated. However, some material used in DGU training is the property of private individuals, companies, or independent contractors and therefore may be protected by copyright.
+Unless a copyright is indicated, material presented by DigitalGov is free of copyright and may be copied and distributed without permission. Citation of DigitalGov as the source is appreciated. However, some material used in DGU training is the property of private individuals, companies, or independent contractors and therefore may be protected by copyright.
 
 If a copyright is indicated on a photo, graphic, or other material, you must get permission from the original source to use or to copy this material.
 

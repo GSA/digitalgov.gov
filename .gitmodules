@@ -1,7 +1,0 @@
-[submodule "hugo-theme-bleak"]
-  path = themes/hugo-theme-bleak
-  url = git@github.com:Zenithar/hugo-theme-bleak.git
-
-[submodule "gohugo-theme-ananke"]
-  path = themes/gohugo-theme-ananke
-  url = git@github.com:budparr/gohugo-theme-ananke.git

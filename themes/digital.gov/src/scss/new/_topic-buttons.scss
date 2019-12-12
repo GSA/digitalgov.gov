@@ -25,9 +25,10 @@
     		}
         @include u-font('sans', 'sm');
         @include u-text('medium');
+        @include u-text('no-underline');
         @include u-bg('white');
-        @include u-text('indigo-warm-60v');
-        border: 1px #745fe9 solid;
+        @include u-text('primary-vivid');
+        @include u-border('1px','primary-vivid','solid');
         @include u-radius('sm');
         @include u-display('block');
         transition: background-color .5s, color .5s;
@@ -42,9 +43,9 @@
       		}
         }
         &:hover{
-          @include u-bg('indigo-warm-60v');
+          @include u-bg('primary-vivid');
           @include u-text('gray-1');
-          border: 1px #5942d2 solid;
+          @include u-border('1px','primary-vivid','solid');
           span{
             margin-right: 0;
           }
@@ -57,7 +58,7 @@
 
 article{
   .topics{
-    @include u-margin-top(9);
+    @include u-margin-top(7);
     @include u-margin-bottom(2);
     @include u-font('sans', '2xs');
     @include u-text('normal');

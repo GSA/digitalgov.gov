@@ -2,7 +2,7 @@
 name: Content Change or Suggestion
 about: Tell us how we can make our resources better
 title: "[Suggestion]"
-labels: editorial/content, feedback
+labels: feedback
 assignees: ''
 
 ---

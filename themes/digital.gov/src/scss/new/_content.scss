@@ -7,7 +7,11 @@
       @include u-text('underline');
     }
   }
-  a[href^=http]:not([href$=".gov"]):after {
+
+  // Applies the arrow to all external links
+  // Select all the links with href that start with "http" and do not contain ".gov"
+  // See https://css-tricks.com/attribute-selectors/
+  a[href^=http]:not([href*=".gov"]):after {
     background: url(../lib/uswds/img/external-link.svg) no-repeat 0 0;
     background-size: 100%;
     content: "";
@@ -58,6 +62,7 @@
   // HR tags
   hr{
     @include u-margin-y(3);
+    clear:both;
   }
 
   // Lists
@@ -154,33 +159,6 @@
         @include u-padding-right(0);
       }
     }
-  }
-  // Images
-  .image{
-    @include u-margin-top(2);
-    @include u-margin-bottom(4);
-    p{
-      @include u-margin-top('05');
-      @include u-padding-x('05');
-      @include u-font('sans', 'xs');
-      @include u-color('gray-cool-40');
-      @include u-maxw('full');
-      @include u-text('italic');
-    }
-  }
-  .image-right{
-    @include u-margin-y('205');
-    @include u-margin-top('205');
-    @include u-margin-left(2);
-    @include u-float('right');
-    @include u-width('card-lg');
-  }
-  .image-left{
-    @include u-margin-y('205');
-    @include u-margin-top('205');
-    @include u-margin-right(2);
-    @include u-float('left');
-    @include u-width('card-lg');
   }
 
 }

@@ -2,7 +2,9 @@
 	a{
 		@include u-text('no-underline');
 		&:hover{
-			@include u-border-bottom('2px', 'solid', 'orange-warm-30v');
+			span{
+				@include u-border-bottom('2px', 'solid', 'accent-warm');
+			}
 		}
 	}
 }
@@ -13,8 +15,8 @@ div.more{
 p.more {
 	@include u-margin-top('05');
 	@include u-margin-bottom('05');
-	@include u-font('sans', 'sm');
-	@include u-text('medium', !important);
+	@include u-font('sans', '2xs');
+	@include u-text('normal', !important);
 }
 
 a.btn{
@@ -60,7 +62,7 @@ a.btn{
 		@include u-padding-x(1);
 		@include u-text('no-underline');
 		@include u-text('medium');
-		@include u-text('indigo-warm-60v');
+		@include u-text('primary-vivid');
 		@include u-radius('md');
 		@include u-display('inline-block');
 		@include u-font('sans', 'xs');
@@ -69,11 +71,11 @@ a.btn{
 			@include u-padding-y('05');
 			@include u-padding-x('105');
 			@include u-font('sans', 'sm');
-			@include u-border('1px', 'indigo-warm-60v', 'solid');
+			@include u-border('1px', 'primary-vivid', 'solid');
 		}
 
 		&:hover{
-			@include u-bg('indigo-warm-60v');
+			@include u-bg('primary-vivid');
 			@include u-text('white');
 		}
 		img{
@@ -127,7 +129,7 @@ a.btn{
       @include u-padding(0);
       li{
         @include u-margin(0);
-        @include u-text('indigo-90');
+        @include u-text('primary-darkest');
         background: none;
         list-style-type: none;
         a{

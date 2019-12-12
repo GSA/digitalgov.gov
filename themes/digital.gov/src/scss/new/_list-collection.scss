@@ -33,6 +33,7 @@
       width: .9em;
   }
   ul{
+    @include add-list-reset;
     @include u-margin(0);
     @include u-margin-bottom('105');
     @include u-padding-left(3);

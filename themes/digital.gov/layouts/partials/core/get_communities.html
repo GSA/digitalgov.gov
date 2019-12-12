@@ -60,7 +60,7 @@
       {{/* Finally we can get the communities/pages and their data */}}
       {{ with $.Site.GetPage (print "/communities/" $e) }}
         <div class="promo">
-          <div class="display-flex flex-align-center flex-justify">
+          <div>
             <h4><a href="{{ .Permalink }}?promo" title="{{ .Title }}">{{ .Title }}</a></h4>
             {{- if .Params.members -}}
             <p class="members">{{- .Params.members -}}+</p>

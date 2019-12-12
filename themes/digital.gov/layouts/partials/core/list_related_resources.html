@@ -9,7 +9,7 @@ A list of the most important resources tagged with the same topic */}}
 
 <div class="list-collection">
   <h2>Resources on {{ .Title -}}  </h2>
-  <ul class="add-list-reset">
+  <ul>
     {{- range sort $resources "Title" "asc" -}}
 
       {{/* If an external link  */}}
