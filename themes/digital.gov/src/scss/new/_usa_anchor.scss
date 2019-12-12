@@ -143,11 +143,11 @@
   @include u-text('white');
   .usagov{
     @include u-padding-y(1);
-    @include u-display('flex');
-    @include u-flex('align-center');
-    @include u-flex('justify');
+    @include u-display('block');
     @include at-media('tablet') {
+      @include u-display('flex');
       @include u-font('sans', 'sm');
+      @include u-flex('align-center');
       @include u-flex('justify-start');
     }
     p{
@@ -168,22 +168,23 @@
           @include u-maxw(3);
           @include u-minw(3);
         }
-        @include at-media('tablet') {
-          // @include u-margin-right('05');
-        }
       }
       span{
 
       }
     }
     .usa-button-sm{
+      @include u-margin(0);
       @include u-margin-top(1);
-      @include u-margin-left('105');
+      @include u-margin-bottom(2);
+      @include u-padding-y(1);
       @include u-text('white');
       white-space: nowrap;
-      @include u-font('sans', 'xs');
+      @include u-font('sans', 'sm');
       @include at-media('tablet') {
-        @include u-margin-top(0);
+        @include u-margin(0);
+        @include u-margin-left('105');
+        @include u-font('sans', 'xs');
       }
       @include at-media('tablet-lg') {
         @include u-font('sans', 'sm');
