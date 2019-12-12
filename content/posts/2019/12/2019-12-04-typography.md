@@ -6,7 +6,7 @@ slug: typography
 date: 2019-12-31 22:00:00 -0500
 kicker: "Design"
 title: "Typography and Media"
-deck: "A post that has everything, including the kitchen sink."
+deck: "A post that has everything, including the kitchen sink. A post that has everything, including the kitchen sink."
 summary: "This is the summary"
 
 # see all topics at https://digital.gov/topics
