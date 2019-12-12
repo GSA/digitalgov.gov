@@ -26,10 +26,10 @@
           <div class="grid-col-12 tablet-lg:grid-col-6">
             <div class="org-copy">
               {{- if .org_primary_bio }}
-                <p>{{- .org_primary_bio }} <a class="more" href="{{- .org_primary_url -}}" title="Learn more about {{- .org_primary -}}"><span>Read more</span>&nbsp;»</a></p>
+                <p>{{- .org_primary_bio }} <a class="more" href="{{- .org_primary_url -}}" title="Learn more about {{- .org_primary -}}"><span>Read more</span></a></p>
               {{- end -}}
               {{- if .org_secondary_bio -}}
-                <p>{{- .org_secondary_bio }} <a class="more" href="{{- .org_secondary_url -}}" title="Learn more about {{- .org_secondary -}}"><span>Read more</span>&nbsp;»</a></p>
+                <p>{{- .org_secondary_bio }} <a class="more" href="{{- .org_secondary_url -}}" title="Learn more about {{- .org_secondary -}}"><span>Read more</span></a></p>
               {{- end -}}
             </div>
           </div>
@@ -38,13 +38,13 @@
             <div class="org-links">
               <p><i class="fas fa-envelope"></i> For questions about this website, email <a href="mailto:{{- .site_email -}}">{{- .site_email -}}</a>.</p>
 
-              <p>Additional information about the {{ .agency }} ({{ .agency_acronym }}) can be found at <a href="{{- .agency_about_url -}}" title="More about the {{- .agency_acronym -}}">{{- .agency_about_url }} »</a></p>
+              <p>Additional information about the {{ .agency }} ({{ .agency_acronym }}) can be found at <a href="{{- .agency_about_url -}}" title="More about the {{- .agency_acronym -}}">{{- .agency_about_url -}}</a></p>
               <ul>
-                <li><a href="{{- .foia_request_url -}}" title="Submit a Freedom of Information Act (FOIA) request"><span>Submit a Freedom of Information Act (FOIA) request</span>&nbsp;»</a></li>
-                <li><a href="{{- .fraud_waste_abuse_url -}}" title="Report fraud, waste, or abuse"><span>Report fraud, waste, or abuse to the Office of the Inspector General</span>&nbsp;»</a></li>
-                <li><a href="{{- .no_fear_act_url -}}" title="View No FEAR Act data"><span>View No FEAR Act data</span>&nbsp;»</a></li>
-                <li><a href="{{- .budget_performance_url -}}" title="View budget and performance reports"><span>View budget and performance reports</span>&nbsp;»</a></li>
-                <li><a href="{{- .accessibility_url -}}" title="View our accessiblity statement"><span>Accessiblity</span>&nbsp;»</a></li>
+                <li><a href="{{- .fraud_waste_abuse_url -}}" title="Report fraud, waste, or abuse to the Office of the Inspector General"><span>Report fraud, waste, or abuse to the Office of the Inspector General</span></a></li>
+                <li><a href="{{- .foia_request_url -}}" title="Submit a Freedom of Information Act (FOIA) request"><span>Submit a Freedom of Information Act (FOIA) request</span></a></li>
+                <li><a href="{{- .budget_performance_url -}}" title="View budget and performance reports"><span>View budget and performance reports</span></a></li>
+                <li><a href="{{- .accessibility_url -}}" title="View accessiblity statement"><span>View accessiblity statement</span></a></li>
+                <li><a href="{{- .no_fear_act_url -}}" title="View No FEAR Act data"><span>View No FEAR Act data</span></a></li>
               </ul>
             </div>
           </div>
