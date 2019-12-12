@@ -19,48 +19,36 @@
   .box{
     @include u-margin(0);
     @include u-padding(0);
-    @include u-bg('white');
-    @include at-media('tablet-lg') {
-      @include u-bg('primary-darker');
-    }
+    @include u-bg('primary-darker');
     h2{
       @include u-padding(2);
       @include u-font('sans', 'xl');
       @include u-line-height('sans', 2);
-      @include u-text('primary-darker');
+      @include u-text('white');
       @include u-text('thin');
       @include at-media('tablet-lg') {
         @include u-margin-bottom(0);
-        @include u-text('thin');
-        @include u-text('white');
       }
     }
     p{
       @include u-margin-top(0);
-      @include u-padding-x(2);
-      @include u-padding-bottom(2);
+      @include u-padding('105');
       @include u-border-bottom('1px', 'base-lightest', 'solid');
-      @include u-bg('white');
-      @include u-text('primary-dark');
-      @include u-font('sans', 'md');
+      @include u-bg('primary-darkest');
+      @include u-text('white');
+      @include u-font('sans', 'xs');
       @include u-line-height('sans', 2);
       @include u-text('normal');
+      @include u-maxw('full');
       @include at-media('tablet-lg') {
-        @include u-padding(2);
-        @include u-bg('primary-darkest');
-        @include u-text('normal');
         @include u-font('sans', 'sm');
-        @include u-text('base-light');
-        @include u-line-height('sans', 2);
+        @include u-padding(2);
       }
       a{
         @include u-display('flex');
         @include u-flex('align-center');
         @include u-text('no-underline');
-        @include u-text('base-darker');
-        @include at-media('tablet-lg') {
-          @include u-text('base-lighter');
-        }
+        @include u-text('white');
         img{
           @include u-margin-right('105');
           @include u-width(5);
