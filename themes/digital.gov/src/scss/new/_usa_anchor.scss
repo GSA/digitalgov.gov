@@ -1,5 +1,5 @@
 
-// Anchor component - - - - - - - - - - - - - - - 
+// Anchor component - - - - - - - - - - - - - - -
 // Using the USWDS Design Tokens
 
 .component-anchor{
@@ -50,7 +50,7 @@
       @include u-font('sans', 'sm');
     }
     p{
-      @include u-margin-top(0);
+      // @include u-margin-top(0);
     }
     a{
       @include u-text('white');
