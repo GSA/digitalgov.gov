@@ -26,13 +26,13 @@
     h2{
       @include u-padding(2);
       @include u-font('sans', 'xl');
+      @include u-line-height('sans', 2);
       @include u-text('primary-darker');
       @include u-text('thin');
       @include at-media('tablet-lg') {
         @include u-margin-bottom(0);
         @include u-text('thin');
         @include u-text('white');
-        @include u-font('sans', '2xl');
       }
     }
     p{

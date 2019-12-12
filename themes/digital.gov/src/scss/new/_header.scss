@@ -72,6 +72,14 @@
 		p.agency_refer{
 			@include u-float('right');
 		}
+		#search_form{
+			#query{
+				@include u-radius-left('sm');
+			}
+			.usa-button{
+				@include u-bg('blue-60v');
+			}
+		}
 	}
 
 	.agency_refer{
