@@ -22,9 +22,10 @@
 			}
 		}
 		.date-day{
+			@include u-margin-bottom('05');
 			@include u-font('sans', '2xl');
 			@include u-text('thin');
-			@include u-line-height('sans', 2);
+			@include u-line-height('sans', 1);
 			@include at-media('tablet') {
 				@include u-font('sans', '3xl');
 			}
