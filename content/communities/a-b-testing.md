@@ -4,7 +4,7 @@
 
 slug: a-b-testing-community
 date: 2019-12-12 17:00:00 -0500
-title: "A/B Testing Community"
+title: "A/B Testing"
 deck: ""
 summary: "We encourage data-driven decisions and continuous optimization through A&#47;B testing."
 
