@@ -160,20 +160,20 @@ If you are able to test screen readers with multiple browsers, the following is 
 -   Windows 10 Narrator and Edge
 -   VoiceOver (Mac) and Safari (Mac)
 
-## Recommended Resources
+## Additional Resources
 
 - [Section508.gov](https://www.section508.gov/) — Provides guidance to federal agency staff who play a role in IT accessibility. Key topics include program management, procurement, tools & training, and policy compliance.
 - [Accessibility for Teams](https://accessibility.digital.gov/) — A guide to incorporating accessibility into product development teams.
 - [18F Accessibility Guide](https://accessibility.18f.gov/?=dg) — A resource for developing accessible products.
-- [WCAG 2.0](https://www.w3.org/TR/WCAG20/) — This outlines the principles, guidelines, testable success criteria, and techniques needed to optimize content.
-- [W3C’s WCAG quick reference guide](https://www.w3.org/WAI/WCAG21/quickref/) — A compliance checklist; it will help you satisfy your Section 508 obligations. Be sure to review the white “Understanding” button given in each criteria section for more in-depth information. Remember: the success criteria are just the baseline. We are encouraged to surpass the values specified; not see them as a ceiling to build to.
-- [W3C’s Web Accessibility Initiative (WAI) perspective videos](https://www.w3.org/WAI/perspective-videos/) — A variety of short videos that give examples of different kinds of disabilities.
-- [Microsoft’s Inclusive Design Toolkit](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf) (PDF, 22 MB, 32 pages) — An approachable introduction to the history and principles of inclusive design ([they also have a full site about Inclusive Design](https://www.microsoft.com/design/inclusive/)).
 - [U.S. Web Design System](https://designsystem.digital.gov/) — Our design system for the federal government was built with accessibility first.
 - [Eight Principles of Mobile-Friendliness: Accessibility](https://digital.gov/resources/mobile/principles/accessibility/) — Created by the [MobileGov Community of Practice](https://digital.gov/communities/mobile/) to highlight ways we can ensure that our mobile products also meet accessibility standards.
 - [Accessibility Literacy](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) — A DigitalGov playlist on YouTube
 - [Accessibility How-to](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH01BSXgJZv6uoCDJMyVvuT) — A second DigitalGov playlist on YouTube
+- [WCAG 2.0](https://www.w3.org/TR/WCAG20/) — This outlines the principles, guidelines, testable success criteria, and techniques needed to optimize content.
+- [W3C’s WCAG quick reference guide](https://www.w3.org/WAI/WCAG21/quickref/) — A compliance checklist; it will help you satisfy your Section 508 obligations. Be sure to review the white “Understanding” button given in each criteria section for more in-depth information. Remember: the success criteria are just the baseline. We are encouraged to surpass the values specified; not see them as a ceiling to build to.
+- [W3C’s Web Accessibility Initiative (WAI) perspective videos](https://www.w3.org/WAI/perspective-videos/) — A variety of short videos that give examples of different kinds of disabilities.
 - [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/) — An introduction to how people with disabilities, including people with age-related impairments, use the Web. It describes assistive technology tools and approaches that people with different kinds of disabilities use to browse the Web (and the barriers they encounter due to poor design).
+- [Microsoft’s Inclusive Design Toolkit](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf) (PDF, 22 MB, 32 pages) — An approachable introduction to the history and principles of inclusive design ([they also have a full site about Inclusive Design](https://www.microsoft.com/design/inclusive/)).
 - [Web Almanac, Part II, Chapter 9: Accessibility](https://almanac.httparchive.org/en/2019/accessibility) - Covers additional topics, including readability, navigation, and form controls.
 
 _This introduction to accessibility was based on content created by the Technology Transformation Services (TTS) **Accessibility Guild**. Many thanks to former and current guild co-leads, **Nikki Lee (18F)** and **David Stenger (USAgov)**, and **Jacklynn Pham (18F)** and **Toni Bonitto (TTS Solutions)**, for creating and iterating on this!_
