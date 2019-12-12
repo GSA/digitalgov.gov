@@ -54,10 +54,7 @@
         @include u-text('white');
       }
       .more{
-        @include u-text('no-underline');
-        span{
-          @include u-text('underline');
-        }
+        @include u-text('underline');
       }
     }
 
@@ -75,22 +72,27 @@
       @include u-padding-bottom(2);
       @include u-bg('blue-warm-80');
       @include u-font('sans', '2xs');
-      @include u-text('white');
+      @include u-text('base-lightest');
       ul{
-        // @include u-margin(0);
         @include u-padding-left('205');
         li{
           @include u-margin-bottom('05');
           a{
             @include u-text('no-underline');
-            span{
-              @include u-text('underline');
+            @include u-border-bottom('1px', 'solid', 'white');
+            &:hover{
+              @include u-text('white');
+              @include u-border-bottom('2px', 'solid', 'white');
             }
           }
         }
       }
       a{
-        @include u-text('white');
+        @include u-text('base-lightest');
+        &:hover{
+          @include u-text('white');
+          @include u-border-bottom('2px', 'solid', 'white');
+        }
       }
     }
   }
@@ -168,9 +170,6 @@
           @include u-maxw(3);
           @include u-minw(3);
         }
-      }
-      span{
-
       }
     }
     .usa-button-sm{
