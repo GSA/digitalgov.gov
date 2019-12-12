@@ -17,9 +17,9 @@
 			}
 			img{
 				@include u-margin-right(1);
-				@include u-width(3);
+				@include u-width('card');
 				@include at-media('tablet') {
-					@include u-width(4);
+					@include u-width('auto');
 				}
 			}
 
@@ -29,7 +29,7 @@
 				@include u-line-height('sans', 1);
 				@include u-text('bold');
 				@include at-media('tablet') {
-					@include u-font('sans', '2xl');
+					@include u-font('sans', 'xl');
 				}
 			}
 
@@ -71,6 +71,14 @@
 		}
 		p.agency_refer{
 			@include u-float('right');
+		}
+		#search_form{
+			#query{
+				@include u-radius-left('sm');
+			}
+			.usa-button{
+				@include u-bg('primary-vivid');
+			}
 		}
 	}
 

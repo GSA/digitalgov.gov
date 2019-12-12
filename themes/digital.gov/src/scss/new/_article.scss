@@ -35,7 +35,7 @@ main{
 			@include u-font('sans', 'sm');
 			@include u-text('normal');
 			@include u-text('uppercase');
-			@include u-color('indigo-warm-90');
+			@include u-color('indigo-warm-80');
 		}
    	// Page Titles
    	h1{
@@ -52,10 +52,10 @@ main{
 
    	// Deck
    	.deck{
-			@include u-margin-y(0);
+			@include u-margin-y(1);
      	@include u-font('sans', 'lg');
      	@include u-text('light');
-     	@include u-text('primary-dark');
+     	@include u-text('primary-darker');
 			@include u-line-height('sans', 2);
 			@include at-media('tablet') {
 				@include u-font('sans', 'xl');

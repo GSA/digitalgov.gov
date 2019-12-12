@@ -8,7 +8,7 @@ A list of the most important resources tagged with the same topic */}}
 {{- if $communities -}}
 <div class="list-collection">
   <h2>Join a Community of Practice</h2>
-  <ul class="add-list-reset">
+  <ul>
     {{- range sort $communities "Title" "asc" -}}
       <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <a href="{{- .Permalink -}}">

@@ -8,11 +8,20 @@
 		@include u-margin-bottom('105');
 		@include u-padding-top('105');
 		@include u-border-top('1px','solid', 'gray-10');
+		@include u-flex('no-wrap');
 		img{
 			@include u-border('1px','solid', 'indigo-30');
 		}
 		.photo{
 			@include u-margin-right(1);
+			@include u-height(5);
+			@include u-width(5);
+			@include u-display('flex');
+			@include u-flex('align-center');
+			@include u-flex('justify-center');
+			img{
+				@include u-circle(5);
+			}
 		}
 		.details{
 			h5{
