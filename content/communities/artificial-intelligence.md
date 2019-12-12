@@ -20,7 +20,7 @@ weight: 1
 
 community_list:
   - platform: listserv
-    type: government only
+    type: government
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AI Listserv"
     terms: "Anyone with a .gov or .mil email address is eligible to join."
