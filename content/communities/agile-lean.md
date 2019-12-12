@@ -31,6 +31,7 @@ aliases:
 
 community_list:
   - platform: listserv
+    type: government
     subscribe_email: "listserv@listserv.gsa.gov"
     subscribe_email_subject: "Join: Accessibility / Section 508"
     subscribe_email_body: "subscribe agile-lean-cop"
