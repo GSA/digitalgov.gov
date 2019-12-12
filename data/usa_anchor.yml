@@ -1,3 +1,6 @@
+# Anchor component data
+# See usa_anchor.html for the template
+
 anchor_data:
   - site_name: Digital.gov
     site_email: digitalgov@gsa.gov
