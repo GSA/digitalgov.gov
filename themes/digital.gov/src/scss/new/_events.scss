@@ -64,7 +64,7 @@
     }
   }
   .stage-zoom{
-    @include u-margin-bottom(1);
+    @include u-margin-bottom(4);
     @include u-padding(2);
     @include u-radius('sm');
     @include u-display('flex');
