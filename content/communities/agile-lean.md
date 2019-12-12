@@ -3,18 +3,19 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: agile-lean
-date: 2017-09-04 15:45:00 -0500
+date: 2017-09-04 16:45:00 -0500
 title: "Agile/Lean"
 deck: "Supporting people working with agile/lean methodologies and those who would like to learn more."
 summary: "Supporting people working with agile/lean methodologies and those who would like to learn more."
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - agile
   - product-management
+  - kanban
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
   - bbrantley
   - logan-powell
 
@@ -24,13 +25,12 @@ authors:
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases:
+aliases: 
   - /agile-lean-community-of-practice/
 
 
 community_list:
   - platform: listserv
-    type: government
     subscribe_email: "listserv@listserv.gsa.gov"
     subscribe_email_subject: "Join: Accessibility / Section 508"
     subscribe_email_body: "subscribe agile-lean-cop"
