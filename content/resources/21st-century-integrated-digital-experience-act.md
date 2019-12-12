@@ -7,7 +7,6 @@ deck: "The Act aims to improve the digital experience for government customers a
 featured_image:
   uid: 21st-century-idea-resource-card
   alt: ''
-type: guide
 authors:
   - ammie-farraj-feijoo
   - jeremyzilar

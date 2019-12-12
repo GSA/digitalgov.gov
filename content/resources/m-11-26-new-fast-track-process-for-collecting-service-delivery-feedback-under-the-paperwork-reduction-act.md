@@ -16,8 +16,8 @@ The new [Paperwork Reduction Act Fast Track Process](https://www.whitehouse.gov/
 ## Related Links
 
   * [What is a Terms of Service Agreement?]({{< ref "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}})
-  * [Information on Federal Compatible Terms of Service]({{< ref "/guide/terms-of-service/_index.md" >}})
-  * [List of Federal Terms of Service Agreements]({{< ref "/guide/terms-of-service/_index.md" >}})
+  * [Information on Federal Compatible Terms of Service]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}})
+  * [List of Federal Terms of Service Agreements]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}})
 
  
 
