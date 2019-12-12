@@ -38,7 +38,7 @@
             <div class="org-links">
               <p><i class="fas fa-envelope"></i> For questions about this website, email <a href="mailto:{{- .site_email -}}">{{- .site_email -}}</a>.</p>
 
-              <p>Additional information about the {{- .agency -}} ({{- .agency_acronym -}}) can be found at <a href="{{- .agency_about_url -}}" title="More about the {{- .agency_acronym -}}">{{- .agency_about_url -}} »</a></p>
+              <p>Additional information about the {{ .agency }} ({{ .agency_acronym }}) can be found at <a href="{{- .agency_about_url -}}" title="More about the {{- .agency_acronym -}}">{{- .agency_about_url }} »</a></p>
               <ul>
                 <li><a href="{{- .foia_request_url -}}" title="Submit a FOIA request"><span>Submit a FOIA request</span>&nbsp;»</a></li>
                 <li><a href="{{- .fraud_waste_abuse_url -}}" title="Report fraud, waste, or abuse"><span>Report fraud, waste, or abuse</span>&nbsp;»</a></li>
@@ -60,7 +60,7 @@
       <div class="grid-col-12">
         <div class="usagov">
           <p><i class="fas fa-comment fa-flip-horizontal"></i> <span>Have a question about government services?</span></p>
-          <a class="usa-button usa-button-sm" href="#">Contact USA.gov</a>
+          <a class="usa-button usa-button-sm" href="{{- .usagov_contact_url -}}?ref={{- .site_name -}}">Contact USA.gov</a>
         </div>
       </div>
     </div>

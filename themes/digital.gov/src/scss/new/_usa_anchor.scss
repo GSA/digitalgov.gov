@@ -50,17 +50,17 @@
       @include u-font('sans', 'sm');
     }
     p{
-      // @include u-margin-top(0);
-    }
-    a{
-      @include u-text('white');
-    }
-    .more{
-      @include u-text('no-underline');
-      span{
-        @include u-text('underline');
+      a{
+        @include u-text('white');
+      }
+      .more{
+        @include u-text('no-underline');
+        span{
+          @include u-text('underline');
+        }
       }
     }
+
   }
 
   .org-expanded{
@@ -77,7 +77,7 @@
       @include u-font('sans', '2xs');
       @include u-text('white');
       ul{
-        @include u-margin(0);
+        // @include u-margin(0);
         @include u-padding-left('205');
         li{
           @include u-margin-bottom('05');
