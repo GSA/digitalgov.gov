@@ -1,5 +1,12 @@
 {{ define "content" }}
 
+{{/*
+
+  NOTE:
+  I am quite sure that this template is being overriden by the individual taxonomy templates (authors, topics, etc...)
+
+*/}}
+
 <main role="main" id="topic" class="collection">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row tablet-lg:grid-gap-4">
@@ -10,7 +17,7 @@
             <p>Categories / <a href="{{ "/categories/" | absURL }}">See all »</a></p>
           </header>
 
-          <ul class="add-list-reset">
+          <ul>
             {{ range $name, $taxonomy := $.Site.Taxonomies.topics }}
               {{ with $.Site.GetPage (printf "/topics/%s" $name) }}
               <li>

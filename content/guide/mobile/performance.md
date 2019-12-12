@@ -21,9 +21,3 @@ https://designsystem.digital.gov/performance/
 
 ### New ITIF Report Inspires a Closer Look at Website Performance and Security—Here Is Where to Begin
 The Information Technology & Innovation Foundation (ITIF) published a report  that looked at the page load speed, mobile friendliness, security, and accessibility of the top 297 government websites. And based on the four benchmark areas, we’ve pulled together a number of resources and tools to help your agency’s website provide better access to services and information. https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/
-
-{{< card-dg src="2017-03-24-new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin.md" title="New ITIF Goodness" summary="This is a good article." >}}
-
-{{< card-dg src="2017-03-24-new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin.md" >}}
-
-{{< card-ex src="https://v2.designsystem.digital.gov/utilities/border/#utility-radius" title="Check out the USWDS" >}}

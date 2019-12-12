@@ -21,7 +21,7 @@
   @include u-float('right');
   @include u-width('card');
   @include at-media('tablet') {
-    @include u-width('mobile');
+    @include u-width('card-lg');
   }
 }
 

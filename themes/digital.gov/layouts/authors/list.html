@@ -35,7 +35,7 @@
                 {{- if .Params.bio_url -}}
                   <p><a rel="external" title="{{ .Params.display_name }} Website" href="{{- .Params.bio_url -}}">{{- .Params.bio_url -}}</a></p>
                 {{- end -}}
-                <ul class="add-list-reset">
+                <ul>
                   {{- if .Params.facebook -}}
                     <li><a class="facebook" rel="external" title="{{- .Params.display_name }} on Facebook" href="http://www.facebook.com/{{- .Params.facebook -}}/"><i class="fab fa-facebook-square"></i></a></li>
                   {{- end -}}

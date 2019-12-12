@@ -75,6 +75,7 @@
   // HR tags
   hr{
     @include u-margin-y(3);
+    clear:both;
   }
 
   // Lists
