@@ -48,8 +48,12 @@ outputs:
   page: ["HTML","RSS", "JSON"]
   taxonomy: ["HTML","RSS", "json"]
 
-blackfriday:
-  fractions: false
+# Goldmark is from Hugo 0.60 the default library used for Markdown.
+# https://gohugo.io/getting-started/configuration-markup/#goldmark
+markup:
+  defaultMarkdownHandler: blackfriday
+
+
 
 params:
   description: "Guidance on building better digital services in government"

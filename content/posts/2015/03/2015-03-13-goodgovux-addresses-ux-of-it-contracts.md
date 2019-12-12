@@ -51,4 +51,6 @@ Volunteers are needed in 3 key areas:
   * **RFPs and Proposal Language** &#8211; Crafting or finding examples of good contracting language
   * **Deliverables and Best Practices** &#8211; Creating tools and guidance to help people build UX into contracts
 
-You can also follow the group on Twitter at [@GoodGovUX](https://twitter.com/GoodGovUX)._**Jordan Higgins** is a Web and Social Media Manager at the Defense Intelligence Agency._
+You can also follow the group on Twitter at [@GoodGovUX](https://twitter.com/GoodGovUX).
+
+_**Jordan Higgins** is a Web and Social Media Manager at the Defense Intelligence Agency._

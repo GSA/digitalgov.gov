@@ -1,4 +1,6 @@
-<div class="toc">
+{{- if .TableOfContents -}}
+<section class="toc">
   <h4>In this page</h4>
-  {{ .TableOfContents }}
-</div>
+  {{- .TableOfContents -}}
+</section>
+{{- end -}}

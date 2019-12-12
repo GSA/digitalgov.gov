@@ -25,6 +25,7 @@
     		}
         @include u-font('sans', 'md');
         @include u-text('medium');
+        @include u-text('no-underline');
         @include u-bg('white');
         @include u-text('primary-vivid');
         @include u-border('1px','primary-vivid','solid');
@@ -57,7 +58,7 @@
 
 article{
   .topics{
-    @include u-margin-top(9);
+    @include u-margin-top(7);
     @include u-margin-bottom(2);
     @include u-font('sans', '2xs');
     @include u-text('normal');

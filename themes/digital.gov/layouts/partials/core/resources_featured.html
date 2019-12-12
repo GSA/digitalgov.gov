@@ -3,7 +3,7 @@
 {{- if $resources_featured -}}
 <div class="list-collection">
   <h2>Popular Guides and Resources</h2>
-  <ul class="add-list-reset">
+  <ul>
     {{- range sort $resources_featured "Title" "asc" -}}
       {{- if eq .Params.weight 3 -}}
         {{/* If an external link  */}}
@@ -60,7 +60,7 @@
 
   {{- if .IsHome -}}
   <footer>
-    <div class="grid-row grid-gap-2">
+    <div class="grid-row tablet-lg:grid-gap-2">
       <div class="grid-col-12">
         <p class="more"><a href="/resources"><span>See all guides and resources</span> <i class="fas fa-arrow-circle-right"></i></a></p>
       </div>

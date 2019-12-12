@@ -19,7 +19,7 @@
 		}
 		a{
 			@include u-text('no-underline');
-			@include u-text('indigo-warm-70');
+			@include u-text('primary-dark');
 			@include u-text('bold');
 			&:hover{
 				@include u-border-bottom('2px', 'accent-warm', 'solid');

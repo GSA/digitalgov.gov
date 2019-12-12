@@ -17,12 +17,13 @@
 			@include u-text('light');
 		}
 		ul{
+			@include u-padding(0);
 			li{
 				@include u-margin-right(1);
 				@include u-font('sans', 'xl');
 				@include u-display('inline-block');
 				a{
-					@include u-text('indigo-80');
+					@include u-text('primary-darker');
 				}
 			}
 		}

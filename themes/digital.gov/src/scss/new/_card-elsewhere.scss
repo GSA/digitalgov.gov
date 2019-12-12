@@ -1,4 +1,9 @@
 .card-elsewhere{
+	& > div{
+		@include u-display('flex');
+		@include u-flex('justify-start');
+		@include u-flex('align-start');
+	}
 	.icon{
 		@include u-margin-right('105');
 		@include u-square(7);
@@ -17,6 +22,9 @@
 		flex: 1;
 		p{
 			@include u-measure(5);
+			@include u-line-height('sans', 3);
+			@include u-font('sans', 'md');
+			@include u-text('normal');
 		}
 		.source{
 			@include u-margin-top('05');

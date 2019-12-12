@@ -15,8 +15,8 @@ div.more{
 p.more {
 	@include u-margin-top('05');
 	@include u-margin-bottom('05');
-	@include u-font('sans', 'sm');
-	@include u-text('medium', !important);
+	@include u-font('sans', '2xs');
+	@include u-text('normal', !important);
 }
 
 a.btn{
@@ -129,7 +129,7 @@ a.btn{
       @include u-padding(0);
       li{
         @include u-margin(0);
-        @include u-text('indigo-90');
+        @include u-text('primary-darkest');
         background: none;
         list-style-type: none;
         a{

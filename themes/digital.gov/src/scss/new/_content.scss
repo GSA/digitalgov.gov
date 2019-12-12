@@ -8,7 +8,11 @@
       @include u-text('underline');
     }
   }
-  a[href^=http]:not([href$=".gov"]):after {
+
+  // Applies the arrow to all external links
+  // Select all the links with href that start with "http" and do not contain ".gov"
+  // See https://css-tricks.com/attribute-selectors/
+  a[href^=http]:not([href*=".gov"]):after {
     background: url(../lib/uswds/img/external-link.svg) no-repeat 0 0;
     background-size: 100%;
     content: "";
@@ -35,7 +39,7 @@
   h1{
     @include u-text('strike');
   }
-  
+
   h2{
     @include u-margin-top(6);
     @include u-padding-top(1.5);
@@ -71,7 +75,8 @@
 
   // HR tags
   hr{
-    @include u-margin-y(5);
+    @include u-margin-y(3);
+    clear:both;
   }
 
   // Lists

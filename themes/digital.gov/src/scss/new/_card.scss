@@ -1,14 +1,14 @@
 .card{
-	@include u-margin-bottom(1);
+	@include u-margin-bottom('205');
 	@include u-bg('white');
 	@include u-border-bottom('1px', 'gray-cool-10', 'solid');
-	.paper{
-		@include u-padding('105', !important);
-		@include u-bg('white', !important);
-		transition: background-color .2s;
-		@include at-media('tablet') {
-			@include u-padding('205', !important);
-		}
+	@include u-padding('105');
+	@include u-padding-bottom(2);
+	@include u-bg('white');
+	transition: background-color .2s;
+	@include at-media('tablet') {
+		@include u-margin-bottom(1);
+		@include u-padding('205');
 	}
 	.kicker{
 		@include u-margin(0);
@@ -23,33 +23,66 @@
 		@include u-font('sans', 'lg');
 		@include u-text('bold');
 		a{
-			@include u-text('indigo-warm-80');
+			@include u-text('primary-darker');
 			@include u-text('no-underline');
 		}
 	}
-	p{
+	.summary,
+	.deck{
 		@include u-margin-top(1);
 		@include u-line-height('sans', 3);
 		@include u-font('sans', 'md');
-	}
-	.deck{
-	}
-
-	.image-featured{
+		@include u-text('normal');
 	}
 
-	.entry-featured img {
-		filter: grayscale(75%);
-		transition: filter .2s;
-	}
+	.meta{
+		@include u-margin-top('105');
+		@include u-display('flex');
+		@include at-media('tablet-lg') {
+			@include u-margin-top('105');
+		}
 
-	&:hover{
-		.entry-featured img {
-			filter: grayscale(0%);
+		.date{
+			@include u-margin-top(0);
+			@include u-margin-right('105');
+			@include u-font('sans', '2xs');
+			@include at-media('tablet-lg') {
+				@include u-font('sans', 'xs');
+				@include u-margin-right(2);
+			}
+			@include u-text('gray-cool-60');
+			@include u-text('normal');
+			a{
+				@include u-text('gray-cool-60');
+				@include u-text('no-underline');
+				&:hover{
+					@include u-border-bottom('2px', 'accent-warm', 'solid');
+				}
+			}
+		}
+		.authors-list-short{
+		}
+		.clicks{
+			@include u-margin-top(0);
+			@include u-font('sans', '2xs');
+			@include at-media('tablet-lg') {
+				@include u-font('sans', 'xs');
+			}
+			@include u-text('italic');
+			@include u-display('block');
+			@include u-text('gold-40v');
+			i{
+				@include u-text('gold-30v');
+			}
+			white-space: nowrap;
 		}
 	}
 
+	.media-featured{
+		@include u-margin-bottom(2);
+	}
 }
+
 .card-linked{
 	// To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
 	@include u-position('relative');
@@ -85,62 +118,5 @@
 				}
 			}
 		}
-	}
-}
-
-.meta{
-	@include u-margin-top('105');
-	@include u-display('flex');
-	@include u-flex('wrap');
-	@include u-flex('align-center');
-	@include at-media('tablet-lg') {
-		@include u-margin-top(3);
-	}
-	.date{
-		@include u-margin-top(0);
-		@include at-media('tablet-lg') {
-			@include u-margin-top(0);
-		}
-		@include u-font('sans', '2xs');
-		@include u-text('gray-cool-60');
-		@include u-text('normal');
-		a{
-			@include u-text('gray-cool-60');
-			@include u-text('no-underline');
-		}
-		a:hover{
-			border-bottom: 2px #8889db solid; // $indigo-40
-		}
-	}
-	.clicks{
-		@include u-margin-top(0);
-		@include u-margin-left(2);
-		@include at-media('tablet'){
-			@include u-margin-left(2);
-		}
-		@include u-font('sans', '2xs');
-		@include u-text('italic');
-		@include u-display('block');
-		@include u-text('gold-40v');
-		i{
-			@include u-text('gold-30v');
-		}
-		white-space: nowrap;
-	}
-	.authors-list-short{
-		@include u-margin-bottom(2);
-		@include u-margin-left(0);
-		flex-basis: 100%;
-		@include at-media('tablet') {
-			flex-basis: auto;
-			@include u-margin-bottom(1);
-			@include u-margin-left(2);
-			@include u-order('last');
-			@include u-margin-bottom(3);
-		}
-	}
-	.topics{
-		@include u-margin-y(0);
-		@include u-font('sans', '3xs');
 	}
 }

@@ -21,7 +21,14 @@
   @include u-float('right');
   @include u-width('card');
   @include at-media('tablet') {
-    @include u-width('mobile');
+    @include u-width('card-lg');
+  }
+}
+
+// Making the older, right-aligned images smaller on desktop because they were cut to smaller sizes back then...
+.image-right-legacy{
+  @include at-media('tablet') {
+    @include u-width('card-lg');
   }
 }
 
