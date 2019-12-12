@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/communities/robotic-process-automation-rpa
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: robotic-process-automation-rpa
+slug: rpa
 date: 2019-12-12 19:00:00 -0500
 title: "Robotic Process Automation (RPA)"
 deck: ""
