@@ -5,7 +5,7 @@
 slug: uswds
 date: 2019-12-12 19:00:00 -0500
 title: "U.S. Web Design System"
-deck: ""
+deck: "Making it easier to build accessible, mobile-friendly government websites for the public."
 summary: "A community for anyone building federal websites with the U.S. Web Design System (USWDS) or considering it for a future project."
 
 # see all topics at https://digital.gov/topics
@@ -28,18 +28,13 @@ authors:
 weight: 1
 
 community_list:
-  - platform: listserv
+  - platform: slack
     type: public
     subscribe_form: https://chat.18f.gov/
-    terms: "Once approved, you will be added as a single-channel guest into the TTS-GSA Slack."
-
-featured_image:
-  uid: uswds-2-illio-built-to-grow-alt
-  alt: ''
+    terms: "Open to the public."
 
 # Make it better ♥
 ---
-
 
 
 {{< img-right src="uswds-logo" >}}

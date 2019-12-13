@@ -22,7 +22,7 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "FedRPA-subscribe-request@listserv.gsa.gov"
-    terms: "Anyone with a .gov or .mil email address is eligible to join."
+    terms: "Open to anyone with a .gov or .mil email address."
 
 
 # Make it better ♥

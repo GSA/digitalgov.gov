@@ -23,7 +23,7 @@ community_list:
     type: government
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AI Listserv"
-    terms: "Anyone with a .gov or .mil email address is eligible to join."
+    terms: "Open to anyone with a .gov or .mil email address."
 
 
 # Make it better ♥

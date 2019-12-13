@@ -27,83 +27,99 @@
         <div class="grid-row tablet-lg:grid-gap-4">
           <div class="grid-col-12 tablet-lg:grid-col-4">
 
-            {{ if .Params.community_list }}
+            {{- if .Params.community_list -}}
             <section class="community-info {{ .Params.community_type -}}">
 
-              {{ range $i, $e := .Params.community_list }}
+              {{- range $i, $e := .Params.community_list -}}
                 <div class="join-box">
 
-                  <!-- Type of list — public or government only -->
-                  {{- if $e.type -}}
-                  <div class="type">{{- $e.type -}}</div>
-                  {{- end -}}
+                  <div class="type">
+                    {{/*
+                      Checks to see if the community is public or govt only and sets the "terms" of the community, with an option to override the terms for each community by setting it in the front matter
+                    */}}
+
+                    {{/* PUBLIC */}}
+                    {{- if eq $e.type "public" -}}
+                      {{/* Checking to see if community terms are defined */}}
+                      {{- if $e.terms -}}
+                      <p class="terms">{{- $e.terms | markdownify -}}</p>
+                      {{- else -}}
+                      <p class="terms">Open to the public.</p>
+                      {{- end -}}
+                    {{- end -}}
+
+                    {{/* GOVT */}}
+                    {{- if eq $e.type "government" -}}
+                      {{- if $e.terms -}}
+                      <p class="terms">{{- $e.terms | markdownify -}}</p>
+                      {{- else -}}
+                      <p class="terms">Open to anyone with a .gov or .mil email address.</p>
+                      {{- end -}}
+                    {{- end -}}
+                  </div>
 
                   <div class="join-box-wrapper">
-                    <!-- Listserv Platforms without form sign-up option -->
+                    {{/*
+                      Community JOIN types ---
+                      - Listerv via an email (most common)
+                      - Listerv via a form
+                      - Google Group
+                      - Slack
+                    */}}
+                    {{/* Listserv Platforms without form sign-up option */}}
                     {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
-
                       {{- partial "core/community-join-without-form" (dict "context" . "e" $e) -}}
-
                     {{- end -}}
 
-                    <!-- Listserv Platforms with form as sign-up option -->
+                    {{/* Listserv Platforms with form as sign-up option */}}
                     {{- if and (eq $e.platform "listserv") ( $e.subscribe_form ) -}}
-
                       {{- partial "core/community-join-with-form" (dict "context" . "e" $e) -}}
-
                     {{- end -}}
 
-                    <!-- Google Group platforms -->
+                    {{/* Google Group platforms */}}
                     {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
-
                       {{- partial "core/community-join-google-group" (dict "context" . "e" $e) -}}
-
                     {{- end -}}
 
-                    <!-- Slack platforms -->
+                    {{/* Slack platforms */}}
                     {{- if and (eq $e.platform "slack") ( $e.subscribe_form ) -}}
-
                       {{- partial "core/community-join-slack" (dict "context" . "e" $e) -}}
-
                     {{- end -}}
 
 
-                    {{/* Checking to see if community terms are defined */}}
-                    {{ if $e.terms }}
-                    <p class="terms"><em>{{ $e.terms | markdownify }}</em></p>
-                    {{ else }}
-                    <p class="terms"><em>Anyone with a .gov or .mil email address is eligible to join.</em></p>
-                    {{ end }}
-
+                    {{/*
+                      Community Members
+                      - These are updated manually in the front matter by going to the backend of the listserv platform and entering in the values one by one.
+                    */}}
                     {{- if $e.members -}}
                       <p class="members"><i class="far fa-user"></i> {{ $e.members }} members
                       {{- if $e.emails_per_week }}
                        <br/> <i class="far fa-envelope"></i> Avg. {{ $e.emails_per_week }} emails per week{{- end -}}</p>
                     {{- end -}}
 
+
                   </div>
-
                 </div>
+              {{- end -}}
 
-              {{ end }}
-
-              {{ if .Params.authors }}
+              {{- if .Params.authors -}}
               <div class="community_managers">
+                <h3>Community Managers</h3>
                 {{- partial "core/get_authors" . -}}
               </div>
-              {{ end }}
+              {{- end -}}
 
               <div class="community_admin">
                 <p><a href="https://listserv.gsa.gov/" title="Listserv admin and archive">Listserv admin and archive</a></p>
               </div>
 
             </section>
-            {{ end }}
+            {{- end -}}
           </div>
 
           <div class="grid-col-12 tablet-lg:grid-col-8">
             <div class="content">
-              {{ .Content }}
+              {{- .Content -}}
             </div>
 
             {{- partial "core/feedback" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
