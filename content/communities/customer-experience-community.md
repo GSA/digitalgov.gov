@@ -16,7 +16,8 @@ community_list:
     subscribe_email: annabel.berman@gsa.gov
     subscribe_email_subject: "Join: CX"
     subscribe_form: "https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform"
-    members: 782
+    members: 826
+    emails_per_week: 
 
 ---
 
