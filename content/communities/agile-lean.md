@@ -35,11 +35,11 @@ community_list:
     subscribe_email: "listserv@listserv.gsa.gov"
     subscribe_email_subject: "Join: Accessibility / Section 508"
     subscribe_email_body: "subscribe agile-lean-cop"
-    members: 466
+    members: 509
     emails_per_week: 1.58
 
-
 # Make it better ♥
+
 ---
 
 The Agile/Lean Community of Practice was started to bring together federal employees who are currently working with agile/lean methodologies or would like to learn more about Agile/Lean. We believe that agile/lean concepts can help the federal government become more efficient and effective while delivering better public services to the American citizen.
