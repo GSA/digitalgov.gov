@@ -52,7 +52,8 @@
   position: relative;
   @include u-display('none');
   @include at-media('tablet') {
-    @include u-display('block');
+    // @include u-display('block');
+    @include u-display('none');
   }
   .edit{
     position: fixed;
