@@ -27,7 +27,12 @@
 
     {{- partialCached "core/notice-bar.html" . -}}
     {{- partialCached "core/usa-banner.html" . -}}
+    {{- if eq .Type "guide" -}}
+    {{- partial "core/guides/guide-header.html" . -}}
+    {{- else -}}
     {{- partialCached "core/header.html" . -}}
+    {{- end -}}
+
 
     {{/* Main Content */}}
     {{ block "data" . }}{{ end }}

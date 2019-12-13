@@ -9,6 +9,8 @@ aliases:
   - /services/dap/guidelines-for-sharing-dap-data/
 ---
 
+
+
 ## Data that is publicly shareable
 Any data appearing on our public dashboard ([analytics.usa.gov](https://analytics.usa.gov/)) can be freely communicated or shared. We also [offer an API](https://open.gsa.gov/api/dap/) for the data behind [analytics.usa.gov](https://analytics.usa.gov/), which is powered by a wealth of data from the Digital Analytics Program (DAP) Google Analytics account.
 

@@ -1,5 +1,6 @@
 .card-policy{
 	@include u-margin-bottom(1);
+	@include u-maxw('tablet');
 	button{
 		@include u-padding-y('105');
 		@include u-padding-left(7);

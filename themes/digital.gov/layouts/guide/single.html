@@ -1,43 +1,45 @@
 {{ define "content" }}
 
 <main role="main">
-  <article class="guide">
-    <header>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row">
-          <div class="grid-col-12">
 
-            <p class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span> </a></p>
+  <article>
+    <div class="grid-container grid-container-widescreen">
+      <div class="grid-row grid-gap-4">
 
-            {{/* Page Title */}}
-            <h1 class="font-sans-2xl text-heavy margin-y-0">{{ .Title | markdownify }}</h1>
-            {{/* Deck */}}
-            {{- if .Params.deck -}}
-            <div class="deck font-sans-xl text-light">{{- .Params.deck | markdownify -}}</div>
-            {{- end -}}
-            {{/* {{ partial "last-updated" . }} */}}
-          </div>
+        <div class="grid-col-12 tablet-lg:grid-col-3">
+          {{- partial "core/guides/guide-nav" . -}}
         </div>
-      </div>
-    </header>
 
-    <section>
-      <div class="grid-container grid-container-desktop">
-        <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12 tablet-lg:grid-col-8">
+          <div class="guide-content usa-layout-docs__main usa-prose">
 
-          <div class="grid-col-12 tablet-lg:grid-col-4">
-            {{ partial "core/guide-nav" . }}
-          </div>
+            <div class="page-head">
+              {{/* Page Title */}}
+              <h1>{{- .Title | markdownify -}} </h1>
 
-          <div class="grid-col-12 tablet-lg:grid-col-8">
-            <div class="content">
-              {{ .Content }}
+              {{/* Deck */}}
+              {{- if .Params.deck -}}
+              <div class="usa-intro">{{- .Params.deck | markdownify -}}</div>
+              {{- end -}}
+
+              {{- if .TableOfContents -}}
+              <div class="toc toc-guide">
+                <h2>In this page</h2>
+                {{- .TableOfContents -}}
+              </div>
+              {{- end -}}
+
             </div>
+
+            {{ .Content }}
+
           </div>
 
         </div>
+
       </div>
-    </section>
+    </div>
   </article>
+
 </main>
-{{ end }} {{/* end 'content' block */}}
+{{- end -}} {{/* end 'content' block */}}
