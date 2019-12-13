@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tony-scott
+# https://digital.gov/authors/tony-scott
 
 display_name: "Tony Scott"
 first_name: "Tony"

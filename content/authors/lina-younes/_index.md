@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lina-younes
+# https://digital.gov/authors/lina-younes
 
 display_name: "Lina Younes"
 first_name: "Lina"

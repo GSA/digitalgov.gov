@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-mader
+# https://digital.gov/authors/david-mader
 
 display_name: "David Mader"
 first_name: "David"

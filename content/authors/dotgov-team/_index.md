@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dotgov-team
+# https://digital.gov/authors/dotgov-team
 
 display_name: "DotGov Team"
 first_name: "DotGov"

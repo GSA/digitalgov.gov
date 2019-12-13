@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alvaro-puig
+# https://digital.gov/authors/alvaro-puig
 
 display_name: "Alvaro Puig"
 first_name: "Alvaro"

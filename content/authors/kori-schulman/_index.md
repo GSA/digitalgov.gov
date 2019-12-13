@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kori-schulman
+# https://digital.gov/authors/kori-schulman
 
 display_name: "Kori Schulman"
 first_name: "Kori"

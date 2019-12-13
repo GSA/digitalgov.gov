@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/office-educational-technology
+# https://digital.gov/authors/office-educational-technology
 
 display_name: "Office of Educational Technology"
 first_name: "Office of"

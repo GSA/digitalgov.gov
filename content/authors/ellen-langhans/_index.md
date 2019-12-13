@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ellen-langhans
+# https://digital.gov/authors/ellen-langhans
 
 display_name: "Ellen Langhans"
 first_name: "Ellen"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/davey-gibian
+# https://digital.gov/authors/davey-gibian
 
 display_name: "Davey Gibian"
 first_name: "Davey"

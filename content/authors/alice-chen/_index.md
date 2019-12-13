@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alice-chen
+# https://digital.gov/authors/alice-chen
 
 display_name: "Alice Chen"
 first_name: "Alice"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/bsteele
+# https://digital.gov/authors/bsteele
 
 display_name: "Betsy Steele"
 first_name: "Betsy"

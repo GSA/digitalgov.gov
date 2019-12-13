@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/omid-ghaffari-tabrizi
+# https://digital.gov/authors/omid-ghaffari-tabrizi
 
 display_name: "Omid Ghaffari-Tabrizi"
 first_name: "Omid"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/brian-forde
+# https://digital.gov/authors/brian-forde
 
 display_name: "Brian Forde"
 first_name: "Brian"

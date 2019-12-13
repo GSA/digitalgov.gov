@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alberto-navas
+# https://digital.gov/authors/alberto-navas
 
 display_name: "Alberto Navas"
 first_name: "Alberto"

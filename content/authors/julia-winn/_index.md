@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/julia-winn
+# https://digital.gov/authors/julia-winn
 
 display_name: "Julia Winn"
 first_name: "Julia"

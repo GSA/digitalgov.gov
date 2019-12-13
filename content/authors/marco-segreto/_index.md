@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/marco-segreto
+# https://digital.gov/authors/marco-segreto
 
 display_name: "Marco Segreto"
 first_name: "Marco"

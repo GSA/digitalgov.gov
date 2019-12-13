@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/clarice-chan
+# https://digital.gov/authors/clarice-chan
 
 display_name: "Clarice Chan"
 first_name: "Clarice"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/andrea-sanchez
+# https://digital.gov/authors/andrea-sanchez
 
 display_name: "Andrea Sanchez"
 first_name: "Andrea"

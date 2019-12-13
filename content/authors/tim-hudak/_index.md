@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tim-hudak
+# https://digital.gov/authors/tim-hudak
 
 display_name: "Tim Hudak"
 first_name: "Tim"

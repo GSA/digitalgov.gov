@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/andre-francisco
+# https://digital.gov/authors/andre-francisco
 
 display_name: "Andre Francisco"
 first_name: "Andre Francisco"

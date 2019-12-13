@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/craig-chavez
+# https://digital.gov/authors/craig-chavez
 
 display_name: "Craig Chavez"
 first_name: "Craig"

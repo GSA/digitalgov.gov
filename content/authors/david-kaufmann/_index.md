@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-kaufmann
+# https://digital.gov/authors/david-kaufmann
 
 display_name: "David Kaufmann"
 first_name: "David"

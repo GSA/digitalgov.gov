@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kelley-smith
+# https://digital.gov/authors/kelley-smith
 
 display_name: "Kelley Smith"
 first_name: "Kelley"

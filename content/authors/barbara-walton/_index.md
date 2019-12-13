@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/barbara-walton
+# https://digital.gov/authors/barbara-walton
 
 display_name: "Barbara Walton"
 first_name: "Barbara"

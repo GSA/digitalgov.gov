@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/cm-lubinski
+# https://digital.gov/authors/cm-lubinski
 
 display_name: "CM Lubinski"
 first_name: "CM"

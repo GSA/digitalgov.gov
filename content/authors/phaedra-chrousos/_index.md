@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/phaedra-chrousos
+# https://digital.gov/authors/phaedra-chrousos
 
 display_name: "Phaedra Chrousos"
 first_name: "Phaedra"

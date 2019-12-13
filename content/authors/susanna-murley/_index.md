@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/susanna-murley
+# https://digital.gov/authors/susanna-murley
 
 display_name: "Susanna Murley"
 first_name: "Susanna"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/loren-siebert
+# https://digital.gov/authors/loren-siebert
 
 display_name: "Loren Siebert"
 first_name: "Loren"

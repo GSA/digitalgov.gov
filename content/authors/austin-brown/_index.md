@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/austin-brown
+# https://digital.gov/authors/austin-brown
 
 display_name: "Austin Brown"
 first_name: "Austin"

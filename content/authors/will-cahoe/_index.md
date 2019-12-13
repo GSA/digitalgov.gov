@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/will-cahoe
+# https://digital.gov/authors/will-cahoe
 
 display_name: "Will Cahoe"
 first_name: "Will"

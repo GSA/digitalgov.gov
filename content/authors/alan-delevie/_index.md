@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alan-delevie
+# https://digital.gov/authors/alan-delevie
 
 display_name: "Alan DeLevie"
 first_name: "Alan"

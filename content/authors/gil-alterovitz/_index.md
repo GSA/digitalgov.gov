@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/gil-alterovitz
+# https://digital.gov/authors/gil-alterovitz
 
 display_name: "Gil Alterovitz, PhD"
 first_name: "Gil"

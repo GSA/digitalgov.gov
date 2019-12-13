@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/carrie-hessler-radelet
+# https://digital.gov/authors/carrie-hessler-radelet
 
 display_name: "Carrie Hessler-Radelet"
 first_name: "Carrie"

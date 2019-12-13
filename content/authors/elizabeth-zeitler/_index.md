@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/elizabeth-zeitler
+# https://digital.gov/authors/elizabeth-zeitler
 
 display_name: "Elizabeth Zeitler"
 first_name: "Elizabeth"

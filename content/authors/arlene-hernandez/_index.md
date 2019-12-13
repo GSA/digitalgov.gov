@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/arlene-hernandez
+# https://digital.gov/authors/arlene-hernandez
 
 display_name: "Arlene Hernandez"
 first_name: "Arlene"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/katie-messner
+# https://digital.gov/authors/katie-messner
 
 display_name: "Katie Messner"
 first_name: "Katie"

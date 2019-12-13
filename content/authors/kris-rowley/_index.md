@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kris-rowley
+# https://digital.gov/authors/kris-rowley
 
 display_name: "Kris Rowley"
 first_name: "Kris"

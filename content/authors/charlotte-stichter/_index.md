@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/charlotte-stichter
+# https://digital.gov/authors/charlotte-stichter
 
 display_name: "Charlotte Stichter"
 first_name: "Charlotte"

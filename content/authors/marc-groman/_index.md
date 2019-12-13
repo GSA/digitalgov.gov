@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/marc-groman
+# https://digital.gov/authors/marc-groman
 
 display_name: "Marc Groman"
 first_name: "Marc"

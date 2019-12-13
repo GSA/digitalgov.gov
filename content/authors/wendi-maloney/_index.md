@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/wendi-maloney
+# https://digital.gov/authors/wendi-maloney
 
 display_name: "Wendi Maloney"
 first_name: "Wendi"

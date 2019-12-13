@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/stephanie-dromerick
+# https://digital.gov/authors/stephanie-dromerick
 
 display_name: "Stephanie Dromerick"
 first_name: "Stephanie"

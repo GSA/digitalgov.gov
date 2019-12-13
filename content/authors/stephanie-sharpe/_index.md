@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/stephanie-sharpe
+# https://digital.gov/authors/stephanie-sharpe
 
 display_name: "Stephanie Sharpe"
 first_name: "Stephanie"

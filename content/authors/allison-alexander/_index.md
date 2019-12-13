@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/allison-alexander
+# https://digital.gov/authors/allison-alexander
 
 display_name: "Allison Alexander"
 first_name: "Allison"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nick-marden
+# https://digital.gov/authors/nick-marden
 
 display_name: "Nick Marden"
 first_name: "Nick"

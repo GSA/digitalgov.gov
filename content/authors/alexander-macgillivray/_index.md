@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alexander-macgillivray
+# https://digital.gov/authors/alexander-macgillivray
 
 display_name: "Alexander Macgillivray"
 first_name: "Alexander"

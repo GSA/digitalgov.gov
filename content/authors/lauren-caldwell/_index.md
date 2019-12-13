@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lauren-caldwell
+# https://digital.gov/authors/lauren-caldwell
 
 display_name: "Lauren Caldwell"
 first_name: "Lauren"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ammie-farraj-feijoo
+# https://digital.gov/authors/ammie-farraj-feijoo
 
 display_name: "Ammie Farraj Feijoo"
 first_name: "Ammie"

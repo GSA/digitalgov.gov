@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jay-benforado
+# https://digital.gov/authors/jay-benforado
 
 display_name: "Jay Benforado"
 first_name: "Jay"

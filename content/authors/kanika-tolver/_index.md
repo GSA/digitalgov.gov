@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kanika-tolver
+# https://digital.gov/authors/kanika-tolver
 
 display_name: "Kanika Tolver"
 first_name: "Kanika"

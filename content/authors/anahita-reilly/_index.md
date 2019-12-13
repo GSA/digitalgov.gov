@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/anahita-reilly
+# https://digital.gov/authors/anahita-reilly
 
 display_name: "Anahita Reilly"
 first_name: "Anahita"

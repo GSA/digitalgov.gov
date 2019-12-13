@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jeremyzilar
+# https://digital.gov/authors/jeremyzilar
 
 display_name: "Jeremy Zilar"
 first_name: "Jeremy"

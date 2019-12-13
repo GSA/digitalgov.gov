@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/g-nagesh-rao
+# https://digital.gov/authors/g-nagesh-rao
 
 display_name: "G. Nagesh Rao"
 first_name: "G. Nagesh"

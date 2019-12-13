@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kristy-singletary
+# https://digital.gov/authors/kristy-singletary
 
 display_name: "Kristy Singletary"
 first_name: "Kristy"

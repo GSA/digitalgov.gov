@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/carolyn-hinkley
+# https://digital.gov/authors/carolyn-hinkley
 
 display_name: "Carolyn Hinkley"
 first_name: "Carolyn"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/minette-wilson
+# https://digital.gov/authors/minette-wilson
 
 display_name: "Minette Wilson"
 first_name: "Minette"

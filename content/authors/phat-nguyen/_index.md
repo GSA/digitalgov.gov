@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/phat-nguyen
+# https://digital.gov/authors/phat-nguyen
 
 display_name: "Phat Nguyen"
 first_name: "Phat"

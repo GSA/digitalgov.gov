@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/the-commerce-blog
+# https://digital.gov/authors/the-commerce-blog
 
 display_name: "The Commerce Blog"
 first_name: "Commerce"

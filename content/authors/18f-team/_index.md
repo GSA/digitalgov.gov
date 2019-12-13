@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/18f-team
+# https://digital.gov/authors/18f-team
 
 display_name: "18F Team"
 first_name: "18F"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/erica-groshen
+# https://digital.gov/authors/erica-groshen
 
 display_name: "Erica L. Groshen"
 first_name: "Erica"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/fedramp
+# https://digital.gov/authors/fedramp
 
 display_name: "FedRAMP"
 first_name: "Federal Risk and"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-herring
+# https://digital.gov/authors/david-herring
 
 display_name: "David Herring"
 first_name: "David"

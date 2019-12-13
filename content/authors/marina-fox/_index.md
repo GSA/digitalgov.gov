@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/marina-fox
+# https://digital.gov/authors/marina-fox
 
 display_name: "Marina Fox"
 first_name: "Marina"

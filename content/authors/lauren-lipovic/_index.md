@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lauren-lipovic
+# https://digital.gov/authors/lauren-lipovic
 
 display_name: "Lauren Lipovic"
 first_name: "Lauren"

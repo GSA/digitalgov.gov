@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/toni-bonitto
+# https://digital.gov/authors/toni-bonitto
 
 display_name: "Toni Bonitto"
 first_name: "Toni"

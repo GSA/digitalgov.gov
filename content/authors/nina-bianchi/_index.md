@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nina-bianchi
+# https://digital.gov/authors/nina-bianchi
 
 display_name: "Nina Bianchi"
 first_name: "Nina"

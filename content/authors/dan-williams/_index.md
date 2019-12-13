@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dan-williams
+# https://digital.gov/authors/dan-williams
 
 display_name: "Dan Williams"
 first_name: "Dan"

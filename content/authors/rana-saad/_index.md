@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/rana-saad
+# https://digital.gov/authors/rana-saad
 
 display_name: "Rana Saad"
 first_name: "Rana"

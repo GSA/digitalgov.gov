@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/andrew-j-stauffer
+# https://digital.gov/authors/andrew-j-stauffer
 
 display_name: "Andrew J. Stauffer"
 first_name: "Andrew"

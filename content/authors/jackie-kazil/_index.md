@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jackie-kazil
+# https://digital.gov/authors/jackie-kazil
 
 display_name: "Jackie Kazil"
 first_name: "Jackie"

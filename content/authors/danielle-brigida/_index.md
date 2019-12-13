@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/danielle-brigida
+# https://digital.gov/authors/danielle-brigida
 
 display_name: "Danielle Brigida"
 first_name: "Danielle"

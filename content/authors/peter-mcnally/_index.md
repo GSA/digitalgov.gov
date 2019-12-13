@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/peter-mcnally
+# https://digital.gov/authors/peter-mcnally
 
 display_name: "Peter McNally"
 first_name: "Peter"

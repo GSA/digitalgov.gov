@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/brian-dunbar
+# https://digital.gov/authors/brian-dunbar
 
 display_name: "Brian Dunbar"
 first_name: "Brian"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/michael-pulsifer
+# https://digital.gov/authors/michael-pulsifer
 
 display_name: "Michael Pulsifer"
 first_name: "Michael"

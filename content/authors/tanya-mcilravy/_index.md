@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tanya-mcilravy
+# https://digital.gov/authors/tanya-mcilravy
 
 display_name: "Tanya McIlravy"
 first_name: "Tanya"

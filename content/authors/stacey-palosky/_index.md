@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/stacey-palosky
+# https://digital.gov/authors/stacey-palosky
 
 display_name: "Stacey Palosky"
 first_name: "Stacey"

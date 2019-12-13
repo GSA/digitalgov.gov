@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ryan-sibley
+# https://digital.gov/authors/ryan-sibley
 
 display_name: "Ryan Sibley"
 first_name: "Ryan"

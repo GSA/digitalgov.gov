@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ted-boling
+# https://digital.gov/authors/ted-boling
 
 display_name: "Ted Boling"
 first_name: "Ted"

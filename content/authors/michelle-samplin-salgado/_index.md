@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/michelle-samplin-salgado
+# https://digital.gov/authors/michelle-samplin-salgado
 
 display_name: "Michelle Samplin-Salgado"
 first_name: "Michelle"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nist-mep
+# https://digital.gov/authors/nist-mep
 
 display_name: "NIST MEP"
 first_name: "NIST"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/zach-goldfine
+# https://digital.gov/authors/zach-goldfine
 
 display_name: "Zach Goldfine"
 first_name: "Zach"

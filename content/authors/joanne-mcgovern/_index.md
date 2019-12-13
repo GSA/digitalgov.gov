@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/joanne-mcgovern
+# https://digital.gov/authors/joanne-mcgovern
 
 display_name: "Joanne McGovern"
 first_name: "Joanne"

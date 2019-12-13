@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/adam-wong
+# https://digital.gov/authors/adam-wong
 
 display_name: "Adam Wong"
 first_name: "Adam"

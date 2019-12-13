@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/hannah-gladfelter-rubin
+# https://digital.gov/authors/hannah-gladfelter-rubin
 
 display_name: "Hannah Gladfelter Rubin"
 first_name: "Hannah Gladfelter"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/phillip-crawford
+# https://digital.gov/authors/phillip-crawford
 
 display_name: "Phillip Crawford"
 first_name: "Phillip"

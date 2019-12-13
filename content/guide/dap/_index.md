@@ -21,7 +21,7 @@ The Digital Analytics Program (DAP) offers a web analytics tool, training, and s
 - Free web analytics tools for public-facing federal websites that are comprehensive and easy-to-use
 - Scalable infrastructure for measuring a broad range of .gov sites (large and small)
 - Training on analytics tools and reporting
-    - [View upcoming trainings and talks »](https://demo.digital.gov/events/) 
+    - [View upcoming trainings and talks »](https://digital.gov/events/) 
     - [View past recorded trainings »](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) 
     - Ongoing help-desk support around implementation, data, and reporting
 

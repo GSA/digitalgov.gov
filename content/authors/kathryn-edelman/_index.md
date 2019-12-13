@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kathryn-edelman
+# https://digital.gov/authors/kathryn-edelman
 
 display_name: "Kathryn Edelman"
 first_name: "Kathryn"

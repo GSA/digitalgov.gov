@@ -26,7 +26,7 @@
               {{- range $i, $author := $authors -}}
                 {{ if .Params.uid }}
                   {{ $link := printf "authors/%s/" .Params.uid }}
-                  <div class="author grid-row" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+                  <div class="author grid-row" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
                     <div class="grid-col-auto">
                       <div class="photo">
                         {{- if $author.Params.github -}}

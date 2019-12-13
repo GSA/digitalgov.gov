@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dr-taha-kass-hout
+# https://digital.gov/authors/dr-taha-kass-hout
 
 display_name: "Dr. Taha Kass-Hout"
 first_name: "Taha"

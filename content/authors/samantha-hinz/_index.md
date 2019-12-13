@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/samantha-hinz
+# https://digital.gov/authors/samantha-hinz
 
 display_name: "Samantha Hinz"
 first_name: "Samantha"

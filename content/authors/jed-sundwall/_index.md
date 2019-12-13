@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jed-sundwall
+# https://digital.gov/authors/jed-sundwall
 
 display_name: "Jed Sundwall"
 first_name: "Jed"

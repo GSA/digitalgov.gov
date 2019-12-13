@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/scott-horvath
+# https://digital.gov/authors/scott-horvath
 
 display_name: "Scott Horvath"
 first_name: "Scott"

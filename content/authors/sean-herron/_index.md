@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sean-herron
+# https://digital.gov/authors/sean-herron
 
 display_name: "Sean Herron"
 first_name: "Sean"

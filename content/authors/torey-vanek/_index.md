@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/torey-vanek
+# https://digital.gov/authors/torey-vanek
 
 display_name: "Torey Vanek"
 first_name: "Torey"

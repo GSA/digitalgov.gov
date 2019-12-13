@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/cfpb-digital-analytics-team
+# https://digital.gov/authors/cfpb-digital-analytics-team
 
 display_name: "CFPB Digital Analytics Team"
 first_name: "CFPB"

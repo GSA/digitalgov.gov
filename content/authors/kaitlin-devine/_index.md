@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kaitlin-devine
+# https://digital.gov/authors/kaitlin-devine
 
 display_name: "Kaitlin Devine"
 first_name: "Kaitlin"

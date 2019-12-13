@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/howard-shelanski
+# https://digital.gov/authors/howard-shelanski
 
 display_name: "Howard Shelanski"
 first_name: "Howard"

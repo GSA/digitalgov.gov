@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/davar-ardalan
+# https://digital.gov/authors/davar-ardalan
 
 display_name: "Davar Ardalan"
 first_name: "Davar"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/steven-vanroekel
+# https://digital.gov/authors/steven-vanroekel
 
 display_name: "Steven VanRoekel"
 first_name: "Steven"

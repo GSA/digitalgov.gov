@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kdowney
+# https://digital.gov/authors/kdowney
 
 display_name: "Kevin Downey"
 first_name: "Kevin"

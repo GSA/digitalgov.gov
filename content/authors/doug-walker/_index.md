@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/doug-walker
+# https://digital.gov/authors/doug-walker
 
 display_name: "Doug Walker"
 first_name: "Doug"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/matt-goodrich
+# https://digital.gov/authors/matt-goodrich
 
 display_name: "Matt Goodrich"
 first_name: "Matt"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/foo-qaz
+# https://digital.gov/authors/foo-qaz
 
 display_name: "Foo B. Qaz"
 first_name: "Foo"

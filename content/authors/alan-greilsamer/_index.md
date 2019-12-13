@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alan-greilsamer
+# https://digital.gov/authors/alan-greilsamer
 
 display_name: "Alan Greilsamer"
 first_name: "Alan"

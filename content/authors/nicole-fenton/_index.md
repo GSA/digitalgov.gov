@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nicole-fenton
+# https://digital.gov/authors/nicole-fenton
 
 display_name: "Nicole Fenton"
 first_name: "Nicole"

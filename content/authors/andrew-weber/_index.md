@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/andrew-weber
+# https://digital.gov/authors/andrew-weber
 
 display_name: "Andrew Weber"
 first_name: "Andrew"

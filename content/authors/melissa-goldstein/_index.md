@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/melissa-goldstein
+# https://digital.gov/authors/melissa-goldstein
 
 display_name: "Melissa Goldstein"
 first_name: "Melissa"

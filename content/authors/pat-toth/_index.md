@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/pat-toth
+# https://digital.gov/authors/pat-toth
 
 display_name: "Pat Toth"
 first_name: "Pat"

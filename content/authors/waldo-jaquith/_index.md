@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/waldo-jaquith
+# https://digital.gov/authors/waldo-jaquith
 
 display_name: "Waldo Jaquith"
 first_name: "Waldo"

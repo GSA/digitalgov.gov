@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/will-slack
+# https://digital.gov/authors/will-slack
 
 display_name: "Will Slack"
 first_name: "Will"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jparcell
+# https://digital.gov/authors/jparcell
 
 display_name: "Jacob Parcell"
 first_name: "Jacob"

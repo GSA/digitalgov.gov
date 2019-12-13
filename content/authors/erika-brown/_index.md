@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/erika-brown
+# https://digital.gov/authors/erika-brown
 
 display_name: "Erika Brown"
 first_name: "Erika"

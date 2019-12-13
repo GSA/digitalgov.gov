@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/john-grill
+# https://digital.gov/authors/john-grill
 
 display_name: "John Grill"
 first_name: "John"

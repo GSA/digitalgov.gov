@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dominic-mcdevitt-parks
+# https://digital.gov/authors/dominic-mcdevitt-parks
 
 display_name: "Dominic McDevitt-Parks"
 first_name: "Dominic"

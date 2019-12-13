@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/margot-lawton-kern
+# https://digital.gov/authors/margot-lawton-kern
 
 display_name: "Margot Lawton Kern"
 first_name: "Margot Lawton"

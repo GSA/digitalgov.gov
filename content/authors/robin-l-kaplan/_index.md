@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/robin-l-kaplan
+# https://digital.gov/authors/robin-l-kaplan
 
 display_name: "Robin L. Kaplan"
 first_name: "Robin"

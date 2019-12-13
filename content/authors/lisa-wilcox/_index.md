@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lisa-wilcox
+# https://digital.gov/authors/lisa-wilcox
 
 display_name: "Lisa Wilcox"
 first_name: "Lisa"

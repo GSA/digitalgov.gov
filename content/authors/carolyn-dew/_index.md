@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/carolyn-dew
+# https://digital.gov/authors/carolyn-dew
 
 display_name: "Carolyn Dew"
 first_name: "Carolyn"

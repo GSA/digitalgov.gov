@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/meredith-stewart
+# https://digital.gov/authors/meredith-stewart
 
 display_name: "Meredith Stewart"
 first_name: "Meredith"

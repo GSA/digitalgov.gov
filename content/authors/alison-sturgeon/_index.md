@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alison-sturgeon
+# https://digital.gov/authors/alison-sturgeon
 
 display_name: "Alison Sturgeon"
 first_name: "Alison"

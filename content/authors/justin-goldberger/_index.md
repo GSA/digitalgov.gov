@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/justin-goldberger
+# https://digital.gov/authors/justin-goldberger
 
 display_name: "Justin Goldberger"
 first_name: "Justin"

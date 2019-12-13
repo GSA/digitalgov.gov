@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/albert-palacios
+# https://digital.gov/authors/albert-palacios
 
 display_name: "Albert Palacios"
 first_name: "Albert"

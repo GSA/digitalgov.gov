@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/gwynne-kostin
+# https://digital.gov/authors/gwynne-kostin
 
 display_name: "Gwynne Kostin"
 first_name: "Gwynne Kostin"

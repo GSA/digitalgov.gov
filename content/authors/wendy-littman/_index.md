@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/wendy-littman
+# https://digital.gov/authors/wendy-littman
 
 display_name: "Wendy Littman"
 first_name: "Wendy"

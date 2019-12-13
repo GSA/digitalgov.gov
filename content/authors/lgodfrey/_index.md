@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lgodfrey
+# https://digital.gov/authors/lgodfrey
 
 display_name: "Laura Godfrey"
 first_name: "Laura"

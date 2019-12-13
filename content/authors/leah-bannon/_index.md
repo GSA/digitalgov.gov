@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/leah-bannon
+# https://digital.gov/authors/leah-bannon
 
 display_name: "Leah Bannon"
 first_name: "Leah"

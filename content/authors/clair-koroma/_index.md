@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/clair-koroma
+# https://digital.gov/authors/clair-koroma
 
 display_name: "Clair Koroma"
 first_name: "Clair"

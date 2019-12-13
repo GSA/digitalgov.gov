@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/julia-elman
+# https://digital.gov/authors/julia-elman
 
 display_name: "Julia Elman"
 first_name: "Julia"

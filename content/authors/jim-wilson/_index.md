@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jim-wilson
+# https://digital.gov/authors/jim-wilson
 
 display_name: "Jim Wilson"
 first_name: "Jim"

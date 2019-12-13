@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/rachel-mundstock
+# https://digital.gov/authors/rachel-mundstock
 
 display_name: "Rachel Mundstock"
 first_name: "Rachel"

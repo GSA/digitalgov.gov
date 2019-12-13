@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kathryn-hambleton
+# https://digital.gov/authors/kathryn-hambleton
 
 display_name: "Kathryn Hambleton"
 first_name: "Kathryn"

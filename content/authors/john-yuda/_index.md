@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/john-yuda
+# https://digital.gov/authors/john-yuda
 
 display_name: "John Yuda"
 first_name: "John"

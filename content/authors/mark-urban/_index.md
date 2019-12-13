@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mark-urban
+# https://digital.gov/authors/mark-urban
 
 display_name: "Mark Urban"
 first_name: "Mark"

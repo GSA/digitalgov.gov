@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nathan-smith
+# https://digital.gov/authors/nathan-smith
 
 display_name: "Nathan Smith"
 first_name: "Nathan"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/coqui-aspiazu
+# https://digital.gov/authors/coqui-aspiazu
 
 display_name: "Coqui Aspiazu"
 first_name: "Maria"

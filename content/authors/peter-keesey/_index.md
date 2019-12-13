@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/peter-keesey
+# https://digital.gov/authors/peter-keesey
 
 display_name: "Peter Keesey"
 first_name: "Peter"

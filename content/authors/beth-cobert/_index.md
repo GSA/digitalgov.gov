@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/beth-cobert
+# https://digital.gov/authors/beth-cobert
 
 display_name: "Beth Cobert"
 first_name: "Beth"

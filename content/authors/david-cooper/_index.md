@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-cooper
+# https://digital.gov/authors/david-cooper
 
 display_name: "David Cooper"
 first_name: "David"

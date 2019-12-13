@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jesse-taggert
+# https://digital.gov/authors/jesse-taggert
 
 display_name: "Jesse Taggert"
 first_name: "Jesse"

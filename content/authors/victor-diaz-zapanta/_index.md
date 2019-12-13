@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/victor-diaz-zapanta
+# https://digital.gov/authors/victor-diaz-zapanta
 
 display_name: "Victor Diaz Zapanta"
 first_name: "Victor Diaz"

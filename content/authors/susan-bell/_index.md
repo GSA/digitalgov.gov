@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/susan-bell
+# https://digital.gov/authors/susan-bell
 
 display_name: "Susan Bell"
 first_name: "Susan"

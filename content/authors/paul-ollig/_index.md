@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/paul-ollig
+# https://digital.gov/authors/paul-ollig
 
 display_name: "Paul Ollig"
 first_name: "Paul"

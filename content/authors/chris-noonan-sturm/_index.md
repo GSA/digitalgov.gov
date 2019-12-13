@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/chris-noonan-sturm
+# https://digital.gov/authors/chris-noonan-sturm
 
 display_name: "Chris Noonan Sturm"
 first_name: "Chris"

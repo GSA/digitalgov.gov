@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kristen-honey
+# https://digital.gov/authors/kristen-honey
 
 display_name: "Kristen Honey, PhD"
 first_name: "Kristen"

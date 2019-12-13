@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nkunin
+# https://digital.gov/authors/nkunin
 
 display_name: "Noah Kunin"
 first_name: "Noah"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/victoria-mcfadden
+# https://digital.gov/authors/victoria-mcfadden
 
 display_name: "Victoria McFadden"
 first_name: "Victoria"

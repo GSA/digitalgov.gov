@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/zachary-lerner
+# https://digital.gov/authors/zachary-lerner
 
 display_name: "Zachary Lerner"
 first_name: "Zachary"

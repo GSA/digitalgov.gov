@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jenny-johnson
+# https://digital.gov/authors/jenny-johnson
 
 display_name: "Jennifer Johnson"
 first_name: "Jennifer"

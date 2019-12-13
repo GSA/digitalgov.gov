@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sylvia-hernandez
+# https://digital.gov/authors/sylvia-hernandez
 
 display_name: "Sylvia Hernandez"
 first_name: "Sylvia"

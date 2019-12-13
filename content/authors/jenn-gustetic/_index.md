@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jenn-gustetic
+# https://digital.gov/authors/jenn-gustetic
 
 display_name: "Jenn Gustetic"
 first_name: "Jenn"

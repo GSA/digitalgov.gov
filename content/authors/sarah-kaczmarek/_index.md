@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sarah-kaczmarek
+# https://digital.gov/authors/sarah-kaczmarek
 
 display_name: "Sarah Kaczmarek"
 first_name: "Sarah"

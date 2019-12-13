@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ori-hoffer
+# https://digital.gov/authors/ori-hoffer
 
 display_name: "Ori Hoffer"
 first_name: "Ori"

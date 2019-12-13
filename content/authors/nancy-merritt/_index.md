@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nancy-merritt
+# https://digital.gov/authors/nancy-merritt
 
 display_name: "Nancy Merritt"
 first_name: "Nancy"

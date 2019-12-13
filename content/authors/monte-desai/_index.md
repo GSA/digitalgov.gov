@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/monte-desai
+# https://digital.gov/authors/monte-desai
 
 display_name: "Monte Desai"
 first_name: "Monte"

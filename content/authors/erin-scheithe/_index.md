@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/erin-scheithe
+# https://digital.gov/authors/erin-scheithe
 
 display_name: "Erin Scheithe"
 first_name: "Erin"

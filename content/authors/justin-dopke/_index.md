@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/justin-dopke
+# https://digital.gov/authors/justin-dopke
 
 display_name: "Justin Dopke"
 first_name: "Justin"

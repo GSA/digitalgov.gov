@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/carolyn-kaleel
+# https://digital.gov/authors/carolyn-kaleel
 
 display_name: "Carolyn Kaleel"
 first_name: "Carolyn"

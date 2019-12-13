@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/michael-harding
+# https://digital.gov/authors/michael-harding
 
 display_name: "Michael Harding"
 first_name: "Michael"

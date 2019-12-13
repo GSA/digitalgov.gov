@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/candace-vahlsing
+# https://digital.gov/authors/candace-vahlsing
 
 display_name: "Candace Vahlsing"
 first_name: "Candace"

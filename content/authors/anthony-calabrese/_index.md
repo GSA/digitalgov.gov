@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/anthony-calabrese
+# https://digital.gov/authors/anthony-calabrese
 
 display_name: "Anthony Calabrese"
 first_name: "Anthony"

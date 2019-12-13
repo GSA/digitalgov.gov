@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/chris-lu
+# https://digital.gov/authors/chris-lu
 
 display_name: "Chris Lu"
 first_name: "Chris"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/candace-maynard
+# https://digital.gov/authors/candace-maynard
 
 display_name: "Candace Maynard"
 first_name: "Candace"

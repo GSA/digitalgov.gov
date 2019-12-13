@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sam-bronson
+# https://digital.gov/authors/sam-bronson
 
 display_name: "Sam Bronson"
 first_name: "Sam"

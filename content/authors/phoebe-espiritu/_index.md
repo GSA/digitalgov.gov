@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/phoebe-espiritu
+# https://digital.gov/authors/phoebe-espiritu
 
 display_name: "Phoebe Espiritu"
 first_name: "Phoebe"

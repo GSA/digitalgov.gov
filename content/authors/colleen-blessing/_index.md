@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/colleen-blessing
+# https://digital.gov/authors/colleen-blessing
 
 display_name: "Colleen Blessing"
 first_name: "Colleen"

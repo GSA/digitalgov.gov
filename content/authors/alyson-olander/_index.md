@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alyson-olander
+# https://digital.gov/authors/alyson-olander
 
 display_name: "Alyson Olander"
 first_name: "Alyson"

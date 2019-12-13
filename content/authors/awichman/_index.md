@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/awichman
+# https://digital.gov/authors/awichman
 
 display_name: "Ashley Wichman"
 first_name: "Ashley"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/peter-rhee
+# https://digital.gov/authors/peter-rhee
 
 display_name: "Peter Rhee"
 first_name: "Peter"

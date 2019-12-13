@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jthalls
+# https://digital.gov/authors/jthalls
 
 display_name: "Janelle Thalls"
 first_name: "Janelle"

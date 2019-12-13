@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/greg-walker
+# https://digital.gov/authors/greg-walker
 
 display_name: "Greg Walker"
 first_name: "Greg"

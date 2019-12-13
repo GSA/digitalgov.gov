@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kim-vitelli
+# https://digital.gov/authors/kim-vitelli
 
 display_name: "Kim Vitelli"
 first_name: "Kim"

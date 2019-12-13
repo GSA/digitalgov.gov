@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/apiazza
+# https://digital.gov/authors/apiazza
 
 display_name: "Alycia Piazza"
 first_name: "Alycia"

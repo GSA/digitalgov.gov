@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sarah-ward
+# https://digital.gov/authors/sarah-ward
 
 display_name: "Sarah Ward"
 first_name: "Sarah"

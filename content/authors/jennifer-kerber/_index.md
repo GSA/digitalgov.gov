@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jennifer-kerber
+# https://digital.gov/authors/jennifer-kerber
 
 display_name: "Jennifer Kerber"
 first_name: "Jennifer"

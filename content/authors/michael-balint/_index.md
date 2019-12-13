@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/michael-balint
+# https://digital.gov/authors/michael-balint
 
 display_name: "Michael Balint"
 first_name: "Michael"

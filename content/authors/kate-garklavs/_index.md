@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kate-garklavs
+# https://digital.gov/authors/kate-garklavs
 
 display_name: "Kate Garklavs"
 first_name: "Kate"

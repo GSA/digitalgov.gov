@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mary-davie
+# https://digital.gov/authors/mary-davie
 
 display_name: "Mary Davie"
 first_name: "Mary"

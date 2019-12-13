@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/michael-niedzwiecki
+# https://digital.gov/authors/michael-niedzwiecki
 
 display_name: "Michael Niedzwiecki"
 first_name: "Michael"

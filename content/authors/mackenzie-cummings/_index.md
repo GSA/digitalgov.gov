@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mackenzie-cummings
+# https://digital.gov/authors/mackenzie-cummings
 
 display_name: "Mackenzie Cummings"
 first_name: "Mackenzie"

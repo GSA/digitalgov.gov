@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/eric-beidel
+# https://digital.gov/authors/eric-beidel
 
 display_name: "Eric Beidel"
 first_name: "Eric"

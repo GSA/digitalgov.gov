@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/usajobs-team
+# https://digital.gov/authors/usajobs-team
 
 display_name: "USAJOBS Team"
 first_name: "USAJOBS"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/andrea-m-castelluccio
+# https://digital.gov/authors/andrea-m-castelluccio
 
 display_name: "Andrea M. Castelluccio"
 first_name: "Andrea"

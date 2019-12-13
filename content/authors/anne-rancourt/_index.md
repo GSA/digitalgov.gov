@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/anne-rancourt
+# https://digital.gov/authors/anne-rancourt
 
 display_name: "Anne Rancourt"
 first_name: "Anne"

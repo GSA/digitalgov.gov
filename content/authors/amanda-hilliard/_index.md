@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/amanda-hilliard
+# https://digital.gov/authors/amanda-hilliard
 
 display_name: "Amanda Hilliard"
 first_name: "Amanda"

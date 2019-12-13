@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/corina-dubois
+# https://digital.gov/authors/corina-dubois
 
 display_name: "Corina DuBois"
 first_name: "Corina"

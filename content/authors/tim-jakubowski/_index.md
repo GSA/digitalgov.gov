@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tim-jakubowski
+# https://digital.gov/authors/tim-jakubowski
 
 display_name: "Tim Jakubowski"
 first_name: "Tim"

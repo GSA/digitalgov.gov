@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tlowden
+# https://digital.gov/authors/tlowden
 
 display_name: "Tim Lowden"
 first_name: "Tim"

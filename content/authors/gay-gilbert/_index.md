@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/gay-gilbert
+# https://digital.gov/authors/gay-gilbert
 
 display_name: "Gay Gilbert"
 first_name: "Gay"

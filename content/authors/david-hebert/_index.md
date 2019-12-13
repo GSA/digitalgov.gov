@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-hebert
+# https://digital.gov/authors/david-hebert
 
 display_name: "David Hebert"
 first_name: "David"

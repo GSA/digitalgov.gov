@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mobilegov-team
+# https://digital.gov/authors/mobilegov-team
 
 display_name: "MobileGov Team"
 first_name: "MobileGov"

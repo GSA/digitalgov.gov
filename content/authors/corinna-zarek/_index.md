@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/corinna-zarek
+# https://digital.gov/authors/corinna-zarek
 
 display_name: "Corinna Zarek"
 first_name: "Corinna"

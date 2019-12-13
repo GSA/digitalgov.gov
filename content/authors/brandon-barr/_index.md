@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/brandon-barr
+# https://digital.gov/authors/brandon-barr
 
 display_name: "Brandon Barr"
 first_name: "Brandon"

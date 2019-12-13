@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/brenda-wensil
+# https://digital.gov/authors/brenda-wensil
 
 display_name: "Brenda Wensil"
 first_name: "Brenda"

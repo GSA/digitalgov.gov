@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/anne-rung
+# https://digital.gov/authors/anne-rung
 
 display_name: "Anne Rung"
 first_name: "Anne"

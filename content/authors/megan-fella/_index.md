@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/megan-fella
+# https://digital.gov/authors/megan-fella
 
 display_name: "Megan Fella"
 first_name: "Megan"

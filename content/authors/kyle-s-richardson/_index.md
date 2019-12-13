@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kyle-s-richardson
+# https://digital.gov/authors/kyle-s-richardson
 
 display_name: "Kyle S. Richardson"
 first_name: "Kyle"

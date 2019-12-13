@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dan-kenny
+# https://digital.gov/authors/dan-kenny
 
 display_name: "Dan Kenny"
 first_name: "Dan"

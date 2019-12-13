@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/leah-stewart
+# https://digital.gov/authors/leah-stewart
 
 display_name: "Leah Stewart"
 first_name: "Leah"

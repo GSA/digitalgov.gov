@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/genevieve-contey
+# https://digital.gov/authors/genevieve-contey
 
 display_name: "Genevieve Contey"
 first_name: "Genevieve"

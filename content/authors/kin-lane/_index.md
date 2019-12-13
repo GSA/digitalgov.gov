@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kin-lane
+# https://digital.gov/authors/kin-lane
 
 display_name: "Kin Lane"
 first_name: "Kin"

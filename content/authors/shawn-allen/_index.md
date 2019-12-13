@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/shawn-allen
+# https://digital.gov/authors/shawn-allen
 
 display_name: "Shawn Allen"
 first_name: "Shawn"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sharon-lozano
+# https://digital.gov/authors/sharon-lozano
 
 display_name: "Sharon Lozano"
 first_name: "Sharon"

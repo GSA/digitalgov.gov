@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/stacey-sarris
+# https://digital.gov/authors/stacey-sarris
 
 display_name: "Stacey Sarris"
 first_name: "Stacey"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/darlene-gamble
+# https://digital.gov/authors/darlene-gamble
 
 display_name: "Darlene Gamble"
 first_name: "Darlene"

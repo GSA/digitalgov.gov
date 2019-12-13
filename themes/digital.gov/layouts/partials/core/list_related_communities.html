@@ -10,7 +10,7 @@ A list of the most important resources tagged with the same topic */}}
   <h2>Join a Community of Practice</h2>
   <ul>
     {{- range sort $communities "Title" "asc" -}}
-      <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+      <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
         <a href="{{- .Permalink -}}">
           <span>{{ .Title | markdownify }} Community</span>
         </a>

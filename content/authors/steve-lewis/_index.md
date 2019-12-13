@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/steve-lewis
+# https://digital.gov/authors/steve-lewis
 
 display_name: "Steve Lewis"
 first_name: "Steve"

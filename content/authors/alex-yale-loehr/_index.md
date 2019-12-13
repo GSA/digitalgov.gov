@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alex-yale-loehr
+# https://digital.gov/authors/alex-yale-loehr
 
 display_name: "Alex Yale-Loehr"
 first_name: "Alex"

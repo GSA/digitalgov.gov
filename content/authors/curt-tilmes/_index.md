@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/curt-tilmes
+# https://digital.gov/authors/curt-tilmes
 
 display_name: "Curt Tilmes"
 first_name: "Curt"

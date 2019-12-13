@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/cynthia-baur
+# https://digital.gov/authors/cynthia-baur
 
 display_name: "Cynthia Baur"
 first_name: "Cynthia"

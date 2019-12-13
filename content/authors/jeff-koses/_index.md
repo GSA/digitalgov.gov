@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jeff-koses
+# https://digital.gov/authors/jeff-koses
 
 display_name: "Jeff Koses"
 first_name: "Jeff"

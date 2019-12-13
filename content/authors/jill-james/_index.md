@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jill-james
+# https://digital.gov/authors/jill-james
 
 display_name: "Jill James"
 first_name: "Jill"

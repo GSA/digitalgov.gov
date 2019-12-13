@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/janet-linton
+# https://digital.gov/authors/janet-linton
 
 display_name: "Janet Linton"
 first_name: "Janet"

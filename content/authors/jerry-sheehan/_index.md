@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jerry-sheehan
+# https://digital.gov/authors/jerry-sheehan
 
 display_name: "Jerry Sheehan"
 first_name: "Jerry"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dr-dj-patil
+# https://digital.gov/authors/dr-dj-patil
 
 display_name: "Dr. DJ Patil"
 first_name: "DJ"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/cynthia-giles
+# https://digital.gov/authors/cynthia-giles
 
 display_name: "Cynthia Giles"
 first_name: "Cynthia"

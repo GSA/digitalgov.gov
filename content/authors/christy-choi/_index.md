@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/christy-choi
+# https://digital.gov/authors/christy-choi
 
 display_name: "Christy Choi"
 first_name: "Christy"

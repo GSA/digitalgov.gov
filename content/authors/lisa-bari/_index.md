@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lisa-bari
+# https://digital.gov/authors/lisa-bari
 
 display_name: "Lisa Bari"
 first_name: "Lisa"

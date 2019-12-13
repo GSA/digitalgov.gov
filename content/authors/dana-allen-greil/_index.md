@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dana-allen-greil
+# https://digital.gov/authors/dana-allen-greil
 
 display_name: "Dana Allen-Greil"
 first_name: "Dana"

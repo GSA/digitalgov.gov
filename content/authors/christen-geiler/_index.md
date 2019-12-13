@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/christen-geiler
+# https://digital.gov/authors/christen-geiler
 
 display_name: "Christen Geiler"
 first_name: "Christen"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jason-goldman
+# https://digital.gov/authors/jason-goldman
 
 display_name: "Jason Goldman"
 first_name: "Jason"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/bob-rand
+# https://digital.gov/authors/bob-rand
 
 display_name: "Bob Rand"
 first_name: "Bob"

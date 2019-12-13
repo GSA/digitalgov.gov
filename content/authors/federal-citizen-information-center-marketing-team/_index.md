@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/federal-citizen-information-center-marketing-team
+# https://digital.gov/authors/federal-citizen-information-center-marketing-team
 
 display_name: "Federal Citizen Information Center Marketing Team"
 first_name: "Federal Citizen Information Center"

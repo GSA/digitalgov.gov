@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jeff-woodworth
+# https://digital.gov/authors/jeff-woodworth
 
 display_name: "Jeff Woodworth"
 first_name: "Jeff"

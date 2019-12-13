@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/miguel-gomez
+# https://digital.gov/authors/miguel-gomez
 
 display_name: "Miguel Gomez"
 first_name: "Miguel"

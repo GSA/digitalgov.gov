@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/yoz-grahame
+# https://digital.gov/authors/yoz-grahame
 
 display_name: "Yoz Grahame"
 first_name: "Yoz"

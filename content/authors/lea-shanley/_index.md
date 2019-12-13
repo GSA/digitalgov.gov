@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lea-shanley
+# https://digital.gov/authors/lea-shanley
 
 display_name: "Lea Shanley"
 first_name: "Lea"

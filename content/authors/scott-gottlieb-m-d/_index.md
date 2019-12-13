@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/scott-gottlieb-m-d
+# https://digital.gov/authors/scott-gottlieb-m-d
 
 display_name: "Scott Gottlieb, M.D."
 first_name: "Scott"

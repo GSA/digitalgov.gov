@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ayjah-thomas
+# https://digital.gov/authors/ayjah-thomas
 
 display_name: "Ayjah Thomas"
 first_name: "Ayjah"

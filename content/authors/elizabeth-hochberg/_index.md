@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/elizabeth-hochberg
+# https://digital.gov/authors/elizabeth-hochberg
 
 display_name: "Elizabeth Hochberg"
 first_name: "Beth"

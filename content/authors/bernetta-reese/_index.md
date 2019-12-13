@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/bernetta-reese
+# https://digital.gov/authors/bernetta-reese
 
 display_name: "Bernetta Reese"
 first_name: "Bernetta"

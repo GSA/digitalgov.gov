@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/glaceria-mason
+# https://digital.gov/authors/glaceria-mason
 
 display_name: "Glaceria Mason"
 first_name: "Glaceria"

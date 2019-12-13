@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dustin-renwick
+# https://digital.gov/authors/dustin-renwick
 
 display_name: "Dustin Renwick"
 first_name: "Dustin"

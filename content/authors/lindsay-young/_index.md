@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lindsay-young
+# https://digital.gov/authors/lindsay-young
 
 display_name: "Lindsay Young"
 first_name: "Lindsay"

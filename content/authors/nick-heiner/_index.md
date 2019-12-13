@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nick-heiner
+# https://digital.gov/authors/nick-heiner
 
 display_name: "Nick Heiner"
 first_name: "Nick"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/suzi-connor
+# https://digital.gov/authors/suzi-connor
 
 display_name: "Suzi Connor"
 first_name: "Suzi"

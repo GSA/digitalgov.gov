@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/rosario-mendez
+# https://digital.gov/authors/rosario-mendez
 
 display_name: "Rosario Mendez"
 first_name: "Rosario"

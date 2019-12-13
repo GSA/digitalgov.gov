@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jillian-buttecali
+# https://digital.gov/authors/jillian-buttecali
 
 display_name: "Jillian Buttecali"
 first_name: "Jillian"

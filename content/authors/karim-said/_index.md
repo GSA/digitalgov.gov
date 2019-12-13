@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/karim-said
+# https://digital.gov/authors/karim-said
 
 display_name: "Karim Said"
 first_name: "Karim"

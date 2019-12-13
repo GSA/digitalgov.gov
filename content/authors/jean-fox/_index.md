@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jean-fox
+# https://digital.gov/authors/jean-fox
 
 display_name: "Jean Fox"
 first_name: "Jean"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tyrus-manuel
+# https://digital.gov/authors/tyrus-manuel
 
 display_name: "Tyrus Manuel"
 first_name: "Tyrus"

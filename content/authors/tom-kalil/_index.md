@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tom-kalil
+# https://digital.gov/authors/tom-kalil
 
 display_name: "Tom Kalil"
 first_name: "Tom"

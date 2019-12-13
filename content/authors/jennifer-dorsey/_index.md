@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jennifer-dorsey
+# https://digital.gov/authors/jennifer-dorsey
 
 display_name: "Jennifer Dorsey"
 first_name: "Jennifer"

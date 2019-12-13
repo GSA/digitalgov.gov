@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/uscis-staff
+# https://digital.gov/authors/uscis-staff
 
 display_name: "USCIS Staff"
 first_name: "USCIS"

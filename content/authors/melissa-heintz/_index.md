@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/melissa-heintz
+# https://digital.gov/authors/melissa-heintz
 
 display_name: "Melissa Heintz"
 first_name: "Melissa"

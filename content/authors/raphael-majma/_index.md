@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/raphael-majma
+# https://digital.gov/authors/raphael-majma
 
 display_name: "Raphael Majma"
 first_name: "Raphael"

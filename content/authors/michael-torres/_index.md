@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/michael-torres
+# https://digital.gov/authors/michael-torres
 
 display_name: "Michael Torres"
 first_name: "Michael"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/cheryl-hackley
+# https://digital.gov/authors/cheryl-hackley
 
 display_name: "Cheryl Hackley"
 first_name: "Cheryl"

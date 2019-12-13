@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kristen-onell
+# https://digital.gov/authors/kristen-onell
 
 display_name: "Kristen O&#39;Nell"
 first_name: "Kristen"

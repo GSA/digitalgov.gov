@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/courtney-greenley
+# https://digital.gov/authors/courtney-greenley
 
 display_name: "Courtney Greenley"
 first_name: "Courtney"

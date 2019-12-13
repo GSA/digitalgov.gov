@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/danita-stenberg
+# https://digital.gov/authors/danita-stenberg
 
 display_name: "Danita Stenberg"
 first_name: "Danita"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/rebecca-williams
+# https://digital.gov/authors/rebecca-williams
 
 display_name: "Rebecca Williams"
 first_name: "Rebecca Williams"

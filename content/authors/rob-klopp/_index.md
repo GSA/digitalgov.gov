@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/rob-klopp
+# https://digital.gov/authors/rob-klopp
 
 display_name: "Rob Klopp"
 first_name: "Rob"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/wendy-wagner-smith
+# https://digital.gov/authors/wendy-wagner-smith
 
 display_name: "Wendy Wagner-Smith"
 first_name: "Wendy"

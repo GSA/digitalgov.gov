@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/meghan-lazier
+# https://digital.gov/authors/meghan-lazier
 
 display_name: "Meghan Lazier"
 first_name: "Meghan"

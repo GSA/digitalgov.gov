@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/steven-babitch
+# https://digital.gov/authors/steven-babitch
 
 display_name: "Steven Babitch"
 first_name: "Steven"

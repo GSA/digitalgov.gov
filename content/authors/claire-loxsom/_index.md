@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/claire-loxsom
+# https://digital.gov/authors/claire-loxsom
 
 display_name: "Claire Loxsom"
 first_name: "Claire"

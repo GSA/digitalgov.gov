@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/eric-mill
+# https://digital.gov/authors/eric-mill
 
 display_name: "Eric Mill"
 first_name: "Eric"

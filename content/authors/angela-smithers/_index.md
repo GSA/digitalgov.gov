@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/angela-smithers
+# https://digital.gov/authors/angela-smithers
 
 display_name: "Angela Smithers"
 first_name: "Angela"

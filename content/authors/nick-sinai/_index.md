@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nick-sinai
+# https://digital.gov/authors/nick-sinai
 
 display_name: "Nick Sinai"
 first_name: "Nick"

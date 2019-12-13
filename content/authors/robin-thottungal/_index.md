@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/robin-thottungal
+# https://digital.gov/authors/robin-thottungal
 
 display_name: "Robin A. Thottungal"
 first_name: "Robin"

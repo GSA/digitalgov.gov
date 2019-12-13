@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/victoria-wales
+# https://digital.gov/authors/victoria-wales
 
 display_name: "Victoria Wales"
 first_name: "Victoria"
