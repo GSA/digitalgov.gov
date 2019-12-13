@@ -5,18 +5,18 @@ title: 'The Data Briefing: Design-Driven Enterprise Architecture Creating the Ne
 summary: 'It’s been a while since I’ve checked in on enterprise architecture (EA). My last in-depth work with EA was around 2011 when I was on detail to the Office of Personnel Management’s Open Government Team. The EA model I worked with was the top-down organizational design of information technology assets, data assets, and business processes.'
 authors:
   - bbrantley
-categories:
-  - API
-  - Data
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - api
+  - data
+  - product-management
+  - strategy
+  - policy
   - agile
-  - Agile/Lean Community of Practice
+  - agile-lean-community-of-practice
   - architecture
   - best practices
   - data
-  - The Data Briefing
+  - the-data-briefing
 ---
 
 It’s been a while since I’ve checked in on enterprise architecture (EA). My last in-depth work with EA was around 2011 when I was on detail to the Office of Personnel Management’s Open Government Team. The EA model I worked with was the top-down organizational design of information technology assets, data assets, and business processes. Many of you are probably familiar with this traditional EA model.
@@ -31,6 +31,6 @@ Now, for another prediction; by 2020, [85% of all customer interactions will be 
 
 At the intersection of design thinking and artificial intelligence lies the new digital federal agency designed to operate more efficiently in its work processes while providing more effective services to the American public.
 
-_Each week,_ [_The Data Briefing_]({{< link "tag/the-data-briefing" >}}) _showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via email._
+_Each week,_ [_The Data Briefing_]({{< ref "/topics/the-data-briefing" >}}) _showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via email._
 
-[_Dr. William Brantley_]({{< link "author/bbrantley" >}})) _is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+[_Dr. William Brantley_]({{< ref "/authors/bbrantley" >}})) _is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

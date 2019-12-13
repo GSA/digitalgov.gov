@@ -5,20 +5,19 @@ title: How Agile Development Can Benefit Federal Projects
 summary: 'Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level&mdash;agile projects done in the open provide a way for the public to contribute to'
 authors:
   - awichman
-categories:
-  - Our Work
-tag:
-  - 18F
+topics:
+  - our-work
+  - 18f
   - agile
   - Open Opportunities program
   - US Department of State
 ---
 
-Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level—agile projects done in the open provide a way for the public to contribute to government initiatives. {{< legacy-img src="2016/01/600-x-400-Scrum-collage-concepts-MacXever-iStock-Thinkstock-471756405.jpg" alt="A word cloud of Agile Scrum concepts" caption="" >}} 
+Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level—agile projects done in the open provide a way for the public to contribute to government initiatives. {{< legacy-img src="2016/01/600-x-400-Scrum-collage-concepts-MacXever-iStock-Thinkstock-471756405.jpg" alt="A word cloud of Agile Scrum concepts" caption="MacXever/iStock/Thinkstock" >}}
 
 Transitioning to agile development has benefited [Open Opportunities](https://openopps.digitalgov.gov/), a platform that helps agencies tap into federal expertise and provides professional development opportunities to federal employees.
 
-The platform first launched in May 2013 using a WordPress-based system. In August 2014, 18F was hired to work on the project, and 18F team members began customizing a crowdsourcing platform developed by the Department of State using open, [agile methods]({{< link "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}).
+The platform first launched in May 2013 using a WordPress-based system. In August 2014, 18F was hired to work on the project, and 18F team members began customizing a crowdsourcing platform developed by the Department of State using open, [agile methods]({{< ref "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}).
 
 Not only has going open and agile helped stimulate innovation on the platform, it has expedited feature development, reduced development costs and provided a path for the public to get involved.
 
@@ -48,6 +47,6 @@ In traditional waterfall methods, it’s hard for [interested contributors](http
 
 _This article is the first in a two part series of how open, agile development has benefitted the Open Opportunities platform. In the next article, DigitalGov will delve into the view from the outside: how and why people outside of government got involved in contributing to Open Opportunities, and the keys to a good experience for those contributors._
 
- 
+
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

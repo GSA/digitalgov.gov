@@ -1,32 +1,65 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
-{{ end }}
+{{- define "content" -}}
 
-{{ define "content" }}
+<main role="main">
+  <article>
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12">
+            <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></p>
+            {{- if .Params.kicker -}}
+            <p class="kicker">{{- .Params.kicker -}}</p>
+            {{- end -}}
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}} </h1>
 
-<div class="page">
-  <div class="hentry entry">
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+          </div>
+        </div>
+      </div>
+    </header>
 
-    <div class="entry-head">
-      {{ partial "breadcrumbs" . }}
-      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
+    <section>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row tablet-lg:grid-gap-6">
 
-      {{ if .Params.deck }}
-      <h2 class="deck">{{ .Params.deck | markdownify }}</h2>
-      {{ end }}
-    </div>
+          <div class="grid-col-12 tablet:grid-col-9">
 
-    <div class="entry-content">
-      {{- .Content -}}
-    </div>
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
+            </div>
 
+            {{- partial "core/feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
 
+          </div>
 
-    {{ partial "post-meta--feedback" (dict "page" . "page_type" "page" "branch" ($.Scratch.Get "branch") ) }}
-    {{ partial "page-details" . }}
+          <div class="grid-col-12 tablet:grid-col-3">
 
-  </div>
+            {{/* Table of contents */}}
+            {{- partial "core/toc" . -}}
 
-</div>
+            {{/* Last updated */}}
+            {{/* {{- partial "last-updated" . -}}  */}}
 
-{{ end }} {{/* end 'content' block */}}
+            {{/* Related Communities and Services */}}
+            {{- partial "core/get_related" . -}}
+
+            {{/* Topics */}}
+            {{/* {{- partial "core/get_topics" . -}} */}}
+
+            {{/* Share Tools */}}
+            {{/* {{- partial "core/get_sharetools" . -}} */}}
+
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+  </article>
+</main>
+{{- end -}}

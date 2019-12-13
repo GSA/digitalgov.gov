@@ -1,0 +1,23 @@
+{{/* Share tools */}}
+
+<section class="share_tools">
+  <div class="grid-row">
+    <div class="grid-col-4">
+      <a class="twitter" href="http://twitter.com/share?url={{- $.Site.BaseURL -}}{{ .Permalink | absURL }}&amp;text={{ .Title }}"><i class="fab fa-twitter"></i></a>
+    </div>
+    <div class="grid-col-4">
+      <a class="facebook" href="http://www.facebook.com/sharer.php?u={{- $.Site.BaseURL -}}{{ .Permalink | absURL }}&t={{ .Title | urlize }}"><i class="fab fa-facebook-f"></i></a>
+    </div>
+    <div class="grid-col-4">
+      <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url={{- $.Site.BaseURL -}}{{ .Permalink | absURL }}&title={{ .Title | urlize }}&summary={{ .Params.summary | urlize }}&source={{ "Digital.gov" | urlize }}"><i class="fab fa-linkedin-in"></i></a>
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="grid-col-6">
+      <a class="email" href="#"><i class="fas fa-envelope"></i> Email</a>
+    </div>
+    <div class="grid-col-6">
+      <a class="print" href="javascript:window.print()" onclick="window.print();return false;"><i class="fas fa-print"></i> Print</a>
+    </div>
+  </div>
+</section>

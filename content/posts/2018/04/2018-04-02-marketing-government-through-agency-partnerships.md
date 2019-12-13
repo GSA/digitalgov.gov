@@ -5,14 +5,15 @@ title: 'New USAGov Program Aims to Help Agencies Market Within the Federal Gover
 summary: 'The Outreach and Marketing team from USAGov helps agencies amplify their key messages through a variety of channels.'
 authors:
   - claire-loxsom
-categories:
+topics:
   - content
   - design
   - metrics
   - social-media
-  - strategy-and-policy
+  - strategy
+  - policy
   - writing
-tag:
+  - accessibility
   - accessibility
   - analytics
   - content

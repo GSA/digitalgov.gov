@@ -5,11 +5,10 @@ title: NPS Chesapeake Explorer App
 summary: 'The National Park Service (NPS) developed an app for people looking to explore the historic Chesapeake Bay area and travelers now have an anytime, anywhere tool to tell them where they can go and how to get there. The NPS launched the Chesapeake Explorer App last'
 authors:
   - rachel-hurley
-categories:
-  - Mobile
-tag:
-  - mobile apps
-  - Thursday Mobile Products
+topics:
+  - mobile
+  - mobile-apps
+  - thursday-mobile-products
   - US National Park Service
 ---
 

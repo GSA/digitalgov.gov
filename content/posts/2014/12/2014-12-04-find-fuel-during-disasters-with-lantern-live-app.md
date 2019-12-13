@@ -5,12 +5,11 @@ title: Find Fuel During Disasters with Lantern Live App
 summary: 'Who to call? Where to meet? What to pack? How to find fuel? Make sure your personal disaster preparedness plan includes how to quickly find functioning gas stations in your area with help from the Department of Energy’s Lantern'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - native app
-  - Thursday Mobile Products
+  - mobile
+  - native-app
+  - thursday-mobile-products
   - United States Department of Energy
 ---
 
@@ -28,4 +27,4 @@ Future versions of the app will also include the ability to crowdsource informat
 
 The Lantern Live app is currently available for Android devices at the [Google Play Store](https://play.google.com/store/apps/details?id=gov.doe.lanternlive).
 
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the]({{< link "u-s-digital-registry.md" >}} "The Federal Mobile Products Registry") [The Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}} "The Federal Mobile Products Registry")._
+_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Products Registry") [The Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Products Registry")._

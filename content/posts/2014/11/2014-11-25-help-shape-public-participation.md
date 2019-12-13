@@ -6,11 +6,10 @@ summary: ' Public participation&mdash;where citizens help shape and implement go
 authors:
   - corinna-zarek
   - jherman
-categories:
-  - Social Media
-tag:
-  - open government
-  - SocialGov Community
+topics:
+  - social-media
+  - open-government
+  - socialgov-community
 ---
 
 [
@@ -22,7 +21,7 @@ A team across the government is now working side-by-side with civil society orga
 
 Developing a U.S. Public Participation Playbook has been an [open government priority](http://www.whitehouse.gov/blog/2014/04/30/open-government-public-participation-we-can-t-do-it-without-you), and was included in both the first and second U.S. Open Government National Action Plans as part of the United States effort to increase public integrity in government programs. This resource reflects the commitment of the government and civic partners to measurably improve participation programs, and is designed using the same inclusive principles that it champions.
 
-More than 30 federal leaders from across diverse missions in public service have collaborated on draft best practices, or “plays,” lead by the General Services Administration’s inter-agency [SocialGov Community]({{< link "social-media.md" >}} "Social Media"). The playbook is not limited to digital participation, and is designed to address needs from the full spectrum of public participation programs.
+More than 30 federal leaders from across diverse missions in public service have collaborated on draft best practices, or “plays,” lead by the General Services Administration’s inter-agency [SocialGov Community]({{< ref "social-media.md" >}} "Social Media"). The playbook is not limited to digital participation, and is designed to address needs from the full spectrum of public participation programs.
 
 The plays are structured to provide best practices, tangible examples, and suggested performance metrics for government activities that already exist or are under development. Some categories included in the plays include: encouraging community development and outreach, empowering participants through public/private partnerships, using data to drive decisions, and designing for inclusiveness and accessibility.
 

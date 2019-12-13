@@ -6,17 +6,17 @@ summary: 'Last week we wrote about how we diffuse knowledge through shared inter
 authors:
   - cm-lubinski
   - becky-sweger
-categories:
-  - Code
-  - Data
-  - Governance
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - code
+  - data
+  - governance
+  - product-management
+  - strategy
+  - policy
+  - 18f
   - best practices
   - data
-  - DATA Act
+  - data-act
   - Digital Accountability and Transparency Act
   - US Department of the Treasury
 ---

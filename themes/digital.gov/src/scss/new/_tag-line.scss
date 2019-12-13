@@ -1,0 +1,38 @@
+.tag-line{
+	@include u-margin-y(3);
+	@include u-margin-top(5);
+	@include at-media('tablet') {
+		@include u-margin-top(9);
+	}
+	h3{
+		@include u-margin-y(0);
+		@include u-font('sans', 'xl');
+		@include u-text('center');
+		@include u-text('indigo-warm-80');
+		@include u-text('bold');
+		@include at-media('mobile-lg') {
+			@include u-font('sans', '2xl');
+		}
+		@include at-media('tablet') {
+			@include u-font('sans', '3xl');
+		}
+		span{
+			@include u-text('light');
+			@include u-text('blue-warm-50v');
+		}
+	}
+	.learn-more{
+		@include u-text('center');
+		@include u-text('semibold');
+		@include u-font('sans', 'md');
+		a{
+			@include u-margin-x('105');
+			@include u-text('blue-warm-50v');
+			@include u-text('no-underline');
+			&:hover{
+				@include u-border-bottom('2px','solid','blue-warm-50v');
+			}
+		}
+
+	}
+}

@@ -5,19 +5,19 @@ title: Agency Mobile Resources at the Ready Following OMB Memo
 summary: 'Note: This is a guest blog post by Amando E. Gavino, Jr., Director, Office of Network Services, ITS/FAS/GSA. He is responsible for a portfolio of telecommunication acquisition solutions that provide government agencies the ability to meet their diverse set of telecommunication requirements. Acquisition solutions include Networx, Enterprise Infrastructure Solutions &ndash; EIS (the future replacement for'
 authors:
   - amando-e-gavino-jr
-categories:
-  - Governance
-  - Managing Digital
-  - Mobile
-  - strategy-and-policy
-tag:
+topics:
+  - governance
+  - product-management
+  - mobile
+  - strategy
+  - policy
   - FAS
   - Federal Acquisition Service
   - GSA
   - infrastructure
   - innovation
   - mobile
-  - mobile gov
+  - mobile-gov
   - Office of Management and Budget
   - OMB
   - US General Services Administration
@@ -50,4 +50,4 @@ Scheduling device refreshes is flexible too. No-cost device refreshes happen bas
 
 For more assistance, GSA has an Enterprise Mobility Team that is happy to help with any questions you have or support you need. You can contact us toll-free at (855) ITaid4U (482-4348), or contact our Enterprise Mobility Team directly through [Kelly Adams](mailto:kelly.adams@gsa.gov), [Richard Jones](mailto:richard.jones@gsa.gov), or [Jon Johnson](mailto:jon.johnson@gsa.gov).
 
-Please follow us on Twitter [@GSA_ITS](https://twitter.com/#!/GSA_ITS) and [LinkedIn](https://goo.gl/gSRnIJ) to join our ongoing conversations about government IT._This post was originally published on GSA’s [Great Government Through Technology](https://gsablogs.gsa.gov/technology/) blog by [Mary Davie]({{< link "author/mary-davie" >}})._
+Please follow us on Twitter [@GSA_ITS](https://twitter.com/#!/GSA_ITS) and [LinkedIn](https://goo.gl/gSRnIJ) to join our ongoing conversations about government IT._This post was originally published on GSA’s [Great Government Through Technology](https://gsablogs.gsa.gov/technology/) blog by [Mary Davie]({{< ref "/authors/mary-davie" >}})._

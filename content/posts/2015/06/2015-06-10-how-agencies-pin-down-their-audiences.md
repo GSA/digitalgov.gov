@@ -5,18 +5,17 @@ title: How Agencies “Pin” Down Their Audiences
 summary: 'While Facebook and Twitter are the most popular social media platforms (according to some rankings), your agency can and should evaluate the benefits of platforms like Pinterest, which have seen major growth in users and activity. In the last six months of 2014, Pinterest increased its membership by 57%, while Facebook and Twitter only grew by'
 authors:
   - edgardo-morales
-categories:
-  - Monthly Theme
-  - Social Media
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
-  - content strategy
+topics:
+  - monthly-theme
+  - social-media
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - content-strategy
   - GSA
-  - NASA
-  - National Institutes of Health
-  - NIH
-  - social media
+  - nasa
+  - national-institutes-of-health
+  - nih
+  - social-media
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Pinterest-Homepage-seewhatmitchsee-iStock-Editorial-Thinkstock-458705111.jpg" alt="Pinterest Homepage" caption="" >}} 
@@ -25,7 +24,7 @@ While Facebook and Twitter are the most popular social media platforms (accordin
 
 In the last six months of 2014, [Pinterest increased its membership by 57%](http://marketingland.com/tumblr-pinterest-outgrowing-facebook-109259), while Facebook and Twitter only grew by 6% and 18%, respectively.
 
-[More than 60% of millennial moms use Pinterest](http://www.prweek.com/article/1314174/millennial-moms-need-break-social-media-current-study), making it a platform perfect for agencies looking to communicate topics related to children and women’s health; DigitalGov previously discussed how the Food and Drug Administration’s [Office of Women’s Health used Pinterest as part of an inter-agency health campaign]({{< link "2014-05-21-inter-agency-federal-social-media-promotes-womens-health-campaign.md" >}}). And perhaps contrary to popular belief, it goes beyond a female audience. Experts say that [more men are on Pinterest than read GQ and Sports Illustrated](http://techcrunch.com/2014/11/13/men-are-now-pinterests-fastest-growing-demographic/).
+[More than 60% of millennial moms use Pinterest](http://www.prweek.com/article/1314174/millennial-moms-need-break-social-media-current-study), making it a platform perfect for agencies looking to communicate topics related to children and women’s health; DigitalGov previously discussed how the Food and Drug Administration’s [Office of Women’s Health used Pinterest as part of an inter-agency health campaign]({{< ref "2014-05-21-inter-agency-federal-social-media-promotes-womens-health-campaign.md" >}}). And perhaps contrary to popular belief, it goes beyond a female audience. Experts say that [more men are on Pinterest than read GQ and Sports Illustrated](http://techcrunch.com/2014/11/13/men-are-now-pinterests-fastest-growing-demographic/).
 
 ## Kids.gov on Pinterest
 

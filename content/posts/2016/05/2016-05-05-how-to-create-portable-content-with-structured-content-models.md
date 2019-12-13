@@ -3,22 +3,21 @@ slug: how-to-create-portable-content-with-structured-content-models
 date: 2016-05-05 11:28:07 -0400
 title: How to Create Portable Content with Structured Content Models
 summary: Structuring your content for portability across media platforms gives your agency the ability to not only place your message on other properties, but gives you the assurance that your information will always be up-to-date across multiple platforms. This ability is never more important than during an emergency, whether it is a natural disaster or a
-categories:
-  - Content
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
-  - content syndication
+topics:
+  - content
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - content-syndication
   - HHS
-  - mobile gov community of practice
-  - MobileGov
-  - National Institutes of Health
-  - NIH
-  - open and structured content models
+  - mobile-gov-community-of-practice
+  - mobile-gov
+  - national-institutes-of-health
+  - nih
+  - open-and-structured-content-models
   - Recaps
-  - structured content
-  - United States Department of Health and Human Services
-  - USAgov
+  - structured-content
+  - united-states-department-of-health-and-human-services
+  - usagov
 ---
 
 Structuring your content for portability across media platforms gives your agency the ability to not only place your message on other properties, but gives you the assurance that your information will always be up-to-date across multiple platforms. This ability is never more important than during an emergency, whether it is a natural disaster or a health crisis such as the [Zika virus disease](http://www.cdc.gov/zika/).
@@ -27,9 +26,9 @@ Structuring your content for portability across media platforms gives your agenc
 
 Three members of the [Open and Structured Content Working Group](http://gsa.github.io/Open-And-Structured-Content-Models/) discussed all things structured content during the “Creating Portable Content with Structured Content Models” webinar earlier this year.
 
-Christen Geiler, Digital Information Specialist from the National Institutes of Health (NIH), provided an overview on how content models work by [breaking your content into smaller structures]({{< link "2016-01-07-content-models-as-simple-as-pizza-pie.md" >}}) that allow them to easily adapt to various devices and media types and allow your agency’s content to travel further than your own website.
+Christen Geiler, Digital Information Specialist from the National Institutes of Health (NIH), provided an overview on how content models work by [breaking your content into smaller structures]({{< ref "2016-01-07-content-models-as-simple-as-pizza-pie.md" >}}) that allow them to easily adapt to various devices and media types and allow your agency’s content to travel further than your own website.
 
-Stacey Thalken, health communication specialist from the Centers for Disease Control (CDC) then then discussed CDC’s structured content pilot project and highlighted their work on microsites. [Microsites are small, self-contained sets of pages within a larger website]({{< link "2016-04-21-microsites.md" >}}), used to convey information about a specific topic. Microsites are made possible by structuring your content and through the use of [content models like those created by the Open and Structured Content Models Working Group]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}).
+Stacey Thalken, health communication specialist from the Centers for Disease Control (CDC) then then discussed CDC’s structured content pilot project and highlighted their work on microsites. [Microsites are small, self-contained sets of pages within a larger website]({{< ref "2016-04-21-microsites.md" >}}), used to convey information about a specific topic. Microsites are made possible by structuring your content and through the use of [content models like those created by the Open and Structured Content Models Working Group]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}).
 
 {{< legacy-img src="2016/02/600-x-300-CDC-Public-Health-Media-Library-Zika-Virus-Microsite-preview-in-red.jpg" alt="The Zika Virus Microsite preview in red." >}}
 

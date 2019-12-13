@@ -5,12 +5,11 @@ title: USAGov’s Step-by-Step Guide to Making Snapchat Stories As Accessible As
 summary: 'One of the biggest things we take into account whenever we consider launching on a new social platform is how we can make the information we share through that tool as accessible as possible. In its current form, Snapchat isn’t a highly accessible platform. This isn’t a problem that’s unique to Snapchat. Many emerging technologies'
 authors:
   - jessica-milcetich
-categories:
-  - Accessibility
-  - Social Media
-tag:
+topics:
   - accessibility
-  - USAgov
+  - social-media
+  - accessibility
+  - usagov
 ---
 
 One of the biggest things we take into account whenever we consider launching on a new social platform is how we can make the information we share through that tool as accessible as possible.
@@ -41,4 +40,4 @@ Here’s our step-by-step guide for improving Snapchat accessibility.
 You can check out our Snapchat stories in real-time on Snapchat (our username is USAGov or follow using the snapcode below) or you can watch our [more accessible versions on YouTube](https://www.youtube.com/watch?v=zogckVOaWJk&list=PLrcvzEeHM66sPsgTJSWdRx5zpKuGB-IhB).
 
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/) by Jessica Milcetich, who manages social media for USAGov._
-_If you haven’t already, be sure to register your social media accounts, mobile apps, and mobile websites with the [U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}}). You can also check DigitalGov’s [Resources]({{< link "/resources/" >}}) to read about [Improving the Accessibility of Social Media in Government]({{< link "improving-the-accessibility-of-social-media-in-government.md" >}}) and the [Federal Social Media Accessibility Toolkit]({{< link "federal-social-media-accessibility-toolkit-hackpad.md" >}})._
+_If you haven’t already, be sure to register your social media accounts, mobile apps, and mobile websites with the [U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}}). You can also check DigitalGov’s [Resources]({{< ref "/resources/_index.md" >}}) to read about [Improving the Accessibility of Social Media in Government]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}}) and the [Federal Social Media Accessibility Toolkit]({{< ref "federal-social-media-accessibility-toolkit-hackpad.md" >}})._

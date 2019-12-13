@@ -5,25 +5,24 @@ title: 'The Content Corner: Twitter, Apple News and the Importance of Our Websit
 summary: 'First, McDonald’s started serving breakfast all day. Now, Twitter announced it is dropping its 140 character limit for tweets. Black is white, up is down. Or is it really that big a deal? Is Twitter just keeping itself relevant in the battle for your content? LinkedIn and Facebook were first with their strong push for organizations to'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
-  - content strategy
-  - social media
-  - The Content Corner
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
+  - content-strategy
+  - social-media
+  - the-content-corner
   - Twitter
 ---
 
-First, McDonald’s started serving breakfast all day. Now, [Twitter announced it is dropping its 140 character limit](http://recode.net/2015/09/29/twitter-plans-to-go-beyond-its-140-character-limit/) for tweets. Black is white, up is down. Or is it really that big a deal? Is Twitter just keeping itself relevant in the [battle for your content]({{< link "2015-04-27-the-content-corner-the-content-wars.md" >}})?
+First, McDonald’s started serving breakfast all day. Now, [Twitter announced it is dropping its 140 character limit](http://recode.net/2015/09/29/twitter-plans-to-go-beyond-its-140-character-limit/) for tweets. Black is white, up is down. Or is it really that big a deal? Is Twitter just keeping itself relevant in the [battle for your content]({{< ref "2015-04-27-the-content-corner-the-content-wars.md" >}})?
 
 LinkedIn and Facebook were first with their strong push for organizations to stop linking to content on their platforms and actually generate original content there. And while items like [Instant Articles](http://contently.com/strategist/2015/05/13/7-things-you-need-to-know-about-facebook-instant-articles/) have made headlines but have had a limited impact so far, sites like Medium only exist (and can raise [$57 million in venture funding](https://medium.com/the-story/medium-s-new-funding-round-48437c641e06)) for the creation of original content.
 
 ## It Is All about Your Content {{< legacy-img src="2015/10/600-x-400-Internet-content-marketing-sketch-on-blue-background-over-notebook-zakokor-iStock-Thinkstock-482311208.jpg" alt="Internet content marketing sketch on blue background over notebook" caption="" >}} 
 
-I recently shared some of the [pros and cons of generating content on social media platforms]({{< link "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}); however, their role in helping us reach more citizens on various levels is unmistakable. According to comScore, [60% of digital media time is now spent on a mobile device](https://www.comscore.com/Insights/Blog/Mobile-Internet-Usage-Skyrockets-in-Past-4-Years-to-Overtake-Desktop-as-Most-Used-Digital-Platform), which also lends itself to higher app usage as opposed to visiting .gov websites for example.
+I recently shared some of the [pros and cons of generating content on social media platforms]({{< ref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}); however, their role in helping us reach more citizens on various levels is unmistakable. According to comScore, [60% of digital media time is now spent on a mobile device](https://www.comscore.com/Insights/Blog/Mobile-Internet-Usage-Skyrockets-in-Past-4-Years-to-Overtake-Desktop-as-Most-Used-Digital-Platform), which also lends itself to higher app usage as opposed to visiting .gov websites for example.
 
-This all translates into social media being one of most direct ways to reach any of our audiences, but [how much content should be posted only to a social media channel]({{< link "2015-09-28-the-content-corner-defining-your-core.md" >}})?
+This all translates into social media being one of most direct ways to reach any of our audiences, but [how much content should be posted only to a social media channel]({{< ref "2015-09-28-the-content-corner-defining-your-core.md" >}})?
 
 The move by Twitter signals that the value of using social media to share and link to your own site may be coming to an end. Many have interpreted this move as a means of [removing a barrier to Twitter competing for original and longform content](http://recode.net/2015/09/29/twitter-plans-to-go-beyond-its-140-character-limit/) as Facebook and LinkedIn have done.
 
@@ -43,7 +42,7 @@ The 140 character limit was not so much a limit, in my opinion, but a protection
 
 With this limit removed, we will now need to focus more on how our Twitter audiences differ from our Facebook audiences and other social media audiences. Is certain content, that we originally couldn’t post due to the character limit, now suddenly possible? Or do we now run the risk of simply duplicating every Facebook post verbatim? That is where the re-examination of our content strategy will be critical. The Internet certainly doesn’t need more noise or redundant content.
 
-We also need to continue to examine the balance between how much content we want to devote to social media platforms, since Twitter’s role can now substantially change, and how much we want to keep on our own sites. It goes back to [defining your core]({{< link "2015-09-28-the-content-corner-defining-your-core.md" >}}) and the role your own site can play in your communication efforts.
+We also need to continue to examine the balance between how much content we want to devote to social media platforms, since Twitter’s role can now substantially change, and how much we want to keep on our own sites. It goes back to [defining your core]({{< ref "2015-09-28-the-content-corner-defining-your-core.md" >}}) and the role your own site can play in your communication efforts.
 
 As Twitter (and now [Apple News](https://www.apple.com/news/)) increases the pressure on content creators to devote their energies to developing content for their platforms, we have to be mindful of the value of our own sites.
 

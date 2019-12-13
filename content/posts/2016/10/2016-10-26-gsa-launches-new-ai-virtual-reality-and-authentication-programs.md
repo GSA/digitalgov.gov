@@ -5,27 +5,26 @@ title: GSA launches new AI, Virtual Reality, and Authentication Programs
 summary: 'Today we’re launching three new initiatives powered by GSA Digital Communities that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry. These new Communities and portal are products of inter-agency collaboration and our shared commitment pushing the'
 authors:
   - jherman
-categories:
+topics:
   - communities
   - emerging-tech
-  - managing-digital
+  - product-management
   - mobile
   - our-work
   - social-media
-tag:
-  - AI
-  - Artificial Intelligence for Citizen Services Community
-  - Augmented Reality
+  - ai
+  - artificial-intelligence-for-citizen-services-community
+  - augmented-reality
   - communities
   - innovation
   - multilingual
-  - social media
-  - US Digital Registry
-  - virtual reality
-  - Virtual-Augmented-Reality-Community
+  - social-media
+  - us-digital-registry
+  - virtual-reality
+  - virtual-augmented-reality-community
 ---
 
-Today we’re launching three new initiatives [powered by GSA Digital Communities]({{< link "/communities/" >}}) that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry.
+Today we’re launching three new initiatives [powered by GSA Digital Communities]({{< ref "/communities" >}}) that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry.
 
 These new Communities and portal are products of inter-agency collaboration and our shared commitment pushing the bar forward on effective adoption of digital public services that meet the needs of citizens today and tomorrow… and plant seeds for growing long into the future.
 
@@ -65,7 +64,7 @@ While designed for U.S. federal managers, we strive to transparently share and c
 
 ## What’s Next
 
-If this is the first you’ve heard about our Digital Communities, we encourage you to [visit the homepage]({{< link "/communities/" >}}) and learn more.
+If this is the first you’ve heard about our Digital Communities, we encourage you to [visit the homepage]({{< ref "/communities" >}}) and learn more.
 
 If you are a federal employee or contractor working in an official capacity with a .gov or .mil email address, chances are you or someone you know is already a part of this constantly growing collaborative initiative. Either way, we invite you to dive in deeper and enjoy the benefits of these productive, collaborative hubs.
 

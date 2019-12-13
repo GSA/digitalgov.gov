@@ -13,14 +13,13 @@ event_organizer: DigitalGov University
 host: ECTO
 registration_url: https://www.eventbrite.com/e/emerging-technology-leadership-series-laura-manley-harvard-technology-and-public-purpose-project-registration-53698327142
 youtube_id: gbmRaFuJyrM
-categories:
+topics:
   - emerging-tech
-tag:
   - ai
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
   - augmented-reality
-  - federal-blockchain-community
+  - blockchain
   - virtual-augmented-reality-community
   - virtual-reality
 

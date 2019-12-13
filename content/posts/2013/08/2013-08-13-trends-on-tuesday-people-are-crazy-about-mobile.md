@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: People Are Crazy about Mobile!'
 summary: 'The way people are using mobile is changing&mdash;we are socializing in new ways; performing tasks in new ways, often multi-tasking between activities; and sharing and gathering information in new ways.'
 authors:
   - lisa-wilcox
-categories:
-  - Mobile
-tag:
-  - Trends on Tuesday
+topics:
+  - mobile
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)The way people are using mobile is changing—we are socializing in new ways; performing tasks in new ways, often multi-tasking between activities; and sharing and gathering information in new ways.
@@ -33,7 +32,7 @@ Marc Barach, Jumio chief marketing and strategy officer, says “People view the
 
 People are using their smartphones in a variety of ways that have become rather new ways of carrying out certain activities. Instead of just attending a baseball game, in addition to watching the game, many are tweeting the score, providing running commentaries of the game on Facebook, as well as sharing pictures and video of various events at the game.
 
-In May 2013, we reported how 45% of consumers searching for local products and services use their mobile phone first. And in July 2013, we reported how [people use their smartphones as a second screen for TV viewing](https://digitalgov.sites.usa.gov/2013/07/16/trends-on-tuesday-mobile-a-second-screen-for-tv-viewing/ "Trends on Tuesday: Mobile a “Second Screen” for TV Viewing"). Folks are watching television shows with their mobile in hand and commenting on social media or texting comments to friends. Advertisers see this trend and run promotions and encourage viewers to either comment on social media or send a text to a number to get updates during the show or event.
+In May 2013, we reported how 45% of consumers searching for local products and services use their mobile phone first. And in July 2013, we reported how [people use their smartphones as a second screen for TV viewing](https://digital.gov/2013/07/16/trends-on-tuesday-mobile-a-second-screen-for-tv-viewing/ "Trends on Tuesday: Mobile a “Second Screen” for TV Viewing"). Folks are watching television shows with their mobile in hand and commenting on social media or texting comments to friends. Advertisers see this trend and run promotions and encourage viewers to either comment on social media or send a text to a number to get updates during the show or event.
 
 [Digby](http://www.digby.com/mobile-statistics/)’s recent industry statistics support such trends in smartphone usage.
 
@@ -51,4 +50,4 @@ In May 2013, we reported how 45% of consumers searching for local products and s
 
 As these trends continue, Government agencies must become more acutely aware of their audience and their internet browsing habits, as well as their expected user experience on agency websites. Many agencies have dove right in, providing a wide variety of mobile-optimized websites and apps to support citizens accessing government information and services. One of the first goals of the Digital Government Strategy was to complete mobile, which is still ongoing, with a number of milestones.
 
-Embrace the craze. Consider how to provide a custom browsing experience for citizens in your mobile strategy. Check out the [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}} "Mobile Application Development Program") for some great resources to get you going in the right direction. And of course, join the conversation and share your challenges and successes.
+Embrace the craze. Consider how to provide a custom browsing experience for citizens in your mobile strategy. Check out the [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}} "Mobile Application Development Program") for some great resources to get you going in the right direction. And of course, join the conversation and share your challenges and successes.

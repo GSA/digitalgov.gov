@@ -5,16 +5,15 @@ title: Using Section 508 Guidance to Improve the Accessibility of Government Ser
 summary: 'Section 508 of the Rehabilitation Act requires federal agencies to use accessible information and communication technology (ICT), whether procured, developed, or maintained. Since the U.S. Access Board issued regulations for the law in 2000, much implementation guidance has been prepared by various agencies. While the regulations are being refreshed to account for changes in ICT over'
 authors:
   - jamal-mazrui
-categories:
-  - Accessibility
-tag:
+topics:
   - accessibility
-  - CDC
-  - Centers for Disease Control and Prevention
+  - accessibility
+  - cdc
+  - centers-for-disease-control-and-prevention
   - Centers for Medicare and Medicaid Services
-  - DHS
+  - dhs
   - DOT
-  - FDA
+  - fda
   - GSA
   - HHS
   - NPS
@@ -22,14 +21,14 @@ tag:
   - OMB
   - SSA
   - The United States Social Security Administration
-  - US Access Board
+  - us-access-board
   - US Department of Education
   - US Department of Labor
   - US Department of Veterans Affairs
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - US National Park Service
-  - United States Department of Health and Human Services
-  - United States Department of Homeland Security
+  - united-states-department-of-health-and-human-services
+  - united-states-department-of-homeland-security
   - United States Department of Transportation
   - VA
 ---
@@ -262,7 +261,7 @@ This resource list presents a compilation of links to accessibility guidance, or
 
   * [DCG Web and Social Media Accessibility Technical Assistance Manual](http://odr.dc.gov/sites/default/files/dc/sites/odr/publication/attachments/Web%20and%20Social%20Media%20AccessibilityTechnical%20Assistance%20Manual.docx) (docx)
   * [ED Digital Guidebook](http://www2.ed.gov/web-guidance/digital-guidebook/digital-guidebook-nov-2014.pdf) (PDF)
-  * [GSA/DOL Improving the Accessibility of Social Media in Government]({{< link "improving-the-accessibility-of-social-media-in-government.md" >}})
+  * [GSA/DOL Improving the Accessibility of Social Media in Government]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}})
 
 <p style="text-align: right">
   <a title="Back to top" href="#toc">Top ↑</a>
@@ -274,7 +273,7 @@ This resource list presents a compilation of links to accessibility guidance, or
 
   * [DHS Section 508 Application Test Script](http://www.section508.gov/sites/default/files/documents/TestingSW%26WebShare.doc) (doc)
   * [DHS Section 508 Compliance Test Process for Applications](http://www.dhs.gov/sites/default/files/publications/DHS%20Section%20508%20Compliance%20Test%20Process%20for%20Applications%203.3.pdf) (PDF)
-  * [GSA Mobile Product Accessibility Testing Resources]({{< link "2013-07-31-mobile-product-accessibility-testing-resources.md" >}})
+  * [GSA Mobile Product Accessibility Testing Resources]({{< ref "2013-07-31-mobile-product-accessibility-testing-resources.md" >}})
   * [VA Course on Testing Software for Section 508 Compliance](http://www.section508.va.gov/support/sw/course.asp)
   * [VA Section 508 Checklist for Software Applications and Operating Systems](http://www.section508.va.gov/docs/1194_21_VASection508_software_checklist.doc) (doc)
 
@@ -310,7 +309,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   Video and Multimedia Products
 </h2>
 
-  * [GSA Create Section 508-Compliant Videos on Your Government Websites]({{< link "2013-11-21-create-section-508-compliant-videos-on-your-government-websites.md" >}})
+  * [GSA Create Section 508-Compliant Videos on Your Government Websites]({{< ref "2013-11-21-create-section-508-compliant-videos-on-your-government-websites.md" >}})
   * [HHS Guidance for Audio Description](http://www.hhs.gov/web/508/accessiblefiles/accessible-audio-description.html)
   * [HHS Multimedia File 508 Checklist](http://www.hhs.gov/web/508/accessiblefiles/checklistmulti.html)
   * [NPS Programmatic Accessibility Guidelines for National Park Service Interpretive Media](http://www.nps.gov/hfc/accessibility/accessibilityGuideVersion2.1.pdf) (PDF)

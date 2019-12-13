@@ -5,13 +5,12 @@ title: Lessons Learned from 4 Decades in Federal Contact Centers
 summary: For more than 40 years, Warren Snaider has been working at the General Services Administration providing government information to the public. A Senior Federal Information Specialist, Snaider has witnessed government contact centers evolve as technology has changed the way people communicate and access information. Snaider first joined the Federal Information Center in Sacramento in 1972.
 authors:
   - coqui-aspiazu
-categories:
-  - Managing Digital
-  - Monthly Theme
-tag:
-  - Customer Experience
-  - customer service
-  - government contact centers
+topics:
+  - product-management
+  - monthly-theme
+  - cx
+  - customer-service
+  - government-contact-centers
   - GSA
 ---
 

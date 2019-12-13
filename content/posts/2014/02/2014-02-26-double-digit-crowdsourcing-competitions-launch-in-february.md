@@ -5,16 +5,15 @@ title: Double Digit Crowdsourcing Competitions Launch in February
 summary: 'This is a phenomenal month for federal challenge and prize competitions with 12 new programs launched in February. The challenge.gov platform usually averages four to six new challenges a month, so we&#8217;re excited to see the year start off with a big push to engage citizens in creative'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Code
+topics:
+  - challenges
+  - code
   - crowdsourcing-and-citizen-science
-tag:
   - crowdsourcing
   - Department of Commerce
-  - EPA
+  - epa
   - GSA
-  - mobile apps
+  - mobile-apps
   - United States Air Force
 ---
 
@@ -100,4 +99,4 @@ The first annual Congressional Science, Technology, Engineering and Math (STEM) 
 
 Create an innovative** algorithm** that uses data from recent studies to **predict trustworthy behavior**, based on volunteers’ neural, physiological, and behavioral signals.
 
-Learn more about the [federal-wide challenge and prize program]({{< link "challenge-gov.md" >}}) and sign-up for upcoming [training and events]({{< link "events" >}}2014-03/).
+Learn more about the [federal-wide challenge and prize program]({{< ref "service_challengegov.md" >}}) and sign-up for upcoming [training and events]({{< ref "/events" >}}2014-03/).

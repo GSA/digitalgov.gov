@@ -5,24 +5,23 @@ title: Recap of Social Digital Search Webinar
 summary: 'Content is no longer limited to .gov sites. As mentioned in a recent blog post, Sharing is Caring, Adding Social Media Accounts to Search, DigitalGov Search uses Flickr, Instagram, and YouTube to populate image and video search results. On September 30, 2014, I presented with Justin Herman from the Social Media Community of Practice about: What'
 authors:
   - rachel-mundstock
-categories:
-  - API
-  - Content
-  - Our Work
-  - Social Media
-  - Video
-tag:
-  - DigitalGov Search
+topics:
+  - api
+  - content
+  - our-work
+  - social-media
+  - video
+  - digitalgov-search
   - Federal Register
   - National Library of Medicine
   - NLM
   - Recaps
-  - SocialGov Community
+  - socialgov-community
 ---
 
-Content is no longer limited to .gov sites. As mentioned in a recent blog post, [Sharing is Caring, Adding Social Media Accounts to Search]({{< link "2014-09-05-sharing-is-caring-adding-social-media-accounts-to-search.md" >}} "Sharing is Caring, Adding Social Media Accounts to Search"), DigitalGov Search uses Flickr, Instagram, and YouTube to populate image and video search results.
+Content is no longer limited to .gov sites. As mentioned in a recent blog post, [Sharing is Caring, Adding Social Media Accounts to Search]({{< ref "2014-09-05-sharing-is-caring-adding-social-media-accounts-to-search.md" >}} "Sharing is Caring, Adding Social Media Accounts to Search"), DigitalGov Search uses Flickr, Instagram, and YouTube to populate image and video search results.
 
-On September 30, 2014, I presented with Justin Herman from the [Social Media Community of Practice]({{< link "social-media.md" >}} "Social Media") about:
+On September 30, 2014, I presented with Justin Herman from the [Social Media Community of Practice]({{< ref "social-media.md" >}} "Social Media") about:
 
   * What [DigitalGov Search](http://search.digitalgov.gov/) is
   * How it integrates social image and video search

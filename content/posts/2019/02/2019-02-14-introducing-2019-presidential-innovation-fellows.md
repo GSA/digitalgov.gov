@@ -2,12 +2,12 @@
 slug: introducing-2019-presidential-innovation-fellows
 date: 2019-02-14 09:24:00 -0500
 title: 'Introducing the 2019 Presidential Innovation Fellows'
+deck: 'We are excited to announce our 2019 Presidential Innovation Fellows &#40;PIF&#41; who have begun their “tour of duty” in American tech&#46;'
 summary: 'We are excited to announce our 2019 Presidential Innovation Fellows &#40;PIF&#41; who have begun their “tour of duty” in American tech&#46;'
 authors:
   - davar-ardalan
-categories:
-  - managing-digital
-tag:
+topics:
+  - product-management
   - gsa
   - innovation
   - pif

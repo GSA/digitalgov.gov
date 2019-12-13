@@ -5,18 +5,17 @@ title: 'Using Top Tasks to be Top-Notch: Federal Reserve Board Usability Case St
 summary: 'In 2012, the Federal Reserve Board used the Top-task methodology to redesign our intranet, called Inside the Board, which had not been significantly updated since it was launched in 1995. After determining the top tasks the audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project'
 authors:
   - ben-rosset
-categories:
-  - Communities
+topics:
+  - communities
   - user-testing-and-research
-  - UX
-tag:
-  - AoI
+  - ux
+  - aoi
   - DigitalGov User Experience Program
   - Federal Reserve Board
   - first-click testing
   - FRB
-  - top tasks
-  - User Experience Community of Practice
+  - top-tasks
+  - user-experience-community-of-practice
 ---
 
 In 2012, the [Federal Reserve Board](http://www.federalreserve.gov/) used the _Top-task_ methodology to redesign our intranet, called _Inside the Board_, which had not been significantly updated since it was launched in 1995. After determining the top tasks the audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project was wildly successful. Task completion ratings rose to more than 90% after the redesign, from 58% on the legacy site—drastically increasing the productivity of the Board’s employees.
@@ -86,4 +85,4 @@ One of the great things about this process is how repeatable it is. As we know, 
 The top-task process is easy to learn, execute, and repeat. It involves your users at every step of the way to create a website that features a menu structure your users will find intuitive and easy to use. In short, it helps your users complete the tasks that are most important to them in the shortest amount of time, leading to happy users and happy clients!_**Ben Rosset**, PMP is the Accessibility Project Manager at the Federal Reserve Board._
 _Editor&#8217;s Note: If you&#8217;d like to know more about top-task methodology and/or want to learn about the tools Ben and his team used to redesign &#8220;Inside the Board,&#8221; please register for the upcoming webinar, &#8220;[Using Top Tasks Analysis to Make Your Site Usable]({{< tmp "events/using-top-tasks-analysis-to-make-your-site-usable.md" >}}),&#8221; where Ben himself will delve deeper into the Federal Reserve Board&#8217;s comprehensive UX analysis._
 
-<em style="color: #555555">For more information on usability testing, visit the <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.digitalgov.gov%2Fresources%2Fdigitalgov-user-experience-program%2F&sa=D&sntz=1&usg=AFQjCNGNi46xqPfRqRfFLwkIBFybj_ngAQ">DigitalGov User Experience Program</a> page or <a style="color: #ff5049" href="{{< link "user-experience.md" >}}">join the User Experience Community of Practice.</a></em>
+<em style="color: #555555">For more information on usability testing, visit the <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.digitalgov.gov%2Fresources%2Fdigitalgov-user-experience-program%2F&sa=D&sntz=1&usg=AFQjCNGNi46xqPfRqRfFLwkIBFybj_ngAQ">DigitalGov User Experience Program</a> page or <a style="color: #ff5049" href="{{< ref "user-experience.md" >}}">join the User Experience Community of Practice.</a></em>

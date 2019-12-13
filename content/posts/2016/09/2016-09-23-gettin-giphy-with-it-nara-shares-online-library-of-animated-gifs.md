@@ -7,19 +7,18 @@ authors:
   - darren-cole
   - mary-king
   - kristen-albrittain
-categories:
-  - Content
-  - Managing Digital
-  - Social Media
-tag:
+topics:
+  - content
+  - product-management
+  - social-media
   - content
   - NARA
   - National Archives and Records Administration
   - Smithsonian Institution
   - Smithsonian Libraries
-  - social media
+  - social-media
   - Terms of Service
-  - TOS
+  - tos
 ---
 
 Hi there, DigitalGov! {{< legacy-img src="https://media0.giphy.com/media/3o6Zt3PBAGPUvmvUJO/giphy.gif" alt="Animated gif of a woman with the word, Hi, written on her hand." caption="" >}} 

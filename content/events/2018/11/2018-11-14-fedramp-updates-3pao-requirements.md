@@ -13,7 +13,8 @@ event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/fedramp-updates-3pao-requirements-registration-52233039427
 youtube_id: Z6LgUEShll0
-
+topics:
+  - fedramp
 ---
 
 {{< img-right src="featued-301-x-212-fedramp-2017-5th-anniversary-logo" >}}

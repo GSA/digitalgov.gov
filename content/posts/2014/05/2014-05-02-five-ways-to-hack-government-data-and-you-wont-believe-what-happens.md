@@ -5,19 +5,18 @@ title: 'Civic Hacking: Pathways for Participation'
 summary: ' The National Day of Civic Hacking is actually a weekend. An awe-inspiring two days of collaborative work where coders, designers, writers, innovative thinkers,'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Code
-  - Data
-  - Writing
-tag:
+topics:
+  - challenges
+  - code
+  - data
+  - writing
   - Census
-  - ChallengeGov
-  - data.gov
+  - challenge-gov
+  - data-gov
   - innovation
   - National Day of Civic Hacking
-  - national science foundation
-  - NSF
+  - national-science-foundation
+  - nsf
   - United States Census Bureau
 ---
 

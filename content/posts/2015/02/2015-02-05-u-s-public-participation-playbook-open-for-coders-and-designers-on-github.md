@@ -5,16 +5,15 @@ title: U.S. Public Participation Playbook Open for Coders and Designers on GitHu
 summary: 'We released the United States Public Participation Playbook this week, a new open resource agencies can use to evaluate and build better programs that give a voice to the people they serve&mdash;and the response was fantastic. Public servants and citizens around the world have shared it, and already are contributing new ideas that build from'
 authors:
   - jherman
-categories:
-  - Code
-  - Communities
-  - Managing Digital
-  - Metrics
-  - Social Media
-tag:
-  - AoI
+topics:
+  - code
+  - communities
+  - product-management
+  - metrics
+  - social-media
+  - aoi
   - GitHub
-  - SocialGov Community
+  - socialgov-community
 ---
 
 {{< legacy-img src="2015/03/600-x-425-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="A diverse group of raised hands." caption="" >}} 

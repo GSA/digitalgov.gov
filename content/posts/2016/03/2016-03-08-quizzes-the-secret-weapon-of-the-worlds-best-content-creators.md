@@ -5,12 +5,11 @@ title: 'Quizzes: The Secret Weapon of the World&#8217;s Best Content Creators'
 summary: 'Online quizzes have rapidly risen to the front of the social media revolution. &ldquo;In 2014, 8 out of 10 of the most shared articles on the Web were quizzes,&rdquo; states Owen Fuller of content company Movement Ventures. Content creators leverage quizzes to successfully drive customer engagement and increase customer website conversions (to take action such'
 authors:
   - john-paul
-categories:
-  - Content
-tag:
+topics:
+  - content
   - DGU
   - Recaps
-  - USAgov
+  - usagov
 ---
 
 Online quizzes have rapidly risen to the front of the social media revolution. “In 2014, 8 out of 10 of the most shared articles on the Web were quizzes,” states Owen Fuller of content company Movement Ventures. Content creators leverage quizzes to successfully drive customer engagement and increase customer website conversions (to take action such as filling out a form, supplying an email address or making a purchase.) Federal agencies may benefit from using quizzes as part of their communication strategy.

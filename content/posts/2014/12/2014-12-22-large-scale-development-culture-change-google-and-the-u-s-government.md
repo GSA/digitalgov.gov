@@ -5,12 +5,11 @@ title: 'Large Scale Development Culture Change: Google and the U.S. Government'
 summary: 'As part of 18F&#8217;s mission to deliver effective, user-centric services focused on the interaction between government and the people and businesses it serves, we are also committed to demonstrating how open source and agile-inspired methodologies are critical to an effective, efficient, modern delivery process. We believe these methods produce better software and services at lower'
 authors:
   - mike-bland
-categories:
-  - Code
-  - UX
-tag:
-  - 18F
-  - open source
+topics:
+  - code
+  - ux
+  - 18f
+  - open-source
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Old-Way-or-New-Way-IvelinRadkov-iStock-THinkstock-496474697.jpg" alt="Old Way or New Way" caption="" >}} 

@@ -7,15 +7,14 @@ authors:
   - chris-goranson
   - emileigh-barnes
   - phoebe-espiritu
-categories:
-  - Content
+topics:
+  - content
   - user-testing-and-research
-  - Writing
-tag:
+  - writing
   - accessibility
   - content
-  - Plain language
-  - user centered design
+  - plain-language
+  - user-centered-design
   - user research
 ---
 

@@ -6,15 +6,14 @@ slug: fractal-and-federalist-join-the-u-s-web-design-standards
 summary: 'We’ve recently added two powerful tools to the U.S. Web Design Standards development workflow that allow us to preview, test, and publish the Standards code more quickly and easily. Fractal Fractal is a powerful and flexible framework for building interactive component libraries. It’s similar to Jekyll (which we use to publish the Standards site) in'
 authors:
   - shawn-allen
-categories:
-  - Code
-  - Design
-tag:
-  - GitHub
-  - open source
-  - responsive web design
-  - US Web Design Standards
-  - user centered design
+topics:
+  - code
+  - design
+  - github
+  - open-source
+  - responsive-web-design
+  - uswds
+  - user-centered-design
 ---
 
 We’ve recently added two powerful tools to the [U.S. Web Design Standards](https://standards.usa.gov/) development workflow that allow us to preview, test, and publish the Standards code more quickly and easily.

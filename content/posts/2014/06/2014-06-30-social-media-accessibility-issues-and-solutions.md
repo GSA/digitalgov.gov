@@ -5,20 +5,19 @@ title: 'Social Media: Accessibility Issues and Solutions'
 summary: 'The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information&mdash;people with disabilities&mdash;since they have the least access to it. Like many websites, social media platforms'
 authors:
   - victoria-wales
-categories:
-  - Accessibility
-  - Monthly Theme
-  - Social Media
-  - Video
-  - Writing
-tag:
+topics:
+  - accessibility
+  - monthly-theme
+  - social-media
+  - video
+  - writing
   - accessibility
   - crowdsourcing
   - FCC
   - Federal Communications Commission
   - infographic
-  - Plain language
-  - social media
+  - plain-language
+  - social-media
 ---
 
 {{< legacy-img src="2014/06/600-x-215-The-Art-of-Social-Media-by-mkhmarketing-flickr-CC-BY-2-0.jpg" alt="Social media icons on the ends of brightly colored chalk" caption="The Art of Social Media by mkhmarketing CC BY 2.0" >}} 

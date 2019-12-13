@@ -5,15 +5,14 @@ title: Five Years of Open Data—Making a Difference
 summary: 'In May 2009, Data.gov was an experiment. There were questions: would people use the data? would agencies share the data? and would it make a difference? We’ve all come a long, long way to answering those questions, starting with only 47 datasets and having 105,000 datasets today. We realized that this was never simply about'
 authors:
   - jeanne-holm
-categories:
-  - API
-  - Data
-tag:
-  - American Red Cross
-  - data.gov
+topics:
+  - api
+  - data
+  - american-red-cross
+  - data-gov
   - DOT
   - GitHub
-  - open data
+  - open-data
   - US Department of Agriculture
   - United States Department of Transportation
   - USDA

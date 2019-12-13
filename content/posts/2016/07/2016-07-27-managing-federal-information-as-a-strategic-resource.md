@@ -8,14 +8,14 @@ authors:
   - howard-shelanski
   - anne-rung
   - marc-groman
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
+  - strategy
+  - policy
   - acquisition
   - Office of Management and Budget
   - OMB
-  - open data
+  - open-data
   - policy
   - privacy
   - security

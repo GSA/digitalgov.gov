@@ -5,11 +5,10 @@ title: 'The Data Briefing: 2016 Trends That Could Affect Federal Government Data
 summary: 'Many IT pundits predict 2016 will be a major tipping point in data and related technologies. Here are just a few predictions: 1) The Internet of Things&mdash;The number of devices that can connect to the Internet increases, especially in consumer electronics. Also, the number of sensors will dramatically increase providing more real-time data on weather,'
 authors:
   - bbrantley
-categories:
-  - Monthly Theme
-tag:
+topics:
+  - monthly-theme
   - Internet of things
-  - The Data Briefing
+  - the-data-briefing
   - United States Patent and Trademark Office
   - USPTO
 ---
@@ -52,4 +51,4 @@ _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trad
 
 
 
-Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter]({{< link "/about/subscribe/" >}})!
+Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter]({{< ref "/about/subscribe.md" >}})!

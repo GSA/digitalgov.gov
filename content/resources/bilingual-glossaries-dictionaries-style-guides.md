@@ -1,10 +1,17 @@
 ---
-url: /resources/bilingual-glossaries-dictionaries-style-guides/
+slug: bilingual-glossaries-dictionaries-style-guides
 date: 2014-06-11 9:55:09 -0400
 title: 'Bilingual Glossaries, Dictionaries, and Style Guides'
 summary: 'Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government.'
-type: guide
+
 deck: 'Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.'
+
+topics:
+  - multilingual
+  - multilingual-community
+
+weight: 2
+
 authors:
   - lgodfrey
   - lmartinez
@@ -32,7 +39,7 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 #### Consumer Financial Protection Bureau (CFPB)
 
-The Bureau updated the [Glossary of English-Spanish Financial Terms](https://s3.amazonaws.com/files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf) (505 kb, PDF, 76 pages) with additional terminology compiled from other agencies and entities. 
+The Bureau updated the [Glossary of English-Spanish Financial Terms](https://s3.amazonaws.com/files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_spanish-style-guide-glossary.pdf) (505 kb, PDF, 76 pages) with additional terminology compiled from other agencies and entities.
 
 [Glossary of English-Chinese Financial Terms](https://files.consumerfinance.gov/f/documents/cfpb_adult-fin-ed_chinese-style-guide-glossary.pdf) (PDF, 1.5 MB, 71 pages)
 
@@ -59,7 +66,7 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 - [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://www.minorityhealth.hhs.gov/OMHRC/) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
 - The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers two PDF files to download:
    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
-   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages). 
+   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages).
 
 
 
@@ -100,7 +107,7 @@ The National Cancer Institute has a dictionary of cancer terms in English and Sp
 
 #### USAGov Bilingual Style Guide
 
-The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents) is a practical guide on the best practices used to create bilingual digital content for [USAGov](https://www.usa.gov/) and [USAGov en Español](https://www.usa.gov/espanol/). 
+The [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents) is a practical guide on the best practices used to create bilingual digital content for [USAGov](https://www.usa.gov/) and [USAGov en Español](https://www.usa.gov/espanol/).
 
 #### The City and County of San Francisco
 

@@ -1,0 +1,18 @@
+{{/* Google Group platforms */}}
+
+<a href="{{- .e.subscribe_form -}}" class="join type-{{- .e.platform -}}"><i class="fab fa-google"></i> Join the Google Group</a>
+
+<p>To join, <a href="{{ .e.subscribe_form }}" title="Fill out our form">fill out our form</a>
+  {{- if .e.subscribe_email }}
+    or email <strong>{{- .e.subscribe_email -}}</strong> with
+    {{ if .e.subscribe_email_subject }}
+      <code>{{ .e.subscribe_email_subject }}</code>
+    {{ else }}
+      nothing
+    {{ end }}
+    in the subject
+    {{- if .e.subscribe_email_body }}
+      and <code>{{ .e.subscribe_email_body }}</code> in the body
+    {{- end -}}
+  {{- end -}}.
+</p>

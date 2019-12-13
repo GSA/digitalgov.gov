@@ -5,11 +5,10 @@ title: API Security
 summary: 'Like website development, API security revolves around three stages&mdash;planning the API, testing the API, and monitoring the API after it has launched. The planning stage requires those involved to conceptually map several design decisions and the impact that they will have on security. The second stage applies your agency’s security program to the API release'
 authors:
   - gray-brooks
-categories:
-  - API
-  - Code
-tag:
-  - API
+topics:
+  - api
+  - code
+  - api
   - security
 ---
 
@@ -36,7 +35,7 @@ As with all Web assets in an environment, the basic issues revolve around access
 
 If part of all of an API is intended for internal staff only, then the Network Operations staff can employ the same methods that establish your intranet (gateway, firewall, network settings) in order to ensure that the API endpoints are only accessible from within the network. If the API is intended for public access or even access by select outside groups, the same network staff must ensure that only the intended systems are exposed through the API.
 
-As discussed [elsewhere](https://digitalgov.sites.usa.gov/2013/03/12/api-basics#common-technical-choices "API Basics"), authentication may serve several purposes unrelated to security but its core use is to empower the API producer to manage those who have access to the API and wish to interact with it. If only certain members of the public should be able to access an API, then authentication measures such as API keys and [OAuth](http://en.wikipedia.org/wiki/OAuth) can be employed to control access to the API. Even if any member of the public is welcome to use the API, authentication allows for the regulation of those users—empowering the API manager to throttle or cut off inappropriate or malicious use.
+As discussed [elsewhere](https://digital.gov/2013/03/12/api-basics#common-technical-choices "API Basics"), authentication may serve several purposes unrelated to security but its core use is to empower the API producer to manage those who have access to the API and wish to interact with it. If only certain members of the public should be able to access an API, then authentication measures such as API keys and [OAuth](http://en.wikipedia.org/wiki/OAuth) can be employed to control access to the API. Even if any member of the public is welcome to use the API, authentication allows for the regulation of those users—empowering the API manager to throttle or cut off inappropriate or malicious use.
 
 APIs often provide access to certain sections of data and with various permissions, depending on the intended use cases. APIs are often built to provide certain data from a system that includes other sensitive data and in these cases, the Network Operations staff can ensure that either only certain information is accessible while the API producers can customize the API design to respect only the intended set of queries.
 

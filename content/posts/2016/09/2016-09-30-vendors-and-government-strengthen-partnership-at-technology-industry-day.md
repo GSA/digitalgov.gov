@@ -5,22 +5,22 @@ title: Vendors and Government Strengthen Partnership at Technology Industry Day
 summary: 'On September 8th, the General Services Administration (GSA) held a Technology Industry Day to talk to industry leaders about the products and solutions developed by our agency and to hear feedback on how we can better engage industry. We’re thrilled that more than 300 members of the technology industry in person and via the live'
 authors:
   - andre-francisco
-categories:
-  - Code
-  - Data
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - code
+  - data
+  - product-management
+  - strategy
+  - policy
+  - 18f
   - agile
   - cloud
-  - cloud.gov
+  - cloud-gov
   - data
-  - DATA Act
+  - data-act
   - Digital Accountability and Transparency Act
   - FAS
   - Federal Acquisition Service
-  - FedRAMP
+  - fedramp
   - GSA
   - HHS
   - innovation
@@ -34,7 +34,7 @@ tag:
   - TTS
   - US Department of the Treasury
   - US General Services Administration
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 On September 8th, the General Services Administration (GSA) held a Technology Industry Day to talk to industry leaders about the products and solutions developed by our agency and to hear feedback on how we can better engage industry. We’re thrilled that more than 300 members of the technology industry in person and via the live stream were able to join us for this first step towards a closer partnership and more open lines of communication about how we can work together to transform federal technology.

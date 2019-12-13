@@ -5,15 +5,14 @@ title: 'The API Briefing: Mapping Food Deserts – The USDA Economic Research Se
 summary: Food deserts are areas where residents have little or no access to nutritional food. Food deserts exist because of low-incomes, lack of transportation, or too few stores that stock produce and other healthy food items. Governments from the local level to federal have implemented grant programs to encourage grocery store construction in the food deserts.
 authors:
   - bbrantley
-categories:
-  - API
-  - Code
-  - Mobile
-tag:
-  - API
+topics:
+  - api
+  - code
+  - mobile
+  - api
   - US Department of Agriculture
   - USDA
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2014/05/600-x-450-Winter-Park-Florida-Farmers-Market-Meagan-Perosha-CC-BY-Aug8th2012-7740419238\_edb40b4b7e\_o.jpg" alt="Shoppers and produce at a Winter Park, Florida Farmers Market" caption="" >}} 

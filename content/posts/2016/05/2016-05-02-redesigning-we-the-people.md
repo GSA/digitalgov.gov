@@ -5,19 +5,18 @@ title: Redesigning We the People
 summary: 'Summary: Improving the way you engage with the White House through our online petitions platform In July 2015, we announced a big change in the way we would answer petitions on We the People. We committed to responding to you within a 60-day timeframe, whenever possible. We assembled a team of people dedicated to getting your policy questions and'
 authors:
   - jason-goldman
-categories:
-  - Content
-  - Design
-  - Managing Digital
-  - Mobile
-  - user-testing-and-research
-  - UX
-tag:
-  - content strategy
+topics:
+  - content
+  - design
+  - product-management
   - mobile
-  - user centered design
-  - user experience
-  - UX
+  - user-testing-and-research
+  - ux
+  - content-strategy
+  - mobile
+  - user-centered-design
+  - user-experience
+  - ux
 ---
 
 > Summary: Improving the way you engage with the White House through our online petitions platform

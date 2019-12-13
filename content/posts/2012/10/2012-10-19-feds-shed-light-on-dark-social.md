@@ -5,14 +5,13 @@ title: Feds Shed Light on Dark Social
 summary: '&#8220;Dark Social&#8221; media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant'
 authors:
   - jherman
-categories:
-  - Communities
-  - Metrics
-  - Social Media
-tag:
-  - AoI
+topics:
+  - communities
+  - metrics
+  - social-media
+  - aoi
   - SocialGov
-  - SocialGov Community
+  - socialgov-community
 ---
 
 **[{{< legacy-img src="2013/12/key-metrics.jpg" alt="Image of visualized performance metrics." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/key-metrics.jpg)&#8220;Dark Social&#8221;** media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant messaging.
@@ -64,4 +63,4 @@ Understanding nuances, like what drives direct traffic, is a challenge we&#8217;
 
 We look forward to discussing dark social and government strategy more during our weekly office hours for feds via Google Hangout, and on the <a href="https://twitter.com/search?q=SocialGov&src=typd" target="_blank">#SocialGov hashtag</a>.
 
-For more information, follow the Federal Social Media Community of Practice and its 12-agency [Social Media Performance Metrics Working Group](https://digitalgov.sites.usa.gov/2013/04/19/social-media-metrics-for-federal-agencies-2/ "Social Media Metrics for Federal Agencies").\
+For more information, follow the Federal Social Media Community of Practice and its 12-agency [Social Media Performance Metrics Working Group](https://digital.gov/2013/04/19/social-media-metrics-for-federal-agencies-2/ "Social Media Metrics for Federal Agencies").\

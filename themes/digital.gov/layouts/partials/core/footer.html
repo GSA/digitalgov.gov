@@ -1,0 +1,66 @@
+<section class="return-to-top">
+  <div class="grid-container grid-container-desktop usa-footer__return-to-top">
+    <div class="grid-row">
+      <div class="grid-col-auto">
+        <a href="#"><span>Return to top</span> <i class="fas fa-arrow-circle-up"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="usa-footer usa-footer--big" role="contentinfo">
+  <div class="usa-footer__primary-section">
+    <div class="grid-container grid-container-desktop">
+      <nav class="usa-footer__nav">
+        <div class="grid-row grid-gap-4">
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+              <h4 class="usa-footer__primary-link">Learn</h4>
+              <ul class="usa-list usa-list--unstyled">
+                {{- range .Site.Menus.primary -}}
+                  <li class="usa-footer__secondary-link"><a href="{{- .URL -}}">{{- .Name -}}</a></li>
+                {{- end -}}
+              </ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+              <h4 class="usa-footer__primary-link">Contribute</h4>
+              <ul class="usa-list usa-list--unstyled">
+                {{- range .Site.Menus.contribute -}}
+                  <li class="usa-footer__secondary-link"><a href="{{- .URL -}}">{{- .Name -}}</a></li>
+                {{- end -}}
+              </ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+              <h4 class="usa-footer__primary-link">About</h4>
+              <ul class="usa-list usa-list--unstyled">
+                {{- range .Site.Menus.about -}}
+                  <li class="usa-footer__secondary-link"><a href="{{- .URL -}}">{{- .Name -}}</a></li>
+                {{- end -}}
+              </ul>
+            </section>
+          </div>
+
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+              <h4 class="usa-footer__primary-link">Social</h4>
+              <ul class="usa-list usa-list--unstyled social-links">
+                <li class="usa-footer__secondary-link"><i class="fab fa-twitter"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://twitter.com/digital_gov">Twitter</a></li>
+                <li class="usa-footer__secondary-link"><i class="fab fa-facebook-f"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://www.facebook.com/digitalgov/">Facebook</a></li>
+                <li class="usa-footer__secondary-link"><i class="fab fa-youtube"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://youtube.com/digitalgov">YouTube</a></li>
+                <li class="usa-footer__secondary-link"><i class="fas fa-rss"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="{{- "/" | relURL -}}index.xml">RSS</a></li>
+                <li class="usa-footer__secondary-link"><i class="far fa-envelope"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="mailto:digitalgov@gsa.gov">Email us</a></li>
+              </ul>
+
+            </section>
+          </div>
+
+
+        </div>
+      </nav>
+    </div>
+  </div>
+</footer>

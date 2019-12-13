@@ -7,31 +7,30 @@ featured_image:
   uid: "silhouettes-of-business-people-discussing-outdoors-rawpixel-ltd-istock-thinkstock-490926205"
 authors:
   - bbrantley
-categories:
-  - Data
+topics:
+  - data
   - emerging-tech
-  - Managing Digital
-  - UX
-tag:
-  - The Data Briefing
-  - user experience
-  - UX
-  - 3D printing
-  - Artificial Intelligence
-  - Artificial Intelligence for Citizen Services Community
-  - Augmented Reality
+  - product-management
+  - ux
+  - the-data-briefing
+  - user-experience
+  - ux
+  - 3d-printing
+  - artificial-intelligence
+  - artificial-intelligence-for-citizen-services-community
+  - augmented-reality
   - blockchain
-  - Customer Experience
-  - Customer Experience Community of Practice
-  - customer service
-  - CX
+  - cx
+  - customer-experience-community-of-practice
+  - customer-service
+  - cx
   - Human Resources
   - infrastructure
   - innovation
   - Internet of Things
   - skills
-  - Virtual Reality
-  - Virtual/Augmented Reality Community
+  - virtual-reality
+  - virtual-augmented-reality-community
 ---
 
 Since 2007, a major consulting firm has conducted an annual survey on organizations' “Digital IQ.” In the ten years of organizations grappling with digital transformation, what has been learned? [From the report](https://www.pwc.com/us/en/advisory-services/digital-iq.html):

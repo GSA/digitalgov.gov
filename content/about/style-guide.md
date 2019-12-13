@@ -2,13 +2,12 @@
 url: /style-guide/
 date: 2018-04-26 10:25:54 -0400
 title: 'DigitalGov Style Guide'
-type: guide
 summary: 'This is the DigitalGov style guide.'
 deck: 'We encourage you to use the guidelines below to ensure that content on digital.gov is clear, concise, and benefits the widest possible audience.'
 
 ---
 
-:tada: Welcome to the DigitalGov style guide! 
+:tada: Welcome to the DigitalGov style guide!
 
 Below you’ll find guidance for voice and tone, author bios and photos, branding, grammar, images, plain language, inclusive language, and more. We will soon update details on _how_ to submit to DigitalGov.
 
@@ -173,7 +172,7 @@ While the website URL (domain) is now digital.gov (formerly: digitalgov.gov), pl
 ### Branded names and initialisms or acronyms for related services and programs:
 
 - **[Digital Analytics Program](https://www.digital.gov/dap/)** (DAP)
-  - DAP’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
+  - dap’s dashboard website domain and name are the same: [analytics.usa.gov](https://analytics.usa.gov)
 - **DigitalGov Search** was renamed: **[Search.gov](https://www.digital.gov/services/search/)**
 - **[DigitalGov University](https://www.digital.gov/digitalgov-university/)** (DGU)
 - **[Emerging Citizen Technology Office](https://emerging.digital.gov/)** (ECTO)

@@ -2,21 +2,19 @@
 slug: responding-federal-plain-language-report-card
 title: 'Responding to the Federal Plain Language Report Card'
 summary: 'We will discuss the Federal Plain Language Report Card and how to address the issues the report card brings up&#46;'
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: ''
-event_type: 
-  - online
+event_platform: zoom
 date: 2018-11-14 14:00:00 -0500
 end_date: 2018-11-14 15:00:00 -0500
 event_organizer: DigitalGov University
 host: Plain Language
 registration_url: https://www.eventbrite.com/e/responding-to-the-federal-plain-language-report-card-registration-51527002652
-categories:
-tag:
+captions: https://www.captionedtext.com/client/event.aspx?EventID=3817183&CustomerID=321
+topics:
+  - content
   - plain-language
-  - plain-language-community-of-practice
-
 ---
 
 [The Center for Plain Language](https://centerforplainlanguage.org/), a non-profit organization, helps government agencies and businesses write clear and understandable communications.
@@ -34,4 +32,3 @@ The Plain Language Action and Information Network (PLAIN) is a group of federal 
 - Visit [plainlanguage.gov](https://www.plainlanguage.gov/)
 - Join the [community](https://digital.gov/communities/plain-language/)
 - Follow [@govplainlang on Twitter](https://twitter.com/govplainlang)
-

@@ -5,12 +5,11 @@ title: 'Analytics Restoration: Improving on a Classic'
 summary: Sometimes it is important to take a fresh look at a classic. As we digital analysts can attest, the array of software now available to our respective analytics programs has grown tremendously over the past few years. Even as we play catch-up to our private sector leaders, many digital analytics programs across the federal government
 authors:
   - hhs-digital-analytics-team
-categories:
-  - Metrics
-tag:
+topics:
+  - metrics
   - analytics
   - HHS
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Vintage-red-coupe-ladimiroquai-iStock-Thinkstock-464976020.jpg" alt="Vintage red convertible coupe" caption="" >}} 

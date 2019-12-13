@@ -5,22 +5,21 @@ title: 'The Content Corner: Branches—Stick to the Vine'
 summary: A branch that does not stick to its source of nutrition will wither away and die. Just ask anyone who has received a bouquet of beautiful flowers about how long they really last. In the same way, as communicators we must stay connected to our audience, or we risk the chance of fading away into
 authors:
   - kyle-s-richardson
-categories:
-  - Content
-tag:
+topics:
+  - content
   - accessibility
   - DOE
   - First Responders Network
   - National Weather Service
   - NWS
-  - social media
+  - social-media
   - SocialGov
-  - The Content Corner
+  - the-content-corner
   - US Digital Service
   - United States Department of Energy
   - USDS
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 A branch that does not stick to its source of nutrition will wither away and die. Just ask anyone who has received a bouquet of beautiful flowers about how long they really last. In the same way, as communicators we must stay connected to our audience, or we risk the chance of fading away into insignificance. {{< legacy-img src="2016/04/600-x-400-Napa-Valley-Grape-Vine-closeup-in-Spring-bbourdages-iStock-Thinkstock-106443252.jpg" alt="Rows of vines at a Napa Valley vineyard in spring" caption="" >}} 
@@ -47,7 +46,7 @@ This is a fact that cannot be overstated, regardless of platform (blog, social m
   </blockquote>
   
   <p>
-    as did the Department of Energy (DOE). To spur greater public dialogue about the future of solar energy, DOE “<a href="{{< link "2016-04-06-remixing-content-shining-sunlight-on-the-sunshot-initiatives-solar-energy-rd-project-map.md" >}}">remixed their content</a>,” displaying their projects on an interactive map as part of the SunShot Initiative.</li> 
+    as did the Department of Energy (DOE). To spur greater public dialogue about the future of solar energy, DOE “<a href="{{< ref "2016-04-06-remixing-content-shining-sunlight-on-the-sunshot-initiatives-solar-energy-rd-project-map.md" >}}">remixed their content</a>,” displaying their projects on an interactive map as part of the SunShot Initiative.</li> 
     
     <li style="margin-bottom: 15px">
       <strong>Have a short memory</strong>: Getting stuck on the first mistake can deter future successes. Keep looking ahead, and remember to stick to the plan you’ve laid out for connecting with your audience (with tweaks here and there based on your results). (Football reference below, at the risk of turning off many readers—good NFL cornerbacks are <a href="http://www.nfl.com/news/story/0ap3000000639931/article/hargreaves-leads-safest-picks-among-cbs-in-2016-nfl-draft">said to have short memories</a> so they can move on after a bad play—<a href="http://kryptonianroe.tumblr.com/post/101556575022">like this guy</a>).
@@ -56,7 +55,7 @@ This is a fact that cannot be overstated, regardless of platform (blog, social m
       <strong>Stay focused</strong>:<strong> </strong>As Haley Van Dyck from the U.S. Digital Service said at a recent <a href="https://www.ted.com/talks/haley_van_dyck_how_a_start_up_in_the_white_house_is_changing_business_as_usual">TEDTalk</a>: &#8220;We care about making government work better, because it’s the only one we’ve got.&#8221; Every piece of content we create should be working towards this goal, improving services for our audience. At first glance, visitors may not be 100% on board with your content. However, they might come back if they are offered something in return.
     </li>
     <li style="margin-bottom: 15px">
-      <strong>Be inclusive</strong>:<strong> </strong>We all get frustrated when we experience slow load times or don’t find the content we expect when <a href="{{< link "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}}">clicking on a link</a>. But what if you have vision impairment and you click on a link from your favorite social media channel, only to find that the landing page is full of images that are not readable by screen readers? Staying <a href="{{< link "2015-01-28-6-digital-media-trends-for-2015-you-can-make-them-accessible.md" >}}">508 compliant</a> will create an accessible user experience.
+      <strong>Be inclusive</strong>:<strong> </strong>We all get frustrated when we experience slow load times or don’t find the content we expect when <a href="{{< ref "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}}">clicking on a link</a>. But what if you have vision impairment and you click on a link from your favorite social media channel, only to find that the landing page is full of images that are not readable by screen readers? Staying <a href="{{< ref "2015-01-28-6-digital-media-trends-for-2015-you-can-make-them-accessible.md" >}}">508 compliant</a> will create an accessible user experience.
     </li></ol> 
     
     <p>
@@ -72,5 +71,5 @@ This is a fact that cannot be overstated, regardless of platform (blog, social m
     </p>
     
     <p>
-      <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< link "tag/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
+      <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< ref "/topics/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
     </p>

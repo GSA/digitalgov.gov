@@ -6,12 +6,12 @@ summary: 'Effective May 15, 2017, GSA’s DotGov Domain Registration Program wil
 authors:
   - marina-fox
   - eric-mill
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
+  - strategy
+  - policy
   - GSA
-  - HTTPS
+  - https
   - security
   - US General Services Administration
 ---

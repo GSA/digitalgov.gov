@@ -1,8 +1,10 @@
 ---
-url: /resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/
+slug: readiness-recovery-response-social-media-cyber-vandalism-toolkit
 date: 2015-01-27 1:09:20 -0400
 title: 'Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit'
 summary: Cyber-vandalism presents a serious challenge to online-based communication tools. Users need available resources to counter intrusions of social media accounts. This document provides guidance and security practices to federal, state, and local government employees. Suggestions and resources prepare users to respond to cyber-hijacking. and will empower digital users to make informed choices and enact future
+topics:
+  - social-media
 authors:
   - jherman
 ---
@@ -77,7 +79,7 @@ Online-based communication tools offer resources, each with unique strengths and
   5. Train stakeholders and others on the procedures and policies of social media cyber-security. 
       * Require training before use of an account.
   6. Use only authorized URL Shorteners, e.g. [go.USA.gov](https://go.usa.gov/).
-  7. Add all official accounts to the [U.S. Digital Registry]({{< link "u-s-digital-registry.md" >}}), verifying authenticity of ownership. 
+  7. Add all official accounts to the [U.S. Digital Registry]({{< ref "service_us-digital-registry.md" >}}), verifying authenticity of ownership. 
       * This tool, used by both Facebook and Google to verify accounts, tracks official federal social media accounts.
       * List Department of Defense (DoD) social media accounts in the [DoD Social Media Site Registry](http://www.defense.gov/RegisteredSites/SocialMediaSites.aspx). 
           * Per [DOD Web Policy](http://www.defense.gov/webmasters/) and [DoDI 8550.01](http://www.dtic.mil/whs/directives/corres/pdf/855001p.pdf) , use [DoD Social Media Registry submission form](http://www.defense.gov/RegisteredSites/SubmitLink.aspx).
@@ -119,9 +121,9 @@ This type of authentication verifies a user attempting to access a device or sys
   * Webinar: [Operations Security (OPSEC) & Social Media: Balancing Security, Secrecy, & Transparency](https://www.youtube.com/watch?v=aa7BKJ6sk8g)
   * Webinar: [How to Recover from a Social Media Crisis](https://www.youtube.com/watch?v=K0yy3wviTvM)
   * Webinar: [How Government Can Prepare for and Respond to Social Media Hacks](https://www.youtube.com/watch?v=tesgduqeyjI)
-  * Post: [Beware the Cyber Security House of Horrors]({{< link "2014-10-30-cyber-house-of-horrors.md" >}})
-  * Post: [Twitter&#8217;s Two Step Verification Process]({{< link "2013-05-31-twitters-two-step-verification-process.md" >}})
-  * Post: [Government Must Respond Rapidly to Social Media Hacking]({{< link "2013-04-25-government-must-respond-rapidly-to-social-media-hacking.md" >}})
+  * Post: [Beware the Cyber Security House of Horrors]({{< ref "2014-10-30-cyber-house-of-horrors.md" >}})
+  * Post: [Twitter&#8217;s Two Step Verification Process]({{< ref "2013-05-31-twitters-two-step-verification-process.md" >}})
+  * Post: [Government Must Respond Rapidly to Social Media Hacking]({{< ref "2013-04-25-government-must-respond-rapidly-to-social-media-hacking.md" >}})
 
 # Recovery: Phase 2
 

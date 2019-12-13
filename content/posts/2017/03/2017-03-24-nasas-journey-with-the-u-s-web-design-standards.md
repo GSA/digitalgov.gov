@@ -5,24 +5,24 @@ title: 'NASA&#8217;s Journey With the U.S. Web Design Standards'
 summary: 'The U.S. Web Design Standards were created by the government, for the government. They’re currently implemented on hundreds of government sites, with an audience of more than 26 million monthly users. They’ve also been recommended by the Office of Management and Budget (OMB) for all government agencies to ensure a consistent look and feel of'
 authors:
   - julia-elman
-categories:
-  - Accessibility
-  - Design
-  - strategy-and-policy
-  - UX
-tag:
-  - 18F
+topics:
+  - accessibility
+  - design
+  - strategy
+  - policy
+  - ux
+  - 18f
   - accessibility
   - DGU
-  - DigitalGov University
-  - NASA
+  - digitalgov-university
+  - nasa
   - National Aeronautics and Space Administration
   - Office of Management and Budget
   - OMB
-  - responsive web design
-  - section 508
+  - responsive-web-design
+  - section-508
   - training
-  - US Web Design Standards
+  - uswds
   - user research
   - webinar
 ---
@@ -49,4 +49,4 @@ The [U.S. Web Design Standards](https://standards.usa.gov/) were created by the 
 
 We’re looking to learn more [from agencies that have used the Standards](https://github.com/18F/web-design-standards/blob/develop/WHO_IS_USING_USWDS.md); if you’re interested in talking to us about your experience or have any feedback, feel free to [send us an email](mailto:uswebdesignstandards@gsa.gov). You can also chat with the team in the new [public Slack channel for the Standards](https://chat.18f.gov./)!
 
-Also, on January 25th, we [hosted a DGU webinar](https://www.youtube.com/watch?v=VUPbn1phbxk) to share more information about the features and [future of the Standards](https://18f.gsa.gov/2016/12/22/charting-the-future-of-the-draft-us-web-design-standards/), including the 1.0 release. Check it out to learn more or follow along at [standards.usa.gov](https://standards.usa.gov/)._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ _If you have a **.gov** or **.mil** email address, check out the various [DigitalGov Communities]({{< link "/communities/" >}}) that you can join, like MobileGov, the Web Content Managers Forum, and the User Experience (UX) Community of Practice._ _Check out our Events platform, [DigitalGov University]({{< link "/digitalgov-university/" >}}) (DGU), and [register for an upcoming event]({{< link "events" >}}) today! If you’d like to find out how your agency can create an online or in-person DGU event, or partner with them on your own event, please [fill out this form]({{< link "/digitalgov-university/" >}})._
+Also, on January 25th, we [hosted a DGU webinar](https://www.youtube.com/watch?v=VUPbn1phbxk) to share more information about the features and [future of the Standards](https://18f.gsa.gov/2016/12/22/charting-the-future-of-the-draft-us-web-design-standards/), including the 1.0 release. Check it out to learn more or follow along at [standards.usa.gov](https://standards.usa.gov/)._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ _If you have a **.gov** or **.mil** email address, check out the various [DigitalGov Communities]({{< ref "/communities" >}}) that you can join, like MobileGov, the Web Content Managers Forum, and the User Experience (UX) Community of Practice._ _Check out our Events platform, [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU), and [register for an upcoming event]({{< ref "/events" >}}) today! If you’d like to find out how your agency can create an online or in-person DGU event, or partner with them on your own event, please [fill out this form]({{< ref "/about/digitalgov-university.md" >}})._

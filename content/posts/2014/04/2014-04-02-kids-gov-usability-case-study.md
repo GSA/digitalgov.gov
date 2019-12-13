@@ -5,13 +5,12 @@ title: 'Kids.gov &#8211; Usability Case Study'
 summary: 'For a children&#8217;s site, Kids.gov is pretty old&mdash;it was launched back in 2001. And it has the unenviable task of trying to keep pace with the rapidly changing online habits of youngsters. So in 2012, Kids.gov Director Arlene Hernandez thought her site was due a usability test with its two main audiences: kids and their'
 authors:
   - jonathan-rubin
-categories:
-  - UX
-tag:
+topics:
+  - ux
   - first-click testing
   - prototype
-  - usability case study
-  - user experience
+  - usability-case-study
+  - user-experience
 ---
 
 <p dir="ltr">
@@ -43,7 +42,7 @@ tag:
 [{{< legacy-img src="2014/03/Kids.gov-annotated-before-2-1.jpg" alt="Screenshot of a kids.gov prototype before their relaunch" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/Kids.gov-annotated-before-2-1.jpg)
 
 <p dir="ltr">
-  Finally, Hernandez had enough data to finish the design and test the final version. In March 2012 she and a contractor conducted remote usability tests on the earlier version of the new design. Then a year later, in April 2013, on <a href="{{< link "2013-04-26-how-to-do-usability-testing-with-kids.md" >}}">“Take Your Kids To Work Day”</a> they got permission to show the design to the children of their colleagues via a <a href="{{< link "2014-02-19-10-tips-for-better-hallway-usability-testing.md" >}}">Hallway Usability Test</a>. Each test had more than a dozen tasks and asked lots of open-ended questions.
+  Finally, Hernandez had enough data to finish the design and test the final version. In March 2012 she and a contractor conducted remote usability tests on the earlier version of the new design. Then a year later, in April 2013, on <a href="{{< ref "2013-04-26-how-to-do-usability-testing-with-kids.md" >}}">“Take Your Kids To Work Day”</a> they got permission to show the design to the children of their colleagues via a <a href="{{< ref "2014-02-19-10-tips-for-better-hallway-usability-testing.md" >}}">Hallway Usability Test</a>. Each test had more than a dozen tasks and asked lots of open-ended questions.
 </p>
 
 ## **Kids.gov Version 3: Launched June 2012**
@@ -59,5 +58,5 @@ tag:
 </p>
 
 <p dir="ltr">
-  <em>See more Before and After case studies on our <a href="{{< link "government-usability-case-studies.md" >}}">Usability Case Study</a> page.</em>
+  <em>See more Before and After case studies on our <a href="{{< ref "government-usability-case-studies.md" >}}">Usability Case Study</a> page.</em>
 </p>

@@ -5,11 +5,10 @@ title: 'DigitalGov Summit Recap: How &#8220;We, the Techies&#8221; Can Effect Ch
 summary: 'Who do you need to bring to the table to make a better world? In May, Megan Smith, Chief Technology Officer of the United States, delivered the keynote address at the 2015 DigitalGov Citizen Services Summit. She encouraged attendees to find ways of unlocking potential through collaborations from both within and outside of government. &ldquo;We'
 authors:
   - awichman
-categories:
-  - Managing Digital
-  - Monthly Theme
-  - Our Work
-tag:
+topics:
+  - product-management
+  - monthly-theme
+  - our-work
   - DigitalGov Summit
   - Recaps
 ---
@@ -24,7 +23,7 @@ In May, Megan Smith, Chief Technology Officer of the United States, delivered th
 
 Smith acknowledged that “We, the Techies,” have not always been included in federal decision-making. The result? A buried tech talent around government, and a culture where technology is done through vendors or services. This separateness is not true of other disciplines; she pointed to law and medicine as areas where the government attracts talent in a way where people flow in and out of government. For example, lawyers may clerk for federal judges early in their careers.
 
-To change the tide, Smith encouraged [cross-government collaborations]({{< link "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}), merging the best digital initiatives and talent with the best programmatic efforts that already exist.
+To change the tide, Smith encouraged [cross-government collaborations]({{< ref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}), merging the best digital initiatives and talent with the best programmatic efforts that already exist.
 
 Building bridges outside of government is another area where Smith pointed to the impact of government technologists. She discussed [police data initiatives](https://www.whitehouse.gov/blog/2015/05/18/launching-police-data-initiative) as a current issue where collaborations between community organizers, police leadership, the public, and open data initiatives are working together towards positive change.
 

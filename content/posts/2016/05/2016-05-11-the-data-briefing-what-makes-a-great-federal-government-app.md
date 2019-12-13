@@ -5,27 +5,27 @@ title: 'The Data Briefing: What Makes a Great Federal Government App?'
 summary: 'USAGov recently released a list of six great federal government mobile apps. There were many apps released by the federal government over the last 5-6 years on a wide range of topics and services. Many are well-designed and useful to the American public. So, what are the outstanding federal government apps for 2016?'
 authors:
   - bbrantley
-categories:
-  - Data
-  - Mobile
-tag:
-  - CDC
+topics:
+  - data
+  - mobile
+  - cdc
   - Census
-  - Centers for Disease Control and Prevention
-  - Federal Emergency Management Agency
-  - FEMA
+  - centers-for-disease-control-and-prevention
+  - federal-emergency-management-agency
+  - fema
   - Internal Revenue Service
   - IRS
   - mobile
-  - mobile apps
-  - native app
-  - native apps
+  - mobile-apps
+  - native-app
+  - native-apps
   - State
-  - The Data Briefing
+  - the-data-briefing
   - US Department of Agriculture
   - US Department of State
   - United States Census Bureau
-  - USAgov
+  - United States Patent and Trademark Office
+  - usagov
   - USDA
 
 ---
@@ -47,8 +47,8 @@ First, these apps have a unifying purpose and they fulfill that purpose well. Fo
 
 Equally important as to having a single, well-defined purpose and knowing the audience is a robustly-designed app. The app must be fast, and it must be stable. The app must also offer a good user experience. Each of these apps offers vital information that can affect a user’s finances or health. Therefore, the app must be dependable and intuitive.
 
-The federal government is continually releasing apps and will offer even more apps in the coming years. Even as the federal government moves into the post-app world of <a href="{{< link "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}">chatbots</a>, having a well-defined purpose, knowing the audience, and providing a good user experience are vital to building great apps and chatbots for the American public. 
+The federal government is continually releasing apps and will offer even more apps in the coming years. Even as the federal government moves into the post-app world of <a href="{{< ref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}">chatbots</a>, having a well-defined purpose, knowing the audience, and providing a good user experience are vital to building great apps and chatbots for the American public.
 
-*** 
+***
 
-_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._ 
+_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -1,0 +1,65 @@
+{{- partial "core/set-env.html" . -}}
+{{- $list := .Data.Pages -}}
+{{- $length := (len $list) -}}
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "sources",
+    "type" : "list",
+    "home_page_url" : "{{- .Site.BaseURL -}}",
+    "count" : "{{- $length -}}",
+    {{- with .OutputFormats.Get "JSON" -}}
+    "feed_url" : "{{- .Permalink -}}",
+    {{- end -}}
+    "items" : [
+    {{- range $index, $element := $list -}}
+    {
+        "slug" : "{{- .Params.slug | markdownify -}}",
+        {{- if (isset .Params "name") -}}
+        "name" : "{{- .Params.name | markdownify -}}",
+        {{- end -}}
+        {{- if (isset .Params "summary") -}}
+        "summary" : "{{- .Params.summary -}}",
+        {{- end -}}
+        {{- if (isset .Params "domain") -}}
+        "domain" : "{{- .Params.domain -}}",
+        {{- end -}}
+        {{- if (isset .Params "icon") -}}
+        "icon" : "{{- .Params.icon -}}",
+        {{- end -}}
+        {{- if (isset .Params "weight") -}}
+        "weight" : "{{- .Params.weight -}}",
+        {{- end -}}
+        {{- if (isset .Params "topics") -}}
+          "topics" : {
+          {{/* Sets the taxonomy we're pulling here */}}
+          {{- $taxonomy := "topics" -}}
+          {{- $topics := .Param $taxonomy -}}
+          {{/* Gets the number of topics that are applied */}}
+          {{- $length := $topics | len -}}
+
+          {{/* For each of the topics,... */}}
+          {{- range $i, $e := sort $topics -}}
+            {{- $slug := . -}}
+            {{/* Gets the Topics page */}}
+            {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
+              {{ if lt (add $i 1) $length }}
+              "{{- $slug -}}" : "{{- .Title }}",
+              {{- else }}
+              "{{- $slug -}}" : "{{- .Title }}"
+              {{ end }}
+            {{- end -}}
+
+          {{- end -}}
+          },
+        {{- end -}}
+
+        "branch" : {{ $.Scratch.Get "branch" | jsonify }},
+        "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
+        "filepath" : {{- with .File -}}{{- .Path | jsonify -}}{{- end -}},
+        "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        "url" : "{{- .Permalink -}}"
+    }{{- if ne (add $index 1) $length -}},{{- end -}}
+    {{- end -}}
+    ]
+}

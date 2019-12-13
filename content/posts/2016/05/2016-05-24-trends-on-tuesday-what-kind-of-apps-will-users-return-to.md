@@ -5,14 +5,13 @@ title: 'Trends on Tuesday: What Kind of Apps Will Users Return To?'
 summary: 'Flurry Analytics, a mobile application analytics company owned by Yahoo!, released a new report about app retention. Unless your app usage is around &#8220;gambling&#8221;&mdash;with cards (game apps), with your money (finance apps), with whether or not to bring an umbrella (weather apps), or with your health (fitness apps)&mdash;user retention and re-engagement is often a steep wall'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - analytics
   - metrics
   - mobile
-  - mobile apps
-  - Trends on Tuesday
+  - mobile-apps
+  - trends-on-tuesday
 ---
 
 Flurry Analytics, a mobile application analytics company owned by Yahoo!, released a [new report about app retention](http://flurrymobile.tumblr.com/post/144245637325/appmatrix). Unless your app usage is around &#8220;gambling&#8221;—with cards (game apps), with your money (finance apps), with whether or not to bring an umbrella (weather apps), or with your health (fitness apps)—user retention and re-engagement is often a steep wall to climb. {{< legacy-img src="2016/02/600-x-400-Woman-using-her-Mobile-Phone-Night-Light-Background-LDProd-iStock-Thinkstock-450947285.jpg" alt="Woman using her mobile phone, outside at night." caption="" >}} 
@@ -23,4 +22,4 @@ Just to say that in more explicit, simple terms: Unless your app is game, financ
 
 Flurry notes that one area where Android and Apple usage differs widely is sub-categories of games, where iOS has a stronger hold of more frequent usage, especially in action and family games.
 
-Read more about [Flurry’s App Matrix in their blog post](http://flurrymobile.tumblr.com/post/144245637325/appmatrix) and learn more about [using “Pirate Metrics” to analyze and grow your mobile application’s audience]({{< link "2016-05-12-using-pirate-metrics-to-analyze-your-mobile-applications-audience.md" >}}) from a recent DigitalGov workshop.
+Read more about [Flurry’s App Matrix in their blog post](http://flurrymobile.tumblr.com/post/144245637325/appmatrix) and learn more about [using “Pirate Metrics” to analyze and grow your mobile application’s audience]({{< ref "2016-05-12-using-pirate-metrics-to-analyze-your-mobile-applications-audience.md" >}}) from a recent DigitalGov workshop.

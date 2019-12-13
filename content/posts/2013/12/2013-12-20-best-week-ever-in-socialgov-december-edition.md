@@ -5,21 +5,20 @@ title: 'Best Week Ever in #SocialGov: December Edition'
 summary: '(This is the next installment of an ongoing series charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.)   From'
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - DoD
-  - Facebook
+  - facebook
   - United States Department of Defense
 ---
 
-_(This is the next installment of an <a href="https://digitalgov.sites.usa.gov/2013/09/18/best-week-in-socialgov-ever-week-1-2/" target="_blank">ongoing series</a> charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.)_
+_(This is the next installment of an <a href="https://digital.gov/2013/09/18/best-week-in-socialgov-ever-week-1-2/" target="_blank">ongoing series</a> charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.)_
 
 [{{< legacy-img src="2013/12/Best-moth-ever.jpg" alt="Best month ever" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Best-moth-ever.jpg)
 
  
 
-From where I sit, there&#8217;s no better way to wrap up a great year than by taking a look at the future of emerging digital government with the <a href="https://digitalgov.sites.usa.gov/communities/social-media/" target="_blank"><strong>#Socialgov Community</strong></a>. Agencies aren’t only advancing social technologies for more effective and efficient public services for citizens, but are reaching across missions to collaboratively develop new strategies and policies.
+From where I sit, there&#8217;s no better way to wrap up a great year than by taking a look at the future of emerging digital government with the <a href="https://digital.gov/communities/social-media/" target="_blank"><strong>#Socialgov Community</strong></a>. Agencies aren’t only advancing social technologies for more effective and efficient public services for citizens, but are reaching across missions to collaboratively develop new strategies and policies.
 
 For example, the **Department of Defense** (DoD) hosted their latest **All Services Social Media Conference** at Georgetown University, featuring presentations on **U.S. Marine Corps** strategy, Facebook and Instagram updates and more. This conference series launched in 2010 to bring together social media practitioners from all branches of the military for knowledge-sharing, and continues to grow as social technologies spread throughout the military.
 

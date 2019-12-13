@@ -5,12 +5,11 @@ title: 'Join the Global Climate Change Conversation with NASA&#8217;s Earth Now'
 summary: ' Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth’s vital signs from NASA’s Earth Now mobile app. Earth Now is an app that visualizes recent global climate data, including surface air temperature, carbon dioxide, carbon'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
-  - mobile apps
-  - NASA
-  - Thursday Mobile Products
+topics:
+  - mobile
+  - mobile-apps
+  - nasa
+  - thursday-mobile-products
 ---
 
 {{< legacy-img src="2014/11/600-x-230-NASA-Earth-Now-Android-app.jpg" alt="4 screens from the Android version of NASA's Earth Now app" >}}
@@ -33,4 +32,4 @@ The app contains a treasure trove of information on the state of the planet, and
 
 Earth Now is available on [Apple iOS](https://itunes.apple.com/us/app/earth-now/id494633346?mt=8&ls=1) and [Android](https://play.google.com/store/apps/details?id=gov.nasa.jpl.earthnow.activity) devices. It was developed by the Earth Science Communications and Visualization Technology Applications and Development Teams at NASA&#8217;s Jet Propulsion Laboratory, with support from NASA Headquarters.
 
-**Bonus**: Don’t miss the awesomely mobile-optimized [climate.nasa.gov](http://climate.nasa.gov) website, which is linked from the information screen of the app. The website lays out evidence, causes and effects of global climate change, and links to selected resources from U.S. government organizations that provide information about options for responding to climate change._You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the]({{< link "u-s-digital-registry.md" >}} "The Federal Mobile Products Registry") [The Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}} "The Federal Mobile Products Registry")._
+**Bonus**: Don’t miss the awesomely mobile-optimized [climate.nasa.gov](http://climate.nasa.gov) website, which is linked from the information screen of the app. The website lays out evidence, causes and effects of global climate change, and links to selected resources from U.S. government organizations that provide information about options for responding to climate change._You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Products Registry") [The Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Products Registry")._

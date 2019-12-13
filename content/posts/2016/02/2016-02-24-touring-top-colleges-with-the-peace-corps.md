@@ -5,11 +5,10 @@ title: Touring Top Colleges with the Peace Corps
 summary: I wanted to share our first dabble with data storytelling, a visualization supporting the Peace Corps Top Colleges initiative led by our awesome press team. Our goal was to enhance and expand the experience of the Top Colleges campaign and use of the data beyond the usual suspects like infographics, and other assets to show
 authors:
   - chris-rottler
-categories:
-  - Content
-  - Data
-tag:
-  - data visualization
+topics:
+  - content
+  - data
+  - data-visualization
   - Peace Corps
 ---
 

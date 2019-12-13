@@ -5,20 +5,19 @@ title: 2nd U.S. Public Participation Playbook Draft Responds to Public Contribut
 summary: ' The new second draft of the U.S. Public Participation Playbook incorporates changes that were proposed from nearly 100 suggestions submitted after the first week of public comment, with more improvements to come. We still need your contributions'
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - Census
   - Defense Commissary Agency
   - Defense Logistics Agency
   - Department of Commerce
-  - DHS
+  - dhs
   - DOL
   - DOT
-  - EPA
+  - epa
   - FAA
   - FCC
-  - FDA
+  - fda
   - Federal Aviation Administration
   - Federal Communications Commission
   - First Responders Network
@@ -28,20 +27,20 @@ tag:
   - ITA
   - Library of Congress
   - LOC
-  - NASA
+  - nasa
   - National Defense University
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Library of Medicine
   - Navy Army Community Credit Union
   - NDU
-  - NIH
+  - nih
   - NLM
   - NPS
   - ODNI
   - Office of Management and Budget
   - Office of the Director of National Intelligence
   - OMB
-  - open government
+  - open-government
   - OSTP
   - Peace Corps
   - SBA
@@ -50,19 +49,19 @@ tag:
   - US Department of Education
   - US Department of Labor
   - US Department of State
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
   - US Global Change Research Program
   - US National Park Service
   - US Small Business Administration
   - United States Army
   - United States Census Bureau
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - United States Department of Transportation
   - United States Geological Survey
   - US Fish and Wildlife Service
   - USGS
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 [{{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-314-White-House-SocialGov-Open.jpg)
@@ -100,7 +99,7 @@ Effective comments are “actionable,” meaning easy to place in context and ev
 
 More than just effective comments, we&#8217;re working to improve our standard for effective responses.
 
-For example, private-sector mobile expert Sean McDonald of FrontlineSMS contributed nine suggestions addressing mobile development in public participation. In response, Jacob Parcell, <a href="{{< link "mobilegov.md" >}}" target="_blank">MobileGov Community</a> lead, responded to his comment on Madison, then incorporated the feedback into the most current draft. Eventually, we will want all collaborations in the resource that transparent as we improve the process, as illustrated:
+For example, private-sector mobile expert Sean McDonald of FrontlineSMS contributed nine suggestions addressing mobile development in public participation. In response, Jacob Parcell, <a href="{{< ref "mobilegov.md" >}}" target="_blank">MobileGov Community</a> lead, responded to his comment on Madison, then incorporated the feedback into the most current draft. Eventually, we will want all collaborations in the resource that transparent as we improve the process, as illustrated:
 
 [{{< legacy-img src="2014/12/Madison-Example-600px.jpg" alt="Madison Example 600px" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/Madison-Example-600px.jpg)
 
@@ -252,4 +251,4 @@ Scott Prince, National Institutes of Health
 
 Veronica Wendt, National Defense University
 
-<em>Justin Herman is the <a href="{{< link "social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>
+<em>Justin Herman is the <a href="{{< ref "social-media.md" >}}" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please <a href="mailto:justin.herman@gsa.gov">contact him via email</a>.</em>

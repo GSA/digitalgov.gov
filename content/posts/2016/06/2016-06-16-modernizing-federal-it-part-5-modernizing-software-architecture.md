@@ -5,11 +5,11 @@ title: 'Modernizing Federal IT Part 5: Modernizing Software Architecture'
 summary: 'This is the fifth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure. You can find part 1 here, part 2 here, part 3 here and part 4 here. In the next three posts we will consider the problem of modernizing old legacy software. In this post we will start a'
 authors:
   - rob-klopp
-categories:
-  - Code
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - code
+  - product-management
+  - strategy
+  - policy
   - architecture
   - infrastructure
   - SSA

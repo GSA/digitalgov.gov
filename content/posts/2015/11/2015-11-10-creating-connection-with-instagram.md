@@ -5,14 +5,13 @@ title: Creating Connection with Instagram
 summary: 'I’ve been thinking a lot about Instagram lately. It’s pretty big, especially among the younger populations (AKA. Millennials). Actually, from what I can tell, it’s pretty big with lots of different age groups, genders, and ethnicities; and it’s growing every day. Full disclosure: I use Instagram in my personal'
 authors:
   - alyson-olander
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - DOI
-  - Instagram
-  - National Institutes of Health
-  - NIH
-  - Transportation Security Administration
+  - instagram
+  - national-institutes-of-health
+  - nih
+  - transportation-security-administration
   - TSA
   - US Department of the Interior
 ---
@@ -83,7 +82,7 @@ Unfortunately, many agencies don’t have these visual resources to work with, s
 
 The Instagram help center is pretty robust, but here are some links to get you started:
 
-  * Visit GSA’s [Improving the Accessibility of Social Media Toolkit]({{< link "improving-the-accessibility-of-social-media-in-government.md" >}})
+  * Visit GSA’s [Improving the Accessibility of Social Media Toolkit]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}})
   * Mashable: [The Beginner’s Guide to Instagram](http://mashable.com/2012/05/29/instagram-for-beginners/#0C1I2YQQ18qL)
   * The [Instagram for Business](http://blog.business.instagram.com/) blog: By Instagram, for business professionals
   * [Instagram Brand Resources](https://www.instagram-brand.com/): How to feature Instagram in your marketing

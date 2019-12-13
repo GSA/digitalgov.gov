@@ -5,9 +5,8 @@ title: 'Trends on Tuesday&#58; Because Seeing is Believing—Augmented Reality i
 summary: 'See how augmented reality may be used for data management and cybersecurity practices.'
 authors:
   - jada-jones
-categories:
-  - managing-digital
-tag:
+topics:
+  - product-management
   - augmented-reality
   - virtual-augmented-reality-community
   - Trends On Tuesday

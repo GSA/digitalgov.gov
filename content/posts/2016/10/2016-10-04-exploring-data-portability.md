@@ -6,13 +6,12 @@ summary: 'Summary: We’d like to hear from you on whether and how to increase y
 authors:
   - alexander-macgillivray
   - jay-shambaugh
-categories:
-  - Data
-tag:
+topics:
+  - data
   - data
   - OSTP
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 > Summary: We’d like to hear from you on whether and how to increase your ability to get and use your data.

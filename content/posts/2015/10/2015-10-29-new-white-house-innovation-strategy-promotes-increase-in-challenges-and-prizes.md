@@ -5,17 +5,16 @@ title: New White House Innovation Strategy Promotes Increase in Challenges and P
 summary: ' The White House released an updated Strategy for American Innovation last week, calling again on government to tap the American public’s brain trust'
 authors:
   - kelly-olson
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - Challenges and Prizes Community of Practice
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prizes-community-of-practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - FCPCCS
   - Open Opportunities program
   - OSTP
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/10/600-x-408-Investing-in-the-Building-Blocks-of-Innovation-chart-A-STRATEGY-FOR-AMERICAN-INNOVATION-Oct-2015.jpg" alt="Investing in the Building Blocks of Innovation chart from A Strategy For American Innovation by the National Economic Council and Office of Science and Technology Policy, October 2015" >}}
@@ -44,13 +43,13 @@ Contracts and grants are a great way for government to partner with industry and
 
 “The beauty of prizes and challenges is that they’re open to individuals from around the country,” Gustetic said. “It’s about the best ideas and the best solutions and not about people understanding the insider processes to work with the federal government. They really do unlock whole new classes of and channels for engaging people in solving a variety of different problems that traditional government tools don’t easily and readily allow you to tap into.”
 
-To help more agencies use challenges, GSA recently announced its first-ever [mentorship program for challenges and prizes]({{< link "2015-10-22-gsa-announces-first-ever-challenge-gov-mentorship-program.md" >}}). A stable of 20 experts are making themselves available to anyone seeking advice on planning and executing open competitions.
+To help more agencies use challenges, GSA recently announced its first-ever [mentorship program for challenges and prizes]({{< ref "2015-10-22-gsa-announces-first-ever-challenge-gov-mentorship-program.md" >}}). A stable of 20 experts are making themselves available to anyone seeking advice on planning and executing open competitions.
 
 The mentorship program will help make challenges and prizes a reality across the federal government, no matter the size of the agency or extent of the problem it seeks to solve.
 
 But that’s not all.
 
-OSTP in collaboration with the [Federal Community of Practice on Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}}) (CCS) and GSA’s [Open Opportunities](https://openopps.digitalgov.gov/) program recently launched an [online toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) with case studies and tips for managing all types of crowdsourcing and citizen science projects. In addition, the CCS works across the government to develop best practices for designing, implementing and evaluating crowdsourcing and citizen science initiatives.
+OSTP in collaboration with the [Federal Community of Practice on Crowdsourcing and Citizen Science]({{< ref "crowdsourcing-and-citizen-science.md" >}}) (CCS) and GSA’s [Open Opportunities](https://openopps.digitalgov.gov/) program recently launched an [online toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) with case studies and tips for managing all types of crowdsourcing and citizen science projects. In addition, the CCS works across the government to develop best practices for designing, implementing and evaluating crowdsourcing and citizen science initiatives.
 
 It’s one of several new initiatives designed to [build momentum for open innovation](https://www.whitehouse.gov/blog/2015/10/22/building-momentum-open-innovation) in response to the White House’s call.
 

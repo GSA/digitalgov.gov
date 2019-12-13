@@ -5,20 +5,20 @@ title: Three Teams Using the Draft U.S. Web Design Standards Talk about Their Ex
 summary: 'In the five months since we launched the Draft U.S. Web Design Standards &mdash; the U.S. government’s very own set of common UI components and visual styles for websites &mdash; over a dozen websites have used components of the Draft Standards on their sites. Recently, we talked to three federal web designers about their experiences'
 authors:
   - melody-kramer
-categories:
-  - Code
-  - Design
-  - Managing Digital
-  - strategy-and-policy
-  - UX
-tag:
-  - 18F
+topics:
+  - code
+  - design
+  - product-management
+  - strategy
+  - policy
+  - ux
+  - 18f
   - code
   - Draft Web Design Standards
-  - open source
+  - open-source
   - US Digital Service
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 In the five months since we launched the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards) — the U.S. government’s very own set of common UI components and visual styles for websites — over a dozen websites have used components of the Draft Standards on their sites.

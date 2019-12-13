@@ -13,6 +13,9 @@ event_organizer: DigitalGov University
 host: Emerging Citizen Technology Office (ECTO) 
 registration_url: https://www.eventbrite.com/e/emerging-technology-leadership-series-brian-behlendorf-and-blockchain-registration-47996835828
 youtube_id: 0vEMKDmqKYM
+topics:
+  - emerging-tech
+  - blockchain
 
 ---
 

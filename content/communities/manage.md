@@ -1,12 +1,14 @@
 ---
-url: /communities/manage-your-subscription/
-uid: manage-your-subscription
-date: 2016-04-22 12:52:52 -0400
+slug: manage-your-subscription
 title: 'Manage Your Listserv Subscription'
 summary: 'GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information.'
+
+weight: 0
+
 aliases:
   - /manage-your-listserv-subscription/
   - /communities/manage-your-listserv-subscription/
+
 ---
 
 GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information.
@@ -17,7 +19,7 @@ Note that these instructions reference a sample listserv called _TESTLIST@listse
 
 ### How to Join a Listserv
 
-Government employees (with a .gov or .mil email address) are encouraged to join any communities of practice that relate to your work. [Visit our Communities page]({{< link "/communities/" >}}) to see all the communities and learn how to join.
+Government employees (with a .gov or .mil email address) are encouraged to join any communities of practice that relate to your work. [Visit our Communities page]({{< ref "/communities" >}}) to see all the communities and learn how to join.
 
 ### General Etiquette
 

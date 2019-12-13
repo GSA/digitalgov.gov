@@ -5,14 +5,13 @@ title: '&#8220;Congress Creates the Bill of Rights&#8221; from National Archives
 summary: ' Whether it&#8217;s the 800-year-old legacy of the Magna Carta, the Bill of Rights of the United States Constitution or the more recent Charter of Fundamental Rights of the European Union, all of these documents are powerful'
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
-  - mobile apps
+topics:
+  - mobile
+  - mobile-apps
   - NARA
   - National Archives and Records Administration
-  - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - thursday-mobile-products
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/08/480-x-351-NARA-Congress-Creates-the-Bill-of-Rights-app-Constitutional-Amendment.jpg" alt="The NARA app, Congress Creates the Bill of Rights, showing a Constitutional amendment screen on an iPad" >}}
@@ -35,4 +34,4 @@ There is also PDF version of the app content. The PDF is divided into four secti
 
 The e-book focuses on James Madison&#8217;s leadership role in creating the Bill of Rights, as Madison and the leaders of rival political factions worked in the House and Senate to formulate amendments to change the recently ratified Constitution, effectively completing the U.S. Constitution. The e-book is available in [iTunes and the iBookstore](http://www.archives.gov/global-pages/exit.html?link=https://itunes.apple.com/us/book/congress-creates-bill-rights/id917916560?ls=1&mt=11) for your iPad, iPhone and iPod Touch.
 
-The lesson plans and activities for teachers and students to use are all available [online](http://www.archives.gov/legislative/resources/bill-of-rights.html) as well._You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+The lesson plans and activities for teachers and students to use are all available [online](http://www.archives.gov/legislative/resources/bill-of-rights.html) as well._You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

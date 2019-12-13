@@ -5,16 +5,15 @@ title: Defining Ideation in Challenge Competitions
 summary: 'There is some confusion about how &#8220;ideation&#8221; fits into challenge and prize competitions. Often, we hear from agencies that they would like to ask the public for ideas, to survey them on a specific question, or to request proposals in response to a'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - crowdsourcing
   - Federal Trade Commission
   - FTC
   - National Eye Institute
   - OSTP
   - United States Air Force
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="A brainstorming exercise drives the framework for ideation competitions." >}}There is some confusion about how &#8220;ideation&#8221; fits into challenge and prize competitions.

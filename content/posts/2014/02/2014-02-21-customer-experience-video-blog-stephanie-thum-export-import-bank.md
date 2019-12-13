@@ -5,10 +5,9 @@ title: 'Customer Experience Video Blog: Stephanie Thum, Export-Import Bank'
 summary: ' Stephanie Thum from Ex-Im Bank kicks off our video blog with an introduction to customer experience. Stephanie is Vice President of Customer Experience at Ex-Im Bank, a U.S. government agency which serves as the official export credit agency of the United States. We had a chance to'
 authors:
   - stephanie-thum
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
+topics:
+  - product-management
+  - cx
   - Export-Import Bank of the United States
 ---
 

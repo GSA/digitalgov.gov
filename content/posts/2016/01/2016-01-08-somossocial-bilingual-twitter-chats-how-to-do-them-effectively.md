@@ -5,20 +5,19 @@ title: '#SomosSocial: Bilingual Twitter Chats—How to Do Them Effectively'
 summary: 'There are 11.7 million + reasons to be on Twitter&mdash;the approximate number of Hispanics in the U.S. who are using the platform. And out of those 11.7 million, 43% tweet in English and in Spanish. Hispanics over index their counterparts when it comes to digital technologies and services, but how do you reach them and'
 authors:
   - victoria-wales
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - multilingual
   - multilingual-community
   - Recaps
-  - social media
+  - social-media
   - Twitter
-  - USAgov
+  - usagov
 ---
 
 There are 11.7 million + reasons to be on Twitter—the approximate number of Hispanics in the U.S. who are using the platform. And out of those 11.7 million, 43% tweet in English and in Spanish. Hispanics over index their counterparts when it comes to digital technologies and services, but how do you reach them and target your messages via Twitter chats? {{< legacy-img src="2015/12/600-x-400-Social-Network-Birds-Rawpixel-Ltd-iStock-Thinkstock-180718919.jpg" alt="A diverse group of hands hold up social media bird shapes of various bright colors." caption="" >}}
 
-On December 9, [USAGov](https://www.usa.gov/) and [Salud Today](http://www.saludtoday.com/blog/) led a [DigitalGov University]({{< link "/digitalgov-university/" >}}) webinar to discuss how to organize, plan, and execute a successful bilingual Twitter chat. Like all social media events, good planning, coordination, and promotion are key. But what other elements make these successful?
+On December 9, [USAGov](https://www.usa.gov/) and [Salud Today](http://www.saludtoday.com/blog/) led a [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) webinar to discuss how to organize, plan, and execute a successful bilingual Twitter chat. Like all social media events, good planning, coordination, and promotion are key. But what other elements make these successful?
 
   * A focused and nuanced approach to topics covered
   * Using data that informs you about your audience

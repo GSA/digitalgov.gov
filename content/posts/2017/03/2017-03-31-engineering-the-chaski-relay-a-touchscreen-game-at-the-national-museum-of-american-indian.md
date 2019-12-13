@@ -5,20 +5,19 @@ title: 'Engineering the Chaski Relay: A Touchscreen Game at the National Museum 
 summary: 'On visiting The Great Inka Road: Engineering an Empire exhibition at the Smithsonian National Museum of the American Indian, it is impossible not be taken by the sheer scale of the Inka Road. Qhapaq &Ntilde;an, or the Road of the Inka, is a 25,000-mile long road system that fed the rapid expansion of the Inka'
 authors:
   - ben-bloom
-categories:
-  - Content
-  - Design
+topics:
+  - content
+  - design
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - content
   - gamification
   - NMAI
   - Smithsonian Institution
   - Smithsonian National Museum of the American Indian
-  - user centered design
-  - user experience
-  - UX
+  - user-centered-design
+  - user-experience
+  - ux
 ---
 
 On visiting [The Great Inka Road: Engineering an Empire](http://www.nmai.si.edu/explore/exhibitions/item/?id=945) exhibition at the [Smithsonian National Museum of the American Indian](http://www.nmai.si.edu/), it is impossible not be taken by the sheer scale of the Inka Road. Qhapaq Ñan, or the Road of the Inka, is a 25,000-mile long road system that fed the rapid expansion of the Inka Empire in the 14th and 15th centuries. It connected distant towns and settlements in the Andes, snaking up and down mountains, bridging impossible valleys, and traversing lush agricultural fields and terraces. In 2014, [the road was recognized by UNESCO as a World Heritage site](http://whc.unesco.org/en/list/1459).
@@ -50,4 +49,4 @@ With the general concept affirmed, the team focused on refining design and gamep
 A summative evaluation shows that The Chaski Relay is engaging visitors and fulfilling its learning objectives. Visitors play an average of four minutes, which is no small accomplishment in a gallery setting where people are moving from one display to the next. Players appeared to absorb the game’s learning objectives, with 89% able to demonstrate knowledge about the Inka Road. Most players interviewed (30%) mentioned the importance of the road to the Inka, and some (19%) talked about the complexity and sophistication of the road system.
 
 While group play was not a primary objective of the game design, the team feels that socialization is one opportunity for improvement in future projects. Simply using a larger screen to allow multiple players to participate could enhance cooperation and social interaction. Overall though, the team is very pleased with the outcomes, and the game is regularly busy. Said Daniel Davis, “We were really fascinated to see how a simple game can be a really effective experience.”_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
-_Explore DigitalGov for more information on how federal agencies are working with_ [_user experience_]({{< link "categories/ux" >}}) _(UX) and_ [_user testing_]({{< link "categories/user-testing-research" >}})_,_ [_gamification_]({{< link "tag/gamification" >}})_, and_ [_multilingual content_]({{< link "tag/multilingual" >}}) _to better serve their customers. If you have a .gov or .mil email address, check out and join our_ [_Communities of Practice_]({{< link "/communities/" >}}) _to connect with other feds working in these fields._
+_Explore DigitalGov for more information on how federal agencies are working with_ [_user experience_]({{< ref "/topics/ux" >}}) _(UX) and_ [_user testing_]({{< ref "/topics/user-research" >}})_,_ [_gamification_]({{< ref "/topics/gamification" >}})_, and_ [_multilingual content_]({{< ref "/topics/multilingual" >}}) _to better serve their customers. If you have a .gov or .mil email address, check out and join our_ [_Communities of Practice_]({{< ref "/communities" >}}) _to connect with other feds working in these fields._

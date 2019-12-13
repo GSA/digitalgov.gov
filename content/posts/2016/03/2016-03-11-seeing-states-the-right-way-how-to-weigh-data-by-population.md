@@ -5,17 +5,16 @@ title: 'Seeing States the Right Way: How to Weigh Data by Population'
 summary: One large issue my team has run into when analyzing and reporting data across different states is knowing whether sessions within an area are higher due to more interest, or a larger population. Time after time, we see the states with the largest populations show up with the largest amount of traffic, like the graph
 authors:
   - kelley-holden
-categories:
-  - Data
-  - Metrics
-  - Monthly Theme
-tag:
+topics:
+  - data
+  - metrics
+  - monthly-theme
   - analytics
   - CFPB
   - Consumer Financial Protection Bureau
   - data
-  - data visualization
-  - Google Analytics
+  - data-visualization
+  - google-analytics
 ---
 
 One large issue my team has run into when analyzing and reporting data across different states is knowing whether sessions within an area are higher due to more interest, or a larger population. Time after time, we see the states with the largest populations show up with the largest amount of traffic, like the graph below.

@@ -3,11 +3,11 @@ slug: go-beyond-coaching-mentorship-get-started-as-a-sponsor
 date: 2019-03-13 09:00:00 -0500
 title: 'Go Beyond Coaching and Mentorship and Get Started as a Sponsor'
 summary: 'One step beyond mentorship is another practice called sponsorship&#58; action-orientated, deeply invested support that helps others in their long-term professional advancement&#46;'
+deck: "How to use your power, influence, and networks to help protégés in their long-term professional career development."
 authors:
   - awichman
-categories:
-  - managing-digital
-tag:
+topics:
+  - product-management
   - professional-development
 featured_image:
   uid: sponsorship-fish2

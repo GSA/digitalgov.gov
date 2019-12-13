@@ -6,19 +6,18 @@ summary: 'This is post 4 in the 5-part series, The Right Tools for the Job: Re-H
 authors:
   - nathan-smith
   - dmccleskey
-categories:
-  - Managing Digital
-  - Monthly Theme
-  - Our Work
-tag:
+topics:
+  - product-management
+  - monthly-theme
+  - our-work
   - aws
-  - DigitalGov Search
+  - digitalgov-search
   - infrastructure
 ---
 
-_This is post 4 in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< link "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}). This post references the previous posts frequently, so please read those before reading this one if you haven&#8217;t done so already._ 
+_This is post 4 in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< ref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}). This post references the previous posts frequently, so please read those before reading this one if you haven&#8217;t done so already._ 
 
-In addition to the DNS challenges created by offering &#8220;masked&#8221; domains such as <tt>nasasearch.nasa.gov</tt>, we also had to solve the problem of how to maintain SSL certificates for the main <tt>search.usa.gov</tt> domain along with the &#8220;masked&#8221; domains of all customers that wanted HTTPS support for their own domains. As also noted in an [earlier post]({{< link "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}), this all needed to be done in a multi-app-server environment with no interruption of service. {{< legacy-img src="2016/08/600-x-400-Digital-Encryption-Lock-peterscode-iStock-Thinkstock-465159645.jpg" alt="Digital Encryption Lock" caption="" >}} 
+In addition to the DNS challenges created by offering &#8220;masked&#8221; domains such as <tt>nasasearch.nasa.gov</tt>, we also had to solve the problem of how to maintain SSL certificates for the main <tt>search.usa.gov</tt> domain along with the &#8220;masked&#8221; domains of all customers that wanted HTTPS support for their own domains. As also noted in an [earlier post]({{< ref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}), this all needed to be done in a multi-app-server environment with no interruption of service. {{< legacy-img src="2016/08/600-x-400-Digital-Encryption-Lock-peterscode-iStock-Thinkstock-465159645.jpg" alt="Digital Encryption Lock" caption="" >}} 
 
 ## SAN SSL Certificates and Let&#8217;s Encrypt
 
@@ -108,7 +107,7 @@ Our HTTP Domain Validation request proxy design ensures we can quickly and easil
   <em>Read more of this 5-part series:</em>
 </h3>
 
-  * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< link "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})
-  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All]({{< link "2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md" >}})
-  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection]({{< link "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}})
-  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem]({{< link "2016-09-12-dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" >}})
+  * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< ref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})
+  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All]({{< ref "2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md" >}})
+  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection]({{< ref "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}})
+  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem]({{< ref "2016-09-12-dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" >}})

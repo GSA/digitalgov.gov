@@ -5,43 +5,42 @@ title: 'This Weekend: Event List for Civic Hacking'
 summary: 'Our fabulous colleague Jeanne Holm is ready for the #hackforchange events this weekend and summarized some tips, notes and links to resources on Data.gov. Great things will happen this weekend! Remember, if you hear about great uses of government data, let'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Data
-tag:
+topics:
+  - challenges
+  - data
   - Census
   - CFPB
   - Consumer Financial Protection Bureau
-  - data.gov
+  - data-gov
   - DOL
   - DOT
-  - EPA
+  - epa
   - FCC
-  - Federal Emergency Management Agency
+  - federal-emergency-management-agency
   - Federal Register
-  - FEMA
+  - fema
   - HHS
   - HUD
   - IMLS
-  - NASA
+  - nasa
   - National Day of Civic Hacking
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Oceanic and Atmospheric Administration
-  - national science foundation
-  - NIH
+  - national-science-foundation
+  - nih
   - NOAA
   - NREL
-  - NSF
+  - nsf
   - Smithsonian Institution
   - US Department of Education
   - US Department of Labor
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - United States Census Bureau
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Department of Housing and Urban Development
   - United States Department of Transportation
   - USPTO
-  - White House
+  - white-house
 ---
 
 {{< legacy-img src="2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Keep Calm and Open Data American Flag Statue of Lady Liberty" >}}Our fabulous colleague Jeanne Holm is ready for the [#hackforchange](https://twitter.com/hashtag/hackforchange) events this weekend and summarized some <a title="resources for civic hack day" href="https://www.data.gov/developers/hacking-change-tips-national-civic-day-hacking/" target="_blank">tips, notes and links to resources on Data.gov</a>.

@@ -5,12 +5,11 @@ title: A Problem Without Definition Is a Challenge Without a Solution
 summary: 'A prize competition often starts with a problem. In order to get help to find a solution, people need to clearly understand your problem. Understanding and effectively communicating your problem isn’t easy, but it’s necessary. Problems are like spaghetti&mdash;messy and complex, says Denys Resnick, Executive Vice President of Strategic Programs at NineSigma Inc., which provides'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - challenges-and-prizes-community-of-practice
   - Recaps
 ---
 
@@ -22,7 +21,7 @@ Problems are like spaghetti—messy and complex, says Denys Resnick, Executive V
 
 Resnick joined Denice Shaw, the lead for challenges and prizes at the U.S. Environmental Protection Agency (EPA), for a recent webinar on how to approach defining and describing problem so that it can be successfully addressed.
 
-The [Untangling your Technology Challenge and Charting a Successful Path Forward: A Problem Definition Webinar](https://www.youtube.com/watch?v=aOT9vzNY8sY&feature=youtu.be) from [DigitalGov University]({{< link "/digitalgov-university/" >}}) (DGU) looked at various aspects of getting everybody on the same page in terms of understanding a problem.
+The [Untangling your Technology Challenge and Charting a Successful Path Forward: A Problem Definition Webinar](https://www.youtube.com/watch?v=aOT9vzNY8sY&feature=youtu.be) from [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) (DGU) looked at various aspects of getting everybody on the same page in terms of understanding a problem.
 
 This is a crucial step that comes before deciding what approach to take, be it a challenge or another method such as a grant or contract.
 

@@ -5,10 +5,9 @@ title: DOT Seeking Data for New National Transit Map
 summary: 'The Department of Transportation (DOT) has invited transit agencies to share their schedule data to feed an upcoming National Transit Map. The new initiative won’t provide trip planning, but will make it possible for researchers, policymakers, and private citizens to identify and address gaps in access to public transportation. These gaps will be identified through'
 authors:
   - andreanocesigritz
-categories:
-  - Data
-  - Monthly Theme
-tag:
+topics:
+  - data
+  - monthly-theme
   - DOT
   - United States Department of Transportation
 ---

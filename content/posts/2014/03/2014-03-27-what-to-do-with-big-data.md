@@ -6,14 +6,13 @@ summary: ' Shortly after taking office in 2009, President Obama launched the Ope
 authors:
   - lauren-caldwell
   - erin-twamley
-categories:
-  - Data
-tag:
-  - big data
+topics:
   - data
-  - data.gov
+  - big-data
+  - data
+  - data-gov
   - DOE
-  - open government
+  - open-government
   - United States Department of Energy
 ---
 

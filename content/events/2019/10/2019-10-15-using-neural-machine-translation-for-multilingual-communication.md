@@ -16,6 +16,8 @@ youtube_id: BGOEGD2_NyM
 
 ---
 
+{{< img src="multilingual-neural-machine-translation" >}}
+
 A new type of Artificial Intelligence (AI) technology, called Neural Machine Translation (NMT), is quickly earning the attention of multilingual communities. This software is helping to expedite the translation process and has the potential to open government information to more non-English languages. 
 
 In this session, Beth Flaherty will give a high-level overview of machine translation technology. We will discuss the evolution of machine translation (MT), how MT is used in the government, ways to “specialize” a language engine to a specific domain, calculation of return on investment (ROI), and the road ahead.  We’ll also show a live demo of the NMT software so that the audience can see the flexibility of use with this technology.

@@ -5,17 +5,16 @@ title: 'USGS is Asking If You Felt It: Latest Earthquakes'
 summary: ' Having experienced everything from little tremors to violent shaking, I know what it is like to live in an earthquake zone. Hiding below a large table or under the sturdy doorframe, and at times with the'
 authors:
   - nirmala-ramprasad
-categories:
-  - Mobile
-tag:
-  - Federal Emergency Management Agency
-  - FEMA
-  - mobile apps
+topics:
+  - mobile
+  - federal-emergency-management-agency
+  - fema
+  - mobile-apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Geological Survey
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - USGS
 ---
 
@@ -51,4 +50,4 @@ We may not know when a big one is coming, but we can be prepared.
 
 The Federal Emergency Management Agency (FEMA) has a variety of [earthquake-related information resources](http://www.fema.gov/earthquake-publications) to help us with our preparedness and inform us of what to do before, during and after an earthquake.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

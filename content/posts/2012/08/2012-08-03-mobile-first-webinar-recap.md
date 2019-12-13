@@ -5,10 +5,9 @@ title: Mobile First Webinar Recap
 summary: 'Federal agency mobile implementation is an important aspect of the Digital Government Strategy, so last week the Mobile Gov team and Digital Gov University partnered for a &#8220;Mobile First&#8221; Webinar. A &#8220;mobile first&#8221; approach is where new websites and applications are designed for mobile devices first, instead of designed for the traditional desktop.  Representatives from government and the private sector'
 authors:
   - justin-goldberger
-categories:
-  - Mobile
-tag:
-  - API
+topics:
+  - mobile
+  - api
   - mobile
   - mobile-first
   - Recaps
@@ -20,7 +19,7 @@ Ken Fang from Mobomo Inc. talked about the importance of a mobile first approach
 
   1. Consider your audience needs and remembering who and what you are making the app for.
   2. Think about what kind of content will be sent out.
-  3. Think platform strategy &#8212;answering whether you develop for one device or choose a different route such as an [API]({{< link "categories/api" >}}) or responsive design.
+  3. Think platform strategy &#8212;answering whether you develop for one device or choose a different route such as an [API]({{< ref "/topics/api" >}}) or responsive design.
 
 Janice Clark discussed the State Department&#8217;s efforts in creating the [m.state.gov](http://m.state.gov/) site.
 

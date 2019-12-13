@@ -1,11 +1,30 @@
 ---
-url: /communities/multilingual/
-uid: multilingual
+slug: multilingual
 date: 2014-02-21 4:58:10 -0400
-title: Multilingual Community of Practice
-summary: 'We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.'
+title: "Multilingual "
+summary: 'We are working to expand and improve digital content in languages other than English.'
+deck: 'Working to expand and improve digital content in languages other than English.'
+weight: 1
+
+
+topics:
+  - multilingual
+  - content
 aliases:
   - /government-multilingual-websites-community/
+
+community_list:
+  - platform: "listserv"
+    type: government
+    subscribe_email: laura.godfrey@gsa.gov
+    subscribe_email_subject: "Join: Multilingual"
+    subscribe_form: "https://docs.google.com/forms/d/e/1FAIpQLSfUmDyzqqzRnvh1pAuPzZsYg-3BIwT7H6xVt-c7r4eHfjum_A/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ"
+    terms: "All government employees (federal, state, local, tribal) or contractors with a .gov or .mil email address are eligible to join."
+    members: 225
+    emails_per_week: 1.33
+
+authors:
+  - lgodfrey
 
 ---
 
@@ -13,15 +32,15 @@ We are a group of federal, state and local government content managers, formerly
 
 ## Join
 
-Join us if you are a government employee working for a federal, state or local U.S. government agency or a contractor with a government email address working on government digital content. 
+Join us if you are a government employee working for a federal, state or local U.S. government agency or a contractor with a government email address working on government digital content.
 
-[Fill out this form](https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ) to subscribe to our listserv. If your agency blocks the use of Google forms, send an email to group Manager, [Laura Godfrey](mailto:laura.godfrey@gsa.gov). 
+[Fill out this form](https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ) to subscribe to our listserv. If your agency blocks the use of Google forms, send an email to group Manager, [Laura Godfrey](mailto:laura.godfrey@gsa.gov).
 
 ## Who we are
 
 We work to support Executive Order 13166, “[Improving Access to Services for People with Limited English Proficiency](http://www.justice.gov/crt/about/cor/Pubs/eolep.pdf)” (PDF, 255 KB, 6 pages, August 2000). Our primary purpose is to meet the growing demand for government information and services in other languages and to share ideas, challenges and best practices for managing multilingual content and websites.
 
-We [collect research]({{< link "2014-07-01-multilingual-digital-content.md" >}}), and develop and curate tools and best practices. We also meet several times a year and maintain an active listserv.
+We [collect research]({{< ref "2014-07-01-multilingual-digital-content.md" >}}), and develop and curate tools and best practices. We also meet several times a year and maintain an active listserv.
 
 ## We work on three main areas:
 

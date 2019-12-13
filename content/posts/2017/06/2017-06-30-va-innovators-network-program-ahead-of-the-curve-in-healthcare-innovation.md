@@ -5,13 +5,12 @@ title: 'VA Innovators Network Program: Ahead of the Curve in Healthcare Innovati
 summary: 'VA Innovators Network Program Selected as FedHealth IT Innovation Award Winner This month, FedHealth IT announced that the U.S. Department of Veterans Affairs Innovators Network Program was selected as a 2017 recipient of the FedHealthIT Innovation Award. FedHealth IT recognized 25 Federal Health'
 authors:
   - va-center-for-innovation
-categories:
-  - Design
-  - UX
-tag:
+topics:
+  - design
+  - ux
   - innovation
   - US Department of Veterans Affairs
-  - user centered design
+  - user-centered-design
   - VA
   - VA Center for Innovation
   - VACI

@@ -5,18 +5,17 @@ title: IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety
 summary: 'The digital equivalent of a cool rag and a spoonful of Pepto Bismol, the Internal Revenue Service updated their IRS2Go app to provide multi-symptom relief for tax anxiety this year. IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you’re'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Federal Mobile Products Registry
   - ICE
   - Internal Revenue Service
   - IRS
-  - mobile apps
-  - native app
-  - Thursday Mobile Products
+  - mobile-apps
+  - native-app
+  - thursday-mobile-products
   - US Immigration and Customs Enforcement
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/02/250-x-385-IRS2Go\_phone\_2.jpg" alt="New IRS2Go app design" >}}The digital equivalent of a cool rag and a spoonful of Pepto Bismol, the Internal Revenue Service updated their [IRS2Go app](http://www.irs.gov/uac/IRS2GoApp) to provide multi-symptom relief for tax anxiety this year.
@@ -35,4 +34,4 @@ Need a direct line to the IRS? Find the specific IRS department to call via the 
 
 Be sure to follow the IRS on Twitter, Tumblr, and YouTube – all in the latest version of IRS2Go.
 
-IRS2Go is available for both [Android](https://play.google.com/store/apps/details?id=gov.irs&referrer=utm_source%3DIRSpup%26utm_medium%3Dlanding-page) and [iOS](https://itunes.apple.com/us/app/irs2go/id414113282?mt=8) smartphone and tablets._You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._
+IRS2Go is available for both [Android](https://play.google.com/store/apps/details?id=gov.irs&referrer=utm_source%3DIRSpup%26utm_medium%3Dlanding-page) and [iOS](https://itunes.apple.com/us/app/irs2go/id414113282?mt=8) smartphone and tablets._You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._

@@ -5,24 +5,23 @@ title: 'The Content Corner: Structured Content Challenges and Lessons Learned'
 summary: 'In May 2014, Sarah Crane discussed the importance of structured content, APIs and the development of a &#8220;Create Once, Publish Everywhere&#8221; (COPE) strategy at USA.gov via a three part video series. After my recent post about a world without Web pages, Sarah and I connected and we discussed the challenges she has experienced during the'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-  - Monthly Theme
-tag:
-  - Administrative Office of the United States Courts
-  - API
+topics:
+  - content
+  - monthly-theme
+  - administrative-office-of-the-united-states-courts
+  - api
   - CMS
-  - content models
-  - content strategy
+  - content-models
+  - content-strategy
   - COPE
-  - government contact centers
-  - The Content Corner
-  - usa.gov
+  - government-contact-centers
+  - the-content-corner
+  - usa-gov
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 
 
-In May 2014, Sarah Crane discussed the importance of structured content, APIs and the development of a &#8220;Create Once, Publish Everywhere&#8221; ([COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13)) strategy at [USA.gov](http://www.usa.gov/) via a [three part video series]({{< link "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}). After my recent post about a [world without Web pages]({{< link "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}}), Sarah and I connected and we discussed the challenges she has experienced during the COPE project at USA.gov and some lessons to consider whether you’re at the beginning or early stages of a similar project.
+In May 2014, Sarah Crane discussed the importance of structured content, APIs and the development of a &#8220;Create Once, Publish Everywhere&#8221; ([COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13)) strategy at [USA.gov](http://www.usa.gov/) via a [three part video series]({{< ref "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}). After my recent post about a [world without Web pages]({{< ref "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}}), Sarah and I connected and we discussed the challenges she has experienced during the COPE project at USA.gov and some lessons to consider whether you’re at the beginning or early stages of a similar project.
 
 # A Smarter Solution Needed
 
@@ -38,7 +37,7 @@ This created not only an inefficient situation, but also raised questions about 
 
 From the start, Sarah and her team realized they were stepping into a different world. Instead of developing business requirements for a new CMS from the previous perspective of focusing on content creators or front-end design, they needed to look for something with a strong foundation in structure and metadata. This is a common consideration for anyone moving towards a more structured approach to content development, as [many current content management systems are not well-suited](http://alistapart.com/article/future-ready-content) to the COPE approach.
 
-Aside from any of the technical considerations, one of the most important factors in a successful move to COPE is the work on developing your [content models]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) and [taxonomies](http://blog.braintraffic.com/2012/03/an-intro-to-metadata-and-taxonomies/). USA.gov spent a year researching and developing their structure and then had to create or reconfigure over 200 pieces of content to align with that new structure. They also had to help their subject-matter experts and content creators begin thinking of content as individual pieces that needed to survive on their own and to always think [content first](http://adactio.com/journal/4523/).
+Aside from any of the technical considerations, one of the most important factors in a successful move to COPE is the work on developing your [content models]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) and [taxonomies](http://blog.braintraffic.com/2012/03/an-intro-to-metadata-and-taxonomies/). USA.gov spent a year researching and developing their structure and then had to create or reconfigure over 200 pieces of content to align with that new structure. They also had to help their subject-matter experts and content creators begin thinking of content as individual pieces that needed to survive on their own and to always think [content first](http://adactio.com/journal/4523/).
 
 # The Challenges of Independent Content
 
@@ -56,4 +55,4 @@ A final challenge Sarah discovered was not directly content-related but more abo
 
 For Sarah and USA.gov, the work goes on as they continue to make amazing progress on what was a significant undertaking. As with all projects, you learn and adjust as you go, and Sarah is already working towards solutions to the challenges she shared, including staffing and realizing the importance of final review in the content creation process. I hope the lessons she is learning are instructive for any of you heading down this road, and if you have additional experiences to share, please don’t hesitate to leave a comment. I might ask you for an interview next!
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

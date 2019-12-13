@@ -15,6 +15,10 @@ registration_url: https://www.eventbrite.com/e/dap-learning-series-advanced-conc
 youtube_id: limXoQVPw2A
 aliases:
   - /event/dap-learning-series-advanced-concepts/
+topics:
+  - analytics
+  - digital-analytics-program
+
 ---
 
 _The [Digital Analytics Program](https://www.digitalgov.gov/services/dap/) (DAP) Learning Series is designed to increase your skills and understanding of DAP's implementation of Google Analytics in the government._

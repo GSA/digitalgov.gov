@@ -5,10 +5,9 @@ title: 'Young Entrepreneurs Hang Out With Government Virtually&#8230; and in Spa
 summary: 'It’s a well-known fact that the Hispanic population is growing at a rapid pace, and among the areas seeing the most interest and growth is business. According to the Small Business Administration (SBA), there are more than 3 million Hispanic-owned businesses in the U.S. today, a number that is growing at three times the national'
 authors:
   - victoria-wales
-categories:
-  - Content
-  - Social Media
-tag:
+topics:
+  - content
+  - social-media
   - GobiernoUSAgov
   - multilingual
   - SBA

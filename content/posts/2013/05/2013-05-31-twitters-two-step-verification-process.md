@@ -5,9 +5,8 @@ title: 'Twitter&#8217;s Two Step Verification Process'
 summary: 'To enhance security, Twitter now offers two-step verification. The release of the new feature follows several high-profile account breaches &ndash; including a false tweet sent from the Associated Press’s Twitter account in April. If you chose to enable the two-step verification feature, Twitter sends a text message with a unique code to a cell phone that must be'
 authors:
   - jason-kelly
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - security
   - SocialGov
   - Twitter

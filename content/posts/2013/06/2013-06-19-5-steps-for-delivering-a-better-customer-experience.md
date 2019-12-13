@@ -5,13 +5,12 @@ title: 5 Steps for Delivering a Better Customer Experience
 summary: 'Everyone wants to know how to provide outstanding customer experience in government. It can be difficult, because everyday our customers are also doing business with companies like Starbucks, Zappos, and Virgin America, that excel in customer service.'
 authors:
   - martha-dorris
-categories:
-  - Managing Digital
-  - UX
-tag:
-  - Customer Experience
+topics:
+  - product-management
+  - ux
+  - cx
   - GSA
-  - top tasks
+  - top-tasks
 ---
 
 <p dir="ltr">

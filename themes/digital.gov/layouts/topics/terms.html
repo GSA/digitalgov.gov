@@ -1,0 +1,75 @@
+{{/* All Tags */}}
+{{/* lists out the tags for the site */}}
+{{- define "content" -}}
+
+<main role="main">
+
+  <header>
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12">
+          {{- $topics := (where .Site.Pages "Section" "topics") -}}
+          <h1>Topics</h1>
+          <h4 class="display-none">There are {{ len $topics }} topics</h4>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="topic-buttons">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row tablet:grid-gap-2">
+        {{- $top_topics := $.Site.Taxonomies.topics -}}
+        {{- range $name, $taxonomy := $top_topics -}}
+          {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+            {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
+              <div class="grid-col-12 tablet:grid-col-4">
+                <div class="topic topic-slim" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+                  <h3>
+                    <a href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
+                  </h3>
+                </div>
+              </div>
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      </div>
+    </div>
+  </section>
+
+  <section class="display-none">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-2">
+        <div class="grid-col-6">
+          <table>
+            {{- $topics := (where .Site.Pages "Section" "topics") -}}
+            {{- len $topics -}}
+            {{- range $name, $taxonomy := $topics.ByTitle -}}
+              <tr>
+                <td class="padding-1 border-bottom-1px border-base-lighter"><a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
+                <td class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs">{{ .Data.Term }}</td>
+              </tr>
+            {{- end -}}
+          </table>
+
+        </div>
+        <div class="grid-col-6">
+          <table>
+            {{- $topics_tax := $.Site.Taxonomies.topics -}}
+            {{- len $topics_tax -}}
+            {{- range $name, $taxonomy := $topics_tax -}}
+              {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+              <tr>
+                <td class="padding-1 border-bottom-1px border-base-lighter"><a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
+                <td class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs">{{ .Data.Term }}</td>
+                <td class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs">{{ $taxonomy.Count }}</td>
+              </tr>
+              {{- end -}}
+            {{- end -}}
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+{{- end -}}

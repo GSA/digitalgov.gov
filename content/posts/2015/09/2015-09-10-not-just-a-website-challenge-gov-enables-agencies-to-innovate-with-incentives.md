@@ -5,11 +5,10 @@ title: 'Not Just a Website: Challenge.gov Enables Agencies to Innovate with Ince
 summary: Next month, Challenge.gov turns five. A technical platform, a listing of federal prize competitions, and consultation and support services for running impactful challenges all meld into the program, which brings the best ideas and talent together to solve mission-centric problems. To mark the milestone, the General Services Administration (GSA) will host a special event on
 authors:
   - kelly-olson
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
 ---
 
 {{< legacy-img src="2015/09/600-x-450-Number-five-cupcake-RuthBlack-iStock-Thinkstock-465078596.jpg" alt="Cupcake with sprinkles and a starred number 5 candle" caption="" >}} 

@@ -5,12 +5,11 @@ title: GSA Open Government Builds Solutions and Gives Voice to Citizens
 summary: ' Our work at the General Services Administration encompass many of the pillars of Open Government, from giving a greater voice to citizens to through Public Participation innovations like Challenge.gov to making the'
 authors:
   - phaedra-chrousos
-categories:
-  - Managing Digital
-tag:
-  - data.gov
-  - National Action Plan on Open Government
-  - open government
+topics:
+  - product-management
+  - data-gov
+  - national-action-plan-on-open-government
+  - open-government
 ---
 
 {{< legacy-img src="2015/10/600-x-400-The-Open-Government-Partnership-10-27-2015-Third-Open-Government-National-Action-Plan-For-The-United-States-Of-America.jpg" alt="The Open Government Partnership: Third Open Government National Action Plan For The United States Of America, October 27, 2015" >}}
@@ -19,7 +18,7 @@ Our work at the General Services Administration encompass many of the pillars of
 
 OGP is an international organization with 66 members countries promoting transparency, increased civic participation, and harness new technologies to make government more open, effective, and accountable. OGP’s ultimate goal includes improving the quality of services that citizens receive, and that’s something we too strive to champion by shipping and driving adoption of the best new products and processes.
 
-GSA’s commitments in the National Action Plan not only use our resources and technology to [improve citizen services](http://www.data.gov/meta/open-government-national-action-plan/), but we enthusiastically helped develop the plan itself to [give a greater voice to citizens]({{< link "2015-10-29-empowering-the-voice-of-citizens-at-core-of-gsa-open-government.md" >}}) through coordinated open dialogues and collaboration between federal agencies, state and local governments, and civil societies.
+GSA’s commitments in the National Action Plan not only use our resources and technology to [improve citizen services](http://www.data.gov/meta/open-government-national-action-plan/), but we enthusiastically helped develop the plan itself to [give a greater voice to citizens]({{< ref "2015-10-29-empowering-the-voice-of-citizens-at-core-of-gsa-open-government.md" >}}) through coordinated open dialogues and collaboration between federal agencies, state and local governments, and civil societies.
 
 Our commitments to the third U.S. National Action Plan include:
 

@@ -14,6 +14,10 @@ event_organizer: DigitalGov University
 host: 
 registration_url: https://www.eventbrite.com/e/virtual-student-federal-service-vsfs-submit-a-project-and-make-an-impact-registration-46118530767
 youtube_id: aQWmGrrsvtY
+topics:
+  - state
+  - us-department-of-state
+  - professional-development
 
 ---
 

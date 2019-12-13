@@ -5,27 +5,26 @@ title: Making Your Agency Apps Secure
 summary: 'It’s Saturday night: Do you know what your mobile app is doing? Securing your mobile device is hard (no matter what day of the week). And there are numerous threats that can be posed by the apps on your device: an app could be spying on you, stealing your money, stealing data or reconfiguring the'
 authors:
   - awichman
-categories:
-  - Mobile
-  - Our Work
-tag:
-  - DHS
+topics:
   - mobile
-  - mobile apps
-  - mobile gov community of practice
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 6
-  - MobileGov
+  - our-work
+  - dhs
+  - mobile
+  - mobile-apps
+  - mobile-gov-community-of-practice
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-6
+  - mobile-gov
   - Recaps
   - security
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
 ---
 
 It’s Saturday night: Do you know what your mobile app is doing?
 
 Securing your mobile device is hard (no matter what day of the week). And there are numerous threats that can be posed by the apps on your device: an app could be spying on you, stealing your money, stealing data or reconfiguring the settings on your device. {{< legacy-img src="2016/01/600-x-400-Mobile-security-and-antivirus-protection-concept-scanrail-iStock-Thinkstock-177305974.jpg" alt="Mobile security and antivirus protection concept" caption="" >}} 
 
-Security and privacy are part of the [six Mobile User Experience Guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}) developed by the [MobileGov Community of Practice]({{< link "mobilegov.md" >}}). A recent [webinar](https://www.youtube.com/watch?v=2gs72FMs44E) dove further into guideline six: Develop security and privacy guidelines with regard to what the app does and how it protects user data and government systems.
+Security and privacy are part of the [six Mobile User Experience Guidelines]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}) developed by the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}). A recent [webinar](https://www.youtube.com/watch?v=2gs72FMs44E) dove further into guideline six: Develop security and privacy guidelines with regard to what the app does and how it protects user data and government systems.
 
 Vincent Sritapan, program manager for the Department of Homeland Security Advanced Research Projects Agency (HSARPA), is responsible for overseeing [DHS Science and Technology&#8217;s](http://www.dhs.gov/science-and-technology/) Mobile Security research and development projects. The projects are aimed at accelerating the adoption of secure mobile technologies by government and industry.
 

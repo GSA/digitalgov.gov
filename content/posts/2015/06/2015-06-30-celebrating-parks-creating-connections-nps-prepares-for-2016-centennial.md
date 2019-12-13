@@ -5,13 +5,12 @@ title: 'Celebrating Parks, Creating Connections: NPS Prepares for 2016 Centennia
 summary: ' Planning your next national park adventure (from the comfort of your couch) is easier than ever with a new website, Find Your Park.com. Launched on April 2nd, the mobile-friendly FindYourPark.com was designed and launched by the National Park Foundation (NPF), the'
 authors:
   - awichman
-categories:
-  - Monthly Theme
-  - Social Media
-tag:
-  - Instagram
+topics:
+  - monthly-theme
+  - social-media
+  - instagram
   - NPS
-  - social media
+  - social-media
   - Twitter
   - US National Park Service
 ---

@@ -5,11 +5,10 @@ title: 'Trends on Tuesday: Americans&#8217; &#8216;Digital Divide&#8217; on Tech
 summary: 'The Pew Internet and the American Life Project released a report recently that analyzed the use of digital tools for different groups of tech literacies and found some interesting &lsquo;digital divides’ and levels of trust, usage, and skill. The report broke out 5 personas of the American people: Digitally Ready (17 percent of U.S. Adults)'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Trends on Tuesday
+  - mobile
+  - trends-on-tuesday
 ---
 
 The [Pew Internet and the American Life Project released a report recently that analyzed the use of digital tools for different groups of tech literacies and found some interesting ‘digital divides’](http://www.pewinternet.org/2016/09/20/digital-readiness-gaps/) and levels of trust, usage, and skill. {{< legacy-img src="2016/11/600-x-450-American-flag-Pie-graph-with-5-pieces-grki-iStock-Thinkstock-165677616.jpg" alt="American flag Pie graph with 5 pieces." caption="" >}} 

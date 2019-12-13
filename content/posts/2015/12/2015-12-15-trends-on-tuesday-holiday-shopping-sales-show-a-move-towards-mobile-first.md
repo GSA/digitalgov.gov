@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: Holiday Shopping Sales Show a Move Towards Mobile-Fir
 summary: 'U.S. shoppers are increasingly using their mobile devices to make purchases during the busiest shopping days: Black Friday and Thanksgiving weekend. According to Custora, online Black Friday sales rose more than 16% compared to last year, and smartphone use rose to more than 36% (up from 30% last year), with iPhones accounting for the lion’s share of'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - mobile
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 U.S. shoppers are increasingly using their mobile devices to make purchases during the busiest shopping days: Black Friday and Thanksgiving weekend. {{< legacy-img src="2015/12/600-x-450-Smartphone-Shopping-Bags-style-photography-iStock-Thinkstock-529650829.jpg" alt="Three brightly colored mini shopping bags sit on a smart phone" caption="" >}} 
@@ -25,6 +24,6 @@ Data show that the divide between mobile and tablet devices is often split by ag
   * Browsing products and price comparison shopping
   * Reading reviews {{< legacy-img src="2015/12/600-x-412-Paper-shopping-bags-on-computer-tablet-screen-monticelllo-iStock-Thinkstock-471372762.jpg" alt="Paper shopping bags on computer tablet screen" caption="" >}} 
 
-This increase in mobile shopping and purchasing is further evidence that more people are becoming comfortable with [going mobile-first for complex or sensitive data, like making purchases]({{< link "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}).
+This increase in mobile shopping and purchasing is further evidence that more people are becoming comfortable with [going mobile-first for complex or sensitive data, like making purchases]({{< ref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}).
 
-Government website audiences are [a little slower than audiences in the mainstream and commercial space]({{< link "2015-07-14-trends-on-tuesday-adults-use-mobile-devices-most-of-the-time.md" >}}), but [they’re growing in double digit numbers and will soon make the shift]({{< link "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}), so agencies need to move quickly to modernize their technology and user experiences to be optimized for mobile users.
+Government website audiences are [a little slower than audiences in the mainstream and commercial space]({{< ref "2015-07-14-trends-on-tuesday-adults-use-mobile-devices-most-of-the-time.md" >}}), but [they’re growing in double digit numbers and will soon make the shift]({{< ref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}), so agencies need to move quickly to modernize their technology and user experiences to be optimized for mobile users.

@@ -5,25 +5,24 @@ title: Should Your Agency Be Offering Chat Service?
 summary: Live Web chat is an important component of good customer service. People like having the option of talking with an agent in real-time without having to pick up the phone. While live chat is not widespread, several agencies have shown great success in serving the public through this alternative channel. At a recent Government Contact
 authors:
   - tonya-beres
-categories:
-  - Communities
-  - Managing Digital
-  - Monthly Theme
-tag:
-  - AoI
-  - Customer Experience
-  - customer satisfaction
+topics:
+  - communities
+  - product-management
+  - monthly-theme
+  - aoi
+  - cx
+  - customer-satisfaction
   - Government Contact Center Council
-  - government contact centers
+  - government-contact-centers
   - HHS
   - US Department of Education
-  - United States Department of Health and Human Services
-  - USAgov
+  - united-states-department-of-health-and-human-services
+  - usagov
 ---
 
 {{< legacy-img src="2014/07/250-x-200-Computer-mouse-connected-to-the-word-SOS-internet-concept-lcs813-iStock-Thinkstock-482767263.jpg" alt="Computer mouse connected to the word SOS" caption="" >}}
 
-Live Web chat is an important component of good customer service. People like having the option of talking with an agent in real-time without having to pick up the phone. While live chat is not widespread, several agencies have shown great success in serving the public through this alternative channel. At a recent [Government Contact Center Council]({{< link "communities/government-contact-center-council" >}} "Government Contact Center Council - G3C") meeting, colleagues from HHS ([cancer.gov](http://www.cancer.gov/)), Education ([StudentAid.gov](https://studentaid.ed.gov/)), and GSA ([USA.gov](http://www.usa.gov/)) shared their challenges and successes in implementing and managing Web chat. Some agencies have 10 years experience in this field!
+Live Web chat is an important component of good customer service. People like having the option of talking with an agent in real-time without having to pick up the phone. While live chat is not widespread, several agencies have shown great success in serving the public through this alternative channel. At a recent [Government Contact Center Council]({{< ref "/communities/government-contact-center-council.md" >}} "Government Contact Center Council - G3C") meeting, colleagues from HHS ([cancer.gov](http://www.cancer.gov/)), Education ([StudentAid.gov](https://studentaid.ed.gov/)), and GSA ([USA.gov](http://www.usa.gov/)) shared their challenges and successes in implementing and managing Web chat. Some agencies have 10 years experience in this field!
 
 ## Why did you choose to offer Web chat?
 

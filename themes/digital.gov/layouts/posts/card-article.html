@@ -1,0 +1,31 @@
+<div class="card card-article card-linked" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
+  <div class="grid-row tablet-lg:grid-gap-2">
+    <div class="grid-col-12 tablet:grid-col-4 tablet:order-2">
+      {{- partial "core/img-featured" . -}}
+    </div>
+    <div class="grid-col-12 tablet:grid-col-8 tablet:order-1">
+
+      {{- if .Params.kicker -}}
+      <div class="kicker">{{- .Params.kicker -}}</div>
+      {{- end -}}
+      <h3>
+        <a href="{{- .Permalink -}}">{{- .Title | markdownify -}}</a>
+      </h3>
+
+      {{- if .Params.deck -}}
+      <div class="deck">{{ .Params.deck | markdownify }}</div>
+      {{- else -}}
+      <div class="summary">{{ .Params.summary | markdownify }}</div>
+      {{- end -}}
+
+      {{- partial "core/get_authors_short" . -}}
+
+      <div class="meta">
+        <div class="date">{{ dateFormat "Jan 02, 2006" .Date }}</div>
+        {{- partial "core/get_clicks" . -}}
+      </div>
+    </div>
+
+  </div>
+  <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+</div>

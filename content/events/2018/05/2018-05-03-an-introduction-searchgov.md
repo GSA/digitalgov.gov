@@ -13,6 +13,8 @@ event_organizer: DigitalGov University
 host:
 registration_url: https://www.eventbrite.com/e/searchgov-basics-registration-45389799111
 youtube_id: W9gFgy4Jx6k
+topics:
+  - digitalgov-search
 
 ---
 

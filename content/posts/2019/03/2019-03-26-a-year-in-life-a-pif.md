@@ -6,15 +6,15 @@ summary: 'As a Presidential Innovation Fellow in my second year, I often get ask
 deck: "Advice on how to make the most impact in a limited amount of time in government"
 authors:
   - zach-goldfine
-categories:
-  - managing-digital
-tag:
+topics:
+  - product-management
   - pif
   - presidential-innovation-fellows
 
 featured_image:
   uid: zach-goldfine-pif-c
-  alt: ''
+  alt: 'Zach Goldfine'
+
 ---
 
 

@@ -5,15 +5,14 @@ title: 'ATF.gov &#8211; Usability Case Study'
 summary: 'The Bureau of Alcohol, Tobacco, Firearms, and Explosives has some really valuable information for the public that a lot of people search for on ATF.gov. It&#8217;s important that the information is easily and quickly accessible. Government agencies reach a wide audience with their information, so making sure everyone can understand your content is important. The DigitalGov User'
 authors:
   - jonathan-rubin
-categories:
+topics:
   - user-testing-and-research
-tag:
-  - ATF
+  - atf
   - Bureau of Alcohol Tobacco Firearms and Explosives
   - DigitalGov User Experience Program
-  - usability case study
-  - usability testing
-  - user experience
+  - usability-case-study
+  - usability-testing
+  - user-experience
 ---
 
 The Bureau of Alcohol, Tobacco, Firearms, and Explosives has some really valuable information for the public that a lot of people search for on [ATF.gov](http://www.atf.gov//). It&#8217;s important that the information is easily and quickly accessible. Government agencies reach a wide audience with their information, so making sure everyone can understand your content is important.

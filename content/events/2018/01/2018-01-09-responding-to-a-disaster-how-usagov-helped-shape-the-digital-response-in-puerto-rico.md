@@ -16,6 +16,11 @@ youtube_id: MqJFd9DX7cY
 aliases:
   - /event/responding-to-a-disaste-how-usagov-helped-shape-the-digital-response-in-puerto-rico
   - /event/responding-to-a-disaster-how-usagov-helped-shape-the-digital-response-in-puerto-rico
+topics:
+  - product-management
+  - multilingual
+  - usagov
+
 ---
 
 Hurricane Maria made landfall on September 20, 2017, devastating Puerto Rico and the U.S. Virgin Islands. These events, coupled with hurricanes Harvey and Irma, and wildfires in California, made five simultaneous natural disasters that the Federal Emergency Management Agency (FEMA) would need to address. Within a few weeks, thousands of federal volunteers from across the country were deployed to the Joint Field Office (JFO) in San Juan.

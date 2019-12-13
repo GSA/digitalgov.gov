@@ -5,9 +5,8 @@ title: 'DigitalGov Podcast: The Secrets Behind CIA Social Media'
 summary: 'Julia Child and the OSS Recipe for Shark Repellent: http://t.co/q3cC4QiJhR #SharkWeek #OSS #WWII pic.twitter.com/Idbo1OkPLP &mdash; CIA (@CIA) July 9, 2015 The Central Intelligence Agency launched their Twitter account with the second most retweeted inaugural post in the platform’s history: &ldquo;We can neither confirm nor deny that this is our first tweet.&rdquo; Now for the first'
 authors:
   - jherman
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - Central Intelligence Agency
   - CIA
   - podcast
@@ -30,7 +29,7 @@ The Central Intelligence Agency launched their Twitter account with [the second 
 
 Now for the first time, on the DigitalGov podcast, learn from the CIA itself the best practices behind one of the most high-profile social media accounts in both the public and private sector.
 
-Justin Herman, GSA lead for the government-wide [SocialGov Community]({{< link "social-media.md" >}}), explores the story-behind-the-stories with Carolyn Reams, web strategist for [CIA.gov](https://www.cia.gov/index.html), on not-so-secret subjects including:
+Justin Herman, GSA lead for the government-wide [SocialGov Community]({{< ref "social-media.md" >}}), explores the story-behind-the-stories with Carolyn Reams, web strategist for [CIA.gov](https://www.cia.gov/index.html), on not-so-secret subjects including:
 
   * How and why did the CIA get into social media?
   * What does a great day look like for the CIA social media team?

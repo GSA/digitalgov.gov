@@ -5,12 +5,11 @@ title: 'Updated: Live Blogging the Analytics Dashboard on #TaxDay'
 summary: '2 a.m. EDT, April 16 Looks like the traffic peak for #TaxDay was around 3:00 pm when 194,301 people were on government sites. We&#8217;re now less than one-quarter of that traffic, and the more regular patterns of top sites are reasserting themselves. We’re talking about YOU, NASA astronomy picture of the day and that wonderful'
 authors:
   - awichman
-categories:
-  - Metrics
-  - Our Work
-tag:
+topics:
+  - metrics
+  - our-work
   - analytics
-  - Digital Analytics Program
+  - digital-analytics-program
 ---
 
 ## 2 a.m. EDT, April 16
@@ -60,7 +59,7 @@ Number of IRS pages that are in the Top 20 pages: **16**
 ### Fun Facts:
 
   * Folks in other time zones still have time to postmark their returns by midnight. Check out the U.S. Postal Service site to <a href="https://www.usps.com/taxes/" target="_blank">find Post Office locations that are open late</a> to postmark tax returns.
-  * It doesn&#8217;t look like we hit [DAP]({{< link "/dap/" >}} "DAP: Digital Analytics Program") Program Manager Marina Fox&#8217;s prediction of 300,000 realtime views. We&#8217;ll ask for her post-game analysis tomorrow._-gk, Digital Government, GSA
+  * It doesn&#8217;t look like we hit [DAP]({{< ref "/guide/dap/_index.md" >}} "DAP: Digital Analytics Program") Program Manager Marina Fox&#8217;s prediction of 300,000 realtime views. We&#8217;ll ask for her post-game analysis tomorrow._-gk, Digital Government, GSA
 
 _
 
@@ -77,11 +76,11 @@ Number of IRS pages that are in the Top 20 pages: **16**
 ### Fun Facts:
 
   * Two IRS app pages are currently on the Top 20.
-  * You&#8217;re not alone tax traffic lovers. We&#8217;ve got you covered until midnight on the West Coast._-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">Sites</a>_
+  * You&#8217;re not alone tax traffic lovers. We&#8217;ve got you covered until midnight on the West Coast. -Coqui Aspiazu_
 
 ## 10:00 Update
 
-IRS websites still make up 15 of the top 20 sites on [analytics.usa.gov](https://analytics.usa.gov/). Employees at all federal government agencies are working hard to improve customer service, so you have a great experience when you look on the web, call us, or chat online. When citizens have a good customer experience, [statistics from Forrester Research](http://blogs.forrester.com/rick_parrish/14-11-07-improving_the_federal_customer_experience_is_a_national_security_imperative) show that they are proud of their country and optimistic about its future. Check out our articles this month. The theme is &#8220;[How Federal Contact Centers Deliver Great Customer Service]({{< link "2015-04-08-monthly-theme-how-federal-contact-centers-deliver-great-customer-service.md" >}}).&#8221;
+IRS websites still make up 15 of the top 20 sites on [analytics.usa.gov](https://analytics.usa.gov/). Employees at all federal government agencies are working hard to improve customer service, so you have a great experience when you look on the web, call us, or chat online. When citizens have a good customer experience, [statistics from Forrester Research](http://blogs.forrester.com/rick_parrish/14-11-07-improving_the_federal_customer_experience_is_a_national_security_imperative) show that they are proud of their country and optimistic about its future. Check out our articles this month. The theme is &#8220;[How Federal Contact Centers Deliver Great Customer Service]({{< ref "2015-04-08-monthly-theme-how-federal-contact-centers-deliver-great-customer-service.md" >}}).&#8221;
 
 ### The Stats:
 
@@ -91,7 +90,7 @@ Number of IRS pages that are in the Top 20 pages: **15**_-Karen Trebon, Assistan
 
 ## 9:00 Update
 
-It’s 9:00 pm, do you know where your refund is? Well now it&#8217;s easy to check on the go with the [IRS2Go app]({{< link "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}} "IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety"). IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you’re e-filing, you can check your refund status within about 24 hours after the IRS confirms receipt of your tax return.
+It’s 9:00 pm, do you know where your refund is? Well now it&#8217;s easy to check on the go with the [IRS2Go app]({{< ref "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}} "IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety"). IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you’re e-filing, you can check your refund status within about 24 hours after the IRS confirms receipt of your tax return.
 
 ### The Stats:
 
@@ -173,7 +172,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * Data and analytics aren’t only fun but they are useful! Check out how [USA.gov used analytics to create a better user experience]({{< link "2014-07-01-using-analytics-to-create-change-usa-gov-usability-case-study.md" >}} "Using Analytics to Create Change: USA.gov Usability Case Study")._-Alycia Piazza, DigitalGov Platform Manager_
+  * Data and analytics aren’t only fun but they are useful! Check out how [USA.gov used analytics to create a better user experience]({{< ref "2014-07-01-using-analytics-to-create-change-usa-gov-usability-case-study.md" >}} "Using Analytics to Create Change: USA.gov Usability Case Study")._-Alycia Piazza, DigitalGov Platform Manager_
 
 ##
 
@@ -202,7 +201,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * Staring at your tax forms can make you see stars. But you can take a look at real stars via [NASA’s Astronomy Photo of the Da](http://apod.nasa.gov/apod/astropix.html)y, which is consistently in the Top 20 pages on the Dashboard. Today’s photo is &#8220;Mystic Mountain Dust Pillars.&#8221;
-  * We’re having fun with data today, but opening government data is valuable on many levels. Our [Wednesday API briefing]({{< link "tag/wednesday-api-briefing" >}}) writer, Bill Brantley, just published an article on [how government data benefits the American economy]({{< link "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}})._-Ashley Wichman, DigitalGov Team_
+  * We’re having fun with data today, but opening government data is valuable on many levels. Our [Wednesday API briefing]({{< ref "/topics/wednesday-api-briefing" >}}) writer, Bill Brantley, just published an article on [how government data benefits the American economy]({{< ref "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}})._-Ashley Wichman, DigitalGov Team_
 
 ## 1:00 pm Update
 
@@ -217,7 +216,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * The number of people on the **“Where’s my Refund Page” has decreased slightly to 4,326 people**. Could the cause be people going to eat lunch?
-  * Data! It’s what the Dashboard is all about. [DigitalGov University]({{< link "/digitalgov-university/" >}}) has hosted several trainings on [analyzing data and writing meaningful reports]({{< link "2014-10-20-metrics-round-up.md" >}})._-Kendrick Daniel, Digital Gov Team_
+  * Data! It’s what the Dashboard is all about. [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) has hosted several trainings on [analyzing data and writing meaningful reports]({{< ref "2014-10-20-metrics-round-up.md" >}})._-Kendrick Daniel, Digital Gov Team_
 
 ## Noon Update
 
@@ -231,9 +230,9 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{< link "tag/thursday-mobile-products" >}}) blogger Kevin Downey was one of the people on that page earlier.
-  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers]({{< link "categories/monthly-theme" >}}). I can imagine the IRS contact center is getting a lot of phone calls today.
-  * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions._-Jacob Parcell, Manager, [Mobile Programs]({{< link "categories/mobile" >}})_
+  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{< ref "/topics/thursday-mobile-products" >}}) blogger Kevin Downey was one of the people on that page earlier.
+  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers]({{< ref "/topics/monthly-theme" >}}). I can imagine the IRS contact center is getting a lot of phone calls today.
+  * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions._-Jacob Parcell, Manager, [Mobile Programs]({{< ref "/topics/mobile" >}})_
 
 ## 11:00 am Update
 
@@ -280,15 +279,15 @@ Number of IRS pages that are in the Top 20 pages: **10**
 
 ### Fun Facts:
 
-  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday]({{< link "tag/trends-on-tuesday" >}}), so take a peek and learn how federal agencies are becoming future-ready.
-  * In fact, while we are talking about the IRS, [IRS2Go was recently updated]({{< link "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}}) and is available on Android and iOS.
+  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday]({{< ref "/topics/trends-on-tuesday" >}}), so take a peek and learn how federal agencies are becoming future-ready.
+  * In fact, while we are talking about the IRS, [IRS2Go was recently updated]({{< ref "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}}) and is available on Android and iOS.
   * There were **581,281 visits to government websites at midnight** (Eastern time, early this morning). Were you one of the night owls?_-Ashley Wichman, DigitalGov Team_
 
 ## 8:00 am Update
 
 Good morning, and Happy #TaxDay!
 
-It&#8217;s nearing 8:00 am at DigitalGov headquarters in Washington, DC, and there are more than 90,000 people on government websites right now. There is a lot of excitement for today. As we mentioned earlier, Marina Fox, manager of the [Digital Analytics Program]({{< link "/dap/" >}} "DAP: Digital Analytics Program"), is guessing that real-time users could hit 300,000 today, smashing the current record of 200,000.
+It&#8217;s nearing 8:00 am at DigitalGov headquarters in Washington, DC, and there are more than 90,000 people on government websites right now. There is a lot of excitement for today. As we mentioned earlier, Marina Fox, manager of the [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}} "DAP: Digital Analytics Program"), is guessing that real-time users could hit 300,000 today, smashing the current record of 200,000.
 
 We&#8217;ll be bringing hourly updates throughout the day and into the evening. Here&#8217;s a quick glance at what is happening right now. All of the data we are referencing is from the [Analytics Dashboard](https://analytics.usa.gov/).
 
@@ -309,4 +308,4 @@ _
 
 ## First Posting: April 14
 
-Join us at 8:00 am tomorrow as we live blog the action on the [public analytics dashboard](http://analytics.usa.gov). Marina Fox, manager of the [Digital Analytics Program]({{< link "/dap/" >}} "DAP: Digital Analytics Program") thinks the real-time users could hit 300,000 (the current record stands just at 200,000). We will be posting hourly updates throughout the day and into the evening. We&#8217;ll also be active on our Twitter, [@Digital_Gov](https://twitter.com/digital_gov), with the hashtag #TaxDay.
+Join us at 8:00 am tomorrow as we live blog the action on the [public analytics dashboard](http://analytics.usa.gov). Marina Fox, manager of the [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}} "DAP: Digital Analytics Program") thinks the real-time users could hit 300,000 (the current record stands just at 200,000). We will be posting hourly updates throughout the day and into the evening. We&#8217;ll also be active on our Twitter, [@Digital_Gov](https://twitter.com/digital_gov), with the hashtag #TaxDay.

@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: e-Reading on the Rise'
 summary: 'What’s black and white and read all over? An e-reader. While it may be premature to revise classic riddles, a recent study by the Pew Research Center indicates that e-books are gaining popularity among American readers. Nearly three in ten adults (28%) reported reading an e-book in the past year, up from 23% at the'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
-  - Mobile UX Guideline 1
+topics:
+  - mobile
+  - mobile-ux-guideline-1
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 
@@ -24,4 +23,4 @@ Who’s reading, and how:
   * Most people who read e-books and own a tablet or e-reader also consume e-books on their personal computer and cell phones.
   * Among individuals who read a book in the past year, 47% of those under 30 read an e-book, as did 42% of those ages 30-49 and 35% of readers ages 50-64.
 
-Reading habits are changing. Although print should not be abandoned, government communicators must acknowledge the mobile lifestyles of their audiences. So the next time your agency releases a report, white paper or any other significant publication, take a few extra steps to make it mobile, [<span style="text-decoration: underline">as our article on ebooks explains</span>]({{< link "2014-03-07-creating-e-books-think-functionality-not-aesthetics.md" >}} "Creating E-Books: Think Functionality, Not Aesthetics").
+Reading habits are changing. Although print should not be abandoned, government communicators must acknowledge the mobile lifestyles of their audiences. So the next time your agency releases a report, white paper or any other significant publication, take a few extra steps to make it mobile, [<span style="text-decoration: underline">as our article on ebooks explains</span>]({{< ref "2014-03-07-creating-e-books-think-functionality-not-aesthetics.md" >}} "Creating E-Books: Think Functionality, Not Aesthetics").

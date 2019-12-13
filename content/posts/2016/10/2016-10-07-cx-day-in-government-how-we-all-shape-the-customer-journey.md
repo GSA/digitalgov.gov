@@ -5,12 +5,12 @@ title: 'CX Day In Government: How We All Shape The Customer Journey'
 summary: 'During National Customer Service Week, it&#8217;s a great time for organizations across industry and government to celebrate putting customers at the center of our work and to think about what we can do to improve our customers’ end-to-end experiences. When you think this big, it can be a little daunting, but the good news is'
 authors:
   - matthew-ford
-categories:
-  - strategy-and-policy
-tag:
-  - Customer Experience
-  - customer service
-  - CX
+topics:
+  - strategy
+  - policy
+  - cx
+  - customer-service
+  - cx
   - FAS
   - Federal Acquisition Service
   - GSA

@@ -6,30 +6,29 @@ summary: 'As highlighted in this Trends on Tuesday post, time spent on mobile ph
 authors:
   - zeshan-khan
   - katie-steffy
-categories:
-  - Mobile
-  - Monthly Theme
-  - Social Media
-tag:
+topics:
+  - mobile
+  - monthly-theme
+  - social-media
   - crowdsourcing
   - Federal Mobile Products Registry
   - GPS
-  - mobile apps
-  - mobile gov
-  - Mobile UX Guideline 5
+  - mobile-apps
+  - mobile-gov
+  - mobile-ux-guideline-5
   - National Highway Traffic Safety Administration
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - SocialGov Community
-  - Trends on Tuesday
+  - socialgov-community
+  - trends-on-tuesday
   - US Department of Agriculture
   - US Forest Service
   - USDA
 ---
 
-As highlighted in this [Trends on Tuesday]({{< link "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md" >}}) post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.
+As highlighted in this [Trends on Tuesday]({{< ref "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md" >}}) post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.
 
-{{< legacy-img src="2014/06/citrus-250x448.png" alt="250-x-448-usda-citrus-image" >}}To take advantage of new opportunities for consumer interaction, federal agencies are implementing social media as part of their mobile products. We surveyed the mobile products submitted to the [Federal Apps Registry]({{< link "u-s-digital-registry.md" >}} "The Federal Mobile Apps Registry") to see how agencies are incorporating social media into their mobile products.
+{{< legacy-img src="2014/06/citrus-250x448.png" alt="250-x-448-usda-citrus-image" >}}To take advantage of new opportunities for consumer interaction, federal agencies are implementing social media as part of their mobile products. We surveyed the mobile products submitted to the [Federal Apps Registry]({{< ref "service_us-digital-registry.md" >}} "The Federal Mobile Apps Registry") to see how agencies are incorporating social media into their mobile products.
 
 We found that agencies are using social media in 3 general ways.
 
@@ -43,5 +42,5 @@ With [Save Our Citrus](https://itunes.apple.com/us/app/save-our-citrus/id5113050
 
 {{< legacy-img src="2014/06/whale-1.png" alt="250-x-448-NOAA-whale-image" >}}The [Dolphin and Whale 911 app](http://sero.nmfs.noaa.gov/protected_resources/outreach_and_education/mm_apps/) from the National Oceanic and Atmospheric Administration (NOAA) showcases crowdsourcing by enabling users to take and share photos of marine animals (including corresponding GPS coordinates) with marine mammal stranding network organizations. Organizations are then notified of the injured animal and are able to take the corresponding measures in aiding it.
 
-What does this mean for federal agencies? The time to move forward with mobile strategies that involve users with social media has arrived, and the [Mobile Gov]({{< link "mobilegov.md" >}} "Mobile") and [Social Media]({{< link "social-media.md" >}} "Social Media") Communities of Practice are here to help!_**Zeshan Khan**, a rising junior enrolled in Virginia Tech’s Pamplin College of Business, is striving towards a degree in Business Information Systems. **Katie Steffy**, a rising senior at Virginia Tech, is earning a double degree in Dairy Science and Political Science with an emphasis in Legal Studies. Both are interning with the Mobile Gov team this summer._
+What does this mean for federal agencies? The time to move forward with mobile strategies that involve users with social media has arrived, and the [Mobile Gov]({{< ref "mobilegov.md" >}} "Mobile") and [Social Media]({{< ref "social-media.md" >}} "Social Media") Communities of Practice are here to help!_**Zeshan Khan**, a rising junior enrolled in Virginia Tech’s Pamplin College of Business, is striving towards a degree in Business Information Systems. **Katie Steffy**, a rising senior at Virginia Tech, is earning a double degree in Dairy Science and Political Science with an emphasis in Legal Studies. Both are interning with the Mobile Gov team this summer._
 _This article is part of this month&#8217;s editorial theme on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

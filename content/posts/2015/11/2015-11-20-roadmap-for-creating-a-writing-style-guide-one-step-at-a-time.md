@@ -5,11 +5,10 @@ title: 'Roadmap for Creating a Writing Style Guide: One Step at a Time'
 summary: 'So, you’re tired of seeing little (or big!) errors on your agency’s website, and you flinch at the random writing styles. You feel like your agency’s content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency’s'
 authors:
   - colleen-blessing
-categories:
-  - Writing
-tag:
+topics:
+  - writing
   - EIA
-  - Plain language
+  - plain-language
   - US Energy Information Administration
 ---
 

@@ -5,15 +5,14 @@ title: In Crowdsourcing Competitions, Defining the Problem is Half the Battle
 summary: 'After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue. More than 20 federal innovators recently took part in'
 authors:
   - tlowden
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
-tag:
-  - ChallengeGov
+  - challenge-gov
   - crowdsourcing
-  - DHS
+  - dhs
   - Recaps
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
 ---
 
 {{< legacy-img src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" >}}After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue.
@@ -95,4 +94,4 @@ With this method, the potential solver has a much better idea of what he/she is 
 
  
 
-_For more information on challenges and crowdsourcing, see the <a style="line-height: 1.5em" href="{{< link "crowdsourcing-toolkit-for-federal-agencies.md" >}}">Crowdsourcing Toolkit for Federal Agencies</a> or email <a style="line-height: 1.5em" href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> to join the Challenges and Prizes Community of Practice listserv. To join the Federal Ideation Community of Practice, which focuses on internal agency ideation, email <a style="line-height: 1.5em" href="mailto:meredith.lee@st.dhs.gov">meredith.lee@st.dhs.gov</a>._
+_For more information on challenges and crowdsourcing, see the <a style="line-height: 1.5em" href="{{< ref "crowdsourcing-toolkit-for-federal-agencies.md" >}}">Crowdsourcing Toolkit for Federal Agencies</a> or email <a style="line-height: 1.5em" href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> to join the Challenges and Prizes Community of Practice listserv. To join the Federal Ideation Community of Practice, which focuses on internal agency ideation, email <a style="line-height: 1.5em" href="mailto:meredith.lee@st.dhs.gov">meredith.lee@st.dhs.gov</a>._

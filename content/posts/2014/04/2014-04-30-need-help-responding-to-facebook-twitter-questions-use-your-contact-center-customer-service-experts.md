@@ -5,18 +5,17 @@ title: 'Need Help Responding to Facebook & Twitter Questions? Use Your Contact C
 summary: 'Government agencies are always looking for better ways to connect with their audiences while making more effective use of existing (or shrinking) resources. To that end, many agencies&mdash;including ours, the National Cancer Institute&mdash;have begun to use social media platforms to help serve the communications mission. As these tools have become more widely used, NCI’s Contact'
 authors:
   - candace-maynard
-categories:
-  - Communities
-  - Managing Digital
-  - Monthly Theme
-tag:
-  - AoI
+topics:
+  - communities
+  - product-management
+  - monthly-theme
+  - aoi
   - HHS
-  - National Institutes of Health
+  - national-institutes-of-health
   - NCI
-  - NIH
-  - social media
-  - United States Department of Health and Human Services
+  - nih
+  - social-media
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}} 

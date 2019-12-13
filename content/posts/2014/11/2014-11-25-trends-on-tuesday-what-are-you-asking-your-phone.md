@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: What Are You Asking Your Phone?'
 summary: 'What’s the weather like? When does the next movie start? What time does Target close? These are just a few questions that I may ask my phone on any given day. According to a recent Mobile Voice Study led by Google, I&#8217;m not the only having conversations with my phone. 55% of teens aged 13-18 use voice'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DOI
-  - Mobile User Experience Guidelines
-  - Mobile UX Guideline 5
-  - Trends on Tuesday
+  - mobile-user-experience-guidelines
+  - mobile-ux-guideline-5
+  - trends-on-tuesday
   - US Department of the Interior
 ---
 
@@ -31,6 +30,6 @@ The study examined the smartphone habits of 1,400 Americans, age 13 and older, r
   * 27% use voice search to check the weather
   * When asked to pick one thing they wished they could ask their phones to do for them, 45% of teens selected &#8220;send me a pizza,&#8221; while the most popular request among adults was &#8220;tell me where my keys are.&#8221;
 
-Mobile searchers, no matter their age, are looking for answers in a [mobile moment]({{< link "2014-07-01-trends-on-tuesday-maximizing-your-mobile-moments.md" >}}) – they want answers immediately, in context. That’s why it is important for your agency’s website to provide valuable answers to the questions your audience is asking. You must also make sure the content is in an adaptive format so voice search tool such as Google Voice, Siri and Cortana can easily consume the information.
+Mobile searchers, no matter their age, are looking for answers in a [mobile moment]({{< ref "2014-07-01-trends-on-tuesday-maximizing-your-mobile-moments.md" >}}) – they want answers immediately, in context. That’s why it is important for your agency’s website to provide valuable answers to the questions your audience is asking. You must also make sure the content is in an adaptive format so voice search tool such as Google Voice, Siri and Cortana can easily consume the information.
 
-For more ideas, check out the [Mobile User Experience Guidelines and Recommendations]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}})._**<span class="il" style="color: #222222">Treci</span>**<span style="color: #222222"><strong> Johnson</strong> is a Public Affairs Specialist at the Department of the Interior, and a member of the MobileGov Community of Practice. She is the current author of the Trends of Tuesday blog series.</span>_
+For more ideas, check out the [Mobile User Experience Guidelines and Recommendations]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}})._**<span class="il" style="color: #222222">Treci</span>**<span style="color: #222222"><strong> Johnson</strong> is a Public Affairs Specialist at the Department of the Interior, and a member of the MobileGov Community of Practice. She is the current author of the Trends of Tuesday blog series.</span>_

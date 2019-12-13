@@ -6,14 +6,13 @@ summary: 'Open data and big data&mdash;and the responsible management and protec
 authors:
   - nick-sinai
   - nicole-wong
-categories:
-  - Data
-tag:
-  - big data
+topics:
   - data
-  - open data
+  - big-data
+  - data
+  - open-data
   - OSTP
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 Open data and big data—and the responsible management and protection of that data—are key components of the President’s agenda to drive innovation and economic growth.

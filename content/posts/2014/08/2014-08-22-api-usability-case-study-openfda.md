@@ -5,17 +5,16 @@ title: 'API Usability Case Study: openFDA'
 summary: The API Usability Program brings together developers from agency APIs and the private sector to evaluate how the API can be improved to be more user friendly. Sean Herron of 18F, who was a key member of the openFDA developer team, shared with us some of the major insights gained from this latest API usability session.
 authors:
   - georgia-gallavin
-categories:
-  - API
-  - Design
+topics:
+  - api
+  - design
   - user-testing-and-research
-  - UX
-tag:
-  - API
+  - ux
+  - api
   - DigitalGov User Experience Program
-  - FDA
-  - US Food and Drug Administration
-  - usability testing
+  - fda
+  - us-food-and-drug-administration
+  - usability-testing
 ---
 
 Last March, the openFDA team shared their [still-in-progress API](https://open.fda.gov/drug/event/) to potential users as part of the U.S. General Services Administration (GSA)&#8217;s [API Usability Program](http://18f.github.io/API-Usability-Testing/). FDA created [openFDA](https://open.fda.gov/) to allow researchers and developers to search their vast trove of public data, including information about adverse events (reports of undesirable experiences associated with the use of a medical product in a patient) submitted to the agency.
@@ -46,4 +45,6 @@ Evaluators noted several areas of the documentation that needed clarification. I
 
 An example of the iterative development methodology of openFDA, some of the feedback they received during the evaluation was fixed on the spot! When a discrepancy was discovered between the date format of existing documentation and the returned data—the documentation represented the date with hyphens, while the results did not—it was corrected right there, during the session, to ensure consistency in data representation.
 
-Although the usability session was conducted at a very early stage in the development process, the openFDA team did not end their testing there. The benefits of testing early and often were made clear, and this API usability evaluation served as inspiration to open up the platform to more developer testing. The beta version of openFDA was released to the public on June 2 of this year and the agency continues to work on incorporating additional data sets for future use._**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She is interning with the [DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._
+Although the usability session was conducted at a very early stage in the development process, the openFDA team did not end their testing there. The benefits of testing early and often were made clear, and this API usability evaluation served as inspiration to open up the platform to more developer testing. The beta version of openFDA was released to the public on June 2 of this year and the agency continues to work on incorporating additional data sets for future use.
+
+_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She is interning with the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._

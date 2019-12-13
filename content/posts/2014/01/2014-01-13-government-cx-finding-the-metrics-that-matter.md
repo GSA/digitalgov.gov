@@ -5,10 +5,9 @@ title: 'Government CX: Finding the Metrics that Matter'
 summary: 'Customer experience (CX) is an emerging area of focus within government.  My role as Vice President of Customer Experience at the Export-Import Bank speaks to this reality. Our agency’s customers and partners consist of U.S. exporters, financial services institutions, insurance brokers and foreign buyers of U.S. products and services. All play a key role in'
 authors:
   - stephanie-thum
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
+topics:
+  - product-management
+  - cx
   - Export-Import Bank of the United States
 ---
 

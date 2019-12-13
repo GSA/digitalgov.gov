@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: Testing Key to Quality Mobile Products'
 summary: 'Building quality mobile products is the greatest challenge for succeeding in the mobile space according to an infographic by SmartBear. One key to developing quality mobile products is testing, as &ldquo;nearly 50% of consumers will delete an app if they encounter just a single bug.&rdquo; As a result the following processes are used to ensure'
 authors:
   - jparcell
-categories:
-  - Mobile
-  - user-testing-and-research
-tag:
+topics:
   - mobile
-  - mobile testing
-  - Trends on Tuesday
+  - user-testing-and-research
+  - mobile
+  - mobile-testing
+  - trends-on-tuesday
 ---
 
 <p dir="ltr">
@@ -49,4 +48,4 @@ tag:
 >   * Don&#8217;t Know &#8211; 4.89%
 >   * Don&#8217;t Test &#8211; 1.15%
 
-Testing is an important part of any mobile app/web development and is why the Mobile Application Development Application program offers [mobile testing resources and guidelines]({{< link "2013-08-22-mobile-product-testing-guidelines.md" >}}). The program also offers the opportunity to have your mobile web product tested with the [Federal Crowdsource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}}).
+Testing is an important part of any mobile app/web development and is why the Mobile Application Development Application program offers [mobile testing resources and guidelines]({{< ref "2013-08-22-mobile-product-testing-guidelines.md" >}}). The program also offers the opportunity to have your mobile web product tested with the [Federal Crowdsource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}).

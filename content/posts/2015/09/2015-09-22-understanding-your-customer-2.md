@@ -5,17 +5,16 @@ title: Understanding Your Customer
 summary: 'How well do you know your customers? There’s a new guide out from the Excellence In Government (EIG) Fellows Program to help you do just that. Led by the Partnership for Public Service, EIG is a federal government initiative to train future leaders. This year, three hundred federal employees took the EIG journey to learn'
 authors:
   - andrea-d-williamson
-categories:
-  - Managing Digital
-tag:
-  - Customer Experience
-  - CX
-  - DHS
+topics:
+  - product-management
+  - cx
+  - cx
+  - dhs
   - HHS
   - HUD
   - US Department of Agriculture
-  - United States Department of Health and Human Services
-  - United States Department of Homeland Security
+  - united-states-department-of-health-and-human-services
+  - united-states-department-of-homeland-security
   - United States Department of Housing and Urban Development
   - USDA
 ---

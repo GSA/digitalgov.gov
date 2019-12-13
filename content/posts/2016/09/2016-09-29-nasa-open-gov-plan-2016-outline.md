@@ -5,28 +5,28 @@ title: 'NASA: Open Gov Plan 2016 Outline'
 summary: 'Here is the outline for our 2016 Open Government Plan. Let us know what you think. We&#8217;ve also posted this on GitHub/NASA for your comments: https://github.com/nasa/Open-Gov-Plan-v4. NASA and Open Government NASA is an open government agency based on the founding legislation in the National Aeronautics and Space Act of 1958, which calls for participation and sharing'
 authors:
   - beth-beck
-categories:
-  - API
-  - Challenges
-  - Code
-  - Content
+topics:
+  - api
+  - challenges
+  - code
+  - content
   - crowdsourcing-and-citizen-science
-  - Data
-  - Governance
-  - Managing Digital
-  - Mobile
-  - strategy-and-policy
-tag:
-  - challenges and prize competitions
-  - citizen science
+  - data
+  - governance
+  - product-management
+  - mobile
+  - strategy
+  - policy
+  - challenges-and-prize-competitions
+  - citizen-science
   - code
   - data
   - innovation
-  - mobile apps
-  - NASA
+  - mobile-apps
+  - nasa
   - open
-  - open data
-  - open government
+  - open-data
+  - open-government
 ---
 
 > Here is the outline for our 2016 Open Government Plan. Let us know what you think. We&#8217;ve also posted this on GitHub/NASA for your comments: <a href="https://github.com/nasa/Open-Gov-Plan-v4" target="_blank">https://github.com/nasa/Open-Gov-Plan-v4</a>.

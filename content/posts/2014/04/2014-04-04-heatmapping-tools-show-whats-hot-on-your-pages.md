@@ -5,14 +5,13 @@ title: 'Heatmapping Tools Show What&#8217;s &#8220;Hot&#8221; on Your Pages'
 summary: 'Most analytics tools can tell you how many times a link on your page is clicked on, but they can’t help you draw conclusions about a page with just a mere list of top links. A tool called a heatmap turns data into a data visualization, so you can more easily see how people are'
 authors:
   - tlowden
-categories:
+topics:
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - DigitalGov User Experience Program
   - usability
-  - USAgov
-  - user experience
+  - usagov
+  - user-experience
 ---
 
 Most analytics tools can tell you how many times a link on your page is clicked on, but they can’t help you draw conclusions about a page with just a mere list of top links. A tool called a heatmap turns data into a data visualization, so you can more easily see how people are interacting with the design. With it, you can find out some really important stuff: if the page design plays a part in clickthroughs, where on the page your users are moving, and what on your page might be worth featuring/not featuring. Then you can try moving pieces around for better results.
@@ -43,4 +42,4 @@ Most analytics tools can tell you how many times a link on your page is clicked 
 
 The downsides to this method are that it is generally much more expensive than mouse-tracking, and requires special equipment and extensive training. You also need to test with only a small sample, rather than get data from all of your visitors. For more information about these tools, do a search for “eye-tracking software.”
 
-If you’re interested in heatmapping or other User Experience techniques, why not join the Federal User Experience Community listserv? To do so, send a request to [Jon Rubin,](mailto:Jonathan.Rubin@cfpb.gov) Program Manager for the [DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}}).
+If you’re interested in heatmapping or other User Experience techniques, why not join the Federal User Experience Community listserv? To do so, send a request to [Jon Rubin,](mailto:Jonathan.Rubin@cfpb.gov) Program Manager for the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}}).

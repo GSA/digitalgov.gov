@@ -5,29 +5,28 @@ title: The Importance of Cross-Channel Customer Service—DigitalGov Summit Reca
 summary: During the DigitalGov Citizen Services Summit last Friday, customer service experts from across government came together on a panel to share what customer service means to them and their organization and specific ways they leverage it. The other panels were on performance analysis, public private partnerships, and inter-agency work. The panelists spoke about the strategies
 authors:
   - tonya-beres
-categories:
-  - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Metrics
-  - Mobile
-  - Social Media
-  - UX
-tag:
-  - 18F
-  - CDC
+topics:
+  - challenges
+  - code
+  - content
+  - product-management
+  - metrics
+  - mobile
+  - social-media
+  - ux
+  - 18f
+  - cdc
   - FSA
   - HHS
   - NCI
   - Recaps
   - US Department of Education
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Tonya-Beres-GSA-Panel-2-Customer-Service-Across-Channels-toni470-flickr-20140530_100526.jpg" alt="DigitalGov Citizen Services Summit and Expo -" caption="" >}} 
 
-During the [DigitalGov Citizen Services Summit]({{< link "2014-05-30-digitalgov-citizen-services-summit-a-success.md" >}}) last Friday, customer service experts from across government came together on a panel to share what customer service means to them and their organization and specific ways they leverage it. The other panels were on [performance analysis]({{< link "2014-06-03-digitalgov-summit-panels-recap.md" >}} "Turning Data Into Action—DigitalGov Summit Recap"), [public private partnerships]({{< link "2014-06-05-overcoming-barriers-digitalgov-summit-recap.md" >}} "Overcoming Barriers—DigitalGov Summit Recap"), and [inter-agency work]({{< link "2014-06-03-harnessing-the-power-of-many-digitalgov-summit-panels-recap.md" >}} "Harnessing the Power of Many—DigitalGov Summit Recap").
+During the [DigitalGov Citizen Services Summit]({{< ref "2014-05-30-digitalgov-citizen-services-summit-a-success.md" >}}) last Friday, customer service experts from across government came together on a panel to share what customer service means to them and their organization and specific ways they leverage it. The other panels were on [performance analysis]({{< ref "2014-06-03-digitalgov-summit-panels-recap.md" >}} "Turning Data Into Action—DigitalGov Summit Recap"), [public private partnerships]({{< ref "2014-06-05-overcoming-barriers-digitalgov-summit-recap.md" >}} "Overcoming Barriers—DigitalGov Summit Recap"), and [inter-agency work]({{< ref "2014-06-03-harnessing-the-power-of-many-digitalgov-summit-panels-recap.md" >}} "Harnessing the Power of Many—DigitalGov Summit Recap").
 
 The panelists spoke about the strategies they use to integrate multi-channel customer service and the organizational barriers they&#8217;ve encountered. The panelists acknowledged that while the the government, as a whole, has room for improvement in providing truly integrated cross-channel customer service, leadership is beginning to recognize the importance and cost-savings, not to mention happy customers, it brings.
 

@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: Prepare for &#8216;Mobilegeddon&#8217; II—Interstit
 summary: 'Google has announced a second wave of &lsquo;Mobilegeddon’ search penalties for websites using mobile app install interstitials. Beginning November 1st, mobile app Web pages that use large app install interstitials to hide content from the users will be downgraded in search results for not being mobile-friendly. These are the kind of pop-ups you get when you'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 2
+  - mobile
+  - mobile-ux-guideline-2
   - mobile-friendly
-  - native app
-  - native apps
-  - Trends on Tuesday
+  - native-app
+  - native-apps
+  - trends-on-tuesday
 ---
 
 Google has announced a [second</span> <span style="font-weight: 400">wave of ‘M</span>obilegeddon’ search penalties for websites using mobile app install interstitials](http://searchengineland.com/library/google/google-mobile-friendly-update)<span style="font-weight: 400">. Beginning November 1st, mobile app Web pages that use large app install interstitials to hide content from the users will be downgraded in search results for not being mobile-friendly.</p> 
@@ -27,11 +26,11 @@ Google has announced a [second</span> <span style="font-weight: 400">wave of ‘
 </p>
 
 <p>
-  A smarter strategy for this kind of prompt would be to set a tracking cookie and only prompt users that have come back multiple times to the website or base the prompt on a longer period of time or number of pageviews into a visit before you prompt users—not before they even get to see the website. Delaying the prompt also helps you more effectively target your app installs towards </span><a href="{{< link "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" >}}"><span style="font-weight: 400">Super Users or Mobile Addicts who more frequently or deeply use your site </span></a><span style="font-weight: 400"> (and are more likely to use your app frequently), not just a casual visitor from a Google search looking for a quick piece of information.</p> 
+  A smarter strategy for this kind of prompt would be to set a tracking cookie and only prompt users that have come back multiple times to the website or base the prompt on a longer period of time or number of pageviews into a visit before you prompt users—not before they even get to see the website. Delaying the prompt also helps you more effectively target your app installs towards </span><a href="{{< ref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" >}}"><span style="font-weight: 400">Super Users or Mobile Addicts who more frequently or deeply use your site </span></a><span style="font-weight: 400"> (and are more likely to use your app frequently), not just a casual visitor from a Google search looking for a quick piece of information.</p> 
   
   <p>
-    In the blog post from Google, they also clarify that this won’t affect other interstitials (for instance, surveys and advertisements), but from their previous advice that we discussed on DigitalGov, you should </span><span style="font-weight: 400"><a href="{{< link "2015-08-04-trends-on-tuesday-mobile-web-audiences-abandon-sites-with-interstitial-ads.md" >}}">strongly consider interstitial effectiveness before using them</a> anyway.</p> 
+    In the blog post from Google, they also clarify that this won’t affect other interstitials (for instance, surveys and advertisements), but from their previous advice that we discussed on DigitalGov, you should </span><span style="font-weight: 400"><a href="{{< ref "2015-08-04-trends-on-tuesday-mobile-web-audiences-abandon-sites-with-interstitial-ads.md" >}}">strongly consider interstitial effectiveness before using them</a> anyway.</p> 
     
     <p>
-      As you might recall earlier this year, Google announced <a href="{{< link "2015-04-15-mobilegeddon-government-edition.md" >}}">changes to their search algorithms to optimize and elevate rankings of mobile-optimized websites</a>. The results of this change took place this summer and <a href="{{< link "2015-08-11-trends-on-tuesday-the-impact-of-mobilegeddon-on-non-mobile-friendly-sites.md" >}}">created double-digit drops in search traffic to websites that were not mobile-optimized</a>, so Google isn&#8217;t bluffing.
+      As you might recall earlier this year, Google announced <a href="{{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}">changes to their search algorithms to optimize and elevate rankings of mobile-optimized websites</a>. The results of this change took place this summer and <a href="{{< ref "2015-08-11-trends-on-tuesday-the-impact-of-mobilegeddon-on-non-mobile-friendly-sites.md" >}}">created double-digit drops in search traffic to websites that were not mobile-optimized</a>, so Google isn&#8217;t bluffing.
     </p>

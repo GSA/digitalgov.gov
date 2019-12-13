@@ -5,13 +5,12 @@ title: 'PEW Report: Trends in Digital News'
 summary: 'A report by the PEW Research Center, 12 trends for shaping digital news,  looks at how the internet and digital devices are changing news consumption habits. While half of all Americans still prefer to get their news from'
 authors:
   - lnelson
-categories:
-  - Mobile
-  - Social Media
-  - user-testing-and-research
-tag:
+topics:
   - mobile
-  - social media
+  - social-media
+  - user-testing-and-research
+  - mobile
+  - social-media
   - Twitter
 ---
 

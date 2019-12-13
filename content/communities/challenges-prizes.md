@@ -1,25 +1,52 @@
 ---
-url: /communities/challenges-prizes/
-uid: challenges-prizes
-date: 2013-12-05 11:46:00 -0400
-title: 'Challenge & Prize Community of Practice'
+# View this page at https://digital.gov/communities/challenges-prizes
+# Learn how to edit our pages at https://workflow.digital.gov
+
+slug: challenges-prizes
+date: 2013-12-05 10:46:00 -0500
+title: 'Challenge & Prize'
+deck: ""
 summary: "We encourage public participation in crowdsourcing competitions to find innovative government solutions."
+
+
+# see all topics at https://digital.gov/topics
+topics:
+  - challenges
+  - crowdsourcing
+  - challenge-gov
+
+# see all authors at https://digital.gov/authors
+authors:
+  - eric-beidel
+  - stephanie-green
+  - tammy-white
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
+# Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /challenges-prizes-community/
+
+
+community_list:
+  - platform: listserv
+    type: government
+    subscribe_email: "team@challenge.gov"
+    subscribe_email_subject: "Join Challenges Community"
+    subscribe_email_body: "enter your name + agency you work for"
+    members: 1351
+
+# Make it better ♥
 ---
 
-{{< img src="challenge-gov" caption="" alt="Challege.gov Logo" >}}
+{{< img-right src="challenge-gov-logo" >}}
 
 Thinking about crowdsourcing and incentives as innovative ways to tackle problems within your agency? Want to talk to someone who has done it? Better yet, want to talk to somebody within your own agency, or someone who has run the same type of competition you want to run?
 
 If you answered yes to any of these questions, the Challenge and Prize Federal Community of Practice is for you!
-
-## Join
-To join, send an email to **[team@challenge.gov](mailto:team@challenge.gov)** with your name and agency you work for.
-
-## Community Manager(s)
-
-Jarah Meador and Tammy White
 
 ## Who we are
 

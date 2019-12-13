@@ -5,19 +5,18 @@ title: Leveraging American Ingenuity through Reusable and Open Source Software
 summary: 'Summary: Today, we’re releasing for public comment a draft policy to support improved access to custom software code developed for the Federal Government. America has long been a nation of innovators. American scientists, engineers and entrepreneurs invented the microchip, created the Internet, invented the smartphone, started the revolution in biotechnology, and sent astronauts to the'
 authors:
   - tony-scott
-categories:
-  - Code
-  - Managing Digital
-  - Monthly Theme
-tag:
-  - 18F
-  - analytics.usa.gov
+topics:
+  - code
+  - product-management
+  - monthly-theme
+  - 18f
+  - analytics-usa-gov
   - CFPB
   - Consumer Financial Protection Bureau
-  - data.gov
+  - data-gov
   - Education
   - HUD
-  - open source
+  - open-source
   - US Department of Education
   - United States Department of Housing and Urban Development
 ---

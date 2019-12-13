@@ -5,9 +5,8 @@ title: Vote to Make the Spring Summit a Success
 summary: 'Thanks to your awesome input on the Citizen Services Summit agenda and the rallying of the Summit Sounding Board, we now have more than 70 ideas and 50 comments on those ideas. Vote early and Vote often! We’ve opened up the voting floodgates for these 70 ideas until February 28th! Now'
 authors:
   - apiazza
-categories:
-  - Our Work
-tag:
+topics:
+  - our-work
   - DGU
   - DigitalGov Summit
 ---
@@ -22,6 +21,6 @@ But there’s more! You can also add a comment to volunteer to present or sugges
 
 ## What is the Summit Sounding Board? {{< legacy-img src="2014/12/250-x-250-People-Background-VOLODYMYR-GRINKO-iStock-Thinkstock-148460156.jpg" alt="Black background with colorful illustrations of different adult male and female silhouettes with speech bubbles" caption="" >}}
 
-We put together the Summit Sounding Board "Spring 2015 DigitalGov Citizen Services Summit") to help us work on the agenda. The Sounding Board is made up of digital innovators across the federal government who are working to build great digital service delivery to the public. They’ve [added and rallied for ideas](http://crowdhall.com/h/299/) during the submission phase to crowdsource ideas for the agenda. They are being led by our manager of [Mobile Programs]({{< link "categories/mobile" >}} "Mobile"), Jacob Parcell and will continue to work with us on developing the agenda.
+We put together the Summit Sounding Board "Spring 2015 DigitalGov Citizen Services Summit") to help us work on the agenda. The Sounding Board is made up of digital innovators across the federal government who are working to build great digital service delivery to the public. They’ve [added and rallied for ideas](http://crowdhall.com/h/299/) during the submission phase to crowdsource ideas for the agenda. They are being led by our manager of [Mobile Programs]({{< ref "/topics/mobile" >}} "Mobile"), Jacob Parcell and will continue to work with us on developing the agenda.
 
 This is your summit, help us make it awesome!

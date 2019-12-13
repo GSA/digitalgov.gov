@@ -19,6 +19,8 @@ youtube_id: HZFw1zl5rcM
 
 With an estimated 51 percent of the U.S. population saying that they’ve listened to a podcast, have you ever wondered if a podcast is right for your agency to get out information about your mission and work?
 
+{{< img-right src="socialgov-podcasting" >}}
+
 SocialGov’s fall meeting is bringing together four top experts in federal podcasting to talk about what it takes to put together a professional and engaging podcast, and tips to grow your audience.
 
 ## Our Speakers:

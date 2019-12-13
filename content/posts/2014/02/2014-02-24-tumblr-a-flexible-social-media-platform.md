@@ -5,15 +5,14 @@ title: 'Tumblr: A Flexible Social Media Platform'
 summary: 'When HHS’s Katie Gorscak was looking for a way to share Stopbullying.gov’s information with teenagers, she looked at her options on social media. New reports seem to come out regularly talking about how teens are fleeing &ldquo;traditional&rdquo; social media sites, but Gorscak knew her target audience'
 authors:
   - jessica-milcetich
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - BLM
   - HHS
   - National Archives and Records Administration
   - Recaps
   - The Bureau of Land Management
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 [{{< legacy-img src="2014/02/Tumblr-screenshot-250x154.png" alt="Screenshot of the Tumblr dashboard interface" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Tumblr-screenshot.png)When HHS’s Katie Gorscak was looking for a way to share [Stopbullying.gov](http://www.stopbullying.gov/)’s information with teenagers, she looked at her options on social media.
@@ -26,7 +25,7 @@ Looking to leverage that, Gorscak launched a [Stopbullying.gov pilot](http://sto
 
 Since 2011, when USA.gov established the [first federal Tumblr](http://blog.usa.gov/), several agencies have signed up to use the platform &#8212; each approaching the tool slightly differently to meet their own agency missions.
 
-On February 19, a group of four federal Tumblrarians &#8212; [Jessica Milcetich from USA.gov](http://blog.usa.gov/), [Darren Cole from the National Archives](http://todaysdocument.tumblr.com/), [Gorscak from HHS](http://stopbullying.tumblr.com/) and [Michelle Thomas from BLM](http://mypubliclands.tumblr.com/), joined [DigitalGov University]({{< link "events" >}}) to showcase how they each use Tumblr in a different way to support their agencies’ missions, drive engagement and reach their target audiences.
+On February 19, a group of four federal Tumblrarians &#8212; [Jessica Milcetich from USA.gov](http://blog.usa.gov/), [Darren Cole from the National Archives](http://todaysdocument.tumblr.com/), [Gorscak from HHS](http://stopbullying.tumblr.com/) and [Michelle Thomas from BLM](http://mypubliclands.tumblr.com/), joined [DigitalGov University]({{< ref "/events" >}}) to showcase how they each use Tumblr in a different way to support their agencies’ missions, drive engagement and reach their target audiences.
 
 Highlights from the webinar include:
 

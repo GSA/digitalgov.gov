@@ -5,15 +5,14 @@ title: CDC’s “Predict the Flu Season Challenge” Could Keep You Well in the
 summary: 'The results of an innovative government prize competition might help you avoid the flu next season. The Centers for Disease Control and Prevention (CDC) recently announced the winner of the &ldquo;Predict the Influenza Season Challenge&rdquo;: Dr. Jeffrey Shaman of Columbia University’s Mailman School of Public Health and his team submitted an'
 authors:
   - tlowden
-categories:
-  - Challenges
-  - Monthly Theme
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
-  - ChallengeGov
+topics:
+  - challenges
+  - monthly-theme
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - challenge-gov
   - HHS
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/06/250-x-166-Girl-7-9-blowing-nose-close-up-moodboard-moodboard-thinkstock-103583177.jpg" alt="250-x-166-Girl-7-9-blowing-nose-close-up-moodboard-moodboard-thinkstock-103583177" >}}The results of an innovative government prize competition might help you avoid the flu next season.
@@ -34,5 +33,5 @@ In the long term, Biggerstaff envisions something similar to a “hurricane seas
 
 While the results are not perfect, the challenge was a great launching point for the field, and Biggerstaff said the CDC plans on continuing to work with all the teams to make flu forecasts more reliable. In fact, he’s already looking towards next steps:
 
-“We hope to write a peer-reviewed article about this and continue to work with the teams to keep this group of researchers motivated and working on this problem.”_For more information on how this challenge can inform your challenge design, see the <a href="http://www.hhs.gov/idealab/2014/06/19/predict-the-flu-season/" target="_blank">HHS Idea Lab blog</a>. If you would like more information on challenges and prize competitions, become part of the [Federal Challenge and Prize Community listserv]({{< link "challenges-prizes.md" >}}). If you are interested in entering a challenge like this one, see the list of government challenges at <a href="https://challenge.gov/" target="_blank">Challenge.gov</a>._
+“We hope to write a peer-reviewed article about this and continue to work with the teams to keep this group of researchers motivated and working on this problem.”_For more information on how this challenge can inform your challenge design, see the <a href="http://www.hhs.gov/idealab/2014/06/19/predict-the-flu-season/" target="_blank">HHS Idea Lab blog</a>. If you would like more information on challenges and prize competitions, become part of the [Federal Challenge and Prize Community listserv]({{< ref "challenges-prizes.md" >}}). If you are interested in entering a challenge like this one, see the list of government challenges at <a href="https://challenge.gov/" target="_blank">Challenge.gov</a>._
 _This article is part of this month&#8217;s editorial theme on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

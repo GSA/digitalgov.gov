@@ -5,9 +5,8 @@ title: Hack-to-Learn at the Library of Congress
 summary: 'When hosting workshops, such as Software Carpentry, or events, such as Collections As Data, our National Digital Initiatives team made a discovery&mdash;there is an appetite among librarians for hands-on computational experience. That’s why we created an inclusive hackathon, or a &ldquo;hack-to-learn,&rdquo; taking advantage of the skills librarians already have and pairing them with programmers to'
 authors:
   - jaime-mears
-categories:
-  - Data
-tag:
+topics:
+  - data
   - data
   - hackathon
   - Library of Congress

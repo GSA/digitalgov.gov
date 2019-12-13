@@ -5,16 +5,15 @@ title: Why @congressedits Matters for Your Agency
 summary: 'If you haven&#8217;t heard about @congressedits yet, it&#8217;s a Twitter bot that was recently created to tweet out every anonymous edit made to Wikipedia from Congressional IP addresses. So, anyone editing articles on Wikipedia without logging in, and doing this while on Congressional Internet access, will have those changes tweeted (like this). Some of these'
 authors:
   - dominic-mcdevitt-parks
-categories:
-  - Monthly Theme
-  - Social Media
-tag:
+topics:
+  - monthly-theme
+  - social-media
   - HHS
   - NARA
   - National Archives and Records Administration
-  - open government
+  - open-government
   - Twitter
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/07/600-x-400-Capitol-Building-U.S.-Congress-flySnow-iStock-Thinkstock-488669037.jpg" alt="Capitol Building U.S. Congress" caption="" >}} 
@@ -40,4 +39,4 @@ We also have [blogged about our approach](http://blogs.archives.gov/online-publi
 At NARA, we&#8217;re dedicated to engaging with Wikipedia in order to increase public access to government records. Wikipedia is an incredibly popular general information source—and the articles related to NARA holdings see over a billion views per year—which means it helps us reach greater audiences. For those agencies whose missions may align with Wikipedia&#8217;s educational purpose, I encourage you to consider participating thoughtfully and ethically in order to better serve the public.
 
 Want to learn more about NARA’s citizen engagement efforts (including Wikipedia)? Stay tuned to DigitalGov for more posts from NARA’s Office of Innovation!_**Dominic McDevitt-Parks** is a Digital Content Specialist, Wikipedian in Residence at the National Archives and Records Administration._
-_Editor&#8217;s Note: This post originated from a inter-agency dialogue within the [SocialGov Community]({{< link "social-media.md" >}} "Social Media") of 700 digital engagement managers from more than 120 federal missions. If you would like to join to the SocialGov Community, send an email from your .gov or .mil address to [justin.herman@gsa.gov](mailto:%20justin.herman@gsa.gov) with &#8220;Subscribe to SocialGov&#8221; in the subject._ _This article is part of this month&#8217;s editorial theme on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_Editor&#8217;s Note: This post originated from a inter-agency dialogue within the [SocialGov Community]({{< ref "social-media.md" >}} "Social Media") of 700 digital engagement managers from more than 120 federal missions. If you would like to join to the SocialGov Community, send an email from your .gov or .mil address to [justin.herman@gsa.gov](mailto:%20justin.herman@gsa.gov) with &#8220;Subscribe to SocialGov&#8221; in the subject._ _This article is part of this month&#8217;s editorial theme on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

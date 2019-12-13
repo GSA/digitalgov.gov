@@ -10,15 +10,13 @@ aliases:
 
 We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://youtube.com/digitalgov). Trainings are open to anyone working in the government or for a government agency.
 
-- [View our upcoming events »]({{< link "/events/" >}})
+- [View our upcoming events »]({{< ref "/events" >}})
 - [View our video archive »](https://youtube.com/digitalgov)
 
 ## Work with us
 
-**Interested in hosting an online or in-person training or event?**<br/ >
-Send us an email that describes your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. 
-
-{{< button href="mailto:digitalgovu@gsa.gov?subject=Training%20Idea" text="Send us an email" >}}
+**Interested in hosting an online or in-person training or event?**<br/>
+Send us an email that describes your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. [**Send Us an email**](mailto:digitalgovu@gsa.gov?subject=Training%20Idea)
 
 ## Use of DigitalGov Materials
 
@@ -26,4 +24,4 @@ Unless a copyright is indicated, material presented by DigitalGov is free of cop
 
 If a copyright is indicated on a photo, graphic, or other material, you must get permission from the original source to use or to copy this material.
 
-Learn more about [Copyright and Other Rights Pertaining to U.S. Government Works](http://www.usa.gov/copyright.shtml). 
+Learn more about [Copyright and Other Rights Pertaining to U.S. Government Works](http://www.usa.gov/copyright.shtml).

@@ -5,15 +5,15 @@ title: 'Lean Startup: Changing Government Services and Agencies to Better Serve 
 summary: It is easy to start a business today and especially an Internet-based business. Using the cloud, APIs, and hosted applications, an entrepreneur can quickly build a website/mobile app. The entrepreneur can hire freelancers to do everything from creating a logo to writing a business plan. Virtual assistant services can provide on-demand staff to meet business
 authors:
   - bbrantley
-categories:
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - strategy
+  - policy
+  - 18f
   - CFPB
   - Consumer Financial Protection Bureau
-  - FDA
+  - fda
   - OPM
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - United States Office of Personnel Management
 ---
 
@@ -36,7 +36,7 @@ Other examples of Lean Startup (mentioned in the Government Technology article):
 
 Just this April, the General Services Administration (GSA) established 18F, which uses Lean Startup principles in creating digital services for other federal agencies. [A Washington Post article](http://www.washingtonpost.com/business/on-it/meet-18f-the-gsas-bid-to-change-federal-it/2014/04/18/a9b58db8-c4d3-11e3-b195-dd0c1174052c_story.html) describes how 18F designers and developers created–in 29 minutes–a functioning prototype of a mobile website for GSA that used an 18F-created API. “A more traditional development method—requiring a series of meetings between agency staff and IT companies—might have taken weeks or months, according to the team.”
 
-This is not the first time that the GSA has used Lean Startup principles. In August 2012, the [GSA held a meeting]({{< link "2012-08-12-agile-sprinting-to-digital-governance-recommendations.md" >}} "Agile Sprinting to Digital Governance Recommendations") devoted to drafting guidelines for agencies in “developing and delivering digital services and managing data.” Agencies engaged in “sprints” (set amounts of development time) to create and refine iterative versions of the governance policy. Agencies started with a “Minimal Viable Policy” and tested the policy by sharing ideas with each other in presentations. By the November 23, 2012, deadline, agencies had robust and fully-developed policies created more rapidly than in the usual process.
+This is not the first time that the GSA has used Lean Startup principles. In August 2012, the [GSA held a meeting]({{< ref "2012-08-12-agile-sprinting-to-digital-governance-recommendations.md" >}} "Agile Sprinting to Digital Governance Recommendations") devoted to drafting guidelines for agencies in “developing and delivering digital services and managing data.” Agencies engaged in “sprints” (set amounts of development time) to create and refine iterative versions of the governance policy. Agencies started with a “Minimal Viable Policy” and tested the policy by sharing ideas with each other in presentations. By the November 23, 2012, deadline, agencies had robust and fully-developed policies created more rapidly than in the usual process.
 
 In this age of tight budgets, more demands on government services, and higher customer service expectations, Lean Startup can be an effective way to design new government processes and services and to redesign current processes and/or services. Using Lean Startup in government can answer two fundamental questions. Is a particular government service the best use of taxpayer money? Will the government service satisfy the most number of citizens in the most efficient way?
 

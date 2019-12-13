@@ -5,25 +5,24 @@ title: Using Apps for Mental Healthcare
 summary: Technology has opened new pathways for delivering health care, including mental health services. The National Center for Telehealth and Technology (T2), part of the Department of Defense, offers multiple apps that address health care for service members in a variety of ways. At a talk with
 authors:
   - awichman
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DoD
-  - mobile apps
-  - Mobile UX Guideline 2
-  - Mobile UX Guideline 5
-  - Mobile UX Guideline 6
-  - native app
-  - Thursday Mobile Products
+  - mobile-apps
+  - mobile-ux-guideline-2
+  - mobile-ux-guideline-5
+  - mobile-ux-guideline-6
+  - native-app
+  - thursday-mobile-products
   - United States Department of Defense
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/06/250-x-417-T2-National-Center-for-Telehealth-and-Technology-PTSD-Coach-Android-app-Department-of-Veterans-Affairs.jpg" alt="PTSD Coach Android app menu screen" >}}Technology has opened new pathways for delivering health care, including mental health services.
 
 The [National Center for Telehealth and Technology](http://t2health.dcoe.mil/) (T2), part of the Department of Defense, offers multiple [apps that address health care for service members](http://t2health.dcoe.mil/products/mobile-apps) in a variety of ways.
 
-At a talk with the [MobileGov Community of Practice]({{< link "mobilegov.md" >}}) earlier this year, Dr. David Cooper, a psychologist for T2, said the apps are a way to provide services and make appointments more effective and efficient for patients.
+At a talk with the [MobileGov Community of Practice]({{< ref "mobilegov.md" >}}) earlier this year, Dr. David Cooper, a psychologist for T2, said the apps are a way to provide services and make appointments more effective and efficient for patients.
 
 “Mobile intervention is helpful because I can give [an app] to someone before they even come to my office, and someone can try it out and get more instant relief,” Cooper said. “For example, diaphragmatic breathing is something I would teach every patient; with the [Breathe2Relax app](http://t2health.dcoe.mil/apps/breathe2relax) [on [Android](https://play.google.com/store/apps/details?id=org.t2health.breathe2relax&hl=en) and [Apple](https://itunes.apple.com/us/app/breathe2relax/id425720246?mt=8)], they can now learn these techniques at home. Then, they can come in and talk about how it went.”
 
@@ -43,5 +42,5 @@ The preferences and realities of healthcare providers are also considered in the
 
 “We have to cater to both patients and providers: if I create something that isn’t going to fit in the provider’s workflow, they aren’t going to use it,” Cooper said.
 
-_T2’s apps can be found on the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}).
+_T2’s apps can be found on the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}).
   _

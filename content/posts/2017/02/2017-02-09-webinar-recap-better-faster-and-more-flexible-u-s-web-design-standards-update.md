@@ -5,14 +5,13 @@ title: 'Webinar Recap: Better, Faster, and More Flexible—U.S. Web Design Stand
 summary: 'The Road to Launch Version 1.0 You may have noticed a new, cleaner, and more modern look to some government websites over the last year&mdash;these are the web properties that were early adopters of the Draft U.S. Web Design Standards from 18F, the digital services agency which is part of the General Services Administration (GSA).'
 authors:
   - lisa-bari
-categories:
-  - Content
-  - Design
-  - Managing Digital
-  - UX
-tag:
+topics:
+  - content
+  - design
+  - product-management
+  - ux
   - Recaps
-  - US Web Design Standards
+  - uswds
 ---
 
 ## The Road to Launch Version 1.0

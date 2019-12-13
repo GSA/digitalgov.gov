@@ -7,11 +7,10 @@ authors:
   - carolyn-dew
   - melody-kramer
   - maya-benari
-categories:
-  - Content
-  - UX
-tag:
-  - 18F
+topics:
+  - content
+  - ux
+  - 18f
   - Draft Web Design Standards
 ---
 

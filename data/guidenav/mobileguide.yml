@@ -1,0 +1,18 @@
+guide:
+  name:
+  - title   : 'How to Create a Mobile-Friendly Website'
+  nav:
+  - title   : 'Overview'
+    slug    : '/resources/mobile-how-to/'
+  - title   : 'Optimize JavaScript'
+    slug    : '/resources/how-to-create-mobile-friendly-website/optimize-javascript/'
+  - title   : 'Optimize CSS'
+    slug    : '/resources/how-to-create-mobile-friendly-website/optimize-css/'
+  - title   : 'Optimize Images'
+    slug    : '/resources/how-to-create-mobile-friendly-website/optimize-images/'
+  - title   : 'Utilize Caching'
+    slug    : '/resources/how-to-create-mobile-friendly-website/utilize-caching/'
+  - title   : 'Avoid Pop-ups'
+    slug    : '/resources/how-to-create-mobile-friendly-website/avoid-popups/'
+  - title   : 'Methodology'
+    slug    : '/resources/how-to-create-mobile-friendly-website/methodology/'

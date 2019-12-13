@@ -5,9 +5,8 @@ title: Taking a Data-Driven Approach to Digital Marketing at the Peace Corps
 summary: 'What exactly does being &ldquo;data-driven&rdquo; mean for digital marketing and communications practitioners in the federal government? It is easy to be awed by the new shiny platforms and services that promise to change how things are done in government. Fundamentally, though, it is thinking about analytics not just from a descriptive mindset but one of'
 authors:
   - chris-rottler
-categories:
-  - Metrics
-tag:
+topics:
+  - metrics
   - a-b-testing
   - Peace Corps
 ---

@@ -5,25 +5,24 @@ title: 'The Content Corner: Create Better Mobile Content'
 summary: 'All content needs to be developed with a mobile-first strategy, from headline choice to paragraph length. Although we are all now living in a post-mobilegeddon world, many of us are still implementing a mobile strategy. This strategy should consider several factors, including viewport size, cellular versus WiFi considerations, and load times. It should also include a'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-  - Mobile
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - mobile
+  - administrative-office-of-the-united-states-courts
   - infographic
   - mobile
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 5
-  - responsive web design
-  - The Content Corner
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-5
+  - responsive-web-design
+  - the-content-corner
 ---
 
 {{< legacy-img src="2015/07/600-x-436-Mobile-phone-Nik_Merkulov-iStock-Thinkstock-466186589.jpg" alt="Mobile devices with question marks on the screens" caption="" >}} 
 
-All content needs to be developed with a [mobile-first]({{< link "2013-09-30-mobile-first.md" >}}) strategy, from [headline choice]({{< link "2015-06-22-the-content-corner-writing-better-headlines.md" >}}) to paragraph length.
+All content needs to be developed with a [mobile-first]({{< ref "2013-09-30-mobile-first.md" >}}) strategy, from [headline choice]({{< ref "2015-06-22-the-content-corner-writing-better-headlines.md" >}}) to paragraph length.
 
-Although we are all now living in a post-[mobilegeddon]({{< link "2015-04-15-mobilegeddon-government-edition.md" >}}) world, many of us are still implementing a mobile strategy. This strategy should consider several factors, including viewport size, cellular versus WiFi considerations, and load times.
+Although we are all now living in a post-[mobilegeddon]({{< ref "2015-04-15-mobilegeddon-government-edition.md" >}}) world, many of us are still implementing a mobile strategy. This strategy should consider several factors, including viewport size, cellular versus WiFi considerations, and load times.
 
 It should also include a review of existing content and a rethinking of new content, down to what I will call the “cellular” level (no pun intended). Mobile is a different platform and content needs to do more than simply fit on the screen: it must be optimized for the user’s experience.
 
@@ -45,7 +44,7 @@ Users consume Web content much differently on a mobile device than they do on a 
 
 # Headlines Are Even More Critical
 
-I’ve discussed [ways to improve your headlines]({{< link "2015-06-22-the-content-corner-writing-better-headlines.md" >}}) recently, and many of the tips discussed are just as relevant when considering your mobile content. Using succinct headlines helps reduce wrapping on smaller screens and helps to ensure that the headline will fit within the new mobile “sweet spot” as mentioned above. Lengthy headlines can break in ways that drop them below what could be called the new fold or force a user to scroll to even read your headline. Optimally we would want the headline to easily fit on the initial screen without any additional scrolling needed.
+I’ve discussed [ways to improve your headlines]({{< ref "2015-06-22-the-content-corner-writing-better-headlines.md" >}}) recently, and many of the tips discussed are just as relevant when considering your mobile content. Using succinct headlines helps reduce wrapping on smaller screens and helps to ensure that the headline will fit within the new mobile “sweet spot” as mentioned above. Lengthy headlines can break in ways that drop them below what could be called the new fold or force a user to scroll to even read your headline. Optimally we would want the headline to easily fit on the initial screen without any additional scrolling needed.
 
 # Provide a Brief Summary
 
@@ -55,15 +54,15 @@ And just as with headlines, it should be honest and not clickbait. I call it an 
 
 # Write Efficiently
 
-The headline, introduction and in fact every word throughout your content should be important whether you are thinking of mobile or not. This helps you create the most [efficient content]({{< link "2015-05-11-the-content-corner-ranking-six-common-content-types.md" >}}) possible, as I have discussed several times before.
+The headline, introduction and in fact every word throughout your content should be important whether you are thinking of mobile or not. This helps you create the most [efficient content]({{< ref "2015-05-11-the-content-corner-ranking-six-common-content-types.md" >}}) possible, as I have discussed several times before.
 
-To be honest, I at times may not fully practice what I preach because I also believe in the importance of the [distinctive voice]({{< link "2015-04-20-the-content-corner-finding-your-voice.md" >}}) in content. However, we should all strive for a balance between humanizing our content and being verbose to the point that users don’t read what we write (criticisms of my verbosity are welcome in the comments section below).
+To be honest, I at times may not fully practice what I preach because I also believe in the importance of the [distinctive voice]({{< ref "2015-04-20-the-content-corner-finding-your-voice.md" >}}) in content. However, we should all strive for a balance between humanizing our content and being verbose to the point that users don’t read what we write (criticisms of my verbosity are welcome in the comments section below).
 
 Be sure to review any content you are creating in a small viewport to at least mimic how it would appear on someone’s smallest device possible (not a watch, yet?).
 
 # Images Are a Double-edged Sword
 
-There are ongoing conversations about the pros and cons of images. This includes the wonderful possibilities of what are hopefully not permanently being called “[gifographics](http://contentmarketinginstitute.com/2015/06/gifographics-better-infographics/)” or animated infographics. Of course, we also must account for the challenges of [making graphics accessible]({{< link "improving-the-accessibility-of-social-media-in-government.md" >}}) to all our site visitors. Images can convey a lot of information quickly and can be very efficient. But many infographics still scale poorly on mobile and can be both bandwidth and screen hogs. At a minimum, understand the tradeoffs associated with graphics and mobile alongside their efficiency and [desirability among users]({{< link "2015-05-11-the-content-corner-ranking-six-common-content-types.md" >}}).
+There are ongoing conversations about the pros and cons of images. This includes the wonderful possibilities of what are hopefully not permanently being called “[gifographics](http://contentmarketinginstitute.com/2015/06/gifographics-better-infographics/)” or animated infographics. Of course, we also must account for the challenges of [making graphics accessible]({{< ref "improving-the-accessibility-of-social-media-in-government.md" >}}) to all our site visitors. Images can convey a lot of information quickly and can be very efficient. But many infographics still scale poorly on mobile and can be both bandwidth and screen hogs. At a minimum, understand the tradeoffs associated with graphics and mobile alongside their efficiency and [desirability among users]({{< ref "2015-05-11-the-content-corner-ranking-six-common-content-types.md" >}}).
 
 # Use Paragraphs Wisely
 
@@ -73,4 +72,4 @@ I like Neil Patel’s description of paragraphs as “[speed bumps](http://conte
 
 Short bursts have greater impact.
 
-Most of what I’ve covered in this post should sound pretty familiar. Having a mobile first mindset when it comes to generating content helps you stay focused on the efficiency of each word you write. As opposed to envisioning the large canvas that a desktop browser represents, picturing a smaller smartphone screen helps drive home the importance of each word. Remember that creating great mobile content equals great content._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Most of what I’ve covered in this post should sound pretty familiar. Having a mobile first mindset when it comes to generating content helps you stay focused on the efficiency of each word you write. As opposed to envisioning the large canvas that a desktop browser represents, picturing a smaller smartphone screen helps drive home the importance of each word. Remember that creating great mobile content equals great content._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

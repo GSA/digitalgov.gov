@@ -1,5 +1,6 @@
 ---
 slug: dap-learning-series-a-deep-dive-into-acquisition-reports
+kicker: Learning Series
 title: 'DAP Learning Series&#58; A Deep Dive Into Acquisition Reports'
 summary: 'In this webinar, we’ll review the acquisition reporting section in-depth, and discuss usefulness of reports and where there may be gaps in data&#46;'
 featured_image:
@@ -13,6 +14,11 @@ event_organizer: DigitalGov University
 host: DAP
 registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-acquisition-reports-registration-59347581213
 youtube_id: ufbLmgJUdp8
+topics:
+  - metrics
+  - analytics
+  - dap
+  - digital-analytics-program
 
 ---
 
@@ -36,4 +42,4 @@ _The Digital Analytics Program (DAP) offers advanced, easy web analytics to fede
 
 ---
 
-_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_ 
+_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client ](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_

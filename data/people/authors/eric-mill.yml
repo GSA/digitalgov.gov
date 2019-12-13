@@ -1,8 +1,8 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
-# 
+#
 # Reach out to digitalgov@gsa.gov if you need assistance.
 
 display_name: Eric Mill
@@ -14,18 +14,24 @@ email: eric.mill@gsa.gov
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: ''
 
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: 'General Services Administration'
+
+# Agency Acronym or short name [e.g. DOI]
+agency: 'GSA'
+
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: ''
+location: 'Washington D.C.'
 
 # Do you have a quote that you'd like to share on your profile?
 # [e.g. '']
 quote: ''
 
 # Your GitHub username [e.g. 'jeremyzilar']
-github: ''
+github: 'konklone'
 
 # Your Twitter username [e.g. 'digital_gov']
-twitter: ''
+twitter: 'konklone'
 
 # Where can people learn more about your work? Provide a full URL [e.g. 'https://example.gov/']
 url: ''

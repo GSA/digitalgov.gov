@@ -1,35 +1,27 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
-{{ end }}
-
 {{ define "content" }}
 
-<div class="page guide">
-  <div class="hentry entry">
+<main role="main">
 
-    <div class="entry-head">
+  <article>
+    <div class="grid-container grid-container-widescreen">
+      <div class="grid-row grid-gap-4">
 
-      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
-      {{ if .Params.deck }}
+        <div class="grid-col-12 tablet-lg:grid-col-3">
+          {{- partial "core/guides/guide-nav" . -}}
+        </div>
 
-      <div class="deck">{{ .Params.deck }}</div>
-      {{ end }}
+        <div class="grid-col-12 tablet-lg:grid-col-8">
+          <div class="usa-layout-docs__main usa-prose">
 
-      {{ partial "last-updated" . }}
+            {{ .Content }}
 
+          </div>
+
+        </div>
+
+      </div>
     </div>
+  </article>
 
-    {{- partial "guide-nav" . -}}
-
-    <div class="entry-content">
-      {{ .Content }}
-    </div>
-
-    {{ partial "post-meta--feedback" (dict "page" . "page_type" "guide" "branch" ($.Scratch.Get "branch")) }}
-    {{ partial "page-details" . }}
-
-  </div>
-
-</div>
-
+</main>
 {{ end }} {{/* end 'content' block */}}

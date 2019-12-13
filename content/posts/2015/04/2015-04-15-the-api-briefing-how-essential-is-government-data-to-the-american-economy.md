@@ -5,19 +5,18 @@ title: 'The API Briefing: How Essential Is Government Data to the American Econo
 summary: I grew up when home computers were first being introduced to the general public. I bought my first computer, a Commodore 64, after spending a summer of mowing lawns and saving up my birthday and Christmas money. It was not until I entered college that I became an infopreneur. Infopreneurs are entrepreneurs who used computers
 authors:
   - bbrantley
-categories:
-  - API
-  - Data
-tag:
-  - API
+topics:
+  - api
+  - data
+  - api
   - Census
   - data
   - Department of Commerce
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - open data
+  - open-data
   - United States Census Bureau
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 {{< legacy-img src="2015/04/600-x-300-American-flag-as-bar-code-Andrei-Tsalko-iStock-Thinkstock-ThinkstockPhotos-153479385.jpg" alt="American flag as bar code" caption="" >}} 
@@ -32,5 +31,5 @@ Infopreneurism started off as a specialized niche for early computer adopters bu
 
 What is especially intriguing is Kalin’s description of how combinations of data from different agencies are creating amazing services: for example, the pairing of National Oceanic and Atmospheric Administration information with Census information to model the aquatic commerce system. I wonder if the model could be made more robust by adding in Bureau of Labor Statistics information and Earth observations data from NASA.
 
-It is clear that federal government information is vital to the American economy and American public. This is why it is vital for government agencies to release more data in the form of APIs and to find ways to combine their data sources. The Founding Fathers of the American government realized the value of providing open access to government information which is why Census and the Patent and Trademark Office were established in the Constitution. The federal government continues this legacy by providing even more government data to today’s infopreneurs._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_]({{< link "2013-04-30-apis-in-government.md" >}}) _for more information._
+It is clear that federal government information is vital to the American economy and American public. This is why it is vital for government agencies to release more data in the form of APIs and to find ways to combine their data sources. The Founding Fathers of the American government realized the value of providing open access to government information which is why Census and the Patent and Trademark Office were established in the Constitution. The federal government continues this legacy by providing even more government data to today’s infopreneurs._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_]({{< ref "2013-04-30-apis-in-government.md" >}}) _for more information._
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:%20bill.brantley@wdc.usda.gov)_._

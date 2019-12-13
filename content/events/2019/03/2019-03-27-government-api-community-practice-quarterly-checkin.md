@@ -22,11 +22,9 @@ venue:
   zip: 20006
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
-categories:
+topics:
   - api
-tag:
   - api
-  - api-community
 
 ---
 
@@ -49,4 +47,4 @@ This afternoon event is an opportunity for API practitioners from across federal
 In person: GSA Headquarters - Room 3211  
 Virtual:  Will send to registrants
 
-[Learn more about the APIs community of practice »]({{< link "communities/apis.md" >}})
+[Learn more about the APIs community of practice »]({{< ref "/communities/apis.md" >}})

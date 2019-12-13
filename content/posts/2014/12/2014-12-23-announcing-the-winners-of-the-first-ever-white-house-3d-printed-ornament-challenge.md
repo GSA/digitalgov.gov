@@ -6,13 +6,12 @@ summary: 'This year, innovative technologies like 3D printing are playing a role
 authors:
   - stephanie-santoso
   - ryan-xue
-categories:
-  - Challenges
-  - Monthly Theme
-tag:
-  - NASA
-  - National Institutes of Health
-  - NIH
+topics:
+  - challenges
+  - monthly-theme
+  - nasa
+  - national-institutes-of-health
+  - nih
   - Smithsonian Institution
 ---
 

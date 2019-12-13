@@ -5,11 +5,10 @@ title: Planning an Apps Challenge
 summary: Apps challenges are a great way to spur innovation and help your agency meet its mission. But before you jump in, learn about how apps challenges work, to ensure yours is successful. Design Concept or Functioning App? What kind of product do you want from your apps challenge? A working app; or A concept for
 authors:
   - ktrebon
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - innovation
-  - mobile apps
+  - mobile-apps
 ---
 
 Apps challenges are a great way to spur innovation and help your agency meet its mission. But before you jump in, learn about how apps challenges work, to ensure yours is successful.
@@ -84,6 +83,6 @@ Promotion will likely be the most time-consuming aspect of your challenge. To he
   * Reach out to groups you may not normally work with. For example, teachers, schools, and universities might be able to incorporate your challenge into their class schedules and assignments. The team behind the World Bank’s Apps for Development Challenge reached out to think tanks, universities, and others to promote the challenge to their communities.
   * Follow-up with participants. The team behind the HHS [myHealthyPeopleChallenge](http://www.health2con.com/devchallenge/healthy-people-2020-leading-health-indicators-app-challenge/) drafted boilerplate emails to send out when the submissions didn’t meet the criteria of the contest, so participants could have time to resubmit.
 
-Now that you&#8217;ve planned out your apps challenge, you need to [implement it]({{< link "2012-07-09-how-to-implement-an-apps-challenge.md" >}}).
+Now that you&#8217;ve planned out your apps challenge, you need to [implement it]({{< ref "2012-07-09-how-to-implement-an-apps-challenge.md" >}}).
 
-Review all the apps challenge steps at a glance on the [How to Run an Apps Challenge page]({{< link "2013-11-06-software-and-apps-challenges.md" >}}).
+Review all the apps challenge steps at a glance on the [How to Run an Apps Challenge page]({{< ref "2013-11-06-software-and-apps-challenges.md" >}}).

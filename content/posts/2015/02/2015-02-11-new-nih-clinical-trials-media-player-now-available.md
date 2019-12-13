@@ -5,13 +5,12 @@ title: New NIH Clinical Trials Media Player Now Available
 summary: Spread the Word about Clinical Trials! As we have recently seen with the Ebola outbreak, clinical trials are immensely important to medical advancement and treatment. The National Institutes of Health (NIH), in conjunction with the Centers for Disease Control and Prevention, has developed a new syndication tool to disseminate NIH Clinical Trials information. This effort
 authors:
   - christen-geiler
-categories:
-  - Content
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
-  - National Institutes of Health
-  - NIH
+topics:
+  - content
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - national-institutes-of-health
+  - nih
 ---
 
 Spread the Word about Clinical Trials!
@@ -45,6 +44,6 @@ Some examples of this tool in use can be found at the following URLs:
 
 Adding the media player to your website is easy and it is free. The content meets federal guidelines and standards. Additionally the content is updated regularly without you having to do anything.
 
-Help us promote the [great work NIH is doing]({{< link "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}} "Get More Health Content for Your Websites, Apps, and Social Media"). Add this great tool to your websites and please share the availability of this resource with your stakeholders.
+Help us promote the [great work NIH is doing]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}} "Get More Health Content for Your Websites, Apps, and Social Media"). Add this great tool to your websites and please share the availability of this resource with your stakeholders.
 
 For questions or support about this tool, please email [Christen Geiler](mailto:Christen.Geiler@nih.gov).

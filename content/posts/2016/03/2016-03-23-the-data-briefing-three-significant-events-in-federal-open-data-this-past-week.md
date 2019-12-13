@@ -5,26 +5,25 @@ title: 'The Data Briefing: Three Significant Events in Federal Open Data This Pa
 summary: Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public. In its Second Open Government National Action Plan (PDF, 639 KB, 5 pages, September 2014), the White House called for a government-wide policy on
 authors:
   - bbrantley
-categories:
-  - API
-  - Data
-  - Monthly Theme
-tag:
+topics:
+  - api
+  - data
+  - monthly-theme
   - agile
-  - API
-  - DHS
-  - National Action Plan on Open Government
+  - api
+  - dhs
+  - national-action-plan-on-open-government
   - Office of Management and Budget
   - OMB
-  - open data
-  - open source
-  - The Data Briefing
+  - open-data
+  - open-source
+  - the-data-briefing
   - US Department of Veterans Affairs
-  - United States Department of Homeland Security
+  - united-states-department-of-homeland-security
   - United States Patent and Trademark Office
   - USPTO
   - VA
-  - White House
+  - white-house
 ---
 
 Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public. {{< legacy-img src="2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}} 
@@ -35,13 +34,13 @@ Three recent stories demonstrate how opening up federal government data and usin
 
 3. {{< legacy-img-right src="2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Meme: Keep Calm and Open Data over an American flag" >}}The Department of Homeland Security (DHS) released 275 datasets through the <a href="https://hifld-dhs-gii.opendata.arcgis.com/" target="_blank">Homeland Infrastructure Foundation-Level Data Working Group (HIFLD)</a>. These datasets provide valuable mapping information for disaster officials and first responders. It is also hoped innovators can create startups around the DHS data. One example is a mobile app that can display alternative fueling stations for use during emergencies and to help city planners prepare for emergencies. 
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< link "2013-04-30-apis-in-government.md" >}}">APIs in Government</a> for more information._ 
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< ref "2013-04-30-apis-in-government.md" >}}">APIs in Government</a> for more information._ 
 
 
 *** 
 
 _(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_ 
 
-_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._ 
+_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends._ 
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._ 

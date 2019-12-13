@@ -5,21 +5,20 @@ title: 'Empowerment, Innovation, and Improved Health Outcomes: the Blue Button I
 summary: 'Finding and getting access to our own health information can be a complex process. And most of us don’t really think about having our health information readily accessible until we really need it &ndash; like in the event of an emergency, or when switching doctors or traveling. Combing through stacks of paperwork and contacting providers'
 authors:
   - awichman
-categories:
-  - API
-  - Code
-  - Data
-  - Monthly Theme
-tag:
-  - API
+topics:
+  - api
+  - code
+  - data
+  - monthly-theme
+  - api
   - Centers for Medicare and Medicaid Services
   - data
-  - data.gov
+  - data-gov
   - HHS
   - Internet of things
   - json
-  - open government
-  - United States Department of Health and Human Services
+  - open-government
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Medical-form-Slawomir-Fajer-iStock-Thinkstock-ThinkstockPhotos-167343015.jpg" alt="Medical form and laptop" caption="" >}} 

@@ -5,22 +5,21 @@ title: A Complete Redesign with You in Mind
 summary: 'We&#8217;re excited to launch a complete redesign of USDA.gov featuring stronger visual storytelling components, a more modern user-experience with easy to find services and resources, and to top it off, a completely mobile-friendly design. Through careful planning, thoughtful design, and a primary focus on user experience and usability, we&#8217;ve taken the best of government and industry'
 authors:
   - peter-rhee
-categories:
-  - Design
-  - Managing Digital
-  - Mobile
+topics:
+  - design
+  - product-management
+  - mobile
   - user-testing-and-research
-tag:
   - CMS
-  - Content Management System
+  - content-management-system
   - Draft Web Design Standards
   - mobile
   - mobile-friendly
   - US Department of Agriculture
-  - US Web Design Standards
+  - uswds
   - USDA
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 We&#8217;re excited to launch a complete redesign of [USDA.gov](https://www.usda.gov/) featuring stronger visual storytelling components, a more modern user-experience with easy to find services and resources, and to top it off, a completely mobile-friendly design.

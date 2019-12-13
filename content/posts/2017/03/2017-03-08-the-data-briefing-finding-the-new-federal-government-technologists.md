@@ -5,12 +5,11 @@ title: 'The Data Briefing: Finding the New Federal Government Technologists'
 summary: This week, I want to briefly discuss the human resources challenges in finding the new IT technology workers for the government. As agencies move toward microservices, artificial intelligence chatbots, and deep learning application programming interfaces (APIs), the demand for experts in these fields continues to grow fast. The universities and professional development programs are not
 authors:
   - bbrantley
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - acquisition
   - human resources
-  - The Data Briefing
+  - the-data-briefing
   - training
 ---
 
@@ -24,5 +23,5 @@ All these efforts are paying off as government IT workers are telling their frie
 
 The digital transformation of the Federal government is built on the new digital technologies which hold great potential for revitalizing government services. However, even more important than the digital technologies are the people who will lead the digital transformation. The state and local governments have much to teach the Federal government in attracting and retaining the next generation government IT workforce.
 
-_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
-_[Dr. William Brantley]({{< link "author/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Each week, [The Data Briefing]({{< ref "/topics/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
+_[Dr. William Brantley]({{< ref "/authors/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

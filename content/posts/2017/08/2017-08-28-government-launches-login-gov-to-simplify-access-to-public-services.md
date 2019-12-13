@@ -9,14 +9,13 @@ featured_image:
 authors:
   - joel-minton
   - tom-mills
-categories:
-  - Managing Digital
-tag:
-  - 18F
+topics:
+  - product-management
+  - 18f
   - CBP
-  - Customer Experience
-  - customer service
-  - CX
+  - cx
+  - customer-service
+  - cx
   - GSA
   - Internal Revenue Service
   - IRS
@@ -31,12 +30,12 @@ tag:
   - US Department of Labor
   - US Department of State
   - US Digital Service
-  - usa.gov
-  - USAgov
+  - usa-gov
+  - usagov
   - USCIS
   - USDS
-  - user experience
-  - UX
+  - user-experience
+  - ux
 ---
 
 _Joel Minton, a member of the U.S. Digital Service, is working with GSA’s Technology Transformation Service as the director of login.gov. Tom Mills is the Chief Technology Architect at U.S. Customs and Border Protection._

@@ -5,16 +5,15 @@ title: 'DigitalGov&#8217;s Inaugural Podcast: How IVR Supports Contact Centers'
 summary: '​DigitalGov University has added podcasts to our suite of offerings on DigitalGov, featuring interviews and discussions with leaders in the DigitalGov community. For the first edition, we talked to Diane ​Devera, &#8220;Voice of the IVR&#8221; for the USA.gov Contact Center. In this 10 minute discussion with Jacob Parcell, Manager of Mobile Programs, Devera discusses several'
 authors:
   - apiazza
-categories:
-  - Managing Digital
-  - Monthly Theme
-tag:
-  - government contact centers
+topics:
+  - product-management
+  - monthly-theme
+  - government-contact-centers
   - podcast
-  - usa.gov
+  - usa-gov
 ---
 
-[​DigitalGov University]({{< link "/digitalgov-university/" >}}) has added podcasts to our suite of offerings on DigitalGov, featuring interviews and discussions with leaders in the DigitalGov community.
+[​DigitalGov University]({{< ref "/about/digitalgov-university.md" >}}) has added podcasts to our suite of offerings on DigitalGov, featuring interviews and discussions with leaders in the DigitalGov community.
 
 For the first edition, we talked to Diane ​Devera, &#8220;Voice of the IVR&#8221; for the [USA.gov Contact Center](http://www.usa.gov/phone.shtml). In this 10 minute discussion with Jacob Parcell, Manager of Mobile Programs, Devera discusses several considerations about interactive voice response (IVR) for federal contact centers, including:
 

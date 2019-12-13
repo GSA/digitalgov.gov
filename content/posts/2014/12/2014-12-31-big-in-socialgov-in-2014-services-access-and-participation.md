@@ -5,20 +5,19 @@ title: 'Big in SocialGov in 2014: Services, Access and Participation'
 summary: Social media for public service is a diverse field that uses platforms and data from both the private and public sectors to improve citizen services, make them easier to access and deliver them more cost effectively. It is not just public affairs or communications, but spreads into customer service, resource development and more. Many of
 authors:
   - jherman
-categories:
-  - Communities
-  - Social Media
-tag:
-  - AoI
+topics:
+  - communities
+  - social-media
+  - aoi
   - Central Intelligence Agency
   - CIA
   - DOI
-  - FDA
+  - fda
   - Federal Register
   - FSA
   - HHS
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - National Highway Traffic Safety Administration
   - National Library of Medicine
@@ -28,11 +27,11 @@ tag:
   - ODNI
   - Office of the Director of National Intelligence
   - Peace Corps
-  - SocialGov Community
+  - socialgov-community
   - US Department of Education
   - US Department of the Interior
-  - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - us-food-and-drug-administration
+  - united-states-department-of-health-and-human-services
 ---
 
 Social media for public service is a diverse field that uses platforms and data from both the private and public sectors to improve citizen services, make them easier to access and deliver them more cost effectively. It is not just public affairs or communications, but spreads into customer service, resource development and more. Many of the best examples of social media in government can&#8217;t be seen on the surface of a tweet or post, but in how these collaborative, engaging strategies improve the processes of public services themselves. We still want to share with you examples of how these programs shined in 2014, however, and for that we&#8217;ll tell the story with color.
@@ -109,7 +108,7 @@ What you may find interesting is that the CIA&#8217;s top performing posts are o
 
 ## What&#8217;s Next in 2015?
 
-**<a href="{{< link "social-media.md" >}}" target="_blank">The SocialGov Community</a>** of more than 800 federal managers working together to advance digital engagement across government has big plans in 2015 for data analysis, emerging technologies, performance management, and public participation. The idea of social media itself will look different than what it did just three years ago, with more seamless integration of public services into any device, the Internet of Things, crowdsourcing, customer service and data for decision-making.
+**<a href="{{< ref "social-media.md" >}}" target="_blank">The SocialGov Community</a>** of more than 800 federal managers working together to advance digital engagement across government has big plans in 2015 for data analysis, emerging technologies, performance management, and public participation. The idea of social media itself will look different than what it did just three years ago, with more seamless integration of public services into any device, the Internet of Things, crowdsourcing, customer service and data for decision-making.
 
 [{{< legacy-img src="2014/12/250-x-233-DOT-Taxi.jpg" alt="250 x 233 DOT Taxi" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/250-x-233-DOT-Taxi.jpg)We just worked with **Yelp** to <a href="http://officialblog.yelp.com/2014/12/yelp-api-powers-us-department-of-transportations-saferride-app-helping-to-save-lives-this-holiday-se.html" target="_blank">use their API to infuse user reviews</a> into the **National Highway Traffic Safety Administration**’s new [SaferRide app](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/SaferRide-app-and-new-data-highlight-holiday-drunk-driving-crackdown), aimed at providing rides to holiday celebrants and reduce drunk driving fatalities. Whether we&#8217;re using innovative APIs from the private sector or sharing our APIs with them to use for their own services, like when **Facebook** used our Registry to <a href="http://www.buzzfeed.com/evanmcsan/youll-never-like-the-wrong-cia-again-on-facebook#.csDyQDXYQ" target="_blank">verify more than 1000 public services pages in a day</a>, in 2015 we&#8217;ll see more communities, relationships and partnerships built between citizens, public services and technology innovators.
 

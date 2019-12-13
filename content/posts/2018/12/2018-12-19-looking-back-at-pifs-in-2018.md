@@ -11,17 +11,9 @@ authors:
   - nina-bianchi
   - steven-babitch
   - zach-goldfine
-categories:
-  -
-tag:
-  - gsa
-  - innovation
-  - pif
-  - presidential-innovation-fellows
-  - tts
 topics:
-  - gsa
   - innovation
+  - gsa
   - pif
   - presidential-innovation-fellows
   - tts
@@ -70,7 +62,7 @@ Our job as PIFs has been to manage the process of technology change and introduc
 
 The world is changing quickly, and the federal government is restructuring to adapt to this new pace of change. How should the government adapt? We are not sure we have an exact answer or scientific approach, but, in our work so far, we find that when we encourage people to decompose large tasks into small chunks and then to launch those small chunks iteratively, we develop products and services in the way that industry does, and thus we move in the direction of creating processes that allow us to adapt to accelerating change more quickly.
 
-The fact is, our government was not designed to be a technology-enabled enterprise — but it can and will be. As a nation, we need to become digitally-enabled. To us, this means using techniques from user-centered design in an environment that is not as common in government as it is in the tech industry. In practice, it has meant inserting the idea of the user into as many conversations, meetings, and product discussions as possible. Any time a group is discussing the benefits and costs of a particular line of work, we have an impulse to suggest that we at least explicitly consider which line of work benefits the end-user — the American public — most. We find that many people in government are receptive to this reframing, and it allows us to more intentionally design user-centered products and services. 
+The fact is, our government was not designed to be a technology-enabled enterprise — but it can and will be. As a nation, we need to become digitally-enabled. To us, this means using techniques from user-centered design in an environment that is not as common in government as it is in the tech industry. In practice, it has meant inserting the idea of the user into as many conversations, meetings, and product discussions as possible. Any time a group is discussing the benefits and costs of a particular line of work, we have an impulse to suggest that we at least explicitly consider which line of work benefits the end-user — the American public — most. We find that many people in government are receptive to this reframing, and it allows us to more intentionally design user-centered products and services.
 
 Through our experience, we understand the U.S. government and private sector must work in tandem to solve the critical governance issues of the future. The government will function best as a 21st century service provider when it creates agile, design-driven programs that meet citizen needs. To meet these needs, we are helping develop new methods of procurement, accelerating speed to service, and encouraging risk taking in public-private partnerships.
 
@@ -86,4 +78,4 @@ A new cohort of PIFs will be joining us in January. We look forward to welcoming
 
 _The [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) (PIF) program was established by the White House Office of Science and Technology Policy (OSTP) in 2012 to attract top innovators into government, capable of tackling issues at the convergence of technology, policy, and process. On January 20, 2017 the President of the United States signed the TALENT Act (H.R. 39) to codify the Presidential Innovation Fellows program into law and recruit private sector science and technology innovation leaders into federal government service._
 
-_The program, which established a permanent home and program office within GSA, has recruited 135+ Fellows working within 35+ agencies. In this way, PIFs have worked in tandem with federal agencies to solve critical governance issues including accelerating speed to service, developing new methods of procurement, and encouraging risk taking in public-private partnerships._ 
+_The program, which established a permanent home and program office within GSA, has recruited 135+ Fellows working within 35+ agencies. In this way, PIFs have worked in tandem with federal agencies to solve critical governance issues including accelerating speed to service, developing new methods of procurement, and encouraging risk taking in public-private partnerships._

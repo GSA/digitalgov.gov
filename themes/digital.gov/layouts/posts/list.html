@@ -1,44 +1,86 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top archive post-type-archive post-type-archive-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-list events-archive tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive" }}
-  {{ $.Scratch.Set "headtitle" "Posts | Digital.gov" }}
-{{ end }}
-
 {{ define "content" }}
 
-<section id="posts">
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <h1>{{- .Title -}}</h1>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col">
-        <div class="list">
-          {{ $paginator := .Paginate (where .Site.Pages "Section" "posts") }}
-          {{ range $paginator.Pages }}
-          <div class="entry{{ if .Params.featured_image.uid }} has-img{{ end }}">
-            <div class="entry-content">
-              <h3><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
-              <p class="date">{{ .Date.Format "Jan _2, 2006" }} {{ partial "post-authors.html" . }}</p>
-              <p class="summary">{{ .Params.summary | default .Summary | safeHTML | markdownify  }}&nbsp;<a class="more" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">Read&nbsp;»</a></p>
-            </div>
-            {{ partial "img-featured.html" . }}
+<main role="main">
+
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row tablet-lg:grid-gap-4">
+      <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        <header class="header-{{- .Type -}}">
+
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
+
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck | markdownify -}}</div>
+          {{- end -}}
+
+          <div class="join-buttons">
+            <a href="{{- "/join" | absURL -}}">Write for us</a>
+            <a href="{{- "/join" | absURL -}}">Host an event</a>
           </div>
 
-          {{ end }}
-          {{ partial "pagination.html" . }}
-        </div>
+        </header>
       </div>
-
-      <div class="col">
-        <div class="sidebar">
-          {{ partial "sidebar--topics.html" . }}
-        </div>
-      </div>
-
     </div>
   </div>
-</section>
 
+
+  <section class="stream">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-4">
+
+        <div class="grid-col-12">
+          {{/* Blog Posts by Topic —
+          List all of the blog posts tagged with this topic */}}
+
+          {{/* Gets the past events */}}
+          {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+
+          {{/* Gets the past events that have youtube_id set  */}}
+          {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+
+          {{/* Gets the recent blog posts */}}
+          {{- $posts := where .Pages "Section" "posts" -}}
+
+          {{/* Merges the past events and the recent blog posts */}}
+          {{ $stream := union $posts $past_events }}
+
+          {{/* If there are any items at all... */}}
+          {{- if $stream -}}
+
+            {{/* Loop through all the pages */}}
+            {{/* Also sorting all the items by date and reverse chron */}}
+            {{- range (.Paginate ( $stream.ByDate.Reverse )).Pages -}}
+
+              {{- if eq .Type "events" -}}
+                {{- .Render "card-event-past" -}}
+              {{- end -}}
+
+              {{- if eq .Type "posts" -}}
+                {{/* External links */}}
+                {{- if .Params.source -}}
+                  {{/* see /layouts/posts/ for card templates */}}
+                  {{ .Render "card-elsewhere"}}
+                {{ else }}
+                  {{/* Blog Posts — Internal links */}}
+                  {{- if .Params.deck }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ else }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ end }}
+                {{ end }}
+              {{- end -}}
+
+            {{ end }}
+          {{ end }}
+          {{ partial "core/pagination.html" . }}
+        </div>
+
+      </div>
+    </div>
+  </section>
+</main>
 {{ end }}

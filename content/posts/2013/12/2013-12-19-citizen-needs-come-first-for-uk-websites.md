@@ -5,12 +5,11 @@ title: Citizen Needs Come First for UK Websites
 summary: 'We have long believed that &ldquo;governments learn best from other governments&rdquo; and encourage far-ranging discussions with experts from other countries, as well as state and local governments.  An example of  this came to fruition when Michael Bracken, creator and director of the United Kingdom’s Government Digital Service, spoke to'
 authors:
   - darlene-meskell
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - innovation
-  - usability testing
-  - user experience
+  - usability-testing
+  - user-experience
 ---
 
 <p dir="ltr">

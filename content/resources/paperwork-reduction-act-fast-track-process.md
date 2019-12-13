@@ -1,10 +1,14 @@
 ---
-url: /resources/paperwork-reduction-act-fast-track-process/
+slug: paperwork-reduction-act-fast-track-process
 date: 2014-01-09 3:01:38 -0400
 title: Paperwork Reduction Act Fast Track Process
 summary: 'Protect Your Customer&#8217;s Privacy Federal agencies must follow various laws and regulations, including the Paperwork Reduction Act (PRA) and the Privacy Act, when collecting information from the public. You should also be familiar with SORN (Systems of Records Notice), as well as rules around personally identifiable information, and laws that relate to your specific method of feedback collection'
+topics:
+  - policy
+  - pra
 authors:
   - rflagg
+
 ---
 
 ## Protect Your Customer&#8217;s Privacy
@@ -34,7 +38,7 @@ Generally, these service-delivery-focused, voluntary collections fall under the 
 Ask your agency PRA or Privacy Officer, or Counsel&#8217;s office, if your survey is eligible for the fast-track process.
 
   * [Fast-Track PRA Frequently-Asked Questions](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/pra-faqs.pdf) (PDF, 370 KB, 8 pages, February 2012)
-  * [Fast Track PRA Submission Short Form]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2017/05/fast-track-PRA-submission-short-form-3.doc" >}}) (MS Word, 53 KB, 3 pages, February 2012)
+  * [Fast Track PRA Submission Short Form](https://s3.amazonaws.com/digitalgov/_legacy-img/2017/05/fast-track-PRA-submission-short-form-3.doc) (MS Word, 53 KB, 3 pages, February 2012)
 
 ### Traditional PRA Process
 

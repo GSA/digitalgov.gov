@@ -5,13 +5,13 @@ title: FIPNet Digital Imaging Partner Guidance Now Available
 summary: 'Guidance for Contributing Digital Content to FDsys (govinfo) is now available on FDLP.gov.  Federal Information Preservation Network (FIPNet) digital imaging partners now have guidance documentation for creating and contributing digitally-imaged U.S. Government content to Federal Digital System (FDsys)/govinfo*. The guidance specifications are based on current best practices from the Federal Agency Digitization Guidelines Initiative and'
 authors:
   - federal-depository-library-program
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
   - content
-  - content strategy
+  - product-management
+  - strategy
+  - policy
+  - content
+  - content-strategy
   - Government Publishing Office
   - GPO
 ---

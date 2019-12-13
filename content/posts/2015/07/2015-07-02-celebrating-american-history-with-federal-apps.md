@@ -6,18 +6,17 @@ summary: 'Summer is here, which means it is time for the biggest holiday of the 
 authors:
   - kdaniel
   - awichman
-categories:
-  - Mobile
-tag:
-  - ABMC
-  - American Battle Monuments Commission
+topics:
+  - mobile
+  - abmc
+  - american-battle-monuments-commission
   - mobile
   - NARA
   - National Archives and Records Administration
-  - native apps
+  - native-apps
   - Smithsonian Institution
-  - Thursday Mobile Products
-  - USA.gov Federal Mobile Apps Directory
+  - thursday-mobile-products
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Cake-with-American-flag-frosting-and-sparkling-candles-Jupiterimages-liquidlibrary-Thinkstock-87648597.jpg" alt="Cake with American flag frosting and sparkling candles" caption="" >}} 
@@ -39,4 +38,4 @@ The [Smithsonian Institution](http://www.si.edu/) is a curator of history in man
 
 {{< legacy-img src="2015/06/600-x-338-NMAAHC-app-android-phone.jpg" alt="National Museum of African American History and Culture (NMAAHC) app's home screen as seen on an Android phone" >}}
 
-No matter where you celebrate the 4th, you can check out these federal apps that highlight American history from a variety of angles._You can download these and other government apps through the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+No matter where you celebrate the 4th, you can check out these federal apps that highlight American history from a variety of angles._You can download these and other government apps through the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

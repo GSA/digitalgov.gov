@@ -5,9 +5,9 @@ title: Sharing Information Across and Within Organizations Shouldn’t Be Challe
 summary: 'Are you involved in a collaborative project where you need to share information? Whether it is within an organization across units or external to an organization &ndash; across agencies, or levels of government &ndash; sharing of information can be fraught with challenges.  The Center for Technology in Government, (CTG) University at Albany, New York has released'
 authors:
   - donna-canestraro
-categories:
-  - Governance
-  - Managing Digital
+topics:
+  - governance
+  - product-management
 ---
 
 <p style="text-align: left">

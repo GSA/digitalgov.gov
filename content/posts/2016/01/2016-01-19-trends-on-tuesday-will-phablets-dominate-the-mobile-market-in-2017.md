@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: Will Phablets Dominate the Mobile Market in 2017?'
 summary: 'Phablets, once mocked for their large size, may be the next big form factor dominating mobile devices, if new data from the holiday season is any indication. Flurry Mobile, part of Yahoo&#8217;s mobile analytics division, published two reports about phablet devices at the beginning of the new year, showing their continued growth and that people use'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - mobile gov
-  - MobileGov
-  - Trends on Tuesday
+  - mobile
+  - mobile-gov
+  - mobile-gov
+  - trends-on-tuesday
 ---
 
 __Phablets, once mocked for their large size, may be the next big form factor dominating mobile devices, if new data from the holiday season is any indication. {{< legacy-img src="2016/01/600-x-468-Flurry-Chart-for-Distribution-of-New-Devices-by-Form-Factor-and-Operating-System-December-19th-to-25th-2015.jpg" alt="A Flurry Analytics chart covering Android and i O S data from December 19 to 25, 2015 that is titled, Distribution of New Devices by Form Factor and Operating System." caption="" >}} 
@@ -35,4 +34,4 @@ The percentage of new phablet-sized phone activations during the 2014-2015 holid
     </p>
     
     <p>
-      Is your agency prepared for the phablet-majority audience that could be coming as early as next year? These larger mobile phone interfaces have exploded in popularity in just a couple of short years. Stay tuned to DigitalGov for more news and information around </span><a href="{{< link "categories/mobile" >}}"><span style="font-weight: 400">mobile trends.</a></p>
+      Is your agency prepared for the phablet-majority audience that could be coming as early as next year? These larger mobile phone interfaces have exploded in popularity in just a couple of short years. Stay tuned to DigitalGov for more news and information around </span><a href="{{< ref "/topics/mobile" >}}"><span style="font-weight: 400">mobile trends.</a></p>

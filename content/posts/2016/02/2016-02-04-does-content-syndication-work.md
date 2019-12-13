@@ -5,13 +5,12 @@ title: Does Content Syndication Work?
 summary: 'You may have heard some chatter about syndication but thought to yourself&mdash;sounds good but does it really work? The answer is&mdash;Absolutely!! Here is your Proof NIH News in Health is a monthly newsletter that has recently been syndicated. Since syndication, the newsletter’s content can be found on multiple websites. These websites include state and local'
 authors:
   - christen-geiler
-categories:
-  - Content
-tag:
-  - content syndication
+topics:
+  - content
+  - content-syndication
   - mobile
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
 ---
 
 You may have heard some chatter about syndication but thought to yourself—sounds good but does it really work? {{< legacy-img src="2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" caption="" >}} 

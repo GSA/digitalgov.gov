@@ -8,13 +8,12 @@ authors:
   - carolyn-dew
   - maya-benari
   - colin-macarthur
-categories:
-  - Design
-tag:
-  - 18F
+topics:
+  - design
+  - 18f
   - US Digital Service
   - USDS
-  - user experience
+  - user-experience
 ---
 
 Joanne is a young Army Veteran who is looking to make use of her GI Bill Benefits and apply for federal student loans to attend college.
@@ -63,7 +62,7 @@ As with all 18F and U.S. Digital Service projects, we’re working in the open t
 
 “Making the best thing the easiest thing” starts with making the standards website itself easy to use. With every iteration of this product, we conducted numerous interviews, usability tests, and card sorts with designers and developers across government. Everything from the site’s organization scheme to its code snippets and download buttons are informed by user research.
 
-The design of every component follows data-informed best practices, found both inside ([DigitalGov]({{< link "index.html" >}})) and outside (Nielsen Norman group articles) of government. Many components were derived from other agency and style guide patterns; more complex patterns were further tested with end users.
+The design of every component follows data-informed best practices, found both inside ([DigitalGov](https://digital.gov/)) and outside (Nielsen Norman group articles) of government. Many components were derived from other agency and style guide patterns; more complex patterns were further tested with end users.
 
 We believe agencies should still usability test everything they build, but following the standards will help everyone avoid common pitfalls.
 

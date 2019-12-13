@@ -5,11 +5,10 @@ title: USPS Mobile App Updates
 summary: 'The U.S. Postal Service Mobile app can help you find a post office, calculate shipping prices and track packages. Since we last featured this app, the USPS has added the ability to schedule pickups and order supplies. Last month, USPS Mobile version 3.8 was released. The new version allows users'
 authors:
   - kanika-tolver
-categories:
-  - Mobile
-tag:
-  - mobile apps
-  - Thursday Mobile Products
+topics:
+  - mobile
+  - mobile-apps
+  - thursday-mobile-products
   - USPS
 ---
 

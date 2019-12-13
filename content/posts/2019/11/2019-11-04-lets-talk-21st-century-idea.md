@@ -1,6 +1,7 @@
 ---
 slug: lets-talk-21st-century-idea
 date: 2019-11-04 10:00:00 -0500
+kicker: "This Week's IDEA"
 title: "Let’s Talk 21st Century IDEA"
 summary: "We are starting a new blog post series on 21st Century IDEA that’ll break down one essential topic and point to guidance to start running with it&#46;"
 featured_image:

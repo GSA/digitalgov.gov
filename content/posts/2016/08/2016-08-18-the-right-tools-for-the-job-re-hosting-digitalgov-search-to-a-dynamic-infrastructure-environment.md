@@ -5,14 +5,14 @@ title: 'The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic I
 summary: 'This is the first post of a 5-part series. DigitalGov Search is a commercial-grade search engine provided as a shared-service by the United States General Services Administration. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that'
 authors:
   - dmccleskey
-categories:
-  - Managing Digital
-  - Monthly Theme
-  - Our Work
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
+  - monthly-theme
+  - our-work
+  - strategy
+  - policy
   - aws
-  - DigitalGov Search
+  - digitalgov-search
   - infrastructure
 ---
 
@@ -45,7 +45,7 @@ If you have questions or would like to discuss particulars, [we would love to he
   <em>This is the first post in a five part series. Stay tuned for the following posts:</em>
 </h3>
 
-  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All]({{< link "2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md" >}})
-  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection]({{< link "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}})
-  * [Let’s Encrypt those CNAMES, Shall We?]({{< link "2016-09-07-lets-encrypt-those-cnames-shall-we.md" >}})
-  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem]({{< link "2016-09-12-dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" >}})
+  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All]({{< ref "2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md" >}})
+  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection]({{< ref "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}})
+  * [Let’s Encrypt those CNAMES, Shall We?]({{< ref "2016-09-07-lets-encrypt-those-cnames-shall-we.md" >}})
+  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem]({{< ref "2016-09-12-dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" >}})

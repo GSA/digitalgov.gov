@@ -5,16 +5,16 @@ title: Thunderclap Now Available for Government-Wide Adoption
 summary: Thunderclap is the latest social media and crowd-sourcing platform available to federal agencies to better engage with the public, with a newly negotiated government-compatible Terms of Service (TOS) agreement. GSA collaborated with Thunderclap to negotiate the amended terms, which brings the total number of tools with federal-compatible agreements to 66.
 authors:
   - bsteele
-categories:
-  - Social Media
-  - strategy-and-policy
-tag:
-  - social media
+topics:
+  - social-media
+  - strategy
+  - policy
+  - social-media
   - Terms of Service
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/THunderclap.jpg">{{< legacy-img src="2013/08/THunderclap.jpg" alt="Thunderclap logo" >}}</a>Thunderclap is the latest social media and crowd-sourcing platform available to federal agencies to better engage with the public, with a newly negotiated government-compatible Terms of Service (TOS) agreement. GSA collaborated with Thunderclap to negotiate the amended terms, which brings the total number of <a href="{{< link "negotiated-terms-of-service-agreements.md" >}}" target="_blank">tools with federal-compatible agreements</a> to 66.
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/THunderclap.jpg">{{< legacy-img src="2013/08/THunderclap.jpg" alt="Thunderclap logo" >}}</a>Thunderclap is the latest social media and crowd-sourcing platform available to federal agencies to better engage with the public, with a newly negotiated government-compatible Terms of Service (TOS) agreement. GSA collaborated with Thunderclap to negotiate the amended terms, which brings the total number of <a href="{{< ref "negotiated-terms-of-service-agreements.md" >}}" target="_blank">tools with federal-compatible agreements</a> to 66.
 </p>
 
 <p dir="ltr">
@@ -26,7 +26,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Thuncerclap is now listed on HowTo.gov among the almost 70 other <a href="{{< link "negotiated-terms-of-service-agreements.md" >}}" target="_blank">tools and apps with federal-friendly terms of service</a>.
+  Thuncerclap is now listed on HowTo.gov among the almost 70 other <a href="{{< ref "negotiated-terms-of-service-agreements.md" >}}" target="_blank">tools and apps with federal-friendly terms of service</a>.
 </p>
 
 <p dir="ltr">

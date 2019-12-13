@@ -1,37 +1,30 @@
 {
-  "name": "digital.gov",
-  "version": "0.1.0",
-  "description": "The digital.gov website",
+  "name": "digitalgov.gov",
+  "version": "2.0.0",
+  "description": "Guidance for making a better digital government",
   "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "upload": "gulp process-img"
+  "directories": {
+    "doc": "docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GSA/digital.gov.git"
+  "dependencies": {
+    "gulp-jshint": "^2.1.0",
+    "octicons": "^7.3.0"
   },
-  "author": "jeremyzilar / thisisdano",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GSA/digital.gov/issues"
-  },
-  "homepage": "https://github.com/GSA/digital.gov#readme",
   "devDependencies": {
-    "acorn": "^6.3.0",
-    "autoprefixer": "^9.6.5",
+    "acorn": "^6.4.0",
+    "autoprefixer": "^9.7.3",
     "braces": "^2.3.2",
     "change-case": "^3.1.0",
     "css-mqpacker": "^7.0.0",
     "cssnano": "^4.1.10",
     "del": "^3.0.0",
-    "dotenv": "^8.1.0",
+    "dotenv": "^8.2.0",
     "gulp": "^4.0.2",
     "gulp-bless": "^4.0.1",
     "gulp-clean-css": "^4.2.0",
     "gulp-combine-mq": "^0.4.0",
     "gulp-concat": "^2.6.1",
-    "gulp-git": "^2.9.0",
+    "gulp-git": "^2.10.0",
     "gulp-gzip": "^1.4.2",
     "gulp-hash": "^4.2.2",
     "gulp-notify": "^3.2.0",
@@ -46,19 +39,20 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-strip-css-comments": "^2.0.0",
     "gulp-tap": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^5.0.0",
+    "i": "^0.3.6",
     "image-size": "^0.8.3",
+    "jshint": "^2.10.3",
+    "npm": "^6.13.4",
     "path": "^0.12.7",
-    "postcss": "^7.0.18",
+    "postcss": "^7.0.24",
     "postcss-uncss": "^0.16.1",
-    "sharp": "^0.23.1",
+    "sharp": "^0.23.4",
     "uncss": "^0.16.2",
-    "uswds": "^2.2.1",
+    "uswds": "^2.3.1",
     "uswds-gulp": "github:uswds/uswds-gulp",
-    "vinyl-paths": "^3.0.0"
-  },
-  "dependencies": {
-    "octicons": "^7.3.0"
+    "vinyl-paths": "^3.0.1"
   }
 }

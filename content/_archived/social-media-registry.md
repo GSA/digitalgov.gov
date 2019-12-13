@@ -36,7 +36,7 @@ The U.S. Digital Registry and API is early in development: please contact us to 
 
 Accessing the U.S. Digital Registry requires an OMB Max ID, which is available to federal government employees and contractors with a valid .gov, .mil, or .fed.us email address. [Register for an OMB Max ID](https://max.omb.gov/maxportal/registrationForm.action) if you need one.
 
-Any registered social media accounts should be created under federal-compatible [Terms of Service (TOS)]({{< link "negotiated-terms-of-service-agreements.md" >}}). If they weren’t, contact your agency [Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}), to bring accounts into compliance with federal law.
+Any registered social media accounts should be created under federal-compatible [Terms of Service (TOS)]({{< ref "negotiated-terms-of-service-agreements.md" >}}). If they weren’t, contact your agency [Point of Contact]({{< ref "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}), to bring accounts into compliance with federal law.
 
 Mobile native app and mobile web registrations do not need to be created with federal-compatible Terms of Service (TOS).
 

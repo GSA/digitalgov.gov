@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -14,6 +14,12 @@ photo: 'https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/6
 
 # Tell us about yourself! Keep it to 1-2 sentences.
 bio: 'Steve Lewis serves as a Digital and Social Media Manager for the U.S. Trade and Development Agency (USTDA). In this capacity, Steve coordinates USTDA’s public outreach program through the Agency’s website, eNewsletter, and other digital communication channels. Steve also serves in the U.S. Air Force Reserve as a commissioned Public Affairs Officer. He is a recent graduate of Georgetown University’s Masters in Professional Studies – Public Relations and Corporate Communications program.'
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

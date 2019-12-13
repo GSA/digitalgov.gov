@@ -5,17 +5,16 @@ title: 'A Picture Is Worth a Thousand Tokens: Part II'
 summary: 'In the first part of A Picture Is Worth a Thousand Tokens, I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s post, I’ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s experience'
 authors:
   - loren-siebert
-categories:
-  - Content
-  - Our Work
-  - Social Media
-tag:
-  - Instagram
-  - open government
-  - USAgov
+topics:
+  - content
+  - our-work
+  - social-media
+  - instagram
+  - open-government
+  - usagov
 ---
 
-In the first part of [_A Picture Is Worth a Thousand Tokens_]({{< link "2014-10-28-a-picture-is-worth-a-thousand-tokens.md" >}} "A Picture Is Worth a Thousand Tokens"), I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s post, I’ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s experience as a whole.
+In the first part of [_A Picture Is Worth a Thousand Tokens_]({{< ref "2014-10-28-a-picture-is-worth-a-thousand-tokens.md" >}} "A Picture Is Worth a Thousand Tokens"), I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s post, I’ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s experience as a whole.
 
 ## Redefine Recency
 

@@ -5,13 +5,12 @@ title: MCC Builds on Lessons Learned in Launch of Second Open Data Challenge
 summary: 'The Millennium Challenge Corporation (MCC)’s first open data challenge taught MCC some very valuable lessons in making its public data truly usable by the public. The challenges ask masters and PhD students to find creative ways to use MCC’s publicly-available evaluation data and provide new insights into its evaluation results. As the second challenge launches,'
 authors:
   - elizabeth-zeitler
-categories:
-  - Data
-  - Monthly Theme
-tag:
-  - challenges and prize competitions
+topics:
+  - data
+  - monthly-theme
+  - challenges-and-prize-competitions
   - MCC
-  - open data
+  - open-data
 ---
 
 The Millennium Challenge Corporation (MCC)’s first open data challenge taught MCC some very valuable lessons in making its public data truly usable by the public. The challenges ask masters and PhD students to find creative ways to use MCC’s publicly-available evaluation data and provide new insights into its evaluation results. As the second challenge launches, MCC is building on these [lessons learned](https://www.mcc.gov/blog/entry/blog-030116-students-help-maximize-the-use-of-mcc-data) from the first challenge:
@@ -25,7 +24,7 @@ The Challenge was created as a way to gain insight into MCC’s evaluation resul
 
 {{< legacy-img src="2016/03/600-x-400-Millennium-Challenge-Corporation-MCC-Open-Data-Challenge-Twitter-image.jpg" alt="Millennium Challenge Corporation (MCC) Open Data Challenge logo." >}}
 
-The Open Data Challenge 2.0 is looking for up-to 7,000 word papers that find analysis of data available on the [MCC Evaluation Catalog](https://data.mcc.gov/evaluations/index.php/catalog), in any of the following categories:
+The Open Data Challenge 2.0 is looking for up-to 7,000 word papers that find analysis of data available on the [MCC Evaluation Catalog](https://data.mcc.gov/evaluations/index.php/catalog), in any of the following topics:
 
   * Analysis that supports or challenges assumptions made in ex-ante economic rate of return estimates (all ERRs are available on the [MCC public website](https://www.mcc.gov/our-impact/err))
   * Analysis that supports or challenges results of independent evaluations (all final evaluation reports are published on the [MCC Evaluation Catalog](https://data.mcc.gov/evaluations/index.php/catalog))

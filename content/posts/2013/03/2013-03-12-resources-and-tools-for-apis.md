@@ -5,12 +5,11 @@ title: Resources and Tools for APIs
 summary: 'Hosted API Tools Labs.Data.gov is a repository of shared services to prototype and provide developer resources to government agencies. Each tool uses Web services and lightweight, open source code to provide powerful functionality. Agencies are encouraged to improve any project and submit pull requests in order to share the improvements with others. API Standards Template With the open'
 authors:
   - gray-brooks
-categories:
-  - API
-  - Code
-tag:
-  - API
-  - CDC
+topics:
+  - api
+  - code
+  - api
+  - cdc
   - Census
   - DOL
   - DOT
@@ -18,7 +17,7 @@ tag:
   - FCC
   - GSA
   - HHS
-  - NASA
+  - nasa
   - SBA
   - US Department of Labor
 ---
@@ -53,28 +52,28 @@ With the open source release of the [White House&#8217;s API Standards template]
 ## <a name="case-studies"></a>Case Studies
 
   * [Centers for Disease Control & Prevention](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/cdc-content-services-api.docx "CDC case study") (MS Word, 20.93 KB, 2 pages, November 2012)
-  * [Department of Labor—Software Development Kits (SDKs)](https://digitalgov.sites.usa.gov/2012/11/19/case-study-how-dol-created-software-development-kits-sdks/ "Case Study: How DOL Created Software Development Kits - SDKs")
+  * [Department of Labor—Software Development Kits (SDKs)](https://digital.gov/2012/11/19/case-study-how-dol-created-software-development-kits-sdks/ "Case Study: How DOL Created Software Development Kits - SDKs")
   * [Federal Register](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf)**** (PDF, 218 KB, 3 pages, November 2012)
-  * [General Services Administration—Social Media Registry]({{< link "2012-11-19-case-study-how-gsa-launched-social-media-registry.md" >}} "Case Study: How GSA Launched Social Media Registry")
-  * [HealthFinder.gov]({{< link "2012-07-16-healthfinder-gov-api.md" >}} "Healthfinder.gov API")
+  * [General Services Administration—Social Media Registry]({{< ref "2012-11-19-case-study-how-gsa-launched-social-media-registry.md" >}} "Case Study: How GSA Launched Social Media Registry")
+  * [HealthFinder.gov]({{< ref "2012-07-16-healthfinder-gov-api.md" >}} "Healthfinder.gov API")
   * [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) (PDF, 4.6 MB, 56 pages, September 2012)
   * [National Renewable Energy Laboratory](http://developer.nrel.gov/api-case-study/)
 
 ## <a name="how-to-make-apis-overview"></a>How to Make APIs—An Overview
 
-There are several different ways to generate APIs that range in complexity and functionality. This [primer]({{< link "2013-03-12-how-to-make-apis-an-overview.md" >}} "How to Make APIs—An Overview") provides a general overview of the different methods.
+There are several different ways to generate APIs that range in complexity and functionality. This [primer]({{< ref "2013-03-12-how-to-make-apis-an-overview.md" >}} "How to Make APIs—An Overview") provides a general overview of the different methods.
 
 ## <a name="api-release-kit"></a>API Release Kit
 
-Best practices around API production have agreed on a number of common elements which strongly benefit an API and warrant inclusion in the release whenever possible. The [API release kit](https://digitalgov.sites.usa.gov/2013/05/16/api-release-kit/ "API Release Kit") provides an outline of these components along with options for each functionality.
+Best practices around API production have agreed on a number of common elements which strongly benefit an API and warrant inclusion in the release whenever possible. The [API release kit](https://digital.gov/2013/05/16/api-release-kit/ "API Release Kit") provides an outline of these components along with options for each functionality.
 
 ## <a name="developer-kit"></a>/Developer Kit
 
-Government agencies are increasingly being called upon to provide a central hub by which developers can discover what APIs the agency offers and to find more information on each. The critical elements of these hubs are an agency-wide catalog of APIs, Terms of Service, and means of public engagement. However, by including further common elements, you can provide a more robust and successful developer user experience. The [/developer kit]({{< link "2013-05-21-developer-kit.md" >}}) provides an outline of these components.
+Government agencies are increasingly being called upon to provide a central hub by which developers can discover what APIs the agency offers and to find more information on each. The critical elements of these hubs are an agency-wide catalog of APIs, Terms of Service, and means of public engagement. However, by including further common elements, you can provide a more robust and successful developer user experience. The [/developer kit]({{< ref "2013-05-21-developer-kit.md" >}}) provides an outline of these components.
 
 ## <a name="producing-apis-through-data.gov"></a>Producing APIs through Data.gov
 
-One method by which agencies can offer Public APIs is by leveraging the power of interactive datasets on Data.gov. This [guide](https://digitalgov.sites.usa.gov/2013/04/30/producing-apis-through-data-gov/ "Producing APIs through Data.gov") provides a process, template, and example agencies can follow to accomplish this.
+One method by which agencies can offer Public APIs is by leveraging the power of interactive datasets on Data.gov. This [guide](https://digital.gov/2013/04/30/producing-apis-through-data-gov/ "Producing APIs through Data.gov") provides a process, template, and example agencies can follow to accomplish this.
 
 ## <a name="government-api-listserv"></a>U.S. Government APIs Listserv
 

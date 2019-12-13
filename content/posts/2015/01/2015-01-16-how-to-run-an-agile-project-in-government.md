@@ -5,13 +5,12 @@ title: How to Run an Agile Project in Government
 summary: 'For a seminar organized by DigitalGov University, Robert Read, the Managing Director at 18F, gave a presentation on agile methodologies in the federal government. Risk mitigation is a big advantage of using the agile methodology. The methodology deals with risk through the use of multiple iterations or &#8220;sprints&#8221; that ultimately lead to the development of'
 authors:
   - kdaniel
-categories:
-  - UX
-tag:
-  - 18F
+topics:
+  - ux
+  - 18f
   - GSA
   - Recaps
-  - UX
+  - ux
 ---
 
 {{< legacy-img src="2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg" alt="Wooden letter blocks spell out the word agile." caption="" >}} 

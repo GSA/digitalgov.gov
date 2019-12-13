@@ -5,22 +5,22 @@ title: Kids.Gov Reenvisioned
 summary: 'At USAGov, we always put our customers first. In the wake of our rebranding efforts, our desire to create a positive user experience across the organization has pushed us to turn a scrutinous eye toward Kids.gov &#8212; a site focused on providing information and resources to parents, teachers, and kids. In a cross-organizational effort, individuals'
 authors:
   - megan-fella
-categories:
-  - Design
-  - Managing Digital
-  - strategy-and-policy
+topics:
+  - design
+  - product-management
+  - strategy
+  - policy
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - analytics
-  - Customer Experience
-  - CX
+  - cx
+  - cx
   - metrics
-  - usa.gov
-  - usability testing
-  - user centered design
-  - user experience
-  - UX
+  - usa-gov
+  - usability-testing
+  - user-centered-design
+  - user-experience
+  - ux
 ---
 
 At USAGov, we always put our customers first. In the wake of our rebranding efforts, our desire to create a positive user experience across the organization has pushed us to turn a scrutinous eye toward [Kids.gov](https://kids.usa.gov/) &#8212; a site focused on providing information and resources to parents, teachers, and kids. In a cross-organizational effort, individuals from the marketing, user experience, and performance measurement teams have joined forces to “reenvision” the site’s content and presentation to better suit the public’s needs.

@@ -7,12 +7,11 @@ summary: 'These new API standards will make it easier for GSA staff to launch an
 authors:
   - gray-brooks
   - ryan-day
-categories:
-  - managing-digital
-tag:
+topics:
   - api
-  - api-community
+  - api
   - code
+  - product-management
   - open-source
 featured_image:
   uid: q-and-a

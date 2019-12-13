@@ -7,7 +7,7 @@ themesDir               : "./themes"
 MetaDataFormat          : "yaml"
 DefaultContentLanguage  : "en"
 SectionPagesMenu        : "main"
-Paginate                : 15
+Paginate                : 20
 googleAnalytics         : ""
 enableRobotsTXT         : true
 enableEmoji             : true
@@ -28,6 +28,10 @@ sitemap:
   priority              : 0.5
   filename              : "sitemap.xml"
 
+outputFormats.authors:
+  baseName: "authors"
+  isPlainText: true
+  mediatype: "application/json"
 outputFormats:
   SiteImages:
     mediaType: "application/json"
@@ -40,15 +44,21 @@ outputFormats:
 
 rssLimit: 20
 
+preserveTaxonomyNames   : true
+taxonomies:
+  topic                 : "topics"
+  author                : "authors"
+
 outputs:
   home: ["HTML","RSS", "SiteImages", "JSON"]
   section: ["HTML","RSS", "JSON"]
   page: ["HTML","RSS", "JSON"]
   taxonomy: ["HTML","RSS", "JSON"]
-  taxonomyTerm: ["HTML","RSS", "JSON"]
+  taxonomyTerm: ["JSON"]
 
 blackfriday:
   fractions: false
+  smartypants: true
 
 params:
   description: "Guidance on building better digital services in government"
@@ -56,17 +66,22 @@ params:
   cdnurl: "https://s3.amazonaws.com/digitalgov"
   git_org: "GSA"
   git_repo: "digitalgov.gov"
+  url_shortener_login: jeremyz
+  url_shortener_api: d0ac464a2dfad044147e9537fd51503b
   devmode: true
+
+  # Homepage settings
+  dg_tagline: "Build better digital services"
+
+  # number of news items to include on the homepage
+  stream_count: 10
+
+  # number of events to include on the homepage
+  events_count: 3
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
-
-preserveTaxonomyNames   : true
-taxonomies:
-  tag                   : "tag"
-  category              : "categories"
-  author                : "authors"
 
 pluralizelisttitles     : false
 
@@ -126,37 +141,6 @@ menu:
     - Name            : "Content"
       Identifier      : "content"
       URL             : "/categories/content/"
-      Weight          : 3
-    - Name            : "Video"
-      Parent          : "content"
-      Identifier      : "video"
-      URL             : "/categories/video/"
-      Weight          : 20
-    - Name            : "Writing"
-      Parent          : "content"
-      Identifier      : "writing"
-      URL             : "/categories/writing/"
-      Weight          : 21
-
-    - Name            : "Managing Digital"
-      Identifier      : "managing-digital"
-      URL             : "/categories/managing-digital/"
-      Weight          : 4
-    - Name            : "Governance"
-      Parent          : "managing-digital"
-      Identifier      : "governance"
-      URL             : "/categories/governance/"
-      Weight          : 41
-    - Name            : "Strategy & Policy"
-      Parent          : "managing-digital"
-      Identifier      : "governance"
-      URL             : "/categories/strategy-and-policy/"
-      Weight          : 42
-
-    - Name            : "Metrics"
-      Identifier      : "resources"
-      URL             : "/categories/metrics/"
-      Weight          : 5
 
     - Name            : "Mobile"
       Identifier      : "mobile"
@@ -193,7 +177,7 @@ menu:
       Identifier      : "contribute"
       URL             : "/contribute/"
       Weight          : 1
-    - Name            : "Host and event"
+    - Name            : "Host an event"
       Identifier      : "digitalgov-university"
       URL             : "/digitalgov-university/"
       Weight          : 2

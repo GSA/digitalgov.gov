@@ -5,15 +5,14 @@ title: 'The Challenge of Partnerships: ‘The Good, Bad and Ugly’ of Prize Col
 summary: 'Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin. To partner or not to partner: That is the question. &ldquo;If you are going to do one, don’t do it because it seems like a good idea,&rdquo;'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
-  - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - challenges-and-prize-competitions
+  - challenges-and-prizes-community-of-practice
   - HHS
   - National Institute of Standards
   - NIST
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin.
@@ -56,4 +55,4 @@ The law is the law, though, and agencies should be thorough in how they apply it
 
 Working closely with your acquisitions and legal teams early—and often—will be essential to the success of any prize competition you design, partnership or not.
 
-For more information on partnerships and other aspects of planning and running prize competitions, check out the webinar videos from the [Expert Training Series: How to Design & Operate Prizes to Maximize Success]({{< link "2016-02-17-challenges-prizes-webinar-series-concludes-but-training-still-available.md" >}}).
+For more information on partnerships and other aspects of planning and running prize competitions, check out the webinar videos from the [Expert Training Series: How to Design & Operate Prizes to Maximize Success]({{< ref "2016-02-17-challenges-prizes-webinar-series-concludes-but-training-still-available.md" >}}).

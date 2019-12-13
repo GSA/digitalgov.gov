@@ -5,18 +5,17 @@ title: 'The API Briefing: The Census Bureau’s Discovery Tool &#8211; Find the 
 summary: 'The Census Bureau recently released a &ldquo;machine-readable dataset discovery service&rdquo; that lists 41 Census data sets. It&#8217;s in spreadsheet form and gives a description of the datasets along with links to the API and developer documentation. What makes the discovery service machine readable is that&#8217;s based on Project Open Data’s &ldquo;Common Core Metadata Schema&rdquo; that'
 authors:
   - bbrantley
-categories:
-  - API
-  - Code
-  - Managing Digital
-  - Mobile
-tag:
-  - API
-  - mobile apps
-  - native app
-  - responsive web design
+topics:
+  - api
+  - code
+  - product-management
+  - mobile
+  - api
+  - mobile-apps
+  - native-app
+  - responsive-web-design
   - United States Census Bureau
-  - Wednesday API Briefing
+  - wednesday-api-briefing
 ---
 
 The Census Bureau recently released a “<a href="http://api.census.gov/data.html" target="_blank">machine-readable dataset discovery service</a>” that lists 41 Census data sets. It&#8217;s in spreadsheet form and gives a description of the datasets along with links to the API and developer documentation. What makes the discovery service machine readable is that&#8217;s based on <a href="http://project-open-data.github.io/schema/" target="_blank">Project Open Data’s “Common Core Metadata Schema”</a> that uses a standard way to describe and index government information sources. The discovery service makes it easier for developers to find and mix different APIs together to create sophisticated apps.

@@ -5,20 +5,19 @@ title: 'Challenges & Prizes Webinar Series Concludes, but Training Still Availab
 summary: 'It began with a history lesson and ended with an eye to the future. In between, the Expert Training Series: How to Design & Operate Prizes to Maximize Success covered nearly every aspect of what it takes to run successful incentivized competitions. Challenge.gov and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
+topics:
+  - challenges
+  - challenge-gov
   - DOE
   - HHS
   - HUD
-  - NASA
+  - nasa
   - Recaps
-  - US Agency for International Development
+  - us-agency-for-international-development
   - United States Department of Energy
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Department of Housing and Urban Development
-  - USAID
+  - usaid
 ---
 
 It began with a history lesson and ended with an eye to the future.
@@ -81,7 +80,7 @@ Egos and competing interests may be a problem in some groups, but that wasn’t 
 
 “Sometimes you’re in the middle of a process where you think you know what you can get out of it, but then you realize you can get so much more,” said Alexis Bonnell, chief of applied innovation and acceleration at the U.S. Agency for International Development’s (USAID) Global Development Lab.
 
-USAID’s [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/) continues to make an impact through cross-sector partnerships and technology development. In addition to providing front-line healthcare workers with a [safer, easier-to-use suit]({{< link "2015-12-11-all-in-partnering-across-sectors-can-boost-competition-results.md" >}}), the challenge also produced innovations in sensors and information technology.
+USAID’s [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/) continues to make an impact through cross-sector partnerships and technology development. In addition to providing front-line healthcare workers with a [safer, easier-to-use suit]({{< ref "2015-12-11-all-in-partnering-across-sectors-can-boost-competition-results.md" >}}), the challenge also produced innovations in sensors and information technology.
 
 [Watch/listen to the seventh and final webinar of the series](https://www.youtube.com/watch?v=QdLSB2rjV9w), originally hosted on Jan. 14.
 

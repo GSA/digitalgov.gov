@@ -1,6 +1,7 @@
 ---
 slug: introducing-a-guide-paperwork-reduction-act
 date: 2019-06-18 09:00:00 -0500
+kicker: New Guide
 title: "Introducing a Guide to the Paperwork Reduction Act"
 deck: "Navigating the PRA process with confidence&#46;"
 summary: "A guide to navigating the PRA process with confidence&#46;"
@@ -23,7 +24,7 @@ featured_image:
 
 Today, we’re proud to launch [a new guide on the Paperwork Reduction Act](https://pra.digital.gov/) (PRA) — a clear introduction to the Act and the clearance process around it.
 
-The PRA Guide is a plain language guide which answers the most common questions like, “What is the PRA for?”, “Do I need clearance?”, and “What’s the process?” 
+The PRA Guide is a plain language guide which answers the most common questions like, “What is the PRA for?”, “Do I need clearance?”, and “What’s the process?”
 
 It aims to give federal employees confidence working with the PRA&mdash;and through this, lower the barriers to working effectively with the public.
 

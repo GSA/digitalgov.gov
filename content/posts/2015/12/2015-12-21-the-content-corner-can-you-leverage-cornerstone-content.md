@@ -5,13 +5,12 @@ title: 'The Content Corner: Can You Leverage Cornerstone Content?'
 summary: 'If you have a website, then you most likely have cornerstone content&mdash;though you may not think of it in that way or even considered it. Just as in architecture, a cornerstone is a basic and essential part of any online presence. Cornerstone content is also important to any new visitors to your agency site, even if you'
 authors:
   - tyrus-manuel
-categories:
-  - Content
-tag:
-  - Administrative Office of the United States Courts
+topics:
+  - content
+  - administrative-office-of-the-united-states-courts
   - NPS
-  - SEO
-  - The Content Corner
+  - seo
+  - the-content-corner
   - US National Park Service
 ---
 
@@ -23,7 +22,7 @@ Properly developed (and frequently maintained) cornerstone content pages can hel
 
 As I said before, even minimal websites have or should have at least a few pages of cornerstone content. The most common of these include the About and Contact pages. These are great basic examples of what cornerstone content is. In my opinion, no professional (or probably even personal) site should exist without these two pages if the site is open to the public and you are sharing content with users. For public sector agencies, these pages are even more critical.
 
-These two pages are your site’s version of networking at a party or conference. They can quickly give a visitor a quick overview of why the site exists, why you do what you do and (commonly for us federal folks) what our agency’s mission is. The Contact page serves as a business card that a user can leverage if they see something they like or have a deeper issue or question. But this is cornerstone content at its most basic; other examples of cornerstone content are best described as hubs or category pages such as this one for <a href="{{< link "categories/content" >}}" target="_blank">content</a> or even <a href="{{< link "tag/the-content-corner" >}}" target="_blank">The Content Corner</a>.
+These two pages are your site’s version of networking at a party or conference. They can quickly give a visitor a quick overview of why the site exists, why you do what you do and (commonly for us federal folks) what our agency’s mission is. The Contact page serves as a business card that a user can leverage if they see something they like or have a deeper issue or question. But this is cornerstone content at its most basic; other examples of cornerstone content are best described as hubs or category pages such as this one for <a href="{{< ref "/topics/content" >}}" target="_blank">content</a> or even <a href="{{< ref "/topics/the-content-corner" >}}" target="_blank">The Content Corner</a>.
 
 ## The Anatomy of a Cornerstone Page
 
@@ -31,7 +30,7 @@ One cornerstone example comes from the <a href="http://www.nps.gov/history/prese
 
 ### Keywords
 
-One of the first and more critical things to consider before deciding to create a cornerstone content page is to find out what are the topics that your users are frequently looking for. By doing a small amount of <a href="http://www.copyblogger.com/keyword-research/" target="_blank">keyword research</a>, you can quickly identify some of the main topics that you should make sure you turn into a cornerstone page. These <a href="{{< link "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}" target="_blank">keywords</a> should also help you determine the best <a href="{{< link "2015-06-22-the-content-corner-writing-better-headlines.md" >}}" target="_blank">headline</a> for your page, how your refer to it in your navigation and what is the best <a href="{{< link "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}" target="_blank">SEO title</a> for the page (if and when the SEO title can and should differ).
+One of the first and more critical things to consider before deciding to create a cornerstone content page is to find out what are the topics that your users are frequently looking for. By doing a small amount of <a href="http://www.copyblogger.com/keyword-research/" target="_blank">keyword research</a>, you can quickly identify some of the main topics that you should make sure you turn into a cornerstone page. These <a href="{{< ref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}" target="_blank">keywords</a> should also help you determine the best <a href="{{< ref "2015-06-22-the-content-corner-writing-better-headlines.md" >}}" target="_blank">headline</a> for your page, how your refer to it in your navigation and what is the best <a href="{{< ref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}" target="_blank">SEO title</a> for the page (if and when the SEO title can and should differ).
 
 ### Introduction
 
@@ -39,11 +38,11 @@ As with the NPS example, your cornerstone page should help give the user a quick
 
 ### Links and Explanation
 
-Honestly, the meat of any cornerstone page should be links to other content already created for the topic. This happens to be a great way to leverage your <a href="{{< link "2015-03-09-the-content-corner-performing-a-content-audit.md" >}}" target="_blank">evergreen content</a> and can also allow the full <a href="{{< link "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}" target="_blank">content pillar</a> to be shared in one easy-to-access location. Your cornerstone page should not just be a list of links, however. Each link should carry a small description (10 words or so) to help the user understand and evaluate whether they are interested in the content being shared (should they click the link?).
+Honestly, the meat of any cornerstone page should be links to other content already created for the topic. This happens to be a great way to leverage your <a href="{{< ref "2015-03-09-the-content-corner-performing-a-content-audit.md" >}}" target="_blank">evergreen content</a> and can also allow the full <a href="{{< ref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}" target="_blank">content pillar</a> to be shared in one easy-to-access location. Your cornerstone page should not just be a list of links, however. Each link should carry a small description (10 words or so) to help the user understand and evaluate whether they are interested in the content being shared (should they click the link?).
 
 ### Media
 
-On <a href="https://oscar.uscourts.gov/about" target="_blank">one of the cornerstone pages I’ve created in the past</a>, we embedded an introductory video that provides a quick overview of the content we are sharing via the links and explanations I mentioned above. Another common tactic (that is used by NPS) is to include a thumbnail image with each link shared. This is the same reason it is preferable to have a thumbnail image for blog posts: <a href="{{< link "2015-11-13-engage-the-community-with-visual-greatness.md" >}}" target="_blank">Users like images</a>. They draw a user in and usually generate higher click-thru rates than links without images. Other <a href="{{< link "plain-language-web-writing-tips.md" >}}" target="_blank">blog/content best practices</a> can also be leveraged, such as including bullet points and keeping your sentences and paragraphs succinct.
+On <a href="https://oscar.uscourts.gov/about" target="_blank">one of the cornerstone pages I’ve created in the past</a>, we embedded an introductory video that provides a quick overview of the content we are sharing via the links and explanations I mentioned above. Another common tactic (that is used by NPS) is to include a thumbnail image with each link shared. This is the same reason it is preferable to have a thumbnail image for blog posts: <a href="{{< ref "2015-11-13-engage-the-community-with-visual-greatness.md" >}}" target="_blank">Users like images</a>. They draw a user in and usually generate higher click-thru rates than links without images. Other <a href="{{< ref "plain-language-web-writing-tips.md" >}}" target="_blank">blog/content best practices</a> can also be leveraged, such as including bullet points and keeping your sentences and paragraphs succinct.
 
 ## Meet Me on the Corner
 
@@ -51,4 +50,4 @@ So you took the effort to build several fabulous cornerstone content pages based
 
 You should also promote these pages as you would any of your other content by linking to them where appropriate (email newsletters, social media) and cross-linking to them within your own content. I cross-link my Content Corner posts frequently, not as a humblebrag, but to hopefully help users find additional resources on topics of interest. Cornerstone pages perform that same function—but better—because they can provide a user a full range of content based around a single topic.
 
-By following the SEO guidelines as discussed above, these cornerstone pages should also begin to appear more prominently in [search engine results pages (SERP)]({{< link "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}). Again, this allows more users to find your resources and also helps them quickly solve their problems or answer their questions. Have you had success with cornerstone content? Share with us in the comments section._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+By following the SEO guidelines as discussed above, these cornerstone pages should also begin to appear more prominently in [search engine results pages (SERP)]({{< ref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}). Again, this allows more users to find your resources and also helps them quickly solve their problems or answer their questions. Have you had success with cornerstone content? Share with us in the comments section._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

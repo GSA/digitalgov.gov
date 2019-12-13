@@ -5,12 +5,12 @@ title: 'Next SocialGov Summit: Challenge and Prize Competitions'
 summary: 'A public prize spurred Charles Lindbergh to fly across the Atlantic, and this week social media managers across government will help a new generation of prize competitions take flight. These sessions aren&#8217;t just for social media managers who have held a challenge or are'
 authors:
   - jherman
-categories:
-  - Challenges
-  - Social Media
-  - strategy-and-policy
-tag:
-  - ChallengeGov
+topics:
+  - challenges
+  - social-media
+  - strategy
+  - policy
+  - challenge-gov
   - SocialGov
 ---
 
@@ -51,7 +51,7 @@ tag:
     </p>
 
 <p dir="ltr">
-  Also, the we recently featured a post &#8220;<a title="Key to Successful Prize Competitions: Define Your Problem Statement" href="{{< link "2013-11-13-key-to-successful-prize-competitions-define-your-problem-statement.md" >}}">Key to Successful Prize Competitions: Define your Problem Statement</a>,&#8221; highlighting how failing to properly define your problem up front can result in lower participation and submissions that don’t actually solve your issue.
+  Also, the we recently featured a post &#8220;<a title="Key to Successful Prize Competitions: Define Your Problem Statement" href="{{< ref "2013-11-13-key-to-successful-prize-competitions-define-your-problem-statement.md" >}}">Key to Successful Prize Competitions: Define your Problem Statement</a>,&#8221; highlighting how failing to properly define your problem up front can result in lower participation and submissions that don’t actually solve your issue.
 </p>
 
 <p dir="ltr">

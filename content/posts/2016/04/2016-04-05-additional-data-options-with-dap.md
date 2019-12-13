@@ -5,18 +5,17 @@ title: Additional Data Options With DAP
 summary: 'Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP.'
 authors:
   - ilee
-categories:
-  - Code
-  - Data
-  - Metrics
-  - Monthly Theme
-  - Our Work
-tag:
+topics:
+  - code
+  - data
+  - metrics
+  - monthly-theme
+  - our-work
   - analytics
   - code
-  - DAP
+  - dap
   - data
-  - Digital Analytics Program
+  - digital-analytics-program
   - metrics
 ---
 

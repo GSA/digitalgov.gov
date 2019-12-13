@@ -5,34 +5,33 @@ title: '2015 Customer Service Trends: a Mid-Year Update'
 summary: 'Earlier this year, we published 15 Government Customer Service Trends for 2015. We’re halfway through the year now&mdash;how are these trends holding up? 1. Centralized Customer Offices A few agencies have created centralized customer offices, while others question the need for a single organization that focuses on the customer. As the public’s overall satisfaction with'
 authors:
   - martha-dorris
-categories:
-  - Managing Digital
-  - UX
-tag:
+topics:
+  - product-management
+  - ux
   - agile
-  - content syndication
+  - content-syndication
   - COPE
-  - Customer Experience
-  - customer satisfaction
-  - customer service
-  - Digital Analytics Program
-  - Federal Emergency Management Agency
-  - FEMA
+  - cx
+  - customer-satisfaction
+  - customer-service
+  - digital-analytics-program
+  - federal-emergency-management-agency
+  - fema
   - mobile
-  - mobile apps
+  - mobile-apps
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - Personas
+  - personas
   - Smithsonian Institution
-  - social media
+  - social-media
   - US Department of Veterans Affairs
-  - user centered design
+  - user-centered-design
   - VA
 ---
 
-{{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 
+{{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}}
 
-Earlier this year, we published [15 Government Customer Service Trends for 2015]({{< link "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}). We’re halfway through the year now—how are these trends holding up?
+Earlier this year, we published [15 Government Customer Service Trends for 2015]({{< ref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}). We’re halfway through the year now—how are these trends holding up?
 
 ## 1. Centralized Customer Offices
 
@@ -40,11 +39,11 @@ A few agencies have created centralized customer offices, while others question 
 
 ## 2. Focus on Digital Business Strategies
 
-With the creation of the U.S. Digital Service and digital service teams within federal agencies, agencies are beginning to use [agile business processes]({{< link "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}) and [user centered design]({{< link "2015-01-27-7-ways-to-ignite-user-centered-design-at-your-agency.md" >}}) to change the way they deliver services and products. As they prove their value, agencies will continue to abandon slow and costly waterfall development for agile methods, saving time and money.
+With the creation of the U.S. Digital Service and digital service teams within federal agencies, agencies are beginning to use [agile business processes]({{< ref "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}) and [user centered design]({{< ref "2015-01-27-7-ways-to-ignite-user-centered-design-at-your-agency.md" >}}) to change the way they deliver services and products. As they prove their value, agencies will continue to abandon slow and costly waterfall development for agile methods, saving time and money.
 
 ## 3. Support for Customer-Focused Initiatives
 
-The [Customer Service Cross-Agency Priority](http://www.performance.gov/node/3400/view?view=public#overview) (CAP) goal facilitates the creation of platforms and tools to assist agencies in launching customer-focused initiatives. With continued access to free/low-cost analytics tools, this trend will continue. Programs such as the [Digital Analytics Program]({{< link "/dap/" >}}) (DAP), with key performance indicators and customer satisfaction data, as well as the newly piloted [Federal Feedback Button]({{< link "2015-05-29-a-conversation-with-omb-on-customer-service.md" >}}), will help agencies make meaningful, data-driven decisions when launching customer-focused initiatives.
+The [Customer Service Cross-Agency Priority](http://www.performance.gov/node/3400/view?view=public#overview) (CAP) goal facilitates the creation of platforms and tools to assist agencies in launching customer-focused initiatives. With continued access to free/low-cost analytics tools, this trend will continue. Programs such as the [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}}) (DAP), with key performance indicators and customer satisfaction data, as well as the newly piloted [Federal Feedback Button]({{< ref "2015-05-29-a-conversation-with-omb-on-customer-service.md" >}}), will help agencies make meaningful, data-driven decisions when launching customer-focused initiatives.
 
 ## 4. Acceleration of Mobile Services
 
@@ -52,11 +51,11 @@ Currently, the [federal government has hundreds of mobile apps](https://www.usa.
 
 ## 5. Service via Social Media
 
-Through the [Social Media Registry]({{< link "u-s-digital-registry.md" >}}), agencies can register their official social media accounts so that the public can validate their authenticity when receiving information. This is especially important during emergency situations, when the Federal Emergency Management Agency, the National Oceanic and Atmospheric Administration, and other agencies share information to keep people safe and healthy during disasters, [bad weather]({{< link "2015-05-06-the-api-briefing-be-prepared-with-the-federal-emergency-management-agencys-mobile-app.md" >}}), or [emergency response efforts]({{< link "2015-06-11-when-catastrophe-strikes-provide-support-samhsas-disaster-response-app.md" >}}).
+Through the [Social Media Registry]({{< ref "service_us-digital-registry.md" >}}), agencies can register their official social media accounts so that the public can validate their authenticity when receiving information. This is especially important during emergency situations, when the Federal Emergency Management Agency, the National Oceanic and Atmospheric Administration, and other agencies share information to keep people safe and healthy during disasters, [bad weather]({{< ref "2015-05-06-the-api-briefing-be-prepared-with-the-federal-emergency-management-agencys-mobile-app.md" >}}), or [emergency response efforts]({{< ref "2015-06-11-when-catastrophe-strikes-provide-support-samhsas-disaster-response-app.md" >}}).
 
-## 6. Contact Centers Remain a Key Channel {{< legacy-img src="2015/04/600-x-330-Call-center-Androsov-Konstantin-iStock-Thinkstock-ThinkstockPhotos-93536394.jpg" alt="Call center" caption="" >}} 
+## 6. Contact Centers Remain a Key Channel {{< legacy-img src="2015/04/600-x-330-Call-center-Androsov-Konstantin-iStock-Thinkstock-ThinkstockPhotos-93536394.jpg" alt="Call center" caption="" >}}
 
-Contact centers are still an important channel, and the government must “up their game” on how they [deliver services through contact centers]({{< link "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}}). Recently, the Department of Veterans Affairs announced a goal to create a single 1-800 number for veterans, instead of making veterans call different numbers for medical appointments, hearing aids, prosthetics, etc. This is not only more efficient for the government, it will eliminate frustration and confusion for veterans trying to find the correct number for different services. New features such as “call back” and [social media]({{< link "2015-04-24-meeting-customer-needs-through-social-media.md" >}}) marketing make contact centers one of the most important channels to improve government customer service. [Contact center data can even help you identify and correct problems on your website]({{< link "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}}), enabling a better customer experience for website visitors.
+Contact centers are still an important channel, and the government must “up their game” on how they [deliver services through contact centers]({{< ref "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}}). Recently, the Department of Veterans Affairs announced a goal to create a single 1-800 number for veterans, instead of making veterans call different numbers for medical appointments, hearing aids, prosthetics, etc. This is not only more efficient for the government, it will eliminate frustration and confusion for veterans trying to find the correct number for different services. New features such as “call back” and [social media]({{< ref "2015-04-24-meeting-customer-needs-through-social-media.md" >}}) marketing make contact centers one of the most important channels to improve government customer service. [Contact center data can even help you identify and correct problems on your website]({{< ref "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}}), enabling a better customer experience for website visitors.
 
 ## 7. Customer Experience Culture
 
@@ -68,11 +67,11 @@ GSA has begun piloting a system to gather in-person feedback at locations across
 
 ## 9. Data Collection and Measurement
 
-The [Digital Analytics Program (DAP)]({{< link "/dap/" >}}) currently runs on 4,000 websites, allowing agencies to monitor website usage and other key performance indicators such as visits, bounce rate, time on site, device type, and much more. DAP will soon expand to include customer satisfaction surveys, giving agencies the ability to view integrated KPI and satisfaction data. In addition, the public can now monitor real-time traffic on government websites through [analytics.usa.gov](https://analytics.usa.gov/).
+The [Digital Analytics Program (DAP)]({{< ref "/guide/dap/_index.md" >}}) currently runs on 4,000 websites, allowing agencies to monitor website usage and other key performance indicators such as visits, bounce rate, time on site, device type, and much more. DAP will soon expand to include customer satisfaction surveys, giving agencies the ability to view integrated KPI and satisfaction data. In addition, the public can now monitor real-time traffic on government websites through [analytics.usa.gov](https://analytics.usa.gov/).
 
 ## 10. Deliver the Same Answers via All Channels
 
-An integrated experience is an important aspect of satisfaction. As agencies publish more content in an open, shareable manner, it then becomes available for reuse by contact center agents to respond to email, phone and chat inquiries, as well as for customer self-service on the Web. This “[create once, publish everywhere]({{< link "2015-04-13-the-content-corner-structured-content-challenges-and-lessons-learned.md" >}})” model means that there is one authoritative source for information, so people get the same answer, no matter which channel they choose. For example, USA.gov just launched an [adaptive content platform](https://www.usa.gov/) which will consume content from other agencies, as well as syndicate USA.gov content out to other government and third party sites. This will create a more robust and content-rich site, delivering information and services directly to customers where they are.
+An integrated experience is an important aspect of satisfaction. As agencies publish more content in an open, shareable manner, it then becomes available for reuse by contact center agents to respond to email, phone and chat inquiries, as well as for customer self-service on the Web. This “[create once, publish everywhere]({{< ref "2015-04-13-the-content-corner-structured-content-challenges-and-lessons-learned.md" >}})” model means that there is one authoritative source for information, so people get the same answer, no matter which channel they choose. For example, USA.gov just launched an [adaptive content platform](https://www.usa.gov/) which will consume content from other agencies, as well as syndicate USA.gov content out to other government and third party sites. This will create a more robust and content-rich site, delivering information and services directly to customers where they are.
 
 ## 11. High-Impact, High-Profile CX Initiatives
 
@@ -80,7 +79,7 @@ Agencies are starting to use more customer and program data to identify issues a
 
 ## 12. Personas and Journey Mapping
 
-[Personas]({{< link "2015-01-09-personas-101.md" >}}) are behavior-based descriptions of the primary customers that use a site or service. Several agencies have created personas and customer journey maps to better understand the customer’s actual experience as they navigate government information and services. The VA, for example, interviewed veterans throughout the country and identified the following personas:
+[Personas]({{< ref "2015-01-09-personas-101.md" >}}) are behavior-based descriptions of the primary customers that use a site or service. Several agencies have created personas and customer journey maps to better understand the customer’s actual experience as they navigate government information and services. The VA, for example, interviewed veterans throughout the country and identified the following personas:
 
   * Still Serving
   * Day-by-Day
@@ -90,7 +89,7 @@ Agencies are starting to use more customer and program data to identify issues a
   * Forging Ahead
   * In Transition
 
-[Sarah Brooks recently discussed the VA’s efforts around customer research]({{< link "2015-05-29-getting-to-know-your-users-tips-and-tricks-from-veterans-affairs.md" >}}). The personas they developed will drive efforts to improve the experience veterans have when they need benefits or medical attention. The [USA.gov team is also using personas]({{< link "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}}) to inform their site redesign.
+[Sarah Brooks recently discussed the VA’s efforts around customer research]({{< ref "2015-05-29-getting-to-know-your-users-tips-and-tricks-from-veterans-affairs.md" >}}). The personas they developed will drive efforts to improve the experience veterans have when they need benefits or medical attention. The [USA.gov team is also using personas]({{< ref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}}) to inform their site redesign.
 
 ## 13. Enterprise CRM
 

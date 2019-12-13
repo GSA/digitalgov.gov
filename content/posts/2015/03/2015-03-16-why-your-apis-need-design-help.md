@@ -5,24 +5,23 @@ title: Why Your APIs Need Design Help
 summary: ' Anything built should be built right. It doesn&#8217;t matter if it’s built of wood, carbon nanotubes or code. So it’s encouraging that the practice of User-Centered Design&mdash;getting customer feedback at every stage of a project&mdash;is catching on with'
 authors:
   - jonathan-rubin
-categories:
-  - API
-  - Code
-  - Monthly Theme
-  - UX
-tag:
-  - API
-  - API keys
+topics:
+  - api
+  - code
+  - monthly-theme
+  - ux
+  - api
+  - api-keys
   - CFPB
   - Consumer Financial Protection Bureau
-  - FDA
+  - fda
   - GitHub
   - json
-  - US Food and Drug Administration
+  - us-food-and-drug-administration
   - usability
-  - user centered design
-  - user experience
-  - UX
+  - user-centered-design
+  - user-experience
+  - ux
 ---
 
 {{< legacy-img src="2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" >}}
@@ -51,7 +50,7 @@ Once again, use the tools and conventions that people are expecting and familiar
 
 #### 5. Offer sample code
 
-Let people test drive the car before investing in it. Providing interactive documentation where they can test the code gives them that ability, and shows that you are confident in your API. A nice example of this is the [OpenFDA API](https://open.fda.gov/), and here’s a [usability case study]({{< link "2014-08-22-api-usability-case-study-openfda.md" >}}) that goes into detail why we like this one so much.
+Let people test drive the car before investing in it. Providing interactive documentation where they can test the code gives them that ability, and shows that you are confident in your API. A nice example of this is the [OpenFDA API](https://open.fda.gov/), and here’s a [usability case study]({{< ref "2014-08-22-api-usability-case-study-openfda.md" >}}) that goes into detail why we like this one so much.
 
 #### 6. Pay attention to details
 

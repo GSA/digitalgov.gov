@@ -8,9 +8,8 @@ authors:
   - justin-koufopoulos
   - angela-colter
   - adam-drake
-categories:
-  - managing-digital
-tag:
+topics:
+  - product-management
   - 18f
   - pif
 featured_image:

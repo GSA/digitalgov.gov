@@ -5,19 +5,18 @@ title: 'Under the Hood: Building a New College Scorecard with Students'
 summary: 'Summary: How the U.S. Digital Service worked with students, families, schools, developers and teams across the federal government to rebuild the new College Scorecard tool. My niece is a smart kid. I’m biased, but I swear she is. And just as I started working on the College Scorecard project as the U.S. Digital Service’s new'
 authors:
   - lisa-gelobter
-categories:
-  - Code
-  - Data
-tag:
-  - 18F
-  - agile
-  - API
+topics:
+  - code
   - data
-  - open data
+  - 18f
+  - agile
+  - api
+  - data
+  - open-data
   - prototype
   - US Department of Education
   - US Digital Service
-  - user experience
+  - user-experience
 ---
 
 > Summary: How the U.S. Digital Service worked with students, families, schools, developers and teams across the federal government to rebuild the new College Scorecard tool.

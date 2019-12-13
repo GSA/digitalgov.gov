@@ -3,19 +3,18 @@ slug: mobile-webinar-series-recap-responsive-design
 date: 2012-07-02 16:19:34 -0400
 title: 'Mobile Webinar Series Recap: Responsive Design'
 summary: 'Some agencies are turning to responsive design to support device-agnostic content delivery which was called for in the recently released Digital Innovation Strategy. Last week, GSA&#8217;s Mobile Program Management Office held a responsive design webinar in conjunction with DigitalGov University outlining agency experiences with responsive design. Agency experts covered responsive design technical approaches and strategy and you can'
-categories:
-  - Code
-  - Design
-  - Mobile
-tag:
+topics:
+  - code
+  - design
+  - mobile
   - mobile-first
   - Recaps
-  - responsive web design
+  - responsive-web-design
 ---
 
 Some agencies are turning to responsive design to support device-agnostic content delivery which was called for in the recently released [Digital Innovation Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Last week, GSA&#8217;s Mobile Program Management Office held a responsive design webinar in conjunction with DigitalGov University outlining agency experiences with responsive design.
 
-Agency experts covered responsive design technical approaches and strategy and you can listen to the whole webinar below. One topic interesting to listeners was why agencies decided to implement [responsive design]({{< link "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"). Below we have highlighted each presenter&#8217;s reasoning for pursing responsive design.
+Agency experts covered responsive design technical approaches and strategy and you can listen to the whole webinar below. One topic interesting to listeners was why agencies decided to implement [responsive design]({{< ref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"). Below we have highlighted each presenter&#8217;s reasoning for pursing responsive design.
 
 [AIDS.gov noted](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/07/aids.gov-responsive-design.ppt) (_PPT, 6.5 MB, 18 pages_) that data collected on their website pointed to a need for a mobile strategy like responsive design. Specifically:
 

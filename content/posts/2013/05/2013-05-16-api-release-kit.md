@@ -5,13 +5,12 @@ title: API Release Kit
 summary: 'These are the elements you should include in your federal API release. Homepage Each of your public APIs needs a page to serve as a hub to provide access to all information and tools associated with it. By using the page’s sidebar, footer, and sub pages, you can directly include or link to each of'
 authors:
   - gray-brooks
-categories:
-  - API
-  - Code
-tag:
-  - API
+topics:
+  - api
+  - code
+  - api
   - Census
-  - EPA
+  - epa
   - FCC
   - Federal Register
   - National Weather Service

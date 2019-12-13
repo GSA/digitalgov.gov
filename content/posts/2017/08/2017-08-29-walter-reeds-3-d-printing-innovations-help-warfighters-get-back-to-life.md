@@ -8,12 +8,11 @@ featured_image:
   alt: 'Peter Liacouras, Ph.D., demonstrates computer software that allows him to manipulate and cut a custom cranial plate design.'
 authors:
   - yolanda-arrington
-categories:
-  - Code
-  - Design
-  - User Testing and Research
-tag:
-  - 3D printing
+topics:
+  - code
+  - design
+  - user-testing-and-research
+  - 3d-printing
   - DoD
   - US Department of Veterans Affairs
   - United States Department of Defense

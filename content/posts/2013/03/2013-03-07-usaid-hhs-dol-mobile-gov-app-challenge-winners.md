@@ -3,18 +3,17 @@ slug: usaid-hhs-dol-mobile-gov-app-challenge-winners
 date: 2013-03-07 11:21:19 -0400
 title: 'USAID, HHS & DOL Mobile Gov App Challenge Winners'
 summary: One way federal agencies create Mobile Gov products is through third party development. Some agencies use platforms like Challenge.gov to get the word out to developers and there have been 3 mobile app challenge awards so far this
-categories:
-  - Challenges
-  - Mobile
-tag:
+topics:
+  - challenges
+  - mobile
   - DOL
   - HHS
-  - mobile apps
-  - mobile gov
-  - Thursday Mobile Products
+  - mobile-apps
+  - mobile-gov
+  - thursday-mobile-products
   - US Department of Labor
-  - United States Department of Health and Human Services
-  - USAID
+  - united-states-department-of-health-and-human-services
+  - usaid
 ---
 
 [{{< legacy-img src="2013/03/heart-health-mobile-app-screen.jpg" alt="Heart Healthy App Screen showing completed mini game with scores for four different sections." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/03/heart-health-mobile-app-screen.jpg)One way federal agencies create Mobile Gov products is through third party development. Some agencies use platforms like [Challenge.gov](http://challenge.gov/) to get the word out to developers and there have been 3 mobile app challenge awards so far this year.

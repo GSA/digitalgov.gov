@@ -5,8 +5,6 @@ summary: 'Join the U&#46;S&#46; Web Design System team as we talk through the re
 featured_image:
   uid: uswds-2-illio-feature-image
   alt: ''
-event_type:
-  - zoom
 date: 2019-05-23 14:30:00 -0500
 end_date: 2019-05-23 15:30:00 -0500
 event_organizer: DigitalGov University

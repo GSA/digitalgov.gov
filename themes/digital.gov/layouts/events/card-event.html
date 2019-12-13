@@ -1,0 +1,37 @@
+<div class="card card-event-promo card-linked" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
+
+  <div class="grid-row grid-gap-2">
+
+    <div class="grid-col-9 tablet-lg:grid-col-10">
+      {{- if .Params.kicker -}}
+      <div class="kicker">{{- .Params.kicker -}}</div>
+      {{- end -}}
+      <h3>
+        <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" rel="bookmark">{{ .Title | markdownify }}</a>
+      </h3>
+      {{- if .Params.deck -}}
+      <div class="deck">{{ .Params.deck | markdownify }}</div>
+      {{- else -}}
+      <div class="summary">{{ .Params.summary | markdownify }}</div>
+      {{- end -}}
+
+      {{- if .Params.host -}}
+      <div class="host">Hosted by {{ .Params.host | markdownify }}</div>
+      {{- end -}}
+
+      <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+    </div>
+
+    <div class="grid-col-3 tablet-lg:grid-col-2 order-first">
+
+      <div class="date">
+        <span class="date-mo">{{- dateFormat "Jan" .Date -}}</span>
+        <span class="date-day">{{- dateFormat "02" .Date -}}</span>
+        <a class="btn btn-register" href="{{- .Params.registration_url -}}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{- .Params.registration_url -}}', 'REGISTER NOW');">Register</a>
+      </div>
+
+    </div>
+  </div>
+  <a class="overlay" href="{{- .Permalink -}}" title="{{- .Title | markdownify -}}"><span></span></a>
+
+</div>

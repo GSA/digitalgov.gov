@@ -1,0 +1,16 @@
+// Styles for the main resources page
+
+#resources {
+  .list-collection{
+    @include u-margin-bottom(2);
+    @include u-border(0);
+    h2 {
+      @include u-font('sans', 'md');
+    }
+  }
+
+  .in-page{
+    @include u-bg('gray-warm-3');
+    @include u-text('indigo-80');
+  }
+}

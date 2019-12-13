@@ -6,10 +6,9 @@ summary: Driving visitors to a destination means reaching your users where they 
 authors:
   - victoria-wales
   - lmartinez
-categories:
-  - Content
-tag:
-  - content strategy
+topics:
+  - content
+  - content-strategy
   - GobiernoUSAgov
   - multilingual
 ---
@@ -20,13 +19,13 @@ Driving visitors to a destination means reaching your users where they are at.
 
 In 2005, as part of the greater USA.gov marketing strategy, [USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) launched an email program. These communications initially took the form of short blurbs that directed people to important site content and promoted other government information hosted by various federal agencies.
 
-From disaster preparedness, to health care, to now Twitter chats and [Google Hangouts]({{< link "2014-11-19-young-entrepreneurs-hang-out-with-government-virtually-and-in-spanish.md" >}})… our email strategy aims to provide timely messages to the public via the channel of their choice.
+From disaster preparedness, to health care, to now Twitter chats and [Google Hangouts]({{< ref "2014-11-19-young-entrepreneurs-hang-out-with-government-virtually-and-in-spanish.md" >}})… our email strategy aims to provide timely messages to the public via the channel of their choice.
 
 ## Curating Content and Knowing Our Audience
 
 We understood early on that we needed to improve the way we reached our audiences. And by 2005, personal email accounts had become as mainstream as Facebook accounts are today. Ten years and tens of thousands of emails later, this communication channel is every bit as—and sometimes more—effective as its modern social media counterparts.
 
-Email is a great way to nurture a captive audience. Your message is right in their personal inbox. We also want to reach people anytime, anywhere: many people—[over 50% by some counts](https://litmus.com/blog/53-of-emails-opened-on-mobile-outlook-opens-decrease-33)—and certainly the [Hispanic community]({{< link "2014-09-30-trends-on-tuesday-meet-the-mobile-power-users.md" >}}) are reading emails on their phones.
+Email is a great way to nurture a captive audience. Your message is right in their personal inbox. We also want to reach people anytime, anywhere: many people—[over 50% by some counts](https://litmus.com/blog/53-of-emails-opened-on-mobile-outlook-opens-decrease-33)—and certainly the [Hispanic community]({{< ref "2014-09-30-trends-on-tuesday-meet-the-mobile-power-users.md" >}}) are reading emails on their phones.
 
 Moreover, it has helped us learn a lot about our users, how they behave, what they want or don’t want, and what resonates with them. As the first government account to do email marketing in Spanish, we had a lot to learn, but we also knew that this gave us the space to do just that.
 
@@ -45,7 +44,7 @@ Below is an example of a “manual send” email sent in late May about a nation
 
 ## Experiment and Measure
 
-We evaluate every message we send by reviewing our data. Unique open rates—both numbers and percentages—help us evaluate what content performed well. We know, for example, that we have a lot of visitors to our USAGov en Espa&#241;ol site seeking information on immigration. We align that information with our email sends, and the open rates and click-through rates prove the value of knowing what people are interested in. At the end of every month, our internal Performance Measurement Team provides us with a detailed report of how our messages performed. This is valuable information that informs our [content strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) moving forward.
+We evaluate every message we send by reviewing our data. Unique open rates—both numbers and percentages—help us evaluate what content performed well. We know, for example, that we have a lot of visitors to our USAGov en Espa&#241;ol site seeking information on immigration. We align that information with our email sends, and the open rates and click-through rates prove the value of knowing what people are interested in. At the end of every month, our internal Performance Measurement Team provides us with a detailed report of how our messages performed. This is valuable information that informs our [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) moving forward.
 
 We combine the data from email behavior with data from website visits and [calls to our contact center](http://www.usa.gov/phone.shtml), [1-844-USA-GOV1](tel:1-844-872-4681). All of these factors determine what we take our time to write and send to our email lists.
 
@@ -65,6 +64,6 @@ These are just a few of the challenges we considered, but with the right collabo
 
 ## The Foreseeable Future
 
-In the next few months, we will be deploying an even more cohesive bilingual experience by aiming to send emails from other agencies directly via GobiernoUSA.gov. Right now, we cross-promote and include relevant links and messages, but in the future, we hope to send full emails that were created by our partners. We’ll be making content marketing decisions based on what we know our audience needs: clear, timely, interesting and useful information. We’ll be incorporating more messaging in English about available information in Spanish, and vice versa where appropriate, [targeting a bicultural and bilingual audience]({{< link "2014-12-19-reaching-out-to-deliver-within-crowdsourcing-internal-agency-projects.md" >}}). This includes Hispanics who prefer English, and millennials who prefer English or Spanish information.
+In the next few months, we will be deploying an even more cohesive bilingual experience by aiming to send emails from other agencies directly via GobiernoUSA.gov. Right now, we cross-promote and include relevant links and messages, but in the future, we hope to send full emails that were created by our partners. We’ll be making content marketing decisions based on what we know our audience needs: clear, timely, interesting and useful information. We’ll be incorporating more messaging in English about available information in Spanish, and vice versa where appropriate, [targeting a bicultural and bilingual audience]({{< ref "2014-12-19-reaching-out-to-deliver-within-crowdsourcing-internal-agency-projects.md" >}}). This includes Hispanics who prefer English, and millennials who prefer English or Spanish information.
 
-We also plan to create more action-oriented emails that are more geo-specific and targeted to [personas]({{< link "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}). Segmentation is something we’re honing as a platform strategy, so that we may serve the public in the most efficient way possible. 
+We also plan to create more action-oriented emails that are more geo-specific and targeted to [personas]({{< ref "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}). Segmentation is something we’re honing as a platform strategy, so that we may serve the public in the most efficient way possible. 

@@ -5,11 +5,10 @@ title: Shedding Light on Underserved Users through Research
 summary: 'How user interviews helped spotlight the needs of a previously forgotten group.  We may not like to admit it, but, most web services or sites have users that (for whatever reason) just aren’t well understood&mdash;and in turn, not well served. Conducting user interviews and making sure you get good participation from those groups can help'
 authors:
   - tyrus-manuel
-categories:
-  - User Testing and Research
-tag:
-  - Personas
-  - user experience
+topics:
+  - user-testing-and-research
+  - personas
+  - user-experience
   - user research
 ---
 
@@ -45,4 +44,4 @@ What I also found is that once I reintroduced this user group to the conversatio
 
 Time for some reflection: Do you have that user group that doesn’t get the equal attention it should? Are they hard to write content for? Do you struggle with what platform or channel is best suited for them? Don’t give up, don’t let them just slip off your radar. I suggest doing the opposite and reach out to start scheduling some user interviews. Talk to them about your challenges and their challenges, understand them better as humans and users in hopes that you can then better understand how to support them and communicate with them.
 
-_{{< img src="Ty-Manuel-new-pic" alt="Ty Manuel, IT Specialist, the Administrative Office of the United States Courts." align="left" >}}[Tyrus (Ty) Manuel]({{< link "author/tymanuel/" >}}) is an IT Specialist  the Administrative Office of the United States Courts in Washington D.C. Ty is a self-proclaimed geek who loved comic books and sci-fi before they became the cultural norm, and is very excited about the new Star Trek series, Discovery, and a new female Doctor for Doctor Who._
+_{{< img src="Ty-Manuel-new-pic" alt="Ty Manuel, IT Specialist, the Administrative Office of the United States Courts." align="left" >}}[Tyrus (Ty) Manuel]({{< ref "/authors/tyrus-manuel" >}}) is an IT Specialist  the Administrative Office of the United States Courts in Washington D.C. Ty is a self-proclaimed geek who loved comic books and sci-fi before they became the cultural norm, and is very excited about the new Star Trek series, Discovery, and a new female Doctor for Doctor Who._

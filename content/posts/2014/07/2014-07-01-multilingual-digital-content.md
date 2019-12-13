@@ -6,13 +6,12 @@ summary: 'Federal agencies are required to provide meaningful access to governme
 authors:
   - lgodfrey
   - lmartinez
-categories:
-  - Content
-tag:
+topics:
+  - content
   - ANLE
-  - CDC
+  - cdc
   - Census
-  - Centers for Disease Control and Prevention
+  - centers-for-disease-control-and-prevention
   - DOJ
   - GobiernoUSAgov
   - HUD
@@ -49,15 +48,15 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 
 ## Tools to Make it Happen
 
- * {{< legacy-img src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}} [Top 10 Best Practices for Multilingual Websites]({{< link "top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")
+ * {{< legacy-img src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}} [Top 10 Best Practices for Multilingual Websites]({{< ref "top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")
  * [Official Directory of Federal Agency Names in Spanish](http://www.usa.gov/gobiernousa/directorios/federal/index.shtml)
- * [Bilingual Glossaries, Dictionaries, and Style Guides]({{< link "bilingual-glossaries-dictionaries-style-guides.md" >}} "Spanish Language Style Guide and Glossaries")—Browse the Guide and learn about Spanish language use of capitalization, abbreviations, punctuation, diacritics and much more. Consult glossaries on health, technology, government terminology and more!
- * [Lost in Translation]({{< link "2012-10-01-automated-translation-good-solution-or-not.md" >}} "Automated Translation—Good Solution or Not?")
+ * [Bilingual Glossaries, Dictionaries, and Style Guides]({{< ref "bilingual-glossaries-dictionaries-style-guides.md" >}} "Spanish Language Style Guide and Glossaries")—Browse the Guide and learn about Spanish language use of capitalization, abbreviations, punctuation, diacritics and much more. Consult glossaries on health, technology, government terminology and more!
+ * [Lost in Translation]({{< ref "2012-10-01-automated-translation-good-solution-or-not.md" >}} "Automated Translation—Good Solution or Not?")
 
 ## Resources
 
 * [Sample Video Editorial and Accessible Guidelines](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc) (MS Word, 56 kb, 2 pages, August 2012)—[USAGov en Espa&#241;ol](https://www.usa.gov/espanol/) (_formerly known as GobiernoUSA.gov_) and [USA.gov](https://www.usa.gov/) developed these guidelines as a roadmap for producing and submitting videos. These guidelines agree with the principles and best practices that guide our YouTube channels.
-* [Multilingual Community of Practice]({{< link "multilingual.md" >}} "Multilingual Community of Practice")—Join this group to share ideas, challenges, and government in Spanish, provides a list of agency names in Spanish and links to each agency&#8217;s Spanish Web pages and contact information.
+* [Multilingual Community of Practice]({{< ref "multilingual.md" >}} "Multilingual Community of Practice")—Join this group to share ideas, challenges, and government in Spanish, provides a list of agency names in Spanish and links to each agency&#8217;s Spanish Web pages and contact information.
 * [Lep.gov](http://www.lep.gov/)—Sponsored by the Federal Interagency Working Group on Limited English Proficiency, this website helps agencies meet requirements of Executive Order 13166 regarding language access.
 * [Language Data by Region](http://arcgis.mla.org/mla/)—The Modern Language Association has created a language map that shows where speakers of 33 languages live in the United States.
 * [Pew Hispanic Center](http://www.pewhispanic.org/)—Nonpartisan research organization that conducts research about the Latino population in the U.S. and its growing impact in society.

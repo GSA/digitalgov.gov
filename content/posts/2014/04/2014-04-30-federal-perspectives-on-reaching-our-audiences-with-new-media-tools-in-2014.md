@@ -5,14 +5,13 @@ title: Federal Perspectives on Reaching Our Audiences with New Media Tools in 20
 summary: AIDS.gov convenes and is guided by the Federal HIV/AIDS Web Council. The Council includes Web/new media leads, subject matter experts, and communication leads representing HIV programs across the U.S. government. Together we use new media to promote federal programs, policies and resources related to HIV.
 authors:
   - miguel-gomez
-categories:
-  - Managing Digital
-  - Mobile
-  - Social Media
-tag:
+topics:
+  - product-management
+  - mobile
+  - social-media
   - National Institute of Allergy and Infectious Diseases
-  - social media
-  - White House
+  - social-media
+  - white-house
 ---
 
 {{< legacy-img src="2014/04/250-x-167-2014-Federal-HIV-AIDS-Web-Council-annual-meeting.jpg" alt="The 2014 Federal HIV/AIDS Web Council Meeting" >}}AIDS.gov convenes and is guided by the Federal HIV/AIDS Web Council. The Council includes Web/new media leads, subject matter experts, and communication leads representing HIV programs across the U.S. government. Together we use new media to promote federal programs, policies and resources related to HIV.
@@ -33,11 +32,11 @@ We were also joined by the Acting Director of the White House Office of Digital 
 
 ## NIAID Experience in Social Media
 
-Tori Garten (Chief, New Media and Policy, Web Policy Branch, Office of Communication Development Relations, NIAID) challenged the Council to broaden our perspectives on social media use to think beyond sharing information and how we work together. She emphasized that social tools change how people communicate and change who has voices. We can now communicate with our audiences in different ways. The communication will depend on each agency’s new media and staff resources, its planning processes and its policies. For some agencies that are not comfortable with social media this may mean having a blog that is informational and doesn’t allow comments—as a starting point. Others might have a two way dialogue on their social media spaces all the way up to multi-organizational tools like [Thunderclap]({{< link "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}}).
+Tori Garten (Chief, New Media and Policy, Web Policy Branch, Office of Communication Development Relations, NIAID) challenged the Council to broaden our perspectives on social media use to think beyond sharing information and how we work together. She emphasized that social tools change how people communicate and change who has voices. We can now communicate with our audiences in different ways. The communication will depend on each agency’s new media and staff resources, its planning processes and its policies. For some agencies that are not comfortable with social media this may mean having a blog that is informational and doesn’t allow comments—as a starting point. Others might have a two way dialogue on their social media spaces all the way up to multi-organizational tools like [Thunderclap]({{< ref "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}}).
 
 ## Moving Ahead: Mobile and Resources
 
-Jacob Parcell (Manager, Mobile Programs, General Services Administration) spoke about responsive Web design and the future of government. Mr. Parcell works in the Digital Services Innovation Center which assists federal agencies with standards, practices, and metrics around Web and mobile design. They work to support implementation of the Digital Government Strategy. GSA has consolidated many of its development resources related to social media, mobile and challenges onto [DigitalGov.gov]({{< link "index.html" >}}). The blog and other resources may interest those outside the USG who are also working on digital innovation.
+Jacob Parcell (Manager, Mobile Programs, General Services Administration) spoke about responsive Web design and the future of government. Mr. Parcell works in the Digital Services Innovation Center which assists federal agencies with standards, practices, and metrics around Web and mobile design. They work to support implementation of the Digital Government Strategy. GSA has consolidated many of its development resources related to social media, mobile and challenges onto [DigitalGov.gov](https://digital.gov/). The blog and other resources may interest those outside the USG who are also working on digital innovation.
 
 These speakers reminded the Council that we need to continue to follow communication trends to reach our audiences. Whether government or in the community, we have a responsibility to respond to our audiences’ communication preferences.
 

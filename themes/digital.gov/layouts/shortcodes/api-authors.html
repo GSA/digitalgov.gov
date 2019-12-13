@@ -1,32 +1,110 @@
-{{- $list := .Site.Data.people.authors -}}
-{{- $length := (len $list) -}}
+{{- partial "core/set-env.html" . -}}
+{{- $list := (where .Site.Pages "Section" "authors") -}}
+{{- $length := len $list -}}
 {
-    "version" : "https://jsonfeed.org/version/1",
-    "title" : "Authors | {{ .Site.Title }}",
-    "home_page_url" : "{{- .Site.BaseURL -}}",
-    "count" : "{{- $length -}}",
-    {{- with .Site.Author.name -}}
-    "author" : {
-        "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
-        "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
-        "avatar": "{{- . | absURL -}}"{{- end -}}
-    },
-    {{- end -}}
-    "items" : [
-      {{- range $index, $value := $list -}} {
-        "{{- $index -}}" : {
-          {{- $len := (len $value) -}}
-          {{ $.Scratch.Set "l" 0 }}
-          {{- range $key, $v := $value -}}
-            {{ $.Scratch.Add "l" 1 }}
-            {{ $l := $.Scratch.Get "l" }}
-            "{{- $key -}}" : "{{- $v -}}"{{ if not (eq $len $l) }}, {{ end }}
+  "version" : "https://jsonfeed.org/version/1",
+  "content" : "authors",
+  "type" : "list",
+  "title" : "Authors | {{ .Site.Title }}",
+  "home_page_url" : "{{- .Site.BaseURL -}}",
+  "count" : "{{- $length }}",
+  {{ with .Site.Author.name -}}
+  "author" : {
+      "name" : "{{- . -}}"{{- with $.Site.Author.url -}},
+      "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
+      "avatar": "{{- . | absURL -}}"{{- end -}}
+  },
+  {{- end -}}
+  "items" : [{
+  {{ range $index, $author := $list -}}
+    {{- if $author.Params.uid -}}
+      "{{- $author.Params.uid -}}" : {
+        {{- if $author.Params.display_name -}}
+        "display_name" : "{{- $author.Params.display_name -}}",
+        {{- end -}}
+        {{- if $author.Params.first_name -}}
+        "first_name" : "{{- $author.Params.first_name -}}",
+        {{- end -}}
+        {{- if $author.Params.last_name -}}
+        "last_name" : "{{- $author.Params.last_name -}}",
+        {{- end -}}
+        {{- if $author.Params.pronoun -}}
+        "pronoun" : "{{- $author.Params.pronoun -}}",
+        {{- end -}}
+        {{- if $author.Params.uid -}}
+        "uid" : "{{- $author.Params.uid -}}",
+        {{- end -}}
+        {{- if $author.Params.email -}}
+        "email" : "{{- $author.Params.email -}}",
+        {{- end -}}
+        {{- if $author.Params.location -}}
+        "location" : "{{- $author.Params.location -}}",
+        {{- end -}}
+        {{- if $author.Params.bio -}}
+        "bio" : "{{- $author.Params.bio -}}",
+        {{- end -}}
+        {{- if $author.Params.bio_url -}}
+        "bio_url" : "{{- $author.Params.bio_url -}}",
+        {{- end -}}
+        {{- if $author.Params.agency -}}
+        "agency" : "{{- $author.Params.agency -}}",
+        {{- end -}}
+        {{- if $author.Params.agency_full_name -}}
+        "agency_full_name" : "{{- $author.Params.agency_full_name -}}",
+        {{- end -}}
+        {{- if $author.Params.github -}}
+        "github" : "{{- $author.Params.github -}}",
+        {{- end -}}
+        {{- if $author.Params.profile_source -}}
+        "profile_source" : "{{- $author.Params.profile_source -}}",
+        {{- end -}}
+        {{- if $author.Params.twitter -}}
+        "twitter" : "{{- $author.Params.twitter -}}",
+        {{- end -}}
+        {{- if $author.Params.facebook -}}
+        "facebook" : "{{- $author.Params.facebook -}}",
+        {{- end -}}
+        {{- if $author.Params.linkedin -}}
+        "linkedin" : "{{- $author.Params.linkedin -}}",
+        {{- end -}}
+        {{- if $author.Params.youtube -}}
+        "youtube" : "{{- $author.Params.youtube -}}",
+        {{- end -}}
+        "branch" : {{- $.Scratch.Get "branch" | jsonify -}},
+        {{- with $author.File -}}
+          "filename" : {{- .LogicalName | jsonify -}},
+        {{- end -}}
+        "filepath" : {{ with $author.File -}}{{- .Path | jsonify -}}{{- end -}},
+        "filepathURL" : {{- with $author.File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        "editpathURL" : {{- with $author.File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+        {{- if .Params.aliases -}}
+        "aliases" : {
+          {{- $aliaslen := .Params.aliases | len -}}
+          {{- $.Scratch.Set "aliascount" 1 -}}
+          {{- range $i, $e := .Params.aliases -}}
+            {{- with $e -}}
+              {{- $aliascount := $.Scratch.Get "aliascount" -}}
+              {{- if eq $aliascount $aliaslen -}}
+                "{{- $i -}}" : "{{- $e -}}"
+              {{- else -}}
+                "{{- $i -}}" : "{{- $e -}}",
+              {{- end -}}
+              {{- $.Scratch.Add "aliascount" 1 -}}
+            {{- end -}}
           {{- end -}}
-        }
-        {{ $.Scratch.Add "i" 1 }}
-        {{ $i := $.Scratch.Get "i" }}
+        },
+        {{- end -}}
+        {{- if $author.Params.weight -}}
+        "weight" : "{{- $author.Params.weight -}}",
+        {{- end -}}
+        "url" : "{{- .Permalink -}}"
+      }{{- $.Scratch.Add "i" 1 -}}
+      {{- $iterator := $.Scratch.Get "i" -}}
+      {{- if not (eq $length $iterator) -}}, {{- end -}}
+    {{- else -}}
+      {{- $.Scratch.Add "i" 1 -}}
+    {{- end -}}
 
-      }{{ if not (eq $length $i) }}, {{ end }}
-      {{- end -}}
-    ]
+  {{ end }}
+  }]
 }

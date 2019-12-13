@@ -5,9 +5,8 @@ title: Software and Apps Challenges
 summary: 'Challenge and prize competitions are one path that federal agencies take to drive innovation and solve mission-centric problems&mdash;whether technical, scientific, or creative. One type of competition is software and apps challenges, where solvers are asked to develop specific software or other code-based technical solutions, such as websites, mobile applications, or algorithms. Here you’ll find tips'
 authors:
   - ktrebon
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - innovation
 ---
 
@@ -41,11 +40,11 @@ A software/apps challenge is when an organization asks the public to create soft
 
 [Panel Discussion: Collaborative Innovation, Algorithm and Big Data Challenges](http://casefoundation.org/videos/collaborative-innovation-algorithm-big-data-challenges-panel-discussion)
 
-[Best practices: Marketing an apps challenge]({{< link "2012-07-09-how-to-implement-an-apps-challenge.md" >}})
+[Best practices: Marketing an apps challenge]({{< ref "2012-07-09-how-to-implement-an-apps-challenge.md" >}})
 
-[Best practices: Post-competition]({{< link "2012-07-09-how-to-improve-an-apps-challenge.md" >}})
+[Best practices: Post-competition]({{< ref "2012-07-09-how-to-improve-an-apps-challenge.md" >}})
 
-[Lessons learned, sample rules, and press clips]({{< link "2012-07-09-how-to-implement-an-apps-challenge.md" >}})
+[Lessons learned, sample rules, and press clips]({{< ref "2012-07-09-how-to-implement-an-apps-challenge.md" >}})
 
 [ChallengePost: App Contest Best Practices](http://post.challengepost.com/app_contest_resources)
 

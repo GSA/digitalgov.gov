@@ -5,19 +5,18 @@ title: 'Microsites, They&#8217;re Bigger Than You Think'
 summary: 'Lately, we have been hearing a lot about microsites&mdash;CDC’s Zika Virus microsite provides up-to-date information on the virus&mdash;but the big question is: What are they? A microsite is a single or small collections of pages that are meant to encourage user interaction while conveying information. A microsite has the power to educate consumers regarding a'
 authors:
   - christen-geiler
-categories:
-  - Content
-tag:
-  - API
-  - CDC
-  - Centers for Disease Control and Prevention
+topics:
+  - content
+  - api
+  - cdc
+  - centers-for-disease-control-and-prevention
   - DOT
   - GobiernoUSAgov
   - United States Department of Transportation
-  - USAgov
+  - usagov
 ---
 
-Lately, we have been hearing a lot about microsites—[CDC’s Zika Virus microsite provides up-to-date information on the virus]({{< link "2016-02-11-microsites-keep-your-audience-updated-on-outbreaks.md" >}})—but the big question is:
+Lately, we have been hearing a lot about microsites—[CDC’s Zika Virus microsite provides up-to-date information on the virus]({{< ref "2016-02-11-microsites-keep-your-audience-updated-on-outbreaks.md" >}})—but the big question is:
 
 ## What are they?
 

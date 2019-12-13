@@ -6,18 +6,17 @@ summary: 'Federal agencies are currently hard at work developing revised Open Go
 authors:
   - nick-sinai
   - corinna-zarek
-categories:
-  - Challenges
-  - Data
-  - Social Media
-tag:
+topics:
+  - challenges
+  - data
+  - social-media
   - CFPB
-  - challenges and prize competitions
+  - challenges-and-prize-competitions
   - DOT
   - HHS
-  - NASA
+  - nasa
   - NRC
-  - open government
+  - open-government
 ---
 
 [{{< legacy-img src="2014/03/OPENGOV\_Featured\_301x212-250x176.jpg" alt="OpenGov logo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/OPENGOV_Featured_301x212.jpg)Federal agencies are currently hard at work developing revised Open Government Plans—blueprints that are published every two years, highlighting agency progress towards making their work more transparent, participatory, and collaborative, and outlining new open government commitments going forward.

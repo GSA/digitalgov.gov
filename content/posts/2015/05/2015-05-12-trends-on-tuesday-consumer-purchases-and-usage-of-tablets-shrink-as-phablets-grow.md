@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: Consumer Purchases and Usage of Tablets Shrink, as Ph
 summary: ' Consumers are buying less tablets and more phablets, especially in the U.S. Three recent research reports released in the past week from IDC, Flurry and Kantar each point to a shift in consumer purchasing habits over the past quarter, showing that consumers'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 1
-  - Trends on Tuesday
+  - mobile
+  - mobile-ux-guideline-1
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/05/500-x-348-Android-chart-tumblr\_inline\_nnkzc31AAT1tpd7xq_500.jpg" alt="Distribution of Android Device Models by Form Factor from Flurry Analytics." >}}
@@ -31,6 +30,6 @@ While phablet purchases have been growing, [IDC’s report says that tablet grow
 
 &#8220;The market slowdown that we witnessed last quarter is continuing to impact the tablet segment, but we see some growth areas that are starting to materialize,&#8221; said Jean Philippe Bouchard, a research expert on tablets at International Data Corporation. &#8220;Cellular-enabled tablets are outgrowing the rest of the market, providing an additional revenue stream for OEMs and mobile operators. In addition to driving higher usage than Wi-Fi-only tablets, cellular-enabled tablets also help position the segment as true mobile solutions rather than stay-at-home devices.&#8221;
 
-For government agencies, this continues to echo the drum beat that [we need to move swiftly to mobile-friendly sites]({{< link "2015-05-05-trends-on-tuesday-u-s-mobile-only-internet-users-now-outnumber-desktop-only-users.md" >}}) that [offer flexible designs]({{< link "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}) from [small phones to all sizes of tablets and phablets]({{< link "2015-01-13-trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal.md" >}}) to [serve our constituents]({{< link "2015-04-07-trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information.md" >}}). If you’re preparing to move your digital properties to be mobile-friendly, [check out these resources]({{< link "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}}).**
+For government agencies, this continues to echo the drum beat that [we need to move swiftly to mobile-friendly sites]({{< ref "2015-05-05-trends-on-tuesday-u-s-mobile-only-internet-users-now-outnumber-desktop-only-users.md" >}}) that [offer flexible designs]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}) from [small phones to all sizes of tablets and phablets]({{< ref "2015-01-13-trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal.md" >}}) to [serve our constituents]({{< ref "2015-04-07-trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information.md" >}}). If you’re preparing to move your digital properties to be mobile-friendly, [check out these resources]({{< ref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}}).**
   
 **

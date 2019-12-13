@@ -5,22 +5,21 @@ title: Challenge.gov Honors Federal Agencies, Staff for Raising the Bar on Publi
 summary: The biggest advocates for the use of challenges in the public sector gathered at the General Services Administration (GSA) headquarters, October 8, to acknowledge the remarkable rise of a community that has grown steadily in number and influence over the past five years. More than 300 federal employees representing agencies spanning government attended in person
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - Bureau of Reclamation
-  - ChallengeGov
+  - challenge-gov
   - Federal Trade Commission
   - FTC
   - HUD
-  - NASA
+  - nasa
   - National Institute of Standards and Technology
   - NIST
-  - prizes and competitions
-  - US Agency for International Development
+  - prizes-and-competitions
+  - us-agency-for-international-development
   - United States Department of Energy
   - United States Department of Housing and Urban Development
-  - USAID
+  - usaid
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-3953.jpg" alt="Audience" caption="" >}} 

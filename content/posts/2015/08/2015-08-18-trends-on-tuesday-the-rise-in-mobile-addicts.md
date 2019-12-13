@@ -5,15 +5,14 @@ title: 'Trends on Tuesday: The Rise in “Mobile Addicts”'
 summary: ' Yahoo’s mobile analytics division, Flurry, released an interesting report, in July, comparing mobile usage among three distinct types of users around the world based on how frequently they launch mobile applications each day: Regular Users, Super Users and Mobile Addicts. According to Flurry, of'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 5
-  - native app
-  - native apps
-  - social media
-  - Trends on Tuesday
+  - mobile
+  - mobile-ux-guideline-5
+  - native-app
+  - native-apps
+  - social-media
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/08/500-x-463-tumblr\_inline\_nrj2vgy1eu1tpd7xq_500.jpg" alt="Mobile Addicts App Usage Over-Index chart from Flurry" >}}
@@ -36,4 +35,4 @@ Simon Khalaf, SVP of Publisher Products, said in the piece, “Mobile Addicts us
 
 Government agencies building mobile apps should consider their users&#8217; needs and if their application is truly something Mobile Addicts, Super Users or even Regular Users would use frequently, to justify the development and maintenance support expenses compared to a mobile-optimized website.
 
-There are [places in government where it makes sense to build apps]({{< link "2015-07-01-planning-with-a-purpose-3-reasons-why-agencies-created-native-apps.md" >}}), but as you can see from this data, much of the mobile app usage hype is driven by a small subset of addicted users, in only a few small genres of applications, like messaging, social and games, where government generally doesn&#8217;t work. {{< legacy-img src="2015/08/600-x-400-Internet-addict-in-bed-sleeping-with-digital-pad-or-tablet-OcusFocus-iStock-Thinkstock-520884983.jpg" alt="Internet addict in bed sleeping with digital pad or tablet" caption="" >}}
+There are [places in government where it makes sense to build apps]({{< ref "2015-07-01-planning-with-a-purpose-3-reasons-why-agencies-created-native-apps.md" >}}), but as you can see from this data, much of the mobile app usage hype is driven by a small subset of addicted users, in only a few small genres of applications, like messaging, social and games, where government generally doesn&#8217;t work. {{< legacy-img src="2015/08/600-x-400-Internet-addict-in-bed-sleeping-with-digital-pad-or-tablet-OcusFocus-iStock-Thinkstock-520884983.jpg" alt="Internet addict in bed sleeping with digital pad or tablet" caption="" >}}

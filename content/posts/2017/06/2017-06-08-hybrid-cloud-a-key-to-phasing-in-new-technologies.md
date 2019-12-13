@@ -5,10 +5,10 @@ title: 'Hybrid Cloud: A Key to Phasing in New Technologies'
 summary: Like any newer technology, cloud computing has faced adoption challenges. IT managers understand the huge potential efficiency improvements and savings that cloud computing can bring to their agencies, but also have questions about security, compatibility, and funding. With these concerns and without a clear path to cloud computing, many agencies continue to maintain on-premises solutions.
 authors:
   - mary-davie
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
+  - strategy
+  - policy
   - cloud
   - GSA
   - security

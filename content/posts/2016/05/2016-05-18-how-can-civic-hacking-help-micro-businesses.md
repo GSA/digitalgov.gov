@@ -5,9 +5,8 @@ title: How Can Civic Hacking Help Micro-businesses?
 summary: National Day of Civic Hacking on June 4th, D.C. Edition The fourth installation of the National Day of Civic Hacking aims to be another stellar event, bringing together civic-minded innovators in cities across the nation under one big tent. Just as in years past, it will be powered by the passion of citizens to improve
 authors:
   - jack-bienko
-categories:
-  - Code
-tag:
+topics:
+  - code
   - Census
   - National Day of Civic Hacking
   - SBA

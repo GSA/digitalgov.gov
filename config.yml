@@ -7,7 +7,7 @@ themesDir               : "./themes"
 MetaDataFormat          : "yaml"
 DefaultContentLanguage  : "en"
 SectionPagesMenu        : "main"
-Paginate                : 15
+Paginate                : 20
 googleAnalytics         : ""
 enableRobotsTXT         : true
 enableEmoji             : true
@@ -36,33 +36,65 @@ outputFormats:
   JSON:
     mediatype: "application/json"
 
+preserveTaxonomyNames   : true
+
+taxonomies:
+  topic                 : "topics"
+  author                : "authors"
+
 outputs:
   home: ["HTML","RSS", "SiteImages", "JSON"]
   section: ["HTML","RSS", "JSON"]
   page: ["HTML","RSS", "JSON"]
-  taxonomy: ["HTML","RSS", "JSON"]
-  taxonomyTerm: ["HTML","RSS", "JSON"]
+  taxonomy: ["HTML","RSS", "json"]
 
-blackfriday:
-  fractions: false
+# Goldmark is from Hugo 0.60 the default library used for Markdown.
+# https://gohugo.io/getting-started/configuration-markup/#goldmark
+markup:
+  defaultMarkdownHandler: blackfriday
+
+
 
 params:
   description: "Guidance on building better digital services in government"
-  agency_refer: "A product of the U.S. General Services Administration"
+  agency_refer: "U.S. General Services Administration"
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
   git_org               : "GSA"
   git_repo              : "digitalgov.gov"
+  url_shortener_login: jeremyz
+  url_shortener_api: d0ac464a2dfad044147e9537fd51503b
   devmode               : false
+
+  # Homepage settings
+  dg_tagline: "Build better digital services"
+
+  # number of news items to include on the homepage
+  stream_count: 10
+
+  # number of events to include on the homepage
+  events_count: 3
+
+  #base SEO keywords
+  keywords:
+    - digital
+    - government
+    - technology
+    - civic-tech
+
+
+refLinksNotFoundURL: https://digital.gov/resources/
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
 
-preserveTaxonomyNames   : true
-taxonomies:
-  tag                   : "tag"
-  category              : "categories"
-  author                : "authors"
+related:
+  threshold: 100
+  includeNewer: false
+  toLower: false
+  indices:
+  - name: topics
+    weight: 100
 
 pluralizelisttitles     : false
 
@@ -88,10 +120,6 @@ menu:
       Identifier      : "services"
       URL             : "/services/"
       Weight          : 5
-    - Name            : "Subscribe"
-      Identifier      : "subscribe"
-      URL             : "/subscribe/"
-      Weight          : 6
 
   secondary:
     - Name            : "Challenges"
@@ -122,37 +150,6 @@ menu:
     - Name            : "Content"
       Identifier      : "content"
       URL             : "/categories/content/"
-      Weight          : 3
-    - Name            : "Video"
-      Parent          : "content"
-      Identifier      : "video"
-      URL             : "/categories/video/"
-      Weight          : 20
-    - Name            : "Writing"
-      Parent          : "content"
-      Identifier      : "writing"
-      URL             : "/categories/writing/"
-      Weight          : 21
-
-    - Name            : "Managing Digital"
-      Identifier      : "managing-digital"
-      URL             : "/categories/managing-digital/"
-      Weight          : 4
-    - Name            : "Governance"
-      Parent          : "managing-digital"
-      Identifier      : "governance"
-      URL             : "/categories/governance/"
-      Weight          : 41
-    - Name            : "Strategy & Policy"
-      Parent          : "managing-digital"
-      Identifier      : "governance"
-      URL             : "/categories/strategy-and-policy/"
-      Weight          : 42
-
-    - Name            : "Metrics"
-      Identifier      : "resources"
-      URL             : "/categories/metrics/"
-      Weight          : 5
 
     - Name            : "Mobile"
       Identifier      : "mobile"

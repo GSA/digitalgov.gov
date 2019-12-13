@@ -6,17 +6,16 @@ summary: 'If you’re a program manager or a federal web developer you’ve prob
 authors:
   - will-slack
   - jonathan-hooper
-categories:
-  - Code
-  - Design
-  - Managing Digital
-tag:
-  - 18F
+topics:
+  - code
+  - design
+  - product-management
+  - 18f
   - cloud
-  - cloud.gov
+  - cloud-gov
   - CMS
-  - Content Management System
-  - FedRAMP
+  - content-management-system
+  - fedramp
   - GSA
   - security
   - US General Services Administration

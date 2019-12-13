@@ -5,10 +5,10 @@ title: 'Cybersecurity: Protecting Manufacturing Technology and Innovation'
 summary: Recently a segment on my favorite morning news program stopped me in my tracks. The young and attractive hosts (why are they always so young and attractive?) were demonstrating new appliances including a smart refrigerator. The fridge was equipped with all kinds of high-tech features including touch screen displays, a camera inside that allows you
 authors:
   - pat-toth
-categories:
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
+  - product-management
+  - strategy
+  - policy
   - best practices
   - Commerce
   - data

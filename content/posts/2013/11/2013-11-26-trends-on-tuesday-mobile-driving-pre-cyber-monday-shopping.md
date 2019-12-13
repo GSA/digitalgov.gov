@@ -5,12 +5,11 @@ title: 'Trends on Tuesday: Mobile Driving Pre-Cyber Monday Shopping'
 summary: Cyber Monday, billed as one of the busiest online-commerce days of the year, is spilling into the rest of the holiday season as more consumers use mobile devices to shop whenever they please. Shoppers are no longer waiting to return to work on the Monday after Thanksgiving to surf and complete web deals. Consumers armed
 authors:
   - jparcell
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - mobile
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 [<img class="alignright  wp-image-102402" alt="Hand holding an iPad, other hand holding a credit card." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/online-shopping-ipad.jpg" width="461" height="259" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/online-shopping-ipad.jpg)Cyber Monday, billed as one of the busiest online-commerce days of the year, is spilling into the rest of the holiday season as more consumers use mobile devices to shop whenever they please.
@@ -25,4 +24,4 @@ Some stats:
 
 As Bloomberg notes, these trends are spurring e-commerce heavyweights (like Amazon) to grapple with retailers (like Macy’s) by using online promotions and mobile apps to lure tech-savvy gift buyers long before and after Cyber Monday.
 
-With these anytime, anywhere shopping habits becoming more common, agencies must become more acutely aware of their audience and their internet browsing habits, as well as their expected [user experience](https://digitalgov.sites.usa.gov/2013/09/18/making-mobile-gov-user-experience-recommendations/ "Making Mobile Gov: User Experience Recommendations"). Agencies should consider how to provide a custom browsing experience for citizens in their [mobile strategy](https://digitalgov.sites.usa.gov/2013/09/30/mobile-first/ "Mobile First").
+With these anytime, anywhere shopping habits becoming more common, agencies must become more acutely aware of their audience and their internet browsing habits, as well as their expected [user experience](https://digital.gov/2013/09/18/making-mobile-gov-user-experience-recommendations/ "Making Mobile Gov: User Experience Recommendations"). Agencies should consider how to provide a custom browsing experience for citizens in their [mobile strategy](https://digital.gov/2013/09/30/mobile-first/ "Mobile First").

@@ -5,12 +5,11 @@ title: Engagement
 summary: ' It’s one of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign. The idea of making sure your social media accounts are reaching key constituents and members of'
 authors:
   - dorothy-amatucci
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - DGU
-  - Facebook
-  - social media
+  - facebook
+  - social-media
   - Twitter
   - US Fish and Wildlife Service
 ---
@@ -19,7 +18,7 @@ tag:
 
 It’s one of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign.
 
-The idea of making sure your social media accounts are reaching key constituents and members of the general public certainly isn’t new. [DigitalGov University]({{< link "/digitalgov-university/" >}} "DigitalGov University") (DGU) offers a [variety of webinars and training seminar]({{< link "events" >}}) regarding digital media and citizen engagement.
+The idea of making sure your social media accounts are reaching key constituents and members of the general public certainly isn’t new. [DigitalGov University]({{< ref "/about/digitalgov-university.md" >}} "DigitalGov University") (DGU) offers a [variety of webinars and training seminar]({{< ref "/events" >}}) regarding digital media and citizen engagement.
 
 But what about engaging other federal agencies?
 

@@ -4,7 +4,6 @@ date: 2019-07-10 4:00:00 -0500
 title: Contribute to Digital.gov
 deck: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
 summary: "Have a case study to share? Did your team recently launch something new? Here is what we're looking for."
-type: guide
 aliases:
   - /join-digitalgov/
   - /about/join/
@@ -47,22 +46,22 @@ Access to the right tools and resources will help them confidently take steps to
 
 **Some examples**
 
-- [A resource page that explains how to do something]({{< link "/resources/how-to-prevent-security-certificates-from-expiring-during-a-lapse-in-operations/" >}})
-- [A template for a much needed, common document]({{< link "/resources/digital-governance-policies/" >}})
+- [A resource page that explains how to do something]({{< ref "how-to-prevent-security-certificates-from-expiring-during-shutdown.md" >}})
+- [A template for a much needed, common document]({{< ref "digital-governance-policies.md" >}})
 - [A link to a helpful guide that your agency relies upon](https://accessibility.18f.gov/)
 
 ### Examples of problems being solved in government
 
-Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices. 
+Examples of other agencies’ success are some of the most powerful tools toward convincing colleagues to follow modern practices.
 
 They want more information that is specific to government — examples of what agencies are doing; case studies; collections of validated federal-wide news that has an impact on digital in one spot.
 
 **Some examples**
 
 - [A link to a blog post](https://revenuedata.doi.gov/blog/journey-mapping/)
-- [A blog post from an agency]({{< link "/2019/06/13/building-trust-with-users-through-open-communication-feedback/" >}})
-- [An explainer in a blog post]({{< link "/2014/07/07/user-experience-ux-vs-customer-experience-cx-whats-the-dif/" >}})
-- [An explainer over video]({{< link "/event/2019/04/24/dap-learning-series-using-advanced-analysis-tool/" >}})
+- [A blog post from an agency]({{< ref "2019-06-13-building-trust-with-users-through-open-communication-feedback.md" >}})
+- [An explainer in a blog post]({{< ref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}})
+- [An explainer over video]({{< ref "2019-04-24-dap-learning-series-using-advanced-analysis-tool.md" >}})
 
 ### Collaboration
 
@@ -70,13 +69,13 @@ People are interested in participating in spaces where they can more seamlessly 
 
 **Here are some ways to start collaborating**
 
-- [Join a community of practice]({{< link "/communities/" >}})
+- [Join a community of practice]({{< ref "/communities/_index.md" >}})
 - Get in touch with us about hosting an event by filling out the form above
-- [Subscribe to our newsletter]({{< link "/about/subscribe/" >}})
+- [Subscribe to our newsletter]({{< ref "/about/subscribe.md" >}})
 
 This guidance stems from qualitative user research we conducted with over nearly two dozen federal members of our audience — content managers, designers, developers, innovation leaders — who are involved with all aspects of agencies’ digital services.
 
-As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart: 
+As we found in listening to them, they are working against incredible odds, and yet continuously exhibit a desire to be resourceful, perseverant, and resilient. We should all be proud to call them civil servants. :heart:
 
 ---
 

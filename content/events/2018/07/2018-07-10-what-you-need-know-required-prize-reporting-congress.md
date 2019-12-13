@@ -13,6 +13,9 @@ event_organizer: DigitalGov University
 host: Challenge.gov
 registration_url: https://www.eventbrite.com/e/required-prize-reporting-to-congress-what-you-need-to-know-registration-47272890488
 youtube_id: msyPsjhZM7A
+topics:
+  - challenges
+  - policy
 
 ---
 

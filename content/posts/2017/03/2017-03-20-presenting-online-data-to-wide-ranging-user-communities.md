@@ -5,13 +5,12 @@ title: Presenting Online Data to Wide-Ranging User Communities
 summary: 'Presenting data online that will serve a wide range of users can be challenging. It requires an understanding of the target users’ needs, interests, and familiarity with the use of data handling tools. This challenge can be especially daunting for government  websites that present data for use by the general public. The audience for such'
 authors:
   - rhonda-a-pretlow
-categories:
-  - Data
+topics:
+  - data
   - user-testing-and-research
-tag:
   - data
   - research
-  - user centered design
+  - user-centered-design
 ---
 
 Presenting data online that will serve a wide range of users can be challenging. It requires an understanding of the target users’ needs, interests, and familiarity with the use of data handling tools. This challenge can be especially daunting for government  websites that present data for use by the general public. The audience for such data can range in extremes—from scientists to school children. Clearly, a single data tool would not adequately meet the needs of such a wide range of users.
@@ -38,8 +37,8 @@ Under “Which Data Tool Should I Use?,” the site presents multiple [illustrat
 
 **Providing Diversified Training**
 
-When it comes to presenting data online to the general public, one-size clearly will not fit all. Government web designers must go the extra mile to develop ways to make sure that data is presented in ways that are useful, [understandable]({{< link "plain-language-web-writing-tips.md" >}}), and [geared toward the abilities of potential users]({{< link "categories/accessibility" >}}).
+When it comes to presenting data online to the general public, one-size clearly will not fit all. Government web designers must go the extra mile to develop ways to make sure that data is presented in ways that are useful, [understandable]({{< ref "plain-language-web-writing-tips.md" >}}), and [geared toward the abilities of potential users]({{< ref "/topics/accessibility" >}}).
 
 **Broad-based Online Data: One Size Does Not Fit All**
 
-If information is too simplistic, advanced users will find accessing data too time-consuming, while if it is too dense, ordinary users will be overwhelmed. Both extremes will result in—otherwise useful—costly datasets remaining underutilized. However, sufficient preplanning to [identify potential users]({{< link "2015-08-12-journey-mapping-the-customer-experience-a-usa-gov-case-study.md" >}}), in-depth research into [understanding the needs of potential users]({{< link "2015-05-26-5-crucial-steps-for-conducting-an-effective-customer-interview.md" >}}), and adequate tailoring of data tools and training materials to serve the users and their needs, will result in positive user experiences and favorable reception of the online data-centered site.
+If information is too simplistic, advanced users will find accessing data too time-consuming, while if it is too dense, ordinary users will be overwhelmed. Both extremes will result in—otherwise useful—costly datasets remaining underutilized. However, sufficient preplanning to [identify potential users]({{< ref "2015-08-12-journey-mapping-the-customer-experience-a-usa-gov-case-study.md" >}}), in-depth research into [understanding the needs of potential users]({{< ref "2015-05-26-5-crucial-steps-for-conducting-an-effective-customer-interview.md" >}}), and adequate tailoring of data tools and training materials to serve the users and their needs, will result in positive user experiences and favorable reception of the online data-centered site.

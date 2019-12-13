@@ -5,18 +5,17 @@ title: Tips for Adapting analytics.usa.gov from Tennessee, Boulder, and Philadel
 summary: 'When we launched analytics.usa.gov with the Digital Analytics Program, the U.S. Digital Service, and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction: This open source project is in the public domain, which means'
 authors:
   - melody-kramer
-categories:
-  - Metrics
-  - Our Work
-tag:
-  - 18F
+topics:
+  - metrics
+  - our-work
+  - 18f
   - analytics
-  - analytics.usa.gov
-  - DAP
-  - Digital Analytics Program
+  - analytics-usa-gov
+  - dap
+  - digital-analytics-program
 ---
 
-When [we launched analytics.usa.gov](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/) with the [Digital Analytics Program]({{< link "/dap/" >}}), the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction:
+When [we launched analytics.usa.gov](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/) with the [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}}), the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction:
 
 > This open source project is in the public domain, which means that this website and its data are free for you to use without restriction. You can find the [code for this website](https://github.com/GSA/analytics.usa.gov) and the [code behind the data collection](https://github.com/18F/analytics-reporter) on GitHub.
 
@@ -71,9 +70,9 @@ The benefits of this project have more than warranted spending the time implemen
 {{< legacy-img src="2016/01/600-x-350-Tennessee-Department-of-Environment-and-Conservation-adaptation-of-AnalyticsUSAgov.jpg" alt="The Tennessee Department of Environment and Conservation adaptation of Analytics dot USA dot gov website." >}}
 
 **MK: Is there anything 18F could do to improve the platform?
-  
-** 
-  
+
+**
+
 **LA:** A 1-click deploy from GitHub to a PaaS like Heroku (where ours is currently hosted) or a Docker container — there was an abandoned PR where someone was working on this — (or perhaps [cloud.gov](http://cloud.gov/) in the future?) — would make the process simpler, I imagine. You can do this now, in fact — if you already understand the technology at work. But I think there are just a few tiny gaps we could close that would make it even easier.
 
 **RP:** More, better documentation. I’ve found that most developers make a lot of assumptions about baseline knowledge of anyone attempting to adapt or emulate their work. Because the dashboard strikes me as something even non-technical people might want to try to implement, better documentation is always going to help.
@@ -106,6 +105,6 @@ TL;DR: Keep pushing! 18F is affecting more than federal programs and we NEED you
 
 _This article was originally posted on the [18F blog](https://18f.gsa.gov/blog/) by Melody Kramer, 18F team member._
 
- 
+
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

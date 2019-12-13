@@ -5,18 +5,17 @@ title: Making Federal Employment Accessible thru DOD’s CAP App
 summary: '&ldquo;My Disability is One Part of Who I Am&rdquo; was the theme of the 70th National Disability Employment Awareness Month this past October. We celebrated the many contributions of our friends and co-workers with disabilities and recognized the diverse skills and talents they bring to our workplace. However, the real question is: how do we create a'
 authors:
   - nramprasad
-categories:
-  - Accessibility
-  - Mobile
-tag:
+topics:
+  - accessibility
+  - mobile
   - accessibility
   - DoD
   - mobile
-  - native app
-  - native apps
+  - native-app
+  - native-apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Department of Defense
 ---
 
@@ -30,7 +29,7 @@ The Department of Defense&#8217;s Computer/Electronic Accommodations Program (CA
 
 The CAP mobile app allows people to use their mobile devices to look up information about the services and resources offered by CAP. It serves as a vocational planning aid designed for use by U.S government employees with disabilities who require assistive technology and other accommodations to perform their jobs. It is also for their supervisors who need to provide reasonable accommodation.
 
-You can use this app to learn about a variety of accommodation solutions. The solutions describe in detail smart phone accessibility features and lead you to other useful mobile apps and self-help tools. For example, there are tools that allow you to recognize and rate your level of anxiety, and the [Breathe2Relax app]({{< link "2015-06-25-using-apps-for-mental-healthcare.md" >}}) teaches stress-reducing breathing techniques.
+You can use this app to learn about a variety of accommodation solutions. The solutions describe in detail smart phone accessibility features and lead you to other useful mobile apps and self-help tools. For example, there are tools that allow you to recognize and rate your level of anxiety, and the [Breathe2Relax app]({{< ref "2015-06-25-using-apps-for-mental-healthcare.md" >}}) teaches stress-reducing breathing techniques.
 
 {{< legacy-img src="2015/11/250-x-444-CAP-Mobile-App-iPhonevideos-screen.jpg" alt="The videos screen from the Computer Electronic Accommodations Program (CAP) mobile iPhone app" >}}The app includes many useful features such as:
 

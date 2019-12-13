@@ -14,6 +14,9 @@ event_organizer: DigitalGov University
 host: Code.mil
 registration_url: https://www.eventbrite.com/e/free-open-source-software-in-government-with-codemil-registration-45814864493
 youtube_id: 4ulaWNBDPgk
+topics:
+  - code
+  - open-source
 
 ---
 

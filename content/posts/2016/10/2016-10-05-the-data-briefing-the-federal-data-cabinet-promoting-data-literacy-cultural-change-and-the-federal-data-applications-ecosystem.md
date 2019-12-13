@@ -5,15 +5,14 @@ title: 'The Data Briefing: The Federal Data Cabinet—Promoting Data Literacy, C
 summary: 'Last Wednesday, the White House held the first Open Data Summit to showcase the open data accomplishments of the Obama Administration. One of the highlights was the formation of a government-wide &ldquo;data cabinet.&rdquo; Announced by Chief Data Scientist DJ Patil, the data cabinet is essentially a community of practice comprising the Federal agency’s data professionals. As'
 authors:
   - bbrantley
-categories:
-  - Data
-  - Metrics
-tag:
+topics:
+  - data
+  - metrics
   - data
   - infrastructure
   - metrics
-  - open data
-  - The Data Briefing
+  - open-data
+  - the-data-briefing
 ---
 
 Last Wednesday, the White House held the first [Open Data Summit](http://www.govtech.com/data/White-House-Open-Data-Innovation-Summit-Open-Datas-Full-Potential-Is-Just-Being-Realized.html) to showcase the open data accomplishments of the Obama Administration. One of the highlights was the formation of a government-wide “data cabinet.” Announced by Chief Data Scientist DJ Patil, the data cabinet is essentially a community of practice comprising the Federal agency’s data professionals. As Dr. Patil explains, [the real issues concerning technical projects revolve around cultural issues](http://www.nextgov.com/big-data/2016/09/how-data-cabinet-could-break-down-project-barriers/131925/?oref=ng-HPriver). I couldn’t agree more. {{< legacy-img src="2014/04/600-x-395-Group-of-Business-People-in-Office-Building-data-statistics-metrics-on-tablet-Robert-Churchill-iStock-Thinkstock-469780051.jpg" alt="Group of Business People in an Office Building, with statistical data seen on a tablet in the foreground" caption="" >}} 
@@ -24,9 +23,9 @@ The cultural issues are not just internal. Good data can explain to the American
 
 {{< legacy-img src="2016/10/600-x-504-Performance.gov-homepage.jpg" alt="Screen capture of the Performance.gov homepage." >}}
 
-With addressing cultural issues, the data cabinet could also help coordinate the emerging Federal agency’s microservices and progressive web applications. I’ve written about [microservices]({{< link "2016-08-24-the-data-briefing-microservices-and-serverless-apps-a-new-direction-for-federal-government-mobile-apps.md" >}}) before because they have great potential for transforming how applications are built and delivered to users. To recap: microservices are small, single-focused online applications that can be combined to create larger applications. The data cabinet can help coordinate the creation of microservices so agencies can share microservices government-wide.
+With addressing cultural issues, the data cabinet could also help coordinate the emerging Federal agency’s microservices and progressive web applications. I’ve written about [microservices]({{< ref "2016-08-24-the-data-briefing-microservices-and-serverless-apps-a-new-direction-for-federal-government-mobile-apps.md" >}}) before because they have great potential for transforming how applications are built and delivered to users. To recap: microservices are small, single-focused online applications that can be combined to create larger applications. The data cabinet can help coordinate the creation of microservices so agencies can share microservices government-wide.
 
-Recently, there has been increasing interest in progressive web applications (PWA). David Fern explains PWAs this way: “[PWAs have been able to take the best of both worlds [native applications and web applications] and combine them into a hybrid application that is fast (with or without a fast network connection), can work across devices, and does not need to be distributed through a store as it is as linkable and shareable as a web page]({{< link "2016-09-20-progressive-web-applications-part-1-the-new-pack-mule-of-the-internet.md" >}}).” Combine PWAs with microservices on a [serverless apps infrastructure](https://www.iron.io/what-is-serverless-computing/) and you have an ecosystem built for innovative Federal applications.
+Recently, there has been increasing interest in progressive web applications (PWA). David Fern explains PWAs this way: “[PWAs have been able to take the best of both worlds [native applications and web applications] and combine them into a hybrid application that is fast (with or without a fast network connection), can work across devices, and does not need to be distributed through a store as it is as linkable and shareable as a web page]({{< ref "2016-09-20-progressive-web-applications-part-1-the-new-pack-mule-of-the-internet.md" >}}).” Combine PWAs with microservices on a [serverless apps infrastructure](https://www.iron.io/what-is-serverless-computing/) and you have an ecosystem built for innovative Federal applications.
 
 Again, this is where the data cabinet can play an important role. With all thriving ecosystems, there is a need to maintain and cultivate the ecosystem. Like a good gardener, the data cabinet can promote the growth of good microservices and PWAs while weeding out failed microservices and PWAs. The data cabinet can coordinate cross-agency efforts and help fill in gaps with focused technical projects.
 

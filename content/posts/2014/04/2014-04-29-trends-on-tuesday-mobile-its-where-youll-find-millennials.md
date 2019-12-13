@@ -5,13 +5,12 @@ title: 'Trends on Tuesday: Mobile, It&#8217;s Where You&#8217;ll Find Millennial
 summary: ' It’s no secret, if you want to reach Millennials, mobile is a great way to connect. This generation of tech-natives is adept at accessing large amounts of information held in the palms of their hands. However, their information overload also poses a challenge for agencies'
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
   - mobile
-  - Mobile UX Guideline 5
+  - mobile
+  - mobile-ux-guideline-5
   - mobile-first
-  - Trends on Tuesday
+  - trends-on-tuesday
 ---
 
 [{{< legacy-img src="2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg) It’s no secret, if you want to reach Millennials, mobile is a great way to connect. This generation of tech-natives is adept at accessing large amounts of information held in the palms of their hands. However, their information overload also poses a challenge for agencies competing to gain their attention.
@@ -23,4 +22,4 @@ The Center for Media Research presents four suggestions for [crafting a mobile s
   * **Got apps?** 60% of Millennials downloads apps to their devices. Using app alerts and push notifications can increase their usage.
   * **Be social.** Millennials want to engage with agencies the same ways they engage with friends. They also want content they can share with their social media connections.
 
-Sound familiar? It should. These strategies aren’t just good ideas for reaching Millennials, they’re best practices for putting the [user experience first]({{< link "2013-06-04-what-were-really-talking-about-when-were-talking-about-mobile-hint-its-the-user.md" >}}). The more agencies can create relevant, personalized content, the less we may find ourselves competing with other digital noise. Start putting user experience first with these [Mobile User Experience Guidelines and Recommendations]({{< link "2013-09-18-making-mobile-gov-user-experience-recommendations.md" >}} "Making Mobile Gov: User Experience Recommendations").
+Sound familiar? It should. These strategies aren’t just good ideas for reaching Millennials, they’re best practices for putting the [user experience first]({{< ref "2013-06-04-what-were-really-talking-about-when-were-talking-about-mobile-hint-its-the-user.md" >}}). The more agencies can create relevant, personalized content, the less we may find ourselves competing with other digital noise. Start putting user experience first with these [Mobile User Experience Guidelines and Recommendations]({{< ref "2013-09-18-making-mobile-gov-user-experience-recommendations.md" >}} "Making Mobile Gov: User Experience Recommendations").

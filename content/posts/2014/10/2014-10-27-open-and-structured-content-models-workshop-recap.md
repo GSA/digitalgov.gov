@@ -6,23 +6,22 @@ summary: ' People consume government information in a variety of ways: through a
 authors:
   - hannah-gladfelter-rubin
   - jparcell
-categories:
-  - Mobile
-  - Monthly Theme
-tag:
-  - content models
+topics:
+  - mobile
+  - monthly-theme
+  - content-models
   - COPE
   - HHS
-  - Mobile UX Guideline 1
-  - Mobile UX Guideline 5
-  - NASA
+  - mobile-ux-guideline-1
+  - mobile-ux-guideline-5
+  - nasa
   - National Cancer Institute
   - NCI
-  - open and structured content models
+  - open-and-structured-content-models
   - Recaps
   - SEC
   - US Securities and Exchange Commission
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
@@ -31,11 +30,11 @@ People consume government information in a variety of ways: through agency websi
 
 To make sure the information is available seamlessly, accurately, and consistently from one setting to another, more and more agencies are exploring the use of content models. Content models create a structure to tag content in a standardized way and free it from any single format or destination, such as a Web page or PDF file.
 
-The Open and Structured Content Models Working Group, an interagency working group, has been exploring the approach for government since last year and they have created two [open and structured content models]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!")—one for articles and one for events. They hosted a September workshop so agencies could hear from a few organizations who are already putting these ideas into practice. Attendees discussed how to build the case for the content model approach, how the models work in practice and how to implement the existing models.
+The Open and Structured Content Models Working Group, an interagency working group, has been exploring the approach for government since last year and they have created two [open and structured content models]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!")—one for articles and one for events. They hosted a September workshop so agencies could hear from a few organizations who are already putting these ideas into practice. Attendees discussed how to build the case for the content model approach, how the models work in practice and how to implement the existing models.
 
 ## SEC: Mission is Key to Open and Structured Content Models business case
 
-While the working group created two content models and [noted the reasons]({{< link "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}} "Top 5 Reasons to Use Government-wide Open and Structured Content Models") agencies should adopt them, there are a number of other information types that can be structured and modeled. For instance, the Securities and Exchange Commission (SEC) has been working on [eXtensible Business Reporting Language](http://en.wikipedia.org/wiki/XBRL), or XBRL—part of the family of interactive data reporting standards.
+While the working group created two content models and [noted the reasons]({{< ref "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}} "Top 5 Reasons to Use Government-wide Open and Structured Content Models") agencies should adopt them, there are a number of other information types that can be structured and modeled. For instance, the Securities and Exchange Commission (SEC) has been working on [eXtensible Business Reporting Language](http://en.wikipedia.org/wiki/XBRL), or XBRL—part of the family of interactive data reporting standards.
 
 Walter Hamshcer, who is involved in the SEC XBRL effort, talked about his work on the 30 year [XBRL project](http://xbrl.sec.gov/). Hamshcer noted that the best way to sell the structured data and content model approach is to focus on the data and content your organization “cares about most”—tangible parts of the mission space. In his experience, transparency regulators generally care about disclosure and his project has been working with structured data approaches with financial statement information.
 

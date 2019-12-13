@@ -5,9 +5,8 @@ title: Challenge Contest Requirements
 summary: 'As you&#8217;re planning your challenge, you&#8217;ll want to review the relevant policies, memos and legislation pertaining to challenge competitions. The most important is the Prize Authority in the America COMPETES Reauthorization Act (PDF, 275 KB, 12 pages, August 2011) for it gives all executive branch agencies a baseline authority to run prize competitions.  Be sure'
 authors:
   - ktrebon
-categories:
-  - Challenges
-tag:
+topics:
+  - challenges
   - innovation
 ---
 
@@ -108,7 +107,7 @@ Other Memos and Guides
   <strong>Apps</strong>
 </div>
 
-  * [Apps Challenges Toolkit]({{< link "2013-05-08-planning-an-apps-challenge.md" >}})—GSA developed this toolkit for apps challenges in conjunction with a March 1, 2011 event.
+  * [Apps Challenges Toolkit]({{< ref "2013-05-08-planning-an-apps-challenge.md" >}})—GSA developed this toolkit for apps challenges in conjunction with a March 1, 2011 event.
   * [EPA&#8217;s Apps for the Environment: Lessons Learned](http://www.epa.gov/greenapps/lessons.html)
 
 **Video**

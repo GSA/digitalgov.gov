@@ -5,20 +5,19 @@ title: 10 Years of Digital Government—A Retrospective
 summary: 'In December of 2004, the Office of Management and Budget (OMB) issued the first Policies for Federal Public Websites. Over the past decade, we’ve seen technology completely transform how government delivers information and services to the public. On this 10-year anniversary, we’re taking a walk down memory lane to recap some of the pivotal moments'
 authors:
   - rflagg
-categories:
-  - Challenges
-  - Code
-  - Content
-  - Managing Digital
-  - Mobile
-  - Social Media
-  - UX
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
+topics:
+  - challenges
+  - code
+  - content
+  - product-management
+  - mobile
+  - social-media
+  - ux
+  - cdc
+  - centers-for-disease-control-and-prevention
   - HHS
   - NARA
-  - NASA
+  - nasa
   - National Archives and Records Administration
   - National Oceanic and Atmospheric Administration
   - NOAA
@@ -26,7 +25,7 @@ tag:
   - OMB
   - SBA
   - US Small Business Administration
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
   - United States Geological Survey
   - USGS
 ---

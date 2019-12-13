@@ -5,16 +5,15 @@ title: 'Trends on Tuesday: The Mobile Tipping Point?'
 summary: The International Data Corporation (IDC) is forecasting a strong outlook for smartphone sales during the remaining months of 2014. So, what might this mobile-driven world look like?
 authors:
   - tjohnson
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - DGU
   - mobile
-  - mobile gov community of practice
-  - Mobile UX Guideline 5
+  - mobile-gov-community-of-practice
+  - mobile-ux-guideline-5
   - mobile-first
-  - native app
-  - responsive web design
+  - native-app
+  - responsive-web-design
 ---
 
 {{< legacy-img src="2014/08/250-x-243-Modern-touchscreen-smartphones-scanrail-iStock-Thinkstock-497714919.jpg" alt="Modern touchscreen smartphones" caption="" >}} 
@@ -31,4 +30,4 @@ According to [CIO Magazine](http://www.cio.com/article/2369831/mobile/are-you-re
   * **Video watching will increase.** Video accounted for 53% of mobile traffic last year and will reach 69% by 2018.
   * **More bandwidth, please.** A stronger, more robust, faster, and more responsive infrastructure will be needed to support this increased mobility.
 
-A new mobile world is just around the corner. What is your agency doing to get ready? Every month, <a title="DigitalGov University" href="{{< link "/digitalgov-university/" >}}" target="_blank">DigitalGov University</a> provides high quality, cost-effective programs sponsored by communities like the [Mobile Gov Community of Practice]({{< link "/communities/" >}} "Communities") to help agencies improve the user experience for mobile customers. Find an upcoming <a title="DGU event" href="{{< link "events" >}}" target="_blank">DGU event</a> or view a recent event in the <a title="video library" href="{{< link "video-library.md" >}}" target="_blank">video library</a>.
+A new mobile world is just around the corner. What is your agency doing to get ready? Every month, <a title="DigitalGov University" href="{{< ref "/about/digitalgov-university.md" >}}" target="_blank">DigitalGov University</a> provides high quality, cost-effective programs sponsored by communities like the [Mobile Gov Community of Practice]({{< ref "/communities" >}} "Communities") to help agencies improve the user experience for mobile customers. Find an upcoming <a title="DGU event" href="{{< ref "/events" >}}" target="_blank">DGU event</a> or view a recent event in the <a title="video library" href="{{< ref "digitalgov-university.md" >}}" target="_blank">video library</a>.

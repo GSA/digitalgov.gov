@@ -5,16 +5,15 @@ title: Focus on Nutrition with DRI Calculator for Healthcare Professionals App
 summary: 'For those of us who need to get our diet under control&mdash;and keep it that way&mdash;we surely have noticed the recent explosion of health apps and wearable fitness trackers. No doubt we’ve all thought about buying one of those at $100 to $150 bucks a'
 authors:
   - kdowney
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Federal Mobile Products Registry
   - ICE
-  - native app
-  - Thursday Mobile Products
+  - native-app
+  - thursday-mobile-products
   - US Department of Agriculture
   - US Immigration and Customs Enforcement
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
   - USDA
 ---
 
@@ -30,6 +29,6 @@ The DRI app includes user-friendly features such as pregnancy weight gain charts
 
 **One caveat:** Although the DRI recommendations are based on current scientific knowledge, they are not appropriate for everyone. Underlying illness and vitamin deficiencies are just two reasons why your nutrient needs might be different from the recommendations. To figure out your nutrient needs, talk with your healthcare provider or find a registered dietitian near you.
 
-The app is available for [iOS](https://itunes.apple.com/us/app/dri-calculator-for-healthcare/id922494493?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.bluepane.usda_dri) smartphones and tablets._You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "u-s-digital-registry.md" >}})._
+The app is available for [iOS](https://itunes.apple.com/us/app/dri-calculator-for-healthcare/id922494493?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.bluepane.usda_dri) smartphones and tablets._You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< ref "service_us-digital-registry.md" >}})._
 
  

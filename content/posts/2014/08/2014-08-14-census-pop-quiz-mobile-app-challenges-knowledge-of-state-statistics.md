@@ -3,16 +3,15 @@ slug: census-pop-quiz-mobile-app-challenges-knowledge-of-state-statistics
 date: 2014-08-14 13:29:36 -0400
 title: Census PoP Quiz Mobile App Challenges Knowledge of State Statistics
 summary: 'The U.S. Census Bureau today released Census PoP Quiz, a new interactive mobile application that challenges users’ knowledge of demographic facts for all 50 states and the District of Columbia. The new app, which draws from the Census Bureau’s American Community Survey, aims to raise'
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Census
   - Department of Commerce
-  - mobile apps
-  - open data
-  - Thursday Mobile Products
+  - mobile-apps
+  - open-data
+  - thursday-mobile-products
   - United States Census Bureau
-  - USA.gov Federal Mobile Apps Directory
+  - usa-gov-federal-mobile-apps-directory
 ---
 
 [{{< legacy-img src="2014/08/520-x-293-Census-App-Pop-Quiz-home-screen-301x212.jpg" alt="Start screen of Census App Pop Quiz" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/08/520-x-293-Census-App-Pop-Quiz-home-screen.jpg)The U.S. Census Bureau today released [Census PoP Quiz](https://www.census.gov/mobile/censuspopquiz/), a new interactive mobile application that challenges users’ knowledge of demographic facts for all 50 states and the District of Columbia. The new app, which draws from the Census Bureau’s American Community Survey, aims to raise statistical literacy about the U.S. population.

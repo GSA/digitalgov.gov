@@ -5,25 +5,25 @@ title: Sign up for the Technology Industry Day
 summary: 'The General Services Administration (GSA) is known for managing federal real estate and leveraging the government’s buying power to get the best deal for taxpayers, but it also drives and leads technology and innovation within the federal government. The Technology Transformation Service (TTS) builds, buys and shares tech to help federal agencies achieve their mission.'
 authors:
   - gsa-blog-team
-categories:
-  - Code
-  - Data
-  - Managing Digital
-  - strategy-and-policy
-tag:
-  - 18F
+topics:
+  - code
+  - data
+  - product-management
+  - strategy
+  - policy
+  - 18f
   - agile
   - CIO
   - cloud
-  - cloud.gov
+  - cloud-gov
   - code
   - data
-  - DATA Act
+  - data-act
   - Digital Accountability and Transparency Act
   - event
   - FAS
   - Federal Acquisition Service
-  - FedRAMP
+  - fedramp
   - GSA
   - HHS
   - innovation
@@ -37,7 +37,7 @@ tag:
   - TTS
   - US Department of the Treasury
   - US General Services Administration
-  - United States Department of Health and Human Services
+  - united-states-department-of-health-and-human-services
 ---
 
 The [General Services Administration](http://www.gsa.gov/) (GSA) is known for managing federal real estate and leveraging the government’s buying power to get the best deal for taxpayers, but it also drives and leads technology and innovation within the federal government. The [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) builds, buys and shares tech to help federal agencies achieve their mission. They create better services for citizens everyday. TTS works closely with the [Federal Acquisition Service](http://www.gsa.gov/portal/content/105080) (FAS) and the GSA CIO to be first movers in and apply agile technology in a meaningful way. {{< legacy-img src="2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}} 

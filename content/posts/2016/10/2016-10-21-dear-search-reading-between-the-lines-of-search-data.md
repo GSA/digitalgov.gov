@@ -5,15 +5,14 @@ title: 'Dear Search: Reading Between the Lines of Search Data'
 summary: Welcome to the first Dear Search article, an occasional series where the DigitalGov Search team addresses common search questions. Dear Search, Right now, I am building up user research services that can be offered to product owners on a regular or as-needed basis. So, being able to look at search trends and offer advice to
 authors:
   - dmccleskey
-categories:
-  - Metrics
-  - Our Work
-  - UX
-tag:
+topics:
+  - metrics
+  - our-work
+  - ux
   - analytics
-  - DigitalGov Search
-  - user experience
-  - UX
+  - digitalgov-search
+  - user-experience
+  - ux
 ---
 
 > Welcome to the first _Dear Search_ article, an occasional series where the DigitalGov Search team addresses common search questions.
@@ -31,8 +30,8 @@ Is there more to search data than just the terms people search for – does it m
 And finally, do you have a formal method of evaluating the search experience that you can share?
 
 Best,
-  
-UX Vexed {{< legacy-img src="2016/08/600-x-400-Search-bar-on-virtual-screen-Gajus-iStock-Thinkstock-178761722.jpg" alt="Search bar on virtual screen." caption="" >}} 
+
+UX Vexed {{< legacy-img src="2016/08/600-x-400-Search-bar-on-virtual-screen-Gajus-iStock-Thinkstock-178761722.jpg" alt="Search bar on virtual screen." caption="" >}}
 
 Dear Vexed,
 
@@ -60,14 +59,14 @@ The next important question is: Where were the searchers when they ran a particu
 
 {{< legacy-img src="2016/09/Referrers\_-\_USA_gov-600w.png" alt="The DigitalGov Search Top Referring URLs report, showing the pages on which people most frequently used the search box." >}}
 
-Because the relationships between all these data points can be complex, we gave a webinar in December 2015 on analytics. Michelle Chronister, the former user experience team lead for USAgov, described how that team looks at search data for trends that can guide USAgov’s content strategy. They group query terms into topics, and analyze at the topic level. A <a href="{{< link "2016-01-08-what-are-your-customers-searching-for.md" >}}" target="_blank">webinar recap</a> is available that includes a video recording, slide deck, and data tracking/report template as well as an infographic of USAgov’s 2015 search traffic.
+Because the relationships between all these data points can be complex, we gave a webinar in December 2015 on analytics. Michelle Chronister, the former user experience team lead for USAgov, described how that team looks at search data for trends that can guide USAgov’s content strategy. They group query terms into topics, and analyze at the topic level. A <a href="{{< ref "2016-01-08-what-are-your-customers-searching-for.md" >}}" target="_blank">webinar recap</a> is available that includes a video recording, slide deck, and data tracking/report template as well as an infographic of USAgov’s 2015 search traffic.
 
-By looking at trends for individual queries, query topics, locations, and destinations, you’ve begun the journey towards using data to better inform your search configuration and content strategy. We also recommend looking at your website data from the <a href="{{< link "/dap/" >}}" target="_blank">Digital Analytics Program</a> or any other analytics software you have running on your site.
+By looking at trends for individual queries, query topics, locations, and destinations, you’ve begun the journey towards using data to better inform your search configuration and content strategy. We also recommend looking at your website data from the <a href="{{< ref "/guide/dap/_index.md" >}}" target="_blank">Digital Analytics Program</a> or any other analytics software you have running on your site.
 
 If you have further questions, Vexed, you can always <a href="search@support.digitalgov.gov" target="_blank">email the DigitalGov Search team</a>.
 
 Happy searching,
-  
+
 Dawn
-  
+
 Program Manager, DigitalGov Search

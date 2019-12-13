@@ -1,0 +1,18 @@
+<aside class="guide-nav-box usa-layout-docs__sidenav">
+  <nav aria-label="Secondary navigation">
+    <ul class="usa-sidenav guide-nav">
+      {{- $current := . -}}
+      {{- $current_url := $current.URL -}}
+      <li>
+        <a class="{{- if eq .Kind "section" -}}usa-current{{- end -}}" href="{{- .CurrentSection.URL | relURL -}}" title="{{- .Title -}}">Overview</a>
+      </li>
+      {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
+      {{- range sort ($guidepages) ".Params.weight" "desc" -}}
+        {{- if not (eq .Kind "section") -}}
+          <li><a class="{{- if eq $current.URL .URL -}}usa-current{{- end -}}" href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></li>
+        {{- end -}}
+
+      {{- end -}}
+    </ul>
+  </nav>
+</aside>

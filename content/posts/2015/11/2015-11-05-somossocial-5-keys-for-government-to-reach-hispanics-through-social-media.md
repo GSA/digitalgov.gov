@@ -8,31 +8,30 @@ authors:
   - jessica-milcetich
   - edgardo-morales
   - victoria-wales
-categories:
-  - Social Media
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
-  - Facebook
-  - Federal Emergency Management Agency
-  - FEMA
+topics:
+  - social-media
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - facebook
+  - federal-emergency-management-agency
+  - fema
   - GobiernoUSAgov
   - multilingual
   - Peace Corps
   - Recaps
   - SBA
-  - social media
+  - social-media
   - Twitter
   - US Small Business Administration
-  - usa.gov
-  - USAgov
+  - usa-gov
+  - usagov
 ---
 
 Hispanics are one of [fastest growing demographics](http://www.pewresearch.org/fact-tank/2014/06/26/u-s-hispanic-and-asian-populations-growing-but-for-different-reasons/) in the U.S. But like any demographic, there are important nuances to consider when connecting with this audience. Insight into your audience’s motivations, behavior and preferences is key for anyone trying to engage with the public.
 
 We know every day that more and more Hispanics are on social media, but on which platforms?, Where are they participating? And more importantly, in what language?
 
-No issue is more debated than [the role “Spanglish” plays]({{< link "2015-06-19-real-internationalization-isnt-just-geographic-its-linguistic.md" >}}) in the way organizations communicate with the Latino community in the United States. So last Wednesday, USAGov in collaboration with DigitalGov University, hosted an interactive event exploring the critical role social media plays in reaching Hispanics in this country.
+No issue is more debated than [the role “Spanglish” plays]({{< ref "2015-06-19-real-internationalization-isnt-just-geographic-its-linguistic.md" >}}) in the way organizations communicate with the Latino community in the United States. So last Wednesday, USAGov in collaboration with DigitalGov University, hosted an interactive event exploring the critical role social media plays in reaching Hispanics in this country.
 
 {{< legacy-img src="2015/11/542-x-348-Spanglish-event-screenshot.jpg" alt="Screencap of Does Your Social Media Speak Spanglish? How to connect with multi-generational Hispanics event, including the Somos Social hashtag." >}}
 

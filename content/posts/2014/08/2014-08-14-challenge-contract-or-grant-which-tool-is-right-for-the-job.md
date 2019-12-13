@@ -5,15 +5,14 @@ title: 'Challenge, Contract or Grant &#8211; Which tool is right for the job?'
 summary: Choosing between a contract, a grant, or a public prize competition to get solutions to the problems your agency faces is a difficult task. Each is a tool that has different qualities and each might be the best choice for varying situations. Sam Ortega, the manager of the Centennial Challenges program at NASA, spoke about
 authors:
   - tlowden
-categories:
-  - Challenges
-  - Monthly Theme
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - monthly-theme
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - challenges-and-prizes-community-of-practice
   - innovation
-  - NASA
+  - nasa
   - Recaps
 ---
 
@@ -45,5 +44,5 @@ For more, view Ortega’s slides or the webinar in its entirely below:
 {{< youtube 66EX-qTBgUk >}}
 
 
-_If you would like more information on challenges and prize competitions, become part of the_ [_Federal Challenge and Prize Community listserv_]({{< link "challenges-prizes.md" >}})_. If you are interested in entering a challenge, see the list of government challenges at_ [_Challenge.gov_](http://challenge.gov/)_._
+_If you would like more information on challenges and prize competitions, become part of the_ [_Federal Challenge and Prize Community listserv_]({{< ref "challenges-prizes.md" >}})_. If you are interested in entering a challenge, see the list of government challenges at_ [_Challenge.gov_](http://challenge.gov/)_._
 _This article is part of this month&#8217;s editorial theme on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

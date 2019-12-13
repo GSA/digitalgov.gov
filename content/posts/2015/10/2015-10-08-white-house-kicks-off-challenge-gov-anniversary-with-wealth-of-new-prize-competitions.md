@@ -5,25 +5,24 @@ title: White House Kicks Off Challenge.gov Anniversary with Wealth of New Prize 
 summary: ' In a call to action issued Oct. 7, the White House announced several new programs challenging citizens to help federal agencies solve problems in areas ranging from space exploration to education. Hosted in conjunction with Georgetown University, the Case Foundation and the Joyce Foundation, the event'
 authors:
   - eric-beidel
-categories:
-  - Challenges
-tag:
-  - apps challenges
-  - ChallengeGov
-  - challenges and prize competitions
+topics:
+  - challenges
+  - apps-challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
   - DOE
-  - EPA
-  - NASA
-  - National Institute of Justice
+  - epa
+  - nasa
+  - national-institute-of-justice
   - NPS
   - OSTP
   - US Department of Education
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - US National Park Service
   - United States Geological Survey
   - USGS
-  - White House
-  - White House Office of Science and Technology Policy
+  - white-house
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Challenges-Prizes-5-year-audience.jpg" alt="Audience at Challenge.gov 5-year anniversary event" >}}

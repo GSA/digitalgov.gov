@@ -6,9 +6,8 @@ summary: 'Greater transparency is one of the goals of our Consumer Help Center, 
 authors:
   - alison-kutler
   - david-a-bray
-categories:
-  - Data
-tag:
+topics:
+  - data
   - FCC
   - Federal Communications Commission
 ---

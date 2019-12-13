@@ -1,8 +1,13 @@
 ---
-url: /resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act/
+slug: social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act
 date: 2015-11-23 1:24:51 -0400
 title: Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act
 summary: 'Inspired by the goal of promoting flexible and open interactions between federal agencies and the public this memo clarifies when and how the Paperwork Reduction Act of 1995 (the PRA) applies to Federal agency use of social media and web-based interactive technologies. Under established principles, the PRA does not apply to many uses of such media and'
+topics:
+  - social-media
+  - policy
+  - pra
+
 ---
 
 Inspired by the goal of promoting flexible and open interactions between federal agencies and the public this memo clarifies when and how the Paperwork Reduction Act of 1995 (the PRA) applies to Federal agency use of social media and web-based interactive technologies.
@@ -13,8 +18,8 @@ Under established principles, the PRA does not apply to many uses of such media 
 
 ## Related Links
 
-  * [Paperwork Reduction Act Fast-Track Process Explained]({{< link "paperwork-reduction-act-fast-track-process.md" >}})
-  * [M-11-26 Paperwork Reduction Act Fast-Track Process]({{< link "/resources/" >}})m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act/)
+  * [Paperwork Reduction Act Fast-Track Process Explained]({{< ref "paperwork-reduction-act-fast-track-process.md" >}})
+  * [M-11-26 Paperwork Reduction Act Fast-Track Process]({{< ref "/resources" >}})m-11-26-new-fast-track-process-for-collecting-service-delivery-feedback-under-the-paperwork-reduction-act/)
 
  
 
@@ -22,6 +27,6 @@ Under established principles, the PRA does not apply to many uses of such media 
 
  
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})
 
 <a><br /> </a>

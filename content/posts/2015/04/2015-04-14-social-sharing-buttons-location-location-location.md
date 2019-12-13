@@ -5,19 +5,18 @@ title: 'Social Sharing Buttons: Location, Location, Location'
 summary: ' DigitalGov has seen posts from members of the community who land on opposite sides regarding social sharing buttons. There are those who find social sharing buttons useful (When Sharing Buttons'
 authors:
   - sara-smith
-categories:
-  - Metrics
-  - Social Media
-tag:
-  - National Institutes of Health
-  - NIH
-  - social media
-  - social media metrics
+topics:
+  - metrics
+  - social-media
+  - national-institutes-of-health
+  - nih
+  - social-media
+  - social-media-metrics
 ---
 
 {{< legacy-img src="2015/04/400-x-72-fb-twitter-email-plus-sign.jpg" alt="Four typical social share icon buttons for Facebook, Twitter, email and the plus sign for more options in a horizontal line." >}}
 
-DigitalGov has seen posts from members of the community who land on opposite sides regarding social sharing buttons. There are those who find social sharing buttons useful ([When Sharing Buttons Work]({{< link "2014-04-23-when-sharing-buttons-work.md" >}}) and those who’ve found the opposite ([To Use Social Sharing Buttons or Not]({{< link "2014-04-02-to-use-social-sharing-buttons-or-not.md" >}}). I’d argue the utility can be found in adjusting how, or more specifically where, you use them. But first…
+DigitalGov has seen posts from members of the community who land on opposite sides regarding social sharing buttons. There are those who find social sharing buttons useful ([When Sharing Buttons Work]({{< ref "2014-04-23-when-sharing-buttons-work.md" >}}) and those who’ve found the opposite ([To Use Social Sharing Buttons or Not]({{< ref "2014-04-02-to-use-social-sharing-buttons-or-not.md" >}}). I’d argue the utility can be found in adjusting how, or more specifically where, you use them. But first…
 
 ## The Basics
 

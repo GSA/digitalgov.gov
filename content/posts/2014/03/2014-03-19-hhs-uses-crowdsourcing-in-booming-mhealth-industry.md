@@ -5,16 +5,15 @@ title: HHS Uses Crowdsourcing in Booming mHealth Industry
 summary: 'The mobile health (mHealth) market is projected to become a $50 billion industry by 2020, and the Department of Health and Human Services (HHS) has been actively contributing to the rise of the mHealth applications. The agency uses public prize competitions like the recent &#8220;Game On: HIV/STD Prevention Mobile Application Video Game Challenge&#8221; to crowdsource a'
 authors:
   - tlowden
-categories:
-  - Challenges
+topics:
+  - challenges
   - crowdsourcing-and-citizen-science
-  - Mobile
-tag:
-  - ChallengeGov
+  - mobile
+  - challenge-gov
   - HHS
   - innovation
   - mobile
-  - mobile apps
+  - mobile-apps
 ---
 
 The mobile health (mHealth) market is [projected to become a $50 billion industry](http://www.prweb.com/releases/mHealth-Market/GrandViewResearch/prweb11627393.htm) by 2020, and the Department of Health and Human Services (HHS) has been actively contributing to the rise of the mHealth applications. The agency uses public prize competitions like the recent &#8220;[Game On: HIV/STD Prevention Mobile Application Video Game Challenge](http://gameon.challengepost.com/)&#8221; to crowdsource a variety of health apps for the public in addition to creating mHealth apps in-house.

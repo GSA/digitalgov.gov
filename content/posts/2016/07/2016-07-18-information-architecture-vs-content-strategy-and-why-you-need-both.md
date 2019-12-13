@@ -5,20 +5,20 @@ title: Information Architecture vs Content Strategy—and Why YOU Need Both
 summary: 'The idea of portable content is nothing new. Content needs to be mobile ready, responsive, and readily consumed by tools such as the Internet of Things (IoT)&mdash;a proposed development of the Internet in which everyday objects have network connectivity, allowing them to send and receive data. Developers need to stop creating fixed, single-purpose content and'
 authors:
   - christen-geiler
-categories:
-  - Content
-  - Managing Digital
-  - strategy-and-policy
-tag:
+topics:
   - content
-  - content models
-  - content strategy
+  - product-management
+  - strategy
+  - policy
+  - content
+  - content-models
+  - content-strategy
   - COPE
   - Internet of things
-  - open and structured content models
+  - open-and-structured-content-models
 ---
 
-The idea of portable content is nothing new. Content needs to be mobile ready, responsive, and readily consumed by tools such as the Internet of Things (IoT)—a [proposed development of the Internet]({{< link "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}) in which everyday objects have network connectivity, allowing them to send and receive data. Developers need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable.
+The idea of portable content is nothing new. Content needs to be mobile ready, responsive, and readily consumed by tools such as the Internet of Things (IoT)—a [proposed development of the Internet]({{< ref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}) in which everyday objects have network connectivity, allowing them to send and receive data. Developers need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable.
 
 Two significant factors assist in portability are information architecture (IA) and content strategy (CS).
 
@@ -30,21 +30,21 @@ Now, the question is to what extent are these two things related? We believe the
 
 {{< legacy-img src="2016/07/600-x-265-architecture-and-strategy-venn-diagram.jpg" alt="An architecture and strategy venn diagram." >}}
 
-The information architecture of your site is one of the ways through which you express your [content strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}). The choices you make about what content to highlight is just another way to emphasize mission-centric issues and messages. In other words, information architecture is another expression of your voice.
+The information architecture of your site is one of the ways through which you express your [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}). The choices you make about what content to highlight is just another way to emphasize mission-centric issues and messages. In other words, information architecture is another expression of your voice.
 
 At the same time, information architecture should also be thought of as an enabler for content strategy. It helps you tell your story. It gives you the tools to lead the user through a specific path. If your information architecture does not allow certain &#8220;tours&#8221; through your content, it limits the types of stories you can tell.
 
 As such, the two are so interconnected that you cannot develop one first and the other afterwards. The two have to be developed in unison and grow iteratively with your site. As devices and channels multiply—and as users expect to easily relate, share, and shift information—we need content that can go more places, more easily.
 
-Content models within a system work with the architecture and content strategy by facilitating content portability and subject matter focused messaging. For more information on content models read, [How to Create Portable Content with Structured Content Models]({{< link "2016-05-05-how-to-create-portable-content-with-structured-content-models.md" >}}), and if you have questions, please reach out and [email me](mailto:Christen.Geiler@nih.gov).
+Content models within a system work with the architecture and content strategy by facilitating content portability and subject matter focused messaging. For more information on content models read, [How to Create Portable Content with Structured Content Models]({{< ref "2016-05-05-how-to-create-portable-content-with-structured-content-models.md" >}}), and if you have questions, please reach out and [email me](mailto:Christen.Geiler@nih.gov).
 
 ## So who is successfully integrating IA and CS?
 
-Federal agencies need to think hard about information architecture, [content strategy]({{< link "tag/content-strategy" >}}), and [content models]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) to stay future-ready.
+Federal agencies need to think hard about information architecture, [content strategy]({{< ref "/topics/content-strategy" >}}), and [content models]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) to stay future-ready.
 
 {{< legacy-img src="2016/07/600-x-275-NPR-Digital-Media.jpg" alt="Composite image of NPR Digital Media examples." >}}
 
-National Public Radio (NPR) utilizes IA and CS to facilitate their process of COPE (Create Once, Publish Everywhere) adaptable content. In the short video below, Sarah Crane of USA.gov talks about adaptive content and how it works with APIs, using NPR as an exmple; she and her team [used COPE to re-work USA.gov&#8217;s content strategy]({{< link "2015-04-13-the-content-corner-structured-content-challenges-and-lessons-learned.md" >}}).
+National Public Radio (NPR) utilizes IA and CS to facilitate their process of COPE (Create Once, Publish Everywhere) adaptable content. In the short video below, Sarah Crane of USA.gov talks about adaptive content and how it works with APIs, using NPR as an exmple; she and her team [used COPE to re-work USA.gov&#8217;s content strategy]({{< ref "2015-04-13-the-content-corner-structured-content-challenges-and-lessons-learned.md" >}}).
 
 [youtube=http://www.youtube.com/watch?v=giK-RsHjA4c&w=600]
 

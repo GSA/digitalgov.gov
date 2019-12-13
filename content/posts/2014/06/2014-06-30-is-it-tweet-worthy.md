@@ -5,26 +5,25 @@ title: Is It Tweet-Worthy?
 summary: 'The Web now contains over 1.51 billion pages of content, according to WorldWideWebSize.com. That’s a lot of reading material, and a lot of content competing with yours for attention. People won’t waste time (even a few seconds) on an article that doesn’t matter to them in some way&mdash;not when there are so many other interesting'
 authors:
   - rflagg
-categories:
-  - Content
-  - Monthly Theme
-  - Social Media
-tag:
+topics:
+  - content
+  - monthly-theme
+  - social-media
   - GAO
-  - NASA
+  - nasa
   - Peace Corps
-  - Plain language
-  - SocialGov Community
+  - plain-language
+  - socialgov-community
   - Twitter
   - US Government Accountability Office
-  - Web Content Managers Forum
+  - web-content-managers-forum
 ---
 
 The Web now contains over 1.51 **billion** pages of content, according to [WorldWideWebSize.com](http://www.worldwidewebsize.com/). That’s a lot of reading material, and a lot of content competing with yours for attention.
 
 People won’t waste time (even a few seconds) on an article that doesn’t matter to them in some way—not when there are so many other interesting things to read on the Web.
 
-But what makes something “tweet-worthy?” What can you do to capture your audience’s attention and entice them to share broadly in their networks? We caught up with a few from our Digital Gov [Web Managers]({{< link "web-managers-forum.md" >}}) and [SocialGov]({{< link "social-media.md" >}}) communities for some advice.
+But what makes something “tweet-worthy?” What can you do to capture your audience’s attention and entice them to share broadly in their networks? We caught up with a few from our Digital Gov [Web Managers]({{< ref "web-managers-forum.md" >}}) and [SocialGov]({{< ref "social-media.md" >}}) communities for some advice.
 
 ## Lists Make Great Twitter Content
 

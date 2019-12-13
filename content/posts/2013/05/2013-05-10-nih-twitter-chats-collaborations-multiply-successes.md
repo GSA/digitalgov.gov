@@ -5,10 +5,9 @@ title: 'NIH Twitter Chats: Collaborations Multiply Successes'
 summary: Twitter Chat discussing anxiety, stress, and complementary health practices December 18, 2012
 authors:
   - lnelson
-categories:
-  - Social Media
-tag:
-  - NIH
+topics:
+  - social-media
+  - nih
   - Twitter
 ---
 
@@ -44,7 +43,7 @@ tag:
 </p>
 
   * <p dir="ltr">
-      <a title="Twitter Chat Guidance for Federal Agencies" href="{{< link "2013-10-16-twitter-chats-for-federal-agencies.md" >}}">Twitter Chat Guidance for Federal Agencies</a>
+      <a title="Twitter Chat Guidance for Federal Agencies" href="{{< ref "2013-10-16-twitter-chats-for-federal-agencies.md" >}}">Twitter Chat Guidance for Federal Agencies</a>
     </p>
 
 By guest blogger **Yasmine Kloth**, Digital and Social Media Strategist, working with the National Center for Complementary and Alternative Medicine.

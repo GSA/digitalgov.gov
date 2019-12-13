@@ -1,11 +1,40 @@
 ---
-url: /communities/devops/
-uid: devops
-date: 2019-05-29 12:58:00 -0500
-title: "DevOps Community of Practice"
-deck: "Operating rapidly changing resilient systems at scale"
-summary: "The practice of operations and development staff participating together in the in the entire service lifecycle operate rapidly changing resilient systems at scale."
+# View this page at https://digital.gov/communities/devops
+# Learn how to edit our pages at https://workflow.digital.gov
 
+slug: devops
+date: 2019-12-12 19:00:00 -0500
+title: "DevOps"
+deck: "Operating rapidly changing resilient systems at scale"
+summary: "The practice of operations and development staff participating in the in the entire service lifecycle to operate rapidly changing resilient systems at scale."
+
+# see all topics at https://digital.gov/topics
+topics:
+  - devops
+
+# see all authors at https://digital.gov/authors
+authors:
+  - brian-fox
+  - peter-burkholder
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
+community_list:
+  - platform: listserv
+    type: government
+    subscribe_email: "devops-today-subscribe-request@listserv.gsa.gov"
+    subscribe_email_subject: "Subscribe to DevOps"
+    terms: "Open to anyone with a .gov or .mil email address."
+  - platform: listserv
+    type: public
+    subscribe_email: devops-public-subscribe-request@listserv.gsa.gov
+    subscribe_email_subject: "Subscribe Public DevOps"
+
+
+# Make it better ♥
 ---
 
 The DevOps Community of Practice (CoP) provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.
@@ -16,7 +45,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-- Please check back for upcoming meetings. 
+- Please check back for upcoming meetings.
 
 ## Past Meetings
 
@@ -28,7 +57,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 - [**July Meeting**](https://digital.gov/event/2019/07/23/devops-cop-monthly-meeting/)
 
 ## Join
-We have two listservs available, one for Federal Employees, and one for all individuals: 
+We have two listservs available, one for Federal Employees, and one for all individuals:
 
 - To join our federal government employee only Listserv, send an email from your official government email to: [devops-today-subscribe-request@listserv.gsa.gov](mailto:devops-today-subscribe-request@listserv.gsa.gov)
 

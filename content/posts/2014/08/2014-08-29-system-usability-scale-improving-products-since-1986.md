@@ -5,15 +5,14 @@ title: 'System Usability Scale (SUS): Improving Products Since 1986'
 summary: Trying to measure usability can be a head scratcher. How easy something is to use depends on where you are, who you are, and a number of other factors. Luckily in the world of usability, there exists a post-test survey known as the System Usability Scale, introduced in 1986 by an engineer named John Brooke,
 authors:
   - georgia-gallavin
-categories:
-  - Design
+topics:
+  - design
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - DigitalGov User Experience Program
   - OPM
   - United States Office of Personnel Management
-  - usability testing
+  - usability-testing
 ---
 
 Trying to measure usability can be a head scratcher. How easy something is to use depends on where you are, who you are, and a number of other factors. Luckily in the world of usability, there exists a post-test survey known as the [System Usability Scale](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), introduced in 1986 by an engineer named John Brooke, who was trying to solve this very dilemma.
@@ -26,9 +25,7 @@ The System Usability Scale he created asks users their opinion on how easy somet
 
 Here&#8217;s what an SUS looks like:
 
-**System Usability Scale Questionnaire
-  
-** 
+**System Usability Scale Questionnaire** 
 
 1. I think I would like to use this system frequently.
   
@@ -56,4 +53,6 @@ By alternating negative and positive statements, the SUS questions make people t
 
 Maybe you want to know if people think the smartphone app you created to help fill out taxes is easy to use. After testers finish trying to use the app, you can tack on a SUS survey at the end and substitute the original questionnaire wording &#8220;system” for “mobile app.” Voila! You have created a System Usability Scale survey for your specific product.
 
-Even though the SUS is turning a mature 28 years old this year, its accuracy, reliability, and utility is a good indication that this survey will be around for many years to come._**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She recently finished her internship with the [DigitalGov User Experience Program]({{< link "digitalgov-user-experience-resources.md" >}}) at GSA._
+Even though the SUS is turning a mature 28 years old this year, its accuracy, reliability, and utility is a good indication that this survey will be around for many years to come. 
+
+_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She recently finished her internship with the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}}) at GSA._

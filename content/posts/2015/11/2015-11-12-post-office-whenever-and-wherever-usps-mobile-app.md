@@ -5,14 +5,13 @@ title: Post Office Whenever and Wherever—USPS Mobile® App
 summary: Gone are the days when you have to drive miles on a hot and humid afternoon or a cold wintry morning to your local post office to mail your letters, get your stamps or determine how much postage you will need for that package. Technology has become integral to our lives, and now many of
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - ios
-  - mobile apps
+  - mobile-apps
   - SSA
   - The United States Social Security Administration
-  - Thursday Mobile Products
+  - thursday-mobile-products
   - United States Postal Service
   - USPS
 ---
@@ -25,7 +24,7 @@ Categorized under business, the **USPS Mobile®** app services customers’ post
 
 So what can this app do for you?
 
-The USPS Tracking tool allows you to check the status of your shipments sent using certain delivery services such as Priority Mail. You are able to nickname your shipments, save them in the app and sign-up for text alerts. Now with the latest version of the app, you can use the device’s camera to scan barcodes on shipping labels, scan [QR codes]({{< link "2014-10-06-trends-on-tuesday-are-qr-codes-still-relevant.md" >}}) on USPS receipts for easy and convenient tracking of your packages and other mail. The application stores the label numbers so customers can easily re-check the status of their shipments and can stay on top of the status.
+The USPS Tracking tool allows you to check the status of your shipments sent using certain delivery services such as Priority Mail. You are able to nickname your shipments, save them in the app and sign-up for text alerts. Now with the latest version of the app, you can use the device’s camera to scan barcodes on shipping labels, scan [QR codes]({{< ref "2014-10-06-trends-on-tuesday-are-qr-codes-still-relevant.md" >}}) on USPS receipts for easy and convenient tracking of your packages and other mail. The application stores the label numbers so customers can easily re-check the status of their shipments and can stay on top of the status.
 
 The app allows you to calculate domestic or international price to determine how much postage you will need when you ship a letter, card, large envelope or package with some limitations. You can choose retail or online pricing, add any extra services you need and view the total, too.
 
@@ -37,4 +36,4 @@ There is also the “hold mail” service for keeping your mail at the local pos
 
 Overall, this popular USPS Mobile app may be worthy of your consideration with consistently high store rankings in the business category.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

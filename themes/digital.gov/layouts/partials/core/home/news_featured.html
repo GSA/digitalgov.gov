@@ -1,0 +1,117 @@
+{{/* News & Updates */}}
+
+<section id="posts_featured" class="stream">
+  <div class="paper">
+    <div class="grid-container grid-container-desktop">
+
+      <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12">
+          <header class="header-posts">
+            <h2>News and Events</h2>
+            <p>Innovative work, news, and ideas from people and teams in government</p>
+
+            <div class="join-buttons">
+              <a href="{{- "/join" | absURL -}}">Write for us</a>
+              <a href="{{- "/join" | absURL -}}">Host an event</a>
+            </div>
+
+          </header>
+        </div>
+      </div>
+
+      <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12">
+
+          <section class="stream">
+
+            {{/* Future Events ===========================  */}}
+            {{- $events := where .Site.RegularPages.Reverse  "Section" "events" -}}
+
+            {{/* gets the # of news items to display from the config.yml */}}
+            {{- $events_count := .Site.Params.events_count -}}
+
+            {{- $events := $events | intersect (where $events "Date" "ge" (now.AddDate 0 0 0)) | first 2 -}}
+
+            {{/* Past Events =========================== */}}
+            {{/* only the ones with videos */}}
+            {{- $past_events := where (where .Site.RegularPages.ByDate.Reverse "Section" "events") ".Date.Unix" "<" now.Unix -}}
+
+            {{/* Gets the past events that have youtube_id set  */}}
+            {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+
+            {{/* Posts =========================== */}}
+            {{/* Gets the recent blog posts */}}
+            {{- $posts := where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}
+
+            {{/* Merges the past events and the recent blog posts */}}
+            {{ $stream := union $posts $past_events }}
+            {{/* {{ $stream := union $posts $events }} */}}
+
+            {{/* Sorting all the items by date and reverse chron */}}
+            {{ $stream := $stream.ByDate.Reverse }}
+            {{ $stream := $stream.ByWeight }}
+
+            {{/* gets the # of news items to display from the config.yml */}}
+            {{ $stream_count := .Site.Params.stream_count }}
+
+            {{/* Gets the first X items for the news stream */}}
+            {{/* The # is defined in the config.yml file */}}
+            {{- range $i, $el := first $stream_count $stream -}}
+
+
+              {{- with $events -}}
+                {{- if eq $i 2 -}}
+                  {{- range first 1 $events -}}
+                    {{- .Render "card-event" -}}
+                  {{- end -}}
+                {{- end -}}
+
+                {{- if eq $i 8 -}}
+                  {{- range first 1 (after 1 $events) -}}
+                    {{- .Render "card-event" -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+
+
+              {{- if eq .Type "events" -}}
+                {{- if .Date.Before now -}}
+                  {{- .Render "card-event-past" -}}
+                {{- end -}}
+              {{- end -}}
+
+              {{- if eq .Type "posts" -}}
+                {{/* External links */}}
+                {{- if .Params.source -}}
+                  {{/* see /layouts/posts/ for card templates */}}
+                  {{ .Render "card-elsewhere"}}
+                {{ else }}
+                  {{/* Blog Posts — Internal links */}}
+                  {{- if .Params.deck }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ else }}
+                    {{/* see /layouts/posts/ for card templates */}}
+                    {{ .Render "card-article"}}
+                  {{ end }}
+                {{ end }}
+              {{- end -}}
+
+            {{- end -}}
+          </section>
+
+        </div>
+      </div>
+
+      <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <footer>
+            <a class="btn" href="{{ "posts" | absURL }}" title=""><span>See all News</span> <i class="fas fa-arrow-circle-right"></i></a>
+            <p>Have a case study to share? Did your team recently launch something?<br/><a href="mailto:digitalgov@gsa.gov" title=""><strong>Learn how you can contribute</strong></a></p>
+          </footer>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>

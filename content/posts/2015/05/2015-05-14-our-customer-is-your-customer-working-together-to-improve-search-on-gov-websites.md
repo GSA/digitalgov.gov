@@ -5,15 +5,14 @@ title: 'Our Customer is Your Customer: Working Together to Improve Search on .Go
 summary: 'We know search engines aren’t Magic 8 Balls, but that&#8217;s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we&#8217;ve felt that frustration when the top search results don&#8217;t serve our needs, and the results page itself makes us work.'
 authors:
   - dmccleskey
-categories:
-  - Monthly Theme
-  - Our Work
-tag:
-  - Customer Experience
-  - customer satisfaction
-  - customer service
-  - DigitalGov Search
-  - search engine optimization
+topics:
+  - monthly-theme
+  - our-work
+  - cx
+  - customer-satisfaction
+  - customer-service
+  - digitalgov-search
+  - search-engine-optimization
 ---
 
 We know search engines aren’t Magic 8 Balls, but that&#8217;s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we&#8217;ve felt that frustration when the top search results don&#8217;t serve our needs, and the results page itself makes us work.
@@ -32,7 +31,7 @@ Speed is important for search engine optimization, too. Google uses your site’
 
 There are plenty of search products that are hard to use. The search box is too small or hard to use. The search results page gives general, uninformative content unrelated to the search, provides too many options or puts them in the unhelpful places, distracts us with unclear icons, or buries content down the page; I could go on. A [2014 study of Google click through rates on 5,000 websites](https://moz.com/blog/google-organic-click-through-rates-in-2014) showed that over 70% of searches led to a page one click, and almost all of those clicks were in the top five results.
 
-Our own data shows a [similar focus on the top results]({{< link "2014-11-12-follow-the-clicks-a-look-at-click-through-rates-on-government-websites.md" >}}).
+Our own data shows a [similar focus on the top results]({{< ref "2014-11-12-follow-the-clicks-a-look-at-click-through-rates-on-government-websites.md" >}}).
 
 So, we focus on bringing the most relevant results to the top, where users are likely to see them. And, if the main search results aren&#8217;t delivering the right content, our [Best Bets](http://search.digitalgov.gov/manual/best-bets-text.html) allow our agency customers to boost particular results to the very top and make sure they get found.
 

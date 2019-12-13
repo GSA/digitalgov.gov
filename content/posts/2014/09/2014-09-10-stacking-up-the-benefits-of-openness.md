@@ -5,13 +5,12 @@ title: Stacking Up the Benefits of Openness
 summary: Open government, open source, openness. These words are often used in talking about open data, but we sometimes forget that the root of all of this is an open community. Individuals working together to release government data and put it to use to help their neighbors and reach new personal goals. This sense of community
 authors:
   - jeanne-holm
-categories:
-  - Code
-  - Social Media
-tag:
-  - data.gov
-  - open government
-  - open source
+topics:
+  - code
+  - social-media
+  - data-gov
+  - open-government
+  - open-source
   - Terms of Service
 ---
 
@@ -25,6 +24,6 @@ We launched the Open Data Stack Exchange in 2013 as a way of helping to build co
 
 What are people asking on the Open Data Stack Exchange? One question is [seeking applications being developed with open data](http://opendata.stackexchange.com/questions/3346/looking-for-examples-of-useful-applications-that-are-being-developed-using-open), one is looking for a [database of open databases](http://opendata.stackexchange.com/questions/266/a-database-of-open-databases) and another seeks [data about the Ebola outbreak](http://opendata.stackexchange.com/questions/3484/2014-ebola-outbreak-dataset). Answers, edits, comments, suggestions&#8230;all are part of the conversation and documentation of our collective open data knowledge. This type of community-vetted, open forum helps to evolve and preserve our collective wisdom into the future. I encourage people who ask questions of Data.gov to do so on Stack Exchange so that everyone can see the answer, and [flag those](http://opendata.stackexchange.com/questions/tagged/data.gov) for easy reference ([OpenFDA](http://opendata.stackexchange.com/questions/tagged/openfda) does the same).
 
-To help encourage you to ask questions, make comments, and join in answering questions, the U.S. General Services Administration (GSA) just completed negotiations with Stack Exchange to amend their terms for easier government use. There are more than 100 Stack Exchange forums, ranging from [Stack Overflow for programming](http://stackoverflow.com/) to [English language and usage](http://english.stackexchange.com/) to [user experience](http://ux.stackexchange.com/). In addition to Stack Exchange, GSA’s DigitalGov team has negotiated government-wide terms and services with [more than 70 other digital media companies]({{< link "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements") for you to use in connecting and collaborating with others.
+To help encourage you to ask questions, make comments, and join in answering questions, the U.S. General Services Administration (GSA) just completed negotiations with Stack Exchange to amend their terms for easier government use. There are more than 100 Stack Exchange forums, ranging from [Stack Overflow for programming](http://stackoverflow.com/) to [English language and usage](http://english.stackexchange.com/) to [user experience](http://ux.stackexchange.com/). In addition to Stack Exchange, GSA’s DigitalGov team has negotiated government-wide terms and services with [more than 70 other digital media companies]({{< ref "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements") for you to use in connecting and collaborating with others.
 
 Feel free to participate and contribute your knowledge and be part of the amazing, evolving open data community!

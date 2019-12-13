@@ -7,14 +7,13 @@ summary: "Today's update introduces a powerful toolkit of new features to help m
 authors:
   - dan-williams
   - maya-benari
-categories:
+topics:
   - code
   - design
-  - managing-digital
+  - product-management
   - mobile
   - ux
   - accessibility
-tag:
   - uswds
 featured_image:
   uid: uswds-2-illio-feature-image-black

@@ -5,20 +5,19 @@ title: Case Studies in Thunderclap
 summary: 'Now that Thunderclap has been approved for government use for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar. [youtube=http://www.youtube.com/watch?v=QuACkq02GVw&w=600]   What Makes a Thunderclap? Nicholas Garlow, public affairs specialist'
 authors:
   - alison-lemon
-categories:
-  - Social Media
-tag:
-  - EPA
-  - FDA
+topics:
+  - social-media
+  - epa
+  - fda
   - HHS
   - Recaps
-  - SocialGov Community
-  - US Environmental Protection Agency
-  - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - socialgov-community
+  - us-environmental-protection-agency
+  - us-food-and-drug-administration
+  - united-states-department-of-health-and-human-services
 ---
 
-Now that Thunderclap has been [approved for government use]({{< link "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}} "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.
+Now that Thunderclap has been [approved for government use]({{< ref "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}} "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.
 
 {{< youtube QuACkq02GVw >}}
 
@@ -63,4 +62,4 @@ EPA achieved success on their next two campaigns, [On Earth Day, #ActOnClimate!]
 
 Tell us: Has your agency used Thunderclap?
 
-_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community]({{< link "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._
+_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community]({{< ref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

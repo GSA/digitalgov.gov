@@ -5,9 +5,8 @@ title: Census Bureau Releases Key Statistics in Honor of Independence Day
 summary: 'On July 4, 1776, the Continental Congress approved the Declaration of Independence, setting the 13 colonies on the road to freedom as a sovereign nation. This most American of holidays [is] marked with typical festivities ranging from fireworks, parades and concerts to more casual family gatherings and barbecues across the country. In honor of our'
 authors:
   - the-commerce-blog
-categories:
-  - Data
-tag:
+topics:
+  - data
   - Census
   - data
   - United States Census Bureau

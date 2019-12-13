@@ -1,0 +1,169 @@
+// Content settings
+
+.usa-prose{
+  a{
+    @include u-text('no-underline');
+    &:hover{
+      @include u-text('underline');
+    }
+  }
+
+  // Applies the arrow to all external links
+  // Select all the links with href that start with "http" and do not contain ".gov"
+  // See https://css-tricks.com/attribute-selectors/
+  a[href^=http]:not([href*=".gov"]):after {
+    background: url(../lib/uswds/img/external-link.svg) no-repeat 0 0;
+    background-size: 100%;
+    content: "";
+    display: inline-block;
+    height: .65em;
+    margin-bottom: -1px;
+    margin-left: .25rem;
+    width: .65em;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @include u-margin-bottom(0);
+  }
+
+
+  // h2{
+  //   @include u-margin-top(6);
+  //   @include u-padding-top(1.5);
+  //   @include u-line-height('sans', 3);
+  //   @include u-text('bold');
+  // }
+  // h3{
+  //   @include u-margin-top(4);
+  //   @include u-text('bold');
+  // }
+  // h4{
+  //   @include u-margin-top(3);
+  // }
+  // h5{
+  //   @include u-margin-top(3);
+  //   @include u-text('bold');
+  // }
+  // h5 +* {
+  //   @include u-margin-top(1);
+  // }
+  // h6{
+  //   @include u-margin-top(3);
+  //   @include u-text('uppercase');
+  //   @include u-text('thin');
+  // }
+  // h6 +* {
+  //   @include u-margin-top(0.5);
+  // }
+
+  // HR tags
+  hr{
+    @include u-margin-y(3);
+    clear:both;
+  }
+
+  // Lists
+  // li {
+  //   @include u-margin-bottom('105');
+  //   @include u-line-height('sans', 4);
+  //   ul,
+  //   ol{
+  //     @include u-margin-y(1);
+  //     @include u-padding-x(3);
+  //   }
+  // }
+
+  // Code
+  code{
+    @include u-padding-x('05');
+    @include u-padding-y('1px');
+    @include u-bg('base-lightest');
+    @include u-font('mono', '2xs');
+    @include u-color('red-50');
+    @include u-border('1px', 'solid', 'base-lighter');
+    @include u-radius(sm);
+  }
+
+  pre {
+    @include u-padding-x(3);
+    @include u-padding-y(2);
+    @include u-padding-right(4);
+    @include u-padding-bottom('205');
+    @include u-bg('base-lightest');
+    @include u-border('1px', 'solid', 'base-lighter');
+    @include u-color('indigo-warm-80');
+    @include u-radius('md');
+    @include u-font('mono', '2xs');
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+  }
+
+  // Quotes
+  blockquote{
+    @include u-margin-x(5);
+    @include u-measure(2);
+  }
+  .quote{
+    @include u-margin-x(0);
+    @include u-padding(3);
+  }
+  .quote.inline{
+    @include u-border-top(1);
+    @include u-margin-top(1);
+    @include u-margin-left(2);
+    @include u-padding-y(1);
+    @include u-padding-x(0);
+    @include u-padding-bottom(2);
+    @include u-font-family('serif');
+    @include u-width('card-lg');
+    @include u-float('right');
+  }
+
+  // tables
+  table{
+    @include u-margin-y(2);
+    @include u-font('sans', 'xs');
+    @include u-width('full');
+    tr{
+      th{
+        @include u-text('left');
+      }
+      th,
+      td{
+        @include u-padding-y(1);
+        @include u-padding-x(1);
+        vertical-align: top;
+        @include u-border-bottom('1px', 'solid', 'base-lighter');
+        a{
+          @include u-text('no-underline');
+          &:hover{
+            @include u-text('underline');
+          }
+        }
+        .icon{
+          @include u-width('205');
+        }
+      }
+      th:first-child,
+      td:first-child{
+        @include u-padding-left(0);
+      }
+      th:last-child,
+      td:last-child{
+        @include u-padding-right(0);
+      }
+    }
+  }
+
+}
+
+.usa-prose > *:first-child {
+  @include u-margin-top(0);
+}

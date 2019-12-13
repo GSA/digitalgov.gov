@@ -20,6 +20,10 @@ venue:
   map: https://goo.gl/maps/bFWBD6QfDLA2
 aliases:
   - /event/february-plain-meeting/
+topics:
+  - plain-language
+  - plain-language-community-of-practice
+
 ---
 
 We :heart: our volunteers.

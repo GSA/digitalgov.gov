@@ -5,16 +5,15 @@ title: Getting to Work for the American People
 summary: 'Over the last 6 months, 18F has embarked on a mission to transform the way the U.S. Government builds and buys digital services. We’re currently working with more than half a dozen agencies to help them deliver on their missions in a design-centric, agile, open, and data-driven way. How do we say yes to a'
 authors:
   - 18f-team
-categories:
-  - Code
-tag:
-  - 18F
-  - data.gov
+topics:
+  - code
+  - 18f
+  - data-gov
   - DOI
   - DOJ
   - FEC
   - Federal Election Commission
-  - open government
+  - open-government
   - Peace Corps
   - US Citizenship and Immigration Service
   - US Department of Justice
@@ -90,5 +89,3 @@ Please stay tuned! Follow 18F on our [blog](http://18fblog.tumblr.com/), [Twitte
 
   * [Twitter @18F](https://twitter.com/18f)
   * [GitHub/18F](https://github.com/18f)_This post was originally published on the [18f blog](https://18f.gsa.gov/2014/09/18/getting-to-work-for-the-american-people/)._
-
- 

@@ -5,20 +5,20 @@ title: Build Your Audience by Hosting a Twitter Chat
 summary: 'Twitter is more than just a platform for sharing news and updates: it can be a tool for directly communicating with your community and understanding what is important to them. One way you can connect with your Twitter audience is by hosting a Twitter Chat. They can be a good way to discuss key topics,'
 authors:
   - aids-gov
-categories:
-  - Content
-  - Managing Digital
-  - Social Media
-  - strategy-and-policy
-  - Writing
-tag:
-  - AIDS-gov
-  - content strategy
-  - customer service
-  - social media
+topics:
+  - content
+  - product-management
+  - social-media
+  - strategy
+  - policy
+  - writing
+  - aids-gov
+  - content-strategy
+  - customer-service
+  - social-media
 ---
 
-Twitter is more than just a platform for sharing news and updates: it can be a tool for directly communicating with your community and understanding what is important to them. One way you can connect with your Twitter audience is by hosting a Twitter Chat. They can be a good way to discuss key topics, raise awareness, and exchange knowledge and resources between you and the community. Several HIV organizations host Twitter chats on health topics, during HIV awareness days relevant to their community, and/or during HIV/AIDS conferences. You can also check in with your followers to see if there is a topic or issue that they’d like to discuss. {{< legacy-img src="2015/12/600-x-450-Vector-Card-With-Birds-leedsn-iStock-Thinkstock-484475995-Converted.jpg" alt="An illustration of various birds having a meeting on telephone wires above a cityscape." caption="leedsn/iStock/Thinkstock" >}} 
+Twitter is more than just a platform for sharing news and updates: it can be a tool for directly communicating with your community and understanding what is important to them. One way you can connect with your Twitter audience is by hosting a Twitter Chat. They can be a good way to discuss key topics, raise awareness, and exchange knowledge and resources between you and the community. Several HIV organizations host Twitter chats on health topics, during HIV awareness days relevant to their community, and/or during HIV/AIDS conferences. You can also check in with your followers to see if there is a topic or issue that they’d like to discuss. {{< legacy-img src="2015/12/600-x-450-Vector-Card-With-Birds-leedsn-iStock-Thinkstock-484475995-Converted.jpg" alt="An illustration of various birds having a meeting on telephone wires above a cityscape." caption="leedsn/iStock/Thinkstock" >}}
 
 We’ve compiled a few tips to get you started, thanks to our friends at the [Office of Disease Prevention and Health Promotion](https://www.health.gov/) (ODPHP), who created a long-standing resource for hosting [Twitter chats](https://www.health.gov/healthliteracyonline/2010/Twitter_Chat_Guide.pdf) [148 kb, PDF].
 
@@ -34,10 +34,10 @@ Next, you’ll want to **determine your chat’s purpose**. It’s important to 
 
 Next, you’ll want to make sure you create a hashtag so your audience can follow along. You can find hashtags that are currently being used here:
 
-  * [Healthcare Hashtag Project](https://www.symplur.com/healthcare-hashtags/) 
-  * [Twitter.com](https://twitter.com/) 
-  * [Hashtags.org](https://www.hashtags.org/) 
-  * [Tagdef](https://tagdef.com/) 
+  * [Healthcare Hashtag Project](https://www.symplur.com/healthcare-hashtags/)
+  * [Twitter.com](https://twitter.com/)
+  * [Hashtags.org](https://www.hashtags.org/)
+  * [Tagdef](https://tagdef.com/)
 
 You’ll want to choose a hashtag that isn’t currently being used by another organization or individual. This will help ensure that your Twitter chat isn’t lost in another conversation.
 
@@ -67,16 +67,16 @@ You’ve picked a date, you’ve planned your questions, you share your first tw
 
 In addition to Twitter, there are a few tools that can help you and your team follow along during your Twitter chat. Each tool can help you follow your hashtag and keep track of the replies:
 
-  * [Tweetdeck](https://tweetdeck.twitter.com/) 
-  * [Tweetchat](http://www.tweetchat.com/) 
-  * [TweetGrid](http://www.tweetgrid.com/) 
-  * [Monitter](http://www.monitter.com/) 
-  * [Twubs](http://twubs.com/) 
+  * [Tweetdeck](https://tweetdeck.twitter.com/)
+  * [Tweetchat](http://www.tweetchat.com/)
+  * [TweetGrid](http://www.tweetgrid.com/)
+  * [Monitter](http://www.monitter.com/)
+  * [Twubs](http://twubs.com/)
 
-If you’d like to learn more about Twitter chats, don’t forget to sign up for our [Virtual Office Hours](https://www.aids.gov/using-new-media/tools/office-hours/). 
+If you’d like to learn more about Twitter chats, don’t forget to sign up for our [Virtual Office Hours](https://www.aids.gov/using-new-media/tools/office-hours/).
 
 _All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
 
 _This post was originally published on the [AIDS.gov blog](https://blog.aids.gov/)._
 
-_For more tips and resources, check out [Twitter Chat Guidance for Federal Agencies]({{< link "2013-10-16-twitter-chats-for-federal-agencies.md" >}}), [Meeting Customer Needs Through Social Media]({{< link "2015-04-24-meeting-customer-needs-through-social-media.md" >}}), [Great Customer Service in 140 Characters: #AskFAFSA Twitter Chats]({{< link "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}), and other recent articles in our [Social Media category]({{< link "categories/socialmedia" >}})._
+_For more tips and resources, check out [Twitter Chat Guidance for Federal Agencies]({{< ref "2013-10-16-twitter-chats-for-federal-agencies.md" >}}), [Meeting Customer Needs Through Social Media]({{< ref "2015-04-24-meeting-customer-needs-through-social-media.md" >}}), [Great Customer Service in 140 Characters: #AskFAFSA Twitter Chats]({{< ref "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}), and other recent articles in our [Social Media category]({{< ref "/topics/social-media" >}})._

@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,12 @@ last_name: Goldman
 uid: jason-goldman
 email: ""
 bio: Jason Goldman grew up in St. Louis, Missouri and graduated with a degree in Astrophysics from Princeton University. He was part of the Blogger team acquired by Google in 2003. He worked as a product manager for Google from 2003 to 2006. In 2007, he helped start Twitter Inc where he was Head of Product and served on the board of directors until 2010. Along with Twitter co-founders Ev Williams and Biz Stone he started the Obvious Corporation in 2011 which has helped finance and found companies such as Branch and Medium. In April 2015, he became the first Chief Digital Officer of the White House.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

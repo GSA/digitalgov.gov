@@ -6,11 +6,10 @@ summary: Today, people rely heavily on insecure and inefficient means to access 
 authors:
   - jennifer-kerber
   - jonathan-prisby
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - cloud
-  - Connect.gov
+  - connect-gov
   - GSA
   - National Institute of Standards and Technology
   - NIST

@@ -5,11 +5,10 @@ title: 'New Playbook Details What It&#8217;s Like to Work with 18F Delivery'
 summary: If you or your agency have thought about working with 18F but are unsure of how we work with our partners, we have a new set of guidelines to help you out. The 18F Delivery Partner Playbook is specifically targeted at federal offices interested in working with 18F to build digital services. The playbook is
 authors:
   - will-slack
-categories:
-  - Code
-  - Managing Digital
-tag:
-  - 18F
+topics:
+  - code
+  - product-management
+  - 18f
 ---
 
 If you or your agency have thought about working with 18F but are unsure of how we work with our partners, we have a new set of guidelines to help you out. The [18F Delivery Partner Playbook](https://pages.18f.gov/partnership-playbook/) is specifically targeted at federal offices interested in working with 18F to build digital services. {{< legacy-img src="2015/11/600-x-427-Football-Strategy-And-Whistle-On-Digital-Tablet-AndreyPopov-iStock-Thinkstock-473149168.jpg" alt="A whistle lays on top of a digital tablet that is displaying a football strategy play." caption="" >}} 

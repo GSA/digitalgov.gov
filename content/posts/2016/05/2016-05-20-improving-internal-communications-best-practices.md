@@ -5,13 +5,12 @@ title: 'Improving Internal Communications: Best Practices'
 summary: Customers are not the only group with whom we need to effectively communicate as we work to improve our quality of service. Effective communication between employees and leadership is critical to improving the customer experience. Front line employees interact with the public on a regular basis, and if employees do not have the information they
 authors:
   - alison-sturgeon
-categories:
-  - Managing Digital
-  - Monthly Theme
-tag:
-  - Customer Experience
-  - Customer Experience Community of Practice
-  - CX
+topics:
+  - product-management
+  - monthly-theme
+  - cx
+  - customer-experience-community-of-practice
+  - cx
   - Ex-Im Bank
   - Federal Student Aid
   - FSA

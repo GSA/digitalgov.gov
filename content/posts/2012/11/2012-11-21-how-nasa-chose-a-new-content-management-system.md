@@ -5,18 +5,18 @@ title: How NASA Chose a New Content Management System
 summary: 'A case study on how NASA is choosing a new enterprise content management system (CMS). The Challenge NASA.gov needs a new enterprise CMS. They’re facing issues such as software obsolescence, inconsistent website governance, and a large amount of unstructured content stored in flat HTML files. Their current system is almost a decade old, and the'
 authors:
   - brian-dunbar
-categories:
-  - API
-  - Content
-  - Governance
-  - strategy-and-policy
-tag:
+topics:
+  - api
+  - content
+  - governance
+  - strategy
+  - policy
   - CMS
-  - Content Management System
-  - NASA
+  - content-management-system
+  - nasa
 ---
 
-A case study on how NASA is choosing a new enterprise [content management system (CMS)]({{< link "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit").
+A case study on how NASA is choosing a new enterprise [content management system (CMS)]({{< ref "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit").
 
 ## The Challenge {{< legacy-img src="2014/07/250-x-250-Vector-cms-round-icon-nickylarson974-iStock-Thinkstock-486974655.jpg" alt="A round CMS icon" caption="" >}}
 
@@ -47,4 +47,4 @@ Key takeaways:
 
 ## Resources
 
-  * Read the [9 Reasons Your Agency Should Have a CMS]({{< link "2013-12-12-9-reasons-your-agency-should-have-a-cms.md" >}} "9 Reasons Your Agency Should Have A CMS")
+  * Read the [9 Reasons Your Agency Should Have a CMS]({{< ref "2013-12-12-9-reasons-your-agency-should-have-a-cms.md" >}} "9 Reasons Your Agency Should Have A CMS")

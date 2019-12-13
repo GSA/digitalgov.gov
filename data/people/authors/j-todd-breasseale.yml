@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -11,6 +11,12 @@ last_name: Breasseale
 uid: j-todd-breasseale
 email: ""
 bio: As Assistant Secretary for Public Affairs, J. Todd Breasseale oversees the Department of Homeland Security’s public outreach, media relations, and strategic and incident communication efforts and serves as the principal communication advisor to Secretary Jeh C. Johnson.
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

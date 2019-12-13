@@ -13,6 +13,11 @@ event_organizer: DigitalGov University
 host: Video Production Pros
 registration_url: https://www.eventbrite.com/e/an-inside-look-at-how-the-fbi-develops-engaging-video-registration-47363929789
 youtube_id: djpDY31ZhlI
+topics:
+  - video
+  - fbi
+  - federal-bureau-of-investigation
+  - video-production-pros-community
 
 ---
 

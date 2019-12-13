@@ -5,18 +5,17 @@ title: USCIS Twitter Office Hours
 summary: 'On September 1, U.S. Citizenship and Immigration Services (USCIS) hosted our first Twitter Office Hours, a Twitter chat for USCIS customers. The purpose of this pilot event was to offer our customers a different way to engage with us. We aimed to leverage Twitter to answer questions on our agency’s programs and policies and to'
 authors:
   - uscis-staff
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - Education
-  - EPA
+  - epa
   - FAFSA
-  - Federal Emergency Management Agency
-  - FEMA
+  - federal-emergency-management-agency
+  - fema
   - Twitter
   - US Citizenship and Immigration Service
   - US Department of Education
-  - US Environmental Protection Agency
+  - us-environmental-protection-agency
   - USCIS
 ---
 
@@ -26,7 +25,7 @@ On September 1, U.S. Citizenship and Immigration Services (USCIS) hosted our fir
 
 We aimed to leverage Twitter to answer questions on our agency’s programs and policies and to counter rumors and incorrect information that exist in the public sphere.
 
-We were inspired to launch this event after hearing about the [popular Office Hours hosted by the Free Application for Federal Student Aid (FAFSA) team at the Department of Education]({{< link "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}). Our call centers receive thousands of phone calls per day and some people wait for a representative to ask questions that could be answered through our website. Twitter allows us to quickly share answers to common questions with lots of people at once.
+We were inspired to launch this event after hearing about the [popular Office Hours hosted by the Free Application for Federal Student Aid (FAFSA) team at the Department of Education]({{< ref "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}). Our call centers receive thousands of phone calls per day and some people wait for a representative to ask questions that could be answered through our website. Twitter allows us to quickly share answers to common questions with lots of people at once.
 
 While preparing, we spoke with members of FAFSA Office Hours team about how their events are structured. We also had conversations with colleagues who use Twitter to engage with the public at the Federal Emergency Management Agency (FEMA) and the Environmental Protection Agency (EPA).
 
@@ -57,4 +56,4 @@ We learned that practice and training is critical. We held training sessions and
 
 While organization and practice is important, the best lessons have come from trial and error. You have to be willing to try, be accepting of the errors and be willing to adjust to make improvements. That refining process is the key to a successful pilot.
 
-We’re looking forward to hosting these Twitter Office Hours events on a regular basis. We hosted our second session on October 6 and the next one is November 3. We encourage you to follow [@USCIS](https://twitter.com/USCIS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) on Twitter and share your feedback as well. Or drop us a line via [email](mailto:public.engagement@uscis.dhs.gov)._Editor&#8217;s Note: Want even more information on Twitter Chats/Office Hours? Check out the [Twitter Chat Guidance for Federal Agencies]({{< link "2013-10-16-twitter-chats-for-federal-agencies.md" >}}) and Information on [Hosting Successful Twitter Chats]({{< link "2013-10-17-hosting-successful-federal-twitter-chats.md" >}})._
+We’re looking forward to hosting these Twitter Office Hours events on a regular basis. We hosted our second session on October 6 and the next one is November 3. We encourage you to follow [@USCIS](https://twitter.com/USCIS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) on Twitter and share your feedback as well. Or drop us a line via [email](mailto:public.engagement@uscis.dhs.gov)._Editor&#8217;s Note: Want even more information on Twitter Chats/Office Hours? Check out the [Twitter Chat Guidance for Federal Agencies]({{< ref "2013-10-16-twitter-chats-for-federal-agencies.md" >}}) and Information on [Hosting Successful Twitter Chats]({{< ref "2013-10-17-hosting-successful-federal-twitter-chats.md" >}})._

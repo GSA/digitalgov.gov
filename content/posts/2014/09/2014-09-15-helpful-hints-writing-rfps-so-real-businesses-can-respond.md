@@ -5,14 +5,13 @@ title: 'Helpful Hints: Writing RFPs So Real Businesses Can Respond'
 summary: 'If you have a hand in contracts for crowdsourcing initiatives and challenge and prize competitions, here are some helpful hints for you. We&#8217;ve gathered this list from the expert businesses that provide competition services. Haven&#8217;t heard about that? See GSA Schedule 541-4G. Background: Over the last two years, competition providers and consultants have become more'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - challenges-and-prizes-community-of-practice
   - crowdsourcing
-  - NASA
+  - nasa
 ---
 
 {{< legacy-img src="2014/09/600-x-404-Signing-Documents-Ingram-Publishing-Thinkstock-122486514.jpg" alt="Signing documents" caption="" >}} 
@@ -59,7 +58,7 @@ Learn about potential vendors and craft your scope of work to fit with the servi
 
 You may want to divide a challenges series into smaller scope procurements, cut some tasks from your SOW, or make some tasks optional to get qualified vendors to respond. As mentioned above, most companies that provide a challenge platform and access to a solver community specialize in certain challenge types (e.g. software, ideation, design, video, science & engineering, etc.). These vendors may not be able to support a series of challenges with different solution types. In addition, small businesses may focus on a limited set of services and may not have the resources to perform your ideal scope.
 
-An RFI can help with your market research but may not be necessary. Research the companies on GSA Schedule 541-4G and find out which companies worked on challenges similar to yours and what services they provided. You can also tap into the [Challenge & Prize community of practice]({{< link "challenges-prizes.md" >}} "Challenges & Prizes Community") (600+ members in federal government), [contact the Challenge.gov team](mailto:challenge@gsa.gov) or the team at [NASA’s Center for Excellence in Collaborative Innovation](http://www.nasa.gov/offices/COECI/#.VBCXKfldXAQ), for more information on potential vendors.
+An RFI can help with your market research but may not be necessary. Research the companies on GSA Schedule 541-4G and find out which companies worked on challenges similar to yours and what services they provided. You can also tap into the [Challenge & Prize community of practice]({{< ref "challenges-prizes.md" >}} "Challenges & Prizes Community") (600+ members in federal government), [contact the Challenge.gov team](mailto:challenge@gsa.gov) or the team at [NASA’s Center for Excellence in Collaborative Innovation](http://www.nasa.gov/offices/COECI/#.VBCXKfldXAQ), for more information on potential vendors.
 
 ### Marketing Strategy
 

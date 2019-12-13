@@ -5,10 +5,9 @@ title: 'Trends on Tuesday: Smartphone and Tablet Adoption Grows While Other Digi
 summary: 'Pew released a recent report tracking trends in digital device ownership and found smartphones and tablets have continued to grow in recent years, while other devices have stalled. The big headlines from the report are: Cell phones are now in the hands of more than 92% of U.S. adults, although this trend started to flatten'
 authors:
   - wsullivan
-categories:
-  - Mobile
-tag:
-  - Trends on Tuesday
+topics:
+  - mobile
+  - trends-on-tuesday
 ---
 
 Pew released a [recent report tracking trends](http://www.pewinternet.org/2015/10/29/technology-device-ownership-2015/) in digital device ownership</span> <span style="font-weight: 400">and found smartphones and tablets have continued to grow in recent years, while other devices have stalled.</p> {{< legacy-img src="2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 
@@ -34,11 +33,11 @@ Pew released a [recent report tracking trends](http://www.pewinternet.org/2015/1
     After surging in the 00’s, MP3 player growth has gone flat of the past 6 years.
   </li>
   <li style="font-weight: 400">
-    While </span><span style="font-weight: 400"><a href="{{< link "2015-09-01-trends-on-tuesday-mobile-messaging-and-social-app-research-released.md" >}}">games remain wildly popular</a> on mobile devices like smartphones and tablets</span><span style="font-weight: 400">, the home gaming console market and portable gaming market has remained flat or lost a few percentage points of users. </li> 
+    While </span><span style="font-weight: 400"><a href="{{< ref "2015-09-01-trends-on-tuesday-mobile-messaging-and-social-app-research-released.md" >}}">games remain wildly popular</a> on mobile devices like smartphones and tablets</span><span style="font-weight: 400">, the home gaming console market and portable gaming market has remained flat or lost a few percentage points of users. </li> 
     
     <li style="font-weight: 400">
       E-book readers, after growing since 2009, hit their peak in 2013 and have since declined.
     </li></ul> 
     
     <p>
-      Most of these trends can be attributed to smartphones and tablets becoming more powerful, with more varied and high-quality app experiences, which are able to serve many uses without compromising on quality native device experiences. This affects everything from e-books to MP3 players to gaming consoles. </span><span style="font-weight: 400">With the <a href="{{< link "2014-11-04-trends-on-tuesday-phablets-to-top-tablets-in-2015.md" >}}">growth of phablets too</a>, smartphones are continuing to grow</span><span style="font-weight: 400"> and are likely cannibalizing some of the potential tablet growth. </p>
+      Most of these trends can be attributed to smartphones and tablets becoming more powerful, with more varied and high-quality app experiences, which are able to serve many uses without compromising on quality native device experiences. This affects everything from e-books to MP3 players to gaming consoles. </span><span style="font-weight: 400">With the <a href="{{< ref "2014-11-04-trends-on-tuesday-phablets-to-top-tablets-in-2015.md" >}}">growth of phablets too</a>, smartphones are continuing to grow</span><span style="font-weight: 400"> and are likely cannibalizing some of the potential tablet growth. </p>

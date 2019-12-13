@@ -5,17 +5,16 @@ title: Competitions Launch Start-ups and Engage Entrepreneurs
 summary: ' When people hear about challenge competitions, they most often ask about the results. What worked and why did it work? Two great examples are featured on the White House Office of Science and Technology Policy site, which include the &#8220;needle in the haystack&#8221; solvers for a space mass competition and eleven'
 authors:
   - tammi-marcoullier
-categories:
-  - Challenges
-  - Communities
-tag:
-  - challenges and prize competitions
-  - Challenges and Prizes Community of Practice
+topics:
+  - challenges
+  - communities
+  - challenges-and-prize-competitions
+  - challenges-and-prizes-community-of-practice
   - crowdsourcing
-  - National Institutes of Health
-  - NIH
+  - national-institutes-of-health
+  - nih
   - OSTP
-  - White House Office of Science and Technology Policy
+  - white-house-office-of-science-and-technology-policy
 ---
 
 {{< legacy-img src="2015/04/600-x-337-Curiosity\_Approaching\_Mars\_Artists\_Concept-NASA-public-domain.jpg" alt="600-x-337-Curiosity\_Approaching\_Mars,\_Artists\_Concept-NASA-public-domain" >}}
@@ -24,7 +23,7 @@ When people hear about challenge competitions, they most often ask about the res
 
 Two great examples are featured on the <a title="white house blog prize competitions" href="https://www.whitehouse.gov/blog/2015/04/17/21st-century-public-servants-using-prizes-and-challenges-spur-innovation" target="_blank">White House Office of Science and Technology Policy</a> site, which include the &#8220;needle in the haystack&#8221; solvers for a space mass competition and eleven entrepreneurial start-ups that are using breast cancer research.
 
-You&#8217;ll also read about how the <a href="{{< link "challenges-prizes.md" >}}" target="_blank">Federal Community of Practice for Challenges and Prizes</a> is creating a toolkit with user-centered design that ultimately will be developed into an interactive resource for government agencies to run incentive competitions, from conception through to implementation.
+You&#8217;ll also read about how the <a href="{{< ref "challenges-prizes.md" >}}" target="_blank">Federal Community of Practice for Challenges and Prizes</a> is creating a toolkit with user-centered design that ultimately will be developed into an interactive resource for government agencies to run incentive competitions, from conception through to implementation.
 
 The competition highlights from NASA and the National Institutes of Health (NIH)  are re-printed below.
 

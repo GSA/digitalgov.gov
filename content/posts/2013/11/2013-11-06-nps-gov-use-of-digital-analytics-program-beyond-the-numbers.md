@@ -5,11 +5,10 @@ title: 'NPS.gov Use of Digital Analytics Program: Beyond the Numbers'
 summary: 'The National Park Service website, NPS.gov, is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country,'
 authors:
   - marina-fox
-categories:
-  - Metrics
-  - Our Work
-tag:
-  - Digital Analytics Program
+topics:
+  - metrics
+  - our-work
+  - digital-analytics-program
   - NPS
   - US Department of the Interior
 ---

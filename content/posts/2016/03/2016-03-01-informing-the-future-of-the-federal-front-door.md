@@ -8,15 +8,14 @@ authors:
   - carolyn-dew
   - michelle-chronister
   - john-yuda
-categories:
-  - Managing Digital
-  - UX
-tag:
-  - 18F
+topics:
+  - product-management
+  - ux
+  - 18f
   - Draft Web Design Standards
 ---
 
-In our [last post](https://blog.usa.gov/learning-how-to-build-a-better-front-door-for-the-federal-government), we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people’s experience across government agencies. {{< legacy-img src="2016/03/600-x-401-NARA-Archives-Of-The-United-States-Of-America-faustasyan-iStock-Editorial-Thinkstock-504911608.jpg" alt="The front of the National Archives and Records Administration federal building in Washington, DC." caption="" >}} 
+In our [last post](https://blog.usa.gov/learning-how-to-build-a-better-front-door-for-the-federal-government), we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people’s experience across government agencies. {{< legacy-img src="2016/03/600-x-401-NARA-Archives-Of-The-United-States-Of-America-faustasyan-iStock-Editorial-Thinkstock-504911608.jpg" alt="The front of the National Archives and Records Administration federal building in Washington, DC." caption="" >}}
 
 We think of the federal front door as the places the public first interacts with their government. There are many front doors—agency websites (like [benefits.gov](http://www.benefits.gov/)), physical places (like Social Security offices), contact centers (like 1-844-USA-GOV1)—where people start interacting with the government.
 

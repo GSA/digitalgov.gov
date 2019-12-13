@@ -5,9 +5,8 @@ title: 'Thinking About Going Agile&#63; Consider Mass Training to Facilitate the
 summary: 'How organizational instruction can help transform the processes and culture of your office.'
 authors:
   - brian-fox
-categories:
-  - managing-digital
-tag:
+topics:
+  - product-management
   - agile
 featured_image:
   uid: ux-training-class

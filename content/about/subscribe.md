@@ -17,7 +17,7 @@ Our strategy is to provide you with just the right amount of information to help
 
 That said — while we aim to send one email each week, we may occasionally send stand alone emails with important news items or product launches (though we'll keep those emails to a minimum).
 
-_Interested in contributing to Digital.gov? [Check out our contribution page »]({{< link "/about/contribute/" >}})_
+_Interested in contributing to Digital.gov? [Check out our contribution page »]({{< ref "/about/contribute.md" >}})_
 
 {{< hs-form-subscribe >}}
 
@@ -25,7 +25,7 @@ _Interested in contributing to Digital.gov? [Check out our contribution page »]
 
 ## Other ways to subscribe and follow
 
-- [Join a community of practice]({{< link "/communities/" >}})
+- [Join a community of practice]({{< ref "/communities/_index.md" >}})
 - [Digital.gov on GitHub](https://github.com/GSA/digitalgov.gov)
 - [Follow us on Twitter](https://twitter.com/Digital_Gov/)
 - [Join our Facebook page](https://www.facebook.com/DigitalGov)

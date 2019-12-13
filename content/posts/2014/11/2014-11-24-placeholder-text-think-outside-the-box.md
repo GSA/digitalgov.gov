@@ -5,16 +5,15 @@ title: 'Placeholder Text: Think Outside the Box'
 summary: The verdict is in. Placeholder text is harmful in search boxes. Searchers are on your site to complete a task. Having placeholder text inside a search box distracts from the task and it reduces the usability and accessibility of the search box. Placeholders look simple, but are in fact very tricky to use. When people
 authors:
   - rachel-mundstock
-categories:
-  - Content
-  - Monthly Theme
-tag:
-  - social media metrics
+topics:
+  - content
+  - monthly-theme
+  - social-media-metrics
 ---
 
 The verdict is in. Placeholder text is harmful in search boxes.
 
-Searchers are on your site to complete a task. Having placeholder text **_inside_** a search box distracts from the task and it reduces the [usability]({{< link "categories/ux" >}}) and [accessibility]({{< link "categories/accessibility" >}}) of the search box. Placeholders look simple, but are in fact very tricky to use.
+Searchers are on your site to complete a task. Having placeholder text **_inside_** a search box distracts from the task and it reduces the [usability]({{< ref "/topics/ux" >}}) and [accessibility]({{< ref "/topics/accessibility" >}}) of the search box. Placeholders look simple, but are in fact very tricky to use.
 
 > When people are trying to accomplish a goal, their focus is not on the form an organization requires them to use. It’s on achieving their goal.
   

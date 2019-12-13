@@ -6,17 +6,16 @@ summary: 'The new Social and Behavioral Sciences Team (SBST) aims to make govern
 authors:
   - jsnee
   - rflagg
-categories:
-  - Managing Digital
-  - Monthly Theme
-tag:
-  - Customer Experience
-  - Customer Experience Community of Practice
-  - CX
+topics:
+  - product-management
+  - monthly-theme
+  - cx
+  - customer-experience-community-of-practice
+  - cx
   - Recaps
   - SBST
   - Social and Behavioral Sciences Team
-  - UX
+  - ux
 ---
 
 The new [Social and Behavioral Sciences Team (SBST)](https://sbst.gov/) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they’ve worked on. Amira also shared how agencies can propose projects for the SBST to tackle, and explained how social and behavioral sciences, customer experience (CX) and user experience (UX) work together to enhance government products and services.
@@ -47,4 +46,4 @@ How can CX, UX and social and behavioral sciences collaborate to improve the pub
 
 Each group asks a different but important question. By combining these disciplines, you can develop a great product.
 
-Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) (U.S. government email address [.gov, .mil, etc.] required), [visiting]({{< link "customer-experience-community.md" >}}) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.
+Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) (U.S. government email address [.gov, .mil, etc.] required), [visiting]({{< ref "customer-experience-community.md" >}}) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.

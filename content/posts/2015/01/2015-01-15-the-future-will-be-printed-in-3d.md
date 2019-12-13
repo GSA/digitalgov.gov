@@ -5,26 +5,25 @@ title: The Future Will Be Printed – in 3D
 summary: ' The use of 3D printing is growing. From kayaks to pancakes to human and canine prosthetics, a diverse array of 3D printed products have been delivered. 3D printing has also been named one of the top technology'
 authors:
   - awichman
-categories:
-  - Code
-  - Monthly Theme
-tag:
-  - 18F
-  - API
+topics:
+  - code
+  - monthly-theme
+  - 18f
+  - api
   - National Institute of Allergy and Infectious Diseases
-  - National Institutes of Health
+  - national-institutes-of-health
   - National Library of Medicine
   - NIAID
-  - NIH
+  - nih
   - NLM
-  - White House
+  - white-house
 ---
 
 {{< legacy-img src="2015/01/600-x-314-NIH-3D-Print-Exchange-3D-model-and-Objex-Unlimited-HIV-printed-on-ProJet-4500.jpg" alt="NIH 3D Print Exchange 3D model and Objex Unlimited HIV printed on ProJet 4500" >}}
 
 The use of [3D printing](http://3dprinting.com/what-is-3d-printing/) is growing. From [kayaks](http://www.cnet.com/news/custom-3d-printed-kayak-is-a-homemade-work-of-art/) to [pancakes](http://www.cnet.com/news/print-out-breakfast-with-a-pancake-printer/) to [human](http://www.cnet.com/news/how-3d-printers-are-changing-kids-lives-in-war-torn-sudan/) and [canine](http://www.usatoday.com/story/news/nation-now/2014/12/18/derby-dog-3d-printed-prosthetics/20621097/) prosthetics, a diverse array of 3D printed products have been delivered. 3D printing has also been named one of the [top technology trends in 2015](http://www.gartner.com/newsroom/id/2867917) that organizations should incorporate into their strategic planning.
 
-In the federal space, 3D printing is evolving. Winners of the [White House 3D ornament contest]({{< link "2014-12-23-announcing-the-winners-of-the-first-ever-white-house-3d-printed-ornament-challenge.md" >}}) were announced last month. In January, we’re highlighting projects that show how 3D printing can support diverse federal initiatives, from scientific research to space exploration.
+In the federal space, 3D printing is evolving. Winners of the [White House 3D ornament contest]({{< ref "2014-12-23-announcing-the-winners-of-the-first-ever-white-house-3d-printed-ornament-challenge.md" >}}) were announced last month. In January, we’re highlighting projects that show how 3D printing can support diverse federal initiatives, from scientific research to space exploration.
 
 ## Scientific Modeling
 

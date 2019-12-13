@@ -5,12 +5,11 @@ title: How a Twitter Chat about Healthy Aging Reached More than 4 Million People
 summary: There are multiple health-related Twitter chats every day of the week. There are chats focused on specific conditions, on the healthcare system, on treatments, on products and on practices. If your agency or organization is interested in leading a conversation in this
 authors:
   - yasmine-kloth
-categories:
-  - Social Media
-tag:
-  - National Institutes of Health
-  - NIH
-  - social media
+topics:
+  - social-media
+  - national-institutes-of-health
+  - nih
+  - social-media
   - Twitter
 ---
 
@@ -18,7 +17,7 @@ tag:
 
 On Wednesday, April 29, the [National Center for Complementary and Integrative Health](https://nccih.nih.gov/) at the National Institutes of Health (NIH) held a Twitter chat on healthy aging, with a specific focus on mind and body approaches such as yoga, tai chi, and meditation. By the end of the hour, our Center’s [#AgeWellChat](https://twitter.com/search?f=realtime&q=%23agewellchat&src=typd) reached more than four million accounts and received more than 41 million impressions. In terms of numbers, this was our most successful chat to date, with a 78 percent increase in reach from our [previous chat about the use of natural products](https://storify.com/NIH_NCCIH/nccih-use-of-natural-products-twitter-chat-highlig).
 
-DigitalGov has [guidance for federal agencies that want to host Twitter chats]({{< link "2013-10-16-twitter-chats-for-federal-agencies.md" >}} "Twitter Chat Guidance for Federal Agencies"), and a few years ago, I wrote about the [importance of collaboration for Twitter chat success]({{< link "2013-05-10-nih-twitter-chats-collaborations-multiply-successes.md" >}}). These types of collaborations remain a necessary component when hosting a chat, but I’ve learned that there are a few additional elements that can transform your good Twitter chat into a great one.
+DigitalGov has [guidance for federal agencies that want to host Twitter chats]({{< ref "2013-10-16-twitter-chats-for-federal-agencies.md" >}} "Twitter Chat Guidance for Federal Agencies"), and a few years ago, I wrote about the [importance of collaboration for Twitter chat success]({{< ref "2013-05-10-nih-twitter-chats-collaborations-multiply-successes.md" >}}). These types of collaborations remain a necessary component when hosting a chat, but I’ve learned that there are a few additional elements that can transform your good Twitter chat into a great one.
 
   1. **Promote, promote, promote.**
   

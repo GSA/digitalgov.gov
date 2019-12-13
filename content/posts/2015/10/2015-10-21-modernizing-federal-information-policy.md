@@ -7,9 +7,8 @@ authors:
   - anne-rung
   - tony-scott
   - howard-shelanski
-categories:
-  - Managing Digital
-tag:
+topics:
+  - product-management
   - Office of Management and Budget
   - OMB
 ---

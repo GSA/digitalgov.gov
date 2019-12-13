@@ -5,28 +5,27 @@ title: 'Trends on Tuesday: Providing Anytime, Anywhere Government Through Mobile
 summary: 'Agencies have used an open data competition approach in their quest to provide anytime, anywhere government. For example, in 2011, the Environmental Protection Agency (EPA) conducted the Apps for the Environment challenge and has a hub for apps created using EPA data. Here’s an update on challenges hosted by other agencies: The National Institute of Standards'
 authors:
   - jparcell
-categories:
-  - Challenges
-  - Mobile
-  - Monthly Theme
-tag:
-  - apps challenges
-  - challenges and prize competitions
+topics:
+  - challenges
+  - mobile
+  - monthly-theme
+  - apps-challenges
+  - challenges-and-prize-competitions
   - data
-  - EPA
-  - mobile apps
+  - epa
+  - mobile-apps
   - National Institute of Standards and Technology
   - National Institute on Drug Abuse
   - NIST
-  - Trends on Tuesday
-  - US Environmental Protection Agency
+  - trends-on-tuesday
+  - us-environmental-protection-agency
 ---
 
-Agencies have used an [open data competition approach]({{< link "2015-08-13-nist-hosts-reference-data-challenge-to-create-mobile-apps.md" >}}) in their quest to provide [anytime, anywhere government]({{< link "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}). For example, in 2011, the Environmental Protection Agency (EPA) conducted the [Apps for the Environment challenge](http://developer.epa.gov/apps-for-the-environment-lessons-learned/) and has a [hub for apps created](http://developer.epa.gov/category/apps/) using EPA data. {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
+Agencies have used an [open data competition approach]({{< ref "2015-08-13-nist-hosts-reference-data-challenge-to-create-mobile-apps.md" >}}) in their quest to provide [anytime, anywhere government]({{< ref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}). For example, in 2011, the Environmental Protection Agency (EPA) conducted the [Apps for the Environment challenge](http://developer.epa.gov/apps-for-the-environment-lessons-learned/) and has a [hub for apps created](http://developer.epa.gov/category/apps/) using EPA data. {{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
 
 Here’s an update on challenges hosted by other agencies:
 
-The National Institute of Standards and Technology (NIST), hosted a nationwide [Reference Data Challenge](http://nistdata.devpost.com/) to create mobile apps through Devpost. The concept behind [this challenge]({{< link "2015-08-13-nist-hosts-reference-data-challenge-to-create-mobile-apps.md" >}}) was that developers could help scientists and engineers through organizing data.
+The National Institute of Standards and Technology (NIST), hosted a nationwide [Reference Data Challenge](http://nistdata.devpost.com/) to create mobile apps through Devpost. The concept behind [this challenge]({{< ref "2015-08-13-nist-hosts-reference-data-challenge-to-create-mobile-apps.md" >}}) was that developers could help scientists and engineers through organizing data.
 
 {{< legacy-img src="2015/12/250-x-444-Meru-Lab-Reference-Element-Info-screen-on-the-Android-app.jpg" alt="Meru Lab Reference's Element Info screen on the Android app." >}}They awarded a total value of $45,000 to three challenge winners.
 

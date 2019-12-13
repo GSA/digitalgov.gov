@@ -5,14 +5,13 @@ title: 'A Conversation With ITIF About the State of Federal Government Websites'
 summary: 'Since it’s been nearly six months since their report was released, we wanted to check in with ITIF and see what they’ve learned, what they’ve heard from agencies and what their future plans are to build on this research&#46;'
 authors:
   - andreanocesigritz
-categories:
+topics:
   - accessibility
   - design
   - metrics
   - mobile
   - user-testing-and-research
   - ux
-tag:
   - accessibility
   - communities
   - content

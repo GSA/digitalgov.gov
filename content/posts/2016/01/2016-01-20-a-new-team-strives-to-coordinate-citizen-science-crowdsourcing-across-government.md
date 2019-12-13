@@ -5,11 +5,10 @@ title: A New Team Strives to Coordinate Citizen Science, Crowdsourcing Across Go
 summary: A government can accomplish nothing without the ingenuity of its people. This is why the federal government is committed to using online tools to make its problem-solving more open and collaborative. A growing number of agencies are testing the applications of crowdsourcing and citizen science to accomplish more, and in many cases, do things faster
 authors:
   - eric-beidel
-categories:
+topics:
   - crowdsourcing-and-citizen-science
-tag:
-  - citizen science
-  - Citizen Science and Crowdsourcing Community of Practice
+  - citizen-science
+  - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - FCPCCS
   - NARA
@@ -48,7 +47,7 @@ The toolkit, however, requires agency practitioners to offer their learnings, ex
 
 ## Enter the Agency Coordinator {{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
 
-Coordinators at each federal agency, managed by GSA,have begun working with OSTP and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}}), to help track and organize the growing number of crowdsourcing projects.
+Coordinators at each federal agency, managed by GSA,have begun working with OSTP and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< ref "crowdsourcing-and-citizen-science.md" >}}), to help track and organize the growing number of crowdsourcing projects.
 
 Appointed by their agencies, these coordinators will help with a variety of activities, including:
 
@@ -77,4 +76,4 @@ Ultimately, these combined efforts aim to knock down any remaining barriers to m
 
 NOTE: All of the efforts described in this article have benefitted from key contributions from the Federal Community of Practice for Crowdsourcing and Citizen Science, a grassroots group founded in 2012. About 200 members from more than 40 federal agencies and departments share lessons learned, best practices and training.
 
-The group meets monthly and operates a listserv. To subscribe, [visit the community on DigitalGov]({{< link "challenges-prizes.md" >}}) or email [Ruthanna Gordon](mailto:Ruthanna.emrysgordon@iarpa.gov) with any questions.
+The group meets monthly and operates a listserv. To subscribe, [visit the community on DigitalGov]({{< ref "challenges-prizes.md" >}}) or email [Ruthanna Gordon](mailto:Ruthanna.emrysgordon@iarpa.gov) with any questions.

@@ -5,24 +5,24 @@ title: 'Because It&#8217;s Hard'
 summary: Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The Federal Digital Strategy served up a heaping set of deliverables on a tight timeline. Agencies opened data sets,
 authors:
   - gwynne-kostin
-categories:
-  - Content
-  - Managing Digital
-  - Monthly Theme
-  - Our Work
-  - strategy-and-policy
-  - UX
-tag:
-  - API
+topics:
+  - content
+  - product-management
+  - monthly-theme
+  - our-work
+  - strategy
+  - policy
+  - ux
+  - api
   - Census
-  - Customer Experience
+  - cx
   - DOL
   - innovation
   - mobile
-  - open and structured content models
-  - responsive web design
+  - open-and-structured-content-models
+  - responsive-web-design
   - US Department of Labor
-  - user experience
+  - user-experience
 ---
 
 [{{< legacy-img src="2014/05/250-x-333-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429\_12fe814c84\_z.jpg-250x300.jpg" alt="The photo is the door to President Kennedy’s Cold War bunker on Nantucket Island, Massachusetts." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/480-x-640-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429_12fe814c84_z.jpg)Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.
@@ -31,12 +31,12 @@ Agencies opened data sets, built mobile apps and websites, published APIs, creat
 
 Last May, as the final deadlines were met, some asked, “What’s next?”
 
-Hah! Agencies were just getting started. There are now [<span class="s1">more mobile apps</span>](http://apps.usa.gov/), [<span class="s1">more APIs</span>](https://www.data.gov/developers/apis), [more data](https://www.data.gov/metrics) that’s more available, [<span class="s1">more focus on citizen service through data analysis</span>]({{< link "2014-04-01-digital-analytics-program-dap-oceans-of-data.md" >}}) and [user testing]({{< link "2014-04-14-noaa-national-ocean-service-usability-case-study.md" >}}), more trials and, yes, even more errors, which means more learning!
+Hah! Agencies were just getting started. There are now [<span class="s1">more mobile apps</span>](http://apps.usa.gov/), [<span class="s1">more APIs</span>](https://www.data.gov/developers/apis), [more data](https://www.data.gov/metrics) that’s more available, [<span class="s1">more focus on citizen service through data analysis</span>]({{< ref "2014-04-01-digital-analytics-program-dap-oceans-of-data.md" >}}) and [user testing]({{< ref "2014-04-14-noaa-national-ocean-service-usability-case-study.md" >}}), more trials and, yes, even more errors, which means more learning!
 
 But more isn’t enough. Agencies are working on better. And to keep pushing this rock of government forward, better means solving the tougher and emerging problems—like:
 
-  * Rethinking “websites” as the primary digital content delivery channel. Agencies are finding that simply [making a website responsive]({{< link "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}} "Why Go Responsive? Here’s What Feds Are Saying") (so it can be viewed on any mobile device) might meet agency needs but does not equate to meeting user needs. This leads to&#8230;
-  * Taking [content that is traditionally unstructured and making it easier to reuse by adding standard structure and metadata]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"). This means delivery can be device-agnostic—content can be served on any device—as well as device-specific—content is more granular and can be targeted to specific devices and use cases. It preps us for all those unknowable devices of the future.
+  * Rethinking “websites” as the primary digital content delivery channel. Agencies are finding that simply [making a website responsive]({{< ref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}} "Why Go Responsive? Here’s What Feds Are Saying") (so it can be viewed on any mobile device) might meet agency needs but does not equate to meeting user needs. This leads to&#8230;
+  * Taking [content that is traditionally unstructured and making it easier to reuse by adding standard structure and metadata]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"). This means delivery can be device-agnostic—content can be served on any device—as well as device-specific—content is more granular and can be targeted to specific devices and use cases. It preps us for all those unknowable devices of the future.
   * Crossing silos. <a title="Census Bureau Adds Inflation and Employment Indicators to America's Economy Mobile App" href="http://www.census.gov/newsroom/press-releases/2013/cb13-127.html" target="_blank">Census and Department of Labor are collaborating and bringing their datasets together</a> to meet shared customer needs. This is hard because there are few rewards for cross-agency collaboration, at the same time there are barriers of budget, authorities and &#8220;ownership.&#8221; Our connected era is pushing agencies together to meet public expectations, even as policies are still catching up.
   * Improving the usability of APIs because making them available but unfathomable doesn&#8217;t help developers, government or citizens. Agencies are getting to the next level of maturing their API strategy by streamlining APIs and focusing on clarity and minimal documentation.
   * Reimagining the workplace and staff development through telework arrangements, <a href="http://gsablogs.gsa.gov/dsic/how-it-works/" target="_blank">micro-details and micro-tasking</a>, and organizing work around deliverables.
@@ -52,5 +52,5 @@ During this <a href="http://publicservicerecognitionweek.org/" target="_blank">P
 
 Finished? Nope. Just getting started.
 
-What&#8217;s on your path? What do you need help with? Let us know in the comments._This article is part of this month&#8217;s editorial theme on the Digital Government Strategy. Check out our recently published article on [Structured Content Models]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}), and check back for more articles related to this theme in May._
+What&#8217;s on your path? What do you need help with? Let us know in the comments._This article is part of this month&#8217;s editorial theme on the Digital Government Strategy. Check out our recently published article on [Structured Content Models]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}), and check back for more articles related to this theme in May._
 _Photo Credit: &#8220;Rusted door to JFK&#8217;s nuclear bunker.&#8221; by Gwynne Kostin CC (BY-NC-ND)_

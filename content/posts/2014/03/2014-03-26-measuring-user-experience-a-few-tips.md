@@ -5,17 +5,16 @@ title: 'Measuring User Experience: A Few Tips'
 summary: 'With a calculated process, the right tools, and a staff willing to make it work, you can measure user experience (UX) on your websites and implement usability changes that show results. In a recent DigitalGov University webinar entitled &ldquo;Measuring User Experience&rdquo;, UX supporters and practitioners heard from Achaia Walton, Senior Digital Analyst at the Department'
 authors:
   - tlowden
-categories:
-  - Communities
+topics:
+  - communities
   - user-testing-and-research
-  - UX
-tag:
+  - ux
   - a-b-testing
-  - AoI
+  - aoi
   - Recaps
-  - United States Department of Health and Human Services
-  - usability testing
-  - user experience
+  - united-states-department-of-health-and-human-services
+  - usability-testing
+  - user-experience
 ---
 
 With a calculated process, the right tools, and a staff willing to make it work, you can measure user experience (UX) on your websites and implement usability changes that show results.
@@ -48,4 +47,4 @@ Creating an optimal user experience for your audience can’t be explained in an
 
 [youtube https://www.youtube.com/watch?v=x8jALM4I65U]
 
-Also, check out the <a href="{{< link "resources/digitalgov-user-experience-resources/" >}}" target="_blank">Digital User Experience Program page</a> on <a href="http://digitalgov.gov" target="_blank">Digitalgov</a>, and if you aren’t already a member of the Federal User Experience Community of Practice listserv, email [Jon Rubin](mailto:jonathan.rubin@cfpb.gov) to request being added to the list.
+Also, check out the <a href="{{< ref "/resources/digitalgov-user-experience-resources.md" >}}" target="_blank">Digital User Experience Program page</a> on <a href="http://digitalgov.gov" target="_blank">Digitalgov</a>, and if you aren’t already a member of the Federal User Experience Community of Practice listserv, email [Jon Rubin](mailto:jonathan.rubin@cfpb.gov) to request being added to the list.

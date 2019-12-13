@@ -5,10 +5,9 @@ title: Four Steps to Achieve Good SEO
 summary: 'Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they’re relevant to a searcher’s query. Users generally'
 authors:
   - ammie-farraj-feijoo
-categories:
-  - Content
-tag:
-  - search engine optimization
+topics:
+  - content
+  - search-engine-optimization
 ---
 
 [{{< legacy-img src="2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle " >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png)Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they’re relevant to a searcher’s query. Users generally expect to find the most relevant results at the top of the search engine’s results page.
@@ -36,7 +35,7 @@ These four steps can help you achieve good SEO:
   </li>
 </ol>
 
-  * [The Beginner&#8217;s Guide to SEO ](http://www.seomoz.org/beginners-guide-to-seo) 
+  * [The Beginner&#8217;s Guide to SEO ](http://www.seomoz.org/beginners-guide-to-seo)
   * [Collection of SEO-related documents from the Bing Ecosystem](http://www.bing.com/community/site_blogs/b/webmaster/archive/2011/04/13/collection-of-seo-related-documents-from-the-bing-ecosystem.aspx)
   * [Search Engine Land&#8217;s Guide to SEO](http://searchengineland.com/guide/seo)
   * [Google&#8217;s SEO Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf) (PDF, 4.12 MB, 32 pages, September 2010)
@@ -49,16 +48,16 @@ These four steps can help you achieve good SEO:
 
 There are key aspects of a website that need attention for search engines to identify, retrieve, and display the best content for a user’s search. The building blocks of good SEO include understanding:
 
-  * How commercial search engines work 
+  * How commercial search engines work
       * [Google Basics](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=70897)
       * [How Bing is different from other search engines](http://onlinehelp.microsoft.com/en-us/bing/hh204500.aspx)
       * [How Search Engines Work](http://searchenginewatch.com/article/2065173/How-Search-Engines-Work)
-  * Site architecture 
+  * Site architecture
       * [3 SEO Myths About Information Architecture](http://searchengineland.com/3-seo-myths-about-information-architecture-68405)
       * [Checklist for a Successful Website Redesign](http://usasearch.howto.gov/blog/redesign.html)
       * [Successful Site Architecture for SEO](http://www.seomoz.org/blog/site-architecture-for-seo)
-  * Quality website content 
+  * Quality website content
       * [Google: Building Quality Content](http://googlewebmastercentral.blogspot.com/2011/05/more-guidance-on-building-high-quality.html)
       * [Yahoo!: Content Quality Guidelines](http://help.yahoo.com/kb/index?page=content&id=SLN2245&actp=search&viewlocale=en_US&searchid=1336402586896&locale=en_US&y=PROD_SRCH)
-  * Search analytics 
-      * [Web Analytics]({{< link "/services/dap/_index.md" >}})
+  * Search analytics
+      * [Web Analytics]({{< ref "/guide/dap/_index.md" >}})

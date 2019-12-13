@@ -5,21 +5,20 @@ title: 'Fostering Medical Innovation: A Plan for Digital Health Devices'
 summary: It is incumbent upon FDA to ensure that we have the right policies in place to promote and encourage safe and effective innovation that can benefit consumers, and adopt regulatory approaches to enable the efficient development of these technologies. By taking an efficient, risk-based approach to our regulation, FDA can promote health through the creation
 authors:
   - scott-gottlieb-m-d
-categories:
-  - Governance
-  - Mobile
-  - strategy-and-policy
-tag:
-  - Digital Health Innovation Plan
-  - FDA
+topics:
+  - governance
+  - mobile
+  - strategy
+  - policy
+  - digital-health-innovation-plan
+  - fda
   - HHS
   - innovation
-  - mHealth
-  - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - us-food-and-drug-administration
+  - united-states-department-of-health-and-human-services
 ---
 
-It is incumbent upon FDA to ensure that we have the right policies in place to promote and encourage safe and effective innovation that can benefit consumers, and adopt regulatory approaches to enable the efficient development of these technologies. By taking an efficient, risk-based approach to our regulation, FDA can promote health through the creation of more new and beneficial medical technologies. We can also help reduce the development costs for these innovations by making sure that our own policies and tools are modern and efficient, giving entrepreneurs more opportunities to develop products that can benefit people’s lives. {{< legacy-img src="2015/11/600-x-400-Health-future-medical-app-nevarpp-iStock-Thinkstock-491119888.jpg" alt="Futuristic concept art of medical icons and binary data streams" caption="" >}} 
+It is incumbent upon FDA to ensure that we have the right policies in place to promote and encourage safe and effective innovation that can benefit consumers, and adopt regulatory approaches to enable the efficient development of these technologies. By taking an efficient, risk-based approach to our regulation, FDA can promote health through the creation of more new and beneficial medical technologies. We can also help reduce the development costs for these innovations by making sure that our own policies and tools are modern and efficient, giving entrepreneurs more opportunities to develop products that can benefit people’s lives. {{< legacy-img src="2015/11/600-x-400-Health-future-medical-app-nevarpp-iStock-Thinkstock-491119888.jpg" alt="Futuristic concept art of medical icons and binary data streams" caption="" >}}
 
 To this end, FDA will soon be putting forward a broad initiative that is focused on fostering new innovation across our medical product centers. I will have more to say on many elements of this initiative soon. However, today I want to focus on one critical aspect of this innovation initiative: A new Digital Health Innovation Plan that is focused on fostering innovation at the intersection of medicine and digital health technology. This plan will include a novel, post-market approach to how we intend to regulate these digital medical devices.
 

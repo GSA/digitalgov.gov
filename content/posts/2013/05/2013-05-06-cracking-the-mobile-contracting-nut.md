@@ -5,10 +5,9 @@ title: Cracking the Mobile Contracting Nut
 summary: 'Mobile is a fast moving technology leaving many agencies feeling behind the contracting eight-ball.  Between finding those rockstar mobile developers, figuring out what to ask for in a statement of work (SOW), the time it takes getting a contract to get those expert resources, agencies are challenged in making'
 authors:
   - jparcell
-categories:
-  - Managing Digital
-  - Mobile
-tag:
+topics:
+  - product-management
+  - mobile
   - mobile
 ---
 
@@ -16,7 +15,7 @@ tag:
 
 We have some relief.
 
-We have been working with several agencies to [create model mobile SOW templates](https://digitalgov.sites.usa.gov/resources/mobile-sow-and-developer-qualifications/ "Mobile SOW and Developer Qualifications") to use in a new program designed to streamline the acquisitions process for some technology services&#8211;like mobile development. It&#8217;s called RFP-EZ.
+We have been working with several agencies to [create model mobile SOW templates](https://digital.gov/resources/mobile-sow-and-developer-qualifications/ "Mobile SOW and Developer Qualifications") to use in a new program designed to streamline the acquisitions process for some technology services&#8211;like mobile development. It&#8217;s called RFP-EZ.
 
 <a href="https://rfpez.sba.gov/" target="_blank">RFP-EZ</a> is a web based platform created by the Small Business Administration and a group of [Presidential Innovation Fellows](http://www.whitehouse.gov/innovationfellows/rfp-ez) to improve tech acquisitions by focusing on small business and contracts valued below $150,000. (Why $150K? That&#8217;s because there are special simplified acquisition rules under this threshold.)
 
@@ -39,8 +38,8 @@ RFP-EZ streamlines and simplifies the procurement process and allows agencies to
 Agencies [just need to sign up](https://rfpez.sba.gov/government) to get started.
 
 **Good for Small Business Mobile Developers
-  
-** 
+
+**
 
 RFP-EZ streamlines and simplifies the procurement process and allows businesses to bid on government RFP&#8217;s quicker. RFP-EZ allows small businesses to;
 
@@ -64,5 +63,3 @@ So, what are you waiting for? Put on your mobile gov thinking cap and start usin
 **Questions?**
 
 Contact <a href="https://twitter.com/projectrfpez" target="_blank">@RFP-EZ</a> or email <rfpez@sba.gov> and jacob.parcell@gsa.gov for mobile gov.
-
- 

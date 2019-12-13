@@ -5,12 +5,11 @@ title: Open Data Takes Center Stage at User Conference
 summary: 'This week over 16,000 business leaders and data visionaries from around the world will convene for the 2014 Environmental Systems Research Institute (ESRI) Users Conference in San Diego. Commerce Secretary Penny Pritzker, NOAA Administrator Dr. Kathy Sullivan, and Under Secretary for Economic Affairs Dr. Mark Doms will join representatives from Census and NOAA to highlight the'
 authors:
   - lauren-lipovic
-categories:
-  - Data
-tag:
+topics:
+  - data
   - Census
   - data
-  - data visualization
+  - data-visualization
   - Department of Commerce
   - National Oceanic and Atmospheric Administration
   - NOAA

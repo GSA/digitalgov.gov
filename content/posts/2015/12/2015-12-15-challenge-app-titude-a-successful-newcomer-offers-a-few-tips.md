@@ -5,14 +5,13 @@ title: 'Challenge App-titude: A Successful Newcomer Offers a Few Tips'
 summary: 'The Reference Data Challenge, launched this summer, was a call for innovative approaches to a long-standing role of the National Institute of Standards and Technology (NIST) to make &ldquo;critically evaluated reference data available to scientists, engineers and the general public.&rdquo; This challenge&mdash;our first-ever app contest and second prize competition as an agency&mdash;had the dual aims'
 authors:
   - heather-evans
-categories:
-  - Challenges
-  - Monthly Theme
-tag:
-  - ChallengeGov
-  - challenges and prize competitions
-  - data.gov
-  - mobile apps
+topics:
+  - challenges
+  - monthly-theme
+  - challenge-gov
+  - challenges-and-prize-competitions
+  - data-gov
+  - mobile-apps
   - National Institute of Standards and Technology
   - NIST
 ---

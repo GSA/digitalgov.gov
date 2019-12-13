@@ -1,0 +1,126 @@
+// promos
+
+// The individual promos
+.promo{
+  @include u-margin-y(1);
+  @include u-padding(1);
+  @include u-bg('gray-warm-3');
+  @include u-border('1px','gray-warm-10','solid');
+  @include u-radius('md');
+  & > div{
+    @include u-display('flex');
+    @include u-flex('align-center');
+    @include u-flex('justify');
+  }
+  h3{
+    @include u-margin(0);
+    @include u-font('sans', 'sm');
+    @include u-line-height('sans', 2);
+    @include u-display('inline');
+    z-index: 2;
+    position: relative;
+    a{
+      @include u-text('no-underline');
+      @include u-text('indigo-80');
+      &:hover{
+        @include u-border-bottom('2px', 'accent-warm', 'solid');
+      }
+    }
+  }
+  h4{
+    @include u-margin-top(0);
+    @include u-font('sans', 'xs');
+    @include u-line-height('sans', 2);
+    @include u-text('semibold');
+    a{
+      @include u-text('no-underline');
+      @include u-text('indigo-70');
+      &:hover{
+        @include u-border-bottom('2px', 'accent-warm', 'solid');
+      }
+    }
+  }
+  .members{
+    @include u-font('sans', '3xs');
+    @include u-line-height('sans', 3);
+    @include u-text('medium');
+    @include u-text('indigo-60v');
+    @include u-bg('indigo-warm-10');
+    @include u-padding-x(1);
+    @include u-padding-y('2px');
+    @include u-radius('pill');
+  }
+  img{
+    @include u-margin-top(0);
+    @include u-width(3);
+  }
+  img.thumb{
+    @include u-margin-top('05');
+    @include u-margin-right(2);
+    @include u-width(5);
+    @include u-height(5);
+  }
+  p{
+    @include u-margin-top(0);
+    // @include u-font('sans', 'md');
+    // @include u-line-height('sans', 3);
+  }
+  a{
+    @include u-text('indigo-80');
+    @include u-text('no-underline');
+  }
+
+
+  // &:last-child{
+  //   @include u-margin(0);
+  //   @include u-bg('gray-10');
+  // }
+  // To make the whole PROMO clickable, we put and additional <a> tag with a <span> tag in the markup that stretches to the full height and width of the element.
+  position: relative;
+  .overlay span{
+		@include u-margin(0);
+		@include u-position('absolute');
+		@include u-width('full');
+		@include u-height('full');
+		@include u-top(0);
+		@include u-left(0);
+		z-index: 1;
+	}
+  &:hover{
+    @include u-bg('gray-warm-5');
+    h3 a,
+    h4 a{
+      @include u-border-bottom('2px', 'accent-warm', 'solid');
+    }
+    p a{
+      @include u-border-bottom('2px', 'accent-warm', 'solid');
+    }
+  }
+}
+
+.promo-card{
+  @include u-margin-bottom(1);
+  @include u-padding(2);
+  @include u-minh(0);
+  @include at-media('tablet') {
+    @include u-margin-bottom('105');
+		@include u-minh(15);
+	}
+  &:hover{
+    @include u-bg('gray-warm-5');
+    a{
+      @include u-border-bottom('05', 'accent-warm', 'solid');
+    }
+  }
+  p{
+    @include u-margin-top(1);
+    @include u-font('sans', 'sm');
+    @include u-line-height('sans', 2);
+  }
+  img{
+    @include u-float('right');
+    @include u-margin-left(1);
+    @include u-margin-bottom(1);
+    @include u-width(7);
+  }
+}

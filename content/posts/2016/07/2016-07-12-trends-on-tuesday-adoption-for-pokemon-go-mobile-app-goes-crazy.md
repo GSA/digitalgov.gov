@@ -5,18 +5,17 @@ title: 'Trends on Tuesday: Adoption for Pokémon Go Mobile App Goes Crazy'
 summary: 'Augmented Reality games have existed for years, but have mostly failed to catch a mainstream audience; Pok&eacute;mon Go just changed all that this weekend. The game that launched early this month has exploded in popularity and is close to surpassing Twitter in daily active'
 authors:
   - wsullivan
-categories:
-  - Mobile
-  - Social Media
-tag:
+topics:
+  - mobile
+  - social-media
   - analytics
   - gamification
   - metrics
   - mobile
   - security
-  - social media
-  - social media metrics
-  - Trends on Tuesday
+  - social-media
+  - social-media-metrics
+  - trends-on-tuesday
 ---
 
 Augmented Reality games have existed for years, but have mostly failed to catch a mainstream audience; [Pokémon Go just changed all that this weekend](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/).
@@ -33,4 +32,4 @@ In fact, the game isn&#8217;t really anything new; Pokémon Go&#8217;s app devel
 
 Anecdotal stories of [players accidentally finding dead bodies](http://thenextweb.com/insider/2016/07/08/was-it-a-ghost-pokemon/) to [3 a.m. random rendezvous with strangers and police](http://imgur.com/KAwwxFp) are flooding social media, along with cautionary tales of [bad guys using the platform to rob people](http://www.usatoday.com/story/tech/2016/07/10/four-suspects-arrested-string-pokemon-go-related-armed-robberies/86922474/), [hackers creating malicious versions to create backdoors into people&#8217;s phones](http://motherboard.vice.com/read/pokmon-go-hack) and [a security risk due to app permissions for iOS users signing in with Google accounts](http://fortune.com/2016/07/11/pokemon-go-security/), and [trespassing stories around collecting the characters](https://www.reddit.com/r/washingtondc/comments/4ruvln/pokemon_go_theres_a_gym_in_the_center_of_the/) in hard to get to places.
 
-While this kind of mobile-app driven augmented reality experience would be a challenge to build and maintain for government agencies, it’s a fascinating look into how it’s spreading and how communities are forming and interacting around it. It raises a lot of interesting questions around security and privacy, but also is an interesting way to see people bonding across cultures, ages and backgrounds over a mystical child&#8217;s game. It’s also an interesting case to consider the [‘Pirate Metrics’ around acquisition, growth and retention]({{< link "2016-05-12-using-pirate-metrics-to-analyze-your-mobile-applications-audience.md" >}}) as the app grows out of its first week of blockbuster success.
+While this kind of mobile-app driven augmented reality experience would be a challenge to build and maintain for government agencies, it’s a fascinating look into how it’s spreading and how communities are forming and interacting around it. It raises a lot of interesting questions around security and privacy, but also is an interesting way to see people bonding across cultures, ages and backgrounds over a mystical child&#8217;s game. It’s also an interesting case to consider the [‘Pirate Metrics’ around acquisition, growth and retention]({{< ref "2016-05-12-using-pirate-metrics-to-analyze-your-mobile-applications-audience.md" >}}) as the app grows out of its first week of blockbuster success.

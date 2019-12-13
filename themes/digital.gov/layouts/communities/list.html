@@ -1,26 +1,77 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
-{{ end }}
-
 {{ define "content" }}
 
-<div class="page">
-  <div class="hentry entry">
+<main role="main">
 
-    <div class="entry-head">
-      {{ partial "breadcrumbs" . }}
-      <h1 class="post-title single">{{ .Title | markdownify }}</h1>
+  <div class="grid-container grid-container-desktop">
+    <div class="grid-row tablet-lg:grid-gap-4">
+      <div class="grid-col-12">
+        <header class="header-{{- .Type -}}" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+
+          {{/* Page Title */}}
+          <h1>{{- .Title | markdownify -}} </h1>
+
+          {{/* Deck */}}
+          {{- if .Params.deck -}}
+          <div class="deck">{{- .Params.deck | markdownify -}}</div>
+          {{- end -}}
+
+          {{/* {{ partial "last-updated" . }} */}}
+
+        </header>
+      </div>
     </div>
-
-    <div class="entry-content">
-      {{ .Content }}
-    </div>
-
-    {{ partial "post-meta--feedback" (dict "page" . "page_type" "page" "branch" ($.Scratch.Get "branch") ) }}
-    {{ partial "page-details" . }}
-
   </div>
 
-</div>
+
+  <section class="communities-list">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-2">
+
+        {{/* Gets all communities pages */}}
+        {{ $communities := (where .Site.Pages "Section" "communities").ByTitle }}
+
+        {{/* Gather only the pages with a weight greater than or equal to 1 */}}
+        {{ $communities := (where $communities ".Params.weight" "ge" 1) }}
+
+        {{ range $i, $e := $communities }}
+          <div class="grid-col-12 tablet:grid-col-6">
+
+            <article class="promo promo-card" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+              <div class="grid-row tablet-lg:grid-gap-4">
+                <div class="grid-col-12">
+                  <h4><a href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">{{- $e.Title | markdownify -}}</a></h4>
+                  <p>{{- $e.Params.summary | markdownify -}}</p>
+                </div>
+              </div>
+              <a href="{{- $e.Permalink -}}" title="{{- .Params.head -}}"><span></span></a>
+            </article>
+
+          </div>
+        {{ end }}
+
+      </div>
+    </div>
+  </section>
+
+  <section class="community-guidelines">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-8">
+          <h2>Community Guidelines</h2>
+        </div>
+      </div>
+      <div class="grid-row tablet-lg:grid-gap-4">
+        <div class="grid-col-12 tablet:grid-col-8">
+          <p>Our lawyers wanted to remind you — <em>Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the <a href="https://www.foia.gov/">Freedom of Information Act</a> (FOIA).</em></p>
+
+        </div>
+        <div class="grid-col-12 tablet:grid-col-4">
+          <p><strong>For more information on Communities</strong>, or to propose a new inter-agency group, please send an email to <a href="mailto:digitalgov@gsa.gov?subject=Communities">digitalgov@gsa.gov</a>.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
 
 {{ end }} {{/* end 'content' block */}}

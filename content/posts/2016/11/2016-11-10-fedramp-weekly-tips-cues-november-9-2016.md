@@ -5,12 +5,11 @@ title: 'FedRAMP Weekly Tips & Cues – November 9, 2016'
 summary: 'Many of  our cloud service providers (CSPs), federal agencies, and third party assessment organizations (3PAOs) often share common issues and questions when going through the FedRAMP process. To help guide our stakeholders, we will be providing weekly tips and address frequently asked questions and concerns. Email us potential tips and questions that you would like published'
 authors:
   - fedramp
-categories:
-  - Code
-  - Managing Digital
-tag:
+topics:
+  - code
+  - product-management
   - cloud
-  - FedRAMP
+  - fedramp
 ---
 
 Many of  our cloud service providers (CSPs), federal agencies, and third party assessment organizations (3PAOs) often share common issues and questions when going through the FedRAMP process. To help guide our stakeholders, we will be providing weekly tips and address frequently asked questions and concerns.

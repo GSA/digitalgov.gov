@@ -5,14 +5,13 @@ title: Rebuild Healthy Homes from HUD
 summary: We all know it is virtually impossible to prevent natural phenomena such as hurricanes, volcanic eruptions, floods, tornadoes, earthquakes, tsunamis etc., and we cannot easily avoid these inevitable geological and climatic incidences, as they are typically unpredictable and occur swiftly. The United Nations Office for
 authors:
   - nramprasad
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - HUD
   - ios
   - mobile
-  - native app
-  - Thursday Mobile Products
+  - native-app
+  - thursday-mobile-products
   - United States Department of Housing and Urban Development
 ---
 
@@ -30,4 +29,4 @@ The application and the accompanying guide provide a vast array of resources and
 
 The app focuses on useful criteria for volunteers, professionals, and others involved in the restoration process. The app has the option to use location information and GPS services to serve up customized resources and services in the vicinity. This feature can be especially useful when we are relying heavily on the mobile phone for communication and recovery from natural disasters.
 
-The Rebuild Healthy Homes app serves as a “how-to” guide while incorporating healthy homes principles and concepts._You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+The Rebuild Healthy Homes app serves as a “how-to” guide while incorporating healthy homes principles and concepts._You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< ref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

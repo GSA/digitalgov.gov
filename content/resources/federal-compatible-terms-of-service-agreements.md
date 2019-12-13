@@ -6,8 +6,11 @@ type: guide
 guidenav: termsofservice
 summary: 'Agreements negotiated between the federal government and vendors who offer digital tools and services.'
 deck: "A guide to the agreements negotiated between the federal government and vendors who offer digital tools and services."
-
+weight: 1
+topics:
+  - terms-of-service
 ---
+
 
 
 ## Why TOS is Important

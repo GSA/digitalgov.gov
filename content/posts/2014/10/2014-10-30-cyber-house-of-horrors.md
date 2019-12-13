@@ -5,9 +5,8 @@ title: Beware the Cyber Security House of Horrors!
 summary: 'Ghosts. Ghouls. Zombies. Multi-stakeholder content audits. This Halloween there is no shortage of terrors lurking to keep federal Web managers up all night, and our work is largely done in one of the scariest domains of all: cyberspace. Every moment of every day, a vast system of computers and networks are actively working to support'
 authors:
   - jordan-higgins
-categories:
-  - Social Media
-tag:
+topics:
+  - social-media
   - Defense Intelligence Agency
   - DIA
   - Internet of things
@@ -61,4 +60,4 @@ The reality is that the “Internet of Things” is already here and can easily 
 
 With a little knowledge and some active vigilance, the benefit of the Internet of Things can be enjoyed without compromising our safety online. Knowing, as the old saying goes, is half the battle.
 
-For more information about cybersecurity, check out the [STOP.THINK.CONNECT. website.](http://www.staysafeonline.org/stop-think-connect/)_**Jordan Higgins** is a Web and social media manager in the Office of Corporate Communications at the Defense Intelligence Agency, and an active leader in the [Federal SocialGov Community]({{< link "social-media.md" >}} "Social Media"). The views expressed in this article are the author&#8217;s personal ones._
+For more information about cybersecurity, check out the [STOP.THINK.CONNECT. website.](http://www.staysafeonline.org/stop-think-connect/)_**Jordan Higgins** is a Web and social media manager in the Office of Corporate Communications at the Defense Intelligence Agency, and an active leader in the [Federal SocialGov Community]({{< ref "social-media.md" >}} "Social Media"). The views expressed in this article are the author&#8217;s personal ones._

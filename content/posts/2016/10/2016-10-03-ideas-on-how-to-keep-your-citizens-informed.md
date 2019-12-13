@@ -5,21 +5,20 @@ title: Ideas on How to Keep Your Citizens Informed
 summary: As localities struggle with issues such as the Zika virus and the Opioid epidemic, gathering and disseminating trustworthy information can be daunting. But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites,
 authors:
   - christen-geiler
-categories:
-  - Content
-  - Managing Digital
-tag:
-  - CDC
-  - Centers for Disease Control and Prevention
+topics:
   - content
-  - content strategy
-  - content syndication
-  - FDA
+  - product-management
+  - cdc
+  - centers-for-disease-control-and-prevention
+  - content
+  - content-strategy
+  - content-syndication
+  - fda
   - HHS
-  - National Institutes of Health
-  - NIH
-  - US Food and Drug Administration
-  - United States Department of Health and Human Services
+  - national-institutes-of-health
+  - nih
+  - us-food-and-drug-administration
+  - united-states-department-of-health-and-human-services
 ---
 
 As localities struggle with issues such as the Zika virus and the Opioid epidemic, gathering and disseminating trustworthy information can be daunting.
@@ -75,4 +74,4 @@ These resources are offered through federal digital media syndication sites that
 
 <div class="Divider3">
   If you need additional information or have any feedback, please contact the Syndication team <a href="mailto:Syndication@nih.gov">via email</a>. <a href="https://digitalmedia.hhs.gov/storefront/usageGuidelines">Usage guidelines</a> for the HHS Syndication Storefront are also available.
-</div>_This post was originally published on the [ICMA blog](http://icma.org/en/icma/knowledge_network/blogs/blog/26/ICMA__blog) and shared on DigitalGov.gov with permission of the author._ _Check out our recent DigitalGov articles on the benefits of [content syndication]({{< link "tag/content-syndication" >}}) and effective [content strategies]({{< link "tag/content-strategy" >}})._
+</div>_This post was originally published on the [ICMA blog](http://icma.org/en/icma/knowledge_network/blogs/blog/26/ICMA__blog) and shared on DigitalGov.gov with permission of the author._ _Check out our recent DigitalGov articles on the benefits of [content syndication]({{< ref "/topics/content-syndication" >}}) and effective [content strategies]({{< ref "/topics/content-strategy" >}})._

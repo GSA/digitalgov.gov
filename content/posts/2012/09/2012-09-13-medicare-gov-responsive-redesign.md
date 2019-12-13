@@ -5,13 +5,12 @@ title: Medicare.gov Responsive Redesign
 summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Centers for Medicare and Medicaid Services. Medicare.gov is the consumer website for Medicare beneficiaries, caregivers, and advocates. The site includes information about Medicare plans, coverage, and care
 authors:
   - jon-booth
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - CMS
   - HHS
-  - Mobile Gov Experience
-  - responsive web design
+  - mobile-gov-experience
+  - responsive-web-design
 ---
 
 _[{{< legacy-img src="2013/12/Medicare-tablet-vertical-187x250.jpg" alt="Medicare-tablet-vertical" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Medicare-tablet-vertical.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the **Centers for Medicare and Medicaid Services**._

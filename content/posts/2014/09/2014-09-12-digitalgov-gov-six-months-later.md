@@ -6,27 +6,27 @@ summary: "Six months ago, we launched this DigitalGov.gov platform to support fe
 authors:
   - apiazza
   - gwynne-kostin
-categories:
-  - Content
-  - Managing Digital
-  - Our Work
-  - Social Media
-  - strategy-and-policy
-tag:
+topics:
+  - content
+  - product-management
+  - our-work
+  - social-media
+  - strategy
+  - policy
   - analytics
-  - content strategy
+  - content-strategy
   - GSA
-  - open source
-  - responsive web design
+  - open-source
+  - responsive-web-design
   - sitesusagov
-  - user experience
+  - user-experience
 ---
 
-{{< legacy-img src="2014/09/600-x-350-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="American flag and global continents on various devices; mobile phone, tablet, desktop computer, notebook" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-350-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="American flag and global continents on various devices; mobile phone, tablet, desktop computer, notebook" caption="" >}}
 
 Six months ago, we launched this DigitalGov.gov platform to support federal agencies in delivering 21st century digital services and information to the public. It seems a good time to share some of the thinking that went into the development of the platform, and what we&#8217;ve learned so far.
 
-Looking back, we knew we had great content for digital innovators. Here at the [Center for Digital Government at GSA]({{< link "/about/" >}} "About"), we created the go-to references for federal agencies around Web, mobile, social media, challenges and prizes, and were growing API content. We also had a large, engaged audience ready to share their knowledge with others. So what was the problem?
+Looking back, we knew we had great content for digital innovators. Here at the [Center for Digital Government at GSA]({{< ref "/about/_index.md" >}} "About"), we created the go-to references for federal agencies around Web, mobile, social media, challenges and prizes, and were growing API content. We also had a large, engaged audience ready to share their knowledge with others. So what was the problem?
 
 ## The Problem(s)
 
@@ -44,7 +44,7 @@ The fact is today’s practices rapidly evolved from yesterday’s “best” pr
 
 ## The Vision
 
-We wanted to build a collaborative platform to deliver timely content, showcase agency efforts and steer visitors to [Communities]({{< link "/communities/" >}} "Communities"), [Services]({{< link "/services/" >}} "Services") and [Resources]({{< link "/resources/" >}} "Resources") to help agencies deliver that 21st century government. We wanted to give federal digital innovators a platform to broadcast their experiments and experiences and to accelerate the thinking—and the DOING—across government.
+We wanted to build a collaborative platform to deliver timely content, showcase agency efforts and steer visitors to [Communities]({{< ref "/communities" >}} "Communities"), [Services]({{< ref "/services/_index.md" >}} "Services") and [Resources]({{< ref "/resources/_index.md" >}} "Resources") to help agencies deliver that 21st century government. We wanted to give federal digital innovators a platform to broadcast their experiments and experiences and to accelerate the thinking—and the DOING—across government.
 
 ## The Roll-Out
 
@@ -63,9 +63,9 @@ One thing we’ve learned from looking at our data, is that you like lists and d
   * You’re coming back for more! We went from 15% returning visitors to 45% returning visitors.
   * You don’t mind a reminder (and you read our newsletters). We see a spike in traffic every day around 3:00, when we [email our newsletter](http://public.govdelivery.com/accounts/USHOWTO/subscriber/new) with the most recent articles and upcoming events.
   * You’re engaged with the content. You are coming to read an article and staying to read 2 more, for an average on site time of 6 minutes.
-  * You especially like articles about [metrics](({{< link "categories/metrics" >}})), [user experience case studies]({{< link "tag/usability-case-study" >}}), [social media tools]({{< link "tag/terms-of-service" >}}), and [mobile trends]({{< link "tag/trends-on-tuesday" >}}).
-  * You want to join in. Almost two-thirds of the articles on DigitalGov are written by people who don’t work for us but for 46 other agencies, bureaus and divisions of the federal government. ([Tell us if you have a story idea.]({{< link "contribute.md" >}} "Join DigitalGov"))
-  * You’re landing and navigating to what you need (or maybe just coming for what’s new). Fewer than five percent of our visitors use site search (and it’s not because it’s not awesome). When you do search, you’re looking for information on [Terms of Service]({{< link "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements"), [Accessibility]({{< link "categories/accessibility" >}}), and for [Specific Events]({{< link "events" >}}). Some of you, we think, are looking for the articles you wrote. Good on you. They are something to be proud of!
+  * You especially like articles about [metrics](({{< ref "/topics/metrics" >}})), [user experience case studies]({{< ref "/topics/usability-case-study" >}}), [social media tools]({{< ref "/topics/terms-of-service" >}}), and [mobile trends]({{< ref "/topics/trends-on-tuesday" >}}).
+  * You want to join in. Almost two-thirds of the articles on DigitalGov are written by people who don’t work for us but for 46 other agencies, bureaus and divisions of the federal government. ([Tell us if you have a story idea.]({{< ref "contribute.md" >}} "Join DigitalGov"))
+  * You’re landing and navigating to what you need (or maybe just coming for what’s new). Fewer than five percent of our visitors use site search (and it’s not because it’s not awesome). When you do search, you’re looking for information on [Terms of Service]({{< ref "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements"), [Accessibility]({{< ref "/topics/accessibility" >}}), and for [Specific Events]({{< ref "events" >}}). Some of you, we think, are looking for the articles you wrote. Good on you. They are something to be proud of!
 
 So far, the data is showing that we are doing what we set out to do. But, we know we have a long way to go and can do so much better.
 
@@ -73,4 +73,4 @@ So far, the data is showing that we are doing what we set out to do. But, we kno
 
 In the next few weeks we’ll be publishing our first roadmap with priorities for the next FY. We plan to be very transparent. Look also for a follow up on some decisions and pivots we’ve made since launch in February—not everything went as expected.
 
-Oh, and regarding doing MORE and doing it better? Keep an eye out for _more_ posts featuring more agencies doing _more_ innovative work to make a _more_ responsive 21st century government. And last, [keep in touch]({{< link "/about/" >}} "Contact Us"). Comments and suggestions are always welcome.
+Oh, and regarding doing MORE and doing it better? Keep an eye out for _more_ posts featuring more agencies doing _more_ innovative work to make a _more_ responsive 21st century government. And last, [keep in touch]({{< ref "/about/_index.md" >}} "Contact Us"). Comments and suggestions are always welcome.

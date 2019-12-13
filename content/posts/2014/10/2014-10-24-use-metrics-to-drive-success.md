@@ -5,14 +5,13 @@ title: Use Metrics to Drive Success
 summary: 'Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the Open Opportunities program. We had a built-in test case. When the Digital Government Strategy was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital'
 authors:
   - lnelson
-categories:
-  - Metrics
-  - Our Work
-tag:
+topics:
+  - metrics
+  - our-work
   - Open Opportunities program
 ---
 
-Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the [Open Opportunities program]({{< link "open-opportunities.md" >}}).
+Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the [Open Opportunities program]({{< ref "open-opportunities.md" >}}).
 
 We had a built-in test case. When the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital governance and getting better customer feedback. Our team at GSA was chartered to support agencies, and we were looking for innovators across government to contribute. We outlined our hypotheses:
 
@@ -59,4 +58,4 @@ So, we learned through our experiments that people are willing (and excited!) ab
 
 As we move to a new platform we will focus our metrics on the ratio of new innovators to tasks created and the overall completion rate. Our hypothesis going forward is that the new platform will increase participation and advance the innovators network.
 
-To learn more about the Open Opportunities program read our previous post [Hacking the Bureaucracy One Task at a Time]({{< link "2014-06-23-hacking-the-bureaucracy-one-task-at-a-time.md" >}}) and [join in](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_60).
+To learn more about the Open Opportunities program read our previous post [Hacking the Bureaucracy One Task at a Time]({{< ref "2014-06-23-hacking-the-bureaucracy-one-task-at-a-time.md" >}}) and [join in](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_60).

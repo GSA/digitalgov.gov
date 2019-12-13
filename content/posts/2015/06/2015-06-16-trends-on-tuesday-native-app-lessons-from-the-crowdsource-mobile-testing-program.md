@@ -6,26 +6,25 @@ summary: 'The more you test, the more you know. We recently highlighted lessons 
 authors:
   - awichman
   - david-fern
-categories:
-  - Mobile
-tag:
+topics:
+  - mobile
   - Federal CrowdSource Mobile Testing Program
   - mobile
-  - mobile apps
-  - mobile testing
-  - Mobile UX Guideline 3
-  - Mobile UX Guideline 4
-  - native app
-  - Trends on Tuesday
+  - mobile-apps
+  - mobile-testing
+  - mobile-ux-guideline-3
+  - mobile-ux-guideline-4
+  - native-app
+  - trends-on-tuesday
 ---
 
 {{< legacy-img src="2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" caption="" >}} 
 
 The more you test, the more you know.
 
-We recently highlighted [lessons learned from the CrowdSource Mobile Testing Program]({{< link "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" >}}), discussed the [mobile emulator dilemma]({{< link "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}) that many agencies face, and today we’re back with a few insights on native app testing.
+We recently highlighted [lessons learned from the CrowdSource Mobile Testing Program]({{< ref "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" >}}), discussed the [mobile emulator dilemma]({{< ref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}) that many agencies face, and today we’re back with a few insights on native app testing.
 
-The [Federal CrowdSource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}}) yields a rich set of participant feedback that helps individual app creators improve their product. While the program primarily tests mobile websites created by federal agencies, the team tested early prototypes of the American Battle Monuments Commission’s [Normandy App]({{< link "2015-03-05-explore-iconic-overseas-world-war-ii-sites-with-abmc-apps.md" >}}) and the National Oceanic and Atmospheric Administration’s [CrowdMag app]({{< link "2015-01-29-be-a-citizen-scientist-with-noaas-crowdmag-app.md" >}}) as a pilot. We offer the following lessons to inform future app developers in any corner of the federal government.
+The [Federal CrowdSource Mobile Testing Program]({{< ref "service_mobile-testing-program.md" >}}) yields a rich set of participant feedback that helps individual app creators improve their product. While the program primarily tests mobile websites created by federal agencies, the team tested early prototypes of the American Battle Monuments Commission’s [Normandy App]({{< ref "2015-03-05-explore-iconic-overseas-world-war-ii-sites-with-abmc-apps.md" >}}) and the National Oceanic and Atmospheric Administration’s [CrowdMag app]({{< ref "2015-01-29-be-a-citizen-scientist-with-noaas-crowdmag-app.md" >}}) as a pilot. We offer the following lessons to inform future app developers in any corner of the federal government.
 
 ## For Content, Less is More
 
@@ -54,4 +53,4 @@ If you plan to test a native app prototype, here are some specific issues we enc
 
 Testing your native app is a critical part of the development process. Crowdsourced testing is a useful way to receive user feedback, and we hope the comments from our previous cycles will inform future federal development efforts.
 
-_In addition to lessons learned from native app testing, DigitalGov has also featured [lessons learned from testing mobile-friendly federal websites]({{< link "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" >}}). Do you have any other lessons learned from mobile app testing? Share them in the comments below. If you have an application you need tested, or would you like to be a tester, visit the [CrowdSource Mobile Testing Program page]({{< link "mobile-application-testing-program.md" >}}) for more information about this free service._
+_In addition to lessons learned from native app testing, DigitalGov has also featured [lessons learned from testing mobile-friendly federal websites]({{< ref "2015-02-24-trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program.md" >}}). Do you have any other lessons learned from mobile app testing? Share them in the comments below. If you have an application you need tested, or would you like to be a tester, visit the [CrowdSource Mobile Testing Program page]({{< ref "service_mobile-testing-program.md" >}}) for more information about this free service._

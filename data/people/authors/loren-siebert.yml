@@ -1,4 +1,4 @@
-# Welcome to your profile settings on digital.gov
+# These are the setting that control your profile on digital.gov
 # Feel free to make edits to your profile.
 # - Your profile can be viewed at http://digital.gov/authors/[uid]
 # - See all authors http://digital.gov/authors/
@@ -12,6 +12,12 @@ uid: loren-siebert
 email: loren@siebert.org
 photo: 'https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/141-x-188-Loren-Siebert.jpg'
 bio: 'Loren Siebert is the Technical Lead for the DigitalGov Search program, where he focuses on search and analytics.'
+
+# Agency Full Name [e.g. Department of Interior]
+agency_full_name: ''
+
+# Agency Acronym or short name [e.g. DOI]
+agency: ''
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ''

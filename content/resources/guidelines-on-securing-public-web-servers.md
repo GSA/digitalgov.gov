@@ -1,8 +1,10 @@
 ---
-url: /resources/guidelines-on-securing-public-web-servers/
+slug: guidelines-on-securing-public-web-servers
 date: 2015-11-23 4:18:46 -0400
 title: Guidelines on Securing Public Web Servers
 summary: 'The World Wide Web (WWW) is a system for exchanging information over the Internet. At the most basic level, the Web can be divided into two principal components: Web servers, which are applications that make information available over the Internet (in essence, publish information), and Web browsers (clients), which are used to access and display'
+topics:
+  - policy
 authors:
   - andreanocesigritz
 ---
@@ -21,4 +23,4 @@ The World Wide Web (WWW) is a system for exchanging information over the Interne
 
 * * *
 
-See more [DigitalGov Resources]({{< link "/resources/" >}})
+See more [DigitalGov Resources]({{< ref "/resources" >}})

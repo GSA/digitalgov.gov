@@ -1,21 +1,50 @@
 ---
-url: /communities/web-content-managers/
-uid: web-content-managers
-date: 2013-11-21 3:31:31 -0400
-title: 'Web Content Managers Forum'
-summary: 'The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites.'
+# View this page at https://digital.gov/communities/web-content-managers
+# Learn how to edit our pages at https://workflow.digital.gov
 
+slug: web-content-managers
+date: 2013-11-21 2:31:00 -0500
+title: "Web Content Managers"
+deck: ""
+summary: "The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites."
+
+# see all topics at https://digital.gov/topics
+topics:
+  - product-management
+  - content-strategy
+  - project-management
+  - analytics
+
+# see all authors at https://digital.gov/authors
+authors:
+  - digitalgov-team
+
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
+
+# Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/web-managers-forum/
   - /communities/web-managers-forum/web-content-managers-listserv/
+
+
+community_list:
+  - platform: listserv
+    type: government
+    subscribe_email: "digitalgovu@gsa.gov"
+    subscribe_email_subject: "Join Web Content Managers"
+    subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
+    members: 1910
+    emails_per_week: 4
+
+
+# Make it better ♥
 ---
 
 
 If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.
-
-### Join
-
-To subscribe please complete this [online form](https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform). If you are a U.S. government employee, we’ll automatically subscribe people every Friday. If you have trouble accessing the form please contact [DigitalGov](mailto:digitalgovu@gsa.gov?subject=Join).
 
 ### Overview
 

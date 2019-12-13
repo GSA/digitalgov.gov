@@ -5,14 +5,13 @@ title: 'Save the Date for FCC&#8217;s Social Media Accessibility Event'
 summary: 'On Thursday, July 17, the FCC&#8217;s Accessibility and Innovation Initiative will host a public event called &#8220;Accessing Social Media.&#8221; The purpose is to promote collaborative, cross-sector problem-solving on how to produce and consume accessible social media, considering authoring tools, client apps, and best practices for various'
 authors:
   - jamal-mazrui
-categories:
-  - Accessibility
-  - Social Media
-tag:
+topics:
+  - accessibility
+  - social-media
   - accessibility
   - FCC
   - Federal Communications Commission
-  - social media
+  - social-media
 ---
 
 {{< legacy-img src="2014/05/250-x-229-FCC-logo-white-on-black.jpg" alt="The Federal Communications Commission (FCC) logo" >}}On Thursday, July 17, the FCC&#8217;s Accessibility and Innovation Initiative will host a public event called &#8220;Accessing Social Media.&#8221; The purpose is to promote collaborative, cross-sector problem-solving on how to produce and consume accessible social media, considering authoring tools, client apps, and best practices for various disability constituencies.

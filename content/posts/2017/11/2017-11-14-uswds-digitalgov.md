@@ -5,15 +5,14 @@ title: 'U.S. Web Design Standards + DigitalGov'
 summary: 'We’re excited to announce that the U.S. Web Design Standards team has moved over to OPP and joined the DigitalGov team.'
 authors:
   - jeremyzilar
-tag:
-  - digitalgov
-  - uswds
+  - digitalgov-team
+  - dan-williams
 featured_image:
   uid: tile-4
   alt: 'U.S. Web Design Standards'
 ---
 
-We’re excited to announce that [the U.S. Web Design Standards][18a73fb9] has moved over to the [Office of Products and Platforms (OPP)][3f7dfc99] and joined [the new DigitalGov team]({{< link "/about/" >}}), effective October 1, 2017.
+We’re excited to announce that [the U.S. Web Design Standards][18a73fb9] has moved over to the [Office of Products and Platforms (OPP)][3f7dfc99] and joined [the new DigitalGov team]({{< ref "/about/_index.md" >}}), effective October 1, 2017.
 
   [18a73fb9]: https://standards.usa.gov/ "The U.S. Web Design Standards"
   [3f7dfc99]: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs "Office of Products and Platforms (OPP)"

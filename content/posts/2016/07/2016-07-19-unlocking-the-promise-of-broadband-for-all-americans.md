@@ -6,15 +6,14 @@ summary: 'Summary: The Administration announces new wireless research efforts th
 authors:
   - r-david-edelman
   - jason-furman
-categories:
-  - Mobile
-tag:
-  - 5G
+topics:
+  - mobile
+  - 5g
   - broadband
   - innovation
   - mobile
-  - mobile gov
-  - White House
+  - mobile-gov
+  - white-house
   - wireless
 ---
 

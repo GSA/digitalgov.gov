@@ -1,7 +1,3 @@
-{{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "top post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
-  {{ $.Scratch.Set "headtitle" "Nothing found at that address" }}
-{{ end }}
 {{ define "content" }}
 <div id="contentleft" class="clearfix">
   <div id="content" class="clearfix">
@@ -18,7 +14,6 @@
           {{ range first 10 (where .Site.Pages "Section" "posts") }}
             <div class="sitemap-post clearfix">
               <p class="post-title"><a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></p>
-              {{ partial "post-meta.html" . }}
             </div>
           {{ end }}
 
@@ -36,7 +31,4 @@
   <!-- #content -->
 </div>
 <!-- #contentleft -->
-{{ end }}
-{{ define "sidebar" }}
-  {{ partial "sidebar-common.html" . }}
 {{ end }}
