@@ -133,7 +133,7 @@ aliases:
 
 ## Terms of Service Agreements
 
-* [Federal Compatible Terms of Service]({{< ref "/guide/terms-of-service/_index.md" >}})
+* [Federal Compatible Terms of Service]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}})
     * [Negotiated Terms of Service Agreements]({{< ref "negotiated-terms-of-service-agreements.md" >}})
     * [Agency Points of Contact for Federal Compatible Terms of Service Agreements]({{< ref "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
 

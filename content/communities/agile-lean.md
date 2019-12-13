@@ -9,12 +9,13 @@ deck: "Supporting people working with agile/lean methodologies and those who wou
 summary: "Supporting people working with agile/lean methodologies and those who would like to learn more."
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
   - agile
   - product-management
+  - kanban
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
   - bbrantley
   - logan-powell
 
@@ -24,7 +25,7 @@ authors:
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases:
+aliases: 
   - /agile-lean-community-of-practice/
 
 

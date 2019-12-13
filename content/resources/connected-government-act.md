@@ -3,7 +3,6 @@ slug: connected-government-act
 date: 2018-06-25 9:00:00 -0400
 title: 'Connected Government Act'
 summary: 'Resources to help your agency comply with the Connected Government Act.'
-type: guide
 deck: 'As of July of 2018, all new and redesigned agency websites are required to be mobile friendly.'
 featured_image:
   uid: hr2331-connected-govt-act

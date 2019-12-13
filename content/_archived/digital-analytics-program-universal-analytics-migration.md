@@ -3,8 +3,6 @@ url: /services/dap/digital-analytics-program-universal-analytics-migration/
 date: 2014-10-14 3:00:34 -0400
 title: 'Digital Analytics Program: Universal Analytics Migration'
 summary: The DAP Universal Analytics (UA) code is scheduled to be released in February 2015. All agencies are required to have completed the migration to DAP UA by May 31, 2015. This migration, which entails implementing a new code and script block, is required to expand DAP reporting capabilities and remain current with the changing nature
-type: guide
-guide: dap
 draft: true
 ---
 
