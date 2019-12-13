@@ -9,7 +9,6 @@ weight: 1
 topics:
   - cx
 
-
 community_list:
   - platform: "listserv"
     type: government
