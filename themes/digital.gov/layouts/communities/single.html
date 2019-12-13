@@ -41,33 +41,23 @@
                   <div class="join-box-wrapper">
                     <!-- Listserv Platforms without form sign-up option -->
                     {{- if and (eq $e.platform "listserv") (not $e.subscribe_form ) -}}
-                      <a href="mailto:{{- $e.subscribe_email -}}
-                      {{- if $e.subscribe_email_subject -}}
-                        ?subject={{- $e.subscribe_email_subject -}}
-                        {{- if $e.subscribe_email_body -}}
-                          &body={{- $e.subscribe_email_body -}}
-                        {{- end -}}
-                      {{- else -}}
-                        {{- if $e.subscribe_email_body -}}
-                          ?body={{- $e.subscribe_email_body -}}
-                        {{- end -}}
-                      {{- end -}}" class="join type-{{- $e.platform -}}"><i class="fas fa-envelope"></i> Join by email</a>
 
-                      <p>To join, email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_email_subject }} <code>{{ $e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_email_body }} and <code>{{ $e.subscribe_email_body }}</code> in the body{{- end -}}.</p>
+                      {{- partial "core/community-join-without-form" (dict "context" . "e" $e) -}}
+
                     {{- end -}}
 
                     <!-- Listserv Platforms with form as sign-up option -->
                     {{- if and (eq $e.platform "listserv") ( $e.subscribe_form ) -}}
-                      <a href="{{ $e.subscribe_form }}" class="join type-{{- $e.platform -}}" title="Join the {{ .Title | markdownify }} Community"><i class="fas fa-file-signature"></i> Join via our form</a>
 
-                      <p>To join, <a href="{{ $e.subscribe_form }}" title="Fill out our form">fill out our form</a>{{ if $e.subscribe_email }} or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_email_subject }} <code>{{ $e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_email_body }} and <code>{{ $e.subscribe_email_body }}</code> in the body{{- end -}}{{- end -}}.</p>
+                      {{- partial "core/community-join-with-form" (dict "context" . "e" $e) -}}
+
                     {{- end -}}
 
                     <!-- Google Group platforms -->
                     {{- if and (eq $e.platform "google-group") ( $e.subscribe_form ) -}}
-                      <a href="{{- $e.subscribe_form -}}" class="join type-{{- $e.platform -}}"><i class="fab fa-google"></i> Join the Google Group</a>
 
-                      <p>To join, fill out our form or email <strong>{{ $e.subscribe_email }}</strong> with {{ if $e.subscribe_email_subject }} <code>{{ $e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if $e.subscribe_email_body }} and <code>{{ $e.subscribe_email_body }}</code> in the body{{- end -}}.</p>
+                      {{- partial "core/community-join-google-group" (dict "context" . "e" $e) -}}
+
                     {{- end -}}
 
 
