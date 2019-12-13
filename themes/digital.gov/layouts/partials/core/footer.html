@@ -1,23 +1,66 @@
-<footer id="footer">
-  <div class="grid-container padding-x-2">
+<section class="return-to-top">
+  <div class="grid-container grid-container-desktop usa-footer__return-to-top">
     <div class="grid-row">
-      <div class="grid-col-12 tablet-lg:grid-col-4">
-        <h3 class="logo"><a href="{{ "" | absURL }}" title="Digital.gov Home"><img src="{{ "img/digitalgov-logo-white.png" | absURL }}" alt="digital.gov"></a></h3>
-        <p class="font-sans-md margin-top-1">We help the government community deliver better digital services.</p>
-      </div>
-      <div class="grid-col-12 tablet-lg:grid-col-2 tablet-lg:grid-offset-6">
-        <ul>
-          <li><i class="fab fa-twitter"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="#">Twitter</a></li>
-          <li><i class="fab fa-facebook-f"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="#">Facebook</a></li>
-          <li><i class="fab fa-youtube"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="#">YouTube</a></li>
-          <li><i class="fas fa-rss"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="#">RSS</a></li>
-        </ul>
+      <div class="grid-col-auto">
+        <a href="#"><span>Return to top</span> <i class="fas fa-arrow-circle-up"></i></a>
       </div>
     </div>
-    <div class="grid-row margin-top-3">
-      <div class="grid-col-12">
-        <p><img src="{{ "img/gsa-logo-white-lg.png" | absURL }}" alt="GSA"> General Services Administration — This is an official site of the U.S. Government.</p>
-      </div>
+  </div>
+</section>
+
+<footer class="usa-footer usa-footer--big" role="contentinfo">
+  <div class="usa-footer__primary-section">
+    <div class="grid-container grid-container-desktop">
+      <nav class="usa-footer__nav">
+        <div class="grid-row grid-gap-4">
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+              <h4 class="usa-footer__primary-link">Learn</h4>
+              <ul class="usa-list usa-list--unstyled">
+                {{- range .Site.Menus.primary -}}
+                  <li class="usa-footer__secondary-link"><a href="{{- .URL -}}">{{- .Name -}}</a></li>
+                {{- end -}}
+              </ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+              <h4 class="usa-footer__primary-link">Contribute</h4>
+              <ul class="usa-list usa-list--unstyled">
+                {{- range .Site.Menus.contribute -}}
+                  <li class="usa-footer__secondary-link"><a href="{{- .URL -}}">{{- .Name -}}</a></li>
+                {{- end -}}
+              </ul>
+            </section>
+          </div>
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+              <h4 class="usa-footer__primary-link">About</h4>
+              <ul class="usa-list usa-list--unstyled">
+                {{- range .Site.Menus.about -}}
+                  <li class="usa-footer__secondary-link"><a href="{{- .URL -}}">{{- .Name -}}</a></li>
+                {{- end -}}
+              </ul>
+            </section>
+          </div>
+
+          <div class="mobile-lg:grid-col-6 tablet-lg:grid-col-3">
+            <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+              <h4 class="usa-footer__primary-link">Social</h4>
+              <ul class="usa-list usa-list--unstyled social-links">
+                <li class="usa-footer__secondary-link"><i class="fab fa-twitter"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://twitter.com/digital_gov">Twitter</a></li>
+                <li class="usa-footer__secondary-link"><i class="fab fa-facebook-f"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://www.facebook.com/digitalgov/">Facebook</a></li>
+                <li class="usa-footer__secondary-link"><i class="fab fa-youtube"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="https://youtube.com/digitalgov">YouTube</a></li>
+                <li class="usa-footer__secondary-link"><i class="fas fa-rss"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="{{- "/" | relURL -}}index.xml">RSS</a></li>
+                <li class="usa-footer__secondary-link"><i class="far fa-envelope"></i> <a class="text-ink hover:text-ink text-no-underline hover:text-underline" href="mailto:digitalgov@gsa.gov">Email us</a></li>
+              </ul>
+
+            </section>
+          </div>
+
+
+        </div>
+      </nav>
     </div>
   </div>
 </footer>
