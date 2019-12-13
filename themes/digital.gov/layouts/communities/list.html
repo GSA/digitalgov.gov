@@ -39,11 +39,11 @@
             <article class="promo promo-card" data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
               <div class="grid-row tablet-lg:grid-gap-4">
                 <div class="grid-col-12">
-                  <h4><a href="{{ $e.Permalink }}" title="{{ $e.Title }}">{{ $e.Title }}</a></h4>
-                  <p>{{ $e.Params.summary }}</p>
+                  <h4><a href="{{- $e.Permalink -}}" title="{{- $e.Title | markdownify -}}">{{- $e.Title | markdownify -}}</a></h4>
+                  <p>{{- $e.Params.summary | markdownify -}}</p>
                 </div>
               </div>
-              <a href="{{ $e.Permalink }}" title="{{ .Params.head }}"><span></span></a>
+              <a href="{{- $e.Permalink -}}" title="{{- .Params.head -}}"><span></span></a>
             </article>
 
           </div>

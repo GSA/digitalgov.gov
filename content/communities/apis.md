@@ -9,13 +9,13 @@ deck: "Working to advance the cause of APIs in the federal government"
 summary: "Working to advance the cause of APIs in the federal government"
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - code
   - api
   - open-source
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - gray-brooks
 
 # Page weight: controls how this page appears across the site
@@ -27,7 +27,6 @@ community_list:
   - platform: google-group
     type: public
     subscribe_form: https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis
-    terms: "This community is open to anyone."
     members: 1351
 
 
