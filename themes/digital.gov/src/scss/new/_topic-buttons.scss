@@ -23,7 +23,7 @@
         @include at-media('tablet') {
           @include u-padding-left(2);
     		}
-        @include u-font('sans', 'md');
+        @include u-font('sans', 'sm');
         @include u-text('medium');
         @include u-text('no-underline');
         @include u-bg('white');

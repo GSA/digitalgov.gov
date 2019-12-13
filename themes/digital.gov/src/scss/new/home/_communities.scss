@@ -151,7 +151,7 @@ header.header-communities{
     h4{
       @include u-margin(0);
       @include u-margin-bottom(1);
-      @include u-font('sans', 'md');
+      @include u-font('sans', 'sm');
       @include u-line-height('sans', 1);
       z-index: 1;
       a{

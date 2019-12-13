@@ -16,9 +16,9 @@
 		@include u-text('primary-darker');
 		@include u-text('medium');
 		@include u-text('no-underline');
-		@include u-font('sans', 'xs');
+		@include u-font('sans', '2xs');
 		@include at-media('tablet') {
-			@include u-font('sans', 'xs');
+			@include u-font('sans', '2xs');
 		}
 		z-index: 2;
 		img{

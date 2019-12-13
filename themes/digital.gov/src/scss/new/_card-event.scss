@@ -40,7 +40,7 @@
 	.btn-register{
 		@include u-padding-y(0);
 		@include u-padding-x(0);
-		@include u-font('sans', 'md');
+		@include u-font('sans', 'sm');
 		@include u-display('block');
 		@include u-radius('sm');
 		@include u-bg('white');

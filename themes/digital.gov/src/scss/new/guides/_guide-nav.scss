@@ -1,0 +1,32 @@
+.guide-nav-box {
+	@include u-border-right('1px', 'base-lighter', 'solid');
+	.guide-nav{
+		@include u-margin-bottom(3);
+		@include u-font('sans', 'sm');
+		@include u-border(0);
+		li{
+			a{
+				@include u-text('black');
+				@include u-text('no-underline');
+				&:hover{
+					@include u-text('underline');
+				}
+			}
+			.usa-current{
+				@include u-bg('primary');
+				@include u-text('white');
+				&:hover{
+					@include u-text('white');
+					@include u-bg('primary-dark');
+				}
+				&:after{
+					@include u-radius(0);
+					@include u-top(0);
+					@include u-left('-2px');
+					@include u-bottom(0);
+					@include u-bg('primary-darker');
+				}
+			}
+		}
+	}
+}
