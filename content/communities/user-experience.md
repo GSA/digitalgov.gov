@@ -14,7 +14,7 @@ community_list:
     type: government
     subscribe_email: ux-cop-request@listserv.gsa.gov
     subscribe_email_subject: "Join UX Community"
-    members: 1180
+    members: 1247
     emails_per_week: 9.55
 
 ---
