@@ -11,11 +11,10 @@ aliases:
 weight: 1
 community_list:
   - platform: "google-group"
-    type: "Public"
+    type: public
     subscribe_form: "https://groups.google.com/forum/#!forum/us-open-government"
-    terms: "Anyone is welcome to join."
   - platform: "listserv"
-    type: "Government only"
+    type: government
     subscribe_email: opengov-subscribe-request@listserv.gsa.gov
     subscribe_email_subject: "Join: OpenGov"
     members: 232

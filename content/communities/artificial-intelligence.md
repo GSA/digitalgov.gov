@@ -23,9 +23,8 @@ community_list:
     type: government
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AI Listserv"
-    terms: "Open to anyone with a .gov or .mil email address."
     members: 476
-    emails_per_week: 
+    emails_per_week:
 
 # Make it better ♥
 
