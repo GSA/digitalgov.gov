@@ -1,12 +1,16 @@
 ---
-slug: mobile/principles/optimize-minify-compression
+slug: optimize-minify-compression
 date: 2018-12-21 10:00:00 -0500
 title: 'The Smaller the Better, When It Comes to Page Resources!'
 summary: "This week's addition to the Eight Principles of Mobile-Friendliness guide covers making page resources smaller to improve page rendering."
-type: guide
+guide: mobile-principles
+
+aliases:
+  - /resources/mobile/principles/optimize-minify-compression
+
 ---
 
-This week we will talk about making page resources smaller to improve the rendering of the page.   
+This week we will talk about making page resources smaller to improve the rendering of the page.
 
 The incorrect sizing and placement of objects on a site may lead to longer page load times and mobile unfriendliness. Mobile devices are getting faster with every new release, however they still rely on the mobile network to get the information to the device and we have all been in locations where we have little to no bars of connectivity. If we can reduce the size of what is being sent over the network, the page will load faster. The following are 5 solutions to make your page content lighter:
 
@@ -64,13 +68,13 @@ gzip_http_version 1.0;
 gzip_proxied any;
 gzip_min_length 1100;
 gzip_buffers 16 8k;
-gzip_types text/plain text/html text/css application/x-javascript 
+gzip_types text/plain text/html text/css application/x-javascript
 text/xml application/xml application/xml+rss text/javascript;
 
 &#35; Disable for IE < 6 because there are some known problems
 gzip_disable "MSIE [1-6].(?!.*SV1)";
 
-&#35; Add a vary header for downstream proxies to avoid sending cached 
+&#35; Add a vary header for downstream proxies to avoid sending cached
 gzipped files to IE6
 gzip_vary on;
 </pre>
@@ -171,14 +175,14 @@ While image optimization is still more of an “art” than a science, the follo
    - Never use [BMP](https://en.wikipedia.org/wiki/BMP_file_format) or [TIFF](https://en.wikipedia.org/wiki/TIFF) image files
  - **Save the Image Using Proper Dimensions** - Save the image in the desired size to reduce the file size instead of using HTML or CSS to resize your images. This will improve the rendering time. There are many programs available to resize images—from the simple [GNU Image Manipulation Program](https://www.gimp.org/) (GIMP), to more advanced software programs such as Photoshop, Illustrator, or Fireworks.
  - **Optimize the Image** - Crop your images to remove any whitespace around the image, and use CSS to provide padding. Image optimization is done using one of many tools depending on the format. The following are some examples of image compression tools.
-   - **Multiple File Types** 
-     - ImageMagick https://www.imagemagick.org/script/convert.php 
-   - **JPEG** 
-     - JPEE 9 http://jpegclub.org/ 
-     - jpegoptim http://freshmeat.sourceforge.net/projects/jpegoptim/ 
-   - **PNG** 
-     - OptiPNG: Advanced PNG Optimizer http://optipng.sourceforge.net/ 
-     - PNGOUT http://www.advsys.net/ken/util/pngout.htm 
+   - **Multiple File Types**
+     - ImageMagick https://www.imagemagick.org/script/convert.php
+   - **JPEG**
+     - JPEE 9 http://jpegclub.org/
+     - jpegoptim http://freshmeat.sourceforge.net/projects/jpegoptim/
+   - **PNG**
+     - OptiPNG: Advanced PNG Optimizer http://optipng.sourceforge.net/
+     - PNGOUT http://www.advsys.net/ken/util/pngout.htm
 
 ### References
 
@@ -205,7 +209,7 @@ However, in practice, things are often more complicated, and each complication d
 
 The following are some recommendations on how to streamline your CSS files to promote the fastest loading and rendering for the client:
 
- - **Don't inline large data URLs** – A Data URL is a URI scheme that provides a way to inline data in an HTML document. While inlining small URIs in your CSS may be fine, inlining large data URIs can cause the size of the CSS to be much larger, which will slow down page render time. There are many data URL generators available online to assist in building URI schemas most efficiently.  
+ - **Don't inline large data URLs** – A Data URL is a URI scheme that provides a way to inline data in an HTML document. While inlining small URIs in your CSS may be fine, inlining large data URIs can cause the size of the CSS to be much larger, which will slow down page render time. There are many data URL generators available online to assist in building URI schemas most efficiently.
 
  - **Do not inline CSS attributes in HTML elements** – Avoid using inline CSS on repeated HTML elements, such as the paragraph tag `<p style="___;">` where possible because this often leads to code duplication. Traditionally, we have included inline CSS styles in HTML elements, but this may cause browsers to respond slower. We should avoid using inline CSS on repeated HTML elements below the fold where possible (such as the paragraph tag `<p style="___;">`) because this often leads to code duplication. Additionally, including styles in our code is against the [Content Security Policy](https://frontend.18f.gov/security/content-security-policy/) of the World Wide Web Consortium (W3C) that will block any element levels styles by default. Additional guidance can be found the [W3C 2016 Content Policy Level 2 Recommendation](https://www.w3.org/TR/CSP2/), or the [W3C 2018 Content Security Policy Level 3 Working Draft](https://www.w3.org/TR/CSP3/).
 
@@ -217,15 +221,15 @@ The following are some recommendations on how to streamline your CSS files to pr
 
 Once you have your site and pages ready, run it against these two sites, which will help you assess the performance of your CSS sheets:
 
-- CSS Delivery Tool https://varvy.com/tools/css-delivery/ 
-- Inline CSS Scripts https://www.giftofspeed.com/inline-your-css-code/ 
+- CSS Delivery Tool https://varvy.com/tools/css-delivery/
+- Inline CSS Scripts https://www.giftofspeed.com/inline-your-css-code/
 
 ### References
 
-- **CSS Optimized Test** | https://www.giftofspeed.com/css-delivery/ 
-- **Optimize CSS Delivery** 
-  - https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery 
-  - https://varvy.com/pagespeed/optimize-css-delivery.html 
+- **CSS Optimized Test** | https://www.giftofspeed.com/css-delivery/
+- **Optimize CSS Delivery**
+  - https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
+  - https://varvy.com/pagespeed/optimize-css-delivery.html
 
 ## Prioritize Visible Content
 
@@ -244,7 +248,7 @@ In addition to the other performance recommendations above (such as enabling com
 ### References
 
 - **Reduce the Size of the Above the fold Content** | https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent
-- **Prioritize Visible Content** 
+- **Prioritize Visible Content**
   - https://varvy.com/pagespeed/prioritize-visible-content.html
   - http://web-design-eastbourne.co.uk/blog/prioritize-visible-content/
 
