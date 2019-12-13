@@ -1,28 +1,16 @@
-// Header
+// Footer
 
-footer#footer{
-	@include u-padding-y(3);
-	// tablet-lg and above
-	@include at-media('tablet-lg') {
-		@include u-padding-y(4);
-		@include u-padding-bottom(6);
+footer.usa-footer{
+	.usa-footer__primary-section{
+		@include u-bg('white');
 	}
-	@include u-bg('indigo-90');
-	color:#fff;
-	a{
-		color:#fff;
-	}
-	// Logo
-	.logo{
-		@include u-margin(0);
-		@include u-font('sans', 'xl');
-		@include u-line-height('sans', 2);
-		a{
-			color:#000;
-			@include u-text('no-underline');
-		}
-		img{
-			width: 150px;
+	.social-links{
+		@include add-list-reset;
+		@include u-margin-y(3);
+		li{
+			i{
+				@include u-width('205');
+			}
 		}
 	}
 }
