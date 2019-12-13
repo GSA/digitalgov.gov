@@ -34,10 +34,12 @@ community_list:
     subscribe_email_subject: "Join USWDS Slack"
     subscribe_form: https://chat.18f.gov/
     terms: "Open to the public."
+    members: 114
+    emails_per_week:
 
 # Make it better ♥
----
 
+---
 
 {{< img-right src="uswds-logo" >}}
 
