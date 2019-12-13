@@ -20,26 +20,8 @@
 
 	main{
 		@include u-padding(0);
+		@include u-border-top(0, !important);
 	}
-
-	// ================
-	// navigation tricks
-	// .usa-header{
-	// 	.usa-nav{
-	// 		@include at-media('tablet') {
-	// 			@include u-display('none');
-	// 		}
-	// 		.usa-nav__primary{
-	// 			@include u-order(2);
-	// 		}
-	// 		.guide-nav{
-	// 			@include u-order(0);
-	// 		}
-	// 		.usa-search{
-	// 			@include u-order(1);
-	// 		}
-	// 	}
-	// }
 }
 
 
@@ -48,6 +30,7 @@
 	// Header styles
 
 	.hero{
+		@include u-margin-bottom(5);
 		@include u-padding-y(5);
 		@include u-bg('base-lightest');
 		background-image: url('../guides/dap-wide.png');
