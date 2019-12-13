@@ -69,7 +69,8 @@
 				@include u-font('sans', 'xs');
 			}
 			@include u-text('italic');
-			@include u-display('block');
+			// @include u-display('block');
+			@include u-display('none'); // temporary
 			@include u-text('gold-40v');
 			i{
 				@include u-text('gold-30v');
