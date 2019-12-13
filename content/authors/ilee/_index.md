@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ilee
+# https://digital.gov/authors/ilee
 
 display_name: "Immanuel Lee"
 first_name: "Immanuel"

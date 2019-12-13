@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/robert-jacoby
+# https://digital.gov/authors/robert-jacoby
 
 display_name: "Robert Jacoby"
 first_name: "Robert"

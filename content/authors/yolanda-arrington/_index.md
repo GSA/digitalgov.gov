@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/yolanda-arrington
+# https://digital.gov/authors/yolanda-arrington
 
 display_name: "Yolanda R. Arrington"
 first_name: "Yolanda"

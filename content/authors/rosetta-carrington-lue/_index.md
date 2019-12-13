@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/rosetta-carrington-lue
+# https://digital.gov/authors/rosetta-carrington-lue
 
 display_name: "Rosetta Carrington Lue"
 first_name: "Rosetta Carrington"

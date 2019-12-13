@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/richard-easterbrook
+# https://digital.gov/authors/richard-easterbrook
 
 display_name: "Richard Easterbrook"
 first_name: "Richard"

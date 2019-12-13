@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ryan-edelstein
+# https://digital.gov/authors/ryan-edelstein
 
 display_name: "Ryan Edelstein"
 first_name: "Ryan"

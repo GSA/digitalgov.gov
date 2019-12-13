@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/heather-evans
+# https://digital.gov/authors/heather-evans
 
 display_name: "Heather Evans"
 first_name: "Heather"

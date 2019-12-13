@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/james-kim
+# https://digital.gov/authors/james-kim
 
 display_name: "James Kim"
 first_name: "James"

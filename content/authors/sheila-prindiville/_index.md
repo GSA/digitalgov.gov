@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sheila-prindiville
+# https://digital.gov/authors/sheila-prindiville
 
 display_name: "Sheila Prindiville"
 first_name: "Sheila"

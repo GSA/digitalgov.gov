@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lakshmi-grama
+# https://digital.gov/authors/lakshmi-grama
 
 display_name: "Lakshmi Grama"
 first_name: "Lakshmi"

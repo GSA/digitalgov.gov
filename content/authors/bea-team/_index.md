@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/bea-team
+# https://digital.gov/authors/bea-team
 
 display_name: "BEA Team"
 first_name: "BEA"

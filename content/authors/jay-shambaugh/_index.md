@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jay-shambaugh
+# https://digital.gov/authors/jay-shambaugh
 
 display_name: "Jay Shambaugh"
 first_name: "Jay"

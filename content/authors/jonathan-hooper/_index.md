@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jonathan-hooper
+# https://digital.gov/authors/jonathan-hooper
 
 display_name: "Jonathan Hooper"
 first_name: "Jonathan"

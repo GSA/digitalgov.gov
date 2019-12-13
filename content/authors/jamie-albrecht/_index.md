@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jamie-albrecht
+# https://digital.gov/authors/jamie-albrecht
 
 display_name: "Jamie Albrecht"
 first_name: "Jamie"

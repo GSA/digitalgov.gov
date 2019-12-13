@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/byrhonda-lyons
+# https://digital.gov/authors/byrhonda-lyons
 
 display_name: "Byrhonda Lyons"
 first_name: "Byrhonda"

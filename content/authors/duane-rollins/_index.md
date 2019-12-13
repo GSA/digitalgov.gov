@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/duane-rollins
+# https://digital.gov/authors/duane-rollins
 
 display_name: "Duane Rollins"
 first_name: "Duane"

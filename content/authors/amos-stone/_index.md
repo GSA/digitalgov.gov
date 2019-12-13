@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/amos-stone
+# https://digital.gov/authors/amos-stone
 
 display_name: "Amos Stone"
 first_name: "Amos"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/claire-ehmann
+# https://digital.gov/authors/claire-ehmann
 
 display_name: "Claire Ehmann"
 first_name: "Claire"

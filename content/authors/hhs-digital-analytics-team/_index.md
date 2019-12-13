@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/hhs-digital-analytics-team
+# https://digital.gov/authors/hhs-digital-analytics-team
 
 display_name: "HHS Digital Analytics Team"
 first_name: "HHS"

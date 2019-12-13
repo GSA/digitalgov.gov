@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/marietta-jelks
+# https://digital.gov/authors/marietta-jelks
 
 display_name: "Marietta Jelks"
 first_name: "Marietta"

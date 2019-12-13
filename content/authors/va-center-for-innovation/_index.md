@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/va-center-for-innovation
+# https://digital.gov/authors/va-center-for-innovation
 
 display_name: "VA Center for Innovation"
 first_name: "VA Center"

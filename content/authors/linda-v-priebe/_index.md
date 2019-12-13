@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/linda-v-priebe
+# https://digital.gov/authors/linda-v-priebe
 
 display_name: "Linda V. Priebe"
 first_name: "Linda V."

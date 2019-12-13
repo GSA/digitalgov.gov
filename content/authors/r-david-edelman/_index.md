@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/r-david-edelman
+# https://digital.gov/authors/r-david-edelman
 
 display_name: "R. David Edelman"
 first_name: "R. David"

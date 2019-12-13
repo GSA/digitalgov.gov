@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/chris-goranson
+# https://digital.gov/authors/chris-goranson
 
 display_name: "Chris Goranson"
 first_name: "Chris"

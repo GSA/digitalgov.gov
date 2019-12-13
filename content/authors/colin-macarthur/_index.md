@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/colin-macarthur
+# https://digital.gov/authors/colin-macarthur
 
 display_name: "Colin MacArthur"
 first_name: "Colin"

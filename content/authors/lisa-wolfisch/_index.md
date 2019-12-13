@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lisa-wolfisch
+# https://digital.gov/authors/lisa-wolfisch
 
 display_name: "Lisa Wolfisch"
 first_name: "Lisa"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tonya-beres
+# https://digital.gov/authors/tonya-beres
 
 display_name: "Tonya Beres"
 first_name: "Tonya"

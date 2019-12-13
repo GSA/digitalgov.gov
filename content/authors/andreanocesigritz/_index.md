@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/andreanocesigritz
+# https://digital.gov/authors/andreanocesigritz
 
 display_name: "Andrea Sigritz"
 first_name: "Andrea"

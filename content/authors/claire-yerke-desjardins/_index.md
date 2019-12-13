@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/claire-yerke-desjardins
+# https://digital.gov/authors/claire-yerke-desjardins
 
 display_name: "Claire Yerke Desjardins"
 first_name: "Claire"

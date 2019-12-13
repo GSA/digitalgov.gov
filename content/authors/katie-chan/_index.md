@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/katie-chan
+# https://digital.gov/authors/katie-chan
 
 display_name: "Katie Chan"
 first_name: "Katie"

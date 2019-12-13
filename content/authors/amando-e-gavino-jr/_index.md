@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/amando-e-gavino-jr
+# https://digital.gov/authors/amando-e-gavino-jr
 
 display_name: "Amando E. Gavino, Jr."
 first_name: "Amando E."

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-chiles
+# https://digital.gov/authors/david-chiles
 
 display_name: "David Chiles"
 first_name: "David"

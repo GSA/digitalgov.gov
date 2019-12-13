@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/allison-baker
+# https://digital.gov/authors/allison-baker
 
 display_name: "Allison Baker"
 first_name: "Allison"

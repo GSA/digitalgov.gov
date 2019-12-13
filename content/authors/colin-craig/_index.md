@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/colin-craig
+# https://digital.gov/authors/colin-craig
 
 display_name: "Colin Craig"
 first_name: "Colin"

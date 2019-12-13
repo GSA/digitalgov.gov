@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jessica-orquina
+# https://digital.gov/authors/jessica-orquina
 
 display_name: "Jessica Orquina"
 first_name: "Jessica"

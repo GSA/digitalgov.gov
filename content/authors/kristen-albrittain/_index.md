@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kristen-albrittain
+# https://digital.gov/authors/kristen-albrittain
 
 display_name: "Kristen Albrittain"
 first_name: "Kristen"

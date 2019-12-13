@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ryan-thurlwell
+# https://digital.gov/authors/ryan-thurlwell
 
 display_name: "Ryan Thurlwell"
 first_name: "Ryan"

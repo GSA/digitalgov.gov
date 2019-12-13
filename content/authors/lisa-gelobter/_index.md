@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lisa-gelobter
+# https://digital.gov/authors/lisa-gelobter
 
 display_name: "Lisa Gelobter"
 first_name: "Lisa"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/deb-lebel
+# https://digital.gov/authors/deb-lebel
 
 display_name: "Deb LeBel"
 first_name: "Deb"

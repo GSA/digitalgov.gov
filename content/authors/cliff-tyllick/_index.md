@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/cliff-tyllick
+# https://digital.gov/authors/cliff-tyllick
 
 display_name: "Cliff Tyllick"
 first_name: "Cliff"

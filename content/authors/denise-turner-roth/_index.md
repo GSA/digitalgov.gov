@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/denise-turner-roth
+# https://digital.gov/authors/denise-turner-roth
 
 display_name: "Denise Turner Roth"
 first_name: "Denise"

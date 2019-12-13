@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jeffrey-levy
+# https://digital.gov/authors/jeffrey-levy
 
 display_name: "Jeffrey Levy"
 first_name: "Jeffrey"

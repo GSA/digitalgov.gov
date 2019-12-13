@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/katie-steffy
+# https://digital.gov/authors/katie-steffy
 
 display_name: "Katie Steffy"
 first_name: "Katie"

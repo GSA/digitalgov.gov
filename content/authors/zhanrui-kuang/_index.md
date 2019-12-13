@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/zhanrui-kuang
+# https://digital.gov/authors/zhanrui-kuang
 
 display_name: "Zhanrui Kuang"
 first_name: "Zhanrui"

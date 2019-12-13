@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dan-pomeroy
+# https://digital.gov/authors/dan-pomeroy
 
 display_name: "Dan Pomeroy"
 first_name: "Dan"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/marybeth-murphy
+# https://digital.gov/authors/marybeth-murphy
 
 display_name: "Marybeth Murphy"
 first_name: "Marybeth"

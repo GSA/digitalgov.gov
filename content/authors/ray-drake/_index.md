@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ray-drake
+# https://digital.gov/authors/ray-drake
 
 display_name: "Ray Drake"
 first_name: "Ray"

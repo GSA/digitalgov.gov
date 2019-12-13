@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alex-casanova
+# https://digital.gov/authors/alex-casanova
 
 display_name: "Alex Casanova"
 first_name: "Alex"

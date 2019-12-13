@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-s-ferriero
+# https://digital.gov/authors/david-s-ferriero
 
 display_name: "David S. Ferriero"
 first_name: "David S."

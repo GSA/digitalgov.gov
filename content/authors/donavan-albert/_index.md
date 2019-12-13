@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/donavan-albert
+# https://digital.gov/authors/donavan-albert
 
 display_name: "Donavan Albert"
 first_name: "Donavan"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/gsa-blog-team
+# https://digital.gov/authors/gsa-blog-team
 
 display_name: "GSA Blog Team"
 first_name: "GSA Blog"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mike-kruger
+# https://digital.gov/authors/mike-kruger
 
 display_name: "Mike Kruger"
 first_name: "Mike"

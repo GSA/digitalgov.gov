@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ray-bryson
+# https://digital.gov/authors/ray-bryson
 
 display_name: "Ray Bryson"
 first_name: "Ray"

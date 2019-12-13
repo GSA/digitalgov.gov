@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/office-of-information-policy-doj
+# https://digital.gov/authors/office-of-information-policy-doj
 
 display_name: "Office of Information Policy, DOJ"
 first_name: "Office of Information Policy"

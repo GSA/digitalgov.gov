@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alan-brouilette
+# https://digital.gov/authors/alan-brouilette
 
 display_name: "Alan Brouilette"
 first_name: "Alan"

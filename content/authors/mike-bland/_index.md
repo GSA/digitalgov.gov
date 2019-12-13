@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mike-bland
+# https://digital.gov/authors/mike-bland
 
 display_name: "Mike Bland"
 first_name: "Mike"

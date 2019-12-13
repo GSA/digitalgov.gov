@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/hilary-parkinson
+# https://digital.gov/authors/hilary-parkinson
 
 display_name: "Hilary Parkinson"
 first_name: "Hilary"

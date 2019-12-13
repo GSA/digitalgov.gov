@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/pooja-sawant
+# https://digital.gov/authors/pooja-sawant
 
 display_name: "Pooja Sawant"
 first_name: "Pooja"

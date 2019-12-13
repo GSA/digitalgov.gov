@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/stephen-winchell
+# https://digital.gov/authors/stephen-winchell
 
 display_name: "Stephen Winchell"
 first_name: "Stephen"

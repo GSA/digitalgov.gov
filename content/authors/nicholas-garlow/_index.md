@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nicholas-garlow
+# https://digital.gov/authors/nicholas-garlow
 
 display_name: "Nicholas Garlow"
 first_name: "Nicholas"

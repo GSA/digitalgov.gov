@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/abigail-noonan
+# https://digital.gov/authors/abigail-noonan
 
 display_name: "Abigail Noonan"
 first_name: "Abigail"

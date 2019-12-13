@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/v-david-zvenyach
+# https://digital.gov/authors/v-david-zvenyach
 
 display_name: "V. David Zvenyach"
 first_name: "V. David"

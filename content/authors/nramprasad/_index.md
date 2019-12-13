@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nramprasad
+# https://digital.gov/authors/nramprasad
 
 display_name: "Nirmala Ramprasad"
 first_name: "Nirmala"

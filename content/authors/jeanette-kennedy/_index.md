@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jeanette-kennedy
+# https://digital.gov/authors/jeanette-kennedy
 
 display_name: "Jeanette Kennedy"
 first_name: "Jeanette"

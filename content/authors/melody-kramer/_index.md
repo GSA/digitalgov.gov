@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/melody-kramer
+# https://digital.gov/authors/melody-kramer
 
 display_name: "Melody Kramer"
 first_name: "Melody"

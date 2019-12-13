@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-a-kennedy
+# https://digital.gov/authors/david-a-kennedy
 
 display_name: "David A. Kennedy"
 first_name: "David A."

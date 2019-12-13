@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/wsullivan
+# https://digital.gov/authors/wsullivan
 
 display_name: "Will Sullivan"
 first_name: "Will"

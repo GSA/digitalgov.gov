@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/greg-boone
+# https://digital.gov/authors/greg-boone
 
 display_name: "Greg Boone"
 first_name: "Greg"

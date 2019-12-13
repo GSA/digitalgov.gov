@@ -9,7 +9,7 @@
         {{/* If an external link  */}}
         {{- if or .Params.source_url .Params.source -}}
 
-        <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
           <a class="" href="{{- .Params.source_url -}}?=dg" title="{{- .Title | markdownify -}}">
 
             {{/* If there is a defined source for this page */}}
@@ -42,7 +42,7 @@
 
         {{/* If an internal link... */}}
         {{- else -}}
-        <li data-edit-this="/edit/{{- .Type -}}/?page=https://demo.digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        <li data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
           <a href="{{- .Permalink -}}" title="{{- .Title | markdownify -}} ">
 
             {{/* Use the digital.gov logo */}}

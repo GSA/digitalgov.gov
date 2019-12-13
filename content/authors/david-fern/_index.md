@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-fern
+# https://digital.gov/authors/david-fern
 
 display_name: "David Fern"
 first_name: "David"

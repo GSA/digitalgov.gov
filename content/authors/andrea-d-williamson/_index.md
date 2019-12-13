@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/andrea-d-williamson
+# https://digital.gov/authors/andrea-d-williamson
 
 display_name: "Andrea D. Williamson"
 first_name: "Andrea D."

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/darren-cole
+# https://digital.gov/authors/darren-cole
 
 display_name: "Darren Cole"
 first_name: "Darren"

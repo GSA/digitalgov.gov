@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/maya-benari
+# https://digital.gov/authors/maya-benari
 
 display_name: "Maya Benari"
 first_name: "Maya"

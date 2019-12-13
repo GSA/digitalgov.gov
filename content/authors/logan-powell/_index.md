@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/logan-powell
+# https://digital.gov/authors/logan-powell
 
 display_name: "Logan Powell"
 first_name: "Logan"

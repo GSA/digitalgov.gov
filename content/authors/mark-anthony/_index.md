@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mark-anthony
+# https://digital.gov/authors/mark-anthony
 
 display_name: "Mark Anthony Dingbaum"
 first_name: "Mark Anthony"

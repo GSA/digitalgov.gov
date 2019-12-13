@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tim-brice
+# https://digital.gov/authors/tim-brice
 
 display_name: "Tim Brice"
 first_name: "Tim"

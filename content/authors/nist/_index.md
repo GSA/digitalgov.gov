@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nist
+# https://digital.gov/authors/nist
 
 display_name: "National Institute of Standards and Technology Team"
 first_name: "NIST"

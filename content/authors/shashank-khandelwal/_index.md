@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/shashank-khandelwal
+# https://digital.gov/authors/shashank-khandelwal
 
 display_name: "Shashank Khandelwal"
 first_name: "Shashank"

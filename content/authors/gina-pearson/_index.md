@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/gina-pearson
+# https://digital.gov/authors/gina-pearson
 
 display_name: "Gina Pearson"
 first_name: "Gina"

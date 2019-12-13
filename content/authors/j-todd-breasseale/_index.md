@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/j-todd-breasseale
+# https://digital.gov/authors/j-todd-breasseale
 
 display_name: "J. Todd Breasseale"
 first_name: "J. Todd"

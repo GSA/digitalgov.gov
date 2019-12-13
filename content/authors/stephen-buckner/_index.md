@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/stephen-buckner
+# https://digital.gov/authors/stephen-buckner
 
 display_name: "Stephen Buckner"
 first_name: "Stephen"

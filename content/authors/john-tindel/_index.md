@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/john-tindel
+# https://digital.gov/authors/john-tindel
 
 display_name: "John Tindel"
 first_name: "John"

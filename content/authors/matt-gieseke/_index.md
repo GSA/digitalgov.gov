@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/matt-gieseke
+# https://digital.gov/authors/matt-gieseke
 
 display_name: "Matt Gieseke"
 first_name: "Matt"

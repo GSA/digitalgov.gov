@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/aaron-snow
+# https://digital.gov/authors/aaron-snow
 
 display_name: "Aaron Snow"
 first_name: "Aaron"

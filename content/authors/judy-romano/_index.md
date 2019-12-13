@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/judy-romano
+# https://digital.gov/authors/judy-romano
 
 display_name: "Judy Romano"
 first_name: "Judy"

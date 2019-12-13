@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/arianne-miller
+# https://digital.gov/authors/arianne-miller
 
 display_name: "Arianne Miller"
 first_name: "Arianne"

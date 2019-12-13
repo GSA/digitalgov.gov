@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/emileigh-barnes
+# https://digital.gov/authors/emileigh-barnes
 
 display_name: "Emileigh Barnes"
 first_name: "Emileigh"

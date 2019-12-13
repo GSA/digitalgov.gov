@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/emily-canis
+# https://digital.gov/authors/emily-canis
 
 display_name: "Emily Canis"
 first_name: "Emily"

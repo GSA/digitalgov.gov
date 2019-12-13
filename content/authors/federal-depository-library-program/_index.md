@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/federal-depository-library-program
+# https://digital.gov/authors/federal-depository-library-program
 
 display_name: "Federal Depository Library Program"
 first_name: "Federal Depository"

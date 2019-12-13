@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ndavidson
+# https://digital.gov/authors/ndavidson
 
 display_name: "Natalie Davidson"
 first_name: "Natalie"

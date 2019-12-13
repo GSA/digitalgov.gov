@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nico-papafil
+# https://digital.gov/authors/nico-papafil
 
 display_name: "Nico Papafil"
 first_name: "Nico"

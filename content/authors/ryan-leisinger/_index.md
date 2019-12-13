@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ryan-leisinger
+# https://digital.gov/authors/ryan-leisinger
 
 display_name: "Ryan Leisinger"
 first_name: "Ryan"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/katherine-spivey
+# https://digital.gov/authors/katherine-spivey
 
 display_name: "Katherine Spivey"
 first_name: "Katherine"

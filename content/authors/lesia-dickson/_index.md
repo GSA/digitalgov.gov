@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lesia-dickson
+# https://digital.gov/authors/lesia-dickson
 
 display_name: "Lesia Dickson"
 first_name: "Lesia"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jada-jones
+# https://digital.gov/authors/jada-jones
 
 display_name: "Jada Jones"
 first_name: "Jada"

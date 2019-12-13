@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sara-smith
+# https://digital.gov/authors/sara-smith
 
 display_name: "Sara Smith"
 first_name: "Sara"

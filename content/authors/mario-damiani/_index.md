@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mario-damiani
+# https://digital.gov/authors/mario-damiani
 
 display_name: "Mario Damiani"
 first_name: "Mario"

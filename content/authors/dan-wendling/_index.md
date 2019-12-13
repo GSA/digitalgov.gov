@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dan-wendling
+# https://digital.gov/authors/dan-wendling
 
 display_name: "Dan Wendling"
 first_name: "Dan"

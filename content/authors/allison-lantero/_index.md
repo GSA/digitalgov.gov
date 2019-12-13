@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/allison-lantero
+# https://digital.gov/authors/allison-lantero
 
 display_name: "Allison Lantero"
 first_name: "Allison"

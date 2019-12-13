@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jennifer-gonzalez
+# https://digital.gov/authors/jennifer-gonzalez
 
 display_name: "Jennifer González"
 first_name: "Jennifer"

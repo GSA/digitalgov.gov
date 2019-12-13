@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/hyon-kim
+# https://digital.gov/authors/hyon-kim
 
 display_name: "Hyon Kim"
 first_name: "Hyon"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/donna-canestraro
+# https://digital.gov/authors/donna-canestraro
 
 display_name: "Donna Canestraro"
 first_name: "Donna"

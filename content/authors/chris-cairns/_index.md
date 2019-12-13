@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/chris-cairns
+# https://digital.gov/authors/chris-cairns
 
 display_name: "Chris Cairns"
 first_name: "Chris"

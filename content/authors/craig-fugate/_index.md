@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/craig-fugate
+# https://digital.gov/authors/craig-fugate
 
 display_name: "Craig Fugate"
 first_name: "Craig"

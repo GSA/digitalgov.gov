@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kdaniel
+# https://digital.gov/authors/kdaniel
 
 display_name: "Kendrick Daniel"
 first_name: "Kendrick"

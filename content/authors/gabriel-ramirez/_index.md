@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/gabriel-ramirez
+# https://digital.gov/authors/gabriel-ramirez
 
 display_name: "Gabriel Ramirez"
 first_name: "Gabriel"

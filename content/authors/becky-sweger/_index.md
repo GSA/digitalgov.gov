@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/becky-sweger
+# https://digital.gov/authors/becky-sweger
 
 display_name: "Becky Sweger"
 first_name: "Becky"

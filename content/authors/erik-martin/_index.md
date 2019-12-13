@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/erik-martin
+# https://digital.gov/authors/erik-martin
 
 display_name: "Erik Martin"
 first_name: "Erik"

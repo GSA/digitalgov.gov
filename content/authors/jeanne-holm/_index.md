@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jeanne-holm
+# https://digital.gov/authors/jeanne-holm
 
 display_name: "Jeanne Holm"
 first_name: "Jeanne"

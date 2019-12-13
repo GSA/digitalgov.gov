@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ryan-panchadsaram
+# https://digital.gov/authors/ryan-panchadsaram
 
 display_name: "Ryan Panchadsaram"
 first_name: "Ryan"

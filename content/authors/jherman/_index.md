@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jherman
+# https://digital.gov/authors/jherman
 
 display_name: "Justin Herman"
 first_name: "Justin"

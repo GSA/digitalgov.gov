@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/gary-morin
+# https://digital.gov/authors/gary-morin
 
 display_name: "Gary Morin"
 first_name: "Gary"

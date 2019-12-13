@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sally-bourrie
+# https://digital.gov/authors/sally-bourrie
 
 display_name: "Sally Bourrie"
 first_name: "Sally"

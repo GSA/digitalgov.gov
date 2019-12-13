@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tjohnson
+# https://digital.gov/authors/tjohnson
 
 display_name: "Treci Johnson"
 first_name: "Treci"

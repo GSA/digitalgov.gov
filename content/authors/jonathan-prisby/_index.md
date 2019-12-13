@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jonathan-prisby
+# https://digital.gov/authors/jonathan-prisby
 
 display_name: "Jonathan Prisby"
 first_name: "Jonathan"

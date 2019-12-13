@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jason-duley
+# https://digital.gov/authors/jason-duley
 
 display_name: "Jason Duley"
 first_name: "Jason"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/joel-virothaisakun
+# https://digital.gov/authors/joel-virothaisakun
 
 display_name: "Joël Virothaisakun"
 first_name: "Joël"

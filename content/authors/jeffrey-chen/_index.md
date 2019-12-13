@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jeffrey-chen
+# https://digital.gov/authors/jeffrey-chen
 
 display_name: "Jeffrey Chen"
 first_name: "Jeffrey"

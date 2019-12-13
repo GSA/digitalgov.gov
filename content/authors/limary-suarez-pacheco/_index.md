@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/limary-suarez-pacheco
+# https://digital.gov/authors/limary-suarez-pacheco
 
 display_name: "Limary Suarez Pacheco"
 first_name: "Limary"

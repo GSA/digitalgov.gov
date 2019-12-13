@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/george-deryckere
+# https://digital.gov/authors/george-deryckere
 
 display_name: "George Deryckere"
 first_name: "George"

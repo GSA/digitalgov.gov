@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tom-mills
+# https://digital.gov/authors/tom-mills
 
 display_name: "Tom Mills"
 first_name: "Tom"

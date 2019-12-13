@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/darren-b-lurie
+# https://digital.gov/authors/darren-b-lurie
 
 display_name: "Darren B. Lurie"
 first_name: "Darren"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/matthew-ford
+# https://digital.gov/authors/matthew-ford
 
 display_name: "Matthew Ford"
 first_name: "Matthew"

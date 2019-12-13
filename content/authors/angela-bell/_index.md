@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/angela-bell
+# https://digital.gov/authors/angela-bell
 
 display_name: "Angela Bell"
 first_name: "Angela"

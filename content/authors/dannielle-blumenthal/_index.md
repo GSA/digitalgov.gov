@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dannielle-blumenthal
+# https://digital.gov/authors/dannielle-blumenthal
 
 display_name: "Dannielle Blumenthal"
 first_name: "Dannielle"

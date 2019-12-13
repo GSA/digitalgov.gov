@@ -4,7 +4,7 @@ slug: 'digitalgov'
 name: 'Digital.gov'
 
 # Keep it short — should be no longer than 10 words.
-summary: 'a one-line summary of the source'
+summary: 'Guidance on building better digital services in government'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lorrie-cranor
+# https://digital.gov/authors/lorrie-cranor
 
 display_name: "Lorrie Cranor"
 first_name: "Lorrie"

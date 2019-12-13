@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/darlene-meskell
+# https://digital.gov/authors/darlene-meskell
 
 display_name: "Darlene Meskell"
 first_name: "Darlene"

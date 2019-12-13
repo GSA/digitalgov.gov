@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/perryn-ashmore
+# https://digital.gov/authors/perryn-ashmore
 
 display_name: "Perryn Ashmore"
 first_name: "Perryn"

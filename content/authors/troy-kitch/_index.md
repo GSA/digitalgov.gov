@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/troy-kitch
+# https://digital.gov/authors/troy-kitch
 
 display_name: "Troy Kitch"
 first_name: "Troy"

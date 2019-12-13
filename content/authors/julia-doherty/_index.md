@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/julia-doherty
+# https://digital.gov/authors/julia-doherty
 
 display_name: "Julia Doherty"
 first_name: "Julia"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/gao-watchblog
+# https://digital.gov/authors/gao-watchblog
 
 display_name: "GAO WatchBlog"
 first_name: "GAO"

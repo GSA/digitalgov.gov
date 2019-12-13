@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ryan-day
+# https://digital.gov/authors/ryan-day
 
 display_name: "Ryan Day"
 first_name: "Ryan"

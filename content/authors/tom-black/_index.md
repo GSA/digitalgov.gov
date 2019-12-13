@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tom-black
+# https://digital.gov/authors/tom-black
 
 display_name: "Tom Black"
 first_name: "Tom"

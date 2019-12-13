@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dmccleskey
+# https://digital.gov/authors/dmccleskey
 
 display_name: "Dawn Pointer McCleskey"
 first_name: "Dawn"

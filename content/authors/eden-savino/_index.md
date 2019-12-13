@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/eden-savino
+# https://digital.gov/authors/eden-savino
 
 display_name: "Eden Savino"
 first_name: "Eden"

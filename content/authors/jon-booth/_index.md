@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jon-booth
+# https://digital.gov/authors/jon-booth
 
 display_name: "Jon Booth"
 first_name: "Jon"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/myehsha-boone
+# https://digital.gov/authors/myehsha-boone
 
 display_name: "Myehsha Boone"
 first_name: "Myehsha"

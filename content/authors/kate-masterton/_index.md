@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kate-masterton
+# https://digital.gov/authors/kate-masterton
 
 display_name: "Kate Masterton"
 first_name: "Kate"

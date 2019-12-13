@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ellen-arnold-losey
+# https://digital.gov/authors/ellen-arnold-losey
 
 display_name: "Ellen Arnold Losey"
 first_name: "Ellen Arnold"

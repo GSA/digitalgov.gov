@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/joanna-widzer
+# https://digital.gov/authors/joanna-widzer
 
 display_name: "Joanna Widzer"
 first_name: "Joanna"

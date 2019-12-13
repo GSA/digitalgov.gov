@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/stephanie-thum
+# https://digital.gov/authors/stephanie-thum
 
 display_name: "Stephanie Thum"
 first_name: "Stephanie"

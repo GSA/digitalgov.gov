@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/todd-park
+# https://digital.gov/authors/todd-park
 
 display_name: "Todd Park"
 first_name: "Todd"

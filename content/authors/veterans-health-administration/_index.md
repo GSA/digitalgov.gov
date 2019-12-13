@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/veterans-health-administration
+# https://digital.gov/authors/veterans-health-administration
 
 display_name: "Veterans Health Administration"
 first_name: "Veterans Health"

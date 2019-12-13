@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/tammy-white
+# https://digital.gov/authors/tammy-white
 
 display_name: "Tammy White"
 first_name: "Tammy"

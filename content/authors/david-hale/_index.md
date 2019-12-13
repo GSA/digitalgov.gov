@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-hale
+# https://digital.gov/authors/david-hale
 
 display_name: "David Hale"
 first_name: "David"

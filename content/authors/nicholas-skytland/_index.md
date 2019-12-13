@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nicholas-skytland
+# https://digital.gov/authors/nicholas-skytland
 
 display_name: "Nicholas Skytland"
 first_name: "Nicholas"

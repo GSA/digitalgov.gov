@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/john-donmoyer
+# https://digital.gov/authors/john-donmoyer
 
 display_name: "John Donmoyer"
 first_name: "John"

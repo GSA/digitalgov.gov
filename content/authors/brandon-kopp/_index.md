@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/brandon-kopp
+# https://digital.gov/authors/brandon-kopp
 
 display_name: "Brandon Kopp"
 first_name: "Brandon"

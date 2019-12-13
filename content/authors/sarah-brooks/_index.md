@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sarah-brooks
+# https://digital.gov/authors/sarah-brooks
 
 display_name: "Sarah Brooks"
 first_name: "Sarah"

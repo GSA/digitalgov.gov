@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/judith-snyderman
+# https://digital.gov/authors/judith-snyderman
 
 display_name: "Judith Snyderman"
 first_name: "Judith"

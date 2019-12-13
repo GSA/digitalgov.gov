@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/michelle-chronister
+# https://digital.gov/authors/michelle-chronister
 
 display_name: "Michelle Chronister"
 first_name: "Michelle"

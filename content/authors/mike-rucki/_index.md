@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mike-rucki
+# https://digital.gov/authors/mike-rucki
 
 display_name: "Mike Rucki"
 first_name: "Mike"

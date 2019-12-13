@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/russell-oneill
+# https://digital.gov/authors/russell-oneill
 
 display_name: "Russell O&#39;Neill"
 first_name: "Russell"

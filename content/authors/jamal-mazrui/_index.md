@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jamal-mazrui
+# https://digital.gov/authors/jamal-mazrui
 
 display_name: "Jamal Mazrui"
 first_name: "Jamal"

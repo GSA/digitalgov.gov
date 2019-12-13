@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/john-sullivan
+# https://digital.gov/authors/john-sullivan
 
 display_name: "John Sullivan"
 first_name: "John"

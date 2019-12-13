@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jordan-higgins
+# https://digital.gov/authors/jordan-higgins
 
 display_name: "Jordan Higgins"
 first_name: "Jordan"

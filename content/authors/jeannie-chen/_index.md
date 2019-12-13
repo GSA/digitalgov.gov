@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jeannie-chen
+# https://digital.gov/authors/jeannie-chen
 
 display_name: "Jeannie Chen"
 first_name: "Jeannie"

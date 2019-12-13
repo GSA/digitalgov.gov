@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/cio-council-operations-staff
+# https://digital.gov/authors/cio-council-operations-staff
 
 display_name: "CIO Council Operations Staff"
 first_name: "CIO"

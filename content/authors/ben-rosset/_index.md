@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ben-rosset
+# https://digital.gov/authors/ben-rosset
 
 display_name: "Ben Rosset"
 first_name: "Ben"

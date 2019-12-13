@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/joel-minton
+# https://digital.gov/authors/joel-minton
 
 display_name: "Joel Minton"
 first_name: "Joel"

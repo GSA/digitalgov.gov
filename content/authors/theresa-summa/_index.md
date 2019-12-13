@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/theresa-summa
+# https://digital.gov/authors/theresa-summa
 
 display_name: "Theresa Summa"
 first_name: "Theresa"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lisa-friedersdorf
+# https://digital.gov/authors/lisa-friedersdorf
 
 display_name: "Lisa Friedersdorf"
 first_name: "Lisa"

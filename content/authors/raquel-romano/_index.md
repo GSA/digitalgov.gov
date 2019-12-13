@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/raquel-romano
+# https://digital.gov/authors/raquel-romano
 
 display_name: "Raquel Romano"
 first_name: "Raquel"

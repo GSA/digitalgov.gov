@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/christine-kundrat
+# https://digital.gov/authors/christine-kundrat
 
 display_name: "Christine Kundrat"
 first_name: "Christine"

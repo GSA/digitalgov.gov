@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ktrebon
+# https://digital.gov/authors/ktrebon
 
 display_name: "Karen Trebon"
 first_name: "Karen"

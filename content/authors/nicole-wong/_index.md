@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/nicole-wong
+# https://digital.gov/authors/nicole-wong
 
 display_name: "Nicole Wong"
 first_name: "Nicole"

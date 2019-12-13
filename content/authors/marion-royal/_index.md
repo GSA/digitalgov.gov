@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/marion-royal
+# https://digital.gov/authors/marion-royal
 
 display_name: "Marion Royal"
 first_name: "Marion"

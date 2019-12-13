@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jim-costello
+# https://digital.gov/authors/jim-costello
 
 display_name: "Jim Costello"
 first_name: "Jim"

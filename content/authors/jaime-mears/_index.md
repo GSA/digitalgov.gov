@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jaime-mears
+# https://digital.gov/authors/jaime-mears
 
 display_name: "Jaime Mears"
 first_name: "Jaime"

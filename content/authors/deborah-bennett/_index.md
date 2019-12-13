@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/deborah-bennett
+# https://digital.gov/authors/deborah-bennett
 
 display_name: "Deborah Bennett"
 first_name: "Deborah"

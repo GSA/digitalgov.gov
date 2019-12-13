@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/karla-blaine
+# https://digital.gov/authors/karla-blaine
 
 display_name: "Karla Blaine"
 first_name: "Karla"

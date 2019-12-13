@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/code-gov
+# https://digital.gov/authors/code-gov
 
 display_name: "Code.gov Team"
 first_name: "Code.gov"

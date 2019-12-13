@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jacqueline-snee
+# https://digital.gov/authors/jacqueline-snee
 
 display_name: "Jacqueline Snee"
 first_name: "Jacqueline"

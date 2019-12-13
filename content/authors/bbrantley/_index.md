@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/bbrantley
+# https://digital.gov/authors/bbrantley
 
 display_name: "Bill Brantley"
 first_name: "Bill"

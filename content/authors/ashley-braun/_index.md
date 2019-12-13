@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ashley-braun
+# https://digital.gov/authors/ashley-braun
 
 display_name: "Ashley Braun"
 first_name: "Ashley"

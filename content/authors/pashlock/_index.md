@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/pashlock
+# https://digital.gov/authors/pashlock
 
 display_name: "Phil Ashlock"
 first_name: "Phil"

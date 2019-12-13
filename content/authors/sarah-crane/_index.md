@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sarah-crane
+# https://digital.gov/authors/sarah-crane
 
 display_name: "Sarah Crane"
 first_name: "Sarah"

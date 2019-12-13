@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/bridget-roddy
+# https://digital.gov/authors/bridget-roddy
 
 display_name: "Bridget Roddy"
 first_name: "Bridget"

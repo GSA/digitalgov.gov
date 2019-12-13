@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/robert-goldel
+# https://digital.gov/authors/robert-goldel
 
 display_name: "Robert Goldel"
 first_name: "Robert"

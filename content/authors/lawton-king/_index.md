@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/lawton-king
+# https://digital.gov/authors/lawton-king
 
 display_name: "Lawton King"
 first_name: "Lawton"

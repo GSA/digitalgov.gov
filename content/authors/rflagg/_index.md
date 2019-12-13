@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/rflagg
+# https://digital.gov/authors/rflagg
 
 display_name: "Rachel Flagg"
 first_name: "Rachel"

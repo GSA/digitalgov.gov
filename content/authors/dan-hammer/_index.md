@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dan-hammer
+# https://digital.gov/authors/dan-hammer
 
 display_name: "Dan Hammer"
 first_name: "Dan"

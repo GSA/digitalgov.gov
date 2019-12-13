@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ryan-xue
+# https://digital.gov/authors/ryan-xue
 
 display_name: "Ryan Xue"
 first_name: "Ryan"

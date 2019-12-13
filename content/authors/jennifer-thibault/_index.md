@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jennifer-thibault
+# https://digital.gov/authors/jennifer-thibault
 
 display_name: "Jennifer Thibault"
 first_name: "Jennifer"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dywane-boyd
+# https://digital.gov/authors/dywane-boyd
 
 display_name: "Dywane Boyd"
 first_name: "Dywane"

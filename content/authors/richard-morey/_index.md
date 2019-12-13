@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/richard-morey
+# https://digital.gov/authors/richard-morey
 
 display_name: "Richard Morey"
 first_name: "Richard"

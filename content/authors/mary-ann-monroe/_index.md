@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mary-ann-monroe
+# https://digital.gov/authors/mary-ann-monroe
 
 display_name: "Mary Ann Monroe"
 first_name: "Mary Ann"

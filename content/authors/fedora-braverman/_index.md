@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/fedora-braverman
+# https://digital.gov/authors/fedora-braverman
 
 display_name: "Fedora Braverman"
 first_name: "Fedora"

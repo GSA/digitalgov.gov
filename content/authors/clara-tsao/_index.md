@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/clara-tsao
+# https://digital.gov/authors/clara-tsao
 
 display_name: "Clara Tsao"
 first_name: "Clara"

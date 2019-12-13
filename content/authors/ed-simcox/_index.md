@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ed-simcox
+# https://digital.gov/authors/ed-simcox
 
 display_name: "Ed Simcox"
 first_name: "Ed"

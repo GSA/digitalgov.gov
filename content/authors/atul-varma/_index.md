@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/atul-varma
+# https://digital.gov/authors/atul-varma
 
 display_name: "Atul Varma"
 first_name: "Atul"

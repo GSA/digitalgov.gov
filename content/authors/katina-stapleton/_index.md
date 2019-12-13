@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/katina-stapleton
+# https://digital.gov/authors/katina-stapleton
 
 display_name: "Katina Stapleton"
 first_name: "Katina"

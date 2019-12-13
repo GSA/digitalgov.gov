@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/soncerray-bolling
+# https://digital.gov/authors/soncerray-bolling
 
 display_name: "Soncerray Bolling"
 first_name: "Soncerray"

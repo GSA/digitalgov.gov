@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sherrie-taylor
+# https://digital.gov/authors/sherrie-taylor
 
 display_name: "Sherrie Taylor"
 first_name: "Sherrie"

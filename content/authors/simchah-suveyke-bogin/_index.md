@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/simchah-suveyke-bogin
+# https://digital.gov/authors/simchah-suveyke-bogin
 
 display_name: "Simchah Suveyke-Bogin"
 first_name: "Simchah"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/crystal-peeler
+# https://digital.gov/authors/crystal-peeler
 
 display_name: "Crystal Peeler"
 first_name: "Crystal"

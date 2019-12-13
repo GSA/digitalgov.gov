@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/sarah-herrmann
+# https://digital.gov/authors/sarah-herrmann
 
 display_name: "Sarah Herrmann"
 first_name: "Sarah"

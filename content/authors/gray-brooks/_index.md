@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/gray-brooks
+# https://digital.gov/authors/gray-brooks
 
 display_name: "Gray Brooks"
 first_name: "Gray"

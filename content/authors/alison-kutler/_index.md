@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alison-kutler
+# https://digital.gov/authors/alison-kutler
 
 display_name: "Alison Kutler"
 first_name: "Alison"

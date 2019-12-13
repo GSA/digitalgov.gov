@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/joanna-karpinski-widzer
+# https://digital.gov/authors/joanna-karpinski-widzer
 
 display_name: "Joanna Karpinski-Widzer"
 first_name: "Joanna"

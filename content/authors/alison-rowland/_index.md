@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/alison-rowland
+# https://digital.gov/authors/alison-rowland
 
 display_name: "Alison Rowland"
 first_name: "Alison"

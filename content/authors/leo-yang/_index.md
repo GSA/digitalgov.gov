@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/leo-yang
+# https://digital.gov/authors/leo-yang
 
 display_name: "Leo Yang"
 first_name: "Leo"

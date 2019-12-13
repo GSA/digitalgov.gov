@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/firstnet-communications
+# https://digital.gov/authors/firstnet-communications
 
 display_name: "FirstNet Communications"
 first_name: "FirstNet"

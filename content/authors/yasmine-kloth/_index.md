@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/yasmine-kloth
+# https://digital.gov/authors/yasmine-kloth
 
 display_name: "Yasmine Kloth"
 first_name: "Yasmine"

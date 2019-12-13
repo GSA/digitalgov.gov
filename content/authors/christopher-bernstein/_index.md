@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/christopher-bernstein
+# https://digital.gov/authors/christopher-bernstein
 
 display_name: "Christopher Bernstein"
 first_name: "Christopher"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/chris-rottler
+# https://digital.gov/authors/chris-rottler
 
 display_name: "Chris Rottler"
 first_name: "Chris"

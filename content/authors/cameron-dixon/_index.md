@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/cameron-dixon
+# https://digital.gov/authors/cameron-dixon
 
 display_name: "Cameron Dixon"
 first_name: "Cameron"

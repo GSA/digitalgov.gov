@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jessica-milcetich
+# https://digital.gov/authors/jessica-milcetich
 
 display_name: "Jessica Milcetich"
 first_name: "Jessica"

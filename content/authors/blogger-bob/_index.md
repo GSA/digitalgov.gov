@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/blogger-bob
+# https://digital.gov/authors/blogger-bob
 
 display_name: "Blogger Bob"
 first_name: "Blogger"

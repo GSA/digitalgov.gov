@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/richard-mansfield
+# https://digital.gov/authors/richard-mansfield
 
 display_name: "Richard Mansfield"
 first_name: "Richard"

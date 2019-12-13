@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jennifer-reeves
+# https://digital.gov/authors/jennifer-reeves
 
 display_name: "Jennifer Reeves"
 first_name: "Jennifer"

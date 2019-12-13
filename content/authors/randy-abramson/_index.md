@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/randy-abramson
+# https://digital.gov/authors/randy-abramson
 
 display_name: "Randy Abramson"
 first_name: "Randy"

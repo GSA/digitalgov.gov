@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/justin-koufopoulos
+# https://digital.gov/authors/justin-koufopoulos
 
 display_name: "Justin Koufopoulos"
 first_name: "Justin Koufopoulos"

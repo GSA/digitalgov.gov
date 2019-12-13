@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/charles-worthington
+# https://digital.gov/authors/charles-worthington
 
 display_name: "Charles Worthington"
 first_name: "Charles"

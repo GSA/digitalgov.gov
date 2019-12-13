@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jack-bienko
+# https://digital.gov/authors/jack-bienko
 
 display_name: "Jack Bienko"
 first_name: "Jack"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/rhonda-a-pretlow
+# https://digital.gov/authors/rhonda-a-pretlow
 
 display_name: "Rhonda A. Pretlow"
 first_name: "Rhonda"

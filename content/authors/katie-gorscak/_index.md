@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/katie-gorscak
+# https://digital.gov/authors/katie-gorscak
 
 display_name: "Katie Gorscak"
 first_name: "Katie"

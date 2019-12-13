@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/erin-twamley
+# https://digital.gov/authors/erin-twamley
 
 display_name: "Erin Twamley"
 first_name: "Erin"

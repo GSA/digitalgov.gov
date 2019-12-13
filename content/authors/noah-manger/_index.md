@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/noah-manger
+# https://digital.gov/authors/noah-manger
 
 display_name: "Noah Manger"
 first_name: "Noah"

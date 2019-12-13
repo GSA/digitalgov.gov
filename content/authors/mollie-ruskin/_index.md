@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mollie-ruskin
+# https://digital.gov/authors/mollie-ruskin
 
 display_name: "Mollie Ruskin"
 first_name: "Mollie"

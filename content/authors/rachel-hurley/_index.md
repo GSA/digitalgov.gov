@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/rachel-hurley
+# https://digital.gov/authors/rachel-hurley
 
 display_name: "Rachel Hurley"
 first_name: "Rachel"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/david-shive
+# https://digital.gov/authors/david-shive
 
 display_name: "David Shive"
 first_name: "David"

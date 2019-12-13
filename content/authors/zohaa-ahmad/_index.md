@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/zohaa-ahmad
+# https://digital.gov/authors/zohaa-ahmad
 
 display_name: "Zohaa Ahmad"
 first_name: "Zohaa"

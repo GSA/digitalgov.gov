@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/laura-hughes
+# https://digital.gov/authors/laura-hughes
 
 display_name: "Laura Hughes"
 first_name: "Laura"

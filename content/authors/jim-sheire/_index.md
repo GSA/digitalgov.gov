@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/jim-sheire
+# https://digital.gov/authors/jim-sheire
 
 display_name: "Jim Sheire"
 first_name: "Jim"

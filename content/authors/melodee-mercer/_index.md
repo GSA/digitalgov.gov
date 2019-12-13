@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/melodee-mercer
+# https://digital.gov/authors/melodee-mercer
 
 display_name: "Melodee Mercer"
 first_name: "Melodee"

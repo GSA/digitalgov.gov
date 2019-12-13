@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/zeshan-khan
+# https://digital.gov/authors/zeshan-khan
 
 display_name: "Zeshan Khan"
 first_name: "Zeshan"

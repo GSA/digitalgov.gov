@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/freddie-blicher
+# https://digital.gov/authors/freddie-blicher
 
 display_name: "Freddie Blicher"
 first_name: "Freddie"

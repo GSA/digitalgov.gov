@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/katie-gresham
+# https://digital.gov/authors/katie-gresham
 
 display_name: "Katie Gresham"
 first_name: "Katie"

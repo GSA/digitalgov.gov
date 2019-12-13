@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/hiv-gov
+# https://digital.gov/authors/hiv-gov
 
 display_name: "HIV.gov"
 first_name: "HIV.gov"

@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dr-robert-read
+# https://digital.gov/authors/dr-robert-read
 
 display_name: "Robert L. Read, PhD"
 first_name: "Robert"

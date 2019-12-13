@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/veronica-phillips
+# https://digital.gov/authors/veronica-phillips
 
 display_name: "Veronica Phillips"
 first_name: "Veronica"

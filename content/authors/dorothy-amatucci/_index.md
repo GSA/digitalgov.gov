@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/dorothy-amatucci
+# https://digital.gov/authors/dorothy-amatucci
 
 display_name: "Dorothy Amatucci"
 first_name: "Dorothy"

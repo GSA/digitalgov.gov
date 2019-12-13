@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/ben-bloom
+# https://digital.gov/authors/ben-bloom
 
 display_name: "Benjamin Bloom"
 first_name: "Benjamin"

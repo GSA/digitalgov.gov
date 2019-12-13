@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/donna-dodson
+# https://digital.gov/authors/donna-dodson
 
 display_name: "Donna Dodson"
 first_name: "Donna"

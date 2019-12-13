@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/cory-benavente
+# https://digital.gov/authors/cory-benavente
 
 display_name: "Cory Benavente"
 first_name: "Cory"

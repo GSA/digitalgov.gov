@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/kelly-olson
+# https://digital.gov/authors/kelly-olson
 
 display_name: "Kelly Olson"
 first_name: "Kelly"

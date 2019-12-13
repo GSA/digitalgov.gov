@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/mary-king
+# https://digital.gov/authors/mary-king
 
 display_name: "Mary King"
 first_name: "Mary King"

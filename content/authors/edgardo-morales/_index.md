@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/edgardo-morales
+# https://digital.gov/authors/edgardo-morales
 
 display_name: "Edgardo Morales"
 first_name: "Edgardo"

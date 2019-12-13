@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/georgia-gallavin
+# https://digital.gov/authors/georgia-gallavin
 
 display_name: "Georgia Gallavin"
 first_name: "Georgia"

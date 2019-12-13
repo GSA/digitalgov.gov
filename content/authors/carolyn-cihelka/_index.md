@@ -1,7 +1,7 @@
 ---
 
 # Your author profile page lives at:
-# https://demo.digital.gov/authors/carolyn-cihelka
+# https://digital.gov/authors/carolyn-cihelka
 
 display_name: "Carolyn Cihelka"
 first_name: "Carolyn"
