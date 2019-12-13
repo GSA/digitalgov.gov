@@ -1,8 +1,23 @@
 // Footer
+.return-to-top{
+	@include u-bg('base-lightest');
+	.usa-footer__return-to-top{
+		a{
+			@include u-text('no-underline');
+			@include u-text('primary-darker');
+			span{
+				@include u-border-bottom('1px','primary-darker','solid');
+			}
+			i{
+				@include u-margin-top('05');
+			}
+		}
+	}
+}
 
 footer.usa-footer{
 	.usa-footer__primary-section{
-		@include u-bg('white');
+		@include u-bg('base-lighter');
 	}
 	.social-links{
 		@include add-list-reset;
