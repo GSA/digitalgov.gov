@@ -28,10 +28,12 @@ community_list:
     type: government
     subscribe_email: "section.508@gsa.gov"
     subscribe_email_subject: "Join: Accessibility / Section 508"
-    members: 1351
+    members: 673
+    emails_per_week: 
 
 
 # Make it better ♥
+
 ---
 
 The IT Accessibility Community of Practice helps federal agencies buy and build accessible IT, with tools, training and best practices to support universal design, accessible development, and 508-compliant procurement. We work to encourage the adoption of accessible IT across the federal government.
