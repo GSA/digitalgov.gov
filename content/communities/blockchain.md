@@ -22,9 +22,12 @@ community_list:
     type: government
     subscribe_email: "listserv@listserv.gsa.gov"
     subscribe_email_body: "SUB BlockchainPublic"
+    members: 667
+    emails_per_week:
 
 
 # Make it better ♥
+
 ---
 
 Federal agencies are eager to better evaluate and adopt distributed ledger technologies (like blockchain) that use encryption and coding to improve transparency, efficiency and trust in information sharing. Blockchain use cases that agencies submit for exploration touch many parts and processes of an organization, including:
