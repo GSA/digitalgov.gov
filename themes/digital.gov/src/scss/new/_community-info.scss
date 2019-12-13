@@ -11,11 +11,13 @@
     }
 
     .type{
-      @include u-text('center');
-      @include u-text('uppercase');
-      @include u-font('sans', '3xs');
+      @include u-padding-x(2);
+      @include u-padding-y(1);
       @include u-bg('gray-warm-20');
-      @include u-padding-y('05');
+      p{
+        @include u-line-height('sans', 3);
+        @include u-font('sans', '3xs');
+      }
     }
 
     .join-box-wrapper{
@@ -53,15 +55,21 @@
         @include u-bg('blue-50v');
       }
     }
+    .join.type-slack{
+      @include u-bg('violet-50v');
+      &:hover{
+        @include u-bg('violet-60v');
+      }
+    }
     .terms{
-      @include u-font('sans', '3xs');
+      // @include u-font('sans', '2xs');
+      // @include u-text('black');
     }
     .members{
       @include u-font('sans', '3xs');
     }
   }
   .community_managers{
-    @include u-padding(2);
     h3{
       @include u-margin(0);
       @include u-margin-bottom('05');
@@ -69,9 +77,7 @@
     }
   }
   .community_admin{
-    @include u-padding-x(2);
     @include u-padding-y(1);
-    // @include u-bg('gray-warm-10');
     @include u-font('sans', '3xs');
   }
 

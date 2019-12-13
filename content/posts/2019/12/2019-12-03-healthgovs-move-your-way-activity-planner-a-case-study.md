@@ -7,10 +7,6 @@ summary: 'How an HHS team developed a bilingual online tool using audience resea
 deck: 'Adhering to user experience (UX) design principles can be key when making public health tools.'
 authors:
   - stephanie-santana
-  - jeremyzilar
-  - dan-williams
-  - toni-bonitto
-  - ammie-farraj-feijoo
 
 categories:
   - design
