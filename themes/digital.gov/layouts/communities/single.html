@@ -60,6 +60,12 @@
 
                     {{- end -}}
 
+                    <!-- Slack platforms -->
+                    {{- if and (eq $e.platform "slack") ( $e.subscribe_form ) -}}
+
+                      {{- partial "core/community-join-slack" (dict "context" . "e" $e) -}}
+
+                    {{- end -}}
 
 
                     {{/* Checking to see if community terms are defined */}}
