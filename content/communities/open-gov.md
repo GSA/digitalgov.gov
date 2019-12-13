@@ -18,6 +18,8 @@ community_list:
     type: "Government only"
     subscribe_email: opengov-subscribe-request@listserv.gsa.gov
     subscribe_email_subject: "Join: OpenGov"
+    members: 232
+    emails_per_week:
 
 ---
 
