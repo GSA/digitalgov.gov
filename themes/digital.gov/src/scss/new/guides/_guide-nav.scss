@@ -2,13 +2,13 @@
 	@include u-border-right('1px', 'base-lighter', 'solid');
 	.guide-nav{
 		@include u-margin-bottom(3);
-		@include u-font('sans', 'xs');
+		@include u-font('sans', 'sm');
 		@include u-border(0);
 		li{
 			a{
 				@include u-text('black');
+				@include u-text('no-underline');
 				&:hover{
-					@include u-bg('primary-lighter');
 					@include u-text('underline');
 				}
 			}

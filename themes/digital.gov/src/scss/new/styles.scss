@@ -65,9 +65,10 @@
 @import 'feedback';
 @import 'share-tools';
 
-@import 'guides/header';
+@import 'guides/guide-header';
 @import 'guides/guide-nav';
-@import 'guides/page-head';
+@import 'guides/guide-page-head';
+@import 'guides/guide-content';
 
 // Authors lists
 @import 'authors-list';

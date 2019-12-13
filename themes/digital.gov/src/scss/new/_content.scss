@@ -31,34 +31,34 @@
   }
 
 
-  h2{
-    @include u-margin-top(6);
-    @include u-padding-top(1.5);
-    @include u-line-height('sans', 3);
-    @include u-text('bold');
-  }
-  h3{
-    @include u-margin-top(4);
-    @include u-text('bold');
-  }
-  h4{
-    @include u-margin-top(3);
-  }
-  h5{
-    @include u-margin-top(3);
-    @include u-text('bold');
-  }
-  h5 +* {
-    @include u-margin-top(1);
-  }
-  h6{
-    @include u-margin-top(3);
-    @include u-text('uppercase');
-    @include u-text('thin');
-  }
-  h6 +* {
-    @include u-margin-top(0.5);
-  }
+  // h2{
+  //   @include u-margin-top(6);
+  //   @include u-padding-top(1.5);
+  //   @include u-line-height('sans', 3);
+  //   @include u-text('bold');
+  // }
+  // h3{
+  //   @include u-margin-top(4);
+  //   @include u-text('bold');
+  // }
+  // h4{
+  //   @include u-margin-top(3);
+  // }
+  // h5{
+  //   @include u-margin-top(3);
+  //   @include u-text('bold');
+  // }
+  // h5 +* {
+  //   @include u-margin-top(1);
+  // }
+  // h6{
+  //   @include u-margin-top(3);
+  //   @include u-text('uppercase');
+  //   @include u-text('thin');
+  // }
+  // h6 +* {
+  //   @include u-margin-top(0.5);
+  // }
 
   // HR tags
   hr{
@@ -67,15 +67,15 @@
   }
 
   // Lists
-  li {
-    @include u-margin-bottom('105');
-    @include u-line-height('sans', 4);
-    ul,
-    ol{
-      @include u-margin-y(1);
-      @include u-padding-x(3);
-    }
-  }
+  // li {
+  //   @include u-margin-bottom('105');
+  //   @include u-line-height('sans', 4);
+  //   ul,
+  //   ol{
+  //     @include u-margin-y(1);
+  //     @include u-padding-x(3);
+  //   }
+  // }
 
   // Code
   code{
