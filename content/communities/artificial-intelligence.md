@@ -24,9 +24,11 @@ community_list:
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AI Listserv"
     terms: "Open to anyone with a .gov or .mil email address."
-
+    members: 476
+    emails_per_week: 
 
 # Make it better ♥
+
 ---
 
 When the president signed the [Executive Order 13859, Maintaining American Leadership in Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/), on February 11, 2019, it launched the American AI initiative to promote and protect AI technology and innovation in the United States.
