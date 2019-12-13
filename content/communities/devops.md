@@ -15,6 +15,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - brian-fox
+  - peter-burkholder
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
