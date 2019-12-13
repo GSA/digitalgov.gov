@@ -30,6 +30,8 @@ weight: 1
 community_list:
   - platform: slack
     type: public
+    subscribe_email: uswds@gsa.gov
+    subscribe_email_subject: "Join USWDS Slack"
     subscribe_form: https://chat.18f.gov/
     terms: "Open to the public."
 

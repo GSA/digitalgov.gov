@@ -26,7 +26,7 @@ This event is part of a monthly series that takes place on the third Thursday of
 
 - [The U.S. Web Design System](https://designsystem.digital.gov/)
 - [Contribute GitHub](https://github.com/uswds/uswds/issues)
-- [Email Us](https://www.eventbrite.com/e/uswds@gsa.gov)
+- [Email Us](mailto:uswds@gsa.gov)
 - [Join our community](https://digital.gov/communities/uswds/)
 - [Follow @uswds on Twitter](https://twitter.com/uswds)
 
