@@ -1,9 +1,10 @@
 ---
-slug: mobile/principles
 date: 2018-10-09 12:30:00 -0500
 title: 'Eight Principles of Mobile-Friendliness'
 summary: 'In order to help agencies comply with mobile website requirements, we will share a principle of mobile-friendliness each week for eight weeks&mdash;and how adhering to these principles can greatly improve their sites.'
-type: guide
+guide: mobile-principles
+aliases:
+  - /resources/mobile/principles/
 
 ---
 
@@ -23,7 +24,7 @@ Building on last year’s results, we are back at it again—but this time we ex
 
 The eight principles are:
 
-1. [JavaScript is really cool, when used with care]({{< ref "/resources/mobile/principles/principles-javascript.md" >}})
+1. [JavaScript is really cool, when used with care]({{< ref "principles-javascript.md" >}})
 2. [The viewport is the window to your site](https://digital.gov/resources/mobile/principles/viewport/)
 3. [Remember That We Navigate Mobile Sites Using Our Fingers](https://digital.gov/resources/mobile/principles/tap-targets/)
 4. [Installing additional software to properly view your site should not be necessary](https://digital.gov/resources/mobile/principles/plugins/)

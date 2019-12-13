@@ -11,7 +11,7 @@
 
 <div class="image image-right">
   <img
-    src='{{- $imgBaseCDN -}}_w400.{{- $imgExt -}}'
+    src='{{- $imgBaseCDN -}}_w200.{{- $imgExt -}}'
     {{- if or (.Get "alt") $thisimg.alt -}}
     alt='{{- with .Get "alt" -}}{{- . -}}{{- else -}}{{- $thisimg.alt -}}{{- end -}}'
     {{- end -}}

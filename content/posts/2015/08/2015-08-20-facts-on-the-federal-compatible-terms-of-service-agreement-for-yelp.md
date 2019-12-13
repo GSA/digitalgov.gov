@@ -40,5 +40,5 @@ Also, for more information, check out some of our posts on Yelp for public servi
   * [SaferRide App Could Save Your Life]({{< ref "2015-01-22-saferride-app-could-save-your-life.md" >}})
   * [New NHTSA App Uses Yelp API]({{< ref "2015-01-26-new-nhtsa-app-uses-yelp-api.md" >}})
   * [Five-Star Customer Experience in Public Service with Yelp]({{< ref "2015-08-07-five-star-customer-experience-in-public-service-with-yelp.md" >}})
-  * [Federal-Compatible Terms of Service Agreements]({{< ref "/guide/terms-of-service/_index.md" >}})
+  * [Federal-Compatible Terms of Service Agreements]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}})
   * [Negotiated Terms of Service Agreements]({{< ref "negotiated-terms-of-service-agreements.md" >}})
