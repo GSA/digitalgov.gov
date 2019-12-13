@@ -1,0 +1,5 @@
+{{/* Slack platforms */}}
+
+<a href="{{- .e.subscribe_form -}}" class="join type-{{- .e.platform -}}"><i class="fab fa-google"></i> Join the Slack Group</a>
+
+<p>To join, fill out our form or email <strong>{{ .e.subscribe_email }}</strong> with {{ if .e.subscribe_email_subject }} <code>{{ .e.subscribe_email_subject }}</code>{{ else }} nothing {{ end }} in the subject {{- if .e.subscribe_email_body }} and <code>{{ .e.subscribe_email_body }}</code> in the body{{- end -}}.</p>
