@@ -22,6 +22,8 @@ community_list:
     type: government only
     subscribe_email: "VR-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "AR/VR Listserv"
+    members: 165
+    emails_per_week: 
 
 
 # Make it better ♥
