@@ -17,6 +17,7 @@ topics:
   - cloud-gov
   - data
   - data-act
+  - login-gov
   - digital-accountability-and-transparency-act
   - FAS
   - Federal Acquisition Service
@@ -36,7 +37,7 @@ topics:
   - united-states-department-of-health-and-human-services
 ---
 
-_Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ {{< legacy-img src="2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}} 
+_Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ {{< legacy-img src="2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}}
 
 On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Services Administration](http://www.gsa.gov/) (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA’s path to improve the government’s outdated technology systems. The event featured how GSA buys, builds and shares technology for the federal government.
 
@@ -46,7 +47,7 @@ On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Servi
   <p lang="en" dir="ltr">
     "What we’re doing here will also translate to our partners in state, local, and municipal governments." <a href="https://twitter.com/DeniseUSGSA">@DeniseUSGSA</a> <a href="https://twitter.com/hashtag/GSAtech?src=hash">#GSAtech</a>
   </p>
-  
+
   <p>
     &mdash; 18F (@18F) <a href="https://twitter.com/18F/status/773873292746723328">September 8, 2016</a>
   </p>
@@ -60,7 +61,7 @@ In a moderated panel, the leadership team shared their insights about the future
   <p lang="en" dir="ltr">
     <a href="https://twitter.com/USGSA">@USGSA</a> leaders talk technology! <a href="https://twitter.com/DeniseUSGSA">@DeniseUSGSA</a> <a href="https://twitter.com/GSA_CIO">@GSA_CIO</a> <a href="https://twitter.com/aaronsnow">@aaronsnow</a> <a href="https://twitter.com/NavinVembar">@NavinVembar</a> <a href="https://twitter.com/marydavie">@marydavie</a> <a href="https://twitter.com/hashtag/InnovateGov?src=hash">#InnovateGov</a> <a href="https://twitter.com/hashtag/GSATech?src=hash">#GSATech</a> <a href="https://t.co/FHrmBwr4xW">pic.twitter.com/FHrmBwr4xW</a>
   </p>
-  
+
   <p>
     &mdash; GSA (@USGSA) <a href="https://twitter.com/USGSA/status/773881444896739328">September 8, 2016</a>
   </p>
@@ -72,7 +73,7 @@ In a moderated panel, the leadership team shared their insights about the future
   <p lang="en" dir="ltr">
     GSA Admin <a href="https://twitter.com/DeniseUSGSA">@DeniseUSGSA</a> on the future of technology in the federal government. <a href="https://twitter.com/hashtag/GSATech?src=hash">#GSATech</a> <a href="https://twitter.com/hashtag/InnovateGov?src=hash">#InnovateGov</a> <a href="https://t.co/zEssbqnSZL">pic.twitter.com/zEssbqnSZL</a>
   </p>
-  
+
   <p>
     &mdash; GSA (@USGSA) <a href="https://twitter.com/USGSA/status/773887504776826880">September 8, 2016</a>
   </p>
@@ -88,7 +89,7 @@ Vendors also had the opportunity to view demos of current projects.
   <p lang="en" dir="ltr">
     Product demos at GSA'S Tech Industry Day! <a href="https://twitter.com/hashtag/InnovateGov?src=hash">#InnovateGov</a> <a href="https://twitter.com/hashtag/GSATech?src=hash">#GSATech</a> <a href="https://t.co/eWtiXTpbEf">pic.twitter.com/eWtiXTpbEf</a>
   </p>
-  
+
   <p>
     &mdash; GSA (@USGSA) <a href="https://twitter.com/USGSA/status/773924618461642753">September 8, 2016</a>
   </p>
