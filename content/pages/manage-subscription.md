@@ -7,6 +7,7 @@ weight: 0
 
 aliases:
   - /manage-your-listserv-subscription/
+  - /communities/manage-your-subscription/
   - /communities/manage-your-listserv-subscription/
 
 ---
