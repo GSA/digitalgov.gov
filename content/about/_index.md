@@ -68,10 +68,10 @@ We are building DigitalGov into a destination that practices the methods that it
 ## Our team
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in the federal government and have a wealth of experience creating modern digital services.
 
-**Digital.gov:** Jeremy Zilar, Toni Bonitto, Dan Wiliams<br/>
+**Digital.gov:** Jeremy Zilar, Toni Bonitto<br/>
 **Communities:** Jacob Parcell<br/>
-**Video and Events:** Lauren Rabb, Alexandar Schulte, Wesley, Gabrielle Frat<br/>
-**U.S. Web Design System:** Dan Wiliams, Sara Cope<br/>
+**Video and Events:** Alexandar Schulte, Gabrielle Fratanduono<br/>
+**U.S. Web Design System:** Dan Williams, Sara Cope<br/>
 
 
 ## Contact Us
