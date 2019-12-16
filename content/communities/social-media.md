@@ -23,11 +23,12 @@ community_list:
     type: government
     subscribe_email: "SM-COP-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "Join #SocialGov"
-    members: 991
+    members: 953
     emails_per_week: 5
 
 
 # Make it better ♥
+
 ---
 
 ## Who We Are

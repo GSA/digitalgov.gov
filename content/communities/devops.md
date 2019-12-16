@@ -28,13 +28,17 @@ community_list:
     subscribe_email: "devops-today-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe to DevOps"
     terms: "Open to anyone with a .gov or .mil email address."
+    members: 297
+    emails_per_week:
   - platform: listserv
     type: public
     subscribe_email: devops-public-subscribe-request@listserv.gsa.gov
     subscribe_email_subject: "Subscribe Public DevOps"
-
+    members: 67
+    emails_per_week:
 
 # Make it better ♥
+
 ---
 
 The DevOps Community of Practice (CoP) provides information technology and development staff and leadership throughout government the opportunity to share lessons learned, successes, benefits, and know how related to DevOps.

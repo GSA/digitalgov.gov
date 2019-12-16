@@ -17,7 +17,7 @@ community_list:
     type: government
     subscribe_email: listserv@listserv.gsa.gov
     subscribe_email_subject: "Subscribe Open Data"
-    members: 878
+    members: 925
     emails_per_week: 1
 
 authors:

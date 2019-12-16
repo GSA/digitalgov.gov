@@ -23,6 +23,8 @@ community_list:
     type: government
     subscribe_email: "FedRPA-subscribe-request@listserv.gsa.gov"
     terms: "Open to anyone with a .gov or .mil email address."
+    members: 721
+    emails_per_week:
 
 
 # Make it better ♥

@@ -15,7 +15,7 @@ community_list:
     subscribe_email: tim.cossairt@tsa.dhs.gov
     subscribe_email_subject: "Join G3C"
     subscribe_email_body: "your name, agency, title, telephone number and email"
-    members: 326
+    members: 335
     emails_per_week: .69
 
 ---

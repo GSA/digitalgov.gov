@@ -37,9 +37,12 @@ community_list:
     subscribe_email: "team@challenge.gov"
     subscribe_email_subject: "Join Challenges Community"
     subscribe_email_body: "enter your name + agency you work for"
-    members: 1351
+    members: 738
+    emails_per_week:
+
 
 # Make it better ♥
+
 ---
 
 {{< img-right src="challenge-gov-logo" >}}

@@ -36,29 +36,29 @@ community_list:
     subscribe_email: "digitalgovu@gsa.gov"
     subscribe_email_subject: "Join Web Content Managers"
     subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
-    members: 1910
+    members: 1878
     emails_per_week: 4
 
 
 # Make it better ♥
----
 
+---
 
 If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.
 
-### Overview
+## Overview
 
 We’ve been working together since late 2000 to improve the content and usability of U.S. government websites. The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites.
 
-### Who we are
+## Who we are
 
 Join us if you are an employee of a federal, state, or local U.S. government agency, working on government digital content.
 
-### What we do
+## What we do
 
 Knowledge Sharing: This listserv provides you with a platform to ask and answer questions of your digital content management peers. You can share news, findings, results, hurdles and collaborate on issues related to manage government digital content.
 
-### Key Resources
+## Key Resources
 
 [Checklist of Requirements for Federal Websites and Digital Services](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/)
 
