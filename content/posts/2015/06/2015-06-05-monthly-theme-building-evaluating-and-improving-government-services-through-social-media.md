@@ -11,10 +11,10 @@ topics:
   - social-media
   - accessibility
   - digitalgov-search
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - social-media
-  - SocialGov
+  - socialgov
   - transportation-security-administration
   - TSA
   - United States Geological Survey

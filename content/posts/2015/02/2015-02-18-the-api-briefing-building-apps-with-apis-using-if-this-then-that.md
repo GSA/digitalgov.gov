@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - api
-  - Terms of Service
+  - terms-of-service
   - US Department of Agriculture
   - USDA
   - wednesday-api-briefing

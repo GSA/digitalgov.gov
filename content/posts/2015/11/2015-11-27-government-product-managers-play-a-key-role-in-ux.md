@@ -14,7 +14,7 @@ topics:
   - Internal Revenue Service
   - IRS
   - personas
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - user-experience
   - ux
 ---

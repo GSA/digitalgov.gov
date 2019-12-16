@@ -7,9 +7,9 @@ authors:
   - dannielle-blumenthal
 topics:
   - our-work
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - NIST
-  - Open Opportunities program
+  - open-opportunities-program
 ---
 
 {{< legacy-img src="2015/04/600-x-450-Motivation-by-gensyn-Flickr-CC-BY-NC-ND-2.0.jpg" alt="A motivational note reads, Let's be Awesome! Signed, The voice in your head" caption="" >}} 

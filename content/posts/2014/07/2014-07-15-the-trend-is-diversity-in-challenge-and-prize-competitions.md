@@ -16,8 +16,8 @@ topics:
   - nasa
   - SBA
   - sitesusagov
-  - US Small Business Administration
-  - United States Department of Energy
+  - us-small-business-administration
+  - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
 ---
 

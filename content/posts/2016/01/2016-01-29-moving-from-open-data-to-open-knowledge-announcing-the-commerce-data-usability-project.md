@@ -12,14 +12,14 @@ topics:
   - Census
   - Commerce
   - data-gov
-  - Department of Commerce
-  - National Institute of Standards and Technology
-  - National Oceanic and Atmospheric Administration
+  - department-of-commerce
+  - national-institute-of-standards-and-technology
+  - national-oceanic-and-atmospheric-administration
   - NIST
   - NOAA
   - open-data
   - OSTP
-  - United States Census Bureau
+  - united-states-census-bureau
   - white-house-office-of-science-and-technology-policy
 ---
 

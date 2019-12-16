@@ -10,8 +10,8 @@ topics:
   - blog
   - FWS
   - nasa
-  - US Department of the Interior
-  - US Fish and Wildlife Service
+  - us-department-of-the-interior
+  - us-fish-and-wildlife-service
   - white-house
 ---
 

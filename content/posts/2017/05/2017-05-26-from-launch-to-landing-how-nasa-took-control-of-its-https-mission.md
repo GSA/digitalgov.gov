@@ -11,14 +11,14 @@ topics:
   - policy
   - 18f
   - dhs
-  - GSA
+  - gsa
   - https
   - nasa
   - National Aeronautics and Space Administration
   - Office of Management and Budget
   - OMB
   - security
-  - US General Services Administration
+  - us-general-services-administration
   - united-states-department-of-homeland-security
 ---
 

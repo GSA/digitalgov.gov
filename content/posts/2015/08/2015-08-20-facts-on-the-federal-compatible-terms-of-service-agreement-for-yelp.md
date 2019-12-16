@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - socialgov-community
-  - Terms of Service
+  - terms-of-service
   - tos
 ---
 

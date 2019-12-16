@@ -13,6 +13,7 @@ topics:
   - policy
 
 weight: 3
+
 ---
 
 If you manage a public website in the federal government's executive branch, you are required to have certain content&mdash;or provide links to content&mdash;from specific places on your website.
@@ -99,7 +100,7 @@ The accessibility statement should, at a minimum, include:
 - date of the last update, and
 - the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program.
 
-Sample and best-in-practice accessibility statements can be found at [Section508.gov](www.section508.gov) on the pages for [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies), and [Executive Guide to Federal IT Accessibility](https://www.section508.gov/tools/playbooks/exec-guide-accessibility).
+Sample and best-in-practice accessibility statements can be found at [Section508.gov](https://www.section508.gov) on the pages for [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies), and [Executive Guide to Federal IT Accessibility](https://www.section508.gov/tools/playbooks/exec-guide-accessibility).
 
 {{< box >}}
 ##### Suggested link text:

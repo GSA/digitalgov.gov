@@ -10,7 +10,7 @@ topics:
   - mobile
   - monthly-theme
   - bbg
-  - Broadcasting Board of Governors
+  - broadcasting-board-of-governors
   - CMS
   - GitHub
   - multilingual

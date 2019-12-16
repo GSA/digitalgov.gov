@@ -8,7 +8,7 @@ topics:
   - api
   - dhs
   - DOL
-  - GSA
+  - gsa
   - HHS
   - IRS
   - mobile-apps
@@ -19,7 +19,7 @@ topics:
   - nih
   - thursday-mobile-products
   - TSA
-  - US Department of Labor
+  - us-department-of-labor
   - united-states-department-of-health-and-human-services
   - united-states-department-of-homeland-security
   - USDA

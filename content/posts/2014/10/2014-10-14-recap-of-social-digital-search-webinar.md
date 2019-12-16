@@ -12,10 +12,10 @@ topics:
   - social-media
   - video
   - digitalgov-search
-  - Federal Register
+  - federal-register
   - National Library of Medicine
   - NLM
-  - Recaps
+  - recaps
   - socialgov-community
 ---
 

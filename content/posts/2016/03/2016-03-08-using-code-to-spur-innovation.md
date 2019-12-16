@@ -13,13 +13,13 @@ topics:
   - data
   - Education
   - FEC
-  - Federal Election Commission
+  - federal-election-commission
   - HHS
   - MCC
   - nasa
   - open-data
-  - US Department of Education
-  - US Department of Labor
+  - us-department-of-education
+  - us-department-of-labor
   - united-states-department-of-health-and-human-services
   - United States Patent and Trademark Office
   - USPTO

@@ -11,7 +11,7 @@ topics:
   - ux
   - mobile
   - mobile-first
-  - Recaps
+  - recaps
   - responsive-web-design
 ---
 

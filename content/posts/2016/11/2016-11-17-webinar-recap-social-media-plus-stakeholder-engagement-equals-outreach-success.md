@@ -16,7 +16,7 @@ topics:
   - content-syndication
   - disease
   - multilingual
-  - Recaps
+  - recaps
   - social-media
   - usagov
   - user research

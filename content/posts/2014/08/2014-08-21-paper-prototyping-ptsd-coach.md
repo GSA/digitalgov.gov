@@ -11,9 +11,9 @@ topics:
   - mobile-apps
   - mobile-ux-guideline-4
   - prototype
-  - Recaps
+  - recaps
   - thursday-mobile-products
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
 
 ---

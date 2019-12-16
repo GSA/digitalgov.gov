@@ -9,7 +9,7 @@ topics:
   - api
   - api
   - DoD
-  - United States Department of Defense
+  - united-states-department-of-defense
   - wednesday-api-briefing
 ---
 

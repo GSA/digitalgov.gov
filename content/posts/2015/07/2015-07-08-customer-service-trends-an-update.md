@@ -19,12 +19,12 @@ topics:
   - fema
   - mobile
   - mobile-apps
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - personas
-  - Smithsonian Institution
+  - smithsonian-institution
   - social-media
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - user-centered-design
   - VA
 ---

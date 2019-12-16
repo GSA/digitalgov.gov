@@ -14,11 +14,11 @@ topics:
   - connect-gov
   - data-gov
   - FOIA
-  - GSA
+  - gsa
   - metadata
   - open-data
   - open-source
-  - US Digital Service
+  - us-digital-service
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Globe-and-Computer-Keyboard-Feng-iStock-Thinkstock-110828839.jpg" alt="Globe and computer keyboard" caption="" >}}

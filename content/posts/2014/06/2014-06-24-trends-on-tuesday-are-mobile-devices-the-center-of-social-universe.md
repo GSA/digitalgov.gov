@@ -14,10 +14,10 @@ topics:
   - Corporation for National and Community Service
   - crowdsourcing
   - DOT
-  - Internet of things
+  - internet-of-things
   - mobile
   - mobile-apps
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - trends-on-tuesday
   - US Department of Agriculture

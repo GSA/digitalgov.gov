@@ -14,22 +14,22 @@ topics:
   - dhs
   - DOT
   - fda
-  - GSA
+  - gsa
   - HHS
   - NPS
   - Office of Management and Budget
   - OMB
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - us-access-board
-  - US Department of Education
-  - US Department of Labor
-  - US Department of Veterans Affairs
+  - us-department-of-education
+  - us-department-of-labor
+  - us-department-of-veterans-affairs
   - us-food-and-drug-administration
-  - US National Park Service
+  - us-national-park-service
   - united-states-department-of-health-and-human-services
   - united-states-department-of-homeland-security
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - VA
 ---
 

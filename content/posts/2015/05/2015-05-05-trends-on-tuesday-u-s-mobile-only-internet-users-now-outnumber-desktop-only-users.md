@@ -12,7 +12,7 @@ topics:
   - mobile-friendly
   - native-app
   - trends-on-tuesday
-  - US National Park Service
+  - us-national-park-service
 ---
 
 {{< legacy-img src="2015/05/600-x-369-comScore-Single-Platform-Users-Share-of-Total-Digital-Population_reference.jpg" alt="comScore graph showing Single-Platform Users Share of Total Digital Population" >}}

@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - social-media
-  - Terms of Service
+  - terms-of-service
 ---
 
 <p dir="ltr">

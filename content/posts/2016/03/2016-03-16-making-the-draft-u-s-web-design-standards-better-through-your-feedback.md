@@ -10,7 +10,7 @@ topics:
   - content
   - ux
   - 18f
-  - Draft Web Design Standards
+  - draft-web-design-standards
   - user-centered-design
   - VA
 ---

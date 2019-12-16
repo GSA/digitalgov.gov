@@ -9,7 +9,7 @@ topics:
   - design
   - mobile
   - customer-service
-  - Internet of things
+  - internet-of-things
   - mobile-apps
   - mobile-ux-guideline-1
   - mobile-ux-guideline-3

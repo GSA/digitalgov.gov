@@ -10,7 +10,7 @@ topics:
   - augmented-reality
   - mobile-apps
   - nasa
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - US Department of Agriculture
   - United States Postal Service

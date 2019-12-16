@@ -8,7 +8,7 @@ authors:
 topics:
   - ux
   - DOS
-  - US Department of State
+  - us-department-of-state
   - user-experience
   - ux
 ---

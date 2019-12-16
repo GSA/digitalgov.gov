@@ -10,7 +10,7 @@ topics:
   - mobile
   - DOE
   - US Department of Agriculture
-  - United States Department of Energy
+  - united-states-department-of-energy
   - USDA
   - wednesday-api-briefing
 ---

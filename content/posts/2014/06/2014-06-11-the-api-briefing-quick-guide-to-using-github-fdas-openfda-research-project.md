@@ -14,7 +14,7 @@ topics:
   - open-source
   - OPM
   - us-food-and-drug-administration
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

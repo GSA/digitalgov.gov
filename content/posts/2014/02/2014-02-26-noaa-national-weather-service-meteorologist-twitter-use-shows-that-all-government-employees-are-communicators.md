@@ -7,7 +7,7 @@ authors:
   - mike-kruger
 topics:
   - social-media
-  - Department of Commerce
+  - department-of-commerce
   - NOAA
   - NWS
   - social-media

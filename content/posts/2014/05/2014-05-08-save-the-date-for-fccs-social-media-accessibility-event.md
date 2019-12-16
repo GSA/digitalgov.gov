@@ -10,7 +10,7 @@ topics:
   - social-media
   - accessibility
   - FCC
-  - Federal Communications Commission
+  - federal-communications-commission
   - social-media
 ---
 

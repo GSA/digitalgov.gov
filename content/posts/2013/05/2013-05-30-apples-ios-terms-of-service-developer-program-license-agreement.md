@@ -8,7 +8,7 @@ topics:
   - social-media
   - ios
   - mobile
-  - Terms of Service
+  - terms-of-service
   - tos
 ---
 

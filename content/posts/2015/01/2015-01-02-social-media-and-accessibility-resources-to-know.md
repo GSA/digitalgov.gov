@@ -14,11 +14,11 @@ topics:
   - aoi
   - DOL
   - FCC
-  - Federal Communications Commission
+  - federal-communications-commission
   - HHS
   - section-508
   - socialgov-community
-  - US Department of Labor
+  - us-department-of-labor
   - united-states-department-of-health-and-human-services
 ---
 

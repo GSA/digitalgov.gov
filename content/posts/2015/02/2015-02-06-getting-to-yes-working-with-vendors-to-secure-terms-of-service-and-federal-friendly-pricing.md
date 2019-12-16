@@ -11,9 +11,9 @@ topics:
   - social-media
   - aoi
   - HHS
-  - Recaps
+  - recaps
   - socialgov-community
-  - Terms of Service
+  - terms-of-service
   - tos
   - united-states-department-of-health-and-human-services
 ---

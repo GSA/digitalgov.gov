@@ -9,7 +9,7 @@ topics:
   - data
   - chatbots
   - crowdsourcing
-  - Internet of things
+  - internet-of-things
   - natural language generation
   - the-data-briefing
   - United States Patent and Trademark Office

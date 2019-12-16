@@ -9,7 +9,7 @@ topics:
   - mobile
   - Federal Mobile Products Registry
   - mobile-apps
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - usa-gov-federal-mobile-apps-directory
 ---

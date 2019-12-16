@@ -9,12 +9,12 @@ topics:
   - our-work
   - DOT
   - epa
-  - Open Opportunities program
+  - open-opportunities-program
   - transportation-security-administration
   - TSA
   - US Department of Agriculture
   - us-environmental-protection-agency
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - USDA
 ---
 

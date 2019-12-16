@@ -19,7 +19,7 @@ topics:
   - DOT
   - government-contact-centers
   - HHS
-  - Internet of things
+  - internet-of-things
   - mobile-code-catalog
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-1
@@ -28,9 +28,9 @@ topics:
   - nasa
   - open-and-structured-content-models
   - trends-on-tuesday
-  - United States Census Bureau
+  - united-states-census-bureau
   - united-states-department-of-health-and-human-services
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - United States Postal Service
   - USPS
 ---

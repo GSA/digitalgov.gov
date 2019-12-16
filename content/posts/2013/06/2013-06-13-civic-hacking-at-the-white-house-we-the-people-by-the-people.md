@@ -7,7 +7,7 @@ authors:
   - lnelson
 topics:
   - code
-  - National Day of Civic Hacking
+  - national-day-of-civic-hacking
   - open-government
   - white-house
 ---

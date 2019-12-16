@@ -14,7 +14,7 @@ topics:
   - HHS
   - open-data
   - the-data-briefing
-  - US Department of Labor
+  - us-department-of-labor
   - united-states-department-of-health-and-human-services
   - United States Patent and Trademark Office
   - USPTO

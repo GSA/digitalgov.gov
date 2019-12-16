@@ -8,7 +8,7 @@ authors:
 topics:
   - data
   - Commerce
-  - Department of Commerce
+  - department-of-commerce
   - national-institutes-of-health
   - nih
 ---

@@ -27,7 +27,7 @@ topics:
   - Human Resources
   - infrastructure
   - innovation
-  - Internet of Things
+  - internet-of-things
   - skills
   - virtual-reality
   - virtual-augmented-reality-community

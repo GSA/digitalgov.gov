@@ -10,11 +10,11 @@ topics:
   - ux
   - BLS
   - multilingual
-  - National Cancer Institute
+  - national-cancer-institute
   - NCI
   - personas
-  - US Bureau of Labor Statistics
-  - United States Census Bureau
+  - us-bureau-of-labor-statistics
+  - united-states-census-bureau
   - usability starter kit
   - user-experience
 ---

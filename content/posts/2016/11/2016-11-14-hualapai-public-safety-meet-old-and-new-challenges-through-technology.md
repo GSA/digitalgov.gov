@@ -23,7 +23,7 @@ topics:
   - public safety
   - Tribal
   - Tribal Government
-  - US National Park Service
+  - us-national-park-service
   - user research
   - video
   - wireless

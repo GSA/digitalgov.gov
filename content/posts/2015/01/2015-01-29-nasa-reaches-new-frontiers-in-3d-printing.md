@@ -13,10 +13,10 @@ topics:
   - national-institutes-of-health
   - nih
   - SBIR
-  - Small Business Innovation Research
+  - small-business-innovation-research
 ---
 
-{{< legacy-img src="2015/01/600-x-439-3D-Printer-in-Action-isolated-on-white-silavsale-iStock-Thinkstock-504486619.jpg" alt="3D Printer in Action isolated on white" caption="" >}} 
+{{< legacy-img src="2015/01/600-x-439-3D-Printer-in-Action-isolated-on-white-silavsale-iStock-Thinkstock-504486619.jpg" alt="3D Printer in Action isolated on white" caption="" >}}
 
 3D printing has gone out of this world.
 

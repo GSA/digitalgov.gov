@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - mobile-ux-guideline-5
-  - National Cancer Institute
+  - national-cancer-institute
   - NCI
   - responsive-web-design
   - usa-gov-federal-mobile-apps-directory

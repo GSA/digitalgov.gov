@@ -13,8 +13,8 @@ topics:
   - mobile-ux-guideline-5
   - NPS
   - trends-on-tuesday
-  - US National Park Service
-  - United States Department of Energy
+  - us-national-park-service
+  - united-states-department-of-energy
   - United States Postal Service
   - USPS
 ---

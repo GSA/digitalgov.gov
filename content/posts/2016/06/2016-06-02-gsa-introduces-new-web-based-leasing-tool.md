@@ -10,8 +10,8 @@ topics:
   - design
   - product-management
   - ux
-  - GSA
-  - US General Services Administration
+  - gsa
+  - us-general-services-administration
   - web-based
 ---
 

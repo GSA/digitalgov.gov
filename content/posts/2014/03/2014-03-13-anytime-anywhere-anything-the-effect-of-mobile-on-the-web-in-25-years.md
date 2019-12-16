@@ -10,14 +10,14 @@ topics:
   - Census
   - content-syndication
   - DOL
-  - Internet of things
+  - internet-of-things
   - mobile-code-catalog
   - mobile-first
   - NOAA
   - open-and-structured-content-models
   - thursday-mobile-products
   - US Customs and Border Protection
-  - US Department of Labor
+  - us-department-of-labor
   - USDA
 ---
 

@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - connect-gov
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - NIST
   - security
   - social-media

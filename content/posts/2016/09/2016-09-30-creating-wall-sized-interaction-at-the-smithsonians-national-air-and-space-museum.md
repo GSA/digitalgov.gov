@@ -16,7 +16,7 @@ topics:
   - mobile-apps
   - NASM
   - National Air and Space Museum
-  - Smithsonian Institution
+  - smithsonian-institution
   - user-centered-design
   - user-experience
   - ux

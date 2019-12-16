@@ -10,7 +10,7 @@ topics:
   - metrics
   - social-media
   - HHS
-  - Recaps
+  - recaps
   - united-states-department-of-health-and-human-services
 ---
 

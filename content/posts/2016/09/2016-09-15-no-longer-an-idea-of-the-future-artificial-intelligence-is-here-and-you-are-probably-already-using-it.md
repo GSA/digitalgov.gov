@@ -21,7 +21,7 @@ topics:
   - cx
   - data
   - FCC
-  - Federal Communications Commission
+  - federal-communications-commission
   - innovation
   - privacy
   - regulation

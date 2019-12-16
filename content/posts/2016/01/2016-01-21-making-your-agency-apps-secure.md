@@ -15,7 +15,7 @@ topics:
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-6
   - mobile-gov
-  - Recaps
+  - recaps
   - security
   - united-states-department-of-homeland-security
 ---

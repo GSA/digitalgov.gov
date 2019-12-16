@@ -18,19 +18,19 @@ topics:
   - DOI
   - Education
   - FEC
-  - Federal Election Commission
-  - GSA
+  - federal-election-commission
+  - gsa
   - https
   - Office of Management and Budget
   - OMB
   - open-data
   - OSTP
   - US Citizenship and Immigration Service
-  - US Department of Education
-  - US Department of the Interior
-  - US Department of the Treasury
-  - US Digital Service
-  - United States Air Force
+  - us-department-of-education
+  - us-department-of-the-interior
+  - us-department-of-the-treasury
+  - us-digital-service
+  - united-states-air-force
   - USCIS
   - USDS
   - white-house

@@ -17,7 +17,7 @@ topics:
   - nasa
   - open-source
   - OSTP
-  - Recaps
+  - recaps
   - white-house-office-of-science-and-technology-policy
 ---
 

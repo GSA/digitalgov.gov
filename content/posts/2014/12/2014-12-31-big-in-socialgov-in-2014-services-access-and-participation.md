@@ -13,23 +13,23 @@ topics:
   - CIA
   - DOI
   - fda
-  - Federal Register
+  - federal-register
   - FSA
   - HHS
   - NARA
   - nasa
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - National Highway Traffic Safety Administration
   - National Library of Medicine
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NLM
   - NOAA
   - ODNI
   - Office of the Director of National Intelligence
-  - Peace Corps
+  - peace-corps
   - socialgov-community
-  - US Department of Education
-  - US Department of the Interior
+  - us-department-of-education
+  - us-department-of-the-interior
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services
 ---

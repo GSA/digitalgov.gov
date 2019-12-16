@@ -13,7 +13,7 @@ topics:
   - mobile
   - mobile-testing
   - National Ocean Service
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - NOS
   - Office of Inspector General

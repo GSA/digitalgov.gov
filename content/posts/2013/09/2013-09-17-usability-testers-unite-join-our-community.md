@@ -8,7 +8,7 @@ authors:
 topics:
   - user-testing-and-research
   - DigitalGov User Experience Program
-  - GSA
+  - gsa
   - ux
 ---
 

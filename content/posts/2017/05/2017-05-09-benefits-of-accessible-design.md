@@ -10,9 +10,9 @@ topics:
   - design
   - ux
   - accessibility
-  - GSA
+  - gsa
   - section-508
-  - US General Services Administration
+  - us-general-services-administration
 ---
 
 <p dir="ltr">

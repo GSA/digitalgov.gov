@@ -14,7 +14,7 @@ topics:
   - fema
   - Twitter
   - US Citizenship and Immigration Service
-  - US Department of Education
+  - us-department-of-education
   - us-environmental-protection-agency
   - USCIS
 ---

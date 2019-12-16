@@ -10,7 +10,7 @@ topics:
   - DOL
   - mobile-apps
   - mobile-gov-experience
-  - US Department of Labor
+  - us-department-of-labor
 ---
 
 _[{{< legacy-img src="2013/12/ss_dolstats1-166x250.jpg" alt="Department of Labor Stats App" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/ss_dolstats1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._

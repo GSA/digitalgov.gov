@@ -24,7 +24,7 @@ topics:
   - DOL
   - fda
   - GitHub
-  - GSA
+  - gsa
   - mobile-ux-guideline-1
   - national-institutes-of-health
   - nih
@@ -32,13 +32,13 @@ topics:
   - SEC
   - SSA
   - structured-content
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - US Department of Agriculture
-  - US Department of Education
-  - US Department of Labor
+  - us-department-of-education
+  - us-department-of-labor
   - us-food-and-drug-administration
-  - US Securities and Exchange Commission
-  - United States Census Bureau
+  - us-securities-and-exchange-commission
+  - united-states-census-bureau
   - USDA
 ---
 

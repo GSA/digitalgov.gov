@@ -7,10 +7,10 @@ authors:
   - awichman
 topics:
   - social-media
-  - Federal Student Aid
+  - federal-student-aid
   - FSA
   - Twitter
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
 ---
 

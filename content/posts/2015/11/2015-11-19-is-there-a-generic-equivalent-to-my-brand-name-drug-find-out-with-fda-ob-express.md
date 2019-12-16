@@ -13,7 +13,7 @@ topics:
   - native-app
   - native-apps
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - thursday-mobile-products
   - us-food-and-drug-administration
 ---

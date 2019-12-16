@@ -10,7 +10,7 @@ topics:
   - Central Intelligence Agency
   - CIA
   - podcast
-  - SocialGov
+  - socialgov
   - United States Geological Survey
   - USGS
 ---

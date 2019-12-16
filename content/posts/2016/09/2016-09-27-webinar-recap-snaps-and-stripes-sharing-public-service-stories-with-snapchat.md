@@ -15,23 +15,23 @@ topics:
   - ux
   - video
   - accessibility
-  - best practices
+  - best-practices
   - content
   - content-strategy
   - cx
   - cx
-  - DGU
   - digitalgov-university
-  - GSA
+  - digitalgov-university
+  - gsa
   - nasa
   - National Museum of African American History and Culture
   - NMAAHC
-  - Peace Corps
-  - Recaps
+  - peace-corps
+  - recaps
   - section-508
-  - Smithsonian Institution
+  - smithsonian-institution
   - social-media
-  - US General Services Administration
+  - us-general-services-administration
   - usagov
   - user-experience
   - ux

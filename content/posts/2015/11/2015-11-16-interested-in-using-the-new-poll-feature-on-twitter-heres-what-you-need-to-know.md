@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - Twitter
 ---
 

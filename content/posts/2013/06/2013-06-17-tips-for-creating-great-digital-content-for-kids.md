@@ -14,8 +14,8 @@ topics:
   - HHS
   - innovation
   - nasa
-  - US Forest Service
-  - United States Department of Energy
+  - us-forest-service
+  - united-states-department-of-energy
   - user-experience
 ---
 

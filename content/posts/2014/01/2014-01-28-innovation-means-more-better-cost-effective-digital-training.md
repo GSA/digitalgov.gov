@@ -9,16 +9,16 @@ topics:
   - product-management
   - social-media
   - CFPB
-  - DGU
+  - digitalgov-university
   - DoD
   - FAA
   - FAFSA
   - nasa
-  - SocialGov
-  - US Department of Education
-  - US Department of State
-  - United States Army
-  - United States Department of Defense
+  - socialgov
+  - us-department-of-education
+  - us-department-of-state
+  - united-states-army
+  - united-states-department-of-defense
 ---
 
 [{{< legacy-img src="2014/06/250-x-180-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada. Photos by Laura McHugh." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/1014-x-726-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg)A recent **FedTech Magazine** article asked, &#8220;[When There Are No Barriers to Technology, How Can the Government Innovate?](http://www.fedtechmagazine.com/article/2014/01/when-there-are-no-barriers-technology-how-can-government-innovate)&#8221; We thought we&#8217;d take up the challenge and let you know how government uses innovations from digital communities to grow a social media education and training program that provides more opportunities than ever for agencies to share, learn and measurably improve our programs for citizens.

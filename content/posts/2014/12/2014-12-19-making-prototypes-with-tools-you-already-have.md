@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - BLS
   - prototype
-  - US Bureau of Labor Statistics
+  - us-bureau-of-labor-statistics
   - usability-testing
   - user-experience
 ---

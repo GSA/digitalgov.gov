@@ -9,7 +9,7 @@ topics:
   - product-management
   - ux
   - cx
-  - GSA
+  - gsa
   - top-tasks
 ---
 

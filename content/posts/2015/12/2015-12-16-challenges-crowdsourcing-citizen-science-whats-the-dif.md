@@ -21,16 +21,16 @@ topics:
   - crowdsourcing
   - epa
   - FCPCCS
-  - GSA
+  - gsa
   - HHS
   - innovation
   - nasa
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - prizes-and-competitions
   - US Department of Agriculture
   - us-environmental-protection-agency
-  - United States Department of Energy
+  - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
   - United States Geological Survey
   - USDA

@@ -14,8 +14,8 @@ topics:
   - user-testing-and-research
   - 3d-printing
   - DoD
-  - US Department of Veterans Affairs
-  - United States Department of Defense
+  - us-department-of-veterans-affairs
+  - united-states-department-of-defense
   - VA
 ---
 

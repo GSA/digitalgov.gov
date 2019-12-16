@@ -13,7 +13,7 @@ topics:
   - apps
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
-  - best practices
+  - best-practices
   - chatbots
   - data
   - innovation

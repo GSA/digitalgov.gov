@@ -12,7 +12,7 @@ topics:
   - data-gov
   - DOT
   - US Department of Agriculture
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - USDA
   - wednesday-api-briefing
 ---

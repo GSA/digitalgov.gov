@@ -12,7 +12,7 @@ topics:
   - customer-experience-community-of-practice
   - Defense Intelligence Agency
   - Federal CrowdSource Mobile Testing Program
-  - GSA
+  - gsa
   - HHS
   - ICE
   - mobile-gov
@@ -24,9 +24,9 @@ topics:
   - socialgov-community
   - SSA
   - trends-on-tuesday
-  - US Department of State
+  - us-department-of-state
   - us-food-and-drug-administration
-  - United States Census Bureau
+  - united-states-census-bureau
   - USDA
   - ux
 ---

@@ -9,7 +9,7 @@ topics:
   - api
   - api
   - Census
-  - United States Census Bureau
+  - united-states-census-bureau
   - wednesday-api-briefing
 ---
 

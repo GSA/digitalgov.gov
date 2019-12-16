@@ -14,7 +14,7 @@ topics:
   - GitHub
   - open-data
   - US Department of Agriculture
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - USDA
 ---
 

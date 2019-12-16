@@ -18,7 +18,7 @@ topics:
   - open-data
   - open-source
   - the-data-briefing
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - united-states-department-of-homeland-security
   - United States Patent and Trademark Office
   - USPTO

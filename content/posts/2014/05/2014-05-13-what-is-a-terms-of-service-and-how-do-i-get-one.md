@@ -10,9 +10,9 @@ topics:
   - social-media
   - ux
   - DOJ
-  - Terms of Service
+  - terms-of-service
   - tos
-  - US Department of Justice
+  - us-department-of-justice
   - usability
 ---
 

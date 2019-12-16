@@ -18,7 +18,7 @@ topics:
   - artificial intelligence
   - artificial-intelligence-for-citizen-services-community
   - augmented-reality
-  - best practices
+  - best-practices
   - big-data
   - blockchain
   - chatbots
@@ -27,7 +27,7 @@ topics:
   - cx
   - data
   - innovation
-  - Internet of things
+  - internet-of-things
   - IoT
   - open-data
   - privacy

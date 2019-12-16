@@ -11,11 +11,11 @@ topics:
   - social-media
   - GAO
   - nasa
-  - Peace Corps
+  - peace-corps
   - plain-language
   - socialgov-community
   - Twitter
-  - US Government Accountability Office
+  - us-government-accountability-office
   - web-content-managers-forum
 ---
 

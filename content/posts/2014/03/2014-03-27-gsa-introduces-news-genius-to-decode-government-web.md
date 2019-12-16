@@ -9,10 +9,10 @@ topics:
   - social-media
   - api
   - Defense Intelligence Agency
-  - Internet of things
+  - internet-of-things
   - mobile-gov
-  - SocialGov
-  - US Small Business Administration
+  - socialgov
+  - us-small-business-administration
 ---
 
 <p dir="ltr" style="text-align: center;">

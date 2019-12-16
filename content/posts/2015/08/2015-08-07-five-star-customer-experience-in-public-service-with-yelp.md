@@ -9,10 +9,10 @@ topics:
   - social-media
   - api
   - DOT
-  - SocialGov
-  - Terms of Service
+  - socialgov
+  - terms-of-service
   - tos
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - Yelp
 ---
 
