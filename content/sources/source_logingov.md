@@ -8,7 +8,7 @@ summary: 'Your one trusted account for government.'
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
-domain: 'https://login.gov/'
+domain: 'https://www.login.gov/'
 
 # Images need to be 200x200px with a transparent background
 # Upload new images to Github in the /static/logos/ folder
