@@ -7,9 +7,7 @@ title: "An Introduction to Accessibility"
 summary: 'This week, we&#39;re taking at look at how to reframe our approach to encouraging others to build with accessibility&#46;'
 authors:
   - jeremyzilar
-categories:
-  - accessibility
-tag:
+topics:
   - accessibility
 featured_image:
   uid: this-weeks-idea-card
