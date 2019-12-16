@@ -11,7 +11,7 @@ topics:
   - dap
   - digital-analytics-program
   - fedramp
-  - GSA
+  - gsa
   - responsive-web-design
   - sites
   - thursday-mobile-products

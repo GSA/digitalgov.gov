@@ -10,7 +10,7 @@ topics:
   - policy
   - acquisition
   - agile
-  - GSA
+  - gsa
   - innovation
   - Office of Management and Budget
   - OMB

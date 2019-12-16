@@ -14,9 +14,9 @@ topics:
   - native-app
   - native-apps
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - thursday-mobile-products
-  - United States Department of Defense
+  - united-states-department-of-defense
 ---
 
 “My Disability is One Part of Who I Am” was the theme of the [70th National Disability Employment Awareness Month](http://www.dol.gov/odep/topics/ndeam/) this past October. We celebrated the many contributions of our friends and co-workers with disabilities and recognized the diverse skills and talents they bring to our workplace.

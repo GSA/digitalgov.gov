@@ -14,11 +14,11 @@ topics:
   - Commerce
   - data
   - data-visualization
-  - Department of Commerce
+  - department-of-commerce
   - open-data
   - the-data-briefing
-  - US Bureau of Labor Statistics
-  - United States Census Bureau
+  - us-bureau-of-labor-statistics
+  - united-states-census-bureau
   - United States Patent and Trademark Office
   - USPTO
 ---

@@ -9,7 +9,7 @@ topics:
   - product-management
   - strategy
   - policy
-  - Department of Commerce
+  - department-of-commerce
   - gamification
   - mobile
   - social-media

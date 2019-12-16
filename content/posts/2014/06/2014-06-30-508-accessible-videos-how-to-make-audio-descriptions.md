@@ -13,8 +13,8 @@ topics:
   - DOJ
   - nasa
   - section-508
-  - US Department of Justice
-  - US Department of Veterans Affairs
+  - us-department-of-justice
+  - us-department-of-veterans-affairs
   - VA
   - YouTube
 ---

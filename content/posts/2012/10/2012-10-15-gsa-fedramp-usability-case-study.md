@@ -9,7 +9,7 @@ topics:
   - user-testing-and-research
   - ux
   - DigitalGov User Experience Program
-  - GSA
+  - gsa
   - usability
   - usability-case-study
   - user-experience

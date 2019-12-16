@@ -3,7 +3,7 @@
 # https://digital.gov/topics/digitalgov-summit
 
 # Topic Title
-title: "DigitalGov Summit"
+title: "Digital.gov Summit"
 
 # description — keep it short and clear
 summary: ""

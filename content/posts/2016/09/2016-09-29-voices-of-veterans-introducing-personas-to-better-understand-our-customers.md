@@ -14,7 +14,7 @@ topics:
   - user-centered-design
   - user-experience
   - VA
-  - VA Center for Innovation
+  - va-center-for-innovation
   - VACI
 ---
 

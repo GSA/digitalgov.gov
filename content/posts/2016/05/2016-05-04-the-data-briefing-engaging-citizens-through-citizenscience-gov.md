@@ -16,7 +16,7 @@ topics:
   - the-data-briefing
   - US Department of Agriculture
   - us-environmental-protection-agency
-  - US National Park Service
+  - us-national-park-service
   - USDA
 ---
 

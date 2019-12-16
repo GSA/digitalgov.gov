@@ -18,7 +18,7 @@ topics:
   - analytics-usa-gov
   - Commerce
   - dap
-  - Department of Commerce
+  - department-of-commerce
   - digital-analytics-program
   - DOI
   - DOJ
@@ -26,14 +26,14 @@ topics:
   - epa
   - NARA
   - nasa
-  - National Archives and Records Administration
-  - US Department of Education
-  - US Department of Justice
-  - US Department of the Interior
-  - US Department of Veterans Affairs
+  - national-archives-and-records-administration
+  - us-department-of-education
+  - us-department-of-justice
+  - us-department-of-the-interior
+  - us-department-of-veterans-affairs
   - us-environmental-protection-agency
-  - US Small Business Administration
-  - United States Department of Energy
+  - us-small-business-administration
+  - united-states-department-of-energy
 ---
 
 We’ve added agency-specific dashboards to [analytics.usa.gov](https://analytics.usa.gov/)!

@@ -7,9 +7,9 @@ authors:
   - jparcell
 topics:
   - governance
-  - GSA
-  - US Department of Education
-  - US Department of Veterans Affairs
+  - gsa
+  - us-department-of-education
+  - us-department-of-veterans-affairs
   - USDA
 ---
 

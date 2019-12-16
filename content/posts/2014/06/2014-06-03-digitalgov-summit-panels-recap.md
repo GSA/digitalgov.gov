@@ -23,13 +23,13 @@ topics:
   - national-institutes-of-health
   - NCI
   - nih
-  - Recaps
-  - US Department of Labor
+  - recaps
+  - us-department-of-labor
   - us-environmental-protection-agency
   - us-food-and-drug-administration
-  - US Government Accountability Office
+  - us-government-accountability-office
   - US Trade and Development Agency
-  - United States Census Bureau
+  - united-states-census-bureau
   - united-states-department-of-health-and-human-services
 ---
 

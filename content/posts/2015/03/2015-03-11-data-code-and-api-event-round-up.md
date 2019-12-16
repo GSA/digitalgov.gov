@@ -22,9 +22,9 @@ topics:
   - mobile-gov-community-of-practice
   - open-and-structured-content-models
   - open-data
-  - Recaps
+  - recaps
   - responsive-web-design
-  - US Department of State
+  - us-department-of-state
   - white-house
 ---
 

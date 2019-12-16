@@ -11,7 +11,7 @@ topics:
   - NORAD
   - North American Defense Command
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - thursday-mobile-products
 ---
 

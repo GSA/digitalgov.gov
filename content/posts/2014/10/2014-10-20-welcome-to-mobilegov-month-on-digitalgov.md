@@ -20,7 +20,7 @@ topics:
   - native-app
   - open-and-structured-content-models
   - responsive-web-design
-  - United States Department of Energy
+  - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
 ---
 

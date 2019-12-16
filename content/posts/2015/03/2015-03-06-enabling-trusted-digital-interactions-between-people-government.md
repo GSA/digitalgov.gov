@@ -10,14 +10,14 @@ topics:
   - product-management
   - cloud
   - connect-gov
-  - GSA
-  - National Institute of Standards and Technology
+  - gsa
+  - national-institute-of-standards-and-technology
   - NIST
   - privacy
   - security
   - US Department of Agriculture
-  - US Department of State
-  - US Department of Veterans Affairs
+  - us-department-of-state
+  - us-department-of-veterans-affairs
   - USDA
   - VA
 ---

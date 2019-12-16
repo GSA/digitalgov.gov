@@ -10,7 +10,7 @@ topics:
   - mobile-apps
   - native-app
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - thursday-mobile-products
   - US Department of Agriculture
   - USDA

@@ -11,11 +11,11 @@ topics:
   - data-gov
   - DOL
   - open-data
-  - Recaps
+  - recaps
   - socialgov-community
-  - US Department of Labor
-  - US Department of State
-  - World Bank
+  - us-department-of-labor
+  - us-department-of-state
+  - world-bank
 ---
 
 {{< legacy-img src="2014/08/600-x-180-SocialGov-Open-Data-White-House-EEOB-Summit-Aug-7th-2014.jpg" alt="SocialGov Open Data White House EEOB Summit, Aug 7th 2014" >}}

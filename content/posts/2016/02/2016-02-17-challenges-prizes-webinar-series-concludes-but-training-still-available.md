@@ -12,11 +12,11 @@ topics:
   - HHS
   - HUD
   - nasa
-  - Recaps
+  - recaps
   - us-agency-for-international-development
-  - United States Department of Energy
+  - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
-  - United States Department of Housing and Urban Development
+  - united-states-department-of-housing-and-urban-development
   - usaid
 ---
 

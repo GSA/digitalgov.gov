@@ -11,11 +11,11 @@ topics:
   - mobile
   - strategy
   - policy
-  - best practices
+  - best-practices
   - infrastructure
-  - Internet of things
+  - internet-of-things
   - IoT
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - NIST
   - security
 ---

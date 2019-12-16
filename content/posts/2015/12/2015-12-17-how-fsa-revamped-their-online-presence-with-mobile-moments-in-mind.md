@@ -9,13 +9,13 @@ topics:
   - mobile
   - ux
   - FAFSA
-  - Federal Student Aid
+  - federal-student-aid
   - mobile
   - mobile-testing
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-4
   - mobile-ux-guideline-5
-  - Recaps
+  - recaps
 ---
 
 Let the mic drop!

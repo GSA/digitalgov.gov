@@ -13,7 +13,7 @@ topics:
   - DigitalGov Summit
   - Federal Trade Commission
   - FTC
-  - Internet of things
+  - internet-of-things
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-6
   - Privacy Impact Assessment

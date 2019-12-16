@@ -13,7 +13,7 @@ topics:
   - data
   - 18f
   - FEC
-  - Federal Election Commission
+  - federal-election-commission
   - open-data
 ---
 

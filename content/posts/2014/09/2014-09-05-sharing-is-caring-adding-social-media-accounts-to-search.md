@@ -9,7 +9,7 @@ topics:
   - content
   - social-media
   - digitalgov-search
-  - Federal Register
+  - federal-register
   - instagram
   - National Library of Medicine
   - social-media

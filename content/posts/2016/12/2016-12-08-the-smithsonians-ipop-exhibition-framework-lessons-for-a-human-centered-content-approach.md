@@ -13,7 +13,7 @@ topics:
   - apps
   - augmented-reality
   - mobile-apps
-  - Smithsonian Institution
+  - smithsonian-institution
   - user-experience
   - ux
   - virtual-augmented-reality-community

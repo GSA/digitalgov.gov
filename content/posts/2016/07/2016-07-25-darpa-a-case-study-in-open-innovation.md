@@ -15,14 +15,14 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - DARPA
-  - Defense Advanced Research Projects Agency
+  - defense-advanced-research-projects-agency
   - DoD
   - innovation
   - open-government
   - prizes-and-competitions
-  - Technology Transformation Service
-  - TTS
-  - United States Department of Defense
+  - technology-transformation-services
+  - tts
+  - united-states-department-of-defense
 ---
 
 You may not know it, but the Defense Advanced Research Projects Agency, or DARPA, has changed your life.

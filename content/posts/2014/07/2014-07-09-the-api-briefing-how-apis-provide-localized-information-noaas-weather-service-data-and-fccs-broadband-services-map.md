@@ -11,13 +11,13 @@ topics:
   - Census
   - FCC
   - fda
-  - Federal Communications Commission
+  - federal-communications-commission
   - GPS
   - mobile-apps
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - us-food-and-drug-administration
-  - United States Census Bureau
+  - united-states-census-bureau
 ---
 
 The two featured APIs this week are excellent demonstrations of personalizing federal government data by where a user lives. Federal agencies collect a considerable amount of community data, from the Census Bureau’s surveys to the FDA’s local agricultural conditions. Thanks to GPS, app developers can locate a user’s immediate geographical location and tailor information based on the latitude and longitude coordinates.

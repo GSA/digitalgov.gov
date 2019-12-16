@@ -11,7 +11,7 @@ topics:
   - data-gov
   - open-government
   - open-source
-  - Terms of Service
+  - terms-of-service
 ---
 
 {{< legacy-img src="2014/09/600-x-450-Business-concept-Folder-With-Padlock-on-digital-background-maxkabakov-iStock-Thinkstock-467665039.jpg" alt="Business concept: Folder With Padlock on digital background" caption="" >}} 

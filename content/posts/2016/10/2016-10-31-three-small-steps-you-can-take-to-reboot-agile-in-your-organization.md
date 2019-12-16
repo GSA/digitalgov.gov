@@ -13,9 +13,9 @@ topics:
   - user-testing-and-research
   - 18f
   - agile
-  - best practices
+  - best-practices
   - Commerce
-  - Department of Commerce
+  - department-of-commerce
   - kanban
   - lean
   - National Technical Information Service

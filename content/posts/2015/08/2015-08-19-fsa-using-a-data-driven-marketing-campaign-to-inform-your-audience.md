@@ -8,8 +8,8 @@ authors:
 topics:
   - social-media
   - FAFSA
-  - Federal Student Aid
-  - US Department of Education
+  - federal-student-aid
+  - us-department-of-education
   - YouTube
 ---
 

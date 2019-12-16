@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - writing
-  - DGU
+  - digitalgov-university
   - plain-language
   - social-media
 ---

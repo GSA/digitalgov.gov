@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - product-management
-  - Department of Commerce
+  - department-of-commerce
   - dhs
   - DoD
   - DOE
@@ -17,13 +17,13 @@ topics:
   - DOT
   - epa
   - FCC
-  - Federal Communications Commission
-  - GSA
+  - federal-communications-commission
+  - gsa
   - HHS
   - HUD
   - NARA
   - nasa
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - national-science-foundation
   - NRC
   - nsf
@@ -31,25 +31,25 @@ topics:
   - OPM
   - SBA
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - us-agency-for-international-development
   - US Department of Agriculture
-  - US Department of Education
-  - US Department of Justice
-  - US Department of Labor
-  - US Department of State
-  - US Department of the Interior
-  - US Department of the Treasury
-  - US Department of Veterans Affairs
+  - us-department-of-education
+  - us-department-of-justice
+  - us-department-of-labor
+  - us-department-of-state
+  - us-department-of-the-interior
+  - us-department-of-the-treasury
+  - us-department-of-veterans-affairs
   - us-environmental-protection-agency
-  - US Small Business Administration
-  - United States Department of Defense
-  - United States Department of Energy
+  - us-small-business-administration
+  - united-states-department-of-defense
+  - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
   - united-states-department-of-homeland-security
-  - United States Department of Housing and Urban Development
-  - United States Department of Transportation
-  - United States Office of Personnel Management
+  - united-states-department-of-housing-and-urban-development
+  - united-states-department-of-transportation
+  - united-states-office-of-personnel-management
   - usaid
   - USDA
   - VA

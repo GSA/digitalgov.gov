@@ -20,7 +20,7 @@ topics:
   - customer-service
   - cx
   - data
-  - Internet of things
+  - internet-of-things
   - security
   - the-data-briefing
   - user-experience

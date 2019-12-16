@@ -9,7 +9,7 @@ topics:
   - content
   - monthly-theme
   - responsive-web-design
-  - US Department of Education
+  - us-department-of-education
   - web-content-managers-forum
 ---
 

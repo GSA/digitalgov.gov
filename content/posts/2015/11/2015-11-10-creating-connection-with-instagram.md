@@ -13,10 +13,10 @@ topics:
   - nih
   - transportation-security-administration
   - TSA
-  - US Department of the Interior
+  - us-department-of-the-interior
 ---
 
-{{< legacy-img src="2015/11/600-x-425-Vintage-old-camera-on-wooden-table-beerlogoff-iStock-Thinkstock-484377307.jpg" alt="Vintage camera in an orange case on wooden table" caption="" >}} 
+{{< legacy-img src="2015/11/600-x-425-Vintage-old-camera-on-wooden-table-beerlogoff-iStock-Thinkstock-484377307.jpg" alt="Vintage camera in an orange case on wooden table" caption="" >}}
 
 I’ve been thinking a lot about Instagram lately.
 
@@ -40,11 +40,11 @@ U.S. Interior posts beautiful, well-composed, high-quality photos and occasional
       <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
       </div>
     </div>
-    
+
     <p style=" margin:8px 0 0 0; padding:0 4px;">
       <a href="https://www.instagram.com/p/8RabG5gu25/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">One of the most beautiful and most photographed scenes in #GrandTeton #NationalPark in Wyoming is #SchwabacherLanding. On any given morning, a crowd will gather to shoot the reflection of the Teton Range in the quiet stream or beaver ponds. A few years ago, D. Brent Young was lucky enough to capture this amazing photo of a cow #moose feeding in the stream with fall color and the towering Teton peaks in the background. Photo of @grandtetonnps by D. Brent Young (www.sharetheexperience.org).</a>
     </p>
-    
+
     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
       A post shared by U.S. Department of the Interior (@usinterior) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-30T22:48:39+00:00">Sep 30, 2015 at 3:48pm PDT</time>
     </p>
@@ -61,11 +61,11 @@ TSA posts small, sometimes grainy, sometimes bland photos of the strange things 
       <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
       </div>
     </div>
-    
+
     <p style=" margin:8px 0 0 0; padding:0 4px;">
       <a href="https://www.instagram.com/p/7q9a8dl93n/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#TSAGoodCatch – These push daggers were discovered concealed underneath the insoles of a pair of shoes last week at the Port Columbus International Airport (CMH). Knives are always prohibited from carry-on property, and concealed knives can lead to arrest and fines.</a>
     </p>
-    
+
     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
       A post shared by TSA (@tsa) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-16T00:24:05+00:00">Sep 15, 2015 at 5:24pm PDT</time>
     </p>

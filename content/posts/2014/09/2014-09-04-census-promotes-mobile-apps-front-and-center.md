@@ -13,7 +13,7 @@ topics:
   - mobile-ux-guideline-5
   - social-media
   - thursday-mobile-products
-  - United States Census Bureau
+  - united-states-census-bureau
   - usa-gov-federal-mobile-apps-directory
 ---
 

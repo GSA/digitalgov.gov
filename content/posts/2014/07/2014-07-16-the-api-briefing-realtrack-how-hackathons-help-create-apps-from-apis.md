@@ -13,8 +13,8 @@ topics:
   - challenge-gov
   - mobile-apps
   - OPM
-  - Peace Corps
-  - United States Office of Personnel Management
+  - peace-corps
+  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

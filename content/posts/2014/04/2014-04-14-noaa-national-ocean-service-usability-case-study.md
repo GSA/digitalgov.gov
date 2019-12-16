@@ -11,7 +11,7 @@ topics:
   - ux
   - digitalgov-search
   - National Ocean Service
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - usability
   - usability-case-study

@@ -11,7 +11,7 @@ topics:
   - mobile-user-experience-guidelines
   - mobile-ux-guideline-5
   - trends-on-tuesday
-  - US Department of the Interior
+  - us-department-of-the-interior
 ---
 
 {{< legacy-img src="2014/11/600-x-450-Man-looking-at-cell-phone-Ron-Chapple-Stock-Ron-Chapple-Studios-Thinkstock-126472230.jpg" alt="Man looking at cell phone" caption="" >}} 

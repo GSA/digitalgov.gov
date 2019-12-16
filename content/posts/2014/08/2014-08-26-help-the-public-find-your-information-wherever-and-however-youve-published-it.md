@@ -15,7 +15,7 @@ topics:
   - CMS
   - content-management-system
   - digitalgov-search
-  - Federal Register
+  - federal-register
   - open-data
   - open-source
 ---

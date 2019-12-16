@@ -10,7 +10,7 @@ topics:
   - dhs
   - firstnet
   - the-content-corner
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - united-states-department-of-homeland-security
   - VA
 ---

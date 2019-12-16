@@ -10,7 +10,7 @@ topics:
   - National Library of Medicine
   - NLM
   - OPM
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

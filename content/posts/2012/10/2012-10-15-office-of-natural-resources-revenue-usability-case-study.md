@@ -13,7 +13,7 @@ topics:
   - ONRR
   - Tribal
   - Tribal Government
-  - US Department of the Interior
+  - us-department-of-the-interior
   - usability-case-study
   - usability-testing
   - user-experience

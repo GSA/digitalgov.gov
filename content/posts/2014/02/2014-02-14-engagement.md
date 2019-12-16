@@ -7,11 +7,11 @@ authors:
   - dorothy-amatucci
 topics:
   - social-media
-  - DGU
+  - digitalgov-university
   - facebook
   - social-media
   - Twitter
-  - US Fish and Wildlife Service
+  - us-fish-and-wildlife-service
 ---
 
 {{< legacy-img src="2015/02/600-x-293-social-media-registry-federal-engagement-word-cloud.jpg" alt="Social Media federal registry engagement word cloud" >}}

@@ -13,7 +13,7 @@ topics:
   - our-work
   - api
   - Census
-  - Department of Commerce
+  - department-of-commerce
   - digital-analytics-program
   - Government Publishing Office
   - GPO

@@ -11,7 +11,7 @@ authors:
 topics:
   - design
   - 18f
-  - US Digital Service
+  - us-digital-service
   - USDS
   - user-experience
 ---

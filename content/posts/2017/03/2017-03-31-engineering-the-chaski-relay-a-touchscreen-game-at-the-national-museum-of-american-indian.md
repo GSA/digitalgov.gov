@@ -13,7 +13,7 @@ topics:
   - content
   - gamification
   - NMAI
-  - Smithsonian Institution
+  - smithsonian-institution
   - Smithsonian National Museum of the American Indian
   - user-centered-design
   - user-experience

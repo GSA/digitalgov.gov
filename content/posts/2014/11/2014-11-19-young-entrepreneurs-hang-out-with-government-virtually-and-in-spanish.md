@@ -11,7 +11,7 @@ topics:
   - GobiernoUSAgov
   - multilingual
   - SBA
-  - US Small Business Administration
+  - us-small-business-administration
 ---
 
 {{< legacy-img src="2014/11/600-x-282-cropped-abierto-we-are-open-Neon-sign-Gualberto-Becerra-iStock-Thinkstock-106361586.jpg" alt="Neon sign that has spanish and English wording for We are open." caption="" >}} 

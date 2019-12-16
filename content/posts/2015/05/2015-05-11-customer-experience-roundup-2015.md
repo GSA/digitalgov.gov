@@ -12,7 +12,7 @@ topics:
   - cx
   - customer-satisfaction
   - Export-Import Bank of the United States
-  - National Cancer Institute
+  - national-cancer-institute
   - personas
 ---
 

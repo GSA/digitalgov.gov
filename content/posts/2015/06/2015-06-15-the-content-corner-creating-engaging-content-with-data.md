@@ -15,8 +15,8 @@ topics:
   - data
   - open-data
   - the-content-corner
-  - US Bureau of Labor Statistics
-  - United States Census Bureau
+  - us-bureau-of-labor-statistics
+  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2015/04/600-x-556-192579-users-analytics-usa-gov-tax-time.jpg" alt="A screen capture showing that there were 192,579 people visiting government websites at that moment." >}}

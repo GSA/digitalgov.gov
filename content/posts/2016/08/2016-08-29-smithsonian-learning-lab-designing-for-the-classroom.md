@@ -14,7 +14,7 @@ topics:
   - prototype
   - SCLDA
   - Smithsonian Center for Learning and Digital Access
-  - Smithsonian Institution
+  - smithsonian-institution
   - user-centered-design
   - user-experience
   - user research

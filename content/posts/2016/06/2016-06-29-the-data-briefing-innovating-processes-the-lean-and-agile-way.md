@@ -14,7 +14,7 @@ topics:
   - big-data
   - cloud
   - data
-  - Internet of things
+  - internet-of-things
   - lean
   - the-data-briefing
 ---

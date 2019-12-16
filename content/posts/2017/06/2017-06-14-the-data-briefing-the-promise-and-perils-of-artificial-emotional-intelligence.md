@@ -13,7 +13,7 @@ topics:
   - artificial-intelligence-for-citizen-services-community
   - chatbots
   - innovation
-  - Internet of things
+  - internet-of-things
   - IoT
   - mobile
 ---

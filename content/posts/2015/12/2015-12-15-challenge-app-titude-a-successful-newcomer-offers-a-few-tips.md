@@ -12,7 +12,7 @@ topics:
   - challenges-and-prize-competitions
   - data-gov
   - mobile-apps
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - NIST
 ---
 

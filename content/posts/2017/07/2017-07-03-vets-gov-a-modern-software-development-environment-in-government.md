@@ -16,8 +16,8 @@ topics:
   - GitHub
   - infrastructure
   - open-source
-  - US Department of Veterans Affairs
-  - US Digital Service
+  - us-department-of-veterans-affairs
+  - us-digital-service
   - USDS
   - user-centered-design
   - user-experience

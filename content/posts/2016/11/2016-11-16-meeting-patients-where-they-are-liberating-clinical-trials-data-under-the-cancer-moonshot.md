@@ -17,7 +17,7 @@ topics:
   - content
   - data
   - innovation
-  - National Cancer Institute
+  - national-cancer-institute
   - national-institutes-of-health
   - NCI
   - nih

@@ -13,11 +13,11 @@ topics:
   - cx
   - DigitalGov Summit
   - FCC
-  - Federal Communications Commission
-  - GSA
+  - federal-communications-commission
+  - gsa
   - OSTP
   - privacy
-  - US Department of State
+  - us-department-of-state
   - united-states-department-of-health-and-human-services
   - white-house-office-of-science-and-technology-policy
 ---

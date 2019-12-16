@@ -17,12 +17,12 @@ topics:
   - mobile-gov
   - mobile-ux-guideline-5
   - National Highway Traffic Safety Administration
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - socialgov-community
   - trends-on-tuesday
   - US Department of Agriculture
-  - US Forest Service
+  - us-forest-service
   - USDA
 ---
 

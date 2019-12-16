@@ -14,7 +14,7 @@ topics:
   - accessibility
   - SBA
   - section-508
-  - US Small Business Administration
+  - us-small-business-administration
   - usability
   - usagov
   - user-experience

@@ -15,12 +15,12 @@ topics:
   - mobile-ux-guideline-1
   - mobile-ux-guideline-5
   - nasa
-  - National Cancer Institute
+  - national-cancer-institute
   - NCI
   - open-and-structured-content-models
-  - Recaps
+  - recaps
   - SEC
-  - US Securities and Exchange Commission
+  - us-securities-and-exchange-commission
   - united-states-department-of-health-and-human-services
 ---
 

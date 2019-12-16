@@ -10,8 +10,8 @@ topics:
   - Census
   - challenge-gov
   - Commerce
-  - Department of Commerce
-  - United States Census Bureau
+  - department-of-commerce
+  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}

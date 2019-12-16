@@ -9,7 +9,7 @@ topics:
   - metrics
   - mobile
   - analytics
-  - best practices
+  - best-practices
   - dap
   - digital-analytics-program
   - metrics

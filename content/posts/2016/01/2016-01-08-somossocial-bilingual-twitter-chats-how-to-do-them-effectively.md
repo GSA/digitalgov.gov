@@ -9,7 +9,7 @@ topics:
   - social-media
   - multilingual
   - multilingual-community
-  - Recaps
+  - recaps
   - social-media
   - Twitter
   - usagov

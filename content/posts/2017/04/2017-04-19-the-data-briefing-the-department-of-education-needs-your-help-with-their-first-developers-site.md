@@ -12,7 +12,7 @@ topics:
   - data
   - Education
   - GitHub
-  - US Department of Education
+  - us-department-of-education
 ---
 
 The Department of Education (ED) launched its [first developer site](https://usedgov.github.io/). The developer site is built on GitHub which will make it easier for ED to centralize their code and Application Programming Interfaces (APIs). Currently, ten APIs are on the developer site:

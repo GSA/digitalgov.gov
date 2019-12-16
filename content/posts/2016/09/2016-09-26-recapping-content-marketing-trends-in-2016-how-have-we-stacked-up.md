@@ -20,11 +20,11 @@ topics:
   - mobile-friendly
   - multilingual
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - social-media
   - the-content-corner
-  - US Department of the Interior
-  - US Department of the Treasury
+  - us-department-of-the-interior
+  - us-department-of-the-treasury
   - US Health Resources and Services Administration
   - united-states-department-of-health-and-human-services
   - USAJOBS

@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - our-work
-  - Recaps
+  - recaps
   - us-agency-for-international-development
   - usaid
 ---

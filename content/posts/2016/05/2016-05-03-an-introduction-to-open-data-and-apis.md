@@ -14,7 +14,7 @@ topics:
   - api
   - data-gov
   - open-data
-  - Recaps
+  - recaps
   - US Department of Agriculture
   - USDA
 ---

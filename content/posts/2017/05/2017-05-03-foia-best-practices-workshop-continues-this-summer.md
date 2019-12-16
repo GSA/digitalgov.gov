@@ -12,11 +12,11 @@ topics:
   - policy
   - DOJ
   - FOIA
-  - Freedom of Information Act
-  - Office of Information Policy
+  - freedom-of-information-act
+  - office-of-information-policy
   - OIP
   - training
-  - US Department of Justice
+  - us-department-of-justice
 ---
 
 > _This post was originally published on the [U.S. Department of Justice Blog](https://www.justice.gov/blogs)._

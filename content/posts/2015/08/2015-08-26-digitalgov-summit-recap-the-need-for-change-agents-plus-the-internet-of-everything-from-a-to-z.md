@@ -9,9 +9,9 @@ topics:
   - our-work
   - DigitalGov Summit
   - FCC
-  - Federal Communications Commission
-  - Internet of things
-  - Recaps
+  - federal-communications-commission
+  - internet-of-things
+  - recaps
 ---
 
 {{< legacy-img src="2015/08/600-x-337-Dr-David-Bray-CIO-FCC-2015-DG-Summit-IoT-A-to-Z-Open-Source-slide.jpg" alt="A slide from Dr. David Bray's DigitalGov's 2015 Citizen Services Summit presentation, Going Exponential: Public Service and the Internet of Everything in 15 Minutes or Less." >}}

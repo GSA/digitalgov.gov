@@ -15,7 +15,7 @@ topics:
   - US Department of Agriculture
   - united-states-department-of-health-and-human-services
   - united-states-department-of-homeland-security
-  - United States Department of Housing and Urban Development
+  - united-states-department-of-housing-and-urban-development
   - USDA
 ---
 

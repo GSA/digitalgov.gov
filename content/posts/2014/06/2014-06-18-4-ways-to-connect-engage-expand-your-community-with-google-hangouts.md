@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - nasa
-  - Peace Corps
+  - peace-corps
   - YouTube
 ---
 

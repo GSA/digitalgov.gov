@@ -15,12 +15,12 @@ topics:
   - audio-video
   - content
   - content-strategy
-  - DGU
+  - digitalgov-university
   - digital-audio-video-community
   - digitalgov-university
   - metrics
   - mobile
-  - Recaps
+  - recaps
   - user-generated-content
   - video
   - virtual-reality

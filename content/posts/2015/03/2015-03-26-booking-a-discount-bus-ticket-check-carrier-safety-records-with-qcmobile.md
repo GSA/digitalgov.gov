@@ -11,7 +11,7 @@ topics:
   - mobile
   - mobile-apps
   - thursday-mobile-products
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - usa-gov-federal-mobile-apps-directory
 ---
 

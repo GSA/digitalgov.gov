@@ -20,17 +20,17 @@ topics:
   - IMLS
   - Institute of Museum and Library Services
   - nasa
-  - National Day of Civic Hacking
+  - national-day-of-civic-hacking
   - national-institutes-of-health
   - national-science-foundation
   - nih
   - nsf
-  - Peace Corps
+  - peace-corps
   - SBA
   - us-agency-for-international-development
-  - United States Census Bureau
+  - united-states-census-bureau
   - united-states-department-of-health-and-human-services
-  - United States Department of Housing and Urban Development
+  - united-states-department-of-housing-and-urban-development
   - usaid
 ---
 

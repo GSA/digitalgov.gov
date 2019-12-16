@@ -12,7 +12,7 @@ topics:
   - nasa
   - OSTP
   - us-agency-for-international-development
-  - United States Department of Housing and Urban Development
+  - united-states-department-of-housing-and-urban-development
   - usaid
   - white-house-office-of-science-and-technology-policy
 ---

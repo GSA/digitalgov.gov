@@ -9,7 +9,7 @@ topics:
   - api
   - content-management-system
   - DOJ
-  - US Department of Justice
+  - us-department-of-justice
   - wednesday-api-briefing
 ---
 

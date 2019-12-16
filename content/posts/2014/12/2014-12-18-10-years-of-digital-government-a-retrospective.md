@@ -18,13 +18,13 @@ topics:
   - HHS
   - NARA
   - nasa
-  - National Archives and Records Administration
-  - National Oceanic and Atmospheric Administration
+  - national-archives-and-records-administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - Office of Management and Budget
   - OMB
   - SBA
-  - US Small Business Administration
+  - us-small-business-administration
   - united-states-department-of-health-and-human-services
   - United States Geological Survey
   - USGS

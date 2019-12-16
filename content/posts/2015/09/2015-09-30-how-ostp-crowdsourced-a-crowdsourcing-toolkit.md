@@ -17,12 +17,12 @@ topics:
   - digital-analytics-program
   - digitalgov-search
   - FCPCCS
-  - Open Opportunities program
+  - open-opportunities-program
   - OSTP
   - section-508
   - sites
   - sitesusagov
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
   - white-house-office-of-science-and-technology-policy
 ---

@@ -10,7 +10,7 @@ topics:
   - code
   - 18f
   - GitHub
-  - GSA
+  - gsa
   - RFP
 ---
 

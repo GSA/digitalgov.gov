@@ -13,7 +13,7 @@ topics:
   - ux
   - 18f
   - accessibility
-  - DGU
+  - digitalgov-university
   - digitalgov-university
   - nasa
   - National Aeronautics and Space Administration

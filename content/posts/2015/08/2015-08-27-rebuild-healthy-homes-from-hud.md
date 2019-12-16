@@ -12,7 +12,7 @@ topics:
   - mobile
   - native-app
   - thursday-mobile-products
-  - United States Department of Housing and Urban Development
+  - united-states-department-of-housing-and-urban-development
 ---
 
 {{< legacy-img src="2015/08/250-x-444-HUD-Rebuild-Healthy-Homes-app-Home-screen.jpg" alt="HUD Rebuild Healthy Homes app Home screen" >}}We all know it is virtually impossible to prevent natural phenomena such as hurricanes, volcanic eruptions, floods, tornadoes, earthquakes, tsunamis etc., and we cannot easily avoid these inevitable geological and climatic incidences, as they are typically unpredictable and occur swiftly.

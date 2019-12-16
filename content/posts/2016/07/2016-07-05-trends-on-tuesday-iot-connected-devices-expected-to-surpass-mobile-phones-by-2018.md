@@ -7,7 +7,7 @@ authors:
   - wsullivan
 topics:
   - mobile
-  - Internet of things
+  - internet-of-things
   - mobile
   - trends-on-tuesday
 ---

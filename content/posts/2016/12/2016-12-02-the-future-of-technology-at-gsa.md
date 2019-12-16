@@ -10,11 +10,11 @@ topics:
   - strategy
   - policy
   - 18f
-  - GSA
+  - gsa
   - innovation
-  - Technology Transformation Service
-  - TTS
-  - US General Services Administration
+  - technology-transformation-services
+  - tts
+  - us-general-services-administration
   - USDS
 ---
 

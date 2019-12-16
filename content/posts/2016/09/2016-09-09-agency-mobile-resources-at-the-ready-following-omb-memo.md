@@ -13,14 +13,14 @@ topics:
   - policy
   - FAS
   - Federal Acquisition Service
-  - GSA
+  - gsa
   - infrastructure
   - innovation
   - mobile
   - mobile-gov
   - Office of Management and Budget
   - OMB
-  - US General Services Administration
+  - us-general-services-administration
   - wireless
 ---
 

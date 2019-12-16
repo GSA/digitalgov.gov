@@ -12,7 +12,7 @@ topics:
   - mobile
   - mobile-first
   - national-gallery-of-art
-  - Smithsonian Institution
+  - smithsonian-institution
   - trends-on-tuesday
 ---
 

@@ -13,7 +13,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - innovation
   - nasa
-  - Recaps
+  - recaps
 ---
 
 {{< legacy-img src="2014/08/250-x-265-Checklist-PixelEmbargo-iStock-Thinkstock-164155765.jpg" alt="Checklist" caption="PixelEmbargo/iStock/Thinkstock" >}}

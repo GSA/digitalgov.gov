@@ -9,8 +9,8 @@ topics:
   - user-testing-and-research
   - ux
   - DoD
-  - United States Army
-  - United States Department of Defense
+  - united-states-army
+  - united-states-department-of-defense
   - usability
   - usability-case-study
   - usability-testing

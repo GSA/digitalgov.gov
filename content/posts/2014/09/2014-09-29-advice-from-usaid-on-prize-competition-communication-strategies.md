@@ -8,7 +8,7 @@ authors:
 topics:
   - challenges
   - challenges-and-prize-competitions
-  - Recaps
+  - recaps
   - us-agency-for-international-development
   - usaid
 ---

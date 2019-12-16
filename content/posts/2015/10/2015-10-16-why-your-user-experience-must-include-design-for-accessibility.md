@@ -10,7 +10,7 @@ topics:
   - ux
   - section-508
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - usability
   - user-experience
 ---

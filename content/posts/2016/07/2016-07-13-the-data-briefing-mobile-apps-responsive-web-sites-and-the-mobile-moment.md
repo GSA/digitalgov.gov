@@ -16,7 +16,7 @@ topics:
   - data
   - mobile
   - mobile-apps
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - native-app
   - native-apps
   - NOAA

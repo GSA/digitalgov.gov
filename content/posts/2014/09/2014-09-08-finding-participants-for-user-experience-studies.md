@@ -11,8 +11,8 @@ topics:
   - aoi
   - BLS
   - DOL
-  - US Bureau of Labor Statistics
-  - US Department of Labor
+  - us-bureau-of-labor-statistics
+  - us-department-of-labor
   - usability-testing
   - user-experience
 ---
