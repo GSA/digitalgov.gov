@@ -3,7 +3,6 @@ url: /resources/negotiated-terms-of-service-agreements/
 date: 2014-01-13 10:50:02 -0400
 uid: negotiated-terms-of-service-agreements
 title: 'Negotiated Terms of Service Agreements'
-type: guide
 guide: terms-of-service
 summary: 'The list of free tools that have federal-compatible terms of service agreements.'
 deck: 'A list of free tools that have federal-compatible terms of service agreements.'
