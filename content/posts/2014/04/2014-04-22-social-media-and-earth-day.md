@@ -12,7 +12,7 @@ topics:
   - social-media
   - epa
   - facebook
-  - GSA
+  - gsa
   - instagram
   - nasa
   - national-institutes-of-health
@@ -21,8 +21,8 @@ topics:
   - nih
   - NOAA
   - nsf
-  - Office of Naval Research
-  - Peace Corps
+  - office-of-naval-research
+  - peace-corps
   - Twitter
   - VHA
 ---

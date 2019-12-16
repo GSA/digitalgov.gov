@@ -12,7 +12,7 @@ topics:
   - OPM
   - us-environmental-protection-agency
   - United States Geological Survey
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - USGS
   - wednesday-api-briefing
 ---

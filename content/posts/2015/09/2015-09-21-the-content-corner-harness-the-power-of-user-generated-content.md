@@ -11,7 +11,7 @@ topics:
   - BLM
   - instagram
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - social-media
   - The Bureau of Land Management
   - the-content-corner

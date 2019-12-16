@@ -12,7 +12,7 @@ topics:
   - centers-for-disease-control-and-prevention
   - DOT
   - GobiernoUSAgov
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - usagov
 ---
 

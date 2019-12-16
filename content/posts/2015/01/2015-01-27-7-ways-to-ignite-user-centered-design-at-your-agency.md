@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - ux
   - DOE
-  - United States Department of Energy
+  - united-states-department-of-energy
   - user-centered-design
   - user-experience
   - ux

@@ -12,8 +12,8 @@ topics:
   - api
   - mobile-gov
   - open-source
-  - SocialGov
-  - Terms of Service
+  - socialgov
+  - terms-of-service
   - us-digital-registry
 ---
 

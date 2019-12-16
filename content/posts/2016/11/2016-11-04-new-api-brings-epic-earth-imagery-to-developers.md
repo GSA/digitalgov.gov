@@ -15,7 +15,7 @@ topics:
   - content
   - nasa
   - National Aeronautics and Space Administration
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - open
   - open-data

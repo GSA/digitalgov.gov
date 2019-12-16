@@ -13,7 +13,7 @@ topics:
   - customer-experience-community-of-practice
   - cx
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - personas
   - user-centered-design
 ---

@@ -15,7 +15,7 @@ topics:
   - policy
   - epa
   - fda
-  - Federal Register
+  - federal-register
   - OSTP
   - US Department of Agriculture
   - us-environmental-protection-agency

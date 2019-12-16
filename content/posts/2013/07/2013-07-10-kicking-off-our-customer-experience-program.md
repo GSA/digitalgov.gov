@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - cx
-  - GSA
+  - gsa
 ---
 
 <p dir="ltr" style="text-align: left;">

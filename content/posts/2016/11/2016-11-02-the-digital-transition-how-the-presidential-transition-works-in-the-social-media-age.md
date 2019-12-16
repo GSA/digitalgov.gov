@@ -23,7 +23,7 @@ topics:
   - Executive Office of the President
   - mobile
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - open-source
   - social-media
   - video

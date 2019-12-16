@@ -8,8 +8,8 @@ authors:
 topics:
   - ux
   - 18f
-  - GSA
-  - Recaps
+  - gsa
+  - recaps
   - ux
 ---
 

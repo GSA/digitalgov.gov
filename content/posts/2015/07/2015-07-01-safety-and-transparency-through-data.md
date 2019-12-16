@@ -13,7 +13,7 @@ topics:
   - 'Occupational Safety and Health Administration'
   - open-data
   - OSHA
-  - US Department of Labor
+  - us-department-of-labor
 ---
 
 {{< legacy-img src="2015/06/400-x-317-pulsifer-Safety-and-Transparency-Through-Data-Quarry-API-Labor-DOL.jpg" alt="The Department of Labor's Quarry API seen on the screens of various devices" >}}

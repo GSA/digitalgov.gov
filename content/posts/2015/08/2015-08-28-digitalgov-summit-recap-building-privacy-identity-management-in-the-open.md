@@ -9,10 +9,10 @@ topics:
   - our-work
   - DigitalGov Summit
   - DOT
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - NIST
-  - Recaps
-  - United States Department of Transportation
+  - recaps
+  - united-states-department-of-transportation
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Cyber-Attack-A01-Matej-Moderc-iStock-Thinkstock-479801072.jpg" alt="Data and identity security concept of cyber attack warning messages on a computer screen." caption="" >}} 

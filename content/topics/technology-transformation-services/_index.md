@@ -1,9 +1,9 @@
 ---
 # This topic lives at
-# https://digital.gov/topics/technology-transformation-service
+# https://digital.gov/topics/technology-transformation-services
 
 # Topic Title
-title: "Technology Transformation Service"
+title: "Technology Transformation Services"
 
 # description — keep it short and clear
 summary: ""

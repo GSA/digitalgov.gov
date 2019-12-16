@@ -10,7 +10,7 @@ topics:
   - Census
   - Defense Commissary Agency
   - Defense Logistics Agency
-  - Department of Commerce
+  - department-of-commerce
   - dhs
   - DOL
   - DOT
@@ -19,10 +19,10 @@ topics:
   - FCC
   - fda
   - Federal Aviation Administration
-  - Federal Communications Commission
+  - federal-communications-commission
   - First Responders Network
   - FWS
-  - GSA
+  - gsa
   - International Trade Administration
   - ITA
   - Library of Congress
@@ -42,24 +42,24 @@ topics:
   - OMB
   - open-government
   - OSTP
-  - Peace Corps
+  - peace-corps
   - SBA
-  - Smithsonian Institution
-  - US Coast Guard
-  - US Department of Education
-  - US Department of Labor
-  - US Department of State
+  - smithsonian-institution
+  - us-coast-guard
+  - us-department-of-education
+  - us-department-of-labor
+  - us-department-of-state
   - us-environmental-protection-agency
   - us-food-and-drug-administration
   - US Global Change Research Program
-  - US National Park Service
-  - US Small Business Administration
-  - United States Army
-  - United States Census Bureau
+  - us-national-park-service
+  - us-small-business-administration
+  - united-states-army
+  - united-states-census-bureau
   - united-states-department-of-homeland-security
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - United States Geological Survey
-  - US Fish and Wildlife Service
+  - us-fish-and-wildlife-service
   - USGS
   - white-house-office-of-science-and-technology-policy
 ---

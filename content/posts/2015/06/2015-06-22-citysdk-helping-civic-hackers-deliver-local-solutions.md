@@ -12,9 +12,9 @@ topics:
   - Census
   - data
   - json
-  - National Day of Civic Hacking
+  - national-day-of-civic-hacking
   - open-data
-  - United States Census Bureau
+  - united-states-census-bureau
 ---
 
 Civic hackers are a special breed—their primary motivation is closely tied to the social issues closest to their hearts.

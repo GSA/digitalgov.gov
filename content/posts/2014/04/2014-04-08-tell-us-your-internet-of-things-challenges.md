@@ -10,7 +10,7 @@ topics:
   - mobile
   - social-media
   - Federal Trade Commission
-  - Internet of things
+  - internet-of-things
 ---
 
 

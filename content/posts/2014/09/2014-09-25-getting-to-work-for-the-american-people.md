@@ -12,13 +12,13 @@ topics:
   - DOI
   - DOJ
   - FEC
-  - Federal Election Commission
+  - federal-election-commission
   - open-government
-  - Peace Corps
+  - peace-corps
   - US Citizenship and Immigration Service
-  - US Department of Justice
-  - US Department of the Interior
-  - US Department of the Treasury
+  - us-department-of-justice
+  - us-department-of-the-interior
+  - us-department-of-the-treasury
   - USCIS
 ---
 

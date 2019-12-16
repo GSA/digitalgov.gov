@@ -12,11 +12,11 @@ topics:
   - monthly-theme
   - content-models
   - content-strategy
-  - DGU
+  - digitalgov-university
   - HHS
   - metadata
   - mobile-ux-guideline-1
-  - National Cancer Institute
+  - national-cancer-institute
   - NCI
   - open-and-structured-content-models
   - united-states-department-of-health-and-human-services

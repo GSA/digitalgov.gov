@@ -10,7 +10,7 @@ topics:
   - design
   - product-management
   - ux
-  - Recaps
+  - recaps
   - uswds
 ---
 

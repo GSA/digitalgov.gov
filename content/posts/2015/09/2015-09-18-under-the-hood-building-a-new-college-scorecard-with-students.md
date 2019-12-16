@@ -14,8 +14,8 @@ topics:
   - data
   - open-data
   - prototype
-  - US Department of Education
-  - US Digital Service
+  - us-department-of-education
+  - us-digital-service
   - user-experience
 ---
 

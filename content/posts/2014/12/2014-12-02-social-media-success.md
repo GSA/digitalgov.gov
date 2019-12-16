@@ -13,7 +13,7 @@ topics:
   - National Resources Conservation Service
   - Twitter
   - US Department of Agriculture
-  - US Department of the Interior
+  - us-department-of-the-interior
   - USDA
   - YouTube
 ---

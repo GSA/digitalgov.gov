@@ -11,9 +11,9 @@ topics:
   - mobile-apps
   - native-app
   - native-apps
-  - Smithsonian Institution
+  - smithsonian-institution
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - thursday-mobile-products
 ---
 

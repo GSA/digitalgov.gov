@@ -12,7 +12,7 @@ topics:
   - ios
   - mobile-apps
   - nasa
-  - Smithsonian Institution
+  - smithsonian-institution
   - thursday-mobile-products
 ---
 

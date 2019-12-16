@@ -10,20 +10,20 @@ topics:
   - abmc
   - american-battle-monuments-commission
   - bbg
-  - Broadcasting Board of Governors
+  - broadcasting-board-of-governors
   - ICE
   - mobile
   - mobile-apps
   - mobile-ux-guideline-1
   - mobile-ux-guideline-2
   - mobile-ux-guideline-5
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - native-apps
   - NOAA
-  - US Immigration and Customs Enforcement
+  - us-immigration-and-customs-enforcement
 ---
 
-{{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}}
 
 Mobile. It’s here, and [it’s here to stay]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}})!
 

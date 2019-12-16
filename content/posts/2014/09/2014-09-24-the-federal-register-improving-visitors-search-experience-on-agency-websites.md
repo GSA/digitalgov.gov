@@ -11,14 +11,14 @@ topics:
   - our-work
   - api
   - digitalgov-search
-  - Federal Register
+  - federal-register
   - instagram
   - NLM
   - 'Occupational Safety and Health Administration'
   - OSHA
   - SEC
   - Twitter
-  - US Securities and Exchange Commission
+  - us-securities-and-exchange-commission
   - YouTube
 ---
 

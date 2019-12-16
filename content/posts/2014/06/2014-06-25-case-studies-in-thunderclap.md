@@ -10,7 +10,7 @@ topics:
   - epa
   - fda
   - HHS
-  - Recaps
+  - recaps
   - socialgov-community
   - us-environmental-protection-agency
   - us-food-and-drug-administration

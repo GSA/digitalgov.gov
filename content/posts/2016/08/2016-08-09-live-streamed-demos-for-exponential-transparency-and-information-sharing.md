@@ -15,7 +15,7 @@ topics:
   - 18f
   - audio
   - audio-video
-  - DGU
+  - digitalgov-university
   - digital-audio-video-community
   - digitalgov-university
   - epa

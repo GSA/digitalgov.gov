@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - mobile-apps
-  - Smithsonian Institution
+  - smithsonian-institution
   - thursday-mobile-products
 ---
 

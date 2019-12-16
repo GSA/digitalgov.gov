@@ -17,11 +17,11 @@ topics:
   - cloud-gov
   - data
   - data-act
-  - Digital Accountability and Transparency Act
+  - digital-accountability-and-transparency-act
   - FAS
   - Federal Acquisition Service
   - fedramp
-  - GSA
+  - gsa
   - HHS
   - innovation
   - OCSIT
@@ -30,9 +30,9 @@ topics:
   - OPP
   - summit
   - Technology Industry Day
-  - TTS
-  - US Department of the Treasury
-  - US General Services Administration
+  - tts
+  - us-department-of-the-treasury
+  - us-general-services-administration
   - united-states-department-of-health-and-human-services
 ---
 

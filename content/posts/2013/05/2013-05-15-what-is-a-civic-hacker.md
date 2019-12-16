@@ -8,7 +8,7 @@ authors:
 topics:
   - code
   - product-management
-  - National Day of Civic Hacking
+  - national-day-of-civic-hacking
 ---
 
 <p dir="ltr">

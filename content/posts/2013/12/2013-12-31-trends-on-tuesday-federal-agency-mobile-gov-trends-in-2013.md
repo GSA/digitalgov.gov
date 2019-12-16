@@ -11,7 +11,7 @@ topics:
   - cdc
   - Census
   - content-models
-  - Department of Commerce
+  - department-of-commerce
   - epa
   - fema
   - HUD
@@ -22,11 +22,11 @@ topics:
   - NOAA
   - responsive-web-design
   - trends-on-tuesday
-  - US Coast Guard
-  - US Department of State
-  - US National Park Service
-  - United States Department of Energy
-  - United States Department of Housing and Urban Development
+  - us-coast-guard
+  - us-department-of-state
+  - us-national-park-service
+  - united-states-department-of-energy
+  - united-states-department-of-housing-and-urban-development
   - user-experience
   - ux
 ---

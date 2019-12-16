@@ -13,7 +13,7 @@ topics:
   - mobile-ux-guideline-5
   - nasa
   - OPM
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

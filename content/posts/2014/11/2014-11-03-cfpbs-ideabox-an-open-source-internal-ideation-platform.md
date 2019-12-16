@@ -13,7 +13,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - Consumer Financial Protection Bureau
   - innovation
-  - Recaps
+  - recaps
 ---
 
 IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.

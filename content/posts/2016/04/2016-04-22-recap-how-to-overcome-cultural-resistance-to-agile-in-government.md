@@ -11,10 +11,10 @@ topics:
   - agile
   - agile-lean-community-of-practice
   - Census
-  - DGU
   - digitalgov-university
-  - Recaps
-  - United States Census Bureau
+  - digitalgov-university
+  - recaps
+  - united-states-census-bureau
   - United States Patent and Trademark Office
   - USPTO
 ---

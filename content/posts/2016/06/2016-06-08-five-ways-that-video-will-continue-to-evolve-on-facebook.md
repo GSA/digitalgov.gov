@@ -11,7 +11,7 @@ topics:
   - social-media
   - video
   - bbg
-  - Broadcasting Board of Governors
+  - broadcasting-board-of-governors
   - content
   - social-media
 ---

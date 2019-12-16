@@ -9,7 +9,7 @@ topics:
   - metrics
   - social-media
   - a-b-testing
-  - Peace Corps
+  - peace-corps
   - social-media
   - social-media-metrics
 ---

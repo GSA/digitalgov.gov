@@ -10,7 +10,7 @@ topics:
   - api
   - data
   - open-data
-  - United States Department of Energy
+  - united-states-department-of-energy
   - wednesday-api-briefing
 ---
 

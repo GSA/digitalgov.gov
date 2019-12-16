@@ -11,8 +11,8 @@ topics:
   - Federal Railroad Administration
   - ICE
   - thursday-mobile-products
-  - US Immigration and Customs Enforcement
-  - United States Department of Transportation
+  - us-immigration-and-customs-enforcement
+  - united-states-department-of-transportation
   - usa-gov-federal-mobile-apps-directory
 ---
 

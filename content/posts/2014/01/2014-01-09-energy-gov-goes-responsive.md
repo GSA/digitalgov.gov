@@ -9,7 +9,7 @@ topics:
   - mobile-first
   - responsive-web-design
   - thursday-mobile-products
-  - United States Department of Energy
+  - united-states-department-of-energy
 ---
 
 {{< legacy-img src="2014/01/EnergyGovscreenshot.jpg" alt="The newly redesigned Energy.gov website uses responsive design features that offer any smartphone, tablet or desktop user an optimal online experience." >}}

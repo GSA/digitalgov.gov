@@ -14,10 +14,10 @@ topics:
   - agile
   - cloud
   - content
-  - GSA
+  - gsa
   - IT Schedule 70
   - plain-language
-  - US General Services Administration
+  - us-general-services-administration
   - user-experience
 ---
 

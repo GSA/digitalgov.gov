@@ -13,10 +13,10 @@ topics:
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-4
   - NPS
-  - Open Opportunities program
+  - open-opportunities-program
   - open-source
-  - US Department of Labor
-  - US National Park Service
+  - us-department-of-labor
+  - us-national-park-service
 ---
 
 {{< legacy-img src="2014/09/600-x-418-Mobile-phone-and-gears-Application-development-concept-alex-mit-iStock-Thinkstock-453629635.jpg" alt="Mobile phone and gears; application development concept" caption="" >}} 

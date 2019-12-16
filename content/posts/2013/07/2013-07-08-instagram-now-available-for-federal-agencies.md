@@ -8,10 +8,10 @@ authors:
 topics:
   - product-management
   - social-media
-  - GSA
+  - gsa
   - instagram
-  - SocialGov
-  - Terms of Service
+  - socialgov
+  - terms-of-service
   - white-house
 ---
 

@@ -17,7 +17,7 @@ topics:
   - mobile-apps
   - NPS
   - social-media
-  - US National Park Service
+  - us-national-park-service
   - user-experience
   - virtual-augmented-reality-community
 ---

@@ -11,7 +11,7 @@ topics:
   - HHS
   - national-institutes-of-health
   - nih
-  - Recaps
+  - recaps
   - social-media
   - us-food-and-drug-administration
   - united-states-department-of-health-and-human-services

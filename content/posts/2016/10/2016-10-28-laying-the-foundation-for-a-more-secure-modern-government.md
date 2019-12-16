@@ -11,11 +11,11 @@ topics:
   - product-management
   - strategy
   - policy
-  - best practices
+  - best-practices
   - cloud
   - Cybersecurity National Action Plan
   - fact sheet
-  - GSA
+  - gsa
   - infrastructure
   - innovation
   - it-modernization-fund
@@ -26,7 +26,7 @@ topics:
   - OMB
   - privacy
   - security
-  - US General Services Administration
+  - us-general-services-administration
   - united-states-department-of-homeland-security
   - white-house
 ---

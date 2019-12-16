@@ -13,7 +13,7 @@ topics:
   - mobile-gov
   - responsive-web-design
   - thursday-mobile-products
-  - United States Department of Housing and Urban Development
+  - united-states-department-of-housing-and-urban-development
 ---
 
 [{{< legacy-img src="2013/08/HUD-Office-of-Inspector-General-450x300.jpg" alt="Department of Housing and Urban Development(HUD) has developed a responsive design website for the HUD Office of Inspector General." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/HUD-Office-of-Inspector-General.jpg)

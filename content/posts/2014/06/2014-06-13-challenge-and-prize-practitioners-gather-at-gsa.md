@@ -17,8 +17,8 @@ topics:
   - National Eye Institute
   - national-science-foundation
   - nsf
-  - Recaps
-  - United States Department of Housing and Urban Development
+  - recaps
+  - united-states-department-of-housing-and-urban-development
   - white-house-office-of-science-and-technology-policy
 ---
 

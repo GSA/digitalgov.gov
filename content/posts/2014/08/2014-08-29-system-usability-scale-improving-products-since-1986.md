@@ -11,7 +11,7 @@ topics:
   - ux
   - DigitalGov User Experience Program
   - OPM
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - usability-testing
 ---
 

@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - mobile-gov-community-of-practice
   - nih
-  - US Department of Labor
+  - us-department-of-labor
   - user-experience
   - ux
 ---

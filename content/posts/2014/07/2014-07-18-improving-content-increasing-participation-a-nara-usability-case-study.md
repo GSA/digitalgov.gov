@@ -14,8 +14,8 @@ topics:
   - Library of Congress
   - LOC
   - NARA
-  - National Archives and Records Administration
-  - Open Opportunities program
+  - national-archives-and-records-administration
+  - open-opportunities-program
   - top-tasks
 ---
 

@@ -11,10 +11,10 @@ topics:
   - DOT
   - National Highway Traffic Safety Administration
   - native-app
-  - Terms of Service
+  - terms-of-service
   - thursday-mobile-products
   - tos
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - Yelp
 ---
 

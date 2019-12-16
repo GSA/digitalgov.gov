@@ -39,11 +39,11 @@ topics:
   - customer-experience-community-of-practice
   - cx
   - dap
-  - DGU
+  - digitalgov-university
   - digital-analytics-program
   - digitalgov-university
   - fedramp
-  - GSA
+  - gsa
   - metrics
   - mobile-gov
   - nasa
@@ -52,14 +52,14 @@ topics:
   - Office of Citizen Services and Innovative Technology
   - 'Office of Products and Programs'
   - open-data
-  - Open Opportunities program
+  - open-opportunities-program
   - OPP
   - social-media
   - socialgov-community
-  - Technology Transformation Service
+  - technology-transformation-services
   - training
-  - TTS
-  - US General Services Administration
+  - tts
+  - us-general-services-administration
   - virtual-reality
   - virtual-augmented-reality-community
   - webinar

@@ -10,11 +10,11 @@ topics:
   - social-media
   - Federal Reserve Board
   - FRB
-  - GSA
+  - gsa
   - open-data
-  - Terms of Service
-  - US Department of State
-  - United States Department of Energy
+  - terms-of-service
+  - us-department-of-state
+  - united-states-department-of-energy
   - user-experience
 ---
 

@@ -18,7 +18,7 @@ topics:
   - fema
   - OPM
   - US Department of Agriculture
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - USDA
 ---
 

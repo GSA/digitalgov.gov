@@ -9,10 +9,10 @@ topics:
   - social-media
   - video
   - bbg
-  - Broadcasting Board of Governors
+  - broadcasting-board-of-governors
   - DOI
   - facebook
-  - US Department of the Interior
+  - us-department-of-the-interior
   - YouTube
 ---
 

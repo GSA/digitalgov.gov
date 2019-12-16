@@ -8,10 +8,10 @@ authors:
 topics:
   - code
   - Census
-  - National Day of Civic Hacking
+  - national-day-of-civic-hacking
   - SBA
-  - US Small Business Administration
-  - United States Census Bureau
+  - us-small-business-administration
+  - united-states-census-bureau
 ---
 
 _National Day of Civic Hacking on June 4th, D.C. Edition_

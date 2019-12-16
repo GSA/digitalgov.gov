@@ -13,7 +13,7 @@ topics:
   - DigitalGov User Experience Program
   - FAA
   - Federal Aviation Administration
-  - GSA
+  - gsa
   - personas
   - prototype
   - usability-testing

@@ -13,10 +13,10 @@ topics:
   - DigitalGov User Experience Program
   - epa
   - fda
-  - GSA
+  - gsa
   - plain-language
   - search-engine-optimization
-  - US Department of Labor
+  - us-department-of-labor
   - us-environmental-protection-agency
   - us-food-and-drug-administration
   - usability

@@ -22,10 +22,10 @@ topics:
   - multilingual-community
   - National Library of Medicine
   - SSA
-  - The United States Social Security Administration
-  - US Department of Justice
-  - United States Census Bureau
-  - United States Department of Housing and Urban Development
+  - the-united-states-social-security-administration
+  - us-department-of-justice
+  - united-states-census-bureau
+  - united-states-department-of-housing-and-urban-development
 ---
 
 {{< legacy-img src="2016/02/600-x-400-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Global internet communication, online messaging and translation concept" caption="" >}}

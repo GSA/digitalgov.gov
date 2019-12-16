@@ -10,7 +10,7 @@ topics:
   - cx
   - Ex-Im Bank
   - Export-Import Bank of the United States
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
 ---
 

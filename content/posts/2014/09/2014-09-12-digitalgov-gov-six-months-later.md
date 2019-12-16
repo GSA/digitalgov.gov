@@ -15,7 +15,7 @@ topics:
   - policy
   - analytics
   - content-strategy
-  - GSA
+  - gsa
   - open-source
   - responsive-web-design
   - sitesusagov

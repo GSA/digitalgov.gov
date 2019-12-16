@@ -11,10 +11,10 @@ topics:
   - social-media
   - aoi
   - api
-  - National Archives and Records Administration
-  - SocialGov
+  - national-archives-and-records-administration
+  - socialgov
   - socialgov-community
-  - US Coast Guard
+  - us-coast-guard
 ---
 
 <p style="text-align: center">

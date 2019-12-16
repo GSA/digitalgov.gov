@@ -12,7 +12,7 @@ topics:
   - DOE
   - innovation
   - open-data
-  - United States Department of Energy
+  - united-states-department-of-energy
 ---
 
 Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people.

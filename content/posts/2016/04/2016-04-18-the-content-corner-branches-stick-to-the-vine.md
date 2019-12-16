@@ -13,10 +13,10 @@ topics:
   - National Weather Service
   - NWS
   - social-media
-  - SocialGov
+  - socialgov
   - the-content-corner
-  - US Digital Service
-  - United States Department of Energy
+  - us-digital-service
+  - united-states-department-of-energy
   - USDS
   - user-experience
   - ux

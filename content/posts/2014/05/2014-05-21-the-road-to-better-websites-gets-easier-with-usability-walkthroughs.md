@@ -9,7 +9,7 @@ topics:
   - user-testing-and-research
   - ux
   - DigitalGov User Experience Program
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - usability-testing
   - user-experience

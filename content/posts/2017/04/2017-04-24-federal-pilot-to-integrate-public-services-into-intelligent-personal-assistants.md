@@ -14,12 +14,12 @@ topics:
   - artificial-intelligence
   - artificial-intelligence-for-citizen-services-community
   - communities
-  - GSA
+  - gsa
   - innovation
   - Office of Products and Programs
   - OPP
   - social-media
-  - SocialGov
+  - socialgov
   - socialgov-community
   - virtual-reality
   - virtual-augmented-reality-community

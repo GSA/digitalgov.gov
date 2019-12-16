@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - our-work
-  - DGU
+  - digitalgov-university
   - DigitalGov Summit
 ---
 

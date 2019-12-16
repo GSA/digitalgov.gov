@@ -14,7 +14,7 @@ topics:
   - mobile
   - mobile-testing
   - mobile-ux-guideline-4
-  - Recaps
+  - recaps
   - united-states-department-of-health-and-human-services
 ---
 

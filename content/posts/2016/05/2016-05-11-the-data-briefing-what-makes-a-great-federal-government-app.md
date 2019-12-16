@@ -22,8 +22,8 @@ topics:
   - State
   - the-data-briefing
   - US Department of Agriculture
-  - US Department of State
-  - United States Census Bureau
+  - us-department-of-state
+  - united-states-census-bureau
   - United States Patent and Trademark Office
   - usagov
   - USDA

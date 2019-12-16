@@ -7,9 +7,9 @@ authors:
   - jherman
 topics:
   - social-media
-  - DGU
+  - digitalgov-university
   - social-media
-  - SocialGov
+  - socialgov
 ---
 
 [<img class="alignright  wp-image-126922" alt="Screenshot of Hootsuite showing two Twitter streams" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Hootsuite-screenshot.jpg" width="409" height="238" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Hootsuite-screenshot.jpg)Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record.

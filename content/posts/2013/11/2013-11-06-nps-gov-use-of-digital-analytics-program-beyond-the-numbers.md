@@ -10,7 +10,7 @@ topics:
   - our-work
   - digital-analytics-program
   - NPS
-  - US Department of the Interior
+  - us-department-of-the-interior
 ---
 
 [{{< legacy-img src="2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/NPS-logo.jpg)The National Park Service website, [NPS.gov](http://www.nps.gov/), is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov receives nearly 50 million page views per month during the peak summer season, when visitors are planning their vacations.

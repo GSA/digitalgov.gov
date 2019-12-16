@@ -10,8 +10,8 @@ topics:
   - api
   - json
   - OPM
-  - US Department of Education
-  - United States Office of Personnel Management
+  - us-department-of-education
+  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

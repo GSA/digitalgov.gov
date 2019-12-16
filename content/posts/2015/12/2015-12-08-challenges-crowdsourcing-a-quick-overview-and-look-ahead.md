@@ -18,14 +18,14 @@ topics:
   - crowdsourcing
   - epa
   - FCPCCS
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - national-science-foundation
   - NIST
   - NPS
   - nsf
   - OSTP
   - us-environmental-protection-agency
-  - US National Park Service
+  - us-national-park-service
   - white-house-office-of-science-and-technology-policy
 ---
 

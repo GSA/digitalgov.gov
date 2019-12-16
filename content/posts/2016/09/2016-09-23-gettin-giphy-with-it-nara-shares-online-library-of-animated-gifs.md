@@ -13,11 +13,11 @@ topics:
   - social-media
   - content
   - NARA
-  - National Archives and Records Administration
-  - Smithsonian Institution
+  - national-archives-and-records-administration
+  - smithsonian-institution
   - Smithsonian Libraries
   - social-media
-  - Terms of Service
+  - terms-of-service
   - tos
 ---
 

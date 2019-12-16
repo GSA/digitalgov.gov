@@ -8,7 +8,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - mobile-apps
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory

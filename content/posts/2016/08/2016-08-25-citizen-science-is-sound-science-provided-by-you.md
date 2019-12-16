@@ -10,12 +10,12 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - FS
-  - US Forest Service
+  - us-forest-service
 ---
 
 Have you ever seen a cool bird in your backyard and wondered if there was some way to share what you saw with others? Better yet, have you thought about sharing your observations and having them used to help study and conserve those birds? These thoughts are an indicator that you might have the makings of a great <a href="http://www.esa.org/esa/wp-content/uploads/2015/09/Issue19.pdf" target="_blank">citizen scientist</a> ({{< legacy-img src="2016/08/application-pdf.png" alt="PDF icon" >}} PDF, 28 pgs, 3 MB)!
 
-The [Forest Service](http://www.fs.fed.us/) is engaged in a wide <a href="https://ccsinventory.wilsoncenter.org/" target="_blank">variety of citizen science projects</a> that encourage public involvement in natural and cultural resource science and conservation. Volunteers can contribute by forming research questions, collecting and analyzing data, or interpreting results. If you have a sense of wonder and discovery, citizen science may be for you. {{< legacy-img src="2016/08/600-x-450-Volunteers-walking-the-Olympic-National-Forest-in-Washington-to-monitor-coastal-martins\_credit\_Adventurers-and-Scientists-for-Conservation.jpg" alt="Volunteers walking the Olympic National Forest in Washington to monitor coastal martins." caption="" >}} 
+The [Forest Service](http://www.fs.fed.us/) is engaged in a wide <a href="https://ccsinventory.wilsoncenter.org/" target="_blank">variety of citizen science projects</a> that encourage public involvement in natural and cultural resource science and conservation. Volunteers can contribute by forming research questions, collecting and analyzing data, or interpreting results. If you have a sense of wonder and discovery, citizen science may be for you. {{< legacy-img src="2016/08/600-x-450-Volunteers-walking-the-Olympic-National-Forest-in-Washington-to-monitor-coastal-martins\_credit\_Adventurers-and-Scientists-for-Conservation.jpg" alt="Volunteers walking the Olympic National Forest in Washington to monitor coastal martins." caption="" >}}
 
 Citizen science can help in conservation and protecting natural resources in two ways: increasing scientific knowledge just like conventional research; and creating a conversation about scientific information and policy and to encourage public input and action.
 
@@ -23,7 +23,7 @@ Many scientific projects would be difficult to research without the help of volu
 
 Many organizations rely on the best available science in order to make management decisions. However, the best scientific information does not necessarily come from peer-reviewed scientific publications, rather it is the best scientific information available to answer the questions raised.
 
-Data integrity is achieved in the same way that it is in any research project, through standardized sampling procedures. Similar quality assurance and controls are used for both citizen science and conventional science and include training, collection of duplicate samples, and post-data collection analyses. {{< legacy-img src="2016/08/250-x-375-Volunteers-traversing-the-North-Cascades-Mountains-looking-to-track-butterflies\_credit\_National-Park-Service.jpg" alt="Volunteers traversing the North Cascades Mountains looking to track butterflies." caption="" >}} 
+Data integrity is achieved in the same way that it is in any research project, through standardized sampling procedures. Similar quality assurance and controls are used for both citizen science and conventional science and include training, collection of duplicate samples, and post-data collection analyses. {{< legacy-img src="2016/08/250-x-375-Volunteers-traversing-the-North-Cascades-Mountains-looking-to-track-butterflies\_credit\_National-Park-Service.jpg" alt="Volunteers traversing the North Cascades Mountains looking to track butterflies." caption="" >}}
 
 Your involvement matters.
 

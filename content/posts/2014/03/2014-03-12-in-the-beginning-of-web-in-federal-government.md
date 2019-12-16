@@ -20,11 +20,11 @@ topics:
   - HUD
   - NARA
   - nasa
-  - National Archives and Records Administration
-  - US Department of State
+  - national-archives-and-records-administration
+  - us-department-of-state
   - united-states-department-of-health-and-human-services
   - united-states-department-of-homeland-security
-  - United States Department of Housing and Urban Development
+  - united-states-department-of-housing-and-urban-development
   - usagov
   - web-content-managers-forum
 ---

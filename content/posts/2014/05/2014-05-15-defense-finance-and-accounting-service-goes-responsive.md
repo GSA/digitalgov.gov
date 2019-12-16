@@ -6,7 +6,7 @@ summary: 'Let&#8217;s face it: Some of us work to live. Some live to work. And a
 topics:
   - design
   - mobile
-  - Broadcasting Board of Governors
+  - broadcasting-board-of-governors
   - Defense Finance and Accounting Services
   - DFAS
   - DoD
@@ -17,10 +17,10 @@ topics:
   - mobile-ux-guideline-5
   - responsive-web-design
   - thursday-mobile-products
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - us-environmental-protection-agency
-  - United States Department of Defense
-  - United States Department of Energy
+  - united-states-department-of-defense
+  - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
   - VA
 ---

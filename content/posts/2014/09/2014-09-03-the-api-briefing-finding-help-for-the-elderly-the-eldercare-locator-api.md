@@ -12,7 +12,7 @@ topics:
   - HHS
   - OPM
   - united-states-department-of-health-and-human-services
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

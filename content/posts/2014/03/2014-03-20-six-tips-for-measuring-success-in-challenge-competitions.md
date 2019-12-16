@@ -13,7 +13,7 @@ topics:
   - data-gov
   - epa
   - innovation
-  - United States Department of Energy
+  - united-states-department-of-energy
 ---
 
 {{< legacy-img src="2014/03/measure-success-250x166.jpg" alt="measuring tape next to the word success" >}}You&#8217;ve run a [challenge and prize competition]({{< ref "2013-11-01-federal-government-challenges-and-contests.md" >}} "Post that defines challenge and prize competition"), selected your winners, and distributed the prizes. If you think you&#8217;re done, guess again. There&#8217;s much more to challenge and prize competition success than getting a solution that solves your problem or meets the criteria.

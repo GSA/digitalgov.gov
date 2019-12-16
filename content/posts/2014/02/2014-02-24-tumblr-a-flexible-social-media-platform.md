@@ -9,8 +9,8 @@ topics:
   - social-media
   - BLM
   - HHS
-  - National Archives and Records Administration
-  - Recaps
+  - national-archives-and-records-administration
+  - recaps
   - The Bureau of Land Management
   - united-states-department-of-health-and-human-services
 ---

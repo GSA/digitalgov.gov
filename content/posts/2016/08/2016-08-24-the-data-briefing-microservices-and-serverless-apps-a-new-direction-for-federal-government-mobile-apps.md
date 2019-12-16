@@ -12,7 +12,7 @@ topics:
   - data
   - mobile
   - mobile-apps
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - NIST
   - the-data-briefing
 ---

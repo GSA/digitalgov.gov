@@ -9,7 +9,7 @@ topics:
   - governance
   - product-management
   - api
-  - Department of Commerce
+  - department-of-commerce
 ---
 
 <p dir="ltr">

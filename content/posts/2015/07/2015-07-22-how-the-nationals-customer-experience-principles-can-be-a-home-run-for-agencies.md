@@ -13,7 +13,7 @@ topics:
   - customer-experience-community-of-practice
   - customer-satisfaction
   - customer-service
-  - Recaps
+  - recaps
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Washington-Nationals-MLB-main-seal-logo.jpg" alt="Washington Nationals 2011 to present logo" >}}

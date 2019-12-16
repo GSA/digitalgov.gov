@@ -12,7 +12,7 @@ topics:
   - analytics
   - data
   - epa
-  - Recaps
+  - recaps
   - us-environmental-protection-agency
 ---
 

@@ -7,7 +7,7 @@ authors:
   - apiazza
 topics:
   - our-work
-  - DGU
+  - digitalgov-university
 ---
 
 {{< legacy-img src="2015/02/250-x-212-DGU-Partner-Event-using-DG-logo-colors-image-from-People-in-action-logos-and-icons-marko187-iStock-Thinkstock-451025551.jpg" alt="DGU Friend Event icon" caption="" >}}

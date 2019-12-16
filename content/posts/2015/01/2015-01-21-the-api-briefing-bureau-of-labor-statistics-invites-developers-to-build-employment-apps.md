@@ -10,11 +10,11 @@ topics:
   - BLS
   - Census
   - SEC
-  - US Bureau of Labor Statistics
+  - us-bureau-of-labor-statistics
   - US Department of Agriculture
-  - US Department of the Treasury
-  - US Securities and Exchange Commission
-  - United States Census Bureau
+  - us-department-of-the-treasury
+  - us-securities-and-exchange-commission
+  - united-states-census-bureau
   - USDA
   - wednesday-api-briefing
 ---

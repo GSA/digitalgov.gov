@@ -13,13 +13,13 @@ topics:
   - challenges-and-prize-competitions
   - epa
   - mobile-ux-guideline-5
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - native-apps
   - NIST
   - open-data
   - thursday-mobile-products
   - us-environmental-protection-agency
-  - United States Census Bureau
+  - united-states-census-bureau
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 

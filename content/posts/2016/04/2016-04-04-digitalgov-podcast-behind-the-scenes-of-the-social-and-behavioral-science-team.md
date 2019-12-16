@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - user-testing-and-research
-  - GSA
+  - gsa
   - Social and Behavioral Sciences Team
   - US Department of Agriculture
   - USDA

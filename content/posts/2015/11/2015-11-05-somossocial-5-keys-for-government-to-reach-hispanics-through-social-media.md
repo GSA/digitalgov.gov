@@ -17,12 +17,12 @@ topics:
   - fema
   - GobiernoUSAgov
   - multilingual
-  - Peace Corps
-  - Recaps
+  - peace-corps
+  - recaps
   - SBA
   - social-media
   - Twitter
-  - US Small Business Administration
+  - us-small-business-administration
   - usa-gov
   - usagov
 ---

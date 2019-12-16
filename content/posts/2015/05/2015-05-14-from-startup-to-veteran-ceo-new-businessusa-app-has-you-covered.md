@@ -7,11 +7,11 @@ authors:
   - kdowney
 topics:
   - mobile
-  - Department of Commerce
+  - department-of-commerce
   - mobile-apps
   - SBA
   - thursday-mobile-products
-  - US Small Business Administration
+  - us-small-business-administration
   - usa-gov-federal-mobile-apps-directory
 ---
 

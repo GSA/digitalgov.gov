@@ -12,7 +12,7 @@ topics:
   - FTC
   - National Eye Institute
   - OSTP
-  - United States Air Force
+  - united-states-air-force
   - white-house-office-of-science-and-technology-policy
 ---
 

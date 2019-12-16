@@ -7,8 +7,8 @@ authors:
   - john-paul
 topics:
   - content
-  - DGU
-  - Recaps
+  - digitalgov-university
+  - recaps
   - usagov
 ---
 

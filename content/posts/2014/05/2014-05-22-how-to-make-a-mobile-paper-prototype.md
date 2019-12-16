@@ -10,7 +10,7 @@ topics:
   - mobile
   - user-testing-and-research
   - ux
-  - GSA
+  - gsa
   - mobile
   - mobile-apps
   - mobile-ux-guideline-4

@@ -12,7 +12,7 @@ topics:
   - cx
   - customer-satisfaction
   - customer-service
-  - GSA
+  - gsa
   - user-experience
 ---
 

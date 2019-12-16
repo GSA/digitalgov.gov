@@ -12,10 +12,10 @@ topics:
   - instagram
   - Library of Congress
   - LOC
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - Twitter
-  - US Department of State
-  - United States Department of Defense
+  - us-department-of-state
+  - united-states-department-of-defense
 
 ---
 

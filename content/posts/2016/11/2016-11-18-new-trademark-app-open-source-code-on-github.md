@@ -14,7 +14,7 @@ topics:
   - code
   - Commerce
   - data
-  - Department of Commerce
+  - department-of-commerce
   - GitHub
   - innovation
   - mobile

@@ -11,7 +11,7 @@ topics:
   - cdc
   - centers-for-disease-control-and-prevention
   - content-strategy
-  - GSA
+  - gsa
   - nasa
   - national-institutes-of-health
   - nih

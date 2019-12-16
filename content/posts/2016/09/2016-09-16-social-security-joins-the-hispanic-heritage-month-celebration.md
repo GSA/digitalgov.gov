@@ -15,7 +15,7 @@ topics:
   - cx
   - multilingual
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - user-experience
   - ux
 ---

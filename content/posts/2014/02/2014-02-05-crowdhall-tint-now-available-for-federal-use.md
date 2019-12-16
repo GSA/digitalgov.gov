@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - social-media
-  - Terms of Service
+  - terms-of-service
 ---
 
 [{{< legacy-img src="2013/07/social-media-button1-250x113.jpg" alt="Computer key that says social media in blue" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/social-media-button1.jpg)It’s been a busy few months negotiating Terms of Service on behalf of the federal government, and we’re happy to announce CrowdHall and Tint are now available and that the Tumblr agreement has been updated for the first time in almost 2 years.CrowdHall logo

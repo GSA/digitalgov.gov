@@ -17,7 +17,7 @@ topics:
   - content
   - data
   - FEC
-  - Federal Election Commission
+  - federal-election-commission
   - GitHub
   - plain-language
   - responsive-web-design

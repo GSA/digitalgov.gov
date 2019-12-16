@@ -10,7 +10,7 @@ topics:
   - social-media
   - HHS
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - open-government
   - Twitter
   - united-states-department-of-health-and-human-services
