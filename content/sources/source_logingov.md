@@ -14,7 +14,7 @@ domain: 'https://login.gov/'
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/source/
 # The filename should reflect the name of the source or team (e.g., usds-logo.png)
-icon: 'logingov.png'
+icon: 'login-gov.png'
 
 
 # Weight: control how services appear across the site
@@ -27,6 +27,7 @@ weight: 1
 # Topics that best describe this product or service
 topics:
   - https
+  - login-gov
   - product-management
   - security
   - authenication
