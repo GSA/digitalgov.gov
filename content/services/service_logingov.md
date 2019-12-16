@@ -13,7 +13,7 @@ source_url: 'https://login.gov/'
 # Upload new images to Github in the /static/logos/ folder
 # https://github.com/GSA/digitalgov.gov/tree/master/static/promos/
 # The filename should reflect the name of the product or service (e.g., challenge-gov.png)
-icon: 'login.png'
+icon: 'logingov.png'
 
 # Weight control how these promos appear on the site
 # 2 == will be part of the rotation on the homepage
