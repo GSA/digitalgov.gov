@@ -5,7 +5,7 @@
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12">
+          <div class="grid-col-12" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
             <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></p>
             {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
@@ -26,7 +26,7 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row tablet-lg:grid-gap-6">
 
-          <div class="grid-col-12 tablet:grid-col-9">
+          <div class="grid-col-12 tablet:grid-col-9" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
 
             {{/* Content */}}
             <div class="content">
