@@ -13,10 +13,11 @@ authors:
 
 The Paperwork Reduction Act (PRA) of 1995 requires that agencies obtain Office of Management and Budget (OMB) approval before requesting most types of information from the public. &#8220;Information collections&#8221; include forms, interviews, and  record keeping, to name a few categories.
 
-<a class="button" style="color: #000000" href="http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm">View the Paperwork Reduction Act of 1995v</a>
+<a class="button" style="color: #000000" href="http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm">View the Paperwork Reduction Act of 1995</a>
 
 ## Related Resources
 
+  * [Introducing: A Guide to the Paperwork Reduction Act](https://digital.gov/2019/06/18/introducing-a-guide-paperwork-reduction-act/)
   * [Paperwork Reduction Act (44 U.S.C. 3501 et seq.)](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm)
   * [Federal Collection of Information](https://obamawhitehouse.archives.gov/omb/inforeg_infocoll/)
   * [OMB M-11-26, Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf)(PDF, 196 KB, 4 pages, June 2011)
