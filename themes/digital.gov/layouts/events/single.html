@@ -5,14 +5,9 @@
 {{- $event_startDate := dateFormat "2006-01-02 03:04 PM" (time .Params.date) -}}
 {{- $event_endDate := dateFormat "2006-01-02 03:04 PM" (time .Params.end_date) -}}
 {{- $event_url := (print "\n\nEvent Page: https:" .Permalink) -}}
-{{- $.Scratch.Set "event_youtube" "" -}}
-{{- if (isset .Params "youtube_id") -}}
-  {{- $.Scratch.Set "event_youtube" (print "\nYouTube LIVE: https://www.youtube.com/watch?v=" .Params.youtube_id) -}}
-{{- end -}}
-{{- $event_youtube := $.Scratch.Get "event_youtube" -}}
 {{- $event_title := .Title | markdownify -}}
 {{- $event_desc := $.Params.summary | default $.Site.Params.description | markdownify -}}
-{{- $event_description := (print $event_desc $event_url $event_youtube) -}}
+{{- $event_description := (print $event_desc $event_url) -}}
 {{- $event_location := .Params.venue.venue_name -}}
 
 <main role="main" class="event">
@@ -78,6 +73,7 @@
                 <var class="atc_organizer_email">digitalgov@gsa.gov</var>
               </var>
             </span>
+
           </div>
         </div>
       </div>
@@ -122,7 +118,7 @@
                 {{- .Render "stage-zoom" -}}
               {{- end -}}
             {{- end -}}
-            
+
             <!-- Captions box — wont appear on youtube_live events -->
             {{- if not (eq .Params.event_platform "youtube_live") -}}
               {{/* If is a Future Event */}}
@@ -160,6 +156,7 @@
                     <var class="atc_organizer_email">digitalgov@gsa.gov</var>
                   </var>
                 </span>
+
               </div>
               {{- end -}}
             {{- end -}}
@@ -181,13 +178,4 @@
   </article>
 </main>
 
-{{/* Add to Calendar script */}}
-<script type="text/javascript">(function () {
-  if (window.addtocalendar)if(typeof window.addtocalendar.start == "function")return;
-  if (window.ifaddtocalendar == undefined) { window.ifaddtocalendar = 1;
-      var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
-      s.type = 'text/javascript';s.charset = 'UTF-8';s.async = true;
-      s.src = ('https:' == window.location.protocol ? 'https' : 'http')+'://addtocalendar.com/atc/1.5/atc.min.js';
-      var h = d[g]('body')[0];h.appendChild(s); -}})();
-</script>
 {{- end -}}

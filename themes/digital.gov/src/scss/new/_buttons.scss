@@ -115,16 +115,15 @@ a.btn{
       @include u-padding-y('105');
       @include u-padding-bottom(2);
       @include u-bg('indigo-80');
-      @include u-display('inline-block');
+      @include u-display('block');
       @include u-text('white');
       @include u-text('no-underline');
-      @include u-text('center');
       @include u-font('sans', 'md');
       @include u-text('light');
     }
     ul{
       border: none;
-      width: 160px;
+      width: 162px;
       box-shadow: 0 0 5px #AAA;
       @include u-padding(0);
       li{
@@ -134,7 +133,7 @@ a.btn{
         list-style-type: none;
         a{
           @include u-padding-y(1);
-          @include u-padding-x(2);
+          @include u-padding-x('105');
           @include u-text('indigo-80');
           @include u-text('normal');
           @include u-font('sans', 'xs');
