@@ -1,8 +1,13 @@
 ---
 slug: manage-your-subscription
-kicker: "Communities"
 title: 'Manage Your Listserv Subscription'
+type: page
 summary: 'GSA supports many communities of practice by hosting listservs which provide our Digital.gov community with an easy way to collaborate, ask questions, and share information.'
+
+# Weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 0
 
 aliases:
   - /manage-your-listserv-subscription/
