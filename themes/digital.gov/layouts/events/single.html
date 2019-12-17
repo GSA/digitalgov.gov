@@ -122,7 +122,7 @@
                 {{- .Render "stage-zoom" -}}
               {{- end -}}
             {{- end -}}
-            
+
             <!-- Captions box — wont appear on youtube_live events -->
             {{- if not (eq .Params.event_platform "youtube_live") -}}
               {{/* If is a Future Event */}}
@@ -188,6 +188,6 @@
       var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
       s.type = 'text/javascript';s.charset = 'UTF-8';s.async = true;
       s.src = ('https:' == window.location.protocol ? 'https' : 'http')+'://addtocalendar.com/atc/1.5/atc.min.js';
-      var h = d[g]('body')[0];h.appendChild(s); -}})();
+      var h = d[g]('body')[0];h.appendChild(s); }})();
 </script>
 {{- end -}}
