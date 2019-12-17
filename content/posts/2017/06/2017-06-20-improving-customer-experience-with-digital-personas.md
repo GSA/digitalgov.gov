@@ -18,7 +18,7 @@ topics:
   - user-centered-design
 ---
 
-Keeping the customer’s needs front and center is important when developing new digital tools. We recently developed a set of user personas as part of our work to establish a more robust—and data informed—understanding of the individuals that engage digitally with the National Archives (NARA).
+Keeping the customer’s needs front and center is important when developing new digital tools. We recently developed a set of user personas as part of our work to establish a more robust—and data informed—understanding of the individuals that engage digitally with the National Archives and Records Administration (NARA).
 
 User personas are fictional, but realistic representations of key audience segments that are grounded in research and data. We recently applied customer data from a variety of sources including website analytics and online surveys to inform the creation of eight personas that represent our digital customers: Researchers, Veterans, Genealogists, Educators, History Enthusiasts, Curious Nerds, Museum Visitors, and Government Stakeholders. These personas not only help us capture knowledge about our customers and their needs and preferences, but also help NARA staff empathize with the individuals who use our services. User personas are often used by designers and developers to place the customer’s perspectives and needs at the center of the digital design and development process.
 
@@ -38,7 +38,7 @@ The second page of each persona provides user stories that describe who the user
 
 As shown on the second page of our Veteran persona, Victor Williams, we know that as a veteran who has submitted a request for records, Victor wants to easily determine the status so he knows how long he will have to wait to receive the paperwork. Each persona has multiple user stories associated with it to help NARA think about the various ways in which key audience segments interact with us digitally:
 
-{{< legacy-img src="2017/06/600x450-NARA-digital-personas-veteran-2.jpg" alt="Example of a Veteran persona." >}}
+{{< legacy-img src="2017/06/600x450-NARA-digital-personas-veteran-2.jpg" alt="Example of a veteran persona." >}}
 
 These representations of our customers are based on quantitative data (e.g., metrics about web pages viewed, social media use) and qualitative user research (e.g., online surveys). It is very important to remember that a persona is a composite representation of the prevalent qualities of an audience segment and will not exactly match a specific person or comprehensively describe the full diversity of a group.
 
