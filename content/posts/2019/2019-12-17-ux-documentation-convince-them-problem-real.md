@@ -27,8 +27,6 @@ Want to improve the way your organization interacts with customers? Start with y
 
 A good user experience (UX) lets your customers easily search, find, and use the information on your site. Bad UX...doesn’t. Bad UX on one area of your site can impact the way a user feels about the entire experience, so, it’s imperative to make sure your users can navigate your site and complete the tasks they came for. 
 
-[IMAGE]
-
 You might have an idea what UX changes are needed (cough, CONTENT, cough), but there can be a big gap between knowing and fixing. Large-scale UX improvements take time, money, and people power, and you’re just one person! What about everyone else who needs to get on board before you can take action?
 
 ## Build Stakeholder Buy-In
@@ -47,6 +45,8 @@ There are lots of UX documents out there—your goal is to choose the ones that 
 
 **Good for**: framing design and content around users and their needs
 
+[veteran persona image]
+
 **[Journey maps](https://blog.usa.gov/journey-mapping-our-customer-experience)** depict a user’s experience completing a task over time and across channels. They can diagnose UX issues and confusion points in existing products by mapping out the channels visited and time spent on tasks, which helps teams understand and improve the user journey from beginning to end. Journey maps can help convince business-minded stakeholders of the need for UX intervention. 
 
 **Good for**: understanding the pain points a user faces on an omnichannel journey
@@ -58,6 +58,8 @@ There are lots of UX documents out there—your goal is to choose the ones that 
 **[Wireframes](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)** show structure (minus all the design details you might see in a prototype), giving users a feel for the function of a design. Wireframes can help explain how navigation will work and where content will go. Use real content whenever possible to ensure your designs will work with the actual text and images on your site. Wireframes can be abstract, so be ready to walk your stakeholders through anything that needs additional context. 
 
 **Good for**: explaining function quickly and cheaply—can be as simple as a napkin sketch
+
+[wireframes photo]
 
 Even if you aren’t trying to sell stakeholders on major improvements, documenting UX can help you improve the usability of your content right now: 
 
