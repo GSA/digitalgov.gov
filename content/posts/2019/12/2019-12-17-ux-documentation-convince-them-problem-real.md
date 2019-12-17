@@ -49,7 +49,7 @@ There are lots of UX documents out there—your goal is to choose the ones that 
 
 **Good for**: framing design and content around users and their needs
 
-[veteran persona image]
+{{< img src="ux-veteran-persona" >}}
 
 **[Journey maps](https://blog.usa.gov/journey-mapping-our-customer-experience)** depict a user’s experience completing a task over time and across channels. They can diagnose UX issues and confusion points in existing products by mapping out the channels visited and time spent on tasks, which helps teams understand and improve the user journey from beginning to end. Journey maps can help convince business-minded stakeholders of the need for UX intervention.
 
