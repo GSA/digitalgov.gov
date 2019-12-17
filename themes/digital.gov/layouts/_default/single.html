@@ -6,10 +6,14 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12">
-            <p class="breadcrumb"><a href="{{- "resources/" | absURL -}}"> <i class="fas fa-arrow-left"></i> <span>All Resources</span> </a></p>
+
+            {{/* Breadcrumbs */}}
+            <p class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span></a></p>
+
             {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
             {{- end -}}
+
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}} </h1>
 
