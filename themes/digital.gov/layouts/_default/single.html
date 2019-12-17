@@ -7,9 +7,13 @@
         <div class="grid-row">
           <div class="grid-col-12">
 
+            {{/* Breadcrumbs */}}
+            <p class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span></a></p>
+
             {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
             {{- end -}}
+
             {{/* Page Title */}}
             <h1>{{- .Title | markdownify -}} </h1>
 
