@@ -68,7 +68,21 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
    - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages).
 
+### Voting
 
+#### U.S. Election Assistance Commission (EAC)
+
+The EAC has a page of [bilingual voting terminology glossaries](https://www.eac.gov/election-officials/glossaries-of-election-terminology/) in nine languages that contain 1,843 terms and phrases used in the administration of elections in the United States: 
+
+- English - Bengali
+- English - Chinese
+- English - Hindi
+- English - Japanese
+- English - Khmer
+- English - Korean
+- English - Spanish
+- English - Tagalog
+- English - Vietnamese
 
 ### General Terminology
 
