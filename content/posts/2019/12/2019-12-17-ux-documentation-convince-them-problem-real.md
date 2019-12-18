@@ -3,6 +3,8 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: ux-documentation-convince-them-problem-real
+short_url: https://go.usa.gov/xpG3Y
+kicker: "User Experience"
 date: 2019-12-17 15:00:00 -0500
 title: "UX Documentation: Convince Them the Problem Is Real"
 deck: "If you want to make worthwhile investments in the way you interact with customers, think user experience."
@@ -17,6 +19,10 @@ topics:
   - design
   - user-experience
   - ux
+
+# see all authors at https://digital.gov/authors
+authors:
+  - amanda-dean
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
