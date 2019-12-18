@@ -1,3 +1,4 @@
+// This file is mainly for trying to commit images through a CircleCI workflow
 var gulp          = require("gulp");
 var git           = require('gulp-git');
 
