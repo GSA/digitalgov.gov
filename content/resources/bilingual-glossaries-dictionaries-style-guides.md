@@ -95,22 +95,6 @@ Below is a compilation of available resources from different education organizat
 - The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870).
 - This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition. 
 
-### Voting
-
-#### U.S. Election Assistance Commission (EAC)
-
-The EAC has a page of [bilingual voting terminology glossaries](https://www.eac.gov/election-officials/glossaries-of-election-terminology/) in nine languages that contain 1,843 terms and phrases used in the administration of elections in the United States: 
-
-- English - Bengali
-- English - Chinese
-- English - Hindi
-- English - Japanese
-- English - Khmer
-- English - Korean
-- English - Spanish
-- English - Tagalog
-- English - Vietnamese
-
 ## Dictionaries
 
 ### U.S. Department of Health and Human Services, National Institutes of Health
