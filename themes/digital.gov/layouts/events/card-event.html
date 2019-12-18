@@ -1,6 +1,6 @@
 <div class="card card-event-promo card-linked" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
 
-  <div class="grid-row grid-gap-2">
+  <div class="grid-row tablet:grid-gap-4">
 
     <div class="grid-col-9 tablet-lg:grid-col-10">
       {{- if .Params.kicker -}}
