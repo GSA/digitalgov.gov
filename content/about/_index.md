@@ -16,7 +16,7 @@ And we do that by providing people in the federal government with the tools, met
 It is our job to be the experts in the problems people in government face, and support them wherever they may be blocked.
 
 
-## Our Guiding principlies
+## Our Guiding Principlies
 
 ### 1. Elevate digital literacy and understanding
 
@@ -49,7 +49,7 @@ We’ve found that agencies need:
 - Focused trainings and events that help teams learn and adopt new concepts
 - Easy access to collaborate with others across government who are working on the same problems
 
-## What we are working on
+## What We Are Working On
 
 Over the last decade, DigitalGov has become a destination in government to learn about the methods, practices, policies and tools that are needed to create effective digital services.
 
@@ -64,15 +64,13 @@ We are building DigitalGov into a destination that practices the methods that it
 - [Join a community of practice]({{< ref "/communities/_index.md" >}})
 - Reach out, [send us an email](mailto:digitalgov@gsa.gov)
 
-
-## Our team
+## Our Team
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in the federal government and have a wealth of experience creating modern digital services.
 
-**Digital.gov:** Jeremy Zilar, Toni Bonitto<br/>
-**Communities:** Jacob Parcell<br/>
-**Video and Events:** Alexandar Schulte, Gabrielle Fratanduono<br/>
-**U.S. Web Design System:** Dan Williams, Sara Cope<br/>
-
+**Digital.gov:** Jeremy Zilar, Toni Bonitto <br/>
+**Communities:** Jacob Parcell <br/>
+**Video and Events:** Alexandar Schulte, Gabrielle Fratanduono <br/>
+**U.S. Web Design System:** Dan Williams, Sara Cope <br/>
 
 ## Contact Us
 
