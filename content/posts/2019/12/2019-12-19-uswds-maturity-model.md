@@ -6,8 +6,8 @@ slug: uswds-maturity-model
 date: 2019-12-19 10:00:00 -0500
 kicker: "USWDS"
 title: "USWDS Maturity Model"
-deck: "TKTK"
-summary: "TKTK"
+deck: "**The U.S. Web Design System released a maturity model** to help you adopt the design system incrementally as you design and build better digital experiences for the American public"
+summary: "**The U.S. Web Design System released a maturity model** to help you adopt the design system incrementally as you design and build better digital experiences for the American public"
 
 # originally published at the following URL
 source_url: "https://designsystem.digital.gov/maturity-model/"
@@ -17,7 +17,7 @@ source_url: "https://designsystem.digital.gov/maturity-model/"
 source: uswds
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - dan-williams
   - ammie-farraj-feijoo
 
