@@ -35,13 +35,15 @@ Through collaboration in our communities of practice, Digital.gov is a window in
 
 Our new site is built to be an example for meeting the goals in the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) and the previous [other federal digital policies](https://digital.gov/resources/omb-memos-circulars-executive-orders-and-other-policies/) that have come before it.
 
-We’ve followed many of the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) design principles in building our new site out:
+We’ve followed many of the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) [design principles](https://designsystem.digital.gov/maturity-model/) in building our new site out:
 
 - **Start with real user needs** — We used human-centered design methods to inform our product decisions (like qualitative user-research), and gathered feedback from real users. We also continually test our assumptions with small experiments.
 - **Earn trust** —We recognize that trust has to be earned every time.  We are including all [required links and content](https://digital.gov/resources/required-web-content-and-links/) on our site, clearly identifying as a government site, building with modern best practices, and using https.
 - **Embrace accessibility** — [Accessibility](https://digital.gov/resources/intro-accessibility/) affects everybody, and we built it into every decision.  We’re continually working to conform to Section 508 requirements, use user experience best practices, and support a wide range of devices.
 - **Promote continuity** — We started from shared solutions like USWDS and [Federalist](https://federalist.18f.gov/). We designed our site to clearly identify as a government site by including USWDS’s .gov banner, common colors and patterns, and built with modern best practices.
 - **Listen** — We actively collect user feedback and web metrics. We use the [Digital Analytics Program](https://digital.gov/services/dap/) (DAP) and analyze the data to discover actionable insights. We make small, incremental changes to continuously improve our website by by listening to readers and learning from what we hear.
+
+_More on the new [USWDS maturity model »](https://designsystem.digital.gov/maturity-model/)_
 
 ## Maturity is a Process
 
