@@ -37,7 +37,7 @@ Through collaboration in our communities of practice, Digital.gov is a window in
 
 Our new site is built to be an example for meeting the goals in the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA) and the previous [other federal digital policies](https://digital.gov/resources/omb-memos-circulars-executive-orders-and-other-policies/) that have come before it.
 
-We’ve followed many of the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) [design principles](https://designsystem.digital.gov/maturity-model/) in building our new site out:
+We’ve followed many of the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) [design principles](https://designsystem.digital.gov/maturity-model/) in building out our new site: 
 
 - **Start with real user needs** — We used human-centered design methods to inform our product decisions (like qualitative user research), and gathered feedback from real users. We also continually test our assumptions with small experiments.
 - **Earn trust** —We recognize that trust has to be earned every time.  We are including all [required links and content](https://digital.gov/resources/required-web-content-and-links/) on our site, clearly identifying as a government site, building with modern best practices, and using https.
