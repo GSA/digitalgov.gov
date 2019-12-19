@@ -35,6 +35,12 @@ The Multilingual Language Style Guides contain information on grammar and style 
 
 ## Government Bilingual Glossaries
 
+### General Terminology
+
+#### Social Security Administration (SSA)
+
+This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html)  offers information ranging from states and days of the weeks to health.
+
 ### Financial Terminology
 
 #### Consumer Financial Protection Bureau (CFPB)
@@ -66,15 +72,10 @@ The **Glossary of Tax Words and Phrases Used in Publications Issued by the IRS**
 - [Office of Minority Health](https://www.minorityhealth.hhs.gov/) (OMH), [Office of Minority Health Resource Center](https://www.minorityhealth.hhs.gov/OMHRC/) (OMHRC): <br />The **HIV Prevention Bilingual Glossary (HPBG)** is a collaborative effort to provide linguistic support to individuals and organizations working with Spanish-speaking populations in the U.S. Download: [HIV/AIDS Prevention Bilingual Glossary, English - Spanish, First Edition 2009](https://minorityhealth.hhs.gov/Assets/pdf/Checked/1/MAIN_%20Bilingual_Glossary_2009_Edition_v15_1_checked.pdf) (13.4 MB, PDF, 237 pages)
 - The [Early Childhood Learning & Knowledge Center](https://eclkc.ohs.acf.hhs.gov/) offers two PDF files to download:
    - the [Head Start Bilingual Glossary](https://eclkc.ohs.acf.hhs.gov/culture-language/article/head-start-bilingual-glossary) (for translating Head Start materials from English into Spanish), and
-   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages).
-
-
-
-### General Terminology
-
-#### Social Security Administration (SSA)
-
-This [English-Spanish Wordbank Glossary](https://www.ssa.gov/agency/glossary/english-spanish-glossary.html)  offers information ranging from states and days of the weeks to health.
+   - [Style Guide for Translations into Spanish](https://eclkc.ohs.acf.hhs.gov/sites/default/files/pdf/no-search/style-guide-for-translations-into-spanish.pdf) (PDF, 267 kb, 11 pages). 
+- [Medicare.gov](https://www.medicare.gov/) offers a glossary of medicare related terms in English and Spanish: 
+   - [Medicare.gov English Glossary](https://www.medicare.gov/glossary/a) 
+   - [Medicare.gov Spanish Glossary](https://es.medicare.gov/glossary/a) 
 
 ### Environment
 
@@ -92,7 +93,7 @@ Below is a compilation of available resources from different education organizat
 
 - The [English-Spanish Glossary of Student Financial Aid and Postsecondary Education](https://www.nasfaa.org/uploads/documents/ektron/88fdd293-2f4e-4c63-996e-f4bb95192879/0787ae7a3bcd4d0e98888ea6e82a69344.pdf) (513 kb, PDF, 44 pages) is led by TG and the U.S. Department of Education in partnership with many other organizations.
 - The Los Angeles Unified School District (LAUSD) has a [resource center for K-12 education-related terminology and other language resources](https://achieve.lausd.net/Page/11870).
-- This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition.
+- This glossary of Special Education terminology, [English-Spanish Glossary of Common Terms Related to IDEA](https://www.parentcenterhub.org/osep-spanish-glossary/), was commissioned by the Department of Education, Office of Special Education Programs (OSEP). Over 400 terms related to Individuals with Disabilities Education Act (IDEA) Part B and Part C are included in this 2nd edition. 
 
 ## Dictionaries
 

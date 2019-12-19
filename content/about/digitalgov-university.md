@@ -13,7 +13,7 @@ We provide a range of free online and in-person trainings and events for people 
 - [View our upcoming events »]({{< ref "/events" >}})
 - [View our video archive »](https://youtube.com/digitalgov)
 
-## Work with us
+## Work With Us
 
 **Interested in hosting an online or in-person training or event?**<br/>
 Send us an email that describes your idea, the type of training or event you think would best convey that idea, and who the intended audience would be. [**Send Us an email**](mailto:digitalgovu@gsa.gov?subject=Training%20Idea)
