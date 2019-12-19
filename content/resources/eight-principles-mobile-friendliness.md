@@ -5,8 +5,8 @@
 slug: eight-principles-mobile-friendliness
 date: 2019-12-19 14:000:00 -0500
 title: "Eight Principles of Mobile-Friendliness"
-deck: "In order to help agencies comply with mobile website requirements, we will share a principle of mobile-friendliness each week for eight weeks—and how adhering to these principles can greatly improve their sites."
-summary: "In order to help agencies comply with mobile website requirements, we will share a principle of mobile-friendliness each week for eight weeks—and how adhering to these principles can greatly improve their sites."
+deck: "Following these principles will help you make your site more usable and user-friendly."
+summary: "Following these principles will help you make your site more usable and user-friendly."
 
 topics:
   - product-management
