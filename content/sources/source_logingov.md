@@ -30,7 +30,7 @@ topics:
   - login-gov
   - product-management
   - security
-  - authenication
+  - authentication
   - online-proofing
 
 ---
