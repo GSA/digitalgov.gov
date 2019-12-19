@@ -5,8 +5,8 @@
 slug: a-new-digitalgov
 date: 2019-12-19 11:00:00 -0500
 title: "A NEW Digital.gov"
-deck: "We have been hard at work on a new version of Digital.gov, and we’re ready to make this new site available to readers."
-summary: "We have been hard at work on a new version of Digital.gov, and we’re ready to make this new site available to readers."
+deck: "We've been working on a new version of Digital.gov, and we’re ready to make it available to you."
+summary: "We've been working on a new version of Digital.gov, and we’re ready to make it available to you."
 
 # see all authors at https://digital.gov/authors
 authors:
@@ -76,10 +76,10 @@ In addition, we are proudly using:
 - [API.data.gov](https://api.data.gov/) — a free API management service for federal agencies
 - [U.S. Digital Registry](https://digital.gov/services/u-s-digital-registry/) — A resource for confirming the official status of government social media accounts, mobile apps, and mobile websites.
 
-## Feedback
+## Send us your feedback
 
 As with any big move, it takes a while to unbox all the things and adjust to new surroundings. So take some time, look around, and send us feedback. We’re pushing changes and fixes to the site every day.
 
-- Find a bug? [Feel free to report it](https://github.com/GSA/digitalgov.gov/issues/new/choose).
+- Find a bug? [Feel free to report it](https://github.com/GSA/digitalgov.gov/issues/new/choose). (_see our [open GitHub issues](https://github.com/GSA/digitalgov.gov/issues)_)
 - Have a content edit or suggestion? [Tell us about it](https://github.com/GSA/digitalgov.gov/issues/new/choose).
 - Or send us an email to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).
