@@ -1,7 +1,7 @@
 ---
 # What is the headline of this promo?
 slug: 'coe'
-name: 'Centers of Excellence'
+name: 'The Centers of Excellence'
 
 # Keep it short — should be no longer than 10 words.
 summary: 'Leading federal government technology modernization by helping agencies innovate from within.'
