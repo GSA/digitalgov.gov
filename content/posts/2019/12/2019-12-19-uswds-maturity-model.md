@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: uswds-maturity-model
-date: 2019-12-19 10:00:00 -0500
+date: 2019-12-19 11:00:00 -0500
 kicker: "USWDS"
 title: "USWDS Maturity Model"
 deck: "**The U.S. Web Design System released a maturity model** to help you adopt the design system incrementally as you design and build better digital experiences for the American public"
