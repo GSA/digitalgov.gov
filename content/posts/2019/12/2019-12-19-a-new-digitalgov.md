@@ -4,8 +4,8 @@
 
 slug: a-new-digitalgov
 date: 2019-12-19 11:00:00 -0500
-title: "A NEW Digital.gov"
-deck: "We've been working on a new version of Digital.gov, and we’re ready to make it available to you."
+title: "Welcome to the NEW Digital.gov"
+deck: "It's now easier to find the tools and resources you need to make digital services better and see examples of problems being solved across government."
 summary: "We've been working on a new version of Digital.gov, and we’re ready to make it available to you."
 
 # see all authors at https://digital.gov/authors
