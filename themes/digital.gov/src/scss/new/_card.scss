@@ -81,6 +81,9 @@
 
 	.media-featured{
 		@include u-margin-bottom(2);
+		@include at-media('tablet') {
+			@include u-margin-bottom(0);
+		}
 	}
 }
 
