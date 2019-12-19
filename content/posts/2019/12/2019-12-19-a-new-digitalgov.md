@@ -29,7 +29,7 @@ For over a decade, Digital.gov has provided guidance, training, and community su
 
 Through collaboration in our communities of practice, Digital.gov is a window into the people who work in technology in government and the challenges they face making digital services stronger and more effective.
 
-IMAGE
+{{< img src="digitalgov-new-2019" >}}
 
 ## What’s New?
 
