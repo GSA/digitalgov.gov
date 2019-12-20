@@ -10,7 +10,7 @@ date: 2019-12-19 14:30:00 -0500
 end_date: 2019-12-19 15:30:00 -0500
 event_organizer: DigitalGov University
 host: U.S. Web Design System
-youtube_id: iTEI1JTHt_Q&t=
+youtube_id: iTEI1JTHt_Q
 captions: 
 
 ---
