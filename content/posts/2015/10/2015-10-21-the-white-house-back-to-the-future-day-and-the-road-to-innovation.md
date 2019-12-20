@@ -1,5 +1,7 @@
 ---
 slug: the-white-house-back-to-the-future-day-and-the-road-to-innovation
+short_url: https://go.usa.gov/xp7MP
+kicker: "Innovation"
 date: 2015-10-21 9:47:15 -0400
 title: The White House, Back To The Future Day, and the Road to Innovation
 summary: ' Well, it&#8217;s here: October 21, 2015. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the Back to the Future trilogy, we, on the other hand, are not quite there&mdash;yet! As the White House'
@@ -12,6 +14,7 @@ topics:
   - Twitter
   - white-house
   - white-house-office-of-science-and-technology-policy
+
 ---
 
 {{< legacy-img src="2015/10/600-x-300-wh_backtothefutureday_socialgraphic.jpg" alt="White House's Back To The Future Day graphic" >}}
