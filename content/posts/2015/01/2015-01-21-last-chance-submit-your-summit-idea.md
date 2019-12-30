@@ -8,7 +8,7 @@ authors:
 topics:
   - our-work
   - digitalgov-university
-  - DigitalGov Summit
+  - digitalgov-summit
 ---
 
 [{{< legacy-img src="2014/12/250-x-307-crowdsourcing-post-green-blue-pink-arrows.jpg" alt="Green, blue, and pink arrows point to the right." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/12/250-x-307-crowdsourcing-post-green-blue-pink-arrows.jpg)

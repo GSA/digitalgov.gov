@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
   - HHS
   - National Center for Telehealth and Technology
   - PBGC

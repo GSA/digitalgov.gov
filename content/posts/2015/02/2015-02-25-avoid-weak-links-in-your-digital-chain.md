@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - analytics
   - digitalgov-search
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - epa
   - fda
   - gsa

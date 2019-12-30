@@ -13,7 +13,7 @@ topics:
   - 18f
   - api
   - api-keys
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - federal-emergency-management-agency
   - fema
   - OPM

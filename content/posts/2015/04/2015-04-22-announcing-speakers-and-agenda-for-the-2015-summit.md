@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
 ---
 
 [{{< legacy-img src="2015/04/Summit-Logo-400width.gif" alt="A graphic logo of the DigitalGov Citizen Services Summit" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Summit-Logo-400width.gif)

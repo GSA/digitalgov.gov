@@ -24,7 +24,7 @@
           {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
             {{- if or (eq .Params.weight 2) (eq .Params.weight 3) -}}
               <div class="grid-col-12 tablet:grid-col-4">
-                <div class="topic topic-slim" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+                <div class="topic" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
                   <h3>
                     <a href="{{- .URL | absURL -}}" title="{{- .Title -}}">{{- .Title -}} <span>&#8594;</span></a>
                   </h3>
@@ -33,6 +33,30 @@
             {{- end -}}
           {{- end -}}
         {{- end -}}
+      </div>
+    </div>
+  </section>
+
+  <section class="topic-buttons">
+    <div class="grid-container grid-container-desktop">
+      <div class="grid-row tablet-lg:grid-gap-2">
+        <div class="grid-col-auto">
+          {{- $topics_tax := $.Site.Taxonomies.topics -}}
+          <h2>All {{ len $topics_tax }} Topics</h2>
+        </div>
+      </div>
+      <div class="grid-row tablet-lg:grid-gap-2">
+      {{- range $name, $taxonomy := $topics_tax -}}
+        {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+        <div class="grid-col-auto">
+          <div class="topic" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+            <p>
+              <a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a> <span class="count">{{- $taxonomy.Count -}}</span>
+            </p>
+          </div>
+        </div>
+        {{- end -}}
+      {{- end -}}
       </div>
     </div>
   </section>
@@ -62,7 +86,7 @@
               <tr>
                 <td class="padding-1 border-bottom-1px border-base-lighter"><a href="{{- .Permalink -}}" title="{{- $name -}}"><span>{{- .Title -}}</span></a></td>
                 <td class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs">{{ .Data.Term }}</td>
-                <td class="padding-1 border-bottom-1px border-base-lighter font-mono-2xs">{{ $taxonomy.Count }}</td>
+                <td class="display-none padding-1 border-bottom-1px border-base-lighter font-mono-2xs">{{ $taxonomy.Count }}</td>
               </tr>
               {{- end -}}
             {{- end -}}

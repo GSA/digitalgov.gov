@@ -11,7 +11,7 @@ topics:
   - metrics
   - user-testing-and-research
   - ux
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - epa
   - us-environmental-protection-agency
   - usability

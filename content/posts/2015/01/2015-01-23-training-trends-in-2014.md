@@ -9,7 +9,7 @@ topics:
   - our-work
   - api
   - digitalgov-university
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - recaps
   - social-media
   - socialgov

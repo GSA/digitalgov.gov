@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - ux
   - aoi
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - Federal Reserve Board
   - first-click testing
   - FRB

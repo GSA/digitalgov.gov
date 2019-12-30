@@ -9,7 +9,7 @@ authors:
 topics:
   - product-management
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
 ---
 
 {{< legacy-img src="2015/04/600-x-208-Webcast-blue-squares-ileezhun-iStock-Thinkstock-ThinkstockPhotos-467395968.jpg" alt="To the left of the word webcast, six screens surround a globe icon." caption="" >}}

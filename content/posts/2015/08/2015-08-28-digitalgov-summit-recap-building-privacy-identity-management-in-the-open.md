@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
   - DOT
   - national-institute-of-standards-and-technology
   - NIST

@@ -9,7 +9,7 @@ authors:
 topics:
   - product-management
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
 ---
 
 [metaslider id=274602]

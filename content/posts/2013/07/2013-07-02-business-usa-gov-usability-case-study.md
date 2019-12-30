@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - usability
   - usability-case-study
   - user-experience

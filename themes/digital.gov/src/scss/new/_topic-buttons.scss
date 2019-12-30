@@ -52,6 +52,19 @@
         }
       }
     }
+    p{
+      @include u-font('sans', 'md');
+      a{
+        @include u-text('no-underline');
+      }
+      .count{
+        @include u-padding-x('05');
+        @include u-radius('pill');
+        @include u-bg('primary-lightest');
+        @include u-text('base-darker');
+        @include u-font('sans', '2xs');
+      }
+    }
   }
 }
 

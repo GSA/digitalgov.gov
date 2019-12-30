@@ -9,7 +9,7 @@ topics:
   - product-management
   - monthly-theme
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
   - recaps
 ---
 

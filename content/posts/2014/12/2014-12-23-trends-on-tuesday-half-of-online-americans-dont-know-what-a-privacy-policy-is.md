@@ -10,7 +10,7 @@ topics:
   - mobile
   - Defense Intelligence Agency
   - DIA
-  - DigitalGov Summit
+  - digitalgov-summit
   - Federal Trade Commission
   - FTC
   - internet-of-things

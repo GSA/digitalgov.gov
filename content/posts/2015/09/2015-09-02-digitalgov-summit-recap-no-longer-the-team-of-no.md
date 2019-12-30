@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
   - DOJ
   - US Department of Agriculture
   - us-department-of-justice

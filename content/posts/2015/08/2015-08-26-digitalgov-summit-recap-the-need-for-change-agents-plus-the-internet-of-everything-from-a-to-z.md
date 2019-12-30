@@ -7,7 +7,7 @@ authors:
   - awichman
 topics:
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
   - FCC
   - federal-communications-commission
   - internet-of-things

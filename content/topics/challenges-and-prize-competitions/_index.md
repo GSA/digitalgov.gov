@@ -3,7 +3,7 @@
 # https://digital.gov/topics/challenges-and-prize-competitions
 
 # Topic Title
-title: "Challenges And Prize Competitions"
+title: "Challenges and Prize Competitions"
 
 # description — keep it short and clear
 summary: ""
