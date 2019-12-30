@@ -7,7 +7,7 @@ authors:
   - kdowney
 topics:
   - mobile
-  - CBP
+  - us-customs-and-border-protection
   - dhs
   - ICE
   - thursday-mobile-products

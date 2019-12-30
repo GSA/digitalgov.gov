@@ -12,7 +12,7 @@ authors:
 topics:
   - product-management
   - 18f
-  - CBP
+  - us-customs-and-border-protection
   - cx
   - login-gov
   - customer-service

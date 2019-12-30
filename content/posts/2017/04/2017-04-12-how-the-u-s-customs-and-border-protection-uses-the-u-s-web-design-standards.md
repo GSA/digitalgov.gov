@@ -10,7 +10,7 @@ topics:
   - ux
   - 18f
   - accessibility
-  - CBP
+  - us-customs-and-border-protection
   - dhs
   - mobile
   - responsive-web-design
