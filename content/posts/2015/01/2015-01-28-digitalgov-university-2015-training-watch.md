@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - our-work
   - digitalgov-university
-  - DigitalGov Summit
+  - digitalgov-summit
   - mobile-gov-community-of-practice
   - socialgov-community
   - user-experience-community-of-practice

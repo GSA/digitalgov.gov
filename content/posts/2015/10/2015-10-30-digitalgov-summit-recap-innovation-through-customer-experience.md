@@ -12,7 +12,7 @@ topics:
   - customer-satisfaction
   - customer-service
   - cx
-  - DigitalGov Summit
+  - digitalgov-summit
   - Ex-Im Bank
   - Export-Import Bank of the United States
   - Internal Revenue Service

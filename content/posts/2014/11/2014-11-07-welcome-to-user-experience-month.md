@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - ux
   - cx
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - user-experience
   - ux
 ---

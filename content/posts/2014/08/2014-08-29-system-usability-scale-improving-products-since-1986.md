@@ -9,7 +9,7 @@ topics:
   - design
   - user-testing-and-research
   - ux
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - OPM
   - united-states-office-of-personnel-management
   - usability-testing

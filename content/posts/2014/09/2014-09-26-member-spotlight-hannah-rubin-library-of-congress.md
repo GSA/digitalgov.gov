@@ -9,7 +9,7 @@ topics:
   - content
   - metrics
   - user-testing-and-research
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - Library of Congress
   - LOC
   - open-opportunities-program

@@ -11,7 +11,7 @@ topics:
   - analytics
   - connect-gov
   - cx
-  - DigitalGov Summit
+  - digitalgov-summit
   - FCC
   - federal-communications-commission
   - gsa

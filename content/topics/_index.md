@@ -1,4 +1,4 @@
 ---
 url: /topics/
-title: 'Topicss'
+title: 'Topics'
 ---

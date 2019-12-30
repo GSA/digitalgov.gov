@@ -11,7 +11,7 @@ topics:
   - ux
   - aoi
   - cx
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - search-engine-optimization
   - user-experience
 ---

@@ -3,7 +3,7 @@
 # https://digital.gov/topics/it-modernization-fund
 
 # Topic Title
-title: "It Modernization Fund"
+title: "IT Modernization Fund"
 
 # description — keep it short and clear
 summary: ""

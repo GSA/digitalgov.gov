@@ -9,7 +9,7 @@ topics:
   - user-testing-and-research
   - ux
   - cx
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - personas
   - usability-testing
   - user-experience

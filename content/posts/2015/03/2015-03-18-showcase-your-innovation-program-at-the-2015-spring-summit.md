@@ -8,7 +8,7 @@ authors:
 topics:
   - product-management
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
 ---
 
 {{< legacy-img src="2015/03/600-x-450-Expo-Masses1.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}
