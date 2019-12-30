@@ -11,7 +11,7 @@ authors:
   - sharon-mar
   - jeremyzilar
 topics:
-  - managing-digital
+  - product-management
   - pra
   - policy
 
