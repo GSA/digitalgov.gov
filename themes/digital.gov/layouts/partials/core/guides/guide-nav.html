@@ -2,7 +2,7 @@
   <nav aria-label="Secondary navigation">
     <ul class="usa-sidenav guide-nav">
       {{- $current_page := . -}}
-      {{ $guide := (index $.Site.Data.guidenav .Params.guide) }}
+      {{ $guide := index $.Site.Data.guidenav (.Params.guide) }}
       {{- if $guide -}}
         {{ template "guidenav-data" (dict "current_page_url" $current_page.URL "guidenav" $guide.nav ) }}
       {{- else -}}
