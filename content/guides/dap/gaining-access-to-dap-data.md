@@ -3,10 +3,10 @@ date: 2019-07-31 09:00:00 -0500
 title: "Gaining Access to the Data"
 deck: ""
 summary: ""
-type: guide
 guide: dap
 aliases:
   - /services/dap/gaining-access-to-dap-data/
+  - /guide/dap/gaining-access-to-dap-data/
 ---
 
 Any federal employee or contractor who works for a participating agency can register for access to the Digital Analytics Program (DAP) reporting interface, so long as the agency point of contact (POC) approves.

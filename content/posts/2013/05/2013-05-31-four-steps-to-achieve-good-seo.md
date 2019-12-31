@@ -60,4 +60,4 @@ There are key aspects of a website that need attention for search engines to ide
       * [Google: Building Quality Content](http://googlewebmastercentral.blogspot.com/2011/05/more-guidance-on-building-high-quality.html)
       * [Yahoo!: Content Quality Guidelines](http://help.yahoo.com/kb/index?page=content&id=SLN2245&actp=search&viewlocale=en_US&searchid=1336402586896&locale=en_US&y=PROD_SRCH)
   * Search analytics
-      * [Web Analytics]({{< ref "/guide/dap/_index.md" >}})
+      * [Web Analytics]({{< ref "/guides/dap/_index.md" >}})

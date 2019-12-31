@@ -43,7 +43,7 @@ With the creation of the U.S. Digital Service and digital service teams within f
 
 ## 3. Support for Customer-Focused Initiatives
 
-The [Customer Service Cross-Agency Priority](http://www.performance.gov/node/3400/view?view=public#overview) (CAP) goal facilitates the creation of platforms and tools to assist agencies in launching customer-focused initiatives. With continued access to free/low-cost analytics tools, this trend will continue. Programs such as the [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}}) (DAP), with key performance indicators and customer satisfaction data, as well as the newly piloted [Federal Feedback Button]({{< ref "2015-05-29-a-conversation-with-omb-on-customer-service.md" >}}), will help agencies make meaningful, data-driven decisions when launching customer-focused initiatives.
+The [Customer Service Cross-Agency Priority](http://www.performance.gov/node/3400/view?view=public#overview) (CAP) goal facilitates the creation of platforms and tools to assist agencies in launching customer-focused initiatives. With continued access to free/low-cost analytics tools, this trend will continue. Programs such as the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP), with key performance indicators and customer satisfaction data, as well as the newly piloted [Federal Feedback Button]({{< ref "2015-05-29-a-conversation-with-omb-on-customer-service.md" >}}), will help agencies make meaningful, data-driven decisions when launching customer-focused initiatives.
 
 ## 4. Acceleration of Mobile Services
 
@@ -67,7 +67,7 @@ GSA has begun piloting a system to gather in-person feedback at locations across
 
 ## 9. Data Collection and Measurement
 
-The [Digital Analytics Program (DAP)]({{< ref "/guide/dap/_index.md" >}}) currently runs on 4,000 websites, allowing agencies to monitor website usage and other key performance indicators such as visits, bounce rate, time on site, device type, and much more. DAP will soon expand to include customer satisfaction surveys, giving agencies the ability to view integrated KPI and satisfaction data. In addition, the public can now monitor real-time traffic on government websites through [analytics.usa.gov](https://analytics.usa.gov/).
+The [Digital Analytics Program (DAP)]({{< ref "/guides/dap/_index.md" >}}) currently runs on 4,000 websites, allowing agencies to monitor website usage and other key performance indicators such as visits, bounce rate, time on site, device type, and much more. DAP will soon expand to include customer satisfaction surveys, giving agencies the ability to view integrated KPI and satisfaction data. In addition, the public can now monitor real-time traffic on government websites through [analytics.usa.gov](https://analytics.usa.gov/).
 
 ## 10. Deliver the Same Answers via All Channels
 

@@ -44,7 +44,7 @@ Example: [“Notify me if someone submits a link to 18F to reddit”](https://if
 
 ## Recruitment
 
-{{< legacy-img src="2015/03/250-x-250-Tim-Lowden-of-Digital-Analytics-Program.jpg" alt="Tim Lowden of Digital Analytics Program" >}}**Tim Lowden** of the [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}}) knows that new positions in digital government are rising up across agencies. To help with professional development and recruitment, he recommends using IFTTT to help potential applicants get alerts when jobs matching specific criteria (such as the positions your department hires) are posted on USAJobs.
+{{< legacy-img src="2015/03/250-x-250-Tim-Lowden-of-Digital-Analytics-Program.jpg" alt="Tim Lowden of Digital Analytics Program" >}}**Tim Lowden** of the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) knows that new positions in digital government are rising up across agencies. To help with professional development and recruitment, he recommends using IFTTT to help potential applicants get alerts when jobs matching specific criteria (such as the positions your department hires) are posted on USAJobs.
 
 Example: “[Send a daily email digest of new NASA postings on USAJobs](https://ifttt.com/recipes/267507-get-nasa-job-listings)” (customizable for keywords, agencies, salary, etc)
 

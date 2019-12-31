@@ -2,11 +2,11 @@
 date: 2019-07-31 09:00:00 -0500
 title: "Common Questions about DAP"
 summary: ""
-type: guide
 guide: dap
 aliases:
   - /services/dap/common-questions-about-dap-faq/
   - /services/dap/common-questions-about-dap/
+  - /guide/dap/common-questions-about-dap/
 
 ---
 
