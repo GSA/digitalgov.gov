@@ -1,18 +1,64 @@
 <aside class="guide-nav-box usa-layout-docs__sidenav">
   <nav aria-label="Secondary navigation">
     <ul class="usa-sidenav guide-nav">
-      {{- $current := . -}}
-      {{- $current_url := $current.URL -}}
-      <li>
-        <a class="{{- if eq .Kind "section" -}}usa-current{{- end -}}" href="{{- .CurrentSection.URL | relURL -}}" title="{{- .Title -}}">Overview</a>
-      </li>
-      {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
-      {{- range sort ($guidepages) ".Params.weight" "desc" -}}
-        {{- if not (eq .Kind "section") -}}
-          <li><a class="{{- if eq $current.URL .URL -}}usa-current{{- end -}}" href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a></li>
-        {{- end -}}
-
+      {{- $current_page := . -}}
+      {{ $guide := (index $.Site.Data.guidenav .Params.guide) }}
+      {{- if $guide -}}
+        {{ template "guidenav-data" (dict "current_page_url" $current_page.URL "guidenav" $guide.nav ) }}
+      {{- else -}}
+        {{ template "guidenav-file" . }}
       {{- end -}}
     </ul>
   </nav>
 </aside>
+
+
+{{- define "nav_link" -}}
+  <a class="{{- if eq .current_page_url .item.href -}}usa-current{{- end -}}" href="{{- .item.href -}}" title="{{- .item.title -}}">{{- .item.title -}}</a>
+{{- end -}}
+
+{{- define "nav_item" -}}
+  {{- $current_page_url := .current_page_url -}}
+  {{- $item := .item -}}
+  <li class="usa-sidenav__item">
+    {{- template "nav_link" (dict "item" $item "current_page_url" $current_page_url) -}}
+    {{- if .item.subnav -}}
+      <ul class="usa-sidenav__sublist">
+        {{- range .item.subnav -}}
+          {{- $item := . -}}
+          {{- template "nav_item" (dict "item" $item "current_page_url" $current_page_url ) -}}
+        {{- end -}}
+      </ul>
+    {{- end -}}
+  </li>
+{{- end -}}
+
+
+{{/* Data driven guide nav — */}}
+{{- define "guidenav-data" -}}
+  {{- $current_page_url := .current_page_url -}}
+  {{- $guidenav := .guidenav -}}
+  {{- range $guidenav -}}
+    {{- template "nav_item" (dict "item" . "current_page_url" $current_page_url ) -}}
+  {{- end -}}
+{{- end -}}
+
+
+
+{{/* File driven guide nav — */}}
+{{- define "guidenav-file" -}}
+  {{- $current := . -}}
+  {{- $current_url := $current.URL -}}
+  <li class="usa-sidenav__item">
+    <a class="{{- if eq .Kind "section" -}}usa-current{{- end -}}" href="{{- .CurrentSection.URL | relURL -}}" title="{{- .Title -}}">Overview</a>
+  </li>
+  {{- $guidepages := (where .Site.Pages ".Params.guide" .Params.guide) -}}
+  {{- range sort ($guidepages) ".Params.weight" "desc" -}}
+    {{- if not (eq .Kind "section") -}}
+      <li class="usa-sidenav__item">
+        <a class="{{- if eq $current.URL .URL -}}usa-current{{- end -}}" href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a>
+      </li>
+    {{- end -}}
+
+  {{- end -}}
+{{- end -}}
