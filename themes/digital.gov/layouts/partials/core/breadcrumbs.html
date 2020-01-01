@@ -14,7 +14,11 @@
       {{- template "breadcrumb" dict "current" .current.Parent -}}
     {{- end }}
 
+    {{- if eq .id .current.UniqueID }}
+    <span class="arrow-right"></span> {{ .current.Title -}}
+    {{ else }}
     <span class="arrow-right"></span> <a href="{{- .current.URL -}}">{{- .current.Title -}}</a>
+    {{- end -}}
 
   {{- end -}}
 {{- end -}}
