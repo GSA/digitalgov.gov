@@ -1,21 +1,20 @@
-<nav class="breadcrumb">
+<nav class="breadcrumbs">
   <p>
     <a href="/">Home</a>
-    {{ template "breadcrumb" dict "currentPage" .Page "id" .UniqueID }}
+    {{- template "breadcrumb" dict "current" . "id" .UniqueID -}}
   </p>
 </nav>
 
+<!-- Breadcrumb template -->
+{{- define "breadcrumb" -}}
+  {{- if .current.Parent -}}
+    <!-- If the Parent is not HOME -->
+    {{- if ne .current.Parent .IsHome -}}
+      <!-- Call this template again -->
+      {{- template "breadcrumb" dict "current" .current.Parent -}}
+    {{- end }}
 
-<!-- templates -->
-{{ define "breadcrumb" }}
-  {{ if .currentPage.Parent }}
-    {{ if ne .currentPage.Parent .IsHome }}
-      {{ template "breadcrumb" dict "currentPage" .currentPage.Parent }}
-    {{ end }}
-    {{ if eq .id .currentPage.UniqueID }}
-      <!-- {{ .currentPage.Title }} -->
-    {{ else }}
-      / <a href="{{ .currentPage.URL }}">{{ .currentPage.Title }}</a>
-    {{ end }}
-  {{ end }}
-{{ end }}
+    <span class="arrow-right"></span> <a href="{{- .current.URL -}}">{{- .current.Title -}}</a>
+
+  {{- end -}}
+{{- end -}}

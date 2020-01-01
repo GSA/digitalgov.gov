@@ -14,6 +14,9 @@
           <div class="usa-layout-docs__main usa-prose">
 
             <div class="page-head">
+
+              {{- partial "core/breadcrumbs" . -}}
+
               {{/* Page Title */}}
               <h1>{{- .Title | markdownify -}} </h1>
 
