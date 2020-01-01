@@ -3,6 +3,9 @@
 <main role="main">
 
   <article>
+
+    {{- partial "core/breadcrumbs" . -}}
+
     <div class="grid-container grid-container-widescreen">
       <div class="grid-row grid-gap-4">
 
@@ -14,8 +17,6 @@
           <div class="usa-layout-docs__main usa-prose">
 
             <div class="page-head">
-
-              {{- partial "core/breadcrumbs" . -}}
 
               {{/* Page Title */}}
               <h1>{{- .Title | markdownify -}} </h1>

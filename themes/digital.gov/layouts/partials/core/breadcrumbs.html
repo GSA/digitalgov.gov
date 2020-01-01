@@ -1,8 +1,14 @@
 <nav class="breadcrumbs">
-  <p>
-    <a href="/">Home</a>
-    {{- template "breadcrumb" dict "current" . "id" .UniqueID -}}
-  </p>
+  <div class="grid-container grid-container-widescreen">
+    <div class="grid-row">
+      <div class="grid-col-auto">
+        <p>
+          <a href="/">Home</a>
+          {{- template "breadcrumb" dict "current" . "id" .UniqueID -}}
+        </p>
+      </div>
+    </div>
+  </div>
 </nav>
 
 <!-- Breadcrumb template -->
