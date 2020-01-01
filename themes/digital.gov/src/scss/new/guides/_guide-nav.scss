@@ -1,5 +1,9 @@
 .guide-nav-box {
 	@include u-border-right('1px', 'base-lighter', 'solid');
+	@include u-display('none');
+	@include at-media('tablet-lg') {
+		@include u-display('block');
+	}
 	.guide-nav{
 		@include u-margin-bottom(3);
 		@include u-font('sans', 'sm');
