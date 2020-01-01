@@ -43,25 +43,14 @@
       <div class="grid-row">
         <div class="grid-col-12">
           {{/* Page Title */}}
-          {{- if eq .Kind "section" -}}
+          {{ with $.Site.GetPage (printf "/guides/%s" .Params.guide) }}
             <h1>{{- .Title -}}</h1>
 
             {{/* Deck */}}
             {{- if .Params.deck -}}
             <div class="deck">{{- .Params.deck | markdownify -}}</div>
             {{- end -}}
-
-          {{- else -}}
-
-            {{- $current := . -}}
-            <h1><a href="{{- $current.Parent.Permalink -}}" title="{{- $current.Parent.Title -}}">{{- $current.Parent.Title -}}</a></h1>
-
-            {{/* Deck */}}
-            {{- if $current.Parent.Params.deck -}}
-            <div class="deck">{{- $current.Parent.Params.deck | markdownify -}}</div>
-            {{- end -}}
-
-          {{- end -}}
+          {{ end }}
         </div>
       </div>
     </div>
