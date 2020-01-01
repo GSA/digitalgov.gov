@@ -1,0 +1,44 @@
+{{/*
+  Checks if "IsNode", or if this is a Section index file.
+  Sections are any directory in the content folder, including nested ones.
+
+  If not, it displays the table of contents for that page.
+
+*/}}
+
+{{- if .IsNode -}}
+
+  <div class="toc guide-toc">
+    {{/*
+      Checks if the page is the top most page in a guide.
+      - If yes, it will display the "In this guide"
+      - If no, it will display the "In this section"
+    */}}
+    {{- if eq .Page.File.Dir (printf "guides/%s/" .Page.Params.guide) -}}
+      <h2>In this guide</h2>
+    {{- else -}}
+      <h2>In this section</h2>
+    {{- end -}}
+
+    <ul>
+      {{- $guide_section_pages := (where .Site.Pages ".Page.Params.guide" .Page.Params.guide) -}}
+      {{- range sort ($guide_section_pages) ".Page.Params.weight" "desc" -}}
+        {{- if not (eq .Kind "section") -}}
+          <li>
+            <a href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a>
+          </li>
+        {{- end -}}
+      {{- end -}}
+    </ul>
+  </div>
+
+{{- else -}}
+
+  {{- if .Page.TableOfContents -}}
+  <div class="toc guide-toc">
+    <h2>On this page</h2>
+    {{- .Page.TableOfContents -}}
+  </div>
+  {{- end -}}
+
+{{- end -}}

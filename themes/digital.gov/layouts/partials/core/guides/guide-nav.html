@@ -17,6 +17,7 @@
   <a class="{{- if eq .current_page_url .item.href -}}usa-current{{- end -}}" href="{{- .item.href -}}" title="{{- .item.title -}}">{{- .item.title -}}</a>
 {{- end -}}
 
+
 {{- define "nav_item" -}}
   {{- $current_page_url := .current_page_url -}}
   {{- $item := .item -}}
