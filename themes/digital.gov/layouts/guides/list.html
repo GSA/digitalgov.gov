@@ -16,25 +16,16 @@
         <div class="grid-col-12 tablet-lg:grid-col-8">
           <div class="usa-layout-docs__main usa-prose">
 
-            <div class="page-head">
+            {{/*
+              Checks if the page is the top most page in a guide.
+              If not, it will display the Guide Page Head
+            */}}
+            
+            {{- if not (eq .File.Dir (printf "guides/%s/" .Params.guide)) -}}
+              {{- partial "core/guides/guide-page-head" . -}}
+            {{- end -}}
 
-              {{/* Page Title */}}
-              <h1>{{- .Title | markdownify -}} </h1>
-
-              {{/* Deck */}}
-              {{- if .Params.deck -}}
-              <div class="usa-intro">{{- .Params.deck | markdownify -}}</div>
-              {{- end -}}
-
-              {{- if .TableOfContents -}}
-              <div class="toc toc-guide">
-                <h2>In this page</h2>
-                {{- .TableOfContents -}}
-              </div>
-              {{- end -}}
-            </div>
-
-            {{ .Content }}
+            {{- .Content -}}
 
           </div>
 

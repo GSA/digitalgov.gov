@@ -1,0 +1,17 @@
+<div class="page-head">
+
+  {{/* Page Title */}}
+  <h1>{{- .Title | markdownify -}} </h1>
+
+  {{/* Deck */}}
+  {{- if .Params.deck -}}
+  <div class="usa-intro">{{- .Params.deck | markdownify -}}</div>
+  {{- end -}}
+
+  {{- if .TableOfContents -}}
+  <div class="toc toc-guide">
+    <h2>In this page</h2>
+    {{- .TableOfContents -}}
+  </div>
+  {{- end -}}
+</div>
