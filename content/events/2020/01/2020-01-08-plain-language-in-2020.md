@@ -11,9 +11,36 @@ event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/87983421783
 
 # start date
-date: 2020-01-08 14:000:00 -0500
+date: 2020-01-08 14:00:00 -0500
 
 # end date
-end_date: 2020-01-08 15:030:00
+end_date: 2020-01-08 15:30:00
+
+# see all topics at https://digital.gov/topics
+topics:
+  - content
+  - plain-language
+  - plain-language-community-of-practice
+
+# see all authors at https://digital.gov/authors
+authors:
+  - katherine-spivey
+
+event_platform: zoom
+
+featured_image:
+  uid: plain-language
+  alt: ''
 
 ---
+
+{{< img-right src="plain-language" >}}
+
+The new year is upon us and we have a lot of potential topics to cover in our monthly meetings, but we’d prefer to gauge our members’ interest beforehand. What topics do you think we should be covering? Who should we be inviting to talk? What would should we accomplish together in #2020?
+
+
+**About PlainLanguage.gov**
+
+_The [Plain Language Action and Information Network](https://www.plainlanguage.gov/about/) (PLAIN) is a group of federal employees from different agencies and specialties who support the use of clear communication in government writing. Visit [plainlanguage.gov](https://www.plainlanguage.gov/) or [join the community](https://www.digitalgov.gov/communities/plain-language/)._
+
+Questions about this event or future events? Email them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
