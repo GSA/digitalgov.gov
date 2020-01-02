@@ -1,1 +1,5 @@
-{{ partial "core/list_related_resources.html" .Page }}
+{{- $page := .Page -}}
+
+{{- $related_pages := $.Site.Pages.RelatedTo ( keyVals "topics" "uswds" "content") -}}
+{{- $resources := where $related_pages "Section" "resources" -}}
+{{- partial "core/list_related_resources.html" (dict "Page" $page "Resources" $resources) -}}

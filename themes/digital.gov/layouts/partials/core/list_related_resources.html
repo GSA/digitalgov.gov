@@ -11,13 +11,11 @@ A list of the most important resources tagged with the same topic */}}
   {{- $resources = (where .Pages "Section" "resources") -}}
 {{- end -}}
 
-
 {{/* If this is being used on a PAGE (e.g. like as in a shortcode...) */}}
-{{- if eq .Kind "page" -}}
-  {{/* gets all pages in the site that are related */}}
-  {{- $related_pages := $.Site.Pages.Related . -}}
+{{- if eq .Page.Kind "page" -}}
+  {{/* gets all pages in the site that are related, via the partial */}}
   {{/* gets only the related resource pages */}}
-  {{- $resources = where $related_pages "Section" "resources" -}}
+  {{- $resources = .Resources -}}
 {{- end -}}
 
 
@@ -37,7 +35,7 @@ A list of the most important resources tagged with the same topic */}}
 
           {{/* If there is a defined source for this page */}}
           {{- if .Params.source -}}
-            {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+            {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
             {{- if $source.Params.icon -}}
 
               {{/*
@@ -71,7 +69,7 @@ A list of the most important resources tagged with the same topic */}}
 
           {{/* Use the digital.gov logo */}}
           {{- $source_url := (print "/img/digit-50.png") -}}
-          <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
+          <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Page.Title | markdownify -}}</span>
 
         </a>
         {{- if .Params.deck -}}  — {{- .Params.deck -}}{{- end -}}
