@@ -1,6 +1,6 @@
 ---
 date: 2019-12-31 12:00:00 -0500
-title: "A search function is included on your site (through Search.gov or another tool)"
+title: "Include a search function"
 deck: ""
 summary: "TKTK"
 guide: 21st-century-idea
@@ -9,10 +9,13 @@ topics:
   - search
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{{< box >}}
+# A search function is included on your site (through Search.gov or another tool)
+{{< /box >}}
 
 ## Resources
-{{< list-resources >}}
+{{< list-resources "design" "content" "uswds" >}}
 
-## Heading
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Get a badge
+
+TKTK
