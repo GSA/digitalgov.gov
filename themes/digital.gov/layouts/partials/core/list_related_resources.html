@@ -1,14 +1,31 @@
 {{/* Key Resources — 
 A list of the most important resources tagged with the same topic */}}
 
-{{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
-{{- $resources := (where .Pages "Section" "resources") -}}
+
+{{/* Define the $resources variable */}}
+{{- $resources := "" -}}
+
+{{/* If this is being used on a TOPICS list page... */}}
+{{- if eq .Kind "taxonomy" -}}
+  {{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
+  {{- $resources = (where .Pages "Section" "resources") -}}
+{{- end -}}
+
+
+{{/* If this is being used on a PAGE (e.g. like as in a shortcode...) */}}
+{{- if eq .Kind "page" -}}
+  {{/* gets all pages in the site that are related */}}
+  {{- $related_pages := $.Site.Pages.Related . -}}
+  {{/* gets only the related resource pages */}}
+  {{- $resources = where $related_pages "Section" "resources" -}}
+{{- end -}}
+
 
 {{/* If there are any resources at all... */}}
 {{- if $resources -}}
 
 <div class="list-collection">
-  <h2>Resources on {{ .Title -}}  </h2>
+  {{- if eq .Kind "taxonomy" -}}<h2>Resources on {{ .Title -}}</h2>{{- end -}}
   <ul>
     {{- range sort $resources "Title" "asc" -}}
 
