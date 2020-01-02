@@ -14,7 +14,7 @@
 
 
 {{- define "nav_link" -}}
-  <a class="{{- if eq .current_page_url .item.href -}}usa-current{{- end -}}" href="{{- .item.href -}}" title="{{- .item.title -}}">{{- .item.title -}}</a>
+  <a class="{{- if eq .current_page_url .item.href -}}usa-current{{- end -}}" href="{{- .item.href -}}" title="{{- .item.title -}}">{{- .item.title }} {{ if .item.subnav -}}<span class="arrow-right"></span>{{- end -}}</a>
 {{- end -}}
 
 
