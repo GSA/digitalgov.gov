@@ -4,13 +4,13 @@ nav:
 - title  : 'Getting Started'
   href   : '/guides/21st-century-idea/getting-started/'
   subnav   :
-  - title  : 'Basics'
-    href   : '/guides/21st-century-idea/getting-started/basics/'
-    subnav   :
-    - title  : 'Team'
-      href   : '/guides/21st-century-idea/getting-started/basics/team/'
   - title  : 'Three Easy Tasks'
     href   : '/guides/21st-century-idea/getting-started/basics/three-easy-tasks/'
+  - title  : 'Example Subnav'
+    href   : '/guides/21st-century-idea/getting-started/example-subnav/'
+    subnav   :
+    - title  : 'Example Page'
+      href   : '/guides/21st-century-idea/getting-started/example-subnav/example-page/'
 - title    : 'Design Principles'
   href     : '/guides/21st-century-idea/design-principles/'
   subnav   :
