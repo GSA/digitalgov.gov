@@ -19,7 +19,7 @@ featured_image:
 
 {{< img-right src="this-weeks-idea-icon-wk3" >}}
 
-Welcome to this week’s idea, where we explain one essential topic around [**21st Century IDEA**](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) and give you the resources and tools to start making focused changes to your digital products.
+Welcome to this week’s idea, where we explain one essential topic around [**21st Century IDEA**](https://digital.gov/guides/21st-century-idea/) and give you the resources and tools to start making focused changes to your digital products.
 
 This week, we’d like to talk about [trust](https://www.merriam-webster.com/dictionary/trust), and the key elements that go into building that trust with people who are using our services.
 
@@ -47,7 +47,7 @@ Over the course of the next few weeks, we'll be taking your answers and using th
 {{< box >}}
 **Still Getting to Know 21st Century IDEA?**
 
-- [We published an overview of 21st Century IDEA]({{< link "resources/21st-century-integrated-digital-experience-act.md" >}}) where we break down the key sections of the law in clear, plain language. We’ll be building on this in the coming weeks.
+- [We published an overview of 21st Century IDEA]({{< link "guides/21st-century-idea/_index.md" >}}) where we break down the key sections of the law in clear, plain language. We’ll be building on this in the coming weeks.
 - Chat with others in government about 21st Century IDEA in the [Web Managers community](https://digital.gov/communities/web-content-managers/). This listserv has the right mix of people who work at the intersection of communication and technology in government.
 
 {{< /box >}}

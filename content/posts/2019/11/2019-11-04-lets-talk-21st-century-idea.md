@@ -22,7 +22,7 @@ Each week, we’ll break down one topic that is essential to [21st Century IDEA]
 
 **Still Getting to Know 21st Century IDEA?**
 
-- [We published an overview of 21st Century IDEA]({{< link "resources/21st-century-integrated-digital-experience-act.md" >}}) where we break down the key sections of the law in clear, plain language. We’ll be building on this in the coming weeks.
+- [We published an overview of 21st Century IDEA]({{< link "guides/21st-century-idea/_index.md" >}}) where we break down the key sections of the law in clear, plain language. We’ll be building on this in the coming weeks.
 - Chat with others in government about 21st Century IDEA in the [Web Managers community](https://digital.gov/communities/web-content-managers/). This listserv has the right mix of people who work at the intersection of communication and technology in government.
 - Oh and about the name — we’re not referring to this law as the “IDEA Act” or “IDEA” since there is already [one of those out there](https://sites.ed.gov/idea/). So we’re using the Act’s official short title, _“21st Century IDEA.”_
 

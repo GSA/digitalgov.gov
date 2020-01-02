@@ -35,7 +35,7 @@ The Web Council is led by two co-chairs; one from the U.S. General Services Admi
 
 ## Current Projects and Key Resources
 
--   [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA)
+-   [21st Century Integrated Digital Experience Act](https://digital.gov/guides/21st-century-idea/) (21st Century IDEA)
 -   [Checklist of Requirements for Federal Websites and Digital Services](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)
 -   [Required Web Content and Links](https://digital.gov/resources/required-web-content-and-links/)
 -   [U.S. Web Design System](https://designsystem.digital.gov/)
