@@ -3,7 +3,7 @@ date: 2019-12-31 12:00:00 -0500
 title: "Promote continuity"
 deck: "Real user needs should inform product decisions."
 summary: "TKTK"
-guide: 21st-century-idea
+guide: website-standards
 
 ---
 

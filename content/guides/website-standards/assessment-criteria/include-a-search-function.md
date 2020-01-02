@@ -3,7 +3,7 @@ date: 2019-12-31 12:00:00 -0500
 title: "Include a search function"
 deck: ""
 summary: "TKTK"
-guide: 21st-century-idea
+guide: website-standards
 topics:
   - mobile
   - search

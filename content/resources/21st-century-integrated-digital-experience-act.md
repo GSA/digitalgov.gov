@@ -9,9 +9,6 @@ featured_image:
 authors:
   - ammie-farraj-feijoo
   - jeremyzilar
-guide: 21st-century-idea
-aliases:
-  - /resources/21st-century-integrated-digital-experience-act/
 ---
 
 

@@ -1,0 +1,31 @@
+nav:
+- title    : 'Overview'
+  href     : '/guides/website-standards/'
+- title  : 'Getting Started'
+  href   : '/guides/website-standards/getting-started/'
+  subnav   :
+  - title  : 'Three Easy Tasks'
+    href   : '/guides/website-standards/getting-started/basics/three-easy-tasks/'
+  - title  : 'Example Subnav'
+    href   : '/guides/website-standards/getting-started/example-subnav/'
+    subnav   :
+    - title  : 'Example Page'
+      href   : '/guides/website-standards/getting-started/example-subnav/example-page/'
+- title    : 'Design Principles'
+  href     : '/guides/website-standards/design-principles/'
+  subnav   :
+  - title  : 'Start with real user needs'
+    href   : '/guides/website-standards/design-principles/start-with-real-user-needs/'
+  - title  : 'Earn Trust'
+    href   : '/guides/website-standards/design-principles/earn-trust/'
+  - title  : 'Embrace accessibility'
+    href   : '/guides/website-standards/design-principles/embrace-accessibility/'
+  - title  : 'Promote continuity'
+    href   : '/guides/website-standards/design-principles/promote-continuity/'
+  - title  : 'Listen'
+    href   : '/guides/website-standards/design-principles/listen/'
+- title    : 'Assessment Criteria'
+  href     : '/guides/website-standards/assessment-criteria/'
+  subnav   :
+  - title  : 'Include a search function'
+    href     : '/guides/website-standards/assessment-criteria/include-a-search-function/'
