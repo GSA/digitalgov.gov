@@ -88,9 +88,11 @@ permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
 
+# Related Posts Config
+# See: https://gohugo.io/content-management/related/#default-configuration
 related:
   threshold: 100
-  includeNewer: false
+  includeNewer: true
   toLower: false
   indices:
   - name: topics
