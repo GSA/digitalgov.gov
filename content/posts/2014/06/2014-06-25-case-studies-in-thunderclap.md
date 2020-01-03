@@ -1,8 +1,8 @@
 ---
 slug: case-studies-in-thunderclap
 date: 2014-06-25 12:37:31 -0400
-title: Case Studies in Thunderclap
-summary: 'Now that Thunderclap has been approved for government use for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar. [youtube=http://www.youtube.com/watch?v=QuACkq02GVw&w=600]   What Makes a Thunderclap? Nicholas Garlow, public affairs specialist'
+title: "Case Studies in Thunderclap"
+summary: "Now that Thunderclap has been approved for government use for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages."
 authors:
   - alison-lemon
 topics:
@@ -55,7 +55,7 @@ EPA achieved success on their next two campaigns, [On Earth Day, #ActOnClimate!]
 
   * Thunderclap campaign subjects should be of interest to a broad audience, especially millennials.
   * Write a blog post and explain Thunderclap for those not familiar with the tool. Make it clear Thunderclap will only post to their account this one time.
-  * Allow enough time for promotion and promote daily on social media. Include current number of supporters in posts. For example: 
+  * Allow enough time for promotion and promote daily on social media. Include current number of supporters in posts. For example:
       * We need your help! 250 people have supported our Thunderclap, we need 500 to meet our goal!
       * Tag @ThunderclapIT on Twitter.
   * Remember to thank your supporters for promoting the message.

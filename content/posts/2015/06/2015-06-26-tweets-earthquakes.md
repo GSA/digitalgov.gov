@@ -13,7 +13,7 @@ topics:
   - data-visualization
   - social-media
   - Twitter
-  - United States Geological Survey
+  - united-states-geological-survey
   - USGS
 ---
 

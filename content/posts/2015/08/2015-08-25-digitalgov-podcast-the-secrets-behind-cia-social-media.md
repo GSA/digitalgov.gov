@@ -11,7 +11,7 @@ topics:
   - CIA
   - podcast
   - socialgov
-  - United States Geological Survey
+  - united-states-geological-survey
   - USGS
 ---
 

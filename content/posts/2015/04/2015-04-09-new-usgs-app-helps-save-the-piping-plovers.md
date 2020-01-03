@@ -12,7 +12,7 @@ topics:
   - Federal Mobile Products Registry
   - native-app
   - thursday-mobile-products
-  - United States Geological Survey
+  - united-states-geological-survey
   - usa-gov-federal-mobile-apps-directory
   - USGS
 ---
