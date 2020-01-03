@@ -7,7 +7,6 @@
 */}}
 
 {{- if .Page.IsNode -}}
-
   <div class="toc guide-toc">
     {{/*
       Checks if the page is the top most page in a guide.
@@ -21,13 +20,13 @@
     {{- end -}}
 
     <ul>
-      {{- $guide_section_pages := (where .Site.Pages ".Page.Params.guide" .Page.Params.guide) -}}
-      {{- range sort ($guide_section_pages) ".Page.Params.weight" "desc" -}}
-        {{- if not (eq .Kind "section") -}}
-          <li>
-            <a href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a>
-          </li>
-        {{- end -}}
+      <!-- Get all -->
+      {{- $guide_pages := where $.Site.RegularPages "Section" "guides" -}}
+      {{- $guide_pages := where $guide_pages "Section" .Page.CurrentSection -}}
+      {{- range sort (.Page.Pages) ".Page.Params.weight" "desc" -}}
+        <li>
+          <a href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a>
+        </li>
       {{- end -}}
     </ul>
   </div>
