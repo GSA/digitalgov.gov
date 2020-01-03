@@ -1,8 +1,8 @@
 ---
 slug: digitalgov-podcast-the-secrets-behind-cia-social-media
 date: 2015-08-25 10:00:43 -0400
-title: 'DigitalGov Podcast: The Secrets Behind CIA Social Media'
-summary: 'Julia Child and the OSS Recipe for Shark Repellent: http://t.co/q3cC4QiJhR #SharkWeek #OSS #WWII pic.twitter.com/Idbo1OkPLP &mdash; CIA (@CIA) July 9, 2015 The Central Intelligence Agency launched their Twitter account with the second most retweeted inaugural post in the platform’s history: &ldquo;We can neither confirm nor deny that this is our first tweet.&rdquo; Now for the first'
+title: "DigitalGov Podcast: The Secrets Behind CIA Social Media"
+summary: "The Central Intelligence Agency launched their Twitter account with the second most retweeted inaugural post in the platform’s history."
 authors:
   - jherman
 topics:
@@ -19,7 +19,7 @@ topics:
   <p dir="ltr" lang="en">
     Julia Child and the OSS Recipe for Shark Repellent: <a href="http://t.co/q3cC4QiJhR">http://t.co/q3cC4QiJhR</a> <a href="https://twitter.com/hashtag/SharkWeek?src=hash">#SharkWeek</a> <a href="https://twitter.com/hashtag/OSS?src=hash">#OSS</a> <a href="https://twitter.com/hashtag/WWII?src=hash">#WWII</a> <a href="http://t.co/Idbo1OkPLP">pic.twitter.com/Idbo1OkPLP</a>
   </p>
-  
+
   <p>
     — CIA (@CIA) <a href="https://twitter.com/CIA/status/619224775483785216">July 9, 2015</a>
   </p>
@@ -39,8 +39,8 @@ Justin Herman, GSA lead for the government-wide [SocialGov Community]({{< ref "s
 
 Also joining the conversation is Scott Horvath, social media lead for the U.S. Geological Survey, providing perspectives from his more than eight years of experience in government social media.<audio class="wp-audio-shortcode" id="audio-302122-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA\_Podcast.mp3?\_=4" />
 
-<https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3></audio> 
+<https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3></audio>
 
- 
+
 
 To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA_Podcast.mp3) (21 MB). You can also download and [read the transcript](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/08/CIA-Social-Media-Podcast-Aug-2015-Transcript.docx) (10 pages, 14 kb MS Word).
