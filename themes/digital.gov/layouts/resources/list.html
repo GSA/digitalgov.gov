@@ -61,6 +61,28 @@
       </div>
     </section>
 
+    {{/* Resources Listed by Topic */}}
+    {{- $page := .Page -}}
+    <section class="usa-section" id="resources_featured">
+      <div class="grid-container grid-container-desktop">
+        {{ range $name, $taxonomy := $.Site.Taxonomies.topics }}
+          {{- with $.Site.GetPage (printf "/topics/%s" $name) -}}
+            <div class="grid-row">
+              <div class="grid-col-12 tablet-lg:grid-gap-2">
+                {{- $resources_by_topic := (where $taxonomy "Section" "resources") -}}
+                {{- if $resources_by_topic -}}
+                  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                  {{- partial "core/list_related_resources.html" (dict "Page" $page "Resources" $resources_by_topic) -}}
+                {{- end -}}
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+
+
+
   </article>
 </main>
 

@@ -12,7 +12,7 @@ A list of the most important resources tagged with the same topic */}}
 {{- end -}}
 
 {{/* If this is being used on a PAGE (e.g. like as in a shortcode...) */}}
-{{- if eq .Page.Kind "page" -}}
+{{- if or (eq .Page.Kind "page") (eq .Page.Kind "section") -}}
   {{/* gets all pages in the site that are related, via the partial */}}
   {{/* gets only the related resource pages */}}
   {{- $resources = .Resources -}}
@@ -21,7 +21,6 @@ A list of the most important resources tagged with the same topic */}}
 
 {{/* If there are any resources at all... */}}
 {{- if $resources -}}
-
 <div class="list-collection">
   {{- if eq .Kind "taxonomy" -}}<h2>Resources on {{ .Title -}}</h2>{{- end -}}
   <ul>
