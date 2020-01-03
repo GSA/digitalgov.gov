@@ -2,7 +2,7 @@
 slug: unlocking-the-promise-of-broadband-for-all-americans
 date: 2016-07-19 2:30:50 -0400
 title: Unlocking the Promise of Broadband for All Americans
-summary: 'Summary: The Administration announces new wireless research efforts that will improve testing and research of advanced wireless technologies. Benjamin Franklin. Thomas Edison. George Washington Carver. Samuel Morse. America is a nation of inventors, and invention has spurred American growth since its inception, to the benefit of all Americans. [youtube=http://www.youtube.com/watch?v=LkEG8KLvaAc&w=600] That same spirit of invention continues today,'
+summary: 'The Administration announces new wireless research efforts that will improve testing and research of advanced wireless technologies.'
 authors:
   - r-david-edelman
   - jason-furman
@@ -22,7 +22,7 @@ topics:
 Benjamin Franklin. Thomas Edison. George Washington Carver. Samuel Morse. America is a nation of inventors, and invention has spurred American growth since its inception, to the benefit of all Americans.
 
 [youtube=http://www.youtube.com/watch?v=LkEG8KLvaAc&w=600]
-  
+
 That same spirit of invention continues today, and this Administration has worked tirelessly over the past seven years to promote [pro-innovation policies](https://www.whitehouse.gov/sites/default/files/docs/ERP_2016_Chapter_5.pdf) to help the U.S. prosper and grow. One area the President has focused on has been [spectrum](https://www.whitehouse.gov/sites/default/files/docs/erp_2014_chapter_5.pdf) —the airwaves over which our wireless communications travel. By focusing both on making more spectrum available for mobile broadband and supporting research and innovation into better spectrum usage, the President has helped satisfy ever-increasing demand for fast, high-capacity telecommunications that are critical to our economic future.
 
 **Today, the Administration continues to build on this history of innovation by announcing new [wireless research efforts](https://www.whitehouse.gov/the-press-office/2016/07/15/fact-sheet-administration-announces-advanced-wireless-research) that will improve testing and research of advanced wireless technologies.** This effort will help spur innovation in many ways, from pushing the frontiers of tele-medicine through robot-assisted remote surgeries, to testing of autonomous vehicles that talk to each other to keep us safe, to the roll-out of smart manufacturing equipment in factories, to providing more connectivity for more people. Each one of these innovations has the potential to support increased productivity growth that can put more money in the pocket of American families.
