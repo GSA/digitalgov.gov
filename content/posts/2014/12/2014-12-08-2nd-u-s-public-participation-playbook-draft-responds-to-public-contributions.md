@@ -58,7 +58,7 @@ topics:
   - united-states-census-bureau
   - united-states-department-of-homeland-security
   - united-states-department-of-transportation
-  - United States Geological Survey
+  - united-states-geological-survey
   - us-fish-and-wildlife-service
   - USGS
   - white-house-office-of-science-and-technology-policy

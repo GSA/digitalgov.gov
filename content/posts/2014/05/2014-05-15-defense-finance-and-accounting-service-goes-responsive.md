@@ -12,7 +12,7 @@ topics:
   - DoD
   - DOE
   - epa
-  - Executive Office of the President
+  - executive-office-of-the-president
   - HHS
   - mobile-ux-guideline-5
   - responsive-web-design

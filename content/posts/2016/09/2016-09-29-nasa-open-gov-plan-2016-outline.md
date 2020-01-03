@@ -2,7 +2,7 @@
 slug: nasa-open-gov-plan-2016-outline
 date: 2016-09-29 2:00:50 -0400
 title: 'NASA: Open Gov Plan 2016 Outline'
-summary: 'Here is the outline for our 2016 Open Government Plan. Let us know what you think. We&#8217;ve also posted this on GitHub/NASA for your comments: https://github.com/nasa/Open-Gov-Plan-v4. NASA and Open Government NASA is an open government agency based on the founding legislation in the National Aeronautics and Space Act of 1958, which calls for participation and sharing'
+summary: "Here is the outline for our 2016 Open Government Plan. Let us know what you think."
 authors:
   - beth-beck
 topics:
@@ -29,15 +29,15 @@ topics:
   - open-government
 ---
 
-> Here is the outline for our 2016 Open Government Plan. Let us know what you think. We&#8217;ve also posted this on GitHub/NASA for your comments: <a href="https://github.com/nasa/Open-Gov-Plan-v4" target="_blank">https://github.com/nasa/Open-Gov-Plan-v4</a>.
+> Here is the outline for our 2016 Open Government Plan. Let us know what you think. We&#8217;ve also posted this on GitHub/NASA for your comments: [https://github.com/nasa/Open-Gov-Plan-v4](https://github.com/nasa/Open-Gov-Plan-v4)
 
 ## NASA and Open Government
 
-NASA is an open government agency based on the founding legislation in the National Aeronautics and Space Act of 1958, which calls for participation and sharing in the conduct of how we go about the business of expanding the frontiers of knowledge, advancing understanding of the universe, and serving the American public. {{< legacy-img src="2016/09/600-x-300-openNASA-mars\_grav\_tharsis_original.jpg" alt="Map of Mars Gravity" caption="" >}} 
+NASA is an open government agency based on the founding legislation in the National Aeronautics and Space Act of 1958, which calls for participation and sharing in the conduct of how we go about the business of expanding the frontiers of knowledge, advancing understanding of the universe, and serving the American public. {{< legacy-img src="2016/09/600-x-300-openNASA-mars\_grav\_tharsis_original.jpg" alt="Map of Mars Gravity" caption="" >}}
 
 From 2010 to date, NASA’s Open Government Initiative has matured, evolved, and adapted to shifting priorities in leadership from the White House, Office of Management and Budget, and NASA executives. The original tenets have not changed; however, the application of open government principles &#8212; participation, transparency, and openness &#8212; are applied according to priorities of agency leadership.
 
-**NASA Organizational Structure** {{< legacy-img src="2016/09/600-x-446-NASA\_org\_chart_2015.jpg" alt=" NASA Organizational Structure" caption="" >}} 
+**NASA Organizational Structure** {{< legacy-img src="2016/09/600-x-446-NASA\_org\_chart_2015.jpg" alt=" NASA Organizational Structure" caption="" >}}
 
 **Cross-cutting Objectives:**
 

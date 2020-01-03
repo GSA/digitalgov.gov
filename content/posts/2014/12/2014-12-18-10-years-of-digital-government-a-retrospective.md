@@ -26,7 +26,7 @@ topics:
   - SBA
   - us-small-business-administration
   - united-states-department-of-health-and-human-services
-  - United States Geological Survey
+  - united-states-geological-survey
   - USGS
 ---
 

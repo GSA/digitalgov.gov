@@ -1,23 +1,38 @@
 ---
+# View this page at https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: bilingual-glossaries-dictionaries-style-guides
-date: 2014-06-11 9:55:09 -0400
-title: 'Bilingual Glossaries, Dictionaries, and Style Guides'
-summary: 'Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government.'
+date: 2014-06-11 9:55:00 -0500
+title: "Bilingual Glossaries, Dictionaries, and Style Guides"
+deck: "Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent."
+summary: "Multilingual resources for government employees, translators, and communications professionals who work with the government that contains information on grammar and style issues, glossaries, and dictionaries to standardize the use of various languages across government."
 
-deck: 'Governmentwide resources to make communicating government information to multilingual audiences easier and more consistent.'
-
-topics:
+# see all topics at https://digital.gov/topics
+topics: 
+  - accessibility
+  - content
   - multilingual
+  - plain-language
   - multilingual-community
 
-weight: 2
-
-authors:
+# see all authors at https://digital.gov/authors
+authors: 
   - lgodfrey
   - lmartinez
-aliases:
-    - /resources/spanish-language-style-guide-and-glossaries/
 
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+# 2 -- highlighted
+weight: 2
+
+# Redirects: enter the path of the URL that you want redirected to this page
+aliases: 
+  - /resources/spanish-language-style-guide-and-glossaries/
+
+
+# Make it better ♥
 ---
 
 The bilingual glossaries, dictionaries, and Spanish language style guides available in this section are resources for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in languages other than English.

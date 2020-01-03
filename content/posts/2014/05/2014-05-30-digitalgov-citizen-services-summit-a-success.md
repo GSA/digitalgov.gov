@@ -2,7 +2,7 @@
 slug: digitalgov-citizen-services-summit-a-success
 date: 2014-05-30 4:36:49 -0400
 title: DigitalGov Citizen Services Summit a Success
-summary: 'We had a GREAT DigitalGov Citizen Services Summit today. There were more than 200 digital innovators from across government and industry working to build the 21st century government the public expects. The four panels focused on performance analysis, customer service across channels, inter-agency work, and public private partnerships. Here&#8217;s what you missed in a short highlight video. [youtube=http://www.youtube.com/watch?v=EIWwnomPxo4&w=600]'
+summary: 'We had a GREAT DigitalGov Citizen Services Summit today. There were more than 200 digital innovators from across government and industry working to build the 21st century government the public expects.'
 authors:
   - apiazza
 topics:

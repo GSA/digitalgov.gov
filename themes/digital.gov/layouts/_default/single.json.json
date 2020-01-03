@@ -33,11 +33,11 @@
       "kicker" : "{{- .Params.kicker -}}",
       {{- end -}}
       "title" : {{- .Title | jsonify -}},
-      {{- if (isset .Params "summary") -}}
-      "summary" : "{{- .Params.summary -}}",
-      {{- end -}}
       {{- if (isset .Params "deck") -}}
       "deck" : "{{- .Params.deck | markdownify -}}",
+      {{- end -}}
+      {{- if (isset .Params "summary") -}}
+      "summary" : "{{- .Params.summary | markdownify -}}",
       {{- end -}}
       "date" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
       {{- if .Lastmod -}}
