@@ -1,20 +1,43 @@
 ---
+# View this page at https://digital.gov/event/2019/11/foundations-agile-part-i
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: foundations-agile-i
-title: 'Foundations of Agile, Part I'
+title: "Foundations of Agile, Part I"
 deck: "with Alan Atlas and Alan Brouilette"
-summary: 'This is the first of two sessions that will explore the fundamentals of the Agile methodology.'
+summary: "This is the first of two sessions that will explore the fundamentals of the Agile methodology."
+host: "18F"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
+date: 2019-11-04 13:30:00 -0500
+
+# end date
+end_date: 2019-11-04 14:30:00
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - agile
+  - product-management
+  - kanban
+  - scrum
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - alan-brouilette
+  - alan-atlas
+
+youtube_id: MRfsXVOicC8
+
 featured_image:
   uid: agile-foundations-part-1
   alt: ''
-event_type:
-  - zoom
-date: 2019-11-04 13:30:00 -0500
-end_date: 2019-11-04 14:30:00 -0500
-event_organizer: DigitalGov University
-host: 18F
-youtube_id: MRfsXVOicC8
-
+  
+# Make it better ♥
 ---
+
 
 _[View the slides](https://digital.gov/pdf/Foundations-of-Agile-Part-I.pdf)_ (PDF, 23.1 MB, 40 pages)
 
