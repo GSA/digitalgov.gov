@@ -9,7 +9,7 @@ title: "U.S. Web Design System"
 summary: "A design system for the federal government that makes it easier to build accessible, mobile-friendly government websites for the American public."
 
 # Weight
-weight: 1
+weight: 2
 
 # For more information on managing topics,
 # see https://github.com/GSA/digitalgov.gov/wiki/topics
