@@ -17,28 +17,28 @@ topics:
   - epa
   - FCC
   - federal-emergency-management-agency
-  - Federal Register
+  - federal-register
   - fema
   - HHS
   - HUD
   - IMLS
   - nasa
-  - National Day of Civic Hacking
+  - national-day-of-civic-hacking
   - national-institutes-of-health
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - national-science-foundation
   - nih
   - NOAA
   - NREL
   - nsf
-  - Smithsonian Institution
-  - US Department of Education
-  - US Department of Labor
+  - smithsonian-institution
+  - us-department-of-education
+  - us-department-of-labor
   - us-environmental-protection-agency
-  - United States Census Bureau
+  - united-states-census-bureau
   - united-states-department-of-health-and-human-services
-  - United States Department of Housing and Urban Development
-  - United States Department of Transportation
+  - united-states-department-of-housing-and-urban-development
+  - united-states-department-of-transportation
   - USPTO
   - white-house
 ---

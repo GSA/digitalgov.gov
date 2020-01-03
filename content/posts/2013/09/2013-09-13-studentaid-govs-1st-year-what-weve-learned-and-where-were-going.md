@@ -11,7 +11,7 @@ topics:
   - cx
   - FAFSA
   - FSA
-  - US Department of Education
+  - us-department-of-education
 ---
 
 {{< legacy-img src="2014/01/federal-student-aid.jpg" alt="federal student aid" >}}

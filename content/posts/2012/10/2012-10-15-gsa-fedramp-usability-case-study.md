@@ -8,8 +8,8 @@ authors:
 topics:
   - user-testing-and-research
   - ux
-  - DigitalGov User Experience Program
-  - GSA
+  - digitalgov-user-experience-program
+  - gsa
   - usability
   - usability-case-study
   - user-experience

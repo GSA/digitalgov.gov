@@ -10,7 +10,7 @@ topics:
   - content
   - data
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - open-data
 ---
 

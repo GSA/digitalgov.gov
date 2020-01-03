@@ -12,16 +12,16 @@ topics:
   - Census
   - CFPB
   - Consumer Financial Protection Bureau
-  - Department of Commerce
+  - department-of-commerce
   - epa
   - mobile-apps
-  - National Day of Civic Hacking
+  - national-day-of-civic-hacking
   - national-science-foundation
   - nsf
   - SBA
   - us-environmental-protection-agency
-  - US Small Business Administration
-  - United States Census Bureau
+  - us-small-business-administration
+  - united-states-census-bureau
   - USPTO
   - white-house
 ---

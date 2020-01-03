@@ -12,7 +12,7 @@ topics:
   - LOC
   - National Museum of American History
   - NMAH
-  - Smithsonian Institution
+  - smithsonian-institution
   - Twitter
   - YouTube
 ---

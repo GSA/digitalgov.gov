@@ -11,9 +11,9 @@ topics:
   - DOE
   - mobile
   - mobile-ux-guideline-2
-  - Terms of Service
+  - terms-of-service
   - tos
-  - United States Department of Energy
+  - united-states-department-of-energy
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Contract-signing-Florin1605-iStock-Thinkstock-452421227.jpg" alt="A pen rests on an agreement needing signatures." caption="" >}} 

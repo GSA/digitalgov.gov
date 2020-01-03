@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - ios
-  - National Cancer Institute
+  - national-cancer-institute
   - native-app
   - NCI
   - responsive-web-design

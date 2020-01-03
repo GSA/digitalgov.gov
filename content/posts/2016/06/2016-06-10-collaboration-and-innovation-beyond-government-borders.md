@@ -9,9 +9,9 @@ topics:
   - code
   - our-work
   - code
-  - Open Opportunities program
+  - open-opportunities-program
   - open-source
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
 ---
 

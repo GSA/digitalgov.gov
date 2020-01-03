@@ -11,14 +11,14 @@ topics:
   - a-b-testing
   - quick study
   - research
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - usability-case-study
   - usability-testing
   - user-centered-design
   - user-experience
   - user-experience-community-of-practice
   - ux
-  - Veterans Health Administration
+  - veterans-health-administration
   - VHA
 ---
 

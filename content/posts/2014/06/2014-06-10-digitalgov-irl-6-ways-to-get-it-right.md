@@ -10,7 +10,7 @@ topics:
   - data
   - mobile
   - ux
-  - Department of Commerce
+  - department-of-commerce
   - FCC
   - fema
   - mobile-ux-guideline-5

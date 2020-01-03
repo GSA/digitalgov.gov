@@ -18,10 +18,10 @@ topics:
   - data-gov
   - DOL
   - GitHub
-  - Recaps
+  - recaps
   - SBA
-  - US Department of Labor
-  - US Small Business Administration
+  - us-department-of-labor
+  - us-small-business-administration
   - white-house-office-of-science-and-technology-policy
 ---
 

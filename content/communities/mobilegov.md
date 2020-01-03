@@ -26,7 +26,6 @@ weight: 1
 community_list:
   - platform: listserv
     type: government
-    terms: "Federal employees can send an [email to David Fern](mailto:mobilegov-request@listserv.gsa.gov) with “Subscribe to MobileGov” in the subject line."
     subscribe_email: "mobilegov-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe to MobileGov"
     members: 1070

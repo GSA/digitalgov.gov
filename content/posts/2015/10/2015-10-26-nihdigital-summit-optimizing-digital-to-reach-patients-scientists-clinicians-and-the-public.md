@@ -10,7 +10,7 @@ topics:
   - social-media
   - epa
   - HHS
-  - National Cancer Institute
+  - national-cancer-institute
   - national-institutes-of-health
   - NCI
   - nih

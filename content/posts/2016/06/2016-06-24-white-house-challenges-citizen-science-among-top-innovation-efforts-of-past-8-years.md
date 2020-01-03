@@ -15,9 +15,9 @@ topics:
   - citizen-science
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - GSA
+  - gsa
   - innovation
-  - US General Services Administration
+  - us-general-services-administration
   - white-house
 ---
 

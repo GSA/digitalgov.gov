@@ -7,8 +7,8 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - DigitalGov User Experience Program
-  - GSA
+  - digitalgov-user-experience-program
+  - gsa
   - ux
 ---
 

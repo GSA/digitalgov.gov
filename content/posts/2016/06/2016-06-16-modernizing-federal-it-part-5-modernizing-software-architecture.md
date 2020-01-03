@@ -13,12 +13,12 @@ topics:
   - architecture
   - infrastructure
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
 ---
 
 > _This is the fifth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure. You can find part 1 [here](https://cio.gov/modernizing-federal-it-part-1-catching-up-and-jumping-ahead/), part 2 [here](https://cio.gov/modernizing-federal-it-part-2-the-gravity-of-ip/), part 3 [here](https://cio.gov/modernizing-federal-it-part-3-teasing-apart-the-problem/) and part 4 [here](https://cio.gov/modernizing-federal-it-part-4-building-a-modern-data-foundation/)._
 
-In the next three posts we will consider the problem of modernizing old legacy software. In this post we will start a discussion about why modernizing software is important and what is most important to think about first. In the next post we’ll consider how to go about modernization; and in the last post we will discuss buy vs build. {{< legacy-img src="2016/06/600-x-403-Mainframes-cluster-with-control-terminal-in-data-center-motion-blur-Vladimir_Timofeev-iStock-Thinkstock-525498928.jpg" alt="Mainframes cluster with control terminal in data center with a motion blur filter." caption="" >}} 
+In the next three posts we will consider the problem of modernizing old legacy software. In this post we will start a discussion about why modernizing software is important and what is most important to think about first. In the next post we’ll consider how to go about modernization; and in the last post we will discuss buy vs build. {{< legacy-img src="2016/06/600-x-403-Mainframes-cluster-with-control-terminal-in-data-center-motion-blur-Vladimir_Timofeev-iStock-Thinkstock-525498928.jpg" alt="Mainframes cluster with control terminal in data center with a motion blur filter." caption="" >}}
 
 To state the bottom line up front – the modernization issue is not about COBOL. It is about building software that takes full advantage of the economics of a modern hardware infrastructure. It is about architecture, not about a programming language.
 

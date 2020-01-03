@@ -27,7 +27,6 @@ community_list:
     type: government
     subscribe_email: "devops-today-subscribe-request@listserv.gsa.gov"
     subscribe_email_subject: "Subscribe to DevOps"
-    terms: "Open to anyone with a .gov or .mil email address."
     members: 297
     emails_per_week:
   - platform: listserv

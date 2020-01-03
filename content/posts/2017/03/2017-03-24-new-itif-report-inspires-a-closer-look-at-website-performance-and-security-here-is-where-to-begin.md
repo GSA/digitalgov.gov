@@ -23,7 +23,7 @@ topics:
   - communities
   - content
   - content-strategy
-  - DGU
+  - digitalgov-university
   - digitalgov-university
   - https
   - ITIF

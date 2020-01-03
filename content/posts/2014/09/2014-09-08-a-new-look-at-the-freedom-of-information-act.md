@@ -19,7 +19,7 @@ topics:
   - OMB
   - open-government
   - OSTP
-  - US Department of Justice
+  - us-department-of-justice
   - us-environmental-protection-agency
   - white-house-office-of-science-and-technology-policy
 ---

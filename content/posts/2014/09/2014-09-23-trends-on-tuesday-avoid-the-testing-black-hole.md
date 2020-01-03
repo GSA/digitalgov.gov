@@ -12,7 +12,7 @@ topics:
   - mobile-ux-guideline-4
   - responsive-web-design
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - trends-on-tuesday
 ---
 

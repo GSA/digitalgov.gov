@@ -15,10 +15,10 @@ topics:
   - mobile-apps
   - mobile-code-catalog
   - OPM
-  - US Department of Labor
-  - United States Census Bureau
+  - us-department-of-labor
+  - united-states-census-bureau
   - United States Geological Survey
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - USGS
   - wednesday-api-briefing
 ---

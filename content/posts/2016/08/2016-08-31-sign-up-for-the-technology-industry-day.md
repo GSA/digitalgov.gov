@@ -19,12 +19,12 @@ topics:
   - code
   - data
   - data-act
-  - Digital Accountability and Transparency Act
+  - digital-accountability-and-transparency-act
   - event
   - FAS
   - Federal Acquisition Service
   - fedramp
-  - GSA
+  - gsa
   - HHS
   - innovation
   - OCSIT
@@ -33,10 +33,10 @@ topics:
   - OPP
   - summit
   - Technology Industry Day
-  - Technology Transformation Service
-  - TTS
-  - US Department of the Treasury
-  - US General Services Administration
+  - technology-transformation-services
+  - tts
+  - us-department-of-the-treasury
+  - us-general-services-administration
   - united-states-department-of-health-and-human-services
 ---
 

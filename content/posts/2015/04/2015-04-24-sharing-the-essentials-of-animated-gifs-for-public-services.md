@@ -10,17 +10,17 @@ topics:
   - social-media
   - 18f
   - accessibility
-  - DGU
+  - digitalgov-university
   - GobiernoUSAgov
   - multimedia
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - ODNI
   - Office of the Director of National Intelligence
-  - Peace Corps
-  - Recaps
+  - peace-corps
+  - recaps
   - social-media
-  - SocialGov
+  - socialgov
   - socialgov-community
   - usa-gov
   - webinar

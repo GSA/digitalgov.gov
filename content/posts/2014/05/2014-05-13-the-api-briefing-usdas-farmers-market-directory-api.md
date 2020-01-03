@@ -11,7 +11,7 @@ topics:
   - api
   - OPM
   - US Department of Agriculture
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - USDA
   - wednesday-api-briefing
 ---

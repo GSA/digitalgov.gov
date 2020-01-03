@@ -10,8 +10,8 @@ topics:
   - Internal Revenue Service
   - IRS
   - thursday-mobile-products
-  - US Department of Justice
-  - US Department of State
+  - us-department-of-justice
+  - us-department-of-state
   - usa-gov-federal-mobile-apps-directory
 ---
 

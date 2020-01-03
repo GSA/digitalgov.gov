@@ -8,14 +8,14 @@ authors:
   - david-mader
 topics:
   - product-management
-  - GSA
+  - gsa
   - infrastructure
   - innovation
   - M3 Framework
   - Modernization and Migration Management Framework
   - Office of Management and Budget
   - OMB
-  - US General Services Administration
+  - us-general-services-administration
   - Unified Shared Services Management
   - white-house
 

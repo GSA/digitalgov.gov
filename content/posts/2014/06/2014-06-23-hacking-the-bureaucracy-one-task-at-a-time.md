@@ -11,9 +11,9 @@ topics:
   - DOL
   - mobile-code-catalog
   - open-and-structured-content-models
-  - Open Opportunities program
-  - US Department of Labor
-  - US Department of State
+  - open-opportunities-program
+  - us-department-of-labor
+  - us-department-of-state
 ---
 
 Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the [Open Opportunities program](https://openopps.usajobs.gov/).

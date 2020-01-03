@@ -7,7 +7,7 @@ authors:
   - tjohnson
 topics:
   - mobile
-  - DGU
+  - digitalgov-university
   - mobile
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-5

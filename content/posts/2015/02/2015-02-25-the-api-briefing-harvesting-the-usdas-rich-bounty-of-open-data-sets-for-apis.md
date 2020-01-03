@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - api
-  - Internet of things
+  - internet-of-things
   - US Department of Agriculture
   - USDA
   - wednesday-api-briefing

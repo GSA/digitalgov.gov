@@ -18,11 +18,11 @@ topics:
   - fema
   - mobile-apps
   - NARA
-  - National Archives and Records Administration
-  - National Oceanic and Atmospheric Administration
+  - national-archives-and-records-administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - open-government
-  - United States Department of Energy
+  - united-states-department-of-energy
   - United States Geological Survey
   - USGS
   - wednesday-api-briefing

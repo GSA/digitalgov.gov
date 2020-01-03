@@ -8,8 +8,8 @@ authors:
 topics:
   - monthly-theme
   - our-work
-  - DGU
-  - DigitalGov Summit
+  - digitalgov-university
+  - digitalgov-summit
   - mobile-gov-community-of-practice
   - socialgov-community
   - user-experience-community-of-practice

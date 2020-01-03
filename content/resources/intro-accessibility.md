@@ -3,7 +3,6 @@ url: /resources/intro-accessibility/
 date: 2019-12-04 9:00:00 -0400
 title: "Intro to Accessibility"
 summary: "An introduction to accessibility, and why it matters."
-type: guide
 featured_image:
   uid: accessibility-101-card
 authors:

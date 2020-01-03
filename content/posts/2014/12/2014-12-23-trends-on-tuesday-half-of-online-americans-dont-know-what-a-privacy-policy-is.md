@@ -10,10 +10,10 @@ topics:
   - mobile
   - Defense Intelligence Agency
   - DIA
-  - DigitalGov Summit
+  - digitalgov-summit
   - Federal Trade Commission
   - FTC
-  - Internet of things
+  - internet-of-things
   - mobile-gov-community-of-practice
   - mobile-ux-guideline-6
   - Privacy Impact Assessment

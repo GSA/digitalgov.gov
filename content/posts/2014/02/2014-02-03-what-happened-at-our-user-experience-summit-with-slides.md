@@ -9,12 +9,12 @@ topics:
   - mobile
   - user-testing-and-research
   - ux
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - fda
   - mobile-app-development-program
   - NCI
   - OMB
-  - PRA
+  - pra
   - user-experience
   - user-experience-community-of-practice
 ---

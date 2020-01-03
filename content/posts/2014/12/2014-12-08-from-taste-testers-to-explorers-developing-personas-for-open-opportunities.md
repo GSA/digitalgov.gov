@@ -9,7 +9,7 @@ authors:
 topics:
   - content
   - our-work
-  - Open Opportunities program
+  - open-opportunities-program
   - personas
 ---
 

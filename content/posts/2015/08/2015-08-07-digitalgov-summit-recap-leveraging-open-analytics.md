@@ -7,12 +7,12 @@ authors:
   - andreanocesigritz
 topics:
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
   - HHS
   - National Center for Telehealth and Technology
   - PBGC
   - Pension Benefit Guaranty Corporation
-  - Recaps
+  - recaps
   - united-states-department-of-health-and-human-services
 ---
 

@@ -14,7 +14,7 @@ topics:
   - data
   - epa
   - mobile-apps
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - National Institute on Drug Abuse
   - NIST
   - trends-on-tuesday

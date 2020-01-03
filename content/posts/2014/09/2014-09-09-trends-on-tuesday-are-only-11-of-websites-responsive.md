@@ -17,7 +17,7 @@ topics:
   - mobile-ux-guideline-1
   - responsive-web-design
   - trends-on-tuesday
-  - United States Department of Energy
+  - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
 ---
 

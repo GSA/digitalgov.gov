@@ -15,7 +15,7 @@ topics:
   - ux
   - 18f
   - accessibility
-  - Draft Web Design Standards
+  - draft-web-design-standards
   - responsive-web-design
   - uswds
   - usability

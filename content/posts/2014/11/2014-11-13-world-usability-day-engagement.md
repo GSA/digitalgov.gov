@@ -9,7 +9,7 @@ topics:
   - monthly-theme
   - user-testing-and-research
   - ux
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - user-experience
   - ux
 ---

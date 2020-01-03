@@ -10,7 +10,7 @@ topics:
   - strategy
   - policy
   - Federal CrowdSource Mobile Testing Program
-  - Internet of things
+  - internet-of-things
   - open-data
   - responsive-web-design
   - trends-on-tuesday

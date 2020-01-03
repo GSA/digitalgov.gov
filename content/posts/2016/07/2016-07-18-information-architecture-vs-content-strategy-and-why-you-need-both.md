@@ -14,7 +14,7 @@ topics:
   - content-models
   - content-strategy
   - COPE
-  - Internet of things
+  - internet-of-things
   - open-and-structured-content-models
 ---
 

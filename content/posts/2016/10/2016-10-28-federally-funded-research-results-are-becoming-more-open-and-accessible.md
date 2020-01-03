@@ -18,7 +18,7 @@ topics:
   - National Aeronautics and Space Administration
   - national-institutes-of-health
   - National Library of Medicine
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - national-science-foundation
   - nih
   - NLM
@@ -29,12 +29,12 @@ topics:
   - OSTP
   - research
   - US Department of Agriculture
-  - US Department of Education
-  - US Department of Veterans Affairs
+  - us-department-of-education
+  - us-department-of-veterans-affairs
   - us-environmental-protection-agency
-  - United States Department of Defense
-  - United States Department of Energy
-  - United States Department of Transportation
+  - united-states-department-of-defense
+  - united-states-department-of-energy
+  - united-states-department-of-transportation
   - VA
 ---
 

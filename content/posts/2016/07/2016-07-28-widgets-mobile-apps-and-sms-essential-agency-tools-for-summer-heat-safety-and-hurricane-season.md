@@ -20,14 +20,14 @@ topics:
   - mobile
   - mobile-apps
   - multilingual
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - National Weather Service
   - NOAA
   - NWS
   - sms
   - social-media
   - thursday-mobile-products
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
   - white-house
 ---

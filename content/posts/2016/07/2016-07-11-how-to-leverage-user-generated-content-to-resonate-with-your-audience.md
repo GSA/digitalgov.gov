@@ -24,18 +24,18 @@ topics:
   - mobile-apps
   - mobile-gov
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - nih
   - NPS
   - Office of Community Oriented Policing Services
   - SAMHSA
   - social-media
-  - SocialGov
+  - socialgov
   - the-content-corner
   - US Department of Agriculture
-  - US Department of Justice
-  - US Forest Service
-  - US National Park Service
+  - us-department-of-justice
+  - us-forest-service
+  - us-national-park-service
   - UGC
   - USDA
   - user-generated-content

@@ -7,7 +7,7 @@ authors:
   - arlene-hernandez
 topics:
   - video
-  - Smithsonian Institution
+  - smithsonian-institution
   - white-house
 ---
 

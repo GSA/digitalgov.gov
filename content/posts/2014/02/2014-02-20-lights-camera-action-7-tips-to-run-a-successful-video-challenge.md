@@ -9,10 +9,10 @@ topics:
   - challenges
   - challenge-gov
   - challenges-and-prize-competitions
-  - DGU
+  - digitalgov-university
   - innovation
   - nasa
-  - Recaps
+  - recaps
   - social-media
 ---
 

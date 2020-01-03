@@ -11,7 +11,7 @@ topics:
   - app
   - mobile
   - mobile-apps
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
 ---
 

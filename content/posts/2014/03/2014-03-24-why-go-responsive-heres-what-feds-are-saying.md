@@ -11,9 +11,9 @@ topics:
   - mobile
   - mobile-apps
   - mobile-gov
-  - Recaps
+  - recaps
   - responsive-web-design
-  - US Department of Education
+  - us-department-of-education
 ---
 
 <p dir="ltr" style="text-align: center">

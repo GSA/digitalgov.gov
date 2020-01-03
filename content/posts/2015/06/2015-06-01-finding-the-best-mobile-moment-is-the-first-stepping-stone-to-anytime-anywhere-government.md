@@ -12,11 +12,11 @@ topics:
   - ios
   - IRS
   - mobile-ux-guideline-5
-  - National Oceanic and Atmospheric Administration
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - 'Occupational Safety and Health Administration'
   - OSHA
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - usa-gov
   - VA
 ---

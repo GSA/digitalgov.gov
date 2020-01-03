@@ -7,8 +7,8 @@ authors:
   - jonathan-rubin
 topics:
   - user-testing-and-research
-  - Department of Commerce
-  - DigitalGov User Experience Program
+  - department-of-commerce
+  - digitalgov-user-experience-program
   - usability-case-study
   - user-experience
 ---

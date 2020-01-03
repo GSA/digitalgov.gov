@@ -11,7 +11,7 @@ topics:
   - agile
   - office-of-the-us-foreign-assistance-resources
   - personas
-  - US Department of State
+  - us-department-of-state
   - user-experience
 ---
 

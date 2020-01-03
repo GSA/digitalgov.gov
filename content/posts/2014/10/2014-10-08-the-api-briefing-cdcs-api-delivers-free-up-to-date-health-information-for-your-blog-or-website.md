@@ -13,7 +13,7 @@ topics:
   - centers-for-disease-control-and-prevention
   - content-syndication
   - OPM
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

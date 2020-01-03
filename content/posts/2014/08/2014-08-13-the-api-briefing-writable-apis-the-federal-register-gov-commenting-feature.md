@@ -10,9 +10,9 @@ topics:
   - strategy
   - policy
   - api
-  - Federal Register
+  - federal-register
   - OPM
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

@@ -16,7 +16,7 @@ topics:
   - open-data
   - SAMHSA
   - the-data-briefing
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - United States Patent and Trademark Office
   - USPTO
   - VA

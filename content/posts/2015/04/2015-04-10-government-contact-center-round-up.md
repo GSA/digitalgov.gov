@@ -9,10 +9,10 @@ topics:
   - product-management
   - monthly-theme
   - customer-service
-  - DGU
+  - digitalgov-university
   - Government Contact Center Council
   - government-contact-centers
-  - GSA
+  - gsa
 ---
 
 {{< legacy-img src="2015/04/600-x-330-Call-center-Androsov-Konstantin-iStock-Thinkstock-ThinkstockPhotos-93536394.jpg" alt="Call center" caption="" >}}

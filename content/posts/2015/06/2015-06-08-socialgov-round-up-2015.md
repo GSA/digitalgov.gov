@@ -10,7 +10,7 @@ topics:
   - social-media
   - analytics
   - bbg
-  - Broadcasting Board of Governors
+  - broadcasting-board-of-governors
   - digitalgov-search
   - DOI
   - epa
@@ -20,14 +20,14 @@ topics:
   - HHS
   - social-media
   - social-media-metrics
-  - SocialGov
+  - socialgov
   - socialgov-community
-  - Terms of Service
+  - terms-of-service
   - tos
-  - US Department of the Interior
+  - us-department-of-the-interior
   - us-environmental-protection-agency
   - us-food-and-drug-administration
-  - US Government Accountability Office
+  - us-government-accountability-office
   - united-states-department-of-health-and-human-services
 ---
 

@@ -11,8 +11,8 @@ topics:
   - metrics
   - user-testing-and-research
   - ux
-  - DigitalGov User Experience Program
-  - National Cancer Institute
+  - digitalgov-user-experience-program
+  - national-cancer-institute
   - NCI
   - usability-testing
   - user-experience

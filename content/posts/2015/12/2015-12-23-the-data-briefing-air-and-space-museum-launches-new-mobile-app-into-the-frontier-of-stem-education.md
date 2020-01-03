@@ -11,11 +11,11 @@ topics:
   - Education
   - mobile-apps
   - NPS
-  - Smithsonian Institution
+  - smithsonian-institution
   - the-data-briefing
-  - US Department of Education
-  - US Department of the Interior
-  - US National Park Service
+  - us-department-of-education
+  - us-department-of-the-interior
+  - us-national-park-service
   - United States Patent and Trademark Office
   - USPTO
 ---

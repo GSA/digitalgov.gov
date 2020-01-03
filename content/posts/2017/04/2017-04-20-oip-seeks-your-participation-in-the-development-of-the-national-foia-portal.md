@@ -12,10 +12,10 @@ topics:
   - user-testing-and-research
   - 18f
   - FOIA
-  - GSA
+  - gsa
   - OIP
-  - US Department of Justice
-  - US General Services Administration
+  - us-department-of-justice
+  - us-general-services-administration
 ---
 
 The Office of Information Policy (OIP) is pleased to announce its collaboration with GSA’s [18F](https://18f.gsa.gov/) team on the development of a National FOIA Portal.

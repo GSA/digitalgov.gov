@@ -6,18 +6,17 @@ summary: "Our community engages stakeholders around the President’s Management
 weight: 1
 community_list:
   - platform: "listserv"
-    type: "Government only"
+    type: government
     subscribe_email: grantsfed-subscribe-request@listserv.gsa.gov
     subscribe_email_subject: "Federal Join: Results-Oriented Accountability for Grants Community of Practice"
     members: 539
     emails_per_week: .3
   - platform: "listserv"
-    type: "Public"
+    type: public
     subscribe_email: grantscommunity-subscribe-request@listserv.gsa.gov
     subscribe_email_subject: "Non-Federal Join: Results-Oriented Accountability for Grants Community of Practice"
-    terms: "Anyone is welcome to join"
-    members: 
-    emails_per_week: 
+    members:
+    emails_per_week:
 
 ---
 

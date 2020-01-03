@@ -9,7 +9,7 @@ topics:
   - mobile
   - mobile-gov
   - thursday-mobile-products
-  - United States Department of Energy
+  - united-states-department-of-energy
 ---
 
 Drivers can find the closest alternative fueling sites anytime, anywhere with the [Alternative Fuel Locator](http://www.afdc.energy.gov/afdc/locator/m/stations/).

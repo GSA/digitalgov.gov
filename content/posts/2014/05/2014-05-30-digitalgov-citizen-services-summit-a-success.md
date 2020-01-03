@@ -15,9 +15,9 @@ topics:
   - our-work
   - social-media
   - ux
-  - DigitalGov Summit
+  - digitalgov-summit
   - mobile
-  - Recaps
+  - recaps
   - social-media
   - ux
 ---

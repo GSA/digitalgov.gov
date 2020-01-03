@@ -1,6 +1,7 @@
 ---
 slug: meet-your-federal-web-council
 date: 2019-11-12 13:30:00 -0500
+kicker: "This Week's IDEA"
 title: 'Meet Your Federal Web Council'
 deck: 'Your partners in making 21st Century IDEA happen'
 summary: 'When something important needs to be coordinated across the federal web space, the Federal Web Council is the vehicle for getting it done&#46;'

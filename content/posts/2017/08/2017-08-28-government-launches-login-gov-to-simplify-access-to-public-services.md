@@ -12,24 +12,25 @@ authors:
 topics:
   - product-management
   - 18f
-  - CBP
+  - us-customs-and-border-protection
   - cx
+  - login-gov
   - customer-service
   - cx
-  - GSA
+  - gsa
   - Internal Revenue Service
   - IRS
   - security
   - SSA
   - State
-  - Technology Transformation Service
-  - The United States Social Security Administration
-  - TTS
+  - technology-transformation-services
+  - the-united-states-social-security-administration
+  - tts
   - US Citizenship and Immigration Service
   - US Customs and Border Protection
-  - US Department of Labor
-  - US Department of State
-  - US Digital Service
+  - us-department-of-labor
+  - us-department-of-state
+  - us-digital-service
   - usa-gov
   - usagov
   - USCIS

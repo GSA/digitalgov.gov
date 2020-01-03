@@ -3,7 +3,7 @@
 # https://digital.gov/topics/digitalgov-user-experience-program
 
 # Topic Title
-title: "DigitalGov User Experience Program"
+title: "Digital.gov User Experience Program"
 
 # description — keep it short and clear
 summary: ""

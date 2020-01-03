@@ -11,7 +11,7 @@ topics:
   - IES
   - Institute for Education Sciences
   - plain-language
-  - US Department of Education
+  - us-department-of-education
   - usability-case-study
   - user-experience
   - ux

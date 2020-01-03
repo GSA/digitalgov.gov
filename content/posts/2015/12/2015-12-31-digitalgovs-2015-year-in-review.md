@@ -10,7 +10,7 @@ topics:
   - accessibility
   - security
   - social-media
-  - Terms of Service
+  - terms-of-service
   - user-experience
 ---
 

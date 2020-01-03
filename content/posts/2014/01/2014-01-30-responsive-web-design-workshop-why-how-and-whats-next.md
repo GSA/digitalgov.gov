@@ -8,12 +8,12 @@ authors:
 topics:
   - design
   - mobile
-  - GSA
+  - gsa
   - mobile
   - NCI
   - nih
   - responsive-web-design
-  - US Department of Education
+  - us-department-of-education
 ---
 
 <p dir="ltr">

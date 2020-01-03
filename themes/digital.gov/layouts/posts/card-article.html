@@ -1,5 +1,5 @@
 <div class="card card-article card-linked" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}" {{- if .Params.short_url -}}data-short_url="{{- .Params.short_url -}}"{{- end -}}>
-  <div class="grid-row tablet-lg:grid-gap-2">
+  <div class="grid-row tablet:grid-gap-4">
     <div class="grid-col-12 tablet:grid-col-4 tablet:order-2">
       {{- partial "core/img-featured" . -}}
     </div>

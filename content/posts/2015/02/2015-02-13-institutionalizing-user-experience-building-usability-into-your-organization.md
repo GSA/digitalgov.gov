@@ -10,10 +10,10 @@ topics:
   - ux
   - analytics
   - aoi
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - FAA
   - Federal Aviation Administration
-  - GSA
+  - gsa
   - personas
   - prototype
   - usability-testing

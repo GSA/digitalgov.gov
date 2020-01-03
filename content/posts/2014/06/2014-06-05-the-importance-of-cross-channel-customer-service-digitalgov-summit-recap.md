@@ -19,8 +19,8 @@ topics:
   - FSA
   - HHS
   - NCI
-  - Recaps
-  - US Department of Education
+  - recaps
+  - us-department-of-education
   - united-states-department-of-health-and-human-services
 ---
 

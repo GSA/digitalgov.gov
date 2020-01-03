@@ -14,7 +14,7 @@ topics:
   - 18f
   - analytics
   - digital-analytics-program
-  - GSA
+  - gsa
   - https
 ---
 

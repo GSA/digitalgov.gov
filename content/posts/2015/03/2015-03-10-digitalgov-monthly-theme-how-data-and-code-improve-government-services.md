@@ -12,15 +12,15 @@ topics:
   - api
   - data
   - data-gov
-  - DGU
+  - digitalgov-university
   - HHS
   - https
   - metadata
-  - National Cancer Institute
+  - national-cancer-institute
   - NCI
   - open-data
   - SEC
-  - US Securities and Exchange Commission
+  - us-securities-and-exchange-commission
   - united-states-department-of-health-and-human-services
 ---
 

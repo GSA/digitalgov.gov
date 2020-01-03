@@ -11,7 +11,7 @@ topics:
   - GAO
   - infographic
   - social-media-metrics
-  - SocialGov
+  - socialgov
   - socialgov-community
 ---
 

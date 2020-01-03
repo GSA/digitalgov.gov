@@ -9,7 +9,7 @@ topics:
   - social-media
   - Defense Intelligence Agency
   - DIA
-  - Internet of things
+  - internet-of-things
   - security
 ---
 

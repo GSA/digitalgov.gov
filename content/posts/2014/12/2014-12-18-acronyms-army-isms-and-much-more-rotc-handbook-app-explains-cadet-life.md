@@ -11,10 +11,10 @@ topics:
   - native-app
   - ROTC
   - thursday-mobile-products
-  - United States Army
+  - united-states-army
 ---
 
-{{< legacy-img src="2014/12/600-x-450-Army-ROTC-at-Ohio-State-University-May-21-2009-by-Ibagli-from-Wikimedia-Commons.jpg" alt="Army ROTC at Ohio State University, May 21, 2009" caption="" >}} 
+{{< legacy-img src="2014/12/600-x-450-Army-ROTC-at-Ohio-State-University-May-21-2009-by-Ibagli-from-Wikimedia-Commons.jpg" alt="Army ROTC at Ohio State University, May 21, 2009" caption="" >}}
 
 Have a potential future cadet in the family? Deciding whether the Army Reserve Officers&#8217; Training Corps (ROTC) program is right for you? Already in the program? Study up on the Army ROTC program before you or someone you know steps foot in the classroom in a crisp uniform. Download the [ROTC Handbook from the U.S. Army Cadet Command](https://play.google.com/store/apps/details?id=mil.armyrotc.handbook) to help learn this new culture—acronyms, Army-isms and all.
 

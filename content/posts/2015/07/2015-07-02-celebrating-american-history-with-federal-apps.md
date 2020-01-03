@@ -12,9 +12,9 @@ topics:
   - american-battle-monuments-commission
   - mobile
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - native-apps
-  - Smithsonian Institution
+  - smithsonian-institution
   - thursday-mobile-products
   - usa-gov-federal-mobile-apps-directory
 ---

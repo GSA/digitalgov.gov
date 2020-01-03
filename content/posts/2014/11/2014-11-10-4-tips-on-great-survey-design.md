@@ -10,7 +10,7 @@ topics:
   - user-testing-and-research
   - ux
   - customer-satisfaction
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - usability
   - user-experience
   - ux

@@ -7,11 +7,11 @@ authors:
   - andreanocesigritz
 topics:
   - our-work
-  - DigitalGov Summit
+  - digitalgov-summit
   - DOJ
   - US Department of Agriculture
-  - US Department of Justice
-  - United States Department of Energy
+  - us-department-of-justice
+  - united-states-department-of-energy
   - USDA
 ---
 

@@ -12,7 +12,7 @@ topics:
   - strategy
   - policy
   - analytics
-  - GSA
+  - gsa
   - https
   - metrics
   - policy

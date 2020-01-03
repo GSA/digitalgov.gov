@@ -9,9 +9,9 @@ topics:
   - communities
   - monthly-theme
   - communities
-  - DGU
+  - digitalgov-university
   - digital-analytics-program
-  - Open Opportunities program
+  - open-opportunities-program
   - social-media
   - web-content-managers-forum
 ---

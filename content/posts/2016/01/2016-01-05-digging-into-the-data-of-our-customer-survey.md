@@ -12,8 +12,8 @@ topics:
   - digitalgov-university
   - ecpic
   - mobile-gov
-  - Open Opportunities program
-  - SocialGov
+  - open-opportunities-program
+  - socialgov
   - user-experience
   - web-content-managers-forum
 ---

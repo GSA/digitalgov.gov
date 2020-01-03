@@ -17,7 +17,6 @@ community_list:
   - platform: "listserv"
     type: government
     subscribe_form: "https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN"
-    terms: "*You'll need to [register for an account](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1=SUBED1%3DPL-COP-MAIN&X=&Y=) before filling out our form. Open to anyone with a .gov or .mil email address."
     members: 1104
     emails_per_week: 1.1
 

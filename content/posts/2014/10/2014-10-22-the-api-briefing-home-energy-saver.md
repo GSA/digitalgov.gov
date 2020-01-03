@@ -8,7 +8,7 @@ authors:
 topics:
   - api
   - DOE
-  - United States Department of Energy
+  - united-states-department-of-energy
   - wednesday-api-briefing
 ---
 

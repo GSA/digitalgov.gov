@@ -9,7 +9,7 @@ authors:
 topics:
   - code
   - api
-  - GSA
+  - gsa
   - social-media
 ---
 

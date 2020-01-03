@@ -10,7 +10,7 @@ topics:
   - big-data
   - Commerce
   - data
-  - Department of Commerce
+  - department-of-commerce
   - Library of Congress
   - LOC
   - open-data

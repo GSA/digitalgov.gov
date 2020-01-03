@@ -13,12 +13,12 @@ topics:
   - FTC
   - HUD
   - nasa
-  - National Institute of Standards and Technology
+  - national-institute-of-standards-and-technology
   - NIST
   - prizes-and-competitions
   - us-agency-for-international-development
-  - United States Department of Energy
-  - United States Department of Housing and Urban Development
+  - united-states-department-of-energy
+  - united-states-department-of-housing-and-urban-development
   - usaid
 ---
 

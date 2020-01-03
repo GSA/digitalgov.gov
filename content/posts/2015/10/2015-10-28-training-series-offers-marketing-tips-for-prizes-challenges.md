@@ -10,8 +10,8 @@ topics:
   - challenge-gov
   - challenges-and-prizes-community-of-practice
   - epa
-  - Recaps
-  - US Department of Education
+  - recaps
+  - us-department-of-education
   - us-environmental-protection-agency
 ---
 

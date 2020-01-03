@@ -13,8 +13,8 @@ topics:
   - GitHub
   - mobile-ux-guideline-5
   - open-source
-  - Peace Corps
-  - US Digital Service
+  - peace-corps
+  - us-digital-service
   - USDS
 ---
 

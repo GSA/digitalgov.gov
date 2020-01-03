@@ -16,9 +16,9 @@ topics:
   - national-institute-of-justice
   - NPS
   - OSTP
-  - US Department of Education
+  - us-department-of-education
   - us-environmental-protection-agency
-  - US National Park Service
+  - us-national-park-service
   - United States Geological Survey
   - USGS
   - white-house

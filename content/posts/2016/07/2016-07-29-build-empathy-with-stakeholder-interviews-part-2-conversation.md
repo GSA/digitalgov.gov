@@ -13,7 +13,7 @@ topics:
   - user-testing-and-research
   - ux
   - State
-  - US Department of State
+  - us-department-of-state
   - user-centered-design
   - user-experience
   - user research

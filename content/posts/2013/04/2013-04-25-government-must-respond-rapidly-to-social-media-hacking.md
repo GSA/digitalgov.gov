@@ -9,7 +9,7 @@ topics:
   - social-media
   - security
   - social-media
-  - SocialGov
+  - socialgov
   - Twitter
 ---
 

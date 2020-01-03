@@ -14,7 +14,7 @@ topics:
   - 18f
   - cx
   - Digital Services Playbook
-  - US Digital Service
+  - us-digital-service
   - USDS
 ---
 

@@ -13,7 +13,7 @@ topics:
   - innovation
   - open-data
   - OSTP
-  - United States Department of Energy
+  - united-states-department-of-energy
   - white-house
   - white-house-office-of-science-and-technology-policy
 ---

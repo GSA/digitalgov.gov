@@ -9,12 +9,6 @@
 {{- partial "core/head.html" . -}}
 
 <body class="{{- .Type }} {{ .Kind -}}">
-  <script>
-    dataLayer = [{
-      'content-type': 'resource+page',
-      'topics': 'design, analytics, Tag+Manager'
-    }];
-  </script>
 
   {{- "<!-- Google Tag Manager (noscript) -->" | safeHTML -}}
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZCKZPQ"
@@ -65,5 +59,8 @@
 <script src='{{ "dist/jquery.min.js" | absURL }}'></script>
 <script src='{{ "dist/uswds.min.js" | absURL }}'></script>
 <script src='{{ "dist/base.js" | absURL }}'></script>
+
+{{/* Add to Calendar JS */}}
+{{- partial "core/addtocalendar-js" . -}}
 
 </html>

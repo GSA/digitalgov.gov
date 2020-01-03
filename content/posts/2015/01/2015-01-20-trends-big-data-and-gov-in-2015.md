@@ -10,7 +10,7 @@ topics:
   - monthly-theme
   - big-data
   - epa
-  - Internet of things
+  - internet-of-things
   - trends-on-tuesday
   - us-environmental-protection-agency
 ---

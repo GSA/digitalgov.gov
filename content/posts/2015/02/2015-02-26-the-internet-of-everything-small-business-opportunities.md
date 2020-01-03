@@ -9,12 +9,12 @@ authors:
 topics:
   - product-management
   - FCC
-  - Federal Communications Commission
+  - federal-communications-commission
   - privacy
   - SBA
   - security
-  - Small Business Innovation Research
-  - US Small Business Administration
+  - small-business-innovation-research
+  - us-small-business-administration
 ---
 
 {{< legacy-img src="2015/02/600-x-400-The-Internet-of-Things_Photo-by-wilgengebroed-flickr-CC-BY-NC-2.jpg" alt="An illustration concept showing The Internet of Things" caption="" >}} 

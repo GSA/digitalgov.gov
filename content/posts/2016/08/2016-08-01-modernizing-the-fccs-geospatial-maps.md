@@ -14,7 +14,7 @@ topics:
   - data
   - data-visualization
   - FCC
-  - Federal Communications Commission
+  - federal-communications-commission
   - open-data
 ---
 

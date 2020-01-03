@@ -9,12 +9,12 @@ topics:
   - product-management
   - social-media
   - american-red-cross
-  - DGU
-  - Peace Corps
-  - Recaps
-  - SocialGov
+  - digitalgov-university
+  - peace-corps
+  - recaps
+  - socialgov
   - usaid
-  - World Bank
+  - world-bank
 ---
 
 {{< legacy-img src="2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada." caption="" >}} 

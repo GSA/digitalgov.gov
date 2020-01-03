@@ -11,7 +11,7 @@ topics:
   - DOL
   - open-data
   - US Department of Agriculture
-  - US Department of Labor
+  - us-department-of-labor
   - USDA
 ---
 

@@ -18,9 +18,9 @@ topics:
   - GPO
   - HUD
   - nasa
-  - US Department of Labor
-  - United States Department of Defense
-  - United States Department of Housing and Urban Development
+  - us-department-of-labor
+  - united-states-department-of-defense
+  - united-states-department-of-housing-and-urban-development
   - VA
 ---
 

@@ -13,11 +13,10 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - communities
   - crowdsourcing
-  - DGU
   - digitalgov-university
   - NPS
-  - Recaps
-  - US National Park Service
+  - recaps
+  - us-national-park-service
 ---
 
 From the [National Park Service](https://www.nps.gov/) (NPS) to the [Centers for Disease Control and Prevention](http://www.cdc.gov/) (CDC), the use of citizen science has become a prominent factor in the science community and a critical tool for the federal government.

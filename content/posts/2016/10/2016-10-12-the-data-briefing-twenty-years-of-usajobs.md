@@ -18,10 +18,10 @@ topics:
   - dap
   - data
   - digital-analytics-program
-  - GSA
+  - gsa
   - lean
   - the-data-briefing
-  - US General Services Administration
+  - us-general-services-administration
   - user-centered-design
 ---
 

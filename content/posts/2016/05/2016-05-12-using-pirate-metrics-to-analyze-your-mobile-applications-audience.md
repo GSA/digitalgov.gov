@@ -16,8 +16,8 @@ topics:
   - National Center for Telehealth and Technology
   - native-app
   - prototype
-  - Recaps
-  - United States Department of Defense
+  - recaps
+  - united-states-department-of-defense
 ---
 
 What Makes a Native App Successful?

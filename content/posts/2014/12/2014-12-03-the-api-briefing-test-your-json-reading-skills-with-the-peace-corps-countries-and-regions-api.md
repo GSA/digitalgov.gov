@@ -7,7 +7,7 @@ authors:
   - bbrantley
 topics:
   - api
-  - Peace Corps
+  - peace-corps
   - US Department of Agriculture
   - USDA
   - wednesday-api-briefing

@@ -12,8 +12,8 @@ topics:
   - data
   - Humanitarian Information Unit
   - open-data
-  - Peace Corps
-  - US Department of State
+  - peace-corps
+  - us-department-of-state
 ---
 
 {{< legacy-img src="2014/12/600-x-338-MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" >}}

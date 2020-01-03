@@ -8,7 +8,7 @@ authors:
 topics:
   - mobile
   - FCC
-  - Federal Communications Commission
+  - federal-communications-commission
   - mobile-apps
   - mobile-gov-community-of-practice
   - trends-on-tuesday

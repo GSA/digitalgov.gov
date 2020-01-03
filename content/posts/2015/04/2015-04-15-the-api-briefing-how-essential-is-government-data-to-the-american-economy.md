@@ -11,11 +11,11 @@ topics:
   - api
   - Census
   - data
-  - Department of Commerce
-  - National Oceanic and Atmospheric Administration
+  - department-of-commerce
+  - national-oceanic-and-atmospheric-administration
   - NOAA
   - open-data
-  - United States Census Bureau
+  - united-states-census-bureau
   - wednesday-api-briefing
 ---
 

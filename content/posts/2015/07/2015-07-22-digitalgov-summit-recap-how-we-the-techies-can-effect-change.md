@@ -9,8 +9,8 @@ topics:
   - product-management
   - monthly-theme
   - our-work
-  - DigitalGov Summit
-  - Recaps
+  - digitalgov-summit
+  - recaps
 ---
 
 {{< legacy-img src="2014/09/600-x-512-Symbol-Person-Choice-Silhouettes-Michael-Brown-Hemera-Thinkstock-96068072.jpg" alt="A silhouette of a hand picks up a stick figure from a line of figures." caption="" >}} 

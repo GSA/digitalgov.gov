@@ -9,12 +9,12 @@ topics:
   - metrics
   - analytics
   - dap
-  - DGU
+  - digitalgov-university
   - digital-analytics-program
   - digitalgov-university
   - google-analytics
   - metrics
-  - Recaps
+  - recaps
   - webinar
 ---
 

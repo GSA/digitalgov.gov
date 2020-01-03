@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - mobile-gov
   - TSA
-  - US Department of Labor
+  - us-department-of-labor
 
 ---
 

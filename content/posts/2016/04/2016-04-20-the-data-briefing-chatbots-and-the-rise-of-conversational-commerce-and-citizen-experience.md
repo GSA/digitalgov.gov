@@ -15,7 +15,7 @@ topics:
   - customer-service
   - cx
   - data
-  - Internet of things
+  - internet-of-things
   - the-data-briefing
   - United States Patent and Trademark Office
   - user-experience

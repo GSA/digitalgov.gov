@@ -10,9 +10,8 @@ authors:
   - amanda-costello
   - sharon-mar
   - jeremyzilar
-categories:
-  - managing-digital
-tag:
+topics:
+  - product-management
   - pra
   - policy
 

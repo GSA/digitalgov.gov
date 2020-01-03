@@ -18,7 +18,7 @@ topics:
   - native-app
   - native-apps
   - responsive-web-design
-  - Terms of Service
+  - terms-of-service
   - trends-on-tuesday
 ---
 

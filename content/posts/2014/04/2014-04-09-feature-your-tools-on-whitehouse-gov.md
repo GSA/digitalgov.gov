@@ -9,8 +9,8 @@ topics:
   - content
   - product-management
   - US Department of Agriculture
-  - US Department of Education
-  - United States Department of Energy
+  - us-department-of-education
+  - united-states-department-of-energy
   - white-house
 ---
 

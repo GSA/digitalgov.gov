@@ -11,7 +11,7 @@ topics:
   - content
   - ux
   - 18f
-  - Draft Web Design Standards
+  - draft-web-design-standards
 ---
 
 One of the most common questions we receive is: Should I integrate the Draft U.S. Web Design Standards into my existing project?

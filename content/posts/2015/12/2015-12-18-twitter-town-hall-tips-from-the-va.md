@@ -8,7 +8,7 @@ authors:
 topics:
   - social-media
   - Twitter
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - VA
 ---
 

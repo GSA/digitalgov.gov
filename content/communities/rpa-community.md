@@ -11,7 +11,6 @@ summary: "We are a group who is working to accelearate robotic process automatio
 # see all topics at https://digital.gov/topics
 topics:
   - emerging-tech
-  - rpa
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -22,7 +21,6 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "FedRPA-subscribe-request@listserv.gsa.gov"
-    terms: "Open to anyone with a .gov or .mil email address."
     members: 721
     emails_per_week:
 

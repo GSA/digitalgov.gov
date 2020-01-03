@@ -8,9 +8,9 @@ authors:
 topics:
   - mobile
   - bbg
-  - Broadcasting Board of Governors
+  - broadcasting-board-of-governors
   - Federal Mobile Products Registry
-  - Federal Student Aid
+  - federal-student-aid
   - FSA
   - GobiernoUSAgov
   - Internal Revenue Service
@@ -22,7 +22,7 @@ topics:
   - national-institutes-of-health
   - nih
   - SSA
-  - The United States Social Security Administration
+  - the-united-states-social-security-administration
   - thursday-mobile-products
 ---
 

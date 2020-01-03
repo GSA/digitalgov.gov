@@ -7,7 +7,7 @@ authors:
   - gray-brooks
 topics:
   - code
-  - Draft Web Design Standards
+  - draft-web-design-standards
 ---
 
 ## What It Is

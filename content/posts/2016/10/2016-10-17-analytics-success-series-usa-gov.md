@@ -12,7 +12,7 @@ topics:
   - dap
   - data
   - digital-analytics-program
-  - GSA
+  - gsa
   - usability
   - usagov
   - user-experience

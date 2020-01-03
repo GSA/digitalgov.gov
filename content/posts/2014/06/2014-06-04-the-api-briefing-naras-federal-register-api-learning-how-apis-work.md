@@ -10,11 +10,11 @@ topics:
   - code
   - api
   - code
-  - Federal Register
+  - federal-register
   - NARA
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - OPM
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
   - wednesday-api-briefing
 ---
 

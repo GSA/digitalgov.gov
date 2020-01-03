@@ -3,7 +3,7 @@
 # https://digital.gov/topics/digitalgov-search
 
 # Topic Title
-title: "DigitalGov Search"
+title: "Digital.gov Search"
 
 # description — keep it short and clear
 summary: ""

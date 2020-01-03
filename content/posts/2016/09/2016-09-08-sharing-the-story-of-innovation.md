@@ -12,11 +12,11 @@ topics:
   - ux
   - innovation
   - research
-  - US Department of Veterans Affairs
+  - us-department-of-veterans-affairs
   - user-centered-design
   - user-experience
   - VA
-  - VA Center for Innovation
+  - va-center-for-innovation
   - VACI
 ---
 

@@ -11,9 +11,9 @@ topics:
   - challenge-gov
   - challenges-and-prizes-community-of-practice
   - CMS
-  - DGU
+  - digitalgov-university
   - HHS
-  - Recaps
+  - recaps
   - united-states-department-of-health-and-human-services
 ---
 

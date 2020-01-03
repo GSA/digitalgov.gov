@@ -12,7 +12,7 @@ topics:
   - Consumer Financial Protection Bureau
   - epa
   - FCC
-  - Federal Communications Commission
+  - federal-communications-commission
   - HHS
   - natural language generation
   - open-government

@@ -8,10 +8,10 @@ topics:
   - architect-of-the-capitol
   - mobile-apps
   - mobile-gov-community-of-practice
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - NPS
   - thursday-mobile-products
-  - US National Park Service
+  - us-national-park-service
   - usa-gov-federal-mobile-apps-directory
 ---
 

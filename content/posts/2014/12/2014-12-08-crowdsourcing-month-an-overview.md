@@ -29,16 +29,16 @@ topics:
   - HHS
   - NARA
   - nasa
-  - National Archives and Records Administration
+  - national-archives-and-records-administration
   - national-science-foundation
   - nsf
   - us-agency-for-international-development
-  - US Department of State
+  - us-department-of-state
   - us-environmental-protection-agency
-  - United States Department of Defense
-  - United States Department of Energy
+  - united-states-department-of-defense
+  - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
-  - United States Department of Transportation
+  - united-states-department-of-transportation
   - usaid
   - USGS
 ---

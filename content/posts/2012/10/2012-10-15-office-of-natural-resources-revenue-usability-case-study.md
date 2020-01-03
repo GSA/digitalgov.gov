@@ -8,12 +8,12 @@ authors:
 topics:
   - user-testing-and-research
   - ux
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - Office of Natural Resources Revenue
   - ONRR
   - Tribal
   - Tribal Government
-  - US Department of the Interior
+  - us-department-of-the-interior
   - usability-case-study
   - usability-testing
   - user-experience

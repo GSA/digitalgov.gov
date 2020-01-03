@@ -12,7 +12,7 @@ topics:
   - DOE
   - DOL
   - FCC
-  - Federal Communications Commission
+  - federal-communications-commission
   - Library of Congress
   - LOC
   - mobile
@@ -20,9 +20,9 @@ topics:
   - the-data-briefing
   - transportation-security-administration
   - TSA
-  - US Department of Education
-  - US Department of Labor
-  - United States Department of Energy
+  - us-department-of-education
+  - us-department-of-labor
+  - united-states-department-of-energy
   - United States Patent and Trademark Office
   - usa-gov-federal-mobile-apps-directory
   - USPTO

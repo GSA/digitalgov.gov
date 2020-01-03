@@ -11,7 +11,7 @@ topics:
   - policy
   - 18f
   - agile
-  - best practices
+  - best-practices
   - workflows
 ---
 

@@ -13,7 +13,7 @@ topics:
   - challenges-and-prizes-community-of-practice
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
-  - GSA
+  - gsa
   - OSTP
   - white-house
   - white-house-office-of-science-and-technology-policy

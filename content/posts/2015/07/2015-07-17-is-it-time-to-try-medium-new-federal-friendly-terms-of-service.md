@@ -7,7 +7,7 @@ authors:
   - dana-allen-greil
 topics:
   - social-media
-  - Terms of Service
+  - terms-of-service
   - tos
 ---
 

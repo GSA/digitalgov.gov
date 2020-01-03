@@ -15,7 +15,7 @@ topics:
   - Government Contact Center Council
   - government-contact-centers
   - HHS
-  - US Department of Education
+  - us-department-of-education
   - united-states-department-of-health-and-human-services
   - usagov
 ---

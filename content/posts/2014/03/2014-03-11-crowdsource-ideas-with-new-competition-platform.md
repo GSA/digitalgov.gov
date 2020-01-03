@@ -11,7 +11,7 @@ topics:
   - challenge-gov
   - crowdsourcing
   - innovation
-  - Recaps
+  - recaps
 ---
 
 <p dir="ltr">

@@ -11,8 +11,8 @@ topics:
   - 18f
   - crowdsourcing
   - HHS
-  - Open Opportunities program
-  - US Department of State
+  - open-opportunities-program
+  - us-department-of-state
   - united-states-department-of-health-and-human-services
 ---
 

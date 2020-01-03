@@ -12,7 +12,7 @@ topics:
   - mobile-apps
   - native-app
   - thursday-mobile-products
-  - US Coast Guard
+  - us-coast-guard
   - usa-gov-federal-mobile-apps-directory
 ---
 

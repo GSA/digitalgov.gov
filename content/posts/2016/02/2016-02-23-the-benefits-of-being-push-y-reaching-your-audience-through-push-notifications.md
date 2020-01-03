@@ -10,7 +10,7 @@ topics:
   - mobile
   - mobile-apps
   - OPM
-  - United States Office of Personnel Management
+  - united-states-office-of-personnel-management
 ---
 
 Need to get in touch with your audience? Give them a little push.

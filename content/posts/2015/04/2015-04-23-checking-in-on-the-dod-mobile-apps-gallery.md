@@ -9,7 +9,7 @@ topics:
   - mobile
   - DoD
   - thursday-mobile-products
-  - United States Department of Defense
+  - united-states-department-of-defense
   - usa-gov-federal-mobile-apps-directory
 ---
 

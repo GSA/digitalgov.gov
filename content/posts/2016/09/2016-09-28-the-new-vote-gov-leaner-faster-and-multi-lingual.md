@@ -19,8 +19,8 @@ topics:
   - content-strategy
   - cx
   - cx
-  - Draft Web Design Standards
-  - GSA
+  - draft-web-design-standards
+  - gsa
   - metrics
   - multilingual
   - open-source

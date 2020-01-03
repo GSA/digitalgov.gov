@@ -10,7 +10,7 @@ topics:
   - Federal CrowdSource Mobile Testing Program
   - mobile-ux-guideline-1
   - mobile-ux-guideline-3
-  - National Cancer Institute
+  - national-cancer-institute
   - NCI
   - responsive-web-design
   - trends-on-tuesday

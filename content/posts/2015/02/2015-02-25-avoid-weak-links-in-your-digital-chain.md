@@ -10,13 +10,13 @@ topics:
   - monthly-theme
   - analytics
   - digitalgov-search
-  - DigitalGov User Experience Program
+  - digitalgov-user-experience-program
   - epa
   - fda
-  - GSA
+  - gsa
   - plain-language
   - search-engine-optimization
-  - US Department of Labor
+  - us-department-of-labor
   - us-environmental-protection-agency
   - us-food-and-drug-administration
   - usability

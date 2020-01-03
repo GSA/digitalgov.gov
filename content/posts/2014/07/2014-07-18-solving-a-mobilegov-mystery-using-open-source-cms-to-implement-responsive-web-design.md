@@ -10,13 +10,13 @@ topics:
   - content
   - mobile
   - monthly-theme
-  - GSA
+  - gsa
   - mobile
   - mobile-gov
   - mobile-ux-guideline-1
   - mobile-gov
   - responsive-web-design
-  - US Department of State
+  - us-department-of-state
 ---
 
 {{< legacy-img src="2014/06/456-x-257-Responsive-CDC-showcase-on-multiple-devices.jpg" alt="456 x 257 Responsive CDC showcase on multiple devices" >}}

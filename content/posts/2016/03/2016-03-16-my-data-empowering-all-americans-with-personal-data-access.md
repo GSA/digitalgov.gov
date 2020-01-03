@@ -16,9 +16,9 @@ topics:
   - HHS
   - open-government
   - SSA
-  - The United States Social Security Administration
-  - US Department of Education
-  - United States Department of Energy
+  - the-united-states-social-security-administration
+  - us-department-of-education
+  - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
 ---
 

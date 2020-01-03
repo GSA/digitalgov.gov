@@ -11,10 +11,10 @@ topics:
   - cx
   - customer-experience-community-of-practice
   - cx
-  - DGU
+  - digitalgov-university
   - DOL
-  - Recaps
-  - US Department of Labor
+  - recaps
+  - us-department-of-labor
 ---
 
 It’s not new that agencies are inundated with data, but what data should you collect to improve your agency’s programs and enhance the customer experience? The Department of Labor’s Employee Benefit Security Administration’s (EBSA) has been perfecting their process to collect actionable data for the past 14 years. {{< legacy-img src="2015/11/600-x-300-Marketing-concept-target-and-Customer-Satisfaction-on-wall-background-maxkabakov-iStock-Thinkstock-453577131.jpg" alt="Marketing concept target and Customer Satisfaction on wall background" caption="" >}} 

@@ -10,7 +10,7 @@ topics:
   - social-media
   - GAO
   - open-source
-  - US Government Accountability Office
+  - us-government-accountability-office
 ---
 
 {{< legacy-img src="2014/07/250-x-194-Pill-in-a-glass-ultramarine5-iStock-Thinkstock-153739583.jpg" alt="A pill fizzes in a glass" caption="" >}} 

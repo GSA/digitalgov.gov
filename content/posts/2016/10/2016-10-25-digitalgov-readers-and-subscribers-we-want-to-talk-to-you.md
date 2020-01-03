@@ -14,7 +14,7 @@ topics:
   - content
   - cx
   - cx
-  - DGU
+  - digitalgov-university
   - digitalgov-university
   - 'Office of Products and Programs'
   - OPP

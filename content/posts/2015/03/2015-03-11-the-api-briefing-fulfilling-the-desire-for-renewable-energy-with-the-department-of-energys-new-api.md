@@ -10,7 +10,7 @@ topics:
   - api
   - data
   - json
-  - United States Department of Energy
+  - united-states-department-of-energy
   - wednesday-api-briefing
 ---
 
