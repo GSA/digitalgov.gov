@@ -2,7 +2,7 @@
 slug: unlocking-the-promise-of-broadband-for-all-americans
 date: 2016-07-19 2:30:50 -0400
 title: Unlocking the Promise of Broadband for All Americans
-summary: 'The Administration announces new wireless research efforts that will improve testing and research of advanced wireless technologies.'
+summary: "The Administration announces new wireless research efforts that will improve testing and research of advanced wireless technologies."
 authors:
   - r-david-edelman
   - jason-furman
