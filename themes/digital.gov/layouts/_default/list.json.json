@@ -43,7 +43,7 @@
       "deck" : "{{- .Params.deck | markdownify -}}",
       {{- end -}}
       {{- if (isset .Params "summary") -}}
-      "summary" : "{{- .Params.summary -}}",
+      "summary" : "{{- .Params.summary | markdownify -}}",
       {{- end -}}
       "date" : "{{- .Date.Format "2006-01-02T15:04:05" -}}-0500",
       {{- if .Lastmod -}}

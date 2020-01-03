@@ -8,7 +8,7 @@ authors:
 topics:
   - content
   - mobile
-  - United States Geological Survey
+  - united-states-geological-survey
   - USGS
 ---
 

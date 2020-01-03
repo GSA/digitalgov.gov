@@ -13,7 +13,7 @@ topics:
   - SSA
   - the-united-states-social-security-administration
   - thursday-mobile-products
-  - United States Geological Survey
+  - united-states-geological-survey
   - usa-gov-federal-mobile-apps-directory
   - USGS
 ---

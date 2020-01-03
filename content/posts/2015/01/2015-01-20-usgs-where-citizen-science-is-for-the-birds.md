@@ -13,7 +13,7 @@ topics:
   - citizen-science-and-crowdsourcing-community-of-practice
   - crowdsourcing
   - FCPCCS
-  - United States Geological Survey
+  - united-states-geological-survey
   - USGS
 ---
 

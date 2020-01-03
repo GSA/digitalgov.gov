@@ -2,7 +2,7 @@
 slug: what-structured-content-can-do-for-you-webinar-recap
 date: 2014-06-09 10:00:42 -0400
 title: 'What Structured Content Can Do For You: Webinar Recap'
-summary: 'Structured content and open content models can help you create content that is platform-agnostic, format-free, and device-independent. This was the theme of the &#8220;What Structured Content Can Do For You: Article Model&#8221; webinar last month. [youtube=http://www.youtube.com/watch?v=kG25vyQ5Jps&w=600] Using a content model is less about how you are crafting your message and more about how the internet is going'
+summary: 'Structured content and open content models can help you create content that is platform-agnostic, format-free, and device-independent.'
 authors:
   - kristen-onell
 topics:
@@ -27,7 +27,7 @@ topics:
 Structured content and open content models [can help you create content]({{< ref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}) that is platform-agnostic, format-free, and device-independent. This was the theme of the &#8220;What Structured Content Can Do For You: Article Model&#8221; webinar last month.
 
 [youtube=http://www.youtube.com/watch?v=kG25vyQ5Jps&w=600]
-  
+
 Using a content model is less about how you are crafting your message and more about how the internet is going to react to your content or how you can manipulate it, according to **Holly Irving** from the **National Institutes of Health**, **Russell O&#8217;Neill** from the **General Services Administration**, and **Logan Powell** from **U.S. Census Bureau**.
 
 For instance, when you Google iPad reviews, your search results will display some starred reviews. Those reviews are displayed because they use a content model that talks with Google’s algorithms. The content models the working group developed were adapted from [Schema.org](http://schema.org/), whose content models are used by Google, eBay, Facebook and many more. Using this adaptation will increase your SEO due to the metadata associated with it.

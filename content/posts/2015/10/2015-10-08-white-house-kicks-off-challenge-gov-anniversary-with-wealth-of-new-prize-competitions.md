@@ -19,7 +19,7 @@ topics:
   - us-department-of-education
   - us-environmental-protection-agency
   - us-national-park-service
-  - United States Geological Survey
+  - united-states-geological-survey
   - USGS
   - white-house
   - white-house-office-of-science-and-technology-policy

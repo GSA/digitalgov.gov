@@ -32,7 +32,7 @@ topics:
   - us-environmental-protection-agency
   - united-states-department-of-energy
   - united-states-department-of-health-and-human-services
-  - United States Geological Survey
+  - united-states-geological-survey
   - USDA
   - USGS
 ---

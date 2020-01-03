@@ -11,7 +11,7 @@ topics:
   - epa
   - OPM
   - us-environmental-protection-agency
-  - United States Geological Survey
+  - united-states-geological-survey
   - united-states-office-of-personnel-management
   - USGS
   - wednesday-api-briefing
