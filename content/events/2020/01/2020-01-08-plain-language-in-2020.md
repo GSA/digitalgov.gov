@@ -9,6 +9,7 @@ summary: "A look ahead at the coming year, and what we’ll accomplish together.
 host: "Plain Language Community of Practice"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/87983421783
+captions: 
 
 # start date
 date: 2020-01-08 14:00:00 -0500
@@ -17,21 +18,28 @@ date: 2020-01-08 14:00:00 -0500
 end_date: 2020-01-08 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
+  - accessibility
   - content
   - plain-language
   - plain-language-community-of-practice
 
 # see all authors at https://digital.gov/authors
-authors:
+authors: 
   - katherine-spivey
 
+# Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
+
+# YouTube ID
+youtube_id: 
+
 
 featured_image:
   uid: plain-language
   alt: ''
 
+# Make it better ♥
 ---
 
 {{< img-right src="plain-language" >}}
