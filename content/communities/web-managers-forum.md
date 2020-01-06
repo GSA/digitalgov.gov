@@ -4,20 +4,25 @@
 
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
+time: 2:31:00
 title: "Web Content Managers"
 deck: ""
 summary: "The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites."
 
 # see all topics at https://digital.gov/topics
-topics:
+topics: 
+  - metrics
   - product-management
+  - user-experience
   - content-strategy
   - project-management
   - analytics
 
 # see all authors at https://digital.gov/authors
-authors:
-  - digitalgov-team
+authors: 
+  - ammie-farraj-feijoo
+  - jeremyzilar
+  - toni-bonitto
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -25,14 +30,13 @@ authors:
 weight: 1
 
 # Redirects: enter the path of the URL that you want redirected to this page
-aliases:
+aliases: 
   - /communities/web-managers-forum/
   - /communities/web-managers-forum/web-content-managers-listserv/
 
 
 community_list:
   - platform: listserv
-    type: government
     subscribe_email: "digitalgovu@gsa.gov"
     subscribe_email_subject: "Join Web Content Managers"
     subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
@@ -41,7 +45,6 @@ community_list:
 
 
 # Make it better ♥
-
 ---
 
 If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.
