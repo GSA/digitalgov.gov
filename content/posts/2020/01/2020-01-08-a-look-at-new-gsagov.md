@@ -8,7 +8,7 @@ time: 18:00:00
 kicker: "USWDS"
 title: "A Look at the New GSA.gov"
 deck: "How the GSA incorporated the U.S. Web Design System into their flagship site."
-summary: ""
+summary: "How the GSA incorporated the U.S. Web Design System into their flagship site."
 
 # see all topics at https://digital.gov/topics
 topics:
