@@ -7,7 +7,7 @@ date: 2020-01-08 18:00:00 -0500
 time: 18:00:00
 kicker: "USWDS"
 title: "A Look at the New GSA.gov"
-deck: "How GSA embraced the U.S. Web Design System."
+deck: "How the GSA incorporated the U.S. Web Design System into their flagship site."
 summary: ""
 
 # see all topics at https://digital.gov/topics
