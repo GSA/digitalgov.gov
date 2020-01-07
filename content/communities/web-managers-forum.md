@@ -21,8 +21,8 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
-  - jeremyzilar
   - toni-bonitto
+  - jeremyzilar
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -37,7 +37,7 @@ aliases:
 
 community_list:
   - platform: listserv
-    type: government
+    type: government_only
     subscribe_email: "digitalgovu@gsa.gov"
     subscribe_email_subject: "Join Web Content Managers"
     subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
