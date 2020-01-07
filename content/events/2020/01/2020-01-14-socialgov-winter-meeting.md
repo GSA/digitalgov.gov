@@ -59,21 +59,21 @@ At the end of the session, we will also have an in-person networking opportunity
 
 ## Schedule
 
-8:00 - 8:30 Registration and networking
+**8:00 - 8:30** Registration and networking
 
-8:30 - 9:00 How to host a Twitter chat by Riley Wilson, NIST
+**8:30 - 9:00** How to host a Twitter chat by Riley Wilson, NIST
 
-9:15 - 9:45 Developing engaging content by Eguren Sara, IRS
+**9:15 - 9:45** Developing engaging content by Eguren Sara, IRS
 
-15 minute break
+_- - - 15 minute break - - -_
 
-10:15 - 10:45 Integrated storytelling across digital platforms by Laura Larrimore, USPTO
+**10:15 - 10:45** Integrated storytelling across digital platforms by Laura Larrimore, USPTO
 
-11:00 - 11:15 Tweeting in Plain Language by Katherine Spivey, PlainLanguage.gov (GSA)
+**11:00 - 11:15** Tweeting in Plain Language by Katherine Spivey, PlainLanguage.gov (GSA)
 
-11:30 - 12:30 Disinformation in Social Media by Rachel DeLange, NCR Threat Intelligence Consortium|Public Safety Center, DC HSEMA
+**11:30 - 12:30** Disinformation in Social Media by Rachel DeLange, NCR Threat Intelligence Consortium|Public Safety Center, DC HSEMA
 
-12:30 - 1:30 Networking!
+**12:30 - 1:30** Networking!
 
 ---
 
