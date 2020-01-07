@@ -38,8 +38,14 @@ state: "DC"
 zip: "20006"
 country: "United States"
 
+featured_image:
+  uid: socialgov-winter-event-2020
+  alt: ''
+
 # Make it better ♥
 ---
+
+{{< img src="socialgov-winter-event-2020" >}}
 
 Join us for SocialGov’s winter meeting to learn more about these exciting social media topics, presented by your federal colleagues:
 
