@@ -70,6 +70,7 @@
     @include u-display('flex');
     p{
       @include u-margin-top(0);
+      @include u-margin-bottom(2);
       @include u-maxw('full');
       @include u-font('sans', '2xs');
       @include u-line-height('sans', 3);
@@ -77,7 +78,11 @@
         @include u-font('sans', 'xs');
         @include u-line-height('sans', 3);
       }
+      &:last-child{
+        @include u-margin-bottom(0);
+      }
     }
+
     .icon{
       @include u-font('sans', 'md');
       @include u-margin-top('05');
@@ -101,6 +106,20 @@
     }
   }
 
+  // Captions URL
+  .captions{
+    @include u-padding-y(1);
+    @include u-padding-x(0);
+    @include u-font('sans', 'xs');
+    @include u-text('no-underline');
+    @include u-text('primary-darker');
+    &:hover{
+      span{
+        @include u-border-bottom('2px','primary-vivid','solid');
+      }
+    }
+  }
+
   .event-tools{
     @include u-padding(1);
     @include u-bg('gray-warm-2');
@@ -119,33 +138,15 @@
         }
       }
     }
+    .captions{
+      @include u-padding-x(1);
+    }
     // YouTube LIVE Comments box notice
     .notice{
       @include u-padding-x(1);
       @include u-font('sans', '3xs');
     }
-
-    // Captions URL
-    .captions{
-      @include u-padding-y(1);
-      @include u-padding-x(1);
-      @include u-font('sans', 'xs');
-      @include u-text('no-underline');
-      @include u-radius('md');
-      @include u-text('primary-darker');
-      &:hover{
-        span{
-          @include u-border-bottom('2px','primary-vivid','solid');
-        }
-      }
-    }
   }
-
-  .captions-box{
-    @include u-margin-bottom(3);
-    @include u-bg('base-lightest');
-  }
-
 }
 
 #events-past{
