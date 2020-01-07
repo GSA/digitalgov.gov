@@ -11,15 +11,15 @@ deck: "How GSA embraced the U.S. Web Design System"
 summary: ""
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - design
   - gsa
   - us-general-services-administration
   - uswds
 
 # see all authors at https://digital.gov/authors
-authors: 
-  - jeremyzilar
+authors:
+  - amanda-dean
 
 # Primary Image (for social media)
 primary_image: "tktk"
@@ -32,7 +32,7 @@ When it comes to applying the [U.S. Web Design System (USWDS)](https://designsys
 
 To kick us off, we’re sitting down with Patrick Son and Sarah Bryant from the U.S. General Services Administration (GSA) to talk about how they incorporated USWDS on their flagship site, [GSA.gov](https://www.gsa.gov/). We asked them a bunch of questions, including:
 
--   What did you set out to do?    
+-   What did you set out to do?
 -   What were your biggest challenges?
 -   What surprised you?
 -   What did you accomplish?
