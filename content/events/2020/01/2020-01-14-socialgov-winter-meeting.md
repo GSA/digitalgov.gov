@@ -5,7 +5,7 @@
 slug: socialgov-winter-meeting
 title: "SocialGov Winter Meeting"
 deck: ""
-summary: "Join SocialGov, the federal government’s social media community of practice, on January 14 for our winter meeting, featuring experts from NIST, IRS, USPTO, PlainLanguage.gov, and DC HSEMA who will speak on the latest social media topics and an opportunity to do some in-person networking. "
+summary: "Join us for talks by collegues from NIST, IRS, USPTO, PlainLanguage.gov, and DC HSEMA who will speak on the latest social media topics and an opportunity to do some in-person networking. "
 host: "SocialGov"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/socialgov-winter-meeting-registration-87685833689
