@@ -38,9 +38,11 @@ To kick us off, we’re sitting down with Patrick Son and Sarah Bryant from the 
 -   What did you accomplish?
 -   What is your best piece of advice for others?
 
----
+
 
 ## What We Did for GSA.gov
+
+{{< img src="gsa-uswds" >}}
 
 We wanted to implement USWDS style and functionality guidance on top of some of our existing design elements and templates. Even with the flexibility of USWDS, applying them to an existing site can be challenging because we want to avoid inconsistencies between versions and breaks in functionality. We had to choose which layouts we could apply on top of our existing content to make sure this didn’t happen.
 
@@ -62,4 +64,9 @@ There’s a learning curve—and had to really dig into our site and USWDS to fi
 
 ### Tip from Dan Willams, USWDS Product Lead
 
-Know your team structure and resources. If you have a well-equipped implementation team, you can start from USWDS defaults, then customize. If you have fewer resources or a smaller, more limited team, you can lean on defaults and templates, or use existing systems like [Federalist](https://federalist.18f.gov/documentation/) or pre-built Drupal themes. It’s great when an agency-level team can develop templates and resources that smaller teams can apply with a minimum of effort.
+"Know your team structure and resources. If you have a well-equipped implementation team, you can start from USWDS defaults, then customize."
+
+"If you have fewer resources or a smaller, more limited team, you can lean on defaults and templates, or use existing systems like [Federalist](https://federalist.18f.gov/documentation/) or pre-built Drupal themes." "It’s great when an agency-level team can develop templates and resources that smaller teams can apply with a minimum of effort.
+
+
+:bulb:_Learn more about getting started with the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) and how to join the community at [https://designsystem.digital.gov](https://designsystem.digital.gov/)_
