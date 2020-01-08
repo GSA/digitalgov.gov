@@ -92,6 +92,10 @@
         {{- end -}}
         },
       {{- end -}}
+
+
+      {{- partial "api/primary_image" . -}}
+
       {{- if .Params.featured_image -}}
       "featured_image" : {
         "uid" : "{{- .Params.featured_image.uid -}}",
