@@ -1,7 +1,7 @@
 ---
 slug: uswds-january-monthly-call
-title: 'U.S. Web Design System: January Monthly Call'
-summary: 'Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions&#46;'
+title: ' USWDS Monthly Call: Using the USWDS Maturity Model'
+summary: 'Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS maturity model and answer your questions&#46;'
 featured_image:
   uid: uswds-2-illio-feature-image
   alt: ''
@@ -18,13 +18,11 @@ captions:
 
 {{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}
 
-The U.S. Web Design System (USWDS) is a toolkit of principles, guidance, and code that you can use to build accessible, mobile-friendly government websites.
- 
-Please join Dan Williams, USWDS product lead, as he kicks off 2020 with an in-depth exploration of the USWDS [maturity model](https://designsystem.digital.gov/maturity-model/). Dan will walk through how you can use the maturity model to make small, incremental changes to modernize your website.
+The January 2020 U.S. Web Design System (USWDS) monthly call is all about the USWDS maturity model. Dan Williams, product lead, will discuss how to use the [maturity model](https://designsystem.digital.gov/maturity-model/) to evaluate your own projects, and how teams can use that evaluation to plan for the future. There will also be time for a live Q&A session.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
-[**USWDS**](https://designsystem.digital.gov/) is a library of code, tools, and guidance to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
+USWDS is a library of principles, guidance, and code to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
 
 - [The U.S. Web Design System](https://designsystem.digital.gov/)
 - [Contribute GitHub](https://github.com/uswds/uswds/issues)
