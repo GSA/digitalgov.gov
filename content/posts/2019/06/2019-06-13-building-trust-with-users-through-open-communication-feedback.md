@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/2019/06/13/building-trust-with-users-through-open
+# View this page at https://digital.gov/2019/06/13/building-trust-with-users-through-open-communication-feedback
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: building-trust-with-users-through-open-communication-feedback
