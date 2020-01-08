@@ -83,7 +83,7 @@
 
     {{/* EVENT Stages —
     Depending on the type of event, different "event stages" appear on the page.
-    Only for upcomming events
+    - Only for upcomming events
     ==================================== */}}
 
     {{/* YouTube LIVE Stage */}}
@@ -111,19 +111,11 @@
         <div class="grid-row tablet-lg:grid-gap-4">
           <div class="grid-col-12 tablet:grid-col-9">
 
-            <!-- Zoom helper box -->
+            {{/* ZOOM Stage */}}
             {{- if eq .Params.event_platform "zoom" -}}
               {{/* If is a Future Event */}}
               {{- if eq $future_event true -}}
                 {{- .Render "stage-zoom" -}}
-              {{- end -}}
-            {{- end -}}
-
-            <!-- Captions box — wont appear on youtube_live events -->
-            {{- if not (eq .Params.event_platform "youtube_live") -}}
-              {{/* If is a Future Event */}}
-              {{- if eq $future_event true -}}
-                {{- .Render "captions" -}}
               {{- end -}}
             {{- end -}}
 
