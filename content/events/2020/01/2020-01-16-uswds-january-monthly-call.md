@@ -30,8 +30,4 @@ USWDS is a library of principles, guidance, and code to help government teams de
 - [Join our community](https://digital.gov/communities/uswds/)
 - [Follow @uswds on Twitter](https://twitter.com/uswds)
 
----
-
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
-
 _This talk is hosted by the [U.S. Web Design System](https://designsystem.digital.gov/) and Digital.gov._
