@@ -60,7 +60,7 @@ For look and feel, we used the design system’s downloadable templates and buil
 
 We applied text and style guidance from USWDS, and added our agency branding and “GSA blue” color on top of those styles so our users would still recognize and trust our site. We love that the flexibility of USWDS allows us to keep our agency’s visual identity intact, while introducing a look and feel that’s more consistent with other government websites.
 
-There’s a learning curve—and had to really dig into our site and USWDS to figure out what we could apply, fully or partially. We had to decide which of the size, system, and theme tokens to use, which took a bit of practice. When we encountered USWDS styles (like CSS columning) that weren’t a 1:1 match with ours, our designer and developer worked with the USWDS team to figure out what worked for us. Some fixes will have to be made manually on content--you should expect to do a good amount of testing and QA. Ultimately, you want to do what’s best for your site and your [customers](https://www.performance.gov/CAP/cx/).
+There’s a learning curve—and we had to really dig into our site and USWDS to figure out what we could apply, fully or partially. We had to decide which of the size, system, and theme tokens to use, which took a bit of practice. When we encountered USWDS styles (like CSS columning) that weren’t a 1:1 match with ours, our designer and developer worked with the USWDS team to figure out what worked for us. Some fixes will have to be made manually on content--you should expect to do a good amount of testing and QA. Ultimately, you want to do what’s best for your site and your [customers](https://www.performance.gov/CAP/cx/).
 
 ### Tip from Dan Willams, USWDS Product Lead
 
