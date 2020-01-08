@@ -1,7 +1,21 @@
 {{- $cdnurl := .Site.Params.cdnurl -}}
-{{- if .Params.featured_image.uid -}}
+
+{{/* Sets a variable for $primary_image */}}
+{{- $primary_image := "" -}}
+{{/* Checks if $primary_image exists
+     if not, it will use the featured_image.
+*/}}
+{{- if .Params.primary_image -}}
+  {{- $primary_image = .Params.primary_image -}}
+{{- else -}}
+  {{- if .Params.featured_image.uid -}}
+    {{- $primary_image = .Params.featured_image.uid -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $primary_image -}}
   {{- $.Scratch.Set "defaultimg" "default" -}}
-  {{- $thisimg := index $.Site.Data.images (default ($.Scratch.Get "defaultimg") .Params.featured_image.uid | lower) -}}
+  {{- $thisimg := index $.Site.Data.images (default ($.Scratch.Get "defaultimg") $primary_image | lower) -}}
   {{- $imgBase := $thisimg.uid -}}
   {{- $imgExt := $thisimg.format -}}
   {{- $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase -}}
