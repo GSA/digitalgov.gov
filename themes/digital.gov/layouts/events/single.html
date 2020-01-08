@@ -129,6 +129,13 @@
           </div>
 
           <div class="grid-col-12 tablet:grid-col-3">
+
+            {{/* Authors */}}
+            {{- if .Params.authors -}}
+            <h4>In this talk</h4>
+            {{- partial "core/get_authors" . -}}
+            {{- end -}}
+
             {{- if eq .Params.event_platform "youtube_live" -}}
               {{- if eq $future_event true -}}
               <div class="actions actions-stacked">
