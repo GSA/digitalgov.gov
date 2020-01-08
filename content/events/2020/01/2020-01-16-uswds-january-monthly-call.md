@@ -1,5 +1,5 @@
 ---
-slug: uswds-january-monthly-call
+slug: USWDS Monthly Call: Using the UWDS Maturity Model
 title: "USWDS Monthly Call: Using the USWDS Maturity Model"
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS maturity model and answer your questions&#46;"
 featured_image:
