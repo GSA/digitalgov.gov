@@ -14,10 +14,10 @@ source_url: "https://www.performance.gov/tips-for-starting-your-customer-experie
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: logingov
+source: performancegov
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - cx
   - product-management
   - contact-centers
