@@ -1,34 +1,54 @@
-{{ define "content" }}
-<div id="contentleft" class="clearfix">
-  <div id="content" class="clearfix">
-    <div class="post entry sitemap clearfix">
-        <h1>404 Error ... Page Not Found</h1>
-        <div class="content">
-          <p>I'm sorry, but the page you're seeking does not exist. Please verify that you've entered the correct URL in your browser's address bar.</p>
+{{- define "content" -}}
+{{- with site.GetPage "/404" -}}
+<main role="main">
+  <article>
+    <header>
+      <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        <div class="grid-row">
+          <div class="grid-col-12">
+
+            {{/* Page Title */}}
+            <h1>{{- .Title | markdownify -}} </h1>
+
+            {{/* Deck */}}
+            {{- if .Params.deck -}}
+            <div class="deck">{{- .Params.deck | markdownify -}}</div>
+            {{- end -}}
+          </div>
         </div>
+      </div>
+    </header>
 
-        <div class="sitemap-wide">
+    <section>
+      <div class="grid-container grid-container-desktop" data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
+        <div class="grid-row tablet-lg:grid-gap-6">
 
-          <h2><span>Recent Posts</span></h2>
+          <div class="grid-col-12 tablet:grid-col-9">
 
-          {{ range first 10 (where .Site.Pages "Section" "posts") }}
-            <div class="sitemap-post clearfix">
-              <p class="post-title"><a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></p>
+            {{/* Content */}}
+            <div class="content">
+              {{- .Content -}}
             </div>
-          {{ end }}
+
+            {{- partial "core/feedback" (dict "page" . "page_type" "resource" "branch" ($.Scratch.Get "branch")) -}}
+
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-3">
+
+            {{/* Table of contents */}}
+            {{- partial "core/toc" . -}}
+
+            {{/* Last updated */}}
+            {{/* {{- partial "last-updated" . -}}  */}}
+
+          </div>
 
         </div>
+      </div>
+    </section>
 
-        <div class="sitemap-narrow">
-          <h2><span>Site Feed</span></h2>
-          <ul class="archives">
-            <li><a href="{{ "feed/" | absURL }}">Main RSS Feed</a></li>
-          </ul>
-        </div>
-    </div>
-    <!--.post -->
-  </div>
-  <!-- #content -->
-</div>
-<!-- #contentleft -->
-{{ end }}
+  </article>
+</main>
+{{- end -}}
+{{- end -}}
