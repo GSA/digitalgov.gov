@@ -8,8 +8,10 @@
           <div class="grid-col-12">
 
             {{/* Breadcrumbs */}}
+            {{- if .Parent -}}
             <p class="breadcrumb"><a href="{{ .Parent.Permalink }}" title="{{ .Parent.Title }}"><i class="fas fa-arrow-left"></i> <span>{{ .Parent.Title }}</span></a></p>
-
+            {{- end -}}
+            
             {{- if .Params.kicker -}}
             <p class="kicker">{{- .Params.kicker -}}</p>
             {{- end -}}
