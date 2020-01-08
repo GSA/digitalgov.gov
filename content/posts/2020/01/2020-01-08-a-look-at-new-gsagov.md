@@ -21,8 +21,8 @@ topics:
 authors:
   - amanda-dean
 
-featured_image:
-  uid: gsa-uswds
+# Primary Image (for social media)
+primary_image: "gsa-uswds"
 
 # Make it better ♥
 
@@ -36,7 +36,7 @@ To kick us off, we’re sitting down with Patrick Son and Sarah Bryant from the 
 -   What were your biggest challenges?
 -   What surprised you?
 -   What did you accomplish?
--   What is your best piece of advice for others? 
+-   What is your best piece of advice for others?
 
 ## What We Did for GSA.gov
 
