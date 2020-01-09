@@ -23,9 +23,9 @@ event_platform: zoom
 # YouTube ID
 youtube_id: 
 
-This DevOps Community of Practice event will be a panel discussion. It will allow each of the agency participants to share how their agency is sharing technical best practices within their various offices, as well as spreading the courage to change and adopt modern management and technical practices. Discussion will focus on challenges they’ve faced facilitating organizational learning, and positive outcomes they have observed as a result of their efforts. This event will allow for the audience to participate in the discussion, too, asking questions of the panelists.
-
 ---
+
+This DevOps Community of Practice event will be a panel discussion. It will allow each of the agency participants to share how their agency is sharing technical best practices within their various offices, as well as spreading the courage to change and adopt modern management and technical practices. Discussion will focus on challenges they’ve faced facilitating organizational learning, and positive outcomes they have observed as a result of their efforts. This event will allow for the audience to participate in the discussion, too, asking questions of the panelists.
 
 **Presenter:**
 Participants include:
@@ -38,8 +38,6 @@ Participants include:
 
 ---
 
-**Join the DevOps Community**  by visiting  [our community page](https://digital.gov/communities/devops/).
+**Join the DevOps Community** by visiting [our community page](https://digital.gov/communities/devops/).
 
-_Questions about this event or future events? Send them to  [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._
-
-  If using Zoom, include: This event will be held over [Zoom](https://www.zoom.us/) (see the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions)). You can [download Zoom Client for Meetings](https://zoom.us/download#client_4meeting) to install the Zoom web browser client beforehand.
+_Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov)._ 
