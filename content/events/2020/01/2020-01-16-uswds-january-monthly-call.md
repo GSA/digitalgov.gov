@@ -7,7 +7,7 @@ title: "USWDS Monthly Call: Using the USWDS Maturity Model"
 deck: ""
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS maturity model and answer your questions."
 host: "U.S. Web Design System"
-event_organizer: "DigitalGov University"
+event_organizer: "Digital.gov University"
 registration_url: https://www.eventbrite.com/e/us-web-design-system-january-monthly-call-registration-83905173633
 captions: 
 
