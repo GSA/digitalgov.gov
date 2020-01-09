@@ -1,0 +1,3 @@
+{{- if (isset .Params "youtube_id") -}}
+"youtube_id" : "{{- with .Params.youtube_id -}}{{- . -}}{{- end -}}",
+{{- end -}}

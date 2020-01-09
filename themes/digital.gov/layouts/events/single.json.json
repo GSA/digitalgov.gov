@@ -74,9 +74,9 @@
       {{- if (isset .Params "registration_url") -}}
       "registration_url" : "{{- .Params.registration_url -}}",
       {{- end -}}
-      {{- if (isset .Params "youtube_id") -}}
-      "youtube_id" : "{{- .Params.youtube_id -}}",
-      {{- end -}}
+
+      {{- partial "api/youtube_id" . -}}
+
       {{- if (isset .Params "zoom_id") -}}
       "zoom_id" : "{{- .Params.zoom_id -}}",
       {{- end -}}
