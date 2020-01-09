@@ -48,7 +48,7 @@ Government agencies are investing in cloud capabilities and are seeking to work 
 
 ## Upcoming Meetings
 
-- Please check back for upcoming meetings.
+- [**January Meeting: Panel Discussion on How Agencies Are Spreading Best Practices**](https://digital.gov/event/2020/01/28/panel-discussion-how-agencies-spreading-best/)
 
 ## Past Meetings
 
