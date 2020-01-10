@@ -39,10 +39,6 @@ To help prevent exploitation from unofficial sources, phishing scams, or malicio
 
 The accounts in the registry are independently updated by federal managers across the government who maintain individual agency accounts.
 
-**Notice:** As of April 19, 2018, all entries that have not been updated by agencies since January 1, 2017 have been archived. Archived accounts will not appear in the public facing list and API of official, active accounts. This was done to help ensure that users can trust that accounts listed in the U.S. Digital Registry are official and active.
-
-If your federal agency account has been archived but is still active, you can easily log-in and update these accounts to make them active again. In the meantime, GSA will continue to help agencies fulfill this need by providing support and guidance.
-
 ---
 
 ## How to Access the U.S. Digital Registry
@@ -65,3 +61,9 @@ If you already have a  [Login.gov](http://login.gov/)  account with your governm
 If you don't already have a  [Login.gov](http://login.gov/)  account with your government email address, follow the instructions to create an account.
 
 _Need assistance with your accounts, email [usdigitalregistry@gsa.gov](mailto:usdigitalregistry@gsa.gov)_
+
+---
+
+**Notice:** As of April 19, 2018, all entries that have not been updated by agencies since January 1, 2017 have been archived. Archived accounts will not appear in the public facing list and API of official, active accounts. This was done to help ensure that users can trust that accounts listed in the U.S. Digital Registry are official and active.
+
+If your federal agency account has been archived but is still active, you can easily log-in and update these accounts to make them active again. In the meantime, GSA will continue to help agencies fulfill this need by providing support and guidance.
