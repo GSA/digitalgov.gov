@@ -1,19 +1,44 @@
 ---
+# View this page at https://digital.gov/event/2019/11/basics-scrum-part-i
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: basic-scrum-i
 title: "Basics of Scrum, Part I"
 deck: "with Alan Atlas and Alan Brouilette"
 summary: "Scrum is the most widely used Agile software development methodology. This session will cover the basics of Scrum at a very high level."
-featured_image:
-  uid: agile-scrum-part-1
-  alt: ''
-event_type:
-  - zoom
+host: "18F"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
 date: 2019-11-08 13:30:00 -0500
+
+# end date
 end_date: 2019-11-08 14:30:00 -0500
-event_organizer: DigitalGov University
-host: 18F
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - agile
+  - project-management
+  - agile-lean-community-of-practice
+  - scrum
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - alan-atlas
+  - alan-brouilette
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
+# YouTube ID
 youtube_id: Q9BgnJqMP4Y
 
+# Primary Image (for social media)
+primary_image: "agile-scrum-part-1"
+
+# Make it better ♥
 ---
 
 [_View the slides_](https://digital.gov/pdf/Basics-of-Scrum-Part-One.pdf) (PDF, 922KB, 25 pages)
