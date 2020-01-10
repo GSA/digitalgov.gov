@@ -53,4 +53,15 @@ Federal agencies are directed to update these accounts in the U.S. Digital Regis
 
 > “To help confirm the validity of official U.S. Government digital platforms, within 60 days of the publication date of this Memorandum, agencies must register their public-facing digital services such as social media, collaboration accounts, mobile apps and mobile websites, with the U.S. Digital Registry at: [http://www.digitalgov.gov/services/u-s-digital-registry/](http://www.digitalgov.gov/services/u-s-digital-registry/).”
 
-_Accessing the U.S. Digital Registry requires an OMB Max ID, which is available to federal government employees and contractors with a valid .gov, .mil, or .fed.us email address. [Register for an OMB Max ID](https://max.omb.gov/maxportal/registrationForm.action) if you need one._
+
+**To register and manage accounts on the U.S. Digital Registry** you must have a  [Login.gov](http://login.gov/)  account, which is available to federal government employees and contractors with a valid .gov, .mil, or .[fed.us](http://fed.us/)  email address.  
+
+1. Go to the  [U.S. Digital Registry](https://usdigitalregistry.digitalgov.gov/)
+
+1. In the top navigation bar, far right, access the "`LOG IN`" link. You'll be brought to the  [Login.gov](http://login.gov/) log in page for the U.S. Digital Registry.
+
+If you already have a  [Login.gov](http://login.gov/)  account with your government email address, you won't have to do anything else. Just use that account information to register or to access accounts on U.S. Digital Registry.
+
+If you don't already have a  [Login.gov](http://login.gov/)  account with your government email address, follow the instructions to create an account.
+
+_Need assistance with your accounts, email [usdigitalregistry@gsa.gov](mailto:usdigitalregistry@gsa.gov)_
