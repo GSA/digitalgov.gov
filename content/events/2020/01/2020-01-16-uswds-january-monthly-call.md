@@ -9,7 +9,7 @@ summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss 
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov University"
 registration_url: https://www.eventbrite.com/e/us-web-design-system-january-monthly-call-registration-83905173633
-captions: 
+captions:  https://www.captionedtext.com/client/event.aspx?EventID=4305893&CustomerID=321
 
 # start date
 date: 2020-01-16 14:30:00 -0500
