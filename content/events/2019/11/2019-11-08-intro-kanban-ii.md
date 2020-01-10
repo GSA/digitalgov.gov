@@ -25,8 +25,10 @@ topics:
   - project-management
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
+  - alan-atlas
   - alan-brouilette
+
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
