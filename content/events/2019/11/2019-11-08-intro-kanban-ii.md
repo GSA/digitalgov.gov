@@ -22,6 +22,7 @@ topics:
   - agile
   - agile-lean-community-of-practice
   - kanban
+  - project-management
 
 # see all authors at https://digital.gov/authors
 authors: 
