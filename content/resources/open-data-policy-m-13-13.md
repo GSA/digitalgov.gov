@@ -18,13 +18,7 @@ Making information resources accessible, discoverable, and usable by the public 
   * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
   * [OMB M-10-06, Open Government Directive](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf) (December 2009)
   * [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf)
-  * > <div class="one-half">
-    >   <ul>
-    >     <li>
-    >       <a href="https://obamawhitehouse.archives.gov/open">View all Open Government policies on whitehouse.gov</a>
-    >     </li>
-    >   </ul>
-    > </div>
+  * [View all Open Government policies on whitehouse.gov](https://obamawhitehouse.archives.gov/open)
 
 * * *
 
