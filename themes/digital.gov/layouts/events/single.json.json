@@ -75,6 +75,8 @@
       "registration_url" : "{{- .Params.registration_url -}}",
       {{- end -}}
 
+      {{- partial "api/captions" . -}}
+      
       {{- partial "api/youtube_id" . -}}
 
       {{- if (isset .Params "zoom_id") -}}
