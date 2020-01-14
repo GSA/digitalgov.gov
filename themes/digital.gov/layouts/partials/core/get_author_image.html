@@ -1,0 +1,38 @@
+{{/*
+  ======================================
+  Get the author image
+  ======================================
+*/}}
+{{- if .author.Params.profile_source -}}
+  {{- $profile_source := .author.Params.profile_source -}}
+  {{- if eq $profile_source "github" -}}
+    {{- if .author.Params.github -}}
+      {{- template "github" (dict "id" .author.Params.github ) -}}
+    {{- else -}}
+      {{- $icon_path := (printf "img/%s.png" $profile_source ) -}}
+      {{- template "digitalgov_icon" (dict "id" $profile_source "icon_path" $icon_path ) -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $icon_path := (printf "img/%s.png" $profile_source ) -}}
+    {{- template "digitalgov_icon" (dict "id" $profile_source "icon_path" $icon_path ) -}}
+  {{- end -}}
+
+{{- else -}}
+  {{- if .author.Params.github -}}
+    {{- template "github" (dict "id" .author.Params.github ) -}}
+  {{- else -}}
+    {{- $icon_path := print "img/" (index (shuffle (slice "digit-light" "digit-dark")) 0) ".png" -}}
+    {{- template "digitalgov_icon" (dict "id" .author.Params.profile_source "icon_path" $icon_path ) -}}
+  {{- end -}}
+{{- end -}}
+
+
+{{/* templates ============== */}}
+
+{{ define "github" }}
+  <img src="https://github.com/{{- .id -}}.png?size=50" alt="">
+{{ end }}
+
+{{ define "digitalgov_icon" }}
+  <img src="{{- .icon_path | absURL -}}" alt="">
+{{ end }}
