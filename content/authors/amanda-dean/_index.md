@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/amanda-dean
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: amanda-dean
 display_name: "Amanda Dean"
 first_name: "Amanda"
 last_name: "Dean"
@@ -11,7 +10,7 @@ last_name: "Dean"
 pronoun: ""
 
 # user id — not easily changed
-uid: ""
+uid: "amanda-dean"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: amanda.dean@gsa.gov
