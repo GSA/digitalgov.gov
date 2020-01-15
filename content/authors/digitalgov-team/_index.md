@@ -3,8 +3,8 @@
 # Your author profile page lives at:
 # https://digital.gov/authors/digitalgov-team
 
-display_name: "DigitalGov Team"
-first_name: "DigitalGov"
+display_name: "Digital.gov Team"
+first_name: "Digital.gov"
 last_name: "Team"
 
 # Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
