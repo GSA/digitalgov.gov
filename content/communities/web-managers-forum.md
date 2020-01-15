@@ -4,7 +4,6 @@
 
 slug: web-content-managers
 date: 2013-11-21 2:31:00 -0500
-time: 2:31:00
 title: "Web Content Managers"
 deck: ""
 summary: "The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites."
@@ -20,9 +19,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - ammie-farraj-feijoo
-  - toni-bonitto
-  - jeremyzilar
+  - digitalgov-team
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
