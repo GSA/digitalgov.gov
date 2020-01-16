@@ -35,6 +35,7 @@ event_platform: zoom
 youtube_id:
 
 # Make it better ♥
+
 ---
 
 For this month's U.S. Web Design System (USWDS) monthly call Dan Williams, product lead, will discuss the design system in greater detail. Time will be set aside for a live Q&A session between attendees and Dan.
@@ -50,4 +51,4 @@ Follow @uswds on Twitter
 - [Join our community](https://digital.gov/communities/uswds/)
 - [Follow @uswds on Twitter](https://twitter.com/uswds)
 
-_This talk is hosted by the [U.S. Web Design System](https://designsystem.digital.gov/) and Digital.gov._
+_This talk is hosted by the [U.S. Web Design System](https://designsystem.digital.gov/) and Digital.gov._ 
