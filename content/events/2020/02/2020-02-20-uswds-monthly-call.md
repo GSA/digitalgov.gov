@@ -5,8 +5,7 @@
 slug: uswds-monthly-call
 title: "USWDS Monthly Call"
 deck: "Join U.S. Web Design System Product Lead, Dan Williams, as we talk about the design system and answer your questions."
-summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions.
-"
+summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions."
 host: "U.S. Web Design System"
 event_organizer: "Digital.gov University"
 registration_url: https://www.eventbrite.com/e/uswds-monthly-call-february-2020-registration-90040398255
@@ -16,24 +15,24 @@ captions: https://www.captionedtext.com/client/event.aspx?EventID=4313166&Custom
 date: 2020-02-20 14:30:00 -0500
 
 # end date
-end_date:  date: 2020-02-20 15:30:00 -0500
+end_date:  2020-02-20 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - draft-web-design-standards
   - responsive-web-design
   - uswds
   - user-centered-design
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - dan-williams
 
 # Event platform (zoom, youtube_live, adobe_connect)
 event_platform: zoom
 
 # YouTube ID
-youtube_id: 
+youtube_id:
 
 # Make it better ♥
 ---
