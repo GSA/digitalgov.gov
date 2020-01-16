@@ -1,0 +1,7 @@
+{{- if .Params.featured_image -}}
+
+"featured_image" : {
+  "uid" : "{{- with .Params.featured_image.uid -}}{{- . -}}{{- end -}}",
+  "alt" : "{{- with .Params.featured_image.alt -}}{{- . -}}{{- end -}}"
+},
+{{- end -}}

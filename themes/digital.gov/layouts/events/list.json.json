@@ -80,9 +80,11 @@
       {{- if (isset .Params "registration_url") -}}
       "registration_url" : "{{- .Params.registration_url -}}",
       {{- end -}}
-      {{- if (isset .Params "youtube_id") -}}
-      "youtube_id" : "{{- .Params.youtube_id -}}",
-      {{- end -}}
+
+      {{- partial "api/captions" . -}}
+
+      {{- partial "api/youtube_id" . -}}
+
       {{- if (isset .Params "zoom_id") -}}
       "zoom_id" : "{{- .Params.zoom_id -}}",
       {{- end -}}
@@ -129,13 +131,9 @@
       {{- end -}}
 
       {{- partial "api/primary_image" . -}}
-      
-      {{- if .Params.featured_image -}}
-      "featured_image" : {
-        "uid" : "{{- .Params.featured_image.uid -}}",
-        "alt" : "{{- .Params.featured_image.alt -}}"
-      },
-      {{- end -}}
+
+      {{- partial "api/featured_image" . -}}
+
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
       "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
       "filepath" : {{- with .File -}}{{- .Path | jsonify -}}{{- end -}},

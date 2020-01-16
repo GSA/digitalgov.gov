@@ -1,18 +1,42 @@
----
+ ---
+# View this page at https://digital.gov/event/2019/12/us-web-design-system-december-monthly
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: uswds-december-monthly-call
-title: 'U.S. Web Design System: December Monthly Call'
-summary: 'Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions&#46;'
-featured_image:
-  uid: uswds-2-illio-feature-image
-  alt: ''
-event_platform: zoom
-date: 2019-12-19 14:30:00 -0500
-end_date: 2019-12-19 15:30:00 -0500
-event_organizer: DigitalGov University
-host: U.S. Web Design System
-youtube_id: iTEI1JTHt_Q
+title: "U.S. Web Design System: December Monthly Call"
+deck: ""
+summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions."
+host: "U.S. Web Design System"
+event_organizer: "DigitalGov University"
+registration_url: 
 captions: 
 
+# start date
+date: 2019-12-19 14:30:00 -0500
+
+# end date
+end_date: 2019-12-19 15:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - design
+  - product-management
+  - uswds
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dan-williams
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
+# YouTube ID
+youtube_id: iTEI1JTHt_Q
+
+# Primary Image (for social media)
+primary_image: "uswds-2-illio-feature-image"
+
+# Make it better ♥
 ---
 
 {{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}

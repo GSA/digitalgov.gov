@@ -29,12 +29,7 @@
         <div class="author grid-row">
           <div class="grid-col-auto">
             <div class="photo">
-              {{- if $author.Params.github -}}
-              <img src="https://github.com/{{- $author.Params.github -}}.png?size=50" alt="">
-              {{- else -}}
-              {{- $default_profile := print "img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
-              <img src="{{- $default_profile | absURL -}}" alt="">
-              {{- end -}}
+              {{- partial "core/get_author_image" (dict "author" $author ) -}}
             </div>
           </div>
           <div class="grid-col-9">

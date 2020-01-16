@@ -1,19 +1,43 @@
 ---
+# View this page at https://digital.gov/event/2020/01/uswds-monthly-call-using-uswds-maturity
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: uswds-january-monthly-call
 title: "USWDS Monthly Call: Using the USWDS Maturity Model"
-summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS maturity model and answer your questions&#46;"
-featured_image:
-  uid: uswds-2-illio-feature-image
-  alt: ''
-event_platform: zoom
-date: 2020-01-16 14:30:00 -0500
-end_date: 2020-01-16 15:30:00 -0500
-event_organizer: DigitalGov University
-host: U.S. Web Design System
+deck: ""
+summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS maturity model and answer your questions."
+host: "U.S. Web Design System"
+event_organizer: "Digital.gov University"
 registration_url: https://www.eventbrite.com/e/us-web-design-system-january-monthly-call-registration-83905173633
-youtube_id:
-captions:
+captions:  https://www.captionedtext.com/client/event.aspx?EventID=4305893&CustomerID=321
 
+# start date
+date: 2020-01-16 14:30:00 -0500
+
+# end date
+end_date: 2020-01-16 15:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - code
+  - design
+  - product-management
+  - uswds
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dan-williams
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
+# YouTube ID
+youtube_id: 
+
+# Primary Image (for social media)
+primary_image: "uswds-2-illio-feature-image"
+
+# Make it better ♥
 ---
 
 {{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}

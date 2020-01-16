@@ -28,12 +28,9 @@
       {{- with $author -}}
 
       <a class="author" href="{{- (printf "authors/%s/" $uid) | absURL -}} " title="Posts by {{- $author.Params.display_name | default $uid -}} " rel="author">
-        {{- if $author.Params.github -}}
-        <img src="https://github.com/{{- $author.Params.github -}}.png?size=50" alt="">
-        {{- else -}}
-        {{- $default_profile := print "img/digit-" (index (shuffle (slice "light" "dark")) 0) ".png" -}}
-        <img src="{{- $default_profile | absURL -}}" alt="">
-        {{- end -}}
+
+        {{- partial "core/get_author_image" (dict "author" $author ) -}}
+
         <span>{{- $author.Params.display_name | default $uid -}}</span>
       </a>{{ if lt (add $i 1) $length }}<!--,--> {{ end }}
 

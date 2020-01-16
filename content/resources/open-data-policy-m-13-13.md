@@ -7,7 +7,7 @@ authors:
   - apiazza
 ---
 
-Making information resources accessible, discoverable, and usable by the public can help fuel entrepreneurship, innovation, and scientific discovery- all of which improve Americans&#8217; lives and contribute significantly to job creation. This Memorandum establishes a framework to help institutionalize the principles of effective infonnation management at each stage of the information&#8217;s life cycle to promote interoperability and openness. Whether or not particular information can be made public, agencies can apply this framework to all information resources to promote efficiency and produce value.
+Making information resources accessible, discoverable, and usable by the public can help fuel entrepreneurship, innovation, and scientific discovery- all of which improve Americans&#8217; lives and contribute significantly to job creation. This Memorandum establishes a framework to help institutionalize the principles of effective information management at each stage of the information&#8217;s life cycle to promote interoperability and openness. Whether or not particular information can be made public, agencies can apply this framework to all information resources to promote efficiency and produce value.
 
 [View M13-13: Open Data Policy](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf)
 
@@ -18,13 +18,7 @@ Making information resources accessible, discoverable, and usable by the public 
   * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
   * [OMB M-10-06, Open Government Directive](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf) (December 2009)
   * [Guidance on the Use of Challenges and Prizes to Promote Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf)
-  * > <div class="one-half">
-    >   <ul>
-    >     <li>
-    >       <a href="https://obamawhitehouse.archives.gov/open">View all Open Government policies on whitehouse.gov</a>
-    >     </li>
-    >   </ul>
-    > </div>
+  * [View all Open Government policies on whitehouse.gov](https://obamawhitehouse.archives.gov/open)
 
 * * *
 
