@@ -3,7 +3,7 @@
 # Your author profile page lives at:
 # https://digital.gov/authors/james-geoghegan
 
-display_name: "James Geoghegan"
+display_name: "Jim Geoghegan"
 first_name: "James"
 last_name: "Geoghegan"
 
