@@ -16,7 +16,7 @@ captions: https://www.captionedtext.com/client/event.aspx?EventID=4313166&Custom
 date: 2020-02-20 14:30:00 -0500
 
 # end date
-end_date:  15:30:00 -0500
+end_date:  date: 2020-02-20 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
 topics: 
