@@ -5,7 +5,7 @@
 slug: rpa
 date: 2019-12-12 19:00:00 -0500
 title: "Robotic Process Automation (RPA)"
-deck: ""
+deck: "A collaborative body designed to rapidly accelerate the adoption of RPA technology across the federal government"
 summary: "We are a group who is working to accelearate robotic process automation (RPA) adoption in the federal government."
 
 # see all topics at https://digital.gov/topics
@@ -27,15 +27,7 @@ community_list:
 # Make it better ♥
 ---
 
-The Federal RPA Community of Practice (CoP) is a thought leadership and collaborative body designed to rapidly accelerate the adoption of RPA technology across the federal government.
-
-This community consists of representatives from more than 50 Federal agencies, with more than 750 confirmed members.
-
-The executive sponsors for the RPA Community of Practice are GSA Chief Financial Officer and acting CoP Chair, Gerard Badorrek, and GSA Technology Transformation Services (TTS) Director, Anil Cheriyan.
-
-## Our Mission
-
-The RPA CoP pursues a bifurcated mission. First, the organization is charged with designing solutions to overcome the technological, management, and operational challenges that organizations can encounter in designing and deploying an effective RPA program. This portion of the mission includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
+**Our mission:** The RPA CoP pursues a bifurcated mission. First, the organization is charged with designing solutions to overcome the technological, management, and operational challenges that organizations can encounter in designing and deploying an effective RPA program. This portion of the mission includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
 
 The second element of our mission is to provide knowledge sharing and mentoring to organizations looking to start an RPA program or to evolve their current RPA services. This **RPA Playbook** is a small part of the CoP’s knowledge sharing efforts, which also include frequent cross-government collaborative meetings, communications, thought leadership pieces, webinars, and workshops.
 
@@ -43,12 +35,14 @@ The second element of our mission is to provide knowledge sharing and mentoring 
 
 The RPA CoP seeks to achieve its important mission with a sense of urgency and a bias towards action. As agencies continue to learn the potential benefits of RPA, enthusiasm for developing RPA programs government-wide grows exponentially. The RPA CoP plays an important role in helping agencies convert RPA enthusiasm into action. Specifically, the CoP helps agencies develop programs that are cost effective, auditable, avoid common pitfalls, and most importantly, deploy impactful automations.
 
-
 ## Who We Are
+
+The executive sponsors for the RPA Community of Practice are GSA Chief Financial Officer and acting CoP Chair, **Gerard Badorrek**, and GSA Technology Transformation Services (TTS) Director, **Anil Cheriyan**.
 
 The RPA community, RPA Playbook, and all knowledge sharing events are managed by Jim Geoghegan: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
 
 The community is organized into 10 practice areas, with assigned leaders from impactful RPA programs across the federal government.
+
 
 ### Technology
 
@@ -77,6 +71,7 @@ The community is organized into 10 practice areas, with assigned leaders from im
 
 The community achieves its mission through information sharing, identification and definition of options, best practices, methods and standards for RPA implementation and operations. It does not set policy, but policy-setting agencies are encouraged to participate and make use of the community’s base of knowledge, information, and experience.
 
+This community consists of representatives from more than 50 Federal agencies, with more than 750 confirmed members.
 
 ---
 
