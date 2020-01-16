@@ -47,7 +47,22 @@ weight: 1
 Join us for a live showcase of some of the most innovative projects in government. In this event, several 10x-funded projects will give an overview of their work, an update on the current status, and discuss other ways in which the 10x approach is unique.
 
 In a set of 5-minute presentations, the 10x project teams will outline:
--   The original pitch
--   A brief summary of work conducted in the prior phases
--   Current project status
--   How to get in touch with projects and the 10x team
+
+ - The original pitch
+ - A brief summary of work conducted in the prior phases
+ - Current project status
+ - How to get in touch with projects and the 10x team
+ 
+ ---
+ 
+**Related links**:
+
+ - [The 10x website](https://10x.gsa.gov/)
+ - [Tips for 10x submissions](https://10x.gsa.gov/send-us-an-idea/)
+ - [Submit an idea to 10x](https://feedback.gsa.gov/jfe/form/SV_1Im8dTPnjnV3HpP)
+ - [Learn more about 10x projects](https://10x.gsa.gov/projects/)
+ 
+ ---
+ 
+ *10x is an incremental investment fund inside the United States federal government. We fund internal projects that can scale across the federal government or significantly improve how our government builds technology for the public good.*
+ 
