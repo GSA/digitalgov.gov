@@ -22,7 +22,7 @@ community_list:
   - platform: listserv
     type: government
     subscribe_email: "FedRPA-subscribe-request@listserv.gsa.gov"
-    members: 721
+    members: 763
     emails_per_week:
 
 
