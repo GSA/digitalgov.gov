@@ -49,8 +49,9 @@ The executive sponsors for the RPA Community of Practice are:
 
 The RPA community and the RPA Playbook are coordinated by **Jim Geoghegan**: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
 
-The community is organized into 10 practice areas, with assigned leaders from impactful RPA programs across the federal government.
+---
 
+The community is organized into 10 practice areas, with assigned leaders from impactful RPA programs across the federal government.
 
 ### Technology
 
