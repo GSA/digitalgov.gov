@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/sophia-b-liu
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: sophia-b-liu
 display_name: "Sophia B. Liu"
 first_name: "Sophia"
 last_name: "Liu"
@@ -14,13 +13,13 @@ pronoun: ""
 uid: "sophia-b-liu"
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
 bio: "Innovation Specialist, Science and Decisions Center, U.S. Geological Survey (USGS)"
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. Geological Survey"

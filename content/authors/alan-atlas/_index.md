@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/alan-atlas
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: alan-atlas
 display_name: "Alan Atlas"
 first_name: "Alan"
 last_name: "Atlas"
@@ -11,16 +10,16 @@ last_name: "Atlas"
 pronoun: ""
 
 # user id — not easily changed
-uid: ""
+uid: "alan-atlas"
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
 bio: "For nearly four years, Alan was an Agile coach with 18F and Login.gov. During that time, he has primarily delivered various kinds of Agile training, coaching, and management consulting. He began his Agile career as Scrum Master for the team at Amazon.com that build Amazon S3. Before coming to 18F, he spent over ten years consulting and coaching privately for Agile teams at various private sector companies."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. "
