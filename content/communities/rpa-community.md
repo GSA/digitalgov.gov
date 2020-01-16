@@ -32,8 +32,6 @@ weight: 1
 # Make it better ♥
 ---
 
-## Our Mission
-
 The RPA CoP pursues a bifurcated mission. First, the organization is charged with sharing solutions to help individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This portion of the mission includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
 
 The second element of the RPA CoP mission is to provide knowledge sharing and mentoring to organizations looking to start an RPA program or to evolve their current RPA services. This **RPA Playbook** is a small part of the CoP’s knowledge sharing efforts, which also include frequent cross-government collaborative meetings, communications, thought leadership pieces, webinars, and workshops.
