@@ -32,9 +32,11 @@ weight: 1
 # Make it better ♥
 ---
 
-**Our mission:** The RPA CoP pursues a bifurcated mission. First, the organization is charged with designing solutions to overcome the technological, management, and operational challenges that organizations can encounter in designing and deploying an effective RPA program. This portion of the mission includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
+## Our Mission
 
-The second element of our mission is to provide knowledge sharing and mentoring to organizations looking to start an RPA program or to evolve their current RPA services. This **RPA Playbook** is a small part of the CoP’s knowledge sharing efforts, which also include frequent cross-government collaborative meetings, communications, thought leadership pieces, webinars, and workshops.
+The RPA CoP pursues a bifurcated mission. First, the organization is charged with sharing solutions to help individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This portion of the mission includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
+
+The second element of the RPA CoP mission is to provide knowledge sharing and mentoring to organizations looking to start an RPA program or to evolve their current RPA services. This **RPA Playbook** is a small part of the CoP’s knowledge sharing efforts, which also include frequent cross-government collaborative meetings, communications, thought leadership pieces, webinars, and workshops.
 
 {{< button href="https://digital.gov/pdf/rpa-playbook-v1.0.pdf" text="Download the RPA Playbook (v1.0)" >}}
 
@@ -42,9 +44,12 @@ The RPA CoP seeks to achieve its important mission with a sense of urgency and a
 
 ## Who We Are
 
-The executive sponsors for the RPA Community of Practice are GSA Chief Financial Officer and acting CoP Chair, **Gerard Badorrek**, and GSA Technology Transformation Services (TTS) Director, **Anil Cheriyan**.
+The executive sponsors for the RPA Community of Practice are:
 
-The RPA community, RPA Playbook, and all knowledge sharing events are managed by Jim Geoghegan: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
+- **Gerard Badorrek** — General Services Administration Chief Financial Officer and RPA Community of Practice Chair
+- **Anil Cheriyan** — General Services Administration Technology Transformation Services (TTS) Director
+
+The RPA community and the RPA Playbook are coordinated by **Jim Geoghegan**: [james.geoghegan@gsa.gov](mailto:james.geoghegan@gsa.gov).
 
 The community is organized into 10 practice areas, with assigned leaders from impactful RPA programs across the federal government.
 
