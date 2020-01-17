@@ -4,10 +4,14 @@
 
 slug: foundations-agile-part-ii
 date: 2020-01-03 18:000:00 -0500
-time: 18:000:00
 title: "Foundations of Agile, Part II"
-deck: "Foundations of Agile, Part II"
-summary: "How modern digital teams attack problems and respond to change when working on digital products."
+deck: "18F's Alan Atlas and Alan Brouilette cover the fundamentals of Agile."
+summary: "18F's Alan Atlas and Alan Brouilette cover the fundamentals of Agile."
+
+# see all authors at https://digital.gov/authors
+authors:
+  - alan-atlas
+  - alan-brouilette
 
 # originally published at the following URL
 source_url: "https://digital.gov/event/2019/11/05/foundations-agile-ii/"
@@ -17,8 +21,11 @@ source_url: "https://digital.gov/event/2019/11/05/foundations-agile-ii/"
 source: digitalgov
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - agile
+  - product-management
+  - project-management
+  - 18f
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
