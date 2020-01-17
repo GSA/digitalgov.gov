@@ -8,10 +8,6 @@ title: "18F Research Guidelines"
 deck: "Covers the basic principles research: informing and getting consent, and managing personally identifiable information (PII)"
 summary: "Covers the basic principles research: informing and getting consent, and managing personally identifiable information (PII)"
 
-# see all authors at https://digital.gov/authors
-authors:
-  - jona-decker
-
 # originally published at the following URL
 source_url: "https://handbook.18f.gov/research-guidelines/"
 
