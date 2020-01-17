@@ -32,7 +32,7 @@ weight: 1
 # Make it better ♥
 ---
 
-The RPA CoP pursues a bifurcated mission. First, the organization is charged with sharing solutions to help individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This portion of the mission includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
+The RPA Community of Practice (CoP) pursues a bifurcated mission. First, the organization is charged with sharing solutions to help individual agencies overcome the technical, management, and operational challenges that arise in designing and deploying an effective RPA program. This portion of the mission includes important initiatives like designing common federal standards for credentialing, privacy, and security, and designing common management metrics to gauge government-wide impact of RPA.
 
 The second element of the RPA CoP mission is to provide knowledge sharing and mentoring to organizations looking to start an RPA program or to evolve their current RPA services. This **RPA Playbook** is a small part of the CoP’s knowledge sharing efforts, which also include frequent cross-government collaborative meetings, communications, thought leadership pieces, webinars, and workshops.
 
@@ -80,8 +80,8 @@ The community is organized into 10 practice areas, with assigned leaders from im
 
 The community achieves its mission through information sharing, identification and definition of options, best practices, methods and standards for RPA implementation and operations. It does not set policy, but policy-setting agencies are encouraged to participate and make use of the community’s base of knowledge, information, and experience.
 
-This community consists of representatives from more than 50 Federal agencies, with more than 750 confirmed members.
+This community consists of representatives from more than 50 federal agencies, with more than 750 confirmed members.
 
 ---
 
-_If you wish to unsubscribe, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)_
+_If you wish to unsubscribe, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)_ 
