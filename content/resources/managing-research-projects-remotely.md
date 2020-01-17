@@ -1,8 +1,8 @@
 ---
-# View this page at https://digital.gov/resources/three-ways-manage-research-projects-remotely
+# View this page at https://digital.gov/resources/managing-research-projects-remotely
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: three-ways-manage-research-projects-remotely
+slug: managing-research-projects-remotely
 date: 2020-01-03 17:00:00 -0500
 title: "Managing Research Projects Remotely"
 deck: "Best practices for distributed teams."
@@ -14,6 +14,11 @@ source_url: "https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projec
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
 source: 18f
+
+# see all authors at https://digital.gov/authors
+authors:
+  - jamie-albrecht
+  - nicole-fenton
 
 # see all topics at https://digital.gov/topics
 topics:
