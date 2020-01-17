@@ -13,8 +13,8 @@ slug: taking-a-look-at-usagov-analytics
 date: 2020-01-16 11:40:00 -0500
 kicker: "Analytics"
 title: "Taking a Look at the USAGov Analytics Dashboard"
-deck: "**The USA.gov's team launched a new analytics dashboard** that shows the top into pages and topics that are trending on USA.gov and USA.gov/espanol. This gives agencies a better window into the information the public needs most so they can prioritize that information and make it more accessible to their users."
-summary: "**The USA.gov's team launched a new analytics dashboard** that shows the top into pages and topics that are trending on USA.gov and USA.gov/espanol. This gives agencies a better window into the information the public needs most so they can prioritize that information and make it more accessible to their users."
+deck: "**The USA.gov's team launched a new analytics dashboard** that shows the top pages and topics that are trending on USA.gov and USA.gov/espanol. This gives agencies a better window into the information the public needs most so they can prioritize that information and make it more accessible to their users."
+summary: "**The USA.gov's team launched a new analytics dashboard** that shows the top pages and topics that are trending on USA.gov and USA.gov/espanol. This gives agencies a better window into the information the public needs most so they can prioritize that information and make it more accessible to their users."
 
 # see all topics at https://digital.gov/topics
 topics:
