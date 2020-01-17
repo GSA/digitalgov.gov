@@ -4,10 +4,13 @@
 
 slug: addressing-barriers-usercentered-design
 date: 2020-01-03 17:00:00 -0500
-time: 17:00:00
 title: "Addressing Barriers to User-Centered Design"
-deck: "Addressing Barriers to User-Centered Design"
+deck: "An overview of the most common barriers and how federal agencies might address them."
 summary: "An overview of the most common barriers and how federal agencies might address them."
+
+# see all authors at https://digital.gov/authors
+authors:
+  - jona-decker
 
 # originally published at the following URL
 source_url: "https://18f.gsa.gov/2019/11/07/barriers-to-governments-adoption-of-user-centered-design-and-how-to-address-them/"
@@ -17,7 +20,7 @@ source_url: "https://18f.gsa.gov/2019/11/07/barriers-to-governments-adoption-of-
 source: 18f
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - design
   - research
   - user-research
