@@ -30,7 +30,7 @@ weight: 1
 community_list:
   - platform: slack
     type: public
-    subscribe_email: uswds@gsa.gov
+    subscribe_email: uswds@support.digitalgov.gov
     subscribe_email_subject: "Join USWDS Slack"
     subscribe_form: https://chat.18f.gov/
     members: 114
@@ -63,6 +63,6 @@ We support the U.S. Web Design System’s efforts to make it easier to build acc
 - [USWDS on GitHub](https://github.com/uswds/uswds/) 
 - [Join the USWDS Slack](https://chat.18f.gov/) 
 - [Follow @USWDS on Twitter](https://twitter.com/uswds?lang=en)
-- [Email the USWDS team](mailto:uswds@gsa.gov)
+- [Email the USWDS team](mailto:uswds@support.digitalgov.gov)
 
 {{< img src="uswds-2-illio-built-to-grow-alt" >}}

@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/elizabeth-ayer
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: elizabeth-ayer
 display_name: "Elizabeth Ayer"
 first_name: "Elizabeth"
 last_name: "Ayer"

@@ -1,0 +1,12 @@
+{{- if .Params.primary_image -}}
+{{- $thisimg := index $.Site.Data.images (default ($.Scratch.Get "defaultimg") .Params.primary_image | lower) -}}
+"primary_image" : {
+  "uid" : "{{- .Params.primary_image -}}",
+  "alt" : "{{- if $thisimg.alt -}}{{- $thisimg.alt -}}{{- end -}}",
+  "width" : "{{- if $thisimg.width -}}{{- $thisimg.width -}}{{- end -}}",
+  "height" : "{{- if $thisimg.height -}}{{- $thisimg.height -}}{{- end -}}",
+  "credit" : "{{- if $thisimg.credit -}}{{- $thisimg.credit -}}{{- end -}}",
+  "caption" : "{{- if $thisimg.caption -}}{{- $thisimg.caption -}}{{- end -}}",
+  "format" : "{{- if $thisimg.format -}}{{- $thisimg.format -}}{{- end -}}"
+},
+{{- end -}}

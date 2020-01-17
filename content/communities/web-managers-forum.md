@@ -10,7 +10,9 @@ summary: "The Web Content Managers Forum is a community of government employees 
 
 # see all topics at https://digital.gov/topics
 topics:
+  - metrics
   - product-management
+  - user-experience
   - content-strategy
   - project-management
   - analytics
@@ -32,7 +34,7 @@ aliases:
 
 community_list:
   - platform: listserv
-    type: government
+    type: government_only
     subscribe_email: "digitalgovu@gsa.gov"
     subscribe_email_subject: "Join Web Content Managers"
     subscribe_form: https://docs.google.com/forms/d/e/1FAIpQLScMJ4E_TxFTfIdqXnU89n_J-_US2gXFYi_lA_zi8hHWKDzisg/viewform
@@ -41,7 +43,6 @@ community_list:
 
 
 # Make it better ♥
-
 ---
 
 If you manage a U.S. government website, or write digital content for your agency, this group is for you! Discussion topics cover content strategy, accessibility, customer experience, plain language, and more.

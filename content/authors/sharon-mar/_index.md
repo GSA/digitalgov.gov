@@ -2,13 +2,12 @@
 # View this page at https://digital.gov/authors/sharon-mar
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: sharon-mar
 display_name: "Sharon Mar"
 first_name: "Sharon"
 last_name: "Mar"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
+pronoun: "sharon-mar"
 
 # user id — not easily changed
 uid: ""
@@ -20,7 +19,7 @@ email: Sharon_Mar@omb.eop.gov
 bio: ""
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "Office of Information and Regulatory Affairs"

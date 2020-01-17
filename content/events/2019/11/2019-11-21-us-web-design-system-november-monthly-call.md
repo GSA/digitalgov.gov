@@ -1,18 +1,44 @@
 ---
+# View this page at https://digital.gov/event/2019/11/us-web-design-system-november-monthly
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: us-web-design-system-november-monthly-call
-title: "U&#46;S&#46; Web Design System&#58; November Monthly Call"
-summary: "Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, in our monthly call as he walks through the design system and answers your questions&#46;"
-featured_image:
-  uid: uswds-2-illio-feature-image
-  alt: ''
-event_type:
-  - zoom
+title: "U.S. Web Design System: November Monthly Call"
+deck: ""
+summary: "Join Dan Williams, U.S. Web Design System (USWDS) product lead, in our monthly call as he walks through the design system and answers your questions."
+host: "U.S. Web Design System"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
 date: 2019-11-21 14:30:00 -0500
+
+# end date
 end_date: 2019-11-21 15:30:00 -0500
-event_organizer: DigitalGov University
-host: U.S. Web Design System
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - product-management
+  - draft-web-design-standards
+  - drupal
+  - responsive-web-design
+  - uswds
+
+# see all authors at https://digital.gov/authors
+authors: 
+  - dan-williams
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
+# YouTube ID
 youtube_id: -mWm-2V-DLA
 
+# Primary Image (for social media)
+primary_image: "uswds-2-illio-feature-image"
+
+# Make it better ♥
 ---
 
 {{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}

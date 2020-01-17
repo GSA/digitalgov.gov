@@ -1,17 +1,39 @@
 ---
+# View this page at https://digital.gov/event/2019/12/devops-holiday-special-event-nicolas-chaillan
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: devops-holiday-special-event-nicolas-chaillan
-title: 'DevOps Holiday Special Event&#58; Nicolas Chaillan'
-summary: 'Join the Chief Software Officer of the USAF to learn&#58; How the DoD moved to Kubernetes and Istio&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_platform: zoom
+title: "DevOps Holiday Special Event: Nicolas Chaillan"
+deck: ""
+summary: "Join the Chief Software Officer of the USAF to learn: How the DoD moved to Kubernetes and Istio."
+host: "DevOps COP"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
 date: 2019-12-03 14:00:00 -0500
+
+# end date
 end_date: 2019-12-03 14:30:00 -0500
-event_organizer: DigitalGov University
-host: DevOps COP
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - devops
+  - big-data
+  - cloud
+  - dod
+  - internet-of-things
+  - united-states-air-force
+  - virtual-reality
+
+# YouTube ID
 youtube_id: RB7s9xCW2CM
-captions:
+
+# Primary Image (for social media)
+primary_image: ""
+
+# Make it better ♥
 
 ---
 

@@ -1,19 +1,45 @@
 ---
+# View this page at https://digital.gov/event/2019/11/intro-kanban-part-ii
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: intro-kanban-ii
-title: 'Intro to Kanban, Part II'
+title: "Intro to Kanban, Part II"
 deck: "with Alan Atlas and Alan Brouilette"
-summary: 'Part two of an introduction to Kanban and how to use it to model any flow-based process.'
-featured_image:
-  uid: agile-kanban-part-2
-  alt: ''
-event_type:
-  - zoom
+summary: "Part two of an introduction to Kanban and how to use it to model any flow-based process."
+host: "18F"
+event_organizer: "DigitalGov University"
+registration_url: 
+captions: 
+
+# start date
 date: 2019-11-14 14:30:00 -0500
+
+# end date
 end_date: 2019-11-14 15:30:00 -0500
-event_organizer: DigitalGov University
-host: 18F
+
+# see all topics at https://digital.gov/topics
+topics: 
+  - agile
+  - agile-lean-community-of-practice
+  - kanban
+  - project-management
+
+# see all authors at https://digital.gov/authors
+authors:
+  - alan-atlas
+  - alan-brouilette
+
+
+# Event platform (zoom, youtube_live, adobe_connect)
+event_platform: zoom
+
+# YouTube ID
 youtube_id: HUA7iIb1Y9g
 
+# Primary Image (for social media)
+primary_image: "agile-kanban-part-2"
+
+# Make it better ♥
 ---
 
 [View the slides](https://digital.gov/pdf/Intro-to-Kanban-Pt-II.pdf) (PDF, 1.18 MB, 39 pages)

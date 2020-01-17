@@ -10,6 +10,7 @@ authors:
   - ed-burrows
 topics:
   - emerging-tech
+  - rpa
 featured_image:
   uid: rpa-stock-photo-2
   alt: ''

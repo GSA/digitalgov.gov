@@ -117,6 +117,7 @@ a.btn{
       @include u-bg('indigo-80');
       @include u-display('block');
       @include u-text('white');
+      @include u-text('center');
       @include u-text('no-underline');
       @include u-font('sans', 'md');
       @include u-text('light');
