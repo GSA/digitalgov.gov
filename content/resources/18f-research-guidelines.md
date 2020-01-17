@@ -1,13 +1,16 @@
 ---
-# View this page at https://digital.gov/resources/18fs-research-guidelines
+# View this page at https://digital.gov/resources/18f-research-guidelines
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: 18fs-research-guidelines
+slug: 18f-research-guidelines
 date: 2020-01-03 17:00:00 -0500
-time: 17:00:00
-title: "18F's Research Guidelines"
-deck: "18F's Research Guidelines"
-summary: "Testing our assumptions by actively engaging with the world around us is at the heart of how 18F works."
+title: "18F Research Guidelines"
+deck: "Covers the basic principles research: informing and getting consent, and managing personally identifiable information (PII)"
+summary: "Covers the basic principles research: informing and getting consent, and managing personally identifiable information (PII)"
+
+# see all authors at https://digital.gov/authors
+authors:
+  - jona-decker
 
 # originally published at the following URL
 source_url: "https://handbook.18f.gov/research-guidelines/"
@@ -17,7 +20,7 @@ source_url: "https://handbook.18f.gov/research-guidelines/"
 source: 18f
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - research
   - user-research
 
