@@ -6,7 +6,7 @@ slug: 10x-project-lightning-talks
 title: "10x Project Lightning Talks"
 deck: ""
 summary: "In this webinar, 10x project teams demonstrate their work to date and provide brief overviews of each project. Topics range from federating data to agile budgeting to machine learning, and our hope is that these talks will inspire others to submit ideas to 10x."
-host: "10X"
+host: "10x"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/90181472211
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4313207&CustomerID=321
