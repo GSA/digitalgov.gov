@@ -3,8 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: laws-ux
-date: 2020-01-03 18:000:00 -0500
-time: 18:000:00
+date: 2020-01-03 18:00:00 -0500
 title: "The Laws of UX"
 deck: "The Laws of UX"
 summary: "a collection of maxims and principles that designers can consider when building user interfaces."
@@ -14,10 +13,10 @@ source_url: "https://lawsofux.com/"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: 
+source:
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - design
   - user-experience
 
