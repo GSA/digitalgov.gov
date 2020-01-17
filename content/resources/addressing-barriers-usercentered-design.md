@@ -10,7 +10,7 @@ summary: "An overview of the most common barriers and how federal agencies might
 
 # see all authors at https://digital.gov/authors
 authors:
-  - jona-decker
+  - andrew-maier
 
 # originally published at the following URL
 source_url: "https://18f.gsa.gov/2019/11/07/barriers-to-governments-adoption-of-user-centered-design-and-how-to-address-them/"
