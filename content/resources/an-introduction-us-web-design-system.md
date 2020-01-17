@@ -21,7 +21,7 @@ topics:
 # What source published this?
 source: 'uswds'
 
-weight: 3
+weight: 2
 
 # What is the URL for this product or service?
 # Note: We'll add a ?dg to the end of the URL in the code for tracking purposes
