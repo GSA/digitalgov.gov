@@ -4,7 +4,6 @@
 
 slug: foundations-agile-part-i
 date: 2020-01-03 18:000:00 -0500
-time: 18:000:00
 title: "Foundations of Agile, Part I"
 deck: "18F's Alan Atlas and Alan Brouilette cover the fundamentals of Agile."
 summary: "18F's Alan Atlas and Alan Brouilette cover the fundamentals of Agile."
