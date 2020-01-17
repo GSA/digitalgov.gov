@@ -37,4 +37,6 @@ Our other personas include <em class="markup--em markup--p-em">Proud Patriots </
 
 Since producing our Voices of Veterans report, the personas we helped to developed are in use across the VA, as VA employees and VA sites work to better understand and design for the needs of the Veterans who seek care and services.
 
-[Read the full report here](https://www.va.gov/playbook/downloads/Voices_Of_Veterans.pdf) (PDF, 7.6 MB, 34 pages) to learn more about our methodology, what we learned and the stories of our other personas._This post was originally published on [Medium](https://medium.com/@VAInnovation) by the VA Center for Innovation._
+[Read the full report here](https://www.va.gov/playbook/downloads/Voices_Of_Veterans.pdf) (PDF, 7.6 MB, 34 pages) to learn more about our methodology, what we learned and the stories of our other personas. 
+
+_This post was originally published on [Medium](https://medium.com/@VAInnovation) by the VA Center for Innovation._ 
