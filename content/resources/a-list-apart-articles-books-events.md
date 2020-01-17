@@ -4,7 +4,6 @@
 
 slug: a-list-apart-articles-books-events
 date: 2020-01-03 18:00:00 -0500
-time: 18:00:00
 title: "A List Apart: Articles, Books, and Events for People Who Make Websites"
 deck: "Exploring the design, development, and meaning of web content, with a special focus on web standards and best practices."
 summary: "Exploring the design, development, and meaning of web content, with a special focus on web standards and best practices."
