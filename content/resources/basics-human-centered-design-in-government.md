@@ -1,8 +1,8 @@
 ---
-# View this page at https://digital.gov/resources/driving-innovation-with-design-education
+# View this page at https://digital.gov/resources/basics-human-centered-design-in-government
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: driving-innovation-with-design-education
+slug: basics-human-centered-design-in-government
 date: 2020-01-03 17:00:00 -0500
 title: "The basics of human-centered design in government"
 deck: "How the Lab at OPM drives innovation through design education"
