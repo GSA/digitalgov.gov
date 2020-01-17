@@ -4,20 +4,19 @@
 
 slug: driving-innovation-with-design-education
 date: 2020-01-03 17:00:00 -0500
-time: 17:00:00
-title: "Driving Innovation with Design Education"
-deck: "Driving Innovation with Design Education"
-summary: "Applying human-centered design in government."
+title: "The basics of human-centered design in government"
+deck: "How the Lab at OPM drives innovation through design education"
+summary: "How the Lab at OPM drives innovation through design education"
 
 # originally published at the following URL
 source_url: "https://www.youtube.com/watch?v=DGDCd2ELpok"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: 
+source: opm-labs
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - design
   - research
   - user-research
