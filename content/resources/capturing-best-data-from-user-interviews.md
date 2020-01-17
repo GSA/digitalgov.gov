@@ -10,7 +10,7 @@ summary: "How to ensure the most useful information makes its way back to your t
 
 # see all authors at https://digital.gov/authors
 authors:
-  - jona-decker
+  - ryan-sibley
 
 # originally published at the following URL
 source_url: "https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/"
