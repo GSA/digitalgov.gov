@@ -5,8 +5,8 @@
 slug: three-ways-manage-research-projects-remotely
 date: 2020-01-03 17:00:00 -0500
 time: 17:00:00
-title: "Three Ways to Manage Research Projects Remotely"
-deck: "Three Ways to Manage Research Projects Remotely"
+title: "Managing Research Projects Remotely"
+deck: "Best practices for distributed teams."
 summary: "Best practices for distributed teams."
 
 # originally published at the following URL
@@ -17,7 +17,7 @@ source_url: "https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projec
 source: 18f
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - research
   - user-research
 
