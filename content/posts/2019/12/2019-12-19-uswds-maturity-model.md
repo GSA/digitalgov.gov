@@ -16,6 +16,11 @@ source_url: "https://designsystem.digital.gov/maturity-model/"
 # Learn about sources at https://workflow.digital.gov/sources
 source: uswds
 
+# see all topics at https://digital.gov/topics
+topics:
+  - uswds
+  - 21st-century-idea
+
 # see all authors at https://digital.gov/authors
 authors:
   - dan-williams

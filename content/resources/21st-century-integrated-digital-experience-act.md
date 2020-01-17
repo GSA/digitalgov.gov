@@ -1,16 +1,28 @@
 ---
-url: /resources/21st-century-integrated-digital-experience-act/
-date: 2019-11-01 3:00:00 -0400
+# View this page at https://digital.gov/resources/21st-century-integrated-digital-experience-act
+# Learn how to edit our pages at https://workflow.digital.gov
+
+# slug (url path) — changing this requires a redirect
+slug: 21st-century-integrated-digital-experience-act
+date: 2019-11-01 3:00:00 -0500
 title: "21st Century Integrated Digital Experience Act"
-summary: "The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
 deck: "The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
-featured_image:
-  uid: 21st-century-idea-resource-card
-  alt: ''
+summary: "The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
+
+# see all topics at https://digital.gov/topics
+topics:
+  - uswds
+  - 21st-century-idea
+
+# see all authors at https://digital.gov/authors
 authors:
   - ammie-farraj-feijoo
   - jeremyzilar
 
+# primary Image (for social media)
+primary_image: "21st-century-idea-resource-card"
+
+# Make it better ♥
 ---
 
 The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bill/115th-congress/house-bill/5759/text), otherwise known as 21st Century IDEA, was signed into law in December 2018. The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites.

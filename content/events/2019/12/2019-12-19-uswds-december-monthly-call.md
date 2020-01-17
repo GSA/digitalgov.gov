@@ -8,8 +8,8 @@ deck: ""
 summary: "Join U.S. Web Design System Product Lead, Dan Williams, as we discuss the USWDS and answer your questions."
 host: "U.S. Web Design System"
 event_organizer: "DigitalGov University"
-registration_url: 
-captions: 
+registration_url:
+captions:
 
 # start date
 date: 2019-12-19 14:30:00 -0500
@@ -18,13 +18,14 @@ date: 2019-12-19 14:30:00 -0500
 end_date: 2019-12-19 15:30:00 -0500
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - design
   - product-management
   - uswds
+  - 21st-century-idea
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - dan-williams
 
 # Event platform (zoom, youtube_live, adobe_connect)
