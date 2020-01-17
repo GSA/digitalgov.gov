@@ -16,6 +16,7 @@ topics:
   - VA
   - va-center-for-innovation
   - VACI
+
 ---
 
 Understanding our Veterans and their unique needs and experiences is at the heart of creating a more Veteran-centered VA. By listening to their voices and the stories they share, we can design services and experiences that meet the needs of Veterans. {{< legacy-img src="2016/09/600-x-640-VA-Center-for-Innovation-VACI-Vietnam-Veteran-photo-101st-Airborne-Division-hat.jpg" alt="Vietnam Veteran wearing a 101st Airborne Division hat." caption="" >}} 
@@ -36,4 +37,4 @@ Our other personas include <em class="markup--em markup--p-em">Proud Patriots </
 
 Since producing our Voices of Veterans report, the personas we helped to developed are in use across the VA, as VA employees and VA sites work to better understand and design for the needs of the Veterans who seek care and services.
 
-[Read the full report here](http://www.innovation.va.gov/docs/Voices_Of_Veterans_11_12_4.pdf) ({{< legacy-img src="2016/08/application-pdf.png" alt="PDF icon" >}} PDF; 7.6 MB, 34 pages) to learn more about our methodology, what we learned and the stories of our other personas._This post was originally published on [Medium](https://medium.com/@VAInnovation) by the VA Center for Innovation._
+[Read the full report here](https://www.va.gov/playbook/downloads/Voices_Of_Veterans.pdf) ({{< legacy-img src="2016/08/application-pdf.png" alt="PDF icon" >}} PDF; 7.6 MB, 34 pages) to learn more about our methodology, what we learned and the stories of our other personas._This post was originally published on [Medium](https://medium.com/@VAInnovation) by the VA Center for Innovation._
