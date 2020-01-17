@@ -17,13 +17,13 @@ deck: "How to adopt the design system incrementally and design and build better 
 summary: "How to adopt the design system incrementally and design and build better digital experiences."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - code
   - design
   - uswds
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - dan-williams
   - jeremyzilar
   - ammie-farraj-feijoo
@@ -32,7 +32,7 @@ authors:
 # 0 -- hidden
 # 1 -- visible
 # 2 -- highlighted
-weight: 2
+weight: 3
 
 # Make it better ♥
 ---
