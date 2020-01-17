@@ -4,7 +4,6 @@
 
 slug: three-ways-manage-research-projects-remotely
 date: 2020-01-03 17:00:00 -0500
-time: 17:00:00
 title: "Managing Research Projects Remotely"
 deck: "Best practices for distributed teams."
 summary: "Best practices for distributed teams."
@@ -20,6 +19,7 @@ source: 18f
 topics:
   - research
   - user-research
+  - 18f
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
