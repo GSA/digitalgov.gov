@@ -1,25 +1,38 @@
 ---
+# View this page at https://digital.gov/event/2019/10/dap-learning-series-a-deep-dive
+# Learn how to edit our pages at https://workflow.digital.gov
+
 slug: dap-learning-series-a-deep-dive-into-behavior-reports
-kicker: Learning Series
-title: 'DAP Learning Series&#58; A Deep Dive Into Behavior Reports'
-summary: 'A deep dive into behavior reporting to help DAP users understand how to use it and what are the pitfalls&#46;'
-featured_image:
-  uid:
-  alt: ''
-event_type:
-  - Zoom
-date: 2019-10-23 13:00:00 -0500
-end_date: 2019-10-23 14:00:00 -0500
-event_organizer: DigitalGov University
-host: DAP
+title: "DAP Learning Series: A Deep Dive Into Behavior Reports"
+deck: ""
+summary: "A deep dive into behavior reporting to help DAP users understand how to use it and what are the pitfalls."
+host: "DAP"
+event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dap-learning-series-deep-dive-behavior-reports-registration-59347588234
-youtube_id: hbx8Yrj3zS0
-topics:
+captions: 
+
+# start date
+date: 2019-10-23 14:00:00 -0500
+
+# end date
+end_date: 2019-10-23 15:00:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics: 
   - metrics
   - analytics
   - dap
   - digital-analytics-program
 
+# see all authors at https://digital.gov/authors
+authors: 
+  - tlowden
+  - freddie-blicher
+
+# YouTube ID
+youtube_id: hbx8Yrj3zS0
+
+# Make it better ♥
 ---
 
 _[View the slides](https://digital.gov/pdf/Deep-Dive-Into-Behavior-Reports.pdf)_ (PDF, 6.56 MB, 21 pages)

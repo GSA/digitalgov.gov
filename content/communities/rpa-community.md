@@ -11,6 +11,7 @@ summary: "We are a group who is working to accelearate robotic process automatio
 # see all topics at https://digital.gov/topics
 topics:
   - emerging-tech
+  - rpa
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
