@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: foundations-agile-part-ii
-date: 2020-01-03 18:000:00 -0500
+date: 2020-01-03 18:00:00 -0500
 title: "Foundations of Agile, Part II"
 deck: "18F's Alan Atlas and Alan Brouilette cover the fundamentals of Agile."
 summary: "18F's Alan Atlas and Alan Brouilette cover the fundamentals of Agile."
