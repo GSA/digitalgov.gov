@@ -40,7 +40,7 @@ primary_image: "uswds-2-illio-feature-image"
 # Make it better ♥
 ---
 
-{{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}
+{{< img-right src="uswds-logo" >}}
 
 Please join Dan Williams, U.S. Web Design System (USWDS) product lead, as he wraps up 2019 with a special talk dedicated to answering the hardest questions about USWDS from the past year.
 
@@ -57,9 +57,3 @@ This event is part of a monthly series that generally takes place on the third T
 - [Email Us](mailto:uswds@gsa.gov)
 - [Join our community](https://digital.gov/communities/uswds/)
 - [Follow @uswds on Twitter](https://twitter.com/uswds)
-
----
-
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
-
-_This talk is hosted by the [U.S. Web Design System](https://designsystem.digital.gov/) and Digital.gov._

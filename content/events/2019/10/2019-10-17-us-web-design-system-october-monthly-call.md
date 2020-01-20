@@ -1,15 +1,27 @@
 ---
-slug: -us-web-design-system-october-monthly-call
+slug: us-web-design-system-october-monthly-call
 kicker: "USWDS"
 title: "U.S. Web Design System: October Monthly Call"
 summary: "Join Dan Williams, U&#46;S&#46; Web Design System &#40;USWDS&#41; product lead, in our monthly call as he walks through the design system and answers your questions&#46;"
 featured_image:
-  uid: uswds-2-illio-feature-image
+  uid: uswds-10-october
   alt: ''
 event_type:
   - Zoom
 date: 2019-10-17 14:30:00 -0500
 end_date: 2019-10-17 15:30:00 -0500
+
+# see all topics at https://digital.gov/topics
+topics:
+  - design
+  - product-management
+  - uswds
+  - 21st-century-idea
+
+# see all authors at https://digital.gov/authors
+authors:
+  - dan-williams
+
 event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/us-web-design-system-october-monthly-call-registration-75886136477
@@ -18,7 +30,7 @@ youtube_id: l65ZNlYroco
 
 ---
 
-{{< img-right src="uswds-logo" caption="" alt="The U.S. Web Design System logo" >}}
+{{< img-right src="uswds-logo" >}}
 
 Join Dan Williams, [the U.S. Web Design System](https://designsystem.digital.gov) (USWDS) product lead, as he walks through the design system and answers your questions.
 
@@ -35,13 +47,3 @@ This event is part of a monthly series that takes place on the third Thursday of
 - [Email Us](mailto:uswds@support.digitalgov.gov)
 - [Join our community](https://digital.gov/communities/uswds/)
 - [Follow @uswds on Twitter](https://twitter.com/uswds)
-
----
-
-_This talk is hosted by the [U.S. Web Design System](https://v2.designsystem.digital.gov/) and Digital.gov._
-
-Our team will send a reminder email before the event that includes your link to join the video.
-
-_This event will be held and recorded over [Zoom](https://www.zoom.us/). Make sure you install the [Zoom Client](https://zoom.us/download#client&#95;4meeting) beforehand. (See the Zoom [computer and device requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux), and [FAQs](https://support.zoom.us/hc/en-us/sections/200277708-Frequently-Asked-Questions))_
-
-Questions about this event or future events? Send them to [digitalgovu@gsa.gov](mailto:digitalgovu@gsa.gov).
