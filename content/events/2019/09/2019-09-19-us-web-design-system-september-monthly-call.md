@@ -20,6 +20,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - dan-williams
+  - jeremyzilar
 
 event_organizer: DigitalGov University
 host: U.S. Web Design System

@@ -21,7 +21,7 @@ topics:
 # see all authors at https://digital.gov/authors
 authors:
   - dan-williams
-  
+
 event_organizer: DigitalGov University
 host: USWDS
 registration_url: https://www.eventbrite.com/e/us-web-design-system-october-monthly-call-registration-75886136477
