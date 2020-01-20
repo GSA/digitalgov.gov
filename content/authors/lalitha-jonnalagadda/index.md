@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/lalitha-jonnalagadda
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: lalitha-jonnalagadda
 display_name: "Lalitha Jonnalagadda"
 first_name: "Lalitha"
 last_name: "Jonnalagadda"
@@ -11,7 +10,7 @@ last_name: "Jonnalagadda"
 pronoun: "She/Her"
 
 # user id — not easily changed
-uid: ""
+uid: "lalitha-jonnalagadda"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: lalitha.jonnalagadda@gsa.gov
