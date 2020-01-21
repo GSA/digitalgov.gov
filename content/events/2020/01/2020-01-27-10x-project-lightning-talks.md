@@ -67,4 +67,4 @@ In a set of 5-minute presentations, the 10x project teams will outline:
 
  ---
 
-_10x is an incremental investment fund inside the United States federal government. We fund internal projects that can scale across the federal government or significantly improve how our government builds technology for the public good._
+_**[10x](https://10x.gsa.gov/)** is an incremental investment fund inside the United States federal government. We fund internal projects that can scale across the federal government or significantly improve how our government builds technology for the public good._
