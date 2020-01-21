@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/2020/01/21/agencies-on-a-mission-match-servic-emembers
+# View this page at https://digital.gov/2020/01/21/agencies-on-a-mission-match-service-members
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: agencies-on-a-mission-match-service-members
