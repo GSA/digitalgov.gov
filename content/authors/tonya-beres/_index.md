@@ -13,7 +13,7 @@ last_name: "Beres"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
+# slug — the specific user-id for an author.
 slug: tonya-beres
 
 # if you include an email address, it will be displayed on your profile page

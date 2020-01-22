@@ -13,7 +13,7 @@ last_name: "Digital Analytics Team"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
+# slug — the specific user-id for an author.
 slug: hhs-digital-analytics-team
 
 # if you include an email address, it will be displayed on your profile page
