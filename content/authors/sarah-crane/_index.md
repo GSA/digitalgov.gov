@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/sarah-crane
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: sarah-crane
 display_name: "Sarah Crane"
 first_name: "Sarah"
 last_name: "Crane"
@@ -20,7 +19,7 @@ email: sarah.crane@gsa.gov
 bio: "Sarah Crane is 10x’s Portfolio Support and Communications Coordination lead. "
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
