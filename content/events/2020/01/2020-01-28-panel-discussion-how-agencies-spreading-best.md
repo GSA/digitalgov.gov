@@ -22,7 +22,7 @@ end_date: 2020-01-28 15:00:00 -0500
 event_platform: zoom
 
 # YouTube ID
-youtube_id:
+youtube_id: 
 
 ---
 
