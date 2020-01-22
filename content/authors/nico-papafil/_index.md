@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/nico-papafil
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: nico-papafil
 display_name: "Nico Papafil"
 first_name: "Nico"
 last_name: "Papafil"
@@ -20,7 +19,7 @@ email: nicholas.papafil@gsa.gov
 bio: "Nico Papafil is the Director of 10x. Before assuming the director role, Nico supported the project and has held a variety of roles in GSA. When not working, Nico loves traveling and spending time with his wife and daughter."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
