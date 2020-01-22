@@ -10,8 +10,8 @@ last_name: "Meador"
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# user id — not easily changed
-uid: "jarah-meador"
+# slug — the specific user-id for an author.
+slug: "jarah-meador"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: jarah.meador@gsa.gov
@@ -20,7 +20,7 @@ email: jarah.meador@gsa.gov
 bio: "Director, Open Innovation Programs (CitizenScience.gov and Challenge.gov)"
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"
