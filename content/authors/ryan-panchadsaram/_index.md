@@ -13,8 +13,8 @@ last_name: "Panchadsaram"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: ryan-panchadsaram
+# slug — the specific user-id for an author.
+slug: ryan-panchadsaram
 
 # if you include an email address, it will be displayed on your profile page
 email: "Ryan_S_Panchadsaram@ostp.eop.gov"

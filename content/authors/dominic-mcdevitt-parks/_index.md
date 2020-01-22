@@ -13,8 +13,8 @@ last_name: "McDevitt-Parks"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: dominic-mcdevitt-parks
+# slug — the specific user-id for an author.
+slug: dominic-mcdevitt-parks
 
 # if you include an email address, it will be displayed on your profile page
 email: "dominic.mcdevitt-parks@nara.gov"

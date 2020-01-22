@@ -13,8 +13,8 @@ last_name: "Brown"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: erika-brown
+# slug — the specific user-id for an author.
+slug: erika-brown
 
 # if you include an email address, it will be displayed on your profile page
 email: "ebrown2@peacecorps.gov"

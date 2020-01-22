@@ -9,8 +9,8 @@ last_name: "Cahoe"
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# user id — not easily changed
-uid: "will-cahoe"
+# slug — the specific user-id for an author.
+slug: will-cahoe
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: william.cahoe@gsa.gov

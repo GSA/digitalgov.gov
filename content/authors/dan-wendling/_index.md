@@ -13,8 +13,8 @@ last_name: "Wendling"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: dan-wendling
+# slug — the specific user-id for an author.
+slug: dan-wendling
 
 # if you include an email address, it will be displayed on your profile page
 email: "wendlingd@mail.nlm.nih.gov"

@@ -10,7 +10,7 @@ last_name: "Dean"
 pronoun: ""
 
 # user id — not easily changed
-uid: "amanda-dean"
+slug: "amanda-dean"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: amanda.dean@gsa.gov

@@ -13,8 +13,8 @@ last_name: "Canestraro"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: donna-canestraro
+# slug — the specific user-id for an author.
+slug: donna-canestraro
 
 # if you include an email address, it will be displayed on your profile page
 email: "dcanestr@ctg.albany.edu"

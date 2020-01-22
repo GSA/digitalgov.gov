@@ -13,8 +13,8 @@ last_name: "Forde"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: brian-forde
+# slug — the specific user-id for an author.
+slug: brian-forde
 
 # if you include an email address, it will be displayed on your profile page
 email: "Brian_J_Forde@ostp.eop.gov"

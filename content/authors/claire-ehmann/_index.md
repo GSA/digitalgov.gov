@@ -13,8 +13,8 @@ last_name: "Ehmann"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: claire-ehmann
+# slug — the specific user-id for an author.
+slug: claire-ehmann
 
 # if you include an email address, it will be displayed on your profile page
 email: "claire_e_ehmann@omb.eop.gov"

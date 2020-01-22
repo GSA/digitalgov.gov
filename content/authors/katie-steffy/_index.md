@@ -13,8 +13,8 @@ last_name: "Steffy"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: katie-steffy
+# slug — the specific user-id for an author.
+slug: katie-steffy
 
 # if you include an email address, it will be displayed on your profile page
 email: "ksteff15@vt.edu"

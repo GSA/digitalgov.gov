@@ -13,8 +13,8 @@ last_name: "Hackley"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: cheryl-hackley
+# slug — the specific user-id for an author.
+slug: cheryl-hackley
 
 # if you include an email address, it will be displayed on your profile page
 email: "chackley@ftc.gov"

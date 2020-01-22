@@ -13,8 +13,8 @@ last_name: "Alexander"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: allison-alexander
+# slug — the specific user-id for an author.
+slug: allison-alexander
 
 # if you include an email address, it will be displayed on your profile page
 email: "Allison.Alexander@fda.hhs.gov"

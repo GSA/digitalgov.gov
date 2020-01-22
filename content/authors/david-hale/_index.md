@@ -13,8 +13,8 @@ last_name: "Hale"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: david-hale
+# slug — the specific user-id for an author.
+slug: david-hale
 
 # if you include an email address, it will be displayed on your profile page
 email: "davehale@mail.nih.gov"

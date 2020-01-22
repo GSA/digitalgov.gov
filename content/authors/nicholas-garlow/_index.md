@@ -13,8 +13,8 @@ last_name: "Garlow"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: nicholas-garlow
+# slug — the specific user-id for an author.
+slug: nicholas-garlow
 
 # if you include an email address, it will be displayed on your profile page
 email: "nicholas.garlow@hhs.gov"

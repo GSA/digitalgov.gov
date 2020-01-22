@@ -13,8 +13,8 @@ last_name: "Marcoullier"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: tammi-marcoullier
+# slug — the specific user-id for an author.
+slug: tammi-marcoullier
 
 # if you include an email address, it will be displayed on your profile page
 email: "tammi.marcoullier@gsa.gov"

@@ -13,8 +13,8 @@ last_name: "Bell"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: susan-bell
+# slug — the specific user-id for an author.
+slug: susan-bell
 
 # if you include an email address, it will be displayed on your profile page
 email: "susan.e.bell@jpl.nasa.gov"

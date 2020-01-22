@@ -13,8 +13,8 @@ last_name: "Bianchi"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: nina-bianchi
+# slug — the specific user-id for an author.
+slug: nina-bianchi
 
 # if you include an email address, it will be displayed on your profile page
 email: "nina.bianchi@nih.gov"

@@ -13,8 +13,8 @@ last_name: "Turner Roth"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: denise-turner-roth
+# slug — the specific user-id for an author.
+slug: denise-turner-roth
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

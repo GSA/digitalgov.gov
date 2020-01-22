@@ -13,8 +13,8 @@ last_name: "Garklavs"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: kate-garklavs
+# slug — the specific user-id for an author.
+slug: kate-garklavs
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

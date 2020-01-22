@@ -13,8 +13,8 @@ last_name: "Gamble"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: darlene-gamble
+# slug — the specific user-id for an author.
+slug: darlene-gamble
 
 # if you include an email address, it will be displayed on your profile page
 email: "Darlene_Gamble@ao.uscourts.gov"

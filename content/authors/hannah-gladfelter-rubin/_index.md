@@ -13,8 +13,8 @@ last_name: "Rubin"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: hannah-gladfelter-rubin
+# slug — the specific user-id for an author.
+slug: hannah-gladfelter-rubin
 
 # if you include an email address, it will be displayed on your profile page
 email: "hrubin@crs.gov.gov"

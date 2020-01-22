@@ -10,7 +10,7 @@ last_name: "Ayer"
 pronoun: "she/her"
 
 # user id — not easily changed
-uid: "elizabeth-ayer"
+slug: "elizabeth-ayer"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email:

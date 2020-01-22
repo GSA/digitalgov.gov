@@ -13,8 +13,8 @@ last_name: "Royal"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: marion-royal
+# slug — the specific user-id for an author.
+slug: marion-royal
 
 # if you include an email address, it will be displayed on your profile page
 email: "marion.royal@gsa.gov"

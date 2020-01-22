@@ -13,8 +13,8 @@ last_name: "Justin Koufopoulos"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: justin-koufopoulos
+# slug — the specific user-id for an author.
+slug: justin-koufopoulos
 
 # if you include an email address, it will be displayed on your profile page
 email: "justin.koufopoulos@pif.gov"

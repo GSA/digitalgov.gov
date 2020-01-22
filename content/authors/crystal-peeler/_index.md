@@ -13,8 +13,8 @@ last_name: "Peeler"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: crystal-peeler
+# slug — the specific user-id for an author.
+slug: crystal-peeler
 
 # if you include an email address, it will be displayed on your profile page
 email: "crystal.peeler@acf.hhs.gov"

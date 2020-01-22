@@ -13,8 +13,8 @@ last_name: "Puig"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: alvaro-puig
+# slug — the specific user-id for an author.
+slug: alvaro-puig
 
 # if you include an email address, it will be displayed on your profile page
 email: "apuig@ftc.gov"

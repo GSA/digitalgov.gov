@@ -13,8 +13,8 @@ last_name: "Bray"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: david-a-bray
+# slug — the specific user-id for an author.
+slug: david-a-bray
 
 # if you include an email address, it will be displayed on your profile page
 email: "david.bray@fcc.gov"

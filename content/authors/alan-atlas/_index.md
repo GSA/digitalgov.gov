@@ -10,7 +10,7 @@ last_name: "Atlas"
 pronoun: ""
 
 # user id — not easily changed
-uid: "alan-atlas"
+slug: "alan-atlas"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email:
