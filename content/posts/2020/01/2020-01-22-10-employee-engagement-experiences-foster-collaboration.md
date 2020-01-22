@@ -4,6 +4,7 @@
 
 slug: 10-employee-engagement-experiences-foster-collaboration
 date: 2020-01-22 9:00:00 -0500
+short_url: https://go.usa.gov/xdrJG
 kicker: "Teamwork"
 title: "10 Employee Engagement Experiences to Foster Collaboration"
 deck: ""
