@@ -14,7 +14,7 @@ last_name: "Masterton"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: kate-masterton
+slug: kate-masterton
 
 # if you include an email address, it will be displayed on your profile page
 email: "katherine.masterton@nih.gov"

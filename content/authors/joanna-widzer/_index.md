@@ -14,7 +14,7 @@ last_name: "Widzer"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: joanna-widzer
+slug: joanna-widzer
 
 # if you include an email address, it will be displayed on your profile page
 email: "joanna.widzer@nih.gov"

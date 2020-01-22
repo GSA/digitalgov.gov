@@ -14,7 +14,7 @@ last_name: "Amatucci"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: dorothy-amatucci
+slug: dorothy-amatucci
 
 # if you include an email address, it will be displayed on your profile page
 email: "Dorothy.Amatucci@ed.gov"

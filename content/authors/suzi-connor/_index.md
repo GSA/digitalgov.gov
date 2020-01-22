@@ -14,7 +14,7 @@ last_name: "Connor"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: suzi-connor
+slug: suzi-connor
 
 # if you include an email address, it will be displayed on your profile page
 email: "icl3@cdc.gov"

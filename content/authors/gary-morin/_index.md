@@ -14,7 +14,7 @@ last_name: "Morin"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: gary-morin
+slug: gary-morin
 
 # if you include an email address, it will be displayed on your profile page
 email: "moring@mail.nih.gov"

@@ -14,7 +14,7 @@ last_name: "Albert"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: donavan-albert
+slug: donavan-albert
 
 # if you include an email address, it will be displayed on your profile page
 email: "dalbert@fs.fed.us"

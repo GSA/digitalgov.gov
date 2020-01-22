@@ -14,7 +14,7 @@ last_name: "MEP"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: nist-mep
+slug: nist-mep
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

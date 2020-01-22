@@ -14,7 +14,7 @@ last_name: "Stauffer"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: andrew-j-stauffer
+slug: andrew-j-stauffer
 
 # if you include an email address, it will be displayed on your profile page
 email: "astauffer@usgs.gov"

@@ -14,7 +14,7 @@ last_name: "McFadden"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: victoria-mcfadden
+slug: victoria-mcfadden
 
 # if you include an email address, it will be displayed on your profile page
 email: "victoria.mcfadden@gsa.gov"

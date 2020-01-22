@@ -14,7 +14,7 @@ last_name: "Marketing Team"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: federal-citizen-information-center-marketing-team
+slug: federal-citizen-information-center-marketing-team
 
 # if you include an email address, it will be displayed on your profile page
 email: "usapartnerships@gsa.gov"

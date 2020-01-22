@@ -14,7 +14,7 @@ last_name: "Pearson"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: gina-pearson
+slug: gina-pearson
 
 # if you include an email address, it will be displayed on your profile page
 email: "Gina.Pearson@eia.gov"

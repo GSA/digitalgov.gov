@@ -14,7 +14,7 @@ last_name: "Kim"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: hyon-kim
+slug: hyon-kim
 
 # if you include an email address, it will be displayed on your profile page
 email: "hyon.kim@gsa.gov"

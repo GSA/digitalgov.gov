@@ -14,7 +14,7 @@ last_name: "DIngbaum"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: mark-anthony
+slug: mark-anthony
 
 # if you include an email address, it will be displayed on your profile page
 email: "markanthony.dingbaum@opm.gov"

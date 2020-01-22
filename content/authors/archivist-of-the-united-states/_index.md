@@ -14,7 +14,7 @@ last_name: "United States"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: archivist-of-the-united-states
+slug: archivist-of-the-united-states
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

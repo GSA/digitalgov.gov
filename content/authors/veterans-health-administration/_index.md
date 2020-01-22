@@ -14,7 +14,7 @@ last_name: "Administration"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: veterans-health-administration
+slug: veterans-health-administration
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

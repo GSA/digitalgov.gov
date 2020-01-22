@@ -14,7 +14,7 @@ last_name: "O&#39;Neill"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: russell-oneill
+slug: russell-oneill
 
 # if you include an email address, it will be displayed on your profile page
 email: "russell.oneill@gsa.gov"

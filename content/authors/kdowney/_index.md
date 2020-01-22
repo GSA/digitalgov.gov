@@ -14,7 +14,7 @@ last_name: "Downey"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: kdowney
+slug: kdowney
 
 # if you include an email address, it will be displayed on your profile page
 email: "Kevin.P.Downey@ice.dhs.gov"

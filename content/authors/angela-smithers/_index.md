@@ -14,7 +14,7 @@ last_name: "Smithers"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: angela-smithers
+slug: angela-smithers
 
 # if you include an email address, it will be displayed on your profile page
 email: "asmithers@oig.doc.gov"

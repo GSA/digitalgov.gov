@@ -14,7 +14,7 @@ last_name: "Gwynne Kostin"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: gwynne-kostin
+slug: gwynne-kostin
 
 # if you include an email address, it will be displayed on your profile page
 email: "gwynne.kostin@gsa.gov"

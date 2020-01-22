@@ -14,7 +14,7 @@ last_name: "Sipes"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: leonard-sipes
+slug: leonard-sipes
 
 # if you include an email address, it will be displayed on your profile page
 email: "Leonard.Sipes@csosa.gov"

@@ -14,7 +14,7 @@ last_name: "Goodrich"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: matt-goodrich
+slug: matt-goodrich
 
 # if you include an email address, it will be displayed on your profile page
 email: "matthew.goodrich@gsa.gov"

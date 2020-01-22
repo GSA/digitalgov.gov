@@ -14,7 +14,7 @@ last_name: "Lue"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: rosetta-carrington-lue
+slug: rosetta-carrington-lue
 
 # if you include an email address, it will be displayed on your profile page
 email: "rosetta.c.lue@phila.gov"

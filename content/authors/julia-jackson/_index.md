@@ -14,7 +14,7 @@ last_name: "Jackson"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: julia-jackson
+slug: julia-jackson
 
 # if you include an email address, it will be displayed on your profile page
 email: "julia.jackson@nih.gov"

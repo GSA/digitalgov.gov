@@ -14,7 +14,7 @@ last_name: "for Innovation"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: va-center-for-innovation
+slug: va-center-for-innovation
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

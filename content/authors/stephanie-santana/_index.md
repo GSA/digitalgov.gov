@@ -10,7 +10,7 @@ last_name: "Santana"
 pronoun: ""
 
 # user id — not easily changed
-uid: "stephanie-santana"
+slug: "stephanie-santana"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email:

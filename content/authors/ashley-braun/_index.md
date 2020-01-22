@@ -14,7 +14,7 @@ last_name: "Braun"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: ashley-braun
+slug: ashley-braun
 
 # if you include an email address, it will be displayed on your profile page
 email: "ashley.braun@noaa.gov"

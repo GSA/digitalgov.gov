@@ -14,7 +14,7 @@ last_name: "Bell"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: angela-bell
+slug: angela-bell
 
 # if you include an email address, it will be displayed on your profile page
 email: "angela.r.bell@census.gov"

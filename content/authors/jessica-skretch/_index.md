@@ -14,7 +14,7 @@ last_name: "Skretch"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jessica-skretch
+slug: jessica-skretch
 
 # if you include an email address, it will be displayed on your profile page
 email: "Jessica.L.Skretch@frb.gov"

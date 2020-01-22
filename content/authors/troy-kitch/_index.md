@@ -14,7 +14,7 @@ last_name: "Kitch"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: troy-kitch
+slug: troy-kitch
 
 # if you include an email address, it will be displayed on your profile page
 email: "troy.kitch@noaa.gov"

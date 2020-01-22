@@ -14,7 +14,7 @@ last_name: "Ardalan"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: davar-ardalan
+slug: davar-ardalan
 
 # if you include an email address, it will be displayed on your profile page
 email: "Davar.Ardalan@pif.gov"

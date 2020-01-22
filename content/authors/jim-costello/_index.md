@@ -14,7 +14,7 @@ last_name: "Costello"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jim-costello
+slug: jim-costello
 
 # if you include an email address, it will be displayed on your profile page
 email: "jcostello@ctg.albany.edu"

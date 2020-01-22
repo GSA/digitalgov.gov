@@ -14,7 +14,7 @@ last_name: "Stewart"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: meredith-stewart
+slug: meredith-stewart
 
 # if you include an email address, it will be displayed on your profile page
 email: "Meredith.Stewart@nara.gov"

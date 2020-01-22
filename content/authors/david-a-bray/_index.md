@@ -14,7 +14,7 @@ last_name: "Bray"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: david-a-bray
+slug: david-a-bray
 
 # if you include an email address, it will be displayed on your profile page
 email: "david.bray@fcc.gov"

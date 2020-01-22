@@ -10,7 +10,7 @@ last_name: "Green"
 pronoun: ""
 
 # user id — not easily changed
-uid: "stephanie-green"
+slug: "stephanie-green"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: stephanie.green@gsa.gov

@@ -14,7 +14,7 @@ last_name: "Slack"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: will-slack
+slug: will-slack
 
 # if you include an email address, it will be displayed on your profile page
 email: "william.slack@gsa.gov"

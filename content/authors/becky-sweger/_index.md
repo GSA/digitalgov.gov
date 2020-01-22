@@ -14,7 +14,7 @@ last_name: "Sweger"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: becky-sweger
+slug: becky-sweger
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

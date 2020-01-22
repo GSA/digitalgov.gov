@@ -14,7 +14,7 @@ last_name: "Sawant"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: pooja-sawant
+slug: pooja-sawant
 
 # if you include an email address, it will be displayed on your profile page
 email: "pooja.sawant0110@gmail.com"

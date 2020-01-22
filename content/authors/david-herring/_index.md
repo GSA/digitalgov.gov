@@ -14,7 +14,7 @@ last_name: "Herring"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: david-herring
+slug: david-herring
 
 # if you include an email address, it will be displayed on your profile page
 email: "David.Herring@uspto.gov"

@@ -14,7 +14,7 @@ last_name: "Dorsey"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jennifer-dorsey
+slug: jennifer-dorsey
 
 # if you include an email address, it will be displayed on your profile page
 email: "jennifer.dorsey@opm.gov"

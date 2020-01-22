@@ -14,7 +14,7 @@ last_name: "Murley"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: susanna-murley
+slug: susanna-murley
 
 # if you include an email address, it will be displayed on your profile page
 email: "susanna.murley@ee.doe.gov"

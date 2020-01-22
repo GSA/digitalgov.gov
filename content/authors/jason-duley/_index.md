@@ -14,7 +14,7 @@ last_name: "Duley"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jason-duley
+slug: jason-duley
 
 # if you include an email address, it will be displayed on your profile page
 email: "jason.duley@nasa.gov"

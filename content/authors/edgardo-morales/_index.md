@@ -14,7 +14,7 @@ last_name: "Morales Santiago"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: edgardo-morales
+slug: edgardo-morales
 
 # if you include an email address, it will be displayed on your profile page
 email: "edgardo.morales@gsa.gov"

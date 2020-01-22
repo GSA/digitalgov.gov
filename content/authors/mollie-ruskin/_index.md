@@ -14,7 +14,7 @@ last_name: "Ruskin"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: mollie-ruskin
+slug: mollie-ruskin
 
 # if you include an email address, it will be displayed on your profile page
 email: "Mollie_C_Ruskin@omb.eop.gov"

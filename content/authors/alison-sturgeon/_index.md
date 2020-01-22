@@ -14,7 +14,7 @@ last_name: "Sturgeon"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: alison-sturgeon
+slug: alison-sturgeon
 
 # if you include an email address, it will be displayed on your profile page
 email: "Alison.a.sturgeon@ssa.gov"

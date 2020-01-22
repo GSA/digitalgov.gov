@@ -14,7 +14,7 @@ last_name: "Blog"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: aids-gov
+slug: aids-gov
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

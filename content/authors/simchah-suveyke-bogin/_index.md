@@ -14,7 +14,7 @@ last_name: "Suveyke-Bogin"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: simchah-suveyke-bogin
+slug: simchah-suveyke-bogin
 
 # if you include an email address, it will be displayed on your profile page
 email: "simchah.suveyke-bogin@gsa.gov"

@@ -14,7 +14,7 @@ last_name: "Kramer"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: melody-kramer
+slug: melody-kramer
 
 # if you include an email address, it will be displayed on your profile page
 email: "melody.kramer@gsa.gov"

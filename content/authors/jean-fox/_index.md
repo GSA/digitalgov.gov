@@ -14,7 +14,7 @@ last_name: "Fox"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jean-fox
+slug: jean-fox
 
 # if you include an email address, it will be displayed on your profile page
 email: "fox.jean@bls.gov"

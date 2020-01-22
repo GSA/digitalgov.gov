@@ -14,7 +14,7 @@ last_name: "Caldwell"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: lauren-caldwell
+slug: lauren-caldwell
 
 # if you include an email address, it will be displayed on your profile page
 email: "Lauren.Caldwell@ee.doe.gov"

@@ -14,7 +14,7 @@ last_name: "Bianchi"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: nina-bianchi
+slug: nina-bianchi
 
 # if you include an email address, it will be displayed on your profile page
 email: "nina.bianchi@nih.gov"

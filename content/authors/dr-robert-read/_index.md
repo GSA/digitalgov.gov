@@ -14,7 +14,7 @@ last_name: "Read"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: dr-robert-read
+slug: dr-robert-read
 
 # if you include an email address, it will be displayed on your profile page
 email: "robert.read@gsa.gov"

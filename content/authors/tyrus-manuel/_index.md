@@ -14,7 +14,7 @@ last_name: "Manuel"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: tyrus-manuel
+slug: tyrus-manuel
 
 # if you include an email address, it will be displayed on your profile page
 email: "tyrus_manuel@ao.uscourts.gov"

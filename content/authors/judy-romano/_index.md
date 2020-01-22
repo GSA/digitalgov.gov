@@ -14,7 +14,7 @@ last_name: "Romano"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: judy-romano
+slug: judy-romano
 
 # if you include an email address, it will be displayed on your profile page
 email: "judy.romano@gsa.gov"

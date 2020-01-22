@@ -14,7 +14,7 @@ last_name: "Zapanta"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: victor-diaz-zapanta
+slug: victor-diaz-zapanta
 
 # if you include an email address, it will be displayed on your profile page
 email: "victor.zapanta@gsa.gov"

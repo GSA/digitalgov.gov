@@ -14,7 +14,7 @@ last_name: "Skytland"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: nicholas-skytland
+slug: nicholas-skytland
 
 # if you include an email address, it will be displayed on your profile page
 email: "nicholas.g.skytland@nasa.gov"

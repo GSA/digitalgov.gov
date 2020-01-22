@@ -14,7 +14,7 @@ last_name: "Johnson"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: tjohnson
+slug: tjohnson
 
 # if you include an email address, it will be displayed on your profile page
 email: "treci_johnson@ios.doi.gov"

@@ -14,7 +14,7 @@ last_name: "Rancourt"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: anne-rancourt
+slug: anne-rancourt
 
 # if you include an email address, it will be displayed on your profile page
 email: "rancourtar@niaid.nih.gov"

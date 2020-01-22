@@ -14,7 +14,7 @@ last_name: "Kaufmann"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: david-kaufmann
+slug: david-kaufmann
 
 # if you include an email address, it will be displayed on your profile page
 email: "david.kaufmann@gsa.gov"

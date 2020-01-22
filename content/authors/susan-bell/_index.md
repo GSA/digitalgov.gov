@@ -14,7 +14,7 @@ last_name: "Bell"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: susan-bell
+slug: susan-bell
 
 # if you include an email address, it will be displayed on your profile page
 email: "susan.e.bell@jpl.nasa.gov"

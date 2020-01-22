@@ -14,7 +14,7 @@ last_name: "Higgins"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jordan-higgins
+slug: jordan-higgins
 
 # if you include an email address, it will be displayed on your profile page
 email: "jordan.higgins@dodiis.mil"

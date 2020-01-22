@@ -14,7 +14,7 @@ last_name: "Ward"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: sarah-ward
+slug: sarah-ward
 
 # if you include an email address, it will be displayed on your profile page
 email: "saward@mail.nih.gov"

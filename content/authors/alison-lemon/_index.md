@@ -14,7 +14,7 @@ last_name: "Lemon"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: alison-lemon
+slug: alison-lemon
 
 # if you include an email address, it will be displayed on your profile page
 email: "alison.lemon@fda.hhs.gov"

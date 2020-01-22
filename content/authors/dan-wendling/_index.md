@@ -14,7 +14,7 @@ last_name: "Wendling"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: dan-wendling
+slug: dan-wendling
 
 # if you include an email address, it will be displayed on your profile page
 email: "wendlingd@mail.nlm.nih.gov"

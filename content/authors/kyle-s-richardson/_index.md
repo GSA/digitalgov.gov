@@ -14,7 +14,7 @@ last_name: "Richardson"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: kyle-s-richardson
+slug: kyle-s-richardson
 
 # if you include an email address, it will be displayed on your profile page
 email: "Kyle.Richardson@firstnet.gov"

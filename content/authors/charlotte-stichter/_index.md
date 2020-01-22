@@ -14,7 +14,7 @@ last_name: "Stichter"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: charlotte-stichter
+slug: charlotte-stichter
 
 # if you include an email address, it will be displayed on your profile page
 email: "chst@loc.gov"

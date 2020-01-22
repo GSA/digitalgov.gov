@@ -14,7 +14,7 @@ last_name: "Bland"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: mike-bland
+slug: mike-bland
 
 # if you include an email address, it will be displayed on your profile page
 email: "michael.bland@gsa.gov"

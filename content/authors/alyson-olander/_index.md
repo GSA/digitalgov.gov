@@ -14,7 +14,7 @@ last_name: "Olander"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: alyson-olander
+slug: alyson-olander
 
 # if you include an email address, it will be displayed on your profile page
 email: "olandera@mail.nih.gov"

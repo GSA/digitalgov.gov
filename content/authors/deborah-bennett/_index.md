@@ -14,7 +14,7 @@ last_name: "Bennett"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: deborah-bennett
+slug: deborah-bennett
 
 # if you include an email address, it will be displayed on your profile page
 email: "dbennett@mail.nih.gov"

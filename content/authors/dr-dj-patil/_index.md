@@ -14,7 +14,7 @@ last_name: "Patil"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: dr-dj-patil
+slug: dr-dj-patil
 
 # if you include an email address, it will be displayed on your profile page
 email: "Dhanurjay_A_Patil@ostp.eop.gov"

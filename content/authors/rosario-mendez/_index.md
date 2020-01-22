@@ -14,7 +14,7 @@ last_name: "Mendez"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: rosario-mendez
+slug: rosario-mendez
 
 # if you include an email address, it will be displayed on your profile page
 email: "RMENDEZ@ftc.gov"

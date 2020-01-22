@@ -14,7 +14,7 @@ last_name: "Homeland Security"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: department-of-homeland-security
+slug: department-of-homeland-security
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

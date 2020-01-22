@@ -14,7 +14,7 @@ last_name: "Farraj Feijoo"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: ammie-farraj-feijoo
+slug: ammie-farraj-feijoo
 
 # if you include an email address, it will be displayed on your profile page
 email: "ammie.farrajfeijoo@gsa.gov"

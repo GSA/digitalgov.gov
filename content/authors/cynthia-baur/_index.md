@@ -14,7 +14,7 @@ last_name: "Baur"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: cynthia-baur
+slug: cynthia-baur
 
 # if you include an email address, it will be displayed on your profile page
 email: "frx4@cdc.gov"

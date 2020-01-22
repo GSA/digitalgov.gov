@@ -14,7 +14,7 @@ last_name: "Pulsifer"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: michael-pulsifer
+slug: michael-pulsifer
 
 # if you include an email address, it will be displayed on your profile page
 email: "pulsifer.michael@dol.gov"

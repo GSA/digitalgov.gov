@@ -14,7 +14,7 @@ last_name: "Rubin"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: hannah-gladfelter-rubin
+slug: hannah-gladfelter-rubin
 
 # if you include an email address, it will be displayed on your profile page
 email: "hrubin@crs.gov.gov"

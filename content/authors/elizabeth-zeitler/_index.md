@@ -14,7 +14,7 @@ last_name: "Zeitler"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: elizabeth-zeitler
+slug: elizabeth-zeitler
 
 # if you include an email address, it will be displayed on your profile page
 email: "zeitlere@mcc.gov"

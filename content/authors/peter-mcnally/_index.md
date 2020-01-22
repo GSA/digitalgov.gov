@@ -14,7 +14,7 @@ last_name: "McNally"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: peter-mcnally
+slug: peter-mcnally
 
 # if you include an email address, it will be displayed on your profile page
 email: "PMcNally@bentley.edu"

@@ -14,7 +14,7 @@ last_name: "Abramson"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: randy-abramson
+slug: randy-abramson
 
 # if you include an email address, it will be displayed on your profile page
 email: "rabramson@bbg.gov"

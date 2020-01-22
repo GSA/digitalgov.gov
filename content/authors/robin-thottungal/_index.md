@@ -14,7 +14,7 @@ last_name: "Thottungal"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: robin-thottungal
+slug: robin-thottungal
 
 # if you include an email address, it will be displayed on your profile page
 email: "thottungal.robin@epa.gov"

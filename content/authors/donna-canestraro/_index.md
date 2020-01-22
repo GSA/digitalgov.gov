@@ -14,7 +14,7 @@ last_name: "Canestraro"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: donna-canestraro
+slug: donna-canestraro
 
 # if you include an email address, it will be displayed on your profile page
 email: "dcanestr@ctg.albany.edu"

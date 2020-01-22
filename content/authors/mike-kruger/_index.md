@@ -14,7 +14,7 @@ last_name: "Kruger"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: mike-kruger
+slug: mike-kruger
 
 # if you include an email address, it will be displayed on your profile page
 email: "mkruger@doc.gov"

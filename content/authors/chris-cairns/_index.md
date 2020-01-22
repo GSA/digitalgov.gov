@@ -14,7 +14,7 @@ last_name: "Cairns"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: chris-cairns
+slug: chris-cairns
 
 # if you include an email address, it will be displayed on your profile page
 email: "christopher.cairns@gsa.gov"

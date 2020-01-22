@@ -14,7 +14,7 @@ last_name: "Navas"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: alberto-navas
+slug: alberto-navas
 
 # if you include an email address, it will be displayed on your profile page
 email: "alberto@capturagroup.com"

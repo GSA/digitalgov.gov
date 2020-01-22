@@ -14,7 +14,7 @@ last_name: "Kennedy"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: david-a-kennedy
+slug: david-a-kennedy
 
 # if you include an email address, it will be displayed on your profile page
 email: "me@davidakennedy.com"

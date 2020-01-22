@@ -14,7 +14,7 @@ last_name: "Herrmann"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: sarah-herrmann
+slug: sarah-herrmann
 
 # if you include an email address, it will be displayed on your profile page
 email: "herrmanns@abmc.gov"

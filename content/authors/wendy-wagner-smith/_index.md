@@ -14,7 +14,7 @@ last_name: "Wagner-Smith"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: wendy-wagner-smith
+slug: wendy-wagner-smith
 
 # if you include an email address, it will be displayed on your profile page
 email: "wendy.wagner-smith@treasury.gov"

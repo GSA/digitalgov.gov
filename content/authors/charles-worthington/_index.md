@@ -14,7 +14,7 @@ last_name: "Worthington"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: charles-worthington
+slug: charles-worthington
 
 # if you include an email address, it will be displayed on your profile page
 email: "charles_e_worthington@omb.eop.gov"

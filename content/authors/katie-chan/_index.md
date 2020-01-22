@@ -14,7 +14,7 @@ last_name: "Chan"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: katie-chan
+slug: katie-chan
 
 # if you include an email address, it will be displayed on your profile page
 email: "katie.chan@nih.gov"

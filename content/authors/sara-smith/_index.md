@@ -14,7 +14,7 @@ last_name: "Smith"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: sara-smith
+slug: sara-smith
 
 # if you include an email address, it will be displayed on your profile page
 email: "sara.smith@nih.gov"

@@ -14,7 +14,7 @@ last_name: "Goldfine"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: zach-goldfine
+slug: zach-goldfine
 
 # if you include an email address, it will be displayed on your profile page
 email: "zachary.goldfine@gsa.gov"

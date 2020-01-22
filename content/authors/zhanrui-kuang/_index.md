@@ -14,7 +14,7 @@ last_name: "Kuang"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: zhanrui-kuang
+slug: zhanrui-kuang
 
 # if you include an email address, it will be displayed on your profile page
 email: "zhanrui.kuang@gsa.gov"

@@ -14,7 +14,7 @@ last_name: "Gustetic"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jenn-gustetic
+slug: jenn-gustetic
 
 # if you include an email address, it will be displayed on your profile page
 email: "Jennifer_L_Gustetic@ostp.eop.gov"

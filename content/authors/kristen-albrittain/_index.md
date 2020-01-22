@@ -14,7 +14,7 @@ last_name: "Albrittain"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: kristen-albrittain
+slug: kristen-albrittain
 
 # if you include an email address, it will be displayed on your profile page
 email: "Kristen.Albrittain@nara.gov"

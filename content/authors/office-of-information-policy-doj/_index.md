@@ -14,7 +14,7 @@ last_name: "U.S. Department of Justice"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: office-of-information-policy-doj
+slug: office-of-information-policy-doj
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

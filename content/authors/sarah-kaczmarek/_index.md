@@ -14,7 +14,7 @@ last_name: "Kaczmarek"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: sarah-kaczmarek
+slug: sarah-kaczmarek
 
 # if you include an email address, it will be displayed on your profile page
 email: "kaczmarekS@gao.gov"

@@ -14,7 +14,7 @@ last_name: "Steffy"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: katie-steffy
+slug: katie-steffy
 
 # if you include an email address, it will be displayed on your profile page
 email: "ksteff15@vt.edu"

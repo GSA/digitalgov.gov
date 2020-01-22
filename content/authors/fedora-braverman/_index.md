@@ -14,7 +14,7 @@ last_name: "Braverman"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: fedora-braverman
+slug: fedora-braverman
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

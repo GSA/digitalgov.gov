@@ -14,7 +14,7 @@ last_name: "Gomez"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: miguel-gomez
+slug: miguel-gomez
 
 # if you include an email address, it will be displayed on your profile page
 email: "Miguel.Gomez@hhs.gov"

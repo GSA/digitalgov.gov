@@ -14,7 +14,7 @@ last_name: "Castelluccio"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: andrea-m-castelluccio
+slug: andrea-m-castelluccio
 
 # if you include an email address, it will be displayed on your profile page
 email: "andrea.castelluccio@gsa.gov"

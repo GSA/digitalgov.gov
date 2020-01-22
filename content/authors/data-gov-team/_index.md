@@ -14,7 +14,7 @@ last_name: "Data.gov Team"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: data-gov-team
+slug: data-gov-team
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

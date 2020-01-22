@@ -14,7 +14,7 @@ last_name: "Bonitto"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: toni-bonitto
+slug: toni-bonitto
 
 # if you include an email address, it will be displayed on your profile page
 email: "toni.bonitto@gsa.gov"

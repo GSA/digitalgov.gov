@@ -14,7 +14,7 @@ last_name: "Digital Analytics Team"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: hhs-digital-analytics-team
+slug: hhs-digital-analytics-team
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

@@ -14,7 +14,7 @@ last_name: "Orquina"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jessica-orquina
+slug: jessica-orquina
 
 # if you include an email address, it will be displayed on your profile page
 email: "orquina.jessica@epa.gov"

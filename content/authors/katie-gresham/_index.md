@@ -14,7 +14,7 @@ last_name: "Gresham"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: katie-gresham
+slug: katie-gresham
 
 # if you include an email address, it will be displayed on your profile page
 email: "katie.gresham@usdoj.gov"

@@ -14,7 +14,7 @@ last_name: "Lewis"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: steve-lewis
+slug: steve-lewis
 
 # if you include an email address, it will be displayed on your profile page
 email: "slewis@ustda.gov"

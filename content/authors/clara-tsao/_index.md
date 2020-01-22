@@ -14,7 +14,7 @@ last_name: "Tsao"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: clara-tsao
+slug: clara-tsao
 
 # if you include an email address, it will be displayed on your profile page
 email: "clara.tsao@gsa.gov"

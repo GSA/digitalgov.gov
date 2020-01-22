@@ -14,7 +14,7 @@ last_name: "Martin"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: beth-martin
+slug: beth-martin
 
 # if you include an email address, it will be displayed on your profile page
 email: "Beth.Martin@faa.gov"

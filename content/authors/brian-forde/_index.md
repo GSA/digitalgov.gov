@@ -14,7 +14,7 @@ last_name: "Forde"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: brian-forde
+slug: brian-forde
 
 # if you include an email address, it will be displayed on your profile page
 email: "Brian_J_Forde@ostp.eop.gov"

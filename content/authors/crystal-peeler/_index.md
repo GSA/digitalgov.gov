@@ -14,7 +14,7 @@ last_name: "Peeler"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: crystal-peeler
+slug: crystal-peeler
 
 # if you include an email address, it will be displayed on your profile page
 email: "crystal.peeler@acf.hhs.gov"

@@ -14,7 +14,7 @@ last_name: "Wales"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: victoria-wales
+slug: victoria-wales
 
 # if you include an email address, it will be displayed on your profile page
 email: "victoria.wales@gsa.gov"

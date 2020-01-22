@@ -14,7 +14,7 @@ last_name: "Allen-Greil"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: dana-allen-greil
+slug: dana-allen-greil
 
 # if you include an email address, it will be displayed on your profile page
 email: "dana.allen-greil@nara.gov"

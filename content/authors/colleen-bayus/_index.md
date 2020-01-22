@@ -14,7 +14,7 @@ last_name: "Bayus"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: colleen-bayus
+slug: colleen-bayus
 
 # if you include an email address, it will be displayed on your profile page
 email: "colleen.bayus@gsa.gov"

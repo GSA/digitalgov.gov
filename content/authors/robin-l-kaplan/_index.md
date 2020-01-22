@@ -14,7 +14,7 @@ last_name: "Kaplan"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: robin-l-kaplan
+slug: robin-l-kaplan
 
 # if you include an email address, it will be displayed on your profile page
 email: "kaplan.robin@bls.gov"

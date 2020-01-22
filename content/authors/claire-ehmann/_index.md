@@ -14,7 +14,7 @@ last_name: "Ehmann"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: claire-ehmann
+slug: claire-ehmann
 
 # if you include an email address, it will be displayed on your profile page
 email: "claire_e_ehmann@omb.eop.gov"

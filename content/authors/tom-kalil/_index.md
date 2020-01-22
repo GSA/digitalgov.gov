@@ -14,7 +14,7 @@ last_name: "Kalil"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: tom-kalil
+slug: tom-kalil
 
 # if you include an email address, it will be displayed on your profile page
 email: "Thomas_A._Kalil@ostp.eop.gov"

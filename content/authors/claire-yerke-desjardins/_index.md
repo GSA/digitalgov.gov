@@ -14,7 +14,7 @@ last_name: "Yerke Desjardins"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: claire-yerke-desjardins
+slug: claire-yerke-desjardins
 
 # if you include an email address, it will be displayed on your profile page
 email: "Claire.Y.Desjardins@hud.gov"

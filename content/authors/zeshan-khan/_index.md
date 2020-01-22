@@ -14,7 +14,7 @@ last_name: "Khan"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: zeshan-khan
+slug: zeshan-khan
 
 # if you include an email address, it will be displayed on your profile page
 email: "zeshan1@vt.edu"

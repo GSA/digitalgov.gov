@@ -14,7 +14,7 @@ last_name: "Holden"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: kelley-holden
+slug: kelley-holden
 
 # if you include an email address, it will be displayed on your profile page
 email: "Kelley.Holden@cfpb.gov"

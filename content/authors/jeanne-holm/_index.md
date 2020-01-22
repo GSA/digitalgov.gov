@@ -14,7 +14,7 @@ last_name: "Holm"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jeanne-holm
+slug: jeanne-holm
 
 # if you include an email address, it will be displayed on your profile page
 email: "jeanne.holm@jpl.nasa.gov"

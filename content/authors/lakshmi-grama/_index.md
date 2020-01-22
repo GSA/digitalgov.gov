@@ -14,7 +14,7 @@ last_name: "Grama"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: lakshmi-grama
+slug: lakshmi-grama
 
 # if you include an email address, it will be displayed on your profile page
 email: "lgrama@mail.nih.gov"

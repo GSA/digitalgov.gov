@@ -14,7 +14,7 @@ last_name: "Renwick"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: dustin-renwick
+slug: dustin-renwick
 
 # if you include an email address, it will be displayed on your profile page
 email: "renwick.dustin@epa.gov"

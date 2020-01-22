@@ -14,7 +14,7 @@ last_name: "Sanchez"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: andrea-sanchez
+slug: andrea-sanchez
 
 # if you include an email address, it will be displayed on your profile page
 email: "Andrea.Sanchez@uscis.dhs.gov"

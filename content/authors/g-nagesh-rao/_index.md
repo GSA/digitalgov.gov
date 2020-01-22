@@ -14,7 +14,7 @@ last_name: "Rao"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: g-nagesh-rao
+slug: g-nagesh-rao
 
 # if you include an email address, it will be displayed on your profile page
 email: "nagesh.rao@sba.gov"

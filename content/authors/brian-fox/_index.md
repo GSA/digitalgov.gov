@@ -14,7 +14,7 @@ last_name: "Fox"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: brian-fox
+slug: brian-fox
 
 # if you include an email address, it will be displayed on your profile page
 email: "bfox@usgs.gov"

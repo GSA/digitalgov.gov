@@ -14,7 +14,7 @@ last_name: "Horvath"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: scott-horvath
+slug: scott-horvath
 
 # if you include an email address, it will be displayed on your profile page
 email: "shorvath@usgs.gov"

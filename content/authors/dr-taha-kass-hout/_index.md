@@ -14,7 +14,7 @@ last_name: "Kass-Hout"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: dr-taha-kass-hout
+slug: dr-taha-kass-hout
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

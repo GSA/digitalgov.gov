@@ -14,7 +14,7 @@ last_name: "White"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: tammy-white
+slug: tammy-white
 
 # if you include an email address, it will be displayed on your profile page
 email: "tammyj.white@gsa.gov"

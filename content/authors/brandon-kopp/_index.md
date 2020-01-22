@@ -14,7 +14,7 @@ last_name: "Kopp"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: brandon-kopp
+slug: brandon-kopp
 
 # if you include an email address, it will be displayed on your profile page
 email: "Kopp.Brandon@bls.gov"

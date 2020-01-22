@@ -14,7 +14,7 @@ last_name: "Ghaffari-Tabrizi"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: omid-ghaffari-tabrizi
+slug: omid-ghaffari-tabrizi
 
 # if you include an email address, it will be displayed on your profile page
 email: "omid.ghaffari-tabrizi@gsa.gov"

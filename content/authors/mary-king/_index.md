@@ -14,7 +14,7 @@ last_name: "Mary King"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: mary-king
+slug: mary-king
 
 # if you include an email address, it will be displayed on your profile page
 email: "mary.king@nara.gov"

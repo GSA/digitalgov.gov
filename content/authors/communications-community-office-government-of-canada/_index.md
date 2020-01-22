@@ -14,7 +14,7 @@ last_name: "Government of Canada"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: communications-community-office-government-of-canada
+slug: communications-community-office-government-of-canada
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

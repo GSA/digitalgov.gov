@@ -14,7 +14,7 @@ last_name: "Rosset"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: ben-rosset
+slug: ben-rosset
 
 # if you include an email address, it will be displayed on your profile page
 email: "ben.rosset@frb.gov"

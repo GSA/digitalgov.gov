@@ -14,7 +14,7 @@ last_name: "Hackley"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: cheryl-hackley
+slug: cheryl-hackley
 
 # if you include an email address, it will be displayed on your profile page
 email: "chackley@ftc.gov"

@@ -14,7 +14,7 @@ last_name: "Messner"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: katie-messner
+slug: katie-messner
 
 # if you include an email address, it will be displayed on your profile page
 email: "kathryn.messner@hhs.gov"

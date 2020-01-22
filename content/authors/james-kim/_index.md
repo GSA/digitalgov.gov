@@ -14,7 +14,7 @@ last_name: "Kim"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: james-kim
+slug: james-kim
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

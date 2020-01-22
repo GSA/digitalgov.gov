@@ -14,7 +14,7 @@ last_name: "Blessing"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: colleen-blessing
+slug: colleen-blessing
 
 # if you include an email address, it will be displayed on your profile page
 email: "Colleen.Blessing@eia.gov"

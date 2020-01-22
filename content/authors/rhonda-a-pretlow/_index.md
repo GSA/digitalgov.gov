@@ -14,7 +14,7 @@ last_name: "Pretlow"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: rhonda-a-pretlow
+slug: rhonda-a-pretlow
 
 # if you include an email address, it will be displayed on your profile page
 email: "rhonda.pretlow@gsa.gov"

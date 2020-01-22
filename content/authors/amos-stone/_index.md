@@ -14,7 +14,7 @@ last_name: "Stone"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: amos-stone
+slug: amos-stone
 
 # if you include an email address, it will be displayed on your profile page
 email: "amos.stone@gsa.gov"

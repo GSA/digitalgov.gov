@@ -14,7 +14,7 @@ last_name: "Hale"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: david-hale
+slug: david-hale
 
 # if you include an email address, it will be displayed on your profile page
 email: "davehale@mail.nih.gov"

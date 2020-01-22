@@ -14,7 +14,7 @@ last_name: "Working Group"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: structured-and-open-content-models-working-group
+slug: structured-and-open-content-models-working-group
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

@@ -14,7 +14,7 @@ last_name: "Contey"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: genevieve-contey
+slug: genevieve-contey
 
 # if you include an email address, it will be displayed on your profile page
 email: "genevieve.contey@noaa.gov"

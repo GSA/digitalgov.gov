@@ -14,7 +14,7 @@ last_name: "Honey"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: kristen-honey
+slug: kristen-honey
 
 # if you include an email address, it will be displayed on your profile page
 email: "khoney@omb.eop.gov"

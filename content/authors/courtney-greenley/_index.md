@@ -14,7 +14,7 @@ last_name: "Greenley"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: courtney-greenley
+slug: courtney-greenley
 
 # if you include an email address, it will be displayed on your profile page
 email: "Courtney.L.Greenley@usace.army.mil"

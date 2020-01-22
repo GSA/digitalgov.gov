@@ -14,7 +14,7 @@ last_name: "DuBois"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: corina-dubois
+slug: corina-dubois
 
 # if you include an email address, it will be displayed on your profile page
 email: "DuboisCL@state.gov"

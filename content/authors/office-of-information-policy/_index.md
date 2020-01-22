@@ -14,7 +14,7 @@ last_name: "Information Policy"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: office-of-information-policy
+slug: office-of-information-policy
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

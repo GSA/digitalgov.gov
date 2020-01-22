@@ -14,7 +14,7 @@ last_name: "Hoffer"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: ori-hoffer
+slug: ori-hoffer
 
 # if you include an email address, it will be displayed on your profile page
 email: "ori.hoffer@gsa.gov"

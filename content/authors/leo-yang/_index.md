@@ -14,7 +14,7 @@ last_name: "Yang"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: leo-yang
+slug: leo-yang
 
 # if you include an email address, it will be displayed on your profile page
 email: "leo.yang@gsa.gov"

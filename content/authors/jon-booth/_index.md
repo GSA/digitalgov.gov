@@ -14,7 +14,7 @@ last_name: "Booth"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jon-booth
+slug: jon-booth
 
 # if you include an email address, it will be displayed on your profile page
 email: "jon.booth@cms.hhs.gov"

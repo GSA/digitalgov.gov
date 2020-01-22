@@ -14,7 +14,7 @@ last_name: "Tolver"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: kanika-tolver
+slug: kanika-tolver
 
 # if you include an email address, it will be displayed on your profile page
 email: "TolverK@state.gov"

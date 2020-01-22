@@ -14,7 +14,7 @@ last_name: "Miller"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: arianne-miller
+slug: arianne-miller
 
 # if you include an email address, it will be displayed on your profile page
 email: "Arianne.Miller@opm.gov"

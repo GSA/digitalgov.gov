@@ -14,7 +14,7 @@ last_name: "Wensil"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: brenda-wensil
+slug: brenda-wensil
 
 # if you include an email address, it will be displayed on your profile page
 email: "Brenda.Wensil@ed.gov"

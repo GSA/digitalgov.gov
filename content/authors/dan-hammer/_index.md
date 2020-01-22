@@ -14,7 +14,7 @@ last_name: "Hammer"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: dan-hammer
+slug: dan-hammer
 
 # if you include an email address, it will be displayed on your profile page
 email: "daniel.s.hammer@nasa.gov"

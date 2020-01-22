@@ -14,7 +14,7 @@ last_name: "Buttecali"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jillian-buttecali
+slug: jillian-buttecali
 
 # if you include an email address, it will be displayed on your profile page
 email: "jillian.g.buttecali@frb.gov"

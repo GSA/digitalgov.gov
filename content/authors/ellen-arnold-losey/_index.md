@@ -14,7 +14,7 @@ last_name: "Losey"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: ellen-arnold-losey
+slug: ellen-arnold-losey
 
 # if you include an email address, it will be displayed on your profile page
 email: "earnold-losey@imls.gov"

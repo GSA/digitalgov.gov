@@ -14,7 +14,7 @@ last_name: "Paul"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: john-paul
+slug: john-paul
 
 # if you include an email address, it will be displayed on your profile page
 email: "john.paul@oc.usda.gov"

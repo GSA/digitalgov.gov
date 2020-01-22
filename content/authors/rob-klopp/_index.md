@@ -14,7 +14,7 @@ last_name: "Klopp"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: rob-klopp
+slug: rob-klopp
 
 # if you include an email address, it will be displayed on your profile page
 email: "Robert.Klopp@ssa.gov"

@@ -14,7 +14,7 @@ last_name: "Lozano"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: sharon-lozano
+slug: sharon-lozano
 
 # if you include an email address, it will be displayed on your profile page
 email: "sharon.k.lozano@nasa.gov"

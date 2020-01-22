@@ -14,7 +14,7 @@ last_name: "Panchadsaram"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: ryan-panchadsaram
+slug: ryan-panchadsaram
 
 # if you include an email address, it will be displayed on your profile page
 email: "Ryan_S_Panchadsaram@ostp.eop.gov"

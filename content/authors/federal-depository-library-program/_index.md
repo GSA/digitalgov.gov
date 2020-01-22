@@ -14,7 +14,7 @@ last_name: "Library Program"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: federal-depository-library-program
+slug: federal-depository-library-program
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

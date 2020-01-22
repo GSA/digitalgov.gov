@@ -14,7 +14,7 @@ last_name: "Karpinski-Widzer"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: joanna-karpinski-widzer
+slug: joanna-karpinski-widzer
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

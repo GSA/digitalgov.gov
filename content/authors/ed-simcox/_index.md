@@ -14,7 +14,7 @@ last_name: "Simcox"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: ed-simcox
+slug: ed-simcox
 
 # if you include an email address, it will be displayed on your profile page
 email: "Edwin.Simcox@hhs.gov"

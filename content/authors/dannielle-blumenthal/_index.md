@@ -14,7 +14,7 @@ last_name: "Blumenthal"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: dannielle-blumenthal
+slug: dannielle-blumenthal
 
 # if you include an email address, it will be displayed on your profile page
 email: "dannielle.blumenthal@nist.gov"

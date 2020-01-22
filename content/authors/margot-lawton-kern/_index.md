@@ -14,7 +14,7 @@ last_name: "Kern"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: margot-lawton-kern
+slug: margot-lawton-kern
 
 # if you include an email address, it will be displayed on your profile page
 email: "kernml@mail.nih.gov"

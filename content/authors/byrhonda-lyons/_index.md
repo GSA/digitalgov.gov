@@ -14,7 +14,7 @@ last_name: "Lyons"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: byrhonda-lyons
+slug: byrhonda-lyons
 
 # if you include an email address, it will be displayed on your profile page
 email: "byrhonda.lyons@mt.usda.gov"

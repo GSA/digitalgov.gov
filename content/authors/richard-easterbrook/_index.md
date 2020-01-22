@@ -14,7 +14,7 @@ last_name: "Easterbrook"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: richard-easterbrook
+slug: richard-easterbrook
 
 # if you include an email address, it will be displayed on your profile page
 email: "richard_easterbrook@fws.gov"

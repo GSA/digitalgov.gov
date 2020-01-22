@@ -14,7 +14,7 @@ last_name: "Sharpe"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: stephanie-sharpe
+slug: stephanie-sharpe
 
 # if you include an email address, it will be displayed on your profile page
 email: "sharpesm@state.gov"

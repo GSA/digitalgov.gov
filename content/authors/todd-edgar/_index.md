@@ -14,7 +14,7 @@ last_name: "Edgar"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: todd-edgar
+slug: todd-edgar
 
 # if you include an email address, it will be displayed on your profile page
 email: "todd_edgar@nps.gov"

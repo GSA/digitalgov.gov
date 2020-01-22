@@ -14,7 +14,7 @@ last_name: "Grandison"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: tyrone-grandison
+slug: tyrone-grandison
 
 # if you include an email address, it will be displayed on your profile page
 email: "tgrandison@doc.gov"

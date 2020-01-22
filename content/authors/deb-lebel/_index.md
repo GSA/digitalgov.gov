@@ -14,7 +14,7 @@ last_name: "LeBel"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: deb-lebel
+slug: deb-lebel
 
 # if you include an email address, it will be displayed on your profile page
 email: "debbie_lebel@jsi.com"

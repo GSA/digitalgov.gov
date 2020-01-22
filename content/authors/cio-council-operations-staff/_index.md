@@ -14,7 +14,7 @@ last_name: "Council Operations Staff"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: cio-council-operations-staff
+slug: cio-council-operations-staff
 
 # if you include an email address, it will be displayed on your profile page
 email: "council@cio.gov"

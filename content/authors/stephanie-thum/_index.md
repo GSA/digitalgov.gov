@@ -14,7 +14,7 @@ last_name: "Thum"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: stephanie-thum
+slug: stephanie-thum
 
 # if you include an email address, it will be displayed on your profile page
 email: "stephanie.thum@exim.gov"

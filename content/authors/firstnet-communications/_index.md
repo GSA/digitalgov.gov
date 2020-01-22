@@ -14,7 +14,7 @@ last_name: "Communications"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: firstnet-communications
+slug: firstnet-communications
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

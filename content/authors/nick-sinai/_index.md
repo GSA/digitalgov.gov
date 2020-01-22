@@ -14,7 +14,7 @@ last_name: "Sinai"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: nick-sinai
+slug: nick-sinai
 
 # if you include an email address, it will be displayed on your profile page
 email: "Nicholas_S_Sinai@ostp.eop.gov"

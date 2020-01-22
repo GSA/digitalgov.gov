@@ -14,7 +14,7 @@ last_name: "Mazrui"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: jamal-mazrui
+slug: jamal-mazrui
 
 # if you include an email address, it will be displayed on your profile page
 email: "Jamal.Mazrui@fcc.gov"

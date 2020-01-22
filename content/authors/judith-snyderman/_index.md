@@ -14,7 +14,7 @@ last_name: "Snyderman"
 pronoun: ""
 
 # User ID (not easily changed)
-uid: judith-snyderman
+slug: judith-snyderman
 
 # if you include an email address, it will be displayed on your profile page
 email: "SnydermanJE@state.gov"
