@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/will-cahoe
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: will-cahoe
 display_name: "Will Cahoe"
 first_name: "Will"
 last_name: "Cahoe"
