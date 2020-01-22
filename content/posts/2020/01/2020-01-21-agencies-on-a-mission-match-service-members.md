@@ -15,7 +15,7 @@ topics:
 
 # see all authors at https://digital.gov/authors
 authors:
-  - tammy-white
+  - jarah-meador
 
 # Primary Image (for social media)
 primary_image: "challenge-veterans-employment-challenge"
