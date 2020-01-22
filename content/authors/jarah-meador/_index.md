@@ -2,7 +2,7 @@
 # View this page at https://digital.gov/authors/jarah-meador
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: jarah-meador
+
 display_name: "Jarah Meador"
 first_name: "Jarah"
 last_name: "Meador"
@@ -11,7 +11,7 @@ last_name: "Meador"
 pronoun: ""
 
 # user id — not easily changed
-uid: ""
+uid: "jarah-meador"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: jarah.meador@gsa.gov
