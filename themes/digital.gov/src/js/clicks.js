@@ -97,14 +97,8 @@ jQuery(document).ready(function($) {
 			$.each( data.response.data.entry, function( key, value ) {
 				var element = $(article).find('.clicks');
 				var element_span = $(element).find('span');
-				console.log('element');
-				console.log(element);
 				var stale_clicks = $(element).data('clicks');
 				var current_clicks = value.user_clicks;
-				console.log('stale_clicks');
-				console.log(stale_clicks);
-				console.log('current_clicks');
-				console.log(current_clicks);
 				// Count up from the existing number to the current_num_clicks
 				var interval = setInterval(function() {
 					if (stale_clicks >= current_clicks) clearInterval(interval);
