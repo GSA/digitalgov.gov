@@ -42,10 +42,8 @@ According to the VA, an estimated 200,000 people move through the "military-to-c
 
 The prize competition invites the public to design an easy-to-use application that allows employers to tap into this talent pool early, matching service members with employment opportunities based on skills and job information pulled from a variety of sources.
 
-{{< img src="challenge-veterans-employment-challenge" >}}
-
 And why not? Though a disproportionate number of service members continue in public service or charitable organizations, the [vast majority (62%) seek positions in the private for-profit sector (PDF, 3.1 MB, 1-page infographic)](https://www.va.gov/vetdata/docs/Quickfacts/Veterans_Day_201916.pdf), per the VA’s National Center for Veterans Statistics and Analysis.
 
 The Veterans' Employment Challenge is part of a larger government-wide initiative to support workforce development—a [key driver of transformation](https://www.performance.gov/CAP/workforce/) in the President’s Management Agenda.
 
-**Submissions close January 24, 2020 at 5 pm, Eastern**. _For more details, visit: [https://www.challenge.gov/challenge/vets-match/](https://www.challenge.gov/challenge/vets-match/)_
+**Submissions close January 24, 2020 at 5 pm, Eastern**. _For more details, visit: [https://www.challenge.gov/challenge/vets-match/](https://www.challenge.gov/challenge/vets-match/)_ 
