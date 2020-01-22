@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: agencies-on-a-mission-match-service-members
-date: 2020-01-21 18:00:00 -0500
+date: 2020-01-21 21:10:00 -0500
 kicker: "Challenges"
 title: "Agencies on a Mission to Match Service Members with Civilian Careers"
 deck: "Build a better application to match the skills of those who have served in the military with employer needs."
