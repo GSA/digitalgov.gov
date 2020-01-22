@@ -3,6 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 slug: 10x-project-lightning-talks
+kicker: "Ideation"
 title: "10x Project Lightning Talks"
 deck: ""
 summary: "In this webinar, 10x project teams demonstrate their work to date and provide brief overviews of each project. Topics range from federating data to agile budgeting to machine learning, and our hope is that these talks will inspire others to submit ideas to 10x."
@@ -35,7 +36,7 @@ authors:
 event_platform: zoom
 
 # YouTube ID
-youtube_id:
+youtube_id: 
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
@@ -43,7 +44,6 @@ youtube_id:
 weight: 1
 
 ---
-
 
 {{< img-right src="10x-logo" >}}
 
