@@ -13,8 +13,8 @@ last_name: "Castelluccio"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: andrea-m-castelluccio
+# slug — the specific user-id for an author.
+slug: andrea-m-castelluccio
 
 # if you include an email address, it will be displayed on your profile page
 email: "andrea.castelluccio@gsa.gov"

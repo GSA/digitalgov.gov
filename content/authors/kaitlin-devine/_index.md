@@ -13,8 +13,8 @@ last_name: "Devine"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: kaitlin-devine
+# slug — the specific user-id for an author.
+slug: kaitlin-devine
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

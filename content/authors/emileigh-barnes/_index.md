@@ -13,8 +13,8 @@ last_name: "Barnes"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: emileigh-barnes
+# slug — the specific user-id for an author.
+slug: emileigh-barnes
 
 # if you include an email address, it will be displayed on your profile page
 email: "emileigh.barnes@gsa.gov"

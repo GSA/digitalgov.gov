@@ -13,8 +13,8 @@ last_name: "Honey"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: kristen-honey
+# slug — the specific user-id for an author.
+slug: kristen-honey
 
 # if you include an email address, it will be displayed on your profile page
 email: "khoney@omb.eop.gov"

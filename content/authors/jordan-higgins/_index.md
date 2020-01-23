@@ -13,8 +13,8 @@ last_name: "Higgins"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: jordan-higgins
+# slug — the specific user-id for an author.
+slug: jordan-higgins
 
 # if you include an email address, it will be displayed on your profile page
 email: "jordan.higgins@dodiis.mil"

@@ -13,8 +13,8 @@ last_name: "Worthington"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: charles-worthington
+# slug — the specific user-id for an author.
+slug: charles-worthington
 
 # if you include an email address, it will be displayed on your profile page
 email: "charles_e_worthington@omb.eop.gov"

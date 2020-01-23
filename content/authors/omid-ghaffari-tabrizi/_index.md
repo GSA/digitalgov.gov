@@ -13,8 +13,8 @@ last_name: "Ghaffari-Tabrizi"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: omid-ghaffari-tabrizi
+# slug — the specific user-id for an author.
+slug: omid-ghaffari-tabrizi
 
 # if you include an email address, it will be displayed on your profile page
 email: "omid.ghaffari-tabrizi@gsa.gov"

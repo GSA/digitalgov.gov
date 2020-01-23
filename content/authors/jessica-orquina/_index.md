@@ -13,8 +13,8 @@ last_name: "Orquina"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: jessica-orquina
+# slug — the specific user-id for an author.
+slug: jessica-orquina
 
 # if you include an email address, it will be displayed on your profile page
 email: "orquina.jessica@epa.gov"

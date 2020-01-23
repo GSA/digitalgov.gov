@@ -13,8 +13,8 @@ last_name: "Summa"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: theresa-summa
+# slug — the specific user-id for an author.
+slug: theresa-summa
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

@@ -13,8 +13,8 @@ last_name: "Benavente"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: cory-benavente
+# slug — the specific user-id for an author.
+slug: cory-benavente
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

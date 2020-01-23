@@ -13,8 +13,8 @@ last_name: "Meskell"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: darlene-meskell
+# slug — the specific user-id for an author.
+slug: darlene-meskell
 
 # if you include an email address, it will be displayed on your profile page
 email: "darlene.meskell@gsa.gov"

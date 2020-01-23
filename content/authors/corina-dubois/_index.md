@@ -13,8 +13,8 @@ last_name: "DuBois"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: corina-dubois
+# slug — the specific user-id for an author.
+slug: corina-dubois
 
 # if you include an email address, it will be displayed on your profile page
 email: "DuboisCL@state.gov"

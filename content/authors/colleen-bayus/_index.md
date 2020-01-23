@@ -13,8 +13,8 @@ last_name: "Bayus"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: colleen-bayus
+# slug — the specific user-id for an author.
+slug: colleen-bayus
 
 # if you include an email address, it will be displayed on your profile page
 email: "colleen.bayus@gsa.gov"

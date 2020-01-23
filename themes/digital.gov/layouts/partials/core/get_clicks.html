@@ -1,11 +1,27 @@
-<!-- Want more info on how we're tracking clicks? -->
-<!-- See clicks.js -->
+{{/*
+Want more info on how we're tracking clicks?
+See clicks.js
+*/}}
+
+{{/* Clicks only show up and work IF there is a short_url from go.usa.gov */}}
 {{- if .Params.short_url -}}
+  {{/* encodes the URL */}}
   {{- $encodedurl := (substr (querify "x" .Params.short_url) 2) -}}
-  {{- $short_url_api := printf  "https://go.usa.gov/api/clicks.json?login=%s&apiKey=%s&shortUrl=%s" .Site.Params.url_shortener_login .Site.Params.url_shortener_api $encodedurl -}}
+
+  {{/* sets the go.usa.gov login and APIkey as varables */}}
+  {{- $usagov_shortener_login := .Site.Params.url_shortener_login -}}
+  {{- $usagov_shortener_apikey := .Site.Params.url_shortener_api -}}
+
+  {{/* builds the API URL */}}
+  {{- $short_url_api := printf "https://go.usa.gov/api/clicks.json?login=%s&apiKey=%s&shortUrl=%s" $usagov_shortener_login $usagov_shortener_apikey $encodedurl -}}
+
+  {{/*
+  NOTE: HUGO will get and build the number of clicks, each time the site is built. It is then overridden by the javascript call to the API, which updates that number further. See clicks.js for more info.
+  */}}
   {{- range $short_url_data := getJSON $short_url_api -}}
     {{- range $click_data := $short_url_data.data.entry -}}
-      <div class="clicks"><i class="fas fa-bolt"></i> <span>{{ $click_data.user_clicks }}</span> views</div>
+      <div class="clicks" data-clicks="{{- $click_data.user_clicks -}}"><i class="fas fa-bolt"></i> <span>{{- lang.NumFmt 0 $click_data.user_clicks -}}</span> views</div>
     {{- end -}}
   {{- end -}}
+
 {{- end -}}

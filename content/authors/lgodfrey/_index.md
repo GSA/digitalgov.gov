@@ -13,8 +13,8 @@ last_name: "Godfrey"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: lgodfrey
+# slug — the specific user-id for an author.
+slug: lgodfrey
 
 # if you include an email address, it will be displayed on your profile page
 email: "laura.godfrey@gsa.gov"

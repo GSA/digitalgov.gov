@@ -9,6 +9,7 @@ authors:
   - jeremyzilar
 topics:
   - product-management
+  - 21st-century-idea
 featured_image:
   uid: this-weeks-idea-card-wk3
   alt: ''

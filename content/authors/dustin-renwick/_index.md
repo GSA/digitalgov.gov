@@ -13,8 +13,8 @@ last_name: "Renwick"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: dustin-renwick
+# slug — the specific user-id for an author.
+slug: dustin-renwick
 
 # if you include an email address, it will be displayed on your profile page
 email: "renwick.dustin@epa.gov"

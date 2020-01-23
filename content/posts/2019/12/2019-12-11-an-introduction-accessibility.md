@@ -9,6 +9,7 @@ authors:
   - jeremyzilar
 topics:
   - accessibility
+  - 21st-century-idea
 featured_image:
   uid: this-weeks-idea-card
   alt: ''

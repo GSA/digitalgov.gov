@@ -13,8 +13,8 @@ last_name: "Holden"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: kelley-holden
+# slug — the specific user-id for an author.
+slug: kelley-holden
 
 # if you include an email address, it will be displayed on your profile page
 email: "Kelley.Holden@cfpb.gov"

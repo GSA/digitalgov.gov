@@ -130,9 +130,9 @@
         {{- end -}}
       },
       {{- end -}}
-      {{- if .Slug -}}
-      "slug" : "{{ .Slug }}",
-      {{- end -}}
+
+      {{- partial "api/slug" . -}}
+      
       "url" : "{{- .Permalink -}}"
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}

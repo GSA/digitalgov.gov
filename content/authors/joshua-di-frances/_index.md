@@ -10,7 +10,7 @@ last_name: "Di Frances"
 pronoun: "joshua-di-frances"
 
 # user id — not easily changed
-uid: ""
+slug: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: joshua.difrances@pif.gov

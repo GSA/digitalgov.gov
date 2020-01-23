@@ -10,7 +10,7 @@ last_name: "Drake"
 pronoun: ""
 
 # user id — not easily changed
-uid: "adam-drake"
+slug: "adam-drake"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: adam.drake@gsa.gov

@@ -22,6 +22,7 @@ topics:
   - draft-web-design-standards
   - responsive-web-design
   - uswds
+  - 21st-century-idea
   - user-centered-design
 
 # see all authors at https://digital.gov/authors
@@ -38,17 +39,18 @@ youtube_id:
 
 ---
 
+{{< img-right src="uswds-logo" >}}
+
 For this month's U.S. Web Design System (USWDS) monthly call Dan Williams, product lead, will discuss the design system in greater detail. Time will be set aside for a live Q&A session between attendees and Dan.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event.
 
-USWDS is a library of principles, guidance, and code to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
+## About the USWDS
+[**The U.S. Web Design System**](https://designsystem.digital.gov/) is a library of principles, guidance, and code to help government teams design and build fast, accessible, mobile-friendly government websites backed by user research and modern best practices.
 
-Follow @uswds on Twitter
 - [The U.S. Web Design System](https://designsystem.digital.gov/)
+- [The USWDS Maturity Model](https://designsystem.digital.gov/maturity-model/)
 - [Contribute GitHub](https://github.com/uswds/uswds/issues)
 - [Email Us](mailto:uswds@support.digitalgov.gov)
 - [Join our community](https://digital.gov/communities/uswds/)
 - [Follow @uswds on Twitter](https://twitter.com/uswds)
-
-_This talk is hosted by the [U.S. Web Design System](https://designsystem.digital.gov/) and Digital.gov._ 

@@ -13,8 +13,8 @@ last_name: "Rucki"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: mike-rucki
+# slug — the specific user-id for an author.
+slug: mike-rucki
 
 # if you include an email address, it will be displayed on your profile page
 email: "Rucki.Michael@pbgc.gov"

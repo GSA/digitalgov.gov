@@ -13,8 +13,8 @@ last_name: "Gavino"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: amando-e-gavino-jr
+# slug — the specific user-id for an author.
+slug: amando-e-gavino-jr
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

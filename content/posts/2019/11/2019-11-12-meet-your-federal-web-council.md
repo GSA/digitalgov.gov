@@ -7,6 +7,11 @@ deck: 'Your partners in making 21st Century IDEA happen'
 summary: 'When something important needs to be coordinated across the federal web space, the Federal Web Council is the vehicle for getting it done&#46;'
 authors:
   - jeremyzilar
+
+topics:
+  - product-management
+  - 21st-century-idea
+
 featured_image:
   uid: this-weeks-idea-card-wk2
   alt: ''

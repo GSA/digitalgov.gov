@@ -13,8 +13,8 @@ last_name: "Sawant"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: pooja-sawant
+# slug — the specific user-id for an author.
+slug: pooja-sawant
 
 # if you include an email address, it will be displayed on your profile page
 email: "pooja.sawant0110@gmail.com"

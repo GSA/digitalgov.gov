@@ -13,8 +13,8 @@ last_name: "Booth"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: jon-booth
+# slug — the specific user-id for an author.
+slug: jon-booth
 
 # if you include an email address, it will be displayed on your profile page
 email: "jon.booth@cms.hhs.gov"
