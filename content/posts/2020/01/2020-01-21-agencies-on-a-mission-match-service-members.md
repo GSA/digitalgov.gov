@@ -21,10 +21,6 @@ authors:
 # Primary Image (for social media)
 primary_image: "challenge-veterans-employment-challenge"
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
 
 # Make it better ♥
 
@@ -47,4 +43,4 @@ And why not? Though a disproportionate number of service members continue in pub
 
 The Veterans' Employment Challenge is part of a larger government-wide initiative to support workforce development—a [key driver of transformation](https://www.performance.gov/CAP/workforce/) in the President’s Management Agenda.
 
-**Submissions close January 24, 2020 at 5 pm, Eastern**. _For more details, visit: [https://www.challenge.gov/challenge/vets-match/](https://www.challenge.gov/challenge/vets-match/)_ 
+**Submissions close January 24, 2020 at 5 pm, Eastern**. _For more details, visit: [https://www.challenge.gov/challenge/vets-match/](https://www.challenge.gov/challenge/vets-match/)_

@@ -19,10 +19,6 @@ topics:
 authors:
   - nina-bianchi
 
-# Page weight: controls how this page appears across the site
-# 0 -- hidden
-# 1 -- visible
-weight: 1
 
 # Primary Image (for social media)
 primary_image: "coe-employee-engagement-unicorn-flyer"
