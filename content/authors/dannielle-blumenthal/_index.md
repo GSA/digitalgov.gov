@@ -13,8 +13,8 @@ last_name: "Blumenthal"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: dannielle-blumenthal
+# slug — the specific user-id for an author.
+slug: dannielle-blumenthal
 
 # if you include an email address, it will be displayed on your profile page
 email: "dannielle.blumenthal@nist.gov"

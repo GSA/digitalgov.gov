@@ -2,16 +2,15 @@
 # View this page at https://digital.gov/authors/joshua-di-frances
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: joshua-di-frances
 display_name: "Joshua Di Frances"
 first_name: "Joshua"
 last_name: "Di Frances"
 
 # List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
-pronoun: ""
+pronoun: "joshua-di-frances"
 
 # user id — not easily changed
-uid: ""
+slug: ""
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: joshua.difrances@pif.gov

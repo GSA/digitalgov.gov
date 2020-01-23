@@ -13,8 +13,8 @@ last_name: "Connor"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: suzi-connor
+# slug — the specific user-id for an author.
+slug: suzi-connor
 
 # if you include an email address, it will be displayed on your profile page
 email: "icl3@cdc.gov"

@@ -71,3 +71,4 @@ The community meets on the last Thursday of every month from 2:30 – 4:30 pm E.
 *   [The Federal Crowdsourcing and Citizen Science Toolkit](https://www.citizenscience.gov/toolkit/)
 *   [Federal Crowdsourcing and Citizen Science Catalog](https://www.citizenscience.gov/catalog/)
 *   [Crowdsourcing and Citizen Science Act of 2016 (15 USC 3724)](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3724&num=0&edition=prelim)
+*   [Implementation of Federal Prize and Citizen Science Authority: Fiscal Years 2017-18 Report](https://www.whitehouse.gov/wp-content/uploads/2019/06/Federal-Prize-and-Citizen-Science-Implementation-FY17-18-Report-June-2019.pdf)

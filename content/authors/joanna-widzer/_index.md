@@ -13,8 +13,8 @@ last_name: "Widzer"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: joanna-widzer
+# slug — the specific user-id for an author.
+slug: joanna-widzer
 
 # if you include an email address, it will be displayed on your profile page
 email: "joanna.widzer@nih.gov"

@@ -13,8 +13,8 @@ last_name: "Yerke Desjardins"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: claire-yerke-desjardins
+# slug — the specific user-id for an author.
+slug: claire-yerke-desjardins
 
 # if you include an email address, it will be displayed on your profile page
 email: "Claire.Y.Desjardins@hud.gov"

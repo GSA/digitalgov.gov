@@ -13,8 +13,8 @@ last_name: "Holm"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: jeanne-holm
+# slug — the specific user-id for an author.
+slug: jeanne-holm
 
 # if you include an email address, it will be displayed on your profile page
 email: "jeanne.holm@jpl.nasa.gov"

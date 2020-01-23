@@ -10,7 +10,7 @@ last_name: "Ryan"
 pronoun: ""
 
 # user id — not easily changed
-uid: "avis-ryan"
+slug: "avis-ryan"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: avis.ryan@gsa.gov

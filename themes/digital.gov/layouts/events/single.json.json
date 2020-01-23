@@ -76,7 +76,7 @@
       {{- end -}}
 
       {{- partial "api/captions" . -}}
-      
+
       {{- partial "api/youtube_id" . -}}
 
       {{- if (isset .Params "zoom_id") -}}
@@ -153,9 +153,9 @@
         {{- end -}}
       },
       {{- end -}}
-      {{- if .Slug -}}
-      "slug" : "{{ .Slug }}",
-      {{- end -}}
+
+      {{- partial "api/slug" . -}}
+
       "url" : "{{- .Permalink -}}"
     }
   ]

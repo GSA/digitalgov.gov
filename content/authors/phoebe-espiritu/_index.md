@@ -13,8 +13,8 @@ last_name: "Espiritu"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: phoebe-espiritu
+# slug — the specific user-id for an author.
+slug: phoebe-espiritu
 
 # if you include an email address, it will be displayed on your profile page
 email: ""

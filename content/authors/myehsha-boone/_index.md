@@ -13,8 +13,8 @@ last_name: "Boone"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: myehsha-boone
+# slug — the specific user-id for an author.
+slug: myehsha-boone
 
 # if you include an email address, it will be displayed on your profile page
 email: "myehsha.boone@gsa.gov"

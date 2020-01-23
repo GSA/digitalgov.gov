@@ -13,8 +13,8 @@ last_name: "Messner"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: katie-messner
+# slug — the specific user-id for an author.
+slug: katie-messner
 
 # if you include an email address, it will be displayed on your profile page
 email: "kathryn.messner@hhs.gov"

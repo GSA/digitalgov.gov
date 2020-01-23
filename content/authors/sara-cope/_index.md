@@ -13,8 +13,8 @@ last_name: "Cope"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: sara-cope
+# slug — the specific user-id for an author.
+slug: sara-cope
 
 # if you include an email address, it will be displayed on your profile page
 email: "sara.cope@gsa.gov"

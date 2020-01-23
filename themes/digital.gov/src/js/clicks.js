@@ -95,16 +95,15 @@ jQuery(document).ready(function($) {
 		var api = 'https://go.usa.gov/api/clicks.json?login=jeremyz&apiKey=d0ac464a2dfad044147e9537fd51503b&shortUrl=' + encodeURI(short_url);
 		$.getJSON( api, function( data ) {
 			$.each( data.response.data.entry, function( key, value ) {
-				var element = $(article).find('.clicks span');
-				var stale_clicks = $(element).text();
+				var element = $(article).find('.clicks');
+				var element_span = $(element).find('span');
+				var stale_clicks = $(element).data('clicks');
 				var current_clicks = value.user_clicks;
-				console.log('current_clicks');
-				console.log(current_clicks);
 				// Count up from the existing number to the current_num_clicks
 				var interval = setInterval(function() {
 					if (stale_clicks >= current_clicks) clearInterval(interval);
 					stale_clicks++;
-					$(element).html(stale_clicks);
+					$(element_span).html(stale_clicks);
 				}, 50);
 
 			});

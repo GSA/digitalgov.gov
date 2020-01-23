@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/stephanie-green
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: stephanie-green
 display_name: "Stephanie Green"
 first_name: "Stephanie"
 last_name: "Green"
@@ -11,7 +10,7 @@ last_name: "Green"
 pronoun: ""
 
 # user id — not easily changed
-uid: "stephanie-green"
+slug: "stephanie-green"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: stephanie.green@gsa.gov
@@ -20,7 +19,7 @@ email: stephanie.green@gsa.gov
 bio: ""
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "General Services Administration"

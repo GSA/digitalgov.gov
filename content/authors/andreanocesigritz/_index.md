@@ -13,8 +13,8 @@ last_name: "Sigritz"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: andreanocesigritz
+# slug — the specific user-id for an author.
+slug: andreanocesigritz
 
 # if you include an email address, it will be displayed on your profile page
 email: "andrea.sigritz@gsa.gov"

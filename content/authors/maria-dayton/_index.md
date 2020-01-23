@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/maria-dayton
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: maria-dayton
 display_name: "Maria Dayton"
 first_name: "Maria"
 last_name: "Dayton"
@@ -11,7 +10,7 @@ last_name: "Dayton"
 pronoun: ""
 
 # user id — not easily changed
-uid: ""
+slug: "maria-dayton"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email: maria.dayton@gsa.gov
@@ -20,7 +19,7 @@ email: maria.dayton@gsa.gov
 bio: "Maria Dayton is a Presidential Innovation Fellow working on government wide customer experience at the U.S. General Services Administration and White House’s Office of Management and Budget. She formerly consulted with governments regularly on strategic communications and data policy."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: ""

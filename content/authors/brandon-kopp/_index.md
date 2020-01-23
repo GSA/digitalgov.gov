@@ -13,8 +13,8 @@ last_name: "Kopp"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: brandon-kopp
+# slug — the specific user-id for an author.
+slug: brandon-kopp
 
 # if you include an email address, it will be displayed on your profile page
 email: "Kopp.Brandon@bls.gov"

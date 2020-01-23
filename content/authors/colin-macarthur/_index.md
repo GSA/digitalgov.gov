@@ -13,8 +13,8 @@ last_name: "MacArthur"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: colin-macarthur
+# slug — the specific user-id for an author.
+slug: colin-macarthur
 
 # if you include an email address, it will be displayed on your profile page
 email: "colin.macarthur@gsa.gov"

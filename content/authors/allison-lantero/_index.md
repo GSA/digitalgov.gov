@@ -13,8 +13,8 @@ last_name: "Lantero"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: allison-lantero
+# slug — the specific user-id for an author.
+slug: allison-lantero
 
 # if you include an email address, it will be displayed on your profile page
 email: "Allison.Lantero@Hq.Doe.Gov"

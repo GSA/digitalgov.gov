@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/stephanie-santana
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: stephanie-santana
 display_name: "Stephanie Santana"
 first_name: "Stephanie"
 last_name: "Santana"
@@ -11,16 +10,16 @@ last_name: "Santana"
 pronoun: ""
 
 # user id — not easily changed
-uid: ""
+slug: "stephanie-santana"
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
 bio: "Stephanie Santana is a Presidential Management Fellow and Public Health Analyst for the U.S. Department of Health and Human Services. She is interested in finding creative solutions to enhance information dissemination efforts for decision making."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: ""

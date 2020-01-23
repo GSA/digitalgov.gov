@@ -13,8 +13,8 @@ last_name: "McNally"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: peter-mcnally
+# slug — the specific user-id for an author.
+slug: peter-mcnally
 
 # if you include an email address, it will be displayed on your profile page
 email: "PMcNally@bentley.edu"

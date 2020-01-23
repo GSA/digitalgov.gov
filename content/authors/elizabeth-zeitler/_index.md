@@ -13,8 +13,8 @@ last_name: "Zeitler"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: elizabeth-zeitler
+# slug — the specific user-id for an author.
+slug: elizabeth-zeitler
 
 # if you include an email address, it will be displayed on your profile page
 email: "zeitlere@mcc.gov"

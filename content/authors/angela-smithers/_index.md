@@ -13,8 +13,8 @@ last_name: "Smithers"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: angela-smithers
+# slug — the specific user-id for an author.
+slug: angela-smithers
 
 # if you include an email address, it will be displayed on your profile page
 email: "asmithers@oig.doc.gov"

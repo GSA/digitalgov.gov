@@ -17,7 +17,7 @@ source_url: "https://methods.18f.gov/interview-checklist/"
 source: 18f
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - research
   - user-research
 

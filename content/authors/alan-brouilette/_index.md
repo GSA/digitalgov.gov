@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/alan-brouilette
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: alan-brouilette
 display_name: "Alan Brouilette"
 first_name: "Alan"
 last_name: "Brouilette"
@@ -11,16 +10,16 @@ last_name: "Brouilette"
 pronoun: ""
 
 # user id — not easily changed
-uid: "alan-brouilette"
+slug: "alan-brouilette"
 
 # Email — If you include an email address, it will be displayed on your profile page
-email: 
+email:
 
 # Bio — keep it under 50 words
 bio: "Chief of Staff at 18F."
 
 # bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: 
+bio_url:
 
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "U.S. General Services Administration"

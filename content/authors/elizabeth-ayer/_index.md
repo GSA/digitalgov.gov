@@ -2,7 +2,6 @@
 # View this page at https://digital.gov/authors/elizabeth-ayer
 # Learn how to edit our pages at https://workflow.digital.gov
 
-slug: elizabeth-ayer
 display_name: "Elizabeth Ayer"
 first_name: "Elizabeth"
 last_name: "Ayer"
@@ -11,7 +10,7 @@ last_name: "Ayer"
 pronoun: "she/her"
 
 # user id — not easily changed
-uid: "elizabeth-ayer"
+slug: "elizabeth-ayer"
 
 # Email — If you include an email address, it will be displayed on your profile page
 email:

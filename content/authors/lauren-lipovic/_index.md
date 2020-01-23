@@ -13,8 +13,8 @@ last_name: "Lipovic"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: lauren-lipovic
+# slug — the specific user-id for an author.
+slug: lauren-lipovic
 
 # if you include an email address, it will be displayed on your profile page
 email: "LLipovic@doc.gov"

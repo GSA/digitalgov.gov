@@ -13,8 +13,8 @@ last_name: "Santoso"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: stephanie-santoso
+# slug — the specific user-id for an author.
+slug: stephanie-santoso
 
 # if you include an email address, it will be displayed on your profile page
 email: "Stephanie_M_Santoso@ostp.eop.gov"

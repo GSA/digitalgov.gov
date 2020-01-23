@@ -13,8 +13,8 @@ last_name: "Thottungal"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: robin-thottungal
+# slug — the specific user-id for an author.
+slug: robin-thottungal
 
 # if you include an email address, it will be displayed on your profile page
 email: "thottungal.robin@epa.gov"

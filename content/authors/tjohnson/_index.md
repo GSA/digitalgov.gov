@@ -13,8 +13,8 @@ last_name: "Johnson"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: tjohnson
+# slug — the specific user-id for an author.
+slug: tjohnson
 
 # if you include an email address, it will be displayed on your profile page
 email: "treci_johnson@ios.doi.gov"

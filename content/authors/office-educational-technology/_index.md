@@ -13,8 +13,8 @@ last_name: "Educational Technology"
 # Examples: they/them, she/her, or he/him
 pronoun: ""
 
-# User ID (not easily changed)
-uid: office-educational-technology
+# slug — the specific user-id for an author.
+slug: office-educational-technology
 
 # if you include an email address, it will be displayed on your profile page
 email: ""
