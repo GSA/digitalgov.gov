@@ -30,7 +30,7 @@ topics:
 
 ---
 
-{{< button href="https://challenge.gov/a/buzz/pages/about-us" text="Post a challenge on Challenge.gov" >}}
+{{< button href="https://www.challenge.gov/about/" text="Post a challenge on Challenge.gov" >}}
 
 ## **A Primer on Challenges & Prizes**
 
@@ -80,7 +80,7 @@ GSA employs a special contracting vehicle, [Professional Services Schedule 541 4
 
 The federal government has a growing and active [community of practice]({{< ref "challenges-prizes.md" >}}) for challenges and prizes. This government-only group consists of more than 725 federal challenge practitioners who use a listserv to ask questions and share information. [Email the Challenges Listserv](mailto:challenges@listserv.gsa.gov "challenges at listserv dot g s a dot gov") to join and receive email alerts about training, events, networking opportunities, and new reports and resources.
 
-In addition, GSA manages a [mentorship program](https://www.challenge.gov/mentors/) for the federal challenge and prize community. This group of 20 experts is available to offer support and advice to agencies on competition planning, strategy and execution.
+In addition, GSA manages a [mentorship program](https://www.challenge.gov/toolkit/mentor-network/) for the federal challenge and prize community. This group of 20 experts is available to offer support and advice to agencies on competition planning, strategy and execution.
 
 ## Watch and Learn
 
