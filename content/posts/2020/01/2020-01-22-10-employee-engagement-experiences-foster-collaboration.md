@@ -46,6 +46,8 @@ Teams can get creative with homemade cookies that inspire and bring more joy to 
 
 4) **Office scavenger hunt**: if people are not exploring other offices or areas of your agency, consider designing a scavenger hunt to encourage people to step out of their daily habit and explore new territories. This can be a simple game that people play on short breaks, en route to and from the office, or at lunch. A great way to get some physical activity steps in, too.
 
+{{< img src="coe-employee-engagement-rooftop" >}}
+
 5) **Rebrand it**: if people in your office aren’t using a key service offering, try rebranding it under a more compelling name. For example, if you have a Monday morning management meeting, instead of saying “management” in the invite, use a positive phrase like “Monday Motivational” or “Mind-blowing Monday.” If people still appear to be disengaged, consider asking for feedback to understand why. Maybe there’s a deeper design or organizational issue at play. [Read more about how TTS has made data literacy policy briefings more creative with hands-on activities](https://digital.gov/2019/08/21/prototyping-engagement-workshops/).
 
 6) **Map it**: maps are critical tools to get people from one location to the next. If you are exploring change in your group, try mapping the process out. Where does the process start and where are you stopping along the way? What does the experience feel like? Who can join? Where are there risks of losing people along the way? Is it really about the destination or is the process just as important? Use metaphors as appropriate — ”river of life” or “employee journey” — or you can try “the gauntlet” or “obstacle course” for more challenging conversations about barriers and roadblocks.
@@ -60,7 +62,7 @@ Teams can get creative with homemade cookies that inspire and bring more joy to 
 
 10) **Go outside**: whether it’s a field trip to another division’s office location, an overnight offsite strategic planning session, a walk around the building, or a team lunch — getting out of the office is key to exploring new habits in the workplace. Consider ways to get out of the office on a regular basis. Getting out of the office helps refresh perspectives.
 
-{{< img src="coe-employee-engagement-rooftop" >}}
+{{< img src="coe-employee-engagement-lunch" alt="Five employees have a working lunch at a restaurant in Virginia." caption="The Joint Artificial Intelligence Center (JAIC) team meets for lunch in VA to discuss their work plans in the upcoming month. A delicious meal combined with fellowship is easier to achieve with a change in scenery." >}}
 
 **Pro tip**: Many experiences on this list can be combined!
 
