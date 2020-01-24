@@ -14,8 +14,20 @@
 
 
 {{- define "nav_link" -}}
-  <a class="{{- if eq .current_page_url .item.href -}}usa-current{{- end -}}" href="{{- .item.href -}}" title="{{- .item.title -}}">{{- .item.title }} {{ if .item.subnav -}}<span class="arrow-right"></span>{{- end -}}</a>
+  {{- $first_char := substr .item.title 0 1 -}}
+  {{- $first_char := substr .item.title 0 1 -}}
+  <a class="{{- if eq .current_page_url .item.href -}}usa-current{{- end -}}" href="{{- .item.href -}}" title="{{- .item.title -}}">
+    {{- if ge $first_char 1 -}}
+      {{- $num := substr .item.title 0 3 -}}
+      {{- $title := trim .item.title $num -}}
+      <span class="num">{{ trim $num " " }}</span> <span>{{ $title }}</span>
+    {{- else -}}
+      {{- .item.title }}
+    {{- end  -}}
+    {{ if .item.subnav -}}<span class="arrow-right"></span>{{- end -}}
+  </a>
 {{- end -}}
+
 
 
 {{- define "nav_item" -}}
