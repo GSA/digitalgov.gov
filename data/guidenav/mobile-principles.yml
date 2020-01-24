@@ -1,6 +1,6 @@
 nav:
 - title    : 'Overview'
-  href     : '/guides/website-standards/'
+  href     : '/guides/mobile-principles/'
 - title  : '1. JavaScript is really cool, when used with care'
   href   : '/guides/mobile-principles/javascript'
 - title  : '2. The viewport is the window to your site'
