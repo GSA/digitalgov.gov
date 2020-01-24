@@ -16,17 +16,17 @@ deck: "as defined in 21st Century IDEA"
 summary: "as defined in 21st Century IDEA"
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - uswds
   - 21st-century-idea
   - policy
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - dan-williams
-  - jeremyzilar
   - ammie-farraj-feijoo
   - jparcell
+  - jeremyzilar
 
 # Make it better ♥
 ---
