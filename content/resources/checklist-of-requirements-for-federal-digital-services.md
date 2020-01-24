@@ -21,7 +21,6 @@ topics:
 **Note:** _You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations._
 {{< /note >}}
 
-See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
 
 ## Overarching Policies
 These high-level policies cover basic requirements for all digital products and services.
@@ -33,6 +32,7 @@ These high-level policies cover basic requirements for all digital products and 
 * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
 * [The website standards](https://designsystem.digital.gov/website-standards/), as defined in [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}})
 * See a full list of [policies and regulations »]({{< ref "/topics/policy/_index.md" >}})
+* See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
 
 
 ## Accessibility / Section 508
