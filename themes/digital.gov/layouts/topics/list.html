@@ -1,5 +1,5 @@
-{{/* Single Tag + article list */}}
-{{/* lists out the articles for a given tag */}}
+{{/* Single Topic + article list
+     This template lists out the articles for a given topic */}}
 
 {{- define "content" -}}
 
@@ -17,21 +17,20 @@
 
         </header>
       </div>
-
-      {{/* If the topic page has Content */}}
-      {{- if .Content -}}
-      <section>
-        <div class="grid-row tablet-lg:grid-gap-6">
-          <div class="content">
-            {{- .Content -}}
-          </div>
-        </div>
-      </section>
-      {{- end -}}
-
     </div>
 
-    <div class="grid-row tablet-lg:grid-gap-4">
+    {{/* If the topic page has Content */}}
+    {{- if .Content -}}
+    <div class="grid-row">
+      <div class="grid-col-12">
+        <div class="content usa-prose">
+          {{- .Content -}}
+        </div>
+      </div>
+    </div>
+    {{- end -}}
+
+    <div class="grid-row">
       <div class="grid-col-12">
         <section>
 
