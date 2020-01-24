@@ -15,6 +15,10 @@
 				@include u-display('flex');
 				@include u-flex('align-center');
 
+				span.num{
+					@include u-margin-right('105');
+				}
+
 				&:hover{
 					@include u-text('underline');
 				}
