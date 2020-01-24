@@ -6,8 +6,8 @@
 slug: 21st-century-integrated-digital-experience-act
 date: 2019-11-01 3:00:00 -0500
 title: "21st Century Integrated Digital Experience Act"
-deck: "The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
-summary: "The Act aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
+deck: "21st Century IDEA aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
+summary: "21st Century IDEA aims to improve the digital experience for government customers and reinforces existing requirements for federal public websites."
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -31,7 +31,7 @@ The [21st Century Integrated Digital Experience Act](https://www.congress.gov/bi
 
 ## Why Is It Important?
 
-The current state of federal websites and digital services is not ideal. Customer expectations are being ratcheted up by the private sector. Government services should be delivered in ways the public now demands and expects—quick, easy, secure, and accessible.
+In 2019, there were over [14 billion sessions and 38 billion page views](https://analytics.usa.gov/) on federal websites. Customer expectations are being ratcheted up by the private sector. Government services should be delivered in ways the public now demands and expects—quick, easy, secure, and accessible.
 
 We can, and should, do more.
 
@@ -44,12 +44,13 @@ So what is in 21st Century IDEA? The bill’s sponsor, Representative Ro Khanna,
 
 Specifically, the Act requires all executive branch agencies to:
 
-- modernize their websites, using the [U.S. Web Design System](https://designsystem.digital.gov/maturity-model/)
+- modernize their websites,
 - digitize services and forms,
-- accelerate use of e-signatures, and
-- improve customer experience.
+- accelerate use of e-signatures,
+- improve customer experience, and
+- standardize and transition to centralized [shared services]({{< ref "/services/_index.md" >}}).
 
-It also encourages agencies to standardize and transition to centralized [shared services]({{< ref "/services/_index.md" >}}).
+It also requires agencies to comply with the [website standards](https://designsystem.digital.gov/website-standards/), using the [U.S. Web Design System](https://designsystem.digital.gov/).
 
 {{< card-policy src="https://www.congress.gov/bill/115th-congress/house-bill/5759/text" kicker="Law" title="**H.R.5759**: 21st Century Integrated Digital Experience Act" >}}
 
@@ -156,9 +157,9 @@ The Chief Information Officer of each executive agency, or a designee, shall--
 
 ## What Does It Mean to Modernize Websites?
 
-All new, public-facing websites and digital services must use the [U.S. Web Design System](https://designsystem.digital.gov/maturity-model/) to meet eight specific requirements.
+Public-facing websites and digital services should use the [U.S. Web Design System](https://designsystem.digital.gov/maturity-model/) and meet eight specific requirements.
 
-1. **Accessible** - be accessible to individuals with disabilities in  accordance with [Section 508](https://www.section508.gov/)
+1. **Accessible** - be accessible to individuals with disabilities in accordance with [Section 508](https://www.section508.gov/)
 2. **Consistent** - have a consistent appearance
 3. **Authoritative** - not overlap with or duplicate existing websites
 4. **Searchable** - contain a search function
