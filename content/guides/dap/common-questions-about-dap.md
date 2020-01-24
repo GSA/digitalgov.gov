@@ -14,6 +14,8 @@ aliases:
 **Have a questions for the DAP team?** Send an email to [dap@support.digitalgov.gov](mailto:dap@support.digitalgov.gov) and we’ll get back to you.
 {{< /box >}}
 
+{{< guide-toc >}}
+
 ## Digital Analytics Program (DAP) User Agreement
 
 **Q. What are my responsibilities as a DAP user?**
