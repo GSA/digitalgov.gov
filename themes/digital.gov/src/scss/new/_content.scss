@@ -1,5 +1,12 @@
 // Content settings
 
+.content{
+  @include u-margin-bottom(5);
+}
+#topic .content *{
+  @include u-measure(6);
+}
+
 .usa-prose{
   a{
     @include u-text('no-underline');
