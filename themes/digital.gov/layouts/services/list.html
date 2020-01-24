@@ -36,25 +36,18 @@
 
         {{- range $i, $e := . -}}
 
-          <!-- This checks to see if the source_url is pointing to https://digital.gov and strips it out so that it will function on localhost and Federalist previews -->
-          {{- if .Params.source_url -}}
-            {{- .Scratch.Set "source_url" .Params.source_url -}}
-            {{- if in .Params.source_url "https://digital.gov" -}}
-              {{- .Scratch.Set "source_url" (replace .Params.source_url "https://digital.gov" "") -}}
-            {{- end -}}
-          {{- end -}}
-
           <div class="grid-col-12 tablet:grid-col-6">
             <div class="promo promo-card " data-edit-this="/edit/{{- .Type -}}/?page=https://digital.gov{{- (urls.Parse .Permalink).Path -}}">
               {{- if .Params.icon -}}
               {{- $src := (print "/logos/" .Params.icon) -}}
               <img src="{{- $src | relURL -}}" alt="{{- .Params.name }} Logo">
               {{- end -}}
-              <h3><a href="{{- if .Scratch.Get "source_url" -}}{{- .Scratch.Get "source_url" -}}{{- else -}}{{- .URL -}}{{- end -}}?dg" title="{{- .Params.title -}}">{{- .Params.title -}}</a></h3>
+              <h3><a href="{{- if .Params.source_url -}}{{- .Params.source_url -}}{{- else -}}{{- .Permalink -}}{{- end -}}?dg" title="{{- .Params.title -}}">{{- .Params.title -}}</a></h3>
               <p>{{- .Params.summary | markdownify -}}</p>
-              <a class="overlay" href="{{- if .Scratch.Get "source_url" -}}{{- .Scratch.Get "source_url" -}}{{- else -}}{{- .URL -}}{{- end -}}?dg" title="{{- .Params.title -}}"><span></span></a>
+              <a class="overlay" href="{{- if .Params.source_url -}}{{- .Params.source_url -}}{{- else -}}{{- .Permalink -}}{{- end -}}?dg" title="{{- .Params.title -}}"><span></span></a>
             </div>
           </div>
+
         {{- end -}}
       {{- end -}}
       </div>
