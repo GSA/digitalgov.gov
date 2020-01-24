@@ -12,6 +12,7 @@ summary: "The Act aims to improve the digital experience for government customer
 # see all topics at https://digital.gov/topics
 topics:
   - uswds
+  - policy
   - 21st-century-idea
 
 # see all authors at https://digital.gov/authors
@@ -43,16 +44,16 @@ So what is in 21st Century IDEA? The bill’s sponsor, Representative Ro Khanna,
 
 Specifically, the Act requires all executive branch agencies to:
 
-- modernize their websites,
+- modernize their websites, using the [U.S. Web Design System](https://designsystem.digital.gov/maturity-model/)
 - digitize services and forms,
 - accelerate use of e-signatures, and
 - improve customer experience.
 
-It also encourages agencies to standardize and transition to centralized shared services.
+It also encourages agencies to standardize and transition to centralized [shared services]({{< ref "/services/_index.md" >}}).
 
 ## What Does It Mean to Modernize Websites?
 
-All new, public-facing websites and digital services must meet eight specific requirements.
+All new, public-facing websites and digital services must use the [U.S. Web Design System](https://designsystem.digital.gov/maturity-model/) to meet eight specific requirements.
 
 1. **Accessible** - be accessible to individuals with disabilities in  accordance with [Section 508](https://www.section508.gov/)
 2. **Consistent** - have a consistent appearance
