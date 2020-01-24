@@ -16,4 +16,4 @@ weight: 2
 # see https://github.com/GSA/digitalgov.gov/wiki/topics
 ---
 
-See the [Checklist of Requirements for Federal Websites and Digital Services »]({{< ref "/resources/checklist-of-requirements-for-federal-digital-services.md" >}})
+More information can be found on our ["Checklist of Requirements for Federal Websites and Digital Services"]({{< ref "/resources/checklist-of-requirements-for-federal-digital-services.md" >}})
