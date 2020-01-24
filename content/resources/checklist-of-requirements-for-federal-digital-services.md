@@ -2,7 +2,7 @@
 slug: checklist-of-requirements-for-federal-digital-services
 date: 2014-01-09 1:20:11 -0400
 title: "Checklist of Requirements for Federal Websites and Digital Services"
-summary: 'Links to relevant laws, policies, and regulations for federal agencies.'
+summary: "Links to relevant laws, policies, and regulations for federal agencies."
 deck: 'The relevant laws, policies, and regulations for federal agencies.'
 authors:
   - rflagg
@@ -21,7 +21,6 @@ topics:
 **Note:** _You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations._
 {{< /note >}}
 
-See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
 
 ## Overarching Policies
 These high-level policies cover basic requirements for all digital products and services.
@@ -31,6 +30,9 @@ These high-level policies cover basic requirements for all digital products and 
 * [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) (July 28, 2016)
 * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
+* [The website standards](https://designsystem.digital.gov/website-standards/), as defined in [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}})
+* See a full list of [policies and regulations »]({{< ref "/topics/policy/_index.md" >}})
+* See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
 
 
 ## Accessibility / Section 508
