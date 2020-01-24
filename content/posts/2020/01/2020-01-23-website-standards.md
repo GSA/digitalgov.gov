@@ -3,7 +3,7 @@
 # Learn how to edit our pages at https://workflow.digital.gov
 
 # originally published at the following URL
-source_url: "https://www.gsa.gov/blog/"
+source_url: "https://www.gsa.gov/blog/2020/01/22/gsa-publishes-standards-for-building-federal-websites-and-digital-services"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
