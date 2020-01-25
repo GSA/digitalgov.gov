@@ -2,7 +2,7 @@
 slug: checklist-of-requirements-for-federal-digital-services
 date: 2014-01-09 1:20:11 -0400
 title: "Checklist of Requirements for Federal Websites and Digital Services"
-summary: 'Links to relevant laws, policies, and regulations for federal agencies.'
+summary: "Links to relevant laws, policies, and regulations for federal agencies."
 deck: 'The relevant laws, policies, and regulations for federal agencies.'
 authors:
   - rflagg
@@ -21,16 +21,20 @@ topics:
 **Note:** _You should regularly review your agency's websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations._
 {{< /note >}}
 
-See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
 
 ## Overarching Policies
-These high-level policies cover basic requirements for all digital products and services.
+These high-level policies cover basic requirements for all websites and digital services.
 
+* [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}}), including the required [website standards](https://designsystem.digital.gov/website-standards/), December 2018 
 * [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 * [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
 * [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) (July 28, 2016)
 * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
 * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
+* See a full list of [policies and regulations »]({{< ref "/topics/policy/_index.md" >}})
+* See our list of [**Required Web Content and Links »**](https://digital.gov/resources/required-web-content-and-links/?=checklist).
+
+<p class="more"><a href="{{< ref "/topics/21st-century-idea" >}}">More on 21st Century IDEA <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
 
 ## Accessibility / Section 508
@@ -68,10 +72,11 @@ Inform the public about your policies on digital rights, copyrights, trademarks,
 * [Copyright.gov](http://www.copyright.gov/)
 * [United States Government Works and Copyright Act of 1976](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/United-States-government-works-and-copyright.docx) (MS Word, 16 KB, 2 pages, June 2011)
 
-## Customer Service
+## Customer Experience
 
 Understand the needs of your customers, collect and address customer feedback, and use data and feedback to continuously improve your programs. Ensure that information collected from the public minimizes burden and maximizes public utility. Use social media and other third-party platforms to listen to and serve customers. Secure OMB approval before collecting information from the public (surveys, forms, etc.), and include the OMB control number on the collection. Enable digital interactions with the public and deliver services via your customers' channel of choice.
 
+* [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery](https://www.performance.gov/cx/a11-280.pdf) (2019) (7 pages, 608 kb)
 * [Executive Order 13571 – Streamlining Service Delivery and Improving Customer Service](https://obamawhitehouse.archives.gov/the-press-office/2011/04/27/executive-order-13571-streamlining-service-delivery-and-improving-custom) (April 2011)
 * See all [Government Customer Service Policies and Requirements](/resources/
 government-customer-service-policies-requirements-1993-to-present/)
@@ -79,14 +84,18 @@ government-customer-service-policies-requirements-1993-to-present/)
 
 <p class="more"><a href="{{< ref "/topics/cx" >}}">More on Customer Experience <i class="fas fa-arrow-alt-circle-right"></i></a></p>
 
-## Design System and Standards
+## Design
+
+Use the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) to deliver a great digital experience by integrating design principles, 
+following user experience guidance, and using USWDS code.
 
 Follow current government design standards when creating new websites or making significant changes to existing websites.
 
-- [U.S. Web Design System](https://designsystem.digital.gov/)
-- [Participate in the project](https://github.com/uswds/uswds)
+- [Website standards](https://designsystem.digital.gov/website-standards/), as defined in [21st Century IDEA]({{< ref "/resources/21st-century-integrated-digital-experience-act.md" >}})
 
-## Domains and Branding
+<p class="more"><a href="{{< ref "/topics/design" >}}">More on Design <i class="fas fa-arrow-alt-circle-right"></i></a></p>
+
+## Domains
 
 Federal executive branch agency websites must use only .gov or .mil domains unless the agency head explicitly determines another domain is necessary for the proper performance of an agency function. The 2011 freeze on creation of new .gov domains has been lifted; coordinate with agency CIO and GSA to request a new .gov domain. Clearly display the name of your agency on every page on the website.
 
@@ -120,7 +129,7 @@ Include all [required content and links]({{< ref "/resources/required-web-conten
 * [Proper Consideration of Small Entities in Agency Rulemaking](https://www.federalregister.gov/documents/2002/08/16/02-21056/proper-consideration-of-small-entities-in-agency-rulemaking) (August 2002)
 * [Government Performance Results Act of 1993](https://www.congress.gov/bill/103rd-congress/senate-bill/20) (GPRA)
 
-## Mobile/Device Agnostic
+## Mobile
 
 Improve priority customer facing services for mobile use. Shift to an enterprise-wide asset management and procurement model, including mobile-related procurements.
 
@@ -203,7 +212,7 @@ Work with your agency Records Officer and follow NARA guidance to establish and 
 
 ## Search
 
-Ensure your website includes a search function which follows industry standard best practices. Write content in Plain Language, using the words of your customers, so they can easily find what they need when searching the web or your website.
+Ensure your website includes a search function which follows industry standard best practices. Write content in [plain language](https://plainlanguage.gov/), using the words of your customers, so they can easily find what they need when searching the web or your website.
 
 * [Search.gov](http://www.search.gov/) (formerly _DigitalGov Search_)
 

@@ -1,55 +1,52 @@
 ---
+# View this page at https://digital.gov/authors/nina-bianchi
+# Learn how to edit our pages at https://workflow.digital.gov
 
-# Your author profile page lives at:
-# https://digital.gov/authors/nina-bianchi
-
+# slug — the specific user-id for an author.
+slug: nina-bianchi
 display_name: "Nina Bianchi"
 first_name: "Nina"
 last_name: "Bianchi"
 
-# Pronoun preference — we strive to be inclusive, and don’t want to make assumptions on a person’s first name (be it a gender-neutral name, or is one more common in languages other than English). Learn more http://www.MyPronouns.org
-# List your pronoun(s) if you want them displayed alongside your name. Leave it blank and we'll use just your name.
-# See https://uwm.edu/lgbtrc/support/gender-pronouns/ for a list of pronouns
-# Examples: they/them, she/her, or he/him
+# List your pronoun(s) if you want them displayed alongside your name. If blank, we'll use just your name. Learn more http://mypronouns.org
 pronoun: ""
 
-# slug — the specific user-id for an author.
-slug: nina-bianchi
-
-# if you include an email address, it will be displayed on your profile page
-email: "nina.bianchi@nih.gov"
+# Email — If you include an email address, it will be displayed on your profile page
+email: nina.bianchi@nih.gov
 
 # Bio — keep it under 50 words
-bio: ""
+bio: "Currently, as Director of Workforce Solutions with the IT Modernization Centers of Excellence (CoE), Nina Bianchi is leading cross-agency workforce innovation to improve service outcomes for citizen customers. From clinical trials and data supply chains to artificial intelligence and management operations, she is ushering in the future of federal leadership by design. "
 
-# Where can people learn more about your agency or program? Provide a full URL [e.g. 'https://www.example.gov/']
-bio_url: ""
+# bio_url — Where can people learn more about your work? Provide a full URL [e.g. 'https://www.example.gov/']
+bio_url: 
 
 # Agency Full Name [e.g. U.S. General Services Administration]
-agency_full_name: ""
+agency_full_name: "U.S. General Services Administration"
 
 # Agency Acronym [e.g., GSA]
-agency: ""
+agency: "GSA"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
-location: ""
+location: "Washington, D.C."
 
-# Your GitHub username [e.g. 'jeremyzilar']
-# See [URL] Having a GitHub account will allow you to edit pages on DigitalGov. The image used in your GitHub account can also be used to populate your digital.gov profile photo.
-github: ""
+# A GitHub account will allow you to edit pages on Digital.gov. Also, the image used in your GitHub account can be used to populate your digital.gov profile photo. Learn more about getting a Github account at [URL]
+github: "nbianchiPIF"
 
 # Profile Photo
 # See [URL] for a full list of profile photo options
-# github-photo — requires a github ID
-profile_source: ""
+profile_photo: "github"
 
-# Professional Social Media [e.g., Digital_Gov]
+# [e.g., Digital_Gov]
 twitter: ""
 facebook: ""
+instagram: ""
 linkedin: ""
-YouTube: ""
+youtube: ""
 
-# For more information on managing your author page,
-# see https://workflow.digital.gov/authors
+# Page weight: controls how this page appears across the site
+# 0 -- hidden
+# 1 -- visible
+weight: 1
 
+# Make it better ♥
 ---
