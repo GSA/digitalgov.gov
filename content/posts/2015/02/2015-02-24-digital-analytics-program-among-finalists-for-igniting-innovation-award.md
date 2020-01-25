@@ -24,7 +24,7 @@ topics:
 
 The federal government has IT challenges, and innovative federal projects are tackling those challenges head-on. As projects gain momentum, outside organizations have taken notice.
 
-Recently, [Data.gov](http://www.data.gov/) and DigitalGov’s [Digital Analytics Program]({{< ref "/guide/dap/_index.md" >}}) (DAP) were recognized by the [American Council for Technology and Industry Advisory Council](https://actiac.org/) (ACT-IAC), among 30 other finalists for the Igniting Innovation Award.
+Recently, [Data.gov](http://www.data.gov/) and DigitalGov’s [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) were recognized by the [American Council for Technology and Industry Advisory Council](https://actiac.org/) (ACT-IAC), among 30 other finalists for the Igniting Innovation Award.
 
 ACT-IAC’s 2015 Igniting Innovation Showcase and Awards recognized tools, solutions, services and programs developed by government and industry leaders. Finalists were selected from a field of more than 100 candidates, including federal projects such as the Transportation Security Administration’s [TSA Pre✓®](http://www.tsa.gov/tsa-precheck) and NASA’s [Personal Identity Verification (PIV) Derived Credentials](https://apps.nasa.gov/blog/october-2014-cima-news-and-metrics). Data.gov and DAP were among the top 30 finalists for this year’s awards.
 
@@ -40,5 +40,5 @@ The winner was [NYCStreets Permit Management System](http://www.nycstreets.net/p
 
 ACT-IAC has a [full list of the 30 finalists](https://actiac.org/custom-links/13343/68020/67416) that were recognized at the Awards.
 
-_If you are not a current DAP user, you can [learn more about DAP on DigitalGov.gov]({{< ref "/guide/dap/_index.md" >}}). You can also read [articles](({{< ref "/topics/metrics" >}})) and attend [free training on analytics, metrics and other digital government subjects]({{< ref "/events" >}})._
+_If you are not a current DAP user, you can [learn more about DAP on DigitalGov.gov]({{< ref "/guides/dap/_index.md" >}}). You can also read [articles](({{< ref "/topics/metrics" >}})) and attend [free training on analytics, metrics and other digital government subjects]({{< ref "/events" >}})._
 _The author would like to thank Deborah Ruiz, GSA Communications Specialist, for her assistance with this article._

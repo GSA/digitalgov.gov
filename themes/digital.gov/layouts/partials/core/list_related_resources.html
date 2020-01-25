@@ -1,14 +1,28 @@
 {{/* Key Resources — 
 A list of the most important resources tagged with the same topic */}}
 
-{{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
-{{- $resources := (where .Pages "Section" "resources") -}}
+
+{{/* Define the $resources variable */}}
+{{- $resources := "" -}}
+
+{{/* If this is being used on a TOPICS list page... */}}
+{{- if eq .Kind "taxonomy" -}}
+  {{/* Of the pages that have this topic, this returns the pages in the "Resources" section */}}
+  {{- $resources = (where .Pages "Section" "resources") -}}
+{{- end -}}
+
+{{/* If this is being used on a PAGE (e.g. like as in a shortcode...) */}}
+{{- if or (eq .Page.Kind "page") (eq .Page.Kind "section") -}}
+  {{/* gets all pages in the site that are related, via the partial */}}
+  {{/* gets only the related resource pages */}}
+  {{- $resources = .Resources -}}
+{{- end -}}
+
 
 {{/* If there are any resources at all... */}}
 {{- if $resources -}}
-
 <div class="list-collection">
-  <h2>Resources on {{ .Title -}}  </h2>
+  {{- if eq .Kind "taxonomy" -}}<h2>Resources on {{ .Title -}}</h2>{{- end -}}
   <ul>
     {{- range sort $resources "Title" "asc" -}}
 
@@ -20,7 +34,7 @@ A list of the most important resources tagged with the same topic */}}
 
           {{/* If there is a defined source for this page */}}
           {{- if .Params.source -}}
-            {{- $source := $.Site.GetPage "page" (print "source_" .Params.source ) -}}
+            {{- $source := .Site.GetPage (print "source_" .Params.source ) -}}
             {{- if $source.Params.icon -}}
 
               {{/*
@@ -54,7 +68,7 @@ A list of the most important resources tagged with the same topic */}}
 
           {{/* Use the digital.gov logo */}}
           {{- $source_url := (print "/img/digit-50.png") -}}
-          <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Title | markdownify -}}</span>
+          <img class="thumb" src="{{- $source_url | relURL -}}" alt="{{- .Title -}} Logo" /><span>{{- .Page.Title | markdownify -}}</span>
 
         </a>
         {{- if .Params.deck -}}  — {{- .Params.deck -}}{{- end -}}

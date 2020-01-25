@@ -88,9 +88,11 @@ permalinks:
   posts                 : ":year/:month/:day/:slug/"
   events                : "event/:year/:month/:day/:slug/"
 
+# Related Posts Config
+# See: https://gohugo.io/content-management/related/#default-configuration
 related:
   threshold: 100
-  includeNewer: false
+  includeNewer: true
   toLower: false
   indices:
   - name: topics
@@ -120,66 +122,6 @@ menu:
       Identifier      : "services"
       URL             : "/services/"
       Weight          : 5
-
-  secondary:
-    - Name            : "Challenges"
-      Identifier      : "challenges"
-      URL             : "/categories/challenges/"
-      Weight          : 1
-    - Name            : "Crowdsourcing & Citizen Science"
-      Parent          : "challenges"
-      Identifier      : "crowdsourcing-and-citizen-science"
-      URL             : "/categories/crowdsourcing-and-citizen-science/"
-      Weight          : 11
-
-    - Name            : "Code"
-      Identifier      : "code"
-      URL             : "/categories/code/"
-      Weight          : 2
-    - Name            : "API"
-      Parent          : "code"
-      Identifier      : "api"
-      URL             : "/categories/api/"
-      Weight          : 20
-    - Name            : "Data"
-      Parent          : "code"
-      Identifier      : "data"
-      URL             : "/categories/data/"
-      Weight          : 21
-
-    - Name            : "Content"
-      Identifier      : "content"
-      URL             : "/categories/content/"
-
-    - Name            : "Mobile"
-      Identifier      : "mobile"
-      URL             : "/categories/mobile/"
-      Weight          : 6
-
-    - Name            : "Social media"
-      Identifier      : "social-media"
-      URL             : "/categories/social-media/"
-      Weight          : 7
-
-    - Name            : "UX"
-      Identifier      : "ux"
-      URL             : "/categories/ux/"
-      Weight          : 7
-    - Name            : "Accessibility"
-      Parent          : "ux"
-      Identifier      : "accessibility"
-      URL             : "/categories/accessibility/"
-      Weight          : 71
-    - Name            : "Design"
-      Parent          : "ux"
-      Identifier      : "design"
-      URL             : "/categories/design/"
-      Weight          : 71
-    - Name            : "User Testing & Research"
-      Parent          : "ux"
-      Identifier      : "user-testing-and-research"
-      URL             : "/categories/user-testing-and-research/"
-      Weight          : 71
 
   contribute:
     - Name            : "Write for us"

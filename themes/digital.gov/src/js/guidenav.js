@@ -1,5 +1,8 @@
 jQuery(document).ready(function($) {
 
+	var topListItem = $(".usa-current").parents("li").last();
+	$( topListItem).addClass('current');
+
 	// Cleans up the #TableOfContents from HUGO
 	// $('#TableOfContents ul').addClass('add-list-reset');
 	$('#TableOfContents > ul:first').contents().unwrap();

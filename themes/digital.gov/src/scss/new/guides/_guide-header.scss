@@ -1,5 +1,5 @@
 // Guide Header
-.guide{
+.guides{
 	// Gov banner — makes it widescreen
 	.gov-banner{
 		.usa-banner__inner{
@@ -25,12 +25,12 @@
 }
 
 
-.guide{
+.guides{
 	// ================
 	// Header styles
 
 	.hero{
-		@include u-margin-bottom(5);
+		@include u-margin-bottom(0);
 		@include u-padding-y(5);
 		@include u-bg('base-lightest');
 

@@ -254,7 +254,7 @@ Take a look at the process for [signing the terms and using the tool]({{< link "
 
 ### Is there exact wording for the Customer Satisfaction questions? Should it be exactly what’s outlined in the DAP Metrics Guidance under the Customer Satisfaction Metrics Section?
 
-The [Digital Metrics guidance]({{< link "/guide/dap/_index.md" >}} "DAP: Digital Metrics Guidance and Best Practices") provides suggested wording for gathering the four core customer satisfaction measures. This wording is based on research and is a common way that these measures are collected. You do not need to use this exact wording. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [
+The [Digital Metrics guidance]({{< link "/guides/dap/_index.md" >}} "DAP: Digital Metrics Guidance and Best Practices") provides suggested wording for gathering the four core customer satisfaction measures. This wording is based on research and is a common way that these measures are collected. You do not need to use this exact wording. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [
   ](http://www.howto.gov/web-content/digital-metrics#customer-satisfaction-metrics)
 
 ### How should we report the Customer Satisfaction Metrics?
@@ -268,7 +268,7 @@ For Customer Satisfaction:
 
 ### How should we structure the data? Open ended? Numeric scale?
 
-The data you report should be structured and quantitative. Don’t report the open ended answers to questions. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [See the guidance on customer satisfaction metrics.]({{< link "/guide/dap/_index.md" >}}"Digital Metrics for Federal Agencies")
+The data you report should be structured and quantitative. Don’t report the open ended answers to questions. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [See the guidance on customer satisfaction metrics.]({{< link "/guides/dap/_index.md" >}}"Digital Metrics for Federal Agencies")
 
 ### How frequently should we be prompting for a survey?
 
