@@ -1,8 +1,10 @@
 ---
-date: 2019-12-31 12:00:00 -0500
-title: 'Guides'
-deck: "TKTK"
-summary: 'TKTK'
-guide: guide
-redirectto: /resources
+date: 2019-11-01 3:00:00 -0400
+title: "Digital.gov Style Guide"
+summary: ""
+deck: ""
+guide: style-guide
+
 ---
+
+TKTK
