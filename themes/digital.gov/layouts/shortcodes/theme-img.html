@@ -1,0 +1,13 @@
+{{/* For rendering images that are stored in the theme. */}}
+{{/* Mostly used in the style guide. */}}
+
+{{- if .Get "path" -}}
+{{- $path := .Get "path" -}}
+
+<div class="theme-img {{ if .Get "bg" -}}{{- .Get "bg" -}}{{- end -}}">
+  <img src="{{- $path | relURL -}}" alt="{{- .Get "alt" -}}" {{ if .Get "width" -}}width="{{- .Get "width" -}}"{{- end -}}>
+  <p><strong class="ext">{{- path.Ext $path }}</strong> {{- path.Base $path }} <a class="download" href="{{- path.Base $path | relURL -}}"><i class="fas fa-file-download"></i> <span>download</span></a>
+  </p>
+</div>
+
+{{- end -}}

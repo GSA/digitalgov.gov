@@ -8,7 +8,7 @@ guide: style-guide
 
 Articles for Digital.gov use an informal, conversational tone.
 
-### Conscious Inclusivity
+## Conscious Inclusivity
 
 Not everyone who uses government services or engages with federal agencies are U.S. citizens. When appropriate, use phrases or words such as: the public, users, people, or folks.
 
