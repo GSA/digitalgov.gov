@@ -36,7 +36,7 @@ The RPA Community of Practice (CoP) pursues a bifurcated mission. First, the org
 
 The second element of the RPA CoP mission is to provide knowledge sharing and mentoring to organizations looking to start an RPA program or to evolve their current RPA services. This **RPA Playbook** is a small part of the CoP’s knowledge sharing efforts, which also include frequent cross-government collaborative meetings, communications, thought leadership pieces, webinars, and workshops.
 
-{{< button href="https://digital.gov/pdf/rpa-playbook-v1.0.pdf" text="Download the RPA Playbook (v1.0)" >}}
+{{< button href="https://digital.gov/pdf/rpa-playbook-v1.1.pdf" text="Download the RPA Playbook (v1.1)" >}}
 
 The RPA CoP seeks to achieve its important mission with a sense of urgency and a bias towards action. As agencies continue to learn the potential benefits of RPA, enthusiasm for developing RPA programs government-wide grows exponentially. The RPA CoP plays an important role in helping agencies convert RPA enthusiasm into action. Specifically, the CoP helps agencies develop programs that are cost effective, auditable, avoid common pitfalls, and most importantly, deploy impactful automations.
 
@@ -84,4 +84,4 @@ This community consists of representatives from more than 50 federal agencies, w
 
 ---
 
-_If you wish to unsubscribe, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)_ 
+_If you wish to unsubscribe, send an email to [FedRPA-subscribe-request@listserv.gsa.gov](mailto:FedRPA-subscribe-request@listserv.gsa.gov)_
