@@ -7,7 +7,7 @@ source_url: "https://search.gov/blog/2019-annual-review.html"
 
 # Which team published this?
 # Learn about sources at https://workflow.digital.gov/sources
-source: logingov
+source: searchgov
 slug: searchgov-2019-in-review
 date: 2020-01-27 13:00:00 -0500
 title: "Search.gov: 2019 in Review"
@@ -15,12 +15,12 @@ deck: "**In 2019, Search.gov served **295,916,305 queries across over 2,000 gove
 summary: "**In 2019, Search.gov served **295,916,305 queries across over 2,000 government websites**. Find out more in their annual report, including the common topics people search for."
 
 # see all topics at https://digital.gov/topics
-topics: 
+topics:
   - data
   - digitalgov-search
 
 # see all authors at https://digital.gov/authors
-authors: 
+authors:
   - dmccleskey
 
 # Make it better ♥
