@@ -6,18 +6,17 @@
 
 	ul.guide-nav{
 		@include u-margin-bottom(3);
-		@include u-font('sans', 'sm');
+		@include u-font('sans', 'xs');
 		li{
 			a{
+				@include u-padding-y(1);
+				@include u-padding-x('105');
 				@include u-text('black');
+				@include u-text('normal');
 				@include u-text('no-underline');
 				// Flex for the arrows
 				@include u-display('flex');
 				@include u-flex('align-center');
-
-				span.num{
-					@include u-margin-right('105');
-				}
 
 				&:hover{
 					@include u-text('underline');
@@ -45,6 +44,7 @@
 			@include u-position('relative');
 			// @include u-border-top('1px', 'base-light', 'solid');
 			& > a{
+				@include u-text('semibold');
 				&:after{
 					content: "";
 					@include u-border-left('05', 'primary-darker', 'solid');
