@@ -6,12 +6,14 @@ summary: '&ldquo;PolicyOps&rdquo; is a better way to create and implement govern
 authors:
   - bbrantley
 topics:
+  - devops
   - governance
   - product-management
   - analytics
   - data
   - OPM
   - united-states-office-of-personnel-management
+
 ---
 
 {{< legacy-img src="2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}} 
