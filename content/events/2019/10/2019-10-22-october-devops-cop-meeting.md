@@ -1,6 +1,6 @@
 ---
 slug: october-devops-cop-meeting
-title: 'October DevOps COP Meeting'
+title: 'October DevOps Community Meeting'
 summary: 'An overview of multiple Infrastructure as Code &#40;IaC&#41; tools followed by a deep-dive on how to setup a Gitlab Runner to perform GitOps functions including IaC deployments against multiple AWS environments&#46; '
 featured_image:
   uid:
