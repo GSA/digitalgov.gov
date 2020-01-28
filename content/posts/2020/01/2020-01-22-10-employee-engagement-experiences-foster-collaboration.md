@@ -26,7 +26,6 @@ primary_image: "coe-employee-engagement-unicorn-flyer"
 # Make it better ♥
 ---
 
-
 How do we attract and retain the best talent to serve in the federal government? How do we create a more agile culture? Imagine a future where all employees, from the frontlines to C-suite, take pride in being collaborative, insightful, and efficient. What role does a more inclusive and engaging human-centered workforce play in improving performance? These are big questions to hefty problems we face at the intersections of people and technology.
 
 {{< img src="coe-employee-engagement-unicorn-flyer" >}}
