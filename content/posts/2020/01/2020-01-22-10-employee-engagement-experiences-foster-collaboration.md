@@ -50,6 +50,8 @@ Teams can get creative with homemade cookies that inspire and bring more joy to 
 
 5) **Rebrand it**: if people in your office aren’t using a key service offering, try rebranding it under a more compelling name. For example, if you have a Monday morning management meeting, instead of saying “management” in the invite, use a positive phrase like “Monday Motivational” or “Mind-blowing Monday.” If people still appear to be disengaged, consider asking for feedback to understand why. Maybe there’s a deeper design or organizational issue at play. [Read more about how TTS has made data literacy policy briefings more creative with hands-on activities](https://digital.gov/2019/08/21/prototyping-engagement-workshops/).
 
+{{< img src="coe-employee-engagement-two-people" >}}
+
 6) **Map it**: maps are critical tools to get people from one location to the next. If you are exploring change in your group, try mapping the process out. Where does the process start and where are you stopping along the way? What does the experience feel like? Who can join? Where are there risks of losing people along the way? Is it really about the destination or is the process just as important? Use metaphors as appropriate — ”river of life” or “employee journey” — or you can try “the gauntlet” or “obstacle course” for more challenging conversations about barriers and roadblocks.
 
 {{< img src="coe-employee-engagement-gems-hud" >}}
@@ -57,6 +59,8 @@ Teams can get creative with homemade cookies that inspire and bring more joy to 
 7) **North Star**: can you map out a journey without a North Star? When you begin to veer off course, a North Star — or central vision — is what keeps everyone focused and moving in the right direction. It’s different than mission or goals. As you think about change in your team or office, consider a “North Star” series of development workshops to inform subsequent “mapping” workshops. Consider adding a Team Charter or Team Values to help support the operational approach and leadership brand to drive changes that everyone will believe in.
 
 8) **Pop-up Learning Labs**: new ways of doing begin with new ways of seeing. Transform a regular conference room into a pop-up Learning Lab. Invite an expert (someone from your team or from a different office) to lead a workshop so that all employees are able to learn something new on a low-cost, regular basis. For example, one might host a creative leadership workshop where people are invited to imagine 100 new ways of looking at an old, seemingly unbeatable human capital problem. Another example could be an overview of artificial intelligence from both the people and data perspectives. No ideas are bad ideas in Learning Labs.
+
+{{< img src="coe-employee-engagement-learning-lab" >}}
 
 9) **Prototype everything**: prototyping isn’t just for human-centered design processes or agile software development. The modern work experience is about hosting more frequent check-ins with teams, supervisors, peers, and collaborators. The Census' [Opportunity Project](https://opportunity.census.gov/) is a good example of a collaborative prototyping platform. Annual performance reviews still exist but it’s the everyday feedback exchange that really matters. For example, send a prototype outline of a presentation before sending the whole deck to your leadership. Write a strategic plan out in pencil with index cards as a team before you close your office door to start writing. Get feedback early and often to ensure everyone is aligned and engaged.
 
