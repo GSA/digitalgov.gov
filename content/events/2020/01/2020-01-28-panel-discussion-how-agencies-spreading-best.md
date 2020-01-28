@@ -7,7 +7,7 @@ kicker: "DevOps"
 title: "How Agencies Are Spreading Best Practices"
 deck: "A panel discussion with people from six different agencies on how they share technical best practices in their organizations."
 summary: "Join the DevOps Community of Practice in a panel discussion as different agencies share technical best practices in various offices."
-host: "DevOps Community of Practice"
+host: "DevOps CoP"
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/88923583833
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4309720&CustomerID=321
@@ -23,6 +23,9 @@ event_platform: zoom
 
 # YouTube ID
 youtube_id: 
+
+topics: 
+  - devops
 
 ---
 
