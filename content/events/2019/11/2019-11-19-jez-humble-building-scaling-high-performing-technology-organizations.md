@@ -10,9 +10,10 @@ event_type:
 date: 2019-11-19 13:00:00 -0500
 end_date: 2019-11-19 14:00:00 -0500
 event_organizer: DigitalGov University
-host: DevOps Community
+host: DevOps CoP
 youtube_id: j6jxW_bax3Y
-
+topics: 
+  - devops
 
 ---
 
