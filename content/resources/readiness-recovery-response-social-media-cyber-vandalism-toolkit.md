@@ -127,12 +127,12 @@ Alerts of suspicious activity on social media can come from anywhere, including 
 
 ### 1. Contact Information to Recover Control After Cyber-Vandalism
 
-  1. **Facebook:** [Online form for Facebook](https://www.facebook.com/help/131719720300233/); Email: <gov@fb.com>; Email: <justin.herman@gsa.gov> and <betsy.steele@gsa.gov>
-  2. **Twitter:** [Online form for Twitter](https://support.twitter.com/articles/185703-my-account-has-been-hacked); Email: <Gov@Twitter.com>; Email: <justin.herman@gsa.gov> and <betsy.steele@gsa.gov>
-  3. **LinkedIn:** [Respond to and Report Various Issues](https://help.linkedin.com/app/safety/answers/detail/a_id/146); Email: <LCSHelp@linkedin.com>; Email: <mcirrito@linkedin.com>; Email: justin.herman@gsa.gov and <betsy.steele@gsa.gov>
-  4. **Instagram:** [Online form for Instagram](https://help.instagram.com/368191326593075); Email: <government@FB.com>; Email: <justin.herman@gsa.gov> and <betsy.steele@gsa.gov>
-  5. **Vine:** [Online form for Vine](https://support.twitter.com/forms/vine); Email: <Gov@Twitter.com>; Email: <justin.herman@gsa.gov> and <betsy.steele@gsa.gov>
-  6. **Hootsuite:** Email: <Support@hootsuite.com>; Email: <sajji.hussein@hootsuite.com>; Email: <justin.herman@gsa.gov> and <betsy.steele@gsa.gov>
+  1. **Facebook:** [Online form for Facebook](https://www.facebook.com/help/131719720300233/); Email: <gov@fb.com>;
+  2. **Twitter:** [Online form for Twitter](https://support.twitter.com/articles/185703-my-account-has-been-hacked); Email: <Gov@Twitter.com>;
+  3. **LinkedIn:** [Respond to and Report Various Issues](https://help.linkedin.com/app/safety/answers/detail/a_id/146); Email: <LCSHelp@linkedin.com>; Email: <mcirrito@linkedin.com>;
+  4. **Instagram:** [Online form for Instagram](https://help.instagram.com/368191326593075); Email: <government@FB.com>;
+  5. **Vine:** [Online form for Vine](https://support.twitter.com/forms/vine); Email: <Gov@Twitter.com>;
+  6. **Hootsuite:** Email: <Support@hootsuite.com>; Email: <sajji.hussein@hootsuite.com>; 
 
 ### 2. Audit your social media inventory
 
